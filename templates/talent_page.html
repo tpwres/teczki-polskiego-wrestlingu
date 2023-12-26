@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{%- import "macros/career.html" as macros %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+
+{{ page.content | safe }}
+
+{% if not page.extra.omit_career %}
+<h2>Career</h2>
+{% include "career.html" %}
+{% endif %}
+
+<p class="tagsData">
+    {% if page.taxonomies.tags %}
+    {% for tag in page.taxonomies.tags %}
+    <a href="/tags/{{ tag | slugify }}">&#47;{{ tag }}&#47;</a>
+    {% endfor %}
+    {% endif %}
+</p>
+{% endblock content %}

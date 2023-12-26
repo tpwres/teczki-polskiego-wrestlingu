@@ -1,0 +1,64 @@
+{% set data = load_data(literal=body,format="yaml") %}
+
+<h3>Card</h3>
+
+<details>
+    <summary>Toggle results</summary>
+    <card>
+        <header>
+            <span>No.</span>
+            <span class="p">Results</span>
+            <span class="c">Stipulations</span>
+        </header>
+    {% for row in data %}
+        {% set final = row | last %}
+        {% set winner = row | first %}
+        <match>
+            <span>{{loop.index}}</span>
+            <span class="p">
+                {{ winner | markdown(inline=true) | safe }}
+                d.
+                {% if final is object %}
+                    {{ row | slice(start=1, end=-1) | join(sep=" and ") | markdown(inline=true) | safe }}
+                {% else %}
+                    {{ row | slice(start=1) | join(sep=" and ") | markdown(inline=true) | safe }}
+                {% endif %}
+                {% if final is object and final.r %}
+                   via {{ final.r }}
+                {% endif %}
+            </span>
+            <span class="c">
+                {% if final is object %}
+                    {{ final | get(key="c", default="") }} {{ final | get(key="s", default="") }}
+                {% endif %}
+            </span>
+        </match>
+        {% endfor %}
+    </card>
+</details>
+
+<card>
+    <header>
+        <span>No.</span>
+        <span class="p">Participants</span>
+        <span class="c">Stipulations</span>
+    </header>
+{% for row in data %}
+    {% set final = row | last %}
+    <match>
+        <span>{{loop.index}}</span>
+        <span class="p">
+            {% if final is object %}
+                {{ row | slice(start=0, end=-1) | sort | join(sep=" vs ") | markdown(inline=true) | safe }}
+            {% else %}
+                {{ row | sort | join(sep=" vs ") | markdown(inline=true) | safe }}
+            {% endif %}
+        </span>
+        <span class="c">
+            {% if final is object %}
+                {{ final | get(key="c", default="") }} {{ final | get(key="s", default="") }}
+            {% endif %}
+        </span>
+    </match>
+    {% endfor %}
+</card>

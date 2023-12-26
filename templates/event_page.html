@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<link rel="stylesheet" href="/events.css"/>
+<h1>{{ page.title }}</h1>
+
+{{ page.content | safe }}
+
+<p class="tagsData">
+{% if page.taxonomies.tags %}
+{% for tag in page.taxonomies.tags %}
+<a href="/tags/{{ tag | slugify }}">&#47;{{ tag }}&#47;</a>
+{% endfor %}
+{% endif %}
+</p>
+{% endblock content %}
