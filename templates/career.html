@@ -4,10 +4,10 @@
 
 <h3>Matches per promotion and year</h3>
 
-{% set_global years = [] %}
-{% for year, _ignore in mycareer %}
-{% set_global years = years | concat(with=year) %}
-{% endfor %}
+{% set_global years = [] -%}
+{% for year, _ignore in mycareer -%}
+{% set_global years = years | concat(with=year) -%}
+{% endfor -%}
 
 <div class="career-mpy">
   <div class="header">
@@ -25,5 +25,16 @@
   {% endfor -%}
 </div>
 
-<h3>All matches TODO</h3>
+<h3>All matches</h3>
+<pre>
+TODO build_matches.py
+
+- reads e/ event pages
+- reads card() section content as yaml
+- aggregates by talent name, stripping link from markdown if necessary
+- outputs a map of { talent_name: [ match_details, match_details ]
+- where match_details is { org:, date:, participants:, options: }
+- and options is { c: championship, s: stipulation }
+- doesn't note winners, or resolution
+</pre>
 {#% include "matchlist.html" %#}
