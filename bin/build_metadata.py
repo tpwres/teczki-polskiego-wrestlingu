@@ -1,29 +1,12 @@
 #! /usr/bin/env python3
 
 import re
-import tomllib # Requires python 3.11
 from pathlib import Path
 from datetime import datetime
 from collections import Counter
 import json
 
-
-def extract_front_matter(text):
-    matter = []
-    lines = iter(text.split("\n"))
-    while True:
-        line = next(lines)
-        if line == "+++": break
-
-    while True:
-        line = next(lines)
-        if line == "+++": break
-        matter.append(line)
-
-    return "\n".join(matter)
-
-def parse_front_matter(text):
-    return tomllib.loads(extract_front_matter(text))
+from utils import parse_front_matter, RichEncoder
 
 # Not strictly necessary as the career hash can be used to pull the same info
 def update_years_active(years, data):
@@ -53,16 +36,6 @@ def update_career(career, data):
         year = entry.setdefault(event_date.year, Counter())
         year.update([org])
 
-class RichEncoder(json.JSONEncoder):
-    def default(self, obj):
-        match obj:
-            case set():
-                return list(obj)
-            case Counter():
-                return dict(obj)
-            case _:
-                return super().default(obj)
-
 def main():
     years_active = {}
     career = {}
@@ -76,8 +49,10 @@ def main():
     for page in event_pages:
         print("Loading %s" % page)
         page_date = datetime.strptime(page.stem[:10], "%Y-%m-%d").date()
-        org = date_org_re.match(page.stem).group(1)
-        defaults = { 'date': page_date, 'org': org }
+
+        defaults = { 'date': page_date, 'org': None }
+        if org_match := date_org_re.match(page.stem):
+            defaults['org'] = org_match.group(1)
 
         text = page.read_text(encoding='utf-8')
         front_matter = defaults | parse_front_matter(text)
