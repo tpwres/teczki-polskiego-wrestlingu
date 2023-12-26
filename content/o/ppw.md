@@ -1,6 +1,7 @@
 +++
 title = "PpW Ewenement"
 weight = 2
+template = "org_page.html"
 +++
 
 * Facebook: [OficjalnePPW](https://www.facebook.com/OficjalnePPW)
