@@ -1,0 +1,28 @@
+
+{% set path = "data/roster_" ~ page.slug ~ ".json" -%}
+{% set roster = load_data(path=path) -%}
+
+{% set_global roster_names = [] -%}
+{% for name, _ignore in roster %}
+{% set_global roster_names = roster_names | concat(with=name) %}
+{% endfor %}
+
+<h2>All-time roster</h2>
+
+<table>
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Matches</td>
+        </tr>
+    </thead>
+    <tbody>
+        {# TODO: this sorts link names after unlinked names #}
+        {% for name in roster_names|sort %}
+        <tr>
+            <td>{{name | markdown(inline=true) | safe}}</td>
+            <td>{{roster | get(key=name)}}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
