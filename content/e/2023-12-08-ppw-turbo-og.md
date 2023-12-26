@@ -3,10 +3,7 @@ title = "PpW Turbo OG"
 template = "event_page.html"
 [extra]
 venue = "2kola"
-all_talent = ["Feager", "Jacob Crane", "Ricardo Diesel", "Adam Wong", "Rafi", "Goblin", "Gustav Gryffin", "Biesiad", "Isnorr", "Johnny Blade", "Chris X", "Michael HT"]
-card = [
-    ["[Bill Feager](@/w/feager.md)", "[Jacob Crane](@/w/jacob-crane.md)"],
-]
+city = "Warszawa"
 +++
 
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2 Koła](@/v/2kola.md) club.
@@ -18,7 +15,7 @@ Because of the low capacity of the venue, the attendance was lower than other ev
 - ["Mister Z", "Asara"]
 - ["Ricardo Diesel", "Adam Wong", "[Rafi](@/w/rafi.md)", s: "3-way match"]
 - ["Goblin", "Gustav Gryffin"]
-- ["Biesiad", "Isnorr", r: "DQ"]
+- ["Biesiad Strong", "Isnorr", r: "DQ"]
 - - Johnny Blade
   - Chris X
   - s: "Hardcore match"
