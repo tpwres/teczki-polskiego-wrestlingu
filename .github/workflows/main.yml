@@ -6,6 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
       - name: checkout
         uses: actions/checkout@v4
       - name: build intermediate data
