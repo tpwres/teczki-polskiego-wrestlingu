@@ -15,8 +15,9 @@ jobs:
       - name: build intermediate data
         run: |
           echo "::group::Building intermediate data"
-          bin/build_roster.py
+          mkdir -p data
           bin/build_metadata.py
+          bin/build_roster.py
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.17.2
         env:
