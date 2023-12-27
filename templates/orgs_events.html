@@ -1,0 +1,21 @@
+{% set events_section = get_section(path="e/_index.md") -%}
+{% set events_by_year = events_section.pages | group_by(attribute="year") -%}
+{% set_global years = [] -%}
+{% for year, _ign in events_by_year -%}{% set_global years = years | concat(with=year) %}{% endfor -%}
+
+{% for thisyear in years|sort|reverse %}
+  <h2>{{ thisyear }}</h2>
+  <ul>
+      {% for event_page in events_by_year[thisyear] -%}
+        {% set xtra = event_page.extra %}
+        {% set orgs = xtra | get(key="orgs", default=[]) %}
+        {% if orgs is containing(page.slug) %}
+      <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a></li>
+        {% elif event_page.slug is containing(page.slug) %}
+          <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+{% endfor %}
+
+
