@@ -22,6 +22,8 @@ In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeare
 
 PpW used to have a Wikia page with detailed internal lore, including storied feuds, rankings, character backgrounds. This went defunct in 2023, and is no longer available, even on Internet Archive's Wayback Machine. Snippets can still be found in cached results on Google when searching for certain related terms, but most of it is lost.
 
+That wiki was located at `ppwofficial.fandom.com` (and `ppwofficial.wikia.com` earlier before the renaming).
+
 ## Botchamania
 
 PpW made Botchamania once. During a match on [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu]? on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
