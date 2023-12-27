@@ -8,6 +8,11 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
+      - name: build intermediate data
+        run: |
+          echo "::group::Building intermediate data"
+          bin/build_roster.py
+          bin/build_metadata.py
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.17.2
         env:
