@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-<link rel="stylesheet" href="/events.css"/>
+<link rel="stylesheet" href="{{ get_url(path="/events.css") }}"/>
 <h1>{{ page.title }}</h1>
 
 {{ page.content | safe }}
