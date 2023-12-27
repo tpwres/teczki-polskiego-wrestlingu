@@ -9,7 +9,7 @@
 - Event page is always named `YYYY-MM-DD-org-event-name.md`
 - If there's more than one org, separate them by underscores: `YYYY-MM-DD-org1_org2-event-name.md`
 - If possible, link to social media pages linked to the event. Link to cagematch if listed there.
-- If available, link to press coverage of the event, and notable references (Wikipedia is notable).
+- If available, link to press coverage of the event, and notable references (e.g. Wikipedia, WrestleMap).
 - If available as VOD, link to wherever it can be found currently. Free and paid options. Not just the streaming service, but a link to the relevant video page. This may mean a youtube link, but also a Fite, Dazn, or other more obscure video sites. They will get stale, but there's not much we can do here.
 - Intro text should reference time and date, and if relevant, any circumstances which may have caused such a date or event.
 - If possible, describe relevant storylines as they were going into the event. Most importantly, existing feuds.
