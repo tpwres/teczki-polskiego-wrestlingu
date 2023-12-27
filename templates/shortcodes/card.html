@@ -2,6 +2,7 @@
 
 <h3>Card</h3>
 
+{# TODO: Disable results for upcoming events #}
 {# Results are displayed before the card. This is because the stylesheet hides a <card> element that follows an open <details> element. By default the details element is closed, and the results are not shown. #}
 <details>
     <summary>Toggle results</summary>
@@ -14,24 +15,37 @@
     {% for row in data %}
         {% set final = row | last %}
         {% set winner = row | first %}
+        {% if final is object %}
+          {% set others = row | slice(start=1, end=-1) %}
+          {% set title = final | get(key="c", default="") %}
+          {% set stip = final | get(key="s", default="") %}
+        {% else %}
+          {% set others = row | slice(start=1) %}
+          {% set title = "" %}
+          {% set stip = "" %}
+        {% endif %}
+        {% if final is object and final.nc %}
+          {% set sep = "vs" %}
+        {% else %}
+          {% set sep = "d." %}
+        {% endif %}
         <match>
             <span>{{loop.index}}</span>
             <span class="p">
                 {{ winner | markdown(inline=true) | safe }}
-                d.
+                {{ sep }}
+                {{ others | join(sep=" and ") | markdown(inline=true) | safe }}
                 {% if final is object %}
-                    {{ row | slice(start=1, end=-1) | join(sep=" and ") | markdown(inline=true) | safe }}
-                {% else %}
-                    {{ row | slice(start=1) | join(sep=" and ") | markdown(inline=true) | safe }}
-                {% endif %}
-                {% if final is object and final.r %}
-                   via {{ final.r }}
+                    {% if final.r %}
+                        via {{ final.r }}
+                    {% elif final.nc %}
+                        - {{ final.nc }}
+                    {% endif %}
                 {% endif %}
             </span>
             <span class="c">
-                {% if final is object %}
-                    {{ final | get(key="c", default="") }} {{ final | get(key="s", default="") }}
-                {% endif %}
+                {{ title }}
+                {{ stip }}
             </span>
         </match>
         {% endfor %}
@@ -46,19 +60,23 @@
     </header>
 {% for row in data %}
     {% set final = row | last %}
+    {% if final is object %}
+      {% set talent = row | slice(end=-1) | sort %}
+      {% set title = final | get(key="c", default="") %}
+      {% set stip = final | get(key="s", default="") %}
+    {% else %}
+      {% set talent = row | sort %}
+      {% set title = "" %}
+      {% set stip = "" %}
+    {% endif %}
     <match>
         <span>{{loop.index}}</span>
         <span class="p">
-            {% if final is object %}
-                {{ row | slice(start=0, end=-1) | sort | join(sep=" vs ") | markdown(inline=true) | safe }}
-            {% else %}
-                {{ row | sort | join(sep=" vs ") | markdown(inline=true) | safe }}
-            {% endif %}
+            {{ talent | join(sep=" vs ") | markdown(inline=true) | safe }}
         </span>
         <span class="c">
-            {% if final is object %}
-                {{ final | get(key="c", default="") }} {{ final | get(key="s", default="") }}
-            {% endif %}
+            {{ title }}
+            {{ stip }}
         </span>
     </match>
     {% endfor %}
