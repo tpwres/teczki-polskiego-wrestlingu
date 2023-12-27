@@ -74,16 +74,22 @@ def sanitize_roster(roster):
     # Collapse so that if there are both for a single person,
     # only the markdown one remains, and its value is the sum of both entries.
     # NOTE: The argument is destructively modified
-    markdown_link_re = re.compile(r'^\[(.*)\]\(.*\)$')
+    markdown_link_re = re.compile(r'^\[(.*)(?:\(c\)\))\]\(.*\)$')
     link_names = [name for name in roster.keys() if markdown_link_re.match(name)]
     out = {}
     for linked_name in link_names:
         # TODO: Consider also collapsing entries based on link target
-        # TODO: Strip (c) champion marker. Or consider a different way to mark current champions.
         plain_name = markdown_link_re.match(linked_name).group(1)
         out[linked_name] = roster[linked_name] + roster.get(plain_name, 0)
         del roster[plain_name]
         del roster[linked_name]
+
+    # Strip (c) champion marker from plain names
+    keys = [k for k in roster.keys() if "(c)" in k]
+    for champ_name in keys:
+        plain_name = champ_name.replace("(c)", "").strip()
+        roster[plain_name] += roster[champ_name]
+        del roster[champ_name]
 
     return roster | out
 
