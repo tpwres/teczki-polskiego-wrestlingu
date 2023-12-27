@@ -23,7 +23,6 @@
   - wrestlers
   - managers
   - valets
-  - authority figures
   - ring announcers
   - MCs
   - authority figures
@@ -59,12 +58,11 @@
 # Events not in Poland
 
 - Not allowed as event pages.
-- However, if an organization was named and involved in an event that took place outside of Poland, it's worth a mention on that organization's page.
+- However, if an organization was named and involved in an event held outside of Poland, it's worth a mention on that organization's page.
 
 # Organizations not from Poland
 
-- Not allowed as organization pages. This means no WWE, AEW, NJPW.
-- If talent from that organization appeared in a match that took place in Poland, it can be mentioned in that event's page.
+- Allowed as organization pages if they held an event in Poland (this means WWE can have a page).
 
 # Photo policy
 
