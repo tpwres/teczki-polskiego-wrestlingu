@@ -74,7 +74,7 @@ def sanitize_roster(roster):
     # Collapse so that if there are both for a single person,
     # only the markdown one remains, and its value is the sum of both entries.
     # NOTE: The argument is destructively modified
-    markdown_link_re = re.compile(r'^\[(.*)(?:\(c\)\))\]\(.*\)$')
+    markdown_link_re = re.compile(r'^\[(.*)(?:\(c\))?\]\(.*\)$')
     link_names = [name for name in roster.keys() if markdown_link_re.match(name)]
     out = {}
     for linked_name in link_names:
