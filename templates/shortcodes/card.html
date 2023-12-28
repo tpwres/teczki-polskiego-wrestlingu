@@ -4,6 +4,8 @@
 
 {# TODO: Disable results for upcoming events #}
 {# Results are displayed before the card. This is because the stylesheet hides a <card> element that follows an open <details> element. By default the details element is closed, and the results are not shown. #}
+{% set hide_results = page.extra | get(key="hide_results", default=false) -%}
+{% if not hide_results %}
 <details>
     <summary>Toggle results</summary>
     <card>
@@ -51,6 +53,7 @@
         {% endfor %}
     </card>
 </details>
+{% endif %}
 
 <card>
     <header>
