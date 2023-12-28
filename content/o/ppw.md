@@ -16,6 +16,8 @@ The word "ewenement" means something unique, special and not easily replicated, 
 
 While its beginnings reach as far back as 2016 or earlier, until about 2020 it was considered a backyard, and not widely recognized. From these early years, not many people still remain active. In 2020, PpW started to cooperate with the Polish and European wrestling scenes, inviting wrestlers to their events, and participating in training and other events by promotions in Sweden and Austria. 2022 saw them cooperate with MZW in a joint event during a craft beer festival in Poznań, with a reprise the following year. In 2023, PpW was recognized by Cagematch, and some of its events and wrestlers have been added to their database. WrestleMap features news about PpW since 2021.
 
+Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, all of which can be traced back to DDW.
+
 In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeared on PpW shows, quitting their promotion openly and criticizing its owner on social media. This further boosted PpW's image on the Polish scene, as a place dedicated to the joy of wrestling, and not commercial endeavors.
 
 ### Lost Lore
