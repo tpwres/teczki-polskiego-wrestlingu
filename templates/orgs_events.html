@@ -6,7 +6,7 @@
 {% for thisyear in years|sort|reverse %}
   <h3>{{ thisyear }}</h3>
   <ul>
-      {% for event_page in events_by_year[thisyear] -%}
+      {% for event_page in events_by_year[thisyear] | sort(attribute="date") | reverse -%}
         {% set xtra = event_page.extra %}
         {% set orgs = xtra | get(key="orgs", default=[]) %}
         {% if orgs is containing(page.slug) %}
