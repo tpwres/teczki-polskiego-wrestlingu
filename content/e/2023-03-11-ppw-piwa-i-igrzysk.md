@@ -20,9 +20,9 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 - ["Steve Kuningas", "Isnorr"]
 - ["Ricardo Diesel", "Tony Sk1n", s: "Loser Leaves PpW"]
 - ["Kapitan Bazooka", "Johnny Blade"]
-- ["Biesiad Strong", "Stanislaw Van Dobroniak"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "Stanislaw Van Dobroniak"]
 {% end %}
 
-After the match, Kapitan Bazooka confronted Biesiad Strong in the ring, setting up their match at the [next event](@/e/2023-05-06-ppw-mistrzowskie-rozdanie.md).
+After the match, Kapitan Bazooka confronted [Biesiad Strong](@/w/biesiad.md) in the ring, setting up their match at the [next event](@/e/2023-05-06-ppw-mistrzowskie-rozdanie.md).
 * Referees: Sędzia Kornel, Sędzia Borys
 * Ring announcer and MC: Michael HT

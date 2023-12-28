@@ -15,7 +15,7 @@ The event's name references the previous [Back to the OG](@/e/2023-02-04-ppw-bac
 - ["Mister Z", "Asara"]
 - ["Ricardo Diesel", "Adam Wong", "[Rafi](@/w/rafi.md)", s: "3-way match"]
 - ["Goblin", "Gustav Gryffin"]
-- ["Biesiad Strong", "Isnorr", r: "DQ"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "Isnorr", r: "DQ"]
 - - Johnny Blade
   - Chris X
   - s: "Hardcore match"

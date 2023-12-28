@@ -13,6 +13,6 @@ hide_results=true
 - ["Adam Wong", "Feyyaz Aguila", nc: "?"]
 - ["Isnorr", {s: "Open Challenge", nc: "?"}]
 - ["Jacob Crane", "Steve Kuningas"]
-- ["Biesiad Strong", "Mister Z", c: "PpW Championship"]
-- ["Johnny Blade", "Stanislaw Van Dobroniak", c: "PpW European Ultraviolent Championship"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "Mister Z", c: "[PpW Championship](@/o/ppw.md#championships)"]
+- ["Johnny Blade", "Stanislaw Van Dobroniak", c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)"]
 {% end %}

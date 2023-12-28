@@ -19,6 +19,6 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 - ["Ricardo Diesel", "Tony Sk1n", nc: "?"]
 - ["Asara", "SkullEvil", nc: "?"]
 - ["Bill Feager", "Adam Wong", nc: "?"]
-- ["Biesiad Strong", "Osamu", s: "PpW Championship Match"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "Osamu", s: "PpW Championship Match"]
 - ["Johnny Blade", "Viking", {s: "Chaos Gods Deathmatch", c: "PpW European Ultraviolent Championship"}]
 {% end %}

@@ -11,7 +11,7 @@ Piwo Przyjacielem Wrestlingu (_"Beer Is Wrestling's Friend"_) was an event by Pp
 The card is approximate and incomplete.
 
 {% card() %}
-- - "Team Biesiad: Biesiad Strong, Adam Wong, Goblin"
+- - "Team Biesiad: [Biesiad Strong](@/w/biesiad.md), Adam Wong, Goblin"
   - "Team Mister Z: Mister Z, Isnorr, Gustav Gryffin, Kapitan Bazooka"
   - nc: "?"
     s: "4 vs 4 Elimination Match"

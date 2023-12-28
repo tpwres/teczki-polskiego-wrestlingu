@@ -11,6 +11,6 @@ city = "Warszawa"
 {% card() %}
 - ["Ricardo Diesel", "Bill Feager", nc: "?"]
 - ["Kapitan Bazooka", "Prince Striker", nc: "?"]
-- ["Mister Z vs Jacob Crane", nc: "?"]
-- ["Biesiad Strong", "Isnorr", {c: "PpW Championship", s: "Hardcore Match"}]
+- ["Mister Z", "Jacob Crane", nc: "?"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "Isnorr", {c: "PpW Championship", s: "Hardcore Match"}]
 {% end %}

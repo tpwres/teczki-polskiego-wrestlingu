@@ -11,7 +11,7 @@ city = "Warszawa"
 
 {% card() %}
 - ["Tony Sk1n", "Adam Wong", "Bill Feager", s: "Three Way Match"]
-- ["Biesiad Strong", "Isnorr", s: "Last Man Standing Match"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "Isnorr", s: "Last Man Standing Match"]
 - ["Rob Scaffold", "Direk", s: "Hardcore Match"]
 - ["Mister Z", "Osamu", c: "PpW Championship"]
 {% end %}
