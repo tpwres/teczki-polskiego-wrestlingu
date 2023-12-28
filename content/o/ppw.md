@@ -28,14 +28,14 @@ That wiki was located at `ppwofficial.fandom.com` (and `ppwofficial.wikia.com` e
 
 ## Botchamania
 
-PpW made Botchamania once. During a match on [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu]? on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
+PpW made Botchamania once. During a match on [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
 
 ## Championships
 
 | Championship | Current champion(s) | Notes |
 |--|--|--|
-| PpW Championship | Steve Kuningas | Defeated Biesiad Strong at [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md). |
-| PpW European Ultraviolent Championship | Stanislaw Van Dobroniak | Defeated Johnny Blade at [Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md) for the newly created title. |
+| PpW Championship | Steve Kuningas | Defeated Biesiad Strong at [Ledwo Legalne III](@/e/2023-06-17-ppw-ledwo-legalne-3.md). |
+| PpW European Ultraviolent Championship | Stanislaw Van Dobroniak | Defeated Johnny Blade at [Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md). |
 
 Dobroniak has defended the Ultraviolent Championship belt also outside Poland, mostly in Sweden.
 

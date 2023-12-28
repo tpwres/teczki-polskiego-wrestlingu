@@ -14,5 +14,5 @@ hide_results=true
 - ["Isnorr", {s: "Open Challenge", nc: "?"}]
 - ["Jacob Crane", "Steve Kuningas"]
 - ["Biesiad Strong", "Mister Z", c: "PpW Championship"]
-- ["Johnny Blade", "Stanislav Van Dobroniak", c: "PpW European Ultraviolent Championship"]
+- ["Johnny Blade", "Stanislaw Van Dobroniak", c: "PpW European Ultraviolent Championship"]
 {% end %}
