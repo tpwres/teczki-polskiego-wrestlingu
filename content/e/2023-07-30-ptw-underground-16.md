@@ -10,13 +10,15 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 
 ## Results
 
-| No. | Results | Stipulations |
-|--|--|--|
-| 1 | PAKA (Boro, Disco Pablo & Taras) d. Marco Hammers, Olgierd & Vic Golden | Six-man Tag Team match |
-| 2 | [Rafi Rarytas](@/w/rafi.md) d. Erik Slotir | |
-| 3 | Wiktor Longman d. Max Speed by DQ | |
-| 4 | [Diana Strong](@/w/diana-strong.md) d. Iskra | Intergender match |
-| 5 | Sinister & Syriusz Dziedzic d. Marcelito & Samson | Tag team match |
-| 6 | Puncher d. El Ogre | |
-| 7 | Nano Lopez d. Jarek Nowak | |
-| 8 | Peter Tihanyi d. Axel Fox | |
+{% card() %}
+- - "PAKA: Boro, Disco Pablo, Taras"
+  - "Marco Hammers + Olgierd + Vic Golden"
+  - s: "Six-Man Tag Team Match"
+- ["[Rafi Rarytas](@/w/rafi.md)", "Erik Slotir"]
+- ["Wiktor Longman", "Max Speed", r: "DQ"]
+- ["[Diana Strong](@/w/diana-strong.md)", "Iskra", s: "Intergender Match"]
+- ["Sinister + Syriusz Dziedzic", "Marcelito + Samson", s: "Tag Team Match"]
+- ["Puncher", "El Ogre"]
+- ["Nano Lopez", "Jarek Nowak"]
+- ["Peter Tihanyi", "Axel Fox"]
+{% end %}
