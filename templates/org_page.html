@@ -11,12 +11,33 @@
 
 {% include "all_time_roster.html" %}
 
-
 <p class="tagsData">
-{% if page.taxonomies.tags %}
-{% for tag in page.taxonomies.tags %}
-<a href="/tags/{{ tag | slugify }}">&#47;{{ tag }}&#47;</a>
-{% endfor %}
-{% endif %}
+  {% if page.taxonomies.tags -%}
+    {% for tag in page.taxonomies.tags -%}
+      <a href="/tags/{{ tag | slugify }}">&#47;{{ tag }}&#47;</a>
+    {% endfor -%}
+  {% endif -%}
 </p>
+
+<style>
+  .org-ring {
+      display: flex;
+      justify-content: space-between;
+  }
+</style>
+<nav>
+    <p style="text-align: center">Organizations</p>
+    <div class="org-ring">
+        {% if page.lower -%}
+        <span style="margin-right: auto">
+            Previous: <a href="{{ get_url(path=page.lower.path) }}">{{ page.lower.title }}</a>
+        </span>
+        {% endif -%}
+        {% if page.higher -%}
+        <span style="margin-left: auto">
+            Next: <a href="{{ get_url(path=page.higher.path) }}">{{ page.higher.title }}</a>
+        </span>
+        {% endif -%}
+  </div>
+</nav>
 {% endblock content %}
