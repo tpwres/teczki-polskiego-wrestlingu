@@ -35,7 +35,7 @@ PpW made Botchamania once. During a match on [Ledwo Legalne II](@/e/2022-05-21-p
 | Championship | Current champion(s) | Notes |
 |--|--|--|
 | PpW Championship | Steve Kuningas | Defeated Biesiad Strong at [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md). |
-| PpW European Ultraviolent Championship | Stanislaw Van Dobroniak | Defeated Johnny Blade at [Brak Mi Słów] for the newly created title. |
+| PpW European Ultraviolent Championship | Stanislaw Van Dobroniak | Defeated Johnny Blade at [Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md) for the newly created title. |
 
 Dobroniak has defended the Ultraviolent Championship belt also outside Poland, mostly in Sweden.
 
