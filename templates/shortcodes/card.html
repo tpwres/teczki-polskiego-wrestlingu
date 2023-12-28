@@ -46,7 +46,7 @@
                 {% endif %}
             </span>
             <span class="c">
-                {{ title }}
+                {{ title | markdown(inline=true) | safe }}
                 {{ stip }}
             </span>
         </match>
@@ -78,7 +78,7 @@
             {{ talent | join(sep=" vs ") | markdown(inline=true) | safe }}
         </span>
         <span class="c">
-            {{ title }}
+            {{ title | markdown(inline=true) | safe }}
             {{ stip }}
         </span>
     </match>
