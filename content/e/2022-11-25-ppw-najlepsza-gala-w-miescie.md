@@ -13,6 +13,6 @@ The event name, which translates to "Best Event In Town", is a reference to the 
 - ["Kapitan Bazooka", "Adam Wong"]
 - ["Feyyaz Aguila", "Joshua Amaru"]
 - ["Mister Z, Ricardo Diesel", "Madman Charlie, Tony Sk1n + Osamu", s: "Tag Team Match"]
-- ["Stanislaw Van Dobroniak(c)", "Johnny Blade", {s: "Casket Match", c: "PpW European Ultraviolent Title"}]
-- ["Biesiad Strong(c)", "Steve Kuningas", {s: "Ladder Match", c: "PpW Title"}]
+- ["Stanislaw Van Dobroniak(c)", "Johnny Blade", {s: "Casket Match", c: "PpW European Ultraviolent Championship"}]
+- ["Biesiad Strong(c)", "Steve Kuningas", {s: "Ladder Match", c: "PpW Championship"}]
 {% end %}

@@ -11,5 +11,5 @@ city = "Warszawa"
 - ["Madman Charlie", "Isnorr"]
 - ["Biesiad Strong", "Adam Wong"]
 - ["Hades", "Johnny Blade", {s: "Hardcore Match", nc: "Draw"}]
-- ["Osamu", "Mister Z(c)", c: "PpW Title"]
+- ["Osamu", "Mister Z(c)", c: "PpW Championship"]
 {% end %}

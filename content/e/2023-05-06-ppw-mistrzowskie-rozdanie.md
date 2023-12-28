@@ -11,6 +11,6 @@ city = "Warszawa"
 - ["Isnorr", "Joshua Amaru"]
 - ["Feyyaz Aguila", "Dominik Fischer"]
 - ["Johnny Blade", "Lexi Luxx", s: "Intergender Hardcore Match"]
-- ["Biesiad Strong", "Kapitan Bazooka", {r: "KO", c: "PpW Title"}]
+- ["Biesiad Strong", "Kapitan Bazooka", {r: "KO", c: "PpW Championship"}]
 - ["Steve Kuningas", "Aytac Bahar", "Bill Feager", "Mister Z", s: "Fatal Four Way Match"]
 {% end %}

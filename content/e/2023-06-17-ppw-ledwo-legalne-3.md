@@ -12,6 +12,6 @@ city = "Warszawa"
 - ["Mister Z", "Johnny Blade"]
 - ["Bill Feager", "Alex Berkner", "Goran", s: "Three Way Match"]
 - ["Pedrolo", "Joe Bravo"]
-- ["Stanislaw Van Dobroniak(c)", "Franz Schlederer", {s: "Death Match", c: "PPW European Ultraviolent Title"}]
-- ["Steve Kuningas", "Biesiad Strong(c)", c: "PPW Title"]
+- ["Stanislaw Van Dobroniak(c)", "Franz Schlederer", {s: "Death Match", c: "PPW European Ultraviolent Championship"}]
+- ["Steve Kuningas", "Biesiad Strong(c)", c: "PPW Championship"]
 {% end %}
