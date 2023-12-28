@@ -80,9 +80,16 @@ def sanitize_roster(roster):
     for linked_name in link_names:
         # TODO: Consider also collapsing entries based on link target
         plain_name = markdown_link_re.match(linked_name).group(1)
-        out[linked_name] = roster[linked_name] + roster.get(plain_name, 0)
+        out[linked_name] = roster.get(linked_name, 0) + roster.get(plain_name, 0)
         del roster[plain_name]
         del roster[linked_name]
+
+    # Strip (c) champion marker from linked names
+    keys = [k for k in out.keys() if "(c)" in k]
+    for champ_name in keys:
+        plain_name = champ_name.replace("(c)", "").strip()
+        out[plain_name] += out[champ_name]
+        del out[champ_name]
 
     # Strip (c) champion marker from plain names
     keys = [k for k in roster.keys() if "(c)" in k]
