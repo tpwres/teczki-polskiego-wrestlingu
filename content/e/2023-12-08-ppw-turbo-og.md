@@ -8,7 +8,9 @@ city = "Warszawa"
 
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2 Koła](@/v/2kola.md) club.
 
-The event's name references the previous [Back to the OG](@/e/2023-02-04-ppw-back-to-the-og.md) event at the same venue, and refers to the fact that 2koła is the original, first place that held their events, dating back to 2019 with [PpW@2KOŁA](@/e/2019-12-07-ppw-untitled.md). Originally Jack Harrop was to face Johnny Blade in the main event, however he was sidelined due to injury, and replaced with Chris X.
+The event's name references the previous [Back to the OG](@/e/2023-02-04-ppw-back-to-the-og.md) event at the same venue, and refers to the fact that 2koła is the original, first place that held their events, dating back to 2019 with [PpW@2KOŁA](@/e/2019-12-07-ppw-untitled.md).
+Originally British wrestler Jack Harrop was to face Johnny Blade in the main event, however he was sidelined due to injury, and replaced with Chris X.
+This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler Rafi Rarytas, complete with an immediate heel-turn.
 
 {% card() %}
 - ["[Bill Feager](@/w/feager.md)", "Jacob Crane", {s: "#1 Contender Match", c: "[PpW Championship](@/o/ppw.md#championships)"}]
@@ -34,4 +36,5 @@ Ring Announcer and MC: Michael HT
 
 ## References
 
+* [Facebook event page](https://www.facebook.com/events/1375270156727790)
 * [PpW's Facebook summary](https://www.facebook.com/OficjalnePPW/posts/pfbid0yBtcocDLLf2mU2ox3FyYjXK7Qem9hws3rW58juZudTEEXjyJG2vCDrQTrWKkywKZl)
