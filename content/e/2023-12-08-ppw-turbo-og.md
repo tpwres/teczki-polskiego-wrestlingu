@@ -8,19 +8,30 @@ city = "Warszawa"
 
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2 Koła](@/v/2kola.md) club.
 
-The event's name references the previous [Back to the OG](@/e/2023-02-04-ppw-back-to-the-og.md) event at the same venue, and refers to the fact that 2koła is the original, first place that held their events, dating back to 2019 with [PpW@2KOŁA](@/e/2019-12-07-ppw-untitled.md).
+The event's name references the previous [Back to the OG](@/e/2023-02-04-ppw-back-to-the-og.md) event at the same venue, and refers to the fact that 2koła is the original, first place that held their events, dating back to 2019 with [PpW@2KOŁA](@/e/2019-12-07-ppw-untitled.md). Originally Jack Harrop was to face Johnny Blade in the main event, however he was sidelined due to injury, and replaced with Chris X.
 
 {% card() %}
-- ["[Bill Feager](@/w/feager.md)", "Jacob Crane", s: "Extra match"]
-- ["Mister Z", "Asara"]
+- ["[Bill Feager](@/w/feager.md)", "Jacob Crane", {s: "#1 Contender Match", c: "[PpW Championship](@/o/ppw.md#championships)"}]
 - ["Ricardo Diesel", "Adam Wong", "[Rafi](@/w/rafi.md)", s: "3-way match"]
-- ["Goblin", "Gustav Gryffin"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "Isnorr", r: "DQ"]
+- ["Mister Z", "Asara"]
+- ["Goblin", "Gustav Gryffin", s: "Classic Wrestling Match"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "Isnorr", {r: "DQ", s: "Street Fight"}]
 - - Johnny Blade
   - Chris X
-  - s: "Hardcore match"
+  - s: "Christmas Massacre"
 {% end %}
 
 Referees: Kornel and Borys \
 Ring Announcer and MC: Michael HT
 
+## Aftermath
+
+* Feager won the right to face Steve Kuningas for the [PpW Championship](@/o/ppw.md#championships).
+* Goblin won by using Green Mist on Gustav, while Osamu unsuccessfully tried to interfere in their match. After the bell, the angry Gustav accosted referee Borys. Once again Osamu interfered, this time defending the referee, but that ended his alliance with Gustav, and he received a beatdown for it. Jakob Sigmarsson appeared, revealing himself as Gustav's trainer and new ally.
+* Mister Z defeated Asara with a kick to his privates and some well-placed chairs.
+* Biesiad and Isnorr took the fight outside and shot fireworks at each other, among other weapons. Chris X interfered against Biesiad, following their rivalry from [Żadnych Granic](@/e/2023-09-23-ppw_mzw-zadnych-granic.md).
+* The Christmas Massacre featured light tubes, Christmas glass baubles, and most importantly, a heavily padded and helmeted cameraman in the ring, hired by Mandecki to record Johnny's defeat in high detail up close. At one point, he blinded Johnny with a camera flash to the face. Isnorr and Biesiad also interfered in the fight.
+
+## References
+
+* [PpW's Facebook summary](https://www.facebook.com/OficjalnePPW/posts/pfbid0yBtcocDLLf2mU2ox3FyYjXK7Qem9hws3rW58juZudTEEXjyJG2vCDrQTrWKkywKZl)
