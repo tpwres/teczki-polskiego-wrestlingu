@@ -19,3 +19,4 @@ venue = "czasoprzestrzen"
 
 * [Facebook event](https://www.facebook.com/events/1031532237862352)
 * [Cagematch event](https://www.cagematch.net/?id=1&nr=375104)
+* [YouTube playlist](https://youtube.com/playlist?list=PL9jkhNR2Sx8ge-csZg10eYBYqmmANbvAK&si=SvGUMIDMmxBnxnjJ), each match is a separate video
