@@ -8,7 +8,7 @@
   <div class="nav-right">
     <ul class="nav-right-list">
       {% for link in config.extra.mensch_links %}
-      <li class="nav-right-item"><a href="{{link.url}}"><svg class="feather"><use href="{{ get_url(path="feather-sprite.svg", trailing_slash=false) }}#{{link.icon}}"/></svg></a></li>
+      <li class="nav-right-item"><a href="{{link.url}}">{{ link.name }}</a></li>
       {% endfor %}
       <li><a id="darkmodetoggle" onclick="switchTheme()"><svg class="feather"><use href="{{ get_url(path="feather-sprite.svg", trailing_slash=false) }}#moon"/></svg></a></li>
     </ul>

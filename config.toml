@@ -28,7 +28,8 @@ header_nav = [
   { url = "/about", name_en = "about" }
 ]
 mensch_links = [
-  { url  = "/o/", name = "Orgs", icon = "" },
-  { url  = "/e/", name = "Events", icon = "" },
+  { url = "/o/", name = "Promotions"  },
+  { url = "/e/", name = "Events" },
+  { url = "/w/", name = "Talent" }
 ]
 mensch_theme = "theme-base-0e"
