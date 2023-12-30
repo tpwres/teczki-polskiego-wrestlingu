@@ -11,14 +11,6 @@
 
 {% include "all_time_roster.html" %}
 
-<p class="tagsData">
-  {% if page.taxonomies.tags -%}
-    {% for tag in page.taxonomies.tags -%}
-      <a href="/tags/{{ tag | slugify }}">&#47;{{ tag }}&#47;</a>
-    {% endfor -%}
-  {% endif -%}
-</p>
-
 <style>
   .org-ring {
       display: flex;
