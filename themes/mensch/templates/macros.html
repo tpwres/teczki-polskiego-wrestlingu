@@ -1,0 +1,4 @@
+{% macro format_date(date) %}
+    {% set date_format = config.extra.mensch_date_format | default(value="%a %b %e, %Y") %}
+    {{ date | date(format=date_format) }}
+{% endmacro format_date %}
