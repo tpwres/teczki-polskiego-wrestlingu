@@ -1,0 +1,16 @@
+<nav class="menu">
+  <div class="nav-left">
+    <ul class="nav-left-list">
+      <li class="nav-left-item"></li><a href="{{ get_url(path="/", trailing_slash=false) }}"><img class="logo" src="{{ get_url(path="logo.png", trailing_slash=false) }}" alt="logo"></a></li>
+      <li class="nav-left-item"></li><a href="{{ get_url(path="/", trailing_slash=false) }}"><span class="sitename">{{ config.title }}</span></a></li>
+    </ul>
+  </div>
+  <div class="nav-right">
+    <ul class="nav-right-list">
+      {% for link in config.extra.mensch_links %}
+      <li class="nav-right-item"><a href="{{link.url}}"><svg class="feather"><use href="{{ get_url(path="feather-sprite.svg", trailing_slash=false) }}#{{link.icon}}"/></svg></a></li>
+      {% endfor %}
+      <li><a id="darkmodetoggle" onclick="switchTheme()"><svg class="feather"><use href="{{ get_url(path="feather-sprite.svg", trailing_slash=false) }}#moon"/></svg></a></li>
+    </ul>
+  </div>
+</nav>
