@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+
+{{ page.content | safe }}
+
+<h2>Events</h2>
+
+{% include "venue_events.html" %}
+{% endblock content %}
