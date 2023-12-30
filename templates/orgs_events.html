@@ -10,9 +10,9 @@
         {% set xtra = event_page.extra %}
         {% set orgs = xtra | get(key="orgs", default=[]) %}
         {% if orgs is containing(page.slug) %}
-      <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a></li>
+      <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
         {% elif event_page.slug is containing(page.slug) %}
-          <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a></li>
+          <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
         {% endif %}
       {% endfor %}
   </ul>
