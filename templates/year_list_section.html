@@ -20,10 +20,4 @@
 
 {{ section.content | safe }}
 
-{% if paginator %}
-{% set pages = paginator.pages %}
-{% else %}
-{% set pages = section.pages %}
-{% endif %}
-
 {% endblock content %}
