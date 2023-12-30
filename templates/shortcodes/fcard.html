@@ -8,15 +8,12 @@
 {% if not hide_results %}
 <details>
     <summary>Toggle results</summary>
-    <table class="card results">
-      <thead>
-        <tr>
-           <th>No.</th>
-           <th class="p">Results</th>
-           <th class="c">Stipulations</th>
-        </tr>
-      </thead>
-      <tbody>
+    <card>
+        <header>
+            <span>No.</span>
+            <span class="p">Results</span>
+            <span class="c">Stipulations</span>
+        </header>
     {% for row in data %}
         {% set final = row | last %}
         {% set winner = row | first %}
@@ -34,9 +31,9 @@
         {% else %}
           {% set sep = "d." %}
         {% endif %}
-        <tr class="match">
-            <td>{{loop.index}}</td>
-            <td class="p">
+        <match>
+            <span>{{loop.index}}</span>
+            <span class="p">
                 {{ winner | markdown(inline=true) | safe }}
                 {{ sep }}
                 {{ others | join(sep=" and ") | markdown(inline=true) | safe }}
@@ -47,27 +44,23 @@
                         - {{ final.nc }}
                     {% endif %}
                 {% endif %}
-            </td>
-            <td class="c">
+            </span>
+            <span class="c">
                 {{ title | markdown(inline=true) | safe }}
                 {{ stip }}
-            </td>
-        </tr>
+            </span>
+        </match>
         {% endfor %}
-      </tbody>
-    </table>
+    </card>
 </details>
 {% endif %}
 
-<table class="card">
-    <thead>
-        <tr>
-        <th>No.</span>
-        <th class="p">Participants</th>
-        <th class="c">Stipulations</th>
-        </tr>
-    </thead>
-    <tbody>
+<card>
+    <header>
+        <span>No.</span>
+        <span class="p">Participants</span>
+        <span class="c">Stipulations</span>
+    </header>
 {% for row in data %}
     {% set final = row | last %}
     {% if final is object %}
@@ -79,16 +72,15 @@
       {% set title = "" %}
       {% set stip = "" %}
     {% endif %}
-    <tr class="match">
-        <td>{{loop.index}}</td>
-        <td class="p">
+    <match>
+        <span>{{loop.index}}</span>
+        <span class="p">
             {{ talent | join(sep=" vs ") | markdown(inline=true) | safe }}
-        </td>
-        <td class="c">
+        </span>
+        <span class="c">
             {{ title | markdown(inline=true) | safe }}
             {{ stip }}
-        </td>
-    </tr>
+        </span>
+    </match>
     {% endfor %}
-    </tbody>
-</table>
+</card>
