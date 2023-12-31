@@ -1,6 +1,8 @@
 +++
 title = "PTW Underground 20"
 template = "event_page.html"
+[extra]
+venue = "ptw-targowa"
 +++
 
 {% card() %}

@@ -1,5 +1,5 @@
 +++
-title = "PTW Underground 19"
+title = "PTW X RyuCon"
 template = "event_page.html"
 [extra]
 venue = "ptw-targowa"
