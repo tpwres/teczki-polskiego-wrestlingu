@@ -1,0 +1,253 @@
+@import "theme"
+@import url("syntax-theme-dark.css") (prefers-color-scheme: dark)
+@import url("syntax-theme-light.css") (prefers-color-scheme: light)
+//@import "fonts/inter/inter-web/inter.css"
+// @font-face
+//   font-family: 'Ubuntu Mono'
+//   src: url("fonts/ubuntu-mono/UbuntuMono-Regular.ttf")
+//   font-display: swap
+
+// Global variables
+\:root
+  // Fonts
+  --sans-font: "Inter", sans-serif
+  --mono-font: "Ubuntu Mono", monospace
+  @include dark-theme
+
+// Light mode colors
+@media (prefers-color-scheme: light)
+  \:root
+    @include light-theme
+
+.feather
+  width: 32px
+  height: 32px
+  stroke: currentColor
+  stroke-width: 2
+  stroke-linecap: round
+  stroke-linejoin: round
+  fill: none
+
+.feather-inline
+  @extend .feather
+  width: 1.15rem
+  height: 1.15rem
+
+img
+  max-width: 100% !important
+
+sup.footnote-reference>a, a
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+
+h1, h2, h3, h4, h5, h6
+  margin-bottom: .25rem
+
+h1.title
+  color: var(--dark-green)
+
+h1:not(.title)
+  color: var(--dark-green)
+  display: flex
+  align-items: flex-start
+  text-align: left
+  &:after
+    content: ''
+    flex-grow: 1
+    height: 0.3rem
+    background: var(--dark-green)
+    min-width: 2rem
+    margin: auto
+    margin-left: 1rem
+
+h1:not(.title)
+    color: var(--dark-red)
+    &::after
+      background: var(--dark-red)
+
+h2
+  color: var(--dark-green)
+  display: flex
+  align-items: flex-start
+  text-align: left
+  &:after
+    content: ''
+    flex-grow: 1
+    height: 0.26rem
+    background: var(--dark-green)
+    min-width: 2rem
+    margin: auto
+    margin-left: 1rem
+
+h3
+  color: var(--dark-blue)
+  display: flex
+  align-items: flex-start
+  text-align: left
+  &:after
+    content: ''
+    flex-grow: 1
+    height: 0.2rem
+    background: var(--dark-blue)
+    min-width: 2rem
+    margin: auto
+    margin-left: 1rem
+
+h4
+  color: var(--dark-yellow)
+  display: flex
+  align-items: flex-start
+  text-align: left
+  &:after
+    content: ''
+    flex-grow: 1
+    height: 0.144rem
+    background: var(--dark-yellow)
+    min-width: 2rem
+    margin: auto
+    margin-left: 1rem
+
+h5
+  color: var(--dark-gray)
+  display: flex
+  align-items: flex-start
+  text-align: left
+  &:after
+    content: ''
+    flex-grow: 1
+    height: 0.115rem
+    background: var(--dark-gray)
+    min-width: 2rem
+    margin: auto
+    margin-left: 1rem
+
+h6
+  color: var(--dark-gray)
+  display: flex
+  align-items: flex-start
+  text-align: left
+  &:after
+    content: ''
+    flex-grow: 1
+    height: 0.096rem
+    background: var(--dark-gray)
+    min-width: 2rem
+    margin: auto
+    margin-left: 1rem
+
+blockquote
+  margin: 0rem 0 1rem 1rem  //TODO: tweak
+  padding: 0.1rem 0.4rem
+  border-left: 0.35rem solid var(--accent)
+  background: var(--accent-bg)
+  color: var(--text-light)
+  font-style: italic
+
+code
+  color: var(--text-light)
+  background-color: var(--accent-bg)
+  padding: 0.1rem 0.14rem
+  border-radius: 5px
+
+kbd
+  color: var(--text-light)
+
+hr
+  color: var(--dark-gray)
+  background-color: var(--dark-gray)
+  height: 0.2rem
+  border: none
+
+.content
+  padding-top: 1.5rem
+
+.content>img,
+.content>video,
+.content>p>img,
+.content>p>video
+  max-width: 100%
+  height: auto
+  border-radius: 5px
+
+
+
+.date
+  color: var(--dark-purple)
+  font-weight: bold
+
+.reading-time
+  color: var(--dark-orange)
+  font-weight: bold
+
+.separator
+  color: var(--dark-yellow)
+  font-weight: bold
+
+.logo
+  display: inline-block
+  height: 48px
+  width: 48px
+  background: var(--logo-url)
+
+.sitename
+  position: relative
+  top: -8px
+  font-size: 1.8em
+  font-weight: bold
+  color: $gb-dm-fg1
+
+a.sitename:hover
+  color: var(--dark-aqua)
+  text-decoration: underline
+
+nav
+  border-bottom: .2rem solid var(--dark-blue)
+
+nav a:hover, .sitename:hover
+  color: var(--dark-aqua)
+
+nav a, nav:visited
+  margin: 0rem 0rem 0rem 0rem
+  border: none
+  padding: 0rem
+
+footer
+  border-top: .2rem solid var(--dark-blue)
+
+nav>div>ul>li>a
+  color: var(--text-light)
+  display: block
+  line-height: 0rem
+  padding: 0em 0.1rem
+  text-decoration: none
+  position: relative
+
+nav>div>ul>li>a:hover
+  color: var(--dark-aqua)
+
+.nav-left
+  float: left
+
+.nav-right
+  float: right
+
+nav
+  list-style-type: none
+
+.nav
+  display: inline
+
+nav ul
+  margin: 0
+  padding: 0
+  list-style-type: none
+  overflow: hidden
+
+nav ul li
+  /* This allow us to arrange list items in a row, without using float */
+  display: inline-block
+  list-style-type: none
+
+a:hover
+  color: var(--dark-aqua)

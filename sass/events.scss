@@ -24,6 +24,6 @@ card {
     margin-bottom: 1ex;
 }
 
-details[open] + card {
+details[open] + table.card {
     display: none;
 }

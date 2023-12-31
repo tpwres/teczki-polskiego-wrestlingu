@@ -9,7 +9,7 @@ build_search_index = false
 
 title = "PSW"
 
-theme = "anemone"
+theme = "mensch"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -27,3 +27,9 @@ default_theme = "dark"
 header_nav = [
   { url = "/about", name_en = "about" }
 ]
+mensch_links = [
+  { url = "/o/", name = "Promotions"  },
+  { url = "/e/", name = "Events" },
+  { url = "/w/", name = "Talent" }
+]
+mensch_theme = "theme-base-0e"

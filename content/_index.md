@@ -1,7 +1,6 @@
 +++
 title = "Home"
 template = "index.html"
-paginate_by = 5
 +++
 
 * [Events](@/e/_index.md)

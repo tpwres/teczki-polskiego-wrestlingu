@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "index.html" %}
 
 {% block content %}
 <h1>{{ section.title }}</h1>
@@ -10,7 +10,7 @@
 {% for thisyear in years|sort|reverse %}
     <h2>{{ thisyear }}</h2>
     <ul>
-        {% for page in events_by_year[thisyear] %}
+        {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
         <li>
            {{page.date}} <a href="{{page.path}}">{{ page.title }}</a>
         </li>
@@ -19,11 +19,5 @@
 {% endfor %}
 
 {{ section.content | safe }}
-
-{% if paginator %}
-{% set pages = paginator.pages %}
-{% else %}
-{% set pages = section.pages %}
-{% endif %}
 
 {% endblock content %}
