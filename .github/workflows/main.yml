@@ -19,7 +19,7 @@ jobs:
           bin/build_metadata.py
           bin/build_roster.py
       - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.17.2
+        uses: shalzz/zola-deploy-action@v0.18.0
         env:
           # Target branch
           PAGES_BRANCH: gh-pages
