@@ -2,6 +2,8 @@
 title = "PpW Ewenement"
 weight = 2
 template = "org_page.html"
+[extra]
+year_list_start = 2019
 +++
 
 PpW is a wrestling promotion from Warsaw. It styles itself as a fully independent, self-sufficient organization with no commercial affiliations.
