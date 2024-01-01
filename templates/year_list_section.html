@@ -12,7 +12,7 @@
     <ul>
         {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
         <li>
-           {{page.date}} <a href="{{page.path}}">{{ page.title }}</a>
+           {{page.date}} <a href="{{get_url(path=page.path)}}">{{ page.title }}</a>
         </li>
         {% endfor %}
     </ul>
