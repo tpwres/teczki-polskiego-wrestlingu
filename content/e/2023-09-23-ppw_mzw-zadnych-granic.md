@@ -1,4 +1,3 @@
-
 +++
 title = "MZW+PpW Żadnych Granic"
 template = "event_page.html"
