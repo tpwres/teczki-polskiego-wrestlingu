@@ -2,7 +2,8 @@
 
 from pathlib import Path
 import re
-from utils import parse_front_matter, parse_card_block
+from utils import parse_front_matter, parse_card_block, extract_names
+from utils import markdown_link_re
 import json
 from collections import Counter
 
@@ -43,38 +44,12 @@ def main():
             json.dump(roster, fp)
     # 7. Output JSON files
 
-def extract_names(card):
-    # Card is a list of lists
-    # The inner lists name participants, and the last element may be a hash of extra data, which we skip
-    all_names = []
-    for row in card:
-        entries = row[:]
-        if isinstance(entries[-1], dict):
-            entries.pop()
-        for entry in entries:
-            all_names.extend(find_names(entry))
-    return all_names
-
-# An entry may contain more than one name
-# Either as plain names, [Linked Names](@/w/someone.md)
-# or Tag Team Name: ...names
-# Names are separated by plus (+) signs
-def find_names(entry):
-    tag_team_re = re.compile('^(?:([\w\s]+):)?\s*(.+)$')
-    partners = [n.strip() for n in entry.split("+")]
-    all_names = []
-    for maybe_team in partners:
-        m = tag_team_re.match(maybe_team)
-        names = re.split(r'\s*,\s*', m.group(2))
-        all_names.extend(names)
-    return all_names
 
 def sanitize_roster(roster):
     # Roster is a Counter where keys may be either markdown links or plain names.
     # Collapse so that if there are both for a single person,
     # only the markdown one remains, and its value is the sum of both entries.
     # NOTE: The argument is destructively modified
-    markdown_link_re = re.compile(r'^\[(.*?)(?:\(c\))?\]\(.*\)(?:\(c\))?$')
     link_names = [name for name in roster.keys() if markdown_link_re.match(name)]
     out = {}
     for linked_name in link_names:

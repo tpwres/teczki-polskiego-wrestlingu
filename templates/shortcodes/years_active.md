@@ -1,5 +1,5 @@
 {% set data = load_data(path="data/years-active.json") -%}
-{% set years = data[page.title] | sort -%}
+{% set years = data | get(key=page.title) | sort -%}
 {% if years -%}
   {% set min = years | first -%}
   {% set max = years | last -%}

@@ -6,35 +6,35 @@ from datetime import datetime
 from collections import Counter
 import json
 
-from utils import parse_front_matter, RichEncoder
+from utils import parse_front_matter, RichEncoder, parse_card_block, extract_names
+from utils import markdown_link_re
+
+def plain_name(text):
+    match markdown_link_re.match(text):
+        case re.Match() as m:
+            return m.group(1)
+        case None:
+            return text
 
 # Not strictly necessary as the career hash can be used to pull the same info
-def update_years_active(years, data):
-    if 'extra' not in data: return
-    extra = data['extra']
-    if 'all_talent' not in extra: return
-    talent = extra['all_talent']
+def update_years_active(years, card, front_matter):
+    names = extract_names(card)
+    event_date = front_matter['date']
 
-    event_date = data['date']
+    for name in names:
+        years.setdefault(plain_name(name), set()).add(event_date.year)
 
-    for name in talent:
-        years.setdefault(name, set()).add(event_date.year)
+def update_career(career, card, front_matter):
+    event_date = front_matter['date']
+    orgs = front_matter['orgs']
+    names = extract_names(card)
 
-def update_career(career, data):
-    if 'extra' not in data: return
-    extra = data['extra']
-    if 'all_talent' not in extra: return
-    talent = extra['all_talent']
+    for name in names:
+        plain = plain_name(name)
 
-    event_date = data['date']
-
-    org = extra.get('org', data['org'])
-
-    # How do we reconcile multiple names for the same person?
-    for name in talent:
-        entry = career.setdefault(name, {})
+        entry = career.setdefault(plain, {})
         year = entry.setdefault(event_date.year, Counter())
-        year.update([org])
+        year.update(orgs)
 
 def main():
     years_active = {}
@@ -52,15 +52,20 @@ def main():
 
         defaults = { 'date': page_date, 'org': None }
         if org_match := date_org_re.match(page.stem):
-            defaults['org'] = org_match.group(1)
+            defaults['orgs'] = org_match.group(1).split('_')
 
         text = page.read_text(encoding='utf-8')
         front_matter = defaults | parse_front_matter(text)
-        update_years_active(years_active, front_matter)
-        update_career(career, front_matter)
+        card = parse_card_block(text)
+        if not card:
+            print("No card available, skipping")
+            continue
+        update_years_active(years_active, card, front_matter)
+        update_career(career, card, front_matter)
 
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)
+
 
     with (data_dir / 'years-active.json').open('w') as f:
         print("Saving years active to %s" % f.name)
@@ -70,6 +75,7 @@ def main():
         print("Saving career to %s" % f.name)
         json.dump(career, f, cls=RichEncoder)
 
+    print(years_active)
     print(career)
 
 
