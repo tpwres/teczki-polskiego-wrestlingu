@@ -26,9 +26,10 @@ Many of these characters were masked, leading to fans calling the new organisati
 The promotion prepared its debut carefully, registering with all required authorities, purchasing a proper ring and recruiting a video production crew.
 Because their first two events were sideshows on other attractions like various town festivals, fans derided the new organisation for being just a sideshow and not aiming for professionalism. However, there was consensus that their wrestling was of very high quality, exceeding that of their contemporaries.
 
-MZW was most active from 2014 to 2019, holding about five events a year. In 2020 and later in early 2021, several wrestlers would quit and join the newly created [PTW](@/o/ptw.md), to become part of its first roster.
+MZW was most active from 2014 to 2019, holding about five events a year. In 2021, several wrestlers would quit and join the newly created [PTW](@/o/ptw.md), to become part of its first roster.
 
 ## References
 
 * [Historia Polskiego Wrestlingu #5](https://mywrestling.com.pl/historia-polskiego-wrestlingu-5-powstanie-maniac-zone-wrestling-afera-z-polish-giantem-przeprowadzka-ddw-do-gdanska/) on mywrestling.com.pl (in Polish)
 * [Historia Polskiego Wrestlingu #6](https://mywrestling.com.pl/historia-polskiego-wrestlingu-6-pierwsza-biletowana-gala-mzw-powstanie-kpw-obecna-sytuacja/) on mywrestling.com.pl (in Polish)
+* [Facebook post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0FM2QRdQsdQr2yXnK4iQgqqye1kRaEZ1iL1Bh89kSdfUtaMfg5kWuTbQTfMXkaTHnl) announcing the finals of Project Basement and several wrestler's departure

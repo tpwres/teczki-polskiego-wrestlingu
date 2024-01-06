@@ -4,3 +4,17 @@ template = "event_page.html"
 [extra]
 venue = "online"
 +++
+
+Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free.
+
+{% card() %}
+- ["Rafael Kid", "Nathan Cross", "Shadow + Isnorr"]
+- ["Isnorr", "Aron Wake"]
+- ["Madman Charlie", "Jacob Crane", {s: "Loser Leaves MZW Best Two Out Of Three Falls"}]
+{% end %}
+
+Presenter: Konrad von Koch \
+Commentary: Jędrzej Jezierski & Piotr Małecki
+
+* [Full episode on YouTube](https://www.youtube.com/watch?v=diZ2HqIib0U)
+* [Playlist of all episodes](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8gOYpibA7twIBHV7w3iyLB2)
