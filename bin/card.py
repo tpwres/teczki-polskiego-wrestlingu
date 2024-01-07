@@ -15,6 +15,7 @@ markdown_link_re = re.compile(r'''
         (?P<target>.*?)
     \)
     (?:\(c\))? # The champion marker may also be outside
+    \s* # Eat whitespace
     $
 ''', re.VERBOSE)
 
