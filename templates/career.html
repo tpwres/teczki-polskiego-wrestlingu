@@ -1,6 +1,10 @@
 <link rel="stylesheet" href="{{ get_url(path="/career.css") }}"/>
 {% set careers = load_data(path="data/career.json") %}
-{% set mycareer = careers[page.title] %}
+{% if page.extra.career_name %}
+{% set mycareer = careers | get(key=page.extra.career_name) %}
+{% else %}
+{% set mycareer = careers | get(key=page.title) %}
+{% endif %}
 
 <h3>Matches per promotion and year</h3>
 
