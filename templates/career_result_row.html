@@ -15,9 +15,14 @@
     {% set sep = "d." %}
 {% endif %}
 
+{% if others | length == 0 %}
+Winner:
+{% endif %}
 {{ winner | markdown(inline=true) | safe }}
+{% if others | length > 0 %}
 {{ sep }}
 {{ others | join(sep=" and ") | markdown(inline=true) | safe }}
+{% endif %}
 {% if final is object %}
     {% if final.r %}
         via {{ final.r }}

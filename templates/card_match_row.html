@@ -8,10 +8,11 @@
     {% set title = "" %}
     {% set stip = "" %}
 {% endif %}
+{% set sep = " <strong>vs</strong> " | safe %}
 <tr class="match">
     <td>{{loop.index}}</td>
     <td class="p">
-        {{ talent | join(sep=" vs ") | markdown(inline=true) | safe }}
+        {{ talent | join(sep=sep) | markdown(inline=true) | safe }}
     </td>
     <td class="c">
         {{ title | markdown(inline=true) | safe }}
