@@ -19,5 +19,5 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 - ["Sinister + Syriusz Dziedzic", "Marcelito + Samson", s: "Tag Team Match"]
 - ["Puncher", "El Ogre"]
 - ["Nano Lopez", "Jarek Nowak"]
-- ["Peter Tihanyi", "Axel Fox"]
+- ["Peter Tihanyi", "[Axel Fox](@/w/axel-fox.md)"]
 {% end %}

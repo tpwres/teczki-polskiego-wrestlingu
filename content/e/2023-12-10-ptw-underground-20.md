@@ -7,11 +7,11 @@ venue = "ptw-targowa"
 
 {% card() %}
 - ["Puncher", "Nitro"]
-- ["Diana Strong", "Anita Vaughan"]
+- ["[Diana Strong](@/w/diana-strong.md)", "Anita Vaughan"]
 - ["Nano Lopez", "Erik Slotir"]
 - ["Syriusz Dziedzic", "Disco Pablo", "Renegade"]
 - ["Legia Łysych: Marco Hammers, Olgierd", "Samsonito: Marcelito, Samson", s: "Tag Team Match"]
 - ["King Kaiden", "Sędzia Rafał"]
 - ["Sambor", "Jarek Nowak"]
-- ["Axel Fox", "Wiktor Longman", r: "DQ"]
+- ["[Axel Fox](@/w/axel-fox.md)", "Wiktor Longman", r: "DQ"]
 {% end %}
