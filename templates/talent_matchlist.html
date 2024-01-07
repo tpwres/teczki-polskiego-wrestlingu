@@ -2,10 +2,14 @@
 {% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances.json") %}
 {% if page.extra.career_name %}
-    {% set my_appearances = appearances[page.extra.career_name] %}
+    {% set my_appearances = appearances | get(key=page.extra.career_name) %}
 {% else %}
-    {% set my_appearances = appearances[page.title] %}
+    {% set my_appearances = appearances | get(key=page.title) %}
 {% endif %}
+{% for alias in page.extra | get(key="career_aliases", default=[]) %}
+    {% set alias_appearances = appearances | get(key=alias) %}
+    {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
+{% endfor %}
 {% set_global my_matches = [] -%}
 {% for index in my_appearances %}
 {% set_global my_matches = my_matches | concat(with=all_matches[index]) %}
