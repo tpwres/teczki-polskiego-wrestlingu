@@ -13,32 +13,27 @@
 {% set_global years = years | concat(with=year) -%}
 {% endfor -%}
 
-<div class="career-mpy">
-  <div class="header">
-    <span>Year</span>
-    <span>Promotions</span>
-  </div>
-  {% for year in years | sort | reverse -%}
-  <div>
-    <span>{{year}}</span>
-    {% for org, count in mycareer[year] -%}
-    {% set hint = count ~ " matches" -%}
-    {{ macros::promolink(code=org, hint_text=hint) }}
-    {% endfor -%}
-  </div>
-  {% endfor -%}
-</div>
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Promotions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for year in years | sort | reverse -%}
+        <tr>
+            <td>{{year}}</td>
+            <td>
+                {% for org, count in mycareer[year] -%}
+                    {% set hint = count ~ " matches" -%}
+                    {{ macros::promolink(code=org, hint_text=hint) }}
+                {% endfor -%}
+            </td>
+        </tr>
+        {% endfor -%}
+    </tbody>
+</table>
 
 <h3>All matches</h3>
-<pre>
-TODO build_matches.py
-
-- reads e/ event pages
-- reads card() section content as yaml
-- aggregates by talent name, stripping link from markdown if necessary
-- outputs a map of { talent_name: [ match_details, match_details ]
-- where match_details is { org:, date:, participants:, options: }
-- and options is { c: championship, s: stipulation }
-- doesn't note winners, or resolution
-</pre>
-{#% include "matchlist.html" %#}
+{% include "talent_matchlist.html" %}

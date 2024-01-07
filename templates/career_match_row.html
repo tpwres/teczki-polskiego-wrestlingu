@@ -1,0 +1,11 @@
+{% set final = row | last %}
+{% if final is object %}
+    {% set talent = row | slice(end=-1) | sort %}
+    {% set title = final | get(key="c", default="") %}
+    {% set stip = final | get(key="s", default="") %}
+{% else %}
+    {% set talent = row | sort %}
+    {% set title = "" %}
+    {% set stip = "" %}
+{% endif %}
+{{ talent | join(sep=" vs ") | markdown(inline=true) | safe }}
