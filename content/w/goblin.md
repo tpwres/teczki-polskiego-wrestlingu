@@ -1,5 +1,4 @@
-
 +++
-title = "Osamu"
+title = "Goblin"
 template = "talent_page.html"
 +++

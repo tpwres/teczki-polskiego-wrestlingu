@@ -9,7 +9,7 @@ Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling s
 
 {% card() %}
 - ["Aron Wake", "Madman Charlie", nc: "Double Count-out"]
-- ["Krueger", "Isnorr", "Rafael Kid", s: "Three Way Match"]
+- ["Krueger", "[Isnorr](@/w/isnorr.md)", "Rafael Kid", s: "Three Way Match"]
 - ["Prince Victor", "Shadow"]
 {% end %}
 

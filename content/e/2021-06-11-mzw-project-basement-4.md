@@ -9,7 +9,7 @@ Project Basement 4 is the fourth episode of [MZW's](@/o/mzw.md) taped wrestling 
 
 {% card() %}
 - ["Prince Victor", "Krueger", "Shadow", s: "Three Way Match"]
-- ["Isnorr + Nathan Cross", "Aron Wake + Rafael Kid", s: "Tag Team Match"]
+- ["[Isnorr](@/w/isnorr.md), Nathan Cross", "Aron Wake, Rafael Kid", s: "Tag Team Match"]
 {% end %}
 
 Presenter: Konrad von Koch

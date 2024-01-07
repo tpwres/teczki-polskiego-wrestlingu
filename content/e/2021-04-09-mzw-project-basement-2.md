@@ -10,8 +10,8 @@ Project Basement 2 is the second episode of [MZW's](@/o/mzw.md) taped wrestling 
 {% card() %}
 - ["Krueger", "Prince Victor"]
 - ["Madman Charlie", "Rafael Kid"]
-- ["Shadow", "Nathan Cross + Isnorr"]
-- ["Aron Wake", "Jacob Crane", nc: "No Contest"]
+- ["Shadow", "Nathan Cross + [Isnorr](@/w/isnorr.md)"]
+- ["Aron Wake", "[Jacob Crane](@/w/jacob-crane.md)", nc: "No Contest"]
 {% end %}
 
 Presenter: Konrad von Koch \

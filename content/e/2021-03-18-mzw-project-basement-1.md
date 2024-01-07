@@ -10,7 +10,7 @@ Project Basement 1 is the first episode of [MZW's](@/o/mzw.md) taped wrestling s
 {% card() %}
 - ["Nathan Cross", "Krueger"]
 - ["Aron Wake", "Prince Victor"]
-- ["Rafael Kid + Shadow", "Jacob Crane + Madman Charlie"]
+- ["Rafael Kid + Shadow", "[Jacob Crane](@/w/jacob-crane.md) + Madman Charlie"]
 {% end %}
 
 Presenter: Konrad von Koch \

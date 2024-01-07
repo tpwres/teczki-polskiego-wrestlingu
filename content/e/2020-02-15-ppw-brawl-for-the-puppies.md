@@ -8,7 +8,7 @@ city = "Warszawa"
 
 {% card() %}
 - ["Amsker", "Duende"]
-- ["Osamu", "Alex Tamatou", "Ricky Sky", s: "Three Way Match"]
-- ["Mister Z(c)", "Sakal", c: "PpW Championship"]
-- ["Viking", "Johnny Blade", s: "No Rope Barbed Wire Death Match"]
+- ["[Osamu](@/w/osamu.md)", "Alex Tamatou", "Ricky Sky", s: "Three Way Match"]
+- ["[Mister Z](@/w/mister-z.md)(c)", "Sakal", c: "PpW Championship"]
+- ["Viking", "[Johnny Blade](@/w/johnny-blade.md)", s: "No Rope Barbed Wire Death Match"]
 {% end %}

@@ -15,10 +15,10 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 * [WrestleMap article](https://www.wrestlemap.com/news/p1e7040pmjt9uwctkin6cod0xwqj1k)
 
 {% card() %}
-- ["Mister Z", "Steve Kuningas", nc: "?"]
-- ["Ricardo Diesel", "Tony Sk1n", nc: "?"]
+- ["[Mister Z](@/w/mister-z.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", nc: "?"]
+- ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Tony Sk1n](@/w/tony-sk1n.md)", nc: "?"]
 - ["Asara", "SkullEvil", nc: "?"]
-- ["Bill Feager", "Adam Wong", nc: "?"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "Osamu", s: "PpW Championship Match"]
-- ["Johnny Blade", "Viking", {s: "Chaos Gods Deathmatch", c: "PpW European Ultraviolent Championship"}]
+- ["Bill Feager", "[Adam Wong](@/w/adam-wong.md)", nc: "?"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "[Osamu](@/w/osamu.md)", s: "PpW Championship Match"]
+- ["[Johnny Blade](@/w/johnny-blade.md)", "Viking", {s: "Chaos Gods Deathmatch", c: "PpW European Ultraviolent Championship"}]
 {% end %}

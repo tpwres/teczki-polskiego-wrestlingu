@@ -7,9 +7,9 @@ city = "Warszawa"
 +++
 
 {% card() %}
-- ["Rob Scaffold", "Tony Sk1n"]
-- ["Madman Charlie", "Isnorr"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "Adam Wong"]
-- ["Hades", "Johnny Blade", {s: "Hardcore Match", nc: "Draw"}]
-- ["Osamu", "Mister Z(c)", c: "PpW Championship"]
+- ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Tony Sk1n](@/w/tony-sk1n.md)"]
+- ["Madman Charlie", "[Isnorr](@/w/isnorr.md)"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "[Adam Wong](@/w/adam-wong.md)"]
+- ["Hades", "[Johnny Blade](@/w/johnny-blade.md)", {s: "Hardcore Match", nc: "Draw"}]
+- ["[Osamu](@/w/osamu.md)", "[Mister Z](@/w/mister-z.md)(c)", c: "PpW Championship"]
 {% end %}

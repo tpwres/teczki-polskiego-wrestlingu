@@ -10,7 +10,7 @@ hide_results = true
 * [Facebook event](https://www.facebook.com/events/746791299065517/)
 
 {% card() %}
-- ["Mister Z", "Terry Shadow", nc: "?"]
+- ["[Mister Z](@/w/mister-z.md)", "Terry Shadow", nc: "?"]
 - ["Duende", "Black Orion", nc: "?"]
-- ["Rob Scaffold", "Osamu", nc: "?"]
+- ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Osamu](@/w/osamu.md)", nc: "?"]
 {% end %}

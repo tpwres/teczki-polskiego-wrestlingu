@@ -4,10 +4,10 @@ template = "event_page.html"
 +++
 
 {% card() %}
-- ["Mister Z", "Yuval Goldshmit"]
-- ["Javier Vives", "Goblin"]
-- ["Bill Feager", "Isnorr", "TJ Charles", s: "Three Way Match"]
-- ["Gustav Gryffin", "Ricardo Diesel"]
-- ["Adam Wong", "Tony Sk1n", s: "Hardcore Match"]
-- ["Stanislaw Van Dobroniak, Steve Kuningas", "[Biesiad Strong](@/w/biesiad.md), Johnny Blade"]
+- ["[Mister Z](@/w/mister-z.md)", "Yuval Goldshmit"]
+- ["Javier Vives", "[Goblin](@/w/goblin.md)"]
+- ["Bill Feager", "[Isnorr](@/w/isnorr.md)", "TJ Charles", s: "Three Way Match"]
+- ["[Gustav Gryffin](@/w/gustav-gryffin.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
+- ["[Adam Wong](@/w/adam-wong.md)", "[Tony Sk1n](@/w/tony-sk1n.md)", s: "Hardcore Match"]
+- ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Steve Kuningas](@/w/steve-kuningas.md)", "[Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)"]
 {% end %}

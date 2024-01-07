@@ -7,10 +7,10 @@ city = "Warszawa"
 +++
 
 {% card() %}
-- ["Gustav Gryffin", "Ricardo Diesel"]
-- ["Isnorr", "Joshua Amaru"]
+- ["[Gustav Gryffin](@/w/gustav-gryffin.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
+- ["[Isnorr](@/w/isnorr.md)", "Joshua Amaru"]
 - ["Feyyaz Aguila", "Dominik Fischer"]
-- ["Johnny Blade", "Lexi Luxx", s: "Intergender Hardcore Match"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "Kapitan Bazooka", {r: "KO", c: "PpW Championship"}]
-- ["Steve Kuningas", "Aytac Bahar", "Bill Feager", "Mister Z", s: "Fatal Four Way Match"]
+- ["[Johnny Blade](@/w/johnny-blade.md)", "Lexi Luxx", s: "Intergender Hardcore Match"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "[Kapitan Bazooka](@/w/kapitan-bazooka.md)", {r: "KO", c: "PpW Championship"}]
+- ["[Steve Kuningas](@/w/steve-kuningas.md)", "Aytac Bahar", "Bill Feager", "[Mister Z](@/w/mister-z.md)", s: "Fatal Four Way Match"]
 {% end %}

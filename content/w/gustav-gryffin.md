@@ -1,5 +1,4 @@
-
 +++
-title = "Osamu"
+title = "Gustav Gryffin"
 template = "talent_page.html"
 +++
