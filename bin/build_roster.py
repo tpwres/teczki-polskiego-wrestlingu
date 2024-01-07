@@ -2,10 +2,12 @@
 
 from pathlib import Path
 import re
-from utils import parse_front_matter, parse_card_block, extract_names
+from utils import parse_front_matter
 from utils import markdown_link_re
+from card import Card, Fighter, Manager
 import json
 from collections import Counter
+from functools import reduce
 
 def main():
     org_rosters = {}
@@ -26,11 +28,11 @@ def main():
 
         orgs = front_matter['orgs']
         # 3. Find and read the card() block
-        card = parse_card_block(text)
-        if not card: continue
+        card = Card(text)
+        if not card.matches: continue
 
         # 4. Grab all talent names in that block
-        names = extract_names(card)
+        names = extract_names(card.matches)
         # 5. Add to a set of names for relevant orgs
         for org in orgs:
             roster = org_rosters.setdefault(org, Counter())
@@ -45,37 +47,30 @@ def main():
     # 7. Output JSON files
 
 
+def extract_names(matches):
+    return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], set([]))
+
 def sanitize_roster(roster):
-    # Roster is a Counter where keys may be either markdown links or plain names.
+    # Roster is a Counter where keys are Name objects, but may either be ones
+    # that have markdown links or not
     # Collapse so that if there are both for a single person,
     # only the markdown one remains, and its value is the sum of both entries.
-    # NOTE: The argument is destructively modified
-    link_names = [name for name in roster.keys() if markdown_link_re.match(name)]
+    link_names = [name for name in roster.keys() if name.link]
     out = {}
     for linked_name in link_names:
-        # TODO: Consider also collapsing entries based on link target
-        plain_name = markdown_link_re.match(linked_name).group(1)
-        out[linked_name] = roster.get(linked_name, 0) + roster.get(plain_name, 0)
-        del roster[plain_name]
+        plain_f = Fighter(linked_name.name)
+        plain_m = Manager(linked_name.name)
+        md_link = linked_name.format_link()
+        out[md_link] = roster.get(linked_name, 0) + roster.get(plain_f, 0) + roster.get(plain_m, 0)
+        del roster[plain_m]
+        del roster[plain_f]
         del roster[linked_name]
 
-    # Strip (c) champion marker from linked names
-    keys = [k for k in out.keys() if "(c)" in k]
-    for champ_name in keys:
-        plain_name = champ_name.replace("(c)", "").strip()
-        out[plain_name] += out[champ_name]
-        del out[champ_name]
+    for person in roster.keys():
+        out.setdefault(person.name, 0)
+        out[person.name] += roster[person]
 
-    # Strip (c) champion marker from plain names
-    keys = [k for k in roster.keys() if "(c)" in k]
-    for champ_name in keys:
-        plain_name = champ_name.replace("(c)", "").strip()
-        roster[plain_name] += roster[champ_name]
-        del roster[champ_name]
-
-    return roster | out
-
-
+    return out
 
 if __name__ == "__main__":
     main()
