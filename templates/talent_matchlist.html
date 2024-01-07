@@ -26,7 +26,7 @@
     <tbody>
         {% for match in matches_by_date | reverse %}
         <tr>
-            <td>{{ match.d }}</td>
+            <td style="white-space: nowrap">{{ match.d }}</td>
             <td>
                 {% for org in match.o %}
                   {{ macros::promolink(code=org) }}
