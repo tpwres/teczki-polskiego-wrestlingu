@@ -3,7 +3,6 @@
 from pathlib import Path
 import re
 from utils import parse_front_matter
-from utils import markdown_link_re
 from card import Card, Fighter, Manager
 import json
 from collections import Counter
@@ -58,6 +57,7 @@ def sanitize_roster(roster):
     link_names = [name for name in roster.keys() if name.link]
     out = {}
     for linked_name in link_names:
+        # Cannot construct just a Name object, as it won't match Fighter or Manager objects in the dict
         plain_f = Fighter(linked_name.name)
         plain_m = Manager(linked_name.name)
         md_link = linked_name.format_link()

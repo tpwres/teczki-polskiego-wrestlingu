@@ -5,32 +5,28 @@ from pathlib import Path
 from datetime import datetime
 from collections import Counter
 import json
+from functools import reduce
 
-from utils import parse_front_matter, RichEncoder, parse_card_block, extract_names
-from utils import markdown_link_re
+from utils import parse_front_matter, RichEncoder
+from card import Card
 
-def plain_name(text):
-    match markdown_link_re.match(text):
-        case re.Match() as m:
-            return m.group(1)
-        case None:
-            return text
-
+def extract_names(matches):
+    return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], set([]))
 # Not strictly necessary as the career hash can be used to pull the same info
 def update_years_active(years, card, front_matter):
-    names = extract_names(card)
+    names = extract_names(card.matches)
     event_date = front_matter['date']
 
-    for name in names:
-        years.setdefault(plain_name(name), set()).add(event_date.year)
+    for person in names:
+        years.setdefault(person.name, set()).add(event_date.year)
 
 def update_career(career, card, front_matter):
     event_date = front_matter['date']
     orgs = front_matter['orgs']
-    names = extract_names(card)
+    names = extract_names(card.matches)
 
-    for name in names:
-        plain = plain_name(name)
+    for person in names:
+        plain = person.name
 
         entry = career.setdefault(plain, {})
         year = entry.setdefault(event_date.year, Counter())
@@ -56,8 +52,8 @@ def main():
 
         text = page.read_text(encoding='utf-8')
         front_matter = defaults | parse_front_matter(text)
-        card = parse_card_block(text)
-        if not card:
+        card = Card(text)
+        if not card.matches:
             print("No card available, skipping")
             continue
         update_years_active(years_active, card, front_matter)
@@ -74,9 +70,6 @@ def main():
     with (data_dir / 'career.json').open('w') as f:
         print("Saving career to %s" % f.name)
         json.dump(career, f, cls=RichEncoder)
-
-    print(years_active)
-    print(career)
 
 
 if __name__ == "__main__":
