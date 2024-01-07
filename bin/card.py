@@ -35,8 +35,8 @@ class Name:
                 object.__setattr__(self, 'name', name_or_link.strip().replace("(c)", ""))
 
     def __repr__(self) -> str:
-        cls = self.__class__.__name__
-        return "{}([{}]({}))".format(cls, self.name, self.link)
+        cls = self.__class__.__name__ # Important for subclasses
+        return "{}({})".format(cls, self.format_link())
 
     def format_link(self):
         return "[{0}]({1})".format(self.name, self.link)
@@ -85,6 +85,7 @@ class Match:
         ''', re.VERBOSE)
 
     def __init__(self, match_row: list[str]):
+        self.line = match_row # Store original row
         match match_row:
             case [*participants, dict() as options]:
                 self.opponents = list(self.parse_opponents(participants))
