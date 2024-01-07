@@ -12,5 +12,5 @@ venue = "legnica"
 - ["Dynamite Dave", "Ronzen"]
 - ["Rick Baxxter", "Amazing Alex", "JR Mystery", s: "Three Way Match"]
 - ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)"]
-- ["ZERO", "Robert Kaiser", c; "Next Step Wrestling Championship"]
+- ["ZERO", "Robert Kaiser", c: "Next Step Wrestling Championship"]
 {% end %}
