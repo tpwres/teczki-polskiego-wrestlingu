@@ -1,5 +1,6 @@
 {% macro promolink(code, hint_text='') %}
   <span title="{{hint_text}}">
-    <a href="/o/{{code}}">{{code}}</a>
+    {% set org_path = "@/o/" ~ code ~ ".md" -%}
+    <a href="{{ get_url(path=org_path) }}">{{ code }}</a>
   </span>
 {% endmacro %}
