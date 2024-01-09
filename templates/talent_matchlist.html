@@ -39,7 +39,8 @@
             {% set row = match.m %}
             <td>
                 {% include "career_result_row.html" %}
-                <small>at {{ match.n }}</small>
+                {% set event_path = "@/" ~ match.p %}
+                <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
             </td>
         </tr>
         {% endfor %}
