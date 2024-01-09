@@ -23,7 +23,8 @@ def main():
     all_bouts = []
     cwd = Path.cwd()
     # 1. List all event pages
-    events_dir = cwd / "content/e"
+    content_dir = cwd / 'content'
+    events_dir = content_dir / "e"
     event_pages = events_dir.glob("????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
     date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
@@ -47,7 +48,15 @@ def main():
         if not card.matches: continue
 
         for bout in card.matches:
-            all_bouts.append(dict(d=event_date, o=orgs, n=event_name, m=bout))
+            all_bouts.append(
+                dict(
+                    d=event_date,
+                    o=orgs,
+                    n=event_name,
+                    m=bout,
+                    p=page.relative_to(content_dir).as_posix()
+                )
+            )
             for person in bout.all_names():
                 bouts = appearances.setdefault(person.name, [])
                 bouts.append(i)
