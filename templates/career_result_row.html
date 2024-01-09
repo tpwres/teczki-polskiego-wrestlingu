@@ -9,6 +9,13 @@
     {% set title = "" %}
     {% set stip = "" %}
 {% endif %}
+{% if not stip %}
+  {% if title %}
+    {% set stip = "Match" %}
+  {% else %}
+    {% set stip = "Singles Match" %}
+  {% endif %}
+{% endif %}
 {% if final is object and final.nc %}
     {% set sep = "vs" %}
 {% else %}
