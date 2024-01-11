@@ -10,7 +10,7 @@ venue = "opawa"
 {% card() %}
 - ["Red Thunder", "Kripto"]
 - ["Ronzen", "The Black Phantom"]
-- ["Szymon Siwiec", "Mr. B", r: "DQ"]
+- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Mr. B", r: "DQ"]
 - ["Robert Kaiser", "Dynamite Dave"]
 - - "Franz Engel, [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Shadow](@/w/shadow.md)"
   - "[Justin Joy](@/w/justin-joy.md) + Posse In Effect: Rick Baxxter, The Grannatic"

@@ -9,6 +9,6 @@ venue = "gosir-glucholazy"
 
 {% card() %}
 - ["Asmund", "[Jędruś Bułecka](@/w/jedrus-bulecka.md)"]
-- ["[Justin Joy](@/w/justin-joy.md)", "Szymon Siwiec"]
+- ["[Justin Joy](@/w/justin-joy.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
 - ["Red Thunder", "[Shadow](@/w/shadow.md)"]
 {% end %}

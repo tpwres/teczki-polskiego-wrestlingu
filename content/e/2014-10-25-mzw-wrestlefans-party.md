@@ -6,7 +6,7 @@ venue = "niedzwiedzica"
 +++
 
 {% card() %}
-- ["Kowboj Luke", "Szymon Siwiec"]
+- ["Kowboj Luke", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
 - ["[Justin Joy](@/w/justin-joy.md)", "Gracjan Korpo, Wiktor", s: "Two On One Handicap Match"]
 - ["Posse In Effect: Rick Baxxter, The Grannatic", "[Jędruś Bułecka](@/w/jedrus-bulecka.md), ZERO", s: "Next Step Wrestling Tag Team Championship"]
 {% end %}
