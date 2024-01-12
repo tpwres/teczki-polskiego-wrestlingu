@@ -22,7 +22,7 @@
     {% set sep = "defeated" %}
 {% endif %}
 
-{% if others | length == 0 %}
+{% if others | length == 0 and not final.nc %}
 Winner:
 {% endif %}
 {{ winner | markdown(inline=true) | safe }}
