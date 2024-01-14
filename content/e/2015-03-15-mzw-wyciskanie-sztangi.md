@@ -5,6 +5,7 @@ template = "event_page.html"
 venue = "gosir-glucholazy"
 +++
 
+This event was a sideshow accompanying Wyciskanie Sztangi, a weight-lifting bench press competition
 
 {% card() %}
 - ["Asmund", "[Jędruś Bułecka](@/w/jedrus-bulecka.md)"]
