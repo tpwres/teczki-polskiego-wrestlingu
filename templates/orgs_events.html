@@ -4,21 +4,33 @@
 {% for year, _ign in events_by_year -%}{% set_global years = years | concat(with=year) %}{% endfor -%}
 {% set lowest_year = page.extra | get(key="year_list_start", default=2001) | int(default=2019) %}
 
-{% for thisyear in years|sort|reverse %}
-  {% if thisyear|int >= lowest_year %}
+{% for thisyear in years|sort|reverse -%}
+  {% if thisyear|int >= lowest_year -%}
+    {# Filter events for this year and promotion -#}
+    {% set_global my_events_thisyear = [] -%}
+    {% for event_page in events_by_year[thisyear] | sort(attribute="date") | reverse -%}
+      {% set xtra = event_page.extra -%}
+      {% set orgs = xtra | get(key="orgs", default=[]) -%}
+      {% if orgs is containing(page.slug) -%}
+        {# An event page may declare extras.orgs to be included in an organization event list -#}
+        {% set_global my_events_thisyear = my_events_thisyear | concat(with=event_page) -%}
+      {% elif event_page.slug is containing(page.slug) -%}
+        {# Otherwise, guess by slug which should include the org shortcut -#}
+        {% set_global my_events_thisyear = my_events_thisyear | concat(with=event_page) -%}
+      {% endif -%}
+    {% endfor -%}
+
     <h3>{{ thisyear }}</h3>
-    <ul>
-        {% for event_page in events_by_year[thisyear] | sort(attribute="date") | reverse -%}
-            {% set xtra = event_page.extra %}
-            {% set orgs = xtra | get(key="orgs", default=[]) %}
-            {% if orgs is containing(page.slug) %}
-        <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
-            {% elif event_page.slug is containing(page.slug) %}
-            <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-  {% endif %}
-{% endfor %}
+    {% if my_events_thisyear | length == 0 -%}
+      No events held.
+    {% else -%}
+      <ul>
+        {% for event_page in my_events_thisyear | sort(attribute="date") | reverse -%}
+          <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
+        {% endfor -%}
+      </ul>
+    {% endif -%}
+  {% endif -%}
+{% endfor -%}
 
 
