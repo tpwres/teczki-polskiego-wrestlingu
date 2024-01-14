@@ -14,4 +14,6 @@ venue = "smolec"
 - ["ZERO(c)", "Rick Baxxter; The Grannatic", { r: "DQ", c: "Next Step Wrestling Championship" }]
 {% end %}
 
+Matches from this event are briefly shown in the first act of [American Dream](@/a/american-dream.md).
+
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=112730)
