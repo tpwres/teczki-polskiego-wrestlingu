@@ -28,8 +28,9 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
 - ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)", c: "MZW Championship"]
 {% end %}
 
-### References and videos
+### References
 
+* [WrestleFans recap video](https://youtu.be/1kVqHeViz_o)
 * [Highlights video: Red Thunder vs Szymon Siwiec](https://youtu.be/wM6lUrd9IJI)
 * [Short article](https://www.glucholazyonline.com.pl/rozmaitosci/889-gala-wrestlingu) by Głuchołazy Online covering the event, includes the above video
 * [Event announcement](https://www.glucholazyonline.com.pl/rozmaitosci/824-wrestling-powraca-do-glucholaz) by Głuchołazy Online
