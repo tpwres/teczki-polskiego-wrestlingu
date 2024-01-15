@@ -10,7 +10,7 @@ Since the COVID-19 pandemic of 2019-2021, MZW's activity has decreased significa
 
 ## Locations
 
-Since 2018, MZW held most of their events in Wrocław, either in Bakara or [Czasoprzestrzeń](@/v/czasoprzestrzen.md), with the latter becoming their main venue.
+Since 2018, MZW held most of their events in Wrocław, either in [Bakara](@/v/bakara.md) or [Czasoprzestrzeń](@/v/czasoprzestrzen.md), with the latter becoming their main venue.
 Before that, it was Głuchołazy, a town near the Polish-Czech border where many of their events took place, and where they trained new adepts. And prior to that, events were held in various small towns in the region, like Opawa, Smolec and Niedźwiedzica.
 
 ## History
