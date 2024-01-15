@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "gosir-glucholazy"
 +++
 
-MZW Charity Show, though only billed as a Wrestling Show, was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was a charity show, with donations going to [WOŚP][wosp], and coinciding with their 23rd annual Grand Finale event.
+This was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was a charity show, with donations going to [WOŚP][wosp], and coinciding with their 23rd annual Grand Finale event.
 
 {% card() %}
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Kowboj Luke"]
