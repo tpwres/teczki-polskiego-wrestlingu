@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "gosir-glucholazy"
 +++
 
-This event was a sideshow accompanying Wyciskanie Sztangi, a weight-lifting bench press competition
+This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell_), a weight-lifting bench press competition held in [Głuchołazy](@/v/gosir-glucholazy.md).
 
 {% card() %}
 - ["Asmund", "[Jędruś Bułecka](@/w/jedrus-bulecka.md)"]
@@ -16,4 +16,4 @@ This event was a sideshow accompanying Wyciskanie Sztangi, a weight-lifting benc
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153091)
-* [Preshow and brief recap by WrestleFans](https://youtu.be/jyZe8EumyMM)
+* [Preshow and brief recap by WrestleFans](https://youtu.be/jyZe8EumyMM) (poor sound)
