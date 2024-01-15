@@ -22,7 +22,7 @@
         No events held.
       {% else %}
         <ul>
-          {% for event_page in events_by_year[thisyear] | sort(attribute="date") | reverse -%}
+          {% for event_page in venue_events_thisyear | sort(attribute="date") | reverse -%}
             <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
           {% endfor -%}
         </ul>
