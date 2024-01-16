@@ -11,7 +11,6 @@ The third Champions War event was held again in [Głuchołazy](@/v/gosir-gluchol
 - ["Matt Buckna", "???"]
 - ["Dynamite Dave", "Christopher Anthony"]
 - ["Skull Evil", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
-- [""]
 - - "Catch Connection: Alexander Reich, Ronny Kessler"
   - "Storm Riders: Red Thunder, Blue Thunder"
   - c: "MZW Tag Team Championship"
