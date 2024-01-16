@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 import re
-from utils import parse_front_matter
+from utils import parse_front_matter, accepted_name
 from card import Card, Match
 from pathlib import Path
 from dataclasses import dataclass
@@ -58,6 +58,7 @@ def main():
                 )
             )
             for person in bout.all_names():
+                if not accepted_name(person.name): continue
                 bouts = appearances.setdefault(person.name, [])
                 bouts.append(i)
             i += 1

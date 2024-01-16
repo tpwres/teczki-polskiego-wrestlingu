@@ -1,6 +1,14 @@
 import tomllib
 from json import JSONEncoder
 from collections import Counter
+import re
+
+invalid_names_re = re.compile(r'^([?]+|Unknown\d*)$')
+def accepted_name(name):
+    """
+    Return false if name is a placeholder, otherwise true.
+    """
+    return invalid_names_re.match(name) == None
 
 def extract_front_matter(text):
     matter = []

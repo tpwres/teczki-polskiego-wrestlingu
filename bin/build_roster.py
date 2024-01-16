@@ -2,7 +2,7 @@
 
 from pathlib import Path
 import re
-from utils import parse_front_matter
+from utils import parse_front_matter, accepted_name
 from card import Card, Fighter, Manager
 import json
 from collections import Counter
@@ -31,7 +31,7 @@ def main():
         if not card.matches: continue
 
         # 4. Grab all talent names in that block
-        names = extract_names(card.matches)
+        names = [person for person in extract_names(card.matches) if accepted_name(person.name)]
         # 5. Add to a set of names for relevant orgs
         for org in orgs:
             roster = org_rosters.setdefault(org, Counter())

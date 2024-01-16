@@ -7,17 +7,19 @@ from collections import Counter
 import json
 from functools import reduce
 
-from utils import parse_front_matter, RichEncoder
+from utils import parse_front_matter, RichEncoder, accepted_name
 from card import Card
 
 def extract_names(matches):
     return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], set([]))
+
 # Not strictly necessary as the career hash can be used to pull the same info
 def update_years_active(years, card, front_matter):
     names = extract_names(card.matches)
     event_date = front_matter['date']
 
     for person in names:
+        if not accepted_name(person.name): continue
         years.setdefault(person.name, set()).add(event_date.year)
 
 def update_career(career, card, front_matter):
@@ -27,6 +29,7 @@ def update_career(career, card, front_matter):
 
     for person in names:
         plain = person.name
+        if not accepted_name(plain): continue
 
         entry = career.setdefault(plain, {})
         year = entry.setdefault(event_date.year, Counter())
