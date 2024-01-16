@@ -20,7 +20,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
   - Chris Anthony
   - Dynamite Dave
   - Franz Engel
-  - Mr. B
+  - Mr B.
   - Red Thunder
   - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "[Szymon Siwiec](@/w/szymon-siwiec.md)"

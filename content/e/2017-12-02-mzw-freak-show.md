@@ -10,7 +10,7 @@ Freak Show was the second event held in [Bakara](@/v/bakara.md). It's notable fo
 {% card() %}
 - ["Skull Evil", "Christopher Anthony", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", s: "Triple Threat Match"]
 - ["Sebastien", "Demon"]
-- ["Hexia, Mr. B", "[Amisz](@/w/axel-fox.md)"]
+- ["Hexia, Mr B.", "[Amisz](@/w/axel-fox.md)"]
 - ["Asmund", "Franz Engel", "[Justin Joy](@/w/justin-joy.md)", { s: "Triple Threat Match", c: "MZW Championship" }]
 - ["Matt Buckna, Rick Baxxter", "Apollo, Bartosz Borowsky", s: "Tag Team Match"]
 - - Damian Lambert

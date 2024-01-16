@@ -8,7 +8,7 @@ venue = "gosir-glucholazy"
 {% card() %}
 - ["Dynamite Dave", "Alexander Reich"]
 - ["Zeritus; Hexia", "Ronny Kessler"]
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Unknown, Mr. B", s: "Two on One Handicap Match"]
+- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Unknown, Mr B.", s: "Two on One Handicap Match"]
 - ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "Red Thunder", r: "DQ"]
 - ["Asmund", "Skull Evil"]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"

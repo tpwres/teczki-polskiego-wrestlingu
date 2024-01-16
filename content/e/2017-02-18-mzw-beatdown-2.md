@@ -13,7 +13,7 @@ venue = "bakara"
 - - "Kings of Porn Style: Rick Baxxter, The Grannatic"
   - Christopher Anthony, Marcus Monere
   - s: "Tag Team Match"
-- ["Hexia", "???", "???", "Blue Thunder", "Mr. B", "Red Thunder", "[Szymon Siwiec](@/w/szymon-siwiec.md)",
+- ["Hexia", "???", "???", "Blue Thunder", "Mr B.", "Red Thunder", "[Szymon Siwiec](@/w/szymon-siwiec.md)",
    s: "Battle Royale"]
 - ["[Shadow](@/w/shadow.md)", "Franz Engel", c: "MZW Championship"]
 {% end %}

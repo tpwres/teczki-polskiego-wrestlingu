@@ -12,7 +12,7 @@ Originally Prince Victor was scheduled to team up with Shadow and Szymon Siwiec.
 Attendance: estimated about 300
 
 {% card() %}
-- - "Asmund, Hexia, Mr. B"
+- - "Asmund, Hexia, Mr B."
   - >
     [Shadow](@/w/shadow.md),
     [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md),

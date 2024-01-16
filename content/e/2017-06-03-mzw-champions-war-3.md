@@ -15,7 +15,7 @@ The third Champions War event was held again in [Głuchołazy](@/v/gosir-gluchol
   - "Storm Riders: Red Thunder, Blue Thunder"
   - c: "MZW Tag Team Championship"
 - - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "Hexia, Mr. B."
+  - "Hexia, Mr B."
   - { r: "DQ", s: "Two On One Handicap Match" }
 - ["Asmund", "[Shadow](@/w/shadow.md)", { s: "Hardcore Match", c: "MZW Championship" }]
 {% end %}
