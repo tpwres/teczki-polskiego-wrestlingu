@@ -85,8 +85,9 @@ class Match:
          \s* # Eat trailing space
         ''', re.VERBOSE)
 
-    def __init__(self, match_row: list[str]):
+    def __init__(self, match_row: list[str], index: int):
         self.line = match_row # Store original row
+        self.index = index
         match match_row:
             case [*participants, dict() as options]:
                 self.opponents = list(self.parse_opponents(participants))
@@ -96,7 +97,7 @@ class Match:
                 self.options = {}
 
     def __repr__(self) -> str:
-        return "Match(o={!r} f={!r})".format(self.opponents, self.options)
+        return "Match(i={},o={!r} f={!r})".format(self.index, self.opponents, self.options)
 
     def all_names(self) -> Iterable[Name]:
         for opp in self.opponents:
@@ -190,5 +191,5 @@ class Card:
 
     def parse_card(self, card_text: str) -> Iterable[Match]:
         match_rows = yaml.safe_load(io.StringIO(card_text))
-        return [Match(row) for row in match_rows]
+        return [Match(row, i) for i, row in enumerate(match_rows)]
 
