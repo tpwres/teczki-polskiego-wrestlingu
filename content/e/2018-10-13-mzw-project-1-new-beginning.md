@@ -16,6 +16,8 @@ venue = "bakara"
 
 Ring announcer: Tomasz Warchoł
 
+* Lady Killer dons a pink glove and pokes Axel with a finger to the anus. Later tries to do the same to Asmund, but Asmund overpowers him and forces Lady Killer to taste the finger.
+
 ### References
 
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=322460)
