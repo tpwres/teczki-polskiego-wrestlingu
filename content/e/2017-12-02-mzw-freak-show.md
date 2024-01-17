@@ -5,24 +5,23 @@ template = "event_page.html"
 venue = "bakara"
 +++
 
-Freak Show was the second event held in [Bakara](@/v/bakara.md). It's notable for the debut of Amisz, a fan turned wrestler, who would later adopt the ringname Axel Fox, and Bartosz Borowski, later known as Ladykiller and Boro. The event features new and returning German and Czech wrestlers, and the comeback of Justin Joy, absent since [MZW Beatdown](@/e/2016-05-14-mzw-beatdown.md) more than a year before.
+Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumble is somewhat notable for featuring the debuts of several future MZW and PTW wrestlers: Amisz, later known as Axel Fox, Bartosz Borowski, later known as Ladykiller and Boro, Karol Górski (Iskra), Kuba Kamiński (Jacob Crane), Rafał Orszak (Rafael Kid). The event features new and returning German and Czech wrestlers, and the comeback of Justin Joy, absent since [MZW Beatdown](@/e/2016-05-14-mzw-beatdown.md) more than a year before.
 
 {% card() %}
 - ["Skull Evil", "Christopher Anthony", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", s: "Triple Threat Match"]
 - ["Sebastien", "Demon"]
 - ["Hexia, Mr B.", "[Amisz](@/w/axel-fox.md)"]
-- ["Asmund", "Franz Engel", "[Justin Joy](@/w/justin-joy.md)", { s: "Triple Threat Match", c: "MZW Championship" }]
-- ["Matt Buckna, Rick Baxxter", "Apollo, Bartosz Borowsky", s: "Tag Team Match"]
+- ["Asmund", "[Franz Engel](@/w/franz-engel.md)", "[Justin Joy](@/w/justin-joy.md)", { s: "Triple Threat Match", c: "MZW Championship" }]
+- ["Matt Buckna, Rick Baxxter", "Apollo, [Bartosz Borowsky](@/w/boro.md)", s: "Tag Team Match"]
 - - Damian Lambert
   - Apollo
-  - Bartosz Borowsky
+  - "[Bartosz Borowsky](@/w/boro.md)"
   - Blue Thunder
-  - Kamil Kwieciel
-  - Karol Górski
-  - Kuba Kamiński
+  - Kamil Kwiecień
+  - "[Karol Górski](@/w/iskra.md)"
+  - "[Kuba Kamiński](@/w/jacob-crane.md)"
   - Marcel Koniecki
-  - Orszak
-  - Rafa
+  - "[Rafał Orszak](@/w/rafael-kid.md)"
   - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - s: "Ten Man Battle Royal"
 - ["Laurance Roman(c)", "[Shadow](@/w/shadow.md)", c: "Next Step Wrestling National Championship"]

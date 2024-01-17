@@ -5,15 +5,17 @@ template = "event_page.html"
 venue = "gosir-glucholazy"
 +++
 
-This was the last [MZW](@/o/mzw.md) event to be held in [Głuchołazy](@/v/gosir-glucholazy.md), and also another charity event with donations going to WOŚP, coinciding with their 26th annual Grand Finale event. Listings of this event elsewhere on the Internet often mention the word "Anniversary", but do not explain where it comes from.
+This was the last [MZW](@/o/mzw.md) event to be held in [Głuchołazy](@/v/gosir-glucholazy.md), and also another charity event with donations going to WOŚP, coinciding with their 26th annual Grand Finale event. Listings of this event elsewhere on the Internet sometimes add "26th Anniversary", but do not explain what it refers to. It does not refer to MZW's Anniversary, at this time about four years old, but to the Grand Finale.
 
-The event featured their biggest ever battle royale-style match, which had many of the same participants as the ten-man rumble on their [previous show](@/e/2017-12-02-mzw-freak-show.md) in Wrocław. The winner was supposed to face Asmund for the MZW Championship. However, with the last two remaining, while they were standing on the ring apron outside the ropes, Asmund intervened and pulled them both to the ground, hoping to avoid his match because there'd be no single winner. Unfortunately, Tomasz Warchoł called the absent Jędruś Bułecka, who decided that they will have a Triple Threat Match instead.
+The event featured their biggest ever battle royale-style match, which had many of the same participants as the ten-man rumble on their [previous show](@/e/2017-12-02-mzw-freak-show.md) in Wrocław, plus guest wrestlers from Germany and Czechia.
+
+The rumble winner was slated to face Asmund for the MZW Championship. He was present at ringside, observing the action. Once down to the last two participants, there was a near-finish, when they were standing on the ring apron outside the ropes. Asmund intervened and pulled them both to the ground simultaneously, hoping to avoid his match as there was no clear winner. Unfortunately, Tomasz Warchoł called the absent Jędruś Bułecka, who decided that they are going to have a Triple Threat Match instead.
 
 {% card() %}
 - - "[Shadow](@/w/shadow.md) + [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - Alexander Reich
   - "[Amisz](@/w/axel-fox.md)"
-  - Bartosz Borowsky
+  - "[Bartosz Borowsky](@/w/boro.md)"
   - Bartuk
   - Chris Anthony
   - Damien Rotschild
@@ -23,12 +25,12 @@ The event featured their biggest ever battle royale-style match, which had many 
   - Ezeny
   - Hexia
   - Kent
-  - Kuba Kamiński
+  - "[Kuba Kamiński](@/w/jacob-crane.md)"
   - Laurance Roman
   - Marcel Koniecki
   - Matt Buckna
   - Mr B.
-  - Rafael Kid
+  - "[Rafael Kid](@/w/rafael-kid.md)"
   - Red Thunder
   - Rick Baxxter
   - Ronny Kessler
@@ -39,7 +41,7 @@ The event featured their biggest ever battle royale-style match, which had many 
   - s: "MZW Championship #1 Contender 26 Man Royal Rumble Match"
 - - "[Shadow](@/w/shadow.md)"
   - "Asmund(c)"
-  - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+  - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - { c: "MZW Championship", s: "Triple Threat Match" }
 {% end %}
 
@@ -47,6 +49,7 @@ Ring announcer: Tomasz Warchoł
 
 ### References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=192262)
 * [Full Royal Rumble match](https://www.youtube.com/watch?v=KLp-Ub3MGDo)
 * [Facebook post with photos](https://www.facebook.com/ManiacZoneWrestling/posts/1204544136356477/)
 * [Triple Threat match finale](https://www.instagram.com/stanimania/p/Bd-AHC1B1Ia/) on Dobroniak's Instagram
