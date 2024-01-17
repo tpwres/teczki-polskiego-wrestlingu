@@ -7,7 +7,7 @@
     {% set my_appearances = appearances | get(key=page.title) %}
 {% endif %}
 {% for alias in page.extra | get(key="career_aliases", default=[]) %}
-    {% set alias_appearances = appearances | get(key=alias) %}
+    {% set alias_appearances = appearances | get(key=alias, default=[]) %}
     {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
 {% endfor %}
 {% set_global my_matches = [] -%}
