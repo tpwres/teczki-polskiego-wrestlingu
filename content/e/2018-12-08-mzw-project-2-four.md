@@ -7,7 +7,7 @@ venue = "czasoprzestrzen"
 
 {% card() %}
 - ["Deti Black", "Apollo Anderson"]
-- ["Lady Killer](@/w/boro.md", "Asmund", nc: "No Contest"]
+- ["[Lady Killer](@/w/boro.md)", "Asmund", nc: "No Contest"]
 - ["Stanislaw Van Dobroniak", "[Axel Fox](@/w/axel-fox.md)"]
 - ["Asmund", "Christopher Anthony", "[Justin Joy](@/w/justin-joy.md)", s: "Three Way Match"]
 - ["Matt Buckna", "[Jacob Crane](@/w/jacob-crane.md)", s: "Falls Count Anywhere Match"]
