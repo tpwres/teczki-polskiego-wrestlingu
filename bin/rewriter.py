@@ -1,7 +1,15 @@
 from yaml import tokens, events
 from yaml._yaml import CParser, CEmitter
 from io import StringIO
-import pdb
+from dataclasses import dataclass
+
+class RewriterPattern: pass
+
+@dataclass
+class UpdateMatch(RewriterPattern):
+    match_index: int
+    name: str
+    link: str
 
 class Rewriter:
     """
@@ -11,15 +19,19 @@ class Rewriter:
     """
     def __init__(self, text: str):
         self.stream = StringIO(text)
-        self.patterns = {}
+        self.patterns = []
 
-    def add_replacement(self, token_value, replacement_value):
-        self.patterns[token_value] = replacement_value
+    def add_replacement(self, pattern: RewriterPattern):
+        self.patterns.append(pattern)
 
-    def replace_in_scalar(self, scalar_value: str) -> str:
+    def replace_in_scalar(self, scalar_value: str, indices: list[int]) -> str:
         new_value = scalar_value
-        for pat, repl in self.patterns.items():
-            new_value = new_value.replace(pat, repl)
+        for pat in self.patterns:
+            match pat:
+                # Pattern indices are 0-based, but nested list indices from tokens are 1-based
+                case UpdateMatch(match_index=index, name=name, link=link) if indices[0] == index + 1:
+                    new_value = new_value.replace(name, link)
+                    break
         return new_value
 
     QUOTES = "'\""
@@ -57,7 +69,7 @@ class Rewriter:
                 # Output it as closely to the original as possible, but replace text in value
                 # according to defined patterns
                 case tokens.ScalarToken(plain=plain, style=style, value=value, start_mark=start, end_mark=end_) as scalar:
-                    new_value = self.replace_in_scalar(value)
+                    new_value = self.replace_in_scalar(value, indices)
                     is_implicit = style in Rewriter.QUOTES or style in Rewriter.BLOCKSTR
                     emitter.emit(events.ScalarEvent(anchor=None,
                                                     tag=None,

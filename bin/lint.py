@@ -8,7 +8,7 @@ from card import Card, Match
 from sys import exit
 from typing import Iterable
 from dataclasses import dataclass
-from rewriter import Rewriter
+from rewriter import Rewriter, UpdateMatch
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -61,7 +61,7 @@ class UnlinkedParticipant(LintError):
         with self.path.open() as fp:
             card_lines = fp.read()[card.start_offset:card.end_offset]
             rewriter = Rewriter(card_lines)
-            rewriter.add_replacement(self.name, self.link)
+            rewriter.add_replacement(UpdateMatch(self.match_index, self.name, self.link))
             result = rewriter.rewrite()
             return ReplaceCard(result)
 
