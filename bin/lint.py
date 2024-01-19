@@ -8,6 +8,8 @@ from card import Card, Match
 from sys import exit
 from typing import Iterable
 from dataclasses import dataclass
+import yaml
+from rewriter import Rewriter
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -16,8 +18,11 @@ def maybe_expand_dir(path: Path):
         return [path.absolute()]
 
 
+class LintError:
+    pass
+
 @dataclass
-class UnlinkedParticipant:
+class UnlinkedParticipant(LintError):
     path: Path
     match_index: int
     name: str
@@ -26,7 +31,42 @@ class UnlinkedParticipant:
     def __str__(self):
         return "Match {}: replace {} with link {}".format(self.match_index + 1, self.name, self.link)
 
-def analyze_matches(matches: Iterable[Match], names_with_articles: dict[str, Path], errors: list[object], path: Path):
+    def message(self, file_root: Path):
+        return "[{}] {}".format(self.path.relative_to(file_root), self)
+
+    def supports_auto(self):
+        return True
+
+    def replace_entry_text(self, entry):
+        match entry:
+            case str() as s:
+                return s.replace(self.name, self.link)
+            case _:
+                return entry
+
+    def fixed_text(self, text):
+        card = Card(self.path.open())
+        if not card.matches: return None
+
+        with self.path.open('r') as fp:
+            card_lines = ''.join(fp.readlines()[card.line_start:card.line_end])
+            rewriter = Rewriter(card_lines)
+            rewriter.add_replacement(self.name, self.link)
+            result = rewriter.rewrite()
+            print(result)
+
+
+@dataclass
+class MissingCard(LintError):
+    path: Path
+
+    def message(self, file_root: Path):
+        return "[{}] Missing card block {{% card() %}} .. {{% end %}}".format(self.path.relative_to(file_root))
+
+    def supports_auto(self):
+        return False
+
+def analyze_matches(matches: Iterable[Match], names_with_articles: dict[str, Path], errors: list[LintError], path: Path):
     for m in matches:
         participants = list(m.all_names())
         unlinked_participants = [p for p in participants if p.link is None]
@@ -68,21 +108,28 @@ def main(args):
     names_with_articles = load_existing_name_articles()
 
     for path in files_to_lint:
-        file_errors = []
+        file_errors: list[LintError] = []
         with path.open() as fp:
             text = fp.read()
             card = Card(text)
             if matches := card.matches:
-                analyze_matches(matches, names_with_articles, file_errors, path.relative_to(cwd))
+                analyze_matches(matches, names_with_articles, file_errors, path)
             else:
-                file_errors.append("Missing card")
+                file_errors.append(MissingCard(path))
 
-        for ferr in file_errors:
-            errors.append("[{}] {}".format(path.relative_to(cwd), ferr))
+        errors.extend(file_errors)
 
     if errors:
         for err in errors:
-            print(err)
+            print(err.message(cwd))
+
+            if args.auto or args.auto_dryrun and err.supports_auto():
+                with err.path.open() as fp:
+                    text = fp.read()
+                    fixed_text = err.fixed_text(text)
+                    if args.auto_dryrun:
+                        print(fixed_text)
+
         return False
 
     return True
@@ -95,6 +142,8 @@ def build_argparser():
 
     parser.add_argument(dest='event_files', nargs='*', metavar='filename.md',
                         help='Filename to check. If not specified, run on all event files.')
+    parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
+    parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
     return parser
 
 if __name__ == "__main__":
