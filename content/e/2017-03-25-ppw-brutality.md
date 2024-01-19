@@ -11,8 +11,9 @@ This event is from the backyard era of PpW, one of the final ones, and the final
 
 {% card() %}
 - ["[Johnny Blade](@/w/johnny-blade.md)", "Hardcore Icon", {s: "Hardcore Match", nc: "?"}]
-- ["[Rob Scaffold](@/w/rob-scaffold.md)", "Steven Strong", {s: "Hardcore Match", nc: "?"}]
-- ["[Mister Z](@/w/mister-z.md)", "[Feager](@/w/feager.md)", nc: "?"]
+- ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Steven Strong](@/w/biesiad.md)", {s: "Hardcore
+      Match", nc: "?"}]
+- ["[Mister Z](@/w/mister-z.md)", "[Feager](@/w/feager.md)", {nc: "?"}]
 {% end %}
 
 A rumble match was also held, with unspecified participants.

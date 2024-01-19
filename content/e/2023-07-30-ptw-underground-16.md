@@ -11,7 +11,7 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 
 {% card() %}
 - - "PAKA: [Boro](@/w/boro.md), Disco Pablo, Taras"
-  - "Marco Hammers + Olgierd + Vic Golden"
+  - "Marco Hammers, Olgierd, [Vic Golden](@/w/vic-golden.md)"
   - s: "Six-Man Tag Team Match"
 - ["[Rafi Rarytas](@/w/rafi.md)", "Erik Slotir"]
 - ["Wiktor Longman", "Max Speed", {r: "DQ"}]
