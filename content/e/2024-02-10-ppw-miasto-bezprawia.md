@@ -3,6 +3,7 @@ title = "Miasto Bezprawia"
 template = "event_page.html"
 [extra]
 venue = "teatr-komuna"
+hide_results = true
 +++
 
 Miasto Bezprawia (_Lawless City_) is an upcoming event by [PpW Ewenement](@/o/ppw.md). It will be held in Teatr Komuna, a performing arts venue
