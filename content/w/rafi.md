@@ -1,9 +1,8 @@
 +++
 title = "Rafi"
-aliases = ["rafi-rarytas"]
 template = "talent_page.html"
 [extra]
-omit_career = false
+career_aliases = ["Rafi Rarytas"]
 +++
 
 **Rafi** is a wrestler from Poland.
