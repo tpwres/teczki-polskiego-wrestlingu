@@ -10,7 +10,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
 {% card() %}
 - ["Zeritus; Hexia", "Dynamite Dave"]
 - ["Red Thunder", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
-- ["Franz Engel", "Robert Kaiser"]
+- ["[Franz Engel](@/w/franz-engel.md)(@/w/franz-engel.md)", "Robert Kaiser"]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "Posse in Effect: Rick Baxxter, The Grannatic"
   - s: "Tag Team Match"
@@ -19,13 +19,13 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
   - Unknown2
   - Chris Anthony
   - Dynamite Dave
-  - Franz Engel
+  - '[Franz Engel](@/w/franz-engel.md)(@/w/franz-engel.md)'
   - Mr B.
   - Red Thunder
   - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "[Szymon Siwiec](@/w/szymon-siwiec.md)"
   - s: "Ten Man Battle Royal"
-- ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)", c: "MZW Championship"]
+- ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)", {c: "MZW Championship"}]
 {% end %}
 
 ### References

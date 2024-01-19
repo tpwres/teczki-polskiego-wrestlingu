@@ -16,9 +16,11 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 {% card() %}
 - ["[Mister Z](@/w/mister-z.md)", "Feyyaz Aguila"]
 - ["Aytac Bahar", "[Adam Wong](@/w/adam-wong.md)"]
-- ["Bill Feager", "Joshua Amaru"]
+- ["[Bill Feager](@/w/feager.md)", "Joshua Amaru"]
 - ["[Steve Kuningas](@/w/steve-kuningas.md)", "[Isnorr](@/w/isnorr.md)"]
-- ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Tony Sk1n](@/w/tony-sk1n.md)", s: "Loser Leaves PpW"]
+- - "[Ricardo Diesel](@/w/ricardo-diesel.md)"
+  - "[Tony Sk1n](@/w/tony-sk1n.md)"
+  - s: "Loser Leaves PpW"
 - ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Johnny Blade](@/w/johnny-blade.md)"]
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
 {% end %}

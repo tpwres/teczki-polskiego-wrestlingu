@@ -13,8 +13,8 @@ Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped w
   - Krueger
   - Madman Charlie
   - Prince Victor
-  - Rafael Kid
-  - Shadow
+  - '[Rafael Kid](@/w/rafael-kid.md)'
+  - '[Shadow](@/w/shadow.md)'
   - s: "Seven Man Gauntlet Match"
 {% end %}
 

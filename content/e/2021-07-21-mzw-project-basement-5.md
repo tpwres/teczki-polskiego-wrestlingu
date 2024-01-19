@@ -8,9 +8,10 @@ venue = "online"
 Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.
 
 {% card() %}
-- ["Aron Wake", "Madman Charlie", nc: "Double Count-out"]
-- ["Krueger", "[Isnorr](@/w/isnorr.md)", "Rafael Kid", s: "Three Way Match"]
-- ["Prince Victor", "Shadow"]
+- ["Aron Wake", "Madman Charlie", {nc: "Double Count-out"}]
+- ["Krueger", "[Isnorr](@/w/isnorr.md)", "[Rafael Kid](@/w/rafael-kid.md)", {s: "Three
+      Way Match"}]
+- ["Prince Victor", "[Shadow](@/w/shadow.md)"]
 {% end %}
 
 Presenter: Konrad von Koch

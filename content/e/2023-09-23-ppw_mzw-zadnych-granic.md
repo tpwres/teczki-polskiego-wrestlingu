@@ -10,7 +10,7 @@ venue = "czasoprzestrzen"
 
 {% card() %}
 - ["[Gustav Gryffin](@/w/gustav-gryffin.md)", "Chris Cage"]
-- ["Shadow", "Rubix"]
+- ["[Shadow](@/w/shadow.md)", "Rubix"]
 - ["[Biesiad Strong](@/w/biesiad.md)", "Chris X", {s: "Hardcore Match"}]
 - ["Matt Buckna", "Michael Payne", {c: "MZW Championship", s: "#1 Contenders Match"}]
 - ["Marcus Monere", "[Mister Z](@/w/mister-z.md)"]

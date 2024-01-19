@@ -20,14 +20,14 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
 - ["Red Thunder", "Kripto"]
 - - "Projekt Gold: Nickolas von Rijk, Robert Kaiser"
   - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - { c: "Belgium Pro Wrestling Federation Championship", s: "Tag Team Match"}
+  - {c: "Belgium Pro Wrestling Federation Championship", s: "Tag Team Match"}
 - - >
-    Waschbären Auf Koffein: Franz Engel, Laurance Roman +
-    Catch Connection: Alexander Reich, Ronny Kessler
+    Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md), Laurance Roman + Catch
+    Connection: Alexander Reich, Ronny Kessler
   - >
-      Posse in Effect: Rick Baxxter, The Grannatic + Dynamite Dave + Ilja Dragunov
+    Posse in Effect: Rick Baxxter, The Grannatic + Dynamite Dave + Ilja Dragunov
   - s: "Eight Man Tag Team Match"
-- ["Hexia", "Akira", r: "Ref stoppage"]
+- ["Hexia", "Akira", {r: "Ref stoppage"}]
 {% end %}
 
 ### References

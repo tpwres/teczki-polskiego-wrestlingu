@@ -10,9 +10,9 @@ This event was a sideshow accompanying III Bieg WOPisty (a cross-country half-ma
 {% card() %}
 - ["Red Thunder", "Kripto"]
 - ["Ronzen", "The Black Phantom"]
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Mr B.; Hexia", r: "DQ"]
+- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Mr B.; Hexia", {r: "DQ"}]
 - ["Robert Kaiser", "Dynamite Dave"]
-- - "Franz Engel, [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Shadow](@/w/shadow.md)"
+- - "[Franz Engel](@/w/franz-engel.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Shadow](@/w/shadow.md)"
   - "[Justin Joy](@/w/justin-joy.md) + Posse In Effect: Rick Baxxter, The Grannatic"
   - s: "Six Man Tag Team Match"
 {% end %}
