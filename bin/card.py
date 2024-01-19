@@ -32,7 +32,7 @@ class Name:
                 object.__setattr__(self, 'link', m.group('target'))
             case _:
                 if '[' in name_or_link:
-                    raise ValueError
+                    raise ValueError(name_or_link)
                 object.__setattr__(self, 'name', name_or_link.strip().replace("(c)", ""))
 
     def __repr__(self) -> str:
