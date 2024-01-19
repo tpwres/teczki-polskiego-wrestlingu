@@ -7,16 +7,18 @@ venue = "czasoprzestrzen"
 
 {% card() %}
 - ["Deti Black", "Apollo Anderson"]
-- ["[Lady Killer](@/w/boro.md)", "Asmund", nc: "No Contest"]
+- ["[Lady Killer](@/w/boro.md)", "[Asmund](@/w/asmund.md)", {nc: "No Contest"}]
 - ["Stanislaw Van Dobroniak", "[Axel Fox](@/w/axel-fox.md)"]
-- ["Asmund", "Christopher Anthony", "[Justin Joy](@/w/justin-joy.md)", s: "Three Way Match"]
-- ["Matt Buckna", "[Jacob Crane](@/w/jacob-crane.md)", s: "Falls Count Anywhere Match"]
+- ["[Asmund](@/w/asmund.md)", "Christopher Anthony", "[Justin Joy](@/w/justin-joy.md)",
+  {s: "Three Way Match"}]
+- ["[Matt Buckna](@/w/matt-buckna.md)", "[Jacob Crane](@/w/jacob-crane.md)", {s: "Falls
+      Count Anywhere Match"}]
 - ["Shane Baker", "Gabriel Magic"]
 - - "[Shadow](@/w/shadow.md)"
-  - "Damien Rotschild"
-  - "Madman Charlie"
+  - "[Damien Rothschild](@/w/damien-rothschild.md)"
+  - "[Madman Charlie](@/w/madman-charlie.md)"
   - "[Rafael Kid](@/w/rafael-kid.md)"
-  - { c: "MZW Championship", s: "Tournament Final Four Way Match"}
+  - {c: "MZW Championship", s: "Tournament Final Four Way Match"}
 {% end %}
 
 * Lady Killer refused to enter the ring with Asmund
@@ -25,7 +27,7 @@ venue = "czasoprzestrzen"
 * Lady Killer unsuccessfuly intervened against Asmund
 * Buckna and Crane fought with kendo sticks, chairs, and outside the building
 * In the main event, all opponents arrive to the ring on a cruiser motorcycle.
-* While Shadow pins Crane, Rotschild puts an armbar on Kid, who taps immediately, before the pin finishes. However, referee does not see the tap out, and awards the win to Shadow. The angry Rotschild hits Shadow with a steel chair.
+* While Shadow pins Crane, Rothschild puts an armbar on Kid, who taps immediately, before the pin finishes. However, referee does not see the tap out, and awards the win to Shadow. The angry Rothschild hits Shadow with a steel chair.
 
 ### References
 

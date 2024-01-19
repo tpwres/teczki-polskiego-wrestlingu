@@ -6,15 +6,18 @@ venue = "gosir-glucholazy"
 +++
 
 {% card() %}
-- ["Dynamite Dave", "Alexander Reich"]
-- ["Zeritus; Hexia", "Ronny Kessler"]
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Unknown, Mr B.", s: "Two on One Handicap Match"]
-- ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "Red Thunder", r: "DQ"]
-- ["Asmund", "Skull Evil"]
+- ["[Dynamite Dave](@/w/dynamite-dave.md)", "Alexander Reich"]
+- ["Zeritus; [Hexia](@/w/hexia.md)", "Ronny Kessler"]
+- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Unknown, [Mr B.](@/w/mr-b.md)", {s: "Two
+      on One Handicap Match"}]
+- ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Red Thunder](@/w/red-thunder.md)",
+  {r: "DQ"}]
+- ["[Asmund](@/w/asmund.md)", "Skull Evil"]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "Kripto, Red Thunder"
+  - "Kripto, [Red Thunder](@/w/red-thunder.md)"
   - {c: "MZW Tag Team Championship"}
-- ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", { c: "MZW Championship", s: "Loser Leaves Town Match"}]
+- ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", {c: "MZW Championship",
+    s: "Loser Leaves Town Match"}]
 {% end %}
 
 * [Full match: Zbójnicy vs Kripto & Red Thunder](https://youtu.be/DEkQgT53Nnc)

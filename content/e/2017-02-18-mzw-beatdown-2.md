@@ -6,15 +6,17 @@ venue = "bakara"
 +++
 
 {% card() %}
-- ["Lider", "Prince Victor"]
-- ["Matt Buckna", "Dynamite Dave", {r: "Count Out"}]
-- ["Asmund", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
+- ["Lider", "[Prince Victor](@/w/vic-golden.md)"]
+- ["[Matt Buckna](@/w/matt-buckna.md)", "[Dynamite Dave](@/w/dynamite-dave.md)", {
+    r: "Count Out"}]
+- ["[Asmund](@/w/asmund.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
 - ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", "Skull Evil", {s: "Hardcore Flag Match"}]
-- - "Kings of Porn Style: Rick Baxxter, The Grannatic"
+- - "Kings of Porn Style: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic"
   - Christopher Anthony, Marcus Monere
   - s: "Tag Team Match"
-- ["Hexia", "???", "???", "Blue Thunder", "Mr B.", "Red Thunder", "[Szymon Siwiec](@/w/szymon-siwiec.md)",
-  {s: "Battle Royale"}]
+- ["[Hexia](@/w/hexia.md)", "???", "???", "Blue Thunder", "[Mr B.](@/w/mr-b.md)",
+  "[Red Thunder](@/w/red-thunder.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)", {
+    s: "Battle Royale"}]
 - ["[Shadow](@/w/shadow.md)", "[Franz Engel](@/w/franz-engel.md)", {c: "MZW Championship"}]
 {% end %}
 

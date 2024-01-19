@@ -11,8 +11,8 @@ Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped w
 - - Aron Wake
   - "[Isnorr](@/w/isnorr.md)"
   - Krueger
-  - Madman Charlie
-  - Prince Victor
+  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Prince Victor](@/w/vic-golden.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Shadow](@/w/shadow.md)'
   - s: "Seven Man Gauntlet Match"

@@ -8,10 +8,10 @@ venue = "gosir-glucholazy"
 This was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was a charity show, with donations going to [WOŚP][wosp], and coinciding with their 23rd annual Grand Finale event.
 
 {% card() %}
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Kowboj Luke"]
-- ["Hexia", "Mario Rodriguez"]
-- ["[Polish Hammer](@/w/jedrus-bulecka.md)", "Asmund"]
-- ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", r: "DQ"]
+- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Kowboj Luke](@/w/red-thunder.md)"]
+- ["[Hexia](@/w/hexia.md)", "Mario Rodriguez"]
+- ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Asmund](@/w/asmund.md)"]
+- ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", {r: "DQ"}]
 {% end %}
 
 ### References

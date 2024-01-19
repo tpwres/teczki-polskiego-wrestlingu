@@ -8,12 +8,14 @@ venue = "opawa"
 This event was a sideshow accompanying III Bieg WOPisty (a cross-country half-marathon event), held in Opawa, a small village near Lubawka, close to the Polish-Czech border.
 
 {% card() %}
-- ["Red Thunder", "Kripto"]
+- ["[Red Thunder](@/w/red-thunder.md)", "Kripto"]
 - ["Ronzen", "The Black Phantom"]
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Mr B.; Hexia", {r: "DQ"}]
-- ["Robert Kaiser", "Dynamite Dave"]
+- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Mr B.](@/w/mr-b.md); [Hexia](@/w/hexia.md)",
+  {r: "DQ"}]
+- ["Robert Kaiser", "[Dynamite Dave](@/w/dynamite-dave.md)"]
 - - "[Franz Engel](@/w/franz-engel.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Shadow](@/w/shadow.md)"
-  - "[Justin Joy](@/w/justin-joy.md) + Posse In Effect: Rick Baxxter, The Grannatic"
+  - "[Justin Joy](@/w/justin-joy.md) + Posse In Effect: [Rick Baxxter](@/w/rick-baxxter.md),
+    The Grannatic"
   - s: "Six Man Tag Team Match"
 {% end %}
 

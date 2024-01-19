@@ -12,14 +12,13 @@ Originally Prince Victor was scheduled to team up with Shadow and Szymon Siwiec.
 Attendance: estimated about 300
 
 {% card() %}
-- - "Asmund, Hexia, Mr B."
+- - "[Asmund](@/w/asmund.md), [Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)"
   - >
-    [Shadow](@/w/shadow.md),
-    [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md),
+    [Shadow](@/w/shadow.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md),
     [Szymon Siwiec](@/w/szymon-siwiec.md)
   - s: "Six Man Tag Team Elimination Match"
-- ["Lider", "???", "???", s: "Two On One Handicap Match"]
-- - "Storm Riders: Red Thunder, Blue Thunder; Columbus"
+- ["Lider", "???", "???", {s: "Two On One Handicap Match"}]
+- - "Storm Riders: [Red Thunder](@/w/red-thunder.md), Blue Thunder; Columbus"
   - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - c: "MZW Tag Team Championship"
 {% end %}

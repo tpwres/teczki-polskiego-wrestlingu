@@ -8,20 +8,20 @@ venue = "gosir-glucholazy"
 Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). Like last year's [untitled event](@/e/2015-01-11-mzw-charity-show-2015.md), it was a charity show, with donations going to [WOŚP][wosp], and was held on the same day as their 24th annual Grand Finale event.
 
 {% card() %}
-- ["Zeritus; Hexia", "Dynamite Dave"]
-- ["Red Thunder", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
-- ["[Franz Engel](@/w/franz-engel.md)(@/w/franz-engel.md)", "Robert Kaiser"]
+- ["Zeritus; [Hexia](@/w/hexia.md)", "[Dynamite Dave](@/w/dynamite-dave.md)"]
+- ["[Red Thunder](@/w/red-thunder.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
+- ["[Franz Engel](@/w/franz-engel.md)", "Robert Kaiser"]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "Posse in Effect: Rick Baxxter, The Grannatic"
+  - "Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic"
   - s: "Tag Team Match"
-- - Asmund
+- - '[Asmund](@/w/asmund.md)'
   - Unknown1
   - Unknown2
   - Chris Anthony
-  - Dynamite Dave
-  - '[Franz Engel](@/w/franz-engel.md)(@/w/franz-engel.md)'
-  - Mr B.
-  - Red Thunder
+  - '[Dynamite Dave](@/w/dynamite-dave.md)'
+  - '[Franz Engel](@/w/franz-engel.md)'
+  - '[Mr B.](@/w/mr-b.md)'
+  - '[Red Thunder](@/w/red-thunder.md)'
   - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "[Szymon Siwiec](@/w/szymon-siwiec.md)"
   - s: "Ten Man Battle Royal"

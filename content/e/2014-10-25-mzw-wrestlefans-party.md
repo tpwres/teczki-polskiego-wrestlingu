@@ -6,11 +6,12 @@ venue = "niedzwiedzica"
 +++
 
 {% card() %}
-- ["Kowboj Luke", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
+- ["[Kowboj Luke](@/w/red-thunder.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
 - ["[Justin Joy](@/w/justin-joy.md)", "Gracjan Korpo, Wiktor", {s: "Two On One Handicap
       Match"}]
-- ["Posse In Effect: Rick Baxxter, The Grannatic", "[Jędruś Bułecka](@/w/jedrus-bulecka.md),
-    [ZERO](@/w/franz-engel.md)", {s: "Next Step Wrestling Tag Team Championship"}]
+- ["Posse In Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic", "[Jędruś
+    Bułecka](@/w/jedrus-bulecka.md), [ZERO](@/w/franz-engel.md)", {s: "Next Step Wrestling
+      Tag Team Championship"}]
 {% end %}
 
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=322458)

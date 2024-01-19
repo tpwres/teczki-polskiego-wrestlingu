@@ -9,8 +9,9 @@ venue = "legnica"
 
 {% card() %}
 - ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
-- ["Dynamite Dave", "Ronzen"]
-- ["Rick Baxxter", "Amazing Alex", "JR Mystery", {s: "Three Way Match"}]
+- ["[Dynamite Dave](@/w/dynamite-dave.md)", "Ronzen"]
+- ["[Rick Baxxter](@/w/rick-baxxter.md)", "Amazing Alex", "JR Mystery", {s: "Three
+      Way Match"}]
 - ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)"]
 - ["[ZERO](@/w/franz-engel.md)", "Robert Kaiser", {c: "Next Step Wrestling Championship"}]
 {% end %}

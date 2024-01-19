@@ -18,21 +18,21 @@ The rumble winner was slated to face Asmund for the MZW Championship. He was pre
   - "[Bartosz Borowsky](@/w/boro.md)"
   - Bartuk
   - Chris Anthony
-  - Damien Rotschild
+  - '[Damien Rothschild](@/w/damien-rothschild.md)'
   - Demon
   - Denim
-  - Dynamite Dave
+  - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - Ezeny
-  - Hexia
+  - '[Hexia](@/w/hexia.md)'
   - Kent
   - "[Kuba Kamiński](@/w/jacob-crane.md)"
   - Laurance Roman
   - Marcel Koniecki
-  - Matt Buckna
-  - Mr B.
+  - '[Matt Buckna](@/w/matt-buckna.md)'
+  - '[Mr B.](@/w/mr-b.md)'
   - "[Rafael Kid](@/w/rafael-kid.md)"
-  - Red Thunder
-  - Rick Baxxter
+  - '[Red Thunder](@/w/red-thunder.md)'
+  - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - Ronny Kessler
   - Ronzen
   - Sebastien
@@ -40,9 +40,9 @@ The rumble winner was slated to face Asmund for the MZW Championship. He was pre
   - Valeria
   - s: "MZW Championship #1 Contender 26 Man Royal Rumble Match"
 - - "[Shadow](@/w/shadow.md)"
-  - "Asmund(c)"
+  - "[Asmund](@/w/asmund.md)(c)"
   - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - { c: "MZW Championship", s: "Triple Threat Match" }
+  - {c: "MZW Championship", s: "Triple Threat Match"}
 {% end %}
 
 Ring announcer: Tomasz Warchoł

@@ -8,9 +8,9 @@ venue = "gosir-glucholazy"
 This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell_), a weight-lifting bench press competition held in [Głuchołazy](@/v/gosir-glucholazy.md).
 
 {% card() %}
-- ["Asmund", "[Jędruś Bułecka](@/w/jedrus-bulecka.md)"]
+- ["[Asmund](@/w/asmund.md)", "[Jędruś Bułecka](@/w/jedrus-bulecka.md)"]
 - ["[Justin Joy](@/w/justin-joy.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
-- ["Red Thunder", "[Shadow](@/w/shadow.md)"]
+- ["[Red Thunder](@/w/red-thunder.md)", "[Shadow](@/w/shadow.md)"]
 {% end %}
 
 ### References

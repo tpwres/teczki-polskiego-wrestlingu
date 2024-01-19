@@ -6,9 +6,9 @@ template = "event_page.html"
 This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which was a cultural and entertainment festival showcasing Mexican culture: mariachi music, fencing, painting, Mexican cuisine, and of course masked Lucha Libre-style wrestling. It was held at Park Solankowy in Inowrocław.
 
 {% card() %}
-- ["[Patriota](@/w/jedrus-bulecka.md)", "Red Thunder"]
+- ["[Patriota](@/w/jedrus-bulecka.md)", "[Red Thunder](@/w/red-thunder.md)"]
 - ["El Diamante", "???"]
-- ["[Shadow](@/w/shadow.md)", "Prince Victor"]
+- ["[Shadow](@/w/shadow.md)", "[Prince Victor](@/w/vic-golden.md)"]
 {% end %}
 
 ### References
