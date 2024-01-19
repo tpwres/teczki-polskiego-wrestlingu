@@ -1,6 +1,6 @@
 import yaml
 import io
-from typing import Union, Iterable, Optional
+from typing import Union, Iterable, Optional, Tuple
 import re
 from itertools import chain
 from dataclasses import dataclass
@@ -153,41 +153,50 @@ class Card:
     def __init__(self, text_or_io: Union[str, io.TextIOBase]):
         match text_or_io:
             case str():
-                card_text = self.extract_card(text_or_io.split("\n"))
+                parse_result = self.extract_card(text_or_io.split("\n"))
             case io.TextIOBase():
-                card_text = self.extract_card(
+                parse_result = self.extract_card(
                     [line.strip("\n") for line in text_or_io]
                 )
 
-        if card_text:
+        if parse_result:
+            card_start, card_end, card_text = parse_result
+            self.line_start = card_start
+            self.line_end = card_end
             self.matches = self.parse_card(card_text)
         else:
             self.matches = None
 
-    def extract_card(self, lines: Iterable[str]) -> Union[str, None]:
+
+    DelimitedCard = Tuple[int, int, str]
+
+    def extract_card(self, lines: Iterable[str]) -> Optional[DelimitedCard]:
         card = []
         # Make an iterator to only consume lines once
         lines = iter(lines)
-        for line in lines:
+        for card_start, line in enumerate(lines):
             if line == "{% card() %}":
                 # Start marker found
+                card_start += 1
                 break
         else:
             # Start marker not found, exit early
             return None
 
+        card_end = card_start
         for line in lines:
             if line == "{% end %}":
                 # End marker found
                 break
             # Otherwise, accumulate card content
             card.append(line)
+            card_end += 1
         else:
             # End marker not found. Return nothing rather than a mangled card
             # Could also raise instead
             return None
 
-        return "\n".join(card)
+        return (card_start, card_end, "\n".join(card))
 
     def parse_card(self, card_text: str) -> Iterable[Match]:
         match_rows = yaml.safe_load(io.StringIO(card_text))
