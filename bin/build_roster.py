@@ -54,20 +54,24 @@ def sanitize_roster(roster):
     # that have markdown links or not
     # Collapse so that if there are both for a single person,
     # only the markdown one remains, and its value is the sum of both entries.
-    link_names = [name for name in roster.keys() if name.link]
-    out = {}
-    for linked_name in link_names:
-        # Cannot construct just a Name object, as it won't match Fighter or Manager objects in the dict
-        plain_f = Fighter(linked_name.name)
-        plain_m = Manager(linked_name.name)
-        md_link = linked_name.format_link()
-        out[md_link] = roster.get(linked_name, 0) + roster.get(plain_f, 0) + roster.get(plain_m, 0)
-        del roster[plain_m]
-        del roster[plain_f]
-        del roster[linked_name]
+    out = Counter()
+    plain_map = {}
+
+    print(list(roster.keys()))
 
     for person in roster.keys():
-        out.setdefault(person.name, 0)
+        if person.link:
+            md_link = person.format_link()
+            plain_map[person.name] = md_link
+            out[md_link] += roster[person]
+
+    for plain, link in plain_map.items():
+        out[link] += roster[plain]
+
+    for person in roster.keys():
+        if person.name in plain_map: continue
+        if person.link: continue
+
         out[person.name] += roster[person]
 
     return out
