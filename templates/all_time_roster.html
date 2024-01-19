@@ -1,16 +1,18 @@
 
 {% set path = "data/roster_" ~ page.slug ~ ".json" -%}
 {% set roster = load_data(path=path, required=false) -%}
-{% if not roster %}
-{% set roster = [] | group_by(attribute="none") %}
-{% endif %}
+{% if not roster %} 
+{% set roster = [] | group_by(attribute="none") %} 
+{% endif %} 
 
-{% set_global roster_names = [] -%}
-{% for name, _ignore in roster %}
-{% set_global roster_names = roster_names | concat(with=name) %}
+{% set_global rx = [] %}
+{% for name, count in roster %}
+{% set pair = [name, count] %}
+{% set_global rx = rx | concat(with=[pair]) %}
 {% endfor %}
 
 <h2>All-time roster</h2>
+
 
 <table>
     <thead>
@@ -20,11 +22,12 @@
         </tr>
     </thead>
     <tbody>
-        {# TODO: this sorts link names after unlinked names #}
-        {% for name in roster_names|sort %}
+        {# With a stable sort, this results in results sorted by count desc,
+           but items with equal count are sorted alphabetically #}
+        {% for pair in rx|sort(attribute='0')|reverse|sort(attribute='1')|reverse %}
         <tr>
-            <td>{{name | markdown(inline=true) | safe}}</td>
-            <td>{{roster | get(key=name)}}</td>
+            <td>{{pair[0] | markdown(inline=true) | safe}}</td>
+            <td>{{pair[1]}}</td>
         </tr>
         {% endfor %}
     </tbody>
