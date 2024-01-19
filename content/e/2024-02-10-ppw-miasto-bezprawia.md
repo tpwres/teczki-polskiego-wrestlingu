@@ -19,8 +19,10 @@ that operates in a former school building. This is the first time PpW presents t
 NOTE: Full card yet to be announced.
 
 {% card() %}
-- ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW Championship](@/o/ppw.md#championships)", nc: "upcoming"}]
+- ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW
+      Championship](@/o/ppw.md#championships)", nc: "upcoming"}]
 - - "[Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md)"
   - "Chris X, [Isnorr](@/w/isnorr.md)"
-  - s: "Tornado Tag Team Match"
+  - {s: "Tornado Tag Team Match", nc: "upcoming"}
+- ["[Jacob Crane](@/w/jacob-crane.md)", "Gabriel Queen", {nc: "upcoming"}]
 {% end %}
