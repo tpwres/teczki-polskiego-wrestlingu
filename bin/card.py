@@ -152,51 +152,33 @@ class Match:
 class Card:
     def __init__(self, text_or_io: Union[str, io.TextIOBase]):
         match text_or_io:
-            case str():
-                parse_result = self.extract_card(text_or_io.split("\n"))
-            case io.TextIOBase():
-                parse_result = self.extract_card(
-                    [line.strip("\n") for line in text_or_io]
-                )
+            case str() as text:
+                # parse_result = self.extract_card(text_or_io.split("\n"))
+                parse_result = self.extract_card_unsplit(text)
+            case io.TextIOBase() as stream:
+                parse_result = self.extract_card_unsplit(stream.read())
 
         if parse_result:
             card_start, card_end, card_text = parse_result
-            self.line_start = card_start
-            self.line_end = card_end
+            self.start_offset = card_start
+            self.end_offset = card_end
             self.matches = self.parse_card(card_text)
         else:
             self.matches = None
 
-
     DelimitedCard = Tuple[int, int, str]
 
-    def extract_card(self, lines: Iterable[str]) -> Optional[DelimitedCard]:
-        card = []
-        # Make an iterator to only consume lines once
-        lines = iter(lines)
-        for card_start, line in enumerate(lines):
-            if line == "{% card() %}":
-                # Start marker found
-                card_start += 1
-                break
-        else:
-            # Start marker not found, exit early
-            return None
+    def extract_card_unsplit(self, text: str) -> Optional[DelimitedCard]:
+        start_pattern = '{% card() %}'
+        start_length = len(start_pattern) + 1 # Accounting for the new line
 
-        card_end = card_start
-        for line in lines:
-            if line == "{% end %}":
-                # End marker found
-                break
-            # Otherwise, accumulate card content
-            card.append(line)
-            card_end += 1
-        else:
-            # End marker not found. Return nothing rather than a mangled card
-            # Could also raise instead
+        card_start = text.find(start_pattern)
+        if card_start == -1:
             return None
+        card_end = text.find('{% end %}', card_start + start_length)
+        body = text[card_start + start_length:card_end]
 
-        return (card_start, card_end, "\n".join(card))
+        return (card_start + start_length, card_end, body)
 
     def parse_card(self, card_text: str) -> Iterable[Match]:
         match_rows = yaml.safe_load(io.StringIO(card_text))

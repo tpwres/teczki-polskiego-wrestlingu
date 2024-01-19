@@ -8,7 +8,6 @@ from card import Card, Match
 from sys import exit
 from typing import Iterable
 from dataclasses import dataclass
-import yaml
 from rewriter import Rewriter
 
 def maybe_expand_dir(path: Path):
@@ -20,6 +19,24 @@ def maybe_expand_dir(path: Path):
 
 class LintError:
     pass
+
+@dataclass
+class ReplaceCard:
+    text: str
+
+    def apply_changes(self, path):
+        with path.open('r') as fp:
+            card_text = fp.read()
+            card = Card(card_text)
+            start_offset, end_offset = card.start_offset, card.end_offset
+            fp.close()
+
+            new_text = card_text[:start_offset] + self.text + card_text[end_offset:]
+            with path.open('w') as fp:
+                fp.write(new_text)
+        return True
+
+
 
 @dataclass
 class UnlinkedParticipant(LintError):
@@ -37,23 +54,16 @@ class UnlinkedParticipant(LintError):
     def supports_auto(self):
         return True
 
-    def replace_entry_text(self, entry):
-        match entry:
-            case str() as s:
-                return s.replace(self.name, self.link)
-            case _:
-                return entry
-
-    def fixed_text(self, text):
+    def calculate_fix(self, text):
         card = Card(self.path.open())
         if not card.matches: return None
 
-        with self.path.open('r') as fp:
-            card_lines = ''.join(fp.readlines()[card.line_start:card.line_end])
+        with self.path.open() as fp:
+            card_lines = fp.read()[card.start_offset:card.end_offset]
             rewriter = Rewriter(card_lines)
             rewriter.add_replacement(self.name, self.link)
             result = rewriter.rewrite()
-            print(result)
+            return ReplaceCard(result)
 
 
 @dataclass
@@ -110,8 +120,7 @@ def main(args):
     for path in files_to_lint:
         file_errors: list[LintError] = []
         with path.open() as fp:
-            text = fp.read()
-            card = Card(text)
+            card = Card(fp)
             if matches := card.matches:
                 analyze_matches(matches, names_with_articles, file_errors, path)
             else:
@@ -119,20 +128,29 @@ def main(args):
 
         errors.extend(file_errors)
 
-    if errors:
-        for err in errors:
-            print(err.message(cwd))
+    if not errors:
+        return True
 
-            if args.auto or args.auto_dryrun and err.supports_auto():
-                with err.path.open() as fp:
-                    text = fp.read()
-                    fixed_text = err.fixed_text(text)
-                    if args.auto_dryrun:
-                        print(fixed_text)
+    for err in errors:
+        print(err.message(cwd))
 
-        return False
+        if not (args.auto or args.auto_dryrun):
+            continue
 
-    return True
+        if not err.supports_auto():
+            continue
+
+        with err.path.open('r+') as fp:
+            text = fp.read()
+            fix = err.calculate_fix(text)
+            if args.auto_dryrun:
+                print(fix)
+                continue
+
+            if fix.apply_changes(err.path):
+                print("Fixed")
+
+    return False
 
 
 def build_argparser():

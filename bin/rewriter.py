@@ -23,6 +23,8 @@ class Rewriter:
         return new_value
 
     QUOTES = "'\""
+    BLOCKSTR = '>|'
+
     def rewrite(self):
         """
         Edits a YAML stream token by token.
@@ -56,10 +58,11 @@ class Rewriter:
                 # according to defined patterns
                 case tokens.ScalarToken(plain=plain, style=style, value=value, start_mark=start, end_mark=end_) as scalar:
                     new_value = self.replace_in_scalar(value)
+                    is_implicit = style in Rewriter.QUOTES or style in Rewriter.BLOCKSTR
                     emitter.emit(events.ScalarEvent(anchor=None,
                                                     tag=None,
                                                     # Try to preserve plain tokens
-                                                    implicit=(plain, style in Rewriter.QUOTES),
+                                                    implicit=(plain, is_implicit),
                                                     style=style,
                                                     start_mark=start,
                                                     end_mark=end_,
