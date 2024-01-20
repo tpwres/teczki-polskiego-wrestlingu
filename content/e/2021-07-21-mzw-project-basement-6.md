@@ -8,7 +8,7 @@ venue = "online"
 Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.
 
 {% card() %}
-- - Aron Wake
+- - '[Aron Wake](@/w/aron-wake.md)'
   - "[Isnorr](@/w/isnorr.md)"
   - Krueger
   - '[Madman Charlie](@/w/madman-charlie.md)'

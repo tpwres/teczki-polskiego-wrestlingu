@@ -4,3 +4,11 @@ template = "event_page.html"
 [extra]
 venue = "czasoprzestrzen"
 +++
+
+{% card() %}
+- [Chris X, Rubix]
+- [Dieter Schwartz, Denim Adams]
+- ['[Matt Buckna](@/w/matt-buckna.md)', Alex Arthur]
+- [Leo Zayde, Alex Ace, Michael Payne, {s: Three Way Match}]
+- [Zeritus, '[Shadow](@/w/shadow.md)']
+{% end %}

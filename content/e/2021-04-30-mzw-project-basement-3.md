@@ -9,7 +9,7 @@ Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling s
 
 {% card() %}
 - ["[Rafael Kid](@/w/rafael-kid.md)", "Nathan Cross", "[Shadow](@/w/shadow.md) + [Isnorr](@/w/isnorr.md)"]
-- ["[Isnorr](@/w/isnorr.md)", "Aron Wake"]
+- ["[Isnorr](@/w/isnorr.md)", "[Aron Wake](@/w/aron-wake.md)"]
 - ["[Madman Charlie](@/w/madman-charlie.md)", "[Jacob Crane](@/w/jacob-crane.md)",
   {s: "Loser Leaves MZW Best Two Out Of Three Falls"}]
 {% end %}

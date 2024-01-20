@@ -9,7 +9,7 @@ Project Basement 1 is the first episode of [MZW's](@/o/mzw.md) taped wrestling s
 
 {% card() %}
 - ["Nathan Cross", "Krueger"]
-- ["Aron Wake", "[Prince Victor](@/w/vic-golden.md)"]
+- ["[Aron Wake](@/w/aron-wake.md)", "[Prince Victor](@/w/vic-golden.md)"]
 - ["[Rafael Kid](@/w/rafael-kid.md) + [Shadow](@/w/shadow.md)", "[Jacob Crane](@/w/jacob-crane.md)
     + [Madman Charlie](@/w/madman-charlie.md)"]
 {% end %}
