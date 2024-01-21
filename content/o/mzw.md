@@ -15,18 +15,18 @@ Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), 
 
 ## History
 
-Maniac Zone Wrestling started quietly in 2013, likely created by then DDW wrestlers Jędruś Bułecka and Straceniec.
-After DDW#9, there was a significant hiatus when they held no events.
-On April 1st, Jędruś Bułecka's Facebook profile published a news that he has signed up with a new Polish wrestling federation.
+Maniac Zone Wrestling started quietly in 2013, created by then DDW wrestlers Jędruś Bułecka and Straceniec.
+After [DDW#9](@/e/2013-10-25-ddw-9.md), there was a significant hiatus when they held no events.
+On April 1st 2014, Jędruś Bułecka's Facebook profile posted that he has signed up with a new Polish wrestling federation.
 His post linked to a newly created fanpage for MZW, and a short video of their wrestlers and adepts in action.
-The first post on that fanpage promised regular, monthly events, bigger events including foreign stars, and training sessions.
+The new organization promised regular monthly shows, bigger events including foreign stars, and training sessions.
 
 Initially, the roster featured Jędruś Bułecka, Shadow (a new, masked gimmick of the former Straceniec), and several ex-backyard wrestlers trained by Bułecka.
 Many of these characters were masked, leading to fans calling the new organisation "Polish lucha".
 The promotion prepared its debut carefully, registering with all required authorities, purchasing a proper ring and recruiting a video production crew.
 Because their first two events were sideshows on other attractions like various town festivals, fans derided the new organisation for being just a sideshow and not aiming for professionalism. However, there was consensus that their wrestling was of very high quality, exceeding that of their contemporaries.
 
-MZW was most active from 2014 to 2019, holding about five events a year. In 2021, several wrestlers would quit and join the newly created [PTW](@/o/ptw.md), to become part of its first roster.
+MZW was most active from 2014 to 2019, holding about five events a year. In 2020, several wrestlers would quit and join the newly created [PTW](@/o/ptw.md), to become part of its first roster. However, due to the COVID-19 pandemic, PTW's start was delayed till 2021.
 
 ## References
 

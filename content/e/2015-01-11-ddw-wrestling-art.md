@@ -1,0 +1,24 @@
++++
+title = "DDW Wrestling Art"
+template = "event_page.html"
+[extra]
+venue = "przywidz"
++++
+
+Held on the exact same day as [MZW's event](@/e/2015-01-11-mzw-charity-show-2015.md), and with donations also going towards WOŚP, this was DDW's first charity show.
+It was held in a gymnastics hall in Przywidz, a Kashubian village about 30km south-west of Gdańsk.
+
+{% card() %}
+- ["Luxus, Piękny Kawaler", "Kaszub, Robert Star"]
+- [GREG, Gracjan Korpo]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', Don Roid, {c: "DDW International
+      Championship", nc: "Time Limit Draw"}]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', Don Roid, {c: "DDW International
+      Championship"}]
+{% end %}
+
+### References
+
+* [DDW's recap video](https://www.youtube.com/watch?v=MXT32x52Wdw)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=123193)
+* [Vttitude's video](https://www.youtube.com/watch?v=SHVqgJsIROk)
