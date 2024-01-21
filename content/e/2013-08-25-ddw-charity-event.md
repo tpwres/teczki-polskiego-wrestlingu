@@ -4,7 +4,7 @@ template = "event_page.html"
 +++
 
 {% card() %}
-- [Klarys, Kamil Aleksander]
+- [Klarys, '[Kamil Aleksander](@/w/kamil-aleksander.md)']
 - [Aurora, Mira]
 - ["Luxus, Piękny Kawaler", "Mateusz Kowalski, Robert Star"]
 {% end %}

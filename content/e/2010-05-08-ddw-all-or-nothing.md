@@ -20,6 +20,8 @@ venue = "karuzela"
   - {s: "Ten Man Gauntlet Match", c: "DDW International Championship"}
 {% end %}
 
+The event was later released on DVD, in very limited numbers. Fans could purchase the disc by e-mailing Don Roid.
+
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=62759)
