@@ -3,9 +3,10 @@
 {% set_global years = [] -%}
 {% for year, _ign in events_by_year -%}{% set_global years = years | concat(with=year) %}{% endfor -%}
 {% set lowest_year = page.extra | get(key="year_list_start", default=2001) | int(default=2019) %}
+{% set highest_year = page.extra | get(key="year_list_end", default=2099) | int(default=2099) -%}
 
 {% for thisyear in years|sort|reverse -%}
-  {% if thisyear|int >= lowest_year -%}
+  {% if thisyear|int >= lowest_year and thisyear|int <= highest_year -%}
     {# Filter events for this year and promotion -#}
     {% set_global my_events_thisyear = [] -%}
     {% for event_page in events_by_year[thisyear] | sort(attribute="date") | reverse -%}
