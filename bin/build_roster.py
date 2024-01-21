@@ -57,8 +57,6 @@ def sanitize_roster(roster):
     out = Counter()
     plain_map = {}
 
-    print(list(roster.keys()))
-
     for person in roster.keys():
         if person.link:
             md_link = person.format_link()
