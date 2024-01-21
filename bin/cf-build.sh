@@ -5,13 +5,15 @@ deps() {
 }
 
 lint() {
-    bin/lint.py || true
+    python3 bin/lint.py || true
 }
 
 build() {
-    bin/build_metadata.py
-    bin/build_roster.py
-    bin/build_matches.py
+    python3 bin/build_metadata.py
+    python3 bin/build_roster.py
+    python3 bin/build_matches.py
+
+    zola build
 }
 
 deps
