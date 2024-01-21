@@ -7,7 +7,7 @@ This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which 
 
 {% card() %}
 - ["[Patriota](@/w/jedrus-bulecka.md)", "[Red Thunder](@/w/red-thunder.md)"]
-- ["El Diamante", "???"]
+- ["[El Diamante](@/w/asmund.md)", "???"]
 - ["[Shadow](@/w/shadow.md)", "[Prince Victor](@/w/vic-golden.md)"]
 {% end %}
 
