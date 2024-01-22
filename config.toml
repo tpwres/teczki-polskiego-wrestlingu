@@ -28,8 +28,7 @@ header_nav = [
   { url = "/about", name_en = "about" }
 ]
 mensch_links = [
-  { path = "@/o/_index.md", name = "Promotions"  },
-  { path = "@/e/_index.md", name = "Events" },
-  { path = "@/w/_index.md", name = "Talent" }
+  { path = "@/a/contributing.md", name = "Contributing" },
+  { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub" }
 ]
 mensch_theme = "theme-base-0e"

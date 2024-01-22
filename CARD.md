@@ -24,7 +24,7 @@ or inline-style:
 ["element1", "element2", "element3"]
 ```
 
-Quotes are necessary in the inline style if an element contains spaces, or certain characters: braces `{}`, square brackets `[]` or a colon `:`.
+Quotes are necessary in the inline style if an element contains spaces, or certain characters: braces `{}`, square brackets `[]`, commas `,` or colons `:`.
 
 In block style, quotes can be omitted if an element contains spaces, but not these special characters.
 
@@ -66,10 +66,10 @@ The same notation can be used for single people added to the team
 "FTR: Cash Wheeler, Dax Harwood + Mark Briscoe"
 ```
 
-And when the partners don't normally form a tag team:
+But when it's an ad-hoc team, it's fine to use commas:
 
 ```
-"Hikaru Shida + Sky Blue + Willow Nightingale"
+"Hikaru Shida, Skye Blue, Willow Nightingale"
 ```
 
 ## Championships
@@ -101,5 +101,11 @@ Examples:
   - "Big Cass + Enzo Amore"
   - "Cesaro + Sheamus"
   - "The Club: Karl Anderson, Luke Gallows"
-  - {s: "Fatal Four Way Ladder Match", c: "WWE Raw Tag Team Title"}
+  - {s: "Fatal Four Way Ladder Match",c: "WWE Raw Tag Team Title"}
+# A future event
+- [Dawid Oliwa, Leon Lato, nc: upcoming]
 ```
+
+### Special cases
+
+Sometimes the full participants of a multi-man rumble-style match are unknown. In that case, it's sufficient to list only one, and a stipulation option. This will be presented in the results view as `Winner: Somebody`.

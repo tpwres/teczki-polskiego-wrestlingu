@@ -16,6 +16,7 @@
 - If possible, describe any important storyline results, such as someone turning heel, leaving a faction etc.
 - Real-life events, if related, are also allowed.
 - List matches in the `{{ card() }}` block. A separate document describes how it works.
+- An event needs more than one link to prove it happened - something other than Cagematch.
 
 # Describing wrestlers and other talent
 
