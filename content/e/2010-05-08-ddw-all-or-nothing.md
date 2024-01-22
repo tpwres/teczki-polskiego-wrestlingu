@@ -7,13 +7,13 @@ venue = "karuzela"
 
 {% card() %}
 - ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", {s: "Ten Man Battle Royal"}]
-- - Joe Legend
+- - '[Joe Legend](@/w/joe-legend.md)'
   - Dirtbag
   - Don Roid
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - Jon Hammer
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - Klarys
+  - '[Klarys](@/w/klarys.md)'
   - '[Rider](@/w/asmund.md)'
   - Rob Cage
   - The Greatest

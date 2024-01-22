@@ -11,10 +11,10 @@ Disappointed by the poor performance of DDW#9, and the need to travel the entire
 {% card() %}
 - [Piękny Kawaler, Boski Ostrowski]
 - [Luxus, {s: Battle Royal}]
-- [Mira, Bianca, Kasandra, {s: Triple Threat Match}]
+- [Mira, '[Bianca](@/w/bianca.md)', Kasandra, {s: Triple Threat Match}]
 - [Robert Star, GREG, {s: Hardcore Match}]
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', "Kaszub, Klarys", {s: Two On One
-      Handicap Match}]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', "Kaszub, [Klarys](@/w/klarys.md)",
+  {s: Two On One Handicap Match}]
 {% end %}
 
 ### References

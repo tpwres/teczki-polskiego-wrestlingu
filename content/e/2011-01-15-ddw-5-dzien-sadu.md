@@ -6,7 +6,7 @@ venue = "gosir-katy-wroclawskie"
 +++
 
 {% card() %}
-- ['[Rider](@/w/asmund.md)', Klarys]
+- ['[Rider](@/w/asmund.md)', '[Klarys](@/w/klarys.md)']
 - [Don Roid, Rob Cage]
 - ['[Jędruś Bułecka](@/w/jedrus-bulecka.md)', Kevin Williams, {r: DQ, s: Grudge Match}]
 - - "Chris Botherway + [Kamil Aleksander](@/w/kamil-aleksander.md)"
@@ -14,12 +14,12 @@ venue = "gosir-katy-wroclawskie"
   - Don Roid
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - Kevin Williams
-  - Klarys
+  - '[Klarys](@/w/klarys.md)'
   - '[Rider](@/w/asmund.md)'
   - Rob Cage
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Chris Botherway, {s: "DDW International
       Championship #1 Contender Lumberjack Match"}]
-- ["Joe Legend(c)", Omen, {c: "DDW International Championship"}]
+- ["[Joe Legend](@/w/joe-legend.md)(c)", Omen, {c: "DDW International Championship"}]
 {% end %}
 
 Attendance: about 300
