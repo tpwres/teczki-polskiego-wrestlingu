@@ -19,7 +19,7 @@ Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), 
 ## History
 
 Maniac Zone Wrestling started quietly in 2013, created by then DDW wrestlers Jędruś Bułecka and Straceniec.
-After [DDW#9](@/e/2013-10-25-ddw-9.md), there was a significant hiatus when they held no events.
+After [DDW#9](@/e/ddw/2013-10-25-ddw-9.md), there was a significant hiatus when they held no events.
 On April 1st 2014, Jędruś Bułecka's Facebook profile posted that he has signed up with a new Polish wrestling federation.
 His post linked to a newly created fanpage for MZW, and a short video of their wrestlers and adepts in action.
 The new organization promised regular monthly shows, bigger events including foreign stars, and training sessions.

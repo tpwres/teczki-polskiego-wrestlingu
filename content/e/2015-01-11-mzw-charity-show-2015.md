@@ -7,7 +7,7 @@ venue = "gosir-glucholazy"
 
 This was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was a charity show, with donations going to [WOŚP][wosp], and coinciding with their 23rd annual Grand Finale event.
 
-In another corner of the country, DDW also held a [charity event](@/e/2015-01-11-ddw-wrestling-art.md) that same day, for the same cause.
+In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-01-11-ddw-wrestling-art.md) that same day, for the same cause.
 
 {% card() %}
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Kowboj Luke](@/w/red-thunder.md)"]

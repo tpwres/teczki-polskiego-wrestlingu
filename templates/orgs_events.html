@@ -1,5 +1,14 @@
 {% set events_section = get_section(path="e/_index.md") -%}
-{% set events_by_year = events_section.pages | group_by(attribute="year") -%}
+{% set all_events = events_section.pages %}
+{# An org may have its events in a subdirectory #}
+{% if config.extra.org_events_dir | get(key=page.slug) %}
+    {% set org_path = "e/" ~ page.slug ~ "/_index.md" %}
+    {% set per_org_events_section = get_section(path=org_path) %}
+    {% if per_org_events_section %}
+      {% set all_events = all_events | concat(with=per_org_events_section.pages) %}
+    {% endif %}
+{% endif %}
+{% set events_by_year = all_events | group_by(attribute="year") -%}
 {% set_global years = [] -%}
 {% for year, _ign in events_by_year -%}{% set_global years = years | concat(with=year) %}{% endfor -%}
 {% set lowest_year = page.extra | get(key="year_list_start", default=2001) | int(default=2019) %}
