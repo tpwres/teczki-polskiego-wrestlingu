@@ -13,7 +13,7 @@ def main():
     cwd = Path.cwd()
     # 1. List all event pages
     events_dir = cwd / "content/e"
-    event_pages = events_dir.glob("????-??-??-*.md")
+    event_pages = events_dir.glob("**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
     org_re = re.compile(r'^[-\d]+-([^-]+)')
     for page in event_pages:

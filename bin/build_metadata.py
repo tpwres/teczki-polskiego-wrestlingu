@@ -43,7 +43,7 @@ def main():
 
     events_dir = cwd / "content/e"
     # Omit _index.md pages
-    event_pages = events_dir.glob("????-??-??-*.md")
+    event_pages = events_dir.glob("**/????-??-??-*.md")
 
     for page in event_pages:
         print("Loading %s" % page)
