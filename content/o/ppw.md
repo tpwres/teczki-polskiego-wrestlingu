@@ -2,8 +2,9 @@
 title = "PpW Ewenement"
 weight = 2
 template = "org_page.html"
+authors = ["Krzysztof Zych"]
 [extra]
-year_list_start = 2019
+year_list_start = 2017
 +++
 
 PpW is a wrestling promotion from Warsaw. It styles itself as a fully independent, self-sufficient organization with no commercial affiliations.

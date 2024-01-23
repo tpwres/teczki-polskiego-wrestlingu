@@ -1,12 +1,15 @@
-
 <footer>
-    <p>Created with
-      <a href="https://github.com/getzola/zola">zola</a>,
-      the <a href="https://github.com/wilsonjholmes/mensch">mensch theme</a>,
-      {% if config.extra.cloudflare %}
-        Cloudflare Pages,
-      {% endif %}
-      and lots of ☕</p>
+  {% if page %}
+    {{ issues::authors(authors=page.authors) }}
+    <p>Is this page incorrect? <a href="{{ issues::new_issue(path=page.relative_path, title=page.title) }}">Submit an issue!</a></p>
+  {% endif %}
+  <p>Created with
+    <a href="https://github.com/getzola/zola">zola</a>,
+    the <a href="https://github.com/wilsonjholmes/mensch">mensch theme</a>,
+    {% if config.extra.cloudflare %}
+      Cloudflare Pages,
+    {% endif %}
+    and lots of ☕</p>
 </footer>
 
 <script>
