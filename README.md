@@ -1,5 +1,10 @@
 # Tales of Polish Wrestling
 
+Live site: https://teczki-polskiego-wrestlingu.pages.dev 
+
+![Static Badge](https://img.shields.io/badge/hosted_with-Cloudflare_Pages-orange)
+
+
 This is a project to write down and preserve the history of Polish Pro Wrestling.
 Currently, this history is spread across many sites: news portals, blogs, forums, other wiki sites similar to this, video sites; and Cagematch.
 But due to the nature of the (free) web, a lof of this content is no longer accessible, or degraded. TPW wants to have all wrestling shows that happened in Poland (and none other), backyards included. TPW wants to have bios on all wrestlers that appeared in Poland, local or foreign. TPW wants to preserve media that may fall of the face of the internet - photos and videos of these events.
