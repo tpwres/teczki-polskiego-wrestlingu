@@ -1,3 +1,4 @@
+{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
 <nav class="menu">
   <div class="nav-left">
     <ul class="nav-left-list">
@@ -9,14 +10,34 @@
     <ul class="nav-right-list">
       {% for link in config.extra.mensch_links %}
       <li class="nav-right-item">
-          {% if link.path %}
-            <a href="{{ get_url(path=link.path) }}">{{ link.name }}</a>
-          {% else %}
-            <a href="{{link.url}}">{{ link.name }}</a>
-          {% endif %}
+        {% set link_class = link | get(key='class', default='') -%}
+        {% set link_icon = '' %}
+        {% if link.icon %}
+          {% set link_icon = '<svg class="feather link-icon"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
+        {% endif %}
+        {% if link.path %}
+          <a href="{{ get_url(path=link.path) }}" class="{{ link_class }}">
+             {{ link_icon | safe}}
+             {{ link.name }}
+          </a>
+        {% elif link.url %}
+          <a href="{{link.url}}" class="{{ link_class }}">
+             {{ link_icon | safe }}
+             {{ link.name }}
+          </a>
+        {% endif %}
       </li>
       {% endfor %}
-      <li><a id="darkmodetoggle" onclick="switchTheme()"><svg class="feather"><use href="{{ get_url(path="feather-sprite.svg", trailing_slash=false) }}#moon"/></svg></a></li>
+      <li>
+        <a id="darkmodetoggle" onclick="switchTheme()" aria-label="Change theme">
+          <svg class="feather dark-theme-icon">
+            <use href="{{ sprite }}#moon"/>
+          </svg>
+          <svg class="feather light-theme-icon">
+            <use href="{{ sprite }}#sun"/>
+          </svg>
+        </a>
+      </li>
     </ul>
   </div>
 </nav>

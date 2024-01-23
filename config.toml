@@ -24,11 +24,8 @@ paths_keep_dates = true
 
 list_pages = false
 default_theme = "dark"
-header_nav = [
-  { url = "/about", name_en = "about" }
-]
 mensch_links = [
-  { path = "@/a/contributing.md", name = "Contributing" },
-  { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub" }
+  { path = "@/a/contributing.md", name = "Contributing", icon="edit" },
+  { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub", icon="github" }
 ]
 mensch_theme = "theme-base-0e"

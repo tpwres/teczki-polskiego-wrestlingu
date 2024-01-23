@@ -12,12 +12,19 @@
   // Fonts
   --sans-font: "Inter", sans-serif
   --mono-font: "Ubuntu Mono", monospace
+
+[data-theme="dark"]
   @include dark-theme
 
+  .dark-theme-icon
+    display: none
+
 // Light mode colors
-@media (prefers-color-scheme: light)
-  \:root
-    @include light-theme
+[data-theme="light"]
+  @include light-theme
+
+  .light-theme-icon
+    display: none
 
 .feather
   width: 32px
@@ -189,13 +196,14 @@ hr
   height: 48px
   width: 48px
   background: var(--logo-url)
+  background-size: contain
 
 .sitename
   position: relative
   top: -8px
   font-size: 1.8em
   font-weight: bold
-  color: $gb-dm-fg1
+  color: var(--text-light)
 
 a.sitename:hover
   color: var(--dark-aqua)
@@ -251,3 +259,13 @@ nav ul li
 
 a:hover
   color: var(--dark-aqua)
+
+nav svg.link-icon
+  position: relative
+  top: 8px
+
+#darkmodetoggle
+  position: relative
+  top: 8px
+
+  
