@@ -1,12 +1,16 @@
 +++
 title = "Diana Strong"
 template = "talent_page.html"
+[extra]
+authors = ["Krzysztof Zych", "Szymon Iwulski"]
 +++
 
 * [Diana's biography by Szymon Magdij on mywrestling](https://mywrestling.com.pl/diana-strong-krolowa-polskiego-wrestlingu/)
 
-## Personal data
+### Facts
 
 - Birthplace: Zakopane, Małopolska, Poland
 - Gender: female
-- Height: 157cm
+- Billed height: 157cm
+- Billed weight: 58kg
+

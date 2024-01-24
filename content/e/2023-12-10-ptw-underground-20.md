@@ -15,3 +15,8 @@ venue = "ptw-targowa"
 - ["Sambor", "Jarek Nowak"]
 - ["[Axel Fox](@/w/axel-fox.md)", "Wiktor Longman", r: "DQ"]
 {% end %}
+
+### References
+
+* [Full event on Youtube](https://www.youtube.com/watch?v=DbziqHMaPyU) (requires paid subscription)
+* [Full event on Fite/Triller](https://www.fite.tv/watch/ptw-underground-20/2pdqa/) (requires paid subscription)
