@@ -15,7 +15,8 @@ that operates in a former school building. This is the first time PpW presents t
 * Biesiad and Isnorr both intervened in the Johnny Blade vs Chris X match.
 * On social media, PpW posted that former MZW and PTW wrestler Gabriel Queen has joined their ranks and is likely to appear in some capacity. This was confirmed with the release of the official poster. Later, another post announced PTW wrestler Samson.
 * In a [facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid02zU3wXTw4DstxtdtphsXJQB3Q7wifMUxgXaYxsAiHfPzxMazGQPtTWYzTCUCfXe3Bl), PpW announced the number of participating wrestlers to beat any of their previous shows.
-* Based on the poster, the show will also feature [Jacob Crane](@/w/jacob-crane.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad](@/w/biesiad.md), Chris X, [Isnorr](@/w/isnorr.md), Asara and Gabriel Queen and Samson as noted above.
+* Following the success of the joint MZW+PPW event [Żadnych Granic](@/e/2023-09-23-ppw_mzw-zadnych-granic.md), Shadow will make his first appearance in PPW, in a three-person match that also includes Samson.
+* Based on the poster, the show will also feature [Jacob Crane](@/w/jacob-crane.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad](@/w/biesiad.md), Chris X, [Isnorr](@/w/isnorr.md), Asara and Gabriel Queen and Samson as noted above
 
 NOTE: Full card yet to be announced.
 
@@ -26,4 +27,5 @@ NOTE: Full card yet to be announced.
   - "Chris X, [Isnorr](@/w/isnorr.md)"
   - {s: "Tornado Tag Team Match", nc: "upcoming"}
 - ["[Jacob Crane](@/w/jacob-crane.md)", "Gabriel Queen", {nc: "upcoming"}]
+- [Asara, '[Shadow](@/w/shadow.md)', Samson, {s: "3-Way Dance"}]
 {% end %}

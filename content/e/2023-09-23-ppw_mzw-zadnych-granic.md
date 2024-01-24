@@ -5,7 +5,6 @@ template = "event_page.html"
 venue = "czasoprzestrzen"
 +++
 
-
 Żadnych Granic ("No Borders") was a cooperative event by [Maniac Zone Wrestling](@/o/mzw.md) and [PpW](@/o/ppw.md) that was held in Wrocław on September 23, 2023. While the event was organized by MZW, wrestlers from PpW were featured in half of all matches, and official promotional material emphasized PpW's involvement. The card also featured wrestlers from Unlimited Wrestling and Eastside Revolution Wrestling, both German promotions that frequently cooperate with MZW.
 
 {% card() %}
@@ -17,6 +16,6 @@ venue = "czasoprzestrzen"
 - ["Marcus Monere", "[Mister Z](@/w/mister-z.md)"]
 {% end %}
 
-* [Facebook event](https://www.facebook.com/events/1031532237862352)
-* [Cagematch event](https://www.cagematch.net/?id=1&nr=375104)
+* [Facebook event page](https://www.facebook.com/events/1031532237862352)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=375104)
 * [YouTube playlist](https://youtube.com/playlist?list=PL9jkhNR2Sx8ge-csZg10eYBYqmmANbvAK&si=SvGUMIDMmxBnxnjJ), each match is a separate video
