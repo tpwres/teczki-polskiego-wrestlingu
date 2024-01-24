@@ -6,7 +6,7 @@ venue = "winogronowa"
 hide_results = true
 +++
 
-This event is from the backyard era of PpW, one of the final ones, and the final one to be held at their outdoor ring located at Winogronowa in Warsaw's Ursynów district.
+This event is from the backyard era of PpW, held at their outdoor ring located at Winogronowa in Warsaw's Ursynów district.
 
 
 {% card() %}
