@@ -3,108 +3,16 @@
 from pathlib import Path
 from argparse import ArgumentParser
 from itertools import chain
-from utils import parse_front_matter
-from card import Card, Match
 from sys import exit
-from typing import Iterable
-from dataclasses import dataclass
-from rewriter import Rewriter, UpdateMatch
+from linters.base import LintError
+from linters.unlinked_participant import UnlinkedParticipantLinter
+from linters.missing_card import MissingCardLinter
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
-        return path.glob('????-??-??-*.md')
+        return path.rglob('????-??-??-*.md')
     else:
         return [path.absolute()]
-
-
-class LintError:
-    pass
-
-@dataclass
-class ReplaceCard:
-    text: str
-
-    def apply_changes(self, path):
-        with path.open('r') as fp:
-            card_text = fp.read()
-            card = Card(card_text)
-            start_offset, end_offset = card.start_offset, card.end_offset
-            fp.close()
-
-            new_text = card_text[:start_offset] + self.text + card_text[end_offset:]
-            with path.open('w') as fp:
-                fp.write(new_text)
-        return True
-
-
-
-@dataclass
-class UnlinkedParticipant(LintError):
-    path: Path
-    match_index: int
-    name: str
-    link: str
-
-    def __str__(self):
-        return "Match {}: replace {} with link {}".format(self.match_index + 1, self.name, self.link)
-
-    def message(self, file_root: Path):
-        return "[{}] {}".format(self.path.relative_to(file_root), self)
-
-    def supports_auto(self):
-        return True
-
-    def calculate_fix(self, text):
-        card = Card(self.path.open())
-        if not card.matches: return None
-
-        with self.path.open() as fp:
-            card_lines = fp.read()[card.start_offset:card.end_offset]
-            rewriter = Rewriter(card_lines)
-            rewriter.add_replacement(UpdateMatch(self.match_index, self.name, self.link))
-            result = rewriter.rewrite()
-            return ReplaceCard(result)
-
-
-@dataclass
-class MissingCard(LintError):
-    path: Path
-
-    def message(self, file_root: Path):
-        return "[{}] Missing card block {{% card() %}} .. {{% end %}}".format(self.path.relative_to(file_root))
-
-    def supports_auto(self):
-        return False
-
-def analyze_matches(matches: Iterable[Match], names_with_articles: dict[str, Path], errors: list[LintError], path: Path):
-    for m in matches:
-        participants = list(m.all_names())
-        unlinked_participants = [p for p in participants if p.link is None]
-        # Unlinked participants are only flagged if a personal file already exists
-        for up in unlinked_participants:
-            article = names_with_articles.get(up.name)
-            if not article: continue
-
-            link = "[{}](@/w/{})".format(up.name, article.name)
-            errors.append(UnlinkedParticipant(path, m.index, up.name, link))
-
-
-def load_existing_name_articles() -> dict[str, Path]:
-    cwd = Path.cwd()
-    talent_dir = cwd / 'content/w'
-    name_files = talent_dir.glob('*.md')
-    names = {}
-    for path in name_files:
-        if path.name == '_index.md': continue
-        with path.open('r') as fp:
-            text = fp.read()
-            front_matter = parse_front_matter(text)
-            names[front_matter['title']] = path
-            if extra := front_matter.get('extra'):
-                for alias in extra.get('career_aliases', []):
-                    names[alias] = path
-
-    return names
 
 def main(args):
     errors = []
@@ -115,16 +23,16 @@ def main(args):
     else:
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
-    names_with_articles = load_existing_name_articles()
+    linters_to_run = [
+        MissingCardLinter(),
+        UnlinkedParticipantLinter(),
+    ]
 
     for path in files_to_lint:
         file_errors: list[LintError] = []
-        with path.open() as fp:
-            card = Card(fp)
-            if matches := card.matches:
-                analyze_matches(matches, names_with_articles, file_errors, path)
-            else:
-                file_errors.append(MissingCard(path))
+
+        for linter in linters_to_run:
+            file_errors.extend(linter.lint(path))
 
         errors.extend(file_errors)
 
