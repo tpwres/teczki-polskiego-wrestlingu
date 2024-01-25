@@ -13,11 +13,11 @@ See also [Day 1](@/e/kpw/2015-12-11-kpw-at-gdynia-game-festival-day-1.md)
 and [Day 3](@/e/kpw/2015-12-13-kpw-at-gdynia-game-festival-day-3.md).
 
 {% card() %}
-- [Kaszub, Luxus]
-- [Piękny Kawaler, {s: "Battle Royal"}]
-- ["[Bianca](@/w/bianca.md), Gracjan Korpo", "Boski Ostrowski, Mira", {s: "Tag Team
-      Match"}]
-- ['[Damian Lambert](@/w/damien-rothschild.md)', Robert Star]
+- ['[Kaszub](@/w/kaszub.md)', '[Luxus](@/w/luxus.md)']
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', {s: "Battle Royal"}]
+- ["[Bianca](@/w/bianca.md), Gracjan Korpo", "[Boski Ostrowski](@/w/ostrowski.md),
+    Mira", {s: "Tag Team Match"}]
+- ['[Damian Lambert](@/w/damien-rothschild.md)', '[Robert Star](@/w/robert-star.md)']
 {% end %}
 
 ### References

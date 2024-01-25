@@ -10,16 +10,17 @@ This was the first event held by the newly created KPW. Because it inherited the
 Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular Ron Corvus became a familiar face in KPW, specializing in hardcore matches.
 
 {% card() %}
-- ["GREG, Luxus", "Boski Ostrowski, Victor Rosetti", {s: "Tag Team Match"}]
+- ["[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),
+    Victor Rosetti", {s: "Tag Team Match"}]
 - [Mira, Kasandra]
-- ["Team Hungary: Renegade", "Team KPW: Kaszub",
-   s: "KPW vs Hungary Nations Cup Round 1 Match"]
-- ["Team KPW: [Bianca](@/w/bianca.md)", "Team Hungary: Audrey Bride",
-   s: "KPW vs Hungary Nations Cup Round 2 Match"]
-- ["Team Hungary: [Ron Corvus](@/w/ron-corvus.md)", "Team KPW: Robert Star",
-   s: "KPW vs Hungary Nations Cup Round 3 Hardcore Match"]
-- ["Team KPW: Piękny Kawaler", "Team Hungary: Nitro",
-   s: "KPW vs Hungary Nations Cup Round 4 Falls Count Anywhere Match"]
+- ["Team Hungary: Renegade", "Team KPW: [Kaszub](@/w/kaszub.md)", {s: "KPW vs Hungary
+      Nations Cup Round 1 Match"}]
+- ["Team KPW: [Bianca](@/w/bianca.md)", "Team Hungary: Audrey Bride", {s: "KPW vs
+      Hungary Nations Cup Round 2 Match"}]
+- ["Team Hungary: [Ron Corvus](@/w/ron-corvus.md)", "Team KPW: [Robert Star](@/w/robert-star.md)",
+  {s: "KPW vs Hungary Nations Cup Round 3 Hardcore Match"}]
+- ["Team KPW: [Piękny Kawaler](@/w/piekny-kawaler.md)", "Team Hungary: Nitro", {s: "KPW
+      vs Hungary Nations Cup Round 4 Falls Count Anywhere Match"}]
 - ["Team KPW: [Kamil Aleksander](@/w/kamil-aleksander.md)", "Team Hungary: [Dover](@/w/dover.md)",
-   s: "KPW vs Hungary Nations Cup Round 5 Match"]
+  {s: "KPW vs Hungary Nations Cup Round 5 Match"}]
 {% end %}

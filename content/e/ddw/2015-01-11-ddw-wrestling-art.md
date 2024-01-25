@@ -9,8 +9,9 @@ Held on the exact same day as [MZW's event](@/e/2015-01-11-mzw-charity-show-2015
 It was held in a gymnastics hall in Przywidz, a Kashubian village about 30km south-west of Gdańsk.
 
 {% card() %}
-- ["Luxus, Piękny Kawaler", "Kaszub, Robert Star"]
-- [GREG, Gracjan Korpo]
+- ["[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)", "[Kaszub](@/w/kaszub.md),
+    [Robert Star](@/w/robert-star.md)"]
+- ['[GREG](@/w/greg.md)', Gracjan Korpo]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', Don Roid, {c: "DDW International
       Championship", nc: "Time Limit Draw"}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', Don Roid, {c: "DDW International

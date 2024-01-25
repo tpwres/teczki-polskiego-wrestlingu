@@ -13,8 +13,9 @@ See also [Day 1](@/e/kpw/2015-12-11-kpw-at-gdynia-game-festival-day-1.md)
 and [Day 2](@/e/kpw/2015-12-12-kpw-at-gdynia-game-festival-day-2.md).
 
 {% card() %}
-- ["Kaszub, Robert Star", "Greg, Luxus", s: "Tag Team Match"]
-- [Piękny Kawaler, Dawid Oliwa]
+- ["[Kaszub](@/w/kaszub.md), [Robert Star](@/w/robert-star.md)", "[Greg](@/w/greg.md),
+    [Luxus](@/w/luxus.md)", {s: "Tag Team Match"}]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)']
 {% end %}
 
 ### References

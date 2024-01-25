@@ -6,12 +6,13 @@ venue = "gimnazjum-8-gdansk"
 +++
 
 {% card() %}
-- ["Gracjan Korpo; Krzysztof Zasada", "Boski Ostrowski"]
+- ["Gracjan Korpo; Krzysztof Zasada", "[Boski Ostrowski](@/w/ostrowski.md)"]
 - [Mira, Kasandra]
-- [GREG, {s: Battle Royal}]
-- [Robert Star, '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
-- [Don Roid, Robert Star]
-- ['[Klarys](@/w/klarys.md)', Kaszub, Piękny Kawaler, {s: "Three Way Match"}]
+- ['[GREG](@/w/greg.md)', {s: Battle Royal}]
+- ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
+- [Don Roid, '[Robert Star](@/w/robert-star.md)']
+- ['[Klarys](@/w/klarys.md)', '[Kaszub](@/w/kaszub.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)',
+  {s: "Three Way Match"}]
 {% end %}
 
 ### References

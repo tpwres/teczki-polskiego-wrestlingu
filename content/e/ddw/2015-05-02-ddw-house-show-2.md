@@ -9,11 +9,11 @@ This was ultimately the last show held under the DDW banner. After moving to Gda
 Disappointed by the poor performance of DDW#9, and the need to travel the entire country to run the school and shows now in Gdańsk, Don Roid would soon close down DDW, selling the ring to a new organization which took over the entire roster. That organization would reveal itself later in October that year as [KPW](@/o/kpw.md).
 
 {% card() %}
-- [Piękny Kawaler, Boski Ostrowski]
-- [Luxus, {s: Battle Royal}]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
+- ['[Luxus](@/w/luxus.md)', {s: Battle Royal}]
 - [Mira, '[Bianca](@/w/bianca.md)', Kasandra, {s: Triple Threat Match}]
-- [Robert Star, GREG, {s: Hardcore Match}]
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', "Kaszub, [Klarys](@/w/klarys.md)",
+- ['[Robert Star](@/w/robert-star.md)', '[GREG](@/w/greg.md)', {s: Hardcore Match}]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', "[Kaszub](@/w/kaszub.md), [Klarys](@/w/klarys.md)",
   {s: Two On One Handicap Match}]
 {% end %}
 
