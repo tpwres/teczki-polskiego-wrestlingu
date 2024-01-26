@@ -2,7 +2,7 @@
 title = "KPW Arena V: Atlantic City"
 template = "event_page.html"
 [extra]
-venue = "klub-atlantic"
+venue = "atlantic-gdynia"
 +++
 
 The fifth Arena show, this time numbered with Roman V instead of a 5, was the first event to be held in Atlantic, a music club and bar located in the very center of Gdynia.
