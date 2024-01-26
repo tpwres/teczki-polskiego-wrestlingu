@@ -10,11 +10,11 @@ The fifth Arena show, this time numbered with Roman V instead of a 5, was the fi
 The main event featured British wrestler Pastor William Eaver, a former PROGRESS wrestling champion and UK scene mainstay from 2013 until 2021. This would be his only KPW appearance.
 
 {% card() %}
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Gracjan Korpo]
-- ['[Greg](@/w/greg.md)', Peter Pannache]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
+- ['[Greg](@/w/greg.md)', '[Peter Pannache](@/w/peter-pannache.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Kaszub](@/w/kaszub.md)']
-- ["[Boski Ostrowski](@/w/ostrowski.md), [Dawid Oliwa](@/w/dawid-oliwa.md); Mira",
-  "Gracjan Korpo, Victor Rosetti", {r: DQ}]
+- ["[Boski Ostrowski](@/w/ostrowski.md), [Dawid Oliwa](@/w/dawid-oliwa.md); [Mira](@/w/mira.md)",
+  "[Gracjan Korpo](@/w/gracjan-korpo.md), [Victor Rosetti](@/w/rosetti.md)", {r: DQ}]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', William Eaver]
 {% end %}
 

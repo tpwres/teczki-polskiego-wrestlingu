@@ -11,7 +11,7 @@ Disappointed by the poor performance of DDW#9, and the need to travel the entire
 {% card() %}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
 - ['[Luxus](@/w/luxus.md)', {s: Battle Royal}]
-- [Mira, '[Bianca](@/w/bianca.md)', Kasandra, {s: Triple Threat Match}]
+- ['[Mira](@/w/mira.md)', '[Bianca](@/w/bianca.md)', Kasandra, {s: Triple Threat Match}]
 - ['[Robert Star](@/w/robert-star.md)', '[GREG](@/w/greg.md)', {s: Hardcore Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', "[Kaszub](@/w/kaszub.md), [Klarys](@/w/klarys.md)",
   {s: Two On One Handicap Match}]

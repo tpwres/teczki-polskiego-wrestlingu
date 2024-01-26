@@ -5,7 +5,7 @@ template = "event_page.html"
 
 {% card() %}
 - ['[Klarys](@/w/klarys.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)']
-- [Aurora, Mira]
+- [Aurora, '[Mira](@/w/mira.md)']
 - ["[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)", "[Mateusz Kowalski](@/w/mateusz-kowalski.md),
     [Robert Star](@/w/robert-star.md)"]
 {% end %}

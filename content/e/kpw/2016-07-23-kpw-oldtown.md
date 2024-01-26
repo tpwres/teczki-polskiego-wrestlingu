@@ -14,8 +14,8 @@ KPW held a wrestling exhibition during the event on the penultimate day. Wrestli
 - ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
 - ['[Damian Lambert](@/w/damien-rothschild.md)', '[Kaszub](@/w/kaszub.md)', {s: "Hardcore
       Match"}]
-- [Peter Pannache, '[Dawid Oliwa](@/w/dawid-oliwa.md)']
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Gracjan Korpo]
+- ['[Peter Pannache](@/w/peter-pannache.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)']
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - ["[Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md)", "[Robert Star](@/w/robert-star.md),
     [Bianca](@/w/bianca.md), [Dawid Oliwa](@/w/dawid-oliwa.md)", "3 vs 2 Handicap
     Match"]

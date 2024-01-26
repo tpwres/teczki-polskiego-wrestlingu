@@ -19,11 +19,12 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 * However, he lost it to Kawaler at [Arena 3](@/e/kpw/2016-06-11-kpw-arena-3.md)
 
 {% card() %}
-- [Mika The Polish Punisher, Victor Rosetti]
-- ['[Kaszub](@/w/kaszub.md)', '[Damian Lambert](@/w/damien-rothschild.md)', Peter
-    Pannache, {s: Three Way Match}]
+- [Mika The Polish Punisher, '[Victor Rosetti](@/w/rosetti.md)']
+- ['[Kaszub](@/w/kaszub.md)', '[Damian Lambert](@/w/damien-rothschild.md)', '[Peter
+    Pannache](@/w/peter-pannache.md)', {s: Three Way Match}]
 - [Sawicki, Elliott Jordan]
-- ['[Ron Corvus](@/w/ron-corvus.md)', "Gracjan Korpo; Krzysztof Zasada"]
+- ['[Ron Corvus](@/w/ron-corvus.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
+    Zasada](@/w/krzysztof-zasada.md)"]
 - ["Kawaleria: [Greg](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),
     [Dawid Oliwa](@/w/dawid-oliwa.md)", {s: Tag Team Match}]
 - [Jon Ryan, '[Robert Star](@/w/robert-star.md)']
