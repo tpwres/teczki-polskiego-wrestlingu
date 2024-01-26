@@ -22,11 +22,12 @@ KPW would return to following editions of OldTown until 2019.
 #### Recap
 
 - Heavy rain delayed the event for four hours, to finally start at midnight.
-- The original card had six matches, and a tournament was to be held. The starting brackets were:
+- The original card had more matches, and a tournament was to be held. The starting brackets were:
   - Peter Pannache vs Gracjan Korpo
   - Kamil Aleksander vs Victor Rosetti
   - Dawid Oliwa vs Greg
   - Robert Star vs Mika The Polish Punisher
+- Aside from that, there was a three-way fight scheduled between Mateusz Kowalski, Adam Bravo and Piękny Kawaler; plus the hardcore match between Kaszub and Corvus
 - The final two participants of the opening rumble face each other for the KPW OldTown championship in the main event
 - Kawaler appears, declares he's had enough of OldTown and will not take part, only to soon change his mind
 - Corvus powerbombed Kaszub into a table stacked with lighting tubes to win
