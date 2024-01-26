@@ -1,5 +1,5 @@
 +++
-title = "Miasto Bezprawia"
+title = "PpW Miasto Bezprawia"
 template = "event_page.html"
 [extra]
 venue = "teatr-komuna"
