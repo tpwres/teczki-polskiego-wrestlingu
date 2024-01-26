@@ -11,11 +11,14 @@ The event's name is derived from the town of Stargard, which literally translate
 KPW held a wrestling exhibition during the event on the penultimate day. Wrestling fits the post-apocalyptic theme of OldTown, however no special storylines were devised for the show. KPW would return to following editions of OldTown until 2019.
 
 {% card() %}
-- [Robert Star, Greg]
-- [Damian Lambert, Kaszub, s: "Hardcore Match"]
-- [Peter Pannache, Dawid Oliwa]
-- [Kamil Aleksander, Gracjan Korpo]
-- ["Piękny Kawaler, Greg", "Robert Star, Bianca, Dawid Oliwa", "3 vs 2 Handicap Match"]
+- ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
+- ['[Damian Lambert](@/w/damien-rothschild.md)', '[Kaszub](@/w/kaszub.md)', {s: "Hardcore
+      Match"}]
+- [Peter Pannache, '[Dawid Oliwa](@/w/dawid-oliwa.md)']
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Gracjan Korpo]
+- ["[Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md)", "[Robert Star](@/w/robert-star.md),
+    [Bianca](@/w/bianca.md), [Dawid Oliwa](@/w/dawid-oliwa.md)", "3 vs 2 Handicap
+    Match"]
 {% end %}
 
 Attendance: estimated 200.

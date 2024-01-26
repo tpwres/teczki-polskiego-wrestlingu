@@ -14,13 +14,16 @@ Polish celebrity and former boxer Marcin Najman is also expected to appear in so
 The event is expected to unveil the singles championship belt that PTW did not have until this point, and crown the first champion in a 20-man rumble match.
 
 {% card() %}
-- ["PAKA: Taras, Disco Pablo, Boro", "Budapest Bastards: Renegade, Nitro", "Sinister Kingdom: Sinister, Dziedzic", { c: "PTW Tag Team Championship", nc: upcoming}]
-- [Scotty Rawk, Speedball Mike Bailey, { c: "British Wrestling Revolution Championship", nc: "upcoming" }]
-- [PJ Black, Matt Sydal, nc: upcoming]
-- [Sam Della Valle, Marius Al-Ani, nc: upcoming]
-- [Diana Strong, Nina Samuels, nc: upcoming]
-- [Krampus, '"Starboy" Nano Lopez"', nc: upcoming]
-- ["???", "????", "?????", { s: "20-man Royal Rumble", c: "PTW Championship", nc: upcoming }]
+- ["PAKA: Taras, Disco Pablo, [Boro](@/w/boro.md)", "Budapest Bastards: Renegade,
+    Nitro", "Sinister Kingdom: Sinister, Dziedzic", {c: "PTW Tag Team Championship",
+    nc: upcoming}]
+- [Scotty Rawk, Speedball Mike Bailey, {c: "British Wrestling Revolution Championship",
+    nc: "upcoming"}]
+- [PJ Black, Matt Sydal, {nc: upcoming}]
+- [Sam Della Valle, Marius Al-Ani, {nc: upcoming}]
+- ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels, {nc: upcoming}]
+- [Krampus, '"Starboy" Nano Lopez"', {nc: upcoming}]
+- ["???", "????", "?????", {s: "20-man Royal Rumble", c: "PTW Championship", nc: upcoming}]
 {% end %}
 
 Full card not announced yet.

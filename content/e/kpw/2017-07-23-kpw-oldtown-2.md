@@ -13,10 +13,11 @@ KPW held a wrestling exhibition during the event's last day. Wrestling fits the 
 KPW would return to following editions of OldTown until 2019.
 
 {% card() %}
-- ["Greg, Peter Pannache", Adam Bravo, Dawid Oliwa, Kamil Aleksander, Robert Star]
-- [Ron Corvus, Kaszub, s: Hardcore Match]
-- [Piękny Kawaler, Adam Bravo]
-- [Greg, Peter Pannache, c: "KPW OldTown Championship"]
+- ["[Greg](@/w/greg.md), Peter Pannache", Adam Bravo, '[Dawid Oliwa](@/w/dawid-oliwa.md)',
+  '[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Robert Star](@/w/robert-star.md)']
+- ['[Ron Corvus](@/w/ron-corvus.md)', '[Kaszub](@/w/kaszub.md)', {s: Hardcore Match}]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Adam Bravo]
+- ['[Greg](@/w/greg.md)', Peter Pannache, {c: "KPW OldTown Championship"}]
 {% end %}
 
 #### Recap
