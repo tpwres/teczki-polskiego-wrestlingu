@@ -28,11 +28,22 @@
 
 <body>
 {% include "_header.html" %}
+
 <section class="section">
   <div class="container content">
     {% block content %} {% endblock %}
   </div>
 </section>
+
+<aside class="pagination">
+  {% if page.ancestors %}
+    {% set section = get_section(path=page.ancestors | last) %}
+    {% set folder = section.components | last %}
+    {% if config.extra.org_events_dir | get(key=folder) %}
+      {% block pagination %} {% endblock %}
+    {% endif %}
+  {% endif %}
+</aside>
 
 {% include "_footer.html" %}
 
