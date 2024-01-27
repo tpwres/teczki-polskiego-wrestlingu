@@ -1,10 +1,11 @@
 +++
 title = "Maniac Zone Wrestling"
-weight = 1
+weight = 2
 authors = ["Krzysztof Zych"]
 template = "org_page.html"
 [extra]
 year_list_start = 2014
+allow_section_pagination = true
 +++
 
 MZW is a wrestling promotion estabilished in 2014, which currently makes it the oldest still active promotion in Poland.

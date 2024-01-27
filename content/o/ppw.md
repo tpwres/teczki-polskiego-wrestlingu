@@ -1,6 +1,6 @@
 +++
 title = "PpW Ewenement"
-weight = 2
+weight = 3
 template = "org_page.html"
 authors = ["Krzysztof Zych"]
 [extra]

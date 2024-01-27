@@ -16,16 +16,21 @@
 {% endblock content %}
 
 {% block pagination %}
-  <span class="prev">
-    {% if page.higher %}
-      Previous:
-      <a href="{{ get_url(path=page.higher.path) }}">{{ page.higher.title }}</a>
-    {% endif %}
-  </span>
-  <span class="prev">
-    {% if page.lower %}
-      Next:
-      <a href="{{ get_url(path=page.lower.path) }}">{{ page.lower.title }}</a>
-    {% endif %}
-  </span>
+  {% set section = get_section(path=page.ancestors | last) %}
+  {% set folder = section.components | last %}
+  {# Only events in an org subdirectory get paginated. #}
+  {% if config.extra.org_events_dir | get(key=folder) %}
+    <span class="prev">
+      {% if page.higher %}
+        Previous:
+        <a href="{{ get_url(path=page.higher.path) }}">{{ page.higher.title }}</a>
+      {% endif %}
+    </span>
+    <span class="prev">
+      {% if page.lower %}
+        Next:
+        <a href="{{ get_url(path=page.lower.path) }}">{{ page.lower.title }}</a>
+      {% endif %}
+    </span>
+  {% endif %}
 {% endblock %}

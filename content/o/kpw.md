@@ -1,5 +1,5 @@
 +++
 title = "Kombat Pro Wrestling"
-weight = 0
+weight = 1
 template = "org_page.html"
 +++
