@@ -13,7 +13,7 @@ Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in Klub Atlant
   '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
 - ["Kawaleria: [Kaszub](@/w/kaszub.md), [Greg](@/w/greg.md)", "[Dawid Oliwa](@/w/dawid-oliwa.md),
     [Peter Pannache](@/w/peter-pannache.md)", {s: Tag Team Match}]
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Adam Bravo]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Boski Ostrowski](@/w/ostrowski.md)',
   {c: KPW Championship}]
 {% end %}

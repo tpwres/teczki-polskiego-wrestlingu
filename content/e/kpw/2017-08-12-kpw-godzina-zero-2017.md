@@ -21,14 +21,15 @@ Bianca faced Kat Von Kaige, also a Welsh wrestler who at the time performed main
 - ['[Greg](@/w/greg.md)(c)', Fynn Freyhart, {c: "KPW OldTown Championship"}]
 - ['[Robert Star](@/w/robert-star.md)', Joey Ozbourne, {s: "No Disqualification Match"}]
 - - '[Ron Corvus](@/w/ron-corvus.md)'
-  - Adam Bravo
+  - '[Adam Bravo](@/w/adam-bravo.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - '[Mateusz Kowalski](@/w/mateusz-kowalski.md)'
-  - Sawicki
+  - '[Sawicki](@/w/sawicki.md)'
   - '[Victor Rosetti](@/w/rosetti.md)'
-  - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a KPW Championship Title Match"
+  - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a KPW Championship
+      Title Match"
 - [Kat Von Kaige, '[Bianca](@/w/bianca.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Wild Boar, {c: "KPW Championship"}]
 {% end %}

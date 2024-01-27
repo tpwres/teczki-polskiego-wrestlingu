@@ -22,7 +22,7 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 - [Mika The Polish Punisher, '[Victor Rosetti](@/w/rosetti.md)']
 - ['[Kaszub](@/w/kaszub.md)', '[Damian Lambert](@/w/damien-rothschild.md)', '[Peter
     Pannache](@/w/peter-pannache.md)', {s: Three Way Match}]
-- [Sawicki, Elliott Jordan]
+- ['[Sawicki](@/w/sawicki.md)', Elliott Jordan]
 - ['[Ron Corvus](@/w/ron-corvus.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
     Zasada](@/w/krzysztof-zasada.md)"]
 - ["Kawaleria: [Greg](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),

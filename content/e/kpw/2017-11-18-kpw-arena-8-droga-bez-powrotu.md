@@ -14,8 +14,9 @@ Droga Bez Powrotu (_Road of No Return_) was the eight Arena show, held again at 
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - s: KPW OldTown Championship
 - ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)']
-- ["[Rosetti](@/w/rosetti.md), Sawicki", "[Mateusz Kowalski](@/w/mateusz-kowalski.md),
-    Adam Bravo", {s: Tag Team Match}]
+- - "[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)"
+  - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md)"
+  - s: Tag Team Match
 - - "[Robert Star](@/w/robert-star.md)"
   - "[Greg](@/w/greg.md)(c)"
   - c: "KPW OldTown Championship Match"

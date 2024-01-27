@@ -11,7 +11,7 @@ This show was also the debut of the future Chemik - who appeared as a personal b
 
 {% card() %}
 - - "Ostrowski, [Peter Pannache](@/w/peter-pannache.md)"
-  - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), Adam Bravo"
+  - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md)"
   - '[Rosetti](@/w/rosetti.md)'
   - s: 2v2v1 Handicap Match
 - ['[Bianca](@/w/bianca.md)', Alisa]

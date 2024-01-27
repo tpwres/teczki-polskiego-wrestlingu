@@ -15,7 +15,7 @@ Several years later, he became [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Karol Górski](@/w/iskra.md)', {
     c: "KPW Championship"}]
-- [Sawicki, Adam Bravo]
+- ['[Sawicki](@/w/sawicki.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - ['[Mira](@/w/mira.md)', '[Bianca](@/w/bianca.md)']
 - - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
