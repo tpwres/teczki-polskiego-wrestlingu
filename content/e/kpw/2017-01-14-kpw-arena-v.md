@@ -15,7 +15,7 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 - ['[Robert Star](@/w/robert-star.md)', '[Kaszub](@/w/kaszub.md)']
 - ["[Boski Ostrowski](@/w/ostrowski.md), [Dawid Oliwa](@/w/dawid-oliwa.md); [Mira](@/w/mira.md)",
   "[Gracjan Korpo](@/w/gracjan-korpo.md), [Victor Rosetti](@/w/rosetti.md)", {r: DQ}]
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', William Eaver]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Pastor William Eaver]
 {% end %}
 
 Ring announcer: Arkadiusz Pawłowski
@@ -32,3 +32,4 @@ Ring announcer: Arkadiusz Pawłowski
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-v/) with a short recap video
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=169387)
 * [Facebook event page](https://www.facebook.com/events/320616958337738/)
+* [Coverage by DIMANO TV](https://www.youtube.com/watch?v=LPisUPKX0vM), covers the main event and post-match words from Eaver and Kawaler

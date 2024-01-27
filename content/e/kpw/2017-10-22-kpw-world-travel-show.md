@@ -13,8 +13,8 @@ KPW was invited to facilitate Carmen Rojas - a Bolivian _cholita_ (wearing tradi
 Rojas faced KPW's Mira in a mostly unplanned match, consisting of basic throws and punches. While Mira entered in her typical, tight trunks and cropped top, Rojas was wearing a long dress with many layers - the two wrestlers couldn't be more different. Afterwards, Robert Star and Greg put on a men's match.
 
 {% card() %}
-- [Mira, Carmen Rojas]
-- [Robert Star, Greg]
+- ['[Mira](@/w/mira.md)', Carmen Rojas]
+- ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
 {% end %}
 
 ### References

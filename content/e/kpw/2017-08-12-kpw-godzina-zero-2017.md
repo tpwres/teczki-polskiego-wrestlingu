@@ -54,3 +54,4 @@ Ring announcer: Arkadiusz Pawłowski
 * [Facebook event page](https://www.facebook.com/events/130827730847337/)
 * [Coverage by trojmiasto.pl](https://rozrywka.trojmiasto.pl/Niesamowity-klimat-na-gali-wrestlingu-w-Gdyni-n115600.html)
 * [Coverage by mywrestling](https://mywrestling.com.pl/relacja-tygrysicem-kpw-godzina-zero-2017/)
+* [KPW Kombat TV S2E7](https://www.youtube.com/watch?v=I_7z9YYUPho), covers Greg vs Fynn
