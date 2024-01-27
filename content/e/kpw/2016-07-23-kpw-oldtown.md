@@ -16,9 +16,12 @@ KPW held a wrestling exhibition during the event on the penultimate day. Wrestli
       Match"}]
 - ['[Peter Pannache](@/w/peter-pannache.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)']
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
-- ["[Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md)", "[Robert Star](@/w/robert-star.md),
-    [Bianca](@/w/bianca.md), [Dawid Oliwa](@/w/dawid-oliwa.md)", "3 vs 2 Handicap
-    Match"]
+- - "[Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md)"
+  - >
+    [Robert Star](@/w/robert-star.md),
+    [Bianca](@/w/bianca.md),
+    [Dawid Oliwa](@/w/dawid-oliwa.md)
+  - s: 3 vs 2 Handicap Match
 {% end %}
 
 Attendance: estimated 200.
