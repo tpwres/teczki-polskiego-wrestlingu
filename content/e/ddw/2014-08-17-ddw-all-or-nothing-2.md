@@ -25,7 +25,7 @@ Another big, literally, feature of the event was inviting The Polish Giant, an u
       Final Match}]
 - ["[Bianca](@/w/bianca.md), Kasandra", "Audrey Bride, [Mira](@/w/mira.md)", {s: Tag
       Team Match}]
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Don Roid]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Don Roid](@/w/don-roid.md)']
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Renegade, {c: "DDW International
       Championship", s: Tournament Final Match}]
 {% end %}

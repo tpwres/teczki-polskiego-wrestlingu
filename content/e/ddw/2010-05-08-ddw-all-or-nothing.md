@@ -9,7 +9,7 @@ venue = "karuzela"
 - ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", {s: "Ten Man Battle Royal"}]
 - - '[Joe Legend](@/w/joe-legend.md)'
   - Dirtbag
-  - Don Roid
+  - '[Don Roid](@/w/don-roid.md)'
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - Jon Hammer
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'

@@ -13,7 +13,7 @@ Reportedly, Don Roid, the owner of DDW preferred Stodoła because the atmosphere
 The event featured a single, 30 minute long match, and was mostly aimed at promoting their wrestling school. The match was hailed as "the first wrestling bout in Poland since 16 years", referring to the single event in 1993.
 
 {% card() %}
-- ["[Joe Legend](@/w/joe-legend.md)", "Don Roid"]
+- ["[Joe Legend](@/w/joe-legend.md)", "[Don Roid](@/w/don-roid.md)"]
 {% end %}
 
 ### References

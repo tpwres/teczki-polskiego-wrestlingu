@@ -11,7 +11,7 @@ venue = "gimnazjum-8-gdansk"
 - ['[Mira](@/w/mira.md)', Kasandra]
 - ['[GREG](@/w/greg.md)', {s: Battle Royal}]
 - ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
-- [Don Roid, '[Robert Star](@/w/robert-star.md)']
+- ['[Don Roid](@/w/don-roid.md)', '[Robert Star](@/w/robert-star.md)']
 - ['[Klarys](@/w/klarys.md)', '[Kaszub](@/w/kaszub.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)',
   {s: "Three Way Match"}]
 {% end %}

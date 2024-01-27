@@ -7,11 +7,11 @@ venue = "gosir-katy-wroclawskie"
 
 {% card() %}
 - ['[Rider](@/w/asmund.md)', '[Klarys](@/w/klarys.md)']
-- [Don Roid, Rob Cage]
+- ['[Don Roid](@/w/don-roid.md)', Rob Cage]
 - ['[Jędruś Bułecka](@/w/jedrus-bulecka.md)', Kevin Williams, {r: DQ, s: Grudge Match}]
 - - "Chris Botherway + [Kamil Aleksander](@/w/kamil-aleksander.md)"
   - Claymore
-  - Don Roid
+  - '[Don Roid](@/w/don-roid.md)'
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - Kevin Williams
   - '[Klarys](@/w/klarys.md)'
