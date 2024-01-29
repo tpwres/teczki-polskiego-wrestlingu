@@ -38,7 +38,8 @@ Attendance: estimated 400
 * Greg and Kaszub initially jumped at each other's throats, but once the gong hit, they reenacted the Fingerpoke of Doom match. Kawaleria entered the ring to celebrate.
 * Pawłowski announced the result, then disappeared backstage. Shortly after, reappered and announced a new opponent for Greg.
 * Oliwa and Greg fight with light tubes, chairs, ladders, Lego bricks and a keyboard. Plenty of blood from both. Ron Corvus intervened to remind Greg he's coming for his championship.
-* Once the bell rang, Kawaleria attacked the bleeding Dawid, to be countered by the faces, who now form a faction called Sojusz (_Alliance_). Kawaler and Greg tried to attack Mira with a taser, but were stopped by Robert Star.
+* Once the bell rang, Kawaleria attacked the bleeding Dawid, which included putting a ball gag on him. The faces, who now form a faction called Sojusz (_Alliance_) intervene. Kawaler and Greg tried to attack Mira with a taser, but were stopped by Robert Star.
+* This would be Kaszub's last appearance for KPW.
 
 
 ### References
@@ -46,3 +47,4 @@ Attendance: estimated 400
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-9/)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=188307)
 * [Highlights video](https://www.youtube.com/watch?v=SnHPCkTeOdg)
+* [After the hardcore match](https://www.youtube.com/watch?v=CmCESeZpn_w)
