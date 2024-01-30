@@ -37,7 +37,7 @@ Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
-- Two unknown girls in catsuits accompany Moloch to the ring. One of them is the future [Diana Strong](@/w/diana-strong.md).
+- Two new girls in catsuits accompany Moloch to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md).
 - Ditching the old persona of Kowalski, Mateusz Kakareko became more aggressive, using a Taekwondo-based style, and broke his losing streak.
 - Greg "christened" members of the Kawaleria stable by spitting watter on them. This would later become part of his character.
 - Kamil Aleksander's mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
