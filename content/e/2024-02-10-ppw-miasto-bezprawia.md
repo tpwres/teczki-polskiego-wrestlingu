@@ -29,7 +29,6 @@ NOTE: Full card yet to be announced.
   - {s: "Tornado Tag Team Match", nc: "upcoming"}
 - ["[Jacob Crane](@/w/jacob-crane.md)", "Gabriel Queen", {nc: "upcoming"}]
 - [Asara, '[Shadow](@/w/shadow.md)', Samson, {s: "3-Way Dance", nc: "upcoming"}]
-- ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {nc: upcoming, s: to be
-      chosen by Gustav}]
+- ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {nc: upcoming, s: Classic Wrestling Match}]
 - ['[Goblin](@/w/goblin.md)', "???", {nc: upcoming}]
 {% end %}
