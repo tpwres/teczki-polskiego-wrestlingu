@@ -17,10 +17,11 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 * More than a year ago, Darius defeated 3 other opponents for a shot at the KPW OldTown Championship. At Arena 20 he declined to fight Rosetti just after the opening gong. But the same night he beat Leon Lato in singles competition. Now he gets his chance.
 
 {% card() %}
-- [Leon Lato, '[Dawid Oliwa](@/w/dawid-oliwa.md)', {nc: upcoming}]
-- ['[GREG](@/w/greg.md)', Robert Dreissker, {nc: upcoming}]
 - ["Bracia Fux: Filip Fux, Michał Fux", "Chemik, Eryk Lesak", {nc: upcoming}]
+- ['[GREG](@/w/greg.md)', Robert Dreissker, {nc: upcoming}]
 - ["[Rosetti](@/w/rosetti.md)(c)", Darius, {c: KPW OldTown Championship}]
+- [Leon Lato, '[Dawid Oliwa](@/w/dawid-oliwa.md)', {nc: upcoming}]
+- [Zefir, Tommy Kyle, nc: upcoming]
 {% end %}
 
 Full card yet unknown.

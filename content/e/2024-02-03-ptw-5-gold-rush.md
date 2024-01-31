@@ -11,22 +11,30 @@ The event will feature PTW's cast alongside foreign wrestlers from UK, USA, Germ
 
 Polish celebrity and former boxer Marcin Najman is also expected to appear in some capacity, as the event is held in his hometown.
 
-The event is expected to unveil the singles championship belt that PTW did not have until this point, and crown the first champion in a 20-man rumble match.
+#### Build-up to the event
+
+* PTW has been teasing the introduction of a singles championship belt for several months. The first champion is going to be crowned in a 20-man royal rumble at this event.
+* Dziedzic defeated Disco Pablo and Renegade on PTW Underground 20, with each wrestler's tag team partners present and involved in the match.
 
 {% card() %}
-- ["PAKA: Taras, Disco Pablo, [Boro](@/w/boro.md)", "Budapest Bastards: Renegade,
-    Nitro", "Sinister Kingdom: Sinister, Dziedzic", {c: "PTW Tag Team Championship",
-    nc: upcoming}]
+- - "PAKA: Taras, Disco Pablo"
+  - "Budapest Bastards: Renegade, Nitro"
+  - "Sinister Kingdom: Sinister, Dziedzic"
+  - "MxM Collection: Mansoor, Mason Madden"
+  - {c: "PTW Tag Team Championship", nc: upcoming}
 - [Scotty Rawk, Speedball Mike Bailey, {c: "British Wrestling Revolution Championship",
     nc: "upcoming"}]
 - [PJ Black, Matt Sydal, {nc: upcoming}]
-- [Sam Della Valle, Marius Al-Ani, {nc: upcoming}]
+- [Sam Della Valle, Marius Al-Ani, {nc: upcoming, c: "PTW:WWA Championship"}]
 - ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels, {nc: upcoming}]
 - [Krampus, '"Starboy" Nano Lopez"', {nc: upcoming}]
 - ["???", "????", "?????", {s: "20-man Royal Rumble", c: "PTW Championship", nc: upcoming}]
 {% end %}
 
-Full card not announced yet.
+Polish commentary: Arkadiusz Paterek, Piotr Małecki, Łukasz Baliński \
+Special guest commentators: Andrzej Suproń, Paweł Borkowski \
+English commentary: Santino, Lewis Costello \
+Ring Announcer: Arkadiusz Pawłowski
 
 ### References
 
