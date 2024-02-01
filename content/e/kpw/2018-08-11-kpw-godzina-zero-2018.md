@@ -19,14 +19,14 @@ The event was held on the same day as a footbal match between Arka Gdynia and GÃ
 - ['[PiÄ™kny Kawaler](@/w/piekny-kawaler.md)', '[Adam Bravo](@/w/adam-bravo.md)', {
     s: Street Fight}]
 - ['[Greg](@/w/greg.md)(c)', Tristan Archer, {c: KPW OldTown Championship}]
-- - Peter Pannache
-  - Boski Ostrowski; Mira
-  - Kamil Aleksander
-  - Gracjan Korpo
-  - Rosetti
+- - '[Peter Pannache](@/w/peter-pannache.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md); [Mira](@/w/mira.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
+  - '[Rosetti](@/w/rosetti.md)'
   - Moloch
-  - Mateusz Kakareko
-  - s: Magnificent Seven No-DQ Elimination Ladder Match for #1 Contender
+  - '[Mateusz Kakareko](@/w/mateusz-kowalski.md)'
+  - s: Magnificent Seven No-DQ Elimination Ladder Match for
 - ['[Bianca](@/w/bianca.md)', Sixt]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', Tom LaRuffa, {c: KPW Championship}]
 {% end %}
