@@ -17,9 +17,8 @@ that operates in a former school building. This is the first time PpW presents t
 * In a [facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid02zU3wXTw4DstxtdtphsXJQB3Q7wifMUxgXaYxsAiHfPzxMazGQPtTWYzTCUCfXe3Bl), PpW announced the number of participating wrestlers to beat any of their previous shows.
 * Following the success of the joint MZW+PPW event [Żadnych Granic](@/e/2023-09-23-ppw_mzw-zadnych-granic.md), Shadow will make his first appearance in PPW, in a three-person match that also includes Samson.
 * Based on the poster, the show will also feature [Jacob Crane](@/w/jacob-crane.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad](@/w/biesiad.md), Chris X, [Isnorr](@/w/isnorr.md), Asara and Gabriel Queen and Samson as noted above
-* In a [Facebook video](https://www.facebook.com/OficjalnePPW/videos/263013170024297/), acting boss Mister Z congratulated Gryffin on his show-stealing performance at Turbo OG, and rewarded him with a match against Irish wrestler TJ Charles, with a stipulation of his choosing. In that same video, Goblin, who was Gustav's opponent, is announced to get a match against an unspecified opponent who would be making his debut for PPW.
-
-NOTE: Full card yet to be announced.
+* In a [Facebook video](https://www.facebook.com/OficjalnePPW/videos/263013170024297/), acting boss Mister Z congratulated Gryffin on his show-stealing performance at Turbo OG, and rewarded him with a match against Irish wrestler TJ Charles, with a stipulation of his choosing.
+* In that same video, Goblin, who was Gustav's opponent, is announced to get a match against an unspecified opponent who would be making his debut for PPW, also with a stipulation of his choosing. This was later revealed to be Belgian wrestler MBM "Sweetboy", who competes all over the European scene, and the stipulation to be an _El Paso Outlaw Match_.
 
 {% card() %}
 - ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW
@@ -29,6 +28,8 @@ NOTE: Full card yet to be announced.
   - {s: "Tornado Tag Team Match", nc: "upcoming"}
 - ["[Jacob Crane](@/w/jacob-crane.md)", "Gabriel Queen", {nc: "upcoming"}]
 - [Asara, '[Shadow](@/w/shadow.md)', Samson, {s: "3-Way Dance", nc: "upcoming"}]
-- ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {nc: upcoming, s: Classic Wrestling Match}]
-- ['[Goblin](@/w/goblin.md)', "???", {nc: upcoming}]
+- ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {nc: upcoming, s: Classic
+      Wrestling Match}]
+- ['[Goblin](@/w/goblin.md)', "MBM", {nc: upcoming, s: "El Paso Outlaw Match"}]
+- ['[Mister Z](@/w/mister-z.md)', '[Ricardo Diesel](@/w/ricardo-diesel.md)', {nc: upcoming}]
 {% end %}
