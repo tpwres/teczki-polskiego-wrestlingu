@@ -10,7 +10,8 @@ This event was an sideshow held as part of Poznań Beer Expo 2021. The event fea
 
 While this wasn't [Isnorr's](@/w/isnorr.md) debut for PPW, as that was a month before at the first [Ledwo Legalne](@/e/2021-06-12-ppw-ledwo-legalne.md), he would become a regular competitor in PPW's ring from then on. As the hometown hero of Poznań, he won two singles matches and the rumble, for a very strong showing.
 
-The card listed is approximate and incomplete, and covers both days of the event. The event was held on PPW's soft-padded ring.
+Some matches featured wrestlers thinly disguised with a mask, fighting as another, mostly comedic persona.
+
 
 {% card() %}
 - ['[Isnorr](@/w/isnorr.md)', "[Esteban Lucha](@/w/biesiad.md)"]

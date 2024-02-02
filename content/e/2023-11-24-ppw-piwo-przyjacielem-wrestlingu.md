@@ -6,7 +6,7 @@ venue = "targi-poznan"
 hide_results = true
 +++
 
-Piwo Przyjacielem Wrestlingu (_"Beer Is Wrestling's Friend"_) was an event by PpW accompanying [Poznańskie Targi Piwne][ptp] (Poznań Beer Expo). During each day of the event, two wrestling exhibitions took place, one at 16:00, and another one at 20:00.
+Piwo Przyjacielem Wrestlingu (_"Beer Is Wrestling's Friend"_) was an event by PpW accompanying [Poznańskie Targi Piwne][ptp] (Poznań Beer Expo). During each day of the event, two wrestling exhibitions took place, one at 16:00, and another one at 20:00. This was the second time PPW provided wrestling entertainment at the fair - the first one was [two years earlier](@/e/2021-07-30-ppw-poznan-supershow.md).
 
 Because the event was an exhibition show held for a mostly non-wrestling audience, the performers focused on comedy and invented new, humorous gimmicks. The card listed here covers both days of the event.
 
