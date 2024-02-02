@@ -3,7 +3,6 @@ title = "PpW Supershow"
 template = "event_page.html"
 [extra]
 venue = "targi-poznan"
-hide_results = true
 +++
 
 This event was an sideshow held as part of Poznań Beer Expo 2021. The event featured wrestlers from [PPW](@/o/ppw.md) competing against several [MZW](@/o/mzw.md) regulars in their first, historic collaboration. PPW would return to that event two years later at [Piwo Przyjacielem Wrestlingu](@/e/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md), and they would hold another co-branded show later that same year ([Żadnych Granic](@/e/2023-09-23-ppw_mzw-zadnych-granic.md)).
