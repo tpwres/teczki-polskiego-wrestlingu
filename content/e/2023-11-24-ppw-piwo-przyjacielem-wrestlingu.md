@@ -14,7 +14,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - [Karol M, Miłosz Z, {s: Young Lions Match}]
 - ['[Isnorr](@/w/isnorr.md)', Striker, Mamet]
 - ['[Gustav Gryffin](@/w/gustav-gryffin.md)', Steven Kimono]
-- [Czacha, "[El Senior Cerveza](@/w/goblin.md)"]
+- ["[Czacha](@/w/johnny-blade.md)", "[El Senior Cerveza](@/w/goblin.md)"]
 - ['[Feager](@/w/feager.md)', '[Adam Wong](@/w/adam-wong.md)']
 - ['[Isnorr](@/w/isnorr.md)', Bonus CBD]
 - - "Team Biesiad: [Biesiad Strong](@/w/biesiad.md), [Adam Wong](@/w/adam-wong.md),
@@ -31,7 +31,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   {s: Tag Team Match}]
 - ["[Hardcore Gustav](@/w/gustav-gryffin.md)", "[El Senior Cerveza](@/w/goblin.md)"]
 - [Kapral Kornel, '[Kapitan Bazooka](@/w/kapitan-bazooka.md)']
-- [Biesiad Strong, '[Mister Z](@/w/mister-z.md)', '[Goblin](@/w/goblin.md)', '[Gustav
+- ['[Biesiad Strong](@/w/biesiad.md)', '[Mister Z](@/w/mister-z.md)', '[Goblin](@/w/goblin.md)', '[Gustav
     Gryffin](@/w/gustav-gryffin.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)',
   '[Kapitan Bazooka](@/w/kapitan-bazooka.md)', {s: 20 man Royal Rumble}]
 {% end %}
