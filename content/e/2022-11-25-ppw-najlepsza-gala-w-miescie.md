@@ -9,7 +9,7 @@ city = "Warszawa"
 The event name, which translates to "Best Gala In Town", is a reference to the fact that PTW also held their event [PTW#3: Legends](@/e/2022-11-26-ptw-3-legends.md) in Warsaw, the very next day.
 
 {% card() %}
-- ["[Isnorr](@/w/isnorr.md)", "[Bill Feager](@/w/feager.md) + Ms. XXX"]
+- ["[Isnorr](@/w/isnorr.md)", "[Bill Feager](@/w/feager.md); Ms. XXX"]
 - ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Adam Wong](@/w/adam-wong.md)"]
 - ["Feyyaz Aguila", "Joshua Amaru"]
 - - "[Mister Z](@/w/mister-z.md), [Ricardo Diesel](@/w/ricardo-diesel.md)"
@@ -21,3 +21,9 @@ The event name, which translates to "Best Gala In Town", is a reference to the f
 - ["[Biesiad Strong](@/w/biesiad.md)(c)", "[Steve Kuningas](@/w/steve-kuningas.md)",
   {s: "Ladder Match", c: "PpW Championship"}]
 {% end %}
+
+### References
+
+* [WrestleMap's article](https://www.wrestlemap.com/news/z73mfr7l8vchshfbsv4z45gwqteqlq)
+* [Facebook event page](https://www.facebook.com/events/787359779157446)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383024)
