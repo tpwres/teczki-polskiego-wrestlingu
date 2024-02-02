@@ -12,7 +12,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 
 {% card() %}
 - [Karol M, Miłosz Z, {s: Young Lions Match}]
-- ['[Isnorr](@/w/isnorr.md)', Striker, Mamet]
+- ['[Isnorr](@/w/isnorr.md)', '[Striker](@/w/royal-striker.md)', Mamet]
 - ['[Gustav Gryffin](@/w/gustav-gryffin.md)', Steven Kimono]
 - ["[Czacha](@/w/johnny-blade.md)", "[El Senior Cerveza](@/w/goblin.md)"]
 - ['[Feager](@/w/feager.md)', '[Adam Wong](@/w/adam-wong.md)']
@@ -25,14 +25,14 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
     s: "4 vs 4 Elimination Match"
 - ['[Mister Z](@/w/mister-z.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)']
 - [Czesław Pierdolec, Steven Kimono]
-- ["[Isnorr](@/w/isnorr.md), [Mister Z](@/w/mister-z.md)", "Striker, Mamet", {s: "New
-      Jack Tribute Match"}]
+- ["[Isnorr](@/w/isnorr.md), [Mister Z](@/w/mister-z.md)", "[Striker](@/w/royal-striker.md),
+    Mamet", {s: "New Jack Tribute Match"}]
 - [Bracia Pierdolec, "Bracia Kimono: Steven Kimono, [Konnan Kimono](@/w/goblin.md)",
   {s: Tag Team Match}]
 - ["[Hardcore Gustav](@/w/gustav-gryffin.md)", "[El Senior Cerveza](@/w/goblin.md)"]
 - [Kapral Kornel, '[Kapitan Bazooka](@/w/kapitan-bazooka.md)']
-- ['[Biesiad Strong](@/w/biesiad.md)', '[Mister Z](@/w/mister-z.md)', '[Goblin](@/w/goblin.md)', '[Gustav
-    Gryffin](@/w/gustav-gryffin.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)',
+- ['[Biesiad Strong](@/w/biesiad.md)', '[Mister Z](@/w/mister-z.md)', '[Goblin](@/w/goblin.md)',
+  '[Gustav Gryffin](@/w/gustav-gryffin.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)',
   '[Kapitan Bazooka](@/w/kapitan-bazooka.md)', {s: 20 man Royal Rumble}]
 {% end %}
 
