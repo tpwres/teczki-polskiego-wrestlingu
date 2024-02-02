@@ -6,8 +6,7 @@ venue = "2kola"
 city = "Warszawa"
 +++
 
-* [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
-* [Facebook event](https://www.facebook.com/events/548066229675271/)
+Inside Job was an event by [PPW Ewenement](@/o/ppw.md) held on September 11, 2021, the twentieth anniversary of the infamous WTC terrorist incident. The event's name was a reference to popular conspiracy theories concerning that incident.
 
 {% card() %}
 - ["[Tony Sk1n](@/w/tony-sk1n.md)", "[Adam Wong](@/w/adam-wong.md)", "[Bill Feager](@/w/feager.md)",
@@ -17,3 +16,8 @@ city = "Warszawa"
 - ["[Rob Scaffold](@/w/rob-scaffold.md)", "Direk", {s: "Hardcore Match"}]
 - ["[Mister Z](@/w/mister-z.md)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
 {% end %}
+
+### References
+
+* [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
+* [Facebook event page](https://www.facebook.com/events/548066229675271/)

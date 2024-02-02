@@ -3,7 +3,6 @@ title = "PpW Bijatyka Dla Piesków"
 template = "event_page.html"
 [extra]
 venue = "2kola"
-city = "Warszawa"
 +++
 
 {% card() %}
