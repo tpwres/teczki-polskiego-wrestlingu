@@ -21,5 +21,10 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 - ["[Bill Feager](@/w/feager.md)", "[Adam Wong](@/w/adam-wong.md)", {nc: "?"}]
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
 - ["[Johnny Blade](@/w/johnny-blade.md)", "Viking", {s: "Chaos Gods Deathmatch", c: "PpW
-      European Ultraviolent Championship"}]
+      European Ultraviolent Championship, VcV Harcore Championship"}]
 {% end %}
+
+### References
+
+* [WrestleMap's article](https://www.wrestlemap.com/news/p1e7040pmjt9uwctkin6cod0xwqj1k) covering the ultraviolent match
+* [WrestleMap's article](https://www.wrestlemap.com/news/mxrf1jwfu9v4hp21pmf7ws40yb76qk) announcing the event

@@ -19,3 +19,4 @@ To estabilish storyline continuity, footage from [Project 7: Golden Road](@/e/20
 
 * [Full episode on YouTube](https://www.youtube.com/watch?v=-5uQd-uYHtk) (Polish audio)
 * [Playlist of all episodes](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8gOYpibA7twIBHV7w3iyLB2)
+* [WrestleMap's article](https://www.wrestlemap.com/news/Qefrgtjtj)

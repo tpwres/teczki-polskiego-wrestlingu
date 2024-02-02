@@ -13,3 +13,8 @@ city = "Warszawa"
 - ["[Hades](@/w/olgierd.md)", "[Johnny Blade](@/w/johnny-blade.md)", {s: "Hardcore Match", nc: "Draw"}]
 - ["[Osamu](@/w/osamu.md)", "[Mister Z](@/w/mister-z.md)(c)", {c: "PpW Championship"}]
 {% end %}
+
+### References
+
+* [WrestleMap's article](https://www.wrestlemap.com/news/bts0oruue5ixwa6gswn19svx0lx3yu)
+* [Full show on YouTube](https://www.youtube.com/watch?v=9PZhhykQF8s)

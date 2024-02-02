@@ -20,4 +20,6 @@ Inside Job was an event by [PPW Ewenement](@/o/ppw.md) held on September 11, 202
 ### References
 
 * [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
+* [Full show on YouTube](https://www.youtube.com/watch?v=_PXqj9uuZLg)
 * [Facebook event page](https://www.facebook.com/events/548066229675271/)
+* [WrestleMap's article](https://www.wrestlemap.com/news/7oo8taw1btavbz38pvzubzazrvz6re)
