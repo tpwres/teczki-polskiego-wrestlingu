@@ -4,7 +4,6 @@ template = "event_page.html"
 authors = ["Krzysztof Zych", "Piotr Drabik"]
 [extra]
 venue = "hotel-scout-czestochowa"
-hide_results = true
 +++
 
 Gold Rush was an event by [PTW](@/o/ptw.md). It was announced as a "Season Finale", which suggested it's going to close some kind of chapter in PTW's history.
@@ -23,12 +22,12 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 - [Scotty Rawk, Speedball Mike Bailey, {c: "British Wrestling Revolution Championship"}]
 - ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels]
 - [Krampus, '"Starboy" Nano Lopez"', {r: No DQ}]
-- [PJ Black, Lince Dorado, {nc: upcoming}]
+- [PJ Black, Lince Dorado]
 - - "Budapest Bastards: Renegade, Nitro"
   - "PAKA: Taras, Disco Pablo"
   - "Sinister Kingdom: Sinister, Dziedzic"
   - "MxM Collection: Mansoor, Mason Madden"
-  - {c: "PTW Tag Team Championship", nc: upcoming}
+  - {c: "PTW Tag Team Championship"}
 - [Marius Al-Ani, Sam Della Vale, {c: "PTW:WWA Championship"}]
 - - Dawid "Puncher" Seńko
   - '[Axel Fox](@/w/axel-fox.md)'
