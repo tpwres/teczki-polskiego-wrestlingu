@@ -1,6 +1,7 @@
 +++
 title = "PTW #5: Gold Rush"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Piotr Drabik"]
 [extra]
 venue = "hotel-scout-czestochowa"
 hide_results = true
@@ -99,8 +100,8 @@ Ring Announcer: Arkadiusz Pawłowski
 16. Bad Bones' music hits. Bones appears on screen and demands a title match from Pawłowski.
 17. Sędzia Rafał, who remains outside the ring
 18. Iskra enters the ring
-19. Sędzia Rafał enters the ring
-20. Cowboy James Storm eliminates Iskra
+19. Cowboy James Storm eliminates Iskra
+20. Sędzia Rafał enters the ring
 21. Santino
 22. Santino eliminates Sędzia Rafał
 23. Longman eliminates Santino

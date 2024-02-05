@@ -4,6 +4,6 @@
 
 {% macro authors(authors) %}
   {% if authors | length > 0 %}
-    Authors: {{ authors | join(with=", ") }}
+    Authors: {{ authors | join(sep=", ") }}
   {% endif %}
 {% endmacro %}
