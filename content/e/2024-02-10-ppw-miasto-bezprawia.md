@@ -31,5 +31,5 @@ that operates in a former school building. This is the first time PpW presents t
 - ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {nc: upcoming, s: Classic
       Wrestling Match}]
 - ['[Goblin](@/w/goblin.md)', "MBM", {nc: upcoming, s: "El Paso Outlaw Match"}]
-- ['[Mister Z](@/w/mister-z.md)', '[Ricardo Diesel](@/w/ricardo-diesel.md)', {nc: upcoming}]
+- ['[Mister Z](@/w/mister-z.md)', '[Ricardo Diesel](@/w/ricardo-diesel.md)', {nc: upcoming, s: "No. 1 Contender Match"}]
 {% end %}
