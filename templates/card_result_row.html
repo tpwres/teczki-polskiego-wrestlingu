@@ -18,7 +18,7 @@
     <td>{{loop.index}}</td>
     <td class="p">
         {% if others | length == 0 %}
-        Winner:
+          Winner:
         {% endif %}
         {{ winner | markdown(inline=true) | safe }}
         {% if others | length > 0 %}

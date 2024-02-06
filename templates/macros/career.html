@@ -4,3 +4,23 @@
     <a href="{{ get_url(path=org_path) }}">{{ code }}</a>
   </span>
 {% endmacro %}
+
+{% macro orgs_stretchy(career, year, styles) %}
+  {% set thisyear = career | get(key=year|as_str, default=[]|group_by(key=0)) %}
+  {% set_global total = 0 %}
+  {% for org, cnt in thisyear %}
+    {% set_global total = total + cnt %}
+  {% endfor %}
+  {% for org, cnt in thisyear %}
+    {% set style = styles|get(key=org, default=[]|group_by(key=0)) %}
+    <span style="flex-grow: {{ cnt / total }};
+                 background: {{ style|get(key='bg', default='#000') }};
+                 color: {{ style|get(key='fg', default='#fff') }};
+                 font-weight: bold;
+                 margin: 0 0.25em;
+                 text-align: center;"
+          title="{{ cnt }} matches">
+      {{ style|get(key='text', default=org|upper) }}
+    </span>
+  {% endfor %}
+{% endmacro %}

@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="{{ get_url(path="/career.css") }}"/>
+{% set org_styles = config.extra.org_styles %}
 {% set careers = load_data(path="data/career.json") %}
 {% if page.extra.career_name %}
-{% set mycareer = careers | get(key=page.extra.career_name) %}
+  {% set mycareer = careers | get(key=page.extra.career_name) %}
 {% else %}
-{% set mycareer = careers | get(key=page.title) %}
+  {% set mycareer = careers | get(key=page.title) %}
 {% endif %}
+{# TODO: Support career aliases properly. Probably in the career calculator script. #}
 
 <h3>Matches per promotion and year</h3>
 
@@ -25,10 +27,9 @@
         <tr>
             <td>{{year}}</td>
             <td>
-                {% for org, count in mycareer[year] -%}
-                    {% set hint = count ~ " matches" -%}
-                    {{ macros::promolink(code=org, hint_text=hint) }}
-                {% endfor -%}
+              <div style="display: flex">
+                {{ macros::orgs_stretchy(career=mycareer, year=year, styles=org_styles) }}
+              </div>
             </td>
         </tr>
         {% endfor -%}

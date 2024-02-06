@@ -34,3 +34,16 @@ mensch_links = [
 ]
 mensch_theme = "theme-base-0e"
 cloudflare = true
+
+[extra.org_styles.ppw]
+bg = '#000'
+text = 'PpW'
+
+[extra.org_styles.mzw]
+bg = '#208315'
+
+[extra.org_styles.kpw]
+bg = '#133762'
+
+[extra.org_styles.ddw]
+bg = '#71171f'
