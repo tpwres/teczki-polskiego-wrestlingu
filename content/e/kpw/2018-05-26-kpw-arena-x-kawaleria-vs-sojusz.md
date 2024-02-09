@@ -18,7 +18,7 @@ venue = "gdynia-arena"
 
 {% card() %}
 - [Moloch, '[Boski Ostrowski](@/w/ostrowski.md)']
-- [Alisa, '[Mira](@/w/mira.md)']
+- ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)']
 - ['[Mateusz Kakareko](@/w/mateusz-kowalski.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - - "Team Aleksander: [Dawid Oliwa](@/w/dawid-oliwa.md), [Kamil Aleksander](@/w/kamil-aleksander.md),
     [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Peter Pannache](@/w/peter-pannache.md)"

@@ -14,7 +14,7 @@ This show was also the debut of the future Chemik - who appeared as a personal b
   - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md)"
   - '[Rosetti](@/w/rosetti.md)'
   - s: 2v2v1 Handicap Match
-- ['[Bianca](@/w/bianca.md)', Alisa]
+- ['[Bianca](@/w/bianca.md)', '[Alisa](@/w/alisa.md)']
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
   {s: "KPW Championship #1 Contender Match"}]

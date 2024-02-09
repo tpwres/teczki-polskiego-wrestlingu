@@ -23,7 +23,8 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
   - s: "Six Man Tag Team Match"
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - ['[Greg](@/w/greg.md)(c)', Lee Rogers, {c: KPW OldTown Championship}]
-- ['[Bianca](@/w/bianca.md)', Alisa, '[Mira](@/w/mira.md)', {s: Three Way Match}]
+- ['[Bianca](@/w/bianca.md)', '[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)', {s: Three
+      Way Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', Dom Taylor, {c: KPW Championship}]
 {% end %}
 

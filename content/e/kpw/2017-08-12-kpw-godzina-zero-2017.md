@@ -15,7 +15,7 @@ Bianca faced Kat Von Kaige, also a Welsh wrestler who at the time performed main
 
 {% card() %}
 - ['[Peter Pannache](@/w/peter-pannache.md)', '[Kaszub](@/w/kaszub.md)']
-- [Alisa, '[Mira](@/w/mira.md)', {nc: No Contest}]
+- ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)', {nc: No Contest}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Mika The Polish Punisher]
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Krzysztof Zasada](@/w/krzysztof-zasada.md)']
 - ['[Greg](@/w/greg.md)(c)', Fynn Freyhart, {c: "KPW OldTown Championship"}]

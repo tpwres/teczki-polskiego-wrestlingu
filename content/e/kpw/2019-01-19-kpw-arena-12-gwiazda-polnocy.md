@@ -16,10 +16,12 @@ The event was almost cancelled due to unrelated but tragic circumstances in the 
 * KPW was in the process of choosing a new Chairman. Three candidates would apply: Krzysztof Zasada, Piękny Kawaler, and referee Krystian Malinowski.
 
 {% card() %}
-- ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)', s: "KPW OldTown Championship #1 Contendership Qualifier"]
+- ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
+  {s: "KPW OldTown Championship #1 Contendership Qualifier"}]
 - [Moloch, '[Mateusz Kakareko](@/w/mateusz-kowalski.md)']
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)', s: "KPW OldTown Championship #1 Contendership Qualifier"]
-- [Alisa, '[Bianca](@/w/bianca.md)', Yuu, {s: Three Way Match}]
+- ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)', {s: "KPW
+      OldTown Championship #1 Contendership Qualifier"}]
+- ['[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', Yuu, {s: Three Way Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', '[Peter Pannache](@/w/peter-pannache.md)',
   {c: "KPW Championship"}]
 {% end %}
