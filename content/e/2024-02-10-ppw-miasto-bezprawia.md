@@ -3,13 +3,11 @@ title = "PpW Miasto Bezprawia"
 template = "event_page.html"
 [extra]
 venue = "teatr-komuna"
-hide_results = true
 +++
 
-Miasto Bezprawia (_Lawless City_) is an upcoming event by [PpW Ewenement](@/o/ppw.md). It will be held in Teatr Komuna, a performing arts venue
-that operates in a former school building. This is the first time PpW presents their show in Warsaw's city center.
+Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). The event was held in Teatr Komuna, a performing arts venue that operates in a former school building. This was the first time PpW presents their show in Warsaw's city center.
 
-### Build-up to the event
+#### Build-up to the event
 
 * Previously on [Turbo OG](@/e/2023-12-08-ppw-turbo-og.md), Bill Feager won a #1 Contender match for the championship held by Steve Kuningas.
 * Biesiad and Isnorr both intervened in the Johnny Blade vs Chris X match.
@@ -21,15 +19,34 @@ that operates in a former school building. This is the first time PpW presents t
 * In that same video, Goblin, who was Gustav's opponent, is announced to get a match against an unspecified opponent who would be making his debut for PPW, also with a stipulation of his choosing. This was later revealed to be Belgian wrestler MBM "Sweetboy", who competes all over the European scene, and the stipulation to be an _El Paso Outlaw Match_.
 
 {% card() %}
-- ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW
-      Championship](@/o/ppw.md#championships)", nc: "upcoming"}]
+- ['[Goblin](@/w/goblin.md)', "MBM", {s: "El Paso Outlaw Match"}]
+- [Samson, Asara, '[Shadow](@/w/shadow.md)', {s: "3-Way Dance"}]
+- ["Gabriel Queen", "[Jacob Crane](@/w/jacob-crane.md)"]
+- ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {s: Classic Wrestling Match}]
+- ['[Mister Z](@/w/mister-z.md)', '[Ricardo Diesel](@/w/ricardo-diesel.md)', {s: "No. 1 Contender Match"}]
 - - "[Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md)"
   - "Chris X, [Isnorr](@/w/isnorr.md)"
-  - {s: "Tornado Tag Team Match", nc: "upcoming"}
-- ["[Jacob Crane](@/w/jacob-crane.md)", "Gabriel Queen", {nc: "upcoming"}]
-- [Asara, '[Shadow](@/w/shadow.md)', Samson, {s: "3-Way Dance", nc: "upcoming"}]
-- ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {nc: upcoming, s: Classic
-      Wrestling Match}]
-- ['[Goblin](@/w/goblin.md)', "MBM", {nc: upcoming, s: "El Paso Outlaw Match"}]
-- ['[Mister Z](@/w/mister-z.md)', '[Ricardo Diesel](@/w/ricardo-diesel.md)', {nc: upcoming, s: "No. 1 Contender Match"}]
+  - {s: "Tornado Tag Team Match"}
+- ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW
+      Championship](@/o/ppw.md#championships)"}]
 {% end %}
+
+Referees: Yawara, Karol Górski, Kornel \
+Ring announcer and MC: Michael HT
+
+#### Recap
+
+* With a table and two chairs set up in the ring, Bill Feager, Steve Kuningas and Mister Z entered to have a staredown and contract signing for the main event.
+* The El Paso Outlaw Match saw Goblin enter on a toy horse, wearing a pink cowboy hat and shooting cap guns into the crowd. A botched table spot was successfully repeated post fight, to the crowd's great joy.
+* Shadow brought his signature high-flying style, unseen in PpW since Rob Scaffold's retirement. Multiple close finishes on each of the contestants. Samson won with a frog splash to Shadow.
+* After the 3-way fight, Michael HT introduced Ricardo Diesel, who strolls into the ring, in his signature robe, music blaring but to Gustav Gryffin's video package. On closer inspection, this turned out to be Mister Z in a fake bald cap, who then cuts a promo on Ricardo. Then the real Ricardo entered, and faced off Mister Z. During their segment, Gustav Gryffin walked outside the ring, inciting the audience.
+* Jacob Crane entered to an excited audience, told them about his upcoming excursion to Japan, and how he created and trained his opponent. Then immediately turned heel by belittling the audience and Polish wrestling in general. Queen entered, to Hannah Montana's "Best of Both Worlds", immediately winning the audience. The two started by chopping each other, to have a strong-style duel.
+* Ricardo and Mister Z faced each other in an extremely bloody duel (mostly because of a botched bladejob that left Mister Z gushing blood onto the audience). The match ended with Ricardo lighting a table on fire, then being thrown into it by Mister Z once the flames expired. Huge reactions from the crowd.
+* Johnny, wearing new facepaint, and Biesiad began the action with music still playing, by throwing junk in the ring and attacking their opponents immediately. Many foreign objects were used, including a wooden frame with barbed wire, which of course Johnny had to get tangled in.
+* After the fight, Isnorr offered a handshake to the winners. Biesiad rejected this gesture, but Johnny accepted. Chris X then betrays Isnorr with a chairshot. During this spot, the plastic seat of the chair flew off into the crowd, fortunately to no injuries.
+* Later, Johnny announced that he's gunning to reclaim the PpW Ultraviolent title (from current champion Dobroniak), even if he must break the law to do it.
+* Feager and Kuningas was the hoss fight of the night, with very stiff hits.
+
+### References
+
+* [Facebook event page](https://www.facebook.com/events/1379486012929934)
