@@ -17,7 +17,7 @@ Ron Corvus, last seen at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poz
 * Greg, appearing in his long monasterial robes, declared that facing Corvus is his Via Crucis. In his promo we saw cuts to a past, younger, more aggressive Greg holding the KPW OldTown belt. Greg seemed to confront his younger self.
 * Gianni Valletta told the viewers he already saw Dawid Oliwa fight in Malta. Indeed, in February that same year Dawid faced Red Scorpion and Adam Envy in an event by Pro Wrestling Malta. On that same event, Gianni Valletta fought Zak Knight, a future one-time KPW competitor.
 * Ron Corvus considered his upcoming fight with Greg a rematch from [five years ago](@/e/kpw/2017-02-04-kpw-szlamfest.md), which he won. On the day of the event, Corvus planned to do three things: swim in the sea, beat Greg again, and drink a lot of _piwo_ (beer).
-* Lesak was certain that his loss to the Fux brothers at Arena 17 was solely the fault of the incompetent Piotr Opolski. He announced that Rosetti is going to be his partner. However, Rosetti, was absent for unknown reasons, and the fight turned into a handicap two-on-one.
+* Lesak was certain that his loss to the Fux brothers at Arena 17 was solely the fault of the incompetent Piotr Opolski. He announced that Rosetti is going to be his partner. 
 * Boski 2.0 won a contract to challenge for a championship at Godzina Zero 2019. However, he's since retired from wrestling.
 
 {% card() %}
@@ -30,8 +30,9 @@ Ron Corvus, last seen at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poz
 
 #### Recap and aftermath
 
+* Rosetti no-showed Lesak, who announced that he will now face the brothers alone.
 * After taking a frog splash and escaping a pin, Lesak left the ring, flipping the bird at his opponents and the ref, which led to a count-out.
-* Chemik entered carrying a wooden cross to the ring, and referenced the vows he made at the previous event. During the fight, Rosetti appeared, unaware that he missed his scheduled fight, which distracted the ref enough for Chemik to perform a backstabber and Final Anointment to grab his first win.
+* Chemik entered carrying a wooden cross to the ring, and referenced the vows he made at the previous event. During the fight, Rosetti appeared, unaware that he missed his scheduled appeareance, which distracted the ref enough for Chemik to perform a backstabber and Last Rites to grab his first win.
 
 ### References
 
