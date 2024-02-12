@@ -34,7 +34,7 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
 
 ### Recap
 
-* Ring announcer Arkadiusz Pawłowski left KPW. We got a new female announcer.
+* Ring announcer Arkadiusz Pawłowski left KPW. We got a new female announcer Kinga.
 * Rosetti issued an open challenge, which was accepted by Anton Green
 * Chairman Krystian Malinowski appeared, reinstated Robert and added him to the main event.
 * Like on previous editions of SzlamFest, there was one hardcore match. This time it was Dawid and Greg who used chains, kendo sticks, chairs, ladders and lighting tubes on each other.

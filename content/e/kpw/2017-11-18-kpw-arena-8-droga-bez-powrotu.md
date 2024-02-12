@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "gdynia-arena"
 +++
 
-Droga Bez Powrotu (_Road of No Return_) was the eight Arena show, held again at the Gdynia Sport Center.
+Droga Bez Powrotu (_Road of No Return_) was the eight Arena show, and the first one (although second after Godzina Zero 2017) to be held at the Gdynia Sport Center.
 
 {% card() %}
 - - '[Kaszub](@/w/kaszub.md)'

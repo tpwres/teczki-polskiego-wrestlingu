@@ -34,8 +34,7 @@ Commentary: Marek Łojek, Mateusz Mazurowski
 
 * As a result of the pandemic, The Hunt would be the longest reigning KPW Tag Team Champions, at 959 days, but with no defenses.
 * This would be Diana's final match in KPW. In 2021, she faced Sixt in Danish BODYSLAM! before making her debut for the new [PTW](@/o/ptw.md) in January 2022.
-* This would also be the last time KPW held a show at Gdynia Sports Center.
-* After losing the belts, Rosetti would betray Sawicki and hit him with a chair to the head. Robert Star intervened and protected Sawicki. Neither Robert nor Sawicki were seen again in KPW - they would later also join PTW, but Sawicki never got a match opportunity.
+* After losing the belts, Rosetti betrayed Sawicki and hit him with a chair to the head. Robert Star intervened and protected Sawicki. Neither Robert nor Sawicki were seen again in KPW - they would later also join PTW, but Sawicki never got a match opportunity.
 
 ### References
 
