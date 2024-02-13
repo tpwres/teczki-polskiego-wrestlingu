@@ -70,6 +70,10 @@ class UnlinkedNameLinter:
                     article = self.names_with_articles.get(name)
                     if not article: continue
 
+                    if path.match(article.name):
+                        # Don't add links to self when linting talent articles
+                        continue
+
                     link = "[{}](@/w/{})".format(name, article.name)
                     errors.append(UnlinkedNameError(path, num, m.start(1), name, link))
 
