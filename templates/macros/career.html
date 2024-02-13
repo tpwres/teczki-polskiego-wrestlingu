@@ -14,7 +14,7 @@
               color: {{ style|get(key='fg', default='#fff') }};
               padding: 0 0.25em;
               font-weight: bold;">
-       {{ code|upper }}
+       {{ style|get(key='text', default=code|upper) }}
    </a>
   </div>
 {% endmacro %}
