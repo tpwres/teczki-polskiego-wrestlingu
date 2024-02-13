@@ -5,6 +5,21 @@
   </span>
 {% endmacro %}
 
+{% macro promolink_color(code, hint_text='', styles) %}
+  {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
+  {% set org_path = "@/o/" ~ code ~ ".md" -%}
+  <span title="{{ hint_text }}">
+    <a href="{{ get_url(path=org_path) }}"
+       style="background: {{ style|get(key='bg', default='#000') }};
+              color: {{ style|get(key='fg', default='#fff') }};
+              padding: 0 0.25em;
+              font-weight: bold;">
+       {{ code|upper }}
+   </a>
+  </span>
+
+{% endmacro %}
+
 {% macro orgs_stretchy(career, year, styles) %}
   {% set thisyear = career | get(key=year|as_str, default=[]|group_by(key=0)) %}
   {% set_global total = 0 %}
