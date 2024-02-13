@@ -8,7 +8,7 @@
 {% macro promolink_color(code, hint_text='', styles) %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
   {% set org_path = "@/o/" ~ code ~ ".md" -%}
-  <span title="{{ hint_text }}">
+  <div title="{{ hint_text }}">
     <a href="{{ get_url(path=org_path) }}"
        style="background: {{ style|get(key='bg', default='#000') }};
               color: {{ style|get(key='fg', default='#fff') }};
@@ -16,8 +16,7 @@
               font-weight: bold;">
        {{ code|upper }}
    </a>
-  </span>
-
+  </div>
 {% endmacro %}
 
 {% macro orgs_stretchy(career, year, styles) %}
@@ -28,7 +27,7 @@
   {% endfor %}
   {% for org, cnt in thisyear %}
     {% set style = styles|get(key=org, default=[]|group_by(key=0)) %}
-    <span style="flex-grow: {{ cnt / total }};
+    <div style="flex-grow: {{ cnt / total }};
                  background: {{ style|get(key='bg', default='#000') }};
                  color: {{ style|get(key='fg', default='#fff') }};
                  font-weight: bold;
@@ -36,6 +35,6 @@
                  text-align: center;"
           title="{{ cnt }} matches">
       {{ style|get(key='text', default=org|upper) }}
-    </span>
+    </div>
   {% endfor %}
 {% endmacro %}
