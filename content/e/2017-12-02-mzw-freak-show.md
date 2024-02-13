@@ -21,7 +21,7 @@ Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumbl
   - "[Bartosz Borowsky](@/w/boro.md)"
   - Blue Thunder
   - Kamil Kwiecień
-  - "[Karol Górski](@/w/iskra.md)"
+  - "Karol Górski"
   - "[Kuba Kamiński](@/w/jacob-crane.md)"
   - Marcel Koniecki
   - "[Rafał Orszak](@/w/rafael-kid.md)"
