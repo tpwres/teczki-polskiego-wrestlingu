@@ -4,6 +4,7 @@ from dataclasses import dataclass
 from .base import LintError, Changeset
 from card import Card, Match
 from utils import parse_front_matter
+from articles import load_existing_name_articles
 from rewriter import Rewriter, UpdateMatch
 
 @dataclass
@@ -51,7 +52,7 @@ class UnlinkedParticipantError(LintError):
 
 class UnlinkedParticipantLinter:
     def __init__(self):
-        self.names_with_articles = self.load_existing_name_articles()
+        self.names_with_articles = load_existing_name_articles()
 
     def lint(self, path: Path):
         with path.open('r') as fp:
@@ -60,24 +61,6 @@ class UnlinkedParticipantLinter:
                 return []
 
             return self.analyze_matches(card.matches, path)
-
-
-    def load_existing_name_articles(self) -> dict[str, Path]:
-        cwd = Path.cwd()
-        talent_dir = cwd / 'content/w'
-        name_files = talent_dir.glob('*.md')
-        names = {}
-        for path in name_files:
-            if path.name == '_index.md': continue
-            with path.open('r') as fp:
-                text = fp.read()
-                front_matter = parse_front_matter(text)
-                names[front_matter['title']] = path
-                if extra := front_matter.get('extra'):
-                    for alias in extra.get('career_aliases', []):
-                        names[alias] = path
-
-        return names
 
     def analyze_matches(self, matches: Iterable[Match], path: Path) -> list[LintError]:
         errors = []

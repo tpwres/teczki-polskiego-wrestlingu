@@ -7,6 +7,7 @@ from sys import exit
 from linters.base import LintError
 from linters.unlinked_participant import UnlinkedParticipantLinter
 from linters.missing_card import MissingCardLinter
+from linters.unlinked_name import UnlinkedNameLinter
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -26,6 +27,7 @@ def main(args):
     linters_to_run = [
         MissingCardLinter(),
         UnlinkedParticipantLinter(),
+        UnlinkedNameLinter(),
     ]
 
     for path in files_to_lint:
