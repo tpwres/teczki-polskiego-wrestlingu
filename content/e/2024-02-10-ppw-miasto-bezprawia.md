@@ -11,7 +11,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 
 * Previously on [Turbo OG](@/e/2023-12-08-ppw-turbo-og.md), [Bill Feager](@/w/feager.md) won a #1 Contender match for the championship held by [Steve Kuningas](@/w/steve-kuningas.md).
 * Biesiad and [Isnorr](@/w/isnorr.md) both intervened in the [Johnny Blade](@/w/johnny-blade.md) vs Chris X match.
-* On social media, PpW posted that former MZW and PTW wrestler Gabriel Queen has joined their ranks and is likely to appear in some capacity. This was confirmed with the release of the official poster. Later, another post announced PTW wrestler [Samson](@/w/samson.md).
+* On social media, PpW posted that former MZW and PTW wrestler [Gabriel Queen](@/w/gabriel-queen.md) has joined their ranks and is likely to appear in some capacity. This was confirmed with the release of the official poster. Later, another post announced PTW wrestler [Samson](@/w/samson.md).
 * In a [facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid02zU3wXTw4DstxtdtphsXJQB3Q7wifMUxgXaYxsAiHfPzxMazGQPtTWYzTCUCfXe3Bl), PpW announced the number of participating wrestlers to beat any of their previous shows.
 * Following the success of the joint MZW+PPW event [Żadnych Granic](@/e/2023-09-23-ppw_mzw-zadnych-granic.md), [Shadow](@/w/shadow.md) will make his first appearance in PPW, in a three-person match that also includes [Samson](@/w/samson.md).
 * Based on the poster, the show would also feature [Jacob Crane](@/w/jacob-crane.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad](@/w/biesiad.md), Chris X, [Isnorr](@/w/isnorr.md), Asara, Gabriel Queen and [Samson](@/w/samson.md) as noted above
@@ -21,7 +21,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 {% card() %}
 - ['[Goblin](@/w/goblin.md)', "MBM", {s: "El Paso Outlaw Match"}]
 - ['[Samson](@/w/samson.md)', Asara, '[Shadow](@/w/shadow.md)', {s: "3-Way Dance"}]
-- ["Gabriel Queen", "[Jacob Crane](@/w/jacob-crane.md)"]
+- ["[Gabriel Queen](@/w/gabriel-queen.md)", "[Jacob Crane](@/w/jacob-crane.md)"]
 - ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {s: Classic Wrestling Match}]
 - ['[Mister Z](@/w/mister-z.md)', '[Ricardo Diesel](@/w/ricardo-diesel.md)', {s: "No.
       1 Contender Match"}]
