@@ -1,5 +1,10 @@
 {% set data = load_data(path="data/years-active.json") -%}
-{% set years = data | get(key=page.title) | sort -%}
+{% set_global years = data | get(key=page.title) -%}
+{% for name in page.extra|get(key='career_aliases', default=[]) -%}
+  {% set alias_years = data | get(key=name) -%}
+  {% set_global years = years | concat(with=alias_years) -%}
+{% endfor -%}
+{% set years = years|sort -%}
 {% if years -%}
   {% set min = years | first -%}
   {% set max = years | last -%}
