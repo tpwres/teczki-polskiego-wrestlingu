@@ -37,7 +37,7 @@ mensch_theme = "theme-base-0e"
 
 [extra.org_styles.ppw]
 bg = '#5b007e'
-fg = '#b0b0b0'
+fg = '#c7c7c7'
 text = 'PpW'
 
 [extra.org_styles.mzw]
