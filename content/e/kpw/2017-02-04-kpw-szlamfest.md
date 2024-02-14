@@ -23,8 +23,8 @@ The event, and festival, were held in B90, a music and event venue located in a 
 
 #### Summary
 
-* In the ladies' pillow fight match, a mattress with some pillows and covers was installed in the ring. At some point Bianca escapes from the ring, chased by Mira, to later hide under the covers while Mira wasn't looking. Mira decides to do a top-rope splash on the bed, discovering Bianca and attempting a pin with her still wrapped in the covers.
-* Weapons used by Corvus and Greg include a kendo stick, chairs, an empty beer crate and an old PC case.
+* In the ladies' pillow fight match, a mattress with some pillows and covers was installed in the ring. At some point [Bianca](@/w/bianca.md) escapes from the ring, chased by [Mira](@/w/mira.md), to later hide under the covers while Mira wasn't looking. Mira decides to do a top-rope splash on the bed, discovering Bianca and attempting a pin with her still wrapped in the covers.
+* Weapons used by Corvus and [Greg](@/w/greg.md) include a kendo stick, chairs, an empty beer crate and an old PC case.
 
 ### References
 

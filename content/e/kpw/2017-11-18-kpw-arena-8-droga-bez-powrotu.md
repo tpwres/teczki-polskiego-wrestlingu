@@ -29,7 +29,7 @@ Attendance: about 210
 
 #### Recap
 
-* In the main event, while Robert signals for his finisher, Greg pulls and slaps the ref to force a DQ, denying Robert the championship belt. However, he still wins his #1 Contender title shot.
+* In the main event, while Robert signals for his finisher, [Greg](@/w/greg.md) pulls and slaps the ref to force a DQ, denying Robert the championship belt. However, he still wins his #1 Contender title shot.
 
 ### References
 

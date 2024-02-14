@@ -7,18 +7,19 @@ venue = "gdynia-arena"
 
 The second Godzina Zero (_Hour Zero_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.
 
-The challenger to Greg's OldTown Championship was Fynn Freyhart in his first appearance for KPW. Fynn is a German wrestler from Lubeck, who has Polish origins (and a respectable command of the language). At the time, Fynn was appearing in wXw Academy, as well as several organizations in northern Germany.
+The challenger to [Greg](@/w/greg.md)'s OldTown Championship was [Fynn Freyhart](@/w/fynn-freyhart.md) in his first appearance for KPW. Fynn is a German wrestler from Lubeck, who has Polish origins (and a respectable command of the language). At the time, Fynn was appearing in wXw Academy, as well as several organizations in northern Germany.
 
 The other challenger was Welsh wrestler Wild Boar, by then already a veteran of the British scene, including matches in RevPro, Progress, ICW and many, many others. In 2018 Boar would be signed by WWE, and start appearing in its NXT UK programs.
 
-Bianca faced Kat Von Kaige, also a Welsh wrestler who at the time performed mainly in south-west England.
+[Bianca](@/w/bianca.md) faced Kat Von Kaige, also a Welsh wrestler who at the time performed mainly in south-west England.
 
 {% card() %}
 - ['[Peter Pannache](@/w/peter-pannache.md)', '[Kaszub](@/w/kaszub.md)']
 - ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)', {nc: No Contest}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Mika The Polish Punisher]
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Krzysztof Zasada](@/w/krzysztof-zasada.md)']
-- ['[Greg](@/w/greg.md)(c)', Fynn Freyhart, {c: "KPW OldTown Championship"}]
+- ['[Greg](@/w/greg.md)(c)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {c: "KPW OldTown
+      Championship"}]
 - ['[Robert Star](@/w/robert-star.md)', Joey Ozbourne, {s: "No Disqualification Match"}]
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Adam Bravo](@/w/adam-bravo.md)'

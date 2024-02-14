@@ -13,13 +13,13 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 
 #### Build-up
 
-* Sawicki and Rosetti shot a promo at a literal shooting range in Gdynia, getting ready for The Hunt
+* [Sawicki](@/w/sawicki.md) and [Rosetti](@/w/rosetti.md) shot a promo at a literal shooting range in Gdynia, getting ready for The Hunt
 * In a series of horror-themed vignettes, Daniel Boza first received a mysterious letter containing a key. Then we saw him explore a dark, seemingly abandoned house he entered using this key, where he found a mysterious phone. The phone suddenly rang, and when he picked up, a mysterious, altered voice told him that he must be the eagle who hunts the wolf, referring to his fight with Lesak.
-* Leaning into their new priest and altar boy gimmick, Chemik and Greg invaded Marcin Opolski's (who is Piotr's brother) house under the pretext of the traditional ministerial visit. Marcin received a punch to the gut from Greg. Another tradition of the priest giving a small portrait of Virgin Mary or one of the saints to children was also upheld, with Greg leaving his photocard on Marcin's table. Piotr reacted to this strongly, challenging Greg to the ring.
+* Leaning into their new priest and altar boy gimmick, [Chemik](@/w/chemik.md) and [Greg](@/w/greg.md) invaded Marcin Opolski's (who is Piotr's brother) house under the pretext of the traditional ministerial visit. Marcin received a punch to the gut from Greg. Another tradition of the priest giving a small portrait of Virgin Mary or one of the saints to children was also upheld, with Greg leaving his photocard on Marcin's table. Piotr reacted to this strongly, challenging Greg to the ring.
 * They also incorporated these roles into their ring entrance: Greg would now strut around with a large signet ring, allowing audience members to kiss it, after which he would give them his blessing. Chemik, in his altar boy's attire would collect donations, as is common in Polish churches during the Mass. Before entering the ring, Chemik would also swing a thurbler filled with burning incense around Greg, imitating Catholic rites.
 
 {% card() %}
-- [Daniel Boza, Eryk Lesak]
+- [Daniel Boza, '[Eryk Lesak](@/w/eryk-lesak.md)']
 - ['[Bianca](@/w/bianca.md)', '[Diana Rega](@/w/diana-strong.md)']
 - ['[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', Martn Pain, {c: KPW OldTown Championship}]
 - ['[Greg](@/w/greg.md)', Piotr Opolski]
@@ -33,8 +33,8 @@ Commentary: Marek Łojek, Mateusz Mazurowski
 #### Aftermath
 
 * As a result of the pandemic, The Hunt would be the longest reigning KPW Tag Team Champions, at 959 days, but with no defenses.
-* This would be Diana's final match in KPW. In 2021, she faced Sixt in Danish BODYSLAM! before making her debut for the new [PTW](@/o/ptw.md) in January 2022.
-* After losing the belts, Rosetti betrayed Sawicki and hit him with a chair to the head. Robert Star intervened and protected Sawicki. Neither Robert nor Sawicki were seen again in KPW - they would later also join PTW, but Sawicki never got a match opportunity.
+* This would be [Diana](@/w/diana-strong.md)'s final match in KPW. In 2021, she faced Sixt in Danish BODYSLAM! before making her debut for the new [PTW](@/o/ptw.md) in January 2022.
+* After losing the belts, Rosetti betrayed Sawicki and hit him with a chair to the head. [Robert Star](@/w/robert-star.md) intervened and protected Sawicki. Neither Robert nor Sawicki were seen again in KPW - they would later also join PTW, but Sawicki never got a match opportunity.
 
 ### References
 

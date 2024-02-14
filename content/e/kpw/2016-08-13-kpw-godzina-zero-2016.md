@@ -14,8 +14,8 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 #### Build-up to the event
 
 * This was Mika's first KPW appearance. The original plan was for him to make his debut at [KPW OldTown](@/e/kpw/2016-07-23-kpw-oldtown.md) in the tournament brackets.
-* Kamil Aleksander defeated Piękny Kawaler for the #1 Contendership at the first [Arena show](@/e/kpw/2016-02-27-kpw-arena-1.md) in February
-* Robert Star was the next one to win a title shot at [Arena 2](@/e/kpw/2016-04-30-kpw-arena-2.md) in a ladder match
+* [Kamil Aleksander](@/w/kamil-aleksander.md) defeated [Piękny Kawaler](@/w/piekny-kawaler.md) for the #1 Contendership at the first [Arena show](@/e/kpw/2016-02-27-kpw-arena-1.md) in February
+* [Robert Star](@/w/robert-star.md) was the next one to win a title shot at [Arena 2](@/e/kpw/2016-04-30-kpw-arena-2.md) in a ladder match
 * However, he lost it to Kawaler at [Arena 3](@/e/kpw/2016-06-11-kpw-arena-3.md)
 
 {% card() %}
@@ -37,9 +37,9 @@ Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
-* Rosetti distracts Jordan, and Sawicki low blows him from behind
+* [Rosetti](@/w/rosetti.md) distracts Jordan, and [Sawicki](@/w/sawicki.md) low blows him from behind
 * Kawaler enters the ring with his entire stable Kawaleria (_Cavalry_) dressed in dark robes and holding flaming torches.
-* After Kamil Aleksander scores the second pin to even the score, Kawaleria tries to interfere, but Kaszub and Robert Star come into the ring area and start fighting. Then Rosetti and Sawicki arrive and attack them. The rest of the locker room follows, and a huge brawl breaks out. Referee unsuccessfully tries to throw them out, later threatening to stop the match, aand to disqualify Kawaler.
+* After Kamil Aleksander scores the second pin to even the score, Kawaleria tries to interfere, but [Kaszub](@/w/kaszub.md) and Robert Star come into the ring area and start fighting. Then Rosetti and Sawicki arrive and attack them. The rest of the locker room follows, and a huge brawl breaks out. Referee unsuccessfully tries to throw them out, later threatening to stop the match, aand to disqualify Kawaler.
 
 ### References
 

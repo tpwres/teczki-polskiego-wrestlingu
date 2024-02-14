@@ -10,7 +10,7 @@ From Asian countries showing their culture and cuisine, to camper vans, yachts, 
 
 KPW was invited to facilitate Carmen Rojas - a Bolivian _cholita_ (wearing traditional attire) and [_pollera_][cholitas-guardian] (female wrestler) who was the guest of Polish celebrity traveller Martyna Wojciechowska. Rojas competed in Bolivia's wrestling scene in La Paz to make a living, often against men. Wojciechowska's book and TV show both have a chapter about her.
 
-Rojas faced KPW's Mira in a mostly unplanned match, consisting of basic throws and punches. While Mira entered in her typical, tight trunks and cropped top, Rojas was wearing a long dress with many layers - the two wrestlers couldn't be more different. Afterwards, Robert Star and Greg put on a men's match.
+Rojas faced KPW's [Mira](@/w/mira.md) in a mostly unplanned match, consisting of basic throws and punches. While Mira entered in her typical, tight trunks and cropped top, Rojas was wearing a long dress with many layers - the two wrestlers couldn't be more different. Afterwards, [Robert Star](@/w/robert-star.md) and [Greg](@/w/greg.md) put on a men's match.
 
 {% card() %}
 - ['[Mira](@/w/mira.md)', Carmen Rojas]

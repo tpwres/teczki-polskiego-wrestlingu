@@ -5,9 +5,9 @@ template = "event_page.html"
 venue = "przywidz" # TODO: verify
 +++
 
-This was the first event held by the newly created KPW. Because it inherited the entire roster (except Don Roid), the ring and wrestling school, and even the venue, which was the same as for DDW's [last show](@/e/ddw/2015-01-11-ddw-wrestling-art.md), KPW became the direct successor of DDW.
+This was the first event held by the newly created KPW. Because it inherited the entire roster (except [Don Roid](@/w/don-roid.md)), the ring and wrestling school, and even the venue, which was the same as for DDW's [last show](@/e/ddw/2015-01-11-ddw-wrestling-art.md), KPW became the direct successor of DDW.
 
-Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular Ron Corvus became a familiar face in KPW, specializing in hardcore matches.
+Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular [Ron Corvus](@/w/ron-corvus.md) became a familiar face in KPW, specializing in hardcore matches.
 
 {% card() %}
 - ["[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),

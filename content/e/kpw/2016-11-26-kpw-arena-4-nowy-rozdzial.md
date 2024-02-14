@@ -17,7 +17,7 @@ Nowy Rozdział (_New Chapter_) was held in Gdańsk, in the gymnastics hall of CK
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Elliott Jordan, {c: KPW Championship}]
 {% end %}
 
-This would be Damian Lambert's last appearance for KPW.
+This would be [Damian Lambert](@/w/damien-rothschild.md)'s last appearance for KPW.
 
 ### References
 
