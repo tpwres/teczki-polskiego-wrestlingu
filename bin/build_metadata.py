@@ -4,27 +4,37 @@ import re
 from pathlib import Path
 from datetime import datetime
 from collections import Counter
+from articles import load_names_with_aliases
 import json
 from functools import reduce
-
+from typing import Iterable, cast
 from utils import parse_front_matter, RichEncoder, accepted_name
-from card import Card
+from card import Card, Match, Name
 
-def extract_names(matches):
-    return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], set([]))
+def extract_names(matches: Iterable[Match]) -> set[Name]:
+    initial: set[Name] = set([])
+    return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], initial)
 
 # Not strictly necessary as the career hash can be used to pull the same info
-def update_years_active(years, card, front_matter):
+def update_years_active(years: dict[str, set[int]], card: Card, front_matter: dict[str, object]):
+    if not card.matches: return
+
     names = extract_names(card.matches)
-    event_date = front_matter['date']
+    event_date = cast(datetime, front_matter['date'])
 
     for person in names:
         if not accepted_name(person.name): continue
         years.setdefault(person.name, set()).add(event_date.year)
 
-def update_career(career, card, front_matter):
-    event_date = front_matter['date']
-    orgs = front_matter['orgs']
+OrgYears = dict[str, int]
+CareerYears = dict[int, OrgYears]
+
+def update_career(career: dict[str, CareerYears], card: Card, front_matter: dict[str, object]):
+    event_date = cast(datetime, front_matter['date'])
+    orgs = cast(list[str], front_matter['orgs'])
+    if not card.matches:
+        return
+
     names = extract_names(card.matches)
 
     for person in names:
@@ -32,8 +42,28 @@ def update_career(career, card, front_matter):
         if not accepted_name(plain): continue
 
         entry = career.setdefault(plain, {})
-        year = entry.setdefault(event_date.year, Counter())
+        year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
+
+
+def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
+    result = left.copy()
+    for key in right:
+        year = result.setdefault(key, Counter())
+        year.update(right[key])
+
+    return result
+
+def merge_aliases(career: dict[str, CareerYears]):
+    """
+    Mutate the career dict passed, by removing entries which are only ever
+    listed as a career_aliases entry in some page. Merge them to their primary name.
+    """
+    all_names = load_names_with_aliases()
+    for name, aliases in all_names.items():
+        for alias in aliases:
+            c = career.pop(alias)
+            career[name] = merge_years(career[name], c)
 
 def main():
     years_active = {}
@@ -61,6 +91,8 @@ def main():
             continue
         update_years_active(years_active, card, front_matter)
         update_career(career, card, front_matter)
+
+    merge_aliases(career)
 
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)
