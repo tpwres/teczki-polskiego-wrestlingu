@@ -1,0 +1,34 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+
+{{ section.content | safe }}
+
+{% set_global all_talent = section.pages %}
+{% set alphabet = 'ABCDEFGHIJKLŁMNOPQRSŚTUVWXYZ' %}
+
+{# TODO: With aliases? Requires some precomputation. #}
+{# TODO: With people who don't have a page? What do we link to then? #}
+{% for letter in alphabet %}
+  {% set_global talents = [] %}
+  {% for person in all_talent %}
+    {% if person.title is starting_with(letter) %}
+      {% set_global talents = talents|concat(with=person) %}
+    {% endif %}
+  {% endfor %}
+
+  {% if talents|length > 0 %}
+    <h2>{{ letter|upper }}</h2>
+
+    <ul>
+      {% for talent in talents|sort(attribute='title') %}
+        <li>
+          <a href="{{ get_url(path=talent.path) }}">{{ talent.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
+
+{% endblock content %}

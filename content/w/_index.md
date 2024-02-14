@@ -1,4 +1,4 @@
 +++
 title = "Talent"
-template = "index.html"
+template = "alphabetical_talent_list.html"
 +++
