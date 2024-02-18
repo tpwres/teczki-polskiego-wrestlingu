@@ -1,6 +1,37 @@
 +++
 title = "PTW Underground 17"
 template = "event_page.html"
+authors = ["Szymon Iwulski"]
 [extra]
 venue = "ptw-targowa"
 +++
+
+{% card() %}
+- [Taras, Max Speed]
+- [King Kaiden, Erik Šlotíř]
+- [Wiktor Longman, '[Boro](@/w/boro.md)']
+- [Disco Pablo, Sinister]
+- ['[Olgierd](@/w/olgierd.md)', '[Gabriel Queen](@/w/gabriel-queen.md)', {s: Underground
+      Street Fight}]
+- ['Dawid "Puncher" Seńko', Salomon Strid]
+- [Krampus, Marcelito]
+- ['[Axel Fox](@/w/axel-fox.md)', '[Rafi Rarytas](@/w/rafi.md)', {s: impromptu match}]
+- [Dziedzic, '["Top Gun" Samson](@/w/samson.md)']
+{% end %}
+
+Ring announcer and MC: Arkadiusz Pawłowski \
+Commentary: Piotr "Showoff" Małecki \
+Special guest commentary: [Diana Strong][diana-commentary-fb]
+
+#### Trivia
+
+The Underground Street Fight match set the record of the longest match in PTW history, at 1 hour, 10 minutes and 45 seconds. The match was initially the show opener, but during the course of the fight, wrestlers left the building, camera in tow. Outside, Olgierd put Gabriel Queen inside the trunk of his card, forced referee Seweryn into the passenger seat, and drove off. The show carried on, and later Olgierd and Gabriel returned to finish their match in the ring.
+
+### References
+
+* [Facebook post confirming the record match duration](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0xpBiuZbjAbaBX1ryEpSXgTMa4EaMsgxJiyzCARq6D51ec5C9FRgiCrs3UYS6i7bBl)
+* [Official Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0PetNLNxmekrXTcfY5s2mEMb7eL21UpinvtMyBzcQajZCP2BB5EBJvBMFQKG5JyVkl)
+* [Full event on YouTube](https://www.youtube.com/watch?v=rzPx_GS5NeQ&t=9458s), requires paid subscription
+* [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-underground-17/2pdlp/), requires paid subscription
+
+[diana-commentary-fb]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02aZedhtGzsTpd3QhX6rtq7Qs79V62wdvcXT4EB1eKB7TBdwzSv9AQNBi2KW4xs2X4l
