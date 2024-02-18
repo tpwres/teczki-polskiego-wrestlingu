@@ -1,14 +1,17 @@
 {% set final = row | last %}
 {% set winner = row | first %}
 {% if final is object %}
-    {% set others = row | slice(start=1, end=-1) %}
-    {% set title = final | get(key="c", default="") %}
-    {% set stip = final | get(key="s", default="") %}
+  {% set others = row | slice(start=1, end=-1) %}
+  {% set title = final | get(key="c", default="") %}
+  {% set stip = final | get(key="s", default="") %}
+  {% set segment = final | get(key="g", default=false) %}
 {% else %}
-    {% set others = row | slice(start=1) %}
-    {% set title = "" %}
-    {% set stip = "" %}
+  {% set others = row | slice(start=1) %}
+  {% set title = "" %}
+  {% set stip = "" %}
+  {% set segment = false %}
 {% endif %}
+{% set bodies = others | length %}
 {% if not stip %}
   {% if title %}
     {% set stip = "Match" %}
@@ -22,23 +25,27 @@
     {% set sep = "defeated" %}
 {% endif %}
 
-{% if others | length == 0 and not final.nc %}
-Winner:
-{% endif %}
-{{ winner | markdown(inline=true) | safe }}
-{% if others | length > 0 %}
-{{ sep }}
-{{ others | join(sep=" and ") | markdown(inline=true) | safe }}
-{% endif %}
-{% if final is object %}
-    {% if final.r %}
-        via {{ final.r }}
-    {% elif final.nc %}
-        - {{ final.nc }}
-    {% endif %}
+{% if segment %}
+  Segment: {{ winner | markdown(inline=true) | safe }}{% if others %}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
+{% else %}
+  {% if bodies == 0 and not final.nc %}
+  Winner:
+  {% endif %}
+  {{ winner | markdown(inline=true) | safe }}
+  {% if bodies > 0 %}
+  {{ sep }}
+  {{ others | join(sep=" and ") | markdown(inline=true) | safe }}
+  {% endif %}
+  {% if final is object %}
+      {% if final.r %}
+          via {{ final.r }}
+      {% elif final.nc %}
+          - {{ final.nc }}
+      {% endif %}
+  {% endif %}
+  <strong>
 {% endif %}
 <br/>
-<strong>
 {{ title | markdown(inline=true) | safe }}
 {{ stip }}
 </strong>
