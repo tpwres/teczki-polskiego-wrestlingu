@@ -6,7 +6,7 @@ venue = "targi-poznan"
 hide_results = true
 +++
 
-Piwo Przyjacielem Wrestlingu (_"Beer Is Wrestling's Friend"_) was an event by PpW accompanying [Poznańskie Targi Piwne][ptp] (Poznań Beer Expo). During each day of the event, two wrestling exhibitions took place, one at 16:00, and another one at 20:00. This was the second time PPW provided wrestling entertainment at the fair - the first one was [two years earlier](@/e/2021-07-30-ppw-poznan-supershow.md).
+Piwo Przyjacielem Wrestlingu (_"Beer Is Wrestling's Friend"_) was an event by PpW accompanying [Poznańskie Targi Piwne][ptp] (Poznań Beer Expo), held over Friday and Saturday on November 24 and 25, 2023. During each day of the event, two wrestling exhibitions took place, one at 16:00, and another one at 20:00. This was the second time PPW provided wrestling entertainment at this fair - the first one was [two years earlier](@/e/2021-07-30-ppw-poznan-supershow.md).
 
 Because the event was an exhibition show held for a mostly non-wrestling audience, the performers focused on comedy and invented new, humorous gimmicks. The card listed here covers both days of the event.
 
@@ -24,10 +24,10 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - nc: "?"
     s: "4 vs 4 Elimination Match"
 - ['[Mister Z](@/w/mister-z.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)']
-- [Czesław Pierdolec, Steven Kimono]
+- [Czesław Pierdolec, "[Steven Kimono](@/w/biesiad.md)"]
 - ["[Isnorr](@/w/isnorr.md), [Mister Z](@/w/mister-z.md)", "[Striker](@/w/royal-striker.md),
     Mamet", {s: "New Jack Tribute Match"}]
-- [Bracia Pierdolec, "Bracia Kimono: Steven Kimono, [Konnan Kimono](@/w/goblin.md)",
+- [Bracia Pierdolec, "Bracia Kimono: [Steven Kimono](@/w/biesiad.md), [Konnan Kimono](@/w/goblin.md)",
   {s: Tag Team Match}]
 - ["[Hardcore Gustav](@/w/gustav-gryffin.md)", "[El Senior Cerveza](@/w/goblin.md)"]
 - [Kapral Kornel, '[Kapitan Bazooka](@/w/kapitan-bazooka.md)']
