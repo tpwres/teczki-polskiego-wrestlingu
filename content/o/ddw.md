@@ -28,7 +28,7 @@ that took over from DDW in Gdańsk. A couple years later Pawłowski would go on 
 
 ### References
 
-* [Article on mywrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) (in Polish)
+* [Polish Wrestling History Part 2 on mywrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) (in Polish)
 * [DDW at Mam Talent](https://tvn.pl/programy/mam-talent/ostry-wrestling-czy-teatrzyk-dla-dzieci-ls5895467), a Polish version of the _Got Talent_ format
 * [Olga Mickiewicz's article in Polityka](https://www.polityka.pl/tygodnikpolityka/ludzieistyle/1508108,1,wrestling-po-polsku.read) (in Polish)
 * [DDW Wrestling School](https://www.facebook.com/SzkolaWrestlingu/) on Facebook
