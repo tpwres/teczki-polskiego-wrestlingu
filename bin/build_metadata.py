@@ -60,10 +60,10 @@ def merge_aliases(career: dict[str, CareerYears]):
     listed as a career_aliases entry in some page. Merge them to their primary name.
     """
     all_names = load_names_with_aliases()
-    for name, aliases in all_names.items():
+    for main_name, aliases in all_names.items():
         for alias in aliases:
             c = career.pop(alias)
-            career[name] = merge_years(career[name], c)
+            career[main_name] = merge_years(career.get(main_name, {}), c)
 
 def main():
     years_active = {}
