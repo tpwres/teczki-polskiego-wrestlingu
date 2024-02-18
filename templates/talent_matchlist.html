@@ -5,7 +5,7 @@
 {% if page.extra.career_name %}
     {% set my_appearances = appearances | get(key=page.extra.career_name) %}
 {% else %}
-    {% set my_appearances = appearances | get(key=page.title) %}
+    {% set my_appearances = appearances | get(key=page.title, default=[]) %}
 {% endif %}
 {% for alias in page.extra | get(key="career_aliases", default=[]) %}
     {% set alias_appearances = appearances | get(key=alias, default=[]) %}
