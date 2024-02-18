@@ -1,5 +1,5 @@
 +++
-title = "PTW X RyuCon"
+title = "PTW x RyuCon 2"
 template = "event_page.html"
 author = ["Szymon Iwulski"]
 [extra]
@@ -49,3 +49,4 @@ Post-match inteview segments: Tobiasz "Skyver" Korzybski \
 * [Full event on YouTube](https://www.youtube.com/watch?v=jOr7PhKb7xY&t=6971s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-ryucon/2pddh/), requires paid subscription
 * [Sinister's singing Radiohead's "Creep"](https://www.youtube.com/watch?v=WU5OTqZDUtY&pp=ygUOc2luaXN0ZXIgY3JlZXA%3D%22%3E) to captive Syriusz Dziedzic
+* [Puncher's burning manga segment](https://www.youtube.com/watch?v=VZT7COlYlkI)
