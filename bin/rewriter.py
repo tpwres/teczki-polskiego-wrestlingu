@@ -1,14 +1,16 @@
+from typing import Union
 from yaml import tokens, events
 from yaml._yaml import CParser, CEmitter
 from io import StringIO
 from dataclasses import dataclass
+import re
 
 class RewriterPattern: pass
 
 @dataclass
 class UpdateMatch(RewriterPattern):
     match_index: int
-    name: str
+    name: str | re.Pattern[str]
     link: str
 
 class Rewriter:
@@ -29,7 +31,10 @@ class Rewriter:
         for pat in self.patterns:
             match pat:
                 # Pattern indices are 0-based, but nested list indices from tokens are 1-based
-                case UpdateMatch(match_index=index, name=name, link=link) if indices[0] == index + 1:
+                case UpdateMatch(match_index=index, name=re.Pattern() as rx, link=link) if indices[0] == index + 1:
+                    new_value = rx.sub(link, new_value)
+                    break
+                case UpdateMatch(match_index=index, name=str() as name, link=link) if indices[0] == index + 1:
                     new_value = new_value.replace(name, link)
                     break
         return new_value

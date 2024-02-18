@@ -1,3 +1,4 @@
+import re
 from typing import Iterable, Optional
 from pathlib import Path
 from dataclasses import dataclass
@@ -46,7 +47,8 @@ class UnlinkedParticipantError(LintError):
         with self.path.open() as fp:
             card_lines = fp.read()[card.start_offset:card.end_offset]
             rewriter = Rewriter(card_lines)
-            rewriter.add_replacement(UpdateMatch(self.match_index, self.name, self.link))
+            rx = re.compile(rf"\b{re.escape(self.name)}\b")
+            rewriter.add_replacement(UpdateMatch(self.match_index, rx, self.link))
             result = rewriter.rewrite()
             return ReplaceCard(result)
 
