@@ -1,6 +1,7 @@
 +++
 title = "PTW Underground 19"
 template = "event_page.html"
+authors = ["Szymon Iwulski"]
 [extra]
 venue = "ptw-targowa"
 +++
@@ -16,7 +17,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 - ['Dawid "Puncher" Seńko', Max Speed]
 - ['[Diana Strong](@/w/diana-strong.md)', Violet Nyte]
 - [Vincent Caravaggio, g: true]
-- [Erik Slotir, Marcelito]
+- [Erik Šlotíř, Marcelito]
 - [Dziedzic, King Kaiden]
 - ['"Starboy" Nano Lopez', Renegade]
 - ["Sambor; Rusałka", Marco Hammers]

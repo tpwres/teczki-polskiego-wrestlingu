@@ -21,7 +21,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 {% card() %}
 - [Scotty Rawk, Speedball Mike Bailey, {c: "British Wrestling Revolution Championship"}]
 - ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels]
-- [Krampus, '"Starboy" Nano Lopez"', {s: No DQ}]
+- [Krampus, '"Starboy" Nano Lopez', {s: No DQ}]
 - [PJ Black, Lince Dorado]
 - - "Budapest Bastards: Renegade, Nitro"
   - "PAKA: Taras, Disco Pablo"
@@ -42,7 +42,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - Wiktor Longman
   - Sędzia Rafał
   - Santino
-  - Erik Slotir
+  - Erik Šlotíř
   - '[Olgierd](@/w/olgierd.md)'
   - King Kaiden
   - Sambor
@@ -61,7 +61,7 @@ Ring Announcer: Arkadiusz Pawłowski
 ### Recap
 
 * Speedball immediately won the Polish crowd's support. Delivered his signature fast kicks and running tornado kick.
-* After the Nina vs Diana match, Pawłowski leaked plans to introduce a women's title.
+* After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a women's title.
 * Nano was pinned, but managed to lift one shoulder for the three count. The ref initially awarded Krampus the victory, but as he was about to reverse this decision, Krampus decked him and kicked out of the ring. Sinister arrived to deliver more punishment to Lopez.
 * Mario Pardua, a wrestler of Polish origin fighting in the Chicago area, introduced himself in a video clip. In Polish, he declared he's ready for Prime Time Wrestling. The crowd chanted CM-PUNK at him. Pawłowski added that Pardua is currently fighting for NWA, and that he's been signed to PTW.
 * After Lince Dorado's entrance, Suproń and Borkowski joined the Polish commentary team.
@@ -70,7 +70,7 @@ Ring Announcer: Arkadiusz Pawłowski
 * PAKA entered to Bonnie Tyler's _Holding out for a hero_. Coincidentally, the actual Bonnie Tyler was giving a concert in Poland the next day, Sunday Feb 4.
 * MxM grabbed the win by Mason pinning Mansoor. However, Pawłowski was furious and ordered the match to continue.
 * Marius Al-Ani retained the belt by submission.
-* Legia Łysych (Marco hammers & Olgierd) entered the ring, Hammers holding an electric shaver. They summoned Karyna, their valet to the ring. Previously in a segment on PTW Underground, they declared that she'd have to shave bald to remain in Legia Łysych. Karyna was nowhere to be seen.
+* Legia Łysych (Marco hammers & [Olgierd](@/w/olgierd.md)) entered the ring, Hammers holding an electric shaver. They summoned Karyna, their valet to the ring. Previously in a segment on PTW Underground, they declared that she'd have to shave bald to remain in Legia Łysych. Karyna was nowhere to be seen.
 * Looking for someone else to shave, they started calling out people in the audience, then grabbed a hapless referee to the crowd's disappointment. Then, Marcin Najman appeared and entered the ring. They invited him to join their faction, as he's already bald, and has the nickname of El Testosteron. However, in order to join, he must start winning fights in MMA, a reference to his losing streak.
 * Najman referred to himself not as bald, but close cut and decked them with punches. Announced his upcoming fight against Murański.
 * Pawłowski explained the Gold Rush Rumble rules: typical over-the-top rope elimination, but the final four can only eliminate  by pinfall or submission.
@@ -81,18 +81,18 @@ Ring Announcer: Arkadiusz Pawłowski
 
 #### Gold Rush Rumble entrances and eliminations
 
-1. Axel Fox
+1. [Axel Fox](@/w/axel-fox.md)
 2. Marcelito
 3. PTW Championship belt is unveiled
 4. Jonny Storm
 5. Cowboy James Storm
 6. Marco Hammers
-7. Diana Strong
+7. [Diana Strong](@/w/diana-strong.md)
 8. Diana eliminates Marco Hammers
 9. Max Speed
 10. Michał "Mutant" Świątkowski
 11. Mutant eliminates Max Speed
-12. Karol "Iskra" Górski fails to enter ring after getting beaten by Hamers and Max
+12. Karol "[Iskra](@/w/iskra.md)" Górski fails to enter ring after getting beaten by Hamers and Max
 13. Wiktor Longman
 14. Longman eliminates Diana
 15. Longman eliminates Mutant
@@ -104,14 +104,14 @@ Ring Announcer: Arkadiusz Pawłowski
 21. Santino
 22. Santino eliminates Sędzia Rafał
 23. Longman eliminates Santino
-24. Erik Slotir
+24. Erik Šlotíř
 25. Olgierd
 26. King Kaiden
 27. Longman eliminates Jonny Storm
 28. Kaiden eliminates Olgierd
 29. Outside the ring, Karyna enters and punches Olgierd
 30. Sambor
-31. Sambor eliminates Erik Slotir
+31. Sambor eliminates Erik Šlotíř
 32. Longman eliminates Sambor
 33. Spartan
 34. Spartan eliminates Longman

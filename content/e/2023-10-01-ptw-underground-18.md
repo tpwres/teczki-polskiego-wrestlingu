@@ -8,7 +8,7 @@ venue = "ptw-targowa"
 
 {% card() %}
 - ['[Olgierd](@/w/olgierd.md)', Marcelito]
-- ['[Axel Fox](@/w/axel-fox.md)', Erik Slotir]
+- ['[Axel Fox](@/w/axel-fox.md)', Erik Šlotíř]
 - [Disco Pablo, Max Speed]
 - [Dziedzic, Taras]
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', Marco Hammers]
