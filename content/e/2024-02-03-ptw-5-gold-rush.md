@@ -54,7 +54,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 {% end %}
 
 Polish commentary: Arkadiusz Paterek, Piotr Małecki, Łukasz Baliński \
-Special guest commentators: Andrzej Suproń, Paweł Borkowski \
+Special guest commentators: Andrzej Supron, Paweł Borkowski \
 English commentary: Santino, Lewis Costello \
 Ring Announcer: Arkadiusz Pawłowski
 
@@ -64,7 +64,7 @@ Ring Announcer: Arkadiusz Pawłowski
 * After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a women's title.
 * Nano was pinned, but managed to lift one shoulder for the three count. The ref initially awarded Krampus the victory, but as he was about to reverse this decision, Krampus decked him and kicked out of the ring. Sinister arrived to deliver more punishment to Lopez.
 * Mario Pardua, a wrestler of Polish origin fighting in the Chicago area, introduced himself in a video clip. In Polish, he declared he's ready for Prime Time Wrestling. The crowd chanted CM-PUNK at him. Pawłowski added that Pardua is currently fighting for NWA, and that he's been signed to PTW.
-* After Lince Dorado's entrance, Suproń and Borkowski joined the Polish commentary team.
+* After Lince Dorado's entrance, Supron and Borkowski joined the Polish commentary team.
 * Lince kicked out of the Styles clash, hitting the ref in the face with his feet. PJ Black hit the Placedo Effect to win.
 * MxM received warmly by the audience, only to immediately turn heel and cut a promo calling them and the Polish language ugly. Cue chants of STFU.
 * PAKA entered to Bonnie Tyler's _Holding out for a hero_. Coincidentally, the actual Bonnie Tyler was giving a concert in Poland the next day, Sunday Feb 4.
@@ -130,7 +130,7 @@ Ring Announcer: Arkadiusz Pawłowski
 47. Puncher pins Axel Fox to win
 
 Mutant was last seen in PTW on their very first event in 2021.
-Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character seen only on the first show so far.
+Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character who made his debut at the first event, then showed on first two Underground events and disappeared.
 
 ### References
 
