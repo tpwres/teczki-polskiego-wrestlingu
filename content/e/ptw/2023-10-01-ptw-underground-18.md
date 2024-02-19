@@ -20,7 +20,7 @@ venue = "ptw-targowa"
 #### Recap
 
 * Nano Lopez appeared with one arm in a sling, addressing his health and potential retirement. Promised to fight Sinister Kingdom after returning from injury.
-* This was originally to be the go-home show for [PTW#5 Gold Rush](@/e/2024-02-03-ptw-5-gold-rush.md), however that show was postponed, from December till February next year.
+* This was originally to be the go-home show for [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), however that show was postponed, from December till February next year.
 * Before the show closed, Puncher entered the ring and cut a promo about winning the upcoming Rumble match at PTW#5, which resulted in a series of interruptions by:
   * [Axel Fox](@/w/axel-fox.md)
   * Wiktor Longman

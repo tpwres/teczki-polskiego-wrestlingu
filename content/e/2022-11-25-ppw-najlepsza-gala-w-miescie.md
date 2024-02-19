@@ -6,7 +6,7 @@ venue = "waldorffa25"
 city = "Warszawa"
 +++
 
-The event name, which translates to "Best Gala In Town", is a reference to the fact that PTW also held their event [PTW#3: Legends](@/e/2022-11-26-ptw-3-legends.md) in Warsaw, the very next day.
+The event name, which translates to "Best Gala In Town", is a reference to the fact that PTW also held their event [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in Warsaw, the very next day.
 
 {% card() %}
 - ["[Isnorr](@/w/isnorr.md)", "[Bill Feager](@/w/feager.md); Ms. XXX"]

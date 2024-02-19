@@ -6,7 +6,7 @@ authors = ["Szymon Iwulski"]
 venue = "ptw-targowa"
 +++
 
-The 15th Underground event was the go-home show for [PTW#4 Mystery](@/e/2023-06-25-ptw-4-mystery.md), and, as per FITE billings, the last one to feature Kinguin as titular sponsor.
+The 15th Underground event was the go-home show for [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and, as per FITE billings, the last one to feature Kinguin as titular sponsor.
 It was held in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. The show had two foreign guests: American female wrestler Devlyn Macabre, and Hungarian wrestler Hunyadi Tamas.
 By the time of the event, Devlyn was touring the European independent scene, with three matches in lower-card AEW shows in her resume, while Tamas was often seen teaming with PTW's [Robert Star](@/w/robert-star.md) in Denmark. Devlyn was playing a heel persona, with Rammstein's "Sonne" as her entrance theme.
 
