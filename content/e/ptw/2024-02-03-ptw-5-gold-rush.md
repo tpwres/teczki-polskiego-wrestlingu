@@ -56,7 +56,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 Polish commentary: Arkadiusz Paterek, Piotr Małecki, Łukasz Baliński \
 Special guest commentators: Andrzej Supron, Paweł Borkowski \
 English commentary: Santino, Lewis Costello \
-Ring Announcer: Arkadiusz Pawłowski
+Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 
 ### Recap
 
@@ -70,12 +70,12 @@ Ring Announcer: Arkadiusz Pawłowski
 * PAKA entered to Bonnie Tyler's _Holding out for a hero_. Coincidentally, the actual Bonnie Tyler was giving a concert in Poland the next day, Sunday Feb 4.
 * MxM grabbed the win by Mason pinning Mansoor. However, Pawłowski was furious and ordered the match to continue.
 * Marius Al-Ani retained the belt by submission.
-* Legia Łysych (Marco hammers & [Olgierd](@/w/olgierd.md)) entered the ring, Hammers holding an electric shaver. They summoned Karyna, their valet to the ring. Previously in a segment on PTW Underground, they declared that she'd have to shave bald to remain in Legia Łysych. Karyna was nowhere to be seen.
-* Looking for someone else to shave, they started calling out people in the audience, then grabbed a hapless referee to the crowd's disappointment. Then, Marcin Najman appeared and entered the ring. They invited him to join their faction, as he's already bald, and has the nickname of El Testosteron. However, in order to join, he must start winning fights in MMA, a reference to his losing streak.
-* Najman referred to himself not as bald, but close cut and decked them with punches. Announced his upcoming fight against Murański.
+* Legia Łysych (Marco hammers & [Olgierd](@/w/olgierd.md)) entered the ring, Hammers holding an electric shaver. They summoned Karyna, their valet to the ring. Previously in a segment on PTW Underground, they declared that she'd have to shave bald to remain in Legia Łysych. Karyna was nowhere to be seen. \
+  Looking for someone else to shave, they started calling out people in the audience, then grabbed a hapless referee to the crowd's disappointment. Then, Marcin Najman appeared and entered the ring. Excited, Legia invited him to join the faction, as he's already bald, and is known by _El Testosteron_. However, in order to join, he must start winning fights in MMA, a reference to his losing streak. \
+  Najman took offense to this, referred to himself not as bald, but close cut and decked them with punches. Announced his upcoming fight against Murański at Clout MMA 4 on March 9.
 * Pawłowski explained the Gold Rush Rumble rules: typical over-the-top rope elimination, but the final four can only eliminate  by pinfall or submission.
 * After the rumble, Puncher cut a promo, to be interrupted by Babatunde, an ex-WWE wrestler of Polish origin, now as Babathunder. Pawłowski announced him as signed to PTW.
-* Pawłowski invited his fiancee Karolina, to do a proposal segment. Before he gets his chance to bend the knee, Longman interrupted him.
+* Pawłowski invited his fiancee Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
 * The screen showed a scene where Bad Bones, Rzeżniczak and Longman conspired against their partner Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, and lifted Pawłowski into an F5.
 
 
@@ -92,7 +92,7 @@ Ring Announcer: Arkadiusz Pawłowski
 9. Max Speed
 10. Michał "Mutant" Świątkowski
 11. Mutant eliminates Max Speed
-12. Karol "[Iskra](@/w/iskra.md)" Górski fails to enter ring after getting beaten by Hamers and Max
+12. Karol "[Iskra](@/w/iskra.md)" Górski fails to enter ring after getting beaten by Hammers and Max Speed
 13. Wiktor Longman
 14. Longman eliminates Diana
 15. Longman eliminates Mutant
@@ -124,12 +124,12 @@ Ring Announcer: Arkadiusz Pawłowski
 41. Nano Lopez appears with a bound Sinister, forces Krampus to exit the fight
 42. Arczi Czajka
 43. Puncher eliminates Arczi Czajka
-44. With the final four now in the ring, it's now a Fatal Four-Way match.
+44. With the final four now in the ring, the Rumble became a Fatal Four-Way match.
 45. James Storm eliminates Spartan
 46. Axel Fox eliminates James Storm
 47. Puncher pins Axel Fox to win
 
-Mutant was last seen in PTW on their very first event in 2021.
+Mutant was last seen in PTW on their [very first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in 2021.
 Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character who made his debut at the first event, then showed on first two Underground events and disappeared.
 
 ### References
