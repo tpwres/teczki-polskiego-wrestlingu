@@ -24,7 +24,7 @@ Ring announcer: Arkadiusz Pawłowski
 
 * [Bianca](@/w/bianca.md) was the special referee for the main event, and featured on the show poster in a ref's attire. Previously she refereed Kawaler vs [Robert Star](@/w/robert-star.md) at [Arena 3](@/e/kpw/2016-06-11-kpw-arena-3.md).
 * Eaver initially won by pinfall, but [Bianca](@/w/bianca.md) later reversed the decision and restarted the match as Kawaler was seen grabbing the ropes
-* In the post-match brawl, Kawaleria attacked Bianca, and tried to powerbomb her into Eaver's crotch. Kawaler himself landed a flying elbow on it later.
+* In the post-match brawl, Kawaleria attacked [Bianca](@/w/bianca.md), and tried to powerbomb her into Eaver's crotch. Kawaler himself landed a flying elbow on it later.
 * The beaten up Eaver left the ring to chants of "Believe!"
 
 ### References

@@ -39,7 +39,8 @@ Ring announcer: Arkadiusz Pawłowski
 
 * [Rosetti](@/w/rosetti.md) distracts Jordan, and [Sawicki](@/w/sawicki.md) low blows him from behind
 * Kawaler enters the ring with his entire stable Kawaleria (_Cavalry_) dressed in dark robes and holding flaming torches.
-* After Kamil Aleksander scores the second pin to even the score, Kawaleria tries to interfere, but [Kaszub](@/w/kaszub.md) and Robert Star come into the ring area and start fighting. Then Rosetti and Sawicki arrive and attack them. The rest of the locker room follows, and a huge brawl breaks out. Referee unsuccessfully tries to throw them out, later threatening to stop the match, aand to disqualify Kawaler.
+* After [Kamil Aleksander](@/w/kamil-aleksander.md) scored the second pin to even the score, Kawaleria tried to interfere, but [Kaszub](@/w/kaszub.md) and [Robert Star](@/w/robert-star.md) came into the ring and stopped them.
+* Then [Rosetti](@/w/rosetti.md) and [Sawicki](@/w/sawicki.md) arrived to even the odds. The rest of the locker room followed, and a huge brawl broke out. Referee unsuccessfully tried to throw them out, later threatening to stop the match, and to disqualify Kawaler.
 
 ### References
 

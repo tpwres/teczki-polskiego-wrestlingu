@@ -33,13 +33,13 @@ The event was held on the same day as a footbal match between Arka Gdynia and GÃ
 
 #### Recap
 
-* Two self-proclaimed rock stars face each other in the ring. [Rosetti](@/w/rosetti.md) bosses Robert Star around, to his annoyance. Finally he earns a slap to the face, to great applause.
+* Two self-proclaimed rock stars face each other in the ring. [Rosetti](@/w/rosetti.md) bosses [Robert Star](@/w/robert-star.md) around, to his annoyance. Finally he earns a slap to the face, to great applause.
 * Oliwa was unable to lift his heavy-set opponent, and used a frog splash to finish.
 * Kawaler wanted to punish Bravo, who betrayed Kawaleria at Arena X. The fight spilled outside the ring, and even to the toilets. Both climbed to the balcony for a dangerous moment. [Alisa](@/w/alisa.md) intervened against Kawaler to protect Bravo. When the fight returned to the ring, chairs and dustbins were used. Kawaler hit Bravo with a nasty chair to the head to win.
 * [Greg](@/w/greg.md) applied his signature painful nipple twist to Archer, only to receive one in response. Later feigned an injury, and when Archer offfered to help, Greg kicked and rolled him down for the count.
 * Initially everyone tried to eliminate [Moloch](@/w/moloch.md), but he tossed them around effortlessly. The massive Moloch and Korpo chokeslam everyone left and right.
 * Ostrowski's now real-life wife [Mira](@/w/mira.md) intervened against Korpo, to be unceremoniously tossed outside the ring.
-* Kakareko eliminates Rosetti with a Spanish Fly into a pin.
+* Kakareko eliminates [Rosetti](@/w/rosetti.md) with a Spanish Fly into a pin.
 * Sixt initially dominated [Bianca](@/w/bianca.md) with pure strength and various holds.
 * LaRuffa refused to shake hands with Corvus, then methodically wore him down. Finally Corvus retained the belt with a piledriver.
 * In the post-event scramble, ladder match winner Pannache got kicked down by Kawaleria. Kawaler wanted to steal his contract and cash the title shot on Corvus, to no avail. Kawaleria, along with the angry Kawaler attacked Corvus, who got rescued by Sojusz. LaRuffa also returns to help, superkicking Kawaler.

@@ -42,11 +42,11 @@ Ring announcer: Arkadiusz Pawłowski
 
 * [Rosetti](@/w/rosetti.md) and [Sawicki](@/w/sawicki.md) used their tried and true strategy of attacking one of their opponents before the gong for a quick win.
 * [Greg](@/w/greg.md) introduced [Chemik](@/w/chemik.md), previously in the role of Kawaleria's butler, as their newest member. After losing the bout, Chemik briefly considers leaving the faction, and is beaten by his tag team partner as punishment for losing.
-* Moloch lost his focus after Kawaler attacked his two valets. The winners stayed at ringside to celebrate with booze.
+* [Moloch](@/w/moloch.md) lost his focus after Kawaler attacked his two valets. The winners stayed at ringside to celebrate with booze.
 * The British pair pressured Pawłowski to announce them in English. After the break, they would immediately fight again in the semi finals.
 * Taylor and Rogers had to resort to heel tactics against their opponents, who however still won with their speed and coordination. Despite that, the Brits received applause, having won the support of fans.
-* The second semifinal between two of Kawaleria's tag teams did not even start - Kawaler got disqualified for being under the influence. Sawicki and Rosetti receive a pass into the final, and Kawaleria punishes the referee.
-* Just before the end, [Peter Pannache](@/w/peter-pannache.md) appeared with his contract that he won in the Magnificent Seven match last time, and announced that he wants to challenge KPW Champion Ron Corvus on the next event.
+* The second semifinal between two of Kawaleria's tag teams did not even start - Kawaler got disqualified for being under the influence. [Sawicki](@/w/sawicki.md) and [Rosetti](@/w/rosetti.md) receive a pass into the final, and Kawaleria punishes the referee.
+* Just before the end, [Peter Pannache](@/w/peter-pannache.md) appeared with his contract that he won in the Magnificent Seven match last time, and announced that he wants to challenge KPW Champion [Ron Corvus](@/w/ron-corvus.md) on the next event.
 
 ### References
 

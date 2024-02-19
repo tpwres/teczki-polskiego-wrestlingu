@@ -31,12 +31,12 @@ Attendance: estimated 400
 * The first match was slated to have three tag teams face each other. [Rosetti](@/w/rosetti.md)'s partner
   [Sawicki](@/w/sawicki.md) was unable to compete, so the cocky heel entered the fight solo, but with
   [Kaszub](@/w/kaszub.md) and [Alisa](@/w/alisa.md) at ringside. Lots of aerial action.
-* Before the women's match, Kawaler cut his usual promo deriding the audience. Alisa gave
+* Before the women's match, Kawaler cut his usual promo deriding the audience. [Alisa](@/w/alisa.md) gave
   [Bianca](@/w/bianca.md) a tough fight.
 * Korpo faced Corvus in a rematch from Godzina Zero 2016. In his promo, he ridiculed
   Corvus for growing a beer belly instead of preparing for their fight.
-* [Greg](@/w/greg.md) and Kaszub initially jumped at each other's throats, but once the gong hit, they reenacted the Fingerpoke of Doom match. Kawaleria entered the ring to celebrate.
-* Pawłowski announced the result, then disappeared backstage. Shortly after, reappered and announced a new opponent for Greg.
+* [Greg](@/w/greg.md) and [Kaszub](@/w/kaszub.md) initially jumped at each other's throats, but once the gong hit, they reenacted the Fingerpoke of Doom match. Kawaleria entered the ring to celebrate.
+* Pawłowski announced the result, then disappeared backstage. Shortly after, reappered and announced a new opponent for [Greg](@/w/greg.md).
 * Oliwa and Greg fight with light tubes, chairs, ladders, Lego bricks and a keyboard. Plenty of blood from both. [Ron Corvus](@/w/ron-corvus.md) intervened to remind Greg he's coming for his championship.
 * Once the bell rang, Kawaleria attacked the bleeding Dawid, which included putting a ball gag on him. The faces, who now form a faction called Sojusz (_Alliance_) intervene. Kawaler and Greg tried to attack [Mira](@/w/mira.md) with a taser, but were stopped by [Robert Star](@/w/robert-star.md).
 * This would be Kaszub's last appearance for KPW.

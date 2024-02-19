@@ -18,7 +18,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 #### Build-up
 
 * Kawaler challenged [Robert Star](@/w/robert-star.md) for his title and career. According to him, Robert was ungrateful, after Kawaleria helped him win the title belt, he refused to hand it over to Kawaler.
-* Sixt wants to avenge her defeat and restore honor, as a proud Swedish shieldmaiden. This time, she'd have to contend not just with Bianca, but with [Alisa](@/w/alisa.md) and the debuting Diana as well.
+* Sixt wants to avenge her defeat and restore honor, as a proud Swedish shieldmaiden. This time, she'd have to contend not just with [Bianca](@/w/bianca.md), but with [Alisa](@/w/alisa.md) and the debuting [Diana](@/w/diana-strong.md) as well.
 * [Kamil Aleksander](@/w/kamil-aleksander.md) was kept in the dark on the identity of his opponent. So were the fans. Only in a [promo](https://www.youtube.com/watch?v=A2EgpkNPn04) released two weeks before the event did they learn his face, but not his name.
 * Ostrowski has now completely turned heel, after his attacks on former partner [Dawid Oliwa](@/w/dawid-oliwa.md). He would now wear different gear and ditch his old disco theme.
 
@@ -47,10 +47,10 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 
 #### Aftermath
 
-* This was Moloch's last match in KPW, although he was booked for the following event.
-* When Kawaler's music hit, Greg instead walked out, and spoke in Latin: "Annuntio vobis gaudium magnum; habemus Papam" (_I announce to you with great joy: we have a Pope_). This is the traditional announcement used when the Papal Conclave has successfully selected a new Pope. Then he continued with "Sanctae Romanae Ecclesiae Cardinalem: Kawaler" and left the ring.
-* Kawaler appeared on a balcony like a priest before the pulpit, wearing long hooded robes and delivered a sermon deriding Robert Star and announcing the end of his (Robert's) career.
-* After the main event, Kawaler offered his hand to Robert, who reluctantly accepted the handshake. Kawaler then lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. Wrestlers present at ringside: Bianca, Reinbakh, Dawid Oliwa and Kamil Aleksander intervened, punishing Kawaler and delivering their signature moves to him. They struck a victory pose with Kawaler literally under Robert's heel.
+* This was [Moloch](@/w/moloch.md)'s last match in KPW, although he was booked for the following event.
+* When Kawaler's music hit, [Greg](@/w/greg.md) instead walked out, and spoke in Latin: "Annuntio vobis gaudium magnum; habemus Papam" (_I announce to you with great joy: we have a Pope_). This is the traditional announcement used when the Papal Conclave has successfully selected a new Pope. Then he continued with "Sanctae Romanae Ecclesiae Cardinalem: Kawaler" and left the ring.
+* Kawaler appeared on a balcony like a priest before the pulpit, wearing long hooded robes and delivered a sermon deriding [Robert Star](@/w/robert-star.md) and announcing the end of his (Robert's) career.
+* After the main event, Kawaler offered his hand to Robert, who reluctantly accepted the handshake. Kawaler then lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. Wrestlers present at ringside: Bianca, Reinbakh, [Dawid Oliwa](@/w/dawid-oliwa.md) and [Kamil Aleksander](@/w/kamil-aleksander.md) intervened, punishing Kawaler and delivering their signature moves to him. They struck a victory pose with Kawaler literally under Robert's heel.
 * Behind their backs, Greg entered the ring and appeared to help Kawaler. However, to everyone's surpise, instead of helping him off the ring, he landed a surprise attack, betraying his former leader.
 * When the announcer was closing the show, she was interrupted by some coughing. This turned out to be [Chemik](@/w/chemik.md), standing on the same balcony that Kawaler delivered his speech from. He repeated the _Annuntio vobis_ phrase, this time naming Greg as the bishop of Rome. Greg entered the pulpit, to Ghost BC's Year Zero. Announced himself as the new pope of Polish wrestling, under the name _Pijus I Greg_ (pijus being a pun on both Pius, a name of many Popes, but also a somewhat archaic Polish word for _drunkard_).
 

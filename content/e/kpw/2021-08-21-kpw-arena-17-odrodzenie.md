@@ -12,7 +12,7 @@ Because the annual supershow Godzina Zero was not held this year, and because th
 Foreign guests this time were the returning Crowchester (previously seen at [KPW OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md)), Slovakian wrestler Ricky Sky, and Austrian veteran wrestler and trainer Michael Kovac, plus the already familiar [Fynn Freyhart](@/w/fynn-freyhart.md). For Kovac, this was a return to Poland after over a decade: in 2009 he wrestled El Generico at [DDW#3](@/e/ddw/2009-10-24-ddw-3.md).
 There were also three debuts: we saw KPW's new high flying masked luchador Zefir, and the tag team of Filip and Michał Fux.
 
-Originally [Chemik](@/w/chemik.md) was to face Fynn Freyhart. A Facebook post announced that he's unable to compete due to injury, and two days later Ricky Sky was announced to take his place.
+Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart.md). A Facebook post announced that he's unable to compete due to injury, and two days later Ricky Sky was announced to take his place.
 
 {% card() %}
 - ['[Rosetti](@/w/rosetti.md)', Zefir]
@@ -25,7 +25,7 @@ Originally [Chemik](@/w/chemik.md) was to face Fynn Freyhart. A Facebook post an
 
 #### Recap and aftermath
 
-* Chemik made a vow that until he wins three fights, he's not going to touch a woman, insulting ring announcer Kinga and the audience in the process.
+* [Chemik](@/w/chemik.md) made a vow that until he wins three fights, he's not going to touch a woman, insulting ring announcer Kinga and the audience in the process.
 
 ### References
 

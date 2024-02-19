@@ -33,10 +33,10 @@ Ring announcer: Arkadiusz Pawłowski
 
 ### Recap
 
-* Gracjan lost after Moloch appeared at ringside. The two were supposed to be tag team partners at Arena 11, and are now feuding.
+* Gracjan lost after [Moloch](@/w/moloch.md) appeared at ringside. The two were supposed to be tag team partners at Arena 11, and are now feuding.
 * After Dawid's match, current champion [Greg](@/w/greg.md) appeared, followed later by Ostrowski, Oliwa's former partner. Heated words and punches were exchanged.
 * [Bianca](@/w/bianca.md) announced the vote count for the new Chairman: Kawaler and Malinowski with 26 votes each. Her vote was now deciding, and she cast it for Malinowski.
-* Sawicki bled visibly during the tag team match.
+* [Sawicki](@/w/sawicki.md) bled visibly during the tag team match.
 * Robert is still wearing Kawaleria's facepaint.
 * After Robert won the belt, Kawaler, still in his Chairman Candidate suit, appeared and requested Robert to hand over the belt, attacking and mock-pinning him. Robert
   retaliated with a Rockstar Hangover.

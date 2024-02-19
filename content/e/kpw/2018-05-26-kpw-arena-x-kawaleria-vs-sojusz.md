@@ -13,7 +13,7 @@ venue = "gdynia-arena"
 * Initially, Robert hesitated to join, but after the post-event brawl at [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md), when he
   defended [Mira](@/w/mira.md) from being attacked with a taser by Kawaleria, everyone of the faces joined.
 * Robert became #1 Contender for the KPW Championship at Arena 9, when [Greg](@/w/greg.md) lost by DQ. On this event, he would face the undefeated Kawaler for the championship.
-* [Ron Corvus](@/w/ron-corvus.md) won the Magnificent Seven Match at the previous year's [Godzina Zero](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), for a shot at any of the championships. At Arena 9, Corvus reminded Greg that he's coming for his title.
+* [Ron Corvus](@/w/ron-corvus.md) won the Magnificent Seven Match at the previous year's [Godzina Zero](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), for a shot at any of the championships. At Arena 9, Corvus reminded [Greg](@/w/greg.md) that he's coming for his title.
 * On Facebook, Kawaler announced that [Kaszub](@/w/kaszub.md) is discharged from his faction. He would never again appear for KPW, likely retiring from wrestling altogether.
 
 {% card() %}
@@ -41,14 +41,14 @@ Ring announcer: Arkadiusz Pawłowski
 - Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kowalski.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
 - Greg "christened" members of the Kawaleria stable by spitting watter on them. This would later become part of his character.
 - [Kamil Aleksander](@/w/kamil-aleksander.md)'s mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
-- Zasada was eliminated first, then Kamil Aleksander. With the balance now favouring Team Greg, [Adam Bravo](@/w/adam-bravo.md) pulls out a betrayal by laying down for a pin, showing his middle fingers to Kawaleria.
+- Zasada was eliminated first, then [Kamil Aleksander](@/w/kamil-aleksander.md). With the balance now favouring Team Greg, [Adam Bravo](@/w/adam-bravo.md) pulls out a betrayal by laying down for a pin, showing his middle fingers to Kawaleria.
 - Pannache eliminated [Rosetti](@/w/rosetti.md), but ultimately Dawid had to face Greg and [Sawicki](@/w/sawicki.md) alone.
 - Kawaler delays the match with a very long entry in his new gear, preceded by a body double decoy in his previous attire. Greg would copy this later.
 - [Bianca](@/w/bianca.md) interrupted the opening gong with her music. Grabbed the mic to present a counter to Kawaler's blackmail photos: some of her own, depicting his private parties. These showed him and Greg, in a naughty position, both wearing skirts. Audience giggled at the fuming, embarassed heels. Bianca forced both to swear an oath to never again try blackmailing her.
 - Lumberjacks ensured that Kawaler cannot flee the ring easily, as is his tactic. Same for Robert, who is also roughed up each time. Random group brawls ensued.
 - Ref bump by Kawaler denies Robert a win by submission. Later, Kawaler hits a chairshot, but ref is unable to count past two.
-- Kawaler invites his butler [Chemik](@/w/chemik.md) to start pouring out vodka, but Ron Corvus interrupts.
-- In the scramble, Moloch briefly fought [Gracjan Korpo](@/w/gracjan-korpo.md). They would have a proper fight on the next event.
+- Kawaler invites his butler [Chemik](@/w/chemik.md) to start pouring out vodka, but [Ron Corvus](@/w/ron-corvus.md) interrupts.
+- In the scramble, [Moloch](@/w/moloch.md) briefly fought [Gracjan Korpo](@/w/gracjan-korpo.md). They would have a proper fight on the next event.
 - Corvus cleared the ring by piledriving members of Kawaleria one at a time. Kawaler is dragged into the ring by force. One powerbomb through a table later, we have a new KPW Champion, ending Kawaler's reign.
 
 ### References

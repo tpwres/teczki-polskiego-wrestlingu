@@ -39,13 +39,13 @@ Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
-* An early pin attempt by Kaszub is miscounted to three. The bell rang, but the fight went on regardless, and the ref soon restarted the match.
-* Alisa, who now joined the Kawaleria faction, enters with a baseball bat and attacks Mira mid-dance. The fight was declared a no-contest after a referee bump.
+* An early pin attempt by [Kaszub](@/w/kaszub.md) is miscounted to three. The bell rang, but the fight went on regardless, and the ref soon restarted the match.
+* [Alisa](@/w/alisa.md), who now joined the Kawaleria faction, enters with a baseball bat and attacks [Mira](@/w/mira.md) mid-dance. The fight was declared a no-contest after a referee bump.
 * Kamil and Mika respectfully fold the Polish flag before the match.
 * Korpo faced Zasada, who dropkicked and challenged him at the previous Arena show. We got a one-sided match where the underdog face got a lot of audience support.
-* Kaszub interferes in Greg vs Fynn, to distract the referee from counting the pinned Greg. After the match, Fynn cuts a promo in English, and suddenly switches to Polish, to the crowd's stunned reactions.
+* Kaszub interferes in [Greg](@/w/greg.md) vs Fynn, to distract the referee from counting the pinned Greg. After the match, Fynn cuts a promo in English, and suddenly switches to Polish, to the crowd's stunned reactions.
 * Joey Ozbourne enters and antagonizes the crowd perfectly. Robert enters with some sort of military entourage. A chair appeared, and the referee did nothing to stop it, which led to Robert landing on some thumbtacks.
-* The Magnificent Seven match was supposed to have seven participants, but Gracjan Korpo added himself unceremoniously. The stipulation was basically same as Money In The Bank. Lots of great TLC action.
+* The Magnificent Seven match was supposed to have seven participants, but [Gracjan Korpo](@/w/gracjan-korpo.md) added himself unceremoniously. The stipulation was basically same as Money In The Bank. Lots of great TLC action.
 * The womens match got the most difficult slot to fill, and mostly did not deliver.
 * Boar had to fight not only Kawaler, but the whole faction as well, and later took a drop in the crotch by Alisa.
 

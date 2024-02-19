@@ -38,7 +38,7 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
 * [Rosetti](@/w/rosetti.md) issued an open challenge, which was accepted by Anton Green
 * Chairman Krystian Malinowski appeared, reinstated Robert and added him to the main event.
 * Like on previous editions of SzlamFest, there was one hardcore match. This time it was Dawid and [Greg](@/w/greg.md) who used chains, kendo sticks, chairs, ladders and lighting tubes on each other.
-* Piękny Kawaler was also reinstated to the roster after defeating Haskins, and completing two other tasks that the Chairman gave him previously in recorded vignettes.
+* [Piękny Kawaler](@/w/piekny-kawaler.md) was also reinstated to the roster after defeating Haskins, and completing two other tasks that the Chairman gave him previously in recorded vignettes.
 
 ### References
 

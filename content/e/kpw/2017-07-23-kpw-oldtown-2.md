@@ -33,7 +33,7 @@ KPW would return to following editions of OldTown until 2019.
 - Aside from that, there was a three-way fight scheduled between [Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md) and [Piękny Kawaler](@/w/piekny-kawaler.md); plus the hardcore match between [Kaszub](@/w/kaszub.md) and Corvus
 - The final two participants of the opening rumble face each other for the KPW OldTown championship in the main event
 - Kawaler appears, declares he's had enough of OldTown and will not take part, only to soon change his mind
-- Corvus powerbombed Kaszub into a table stacked with lighting tubes to win
+- Corvus powerbombed [Kaszub](@/w/kaszub.md) into a table stacked with lighting tubes to win
 
 ### References
 

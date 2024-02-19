@@ -32,7 +32,7 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
 
 #### Recap and aftermath
 
-* Rosetti no-showed Lesak, who announced that he will now face the brothers alone.
+* [Rosetti](@/w/rosetti.md) no-showed Lesak, who announced that he will now face the brothers alone.
 * After taking a frog splash and escaping a pin, Lesak left the ring, flipping the bird at his opponents and the ref, which led to a count-out.
 * [Chemik](@/w/chemik.md) entered carrying a wooden cross to the ring, and referenced the vows he made at the previous event. During the fight, Rosetti appeared, unaware that he missed his scheduled appeareance, which distracted the ref enough for Chemik to perform a backstabber and Last Rites to grab his first win.
 
