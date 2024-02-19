@@ -31,7 +31,7 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 * Before the show, PTW announced that [Sinister](@/w/sinister.md) is going to "baptize" his new ally/underling [Syriusz Dziedzic](@/w/dziedzic.md). For this segment, the ring was decorated with white balloons, like for a typical baptism party, and a table with a bucket standing on it was placed in the middle. In contrast to the white balloons, both the tablecloth and bucket were black.
 * [Sinister](@/w/sinister.md) cut a promo, proclaiming to rid [Syriusz Dziedzic](@/w/dziedzic.md) of his "old, defiled name". Announced that "there is no Syriusz [Dziedzic](@/w/dziedzic.md) anymore, there's only Dziedzic", confirming a name change for the latter.
 * With his snake-headed cane, Sinister gestured the sign of the cross, and poked Dziedzic's head. This resulted in Dziedzic spitting an unknown black liquid, presumably because of some supernatural activity. Next, Sinister forcibly put Dziedzic's head into the bucket, pulling it out barely in time to stop him from drowning. [Marcelito](@/w/marcelito.md) and [Samson](@/w/samson.md) interfered, chasing the others outside the ring.
-* [Max Speed](@/w/max-speed.md) lost due to an intervention by [[Rafi](@/w/rafi.md) Rarytas](@/w/rafi.md).
+* [Max Speed](@/w/max-speed.md) lost due to an intervention by [Rafi Rarytas](@/w/rafi.md).
 
 ### References
 
