@@ -12,15 +12,15 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 
 {% card() %}
 - [Jonny Storm, '[Axel Fox](@/w/axel-fox.md)']
-- ["Marco Hammers; Karyna", "[Boro](@/w/boro.md)"]
-- [Syriusz Dziedzic, Marcelito]
+- ["[Marco Hammers](@/w/marco-hammers.md); Karyna", "[Boro](@/w/boro.md)"]
+- ['[Syriusz Dziedzic](@/w/dziedzic.md)', '[Marcelito](@/w/marcelito.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', '[Vic Golden](@/w/vic-golden.md)']
-- ["Krampus; Sinister; Syriusz Dziedzic", '[Samson](@/w/samson.md)']
+- ["Krampus; [Sinister](@/w/sinister.md); [Syriusz Dziedzic](@/w/dziedzic.md)", '[Samson](@/w/samson.md)']
 - ['"Starboy" Nano Lopez', "[Olgierd](@/w/olgierd.md); Karyna"]
-- [Puncher, {g: true, s: Burning manga}]
-- [Puncher, '[Sam Rogers](@/w/sam-rogers.md)']
-- ["Budapest Bastards: Renegade, Nitro", "PAKA: Disco Pablo, Taras(c)", {c: "PTW Tag
-      Team Championnship", nc: No Contest}]
+- ['[Puncher](@/w/puncher.md)', {g: true, s: Burning manga}]
+- ['[Puncher](@/w/puncher.md)', '[Sam Rogers](@/w/sam-rogers.md)']
+- ["Budapest Bastards: Renegade, Nitro", "PAKA: [Disco Pablo](@/w/disco-pablo.md),
+    [Taras](@/w/taras.md)(c)", {c: "PTW Tag Team Championnship", nc: No Contest}]
 {% end %}
 
 Ring announcer: Arkadiusz Pawłowski \
@@ -28,14 +28,14 @@ Post-match inteview segments: Tobiasz "Skyver" Korzybski \
 
 #### Recap
 
-* Syriusz Dziedzic was previously kidnapped and held captive by Sinister. In this return, he became Sinister's ally, with a new look, theme song and a more aggressive moveset.
-* In a post-match interview, Sinister answered all questions on behalf of Dziedzic, without allowing him to speak. Sinister announced that the next [Underground show](@/e/2023-07-30-ptw-underground-16.md) is when Dziedzic's baptism is going to be held.
+* [Syriusz Dziedzic](@/w/dziedzic.md) was previously kidnapped and held captive by [Sinister](@/w/sinister.md). In this return, he became Sinister's ally, with a new look, theme song and a more aggressive moveset.
+* In a post-match interview, [Sinister](@/w/sinister.md) answered all questions on behalf of [Dziedzic](@/w/dziedzic.md), without allowing him to speak. Sinister announced that the next [Underground show](@/e/2023-07-30-ptw-underground-16.md) is when Dziedzic's baptism is going to be held.
 * [Vic Golden](@/w/vic-golden.md) came alone, without the support of [Gabriel Queen](@/w/gabriel-queen.md).
-* [Karol "Iskra" Górski](@/w/iskra.md) came out to challenge [Diana](@/w/diana-strong.md) to a match on the next Underground show.
-* After [Samson](@/w/samson.md)'s match, he was attacked by Sinister and his allies. Marcelito tried to make a save, but got beaten down as well. Lights went out, Nano Lopez entered with a steel chair and successfully makes a save.
-* Puncher came out to insult manga fans and culture, and tried burning manga books in a bucket full of gasoline. Some of the gasoline spilled out and burned the ring, a crewmember extinguished the fire.
-* Wiktor Longman interrupted Pan Pawłowski. He confirmed cutting ties with John "Bad Bones" Klinger, and proclaimed loyalty to Pawłowski. This storyline saw its conclusion months later at [PTW#5 Gold Rush](@/e/2024-02-03-ptw-5-gold-rush.md).
-* The tag team championship defense was a no-contest due to an intervention by Legia Łysych ([Olgierd](@/w/olgierd.md) & Marco Hammers) with Vic Golden. The champions retained. Both teams chased off the heels. Show ended with babyfaces standing tall.
+* [Karol "[Iskra](@/w/iskra.md)" Górski](@/w/iskra.md) came out to challenge [Diana](@/w/diana-strong.md) to a match on the next Underground show.
+* After [Samson](@/w/samson.md)'s match, he was attacked by Sinister and his allies. [Marcelito](@/w/marcelito.md) tried to make a save, but got beaten down as well. Lights went out, [Nano Lopez](@/w/nano-lopez.md) entered with a steel chair and successfully makes a save.
+* [Puncher](@/w/puncher.md) came out to insult manga fans and culture, and tried burning manga books in a bucket full of gasoline. Some of the gasoline spilled out and burned the ring, a crewmember extinguished the fire.
+* [Wiktor Longman](@/w/wiktor-longman.md) interrupted Pan Pawłowski. He confirmed cutting ties with John "Bad Bones" Klinger, and proclaimed loyalty to Pawłowski. This storyline saw its conclusion months later at [PTW#5 Gold Rush](@/e/2024-02-03-ptw-5-gold-rush.md).
+* The tag team championship defense was a no-contest due to an intervention by Legia Łysych ([Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)) with [Vic Golden](@/w/vic-golden.md). The champions retained. Both teams chased off the heels. Show ended with babyfaces standing tall.
 
 #### One-time entrance themes
 
@@ -48,5 +48,5 @@ Post-match inteview segments: Tobiasz "Skyver" Korzybski \
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365969)
 * [Full event on YouTube](https://www.youtube.com/watch?v=jOr7PhKb7xY&t=6971s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-ryucon/2pddh/), requires paid subscription
-* [Sinister's singing Radiohead's "Creep"](https://www.youtube.com/watch?v=WU5OTqZDUtY&pp=ygUOc2luaXN0ZXIgY3JlZXA%3D%22%3E) to captive Syriusz Dziedzic
+* [Sinister's singing Radiohead's "Creep"](https://www.youtube.com/watch?v=WU5OTqZDUtY&pp=ygUOc2luaXN0ZXIgY3JlZXA%3D%22%3E) to captive [Syriusz Dziedzic](@/w/dziedzic.md)
 * [Puncher's burning manga segment](https://www.youtube.com/watch?v=VZT7COlYlkI)
