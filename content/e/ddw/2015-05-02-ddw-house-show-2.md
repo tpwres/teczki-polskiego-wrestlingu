@@ -6,7 +6,7 @@ venue = "gimnazjum-8-gdansk"
 +++
 
 This was ultimately the last show held under the DDW banner. After moving to Gdańsk, the local team started to run things without the owner's input.
-Disappointed by the poor performance of DDW#9, and the need to travel the entire country to run the school and shows now in Gdańsk, Don Roid would soon close down DDW, selling the ring to a new organization which took over the entire roster. That organization would reveal itself later in October that year as [KPW](@/o/kpw.md).
+Disappointed by the poor performance of DDW#9, and the need to travel the entire country to run the school and shows now in Gdańsk, [Don Roid](@/w/don-roid.md) would soon close down DDW, selling the ring to a new organization which took over the entire roster. That organization would reveal itself later in October that year as [KPW](@/o/kpw.md).
 
 {% card() %}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Boski Ostrowski](@/w/ostrowski.md)']

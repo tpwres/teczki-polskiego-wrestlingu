@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "pod-palma"
 +++
 
-All Or Nothing II was held in DDW's usual venue, klub Pod Palmą on August 17 2014. The event was built around a tournament for the vacant DDW International Championship of which Kamil Aleksander was the previous holder. DDW also held a [smaller show](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) the previous day, featuring their trainees.
+All Or Nothing II was held in DDW's usual venue, klub Pod Palmą on August 17 2014. The event was built around a tournament for the vacant DDW International Championship of which [Kamil Aleksander](@/w/kamil-aleksander.md) was the previous holder. DDW also held a [smaller show](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) the previous day, featuring their trainees.
 
 Another big, literally, feature of the event was inviting The Polish Giant, an upcoming wrestler of Polish origins and extra large stature (210cm tall, weighing 140kg), who trained in the UK for several years, and did tryouts with both WWE and TNA at the time.
 
@@ -36,7 +36,7 @@ Attendance: about 120
 
 * The Polish Giant turned out to be poorly trained and dangerous in the ring, and
   might have exaggerated his pro wrestling resume
-* Don Roid claims that the Giant was unprofessional and a diva, and clashed with him about money
+* [Don Roid](@/w/don-roid.md) claimed that the Giant was unprofessional and a diva, and clashed with him about money
 * The Attitude Forum later interviewed Giant, who declared he's done wrestling, and had sour words about the Polish wrestling scene.
 * Fans enjoyed the other matches, and criticised the Giant
 

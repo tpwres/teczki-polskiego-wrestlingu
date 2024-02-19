@@ -8,7 +8,7 @@ venue = "karuzela"
 Open House was the first event held by the newly created DDW. It was not the first one they planned to hold, however. That event was supposed to take place in Stodoła in Warsaw, a primarily music venue with a capacity up to 2500 attendants. However, due to high ticket prices, and trouble attracting sponsors, that event was cancelled, and
 held in the much smaller Karuzela club.
 
-Reportedly, Don Roid, the owner of DDW preferred Stodoła because the atmosphere reminded him of the [ECW Arena][ecw-arena] in Philadelphia, and it was at his wife's behest that the location was changed to Karuzela.
+Reportedly, [Don Roid](@/w/don-roid.md), the owner of DDW preferred Stodoła because the atmosphere reminded him of the [ECW Arena][ecw-arena] in Philadelphia, and it was at his wife's behest that the location was changed to Karuzela.
 
 The event featured a single, 30 minute long match, and was mostly aimed at promoting their wrestling school. The match was hailed as "the first wrestling bout in Poland since 16 years", referring to the single event in 1993.
 

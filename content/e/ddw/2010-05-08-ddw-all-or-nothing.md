@@ -20,7 +20,7 @@ venue = "karuzela"
   - {s: "Ten Man Gauntlet Match", c: "DDW International Championship"}
 {% end %}
 
-The event was later released on DVD, in very limited numbers. Fans could purchase the disc by e-mailing Don Roid.
+The event was later released on DVD, in very limited numbers. Fans could purchase the disc by e-mailing [Don Roid](@/w/don-roid.md).
 
 ### References
 
