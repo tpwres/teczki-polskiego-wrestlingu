@@ -1,9 +1,9 @@
 
 {% set path = "data/roster_" ~ page.slug ~ ".json" -%}
 {% set roster = load_data(path=path, required=false) -%}
-{% if not roster %} 
-{% set roster = [] | group_by(attribute="none") %} 
-{% endif %} 
+{% if not roster %}
+{% set roster = [] | group_by(attribute="none") %}
+{% endif %}
 
 {% set_global rx = [] %}
 {% for name, count in roster %}

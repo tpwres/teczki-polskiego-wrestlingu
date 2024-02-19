@@ -7,6 +7,7 @@
 
 {% set_global all_talent = section.pages %}
 {% set alphabet = 'ABCDEFGHIJKLŁMNOPQRSŚTUVWXYZ' %}
+{% set flag_dict = load_data(path="const/flags-by-code.json") %}
 
 {# TODO: With aliases? Requires some precomputation. #}
 {# TODO: With people who don't have a page? What do we link to then? #}
@@ -24,6 +25,12 @@
     <ul>
       {% for talent in talents|sort(attribute='title') %}
         <li>
+          {% if talent.extra %}
+            {% set flag = talent.extra|get(key='country_flag', default='') %}
+            {% if flag %}
+              {{ flag_dict|get(key=flag|upper, default='') }}
+            {% endif %}
+          {% endif %}
           <a href="{{ get_url(path=talent.path) }}">{{ talent.title }}</a>
         </li>
       {% endfor %}
