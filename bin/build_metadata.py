@@ -62,6 +62,7 @@ def merge_aliases(career: dict[str, CareerYears]):
     all_names = load_names_with_aliases()
     for main_name, aliases in all_names.items():
         for alias in aliases:
+            if alias not in career: continue
             c = career.pop(alias)
             career[main_name] = merge_years(career.get(main_name, {}), c)
 
