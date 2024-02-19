@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "bakara"
 +++
 
-Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumble is somewhat notable for featuring the debuts of several future MZW and PTW wrestlers: Amisz, later known as Axel Fox, Bartosz Borowski, later known as Ladykiller and Boro, Karol Górski (Iskra), Kuba Kamiński (Jacob Crane), Rafał Orszak (Rafael Kid). The event features new and returning German and Czech wrestlers, and the comeback of Justin Joy, absent since [MZW Beatdown](@/e/2016-05-14-mzw-beatdown.md) more than a year before.
+Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumble is somewhat notable for featuring the debuts of several future MZW and PTW wrestlers: [Amisz](@/w/axel-fox.md), later known as [Axel Fox](@/w/axel-fox.md), Bartosz [Boro](@/w/boro.md)wski, later known as Ladykiller and Boro, Karol Górski ([Iskra](@/w/iskra.md)), [Kuba Kamiński](@/w/jacob-crane.md) ([Jacob Crane](@/w/jacob-crane.md)), [Rafał Orszak](@/w/rafael-kid.md) ([Rafael Kid](@/w/rafael-kid.md)). The event features new and returning German and Czech wrestlers, and the comeback of [Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/2016-05-14-mzw-beatdown.md) more than a year before.
 
 {% card() %}
 - ["Skull Evil", "Christopher Anthony", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
@@ -31,7 +31,7 @@ Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumbl
       Championship"}]
 {% end %}
 
-Ring announcers: Tomasz Warchoł, Jędruś Bułecka
+Ring announcers: Tomasz Warchoł, [Jędruś Bułecka](@/w/jedrus-bulecka.md)
 
 ### References
 

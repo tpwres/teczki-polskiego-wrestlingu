@@ -21,13 +21,13 @@ venue = "czasoprzestrzen"
   - {c: "MZW Championship", s: "Tournament Final Four Way Match"}
 {% end %}
 
-* Lady Killer refused to enter the ring with Asmund
+* [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md)
 * Dobroniak wins by a Gentleman Jarvis-style sleeper hold on Axel, and a very quiet three count
-* Justin Joy vs Christopher Anthony was to be a singles match, but Justin invited Asmund to participate
+* [Justin Joy](@/w/justin-joy.md) vs Christopher Anthony was to be a singles match, but Justin invited Asmund to participate
 * Lady Killer unsuccessfuly intervened against Asmund
 * Buckna and Crane fought with kendo sticks, chairs, and outside the building
 * In the main event, all opponents arrive to the ring on a cruiser motorcycle.
-* While Shadow pins Crane, Rothschild puts an armbar on Kid, who taps immediately, before the pin finishes. However, referee does not see the tap out, and awards the win to Shadow. The angry Rothschild hits Shadow with a steel chair.
+* While [Shadow](@/w/shadow.md) pins Crane, Rothschild puts an armbar on Kid, who taps immediately, before the pin finishes. However, referee does not see the tap out, and awards the win to Shadow. The angry Rothschild hits Shadow with a steel chair.
 
 ### References
 

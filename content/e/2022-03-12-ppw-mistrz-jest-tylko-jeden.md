@@ -21,7 +21,7 @@ city = "Warszawa"
 
 #### Recap
 
-* Direk was supposed to compete in the opening match, but grabbed the mic and announced that his friend Royal Striker will replace him. The unfamiliar character enters to chants of "Who the fuck are you?".
+* Direk was supposed to compete in the opening match, but grabbed the mic and announced that his friend [Royal Striker](@/w/royal-striker.md) will replace him. The unfamiliar character enters to chants of "Who the fuck are you?".
 
 ### References
 
