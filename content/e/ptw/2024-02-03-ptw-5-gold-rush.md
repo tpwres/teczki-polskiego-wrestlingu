@@ -14,41 +14,41 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 #### Build-up to the event
 
 * PTW has been teasing the introduction of a singles championship belt for several months. The first champion is going to be crowned in a 20-man royal rumble at this event.
-* Dziedzic defeated Disco Pablo and Renegade on PTW Underground 20, with each wrestler's tag team partners present and involved in the match.
+* [Dziedzic](@/w/dziedzic.md) defeated [Disco Pablo](@/w/disco-pablo.md) and [Renegade](@/w/renegade.md) on PTW Underground 20, with each wrestler's tag team partners present and involved in the match.
 * The day before the event, PTW [posted on Facebook][sydal-facebook-video] that Matt Sydal will not be performing due to unforeseen circumstances. In a video attached to that post, Sydal explained that this was due to passport issues. A replacement of his or higher caliber was announced, to be revealed at the event.
 * The surprise, was however spoiled by Lince Dorado, who posted about a last-minute trip to Poland on his Instagram profile.
 
 {% card() %}
 - [Scotty Rawk, Speedball Mike Bailey, {c: "British Wrestling Revolution Championship"}]
 - ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels]
-- [Krampus, '"Starboy" Nano Lopez', {s: No DQ Match}]
+- ['[Krampus](@/w/krampus.md)', '"Starboy" Nano Lopez', {s: No DQ Match}]
 - [PJ Black, Lince Dorado]
-- - "Budapest Bastards: Renegade, Nitro"
-  - "PAKA: Taras, Disco Pablo"
-  - "Sinister Kingdom: Sinister, Dziedzic"
+- - "Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)"
+  - "PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
+  - "[Sinister](@/w/sinister.md) Kingdom: [Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md)"
   - "MxM Collection: Mansoor, Mason Madden"
   - {c: "PTW Tag Team Championship"}
-- [Marius Al-Ani, Sam Della Vale, {c: "PTW:WWA Championship"}]
-- - Dawid "Puncher" Seńko
+- [Marius Al-Ani, '[Sam Della Vale](@/w/sam-rogers.md)', {c: "PTW:WWA Championship"}]
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
-  - Marcelito
+  - '[Marcelito](@/w/marcelito.md)'
   - Jonny Storm
   - Cowboy James Storm
-  - Marco Hammers
+  - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
-  - Max Speed
+  - '[Max Speed](@/w/max-speed.md)'
   - Michał "Mutant" Świątkowski
-  - Karol "Iskra" Górski
-  - Wiktor Longman
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
+  - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - Sędzia Rafał
   - Santino
-  - Erik Šlotíř
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - King Kaiden
   - Sambor
   - Spartan
   - Taxi Złotówa
-  - Krampus
+  - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
   - {s: "Gold Rush Rumble", c: "PTW Championship"}
 {% end %}
@@ -62,7 +62,7 @@ Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 
 * Speedball immediately won the Polish crowd's support. Delivered his signature fast kicks and running tornado kick.
 * After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a women's title.
-* Nano was pinned, but managed to lift one shoulder for the three count. The ref initially awarded Krampus the victory, but as he was about to reverse this decision, Krampus decked him and kicked out of the ring. Sinister arrived to deliver more punishment to Lopez.
+* Nano was pinned, but managed to lift one shoulder for the three count. The ref initially awarded [Krampus](@/w/krampus.md) the victory, but as he was about to reverse this decision, Krampus decked him and kicked out of the ring. [Sinister](@/w/sinister.md) arrived to deliver more punishment to Lopez.
 * Mario Pardua, a wrestler of Polish origin fighting in the Chicago area, introduced himself in a video clip. In Polish, he declared he's ready for Prime Time Wrestling. The crowd chanted CM-PUNK at him. Pawłowski added that Pardua is currently fighting for NWA, and that he's been signed to PTW.
 * After Lince Dorado's entrance, Supron and Borkowski joined the Polish commentary team.
 * Lince kicked out of the Styles clash, hitting the ref in the face with his feet. PJ Black hit the Placedo Effect to win.
@@ -74,7 +74,7 @@ Ring Announcer, host, General Manager: Arkadiusz Pawłowski
   Looking for someone else to shave, they started calling out people in the audience, then grabbed a hapless referee to the crowd's disappointment. Then, Marcin Najman appeared and entered the ring. Excited, Legia invited him to join the faction, as he's already bald, and is known by _El Testosteron_. However, in order to join, he must start winning fights in MMA, a reference to his losing streak. \
   Najman took offense to this, referred to himself not as bald, but close cut and decked them with punches. Announced his upcoming fight against Murański at Clout MMA 4 on March 9.
 * Pawłowski explained the Gold Rush Rumble rules: typical over-the-top rope elimination, but the final four can only eliminate  by pinfall or submission.
-* After the rumble, Puncher cut a promo, to be interrupted by Babatunde, an ex-WWE wrestler of Polish origin, now as Babathunder. Pawłowski announced him as signed to PTW.
+* After the rumble, [Puncher](@/w/puncher.md) cut a promo, to be interrupted by Babatunde, an ex-WWE wrestler of Polish origin, now as Babathunder. Pawłowski announced him as signed to PTW.
 * Pawłowski invited his fiancee Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
 * The screen showed a scene where Bad Bones, Rzeżniczak and Longman conspired against their partner Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, and lifted Pawłowski into an F5.
 
@@ -82,30 +82,30 @@ Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 #### Gold Rush Rumble entrances and eliminations
 
 1. [Axel Fox](@/w/axel-fox.md)
-2. Marcelito
+2. [Marcelito](@/w/marcelito.md)
 3. PTW Championship belt is unveiled
 4. Jonny Storm
 5. Cowboy James Storm
-6. Marco Hammers
+6. [Marco Hammers](@/w/marco-hammers.md)
 7. [Diana Strong](@/w/diana-strong.md)
 8. Diana eliminates Marco Hammers
-9. Max Speed
+9. [Max Speed](@/w/max-speed.md)
 10. Michał "Mutant" Świątkowski
 11. Mutant eliminates Max Speed
-12. Karol "[Iskra](@/w/iskra.md)" Górski fails to enter ring after getting beaten by Hammers and Max Speed
-13. Wiktor Longman
+12. Karol "Iskra" Górski fails to enter ring after getting beaten by Hammers and Max Speed
+13. [Wiktor Longman](@/w/wiktor-longman.md)
 14. Longman eliminates Diana
 15. Longman eliminates Mutant
 16. Bad Bones' music hits. Bones appears on screen and demands a title match from Pawłowski.
 17. Sędzia Rafał, who remains outside the ring
-18. Iskra enters the ring
+18. [Iskra](@/w/iskra.md) enters the ring
 19. Cowboy James Storm eliminates Iskra
 20. Sędzia Rafał enters the ring
 21. Santino
 22. Santino eliminates Sędzia Rafał
 23. Longman eliminates Santino
-24. Erik Šlotíř
-25. Olgierd
+24. [Erik Šlotíř](@/w/erik-slotir.md)
+25. [Olgierd](@/w/olgierd.md)
 26. King Kaiden
 27. Longman eliminates Jonny Storm
 28. Kaiden eliminates Olgierd
@@ -117,16 +117,16 @@ Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 34. Spartan eliminates Longman
 35. Taxi Złotówa
 36. Marcelito eliminates Złotówa
-37. Dawid "Puncher" Seńko
+37. [Dawid "Puncher" Seńko](@/w/puncher.md)
 38. Puncher eliminates Kaiden
 39. Krampus, enters the apron but not the ring
 40. Krampus eliminates Marcelito
-41. Nano Lopez appears with a bound Sinister, forces Krampus to exit the fight
+41. [Nano Lopez](@/w/nano-lopez.md) appears with a bound Sinister, forces Krampus to exit the fight
 42. Arczi Czajka
 43. Puncher eliminates Arczi Czajka
 44. With the final four now in the ring, the Rumble became a Fatal Four-Way match.
 45. James Storm eliminates Spartan
-46. Axel Fox eliminates James Storm
+46. [Axel Fox](@/w/axel-fox.md) eliminates James Storm
 47. Puncher pins Axel Fox to win
 
 Mutant was last seen in PTW on their [very first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in 2021.

@@ -6,7 +6,7 @@ authors = ["Szymon Iwulski"]
 venue = "ptw-targowa"
 +++
 
-PTW Underground 19 was part of a two-show weekend, held on December 9-10 in PTW Performance Center in Chorzów. Fans saw the debut of new character Sambor, while [Diana Strong](@/w/diana-strong.md) faced 18-year old British wrestler Violet Nyte. The event also featured the debut of 
+PTW Underground 19 was part of a two-show weekend, held on December 9-10 in PTW Performance Center in Chorzów. Fans saw the debut of new character Sambor, while [Diana Strong](@/w/diana-strong.md) faced 18-year old British wrestler Violet Nyte.
 
 The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd.md) and [Axel Fox](@/w/axel-fox.md), with the latter entering in a red and white Santa suit, the referee donning reindeer antlers, complete with a Christmas tree in the ring. While Christmas was still two weeks away, Poland celebrates [Saint Nicholas Day][st-nicholas-day] as a mini-Christmas, with well-behaved children receiving a gift under their pillow.
 
@@ -14,14 +14,15 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 {% card() %}
 - ['[Axel Fox](@/w/axel-fox.md)', '[Olgierd](@/w/olgierd.md)', {s: St Nicholas Day
       Street Fight}]
-- ['Dawid "Puncher" Seńko', Max Speed]
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Max Speed](@/w/max-speed.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', Violet Nyte]
-- [Vincent Caravaggio, g: true]
-- [Erik Šlotíř, Marcelito]
-- [Dziedzic, King Kaiden]
-- ['"Starboy" Nano Lopez', Renegade]
-- ["Sambor; Rusałka", Marco Hammers]
-- [Nitro, Sinister, Taras, {s: Triple Threat Match}]
+- [Vincent Caravaggio, {g: true}]
+- ['[Erik Šlotíř](@/w/erik-slotir.md)', '[Marcelito](@/w/marcelito.md)']
+- ['[Dziedzic](@/w/dziedzic.md)', King Kaiden]
+- ['"Starboy" Nano Lopez', '[Renegade](@/w/renegade.md)']
+- ["Sambor; Rusałka", '[Marco Hammers](@/w/marco-hammers.md)']
+- ['[Nitro](@/w/nitro.md)', '[Sinister](@/w/sinister.md)', '[Taras](@/w/taras.md)',
+  {s: Triple Threat Match}]
 {% end %}
 
 Ring announcer and MC: Arkadiusz Pawłowski

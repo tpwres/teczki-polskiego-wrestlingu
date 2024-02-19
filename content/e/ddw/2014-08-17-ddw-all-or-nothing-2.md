@@ -12,8 +12,8 @@ Another big, literally, feature of the event was inviting The Polish Giant, an u
 {% card() %}
 - [The Polish Giant, Eddie Rage, {s: DDW International Championship Tournament First
       Round Match}]
-- [Renegade, '[Robert Star](@/w/robert-star.md)', {s: DDW International Championship
-      Tournament First Round Match}]
+- ['[Renegade](@/w/renegade.md)', '[Robert Star](@/w/robert-star.md)', {s: DDW International
+      Championship Tournament First Round Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Klarys](@/w/klarys.md)', {s: DDW
       International Championship Tournament First Round Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)',
@@ -21,13 +21,13 @@ Another big, literally, feature of the event was inviting The Polish Giant, an u
 - ['[Dover](@/w/dover.md)', '[Luxus](@/w/luxus.md)', {s: Hardcore Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Ron Corvus](@/w/ron-corvus.md)',
   {s: DDW International Championship Tournament Semi Final Match}]
-- [Renegade, The Polish Giant, {s: DDW International Championship Tournament Semi
-      Final Match}]
+- ['[Renegade](@/w/renegade.md)', The Polish Giant, {s: DDW International Championship
+      Tournament Semi Final Match}]
 - ["[Bianca](@/w/bianca.md), Kasandra", "Audrey Bride, [Mira](@/w/mira.md)", {s: Tag
       Team Match}]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Don Roid](@/w/don-roid.md)']
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Renegade, {c: "DDW International
-      Championship", s: Tournament Final Match}]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Renegade](@/w/renegade.md)', {
+    c: "DDW International Championship", s: Tournament Final Match}]
 {% end %}
 
 Attendance: about 120

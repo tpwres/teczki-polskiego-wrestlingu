@@ -7,25 +7,25 @@ venue = "ptw-targowa"
 +++
 
 {% card() %}
-- [Taras, Max Speed]
-- [King Kaiden, Erik Šlotíř]
-- [Wiktor Longman, '[Boro](@/w/boro.md)']
-- [Disco Pablo, Sinister]
+- ['[Taras](@/w/taras.md)', '[Max Speed](@/w/max-speed.md)']
+- [King Kaiden, '[Erik Šlotíř](@/w/erik-slotir.md)']
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Boro](@/w/boro.md)']
+- ['[Disco Pablo](@/w/disco-pablo.md)', '[Sinister](@/w/sinister.md)']
 - ['[Olgierd](@/w/olgierd.md)', '[Gabriel Queen](@/w/gabriel-queen.md)', {s: Underground
       Street Fight}]
-- ['Dawid "Puncher" Seńko', Salomon Strid]
-- [Krampus, Marcelito]
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Salomon Strid]
+- ["[Krampus](@/w/krampus.md)", "[Marcelito](@/w/marcelito.md)"]
 - ['[Axel Fox](@/w/axel-fox.md)', '[Rafi Rarytas](@/w/rafi.md)', {s: impromptu match}]
-- [Dziedzic, '["Top Gun" Samson](@/w/samson.md)']
+- ['[Dziedzic](@/w/dziedzic.md)', '["Top Gun" Samson](@/w/samson.md)']
 {% end %}
 
 Ring announcer and MC: Arkadiusz Pawłowski \
 Commentary: Piotr "Showoff" Małecki \
-Special guest commentary: [Diana Strong][diana-commentary-fb]
+Special guest commentary: [[Diana](@/w/diana-strong.md) Strong][diana-commentary-fb]
 
 #### Trivia
 
-The Underground Street Fight match set the record of the longest match in PTW history, at 1 hour, 10 minutes and 45 seconds. The match was initially the show opener, but during the course of the fight, wrestlers left the building, camera in tow. Outside, Olgierd put Gabriel Queen inside the trunk of his card, forced referee Seweryn into the passenger seat, and drove off. The show carried on, and later Olgierd and Gabriel returned to finish their match in the ring.
+The Underground Street Fight match set the record of the longest match in PTW history, at 1 hour, 10 minutes and 45 seconds. The match was initially the show opener, but during the course of the fight, wrestlers left the building, camera in tow. Outside, [Olgierd](@/w/olgierd.md) put [Gabriel Queen](@/w/gabriel-queen.md) inside the trunk of his card, forced referee Seweryn into the passenger seat, and drove off. The show carried on, and later Olgierd and Gabriel returned to finish their match in the ring.
 
 ### References
 

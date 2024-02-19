@@ -15,12 +15,14 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 - ["[Marco Hammers](@/w/marco-hammers.md); Karyna", "[Boro](@/w/boro.md)"]
 - ['[Syriusz Dziedzic](@/w/dziedzic.md)', '[Marcelito](@/w/marcelito.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', '[Vic Golden](@/w/vic-golden.md)']
-- ["Krampus; [Sinister](@/w/sinister.md); [Syriusz Dziedzic](@/w/dziedzic.md)", '[Samson](@/w/samson.md)']
+- ["[Krampus](@/w/krampus.md); [Sinister](@/w/sinister.md); [Syriusz Dziedzic](@/w/dziedzic.md)",
+  '[Samson](@/w/samson.md)']
 - ['"Starboy" Nano Lopez', "[Olgierd](@/w/olgierd.md); Karyna"]
 - ['[Puncher](@/w/puncher.md)', {g: true, s: Burning manga}]
 - ['[Puncher](@/w/puncher.md)', '[Sam Rogers](@/w/sam-rogers.md)']
-- ["Budapest Bastards: Renegade, Nitro", "PAKA: [Disco Pablo](@/w/disco-pablo.md),
-    [Taras](@/w/taras.md)(c)", {c: "PTW Tag Team Championnship", nc: No Contest}]
+- ["Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)", "PAKA:
+    [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)", {c: "PTW Tag Team
+      Championnship", nc: No Contest}]
 {% end %}
 
 Ring announcer: Arkadiusz Pawłowski \
@@ -31,7 +33,7 @@ Post-match inteview segments: Tobiasz "Skyver" Korzybski \
 * [Syriusz Dziedzic](@/w/dziedzic.md) was previously kidnapped and held captive by [Sinister](@/w/sinister.md). In this return, he became Sinister's ally, with a new look, theme song and a more aggressive moveset.
 * In a post-match interview, [Sinister](@/w/sinister.md) answered all questions on behalf of [Dziedzic](@/w/dziedzic.md), without allowing him to speak. Sinister announced that the next [Underground show](@/e/ptw/2023-07-30-ptw-underground-16.md) is when Dziedzic's baptism is going to be held.
 * [Vic Golden](@/w/vic-golden.md) came alone, without the support of [Gabriel Queen](@/w/gabriel-queen.md).
-* [Karol "[Iskra](@/w/iskra.md)" Górski](@/w/iskra.md) came out to challenge [Diana](@/w/diana-strong.md) to a match on the next Underground show.
+* [Karol "Iskra" Górski](@/w/iskra.md) came out to challenge [Diana](@/w/diana-strong.md) to a match on the next Underground show.
 * After [Samson](@/w/samson.md)'s match, he was attacked by Sinister and his allies. [Marcelito](@/w/marcelito.md) tried to make a save, but got beaten down as well. Lights went out, [Nano Lopez](@/w/nano-lopez.md) entered with a steel chair and successfully makes a save.
 * [Puncher](@/w/puncher.md) came out to insult manga fans and culture, and tried burning manga books in a bucket full of gasoline. Some of the gasoline spilled out and burned the ring, a crewmember extinguished the fire.
 * [Wiktor Longman](@/w/wiktor-longman.md) interrupted Pan Pawłowski. He confirmed cutting ties with John "Bad Bones" Klinger, and proclaimed loyalty to Pawłowski. This storyline saw its conclusion months later at [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
