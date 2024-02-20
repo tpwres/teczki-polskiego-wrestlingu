@@ -3,10 +3,8 @@ title = "Talent"
 template = "alphabetical_talent_list.html"
 +++
 
-Links typeset in _italics_ are aliases used by a character besides their current name or gimmick.
+Links typeset in _italics_ are aliases used by a character besides their current name or gimmick. Names that are not links represent talent that doesn't have a dedicated page yet.
 
-Each name is followed by a list of organizations they appeared for.
-
-Names that are not links represent talent that don't have a dedicated page yet. In that case, after each organization name, numbered links lead to events which feature that character. However, if a character has too many matches, only the organizations will be shown.
+Each name is followed by a list of organizations they appeared for. If they have less than 5 matches (under that name), numbered links to events will be added after each organization name.
 
 A flag appearing next to the name signifies that person's nationality. A missing flag usually means the person is Polish.
