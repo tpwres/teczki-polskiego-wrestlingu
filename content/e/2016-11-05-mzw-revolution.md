@@ -7,14 +7,14 @@ venue = "gosir-glucholazy"
 
 {% card() %}
 - ["Demon", "RJ Kolda", {c: "VcV Championship"}]
-- ["[Prince Victor](@/w/vic-golden.md)", "Skull Evil", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
+- ["[Prince Victor](@/w/vic-golden.md)", "[Skull Evil](@/w/skull-evil.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {s: "Triple Threat Match"}]
 - ["[Red Thunder](@/w/red-thunder.md)", "Szymon Kolanus"]
 - ["[Siwy](@/w/szymon-siwiec.md)", "Lider", {r: "DQ"}]
 - ["Christopher Anthony", "[Matt Buckna](@/w/matt-buckna.md)", "Otto Stahl", {s: "Triple
       Threat Match"}]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "Catch Connection: Alexander Reich, Ronny Kessler"
+  - "Catch Connection: [Alexander Reich](@/w/alex-ace.md), Ronny Kessler"
   - r: "Double DQ"
 - ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "Alex Arthur", {s: "Two On One Handicap
       Match"}]

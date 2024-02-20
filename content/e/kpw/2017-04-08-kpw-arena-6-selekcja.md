@@ -7,9 +7,8 @@ venue = "atlantic-gdynia"
 
 The sixth Arena show, was held once again in Klub Atlantic, a music venue in Gdynia.
 
-This event featured the wrestling debut of Karol Górski in a squash match against [Piękny Kawaler](@/w/piekny-kawaler.md), followed by beatings administered by the Kawaleria faction.
-Karol would later appear in [MZW](@/e/2017-12-02-mzw-freak-show.md) that same year.
-Several years later, he became [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@/o/ptw.md), debuting at [PTW Underground 6]. This makes him the only wrestler to appear for all three of these organizations.
+This event featured the wrestling debut of referee Karol Górski in a squash match against [Piękny Kawaler](@/w/piekny-kawaler.md), followed by beatings administered by the Kawaleria faction.
+Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@/o/ptw.md), debuting at [PTW Underground 6]. This makes him the only wrestler to appear for all three of these organizations.
 
 {% card() %}
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']

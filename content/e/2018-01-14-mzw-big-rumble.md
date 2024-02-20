@@ -13,7 +13,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
 
 {% card() %}
 - - "[Shadow](@/w/shadow.md) + [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - Alexander Reich
+  - "[Alexander Reich](@/w/alex-ace.md)"
   - "[Amisz](@/w/axel-fox.md)"
   - "[Bartosz Borowsky](@/w/boro.md)"
   - Bartuk
@@ -36,7 +36,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - Ronny Kessler
   - Ronzen
   - Sebastien
-  - Skull Evil
+  - "[Skull Evil](@/w/skull-evil.md)"
   - Valeria
   - s: "MZW Championship #1 Contender 26 Man Royal Rumble Match"
 - - "[Shadow](@/w/shadow.md)"

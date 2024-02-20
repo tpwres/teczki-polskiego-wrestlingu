@@ -5,10 +5,16 @@ template = "event_page.html"
 venue = "bakara"
 +++
 
-Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumble is somewhat notable for featuring the debuts of several future MZW and PTW wrestlers: [Amisz](@/w/axel-fox.md), later known as [Axel Fox](@/w/axel-fox.md), Bartosz [Boro](@/w/boro.md)wski, later known as Ladykiller and Boro, Karol Górski ([Iskra](@/w/iskra.md)), [Kuba Kamiński](@/w/jacob-crane.md) ([Jacob Crane](@/w/jacob-crane.md)), [Rafał Orszak](@/w/rafael-kid.md) ([Rafael Kid](@/w/rafael-kid.md)). The event features new and returning German and Czech wrestlers, and the comeback of [Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/2016-05-14-mzw-beatdown.md) more than a year before.
+Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumble is somewhat notable for featuring the debuts of several future MZW and PTW wrestlers:
+[Amisz](@/w/axel-fox.md), later known as [Axel Fox](@/w/axel-fox.md),
+Bartosz Borowski, later known as Ladykiller and [Boro](@/w/boro.md),
+[Kuba Kamiński](@/w/jacob-crane.md) (later [Jacob Crane](@/w/jacob-crane.md)),
+and [Rafał Orszak](@/w/rafael-kid.md) (future [Rafael Kid](@/w/rafael-kid.md)). 
+
+The event featured new and returning German and Czech wrestlers, and the comeback of [Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/2016-05-14-mzw-beatdown.md) more than a year before.
 
 {% card() %}
-- ["Skull Evil", "Christopher Anthony", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
+- ["[Skull Evil](@/w/skull-evil.md)", "Christopher Anthony", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {s: "Triple Threat Match"}]
 - ["Sebastien", "Demon"]
 - ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "[Amisz](@/w/axel-fox.md)"]
@@ -21,7 +27,7 @@ Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumbl
   - "[Bartosz Borowsky](@/w/boro.md)"
   - Blue Thunder
   - Kamil Kwiecień
-  - "Karol Górski"
+  - "Karol Górski(2)"
   - "[Kuba Kamiński](@/w/jacob-crane.md)"
   - Marcel Koniecki
   - "[Rafał Orszak](@/w/rafael-kid.md)"

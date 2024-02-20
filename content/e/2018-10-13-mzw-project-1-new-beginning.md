@@ -11,7 +11,7 @@ venue = "bakara"
 - ["[Damien Rothschild](@/w/damien-rothschild.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {c: "MZW Championship", s: "Tournament Semi Final Match"}]
 - ["Wataha: Apollo Anderson, [Justin Joy](@/w/justin-joy.md)", "Catch Connection:
-    Alexander Reich, Ronny Kessler", {c: "MZW Tag Team Championship"}]
+    [Alexander Reich](@/w/alex-ace.md), Ronny Kessler", {c: "MZW Tag Team Championship"}]
 - ["[Lady Killer](@/w/boro.md)", "[Asmund](@/w/asmund.md)", "[Axel Fox](@/w/axel-fox.md)"]
 - ["[Madman Charlie](@/w/madman-charlie.md)", "[Matt Buckna](@/w/matt-buckna.md)",
   {r: "DQ", c: "MZW Championship", s: "Tournament Semi Final Match"}]

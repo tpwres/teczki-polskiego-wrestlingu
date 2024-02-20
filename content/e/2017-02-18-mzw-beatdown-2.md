@@ -10,7 +10,7 @@ venue = "bakara"
 - ["[Matt Buckna](@/w/matt-buckna.md)", "[Dynamite Dave](@/w/dynamite-dave.md)", {
     r: "Count Out"}]
 - ["[Asmund](@/w/asmund.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
-- ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", "Skull Evil", {s: "Hardcore Flag Match"}]
+- ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", "[Skull Evil](@/w/skull-evil.md)", {s: "Hardcore Flag Match"}]
 - - "Kings of Porn Style: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic"
   - Christopher Anthony, Marcus Monere
   - s: "Tag Team Match"
