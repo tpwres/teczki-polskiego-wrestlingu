@@ -5,13 +5,15 @@ template = "event_page.html"
 venue = "bakara"
 +++
 
-Freak Show was the second event held in [Bakara](@/v/bakara.md). The royal rumble is somewhat notable for featuring the debuts of several future MZW and PTW wrestlers:
+Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:
 [Amisz](@/w/axel-fox.md), later known as [Axel Fox](@/w/axel-fox.md),
 Bartosz Borowski, later known as Ladykiller and [Boro](@/w/boro.md),
 [Kuba Kamiński](@/w/jacob-crane.md) (later [Jacob Crane](@/w/jacob-crane.md)),
-and [Rafał Orszak](@/w/rafael-kid.md) (future [Rafael Kid](@/w/rafael-kid.md)). 
+and [Rafał Orszak](@/w/rafael-kid.md) (future [Rafael Kid](@/w/rafael-kid.md)).
+Another new face, although an experienced wrestler by then, was [Damian Lambert](@/w/damien-rothschild.md), previously in KPW, who returned from a brief excursion to Great Britain.
 
-The event featured new and returning German and Czech wrestlers, and the comeback of [Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/2016-05-14-mzw-beatdown.md) more than a year before.
+[Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) more than a year before, also returned at this event.
+
 
 {% card() %}
 - ["[Skull Evil](@/w/skull-evil.md)", "[Christopher Anthony](@/w/christopher-anthony.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",

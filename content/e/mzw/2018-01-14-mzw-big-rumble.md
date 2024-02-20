@@ -7,7 +7,7 @@ venue = "gosir-glucholazy"
 
 This was the last [MZW](@/o/mzw.md) event to be held in [Głuchołazy](@/v/gosir-glucholazy.md), and also another charity event with donations going to WOŚP, coinciding with their 26th annual Grand Finale event. Listings of this event elsewhere on the Internet sometimes add "26th Anniversary", but do not explain what it refers to. It does not refer to MZW's Anniversary, at this time about four years old, but to the Grand Finale.
 
-The event featured their biggest ever battle royale-style match, which had many of the same participants as the ten-man rumble on their [previous show](@/e/2017-12-02-mzw-freak-show.md) in Wrocław, plus guest wrestlers from Germany and Czechia.
+The event featured their biggest ever battle royale-style match, which had many of the same participants as the ten-man rumble on their [previous show](@/e/mzw/2017-12-02-mzw-freak-show.md) in Wrocław, plus guest wrestlers from Germany and Czechia.
 
 The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Championship. He was present at ringside, observing the action. Once down to the last two participants, there was a near-finish, when they were standing on the ring apron outside the ropes. Asmund intervened and pulled them both to the ground simultaneously, hoping to avoid his match as there was no clear winner. Unfortunately, Tomasz Warchoł called the absent [Jędruś Bułecka](@/w/jedrus-bulecka.md), who decided that they are going to have a Triple Threat Match instead.
 

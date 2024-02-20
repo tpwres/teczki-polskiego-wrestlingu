@@ -10,7 +10,7 @@ The first Champions War by MZW was held in Głuchołazy on May 31, 2015. The mat
 The event is infamous in the Polish wrestling scene for having a female performer collapse during the show, then die within hours in a hospital. While the initial diagnosis was severe damage to the spine, an autopsy later confirmed that the actual cause of death was an undiscovered brain aneurysm.
 [Hexia](@/w/hexia.md) and the organisation were utlimately cleared of all charges. However, the press slammed MZW and wrestling in general for being dangerous, and the organisation's future become uncertain.
 Some fans in the internet wrestling community now mockingly referred to the organisation as Maniac Zgon Wrestling (_zgon_ being the word for death or demise).
-MZW briefly paused their activity following the event, to return later the same year in [Opawa](@/e/2015-09-05-mzw-untitled.md).
+MZW briefly paused their activity following the event, to return later the same year in [Opawa](@/e/mzw/2015-09-05-mzw-untitled.md).
 Hexia appeared again for MZW more than a year later, and continued to wrestle until 2018, mostly in a team with [Mr B.](@/w/mr-b.md) However, MZW held no women's matches since.
 
 

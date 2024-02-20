@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "gosir-glucholazy"
 +++
 
-The third Champions War event was held again in [Głuchołazy](@/v/gosir-glucholazy.md), even though  the previous event [Beatdown II](@/e/2017-02-18-mzw-beatdown-2.md) was held at [Bakara](@/v/bakara.md). Matches featured Czech and German wrestlers alongside MZW regulars.
+The third Champions War event was held again in [Głuchołazy](@/v/gosir-glucholazy.md), even though the previous event [Beatdown II](@/e/mzw/2017-02-18-mzw-beatdown-2.md) was held at [Bakara](@/v/bakara.md) in Wrocław. Matches featured Czech and German wrestlers alongside MZW regulars.
 
 {% card() %}
 - ["[Matt Buckna](@/w/matt-buckna.md)", "???"]

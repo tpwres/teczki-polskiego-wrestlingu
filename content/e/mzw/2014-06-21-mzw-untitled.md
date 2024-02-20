@@ -1,5 +1,5 @@
 +++
-title = "MZW"
+title = "MZW in Smolec"
 template = "event_page.html"
 [extra]
 venue = "smolec"
