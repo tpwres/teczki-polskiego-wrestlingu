@@ -9,12 +9,12 @@ venue = "airport-kluczewo"
 
 In 2019, the event was held between July 8 and 13. Additionally, on the following weekend, July 20-21, non-participants could enter the airport grounds, for an open event with many attractions (including wrestling). KPW held two shows: one on the final day of the LARP part, and one during this open weekend. This page covers both days.
 
-The foreign guests for this event were all from Germany: the experienced Lucas Robinson and two relatively new but estabilished wrestlers Crowchester and Mathias Bernstein. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned to take on one half of the KPW Tag Team Champions.
+The foreign guests for this event were all from Germany: the experienced Lucas Robinson and two relatively new but estabilished wrestlers Crowchester and Matthias Bernstein. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned to take on one half of the KPW Tag Team Champions.
 
 {% card() %}
 - ['[Moloch](@/w/moloch.md)', Crowchester]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Lucas Robinson]
-- ['[Dom Taylor](@/w/dom-taylor.md)', '[Chemik](@/w/chemik.md)', Mathias Bernstein,
+- ['[Dom Taylor](@/w/dom-taylor.md)', '[Chemik](@/w/chemik.md)', Matthias Bernstein,
   {s: Three Way Match}]
 - ['[Fynn Freyhart](@/w/fynn-freyhart.md)', '[Rosetti](@/w/rosetti.md)']
 - ["[Dawid Oliwa](@/w/dawid-oliwa.md)(c)", '[Greg](@/w/greg.md)', {c: KPW OldTown
