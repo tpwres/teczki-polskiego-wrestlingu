@@ -21,7 +21,6 @@ class ReplaceNameWithLink(Changeset):
 
         hot_line = lines[self.line_num - 1] # 1-based
         pat = re.compile(fr"(?!\[)({self.name})(?!\])")
-        # lines[self.line_num - 1] = hot_line.replace(self.name, self.link, 1)
         lines[self.line_num - 1] = pat.sub(self.link, hot_line, count=1)
 
         with path.open('w') as fp:

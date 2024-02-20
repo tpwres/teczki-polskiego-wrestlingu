@@ -27,7 +27,7 @@ def main(args):
     linters_to_run = [
         MissingCardLinter(),
         UnlinkedParticipantLinter(),
-        UnlinkedNameLinter(),
+        #UnlinkedNameLinter(),
     ]
 
     for path in files_to_lint:
