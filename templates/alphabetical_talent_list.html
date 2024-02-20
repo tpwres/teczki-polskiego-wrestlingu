@@ -7,14 +7,18 @@
 {{ section.content | safe }}
 
 {% set org_styles = config.extra.org_styles %}
-{% set_global all_talent_pages = section.pages %}
+{% set all_talent_pages = section.pages %}
+{% set all_matches = load_data(path="data/all_matches.json") %}
 {% set career_dict = load_data(path="data/career.json") %}
+{% set appearances = load_data(path="data/appearances.json") %}
 {% set_global all_names = [] %}
 {# The careers dict contains all names, with and without articles #}
 {% for name, _ in career_dict %}
   {# Inefficient: O(n^2) #}
-  {# TODO: what about career_name? #}
   {% set talent_page = all_talent_pages|filter(attribute='title', value=name)|first %}
+  {% if not talent_page %}
+    {% set talent_page = all_talent_pages|filter(attribute='extra.career_name', value=name)|first %}
+  {% endif %}
   {% if talent_page %}
     {# This name has an actual talent page, record this as a P(age) record #}
     {% set pair = [name|slugify, name, 'P', talent_page] %}
@@ -36,7 +40,6 @@
 {% set alphabet = 'ABCDEFGHIJKLŁMNOPQRSŚTUVWXYZ' %}
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
 
-{# TODO: With people who don't have a page? What do we link to then? #}
 {% for letter in alphabet %}
   {% set_global talents = [] %}
   {% for name_pair in all_names %}
@@ -62,6 +65,7 @@
         {% elif flavor == 'U' %}
           {% set_global career_entry = career_dict|get(key=name) %}
           {% set_global person_name = name %}
+          {% set_global appearances_entry = appearances|get(key=name) %}
           <li>{% include "onetimer.html" %}</li>
         {% endif %}
       {% endfor %}
