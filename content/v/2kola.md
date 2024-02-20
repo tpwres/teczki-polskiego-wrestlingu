@@ -1,6 +1,8 @@
 +++
 title = "2 Koła Motorcycle Club"
 template = "venue_page.html"
+[extra]
+year_list_start = 2019
 +++
 
 2 Koła (_Two Wheels_) is a motorcycle bar and event venue in Warsaw. It's the first venue to host events by [PpW Ewenement](@/o/ppw.md).
