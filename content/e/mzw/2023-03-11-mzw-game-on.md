@@ -10,5 +10,5 @@ venue = "czasoprzestrzen"
 - [Dieter Schwartz, Denim Adams]
 - ['[Matt Buckna](@/w/matt-buckna.md)', Alex Arthur]
 - [Leo Zayde, "[Alex Ace](@/w/alex-ace.md)", Michael Payne, {s: Three Way Match}]
-- [Zeritus, '[Shadow](@/w/shadow.md)']
+- ['[Zeritus](@/w/zeritus.md)', '[Shadow](@/w/shadow.md)']
 {% end %}

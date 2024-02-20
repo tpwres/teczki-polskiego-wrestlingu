@@ -6,7 +6,7 @@ venue = "czasoprzestrzen"
 +++
 
 {% card() %}
-- ["Zeritus", "[Rafael Kid](@/w/rafael-kid.md)"]
+- ["[Zeritus](@/w/zeritus.md)", "[Rafael Kid](@/w/rafael-kid.md)"]
 - ["[Axel Fox](@/w/axel-fox.md)", "[Lady Killer](@/w/boro.md)", "[Rick Baxxter](@/w/rick-baxxter.md)",
   {s: "Three Way Match"}]
 - ["[Asmund](@/w/asmund.md)", "[Matt Buckna](@/w/matt-buckna.md)", {s: "MZW Championship

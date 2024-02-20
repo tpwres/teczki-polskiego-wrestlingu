@@ -11,7 +11,8 @@ venue = "czasoprzestrzen"
   {s: "Four Way Match"}]
 - ['[Matt Buckna](@/w/matt-buckna.md)', '[Axel Fox](@/w/axel-fox.md)', {s: "No Disqualification
       Match"}]
-- ['[Shadow](@/w/shadow.md)', Fast Time Moodo, Zeritus, {s: "Three Way Match"}]
+- ['[Shadow](@/w/shadow.md)', Fast Time Moodo, '[Zeritus](@/w/zeritus.md)', {s: "Three
+      Way Match"}]
 - ['[Jacob Crane](@/w/jacob-crane.md)', '[Justin Joy](@/w/justin-joy.md)']
 - ['[Aron Wake](@/w/aron-wake.md)', {s: "Battle Royal"}]
 - ['[Asmund](@/w/asmund.md)', "[Damien Rothschild](@/w/damien-rothschild.md)(c)",

@@ -7,7 +7,7 @@ venue = "gosir-glucholazy"
 
 {% card() %}
 - ["[Dynamite Dave](@/w/dynamite-dave.md)", "[Alexander Reich](@/w/alex-ace.md)"]
-- ["Zeritus; [Hexia](@/w/hexia.md)", "Ronny Kessler"]
+- ["[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)", "Ronny Kessler"]
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Unknown, [Mr B.](@/w/mr-b.md)", {s: "Two
       on One Handicap Match"}]
 - ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Red Thunder](@/w/red-thunder.md)",

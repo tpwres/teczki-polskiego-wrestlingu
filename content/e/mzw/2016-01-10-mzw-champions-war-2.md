@@ -8,7 +8,7 @@ venue = "gosir-glucholazy"
 Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). Like last year's [untitled event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), it was a charity show, with donations going to [WOŚP][wosp], and was held on the same day as their 24th annual Grand Finale event.
 
 {% card() %}
-- ["Zeritus; [Hexia](@/w/hexia.md)", "[Dynamite Dave](@/w/dynamite-dave.md)"]
+- ["[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)", "[Dynamite Dave](@/w/dynamite-dave.md)"]
 - ["[Red Thunder](@/w/red-thunder.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
 - ["[Franz Engel](@/w/franz-engel.md)", "Robert Kaiser"]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
