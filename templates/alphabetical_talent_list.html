@@ -40,7 +40,7 @@
 {% for letter in alphabet %}
   {% set_global talents = [] %}
   {% for name_pair in all_names %}
-    {% set talent_name = name_pair[1] %}
+    {% set talent_name = name_pair[1]|replace(from='"', to='') %}
     {% if talent_name is starting_with(letter) %}
       {% set_global talents = talents|concat(with=[name_pair]) %}
     {% endif %}
