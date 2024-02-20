@@ -4,18 +4,6 @@
     {{ flag_dict|get(key=flag|upper, default='') }}
   {% endif %}
 {% endif %}
+
 <a href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
-{% if career_entry %}
-  {# Same as in onetimer.html #}
-  {% set_global orgs = [] %}
-  {% for _year, org_count in career_entry %}
-    {% for org, _count in org_count %}
-      {% if orgs is not containing(org) %}
-        {% set_global orgs = orgs|concat(with=org) %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-  {% for o in orgs %}
-    {{ macros::promolink_color_span(code=o, styles=org_styles) }}
-  {% endfor %}
-{% endif %}
+

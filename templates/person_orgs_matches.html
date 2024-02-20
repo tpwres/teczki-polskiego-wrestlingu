@@ -1,0 +1,41 @@
+{% if appearances_entry and career_entry %}
+  {% set_global all_my_matches = [] %}
+  {% for app in appearances_entry %}
+    {% set match = all_matches[app] %}
+    {% set_global all_my_matches = all_my_matches | concat(with=match) %}
+  {% endfor %}
+
+  {# Calculate orgs from career_entry #}
+  {% set_global orgs = [] %}
+  {% for _year, org_count in career_entry %}
+    {% for org, _count in org_count %}
+      {% if orgs is not containing(org) %}
+        {% set_global orgs = orgs|concat(with=org) %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  {% set_global used_events = [] %}
+  {% set_global i = 1 %}
+  {# Now iterate through orgs, and find matches for that org #}
+  {% for o in orgs %}
+    {# skip org badge if none of the matches have it #}
+    {% set_global valid_org = false %}
+    {% for mm in all_my_matches %}
+      {% if mm.o is containing(o) %}
+        {% set_global valid_org = true %}{% break %}
+      {% endif %}
+    {% endfor %}
+    {% if not valid_org %} {% continue %} {% endif %}
+    {{ macros::promolink_color_span(code=o, styles=org_styles) }}
+    {% if all_my_matches|length < 5 %}
+      {% for match in all_my_matches %}
+        {% if not match.o is containing(o) %} {% continue %} {% endif %}
+        {% if used_events is containing(match.p) %} {% continue %} {% endif %}
+        <a href="{{ get_url(path="@/" ~ match.p) }}">[{{ i }}]</a>
+        {% set_global used_events = used_events|concat(with=match.p) %}
+        {% set_global i = i + 1 %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endif %}

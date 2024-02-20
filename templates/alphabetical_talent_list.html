@@ -8,8 +8,8 @@
 
 {% set org_styles = config.extra.org_styles %}
 {% set all_talent_pages = section.pages %}
-{% set all_matches = load_data(path="data/all_matches.json") %}
 {% set career_dict = load_data(path="data/career.json") %}
+{% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances.json") %}
 {% set_global all_names = [] %}
 {# The careers dict contains all names, with and without articles #}
@@ -61,17 +61,29 @@
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name) %}
           {% set_global career_entry = career_dict|get(key=name) %}
-          <li>{% include "person_with_flag.html" %}</li>
+          {# TODO separate p_w_f from the org calculation template #}
+          <li>
+            {% include "person_with_flag.html" %}
+            {% include "person_orgs_matches.html" %}
+          </li>
         {% elif flavor == 'A' %}
           {% set career_key = page.extra|get(key='career_name', default=page.title) %}
+          {% set_global appearances_entry = appearances|get(key=name, default=false) %}
+          {# TODO: Do not use career, just appearances #}
           {% set_global career_entry = career_dict|get(key=career_key) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
-          <li>{% include "person_with_flag.html" %}</li>
+          <li>
+            {% include "person_with_flag.html" %}
+            {% include "person_orgs_matches.html" %}
+          </li>
         {% elif flavor == 'U' %}
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name) %}
           {% set_global career_entry = career_dict|get(key=name) %}
-          <li>{% include "onetimer.html" %}</li>
+          <li>
+            {% include "unlinked_person.html" %}
+            {% include "person_orgs_matches.html" %}
+          </li>
         {% endif %}
       {% endfor %}
     </ul>
