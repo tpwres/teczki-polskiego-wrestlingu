@@ -1,38 +1,69 @@
 {% extends "index.html" %}
+{%- import "macros/career.html" as macros %}
 
 {% block content %}
 <h1>{{ section.title }}</h1>
 
 {{ section.content | safe }}
 
-{% set_global all_talent = section.pages %}
+{% set org_styles = config.extra.org_styles %}
+{% set_global all_talent_pages = section.pages %}
+{% set career_dict = load_data(path="data/career.json") %}
+{% set_global all_names = [] %}
+{# The careers dict contains all names, with and without articles #}
+{% for name, _ in career_dict %}
+  {# Inefficient: O(n^2) #}
+  {# TODO: what about career_name? #}
+  {% set talent_page = all_talent_pages|filter(attribute='title', value=name)|first %}
+  {% if talent_page %}
+    {# This name has an actual talent page, record this as a P(age) record #}
+    {% set pair = [name|slugify, name, 'P', talent_page] %}
+    {% set_global all_names = all_names | concat(with=[pair]) %}
+    {% set xtra = talent_page.extra %}
+    {# And it may have some aliases. Record this as an A(lias) record, pointing to the main name #}
+    {% for alias in xtra|get(key='career_aliases', default=[]) %}
+      {% set alias_pair = [alias|slugify, alias, 'A', talent_page] %}
+      {% set_global all_names = all_names | concat(with=[alias_pair]) %}
+    {% endfor %}
+  {% else %}
+    {# Otherwise, no talent page, record this as an U record #}
+    {% set pair = [name|slugify, name, 'U', false] %}
+    {% set_global all_names = all_names | concat(with=[pair]) %}
+  {% endif %}
+{% endfor %}
+
+{% set all_names = all_names | sort(attribute='0') %}
 {% set alphabet = 'ABCDEFGHIJKLŁMNOPQRSŚTUVWXYZ' %}
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
 
-{# TODO: With aliases? Requires some precomputation. #}
 {# TODO: With people who don't have a page? What do we link to then? #}
 {% for letter in alphabet %}
   {% set_global talents = [] %}
-  {% for person in all_talent %}
-    {% if person.title is starting_with(letter) %}
-      {% set_global talents = talents|concat(with=person) %}
+  {% for name_pair in all_names %}
+    {% set talent_name = name_pair[1] %}
+    {% if talent_name is starting_with(letter) %}
+      {% set_global talents = talents|concat(with=[name_pair]) %}
     {% endif %}
   {% endfor %}
 
   {% if talents|length > 0 %}
     <h2>{{ letter|upper }}</h2>
-
-    <ul>
-      {% for talent in talents|sort(attribute='title') %}
-        <li>
-          {% if talent.extra %}
-            {% set flag = talent.extra|get(key='country_flag', default='') %}
-            {% if flag %}
-              {{ flag_dict|get(key=flag|upper, default='') }}
-            {% endif %}
-          {% endif %}
-          <a href="{{ get_url(path=talent.path) }}">{{ talent.title }}</a>
-        </li>
+    <ul style="column-count: 2">
+      {% for talent in talents %}
+        {% set name = talent[1] %}
+        {% set flavor = talent[2] %}
+        {% set page = talent[3] %}
+        {% if flavor == 'P' %}
+          {% set_global person_name = name %}
+          <li>{% include "person_with_flag.html" %}</li>
+        {% elif flavor == 'A' %}
+          {% set_global person_name = '<em>' ~ name ~ '</em>' %}
+          <li>{% include "person_with_flag.html" %}</li>
+        {% elif flavor == 'U' %}
+          {% set_global career_entry = career_dict|get(key=name) %}
+          {% set_global person_name = name %}
+          <li>{% include "onetimer.html" %}</li>
+        {% endif %}
       {% endfor %}
     </ul>
   {% endif %}

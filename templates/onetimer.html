@@ -1,0 +1,14 @@
+<span style="margin-inline-end: 0.25em">{{ person_name }}</span>
+{% if career_entry %}
+  {% set_global orgs = [] %}
+  {% for _year, org_count in career_entry %}
+    {% for org, _count in org_count %}
+      {% if orgs is not containing(org) %}
+        {% set_global orgs = orgs|concat(with=org) %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for o in orgs %}
+    {{ macros::promolink_color_span(code=o, styles=org_styles) }}
+  {% endfor %}
+{% endif %}
