@@ -51,7 +51,7 @@
 
   {% if talents|length > 0 %}
     <h2>{{ letter|upper }}</h2>
-    <ul style="column-count: 2">
+    <ul class="talentlist-section">
       {% for talent in talents %}
         {% set name = talent[1] %}
         {% set flavor = talent[2] %}

@@ -274,6 +274,12 @@ ul.event-list
   :nth-child(even)
     background: var(--accent-bg)
 
+ul.talentlist-section
+  list-style-type: none
+  column-count: 2
+  @media only screen and (max-width: 720px)
+    column-count: 1
+
 aside.pagination
   display: flex
   justify-content: space-between
