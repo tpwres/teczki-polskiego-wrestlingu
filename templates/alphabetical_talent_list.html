@@ -56,16 +56,21 @@
         {% set name = talent[1] %}
         {% set flavor = talent[2] %}
         {% set page = talent[3] %}
+        {% set_global career_entry = false %}
         {% if flavor == 'P' %}
           {% set_global person_name = name %}
+          {% set_global appearances_entry = appearances|get(key=name) %}
+          {% set_global career_entry = career_dict|get(key=name) %}
           <li>{% include "person_with_flag.html" %}</li>
         {% elif flavor == 'A' %}
+          {% set career_key = page.extra|get(key='career_name', default=page.title) %}
+          {% set_global career_entry = career_dict|get(key=career_key) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
           <li>{% include "person_with_flag.html" %}</li>
         {% elif flavor == 'U' %}
-          {% set_global career_entry = career_dict|get(key=name) %}
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name) %}
+          {% set_global career_entry = career_dict|get(key=name) %}
           <li>{% include "onetimer.html" %}</li>
         {% endif %}
       {% endfor %}
