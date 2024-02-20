@@ -11,7 +11,7 @@ from linters.unlinked_name import UnlinkedNameLinter
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
-        return path.rglob('????-??-??-*.md')
+        return [p.absolute() for p in path.rglob('????-??-??-*.md')]
     else:
         return [path.absolute()]
 
