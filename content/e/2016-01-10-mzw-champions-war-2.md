@@ -17,7 +17,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
 - - '[Asmund](@/w/asmund.md)'
   - Unknown1
   - Unknown2
-  - Chris Anthony
+  - "[Christopher Anthony](@/w/christopher-anthony.md)"
   - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - '[Franz Engel](@/w/franz-engel.md)'
   - '[Mr B.](@/w/mr-b.md)'

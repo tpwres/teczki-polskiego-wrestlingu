@@ -11,7 +11,7 @@ venue = "gosir-glucholazy"
   {s: "Triple Threat Match"}]
 - ["[Red Thunder](@/w/red-thunder.md)", "Szymon Kolanus"]
 - ["[Siwy](@/w/szymon-siwiec.md)", "Lider", {r: "DQ"}]
-- ["Christopher Anthony", "[Matt Buckna](@/w/matt-buckna.md)", "Otto Stahl", {s: "Triple
+- ["[Christopher Anthony](@/w/christopher-anthony.md)", "[Matt Buckna](@/w/matt-buckna.md)", "Otto Stahl", {s: "Triple
       Threat Match"}]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "Catch Connection: [Alexander Reich](@/w/alex-ace.md), Ronny Kessler"

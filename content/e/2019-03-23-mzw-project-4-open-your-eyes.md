@@ -7,7 +7,7 @@ venue = "czasoprzestrzen"
 +++
 
 {% card() %}
-- ["[Asmund](@/w/asmund.md)", "Christopher Anthony", "[Madman Charlie](@/w/madman-charlie.md)",
+- ["[Asmund](@/w/asmund.md)", "[Christopher Anthony](@/w/christopher-anthony.md)", "[Madman Charlie](@/w/madman-charlie.md)",
   s: "Three Way Match"]
 - ["[Lady Killer](@/w/boro.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", {s: "Glove On A Pole Match"}]
 - ["[Justin Joy](@/w/justin-joy.md)", "Apollo Anderson"]

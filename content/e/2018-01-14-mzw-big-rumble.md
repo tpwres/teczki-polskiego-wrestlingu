@@ -17,7 +17,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - "[Amisz](@/w/axel-fox.md)"
   - "[Bartosz Borowsky](@/w/boro.md)"
   - Bartuk
-  - Chris Anthony
+  - "[Christopher Anthony](@/w/christopher-anthony.md)"
   - '[Damien Rothschild](@/w/damien-rothschild.md)'
   - Demon
   - Denim
