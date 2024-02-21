@@ -7,7 +7,7 @@ template = "index.html"
 
 * [2 Koła Motorcycle Club](@/v/2kola.md)
 * [Waldorffa 25](@/v/waldorffa25.md)
-* Teatr Komuna
+* [Teatr Komuna](@/v/teatr-komuna.md)
 * Hala Bemowo
 
 ### Tricity area
