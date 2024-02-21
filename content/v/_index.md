@@ -3,6 +3,8 @@ title = "Venues"
 template = "index.html"
 +++
 
+# Venues
+
 ### Warsaw
 
 * [2 Koła Motorcycle Club](@/v/2kola.md) {{ org_badge(org='ppw') }}
