@@ -2,10 +2,10 @@
 title = "KPW Arena 7: Wysoka Stawka"
 template = "event_page.html"
 [extra]
-venue = "atlantic-gdynia"
+venue = "atlantic-nh-gdynia"
 +++
 
-Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in Klub Atlantic, a music venue in Gdynia. This event set up stories for the upcoming Godzina Zero show held two months later.
+Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia. This event set up stories for the upcoming Godzina Zero show held two months later.
 
 {% card() %}
 - ['[Robert Star](@/w/robert-star.md)', '[Victor Rosetti](@/w/rosetti.md)']

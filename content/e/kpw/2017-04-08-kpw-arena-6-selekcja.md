@@ -2,10 +2,10 @@
 title = "KPW Arena 6: Selekcja"
 template = "event_page.html"
 [extra]
-venue = "atlantic-gdynia"
+venue = "atlantic-nh-gdynia"
 +++
 
-The sixth Arena show, was held once again in Klub Atlantic, a music venue in Gdynia.
+The sixth Arena show, was held once again in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia.
 
 This event featured the wrestling debut of referee Karol Górski in a squash match against [Piękny Kawaler](@/w/piekny-kawaler.md), followed by beatings administered by the Kawaleria faction.
 Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@/o/ptw.md), debuting at [PTW Underground 6]. This makes him the only wrestler to appear for all three of these organizations.

@@ -2,10 +2,10 @@
 title = "KPW Arena 19: Oko za Oko"
 template = "event_page.html"
 [extra]
-venue = "atlantic-gdynia"
+venue = "atlantic-nh-gdynia"
 +++
 
-Oko za Oko (_Eye for an eye_) was KPW's second show of 2022 and the 19th Arena show overall, held in the Nowy Harem music club. This event saw the return of [Fynn Freyhart](@/w/fynn-freyhart.md) and Darius.
+Oko za Oko (_Eye for an eye_) was KPW's second show of 2022 and the 19th Arena show overall, held in the [Nowy Harem](@/v/atlantic-nh-gdynia.md) music club. This event saw the return of [Fynn Freyhart](@/w/fynn-freyhart.md) and Darius.
 
 Originally Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and Darius in a three way match. Unfortunately, Martn had to bow out due to ilness, turning the fight into a singles match.
 

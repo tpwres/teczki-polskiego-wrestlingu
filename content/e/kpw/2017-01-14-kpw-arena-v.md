@@ -2,10 +2,10 @@
 title = "KPW Arena V: Atlantic City"
 template = "event_page.html"
 [extra]
-venue = "atlantic-gdynia"
+venue = "atlantic-nh-gdynia"
 +++
 
-The fifth Arena show, this time numbered with Roman V instead of a 5, was the first event to be held in Atlantic, a music club and bar located in the very center of Gdynia.
+The fifth Arena show, this time numbered with Roman V instead of a 5, was the first event to be held in [Atlantic](@/v/atlantic-nh-gdynia.md), a music club and bar located in the very center of Gdynia.
 
 The main event featured British wrestler Pastor William Eaver, a former PROGRESS wrestling champion and UK scene mainstay from 2013 until 2021. This would be his only KPW appearance.
 
