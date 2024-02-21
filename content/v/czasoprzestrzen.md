@@ -1,6 +1,8 @@
 +++
 title = "Czasoprzestrzeń"
 template = "venue_page.html"
+[extra]
+year_list_start = 2018
 +++
 
 Czasoprzestrzeń (_Spacetime_) is a community center, art and cultural center, and event venue in Wrocław. It occupies the halls of a former tram yard, and has been host to both [MZW's](@/o/mzw.md) and [PTW's](@/o/ptw.md) events. The halls have a unique industrial character, very high ceilings and massive wooden doors to the outside.
