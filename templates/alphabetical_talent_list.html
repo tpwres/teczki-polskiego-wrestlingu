@@ -8,6 +8,7 @@
 
 {% set org_styles = config.extra.org_styles %}
 {% set all_talent_pages = section.pages %}
+{% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
 {% set career_dict = load_data(path="data/career.json") %}
 {% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances.json") %}

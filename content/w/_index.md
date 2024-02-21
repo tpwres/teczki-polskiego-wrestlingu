@@ -7,4 +7,4 @@ Links typeset in _italics_ are aliases used by a character besides their current
 
 Each name is followed by a list of organizations they appeared for. If they have less than 5 matches (under that name), numbered links to events will be added after each organization name.
 
-A flag appearing next to the name signifies that person's nationality. A missing flag usually means the person is Polish.
+A flag appearing next to the name signifies that person's nationality, if known, and different from Polish. This means that both wrestlers of unknown nationality, and Polish wrestlers will not have a flag.
