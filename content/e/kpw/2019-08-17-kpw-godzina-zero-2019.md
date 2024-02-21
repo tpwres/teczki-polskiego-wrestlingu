@@ -2,7 +2,7 @@
 title = "KPW Godzina Zero 2019"
 template = "event_page.html"
 [extra]
-venue = "gdynia-arena"
+venue = "gdynia-sports-center"
 +++
 
 The fourth Godzina Zero (_Hour Zero_) show was KPW's biggest event in 2019. It was held again in the Gdynia Sports Center, following that year's two-week long wrestling school camp.

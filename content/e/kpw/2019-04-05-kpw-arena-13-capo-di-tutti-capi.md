@@ -2,7 +2,7 @@
 title = "KPW Arena 13: Capo Di Tutti Capi"
 template = "event_page.html"
 [extra]
-venue = "gdynia-arena"
+venue = "gdynia-sports-center"
 +++
 
 Arena 13 was held on Apr 5 2019 in Gdynia Sports Center. The event's name, an Italian phrase associated with the Mafia, meaning _Boss of all the Bosses_, is a reference to the fact that KPW would finally select their new Chairman persona on this event, closing this storyline. It would also see the first ever title defense of the new Tag Team Championship.

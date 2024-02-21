@@ -2,7 +2,7 @@
 title = "KPW Arena X: Kawaleria vs Sojusz"
 template = "event_page.html"
 [extra]
-venue = "gdynia-arena"
+venue = "gdynia-sports-center"
 +++
 
 #### Build-up

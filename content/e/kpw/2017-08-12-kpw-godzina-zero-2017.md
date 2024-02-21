@@ -2,7 +2,7 @@
 title = "KPW Godzina Zero 2017"
 template = "event_page.html"
 [extra]
-venue = "gdynia-arena"
+venue = "gdynia-sports-center"
 +++
 
 The second Godzina Zero (_Hour Zero_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.

@@ -2,7 +2,7 @@
 title = "KPW @ Gdynia Game Festival - Day 1"
 template = "event_page.html"
 [extra]
-venue = "gdynia-arena"
+venue = "gdynia-sports-center"
 +++
 
 Gdynia Game Festival was primarily an e-sports event, accompanied by robotics workshops, several talks about modern technologies, and even cosplay shows, held in 2015. While there were plans for follow-up editions, ultimately only one was ever held.
