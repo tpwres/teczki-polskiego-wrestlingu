@@ -4,7 +4,7 @@ template = "venue_page.html"
 authors = ["Krzysztof Zych"]
 +++
 
-This is the venue that KPW held their shows in 2017, and later from 2022 onwards.
+This is the venue that [KPW](@/o/kpw.md) held their shows in 2017, and later from 2022 onwards.
 
 As of 2024, the current name of this venue is Klub Nowy Harem. It's the second (hence "new") location of music club Harem. That venue was located in Gdynia's Waterfront shopping center, previously known as Gemini, which was demolished in 2019.
 
@@ -30,7 +30,7 @@ However, after a few months they decided to lease the building to a new tenant, 
 
 #### KPW's return
 
-Between 2018 and 2021, KPW did not use the location, as they had a bigger venue to host their shows - the Hall Of Sports. In 2022, they returned to the club, and since held most events in there, starting from [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)
+Between 2018 and 2021, KPW did not use the location, as they had a bigger venue to host their shows - the [Hall Of Sports](@/v/gdynia-sports-center.md). In 2022, they returned to the club, and since held most events in there, starting from [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)
 (excluding shows in other cities like for [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) in Poznań).
 
 ### References
