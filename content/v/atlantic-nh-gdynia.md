@@ -1,8 +1,7 @@
 +++
 title = "Atlantic / Nowy Harem"
 template = "venue_page.html"
-[extra]
-year_list_start = 2017
+authors = ["Krzysztof Zych"]
 +++
 
 This is the venue that KPW held their shows in 2017, and later from 2022 onwards.
