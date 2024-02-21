@@ -6,7 +6,7 @@ template = "index.html"
 ### Warsaw
 
 * [2 Koła Motorcycle Club](@/v/2kola.md)
-* Waldorffa 25
+* [Waldorffa 25](@/v/waldorffa25.md)
 * Teatr Komuna
 * Hala Bemowo
 

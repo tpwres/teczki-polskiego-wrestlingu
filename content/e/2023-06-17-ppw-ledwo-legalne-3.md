@@ -2,8 +2,7 @@
 title = "PpW Ledwo Legalne III"
 template = "event_page.html"
 [extra]
-venue = "Waldorffa 25"
-city = "Warszawa"
+venue = "waldorffa25"
 +++
 
 {% card() %}
