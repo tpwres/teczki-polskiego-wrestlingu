@@ -1,0 +1,9 @@
+{%- import "macros/career.html" as macros %}
+
+{% if org %}
+{{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+{% elif orgs %}
+  {% for org in orgs %}
+    {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+  {% endfor %}
+{% endif %}
