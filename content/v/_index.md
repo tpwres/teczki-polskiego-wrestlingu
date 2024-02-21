@@ -18,7 +18,7 @@ template = "index.html"
 ### Silesian metropolis
 
 * [PTW Performance Centr](@/v/ptw-targowa.md)
-* MORIS Chorzów
+* [MORIS Chorzów](@/v/moris-chorzow.md)
 
 ### Wrocław and Lower Silesia
 
