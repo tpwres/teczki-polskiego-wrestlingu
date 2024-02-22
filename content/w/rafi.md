@@ -3,6 +3,7 @@ title = "Rafi"
 template = "talent_page.html"
 [extra]
 career_aliases = ["Rafi Rarytas"]
+country_flag = "PL"
 +++
 
 **Rafi** is a wrestler from Poland.

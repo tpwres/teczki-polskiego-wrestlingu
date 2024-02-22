@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
 [extra]
 career_aliases = ["Prince Victor"]
+country_flag = "PL"
 +++
 
 Also known as: Prince Victor.

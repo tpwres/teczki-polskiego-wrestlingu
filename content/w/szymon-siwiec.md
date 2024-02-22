@@ -3,6 +3,7 @@ title = "Szymon Siwiec"
 template = "talent_page.html"
 [extra]
 career_aliases = ["Siwy"]
+country_flag = "PL"
 +++
 
 * [Cagematch profile](https://www.cagematch.net/?id=2&nr=24750)
