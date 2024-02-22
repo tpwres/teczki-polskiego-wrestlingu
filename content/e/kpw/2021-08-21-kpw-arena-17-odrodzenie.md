@@ -25,7 +25,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
 
 #### Recap and aftermath
 
-* [Chemik](@/w/chemik.md) made a vow that until he wins three fights, he's not going to touch a woman, insulting ring announcer Kinga and the audience in the process.
+* [Chemik](@/w/chemik.md) made a vow that until he wins three fights, he's not going to touch a woman (remain celibate), insulting ring announcer Kinga and the audience in the process.
 
 ### References
 
