@@ -1,5 +1,5 @@
 +++
-title = "PTW #5: Gold Rush"
+title = "PTW#5: Gold Rush"
 template = "event_page.html"
 authors = ["Krzysztof Zych", "Piotr Drabik"]
 [extra]
