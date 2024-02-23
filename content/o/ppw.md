@@ -31,7 +31,11 @@ That wiki was located at `ppwofficial.fandom.com` (and `ppwofficial.wikia.com` e
 
 ## Botchamania
 
-PpW made Botchamania once. During a match on [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
+PpW made Botchamania twice.
+
+During a match on [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
+
+The second botch to make it was the table spot from [Miasto Bezprawia](@/e/2024-02-10-ppw-miasto-bezprawia.md), from the El Paso Outlaw Match between [Goblin](@/w/goblin.md) and Belgian wrestler MBM. With Goblin lying on a table, MBM climbed the second turnbuckle, put on a pink cowboy hat, straddled the toy hobby horse, and jumped on to the table, which failed to break. After the fight, both agreed to redo the spot, to the audience's great applause. This failed spot, and the second attempt were featured in [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516), at the 8:36 mark.
 
 ## Championships
 
