@@ -10,6 +10,7 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 
 #### Storylines
 
+* In [Chemik's promo](https://www.youtube.com/watch?v=8vO_52VRL74), we saw him walk out of the Gdynia City Hall and claim that he's been working with a group of historians to discover the truth about the Fux Brothers. This research has proven successful, and he has a briefcase of his own, with documents that will bury the brothers once and for all.
 * Leon Lato is on the rise after an excellent fight at the previous event, almost grabbing the KPW Championship from Red Scorpion. [Dawid Oliwa](@/w/dawid-oliwa.md) is on a losing streak, and not his usual happy self. Both have something to prove.
 * [Greg](@/w/greg.md) needs to show he's ready to reclaim the KPW Championship, by facing the well-traveled veteran Dreissker.
 * At Arena 23, a post-match brawl occured involving the [Greg](@/w/greg.md)orian Branch faction against the Fux Brothers, Lato, [Zefir](@/w/zefir.md) and others. [Chemik](@/w/chemik.md) challenged the brothers to defend their belts, and boss Krystian Malinowski quickly sanctioned the match.
