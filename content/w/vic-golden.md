@@ -15,7 +15,7 @@ After [Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.m
 
 Their final match as a team for PTW was during [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), in the tournament final for the newly created Tag Team Championship, which they however lost to PAKA. Later they briefly joined with Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)) against PAKA.
 
-In September 2023, Vic caught an injury and was sidelined from competition. He was quietly removed from PTW's roster page around December 2023.
+In September 2023, Vic caught an injury and was sidelined from competition. He was quietly removed from PTW's roster page in early 2024.
 
 #### PpW Ewenement (2024)
 
