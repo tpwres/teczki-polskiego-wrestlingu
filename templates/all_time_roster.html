@@ -1,3 +1,7 @@
+{% set org_styles = config.extra.org_styles %}
+{% set appearances = load_data(path="data/appearances.json") %}
+{% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
+{% set flag_dict = load_data(path="const/flags-by-code.json") %}
 
 {% set path = "data/roster_" ~ page.slug ~ ".json" -%}
 {% set roster = load_data(path=path, required=false) -%}
@@ -26,7 +30,14 @@
            but items with equal count are sorted alphabetically #}
         {% for pair in rx|sort(attribute='0')|reverse|sort(attribute='1')|reverse %}
         <tr>
-            <td>{{pair[0] | markdown(inline=true) | safe}}</td>
+            <td>
+              {% set_global person_name = pair[0] %}
+              {% if person_name is containing('](') %}{# A markdown link? #}
+                {{ person_name | markdown(inline=true) | safe}}
+              {% else %}
+                {% include "unlinked_person.html" %}
+              {% endif %}
+            </td>
             <td>{{pair[1]}}</td>
         </tr>
         {% endfor %}
