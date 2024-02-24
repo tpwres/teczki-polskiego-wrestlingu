@@ -21,21 +21,33 @@ The foreign guests for the event were:
 * In a [facebook post](https://www.facebook.com/events/393729466203534/?post_id=412536367656177), KPW announced that Wild Boar, one half of current KPW Tag Team Champions, is unable to attend due to injury. As a result, the championship was officially vacated, and his replacement was to be revealed soon.
 
 {% card() %}
-- - Darius
+- - '[Darius](@/w/darius.md)'
   - '[Rosetti](@/w/rosetti.md)'
   - Tom Fulton
   - Ricky Sky
   - s: "KPW OldTown Championship Contender Four-Way Match"
-- [Zefir, Leon Lato]
+- ['[Zefir](@/w/zefir.md)', '[Leon Lato](@/w/leon-lato.md)']
 - - "Die Ordnung: Veit Müller, Hans Schulte"
-  - "The Fux Brothers: Filip Fux, Michał Fux"
+  - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "Primate, Tommy Freeman"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - {c: KPW Tag Team Championship, s: 4-way Elimination Match}
-- ['[Rosetti](@/w/rosetti.md)', Alex Berkner, '[Chemik](@/w/chemik.md)', Darius, '[Eryk
-    Lesak](@/w/eryk-lesak.md)', Tom Fulton, Filip Fux, Ricky Sky, Zefir, Leon Lato,
-  Veit Müller, Hans Schulte, Michał Fux, Primate, Tommy Freeman, {s: 15-Man Battle
-      Royal}]
+- - '[Rosetti](@/w/rosetti.md)'
+  - Alex Berkner
+  - '[Chemik](@/w/chemik.md)'
+  - '[Darius](@/w/darius.md)',
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - Tom Fulton
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - Ricky Sky
+  - '[Zefir](@/w/zefir.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - Veit Müller,
+  - Hans Schulte
+  - '[Michał Fux](@/w/michal-fux.md)'
+  - Primate
+  - Tommy Freeman
+  - {s: 15-Man Battle Royal}]
 - - '[Greg](@/w/greg.md)'
   - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
   - {s: Three Stages of Hell Match, c: KPW Championship}

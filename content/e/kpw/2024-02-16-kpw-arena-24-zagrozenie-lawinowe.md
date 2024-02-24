@@ -1,6 +1,7 @@
 +++
 title = "KPW Arena 24: Zagrożenie Lawinowe"
 template = "event_page.html"
+aliases = ["/e/2024-02-16-kpw-arena-24-zagrozenie-lawinowe"]
 [extra]
 venue = "atlantic-nh-gdynia"
 +++
@@ -18,7 +19,7 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 
 {% card() %}
 - ['[Zefir](@/w/zefir.md)', Tommy Kyle]
-- [Leon Lato, '[Dawid Oliwa](@/w/dawid-oliwa.md)']
+- ['[Leon Lato](@/w/leon-lato.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)']
 - [Robert Dreissker, '[Greg](@/w/greg.md)']
 - ["[Rosetti](@/w/rosetti.md)(c)", '[Darius](@/w/darius.md)', {c: KPW OldTown Championship}]
 - - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
