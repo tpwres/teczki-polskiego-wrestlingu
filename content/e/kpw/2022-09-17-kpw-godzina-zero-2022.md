@@ -47,7 +47,7 @@ The foreign guests for the event were:
   - '[Michał Fux](@/w/michal-fux.md)'
   - Primate
   - Tommy Freeman
-  - {s: 15-Man Battle Royal}
+  - s: Championship Contract Battle Royal
 - - '[Greg](@/w/greg.md)'
   - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
   - {s: Three Stages of Hell Match, c: KPW Championship}
