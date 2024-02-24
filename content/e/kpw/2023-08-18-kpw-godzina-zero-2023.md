@@ -47,7 +47,9 @@ All three championships were defended and two changed hands. The Magnificent Sev
 
 * This was the last event to feature the original OldTown championship belt. From Arena 23 onwards, it was replaced by a more conventional leather plate design.
 * In the battle Royal finale, Leon Lato faced Chemik again, after being defeated in their singles match.
-* Dawid's defeat at this event started his losing streak and heel turn, completed at [Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md).
+* Dawid was carried out from the ring on a stretcher. His defeat at this event started his losing streak and eventual heel turn.
+* While Red Scorpion celebrated his victory, Leon Lato arrived in the ring, holding the Championship Contract he just won, and challenged Scorpion for the championship at the next event.
+* In a [facebook post](https://www.facebook.com/kpwrestling/posts/pfbid02UQY6HWgyVoCpq9RayytozE7D7UNcAfFCGYVceD1FKZY4LrpyhUwHtTaCAywLahQfl), KPW stated that Godzina Zero 2023 was their 40th overall event, since its start in 2015.
 
 ### References
 
