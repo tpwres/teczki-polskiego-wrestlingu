@@ -41,7 +41,7 @@ The second botch to make it was the table spot from [Miasto Bezprawia](@/e/2024-
 
 | Championship | Current champion(s) | Notes |
 |--|--|--|
-| PpW Championship | [Steve Kuningas](@/w/steve-kuningas.md) | Defeated [Biesiad Strong](@/w/biesiad.md) at [Ledwo Legalne III](@/e/2023-06-17-ppw-ledwo-legalne-3.md). |
+| PpW Championship | [Bill Feager](@/w/feager.md) | Defeated [Steve Kuningas](@/w/steve-kuningas.md) at [Miasto Bezprawia](@/e/2024-02-10-ppw-miasto-bezprawia.md). |
 | PpW European Ultraviolent Championship | [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) | Defeated [Johnny Blade](@/w/johnny-blade.md) at [Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md). |
 
 Dobroniak has defended the Ultraviolent Championship belt also outside Poland, mostly in Sweden.
