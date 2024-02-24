@@ -13,14 +13,14 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
 - ["[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),
     [Victor Rosetti](@/w/rosetti.md)", {s: "Tag Team Match"}]
 - ['[Mira](@/w/mira.md)', Kasandra]
-- ["Team Hungary: Renegade", "Team KPW: [Kaszub](@/w/kaszub.md)", {s: "KPW vs Hungary
-      Nations Cup Round 1 Match"}]
+- ["Team Hungary: [Renegade](@/w/renegade.md)", "Team KPW: [Kaszub](@/w/kaszub.md)",
+  {s: "KPW vs Hungary Nations Cup Round 1 Match"}]
 - ["Team KPW: [Bianca](@/w/bianca.md)", "Team Hungary: Audrey Bride", {s: "KPW vs
       Hungary Nations Cup Round 2 Match"}]
 - ["Team Hungary: [Ron Corvus](@/w/ron-corvus.md)", "Team KPW: [Robert Star](@/w/robert-star.md)",
   {s: "KPW vs Hungary Nations Cup Round 3 Hardcore Match"}]
-- ["Team KPW: [Piękny Kawaler](@/w/piekny-kawaler.md)", "Team Hungary: Nitro", {s: "KPW
-      vs Hungary Nations Cup Round 4 Falls Count Anywhere Match"}]
+- ["Team KPW: [Piękny Kawaler](@/w/piekny-kawaler.md)", "Team Hungary: [Nitro](@/w/nitro.md)",
+  {s: "KPW vs Hungary Nations Cup Round 4 Falls Count Anywhere Match"}]
 - ["Team KPW: [Kamil Aleksander](@/w/kamil-aleksander.md)", "Team Hungary: [Dover](@/w/dover.md)",
   {s: "KPW vs Hungary Nations Cup Round 5 Match"}]
 {% end %}

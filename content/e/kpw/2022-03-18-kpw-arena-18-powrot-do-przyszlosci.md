@@ -1,6 +1,7 @@
 +++
 title = "KPW Arena 18: Powrót do Przyszłości"
 template = "event_page.html"
+aliases = ["/e/2022-03-18-kpw-arena-18-powrot-do-przyszlosci"]
 [extra]
 venue = "atlantic-nh-gdynia"
 +++
@@ -21,11 +22,12 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
 * [Boski 2.0](@/w/ostrowski.md) won a contract to challenge for a championship at Godzina Zero 2019. However, he's since retired from wrestling.
 
 {% card() %}
-- ["The Fux Brothers: Filip Fux, Michał Fux", "[Eryk Lesak](@/w/eryk-lesak.md)", {
-    s: Two On One Handicap Match, r: Count Out}]
+- ["The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)",
+  "[Eryk Lesak](@/w/eryk-lesak.md)", {s: Two On One Handicap Match, r: Count Out}]
 - ['[Chemik](@/w/chemik.md)', Piotr Opolski]
 - ['[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', Gianni Valletta, {c: KPW OldTown Championship}]
-- [Red Scorpion, Darius, Zefir, {s: Three Way Match}]
+- [Red Scorpion, '[Darius](@/w/darius.md)', '[Zefir](@/w/zefir.md)', {s: Three Way
+      Match}]
 - ['[Greg](@/w/greg.md)', '[Ron Corvus](@/w/ron-corvus.md)', {s: "Hardcore Match for
       KPW Championship #1 Contender"}]
 {% end %}

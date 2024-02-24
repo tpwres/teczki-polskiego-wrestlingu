@@ -1,6 +1,7 @@
 +++
 title = "KPW Arena 19: Oko za Oko"
 template = "event_page.html"
+aliases = ["/e/2022-06-10-kpw-arena-19-oko-za-oko"]
 [extra]
 venue = "atlantic-nh-gdynia"
 +++
@@ -10,10 +11,10 @@ Oko za Oko (_Eye for an eye_) was KPW's second show of 2022 and the 19th Arena s
 Originally Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and Darius in a three way match. Unfortunately, Martn had to bow out due to ilness, turning the fight into a singles match.
 
 {% card() %}
-- [Filip Fux, '[Chemik](@/w/chemik.md)']
+- ['[Filip Fux](@/w/filip-fux.md)', '[Chemik](@/w/chemik.md)']
 - ['[Eryk Lesak](@/w/eryk-lesak.md)', Piotr Opolski]
-- [Zefir, Michał Fux]
-- ['[Greg](@/w/greg.md)', Darius]
+- ['[Zefir](@/w/zefir.md)', '[Michał Fux](@/w/michal-fux.md)']
+- ['[Greg](@/w/greg.md)', '[Darius](@/w/darius.md)']
 - ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {
     s: "KPW Championship #1 Contender Best Two Out Of Three Falls Match"}]
 {% end %}

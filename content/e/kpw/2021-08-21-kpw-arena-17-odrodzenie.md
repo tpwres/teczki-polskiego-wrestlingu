@@ -15,10 +15,10 @@ There were also three debuts: we saw KPW's new high flying masked luchador Zefir
 Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart.md). A Facebook post announced that he's unable to compete due to injury, and two days later Ricky Sky was announced to take his place.
 
 {% card() %}
-- ['[Rosetti](@/w/rosetti.md)', Zefir]
+- ['[Rosetti](@/w/rosetti.md)', '[Zefir](@/w/zefir.md)']
 - ['[Fynn Freyhart](@/w/fynn-freyhart.md)', Ricky Sky]
-- ["The Fux Brothers: Filip Fux, Michał Fux", "[Eryk Lesak](@/w/eryk-lesak.md), Piotr
-    Opolski", {s: Tag Team Match}]
+- ["The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)",
+  "[Eryk Lesak](@/w/eryk-lesak.md), Piotr Opolski", {s: Tag Team Match}]
 - ['[Greg](@/w/greg.md)', Crowchester]
 - ['[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', Michael Kovac, {c: KPW OldTown Championship}]
 {% end %}
