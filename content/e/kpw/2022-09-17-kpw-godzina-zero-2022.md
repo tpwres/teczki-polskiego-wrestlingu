@@ -35,7 +35,7 @@ The foreign guests for the event were:
 - - '[Rosetti](@/w/rosetti.md)'
   - Alex Berkner
   - '[Chemik](@/w/chemik.md)'
-  - '[Darius](@/w/darius.md)',
+  - '[Darius](@/w/darius.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - Tom Fulton
   - '[Filip Fux](@/w/filip-fux.md)'
@@ -47,7 +47,7 @@ The foreign guests for the event were:
   - '[Michał Fux](@/w/michal-fux.md)'
   - Primate
   - Tommy Freeman
-  - {s: 15-Man Battle Royal}]
+  - {s: 15-Man Battle Royal}
 - - '[Greg](@/w/greg.md)'
   - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
   - {s: Three Stages of Hell Match, c: KPW Championship}
