@@ -51,7 +51,7 @@ The foreign guests for the event were:
 - - '[Greg](@/w/greg.md)'
   - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
   - {s: Three Stages of Hell Match, c: KPW Championship}
-- ['[Rosetti](@/w/rosetti.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)', {c: KPW OldTown
+- ['[Rosetti](@/w/rosetti.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', {c: KPW OldTown
       Championship}]
 {% end %}
 
