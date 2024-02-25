@@ -30,16 +30,13 @@
       {% endif -%}
     {% endfor -%}
 
+    {% if my_events_thisyear | length == 0 -%}{% continue %}{% endif %}
     <h3>{{ thisyear }}</h3>
-    {% if my_events_thisyear | length == 0 -%}
-      No events held.
-    {% else -%}
-      <ul class="event-list">
-        {% for event_page in my_events_thisyear | sort(attribute="date") | reverse -%}
-          <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
-        {% endfor -%}
-      </ul>
-    {% endif -%}
+    <ul class="event-list">
+      {% for event_page in my_events_thisyear | sort(attribute="date") | reverse -%}
+        <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
+      {% endfor -%}
+    </ul>
   {% endif -%}
 {% endfor -%}
 
