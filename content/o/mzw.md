@@ -4,20 +4,14 @@ weight = 2
 authors = ["Krzysztof Zych"]
 template = "org_page.html"
 [extra]
-year_list_start = 2014
 allow_section_pagination = true
 +++
 
-MZW is a wrestling promotion estabilished in 2014, which currently makes it the oldest still active promotion in Poland.
-It is known for frequent international cooperation, especially with German organizations. MZW has no regular or titular sponsors, and considers itself an independent European promotion. Wrestlers who trained with them are highly regarded for their skills, and some have continued their career outside Poland.
-Since the COVID-19 pandemic of 2019-2021, MZW's activity has decreased significantly, with no events held in 2022 at all. In 2021 they produced a series of events without live audience (Project Basement), which were released on YouTube.
+MZW was estabilished in 2014, which currently makes it the oldest still active promotion in Poland. MZW has no regular or titular sponsors, and considers itself an independent European promotion. Wrestlers who trained with them are highly regarded for their skills, and some have continued their career outside Poland.
 
-## Locations
+### History
 
-Since 2018, MZW held most of their events in Wrocław, either in [Bakara](@/v/bakara.md) or [Czasoprzestrzeń](@/v/czasoprzestrzen.md), with the latter becoming their main venue.
-Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), a town near the Polish-Czech border where many of their events took place, and where they trained new adepts. And prior to that, events were held in various small towns in the region, like Opawa, Smolec and Niedźwiedzica.
-
-## History
+#### 2013: DDW's hiatus
 
 Maniac Zone Wrestling started quietly in 2013, created by then DDW wrestlers Jędruś Bułecka and Straceniec.
 After [DDW#9](@/e/ddw/2013-10-25-ddw-9.md), there was a significant hiatus when they held no events.
@@ -27,10 +21,36 @@ The new organization promised regular monthly shows, bigger events including for
 
 Initially, the roster featured Jędruś Bułecka, Shadow (a new, masked gimmick of the former Straceniec), and several ex-backyard wrestlers trained by Bułecka.
 Many of these characters were masked, leading to fans calling the new organisation "Polish lucha".
-The promotion prepared its debut carefully, registering with all required authorities, purchasing a proper ring and recruiting a video production crew.
 Because their first two events were sideshows on other attractions like various town festivals, fans derided the new organisation for being just a sideshow and not aiming for professionalism. However, there was consensus that their wrestling was of very high quality, exceeding that of their contemporaries.
 
-MZW was most active from 2014 to 2019, holding about five events a year. In 2020, several wrestlers would quit and join the newly created [PTW](@/o/ptw.md), to become part of its first roster. However, due to the COVID-19 pandemic, PTW's start was delayed till 2021.
+#### 2018: Moving to Wrocław
+
+Since 2018, MZW held most of their events in Wrocław, either in [Bakara](@/v/bakara.md) or [Czasoprzestrzeń](@/v/czasoprzestrzen.md), with the latter becoming their main venue.
+Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), a town near the Polish-Czech border where many of their events took place, and where they trained new adepts. And prior to that, events were held in various small towns in the region, like Opawa, Smolec and Niedźwiedzica.
+
+#### 2020: Post-COVID and losing talent to PTW
+
+MZW was most active from 2014 to 2019, holding about five events a year. 2020 put a stop to that, due to the COVID-19 pandemic and nationwide restrictions introduced. Unable to hold shows, in 2021 MZW produced a series of events without live audience (Project Basement), which were released on YouTube. No events at all were held in 2022.
+
+In 2020, and 2021, several wrestlers would quit and join the newly created [PTW](@/o/ptw.md), to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
+
+### Foreign relations
+
+MZW frequently cooperated with German organizations, especially with Dresden-based Next Step Wrestling and Eastside Revolution Wrestling. In their early days, the Germans would often outnumber Polish wrestlers present.
+
+### Polish wrestling scene
+
+Before 2021, MZW did not interact with other organizations in Poland. This changed with [PpW Supershow](@/e/2021-07-30-ppw-poznan-supershow.md), where talent from [PpW Ewenement](@/o/ppw.md) faced against MZW regulars Aron Wake, [Isnorr](@/w/isnorr.md) and [Madman Charlie](@/w/madman-charlie.md). In 2022, after exiting PTW, former MZW wrestler Jacob Crane appeared at PpW's [Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md). In 2023 the organizations ran a [co-branded event](@/e/2023-09-23-ppw_mzw-zadnych-granic.md) in September, and 2024 saw MZW's founder [Shadow](@/w/shadow.md) compete at PpW's [Miasto Bezprawia](@/e/2024-02-10-ppw-miasto-bezprawia.md).
+
+This collaboration is so far unique, as the other two organizations (KPW and PTW) prefer to be standalone, and see no value in letting others use their talent. MZW was also like that, but the COVID-induced hiatus and later talent drain may have changed their mind.
+
+### Championships
+
+MZW has just one singles championship, with Shadow having the longest combined reigns as of 2024.
+
+| Championship | Current champion | Notes |
+|---|---|---|
+| MZW Championship | **VACANT** since [MZW Game On](@/e/mzw/2023-03-11-mzw-game-on.md) | Previous champion [Aron Wake](@/w/aron-wake.md) left to join PTW in 2021, but no events were held in the meantime. |
 
 ## References
 
