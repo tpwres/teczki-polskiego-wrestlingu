@@ -42,7 +42,7 @@ The foreign guests for the event were:
   - Ricky Sky
   - '[Zefir](@/w/zefir.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
-  - Veit Müller,
+  - Veit Müller
   - Hans Schulte
   - '[Michał Fux](@/w/michal-fux.md)'
   - Primate
