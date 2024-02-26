@@ -16,6 +16,7 @@ template = "index.html"
 
 * [Atlantic / Nowy Harem](@/v/atlantic-nh-gdynia.md) {{ org_badge(org='kpw') }}
 * [Gdynia Sports Center](@/v/gdynia-sports-center.md) {{ org_badge(org='kpw') }}
+* [Gimnazjum nr 8](@/v/gimnazjum-8-gdansk.md) {{ org_badge(orgs=['ddw', 'kpw']) }}
 
 ### Silesian metropolis
 

@@ -35,7 +35,7 @@ During that time, multiple talents started to voice their frustration on social 
 Eventually, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster.
 During a [shoot interview][samson-shoot-interview] for the "Wrestling Polska" YouTube channel, Samson stated that he "never earned a single penny" in PTW, that Underground shows were not paid appearances and only the "big" (numbered) events were, with the promotor urging talent to take the "barter in training fee" instead.
 
-During a regular [live stream][supporter-stream-barter] for his YouTube supporters, Pawłowski confirmed the accusations, stating that barter was an option, but always voluntary.
+During a regular [live stream][supporter-stream-barter] for his YouTube supporters (video requires paid subscription), Pawłowski confirmed the accusations, stating that barter was an option, but always voluntary.
 He also confirmed that PTW wrestlers are not officially contracted and their exclusivity is based on a gentlemen's agreement.
 He emphasized that his goal is to make PTW a fully mainstream promotion, with wrestlers being able to earn their living just based on their PTW role, rather than an alternative, independent route with talent being able to freelance.
 It was also announced that more roster cuts are to follow, especially after "Season One" is finished.
