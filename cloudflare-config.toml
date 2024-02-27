@@ -24,7 +24,7 @@ paths_keep_dates = true
 new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new"
 
 # Add an org here if it has its own subdirectory under e/
-org_events_dir = {'ddw' = true, 'kpw' = true, 'ptw' = true, 'mzw' = true}
+org_events_dir = {'ddw' = true, 'kpw' = true, 'ptw' = true, 'mzw' = true, 'tbw' = true}
 
 list_pages = false
 default_theme = "dark"
@@ -48,3 +48,7 @@ bg = '#133762'
 
 [extra.org_styles.ddw]
 bg = '#71171f'
+
+[extra.org_styles.tbw]
+bg = '#0400cd'
+fg = '#8c8d87'
