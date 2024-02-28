@@ -10,7 +10,7 @@ Legends was the third major event by [Prime Time Wrestling](@/o/ptw.md), held on
 
 The event heavily promoted its numerous foreign guests.
 
-By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primate, Trent Seven, Scottish wrestler Joe Hendry, then current IMPACT Digital Media Champion. Two female performers, also from UK were Myla Grace and Xia Brookside, formerly NXT UK competitors. Next, from the United States, Matt Sydal, then performing in AEW. And finally, Samuray Del Sol from Mexico, best known as Kalisto in WWE.
+By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primate, Trent Seven, Scottish wrestler Joe Hendry, then current IMPACT Digital Media Champion. Two female performers, also from UK were Myla Grace and Xia Brookside, formerly NXT UK competitors. Finally, from the United States, Matt Sydal, then performing in AEW, and Samuray Del Sol, best known as Kalisto in WWE.
 
 {% card() %}
 - - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
@@ -24,7 +24,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 - [Santino, {g: true, s: Santino named new co-owner of PTW.}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Robert Star](@/w/robert-star.md)']
 - [Joe Hendry(c), Trent Seven, {c: IMPACT Digital Media Championship}]
-- [Taxi Złotówa, Joe Hendry, {g: true, s: Suspicious Kinguin mascot}]
+- [Taxi Złotówa, Joe Hendry, Arkadiusz Pawłowski, {g: true, s: Suspicious Kinguin mascot}]
 - ['[Sinister](@/w/sinister.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: Last Man Standing Match}]
 - ['[Samson](@/w/samson.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)', {nc: "Samson was not medically cleared"}]
 - ['[Syriusz Dziedzic](@/w/dziedzic.md)', '[Wiktor Longman](@/w/wiktor-longman.md)',
