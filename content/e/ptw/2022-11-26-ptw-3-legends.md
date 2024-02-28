@@ -12,9 +12,6 @@ The event heavily promoted its numerous foreign guests.
 
 By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primate, Trent Seven, Scottish wrestler Joe Hendry, then current IMPACT Digital Media Champion. Two female performers, also from UK were Myla Grace and Xia Brookside, formerly NXT UK competitors. Finally, from the United States, Matt Sydal, then performing in AEW, and Samuray Del Sol, best known as Kalisto in WWE.
 
-#### Build-up
-
-* Joe Hendry produced a [music video](https://www.youtube.com/watch?v=AEIXjgUQgxk), set to Kings of Leon' "Sex On Fire", which documented his journey to Poland, featuring Taxi Złotówa and Gabriel Queen as crude face overlays. He sings about "setting his taxi on fire", and calls Gabriel "the crackhead Harry Potter". It was used as his entrance video.
 
 {% card() %}
 - - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
