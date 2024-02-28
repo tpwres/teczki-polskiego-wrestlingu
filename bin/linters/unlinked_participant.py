@@ -47,10 +47,18 @@ class UnlinkedParticipantError(LintError):
         with self.path.open() as fp:
             card_lines = fp.read()[card.start_offset:card.end_offset]
             rewriter = Rewriter(card_lines)
-            rx = re.compile(rf"\b{re.escape(self.name)}\b")
+            rx = self.prepare_regex(self.name)
             rewriter.add_replacement(UpdateMatch(self.match_index, rx, self.link))
             result = rewriter.rewrite()
             return ReplaceCard(result)
+
+    def prepare_regex(self, text: str) -> re.Pattern:
+       escaped = re.escape(text) 
+       head_alpha, tail_alpha = text[0].isalnum(), text[-1].isalnum()
+       boundary = r'\b'
+
+       return re.compile(f"{boundary if head_alpha else ''}{escaped}{boundary if tail_alpha else ''}")
+
 
 class UnlinkedParticipantLinter:
     def __init__(self):
