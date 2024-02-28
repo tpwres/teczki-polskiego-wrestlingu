@@ -11,7 +11,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
 
   <title>{% block title %}
-    {% if page %}{{ page.title }}{% else %}{{ config.title }}{% endif %}
+    {% if page -%}
+      {{ page.title }}
+    {% elif section -%}
+      {{ section.title }}
+    {% else -%}
+      {{ config.title }}
+    {% endif %}
   {% endblock title %}</title>
   {% block opengraph %}
     <meta property="og:site_name" content="TPW" />
@@ -41,6 +47,7 @@
       <meta property="og:type" content="website" />
       <meta property="og:url" content="{{ get_url(path=section.path) }}" />
       <meta property="og:locale" content="{{ section.lang }}" />
+      <meta property="og:title" content="{{ section.title }}" />
     {% else -%}
       <meta property="og:type" content="website" />
       <meta property="og:url" content="{{ config.base_url }}" />
