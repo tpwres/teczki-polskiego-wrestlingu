@@ -5,7 +5,7 @@ weight = 2
 +++
 
 Total Blast Wrestling was a short-lived organization, that held only two events before disappearing. It was created by Andrzej Supron and Paweł Borkowski,
-after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars.
+after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
 
 ### History
 
