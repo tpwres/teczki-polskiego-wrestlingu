@@ -6,4 +6,39 @@ authors = ["Szymon Iwulski"]
 venue = "tauron"
 +++
 
-PTW X RyuCon, held in Tauron Arena, Kraków, was the first time [PTW](@/o/ptw.md) appeared as part of a fan convention. They partnered with RyuCon, one of the biggest anime/manga conventions, which takes place annually in Kraków. Earlier that same year, [KPW](@/o/kpw.md) made a similar appearance at Poland's biggest fan convention [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md).
+PTW X RyuCon was held in Tauron Arena, Kraków on July 31st, 2022. Tauron is a large venue, the wrestling show was hosted in a smaller side room in the conference section of the arena. The event was not streamed on any official channels.
+
+This was the first time [PTW](@/o/ptw.md) appeared as part of a fan convention.
+They partnered with RyuCon, one of the biggest Polish anime/manga conventions, which takes place annually in Kraków.
+Earlier that same year, [KPW](@/o/kpw.md) made a similar appearance at Poland's biggest fan convention [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md).
+
+For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many independent European organizations. His scheduled opponent was Krampus, but he failed to appear, and was replaced with Marcelito.
+
+{% card() %}
+- ['[Axel Fox](@/w/axel-fox.md)', '[Justin Joy](@/w/justin-joy.md)']
+- ['[Robert Star](@/w/robert-star.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
+- ['[Sinister](@/w/sinister.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)']
+- [Mike D. Vecchio, '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)']
+- - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
+  - "[Disco Pablo](@/w/disco-pablo.md), [Diana Strong](@/w/diana-strong.md)"
+  - s: Tag Team Match
+- [Puncher, { g: true, s: Destroying manga }]
+- ['[Puncher](@/w/puncher.md)', '[Samson](@/w/samson.md)']
+- [Bad Bones, '[Taras](@/w/taras.md)']
+{% end %}
+
+Referees: Sędzia Matek \
+Host, ring announcer, General Manager: Arkadiusz Pawłowski
+
+#### Recap
+
+* In a promo before his match, Puncher teased the audience by showing interest in a manga book. He then proceeded to tear it up and crush the pages, and derided the audience for enjoying it.
+* For this event, unique entrance graphics were used, sometimes with character portraits done in a manga style. Samson altered his entrance routine - instead of entering in his signature military jacket, he wore a headband and a green "forest camo" poncho, with kendo stick in hand.
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=346589)
+* [PTW's Facebook post with results](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02LqWm9jDNp18Bb4rMED5fpwZuQQXeRoWpDFC9vXVSa4BsbEGoBGY12Zd1xy6yHfq2l)
+* [Video recap by Kto Pytał?](https://www.youtube.com/watch?v=cnhTKPqQHg4)
+* [PTW's highlights video](https://www.youtube.com/watch?v=dHyPlu3scNs)
+* [Coverage by local online newssite Gazeta Krakowska](https://gazetakrakowska.pl/krakow-gala-wrestlingu-w-tauron-arenie-czegos-takiego-jeszcze-tu-nie-bylo-zobaczcie-zdjecia-z-imprezy-w-ramach-festiwalu-ryucon/ar/c2-16538037)
