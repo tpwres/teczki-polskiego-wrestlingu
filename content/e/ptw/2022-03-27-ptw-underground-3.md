@@ -1,6 +1,28 @@
 +++
 title = "PTW Underground 3"
 template = "event_page.html"
+authors = ["Szymon Iwulski"]
 [extra]
 venue = "ptw-targowa"
 +++
+
+The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+
+{% card() %}
+- ['[Taras](@/w/taras.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
+- - 'PAKA: [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md), Remo'
+  - s: Tag Team Match
+- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Sinister](@/w/sinister.md)']
+- [Mike D Vecchio, '[Jacob Crane](@/w/jacob-crane.md)']
+- ['[Robert Star](@/w/robert-star.md)', '[Vic Golden](@/w/vic-golden.md)']
+- ['[Justin Joy](@/w/justin-joy.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
+{% end %}
+
+Host, ring announcer, General Manager: Arkadiusz Pawłowski
+
+### References
+
+* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02XZU16Pi5Z2vocppgdCcvGRnuzNb2Z1MPmYtnBdrHqoYdsA4RWiDWxcZTGC1DCyCyl)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=331122)
