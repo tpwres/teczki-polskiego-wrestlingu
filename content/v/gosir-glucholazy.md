@@ -1,9 +1,6 @@
 +++
 title = "GOSiR Głuchołazy"
 template = "venue_page.html"
-[extra]
-year_list_start = 2015
-year_list_end = 2018
 +++
 
 Hala Sportowa GOSiR Głuchołazy (_Community Centre of Sports and Recreation_) is a multipurpose sports hall in [Głuchołazy][glucholazy-wiki]. It was the main venue for [MZW](@/o/mzw.md) before they moved permanently to Wrocław.
