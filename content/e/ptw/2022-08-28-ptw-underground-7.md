@@ -4,3 +4,26 @@ template = "event_page.html"
 [extra]
 venue = "ptw-targowa"
 +++
+
+The seventh [PTW](@/o/ptw.md) Underground show was held on Sunday, August 28th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+
+This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour of Europe, appearing in various smaller promotions. The day before this event, he competed in Helsinki for Slam Wrestling Finland,
+
+{% card() %}
+- ['[Taras](@/w/taras.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Marcelito](@/w/marcelito.md)']
+- ['["Top Gun" Samson](@/w/samson.md)', '[Disco Pablo](@/w/disco-pablo.md)', {nc: "No
+      contest due to Longman run-in"}]
+- ['[Sinister](@/w/sinister.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
+- - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
+  - '"Starboy" Nano Lopez"'
+  - s: Handicap Match
+- ['[Axel Fox](@/w/axel-fox.md)', Herco Wisky]
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Jonny Storm]
+{% end %}
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=348785)
+* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02ZMKmGfBYkiCfbPRYzKqfidLMK8FqMwJSWMyjW41u28DmQGBDhKBXVcWMZ6kRWRLVl)
+* [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-7-pl/2pbtx/)
