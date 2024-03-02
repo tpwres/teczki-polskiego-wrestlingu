@@ -1,6 +1,7 @@
 +++
 title = "PTW Underground 11"
 template = "event_page.html"
+authors = ["Szymon Iwulski"]
 [extra]
 venue = "ptw-targowa"
 +++
