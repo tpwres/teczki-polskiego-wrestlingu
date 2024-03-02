@@ -4,3 +4,32 @@ template = "event_page.html"
 [extra]
 venue = "ptw-targowa"
 +++
+
+The eleventh [PTW](@/o/ptw.md) Underground show was held on Sunday, January 29th 2023, as part of a two-show weekend.
+The show was held in its regular venue, [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+
+Foreign guests for this show included Danish wrestler Emilian Lewis, the Hungarian team of Dover and Icarus, and the French team of masked luchadors Aigle Blanc and Senza Volto.
+This was the only appearance of Aigle Blanc for PTW so far, and the second for Senza Volto who previously appeared at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md).
+
+{% card() %}
+- - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
+  - 'The Bright Lights: [Marcelito](@/w/marcelito.md), [Karol "Iskra" Górski](@/w/iskra.md)'
+  - s: First Round Tag Team Match for the inaugurual PTW Tag Team Championship Tournament
+- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', Emilian Lewis]
+- ['[Rafi Rarytas](@/w/rafi.md)', '[Marco Hammers](@/w/marco-hammers.md)']
+- - 'Arrows of Hungary: [Dover](@/w/dover.md), Icarus'
+  - '[Robert Star](@/w/robert-star.md), [Dawid "Puncher" Seńko](@/w/puncher.md)'
+- ['["Top Gun" Samson](@/w/samson.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
+- ['[Sinister](@/w/sinister.md)', Hunyadi Tamas]
+- - '[Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md)'
+  - 'The Frenchadors: Aigle Blanc, Senza Volto'
+  - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
+{% end %}
+
+Host, ring announcer, General Manager: Arkadiusz Pawłowski
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=358862)
+* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid01ExvLYwtrpoPcbmqFNt1Tr8ZK8dbzftAzSCn6KBzVPjNkDsTrkJEnpFKBmT5gEPWl)
+* [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-11/2pcen/), requires paid subscription
