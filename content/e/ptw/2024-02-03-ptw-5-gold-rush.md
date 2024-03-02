@@ -48,7 +48,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - King Kaiden
   - Sambor
   - Spartan
-  - Taxi Złotówa
+  - TAXI Złotówa
   - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
   - {s: "Gold Rush Rumble", c: "PTW Championship"}

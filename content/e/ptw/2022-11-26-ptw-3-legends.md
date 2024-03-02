@@ -25,7 +25,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 - [Santino, {g: true, s: Santino named new co-owner of PTW.}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Robert Star](@/w/robert-star.md)']
 - [Joe Hendry(c), Trent Seven, {c: IMPACT Digital Media Championship}]
-- [Taxi Złotówa, Joe Hendry, Arkadiusz Pawłowski, {g: true, s: Suspicious Kinguin mascot}]
+- [TAXI Złotówa, Joe Hendry, Arkadiusz Pawłowski, {g: true, s: Suspicious Kinguin mascot}]
 - ['[Sinister](@/w/sinister.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: Last Man Standing Match}]
 - ['[Samson](@/w/samson.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)', {nc: "Samson was not medically cleared"}]
 - ['[Syriusz Dziedzic](@/w/dziedzic.md)', '[Wiktor Longman](@/w/wiktor-longman.md)',
