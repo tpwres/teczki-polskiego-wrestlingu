@@ -1,7 +1,34 @@
-
 +++
 title = "PTW Underground 10"
 template = "event_page.html"
+authors = ["Szymon Iwulski"]
 [extra]
 venue = "ptw-targowa"
 +++
+
+The tenth [PTW](@/o/ptw.md) Underground show was held on Saturday, January 28th 2023, as part of a two-show weekend. The show, initially set for December 18th, 2022, was postponed right before the start (with fans already inside the venue), due to a sudden power outage.
+PTW honored the original tickets for this new date, and announced the two-show weekend as compensation for the fans.
+
+The show was held in its regular venue, [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+
+{% card() %}
+- ['[Axel Fox](@/w/axel-fox.md)', '[Marcelito](@/w/marcelito.md)']
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - El Ogre
+  - s: '[Marco Hammers](@/w/marco-hammers.md) to receive a PTW contract upon winning'
+- ['["Top Gun" Samson](@/w/samson.md)', Emilian Lewis]
+- - 'PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md)'
+  - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Hunyadi Tamas]
+- ['[Vic Golden](@/w/vic-golden.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
+- ['[Justin Joy](@/w/justin-joy.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
+{% end %}
+
+Host, ring announcer, General Manager: Arkadiusz Pawłowski
+
+### References
+
+* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid08Gs77Wt8KX58vvcxK8cF36ChUbrHHQtM8qhGhmWTcqhnjDe6XcsN1hq48RKQpaiAl)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=358861)
+* [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-10/2pcem/), requires paid subscription

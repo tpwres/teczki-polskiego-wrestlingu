@@ -36,8 +36,10 @@ Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 #### Recap
 
+* In a post-match segment, Bad Bones continued to beat Samson with a baseball bat. Security tried to stop him, also got beat down. Pawłowski officially fired Bad Bones.
+
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=348783)
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid037CWAbM8VMpZiAPhmgBWmPpqmEiygdi9S4sj3GtmVzqrH6zUhyDhUmjgpQDjCo6Zkl)
-* [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-9-pl/2pc7e/)
+* [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-9-pl/2pc7e/), requires paid subscription
