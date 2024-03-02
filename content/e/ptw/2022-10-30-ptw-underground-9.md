@@ -16,9 +16,9 @@ This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.
 - - '[Rafi Rarytas](@/w/rafi.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - Matt Miric
-  - Hunyadi Tamas
+  - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
   - Svedberg
-  - El Ogre
+  - '[El Ogre](@/w/el-ogre.md)'
   - Benji
   - Blaze
   - Electra
@@ -28,7 +28,7 @@ This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.
   - {g: true, s: GM Pawłowski reinstates Nano Lopez to the roster}
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Disco Pablo](@/w/disco-pablo.md)']
 - [Spartan, '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- [John "Bad Bones" Klinger, '["Top Gun" Samson](@/w/samson.md)']
+- ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '["Top Gun" Samson](@/w/samson.md)']
 - ['[Justin Joy](@/w/justin-joy.md)', Sam Gradwell]
 {% end %}
 

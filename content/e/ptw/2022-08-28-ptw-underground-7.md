@@ -20,7 +20,7 @@ This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour 
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: Handicap Match
 - ['[Axel Fox](@/w/axel-fox.md)', Herco Wisky]
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Jonny Storm]
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Jonny Storm](@/w/jonny-storm.md)']
 {% end %}
 
 Host, ring announcer, General Manager: Arkadiusz Pawłowski

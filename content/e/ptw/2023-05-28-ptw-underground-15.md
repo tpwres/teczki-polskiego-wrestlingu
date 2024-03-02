@@ -16,9 +16,9 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - ['[Disco Pablo](@/w/disco-pablo.md)', "[Olgierd](@/w/olgierd.md); Karyna"]
 - ['[Diana Strong](@/w/diana-strong.md)', Devlyn Macabre]
 - ['["Top Gun" Samson](@/w/samson.md)', '[Marcelito](@/w/marcelito.md)', {r: DQ}]
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Hunyadi Tamas]
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
 - ['[Taras](@/w/taras.md)', '[Marco Hammers](@/w/marco-hammers.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', El Ogre]
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/el-ogre.md)']
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
 {% end %}
 

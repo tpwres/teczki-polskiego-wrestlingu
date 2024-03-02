@@ -16,7 +16,7 @@ The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Perfor
 - ['[Taras](@/w/taras.md)', '[Axel Fox](@/w/axel-fox.md)', '[Jacob Crane](@/w/jacob-crane.md)',
   {s: Triple Threat Match}]
 - ['[Aron Wake](@/w/aron-wake.md)', '[Vic Golden](@/w/vic-golden.md)']
-- [Jonny Storm, '[Sinister](@/w/sinister.md)']
+- ['[Jonny Storm](@/w/jonny-storm.md)', '[Sinister](@/w/sinister.md)']
 {% end %}
 
 Host, ring announcer, General Manager: Arkadiusz Pawłowski

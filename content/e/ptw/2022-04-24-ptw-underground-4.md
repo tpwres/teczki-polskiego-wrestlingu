@@ -16,7 +16,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
       Count Out"}]
 - [Marius Al-Ani, '[Syriusz Dziedzic](@/w/dziedzic.md)']
 - ['["Top Gun" Samson](@/w/samson.md)', '[Vic Golden](@/w/vic-golden.md)']
-- ['John "Bad Bones" Klinger', '[Disco Pablo](@/w/disco-pablo.md)']
+- ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '[Disco Pablo](@/w/disco-pablo.md)']
 {% end %}
 
 Polish commentary: Arek Paterek, Piotr Małecki \

@@ -21,7 +21,7 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Sędzia Rafał]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Rafi Rarytas](@/w/rafi.md)']
 - ['[Sinister](@/w/sinister.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Robert Star](@/w/robert-star.md)', Hunyadi Tamas]
+- ['[Robert Star](@/w/robert-star.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
 - - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - 'FoxJoy: [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md)'
   - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship

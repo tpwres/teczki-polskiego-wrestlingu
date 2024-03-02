@@ -14,13 +14,13 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 {% card() %}
 - ['[Axel Fox](@/w/axel-fox.md)', '[Marcelito](@/w/marcelito.md)']
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - El Ogre
+  - '[El Ogre](@/w/el-ogre.md)'
   - s: '[Marco Hammers](@/w/marco-hammers.md) to receive a PTW contract upon winning'
 - ['["Top Gun" Samson](@/w/samson.md)', Emilian Lewis]
 - - 'PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md)'
   - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Hunyadi Tamas]
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
 - ['[Vic Golden](@/w/vic-golden.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
 - ['[Justin Joy](@/w/justin-joy.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
 {% end %}

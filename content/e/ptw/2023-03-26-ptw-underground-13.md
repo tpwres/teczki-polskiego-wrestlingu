@@ -18,10 +18,11 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Diana Strong](@/w/diana-strong.md)',
   {s: Intergender Match}]
 - ['[Robert Star](@/w/robert-star.md)', '[Olgierd](@/w/olgierd.md)']
-- [Hunyadi Tamas, '[Syriusz Dziedzic](@/w/dziedzic.md)']
+- ['[Hunyadi Tamas](@/w/hunyadi-tamas.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
 - - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
   - 'Arrows of Hungary: [Dover](@/w/dover.md), Icarus'
-  - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
+  - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship
+      Tournament
 {% end %}
 
 Host, ring announcer, General Manager: Arkadiusz Pawłowski

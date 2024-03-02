@@ -33,7 +33,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marcelito](@/w/marcelito.md)'
-  - Jonny Storm
+  - '[Jonny Storm](@/w/jonny-storm.md)'
   - Cowboy James Storm
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'

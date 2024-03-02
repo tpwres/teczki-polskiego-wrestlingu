@@ -15,7 +15,7 @@ The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022
   - '[Syriusz Dziedzic](@/w/dziedzic.md), Remo'
   - s: Tag Team Match
 - ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Sinister](@/w/sinister.md)']
-- [Mike D Vecchio, '[Jacob Crane](@/w/jacob-crane.md)']
+- [Mike D. Vecchio, '[Jacob Crane](@/w/jacob-crane.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Vic Golden](@/w/vic-golden.md)']
 - ['[Justin Joy](@/w/justin-joy.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
 {% end %}

@@ -11,7 +11,7 @@ This was [PTW's](@/o/ptw.md) return to Ryucon, an anime/manga fan convention hel
 British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fox.md), who was his tag team partner at [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). Also, Italian wrestler [Sam Rogers](@/w/sam-rogers.md) made his PTW debut.
 
 {% card() %}
-- [Jonny Storm, '[Axel Fox](@/w/axel-fox.md)']
+- ['[Jonny Storm](@/w/jonny-storm.md)', '[Axel Fox](@/w/axel-fox.md)']
 - ["[Marco Hammers](@/w/marco-hammers.md); Karyna", "[Boro](@/w/boro.md)"]
 - ['[Syriusz Dziedzic](@/w/dziedzic.md)', '[Marcelito](@/w/marcelito.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', '[Vic Golden](@/w/vic-golden.md)']

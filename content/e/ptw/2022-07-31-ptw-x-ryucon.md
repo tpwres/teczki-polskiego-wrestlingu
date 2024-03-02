@@ -24,7 +24,7 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
   - s: Tag Team Match
 - ['[Puncher](@/w/puncher.md)', {g: true, s: Destroying manga}]
 - ['[Puncher](@/w/puncher.md)', '[Samson](@/w/samson.md)']
-- [Bad Bones, '[Taras](@/w/taras.md)']
+- ['[Bad Bones](@/w/bad-bones.md)', '[Taras](@/w/taras.md)']
 {% end %}
 
 Referees: Sędzia Matek \

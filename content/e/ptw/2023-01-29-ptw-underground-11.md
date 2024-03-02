@@ -21,7 +21,7 @@ This was the only appearance of Aigle Blanc for PTW so far, and the second for S
 - - 'Arrows of Hungary: [Dover](@/w/dover.md), Icarus'
   - '[Robert Star](@/w/robert-star.md), [Dawid "Puncher" Seńko](@/w/puncher.md)'
 - ['["Top Gun" Samson](@/w/samson.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- ['[Sinister](@/w/sinister.md)', Hunyadi Tamas]
+- ['[Sinister](@/w/sinister.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
 - - '[Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md)'
   - 'The Frenchadors: Aigle Blanc, Senza Volto'
   - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament

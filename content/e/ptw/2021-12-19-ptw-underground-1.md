@@ -15,7 +15,7 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 {% card() %}
 - ['[Renegade](@/w/renegade.md)', '[Axel Fox](@/w/axel-fox.md)']
 - ['[Sinister](@/w/sinister.md)', '[Disco Pablo](@/w/disco-pablo.md)']
-- [Remo, Joe E. Legend]
+- [Remo, '[Joe E. Legend](@/w/joe-legend.md)']
 - [Arczi Czajka, '[Gabriel Queen](@/w/gabriel-queen.md)']
 - ['[Nano Lopez](@/w/nano-lopez.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
 {% end %}
