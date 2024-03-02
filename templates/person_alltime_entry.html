@@ -7,7 +7,6 @@
 
   {% set_global used_events = [] %}
   {% set_global i = 1 %}
-  {% if all_my_matches|length < 5 %}
     {% for match in all_my_matches|sort(attribute='d') %}
       {% if not match.o is containing(org) %} {% continue %} {% endif %}
       {% if used_events is containing(match.p) %} {% continue %} {% endif %}
@@ -15,5 +14,4 @@
       {% set_global used_events = used_events|concat(with=match.p) %}
       {% set_global i = i + 1 %}
     {% endfor %}
-  {% endif %}
 {% endif %}
