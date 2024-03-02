@@ -7,6 +7,7 @@ venue = "ptw-targowa"
 +++
 
 The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. It was the first Underground show to be streamed online. The previous 3 shows were only available to the live audience.
+
 {% card() %}
 - ['[Justin Joy](@/w/justin-joy.md)', '[Boro](@/w/boro.md)']
 - ['[Krampus](@/w/krampus.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
@@ -18,6 +19,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 - ['John "Bad Bones" Klinger', '[Disco Pablo](@/w/disco-pablo.md)']
 {% end %}
 
+Polish commentary: Arek Paterek, Piotr Małecki \
 Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 ### References
@@ -25,3 +27,4 @@ Host, ring announcer, General Manager: Arkadiusz Pawłowski
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=339569)
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0LjWVSGt8rsJv7KKzP7P2zQicyy1F7J7QPPHNUm4GPJTkG1jazu6rBru5xrPJVJfHl)
 * [Facebook post with live streaming details](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid098SuDET7KXPW8Qnvtu5FXroWzBERabJMPT5mnXKcfaaM3kJ32tbA5HQVJ8ETYgS2l)
+* [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-4-pl/2pb6t/), requires paid subscription
