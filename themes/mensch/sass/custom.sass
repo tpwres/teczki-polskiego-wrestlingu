@@ -276,9 +276,10 @@ nav svg.link-icon
 
 ul.event-list
   list-style-type: none
+  column-count: 2
 
-  :nth-child(even)
-    background: var(--accent-bg)
+  @media only screen and (max-width: 720px)
+    column-count: 1
 
 ul.talentlist-section
   list-style-type: none
