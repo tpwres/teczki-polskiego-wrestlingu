@@ -19,7 +19,7 @@
     <td>{{loop.index}}</td>
     <td class="p">
       {% if segment %}
-        Segment: {{ talent | join(sep=", ") | markdown(inline=true) | safe }}
+        <strong>Segment:</strong> {{ talent | join(sep=", ") | markdown(inline=true) | safe }}
       {% else %}
         {{ talent | join(sep=sep) | markdown(inline=true) | safe }}
       {% endif %}
