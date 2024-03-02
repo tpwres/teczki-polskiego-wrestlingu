@@ -19,12 +19,18 @@
   .dark-theme-icon
     display: none
 
+  a
+    filter: brightness(120%)
+
 // Light mode colors
 [data-theme="light"]
   @include light-theme
 
   .light-theme-icon
     display: none
+
+  a
+    filter: brightness(90%)
 
 .feather
   width: 32px
