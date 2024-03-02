@@ -7,7 +7,7 @@ venue = "czasoprzestrzen"
 
 {% card() %}
 - ["[Jacob Crane](@/w/jacob-crane.md)", "Apollo Anderson"]
-- ["[Axel Fox](@/w/axel-fox.md)", "Ronny Kessler"]
+- ["[Axel Fox](@/w/axel-fox.md)", "[Ronny Kessler](@/w/ronny-kessler.md)"]
 - ["[Justin Joy](@/w/justin-joy.md)", "[Madman Charlie](@/w/madman-charlie.md)"]
 - ["[Asmund](@/w/asmund.md)", "[Rafael Kid](@/w/rafael-kid.md)", {s: "Tables Match"}]
 - ["[Rick Baxxter](@/w/rick-baxxter.md)", "[Lady Killer](@/w/boro.md)", "[Matt Buckna](@/w/matt-buckna.md)",

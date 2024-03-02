@@ -33,7 +33,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - "[Rafael Kid](@/w/rafael-kid.md)"
   - '[Red Thunder](@/w/red-thunder.md)'
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
-  - Ronny Kessler
+  - '[Ronny Kessler](@/w/ronny-kessler.md)'
   - Ronzen
   - Sebastien
   - "[Skull Evil](@/w/skull-evil.md)"

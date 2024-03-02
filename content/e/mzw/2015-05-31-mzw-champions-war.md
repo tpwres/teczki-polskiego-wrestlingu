@@ -23,7 +23,7 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
   - {c: "Belgium Pro Wrestling Federation Championship", s: "Tag Team Match"}
 - - >
     Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md), Laurance Roman + Catch
-    Connection: [Alexander Reich](@/w/alex-ace.md), Ronny Kessler
+    Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)
   - >
     Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic + [Dynamite
     Dave](@/w/dynamite-dave.md) + Ilja Dragunov
