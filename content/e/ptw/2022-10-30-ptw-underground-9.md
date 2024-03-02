@@ -1,6 +1,43 @@
 +++
 title = "PTW Underground 9"
 template = "event_page.html"
+authors = ["Szymon Iwulski"]
 [extra]
 venue = "ptw-targowa"
 +++
+
+The ninth [PTW](@/o/ptw.md) Underground show was held on Sunday, October 30th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+
+This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). Many foreign wrestlers were present, thrown into a battle royale for a PTW contract. In this match, fans saw the ring debuts of masked luchador El Ogre, Marco Hammers, and Rafi Rarytas. In the main event, British wrestler Sam Gradwell, fresh out of NXT UK, faced Justin Joy.
+
+{% card() %}
+- ['[Taras](@/w/taras.md)', '[Vic Golden](@/w/vic-golden.md)']
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
+- - '[Rafi Rarytas](@/w/rafi.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - Matt Miric
+  - Hunyadi Tamas
+  - Svedberg
+  - El Ogre
+  - Benji
+  - Blaze
+  - Electra
+  - s: PTW Contract Battle Royale
+- ['[Marcelito](@/w/marcelito.md)', '[Dawid "Puncher" Seńko](@/w/puncher.md)']
+- - Arkadiusz Pawłowski
+  - {g: true, s: GM Pawłowski reinstates Nano Lopez to the roster}
+- ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Disco Pablo](@/w/disco-pablo.md)']
+- [Spartan, '[Syriusz Dziedzic](@/w/dziedzic.md)']
+- [John "Bad Bones" Klinger, '["Top Gun" Samson](@/w/samson.md)']
+- ['[Justin Joy](@/w/justin-joy.md)', Sam Gradwell]
+{% end %}
+
+Host, ring announcer, General Manager: Arkadiusz Pawłowski
+
+#### Recap
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=348783)
+* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid037CWAbM8VMpZiAPhmgBWmPpqmEiygdi9S4sj3GtmVzqrH6zUhyDhUmjgpQDjCo6Zkl)
+* [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-9-pl/2pc7e/)
