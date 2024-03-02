@@ -20,23 +20,24 @@ All three championships were defended and two changed hands. The Magnificent Sev
 * [In a vignette][rosetti-vignette], Rosetti cashed in his Chairman's Briefcase match. Coming to the Chairman's office, he presents his match, which Malinowski accepts.
 
 {% card() %}
-- ['[Zefir](@/w/zefir.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', s: "KPW Oldtown #1 Contendership Match"]
+- ['[Zefir](@/w/zefir.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {s: "KPW Oldtown
+      #1 Contendership Match"}]
 - ['[Chemik](@/w/chemik.md)', '[Leon Lato](@/w/leon-lato.md)', {s: Chairs Match}]
 - ['[Rosetti](@/w/rosetti.md)(c)', Ludy Lohan, {c: KPW Oldtown Championship}]
 - - "The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)"
-  - "Die Ordnung: Veit Müller, Hans Schulte"
+  - "Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
   - s: KPW Tag Team Championship
 - [Iestyn Rees, '[Dawid Oliwa](@/w/dawid-oliwa.md)']
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Chemik](@/w/chemik.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
-  - Hans Schulte
+  - '[Hans Schulte](@/w/hans-schulte.md)'
   - Iestyn Rees
   - Ludy Lohan
   - '[Michał Fux](@/w/michal-fux.md)'
   - '[Rosetti](@/w/rosetti.md)'
-  - Veit Müller
+  - '[Veit Müller](@/w/veit-mueller.md)'
   - '[Zefir](@/w/zefir.md)'
   - s: Championship Contract Battle Royal
 - [Red Scorpion, '[Greg](@/w/greg.md)(c)', {c: KPW Championship, r: Submission}]

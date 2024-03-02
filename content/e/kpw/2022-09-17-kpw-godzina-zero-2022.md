@@ -27,7 +27,7 @@ The foreign guests for the event were:
   - Ricky Sky
   - s: "KPW OldTown Championship Contender Four-Way Match"
 - ['[Zefir](@/w/zefir.md)', '[Leon Lato](@/w/leon-lato.md)']
-- - "Die Ordnung: Veit Müller, Hans Schulte"
+- - "Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
   - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "Primate, Tommy Freeman"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
@@ -42,8 +42,8 @@ The foreign guests for the event were:
   - Ricky Sky
   - '[Zefir](@/w/zefir.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
-  - Veit Müller
-  - Hans Schulte
+  - '[Veit Müller](@/w/veit-mueller.md)'
+  - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
   - Primate
   - Tommy Freeman
