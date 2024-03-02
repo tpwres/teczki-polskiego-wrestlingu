@@ -7,8 +7,8 @@ venue = "ptw-targowa"
 +++
 
 The 15th Underground event was the go-home show for [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and, as per FITE billings, the last one to feature Kinguin as titular sponsor.
-It was held in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. The show had two foreign guests: American female wrestler Devlyn Macabre, and Hungarian wrestler Hunyadi Tamas.
-By the time of the event, Devlyn was touring the European independent scene, with three matches in lower-card AEW shows in her resume, while Tamas was often seen teaming with PTW's [Robert Star](@/w/robert-star.md) in Denmark. Devlyn was playing a heel persona, with Rammstein's "Sonne" as her entrance theme.
+It was held in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. The show one new foreign guest: American female wrestler Devlyn Macabre. Devlyn was playing a heel persona, with Rammstein's "Sonne" as her entrance theme.
+By the time of the event, Devlyn was touring the European independent scene, with three matches in lower-card AEW shows in her resume.
 
 {% card() %}
 - ['[Vic Golden](@/w/vic-golden.md)', '[Boro](@/w/boro.md)']
@@ -24,8 +24,8 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 
 Commentary: Piotr "Showoff" Małecki, Arkadiusz Paterek \
 Host, ring announcer, general manager: Arkadiusz Pawłowski \
-Interviews: Tobiasz "Skyver" Korzybski
-Referees: Klaudiusz, Seweryn \
+Interviews: Tobiasz "Skyver" Korzybski \
+Referees: Sędzia Klaudiusz, Sędzia Seweryn \
 
 #### Recap
 
