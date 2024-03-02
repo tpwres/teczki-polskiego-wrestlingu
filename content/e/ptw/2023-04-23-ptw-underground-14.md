@@ -16,12 +16,12 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Rafi Rarytas](@/w/rafi.md)']
 - ["[Olgierd](@/w/olgierd.md); Karyna", Salomon Strid, Noah Charon, {s: Triple Threat
       Match}]
-- ['[Taras](@/w/taras.md)', '"Top Gun" Samson']
+- ['[Taras](@/w/taras.md)', '["Top Gun" Samson](@/w/samson.md)']
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Boro](@/w/boro.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', '[Gabriel Queen](@/w/gabriel-queen.md)',
   {r: Countout}]
 - ["[Krampus](@/w/krampus.md)", "El Ogre"]
-- ['[Justin Joy](@/w/justin-joy.md)', '[Vic Golden](@/w/vic-golden.md)', r: DQ]
+- ['[Justin Joy](@/w/justin-joy.md)', '[Vic Golden](@/w/vic-golden.md)', {r: DQ}]
 {% end %}
 
 #### Recap

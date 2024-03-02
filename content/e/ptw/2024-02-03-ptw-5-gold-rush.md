@@ -21,7 +21,8 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 {% card() %}
 - [Scotty Rawk, Speedball Mike Bailey, {c: "British Wrestling Revolution Championship"}]
 - ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels]
-- ['[Krampus](@/w/krampus.md)', '"Starboy" Nano Lopez', {s: No DQ Match}]
+- ['[Krampus](@/w/krampus.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: No
+      DQ Match}]
 - [PJ Black, Lince Dorado]
 - - "Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)"
   - "PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
