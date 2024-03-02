@@ -6,6 +6,7 @@ venue = "ptw-targowa"
 +++
 
 The 13th monthly Underground show was held on Sunday March 26, 2023 at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+
 The event saw three foreign wrestlers, all from Hungary: the team of [Dover](@/w/dover.md) and Icarus, known as Arrows of Hungary; and Hunyadi Tamas,
 who often teamed with [Robert Star](@/w/robert-star.md) on the European independent circuit, mostly in Denmark.
 
@@ -18,8 +19,9 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
   {s: Intergender Match}]
 - ['[Robert Star](@/w/robert-star.md)', '[Olgierd](@/w/olgierd.md)']
 - [Hunyadi Tamas, '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- ['PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)', 'Arrows of Hungary:
-    [Dover](@/w/dover.md), Icarus', {s: Tag Team Match}]
+- - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
+  - 'Arrows of Hungary: [Dover](@/w/dover.md), Icarus'
+  - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
 {% end %}
 
 Host, ring announcer, General Manager: Arkadiusz Pawłowski
