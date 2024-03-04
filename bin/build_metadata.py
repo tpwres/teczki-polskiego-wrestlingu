@@ -17,6 +17,7 @@ def extract_names(matches: Iterable[Match]) -> set[Name]:
 # Not strictly necessary as the career hash can be used to pull the same info
 def update_years_active(years: dict[str, set[int]], page: Page):
     if not page.card.matches: return
+    if not page.event_date: return
 
     names = extract_names(page.card.matches)
 
@@ -35,6 +36,9 @@ def update_career(career: dict[str, CareerYears], page: Page):
     if not card.matches:
         return
 
+    if not event_date:
+        return
+
     names = extract_names(card.matches)
 
     for person in names:
@@ -44,7 +48,6 @@ def update_career(career: dict[str, CareerYears], page: Page):
         entry = career.setdefault(plain, {})
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
-
 
 def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
     result = left.copy()
@@ -88,7 +91,6 @@ def main():
 
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)
-
 
     with (data_dir / 'years-active.json').open('w') as f:
         print("Saving years active to %s" % f.name)
