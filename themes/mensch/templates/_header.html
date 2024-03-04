@@ -16,14 +16,16 @@
           {% set link_icon = '<svg class="feather link-icon"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
         {% endif %}
         {% if link.path %}
-          <a href="{{ get_url(path=link.path) }}" class="{{ link_class }}">
-             {{ link_icon | safe}}
-             {{ link.name }}
+          <a href="{{ get_url(path=link.path) }}"
+             class="{{ link_class }}"
+             title="{{ link.name }}">
+             {{ link_icon | safe }}
+             <span class="t">{{ link.name }}</span>
           </a>
         {% elif link.url %}
-          <a href="{{link.url}}" class="{{ link_class }}">
+          <a href="{{link.url}}" class="{{ link_class }}" title="{{ link.name }}">
              {{ link_icon | safe }}
-             {{ link.name }}
+             <span class="t">{{ link.name }}</span>
           </a>
         {% endif %}
       </li>
