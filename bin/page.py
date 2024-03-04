@@ -18,9 +18,11 @@ class Page:
         text = path.read_text(encoding='utf-8')
         front_matter = defaults | parse_front_matter(text)
 
-        self.orgs = front_matter['orgs']
-        self.event_date = front_matter['date']
+        self.orgs = front_matter.get('orgs')
+        self.event_date = front_matter.get('date')
         self.event_name = front_matter['title']
+        self.front_matter = front_matter
+        self.path = path
 
         # 3. Find and read the card() block
         self.card = Card(text)
