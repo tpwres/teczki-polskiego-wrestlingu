@@ -1,0 +1,20 @@
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Promotions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for year in years | sort | reverse -%}
+        <tr>
+            <td>{{year}}</td>
+            <td>
+              <div style="display: flex">
+                {{ macros::orgs_stretchy(career=mycareer, year=year, styles=org_styles) }}
+              </div>
+            </td>
+        </tr>
+        {% endfor -%}
+    </tbody>
+</table>

@@ -21,9 +21,9 @@
 {% else %}
     {% set sep = "<strong>d.</strong>" %}
 {% endif %}
-<li class="match">
-    <span class="n">{{loop.index}}</span>
-    <span class="p">
+<tr class="match">
+    <td>{{loop.index}}</td>
+    <td class="p">
         {% if segment %}
           <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others -%}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
         {% else %}
@@ -41,9 +41,9 @@
               - {{ final.nc }}
           {% endif %}
         {% endif %}
-    </span>
-    <span class="c">
+    </td>
+    <td class="c">
         {{ title | markdown(inline=true) | safe }}
         {{ stip | markdown(inline=true) | safe }}
-    </span>
-</li>
+    </td>
+</tr>
