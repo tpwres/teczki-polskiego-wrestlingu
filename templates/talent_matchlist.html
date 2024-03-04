@@ -20,14 +20,14 @@
 {% set appearances = [] %}
 {% set matches_by_date = my_matches | sort(attribute='d') %}
 
-<career>
-    <header>
+<ul class="career">
+    <li class="header">
         <span class="d">Date</span>
         <span class="o">Org</span>
         <span class="r">Details</span>
-    </header>
+    </li>
     {% for match in matches_by_date | reverse %}
-    <entry>
+    <li class="entry">
         <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
         <span class="o">
             {% for org in match.o %}
@@ -40,6 +40,6 @@
             {% set event_path = "@/" ~ match.p %}
             <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
         </span>
-    </entry>
+    </li>
     {% endfor %}
-</career>
+</ul>

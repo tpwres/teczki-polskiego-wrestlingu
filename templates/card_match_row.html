@@ -15,17 +15,17 @@
   {% set nc = false %}
 {% endif %}
 {% set sep = " <strong>vs</strong> " | safe %}
-<tr class="match">
-    <td>{{loop.index}}</td>
-    <td class="p">
+<li class="match">
+    <span class="n">{{loop.index}}</span>
+    <span class="p">
       {% if segment %}
         <strong>Segment:</strong> {{ talent | join(sep=", ") | markdown(inline=true) | safe }}
       {% else %}
         {{ talent | join(sep=sep) | markdown(inline=true) | safe }}
       {% endif %}
-    </td>
-    <td class="c">
+    </span>
+    <span class="c">
         {{ title | markdown(inline=true) | safe }}
         {{ stip | markdown(inline=true) | safe }}
-    </td>
-</tr>
+    </span>
+</li>

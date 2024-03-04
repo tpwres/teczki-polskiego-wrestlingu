@@ -1,0 +1,112 @@
+ul.event-list
+  list-style-type: none
+  column-count: 2
+
+  @media only screen and (max-width: 720px)
+    column-count: 1
+
+ul.talentlist-section
+  list-style-type: none
+  column-count: 2
+  @media only screen and (max-width: 720px)
+    column-count: 1
+
+  li.talent-with-count
+    display: flex
+    justify-content: space-between
+
+ul.column-rule
+  column-rule: solid 1px var(--dark-green)
+
+aside.pagination
+  display: flex
+  justify-content: space-between
+
+.card
+  padding-left: 0
+  display: grid
+  grid-template-rows: auto
+  grid-template-columns: 3em auto minmax(12em, auto)
+
+  .match, .header
+    display: grid
+    grid-template-columns: subgrid
+    grid-template-rows: auto
+    grid-column: span 3
+
+    span
+      padding: 0.1em 0.3em
+
+    .n
+      text-align: right
+
+  .header
+    background: var(--accent-bg)
+    font-weight: bold
+
+  .match:nth-child(odd)
+    background: var(--accent-bg)
+
+@media only screen and (max-width: 720px)
+  .card
+    display: grid
+    grid-template-rows: auto
+    grid-template-columns: 1fr 9fr
+
+    .match, .header
+      display: grid
+      grid-template-columns: subgrid
+      grid-template-rows: auto
+      grid-column: span 2
+      column-gap: 0.3em
+      row-gap: 0
+
+      .p, .c
+        grid-column: 2
+
+details[open] + .card
+    display: none
+
+.career
+  padding-left: 0
+  display: grid
+  grid-template-rows: auto
+  grid-template-columns: 1fr 1fr 8fr
+  gap: 0 0.1em
+
+  .header
+    font-weight: bold
+    border-bottom: 1px solid var(--dark-gray)
+
+  .entry, .header
+    display: grid
+    grid-template-columns: subgrid
+    grid-template-rows: auto
+    grid-column: span 3
+    column-gap: 0.3em
+    row-gap: 0
+
+  .entry:nth-child(odd)
+    background: var(--accent-bg)
+
+@media only screen and (max-width: 720px)
+  .career
+    display: grid
+    grid-template-rows: auto
+    grid-template-columns: 1fr 8fr
+    align-items: stretch
+
+    .header, .entry
+      grid-template-columns: subgrid
+      grid-template-rows: 1lh auto
+      grid-column: span 2
+
+      .d
+        grid-column: 1
+
+      .o
+        grid-column: 1
+
+      .r
+        grid-column: 2
+        grid-row: 1 / span 2
