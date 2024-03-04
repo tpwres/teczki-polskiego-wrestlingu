@@ -20,30 +20,26 @@
 {% set appearances = [] %}
 {% set matches_by_date = my_matches | sort(attribute='d') %}
 
-<table>
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Org</th>
-            <th>Details</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for match in matches_by_date | reverse %}
-        <tr>
-            <td style="white-space: nowrap">{{ match.d }}</td>
-            <td>
-                {% for org in match.o %}
-                  {{ macros::promolink_color(code=org, styles=org_styles) }}
-                {% endfor %}
-            </td>
-            {% set row = match.m %}
-            <td>
-                {% include "career_result_row.html" %}
-                {% set event_path = "@/" ~ match.p %}
-                <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
-            </td>
-        </tr>
-        {% endfor %}
-    </tbody>
-</table>
+<career>
+    <header>
+        <span class="d">Date</span>
+        <span class="o">Org</span>
+        <span class="r">Details</span>
+    </header>
+    {% for match in matches_by_date | reverse %}
+    <entry>
+        <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
+        <span class="o">
+            {% for org in match.o %}
+              {{ macros::promolink_color(code=org, styles=org_styles) }}
+            {% endfor %}
+        </span>
+        {% set row = match.m %}
+        <span class="r">
+            {% include "career_result_row.html" %}
+            {% set event_path = "@/" ~ match.p %}
+            <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
+        </span>
+    </entry>
+    {% endfor %}
+</career>

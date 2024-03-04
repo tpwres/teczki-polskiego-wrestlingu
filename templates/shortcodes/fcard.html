@@ -10,77 +10,24 @@
     <summary>Toggle results</summary>
     <card>
         <header>
-            <span>No.</span>
+            <span class="n">No.</span>
             <span class="p">Results</span>
-            <span class="c">Stipulations</span>
+            <span class="c">Details</span>
         </header>
     {% for row in data %}
-        {% set final = row | last %}
-        {% set winner = row | first %}
-        {% if final is object %}
-          {% set others = row | slice(start=1, end=-1) %}
-          {% set title = final | get(key="c", default="") %}
-          {% set stip = final | get(key="s", default="") %}
-        {% else %}
-          {% set others = row | slice(start=1) %}
-          {% set title = "" %}
-          {% set stip = "" %}
-        {% endif %}
-        {% if final is object and final.nc %}
-          {% set sep = "vs" %}
-        {% else %}
-          {% set sep = "d." %}
-        {% endif %}
-        <match>
-            <span>{{loop.index}}</span>
-            <span class="p">
-                {{ winner | markdown(inline=true) | safe }}
-                {{ sep }}
-                {{ others | join(sep=" and ") | markdown(inline=true) | safe }}
-                {% if final is object %}
-                    {% if final.r %}
-                        via {{ final.r }}
-                    {% elif final.nc %}
-                        - {{ final.nc }}
-                    {% endif %}
-                {% endif %}
-            </span>
-            <span class="c">
-                {{ title | markdown(inline=true) | safe }}
-                {{ stip }}
-            </span>
-        </match>
-        {% endfor %}
+      {% include "fcard_result_row.html" %}
+    {% endfor %}
     </card>
 </details>
 {% endif %}
 
 <card>
     <header>
-        <span>No.</span>
+        <span class="n">No.</span>
         <span class="p">Participants</span>
-        <span class="c">Stipulations</span>
+        <span class="c">Details</span>
     </header>
-{% for row in data %}
-    {% set final = row | last %}
-    {% if final is object %}
-      {% set talent = row | slice(end=-1) | sort %}
-      {% set title = final | get(key="c", default="") %}
-      {% set stip = final | get(key="s", default="") %}
-    {% else %}
-      {% set talent = row | sort %}
-      {% set title = "" %}
-      {% set stip = "" %}
-    {% endif %}
-    <match>
-        <span>{{loop.index}}</span>
-        <span class="p">
-            {{ talent | join(sep=" vs ") | markdown(inline=true) | safe }}
-        </span>
-        <span class="c">
-            {{ title | markdown(inline=true) | safe }}
-            {{ stip }}
-        </span>
-    </match>
+    {% for row in data %}
+        {% include "fcard_match_row.html" %}
     {% endfor %}
 </card>
