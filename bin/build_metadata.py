@@ -1,37 +1,37 @@
 #! /usr/bin/env python3
 
-import re
 from pathlib import Path
-from datetime import datetime
 from collections import Counter
 from articles import load_names_with_aliases
 import json
 from functools import reduce
 from typing import Iterable, cast
-from utils import parse_front_matter, RichEncoder, accepted_name
-from card import Card, Match, Name
+from utils import RichEncoder, accepted_name
+from card import Match, Name
+from page import Page
 
 def extract_names(matches: Iterable[Match]) -> set[Name]:
     initial: set[Name] = set([])
     return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], initial)
 
 # Not strictly necessary as the career hash can be used to pull the same info
-def update_years_active(years: dict[str, set[int]], card: Card, front_matter: dict[str, object]):
-    if not card.matches: return
+def update_years_active(years: dict[str, set[int]], page: Page):
+    if not page.card.matches: return
 
-    names = extract_names(card.matches)
-    event_date = cast(datetime, front_matter['date'])
+    names = extract_names(page.card.matches)
 
     for person in names:
         if not accepted_name(person.name): continue
-        years.setdefault(person.name, set()).add(event_date.year)
+        years.setdefault(person.name, set()).add(page.event_date.year)
 
 OrgYears = dict[str, int]
 CareerYears = dict[int, OrgYears]
 
-def update_career(career: dict[str, CareerYears], card: Card, front_matter: dict[str, object]):
-    event_date = cast(datetime, front_matter['date'])
-    orgs = cast(list[str], front_matter['orgs'])
+def update_career(career: dict[str, CareerYears], page: Page):
+    event_date = page.event_date
+    orgs = page.orgs
+    card = page.card
+
     if not card.matches:
         return
 
@@ -69,29 +69,20 @@ def merge_aliases(career: dict[str, CareerYears]):
 def main():
     years_active = {}
     career = {}
-    date_org_re = re.compile(r'^\d{4}-\d{2}-\d{2}-(\w+)-')
     cwd = Path.cwd()
 
     events_dir = cwd / "content/e"
     # Omit _index.md pages
     event_pages = events_dir.glob("**/????-??-??-*.md")
 
-    for page in event_pages:
-        print("Loading %s" % page)
-        page_date = datetime.strptime(page.stem[:10], "%Y-%m-%d").date()
-
-        defaults = { 'date': page_date, 'org': None }
-        if org_match := date_org_re.match(page.stem):
-            defaults['orgs'] = org_match.group(1).split('_')
-
-        text = page.read_text(encoding='utf-8')
-        front_matter = defaults | parse_front_matter(text)
-        card = Card(text)
+    for path in event_pages:
+        page = Page(path)
+        card = page.card
         if not card.matches:
             print("No card available, skipping")
             continue
-        update_years_active(years_active, card, front_matter)
-        update_career(career, card, front_matter)
+        update_years_active(years_active, page)
+        update_career(career, page)
 
     merge_aliases(career)
 

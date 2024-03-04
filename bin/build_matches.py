@@ -1,11 +1,11 @@
 #! /usr/bin/env python3
 
 import re
-from utils import parse_front_matter, accepted_name
-from card import Card, Match
+from utils import accepted_name
+from card import Match
+from page import Page
 from pathlib import Path
-from dataclasses import dataclass
-from datetime import datetime, date
+from datetime import date
 import json
 
 class MatchEncoder(json.JSONEncoder):
@@ -27,34 +27,19 @@ def main():
     events_dir = content_dir / "e"
     event_pages = events_dir.glob("**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
-    date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
     i = 0
-    for page in event_pages:
-        print("Loading %s" % page)
-        defaults = {}
-        if m := date_org_re.match(page.stem):
-            defaults['orgs'] = m.group('orgs').split('_')
-            defaults['date'] = datetime.strptime(m.group('date'), '%Y-%m-%d').date()
+    for path in event_pages:
+        page = Page(path)
+        if not page.card.matches: continue
 
-        text = page.read_text(encoding='utf-8')
-        front_matter = defaults | parse_front_matter(text)
-
-        orgs = front_matter['orgs']
-        event_date = front_matter['date']
-        event_name = front_matter['title']
-
-        # 3. Find and read the card() block
-        card = Card(text)
-        if not card.matches: continue
-
-        for bout in card.matches:
+        for bout in page.card.matches:
             all_bouts.append(
                 dict(
-                    d=event_date,
-                    o=orgs,
-                    n=event_name,
+                    d=page.event_date,
+                    o=page.orgs,
+                    n=page.event_name,
                     m=bout,
-                    p=page.relative_to(content_dir).as_posix()
+                    p=path.relative_to(content_dir).as_posix()
                 )
             )
             for person in bout.all_names():

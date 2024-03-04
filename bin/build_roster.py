@@ -1,12 +1,11 @@
 #! /usr/bin/env python3
 
 from pathlib import Path
-import re
-from utils import parse_front_matter, accepted_name
-from card import Card, Fighter, Manager
+from utils import accepted_name
 import json
 from collections import Counter
 from functools import reduce
+from page import Page
 
 def main():
     org_rosters = {}
@@ -15,29 +14,22 @@ def main():
     events_dir = cwd / "content/e"
     event_pages = events_dir.glob("**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
-    org_re = re.compile(r'^[-\d]+-([^-]+)')
-    for page in event_pages:
-        print("Loading %s" % page)
-        defaults = {}
-        if org_match := org_re.match(page.stem):
-            defaults['orgs'] = org_match.group(1).split('_')
+    for path in event_pages:
+        page = Page(path)
 
-        text = page.read_text(encoding='utf-8')
-        front_matter = defaults | parse_front_matter(text)
-
-        orgs = front_matter['orgs']
         # 3. Find and read the card() block
-        card = Card(text)
+        card = page.card
         if not card.matches: continue
 
         # 4. Grab all talent names in that block
         names = [person for person in extract_names(card.matches) if accepted_name(person.name)]
         # 5. Add to a set of names for relevant orgs
-        for org in orgs:
+        for org in page.orgs:
             roster = org_rosters.setdefault(org, Counter())
             roster.update(names)
 
     data_dir = cwd / "data"
+    data_dir.mkdir(exist_ok=True)
     # 6. At the end, sanitize the set: remove duplicates where one is a md link and the other isn't, keeping the link.
     for org, roster in org_rosters.items():
         roster = sanitize_roster(roster)
