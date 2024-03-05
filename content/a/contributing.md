@@ -1,5 +1,6 @@
 +++
 title = "Contributing"
+weight = 0
 +++
 
 TPW would not exist if not for the wealth of mostly unorganized information out there. That's why it needs collaborators! You are welcome to contribute your knowledge, correct mistakes, and supply new sources and references.
