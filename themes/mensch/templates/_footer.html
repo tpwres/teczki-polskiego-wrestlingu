@@ -1,14 +1,12 @@
 <footer>
-  {% if page %}
-    {{ issues::authors(authors=page.authors) }}
+  {%- if page -%}
+    {{- issues::authors(authors=page.authors) }}
     <p>Is this page incorrect? Do you have extra information? <a href="{{ issues::new_issue(path=page.relative_path, title=page.title) }}">Submit an issue!</a></p>
-  {% endif %}
+  {%- endif %}
   <p>Created with
     <a href="https://github.com/getzola/zola">zola</a>,
     the <a href="https://github.com/wilsonjholmes/mensch">mensch theme</a>,
-    {% if config.extra.cloudflare %}
-      Cloudflare Pages,
-    {% endif %}
+    {% if config.extra.cloudflare %}Cloudflare Pages,{% endif %}
     and lots of ☕</p>
 </footer>
 
@@ -44,4 +42,3 @@ if (currentTheme) {
   }
 }
 </script>
-

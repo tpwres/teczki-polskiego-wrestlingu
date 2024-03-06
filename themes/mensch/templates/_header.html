@@ -8,28 +8,28 @@
   </div>
   <div class="nav-right">
     <ul class="nav-right-list">
-      {% for link in config.extra.mensch_links %}
+      {% for link in config.extra.mensch_links -%}
       <li class="nav-right-item">
         {% set link_class = link | get(key='class', default='') -%}
         {% set link_icon = '' %}
-        {% if link.icon %}
+        {% if link.icon -%}
           {% set link_icon = '<svg class="feather link-icon"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
-        {% endif %}
-        {% if link.path %}
+        {% endif -%}
+        {% if link.path -%}
           <a href="{{ get_url(path=link.path) }}"
              class="{{ link_class }}"
              title="{{ link.name }}">
              {{ link_icon | safe }}
              <span class="t">{{ link.name }}</span>
           </a>
-        {% elif link.url %}
+        {% elif link.url -%}
           <a href="{{link.url}}" class="{{ link_class }}" title="{{ link.name }}">
              {{ link_icon | safe }}
              <span class="t">{{ link.name }}</span>
           </a>
-        {% endif %}
+        {% endif -%}
       </li>
-      {% endfor %}
+      {% endfor -%}
       <li>
         <a id="darkmodetoggle" onclick="switchTheme()" aria-label="Change theme">
           <svg class="feather dark-theme-icon" title="Moon icon">

@@ -1,5 +1,5 @@
-{% set flag = name_to_flag|get(key=person_name, default='') %}
-{% if flag %}
-  {{ flag_dict|get(key=flag|upper, default='') }}
-{% endif %}
+{% set flag = name_to_flag|get(key=person_name, default='') -%}
+{% if flag -%}
+  {{ flag_dict|get(key=flag|upper, default='') -}}
+{% endif -%}
 <span style="margin-inline-end: 0.25em">{{ person_name }}</span>

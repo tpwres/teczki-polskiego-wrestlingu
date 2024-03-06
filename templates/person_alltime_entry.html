@@ -1,17 +1,16 @@
-{% if appearances_entry and career_entry %}
-  {% set_global all_my_matches = [] %}
-  {% for app in appearances_entry %}
-    {% set match = all_matches[app] %}
-    {% set_global all_my_matches = all_my_matches | concat(with=match) %}
-  {% endfor %}
-
-  {% set_global used_events = [] %}
-  {% set_global i = 1 %}
-    {% for match in all_my_matches|sort(attribute='d') %}
-      {% if not match.o is containing(org) %} {% continue %} {% endif %}
-      {% if used_events is containing(match.p) %} {% continue %} {% endif %}
-      <a href="{{ get_url(path="@/" ~ match.p) }}">[{{ i }}]</a>
-      {% set_global used_events = used_events|concat(with=match.p) %}
-      {% set_global i = i + 1 %}
-    {% endfor %}
-{% endif %}
+{%- if appearances_entry and career_entry -%}
+  {% set_global all_my_matches = [] -%}
+  {% for app in appearances_entry -%}
+    {% set match = all_matches[app] -%}
+    {% set_global all_my_matches = all_my_matches | concat(with=match) -%}
+  {% endfor -%}
+  {%- set_global used_events = [] -%}
+  {%- set_global i = 1 -%}
+  {% for match in all_my_matches|sort(attribute='d') -%}
+    {% if not match.o is containing(org) -%} {% continue %} {%- endif -%}
+    {% if used_events is containing(match.p) -%} {% continue %} {%- endif -%}
+    <a href="{{ get_url(path="@/" ~ match.p) }}">[{{ i }}]</a>
+    {% set_global used_events = used_events|concat(with=match.p) -%}
+    {% set_global i = i + 1 -%}
+  {% endfor -%}
+{%- endif -%}

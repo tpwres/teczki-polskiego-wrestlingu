@@ -1,59 +1,59 @@
-{% set org_styles = config.extra.org_styles %}
-{% set career_dict = load_data(path="data/career.json") %}
-{% set appearances = load_data(path="data/appearances.json") %}
-{% set all_matches = load_data(path="data/all_matches.json") %}
-{% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
-{% set flag_dict = load_data(path="const/flags-by-code.json") %}
+{% set org_styles = config.extra.org_styles -%}
+{% set career_dict = load_data(path="data/career.json") -%}
+{% set appearances = load_data(path="data/appearances.json") -%}
+{% set all_matches = load_data(path="data/all_matches.json") -%}
+{% set name_to_flag = load_data(path="const/name-to-flag.yaml") -%}
+{% set flag_dict = load_data(path="const/flags-by-code.json") -%}
 
 {% set path = "data/roster_" ~ page.slug ~ ".json" -%}
 {% set roster = load_data(path=path, required=false) -%}
-{% if not roster %}
-{% set roster = [] | group_by(attribute="none") %}
-{% endif %}
+{% if not roster -%}
+{% set roster = [] | group_by(attribute="none") -%}
+{% endif -%}
 
-{% set_global rx = [] %}
-{% for name, count in roster %}
-{% set pair = [name, count] %}
-{% set_global rx = rx | concat(with=[pair]) %}
-{% endfor %}
+{% set_global rx = [] -%}
+{% for name, count in roster -%}
+{% set pair = [name, count] -%}
+{% set_global rx = rx | concat(with=[pair]) -%}
+{% endfor -%}
 
 <h2>All-time roster</h2>
 
 <ul class="talentlist-section column-rule">
 {# With a stable sort, this results in results sorted by count desc,
     but items with equal count are sorted alphabetically #}
-{% for pair in rx|sort(attribute='0')|reverse|sort(attribute='1')|reverse %}
-  {% set_global pname = pair[0] %}
+{% for pair in rx|sort(attribute='0')|reverse|sort(attribute='1')|reverse -%}
+  {% set_global pname = pair[0] -%}
   <li class="talent-with-count">
     <span>
-      {% if pname is containing('](') %}{# A markdown link to the talent's page #}
-        {# The split pattern combines extracting the markdown link part, with stripping the leading root path #}
-        {% set name_with_link = pname | split(pat="](@/") %}
-        {# Extract name #}
-        {% set_global person_name = name_with_link | first | trim_start_matches(pat="[") %}
-        {# Load person's page using the link #}
-        {% set link = name_with_link | last | trim_end_matches(pat=")") %}
-        {% set page = get_page(path=link) %}
-          {# Now we can reuse person_with_flag #}
-          {# But first, check if this is an alias #}
-          {% if page.extra.career_name %}
-            {% if person_name != page.extra.career_name %}
-              {% set_global person_name = '<em>' ~ person_name ~ '</em>' %}
-            {% endif %}
-          {% elif person_name != page.title %}
-            {% set_global person_name = '<em>' ~ person_name ~ '</em>' %}
-          {% endif %}
-          {% include "person_with_flag.html" %}
-      {% else %}
-        {% set_global person_name = pname %}
-        {% set_global appearances_entry = appearances|get(key=pname) %}
-        {% set_global career_entry = career_dict|get(key=pname) %}
-        {% set_global org = page.slug %}
-        {% include "unlinked_person.html" %}
-        {% include "person_alltime_entry.html" %}
-      {% endif %}
+      {%- if pname is containing('](') -%}{# A markdown link to the talent's page -#}
+        {# The split pattern combines extracting the markdown link part, with stripping the leading root path -#}
+        {% set name_with_link = pname | split(pat="](@/") -%}
+        {# Extract name -#}
+        {% set_global person_name = name_with_link | first | trim_start_matches(pat="[") -%}
+        {# Load person's page using the link -#}
+        {% set link = name_with_link | last | trim_end_matches(pat=")") -%}
+        {% set page = get_page(path=link) -%}
+        {# Now we can reuse person_with_flag -#}
+        {# But first, check if this is an alias -#}
+        {%- if page.extra.career_name -%}
+          {%- if person_name != page.extra.career_name -%}
+            {%- set_global person_name = '<em>' ~ person_name ~ '</em>' -%}
+          {%- endif -%}
+        {%- elif person_name != page.title -%}
+          {%- set_global person_name = '<em>' ~ person_name ~ '</em>' -%}
+        {%- endif -%}
+        {%- include "person_with_flag.html" -%}
+      {%- else -%}
+        {%- set_global person_name = pname -%}
+        {%- set_global appearances_entry = appearances|get(key=pname) -%}
+        {%- set_global career_entry = career_dict|get(key=pname) -%}
+        {%- set_global org = page.slug -%}
+        {%- include "unlinked_person.html" -%}
+        {%- include "person_alltime_entry.html" -%}
+      {%- endif -%}
     </span>
     <strong>{{pair[1]}}</strong>
   </li>
-{% endfor %}
+{% endfor -%}
 </ul>
