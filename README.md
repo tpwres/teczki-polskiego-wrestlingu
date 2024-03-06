@@ -1,6 +1,6 @@
 # Tales of Polish Wrestling
 
-Live site: https://teczki-polskiego-wrestlingu.pages.dev 
+Live site: https://tpwres.pl
 
 ![Static Badge](https://img.shields.io/badge/hosted_with-Cloudflare_Pages-orange)
 
