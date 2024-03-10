@@ -29,9 +29,12 @@
   {% if venue_events_thisyear | length == 0 -%}{% continue %}{% endif %}
 
   <h3>{{ thisyear }}</h3>
-  <ul>
+  <ul class="event-list">
     {% for event_page in venue_events_thisyear | sort(attribute="date") | reverse -%}
-      <li><a href="{{ get_url(path=event_page.path) }}">{{ event_page.date | date(format="%Y-%m-%d") }} {{ event_page.title }}</a></li>
+      <li>
+        {% set dt = event_page.date | date(format="%Y-%m-%d") -%}
+        <time datetime="{{ dt }}">{{ dt }}</time>
+        <a class="nu" href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a></li>
     {% endfor -%}
   </ul>
 {% endfor %}
