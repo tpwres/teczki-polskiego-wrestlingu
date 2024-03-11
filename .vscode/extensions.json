@@ -4,6 +4,7 @@
         "kevinrose.vsc-python-indent",
         "ms-python.python",
         "samuelcolvin.jinjahtml",
-        "github.vscode-pull-request-github"
+        "github.vscode-pull-request-github",
+        "ms-vscode-remote.remote-containers"
     ]
 }
