@@ -9,6 +9,10 @@
 
 {{ page.content | safe }}
 
+{% if page.extra.gallery -%}
+  {% include "auto_lightbox.html" -%}
+{% endif -%}
+
 {% if not page.extra.omit_career -%}
   <h2>Career</h2>
   {% include "career.html" %}

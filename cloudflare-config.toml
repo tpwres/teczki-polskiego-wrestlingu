@@ -37,6 +37,7 @@ mensch_links = [
 ]
 mensch_theme = "theme-base-0e"
 cloudflare = true
+gallery_root = "https://i.tpwres.pl"
 
 [extra.org_styles.ppw]
 bg = '#5b007e'

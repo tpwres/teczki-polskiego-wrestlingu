@@ -3,30 +3,6 @@ title = "Prime Time Wrestling"
 weight = 4
 template = "org_page.html"
 authors = ["Szymon Iwulski"]
-[extra]
-[extra.gallery]
-1 = { path = 'jj1.png', caption = 'Hello' }
-2 = { path = 'jj2.png'}
-3 = { path = 'jj3.png'}
-4 = { path = 'jj4.png'}
-5 = { path = 'jj5.png'}
-6 = { path = 'jj6.png'}
-7 = { path = 'jj7.png'}
-8 = { path = 'jj8.png'}
-9 = { path = 'jj9.png'}
-10 = { path = 'jj10.png'}
-11 = { path = 'jj11.png'}
-12 = { path = 'jj12.png'}
-13 = { path = 'jj13.png'}
-14 = { path = 'jj14.png'}
-15 = { path = 'jj15.png'}
-16 = { path = 'jj16.png'}
-17 = { path = 'jj17.png'}
-18 = { path = 'jj18.png'}
-19 = { path = 'jj19.png'}
-20 = { path = 'jj20.png'}
-21 = { path = 'jj21.png'}
-22 = { path = 'jj22.png'}
 +++
 
 ### History
