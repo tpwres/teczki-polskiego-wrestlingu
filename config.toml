@@ -26,7 +26,6 @@ new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new
 # Add an org here if it has its own subdirectory under e/
 org_events_dir = {'ddw' = true, 'kpw' = true, 'ptw' = true, 'mzw' = true, 'tbw' = true}
 
-
 list_pages = false
 default_theme = "dark"
 mensch_links = [
@@ -37,6 +36,8 @@ mensch_links = [
   { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub", icon="github" }
 ]
 mensch_theme = "theme-base-0e"
+
+gallery_root = "/i"
 
 [extra.org_styles.ppw]
 bg = '#5b007e'

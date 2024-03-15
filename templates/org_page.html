@@ -11,9 +11,13 @@
 
 <h2>Events</h2>
 
-{% include "orgs_events.html" %}
+{% include "orgs_events.html" -%}
 
-{% include "all_time_roster.html" %}
+{% include "all_time_roster.html" -%}
+
+{% if page.extra.gallery -%}
+  {% include "auto_gallery.html" %}
+{% endif -%}
 
 {% endblock content %}
 

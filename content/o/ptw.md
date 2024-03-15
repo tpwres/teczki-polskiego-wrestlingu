@@ -4,7 +4,29 @@ weight = 4
 template = "org_page.html"
 authors = ["Szymon Iwulski"]
 [extra]
-year_list_start = 2021
+[extra.gallery]
+1 = { path = 'jj1.png', caption = 'Hello' }
+2 = { path = 'jj2.png'}
+3 = { path = 'jj3.png'}
+4 = { path = 'jj4.png'}
+5 = { path = 'jj5.png'}
+6 = { path = 'jj6.png'}
+7 = { path = 'jj7.png'}
+8 = { path = 'jj8.png'}
+9 = { path = 'jj9.png'}
+10 = { path = 'jj10.png'}
+11 = { path = 'jj11.png'}
+12 = { path = 'jj12.png'}
+13 = { path = 'jj13.png'}
+14 = { path = 'jj14.png'}
+15 = { path = 'jj15.png'}
+16 = { path = 'jj16.png'}
+17 = { path = 'jj17.png'}
+18 = { path = 'jj18.png'}
+19 = { path = 'jj19.png'}
+20 = { path = 'jj20.png'}
+21 = { path = 'jj21.png'}
+22 = { path = 'jj22.png'}
 +++
 
 ### History
@@ -48,6 +70,7 @@ The first set of tapings was announced for September 29th 2023, emanating from C
 On December 4th 2023, both PTW and WWA [announced][wwa-announcement] that WWA has now become a part of PTW.
 
 The initial name for the this merged promotion was "PTW: WWA" (also stylized as "PTW presents: WWA"), but the organization soon adopted "PTW German" as their [social media name](https://www.facebook.com/ptwwrestlingdeutsch). In addition to covering their own shows, this account reposted PTW's updates concerning events in Poland, but translated to German.
+
 ### References
 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
