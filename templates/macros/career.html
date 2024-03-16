@@ -9,11 +9,10 @@
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
   {% set org_path = "@/o/" ~ code ~ ".md" -%}
   <div title="{{ hint_text }}">
-    <a href="{{ get_url(path=org_path) }}" class="nu"
+    <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
        style="background: {{ style|get(key='bg', default='#000') }};
               color: {{ style|get(key='fg', default='#fff') }};
-              padding: 0 0.25em;
-              font-weight: bold;">
+              ">
        {{ style|get(key='text', default=code|upper) }}
    </a>
   </div>
@@ -23,12 +22,10 @@
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
   {% set org_path = "@/o/" ~ code ~ ".md" -%}
   <div title="{{ hint_text }}" style="display: inline-block">
-    <a href="{{ get_url(path=org_path) }}" class="nu"
+    <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
        style="background: {{ style|get(key='bg', default='#000') }};
               color: {{ style|get(key='fg', default='#fff') }};
-              padding: 0 0.25em;
-              margin-inline-end: 0.25em;
-              font-weight: bold;">
+              ">
        {{ style|get(key='text', default=code|upper) }}
    </a>
   </div>
