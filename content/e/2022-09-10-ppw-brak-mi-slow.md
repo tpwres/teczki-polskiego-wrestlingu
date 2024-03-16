@@ -3,17 +3,24 @@ title = "PpW Brak Mi Słów"
 template = "event_page.html"
 [extra]
 venue="waldorffa25"
-hide_results=true
 +++
 
-* [Facebook event](https://www.facebook.com/events/5539714666051167/)
-
 {% card() %}
-- ["[Bill Feager](@/w/feager.md)", "[Osamu](@/w/osamu.md)", {nc: "?"}]
-- ["[Adam Wong](@/w/adam-wong.md)", "Feyyaz Aguila", {nc: "?"}]
-- ["[Isnorr](@/w/isnorr.md)", {s: "Open Challenge", nc: "?"}]
-- ["[Jacob Crane](@/w/jacob-crane.md)", "[Steve Kuningas](@/w/steve-kuningas.md)"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Mister Z](@/w/mister-z.md)", {c: "[PpW Championship](@/o/ppw.md#championships)"}]
-- ["[Johnny Blade](@/w/johnny-blade.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
-  {c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)"}]
+- ["[Bill Feager](@/w/feager.md)", "[Osamu](@/w/osamu.md)"]
+- ["Feyyaz Aguila", "[Adam Wong](@/w/adam-wong.md)"]
+- ["[Isnorr](@/w/isnorr.md)", "[Rafael Kid](@/w/rafael-kid.md)", {s: "Open Challenge"}]
+- ["[Steve Kuningas](@/w/steve-kuningas.md)", "[Jacob Crane](@/w/jacob-crane.md)"]
+- - "[Biesiad Strong](@/w/biesiad.md)(c)"
+  - "[Mister Z](@/w/mister-z.md)"
+  - {c: "[PpW Championship](@/o/ppw.md#championships)", s: Hardcore Match}
+- - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+  - "[Johnny Blade](@/w/johnny-blade.md)"
+  - "Viking"
+  - {c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)", s: "Three Way Match"}
+- ["Viking", "Johnny Blade(c)", { c: VcV Hardcore Championship }]
 {% end %}
+
+### References
+
+* [Facebook event](https://www.facebook.com/events/5539714666051167/)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383860)
