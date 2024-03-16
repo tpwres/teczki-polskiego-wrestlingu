@@ -8,7 +8,7 @@ hide_results = true
 
 PTW Underground 21 is an upcoming event by [Prime Time Wrestling](@/o/ptw.md). It will be held on Saturday, April 13, 2024. The initial posts stated that the event will be held in Gliwice, a city in the Silesian Metropolis. However, fans who bought tickets, surprised at the actual venue location, asked for confirmation on social media. PTW confirmed the location to be in Kozłów, a village about 10km west of Gliwice.
 
-The venue is listed as Dworek Pod Platanami, which is a hotel and restaurant, primarily organizing weddings. However, it neighbors a set of sport facilities - tennis courts and an indoor beach basketball court, which _may_ be the actual venue.
+The venue is listed as Dworek Pod Platanami, which is a hotel and restaurant, primarily organizing weddings. However, it neighbors a set of sport facilities - tennis courts and an indoor beach volleyball court, which _may_ be the actual venue.
 
 It will be the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). According to PTW's announcement post, Underground shows will move permanently to Saturday, and to a new location. This is likely to what the "new season" in the promotional material for [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) referred to.
 
