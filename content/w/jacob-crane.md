@@ -6,7 +6,7 @@ career_aliases = ["Kuba Kamiński"]
 country_flag = "PL"
 [extra.gallery]
 1 = { path = "ptw_dismissal.jpg", caption = "PTW firing Jacob Crane."}
-2 = { path = "crane-japan.jpg", caption = "Announcing the move to Japan. The katakana below his name reads _Dai Nihon puroresu_ (Big Japan Pro Wrestling)"}
+2 = { path = "crane-japan.jpg", caption = "Announcing the move to Japan. The Japanese text below his name reads _Dai Nihon puroresu_ (Big Japan Pro Wrestling)"}
 +++
 
 #### 2021-2022: PTW
