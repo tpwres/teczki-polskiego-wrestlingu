@@ -25,7 +25,7 @@
 {% for pair in rx|sort(attribute='0')|reverse|sort(attribute='1')|reverse -%}
   {% set_global pname = pair[0] -%}
   <li class="talent-with-count">
-    <span>
+    <span class="pwf">
       {%- if pname is containing('](') -%}{# A markdown link to the talent's page -#}
         {# The split pattern combines extracting the markdown link part, with stripping the leading root path -#}
         {% set name_with_link = pname | split(pat="](@/") -%}

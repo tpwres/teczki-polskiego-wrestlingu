@@ -1,6 +1,10 @@
 {% extends "index.html" %}
 {%- import "macros/career.html" as macros %}
 
+{% block extra_head %}
+<link rel="stylesheet" href="{{ get_url(path="/tables.css") }}"/>
+{% endblock %}
+
 {% block content %}
 <h1>{{ section.title }}</h1>
 
@@ -62,8 +66,7 @@
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name) %}
           {% set_global career_entry = career_dict|get(key=name) %}
-          {# TODO separate p_w_f from the org calculation template #}
-          <li>
+          <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
           </li>
@@ -73,7 +76,7 @@
           {# TODO: Do not use career, just appearances #}
           {% set_global career_entry = career_dict|get(key=career_key) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
-          <li>
+          <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
           </li>
@@ -81,7 +84,7 @@
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name) %}
           {% set_global career_entry = career_dict|get(key=name) %}
-          <li>
+          <li class="pwf">
             {% include "unlinked_person.html" %}
             {% include "person_orgs_matches.html" %}
           </li>

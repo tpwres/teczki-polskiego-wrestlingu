@@ -1,8 +1,10 @@
-{%- if page.extra -%}
-  {%- set flag = page.extra|get(key='country_flag', default='') -%}
-  {% if flag -%}
-    {{- flag_dict|get(key=flag|upper, default='') -}}
-  {% endif -%}
-{%- endif -%}
+<span class="flag">
+  {%- if page.extra -%}
+    {%- set flag = page.extra|get(key='country_flag', default='') -%}
+    {% if flag -%}
+      {{- flag_dict|get(key=flag|upper, default='') -}}
+    {% endif -%}
+  {%- endif -%}
+</span>
 
-<a class="nu" href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
+<a class="nu name" href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
