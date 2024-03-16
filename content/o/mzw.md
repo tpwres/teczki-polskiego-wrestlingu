@@ -46,11 +46,12 @@ This collaboration is so far unique, as the other two organizations (KPW and PTW
 
 ### Championships
 
-MZW has just one singles championship, with Shadow having the longest combined reigns as of 2024.
+MZW has one singles championship, with Shadow having the longest combined reigns as of 2024. Between 2016 and 2019 they also used to have a Tag Team championship, currently inactive.
 
 | Championship | Current champion | Notes |
 |---|---|---|
-| MZW Championship | **VACANT** since [MZW Game On](@/e/mzw/2023-03-11-mzw-game-on.md) | Previous champion [Aron Wake](@/w/aron-wake.md) left to join PTW in 2021, but no events were held in the meantime. |
+| MZW Championship | **VACANT** since [Game On](@/e/mzw/2023-03-11-mzw-game-on.md) on 2023-03-11 | Final champion: [Rafael Kid](@/w/rafael-kid.md) defeated [Aron Wake](@/w/aron-wake.md) at [Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) |
+| MZW Tag Team Championship | **INACTIVE** since 2019-03-23 | Final Champions: Apollo Anderson & [Justin Joy](@/w/justin-joy.md)
 
 ## References
 

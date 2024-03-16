@@ -18,3 +18,7 @@ venue = "czasoprzestrzen"
 - ['[Rafael Kid](@/w/rafael-kid.md)', '[Aron Wake](@/w/aron-wake.md)', {c: "MZW Championship",
     s: "Tournament Final Match"}]
 {% end %}
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322479)
