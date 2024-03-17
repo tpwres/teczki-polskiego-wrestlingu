@@ -11,7 +11,7 @@ country_flag = "PL"
 
 #### 2021-2022: PTW
 
-On May 1st, 2021, Crane announced on his Facebook profile that he is [leaving MZW][leaving-mzw]. At that time he gave no further details, but later on August 13, he was [revealed][crane-reveal] as the newest roster member of the newly created [Prime Time Wrestling](@/o/ptw.md). Crane debuted at PTW Underground 2 in January 2022 against [Krampus](@/w/krampus.md).
+On May 1st, 2021, Crane announced on his Facebook profile that he is [leaving MZW][leaving-mzw]. At that time he gave no further details, but later on August 13, he was [revealed][crane-reveal] as the newest roster member of the newly created [Prime Time Wrestling](@/o/ptw.md), debuting at their very first event in a rumble match.
 
 Only a year later, almost to the day, on August 12, 2022, PTW's Facebook account [posted a statement][ptw-20220812], with a graphic featuring the two owners signatures, announcing that Jacob Crane has been released, due to his lack of professional conduct, and "numerous actions harming the organization".
 
