@@ -8,8 +8,8 @@ venue = "moris-chorzow"
 {% card() %}
 - ['[Taras](@/w/taras.md)', Axel Tischer]
 - ['[Joe E. Legend](@/w/joe-legend.md)', '[Peter Pannache](@/w/peter-pannache.md)']
-- [TAXI Złotówa, '[Marcel Budzianowski](@/w/marcelito.md)']
-- [Arczi Czajka, Remo]
+- ['[TAXI Złotówa](@/w/taxi-zlotowa.md)', '[Marcel Budzianowski](@/w/marcelito.md)']
+- [Arczi Czajka, '[Remo](@/w/remo.md)']
 - ['[Jonny Storm](@/w/jonny-storm.md)', Jody Fleisch]
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'

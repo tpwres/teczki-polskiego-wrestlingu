@@ -10,7 +10,7 @@ The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Perfor
 
 {% card() %}
 - ['[Jacob Crane](@/w/jacob-crane.md)', '[Disco Pablo](@/w/disco-pablo.md)']
-- [Remo, '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)']
+- ['[Remo](@/w/remo.md)', '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)']
 - ['["Top Gun" Samson](@/w/samson.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)']
 - ['[Taras](@/w/taras.md)', '[Axel Fox](@/w/axel-fox.md)', '[Jacob Crane](@/w/jacob-crane.md)',

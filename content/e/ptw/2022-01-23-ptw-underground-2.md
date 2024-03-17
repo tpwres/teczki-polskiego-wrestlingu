@@ -12,12 +12,12 @@ The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', Gaya Glass]
-- [TAXI Złotówa, Arczi Czajka]
+- ['[TAXI Złotówa](@/w/taxi-zlotowa.md)', Arczi Czajka]
 - ['[Krampus](@/w/krampus.md)', '[Jacob Crane](@/w/jacob-crane.md)']
-- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', Remo]
+- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Remo](@/w/remo.md)']
 - - 'PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
-  - { r: DQ, s: Tag Team Match }
+  - {r: DQ, s: Tag Team Match}
 {% end %}
 
 Host, ring announcer, General Manager: Arkadiusz Pawłowski

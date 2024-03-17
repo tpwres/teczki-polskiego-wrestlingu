@@ -12,7 +12,7 @@ The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022
 - ['[Taras](@/w/taras.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
 - - 'PAKA: [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md), Remo'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Remo](@/w/remo.md)'
   - s: Tag Team Match
 - ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Sinister](@/w/sinister.md)']
 - [Mike D. Vecchio, '[Jacob Crane](@/w/jacob-crane.md)']

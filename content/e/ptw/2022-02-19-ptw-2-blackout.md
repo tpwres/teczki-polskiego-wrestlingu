@@ -14,6 +14,6 @@ venue = "moris-chorzow"
 - - 'PAKA: [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
   - '[Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md), [Syriusz Dziedzic](@/w/dziedzic.md)'
   - s: Six Man Tag Team Match
-- [Joe Hendry, "[Gabriel Queen](@/w/gabriel-queen.md); TAXI Złotówa"]
+- [Joe Hendry, "[Gabriel Queen](@/w/gabriel-queen.md); [TAXI Złotówa](@/w/taxi-zlotowa.md)"]
 - [Nick Aldis, Chris Masters]
 {% end %}
