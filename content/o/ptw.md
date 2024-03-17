@@ -3,6 +3,8 @@ title = "Prime Time Wrestling"
 weight = 4
 template = "org_page.html"
 authors = ["Szymon Iwulski"]
+[extra.gallery]
+1 = { path = "rzezniczek-departs.png", caption = "Marcin Rzeźniczek announcing his departure from PTW" }
 +++
 
 ### History
@@ -38,6 +40,8 @@ He also confirmed that PTW wrestlers are not officially contracted and their exc
 He emphasized that his goal is to make PTW a fully mainstream promotion, with wrestlers being able to earn their living just based on their PTW role, rather than an alternative, independent route with talent being able to freelance.
 It was also announced that more roster cuts are to follow, especially after "Season One" is finished.
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
+
+On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole leader. Breaking kayfabe (a recent storyline from [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind Bad Bones and Longman shenanigans), he wished his former partner, and everyone in PTW the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
 
 #### Expansion into Austria
 
