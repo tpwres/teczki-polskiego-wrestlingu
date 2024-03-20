@@ -56,3 +56,7 @@ bg = '#71171f'
 [extra.org_styles.tbw]
 bg = '#0400cd'
 fg = '#8c8d87'
+
+[extra.org_styles.dfw]
+fg = '#a9100b'
+bg = '#000'
