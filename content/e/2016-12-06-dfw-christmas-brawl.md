@@ -8,7 +8,7 @@ hide_results = true
 {% card() %}
 - [Revage, '[Norris](@/w/isnorr.md)', {s: Best 2 out of 3 falls}]
 - [Corin Mear, Malmo Buruto]
-- [Chris Hunter, Painkiller, {c: DFW Championship}]
+- [Chris Hunter, Pain Killer, {c: DFW Championship}]
 - [Direk, Charlie Grayson, {s: "DFW Championship #1 Contender Match"}]
 {% end %}
 
