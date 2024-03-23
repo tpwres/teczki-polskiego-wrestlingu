@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>{% block head_title %}{% endblock %}</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="canonical" href="http://html5-templates.com/" />
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+        <link rel="stylesheet" href="/style.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+		<div class="wrapAll clearfix">
+			<div class="sidebar">
+				<div class="logo">
+					<a href="/"><img src='img/logo.png' alt="logo"></a>
+				</div>
+        {% block leftnav %}
+        {% endblock %}
+			</div>
+			<div class="mainsection">
+				<div class="headerLinks"></div>
+				<div class="article">
+					<h1>{% block title %}{% endblock %}</h1>
+					<p class="siteSub">From PPW-Fandom.</p>
+					{# <p class="roleNote">This article is about the writing implement. For other uses, see Pencil (disambiguation).</p> #}
+
+          {% block content %}{% endblock %}
+          {% block lavender %} {% endblock %}
+          {% block categories %} {% endblock %}
+				</div>
+				<div class="pagefooter">
+          {% block footer %}
+            {% include "footer.html" %}
+          {% endblock %}
+				</div>
+			</div>
+		</div>
+  </body>
+</html>

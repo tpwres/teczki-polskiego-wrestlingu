@@ -1,0 +1,43 @@
+{% extends "wiki_base.html" %}
+
+{% block title %}{{ page.title }}{% endblock %}
+{% block content %}
+{{ page.content | safe }}
+{% endblock %}
+
+{% block leftnav %}
+<div class="navigation">
+		<ul>
+				<li><a href="{{ get_url(path='/ppw') }}">PPW</a></li>
+				<li><a href="{{ get_url(path='/dream-factory-wrestling') }}">Dream Factory Wrestling</a></li>
+		</ul>
+		<h3>Postacie</h3>
+		<ul>
+				<li><a href="{{ get_url(path='/rob-scaffold') }}">Rob Scaffold</a></li>
+				<li><a href="{{ get_url(path='/steven-strong') }}">Steven Strong</a></li>
+				<li><a href="{{ get_url(path='/feager') }}">Feager</a></li>
+				<li><a href="{{ get_url(path='/johnny-blade') }}">Johnny Blade</a></li>
+		</ul>
+		<h3>Pasy</h3>
+		<ul>
+				<li><a href="{{ get_url(path='/ppw-championship') }}">PPW Championship</a></li>
+				<li><a href="{{ get_url(path='/ppw-european-ultraviolent-championship') }}">PPW European Ultraviolent Championship</a></li>
+		</ul>
+    <h3>Tygodniówki</h3>
+    <ul>
+        <li><a href="{{get_url(path='/pew') }}">PEW</a></li>
+        <li><a href="{{get_url(path='/fightdown') }}">FightDown</a></li>
+        <li><a href="{{get_url(path='/super-lucha') }}">Super Lucha</a></li>
+        <li><a href="{{get_url(path='/hardcore-friday') }}">Hardcore Friday</a></li>
+        <li><a href="{{get_url(path='/zjeb-division') }}">Zjeb Division</a></li>
+    </ul>
+    <h3>Areny</h3>
+    <ul>
+        <li><a href="{{get_url(path='/waldorffa25') }}">Waldorffa 25</a></li>
+        <li><a href="{{get_url(path='/2kola') }}">2Koła</a></li>
+        <li><a href="{{get_url(path='/dzialka-dziadka-lemura') }}">Działka Dziadka Lemura</a></li>
+        <li><a href="{{get_url(path='/gubin') }}">Gubin</a></li>
+        <li><a href="{{get_url(path='/lxi-lo-sos') }}">LXI LO (SOS)</a></li>
+    </ul>
+</div>
+{% endblock %}
