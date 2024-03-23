@@ -14,12 +14,13 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 
 {% card() %}
 - ['[Isnorr](@/w/isnorr.md)', "[Esteban Lucha](@/w/biesiad.md)"]
-- [Direk, '[Tony Sk1n](@/w/tony-sk1n.md)']
+- ['[Direk](@/w/direk.md)', '[Tony Sk1n](@/w/tony-sk1n.md)']
 - ['[Johnny Blade](@/w/johnny-blade.md)', '[Adam Wong](@/w/adam-wong.md)', {s: Classic
       Wrestling Match}]
 - ['[Isnorr](@/w/isnorr.md)', '[Rob Scaffold](@/w/rob-scaffold.md)', '[Tony Sk1n](@/w/tony-sk1n.md)',
   '[Adam Wong](@/w/adam-wong.md)', '[Mister Z](@/w/mister-z.md)', "[Steven Kimono](@/w/biesiad.md)",
-  "[Czacha](@/w/johnny-blade.md)", Direk, '[Hades](@/w/olgierd.md)', {s: "Royal Rumble"}]
+  "[Czacha](@/w/johnny-blade.md)", '[Direk](@/w/direk.md)', '[Hades](@/w/olgierd.md)',
+  {s: "Royal Rumble"}]
 - ['[Aron Wake](@/w/aron-wake.md)', '[Rob Scaffold](@/w/rob-scaffold.md)']
 - ['[Madman Charlie](@/w/madman-charlie.md)', "[Cade Bruce](@/w/mister-z.md)"]
 - ["[Czacha](@/w/johnny-blade.md)", "[Esteban Lucha](@/w/biesiad.md)"]

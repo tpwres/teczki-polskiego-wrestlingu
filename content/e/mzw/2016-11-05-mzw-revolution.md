@@ -29,3 +29,4 @@ Commentary: Adam Sekuła, Wojciech Baranowski
 * [Full match: Shadow vs Asmund](https://youtu.be/lzLRJC9qII0)
 * [Recap by Wrestlingowym Szlakiem](https://www.youtube.com/live/PCDYlxWbNQA)
 * [Recap and ratings by Arkao on wrestling.pl](https://www.wrestling.pl/news-recenzja-vod-mzw-revolution.html)
+* [Facebook post with photos](https://www.facebook.com/photo?fbid=914011792076381&set=a.911106232366937)

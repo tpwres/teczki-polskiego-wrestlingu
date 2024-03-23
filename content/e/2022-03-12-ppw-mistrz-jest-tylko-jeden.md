@@ -7,8 +7,8 @@ city = "Warszawa"
 +++
 
 {% card() %}
-- ["[Royal Striker](@/w/royal-striker.md); Direk", "[Isnorr](@/w/isnorr.md)", {s: "Best
-      Two Out Of Three Falls Match"}]
+- ["[Royal Striker](@/w/royal-striker.md); [Direk](@/w/direk.md)", "[Isnorr](@/w/isnorr.md)",
+  {s: "Best Two Out Of Three Falls Match"}]
 - ["[Adam Wong](@/w/adam-wong.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
 - ["[Bill Feager](@/w/feager.md)", "[Tony Sk1n](@/w/tony-sk1n.md)", {s: "Hardcore
       Match"}]

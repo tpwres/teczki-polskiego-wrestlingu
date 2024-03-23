@@ -7,8 +7,9 @@ hide_results = true
 
 {% card() %}
 - [Corin Mear, Chris Hunter]
-- [Pain Killer, Jay Revolt, PJ Blake, s: Triple Threat Match]
-- [Revage, Chris Hunter, Charlie Grayson, s: Triple Threat Match]
+- [Pain Killer, Jay Revolt, PJ Blake, {s: Triple Threat Match}]
+- ['[Revage](@/w/rafael-kid.md)', Chris Hunter, Charlie Grayson, {s: Triple Threat
+      Match}]
 {% end %}
 
 ### References

@@ -7,8 +7,8 @@ hide_results = true
 
 {% card() %}
 - [Jay Revolt, PJ Blake]
-- ["Corin Mear, Malmo Buruto", "Pain Killer, Charlie Grayson", s: Tag Team Match]
-- [Revage, Chris Hunter]
+- ["Corin Mear, Malmo Buruto", "Pain Killer, Charlie Grayson", {s: Tag Team Match}]
+- [Chris Hunter, '[Revage](@/w/rafael-kid.md)']
 {% end %}
 
 ### References

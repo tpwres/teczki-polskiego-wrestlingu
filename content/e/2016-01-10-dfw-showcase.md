@@ -8,7 +8,8 @@ hide_results = true
 {% card() %}
 - [PJ Blake, Joey Riddic]
 - [Corin Mear, Charlie Grayson]
-- ["Malmo Buruto, Pain Killer", "Chris Hunter, Revage", s: Tag Team Match]
+- ["Malmo Buruto, Pain Killer", "Chris Hunter, [Revage](@/w/rafael-kid.md)", {s: Tag
+      Team Match}]
 {% end %}
 
 ### References

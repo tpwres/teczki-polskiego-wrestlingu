@@ -7,3 +7,7 @@ authors = ["Krzysztof Zych"]
 1 = { path = "pas-dfw.jpg", caption = "The damaged DFW Championship belt plate. As of 2024, it was kept at [PPW](@/o/ppw.md)'s training facilities."}
 2 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the DFW Championship belt at [PPW Mistrz Jest Tylko Jeden](@/e/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
 +++
+
+### References
+
+* [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
