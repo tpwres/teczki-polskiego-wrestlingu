@@ -1,4 +1,5 @@
-					This page was last edited on 29.07.2017 | Template by <a href="http://html5-templates.com/" target="_blank" rel="nofollow">HTML5 Templates</a> <!-- Please leave this link unchanged -->
-					<div class="footerlinks">
-						<a href="#">Privacy policy</a> <a href="#">About</a> <a href="#">Terms and conditions</a> <a href="#">Cookie statement</a> <a href="#">Developers</a>
-					</div>
+This page was last edited on {% if page.updated %}{{ page.updated | date(format="%Y-%m-%d") }}{% else %}{{ now() | date(format="%Y-%m-%d") }}{% endif %}
+| Template by <a href="http://html5-templates.com/" target="_blank" rel="nofollow">HTML5 Templates</a> <!-- Please leave this link unchanged -->
+<div class="footerlinks">
+<a href="https://github.com/k3rni/teczki-polskiego-wrestlingu">Source code</a>
+</div>
