@@ -1,5 +1,6 @@
 {% extends "wiki_base.html" %}
 
+{% block head_title %}{{ page.title }}{% endblock %}
 {% block title %}{{ page.title }}{% endblock %}
 {% block content %}
 {{ page.content | safe }}
