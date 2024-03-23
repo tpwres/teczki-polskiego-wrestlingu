@@ -13,7 +13,7 @@ Inside Job was an event by [PPW Ewenement](@/o/ppw.md) held on September 11, 202
   {s: "Three Way Match"}]
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Isnorr](@/w/isnorr.md)", {s: "Last Man Standing
       Match"}]
-- ["[Rob Scaffold](@/w/rob-scaffold.md)", "Direk", {s: "Hardcore Match"}]
+- ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Direk](@/w/direk.md)", {s: "Hardcore Match"}]
 - ["[Mister Z](@/w/mister-z.md)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
 {% end %}
 

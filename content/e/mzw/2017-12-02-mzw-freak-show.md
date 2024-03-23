@@ -45,3 +45,4 @@ Ring announcers: Tomasz Warchoł, [Jędruś Bułecka](@/w/jedrus-bulecka.md)
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=189507)
 * [Announcing the event on mywrestling](https://mywrestling.com.pl/mzw-freak-show-2017-zapowiedz-gali/)
+* [Highlights video](https://www.youtube.com/watch?v=h5NtfBJN95k)
