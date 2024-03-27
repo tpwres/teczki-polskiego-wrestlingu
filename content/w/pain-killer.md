@@ -1,7 +1,6 @@
 +++
-title = "Rafael Kid"
+title = "Pain Killer"
 template = "talent_page.html"
 [extra]
-career_aliases = ["Rafał Orszak", "Revage"]
 country_flag = "PL"
 +++

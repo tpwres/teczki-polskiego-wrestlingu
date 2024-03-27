@@ -15,6 +15,6 @@ template = "index.html"
 | 2016- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
 | 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów |
 | 2014- | Mine City Wrestling | Będzin |
-| ? | {{ org_badge(org='dfw')}} [Dream Factory Wrestling](@/o/dfw.md) | Toruń |
+| 2015-2018 | {{ org_badge(org='dfw')}} [Dream Factory Wrestling](@/o/dfw.md) | Toruń |
 | ? | Pomerania Indy Wrestling Group | ? |
 | ? | Wrestlingowy Klub Sportowy Wołów | Wołów |

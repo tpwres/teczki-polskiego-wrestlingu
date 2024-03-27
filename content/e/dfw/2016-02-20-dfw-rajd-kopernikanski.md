@@ -1,15 +1,14 @@
 +++
 title = "DFW @ Rajd Kopernikański 2016"
 template = "event_page.html"
-[extra]
-hide_results = true
 +++
 
 {% card() %}
-- [Corin Mear, Chris Hunter]
-- [Pain Killer, Jay Revolt, PJ Blake, {s: Triple Threat Match}]
-- ['[Revage](@/w/rafael-kid.md)', Chris Hunter, Charlie Grayson, {s: Triple Threat
-      Match}]
+- ['[Chris Hunter](@/w/chris-hunter.md)', '[Corin Mear](@/w/corin-mear.md)']
+- [Jay Revolt, '[Pain Killer](@/w/pain-killer.md)', '[PJ Blake](@/w/pj-blake.md)',
+  {s: Triple Threat Match}]
+- ['[Revage](@/w/rafael-kid.md)', '[Chris Hunter](@/w/chris-hunter.md)', '[Charlie](@/w/madman-charlie.md)',
+  {s: Triple Threat Match}]
 {% end %}
 
 ### References
