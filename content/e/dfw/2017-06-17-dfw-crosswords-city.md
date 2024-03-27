@@ -11,11 +11,11 @@ Crosswords City by [Dream Factory Wrestling](@/o/dfw.md) was a sideshow accompan
 The event's name refers to the village name: Krzyżówki can be translated both as _crossroads_, and _crosswords_.
 
 {% card() %}
-- ['[Norris](@/w/isnorr.md)', Charlie Grayson]
-- [Chris Hunter, '[Prince Victor](@/w/vic-golden.md)']
+- ['[Norris](@/w/isnorr.md)', '[Charlie](@/w/madman-charlie.md)']
+- ['[Chris Hunter](@/w/chris-hunter.md)', '[Prince Victor](@/w/vic-golden.md)']
 - ['[Direk](@/w/direk.md)', Faust XIII]
-- ['[Revage](@/w/rafael-kid.md)(c)', PJ Blake, Corin Mear, {c: DFW Championship, s: Triple
-      Threat Match}]
+- ['[Revage](@/w/rafael-kid.md)(c)', '[PJ Blake](@/w/pj-blake.md)', '[Corin Mear](@/w/corin-mear.md)',
+  {c: DFW Championship, s: Triple Threat Match}]
 {% end %}
 
 Attendance: estimated 200

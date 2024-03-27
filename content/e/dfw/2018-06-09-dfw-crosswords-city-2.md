@@ -6,7 +6,7 @@ hide_results = true
 +++
 
 {% card() %}
-- ['[Direk](@/w/direk.md)', Pain Killer]
+- ['[Direk](@/w/direk.md)', '[Pain Killer](@/w/pain-killer.md)']
 - ['[Rob Scaffold](@/w/rob-scaffold.md)(c)', '[Norris](@/w/isnorr.md)', {s: Last Man
       Standing Match, c: DFW Championship}]
 {% end %}

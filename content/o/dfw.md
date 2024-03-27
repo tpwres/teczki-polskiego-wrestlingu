@@ -11,3 +11,4 @@ authors = ["Krzysztof Zych"]
 ### References
 
 * [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
+* [Facebook post announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
