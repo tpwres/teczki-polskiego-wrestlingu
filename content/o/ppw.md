@@ -25,9 +25,13 @@ In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeare
 
 ### Lost Lore
 
-PpW used to have a Wikia page with detailed internal lore, including storied feuds, rankings, character backgrounds. This went defunct in 2023, and is no longer available, even on Internet Archive's Wayback Machine. Snippets can still be found in cached results on Google when searching for certain related terms, but most of it is lost.
+PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023, and was unavailable, even on Internet Archive's Wayback Machine. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.
 
 That wiki was located at `ppwofficial.fandom.com` (and `ppwofficial.wikia.com` earlier before the renaming).
+
+#### Restored!
+
+In March 2024 it has been restored from a backup, in a text-only form, and can be found at [ppw-fandom.tpwres.pl](https://ppw-fandom.tpwres.pl/). It's preserved as-is, with no editing capability, using a basic Wikipedia-like template. While a part of Teczki, since both share a domain, it's treated as an archived publication, made available on the Internet once again.
 
 ## Botchamania
 
