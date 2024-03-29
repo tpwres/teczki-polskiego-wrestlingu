@@ -2,9 +2,15 @@
 title = "DFW Tournament of Dreams I"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
+[extra.gallery]
+1 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions."}
 +++
 
-The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/dfw.md) champion. The first round of matches was held on Saturday, June 11th 2016, and the [finals](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md) two months later in August.
+The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/dfw.md) champion. The first round of matches was held on Saturday, June 11th 2016 (this event), and the [finals](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md) two months later in August.
+
+This event was held at the same location as DFW's [debut show](@/e/dfw/2015-06-20-dfw-showcase.md) one year before, as part of another edition of the same community festival.
+
+Norris made his DFW debut at this event. Since then, he appeared at every show that DFW held.
 
 {% card() %}
 - ['[Charlie](@/w/madman-charlie.md)', '[Norris](@/w/isnorr.md)', {s: Tournament First

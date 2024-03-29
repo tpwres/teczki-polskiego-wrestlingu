@@ -3,6 +3,8 @@ title = "DFW Closed Showcase"
 template = "event_page.html"
 +++
 
+[DFW's](@/o/dfw.md) third event was held on Sunday January 10, 2016 in the gymnastics hall of, probably in some unspecified school in Toruń. There is no information available about the exact venue. Invited to the show were only friends and family, hence the name - a closed showcase.
+
 {% card() %}
 - ['[PJ Blake](@/w/pj-blake.md)', Joey Riddic]
 - ['[Charlie Grayson](@/w/madman-charlie.md)', '[Corin Mear](@/w/corin-mear.md)']
@@ -10,6 +12,13 @@ template = "event_page.html"
   - "[Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md)"
   - s: Tag Team Match
 {% end %}
+
+Audience: estimated 20
+
+#### Recap
+
+* The opening segment sets up the tag team match, only to be interrupted by newcomer Joey Riddic. Joey proceeds to insult each of the four wrestlers present, and announces himself to be the best. PJ Black enters, and challenges him because he doesn't have a match planned yet.
+* After the match, Joey changes out of his ring gear, and assumes referee duties for the remainder of the event. This was his only match for DFW.
 
 ### References
 

@@ -4,7 +4,11 @@ template = "event_page.html"
 authors = ["Krzysztof Zych"]
 +++
 
-The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/dfw.md) champion. The first round of matches was held in [June](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md), and the finals on Saturday August 20, 2016.
+The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/dfw.md) champion. The first round of matches was held in [June](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md), and the finals (this event) on Saturday August 20, 2016.
+
+For this event, the venue was a sports hall belonging to local Nicolaus Copernicus University, located on the university campus in the western part of the city.
+
+This event saw the DFW debuts of Rob Scaffold and Direk. More importantly, the DFW Championship belt was introduced and awarded. The first two matches were semi-finals, and the main event a finals match for the championship.
 
 {% card() %}
 - ['[Charlie](@/w/madman-charlie.md)', '[PJ Blake](@/w/pj-blake.md)', {s: Tournament
@@ -20,11 +24,6 @@ The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/
 {% end %}
 
 Commentary: Seth Donner, WWEPolandNatioN
-
-#### Recap
-
-* This was Rob Scaffold's debut for DFW.
-* The DFW Championship belt was introduced and awarded on this event. The first two matches were semi-finals, and the main event a finals match for the championship.
 
 ### References
 

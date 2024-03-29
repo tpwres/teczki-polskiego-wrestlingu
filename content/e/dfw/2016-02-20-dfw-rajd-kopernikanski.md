@@ -3,6 +3,10 @@ title = "DFW @ Rajd Kopernikański 2016"
 template = "event_page.html"
 +++
 
+[DFW's](@/o/dfw.md) fourth show was held on Saturday, February 20 2016. According to the video description and Facebook post, the event accompanied the 33rd Copernican Rally, which is a gathering of scouting organizations of all ages, where they can also compete in sports, and cross-country trekking.
+
+Chris Hunter did double duty, as Malmo Buruto who was supposed to face Corin Mear in the opening match, suffered a concussion two days before the event.
+
 {% card() %}
 - ['[Chris Hunter](@/w/chris-hunter.md)', '[Corin Mear](@/w/corin-mear.md)']
 - [Jay Revolt, '[Pain Killer](@/w/pain-killer.md)', '[PJ Blake](@/w/pj-blake.md)',

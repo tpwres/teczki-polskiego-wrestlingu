@@ -2,14 +2,16 @@
 title = "DFW Step Two"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
-[extra]
-hide_results = true
 +++
+
+This was [DFW's](@/o/dfw.md) second event held in ZST. The first one was held back [in March](@/e/dfw/2016-03-10-dfw-zst.md). This time, it's not an auditorium, but a gymnastics hall that sees the action.
+
+Unlike the previous, massive by DFW's standards, Tournament of Dreams, this event saw just three matches. In the main event Direk challenged Hunter for the DFW Championship.
 
 {% card() %}
 - ['[Revage](@/w/rafael-kid.md)', '[Charlie](@/w/madman-charlie.md)', {r: Submission}]
 - ['[Corin Mear](@/w/corin-mear.md)', '[Norris](@/w/isnorr.md)']
-- ['[Chris Hunter](@/w/chris-hunter.md)', '[Direk](@/w/direk.md)', {c: DFW Championship}]
+- ['[Chris Hunter](@/w/chris-hunter.md)(c)', '[Direk](@/w/direk.md)', {c: DFW Championship}]
 {% end %}
 
 ### References
