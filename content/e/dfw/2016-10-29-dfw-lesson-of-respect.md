@@ -17,9 +17,9 @@ Lesson of Respect was an event by [Dream Factory Wrestling](@/o/dfw.md), that to
 
 ### Recap
 
-* An extra stipulation for the tag team match was that if Direk pins Hunter, he can have a rematch for the DFW Championship. But if his team loses, he may never challenge Hunter for the title in his current reign.
-* Norris was performing in his superhero gimmick. One spot has a disoriented Revage flailing around in the ring, while Norris blows air at him from the corner, nearly causing his opponent to fall. He asks the children to give him more power by blowing together, and finally they topple Revage to the floor.
-* The tag team match also featured comedic spots, including a slow-motion segment (at about 14:30 in the recap video). Judging from the audience reactions, it wasn't understood well. Later, the referee performs a tope suicida outside the ring, landing on all four opponents.
+* An extra stipulation for the tag team match was that if Direk pins Hunter, he can have a rematch for the DFW Championship (which he challenged for at the [previous show](@/e/dfw/2016-10-10-dfw-step-two.md)). But if his team loses, he may never again challenge Hunter for the title in his current reign.
+* Norris was performing in his superhero gimmick. One spot has a disoriented Revage flailing around in the ring, while Norris blows air at him from the corner, nearly causing his opponent to fall. He asks the children in the audience to give him more power by blowing together, and finally they topple Revage to the floor.
+* The tag team match also featured comedic spots, including a slow-motion segment (at about 14:30 in the recap video). Judging from the audience reactions, it wasn't understood well. Later, the referee, encouranged by chants from the audience, performs a tope suicida outside the ring, landing on all four opponents.
 
 ### References
 

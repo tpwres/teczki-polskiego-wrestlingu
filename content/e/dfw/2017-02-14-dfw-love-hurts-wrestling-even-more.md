@@ -3,7 +3,8 @@ title = "DFW Love Hurts, Wrestling Even More"
 template = "event_page.html"
 +++
 
-This was a Valentine's day showcase held in Toruń.
+This was a Valentine's day event from 2017. Held once again in ZSGH which previously saw wrestling during its [Open Days](@/e/dfw/2016-04-22-dfw-zsgh-open-days.md), this event is notable for being the debut of [DFW's](@/o/dfw.md) first and only female wrestler Hekate.
+Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) Steven Strong. In the main event, #1 contender Charlie faced Chris Hunter for the DFW Championship.
 
 {% card() %}
 - - '[Revage](@/w/rafael-kid.md)'
@@ -17,8 +18,12 @@ This was a Valentine's day showcase held in Toruń.
 - - Faust, [Direk](@/w/direk.md)
   - '[Rob Scaffold](@/w/rob-scaffold.md), [Norris](@/w/isnorr.md)'
   - s: Tag Team Match
-- ['[Chris Hunter](@/w/chris-hunter.md)(c)', '[Charlie](@/w/madman-charlie.md)', c: DFW Championship]
+- - '[Chris Hunter](@/w/chris-hunter.md)(c)'
+  - '[Charlie](@/w/madman-charlie.md)'
+  - c: DFW Championship
 {% end %}
+
+Audience: estimated 80
 
 ### References
 
