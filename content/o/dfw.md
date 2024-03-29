@@ -39,11 +39,12 @@ However, later in the year, two important characters left, to later appear in [M
 
 Despite the suspension, there were two more, short events held in 2018. One a gauntlet match for the vacant championship, the other with just two matches as a sideshow to a community festival. 
 
-On April 1st, 2019, the fanpage teased a comeback show, which would feature a tournament for a new Poland-wide championship, split across three cities: Toruń, Gdynia ([KPW](@/o/kpw.md)'s territory) and Wrocław ([MZW's](@/o/mzw.md)), a reference to their own [Tournament of Dreams](@/e/dfw/2016-06-11-tournament-of-dreams-1.md) which was split over two events in two months. The finale would be contested as a three-way match, and a tournament ladder graphic was later posted.
+On April 1st, 2019, the fanpage teased a comeback show, which would feature a tournament for a new Poland-wide championship, split across three cities: Toruń, Gdynia ([KPW](@/o/kpw.md)'s territory) and Wrocław ([MZW's](@/o/mzw.md)), a reference to their own [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) which was split over two events in two months.
+The finale would be contested as a three-way match, and a tournament ladder graphic was later posted.
 The event was to also feature a rematch between Hunter and Norris for the DFW belt, and Direk against Seagal for the FOW belt.
 This was obviously an April Fools joke, which did bring some activity back to the page. A later post explained that, and invited fans to follow some of the talent on-line in non-wrestling activities.
 
-The Facebook page was briefly active again in 2021, reminiscing about past events and re-posting videos.
+The Facebook page was briefly active again between 2020 and 2021, reminiscing about past events and re-posting videos.
 
 ### Scene relations
 
@@ -62,3 +63,4 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 * [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
 * [DFW's Origin Story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
+* [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)
