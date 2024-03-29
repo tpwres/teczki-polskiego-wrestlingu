@@ -25,21 +25,31 @@ The new organization named itself after its members' shared dream - to be a wres
 
 #### 2016: Peak year
 
-DFW held 10 shows in 2016, some of them either sideshows to community festivals in smaller cities around Toruń. Others were held at various local highschools, often to an indifferent audience. In June, [Norris](@/w/isnorr.md) joined their roster, appearing on every event since then. [Rob Scaffold](@/w/rob-scaffold.md) appears in August, then Faust in November - all coming from backyard-era [PpW](@/o/ppw.md).
+DFW held 10 shows in 2016, some of them sideshows to community festivals in smaller towns and villages around Toruń. Others were held at various local highschools, often to an indifferent audience. In June, [Norris](@/w/isnorr.md) joined their roster, appearing on every event since then. [Rob Scaffold](@/w/rob-scaffold.md) appears in August, then Faust in November - all coming from backyard-era [PpW](@/o/ppw.md).
+
+An interesting event is [Lesson of Respect](@/e/dfw/2016-10-29-dfw-lesson-of-respect.md), where the audience was mostly schoolchildren, held in Toruń's historical Artus Court. Norris, who in real life is a teacher, was clearly the kids' favorite in his superhero character.
 
 #### 2017: Slower but bigger, MZW exits
 
-The next year had only 6 shows, some of them with 5 matches on the card (as opposed to the previous years, where 3 matches were typical). DFW gained its first female wrestler, who debuted in the ring on their [Valentine's day show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md). More characters from the Polish scene appear: PpW's Steven Strong at that same show, later joined by [Cade Bruce](@/w/mister-z.md).
+The next year had only 6 shows, some of them with 5 matches on the card (as opposed to the previous years, where 3 matches were typical). DFW gained its first female wrestler, who debuted in the ring on their [Valentine's day show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md). More characters from the Polish scene appear: PpW's [Steven Strong](@/w/biesiad.md) at that same show, later joined by [Cade Bruce](@/w/mister-z.md).
 
-However, later in the year, two important characters left, to later appear in [MZW](@/o/mzw.md) - those were [Charlie](@/w/madman-charlie.md) and [Revage](@/w/rafael-kid.md), DFW Champion at the time. On October 29th, Hunter posts about the organization suspending its activity.
+However, later in the year, two important characters left, to later appear in [MZW](@/o/mzw.md) - those were [Charlie](@/w/madman-charlie.md) and [Revage](@/w/rafael-kid.md), DFW Champion at the time. On October 29th, Hunter posted about the organization suspending its activity.
 
-#### 2018: Final shows
+#### 2018: Final shows, on-line activity
 
-Despite the suspension, there were two more, short events held in 2018. One a gauntlet match for the vacant championship, the other with just two matches as a sideshow to a community festival.
+Despite the suspension, there were two more, short events held in 2018. One a gauntlet match for the vacant championship, the other with just two matches as a sideshow to a community festival. 
+
+On April 1st, 2019, the fanpage teased a comeback show, which would feature a tournament for a new Poland-wide championship, split across three cities: Toruń, Gdynia ([KPW](@/o/kpw.md)'s territory) and Wrocław ([MZW's](@/o/mzw.md)), a reference to their own [Tournament of Dreams](@/e/dfw/2016-06-11-tournament-of-dreams-1.md) which was split over two events in two months. The finale would be contested as a three-way match, and a tournament ladder graphic was later posted.
+The event was to also feature a rematch between Hunter and Norris for the DFW belt, and Direk against Seagal for the FOW belt.
+This was obviously an April Fools joke, which did bring some activity back to the page. A later post explained that, and invited fans to follow some of the talent on-line in non-wrestling activities.
+
+The Facebook page was briefly active again in 2021, reminiscing about past events and re-posting videos.
 
 ### Scene relations
 
 DFW had neither the budget nor the status for any sort of foreign guests, and they had none. On the Polish scene, they were cooperating with PpW, with some of their talent, notably Charlie and [Direk](@/w/direk.md) appearing at PpW's backyard-era events. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md), PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an internet personality, still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. They also returned to the newer, more professional PpW after 2019.
+
+After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the Polish Wrestling Academy (PAW), that is MZW's wrestling school.
 
 ### Championships
 
