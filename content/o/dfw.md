@@ -43,7 +43,7 @@ DFW had neither the budget nor the status for any sort of foreign guests, and th
 
 ### Championships
 
-DFW had one singles championship, introduced and crowned at the first (and only) [Tournament of Dreams](@/e/dfw-2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was [Chris Hunter](@/w/chris-hunter.md), and the final person to hold the belt was Norris.
+DFW had one singles championship, introduced and crowned at the first (and only) [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was [Chris Hunter](@/w/chris-hunter.md), and the final person to hold the belt was Norris.
 
 Norris brought the belt to PpW, although it was never defended there. At some point, the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for another belt.
 
