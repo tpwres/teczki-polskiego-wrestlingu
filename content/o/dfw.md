@@ -39,7 +39,7 @@ Despite the suspension, there were two more, short events held in 2018. One a ga
 
 ### Scene relations
 
-DFW had neither the budget nor the status for any sort of foreign guests, and they had none. On the Polish scene, they were cooperating with PpW, with some of their talent, notably Charlie and [Direk](@/w/direk.md) appearing at PpW's backyard-era events. They also returned to the newer, more professional PpW after 2019.
+DFW had neither the budget nor the status for any sort of foreign guests, and they had none. On the Polish scene, they were cooperating with PpW, with some of their talent, notably Charlie and [Direk](@/w/direk.md) appearing at PpW's backyard-era events. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md), PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an internet personality, still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. They also returned to the newer, more professional PpW after 2019.
 
 ### Championships
 
