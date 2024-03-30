@@ -18,6 +18,8 @@ It will be the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-0
       Challenge, c: PTW Tag Team Championship}]
 - ['[Diana Strong](@/w/diana-strong.md)', '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', {g: true, s: Longman's Confession}]
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
+- [Sambor, '[Erik Šlotíř](@/w/erik-slotir.md)']
 {% end %}
 
 Card incomplete, based on social media posts.
