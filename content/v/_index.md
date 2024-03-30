@@ -3,7 +3,7 @@ title = "Venues"
 template = "index.html"
 +++
 
-# Venues
+# Places
 
 ### Warsaw
 
