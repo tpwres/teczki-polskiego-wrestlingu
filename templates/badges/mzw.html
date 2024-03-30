@@ -1,0 +1,17 @@
+<div title="{{ hint_text}}"
+     {% if ib %}style="display: inline-block"{% endif %}
+     {% if cnt is defined %}
+       style="flex-grow: {{ cnt/total }};
+              background: {{ bg }};
+              margin: 0 0.25em;
+              text-align: center;"
+     {% endif %}
+     >
+  <style>
+    .badge-mzw>.w { color: #fff; -webkit-text-stroke: 1pt #2eff00; }
+  </style>
+  <a href='{{ get_url(path="@/o/ppw.md") }}' class="org-badge nu badge-mzw"
+     style="background: #1c1b17; text-decoration: none !important">
+  <span class="w">MZW</span>
+  </a>
+</div>

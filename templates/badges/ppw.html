@@ -1,0 +1,18 @@
+<div title="{{ hint_text}}"
+     {% if ib %}style="display: inline-block"{% endif %}
+     {% if cnt is defined %}
+       style="flex-grow: {{ cnt/total }};
+              background: {{ bg }};
+              margin: 0 0.25em;
+              text-align: center;"
+     {% endif %}
+     >
+  <style>
+    .badge-ppw>.w { color: #c32e30;}
+    .badge-ppw>.d { color: #4f55d9;}
+  </style>
+  <a href='{{ get_url(path="@/o/ppw.md") }}' class="org-badge nu badge-ppw"
+     style="background: #5b007e; text-decoration: none !important">
+  <span class="w">P</span><span class="d">p</span><span class="w">W</span>
+  </a>
+</div>

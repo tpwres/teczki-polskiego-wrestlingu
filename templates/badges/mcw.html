@@ -1,0 +1,18 @@
+<div title="{{ hint_text}}"
+     {% if ib %}style="display: inline-block"{% endif %}
+     {% if cnt is defined %}
+       style="flex-grow: {{ cnt/total }};
+              background: {{ bg }};
+              margin: 0 0.25em;
+              text-align: center;"
+     {% endif %}>
+  <style>
+    .badge-mcw>.w { color: #fff; -webkit-text-stroke: 0.5pt #000; }
+    .badge-mcw>.w:last-child {font-style: italic}
+    .badge-mcw>.r { color: red; -webkit-text-stroke: 0.5pt currentcolor }
+  </style>
+  <a href='{{ get_url(path="@/o/_index.md") }}' class="org-badge nu badge-mcw"
+     style="background: #fff; text-decoration: none !important">
+  <span class="w">M</span><span class="r">C</span><span class="w">W</span>
+  </a>
+</div>

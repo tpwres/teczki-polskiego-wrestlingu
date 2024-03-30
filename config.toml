@@ -43,6 +43,7 @@ text = 'PpW'
 
 [extra.org_styles.mzw]
 bg = '#208315'
+# bg = '#1c1b17'
 
 [extra.org_styles.kpw]
 bg = '#133762'
@@ -56,4 +57,8 @@ fg = '#8c8d87'
 
 [extra.org_styles.dfw]
 fg = '#a9100b'
+bg = '#000'
+
+[extra.org_styles.ptw]
+fg = '#fff'
 bg = '#000'
