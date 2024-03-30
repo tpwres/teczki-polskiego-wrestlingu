@@ -1,6 +1,7 @@
 +++
 title = "MZW+PpW Żadnych Granic"
 template = "event_page.html"
+aliases = ["/e/mzw/2023-09-23-ppw-mzw-zadnych-granic"]
 [extra]
 venue = "czasoprzestrzen"
 +++

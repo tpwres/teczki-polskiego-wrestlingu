@@ -7,7 +7,7 @@ Teatr Komuna is home to Komuna Warszawa, an independent avant-garde theatre comp
 
 Besides theatrical productions, the venue often plays host to many other forms of art, including film screenings at Warsaw's annual Docs Against Gravity festival, and artists playing non-mainstream music.
 
-PpW organized their ["Miasto Bezprawia"](@/e/2024-02-10-ppw-miasto-bezprawia.md) show as part of two days that celebrated sport as an art. The concept was inspired by Roland Barthes, French essayist and philosopher, known for analysing popular culture.
+PpW organized their ["Miasto Bezprawia"](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) show as part of two days that celebrated sport as an art. The concept was inspired by Roland Barthes, French essayist and philosopher, known for analysing popular culture.
 
 > “In wrestling, nothing exists unless it exists totally, there is no symbol, no allusion, everything is given exhaustively; leaving nothing in shadow, the gesture severs every parasitical meaning and ceremonially presents the public with a pure and full signification, three dimensional, like Nature.
 > Such emphasis is nothing but the popular and ancestral image of the perfect intelligibility of reality.

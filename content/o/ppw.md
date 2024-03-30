@@ -37,16 +37,16 @@ In March 2024 it has been restored from a backup, in a text-only form, and can b
 
 PpW made Botchamania twice.
 
-During a match on [Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
+During a match on [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
 
-The second botch to make it was the table spot from [Miasto Bezprawia](@/e/2024-02-10-ppw-miasto-bezprawia.md), from the El Paso Outlaw Match between [Goblin](@/w/goblin.md) and Belgian wrestler MBM. With Goblin lying on a table, MBM climbed the second turnbuckle, put on a pink cowboy hat, straddled the toy hobby horse, and jumped on to the table, which failed to break. After the fight, both agreed to redo the spot, to the audience's great applause. This failed spot, and the second attempt were featured in [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516), at the 8:36 mark.
+[Omitted long matching line]
 
 ## Championships
 
 | Championship | Current champion(s) | Notes |
 |--|--|--|
-| PpW Championship | [Bill Feager](@/w/feager.md) | Defeated [Steve Kuningas](@/w/steve-kuningas.md) at [Miasto Bezprawia](@/e/2024-02-10-ppw-miasto-bezprawia.md). |
-| PpW European Ultraviolent Championship | [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) | Defeated [Johnny Blade](@/w/johnny-blade.md) at [Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md). |
+| PpW Championship | [Bill Feager](@/w/feager.md) | Defeated [Steve Kuningas](@/w/steve-kuningas.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md). |
+| PpW European Ultraviolent Championship | [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) | Defeated [Johnny Blade](@/w/johnny-blade.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md). |
 
 Dobroniak has defended the Ultraviolent Championship belt also outside Poland, mostly in Sweden.
 

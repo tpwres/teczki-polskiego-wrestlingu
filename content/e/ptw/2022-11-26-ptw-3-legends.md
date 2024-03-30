@@ -6,7 +6,7 @@ authors = ["Szymon Iwulski", "Krzysztof Zych"]
 venue = "hala-bemowo"
 +++
 
-Legends was the third major event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, November 26th, in Warsaw. The venue was a multipurpose sports hall located in the [Bemowo](@/v/hala-bemowo.md) district. The day before, Warsaw's local [PpW Ewenement](@/o/ppw.md) ran their own event, titled [_Best Gala In Town_](@/e/2022-11-25-ppw-najlepsza-gala-w-miescie.md), suggesting that their show was better than this one.
+Legends was the third major event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, November 26th, in Warsaw. The venue was a multipurpose sports hall located in the [Bemowo](@/v/hala-bemowo.md) district. The day before, Warsaw's local [PpW Ewenement](@/o/ppw.md) ran their own event, titled [_Best Gala In Town_](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md), suggesting that their show was better than this one.
 
 The event heavily promoted its numerous foreign guests.
 

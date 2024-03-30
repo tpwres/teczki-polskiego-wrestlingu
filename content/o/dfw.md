@@ -5,7 +5,7 @@ template = "org_page.html"
 authors = ["Krzysztof Zych"]
 [extra.gallery]
 1 = { path = "pas-dfw.jpg", caption = "The damaged DFW Championship belt plate. As of 2024, it was kept at [PPW](@/o/ppw.md)'s training facilities."}
-2 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the DFW Championship belt at [PPW Mistrz Jest Tylko Jeden](@/e/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
+2 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the DFW Championship belt at [PPW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
 +++
 
 Dream Factory Wrestling was a short-lived wrestling organization from Toruń, estabilished in 2015.

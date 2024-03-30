@@ -5,9 +5,9 @@ template = "event_page.html"
 venue = "targi-poznan"
 +++
 
-This event was an sideshow held as part of Poznań Beer Expo 2021. The event featured wrestlers from [PPW](@/o/ppw.md) competing against several [MZW](@/o/mzw.md) regulars in their first, historic collaboration. PPW would return to that event two years later at [Piwo Przyjacielem Wrestlingu](@/e/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md), following another co-branded show in September the same year ([Żadnych Granic](@/e/2023-09-23-ppw_mzw-zadnych-granic.md)).
+This event was an sideshow held as part of Poznań Beer Expo 2021. The event featured wrestlers from [PPW](@/o/ppw.md) competing against several [MZW](@/o/mzw.md) regulars in their first, historic collaboration. PPW would return to that event two years later at [Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md), following another co-branded show in September the same year ([Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md)).
 
-While this wasn't [Isnorr's](@/w/isnorr.md) debut for PPW, as that was a month before at the first [Ledwo Legalne](@/e/2021-06-12-ppw-ledwo-legalne.md), he would become a regular competitor in PpW's ring from then on. As the hometown hero of Poznań, he won two singles matches and the rumble, for a very strong showing.
+While this wasn't [Isnorr's](@/w/isnorr.md) debut for PPW, as that was a month before at the first [Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md), he would become a regular competitor in PpW's ring from then on. As the hometown hero of Poznań, he won two singles matches and the rumble, for a very strong showing.
 
 Some matches featured wrestlers thinly disguised with a mask, fighting as another, mostly comedic persona.
 

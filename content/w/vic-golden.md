@@ -19,6 +19,6 @@ In September 2023, Vic caught an injury and was sidelined from competition. He w
 
 #### PpW Ewenement (2024)
 
-During [Miasto Bezprawia](@/e/2024-02-10-ppw-miasto-bezprawia.md), Vic's Pure Gold partner Gabriel Queen had a match against another ex-MZW, ex-PTW wrestler [Jacob Crane](@/w/jacob-crane.md). Despite not being billed for the show, Vic intervened in the post-match beatdown, saving his partner. In a [recap post][mb-recap] for the show, PpW confirmed that he has joined the roster.
+During [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), Vic's Pure Gold partner Gabriel Queen had a match against another ex-MZW, ex-PTW wrestler [Jacob Crane](@/w/jacob-crane.md). Despite not being billed for the show, Vic intervened in the post-match beatdown, saving his partner. In a [recap post][mb-recap] for the show, PpW confirmed that he has joined the roster.
 
 [mb-recap]: https://www.facebook.com/OficjalnePPW/posts/pfbid02bKzAWkrtkZrgDNzm2dqBsveZge9LyMY9HHJGb1kY2n29RXNAYuebgopmsS63eKhPl

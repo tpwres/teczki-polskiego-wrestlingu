@@ -40,9 +40,12 @@ MZW frequently cooperated with German organizations, especially with Dresden-bas
 
 ### Polish wrestling scene
 
-Before 2021, MZW did not interact with other organizations in Poland. This changed with [PpW Supershow](@/e/2021-07-30-ppw-poznan-supershow.md), where talent from [PpW Ewenement](@/o/ppw.md) faced against MZW regulars Aron Wake, [Isnorr](@/w/isnorr.md) and [Madman Charlie](@/w/madman-charlie.md). In 2022, after exiting PTW, former MZW wrestler Jacob Crane appeared at PpW's [Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md). In 2023 the organizations ran a [co-branded event](@/e/2023-09-23-ppw_mzw-zadnych-granic.md) in September, and 2024 saw MZW's founder [Shadow](@/w/shadow.md) compete at PpW's [Miasto Bezprawia](@/e/2024-02-10-ppw-miasto-bezprawia.md).
+Before 2021, MZW did not interact with other organizations in Poland.
+This changed with [PpW Supershow](@/e/ppw/2021-07-30-ppw-poznan-supershow.md), where talent from [PpW Ewenement](@/o/ppw.md) faced against MZW regulars Aron Wake, [Isnorr](@/w/isnorr.md) and [Madman Charlie](@/w/madman-charlie.md).
+In 2022, after exiting PTW, former MZW wrestler Jacob Crane appeared at PpW's [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md).
+In 2023 the organizations ran a [co-branded event](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) in September, and 2024 saw MZW's founder [Shadow](@/w/shadow.md) compete at PpW's [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
 
-This collaboration is so far unique, as the other two organizations (KPW and PTW) prefer to be standalone, and see no value in letting others use their talent. MZW was also like that, but the COVID-induced hiatus and later talent drain may have changed their mind.
+This collaboration is so far unique, as the other two active organizations (KPW and PTW) prefer to be standalone, and see no value in letting others use their talent. MZW was also like that, but the COVID-induced hiatus and later talent drain may have changed their mind.
 
 ### Championships
 
