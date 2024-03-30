@@ -5,6 +5,10 @@ template = "event_page.html"
 venue = "moris-chorzow"
 +++
 
+#### Build-up
+
+* Joe Hendry produced a [music video](https://www.youtube.com/watch?v=AEIXjgUQgxk), set to Kings of Leon' "Sex On Fire", which documented his journey to Poland, featuring Taxi Złotówa and Gabriel Queen as crude face overlays. He sings about "setting his taxi on fire", and calls Gabriel "the crackhead Harry Potter". It was used as his entrance video.
+
 {% card() %}
 - [Tristan Archer, '[Jacob Crane](@/w/jacob-crane.md)']
 - ['[Justin Joy](@/w/justin-joy.md)', '[Axel Fox](@/w/axel-fox.md)', '[Jonny Storm](@/w/jonny-storm.md)',
