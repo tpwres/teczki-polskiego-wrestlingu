@@ -7,14 +7,9 @@
 <h1>{{ section.title }}</h1>
 
 {% set_global all_events = section.pages %}
-{% for org, subdir_enabled in config.extra.org_events_dir %}
-  {% if subdir_enabled %}
-    {% set org_path = "e/" ~ org ~ "/_index.md" %}
-    {% set per_org_events_section = get_section(path=org_path) %}
-    {% if per_org_events_section %}
-      {% set_global all_events = all_events | concat(with=per_org_events_section.pages) %}
-    {% endif %}
-  {% endif %}
+{% for subsection_path in section.subsections %}
+  {% set subsection = get_section(path=subsection_path) %}
+  {% set_global all_events = all_events | concat(with=subsection.pages) %}
 {% endfor %}
 {% set events_by_year = all_events | group_by(attribute="year") %}
 {% set_global years = [] %}

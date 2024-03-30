@@ -1,13 +1,9 @@
 {% set events_section = get_section(path="e/_index.md") -%}
 {% set all_events = events_section.pages -%}
-{# An org may have its events in a subdirectory #}
-{% if config.extra.org_events_dir | get(key=page.slug) -%}
-    {% set org_path = "e/" ~ page.slug ~ "/_index.md" -%}
-    {% set per_org_events_section = get_section(path=org_path) -%}
-    {% if per_org_events_section -%}
-      {% set all_events = all_events | concat(with=per_org_events_section.pages) -%}
-    {% endif -%}
-{% endif -%}
+{% for subsection_path in events_section.subsections %}
+  {% set subsection = get_section(path=subsection_path) %}
+  {% set_global all_events = all_events | concat(with=subsection.pages) %}
+{% endfor %}
 {% set events_by_year = all_events | group_by(attribute="year") -%}
 {% set_global years = [] -%}
 {% for year, _ign in events_by_year -%}{% set_global years = years | concat(with=year) %}{% endfor -%}

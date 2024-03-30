@@ -23,9 +23,6 @@ paths_keep_dates = true
 # Put all your custom variables here
 new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new"
 
-# Add an org here if it has its own subdirectory under e/
-org_events_dir = {'ddw' = true, 'kpw' = true, 'ptw' = true, 'mzw' = true, 'tbw' = true, 'dfw' = true, ppw = true}
-
 list_pages = false
 default_theme = "dark"
 mensch_links = [

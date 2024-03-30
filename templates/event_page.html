@@ -27,9 +27,9 @@
 
 {% block pagination %}
   {% set section = get_section(path=page.ancestors | last) %}
-  {% set folder = section.components | last %}
+  {% set folders = section.components %}
   {# Only events in an org subdirectory get paginated. #}
-  {% if config.extra.org_events_dir | get(key=folder) %}
+  {% if folders|length > 1 %}
     <span class="prev">
       {% if page.higher %}
         Previous:
