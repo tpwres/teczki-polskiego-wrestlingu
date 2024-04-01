@@ -5,8 +5,9 @@ template = "talent_page.html"
 career_aliases = ["Kuba Kamiński"]
 country_flag = "PL"
 [extra.gallery]
-1 = { path = "ptw_dismissal.jpg", caption = "PTW firing Jacob Crane."}
+1 = { path = "ptw_dismissal.jpg", caption = "PTW firing Jacob Crane in August 2022."}
 2 = { path = "crane-japan.jpg", caption = "Announcing the move to Japan. The Japanese text below his name reads _Dai Nihon puroresu_ (Big Japan Pro Wrestling)"}
+3 = { path = "ppw-crane-420.jpg", caption = 'On April 1st, 2024 PpW "fired" Jacob Crane after his first show in Japan, parodying PTW by using the exact same text with its owners mock signatures. The text reads "Should not have left for Japan disregarding our events".'}
 +++
 
 #### 2021-2022: PTW
