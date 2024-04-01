@@ -21,7 +21,7 @@ The foreign guests for this event will be:
 
 * Six matches are planned for the event
 * Mister Z defeated Ricardo Diesel for the #1 Contender spot. PpW Champion Feager defends his newly won title in the main event.
-* The 4/20 ladder match
+* In the 4/20 ladder match, the object hung above the ring is to be a small bag of cannabis.
 * Stanislaw Van Dobroniak is defending the PpW Ultraviolent championship against Alex Arthur. In a promo released on social media, he compared his opponent to a beaver, referencing a meme.
 * Nick Schreier, while not yet announced for the show, leaked his appearance on his Instagram, listing dates and cities of his bookings in April.
 * Pure Gold (Gabriel Queen and Vic Golden) are set to appear in a tag team match.
