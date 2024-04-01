@@ -1,5 +1,5 @@
 +++
-title = "PpW Miasto Bezprawia"
+title = "PpW Ewenement Haze"
 template = "event_page.html"
 [extra]
 venue = "praga-centrum"
