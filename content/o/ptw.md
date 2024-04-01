@@ -51,6 +51,16 @@ On December 4th 2023, both PTW and WWA [announced][wwa-announcement] that WWA ha
 
 The initial name for the this merged promotion was "PTW: WWA" (also stylized as "PTW presents: WWA"), but the organization soon adopted "PTW German" as their [social media name](https://www.facebook.com/ptwwrestlingdeutsch). In addition to covering their own shows, this account reposted PTW's updates concerning events in Poland, but translated to German.
 
+#### 2024: Pawłowski's solo run
+
+On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole leader. Breaking kayfabe (a recent storyline from [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind Bad Bones and Longman shenanigans), he wished his former partner, and everyone in PTW the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
+
+At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2021 Nissan GTR car, which could be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase an "ebook", which came with a free ticket.
+
+In the following months, leading to [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) he promoted the lottery heavily on social media, and in collaboration with various online personalities, most of who had nothing to do with wrestling.
+With Pawłowski promoting mostly himself and the lottery, the wrestling side of PTW seemed to be almost forgotten.
+
+
 ### References
 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
