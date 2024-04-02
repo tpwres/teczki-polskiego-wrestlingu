@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 
 Anniversary was an event that celebrated DFW's second anniversary, held on Saturday, September 30, 2017. The name was a bit of a stretch, as it was the second anniversary but when counting from [DFW @ Kaszczorek](@/e/dfw/2015-09-20-dfw-showcase.md). Which was DFW's second, not first show. Counting from the first show, the second anniversary was instead much closer to [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md).
 
-The event was held in the sports hall belonging to Nicolaus Copernicus University, same one that hosted [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md) and [Recent Dreams](/e/dfw/2017-04-23-dfw-recent-dreams.md).
+The event was held in the sports hall belonging to Nicolaus Copernicus University, same one that hosted [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md) and [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md).
 
 Featuring a battle royale match to select the next contender for Revage's DFW championship, and a street fight defense, this was probably DFW's biggest ever event. [PpW's](@/o/ppw.md) Cade Bruce contended in both a singles match and the battle royale.
 
