@@ -5,23 +5,45 @@ template = "org_page.html"
 authors = ["Krzysztof Zych"]
 [extra]
 year_list_start = 2017
+[extra.gallery]
+1 = { path = "backyard_korzenie.jpg", caption = '[Mister Zet](@/w/mister-z.md) (left) and [Gustav Gryffin](@/w/gustav-gryffin.md) in front of presumably the new ring. Text: "Today Mister Z showed me his roots"' }
+2 = { path = "biesiad_dive.jpg", caption = '[Biesiad](@/w/biesiad.md) testing the new ring by diving into some foam padding. Text: What a backyard, (expletive).' }
+3 = { path = "zet_supron.jpg", caption = 'Andrzej Supron and Mister Zet shaking hands.' }
 +++
 
 PpW is a wrestling promotion from Warsaw. It styles itself as a fully independent, self-sufficient organization with no commercial affiliations.
 Their wrestling style used to rely heavily on hardcore and deathmatches, but it has since been toned down, and other styles of wrestling are prominently featured. However, no-DQ is assumed for most matches, and its main events are still often hardcore bouts. Only the rare Classic Wrestling Match stipulation prohibits any weapons and interventions.
 
-## Name
+### Name
 
-There is no canonical meaning of the PpW shortcut, although it may have once stood for Polish Pro Wrestling. The official name is just "PpW Ewenement".
-The word "ewenement" means something unique, special and not easily replicated, and could be translated as "phenomenon" or "anomaly".
+There is no canonical meaning of the PpW shortcut, although it may have once stood for Poszkolny Pro Wrestling (poszkolny meaning _after-school_),
+coined during its early backyard years.
+More recently, the acronym was repurposed to match "Piwo Przyjacielem Wrestlingu" (_Beer is Wrestling's Friend_).
+The official name is just "PpW Ewenement". The word _ewenement_ means something unique, special and not easily replicated, and could be translated as "phenomenon" or "anomaly".
 
-## History
+### History
 
-While its beginnings reach as far back as 2016 or earlier, until about 2020 it was considered a backyard, and not widely recognized. From these early years, not many people still remain active. In 2020, PpW started to cooperate with the Polish and European wrestling scenes, inviting wrestlers to their events, and participating in training and other events by promotions in Sweden and Austria. 2022 saw them cooperate with MZW in a joint event during a craft beer festival in Poznań, with a reprise the following year. In 2023, PpW was recognized by Cagematch, and some of its events and wrestlers have been added to their database. WrestleMap features news about PpW since 2021.
+#### 2016: backyard years
 
-Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, all of which can be traced back to DDW.
+While its beginnings reach as far back as 2016 or earlier, until 2019 it was considered a backyard, and not widely recognized. This period is best documented in Ppw's own wikia page (see [Lost Lore](#lost-lore) section below). Events from this period were very short, with three matches or less, held outdoors, either just on floor mats outside, or an improvised ring made from wooden pallets. An actual ring was used at [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-19-ppw-kiedys-bedzie-lepiej.md), but it's still set outdoors somewhere.
 
-In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeared on PpW shows, quitting their promotion openly and criticizing its owner on social media. This further boosted PpW's image on the Polish scene, as a place dedicated to the joy of wrestling, and not commercial endeavors.
+Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, many of which can be traced back to [DDW](@/o/ddw.md).
+
+#### 2019: going pro
+
+Probably the first event that PpW held for an open audience (as opposed to just friends and insiders to the backyard scene) was 2019's [2Koła to my nie zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md), followed by [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md).
+The latter event began PpW's cooperation with the European scene, inviting wrestlers to their events, and participating in training camps.
+After estabilishing themselves as a serious organization (and not just a backyard), PpW talent appeared abroad, in Sweden, Austria, and later Hungary.
+
+2021 saw them invite several [MZW](@/o/mzw.md) wrestlers for a show held during a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) in Poznań, with a [reprise](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) two years later.
+In 2023, PpW was recognized by Cagematch, and some of its events and wrestlers have been added to their database. WrestleMap features news about PpW since 2021.
+
+#### 2023: Prime Time Transfers, professional ring
+
+In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeared on PpW shows, quitting their promotion openly and criticizing its owner on social media. This further boosted PpW's image on the Polish scene, as a place dedicated to the joy of wrestling, and not commercial endeavors. Later, PpW named this event, and the wrestlers "Prime Time Transfers". The first one to appear was [Rafi](@/w/rafi.md), followed by [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and later his tag team partner [Vic Golden](@/w/vic-golden.md).
+
+Over the weekend of March 6-8 2024, PpW wrestlers [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md) posted stories on Instagram, which featured them in a ring that was slightly larger than PpW's regular one. Three days later, on March 11th, Mister Z, kayfabe executive producer and booker, in real-life also co-owner of PpW posted a photo of him and Andrzej Supron on Instagram. They were shaking hands, captioned "Two [guys] happy that the deal went through. Thank you Mr Supron".
+The involvement of Supron suggest that this may be the very same ring he [bought in 2010](@/o/tbw.md#2010-successful-events) for Total Blast Wrestling. Hashtags used in the post seem to confirm this.
 
 ### Lost Lore
 
