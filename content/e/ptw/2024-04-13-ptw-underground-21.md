@@ -20,6 +20,8 @@ It will be the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-0
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', {g: true, s: Longman's Confession}]
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
 - [Sambor, '[Erik Šlotíř](@/w/erik-slotir.md)']
+- ['[Olgierd](@/w/olgierd.md)', King Kaiden]
+- ['[Puncher](@/w/puncher.md)', Marius Al-Ani]
 {% end %}
 
 Card incomplete, based on social media posts.

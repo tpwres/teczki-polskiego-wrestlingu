@@ -36,7 +36,7 @@ The foreign guests for this event will be:
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: PpW Championship
-- - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+- - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - Alex Arthur
   - c: PpW Ultraviolent Championship
 - - Nick Schreier
