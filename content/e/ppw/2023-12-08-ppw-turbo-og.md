@@ -8,7 +8,7 @@ city = "Warszawa"
 
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2 Koła](@/v/2kola.md) club.
 
-The event's name references the previous [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md) event at the same venue, and refers to the fact that 2koła is the original, first place that held their events, dating back to 2019 with [PpW@2KOŁA](@/e/ppw/2019-12-07-ppw-untitled.md).
+The event's name references the previous [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md) event at the same venue, and refers to the fact that 2koła is the original, first place that held their events, dating back to 2019 with [PpW 2koła to my nie zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md).
 Originally British wrestler Jack Harrop was to face [Johnny Blade](@/w/johnny-blade.md) in the main event, however he was sidelined due to injury, and replaced with Chris X.
 This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](@/w/rafi.md), complete with an immediate heel-turn.
 

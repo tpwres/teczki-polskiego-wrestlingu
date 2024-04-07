@@ -16,8 +16,11 @@ venue="waldorffa25"
 - - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "[Johnny Blade](@/w/johnny-blade.md)"
   - "Viking"
-  - {c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)", s: "Three Way Match"}
-- ["Viking", "Johnny Blade(c)", { c: VcV Hardcore Championship }]
+  - c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)"
+    s: "Three Way Match"
+- - "Viking"
+  - "[Johnny Blade](@/w/johnny-blade.md)(c)"
+  - c: VcV Hardcore Championship
 {% end %}
 
 ### References
