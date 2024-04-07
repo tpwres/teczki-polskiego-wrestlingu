@@ -16,15 +16,17 @@ The foreign guests for this event will be:
 
 * German wrestler Nick Schreier. In 2021, Nick, in his third ever match recorded on Cagematch, appeared for [MZW](@/o/mzw.md) at [Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 * Danish wrestler Benny Bacchus, who competes mostly in Denmark and Sweden
+* German wrestlers Joshua Amaru and Aytac Bahar, returning as a tag team. Their previous appearance was at [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
 
 #### Build-up and information released so far
 
 * Six matches are planned for the event
 * Mister Z defeated Ricardo Diesel for the #1 Contender spot. PpW Champion Feager defends his newly won title in the main event.
 * In the 4/20 ladder match, the object hung above the ring is to be a small bag of cannabis.
-* Stanislaw Van Dobroniak is defending the PpW Ultraviolent championship against Alex Arthur. In a promo released on social media, he compared his opponent to a beaver, referencing a meme.
-* Nick Schreier, while not yet announced for the show, leaked his appearance on his Instagram, listing dates and cities of his bookings in April.
-* Pure Gold (Gabriel Queen and Vic Golden) are set to appear in a tag team match, after their surprise reunion on the previous event.
+* Stanislaw Van Dobroniak is defending the PpW Ultraviolent championship against Alex Arthur. In a promo released on social media, he compared his opponent to a beaver, referencing a popular meme at the time.
+* Nick Schreier, before the official announcement, leaked his appearance on his Instagram, listing dates and cities of his bookings in April.
+* Pure Gold (Gabriel Queen and Vic Golden) are set to appear in a tag team match, after their surprise reunion at the previous event.
+* 7 matches and a new ring were confirmed on Facebook, in the post that advertised Baklava Club's involvement.
 
 {% card() %}
 - - Benny Bacchus
@@ -39,15 +41,20 @@ The foreign guests for this event will be:
   - Alex Arthur
   - c: PpW Ultraviolent Championship
 - - Nick Schreier
-  - ???
+  - '[Samson](@/w/samson.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - s: Three Way Dance
 - - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
-  - ???
+  - "Baklava Club: Aytac Bahar, Joshua Amaru"
+  - s: Tag Team Match
 {% end %}
 
-Full card not announced yet, the above is at best a guess.
+Full card not announced yet, the above is based on social media posts.
 
 ### References
 
 * [Facebook event page](https://www.facebook.com/events/330377740015358)
 * [Praga Centrum](https://pragacentrum.pl/pl/galeria/)
 * [4/20 Ladder Match announcement](https://www.facebook.com/OficjalnePPW/posts/pfbid02xck4MVh2qEGhfJ1qNQgYPE8dRDbCe3TvBQCSbt5meCgtzsNvu3RUPpvMAmPEdf9Xl)
+* [Announcing Baklava club vs Pure Gold](https://www.facebook.com/OficjalnePPW/posts/pfbid029SpCNuYnCHqmccMxhSPNQ9KAF7yAeXoDMcNmFhvbWWB1NMnfuxT9iot7jhH4pMgTl),
+  also mentions a new ring and 7 matches
