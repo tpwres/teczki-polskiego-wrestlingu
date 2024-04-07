@@ -20,13 +20,12 @@ The foreign guests for this event will be:
 
 #### Build-up and information released so far
 
-* Six matches are planned for the event
 * Mister Z defeated Ricardo Diesel for the #1 Contender spot. PpW Champion Feager defends his newly won title in the main event.
 * In the 4/20 ladder match, the object hung above the ring is to be a small bag of cannabis.
 * Stanislaw Van Dobroniak is defending the PpW Ultraviolent championship against Alex Arthur. In a promo released on social media, he compared his opponent to a beaver, referencing a popular meme at the time.
 * Nick Schreier, before the official announcement, leaked his appearance on his Instagram, listing dates and cities of his bookings in April.
 * Pure Gold (Gabriel Queen and Vic Golden) are set to appear in a tag team match, after their surprise reunion at the previous event.
-* 7 matches and a new ring were confirmed on Facebook, in the post that advertised Baklava Club's involvement.
+* 7 matches and a [new ring](@/o/ppw.md#2023-prime-time-transfers-professional-ring) were confirmed on Facebook, in the post that advertised Baklava Club's involvement.
 
 {% card() %}
 - - Benny Bacchus

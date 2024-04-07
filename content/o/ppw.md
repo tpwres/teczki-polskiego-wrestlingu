@@ -45,6 +45,8 @@ In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeare
 Over the weekend of March 6-8 2024, PpW wrestlers [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md) posted stories on Instagram, which featured them in a ring that was slightly larger than PpW's regular one. Three days later, on March 11th, Mister Z, kayfabe executive producer and booker, in real-life also co-owner of PpW posted a photo of him and Andrzej Supron on Instagram. They were shaking hands, captioned "Two [guys] happy that the deal went through. Thank you Mr Supron".
 The involvement of Supron suggest that this may be the very same ring he [bought in 2010](@/o/tbw.md#2010-successful-events) for Total Blast Wrestling. Hashtags used in the post seem to confirm this.
 
+Scroll down to the [gallery](./#gallery) to view screenshots of the stories mentioned.
+
 ### Lost Lore
 
 PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023, and was unavailable, even on Internet Archive's Wayback Machine. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.
