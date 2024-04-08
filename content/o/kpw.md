@@ -25,6 +25,10 @@ In 2020 the COVID-19 pandemic hit, and Poland implemented severe restrictions. T
 Pawłowski was also part of the team that founded KPW, and later served as their host and ring announcer until [2019](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md).
 During and after the hiatus, KPW lost several of their headliners who chose to join the new organization: [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md), [Sawicki](@/w/sawicki.md), [Gracjan Korpo](@/w/gracjan-korpo.md), as well as the newcomer [Diana](@/w/diana-strong.md).
 
+#### 2023 TV deal and FightBox
+
+After the events of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), Chairman Malinowski announced that from this moment on, KPW's events will be broadcast on cable TV, on MMA and wrestling-focused channel FightBox. This was finally realized in April 2024, when FightBox broadcast Arena 23. On April 2, 2024 [Piękny Kawaler](@/w/piekny-kawaler.md), KPW owner and booker, posted [a photo of himself](https://www.facebook.com/kawalerwrestling/posts/pfbid028kdGNo5vEVnSscGnsCzUr9spHsX14gPKk3ocJ7ogMSnnqPh2cxWsuCfMAUyrGdbyl) watching the event on TV, captioning it "Finally the day has come". According to his replies under that post, FightBox wanted to record English commentary, in order to broadcast KPW's shows abroad.
+
 ### Foreign relations
 
 KPW frequently invited talent from the European independent scene to their events, especially the yearly supershow Godzina Zero. Initially they invited wrestlers from Hungary, with which DDW had good relationships. Later, most of the talent came from Germany and Austria. Several wrestlers from the British scene also appeared on KPW's shows. The hottest guest appearance among them were Primate and Wild Boar, by that time a tag team seen in NXT UK, and Mark Haskins, a veteran of the British scene. Its own wrestlers occassionally appeared abroad, mostly in Austria and Germany. KPW does not try to draw attendance by relying on foreign stars, and always puts them against their own talent.
