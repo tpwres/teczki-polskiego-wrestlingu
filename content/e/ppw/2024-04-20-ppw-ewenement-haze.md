@@ -33,19 +33,24 @@ The foreign guests for this event will be:
   - '[Rafi](@/w/rafi.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: Critical 4/20 Ladder Match
+    nc: upcoming
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: PpW Championship
+    nc: upcoming
 - - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - Alex Arthur
   - c: PpW Ultraviolent Championship
+    nc: upcoming
 - - Nick Schreier
   - '[Samson](@/w/samson.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: Three Way Dance
+    nc: upcoming
 - - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
   - "Baklava Club: Aytac Bahar, Joshua Amaru"
   - s: Tag Team Match
+    nc: upcoming
 {% end %}
 
 Full card not announced yet, the above is based on social media posts.

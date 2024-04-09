@@ -13,19 +13,20 @@ The venue is listed as Dworek Pod Platanami, which is a hotel and restaurant, pr
 It will be the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). According to PTW's announcement post, Underground shows will move permanently to Saturday, and to a new location. This is likely to what the "new season" in the promotional material for [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) referred to.
 
 {% card() %}
-- ['[Karol "Iskra" Górski](@/w/iskra.md)', '[Max Speed](@/w/max-speed.md)']
+- ['[Karol "Iskra" Górski](@/w/iskra.md)', '[Max Speed](@/w/max-speed.md)', nc: upcoming]
 - ['Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)', {s: Open
-      Challenge, c: PTW Tag Team Championship}]
-- ['[Diana Strong](@/w/diana-strong.md)', '[Marco Hammers](@/w/marco-hammers.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', {g: true, s: Longman's Confession}]
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
-- [Sambor, '[Erik Šlotíř](@/w/erik-slotir.md)']
-- ['[Olgierd](@/w/olgierd.md)', King Kaiden]
-- ['[Puncher](@/w/puncher.md)', Marius Al-Ani]
+      Challenge, c: PTW Tag Team Championship, nc: upcoming}]
+- ['[Diana Strong](@/w/diana-strong.md)', '[Marco Hammers](@/w/marco-hammers.md)', nc: upcoming]
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', {g: true, s: Longman's Confession, nc: upcoming}]
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)', nc: upcoming]
+- [Sambor, '[Erik Šlotíř](@/w/erik-slotir.md)', nc: upcoming]
+- ['[Olgierd](@/w/olgierd.md)', King Kaiden, nc: upcoming]
+- ['[Puncher](@/w/puncher.md)', Marius Al-Ani, nc: upcoming]
 {% end %}
 
-Card incomplete, based on social media posts.
+This card was confirmed in a Facebook post on April 8, 2024.
 
 ### References
 
 * [Announcement post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02XT8mW3mkkJEtQQm4EkU2Z6f2dBv9RsXGfcKtQNGVFUzqW7NtY2DMxnT1PyxUyXqTl)
+* [Full card posted](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0vTbN3aRNucJBWmRFLS1fYmSNr5qKHuU1rqbp7h3Mav7dhiD72uxsQTpXuybbkH2Wl)
