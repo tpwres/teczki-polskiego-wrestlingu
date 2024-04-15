@@ -52,6 +52,10 @@
   <link rel="stylesheet" href="{{ get_url(path="simple.css", trailing_slash=false) }}">
   <link rel="stylesheet" href="{{ get_url(path="custom.css", trailing_slash=false) }}">
   <link rel="icon" type="image/png" href="{{ get_url(path="logo.png", trailing_slash=false) }}">
+  <script type="module" defer>
+    import { polyfillCountryFlagEmojis } from "/country-flag-emoji-polyfill.js";
+    polyfillCountryFlagEmojis();
+  </script>
 
   {%- if config.generate_feed -%}
     <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
