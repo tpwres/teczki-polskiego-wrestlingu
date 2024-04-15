@@ -17,6 +17,7 @@ The foreign guests for this event will be:
 * German wrestler Nick Schreier. In 2021, Nick, in his third ever match recorded on Cagematch, appeared for [MZW](@/o/mzw.md) at [Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 * Danish wrestler Benny Bacchus, who competes mostly in Denmark and Sweden
 * German wrestlers Joshua Amaru and Aytac Bahar, returning as a tag team. Their previous appearance was at [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
+* German wrestler Salsakid Rambo, billed as just Rambo, with 16 years of in-ring experience.
 
 #### Build-up and information released so far
 
@@ -51,6 +52,9 @@ The foreign guests for this event will be:
   - "Baklava Club: Aytac Bahar, Joshua Amaru"
   - s: Tag Team Match
     nc: upcoming
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - Salsakid Rambo
+  - nc: upcoming
 {% end %}
 
 Full card not announced yet, the above is based on social media posts.
