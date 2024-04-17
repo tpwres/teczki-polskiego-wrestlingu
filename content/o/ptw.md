@@ -58,7 +58,6 @@ On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, offi
 At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2021 Nissan GTR car, which could be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase an ebook, which came with a free ticket. These ebooks were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 16 pages), including results from PTW's shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets.
 
 In the following months, leading to [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) he promoted the lottery heavily on social media, and in collaboration with various online personalities, most of who had nothing to do with wrestling.
-With Pawłowski promoting mostly himself and the lottery, the wrestling side of PTW seemed to be almost forgotten.
 
 
 ### References
