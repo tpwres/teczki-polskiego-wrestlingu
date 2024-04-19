@@ -9,7 +9,7 @@ hide_results = true
 Ewenement Haze is an upcoming event by [PpW Ewenement](@/o/ppw.md), taking place on Saturday April 20.
 The original venue was to be [Waldorffa 25](@/v/waldorffa25.md), but due to miscommunication, it turned out that it's already booked for the night, and PpW had to find a replacement.
 The new venue is Praga Centrum, which is a music and event venue with a large outdoor garden, located in Warsaw's Praga district.
-According to Facebook posts, the ring will be set outdoors, which is a first for PpW.
+While initially the show was to take place outdoors (which would be the first time PPW held an event outdoors, ignoring its backyard years), later it was announced that due to unstable weather, it will be moved indoors.
 The event's name refers to cannabis, whose many strains are often named "Something + Haze". This in turn, is a reference to the date, which, together with the number 420 are often associated with cannabis culture.
 
 The foreign guests for this event will be:
@@ -57,7 +57,7 @@ The foreign guests for this event will be:
   - nc: upcoming
 {% end %}
 
-Full card not announced yet, the above is based on social media posts.
+Only 6 out of 7 matches have been announced so far, the above is based on social media posts.
 
 ### References
 
