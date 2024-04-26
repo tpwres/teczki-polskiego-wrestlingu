@@ -10,7 +10,7 @@ Ewenement Haze was an event by [PpW Ewenement](@/o/ppw.md), taking place on Satu
 The original venue was to be [Waldorffa 25](@/v/waldorffa25.md), but due to miscommunication, it turned out that it's already booked for the night, and PpW had to find a replacement.
 The new venue was Praga Centrum, a music and event venue with a large outdoor garden, located in Warsaw's Praga district.
 According to Facebook posts, the ring wast to be set outdoors, later the plans changed and the show was held indoors after all.
-The set featured a full stage and elevated ramp leading to the ring, with full size titantron display playing videos for wrestler's entrances.
+The set featured a full stage and elevated ramp leading to the ring, with full size titan-tron display playing videos for wrestler's entrances.
 The event's name refers to cannabis, whose many strains are often named "Something + Haze".
 This in turn, is a reference to the date, which, together with the number 420 are often associated with cannabis culture.
 
@@ -45,7 +45,7 @@ The foreign guests for this event were:
   - '[Isnorr](@/w/isnorr.md)'
   - s: Critical 4/20 Ladder Match for 20g of CBD marijuana
 - - '[Biesiad Strong](@/w/biesiad.md)'
-  - Salsakid Rambo
+  - Rambo
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: PpW Championship
@@ -78,7 +78,7 @@ Samson attempts a top rope splash on Schreier, but Sigmarsson pulls Samson out o
 
 Winner: Gustav Gryffin
 
-#### Tag Team Match: Pure Gold (Gabriel Queen & Vic Golden) v Baklava CLub (Aytac Bahar, Joshua Amaru)
+#### Tag Team Match: Pure Gold (Gabriel Queen & Vic Golden) v Baklava Club (Aytac Bahar, Joshua Amaru)
 
 Pure Gold make their entrance to a huge babyface reaction, crowd sings their "Best of both worlds" theme song.
 
@@ -119,7 +119,7 @@ Rafi is alone on the ladder and nearly has the trophy in his hands, but Goblin a
 Goblin and Bacchus continue to work as a team against the other two.
 Isnorr asserts dominance, lays the babyfaces out. He sets up the table on the ramp, puts Goblin on it and bodyslams Benny on top of him - the table breaks.
 Rafi tries to sneak past for a win, but is stopped by Isnorr as well.
-Rafi makes a comeback, puts Isnorr through a horizontal ladder and attemps to climb. Bacchus makes a save, with the help of Goblin they put Rafi through a table.
+Rafi makes a comeback, puts Isnorr through a horizontal ladder and attempts to climb. Bacchus makes a save, with the help of Goblin they put Rafi through a table.
 
 All four men climb the ladders and brawl, only to fall off them. Benny is alone on the ladder and has the match won, but sees Isnorr attempting to choke Goblin out with a ladder.
 He chooses loyalty over victory, saving Goblin with a superman punch to Isnorr. Goblin and Rafi are last men standing, they climb the ladder and brawl.
@@ -160,7 +160,7 @@ He places a chair on the stage and takes a seat. Rambo introduces chairs to the 
 Biesiad eventually makes his comeback, drops Rambo between the ropes with an enziguiri, 619, back to the ring with a Buckshot Lariat for a 2 count.
 Biesiad lays Rambo out with a chairshot to the head, places him on the table, set upright in the corner.
 Attempt to spear through a table, counter, Rambo suplexes Biesiad, breaking the table in half.
-Rambo throws a trash can into the ring and attemps to hit his opponet. A sequence of counters follows, Rambo receives trash can to the face multiple times.
+Rambo throws a trash can into the ring and attempts to hit his opponent. A sequence of counters follows, Rambo receives trash can to the face multiple times.
 Biesiad hits a swanton onto Rambo with a trashcan on top.
 Pinfall attempt broken up after Mister Z pulls Biesiad out.
 They get physical, the distraction allows Rambo to make his comeback. Superplex on Biesiad, still not enough for a 3 count.
@@ -188,7 +188,7 @@ Feager tries to brawl out of the hold, but fails. He drags himself and Z to the 
 Feager makes a comeback, HHH facebuster onto a knee, Z counters into a full Nelson, immediately countered into a Jawbreaker.
 They run the ropes, Feager with a Samoan Drop.
 He sets up Z for Pedigree, counter into enziguiri and Superkick for a 2 count.
-Mr Z goes to the apron and attemps a slingshot top rope move, but Feager recovers. Kick to the gut, pedigree for 2 and a half count.
+Mr Z goes to the apron and attempts a slingshot top rope move, but Feager recovers. Kick to the gut, pedigree for 2 and a half count.
 Z is slowly recovering in the corner, in comes Feager with a sledgehammer. Attempts to hit Z, but he quickly dodges and counters into Big Deal (shining wizard variation) for a 2 count.
 While Feager recovers, Mr Z brings a chair to the ring. He drops Feager with a chairshot to the back, then to the leg. Feager recovers and Z hits him with a chairshot to the head.
 
@@ -207,20 +207,20 @@ They drag the stunned referee back into the ring, ref is busted open. Very slow 
 Now the heels set up Feager, supposedly for a triple powerbomb, but before Z picks him up, Biesiad appears out of nowhere.
 He buckshots Z and goes for a ground and pound. The crowd goes nuts. Heels get the upper hand once again, but out comes Goblin to even the odds.
 He brawls with Gryffin at ringside. Biesiad and Sigmarsson brawl to the backstage area, throwing ladders around.
-Back to the ring, only the referee and competitors remain. Feager attemps a Pedigree, but Z counters into a Pedigree of his own for a nearfall.
+Back to the ring, only the referee and competitors remain. Feager attempts a Pedigree, but Z counters into a Pedigree of his own for a near-fall.
 They are both up, Z sets up Feager for a dropkick in the corner. He picks up Feager into powerbomb position but Feager counters with a sledgehammer to the head.
 Pedigree onto the chair for a 3 count - Feager retains.
 
 Winner and still PpW Champion: Bill Feager
 
 Feager celebrates in the ring with the championship and slowly makes his leave.
-With him still on the ramp, Iron Maiden's "Run to the hills" starts playing.
+With him still on the ramp, Iron Maiden's "The Trooper" starts playing.
 
 #### Segment: Kapitan Bazooka, Jerry "Rich" Mandecki
 
 Jerry "Rich" Mandecky - PpW's major investor makes his entrance, accompanied by his bodyguard, Kapitan Bazooka.
 
-They pass Feager by and enter the ring, Mandecky turns to Z, still seatead in the corner.
+They pass Feager by and enter the ring, Mandecky turns to Z, still seated in the corner.
 Mandecky is clearly disappointed in Z, he shakes his head at him, looks at Bazooka and they both salute each other - it seems like he wants Bazooka to dispose of Mr Z.
 In the middle of the salute, Bazooka flips Mandecky off, kick to the gut, STUNNER!
 
@@ -233,11 +233,11 @@ Ring crew slowly clean the ring and we go for another break.
 
 #### Ultraviolent match for PpW European Ultraviolent Championship - Stanisław van Dobroniak (c) v Alex Arthur
 
-The challenger enters with a full set of items, wearing a white PpW T-shirt. His equipment includes a suspiciuosly long cardboard box.
+The challenger enters with a full set of items, wearing a white PpW T-shirt. His equipment includes a suspiciously long cardboard box.
 Out comes the champion with a chair and two championship belts.
 
 Referee Kornel is unable to work after being busted open in previous match, so Michael HT announces his replacement.
-Out comes Johnny Blade in a long leeather coat.
+Out comes Johnny Blade in a long leather coat.
 He takes a mic to cut a promo. He says there is nobody crazy enough to officiate such a match - except for him.
 Johnny drops his coat, showing a referee shirt underneath. He requests a deal: in exchange for officiating this match, Z is to lift his ban on Ultraviolent Championship titleshots.
 
@@ -286,7 +286,7 @@ Michael HT is reluctant to enter the ring once again, but eventually decides to.
 
 Additional interviews, once again conducted by Joker:
 
-* Stanisław van Dobroniak: brags about his win and his titlerun, nearly 600 days long. He's full of himself, calls himself a god, warlord, and king.
+* Stanisław van Dobroniak: brags about his win and his title run, nearly 600 days long. He's full of himself, calls himself a god, warlord, and king.
 * Biesiad Strong: Joker asks him how many conspiracies he has thwarted, Strong jokingly remarks that all of them and one more.
   He promises to always stop conspiracies and do the same to Mister Z at the next show. Joker asks Biesiad to avenge Kornel, he asks if Kornel is part of any conspiracy.
   Joker denies, and Biesiad promises to avenge Kornel
