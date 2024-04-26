@@ -28,7 +28,7 @@ function switchTheme() {
 }
 
 // Get the current theme from local storage
-if (currentTheme === undefined) {
+if (currentTheme === null || currentTheme === undefined) {
   if (window.matchMedia &&
       window.matchMedia('(prefers-color-scheme: dark)').matches) {
     console.log('user prefers dark scheme, going dark');
