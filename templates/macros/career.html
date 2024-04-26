@@ -10,8 +10,9 @@
     <div title="{{ hint_text }}">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
         style="background: {{ style|get(key='bg', default='#000') }};
-                color: {{ style|get(key='fg', default='#fff') }};
-                ">
+               color: {{ style|get(key='fg', default='#fff') }};
+               white-space: nowrap;
+        ">
         {{ style|get(key='text', default=code|upper) }}
     </a>
     </div>
@@ -30,8 +31,9 @@
     <div title="{{ hint_text }}" style="display: inline-block">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
         style="background: {{ style|get(key='bg', default='#000') }};
-                color: {{ style|get(key='fg', default='#fff') }};
-                ">
+               color: {{ style|get(key='fg', default='#fff') }};
+               white-space: nowrap;
+        ">
         {{ style|get(key='text', default=code|upper) }}
     </a>
     </div>
