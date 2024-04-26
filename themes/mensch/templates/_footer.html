@@ -28,17 +28,19 @@ function switchTheme() {
 }
 
 // Get the current theme from local storage
-if (currentTheme) {
-        // Set the body data-theme attribute to match the local storage item
-        document.documentElement.setAttribute("data-theme", currentTheme);
-        if (currentTheme === "dark") {
-                document.documentElement.setAttribute("data-theme", "dark");
-        }
-} else {
+if (currentTheme === undefined) {
   if (window.matchMedia &&
       window.matchMedia('(prefers-color-scheme: dark)').matches) {
     console.log('user prefers dark scheme, going dark');
     document.documentElement.setAttribute("data-theme", "dark");
   }
+} else {
+  // Set the body data-theme attribute to match the local storage item
+  document.documentElement.setAttribute("data-theme", currentTheme);
+}
+
+function switchThemeOG() {
+  document.documentElement.setAttribute("data-theme", "og");
+  localStorage.setItem("theme", "og");
 }
 </script>

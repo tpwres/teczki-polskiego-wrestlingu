@@ -31,7 +31,7 @@
       </li>
       {% endfor -%}
       <li>
-        <a id="darkmodetoggle" onclick="switchTheme()" aria-label="Change theme" title="Change theme">
+        <a id="darkmodetoggle" onclick="switchTheme()" ondblclick="switchThemeOG()" aria-label="Change theme" title="Change theme">
           <svg class="feather dark-theme-icon" title="Moon icon">
             <use href="{{ sprite }}#moon"/>
           </svg>
