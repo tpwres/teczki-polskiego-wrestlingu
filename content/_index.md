@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "Tales of Polish Wrestling"
 template = "index.html"
 +++
 
