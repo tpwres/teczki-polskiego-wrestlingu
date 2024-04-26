@@ -13,11 +13,14 @@
   --sans-font: "Inter", sans-serif
   --mono-font: "Ubuntu Mono", monospace
 
+.light-theme-icon, .dark-theme-icon
+  display: none
+
 [data-theme="dark"]
   @include dark-theme
 
-  .dark-theme-icon
-    display: none
+  .light-theme-icon
+    display: block
 
   section a:not(.org-badge)
     filter: brightness(120%)
@@ -29,8 +32,8 @@
 [data-theme="light"]
   @include light-theme
 
-  .light-theme-icon
-    display: none
+  .dark-theme-icon
+    display: block
 
   section a:not(.org-badge)
     filter: brightness(90%)
@@ -41,8 +44,8 @@
 [data-theme="og"]
   @include og-theme
 
-  .light-theme-icon
-    display: none
+  .dark-theme-icon
+    display: block
 
 
 .feather
