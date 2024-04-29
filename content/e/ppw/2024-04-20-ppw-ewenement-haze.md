@@ -19,7 +19,7 @@ The foreign guests for this event were:
 * German wrestler Nick Schreier. In 2021, Nick, in his third ever match recorded on Cagematch, appeared for [MZW](@/o/mzw.md) at [Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 * Danish wrestler Benny Bacchus, who competes mostly in Denmark and Sweden
 * German wrestlers Joshua Amaru and Aytac Bahar, returning as a tag team. Their previous appearance was at [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
-* Dominican wrestler Rambo, with 16 years of in-ring experience, mostly on the German scene.
+* Dominican wrestler Rambo, with 16 years of in-ring experience, mostly on the German scene. This is not his first time in Poland however: back in 2010 he appeared in a [tag team match](@/e/tbw/2010-06-05-tbw-2.md) for [Total Blast Wrestling](@/o/tbw.md).
 * Ukrainian wrestler Alex Arthur. While this is his first appearance for PpW, he already wrestled for MZW a number of times, starting in 2016.
 
 #### Build-up to the event

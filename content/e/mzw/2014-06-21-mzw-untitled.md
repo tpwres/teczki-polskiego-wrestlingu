@@ -10,7 +10,7 @@ venue = "smolec"
 - ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", "[Justin Joy](@/w/justin-joy.md)", {
     s: "Falls Count Anywhere Match"}]
 - ["Robert Kaiser", "[Dynamite Dave](@/w/dynamite-dave.md)"]
-- ["Kevin Williams", "Justin"]
+- ["Kevin Williams", "[Justin](@/w/justin-joy.md)"]
 - ["[Shadow](@/w/shadow.md)", {s: "#1 Contendership Battle Royal", c: "MZW Championship"}]
 - ["[ZERO](@/w/franz-engel.md)(c)", "[Rick Baxxter](@/w/rick-baxxter.md); The Grannatic",
   {r: "DQ", c: "Next Step Wrestling Championship"}]

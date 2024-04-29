@@ -1,6 +1,7 @@
 +++
 title = "Justin Joy"
 template = "talent_page.html"
+career_aliases = ["Justin"]
 [extra]
 country_flag = "PL"
 [extra.gallery]
