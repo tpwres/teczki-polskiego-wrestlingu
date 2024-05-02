@@ -8,7 +8,7 @@ venue = "ptw-targowa"
 
 {% card() %}
 - ['[Taras](@/w/taras.md)', '[Max Speed](@/w/max-speed.md)']
-- [King Kaiden, '[Erik Šlotíř](@/w/erik-slotir.md)']
+- ['[King Kaiden](@/w/king-kaiden.md)', '[Erik Šlotíř](@/w/erik-slotir.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Boro](@/w/boro.md)']
 - ['[Disco Pablo](@/w/disco-pablo.md)', '[Sinister](@/w/sinister.md)']
 - ['[Olgierd](@/w/olgierd.md)', '[Gabriel Queen](@/w/gabriel-queen.md)', {s: Underground

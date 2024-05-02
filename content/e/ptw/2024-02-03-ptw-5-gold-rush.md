@@ -45,7 +45,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - Santino
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - King Kaiden
+  - '[King Kaiden](@/w/king-kaiden.md)'
   - Sambor
   - Spartan
   - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'

@@ -18,7 +18,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 - ['[Diana Strong](@/w/diana-strong.md)', Violet Nyte]
 - [Vincent Caravaggio, {g: true}]
 - ['[Erik Šlotíř](@/w/erik-slotir.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Dziedzic](@/w/dziedzic.md)', King Kaiden]
+- ['[Dziedzic](@/w/dziedzic.md)', '[King Kaiden](@/w/king-kaiden.md)']
 - ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Renegade](@/w/renegade.md)']
 - ["Sambor; Rusałka", '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Nitro](@/w/nitro.md)', '[Sinister](@/w/sinister.md)', '[Taras](@/w/taras.md)',
