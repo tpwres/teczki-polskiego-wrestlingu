@@ -19,7 +19,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 * The surprise, was however spoiled by Lince Dorado, who posted about a last-minute trip to Poland on his Instagram profile.
 
 {% card() %}
-- [Scotty Rawk, Speedball Mike Bailey, {c: "British Wrestling Revolution Championship"}]
+- [Scotty Rawk(c), Speedball Mike Bailey, {c: "British Wrestling Revolution Championship"}]
 - ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels]
 - ['[Krampus](@/w/krampus.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: No
       DQ Match}]
