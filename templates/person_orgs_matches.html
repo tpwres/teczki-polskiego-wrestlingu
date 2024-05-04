@@ -19,23 +19,25 @@
   {% set_global i = 1 %}
   {# Now iterate through orgs, and find matches for that org #}
   {% for o in orgs %}
-    {# skip org badge if none of the matches have it #}
-    {% set_global valid_org = false %}
-    {% for mm in all_my_matches %}
-      {% if mm.o is containing(o) %}
-        {% set_global valid_org = true %}{% break %}
-      {% endif %}
-    {% endfor %}
-    {% if not valid_org %} {% continue %} {% endif %}
-    {{ macros::promolink_color_span(code=o, styles=org_styles) }}
-    {% if all_my_matches|length < 5 %}
-      {% for match in all_my_matches|sort(attribute='d') %}
-        {% if not match.o is containing(o) %} {% continue %} {% endif %}
-        {% if used_events is containing(match.p) %} {% continue %} {% endif %}
-        <a href="{{ get_url(path="@/" ~ match.p) }}">[{{ i }}]</a>
-        {% set_global used_events = used_events|concat(with=match.p) %}
-        {% set_global i = i + 1 %}
+    <span class="ot">
+      {# skip org badge if none of the matches have it #}
+      {% set_global valid_org = false %}
+      {% for mm in all_my_matches %}
+        {% if mm.o is containing(o) %}
+          {% set_global valid_org = true %}{% break %}
+        {% endif %}
       {% endfor %}
-    {% endif %}
+      {% if not valid_org %} {% continue %} {% endif %}
+      {{ macros::promolink_color_span(code=o, styles=org_styles) }}
+      {% if all_my_matches|length < 5 %}
+        {% for match in all_my_matches|sort(attribute='d') %}
+          {% if not match.o is containing(o) %} {% continue %} {% endif %}
+          {% if used_events is containing(match.p) %} {% continue %} {% endif %}
+          <a href="{{ get_url(path="@/" ~ match.p) }}">[{{ i }}]</a>
+          {% set_global used_events = used_events|concat(with=match.p) %}
+          {% set_global i = i + 1 %}
+        {% endfor %}
+      {% endif %}
+     </span>
   {% endfor %}
 {% endif %}
