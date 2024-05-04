@@ -10,7 +10,7 @@ Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped w
 {% card() %}
 - - '[Aron Wake](@/w/aron-wake.md)'
   - "[Isnorr](@/w/isnorr.md)"
-  - Krueger
+  - '[Krueger](@/w/olgierd.md)'
   - '[Madman Charlie](@/w/madman-charlie.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'

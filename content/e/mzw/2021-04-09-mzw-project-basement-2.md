@@ -8,7 +8,7 @@ venue = "online"
 Project Basement 2 is the second episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free.
 
 {% card() %}
-- ["Krueger", "[Prince Victor](@/w/vic-golden.md)"]
+- ["[Krueger](@/w/olgierd.md)", "[Prince Victor](@/w/vic-golden.md)"]
 - ["[Madman Charlie](@/w/madman-charlie.md)", "[Rafael Kid](@/w/rafael-kid.md)"]
 - ["[Shadow](@/w/shadow.md)", "[Nathan Cross](@/w/gabriel-queen.md) + [Isnorr](@/w/isnorr.md)"]
 - ["[Aron Wake](@/w/aron-wake.md)", "[Jacob Crane](@/w/jacob-crane.md)", {nc: "No

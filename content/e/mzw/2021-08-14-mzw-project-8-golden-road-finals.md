@@ -10,7 +10,8 @@ venue = "czasoprzestrzen"
       Championship Tournament Semi Final Match"}]
 - ['[Aron Wake](@/w/aron-wake.md)', Nick Schreier, {s: "MZW Championship Tournament
       Semi Final Match"}]
-- [Deti Black, '[Isnorr](@/w/isnorr.md)', Krueger, {s: "Three Way Match"}]
+- [Deti Black, '[Isnorr](@/w/isnorr.md)', '[Krueger](@/w/olgierd.md)', {s: "Three
+      Way Match"}]
 - ['[Shadow](@/w/shadow.md)', '[Prince Victor](@/w/vic-golden.md)', {s: "No Disqualification
       Match"}]
 - [Garett Noah, Chris Tyson]
