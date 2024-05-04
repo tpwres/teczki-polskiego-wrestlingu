@@ -3,6 +3,8 @@ title = "MZW Freak Show"
 template = "event_page.html"
 [extra]
 venue = "bakara"
+[extra.gallery]
+plakat = { path = "plakat.webp", description = "Poster for the show", source = "MZW's Facebook page"}
 +++
 
 Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:
