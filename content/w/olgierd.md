@@ -6,4 +6,6 @@ career_aliases = ["Hades", "Krueger"]
 country_flag = "PL"
 +++
 
-Also known as: Krueger (in {{ org_badge(org='mzw') }})
+Also known as:
+* Krueger, in {{ org_badge(org='mzw') }}
+* Hades, in {{ org_badge(org='ppw') }}
