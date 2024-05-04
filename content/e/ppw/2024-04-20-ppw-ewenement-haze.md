@@ -4,6 +4,8 @@ template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [extra]
 venue = "praga-centrum"
+[extra.gallery]
+1 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "PPW's Facebook page"}
 +++
 
 Ewenement Haze was an event by [PpW Ewenement](@/o/ppw.md), taking place on Saturday April 20, 2024.
