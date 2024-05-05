@@ -68,7 +68,11 @@ Referees: Karol Górski, Kornel, Johnny Blade (special guest ref for the main ev
 Show opens with host "OG" Michael HT entering the ring. He hypes up the crowd.
 Referee Karol Górski is introduced and the announcements for first match start.
 
+Timestamps refer to the YouTube video linked in the [References](#references) section, and mark the start of wrestler entrances, not the opening bell.
+
 #### Triple Threat Match: Gustav Gryffin (w/Jakob Sigmarsson) v Nick Schreier v Samson
+
+Timestamp: `1:01:07`
 
 Gryffin makes his entrance accompanied by Sigmarsson to a chorus of boos and "get the f*** out" chants.
 Nick Schreier hits the ring to a moderate pop, while Samson enters to a large pop. He's over with the crowd big time.
@@ -81,6 +85,8 @@ Samson attempts a top rope splash on Schreier, but Sigmarsson pulls Samson out o
 Winner: Gustav Gryffin
 
 #### Tag Team Match: Pure Gold (Gabriel Queen & Vic Golden) v Baklava Club (Aytac Bahar, Joshua Amaru)
+
+Timestamp: `1:19:50`
 
 Pure Gold make their entrance to a huge babyface reaction, crowd sings their "Best of both worlds" theme song.
 
@@ -104,7 +110,9 @@ Winners: Pure Gold
 Show of respect between two teams, they shake hands, Baklava raise the victors' hands... only to lay them out with low-blows.
 They beat Pure Gold down and celebrate their "victory" in the ring.
 
-#### Critical 420 Ladder Match for 20g of CBD marijuana: Benny Bacchus v Isnorr v Rafi v Goblin
+#### Critical 420 Ladder Match for 20g of marijuana: Benny Bacchus v Isnorr v Rafi v Goblin
+
+Timestamp: `1:45:36`
 
 The trophy (20g of marijuana, declared to be CBD) is hung high above the ring.
 
@@ -115,7 +123,7 @@ In an unplanned development, babyfaces signal the referee, who retrieves the tro
 
 Goblin and Bacchus each try to climb the ladder to grab the prize, but neither can get the upper hand.
 Isnorr drops them and now he's alone in the ring with Rafi. Goblin comes back with a kendo stick, Bacchus with another ladder.
-Goblin and Bacchus stand on opposite sides of the ladder. They realize they can just share the stash, hug and embrace.
+Goblin and Bacchus stand on opposite sides of the ladder. They realize they can just share the stash, hug and embrace. Crowd is chanting "zajeb bucha" (_Blaze it_).
 Just as Goblin is about to win the match, Rafi drags him off the ladder with an RKO.
 Rafi is alone on the ladder and nearly has the trophy in his hands, but Goblin and then Bacchus stop him.
 Goblin and Bacchus continue to work as a team against the other two.
@@ -151,6 +159,8 @@ In comes Michael HT and starts an in-ring charity auction for Scooby the dog who
 
 #### Rambo v Biesiad Strong
 
+Timestamp: `2:53:50`
+
 The stipulation for this match is: Biesiad earns a contender match against Mister Z if he wins. However, should he lose, he gets his long hair shaved bald.
 
 Back from the break, Michael HT is in the ring. He announces referee Kornel who comes out from the stage to a big ovation.
@@ -175,8 +185,10 @@ He grabs a mic for a short promo and challenges Mr Z for a match at the next PpW
 
 #### "Real Deal" Mister Z v Bill Feager (c) - PpW Championship
 
+Timestamp: `3:18:07`
+
 Mr Z makes his entrance to a chorus of boos and insults from the crowd.
-Next comes PpW Champion, Bill Feager, to some pop.
+Next comes PpW Champion, Bill Feager, to some pop. He's using Volbeat's "A Warrior's Call" song as his entrance theme now.
 Before Michael HT gets a chance to start the formal introductions, Mr Z grabs the mic to cut a promo, putting down Feager as a paper champion and putting himself over.
 He offers Feager a deal: to lay down for him in the middle of a ring. He gives the mic to Feager for him to announce his decision... Feager directs the mic toward the audience,
 who are now chanting "kill him". He refuses, ridiculing Mister Z's "deals".
@@ -220,6 +232,8 @@ With him still on the ramp, Iron Maiden's "The Trooper" starts playing.
 
 #### Segment: Kapitan Bazooka, Jerry "Rich" Mandecki
 
+Timestamp: `3:53:35`
+
 Jerry "Rich" Mandecky - PpW's major investor makes his entrance, accompanied by his bodyguard, Kapitan Bazooka.
 
 They pass Feager by and enter the ring, Mandecky turns to Z, still seated in the corner.
@@ -235,8 +249,10 @@ Ring crew slowly clean the ring and we go for another break.
 
 #### Ultraviolent match for PpW European Ultraviolent Championship - Stanisław van Dobroniak (c) v Alex Arthur
 
+Timestamp: `4:18:20`
+
 The challenger enters with a full set of items, wearing a white PpW T-shirt. His equipment includes a suspiciously long cardboard box.
-Out comes the champion with a chair and two championship belts.
+Out comes the champion with a chair and two championship belts: the PpW Ultraviolent Championship, and STHLM Wrestling's Capital City Championship.
 
 Referee Kornel is unable to work after being busted open in previous match, so Michael HT announces his replacement.
 Out comes Johnny Blade in a long leather coat.
@@ -284,7 +300,7 @@ Dobroniak celebrates over laid out opponent and referee and makes his leave. Bla
 
 #### Finale
 
-Michael HT is reluctant to enter the ring once again, but eventually decides to. He announces that Jerry Rich Mandecky has been driven away outside Warsaw by a masked person called Kapitan Bazooka. He announces the next show, Ledwo Legalne 4, "soon".
+Michael HT is reluctant to enter the ring once again, but eventually decides to. He announces that Jerry Rich Mandecky has been driven away outside Warsaw by a masked assailant named Kapitan Bazooka. He announces the next show, [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), "soon".
 
 Additional interviews, once again conducted by Joker:
 
