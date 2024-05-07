@@ -51,3 +51,8 @@ Match card known so far:
   - c: PPW European Ultraviolent Championship
     s: Triple Threat Match
 {% end %}
+
+### References
+
+* [Facebook post announcing Gustav vs Goblin II](https://www.facebook.com/OficjalnePPW/posts/pfbid02iGFhFNmgVNxhonkm9tESeyEbatpvufnCvHeezjcAa9xU3A8G7dnToAQcUDcd9vWYl)
+* [Post-show interview with Mister Z](https://youtu.be/8u292TzKREA?t=17984) at Ewenement Haze, announcing his next match (at 4:59:44)
