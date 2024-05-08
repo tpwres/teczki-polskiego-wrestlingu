@@ -36,18 +36,18 @@ In his post-show interview, Mister Z (exercising full power over PpW after Mande
 Match card known so far:
 
 {% card() %}
-- - Gustav Gryffin
-  - Goblin
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Goblin](@/w/goblin.md)'
   - s: "No Holds Barred #1 Contender Match"
     nc: announced
 - - Biesiad Strong
-  - Feager(c)
-  - Mister Z
+  - '[Feager](@/w/feager.md)(c)'
+  - '[Mister Z](@/w/mister-z.md)'
   - c: PPW Championship
     nc: announced
-- - Stanislaw Van Dobroniak
+- - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - Alex Arthur
-  - Johnny Blade
+  - '[Johnny Blade](@/w/johnny-blade.md)'
   - c: PPW European Ultraviolent Championship
     s: Triple Threat Match
 {% end %}

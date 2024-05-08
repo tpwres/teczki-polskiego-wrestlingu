@@ -51,7 +51,7 @@ The foreign guests for this event were:
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: PpW Championship
-- - Kapitan Bazooka, Jerry "Rich" Mandecki
+- - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), Jerry "Rich" Mandecki'
   - g: true
 - - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - Alex Arthur
