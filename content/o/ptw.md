@@ -5,6 +5,13 @@ template = "org_page.html"
 authors = ["Szymon Iwulski"]
 [extra.gallery]
 1 = { path = "rzezniczek-departs.png", caption = "Marcin Rzeźniczek announcing his departure from PTW" }
+2 = { path = "ptw6_leak.png", caption = "Wrestlefans' Sabinq realising he leaked a match. Further down, Taras admits to being on a break from the ring.", source = "Twitter/X"}
+3 = { path = "taras_cyrk.jpg", caption = 'Taras seemingly happy that he is no longer part of "this circus".', source = "Twitter/X"}
+4 = { path = "taras_60.png", caption = "Jakub Tyczyński accusing Taras of ratting out other wrestlers to boss Pawłowski. Jacob Crane is named for holding an exhausting training session, and Axel Fox for some crude humor during training. Also mocking his debut victory over Tischer, as something that the entire German scene supposedly derides.", source = "PTW's public Facebook group"}
+5 = { path = "taras_done.png", caption = "Arek Roter criticizes that a 10-year old car is pushed way more than any wrestler in PTW. Taras declares he's done with wrestling for the time.", source = "Twitter/X"}
+6 = { path = "sabinq_done.png", caption = "Wrestlefan's Sabinq declaring he know nothing about Stonoga's involvement, and dropping out of collaboration with PTW.", source = "Twitter/X"}
+7 = { path = "ppw_wrestlers_stonoga.jpg", caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PPW merchandise. Except one, these fans are PPW wrestlers and personnel.', source = "Gazeta Stonoga's Facebook page" }
+8 = { path = "pozdro_dla_tych.png", caption = "Group post re-sharing Stonoga's announcement. The comment mocks people who spent their own money on the show. The bottom popup text is an alert that the post was removed.", source = "PTW's public Facebook Group"}
 +++
 
 ### History
@@ -43,6 +50,8 @@ It was also announced that more roster cuts are to follow, especially after "Sea
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unnanounced by the promotion, with his profile removed at some point between January and March 2024. During an [interview][robert-star-interview] for Istota Wrestlingu Youtube Channel, Robert confirmed his departure from PTW.
 
+On February 12th, 2024, PTW commentary team member Piotr "Showoff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards them.
+
 #### Expansion into Austria
 
 Throughout 2023, [Krampus](@/w/krampus.md), in addition to his in ring career in PTW, launched a wrestling promotion of his own, WWA (Wrestling World Austria).
@@ -55,10 +64,28 @@ The initial name for the this merged promotion was "PTW: WWA" (also stylized as 
 
 On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole leader. Breaking kayfabe (a recent storyline from [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind Bad Bones and Longman shenanigans), he wished his former partner, and everyone in PTW the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
 
+##### The Lottery
+
 At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2021 Nissan GTR car, which could be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase an ebook, which came with a free ticket. These ebooks were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 16 pages), including results from PTW's shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets.
 
 In the following months, leading to [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) he promoted the lottery heavily on social media, and in collaboration with various online personalities, most of who had nothing to do with wrestling.
+Immediately after Underground 21, PTW's social media accounts continued to focus solely on the lottery, while promoting the next major show took a distant second place, restricting itself to revealing the card in a series of posts.
+The organization cared so little for promoting its own show, that it did not even try managing WrestleFans' accidental reveal of the full match card, which was leaked before PTW revealed the final match themselves.
+The leak was accidentally posted by Wrestlefans' newsman Piotr "Sabinq" Gilewski. [Taras](@/w/taras.md) called him out on the mistake on Twitter/X, and in turn revealed that he also was on a lengthy break from PTW, although officially not released yet.
 
+##### The Stonoga controversy
+
+On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW#6](@/e/ptw/2024-05-11-ptw-6.md), and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card). The next day, Stonoga posted photos of himself and the car, as well as short clips of himself on the passenger seat. Later, he announced handing out 50 tickets, free and for anyone, in a McDonald's restaurant in Legionowo. This move prompted Taras to seemingly cut his ties with PTW, declaring he's finally "quitting this circus".
+
+Other PTW personalities, like [Disco Pablo](@/w/disco-pablo.md), the already-mentioned ex-commentator Piotr Małecki, and current commentator Arek Paterek also addressed the situation.
+Their posts ranged from open critique to only vague references. After Pablo and Taras made their comments, fans speculated about Pablo leaving PTW as well, which Pablo strongly denied.
+Some fans also alleged that Taras' current frustration was a result of losing the PTW Tag Team Championship, which he also denied.
+
+The two wrestler's criticism of PTW was also met with backlash. On PTW's public Facebook group, an account named Jakub Tyczyński (presumably a PTW personality, current or former) accused them of using their good relations with Pawłowski against other wrestlers in the past, and trying to play martyrs now.
+
+This string of PR flops, and apparent disinterest from PTW prompted Wrestlefans to pull out of promoting PTW with immediate effect, only 3 days before the show. And in another unexpected turn of events, some of the fans who received tickets from Stonoga turned ot to be [PpW](@/o/ppw.md) personnel. This got them both a free ticket for the show, and some social media exposure, through photos which Stonoga, unfamiliar with the wrestling scene, unknowingly shared.
+
+During this time, PTW remained silent, attempted to control the situation by deleting comments pertaining to the Stonoga situation from the fan group, and continuing to promote... the lottery.
 
 ### References
 
