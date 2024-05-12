@@ -23,11 +23,11 @@ Years later, in 2024, [PpW purchased](@/o/ppw.md#2023-prime-time-transfers-profe
 
 #### 2009: split from DDW
 
-In 2008, American wrestler [Don Roid](@/w/don-roid.md) settled in Poland, and finding no pro wrestling organizations, opened his own.
-The newly created [DDW](@/o/ddw.md) had ambitious plans, which included holding an event in Warsaw's Stodoła klub. However, tickets prices for this event proved to be too high
-and the interest in wrestling too low, ultimately leading to its cancellation. After that, Supron and Borkowski ended their collaboration with DDW, and set off with their own plan.
+In 2008, American wrestler [Don Roid](@/w/don-roid.md) settled in Poland, and finding no pro wrestling organizations, opened his own. He also managed to acquire Borkowski and Supron's support.
+The newly created [DDW](@/o/ddw.md) had ambitious plans, which included holding an event in Warsaw's Stodoła klub. However, ticket prices for this event proved to be too high, and public interest in pro wrestling too low, ultimately leading to its cancellation.
+After that, Supron and Borkowski ended their collaboration with DDW, and set off with their own plan.
 
-According to them, basing the events on only Polish wrestlers, at that time few and unknown, did not make sense. Neither did they want to organize a wrestling school to train their own stars first. And lastly, that they cannot afford hiring the best-known American superstars, when the European independent scene will suffice. Thus did Borkowski and Supron again contact Bernard Vandamme, whose wrestling promotion, Eurostars, was holding events in Belgium and France at that time, and had a solid roster of experienced, if unknown to Polish fans, wrestlers. With Bernard's help, they also contacted Fight Club Finland, European Wrestling Association from Austria, the German Wrestling Federation.
+According to them, basing the events on only Polish wrestlers, at that time few and unknown, made no sense. Neither did they want to organize a wrestling school to train their own stars first. And lastly, they could not afford hiring top American superstars, when the European independent scene would suffice. Thus did Borkowski and Supron again contact Bernard Vandamme, whose wrestling promotion, Eurostars, was holding events in Belgium and France at that time, and had a solid roster of experienced, if unknown to Polish fans, workers. With Bernard's help, they also contacted Fight Club Finland, European Wrestling Association from Austria, and the German Wrestling Federation.
 
 #### 2010: Successful events
 
@@ -36,14 +36,18 @@ From the get go, they put in serious effort and money. The event was to be highl
 
 The event was held in Strefa G2 Radom, a music club, with an attendance of about 300.
 
-A followup event was to be held in the first half of 2010, but was rescheduled due to the 2010 Smoleńsk plane crash. This suggests that the original date was between April 10 and 18th. The actual event was held on June 5th, this time in Zawiercie. The venue was a multipurpose sports hall in the city. At this event, TBW planned to introduce their own championship belt, as hinted in a promo by Bazelak. That ultimately did not happen, and the title they used was the Eurostars European Heavyweight Championship that Bernard Vandamme held at the time. Interestingly, the title did change hands in Zawiercie, in the main event between Vandamme and Cybernic Machine.
+A followup event was to be held in the first half of 2010, but was rescheduled due to the 2010 Smoleńsk plane crash. This suggests that the original date was between April 10 and 18th.
+The actual event was held on June 5th, this time in Zawiercie. The venue was a multipurpose sports hall in the city.
+At this event, TBW planned to introduce their own championship belt, as hinted in a promo by MMA fighter Kamil Bazelak during the show.
+That ultimately did not happen, and the title they used was the Eurostars European Heavyweight Championship that Bernard Vandamme held at the time.
+Interestingly, the title did change hands in Zawiercie, in the main event between Vandamme and Cybernic Machine.
 
 #### 2011: eventual demise
 
 However, despite plans to hold another event in 2011, the organization folded. While the events were well received, they were not commercially successful, due to lack of sponsors.
-The ticket prices alone weren't enough to cover all the production costs, and inviting the high-profile European wrestlers that the organization aimed for.
+The ticket prices alone weren't enough to cover both production costs and inviting the high-profile European wrestlers that the organization aimed for.
 
-On MyWrestling's MyCast podcast, Borkowski later revealed the organization's unfulfilled plans: signing a deal with Orange Sport, which was a general sports-themed TV channel that also broadcasted wrestling. The channel was to sponsor and broadcast further events.
+On MyWrestling's MyCast podcast, Borkowski later revealed the organization's unfulfilled plans: signing a deal with Orange Sport, which was a general sports-themed TV channel whose programming also included wrestling. The channel was to sponsor and broadcast further events.
 Nothing came out of this, because the deal fell through due to the channel changing hands. Orange Sport went defunct in 2016.
 
 ### References
