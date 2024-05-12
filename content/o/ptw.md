@@ -66,7 +66,7 @@ On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, offi
 
 ##### The Lottery
 
-At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2021 Nissan GTR car, which could be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase an ebook, which came with a free ticket. These ebooks were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 16 pages), including results from PTW's shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets.
+At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2012 Nissan GTR car, the grand prize to be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase an ebook, which came with a free ticket. These ebooks were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 16 pages), including results from PTW's shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets.
 
 In the following months, leading to [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) he promoted the lottery heavily on social media, and in collaboration with various online personalities, most of who had nothing to do with wrestling.
 Immediately after Underground 21, PTW's social media accounts continued to focus solely on the lottery, while promoting the next major show took a distant second place, restricting itself to revealing the card in a series of posts.
@@ -81,9 +81,9 @@ Other PTW personalities, like [Disco Pablo](@/w/disco-pablo.md), the already-men
 Their posts ranged from open critique to only vague references. After Pablo and Taras made their comments, fans speculated about Pablo leaving PTW as well, which Pablo strongly denied.
 Some fans also alleged that Taras' current frustration was a result of losing the PTW Tag Team Championship, which he also denied.
 
-The two wrestler's criticism of PTW was also met with backlash. On PTW's public Facebook group, an account named Jakub Tyczyński (presumably a PTW personality, current or former) accused them of using their good relations with Pawłowski against other wrestlers in the past, and trying to play martyrs now.
+The two wrestlers' criticism of PTW was also met with backlash. On PTW's public Facebook group, an account named Jakub Tyczyński (presumably a PTW personality, current or former) accused them of using their good relations with Pawłowski against other wrestlers in the past, and trying to play martyrs now.
 
-This string of PR flops, and apparent disinterest from PTW prompted Wrestlefans to pull out of promoting PTW with immediate effect, only 3 days before the show. And in another unexpected turn of events, some of the fans who received tickets from Stonoga turned ot to be [PpW](@/o/ppw.md) personnel. This got them both a free ticket for the show, and some social media exposure, through photos which Stonoga, unfamiliar with the wrestling scene, unknowingly shared.
+This string of PR flops, and apparent disinterest from PTW prompted Wrestlefans to pull out of promoting PTW with immediate effect, only 3 days before the show. And in another unexpected turn of events, some of the fans who received tickets from Stonoga turned ot to be [PpW](@/o/ppw.md) personnel. This got them both a free ticket for the show, and some social media exposure, through photos and live video which Stonoga, unfamiliar with the wrestling scene, shared.
 
 During this time, PTW remained silent, attempted to control the situation by deleting comments pertaining to the Stonoga situation from the fan group, and continuing to promote... the lottery.
 

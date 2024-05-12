@@ -8,6 +8,7 @@ hide_results = true
 [extra.gallery]
 
 1 = { path = "plakat_ll4.jpg", caption = "Show poster, released on Apr 28, 2024 on Facebook.", source = "PPW's Facebook page"}
+2 = { path = "robert_star_is_ewenement.jpg", caption = "Graphics announcing Robert Star, released on May 11, 2024 on Facebook.", source="PPW's Facebook page"}
 +++
 
 Ledwo Legalne IV (_Barely Legal_) is an upcoming event by [PPW Ewenement](@/o/ppw.md), scheduled for Saturday, June 8th 2024. The venue announced is Praga Centrum, a music and event venue in Warsaw's east-side Praga district. This is the same venue that hosted [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
@@ -19,6 +20,8 @@ Based on the poster, and outcomes of the [previous show](@/e/ppw/2024-04-20-ppw-
 * Stanisław van Dobroniak defending his Ultraviolent Championship against Johnny Blade and Alex Arthur.
 * Goblin vs Gustav Gryffin in a no holds barred match, with a title shot at the PPW Championship at stake
 * As per Mister Z's interview, not yet announced on Facebook: Biesiad Strong vs Mister Z vs Feager(c) for the PPW Championship
+
+On Saturday May 11, 2024, the day when [PTW](@/o/ptw.md) held their [event](@/e/ptw/2024-05-11-ptw-6.md) in Legionowo near Warsaw, PpW's Facebook page posted about booking [Robert Star](@/w/robert-star.md) for the show. Robert's career in Poland was always connected to promotions run by or with some influence of PTW's owner Arkadiusz Pawłowski.
 
 #### Storylines overview
 
@@ -50,9 +53,14 @@ Match card known so far:
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - c: PPW European Ultraviolent Championship
     s: Triple Threat Match
+    nc: announced
+- - Robert Star
+  - '??'
+  - nc: announced
 {% end %}
 
 ### References
 
 * [Facebook post announcing Gustav vs Goblin II](https://www.facebook.com/OficjalnePPW/posts/pfbid02iGFhFNmgVNxhonkm9tESeyEbatpvufnCvHeezjcAa9xU3A8G7dnToAQcUDcd9vWYl)
 * [Post-show interview with Mister Z](https://youtu.be/8u292TzKREA?t=17984) at Ewenement Haze, announcing his next match (at 4:59:44)
+* [Facebook post announcing Robert Star](https://www.facebook.com/OficjalnePPW/posts/pfbid02GSspE1SNetocUY2kWnC9LhDdsKYSGgh17G4h2bV4Q3CaRgLkziMrC6JDPkCYWBVnl)
