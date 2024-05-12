@@ -9,7 +9,7 @@ after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket s
 
 ### History
 
-#### 2007: PPWF
+#### Before 2006: PPWF
 
 Back in 1993, Andrzej Supron was instrumental in bringing the "World Wrestling Superstars" tour to Poland. This was the first ever professional wrestling event in the country.
 Some years later, likely in the early 2000s, Paweł Borkowski came to Supron with a plan to create the first pro wrestling federation in the country.
