@@ -5,6 +5,17 @@ template = "talent_page.html"
 country_flag = "PL"
 +++
 
+## Basic info
+
+* Billed from: Gdynia
+* Billed weight: 98kg
+* Nicknames:
+  - Polski Ogier
+  - The Polish Stallion
+  - The Rockstar of Polish Wrestling
+
+## Professional wrestling career
+
 ### 2013-2015: DDW
 
 Robert Star debuted at [DDW#8](@/e/ddw/2013-08-17-ddw-8.md) in a tag team match against Hungarian wrestlers [Nitro](@/w/nitro.md) and [Ron Corvus](@/w/ron-corvus.md), while his tag team partner was [Dover](@/w/dover.md), also Hungarian. Prior to his debut, Robert trained at [Don Roid](@/w/don-roid.md)'s wrestling school.
