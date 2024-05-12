@@ -26,11 +26,11 @@ In 2018, Robert competed in his first match abroad: at French Ligue Nationale de
 
 ### 2020-2023: Danish scene and Prime Time Wrestling
 
-Roberts' last appearance for KPW was in 2020, at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md), where he intervened against [Rosetti](@/w/rosetti.md) who attacked his now-former tag team partner [Sawicki](@/w/sawicki.md), after the two lost their championship.
+Robert's last appearance for KPW was in 2020, at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md), where he intervened against [Rosetti](@/w/rosetti.md) who attacked his now-former tag team partner [Sawicki](@/w/sawicki.md), after the two lost their championship.
 
 Almost immediately after this event, Polish authorities introduced severe lockdown in response to COVID, and KPW went on hiatus until August 2021. In the meantime, a new promotion appeared in the country: [Prime Time Wrestling](@/o/ptw.md), and started scouting for talent. Both Robert and Sawicki joined PTW, but only Robert would go inside the ropes there.
 
-In December 2020 Robert was slated to debut for Danish BODYSLAM! Pro-Wrestling's event. This did not pan out, as the event was cancelled due to COVID restrictions. He made his debut for them, and the Danish scene, in May 2021, by defeating Danish wrestler Hype Boy. Since then, he regularly appeared at Dansk Pro Wrestling and BODYSLAM!'s events, and occasionally for other Danish and Nordic promotions.
+In January 2021 Robert was slated to debut for Danish BODYSLAM! Pro-Wrestling's event, against Carlos Zamora. This did not pan out, as the event was cancelled due to COVID restrictions. The debut was postponed till in May 2021, when he defeated Danish wrestler Hype Boy. Since then, he regularly appeared at Dansk Pro Wrestling and BODYSLAM!'s events, and occasionally for other Danish and Nordic promotions.
 
 In October 2021, Robert made his debut for Prime Time Wrestling at their [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md), losing to ex-WWE wrestler Chris Masters. Throughout 2022 and 2023, he appeared at most of their major shows, and a couple of times at the smaller monthly Underground shows.
 His last appearance for PTW was at [PTW#4](@/e/ptw/2023-06-25-ptw-4-mystery.md) in June 2023, against [Puncher](@/w/puncher.md). In this match, Robert defended his Dansk Pro Wrestling championship, which he held since March that year.
