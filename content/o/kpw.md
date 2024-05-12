@@ -50,3 +50,7 @@ The Tag Team Championship was created in 2018, and the first champions crowned i
 | KPW Championship | Red Scorpion | Defeated [Greg](@/w/greg.md) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
 | KPW OldTown Championship | [Rosetti](@/w/rosetti.md) | Defeated [Dawid Oliwa](@/w/dawid-oliwa.md) at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) |
 | KPW Tag Team Championship | The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) | Defeated Die Ordnung: Veit Müller, Hans Schulte at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
+
+### References
+
+* [Video: Top 10 moments of KPW](https://www.youtube.com/watch?v=NeyUetRatMU) by What Is Wrestling
