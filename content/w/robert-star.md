@@ -20,7 +20,7 @@ He was part of a tag team with Piękny Kawaler, and entered the Tag Team Tournam
 This storyline was resolved on [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md): after Robert defeated champion Ron Corvus, Kawaler appeared and requested that Robert hand over the belt to him. He revealed that Robert has signed a contract with him and Kawaleria, and that he was helping Robert win the title on the condition he immediately handed it over to Kawaler.
 Before the following show, Robert was officially fired, in a Facebook post, for breaking the terms of said contract. This stripped him of the championship, and left it vacant. However, on the show, Chairman Malinowski re-added Robert to the main event, which was now a 6-man elimination match.
 
-Robert's last match for KPW was next year, at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), against Piękny Kawaler. The match was both for the KPW Championship, which Robert held, and for the career of both men, with a Last Man Standing stipulation. When Robert defeated Kawaler, he initially accepted his handshake, lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. With the help of other babyfaces, Robert regained control and they struck a victory pose with Kawaler literally under Robert's heel.
+Robert's next match for KPW was at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), against Piękny Kawaler. This bout was both for the KPW Championship, which Robert held once more, and for the career of both men, with a Last Man Standing stipulation. When Robert defeated Kawaler, the latter initially accepted his opponent's handshake, lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. With the help of other babyfaces, Robert regained control, and together they struck a victory pose with Kawaler literally under Robert's heel.
 
 In 2018, Robert competed in his first match abroad: at French Ligue Nationale de Catch's event in Commercy. He went against French wrestler Scott Rider in a singles match, and also against a team including Scott Rider and Ron Corvus in an eight-man tag team match.
 
@@ -28,9 +28,9 @@ In 2018, Robert competed in his first match abroad: at French Ligue Nationale de
 
 Roberts' last appearance for KPW was in 2020, at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md), where he intervened against [Rosetti](@/w/rosetti.md) who attacked his now-former tag team partner [Sawicki](@/w/sawicki.md), after the two lost their championship.
 
-Almost immediately after this event, Polish authorities introduced severe lockdown in response to COVID, and KPW went on hiatus until March 2022. In the meantime, a new promotion appeared in the country: [Prime Time Wrestling](@/o/ptw.md), and started scouting for talent. Both Robert and Sawicki joined PTW, but only Robert would go inside the ropes.
+Almost immediately after this event, Polish authorities introduced severe lockdown in response to COVID, and KPW went on hiatus until August 2021. In the meantime, a new promotion appeared in the country: [Prime Time Wrestling](@/o/ptw.md), and started scouting for talent. Both Robert and Sawicki joined PTW, but only Robert would go inside the ropes there.
 
-In December 2020 Robert was supposed to debut for Danish Bodyslam! Pro-Wrestling's event. This did not pan out, as the event was cancelled due to COVID restrictions. He made his debut for them, and the Danish scene, in May 2021, by defeating Danish wrestler Hype Boy. Since then, he regularly appeared at Dansk Pro Wrestling and Bodyslam!'s events, and occasionally for other Danish and Nordic promotions.
+In December 2020 Robert was slated to debut for Danish BODYSLAM! Pro-Wrestling's event. This did not pan out, as the event was cancelled due to COVID restrictions. He made his debut for them, and the Danish scene, in May 2021, by defeating Danish wrestler Hype Boy. Since then, he regularly appeared at Dansk Pro Wrestling and BODYSLAM!'s events, and occasionally for other Danish and Nordic promotions.
 
 In October 2021, Robert made his debut for Prime Time Wrestling at their [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md), losing to ex-WWE wrestler Chris Masters. Throughout 2022 and 2023, he appeared at most of their major shows, and a couple of times at the smaller monthly Underground shows.
 His last appearance for PTW was at [PTW#4](@/e/ptw/2023-06-25-ptw-4-mystery.md) in June 2023, against [Puncher](@/w/puncher.md). In this match, Robert defended his Dansk Pro Wrestling championship, which he held since March that year.
@@ -38,9 +38,11 @@ In December 2023, Robert's Facebook page posted a graphic saying "BYE BYE", whic
 
 ### 2024: Euroscene and PpW
 
-In 2023, Robert started tagging with Hunyadi Tamas, and won the Bodyslam! tag team titles, in addition to continuing his run as champion for DPW. He also made appearances in Scotland and Germany.
+In 2023, Robert started tagging with [Hunyadi Tamas](@/w/hunyadi-tamas.md), and won the BODYSLAM! tag team titles, in addition to continuing his run as champion for DPW. He also made appearances in Scotland and Germany.
 
-On May 11th, 2024, [PpW](@/o/ppw.md) announced booking Robert Star for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) next month. This surprised fans, but was well received by fans and wrestling YouTubers. PpW's wrestlers reposted this to their Instagram stories, commenting with things like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery)). The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held that day.
+On May 11th, 2024, [PpW](@/o/ppw.md) announced booking Robert Star for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) next month.
+This surprised fans, but was well received, both by fans and wrestling YouTubers. PpW's wrestlers re-posted this to their Instagram stories, with comments like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery)).
+The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held that day.
 
 ### References
 

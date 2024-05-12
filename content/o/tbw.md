@@ -16,17 +16,17 @@ Some years later, likely in the early 2000s, Paweł Borkowski came to Supron wit
 The name for this was simply "Polish Pro-Wrestling Federation", hence PPWF.
 However, the results were much more modest than expected: unable to secure foreign names, the organization had to rely only on home-grown talent.
 They did manage to secure sponsorship, and a deal to buy a professional wrestling ring.
-Due to poor ticket sales, no events were actually held. A second attempt in 2003 secured support from Belgian wrestler Bernard Vandamme, but once again, the event was cancelled just 3 weeks before the scheduled date. The main sponsor withdrew, reportedly because market research found out that Polish viewers cared little about wrestling.
+Due to poor ticket sales, no events were actually held. A second attempt in 2003 secured support from Belgian wrestler and promoter Bernard Vandamme, but once again, the event was cancelled just 3 weeks before the scheduled date. The main sponsor withdrew, reportedly because market research found out that Polish viewers cared little about wrestling.
 
 This marked the end of PPWF. In 2006, Borkowski tried to revive interest by offering to hold a wrestling school using the ring purchased for the organization. However, it was discovered to be too costly to repair.
 
 #### 2009: split from DDW
 
 In 2008, American wrestler [Don Roid](@/w/don-roid.md) settled in Poland, and finding no pro wrestling organizations, opened his own.
-The newly created DDW had ambitious plans, which included holding an event in Warsaw's Stodoła klub. However, tickets prices for this event proved to be too high
+The newly created [DDW](@/o/ddw.md) had ambitious plans, which included holding an event in Warsaw's Stodoła klub. However, tickets prices for this event proved to be too high
 and the interest in wrestling too low, ultimately leading to its cancellation. After that, Supron and Borkowski ended their collaboration with DDW, and set off with their own plan.
 
-According to them, basing the events on only Polish wrestlers, at that time few and unknown, did not make sense. Neither did they want to organize a wrestling school to train their own stars first. And lastly, that they cannot afford hiring the best-known American superstars, when the European independent scene will suffice. Thus did Borkowski and Supon again contact Bernard Vandamme, whose wrestling promotion, Eurostars, was holding events in Belgium and France at that time, and had a solid roster of experienced, if unknown to Polish fans, wrestlers. With Bernard's help, they also contacted Fight Club Finland, European Wrestling Association from Austria, the German Wrestling Federation.
+According to them, basing the events on only Polish wrestlers, at that time few and unknown, did not make sense. Neither did they want to organize a wrestling school to train their own stars first. And lastly, that they cannot afford hiring the best-known American superstars, when the European independent scene will suffice. Thus did Borkowski and Supron again contact Bernard Vandamme, whose wrestling promotion, Eurostars, was holding events in Belgium and France at that time, and had a solid roster of experienced, if unknown to Polish fans, wrestlers. With Bernard's help, they also contacted Fight Club Finland, European Wrestling Association from Austria, the German Wrestling Federation.
 
 #### 2010: Successful events
 
