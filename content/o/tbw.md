@@ -19,6 +19,7 @@ They did manage to secure sponsorship, and a deal to buy a professional wrestlin
 Due to poor ticket sales, no events were actually held. A second attempt in 2003 secured support from Belgian wrestler and promoter Bernard Vandamme, but once again, the event was cancelled just 3 weeks before the scheduled date. The main sponsor withdrew, reportedly because market research found out that Polish viewers cared little about wrestling.
 
 This marked the end of PPWF. In 2006, Borkowski tried to revive interest by offering to hold a wrestling school using the ring purchased for the organization. However, it was discovered to be too costly to repair.
+Years later, in 2024, [PpW purchased](@/o/ppw.md#2023-prime-time-transfers-professional-ring) this ring, to upgrade from their undersized ring they used before.
 
 #### 2009: split from DDW
 
