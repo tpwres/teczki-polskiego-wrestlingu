@@ -19,7 +19,7 @@ Based on the poster, and outcomes of the [previous show](@/e/ppw/2024-04-20-ppw-
 
 * Stanisław van Dobroniak defending his Ultraviolent Championship against Johnny Blade and Alex Arthur.
 * Goblin vs Gustav Gryffin in a no holds barred match, with a title shot at the PPW Championship at stake
-* As per Mister Z's interview, not yet announced on Facebook: Biesiad Strong vs Mister Z vs Feager(c) for the PPW Championship
+* Biesiad Strong vs Mister Z vs Feager(c) for the PPW Championship, announced by Z in his interview at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#finale)
 * On Saturday May 11, 2024, the day when [PTW](@/o/ptw.md) held their [event](@/e/ptw/2024-05-11-ptw-6.md) in Legionowo near Warsaw, PpW's Facebook page posted about booking [Robert Star](@/w/robert-star.md) for the show. Robert's career in Poland was always connected to promotions run by or with some influence of PTW's owner Arkadiusz Pawłowski.
 * Later, it was announced that Robert will face [Samson](@/w/samson.md) in a singles match.
 
