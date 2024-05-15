@@ -48,7 +48,7 @@ Wikipedia's notability standards would result in deleting a lot of content that 
 
 ## Non-goals
 
-TPW doesn't want to be a forum (although Github provides something similar with its Discussions feature).
+TPW doesn't want to be a forum (although GitHub provides something similar with its Discussions feature).
 TPW doesn't want to be a review site or a news site (but it wants to have upcoming events too).
 TPW doesn't want to be a photo sharing site - although it wants your wrestler photos as illustrations.
 TPW doesn't cover events that happened outside of Poland.
