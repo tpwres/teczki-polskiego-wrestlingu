@@ -73,9 +73,15 @@ Immediately after Underground 21, PTW's social media accounts continued to focus
 The organization cared so little for promoting its own show, that it did not even try managing WrestleFans' accidental reveal of the full match card, which was leaked before PTW revealed the final match themselves.
 The leak was accidentally posted by Wrestlefans' newsman Piotr "Sabinq" Gilewski. [Taras](@/w/taras.md) called him out on the mistake on Twitter/X, and in turn revealed that he also was on a lengthy break from PTW, although officially not released yet.
 
+
 ##### The Stonoga controversy
 
-On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW#6](@/e/ptw/2024-05-11-ptw-6.md), and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card). The next day, Stonoga posted photos of himself and the car, as well as short clips of himself on the passenger seat. Later, he announced handing out 50 tickets, free and for anyone, in a McDonald's restaurant in Legionowo. This move prompted Taras to seemingly cut his ties with PTW, declaring he's finally "quitting this circus".
+On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW#6](@/e/ptw/2024-05-11-ptw-6.md), and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
+The next day, Stonoga posted photos of himself and the car, as well as short clips of himself on the passenger seat.
+Later, he announced handing out 50 tickets, free and for anyone, in person, at a McDonald's restaurant in Legionowo.
+This move prompted PTW wrestler Taras to seemingly cut his ties with the organization, declaring he's finally "quitting this circus".
+
+##### Backlash
 
 Other PTW personalities, like [Disco Pablo](@/w/disco-pablo.md), the already-mentioned ex-commentator Piotr Małecki, and current commentator Arek Paterek also addressed the situation.
 Their posts ranged from open critique to only vague references. After Pablo and Taras made their comments, fans speculated about Pablo leaving PTW as well, which Pablo strongly denied.
@@ -86,6 +92,12 @@ The two wrestlers' criticism of PTW was also met with backlash. On PTW's public 
 This string of PR flops, and apparent disinterest from PTW prompted Wrestlefans to pull out of promoting PTW with immediate effect, only 3 days before the show. And in another unexpected turn of events, some of the fans who received tickets from Stonoga turned ot to be [PpW](@/o/ppw.md) personnel. This got them both a free ticket for the show, and some social media exposure, through photos and live video which Stonoga, unfamiliar with the wrestling scene, shared.
 
 During this time, PTW remained silent, attempted to control the situation by deleting comments pertaining to the Stonoga situation from the fan group, and continuing to promote... the lottery.
+
+##### The prize draw
+
+On Sunday, May 12th, PTW held the lottery's prize draw, as a live-stream on YouTube.
+Despite PTW's stated goal to provide entertainment for the whole family, this show included controversial guests: Stonoga, cast of reality show "Królowe Życia", spouting distasteful, sexually-charged jokes.
+The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who and why called them, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet.
 
 ### References
 
