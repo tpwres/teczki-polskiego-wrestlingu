@@ -20,7 +20,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 - ['[Erik Šlotíř](@/w/erik-slotir.md)', '[Marcelito](@/w/marcelito.md)']
 - ['[Dziedzic](@/w/dziedzic.md)', '[King Kaiden](@/w/king-kaiden.md)']
 - ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Renegade](@/w/renegade.md)']
-- ["Sambor; Rusałka", '[Marco Hammers](@/w/marco-hammers.md)']
+- ["[Sambor](@/w/sambor.md); Rusałka", '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Nitro](@/w/nitro.md)', '[Sinister](@/w/sinister.md)', '[Taras](@/w/taras.md)',
   {s: Triple Threat Match}]
 {% end %}

@@ -20,7 +20,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
   - s: Open Challenge
     c: PTW Tag Team Championship
 - [Vincent Caravaggio, '[El Ogre](@/w/el-ogre.md)']
-- [Sambor, '[Erik Šlotíř](@/w/erik-slotir.md)']
+- ['[Sambor](@/w/sambor.md)', '[Erik Šlotíř](@/w/erik-slotir.md)']
 - ['[King Kaiden](@/w/king-kaiden.md)', '[Olgierd](@/w/olgierd.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', {g: true, s: Longman's Confession}]
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
