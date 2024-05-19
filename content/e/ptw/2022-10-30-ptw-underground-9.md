@@ -24,8 +24,9 @@ This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.
   - Electra
   - s: PTW Contract Battle Royale
 - ['[Marcelito](@/w/marcelito.md)', '[Dawid "Puncher" Seńko](@/w/puncher.md)']
-- - Arkadiusz Pawłowski
-  - {g: true, s: GM Pawłowski reinstates Nano Lopez to the roster}
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: true
+    s: GM Pawłowski reinstates Nano Lopez to the roster
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Disco Pablo](@/w/disco-pablo.md)']
 - [Spartan, '[Syriusz Dziedzic](@/w/dziedzic.md)']
 - ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '["Top Gun" Samson](@/w/samson.md)']

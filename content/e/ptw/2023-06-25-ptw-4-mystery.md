@@ -32,7 +32,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 - - "PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)"
   - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
   - {c: PTW Tag Team Championship, s: Tables Match}
-- [Arkadiusz Pawłowski, '[John "Bad Bones" Klinger](@/w/bad-bones.md)', {g: true,
+- ['[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)', '[John "Bad Bones" Klinger](@/w/bad-bones.md)', {g: true,
     s: Kidnapping Rzeźniczek}]
 {% end %}
 
