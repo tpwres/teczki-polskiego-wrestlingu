@@ -48,7 +48,7 @@ The Tag Team Championship was created in 2018, and the first champions crowned i
 | Championship | Current champion(s) | Notes |
 |---|---|---|
 | KPW Championship | Red Scorpion | Defeated [Greg](@/w/greg.md) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
-| KPW OldTown Championship | [Rosetti](@/w/rosetti.md) | Defeated [Dawid Oliwa](@/w/dawid-oliwa.md) at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) |
+| KPW OldTown Championship | [Chemik](@/w/chemik.md) | Defeated [Rosetti](@/w/rosetti.md) at [Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md) |
 | KPW Tag Team Championship | The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) | Defeated Die Ordnung: Veit Müller, Hans Schulte at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
 
 ### References
