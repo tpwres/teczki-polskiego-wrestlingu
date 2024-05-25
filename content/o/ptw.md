@@ -12,11 +12,16 @@ authors = ["Szymon Iwulski"]
 6 = { path = "sabinq_done.png", caption = "Wrestlefan's Sabinq declaring he know nothing about Stonoga's involvement, and dropping out of collaboration with PTW.", source = "Twitter/X"}
 7 = { path = "ppw_wrestlers_stonoga.jpg", caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PPW merchandise. Except one, these fans are PPW wrestlers and personnel.', source = "Gazeta Stonoga's Facebook page" }
 8 = { path = "pozdro_dla_tych.png", caption = "Group post re-sharing Stonoga's announcement. The comment mocks people who spent their own money on the show. The bottom popup text is an alert that the post was removed.", source = "PTW's public Facebook Group"}
+9 = { path = "ludwiczek-babs.png", caption = 'Kacper "Ludwiczek" Bociański next to Baba-thunder. The post promotes [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) and the lottery.', source = "Instagram profile @ludwiczek_top"}
+10 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
+11 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
+12 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
+13 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler Justin Joy (as oski_ninja) praises Ludwiczek for talking sense, while Samson wants a match against Pawłowski."}
 +++
 
-### History
+## History
 
-#### The 2021 launch
+### The 2021 launch
 
 On June 28, 2021, Arkadiusz "Pan" Pawłowski, an experienced, yet polarizing figure on the Polish scene, announced the launch of his own wrestling promotion, promising "a new quality of entertainment".
 He posted a [trailer][trailer-1-ptw] featuring himself and glimpses of various wrestlers.
@@ -24,7 +29,7 @@ Over the course of the summer, training events have been held and social media p
 Eventually, the first show [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) was announced for October that year.
 Gradually, the competitors have been revealed, featuring veterans of the Polish scene, debuting Polish wrestlers and foreign guests.
 
-#### 2023 name change
+### 2023 name change
 
 Prior to the first event, on 21st of September 2021, Kinguin was announced as one of the [sponsors][sponsors-announcement], later becoming the titular sponsor, and was added to the promotion's logo.
 Kinguin is a marketplace selling digital items, primarily game keys and in-game currency.
@@ -34,7 +39,7 @@ Though Kinguin's departure was never officially announced, the titular sponsor w
 The last Facebook post featuring Kinguin PTW name was from 26th March 2023, a [cover photo change][cover-photo-underground14] announcing [Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md).
 Afterwards, none of the graphics for the show featured Kinguin in either logo or name.
 
-#### 2023 crisis and departures
+### 2023 crisis and departures
 
 In the aftermath of [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the 5th major show started.
 Initially planned for October 2023, the show was postponed indefinitely.
@@ -52,7 +57,7 @@ In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly remov
 
 On February 12th, 2024, PTW commentary team member Piotr "Showoff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards them.
 
-#### Expansion into Austria
+### Expansion into Austria
 
 Throughout 2023, [Krampus](@/w/krampus.md), in addition to his in ring career in PTW, launched a wrestling promotion of his own, WWA (Wrestling World Austria).
 The first set of tapings was announced for September 29th 2023, emanating from City Theater in Hallein, Austria. Among others, the show featured multiple talent from PTW.
@@ -60,28 +65,36 @@ On December 4th 2023, both PTW and WWA [announced][wwa-announcement] that WWA ha
 
 The initial name for the this merged promotion was "PTW: WWA" (also stylized as "PTW presents: WWA"), but the organization soon adopted "PTW German" as their [social media name](https://www.facebook.com/ptwwrestlingdeutsch). In addition to covering their own shows, this account reposted PTW's updates concerning events in Poland, but translated to German.
 
-#### 2024: Pawłowski's solo run
+### 2024: Pawłowski's solo run
 
 On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole leader. Breaking kayfabe (a recent storyline from [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind Bad Bones and Longman shenanigans), he wished his former partner, and everyone in PTW the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
 
-##### The Lottery
+#### New YouTube show: "Gruby temat"
+
+In March 2024, PTW launched a new format on YouTube, titled "Gruby Temat" (_Fat Topic_ - jokingly referring to Pawłowski's rather large statue). With Pawłowski and Kacper "Ludwiczek" Bociański as hosts, and one special guest for each episode. While Ludwiczek was not previously affiliated with wrestling, he was an MMA fighter on Poland's freak fight scene.
+The first guest of this new show was Marcel Gawroński, a popular TikToker who covers Poland's freak fight scene.
+Another episode featured PTW's own [Puncher](@/w/puncher.md), while Polish boxer and UFC women's champion Joanna Jędrzejczyk was the guest in episode 3.
+The format of this show was mostly an interview with the guest, including questions from the audience asked via chat.
+
+#### The Lottery
 
 At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2012 Nissan GTR car, the grand prize to be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase an ebook, which came with a free ticket. These ebooks were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 16 pages), including results from PTW's shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets. The car was claimed to be worth 600 thousand PLN, or about 140 thousand EUR at the time.
 
 In the following months, leading to [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) he promoted the lottery heavily on social media, and in collaboration with various online personalities, most of who had nothing to do with wrestling.
+One such personality was Ludwiczek, the co-host of Gruby temat at that time.
 Immediately after Underground 21, PTW's social media accounts continued to focus solely on the lottery, while promoting the next major show took a distant second place, restricting itself to revealing the card in a series of posts.
 The organization cared so little for promoting its own show, that it did not even try managing WrestleFans' accidental reveal of the full match card, which was leaked before PTW revealed the final match themselves.
 The leak was accidentally posted by Wrestlefans' newsman Piotr "Sabinq" Gilewski. [Taras](@/w/taras.md) called him out on the mistake on Twitter/X, and in turn revealed that he also was on a lengthy break from PTW, although officially not released yet.
 
-
-##### The Stonoga controversy
+#### The Stonoga controversy
 
 On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW#6](@/e/ptw/2024-05-11-ptw-6.md), and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
-The next day, Stonoga posted photos of himself and the car, as well as short clips of himself on the passenger seat.
+The next day, Stonoga posted photos of himself and the car, as well as short clips of himself on the passenger seat. 
+Ludwiczek also posted a photo of himself and the controversial Stonoga in front of the car.
 Later, he announced handing out 50 tickets, free and for anyone, in person, at a McDonald's restaurant in Legionowo.
 This move prompted PTW wrestler Taras to seemingly cut his ties with the organization, declaring he's finally "quitting this circus".
 
-##### Backlash
+#### Backlash
 
 Other PTW personalities, like [Disco Pablo](@/w/disco-pablo.md), the already-mentioned ex-commentator Piotr Małecki, and current commentator Arek Paterek also addressed the situation.
 Their posts ranged from open critique to only vague references. After Pablo and Taras made their comments, fans speculated about Pablo leaving PTW as well, which Pablo strongly denied.
@@ -93,11 +106,22 @@ This string of PR flops, and apparent disinterest from PTW prompted Wrestlefans 
 
 During this time, PTW remained silent, attempted to control the situation by deleting comments pertaining to the Stonoga situation from the fan group, and continuing to promote... the lottery.
 
-##### The prize draw
+#### The prize draw
 
 On Sunday, May 12th, PTW held the lottery's prize draw, as a live-stream on YouTube.
 Despite PTW's stated goal to provide entertainment for the whole family, this show included controversial guests: Stonoga, cast of reality show "Królowe Życia", spouting distasteful, sexually-charged jokes.
 The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who and why called them, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet.
+
+#### Ludwiczek confronts PTW
+
+On May 23, Ludwiczek (co-host of [Gruby Temat](#new-youtube-show-gruby-temat)) took direct shots at PTW in an [instagram post][ludwiczek-vs-ptw-instagram] promoting his upcoming match in Polish freak-fight organization Clout MMA (which Pawłowski was also affiliated with, and appeared as host on their shows).
+He claimed to "be ready for everything", and that "working with PTW and Arek [Pawłowski]" made him indestructible.
+In further comments, he bashed PTW, Pawłowski, their ring ("mouldy mat, far from white") and the locker room.
+In response to that, PTW personalities, such as [Taras](@/w/taras.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md) called out the hypocrisy in his words.
+According to them, Ludwiczek received a hefty paycheck, free rides in luxury cars, and enjoyed time with celebrities. Therefore, he had no rights to bash the promotion that only benefitted him, whatever internal problems they may have.
+Ludwiczek explained that he was never actually employed by PTW, but rather by an outside investor, and that the lottery was his main focus.
+In his words, "protecting the lottery" was the reason why he did not confront Pawłowski and PTW earlier.
+Later, several ex-PTW personalities, e.g. [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Justin Joy](@/w/justin-joy.md) joined the thread to express their disdain of Pawłowski.
 
 ### References
 
@@ -114,3 +138,4 @@ The lottery's overseeing committee was never shown by the cameras. The lottery f
 [supporter-stream-barter]: https://www.youtube.com/watch?v=dmLHzSe92x0
 [wwa-announcement]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0Hfpa8ep1gi8X9NfmmkR3f5D8gVvZ4edWPTPVVvi3bZxuJRzFUywnD3n6AVzuvFDPl
 [robert-star-interview]: https://www.youtube.com/watch?v=mRJrVjnAhyo
+[ludwiczek-vs-ptw-instagram]: https://www.instagram.com/p/C7RgkT-oSOb
