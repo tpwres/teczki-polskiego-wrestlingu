@@ -59,14 +59,23 @@ In March 2024 it has been restored from a backup, in a text-only form, and can b
 
 ## Botchamania
 
-PpW made Botchamania twice.
+#### Biesiad vs Osamu
 
 During a match on [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
+
+#### Goblin vs MBM
 
 The second botch to make it was the table spot from [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), from the El Paso Outlaw Match between [Goblin](@/w/goblin.md) and Belgian wrestler MBM.
 With Goblin lying on a table, MBM climbed the second turnbuckle, put on a pink cowboy hat, straddled a toy hobby horse, and jumped onto the table, which failed to break.
 After the fight, both agreed to redo the spot, to the audience's great applause.
 This failed spot, and the second attempt were featured in [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516), at the 8:36 mark.
+
+#### Critical 420 Ladder Match
+
+PpW's third Botchamania entry was from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). In the four-man ladder match, just after the opening sequence, Benny Bachhus accidentally grabs the trophy as he falls to the ground when his ladder was knocked. The faces then signal the referee to hang it up again and the match is restarted.
+This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwafo), at the 12:10 mark. In another botch on Botchamania's side however, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [event](@/e/ptw/2024-05-11-ptw-6.md) which used that name.
+
+
 
 
 ## Championships

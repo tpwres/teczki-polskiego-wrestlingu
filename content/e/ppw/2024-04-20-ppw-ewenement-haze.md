@@ -118,8 +118,9 @@ The trophy (20g of marijuana, declared to be CBD) is hung high above the ring.
 
 All 4 men square off, Rafi taunts everyone else. They beat him down.
 Isnorr stays in the ring with Rafi, while Goblin and Bacchus bring a ladder from the entrance ramp.
-Bacchus climbs the ladder and tries to retrieve the trophy, but Goblin drops the ladder and the trophy accidentally falls off into the ring.
+Bacchus quickly climbs the ladder and reaches for the trophy, but Goblin drops the ladder. Benny accidentally grabs the trophy bag, and falls into the ring with it.
 In an unplanned development, babyfaces signal the referee, who retrieves the trophy, climbs the ladder and hangs it back. The bell rings once again and the match resumes.
+This moment was featured in [Botchamania 493][bm-493], at the 12:10 minute mark.
 
 Goblin and Bacchus each try to climb the ladder to grab the prize, but neither can get the upper hand.
 Isnorr drops them and now he's alone in the ring with Rafi. Goblin comes back with a kendo stick, Bacchus with another ladder.
@@ -329,3 +330,6 @@ Additional interviews, once again conducted by Joker:
   also mentions a new ring and 7 matches
 * [Full event on YouTube](https://www.youtube.com/watch?v=8u292TzKREA)
 * [Results on PpW's Facebook page](https://www.facebook.com/OficjalnePPW/posts/pfbid02VDK1CTBvrB2rSQyHEB7jBkHE2BXPPxGnX5Dbkz8krDbJ9n9zMyiJwUXftAYVGPvol)
+
+
+[bm-493]: https://youtu.be/2azqxchwafo?t=731
