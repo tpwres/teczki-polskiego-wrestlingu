@@ -28,6 +28,11 @@
     {# This name has an actual talent page, record this as a P(age) record #}
     {% set pair = [name|slugify, name, 'P', talent_page] %}
     {% set_global all_names = all_names | concat(with=[pair]) %}
+    {# Title may be different from career dict entry #}
+    {% if talent_page.title != name %}
+      {% set pair = [talent_page.title|slugify, talent_page.title, 'T', talent_page, name] %}
+      {% set_global all_names = all_names | concat(with=[pair]) %}
+    {% endif %}
     {% set xtra = talent_page.extra %}
     {# And it may have some aliases. Record this as an A(lias) record, pointing to the main name #}
     {% for alias in xtra|get(key='career_aliases', default=[]) %}
@@ -70,13 +75,22 @@
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
           </li>
+        {% elif flavor == 'T' %}
+          {% set career_name = talent[4] %}
+          {% set_global person_name = name %}
+          {% set_global appearances_entry = appearances|get(key=career_name) %}
+          {% set_global career_entry = career_dict|get(key=career_name) %}
+          <li class="pwf">
+            {% include "person_with_flag.html" %}
+            {% include "person_orgs_matches.html" %}
+          </li>
         {% elif flavor == 'A' %}
           {% set career_key = page.extra|get(key='career_name', default=page.title) %}
           {% set_global appearances_entry = appearances|get(key=name, default=false) %}
           {# TODO: Do not use career, just appearances #}
           {% set_global career_entry = career_dict|get(key=career_key) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
-          <li class="pwf">
+        <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
           </li>

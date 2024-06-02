@@ -15,6 +15,8 @@ def load_existing_name_articles() -> dict[str, Path]:
             if extra := front_matter.get('extra'):
                 for alias in extra.get('career_aliases', []):
                     names[alias] = path
+                if cname := extra.get('career_name', ''):
+                    names[cname] = path
 
     return names
 
