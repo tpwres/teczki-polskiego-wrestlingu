@@ -12,6 +12,7 @@
   // Fonts
   --sans-font: "Twemoji Country Flags", "Inter", sans-serif
   --mono-font: "Ubuntu Mono", monospace
+  --timeline-border: var(--dark-yellow)
 
 .light-theme-icon, .dark-theme-icon
   display: none
@@ -43,6 +44,9 @@
 
 [data-theme="og"]
   @include og-theme
+
+  --timeline-border: black
+  --bg: white
 
   .dark-theme-icon
     display: block
@@ -354,11 +358,11 @@ ul.gallery
     margin: 0
     padding-left: 2em
     padding-bottom: 0.4em
-    border-left: 4px solid var(--dark-yellow)
+    border-left: 4px solid var(--timeline-border)
 
     &:after
       content: ''
-      box-shadow: 0 0 0 4px var(--dark-yellow)
+      box-shadow: 0 0 0 4px var(--timeline-border)
       height: 11px
       width: 11px
       background: var(--bg)
@@ -372,14 +376,14 @@ ul.gallery
     margin: 0
     padding-left: 1.4em
     padding-bottom: 0.4em
-    border-left: 4px solid var(--dark-yellow)
+    border-left: 4px solid var(--timeline-border)
 
     &:before
       content: ''
-      box-shadow: 0 0 0 4px var(--dark-yellow)
+      box-shadow: 0 0 0 4px var(--timeline-border)
       height: 11px
       width: 11px
-      background: var(--dark-yellow)
+      background: var(--timeline-border)
       position: absolute
       left: -0.5rem
       top: 0.7rem
