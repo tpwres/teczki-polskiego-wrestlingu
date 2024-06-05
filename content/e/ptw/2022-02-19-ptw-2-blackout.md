@@ -14,7 +14,7 @@ For this event, PTW invited several guests from the independent European and Ame
 * German wrestlers Axel Tischer and "Bad Bones" John Klinger.
 * British wrestlers Jonny Storm and Jody Fleisch.
 * British wrestler Nick Aldis, two-time NWA World Heavyweight Champion.
-* British wrestler Marty Scurll
+* British wrestler Marty Scurll, best known for his time at Ring of Honor and NJPW.
 * Scottish wrestler Joe Hendry, at that time best known from Ring of Honor.
 
 ### Build-up
@@ -38,7 +38,7 @@ For this event, PTW invited several guests from the independent European and Ame
 - - 'PAKA: [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
   - '[Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md), [Syriusz Dziedzic](@/w/dziedzic.md)'
   - s: Six Man Tag Team Match
-- [Krampus, Marty Scurll]
+- ['[Krampus](@/w/krampus.md)', Marty Scurll]
 - [Joe Hendry, "[Gabriel Queen](@/w/gabriel-queen.md); [TAXI Złotówa](@/w/taxi-zlotowa.md)"]
 - [Nick Aldis, Chris Masters]
 {% end %}
