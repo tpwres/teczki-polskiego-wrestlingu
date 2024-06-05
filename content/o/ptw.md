@@ -13,10 +13,22 @@ authors = ["Szymon Iwulski"]
 7 = { path = "ppw_wrestlers_stonoga.jpg", caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PPW merchandise. Except one, these fans are PPW wrestlers and personnel.', source = "Gazeta Stonoga's Facebook page" }
 8 = { path = "pozdro_dla_tych.png", caption = "Group post re-sharing Stonoga's announcement. The comment mocks people who spent their own money on the show. The bottom popup text is an alert that the post was removed.", source = "PTW's public Facebook Group"}
 9 = { path = "ludwiczek-babs.png", caption = 'Kacper "Ludwiczek" Bociański next to Baba-thunder. The post promotes [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) and the lottery.', source = "Instagram profile @ludwiczek_top"}
-10 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
-11 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
-12 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
-13 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler Justin Joy (as oski_ninja) praises Ludwiczek for talking sense, while Samson wants a match against Pawłowski."}
+10 = { path = "paterek-tweet.jpg", caption = "Arek Paterek's tweet signing out of the commentary desk.", source = "Twitter @APaterek" }
+11 = { path = "paterek-o-baliku.png", caption = "Paterek mentioning that Balik also quit PTW.", source = "Twitter @APaterek" }
+12 = { path = "paterek-o-pawlowskim.png", caption = "Paterek criticizing Pawłowski for not responding to his farewell message, among other things.", source = "Twitter @APaterek" }
+13 = { path = "dziedzic-sinister-marcelito-facebook.png", caption = "Anonymous post on the PTW Fan group, mockingly asking for at least 3 matches on the upcoming Ryucon show, and wishing well to Dziedzic, Marcelito and Sinister.", source = "Facebook PTW Grupa Fanów"}
+14 = { path = "dziedzic-goodbye.jpg", caption = "[Dziedzic](@/w/dziedzic.md)'s farewell post on Instagram.'", source = "Instagram @dziedzicwrestling"}
+15 = { path = "sinister-farewell-insta.jpg", caption = "[Sinister](@/w/sinister.md) thanking everyone in his farewell post.", source = "Instagram @sinister_wrestler"}
+16 = { path = "sinister-farewell-text.png", caption = "Full text from Sinister's farewell post.", source = "Instagram @sinister_wrestling" }
+17 = { path = "puncher-chapter-closed.jpg", caption = "[Puncher's](@/w/puncher.md) Instagram post stating 'Chapter closed', which spurred rumors about his exit.", source = "Instagram @ptwpuncher" }
+18 = { path = "puncher-1.png", caption = "Puncher's long letter, page 1: meeting Pawłowski, training.", source = "Twitter @PuncherShow"}
+19 = { path = "puncher-2.png", caption = "Puncher's long letter, page 2: honing his skills, first PTW events, sleeping in the ring.", source = "Twitter @PuncherShow"}
+20 = { path = "puncher-3.png", caption = "Puncher's long letter, page 3: anonymous accusations, the lottery flop.", source = "Twitter @PuncherShow"}
+21 = { path = "sewi-exit.jpg", caption = "Referee Seweryn's farewell story on Instagram.", source = "Instagram @sewi_the_ref"}
+101 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
+102 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
+103 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
+104 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler Justin Joy (as oski_ninja) praises Ludwiczek for talking sense, while Samson wants a match against Pawłowski."}
 +++
 
 ## History
@@ -89,7 +101,7 @@ The leak was accidentally posted by Wrestlefans' newsman Piotr "Sabinq" Gilewski
 #### The Stonoga controversy
 
 On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW#6](@/e/ptw/2024-05-11-ptw-6.md), and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
-The next day, Stonoga posted photos of himself and the car, as well as short clips of himself on the passenger seat. 
+The next day, Stonoga posted photos of himself and the car, as well as short clips of himself on the passenger seat.
 Ludwiczek also posted a photo of himself and the controversial Stonoga in front of the car.
 Later, he announced handing out 50 tickets, free and for anyone, in person, at a McDonald's restaurant in Legionowo.
 This move prompted PTW wrestler Taras to seemingly cut his ties with the organization, declaring he's finally "quitting this circus".
@@ -112,6 +124,50 @@ On Sunday, May 12th, PTW held the lottery's prize draw, as a live-stream on YouT
 Despite PTW's stated goal to provide entertainment for the whole family, this show included controversial guests: Stonoga, cast of reality show "Królowe Życia", spouting distasteful, sexually-charged jokes.
 The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who and why called them, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet.
 
+#### More high-profile exits
+
+Right after PTW#6, long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
+On May 25 2024, Paterek and Łukasz "Balik" Baliński (who also does commentary for PTW's events) appeared on the relaunched _WrestleOne_ Youtube channel.
+This channel is ran by wrestling influencer, and one-time freak fighter, Patryk "Patrykos" Domke.
+In a livestream originally focused on an upcoming WWE event in Saudi Arabia, both Paterek and Balik briefly mentioned their PTW tenures.
+Around the 13:50 timestamp, Balik confirms his departure from PTW as well.
+According to Paterek, this means that all original commentary team members have now left.
+Later he also stated that Pawłowski failed to even read his farewell message, and claims that Paterek has "stabbed him in the back".
+
+PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", a new YouTube show by Błażej "Blaze" Pniewski.
+Blaze, who was a vocal supporter of PTW up to this point, expressed his disappointment at the [Total Blast](@/e/ptw/2024-05-11-ptw-6.md) show, and slowly but surely turned against the project.
+Dziedzic openly appeared under his real name (Kacper Dziedzic), in a shoot-style interview.
+He discussed various backstage topics, from the creation of gimmicks, to issues in PTW and the wider Polish scene.
+He supported the vision of _Polish Wrestling Without Boundaries_, a phrase which Pawłowski coined but never truly committed to.
+This concept is about inter-promotional cooperation on the Polish scene.
+Dziedzic alleged that, even if Pawłowski disliked his remarks, he will stay loyal to PTW as that's where his heart is.
+He stated that he's going to attend PTW training on the upcoming Sunday, and face possible consequences.
+
+On Sunday evening, a rumor was posted on the PTW Facebook fan group - that Dziedzic, [Sinister](@/w/sinister.md) and [Marcelito](@/w/marcelito.md) have been released by PTW.
+The fans quickly linked these departures with Dziedzic's shoot interview for Blaze.
+On the next day, Monday June 3rd, Dziedzic confirmed his departure from PTW in a [heartfelt goodbye post][dziedzic-farewell-insta] on Instagram.
+After some teasing on his Instagram Stories, Sinister confirmed the speculations as well. On Wednesday, June 5th 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
+Shortly after that, referee Seweryn also confirmed his departure on his Instagram story.
+
+#### Silence and confusion
+
+As this crisis was developing, PTW's social media channels stayed silent.
+
+PTW Champion [Puncher](@/w/puncher.md)'s Instagram account posted a cryptic message stating "Chapter closed".
+This led to fans speculating that he may be the next one to leave PTW, but this turned out not to be the case.
+On May 17th 2024, he tweeted a [long statement][puncher-statement], comprising of 3 screenshots where he described his road to championship, all the sacrifices he made, and accepted the blame for PTW 6 and the lottery flop.
+However, he also included passive-aggressive remarks about "disloyal" members of the locker room, and excessive fan criticism halting the growth of wrestling in Poland.
+Reactions to that statement were mixed, ranging from praise to mockery.
+This launched a wave of similar, shorter statements from other roster members, claiming they're going to stay with PTW through thick and thin, and would rather go down together with the organization rather than leave it because of its problems.
+
+PTW's fate was uncertain at that point, with multiple exits and nothing in the way of official announcements.
+This silence was briefly interrupted by a tragic event: [John "Bad Bones" Klinger](@/w/bad-bones.md), who was portraying a villain plotting to destroy PTW from within, died from a heart attack on May 20th, at the age of 40 and in the middle of his retirement tour.
+This prompted PTW to break kayfabe (Klinger was feuding with Pawłowski), and release an obituary thanking him for his contributions and remembering him as a great professional, and legend of the European scene.
+
+On May 29th, Ryucon, a manga themed fan meeting (which previously hosted PTW events in [2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md) and [2023](@/e/ptw/2023-07-16-ptw-x-ryucon.md)), [announced][ptw-ryucon-3] that they're hosting a third PTW event.
+However, as of June 5th, not a single mention on the show was made on PTW's official social media channels.
+The only activity were wrestlers [Marco Hammers](@/w/marco-hammers.md) and Vincent Caravaggio feuding online, building a potential match for that show.
+
 #### Ludwiczek confronts PTW
 
 On May 23, Ludwiczek (co-host of [Gruby Temat](#new-youtube-show-gruby-temat)) took direct shots at PTW in an [instagram post][ludwiczek-vs-ptw-instagram] promoting his upcoming match in Polish freak-fight organization Clout MMA (which Pawłowski was also affiliated with, and appeared as host on their shows).
@@ -122,6 +178,9 @@ According to them, Ludwiczek received a hefty paycheck, free rides in luxury car
 Ludwiczek explained that he was never actually employed by PTW, but rather by an outside investor, and that the lottery was his main focus.
 In his words, "protecting the lottery" was the reason why he did not confront Pawłowski and PTW earlier.
 Later, several ex-PTW personalities, e.g. [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Justin Joy](@/w/justin-joy.md) joined the thread to express their disdain of Pawłowski.
+
+Eventually, both addressed the issue. Pawłowski, in an [interview][pawlowski-tvreklamy] for the TVreklama Youtube channel, expressed his disappointment in Ludwiczek, and called out his laziness and hypocrisy.
+Ludwiczek, in a [video of his own][ludwiczek-klamstwa-pawlowskiego], retorted by also calling Pawłowski a lazy hypocrite.
 
 ### References
 
@@ -139,3 +198,11 @@ Later, several ex-PTW personalities, e.g. [Samson](@/w/samson.md), [Gabriel Quee
 [wwa-announcement]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0Hfpa8ep1gi8X9NfmmkR3f5D8gVvZ4edWPTPVVvi3bZxuJRzFUywnD3n6AVzuvFDPl
 [robert-star-interview]: https://www.youtube.com/watch?v=mRJrVjnAhyo
 [ludwiczek-vs-ptw-instagram]: https://www.instagram.com/p/C7RgkT-oSOb
+[pawlowski-tvreklamy]: https://www.youtube.com/watch?v=l46enZVs2f0
+[ludwiczek-klamstwa-pawlowskiego]: https://www.youtube.com/watch?v=V39f6SNRUJ8&t=444s
+[paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
+[dziedzic-ngz]: https://www.youtube.com/live/-mveTz3FApQ
+[dziedzic-farewell-insta]: https://www.instagram.com/p/C7wHOhVsR4G/
+[sinister-farewell-insta]: https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/
+[puncher-statement]: https://x.com/PuncherShow/status/1791560657453678715
+[ptw-ryucon-3]: https://www.instagram.com/p/C7ju1yYI5UF/
