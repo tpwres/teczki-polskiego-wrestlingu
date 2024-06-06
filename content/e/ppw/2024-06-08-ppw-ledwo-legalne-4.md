@@ -77,7 +77,7 @@ Match card known so far:
   - ???
   - s: Open Challenge Tag Team Match
     nc: announced
-- - Jakob Sigmarrson
+- - Jakob Sigmarsson
   - ???
   - s: "Sigmarsson's in-ring debut"
 {% end %}
