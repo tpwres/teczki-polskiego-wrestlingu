@@ -25,6 +25,11 @@ authors = ["Szymon Iwulski"]
 19 = { path = "puncher-2.png", caption = "Puncher's long letter, page 2: honing his skills, first PTW events, sleeping in the ring.", source = "Twitter @PuncherShow"}
 20 = { path = "puncher-3.png", caption = "Puncher's long letter, page 3: anonymous accusations, the lottery flop.", source = "Twitter @PuncherShow"}
 21 = { path = "sewi-exit.jpg", caption = "Referee Seweryn's farewell story on Instagram.", source = "Instagram @sewi_the_ref"}
+22 = { path = "boro-ptw-last-dance-1.jpg", caption = "[Boro](@/w/boro.md) at a PTW event, from his Last Dance Instagram Story", source = "Instagram @borogng"}
+23 = { path = "boro-ptw-last-dance-2.jpg", caption = "MZW wrestlers [Queen](@/w/gabriel-queen.md), [Crane](@/w/jacob-crane.md), [Fox](@/w/axel-fox.md), [Isnorr](@/w/isnorr.md), [Madman Charlie](@/w/madman-charlie.md), [Rafael Kid](@/w/rafael-kid.md) and others, from Boro's Last Dance Instagram story. Bottom text says 'The message is clear'.", source = "Instagram @borogng"}
+24 = { path = "boro-ptw-last-dance-3.jpg", caption = "[Boro](@/w/boro.md), [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md) from Boro's Last Dance Instagram Story", source = "Instagram @borogng"}
+25 = { path = "boro-ptw-last-dance-4.jpg", caption = "MZW wrestlers holding a Dave Batista poster and a banner. The first visible word on the banner is Zieloni (_The Green Ones_), from Boro's Last Dance Instagram Story", source = "Instagram @borogng"}
+26 = { path = "boro-au-revoir.png", caption = "Au revoir, from Boro's Last Dance Instagram Story'", source = "Instagram @borogng"}
 101 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
 102 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
 103 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
@@ -134,7 +139,7 @@ Around the 13:50 timestamp, Balik confirms his departure from PTW as well.
 According to Paterek, this means that all original commentary team members have now left.
 Later he also stated that Pawłowski failed to even read his farewell message, and claims that Paterek has "stabbed him in the back".
 
-PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", a new YouTube show by Błażej "Blaze" Pniewski.
+On May 31st, PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", a new YouTube show by Błażej "Blaze" Pniewski.
 Blaze, who was a vocal supporter of PTW up to this point, expressed his disappointment at the [Total Blast](@/e/ptw/2024-05-11-ptw-6.md) show, and slowly but surely turned against the project.
 Dziedzic openly appeared under his real name (Kacper Dziedzic), in a shoot-style interview.
 He discussed various backstage topics, from the creation of gimmicks, to issues in PTW and the wider Polish scene.
@@ -143,11 +148,14 @@ This concept is about inter-promotional cooperation on the Polish scene.
 Dziedzic alleged that, even if Pawłowski disliked his remarks, he will stay loyal to PTW as that's where his heart is.
 He stated that he's going to attend PTW training on the upcoming Sunday, and face possible consequences.
 
-On Sunday evening, a rumor was posted on the PTW Facebook fan group - that Dziedzic, [Sinister](@/w/sinister.md) and [Marcelito](@/w/marcelito.md) have been released by PTW.
+On Sunday June 2nd, a rumor was posted on the PTW Facebook fan group - that Dziedzic, [Sinister](@/w/sinister.md) and [Marcelito](@/w/marcelito.md) have been released by PTW.
 The fans quickly linked these departures with Dziedzic's shoot interview for Blaze.
 On the next day, Monday June 3rd, Dziedzic confirmed his departure from PTW in a [heartfelt goodbye post][dziedzic-farewell-insta] on Instagram.
 After some teasing on his Instagram Stories, Sinister confirmed the speculations as well. On Wednesday, June 5th 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
 Shortly after that, referee Seweryn also confirmed his departure on his Instagram story.
+
+On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance". It contained mostly photos of various moments in PTW he was part of, but also several photos with "the greens" (an insider term for wrestlers from [MZW](@/o/mzw.md) like himself),
+some of whom already quit PTW. The final image in this set was just a black background with text saying "Merci et au revoir" (Thank you and goodbye), strongly implying that he left PTW as well.
 
 #### Silence and confusion
 
@@ -161,8 +169,7 @@ Reactions to that statement were mixed, ranging from praise to mockery.
 This launched a wave of similar, shorter statements from other roster members, claiming they're going to stay with PTW through thick and thin, and would rather go down together with the organization rather than leave it because of its problems.
 
 PTW's fate was uncertain at that point, with multiple exits and nothing in the way of official announcements.
-This silence was briefly interrupted by a tragic event: [John "Bad Bones" Klinger](@/w/bad-bones.md), who was portraying a villain plotting to destroy PTW from within, died from a heart attack on May 20th, at the age of 40 and in the middle of his retirement tour.
-This prompted PTW to break kayfabe (Klinger was feuding with Pawłowski), and release an obituary thanking him for his contributions and remembering him as a great professional, and legend of the European scene.
+With one exception: a tribute post commemorating [John "Bad Bones" Klinger](@/w/bad-bones.md), who died from a heart attack on May 20th.
 
 On May 29th, Ryucon, a manga themed fan meeting (which previously hosted PTW events in [2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md) and [2023](@/e/ptw/2023-07-16-ptw-x-ryucon.md)), [announced][ptw-ryucon-3] that they're hosting a third PTW event.
 However, as of June 5th, not a single mention on the show was made on PTW's official social media channels.
