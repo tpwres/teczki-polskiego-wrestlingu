@@ -4,16 +4,15 @@ template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [extra]
 venue = "praga-centrum"
-hide_results = true
 [extra.gallery]
 
 1 = { path = "plakat_ll4.jpg", caption = "Show poster, released on Apr 28, 2024 on Facebook.", source = "PPW's Facebook page"}
 2 = { path = "robert_star_is_ewenement.jpg", caption = "Graphics announcing Robert Star, released on May 11, 2024 on Facebook.", source="PPW's Facebook page"}
 +++
 
-Ledwo Legalne IV (_Barely Legal_) is an upcoming event by [PPW Ewenement](@/o/ppw.md), scheduled for Saturday, June 8th 2024. The venue announced is Praga Centrum, a music and event venue in Warsaw's east-side Praga district. This is the same venue that hosted [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
+Ledwo Legalne IV (_Barely Legal_) was an event by [PPW Ewenement](@/o/ppw.md), that took place on Saturday, June 8th 2024. The stage was Praga Centrum, a music and event venue in Warsaw's east-side Praga district. This is the same venue that hosted [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
 
-Unusually, this show is not going to be streamed live, like previous events. In a [facebook post][facebook-too-violent] PpW stated this was due to excessive violence and insanity that would not be accepted by any streaming portal. However, they also promised to upload select matches after the show's conclusion.
+Unusually, this show was streamed live, like previous events. In a [facebook post][facebook-too-violent] PpW stated this was due to excessive violence and insanity that would not be accepted by any streaming portal. However, they also promised to upload select matches after the show's conclusion.
 
 PpW announced a pre-show conference to be held on May 31st 2024 - one week before the show. This event took place in [2koła](@/v/2kola.md), the organization's original venue. Unlike the upcoming show, this event was streamed live. It featured wrestling segments building up to the show, and was followed by an afterparty with PpW's roster members. Refer to the [Pre-show](#pre-show) section for details.
 
@@ -51,35 +50,35 @@ The championship match saw Johnny strongly biased in favor of challenger Alex Ar
 Meanwhile, Mister Z challenged [Feager](@/w/feager.md) for the PpW Championship and came up short, due to Gustav's interference, thwarted by, among others, Biesiad Strong. \
 In his post-show interview, Mister Z (exercising full power over PpW after Mandecky's unfortunate demise) announced his rematch against Feager for the next show, and promised (per the stipulation) a match against Biesiad, to take place simultaneously - as a Triple Threat Match for the PpW Championship. This next show is Ledwo Legalne 4, and the match is all but confirmed to happen there.
 * Following [Gabriel Queen](@/w/gabriel-queen.md)'s debut at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), his Pure Gold tag team partner [Vic Golden](@/w/vic-golden.md) saved him from a beatdown by the defeated [Jacob Crane](@/w/jacob-crane.md). At [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md), Pure Gold reunited in the ring for the first time since losing their PTW tag titles final match at [PTW#4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). They faced off against Baklava Club, who beat them down post-match, leaving the door open for a possible rematch. \
-For the next show, Pure Gold were left without opponents, and their Open Challenge was announced on [PpW's Facebook page][pure-gold-challenge]
-
-Match card known so far:
+For the next show, Pure Gold were left without opponents, and their Open Challenge was announced on [PpW's Facebook page][pure-gold-challenge].
+Shortly before the show, they were trading insults and challeneges online with Legia Łysych, a tag team from [PTW](@/o/ptw.md).
 
 {% card() %}
+- - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
+  - 'Legia Łysych: Marco Hammers, Olgierd'
+  - s: Open Challenge Tag Team Match
+- - Jakob Sigmarsson
+  - ???
+  - s: "Sigmarsson's in-ring debut"
+- - '[Samson](@/w/samson.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - r: DQ
+    c: UEWA Heavyweight Championship
+    note: Robert attacked the referee to retain
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Goblin](@/w/goblin.md)'
   - s: "No Holds Barred #1 Contender Match"
-    nc: announced
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: PPW Championship
-    nc: announced
+    note: Immediately Mr Z gives the match to #1 Contender Gustav who wins
 - - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Isnorr'
+  - 'Alex Arthur'
   - c: PPW European Ultraviolent Championship
-    s: Born To Be Wired Match
-    nc: announced
-- - '[Robert Star](@/w/robert-star.md)'
-  - '[Samson](@/w/samson.md)'
-  - nc: announced
-- - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - ???
-  - s: Open Challenge Tag Team Match
-    nc: announced
-- - Jakob Sigmarsson
-  - ???
-  - s: "Sigmarsson's in-ring debut"
+    s: Born To Be Wired Elimination Match
 {% end %}
 
 ### References
