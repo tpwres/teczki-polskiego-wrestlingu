@@ -152,5 +152,3 @@ Others still on the roster: Vincent Caravaggio, Spartan, Arczi Czajka.
   - n/a
   - 2024-03 instagram
 {% end %}
-
-<link rel="stylesheet" href="/tables.css"/>
