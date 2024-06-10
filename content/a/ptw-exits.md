@@ -114,7 +114,7 @@ Others still on the roster: Vincent Caravaggio, Spartan, Arczi Czajka.
 - - '[Karyna](@/w/_index.md#K) (valet)'
   - 2023
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
-  - '[2023-07-16](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
+  - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
 - - Arkadiusz Paterek (commentary)
   - '??'
