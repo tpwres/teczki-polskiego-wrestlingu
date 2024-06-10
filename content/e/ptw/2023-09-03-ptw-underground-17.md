@@ -11,8 +11,9 @@ venue = "ptw-targowa"
 - ['[King Kaiden](@/w/king-kaiden.md)', '[Erik Šlotíř](@/w/erik-slotir.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Boro](@/w/boro.md)']
 - ['[Disco Pablo](@/w/disco-pablo.md)', '[Sinister](@/w/sinister.md)']
-- ['[Olgierd](@/w/olgierd.md)', '[Gabriel Queen](@/w/gabriel-queen.md)', {s: Underground
-      Street Fight}]
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - s: Underground Street Fight
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Salomon Strid]
 - ["[Krampus](@/w/krampus.md)", "[Marcelito](@/w/marcelito.md)"]
 - ['[Axel Fox](@/w/axel-fox.md)', '[Rafi Rarytas](@/w/rafi.md)', {s: impromptu match}]
@@ -21,7 +22,7 @@ venue = "ptw-targowa"
 
 Ring announcer and MC: Arkadiusz Pawłowski \
 Commentary: Piotr "Showoff" Małecki \
-Special guest commentary: [[Diana](@/w/diana-strong.md) Strong][diana-commentary-fb]
+Special guest commentary: [Diana Strong][diana-commentary-fb]
 
 #### Trivia
 

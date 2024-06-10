@@ -1,0 +1,19 @@
+<ul class="churn">
+  <li class="header">
+    <span>Person</span>
+    <span>Joined (from)</span>
+    <span>First Appearance</span>
+    <span>Last Appearance</span>
+    <span>Exit date/status</span>
+  </li>
+  {% set elems = load_data(literal=body, format="yaml") %}
+  {% for elem in elems %}
+    <li class="entry">
+      <span>{{ elem.0 | as_str |  markdown(inline=true) | safe }}</span>
+      <span>{{ elem.1 | as_str |  markdown(inline=true) | safe }}</span>
+      <span>{{ elem.2 | as_str |  markdown(inline=true) | safe }}</span>
+      <span>{{ elem.3 | default(value="") | as_str |  markdown(inline=true) | safe }}</span>
+      <span>{{ elem.4 | default(value="") | as_str |  markdown(inline=true) | safe }}</span>
+    </li>
+  {% endfor %}
+</ul>

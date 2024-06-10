@@ -58,6 +58,8 @@ Afterwards, none of the graphics for the show featured Kinguin in either logo or
 
 ### 2023 crisis and departures
 
+_See also: [PTW Exits](@/a/ptw-exits.md).
+
 In the aftermath of [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the 5th major show started.
 Initially planned for October 2023, the show was postponed indefinitely.
 During that time, multiple talents started to voice their frustration on social media.
