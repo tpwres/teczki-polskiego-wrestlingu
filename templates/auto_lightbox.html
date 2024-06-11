@@ -2,16 +2,16 @@
 <h2 id="gallery">Gallery</h2>
 <section>
   <ul class="gallery">
-    {% for _key, item in page.extra.gallery %}
-      {% set path = item.path -%} 
+    {% for key, item in page.extra.gallery %}
+      {% set path = item.path -%}
       {% set caption = item | get(key="caption", default="") -%} 
       <li>
-        <figure id="fig{{ loop.index }}">
-          <a href="#img{{ loop.index }}">
+        <figure id="fig_{{ key }}">
+          <a href="#img-{{ key }}">
             <img src="{{ root ~ 'tn/' ~ path }}" alt=""/>
           </a>
 
-          <a class="lightbox" href="#fig{{ loop.index }}" id="img{{ loop.index }}">
+          <a class="lightbox" href="#fig_{{ key }}" id="img-{{ key }}">
             <span style="background-image: url('{{ root ~ path }}')"></span>
           </a>
           <figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
