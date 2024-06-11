@@ -1,10 +1,10 @@
 <ul class="churn">
   <li class="header">
-    <span>Person</span>
+    <span>Name</span>
     <span>Joined (from)</span>
     <span>First Appearance</span>
     <span>Last Appearance</span>
-    <span>Exit date/status</span>
+    <span>Exit date, links</span>
   </li>
   {% set elems = load_data(literal=body, format="yaml") %}
   {% for elem in elems %}

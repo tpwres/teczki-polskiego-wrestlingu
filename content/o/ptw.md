@@ -26,7 +26,7 @@ authors = ["Szymon Iwulski"]
 20 = { path = "puncher-3.png", caption = "Puncher's long letter, page 3: anonymous accusations, the lottery flop.", source = "Twitter @PuncherShow"}
 21 = { path = "sewi-exit.jpg", caption = "Referee Seweryn's farewell story on Instagram.", source = "Instagram @sewi_the_ref"}
 22 = { path = "boro-ptw-last-dance-1.jpg", caption = "[Boro](@/w/boro.md) at a PTW event, from his Last Dance Instagram Story", source = "Instagram @borogng"}
-23 = { path = "boro-ptw-last-dance-2.jpg", caption = "MZW wrestlers [Queen](@/w/gabriel-queen.md), [Crane](@/w/jacob-crane.md), [Fox](@/w/axel-fox.md), [Isnorr](@/w/isnorr.md), [Madman Charlie](@/w/madman-charlie.md), [Rafael Kid](@/w/rafael-kid.md) and others, from Boro's Last Dance Instagram story. Bottom text says 'The message is clear'.", source = "Instagram @borogng"}
+23 = { path = "boro-ptw-last-dance-2.jpg", caption = "MZW wrestlers [Queen](@/w/gabriel-queen.md), [Crane](@/w/jacob-crane.md), [Fox](@/w/axel-fox.md), [Isnorr](@/w/isnorr.md), [Madman Charlie](@/w/madman-charlie.md), [Rafael Kid](@/w/rafael-kid.md), [Aron Wake](@/w/aron-wake.md) (as Pikachu), [Olgierd](@/w/olgierd.md) and others, from Boro's Last Dance Instagram story. Bottom text says 'The message is clear'.", source = "Instagram @borogng"}
 24 = { path = "boro-ptw-last-dance-3.jpg", caption = "[Boro](@/w/boro.md), [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md) from Boro's Last Dance Instagram Story", source = "Instagram @borogng"}
 25 = { path = "boro-ptw-last-dance-4.jpg", caption = "MZW wrestlers holding a Dave Batista poster and a banner. The first visible word on the banner is Zieloni (_The Green Ones_), from Boro's Last Dance Instagram Story", source = "Instagram @borogng"}
 26 = { path = "boro-au-revoir.png", caption = "Au revoir, from Boro's Last Dance Instagram Story'", source = "Instagram @borogng"}
@@ -132,6 +132,8 @@ Despite PTW's stated goal to provide entertainment for the whole family, this sh
 The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who and why called them, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet.
 
 #### More high-profile exits
+
+_See also: [PTW Exits](@/a/ptw-exits.md)._
 
 Right after PTW#6, long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
 On May 25 2024, Paterek and Łukasz "Balik" Baliński (who also does commentary for PTW's events) appeared on the relaunched _WrestleOne_ Youtube channel.
