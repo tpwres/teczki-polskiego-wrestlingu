@@ -30,6 +30,8 @@ authors = ["Szymon Iwulski"]
 24 = { path = "boro-ptw-last-dance-3.jpg", caption = "[Boro](@/w/boro.md), [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md) from Boro's Last Dance Instagram Story", source = "Instagram @borogng"}
 25 = { path = "boro-ptw-last-dance-4.jpg", caption = "MZW wrestlers holding a Dave Batista poster and a banner. The first visible word on the banner is Zieloni (_The Green Ones_), from Boro's Last Dance Instagram Story", source = "Instagram @borogng"}
 26 = { path = "boro-au-revoir.png", caption = "Au revoir, from Boro's Last Dance Instagram Story'", source = "Instagram @borogng"}
+27 = { path = "mutant-stare-smieci.jpg", caption = 'Instagram story by Michał "Mutant" Świątkowski, polling the followers where should he continue training wrestling.', source = "Instagram @mutant_wrestler"}
+28 = { path = "mutant-hammers.jpg", caption = 'Michał "Mutant" Świątkowski taking a selfie with [Marco Hammers](@/w/marco-hammers.md) backstage at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)', source = "Instagram @mutant_wrestler"}
 101 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
 102 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
 103 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
@@ -158,8 +160,17 @@ On the next day, Monday June 3rd, Dziedzic confirmed his departure from PTW in a
 After some teasing on his Instagram Stories, Sinister confirmed the speculations as well. On Wednesday, June 5th 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
 Shortly after that, referee Seweryn also confirmed his departure on his Instagram story.
 
-On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance". It contained mostly photos of various moments in PTW he was part of, but also several photos with "the greens" (an insider term for wrestlers from [MZW](@/o/mzw.md) like himself),
-some of whom already quit PTW. The final image in this set was just a black background with text saying "Merci et au revoir" (Thank you and goodbye), strongly implying that he left PTW as well.
+On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance".
+It contained mostly photos of various moments in PTW he was part of, but also several photos with "the greens" (an insider term for wrestlers from [MZW](@/o/mzw.md) like himself), some of whom already quit PTW.
+The final image in this set was just a black background with text saying "Merci et au revoir" (Thank you and goodbye), strongly implying that he left as well.
+
+Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just after his return at Gold Rush, seemingly confirmed his exit through Instagram stories.
+He posted a poll, asking fans whether he should continue wrestling in a "new" place, or return to an "old" place, with [PpW](@/o/ppw.md) marked as "new", and [KPW](@/o/kpw.md) as "old".
+
+On June 8th, Legia Łysych, a tag team consisting of [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), who never announced leaving PTW, made their surprise debut for [PpW](@/o/ppw.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+For the latter it was also a return home - he is a PpW original known previously as Hades.
+They answered an open challenge laid out by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
+This was the culmination of a storyline started back in PTW, where the two teams joined forces to prevent PAKA from becoming the inaugural Tag Team Champions. That plan failed, and the two teams feuded bitterly over it.
 
 #### Silence and confusion
 
@@ -187,11 +198,30 @@ In further comments, he bashed PTW, Pawłowski, their ring ("mouldy mat, far fro
 In response to that, PTW personalities, such as [Taras](@/w/taras.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md) called out the hypocrisy in his words.
 According to them, Ludwiczek received a hefty paycheck, free rides in luxury cars, and enjoyed time with celebrities. Therefore, he had no rights to bash the promotion that only benefitted him, whatever internal problems they may have.
 Ludwiczek explained that he was never actually employed by PTW, but rather by an outside investor, and that the lottery was his main focus.
-In his words, "protecting the lottery" was the reason why he did not confront Pawłowski and PTW earlier.
+According to him, "protecting the lottery" was the reason for not confronting Pawłowski and PTW earlier.
 Later, several ex-PTW personalities, e.g. [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Justin Joy](@/w/justin-joy.md) joined the thread to express their disdain of Pawłowski.
 
 Eventually, both addressed the issue. Pawłowski, in an [interview][pawlowski-tvreklamy] for the TVreklama Youtube channel, expressed his disappointment in Ludwiczek, and called out his laziness and hypocrisy.
 Ludwiczek, in a [video of his own][ludwiczek-klamstwa-pawlowskiego], retorted by also calling Pawłowski a lazy hypocrite.
+
+On Monday June 3rd, Pawłowski was the host of Clout MMA's conference promoting an upcoming show,
+with competitors confronting each other before the event on Saturday.
+In a segment promoting a handicap match between Ludwiczek & Super Mario (Mariusz Sobczak) vs Albert Sosnowski,
+Ludwiczek cut a promo where he was holding a PTW T-shirt in his hand.
+He declared that he "had worn this gift with pride, until he realized that the person who gave it to him [Pawłowski] was just a fake bitch", spit on the T-shirt and threw it away, then plugged his callout video.
+Pawłowski retorted with "then why the fuck are you even speaking".
+The two continued to trash-talk each other, blaming each other, Pawłowski raising his voice to the point of yelling.
+Eventually, Pawłowski made his leave, while Ludwiczek remained in the panel he was invited to.
+
+In a [follow-up interview with Puncher][followup-puncher], he called Ludwiczek a liar and asked about a potential fight between them.
+Puncher said that while some people find wrestling to be cringey, he actually finds freak fights cringey, adding "but who wouldn't like to punch Ludwiczek?".
+
+Another [follow-up interview with Pawłowski][followup-pawlowski] had Arkadiusz speaking in a trembling voice about a series
+of recent disasters in his life - health issue, his father's terminal illness, PTW business dwindling.
+He declared that he's not going to stay down on his knees, but instead rebuild his life and PTW, because it's in his nature.
+When discussing the events of the panel, Pawłowski dismissed Ludwiczek's challenge to fight him (presumably in Clout MMA's octagon).
+Asked whether he thought it was legitimate, he replied that it's probably legitimate in Ludwiczek's mind, but that he wants nothing more to do with him, and wants Ludwiczek out of his life forever.
+Answering a question on his future plans, he plugs the upcoming PTW x Ryucon show on July 7th 2024. This is the closest thing to an official announcement for this show that fans got so far. PTW's social media accounts were still silent.
 
 ### References
 
@@ -217,3 +247,5 @@ Ludwiczek, in a [video of his own][ludwiczek-klamstwa-pawlowskiego], retorted by
 [sinister-farewell-insta]: https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/
 [puncher-statement]: https://x.com/PuncherShow/status/1791560657453678715
 [ptw-ryucon-3]: https://www.instagram.com/p/C7ju1yYI5UF/
+[followup-puncher]: https://www.youtube.com/watch?v=m2kZZBAqmuo
+[followup-pawlowski]: https://www.youtube.com/watch?v=F4PknaxqojM&t=73s
