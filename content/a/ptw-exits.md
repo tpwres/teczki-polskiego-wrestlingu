@@ -12,7 +12,8 @@ Notably absent from the list and still on the roster:
 [Diana Strong](@/w/diana-strong.md),
 [Puncher](@/w/puncher.md),
 [Nano Lopez](@/w/nano-lopez.md),
-[Iskra](@/w/iskra.md).
+[Iskra](@/w/iskra.md),
+[Max Speed](@/w/max-speed.md).
 
 Others still on the roster: Vincent Caravaggio, Spartan, Arczi Czajka.
 
