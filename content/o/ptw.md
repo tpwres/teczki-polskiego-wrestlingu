@@ -32,6 +32,7 @@ authors = ["Szymon Iwulski"]
 26 = { path = "boro-au-revoir.png", caption = "Au revoir, from Boro's Last Dance Instagram Story'", source = "Instagram @borogng"}
 27 = { path = "mutant-stare-smieci.jpg", caption = 'Instagram story by Michał "Mutant" Świątkowski, polling the followers where should he continue training wrestling.', source = "Instagram @mutant_wrestler"}
 28 = { path = "mutant-hammers.jpg", caption = 'Michał "Mutant" Świątkowski taking a selfie with [Marco Hammers](@/w/marco-hammers.md) backstage at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)', source = "Instagram @mutant_wrestler"}
+29 = { path = "sambor-insta-thanks.jpg", caption = '[Sambor](@/w/sambor.md) thanking the fans, organization and Pawłowski for support. The text states that his time in wrestling is not over, and his story will be told in many taverns.'}
 101 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
 102 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
 103 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
@@ -172,6 +173,8 @@ For the latter it was also a return home - he is a PpW original known previously
 They answered an open challenge laid out by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
 This was the culmination of a storyline started back in PTW, where the two teams joined forces to prevent PAKA from becoming the inaugural Tag Team Champions. That plan failed, and the two teams feuded bitterly over it.
 
+On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://www.instagram.com/p/C7_u3gIsgSO/) of him and his valet Rusałka, on his Instagram profile. He thanked the organization, Pawłowski himself, the fans, for helping him on his path to becoming a wrestler. This was also interpreted as his exit from PTW.
+
 #### Silence and confusion
 
 As this crisis was developing, PTW's social media channels stayed silent.
@@ -249,3 +252,4 @@ Answering a question on his future plans, he plugs the upcoming PTW x Ryucon sho
 [ptw-ryucon-3]: https://www.instagram.com/p/C7ju1yYI5UF/
 [followup-puncher]: https://www.youtube.com/watch?v=m2kZZBAqmuo
 [followup-pawlowski]: https://www.youtube.com/watch?v=F4PknaxqojM&t=73s
+[sambor-exit-insta]: https://www.instagram.com/p/C7_u3gIsgSO/

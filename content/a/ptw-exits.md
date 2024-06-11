@@ -98,11 +98,11 @@ Others still on the roster: Vincent Caravaggio, Spartan, Arczi Czajka.
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2022-05-29](@/e/ptw/2022-05-29-ptw-underground-5.md)'
   - 2024?
-- - '**[Mutant](@/w/_index.md#M)**'
+- - '**[Michał "Mutant" Świątkowski](@/w/_index.md#M)**'
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024?
+  - 2024-06 [instagram](@/o/ptw.md#img-27)
 - - '[Sambor](@/w/sambor.md)'
   - 2023
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
