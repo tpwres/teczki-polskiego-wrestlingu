@@ -17,7 +17,9 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 - ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Adam Wong](@/w/adam-wong.md)", "[Rafi](@/w/rafi.md)", s: "3-way match"]
 - ["[Mister Z](@/w/mister-z.md)", "Asara"]
 - ["[Goblin](@/w/goblin.md)", "[Gustav Gryffin](@/w/gustav-gryffin.md)", s: "Classic Wrestling Match"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Isnorr](@/w/isnorr.md)", {r: "DQ", s: "Street Fight"}]
+- - "[Isnorr](@/w/isnorr.md)"
+  - "[Biesiad Strong](@/w/biesiad.md)"
+  - s: "Street Fight"
 - - "[Johnny Blade](@/w/johnny-blade.md)"
   - Chris X
   - s: "Christmas Massacre"
