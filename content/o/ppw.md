@@ -49,7 +49,7 @@ Scroll down to the [gallery](./#gallery) to view screenshots of the stories ment
 
 ### Lost Lore
 
-PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023, and was unavailable, even on Internet Archive's Wayback Machine. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.
+PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023. The Internet Archive's Wayback Machine only had an [incomplete version](https://web.archive.org/web/20230422172700/https://ppwofficial.fandom.com/pl/wiki/PPW) available. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.
 
 That wiki was located at `ppwofficial.fandom.com` (and `ppwofficial.wikia.com` earlier before the renaming).
 
@@ -82,12 +82,11 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 
 | Championship | Current champion(s) | Notes |
 |--|--|--|
-| PpW Championship | [Bill Feager](@/w/feager.md) | Defeated [Steve Kuningas](@/w/steve-kuningas.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md). |
-| PpW European Ultraviolent Championship | [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) | Defeated [Johnny Blade](@/w/johnny-blade.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md). |
+| PpW Championship | [Gustav Gryffin](@/w/gustav-gryffin.md) | Won an additional title match immediately after [Biesiad](@/w/biesiad.md) defeated champion [Feager](@/w/feager.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). |
+| PpW European Ultraviolent Championship | [Johnny Blade](@/w/johnny-blade.md) | Eliminated champion [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), then defeated [Isnorr](@/w/isnorr.md) to reclaim the belt. |
 
-Dobroniak has defended the Ultraviolent Championship belt also outside Poland, mostly in Sweden.
+## Internet presence
 
-* Years active: 2019-
 * Facebook: [OficjalnePPW](https://www.facebook.com/OficjalnePPW)
 * Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/)
 * YouTube: [OficjalnePPW](https://www.youtube.com/@OficjalnePPW)
