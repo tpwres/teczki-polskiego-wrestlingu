@@ -165,7 +165,7 @@ Some fans also alleged that Taras' current frustration was a result of losing th
 
 The two wrestlers' criticism of PTW was also met with backlash. On PTW's public Facebook group, an account named Jakub Tyczyński (presumably a PTW personality, current or former) accused them of using their good relations with Pawłowski against other wrestlers in the past, and trying to play martyrs now.
 
-This string of PR flops, and apparent disinterest from PTW prompted Wrestlefans to pull out of promoting PTW with immediate effect, only 3 days before the show. And in another unexpected turn of events, some of the fans who received tickets from Stonoga turned ot to be [PpW](@/o/ppw.md) personnel. This got them both a free ticket for the show, and some social media exposure, through photos and live video which Stonoga, unfamiliar with the wrestling scene, shared.
+This string of PR flops, and apparent lack of interest from PTW, prompted Wrestlefans to pull out of promoting them with immediate effect, only 3 days before the show. And in another unexpected turn of events, some of the fans who received tickets from Stonoga turned out to be [PpW](@/o/ppw.md) wrestlers and personnel. This got them both a free ticket for the show, and some social media exposure, through photos and live video which Stonoga, unfamiliar with the wrestling scene, shared.
 
 During this time, PTW remained silent, attempted to control the situation by deleting comments pertaining to the Stonoga situation from the fan group, and continuing to promote... the lottery.
 
@@ -220,7 +220,7 @@ On Thursday June 13th, PTW has taken down the roster section of their page.
 
 #### Silence and confusion
 
-As this crisis was developing, PTW's social media channels stayed silent.
+As this post-Gold Rush crisis was developing, PTW's social media channels stayed silent.
 
 PTW Champion [Puncher](@/w/puncher.md)'s Instagram account posted a cryptic message stating "Chapter closed".
 This led to fans speculating that he may be the next one to leave PTW, but this turned out not to be the case.
