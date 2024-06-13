@@ -46,10 +46,42 @@ authors = ["Szymon Iwulski"]
 On June 28, 2021, Arkadiusz "Pan" Pawłowski, an experienced, yet polarizing figure on the Polish scene, announced the launch of his own wrestling promotion, promising "a new quality of entertainment".
 He posted a [trailer][trailer-1-ptw] featuring himself and glimpses of various wrestlers.
 Over the course of the summer, training events have been held and social media promotion continued.
-Eventually, the first show [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) was announced for October that year.
-Gradually, the competitors have been revealed, featuring veterans of the Polish scene, debuting Polish wrestlers and foreign guests.
+Eventually, the organization announced it was going to hold their very first show in October, and revealed the booked wrestlers.
+These were both veterans of the Polish scene, as well as debuting Polish wrestlers and foreign guests.
 
-### 2023 name change
+#### The first show
+
+This first show, titled [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) was met with positive response, even though some aspects were criticised.
+Fans praised the starpower, production value and overall high-budget feel.
+The criticism was focused on Pawłowski's character who fans felt was overexposed, inviting influencers to hype up the show, blatantly aggressive sponsor ads, and the booking - with a significant imbalance of starpower and a DQ finish in the main event.
+Most of the Polish talent on that show became cornerstones of PTW's roster, while some notably flopped.
+TV personality and freak fighter Paweł "Trybson" Trybała, initially strongly booked as a non-wrestler entering the business, failed to ever make his PTW return.
+
+The successful show was quickly followed by PTW announcing their Underground shows. The [first one](@/e/ptw/2021-12-19-ptw-underground-1.md) was held in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+It kicked off a near-monthly cadence of events in 2022 and 2023: an Underground show on the last Sunday of each month, except when that weekend was already booked for the bigger (numbered) events.
+Underground shows advanced storylines seen in these bigger events, but with significantly less starpower.
+While initially only available to the live public, since Underground 4 they were also streamed live, first on FITE/TrillerTV and later YouTube as well.
+The venue had limited capacity, which was cleverly used to make these events feel more exclusive, only for the most dedicated fans.
+
+### 2022
+
+Continuing their strong entry into the scene, they started the year with the [second Underground show](@/e/ptw/2022-01-23-ptw-underground-2.md)
+and quickly followed with [PTW#2 Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md), which was also well received.
+This show had even more starpower than Revolucja, featuring debuts of well-known names like Joe Hendry, Marty Scurll, Matt Sydal and John "Bad Bones" Klinger.
+
+Over the year, PTW continued its steady pace, presenting the monthly Underground shows, and debuting at [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), a manga-themed fan convention in Kraków.
+The third major show [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) was the first one to be held outside Chorzów, in Warsaw.
+Among other notable moments, it featured the first PTW women's match (outside the exclusive Underground shows), where [Diana Strong](@/w/diana-strong.md) competed against two former NXT-UK competitors Xia Brookside and Myla Grace.
+Also at this show, the IMPACT Digital Media Championship was defended, and Santino was named the kayfabe co-owner of PTW, leading to
+a long-standing feud between Bad Bones & Longman vs Pawłowski.
+This show became part of a double-header weekend: on the day before, Warsaw's [PpW Ewenement](@/o/ppw.md) hosted their own event,
+named [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) (_Best Gala In Town_). This was seen as PpW playfully taking potshots at the rival organization.
+_Legends_ closed PTW's 2022 as their last show of such ambition and scale, until 2024's [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
+
+### 2023
+
+
+#### Sponsorship dropped, name change
 
 Prior to the first event, on 21st of September 2021, Kinguin was announced as one of the [sponsors][sponsors-announcement], later becoming the titular sponsor, and was added to the promotion's logo.
 Kinguin is a marketplace selling digital items, primarily game keys and in-game currency.
@@ -59,7 +91,7 @@ Though Kinguin's departure was never officially announced, the titular sponsor w
 The last Facebook post featuring Kinguin PTW name was from 26th March 2023, a [cover photo change][cover-photo-underground14] announcing [Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md).
 Afterwards, none of the graphics for the show featured Kinguin in either logo or name.
 
-### 2023 crisis and departures
+#### Crisis and departures
 
 _See also: [PTW Exits](@/a/ptw-exits.md)._
 
@@ -79,7 +111,7 @@ In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly remov
 
 On February 12th, 2024, PTW commentary team member Piotr "Showoff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards them.
 
-### Expansion into Austria
+#### Expansion into Austria
 
 Throughout 2023, [Krampus](@/w/krampus.md), in addition to his in ring career in PTW, launched a wrestling promotion of his own, WWA (Wrestling World Austria).
 The first set of tapings was announced for September 29th 2023, emanating from City Theater in Hallein, Austria. Among others, the show featured multiple talent from PTW.
@@ -87,9 +119,18 @@ On December 4th 2023, both PTW and WWA [announced][wwa-announcement] that WWA ha
 
 The initial name for the this merged promotion was "PTW: WWA" (also stylized as "PTW presents: WWA"), but the organization soon adopted "PTW German" as their [social media name](https://www.facebook.com/ptwwrestlingdeutsch). In addition to covering their own shows, this account reposted PTW's updates concerning events in Poland, but translated to German.
 
-### 2024: Pawłowski's solo run
+### 2024
 
-On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole leader. Breaking kayfabe (a recent storyline from [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind Bad Bones and Longman shenanigans), he wished his former partner, and everyone in PTW the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
+In February 2024, PTW held their fifth major event: [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), this time in Legionowo, in the Warsaw metropolitan area.
+The Underground shows were also moved to a new location. Initially announced as Gliwice, a historical city in the west of the Silesian metropolis, the actual location turned to be a venue in the neighboring village of Kozłów, about 9km west of the city.
+This made the Underground shows far less accessible, and sparked some criticism.
+The regular cadence of these shows was also dropped, with only one being announced for April.
+
+The show was followed by [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) in May.
+
+#### Pawłowski's solo run
+
+On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole owner. Breaking kayfabe (a recent storyline from [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind Bad Bones and Longman shenanigans), he wished his former partner, and everyone in PTW the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
 
 #### New YouTube show: "Gruby temat"
 
