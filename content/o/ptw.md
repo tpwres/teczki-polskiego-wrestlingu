@@ -267,6 +267,14 @@ When discussing the events of the panel, Pawłowski dismissed Ludwiczek's challe
 Asked whether he thought it was legitimate, he replied that it's probably legitimate in Ludwiczek's mind, but that he wants nothing more to do with him, and wants Ludwiczek out of his life forever.
 Answering a question on his future plans, he plugs the upcoming PTW x Ryucon show on July 7th 2024. This is the closest thing to an official announcement for this show that fans got so far. PTW's social media accounts were still silent.
 
+### Championships
+
+| Championship | Current champion(s) | Notes |
+|--|--|--|
+| PTW Championship | [Puncher](@/w/puncher.md) | Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
+| PTW Tag Team Championship | Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) | Defeated PAKA: [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md), [Taras](@/w/taras.md) at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
+
+
 ### References
 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
