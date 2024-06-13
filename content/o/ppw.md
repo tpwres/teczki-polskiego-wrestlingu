@@ -16,7 +16,7 @@ Their wrestling style used to rely heavily on hardcore and deathmatches, but it 
 
 ### Name
 
-There is no canonical meaning of the PpW shortcut, although it may have once stood for Poszkolny Pro Wrestling (poszkolny meaning _after-school_),
+There is no canonical meaning of the PpW acronym, although it may have once stood for Poszkolny Pro Wrestling (poszkolny meaning _after-school_),
 coined during its early backyard years.
 More recently, the acronym was repurposed to match "Piwo Przyjacielem Wrestlingu" (_Beer is Wrestling's Friend_).
 The official name is just "PpW Ewenement". The word _ewenement_ means something unique, special and not easily replicated, and could be translated as "phenomenon" or "anomaly".
