@@ -216,6 +216,8 @@ This was the culmination of a storyline started back in PTW, where the two teams
 
 On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://www.instagram.com/p/C7_u3gIsgSO/) of him and his valet Rusałka, on his Instagram profile. He thanked the organization, Pawłowski himself, the fans, for helping him on his path to becoming a wrestler. This was also interpreted as his exit from PTW.
 
+On Thursday June 13th, PTW has taken down the roster section of their page.
+
 #### Silence and confusion
 
 As this crisis was developing, PTW's social media channels stayed silent.
@@ -274,14 +276,17 @@ Answering a question on his future plans, he plugs the upcoming PTW x Ryucon sho
 | PTW Championship | [Puncher](@/w/puncher.md) | Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 | PTW Tag Team Championship | Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) | Defeated PAKA: [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md), [Taras](@/w/taras.md) at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 
-
-### References
+### Internet Presence
 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
 * [YouTube channel](https://www.youtube.com/@PrimeTimeWrestlingpl)
 * [FITE/TrillerTV listing](https://www.trillertv.com/vl/p/prime-time-wrestling/)
-* [Roster page](https://primetimewrestling.pl/roster/)
+* [Roster page](https://primetimewrestling.pl/roster/), taken down on 2024-06-13
+
+### References
+
 * [Youtube video of the lottery prize draw](https://www.youtube.com/watch?v=DOgcwDhd53k), unavailable, set to private
+
 
 [trailer-1-ptw]: https://www.facebook.com/watch/?v=343114510600555&ref=sharing
 [sponsors-announcement]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02jM7go32wEREc9u2XofEbKhhHFhHohQ16Cb6dhCHXzQURZUZYGhzzeXCcDfu6x9k3l
