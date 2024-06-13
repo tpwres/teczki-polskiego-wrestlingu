@@ -60,7 +60,7 @@ Match card unofficial, based on available photos.
   - nc: '?'
 - - 'Kawaleria: [Piękny Kawaler](@/w/piekny-kawaler.md), [Bianca](@/w/bianca.md),
     [Greg](@/w/greg.md)'
-  - 'Ostrowski, [Mira](@/w/mira.md), [Kaszub](@/w/kaszub.md)'
+  - '[Ostrowski](@/w/ostrowski.md), [Mira](@/w/mira.md), [Kaszub](@/w/kaszub.md)'
   - s: Mixed Six-Man Tag Team Match
     nc: '?'
 {% end %}
