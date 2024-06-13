@@ -72,7 +72,10 @@ Shortly before the show, they were trading insults and challeneges online with L
   - '[Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: PPW Championship
-    note: Immediately Mr Z gives the match to #1 Contender Gustav who wins
+    n: 'Immediately after the match, Mr Z granted #1 Contender [Gustav Gryffin](@/w/gustav-gryffin.md) his championship opportunity.'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - c: PPW Championship
 - - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Isnorr'
