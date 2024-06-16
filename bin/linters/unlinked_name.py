@@ -1,7 +1,6 @@
 from typing import Iterable, Tuple
-from pathlib import Path
 from dataclasses import dataclass
-from .base import LintError, Changeset
+from .base import LintError, Changeset, Doc
 from card import Card
 from articles import load_existing_name_articles
 from sys import exit
@@ -14,7 +13,7 @@ class ReplaceNameWithLink(Changeset):
     name: str
     link: str
 
-    def apply_changes(self, path):
+    def apply_changes(self, path: Doc):
         lines = []
         with path.open('r') as fp:
             lines = fp.readlines()
@@ -28,7 +27,7 @@ class ReplaceNameWithLink(Changeset):
 
 @dataclass
 class UnlinkedNameError(LintError):
-    path: Path
+    path: Doc
     line_num: int
     start_col: int
     name: str
@@ -37,7 +36,7 @@ class UnlinkedNameError(LintError):
     def __str__(self):
         return "Line {} column {}: replace {} with link {}".format(self.line_num, self.start_col, self.name, self.link)
 
-    def message(self, file_root: Path):
+    def message(self, file_root: Doc):
         return "[{}] {}".format(self.path.relative_to(file_root), self)
 
     def supports_auto(self):
@@ -50,10 +49,11 @@ class UnlinkedNameError(LintError):
 class UnlinkedNameLinter:
     def __init__(self):
         self.names_with_articles = load_existing_name_articles()
-        name_union = '|'.join(re.escape(name) for name in self.names_with_articles)
+        all_names = sorted(self.names_with_articles.keys(), key=len, reverse=True)
+        name_union = '|'.join(re.escape(name) for name in all_names)
         self.name_detector_regex = re.compile(fr"(?!\[)({name_union})(?!\])")
 
-    def lint(self, path: Path):
+    def lint(self, path: Doc):
         with path.open('r') as fp:
             errors = []
             flagged_names = set([])
@@ -80,7 +80,7 @@ class UnlinkedNameLinter:
 
     def link_regex(self, name: str) -> re.Pattern:
         return re.compile(fr'\[{name}\]')
-    
+
     def skip_front_matter_and_card(self, lines: list[str]) -> Iterable[Tuple[int, str]]:
         """Return an enumeration of lines in the file, starting from 1.
         However, skips the front matter and the card block, if any.
