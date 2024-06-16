@@ -60,5 +60,9 @@ class UnlinkedEventLinter:
             article = self.all_events.get(title)
             if not article: continue
 
-            link = "[{}](@/e/{})".format(title, article.name)
+            parent = article.parent.name
+            if parent == 'e':
+                link = "[{}]@(/e/{})".format(title, article.name)
+            else:
+                link = "[{}](@/e/{}/{})".format(title, parent, article.name)
             errors.append(UnlinkedEventError(doc, num, mm.start(1), title, link))
