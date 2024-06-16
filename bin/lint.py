@@ -4,7 +4,7 @@ from pathlib import Path
 from argparse import ArgumentParser
 from itertools import chain
 from sys import exit
-from linters.base import LintError
+from linters.base import LintError, FileBackedDoc, StreamDoc
 from linters.unlinked_participant import UnlinkedParticipantLinter
 from linters.missing_card import MissingCardLinter
 from linters.unlinked_name import UnlinkedNameLinter
@@ -15,7 +15,7 @@ def maybe_expand_dir(path: Path):
     else:
         return [path.absolute()]
 
-def main(args):
+def lint_main(args):
     errors = []
     cwd = Path.cwd()
 
@@ -31,10 +31,11 @@ def main(args):
     ]
 
     for path in files_to_lint:
+        doc = FileBackedDoc(path)
         file_errors: list[LintError] = []
 
         for linter in linters_to_run:
-            file_errors.extend(linter.lint(path))
+            file_errors.extend(linter.lint(doc))
 
         errors.extend(file_errors)
 
@@ -62,6 +63,32 @@ def main(args):
 
     return False
 
+def filter_main():
+    linters_to_run = [
+        UnlinkedParticipantLinter(),
+        UnlinkedNameLinter(),
+    ]
+    errors = []
+
+    io = StreamDoc()
+    for linter in linters_to_run:
+        errors.extend(linter.lint(io))
+
+    if not errors:
+        return True
+
+    # Never print errors, always auto-fix them
+    for err in errors:
+        if not err.supports_auto():
+            continue
+
+        with err.path.open('r+') as fp:
+            text = fp.read()
+            fix = err.calculate_fix(text)
+            fix.apply_changes(err.path)
+
+    io.dump()
+    return False
 
 def build_argparser():
     parser = ArgumentParser(
@@ -72,13 +99,15 @@ def build_argparser():
                         help='Filename to check. If not specified, run on all event files.')
     parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
     parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
+    parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
     return parser
 
 if __name__ == "__main__":
     parser = build_argparser()
     args = parser.parse_args()
-    if main(args):
-        # No errors
-        exit(0)
+    if args.filter_mode:
+        result = filter_main()
     else:
-        exit(1)
+        result = lint_main(args)
+
+    exit(0 if result else 1)

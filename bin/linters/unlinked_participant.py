@@ -2,7 +2,7 @@ import re
 from typing import Iterable, Optional
 from pathlib import Path
 from dataclasses import dataclass
-from .base import LintError, Changeset
+from .base import LintError, Changeset, Doc
 from card import Card, Match
 from utils import parse_front_matter
 from articles import load_existing_name_articles
@@ -12,7 +12,7 @@ from rewriter import Rewriter, UpdateMatch
 class ReplaceCard(Changeset):
     text: str
 
-    def apply_changes(self, path):
+    def apply_changes(self, path: Doc):
         with path.open('r') as fp:
             card_text = fp.read()
             card = Card(card_text)
@@ -26,7 +26,7 @@ class ReplaceCard(Changeset):
 
 @dataclass
 class UnlinkedParticipantError(LintError):
-    path: Path
+    path: Doc
     match_index: int
     name: str
     link: str
