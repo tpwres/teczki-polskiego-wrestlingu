@@ -8,9 +8,9 @@ venue = "czasoprzestrzen"
 {% card() %}
 - ["Deti Black", "Apollo Anderson"]
 - ["[Lady Killer](@/w/boro.md)", "[Asmund](@/w/asmund.md)", {nc: "No Contest"}]
-- ["Stanislaw Van Dobroniak", "[Axel Fox](@/w/axel-fox.md)"]
-- ["[Asmund](@/w/asmund.md)", "[Christopher Anthony](@/w/christopher-anthony.md)", "[Justin Joy](@/w/justin-joy.md)",
-  {s: "Three Way Match"}]
+- ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Axel Fox](@/w/axel-fox.md)"]
+- ["[Asmund](@/w/asmund.md)", "[Christopher Anthony](@/w/christopher-anthony.md)",
+  "[Justin Joy](@/w/justin-joy.md)", {s: "Three Way Match"}]
 - ["[Matt Buckna](@/w/matt-buckna.md)", "[Jacob Crane](@/w/jacob-crane.md)", {s: "Falls
       Count Anywhere Match"}]
 - ["Shane Baker", "Gabriel Magic"]
@@ -21,13 +21,15 @@ venue = "czasoprzestrzen"
   - {c: "MZW Championship", s: "Tournament Final Four Way Match"}
 {% end %}
 
-* [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md)
-* Dobroniak wins by a Gentleman Jarvis-style sleeper hold on Axel, and a very quiet three count
+### Recap
+
+* [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md), leading to the match declared a no-contest.
+* Dobroniak won by a Gentleman Jarvis-style sleeper hold on Axel, and a very quiet three count
 * [Justin Joy](@/w/justin-joy.md) vs Christopher Anthony was to be a singles match, but Justin invited Asmund to participate
-* Lady Killer unsuccessfuly intervened against Asmund
+* Lady Killer unsuccessfully intervened against Asmund
 * Buckna and Crane fought with kendo sticks, chairs, and outside the building
-* In the main event, all opponents arrive to the ring on a cruiser motorcycle.
-* While [Shadow](@/w/shadow.md) pins Crane, Rothschild puts an armbar on Kid, who taps immediately, before the pin finishes. However, referee does not see the tap out, and awards the win to Shadow. The angry Rothschild hits Shadow with a steel chair.
+* In the main event, all opponents arrived to the ring on a cruiser motorcycle.
+* While [Shadow](@/w/shadow.md) pins Crane, Rothschild puts an armbar on Kid, who tapped out immediately, before ref counted the pin. However, referee did not see the tap out, and awarded the win to Shadow. The angry Rothschild hit Shadow with a steel chair.
 
 ### References
 

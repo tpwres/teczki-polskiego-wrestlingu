@@ -16,8 +16,8 @@ venue = "gosir-glucholazy"
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)"
   - r: "Double DQ"
-- ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "Alex Arthur", {s: "Two On One Handicap
-      Match"}]
+- ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "[Alex Arthur](@/w/alex-arthur.md)",
+  {s: "Two On One Handicap Match"}]
 - ["[Shadow](@/w/shadow.md)", "[Asmund](@/w/asmund.md)", {s: "Two Out Of Three Falls"}]
 {% end %}
 
