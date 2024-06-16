@@ -126,7 +126,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
-- - Arkadiusz Paterek (commentary)
+- - Arek Paterek (commentary)
   - '??'
   - ??
   - ??
