@@ -55,10 +55,10 @@ Shortly before the show, they were trading insults and challeneges online with L
 
 {% card() %}
 - - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - 'Legia Łysych: Marco Hammers, Olgierd'
+  - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Open Challenge Tag Team Match
 - - Jakob Sigmarsson
-  - ???
+  - Mef the Death
   - s: "Sigmarsson's in-ring debut"
 - - '[Samson](@/w/samson.md)'
   - '[Robert Star](@/w/robert-star.md)'
@@ -72,16 +72,18 @@ Shortly before the show, they were trading insults and challeneges online with L
   - '[Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: PPW Championship
-    n: 'Immediately after the match, Mr Z granted #1 Contender [Gustav Gryffin](@/w/gustav-gryffin.md) his championship opportunity.'
+    n: 'Immediately after the match, Mr Z granted #1 Contender [Gustav Gryffin](@/w/gustav-gryffin.md)
+      his championship opportunity.'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - c: PPW Championship
 - - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - 'Isnorr'
-  - 'Alex Arthur'
+  - '[Isnorr](@/w/isnorr.md)'
+  - '[Alex Arthur](@/w/alex-arthur.md)'
   - c: PPW European Ultraviolent Championship
     s: Born To Be Wired Elimination Match
+    n: Originally a 1-1 match, the other two opponents added themselves.
 {% end %}
 
 ### References
