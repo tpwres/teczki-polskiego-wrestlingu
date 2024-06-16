@@ -8,6 +8,7 @@ from linters.base import LintError, FileBackedDoc, StreamDoc
 from linters.unlinked_participant import UnlinkedParticipantLinter
 from linters.missing_card import MissingCardLinter
 from linters.unlinked_name import UnlinkedNameLinter
+from linters.unlinked_event import UnlinkedEventLinter
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -27,7 +28,6 @@ def lint_main(args):
     linters_to_run = [
         MissingCardLinter(),
         UnlinkedParticipantLinter(),
-        #UnlinkedNameLinter(),
     ]
 
     for path in files_to_lint:
@@ -67,6 +67,7 @@ def filter_main():
     linters_to_run = [
         UnlinkedParticipantLinter(),
         UnlinkedNameLinter(),
+        UnlinkedEventLinter()
     ]
     errors = []
 
