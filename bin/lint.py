@@ -76,6 +76,7 @@ def filter_main():
         errors.extend(linter.lint(io))
 
     if not errors:
+        io.dump()
         return True
 
     # Never print errors, always auto-fix them
