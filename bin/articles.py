@@ -39,3 +39,17 @@ def load_names_with_aliases() -> dict[str, set[str]]:
             names[preferred_name] |= set(aliases)
 
     return names
+
+def load_event_articles() -> dict[str, Path]:
+    cwd = Path.cwd()
+    events_dir = cwd / 'content/e'
+    all_event_files = events_dir.glob('**/????-??-??-*.md')
+    events_dict = {}
+    for path in all_event_files:
+        with path.open('r') as fp:
+            text = fp.read()
+            front_matter = parse_front_matter(text)
+            title = front_matter['title']
+
+            events_dict[title] = path
+    return events_dict
