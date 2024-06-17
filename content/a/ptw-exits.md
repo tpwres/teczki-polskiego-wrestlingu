@@ -1,6 +1,14 @@
 +++
 title = "PTW Exits"
 weight = 5
+template = "base_with_gallery.html"
+[extra.gallery]
+1 = { path = "rafi-exit-insta.jpg", caption = "Screenshot of [Rafi](@/w/rafi.md)'s goodbye post. His instagram profile is currently (June 2024) set to private.", source = "Instagram @rafirarytaswrestling"}
+2 = { path = "sambor-insta-thanks.jpg", caption = '[Sambor](@/w/sambor.md) thanking the fans, organization and Pawłowski for support. The text states that his time in wrestling is not over, and his story will be told in many taverns.'}
+3 = { path = "boro-au-revoir.png", caption = "Au revoir, from Boro's Last Dance Instagram Story'", source = "Instagram @borogng"}
+4 = { path = "dziedzic-goodbye.jpg", caption = "[Dziedzic](@/w/dziedzic.md)'s farewell post on Instagram.'", source = "Instagram @dziedzicwrestling"}
+5 = { path = "sinister-farewell-insta.jpg", caption = "[Sinister](@/w/sinister.md) thanking everyone in his farewell post.", source = "Instagram @sinister_wrestler"}
+6 = { path = "ptw_dismissal.jpg", caption = "PTW firing Jacob Crane in August 2022."}
 +++
 
 This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happened in the first half of 2024. Other significant names that joined the organization but exited before 2024 are also noted.
@@ -24,34 +32,34 @@ The table below is sorted chronologically by estimated exit date.
   - 2021-05 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2022-06-26](@/e/ptw/2022-06-26-ptw-underground-6.md)'
-  - 2022
+  - 2022-08
 - - '[Justin Joy](@/w/justin-joy.md)'
-  - 2021? ([MZW](@/o/mzw.md))
+  - 2021-10 ([MZW](@/o/mzw.md))
   - '[2022-02-19](@/e/ptw/2022-02-19-ptw-2-blackout.md)'
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
-  - 2023
+  - 2023-04
 - - '**[Robert Star](@/w/robert-star.md)**'
   - 2019 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2023-06-25](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
   - 2023?
 - - '**[Gabriel Queen](@/w/gabriel-queen.md)**'
-  - 2021? ([MZW](@/o/mzw.md))
+  - 2021 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2023-10-01](@/e/ptw/2023-10-01-ptw-underground-18.md)'
   - 2023
 - - '[Rafi Rarytas](@/w/rafi.md)'
-  - 2022?
+  - 2022 ([MZW](@/o/mzw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2023-10?
+  - 2023-10-03 instagram, see gallery
 - - '[Samson](@/w/samson.md)'
   - 2022
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
   - '[2023-12-10](@/e/ptw/2023-12-10-ptw-underground-20.md)'
   - 2024
 - - '[Vic Golden](@/w/vic-golden.md)'
-  - 2021? ([MZW](@/o/mzw.md))
+  - 2022 ([MZW](@/o/mzw.md))
   - '[2022-03-27](@/e/ptw/2022-03-27-ptw-underground-3.md)'
   - '[2023-07-16](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
   - 2024
@@ -91,7 +99,7 @@ The table below is sorted chronologically by estimated exit date.
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
   - 2024-06 instagram
 - - '[Olgierd](@/w/olgierd.md)'
-  - 2023 ([PpW](@/o/ppw.md)/[MZW](@/o/mzw.md))
+  - 2021-11 ([PpW](@/o/ppw.md)/[MZW](@/o/mzw.md))
   - '[2023-03-26](@/e/ptw/2023-03-26-ptw-underground-13.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
@@ -127,24 +135,24 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
 - - Arek Paterek (commentary)
-  - '??'
+  - 2021
   - ??
-  - ??
+  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 tweet
 - - Łukasz Baliński (commentary)
   - ??
   - ??
-  - ??
-  - May 2024 WrestleOne Youtube
+  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
+  - 2024-05 WrestleOne Youtube
 - - Piotr "Showoff" Małecki (commentary, social media)
   - ??
   - ??
   - ??
   - 2024-05 twitter
 - - Referee Seweryn
-  - ??
-  - ??
-  - ??
+  - 2021-11
+  - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
+  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 instagram
 - - Marcin Rzeźniczek (cofounder)
   - 2020
