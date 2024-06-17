@@ -18,14 +18,6 @@ PpW announced a pre-show conference to be held on May 31st 2024 - one week befor
 
 ### Build-up
 
-Based on the poster, and outcomes of the [previous show](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) the show may feature:
-
-* Stanisław van Dobroniak defending his Ultraviolent Championship against Johnny Blade and Alex Arthur.
-* Goblin vs Gustav Gryffin in a no holds barred match, with a title shot at the PPW Championship at stake
-* Biesiad Strong vs Mister Z vs Feager(c) for the PPW Championship, announced by Z in his interview at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#finale)
-* On Saturday May 11, 2024, the day when [PTW](@/o/ptw.md) held their [event](@/e/ptw/2024-05-11-ptw-6.md) in Legionowo near Warsaw, PpW's Facebook page posted about booking [Robert Star](@/w/robert-star.md) for the show. Robert's career in Poland was always connected to promotions run by or with some influence of PTW's owner Arkadiusz Pawłowski.
-* Later, it was announced that Robert will face [Samson](@/w/samson.md) in a singles match.
-
 #### Pre-show
 
 The event featured Q&A panels, and face-to-face confrontations between competitors for each upcoming match.
@@ -52,6 +44,7 @@ In his post-show interview, Mister Z (exercising full power over PpW after Mande
 * Following [Gabriel Queen](@/w/gabriel-queen.md)'s debut at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), his Pure Gold tag team partner [Vic Golden](@/w/vic-golden.md) saved him from a beatdown by the defeated [Jacob Crane](@/w/jacob-crane.md). At [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md), Pure Gold reunited in the ring for the first time since losing their PTW tag titles final match at [PTW#4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). They faced off against Baklava Club, who beat them down post-match, leaving the door open for a possible rematch. \
 For the next show, Pure Gold were left without opponents, and their Open Challenge was announced on [PpW's Facebook page][pure-gold-challenge].
 Shortly before the show, they were trading insults and challeneges online with Legia Łysych, a tag team from [PTW](@/o/ptw.md).
+* On Saturday May 11, 2024, the day when [PTW](@/o/ptw.md) held their [event](@/e/ptw/2024-05-11-ptw-6.md) in Legionowo near Warsaw, PpW's Facebook page posted about booking [Robert Star](@/w/robert-star.md) for the show. Robert was part of PTW's initial roster, and [KPW](@/o/kpw.md) and [DDW](@/o/ddw.md) before that.
 
 {% card() %}
 - - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
