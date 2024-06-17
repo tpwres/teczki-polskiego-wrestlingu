@@ -269,6 +269,29 @@ When discussing the events of the panel, Pawłowski dismissed Ludwiczek's challe
 Asked whether he thought it was legitimate, he replied that it's probably legitimate in Ludwiczek's mind, but that he wants nothing more to do with him, and wants Ludwiczek out of his life forever.
 Answering a question on his future plans, he plugs the upcoming PTW x Ryucon show on July 7th 2024. This is the closest thing to an official announcement for this show that fans got so far. PTW's social media accounts were still silent.
 
+#### Kanał Zero
+
+On Thursday, June 13th, Pawłowski and [Diana Strong](@/w/diana-strong.md) appeared on Kanał Zero's morning show _Pobudka_ (_Wake-up Call_). The show was hosted by Marcin "WuWunio" Sprusiński and Izabella Krzan.
+One of the show's segments was a wrestling-focused interview with the guests. Unexpectedly, the hosts were very well briefed about the Polish scene and PTW's recent problems.
+The first questions were for Diana, about her sports background and the way to pro wrestling, and later the focus moved to Pawłowski.
+WuWunio started inquiring about PTW's state, presenting a list of wrestlers who recently left and mentioned that some of them now wrestle for the competition - [PpW](@/o/ppw.md).
+Pawłowski, his hand forced, acknowledged the crisis, and confirmed that the lottery and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) were flops.
+He spoke about how reading fan's criticism was very painful, because he felt exactly the same. He acknowledged that the wrestlers leaving his organization were great performers and (mostly) very good people.
+Next, he declared that the organization plans to recover from the crisis, starting at the next show [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
+Pawłowski confirmed that the reason for leaving were disagreements about finances, booking and exclusivity. All the while, his words were countered by [Puncher](@/w/puncher.md) aggressively trolling the chat,
+even insulting the same ex-wrestlers Pawłowski was complimenting on screen.
+
+When Pawłowski agreed that he was the main culprit of the downfall, Krzan pried harder, asking him about the organizations' near bankrupcy. A visibly upset Pawłowski declares he will make amends, but needs some time.
+The hosts cut him off with a joke, that the show's previous guest (a Mr Małecki, public officer in charge of bankrupcy and property claims) may be able to help.
+Pawłowski joins in on the joke, but is still visibly shaken. WuWunio inquires about Rzeźniczek's (PTW's cofounder) departure, which Pawłowski confirms but declines to reveal the reasons in his stead.
+In the wrap-up, Diana is asked about why she stayed, after so many others left. She answers that she has always believed in the project, still does and has no problems working with Arek, therefore she chooses to stay.
+More questions about wrestling's technicalities follow, but the live chat is pressing questions about the lottery, and the subject is brought up again.
+Once again, he confirms it was a spectacular fiasco, with the ticket money not even close to covering the prizes. He calls it a crucial error that started a domino effect for PTW
+and confirms that no lottery will be held ever again.
+
+To wrap up the show, Pawłowski is asked what is the essence of wrestling (phrased as "Istota Wrestlingu" - possibly a namedrop for a small Youtube channel).
+He answers that connecting people, escapism, and emotional involvement are the key components of pro wrestling's appeal.
+
 ### Championships
 
 | Championship | Current champion(s) | Notes |
