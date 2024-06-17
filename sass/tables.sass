@@ -29,7 +29,7 @@ aside.pagination
   grid-template-rows: auto
   grid-template-columns: 3em auto minmax(12em, auto)
 
-  .match, .header
+  .match, .header, .delim
     display: grid
     grid-template-columns: subgrid
     grid-template-rows: auto
@@ -52,7 +52,14 @@ aside.pagination
     background: var(--accent-bg)
     font-weight: bold
 
-  .match:nth-child(odd)
+  .delim
+    justify-items: center
+
+    span
+      font-weight: bold
+      grid-column: span 3
+
+  .match:nth-child(odd),.delim:nth-child(odd)
     background: var(--accent-bg)
 
 .churn
