@@ -95,6 +95,9 @@ class Match:
             case [*participants]:
                 self.opponents = list(self.parse_opponents(participants))
                 self.options = {}
+            case dict() as options:
+                self.opponents = []
+                self.options = options
 
     def __repr__(self) -> str:
         return "Match(i={},o={!r} f={!r})".format(self.index, self.opponents, self.options)

@@ -89,6 +89,12 @@ Available options are:
 - `g: true` - marks this entry as a se`g`ment, not a match. Useful to mark someone's participation that was not a match, because it gets counted towards their years active and the organization's all time roster. When this is present, `nc` and `r` are ignored, but `c` and `s` will still be displayed.
 - `n: TEXT` or `n: [list, of, texts]` - adds notes, which are displayed in a smaller font below the participants. Notes are only visible on event pages, and only when "toggle results" was clicked.
 
+## Special rows
+
+A special row in the card has no opponents, but only options. The list of available options is different for special rows.
+
+- `d: DELIMITER TEXT` - inserts a `d`elimiter row. Provided text will be centered across the whole width of the table, in a bold font. **Match numbering restarts after a delimiter.**
+
 Examples:
 
 ```yaml
@@ -108,6 +114,8 @@ Examples:
 - [Dawid Oliwa, Leon Lato, nc: upcoming]
 # A promo segment
 - [Lita, Edge, { g: true, s: Live Sex Celebration}]
+# A delimiter marking Day 2 of the event
+- d: 'Day 2'
 ```
 
 ### Special cases
