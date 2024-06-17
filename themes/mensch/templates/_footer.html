@@ -10,9 +10,9 @@
     and lots of ☕</p>
 </footer>
 
-<script>
+<script type="text/javascript">
 // Get the theme toggle input
-const currentTheme = localStorage.getItem("theme");// If the current local storage item can be found
+var currentTheme = window.localStorage.getItem("theme"); // If the current local storage item can be found
 
 // Function that will switch the theme based on the if the theme toggle is checked or not
 function switchTheme() {
@@ -29,10 +29,17 @@ function switchTheme() {
 
 // Get the current theme from local storage
 if (currentTheme === null || currentTheme === undefined) {
-  if (window.matchMedia &&
-      window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    console.log('user prefers dark scheme, going dark');
-    document.documentElement.setAttribute("data-theme", "dark");
+  if (window.matchMedia) {
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        console.log('user prefers dark scheme, going dark');
+        document.documentElement.setAttribute("data-theme", "dark");
+    } else {
+        console.log('user prefers light scheme');
+        document.documentElement.setAttribute("data-theme", "light")
+    }
+  } else {
+      console.log('matchMedia not supported, defaulting to light scheme')
+      document.documentElement.setAttribute("data-theme", "light")
   }
 } else {
   // Set the body data-theme attribute to match the local storage item
