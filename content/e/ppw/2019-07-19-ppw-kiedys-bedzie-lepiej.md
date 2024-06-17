@@ -18,3 +18,4 @@ template = "event_page.html"
 ### References
 
 * [YouTube video](https://www.youtube.com/watch?v=DOAeXjrpmlg)
+* [Video: PPW's Michael HT confirming he was Jeff](https://www.youtube.com/live/VlBjnWJRarE?si=LBRL38AjOmYrxW80&t=188) (at the 3:08 mark)
