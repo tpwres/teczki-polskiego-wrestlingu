@@ -6,7 +6,7 @@ venue = "targi-poznan"
 hide_results = true
 +++
 
-This event was an sideshow held as part of Poznań Beer Expo 2021. The event featured wrestlers from [PPW](@/o/ppw.md) competing against several [MZW](@/o/mzw.md) regulars in their first, historic collaboration. PPW would return to that event two years later at [Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md), following another co-branded show in September the same year ([Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md)).
+This event was a sideshow held as part of Poznań Beer Expo 2021. The event featured wrestlers from [PPW](@/o/ppw.md) competing against former backyard wrestlers, and several [MZW](@/o/mzw.md) regulars in their first, historic collaboration. PPW would return to that event two years later at [Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md), following another co-branded show in September the same year ([Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md)).
 
 While this wasn't [Isnorr's](@/w/isnorr.md) debut for PPW, as that was a month before at the first [Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md), he would become a regular competitor in PpW's ring from then on. As the hometown hero of Poznań, he won two singles matches and the rumble, for a very strong showing.
 
@@ -59,3 +59,4 @@ Ring announcer: Michael HT
 
 * [WrestleMap's article](https://www.wrestlemap.com/news/dq485wijkucboar5ma0dc8d3h61zyr)
 * [Video report](https://www.youtube.com/watch?v=YmqP_CGJZg8) from that article
+* [PpW's wiki page](https://ppw-fandom.tpwres.pl/poznan-supershow-2021)
