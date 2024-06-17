@@ -24,7 +24,7 @@
     {% set sep = "<strong>d.</strong>" %}
 {% endif %}
 <li class="match">
-    <span class="n">{{loop.index}}</span>
+    <span class="n">{{rownum}}</span>
     <span class="p">
         {% if segment %}
           <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others -%}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}

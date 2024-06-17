@@ -16,7 +16,7 @@
 {% endif %}
 {% set sep = " <strong>vs</strong> " | safe %}
 <li class="match">
-    <span class="n">{{loop.index}}</span>
+    <span class="n">{{rownum}}</span>
     <span class="p">
       {% if segment %}
         <strong>Segment:</strong> {{ talent | join(sep=", ") | markdown(inline=true) | safe }}
