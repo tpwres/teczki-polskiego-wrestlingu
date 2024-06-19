@@ -21,7 +21,7 @@
   @include dark-theme
 
   .light-theme-icon
-    display: block
+    display: inline
 
   section a:not(.org-badge)
     filter: brightness(120%)
@@ -34,7 +34,7 @@
   @include light-theme
 
   .dark-theme-icon
-    display: block
+    display: inline
 
   section a:not(.org-badge)
     filter: brightness(90%)
@@ -49,11 +49,11 @@
   --bg: white
 
   .dark-theme-icon
-    display: block
+    display: inline
 
 html:not([data-theme])
   .dark-theme-icon
-    display: block
+    display: inline
 
 
 .feather
@@ -64,6 +64,7 @@ html:not([data-theme])
   stroke-linecap: round
   stroke-linejoin: round
   fill: none
+  vertical-align: text-bottom
 
 .feather-inline
   @extend .feather
@@ -227,10 +228,10 @@ hr
   width: 48px
   background: var(--logo-url)
   background-size: contain
+  vertical-align: text-bottom
 
 .sitename
   position: relative
-  top: -8px
   font-size: 1.8em
   font-weight: bold
   color: var(--text-light)
@@ -268,17 +269,13 @@ nav>div>ul>li>a
 nav>div>ul>li>a:hover
   color: var(--dark-aqua)
 
-.nav-left
-  float: left
-
-.nav-right
-  float: right
+.nav-left, .nav-right
+  align-self: first baseline
 
 nav
   list-style-type: none
-
-.nav
-  display: inline
+  display: flex
+  justify-content: space-between
 
 nav ul
   margin: 0
@@ -286,7 +283,7 @@ nav ul
   list-style-type: none
   overflow: hidden
 
-nav ul li
+nav ul li:not(.results-item)
   /* This allow us to arrange list items in a row, without using float */
   display: inline-block
   list-style-type: none
@@ -295,13 +292,55 @@ a:hover
   color: var(--dark-aqua)
   text-decoration: underline
 
-nav svg.link-icon
-  position: relative
-  top: 8px
+.header-search
+  max-width: 100%
 
-#darkmodetoggle
+.search-widget
+  align-items: center
+  display: flex
+  gap: 0.5rem
+  margin: 0 auto
+  max-width: 20rem
   position: relative
-  top: 8px
+  width: 100%
+
+  #search_input
+    border-radius: 1.5rem
+    min-width: 5rem
+    width: 100%
+    padding-left: 1rem
+    padding-right: 2rem
+    outline: 0 none
+
+    :invalid
+      width: 1rem
+
+  button.search-button
+    position: absolute
+    right: 1rem
+    top: 0
+    background-color: var(--bg)
+    color: var(--text-light)
+    padding: 0
+
+    svg
+      height: 1.5rem
+      width: 1.5rem
+
+.search-results
+  display: none
+  position: absolute
+  background: var(--accent-bg)
+  color: var(--text-light)
+  padding: 1rem
+  max-height: 50vh
+  overflow: scroll
+  z-index: 100
+
+  li.results-item
+    display: block !important
+    background: var(--accent-bg)
+    color: var(--text-light)
 
 ul.gallery
   list-style-type: none
