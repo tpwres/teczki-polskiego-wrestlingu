@@ -5,11 +5,14 @@ base_url = "/"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
 
 title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestling
 
 theme = "mensch"
+
+[search]
+index_format = "elasticlunr_json"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -29,8 +32,8 @@ mensch_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar" },
   { path = "@/w/_index.md", name = "Talent", icon = "users" },
   { path = "@/o/_index.md", name = "Orgs", icon = "globe" },
-  { path = "@/a/contributing.md", name = "Contribute", icon = "edit" },
-  { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub", icon="github" }
+  # { path = "@/a/contributing.md", name = "Contribute", icon = "edit" },
+  # { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub", icon="github" }
 ]
 mensch_theme = "theme-base-0e"
 
