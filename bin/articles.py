@@ -8,6 +8,8 @@ def load_existing_name_articles() -> dict[str, Path]:
     names = {}
     for path in name_files:
         if path.name == '_index.md': continue
+        if path.name.startswith('.'): continue
+
         with path.open('r') as fp:
             text = fp.read()
             front_matter = parse_front_matter(text)
@@ -27,6 +29,8 @@ def load_names_with_aliases() -> dict[str, set[str]]:
     names = {}
     for path in name_files:
         if path.name == '_index.md': continue
+        if path.name.startswith('.'): continue
+
         with path.open('r') as fp:
             text = fp.read()
             front_matter = parse_front_matter(text)
