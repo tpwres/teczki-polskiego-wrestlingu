@@ -1,6 +1,10 @@
 @import "theme"
 @import url("syntax-theme-dark.css") (prefers-color-scheme: dark)
 @import url("syntax-theme-light.css") (prefers-color-scheme: light)
+@import "search"
+@import "gallery"
+@import "timeline"
+
 //@import "fonts/inter/inter-web/inter.css"
 // @font-face
 //   font-family: 'Ubuntu Mono'
@@ -66,7 +70,7 @@ html:not([data-theme])
   fill: none
   vertical-align: text-bottom
 
-.feather-inline
+.feather-inline,.feather-nav
   @extend .feather
   width: 1.15rem
   height: 1.15rem
@@ -272,6 +276,11 @@ nav>div>ul>li>a:hover
 .nav-left, .nav-right
   align-self: first baseline
 
+.nav-right-list
+  display: flex
+  align-items: last baseline
+  gap: 0.25rem
+
 nav
   list-style-type: none
   display: flex
@@ -292,145 +301,10 @@ a:hover
   color: var(--dark-aqua)
   text-decoration: underline
 
-.header-search
-  max-width: 100%
-
-.search-widget
-  align-items: center
-  display: flex
-  gap: 0.5rem
-  margin: 0 auto
-  max-width: 20rem
-  position: relative
-  width: 100%
-
-  #search_input
-    border-radius: 1.5rem
-    min-width: 5rem
-    width: 100%
-    padding-left: 1rem
-    padding-right: 2rem
-    outline: 0 none
-
-    :invalid
-      width: 1rem
-
-  button.search-button
-    position: absolute
-    right: 1rem
-    top: 0
-    background-color: var(--bg)
-    color: var(--text-light)
-    padding: 0
-
-    svg
-      height: 1.5rem
-      width: 1.5rem
-
-.search-results
-  display: none
-  position: absolute
-  background: var(--accent-bg)
-  color: var(--text-light)
-  padding: 1rem
-  max-height: 50vh
-  overflow: scroll
-  z-index: 100
-
-  li.results-item
-    display: block !important
-    background: var(--accent-bg)
-    color: var(--text-light)
-
-ul.gallery
-  list-style-type: none
-  display: flex
-  flex-direction: columns
-  flex-wrap: wrap
-  justify-content: space-around
-  padding-left: 0
-
-  li
-    width: 300px
-    padding: 0.1rem 0.3rem
-
-  a.lightbox
-    display: none
-    position: fixed
-    z-index: 999
-    top: 0
-    left: 0
-    right: 0
-    bottom: 0
-    padding: 1em
-    background: rgba(0, 0, 0, 0.8)
-
-    &:target
-      display: block
-
-    span
-      display: block
-      width: 100%
-      height: 100%
-      background-position: center
-      background-repeat: no-repeat
-      background-size: contain
 
 .org-badge
   padding: 0 0.25em
   font-weight: bold
-
-.timeline
-  ul
-    list-style-type: none
-    padding-left: 0
-
-  ul:first-child
-    margin-bottom: 0
-
-  ul + h4
-    margin-bottom: 0
-    margin-top: 0
-
-  h4 + ul
-    margin-top: 0
-    margin-bottom: 0
-
-  li
-    position: relative
-    margin: 0
-    padding-left: 2em
-    padding-bottom: 0.4em
-    border-left: 4px solid var(--timeline-border)
-
-    &:after
-      content: ''
-      box-shadow: 0 0 0 4px var(--timeline-border)
-      height: 11px
-      width: 11px
-      background: var(--bg)
-      position: absolute
-      left: -0.5rem
-      top: 0.5rem
-      border-radius: 50%
-
-  h4
-    position: relative
-    margin: 0
-    padding-left: 1.4em
-    padding-bottom: 0.4em
-    border-left: 4px solid var(--timeline-border)
-
-    &:before
-      content: ''
-      box-shadow: 0 0 0 4px var(--timeline-border)
-      height: 11px
-      width: 11px
-      background: var(--timeline-border)
-      position: absolute
-      left: -0.5rem
-      top: 0.7rem
-      border-radius: 50%
 
 @media only screen and (max-width: 380px)
   .logo
