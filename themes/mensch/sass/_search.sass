@@ -1,0 +1,57 @@
+.header-search
+  max-width: 100%
+
+.search-widget
+  align-items: center
+  display: flex
+  gap: 0.25rem
+  margin: 0 auto
+  max-width: 20rem
+  position: relative
+  width: 100%
+
+  #search_input
+    border: 1px solid currentColor
+    border-radius: 1.5rem
+    min-width: 5rem
+    width: 100%
+    padding-left: 1rem
+    padding-right: 2rem
+    outline: 0 none
+
+    &:invalid
+      width: 1rem
+
+  span.search-button
+    position: absolute
+    right: 1rem
+    top: 0.25rem
+    background-color: transparent
+    color: var(--text-light)
+    padding: 0
+
+    svg
+      height: 1.5rem
+      width: 1.5rem
+
+.search-results
+  display: none
+  position: absolute
+  background: var(--accent-bg)
+  color: var(--text-light)
+  max-height: 50vh
+  overflow: scroll
+  z-index: 100
+
+  li.results-item
+    display: block !important
+    background: var(--accent-bg)
+    color: var(--text-light)
+
+    :hover
+      background: var(--bg)
+
+    .search-result a
+      padding-left: 0.5rem
+      padding-right: 0.5rem
+      display: block
