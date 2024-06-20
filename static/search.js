@@ -87,5 +87,10 @@ const initSearch = () => {
             resultsItems.appendChild(item);
         }
     }, 150));
+
+    window.addEventListener('click', (e) => {
+        if (resultsPane.style.display == 'block' && !resultsPane.contains(e.target))
+            resultsPane.style.display = 'none';
+    });
 }
 document.addEventListener("DOMContentLoaded", initSearch);
