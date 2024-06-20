@@ -40,7 +40,7 @@ Fox left MZW in early 2021, having not appeared at the tapings for [Project Base
 Later that year, along with some other "Greens", he joined [Prime Time Wrestling](@/o/ptw.md), becoming one of the most prominent babyfaces and workhorses of the organization, appearing on almost every show produced by the companyy.
 His most notable storyline was the one involving [Justin Joy](@/w/justin-joy.md), his mentor and friend turned rival.
 This was one of the most important feuds in PTW's golden era (between [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) and [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)), which culminated in one of the top rated matches on the Polish scene at the latter show.
-After that match, he formed a tag team with now-babyface Justin, to participate at the PTW Tag Team Championship Tournament, as "FoxJoy". The team made it to semi-finals where they lost to Pure Gold ([Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md)).
+After that match, he formed a tag team with now-babyface Justin, to participate at the PTW Tag Team Championship Tournament, as "FoxJoy". The team made it to [semi-finals](@/e/ptw/2023-02-26-ptw-underground-12.md) where they lost to Pure Gold ([Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md)).
 The team was dissolved soon after the tournament, as Joy has left PTW later that year.
 
 In early 2024, Axel Fox was involved as one of the contenders at the [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Royal Rumble match, where he was one of the final two competitors with [Puncher](@/w/puncher.md), the final winner.
