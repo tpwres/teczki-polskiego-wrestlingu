@@ -42,15 +42,21 @@ const initSearch = () => {
     };
 
     const formatSearchResultItem = (item, terms) => {
-        const url = new URL(item.ref);
+        let path;
+        if (item.ref.startsWith("http")) {
+            const url = new URL(item.ref);
+            path = url.pathname;
+        } else if (item.ref.startswith("/")) {
+            path = item.ref;
+        }
         let result_type = undefined;
-        if (url.pathname.startsWith('/e/'))
+        if (path.startsWith('/e/'))
             result_type = 'Event';
-        else if (url.pathname.startsWith('/w/'))
+        else if (path.startsWith('/w/'))
             result_type = 'Talent';
-        else if (url.pathname.startsWith('/o/'))
+        else if (path.startsWith('/o/'))
             result_type = 'Organization';
-        else if (url.pathname.startsWith('/a/'))
+        else if (path.startsWith('/a/'))
             result_type = 'Article';
 
         if (result_type)
