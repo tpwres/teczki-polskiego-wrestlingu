@@ -46,7 +46,7 @@ const initSearch = () => {
         if (item.ref.startsWith("http")) {
             const url = new URL(item.ref);
             path = url.pathname;
-        } else if (item.ref.startswith("/")) {
+        } else if (item.ref.startsWith("/")) {
             path = item.ref;
         }
         let result_type = undefined;
