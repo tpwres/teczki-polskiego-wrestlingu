@@ -32,7 +32,7 @@ Amisz continued his training under [Justin Joy](@/w/justin-joy.md), [Shadow](@/w
 He quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław.
 Fox made a couple of appearances on the German indy scene, in Next Step Wrestling and Unlimited Wrestling (who often cooperated with MZW back then).
 His final appearance for MZW was at [Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
-Since late 2018-early 2019 he was one of the founding members of "Zieloni" (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
+Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/a/the-greens.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
 
 ### 2021-2024 PTW and European Expansion
 
