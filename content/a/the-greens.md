@@ -7,7 +7,7 @@ authors = ["Seweryn Pielucha"]
 "Zieloni" (_The Greens_), is a the name for a group of Polish wrestlers, who were originally connected to [MZW](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
 However, not all MZW wrestlers are Greens.
 The group was started by wrestlers who joined in 2017/2018, and created a strongly bonded social group, connected by their wrestling endeavors.
-Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) also started their training in MZW, or [Shadow](@/w/shadow.md) who created the organization, are not considered to be Greens.
+Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also started their training in MZW, or [Shadow](@/w/shadow.md) who created the organization, are not considered to be Greens.
 
 ### Members
 
