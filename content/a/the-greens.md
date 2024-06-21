@@ -29,7 +29,7 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 
 The Greens, aside from being a friends group, were also one of the factions in [Prime Time Wrestling's](@/o/ptw.md) locker room.
 The other factions were "Originals" (who started in PTW) and "Blues" (ex-[KPW](@/o/kpw.md)).
-Sometimes, internal tensions in the organization were caused by differences between these groups, and the management.
+Sometimes, internal tensions in the organization were caused by disagreement between these groups, and the management.
 Mainly caused by differences in their approach to quality and wrestling philosophy.
 For example: Justin Joy's harsh training regime.
 
