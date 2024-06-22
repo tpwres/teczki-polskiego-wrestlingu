@@ -91,7 +91,7 @@ Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 7. [Diana Strong](@/w/diana-strong.md)
 8. Diana eliminates Marco Hammers
 9. [Max Speed](@/w/max-speed.md)
-10. Michał "Mutant" Świątkowski
+10. [Michał "Mutant" Świątkowski](@/w/mutant.md)
 11. Mutant eliminates Max Speed
 12. Karol "Iskra" Górski fails to enter ring after getting beaten by Hammers and Max Speed
 13. [Wiktor Longman](@/w/wiktor-longman.md)
