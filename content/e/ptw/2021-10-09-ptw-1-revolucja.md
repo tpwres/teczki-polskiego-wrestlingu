@@ -20,7 +20,7 @@ venue = "moris-chorzow"
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Karol Górski](@/w/iskra.md)'
   - Martin Guerrero
-  - Michał "Mutant" Świątkowski
+  - '[Michał "Mutant" Świątkowski](@/w/mutant.md)'
   - '[Sinister](@/w/sinister.md)'
   - s: Battle Royal
 - ["Marius Al-Ani, [Syriusz Dziedzic](@/w/dziedzic.md)", "[Disco Pablo](@/w/disco-pablo.md),

@@ -38,7 +38,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - '[Max Speed](@/w/max-speed.md)'
-  - Michał "Mutant" Świątkowski
+  - '[Mutant](@/w/mutant.md)'
   - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - Sędzia Rafał

@@ -19,7 +19,7 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 * They also incorporated these roles into their ring entrance: [Greg](@/w/greg.md) would now strut around with a large signet ring, allowing audience members to kiss it, after which he would give them his blessing. [Chemik](@/w/chemik.md), in his altar boy's attire would collect donations, as is common in Polish churches during the Mass. Before entering the ring, Chemik would also swing a thurbler filled with burning incense around Greg, imitating Catholic rites.
 
 {% card() %}
-- [Daniel Boza, '[Eryk Lesak](@/w/eryk-lesak.md)']
+- ['[Daniel Boza](@/w/mutant.md)', '[Eryk Lesak](@/w/eryk-lesak.md)']
 - ['[Bianca](@/w/bianca.md)', '[Diana Rega](@/w/diana-strong.md)']
 - ['[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', Martn Pain, {c: KPW OldTown Championship}]
 - ['[Greg](@/w/greg.md)', Piotr Opolski]

@@ -17,13 +17,13 @@ venue = "gdynia-sports-center"
 
 {% card() %}
 - ['[Dom Taylor](@/w/dom-taylor.md)', '[Eryk Lesak](@/w/eryk-lesak.md)']
-- [Daniel Boza, '[Chemik](@/w/chemik.md)']
+- ['[Daniel Boza](@/w/mutant.md)', '[Chemik](@/w/chemik.md)']
 - ['[Fynn Freyhart](@/w/fynn-freyhart.md)', '[Sawicki](@/w/sawicki.md)']
 - - '[Dawid Oliwa](@/w/dawid-oliwa.md)(c)'
   - '[Boski 2.0](@/w/ostrowski.md)'
   - '[Greg](@/w/greg.md)'
   - {c: KPW OldTown Championship, s: Three Way Match}
-- ['[Robert Star](@/w/robert-star.md)(c)', Reinbakh, c: KPW Championship Match]
+- ['[Robert Star](@/w/robert-star.md)(c)', Reinbakh, {c: KPW Championship Match}]
 {% end %}
 
 Commentary: Marek Łojek, Mateusz Mazurowski

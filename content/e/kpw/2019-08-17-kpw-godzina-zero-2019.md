@@ -30,7 +30,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 - [Primate, '[Greg](@/w/greg.md)']
 - - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Chemik](@/w/chemik.md)'
-  - Daniel Boza
+  - '[Daniel Boza](@/w/mutant.md)'
   - '[Dom Taylor](@/w/dom-taylor.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '[Greg](@/w/greg.md)'
