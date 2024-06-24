@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "gdynia-sports-center"
 +++
 
-The third Godzina Zero (_Hour Zero_) event featured three new foreign guests. One was French wrestler Tom LaRuffa, who spent a couple of years in NXT, then briefly in TNA. Another was Swedish female wrestler Sixt, then primarily appearing in Scandinavia. Finally, Tristan Archer, another French, very experienced wrestler, by that time already well known on the European scene. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned in his second match for KPW, after appearing in the previous year's Godzina Zero event.
+The third Godzina Zero (_Zero Hour_) event featured three new foreign guests. One was French wrestler Tom LaRuffa, who spent a couple of years in NXT, then briefly in TNA. Another was Swedish female wrestler Sixt, then primarily appearing in Scandinavia. Finally, Tristan Archer, another French, very experienced wrestler, by that time already well known on the European scene. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned in his second match for KPW, after appearing in the previous year's Godzina Zero event.
 
 The event was held on the same day as a footbal match between Arka Gdynia and Górnik Zabrze. Arka is the local football team, then competing in Poland's top division. Their stadium is nearby.
 
