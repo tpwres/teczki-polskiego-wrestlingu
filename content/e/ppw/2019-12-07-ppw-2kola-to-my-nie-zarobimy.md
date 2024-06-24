@@ -10,7 +10,7 @@ hide_results = true
 
 
 {% card() %}
-- ["[Mister Z](@/w/mister-z.md)", "Terry Shadow", {nc: "?"}]
+- ["[Mister Z](@/w/mister-z.md)", "Terry Shadow (impostor)", {nc: "?"}]
 - ["Duende", "Black Orion", {nc: "?"}]
 - ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Osamu](@/w/osamu.md)", {nc: "?"}]
 {% end %}
