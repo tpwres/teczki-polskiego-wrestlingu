@@ -14,7 +14,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - [Karol M, Miłosz Z, {s: Young Lions Match}]
 - ['[Isnorr](@/w/isnorr.md)', '[Striker](@/w/royal-striker.md)', Mamet]
 - ['[Gustav Gryffin](@/w/gustav-gryffin.md)', Steven Kimono]
-- ["[Czacha](@/w/johnny-blade.md)", "[El Senior Cerveza](@/w/goblin.md)"]
+- ["Czacha", "El Senior Cerveza"]
 - ['[Feager](@/w/feager.md)', '[Adam Wong](@/w/adam-wong.md)']
 - ['[Isnorr](@/w/isnorr.md)', Bonus CBD]
 - - "Team Biesiad: [Biesiad Strong](@/w/biesiad.md), [Adam Wong](@/w/adam-wong.md),
@@ -24,12 +24,12 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - nc: "?"
     s: "4 vs 4 Elimination Match"
 - ['[Mister Z](@/w/mister-z.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)']
-- [Czesław Pierdolec, "[Steven Kimono](@/w/biesiad.md)"]
+- [Czesław Pierdolec, "Steven Kimono"]
 - ["[Isnorr](@/w/isnorr.md), [Mister Z](@/w/mister-z.md)", "[Striker](@/w/royal-striker.md),
     Mamet", {s: "New Jack Tribute Match"}]
-- ['Bracia Pierdolec: ??, ???', "Bracia Kimono: [Steven Kimono](@/w/biesiad.md), [Konnan Kimono](@/w/goblin.md)",
+- ['Bracia Pierdolec: ???, ???', "Bracia Kimono: Steven Kimono, Konnan Kimono",
   {s: Tag Team Match}]
-- ["[Hardcore Gustav](@/w/gustav-gryffin.md)", "[El Senior Cerveza](@/w/goblin.md)"]
+- ["Hardcore Gustav", "El Senior Cerveza"]
 - [Kapral Kornel, '[Kapitan Bazooka](@/w/kapitan-bazooka.md)']
 - ['[Biesiad Strong](@/w/biesiad.md)', '[Mister Z](@/w/mister-z.md)', '[Goblin](@/w/goblin.md)',
   '[Gustav Gryffin](@/w/gustav-gryffin.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)',
