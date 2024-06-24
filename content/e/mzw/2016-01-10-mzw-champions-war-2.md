@@ -15,8 +15,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
   - "Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic"
   - s: "Tag Team Match"
 - - '[Asmund](@/w/asmund.md)'
-  - Unknown1
-  - Unknown2
+  - "Szymon Kolanus"
   - "[Christopher Anthony](@/w/christopher-anthony.md)"
   - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - '[Franz Engel](@/w/franz-engel.md)'
