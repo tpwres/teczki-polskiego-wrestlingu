@@ -6,7 +6,7 @@ aliases = ["/e/2023-08-18-kpw-godzina-zero-2023"]
 venue = "atlantic-nh-gdynia"
 +++
 
-Godzina Zero (_Hour Zero_) 2023 was KPW's sixth annual supershow, held since 2016. It also returned the show to its usual date in the middle of August, rather than September like the 2022 edition. The event took place in [Klub Nowy Harem](@/v/atlantic-nh-gdynia.md), like all recent KPW shows.
+Godzina Zero (_Zero Hour_) 2023 was KPW's sixth annual supershow, held since 2016. It also returned the show to its usual date in the middle of August, rather than September like the 2022 edition. The event took place in [Klub Nowy Harem](@/v/atlantic-nh-gdynia.md), like all recent KPW shows.
 
 The event had two new foreign guests: Welsh powerhouse Iestyn Rees, and German wrestler Ludy Lohan. Returning were: Italian masked wrestler Red Scorpion, the regular Fynn Freyhart, and KPW Tag Team Champions Die Ordnung: Veit Müller and Hans Schulte, all from Germany.
 
