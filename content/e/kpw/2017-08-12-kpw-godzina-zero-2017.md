@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "gdynia-sports-center"
 +++
 
-The second Godzina Zero (_Hour Zero_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.
+The second Godzina Zero (_Zero Hour_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.
 
 The challenger to [Greg](@/w/greg.md)'s OldTown Championship was [Fynn Freyhart](@/w/fynn-freyhart.md) in his first appearance for KPW. Fynn is a German wrestler from Lubeck, who has Polish origins (and a respectable command of the language). At the time, Fynn was appearing in wXw Academy, as well as several organizations in northern Germany.
 
