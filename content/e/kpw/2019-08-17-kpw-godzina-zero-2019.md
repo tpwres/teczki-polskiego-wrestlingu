@@ -5,7 +5,7 @@ template = "event_page.html"
 venue = "gdynia-sports-center"
 +++
 
-The fourth Godzina Zero (_Hour Zero_) show was KPW's biggest event in 2019. It was held again in the Gdynia Sports Center, following that year's two-week long wrestling school camp.
+The fourth Godzina Zero (_Zero Hour_) show was KPW's biggest event in 2019. It was held again in the Gdynia Sports Center, following that year's two-week long wrestling school camp.
 
 A total of six foreign guest wrestlers were invited to perform. One was the returning Swedish female wrestler Sixt, who appeared on the 2018 edition against [Bianca](@/w/bianca.md). Another gguest from Sweden was Steinbolt, who was part of a tag team with Spanish (although competing in Denmark and Scandinavia) wrestler Carlos Zamora. From Canada, another wrestler with Polish roots and some command of the language was the powerhouse Reinbakh. From the British scene, [Dom Taylor](@/w/dom-taylor.md) returned yet again.
 
