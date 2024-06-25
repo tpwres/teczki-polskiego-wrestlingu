@@ -14,10 +14,10 @@ All three championships were defended and two changed hands. The Magnificent Sev
 
 #### Build-up
 
-* Real Man Chemik, since winning his third match at the last event, has grown some serious mustache. In [his promo][chemik-promo], he explains that to be a man, you have to both look and act the part. At [Pyrkon](@/e/kpw/2023-06-17-kpw-pyrkon-2023.md), Leon eliminated Chemik who was mistakenly hit in the head with a chair by his own bodyguard. Chemik wants to show Leon what that feels like, in a Chairs match.
+* Real Man Chemik, since winning his third match at the last event, has grown some serious mustache. In [his promo][chemik-promo], he explains that to be a man, you have to both look and act the part. At [Pyrkon](@/e/kpw/2023-06-17-kpw-pyrkon-2023.md), Leon eliminated Chemik who was mistakenly hit in the head with a chair by his own bodyguard. Chemik wants to show Leon what that feels like, in a Chairs Match.
 * KPW's two high flyers Zefir and Fynn Freyhart will face each other. The prize - a shot at the OldTown championship.
 * Die Ordnung won the championship belts at the previous year's Godzina Zero, in a four-way elimination match. Filip and Michał Fux were the last to be eliminated. Now they aim for the championship again, in their third match against the Germans.
-* [In a vignette][rosetti-vignette], Rosetti cashed in his Chairman's Briefcase match. Coming to the Chairman's office, he presents his match, which Malinowski accepts.
+* In [his vignette][rosetti-vignette], Rosetti cashed in his Chairman's Briefcase match. Coming to the Chairman's office, he presents his match, which Malinowski accepts.
 
 {% card() %}
 - ['[Zefir](@/w/zefir.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {s: "KPW Oldtown
@@ -47,10 +47,10 @@ All three championships were defended and two changed hands. The Magnificent Sev
 #### Recap
 
 * This was the last event to feature the original OldTown championship belt. From Arena 23 onwards, it was replaced by a more conventional leather plate design.
-* In the battle Royal finale, Leon Lato faced Chemik again, after being defeated in their singles match.
+* In the Battle Royal finale, Leon Lato faced Chemik again, after being defeated in their singles match.
 * Dawid was carried out from the ring on a stretcher. His defeat at this event started his losing streak and eventual heel turn.
 * While Red Scorpion celebrated his victory, Leon Lato arrived in the ring, holding the Championship Contract he just won, and challenged Scorpion for the championship at the next event.
-* In a [facebook post](https://www.facebook.com/kpwrestling/posts/pfbid02UQY6HWgyVoCpq9RayytozE7D7UNcAfFCGYVceD1FKZY4LrpyhUwHtTaCAywLahQfl), KPW stated that Godzina Zero 2023 was their 40th overall event, since its start in 2015.
+* In a [Facebook post](https://www.facebook.com/kpwrestling/posts/pfbid02UQY6HWgyVoCpq9RayytozE7D7UNcAfFCGYVceD1FKZY4LrpyhUwHtTaCAywLahQfl), KPW stated that Godzina Zero 2023 was their 40th overall event, since the promotion started in 2015.
 
 ### References
 
