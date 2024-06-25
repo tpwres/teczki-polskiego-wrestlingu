@@ -14,7 +14,18 @@ The hype text suggested "collusion versus collusion" - which refers to [Biesiad'
 
 Prior to the show, PpW is holding a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they call their "summer course".
 
+### Build-up
+
+* [Jacob Crane](@/w/jacob-crane.md) is returning from his three-month stint in Japan's BJW, and wants his rematch against [Gabriel Queen](@/w/gabriel-queen.md)
+
+Predicted card based on social media:
+
+{% card() %}
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+{% end %}
 ### References
 
 * [Facebook announcement post](https://www.facebook.com/photo/?fbid=976634991133560&set=a.499910772139320)
 * [Facebook event: Summer Course](https://www.facebook.com/events/1409438239775557/?acontext=%7B%22event_action_history%22%3A%5B%5D%7D)
+* [Facebook announcement of Crane vs Queen](https://www.facebook.com/OficjalnePPW/posts/pfbid0ihqTqNJFNkqXJR6xia7jrVyX78HtjWan8dvRPDa3s3aNb5xV79TKZusRbVger6bGl)
