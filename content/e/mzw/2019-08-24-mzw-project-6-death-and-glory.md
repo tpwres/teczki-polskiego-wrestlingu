@@ -14,7 +14,15 @@ venue = "czasoprzestrzen"
 - ['[Shadow](@/w/shadow.md)', Fast Time Moodo, '[Zeritus](@/w/zeritus.md)', {s: "Three
       Way Match"}]
 - ['[Jacob Crane](@/w/jacob-crane.md)', '[Justin Joy](@/w/justin-joy.md)']
-- ['[Aron Wake](@/w/aron-wake.md)', {s: "Battle Royal"}]
+- - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Nathan Cross](@/w/gabriel-queen.md) (runner-up)'
+  - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - Anatolii
+  - Ring Rat
+  - '[Isnorr](@/w/isnorr.md)'
+  - '[Krueger](@/w/olgierd.md)'
+  - s: "Battle Royal"
+    n: Ring Rat was Referee Seweryn
 - ['[Asmund](@/w/asmund.md)', "[Damien Rothschild](@/w/damien-rothschild.md)(c)",
   {c: "MZW Championship"}]
 {% end %}
