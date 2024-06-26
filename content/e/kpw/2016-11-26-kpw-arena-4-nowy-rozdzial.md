@@ -9,7 +9,7 @@ Nowy Rozdział (_New Chapter_) was held in Gdańsk, in the gymnastics hall of CK
 
 {% card() %}
 - ['[Kaszub](@/w/kaszub.md)', '[Peter Pannache](@/w/peter-pannache.md)', {r: DQ}]
-- ["[Boski Ostrowski](@/w/ostrowski.md), [Dawid Oliwa](@/w/dawid-oliwa.md); [Mira](@/w/mira.md)",
+- ["[Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md); [Mira](@/w/mira.md)",
   "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Victor Rosetti](@/w/rosetti.md)",
   {s: Tag Team Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Greg](@/w/greg.md)']

@@ -8,7 +8,7 @@ venue = "atlantic-nh-gdynia"
 The sixth Arena show, was held once again in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia.
 
 This event featured the wrestling debut of referee Karol Górski in a squash match against [Piękny Kawaler](@/w/piekny-kawaler.md), followed by beatings administered by the Kawaleria faction.
-Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@/o/ptw.md), debuting at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md). 
+Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@/o/ptw.md), debuting at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md).
 
 {% card() %}
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
@@ -17,7 +17,7 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
 - ['[Sawicki](@/w/sawicki.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - ['[Mira](@/w/mira.md)', '[Bianca](@/w/bianca.md)']
 - - '[Boski Ostrowski](@/w/ostrowski.md)'
-  - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Greg](@/w/greg.md)'
   - '[Kaszub](@/w/kaszub.md)'
   - Leśny

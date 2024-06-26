@@ -111,7 +111,7 @@ Examples:
   - "The Club: Karl Anderson, Luke Gallows"
   - {s: "Fatal Four Way Ladder Match",c: "WWE Raw Tag Team Title"}
 # A future event
-- [Dawid Oliwa, Leon Lato, nc: upcoming]
+- [David Oliwa, Leon Lato, nc: upcoming]
 # A promo segment
 - [Lita, Edge, { g: true, s: Live Sex Celebration}]
 # A delimiter marking Day 2 of the event

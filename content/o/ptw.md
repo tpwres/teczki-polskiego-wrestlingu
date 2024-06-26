@@ -2,7 +2,7 @@
 title = "Prime Time Wrestling"
 weight = 4
 template = "org_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Seweryn Pielucha"]
 [extra.gallery]
 1 = { path = "rzezniczek-departs.png", caption = "Marcin Rzeźniczek announcing his departure from PTW" }
 2 = { path = "ptw6_leak.png", caption = "Wrestlefans' Sabinq realising he leaked a match. Further down, Taras admits to being on a break from the ring.", source = "Twitter/X"}
@@ -291,6 +291,29 @@ and confirms that no lottery will be held ever again.
 
 To wrap up the show, Pawłowski is asked what is the essence of wrestling (phrased as "Istota Wrestlingu" - possibly a namedrop for a small Youtube channel).
 He answers that connecting people, escapism, and emotional involvement are the key components of pro wrestling's appeal.
+
+### Polish wrestling scene
+
+PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md) or MCW, however PTW itself is known for its lack of interaction with other federations in Poland.
+Talent were strictly prohibited from appearing in any other Polish rings, and any form of cooperation, either as a performer or in a backstage role resulted in "firing" from PTW.
+One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
+That fact was one of the key factors leading to most of the [PTW Exits](@/a/ptw-exits.md), where the talent wanted to have more freedom, and to be able to take bookings from other Polish organizaitions.
+This is similar to KPW's approach. Fans theorize that this isolationist attitude was inherited from [Don Roid](@/w/don-roid.md)'s [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and DDW.
+
+### Foreign relations
+
+One of the main selling points of PTW, differentiating them from their competition, was sponsors, an actual budget and the ability to bring in a lot of pro wrestlers from abroad.
+At [PTW 3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) it was announced that Santino Marella, former long-time WWE star, will become one of the organization's co-owners.
+This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW 5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator, and suprise entrant in the Gold Rush Rumble.
+
+Later, PTW entered into collaboration with Austrian wrestler Krampus and his new organization called "World Wrestling Austria".
+That was quickly renamed to _PTW: WWA_, and became a de facto "sister federation" ran by Krampus with assistance from Pawłowski.
+This cooperation allowed PTW talent to be booked at the PTW: WWA show on 2024-01-05.
+See the [Expansion into Austria](#expansion-into-austria) section above.
+
+PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion Scotty Rawk to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK.
+
+One remarkable deal, between PTW and a bigger promotion, was an agreement with Impact Wrestling, for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md).
 
 ### Championships
 

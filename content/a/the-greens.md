@@ -13,15 +13,15 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 
 * [Axel Fox](@/w/axel-fox.md) {{ org_badge(org='mzw') }} {{ org_badge(org='ptw') }}
 * [Boro](@/w/boro.md) {{ org_badge(org='mzw') }} {{ org_badge(org='ptw') }}
-* Referee Sewi {{ org_badge(org='ptw') }}
+* Referee Sewi {{ org_badge(org='mzw') }} {{ org_badge(org='ptw') }}
 * [Olgierd](@/w/olgierd.md) {{ org_badge(org='ptw') }} {{ org_badge(org='mzw') }}{{ org_badge(org='ppw') }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(org='ptw') }} {{ org_badge(org='mzw') }}{{ org_badge(org='ppw') }}
 * [Vic Golden](@/w/vic-golden.md) {{ org_badge(org='ptw') }} {{ org_badge(org='mzw') }}{{ org_badge(org='ppw') }}
-* [Madman Charlie](@/w/madman-charlie.md){{ org_badge(org='ptw') }} {{ org_badge(org='mzw') }}{{ org_badge(org='ppw') }}
+* [Madman Charlie](@/w/madman-charlie.md) {{ org_badge(org='mzw') }} {{ org_badge(org='ppw') }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(org='mzw') }} {{ org_badge(org='ppw') }}
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(org='mzw') }} {{ org_badge(org='ptw') }} {{ org_badge(org='ppw') }}
 * [Jacob Crane](@/w/jacob-crane.md){{ org_badge(org='ptw') }} {{ org_badge(org='mzw') }}{{ org_badge(org='ppw') }}
-* [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(org='mzw') }}{{ org_badge(org='ppw') }}
+* [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(org='mzw') }} {{ org_badge(org='ppw') }}
 * [Asmund](@/w/asmund.md) {{ org_badge(org='mzw') }} (inactive)
 * [Justin Joy](@/w/justin-joy.md)  {{ org_badge(org='mzw') }} {{ org_badge(org='ptw') }} (inactive)
 
