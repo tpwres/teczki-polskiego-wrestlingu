@@ -7,7 +7,7 @@ template = "org_page.html"
 
 ### History
 
-#### 2015: end of DDW
+#### 2015: The end of DDW
 
 Kombat Pro Wrestling launched in 2015, after the founder of [DDW](@/o/ddw.md), [Don Roid](@/w/don-roid.md) closed down his organization.
 At the end of 2014, DDW's operations moved from Rzeszów, where Roid lived with his family, to Gdańsk.
