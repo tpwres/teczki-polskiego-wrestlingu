@@ -20,7 +20,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
 - ["The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)",
   "[Eryk Lesak](@/w/eryk-lesak.md), Piotr Opolski", {s: Tag Team Match}]
 - ['[Greg](@/w/greg.md)', Crowchester]
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', Michael Kovac, {c: KPW OldTown Championship}]
+- ['[David Oliwa](@/w/david-oliwa.md)(c)', Michael Kovac, {c: KPW OldTown Championship}]
 {% end %}
 
 #### Recap and aftermath

@@ -13,7 +13,7 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - ['[Greg](@/w/greg.md)', '[Peter Pannache](@/w/peter-pannache.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Kaszub](@/w/kaszub.md)']
-- ["[Boski Ostrowski](@/w/ostrowski.md), [Dawid Oliwa](@/w/dawid-oliwa.md); [Mira](@/w/mira.md)",
+- ["[Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md); [Mira](@/w/mira.md)",
   "[Gracjan Korpo](@/w/gracjan-korpo.md), [Victor Rosetti](@/w/rosetti.md)", {r: DQ}]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Pastor William Eaver]
 {% end %}

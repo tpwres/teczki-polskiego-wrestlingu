@@ -11,7 +11,7 @@ Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in [Klub Atlan
 - ['[Robert Star](@/w/robert-star.md)', '[Victor Rosetti](@/w/rosetti.md)']
 - ["[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)",
   '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
-- ["Kawaleria: [Kaszub](@/w/kaszub.md), [Greg](@/w/greg.md)", "[Dawid Oliwa](@/w/dawid-oliwa.md),
+- ["Kawaleria: [Kaszub](@/w/kaszub.md), [Greg](@/w/greg.md)", "[David Oliwa](@/w/david-oliwa.md),
     [Peter Pannache](@/w/peter-pannache.md)", {s: Tag Team Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Boski Ostrowski](@/w/ostrowski.md)',
@@ -24,7 +24,7 @@ Ring announcer: Arkadiusz Pawłowski
 
 * Fans annoy Gracjan by calling him Gracjan Porno. [Krzysztof Zasada](@/w/krzysztof-zasada.md) protects Kowalski, and annoyed at his boss, dropkicks him with his signature catphrase "W imię zasad!"
 * Ostrowski enters with not only [Mira](@/w/mira.md), but an unnamed second girl. She would later be revealed as [Alisa](@/w/alisa.md).
-* After the event, Pawłowski announced a surprise, and invited the faces to the ring. Pannache takes over the mic, and explains that [Dawid Oliwa](@/w/dawid-oliwa.md) celebrated his (28th) birthday just days before. A birthday cake is revealed, decorated with the KPW logo. Fans sing "Sto Lat" (Polish _Happy Birthday_ song). Kawaler's music hits, [Greg](@/w/greg.md) walks in, and declares his disregard for the birthday, only to get the cake in his face to great crowd reactions.
+* After the event, Pawłowski announced a surprise, and invited the faces to the ring. Pannache takes over the mic, and explains that [David Oliwa](@/w/david-oliwa.md) celebrated his (28th) birthday just days before. A birthday cake is revealed, decorated with the KPW logo. Fans sing "Sto Lat" (Polish _Happy Birthday_ song). Kawaler's music hits, [Greg](@/w/greg.md) walks in, and declares his disregard for the birthday, only to get the cake in his face to great crowd reactions.
 
 ### References
 

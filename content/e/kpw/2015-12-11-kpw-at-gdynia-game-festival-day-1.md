@@ -15,7 +15,7 @@ and [Day 3](@/e/kpw/2015-12-13-kpw-at-gdynia-game-festival-day-3.md).
 
 {% card() %}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Kaszub](@/w/kaszub.md)']
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
+- ['[David Oliwa](@/w/david-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
 {% end %}
 

@@ -18,7 +18,7 @@ The event, and festival, were held in B90, a music and event venue located in a 
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Greg](@/w/greg.md)', {s: Hardcore Match}]
 - ['[Bianca](@/w/bianca.md)', '[Mira](@/w/mira.md)', {s: Pillow Fight Match}]
 - ["[Kaszub](@/w/kaszub.md), [Piękny Kawaler](@/w/piekny-kawaler.md)", "[Boski Ostrowski](@/w/ostrowski.md),
-    [Dawid Oliwa](@/w/dawid-oliwa.md)", {s: Tag Team Match}]
+    [David Oliwa](@/w/david-oliwa.md)", {s: Tag Team Match}]
 {% end %}
 
 #### Summary

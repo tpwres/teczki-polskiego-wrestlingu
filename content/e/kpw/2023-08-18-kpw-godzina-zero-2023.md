@@ -27,7 +27,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 - - "The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)"
   - "Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
   - s: KPW Tag Team Championship
-- [Iestyn Rees, '[Dawid Oliwa](@/w/dawid-oliwa.md)']
+- [Iestyn Rees, '[David Oliwa](@/w/david-oliwa.md)']
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Chemik](@/w/chemik.md)'
   - '[Filip Fux](@/w/filip-fux.md)'

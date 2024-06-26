@@ -17,7 +17,7 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
 - ['[Dom Taylor](@/w/dom-taylor.md)', '[Chemik](@/w/chemik.md)', Matthias Bernstein,
   {s: Three Way Match}]
 - ['[Fynn Freyhart](@/w/fynn-freyhart.md)', '[Rosetti](@/w/rosetti.md)']
-- ["[Dawid Oliwa](@/w/dawid-oliwa.md)(c)", '[Greg](@/w/greg.md)', {c: KPW OldTown
+- ["[David Oliwa](@/w/david-oliwa.md)(c)", '[Greg](@/w/greg.md)', {c: KPW OldTown
       Championship}]
 - ['[Greg](@/w/greg.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
 - ['[Moloch](@/w/moloch.md)', {s: Four on One Handicap Match}]

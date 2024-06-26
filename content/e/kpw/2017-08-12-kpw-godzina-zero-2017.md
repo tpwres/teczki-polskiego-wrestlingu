@@ -24,7 +24,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Adam Bravo](@/w/adam-bravo.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
-  - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - '[Mateusz Kowalski](@/w/mateusz-kowalski.md)'
   - '[Sawicki](@/w/sawicki.md)'

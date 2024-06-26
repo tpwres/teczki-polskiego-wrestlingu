@@ -21,7 +21,7 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 {% card() %}
 - ['[Daniel Boza](@/w/mutant.md)', '[Eryk Lesak](@/w/eryk-lesak.md)']
 - ['[Bianca](@/w/bianca.md)', '[Diana Rega](@/w/diana-strong.md)']
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', Martn Pain, {c: KPW OldTown Championship}]
+- ['[David Oliwa](@/w/david-oliwa.md)(c)', Martn Pain, {c: KPW OldTown Championship}]
 - ['[Greg](@/w/greg.md)', Piotr Opolski]
 - - "The Hunt: Primate, Wild Boar"
   - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"

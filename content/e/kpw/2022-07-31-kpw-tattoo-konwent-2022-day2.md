@@ -12,7 +12,7 @@ In 2022, KPW was featured as part of the Gdańsk edition, held in the city's exh
 Swedish wrestler Steinbolt was the foreign guest this time, along with now regular Darius. The event saw one debut on day 1: Leon Lato, a wrestler from Toruń.
 
 {% card() %}
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Zefir](@/w/zefir.md)']
+- ['[David Oliwa](@/w/david-oliwa.md)', '[Zefir](@/w/zefir.md)']
 - ['[Greg](@/w/greg.md)', '[Michał Fux](@/w/michal-fux.md)']
 - ['[Zefir](@/w/zefir.md)', {s: Battle Royal}]
 - ['[Filip Fux](@/w/filip-fux.md)', Steinbolt]
