@@ -311,7 +311,7 @@ That was quickly renamed to _PTW: WWA_, and became a de facto "sister federation
 This cooperation allowed PTW talent to be booked at the PTW: WWA show on 2024-01-05.
 See the [Expansion into Austria](#expansion-into-austria) section above.
 
-PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion Scotty Rawk to defend his championship in PTW. In return, Diana Strong and Puncher were booked at one of BWR's shows in the UK.
+PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion Scotty Rawk to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK.
 
 One remarkable deal, between PTW and a bigger promotion, was an agreement with Impact Wrestling, for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md).
 
