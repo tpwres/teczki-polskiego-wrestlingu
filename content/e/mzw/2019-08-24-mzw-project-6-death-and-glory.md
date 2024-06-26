@@ -15,14 +15,16 @@ venue = "czasoprzestrzen"
       Way Match"}]
 - ['[Jacob Crane](@/w/jacob-crane.md)', '[Justin Joy](@/w/justin-joy.md)']
 - - '[Aron Wake](@/w/aron-wake.md)'
-  - '[Nathan Cross](@/w/gabriel-queen.md) (runner-up)'
+  - '[Nathan Cross](@/w/gabriel-queen.md)'
   - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - Anatolii
   - Ring Rat
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
   - s: "Battle Royal"
-    n: Ring Rat was Referee Seweryn
+    n:
+     - Ring Rat was Referee Seweryn
+     - Gabriel Queen came as runner-up
 - ['[Asmund](@/w/asmund.md)', "[Damien Rothschild](@/w/damien-rothschild.md)(c)",
   {c: "MZW Championship"}]
 {% end %}
