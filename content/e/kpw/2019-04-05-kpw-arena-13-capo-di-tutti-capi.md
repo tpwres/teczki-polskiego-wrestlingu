@@ -18,7 +18,7 @@ Originally, the tag team champions were scheduled against German wrestlers [Fynn
 {% card() %}
 - ['[Boski Ostrowski](@/w/ostrowski.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - ['[Moloch](@/w/moloch.md)', '[Peter Pannache](@/w/peter-pannache.md)']
-- - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
+- - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - s: "KPW OldTown Championship #1 Contender Match"
 - - "[Sawicki](@/w/sawicki.md), [Rosetti](@/w/rosetti.md)"

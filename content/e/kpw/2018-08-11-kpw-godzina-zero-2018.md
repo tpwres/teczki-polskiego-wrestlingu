@@ -15,7 +15,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and GÃ
 
 {% card() %}
 - ['[Robert Star](@/w/robert-star.md); [Rosetti](@/w/rosetti.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)']
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Sawicki](@/w/sawicki.md)']
+- ['[David Oliwa](@/w/david-oliwa.md)', '[Sawicki](@/w/sawicki.md)']
 - ['[PiÄ™kny Kawaler](@/w/piekny-kawaler.md)', '[Adam Bravo](@/w/adam-bravo.md)', {
     s: Street Fight}]
 - ['[Greg](@/w/greg.md)(c)', Tristan Archer, {c: KPW OldTown Championship}]

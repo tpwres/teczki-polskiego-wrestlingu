@@ -12,14 +12,14 @@ The event was almost cancelled due to unrelated but tragic circumstances in the 
 #### Build-up
 
 * Two fights on the card would determine #1 Contender spots for the KPW OldTown Championship.
-* Ostrowski lost trust in his friend [Dawid Oliwa](@/w/dawid-oliwa.md) after losing in the tag team tournament. Oliwa wanted to mend fences.
+* Ostrowski lost trust in his friend [David Oliwa](@/w/david-oliwa.md) after losing in the tag team tournament. Oliwa wanted to mend fences.
 * KPW was in the process of choosing a new Chairman. Three candidates would apply: [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Piękny Kawaler](@/w/piekny-kawaler.md), and referee Krystian Malinowski.
 
 {% card() %}
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
   {s: "KPW OldTown Championship #1 Contendership Qualifier"}]
 - ['[Moloch](@/w/moloch.md)', '[Mateusz Kakareko](@/w/mateusz-kowalski.md)']
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)', {s: "KPW
+- ['[David Oliwa](@/w/david-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)', {s: "KPW
       OldTown Championship #1 Contendership Qualifier"}]
 - ['[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', Yuu, {s: Three Way Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', '[Peter Pannache](@/w/peter-pannache.md)',

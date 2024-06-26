@@ -26,7 +26,7 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 - ['[Ron Corvus](@/w/ron-corvus.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
     Zasada](@/w/krzysztof-zasada.md)"]
 - ["Kawaleria: [Greg](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),
-    [Dawid Oliwa](@/w/dawid-oliwa.md)", {s: Tag Team Match}]
+    [David Oliwa](@/w/david-oliwa.md)", {s: Tag Team Match}]
 - [Jon Ryan, '[Robert Star](@/w/robert-star.md)']
 - ['[Bianca](@/w/bianca.md)', Aurora Flame]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',

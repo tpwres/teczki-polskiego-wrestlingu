@@ -15,7 +15,7 @@ Originally Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and 
 - ['[Eryk Lesak](@/w/eryk-lesak.md)', Piotr Opolski]
 - ['[Zefir](@/w/zefir.md)', '[Michał Fux](@/w/michal-fux.md)']
 - ['[Greg](@/w/greg.md)', '[Darius](@/w/darius.md)']
-- ['[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {
+- ['[David Oliwa](@/w/david-oliwa.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {
     s: "KPW Championship #1 Contender Best Two Out Of Three Falls Match"}]
 {% end %}
 

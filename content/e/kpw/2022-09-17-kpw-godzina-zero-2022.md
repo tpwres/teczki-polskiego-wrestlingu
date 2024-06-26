@@ -49,16 +49,16 @@ The foreign guests for the event were:
   - Tommy Freeman
   - s: Championship Contract Battle Royal
 - - '[Greg](@/w/greg.md)'
-  - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)'
   - {s: Three Stages of Hell Match, c: KPW Championship}
-- ['[Rosetti](@/w/rosetti.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)(c)', {c: KPW OldTown
+- ['[Rosetti](@/w/rosetti.md)', '[David Oliwa](@/w/david-oliwa.md)(c)', {c: KPW OldTown
       Championship}]
 {% end %}
 
 #### Recap
 
 * Three Stages of Hell was a best 2 out of 3 falls match, but with stipulations changing after each pinfall. The stipulations were chosen at random by Chairman Krystian Malinowski. This resulted in the opening as a Submission Match, followed by a Texas Chain Match, and finally a Hardcore Match.
-* Rosetti was quick to cash in his title opportunity on the badly beaten and tired Dawid Oliwa, and grabbed the second belt for his faction
+* Rosetti was quick to cash in his title opportunity on the badly beaten and tired David Oliwa, and grabbed the second belt for his faction
 
 ### References
 

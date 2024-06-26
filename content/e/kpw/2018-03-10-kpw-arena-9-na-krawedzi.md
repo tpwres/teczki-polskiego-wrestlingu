@@ -19,7 +19,7 @@ This show was also the debut of the future [Chemik](@/w/chemik.md) - who appeare
 - ['[Robert Star](@/w/robert-star.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
   {s: "KPW Championship #1 Contender Match"}]
 - ['[Greg](@/w/greg.md)', '[Kaszub](@/w/kaszub.md)', {c: KPW OldTown Championship}]
-- ['[Greg](@/w/greg.md)', '[Dawid Oliwa](@/w/dawid-oliwa.md)', {c: KPW OldTown Championship,
+- ['[Greg](@/w/greg.md)', '[David Oliwa](@/w/david-oliwa.md)', {c: KPW OldTown Championship,
     s: Hardcore Match}]
 {% end %}
 

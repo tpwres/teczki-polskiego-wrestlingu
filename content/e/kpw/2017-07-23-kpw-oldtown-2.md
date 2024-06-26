@@ -14,7 +14,7 @@ KPW would return to following editions of OldTown until 2019.
 
 {% card() %}
 - ["[Greg](@/w/greg.md), [Peter Pannache](@/w/peter-pannache.md)", '[Adam Bravo](@/w/adam-bravo.md)',
-  '[Dawid Oliwa](@/w/dawid-oliwa.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
+  '[David Oliwa](@/w/david-oliwa.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
   '[Robert Star](@/w/robert-star.md)']
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Kaszub](@/w/kaszub.md)', {s: Hardcore Match}]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Adam Bravo](@/w/adam-bravo.md)']
@@ -28,7 +28,7 @@ KPW would return to following editions of OldTown until 2019.
 - The original card had more matches, and a tournament was to be held. The starting brackets were:
   - [Peter Pannache](@/w/peter-pannache.md) vs [Gracjan Korpo](@/w/gracjan-korpo.md)
   - [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Victor Rosetti](@/w/rosetti.md)
-  - [Dawid Oliwa](@/w/dawid-oliwa.md) vs [Greg](@/w/greg.md)
+  - [David Oliwa](@/w/david-oliwa.md) vs [Greg](@/w/greg.md)
   - [Robert Star](@/w/robert-star.md) vs Mika The Polish Punisher
 - Aside from that, there was a three-way fight scheduled between [Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md) and [Piękny Kawaler](@/w/piekny-kawaler.md); plus the hardcore match between [Kaszub](@/w/kaszub.md) and Corvus
 - The final two participants of the opening rumble face each other for the KPW OldTown championship in the main event

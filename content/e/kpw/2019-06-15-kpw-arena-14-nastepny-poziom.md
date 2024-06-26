@@ -19,7 +19,7 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
 - ['[Rosetti](@/w/rosetti.md)', Anton Green]
 - ['[Moloch](@/w/moloch.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - ['[Alisa](@/w/alisa.md)', Chakara]
-- - '[Dawid Oliwa](@/w/dawid-oliwa.md)'
+- - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Greg](@/w/greg.md)(c)'
   - {s: "I Quit Match", c: "KPW OldTown Championship"}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Mark Haskins]

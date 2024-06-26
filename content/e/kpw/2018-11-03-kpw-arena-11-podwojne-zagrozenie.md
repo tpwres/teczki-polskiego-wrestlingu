@@ -17,7 +17,7 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
 - ["[Kamil Aleksander](@/w/kamil-aleksander.md), [Peter Pannache](@/w/peter-pannache.md)",
   "[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)", {s: "Tournament First Round
       Tag Team Match"}]
-- ["Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md), [Dawid Oliwa](@/w/dawid-oliwa.md);
+- ["Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md);
     [Mira](@/w/mira.md)", "[Chemik](@/w/chemik.md), [Greg](@/w/greg.md)", {s: "Tournament
       First Round Tag Team Match"}]
 - ["[Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md)", '[Moloch](@/w/moloch.md)',
@@ -25,13 +25,13 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
 - ["British Bouncer Club: [Dom Taylor](@/w/dom-taylor.md), Lee Rogers", "[Adam Bravo](@/w/adam-bravo.md),
     [Mateusz Kakareko](@/w/mateusz-kowalski.md)", {s: "Tournament First Round Tag
       Team Match"}]
-- ["Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md), [Dawid Oliwa](@/w/dawid-oliwa.md);
+- ["Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md);
     [Mira](@/w/mira.md)", "British Bouncer Club: [Dom Taylor](@/w/dom-taylor.md),
     Lee Rogers", {s: "Tournament Semi Final Tag Team Match"}]
 - ["[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)", "[Piękny Kawaler](@/w/piekny-kawaler.md),
     [Robert Star](@/w/robert-star.md)", {r: "DQ", s: "Tournament Semi Final Tag Team
       Match"}]
-- ["[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)", "Boska Oliwa: [Dawid Oliwa](@/w/dawid-oliwa.md),
+- ["[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)", "Boska Oliwa: [David Oliwa](@/w/david-oliwa.md),
     [Boski Ostrowski](@/w/ostrowski.md)", {c: "KPW Tag Team Championship", s: "Tournament
       Final Tag Team Match"}]
 {% end %}
