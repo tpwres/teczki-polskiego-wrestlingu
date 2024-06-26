@@ -24,6 +24,11 @@ Predicted card based on social media:
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - c: PpW European Ultraviolent Title Deathmatch
 {% end %}
 ### References
 
