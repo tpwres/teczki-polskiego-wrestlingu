@@ -295,10 +295,10 @@ He answers that connecting people, escapism, and emotional involvement are the k
 ### Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md) or MCW, however PTW itself is known for its lack of interaction with other federations in Poland.
-Talent in PTW were strictly prohibited from appearing in any other Polish rings, and any form of cooperation, either as a performer or in a backstage role resulted in "firing" from PTW.
+Talent were strictly prohibited from appearing in any other Polish rings, and any form of cooperation, either as a performer or in a backstage role resulted in "firing" from PTW.
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW Exits](@/a/ptw-exits.md), where the talent wanted to have more freedom, and to be able to take bookings from other Polish organizaitions.
-This is similar to KPW's approach: reportedly, this isolationist attitude was inherited from [Don Roid](@/w/don-roid.md)'s [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and DDW.
+This is similar to KPW's approach. Fans theorize that this isolationist attitude was inherited from [Don Roid](@/w/don-roid.md)'s [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and DDW.
 
 ### Foreign relations
 
