@@ -19,7 +19,7 @@ country_flag = "PL"
 ### 2016-2018: PpW
 
 Today's Olgierd debuted as Hades in PpW back in 2016, when the organization was merely a backyard wrestling project.
-During his two-year run, he competed against [Mister Z](@/w/mister-z.md),
+During his two-year run, he competed against the likes of [Mister Z](@/w/mister-z.md),
 [Feager](@/w/feager.md) or [Rob Scaffold](@/w/rob-scaffold.md).
 At that time, as a member of the "Hardcore Friday" roster, his specialty was hardcore matches.
 
