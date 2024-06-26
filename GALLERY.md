@@ -46,7 +46,7 @@ The value is always a map (another list of key-value pairs), which **must contai
 * If it's your own photo taken at an event, add your name or preferred nickname, e.g. 'Photo by John Anon'.
 * Photos from other online media (portals, news sites, forums) should at least note the source name, e.g. 'Gazeta Pomorska', and possibly a link to the resource they came from (unless it's also linked in the article as reference). If the photos include visible watermarks, include that in the attribution, e.g. 'John Anon Photos'.
 
-### Image formats
+### Image formats and sizes
 
 Acceptable image formats are `jpg`, `png` and `webp`. This list may be expanded in the future.
 
@@ -55,9 +55,16 @@ If used wrongly, file size grows or quality degrades: PNG can encode photos but 
 
 For any image, its thumbnail (located in the `tn/` subdirectory) must be encoded in the same format.
 
+As a rule of thumb, images above 500KiB in size should probably be converted to a more appropriate format (this is mostly applicable to screenshots). If they already are in that format, they should be scaled down and optimized until they reach that size.
+There is no recommended resolution for images, use the highest one that looks good and fits under the size.
+
 ## Videos?
 
 Currently, there is no provision to host or display videos on the site. While embedding other sources like YouTube is feasible, this goes against the intended goal of archiving and hosting all the content ourselves. Therefore, videos can currently only be links to another site.
 
 Another reason for not hosting videos is to avoid copyright issues, especially with organizations that are still active.
 This is not a site to host videos of recent events, but an archive/time capsule of the scene.
+
+## Other files like PDFs?
+
+This is under consideration, however most likely it will be simpler than galleries. Files like that will simply be downloadable from the site, without displaying any thumbnails.
