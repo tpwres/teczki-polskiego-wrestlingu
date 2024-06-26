@@ -11,6 +11,7 @@ country_flag = "PL"
 * Gimmicks:
   - Krueger, in {{ org_badge(org='mzw') }}
   - Hades, in {{ org_badge(org='ppw') }} (later also as Olgierd)
+  - Olgierd, in {{ org_badge(org='ptw') }}
 * Active: since 2016
 
 ## Professional wrestling career
