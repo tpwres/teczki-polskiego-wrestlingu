@@ -4,7 +4,10 @@ weight = 0
 +++
 
 Amerykański Sen (_American Dream_) is a short documentary film from 2017. The film was directed by Marek Skrzecz, produced and released by Studio Munka.
+
 It tells the story of [Szymon](@/w/szymon-siwiec.md) who lives in a sleepy small town in southern Poland. After seeing [MZW](@/o/mzw.md) wrestlers perform at a community festival, he dreams of becoming one himself. Ultimately, he succeeds after facing the hardships of training, thus fulfilling his American Dream.
+
+<!-- more -->
 
 The first wrestling show portrayed is [MZW in Smolec](@/e/mzw/2014-06-21-mzw-untitled.md) on 21 June 2014. Briefly shown are German wrestlers Rick Baxxter, Franz Engel (ZERO), Robert Kaiser; British wrestler Kevin Williams; and MZW's own Kowboj Luke, [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Shadow](@/w/shadow.md) and [Justin Joy](@/w/justin-joy.md).
 

@@ -13,6 +13,8 @@ template = "base_with_gallery.html"
 
 This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happened in the first half of 2024. Other significant names that joined the organization but exited before 2024 are also noted.
 
+<!-- more -->
+
 ## Wrestlers
 
 Notably absent from the list and still on the roster:

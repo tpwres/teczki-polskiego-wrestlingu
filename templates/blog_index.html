@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  {{ section.title }}
+</h1>
+<section class="posts">
+    {% for page in section.pages %}
+        <article class="post">
+            <h3 class="title">{{ page.title }}</h3>
+            <div class="post__summary">
+                {{ page.summary | safe }}
+            </div>
+            <div class="read-more">
+                <a href="{{ page.permalink }}">Read more...</a>
+            </div>
+        </article>
+    {% endfor %}
+</section>
+{% endblock content %}
