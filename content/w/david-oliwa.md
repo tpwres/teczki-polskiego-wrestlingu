@@ -11,4 +11,4 @@ country_flag = "PL"
 ## Internet presence
 
 * [David's Facebook profile](https://www.facebook.com/FFDavidOliwa/)
-* [Dawid's Instagram](https://www.instagram.com/david_oliwa_wrestler/)
+* [David's Instagram](https://www.instagram.com/david_oliwa_wrestler/)
