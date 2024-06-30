@@ -30,6 +30,11 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - "MxM Collection: Mansoor, Mason Madden"
   - {c: "PTW Tag Team Championship"}
 - [Marius Al-Ani, '[Sam Della Vale](@/w/sam-rogers.md)', {c: "PTW:WWA Championship"}]
+- - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
+  - Karyna
+  - Marcin Najman
+  - g: true
+    s: Shaving Karyna, Najman's MMA promo
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marcelito](@/w/marcelito.md)'
