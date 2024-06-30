@@ -16,24 +16,29 @@ Their wrestling style used to rely heavily on hardcore and deathmatches, but it 
 
 ### Name
 
-There is no canonical meaning of the PpW acronym, although it may have once stood for Poszkolny Pro Wrestling (poszkolny meaning _after-school_),
-coined during its early backyard years.
-More recently, the acronym was repurposed to match "Piwo Przyjacielem Wrestlingu" (_Beer is Wrestling's Friend_).
+There was no canonical meaning of the PpW acronym, however recently, it was repurposed to match "Piwo Przyjacielem Wrestlingu" (_Beer is Wrestling's Friend_).
 The official name is just "PpW Ewenement". The word _ewenement_ means something unique, special and not easily replicated, and could be translated as "phenomenon" or "anomaly".
 
 ### History
 
-#### 2016: backyard years
+#### 2010: backyard years
 
-While its beginnings reach as far back as 2016 or earlier, until 2019 it was considered a backyard, and not widely recognized. This period is best documented in Ppw's own wikia page (see [Lost Lore](#lost-lore) section below). Events from this period were very short, with three matches or less, held outdoors, either just on floor mats outside, or an improvised ring made from wooden pallets. An actual ring was used at [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-19-ppw-kiedys-bedzie-lepiej.md), but it's still set outdoors somewhere.
+PPW dates its origins back to 2010, when a group of teenage friends started emulating their favourite wrestlers. The original arena for their matches was a public playground, and later a common yard which gave the organization its first name: Polski Podwórkowy Wrestling (_Polish Yard Wrestling_ - note that backyards, in the Anglo-Saxon world defined as private enclosed outdoor areas behind terraced houses, are not common in Poland).
+Until about 2014, the primary location was located next to the intersection of Kuratowski and Arbuzowa streets in Warsaw. The name for this venue was [Placyk PPW](http://ppw-fandom.tpwres.pl/placyk-ppw), and it had no proper ring.
+
+According to [Biesiad](@/w/biesiad.md), simultaneously there was also Polski Szkolny Wrestling (_Polish School Wrestling_), where shoot-style fights between classmates were held in [their school](http://ppw-fandom.tpwres.pl/gubin), complete with a ranking of sorts. That class had significant overlap with the roster of the other PPW. Later this organization of sorts was renamed to PPW (second P standing for Poszkolny or _After-School_), and later yet renamed to PPPW to distinguish the two. Ultimately, the two merged to create the current incarnation of PpW.
+
+The group made some attempts to build a proper ring, despite having no money or experience. The first structure to be recognized as one was created out of discarded mattresses, rugs, tires, floor mats and other junk. Later, another one was built from wooden pallets, and some metal pillars in the corners.
+
+An actual ring, though undersized, was created in 2017, designed by [Rob Scaffold](@/w/rob-scaffold.md). The group pooled their money together, and ordered the metal structure at a local welding shop. According to [Johnny Blade](@/w/johnny-blade.md), the craftsman was intrigued and amused at the project, and gave the group a significant discount because of that. It was still used as the primary ring until 2023, and relegated to their wrestling school afterwards.
 
 Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, many of which can be traced back to [DDW](@/o/ddw.md).
 
 #### 2019: going pro
 
 Probably the first event that PpW held for an open audience (as opposed to just friends and insiders to the backyard scene) was 2019's [2Koła to my nie zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md), followed by [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md).
-The latter event began PpW's cooperation with the European scene, inviting wrestlers to their events, and participating in training camps.
-After estabilishing themselves as a serious organization (and not just a backyard), PpW talent appeared abroad, in Sweden, Austria, and later Hungary.
+The latter event began PpW's pro era. It was the first one to invite foreign guests, and PpW's wrestlers receiving professional training. First from [Jacob Crane](@/w/jacob-crane.md), later also by the invited guests who would hold training sessions.
+After establishing themselves as a serious organization, and building a network of contacts, PpW talent started appearing abroad: in Sweden, Austria, and later Hungary.
 
 2021 saw them invite several [MZW](@/o/mzw.md) wrestlers for a show held during a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) in Poznań, with a [reprise](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) two years later.
 In 2023, PpW was recognized by Cagematch, and some of its events and wrestlers have been added to their database. WrestleMap features news about PpW since 2021.
@@ -90,3 +95,9 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 * Facebook: [OficjalnePPW](https://www.facebook.com/OficjalnePPW)
 * Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/)
 * YouTube: [OficjalnePPW](https://www.youtube.com/@OficjalnePPW)
+
+### References
+
+* [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
+* [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
+* [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
