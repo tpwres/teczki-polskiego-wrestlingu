@@ -1,0 +1,2 @@
+{% set root = config.extra.gallery_root ~ page.path %}
+<img alt="{{ alt | default(value="") }}" src="{{ root ~ path }}"/>
