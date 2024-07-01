@@ -36,7 +36,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
       was not medically cleared"}]
 - - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
-  - Spartan
+  - '[Spartan](@/w/spartan.md)'
   - {g: true}
 - [Samuray Del Sol, Matt Sydal]
 {% end %}

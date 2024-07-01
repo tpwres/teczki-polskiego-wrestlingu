@@ -13,7 +13,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 {% card() %}
 - ['[Vic Golden](@/w/vic-golden.md)', '[Boro](@/w/boro.md)']
 - ['[Rafi Rarytas](@/w/rafi.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
-- ['[Disco Pablo](@/w/disco-pablo.md)', "[Olgierd](@/w/olgierd.md); Karyna"]
+- ['[Disco Pablo](@/w/disco-pablo.md)', "[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)"]
 - ['[Diana Strong](@/w/diana-strong.md)', Devlyn Macabre]
 - ['["Top Gun" Samson](@/w/samson.md)', '[Marcelito](@/w/marcelito.md)', {r: DQ}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']

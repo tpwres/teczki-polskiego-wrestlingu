@@ -22,7 +22,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 - - "Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)"
   - "[Axel Fox](@/w/axel-fox.md), [Jonny Storm](@/w/jonny-storm.md)"
   - s: "PTW Tag Team Championship #1 Contender"
-- ["[Olgierd](@/w/olgierd.md); Karyna", '[Boro](@/w/boro.md)']
+- ["[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)", '[Boro](@/w/boro.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', Amale]
 - ["[Krampus](@/w/krampus.md); [Sinister](@/w/sinister.md)", Peter Tihanyi]
 - ['[Samson](@/w/samson.md)', '[Marcelito](@/w/marcelito.md)']
@@ -32,8 +32,8 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 - - "PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)"
   - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
   - {c: PTW Tag Team Championship, s: Tables Match}
-- ['[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)', '[John "Bad Bones" Klinger](@/w/bad-bones.md)', {g: true,
-    s: Kidnapping Rzeźniczek}]
+- ['[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)', '[John "Bad Bones" Klinger](@/w/bad-bones.md)',
+  {g: true, s: Kidnapping Rzeźniczek}]
 {% end %}
 
 Ring announcer and MC: Arkadiusz Pawłowski \

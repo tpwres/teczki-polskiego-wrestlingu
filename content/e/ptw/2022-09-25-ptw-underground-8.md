@@ -16,7 +16,7 @@ For this event, PTW invited Northern Irish wrestler Myla Grace, who was briefly 
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Disco Pablo](@/w/disco-pablo.md)',
   '["Top Gun" Samson](@/w/samson.md)', {s: Triple Threat Match}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Taras](@/w/taras.md)']
-- [Spartan, '[Gabriel Queen](@/w/gabriel-queen.md)']
+- ['[Spartan](@/w/spartan.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
 - - '[Sinister](@/w/sinister.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Vic Golden](@/w/vic-golden.md)'

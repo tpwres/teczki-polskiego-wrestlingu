@@ -31,10 +31,10 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - {c: "PTW Tag Team Championship"}
 - [Marius Al-Ani, '[Sam Della Vale](@/w/sam-rogers.md)', {c: "PTW:WWA Championship"}]
 - - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
-  - Karyna
+  - '[Karyna](@/w/karyna.md)'
   - Marcin Najman
   - g: true
-    s: Shaving Karyna, Najman's MMA promo
+    s: Shaving [Karyna](@/w/karyna.md), Najman's MMA promo
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marcelito](@/w/marcelito.md)'
@@ -52,11 +52,17 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[Olgierd](@/w/olgierd.md)'
   - '[King Kaiden](@/w/king-kaiden.md)'
   - '[Sambor](@/w/sambor.md)'
-  - Spartan
+  - '[Spartan](@/w/spartan.md)'
   - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
   - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
   - {s: "Gold Rush Rumble", c: "PTW Championship"}
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - Karolina (Pawłowski's real-life partner)
+  - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[Bad Bones](@/w/bad-bones.md), Marcin "Rzeźnik" Rzeźniczak'
+  - g: true
+    s: "Pawłowski's in-ring proposal"
 {% end %}
 
 Polish commentary: Arkadiusz Paterek, Piotr Małecki, Łukasz Baliński \
@@ -82,7 +88,7 @@ Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 * Pawłowski explained the Gold Rush Rumble rules: typical over-the-top rope elimination, but the final four can only eliminate  by pinfall or submission.
 * After the rumble, [Puncher](@/w/puncher.md) cut a promo, to be interrupted by Babatunde, an ex-WWE wrestler of Polish origin, now as Babathunder. Pawłowski announced him as signed to PTW.
 * Pawłowski invited his fiancee Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
-* The screen showed a scene where Bad Bones, Rzeżniczak and Longman conspired against their partner Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, and lifted Pawłowski into an F5.
+* The screen showed a scene where Bad Bones, Rzeżniczak and Longman conspired against their partner Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, hit his boss with _At Your Service_, and closed the show by plugging the lottery.
 
 
 #### Gold Rush Rumble entrances and eliminations

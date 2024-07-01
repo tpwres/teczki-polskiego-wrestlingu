@@ -16,7 +16,7 @@ This is an upcoming show by [PTW](@/o/ptw.md) in collaboration with Ryucon, an a
 Match card predicted from social media posts.
 
 {% card() %}
-- [Spartan, Joseph Conners]
+- ['[Spartan](@/w/spartan.md)', Joseph Conners]
 {% end %}
 
 ### References

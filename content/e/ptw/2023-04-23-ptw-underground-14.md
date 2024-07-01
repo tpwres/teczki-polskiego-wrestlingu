@@ -14,8 +14,8 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
     s: "Dr Fox examines Marco's baldness"}]
 - ['[Axel Fox](@/w/axel-fox.md)', '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Rafi Rarytas](@/w/rafi.md)']
-- ["[Olgierd](@/w/olgierd.md); Karyna", Salomon Strid, Noah Charon, {s: Triple Threat
-      Match}]
+- ["[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)", Salomon Strid, Noah Charon,
+  {s: Triple Threat Match}]
 - ['[Taras](@/w/taras.md)', '["Top Gun" Samson](@/w/samson.md)']
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Boro](@/w/boro.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', '[Gabriel Queen](@/w/gabriel-queen.md)',
