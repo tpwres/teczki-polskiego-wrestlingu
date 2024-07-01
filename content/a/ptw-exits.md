@@ -10,6 +10,7 @@ template = "base_with_gallery.html"
 5 = { path = "sinister-farewell-insta.jpg", caption = "[Sinister](@/w/sinister.md) thanking everyone in his farewell post.", source = "Instagram @sinister_wrestler"}
 6 = { path = "ptw_dismissal.jpg", caption = "PTW firing Jacob Crane in August 2022."}
 7 = { path = "owczy-ped.jpg", caption = "[Puncher's](@/w/puncher.md) comic titled 'Herd Instinct', comparing the talent quitting PTW to sheep heading into a pig's anus (referring to [PpW](@/o/ppw.md)", source = "Facebook @PTWpuncher"}
+8 = { path = "leak-puncher-fox.png", caption = "[Puncher](@/w/puncher.md) leaking info about Axel Fox's possible exit in a discussion thread on the House Of Wrestling Facebook group.", source = "Facebook HouseOfWrestling"}
 +++
 
 This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happened in the first half of 2024. Other significant names that joined the organization but exited before 2024 are also noted.
