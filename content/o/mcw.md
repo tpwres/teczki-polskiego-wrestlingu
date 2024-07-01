@@ -18,7 +18,7 @@ At a later time the federation moved to Brzeziny and then Tarnowskie Góry, befo
 
 MCW attempted a crowdfunding campaign in order to rent or purchase a place to hold training sessions in, but they were unsuccessful, with only 100 out of 13,000 PLN raised for that goal.
 Despite being a very small backyard promotion with limited budget, MCW still owns a high-quality professional ring.
-There's been a rumour that [Prime Time Wrestling](@/o/ptw.md) attempted to buy it from MCW at some point, but Johnny Vegas refused to sell.
+There's been a rumour that [Prime Time Wrestling](@/o/ptw.md) attempted to buy it from MCW at some point, but Johny Vegas refused to sell.
 Vegas himself denies such an offer ever being made, but agrees he'd refuse anyway if it happened.
 
 MCW shows are rare, and most of them are intended to raise funds for charities.
@@ -40,9 +40,6 @@ Notable names to come out of MCW were Syriusz Dziedzic, Disco Pablo and Sinister
 - [MCW's post in the above thread](https://forum.wrestling.pl/topic/34470-mcw-mine-city-wrestling/page/2/#comment-341346)
 - [Crowdfunding page](https://wspieram.to/mcwwrestling)
 - [YouTube playlist of MCW's instructional videos](https://www.youtube.com/playlist?list=PL2kby3nr3FjcQFyp_hr73GMhmD9iiOdAd)
-- [Chat with Johny Vegas, log 1](https://imgur.com/TMvHiAJ)
-- [Chat with Johny Vegas, log 2](https://imgur.com/oUPRHVC)
-- [Chat with Johny Vegas, log 3](https://i.imgur.com/RfEaden.png)
 - [Dziedzic talks about MCW](https://www.youtube.com/live/-mveTz3FApQ?si=GrAXj1vj7GMkwEdt&t=5200)
 - [Facebook event: MCW Damage Control](https://www.facebook.com/events/966766303522255/)
 - [Facebook post: MCW charity show in October 2022](https://www.facebook.com/minecitywrestling/posts/pfbid036Ts8szvAz5DxV4KTgXE6VHe6rZLRts9ga6g961GMCo867ro7JtFiejTgiHSU2tfcl)
@@ -51,7 +48,7 @@ Notable names to come out of MCW were Syriusz Dziedzic, Disco Pablo and Sinister
 
 ## All-time roster
 
-- Johnny Vegas
+- Johny Vegas
 - RAV
 - Shida
 - Terror
