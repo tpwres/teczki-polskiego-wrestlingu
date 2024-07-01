@@ -9,11 +9,14 @@
 
 {{ page.content | safe }}
 
-<h2>Events</h2>
+{% if not page.extra.hide_events -%}
+  <h2>Events</h2>
+  {% include "orgs_events.html" -%}
+{% endif -%}
 
-{% include "orgs_events.html" -%}
-
-{% include "all_time_roster.html" -%}
+{% if not page.extra.hide_roster -%}
+  {% include "all_time_roster.html" -%}
+{% endif -%}
 
 {% if page.extra.gallery -%}
   {% include "auto_lightbox.html" -%}
