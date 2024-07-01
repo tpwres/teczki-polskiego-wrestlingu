@@ -45,19 +45,33 @@ PAW, whose full name translates to _Polish Wrestling Academy_, is the wrestling 
 
 ## History
 
-### 2017-2018 Rebranding MZW Academy
+### 2017-2018: Rebranding MZW Academy
 
-Polska Akademia Wrestlingu powstała w roku 2017 po reformach wprowadzonych w Maniac Zone Wrestling, w celu oddzielenia samej federacji od szkoły wrestlingu. W zamyśle rozdzielenie MZW i szkółki miał pozwolić na swobodne trenowanie osobom bez doświadczenia, jak i tym pochodzących z innych federacji oraz środowisk backyardowych, bez powiązywania trenujących bezpośrednio z MZW. Trenerami w tamtym czasie byli Justin Joy, Shadow, Asmund i Jędruś Bułecka.
-PAW organizowało regularne treningi (1-2 weekendy w miesiącu) w znajdującej się przy czeskiej granicy miejscowości Głuchołazy. Treningi mimo trudnodostępnej lokalizacji w małej miejscowości z trudnym dojazdem cieszyły się przyzwoitą frekwencją i ściągały do siebie zarówno adeptów bez doświadczenia w ringu, jak i zawodników z federacji takich jak PpW, jak i DFW, z których część zasiliła później roster MZW.
+PAW was created in 2017, after Maniac Zone Wrestling reorganized itself with the goal to have separate legal entities for the organization itself, and its wrestling school.
+The goal of this split was to allow training both complete newcomers, as well as people connected with other wrestling organizations and backyards, without linking them to MZW itself.
+At that time, the coaches were [Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md).
+PAW held training camps regularly (for 1-2 weekends a month), in [Głuchołazy](@/v/gosir-glucholazy.md), a small town near the Polish-Czech border.
+Despite the remote location with limited transport connections, these sessions had decent attendance numbers, and attracted both people new to wrestling, and talent from backyards like [PpW](@/o/ppw.md) or [DFW](@/o/dfw.md), of which some would later join MZW's roster.
 
-### 2018-2019 Moving to Wroclaw
+[_American Dream_](@/a/american-dream.md), a documentary feature from 2017, shows Jędruś Bułecka training rookies in Niedźwiedzica, another remote location near the border. Events shown in the film took place in 2014-2015, and therefore show the precursor to PAW.
 
-W maju 2018 roku MZW i PAW przeniosły swoją siedzibę do Wrocławia organizując swoje treningi oraz większość gal w Hali Czasoprzestrzeń, co zaowocowało polepszeniem się frekwencji i polepszeniem regularności treningów. Po kursie letnim 2018 z posady trenera ustąpił Jędruś Bułecka, przez co treningi prowadził triumwirat w składzie Shadow, Asmund i Justin Joy. Stan ten trwał do kursu letniego 2019, po którym to z posady trenerów ustąpili Justin Joy i Asmund. W podobnym okresie wśród adeptów i części trenerów MZW uformowała się grupa, która w późniejszych latach znana będzie jako "Zieloni".
+### 2018-2019: Moving to Wrocław
 
-### 2019-2023 Shadow's solo run
+In May 2018 MZW and PAW moved to Wrocław, holding most of their events and training sessions in [Czasoprzestrzeń](@/v/czasoprzestrzen.md), which significantly boosted attendance, and improved the frequency of training.
+After the summer camp of 2018, Jędruś Bułecka retired from his coach duties, leaving the trio of Shadow, Asmund and Justin Joy in charge.
+That lasted for almost another year, until the summer training camp of 2019, after which Justin and Asmund also retired from coaching (the latter also from wrestling in general).
 
-Po odejściu Justina Joya i Asmunda jedynym stałym trenerem w PAW został Shadow. Spowodowało to zmniejszeniem się regularności treningów do około 1 na miesiąc-dwa miesiące. Główna siedziba treningów przeniosła się natomiast do dużo mniejszej hali na ulicy Aleksandra Ossowskiego, gdzie nagrywano również MZW Project Basement. Mimo to PAW organizowało kursy letnie zarówno w 2020 jak i 2021 roku, które to jednak szczyciły się mniejszą frekwencją.
-Dużym ciosem w Polską Akademię Wrestlingu były odejścia wielu zawodników i adeptów PAW/MZW do PTW oraz drastyczny spadek regularności weekendów treningowych. PAW straciła wtedy sporą część swej frekwencji, a na przełomie 2021/2022 tymczasowo prowadziła treningi w Toruniu.
+This period is also when a social group, later called "[The Greens](@/a/the-greens.md)" formed, composed of both rookies and some of the coaches. The group's members would later become important talent in MZW and other organizations.
+
+### 2019-2023: Shadow's solo run, PTW
+
+After Justin and Asmund left, Shadow became the single permanent coach in PAW.
+This reduced the training sessions' frequency down to about once monthly or bimonthly.
+The academy itself relocated to a much smaller venue, located at Aleksandra Ossowskiego street, which was also the place that the COVID-era [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) series was recorded.
+Despite that, PAW continued to hold summer camps in 2020 and 2021, which had worse attendance numbers than before.
+
+PAW suffered its biggest setback when multiple MZW talent and PAW rookies decided to join the newly created [PTW](@/o/ptw.md) in 2021.
+This also caused another decline in training session frequency. In the later months of 2021 and early 2022, PAW moved its training sessions temporarily to Toruń.
 
 ## References
 
