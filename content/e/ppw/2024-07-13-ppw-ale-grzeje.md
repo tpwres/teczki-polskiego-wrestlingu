@@ -14,11 +14,12 @@ hide_results = true
 The announcement post featured the show's official poster, focusing on the term "Zmowa" (roughly translated as _Collusion_), promising the hottest (literally and figuratively) show of the summer.
 The hype text suggested "collusion versus collusion" - which refers to [Biesiad's](@/w/biesiad.md) plan to exact revenge, and thwart [Mister Z](@/w/mister-z.md)'s and [Gustav Gryffin](@/w/gustav-gryffin.md)'s new alliance that screwed him of the PpW Championship belt at [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
-Prior to the show, PpW is holding a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they call their "summer course".
+Prior to the show, PpW is holding a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they call their "summer course". This later turned into [Ewenement Dojo](@/o/ewenement-dojo.md), PpW's official wrestling school with Crane and Biesiad as coaches.
 
 ### Build-up
 
 * [Jacob Crane](@/w/jacob-crane.md) is returning from his three-month stint in Japan's BJW, and wants his rematch against [Gabriel Queen](@/w/gabriel-queen.md)
+* In an [Instagram reel][reel-olgierd-gryffin], Gustav reached out to Olgierd and offered Legia Łysych ([Olgierd](@/w/olgierd.md) & [Hammers](@/w/marco-hammers.md)) a match against Goblin. To rile Olgierd up, Gustav suggested that Goblin is "stealing Legia's colors" (coincidental similarity as both Goblin and Legia wear white, red and green). They implied that it will be a handicap match because Goblin is too crazy to find himself a partner.
 
 Predicted card based on social media:
 
@@ -39,3 +40,5 @@ Predicted card based on social media:
 * [Facebook announcement post](https://www.facebook.com/photo/?fbid=976634991133560&set=a.499910772139320)
 * [Facebook event: Summer Course](https://www.facebook.com/events/1409438239775557/?acontext=%7B%22event_action_history%22%3A%5B%5D%7D)
 * [Facebook announcement of Crane vs Queen](https://www.facebook.com/OficjalnePPW/posts/pfbid0ihqTqNJFNkqXJR6xia7jrVyX78HtjWan8dvRPDa3s3aNb5xV79TKZusRbVger6bGl)
+
+[reel-olgierd-gryffin]: https://www.instagram.com/p/C84x6jeIuFU/
