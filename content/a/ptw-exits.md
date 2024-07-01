@@ -20,14 +20,14 @@ This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happen
 ## Wrestlers
 
 Notably absent from the list and still on the roster:
-[Axel Fox](@/w/axel-fox.md),
 [Diana Strong](@/w/diana-strong.md),
 [Puncher](@/w/puncher.md),
 [Nano Lopez](@/w/nano-lopez.md),
 [Iskra](@/w/iskra.md),
-[Max Speed](@/w/max-speed.md).
+[Max Speed](@/w/max-speed.md),
+[King Kaiden](@/w/king-kaiden.md).
 
-Others still on the roster: Vincent Caravaggio, [Spartan](@/w/spartan.md), Arczi Czajka, Alex Brave.
+Others still on the roster as of July 2024: Vincent Caravaggio, [Spartan](@/w/spartan.md), Arczi Czajka, Alex Brave.
 
 The table below is sorted chronologically by estimated exit date.
 
