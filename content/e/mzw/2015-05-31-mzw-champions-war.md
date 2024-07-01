@@ -30,7 +30,9 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
     Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic
     + [Dynamite Dave](@/w/dynamite-dave.md) + Ilja Dragunov
   - s: "Eight Man Tag Team Match"
-- ["[Hexia](@/w/hexia.md)", "Akira", {r: "Ref stoppage"}]
+- - "[Hexia](@/w/hexia.md)"
+  - "Akira"
+  - r: Ref stoppage
 {% end %}
 
 ### References
