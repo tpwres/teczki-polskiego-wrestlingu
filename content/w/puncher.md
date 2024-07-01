@@ -31,10 +31,11 @@ leading other sheep (possibly referring to fans) into a pig's gaping anus, repre
 {% inline_fig(path="owczy-ped.jpg") %}
 Characters referenced: \
 Top panel: likely [Samson](@/w/samson.md) on TV, then Merch Stand Ania with the bell and END IS NOW sign. \
-Middle panels: [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md) in front of the door. \
-[Wiktor Longman](@/w/wiktor-longman.md) wearing the long coat, Legia Łysych ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)) wearing scarves and "60" t-shirts. Text on scarves says "Legia Konfidentów" (_Legion of the Snitches_). \
+Middle panels: [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md) as pigs in front of a door. \
+[Wiktor Longman](@/w/wiktor-longman.md) wearing a long coat, Legia Łysych ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)) wearing scarves and "60" badges. \
+Text on Marco's scarf reads "Legia Konfidentów" (_Legion of the Snitches_). \
 Below them, PAKA: [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md), [Taras](@/w/taras.md) wearing colored tracksuits, and on their left is most likely Samson. \
-Commentary booth: Arek Paterek (referred to as "Świderek"), Piotr "Showoff" Małecki, referred to as "ŚwińOff" (_PigOff_), then likely Łukasz Baliński. \
-Horse: [Robert Star](@/w/robert-star.md), and to his right Golden and Queen again, ushering the other sheep into the pig's anus. \
+Commentary booth: Arek Paterek, referred to as "Świderek", Piotr "Showoff" Małecki, referred to as "ŚwińOff" (_PigOff_), then likely Łukasz Baliński. \
+Horse: "The Polish Stallion" [Robert Star](@/w/robert-star.md), and to his right Golden and Queen again, ushering the other sheep into the pig's anus. \
 Source: Facebook @PTWpuncher
 {% end %}
