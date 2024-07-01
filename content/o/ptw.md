@@ -219,7 +219,8 @@ Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just af
 He posted a poll, asking fans whether he should continue wrestling in a "new" place, or return to an "old" place, with [PpW](@/o/ppw.md) marked as "new", and [KPW](@/o/kpw.md) as "old".
 
 On June 8th, Legia Łysych, a tag team consisting of [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), who never announced leaving PTW, made their surprise debut for [PpW](@/o/ppw.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
-For the latter it was also a return home - he is a PpW original known previously as Hades.
+On their social media platforms, they still appeared to be signed with PTW, as Marco Hammers feuded with Vincent Caravaggio, and both team members released an Instagram story where the neon lights from their Performance Center venue were clearly visible.
+For Olgierd, that debut was also a return - he is a PpW original known previously as Hades.
 They answered an open challenge laid out by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
 This was the culmination of a storyline started back in PTW, where the two teams joined forces to prevent PAKA from becoming the inaugural Tag Team Champions. That plan failed, and the two teams feuded bitterly over it.
 
