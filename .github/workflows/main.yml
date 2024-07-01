@@ -4,7 +4,6 @@ name: Lint and verify metadata
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/setup-python@v5
         with:
