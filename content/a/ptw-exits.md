@@ -26,7 +26,7 @@ Notably absent from the list and still on the roster:
 [Iskra](@/w/iskra.md),
 [Max Speed](@/w/max-speed.md).
 
-Others still on the roster: Vincent Caravaggio, Spartan, Arczi Czajka.
+Others still on the roster: Vincent Caravaggio, [Spartan](@/w/spartan.md), Arczi Czajka, Alex Brave.
 
 The table below is sorted chronologically by estimated exit date.
 
