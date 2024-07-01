@@ -7,6 +7,7 @@
 5. The first element of that list must be the winner (or winners, if a tag team) of the match
 6. Talent names in the list may be specified as either plain names like `"John Doe"`, or Markdown links to talent pages like `"[John Doe](@/w/john-doe.md)"`.
 7. Linking to a non-existent page is an error, which is caught during the build process. The talent page must be created first.
+8. In the rare event that an event intentionally has no card (mostly for upcoming events), replace the card block with `{{ skip_card() }}`
 
 ## YAML lists
 

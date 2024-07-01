@@ -16,6 +16,11 @@ class MissingCard(LintError):
 class MissingCardLinter:
     def lint(self, path: Path):
         with path.open('r') as fp:
+            text = fp.read()
+            if '{{ skip_card() }}' in text:
+                return []
+
+        with path.open('r') as fp:
             card = Card(fp)
             if card.matches:
                 return []

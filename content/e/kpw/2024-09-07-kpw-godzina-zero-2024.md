@@ -21,6 +21,7 @@ According to KPW's event page, there will be a significant number of foreign tal
 * Chairman Malinowski announced that all three championships would be defended.
 * Starting on 22.06.2024, KPW started daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
 
+{{ skip_card() }}
 
 #### Recap
 
