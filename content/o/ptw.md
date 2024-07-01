@@ -80,7 +80,6 @@ _Legends_ closed PTW's 2022 as their last show of such ambition and scale, until
 
 ### 2023
 
-
 #### Sponsorship dropped, name change
 
 Prior to the first event, on 21st of September 2021, Kinguin was announced as one of the [sponsors][sponsors-announcement], later becoming the titular sponsor, and was added to the promotion's logo.
@@ -90,6 +89,16 @@ The Kinguin mascot became a regular part of the shows, and even an angle with Ta
 Though Kinguin's departure was never officially announced, the titular sponsor was gradually dropped from PTW's branding over the spring/summer of 2023.
 The last Facebook post featuring Kinguin PTW name was from 26th March 2023, a [cover photo change][cover-photo-underground14] announcing [Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md).
 Afterwards, none of the graphics for the show featured Kinguin in either logo or name.
+
+#### Fourth major show
+
+After closing 2022 with PTW Legends, PTW continued to hold Underground shows.
+Throughout the first half of the year, they continued at a monthly pace (except January which saw a double-header Underground weekend).
+On June 25th in Wrocław, PTW held their 4th major show overall and the only one for 2023 - [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md).
+This show saw the crowning of PAKA as the inaugural PTW Tag Team Champions, a storyline involving [Bad Bones](@/w/bad-bones.md) kidnapping Marcin Rzeźniczek, and the formation of what would later become The Sinister Kingdom.
+Foreign starpower was significantly lower than for previous major shows, presumably due to titular sponsor dropping out.
+This was also the first major PTW show to be put behind a pay-wall (supporter functionality of YouTube), with the live stream dropping out so often that it rendered the show unwatchable.
+All these issues caused a lot of controversy, angering the fans who were demanding refunds - which PTW later granted in the form of free tickets and discounts for PTW's merchandise.
 
 #### Crisis and departures
 
