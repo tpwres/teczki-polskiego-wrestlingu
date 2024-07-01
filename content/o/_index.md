@@ -21,6 +21,7 @@ template = "index.html"
 | Years active | Name | Location |
 |--:|---|---|
 | 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń |
+| 2024- | [Ewenement Dojo](@/o/ewenement-dojo.md) | Warsaw |
 
 ## Folded
 
