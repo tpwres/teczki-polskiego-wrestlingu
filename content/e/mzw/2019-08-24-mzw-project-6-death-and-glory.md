@@ -21,10 +21,10 @@ venue = "czasoprzestrzen"
   - Ring Rat
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
-  - s: "Battle Royal"
+  - s: "Rookie Battle Royal"
     n:
      - Ring Rat was Referee Seweryn
-     - Gabriel Queen came as runner-up
+     - Nathan Cross came as runner-up
 - ['[Asmund](@/w/asmund.md)', "[Damien Rothschild](@/w/damien-rothschild.md)(c)",
   {c: "MZW Championship"}]
 {% end %}
