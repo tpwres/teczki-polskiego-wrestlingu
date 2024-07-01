@@ -1,6 +1,7 @@
 +++
 title = "Jacob Crane"
 template = "talent_page.html"
+authors = ["Seweryn Pielucha", "Krzysztof Zych"]
 [extra]
 career_aliases = ["Kuba Kamiński"]
 country_flag = "PL"
@@ -10,7 +11,36 @@ country_flag = "PL"
 3 = { path = "ppw-crane-420.jpg", caption = 'On April 1st, 2024 PpW "fired" Jacob Crane after his first show in Japan, parodying PTW by using the exact same text with its owners mock signatures. The text reads "Should not have left for Japan disregarding our events".'}
 +++
 
-#### 2021-2022: PTW
+## Basic info
+
+* Known as:
+  - Kuba Kamiński
+  - Adept Kuba (early [MZW](@/o/mzw.md))
+  - The Perfect Man
+  - The Top Guy Everywhere
+* Trained by:
+  - [Justin Joy](@/w/justin-joy.md)
+  - [Joe E. Legend](@/w/joe-legend.md)
+  - [Shadow](@/w/shadow.md)
+  - [Asmund](@/w/asmund.md)
+
+## Professional wrestling career
+
+### 2017: Early days of PpW, joining MZW
+
+Before his MZW debut, Jacob made a few apperances in [PpW](@/o/ppw.md) back in Warsaw, where he took part in backyard matches against Jake Young and [Hades](@/w/olgierd.md).
+His first stint in PpW was short-lived, as he began his pro wrestling training in MZW's academy in Głuchołazy in 2017.
+
+### 2017-2021: MZW
+
+Jacob made his in-ring debut for MZW as "Kuba Kamiński" (his real name) at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) in 2017, in a ten-man Battle Royal.
+His first singles match took place during [MZW Project 1: New Beggining](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) in October 2017, where he faced & lost to [Rafael Kid](@/w/rafael-kid.md).
+That marks his debut under the "Jacob Crane" ringname.
+
+Jacob continued his regular MZW apperances up until [Project Basement 3](@/e/mzw/2021-04-30-mzw-project-basement-3.md). He bid his farewell to MZW at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md), where he officially announced his departure from the company.
+Jacob quickly began taking bookings abroad. He made his international debut on a Next Step Wrestling show in October 2018, and continued to make regular appearances in the Central-European independent scene ever since.
+
+### 2021-2022: PTW
 
 On May 1st, 2021, Crane announced on his Facebook profile that he is [leaving MZW][leaving-mzw]. At that time he gave no further details, but later on August 13, he was [revealed][crane-reveal] as the newest roster member of the newly created [Prime Time Wrestling](@/o/ptw.md), debuting at their very first event in a rumble match.
 
@@ -18,11 +48,21 @@ Only a year later, almost to the day, on August 12, 2022, PTW's Facebook account
 
 After this dismissal, Crane posted about [relocating to Germany][aschaffenburg], and focused on his development at the WxW Academy in Oberhausen. He appeared, in minor roles, at several of their shows, including at World Tag Team Festival 2023, and 16 Carat Gold in 2024 where he challenged for the WxW Shotgun Championship. He also appeared several times for [PpW Ewenement](@/o/ppw.md), initially as a surprise contender. Backstage, he also trained PpW's wrestlers.
 
+
+### 2022-2024 Return to PpW & International Career
+
+After his dismissal from PTW, Crane announced his relocation to Germany, in order to focus on bookings in Germany itself (mostly for wXw & wXw Academy).
+He also made a comeback to PpW after over five years of absence, re-debuting in a match against [Steve Kuningas](@/w/steve-kuningas.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) in September 2022.
+Since then, he made regular appearances for PpW, and took up the role of head coach in PpW Dojo, training a new generation of wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md), as well as improving PpW Orginal wrestlers' in-ring abilities.
+
 In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], joining the BJPW (Big Japan Pro Wrestling) roster.
 
-### References
+After his 3-month stint in Japan, it was announced that Jacob Crane will return at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in a rematch against [Gabriel Queen](@/w/gabriel-queen.md). In addition, PpW announced that they will run a summer wrestling course under their dojo's brand with Jacob as head coach.
+
+## References
 
 * [Video interview by AttitudePolska](https://www.youtube.com/watch?v=XviEUzkPFJQ) before [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), about leaving for Japan
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=20559)
 
 [ptw-20220812]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02FiF1R8GSRqAD2DDGiquoSzQnDipgbNmqyTXhg3vd5pT8zD37qS8itgs5SM7dw4XHl
 [aschaffenburg]: https://www.facebook.com/thejacobcrane/posts/pfbid0355yoXbfmsjR8Pmtpijv2FQKvwiGMBzsPvD2vgfttWziF7PGHZkLZoywyiDtKgAfdl
