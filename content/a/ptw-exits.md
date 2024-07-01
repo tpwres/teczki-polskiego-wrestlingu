@@ -126,6 +126,11 @@ The table below is sorted chronologically by estimated exit date.
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 [instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
+- - '**[Axel Fox](@/w/axel-fox.md)**'
+  - 2021 ([MZW](@/o/mzw.md))
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
+  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
+  - 2024-06-25 [Pawłowski's twitch stream](https://www.twitch.tv/videos/2180575222)
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
