@@ -8,7 +8,7 @@ hide_roster = true
 hide_events = true
 +++
 
-PAW, which the full name translates as _Polish Wrestling Academy_, is the wrestling school associated with [MZW](@/o/mzw.md).
+PAW, whose full name translates to _Polish Wrestling Academy_, is the wrestling school associated with [MZW](@/o/mzw.md).
 
 ## Basic info
 
