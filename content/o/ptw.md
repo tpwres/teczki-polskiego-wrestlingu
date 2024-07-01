@@ -218,6 +218,8 @@ On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://ww
 
 On Thursday June 13th, PTW has taken down the roster section of their page.
 
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that Axel Fox, a popular babyface has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before.
+
 #### Silence and confusion
 
 As this post-Gold Rush crisis was developing, PTW's social media channels stayed silent.
