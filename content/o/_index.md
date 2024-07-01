@@ -16,8 +16,13 @@ template = "index.html"
 | 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów |
 | 2014- | {{ org_badge(org='mcw') }}Mine City Wrestling | Będzin |
 
-## Folded
+### Wrestling schools
 
+| Years active | Name | Location |
+|--:|---|---|
+| 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń |
+
+## Folded
 
 | Years active | Name | Location |
 |--:|---|---|
