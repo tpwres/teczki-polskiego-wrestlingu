@@ -33,10 +33,11 @@ authors = ["Szymon Iwulski", "Seweryn Pielucha"]
 27 = { path = "mutant-stare-smieci.jpg", caption = 'Instagram story by Michał "Mutant" Świątkowski, polling the followers where should he continue training wrestling.', source = "Instagram @mutant_wrestler"}
 28 = { path = "mutant-hammers.jpg", caption = 'Michał "Mutant" Świątkowski taking a selfie with [Marco Hammers](@/w/marco-hammers.md) backstage at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)', source = "Instagram @mutant_wrestler"}
 29 = { path = "sambor-insta-thanks.jpg", caption = '[Sambor](@/w/sambor.md) thanking the fans, organization and Pawłowski for support. The text states that his time in wrestling is not over, and his story will be told in many taverns.'}
+30 = { path = "hammers-vs-caravaggio.png", caption = "[Marco Hammers](@/w/marco-hammers.md) feuding online with Vincent Caravaggio, three days before his surprise debut for PpW. He links to Kornel Tomicki's (Vincent's real name) site, where prior to his wrestling career, Tomicki offered coaching, prominently promising successful dating.", source = "Facebook Marco Hammers"}
 101 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
 102 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
 103 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
-104 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler Justin Joy (as oski_ninja) praises Ludwiczek for talking sense, while Samson wants a match against Pawłowski."}
+104 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler [Justin Joy](@/w/justin-joy.md) (as oski_ninja) praises Ludwiczek for talking sense, while [Samson](@/w/samson.md) wants a match against Pawłowski."}
 +++
 
 ## History
