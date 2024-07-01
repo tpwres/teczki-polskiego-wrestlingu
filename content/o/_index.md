@@ -14,7 +14,7 @@ template = "index.html"
 | 2014- | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
 | 2016- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
 | 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów |
-| 2014- | {{ org_badge(org='mcw') }}Mine City Wrestling | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
+| 2014- | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
 
 ### Wrestling schools
 
