@@ -3,6 +3,8 @@ title = "KPW Arena 16: Polowanie"
 template = "event_page.html"
 [extra]
 venue = "gdynia-sports-center"
+[extra.gallery]
+1 = { path = "2020-02-01-kpw-arena-16-polowanie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Polowanie (_The Hunt_) was the 16th Arena event, held by KPW on February 1st 2020 in Gdynia Sports Center. The event is named after its main attraction: the team of British wrestlers Primate and Wild Boar, who were hot in NXT UK at the time. Both previously appeared for KPW in solo fights.

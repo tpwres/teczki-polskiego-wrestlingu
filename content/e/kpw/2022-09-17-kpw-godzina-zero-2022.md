@@ -3,6 +3,8 @@ title = "KPW Godzina Zero 2022"
 template = "event_page.html"
 [extra]
 venue = "atlantic-nh-gdynia"
+[extra.gallery]
+1 = { path = "2022-09-17-kpw-godzina-zero-2022-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 2022's Godzina Zero (_Zero Hour_), the flagship supershow of the year, was unusually held in September, not August. It was the first Godzina Zero to be held since 2019, due to the COVID-19 pandemic. As was now the tradition, the show had multiple foreign guests, and featured all current champions defending their titles. This year, the Magnificent Seven Ladder Match was replaced with a 15-man battle royal, for the same contract to challenge for any of the titles.
