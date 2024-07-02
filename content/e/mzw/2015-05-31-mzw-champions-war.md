@@ -3,9 +3,11 @@ title = "MZW Champions War"
 template = "event_page.html"
 [extra]
 venue = "gosir-glucholazy"
+[extra.gallery]
+1 = { path = "plakat.webp" }
 +++
 
-The first Champions War by MZW was held in Głuchołazy on May 31, 2015. The matches featured MZW trainees, experienced wrestlers like [Asmund](@/w/asmund.md) or Dobroniak, a number of German wrestlers, and MZW's first, and last women's match.
+The first Champions War by MZW was held in Głuchołazy on May 31, 2015. The matches featured MZW trainees, experienced wrestlers like [Asmund](@/w/asmund.md) or [Dobroniak](@/w/stanislaw-van-dobroniak.md), a number of German wrestlers, and MZW's first, and last women's match.
 
 The event is infamous in the Polish wrestling scene for having female performer Akira collapse during the show, then die within hours in a hospital. While the initial diagnosis was severe damage to the spine, an autopsy later confirmed that the actual cause of death was an undiscovered brain aneurysm.
 [Hexia](@/w/hexia.md) and the organisation were ultimately cleared of all charges. However, the press slammed MZW and wrestling in general for being dangerous, and the organisation's future become uncertain.
@@ -24,11 +26,9 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
   - c: "Belgium Pro Wrestling Federation Championship"
     s: "Tag Team Match"
 - - >
-    Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md), Laurance Roman
-    + Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)
+    Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md), Laurance Roman + Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)
   - >
-    Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic
-    + [Dynamite Dave](@/w/dynamite-dave.md) + Ilja Dragunov
+    Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic + [Dynamite Dave](@/w/dynamite-dave.md) + Ilja Dragunov
   - s: "Eight Man Tag Team Match"
 - - "[Hexia](@/w/hexia.md)"
   - "Akira"

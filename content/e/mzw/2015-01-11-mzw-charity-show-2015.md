@@ -3,6 +3,8 @@ title = "MZW Charity Show 2015"
 template = "event_page.html"
 [extra]
 venue = "gosir-glucholazy"
+[extra.gallery]
+1 = { path = "plakat.webp" }
 +++
 
 This was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was a charity show, with donations going to [WOŚP][wosp], and coinciding with their 23rd annual Grand Finale event.

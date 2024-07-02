@@ -3,6 +3,8 @@ title = "MZW Revolution"
 template = "event_page.html"
 [extra]
 venue = "gosir-glucholazy"
+[extra.gallery]
+1 = { path = "plakat.webp" }
 +++
 
 {% card() %}
