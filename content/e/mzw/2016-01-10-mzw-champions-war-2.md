@@ -3,6 +3,8 @@ title = "MZW Champions War II"
 template = "event_page.html"
 [extra]
 venue = "gosir-glucholazy"
+[extra.gallery]
+1 = { path = "plakat.webp" }
 +++
 
 Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). Like last year's [untitled event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), it was a charity show, with donations going to [WOŚP][wosp], and was held on the same day as their 24th annual Grand Finale event.

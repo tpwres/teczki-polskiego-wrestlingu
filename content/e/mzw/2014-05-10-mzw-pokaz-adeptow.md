@@ -3,6 +3,8 @@ title = "MZW Pokaz Adeptów"
 template = "event_page.html"
 [extra]
 venue = "smolec"
+[extra.gallery]
+1 = { path = "plakat.webp" }
 +++
 
 {% card() %}
