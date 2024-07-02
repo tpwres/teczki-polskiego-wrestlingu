@@ -3,6 +3,8 @@ title = "KPW Godzina Zero 2017"
 template = "event_page.html"
 [extra]
 venue = "gdynia-sports-center"
+[extra.gallery]
+1 = { path = "2017-08-12-kpw-godzina-zero-2017-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The second Godzina Zero (_Zero Hour_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.
