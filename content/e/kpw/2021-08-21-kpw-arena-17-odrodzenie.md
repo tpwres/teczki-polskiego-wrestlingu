@@ -3,6 +3,8 @@ title = "KPW Arena 17: Odrodzenie"
 template = "event_page.html"
 [extra]
 venue = "gdynia-sports-center"
+[extra.gallery]
+1 = { path = "2021-08-21-kpw-arena-17-odrodzenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Odrodzenie (_Rebirth_) was KPW's first show after an extended, 18 month hiatus caused by the COVID-19 pandemic. The venue was again the Gdynia Sports Center,
