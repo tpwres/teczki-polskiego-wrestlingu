@@ -19,6 +19,15 @@ This is an upcoming show by [PTW](@/o/ptw.md) in collaboration with Ryucon, an a
 * More matches have been hinted at, including a multi-man match, a tag-team match, and a surprise appearance.
 * On Monday July 1st, PTW posted a match graphic revealing a tag team match. Except for Caravaggio, every competitor in that match comes from the Hungarian scene.
   Svedberg has previously made a single PTW appearance, competing in the Contract Battle Royal at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md) in a losing effort. Gulyas Öcsi meanwhile, makes his PTW debut shortly after appearing at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md), in a rare occurrence for the Polish scene, where foreign workers are mostly exclusive to particular organizations.
+* [Max Speed](@/w/max-speed.md) & Alex Brave continued their feud.
+  During the [lottery stream](@/o/ptw.md#the-prize-draw), Brave interrupted Speed, telling him to "Speed the fuck out" ("Speedalaj") and received a superkick for hist troubles.
+  He spent a few minutes laying motionless, while the lottery draft continued.
+  There was no further interaction between the two, but fans speculated it might be a build up for a future match.
+* On July 2nd, Speed uploaded a gym video on his Instagram.
+  In the video, Speed was busy training, while Brave came in and interrupted him with trash talk.
+  Speed gave him a trash talk of his own and another superkick, then laid out a challenge for a match at PTW x Ryucon 3.
+
+PTW later reposted the video on their Facebook, declaring that possible match is awaiting confirmation from Pan Pawłowski.
 
 Match card predicted from social media posts.
 
@@ -40,3 +49,4 @@ Match card predicted from social media posts.
 * [Facebook post announcing Diana vs Iva](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0Dn9v76pLKG3bMaA1F8pds2oMFNbxD5MQoP9zLg3fTPQNQu7mCpM5Ed5tw7Cxk1u1l)
 * [Facebook post announcing Gulyas Bros vs Svedberg & Caravaggio](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02ofPdwpvzFjqsHvesqrHvLoac8iQuCk5eu25SAoHEg6N7MAB6RCNKWmSCtJ7NVDC4l)
 * [Gulyas Bros on Cagematch](https://www.cagematch.net/?id=28&nr=9957)
+* [PTW's Facebook video of Alex interrupting Speed's training](https://www.facebook.com/PrimeTimeWrestlingPL/videos/442203918694225/)
