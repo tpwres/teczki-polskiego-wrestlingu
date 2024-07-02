@@ -3,6 +3,8 @@ title = "KPW Arena 7: Wysoka Stawka"
 template = "event_page.html"
 [extra]
 venue = "atlantic-nh-gdynia"
+[extra.gallery]
+1 = { path = "2017-06-10-kpw-arena-7-wysoka-stawka-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia. This event set up stories for the upcoming Godzina Zero show held two months later.
