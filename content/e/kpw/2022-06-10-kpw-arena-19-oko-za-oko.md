@@ -4,6 +4,8 @@ template = "event_page.html"
 aliases = ["/e/2022-06-10-kpw-arena-19-oko-za-oko"]
 [extra]
 venue = "atlantic-nh-gdynia"
+[extra.gallery]
+1 = { path = "2022-06-10-kpw-arena-19-oko-za-oko-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Oko za Oko (_Eye for an eye_) was KPW's second show of 2022 and the 19th Arena show overall, held in the [Nowy Harem](@/v/atlantic-nh-gdynia.md) music club. This event saw the return of [Fynn Freyhart](@/w/fynn-freyhart.md) and Darius.
