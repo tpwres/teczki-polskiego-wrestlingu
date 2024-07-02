@@ -3,6 +3,8 @@ title = "KPW Arena 9: Na Krawędzi"
 template = "event_page.html"
 [extra]
 venue = "b90"
+[extra.gallery]
+1 = { path = "2018-03-10-kpw-arena-9-na-krawedzi-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Na Krawędzi (_On The Edge_) was held as part of the second SzlamFest. In terms of KPW history, it was a regular Arena show, continuing the storylines from Arena 8. The main event was probably the most bloody hardcore match ever held by KPW.
