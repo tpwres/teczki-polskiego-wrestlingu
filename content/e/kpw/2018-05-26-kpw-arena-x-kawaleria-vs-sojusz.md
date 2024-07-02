@@ -3,6 +3,8 @@ title = "KPW Arena X: Kawaleria vs Sojusz"
 template = "event_page.html"
 [extra]
 venue = "gdynia-sports-center"
+[extra.gallery]
+1 = { path = "2018-05-26-kpw-arena-x-kawaleria-vs-sojusz-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 #### Build-up
