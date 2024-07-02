@@ -3,6 +3,8 @@ title = "KPW Arena 11: Podwójne Zagrożenie"
 template = "event_page.html"
 [extra]
 venue = "gdynia-sports-center"
+[extra.gallery]
+1 = { path = "2018-11-03-kpw-arena-11-podwojne-zagrozenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held in the Gdynia Sports Center. The entire event was a tournament to crown the inaugural KPW Tag Team Champions.
