@@ -5,9 +5,11 @@ aliases = ["/e/mzw/2023-09-23-ppw-mzw-zadnych-granic"]
 [extra]
 venue = "czasoprzestrzen"
 orgs = ["ppw", "mzw"]
+[extra.gallery]
+1 = { path = "2023-09-23-ppw-mzw-zadnych-granic-plakat.jpg", caption = "Official poster", source = "Official MZW Facebook" }
 +++
 
-Żadnych Granic (_No Borders_ or _No Limits_) was a cooperative event by [Maniac Zone Wrestling](@/o/mzw.md) and [PpW](@/o/ppw.md) that was held in Wrocław on September 23, 2023. While the event was organized by MZW, wrestlers from PpW were featured in half of all matches, and official promotional material emphasized PpW's involvement. The card also featured wrestlers from Unlimited Wrestling and Eastside Revolution Wrestling, both German promotions that frequently cooperate with MZW.
+Żadnych Granic (_No Borders_ or _No Limits_) was a cooperative event by [Maniac Zone Wrestling](@/o/mzw.md) and [PpW](@/o/ppw.md) that was held in Wrocław on September 23, 2023. While the event was organized by MZW, wrestlers from PpW were featured in half of all matches, and official promotional material emphasized PpW's involvement (billed as "special guests"). The card also featured wrestlers from Unlimited Wrestling and Eastside Revolution Wrestling, both German promotions that frequently cooperate with MZW.
 
 {% card() %}
 - ["[Gustav Gryffin](@/w/gustav-gryffin.md)", "Chris Cage"]
