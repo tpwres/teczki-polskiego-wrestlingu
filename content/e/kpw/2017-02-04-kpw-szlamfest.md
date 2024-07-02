@@ -3,6 +3,8 @@ title = "KPW Szlamfest"
 template = "event_page.html"
 [extra]
 venue = "b90"
+[extra.gallery]
+1 = { path = "2017-02-04-kpw-szlamfest-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 SzlamFest billed itself as a celebration of low culture: comics, retro games, B-class movies, meetings with authors, YouTubers and bloggers. And a wrestling show. Three editions were held between 2017 and 2019. The fourth edition in 2020 was cancelled due to the COVID-19 pandemic, and the festival never returned. KPW would hold events on all editions, but only the first one would be named after the event - the others were billed as regular Arena shows.
