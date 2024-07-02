@@ -3,7 +3,7 @@ from json import JSONEncoder
 from collections import Counter
 import re
 
-invalid_names_re = re.compile(r'^([?]+|Unknown\d*)$')
+invalid_names_re = re.compile(r'^([?]+|TBA|Unknown\d*)$')
 def accepted_name(name):
     """
     Return false if name is a placeholder, otherwise true.
