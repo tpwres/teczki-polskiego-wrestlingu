@@ -3,6 +3,8 @@ title = "KPW Arena V: Atlantic City"
 template = "event_page.html"
 [extra]
 venue = "atlantic-nh-gdynia"
+[extra.gallery]
+1 = { path = "2017-01-14-kpw-arena-v-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The fifth Arena show, this time numbered with Roman V instead of a 5, was the first event to be held in [Atlantic](@/v/atlantic-nh-gdynia.md), a music club and bar located in the very center of Gdynia.
