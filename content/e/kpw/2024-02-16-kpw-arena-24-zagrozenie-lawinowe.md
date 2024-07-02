@@ -4,6 +4,8 @@ template = "event_page.html"
 aliases = ["/e/2024-02-16-kpw-arena-24-zagrozenie-lawinowe"]
 [extra]
 venue = "atlantic-nh-gdynia"
+[extra.gallery]
+1 = { path = "2024-02-16-kpw-arena-24-zagrozenie-lawinowe-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Zagrożenie Lawinowe (_Avalanche Warning_) was an event by [KPW](@/o/kpw.md), held in [Klub Nowy Harem](@/v/atlantic-nh-gdynia.md) in Gdynia, on February 16, 2023.
