@@ -3,6 +3,8 @@ title = "MZW Pre-War"
 template = "event_page.html"
 [extra]
 venue = "gosir-glucholazy"
+[extra.gallery]
+1 = { path = "plakat.webp" }
 +++
 
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=153090)
