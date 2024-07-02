@@ -3,6 +3,8 @@ title = "KPW vs the World: Hung(a)ry for Kombat"
 template = "event_page.html"
 [extra]
 venue = "gimnazjum-8-gdansk"
+[extra.gallery]
+1 = { path = "2015-11-14-vs-the-world-hungary-for-kombat-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 KPW vs the World was the first event held by the newly created KPW, on November 14, 2015, in the gymnastics hall of Gimnazjum 8 in Gdańsk. This was the same venue that hosted [DDW](@/o/ddw.md)'s [final event](@/e/ddw/2015-05-02-ddw-house-show-2.md). The show's poster also advertised showcases of judo and capoeira to accompany wrestling.
