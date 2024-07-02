@@ -6,6 +6,8 @@ authors = ["Seweryn Pielucha"]
 [extra]
 hide_roster = true
 hide_events = true
+[extra.gallery]
+1 = { path = "paw-lokacje.webp", caption = "Poster for the summer course in August 2024, showing distances between Kępno and other major cities in the area.", source = "Facebook @PolskaAkademiaWrestlingu"}
 +++
 
 PAW, whose full name translates to _Polish Wrestling Academy_, is the wrestling school associated with [MZW](@/o/mzw.md).
