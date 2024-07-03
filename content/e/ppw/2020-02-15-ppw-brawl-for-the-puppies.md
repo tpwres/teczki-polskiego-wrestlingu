@@ -3,6 +3,9 @@ title = "PpW Bijatyka Dla Piesków"
 template = "event_page.html"
 [extra]
 venue = "2kola"
+city = "Warszawa"
+[extra.gallery]
+1 = { path = "2020-02-15-ppw-brawl-for-the-puppies-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 {% card() %}
