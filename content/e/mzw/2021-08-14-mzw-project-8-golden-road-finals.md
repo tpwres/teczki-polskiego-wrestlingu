@@ -1,6 +1,9 @@
 +++
 title = "MZW Project 8: Golden Road Finals"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
+venue = ["czasoprzestrzen"]
 [extra]
 venue = "czasoprzestrzen"
 +++

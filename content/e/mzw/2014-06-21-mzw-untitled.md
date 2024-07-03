@@ -1,6 +1,8 @@
 +++
 title = "MZW in Smolec"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "smolec"
 [extra.gallery]

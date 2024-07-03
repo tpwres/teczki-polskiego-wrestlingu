@@ -1,6 +1,8 @@
 +++
 title = "DDW House Show #1"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "gimnazjum-8-gdansk"
 +++

@@ -1,6 +1,8 @@
 +++
 title = "MZW Wakacyjny Slam"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "opawa"
 [extra.gallery]

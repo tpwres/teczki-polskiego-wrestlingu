@@ -1,6 +1,8 @@
 +++
 title = "MZW Pokaz Adeptów"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "smolec"
 [extra.gallery]

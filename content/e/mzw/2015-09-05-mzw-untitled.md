@@ -1,6 +1,8 @@
 +++
 title = "MZW"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "opawa"
 +++

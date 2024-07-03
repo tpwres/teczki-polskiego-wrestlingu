@@ -2,6 +2,9 @@
 title = "PTW#3: Legends"
 template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
+[taxonomies]
+org=["ptw"]
+venue=["hala-bemowo"]
 [extra]
 venue = "hala-bemowo"
 +++

@@ -2,6 +2,8 @@
 title = "PTW x RyuCon 3"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
+[taxonomies]
+org = ["ptw"]
 [extra]
 venue = "tauron"
 hide_results = true

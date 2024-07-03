@@ -1,6 +1,9 @@
 +++
 title = "PpW Ale Grzeje"
 template = "event_page.html"
+[taxonomies]
+org=["ppw"]
+venue=["teatr-komuna"]
 [extra]
 venue = "teatr-komuna"
 hide_results = true

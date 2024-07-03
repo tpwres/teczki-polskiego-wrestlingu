@@ -1,6 +1,8 @@
 +++
 title = "MZW @ Wyciskanie Sztangi"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "gosir-glucholazy"
 +++

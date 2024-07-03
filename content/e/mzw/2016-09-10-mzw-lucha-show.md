@@ -1,6 +1,8 @@
 +++
 title = "MZW Lucha Show"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra.gallery]
 1 = { path = "revage_polish_hammer_mzw2016.jpg", caption = "[Revage](@/w/rafael-kid.md) and [Patriota](@/w/jedrus-bulecka.md) backstage at the show", source = "Facebook profile of Revage/Rafał and Jędruś"}
 +++

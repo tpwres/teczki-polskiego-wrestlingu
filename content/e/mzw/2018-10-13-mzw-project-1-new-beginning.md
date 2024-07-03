@@ -1,6 +1,9 @@
 +++
 title = "MZW Project 1: New Beginning"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
+venue = ["bakara"]
 [extra]
 venue = "bakara"
 +++

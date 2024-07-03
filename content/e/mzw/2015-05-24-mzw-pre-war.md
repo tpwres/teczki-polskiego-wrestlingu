@@ -1,6 +1,8 @@
 +++
 title = "MZW Pre-War"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "gosir-glucholazy"
 [extra.gallery]

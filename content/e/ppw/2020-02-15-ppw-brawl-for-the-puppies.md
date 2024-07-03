@@ -1,6 +1,9 @@
 +++
 title = "PpW Bijatyka Dla Piesków"
 template = "event_page.html"
+[taxonomies]
+org=["ppw"]
+venue=["2kola"]
 [extra]
 venue = "2kola"
 city = "Warszawa"

@@ -1,6 +1,8 @@
 +++
 title = "MZW Big Rumble"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "gosir-glucholazy"
 +++

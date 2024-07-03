@@ -1,6 +1,8 @@
 +++
 title = "DDW @ Baltikon 2015"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "zs1-sopot"
 hide_results = true

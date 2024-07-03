@@ -1,6 +1,9 @@
 +++
 title = "MZW Project 7: Golden Road"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
+venue = ["bakara"]
 [extra]
 venue = "bakara"
 +++

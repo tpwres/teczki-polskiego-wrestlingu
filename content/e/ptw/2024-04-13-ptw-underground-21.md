@@ -2,6 +2,8 @@
 title = "PTW Underground 21"
 template = "event_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
+[taxonomies]
+org = ["ptw"]
 [extra]
 venue = "dworek-kozlow"
 +++

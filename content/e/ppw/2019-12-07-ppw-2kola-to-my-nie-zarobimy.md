@@ -2,6 +2,9 @@
 title = "PpW 2KOŁA to my nie zarobimy"
 template = "event_page.html"
 aliases = [ "/e/ppw/2019-12-07-ppw-untitled" ]
+[taxonomies]
+org=["ppw"]
+venue=["2kola"]
 [extra]
 venue = "2kola"
 city = "Warszawa"

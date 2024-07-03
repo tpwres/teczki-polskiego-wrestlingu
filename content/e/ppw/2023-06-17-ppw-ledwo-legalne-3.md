@@ -1,6 +1,9 @@
 +++
 title = "PpW Ledwo Legalne III"
 template = "event_page.html"
+[taxonomies]
+org=["ppw"]
+venue=["waldorffa25"]
 [extra]
 venue = "waldorffa25"
 city = "Warszawa"

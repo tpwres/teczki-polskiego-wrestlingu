@@ -1,6 +1,8 @@
 +++
 title = "DDW Pokaz Adeptów"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "pod-palma"
 +++
