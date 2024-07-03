@@ -1,10 +1,11 @@
-
 +++
 title = "PpW Ledwo Legalne II"
 template = "event_page.html"
 [extra]
 venue = "waldorffa25"
 city = "Warszawa"
+[extra.gallery]
+1 = { path = "2022-05-21-ppw-ledwo-legalne-ii-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 Ledwo Legalne II (_Barely Legal 2_) was [PPW](@/o/ppw.md)'s 6th major event, held on Saturday, May 21, 2022. The name follows from the first _Barely Legal_ event in 2021, itself both a reference to adult movies, and the fact that back in 2021 COVID-19 restrictions were lifted barely enough so that holding a wrestling event became legal again.
