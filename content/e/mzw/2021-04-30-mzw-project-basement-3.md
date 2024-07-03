@@ -1,6 +1,8 @@
 +++
 title = "MZW Project Basement #3"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "online"
 +++

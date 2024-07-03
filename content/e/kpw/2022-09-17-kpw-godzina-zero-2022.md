@@ -1,6 +1,9 @@
 +++
 title = "KPW Godzina Zero 2022"
 template = "event_page.html"
+[taxonomies]
+org=["kpw"]
+venue=["atlantic-nh-gdynia"]
 [extra]
 venue = "atlantic-nh-gdynia"
 [extra.gallery]

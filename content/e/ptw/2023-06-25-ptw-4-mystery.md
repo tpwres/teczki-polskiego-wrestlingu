@@ -2,6 +2,8 @@
 title = "PTW#4: The Mystery"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
+[taxonomies]
+venue = ["czasoprzestrzen"]
 [extra]
 venue = "czasoprzestrzen"
 +++

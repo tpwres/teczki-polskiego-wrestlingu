@@ -1,6 +1,8 @@
 +++
 title = "DDW Student Show"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "karuzela"
 +++

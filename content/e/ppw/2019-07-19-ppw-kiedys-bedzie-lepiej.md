@@ -1,6 +1,8 @@
 +++
 title = "PPW Kiedyś Będzie Lepiej"
 template = "event_page.html"
+[taxonomies]
+org=["ppw"]
 +++
 
 {% card() %}

@@ -1,6 +1,9 @@
 +++
 title = "KPW @ Gdynia Game Festival - Day 2"
 template = "event_page.html"
+[taxonomies]
+org=["kpw"]
+venue=["gdynia-sports-center"]
 [extra]
 venue = "gdynia-sports-center"
 +++

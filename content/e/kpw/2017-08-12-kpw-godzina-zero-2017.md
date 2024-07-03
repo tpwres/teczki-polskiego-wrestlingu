@@ -1,6 +1,9 @@
 +++
 title = "KPW Godzina Zero 2017"
 template = "event_page.html"
+[taxonomies]
+org=["kpw"]
+venue=["gdynia-sports-center"]
 [extra]
 venue = "gdynia-sports-center"
 [extra.gallery]

@@ -1,6 +1,9 @@
 +++
 title = "KPW Arena 16: Polowanie"
 template = "event_page.html"
+[taxonomies]
+org=["kpw"]
+venue=["gdynia-sports-center"]
 [extra]
 venue = "gdynia-sports-center"
 [extra.gallery]

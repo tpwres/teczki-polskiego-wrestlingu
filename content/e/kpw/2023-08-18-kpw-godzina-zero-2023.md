@@ -2,6 +2,9 @@
 title = "KPW Godzina Zero 2023"
 template = "event_page.html"
 aliases = ["/e/2023-08-18-kpw-godzina-zero-2023"]
+[taxonomies]
+org=["kpw"]
+venue=["atlantic-nh-gdynia"]
 [extra]
 venue = "atlantic-nh-gdynia"
 [extra.gallery]

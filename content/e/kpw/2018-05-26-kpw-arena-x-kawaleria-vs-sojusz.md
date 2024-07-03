@@ -1,6 +1,9 @@
 +++
 title = "KPW Arena X: Kawaleria vs Sojusz"
 template = "event_page.html"
+[taxonomies]
+org=["kpw"]
+venue=["gdynia-sports-center"]
 [extra]
 venue = "gdynia-sports-center"
 [extra.gallery]

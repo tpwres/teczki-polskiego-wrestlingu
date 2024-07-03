@@ -1,6 +1,9 @@
 +++
 title = "MZW Game ON"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
+venue = ["czasoprzestrzen"]
 [extra]
 venue = "czasoprzestrzen"
 [extra.gallery]

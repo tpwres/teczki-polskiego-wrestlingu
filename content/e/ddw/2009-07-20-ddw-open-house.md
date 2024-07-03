@@ -1,6 +1,8 @@
 +++
 title = "DDW Open House"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "karuzela"
 +++

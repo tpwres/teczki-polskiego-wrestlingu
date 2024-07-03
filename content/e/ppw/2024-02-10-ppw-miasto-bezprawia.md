@@ -1,6 +1,9 @@
 +++
 title = "PpW Miasto Bezprawia"
 template = "event_page.html"
+[taxonomies]
+venue=["teatr-komuna"]
+org=["ppw"]
 [extra]
 venue = "teatr-komuna"
 city = "Warszawa"

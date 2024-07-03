@@ -1,6 +1,8 @@
 +++
 title = "MZW Podziemny Krąg"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "legnica"
 +++

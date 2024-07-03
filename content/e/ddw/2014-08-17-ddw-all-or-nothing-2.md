@@ -1,6 +1,8 @@
 +++
 title = "DDW All Or Nothing II"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "pod-palma"
 city = "Rzeszów"

@@ -2,6 +2,9 @@
 title = "KPW Arena 24: Zagrożenie Lawinowe"
 template = "event_page.html"
 aliases = ["/e/2024-02-16-kpw-arena-24-zagrozenie-lawinowe"]
+[taxonomies]
+org=["kpw"]
+venue=["atlantic-nh-gdynia"]
 [extra]
 venue = "atlantic-nh-gdynia"
 [extra.gallery]

@@ -2,6 +2,9 @@
 title = "KPW Arena 18: Powrót do Przyszłości"
 template = "event_page.html"
 aliases = ["/e/2022-03-18-kpw-arena-18-powrot-do-przyszlosci"]
+[taxonomies]
+org=["kpw"]
+venue=["atlantic-nh-gdynia"]
 [extra]
 venue = "atlantic-nh-gdynia"
 [extra.gallery]

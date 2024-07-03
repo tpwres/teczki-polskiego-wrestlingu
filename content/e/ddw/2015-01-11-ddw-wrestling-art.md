@@ -1,6 +1,8 @@
 +++
 title = "DDW Wrestling Art"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "przywidz"
 +++

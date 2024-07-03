@@ -1,6 +1,9 @@
 +++
 title = "MZW Beatdown II"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
+venue = ["bakara"]
 [extra]
 venue = "bakara"
 [extra.gallery]

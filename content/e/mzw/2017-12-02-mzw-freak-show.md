@@ -1,6 +1,9 @@
 +++
 title = "MZW Freak Show"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
+venue = ["bakara"]
 [extra]
 venue = "bakara"
 [extra.gallery]

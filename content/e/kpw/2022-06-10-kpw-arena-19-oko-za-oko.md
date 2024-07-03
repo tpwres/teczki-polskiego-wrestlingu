@@ -2,6 +2,9 @@
 title = "KPW Arena 19: Oko za Oko"
 template = "event_page.html"
 aliases = ["/e/2022-06-10-kpw-arena-19-oko-za-oko"]
+[taxonomies]
+org=["kpw"]
+venue=["atlantic-nh-gdynia"]
 [extra]
 venue = "atlantic-nh-gdynia"
 [extra.gallery]

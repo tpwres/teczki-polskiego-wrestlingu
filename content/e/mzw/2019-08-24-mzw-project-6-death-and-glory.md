@@ -1,6 +1,9 @@
 +++
 title = "MZW Project 6: Death & Glory"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
+venue = ["czasoprzestrzen"]
 [extra]
 venue = "czasoprzestrzen"
 +++

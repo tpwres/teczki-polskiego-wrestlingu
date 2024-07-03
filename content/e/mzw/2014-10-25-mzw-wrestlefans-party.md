@@ -1,6 +1,8 @@
 +++
 title = "MZW Wrestlefans Party"
 template = "event_page.html"
+[taxonomies]
+org = ["mzw"]
 [extra]
 venue = "niedzwiedzica"
 +++

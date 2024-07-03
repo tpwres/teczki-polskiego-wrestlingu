@@ -1,6 +1,8 @@
 +++
 title = "DDW #5 Dzień Sądu"
 template = "event_page.html"
+[taxonomies]
+org = ["ddw"]
 [extra]
 venue = "gosir-katy-wroclawskie"
 +++
