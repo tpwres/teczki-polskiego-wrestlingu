@@ -2,6 +2,8 @@
 title = "DFW @ ZSGH Open Days"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
+[taxonomies]
+org=["dfw"]
 +++
 
 On Friday, April 22nd 20216 [DFW](@/o/dfw.md) held a showcase in ZSGH, a trade school in Toruń primarily teaching gastronomy, tourism and recreation. According to the Facebook event page, three members of the roster were ZSGH students or alumni. The event was held during the school's Open Days that year.

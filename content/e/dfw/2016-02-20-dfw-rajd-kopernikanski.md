@@ -1,6 +1,8 @@
 +++
 title = "DFW @ Rajd Kopernikański 2016"
 template = "event_page.html"
+[taxonomies]
+org=["dfw"]
 +++
 
 [DFW's](@/o/dfw.md) fourth show was held on Saturday, February 20 2016. According to the video description and Facebook post, the event accompanied the 33rd Copernican Rally, which is a gathering of scouting organizations of all ages, where they can also compete in sports, and cross-country trekking.

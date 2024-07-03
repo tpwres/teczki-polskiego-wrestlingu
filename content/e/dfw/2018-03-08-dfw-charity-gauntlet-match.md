@@ -1,6 +1,8 @@
 +++
 title = "DFW Charity Gauntlet Match"
 template = "event_page.html"
+[taxonomies]
+org=["dfw"]
 +++
 
 This was a single match, accompanying a charity event which collected donations towards leukemia treatment for a girl from Lipno, where the event took place. Wrestlers competed for the vacant DFW Championship belt.
