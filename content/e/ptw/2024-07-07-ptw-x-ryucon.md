@@ -7,6 +7,9 @@ venue = "tauron"
 hide_results = true
 [extra.gallery]
 1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros vs Svedberg and Carravaggio", source = "Facebook PTW"}
+2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing Alex Brave vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}
+3 = { path = "iva-vs-diana.webp", caption = "Match graphic announcing Iva Kolasky vs [Diana Strong](@/w/diana-strong.md)", source = "Facebook PTW"}
+4 = { path = "spartan-vs-conners.webp", caption = "Match graphic announcing [Spartan](@/w/spartan.md) vs Joseph Conners", source = "Facebook PTW"}
 +++
 
 This is an upcoming show by [PTW](@/o/ptw.md) in collaboration with Ryucon, an anime/manga themed fan convention held annually in Kraków. The event will be held in Tauron Arena on Sunday July 7th, 2024.
