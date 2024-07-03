@@ -6,6 +6,8 @@ aliases = [ "/e/ppw/2019-12-07-ppw-untitled" ]
 venue = "2kola"
 city = "Warszawa"
 hide_results = true
+[extra.gallery]
+1 = { path = "2019-12-07-ppw-2kola-to-my-nie-zarobimy-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 
