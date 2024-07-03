@@ -44,6 +44,9 @@ Match card predicted from social media posts.
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Iva Kolasky'
   - nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
+  - Alex Brave
+  - nc: upcoming
 {% end %}
 
 ### References
