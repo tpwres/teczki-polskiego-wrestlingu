@@ -4,6 +4,8 @@ template = "event_page.html"
 [extra]
 venue = "waldorffa25"
 city = "Warszawa"
+[extra.gallery]
+1 = { path = "2022-11-25-ppw-najlepsza-gala-w-miescie-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 The event name, which translates to "Best Gala In Town", is a reference to the fact that PTW also held their event [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in Warsaw, the very next day.
