@@ -10,9 +10,10 @@
 {{ page.content | safe }}
 
 {% if not page.extra.hide_events -%}
-  <h2>Events</h2>
-  {% include "orgs_events.html" -%}
+<h2>Events</h2>
+{% include "events_from_org_taxonomy.html" -%}
 {% endif -%}
+
 
 {% if not page.extra.hide_roster -%}
   {% include "all_time_roster.html" -%}
