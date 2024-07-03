@@ -4,6 +4,8 @@ template = "event_page.html"
 [extra]
 venue = "2kola"
 city = "Warszawa"
+[extra.gallery]
+1 = { path = "2021-06-12-ppw-ledwo-legalne-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 {% card() %}
