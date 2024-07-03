@@ -2,6 +2,8 @@
 title = "DFW Step Two"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
+[taxonomies]
+org=["dfw"]
 +++
 
 This was [DFW's](@/o/dfw.md) second event held in ZST. The first one was held back [in March](@/e/dfw/2016-03-10-dfw-zst.md). This time, it's not an auditorium, but a gymnastics hall that sees the action.
