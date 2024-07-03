@@ -3,6 +3,9 @@ title = "PpW Brak Mi Słów"
 template = "event_page.html"
 [extra]
 venue="waldorffa25"
+city = "Warszawa"
+[extra.gallery]
+1 = { path = "2022-09-10-ppw-brak-mi-slow-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 {% card() %}
