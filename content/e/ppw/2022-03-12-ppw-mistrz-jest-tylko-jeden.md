@@ -4,6 +4,8 @@ template = "event_page.html"
 [extra]
 venue = "2kola"
 city = "Warszawa"
+[extra.gallery]
+1 = { path = "2022-03-12-ppw-mistrz-jest-tylko-jeden-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 {% card() %}
