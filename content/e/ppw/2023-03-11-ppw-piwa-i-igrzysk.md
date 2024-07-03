@@ -3,6 +3,9 @@ title = "PpW Piwa I Igrzysk"
 template = "event_page.html"
 [extra]
 venue = "waldorffa25"
+city = "Warszawa"
+[extra.gallery]
+1 = { path = "2023-03-11-ppw-piwa-i-igrzysk-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 Piwa I Igrzysk ("Beer and Games") was an event that took place at [Waldorffa 25](@/v/waldorffa25.md) on March 11 2023.
