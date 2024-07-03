@@ -11,6 +11,11 @@ title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestli
 
 theme = "mensch"
 
+taxonomies = [
+  { name = "org", render = false },
+  { name = "venue", render = false },
+]
+
 [search]
 index_format = "elasticlunr_json"
 
