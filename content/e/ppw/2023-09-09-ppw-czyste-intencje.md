@@ -1,6 +1,11 @@
 +++
 title = "PpW Czyste Intencje"
 template = "event_page.html"
+[extra]
+venue = "waldorffa25"
+city = "Warszawa"
+[extra.gallery]
+1 = { path = "2023-09-09-ppw-czyste-intencje-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 {% card() %}
