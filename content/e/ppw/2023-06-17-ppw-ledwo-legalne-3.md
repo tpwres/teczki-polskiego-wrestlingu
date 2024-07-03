@@ -3,6 +3,9 @@ title = "PpW Ledwo Legalne III"
 template = "event_page.html"
 [extra]
 venue = "waldorffa25"
+city = "Warszawa"
+[extra.gallery]
+1 = { path = "2023-06-17-ppw-ledwo-legalne-3-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
 {% card() %}
