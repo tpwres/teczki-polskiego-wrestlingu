@@ -7,8 +7,7 @@ authors = ["Seweryn Pielucha"]
 "Zieloni" (_The Greens_), is a the name for a group of Polish wrestlers, who were originally connected to [MZW](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
 <!-- more -->
 
-However, not all MZW wrestlers are Greens.
-The group was started by wrestlers who joined in 2017/2018, and created a strongly bonded social group, connected by their wrestling endeavors.
+However, not all MZW wrestlers are Greens. The group was started by wrestlers who joined in 2017/2018, and created a strongly bonded social group, connected by their wrestling endeavors.
 Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also started their training in MZW, or [Shadow](@/w/shadow.md) who created the organization, are not considered to be Greens.
 
 ### Members
@@ -29,10 +28,6 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 
 ### Influence
 
-The Greens, aside from being a friends group, were also one of the factions in [Prime Time Wrestling's](@/o/ptw.md) locker room.
-The other factions were "Originals" (who started in PTW) and "Blues" (ex-[KPW](@/o/kpw.md)).
-Sometimes, internal tensions in the organization were caused by disagreement between these groups, and the management.
-Mainly caused by differences in their approach to quality and wrestling philosophy.
-For example: Justin Joy's harsh training regime.
+The Greens, aside from being a group of friends, were also one of the factions in [Prime Time Wrestling's](@/o/ptw.md) locker room. The other factions were "THe Originals" (who started in PTW) and "The Blues" (ex-[KPW](@/o/kpw.md)). Sometimes, internal tensions in the organization were caused by disagreement between these groups, and the management. This was mainly caused by differences in their approach to quality and wrestling philosophy, such as Justin Joy's harsh training regime.
 
 The group can be compared to the famous Kliq, active in WWE in the mid-1990s. The Greens were most active and influential in PTW since 2021, but also in [PpW](@/o/ppw.md) since 2023.
