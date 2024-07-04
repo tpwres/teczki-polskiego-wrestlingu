@@ -1,0 +1,80 @@
+{# Get orgs our event page belongs to #}
+{% set taxonomy_orgs = page.taxonomies | get(key='org', default=[]) %}
+{# Get the entire event org taxonomy, retain only lists of events that match our events orgs #}
+{% set oev = get_taxonomy(kind='org', required=False) | get(key='items')  %}
+{% set_global evpages = [] %}
+{% for item in oev %}
+  {% if taxonomy_orgs is containing(item.name) %}
+    {% set_global evpages = evpages|concat(with=[item.pages]) %}
+  {% endif %}
+{% endfor %}
+
+{% set_global tp_search = [] %}
+{% for taxonomy_pages in evpages %}
+  {% set_global higher_index = 1 %}
+  {% set_global lower_index = -1 %}
+  {# Find the index of current page in its relevant taxonomy. We actually care about indices one above and one below. #}
+  {% for tp in taxonomy_pages %}
+    {% if tp.slug == page.slug %}{% break %}{% endif %}
+    {% set_global higher_index = higher_index + 1 %}
+    {% set_global lower_index = lower_index + 1 %}
+  {% endfor %}
+  {# Because they are in the same order, this is how we grab the org name from our events orgs #}
+  {% set triplet = [taxonomy_orgs|nth(n=loop.index0)] %}
+  {# Add previous and next events from this org event list #}
+  {# higher_index corresponds to previous event - list is sorted chronologically descending #}
+  {% if higher_index < taxonomy_pages|length %}
+    {% set triplet = triplet|concat(with=taxonomy_pages|nth(n=higher_index)) %}
+  {% else %}
+    {% set triplet = triplet|concat(with=false) %}
+  {% endif %}
+  {# and lower_index corresponds to next event #}
+  {% if lower_index >= 0 %}
+    {% set triplet = triplet|concat(with=taxonomy_pages|nth(n=lower_index)) %}
+  {% else %}
+    {% set triplet = triplet|concat(with=false) %}
+  {% endif %}
+  {% set_global tp_search = tp_search | concat(with=[triplet]) %}
+{% endfor %}
+
+{# This is to get at the org page itself #}
+{% set chrono_orgs = get_taxonomy(kind="org_chrono", required=false) | get(key='items') %}
+{% for triplet in tp_search %}
+  {% set term = triplet[0] %}
+  {# Walk chrono_orgs, match on the current org, and extract the page object #}
+  {# NOTE: Cannot use nth or get here - taxonomy is special #}
+  {% set_global org_page_object = false %}
+  {% for chrono_term in chrono_orgs %}
+    {% if chrono_term.slug == term %}
+      {% for chrono_term_page in chrono_term.pages %}
+        {% set_global org_page_object = chrono_term_page %}
+        {% break %}
+      {% endfor %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {# At this point: term is our org slug, org_page_path and org_page title describe the relevant org page #}
+
+  <div class="org-header">
+    <span><a href="{{ get_url(path=org_page_object.path) }}">{{ org_page_object.title }}</a> event chronology</span>
+  </div>
+
+  <div class="links">
+    {% set higher_page = triplet[1] %}
+    {% set lower_page = triplet[2] %}
+    {% if higher_page %}
+      <span>
+        Preceding:
+        <a href="{{ get_url(path=higher_page.path) }}">{{ higher_page.title }}</a>
+      </span>
+    {% endif %}
+    {% if lower_page %}
+      <span>
+        Following:
+        <a href="{{ get_url(path=lower_page.path) }}">{{ lower_page.title }}</a>
+      </span>
+    {% endif %}
+  </div>
+{% endfor %}
+
+
