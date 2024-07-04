@@ -3,6 +3,8 @@ title = "Kombat Pro Wrestling"
 weight = 1
 authors = ["Krzysztof Zych"]
 template = "org_page.html"
+[taxonomies]
+org_chrono=["kpw"]
 +++
 
 ### History
