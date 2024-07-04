@@ -3,6 +3,8 @@ title = "PpW Ewenement"
 weight = 3
 template = "org_page.html"
 authors = ["Krzysztof Zych"]
+[taxonomies]
+org_chrono = ["ppw"]
 [extra]
 year_list_start = 2017
 [extra.gallery]

@@ -3,6 +3,8 @@ title = "Prime Time Wrestling"
 weight = 4
 template = "org_page.html"
 authors = ["Szymon Iwulski", "Seweryn Pielucha"]
+[taxonomies]
+org_chrono = ["ptw"]
 [extra.gallery]
 1 = { path = "rzezniczek-departs.png", caption = "Marcin Rzeźniczek announcing his departure from PTW" }
 2 = { path = "ptw6_leak.png", caption = "Wrestlefans' Sabinq realising he leaked a match. Further down, Taras admits to being on a break from the ring.", source = "Twitter/X"}
