@@ -10,14 +10,15 @@ city = "Warszawa"
 
 
 {% card() %}
-- ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Bill Feager](@/w/feager.md)", {nc: "?"}]
-- ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Royal Striker](@/w/royal-striker.md)",
-  {nc: "?"}]
-- ["[Mister Z](@/w/mister-z.md)", "[Jacob Crane](@/w/jacob-crane.md)", {nc: "?"}]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Isnorr](@/w/isnorr.md)", {c: "PpW Championship",
+- ["[Jacob Crane](@/w/jacob-crane.md)", "[Mister Z](@/w/mister-z.md)"]
+- ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Prince Striker](@/w/royal-striker.md)"]
+- ["[Johnny Blade](@/w/johnny-blade.md)", "[Rob Scaffold](@/w/rob-scaffold.md)"]
+- ["[Bill Feager](@/w/feager.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
+- ["[Biesiad Strong](@/w/biesiad.md)", "[Isnorr](@/w/isnorr.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "PpW Championship",
     s: "Hardcore Match"}]
 {% end %}
 
 ### References
 
 * [Facebook event](https://www.facebook.com/events/671650544511110/)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=388621)
