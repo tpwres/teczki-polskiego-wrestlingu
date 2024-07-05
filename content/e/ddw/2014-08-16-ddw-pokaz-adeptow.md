@@ -3,8 +3,8 @@ title = "DDW Pokaz Adeptów"
 template = "event_page.html"
 [taxonomies]
 org = ["ddw"]
+venue = ["pod-palma"]
 [extra]
-venue = "pod-palma"
 +++
 
 This event was a showcase of DDW's newest trainees, and accompanied the bigger [All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md) which was held the next day.

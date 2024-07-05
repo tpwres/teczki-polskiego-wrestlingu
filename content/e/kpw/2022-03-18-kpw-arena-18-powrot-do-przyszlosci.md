@@ -5,8 +5,6 @@ aliases = ["/e/2022-03-18-kpw-arena-18-powrot-do-przyszlosci"]
 [taxonomies]
 org=["kpw"]
 venue=["atlantic-nh-gdynia"]
-[extra]
-venue = "atlantic-nh-gdynia"
 [extra.gallery]
 1 = { path = "2022-03-18-kpw-arena-18-powrot-do-przyszlosci-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

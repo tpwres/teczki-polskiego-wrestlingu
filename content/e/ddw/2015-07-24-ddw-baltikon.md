@@ -3,8 +3,8 @@ title = "DDW @ Baltikon 2015"
 template = "event_page.html"
 [taxonomies]
 org = ["ddw"]
+venue = ["zs1-sopot"]
 [extra]
-venue = "zs1-sopot"
 hide_results = true
 [extra.gallery]
 1 = { path = "baltikon-pawlowski.jpg", caption = "[Pan Pawłowski](@/w/pan-pawlowski.md) with his signature entrance", source = "Facebook Baltikon / Tarakum Photo" }

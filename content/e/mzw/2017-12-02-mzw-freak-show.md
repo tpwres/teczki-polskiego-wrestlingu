@@ -4,8 +4,6 @@ template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
 venue = ["bakara"]
-[extra]
-venue = "bakara"
 [extra.gallery]
 plakat = { path = "plakat.webp", description = "Poster for the show", source = "MZW's Facebook page"}
 +++

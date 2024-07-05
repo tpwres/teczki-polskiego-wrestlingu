@@ -3,8 +3,7 @@ title = "MZW"
 template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
-[extra]
-venue = "opawa"
+venue = ["opawa"]
 +++
 
 This event was a sideshow accompanying III Bieg WOPisty (a cross-country half-marathon event), held in Opawa, a small village near Lubawka, close to the Polish-Czech border.

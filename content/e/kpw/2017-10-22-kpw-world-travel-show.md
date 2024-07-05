@@ -1,8 +1,9 @@
 +++
 title = "KPW @ World Travel Show"
 template = "event_page.html"
-[extra]
-venue = "ptak-expo-nadarzyn"
+[taxonomies]
+venue = ["ptak-expo-nadarzyn"]
+org = ["kpw"]
 +++
 
 World Travel Show is an annual, mostly commercial fair hosting everything related to travel.

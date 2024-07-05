@@ -1,8 +1,9 @@
 +++
 title = "KPW Arena 9: Na Krawędzi"
 template = "event_page.html"
-[extra]
-venue = "b90"
+[taxonomies]
+org = ["kpw"]
+venue = ["b90"]
 [extra.gallery]
 1 = { path = "2018-03-10-kpw-arena-9-na-krawedzi-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

@@ -3,8 +3,8 @@ title = "MZW @ Fenix Boxing Night"
 template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
+venue = ["fenix-gniezno"]
 [extra]
-venue = "fenix-gniezno"
 hide_results = true
 +++
 

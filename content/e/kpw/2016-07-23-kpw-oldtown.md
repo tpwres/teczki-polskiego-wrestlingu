@@ -1,8 +1,9 @@
 +++
 title = "KPW OldTown"
 template = "event_page.html"
-[extra]
-venue = "airport-kluczewo"
+[taxonomies]
+org = ["kpw"]
+venue = ["airport-kluczewo"]
 +++
 
 [OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the event and community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023.

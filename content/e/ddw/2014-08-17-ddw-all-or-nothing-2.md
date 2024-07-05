@@ -3,8 +3,8 @@ title = "DDW All Or Nothing II"
 template = "event_page.html"
 [taxonomies]
 org = ["ddw"]
+venue = ["pod-palma"]
 [extra]
-venue = "pod-palma"
 city = "Rzeszów"
 [extra.gallery]
 1 = { path = "2014-08-17-ddw-all-or-nothing-2-banner.jpg", caption = "Official banner", source = "[Official DDW Facebook]" }

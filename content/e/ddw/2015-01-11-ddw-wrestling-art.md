@@ -3,8 +3,8 @@ title = "DDW Wrestling Art"
 template = "event_page.html"
 [taxonomies]
 org = ["ddw"]
+venue = ["przywidz"]
 [extra]
-venue = "przywidz"
 +++
 
 Held on the exact same day as [MZW's event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), and with donations also going towards WOŚP, this was DDW's first charity show.

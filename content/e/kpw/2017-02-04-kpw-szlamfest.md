@@ -1,8 +1,9 @@
 +++
 title = "KPW Szlamfest"
 template = "event_page.html"
-[extra]
-venue = "b90"
+[taxonomies]
+org = ["kpw"]
+venue = ["b90"]
 [extra.gallery]
 1 = { path = "2017-02-04-kpw-szlamfest-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

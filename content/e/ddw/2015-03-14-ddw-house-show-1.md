@@ -3,8 +3,8 @@ title = "DDW House Show #1"
 template = "event_page.html"
 [taxonomies]
 org = ["ddw"]
+venue = ["gimnazjum-8-gdansk"]
 [extra]
-venue = "gimnazjum-8-gdansk"
 +++
 
 {% card() %}

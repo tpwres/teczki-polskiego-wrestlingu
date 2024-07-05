@@ -5,8 +5,6 @@ aliases = ["/e/2022-06-10-kpw-arena-19-oko-za-oko"]
 [taxonomies]
 org=["kpw"]
 venue=["atlantic-nh-gdynia"]
-[extra]
-venue = "atlantic-nh-gdynia"
 [extra.gallery]
 1 = { path = "2022-06-10-kpw-arena-19-oko-za-oko-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

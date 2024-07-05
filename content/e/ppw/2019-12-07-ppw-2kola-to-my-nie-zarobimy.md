@@ -6,7 +6,6 @@ aliases = [ "/e/ppw/2019-12-07-ppw-untitled" ]
 org=["ppw"]
 venue=["2kola"]
 [extra]
-venue = "2kola"
 city = "Warszawa"
 hide_results = true
 [extra.gallery]

@@ -5,8 +5,6 @@ aliases = ["/e/2023-08-18-kpw-godzina-zero-2023"]
 [taxonomies]
 org=["kpw"]
 venue=["atlantic-nh-gdynia"]
-[extra]
-venue = "atlantic-nh-gdynia"
 [extra.gallery]
 1 = { path = "2023-08-18-kpw-godzina-zero-2023-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

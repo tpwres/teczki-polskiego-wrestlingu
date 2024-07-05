@@ -4,8 +4,6 @@ template = "event_page.html"
 [taxonomies]
 org=["kpw"]
 venue=["gdynia-sports-center"]
-[extra]
-venue = "gdynia-sports-center"
 [extra.gallery]
 1 = { path = "2021-08-21-kpw-arena-17-odrodzenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

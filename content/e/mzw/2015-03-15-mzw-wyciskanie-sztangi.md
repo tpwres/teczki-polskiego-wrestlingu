@@ -3,8 +3,7 @@ title = "MZW @ Wyciskanie Sztangi"
 template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
-[extra]
-venue = "gosir-glucholazy"
+venue = ["gosir-glucholazy"]
 +++
 
 This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell_), a weight-lifting bench press competition held in [Głuchołazy](@/v/gosir-glucholazy.md).

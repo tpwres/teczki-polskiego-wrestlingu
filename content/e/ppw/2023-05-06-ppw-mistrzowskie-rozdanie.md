@@ -5,7 +5,6 @@ template = "event_page.html"
 org=["ppw"]
 venue=["waldorffa25"]
 [extra]
-venue = "waldorffa25"
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "2023-05-06-ppw-mistrzowskie-rozdanie-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
