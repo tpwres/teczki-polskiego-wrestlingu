@@ -3,8 +3,7 @@ title = "MZW in Smolec"
 template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
-[extra]
-venue = "smolec"
+venue = ["smolec"]
 [extra.gallery]
 1 = { path = "plakat.webp" }
 +++

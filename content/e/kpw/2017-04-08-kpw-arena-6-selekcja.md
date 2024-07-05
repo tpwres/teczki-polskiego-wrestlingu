@@ -4,8 +4,6 @@ template = "event_page.html"
 [taxonomies]
 org=["kpw"]
 venue=["atlantic-nh-gdynia"]
-[extra]
-venue = "atlantic-nh-gdynia"
 [extra.gallery]
 1 = { path = "2017-04-08-kpw-arena-6-selekcja-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

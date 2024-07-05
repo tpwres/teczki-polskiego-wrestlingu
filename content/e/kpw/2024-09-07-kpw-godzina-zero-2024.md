@@ -1,8 +1,10 @@
 +++
 title = "KPW Godzina Zero 2024"
 template = "event_page.html"
+[taxonomies]
+org = ["kpw"]
+venue = ["okrzei-6-gdynia"]
 [extra]
-venue = "okrzei-6-gdynia"
 hide_results = true
 +++
 

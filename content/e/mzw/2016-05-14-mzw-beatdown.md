@@ -3,8 +3,7 @@ title = "MZW Beatdown"
 template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
-[extra]
-venue = "gosir-glucholazy"
+venue = ["gosir-glucholazy"]
 [extra.gallery]
 1 = { path = "plakat.webp" }
 +++

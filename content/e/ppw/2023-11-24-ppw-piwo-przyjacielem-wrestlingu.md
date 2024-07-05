@@ -3,8 +3,8 @@ title = "PpW Piwo Przyjacielem Wrestlingu"
 template = "event_page.html"
 [taxonomies]
 org=["ppw"]
+venue = ["targi-poznan"]
 [extra]
-venue = "targi-poznan"
 hide_results = true
 city = "Poznań"
 [extra.gallery]

@@ -6,7 +6,6 @@ aliases = ["/e/mzw/2023-09-23-ppw-mzw-zadnych-granic"]
 org=["mzw","ppw"]
 venue = ["czasoprzestrzen"]
 [extra]
-venue = "czasoprzestrzen"
 orgs = ["ppw", "mzw"]
 [extra.gallery]
 1 = { path = "2023-09-23-ppw-mzw-zadnych-granic-plakat.jpg", caption = "Official poster", source = "Official MZW Facebook" }

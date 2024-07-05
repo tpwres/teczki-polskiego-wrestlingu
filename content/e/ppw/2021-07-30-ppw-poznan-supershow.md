@@ -3,8 +3,8 @@ title = "PpW Poznań Supershow 2021"
 template = "event_page.html"
 [taxonomies]
 org=["ppw"]
+venue = ["targi-poznan"]
 [extra]
-venue = "targi-poznan"
 hide_results = true
 +++
 

@@ -5,7 +5,6 @@ template = "event_page.html"
 org=["ppw"]
 venue=["waldorffa25"]
 [extra]
-venue = "waldorffa25"
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "2022-11-25-ppw-najlepsza-gala-w-miescie-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }

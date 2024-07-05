@@ -5,8 +5,6 @@ aliases = ["/e/2024-02-16-kpw-arena-24-zagrozenie-lawinowe"]
 [taxonomies]
 org=["kpw"]
 venue=["atlantic-nh-gdynia"]
-[extra]
-venue = "atlantic-nh-gdynia"
 [extra.gallery]
 1 = { path = "2024-02-16-kpw-arena-24-zagrozenie-lawinowe-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

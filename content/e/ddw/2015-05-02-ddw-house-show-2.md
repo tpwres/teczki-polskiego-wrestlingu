@@ -3,8 +3,8 @@ title = "DDW House Show #2"
 template = "event_page.html"
 [taxonomies]
 org = ["ddw"]
+venue = ["gimnazjum-8-gdansk"]
 [extra]
-venue = "gimnazjum-8-gdansk"
 +++
 
 This was one of the final shows to be held under the [DDW](@/o/ddw.md) banner. After moving the organization from Rzeszów to Gdańsk, the local wrestlers (which at that time were the majority)

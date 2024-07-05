@@ -1,8 +1,9 @@
 +++
 title = "KPW vs the World: Hung(a)ry for Kombat"
 template = "event_page.html"
+[taxonomies]
+venue = ["gimnazjum-8-gdansk"]
 [extra]
-venue = "gimnazjum-8-gdansk"
 [extra.gallery]
 1 = { path = "2015-11-14-vs-the-world-hungary-for-kombat-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

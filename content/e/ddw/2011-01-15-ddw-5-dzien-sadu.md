@@ -3,8 +3,8 @@ title = "DDW #5 Dzień Sądu"
 template = "event_page.html"
 [taxonomies]
 org = ["ddw"]
+venue = ["gosir-katy-wroclawskie"]
 [extra]
-venue = "gosir-katy-wroclawskie"
 +++
 
 {% card() %}

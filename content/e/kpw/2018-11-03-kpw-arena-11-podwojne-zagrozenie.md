@@ -4,8 +4,6 @@ template = "event_page.html"
 [taxonomies]
 org=["kpw"]
 venue=["gdynia-sports-center"]
-[extra]
-venue = "gdynia-sports-center"
 [extra.gallery]
 1 = { path = "2018-11-03-kpw-arena-11-podwojne-zagrozenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

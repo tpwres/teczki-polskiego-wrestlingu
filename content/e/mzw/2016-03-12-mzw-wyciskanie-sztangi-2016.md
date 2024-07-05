@@ -3,8 +3,7 @@ title = "MZW @ Wyciskanie Sztangi 2016"
 template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
-[extra]
-venue = "gosir-glucholazy"
+venue = ["gosir-glucholazy"]
 +++
 
 {% card() %}

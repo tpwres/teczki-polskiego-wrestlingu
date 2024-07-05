@@ -5,8 +5,6 @@ authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
 org=["ppw"]
 venue=["praga-centrum"]
-[extra]
-venue = "praga-centrum"
 [extra.gallery]
 
 1 = { path = "plakat_ll4.jpg", caption = "Show poster, released on Apr 28, 2024 on Facebook.", source = "PPW's Facebook page"}

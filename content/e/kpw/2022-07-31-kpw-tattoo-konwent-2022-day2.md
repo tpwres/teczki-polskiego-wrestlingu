@@ -1,8 +1,9 @@
 +++
 title = "KPW @ Gdańsk Tattoo Konwent 2"
 template = "event_page.html"
-[extra]
-venue = "amber-expo"
+[taxonomies]
+venue = ["amber-expo"]
+org = ["kpw"]
 +++
 
 Tattoo Konwent is an event focused on the art of tattoo. Since 2014, it's been held several times a year in major cities in Poland, e.g. Gdańsk, Łódź, Poznań, Wrocław, but notably not in Warsaw which has its own, similarly named event. It's often accompanied by concerts, art exhibitions and workshops.

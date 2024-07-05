@@ -5,7 +5,6 @@ template = "event_page.html"
 org=["ppw"]
 venue=["2kola"]
 [extra]
-venue = "2kola"
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "2021-09-11-ppw-inside-job-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }

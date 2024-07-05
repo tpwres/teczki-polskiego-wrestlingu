@@ -1,8 +1,9 @@
 +++
 title = "KPW OldTown 3: Turniej"
 template = "event_page.html"
-[extra]
-venue = "airport-kluczewo"
+[taxonomies]
+org = ["kpw"]
+venue = ["airport-kluczewo"]
 [extra.gallery]
 1 = { path = "2018-07-14-kpw-oldtown-3-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

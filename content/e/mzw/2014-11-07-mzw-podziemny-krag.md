@@ -3,8 +3,7 @@ title = "MZW Podziemny Krąg"
 template = "event_page.html"
 [taxonomies]
 org = ["mzw"]
-[extra]
-venue = "legnica"
+venue = ["legnica"]
 +++
 
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=362830) 
