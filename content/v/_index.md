@@ -28,3 +28,7 @@ template = "index.html"
 * [Bakara](@/v/bakara.md) {{ org_badge(org='mzw') }}
 * [Czasoprzestrzeń](@/v/czasoprzestrzen.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
 * [GOSIR Głuchołazy](@/v/gosir-glucholazy.md) {{ org_badge(org='mzw') }}
+
+### Others
+
+* [Poznań International Fair](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
