@@ -4,7 +4,7 @@ template = "event_page.html"
 [extra]
 venue = "czasoprzestrzen"
 [extra.gallery]
-1 = { path = "2023-03-11-mzw-game-on-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2023-03-11-mzw-game-on-plakat.jpg", caption = "Official poster", source = "Official MZW Facebook" }
 +++
 
 {% card() %}
