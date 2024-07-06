@@ -43,3 +43,14 @@
       {% endif %}
     {% endfor %}
 </ul>
+
+{% set last_row = data | last %}
+{% if last_row is object and 'credits' in last_row %}
+  {% set credits = last_row | get(key='credits') %}
+  <h4>Cast and crew</h4>
+  <ul class="event-cast-members">
+  {% for role, people in credits %}
+    <li>{{ role }}: {{ people | markdown(inline=true) | safe }}</li>
+  {% endfor %}
+  </ul>
+{% endif %}
