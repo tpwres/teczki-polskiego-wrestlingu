@@ -2,7 +2,7 @@
 title = "KPW Arena 14: Następny Poziom"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "arena"]
 venue = ["b90"]
 [extra.gallery]
 1 = { path = "2019-06-15-kpw-arena-14-nastepny-poziom-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
