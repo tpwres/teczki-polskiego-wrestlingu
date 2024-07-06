@@ -9,6 +9,15 @@ venue=["praga-centrum"]
 
 1 = { path = "plakat_ll4.jpg", caption = "Show poster, released on Apr 28, 2024 on Facebook.", source = "PPW's Facebook page"}
 2 = { path = "robert_star_is_ewenement.jpg", caption = "Graphics announcing Robert Star, released on May 11, 2024 on Facebook.", source="PPW's Facebook page"}
+3 = { path = "legia-entrance.jpg", caption = "Legia Łysych's surprise appearance. Titantron display shows scene from [PTW Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md).", source = "Krzysztof Zych" }
+4 = { path = "robert-star-mic.jpg", caption = "[Robert Star](@/w/robert-star.md) with his UEWA belt.", source = "Krzysztof Zych" }
+5 = { path = "mef-the-death.jpg", caption = "Sigmarson's opponent Mef the Death.", source = "Krzysztof Zych" }
+6 = { path = "biesiad-ladder.jpg", caption = "[Biesiad Strong](@/w/biesiad.md) with a ladder.", source = "Krzysztof Zych"}
+7 = { path = "gustav-goblin.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) putting a barbed wire crown on [Goblin](@/w/goblin.md).", source = "Krzysztof Zych"}
+8 = { path = "biesiad-619-gustav.jpg", caption = "[Biesiad](@/w/biesiad.md) landing a 619 on [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Krzysztof Zych"}
+9 = { path = "kornel-ppw-uv.jpg", caption = "Referee Kornel holding the PPW European Ultraviolent Championship upside-down.", source = "Krzysztof Zych"}
+10 = { path = "johnny-blade.jpg", caption = "[Johnny Blade](@/w/johnny-blade.md), with [Dobroniak](@/w/stanislaw-van-dobroniak.md) behind.", source = "Krzysztof Zych" }
+11 = { path = "alex-arthur.jpg", caption = "[Alex Arthur](@/w/alex-arthur.md) inserting himself into the main event.", source = "Krzysztof Zych"}
 +++
 
 Ledwo Legalne IV (_Barely Legal_) was an event by [PPW Ewenement](@/o/ppw.md), that took place on Saturday, June 8th 2024. The stage was Praga Centrum, a music and event venue in Warsaw's east-side Praga district. This is the same venue that hosted [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
