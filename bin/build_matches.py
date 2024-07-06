@@ -20,6 +20,7 @@ class MatchEncoder(json.JSONEncoder):
 
 def main():
     appearances = {}
+    crew_appearances = {}
     all_bouts = []
     cwd = Path.cwd()
     # 1. List all event pages
@@ -30,16 +31,18 @@ def main():
     i = 0
     for path in event_pages:
         page = Page(path)
-        if not page.card.matches: continue
+        card = page.card
+        if not card.matches: continue
+        relative_path = path.relative_to(content_dir).as_posix()
 
-        for bout in page.card.matches:
+        for bout in card.matches:
             all_bouts.append(
                 dict(
                     d=page.event_date,
                     o=page.orgs,
                     n=page.event_name,
                     m=bout,
-                    p=path.relative_to(content_dir).as_posix()
+                    p=relative_path
                 )
             )
             for person in bout.all_names():
@@ -48,12 +51,31 @@ def main():
                 bouts.append(i)
             i += 1
 
+        if not card.crew: continue
+
+        for person in card.crew.members:
+            if not accepted_name(person.name): continue
+            events = crew_appearances.setdefault(person.name, [])
+            events.append(
+                dict(
+                    d=page.event_date,
+                    o=page.orgs,
+                    n=page.event_name,
+                    p=relative_path,
+                    r=person.role
+                )
+            )
+
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)
 
     with (data_dir / 'appearances.json').open('w') as f:
         print("Saving appearance map to %s" % f.name)
         json.dump(appearances, f)
+
+    with (data_dir / 'crew_appearances.json').open('w') as f:
+        print("Saving crew appearance map to %s" % f.name)
+        json.dump(crew_appearances, f, cls=MatchEncoder)
 
     with (data_dir / 'all_matches.json').open('w') as f:
         print("Saving all matches to %s" % f.name)

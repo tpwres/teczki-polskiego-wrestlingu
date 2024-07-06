@@ -1,6 +1,6 @@
 import yaml
 import io
-from typing import Union, Iterable, Optional, Tuple
+from typing import Union, Iterable, Optional, Tuple, cast
 import re
 from itertools import chain
 from dataclasses import dataclass
@@ -64,6 +64,8 @@ class NamedTeam(Team):
         return "{}(n={} m={!r})".format(self.__class__.__name__, self.team_name, self.members)
 
 class AdHocTeam(Team):
+    members: list
+
     def __init__(self, members):
         self.members = members
 
@@ -76,6 +78,52 @@ class Fighter(NamedParticipant):
 class Manager(NamedParticipant):
     pass
 
+class CrewMember(NamedParticipant):
+    def __init__(self, name_or_link: str, role: str):
+        super().__init__(name_or_link)
+        self.role = role
+
+    def __repr__(self) -> str:
+        repr = super().__repr__()
+        return "{}:{}".format(repr, self.role)
+
+
+def parse_maybe_team(text) -> Union[Participant, Team]:
+    match Match.tag_team_re.match(text):
+        case re.Match() as m:
+            team_name = m.group('team')
+            people = m.group('people')
+        case _:
+            team_name = None
+            people = text
+
+    group = parse_group(people)
+    match (group, team_name):
+        case ([single_member], _):
+            return single_member
+        case ([*members], None):
+            return AdHocTeam(members)
+        case ([*members], name):
+            return NamedTeam(name, members)
+
+def parse_group(text) -> list[Participant]:
+    # Split with capture keeps delimiters in the result list
+    tokenized = re.split(r'\s*([,;])\s*', text)
+    first_name = tokenized.pop(0)
+    combatants: list[Participant] = [Fighter(first_name)]
+
+    while len(tokenized) > 0:
+        match tokenized:
+            case [',', name, *rest]:
+                combatants.append(Fighter(name.strip()))
+                tokenized = rest
+            case [';', name, *rest]:
+                combatants.append(Manager(name.strip()))
+                tokenized = rest
+            case _:
+                raise ValueError("{!r}".format(tokenized))
+
+    return combatants
 
 class Match:
     tag_team_re = re.compile(r'''
@@ -85,14 +133,16 @@ class Match:
          \s* # Eat trailing space
         ''', re.VERBOSE)
 
-    def __init__(self, match_row: list[str], index: int):
+    def __init__(self, match_row: list[str|dict], index: int):
         self.line = match_row # Store original row
         self.index = index
         match match_row:
             case [*participants, dict() as options]:
+                participants = cast(list[str], participants)
                 self.opponents = list(self.parse_opponents(participants))
                 self.options = options
             case [*participants]:
+                participants = cast(list[str], participants)
                 self.opponents = list(self.parse_opponents(participants))
                 self.options = {}
             case dict() as options:
@@ -113,44 +163,15 @@ class Match:
         return [self.parse_partners(side.split("+")) for side in opponents]
 
     def parse_partners(self, partners: list[str]) -> Iterable[Participant]:
-        return [self.parse_maybe_team(p) for p in partners]
+        return [parse_maybe_team(p) for p in partners]
 
-    def parse_maybe_team(self, text) -> Union[Participant, Team]:
-        match Match.tag_team_re.match(text):
-            case re.Match() as m:
-                team_name = m.group('team')
-                people = m.group('people')
-            case _:
-                team_name = None
-                people = text
-
-        group = self.parse_group(people)
-        match (group, team_name):
-            case ([single_member], _):
-                return single_member
-            case ([*members], None):
-                return AdHocTeam(members)
-            case ([*members], name):
-                return NamedTeam(name, members)
-
-    def parse_group(self, text) -> list[Participant]:
-        # Split with capture keeps delimiters in the result list
-        tokenized = re.split(r'\s*([,;])\s*', text)
-        first_name = tokenized.pop(0)
-        combatants: list[Participant] = [Fighter(first_name)]
-
-        while len(tokenized) > 0:
-            match tokenized:
-                case [',', name, *rest]:
-                    combatants.append(Fighter(name.strip()))
-                    tokenized = rest
-                case [';', name, *rest]:
-                    combatants.append(Manager(name.strip()))
-                    tokenized = rest
-                case _:
-                    raise ValueError("{!r}".format(tokenized))
-
-        return combatants
+class Crew:
+    def __init__(self, credits: dict, index: int):
+        self.credits = credits
+        self.index = index
+        self.members = []
+        for role, names in credits.items():
+            self.members.extend(CrewMember(p.name, role) for p in parse_group(names) if isinstance(p, NamedParticipant))
 
 class Card:
     def __init__(self, text_or_io: Union[str, io.TextIOBase]):
@@ -165,9 +186,14 @@ class Card:
             card_start, card_end, card_text = parse_result
             self.start_offset = card_start
             self.end_offset = card_end
-            self.matches = self.parse_card(card_text)
+            content = list(self.parse_card(card_text))
+            if isinstance(content[-1], Crew):
+                self.crew = cast(Crew, content.pop())
+            else:
+                self.crew = None
+            self.matches = cast(list[Match], content)
         else:
-            self.matches = None
+            self.matches = self.crew = None
 
     DelimitedCard = Tuple[int, int, str]
 
@@ -183,7 +209,12 @@ class Card:
 
         return (card_start + start_length, card_end, body)
 
-    def parse_card(self, card_text: str) -> Iterable[Match]:
-        match_rows = yaml.safe_load(io.StringIO(card_text))
-        return [Match(row, i) for i, row in enumerate(match_rows)]
+    def parse_card(self, card_text: str) -> Iterable[Match|Crew]:
+        card_rows = yaml.safe_load(io.StringIO(card_text))
+        for i, row in enumerate(card_rows):
+            match row:
+                case {"credits": dict() as credits}:
+                    yield Crew(credits, i)
+                case [*_]:
+                    yield Match(cast(list[str|dict], row), i)
 
