@@ -12,9 +12,9 @@ title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestli
 theme = "mensch"
 
 taxonomies = [
-  { name = "org", render = false },
+  { name = "chronology", render = false },
   { name = "venue", render = false },
-  { name = "org_chrono", render = false },
+  { name = "chrono_root", render = false },
 ]
 
 [search]
@@ -71,3 +71,6 @@ bg = '#000'
 [extra.org_styles.ptw]
 fg = '#fff'
 bg = '#000'
+
+[extra.chronology]
+underground = "PTW Underground"
