@@ -2,7 +2,7 @@
 title = "KPW Arena 12: Gwiazda Północy"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
 1 = { path = "2019-01-19-kpw-arena-12-gwiazda-polnocy-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
