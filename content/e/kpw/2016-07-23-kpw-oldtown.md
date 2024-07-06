@@ -2,7 +2,7 @@
 title = "KPW OldTown"
 template = "event_page.html"
 [taxonomies]
-org = ["kpw"]
+chronology = ["kpw"]
 venue = ["airport-kluczewo"]
 +++
 

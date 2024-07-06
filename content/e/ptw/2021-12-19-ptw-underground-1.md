@@ -2,8 +2,9 @@
 title = "PTW Underground 1"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
-[extra]
-venue = "ptw-targowa"
+[taxonomies]
+chronology=["ptw", "underground"]
+venue=["ptw-targowa"]
 +++
 
 The first [PTW](@/o/ptw.md) Underground was held on Sunday, December 19th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

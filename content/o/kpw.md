@@ -4,7 +4,7 @@ weight = 1
 authors = ["Krzysztof Zych"]
 template = "org_page.html"
 [taxonomies]
-org_chrono=["kpw"]
+chrono_root = ["kpw"]
 +++
 
 ### History

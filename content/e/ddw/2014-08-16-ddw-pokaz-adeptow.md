@@ -2,7 +2,7 @@
 title = "DDW Pokaz Adeptów"
 template = "event_page.html"
 [taxonomies]
-org = ["ddw"]
+chronology = ["ddw"]
 venue = ["pod-palma"]
 [extra]
 +++

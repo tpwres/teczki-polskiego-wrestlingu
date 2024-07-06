@@ -2,8 +2,8 @@
 title = "PpW Miasto Bezprawia"
 template = "event_page.html"
 [taxonomies]
+chronology = ["ppw"]
 venue=["teatr-komuna"]
-org=["ppw"]
 [extra.gallery]
 1 = { path = "2024-02-10-ppw-miasto-bezprawia-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++

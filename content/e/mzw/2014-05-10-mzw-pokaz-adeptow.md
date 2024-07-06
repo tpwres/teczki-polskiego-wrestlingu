@@ -2,7 +2,7 @@
 title = "MZW Pokaz Adeptów"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["smolec"]
 [extra.gallery]
 1 = { path = "plakat.webp" }

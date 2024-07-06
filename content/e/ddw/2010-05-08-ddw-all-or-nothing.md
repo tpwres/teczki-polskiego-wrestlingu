@@ -2,7 +2,7 @@
 title = "DDW All Or Nothing"
 template = "event_page.html"
 [taxonomies]
-org = ["ddw"]
+chronology = ["ddw"]
 venue = ["karuzela"]
 +++
 

@@ -2,7 +2,7 @@
 title = "MZW Freak Show"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["bakara"]
 [extra.gallery]
 plakat = { path = "plakat.webp", description = "Poster for the show", source = "MZW's Facebook page"}

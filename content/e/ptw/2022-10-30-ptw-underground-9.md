@@ -2,8 +2,9 @@
 title = "PTW Underground 9"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
-[extra]
-venue = "ptw-targowa"
+[taxonomies]
+chronology = ["ptw", "underground"]
+venue = ["ptw-targowa"]
 +++
 
 The ninth [PTW](@/o/ptw.md) Underground show was held on Sunday, October 30th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

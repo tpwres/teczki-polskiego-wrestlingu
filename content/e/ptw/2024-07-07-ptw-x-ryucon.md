@@ -3,9 +3,9 @@ title = "PTW x RyuCon 3"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
-org = ["ptw"]
+chronology = ["ptw"]
+venue = ["tauron"]
 [extra]
-venue = "tauron"
 hide_results = true
 [extra.gallery]
 1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros vs Svedberg and Carravaggio", source = "Facebook PTW"}

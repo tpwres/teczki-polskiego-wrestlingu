@@ -2,7 +2,7 @@
 title = "KPW Arena 17: Odrodzenie"
 template = "event_page.html"
 [taxonomies]
-org=["kpw"]
+chronology = ["kpw"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
 1 = { path = "2021-08-21-kpw-arena-17-odrodzenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }

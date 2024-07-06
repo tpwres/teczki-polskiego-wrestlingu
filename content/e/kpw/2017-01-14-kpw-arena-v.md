@@ -2,7 +2,7 @@
 title = "KPW Arena V: Atlantic City"
 template = "event_page.html"
 [taxonomies]
-org=["kpw"]
+chronology = ["kpw"]
 venue=["atlantic-nh-gdynia"]
 [extra.gallery]
 1 = { path = "2017-01-14-kpw-arena-v-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }

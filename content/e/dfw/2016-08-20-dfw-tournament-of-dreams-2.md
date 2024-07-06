@@ -3,7 +3,7 @@ title = "DFW Tournament of Dreams II"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
-org=["dfw"]
+chronology = ["dfw"]
 +++
 
 The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/dfw.md) champion. The first round of matches was held in [June](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md), and the finals (this event) on Saturday August 20, 2016.

@@ -2,8 +2,9 @@
 title = "PTW Underground 11"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
-[extra]
-venue = "ptw-targowa"
+[taxonomies]
+chronology = ["ptw", "underground"]
+venue = ["ptw-targowa"]
 +++
 
 The eleventh [PTW](@/o/ptw.md) Underground show was held on Sunday, January 29th 2023, as part of a two-show weekend.

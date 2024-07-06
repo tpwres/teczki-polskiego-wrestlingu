@@ -2,7 +2,7 @@
 title = "MZW @ Wyciskanie Sztangi 2016"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 +++
 

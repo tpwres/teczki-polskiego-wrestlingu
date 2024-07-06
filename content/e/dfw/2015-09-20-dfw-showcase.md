@@ -2,7 +2,7 @@
 title = "DFW @ Kaszczorek"
 template = "event_page.html"
 [taxonomies]
-org=["dfw"]
+chronology = ["dfw"]
 [extra.gallery]
 1 = { path = "plakat-dfw-kaszczorek.jpg", caption = "Community festival poster, including a wrestling show by DFW"}
 +++

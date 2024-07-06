@@ -3,7 +3,7 @@ title = "DFW Recent Dreams"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
-org=["dfw"]
+chronology = ["dfw"]
 +++
 
 [DFW's](@/o/dfw.md) Recent Dreams was held on Sunday, April 23 2017, once again in the sports hall of Toruń's university campus. The previous event to be held there was the second half of [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).

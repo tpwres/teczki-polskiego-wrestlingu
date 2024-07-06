@@ -3,7 +3,7 @@ title = "DFW Tournament of Dreams I"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
-org=["dfw"]
+chronology = ["dfw"]
 [extra.gallery]
 1 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions."}
 +++

@@ -2,7 +2,7 @@
 title = "MZW Charity Show 2015"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra.gallery]
 1 = { path = "plakat.webp" }
