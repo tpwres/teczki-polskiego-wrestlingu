@@ -2,7 +2,7 @@
 title = "KPW Godzina Zero 2024"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "godzina-zero"]
 venue = ["okrzei-6-gdynia"]
 [extra]
 hide_results = true
