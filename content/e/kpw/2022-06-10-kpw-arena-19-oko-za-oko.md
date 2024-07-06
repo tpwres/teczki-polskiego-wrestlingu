@@ -3,7 +3,7 @@ title = "KPW Arena 19: Oko za Oko"
 template = "event_page.html"
 aliases = ["/e/2022-06-10-kpw-arena-19-oko-za-oko"]
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "arena"]
 venue=["atlantic-nh-gdynia"]
 [extra.gallery]
 1 = { path = "2022-06-10-kpw-arena-19-oko-za-oko-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
