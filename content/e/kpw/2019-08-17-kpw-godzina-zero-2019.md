@@ -2,7 +2,7 @@
 title = "KPW Godzina Zero 2019"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "godzina-zero"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
 1 = { path = "2019-08-17-kpw-godzina-zero-2019-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
