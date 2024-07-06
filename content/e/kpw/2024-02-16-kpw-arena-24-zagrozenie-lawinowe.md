@@ -3,7 +3,7 @@ title = "KPW Arena 24: Zagrożenie Lawinowe"
 template = "event_page.html"
 aliases = ["/e/2024-02-16-kpw-arena-24-zagrozenie-lawinowe"]
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "arena"]
 venue=["atlantic-nh-gdynia"]
 [extra.gallery]
 1 = { path = "2024-02-16-kpw-arena-24-zagrozenie-lawinowe-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
