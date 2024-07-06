@@ -2,7 +2,7 @@
 title = "KPW Arena 13: Capo Di Tutti Capi"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
 1 = { path = "2019-04-05-kpw-arena-13-capo-di-tutti-capi-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
