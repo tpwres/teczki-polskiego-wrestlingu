@@ -2,7 +2,7 @@
 title = "KPW Arena 15: Świeża Krew"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
 1 = { path = "2019-11-16-kpw-arena-15-swieza-krew-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
