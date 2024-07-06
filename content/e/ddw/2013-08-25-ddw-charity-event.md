@@ -2,7 +2,7 @@
 title = "DDW Charity Event"
 template = "event_page.html"
 [taxonomies]
-org = ["ddw"]
+chronology = ["ddw"]
 +++
 
 {% card() %}

@@ -2,8 +2,9 @@
 title = "PTW Underground 2"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
-[extra]
-venue = "ptw-targowa"
+[taxonomies]
+chronology = ["ptw", "underground"]
+venue = ["ptw-targowa"]
 +++
 
 The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

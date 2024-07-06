@@ -3,7 +3,7 @@ title = "Total Blast Wrestling"
 template = "org_page.html"
 weight = 2
 [taxonomies]
-org_chrono = ["tbw"]
+chrono_root = ["tbw"]
 +++
 
 Total Blast Wrestling was a short-lived organization, that held only two events before disappearing. It was created by Andrzej Supron and Paweł Borkowski,

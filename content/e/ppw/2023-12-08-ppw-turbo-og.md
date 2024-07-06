@@ -2,7 +2,7 @@
 title = "PpW Turbo OG"
 template = "event_page.html"
 [taxonomies]
-org=["ppw"]
+chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"

@@ -2,7 +2,7 @@
 title = "PpW Inside Job"
 template = "event_page.html"
 [taxonomies]
-org=["ppw"]
+chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"

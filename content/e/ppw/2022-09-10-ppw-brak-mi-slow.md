@@ -2,7 +2,7 @@
 title = "PpW Brak Mi Słów"
 template = "event_page.html"
 [taxonomies]
-org=["ppw"]
+chronology = ["ppw"]
 venue=["waldorffa25"]
 [extra.gallery]
 1 = { path = "2022-09-10-ppw-brak-mi-slow-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }

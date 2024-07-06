@@ -2,7 +2,7 @@
 title = "KPW @ Gdańsk Tattoo Konwent 1"
 template = "event_page.html"
 [taxonomies]
-org = ["kpw"]
+chronology = ["kpw"]
 venue = ["amber-expo"]
 +++
 

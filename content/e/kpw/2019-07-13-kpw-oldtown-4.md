@@ -2,7 +2,7 @@
 title = "KPW OldTown 4"
 template = "event_page.html"
 [taxonomies]
-org = ["kpw"]
+chronology = ["kpw"]
 venue = ["airport-kluczewo"]
 [extra.gallery]
 1 = { path = "2019-07-13-kpw-oldtown-4-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }

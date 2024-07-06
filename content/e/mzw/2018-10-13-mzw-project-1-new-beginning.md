@@ -2,7 +2,7 @@
 title = "MZW Project 1: New Beginning"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["bakara"]
 +++
 

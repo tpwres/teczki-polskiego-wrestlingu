@@ -3,7 +3,7 @@ title = "KPW Arena 18: Powrót do Przyszłości"
 template = "event_page.html"
 aliases = ["/e/2022-03-18-kpw-arena-18-powrot-do-przyszlosci"]
 [taxonomies]
-org=["kpw"]
+chronology = ["kpw"]
 venue=["atlantic-nh-gdynia"]
 [extra.gallery]
 1 = { path = "2022-03-18-kpw-arena-18-powrot-do-przyszlosci-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }

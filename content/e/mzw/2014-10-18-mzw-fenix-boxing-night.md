@@ -2,7 +2,7 @@
 title = "MZW @ Fenix Boxing Night"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["fenix-gniezno"]
 [extra]
 hide_results = true

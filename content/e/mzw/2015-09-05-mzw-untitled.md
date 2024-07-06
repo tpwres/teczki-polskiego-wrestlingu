@@ -2,7 +2,7 @@
 title = "MZW"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["opawa"]
 +++
 

@@ -3,7 +3,7 @@ title = "DFW Anniversary"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
-org=["dfw"]
+chronology = ["dfw"]
 +++
 
 Anniversary was an event that celebrated DFW's second anniversary, held on Saturday, September 30, 2017. The name was a bit of a stretch, as it was the second anniversary but when counting from [DFW @ Kaszczorek](@/e/dfw/2015-09-20-dfw-showcase.md). Which was DFW's second, not first show. Counting from the first show, the second anniversary was instead much closer to [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md).

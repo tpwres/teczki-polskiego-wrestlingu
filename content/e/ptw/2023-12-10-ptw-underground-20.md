@@ -1,8 +1,9 @@
 +++
 title = "PTW Underground 20"
 template = "event_page.html"
-[extra]
-venue = "ptw-targowa"
+[taxonomies]
+chronology = ["ptw", "underground"]
+venue = ["ptw-targowa"]
 +++
 
 {% card() %}

@@ -2,7 +2,7 @@
 title = "KPW Arena 16: Polowanie"
 template = "event_page.html"
 [taxonomies]
-org=["kpw"]
+chronology = ["kpw"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
 1 = { path = "2020-02-01-kpw-arena-16-polowanie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }

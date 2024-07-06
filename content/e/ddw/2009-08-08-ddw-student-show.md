@@ -2,7 +2,7 @@
 title = "DDW Student Show"
 template = "event_page.html"
 [taxonomies]
-org = ["ddw"]
+chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
 +++

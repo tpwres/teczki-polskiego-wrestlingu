@@ -4,7 +4,7 @@ weight = 2
 authors = ["Krzysztof Zych"]
 template = "org_page.html"
 [taxonomies]
-org_chrono = ["mzw"]
+chrono_root = ["mzw"]
 [extra]
 allow_section_pagination = true
 +++

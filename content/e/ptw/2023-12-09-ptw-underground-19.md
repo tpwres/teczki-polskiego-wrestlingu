@@ -2,8 +2,9 @@
 title = "PTW Underground 19"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
-[extra]
-venue = "ptw-targowa"
+[taxonomies]
+chronology = ["ptw", "underground"]
+venue = ["ptw-targowa"]
 +++
 
 PTW Underground 19 was part of a two-show weekend, held on December 9-10 in PTW Performance Center in Chorzów. Fans saw the debut of new character Sambor, while [Diana Strong](@/w/diana-strong.md) faced 18-year old British wrestler Violet Nyte.

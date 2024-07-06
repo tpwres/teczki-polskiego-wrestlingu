@@ -3,7 +3,7 @@ title = "PpW Ledwo Legalne IV"
 template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
-org=["ppw"]
+chronology = ["ppw"]
 venue=["praga-centrum"]
 [extra.gallery]
 

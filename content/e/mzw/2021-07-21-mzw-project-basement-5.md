@@ -2,7 +2,7 @@
 title = "MZW Project Basement #5"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["online"]
 +++
 

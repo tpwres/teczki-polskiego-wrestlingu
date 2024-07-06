@@ -3,10 +3,8 @@ title = "PTW#3: Legends"
 template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
-org=["ptw"]
+chronology = ["ptw"]
 venue=["hala-bemowo"]
-[extra]
-venue = "hala-bemowo"
 +++
 
 Legends was the third major event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, November 26th, in Warsaw. The venue was a multipurpose sports hall located in the [Bemowo](@/v/hala-bemowo.md) district. The day before, Warsaw's local [PpW Ewenement](@/o/ppw.md) ran their own event, titled [_Best Gala In Town_](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md), suggesting that their show was better than this one.

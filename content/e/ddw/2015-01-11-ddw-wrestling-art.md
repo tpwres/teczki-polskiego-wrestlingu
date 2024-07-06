@@ -2,7 +2,7 @@
 title = "DDW Wrestling Art"
 template = "event_page.html"
 [taxonomies]
-org = ["ddw"]
+chronology = ["ddw"]
 venue = ["przywidz"]
 [extra]
 +++

@@ -2,7 +2,7 @@
 title = "PpW Ledwo Legalne"
 template = "event_page.html"
 [taxonomies]
-org=["ppw"]
+chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"

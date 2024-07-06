@@ -2,8 +2,9 @@
 title = "PTW#5: Gold Rush"
 template = "event_page.html"
 authors = ["Krzysztof Zych", "Piotr Drabik", "Szymon Iwulski"]
-[extra]
-venue = "hotel-scout-czestochowa"
+[taxonomies]
+chronology = ["ptw"]
+venue = ["hotel-scout-czestochowa"]
 +++
 
 Gold Rush was an event by [PTW](@/o/ptw.md). It was announced as a "Season Finale", which suggested it's going to close some kind of chapter in PTW's history.

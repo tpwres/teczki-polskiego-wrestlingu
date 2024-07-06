@@ -2,7 +2,7 @@
 title = "MZW Project 2: Four"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 +++
 

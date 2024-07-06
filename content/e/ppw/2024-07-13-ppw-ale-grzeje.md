@@ -2,7 +2,7 @@
 title = "PpW Ale Grzeje"
 template = "event_page.html"
 [taxonomies]
-org=["ppw"]
+chronology = ["ppw"]
 venue=["teatr-komuna"]
 [extra]
 hide_results = true

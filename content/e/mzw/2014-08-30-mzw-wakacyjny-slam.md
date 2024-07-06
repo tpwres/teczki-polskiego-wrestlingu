@@ -2,7 +2,7 @@
 title = "MZW Wakacyjny Slam"
 template = "event_page.html"
 [taxonomies]
-org = ["mzw"]
+chronology = ["mzw"]
 venue = ["opawa"]
 [extra.gallery]
 1 = { path = "plakat.webp" }

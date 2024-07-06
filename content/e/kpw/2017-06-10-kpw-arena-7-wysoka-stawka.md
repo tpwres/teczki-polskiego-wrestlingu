@@ -2,7 +2,7 @@
 title = "KPW Arena 7: Wysoka Stawka"
 template = "event_page.html"
 [taxonomies]
-org=["kpw"]
+chronology = ["kpw"]
 venue=["atlantic-nh-gdynia"]
 [extra.gallery]
 1 = { path = "2017-06-10-kpw-arena-7-wysoka-stawka-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }

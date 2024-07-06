@@ -3,7 +3,7 @@ title = "PpW Ewenement Haze"
 template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
-org=["ppw"]
+chronology = ["ppw"]
 venue=["praga-centrum"]
 [extra.gallery]
 1 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "PPW's Facebook page"}

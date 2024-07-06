@@ -1,8 +1,9 @@
 +++
 title = "PTW#1: REVOLUCJA"
 template = "event_page.html"
-[extra]
-venue = "moris-chorzow"
+[taxonomies]
+chronology=["ptw"]
+venue=["moris-chorzow"]
 +++
 
 {% card() %}

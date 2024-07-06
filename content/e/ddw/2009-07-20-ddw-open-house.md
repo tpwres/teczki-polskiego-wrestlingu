@@ -2,7 +2,7 @@
 title = "DDW Open House"
 template = "event_page.html"
 [taxonomies]
-org = ["ddw"]
+chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
 +++

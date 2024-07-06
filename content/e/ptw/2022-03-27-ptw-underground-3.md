@@ -2,8 +2,9 @@
 title = "PTW Underground 3"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
-[extra]
-venue = "ptw-targowa"
+[taxonomies]
+chronology = ["ptw", "underground"]
+venue = ["ptw-targowa"]
 +++
 
 The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

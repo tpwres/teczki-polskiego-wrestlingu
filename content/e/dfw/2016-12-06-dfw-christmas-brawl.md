@@ -2,7 +2,7 @@
 title = "DFW Christmas Brawl 2016"
 template = "event_page.html"
 [taxonomies]
-org=["dfw"]
+chronology = ["dfw"]
 +++
 
 Christmas Brawl was held on December 6th, 2016, which was a Tuesday. December 6th in Poland is celebrated as Santa Claus Day, so the name is a bit misleading. The event took place, as was now tradition for DFW, in one of Toruń's schools. This time, in 3 LO, an academic-oriented high school.
