@@ -23,9 +23,14 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
   {r: Countout}]
 - ["[Krampus](@/w/krampus.md)", "[El Ogre](@/w/el-ogre.md)"]
 - ['[Justin Joy](@/w/justin-joy.md)', '[Vic Golden](@/w/vic-golden.md)', {r: DQ}]
+- credits:
+    Commentary: 'Piotr "Showoff" Małecki, Łukasz "Balik" Baliński'
+    'Host, ring announcer, General Manager': '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Interviews: 'Tobiasz "Skyver" Korzybski'
+    Referees: Sędzia Klaudiusz, Sędzia Seweryn
 {% end %}
 
-#### Recap
+### Recap
 
 * Fed up with not scoring a single win, [Syriusz Dziedzic](@/w/dziedzic.md) storyline-quit PTW after his match.
 * In a pre-match comedic segment, a promo by Hammers was interrupted by "Dr Fox", in a white lab coat, who offered to cure Hammers' baldness. After Marco's refusal, Dr Fox dropped the disguise to reveal himself as [Axel Fox](@/w/axel-fox.md), and the match started.
