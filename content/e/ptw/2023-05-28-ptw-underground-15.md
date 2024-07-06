@@ -21,12 +21,13 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - ['[Taras](@/w/taras.md)', '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/el-ogre.md)']
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
+- credits:
+    Commentary: Piotr "Showoff" Małecki, Arkadiusz Paterek
+    Host, ring announcer, general manager: Arkadiusz Pawłowski
+    Interviews: Tobiasz "Skyver" Korzybski
+    Referees: Sędzia Klaudiusz, Sędzia Seweryn
 {% end %}
 
-Commentary: Piotr "Showoff" Małecki, Arkadiusz Paterek \
-Host, ring announcer, general manager: Arkadiusz Pawłowski \
-Interviews: Tobiasz "Skyver" Korzybski \
-Referees: Sędzia Klaudiusz, Sędzia Seweryn \
 
 #### Recap
 

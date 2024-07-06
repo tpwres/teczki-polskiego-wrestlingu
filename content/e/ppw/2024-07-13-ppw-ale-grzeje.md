@@ -51,6 +51,9 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
 - - '[Johnny Blade](@/w/johnny-blade.md)(c)'
   - '[Isnorr](@/w/isnorr.md)'
   - c: PpW European Ultraviolent Title Deathmatch
+- credits:
+    Referees: Sędzia Kornel, Sędzia Karol Górski, [Sędzia Seweryn](@/w/sedzia-seweryn.md)
+    Ring announcer: Michael HT
 {% end %}
 
 ### References
