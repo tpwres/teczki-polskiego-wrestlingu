@@ -1,4 +1,4 @@
-{% set events_taxonomy = get_taxonomy(kind="org") %}
+{% set events_taxonomy = get_taxonomy(kind="chronology") %}
 {% set orgs_event_pages = events_taxonomy.items | filter(attribute="slug", value=page.slug) | map(attribute="pages") | first %}
 {% if orgs_event_pages != "" %}
   {% set events_by_year = orgs_event_pages | group_by(attribute="year") -%}
