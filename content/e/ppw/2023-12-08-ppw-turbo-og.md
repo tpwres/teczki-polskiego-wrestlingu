@@ -8,6 +8,7 @@ venue=["2kola"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "2023-12-08-ppw-turbo-og-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
+2 = { path = "2023-12-08-ppw-turbo-og-bilety.jpg", caption = "Tickets on sale announcement", source = "[Official PpW Facebook]" }
 +++
 
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2 Koła](@/v/2kola.md) club.
