@@ -8,7 +8,7 @@ venue=["atlantic-nh-gdynia"]
 1 = { path = "2017-04-08-kpw-arena-6-selekcja-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-The sixth Arena show, was held once again in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia.
+The sixth Arena show, Selekcja (_The Selection_) was held once again in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia.
 
 This event featured the wrestling debut of referee Karol Górski in a squash match against [Piękny Kawaler](@/w/piekny-kawaler.md), followed by beatings administered by the Kawaleria faction.
 Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@/o/ptw.md), debuting at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md).
@@ -30,7 +30,7 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
 
 #### Recap
 
-* During the main event, wrestlers brawl out into the audience, and up the stairs to the mezzanine level. [Greg](@/w/greg.md) fights with Ostrowski, each trying to throw the other over the barriers. Ostrowski takes the dive, landing on everybody else to chants of "Holy Sh*t" from the audience.
+* During the main event, wrestlers brawl out into the audience, and up the stairs to the mezzanine level. [Greg](@/w/greg.md) fights Ostrowski, each trying to throw the other over the barriers. Ostrowski takes the dive, landing on everybody else to chants of "Holy shit" from the audience.
 
 ### References
 
