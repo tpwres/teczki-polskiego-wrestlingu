@@ -8,9 +8,9 @@ venue=["gdynia-sports-center"]
 1 = { path = "2019-01-19-kpw-arena-12-gwiazda-polnocy-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-Gwiazda Północy (_Northern Star_) was the twelfth Arena event by KPW, held in Gdynia Sports Center. The event's foreign guest was Japanese female wrestler Yuu, at that time mostly appearing in Tokyo Joshi Pro Wrestling and Dramatic Dream Team. According to Cagematch, this was Yuu's sixth match in Europe overall.
+Gwiazda Północy (_The Northern Star_) was the twelfth Arena event by KPW, held in Gdynia Sports Center. The event's foreign guest was Japanese female wrestler Yuu, at that time mostly appearing in Tokyo Joshi Pro Wrestling and Dramatic Dream Team. According to Cagematch, this was Yuu's sixth match in Europe overall.
 
-The event was almost cancelled due to unrelated but tragic circumstances in the nearby city of Gdańsk. During the 27th Great Orchestra Of Christmas Charity Finale in Gdańsk, sitting mayor Paweł Adamowicz was [fatally stabbed][adamowicz-stab-wiki] on stage. This occured merely six days before. Poland's President Andrzej Duda declared that the day of Adamowicz's funeral would be a national day of mourning to commemmorate the loss. During such days, public events like concerts or football matches are usually cancelled or postponed. However, the period of mourning ended officially at 19:00 on January 19, just an hour before KPW's show was scheduled.
+The event was almost cancelled due to unrelated but tragic circumstances in the nearby city of Gdańsk. During the 27th Great Orchestra of Christmas Charity finale in Gdańsk, sitting mayor Paweł Adamowicz was [fatally stabbed][adamowicz-stab-wiki] on stage. This occured merely six days before the event. Poland's President Andrzej Duda declared that the day of Adamowicz's funeral would be a national day of mourning to commemmorate the loss. During such days, public events like concerts or football matches are usually cancelled or postponed. However, the period of mourning ended officially at 19:00 on January 19, just an hour before the KPW show was scheduled.
 
 #### Build-up
 
