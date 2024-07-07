@@ -25,9 +25,9 @@ Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
-* Fans annoy Gracjan by calling him Gracjan Porno. [Krzysztof Zasada](@/w/krzysztof-zasada.md) protects Kowalski, and annoyed at his boss, dropkicks him with his signature catphrase "W imię zasad!"
+* Fans annoy Gracjan by calling him Gracjan Porno. [Krzysztof Zasada](@/w/krzysztof-zasada.md) protects Kowalski, and annoyed at his boss, dropkicks him with his signature catphrase "W imię zasad!" ("In the name of principles!").
 * Ostrowski enters with not only [Mira](@/w/mira.md), but an unnamed second girl. She would later be revealed as [Alisa](@/w/alisa.md).
-* After the event, Pawłowski announced a surprise, and invited the faces to the ring. Pannache takes over the mic, and explains that [David Oliwa](@/w/david-oliwa.md) celebrated his (28th) birthday just days before. A birthday cake is revealed, decorated with the KPW logo. Fans sing "Sto Lat" (Polish _Happy Birthday_ song). Kawaler's music hits, [Greg](@/w/greg.md) walks in, and declares his disregard for the birthday, only to get the cake in his face to great crowd reactions.
+* After the event, Pawłowski announced a surprise, and invited the faces to the ring. Pannache takes over the mic, and explains that [David Oliwa](@/w/david-oliwa.md) celebrated his (28th) birthday just days before. A birthday cake is revealed, decorated with the KPW logo. Fans sing "Sto lat" (Polish _Happy Birthday_ song). Kawaler's music hits, [Greg](@/w/greg.md) walks in, and declares his disregard for the birthday, only to get the cake in his face to great crowd reactions.
 
 ### References
 
