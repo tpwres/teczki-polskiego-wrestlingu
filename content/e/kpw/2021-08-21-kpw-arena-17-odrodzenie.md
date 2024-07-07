@@ -8,9 +8,8 @@ venue=["gdynia-sports-center"]
 1 = { path = "2021-08-21-kpw-arena-17-odrodzenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-Odrodzenie (_Rebirth_) was KPW's first show after an extended, 18 month hiatus caused by the COVID-19 pandemic. The venue was again the Gdynia Sports Center,
-although it would be the last show held there, with the following events moving to a smaller venue. The name refers to the organization finally recovering from the pandemic crisis (and being drained of talent by the new PTW), experiencing a rebirth of sorts.
-Because the annual supershow Godzina Zero was not held this year, and because this event took its usual spot in the middle of August, it can also be considered that year's replacement.
+Odrodzenie (_The Rebirth_) was KPW's first show after an extended, 18 month hiatus caused by the COVID-19 pandemic. The venue was again the Gdynia Sports Center,
+although it would be the last show held there, with the following events moving to a smaller venue. The name refers to the organization finally recovering from the pandemic crisis (and being drained of talent by the new PTW), experiencing a rebirth of sorts. Because the annual supershow Godzina Zero was not held that year, and because this event took its usual spot in the middle of August, it can also be considered that year's replacement.
 
 Foreign guests this time were the returning Crowchester (previously seen at [KPW OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md)), Slovakian wrestler Ricky Sky, and Austrian veteran wrestler and trainer Michael Kovac, plus the already familiar [Fynn Freyhart](@/w/fynn-freyhart.md). For Kovac, this was a return to Poland after over a decade: in 2009 he wrestled El Generico at [DDW#3](@/e/ddw/2009-10-24-ddw-3.md).
 There were also three debuts: we saw KPW's new high flying masked luchador Zefir, and the tag team of Filip and Michał Fux.
@@ -28,7 +27,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
 
 #### Recap and aftermath
 
-* [Chemik](@/w/chemik.md) made a vow that until he wins three fights, he's not going to touch a woman (remain celibate), insulting ring announcer Kinga and the audience in the process.
+* [Chemik](@/w/chemik.md) made a vow that until he wins three fights, he's going to remain celibate and not touch a woman, insulting ring announcer Kinga and the audience in the process.
 
 ### References
 
