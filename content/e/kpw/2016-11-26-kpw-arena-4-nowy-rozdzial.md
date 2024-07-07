@@ -8,7 +8,7 @@ venue = ["hallera 16"]
 1 = { path = "2016-11-26-kpw-arena-4-nowy-rozdzial-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-Nowy Rozdział (_New Chapter_) was held in Gdańsk, in the gymnastics hall of CKZiU 1, a complex of various educational institutions at the high school or vocational school level. Much smaller in scope than the previous event, it had only one foreign guest, British wrestler Elliott Jordan.
+Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall of CKZiU 1, a complex of various educational institutions at the high school or vocational school level. Much smaller in scope than the previous event, it had only one foreign guest, British wrestler Elliott Jordan.
 
 {% card() %}
 - ['[Kaszub](@/w/kaszub.md)', '[Peter Pannache](@/w/peter-pannache.md)', {r: DQ}]
