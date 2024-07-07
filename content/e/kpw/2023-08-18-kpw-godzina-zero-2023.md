@@ -51,6 +51,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 
 * This was the last event to feature the original OldTown championship belt. From [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) onwards, it was replaced by a more conventional leather plate design.
 * In the Battle Royal finale, Leon Lato faced Chemik again, after being defeated in their singles match.
+* Greg's appearance for the main event was preceeded by a body double wearing Greg's usual brown monk's robe, entering the ring to a different music. A short while later Greg's usual theme song hit and the champion made his entrance wearing new all-white robes.
 * David was carried out from the ring on a stretcher. His defeat at this event started his losing streak and eventual heel turn.
 * While Red Scorpion celebrated his victory, Leon Lato arrived in the ring, holding the Championship contract he just won, and challenged Scorpion for the championship at the next event.
 * In a [Facebook post](https://www.facebook.com/kpwrestling/posts/pfbid02UQY6HWgyVoCpq9RayytozE7D7UNcAfFCGYVceD1FKZY4LrpyhUwHtTaCAywLahQfl), KPW stated that Godzina Zero 2023 was their 40th overall event, since the promotion started in 2015.
