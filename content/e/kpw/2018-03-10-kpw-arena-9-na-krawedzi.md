@@ -8,7 +8,7 @@ venue = ["b90"]
 1 = { path = "2018-03-10-kpw-arena-9-na-krawedzi-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-Na Krawędzi (_On The Edge_) was held as part of the second SzlamFest. In terms of KPW history, it was a regular Arena show, continuing the storylines from Arena 8. The main event was probably the most bloody hardcore match ever held by KPW.
+Na Krawędzi (_On The Edge_) was held as part of the second SzlamFest in the B90 club in Gdańsk. In terms of KPW history, it was a regular Arena show, continuing the storylines from Arena 8. The main event was probably the most bloody hardcore match ever held by KPW.
 
 This show was also the debut of the future [Chemik](@/w/chemik.md) - who appeared as a personal butler to Kawaler. Before the women's match, the Kawaleria faction installed themselves at comfy ringside seats and remained there for the rest of the evening, while the butler kept pouring vodka for them and some lucky members of the audience.
 
@@ -36,12 +36,11 @@ Attendance: estimated 400
   [Kaszub](@/w/kaszub.md) and [Alisa](@/w/alisa.md) at ringside. Lots of aerial action.
 * Before the women's match, Kawaler cut his usual promo deriding the audience. [Alisa](@/w/alisa.md) gave
   [Bianca](@/w/bianca.md) a tough fight.
-* Korpo faced Corvus in a rematch from Godzina Zero 2016. In his promo, he ridiculed
-  Corvus for growing a beer belly instead of preparing for their fight.
+* Korpo faced Corvus in a rematch from Godzina Zero 2016. In his promo, he ridiculed Corvus for growing a beer belly instead of preparing for their fight.
 * [Greg](@/w/greg.md) and [Kaszub](@/w/kaszub.md) initially jumped at each other's throats, but once the gong hit, they reenacted the Fingerpoke of Doom match. Kawaleria entered the ring to celebrate.
-* Pawłowski announced the result, then disappeared backstage. Shortly after, reappered and announced a new opponent for [Greg](@/w/greg.md).
-* Oliwa and Greg fight with light tubes, chairs, ladders, Lego bricks and a keyboard. Plenty of blood from both. [Ron Corvus](@/w/ron-corvus.md) intervened to remind Greg he's coming for his championship.
-* Once the bell rang, Kawaleria attacked the bleeding Dawid, which included putting a ball gag on him. The faces, who now form a faction called Sojusz (_Alliance_) intervene. Kawaler and Greg tried to attack [Mira](@/w/mira.md) with a taser, but were stopped by [Robert Star](@/w/robert-star.md).
+* Pawłowski announced the result, then disappeared backstage. Shortly thereafter, he reappered and announced a new opponent for [Greg](@/w/greg.md).
+* Oliwa and Greg fought with light tubes, chairs, ladders, Lego bricks and a keyboard. Plenty of blood from both. [Ron Corvus](@/w/ron-corvus.md) intervened to remind Greg he's coming for his championship.
+* Once the bell rang, Kawaleria attacked the bleeding Dawid, which included putting a ball gag on him. The faces, who now form a faction called Sojusz (_The Alliance_), intervene. Kawaler and Greg tried to attack [Mira](@/w/mira.md) with a taser, but were stopped by [Robert Star](@/w/robert-star.md).
 * This would be Kaszub's last appearance for KPW.
 
 
