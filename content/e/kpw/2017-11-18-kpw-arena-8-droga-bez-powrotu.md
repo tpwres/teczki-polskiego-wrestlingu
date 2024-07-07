@@ -8,7 +8,7 @@ venue=["gdynia-sports-center"]
 1 = { path = "2017-11-18-kpw-arena-8-droga-bez-powrotu-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-Droga Bez Powrotu (_Road of No Return_) was the eight Arena show, and the first one (although second after Godzina Zero 2017) to be held at the Gdynia Sport Center.
+Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the first one (although second after Godzina Zero 2017) to be held at the Gdynia Sport Center.
 
 {% card() %}
 - - '[Kaszub](@/w/kaszub.md)'
