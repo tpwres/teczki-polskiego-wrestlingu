@@ -18,7 +18,7 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 * Leon Lato is on the rise after an excellent fight at the previous event, almost grabbing the KPW Championship from Red Scorpion. [David Oliwa](@/w/david-oliwa.md) is on a losing streak, and not his usual happy self. Both have something to prove.
 * [Greg](@/w/greg.md) needs to show he's ready to reclaim the KPW Championship, by facing the well-traveled veteran Dreissker.
 * At Arena 23, a post-match brawl occured involving the Gregorian Branch faction against the Fux Brothers, [Leon Lato](@/w/leon-lato.md), [Zefir](@/w/zefir.md) and others. [Chemik](@/w/chemik.md) challenged the brothers to defend their belts, and Chairman Krystian Malinowski quickly sanctioned the match.
-* More than a year prior, Darius defeated three other opponents for a shot at the KPW OldTown Championship. At Arena 20 [Rosetti](@/w/rosetti.md) refused to fight Darius and left just after the opening bell, hoever soon afterwards Leon Lato stepped in to face Darius in a singles match which he lost, thus giving Darius a shot at the title.
+* More than a year prior, Darius defeated three other opponents for a shot at the KPW OldTown Championship. At Arena 20 [Rosetti](@/w/rosetti.md) refused to fight Darius and left just after the opening bell, however soon afterwards Leon Lato stepped in to face Darius in a singles match which he lost, thus giving Darius a shot at the title.
 
 {% card() %}
 - ['[Zefir](@/w/zefir.md)', Tommy Kyle]
