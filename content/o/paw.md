@@ -17,7 +17,9 @@ PAW, whose full name translates to _Polish Wrestling Academy_, is the wrestling 
 * Years active: 2017-current
 * Location:
   1. Głuchołazy (2017 - 2018) - in [GOSiR Głuchołazy](@/v/gosir-glucholazy.md)
-  2. Wrocław (2018 - Oct 2021) - in [Czasoprzestrzeń](@/v/czasoprzestrzen.md), later at "Blaszak", a facility located on Aleksandra Ostrowskiego street
+  2. Wrocław (2018 - Oct 2021) - first in [Czasoprzestrzeń](@/v/czasoprzestrzen.md),
+     then in "Blaszak", a facility located on Leona Popielskiego street, 
+     and finally in a facitlity on Aleksandra Ostrowskiego street
   3. Toruń (Oct 2021 - Oct 2022) - in Liceum Ogólnokształcące nr 2, a high school
   4. Wrocław (Oct 2022 - Apr 2024) - in [Czasoprzestrzeń](@/v/czasoprzestrzen.md)
   5. Kępno (2024-) - in Kępno Dojo
@@ -37,7 +39,7 @@ PAW, whose full name translates to _Polish Wrestling Academy_, is the wrestling 
 * [Rafael Kid](@/w/rafael-kid.md)
 * Apollo Anderson
 * [Olgierd](@/w/olgierd.md)
-* [Boro](@/w/boro.md)
+* [Boro](@/w/boro.md) 
 * [Rafi Rarytas](@/w/rafi.md)
 * [Sambor](@/w/sambor.md)
 * Michael Payne
@@ -71,7 +73,7 @@ This period is also when a social group, later called "[The Greens](@/a/the-gree
 
 After Justin and Asmund left, Shadow became the single permanent coach in PAW.
 This reduced the training sessions' frequency down to about once monthly or bimonthly.
-The academy itself relocated to a much smaller venue, located at Aleksandra Ossowskiego street, which was also the place that the COVID-era [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) series was recorded.
+The academy itself relocated to a much smaller venue, located at Aleksandra Ostrowskiego street, which was also the place that the COVID-era [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) series was recorded.
 Despite that, PAW continued to hold summer camps in 2020 and 2021, which had worse attendance numbers than before.
 
 PAW suffered its biggest setback when multiple MZW talent and PAW rookies decided to join the newly created [PTW](@/o/ptw.md) in 2021.
