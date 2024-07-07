@@ -13,8 +13,8 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
 
 #### Build-up
 
-* One of the original teams was to be [Gracjan Korpo](@/w/gracjan-korpo.md) and [Moloch](@/w/moloch.md). However, the day before the event, Gracjan posted a video on the event's page, stating he's not going to appear, and prefers going after the main title, worn by [Ron Corvus](@/w/ron-corvus.md) at the time. Moloch would enter the tournament alone.
-* [Robert Star](@/w/robert-star.md) is still forced to wrestle for Kawaleria, a position he was more and more uncomfortable in
+* One of the original teams was to be [Gracjan Korpo](@/w/gracjan-korpo.md) and [Moloch](@/w/moloch.md). However, the day before the event, Gracjan posted a video on the event's page, stating he's not going to appear, and prefers going after the main title, held by [Ron Corvus](@/w/ron-corvus.md) at the time. Moloch would enter the tournament alone.
+* [Robert Star](@/w/robert-star.md) is still forced to wrestle for Kawaleria, a position he was more and more uncomfortable in.
 
 {% card() %}
 - ["[Kamil Aleksander](@/w/kamil-aleksander.md), [Peter Pannache](@/w/peter-pannache.md)",
@@ -43,7 +43,7 @@ Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
-* [Rosetti](@/w/rosetti.md) and [Sawicki](@/w/sawicki.md) used their tried and true strategy of attacking one of their opponents before the gong for a quick win.
+* [Rosetti](@/w/rosetti.md) and [Sawicki](@/w/sawicki.md) used their tried and true strategy of attacking one of their opponents before the bell for a quick win.
 * [Greg](@/w/greg.md) introduced [Chemik](@/w/chemik.md), previously in the role of Kawaleria's butler, as their newest member. After losing the bout, Chemik briefly considers leaving the faction, and is beaten by his tag team partner as punishment for losing.
 * [Moloch](@/w/moloch.md) lost his focus after Kawaler attacked his two valets. The winners stayed at ringside to celebrate with booze.
 * The British pair pressured Pawłowski to announce them in English. After the break, they would immediately fight again in the semi finals.
