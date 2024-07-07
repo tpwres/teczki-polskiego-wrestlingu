@@ -16,9 +16,11 @@ PAW, whose full name translates to _Polish Wrestling Academy_, is the wrestling 
 
 * Years active: 2017-current
 * Location:
-  - Głuchołazy (2017-2018)
-  - Wrocław (2018-2024)
-  - Kępno (2024-)
+  1. Głuchołazy (2017 - 2018) - in [GOSiR Głuchołazy](@/v/gosir-glucholazy.md)
+  2. Wrocław (2018 - Oct 2021) - in [Czasoprzestrzeń](@/v/czasoprzestrzen.md), later at "Blaszak", a facility located on Aleksandra Ostrowskiego street
+  3. Toruń (Oct 2021 - Oct 2022) - in Liceum Ogólnokształcące nr 2, a high school
+  4. Wrocław (Oct 2022 - Apr 2024) - in [Czasoprzestrzeń](@/v/czasoprzestrzen.md)
+  5. Kępno (2024-) - in Kępno Dojo
 * Coaching staff:
   - [Shadow](@/w/shadow.md) - Coach (2017-2019) / Head Coach (since 2019)
   - [Asmund](@/w/asmund.md) - Coach (2017-2019)
@@ -74,6 +76,21 @@ Despite that, PAW continued to hold summer camps in 2020 and 2021, which had wor
 
 PAW suffered its biggest setback when multiple MZW talent and PAW rookies decided to join the newly created [PTW](@/o/ptw.md) in 2021.
 This also caused another decline in training session frequency. In the later months of 2021 and early 2022, PAW moved its training sessions temporarily to Toruń.
+
+In October 2022, PAW returned to Wrocław and Czasoprzestrzeń, hosting training sessions infrequently, and with little to none social media activity.
+Attendance at these sessions varied between 3-5 rookies every weekend.
+
+### 2024: Moving to Kępno, revival
+
+Since April 2024, PAW has made yet another move, to Kępno - a small town about an hour's drive east of Wrocław, where they continued their training sessions.
+On June 14th, they announced a 5-day wrestling summer camp, scheduled to be held on August 19-24 at the new facility in Kępno.
+On June 29th, a photo was posted on their Facebook page, showing PAW trainees along with multiple ex-[MZW](@/o/mzw.md), ex-[PTW](@/o/ptw.md) and [PpW](@/o/ppw.md) wrestlers.
+
+{% inline_fig(path="paw-jun-2024.webp") %}
+Photo posted on PAW's Fanpage on June 29th 2024. \
+The text reads "Another weekend. Another training session with "new" faces. And one conclusion: The Ring Unites People." \
+Besides PAW trainees, multiple ex-PTW/MZW wrestlers can be seen: [Samson](@/w/samson.md), [Marco Hammers](@/w/marco-hammers.md), [Disco Pablo](@/w/disco-pablo.md), [Dziedzic](@/w/dziedzic.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Rafi Rarytas](@/w/rafi.md).
+{% end %}
 
 ## References
 
