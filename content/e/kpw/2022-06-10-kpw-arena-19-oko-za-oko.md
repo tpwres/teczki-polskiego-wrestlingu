@@ -9,9 +9,9 @@ venue=["atlantic-nh-gdynia"]
 1 = { path = "2022-06-10-kpw-arena-19-oko-za-oko-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-Oko za Oko (_Eye for an eye_) was KPW's second show of 2022 and the 19th Arena show overall, held in the [Nowy Harem](@/v/atlantic-nh-gdynia.md) music club. This event saw the return of [Fynn Freyhart](@/w/fynn-freyhart.md) and Darius.
+Oko za Oko (_An Eye for an Eye_) was KPW's second show of 2022 and the 19th Arena show overall, held in the [Nowy Harem](@/v/atlantic-nh-gdynia.md) music club. This event saw the return of [Fynn Freyhart](@/w/fynn-freyhart.md) and Darius.
 
-Originally Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and Darius in a three way match. Unfortunately, Martn had to bow out due to ilness, turning the fight into a singles match.
+Originally the Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and Darius in a three way match. Unfortunately, Martn had to bow out due to ilness, turning the fight into a singles match.
 
 {% card() %}
 - ['[Filip Fux](@/w/filip-fux.md)', '[Chemik](@/w/chemik.md)']
@@ -24,11 +24,11 @@ Originally Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and 
 
 #### Recap
 
-* Filip Fux entered holding a rolled banner. The banner, when unrolled (and displayed on the stage LED screen as well) was a mock photoshopped poster of Steve Carell's _40 year old virgin_ movie, but with [Chemik](@/w/chemik.md)'s face and age (23) replaced. After the fight, Chemik attempted to poke Filip's eye out with a long screwdriver, which resulted in some light bleeding from the forehead.
-* Kawaleria (_Cavalry_) was disbanded at Godzina Zero 2019, with Greg's surprise betrayal of Kawaler. Now under Greg's leadership, it was reborn as Gałąź Gregoriańska (_Gregorian Branch_), counting Chemik, [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md) in its members.
+* Filip Fux entered holding a rolled-up banner. The banner, when unrolled (and displayed on the stage LED screen as well), turned out a mock photoshopped poster of Steve Carell's _The 40-Year-Old Virgin_ movie, but with [Chemik](@/w/chemik.md)'s face and age (23) inserted. After the fight, Chemik attempted to poke Filip's eye out with a long screwdriver, which resulted in some light bleeding from Filip's forehead.
+* Kawaleria (_The Cavalry_) was disbanded at Godzina Zero 2019, with Greg's surprise betrayal of Kawaler. Now under Greg's leadership, it was reborn as Gałąź Gregoriańska (_The Gregorian Branch_), consisting of Chemik, [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md).
 * Greg delivered his sermon from the ring, where he announced he's not going to exert himself as he only cares for the upcoming Godzina Zero. Then he performed a ceremony to swear in a new tag team of Lesak and Chemik.
 * With the ref distracted, Greg put on his signet ring, and punched Darius to win.
-* Freyhart scored the first pinfall. Dawid's victory was interrupted by the Gregorian Branch. Greg, waving a soft penis-shaped candy from his crotch, attempts to "feed" it to Dawid, who's held down by Rosetti. The Fux Brothers and Zefir interfered to help Dawid and Fynn.
+* Freyhart scored the first pinfall. David's victory was interrupted by the Gregorian Branch. Greg, waving a soft penis-shaped candy from his crotch, attempted to "feed" it to David, held down by Rosetti. The Fux Brothers and Zefir interfered to help David and Fynn.
 
 ### References
 
