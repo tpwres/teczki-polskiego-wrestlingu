@@ -16,9 +16,9 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 
 #### Build-up
 
-* [Sawicki](@/w/sawicki.md) and [Rosetti](@/w/rosetti.md) shot a promo at a literal shooting range in Gdynia, getting ready for The Hunt
+* [Sawicki](@/w/sawicki.md) and [Rosetti](@/w/rosetti.md) shot a promo at a literal shooting range in Gdynia, getting ready for The Hunt.
 * In a series of horror-themed vignettes, Daniel Boza first received a mysterious letter containing a key. Then we saw him explore a dark, seemingly abandoned house he entered using this key, where he found a mysterious phone. The phone suddenly rang, and when he picked up, a mysterious, altered voice told him that he must be the eagle who hunts the wolf, referring to his fight with Lesak.
-* Leaning into their new priest and altar boy gimmick, [Chemik](@/w/chemik.md) and [Greg](@/w/greg.md) invaded Marcin Opolski's (who is Piotr's brother) house under the pretext of the traditional ministerial visit. Marcin received a punch to the gut from Greg. Another tradition of the priest giving a small portrait of Virgin Mary or one of the saints to children was also upheld, with Greg leaving his photocard on Marcin's table. Piotr reacted to this strongly, challenging Greg to the ring.
+* Leaning into their new priest and altar boy gimmick, [Chemik](@/w/chemik.md) and [Greg](@/w/greg.md) invaded the home of Marcin Opolski's (Piotr's brother) under the guise of a traditional ministerial visit. Marcin received a punch to the gut from Greg. Another tradition of the priest giving a small portrait of the Virgin Mary or one of the saints to children was also upheld, with Greg leaving his own photograph on Marcin's table. Piotr reacted to this strongly, challenging Greg to the ring.
 * They also incorporated these roles into their ring entrance: [Greg](@/w/greg.md) would now strut around with a large signet ring, allowing audience members to kiss it, after which he would give them his blessing. [Chemik](@/w/chemik.md), in his altar boy's attire would collect donations, as is common in Polish churches during the Mass. Before entering the ring, Chemik would also swing a thurbler filled with burning incense around Greg, imitating Catholic rites.
 
 {% card() %}
