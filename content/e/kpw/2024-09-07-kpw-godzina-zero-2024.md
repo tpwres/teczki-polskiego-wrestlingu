@@ -12,9 +12,11 @@ Godzina Zero (_Zero Hour_) 2024 is an upcoming seventh annual KPW supershow, hel
 
 According to KPW's event page, there will be a significant number of foreign talent at this event, including some new guests:
 
-* Hungarian wrestler and former KPW champion [Ron Corvus](@/w/ron-corvus.md), last seen at [Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)
-* English wrestlers "Multiversal" Alexander Roth and "Big Wavy" Roy Johnson, competing as "The 87"
-* German wrestler Hans Schulte, one half of Die Ordnung, former KPW Tag Team champions
+* Hungarian wrestler and former KPW champion [Ron Corvus](@/w/ron-corvus.md), last seen two years prior, at [Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
+* English wrestlers "Multiversal" Alexander Roth and "Big Wavy" Roy Johnson, competing as "The 87".
+* German wrestler Hans Schulte, one half of Die Ordnung, former KPW Tag Team champions.
+* Italian wrestler and reigning KPW Champion Red Scorpion, in only his second defense of the title since winning it at [last year's event](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).
+* Spanish wrestler Carlos Zamora, in his second appearance, previously seen at [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
 
 #### Build-up
 
