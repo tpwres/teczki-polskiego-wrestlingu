@@ -10,6 +10,7 @@ hide_results = true
 1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has Jakob Sigmarsson and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Facebook PPW Ewenement"}
 2 = { path = "ag-crane-queen.jpg", caption = "Official graphic for the [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match.", source = "Facebook PPW Ewenement"}
 3 = { path = "ag-legia-goblin.webp", caption = "Official graphic for [Goblin](@/w/goblin.md) vs Legia Łysych."}
+4 = { path ="alex-feager-canceled.jpg", caption = "[Alex Arthur](@/w/alex-arthur.md)'s Instagram story explaining he will miss his just-announced fight with [Feager](@/w/feager.md).", source = "Instagram @realalexarthur"}
 +++
 
 "Ale Grzeje" (roughly translated as _Heat Wave_) is an upcoming event by [PpW](@/o/ppw.md), scheduled for Saturday June 13th 2024. It's the second one to be hosted by [Teatr Komuna](@/v/teatr-komuna.md), after [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
@@ -28,6 +29,7 @@ Prior to the show, PpW is holding a 5-day open seminar with [Jacob Crane](@/w/ja
 * Unless Goblin is able to find a partner, it will be a handicap match, as confirmed in announcement post.
   Goblin might be in trouble, as his potential allies already have problems of their own - Gabriel Queen (who just lost a tag match to Legia) is facing Crane,
   Biesiad challenges for the PpW Championship, and Johnny Blade is busy defending his newly regained UV Championship.
+* On Sunday July 7th, PpW announced [Alex Arthur](@/w/alex-arthur.md) vs [Feager](@/w/feager.md) in a chairs match. However, after a couple of hours, Alex posted an Instagram story explaining he'll "miss that battle because of his shoot job".
 
 Predicted card based on social media:
 
