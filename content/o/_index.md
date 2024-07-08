@@ -5,7 +5,7 @@ template = "index.html"
 +++
 
 # Organizations
-
+<!-- NOTE: The tables below need to be sorted manually. Sort them by creation date, and if two or more entries have he same year, do a secondary sort by name. So for instance MZW comes before MCW, and they both come before KPW. -->
 ## Active
 
 | Years active | Name | Location |
