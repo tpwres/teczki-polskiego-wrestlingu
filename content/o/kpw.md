@@ -33,13 +33,13 @@ During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), Ch
 
 ### Foreign relations
 
-KPW frequently invited talent from the European independent scene to their events, especially the yearly supershow Godzina Zero. Initially they invited wrestlers from Hungary, with which DDW had good relations. Later, most of the talent came from Germany and Austria. Several wrestlers from the British scene also appeared on KPW's shows. The hottest guest appearance among them were Primate and Wild Boar, by that time a tag team seen in NXT UK, and Mark Haskins, a veteran of the British scene. KPW's own wrestlers occassionally appeared abroad, mostly in Austria and Germany. KPW does not try to draw attendance by relying on foreign stars and, with [a](@/2018-07-14-kpw-oldtown-3.md) [few](@/2018-08-11-kpw-godzina-zero-2018.md) [rare](@2021-08-21-kpw-arena-17-odrodzenie.md) [exceptions](@/2022-06-18-kpw-pyrkon-2022.md), almost always puts them against their own talent.
+KPW frequently invited talent from the European independent scene to their events, especially the yearly supershow Godzina Zero. Initially they invited wrestlers from Hungary, with which DDW had good relations. Later, most of the talent came from Germany and Austria. Several wrestlers from the British scene also appeared on KPW's shows. The hottest guest appearance among them were Primate and Wild Boar, by that time a tag team seen in NXT UK, and Mark Haskins, a veteran of the British scene. KPW's own wrestlers occassionally appeared abroad, mostly in Austria and Germany. KPW does not try to draw attendance by relying on foreign stars and, with [a](@/e/kpw/2018-07-14-kpw-oldtown-3.md) [few](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md) [rare](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md) [exceptions](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), almost always puts them against their own talent.
 
 ### Polish wrestling scene
 
 KPW does not participate in the Polish wrestling scene; they do not share people with other organizations, nor do they invite other Polish performers to their shows. It is speculated to be inherited from Don Roid's way running of DDW, although there was no Polish scene back then. Some Polish-speaking characters did appear on their shows, but all of them were wrestlers of some Polish ancestry, performing abroad.
 
-The Polish IWC reported one incident when fans wearing t-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with other merchandise.
+The Polish IWC reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with other merchandise.
 
 ### Championships
 
