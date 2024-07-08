@@ -12,6 +12,9 @@ hide_results = true
 1 = { path = "2019-12-07-ppw-2kola-to-my-nie-zarobimy-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
+This was likely the first PpW event open for general public, as opposed to friends and insiders that comprised the audiences in prior years.
+
+"2 koła" is Polish for "2 wheels", a fitting name for a motorcycle-themed pub in which the event was held. It can also be used as a slang for "2 thousand" in the context of money - thus the name of the event can be understood as "We Ain't Gonna Make 2GRAND".
 
 {% card() %}
 - ["[Mister Z](@/w/mister-z.md)", "Terry Shadow (impostor)", {nc: "?"}]
