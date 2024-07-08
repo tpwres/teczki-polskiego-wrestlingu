@@ -22,7 +22,7 @@ template = "index.html"
 | Years active | Name | Location |
 |--:|---|---|
 | 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń |
-| 2021- | [Ewenement Dojo](@/o/ptw-academy.md) | Chorzów, Kozłów |
+| 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, Kozłów |
 | 2024- | [Ewenement Dojo](@/o/ewenement-dojo.md) | Warsaw |
 | 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, Kozłów |
 
