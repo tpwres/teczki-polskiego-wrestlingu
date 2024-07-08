@@ -9,7 +9,7 @@ template = "base_with_gallery.html"
 4 = { path = "dziedzic-goodbye.jpg", caption = "[Dziedzic](@/w/dziedzic.md)'s farewell post on Instagram.'", source = "Instagram @dziedzicwrestling"}
 5 = { path = "sinister-farewell-insta.jpg", caption = "[Sinister](@/w/sinister.md) thanking everyone in his farewell post.", source = "Instagram @sinister_wrestler"}
 6 = { path = "ptw_dismissal.jpg", caption = "PTW firing Jacob Crane in August 2022."}
-7 = { path = "owczy-ped.jpg", caption = "[Puncher's](@/w/puncher.md) comic titled 'Herd Instinct', comparing the talent quitting PTW to sheep heading into a pig's anus (referring to [PpW](@/o/ppw.md)", source = "Facebook @PTWpuncher"}
+7 = { path = "owczy-ped.jpg", caption = "[Puncher's](@/w/puncher.md) comic titled 'Herd Instinct', comparing the talent quitting PTW to sheep heading into a pig's anus (referring to [PpW](@/o/ppw.md))", source = "Facebook @PTWpuncher"}
 8 = { path = "leak-puncher-fox.png", caption = "[Puncher](@/w/puncher.md) leaking info about Axel Fox's possible exit in a discussion thread on the House Of Wrestling Facebook group.", source = "Facebook HouseOfWrestling"}
 +++
 
@@ -56,7 +56,7 @@ The table below is sorted chronologically by estimated exit date.
   - 2022 ([MZW](@/o/mzw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2023-10-03 instagram, see gallery
+  - 2023-10-03 Instagram - see gallery
 - - '[Samson](@/w/samson.md)'
   - 2022
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
@@ -71,17 +71,17 @@ The table below is sorted chronologically by estimated exit date.
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-04-13](@/e/ptw/2024-04-13-ptw-underground-21.md)'
-  - 2024 twitter
+  - 2024 Twitter
 - - '**[Disco Pablo](@/w/disco-pablo.md)**'
   - 2021
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - '2024-06 [instagram](https://www.instagram.com/p/C8ALDNIszF8)'
+  - '2024-06 [Instagram](https://www.instagram.com/p/C8ALDNIszF8)'
 - - '**[Dziedzic](@/w/dziedzic.md)**'
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
+  - 2024-06 [Instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
 - - '**[Marcelito](@/w/marcelito.md)**'
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
@@ -91,17 +91,17 @@ The table below is sorted chronologically by estimated exit date.
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
+  - 2024-06 [Instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
 - - '[Longman](@/w/wiktor-longman.md)'
   - 2022
   - '[2022-08-28](@/e/ptw/2022-08-28-ptw-underground-7.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 instagram
+  - 2024-06 Instagram
 - - '**[Boro](@/w/boro.md)**'
   - 2020 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2024-06 instagram
+  - 2024-06 Instagram
 - - '[Olgierd](@/w/olgierd.md)'
   - 2021-11 ([PpW](@/o/ppw.md)/[MZW](@/o/mzw.md))
   - '[2023-03-26](@/e/ptw/2023-03-26-ptw-underground-13.md)'
@@ -121,17 +121,17 @@ The table below is sorted chronologically by estimated exit date.
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [instagram](@/o/ptw.md#img-27)
+  - 2024-06 [Instagram](@/o/ptw.md#img-27)
 - - '[Sambor](@/w/sambor.md)'
   - 2023
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 [instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
+  - 2024-06 [Instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
 - - '**[Axel Fox](@/w/axel-fox.md)**'
   - 2021 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06-25 [Pawłowski's twitch stream](https://www.twitch.tv/videos/2180575222)
+  - 2024-06-25 [Pawłowski's Twitch stream](https://www.twitch.tv/videos/2180575222)
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
@@ -147,7 +147,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2021
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-05 tweet
+  - 2024-05 Twitter
 - - Łukasz Baliński (commentary)
   - ??
   - ??
@@ -157,15 +157,15 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - ??
   - ??
   - ??
-  - 2024-05 twitter
+  - 2024-05 Twitter
 - - Referee Seweryn
   - 2021-11
   - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 instagram
+  - 2024-06 Instagram
 - - Marcin Rzeźniczek (cofounder)
   - 2020
   - n/a
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-03 instagram
+  - 2024-03 Instagram
 {% end %}
