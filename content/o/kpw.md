@@ -15,7 +15,7 @@ Kombat Pro Wrestling launched in 2015, after the founder of [DDW](@/o/ddw.md), [
 At the end of 2014, DDW's operations moved from Rzeszów, where Roid lived with his family, to Gdańsk.
 The two cities are more than 600 km apart, and the team in Gdańsk began to run things without Roid's input. Finally, he sold the ring, closed DDW and retired from wrestling entirely.
 
-That team, consisting of several DDW alumni, bought the ring and relaunched themselves as Kombat Pro Wrestling. Their first event, [KPW vs the World](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), was held in the exact same venue as [DDW's last event](@/e/ddw/2015-05-02-ddw-house-show-2.md). Thus KPW is the direct descendant of Do or Die Wrestling.
+That team, consisting of several DDW alumni, bought the ring and relaunched themselves as Kombat Pro Wrestling. Their first event, [KPW vs the World](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), was held in the exact same venue as [DDW's final event proper](@/e/ddw/2015-05-02-ddw-house-show-2.md) (not counting their [appearance on a convention](@/e/ddw/2015-07-24-ddw-baltikon.md) two months later). Thus KPW is the direct descendant of Do or Die Wrestling.
 
 In 2016 they would relocate to Gdynia, holding their shows in a recently reopened [music club](@/v/atlantic-nh-gdynia.md). That year, KPW held the first [Godzina Zero](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md), which would later become their annual supershow, where all championships were defended. 2017 saw them move to a bigger venue in the [Gdynia Sports Center](@/v/gdynia-sports-center.md), securing support from the city.
 
