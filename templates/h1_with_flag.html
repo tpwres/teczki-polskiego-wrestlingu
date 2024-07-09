@@ -1,0 +1,16 @@
+{% set flag_dict = load_data(path="const/flags-by-code.json") %}
+{% set country_flags = page.taxonomies | get(key="country", default=[]) %}
+{% if not country_flags %}
+  {% set flag = page.extra | get(key="country_flag", default='') %}
+  {% set country_flags = [flag] %}
+{% endif %}
+<h1 class="title title-with-flag">
+  <span>{{ page.title }}</span>
+  {% if country_flags %}
+    <span class="title-flag">
+      {% for flag in country_flags %}
+        {{ flag_dict|get(key=flag|upper, default='') }}
+      {% endfor %}
+    </span>
+  {% endif -%}
+</h1>

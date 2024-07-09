@@ -55,6 +55,9 @@
   .dark-theme-icon
     display: inline
 
+  h1.title-with-flag span.title-flag
+    filter: grayscale(50%)
+
 html:not([data-theme])
   .dark-theme-icon
     display: inline
@@ -88,6 +91,10 @@ h1, h2, h3, h4, h5, h6
 
 h1.title
   color: var(--dark-green)
+
+h1.title-with-flag
+  display: flex
+  justify-content: space-between
 
 h1:not(.title)
   color: var(--dark-green)

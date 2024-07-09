@@ -1,6 +1,8 @@
 +++
 title = "Robert Star"
 template = "talent_page.html"
+[taxonomies]
+country = ["PL"]
 [extra]
 country_flag = "PL"
 +++
