@@ -2,6 +2,7 @@
 {% set flag = page.taxonomies | get(key="country", default=[]) | first %}
 <h1 class="title title-with-flag">
   <span>{{ page.title }}</span>
+  <hr class="fill"/> 
   <span class="title-flag">
     {{ flag_dict|get(key=flag|upper, default='') }}
   </span>
