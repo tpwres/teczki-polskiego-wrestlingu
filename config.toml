@@ -15,6 +15,7 @@ taxonomies = [
   { name = "chronology", render = false },
   { name = "venue", render = false },
   { name = "chrono_root", render = false },
+  { name = "country", render = false },
 ]
 
 [search]
