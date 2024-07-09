@@ -1,8 +1,8 @@
 +++
 title = "Adam Bravo"
 template = "talent_page.html"
-[extra]
-country_flag = "PL"
+[taxonomies]
+country = ["PL"]
 +++
 
 ## Professional wrestling career

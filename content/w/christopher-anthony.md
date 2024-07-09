@@ -1,6 +1,6 @@
 +++
 title = "Christopher Anthony"
 template = "talent_page.html"
-[extra]
-country_flag = "DE"
+[taxonomies]
+country = ["DE"]
 +++

@@ -1,9 +1,10 @@
 +++
 title = "Damien Rothschild"
 template = "talent_page.html"
+[taxonomies]
+country = ["PL"]
 [extra]
 career_aliases = ["Damian Lambert"]
-country_flag = "PL"
 +++
 
 Also known as: Damian Lambert.

@@ -2,9 +2,10 @@
 title = "Axel Fox"
 template = "talent_page.html"
 authors = ["Seweryn Pielucha"]
+[taxonomies]
+country = ["PL"]
 [extra]
 career_aliases = ["Amisz"]
-country_flag = "PL"
 +++
 
 ## Basic info

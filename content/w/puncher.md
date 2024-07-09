@@ -1,9 +1,10 @@
 +++
 title = 'Dawid "Puncher" Seńko'
 template = "talent_page.html"
+[taxonomies]
+country = ["PL"]
 [extra]
 career_aliases = ['Puncher', 'Dawid Seńko']
-country_flag = "PL"
 [extra.gallery]
 1 = { path = "owczy-ped-en.jpg", caption = 'Unofficial English version of the "Herd Instinct" comic.'}
 +++

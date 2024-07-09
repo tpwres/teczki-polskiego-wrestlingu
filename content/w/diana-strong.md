@@ -1,10 +1,11 @@
 +++
 title = "Diana Strong"
 template = "talent_page.html"
-[extra]
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
+[taxonomies]
+country = ["PL"]
+[extra]
 career_aliases = ["Diana", "Diana Rega"]
-country_flag = "PL"
 +++
 
 * [Diana's biography by Szymon Magdij on mywrestling](https://mywrestling.com.pl/diana-strong-krolowa-polskiego-wrestlingu/)

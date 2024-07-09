@@ -1,7 +1,8 @@
 +++
 title = "Mister Z"
 template = "talent_page.html"
+[taxonomies]
+country = ["PL"]
 [extra]
-country_flag = "PL"
 career_aliases = ["Cade Bruce"]
 +++

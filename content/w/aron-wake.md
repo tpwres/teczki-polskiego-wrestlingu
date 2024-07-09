@@ -1,8 +1,8 @@
 +++
 title = "Aron Wake"
 template = "talent_page.html"
-[extra]
-country_flag = "PL"
+[taxonomies]
+country = ["PL"]
 +++
 
 * Years active: {{ years_active() }}

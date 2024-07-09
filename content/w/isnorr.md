@@ -1,7 +1,8 @@
 +++
 title = "Isnorr"
 template = "talent_page.html"
+[taxonomies]
+country = ["PL"]
 [extra]
-country_flag = "PL"
 career_aliases = ["Norris"]
 +++
