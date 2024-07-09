@@ -5,7 +5,7 @@ template = "index.html"
 +++
 
 # Organizations
-<!-- NOTE: The tables below need to be sorted manually. Sort them by creation date, and if two or more entries have he same year, do a secondary sort by name. So for instance MZW comes before MCW, and they both come before KPW. -->
+<!-- NOTE: The tables below need to be sorted manually. Sort them by creation date, and if two or more entries have the same year, do a secondary sort by name. So for instance MZW comes before MCW, and they both come before KPW. -->
 ## Active
 
 | Years active | Name | Location |
@@ -13,7 +13,7 @@ template = "index.html"
 | 2014- | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
 | 2014- | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
 | 2015- | {{ org_badge(org='kpw') }} [Kombat Pro Wrestling](@/o/kpw.md) | Gdańsk, Gdynia |
-| 2016- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
+| 2020- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
 | 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów |
 
 
@@ -24,7 +24,6 @@ template = "index.html"
 | 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń |
 | 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, Kozłów |
 | 2024- | [Ewenement Dojo](@/o/ewenement-dojo.md) | Warsaw |
-| 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, Kozłów |
 
 ## Folded
 
