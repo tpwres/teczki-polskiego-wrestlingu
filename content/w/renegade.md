@@ -1,6 +1,6 @@
 +++
 title = "Renegade"
 template = "talent_page.html"
-[extra]
-country_flag = "HU"
+[taxonomies]
+country = ["HU"]
 +++

@@ -2,8 +2,8 @@
 title = "Justin Joy"
 template = "talent_page.html"
 career_aliases = ["Justin"]
-[extra]
-country_flag = "PL"
+[taxonomies]
+country = ["PL"]
 [extra.gallery]
 1 = { path = 'jj1.png', caption = "Justin explains his quiet exit. Background: PTW's dismissal of [Jacob Crane](@/w/jacob-crane.md)" }
 2 = { path = 'jj2.png', caption = "[LEGENDS](@/e/ptw/2022-11-26-ptw-3-legends.md) was the breaking point. Background: Joy winning over Axel Fox at that event."}

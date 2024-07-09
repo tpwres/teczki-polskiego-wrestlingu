@@ -2,9 +2,10 @@
 title = "Gabriel Queen"
 template = "talent_page.html"
 authors = ["Seweryn Pielucha"]
+[taxonomies]
+country = ["PL"]
 [extra]
 career_aliases = ["Nathan Cross"]
-country_flag = "PL"
 +++
 
 ## Basic info

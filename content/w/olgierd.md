@@ -1,9 +1,10 @@
 +++
 title = "Olgierd"
 template = "talent_page.html"
+[taxonomies]
+country = ["PL"]
 [extra]
 career_aliases = ["Hades", "Krueger"]
-country_flag = "PL"
 +++
 
 ## Basic info

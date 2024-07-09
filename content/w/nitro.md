@@ -1,7 +1,8 @@
 +++
 title = "Nitro"
 template = "talent_page.html"
+[taxonomies]
+country = ["HU"]
 [extra]
-country_flag = "HU"
 career_aliases = ['Tamas "Nitro" Szabo']
 +++

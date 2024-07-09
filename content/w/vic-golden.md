@@ -2,9 +2,10 @@
 title = "Vic Golden"
 template = "talent_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
+[taxonomies]
+country = ["PL"]
 [extra]
 career_aliases = ["Prince Victor"]
-country_flag = "PL"
 +++
 
 Also known as: Prince Victor.
