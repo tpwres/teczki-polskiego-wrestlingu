@@ -82,10 +82,10 @@ Those differences later led to conflict between Originals and other groups, who 
 ### 2022-2023: Golden Era
 
 Once the rookies roster stabilized, PTW Academy maintained regular attendance at every training session.
-Due to the unique advantage of owning two wrestling rings in the PTW Performance Center, they often split the attendees into two groups: Rookies and Journeyman (the advanced group), to provide a higher level of training.
-As the federation itself was in good standing with its sponsors, the PTW Academy benefited from that as well. The mony allowed them to provide high-grade coaches (such as Justin Joy & John Klinger), and frequent seminaries hosted by some of the ex-WWE and ex-TNA talent such as Nick Aldis and Axel Tischer.
+Due to the unique advantage of owning two wrestling rings in the PTW Performance Center, they often split the attendees into two groups: Rookies and Journeymen (the advanced group), to provide a higher level of training.
+As the federation itself was in good standing with its sponsors, the PTW Academy benefited from that as well. The money allowed them to provide high-grade coaches (such as Justin Joy & John Klinger), and frequent seminaries hosted by former WWE and TNA talent such as Nick Aldis and Axel Tischer.
 
-During this period, training sessions were held almost every weekend, with a few exceptions for the major show weekends.
+During this period, training sessions were held almost every weekend, with a few exceptions for the major shows.
 
 ### 2023-2024: Crisis and downsizing
 
@@ -94,5 +94,7 @@ Most of the training responsibilities were taken up by Taras, Disco Pablo & Nano
 with an occasional appearance from Axel Fox or Renegade.
 Overall, attendance at training weekends went slightly down due to circumstances connected directly to PTW itself.
 
-PTW Academy, along with the federation itself, changed its location in April 2024, when they moved from [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów, to Dworek pod Platanami in Kozłów, a village outside Gliwice.
-During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), a significant part of coaching staff, talent and rookies left the federation.
+PTW Academy, along with the federation itself, changed its location in April 2024, when they moved from [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów,
+to Dworek pod Platanami in Kozłów, a village outside Gliwice.
+During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md),
+a significant part of coaching staff, talent and rookies left the federation.
