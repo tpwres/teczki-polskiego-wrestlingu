@@ -7,8 +7,9 @@ from utils import parse_front_matter
 date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
 
 class Page:
-    def __init__(self, path: Path):
-        print("Loading %s" % path)
+    def __init__(self, path: Path, verbose: bool = True):
+        if verbose:
+            print("Loading %s" % path)
 
         defaults = {}
         if m := date_org_re.match(path.stem):
