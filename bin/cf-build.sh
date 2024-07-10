@@ -24,9 +24,10 @@ create_config() {
 
 
 build() {
-    python3 bin/build_metadata.py
-    python3 bin/build_roster.py
-    python3 bin/build_matches.py
+    #python3 bin/build_metadata.py
+    #python3 bin/build_roster.py
+    #python3 bin/build_matches.py
+    make
 
     zola -c build_cloudflare_config.toml build
 }
