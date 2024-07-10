@@ -1,0 +1,29 @@
+{% set toclevel = page.extra.toclevel %}
+<details class="toc">
+  <summary>Table of contents</summary>
+  <ol>
+    {% for toplevel in page.toc %}
+      <li>
+        <a href="{{ toplevel.permalink | safe }}">{{ toplevel.title }}</a>
+        {% if toclevel >= 2 %}
+          <ol>
+          {% for secondlevel in toplevel.children %}
+            <li>
+              <a href="{{ secondlevel.permalink | safe }}">{{ secondlevel.title }}</a>
+              {% if toclevel >= 3 %}
+                <ol>
+                  {% for thirdlevel in secondlevel.children %}
+                    <li>
+                      <a href="{{ thirdlevel.permalink | safe }}">{{ thirdlevel.title }}</a>
+                    </li>
+                  {% endfor %}
+                </ol>
+              {% endif %}
+            </li>
+          {% endfor %}
+          </ol>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
+</details>

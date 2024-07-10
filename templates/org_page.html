@@ -7,6 +7,10 @@
 {% block content %}
 <h1>{{ page.title }}</h1>
 
+{% if page.extra|get(key="toclevel", default=0) >= 1 %}
+  {% include "page_toc.html" %}
+{% endif %}
+
 {{ page.content | safe }}
 
 {% if not page.extra.hide_events -%}
