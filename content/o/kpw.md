@@ -56,3 +56,4 @@ The Tag Team Championship was created in 2018 and the first champions crowned in
 ### References
 
 * [Video: Top 10 moments of KPW](https://www.youtube.com/watch?v=NeyUetRatMU) by What Is Wrestling
+* Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
