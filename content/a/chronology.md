@@ -1,5 +1,5 @@
 +++
-title = "Polish wrestling chronology"
+title = "Chronology of Polish wrestling"
 template = "base_with_gallery.html"
 weight = 0
 authors = ["M3n747"]
