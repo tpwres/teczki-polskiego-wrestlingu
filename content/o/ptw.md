@@ -137,7 +137,7 @@ The initial name for the this merged promotion was "PTW: WWA" (also stylized as 
 In February 2024, PTW held their fifth major event: [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), this time in Legionowo, in the Warsaw metropolitan area.
 The Underground shows were also moved to a new location. Initially announced as Gliwice, a historical city in the west of the Silesian metropolis, the actual location turned to be a venue in the neighboring village of Kozłów, about 9 km west of the city.
 This made the Underground shows far less accessible, and sparked some criticism.
-They also lost their regularity, with [only one](@/2024-04-13-ptw-underground-21.md) being announced for April.
+They also lost their regularity, with [only one](@/e/ptw/2024-04-13-ptw-underground-21.md) being announced for April.
 That event was followed by [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) in May.
 
 #### Pawłowski's solo run
