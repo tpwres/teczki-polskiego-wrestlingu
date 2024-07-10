@@ -1,6 +1,8 @@
 +++
 title = "Robert Star"
 template = "talent_page.html"
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
@@ -55,7 +57,7 @@ On May 11th, 2024, [PpW](@/o/ppw.md) announced booking Robert Star for [Ledwo Le
 This surprised fans, but was well received, both by fans and wrestling YouTubers. PpW's wrestlers re-posted this to their Instagram stories, with comments like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery)).
 The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held that day.
 
-### References
+## References
 
 * [Facebook post saying BYE BYE](https://www.facebook.com/photo/?fbid=839973208139393&set=pb.100063801633257.-2207520000) from December 2023
 * [Robert's Instagram profile](https://www.instagram.com/realrobertstar/)

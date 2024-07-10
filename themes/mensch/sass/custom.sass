@@ -226,8 +226,6 @@ hr
   height: auto
   border-radius: 5px
 
-
-
 .date
   color: var(--dark-purple)
   font-weight: bold
@@ -314,6 +312,21 @@ nav ul li:not(.results-item)
 a:hover
   color: var(--dark-aqua)
   text-decoration: underline
+
+.toc
+  summary + ol
+    margin-top: 0
+
+  ol
+    list-style-type: none
+    counter-reset: item
+
+  li
+    counter-increment: item
+    &:before
+      content: counters(item, ".") ". "
+
+
 
 .pagination
   margin-top: 0.5rem
