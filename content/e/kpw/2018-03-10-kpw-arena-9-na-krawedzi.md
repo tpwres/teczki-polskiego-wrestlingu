@@ -13,7 +13,7 @@ Na Krawędzi (_On The Edge_) was held as part of the second SzlamFest in the B90
 This show was also the debut of the future [Chemik](@/w/chemik.md) - who appeared as a personal butler to Kawaler. Before the women's match, the Kawaleria faction installed themselves at comfy ringside seats and remained there for the rest of the evening, while the butler kept pouring vodka for them and some lucky members of the audience.
 
 {% card() %}
-- - "Ostrowski, [Peter Pannache](@/w/peter-pannache.md)"
+- - "[Boski Ostrowski](@/w/ostrowski.md), [Peter Pannache](@/w/peter-pannache.md)"
   - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md)"
   - '[Rosetti](@/w/rosetti.md)'
   - s: 2v2v1 Handicap Match
