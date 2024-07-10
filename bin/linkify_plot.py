@@ -16,9 +16,15 @@ def main(input_stream, output_stream, orgs):
     # Etree doesn't do upwards navigation
     parent_map = {child: parent for parent in tree.iter() for child in parent}
     # TODO: remove all <title> elements
-    # Find all <tspan> tags
-    tspans = root.findall('.//svg:tspan', ns)
-    for span in tspans:
+    # Remove fill from text boxes
+    for grp in root.findall(".//svg:g[@color='black']", ns):
+        grp.attrib['color'] = 'currentColor'
+        for el in grp:
+            if 'fill' not in el.attrib: continue
+            el.attrib['fill'] = 'currentColor'
+
+    # Replace text in tspan elements with links
+    for span in root.findall('.//svg:tspan', ns):
         text = span.text
         if not (text.startswith('[') or text.endswith(']')):
             continue
@@ -28,7 +34,7 @@ def main(input_stream, output_stream, orgs):
             raise ValueError(f"{key} not found in orgs list")
         path = f"/{orgs[key]}".replace(".md", "")
 
-        link = ET.SubElement(parent, "a", {"href": path})
+        link = ET.SubElement(parent, "a", {"href": path, "target": "_top"})
         link.append(span)
         span.text = key
         span.attrib['text-decoration'] = 'underline'
