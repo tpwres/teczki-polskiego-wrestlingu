@@ -1,2 +1,4 @@
 {% set content=load_data(path=path) %}
-{{ content | safe }}
+<div class="{{ class|default(value='svg-embed') }}">
+  {{ content | safe }}
+</div>
