@@ -13,6 +13,7 @@ Since the available sources vary in their quality and accuracy, many of the star
 
 {% embed_svg(path="data/chronology-hyperlinked.svg") %}
 Timeline depicting lifetimes of Polish wrestling organizations, backyards included.
+Gray boxes represent backyards.
 {% end %}
 
 ### References
