@@ -2,6 +2,8 @@
 title = "Total Blast Wrestling"
 template = "org_page.html"
 weight = 2
+[extra]
+toclevel = 3
 [taxonomies]
 chrono_root = ["tbw"]
 +++
