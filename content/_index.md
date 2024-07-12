@@ -7,10 +7,10 @@ template = "index.html"
 
 This is a project to write down and preserve the history of Polish Pro Wrestling.
 
-Currently, this history is spread across many sites: news portals, blogs, forums, other wiki sites similar to this, video sites; and Cagematch.
-But due to the nature of the (free) web, a lof of this content is no longer accessible, or degraded. TPW wants to have all wrestling shows that happened in Poland (and none other), backyards included. TPW wants to have bios on all wrestlers that appeared in Poland, local or foreign. TPW wants to preserve media that may fall of the face of the internet - photos and videos of these events.
+Currently, this history is spread across many sites: news portals, blogs, forums, other wiki sites similar to this one, video sites, and Cagematch.
+However, due to the nature of the (free) web, a lot of this content is no longer accessible, or degraded. The aim of TPW is to list all the wrestling shows that took place in Poland (backyards included), to have bios on all the wrestlers that worked in Poland (domestic and international), and to preserve media that may fall off the face of the Internet - photos and videos of these events.
 
-The official, Polish name for this project is "Teczki Polskiego Wrestlingu", which is more like _The Secret Files of Polish Wrestling_. But to keep the acronym consistent, the English-language name uses _Tales_.
+The official Polish name for this project is "Teczki Polskiego Wrestlingu", which is more like _The Secret Files of Polish Wrestling_. But to keep the acronym consistent, the English name uses _Tales_.
 
 ## Sections
 
