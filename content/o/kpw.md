@@ -3,6 +3,8 @@ title = "Kombat Pro Wrestling"
 weight = 1
 authors = ["Krzysztof Zych"]
 template = "org_page.html"
+[extra]
+toclevel = 3
 [taxonomies]
 chrono_root = ["kpw"]
 +++
