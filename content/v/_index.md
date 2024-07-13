@@ -11,6 +11,7 @@ template = "index.html"
 * [Waldorffa 25](@/v/waldorffa25.md) {{ org_badge(org='ppw') }}
 * [Teatr Komuna](@/v/teatr-komuna.md) {{ org_badge(org='ppw') }}
 * [Hala Bemowo](@/v/hala-bemowo.md) {{ org_badge(org='ptw') }}
+* [Praga Centrum](@/v/praga-centrum.md) {{ org_badge(org='ppw') }}
 
 ### Tricity area
 
