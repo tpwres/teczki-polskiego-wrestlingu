@@ -11,6 +11,7 @@ hide_results = true
 2 = { path = "ag-crane-queen.jpg", caption = "Official graphic for the [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match.", source = "Facebook PPW Ewenement"}
 3 = { path = "ag-legia-goblin.webp", caption = "Official graphic for [Goblin](@/w/goblin.md) vs Legia Łysych."}
 4 = { path ="alex-feager-canceled.jpg", caption = "[Alex Arthur](@/w/alex-arthur.md)'s Instagram story explaining he will miss his just-announced fight with [Feager](@/w/feager.md).", source = "Instagram @realalexarthur"}
+5 = { path = "dingdance-vs-dominique.jpg", caption = "Teatr Komuna's instagram story, announcing a match between two choreographers.", source = "Instagram @komunawarszawa"}
 +++
 
 "Ale Grzeje" (roughly translated as _Heat Wave_) is an upcoming event by [PpW](@/o/ppw.md), scheduled for Saturday June 13th 2024. It's the second one to be hosted by [Teatr Komuna](@/v/teatr-komuna.md), after [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
@@ -30,16 +31,23 @@ Prior to the show, PpW is holding a 5-day open seminar with [Jacob Crane](@/w/ja
   Goblin might be in trouble, as his potential allies already have problems of their own - Gabriel Queen (who just lost a tag match to Legia) is facing Crane,
   Biesiad challenges for the PpW Championship, and Johnny Blade is busy defending his newly regained UV Championship.
 * On Sunday July 7th, PpW announced [Alex Arthur](@/w/alex-arthur.md) vs [Feager](@/w/feager.md) in a chairs match. However, after a couple of hours, Alex posted an Instagram story explaining he'll "miss that battle because of his shoot job".
+* Samson was denied victory twice now: most recently Robert Star refused to let him win cleanly and forced a disqualification, and previously it was Mister Z's associate Gustav Gryffin who stole the victory. Fed up with this rampant cronyism, Samson challenged Mister Z for a singles match.
+* On their social media, Teatr Komuna advertised a wrestling contest between two theatrical performers to take place during the pre-show. Both contestants are dancers and choreographers, and Dominik Więcek trained with PPW while preparing for [Glory Game][glory-game], also on Teatr Komuna's stage.
 
 Predicted card based on social media:
 
 {% card() %}
+- - Natalia Dinges
+  - Dominik Więcek
+  - s: Pre-Show Match
+    nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - nc: upcoming
+  - c: PpW Championship
+    nc: upcoming
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)(c)'
   - c: PpW European Ultraviolent Title Deathmatch
@@ -48,6 +56,9 @@ Predicted card based on social media:
   - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
   - s: Tag Team Match
     nc: upcoming
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Samson](@/w/samson.md)'
+  - nc: upcoming
 {% end %}
 
 ### References
@@ -58,3 +69,4 @@ Predicted card based on social media:
 * [Facebook announcement of Goblin vs Legia](https://www.facebook.com/OficjalnePPW/posts/pfbid025CV6NVnhWE3BiijAMrECRcY6K68u2FPRhoo48M45ZH5jFpUWf2xjuoEz25nvYZrgl)
 
 [reel-olgierd-gryffin]: https://www.instagram.com/p/C84x6jeIuFU/
+[glory-game]: https://komuna.warszawa.pl/events/glory-game-rez-dominik-wiecek/
