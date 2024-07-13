@@ -89,6 +89,9 @@ Shortly before the show, they were trading insults and challeneges online with L
     n: Originally a 1-1 match, the other two opponents added themselves.
 {% end %}
 
+Host and Ring Announcer: Michael HT \
+Referees: Sędzia Karol Górski, Sędzia Kornel
+
 ### References
 
 * [Facebook post announcing Gustav vs Goblin II](https://www.facebook.com/OficjalnePPW/posts/pfbid02iGFhFNmgVNxhonkm9tESeyEbatpvufnCvHeezjcAa9xU3A8G7dnToAQcUDcd9vWYl)
