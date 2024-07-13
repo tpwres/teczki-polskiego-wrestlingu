@@ -14,3 +14,8 @@ The capacity is approximately 600-700 standing spectators.
 Praga Centrum is located in the Praga Północ district of Warsaw at Szwedzka 2/4 street.
 It is located within walking distance of the "Dworzec Wileński" train station, and very close to the "Szwedzka" metro station.
 Despite its localization on the right bank of the Vistula river, mass transit availability is fairly decent, allowing people to get there from the city center in less than 25 minutes.
+
+## References
+
+* [Praga Centrum's official website](https://pragacentrum.pl/pl/)
+* [Official Facebook page](https://www.facebook.com/pragacentrum)
