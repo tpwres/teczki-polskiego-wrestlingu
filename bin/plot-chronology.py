@@ -86,15 +86,15 @@ def main(source_filename: Path, output_stream: TextIO):
 
 def build_colormap():
     return colors.ListedColormap([
-        'gray',
-        '#9400d3',
-        '#009e73',
-        '#56b4e9',
-        '#e69f00',
-        '#f0e442',
-        '#0072b2',
-        '#e51e10',
-        '#10e5c9'
+        'gray', #backyard
+        '#FFFF00', #SupronStars
+        '#BFCCFF', #PPWF
+        '#FF9E23', #DDW
+        '#FF0000', #TBW
+        '#770077', #PpW
+        '#00B200', #MZW
+        '#0066CC', #KPW
+        '#000000'  #PTW
     ])
 
 def setup():
