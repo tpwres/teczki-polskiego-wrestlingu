@@ -1,30 +1,49 @@
 #! /usr/bin/env python3
 
 from xml.etree import ElementTree as ET
-from sys import stdin, stdout
+from sys import stdin, stdout, stderr
 from pathlib import Path
 from page import Page
 
 def main(input_stream, output_stream, orgs):
     ns = dict(
-        svg = 'http://www.w3.org/2000/svg'
+        svg = 'http://www.w3.org/2000/svg',
+        xlink = "http://www.w3.org/1999/xlink",
+        dc="http://purl.org/dc/elements/1.1/",
+        cc="http://creativecommons.org/ns#",
+        rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     )
-    ET.register_namespace('', ns['svg']) # Don't output ns0:svg, browser gets confused
+    for key, url in ns.items():
+        if key == 'svg':
+            # Don't output ns0:svg, browser gets confused
+            ET.register_namespace('', url)
+        else:
+            ET.register_namespace(key, url)
 
     tree = ET.parse(input_stream)
     root = tree.getroot()
     # Etree doesn't do upwards navigation
     parent_map = {child: parent for parent in tree.iter() for child in parent}
     # TODO: remove all <title> elements
-    # Remove fill from text boxes
-    for grp in root.findall(".//svg:g[@color='black']", ns):
-        grp.attrib['color'] = 'currentColor'
-        for el in grp:
-            if 'fill' not in el.attrib: continue
-            el.attrib['fill'] = 'currentColor'
+
+    # Make all text use currentColor
+    for fig in root.findall(".//svg:g", ns):
+        fig.attrib['fill'] = 'currentColor'
+
+    # Make graph axes use currentColor
+    for path in root.findall(".//svg:path", ns):
+        style = path.attrib.get('style', '')
+        new_style = style.replace('stroke: #000000', 'stroke: currentColor')
+        path.attrib['style'] = new_style
+
+    # Make graph ticks use currentColor. This is a bit trickier as they reuse a path element,
+    # but apply style to it. The path element was updated in the loop above.
+    for use in root.findall(".//svg:use", ns):
+        style = use.attrib['style']
+        use.attrib['style'] = style.replace('stroke: #000000', 'stroke: currentColor')
 
     # Replace text in tspan elements with links
-    for span in root.findall('.//svg:tspan', ns):
+    for span in root.findall('.//svg:text', ns):
         text = span.text
         if not (text.startswith('[') or text.endswith(']')):
             continue
@@ -57,4 +76,4 @@ def load_orgs():
 
 if __name__ == "__main__":
     orgs = load_orgs()
-    main(stdin, stdout, orgs)
+    main(open('data/chronology-plot.svg'), stdout, orgs)

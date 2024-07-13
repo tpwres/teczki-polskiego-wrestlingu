@@ -2,7 +2,7 @@
 set -x
 
 deps() {
-    pip3 install pyyaml
+    pip3 install -r requirements.txt
 }
 
 lint() {
@@ -27,7 +27,7 @@ build() {
     #python3 bin/build_metadata.py
     #python3 bin/build_roster.py
     #python3 bin/build_matches.py
-    make
+    make all plot
 
     zola -c build_cloudflare_config.toml build
 }

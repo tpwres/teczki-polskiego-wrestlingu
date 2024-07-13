@@ -22,7 +22,7 @@ clean-plot:
 	rm -rf data/chronology-hyperlinked.svg data/chronology-plot.svg
 
 data/chronology-plot.svg: const/chronology.csv
-	bin/plot-chronology.sh $^ svg > $@
+	bin/plot-chronology.py $^ > $@
 
 data/chronology-hyperlinked.svg: data/chronology-plot.svg bin/linkify_plot.py
 	bin/linkify_plot.py < $< > $@
