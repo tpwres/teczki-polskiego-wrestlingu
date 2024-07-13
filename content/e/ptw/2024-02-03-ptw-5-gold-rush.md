@@ -61,7 +61,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - Karolina (Pawłowski's real-life partner)
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
-  - '[Bad Bones](@/w/bad-bones.md), Marcin "Rzeźnik" Rzeźniczak'
+  - '[Bad Bones](@/w/bad-bones.md), Marcin "Rzeźnik" Rzeźniczek'
   - g: true
     s: "Pawłowski's in-ring proposal"
 {% end %}

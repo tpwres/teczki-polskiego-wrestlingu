@@ -7,6 +7,7 @@ authors = ["Krzysztof Zych"]
 chrono_root = ["ppw"]
 [extra]
 year_list_start = 2017
+toclevel = 3
 [extra.gallery]
 1 = { path = "backyard_korzenie.jpg", caption = '[Mister Zet](@/w/mister-z.md) (left) and [Gustav Gryffin](@/w/gustav-gryffin.md) in front of presumably the new ring. Text: "Today Mister Z showed me his roots"' }
 2 = { path = "biesiad_dive.jpg", caption = '[Biesiad](@/w/biesiad.md) testing the new ring by diving into some foam padding. Text: What a backyard, (expletive).' }
@@ -23,7 +24,7 @@ The official name is just "PpW Ewenement". The word _ewenement_ means something 
 
 ### History
 
-#### 2010: backyard years
+#### 2010: The backyard years
 
 PpW dates its origins back to 2010, when a group of teenage friends and classmates started emulating their favourite wrestlers. The original arena for their matches was a public playground, and later a common yard which gave the organization its first name: Polski Podwórkowy Wrestling (_Polish Yard Wrestling_ - note that backyards, in the Anglo-Saxon world defined as private enclosed outdoor areas behind terraced houses, are not common in Poland).
 Until about 2014 the primary location was placed next to the intersection of Kuratowski and Arbuzowa streets in Warsaw. The name for this venue was [Placyk PPW](http://ppw-fandom.tpwres.pl/placyk-ppw), and it had no proper ring.
@@ -36,7 +37,7 @@ An actual ring, though undersized, was created in 2017, designed by [Rob Scaffol
 
 Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, many of which can be traced back to [DDW](@/o/ddw.md).
 
-#### 2019: going pro
+#### 2019: Going pro
 
 Probably the first event that PpW held for an open audience (as opposed to just friends and insiders to the backyard scene) was 2019's [2Koła to my nie zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md), followed by [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md).
 The latter event began PpW's pro era. It was the first one to invite foreign guests, and PpW's wrestlers started receiving professional training: first from [Jacob Crane](@/w/jacob-crane.md) and later also by the invited guests who would hold training sessions.
@@ -54,7 +55,7 @@ The involvement of Supron suggest that this may be the very same ring he [bought
 
 (Scroll down to the [gallery](./#gallery) to view screenshots of the stories mentioned.)
 
-### Lost Lore
+### Lost lore
 
 PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023. The Internet Archive's Wayback Machine only had an [incomplete version](https://web.archive.org/web/20230422172700/https://ppwofficial.fandom.com/pl/wiki/PPW) available. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.
 

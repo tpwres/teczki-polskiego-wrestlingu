@@ -16,7 +16,7 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
 
 ## Basic info
 
-* Years active: July 2024-current, previously as PpW Dojo
+* Years active: July 2024-current (operated as PpW Dojo prior to 2024)
 * Coaching staff:
   - [Jacob Crane](@/w/jacob-crane.md) - Head Coach
   - [Biesiad Strong](@/w/biesiad.md) - Martial Arts Coach
@@ -34,10 +34,10 @@ The foundation of Ewenement Dojo was announced on June 8th 2024, at [PpW Ledwo L
 Ewenement Dojo is an evolution of PpW Dojo, which previously operated semi-officially, and was partially closed for rookies.
 In reality it was an auxiliary dojo with no consistent schedule, where PpW talent trained under [Jacob Crane](@/w/jacob-crane.md) and [Justin Joy](@/w/justin-joy.md).
 
-Preceding it was the Summer Wrestling Camp organised by PpW with Jacob Crane as Head Coach, fresh after his return from a 3-month stint with Big Japan Wrestling.
+Preceding it was the Summer Wrestling Camp organised by PpW with Jacob Crane as Head Coach, fresh after his return from a three-month stint with Big Japan Wrestling.
 
-For the first time in Polish wrestling's history, it was announced that the training sessions will be held mainly on weekly basis, instead of weekend-only two day training regimes.
-This change was inspired by German dojos such as wXw Academy, and martial arts dojos.
+For the first time in the Polish wrestling history, it was announced that the training sessions will be held mainly on a weekly basis instead of weekend-only two day training regimes.
+This change was inspired by German dojos such as wXw Academy, as well as martial arts dojos.
 
 ## References
 

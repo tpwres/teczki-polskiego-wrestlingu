@@ -6,6 +6,7 @@ template = "org_page.html"
 [taxonomies]
 chrono_root = ["mzw"]
 [extra]
+toclevel = 3
 allow_section_pagination = true
 +++
 
