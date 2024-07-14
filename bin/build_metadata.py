@@ -49,6 +49,12 @@ def update_career(career: dict[str, CareerYears], page: Page):
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
 
+    if not card.crew: return
+    for person in card.crew.members:
+        entry = career.setdefault(person.name, {})
+        year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+        year.update(orgs)
+
 def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
     result = left.copy()
     for key in right:
