@@ -18,7 +18,6 @@
 {% set appearances = load_data(path="data/appearances.json") %}
 {% set crew_appearances = load_data(path="data/crew_appearances.json") %}
 {% set_global all_names = [] %}
-{% set_global names_parsed = [] %}
 
 {# The careers dict contains all names, with and without articles #}
 {% for name, _ in career_dict %}
@@ -47,38 +46,7 @@
     {% set pair = [name|slugify, name, 'U', false] %}
     {% set_global all_names = all_names | concat(with=[pair]) %}
   {% endif %}
-  {% set_global names_parsed = names_parsed|concat(with=name) %}
 {% endfor %}
-
-{# Identical to the above, but looking in crew_appearances #}
-{% for name, _ in crew_appearances %}
-  {% if names_parsed is containing(name) %}{% continue %}{% endif %}
-  {% set talent_page = all_talent_pages|filter(attribute='title', value=name)|first %}
-  {% if not talent_page %}
-    {% set talent_page = all_talent_pages|filter(attribute='extra.career_name', value=name)|first %}
-  {% endif %}
-  {% if talent_page %}
-    {# This name has an actual talent page, record this as a P(age) record #}
-    {% set pair = [name|slugify, name, 'P', talent_page] %}
-    {% set_global all_names = all_names | concat(with=[pair]) %}
-    {# Title may be different from career dict entry #}
-    {% if talent_page.title != name %}
-      {% set pair = [talent_page.title|slugify, talent_page.title, 'T', talent_page, name] %}
-      {% set_global all_names = all_names | concat(with=[pair]) %}
-    {% endif %}
-    {% set xtra = talent_page.extra %}
-    {# And it may have some aliases. Record this as an A(lias) record, pointing to the main name #}
-    {% for alias in xtra|get(key='career_aliases', default=[]) %}
-      {% set alias_pair = [alias|slugify, alias, 'A', talent_page] %}
-      {% set_global all_names = all_names | concat(with=[alias_pair]) %}
-    {% endfor %}
-  {% else %}
-    {# Otherwise, no talent page, record this as an U record #}
-    {% set pair = [name|slugify, name, 'U', false] %}
-    {% set_global all_names = all_names | concat(with=[pair]) %}
-  {% endif %}
-{% endfor %}
-
 
 {% set all_names = all_names | sort(attribute='0') %}
 {% set alphabet = 'ABCDEFGHIJKLŁMNOPQRSŚTUVWXYZ' %}
