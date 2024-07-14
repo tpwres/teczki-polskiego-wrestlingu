@@ -6,6 +6,7 @@
 {% endif %}
 {% set appearances_by_date = my_appearances | sort(attribute='d') %}
 
+{% if my_appearances %}
 <h3>Crew appearances</h3>
 <ul class="career crew-career">
     <li class="header">
@@ -28,3 +29,4 @@
         </span>
     {% endfor %}
 </ul>
+{% endif %}
