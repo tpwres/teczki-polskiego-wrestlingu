@@ -36,13 +36,16 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
 - - '[Puncher](@/w/puncher.md)(c)'
   - Marius Al-Ani(c)
   - c: "PTW Championship & WWA Championship"
+- credits:
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: Łukasz "Balik" Baliński
+    Ring announcer, host, guest commentary, authority figure: '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+
 {% end %}
 
-Commentary: Łukasz "Typowy Balik" Baliński. Due to him working solo, the show saw a lot of guest commentators. \
-Ring announcer, host, guest commentary, authority figure: Arkadiusz "Pan" Pawłowski \
+Due to Balik working solo commentary, the show saw a lot of guest commentators. \
 Guest commentary: Olgierd, Marco Hammers (during the other's match) \
 Sponsor representative: Łukasz Okoński, for Comedy Show \
-Referees: Klaudiusz, Seweryn
 
 ### Full report
 

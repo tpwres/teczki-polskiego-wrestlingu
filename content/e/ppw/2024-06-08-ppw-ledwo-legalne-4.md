@@ -87,10 +87,10 @@ Shortly before the show, they were trading insults and challeneges online with L
   - c: PPW European Ultraviolent Championship
     s: Born To Be Wired Elimination Match
     n: Originally a 1-1 match, the other two opponents added themselves.
+- credits:
+    Referees: Sędzia Karol Górski, Sędzia Kornel
+    Host and Ring Announcer: Michael HT
 {% end %}
-
-Host and Ring Announcer: Michael HT \
-Referees: Sędzia Karol Górski, Sędzia Kornel
 
 ### References
 

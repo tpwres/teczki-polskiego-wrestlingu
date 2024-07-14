@@ -60,10 +60,10 @@ For this show, a significant portion of the match card was filled by guest wrest
   - Joseph Conners
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Iva Kolasky'
+- credits:
+    Referee: Sędzia Klaudiusz
+    Host, ring announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski \
-Referee: Klaudiusz
 
 ### References
 

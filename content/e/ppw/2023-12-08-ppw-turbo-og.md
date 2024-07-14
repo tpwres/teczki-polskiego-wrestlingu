@@ -28,10 +28,10 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 - - "[Johnny Blade](@/w/johnny-blade.md)"
   - Chris X
   - s: "Christmas Massacre"
+- credits:
+    Ring Announcer and host: Michael HT
+    Referees: Sędzia Kornel, Sędzia Borys
 {% end %}
-
-Referees: Kornel and Borys \
-Ring Announcer and MC: Michael HT
 
 ## Aftermath
 

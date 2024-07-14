@@ -42,12 +42,12 @@ For this event, PTW invited several guests from the independent European and Ame
 - ['[Krampus](@/w/krampus.md)', Marty Scurll]
 - [Joe Hendry, "[Gabriel Queen](@/w/gabriel-queen.md); [TAXI Złotówa](@/w/taxi-zlotowa.md)"]
 - [Nick Aldis, Chris Masters]
+- credits:
+    Commentary: Arkadiusz Paterek, Łukasz "Balik" Baliński
+    English commentary: Dave Bradshaw, Santino
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Matek'
+    Host, ring announcer, GM: '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
-
-Commentary: Arkadiusz Paterek, Łukasz "Balik" Baliński \
-English commentary: Dave Bradshaw, Santino \
-Referees: Seweryn, Matek \
-Host, ring announcer, GM: Arkadiusz "Pan" Pawłowski
 
 ### Recap
 
