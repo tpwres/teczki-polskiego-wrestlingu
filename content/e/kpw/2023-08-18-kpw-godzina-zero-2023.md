@@ -44,6 +44,9 @@ All three championships were defended and two changed hands. The Magnificent Sev
   - '[Zefir](@/w/zefir.md)'
   - s: Championship Contract Battle Royal
 - [Red Scorpion, '[Greg](@/w/greg.md)(c)', {c: KPW Championship, r: Submission}]
+- credits:
+    Referees: Krystian Czekaj
+    Ring announcer: Kinga Miotke
 {% end %}
 
 
