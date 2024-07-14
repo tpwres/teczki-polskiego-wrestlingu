@@ -4,8 +4,6 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
 venue=["teatr-komuna"]
-[extra]
-hide_results = true
 [extra.gallery]
 1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has Jakob Sigmarsson and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Facebook PPW Ewenement"}
 2 = { path = "ag-crane-queen.jpg", caption = "Official graphic for the [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match.", source = "Facebook PPW Ewenement"}
@@ -34,31 +32,25 @@ Prior to the show, PpW is holding a 5-day open seminar with [Jacob Crane](@/w/ja
 * Samson was denied victory twice now: most recently Robert Star refused to let him win cleanly and forced a disqualification, and previously it was Mister Z's associate Gustav Gryffin who stole the victory. Fed up with this rampant cronyism, Samson challenged Mister Z for a singles match.
 * On their social media, Teatr Komuna advertised a wrestling contest between two theatrical performers to take place during the pre-show. Both contestants are dancers and choreographers, and Dominik Więcek trained with PPW while preparing for [Glory Game][glory-game], also on Teatr Komuna's stage.
 
-Predicted card based on social media:
-
 {% card() %}
-- - Natalia Dinges
-  - Dominik Więcek
-  - s: Pre-Show Match
-    nc: upcoming
+- - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
+  - '[Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
+  - s: Tag Team Match
+- - '[Feager](@/w/feager.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - nc: upcoming
+- - Natalia Dinges
+  - Dominik Więcek
+  - s: Theatrical Slow-Mo Match
+- - '[Samson](@/w/samson.md)'
+  - '[Mister Z](@/w/mister-z.md)'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - c: PpW Championship
-    nc: upcoming
-- - '[Isnorr](@/w/isnorr.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+- - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - '[Isnorr](@/w/isnorr.md)'
   - c: PpW European Ultraviolent Title Deathmatch
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md), TBA'
-  - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[Mister Z](@/w/mister-z.md)'
-  - '[Samson](@/w/samson.md)'
-  - nc: upcoming
 {% end %}
 
 ### References
