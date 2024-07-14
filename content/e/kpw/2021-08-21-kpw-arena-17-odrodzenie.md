@@ -23,6 +23,9 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
   "[Eryk Lesak](@/w/eryk-lesak.md), Piotr Opolski", {s: Tag Team Match}]
 - ['[Greg](@/w/greg.md)', Crowchester]
 - ['[David Oliwa](@/w/david-oliwa.md)(c)', Michael Kovac, {c: KPW OldTown Championship}]
+- credits:
+    Referees: Krystian Czekaj
+    Ring announcer: Kinga Różańska
 {% end %}
 
 #### Recap and aftermath
