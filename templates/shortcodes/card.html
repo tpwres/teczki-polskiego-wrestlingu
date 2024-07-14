@@ -48,9 +48,10 @@
 {% if last_row is object and 'credits' in last_row %}
   {% set credits = last_row | get(key='credits') %}
   <h4>Cast and crew</h4>
-  <ul class="event-cast-members">
+  <dl class="event-cast-members">
   {% for role, people in credits %}
-    <li>{{ role }}: {{ people | markdown(inline=true) | safe }}</li>
+    <dt>{{ role }}</dt>
+    <dd>{{ people | markdown(inline=true) | safe }}</dd>
   {% endfor %}
-  </ul>
+  </dl>
 {% endif %}

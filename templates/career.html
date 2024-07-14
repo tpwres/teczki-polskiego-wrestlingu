@@ -1,11 +1,8 @@
 {% set org_styles = config.extra.org_styles %}
 {% set careers = load_data(path="data/career.json") %}
 {% set empty_career = [] | group_by(attribute='0') %}
-{% if page.extra.career_name %}
-  {% set mycareer = careers | get(key=page.extra.career_name, default=empty_career) %}
-{% else %}
-  {% set mycareer = careers | get(key=page.title, default=empty_career) %}
-{% endif %}
+{% set career_key = page.extra | get(key='career_name', default=page.title) %}
+{% set mycareer = careers | get(key=career_key, default=empty_career) %}
 
 {% if mycareer %}
   <h3>Appearances per promotion and year</h3>
@@ -19,5 +16,4 @@
 
 {% include "talent_matchlist.html" %}
 
-{# TODO: Display entries from crew_appearances #}
 {% include "crew_appearance_list.html" %}
