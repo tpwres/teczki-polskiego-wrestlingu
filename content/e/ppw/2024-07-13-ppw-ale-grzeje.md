@@ -37,7 +37,7 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
   - '[Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match
 - - '[Feager](@/w/feager.md)'
-  - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
 - - Natalia Dinges
