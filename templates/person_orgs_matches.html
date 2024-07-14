@@ -1,7 +1,12 @@
-{% set_global all_my_matches = [] %}
+{% set_global all_appearances = [] %}
 {% for app in appearances_entry %}
   {% set match = all_matches[app] %}
-  {% set_global all_my_matches = all_my_matches | concat(with=match) %}
+  {% set_global all_appearances = all_appearances | concat(with=match) %}
+{% endfor %}
+
+{# We can just concat them onto the list of matches - both are similar in structure #}
+{% for app in crew_appearances_entry %}
+  {% set_global all_appearances = all_appearances | concat(with=app) %}
 {% endfor %}
 
 {# Calculate orgs from career_entry #}
@@ -30,8 +35,8 @@
 {% for o in orgs %}
   <span class="ot">
     {{ macros::promolink_color_span(code=o, styles=org_styles) }}
-    {% if all_my_matches|length < 5 %}
-      {% for match in all_my_matches|sort(attribute='d') %}
+    {% if all_appearances|length < 5 %}
+      {% for match in all_appearances|sort(attribute='d') %}
         {% if not match.o is containing(o) %} {% continue %} {% endif %}
         {% if used_events is containing(match.p) %} {% continue %} {% endif %}
         <a href="{{ get_url(path="@/" ~ match.p) }}">[{{ i }}]</a>
