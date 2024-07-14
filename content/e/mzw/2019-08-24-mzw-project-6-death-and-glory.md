@@ -19,13 +19,11 @@ venue = ["czasoprzestrzen"]
   - '[Nathan Cross](@/w/gabriel-queen.md)'
   - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - Anatolii
-  - Ring Rat
+  - '[Ring Rat](@/w/sedzia-seweryn.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
   - s: "Rookie Battle Royal"
-    n:
-     - Ring Rat was Referee Seweryn
-     - Nathan Cross came as runner-up
+    n: Nathan Cross finished runner-up
 - ['[Asmund](@/w/asmund.md)', "[Damien Rothschild](@/w/damien-rothschild.md)(c)",
   {c: "MZW Championship"}]
 {% end %}
