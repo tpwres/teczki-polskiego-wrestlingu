@@ -33,8 +33,8 @@ def main(input_stream, output_stream, orgs):
     # Make graph axes use currentColor
     for path in root.findall(".//svg:path", ns):
         style = path.attrib.get('style', '')
-        new_style = style.replace('stroke: #000000', 'stroke: currentColor')
-        path.attrib['style'] = new_style
+        path.attrib['style'] = style.replace('stroke: #000000', 'stroke: currentColor') \
+                                    .replace('fill: #ff00ff', 'fill: var(--bg)')
 
     # Make graph ticks use currentColor. This is a bit trickier as they reuse a path element,
     # but apply style to it. The path element was updated in the loop above.
@@ -61,7 +61,41 @@ def main(input_stream, output_stream, orgs):
         parent.append(link)
 
     tree.write(output_stream, encoding="unicode", default_namespace='')
+    emit_js(output_stream)
 
+EXTRA_GRAPH_JS = """
+document.addEventListener('DOMContentLoaded', (e) => {
+  let svg = document.querySelector('.svg-embed svg')
+  svg.querySelectorAll('[id^=ann]').forEach((el) => el.style.visibility = 'hidden')
+  const debounce = (callback, wait) => {
+    let timeoutId = null;
+    return (...args) => {
+      window.clearTimeout(timeoutId);
+      timeoutId = window.setTimeout(() => {
+        callback(...args);
+      }, wait);
+    };
+  }
+  const handler = (ev) => {
+    let g = ev.target.closest('g')
+    let m = g.id.match(/^bar-(.*)/)
+    let ann = svg.querySelector(`#ann-${m[1]}`)
+    if (ann) {
+      if (ev.type == 'mouseover')
+        ann.style.visibility = ''
+      else if (ev.type == 'mouseout')
+        ann.style.visibility = 'hidden'
+    }
+  }
+  svg.querySelectorAll('[id^=bar]').forEach((el) => {
+    el.addEventListener('mouseover', debounce(handler, 300))
+    el.addEventListener('mouseout', debounce(handler, 300))
+  })
+})
+"""
+
+def emit_js(io):
+    io.write(f"<script type='module'>{EXTRA_GRAPH_JS}</script>")
 
 def load_orgs():
     cwd = Path.cwd()

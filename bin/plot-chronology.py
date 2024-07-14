@@ -49,6 +49,7 @@ def main(source_filename: Path, output_stream: TextIO):
     loc = AutoDateLocator()
     loc.intervald[YEARLY] = [1]
     ax.xaxis.set_minor_locator(loc)
+    ax.xaxis.grid(visible=True, alpha=0.4)
 
     # Select palette. Replicate the one that gnuplot generated.
     colormap = build_colormap()
@@ -66,7 +67,14 @@ def main(source_filename: Path, output_stream: TextIO):
 
         c = int(color_index)
         # Note that low is a datetime object, and d (width) is a timedelta value
-        ax.barh(index, d, left=low, color=colormap(c))
+        ax.barh(index, d, left=low, color=colormap(c), gid=f"bar-{index}-{color_index}")
+        ax.annotate(annotation_text(low, high),
+                    xy=(low, index),
+                    xytext=(-5, 1.5), textcoords='offset fontsize',
+                    # This facecolor is later replaced
+                    bbox=dict(boxstyle='square', facecolor='#ff00ff'),
+                    gid=f"ann-{index}-{color_index}",
+                    annotation_clip=False)
 
     # Assign tick labels on the y axis. Range starts from 1 to match csv file
     y_pos = [x for x in range(1, len(labels)+1)]
@@ -82,7 +90,12 @@ def main(source_filename: Path, output_stream: TextIO):
     plt.tight_layout()
     # bbox_inches and pad_inches control padding
     plt.savefig(output_stream, format='svg', pad_inches=0, transparent=True)
-    # plt.show()
+
+def annotation_text(low, high):
+    if high.year == 2099:
+        return f"since {low.strftime('%b %Y')}"
+    else:
+        return f"{low.strftime('%b %Y')} - {high.strftime('%b %Y')}"
 
 def build_colormap():
     return colors.ListedColormap([
