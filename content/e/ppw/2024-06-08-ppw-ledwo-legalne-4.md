@@ -80,8 +80,8 @@ Shortly before the show, they were trading insults and challeneges online with L
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - c: PPW Championship
-- - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
   - c: PPW European Ultraviolent Championship
