@@ -56,6 +56,9 @@ The foreign guests for the event were:
   - {s: Three Stages of Hell Match, c: KPW Championship}
 - ['[Rosetti](@/w/rosetti.md)', '[David Oliwa](@/w/david-oliwa.md)(c)', {c: KPW OldTown
       Championship}]
+- credits:
+    Referees: Krystian Czekaj
+    Ring announcer: Kinga Miotke
 {% end %}
 
 #### Recap
