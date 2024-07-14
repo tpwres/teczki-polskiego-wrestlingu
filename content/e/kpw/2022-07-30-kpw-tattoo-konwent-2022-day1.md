@@ -20,6 +20,9 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
   {s: Three Way Match}]
 - ["[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)", "The Fux Brothers:
     [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"]
+- credits:
+    Referees: Krystian Czekaj
+    Ring announcer: Kinga Różańska
 {% end %}
 
 
