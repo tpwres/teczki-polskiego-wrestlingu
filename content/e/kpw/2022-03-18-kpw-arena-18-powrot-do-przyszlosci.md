@@ -33,6 +33,9 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
       Match}]
 - ['[Greg](@/w/greg.md)', '[Ron Corvus](@/w/ron-corvus.md)', {s: "Hardcore Match for
       KPW Championship #1 Contender"}]
+- credits:
+    Referees: Krystian Czekaj
+    Ring announcer: Kinga Różańska
 {% end %}
 
 #### Recap and aftermath
