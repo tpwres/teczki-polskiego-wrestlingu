@@ -28,6 +28,9 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 - - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - {s: Hair vs Mustache Tag Team Match, c: KPW Tag Team Championship}
+- credits:
+    Referees: Krystian Czekaj
+    Ring announcer: Kinga Miotke
 {% end %}
 
 #### Recap
