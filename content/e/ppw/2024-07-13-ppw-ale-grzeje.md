@@ -12,10 +12,10 @@ venue=["teatr-komuna"]
 5 = { path = "dingdance-vs-dominique.jpg", caption = "Teatr Komuna's instagram story, announcing a match between two choreographers.", source = "Instagram @komunawarszawa"}
 +++
 
-"Ale Grzeje" (roughly translated as _Heat Wave_) was an event held by [PpW](@/o/ppw.md) on Saturday June 13th 2024. It was the second one to be hosted by [Teatr Komuna](@/v/teatr-komuna.md), after [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) earlier in February that year.
+"Ale Grzeje" (roughly translated as _Heat Wave_, or more accurately as _Man, Is It Hot!_) was an event held by [PpW](@/o/ppw.md) on Saturday June 13th 2024. It was the second one to be hosted by [Teatr Komuna](@/v/teatr-komuna.md), after [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February that year.
 
 The announcement post featured the show's official poster, focusing on the term "Zmowa" (roughly translated as _Collusion_), promising the hottest (literally and figuratively) show of the summer.
-The hype text suggested "collusion versus collusion" - which refers to [Biesiad's](@/w/biesiad.md) plan to exact revenge, and thwart [Mister Z](@/w/mister-z.md)'s and [Gustav Gryffin](@/w/gustav-gryffin.md)'s new alliance that screwed him of the PpW Championship belt at [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+The hype text suggested "a collusion against the collusion" - which refers to [Biesiad's](@/w/biesiad.md) plan to exact revenge, and thwart [Mister Z](@/w/mister-z.md)'s and [Gustav Gryffin](@/w/gustav-gryffin.md)'s new alliance that screwed him out of the PpW Championship belt at [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
 Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they called their "summer course". This later turned into [Ewenement Dojo](@/o/ewenement-dojo.md), PpW's official wrestling school with Crane and Biesiad as coaches.
 
@@ -25,12 +25,12 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
 * In an [Instagram reel][reel-olgierd-gryffin], Gustav reached out to Olgierd and offered Legia Łysych ([Olgierd](@/w/olgierd.md) & [Hammers](@/w/marco-hammers.md)) a match against Goblin.
   To rile Olgierd up, Gustav suggested that Goblin is "stealing Legia's colors" (coincidental similarity as both Goblin and Legia wear white, red and green).
   They implied that Legia will have a significant advantage, because Goblin is too crazy to find himself a partner.
-* Unless Goblin is able to find a partner, it will be a handicap match, as confirmed in announcement post.
+* Unless Goblin is able to find a partner, it will be a handicap match, as confirmed in the announcement post.
   Goblin might be in trouble, as his potential allies already have problems of their own - Gabriel Queen (who just lost a tag match to Legia) is facing Crane,
   Biesiad challenges for the PpW Championship, and Johnny Blade is busy defending his newly regained UV Championship.
 * On Sunday July 7th, PpW announced [Alex Arthur](@/w/alex-arthur.md) vs [Feager](@/w/feager.md) in a chairs match. However, after a couple of hours, Alex posted an Instagram story explaining he'll "miss that battle because of his shoot job".
 * Samson was denied victory twice now: most recently Robert Star refused to let him win cleanly and forced a disqualification, and previously it was Mister Z's associate Gustav Gryffin who stole the victory. Fed up with this rampant cronyism, Samson challenged Mister Z for a singles match.
-* On their social media, Teatr Komuna advertised a wrestling contest between two theatrical performers to take place during the pre-show. Both contestants are dancers and choreographers, and Dominik Więcek trained with PPW while preparing for [Glory Game][glory-game], also on Teatr Komuna's stage.
+* On their social media, Teatr Komuna advertised a wrestling contest between two theatrical performers to take place during the pre-show. Both contestants are dancers and choreographers, and Dominik Więcek trained with PpW while preparing for [Glory Game][glory-game], also on Teatr Komuna's stage.
 
 {% card() %}
 - - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
