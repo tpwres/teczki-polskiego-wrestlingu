@@ -95,6 +95,7 @@ Available options are:
 A special row in the card has no opponents, but only options. The list of available options is different for special rows.
 
 - `d: DELIMITER TEXT` - inserts a `d`elimiter row. Provided text will be centered across the whole width of the table, in a bold font. **Match numbering restarts after a delimiter.**
+- `credits: CREDITS` - adds an invisible row, that won't be included as part of the match card, but listed below it in a section called "Cast and crew"
 
 Examples:
 
@@ -117,8 +118,19 @@ Examples:
 - [Lita, Edge, { g: true, s: Live Sex Celebration}]
 # A delimiter marking Day 2 of the event
 - d: 'Day 2'
+# Cast credits for a show
+- credits:
+    Referees: Aubrey Edwards, Red Shoes
+    Ring announcer: Justin Roberts
 ```
 
 ### Special cases
 
 Sometimes the full participants of a multi-man rumble-style match are unknown. In that case, it's sufficient to list only one, and a stipulation option. This will be presented in the results view as `Winner: Somebody`.
+
+### Credits row
+
+The contents of this row is a YAML map, which should normally be written in block style, that is indented one level more than the `credits` keyword, and with each pair on its own line.
+The map keys are roles, for example "Referee", "Ring announcer", "General Manager". There is no fixed list of roles, use what's appropriate.
+The values are names, or lists of names, which work similarly to opponent names in matches. Names can be Markdown links to the respective person's page.
+This feature is also useful for listing all notable personnel present at an event, but did not participate in matches or segments.
