@@ -33,10 +33,10 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
   - {s: "Tornado Tag Team Match"}
 - ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW
       Championship](@/o/ppw.md#championships)"}]
+- credits:
+    Referees: Sędzia Kornel, Sędzia Karol Górski, Yawara
+    Ring announcer and host: Michael HT
 {% end %}
-
-Referees: Yawara, Karol Górski, Kornel \
-Ring announcer and MC: Michael HT
 
 #### Recap
 
