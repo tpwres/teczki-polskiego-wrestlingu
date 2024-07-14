@@ -16,7 +16,10 @@
 {% set career_dict = load_data(path="data/career.json") %}
 {% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances.json") %}
+{% set crew_appearances = load_data(path="data/crew_appearances.json") %}
 {% set_global all_names = [] %}
+{% set_global names_parsed = [] %}
+
 {# The careers dict contains all names, with and without articles #}
 {% for name, _ in career_dict %}
   {# Inefficient: O(n^2) #}
@@ -44,11 +47,43 @@
     {% set pair = [name|slugify, name, 'U', false] %}
     {% set_global all_names = all_names | concat(with=[pair]) %}
   {% endif %}
+  {% set_global names_parsed = names_parsed|concat(with=name) %}
 {% endfor %}
+
+{# Identical to the above, but looking in crew_appearances #}
+{% for name, _ in crew_appearances %}
+  {% if names_parsed is containing(name) %}{% continue %}{% endif %}
+  {% set talent_page = all_talent_pages|filter(attribute='title', value=name)|first %}
+  {% if not talent_page %}
+    {% set talent_page = all_talent_pages|filter(attribute='extra.career_name', value=name)|first %}
+  {% endif %}
+  {% if talent_page %}
+    {# This name has an actual talent page, record this as a P(age) record #}
+    {% set pair = [name|slugify, name, 'P', talent_page] %}
+    {% set_global all_names = all_names | concat(with=[pair]) %}
+    {# Title may be different from career dict entry #}
+    {% if talent_page.title != name %}
+      {% set pair = [talent_page.title|slugify, talent_page.title, 'T', talent_page, name] %}
+      {% set_global all_names = all_names | concat(with=[pair]) %}
+    {% endif %}
+    {% set xtra = talent_page.extra %}
+    {# And it may have some aliases. Record this as an A(lias) record, pointing to the main name #}
+    {% for alias in xtra|get(key='career_aliases', default=[]) %}
+      {% set alias_pair = [alias|slugify, alias, 'A', talent_page] %}
+      {% set_global all_names = all_names | concat(with=[alias_pair]) %}
+    {% endfor %}
+  {% else %}
+    {# Otherwise, no talent page, record this as an U record #}
+    {% set pair = [name|slugify, name, 'U', false] %}
+    {% set_global all_names = all_names | concat(with=[pair]) %}
+  {% endif %}
+{% endfor %}
+
 
 {% set all_names = all_names | sort(attribute='0') %}
 {% set alphabet = 'ABCDEFGHIJKLŁMNOPQRSŚTUVWXYZ' %}
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
+{% set empty_obj = []|group_by(key=0) %}
 
 {% for letter in alphabet %}
   {% set_global talents = [] %}
@@ -69,8 +104,9 @@
         {% set_global career_entry = false %}
         {% if flavor == 'P' %}
           {% set_global person_name = name %}
-          {% set_global appearances_entry = appearances|get(key=name) %}
-          {% set_global career_entry = career_dict|get(key=name) %}
+          {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+          {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
           <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
@@ -78,17 +114,19 @@
         {% elif flavor == 'T' %}
           {% set career_name = talent[4] %}
           {% set_global person_name = name %}
-          {% set_global appearances_entry = appearances|get(key=career_name) %}
-          {% set_global career_entry = career_dict|get(key=career_name) %}
+          {% set_global appearances_entry = appearances|get(key=career_name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=career_name, default=[]) %}
+          {% set_global career_entry = career_dict|get(key=career_name, default=empty_obj) %}
           <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'A' %}
           {% set career_key = page.extra|get(key='career_name', default=page.title) %}
-          {% set_global appearances_entry = appearances|get(key=name, default=false) %}
+          {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {# TODO: Do not use career, just appearances #}
-          {% set_global career_entry = career_dict|get(key=career_key) %}
+          {% set_global career_entry = career_dict|get(key=career_key, default=empty_obj) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
         <li class="pwf">
             {% include "person_with_flag.html" %}
@@ -96,8 +134,9 @@
           </li>
         {% elif flavor == 'U' %}
           {% set_global person_name = name %}
-          {% set_global appearances_entry = appearances|get(key=name) %}
-          {% set_global career_entry = career_dict|get(key=name) %}
+          {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+          {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
           <li class="pwf">
             {% include "unlinked_person.html" %}
             {% include "person_orgs_matches.html" %}
