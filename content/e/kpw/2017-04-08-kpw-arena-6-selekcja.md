@@ -27,8 +27,8 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - s: KPW Championship
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
-    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
 #### Recap

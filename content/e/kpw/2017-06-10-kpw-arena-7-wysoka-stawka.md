@@ -14,14 +14,16 @@ Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in [Klub Atlan
 - ['[Robert Star](@/w/robert-star.md)', '[Victor Rosetti](@/w/rosetti.md)']
 - ["[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)",
   '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
-- ["Kawaleria: [Kaszub](@/w/kaszub.md), [Greg](@/w/greg.md)", "[David Oliwa](@/w/david-oliwa.md),
-    [Peter Pannache](@/w/peter-pannache.md)", {s: Tag Team Match}]
+- - "Kawaleria: [Kaszub](@/w/kaszub.md), [Greg](@/w/greg.md)"
+  - "[David Oliwa](@/w/david-oliwa.md), [Peter Pannache](@/w/peter-pannache.md)"
+  - s: Tag Team Match
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Adam Bravo](@/w/adam-bravo.md)']
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Boski Ostrowski](@/w/ostrowski.md)',
-  {c: KPW Championship}
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)'
+  - '[Boski Ostrowski](@/w/ostrowski.md)'
+  - c: KPW Championship
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
-    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)]
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
 #### Recap

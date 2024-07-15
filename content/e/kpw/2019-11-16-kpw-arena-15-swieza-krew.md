@@ -29,7 +29,7 @@ venue=["gdynia-sports-center"]
 - ['[Robert Star](@/w/robert-star.md)(c)', Reinbakh, {c: KPW Championship Match}]
 - credits:
     Commentary: Marek Łojek, Mateusz Mazurowski
-    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
+    Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
 ### References

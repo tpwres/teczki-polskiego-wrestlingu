@@ -32,8 +32,8 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 {% end %}
 - credits:
     Commentary: Marek Łojek, Mateusz Mazurowski
-    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
-    Referee: [Karol Górski](@/w/Iskra.md)
+    Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
+    Referee: '[Karol Górski](@/w/iskra.md)'
 
 #### Aftermath
 

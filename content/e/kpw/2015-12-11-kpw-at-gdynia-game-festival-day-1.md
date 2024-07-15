@@ -19,7 +19,7 @@ and [Day 3](@/e/kpw/2015-12-13-kpw-at-gdynia-game-festival-day-3.md).
 - ['[David Oliwa](@/w/david-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 ### References

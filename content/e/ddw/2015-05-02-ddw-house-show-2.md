@@ -15,15 +15,19 @@ That organization would reveal itself later in October that year as [KPW](@/o/kp
 
 {% card() %}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
-- - ['[Luxus](@/w/luxus.md)'
-  - [Rex Torpeda](@/w/krystian-malinowski.md)
-  - {s: Battle Royal}]
-- ['[Mira](@/w/mira.md)', '[Bianca](@/w/bianca.md)', Kasandra, {s: Triple Threat Match}]
+- - '[Luxus](@/w/luxus.md)'
+  - '[Rex Torpeda](@/w/krystian-malinowski.md)'
+  - s: Battle Royal
+- - '[Mira](@/w/mira.md)'
+  - '[Bianca](@/w/bianca.md)'
+  - Kasandra
+  - s: Triple Threat Match
 - ['[Robert Star](@/w/robert-star.md)', '[GREG](@/w/greg.md)', {s: Hardcore Match}]
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', "[Kaszub](@/w/kaszub.md), [Klarys](@/w/klarys.md)",
-  {s: Two On One Handicap Match}]
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - "[Kaszub](@/w/kaszub.md), [Klarys](@/w/klarys.md)"
+  - s: Two On One Handicap Match
 - credits:
-    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
+    Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
 ### References

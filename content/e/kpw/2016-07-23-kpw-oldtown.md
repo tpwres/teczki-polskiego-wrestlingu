@@ -24,7 +24,7 @@ KPW held a wrestling exhibition during the event on the penultimate day. Wrestli
     [David Oliwa](@/w/david-oliwa.md)
   - s: 3 vs 2 Handicap Match
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 Attendance: estimated 200.

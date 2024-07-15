@@ -38,7 +38,7 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
     [Boski Ostrowski](@/w/ostrowski.md)", {c: "KPW Tag Team Championship", s: "Tournament
       Final Tag Team Match"}]
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 #### Recap

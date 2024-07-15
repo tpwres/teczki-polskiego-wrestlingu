@@ -32,11 +32,13 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
     [David Oliwa](@/w/david-oliwa.md)", {s: Tag Team Match}]
 - [Jon Ryan, '[Robert Star](@/w/robert-star.md)']
 - ['[Bianca](@/w/bianca.md)', Aurora Flame]
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
-  {c: "KPW Championship", s: "2 out of 3 Falls Match"}]
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - c: "KPW Championship"
+    s: "2 out of 3 Falls Match"
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
-    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
 #### Recap
