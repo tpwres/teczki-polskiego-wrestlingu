@@ -27,9 +27,10 @@ venue=["gdynia-sports-center"]
   - '[Greg](@/w/greg.md)'
   - {c: KPW OldTown Championship, s: Three Way Match}
 - ['[Robert Star](@/w/robert-star.md)(c)', Reinbakh, {c: KPW Championship Match}]
+- credits:
+    Commentary: Marek Łojek, Mateusz Mazurowski
+    Ring announcer: [Kinga Miotke](@/w/kinga-miotke.md)
 {% end %}
-
-Commentary: Marek Łojek, Mateusz Mazurowski
 
 ### References
 
