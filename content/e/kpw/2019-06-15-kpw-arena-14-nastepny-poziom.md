@@ -5,7 +5,7 @@ template = "event_page.html"
 chronology = ["kpw", "arena"]
 venue = ["b90"]
 [extra.gallery]
-1 = { path = "2019-06-15-kpw-arena-14-nastepny-poziom-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2019-06-15-kpw-arena-14-nastepny-poziom-plakat.png", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Następny Poziom (_The Next Level_) was held as part of the third (and final) SzlamFest. In terms of KPW history, it was a regular Arena show, continuing the storylines from Arena 13. The venue was Klub B90, a music and event space, located in the popular post-shipyard part of Gdańsk.
