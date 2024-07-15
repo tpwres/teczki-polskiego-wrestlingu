@@ -37,9 +37,9 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
 - ["[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)", "Boska Oliwa: [David Oliwa](@/w/david-oliwa.md),
     [Boski Ostrowski](@/w/ostrowski.md)", {c: "KPW Tag Team Championship", s: "Tournament
       Final Tag Team Match"}]
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
-
-Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
