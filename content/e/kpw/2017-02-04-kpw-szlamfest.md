@@ -24,6 +24,7 @@ The event, and festival, were held in B90, a music and event venue located in a 
     [David Oliwa](@/w/david-oliwa.md)", {s: Tag Team Match}]
 - credits:
     Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
 {% end %}
 
 #### Summary
