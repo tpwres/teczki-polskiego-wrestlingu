@@ -25,9 +25,10 @@ Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the fi
   - c: "KPW OldTown Championship Match"
     s: "(KPW Championship #1 Contender Match for Robert)"
     r: DQ
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
-Ring announcer: Arkadiusz Pawłowski \
 Attendance: about 210
 
 #### Recap
