@@ -20,6 +20,8 @@ and [Day 3](@/e/kpw/2015-12-13-kpw-at-gdynia-game-festival-day-3.md).
 - ["[Bianca](@/w/bianca.md), [Gracjan Korpo](@/w/gracjan-korpo.md)", "[Boski Ostrowski](@/w/ostrowski.md),
     [Mira](@/w/mira.md)", {s: "Tag Team Match"}]
 - ['[Damian Lambert](@/w/damien-rothschild.md)', '[Robert Star](@/w/robert-star.md)']
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 ### References
