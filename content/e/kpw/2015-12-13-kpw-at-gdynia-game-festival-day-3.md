@@ -18,6 +18,8 @@ and [Day 2](@/e/kpw/2015-12-12-kpw-at-gdynia-game-festival-day-2.md).
 - ["[Kaszub](@/w/kaszub.md), [Robert Star](@/w/robert-star.md)", "[Greg](@/w/greg.md),
     [Luxus](@/w/luxus.md)", {s: "Tag Team Match"}]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[David Oliwa](@/w/david-oliwa.md)']
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 ### References
