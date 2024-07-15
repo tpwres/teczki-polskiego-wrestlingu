@@ -31,8 +31,6 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
-The first five matches listed (up to the title defense) were held on day 1, the rest on day 2.
-
 ### References
 
 * [Cagematch event page, day 1](https://www.cagematch.net/?id=1&nr=319861)
