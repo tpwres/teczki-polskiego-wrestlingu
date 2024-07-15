@@ -6,7 +6,6 @@ chronology = ["mzw"]
 venue = ["legnica"]
 +++
 
-* [Cagematch link](https://www.cagematch.net/?id=1&nr=362830) 
 
 {% card() %}
 - ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
@@ -16,3 +15,8 @@ venue = ["legnica"]
 - ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)"]
 - ["[ZERO](@/w/franz-engel.md)", "Robert Kaiser", {c: "Next Step Wrestling Championship"}]
 {% end %}
+
+## References
+
+* [Cagematch link](https://www.cagematch.net/?id=1&nr=362830)
+* [Youtube recap video](https://www.youtube.com/watch?v=KVnSKos72hs)
