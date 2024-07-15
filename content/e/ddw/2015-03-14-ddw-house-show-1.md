@@ -11,7 +11,9 @@ venue = ["gimnazjum-8-gdansk"]
 - ["[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)",
   "[Boski Ostrowski](@/w/ostrowski.md)"]
 - ['[Mira](@/w/mira.md)', Kasandra]
-- ['[GREG](@/w/greg.md)', {s: Battle Royal}]
+- - ['[GREG](@/w/greg.md)'
+  - Rex Torpeda
+  - {s: Battle Royal}]
 - ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
 - ['[Don Roid](@/w/don-roid.md)', '[Robert Star](@/w/robert-star.md)']
 - ['[Klarys](@/w/klarys.md)', '[Kaszub](@/w/kaszub.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)',
