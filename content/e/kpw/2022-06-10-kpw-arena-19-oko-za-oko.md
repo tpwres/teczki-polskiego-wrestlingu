@@ -23,6 +23,7 @@ Originally the Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) 
 - credits:
     Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
     Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
+    Commentary: [Krystian Czekaj](@/w/krystian-czekaj.md)
 {% end %}
 
 #### Recap
