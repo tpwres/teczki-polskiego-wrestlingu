@@ -57,8 +57,8 @@ The foreign guests for the event were:
 - ['[Rosetti](@/w/rosetti.md)', '[David Oliwa](@/w/david-oliwa.md)(c)', {c: KPW OldTown
       Championship}]
 - credits:
-    Referees: Krystian Czekaj
-    Ring announcer: Kinga Miotke
+    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
+    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
 {% end %}
 
 #### Recap
