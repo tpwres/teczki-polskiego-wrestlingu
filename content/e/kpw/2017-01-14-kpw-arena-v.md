@@ -21,6 +21,7 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Pastor William Eaver]
 - credits:
     Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
 {% end %}
 
 #### Recap
