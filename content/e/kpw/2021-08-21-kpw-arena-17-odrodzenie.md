@@ -24,7 +24,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
 - ['[Greg](@/w/greg.md)', Crowchester]
 - ['[David Oliwa](@/w/david-oliwa.md)(c)', Michael Kovac, {c: KPW OldTown Championship}]
 - credits:
-    Referees: [Krystian Czekaj](@/w/krystian-czekaj.md)
+    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
     Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
 {% end %}
 
