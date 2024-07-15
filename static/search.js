@@ -58,6 +58,8 @@ const initSearch = () => {
             result_type = 'Organization';
         else if (path.startsWith('/a/'))
             result_type = 'Article';
+        else if (path.startsWith('/v/'))
+            result_type = 'Venue';
 
         if (result_type)
             return `<div class="search-result">
