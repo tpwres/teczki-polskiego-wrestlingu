@@ -12,15 +12,15 @@ Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall o
 
 {% card() %}
 - ['[Kaszub](@/w/kaszub.md)', '[Peter Pannache](@/w/peter-pannache.md)', {r: DQ}]
-- ["[Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md); [Mira](@/w/mira.md)",
-  "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Victor Rosetti](@/w/rosetti.md)",
-  {s: Tag Team Match}]
+- - "[Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md); [Mira](@/w/mira.md)"
+  - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Victor Rosetti](@/w/rosetti.md)"
+  - s: Tag Team Match
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Greg](@/w/greg.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Damian Lambert](@/w/damien-rothschild.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Elliott Jordan, {c: KPW Championship}]
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
-    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
 This would be [Damian Lambert](@/w/damien-rothschild.md)'s last appearance for KPW.

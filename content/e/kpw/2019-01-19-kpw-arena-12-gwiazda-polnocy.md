@@ -28,7 +28,7 @@ The event was almost cancelled due to unrelated but tragic circumstances in the 
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', '[Peter Pannache](@/w/peter-pannache.md)',
   {c: "KPW Championship"}]
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 #### Recap

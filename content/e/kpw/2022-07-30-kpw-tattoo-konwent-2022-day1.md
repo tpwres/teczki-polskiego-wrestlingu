@@ -16,13 +16,15 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
 - ['[Greg](@/w/greg.md)', '[Filip Fux](@/w/filip-fux.md)']
 - ['[David Oliwa](@/w/david-oliwa.md)', Steinbolt]
 - ['[Michał Fux](@/w/michal-fux.md)', '[Eryk Lesak](@/w/eryk-lesak.md)']
-- ['[Zefir](@/w/zefir.md)', '[Darius](@/w/darius.md)', '[Leon Lato](@/w/leon-lato.md)',
-  {s: Three Way Match}]
+- - '[Zefir](@/w/zefir.md)'
+  - '[Darius](@/w/darius.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - s: Three Way Match
 - ["[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)", "The Fux Brothers:
     [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"]
 - credits:
-    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
-    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
+    Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
 

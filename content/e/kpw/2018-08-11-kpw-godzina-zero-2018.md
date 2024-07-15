@@ -33,7 +33,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and G�
 - ['[Bianca](@/w/bianca.md)', Sixt]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', Tom LaRuffa, {c: KPW Championship}]
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 #### Recap

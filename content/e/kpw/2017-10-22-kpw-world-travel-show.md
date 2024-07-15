@@ -17,7 +17,7 @@ Rojas faced KPW's [Mira](@/w/mira.md) in a mostly unplanned match, consisting of
 - ['[Mira](@/w/mira.md)', Carmen Rojas]
 - ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 ### References

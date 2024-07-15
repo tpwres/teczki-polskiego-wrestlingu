@@ -54,12 +54,13 @@ The foreign guests for the event were:
 - - '[Greg](@/w/greg.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - {s: Three Stages of Hell Match, c: KPW Championship}
-- ['[Rosetti](@/w/rosetti.md)', '[David Oliwa](@/w/david-oliwa.md)(c)', {c: KPW OldTown
-      Championship}]
+- - '[Rosetti](@/w/rosetti.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)(c)'
+  - c: KPW OldTown Championship
 - credits:
-    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
-    Ring announcer: [Kinga Miotke](@/w/kinga-miotke.md)
-    Commentary: [Krystian Czekaj](@/w/krystian-czekaj.md)
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
+    Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
+    Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
 #### Recap

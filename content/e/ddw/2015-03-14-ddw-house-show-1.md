@@ -11,15 +11,17 @@ venue = ["gimnazjum-8-gdansk"]
 - ["[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)",
   "[Boski Ostrowski](@/w/ostrowski.md)"]
 - ['[Mira](@/w/mira.md)', Kasandra]
-- - ['[GREG](@/w/greg.md)'
-  - [Rex Torpeda](@/w/krystian-malinowski.md)
-  - {s: Battle Royal}]
+- - '[GREG](@/w/greg.md)'
+  - '[Rex Torpeda](@/w/krystian-malinowski.md)'
+  - s: Battle Royal
 - ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
 - ['[Don Roid](@/w/don-roid.md)', '[Robert Star](@/w/robert-star.md)']
-- ['[Klarys](@/w/klarys.md)', '[Kaszub](@/w/kaszub.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)',
-  {s: "Three Way Match"}]
+- - '[Klarys](@/w/klarys.md)'
+  - '[Kaszub](@/w/kaszub.md)'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - s: "Three Way Match"
 - credits:
-    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
+    Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
 ### References

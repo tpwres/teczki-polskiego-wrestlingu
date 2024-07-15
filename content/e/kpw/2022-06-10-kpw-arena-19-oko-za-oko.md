@@ -21,9 +21,9 @@ Originally the Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) 
 - ['[David Oliwa](@/w/david-oliwa.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {
     s: "KPW Championship #1 Contender Best Two Out Of Three Falls Match"}]
 - credits:
-    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
-    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
-    Commentary: [Krystian Czekaj](@/w/krystian-czekaj.md)
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
+    Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
+    Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
 #### Recap

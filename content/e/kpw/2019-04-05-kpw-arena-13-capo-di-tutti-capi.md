@@ -31,7 +31,7 @@ Originally, the tag team champions were scheduled against German wrestlers [Fynn
   - '[Ron Corvus](@/w/ron-corvus.md)(c)'
   - c: KPW Championship
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 ### Recap

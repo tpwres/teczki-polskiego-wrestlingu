@@ -15,6 +15,7 @@ In 2019, the event was held between July 8 and 13. Additionally, on the followin
 The foreign guests for this event were all from Germany: the experienced Lucas Robinson and two relatively new but estabilished wrestlers Crowchester and Matthias Bernstein. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned to take on one half of the KPW Tag Team Champions.
 
 {% card() %}
+- d: Day 1
 - ['[Moloch](@/w/moloch.md)', Crowchester]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Lucas Robinson]
 - ['[Dom Taylor](@/w/dom-taylor.md)', '[Chemik](@/w/chemik.md)', Matthias Bernstein,
@@ -22,11 +23,12 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
 - ['[Fynn Freyhart](@/w/fynn-freyhart.md)', '[Rosetti](@/w/rosetti.md)']
 - ["[David Oliwa](@/w/david-oliwa.md)(c)", '[Greg](@/w/greg.md)', {c: KPW OldTown
       Championship}]
+- d: Day 2
 - ['[Greg](@/w/greg.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
 - ['[Moloch](@/w/moloch.md)', {s: Four on One Handicap Match}]
 - ['[Robert Star](@/w/robert-star.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)']
 - credits:
-    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
+    Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
 The first five matches listed (up to the title defense) were held on day 1, the rest on day 2.

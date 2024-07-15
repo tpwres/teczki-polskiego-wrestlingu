@@ -33,7 +33,7 @@ venue=["gdynia-sports-center"]
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)',
   {c: "KPW Championship"}]
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 Attendance: about 300 \

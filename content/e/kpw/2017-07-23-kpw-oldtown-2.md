@@ -24,7 +24,7 @@ KPW would return to following editions of OldTown until 2019.
 - ['[Greg](@/w/greg.md)', '[Peter Pannache](@/w/peter-pannache.md)', {c: "KPW OldTown
       Championship"}]
 - credits:
-    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 #### Recap

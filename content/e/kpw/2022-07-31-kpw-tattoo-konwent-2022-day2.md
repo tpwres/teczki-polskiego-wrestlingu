@@ -17,11 +17,12 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
 - ['[Greg](@/w/greg.md)', '[Michał Fux](@/w/michal-fux.md)']
 - ['[Zefir](@/w/zefir.md)', {s: Battle Royal}]
 - ['[Filip Fux](@/w/filip-fux.md)', Steinbolt]
-- ["[Darius](@/w/darius.md), [Zefir](@/w/zefir.md)", "[Chemik](@/w/chemik.md), [Eryk
-    Lesak](@/w/eryk-lesak.md)", {s: Tag Team Match}]
+- - "[Darius](@/w/darius.md), [Zefir](@/w/zefir.md)"
+  - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
+  - s: Tag Team Match
 - credits:
-    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
-    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
+    Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
 
