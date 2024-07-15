@@ -58,7 +58,7 @@ The foreign guests for the event were:
       Championship}]
 - credits:
     Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
-    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
+    Ring announcer: [Kinga Miotke](@/w/kinga-miotke.md)
 {% end %}
 
 #### Recap
