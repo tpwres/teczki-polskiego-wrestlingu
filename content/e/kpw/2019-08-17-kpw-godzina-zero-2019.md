@@ -46,6 +46,8 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 - - '[Robert Star](@/w/robert-star.md)(c)'
   - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - {c: KPW Championship, s: Career vs Career Last Man Standing Match}
+- credits:
+    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
 {% end %}
 
 #### Aftermath
