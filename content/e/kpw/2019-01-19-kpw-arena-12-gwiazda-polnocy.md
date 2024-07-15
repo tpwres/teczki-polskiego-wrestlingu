@@ -27,6 +27,8 @@ The event was almost cancelled due to unrelated but tragic circumstances in the 
 - ['[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', Yuu, {s: Three Way Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', '[Peter Pannache](@/w/peter-pannache.md)',
   {c: "KPW Championship"}]
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 #### Recap
