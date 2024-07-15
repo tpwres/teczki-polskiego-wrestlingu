@@ -36,9 +36,9 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
       Title Match"
 - [Kat Von Kaige, '[Bianca](@/w/bianca.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Wild Boar, {c: "KPW Championship"}]
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
-
-Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
