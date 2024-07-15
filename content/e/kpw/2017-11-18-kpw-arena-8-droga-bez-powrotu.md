@@ -27,6 +27,7 @@ Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the fi
     r: DQ
 - credits:
     Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
 {% end %}
 
 Attendance: about 210
