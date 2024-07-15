@@ -15,7 +15,9 @@ That organization would reveal itself later in October that year as [KPW](@/o/kp
 
 {% card() %}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
-- ['[Luxus](@/w/luxus.md)', {s: Battle Royal}]
+- - ['[Luxus](@/w/luxus.md)'
+  - Rex Torpeda
+  - {s: Battle Royal}]
 - ['[Mira](@/w/mira.md)', '[Bianca](@/w/bianca.md)', Kasandra, {s: Triple Threat Match}]
 - ['[Robert Star](@/w/robert-star.md)', '[GREG](@/w/greg.md)', {s: Hardcore Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', "[Kaszub](@/w/kaszub.md), [Klarys](@/w/klarys.md)",
