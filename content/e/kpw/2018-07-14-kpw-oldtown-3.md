@@ -30,6 +30,8 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
       Way Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', '[Dom Taylor](@/w/dom-taylor.md)', {c: KPW
       Championship}]
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 ### References
