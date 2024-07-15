@@ -1,4 +1,3 @@
-
 +++
 title = "MZW Project 4: Open Your Eyes"
 template = "event_page.html"
@@ -18,4 +17,7 @@ venue = ["czasoprzestrzen"]
 - ["[Jacob Crane](@/w/jacob-crane.md)", "Otto Stahl"]
 - ["[Damien Rothschild](@/w/damien-rothschild.md)(c)", "[Shadow](@/w/shadow.md)",
   {s: "No Disqualification Match", c: "MZW Championship"}]
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
+    Referees: Sędzia Matt2Hot, Sędzia Tobias
 {% end %}

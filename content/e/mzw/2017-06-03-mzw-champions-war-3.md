@@ -22,6 +22,10 @@ The third Champions War event was held again in [Głuchołazy](@/v/gosir-gluchol
   - {r: "DQ", s: "Two On One Handicap Match"}
 - ["[Asmund](@/w/asmund.md)", "[Shadow](@/w/shadow.md)", {s: "Hardcore Match", c: "MZW
       Championship"}]
+- credits:
+    Referees: Král Slova Kuba
+    Host: '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
+    Ring Announcer: Tomasz Warchoł
 {% end %}
 
 ### References

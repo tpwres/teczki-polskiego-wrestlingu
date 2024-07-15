@@ -15,4 +15,7 @@ venue = ["czasoprzestrzen"]
   "Otto Stahl", {s: "Four Way Match"}]
 - ["[Damien Rothschild](@/w/damien-rothschild.md)", "[Shadow](@/w/shadow.md)(c)",
   {c: "MZW Championship"}]
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
+    Referees: Sędzia Matt2Hot, Sędzia Tobias
 {% end %}

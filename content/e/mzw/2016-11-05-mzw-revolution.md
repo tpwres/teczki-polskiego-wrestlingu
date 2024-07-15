@@ -29,8 +29,6 @@ venue = ["gosir-glucholazy"]
     Referees: Král Slova Kuba
 {% end %}
 
-Commentary: Adam Sekuła, Wojciech Baranowski
-
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=164685)

@@ -14,10 +14,14 @@ Project Basement 2 is the second episode of [MZW's](@/o/mzw.md) taped wrestling 
 - ["[Shadow](@/w/shadow.md)", "[Nathan Cross](@/w/gabriel-queen.md) + [Isnorr](@/w/isnorr.md)"]
 - ["[Aron Wake](@/w/aron-wake.md)", "[Jacob Crane](@/w/jacob-crane.md)", {nc: "No
       Contest"}]
+- credits:
+    Host: Konrad von Koch
+    Ring Announcer: Mateusz Czarnecki
+    Referees: Sędzia Michał, Sędzia Seweryn
+    Commentary: Jędrzej Jezierski, Piotr Małecki
 {% end %}
 
-Presenter: Konrad von Koch \
-Commentary: Jędrzej Jezierski & Piotr Małecki
+## References
 
 * [Full episode on YouTube](https://www.youtube.com/watch?v=diZ2HqIib0U)
 * [Playlist of all episodes](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8gOYpibA7twIBHV7w3iyLB2)

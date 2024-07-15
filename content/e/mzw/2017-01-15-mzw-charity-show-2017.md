@@ -24,6 +24,8 @@ Attendance: estimated about 300
 - - "Storm Riders: [Red Thunder](@/w/red-thunder.md), Blue Thunder; Columbus"
   - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - c: "MZW Tag Team Championship"
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
 {% end %}
 
 ### References

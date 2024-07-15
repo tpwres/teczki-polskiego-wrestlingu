@@ -26,4 +26,7 @@ venue = ["czasoprzestrzen"]
     n: Nathan Cross finished runner-up
 - ['[Asmund](@/w/asmund.md)', "[Damien Rothschild](@/w/damien-rothschild.md)(c)",
   {c: "MZW Championship"}]
+- credits:
+    Host, Ring Announcer: Mateusz Czarnecki
+    Referees: Sędzia Michał, Sędzia Tobias
 {% end %}

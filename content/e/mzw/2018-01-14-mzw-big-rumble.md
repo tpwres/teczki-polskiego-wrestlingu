@@ -44,9 +44,10 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - "[Asmund](@/w/asmund.md)(c)"
   - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - {c: "MZW Championship", s: "Triple Threat Match"}
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
+    Referees: Tomasz Warchoł, [Sędzia Rafael](@/w/rafael-kid.md)
 {% end %}
-
-Ring announcer: Tomasz Warchoł
 
 ### References
 

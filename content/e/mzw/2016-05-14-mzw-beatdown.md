@@ -23,5 +23,7 @@ venue = ["gosir-glucholazy"]
     s: "Loser Leaves Town Match"}]
 {% end %}
 
+## References
+
 * [Full match: Zbójnicy vs Kripto & Red Thunder](https://youtu.be/DEkQgT53Nnc)
 * [WrestleFans video coverage](https://youtu.be/4LgYjxWLvFs)

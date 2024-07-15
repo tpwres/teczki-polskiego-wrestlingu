@@ -18,6 +18,9 @@ venue = ["bakara"]
 - ["[Madman Charlie](@/w/madman-charlie.md)", "[Matt Buckna](@/w/matt-buckna.md)",
   {r: "DQ", c: "MZW Championship", s: "Tournament Semi Final Match"}]
 - ["[Rick Baxxter](@/w/rick-baxxter.md)", "[Shadow](@/w/shadow.md)"]
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
+    Referee: Sędzia Tobias
 {% end %}
 
 Ring announcer: Tomasz Warchoł
