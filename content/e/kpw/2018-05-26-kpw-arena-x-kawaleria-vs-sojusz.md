@@ -32,11 +32,11 @@ venue=["gdynia-sports-center"]
   {c: "KPW Championship", s: "Lumberjack Match"}]
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)',
   {c: "KPW Championship"}]
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 Attendance: about 300 \
-Ring announcer: Arkadiusz Pawłowski
-
 
 #### Recap
 
