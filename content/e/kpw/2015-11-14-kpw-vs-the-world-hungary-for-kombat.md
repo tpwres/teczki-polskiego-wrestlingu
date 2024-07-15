@@ -35,6 +35,7 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
   - s: "KPW vs Hungary Nations Cup Round 5 Match"
 - credits:
     Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
 {% end %}
 
 #### Recap
