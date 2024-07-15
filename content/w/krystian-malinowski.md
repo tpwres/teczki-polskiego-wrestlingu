@@ -8,7 +8,7 @@ country = ["PL"]
 [extra]
 career_aliases = ["Rex Torpeda"]
 [extra.gallery]
-1 = { path = "krystian-malinowski-teczka.jpg", caption = 'Krystian Malinowski with his briefcase at Arena 22.', source = "Migawki z Puszki" }
+1 = { path = "krystian-malinowski-teczka.jpg", caption = 'Krystian Malinowski with his briefcase at Arena 22.', source = "Migawki z Puszki" }
 +++
 
 Krystian Malinowski is the chairman of [Kombat Pro Wrestling](@/o/kpw.md).
