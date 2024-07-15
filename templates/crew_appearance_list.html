@@ -1,9 +1,14 @@
 {% set appearances = load_data(path="data/crew_appearances.json") %}
+{% set my_appearances = appearances | get(key=page.title, default=[]) %}
 {% if page.extra.career_name %}
-    {% set my_appearances = appearances | get(key=page.extra.career_name, default=[]) %}
-{% else %}
-    {% set my_appearances = appearances | get(key=page.title, default=[]) %}
+  {% set cn_appearances = appearances | get(key=page.extra.career_name, default=[]) %}
+  {% set my_appearances = my_appearances | concat(with=cn_appearances) %}
 {% endif %}
+{% for alias in page.extra|get(key="career_aliases", default=[]) %}
+  {% set alias_appearances = appearances | get(key=alias, default=[]) %}
+  {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
+{% endfor %}
+
 {% set appearances_by_date = my_appearances | sort(attribute='d') %}
 
 {% if my_appearances %}
