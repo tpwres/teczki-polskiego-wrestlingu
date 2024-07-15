@@ -33,6 +33,8 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - {c: KPW Championship, s: Elimination Match}
+  - credits:
+    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md) 
 {% end %}
 
 ### Recap
