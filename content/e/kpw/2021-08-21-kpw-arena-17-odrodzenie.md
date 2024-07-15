@@ -26,6 +26,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
 - credits:
     Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
     Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
+    Commentary: [Krystian Czekaj](@/w/krystian-czekaj.md)
 {% end %}
 
 #### Recap and aftermath
