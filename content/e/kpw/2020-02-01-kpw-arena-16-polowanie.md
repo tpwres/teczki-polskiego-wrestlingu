@@ -30,8 +30,9 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
   - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
   - c: KPW Tag Team Championship
 {% end %}
-
-Commentary: Marek Łojek, Mateusz Mazurowski
+- credits:
+    Commentary: Marek Łojek, Mateusz Mazurowski
+    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
 
 #### Aftermath
 
