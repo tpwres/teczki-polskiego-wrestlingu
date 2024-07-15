@@ -29,11 +29,11 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 - - "The Hunt: Primate, Wild Boar"
   - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
   - c: KPW Tag Team Championship
-{% end %}
 - credits:
     Commentary: Marek Łojek, Mateusz Mazurowski
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
     Referee: '[Karol Górski](@/w/iskra.md)'
+{% end %}
 
 #### Aftermath
 
