@@ -32,6 +32,8 @@ The event was held on the same day as a footbal match between Arka Gdynia and G√
   - s: Magnificent Seven No-DQ Elimination Ladder Match for
 - ['[Bianca](@/w/bianca.md)', Sixt]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', Tom LaRuffa, {c: KPW Championship}]
+- credits:
+    Ring announcer: [Arkadiusz Paw≈Çowski](@/w/pan-pawlowski.md)
 {% end %}
 
 #### Recap
