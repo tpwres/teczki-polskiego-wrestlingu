@@ -17,11 +17,14 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
 - ["[Hexia](@/w/hexia.md)", "Mario Rodriguez"]
 - ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Asmund](@/w/asmund.md)"]
 - ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", {r: "DQ"}]
+- credits:
+    Referee: '[Sędzia Piotr](@/w/mr-b.md)'
 {% end %}
 
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153092)
-* [Recap video](https://youtu.be/R_abTj1_mGc)
+* [YouTube recap video](https://youtu.be/R_abTj1_mGc)
+* [YouTube video of the full event](https://www.youtube.com/watch?v=2IaA9_sT6Fo)
 
 [wosp]: https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity

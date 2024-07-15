@@ -11,4 +11,6 @@ venue = ["gosir-glucholazy"]
 - ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", "Kripto"]
 - ["[Justin Joy](@/w/justin-joy.md)", "[Red Thunder](@/w/red-thunder.md)", {s: "Lumberjack
       Match", c: "MZW Championship"}]
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
 {% end %}

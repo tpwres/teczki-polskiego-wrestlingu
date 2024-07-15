@@ -5,7 +5,8 @@ template = "event_page.html"
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra.gallery]
-1 = { path = "plakat.webp" }
+1 = { path = "plakat.webp", caption = "Show poster" }
+2 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event."}
 +++
 
 {% card() %}
@@ -22,6 +23,10 @@ venue = ["gosir-glucholazy"]
 - ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "[Alex Arthur](@/w/alex-arthur.md)",
   {s: "Two On One Handicap Match"}]
 - ["[Shadow](@/w/shadow.md)", "[Asmund](@/w/asmund.md)", {s: "Two Out Of Three Falls"}]
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
+    Commentary: 'Adam "Omega" Sekuła, Wojciech "Vice" Baranowski'
+    Referees: Král Slova Kuba
 {% end %}
 
 Commentary: Adam Sekuła, Wojciech Baranowski
