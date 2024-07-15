@@ -1,12 +1,13 @@
 +++
-title = "MZW"
+title = "MZW @ Bieg WOP-isty"
 template = "event_page.html"
+aliases = ["/e/mzw/2015-09-05-mzw-untitled"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["opawa"]
 +++
 
-This event was a sideshow accompanying III Bieg WOPisty (a cross-country half-marathon event), held in Opawa, a small village near Lubawka, close to the Polish-Czech border.
+This event was a sideshow accompanying III Bieg WOP-isty (a cross-country half-marathon event), held in Opawa, a small village near Lubawka, close to the Polish-Czech border.
 
 {% card() %}
 - ["[Red Thunder](@/w/red-thunder.md)", "Kripto"]
