@@ -29,8 +29,8 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - {s: Hair vs Mustache Tag Team Match, c: KPW Tag Team Championship}
 - credits:
-    Referees: Krystian Czekaj
-    Ring announcer: Kinga Miotke
+    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
+    Ring announcer: [Kinga Miotke](@/w/kinga-miotke.md)
 {% end %}
 
 #### Recap
