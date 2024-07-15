@@ -26,6 +26,8 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
   - Leśny
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - s: KPW Championship
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 #### Recap
