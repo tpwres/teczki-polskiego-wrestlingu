@@ -18,6 +18,8 @@ Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall o
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Greg](@/w/greg.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Damian Lambert](@/w/damien-rothschild.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Elliott Jordan, {c: KPW Championship}]
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 This would be [Damian Lambert](@/w/damien-rothschild.md)'s last appearance for KPW.
