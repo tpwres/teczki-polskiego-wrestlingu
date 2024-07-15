@@ -19,9 +19,9 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 - ["[Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md); [Mira](@/w/mira.md)",
   "[Gracjan Korpo](@/w/gracjan-korpo.md), [Victor Rosetti](@/w/rosetti.md)", {r: DQ}]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Pastor William Eaver]
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
-
-Ring announcer: Arkadiusz Pawłowski
 
 #### Recap
 
