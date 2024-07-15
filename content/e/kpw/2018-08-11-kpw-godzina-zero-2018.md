@@ -29,7 +29,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and GÃ
   - '[Rosetti](@/w/rosetti.md)'
   - '[Moloch](@/w/moloch.md)'
   - '[Mateusz Kakareko](@/w/mateusz-kowalski.md)'
-  - s: Magnificent Seven No-DQ Elimination Ladder Match for
+  - s: Magnificent Seven No-DQ Elimination Ladder Match for a Championship contract
 - ['[Bianca](@/w/bianca.md)', Sixt]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', Tom LaRuffa, {c: KPW Championship}]
 - credits:
