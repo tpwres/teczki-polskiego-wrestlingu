@@ -35,7 +35,7 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
 - ['[Greg](@/w/greg.md)', '[Ron Corvus](@/w/ron-corvus.md)', {s: "Hardcore Match for
       KPW Championship #1 Contender"}]
 - credits:
-    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
+    Referees: [Krystian Czekaj](@/w/krystian-czekaj.md), Krystian Malinowski (main event)
     Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
     Commentary: [Krystian Czekaj](@/w/krystian-czekaj.md)
 {% end %}
@@ -45,6 +45,7 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
 * [Rosetti](@/w/rosetti.md) no-showed Lesak, who announced that he will now face the brothers alone.
 * After taking a frog splash and escaping a pin, Lesak left the ring, flipping the bird at his opponents and the ref, which led to a count-out.
 * [Chemik](@/w/chemik.md) entered carrying a wooden cross to the ring, and referenced the vows he made at the previous event. During the fight, Rosetti appeared, unaware that he missed his scheduled appeareance, which distracted the ref enough for Chemik to perform a backstabber and Last Rites to grab his first win.
+* In a nostalgic throwback to 2017's [Szlamfest](@/e/kpw/2017-02-04-kpw-szlamfest.md), Chairman Krystian Malinowski was a special guest referee for the main event. Szlamfest also featured a hardcore match between Greg and Ron Corvus, and Krystian Malinowski was the referee at the time.
 
 ### References
 
