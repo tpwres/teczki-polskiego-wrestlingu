@@ -33,6 +33,8 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
 - - "Team KPW: [Kamil Aleksander](@/w/kamil-aleksander.md)"
   - "Team Hungary: [Dover](@/w/dover.md)"
   - s: "KPW vs Hungary Nations Cup Round 5 Match"
+- credits:
+    Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 {% end %}
 
 #### Recap
