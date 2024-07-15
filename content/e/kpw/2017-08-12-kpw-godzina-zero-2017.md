@@ -38,6 +38,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Wild Boar, {c: "KPW Championship"}]
 - credits:
     Ring announcer: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+    Referee: [Krystian Malinowski](@/w/krystian-malinowski.md)
 {% end %}
 
 #### Recap
