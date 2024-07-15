@@ -40,9 +40,10 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - s: "Ten Man Battle Royal"
 - ["Laurance Roman(c)", "[Shadow](@/w/shadow.md)", {c: "Next Step Wrestling National
       Championship"}]
+- credits:
+    Ring Announcer: Tomasz Warchoł
+    Host: '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
 {% end %}
-
-Ring announcers: Tomasz Warchoł, [Jędruś Bułecka](@/w/jedrus-bulecka.md)
 
 ### References
 

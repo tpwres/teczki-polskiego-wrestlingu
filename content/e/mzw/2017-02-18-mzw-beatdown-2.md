@@ -21,10 +21,12 @@ venue = ["bakara"]
   "[Red Thunder](@/w/red-thunder.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)", {
     s: "Battle Royale"}]
 - ["[Shadow](@/w/shadow.md)", "[Franz Engel](@/w/franz-engel.md)", {c: "MZW Championship"}]
+- credits:
+    Referees: Král Slova Kuba
+    Host, Ring Announcer: Tomasz Warchoł
 {% end %}
 
-Attendance: estimated about 140 \
-Guest Ring Announcer: Tomasz Warchoł
+Attendance: estimated about 140
 
 ### References
 

@@ -14,4 +14,7 @@ venue = ["bakara"]
 - ['[Zeritus](@/w/zeritus.md)', '[Justin Joy](@/w/justin-joy.md)']
 - ['[Axel Fox](@/w/axel-fox.md)', '[Nathan Cross](@/w/gabriel-queen.md)']
 - ['[Jacob Crane](@/w/jacob-crane.md)', Fast Time Moodo]
+- credits:
+    Host, Ring Announcer: Mateusz Czarnecki
+    Referees: Sędzia Michał, Sędzia Tobias
 {% end %}

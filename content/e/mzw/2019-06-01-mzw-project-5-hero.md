@@ -18,4 +18,7 @@ venue = ["czasoprzestrzen"]
 - ["Apollo Anderson", "[Dynamite Dave](@/w/dynamite-dave.md)"]
 - ["[Damien Rothschild](@/w/damien-rothschild.md)(c)", "[Justin Joy](@/w/justin-joy.md)",
   {c: "MZW Championship"}]
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
+    Referees: Sędzia Matt2Hot, Sędzia Tobias
 {% end %}

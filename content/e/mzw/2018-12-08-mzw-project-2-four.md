@@ -20,6 +20,9 @@ venue = ["czasoprzestrzen"]
   - "[Madman Charlie](@/w/madman-charlie.md)"
   - "[Rafael Kid](@/w/rafael-kid.md)"
   - {c: "MZW Championship", s: "Tournament Final Four Way Match"}
+- credits:
+    Host, Ring Announcer: Tomasz Warchoł
+    Referee: Sędzia Matt2Hot
 {% end %}
 
 ### Recap

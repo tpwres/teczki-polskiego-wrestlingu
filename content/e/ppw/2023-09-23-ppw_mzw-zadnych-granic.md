@@ -20,7 +20,12 @@ orgs = ["ppw", "mzw"]
 - ["[Matt Buckna](@/w/matt-buckna.md)", "Michael Payne", {c: "MZW Championship", s: "#1
       Contenders Match"}]
 - ["Marcus Monere", "[Mister Z](@/w/mister-z.md)"]
+- credits:
+    Ring Announcer: Adi
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), Tony Sheen'
 {% end %}
+
+## References
 
 * [Facebook event page](https://www.facebook.com/events/1031532237862352)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=375104)
