@@ -20,8 +20,8 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
 - ["[Darius](@/w/darius.md), [Zefir](@/w/zefir.md)", "[Chemik](@/w/chemik.md), [Eryk
     Lesak](@/w/eryk-lesak.md)", {s: Tag Team Match}]
 - credits:
-    Referees: Krystian Czekaj
-    Ring announcer: Kinga Różańska
+    Referee: [Krystian Czekaj](@/w/krystian-czekaj.md)
+    Ring announcer: [Kinga Różańska](@/w/kinga-miotke.md)
 {% end %}
 
 
