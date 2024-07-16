@@ -297,12 +297,12 @@ In the wrap-up, Diana was asked why she stayed after so many others left. She an
 More questions about wrestling's technicalities followed, but the live chat was pressing questions about the lottery and the subject was brought up again.
 Once again, Pawłowski confirmed it was a spectacular fiasco, with the ticket money not even close to covering the prizes. He called it a crucial error that started a domino effect for PTW and confirmed that no lottery will be held ever again.
 
-To wrap up the show, Pawłowski was asked what is the essence of wrestling (phrased as "istota wrestlingu" - possibly a namedrop for a [YouTube channel of the same name](https://www.youtube.com/@IstotaWrestlingu/).
+To wrap up the show, Pawłowski was asked what is the essence of wrestling (phrased as "istota wrestlingu" - possibly a namedrop for a [YouTube channel of the same name](https://www.youtube.com/@IstotaWrestlingu/)).
 He answered that connecting people, escapism, and emotional involvement are the key components of pro wrestling's appeal.
 
 ## Polish wrestling scene
 
-PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md) or [MCW,](@/o/mcw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
+PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md) or [MCW](@/o/mcw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
 Talent were strictly prohibited from appearing in any other Polish rings, and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-exits.md), where the talent wanted to have more freedom and to be able to take bookings from other Polish organizations.
@@ -330,7 +330,7 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 | PTW Championship | [Puncher](@/w/puncher.md) | Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 | PTW Tag Team Championship | Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) | Defeated PAKA: [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md) and [Taras](@/w/taras.md) at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 
-## Internet Presence
+## Internet presence
 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
 * [YouTube channel](https://www.youtube.com/@PrimeTimeWrestlingpl)
