@@ -18,10 +18,11 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 - [Marius Al-Ani, '[Syriusz Dziedzic](@/w/dziedzic.md)']
 - ['["Top Gun" Samson](@/w/samson.md)', '[Vic Golden](@/w/vic-golden.md)']
 - ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '[Disco Pablo](@/w/disco-pablo.md)']
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Commentary: 'Arkadiusz Paterek, Piotr "ShowOff" Małecki'
+    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Polish commentary: Arek Paterek, Piotr Małecki \
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 ### References
 

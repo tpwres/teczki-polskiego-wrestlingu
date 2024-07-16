@@ -19,9 +19,11 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 - ['[Remo](@/w/remo.md)', '[Joe E. Legend](@/w/joe-legend.md)']
 - [Arczi Czajka, '[Gabriel Queen](@/w/gabriel-queen.md)']
 - ['[Nano Lopez](@/w/nano-lopez.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Commentary: Arek Paterek, Łukasz "Balik" Baliński
+    Referees: Sędzia Matek
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 ### References
 

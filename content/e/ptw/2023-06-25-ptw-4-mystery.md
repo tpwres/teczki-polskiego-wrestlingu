@@ -35,10 +35,12 @@ There were two new foreign guests on this event: French female wrestler Amale, w
   - {c: PTW Tag Team Championship, s: Tables Match}
 - ['[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)', '[John "Bad Bones" Klinger](@/w/bad-bones.md)',
   {g: true, s: Kidnapping Rzeźniczek}]
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: Łukasz "Balik" Baliński, Arek Paterek, Piotr "Showoff" Małecki
+    Special Guest Commentary: Paweł "Boryss" Borkowski
 {% end %}
-
-Ring announcer and MC: Arkadiusz Pawłowski \
-Special commentator: Paweł "Boryss" Borkowski
 
 #### Recap
 

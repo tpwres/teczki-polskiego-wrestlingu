@@ -64,12 +64,13 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[Bad Bones](@/w/bad-bones.md), Marcin "Rzeźnik" Rzeźniczek'
   - g: true
     s: "Pawłowski's in-ring proposal"
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Commentary: Arek Paterek, Piotr "ShowOff" Małecki, Łukasz "Balik" Baliński
+    Special Guest Commentary: Andrzej Supron, Paweł "Boryss" Borkowski
+    English Commentary: Lewis Costello, Santino
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Polish commentary: Arkadiusz Paterek, Piotr Małecki, Łukasz Baliński \
-Special guest commentators: Andrzej Supron, Paweł Borkowski \
-English commentary: Santino, Lewis Costello \
-Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 
 ### Recap
 
@@ -78,7 +79,7 @@ Ring Announcer, host, General Manager: Arkadiusz Pawłowski
 * Nano was pinned, but managed to lift one shoulder for the three count. The ref initially awarded [Krampus](@/w/krampus.md) the victory, but as he was about to reverse this decision, Krampus decked him and kicked out of the ring. [Sinister](@/w/sinister.md) arrived to deliver more punishment to Lopez.
 * Mario Pardua, a wrestler of Polish origin fighting in the Chicago area, introduced himself in a video clip. In Polish, he declared he's ready for Prime Time Wrestling. The crowd chanted CM-PUNK at him. Pawłowski added that Pardua is currently fighting for NWA, and that he's been signed to PTW.
 * After Lince Dorado's entrance, Supron and Borkowski joined the Polish commentary team.
-* Lince kicked out of the Styles clash, hitting the ref in the face with his feet. PJ Black hit the Placedo Effect to win.
+* Lince kicked out of the Styles clash, hitting the ref in the face with his feet. PJ Black hit the Placebo Effect to win.
 * MxM received warmly by the audience, only to immediately turn heel and cut a promo calling them and the Polish language ugly. Cue chants of STFU.
 * PAKA entered to Bonnie Tyler's _Holding out for a hero_. Coincidentally, the actual Bonnie Tyler was giving a concert in Poland the next day, Sunday Feb 4.
 * MxM grabbed the win by Mason pinning Mansoor. However, Pawłowski was furious and ordered the match to continue.

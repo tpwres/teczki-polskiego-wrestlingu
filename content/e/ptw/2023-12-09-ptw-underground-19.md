@@ -24,9 +24,10 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 - ["[Sambor](@/w/sambor.md); Rusałka", '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Nitro](@/w/nitro.md)', '[Sinister](@/w/sinister.md)', '[Taras](@/w/taras.md)',
   {s: Triple Threat Match}]
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Ring announcer and MC: Arkadiusz Pawłowski
 
 ### References
 

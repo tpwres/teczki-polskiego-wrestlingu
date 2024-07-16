@@ -19,11 +19,13 @@ venue = ["ptw-targowa"]
 - ["[Krampus](@/w/krampus.md)", "[Marcelito](@/w/marcelito.md)"]
 - ['[Axel Fox](@/w/axel-fox.md)', '[Rafi Rarytas](@/w/rafi.md)', {s: impromptu match}]
 - ['[Dziedzic](@/w/dziedzic.md)', '["Top Gun" Samson](@/w/samson.md)']
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Commentary: Piotr "ShowOff" Małecki
+    Special guest commentary: '[Diana Strong](@/w/diana-strong.md)'
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-Ring announcer and MC: Arkadiusz Pawłowski \
-Commentary: Piotr "Showoff" Małecki \
-Special guest commentary: [Diana Strong][diana-commentary-fb]
 
 #### Trivia
 
@@ -35,5 +37,4 @@ The Underground Street Fight match set the record of the longest match in PTW hi
 * [Official Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0PetNLNxmekrXTcfY5s2mEMb7eL21UpinvtMyBzcQajZCP2BB5EBJvBMFQKG5JyVkl)
 * [Full event on YouTube](https://www.youtube.com/watch?v=rzPx_GS5NeQ&t=9458s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-underground-17/2pdlp/), requires paid subscription
-
-[diana-commentary-fb]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02aZedhtGzsTpd3QhX6rtq7Qs79V62wdvcXT4EB1eKB7TBdwzSv9AQNBi2KW4xs2X4l
+* [Facebook post announcing Diana as guest commentator](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02aZedhtGzsTpd3QhX6rtq7Qs79V62wdvcXT4EB1eKB7TBdwzSv9AQNBi2KW4xs2X4l)

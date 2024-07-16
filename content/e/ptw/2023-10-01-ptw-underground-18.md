@@ -16,6 +16,9 @@ venue = ["ptw-targowa"]
 - ['["Top Gun" Samson](@/w/samson.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
 - ['[Nano Lopez](@/w/nano-lopez.md)', {g: true}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Peter Tihanyi]
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 #### Recap

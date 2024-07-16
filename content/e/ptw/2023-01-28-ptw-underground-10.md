@@ -24,9 +24,10 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
 - ['[Vic Golden](@/w/vic-golden.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
 - ['[Justin Joy](@/w/justin-joy.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Rafał, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 ### References
 

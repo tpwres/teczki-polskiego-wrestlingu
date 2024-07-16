@@ -19,9 +19,10 @@ The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022
 - [Mike D. Vecchio, '[Jacob Crane](@/w/jacob-crane.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Vic Golden](@/w/vic-golden.md)']
 - ['[Justin Joy](@/w/justin-joy.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 ### References
 

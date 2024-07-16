@@ -28,6 +28,11 @@ venue=["moris-chorzow"]
     Santino", {s: Tag Team Match}]
 - [Chris Masters, '[Robert Star](@/w/robert-star.md)']
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', Nick Aldis, {r: DQ}]
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Interviewer: Krzysztof Skwarczyński
+    Commentary: Arek Paterek, Łukasz "Balik" Baliński
+    Referees: Sędzia Matek
 {% end %}
 
 ### References
