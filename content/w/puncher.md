@@ -33,7 +33,7 @@ leading other sheep (possibly referring to fans) into a pig's gaping anus, repre
 
 {% inline_fig(path="owczy-ped.jpg") %}
 Characters referenced: \
-Top panel: likely [Samson](@/w/samson.md) on TV, then Merch Stand Ania with the bell and THE END IS NOW sign. \
+Top panels: likely [Samson](@/w/samson.md) on TV (captioned "Retarded Simon"), then Merch Stand Ania with a bell and THE END IS NOW sign. \
 Middle panels: [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md) as pigs in front of a door. \
 [Wiktor Longman](@/w/wiktor-longman.md) wearing a long coat, Legia Łysych ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)) wearing scarves and "60" badges (labelling them as snitches, in reference to article 60 of the Polish criminal code). \
 Text on Marco's scarf reads "Legia Komfidentuf" (_Legion of the Sneetchez_, intentionally misspelled). \
