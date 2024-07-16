@@ -52,12 +52,15 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
   - '[Isnorr](@/w/isnorr.md)'
   - c: PpW European Ultraviolent Title Deathmatch
 - credits:
-    Referees: Sędzia Kornel, Sędzia Karol Górski, [Sędzia Seweryn](@/w/sedzia-seweryn.md)
+    Referees: Sędzia Kornel, [Sędzia Seweryn](@/w/sedzia-seweryn.md)
     Ring announcer: Michael HT
+    Commentary, Interviews: Konrad "Joker" Grześkiewicz
+    Commentary: '"Modzel" Szymon Modzelewski'
 {% end %}
 
 ### References
 
+* [YouTube livestream of the event](https://www.youtube.com/watch?v=UEQkSKMekCs&ab_channel=PpWEwenementWrestling)
 * [Facebook announcement post](https://www.facebook.com/photo/?fbid=976634991133560&set=a.499910772139320)
 * [Facebook event: Summer Course](https://www.facebook.com/events/1409438239775557/?acontext=%7B%22event_action_history%22%3A%5B%5D%7D)
 * [Facebook announcement of Crane vs Queen](https://www.facebook.com/OficjalnePPW/posts/pfbid0ihqTqNJFNkqXJR6xia7jrVyX78HtjWan8dvRPDa3s3aNb5xV79TKZusRbVger6bGl)
