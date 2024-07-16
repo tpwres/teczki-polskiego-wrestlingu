@@ -27,9 +27,10 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
   - 'FoxJoy: [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md)'
   - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship
       Tournament
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 #### Recap
 

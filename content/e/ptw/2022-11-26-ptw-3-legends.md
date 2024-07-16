@@ -41,11 +41,11 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - {g: true}
 - [Samuray Del Sol, Matt Sydal]
 - credits:
-    Referees: Sędzia Matek, Sędzia Seweryn
-    Commentary: Arek Paterek, Łukasz "Balik" Baliński
+    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Rafał'
+    Commentary: Arek Paterek, Łukasz "Balik" Baliński, Piotr "ShowOff" Małecki
     Special guest commentary for the main event: Andrzej Supron, Paweł "Boryss" Borkowski
     English commentary: Santino, Lewis Costello
-    Host, ring announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 

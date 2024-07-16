@@ -24,6 +24,7 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
   - 'Arrows of Hungary: [Dover](@/w/dover.md), Icarus'
   - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship
       Tournament
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski

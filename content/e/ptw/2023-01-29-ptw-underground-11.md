@@ -26,9 +26,10 @@ This was the only appearance of Aigle Blanc for PTW so far, and the second for S
 - - '[Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md)'
   - 'The Frenchadors: Aigle Blanc, Senza Volto'
   - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Rafał, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 ### References
 

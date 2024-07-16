@@ -21,9 +21,12 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
     Budzianowski](@/w/marcelito.md)'
   - s: Tag Team Match
 - ['[Justin Joy](@/w/justin-joy.md)', Senza Volto]
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
+### Aftermath
 
 This was [Jacob Crane](@/w/jacob-crane.md)'s last PTW appearance. He was later officially released in August 2022.
 

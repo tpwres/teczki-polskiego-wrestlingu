@@ -19,9 +19,11 @@ The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2
 - - 'PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
   - {r: DQ, s: Tag Team Match}
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Commentary: Arek Paterek, Łukasz "Balik" Baliński
+    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
-Host, ring announcer, General Manager: Arkadiusz Pawłowski
 
 ### References
 

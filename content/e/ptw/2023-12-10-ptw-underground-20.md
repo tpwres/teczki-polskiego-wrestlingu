@@ -17,6 +17,9 @@ venue = ["ptw-targowa"]
 - ["[King Kaiden](@/w/king-kaiden.md)", "Sędzia Rafał"]
 - ["[Sambor](@/w/sambor.md)", "Jarek Nowak"]
 - ["[Axel Fox](@/w/axel-fox.md)", "[Wiktor Longman](@/w/wiktor-longman.md)", {r: "DQ"}]
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### References

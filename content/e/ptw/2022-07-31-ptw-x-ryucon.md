@@ -27,8 +27,8 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
 - ['[Puncher](@/w/puncher.md)', '[Samson](@/w/samson.md)']
 - ['[Bad Bones](@/w/bad-bones.md)', '[Taras](@/w/taras.md)']
 - credits:
-    Referees: Sędzia Matek
-    Host, ring announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 

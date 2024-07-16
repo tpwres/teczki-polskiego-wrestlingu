@@ -25,6 +25,9 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 - ["[Puncher](@/w/puncher.md)", "[El Ogre](@/w/el-ogre.md)"]
 - ["[Nano Lopez](@/w/nano-lopez.md)", "Jarek Nowak"]
 - ["Peter Tihanyi", "[Axel Fox](@/w/axel-fox.md)"]
+- credits:
+    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 #### Recap

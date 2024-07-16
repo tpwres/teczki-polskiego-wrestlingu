@@ -25,9 +25,9 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 - ['[Justin Joy](@/w/justin-joy.md)', '[Vic Golden](@/w/vic-golden.md)', {r: DQ}]
 - credits:
     Commentary: 'Piotr "Showoff" Małecki, Łukasz "Balik" Baliński'
-    'Host, ring announcer, General Manager': '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Interviews: 'Tobiasz "Skyver" Korzybski'
-    Referees: Sędzia Klaudiusz, Sędzia Seweryn
+    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Recap
