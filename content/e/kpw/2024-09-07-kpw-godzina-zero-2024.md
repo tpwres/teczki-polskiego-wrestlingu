@@ -13,17 +13,20 @@ Godzina Zero (_Zero Hour_) 2024 is an upcoming seventh annual KPW supershow, hel
 According to KPW's event page, there will be a significant number of foreign talent at this event, including some new guests:
 
 * Hungarian wrestler and former KPW champion [Ron Corvus](@/w/ron-corvus.md), last seen two years prior, at [Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
-* English wrestlers "Multiversal" Alexander Roth and "Big Wavy" Roy Johnson, competing as "The 87".
-* German wrestler Hans Schulte, one half of Die Ordnung, former KPW Tag Team champions.
-* Italian wrestler and reigning KPW Champion Red Scorpion, in only his second defense of the title since winning it at [last year's event](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).
+* From England, "Multiversal" Alexander Roth and "Big Wavy" Roy Johnson, competing as "The 87".
+* One half of Die Ordnung, former KPW Tag Team champions: German wrestler Hans Schulte.
+* The reigning KPW Champion, Italian wrestler Red Scorpion, in only his second defense of the title since winning it at [last year's event](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).
 * Spanish wrestler Carlos Zamora, in his second appearance, previously seen at [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
+* Also from Germany, Flexos, previously seen at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md)
+* Scottish veteran Jack Jester, making his KPW debut. Jack is a veteran of ICW, and their Heavyweight champion in his second reign.
+* "Anglo-Greek Warrior" Reece Alexios, competing primarily in UK and recently in Australia, making his KPW debut.
 
 #### Build-up
 
 * In [his video][malinowski-video], Chairman Malinowski teased the return of a match type that used to be a staple of Godzina Zero - perhaps a Magnificent Seven Match.
 * In the same video Malinowski stated that Greg would face Fynn Freyhart at [Pyrkon 2024](@/e/kpw/2024-06-15-kpw-pyrkon-2024.md) and if he won, he'd get to challenge Red Scorpion for the KPW Championship at Godzina Zero 2024. Greg lost the match, leaving the championship match-up in the air.
 * Chairman Malinowski announced that all three championships would be defended.
-* Starting on 22.06.2024, KPW started daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
+* Starting on June 22, 2024, KPW started daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
 
 {{ skip_card() }}
 
