@@ -4,7 +4,7 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ddw"]
 [extra.gallery]
-1 = { path = "2013-08-25-ddw-charity-event-01.jpg", caption = "[Pan Pawłowski](@/w/pan-pawlowski.md) on a ~~motorcycle~~chopper.", source = "Facebook DDW" }
+1 = { path = "2013-08-25-ddw-charity-event-01.jpg", caption = "[Pan Pawłowski](@/w/pan-pawlowski.md) on a ~motorcycle~ chopper.", source = "Facebook DDW" }
 2 = { path = "2013-08-25-ddw-charity-event-02.jpg", caption = "[Don Roid](@/w/don-roid.md) and the audience.", source = "Facebook DDW" }
 3 = { path = "2013-08-25-ddw-charity-event-03.jpg", caption = "Pan Pawłowski and [Kamil Aleksander](@/w/kamil-aleksander.md).", source = "Facebook DDW" }
 4 = { path = "2013-08-25-ddw-charity-event-04.jpg", caption = "Kamil Aleksander vs [Klarys](@/w/klarys.md)", source = "Facebook DDW" }
