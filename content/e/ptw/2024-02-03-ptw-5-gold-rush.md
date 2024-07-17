@@ -59,7 +59,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - Arczi Czajka
   - {s: "Gold Rush Rumble", c: "PTW Championship"}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - Karolina (Pawłowski's real-life partner)
+  - Karolina {(Pawłowski's real-life partner)}
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Bad Bones](@/w/bad-bones.md), Marcin "Rzeźnik" Rzeźniczek'
   - g: true
