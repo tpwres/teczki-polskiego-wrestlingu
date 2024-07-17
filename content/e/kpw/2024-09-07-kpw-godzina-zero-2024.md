@@ -6,6 +6,8 @@ chronology = ["kpw", "godzina-zero"]
 venue = ["okrzei-6-gdynia"]
 [extra]
 hide_results = true
+[extra.gallery]
+1 = { path = "2024-09-07-kpw-godzina-zero-2024-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Godzina Zero (_Zero Hour_) 2024 is an upcoming seventh annual KPW supershow, held since 2016. Unlike most previous editions, GZ'24 is going to be held in September. It also marks the first time a main KPW event won't be held in the [Nowy Harem club](@/v/atlantic-nh-gdynia.md), since the promotion returned there with [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md). The change of venue to a larger gym hall of a school at Stefana Okrzei 6 street was dictated by the increased interest in recent events, with Arenas [21](@/e/kpw/2023-02-24-kpw-arena-21.md), [23](@/e/kpw/2023-11-24-kpw-arena-23.md), [24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md), [25](@/e/kpw/2024-05-17-kpw-arena-25.md) and [GZ'23](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) selling out and additional tickets being made available. The move, according to Chairman Malinowski, is a temporary one and the promotion still does business with Nowy Harem.
