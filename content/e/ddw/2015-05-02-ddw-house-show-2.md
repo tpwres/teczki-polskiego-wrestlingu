@@ -7,7 +7,7 @@ venue = ["gimnazjum-8-gdansk"]
 [extra]
 [extra.gallery]
 1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster", source = "DDW Facebook" }
-2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "[Kasandra](@/w/kasandra.md) vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
+2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "Kasandra vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
 3 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-1.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
 4 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-2.jpg", caption = "Greg vs Robert Star", source = "Krystian Malinowski" }
 5 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-3.jpg", caption = "Greg vs Robert Star", source = "Krystian Malinowski" }
@@ -22,12 +22,12 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
 - - '[Luxus](@/w/luxus.md)'
   - '{novice} [Rex Torpeda](@/w/krystian-malinowski.md)'
   - '{novice} [Prince Victor](@/w/vic-golden.md)'
-  - ???
+  - '???'
   - '{novice} Bestia'
   - '[Rosetti](@/w/rosetti.md)'
   - '{novice} [David Oliwa](@/w/david-oliwa.md)'
   - '{novice} [Damian Lambert](@/w/damien-rothschild.md)'
-  - ???
+  - '???'
   - s: Battle Royal
 - - '[Mira](@/w/mira.md)'
   - '[Bianca](@/w/bianca.md)'
@@ -39,7 +39,7 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
   - s: Two On One Handicap Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: '[Krystian Malinowski](@/w/krystian-malinowski.md)', Artur Dzwończak
+    Referees: '[Krystian Malinowski](@/w/krystian-malinowski.md), Artur Dzwończak'
 {% end %}
 
 #### Battle Royal
