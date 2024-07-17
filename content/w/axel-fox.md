@@ -35,7 +35,7 @@ Fox made a couple of appearances on the German indy scene, in Next Step Wrestlin
 His final appearance for MZW was at [Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
 Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/a/the-greens.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
 
-### 2021-2024 PTW and European Expansion
+### 2021-2024: PTW and European Expansion
 
 Fox left MZW in early 2021, having not appeared at the tapings for [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md).
 Later that year, along with some other "Greens", he joined [Prime Time Wrestling](@/o/ptw.md), becoming one of the most prominent babyfaces and workhorses of the organization, appearing on almost every show produced by the companyy.
@@ -49,6 +49,23 @@ In early 2024, Axel Fox was involved as one of the contenders at the [Gold Rush]
 During his tenure in PTW, Axel become one of the most active Polish pro wrestlers on the European indy scene, making regular appearances in Germany for wXw Academy, wXw itself and That's Awesome Wrestling; in Austria for Rings of Europe and the PTW-associated WWA; and in Hungary for HCW and Passion Pro Wrestling.
 
 He also became a part-time coach, training others at the PTW Performance Center.
+
+### 2024: PpW
+
+During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made his PpW debut as the surprise tag team partner of [Goblin](@/w/goblin.md), who was booked for a match against Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)).
+Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
+They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md).
+
+Shortly after the show, PpW announced that Axel Fox will become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md).
+
+## Championships and accomplishments
+
+PTW Awards (4 times):
+- Hero of the Year (2022)
+- Match of the Year (2022) - vs Justin Joy at [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)
+- Moment of the Year (2022) - reuniting with Justin Joy
+- Feud of the Year (2022) - vs Justin Joy
+
 
 ### References
 
