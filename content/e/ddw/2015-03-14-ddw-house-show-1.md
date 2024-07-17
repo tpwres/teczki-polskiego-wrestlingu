@@ -5,6 +5,8 @@ template = "event_page.html"
 chronology = ["ddw"]
 venue = ["gimnazjum-8-gdansk"]
 [extra]
+1 = { path = "2015-03-14-ddw-house-show-1-plakat.jpg", caption = "Official poster", source = "DDW Facebook" }
+2 = { path = "2015-03-14-ddw-house-show-1-mira-vs-kasandra-drawing.jpg", caption = "A young fan's drawing of Mira vs Kasandra", source = "DDW Facebook" }
 +++
 
 {% card() %}
@@ -12,7 +14,16 @@ venue = ["gimnazjum-8-gdansk"]
   "[Boski Ostrowski](@/w/ostrowski.md)"]
 - ['[Mira](@/w/mira.md)', Kasandra]
 - - '[GREG](@/w/greg.md)'
-  - '[Rex Torpeda](@/w/krystian-malinowski.md)'
+  - '{novice} [Rex Torpeda](@/w/krystian-malinowski.md)'
+  - '{novice} [Sawicki](@/w/sawicki.md)'
+  - '{novice} [Damian Lambert](@/w/damien-rothschild.md)'
+  - '{novice} Artur Dzwończak'
+  - '[Victor Rosetti](@/w/rosetti.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md)'
+  - '[Mateusz Kowalski](@/w/mateusz-kowalski.md)'
+  - '{novice} [Prince Victor](@/w/vic-golden.md)'
+  - ???
+  - '{novice} [David Oliwa](@/w/david-oliwa.md)'
   - s: Battle Royal
 - ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
 - ['[Don Roid](@/w/don-roid.md)', '[Robert Star](@/w/robert-star.md)']
@@ -21,7 +32,37 @@ venue = ["gimnazjum-8-gdansk"]
   - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - s: "Three Way Match"
 - credits:
+    Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
+{% end %}
+
+#### Battle Royal
+
+{% inline_fig(path="2015-03-14-ddw-house-show-1-battle-royal-1.jpg") %}
+Left to right: \
+{novice} [Sawicki](@/w/sawicki.md) (in the left corner) \
+{novice} [Rex Torpeda](@/w/krystian-malinowski.md) (kicking {novice} Sawicki) \
+[Greg](@/w/greg.md) (behind {novice} Rex Torpeda, in white T-shirt) \
+{novice} [Damian Lambert](@/w/damien-rothschild.md) (being thrown out by Greg) \
+{novice} Artur Dzwończak (in red shorts, against the ropes) \
+[Victor Rosetti](@/w/rosetti.md) (in black vest, attacking {novice} Artur Dzwończak) \
+[Boski Ostrowski](@/w/ostrowski.md) (in blue trousers) \
+[Mateusz Kowalski](@/w/mateusz-kowalski.md) (holding the top rope) \
+{novice} [Prince Victor](@/w/vic-golden.md) (attacking Mateusz Kowalski) \
+unknown (behind {novice} Prince Victor) \
+{novice} [David Oliwa](@/w/david-oliwa.md) (kneeling, in gaudy undies) \
+(Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
+{% end %}
+
+{% inline_fig(path="2015-03-14-ddw-house-show-1-battle-royal-2.jpg") %}
+Left to right: \
+Mateusz Kowalski \
+{novice} Prince Victor \
+probably {novice} Sawicki, or the unknown contender \
+{novice} Rex Torpeda \
+{novice} Damian Lambert \
+Greg \
+(Source: Krystian Malinowski)
 {% end %}
 
 ### References
