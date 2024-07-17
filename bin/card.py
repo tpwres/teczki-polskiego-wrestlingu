@@ -5,8 +5,14 @@ import re
 from itertools import chain
 from dataclasses import dataclass
 
-markdown_link_re = re.compile(r'''
+person_link_re = re.compile(r'''
     ^
+    (?P<opt> # Optional content
+      \{ # Enclosed in braces
+        \w+ # Any text
+      \}
+      \s* # Optional whitespace
+    )?
     \[ # Square brackets surround link text
         (?P<text>.*?)
         (?:\(c\))? # May have a champion marker, which we do not capture
@@ -25,7 +31,7 @@ class Name:
     link: Optional[str] = None
 
     def __init__(self, name_or_link: str):
-        match markdown_link_re.match(name_or_link):
+        match person_link_re.match(name_or_link):
             case re.Match() as m:
                 # __setattr__ is required boilerplate when using frozen dataclass
                 object.__setattr__(self, 'name', m.group('text'))
