@@ -60,7 +60,7 @@ Shortly after the show, PpW announced that Axel Fox will become a permanent coac
 
 ## Championships and accomplishments
 
-PTW Awards (4 times):
+[PTW Awards](@/a/ptw-awards.md) (4 times):
 - Hero of the Year (2022)
 - Match of the Year (2022) - vs Justin Joy at [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)
 - Moment of the Year (2022) - reuniting with Justin Joy
