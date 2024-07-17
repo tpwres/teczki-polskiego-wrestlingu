@@ -11,6 +11,8 @@ authors = ["Seweryn Pielucha"]
 
 The PTW Awards (Nagrody podsumowujące rok, loosely translated as _End-Of-Year Awards_) are a PTW initiative where awards, similar to the Academy Awards or WWE-estabilished Slammy Awards, are given to professional wrestlers and other individuals within PTW, such as commentators and referees, for notable achievements during the year.
 
+<!-- more -->
+
 The awards were originally planned to be hosted annually, at the end of the year.
 However, so far only one edition has been held, in Dec 2022/Jan 2023, to summarize the first chapter of PTW's existence, from [PTW#1: Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) till the end of 2022.
 Fans nominated their candidates by voting with reactions on PTW's Facebook page, which posted selected nominees in multiple categories.
