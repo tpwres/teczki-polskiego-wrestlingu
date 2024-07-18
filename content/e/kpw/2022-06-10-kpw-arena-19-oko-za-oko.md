@@ -33,6 +33,7 @@ Originally the Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) 
 * Greg delivered his sermon from the ring, where he announced he's not going to exert himself as he only cares for the upcoming Godzina Zero. Then he performed a ceremony to swear in a new tag team of Lesak and Chemik.
 * With the ref distracted, Greg put on his signet ring, and punched Darius to win.
 * Freyhart scored the first pinfall. David's victory was interrupted by the Gregorian Branch. Greg, waving a soft penis-shaped candy from his crotch, attempted to "feed" it to David, held down by Rosetti. The Fux Brothers and Zefir interfered to help David and Fynn.
+* This event marked the last appearance of Piotr Opolski, who sustained an injury shortly thereafter.
 
 ### References
 
