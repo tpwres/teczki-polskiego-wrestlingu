@@ -5,7 +5,9 @@ from utils import accepted_name
 import json
 from collections import Counter
 from functools import reduce
+from card import Match, Name
 from page import Page
+from typing import Optional
 
 def main():
     org_rosters = {}
@@ -38,8 +40,18 @@ def main():
     # 7. Output JSON files
 
 
-def extract_names(matches):
-    return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], set([]))
+def extract_names(matches: list[Match]) -> set[Name]:
+    # Same as in build_metadata.py
+    initial: set[Name] = set([])
+    for m in matches:
+        names: list[Optional[Name]] = list(m.all_names())
+        exclude = m.options.get('x', [])
+        for exclude_index in exclude:
+            names[exclude_index - 1] = None
+        for name in names:
+            if name is None: continue
+            initial.add(name)
+    return initial
 
 def sanitize_roster(roster):
     # Roster is a Counter where keys are Name objects, but may either be ones
