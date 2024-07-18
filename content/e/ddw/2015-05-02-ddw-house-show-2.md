@@ -23,7 +23,7 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
   - '[_rookie_ Rex Torpeda](@/w/krystian-malinowski.md)'
   - '[_rookie_ Prince Victor](@/w/vic-golden.md)'
   - '???'
-  - '{novice} Bestia'
+  - '_rookie_ Bestia'
   - '[_rookie_ Rosetti](@/w/rosetti.md)'
   - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
   - '[_rookie_ Damian Lambert](@/w/damien-rothschild.md)'
@@ -45,7 +45,7 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
 #### Battle Royal
 
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-1.jpg") %}
-{novice} [Rex Torpeda](@/w/krystian-malinowski.md) \
+_rookie_ [Rex Torpeda](@/w/krystian-malinowski.md) \
 referee Artur Dzwończak \
 [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (against the wall, on the left) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
@@ -53,40 +53,40 @@ referee Artur Dzwończak \
 
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-2.jpg") %}
 Left to right: \
-{novice} [Prince Victor](@/w/vic-golden.md) (in purple trousers) \
+_rookie_ [Prince Victor](@/w/vic-golden.md) (in purple trousers) \
 unknown \
 unknown \
-{novice} Rex Torpeda (in red trousers) \
+_rookie_ Rex Torpeda (in red trousers) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-3.jpg") %}
 Left to right: \
 unknown \
-{novice} Bestia (with long hair) \
+_rookie_ Bestia (with long hair) \
 [Victor Rosetti](@/w/rosetti.md) \
 [Luxus](@/w/luxus.md) (in foreground, entering the ring) \
 unknown (behind Luxus) \
-{novice} Rex Torpeda \
+_rookie_ Rex Torpeda \
 referee Artur Dzwończak (outside of the ring) \
-{novice} [David Oliwa](@/w/david-oliwa.md) (in gaudy undies) \
-{novice} [Damian Lambert](@/w/damien-rothschild.md) (behind {novice} David Oliwa) \
+_rookie_ [David Oliwa](@/w/david-oliwa.md) (in gaudy undies) \
+_rookie_ [Damian Lambert](@/w/damien-rothschild.md) (behind _rookie_ David Oliwa) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-4.jpg") %}
 Left to right: \
 Rosetti (leaning towards the corner) \
-{novice} Damian Lambert (with his guard up) \
-{novice} Rex Torpeda (attacking Damian Lambert) \
-unknown {novice} (falling down) \
-{novice} Prince Victor (in purple  trousers)\
+_rookie_ Damian Lambert (with his guard up) \
+_rookie_ Rex Torpeda (attacking Damian Lambert) \
+unknown rookie (falling down) \
+_rookie_ Prince Victor (in purple  trousers)\
 Luxus (holding the top rope) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-5.jpg") %}
-{novice} [Rex Torpeda](@/w/krystian-malinowski.md) \
+_rookie_ [Rex Torpeda](@/w/krystian-malinowski.md) \
 referee Artur Dzwończak \
 [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (against the wall, on the left) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))

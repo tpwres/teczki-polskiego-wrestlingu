@@ -40,27 +40,27 @@ venue = ["gimnazjum-8-gdansk"]
 
 {% inline_fig(path="2015-03-14-ddw-house-show-1-battle-royal-1.jpg") %}
 Left to right: \
-{novice} [Sawicki](@/w/sawicki.md) (in the left corner) \
-{novice} [Rex Torpeda](@/w/krystian-malinowski.md) (kicking {novice} Sawicki) \
-[Greg](@/w/greg.md) (behind {novice} Rex Torpeda, in white T-shirt) \
-{novice} [Damian Lambert](@/w/damien-rothschild.md) (being thrown out by Greg) \
-{novice} Artur Dzwończak (in red shorts, against the ropes) \
-[Victor Rosetti](@/w/rosetti.md) (in black vest, attacking {novice} Artur Dzwończak) \
+_rookie_ [Sawicki](@/w/sawicki.md) (in the left corner) \
+_rookie_ [Rex Torpeda](@/w/krystian-malinowski.md) (kicking _rookie_ Sawicki) \
+[Greg](@/w/greg.md) (behind _rookie_ Rex Torpeda, in white T-shirt) \
+_rookie_ [Damian Lambert](@/w/damien-rothschild.md) (being thrown out by Greg) \
+_rookie_ Artur Dzwończak (in red shorts, against the ropes) \
+[Victor Rosetti](@/w/rosetti.md) (in black vest, attacking _rookie_ Artur Dzwończak) \
 [Boski Ostrowski](@/w/ostrowski.md) (in blue trousers) \
 [Mateusz Kowalski](@/w/mateusz-kowalski.md) (holding the top rope) \
-{novice} [Prince Victor](@/w/vic-golden.md) (attacking Mateusz Kowalski) \
-unknown (behind {novice} Prince Victor) \
-{novice} [David Oliwa](@/w/david-oliwa.md) (kneeling, in gaudy undies) \
+_rookie_ [Prince Victor](@/w/vic-golden.md) (attacking Mateusz Kowalski) \
+unknown (behind _rookie_ Prince Victor) \
+_rookie_ [David Oliwa](@/w/david-oliwa.md) (kneeling, in gaudy undies) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 
 {% inline_fig(path="2015-03-14-ddw-house-show-1-battle-royal-2.jpg") %}
 Left to right: \
 Mateusz Kowalski \
-{novice} Prince Victor \
-probably {novice} Sawicki, or the unknown contender \
-{novice} Rex Torpeda \
-{novice} Damian Lambert \
+_rookie_ Prince Victor \
+probably _rookie_ Sawicki, or the unknown contender \
+_rookie_ Rex Torpeda \
+_rookie_ Damian Lambert \
 Greg \
 (Source: Krystian Malinowski)
 {% end %}
