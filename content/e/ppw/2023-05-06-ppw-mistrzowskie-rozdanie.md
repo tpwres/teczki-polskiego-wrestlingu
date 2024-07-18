@@ -22,4 +22,8 @@ city = "Warszawa"
   - "[Bill Feager](@/w/feager.md)"
   - "[Mister Z](@/w/mister-z.md)"
   - s: "Fatal Four Way Match"
+- credits:
+    Host, Ring Announcer: Michael HT
+    Interviewer: Szymon Kuciok
+    Referees: Sędzia Kornel
 {% end %}

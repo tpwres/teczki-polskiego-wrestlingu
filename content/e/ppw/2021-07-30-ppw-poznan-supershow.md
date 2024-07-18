@@ -42,10 +42,10 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - ['[Johnny Blade](@/w/johnny-blade.md)', '[Adam Wong](@/w/adam-wong.md)', {s: Classic
       Wrestling Match}]
 - ['[Isnorr](@/w/isnorr.md)', Bonus CBD]
+- credits:
+    Host: Michael HT
+    Referees: Sędzia Borys
 {% end %}
-
-Referee: Sędzia Gocha \
-Ring announcer: Michael HT
 
 #### Recap
 

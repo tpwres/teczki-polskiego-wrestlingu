@@ -24,6 +24,9 @@ venue=["waldorffa25"]
 - - "Viking"
   - "[Johnny Blade](@/w/johnny-blade.md)(c)"
   - c: VcV Hardcore Championship
+- credits:
+    Host, Ring Announcer: Michael HT
+    Referees: Sędzia Gocha # Borys
 {% end %}
 
 ### References
