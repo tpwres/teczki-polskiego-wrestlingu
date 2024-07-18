@@ -20,13 +20,13 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
 {% card() %}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
 - - '[Luxus](@/w/luxus.md)'
-  - '{novice} [Rex Torpeda](@/w/krystian-malinowski.md)'
-  - '{novice} [Prince Victor](@/w/vic-golden.md)'
+  - '[_rookie_ Rex Torpeda](@/w/krystian-malinowski.md)'
+  - '[_rookie_ Prince Victor](@/w/vic-golden.md)'
   - '???'
   - '{novice} Bestia'
-  - '[Rosetti](@/w/rosetti.md)'
-  - '{novice} [David Oliwa](@/w/david-oliwa.md)'
-  - '{novice} [Damian Lambert](@/w/damien-rothschild.md)'
+  - '[_rookie_ Rosetti](@/w/rosetti.md)'
+  - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
+  - '[_rookie_ Damian Lambert](@/w/damien-rothschild.md)'
   - '???'
   - s: Battle Royal
 - - '[Mira](@/w/mira.md)'
