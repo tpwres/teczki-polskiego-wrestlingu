@@ -14,16 +14,16 @@ venue = ["gimnazjum-8-gdansk"]
   "[Boski Ostrowski](@/w/ostrowski.md)"]
 - ['[Mira](@/w/mira.md)', Kasandra]
 - - '[GREG](@/w/greg.md)'
-  - '{novice} [Rex Torpeda](@/w/krystian-malinowski.md)'
-  - '{novice} [Sawicki](@/w/sawicki.md)'
-  - '{novice} [Damian Lambert](@/w/damien-rothschild.md)'
-  - '{novice} Artur Dzwończak'
+  - '[_rookie_ Rex Torpeda](@/w/krystian-malinowski.md)'
+  - '[_rookie_ Sawicki](@/w/sawicki.md)'
+  - '[_rookie_ Damian Lambert](@/w/damien-rothschild.md)'
+  - '_rookie_ Artur Dzwończak'
   - '[Victor Rosetti](@/w/rosetti.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Mateusz Kowalski](@/w/mateusz-kowalski.md)'
-  - '{novice} [Prince Victor](@/w/vic-golden.md)'
+  - '[_rookie_ Prince Victor](@/w/vic-golden.md)'
   - ???
-  - '{novice} [David Oliwa](@/w/david-oliwa.md)'
+  - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
   - s: Battle Royal
 - ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
 - ['[Don Roid](@/w/don-roid.md)', '[Robert Star](@/w/robert-star.md)']
