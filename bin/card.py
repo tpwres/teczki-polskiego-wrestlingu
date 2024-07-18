@@ -56,7 +56,6 @@ class Name:
 
     def __init__(self, name_or_link: str):
         if m := person_link_re.match(name_or_link):
-            print(m)
             # __setattr__ is required boilerplate when using frozen dataclass
             object.__setattr__(self, 'name', m.group('text'))
             object.__setattr__(self, 'link', m.group('target'))
