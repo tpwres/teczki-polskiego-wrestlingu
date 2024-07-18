@@ -9,7 +9,7 @@ authors = ["Seweryn Pielucha"]
 3 = { path = "ptw-awards-results.png", caption = "Facebook post announcing winners in each category.", source = "Facebook PTW"}
 +++
 
-The PTW Awards (Nagrody podsumowujące rok, loosely translated as _End-Of-Year Awards_) are a PTW initiative where awards, similar to the Academy Awards or WWE-estabilished Slammy Awards, are given to professional wrestlers and other individuals within PTW, such as commentators and referees, for notable achievements during the Year.
+The PTW Awards (Nagrody podsumowujące rok, loosely translated as _End-Of-Year Awards_) are a PTW initiative where awards, similar to the Academy Awards or WWE-estabilished Slammy Awards, are given to professional wrestlers and other individuals within PTW, such as commentators and referees, for notable achievements during the year.
 
 <!-- more -->
 
