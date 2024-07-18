@@ -7,15 +7,20 @@ from dataclasses import dataclass
 
 person_link_re = re.compile(r'''
     ^
-    (?P<opt> # Optional content
-      \{ # Enclosed in braces
-        \w+ # Any text
-      \}
-      \s* # Optional whitespace
-    )?
     \[ # Square brackets surround link text
+        (?: # Optional prefix
+          (?P<delim>[*_]) # begins with an underscore or asterisk
+          (?P<prefix>.*?) # followed by text
+          (?P=delim) # ends with the same delimiter character
+        )?
+        \s* # May be followed by whitespace
         (?P<text>.*?)
         (?:\(c\))? # May have a champion marker, which we do not capture
+        (?: # Optional suffix
+          (?P<sdelim>[*_]) # begins with an underscore or asterisk
+          (?P<suffix>.*?) # followed by text
+          (?P=sdelim) # ends with the same delimiter character
+        )?
     \]
     \( # Then, parentheses surround link target
         (?P<target>.*?)
@@ -25,28 +30,57 @@ person_link_re = re.compile(r'''
     $
 ''', re.VERBOSE)
 
+person_plain_re = re.compile(r'''
+    ^
+    (?: # Optional part
+        (?P<delim>[*_]) # begins with an underscore or asterisk
+        (?P<prefix>.*?) # followed by text
+        (?P=delim) # ends with the same delimiter character
+    )?
+    (?P<text>.*?)
+    (?:\(c\))? # Optional champion marker
+    (?: # Optional suffix
+        (?P<sdelim>[*_]) # begins with an underscore or asterisk
+        (?P<suffix>.*?) # followed by text
+        (?P=sdelim) # ends with the same delimiter character
+    )?
+    \s* # Eat whitespace
+    $
+''', re.VERBOSE)
+
 @dataclass(frozen=True)
 class Name:
     name: str
     link: Optional[str] = None
+    annotation: Optional[str] = None
 
     def __init__(self, name_or_link: str):
-        match person_link_re.match(name_or_link):
-            case re.Match() as m:
-                # __setattr__ is required boilerplate when using frozen dataclass
-                object.__setattr__(self, 'name', m.group('text'))
-                object.__setattr__(self, 'link', m.group('target'))
-            case _:
-                if '[' in name_or_link:
-                    raise ValueError(name_or_link)
-                object.__setattr__(self, 'name', name_or_link.strip().replace("(c)", ""))
+        if m := person_link_re.match(name_or_link):
+            print(m)
+            # __setattr__ is required boilerplate when using frozen dataclass
+            object.__setattr__(self, 'name', m.group('text'))
+            object.__setattr__(self, 'link', m.group('target'))
+            object.__setattr__(self, 'prefix', m.group('prefix'))
+            object.__setattr__(self, 'suffix', m.group('suffix'))
+        elif m := person_plain_re.match(name_or_link):
+            if '[' in name_or_link:
+                # Capture broken markdown links
+                raise ValueError(name_or_link)
+            object.__setattr__(self, 'name', m.group('text').strip())
+            object.__setattr__(self, 'prefix', m.group('prefix'))
+            object.__setattr__(self, 'suffix', m.group('suffix'))
+        else:
+            raise ValueError(name_or_link)
 
     def __repr__(self) -> str:
         cls = self.__class__.__name__ # Important for subclasses
-        return "{}({})".format(cls, self.format_link())
+        return f"{cls}({self.format_link()})"
 
     def format_link(self):
-        return "[{0}]({1})".format(self.name, self.link)
+        if self.annotation:
+            return f"{{{self.annotation}}}[{self.name}]({self.link})"
+
+        return f"[{self.name}]({self.link})"
 
 class Participant:
     # Abstract
