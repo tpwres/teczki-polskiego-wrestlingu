@@ -24,6 +24,9 @@ The event name, which translates to "Best Gala In Town", is a reference to the f
   - {s: "Casket Match", c: "PpW European Ultraviolent Championship"}
 - ["[Biesiad Strong](@/w/biesiad.md)(c)", "[Steve Kuningas](@/w/steve-kuningas.md)",
   {s: "Ladder Match", c: "PpW Championship"}]
+- credits:
+    Host, Ring Announcer: Michael HT
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), Sędzia Gocha' # Borys
 {% end %}
 
 ### References

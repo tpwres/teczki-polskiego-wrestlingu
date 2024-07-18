@@ -20,4 +20,7 @@ city = "Warszawa"
   {s: "Death Match", c: "[PPW European Ultraviolent Championship](@/o/ppw.md#championships)"}]
 - ["[Steve Kuningas](@/w/steve-kuningas.md)", "[Biesiad Strong](@/w/biesiad.md)(c)",
   {c: "[PPW Championship](@/o/ppw.md#championships)"}]
+- credits:
+    Host, Ring Announcer: Michael HT
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}

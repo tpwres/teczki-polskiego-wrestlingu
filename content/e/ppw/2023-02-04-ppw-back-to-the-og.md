@@ -18,6 +18,9 @@ city = "Warszawa"
 - ["[Bill Feager](@/w/feager.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Isnorr](@/w/isnorr.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "PpW Championship",
     s: "Hardcore Match"}]
+- credits:
+    Host, Ring Announcer: '"OG" Michael HT'
+    Referees: 'Sędzia Borys, [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
 ### References

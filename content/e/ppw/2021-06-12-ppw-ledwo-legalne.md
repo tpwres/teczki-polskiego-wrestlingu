@@ -16,6 +16,10 @@ city = "Warszawa"
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Adam Wong](@/w/adam-wong.md)"]
 - ["[Hades](@/w/olgierd.md)", "[Johnny Blade](@/w/johnny-blade.md)", {s: "Hardcore Match", nc: "Draw"}]
 - ["[Osamu](@/w/osamu.md)", "[Mister Z](@/w/mister-z.md)(c)", {c: "PpW Championship"}]
+- credits:
+    Host: Michael HT
+    Ring Announcer: Julian
+    Referees: Sędzia Gocha
 {% end %}
 
 ### References

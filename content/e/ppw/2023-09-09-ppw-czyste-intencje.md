@@ -20,4 +20,8 @@ city = "Warszawa"
 - - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Steve Kuningas](@/w/steve-kuningas.md)"
   - "[Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)"
   - s: "Tag Team Match"
+- credits:
+    Host, Ring Announcer: Michael HT
+    Interviewer: Szymon Kuciok
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}

@@ -90,6 +90,7 @@ Shortly before the show, they were trading insults and challeneges online with L
 - credits:
     Referees: Sędzia Karol Górski, Sędzia Kornel
     Host and Ring Announcer: Michael HT
+    Interviewer: Konrad "Joker" Grześkiewicz
 {% end %}
 
 ### References

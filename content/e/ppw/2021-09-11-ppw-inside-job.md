@@ -19,6 +19,10 @@ Inside Job was an event by [PPW Ewenement](@/o/ppw.md) held on September 11, 202
       Match"}]
 - ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Direk](@/w/direk.md)", {s: "Hardcore Match"}]
 - ["[Mister Z](@/w/mister-z.md)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
+- credits:
+    Host, Ring Announcer: Michael HT
+    Guest Announcer: Julian
+    Referee: Sędzia Gocha
 {% end %}
 
 ### References

@@ -14,6 +14,8 @@ chronology = ["ppw"]
   - '[Feager](@/w/feager.md)'
   - s: Tornado Hardcore Match
     n: Feager no-showed the fight.
+- credits:
+    Referee: Koteł
 {% end %}
 
 
