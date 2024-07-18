@@ -5,14 +5,27 @@ from collections import Counter
 from articles import load_names_with_aliases
 import json
 from functools import reduce
-from typing import Iterable, cast
+from typing import Iterable, cast, Optional
 from utils import RichEncoder, accepted_name
 from card import Match, Name
 from page import Page
 
 def extract_names(matches: Iterable[Match]) -> set[Name]:
+    """
+    Return a set of all distinct participants given a list of Matches.
+    Match object may have an `x` key in their options. This must be a list of integer 1-based indices.
+    If present, the indices mark people to REMOVE from this participant list.
+    """
     initial: set[Name] = set([])
-    return reduce(lambda a, b: a | b, [set(m.all_names()) for m in matches], initial)
+    for m in matches:
+        names: list[Optional[Name]] = list(m.all_names())
+        exclude = m.options.get('x', [])
+        for exclude_index in exclude:
+            names[exclude_index - 1] = None
+        for name in names:
+            if name is None: continue
+            initial.add(name)
+    return initial
 
 # Not strictly necessary as the career hash can be used to pull the same info
 def update_years_active(years: dict[str, set[int]], page: Page):
