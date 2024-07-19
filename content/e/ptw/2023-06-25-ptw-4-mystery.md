@@ -38,7 +38,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Commentary: Łukasz "Balik" Baliński, Arek Paterek, Piotr "Showoff" Małecki
+    Commentary: Łukasz "Balik" Baliński, Arek Paterek, Piotr "ShowOff" Małecki
     Special Guest Commentary: Paweł "Boryss" Borkowski
 {% end %}
 
