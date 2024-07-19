@@ -6,6 +6,10 @@ authors = ["Seweryn Pielucha"]
 country = ["PL"]
 [extra]
 career_aliases = ["Amisz"]
+[extra.gallery.1]
+path = "fox-is-ewenement.webp"
+caption = "Facebook graphic confirming that Axel Fox has joined PpW"
+source = "Facebook @OficjalnePPW"
 +++
 
 ## Basic info
@@ -56,7 +60,7 @@ During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made
 Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
 They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md).
 
-Shortly after the show, PpW announced that Axel Fox will become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md).
+Shortly after the show, PpW announced that Axel Fox will become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
 
 ## Championships and accomplishments
 
