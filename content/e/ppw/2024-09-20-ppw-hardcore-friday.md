@@ -6,9 +6,9 @@ chronology = ["ppw"]
 venue=["2kola"]
 +++
 
-In the closing sequene of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), Michael HT announced the next show: a return of the classic Hardcore Friday series, set in PpW's original venue, motorcycle pub [2 KOŁA](@/v/2kola.md).
+In the closing sequene of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), Michael HT announced the next show: the return of the classic Hardcore Friday series, set in PpW's original venue, motorcycle pub [2KOŁA](@/v/2kola.md).
 
-The event's name refers to the Backyard PPW Era. [Hardcore Friday][hf-wiki] was one of PPW's rosters (or weeklies, which never actually occured weekly), featuring [Johnny Blade](@/w/johnny-blade.md), [Feager](@/w/feager.md), [Hades](@/w/olgierd.md) and [Rob Scaffold](@/w/rob-scaffold.md).
+The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was one of PpW's rosters (or weeklies, which never actually occured weekly), featuring [Johnny Blade](@/w/johnny-blade.md), [Bill Feager](@/w/feager.md), [Hades](@/w/olgierd.md) and [Rob Scaffold](@/w/rob-scaffold.md).
 
 {{ skip_card() }}
 
