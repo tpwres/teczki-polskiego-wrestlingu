@@ -22,7 +22,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/el-ogre.md)']
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
 - credits:
-    Commentary: Piotr "Showoff" Małecki, Arek Paterek
+    Commentary: Piotr "ShowOff" Małecki, Arek Paterek
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Interviews: Tobiasz "Skyver" Korzybski
     Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
