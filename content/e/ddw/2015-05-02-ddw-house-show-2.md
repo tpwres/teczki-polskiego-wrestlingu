@@ -24,7 +24,7 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
   - '[_rookie_ Prince Victor](@/w/vic-golden.md)'
   - '???'
   - '_rookie_ Bestia'
-  - '[_rookie_ Rosetti](@/w/rosetti.md)'
+  - '[_rookie_ Victor Rosetti](@/w/rosetti.md)'
   - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
   - '[_rookie_ Damian Lambert](@/w/damien-rothschild.md)'
   - '???'
