@@ -25,5 +25,25 @@
         {% endif %}
       </li>
     {% endfor %}
+    {% if has_events %}
+      <li>
+        <a href="#events">Events</a>
+      </li>
+    {% endif %}
+    {% if has_career %}
+      <li>
+        <a href="#career">Career</a>
+      </li>
+    {% endif %}
+    {% if has_roster %}
+      <li>
+        <a href="#all-time-roster">All-time roster</a>
+      </li>
+    {% endif %}
+    {% if has_gallery %}
+      <li>
+        <a href="#gallery">Gallery</a>
+      </li>
+    {% endif %}
   </ol>
 </details>

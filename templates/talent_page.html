@@ -5,6 +5,9 @@
 {% endblock %}
 
 {% block content %}
+{% if page.extra.gallery -%}{% set has_gallery = true %}{% endif %}
+{% if not page.extra.omit_career -%}{% set has_career = true %}{% endif %}
+
 {% include "h1_with_flag.html"%}
 
 {% if page.extra|get(key="toclevel", default=0) >= 1 %}
@@ -13,12 +16,12 @@
 
 {{ page.content | safe }}
 
-{% if page.extra.gallery -%}
+{% if has_gallery -%}
   {% include "auto_lightbox.html" -%}
 {% endif -%}
 
-{% if not page.extra.omit_career -%}
-  <h2>Career</h2>
+{% if has_career -%}
+  <h2 id="career">Career</h2>
   {% include "career.html" %}
 {% endif %}
 

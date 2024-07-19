@@ -4,7 +4,13 @@
 {% block extra_head %}
 <link rel="stylesheet" href="{{ get_url(path="/tables.css") }}"/>
 {% endblock %}
+
 {% block content %}
+{# NOTE: must be in block content #}
+{% if page.extra.gallery -%}{% set has_gallery = true %}{% endif %}
+{% if not page.extra.hide_events -%}{% set has_events = true %}{% endif %}
+{% if not page.extra.hide_roster -%}{% set has_roster = true %}{% endif %}
+
 <h1>{{ page.title }}</h1>
 
 {% if page.extra|get(key="toclevel", default=0) >= 1 %}
@@ -13,8 +19,8 @@
 
 {{ page.content | safe }}
 
-{% if not page.extra.hide_events -%}
-<h2>Events</h2>
+{% if has_events -%}
+<h2 id="events">Events</h2>
 {% include "events_from_org_taxonomy.html" -%}
 {% endif -%}
 
@@ -23,7 +29,7 @@
   {% include "all_time_roster.html" -%}
 {% endif -%}
 
-{% if page.extra.gallery -%}
+{% if has_gallery -%}
   {% include "auto_lightbox.html" -%}
 {% endif -%}
 
