@@ -1,5 +1,5 @@
 +++
-title = "PPW Kiedyś Będzie Lepiej"
+title = "PpW Kiedyś Będzie Lepiej"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
