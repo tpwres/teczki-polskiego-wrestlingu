@@ -6,6 +6,10 @@
     {% include "badges/kpw.html" %}
   {% elif code == "ppw" %}
     {% include "badges/ppw.html" %}
+  {% elif code == "mzw" %}
+    {% include "badges/mzw.html" %}
+  {% elif code == "ptw" %}
+    {% include "badges/ptw.html" %}
   {% else %}
     {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
@@ -29,6 +33,10 @@
     {% include "badges/kpw.html" %}
   {% elif code == "ppw" %}
     {% include "badges/ppw.html" %}
+  {% elif code == "mzw" %}
+    {% include "badges/mzw.html" %}
+  {% elif code == "ptw" %}
+    {% include "badges/ptw.html" %}
   {% else %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
@@ -59,6 +67,10 @@
       {% include "badges/ppw.html" %}
     {% elif org == "kpw" %}
       {% include "badges/kpw.html" %}
+    {% elif org == "mzw" %}
+      {% include "badges/mzw.html" %}
+    {% elif org == "ptw" %}
+      {% include "badges/ptw.html" %}
     {% else %}
       <div style="flex-grow: {{ cnt / total }};
                   background: {{ bg }};

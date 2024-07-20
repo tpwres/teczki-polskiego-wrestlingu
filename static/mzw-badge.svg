@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!--           by M3n747  <m3n747@gmail.com           -->
+
+<svg
+   width="19.049999mm"
+   height="9.7213926mm"
+   viewBox="0 0 19.05 9.7213937"
+   version="1.1"
+   id="svg1705"
+   xml:space="preserve"
+   sodipodi:docname="mzw-badge.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1707"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="18.005794"
+     inkscape:cx="32.406236"
+     inkscape:cy="22.603836"
+     inkscape:window-width="5120"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" /><defs
+     id="defs1702"><inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path2103,0,1|#path1908,0,1|#path1843,0,1|#path1937,0,1|"
+       id="path-effect1" /></defs><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="MZW logo"
+     transform="matrix(0.09353678,0,0,0.09353678,-0.03059587,-4.622912)"
+     style="display:inline"><path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:2.51354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 6.0193418,62.959117 42.5249342,4.209924 8.537402,10.135191 13.099125,-8.331679 96.384957,9.891728 -11.56933,7.1436 -2.47946,10.126837 8.10753,-4.923605 5.45677,6.342618 2.50798,-11.222575 35.98337,-22.287251 -14.76247,61.472975 13.14955,15.41737 -42.32512,-4.11254 -8.44923,-10.0865 -12.7868,7.84216 -96.170882,-9.52063 11.151265,-7.14446 2.341726,-9.81782 -8.05465,4.96307 -5.451739,-6.60625 -2.649875,11.50134 -35.7877324,21.9111 14.7431604,-61.268114 z"
+       id="path2103"
+       inkscape:label="Obrys"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" /><path
+       id="path1843"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:label="M-Z-W"
+       d="M 21.563097,70.495324 26.775576,76.813618 14.81202,126.85166 34.306207,114.6626 39.783567,92.195331 50.589934,104.72265 66.820253,94.806425 62.096546,114.65073 81.608535,102.47354 87.685262,77.027253 71.449008,75.389385 55.189019,85.453962 44.459797,72.683343 Z m 71.55866,7.08376 -3.323379,13.595644 16.180492,1.678474 -45.251667,28.131228 55.490357,5.60611 3.28981,-13.72993 -16.38191,-1.67847 45.5538,-28.231938 z m 34.513233,23.992446 -6.00551,25.44629 16.16504,1.63787 16.23625,-10.11205 10.8479,12.84183 23.07258,2.32625 -5.55451,-6.504 12.0585,-49.966832 -19.5832,12.129715 -5.38835,22.574087 -10.72922,-12.74688 -16.30746,9.99336 4.69997,-19.701881 z" /></g></svg>
