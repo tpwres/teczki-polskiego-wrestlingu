@@ -14,6 +14,8 @@
     {% include "badges/ptw.html" %}
   {% elif code == "tbw" %}
     {% include "badges/tbw.html" %}
+  {% elif code == "dfw" %}
+    {% include "badges/dfw.html" %}
   {% else %}
     {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
@@ -44,6 +46,8 @@
     {% include "badges/ptw.html" %}
   {% elif code == "tbw" %}
     {% include "badges/tbw.html" %}
+  {% elif code == "dfw" %}
+    {% include "badges/dfw.html" %}
   {% else %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
@@ -83,6 +87,8 @@
       {% include "badges/ptw.html" %}
     {% elif org == "tbw" %}
       {% include "badges/tbw.html" %}
+    {% elif org == "dfw" %}
+      {% include "badges/dfw.html" %}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};

@@ -67,8 +67,7 @@ bg = '#000'
 fg = '#8c8d87'
 
 [extra.org_styles.dfw]
-fg = '#a9100b'
-bg = '#000'
+bg = '#a9100b'
 
 [extra.org_styles.ptw]
 fg = '#fff'
