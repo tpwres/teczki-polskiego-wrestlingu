@@ -13,7 +13,7 @@ The event featured their biggest ever battle royale-style match, which had many 
 The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Championship. He was present at ringside, observing the action. Once down to the last two participants, there was a near-finish, when they were standing on the ring apron outside the ropes. Asmund intervened and pulled them both to the ground simultaneously, hoping to avoid his match as there was no clear winner. Unfortunately, Tomasz Warchoł called the absent [Jędruś Bułecka](@/w/jedrus-bulecka.md), who decided that they are going to have a Triple Threat Match instead.
 
 {% card() %}
-- - "[Shadow](@/w/shadow.md) + [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+- - "[Shadow](@/w/shadow.md) + [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "[Alexander Reich](@/w/alex-ace.md)"
   - "[Amisz](@/w/axel-fox.md)"
   - "[Bartosz Borowsky](@/w/boro.md)"
@@ -42,7 +42,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - s: "MZW Championship #1 Contender 26 Man Royal Rumble Match"
 - - "[Shadow](@/w/shadow.md)"
   - "[Asmund](@/w/asmund.md)(c)"
-  - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+  - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - {c: "MZW Championship", s: "Triple Threat Match"}
 - credits:
     Host, Ring Announcer: Tomasz Warchoł
