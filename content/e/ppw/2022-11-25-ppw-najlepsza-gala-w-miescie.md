@@ -19,7 +19,7 @@ The event name, which translates to "Best Gala In Town", is a reference to the f
 - - "[Mister Z](@/w/mister-z.md), [Ricardo Diesel](@/w/ricardo-diesel.md)"
   - "[Madman Charlie](@/w/madman-charlie.md), [Tony Sk1n](@/w/tony-sk1n.md); [Osamu](@/w/osamu.md)"
   - s: "Tag Team Match"
-- - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)"
+- - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)"
   - "[Johnny Blade](@/w/johnny-blade.md)"
   - {s: "Casket Match", c: "PpW European Ultraviolent Championship"}
 - ["[Biesiad Strong](@/w/biesiad.md)(c)", "[Steve Kuningas](@/w/steve-kuningas.md)",
