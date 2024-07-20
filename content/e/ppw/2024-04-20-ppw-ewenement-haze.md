@@ -54,7 +54,7 @@ The foreign guests for this event were:
   - c: PpW Championship
 - - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), Jerry "Rich" Mandecki'
   - g: true
-- - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
   - c: PpW Ultraviolent Championship
     n: "[Johnny Blade](@/w/johnny-blade.md) was the special guest referee."
