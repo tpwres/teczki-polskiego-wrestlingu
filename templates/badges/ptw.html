@@ -1,14 +1,8 @@
-<div title="{{ hint_text }}"
-    {% if ib %}style="display: inline-block"{% endif %}
-    {% if cnt is defined %}
-      style="flex-grow: {{ cnt/total }};
-            background: {{ bg }};
-            margin: 0 0.25em;
-            text-align: center;"
-    {% endif %}>
-  <a href='{{ get_url(path="@/o/ptw.md") }}' class="org-badge nu badge-ppw"
-     style="background: #000000 url({{ get_url(path='ptw-badge.svg') }}); background-size: cover; color: transparent; white-space: nowrap;"
+<div title="{{ hint_text }}" class="badge {% if ib %}ib{% endif %}{% if cnt is defined %}stretchy{% endif %}"
+     {% if cnt is defined %} style="flex-grow: {{ cnt/total }}; background: {{ bg }};" {% endif %}>
+  <a href='{{ get_url(path="@/o/ptw.md") }}' class="org-badge nu"
+     style="background: url({{ get_url(path='ptw-badge.svg') }}) no-repeat 0 0 / cover, #000;"
      title="{{ hint_text }}">
-     <span class="c">PTW</span>
+     <span>PTW</span>
   </a>
 </div>
