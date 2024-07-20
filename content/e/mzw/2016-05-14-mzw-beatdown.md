@@ -13,7 +13,7 @@ venue = ["gosir-glucholazy"]
 - ["[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)", "[Ronny Kessler](@/w/ronny-kessler.md)"]
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "Unknown, [Mr B.](@/w/mr-b.md)", {s: "Two
       on One Handicap Match"}]
-- ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Red Thunder](@/w/red-thunder.md)",
+- ["[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Red Thunder](@/w/red-thunder.md)",
   {r: "DQ"}]
 - ["[Asmund](@/w/asmund.md)", "[Skull Evil](@/w/skull-evil.md)"]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
