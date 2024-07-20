@@ -184,7 +184,7 @@ _See also: [PTW Exits: 2024](@/a/ptw-exits.md#2024-gold-rush-and-total-blast-fro
 Right after PTW#6, long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
 Two weeks later, on a YouTube live stream, commentator Łukasz Baliński also announced his resignation.
 
-On May 31st, PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", discussing various backstage topics in a shoot-style interview. This led to rumors of his release just two days later, later confirmed by Dziedzic announcing his departure from PTW.
+On May 31st, PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", discussing various backstage topics in a shoot-style interview. This led to rumors of his release just two days after, which was confirmed by Dziedzic announcing his departure from PTW that same week.
 
 After some teasing on his Instagram Stories, Sinister confirmed the speculations as well. On Wednesday, June 5th 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
 Shortly after that, referee Seweryn also confirmed his departure on his Instagram story.
