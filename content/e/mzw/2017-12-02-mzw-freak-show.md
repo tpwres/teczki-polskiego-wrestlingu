@@ -19,7 +19,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
 
 
 {% card() %}
-- ["[Skull Evil](@/w/skull-evil.md)", "[Christopher Anthony](@/w/christopher-anthony.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
+- ["[Skull Evil](@/w/skull-evil.md)", "[Christopher Anthony](@/w/christopher-anthony.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {s: "Triple Threat Match"}]
 - ["Sebastien", "Demon"]
 - ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "[Amisz](@/w/axel-fox.md)"]
@@ -36,7 +36,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - "[Kuba Kamiński](@/w/jacob-crane.md)"
   - Marcel Koniecki
   - "[Rafał Orszak](@/w/rafael-kid.md)"
-  - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+  - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - s: "Ten Man Battle Royal"
 - ["Laurance Roman(c)", "[Shadow](@/w/shadow.md)", {c: "Next Step Wrestling National
       Championship"}]
