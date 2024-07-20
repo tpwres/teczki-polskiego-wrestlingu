@@ -15,11 +15,10 @@
   {% else %}
     {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
-    <div title="{{ hint_text }}">
+    <div title="{{ hint_text }}" class="badge">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
         style="background: {{ style|get(key='bg', default='#000') }};
                color: {{ style|get(key='fg', default='#fff') }};
-               white-space: nowrap;
         ">
         {{ style|get(key='text', default=code|upper) }}
     </a>
@@ -44,11 +43,10 @@
   {% else %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
-    <div title="{{ hint_text }}" style="display: inline-block">
+    <div title="{{ hint_text }}" class="badge ib">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
         style="background: {{ style|get(key='bg', default='#000') }};
                color: {{ style|get(key='fg', default='#fff') }};
-               white-space: nowrap;
         ">
         {{ style|get(key='text', default=code|upper) }}
     </a>
@@ -78,12 +76,10 @@
     {% elif org == "ptw" %}
       {% include "badges/ptw.html" %}
     {% else %}
-      <div style="flex-grow: {{ cnt / total }};
+      <div class="badge stretchy"
+           style="flex-grow: {{ cnt / total }};
                   background: {{ bg }};
-                  color: {{ fg }};
-                  font-weight: bold;
-                  margin: 0 0.25em;
-                  text-align: center;"
+                  color: {{ fg }};"
             title="{{ cnt }} matches">
         {{ style|get(key='text', default=org|upper) }}
       </div>

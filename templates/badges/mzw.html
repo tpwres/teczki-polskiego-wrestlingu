@@ -1,14 +1,7 @@
-<div title="{{ hint_text}}"
-     {% if ib %}style="display: inline-block"{% endif %}
-     {% if cnt is defined %}
-       style="flex-grow: {{ cnt/total }};
-              background: {{ bg }};
-              margin: 0 0.25em;
-              text-align: center;"
-     {% endif %}
-     >
-  <a href='{{ get_url(path="@/o/mzw.md") }}' class="org-badge nu badge-mzw"
-     style="background: #208315 url({{ get_url(path='mzw-badge.svg') }}); background-size: cover; background-position-y: -2px; color: transparent; white-space: nowrap;">
-    <span class="c">MZW</span>
+<div title="{{ hint_text }}" class="badge {% if ib %}ib{% endif %}{% if cnt is defined %}stretchy{% endif %}"
+     {% if cnt is defined %} style="flex-grow: {{ cnt/total }}; background: {{ bg }};" {% endif %}>
+  <a href='{{ get_url(path="@/o/mzw.md") }}' class="org-badge nu"
+     style="background: url({{ get_url(path='mzw-badge.svg') }}) no-repeat 0 -2px/cover, #208315;">
+    <span>MZW</span>
   </a>
 </div>

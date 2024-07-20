@@ -341,14 +341,24 @@ a:hover
     &:after
       content: ":"
 
+.badge
+  &.ib
+    display: inline-block
+
+  &.stretchy
+    margin: 0 0.25em
+    text-align: center
+
+  .org-badge
+    padding: 0 0.25em
+    font-weight: bold
+    color: transparent
+    white-space: nowrap
 @media only screen and (max-width: 720px)
   .pagination .links span
     display: inline-block
     text-align: center
 
-.org-badge
-  padding: 0 0.25em
-  font-weight: bold
 
 @media only screen and (max-width: 380px)
   .logo
