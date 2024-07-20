@@ -12,6 +12,8 @@
     {% include "badges/mzw.html" %}
   {% elif code == "ptw" %}
     {% include "badges/ptw.html" %}
+  {% elif code == "tbw" %}
+    {% include "badges/tbw.html" %}
   {% else %}
     {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
@@ -40,6 +42,8 @@
     {% include "badges/mzw.html" %}
   {% elif code == "ptw" %}
     {% include "badges/ptw.html" %}
+  {% elif code == "tbw" %}
+    {% include "badges/tbw.html" %}
   {% else %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
@@ -65,16 +69,20 @@
     {% set hint_text = '' %}
     {% set bg = style|get(key='bg', default='#000') %}
     {% set fg = style|get(key='fg', default='#fff') %}
-    {% if org == "ppw" %}
-      {% include "badges/ppw.html" %}
+    {% if org == "mcw" %}
+      {% include "badges/mcw.html" %}
     {% elif org == "ddw" %}
       {% include "badges/ddw.html" %}
     {% elif org == "kpw" %}
       {% include "badges/kpw.html" %}
+    {% elif org == "ppw" %}
+      {% include "badges/ppw.html" %}
     {% elif org == "mzw" %}
       {% include "badges/mzw.html" %}
     {% elif org == "ptw" %}
       {% include "badges/ptw.html" %}
+    {% elif org == "tbw" %}
+      {% include "badges/tbw.html" %}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};
