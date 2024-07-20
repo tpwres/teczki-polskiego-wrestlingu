@@ -16,7 +16,7 @@ venue=["waldorffa25"]
 - - "[Biesiad Strong](@/w/biesiad.md)(c)"
   - "[Mister Z](@/w/mister-z.md)"
   - {c: "[PpW Championship](@/o/ppw.md#championships)", s: Hardcore Match}
-- - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+- - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "[Johnny Blade](@/w/johnny-blade.md)"
   - "Viking"
   - c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)"
