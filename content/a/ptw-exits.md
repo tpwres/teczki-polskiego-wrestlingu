@@ -215,7 +215,7 @@ After some teasing on his Instagram Stories, Sinister confirmed the speculations
 Shortly after that, referee Seweryn also confirmed his departure on his Instagram story.
 
 On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance".
-It mostly contained photos of various moments in PTW he was part of, but also several photos with ["the Greens"](@/a/the-greens.md) (an insider term for wrestlers from [MZW](@/o/mzw.md), like himself), some of whom had already quit PTW.
+It mostly contained photos of various moments in PTW he was part of, but also several photos with ["the Greens"](@/a/the-greens.md) (an insider group of wrestlers from [MZW](@/o/mzw.md), like himself), some of whom had already quit PTW.
 The final image in this set was just a black background with text saying "Merci et au revoir" (Thank you and goodbye), strongly implying that he left as well.
 
 Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just after his return at Gold Rush, seemingly confirmed his exit through Instagram stories.
@@ -231,4 +231,12 @@ On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://ww
 
 On Thursday June 13th, PTW has taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that Axel Fox, a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before.
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
+
+[samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
+[paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
+[dziedzic-ngz]: https://www.youtube.com/live/-mveTz3FApQ
+[dziedzic-farewell-insta]: https://www.instagram.com/p/C7wHOhVsR4G/
+[sinister-farewell-insta]: https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/
+[supporter-stream-barter]: https://www.youtube.com/watch?v=dmLHzSe92x0
+[robert-star-interview]: https://www.youtube.com/watch?v=mRJrVjnAhyo
