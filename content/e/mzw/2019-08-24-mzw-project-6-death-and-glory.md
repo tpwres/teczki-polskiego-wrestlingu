@@ -8,7 +8,7 @@ venue = ["czasoprzestrzen"]
 
 {% card() %}
 - ['[Rafael Kid](@/w/rafael-kid.md)', '[Madman Charlie](@/w/madman-charlie.md)', '[Rick
-    Baxxter](@/w/rick-baxxter.md)', "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
+    Baxxter](@/w/rick-baxxter.md)', "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {s: "Four Way Match"}]
 - ['[Matt Buckna](@/w/matt-buckna.md)', '[Axel Fox](@/w/axel-fox.md)', {s: "No Disqualification
       Match"}]
@@ -17,7 +17,7 @@ venue = ["czasoprzestrzen"]
 - ['[Jacob Crane](@/w/jacob-crane.md)', '[Justin Joy](@/w/justin-joy.md)']
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Nathan Cross](@/w/gabriel-queen.md)'
-  - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - Anatolii
   - '[Ring Rat](@/w/sedzia-seweryn.md)'
   - '[Isnorr](@/w/isnorr.md)'
