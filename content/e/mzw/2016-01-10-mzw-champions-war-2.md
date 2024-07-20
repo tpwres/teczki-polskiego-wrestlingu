@@ -24,7 +24,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
   - '[Franz Engel](@/w/franz-engel.md)'
   - '[Mr B.](@/w/mr-b.md)'
   - '[Red Thunder](@/w/red-thunder.md)'
-  - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
   - s: "Nine Man Battle Royal"
 - ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)", {c: "MZW Championship"}]
