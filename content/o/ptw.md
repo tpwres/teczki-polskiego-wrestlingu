@@ -106,7 +106,7 @@ All these issues caused a lot of controversy, angering the fans who were demandi
 
 #### Crisis and departures
 
-_See also: [PTW Exits](@/a/ptw-exits.md)._
+_See also: [PTW Exits: 2023](@/a/ptw-exits.md#2023-mystery)._
 
 After voicing their frustrations on social media, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
 
@@ -179,7 +179,7 @@ The lottery's overseeing committee was never shown by the cameras. The lottery f
 
 #### More high-profile exits
 
-_See also: [PTW Exits](@/a/ptw-exits.md)._
+_See also: [PTW Exits: 2024](@/a/ptw-exits.md#2024-gold-rush-and-total-blast-from-the-past)._
 
 Right after PTW#6, long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
 Two weeks later, on a YouTube live stream, commentator Łukasz Baliński also announced his resignation.
