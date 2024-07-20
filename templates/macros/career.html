@@ -2,6 +2,8 @@
   {% set ib = false %}
   {% if code == "mcw" %}
     {% include "badges/mcw.html" %}
+  {% elif code == "ddw" %}
+    {% include "badges/ddw.html" %}
   {% elif code == "kpw" %}
     {% include "badges/kpw.html" %}
   {% elif code == "ppw" %}
@@ -29,6 +31,8 @@
   {% set ib = true %}
   {% if code == "mcw" %}
     {% include "badges/mcw.html" %}
+  {% elif code == "ddw" %}
+    {% include "badges/ddw.html" %}
   {% elif code == "kpw" %}
     {% include "badges/kpw.html" %}
   {% elif code == "ppw" %}
@@ -65,6 +69,8 @@
     {% set fg = style|get(key='fg', default='#fff') %}
     {% if org == "ppw" %}
       {% include "badges/ppw.html" %}
+    {% elif org == "ddw" %}
+      {% include "badges/ddw.html" %}
     {% elif org == "kpw" %}
       {% include "badges/kpw.html" %}
     {% elif org == "mzw" %}
