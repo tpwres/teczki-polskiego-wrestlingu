@@ -9,7 +9,7 @@ venue = ["bakara"]
 {% card() %}
 - ["[Rafael Kid](@/w/rafael-kid.md)", "[Jacob Crane](@/w/jacob-crane.md)", {c: "MZW
       Championship", s: "Tournament Semi Final Match"}]
-- ["[Damien Rothschild](@/w/damien-rothschild.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
+- ["[Damien Rothschild](@/w/damien-rothschild.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {c: "MZW Championship", s: "Tournament Semi Final Match"}]
 - ["Wataha: Apollo Anderson, [Justin Joy](@/w/justin-joy.md)", "Catch Connection:
     [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)", {
