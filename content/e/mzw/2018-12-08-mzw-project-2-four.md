@@ -9,7 +9,7 @@ venue = ["czasoprzestrzen"]
 {% card() %}
 - ["Deti Black", "Apollo Anderson"]
 - ["[Lady Killer](@/w/boro.md)", "[Asmund](@/w/asmund.md)", {nc: "No Contest"}]
-- ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Axel Fox](@/w/axel-fox.md)"]
+- ["[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Axel Fox](@/w/axel-fox.md)"]
 - ["[Asmund](@/w/asmund.md)", "[Christopher Anthony](@/w/christopher-anthony.md)",
   "[Justin Joy](@/w/justin-joy.md)", {s: "Three Way Match"}]
 - ["[Matt Buckna](@/w/matt-buckna.md)", "[Jacob Crane](@/w/jacob-crane.md)", {s: "Falls
