@@ -12,7 +12,7 @@ venue = ["czasoprzestrzen"]
   {s: "Three Way Match"}]
 - ["[Asmund](@/w/asmund.md)", "[Matt Buckna](@/w/matt-buckna.md)", {s: "MZW Championship
       #1 Contender Match"}]
-- ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
+- ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {nc: "Double KO", s: "Hardcore Match"}]
 - ["[Shadow](@/w/shadow.md)", "[Jacob Crane](@/w/jacob-crane.md)", {r: "DQ"}]
 - ["Apollo Anderson", "[Dynamite Dave](@/w/dynamite-dave.md)"]
