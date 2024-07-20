@@ -17,7 +17,7 @@ city = "Warszawa"
       Way Match"}]
 - ["[Gustav Gryffin](@/w/gustav-gryffin.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
 - ["[Adam Wong](@/w/adam-wong.md)", "[Tony Sk1n](@/w/tony-sk1n.md)", {s: "Hardcore Match"}]
-- - "[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Steve Kuningas](@/w/steve-kuningas.md)"
+- - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Steve Kuningas](@/w/steve-kuningas.md)"
   - "[Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)"
   - s: "Tag Team Match"
 {% end %}
