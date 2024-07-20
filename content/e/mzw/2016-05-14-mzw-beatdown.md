@@ -16,7 +16,7 @@ venue = ["gosir-glucholazy"]
 - ["[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Red Thunder](@/w/red-thunder.md)",
   {r: "DQ"}]
 - ["[Asmund](@/w/asmund.md)", "[Skull Evil](@/w/skull-evil.md)"]
-- - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+- - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "Kripto, [Red Thunder](@/w/red-thunder.md)"
   - {c: "MZW Tag Team Championship"}
 - ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", {c: "MZW Championship",
