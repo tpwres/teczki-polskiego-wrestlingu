@@ -19,12 +19,13 @@ The ["Prehistory of wrestling"](@/a/prehistory.md) article covers this era in mo
 
 {% card() %}
 - [Max Moon, SD Jones]
-- [Iron Mike Sharpe, Van Hammer]
-- [Bob Orton, Koko B. Ware]
+- [Iron Mike Sharpe, Van Hammer, nc: '?']
+- [Bob Orton, Koko B. Ware, nc: '?']
 - - 'Demolition 2000: Demolition Ax, Demolition Blast'
   - 'The American Indians: Brave Sky, Nikona'
-- [Sunny Beach, The Iron Sheik]
-- [Greg Valentine, Tito Santana]
+  - nc: '?'
+- [Sunny Beach, The Iron Sheik, nc: '?']
+- [Greg Valentine, Tito Santana, nc: '?']
 - [Jim Duggan, Doink]
 {% end %}
 

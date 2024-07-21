@@ -18,8 +18,13 @@ World Wrestling Entertainment held their first ever show in Poland on 11.11.2011
 - [Hunico, Yoshi Tatsu]
 - [Sheamus, Wade Barrett]
 - [Alicia Fox, Natalya]
-- [Randy Orton, Cody Rhodes, {S: Street Fight)]
-- [The Big Show, Mark Henry (c), {s: WWE World Heavyweight Title Match} {r: DQ}]
+- - Randy Orton
+  - Cody Rhodes
+  - s: Street Fight
+- - The Big Show
+  - Mark Henry (c)
+  - c: WWE World Heavyweight Championship
+    r: DQ
 {% end %}
 
 Attendance: ca. 10.500

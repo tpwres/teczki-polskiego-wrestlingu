@@ -16,10 +16,20 @@ This was the second WWE show in Poland, and the first RAW. Like the previous Sma
 - ['Kofi Kingston, R-Truth', 'Epico, Primo', {s: Tag Team Match}]
 - [Zack Ryder, The Miz]
 - [Brodus Clay, JTG]
-- [Santino Marella (c), David Otunga and Jack Swagger, {s: WWE United States Title Triple Threat Match}]
-- [Beth Phoenix (c), Kelly Kelly, {s: WWE Divas Title Match}]
-- [John Cena, Kane, {s: Last Man Standing Match}]
-- [CM Punk (c), Dolph Ziggler, {s: WWE Heavyweight Title Match}]
+- - Santino Marella (c)
+  - David Otunga
+  - Jack Swagger
+  - s: Triple Threat Match
+    c: WWE United States Championship
+- - Beth Phoenix (c)
+  - Kelly Kelly
+  - c: WWE Divas Championship
+- - John Cena
+  - Kane
+  - s: Last Man Standing Match
+- - CM Punk (c)
+  - Dolph Ziggler
+  - c: WWE Heavyweight Championship
 {% end %}
 
 Attendance: ca. 7000
