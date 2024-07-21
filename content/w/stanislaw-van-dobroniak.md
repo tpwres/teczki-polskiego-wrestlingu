@@ -3,8 +3,6 @@ title = "Stanisław Van Dobroniak"
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
-[extra]
-career_name = "Stanislaw Van Dobroniak"
 +++
 
 ### Botchamania
