@@ -16,7 +16,7 @@ This was the second WWE show in Poland, and the first RAW. Like the previous Sma
 - ['Kofi Kingston, R-Truth', 'Epico, Primo', {s: Tag Team Match}]
 - [Zack Ryder, The Miz]
 - [Brodus Clay, JTG]
-- - Santino Marella (c)
+- - '[Santino Marella](@/w/santino.md)(c)'
   - David Otunga
   - Jack Swagger
   - s: Triple Threat Match

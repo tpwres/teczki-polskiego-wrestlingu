@@ -44,7 +44,7 @@ For this event, PTW invited several guests from the independent European and Ame
 - [Nick Aldis, Chris Masters]
 - credits:
     Commentary: Arkadiusz Paterek, Łukasz "Balik" Baliński
-    English commentary: Dave Bradshaw, Santino
+    English commentary: 'Dave Bradshaw, [Santino](@/w/santino.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Matek'
     Host, ring announcer, GM: '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
@@ -55,7 +55,7 @@ For this event, PTW invited several guests from the independent European and Ame
 * The show opens with Pawłowski and Rzeźniczek, interviewed by a journalist. They hype up the show and we get to video packages, while commentary hypes up some more.
 * A countdown on the big screen appears. _Bring me The Horizon's_ "Throne" plays and the owner, Pan Pawłowski, makes his full entrance, complete with high fives to fans and his signature double kneedrop in the middle of the ring.
   He cuts his usual promo hyping up the crowd for an amazing show tonight. \
-  Pawłowski announces Santino, who makes his entrance, and then takes his spot as English commentator.
+  Pawłowski announces [Santino](@/w/santino.md), who makes his entrance, and then takes his spot as English commentator.
 * The opening match is announced, video package for Jacob Crane v Tristan Archer plays.
 
 #### Jacob Crane v Tristan Archer

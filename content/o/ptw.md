@@ -63,7 +63,7 @@ This show had even more starpower than Revolucja, featuring debuts of well-known
 Over the course of the year, PTW continued its steady pace, presenting the monthly Underground shows, and debuting at [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), a manga-themed fan convention in Kraków.
 The third major show, [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), was the first one to be held outside Chorzów, in Warsaw.
 Among other notable moments, it featured the first PTW women's match (outside the exclusive Underground shows), where [Diana Strong](@/w/diana-strong.md) competed against two former NXT-UK wrestlers, Xia Brookside and Myla Grace.
-Also at this show, the IMPACT Digital Media Championship was defended, and Santino was named the kayfabe co-owner of PTW, leading to a long-standing feud between Bad Bones & Longman vs Pawłowski.
+Also at this show, the IMPACT Digital Media Championship was defended, and [Santino](@/w/santino.md) was named the kayfabe co-owner of PTW, leading to a long-standing feud between Bad Bones & Longman vs Pawłowski.
 This show became part of a double-header weekend: on the day before, Warsaw's [PpW Ewenement](@/o/ppw.md) hosted their own event,
 named [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) (_The Best Event In Town_). This was seen as PpW playfully taking potshots at the rival organization.
 _Legends_ closed 2022 as PTW's last show of such ambition and scale, until 2024's [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
@@ -267,7 +267,7 @@ This is similar to KPW's approach. Fans theorize that this isolationist attitude
 ## Foreign relations
 
 One of the main selling points of PTW, differentiating them from their competition, were sponsors, an actual budget and the ability to bring in a lot of pro wrestlers from abroad.
-At [PTW 3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) it was announced that Santino Marella, former long-time WWE star, would become one of the organization's co-owners.
+At [PTW 3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) it was announced that [Santino Marella](@/w/santino.md), former long-time WWE star, would become one of the organization's co-owners.
 This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW 5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator, and suprise entrant in the Gold Rush Rumble.
 
 Later, PTW entered into collaboration with Austrian wrestler Krampus and his new organization called "World Wrestling Austria".

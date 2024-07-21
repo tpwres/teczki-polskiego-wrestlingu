@@ -23,7 +23,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
       Match}]
 - ['[Justin Joy](@/w/justin-joy.md)', '[Axel Fox](@/w/axel-fox.md)', {s: No Disqualification
       Match}]
-- [Santino, {g: true, s: Santino named new co-owner of PTW.}]
+- ['[Santino](@/w/santino.md)', {g: true, s: Santino named new co-owner of PTW}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Robert Star](@/w/robert-star.md)']
 - [Joe Hendry(c), Trent Seven, {c: IMPACT Digital Media Championship}]
 - - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
@@ -44,7 +44,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
     Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Rafał'
     Commentary: Arek Paterek, Łukasz "Balik" Baliński, Piotr "ShowOff" Małecki
     Special guest commentary for the main event: Andrzej Supron, Paweł "Boryss" Borkowski
-    English commentary: Santino, Lewis Costello
+    English commentary: '[Santino](@/w/santino.md), Lewis Costello'
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
