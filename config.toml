@@ -62,12 +62,12 @@ bg = '#133762'
 bg = '#71171f'
 
 [extra.org_styles.tbw]
-bg = '#0400cd'
+# bg = '#0400cd'
+bg = '#000'
 fg = '#8c8d87'
 
 [extra.org_styles.dfw]
-fg = '#a9100b'
-bg = '#000'
+bg = '#a9100b'
 
 [extra.org_styles.ptw]
 fg = '#fff'

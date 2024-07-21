@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!--           by M3n747  <m3n747@gmail.com           -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 72.000001 36.000001"
+   xml:space="preserve"
+   sodipodi:docname="tbw-badge.svg"
+   width="72"
+   height="36"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3" /><sodipodi:namedview
+   id="namedview3"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="true"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="20.618441"
+   inkscape:cx="40.424977"
+   inkscape:cy="22.019124"
+   inkscape:window-width="5120"
+   inkscape:window-height="1412"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#DE0D14;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st1{font-family:'SFAftershockDebrisSolid';}
+	.st2{font-size:86px;}
+	.st3{fill:#6B6B66;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#010202;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+
+<g
+   id="g1"
+   transform="matrix(0.25569359,0,0,0.25569359,0.02155733,9.2553163)"><path
+     d="m 288.19386,52.542641 q 0.084,3.401367 -2.39355,5.878906 -2.47754,2.477539 -5.83692,2.519531 l -103.63671,3.527344 q -3.40137,0.08398 -5.87891,-2.30957 -2.51953,-2.435547 -2.56152,-5.836914 l -1.80567,-51.6083989 34.3916,-1.2177734 1.6377,47.3251953 8.6084,-0.37793 -1.6377,-47.1992184 34.30762,-1.2177735 1.72168,47.2412109 8.6084,-0.251953 -1.72168,-47.3251954 34.3916,-1.21777341 z"
+     id="text3"
+     class="st4 st1 st2"
+     inkscape:label="W"
+     style="font-size:86px;font-family:SFAftershockDebrisSolid;fill:#010202;stroke:#ffffff;stroke-width:4.69311724;stroke-miterlimit:10;stroke-dasharray:none"
+     transform="scale(0.97339612,1.027331)"
+     aria-label="W" /><path
+     d="m 161.66217,16.74707 v 0.839844 l -1.38574,12.891602 q -0.33594,3.107421 -3.69531,5.207031 -3.35938,2.099609 -7.97852,2.099609 -0.5459,0 -1.0498,-0.04199 -0.50391,-0.04199 -1.00782,-0.125977 5.08106,0.629883 8.52442,3.317383 3.48535,2.645508 3.48535,5.962891 0,0.293945 -0.084,0.629883 L 157.169,60.418947 q -0.46192,3.317383 -2.85547,5.416992 -2.47754,2.141602 -5.71094,2.141602 h -0.88184 L 79.273499,60.838867 85.572327,1 154.01959,8.1386719 q 3.2334,0.2939453 5.45899,2.8554691 2.18359,2.435547 2.18359,5.752929 z m -34.64355,1.511719 -8.6084,-0.839844 -1.30176,12.807617 8.52441,0.881836 z m -2.26758,21.416016 -8.56641,-0.923828 -1.38574,12.891601 8.6084,0.881836 z"
+     id="text2"
+     style="font-size:86px;font-family:SFAftershockDebrisSolid;fill:#6b6b66;stroke:#ffffff;stroke-width:4.69311726;stroke-miterlimit:10;stroke-dasharray:none"
+     class="st3 st1 st2"
+     inkscape:label="B"
+     aria-label="B" /><path
+     d="M 79.273437,9.8603516 78.139648,22.667969 56.723633,20.862305 52.608398,67.893555 18.300781,64.870117 22.416016,17.838867 1,15.949219 2.1337891,3.1416016 Z"
+     id="text1"
+     style="font-size:86px;font-family:SFAftershockDebrisSolid;fill:#de0d14;stroke:#ffffff;stroke-width:4.69311726;stroke-miterlimit:10;stroke-dasharray:none"
+     class="st0 st1 st2"
+     inkscape:label="T"
+     aria-label="T" /></g>
+
+</svg>
