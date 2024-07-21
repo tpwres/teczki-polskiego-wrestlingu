@@ -3,7 +3,8 @@ ROSTERS=data/roster_ptw.json \
         data/roster_mzw.json \
         data/roster_ppw.json \
         data/roster_dfw.json \
-        data/roster_wws.json
+        data/roster_wws.json \
+        data/roster_wwe.json
 METADATA=data/all_matches.json data/appearances.json data/crew_appearances.json data/career.json
 PLOTS=data/chronology-hyperlinked.svg
 
