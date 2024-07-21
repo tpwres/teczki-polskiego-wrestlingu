@@ -5,6 +5,8 @@ authors = ["M3n747"]
 [taxonomies]
 chronology = ["international", "wwe"]
 venue = ["ergo-arena"]
+[extra.gallery]
+1 = { path = "2011-11-11-wwe-smackdown-house-show.jpg", caption = "WWE in Gdańsk/Sopot", source = "MyWrestling.com.pl" }
 +++
 
 World Wrestling Entertainment held their first ever show in Poland on 11.11.2011 in Ergo Arena, located at the border of Gdańsk and Sopot.
