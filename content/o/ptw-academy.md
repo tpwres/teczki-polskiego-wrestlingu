@@ -32,7 +32,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
     - [Joe E. Legend](@/w/joe-legend.md) - Guest Coach (2021 - 2022)
     - [John Klinger](@/w/bad-bones.md) - Guest Coach (2022 - 2023)
   * Seminary hosts:
-    - Santino Marella (2021 - 2022)
+    - [Santino Marella](@/w/santino.md) (2021 - 2022)
     - Chris Masters (Feb 2022)
     - Nick Aldis (Feb 2022)
     - Axel Tischer (Feb 2022)

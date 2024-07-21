@@ -24,8 +24,9 @@ venue=["moris-chorzow"]
   - '[Michał "Mutant" Świątkowski](@/w/mutant.md)'
   - '[Sinister](@/w/sinister.md)'
   - s: Battle Royal
-- ["Marius Al-Ani, [Syriusz Dziedzic](@/w/dziedzic.md)", "[Disco Pablo](@/w/disco-pablo.md),
-    Santino", {s: Tag Team Match}]
+- - "Marius Al-Ani, [Syriusz Dziedzic](@/w/dziedzic.md)"
+  -  "[Disco Pablo](@/w/disco-pablo.md), [Santino](@/w/santino.md)"
+  - s: Tag Team Match
 - [Chris Masters, '[Robert Star](@/w/robert-star.md)']
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', Nick Aldis, {r: DQ}]
 - credits:

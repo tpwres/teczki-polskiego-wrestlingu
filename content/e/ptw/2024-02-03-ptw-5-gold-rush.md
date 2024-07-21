@@ -48,7 +48,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - Sędzia Rafał
-  - Santino
+  - '[Santino](@/w/santino.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[King Kaiden](@/w/king-kaiden.md)'
@@ -69,7 +69,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: Arek Paterek, Piotr "ShowOff" Małecki, Łukasz "Balik" Baliński
     Special Guest Commentary: Andrzej Supron, Paweł "Boryss" Borkowski
-    English Commentary: Lewis Costello, Santino
+    English Commentary: 'Lewis Costello, [Santino](@/w/santino.md)'
     Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 

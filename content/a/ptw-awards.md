@@ -99,7 +99,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 1. Arek Paterek - 171
 2. Łukasz Baliński - 75
 3. Piotr Małecki - 56
-4. Santino - 35
+4. [Santino](@/w/santino.md) - 35
 5. Lewis Costello - 12
 
 #### Female Wrestler of the Year
