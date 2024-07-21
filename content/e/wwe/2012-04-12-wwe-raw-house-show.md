@@ -13,7 +13,7 @@ This was the second WWE show in Poland, and the first RAW. Like the previous Sma
 
 {% card() %}
 - [Lord Tensai, Alex Riley]
-- [Kofi Kingston, R-Truth, Epico, Primo, {s: Tag Team Match}]
+- ['Kofi Kingston, R-Truth', 'Epico, Primo', {s: Tag Team Match}]
 - [Zack Ryder, The Miz]
 - [Brodus Clay, JTG]
 - [Santino Marella (c), David Otunga and Jack Swagger, {s: WWE United States Title Triple Threat Match}]
