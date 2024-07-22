@@ -128,7 +128,7 @@ The first guest of this new show was Marcel Gawroński, a popular TikToker who c
 Another episode featured PTW's own [Puncher](@/w/puncher.md), while Polish boxer and UFC women's champion Joanna Jędrzejczyk was the guest in episode 3.
 The format of this show was mostly an interview with the guest, including questions from the audience asked via chat.
 
-#### The Lottery
+#### The lottery
 
 At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2012 Nissan GTR car, the grand prize to be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase an ebook, which came with a free ticket. These ebooks were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 16 pages), including results from PTW shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets. The car was claimed to be worth 600.000 PLN, or about 140.000 EUR at the time.
 
