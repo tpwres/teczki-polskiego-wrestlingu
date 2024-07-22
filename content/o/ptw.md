@@ -283,7 +283,7 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 
 | Championship | Current champion(s) | Notes |
 |--|--|--|
-| PTW Championship | [Puncher](@/w/puncher.md) | Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
+| [PTW Championship](@/a/ptw-championship.md) | [Puncher](@/w/puncher.md) | Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 | PTW Tag Team Championship | Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) | Defeated PAKA: [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md) and [Taras](@/w/taras.md) at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 
 ## Internet presence
