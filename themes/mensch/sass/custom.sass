@@ -4,6 +4,7 @@
 @import "search"
 @import "gallery"
 @import "timeline"
+@import "nav"
 
 //@import "fonts/inter/inter-web/inter.css"
 // @font-face
@@ -232,76 +233,6 @@ hr
   color: var(--dark-yellow)
   font-weight: bold
 
-.logo
-  display: inline-block
-  height: 48px
-  width: 48px
-  background: var(--logo-url)
-  background-size: contain
-  vertical-align: text-bottom
-
-.sitename
-  position: relative
-  font-size: 1.8em
-  font-weight: bold
-  color: var(--text-light)
-
-a.sitename:hover
-  color: var(--dark-aqua)
-  text-decoration: underline
-
-nav
-  border-bottom: .2rem solid var(--dark-blue)
-
-nav a:hover, .sitename:hover
-  color: var(--dark-aqua)
-
-nav a, nav:visited
-  margin: 0rem 0rem 0rem 0rem
-  border: none
-  padding: 0rem
-
-footer
-  border-top: .2rem solid var(--dark-blue)
-
-nav>div>ul>li>a
-  color: var(--text-light)
-  display: block
-  line-height: 0rem
-  padding: 0em 0.1rem
-  text-decoration: none
-  position: relative
-
-  @media only screen and (max-width: 720px)
-    .t
-      display: none
-
-nav>div>ul>li>a:hover
-  color: var(--dark-aqua)
-
-.nav-left, .nav-right
-  align-self: first baseline
-
-.nav-right-list
-  display: flex
-  align-items: last baseline
-  gap: 0.25rem
-
-nav
-  list-style-type: none
-  display: flex
-  justify-content: space-between
-
-nav ul
-  margin: 0
-  padding: 0
-  list-style-type: none
-  overflow: hidden
-
-nav ul li:not(.results-item)
-  /* This allow us to arrange list items in a row, without using float */
-  display: inline-block
-  list-style-type: none
 
 a:hover
   color: var(--dark-aqua)
@@ -354,15 +285,12 @@ a:hover
     font-weight: bold
     color: transparent
     white-space: nowrap
+
 @media only screen and (max-width: 720px)
   .pagination .links span
     display: inline-block
     text-align: center
 
-
-@media only screen and (max-width: 380px)
-  .logo
-    display: none
-  .sitename
-    position: inherit
+footer
+  border-top: .2rem solid var(--dark-blue)
 
