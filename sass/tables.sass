@@ -25,6 +25,9 @@ ul.column-rule
   grid-template-rows: auto
   grid-template-columns: 3em auto minmax(12em, auto)
 
+  &.free-card
+    grid-template-columns: 10em auto minmax(12em, auto)
+
   .match, .header, .delim
     display: grid
     grid-template-columns: subgrid
@@ -34,7 +37,7 @@ ul.column-rule
     span
       padding: 0.1em 0.3em
 
-    .n
+    .n, .ed
       text-align: right
 
     .nt
