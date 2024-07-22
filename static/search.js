@@ -50,16 +50,18 @@ const initSearch = () => {
             path = item.ref;
         }
         let result_type = undefined;
-        if (path.startsWith('/e/'))
+        if (path.startsWith('/e/') && path.length > 3)
             result_type = 'Event';
-        else if (path.startsWith('/w/'))
+        else if (path.startsWith('/w/') && path.length > 3)
             result_type = 'Talent';
-        else if (path.startsWith('/o/'))
+        else if (path.startsWith('/o/') && path.length > 3)
             result_type = 'Organization';
-        else if (path.startsWith('/a/'))
+        else if (path.startsWith('/a/') && path.length > 3)
             result_type = 'Article';
-        else if (path.startsWith('/v/'))
+        else if (path.startsWith('/v/') && path.length > 3)
             result_type = 'Venue';
+        else
+            result_type = 'Page';
 
         if (result_type)
             return `<div class="search-result">
@@ -77,6 +79,7 @@ const initSearch = () => {
         if (term === currentTerm) return;
 
         resultsPane.style.display = (term === "" ? 'none' : 'block');
+        resultsPane.style.left = `${searchInput.getBoundingClientRect().left}px`;
         resultsItems.innerHTML = '';
         currentTerm = term;
         if (term === '') return;

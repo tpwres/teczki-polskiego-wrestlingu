@@ -2,11 +2,11 @@
   max-width: 100%
 
 .search-widget
-  align-items: center
+  /* align-items: center
   display: flex
   gap: 0.25rem
-  margin: 0 auto
-  max-width: 20rem
+  margin: 0 0 0 auto
+  max-width: 24rem
   position: relative
   width: 100%
 
@@ -43,15 +43,19 @@
   overflow: scroll
   z-index: 100
 
-  li.results-item
-    display: block !important
-    background: var(--accent-bg)
-    color: var(--text-light)
+  .search-results-items
+    padding: 0 0.5rem
 
-    :hover
-      background: var(--bg)
+    li.results-item
+      text-align: left
+      display: block !important
+      background: var(--accent-bg)
+      color: var(--text-light)
 
-    .search-result a
-      padding-left: 0.5rem
-      padding-right: 0.5rem
-      display: block
+      :hover
+        background: var(--bg)
+
+      .search-result a
+        padding-left: 0.5rem
+        padding-right: 0.5rem
+        display: block

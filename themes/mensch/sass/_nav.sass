@@ -1,0 +1,73 @@
+nav
+  border-bottom: .2rem solid var(--dark-blue)
+  display: flex
+  align-items: center
+
+  a
+    border: none
+    margin: 0
+    padding: 0
+
+    @media only screen and (max-width: 768px)
+      .t
+        display: none
+
+  a
+    text-decoration: none
+    &:hover
+      text-decoration: underline
+      color: var(--dark-aqua)
+
+  .sitename:hover
+    color: var(--dark-aqua)
+    text-decoration: underline
+
+  .nav-left
+    ul.nav-left-list
+      display: flex
+      align-items: center
+      gap: 0 0.25em
+      margin: 0
+      padding: 0
+      list-style-type: none
+      li
+        display: inline-block
+
+  .nav-right
+    display: flex
+    flex-grow: 1
+
+    ul.nav-right-list
+      margin: 0
+      width: 100%
+      list-style-type: none
+      display: flex
+      align-items: center
+      gap: 0.25rem
+
+      li
+        text-align: center
+        flex-grow: 0
+
+      li.grow
+        flex-grow: 1
+
+@media only screen and (max-width: 360px)
+  .logo
+    display: none
+  .sitename
+    display: inline
+
+.logo
+  display: inline-block
+  height: 48px
+  width: 48px
+  background: var(--logo-url)
+  background-size: contain
+  vertical-align: text-bottom
+
+.sitename
+  position: relative
+  font-size: 1.8em
+  font-weight: bold
+  color: var(--text-light)
