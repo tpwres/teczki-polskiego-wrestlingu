@@ -145,7 +145,7 @@ The lottery's overseeing committee was never shown by the cameras. The lottery f
 
 #### Post Gold-Rush Crisis
 
-_Main article: [PTW's 2024 Crisis](@/a/ptw-crisis.md)_
+_Main article: [PTW's 2024 crisis](@/a/ptw-crisis.md)_
 
 Between the two major shows in 2024, PTW lost a lot of credibility among wrestling fans, and saw many of its talent leave, dissatisfied at the organization and losing faith in the product.
 This was caused by the failures of their new marketing strategy, seemingly distancing itself from wrestling as the core product, and betting heavily on influencer appeal instead.
