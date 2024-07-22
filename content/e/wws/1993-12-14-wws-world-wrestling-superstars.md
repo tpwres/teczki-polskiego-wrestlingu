@@ -32,3 +32,4 @@ The ["Prehistory of wrestling"](@/a/prehistory.md) article covers this era in mo
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=380375)
+* [Short promo video for the show](https://www.youtube.com/watch?v=NYgkijaxYFo), followed by two matches from Vienna (in Polish)
