@@ -60,6 +60,7 @@ Nothing came out of this, because the deal fell through due to the channel chang
 
 * [Mywrestling's History of Polish Wrestling, part 1](https://mywrestling.com.pl/historia-polskiego-wrestlingu-1-supronstars-gala-w-torwarze-ppwf/)
 * [Mywrestling's History of Polish Wrestling, part 3](https://mywrestling.com.pl/historia-polskiego-wrestlingu-3-total-blast-wrestling/)
+* [Promotional video from Polish TV](https://www.youtube.com/watch?v=YHq0T_Ou438)
 
 [bazelak-kovacs]: https://www.youtube.com/watch?v=1vSTZv-LfIE
 
