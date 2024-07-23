@@ -36,6 +36,9 @@ class Doc:
     @abstractmethod
     def relative_to(self, other) -> str: pass
 
+    @abstractmethod
+    def pathname(self) -> Path: pass
+
 class FileBackedDoc(Doc):
     def __init__(self, path: Path):
         self.path = path
@@ -48,6 +51,9 @@ class FileBackedDoc(Doc):
 
     def relative_to(self, other):
         return self.path.relative_to(other)
+
+    def pathname(self):
+        return self.path
 
 @contextmanager
 def io_context_manager(stringio):
@@ -70,4 +76,7 @@ class StreamDoc(Doc):
 
     def relative_to(self, pattern):
         return '<stdin>'
+
+    def pathname(self):
+        return Path('-')
 

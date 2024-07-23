@@ -21,7 +21,7 @@ class MissingCardLinter:
                 return []
 
         with path.open('r') as fp:
-            card = Card(fp)
+            card = Card(fp, path)
             if card.matches:
                 return []
 

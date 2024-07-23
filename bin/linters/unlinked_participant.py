@@ -12,15 +12,15 @@ from rewriter import Rewriter, UpdateMatch
 class ReplaceCard(Changeset):
     text: str
 
-    def apply_changes(self, path: Doc):
-        with path.open('r') as fp:
+    def apply_changes(self, doc: Doc):
+        with doc.open('r') as fp:
             card_text = fp.read()
-            card = Card(card_text)
+            card = Card(card_text, doc.pathname())
             start_offset, end_offset = card.start_offset, card.end_offset
             fp.close()
 
             new_text = card_text[:start_offset] + self.text + card_text[end_offset:]
-            with path.open('w') as fp:
+            with doc.open('w') as fp:
                 fp.write(new_text)
         return True
 
@@ -41,7 +41,7 @@ class UnlinkedParticipantError(LintError):
         return True
 
     def calculate_fix(self, text) -> Optional[Changeset]:
-        card = Card(self.path.open())
+        card = Card(self.path.open(), self.path.pathname())
         if not card.matches: return None
 
         with self.path.open() as fp:
@@ -66,7 +66,7 @@ class UnlinkedParticipantLinter:
 
     def lint(self, path: Path):
         with path.open('r') as fp:
-            card = Card(fp)
+            card = Card(fp, path)
             if not card.matches:
                 return []
 
