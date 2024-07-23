@@ -5,39 +5,49 @@ from utils import accepted_name
 import json
 from collections import Counter
 from functools import reduce
-from card import Match, Name
+from card import Match, Name, CardParseError
 from page import Page
 from typing import Optional
+from sys import stderr, exit
 
 def main():
+    num_errors = 0
     org_rosters = {}
     cwd = Path.cwd()
     # 1. List all event pages
     events_dir = cwd / "content/e"
     event_pages = events_dir.glob("**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
-    for path in event_pages:
-        page = Page(path)
+    for page_path in event_pages:
+        try:
+            page = Page(page_path, verbose=False)
 
-        # 3. Find and read the card() block
-        card = page.card
-        if not card.matches: continue
+            # 3. Find and read the card() block
+            card = page.card
+            if not card.matches: continue
 
-        # 4. Grab all talent names in that block
-        names = [person for person in extract_names(card.matches) if accepted_name(person.name)]
-        # 5. Add to a set of names for relevant orgs
-        for org in page.orgs:
-            roster = org_rosters.setdefault(org, Counter())
-            roster.update(names)
+            # 4. Grab all talent names in that block
+            names = [person for person in extract_names(card.matches) if accepted_name(person.name)]
+            # 5. Add to a set of names for relevant orgs
+            for org in page.orgs:
+                roster = org_rosters.setdefault(org, Counter())
+                roster.update(names)
+        except CardParseError:
+            num_errors += 1
+
+    # Exit without writing anything if errors found
+    if num_errors > 0:
+        stderr.write("Errors found, aborting\n")
+        exit(1)
 
     data_dir = cwd / "data"
     data_dir.mkdir(exist_ok=True)
     # 6. At the end, sanitize the set: remove duplicates where one is a md link and the other isn't, keeping the link.
     for org, roster in org_rosters.items():
         roster = sanitize_roster(roster)
-        with (data_dir / "roster_{}.json".format(org)).open('w') as fp:
+        # 7. Output JSON files
+        with (data_dir / f"roster_{org}.json").open('w') as fp:
             json.dump(roster, fp)
-    # 7. Output JSON files
 
 
 def extract_names(matches: list[Match]) -> set[Name]:

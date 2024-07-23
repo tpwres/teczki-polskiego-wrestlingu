@@ -2,11 +2,12 @@
 
 import re
 from utils import accepted_name
-from card import Match
+from card import Match, CardParseError
 from page import Page
 from pathlib import Path
 from datetime import date
 import json
+from sys import stderr, exit
 
 class MatchEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -19,6 +20,7 @@ class MatchEncoder(json.JSONEncoder):
                 return super().default(obj)
 
 def main():
+    num_errors = 0
     appearances = {}
     crew_appearances = {}
     all_bouts = []
@@ -30,9 +32,14 @@ def main():
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
     i = 0
     for path in event_pages:
-        page = Page(path)
-        card = page.card
-        if not card.matches: continue
+        try:
+            page = Page(path, verbose=False)
+            card = page.card
+            if not card.matches: continue
+        except CardParseError:
+            num_errors += 1
+            continue
+
         relative_path = path.relative_to(content_dir).as_posix()
 
         for bout in card.matches:
@@ -65,6 +72,10 @@ def main():
                     r=person.role
                 )
             )
+
+    if num_errors > 0:
+        stderr.write("Errors found, aborting\n")
+        exit(1)
 
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)

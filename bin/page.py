@@ -3,6 +3,7 @@ from datetime import datetime
 from pathlib import Path
 from card import Card
 from utils import parse_front_matter
+from sys import exit, stderr
 
 date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
 
@@ -26,4 +27,4 @@ class Page:
         self.path = path
 
         # 3. Find and read the card() block
-        self.card = Card(text)
+        self.card = Card(text, path=path)

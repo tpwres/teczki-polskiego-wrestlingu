@@ -7,8 +7,9 @@ import json
 from functools import reduce
 from typing import Iterable, cast, Optional
 from utils import RichEncoder, accepted_name
-from card import Match, Name
+from card import Match, Name, CardParseError
 from page import Page
+from sys import stderr, exit
 
 def extract_names(matches: Iterable[Match]) -> set[Name]:
     """
@@ -92,20 +93,27 @@ def main():
     years_active = {}
     career = {}
     cwd = Path.cwd()
+    num_errors = 0
 
     events_dir = cwd / "content/e"
     # Omit _index.md pages
     event_pages = events_dir.glob("**/????-??-??-*.md")
 
     for path in event_pages:
-        page = Page(path)
-        card = page.card
-        if not card.matches:
-            print("No card available, skipping")
-            continue
-        update_years_active(years_active, page)
-        update_career(career, page)
+        try:
+            page = Page(path, verbose=False)
+            card = page.card
+            if not card.matches:
+                stderr.write(f"{path}: Warning: no card available, skipping\n")
+                continue
+            update_years_active(years_active, page)
+            update_career(career, page)
+        except CardParseError:
+            num_errors += 1
 
+    if num_errors > 0:
+        stderr.write("Errors found, aborting\n")
+        exit(1)
     merge_aliases(career)
 
     data_dir = cwd / 'data'

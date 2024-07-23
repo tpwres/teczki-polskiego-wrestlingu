@@ -1,9 +1,13 @@
 import yaml
 import io
-from typing import Union, Iterable, Optional, Tuple, cast
+from typing import Union, Iterable, Optional, Tuple, NamedTuple, cast
 import re
+from pathlib import Path
 from itertools import chain
 from dataclasses import dataclass
+from contextlib import contextmanager
+import yaml.parser
+from sys import exit, stderr
 
 person_link_re = re.compile(r'''
     ^
@@ -212,20 +216,30 @@ class Crew:
         for role, names in credits.items():
             self.members.extend(CrewMember(p.name, role) for p in parse_group(names) if isinstance(p, NamedParticipant))
 
+class CardParseError(Exception):
+    pass
+
+class DelimitedCard(NamedTuple):
+    start: int
+    end: int
+    text: str
+    card_start_line: int
+
 class Card:
-    def __init__(self, text_or_io: Union[str, io.TextIOBase]):
+    def __init__(self, text_or_io: Union[str, io.TextIOBase], path: Optional[Path]):
         match text_or_io:
             case str() as text:
                 # parse_result = self.extract_card(text_or_io.split("\n"))
-                parse_result = self.extract_card_unsplit(text)
+                extracted_card = self.extract_card_unsplit(text)
             case io.TextIOBase() as stream:
-                parse_result = self.extract_card_unsplit(stream.read())
+                extracted_card = self.extract_card_unsplit(stream.read())
 
-        if parse_result:
-            card_start, card_end, card_text = parse_result
+        if extracted_card:
+            card_start, card_end, card_text, _ = extracted_card
             self.start_offset = card_start
             self.end_offset = card_end
-            content = list(self.parse_card(card_text))
+            with self.handle_yaml_errors(extracted_card, path):
+                content = list(self.parse_card(card_text))
             if isinstance(content[-1], Crew):
                 self.crew = cast(Crew, content.pop())
             else:
@@ -234,7 +248,18 @@ class Card:
         else:
             self.matches = self.crew = None
 
-    DelimitedCard = Tuple[int, int, str]
+
+    @contextmanager
+    def handle_yaml_errors(self, card_block: DelimitedCard, path: Optional[Path]):
+        try:
+            yield
+        except yaml.parser.ParserError as parse_error:
+            _, _, _, start_line = card_block
+            context, _, problem, problem_mark = parse_error.args
+            line = start_line + problem_mark.line
+            message = f"{path or '<file>'}:{line}: Error: {problem} {context}\n"
+            stderr.write(message)
+            raise CardParseError(message)
 
     def extract_card_unsplit(self, text: str) -> Optional[DelimitedCard]:
         start_pattern = '{% card() %}'
@@ -243,10 +268,11 @@ class Card:
         card_start = text.find(start_pattern)
         if card_start == -1:
             return None
+        start_line = text[:card_start].count("\n") + 2 # 1 for line numbering to start at 1, and 1 more to consume the {% card %} block start
         card_end = text.find('{% end %}', card_start + start_length)
         body = text[card_start + start_length:card_end]
 
-        return (card_start + start_length, card_end, body)
+        return DelimitedCard(card_start + start_length, card_end, body, start_line)
 
     def parse_card(self, card_text: str) -> Iterable[Match|Crew]:
         card_rows = yaml.safe_load(io.StringIO(card_text))
