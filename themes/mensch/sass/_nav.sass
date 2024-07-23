@@ -2,21 +2,21 @@ nav
   border-bottom: .2rem solid var(--dark-blue)
   display: flex
   align-items: center
+  justify-content: space-between
 
   a
     border: none
     margin: 0
     padding: 0
+    text-decoration: none
+    color: var(--fg)
+    &:hover
+      text-decoration: underline
+      color: var(--dark-aqua)
 
     @media only screen and (max-width: 768px)
       .t
         display: none
-
-  a
-    text-decoration: none
-    &:hover
-      text-decoration: underline
-      color: var(--dark-aqua)
 
   .sitename:hover
     color: var(--dark-aqua)
@@ -35,11 +35,10 @@ nav
 
   .nav-right
     display: flex
-    flex-grow: 1
 
     ul.nav-right-list
       margin: 0
-      width: 100%
+      padding-left: 0
       list-style-type: none
       display: flex
       align-items: center
@@ -51,6 +50,10 @@ nav
 
       li.grow
         flex-grow: 1
+
+  @media only screen and (max-width: 568px)
+    .header-search + .nav-right > .nav-right-list:not(.keep)
+      display: none
 
 @media only screen and (max-width: 360px)
   .logo

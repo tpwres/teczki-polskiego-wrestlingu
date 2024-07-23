@@ -6,23 +6,21 @@
       <li class="nav-left-item"><a href="/"><span class="sitename">{{ config.title }}</span></a></li>
     </ul>
   </div>
+  <div class="header-search">
+    <form class="search-widget">
+      <input type="search" id="search_input" autocomplete=off/>
+      <button class="search-button" type="submit">
+        <svg class="feather-inline search-icon" title="Search"> 
+          <use href="{{ sprite }}#search"/> 
+        </svg> 
+      </button>
+    </form>
+    <div class="search-results">
+      <ul class="search-results-items"></ul>
+    </div>
+  </div>
   <div class="nav-right">
     <ul class="nav-right-list">
-      <li class="nav-right-item grow">
-        <div class="header-search">
-          <form class="search-widget">
-            <input type="search" id="search_input" autocomplete=off/>
-            <button class="search-button" type="submit">
-              <svg class="feather-inline search-icon" title="Search"> 
-                <use href="{{ sprite }}#search"/> 
-              </svg> 
-            </button>
-          </form>
-          <div class="search-results">
-            <ul class="search-results-items"></ul>
-          </div>
-        </div>
-      </li>
       {% for link in config.extra.mensch_links -%}
       <li class="nav-right-item">
         {% set link_class = link | get(key='class', default='') -%}
@@ -45,6 +43,8 @@
         {% endif -%}
       </li>
       {% endfor -%}
+    </ul>
+    <ul class="nav-right-list keep">
       <li>
         <a id="darkmodetoggle" onclick="switchTheme()" ondblclick="switchThemeOG()" aria-label="Change theme" title="Change theme">
           <svg class="feather dark-theme-icon" title="Moon icon">
