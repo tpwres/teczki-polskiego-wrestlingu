@@ -62,3 +62,4 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 * [WrestleMap's article](https://www.wrestlemap.com/news/dq485wijkucboar5ma0dc8d3h61zyr)
 * [Video report](https://www.youtube.com/watch?v=YmqP_CGJZg8) from that article
 * [PpW's wiki page](https://ppw-fandom.tpwres.pl/poznan-supershow-2021)
+* [Photo galleries from past events](https://targipiwne.pl/galeria/)
