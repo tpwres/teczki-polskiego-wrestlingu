@@ -5,7 +5,7 @@ aliases = ["/w/dawid-oliwa"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "dawid-arena-24.jpg", caption = "David at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)"}
+1 = { path = "david-arena-24.jpg", caption = "David at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)"}
 +++
 
 ## Internet presence
