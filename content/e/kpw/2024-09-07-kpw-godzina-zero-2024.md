@@ -34,6 +34,14 @@ According to KPW's event page, there will be a significant number of foreign tal
 - - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "The 87: Alexander Roth, Roy Johnson"
   - {c: KPW Tag Team Championship}
+- - ???
+  - ???
+  - ???
+  - [Eryk Lesak](@/w/eryk-lesak.md)
+  - ???
+  - ???
+  - ???
+  - {s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match}
 {% end %}
 
 #### Recap
