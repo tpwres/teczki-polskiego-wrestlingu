@@ -96,6 +96,7 @@
                   color: {{ fg }};"
             title="{{ cnt }} matches">
         {{ style|get(key='text', default=org|upper) }}
+        <small>{{ cnt }}</small>
       </div>
     {% endif %}
   {% endfor %}
