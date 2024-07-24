@@ -4,6 +4,10 @@ template = "base_with_gallery.html"
 weight = 7
 +++
 
+The following elaborates on the 2024 PTW crisis, touched upon in the [main article](@/o/ptw.md#post-gold-rush-crisis).
+
+<!-- more -->
+
 ## The Stonoga controversy
 
 On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW#6](@/e/ptw/2024-05-11-ptw-6.md) and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
