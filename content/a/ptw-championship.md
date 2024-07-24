@@ -5,6 +5,8 @@ weight = 5
 
 The PTW Championship is a professional wrestling championship created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their top championship.
 
+<!-- more -->
+
 ## Statistics
 
 * First champion: [Puncher](@/w/puncher.md)
