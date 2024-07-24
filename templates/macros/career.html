@@ -18,6 +18,8 @@
     {% include "badges/tbw.html" %}
   {% elif code == "dfw" %}
     {% include "badges/dfw.html" %}
+  {% elif code == "wwe" %}
+    {% include "badges/wwe.html" %}
   {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge">
@@ -51,6 +53,8 @@
     {% include "badges/tbw.html" %}
   {% elif code == "dfw" %}
     {% include "badges/dfw.html" %}
+  {% elif code == "wwe" %}
+    {% include "badges/wwe.html" %}
   {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge ib">
@@ -92,6 +96,8 @@
       {% include "badges/tbw.html" %}
     {% elif org == "dfw" %}
       {% include "badges/dfw.html" %}
+    {% elif org == "wwe" %}
+      {% include "badges/wwe.html" %}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};
