@@ -17,16 +17,15 @@ def extract_names(matches: Iterable[Match]) -> set[Name]:
     Match object may have an `x` key in their options. This must be a list of integer 1-based indices.
     If present, the indices mark people to REMOVE from this participant list.
     """
-    initial: set[Name] = set([])
-    for m in matches:
-        names: list[Optional[Name]] = list(m.all_names())
-        exclude = m.options.get('x', [])
-        for exclude_index in exclude:
-            names[exclude_index - 1] = None
-        for name in names:
-            if name is None: continue
-            initial.add(name)
-    return initial
+    return reduce(lambda s1, s2: s1 | s2, (names_in_match(m) for m in matches))
+
+def names_in_match(mm: Match) -> set[Name]:
+    names: list[Optional[Name]] = list(mm.all_names())
+    exclude = mm.options.get('x', [])
+    for exclude_index in exclude:
+        names[exclude_index - 1] = None
+    return set(name for name in names if name)
+
 
 # Not strictly necessary as the career hash can be used to pull the same info
 def update_years_active(years: dict[str, set[int]], page: Page):
@@ -53,15 +52,17 @@ def update_career(career: dict[str, CareerYears], page: Page):
     if not event_date:
         return
 
-    names = extract_names(card.matches)
+    for mm in card.matches:
+        names = names_in_match(mm)
 
-    for person in names:
-        plain = person.name
-        if not accepted_name(plain): continue
+        # If a person appeared in more than one match on the card, count it appropriately
+        for person in names:
+            plain = person.name
+            if not accepted_name(plain): continue
 
-        entry = career.setdefault(plain, {})
-        year = cast(Counter, entry.setdefault(event_date.year, Counter()))
-        year.update(orgs)
+            entry = career.setdefault(plain, {})
+            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+            year.update(orgs)
 
     if not card.crew: return
     for person in card.crew.members:
