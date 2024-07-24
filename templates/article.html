@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{%- import "macros/career.html" as macros %}
+{% block extra_head %}
+<link rel="stylesheet" href="{{ get_url(path="/tables.css") }}"/>
+{% endblock %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+
+{% if page.extra|get(key="toclevel", default=0) >= 1 %}
+  {% include "page_toc.html" %}
+{% endif %}
+
+{{ page.content | safe }}
+
+{% if page.extra.gallery -%}
+  {% include "auto_lightbox.html" -%}
+{% endif -%}
+{% endblock content %}

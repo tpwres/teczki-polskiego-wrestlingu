@@ -1,8 +1,10 @@
 +++
 title = "KPW Championship"
-template = "base_with_gallery.html"
+template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[extra]
+toclevel=2
 [extra.gallery]
 1 = { path = "kpw-championship-belt.jpg", caption = '[Kinga Różańska](@/w/kinga-miotke.md) presents the vacated KPW Championship belt at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md).', source = "M3n747" }
 +++
@@ -19,7 +21,7 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
 
 ## Title history
 
-### Champion #1: Piękny Kawaler (1st run)
+### Champion #1: Piękny Kawaler
 
 {% free_card() %}
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
