@@ -1,6 +1,6 @@
 +++
 title = "PTW's 2024 Crisis"
-template = "base_with_gallery.html"
+template = "article.html"
 weight = 7
 +++
 

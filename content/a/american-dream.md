@@ -1,6 +1,7 @@
 +++
 title = "American Dream"
 weight = 0
+template = "article.html"
 +++
 
 Amerykański Sen (_American Dream_) is a short documentary film from 2017. The film was directed by Marek Skrzecz, produced and released by Studio Munka.

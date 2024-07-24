@@ -1,6 +1,7 @@
 +++
 title = "PTW Championship"
 weight = 5
+template = "article.html"
 +++
 
 The PTW Championship is a professional wrestling championship created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their top championship.

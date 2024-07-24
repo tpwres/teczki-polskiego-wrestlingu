@@ -1,7 +1,7 @@
 +++
 title = "PTW Awards"
 weight = 6
-template = "base_with_gallery.html"
+template = "article.html"
 authors = ["Seweryn Pielucha"]
 [extra.gallery]
 1 = { path = "hero-of-the-year.webp", caption = "Nominees for the Hero Of the Year category.", source = "Facebook PTW"}

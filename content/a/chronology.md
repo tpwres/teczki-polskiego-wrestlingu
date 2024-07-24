@@ -1,6 +1,6 @@
 +++
 title = "Chronology of Polish wrestling"
-template = "base_with_gallery.html"
+template = "article.html"
 weight = 0
 authors = ["M3n747"]
 [extra.gallery]
