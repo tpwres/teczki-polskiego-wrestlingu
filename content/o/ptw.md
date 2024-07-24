@@ -143,7 +143,7 @@ On Sunday, May 12th, PTW held the lottery's prize draw on a YouTube live stream.
 Despite PTW's stated goal of providing entertainment for the whole family, this show included controversial guests: Stonoga and the cast of _Królowe Życia_ ("The Queens of Life") reality show, spouting distasteful, sexually-charged jokes.
 The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who called them and why, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet (eventually including the lottery website).
 
-#### Post Gold-Rush Crisis
+#### Post-Gold Rush crisis
 
 _Main article: [PTW's 2024 crisis](@/a/ptw-crisis.md)_
 
