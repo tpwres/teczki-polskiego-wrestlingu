@@ -1,5 +1,7 @@
 {% macro promolink_color(code, hint_text='', styles) %}
   {% set ib = false %}
+  {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
+  {% set text_fg = style|get(key='text_fg', default='#fff') %}
   {% if code == "mcw" %}
     {% include "badges/mcw.html" %}
   {% elif code == "ddw" %}
@@ -17,7 +19,6 @@
   {% elif code == "dfw" %}
     {% include "badges/dfw.html" %}
   {% else %}
-    {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
@@ -32,6 +33,8 @@
 
 {% macro promolink_color_span(code, hint_text='', styles) %}
   {% set ib = true %}
+  {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
+  {% set text_fg = style|get(key='text_fg', default='#fff') %}
   {% if code == "mcw" %}
     {% include "badges/mcw.html" %}
   {% elif code == "ddw" %}
@@ -49,7 +52,6 @@
   {% elif code == "dfw" %}
     {% include "badges/dfw.html" %}
   {% else %}
-  {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge ib">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
@@ -73,6 +75,7 @@
     {% set hint_text = '' %}
     {% set bg = style|get(key='bg', default='#000') %}
     {% set fg = style|get(key='fg', default='#fff') %}
+    {% set text_fg = style|get(key='text_fg', default='#fff') %}
     {% if org == "mcw" %}
       {% include "badges/mcw.html" %}
     {% elif org == "ddw" %}

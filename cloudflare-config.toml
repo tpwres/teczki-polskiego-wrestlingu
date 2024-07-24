@@ -48,25 +48,33 @@ gallery_root = "https://i.tpwres.pl"
 
 [extra.org_styles.ppw]
 bg = '#5b007e'
-fg = '#c7c7c7'
-text = 'PpW'
+text_fg = '#c7c7c7'
 
 [extra.org_styles.mzw]
 bg = '#208315'
+text_fg = '#ffffff'
 
 [extra.org_styles.kpw]
 bg = '#133762'
+text_fg = '#ffffff'
 
 [extra.org_styles.ddw]
 bg = '#71171f'
+text_fg = '#fbf1c7'
 
 [extra.org_styles.tbw]
-# bg = '#0400cd'
 bg = '#000'
 fg = '#8c8d87'
+text_fg = '#ffffff'
 
 [extra.org_styles.dfw]
 bg = '#a9100b'
+text_fg = '#fbf1c7'
+
+[extra.org_styles.ptw]
+bg = '#000'
+text_fg = '#ffffff'
+
 
 [extra.chronology]
 underground = "PTW Underground"
