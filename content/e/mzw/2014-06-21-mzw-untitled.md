@@ -4,8 +4,9 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["smolec"]
-[extra.gallery]
-1 = { path = "plakat.webp" }
+[extra.gallery.1]
+path = "plakat.webp"
+caption = "Show poster. Pictured from left to right are: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md), [Kowboj Luke](@/w/red-thunder.md), Robert Kaiser, [Shadow](@/w/shadow.md) and Kevin Williams."
 +++
 
 {% card() %}
