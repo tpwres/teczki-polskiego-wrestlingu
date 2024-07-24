@@ -4,7 +4,7 @@ template = "base_with_gallery.html"
 weight = 0
 authors = ["M3n747"]
 [extra.gallery]
-1 = { path = "kpw-championship-belt.jpg", caption = '[Kinga Różańska](@/w/kinga-miotke.md) presents the vacated KPW Championship belt at [Arena 17](@/2021-08-21-kpw-arena-17-odrodzenie.md).', source = "M3n747" }
+1 = { path = "kpw-championship-belt.jpg", caption = '[Kinga Różańska](@/w/kinga-miotke.md) presents the vacated KPW Championship belt at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md).', source = "M3n747" }
 +++
 
 The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md). It was introduced in 2016 and the first champion - [Piękny Kawaler](@/w/piekny-kawaler.md) - was crowned at the inaugural [Godzina Zero](e/kpw/2016-08-13-kpw-godzina-zero-2016.md).
@@ -17,7 +17,10 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
 * Most reigns: [Robert Star](@/w/robert-star.md) (2)
 * Longest reign: Robert Star (2nd) (677 days)
 
-## Champion #1: Piękny Kawaler
+## Title history
+
+### Champion #1: Piękny Kawaler (1st run)
+
 {% free_card() %}
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
@@ -61,7 +64,8 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
     ed: 2018-05-26
 {% end %}
 
-## Champion #2: Ron Corvus
+### Champion #2: Ron Corvus
+
 {% free_card() %}
 - - 'Ron Corvus'
   - 'Piękny Kawaler (c)'
@@ -90,18 +94,20 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
     ed: 2019-04-05
 {% end %}
 
-## Champion #3: Robert Star (1st run)
+### Champion #3: Robert Star (1st run)
+
 {% free_card() %}
 - - '[Robert Star](@/w/robert-star.md)'
   - 'Ron Corvus (c)'
   - s: Singles match
     en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
     ed: 2019-04-05
-
-Two days later, Robert Star was fired from KPW for breaking the terms of his agreement with Piękny Kawaler, agreed upon prior to Arena 13. This resulted in the title being vacated for 39 days.
 {% end %}
 
-## Champion #4: Robert Star (2st run)
+Two days later, Robert Star was fired from KPW for breaking the terms of his agreement with Piękny Kawaler, agreed upon prior to Arena 13. This resulted in the title being vacated for 39 days.
+
+### Champion #4: Robert Star (2nd run)
+
 {% free_card() %}
 - - 'Robert Star'
   - 'Dom Taylor'
@@ -122,13 +128,13 @@ Two days later, Robert Star was fired from KPW for breaking the terms of his agr
   - s: Singles match
     en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15-swieza-krew.md)'
     ed: 2019-08-17
-
-Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the title wasn't defended), Robert Star left the promotion to join [PTW](@/o/ptw.md) and the belt was again vacated.
 {% end %}
 
-## Champion #5: Greg
-{% free_card() %}
+Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the title wasn't defended), Robert Star left the promotion to join [PTW](@/o/ptw.md) and the belt was once again vacated.
 
+### Champion #5: Greg
+
+{% free_card() %}
 - - '[Greg](@/w/greg.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - s: Three Stages of Hell Match 
@@ -151,9 +157,9 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
     ed: 2023-08-18
 {% end %}
 
-## Champion #6: Red Scorpion
-{% free_card() %}
+### Champion #6: Red Scorpion
 
+{% free_card() %}
 - - 'Red Scorpion'
   - 'Greg (c)'
   - s: Singles match
@@ -164,9 +170,10 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
   - s: Singles match
     en: '[KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md)'
     ed: 2023-11-24
-
-Red Scorpion is the first KPW Champion to defend the title outside of Poland (see [here](https://www.cagematch.net/?id=1&nr=377603) and [here](https://www.cagematch.net/?id=1&nr=391319)).
 {% end %}
+
+Red Scorpion is the first KPW Champion to defend the title outside of Poland, in [October 2023](https://www.cagematch.net/?id=1&nr=377603) against James Mason, and in [March 2024](https://www.cagematch.net/?id=1&nr=391319) against Liam Slater.
+Both defenses took place during events held by Bologna Wrestling Team.
 
 
 ### References
