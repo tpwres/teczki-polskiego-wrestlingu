@@ -45,6 +45,8 @@ The Polish IWC reported one incident when fans wearing T-shirts of another Polis
 
 ### Championships
 
+_See also: [KPW Championship](@/a/kpw-championship.md)._
+
 As of 2024, KPW has one tag team championship and two singles championships. The main title, KPW Championship, was created in 2016 and won at the first Godzina Zero event. KPW OldTown Championship was created and won at [OldTown Festival 2017](@/e/kpw/2017-07-23-kpw-oldtown-2.md), which was a post-apocalyptic themed LARP event to which KPW was invited to perform. This belt had an unique look befitting its origin, until [2023](@/e/kpw/2023-11-24-kpw-arena-23.md) when it was replaced with a more conventional style belt.
 
 The Tag Team Championship was created in 2018 and the first champions crowned in 2018, at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md).
