@@ -64,6 +64,7 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
   - s: Singles match
     en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
     ed: 2018-05-26
+**TOTAL:** 651 days.
 {% end %}
 
 ### Champion #2: Ron Corvus
@@ -94,6 +95,7 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
   - s: Singles match
     en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
     ed: 2019-04-05
+**TOTAL:** 314 days.
 {% end %}
 
 ### Champion #3: Robert Star (1st run)
@@ -104,6 +106,7 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
   - s: Singles match
     en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
     ed: 2019-04-05
+**TOTAL:** 32 days.
 {% end %}
 
 Two days later, Robert Star was fired from KPW for breaking the terms of his agreement with Piękny Kawaler, agreed upon prior to Arena 13. This resulted in the title being vacated for 39 days.
@@ -130,6 +133,7 @@ Two days later, Robert Star was fired from KPW for breaking the terms of his agr
   - s: Singles match
     en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15-swieza-krew.md)'
     ed: 2019-08-17
+**TOTAL:** 677 days.
 {% end %}
 
 Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the title wasn't defended), Robert Star left the promotion to join [PTW](@/o/ptw.md) and the belt was once again vacated.
@@ -157,6 +161,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
   - s: Singles match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
+**TOTAL:** 335 days.
 {% end %}
 
 ### Champion #6: Red Scorpion
