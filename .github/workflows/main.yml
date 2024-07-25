@@ -43,6 +43,7 @@ jobs:
             ).data[0];
       - uses: actions/github-script@v7
         name: Run lint and create comment
+        permissions: { issues: write, pull-requests: write }
         with:
           script: |
             let stderr_text = '';
