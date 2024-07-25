@@ -5,17 +5,69 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
+        name: Install Python
         with:
-          python-version: '3.12'
-      - name: checkout
-        uses: actions/checkout@v4
-      - run: pip install -r requirements.txt
-      - name: build intermediate data
-        run: |
-          echo "::group::Building intermediate data"
-          mkdir -p data
-          make
-      - name: Lint content
-        run: |
-          bin/lint.py
+          python-version: '3.12.4'
+          cache: pip
+      - name: Install required Python packages
+        run: pip install -r requirements.txt
+      - run: mkdir -p data
+      - uses: actions/github-script@v7
+        name: Run make
+        with:
+          script: |
+            let stderr_text = '';
+            let stdout_text = '';
+            const opts = { ignoreReturnCode: true };
+            opts.listeners = {
+              stderr: (data) => { stderr_text += data.toString(); },
+              stdout: (data) => { stdout_text += data.toString(); }
+            };
+            let exitcode = await exec.exec('make all plot', opts);
+            if (exitcode != 0) {
+              core.setOutput('makeError', stderr_text);
+              core.setOutput('makeOutput', stdout_text);
+            }
+      - uses: actions/github-script@v7
+        name: Run lint
+        with:
+          script: |
+            let stderr_text = '';
+            let stdout_text = '';
+            const opts = { ignoreReturnCode: true };
+            opts.listeners = {
+              stderr: (data) => { stderr_text += data.toString(); },
+              stdout: (data) => { stdout_text += data.toString(); }
+            };
+            let exitcode = await exec.exec('python bin/lint.py', opts);
+            if (exitcode != 0) {
+              core.setOutput('lintError', stderr_text);
+              core.setOutput('lintOutput', stdout_text);
+            }
+      - uses: actions/github-script@v7
+        name: Publish lint issues
+        with:
+          script: |
+            let lintError = core.getInput('lintError');
+            let lintText = `## Lint issues found: \
+              ${lintError}
+            `;
+            if (lintError) {
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: lintText
+              });
+            }
+
+      # - name: build intermediate data
+      #   run: |
+      #     echo "::group::Building intermediate data"
+      #     mkdir -p data
+      #     make
+      # - name: Lint content
+      #   run: |
+      #     bin/lint.py
