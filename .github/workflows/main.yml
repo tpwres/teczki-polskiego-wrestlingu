@@ -25,7 +25,7 @@ jobs:
               stderr: (data) => { stderr_text += data.toString(); },
               stdout: (data) => { stdout_text += data.toString(); }
             };
-            let exitcode = await exec.exec('make all plot', opts);
+            let exitcode = await exec.exec('make', ['all', 'plot'], opts);
             if (exitcode != 0) {
               core.setOutput('makeError', stderr_text);
               core.setOutput('makeOutput', stdout_text);
@@ -41,7 +41,8 @@ jobs:
               stderr: (data) => { stderr_text += data.toString(); },
               stdout: (data) => { stdout_text += data.toString(); }
             };
-            let exitcode = await exec.exec('python bin/lint.py', opts);
+            let exitcode = await exec.exec('python', ['bin/lint.py'], opts);
+            core.info(`Exit code from lint is ${exitcode}`);
             if (exitcode != 0) {
               core.setOutput('lintError', stderr_text);
               core.setOutput('lintOutput', stdout_text);
@@ -51,7 +52,8 @@ jobs:
         with:
           script: |
             let lintError = core.getInput('lintError');
-            let lintText = `## Lint issues found: \
+            core.info(`lintError = ${lintError}`);
+            let lintText = `# Lint issues found: \
               ${lintError}
             `;
             if (lintError) {
@@ -61,6 +63,9 @@ jobs:
                 issue_number: context.issue.number,
                 body: lintText
               });
+              core.setFailed('Lint issues found');
+            } else {
+              core.info('No lint issues found');
             }
 
       # - name: build intermediate data
