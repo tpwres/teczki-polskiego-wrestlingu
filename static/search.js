@@ -79,13 +79,18 @@ const initSearch = () => {
         if (term === currentTerm) return;
 
         resultsPane.style.display = (term === "" ? 'none' : 'block');
-        resultsPane.style.left = `${searchInput.getBoundingClientRect().left}px`;
+        let wide = matchMedia('only screen and (min-width: 540px)').matches;
+        if (wide)
+            resultsPane.style.left = `${searchInput.getBoundingClientRect().left}px`;
+        else {
+            resultsPane.style.left = '0px';
+            resultsPane.style.width = '100%';
+        }
         resultsItems.innerHTML = '';
         currentTerm = term;
         if (term === '') return;
 
         let search_results = (await initIndex()).search(term, options);
-        console.log(search_results);
 
         if (search_results.length === 0) {
             resultsPane.style.display = "none";

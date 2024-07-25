@@ -48,19 +48,24 @@
 
   .search-results-items
     padding: 0 0.5rem
+    margin-top: 0
 
     li.results-item
-      padding: 0.25rem 0
+      padding: 0 0.25rem
       text-align: left
       display: block !important
       background: var(--accent-bg)
       color: var(--text-light)
-
-      :hover
-        background: var(--bg)
 
       .search-result a
         padding-left: 0.5rem
         padding-right: 0.5rem
         display: block
         text-decoration: none
+
+      &:hover
+        background: var(--bg)
+
+        a
+          color: var(--dark-aqua)
+
