@@ -21,7 +21,7 @@ The foreign guests for the event were:
 #### Build-up
 
 * The KPW Championship belt was vacated in 2021 when current champion [Robert Star](@/w/robert-star.md) left KPW to join PTW. Arenas 18 and 19 held matches between four wrestlers selected by Chairman Krystian Malinowski. The final 2 would face each other on this event.
-* In a [facebook post](https://www.facebook.com/events/393729466203534/?post_id=412536367656177), KPW announced that Wild Boar, one half of current KPW Tag Team Champions, is unable to attend due to injury. As a result, the championship was officially vacated, and his replacement was to be revealed soon.
+* In a [Facebook post](https://www.facebook.com/events/393729466203534/?post_id=412536367656177), KPW announced that Wild Boar, one half of current KPW Tag Team Champions, is unable to attend due to injury. As a result, the championship was officially vacated, and his replacement was to be revealed soon.
 
 {% card() %}
 - - '[Darius](@/w/darius.md)'
