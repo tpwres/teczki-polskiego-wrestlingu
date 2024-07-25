@@ -23,7 +23,7 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 - ['[Puncher](@/w/puncher.md)', '[Sam Rogers](@/w/sam-rogers.md)']
 - ["Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)", "PAKA:
     [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)", {c: "PTW Tag Team
-      Championnship", nc: No Contest}]
+      Championship", nc: No Contest}]
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
