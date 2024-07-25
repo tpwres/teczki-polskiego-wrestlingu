@@ -27,7 +27,7 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - s: 2 out of 3 Falls Match
-    en: '[Godzina Zero 2016](e/kpw/2016-08-13-kpw-godzina-zero-2016.md)'
+    en: '[Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md)'
     ed: 2016-08-13
 - - 'Piękny Kawaler (c)'
   - Elliott Jordan
