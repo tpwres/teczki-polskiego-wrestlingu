@@ -1,5 +1,5 @@
 +++
-title = "KPW OldTown 3: Turniej"
+title = "KPW OldTown 3"
 template = "event_page.html"
 [taxonomies]
 chronology = ["kpw"]
