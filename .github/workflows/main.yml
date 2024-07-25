@@ -63,7 +63,7 @@ jobs:
               github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: ${{ steps.get_pr_data.outputs.result }},
+                issue_number: ${{ fromJson(steps.get_pr_data.outputs.result).number }},
                 body: lintText
               });
               core.setFailed('Lint issues found');
