@@ -38,6 +38,12 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13
 - - 'Puncher(c)'
+  - 'Babathunder'
+  - nc: No Contest
+    s: Singles Match
+    en: '[PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md)'
+    ed: 2024-05-11
+- - 'Puncher(c)'
   - Miyagi Shida
   - s: Puncher's Open Challenge
     en: '[PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md)'
