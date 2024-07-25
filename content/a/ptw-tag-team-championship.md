@@ -2,6 +2,13 @@
 title = "PTW Tag Team Championship"
 weight = 5
 template = "article.html"
+[extra.gallery.1]
+path = "paka-tag-team-champions.webp"
+caption = "PAKA ([Taras](@/w/taras.md), [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)) holding the first version of the belts."
+source = "Facebook PrimeTimeWrestling"
+[extra.gallery.2]
+path = "bastards-tag-team-champions.jpg"
+caption = "Budapest Bastards ([Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)) wearing the updated belts."
 +++
 
 The PTW Tag Team Championship is a professional wrestling championship created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their tag team division championship.
