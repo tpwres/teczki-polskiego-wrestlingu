@@ -7,17 +7,15 @@ jobs:
     steps:
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - run: pip install pyyaml
+          python-version: '3.12'
       - name: checkout
         uses: actions/checkout@v4
+      - run: pip install -r requirements.txt
       - name: build intermediate data
         run: |
           echo "::group::Building intermediate data"
           mkdir -p data
-          bin/build_metadata.py
-          bin/build_roster.py
-          bin/build_matches.py
+          make
       - name: Lint content
         run: |
           bin/lint.py
