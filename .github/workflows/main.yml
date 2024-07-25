@@ -43,7 +43,6 @@ jobs:
             };
             let exitcode = await exec.exec('python', ['bin/lint.py'], opts);
             if (exitcode != 0) {
-              core.log('Saving lint out and stderr');
               core.setOutput('lintError', stderr_text);
               core.setOutput('lintOutput', stdout_text);
             }
@@ -51,8 +50,8 @@ jobs:
         name: Publish lint issues
         with:
           script: |
-            let lintError = core.getInput('lintError');
-            let lintOut = core.getInput('lintOutput');
+            let lintError = core.getMultilineInput('lintError');
+            let lintOut = core.getMultilineInput('lintOutput');
             let lintText = `# Lint issues found: \
               ${lintOut}
               ${lintError}
