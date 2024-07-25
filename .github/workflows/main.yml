@@ -42,7 +42,6 @@ jobs:
               stdout: (data) => { stdout_text += data.toString(); }
             };
             let exitcode = await exec.exec('python', ['bin/lint.py'], opts);
-            core.info(`Exit code from lint is ${exitcode}`);
             if (exitcode != 0) {
               core.setOutput('lintError', stderr_text);
               core.setOutput('lintOutput', stdout_text);
@@ -52,11 +51,12 @@ jobs:
         with:
           script: |
             let lintError = core.getInput('lintError');
-            core.info(`lintError = ${lintError}`);
+            let lintOut = core.getInput('lintOutput');
             let lintText = `# Lint issues found: \
+              ${lintOut}
               ${lintError}
             `;
-            if (lintError) {
+            if (lintOut || lintError) {
               github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
