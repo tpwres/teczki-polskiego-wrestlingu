@@ -36,13 +36,17 @@ jobs:
           script: |
             let stderr_text = '';
             let stdout_text = '';
-            const opts = { ignoreReturnCode: true };
-            opts.listeners = {
-              stderr: (data) => { stderr_text += data.toString(); },
-              stdout: (data) => { stdout_text += data.toString(); }
+            const opts = {
+              ignoreReturnCode: true,
+              listeners: {
+                errline: (data) => { stderr_text += data; },
+                stdline: (data) => { stdout_text += data; }
+              }
             };
             let exitcode = await exec.exec('python', ['bin/lint.py'], opts);
             if (exitcode != 0) {
+              core.info(`Saving output lintError ${stderr_text}`);
+              core.info(`Saving output lintOutput ${stdout_text}`);
               core.setOutput('lintError', stderr_text);
               core.setOutput('lintOutput', stdout_text);
             }
@@ -52,6 +56,8 @@ jobs:
           script: |
             let lintError = core.getMultilineInput('lintError');
             let lintOut = core.getMultilineInput('lintOutput');
+            core.info(`Loaded input lintError ${lintError}`);
+            core.info(`Loaded input lintOut ${lintOut}`);
             let lintText = `# Lint issues found: \
               ${lintOut}
               ${lintError}
