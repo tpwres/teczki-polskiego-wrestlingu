@@ -43,6 +43,7 @@ jobs:
             };
             let exitcode = await exec.exec('python', ['bin/lint.py'], opts);
             if (exitcode != 0) {
+              core.log('Saving lint out and stderr');
               core.setOutput('lintError', stderr_text);
               core.setOutput('lintOutput', stdout_text);
             }
