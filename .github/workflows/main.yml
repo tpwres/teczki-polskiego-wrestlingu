@@ -31,7 +31,7 @@ jobs:
               core.setOutput('makeOutput', stdout_text);
             }
       - uses: actions/github-script@v7
-        name: Run lint
+        name: Run lint and create comment
         with:
           script: |
             let stderr_text = '';
@@ -45,25 +45,10 @@ jobs:
             };
             let exitcode = await exec.exec('python', ['bin/lint.py'], opts);
             if (exitcode != 0) {
-              core.info(`Saving output lintError ${stderr_text}`);
-              core.info(`Saving output lintOutput ${stdout_text}`);
-              core.setOutput('lintError', stderr_text);
-              core.setOutput('lintOutput', stdout_text);
-            }
-      - uses: actions/github-script@v7
-        name: Publish lint issues
-        with:
-          script: |
-            let lintError = core.getMultilineInput('lintError');
-            let lintOut = core.getMultilineInput('lintOutput');
-            core.info(`Loaded input lintError ${lintError}`);
-            core.info(`Loaded input lintOut ${lintOut}`);
-            let lintText = `# Lint issues found: \
-              ${lintOut}
-              ${lintError}
-            `;
-            core.info(lintText);
-            if (lintOut || lintError) {
+              const lintText = `# Lint issues found: \
+                ${stderr_text}
+                ${stdout_text}
+              `;
               github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
