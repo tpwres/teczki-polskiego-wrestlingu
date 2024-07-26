@@ -13,14 +13,20 @@ def accepted_name(name):
 def extract_front_matter(text):
     matter = []
     lines = iter(text.split("\n"))
-    while True:
-        line = next(lines)
-        if line == "+++": break
+    try:
+        while True:
+            line = next(lines)
+            if line == "+++": break
+    except StopIteration:
+        raise ValueError("Did not find frontmatter start marker")
 
-    while True:
-        line = next(lines)
-        if line == "+++": break
-        matter.append(line)
+    try:
+        while True:
+            line = next(lines)
+            if line == "+++": break
+            matter.append(line)
+    except StopIteration:
+        raise ValueError("Did not find frontmatter end marker")
 
     return "\n".join(matter)
 

@@ -1,0 +1,219 @@
+from pathlib import Path
+from .base import LintError, Doc
+from utils import extract_front_matter
+from page import Page
+from dataclasses import dataclass
+import re
+import datetime
+import tomllib
+import yaml, yaml.scanner
+
+@dataclass
+class FileError(LintError):
+    path: Path
+    text: str
+
+    def message(self, file_root: Path):
+        return f'[{self.path.relative_to(file_root)}] {self.text}'
+
+    def supports_auto(self):
+        return False
+
+F = FileError
+
+class WellFormedEventLinter:
+    """
+    A well formed event file has:
+    - filename matching proscribed pattern: yyyy-mm-dd-orgs-event-name.md
+      - parent dir must be an org name, and repeated in orgs
+    - a valid frontmatter block
+      - with mandatory fields: title
+      - template must be event_page or other whitelisted ones
+      - taxonomies, if present, must be valid
+        - values for chronology must be in chrono_root
+        - venue must have exactly one element, and matching an article in v/
+      - gallery items, if present, must be well-formed
+        - mandatory attributes: path, caption, source
+        - if possible, validate path exists
+        - if path exists, validate file size is within limit
+    - a card block or a {{ skip_card() }} annotation
+      - that is valid yaml
+      - error if card is empty
+      - warning if no credits entry
+    - mandatory sections: References
+    - all internal links must be valid
+    """
+    def __init__(self):
+        self.messages = []
+        self.load_taxonomies()
+
+    def lint(self, document: Doc):
+        path = document.pathname()
+        if not path.exists():
+            return
+
+        self.check_filename(path)
+
+        with document.open() as fp:
+            text = fp.read()
+            self.check_frontmatter(path, text)
+
+            self.check_card(path, text)
+            return self.messages
+            self.check_sections(text)
+
+            self.check_links(text)
+
+        return self.messages
+
+    def error(self, err):
+        self.messages.append(err)
+
+    def warning(self, warning):
+        self.messages.append(warning)
+
+
+    def check_filename(self, path):
+        fc = re.match(r'''
+            ^
+            (?P<year>\d{4})-(?P<month>\d{2})-(?P<day>\d{2})
+            -(?P<orgs>[^-]+)
+            -(?P<title>.*)
+            \.md
+            $
+        ''', path.name, flags=re.VERBOSE)
+        if not fc:
+            self.error(F(path, "Path does not adhere to naming scheme YYYY-MM-DD-ORGS-Event-Name.md"))
+            return
+
+        y, m, d = int(fc['year']), int(fc['month']), int(fc['day'])
+        if y <= 1900:
+            self.error(F(path, f"Year {y} is before 1900"))
+        if not 1 <= m <= 12:
+            self.error(F(path, f"Month {m} is not between 1 and 12"))
+        if not 1 <= d <= 31:
+            self.error(F(path, f"Day of month {d} is not between 1 and 31"))
+
+        try:
+            datetime.date(y, m, d)
+        except ValueError:
+            self.error(F(path, f"Date {fc['year']}-{fc['month']}-{fc['day']} is invalid."))
+
+        orgs = fc['orgs'].split('_')
+        if not orgs:
+            self.error(F(path, f"Filename must contain organization or organizations"))
+
+        dir = str(path.parent.name)
+        if dir not in orgs:
+            self.error(F(path, f"File is marked with orgs `{','.join(orgs)}` but is not located in any of their directories"))
+
+    def check_frontmatter(self, path, text):
+        try:
+            matter = extract_front_matter(text)
+        except ValueError:
+            self.error(F(path, "Could not find proper front matter block surrounded by `+++`"))
+
+        if not matter:
+            self.error(F(path, "Front matter block is empty"))
+            return
+
+        try:
+            fmc = tomllib.loads(matter)
+        except tomllib.TOMLDecodeError as err:
+            self.error(F(path, f"Invalid TOML in front matter: {err}"))
+            return
+
+        title = fmc.get('title')
+        if not title:
+            self.error(F(path, "Missing title in frontmatter"))
+
+        template = fmc.get('template')
+        if template != 'event_page.html':
+            self.error(F(path, "Event page must use the `event_page.html` template"))
+
+        taxonomies = fmc.get('taxonomies')
+        if not taxonomies:
+            self.warning(F(path, "Event page should have taxonomies. Recommended taxonomies are `chrono` and `venue`"))
+        else:
+            self.check_taxonomies(path, taxonomies)
+
+        extra = fmc.get('extra')
+        if not extra:
+            return
+
+        gallery = extra.get('gallery')
+        if gallery:
+            self.check_gallery(path, gallery)
+
+    def check_taxonomies(self, path, doc_taxonomies):
+        keys = set(doc_taxonomies.keys())
+        unknown = keys - set(self.taxonomies.keys())
+        if unknown:
+            self.error(F(path, f"Unknown taxonomies `{unknown}`"))
+
+        chrono = doc_taxonomies.get('chronology')
+        if chrono:
+            unknown = set(chrono) - self.chronologies
+            if unknown:
+                self.error(F(path, f"Unknown chronology keys `{unknown}`"))
+
+        venues = doc_taxonomies.get('venue')
+        if venues:
+            if len(venues) > 1:
+                self.warning(F(path, f"Venues taxonomy should only have one entry, but has {len(venues)}"))
+            unknown = set(venues) - self.venues
+            if unknown:
+                self.warning(F(path, f"Unknown venue keys `{unknown}`"))
+
+    def check_gallery(self, path, gallery):
+        for key, val in gallery:
+            pp, caption, source = val.get('path'), val.get('caption'), val.get('source')
+            if not pp:
+                self.error(F(path, f"Gallery item {key} is missing path"))
+            else:
+                self.verify_gallery_path_exists(path, pp)
+            if not caption:
+                self.error(F(path, f"Gallery item {key} is missing caption"))
+            if not source:
+                self.error(F(path, f"Gallery item {key} is missing source annotation"))
+
+    def verify_gallery_path_exists(self, path, image_path):
+        # TODO
+        pass
+
+    def check_card(self, path, text):
+        if '{{ skip_card() }}' in text:
+            self.warning(F(path, "Card marked as skipped"))
+            return
+
+        try:
+            page = Page(path, verbose=False)
+        except yaml.scanner.ScannerError as e:
+            # TODO: These errors show very wrong line numbers
+            self.error(F(path, f"Error while parsing card: {str(e).replace('\n', ' ')}"))
+            return
+        except ValueError:
+            self.error(F(path, f"Malformed card, did not parse valid matches"))
+            return
+
+        card = page.card
+
+        if not card.matches:
+            self.error(F(path, "Card missing or no matches listed"))
+            return
+
+        if not card.crew:
+            self.warning(F(path, "Credits section missing in card"))
+
+
+    def load_taxonomies(self):
+        with Path('config.toml').open('rb') as fp:
+            config = tomllib.load(fp)
+            taxonomies = {o['name']: o for o in config['taxonomies']}
+            self.taxonomies = taxonomies
+
+            custom_chrono = config['extra']['chronology'].keys()
+            path_chronos = [p.stem for p in Path('content/o').glob('*.md') if p.stem != '_index']
+            self.chronologies = set([*custom_chrono, *path_chronos])
+
+        self.venues = set([p.stem for p in Path('content/v').glob('*.md') if p.stem != '_index'])

@@ -8,7 +8,7 @@ class LintError:
     def supports_auto(self):
         return False
 
-    def message(self, file_root: Path):
+    def message(self, file_root: Path) -> str:
         return "LintError(???)"
 
     def calculate_fix(self, body_text):

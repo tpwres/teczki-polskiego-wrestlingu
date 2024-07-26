@@ -9,6 +9,17 @@ from linters.unlinked_participant import UnlinkedParticipantLinter
 from linters.missing_card import MissingCardLinter
 from linters.unlinked_name import UnlinkedNameLinter
 from linters.unlinked_event import UnlinkedEventLinter
+from linters.well_formed_event import WellFormedEventLinter
+
+known_linters = {
+    'WellFormedEvent': WellFormedEventLinter,
+    'UnlinkedParticipant': UnlinkedParticipantLinter,
+    'MissingCard': MissingCardLinter, # To be replaced by WFE
+}
+
+def lookup_linter(name) -> object:
+    if name in known_linters:
+        return known_linters[name]()
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -25,10 +36,13 @@ def lint_main(args):
     else:
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
-    linters_to_run = [
-        MissingCardLinter(),
-        UnlinkedParticipantLinter(),
-    ]
+    if args.linters:
+        linters_to_run = filter(None, (lookup_linter(name) for name in args.linters))
+    else:
+        linters_to_run = [
+            lookup_linter('MissingCard'),
+            lookup_linter('UnlinkedParticipant')
+        ]
 
     for path in files_to_lint:
         doc = FileBackedDoc(path)
@@ -102,6 +116,7 @@ def build_argparser():
     parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
     parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
     parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
+    parser.add_argument('-L', metavar='LINTER', action='extend', dest='linters', nargs='+', help='Use the specified linters')
     return parser
 
 if __name__ == "__main__":
