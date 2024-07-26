@@ -170,8 +170,13 @@ def parse_group(text) -> list[Participant]:
 
 class Match:
     tag_team_re = re.compile(r'''
-        ^(?:(?P<team>[\w\s]+):)? # An optional team name followed by a colon
-         \s* # Optional space
+        ^
+         (?:
+           (?P<team>[\w\s]+) # Team name followed by a colon
+           (?:\s*\(c\))? # Optional champion marker
+           : # Followed by a colon
+         )? # All optional
+         \s* # Eat whitespace
          (?P<people>.+) # Followed by list of participants
          \s* # Eat trailing space
         ''', re.VERBOSE)
