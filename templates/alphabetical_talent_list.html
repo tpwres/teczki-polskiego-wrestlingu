@@ -28,22 +28,22 @@
   {% endif %}
   {% if talent_page %}
     {# This name has an actual talent page, record this as a P(age) record #}
-    {% set pair = [name|slugify, name, 'P', talent_page] %}
+    {% set pair = [name|trim_start_matches(pat='The ')|slugify, name, 'P', talent_page] %}
     {% set_global all_names = all_names | concat(with=[pair]) %}
     {# Title may be different from career dict entry #}
     {% if talent_page.title != name %}
-      {% set pair = [talent_page.title|slugify, talent_page.title, 'T', talent_page, name] %}
+      {% set pair = [talent_page.title|trim_start_matches(pat='The ')|slugify, talent_page.title, 'T', talent_page, name] %}
       {% set_global all_names = all_names | concat(with=[pair]) %}
     {% endif %}
     {% set xtra = talent_page.extra %}
     {# And it may have some aliases. Record this as an A(lias) record, pointing to the main name #}
     {% for alias in xtra|get(key='career_aliases', default=[]) %}
-      {% set alias_pair = [alias|slugify, alias, 'A', talent_page] %}
+      {% set alias_pair = [alias|trim_start_matches(pat='The ')|slugify, alias, 'A', talent_page] %}
       {% set_global all_names = all_names | concat(with=[alias_pair]) %}
     {% endfor %}
   {% else %}
     {# Otherwise, no talent page, record this as an U record #}
-    {% set pair = [name|slugify, name, 'U', false] %}
+    {% set pair = [name|trim_start_matches(pat='The ')|slugify, name, 'U', false] %}
     {% set_global all_names = all_names | concat(with=[pair]) %}
   {% endif %}
 {% endfor %}
@@ -56,7 +56,7 @@
 {% for letter in alphabet %}
   {% set_global talents = [] %}
   {% for name_pair in all_names %}
-    {% set talent_name = name_pair[1]|replace(from='"', to='') %}
+    {% set talent_name = name_pair[1]|replace(from='"', to='')|trim_start_matches(pat='The ') %}
     {% if talent_name is starting_with(letter) %}
       {% set_global talents = talents|concat(with=[name_pair]) %}
     {% endif %}
