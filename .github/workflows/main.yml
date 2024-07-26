@@ -4,20 +4,26 @@ name: Lint and verify metadata
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: { issues: write, pull-requests: write }
     steps:
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - name: Install zola
+        uses: taiki-e/install-action@v2
         with:
-          python-version: '3.11'
-      - run: pip install pyyaml
-      - name: checkout
-        uses: actions/checkout@v4
-      - name: build intermediate data
+          tool: zola
+      - uses: actions/setup-python@v5
+        name: Install Python
+        with:
+          python-version: '3.12.4'
+          cache: pip
+      - name: Install required Python packages
+        run: pip install -r requirements.txt
+      - name: Build metadata
         run: |
-          echo "::group::Building intermediate data"
-          mkdir -p data
-          bin/build_metadata.py
-          bin/build_roster.py
-          bin/build_matches.py
-      - name: Lint content
+          make all plot
+      - name: Run lint and create comment
         run: |
           bin/lint.py
+      - name: Build site
+        run: |
+          zola build
