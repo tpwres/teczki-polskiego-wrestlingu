@@ -7,6 +7,10 @@ jobs:
     permissions: { issues: write, pull-requests: write }
     steps:
       - uses: actions/checkout@v4
+      - name: Install zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola
       - uses: actions/setup-python@v5
         name: Install Python
         with:
@@ -14,69 +18,12 @@ jobs:
           cache: pip
       - name: Install required Python packages
         run: pip install -r requirements.txt
-      - run: mkdir -p data
-      - uses: actions/github-script@v7
-        name: Run make
-        with:
-          script: |
-            let stderr_text = '';
-            let stdout_text = '';
-            const opts = { ignoreReturnCode: true };
-            opts.listeners = {
-              stderr: (data) => { stderr_text += data.toString(); },
-              stdout: (data) => { stdout_text += data.toString(); }
-            };
-            let exitcode = await exec.exec('make', ['all', 'plot'], opts);
-            if (exitcode != 0) {
-              core.setOutput('makeError', stderr_text);
-              core.setOutput('makeOutput', stdout_text);
-            }
-      - id: get_pr_data
-        uses: actions/github-script@v7
-        with:
-          script: |
-            return (
-              await github.rest.repos.listPullRequestsAssociatedWithCommit({
-                commit_sha: context.sha,
-                owner: context.repo.owner,
-                repo: context.repo.repo
-              })
-            ).data[0];
-      - uses: actions/github-script@v7
-        name: Run lint and create comment
-        with:
-          script: |
-            let stderr_text = '';
-            let stdout_text = '';
-            const opts = {
-              ignoreReturnCode: true,
-              listeners: {
-                errline: (data) => { stderr_text += data; },
-                stdline: (data) => { stdout_text += data; }
-              }
-            };
-            let exitcode = await exec.exec('python', ['bin/lint.py'], opts);
-            if (exitcode != 0) {
-              const lintText = `# Lint issues found: \
-                ${stderr_text}
-                ${stdout_text}
-              `;
-              github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: ${{ fromJson(steps.get_pr_data.outputs.result).number }},
-                body: lintText
-              });
-              core.setFailed('Lint issues found');
-            } else {
-              core.info('No lint issues found');
-            }
-
-      # - name: build intermediate data
-      #   run: |
-      #     echo "::group::Building intermediate data"
-      #     mkdir -p data
-      #     make
-      # - name: Lint content
-      #   run: |
-      #     bin/lint.py
+      - name: Build metadata
+        run: |
+          make all plot
+      - name: Run lint and create comment
+        run: |
+          bin/lint.py
+      - name: Build site
+        run: |
+          zola build
