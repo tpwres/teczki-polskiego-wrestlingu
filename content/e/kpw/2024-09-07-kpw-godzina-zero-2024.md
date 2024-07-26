@@ -37,7 +37,7 @@ According to KPW's event page, there will be a significant number of foreign tal
 - - ???
   - ???
   - ???
-  - Eryk Lesak
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - ???
   - ???
   - ???
