@@ -7,7 +7,7 @@ authors = ["M3n747"]
 1 = { path = "kpw-tag-team-belt.jpg", caption = '[Michał Fux](@/w/michal-fux.md) wearing his tag team belt at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md).', source = "MFotografika" }
 +++
 
-The KPW Tag Team Championship is the title belt of the Tag Team division of [Kombat Pro Wrestling](@/o/kpw.md), introduced in 2018.
+The KPW Tag Team Championship is the Tag Team division championship of [Kombat Pro Wrestling](@/o/kpw.md), introduced in 2018.
 
 <!-- more -->
 
@@ -40,8 +40,9 @@ The KPW Tag Team Championship is the title belt of the Tag Team division of [Kom
   - s: Tag Team Match
     en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
-**TOTAL:** 455 days.
 {% end %}
+
+**TOTAL:** 455 days.
 
 ## Champions #2: The Hunt: Primate & Wild Boar
 
@@ -51,20 +52,20 @@ The KPW Tag Team Championship is the title belt of the Tag Team division of [Kom
   - s: Tag Team Match
     en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
-- - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md):
+- - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md)"
   - "Primate, Tommy Freeman"
   - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
-  - "Primate, Tommy Freeman"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
-  - s: Four-Way Elimination Match 
+  - s: Four-Way Elimination Match
     en: '[Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
+{% end %}
+
 **TOTAL:** 455 days.
 
 Over 500 days of The Hunt's title run fell on the COVID-19 pandemic.
 
 Wild Boar was injured a couple of days before the event and was replaced by Tommy Freeman. The Tag Team belts were therefore vacated during the show.
-{% end %}
 
 ## Champions #3: Die Ordnung: Hans Schulte & Veit Müller
 
@@ -73,39 +74,40 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - "Primate, Tommy Freeman"
   - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
-  - s: Four-Way Elimination Match 
+  - s: Four-Way Elimination Match
     en: '[Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
 - - "Die Ordnung: Hans Schulte, Veit Müller (c)"
   - "The Fux Brothers: Filip Fux, Michał Fux"
-  - s: Tag Team Match 
-    en: '[KPW Arena 20: Świąteczna Awantura](@/e/2022-12-16-kpw-arena-20.md)'
+  - s: Tag Team Match
+    en: '[KPW Arena 20: Świąteczna Awantura](@/e/kpw/2022-12-16-kpw-arena-20.md)'
     ed: 2022-12-16
 - - "Die Ordnung: Hans Schulte, Veit Müller (c)"
   - "[Leon Lato](@/w/leon-lato.md), [Zefir](@/w/zefir.md)"
-  - s: Tag Team Match 
-    en: '[KPW Arena 21: Stara Szkoła](@/e/2023-02-24-kpw-arena-21.md)'
+  - s: Tag Team Match
+    en: '[KPW Arena 21: Stara Szkoła](@/e/kpw/2023-02-24-kpw-arena-21.md)'
     ed: 2023-02-24
 - - "The Fux Brothers: Filip Fux, Michał Fux"
   - "Die Ordnung: Hans Schulte, Veit Müller (c)"
-  - s: Tag Team Match 
-    en: '[KPW Godzina Zero 2023](@/e/2023-08-18-kpw-godzina-zero-2023.md)'
+  - s: Tag Team Match
+    en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
-**TOTAL:** 335 days.
 {% end %}
+
+**TOTAL:** 335 days.
 
 ## Champions #4: The Fux Brothers: Filip Fux & Michał Fux
 
 {% free_card() %}
 - - "The Fux Brothers: Filip Fux, Michał Fux"
   - "Die Ordnung: Hans Schulte, Veit Müller (c)"
-  - s: Tag Team Match 
-    en: '[KPW Godzina Zero 2023](@/e/2023-08-18-kpw-godzina-zero-2023.md)'
+  - s: Tag Team Match
+    en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
 - - "The Fux Brothers: Filip Fux, Michał Fux (c)"
   - "Chemik, Eryk Lesak"
-  - s: Tag Team Match 
-    en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
+  - s: Tag Team Match
+    en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
     ed: 2024-02-16
 {% end %}
 
