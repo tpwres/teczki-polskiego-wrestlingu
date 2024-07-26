@@ -184,7 +184,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
     ed: 2023-11-24
 {% end %}
 
-Red Scorpion is the first KPW Champion to defend the title outside of Poland, in [October 2023](https://www.cagematch.net/?id=1&nr=377603) against James Mason, and in [March 2024](https://www.cagematch.net/?id=1&nr=391319) against Liam Slater.
+Red Scorpion also defended the title outside of Poland: in [October 2023](https://www.cagematch.net/?id=1&nr=377603) against James Mason, and in [March 2024](https://www.cagematch.net/?id=1&nr=391319) against Liam Slater.
 Both defenses took place during events held by Bologna Wrestling Team.
 
 
