@@ -75,6 +75,7 @@
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
+          {% set_global display_match_links = false %}
           <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
@@ -85,6 +86,7 @@
           {% set_global appearances_entry = appearances|get(key=career_name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=career_name, default=[]) %}
           {% set_global career_entry = career_dict|get(key=career_name, default=empty_obj) %}
+          {% set_global display_match_links = false %}
           <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
@@ -96,6 +98,7 @@
           {# TODO: Do not use career, just appearances #}
           {% set_global career_entry = career_dict|get(key=career_key, default=empty_obj) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
+          {% set_global display_match_links = false %}
         <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
@@ -105,6 +108,7 @@
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
+          {% set_global display_match_links = true %}
           <li class="pwf">
             {% include "unlinked_person.html" %}
             {% include "person_orgs_matches.html" %}

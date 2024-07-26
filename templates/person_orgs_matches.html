@@ -41,7 +41,7 @@
     {% endfor %}
     {% if not valid_org %}{% continue %}{% endif %}
     {{ macros::promolink_color_span(code=o, styles=org_styles) }}
-    {% if all_appearances|length < 5 %}
+    {% if display_match_links and all_appearances|length < 5 %}
       {% for match in all_appearances|sort(attribute='d') %}
         {% if not match.o is containing(o) %} {% continue %} {% endif %}
         {% if used_events is containing(match.p) %} {% continue %} {% endif %}
