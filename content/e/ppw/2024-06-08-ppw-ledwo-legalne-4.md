@@ -74,18 +74,18 @@ Shortly before the show, they were trading insults and challeneges online with L
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
-  - c: PPW Championship
+  - c: PpW Championship
     n: 'Immediately after the match, Mr Z granted #1 Contender [Gustav Gryffin](@/w/gustav-gryffin.md)
       his championship opportunity.'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - c: PPW Championship
+  - c: PpW Championship
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
-  - c: PPW European Ultraviolent Championship
-    s: Born To Be Wired Elimination Match
+  - c: PpW European Ultraviolent Championship
+    s: Born To Be Wired Four Way Elimination Match
     n: Originally a 1-1 match, the other two opponents added themselves.
 - credits:
     Referees: Sędzia Karol Górski, Sędzia Kornel
