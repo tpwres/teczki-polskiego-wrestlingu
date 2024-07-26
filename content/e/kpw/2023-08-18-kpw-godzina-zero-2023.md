@@ -28,7 +28,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 - ['[Chemik](@/w/chemik.md)', '[Leon Lato](@/w/leon-lato.md)', {s: Chairs Match}]
 - ['[Rosetti](@/w/rosetti.md)(c)', Ludy Lohan, {c: KPW Oldtown Championship}]
 - - "The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)"
-  - "Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md) (c)"
+  - "Die Ordnung (c): [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
   - s: KPW Tag Team Championship
 - [Iestyn Rees, '[David Oliwa](@/w/david-oliwa.md)']
 - - '[Leon Lato](@/w/leon-lato.md)'
