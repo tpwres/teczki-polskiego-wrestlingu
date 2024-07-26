@@ -45,17 +45,15 @@ The Polish IWC reported one incident when fans wearing T-shirts of another Polis
 
 ### Championships
 
-_See also: [KPW Championship](@/a/kpw-championship.md)._
-
 As of 2024, KPW has one tag team championship and two singles championships. The main title, KPW Championship, was created in 2016 and won at the first Godzina Zero event. KPW OldTown Championship was created and won at [OldTown Festival 2017](@/e/kpw/2017-07-23-kpw-oldtown-2.md), which was a post-apocalyptic themed LARP event to which KPW was invited to perform. This belt had an unique look befitting its origin, until [2023](@/e/kpw/2023-11-24-kpw-arena-23.md) when it was replaced with a more conventional style belt.
 
 The Tag Team Championship was created in 2018 and the first champions crowned in 2018, at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md).
 
 | Championship | Current champion(s) | Notes |
 |---|---|---|
-| KPW Championship | Red Scorpion | Defeated [Greg](@/w/greg.md) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
-| KPW OldTown Championship | [Chemik](@/w/chemik.md) | Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md) |
-| KPW Tag Team Championship | The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) | Defeated Die Ordnung (Veit Müller, Hans Schulte) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
+| [KPW Championship](@/a/kpw-championship.md) | Red Scorpion | Defeated [Greg](@/w/greg.md) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
+| [KPW OldTown Championship](@/a/kpw-old-town-championship.md) | [Chemik](@/w/chemik.md) | Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md) |
+| [KPW Tag Team Championship](@/a/kpw-tag-team-championship.md) | The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) | Defeated Die Ordnung (Veit Müller, Hans Schulte) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
 
 ### References
 

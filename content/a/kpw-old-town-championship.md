@@ -5,16 +5,16 @@ weight = 0
 authors = ["M3n747"]
 [extra.gallery]
 1 = { path = "kpw-old-town-belt-original.jpg", caption = '[David Oliwa](@/w/david-oliwa.md) with the original Old Town belt at [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).', source = "M3n747" }
-2 = { path = "kpw-old-town-belt-redesign.jpg", caption = '[Rosetti](@/w/Rosetti.md) with the redesigned Old Town belt at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).', source = "MFotografika" }
+2 = { path = "kpw-old-town-belt-redesign.jpg", caption = '[Rosetti](@/w/rosetti.md) with the redesigned Old Town belt at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).', source = "MFotografika" }
 +++
 
-The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling](@/o/kpw.md). It was in 2017 in cooperation with the post-apo OldTown Festival.
+The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling](@/o/kpw.md). It was created and first awarded in 2017 in cooperation with the now defunct post-apocalyptic themed LARP event named OldTown.
 
 <!-- more -->
 
 ## Statistics
 
-* First champion: [Greg](@/w/Greg.md)
+* First champion: [Greg](@/w/greg.md)
 * Most reigns: N/A
 * Longest reign: [David Oliwa](@/w/david-oliwa.md) (1190 days)
 
@@ -34,79 +34,81 @@ The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling
 - - 'Greg (c)'
   - '[Kaszub](@/w/kaszub.md)'
   - s: Singles match
-    en: '[KPW Arena 9: Na Krawędzi](@/e/2018-03-10-kpw-arena-9-na-krawedzi.md)'
+    en: '[KPW Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md)'
     ed: 2018-03-10
 - - 'Greg (c)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - s: Hardcore Match
-    en: '[KPW Arena 9: Na Krawędzi](@/e/2018-03-10-kpw-arena-9-na-krawedzi.md)'
+    en: '[KPW Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md)'
     ed: 2018-03-10
 - - 'Greg (c)'
   - 'Lee Rogers'
   - s: Singles match
-    en: '[KPW OldTown 3](@/e/2018-07-14-kpw-oldtown-3.md)'
+    en: '[KPW OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md)'
     ed: 2018-07-14
 - - 'Greg (c)'
   - 'Tristan Archer'
   - s: Singles match
-    en: '[KPW Godzina Zero 2018](@/e/2018-08-11-kpw-godzina-zero-2018.md)'
+    en: '[KPW Godzina Zero 2018](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md)'
     ed: 2018-08-11
 - - 'David Oliwa'
   - 'Greg (c)'
-  - s: I Quit Match
-    en: '[KPW Arena 14: Następny Poziom](@/e/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
+  - s: '"I Quit" Match'
+    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
     ed: 2019-06-15
-**TOTAL:** 692 days.
 {% end %}
+
+**TOTAL:** 692 days.
 
 ## Champion #2: David Oliwa
 
 {% free_card() %}
 - - 'David Oliwa'
   - 'Greg (c)'
-  - s: I Quit Match
-    en: '[KPW Arena 14: Następny Poziom](@/e/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
+  - s: '"I Quit" Match'
+    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
     ed: 2019-06-15
 - - 'David Oliwa (c)'
   - 'Greg'
   - s: Singles match
-    en: '[KPW OldTown 4](@/e/2019-07-13-kpw-oldtown-4.md)'
+    en: '[KPW OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md)'
     ed: 2019-07-13
 - - 'David Oliwa (c)'
   - '[Moloch](@/w/moloch.md)'
   - s: Singles match
-    en: '[KPW Godzina Zero 2019](@/e/2019-08-17-kpw-godzina-zero-2019.md)'
+    en: '[KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
 - - 'David Oliwa (c)'
   - '[Boski 2.0](@/w/ostrowski.md)'
   - Greg
   - s: Three Way Match
-    en: '[KPW Arena 15: Świeża Krew](@/e/2019-11-16-kpw-arena-15-swieza-krew.md)'
+    en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15-swieza-krew.md)'
     ed: 2019-11-16
 - - 'David Oliwa (c)'
   - 'Martn Pain'
   - s: Singles match
-    en: '[KPW Arena 16: Polowanie](@/e/2020-02-01-kpw-arena-16-polowanie.md)'
+    en: '[KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md)'
     ed: 2020-02-01
 - - 'David Oliwa (c)'
   - 'Michael Kovac'
   - s: Singles match
-    en: '[KPW Arena 17: Odrodzenie](@/e/2021-08-21-kpw-arena-17-odrodzenie.md)'
+    en: '[KPW Arena 17: Odrodzenie](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md)'
     ed: 2021-08-21
 - - 'David Oliwa (c)'
   - 'Gianni Valletta'
   - s: Singles match
-    en: '[KPW Arena 18: Powrót do Przyszłości](@/e/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)'
+    en: '[KPW Arena 18: Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)'
     ed: 2022-03-18
 - - 'Rosetti'
   - 'David Oliwa (c)'
   - s: Singles match
-    en: '[KPW Godzina Zero 2022](@/e/2022-09-17-kpw-godzina-zero-2022.md)'
+    en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
+{% end %}
+
 **TOTAL:** 1190 days.
 
 Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
-{% end %}
 
 ## Champion #3: Rosetti
 
@@ -114,12 +116,12 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
 - - 'Rosetti'
   - 'David Oliwa (c)'
   - s: Singles match
-    en: '[KPW Godzina Zero 2022](@/e/2022-09-17-kpw-godzina-zero-2022.md)'
+    en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
 - - '[Darius](@/w/darius.md)'
   - 'Rosetti (c)'
   - s: Singles match
-    en: '[KPW Arena 20: Świąteczna Awantura](@/e/2022-12-16-kpw-arena-20.md)'
+    en: '[KPW Arena 20: Świąteczna Awantura](@/e/kpw/2022-12-16-kpw-arena-20.md)'
     ed: 2022-12-16
 - - 'Rosetti (c)'
   - 'Zak Knight'
@@ -143,10 +145,11 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
   - s: Four Way Match
     en: '[KPW Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md)'
     ed: 2024-05-17
+{% end %}
+
 **TOTAL:** 608 days.
 
 At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
-{% end %}
 
 ## Champion #4: Chemik
 
