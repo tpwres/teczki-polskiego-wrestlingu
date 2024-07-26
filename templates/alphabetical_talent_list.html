@@ -49,17 +49,21 @@
 {% endfor %}
 
 {% set all_names = all_names | sort(attribute='0') %}
-{% set alphabet = 'ABCDEFGHIJKLŁMNOPQRSŚTUVWXYZ' %}
+{% set alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
+{% set alpha_variants = load_data(literal="{S: [S, Ś], L: [L, Ł], Z: [Z, Ź, Ż]}", format='yaml') %}
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
 {% set empty_obj = []|group_by(key=0) %}
 
 {% for letter in alphabet %}
   {% set_global talents = [] %}
-  {% for name_pair in all_names %}
-    {% set talent_name = name_pair[1]|replace(from='"', to='')|trim_start_matches(pat='The ') %}
-    {% if talent_name is starting_with(letter) %}
-      {% set_global talents = talents|concat(with=[name_pair]) %}
-    {% endif %}
+  {% set al = alpha_variants|get(key=letter, default=[letter]) %}
+  {% for av in al %}
+    {% for name_pair in all_names %}
+      {% set talent_name = name_pair[1]|replace(from='"', to='')|trim_start_matches(pat='The ') %}
+      {% if talent_name is starting_with(av) %}
+        {% set_global talents = talents|concat(with=[name_pair]) %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 
   {% if talents|length > 0 %}
