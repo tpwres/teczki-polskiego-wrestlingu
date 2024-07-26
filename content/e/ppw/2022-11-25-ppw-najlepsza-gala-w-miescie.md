@@ -10,7 +10,7 @@ city = "Warszawa"
 1 = { path = "2022-11-25-ppw-najlepsza-gala-w-miescie-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
 +++
 
-The event name, which translates to "Best Show In Town", is a reference to the fact that PTW also held their event [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in Warsaw, the very next day.
+The event name, which translates to "The Best Show in Town", is a reference to the fact that PTW also held their event [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in Warsaw, the very next day.
 
 {% card() %}
 - ["[Isnorr](@/w/isnorr.md)", "[Bill Feager](@/w/feager.md); Ms. XXX"]
