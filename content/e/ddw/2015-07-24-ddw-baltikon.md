@@ -70,6 +70,6 @@ Match card unofficial, based on available photos.
 ### References
 
 * [Baltikon 2015 at Konwenty Południowe](https://konwenty-poludniowe.pl/konwenty/kalendarz/205-baltikon-2015)
-* [Facebook event page for Baltikon](https://www.facebook.com/events/857141374353362). The "Guests" section lists various artists, writers, cosplayers, and Do or Die Wrestling among them.
+* [Facebook event page for Baltikon](https://www.facebook.com/events/857141374353362). The "Guests" section lists various artists, writers, cosplayers, and Do Or Die Wrestling among them.
 * [Facebook photo album from the event](https://www.facebook.com/Baltikon/posts/pfbid02XnBeM3ALvf1brgkJLWwWs4DUjXq7A2CLG23AyQyRHNtHcoMgPiU2zHPLwu3nFJml)
 * [WrestleFans post by Lygrys from January 2016](https://wrestlefans.pl/forum/viewtopic.php?p=418906&sid=dbea7aa5e876e712bf24681029b6c4fd#p418906), mentioning the event in a list of dates, including other DDW and KPW shows from 2015.
