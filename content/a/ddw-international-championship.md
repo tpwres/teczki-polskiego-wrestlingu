@@ -7,7 +7,7 @@ authors = ["M3n747"]
 1 = { path = "ddw-international-championship.jpg", caption = 'Promo shot of [Kamil Aleksander](@/w/kamil-aleksander.md) wearing the DDW International belt.', source = "Official DDW Facebook" }
 +++
 
-The DDW International Championship was the the only belt of [Do Or Die Wrestling](@/o/ddw.md). It was introduced in 2010 and has the distinction of being the first Polish pro wrestling title.
+DDW International Championship was the the only belt of [Do Or Die Wrestling](@/o/ddw.md). It was introduced in 2010 and has the distinction of being the first Polish pro wrestling title.
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ The DDW International Championship was the the only belt of [Do Or Die Wrestling
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Klarys](@/w/klarys.md)'
-  - '[Rider](@/asmund.md)'
+  - '[Rider](@/w/asmund.md)'
   - s: Ten Man Gauntlet Match
     en: '[DDW All or Nothing](@/e/ddw/2010-05-08-ddw-all-or-nothing.md)'
     ed: 2010-05-08
@@ -62,18 +62,18 @@ Following DDW #7 the title was vacated and the promotion had no champion for 890
 - - 'Kamil Aleksander (c)'
   - 'Don Roid'
   - s: Singles match
-    en: '[DDW Wrestling Art](@/e/2015-01-11-ddw-wrestling-art.md)'
+    en: '[DDW Wrestling Art](@/e/ddw/2015-01-11-ddw-wrestling-art.md)'
     nc: Time limit draw
     ed: 2015-01-11
 - - 'Kamil Aleksander (c)'
   - 'Don Roid'
   - s: Singles match
-    en: '[DDW Wrestling Art](@/e/2015-01-11-ddw-wrestling-art.md)'
+    en: '[DDW Wrestling Art](@/e/ddw/2015-01-11-ddw-wrestling-art.md)'
     ed: 2015-01-11
 - - 'Kamil Aleksander (c)'
   - '[Luxus](@/w/luxus.md)'
   - s: Singles match
-    en: '[DDW @ Baltikon 2015](@/e/2015-07-24-ddw-baltikon.md)'
+    en: '[DDW @ Baltikon 2015](@/e/ddw/2015-07-24-ddw-baltikon.md)'
     ed: 2015-07-24
 {% end %}
 
