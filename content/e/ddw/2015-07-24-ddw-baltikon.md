@@ -47,7 +47,7 @@ hide_results = true
 +++
 
 This event was the final show held by [Do Or Die Wrestling](@/o/ddw.md).
-It took place on Friday, July 27th, and was a part of Baltikon, a primarily anime and cosplay-focused fan convention, held since 2010 in Gdańsk.
+It took place on Friday, July 24th, and was a part of Baltikon, a primarily anime and cosplay-focused fan convention, held since 2010 in Gdańsk.
 The 2015 edition was held in Sopot, in Zespół Szkół nr 1 which is a complex of schools at primary and secondary levels.
 It was also the final edition of the convention.
 
