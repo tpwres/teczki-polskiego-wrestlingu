@@ -2,6 +2,9 @@
 title = "PTW Championship"
 weight = 5
 template = "article.html"
+authors = ["Seweryn Pielucha"]
+[extra]
+toclevel=2
 +++
 
 The PTW Championship is a professional wrestling championship created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their top championship.
