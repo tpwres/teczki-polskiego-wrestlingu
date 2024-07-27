@@ -2,6 +2,9 @@
 title = "PTW Tag Team Championship"
 weight = 5
 template = "article.html"
+authors = ["Seweryn Pielucha"]
+[extra]
+toclevel=2
 [extra.gallery.1]
 path = "paka-tag-team-champions.webp"
 caption = "PAKA ([Taras](@/w/taras.md), [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)) holding the first version of the belts."
