@@ -1,5 +1,5 @@
 +++
-title = "PpW 2KOŁA to my nie zarobimy"
+title = "PpW 2KOŁA To My Nie Zarobimy"
 template = "event_page.html"
 aliases = [ "/e/ppw/2019-12-07-ppw-untitled" ]
 [taxonomies]
