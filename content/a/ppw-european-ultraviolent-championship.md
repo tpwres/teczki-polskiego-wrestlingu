@@ -3,6 +3,8 @@ title = "PpW European Ultraviolent Championship"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[extra]
+toclevel=2
 [extra.gallery]
 1 = { path = "ppw-european-ultraviolent-championship.jpg", caption = '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) posing with the PpW European Ultraviolent Championship.', source = "Official PpW website / Facebook" }
 +++
