@@ -3,6 +3,8 @@ title = "KPW OldTown Championship"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[extra]
+toclevel=2
 [extra.gallery]
 1 = { path = "kpw-old-town-belt-original.jpg", caption = '[David Oliwa](@/w/david-oliwa.md) with the original Old Town belt at [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).', source = "M3n747" }
 2 = { path = "kpw-old-town-belt-redesign.jpg", caption = '[Rosetti](@/w/rosetti.md) with the redesigned Old Town belt at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).', source = "MFotografika" }
