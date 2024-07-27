@@ -3,6 +3,8 @@ title = "PpW Championship"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[extra]
+toclevel=2
 [extra.gallery]
 1 = { path = "ppw-championship.jpg", caption = '[Biesiad Strong](@/w/biesiad-strong.md) with the PpW Championship.', source = "Official PpW website / Facebook" }
 2 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = '"The PpW Champion, Steve Kuningas, with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA."', source = "Official PpW website / Facebook" }
