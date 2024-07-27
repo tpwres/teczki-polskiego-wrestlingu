@@ -3,6 +3,8 @@ title = "KPW Tag Team Championship"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[extra]
+toclevel=2
 [extra.gallery]
 1 = { path = "kpw-tag-team-belt.jpg", caption = '[Michał Fux](@/w/michal-fux.md) wearing his tag team belt at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md).', source = "MFotografika" }
 +++
