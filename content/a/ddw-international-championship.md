@@ -3,6 +3,8 @@ title = "DDW International Championship"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[extra]
+toclevel=2
 [extra.gallery]
 1 = { path = "ddw-international-championship.jpg", caption = 'Promo shot of [Kamil Aleksander](@/w/kamil-aleksander.md) wearing the DDW International belt.', source = "Official DDW Facebook" }
 +++
