@@ -17,9 +17,9 @@ city = "Warszawa"
 - ["[Bill Feager](@/w/feager.md)", "Alex Berkner", "Goran", {s: "Three Way Match"}]
 - ["Pedrolo", "Joe Bravo"]
 - ["[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)", "Franz Schlederer",
-  {s: "Death Match", c: "[PPW European Ultraviolent Championship](@/o/ppw.md#championships)"}]
+  {s: "Death Match", c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)"}]
 - ["[Steve Kuningas](@/w/steve-kuningas.md)", "[Biesiad Strong](@/w/biesiad.md)(c)",
-  {c: "[PPW Championship](@/o/ppw.md#championships)"}]
+  {c: "[PpW Championship](@/o/ppw.md#championships)"}]
 - credits:
     Host, Ring Announcer: Michael HT
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
