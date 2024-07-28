@@ -87,8 +87,8 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 
 | Championship | Current champion(s) | Notes |
 |--|--|--|
-| PpW Championship | [Gustav Gryffin](@/w/gustav-gryffin.md) | Won an additional title match immediately after [Biesiad](@/w/biesiad.md) defeated champion [Feager](@/w/feager.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). |
-| PpW European Ultraviolent Championship | [Johnny Blade](@/w/johnny-blade.md) | Eliminated champion [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), then defeated [Isnorr](@/w/isnorr.md) to reclaim the belt. |
+| [PpW Championship][ppw-c] | [Gustav Gryffin](@/w/gustav-gryffin.md) | Won an additional title match immediately after [Biesiad](@/w/biesiad.md) defeated champion [Feager](@/w/feager.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). |
+| [PpW European Ultraviolent Championship][ppw-uvc] | [Johnny Blade](@/w/johnny-blade.md) | Eliminated champion [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), then defeated [Isnorr](@/w/isnorr.md) to reclaim the belt. |
 
 ## Internet presence
 
@@ -101,3 +101,6 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 * [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
 * [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
+
+[ppw-c]: @/a/ppw-championship.md
+[ppw-uvc]: @/a/ppw-european-ultraviolent-championship.md
