@@ -56,11 +56,14 @@ MZW has one singles championship, with Shadow having the longest combined reigns
 
 | Championship | Current champion | Notes |
 |---|---|---|
-| MZW Championship | **VACANT** since [Game On](@/e/mzw/2023-03-11-mzw-game-on.md) on 2023-03-11 | Final champion: [Rafael Kid](@/w/rafael-kid.md) defeated [Aron Wake](@/w/aron-wake.md) at [Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) |
-| MZW Tag Team Championship | **INACTIVE** since 2019-03-23 | Final Champions: Apollo Anderson & [Justin Joy](@/w/justin-joy.md)
+| [MZW Championship][mzw-c] | **VACANT** since [Game On](@/e/mzw/2023-03-11-mzw-game-on.md) on 2023-03-11 | Final champion: [Rafael Kid](@/w/rafael-kid.md) defeated [Aron Wake](@/w/aron-wake.md) at [Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) |
+| [MZW Tag Team Championship][mzw-ttc] | **INACTIVE** since 2019-03-23 | Final Champions: Wataha (Apollo Anderson & [Justin Joy](@/w/justin-joy.md)) |
 
 ## References
 
 * [Historia Polskiego Wrestlingu #5](https://mywrestling.com.pl/historia-polskiego-wrestlingu-5-powstanie-maniac-zone-wrestling-afera-z-polish-giantem-przeprowadzka-ddw-do-gdanska/) on mywrestling.com.pl (in Polish)
 * [Historia Polskiego Wrestlingu #6](https://mywrestling.com.pl/historia-polskiego-wrestlingu-6-pierwsza-biletowana-gala-mzw-powstanie-kpw-obecna-sytuacja/) on mywrestling.com.pl (in Polish)
 * [Facebook post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0FM2QRdQsdQr2yXnK4iQgqqye1kRaEZ1iL1Bh89kSdfUtaMfg5kWuTbQTfMXkaTHnl) announcing the finals of Project Basement and several wrestlers' departures
+
+[mzw-c]: @/c/mzw-championship.md
+[mzw-ttc]: @/c/mzw-tag-team-championship.md
