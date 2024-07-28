@@ -102,5 +102,5 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
 * [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
 
-[ppw-c]: @/a/ppw-championship.md
-[ppw-uvc]: @/a/ppw-european-ultraviolent-championship.md
+[ppw-c]: @/c/ppw-championship.md
+[ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md

@@ -23,7 +23,7 @@ hide_results = true
 14 = { path = "baltikon-robert-vs-korpo-7.jpg", caption = "Robert holding Korpo in a fireman's carry", source = "Facebook Baltikon / Tarakum Photo" }
 15 = { path = "baltikon-robert-vs-korpo-8.jpg", caption = "Robert with a splash on Korpo", source = "Facebook Baltikon / Tarakum Photo" }
 16 = { path = "baltikon-luxus.jpg", caption = "[Luxus](@/w/luxus.md)", source = "Facebook Baltikon / Tarakum Photo" }
-17 = { path = "baltikon-kamil-pas-ddw.jpg", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) with the [DDW Championship belt](@/a/ddw-international-championship.md)", source = "Facebook Baltikon / Tarakum Photo" }
+17 = { path = "baltikon-kamil-pas-ddw.jpg", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) with the [DDW Championship belt](@/c/ddw-international-championship.md)", source = "Facebook Baltikon / Tarakum Photo" }
 18 = { path = "baltikon-sedzia-zasada-luxus.jpg", caption = "Referee holding the DDW Championship belt. The referee strongly resembles [Krzysztof Zasada](@/w/krzysztof-zasada.md).", source = "Facebook Baltikon / Tarakum Photo" }
 19 = { path = "baltikon-luxus-kamil.jpg", caption = "Luxus vs Kamil", source = "Facebook Baltikon / Tarakum Photo" }
 20 = { path = "baltikon-luxus-kamil-2.jpg", caption = "Luxus vs Kamil", source = "Facebook Baltikon / Tarakum Photo" }

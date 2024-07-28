@@ -60,6 +60,8 @@ const initSearch = () => {
             result_type = 'Article';
         else if (path.startsWith('/v/') && path.length > 3)
             result_type = 'Venue';
+        else if (path.startsWith('/c/') && path.length > 3)
+            result_type = 'Championship';
         else
             result_type = 'Page';
 
