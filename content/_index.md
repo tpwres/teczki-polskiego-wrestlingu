@@ -22,4 +22,6 @@ The official Polish name for this project is "Teczki Polskiego Wrestlingu", whic
 
 **[Places](@/v/_index.md)** are secondary to Events, listing important venues that hosted them, also with bits of history included.
 
+**[Championships](@/c/_index.md)** lists and tracks Polish wrestling championships.
+
 **[Articles](@/a/_index.md)** contains miscellaneous entries that don't fit into the above categories.
