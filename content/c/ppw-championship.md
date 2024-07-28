@@ -163,7 +163,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 ## Champion #7: Gustav Gryffin
 
 {% free_card() %}
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - 'Biesiad Strong (c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
