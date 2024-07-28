@@ -8,7 +8,7 @@ country = ["PL"]
 1 = { path = "david-arena-24.jpg", caption = "David at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)"}
 +++
 
-David Oliwa is one of the most experienced [Kombat Pro Wrestling](@/o/kpw.md) workers, and one of only three still in active roster who got their start in [Do Or Die Wrestling](@/o/ddw.md). Although Oliwa trained and even appeared as a rookie in two DDW shows, his official in-ring debut didn't happen until after DDW folded and KPW took its place. He also works abroad, mostly for Austria-based European Wrestling Association, where he forms a tag team with Ricky Sky and [Skull Evil](@/w/skull-evil.md).
+David Oliwa is one of the most experienced [Kombat Pro Wrestling](@/o/kpw.md) workers, and one of only three (alongside [Greg](@/w/greg.md) and [Rosetti](@/w/rosetti.md)) still in active roster who got their start in [Do Or Die Wrestling](@/o/ddw.md). Although Oliwa trained and even appeared as a rookie in two DDW shows, his official in-ring debut didn't happen until after DDW folded and KPW took its place. He also works abroad, mostly for Austria-based European Wrestling Association, where he forms a tag team with Ricky Sky and [Skull Evil](@/w/skull-evil.md).
 
 In KPW, Oliwa had been a fan-favourite babyface for many years, known for his leisurely entrances and a penchant for handing out lollipops to (mostly) female fans, and known affectionately as the "guy in undies" (_facet w gaciach_) due to his choice of ring gear. Following his loss to Iestyn Rees at [Godzina Zero 2023](@/w/2023-08-18-kpw-godzina-zero-2023.md), however, he made a slow heel turn over the next few shows.
 
