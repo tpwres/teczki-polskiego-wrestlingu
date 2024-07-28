@@ -31,7 +31,7 @@ PpW announced a pre-show conference to be held on May 31st, 2024, one week befor
 #### Pre-show
 
 The event featured Q&A panels and face-to-face confrontations between competitors for each upcoming match.
-It was moderated by Konrad "Joker" Grześkiewicz and "OG" Michael HT. Joker did commentary and interviews at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#finale), while Michael HT is PpW's ring announcer and mouthpiece.
+It was moderated by Konrad "Joker" Grzesikiewicz and "OG" Michael HT. Joker did commentary and interviews at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#finale), while Michael HT is PpW's ring announcer and mouthpiece.
 Tables were placed on a small stage mimicking a proper press conference setting, but with a unique twist: instead of water, there were PpW-labeled beer bottles on the tables.
 
 * [Mister Z](@/w/mister-z.md) started first, answering some hard questions, including ones about their competition ([PTW](@/o/ptw.md)). [Biesiad](@/w/biesiad.md) joined him to also answer some questions. They tried calling the absent [Feager](@/w/feager.md) on the phone, but he didn't answer. Face to face on stage, they tried to get physical but were quickly separated.
@@ -57,8 +57,8 @@ Shortly before the show, they were trading insults and challeneges online with L
 * On Saturday May 11, 2024, the day when [PTW](@/o/ptw.md) held their [event](@/e/ptw/2024-05-11-ptw-6.md) in Legionowo near Warsaw, PpW's Facebook page posted about booking [Robert Star](@/w/robert-star.md) for the show. Robert was part of PTW's initial roster, as well as [KPW's](@/o/kpw.md) and [DDW's](@/o/ddw.md) before that.
 
 {% card() %}
-- - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+- - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+  - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Open Challenge Tag Team Match
 - - Jakob Sigmarsson
   - Mef the Death
@@ -90,7 +90,7 @@ Shortly before the show, they were trading insults and challeneges online with L
 - credits:
     Referees: Sędzia Karol Górski, Sędzia Kornel
     Host and Ring Announcer: Michael HT
-    Interviewer: Konrad "Joker" Grześkiewicz
+    Interviewer: Konrad "Joker" Grzesikiewicz
 {% end %}
 
 ### References
