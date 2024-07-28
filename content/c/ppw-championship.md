@@ -74,7 +74,7 @@ Following Ledwo Legalne, the Championship was vacated for 182 days.
     en: '[PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md)'
     ed: 2022-09-10
 - - 'Biesiad Strong (c)'
-  - '[Steve Kuningas](@/w/steve-kuningas.md'
+  - '[Steve Kuningas](@/w/steve-kuningas.md)'
   - s: Ladder Match
     en: '[PpW Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md)'
     ed: 2022-11-25
