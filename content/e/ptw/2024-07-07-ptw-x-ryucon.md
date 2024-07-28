@@ -104,4 +104,4 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 * [Ryucon's info page](https://ryucon.pl/ptw-x-ryucon/)
 * [Facebook post recapping the signing ceremony](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02gUSXkoTnSfkkfiZ9WvgUy76aE17vVo6epmiVV3vUUybXM8XH27NJabWkSJbLWoDel)
 
-[wiki-thermopylae](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
+[wiki-thermopylae]: https://en.wikipedia.org/wiki/Battle_of_Thermopylae
