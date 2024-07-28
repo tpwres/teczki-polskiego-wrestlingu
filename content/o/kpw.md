@@ -51,9 +51,9 @@ The Tag Team Championship was created in 2018 and the first champions crowned in
 
 | Championship | Current champion(s) | Notes |
 |---|---|---|
-| [KPW Championship](@/a/kpw-championship.md) | Red Scorpion | Defeated [Greg](@/w/greg.md) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
-| [KPW OldTown Championship](@/a/kpw-old-town-championship.md) | [Chemik](@/w/chemik.md) | Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md) |
-| [KPW Tag Team Championship](@/a/kpw-tag-team-championship.md) | The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) | Defeated Die Ordnung (Veit Müller, Hans Schulte) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
+| [KPW Championship](@/c/kpw-championship.md) | Red Scorpion | Defeated [Greg](@/w/greg.md) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
+| [KPW OldTown Championship](@/c/kpw-old-town-championship.md) | [Chemik](@/w/chemik.md) | Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md) |
+| [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) | The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) | Defeated Die Ordnung (Veit Müller, Hans Schulte) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
 
 ### References
 
