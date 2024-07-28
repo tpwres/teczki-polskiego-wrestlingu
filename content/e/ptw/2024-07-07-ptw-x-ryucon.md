@@ -1,7 +1,7 @@
 +++
 title = "PTW x RyuCon 3"
 template = "event_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Joanna Ropelewska"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["tauron"]
@@ -37,6 +37,34 @@ For this show, a significant portion of the match card was filled by guest wrest
   In the video, Speed was busy training, while Brave came in and interrupted him with trash talk.
   Speed responded with the same and another superkick to Brave, then laid out a challenge for a match at PTW x Ryucon 3. \
   PTW later reposted the video on their Facebook, declaring that possible match is awaiting confirmation from Pan Pawłowski.
+
+#### Contract signing
+
+The day before the show, a contract signing ceremony was held.
+It was located in the same arena that the show took place, on a set featuring the ramp, titantron and a table.
+In a typical fashion for these ceremonies, wrestlers came out to random songs, not their usual themes.
+
+{% timeline() %}
+* Pawłowski started with a short introduction, announcing the show, and briefly explaining what the audience can expect.
+* Nano Lopez came out, and proceeded to cut a short promo in English before switching to Polish, declaring his next match is going to be the start of his road to the [PTW Championship](@/c/ptw-championship.md).
+* While Nano was still on the stage, out came Erik Ŝlotir. In his promo, he prompted Nano to get physical, but Pawłowski separated them. Both sign their contracts and the match is on.
+* Spartan was the only one present to sign for his match. He mentions that there were [300 Spartans at Thermopylae][wiki-thermopylae], but there's only one of him... so he needs fans to be his army. He got the fans to pop and bark for him.
+* Next was Caravaggio, again as the only competitor for his match. In his rambling promo, he focused on insulting the fans.
+* The Fatal Four Way for PTW Contract match competitors entered. Blaze, Luca Bjorn and Rust were present, but it was confirmed that Maverick will also compete.
+  Bjorn and Rust are a heel tag team, and they put down Blaze on the mic, but also confirmed that it's every man for himself.
+  Blaze cut a babyface promo, declaring he's made a lot of progress since losing a Contract Battle Royal (at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md)), and that now he's going to finally earn his contract.
+* Diana Strong turned up next. Immediately signed the contract, and cut a babyface promo. She hypes the importance of her match, trash-talks Iva and gave an inspiring message to her fans: "you can climb every mountain with enough effort".
+* Announced as "The Moral Compass of Polish Wrestling", Puncher entered next. This nickname is referring to his recent social media persona.
+  He signed the contract, and proceeded to put down the fans, especially cosplayers present, telling them that they are all losers who dress up to feel better.
+  Puncher reminded the crowd of his antics at previous RyuCon shows (first tearing a manga book, then burning one). He promised that the following day, they would get a dose of reality and a taste of his "Genetic Domination".
+  Pawłowski translated Puncher's rambling, confirming that Puncher has just made an open challenge.
+* With speed befitting his name, Max Speed ran to the table, quickly signing the contract.
+  Next, out came his opponent, Alex Brave, who immediately signed as well.
+  They exchanged trash talk and started a brawl. Brave bumps Speed's head on the table a few times.
+  Later, Max tried to sneak in a superkick but Brave countered with a back suplex through the table.
+  GM Pawłowski announced that if they are so eager to break tables, then they will get the chance to do so at the show, as their match is now a Tables Match.
+
+{% end %}
 
 {% card() %}
 - - '[Max Speed](@/w/max-speed.md)'
@@ -74,3 +102,6 @@ For this show, a significant portion of the match card was filled by guest wrest
 * [PTW's Facebook video of Alex interrupting Speed's training](https://www.facebook.com/PrimeTimeWrestlingPL/videos/442203918694225/)
 * [Mywrestling's recap and results](https://mywrestling.com.pl/ptw-ryucon-3-wyniki/)
 * [Ryucon's info page](https://ryucon.pl/ptw-x-ryucon/)
+* [Facebook post recapping the signing ceremony](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02gUSXkoTnSfkkfiZ9WvgUy76aE17vVo6epmiVV3vUUybXM8XH27NJabWkSJbLWoDel)
+
+[wiki-thermopylae](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
