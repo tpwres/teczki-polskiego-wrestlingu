@@ -6,7 +6,7 @@ authors = ["M3n747"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "ppw-championship.jpg", caption = '[Biesiad Strong](@/w/biesiad-strong.md) with the PpW Championship.', source = "Official PpW website / Facebook" }
+1 = { path = "ppw-championship.jpg", caption = '[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.', source = "Official PpW website / Facebook" }
 2 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = '"The PpW Champion, Steve Kuningas, with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA."', source = "Official PpW website / Facebook" }
 +++
 
@@ -17,7 +17,7 @@ The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md).
 ## Statistics
 
 * First champion: [Mister Z](@/w/mister-z.md)
-* Most reigns: [Biesiad Strong](@/w/biesiad-strong.md) (2)
+* Most reigns: [Biesiad Strong](@/w/biesiad.md) (2)
 * Longest reign: Mister Z (483 days)
 
 ## Champion #1: Mister Z
@@ -37,7 +37,7 @@ The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md).
 
 **TOTAL:** 483 days.
 
-Mister Z had been the PpW Champion since the backyard era, however the available sources are inconsistent: the PpW Wiki [says](https://ppw-fandom.tpwres.pl/ppw-championship) that Mister Z won the title at the Neomania V Kick Off on 9.09.2017, but the [Neomania V entry](https://ppw-fandom.tpwres.pl/ppw-neomania-v) gives the date 25.09.2016. Thus, the above title run only counts the days since the promotion went pro.
+Mister Z had been the PpW Champion since the backyard era, however the available sources are inconsistent: the PpW Wiki's [championship entry](https://ppw-fandom.tpwres.pl/ppw-championship) states that Mister Z won the title at the Neomania V Kick Off on 9.09.2017, but the [Neomania V entry](https://ppw-fandom.tpwres.pl/ppw-neomania-v) gives a different date: 25.09.2016. Thus, the above title run only counts the days since the promotion went pro.
 
 ## Champion #2: Osamu
 
@@ -60,38 +60,38 @@ Following Ledwo Legalne, the Championship was vacated for 182 days.
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Mister Z'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
-  - s: Four Way Match 
+  - s: Four Way Match
     en: '[PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)'
     ed: 2022-03-12
 - - 'Biesiad Strong (c)'
   - 'Osamu'
-  - s: Singles match 
+  - s: Singles match
     en: '[PpW Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md)'
     ed: 2022-05-21
 - - 'Biesiad Strong (c)'
   - 'Mister Z'
-  - s: Hardcore Match 
+  - s: Hardcore Match
     en: '[PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md)'
     ed: 2022-09-10
 - - 'Biesiad Strong (c)'
   - '[Steve Kuningas](@/w/steve-kuningas.md'
-  - s: Ladder Match 
+  - s: Ladder Match
     en: '[PpW Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md)'
     ed: 2022-11-25
 - - 'Biesiad Strong (c)'
   - 'Steve Kuningas'
   - '[Isnorr](@/w/isnorr.md)'
-  - s: Hardcore Match 
+  - s: Hardcore Match
     en: '[PpW Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md)'
     ed: 2023-02-04
 - - 'Biesiad Strong (c)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
-  - s: Singles match 
+  - s: Singles match
     en: '[PpW Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md)'
     ed: 2023-05-06
 - - 'Steve Kuningas'
   - 'Biesiad Strong (c)'
-  - s: Singles match 
+  - s: Singles match
     en: '[PpW Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md)'
     ed: 2023-06-17
 {% end %}
@@ -103,12 +103,12 @@ Following Ledwo Legalne, the Championship was vacated for 182 days.
 {% free_card() %}
 - - 'Steve Kuningas'
   - 'Biesiad Strong (c)'
-  - s: Singles match 
+  - s: Singles match
     en: '[PpW Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md)'
     ed: 2023-06-17
 - - '[Bill Feager](@/w/feager.md)'
   - 'Steve Kuningas (c)'
-  - s: Singles match 
+  - s: Singles match
     en: '[PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md)'
     ed: 2024-02-10
 {% end %}
@@ -122,12 +122,12 @@ Steve Kuningas made at least one appearance with the PpW Championship outside of
 {% free_card() %}
 - - '[Bill Feager](@/w/feager.md)'
   - 'Steve Kuningas (c)'
-  - s: Singles match 
+  - s: Singles match
     en: '[PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md)'
     ed: 2024-02-10
 - - 'Bill Feager (c)'
   - 'Mister Z'
-  - s: Singles match 
+  - s: Singles match
     en: '[PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md)'
     ed: 2024-04-20
 - - 'Biesiad Strong'
@@ -158,7 +158,7 @@ Steve Kuningas made at least one appearance with the PpW Championship outside of
 
 **TOTAL:** <1 day.
 
-Immediately after the fight at Ledwo Legalne IV, Mister Z granted the #1 Contender Gustav Gryffin his title shot.
+Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z granted the #1 Contender Gustav Gryffin his title shot.
 
 ## Champion #7: Gustav Gryffin
 
@@ -175,6 +175,7 @@ Immediately after the fight at Ledwo Legalne IV, Mister Z granted the #1 Contend
     ed: 2024-07-13
 {% end %}
 
-### References
+## References
+
 * [PpW Wiki's entry on the PpW Championship](https://ppw-fandom.tpwres.pl/ppw-championship)
 * [Video introducing the redesigned belt](https://www.youtube.com/watch?v=JlXKZaJQDGU)

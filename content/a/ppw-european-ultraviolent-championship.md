@@ -25,13 +25,13 @@ Introduced in 2022, the PpW European Ultraviolent Championship is the title used
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Viking'
   - s: Chaos Gods Death Match
-    en: '[PpW Ledwo Legalne II](@/e/2022-05-21-ppw-ledwo-legalne-ii.md)'
+    en: '[PpW Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md)'
     ed: 2022-05-21
 - - 'Stanisław Van Dobroniak'
   - 'Johnny Blade (c)'
   - 'Viking'
-  - s: Three Way Match 
-    en: '[PpW Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md)'
+  - s: Three Way Match
+    en: '[PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md)'
     ed: 2022-09-10
 {% end %}
 
@@ -44,30 +44,30 @@ Introduced in 2022, the PpW European Ultraviolent Championship is the title used
 - - 'Stanisław Van Dobroniak'
   - 'Johnny Blade (c)'
   - 'Viking'
-  - s: Three Way Match 
-    en: '[PpW Brak Mi Słów](@/e/2022-09-10-ppw-brak-mi-slow.md)'
+  - s: Three Way Match
+    en: '[PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md)'
     ed: 2022-09-10
 - - 'Stanisław Van Dobroniak (c)'
   - 'Johnny Blade'
   - s: Casket Match
-    en: '[PpW Najlepsza Gala w Mieście](@/e/2022-11-25-ppw-najlepsza-gala-w-miescie.md)'
+    en: '[PpW Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md)'
     ed: 2022-11-25
 - - 'Stanisław Van Dobroniak (c)'
   - 'Franz Schlederer'
   - s: Death Match
-    en: '[PpW Ledwo Legalne III](@/e/2023-06-17-ppw-ledwo-legalne-3.md)'
+    en: '[PpW Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md)'
     ed: 2023-06-17
 - - 'Stanisław Van Dobroniak (c)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
-  - s: Death Match 
-    en: '[PpW Ewenement Haze](@/e/2024-04-20-ppw-ewenement-haze.md)'
+  - s: Death Match
+    en: '[PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md)'
     ed: 2024-04-20
 - - 'Johnny Blade'
   - 'Stanisław Van Dobroniak (c)'
   - 'Alex Arthur'
   - '[Isnorr](@/w/isnorr.md)'
-  - s: Born to be Wired Four Way Elimination Match 
-    en: '[PpW Ledwo Legalne IV](@/e/2024-06-08-ppw-ledwo-legalne-4.md)'
+  - s: Born to be Wired Four Way Elimination Match
+    en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
     ed: 2024-06-08
 {% end %}
 
@@ -83,13 +83,12 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - 'Stanisław Van Dobroniak (c)'
   - 'Alex Arthur'
   - '[Isnorr](@/w/isnorr.md)'
-  - s: Born to be Wired Four Way Elimination Match 
-    en: '[PpW Ledwo Legalne IV](@/e/2024-06-08-ppw-ledwo-legalne-4.md)'
+  - s: Born to be Wired Four Way Elimination Match
+    en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
     ed: 2024-06-08
 - - 'Johnny Blade (c)'
   - 'Isnorr'
   - s: Death Match 
-    en: '[PpW Ale Grzeje](@/e/2024-07-13-ppw-ale-grzeje.md)'
+    en: '[PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)'
     ed: 2024-07-13
-
 {% end %}
