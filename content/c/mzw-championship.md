@@ -162,7 +162,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 - - Damien Rothschild (c)
   - Justin Joy
   - s: Singles Match
-  - en: '[MZW Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md)'
+    en: '[MZW Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md)'
     ed: 2019-06-01
 - - Asmund
   - Damien Rothschild (c)
