@@ -12,7 +12,7 @@ David Oliwa is one of the most experienced [Kombat Pro Wrestling](@/o/kpw.md) wo
 
 In KPW, Oliwa had been a fan-favourite babyface for many years, known for his leisurely entrances and a penchant for handing out lollipops to (mostly) female fans, and known affectionately as the "guy in undies" (_facet w gaciach_) due to his choice of ring gear. Following his loss to Iestyn Rees at [Godzina Zero 2023](@/w/2023-08-18-kpw-godzina-zero-2023.md), however, he made a slow heel turn over the next few shows.
 
-David Oliwa was the second [KPW OldTown Champion](@/a/kpw-old-town-championship.md), with the record title run of 1190 days.
+David Oliwa was the second [KPW OldTown Champion](@/a/kpw-old-town-championship.md), with the record title run of 1190 days. He appeared at every Arena and Godzina Zero show, although he did miss a few of the smaller ones, such as [Pyrkon 2023](@/e/2023-06-17-kpw-pyrkon-2023.md).
 
 ## Internet presence
 
