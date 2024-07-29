@@ -13,6 +13,8 @@ This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which 
 - ["[Patriota](@/w/jedrus-bulecka.md)", "[Red Thunder](@/w/red-thunder.md)"]
 - ["[El Diamante](@/w/asmund.md)", "???"]
 - ["[Shadow](@/w/shadow.md)", "[Prince Victor](@/w/vic-golden.md)"]
+- credits:
+    Ring announcer: '[Revage](@/w/rafael-kid.md)'
 {% end %}
 
 ### References
