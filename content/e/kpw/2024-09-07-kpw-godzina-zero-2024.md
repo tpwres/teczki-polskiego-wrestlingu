@@ -8,7 +8,7 @@ venue = ["okrzei-6-gdynia"]
 hide_results = true
 [extra.gallery.1]
 path = "2024-09-07-kpw-godzina-zero-2024-plakat.jpg"
-caption = "Official poster. In the top row are [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md), Red Scorpion, and The 87. Next to the event name are smaller figures of [David Oliwa](@/w/david-oliwa.md), [Rosetti](@/w/rosetti.md), Flexos and [Ron Corvus](@/w/ron-corvus.md). At the bottom, we see Carlos Zamora, Reece Alexios, [Greg](@/w/greg.md), Jack Jester, [Hans Schulte](@/w/hans-schulte.md), [Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Darius](@/w/darius.md) and [Eryk Lesak](@/w/eryk-lesak.md)."
+caption = "Official poster. In the top row are [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md), Red Scorpion with the [KPW Championship](@/c/kpw-championship.md) belt, and The 87. Next to the event name are smaller figures of [David Oliwa](@/w/david-oliwa.md), [Rosetti](@/w/rosetti.md), Flexos and [Ron Corvus](@/w/ron-corvus.md). At the bottom, we see Carlos Zamora, Reece Alexios, [Greg](@/w/greg.md), Jack Jester, [Hans Schulte](@/w/hans-schulte.md), [Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Darius](@/w/darius.md) and [Eryk Lesak](@/w/eryk-lesak.md)."
 source = "kpwrestling.pl / Official KPW Facebook"
 +++
 
