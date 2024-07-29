@@ -10,11 +10,18 @@ country = ["PL"]
 +++
 
 Chemik (lit. _Chemist_ - named after his bald head, reminiscent of a chemotherapy patient) joined the [KPW](@/o/kpw.md) wrestling school in summer 2017 after being a fan for about a year.
-He made quick progress as a trainee and first appeared at [KPW Arena 9](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md) as the personal butler of [Piękny Kawaler](@/w/piekny-kawaler.md) and his stable, Kawaleria (_The Cavalry_), with his in-ring debut soon following at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md).
+He made quick progress as a trainee and first appeared at [KPW Arena 9](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md) as the personal butler of [Piękny Kawaler](@/w/piekny-kawaler.md) and his stable, Kawaleria (_The Cavalry_), with his in-ring debut soon following at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md), in a tag team with [Greg](@/w/greg.md).
 
-After losing his first few matches, at [Arena 17](2021-08-21-kpw-arena-17-odrodzenie.md) Chemik swore an oath of celibacy to [Greg](@/w/greg.md), vowing not to touch a woman until he scored three victories.
-The first victory came at the [next event](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md), but he wouldn't fulfil his vows until [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).
-Along the way Chemik became a member of the Gregorian Branch (_Gałąź Gregoriańska_), a heel stable led by Greg that also includes [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md), who became Chemik's tag team partner at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md).
+In his butler persona, he continued to associate with Kawaleria for the next few shows.
+At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), after Piękny Kawaler's final match, Greg introduced his new [Pope Pijus I Greg](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#aftermath) persona.
+Chemik also adopted a new gimmick, donning altar boy's robes, and started accompanying Greg, carrying a thurible, imitating Catholic rites as he entered the ringside.
+
+Initially starting with a losing streak, at [Arena 17](2021-08-21-kpw-arena-17-odrodzenie.md) Chemik swore an oath of celibacy to Pope Greg, vowing "not to touch a woman" until he scored three victories.
+The first one came at the [next event](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md), but he wouldn't fulfil his vows until [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md) more than a year later.
+This led to another change in his persona, dropping the altar boy routine completely, and becoming more brash, cocky and outspoken. His ring gear clearly references that period, with a chalice and host displayed on his chest.
+
+At [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md), [Eryk Lesak](@/w/eryk-lesak.md) and [Rosetti](@/w/rosetti.md) joined Greg and Chemik, forming KPW's new major heel stable, called Gałąź Gregoriańska (_Gregorian Branch_).
+Lesak also formed a tag team with Chemik, initially losing to the Fux Brothers at [KPW @ Pyrkon 2022](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), and later feuding with them for the [Tag Team Championship](@/c/kpw-tag-team-championship.md).
 
 At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becoming the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).
 
@@ -22,5 +29,3 @@ At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becom
 
 * [KPW's Bianca interviewing Chemik](https://www.youtube.com/watch?v=K7J0zvAK264) (in Polish)
 * [A fragment of Godzina Zero 2016](https://youtu.be/wmAyKa51clM?si=2YCEPHWYSpdoTR3a&t=65), with young Chemik in the audience (1:05 mark, next to Robert on the right side)
-
-<!-- None of the above was true. A gentle and caring young man with an artistic soul, Chemik enjoys casual strolls through the countryside with his five puppies, winemaking and the works of the greatest of Claudes: Debussy and Monet. He decided to become a professional wrestler when a friend of his mentioned in passing how the young man would never fit in such an uncouth world of senseless brutality, unbecoming of a delicate lover of fine arts. Always eager for a challenge, Chemik enrolled in the KPW School of Manhandling and rose to the highest echelons in a record time, surprising even the most experienced of veteras. -->
