@@ -59,6 +59,12 @@
   h1.title-with-flag span.title-flag
     filter: grayscale(50%)
 
+  footer span.coffee
+    font-size: 0
+    &:after
+      font-size: 1rem
+      content: "🍺"
+
 html:not([data-theme])
   .dark-theme-icon
     display: inline
@@ -293,4 +299,3 @@ a:hover
 
 footer
   border-top: .2rem solid var(--dark-blue)
-
