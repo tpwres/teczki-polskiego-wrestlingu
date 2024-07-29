@@ -2,7 +2,7 @@
 title = "PpW European Ultraviolent Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747"]
+authors = ["M3n747", "Seweryn Pielucha"]
 [extra]
 toclevel=2
 [extra.gallery]
@@ -12,6 +12,13 @@ toclevel=2
 Introduced in 2022, the PpW European Ultraviolent Championship is the title used by [PpW Ewenement Wrestling](@/o/ppw.md) in their ultraviolent division.
 
 <!-- more -->
+
+## Belt design
+
+The championship belt is bulky and sturdy. Its main plate is big and circular, and sports a large "PpW" logo in the middle, the letters coloured red and blue to match the organization's old logo.
+Underneath, "European Ultraviolent Championship" is engraved in bold, large lettering.
+The centre plate is based on a brown leather strap, but the rest of the belt itself is black-coloured.
+Sideplates are simply two small circular sawblades, and instead of a classic pin buckle, the belt can be strapped together with bolts and screws, to emphasize the ultraviolent character of this championship.
 
 ## Statistics
 
