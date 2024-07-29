@@ -1,5 +1,5 @@
 from pathlib import Path
-from base import LintError, Doc
+from linters.base import LintError, Doc
 from card import CardParseError
 from utils import extract_front_matter
 from page import Page
@@ -52,7 +52,7 @@ class WellFormedEventLinter:
     def lint(self, document: Doc):
         path = document.pathname()
         if not path.exists():
-            return
+            return self.messages
 
         self.check_filename(path)
 
@@ -61,10 +61,9 @@ class WellFormedEventLinter:
             self.check_frontmatter(path, text)
 
             self.check_card(path, text)
-            return self.messages
-            self.check_sections(text)
 
             self.check_links(text)
+            #self.check_sections(text)
 
         return self.messages
 
@@ -73,7 +72,6 @@ class WellFormedEventLinter:
 
     def warning(self, warning):
         self.messages.append(warning)
-
 
     def check_filename(self, path):
         fc = re.match(r'''

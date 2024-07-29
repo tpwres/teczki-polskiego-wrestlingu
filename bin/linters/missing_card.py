@@ -14,6 +14,9 @@ class MissingCard(LintError):
         return False
 
 class MissingCardLinter:
+    def __init__(self, config):
+        pass
+
     def lint(self, path: Path):
         with path.open('r') as fp:
             text = fp.read()

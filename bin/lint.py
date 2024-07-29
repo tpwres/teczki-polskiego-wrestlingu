@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+import tomllib
 from pathlib import Path
 from argparse import ArgumentParser
 from itertools import chain
@@ -17,9 +18,9 @@ known_linters = {
     'MissingCard': MissingCardLinter, # To be replaced by WFE
 }
 
-def lookup_linter(name) -> object:
+def lookup_linter(name, config) -> object:
     if name in known_linters:
-        return known_linters[name]()
+        return known_linters[name](config=config)
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -31,17 +32,20 @@ def lint_main(args):
     errors = []
     cwd = Path.cwd()
 
+    config_file = (cwd / 'config.toml')
+    config = tomllib.load(config_file.open('rb'))
+
     if args.event_files:
         files_to_lint = chain.from_iterable(maybe_expand_dir(Path(f)) for f in args.event_files)
     else:
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
     if args.linters:
-        linters_to_run = filter(None, (lookup_linter(name) for name in args.linters))
+        linters_to_run = filter(None, (lookup_linter(name, config) for name in args.linters))
     else:
         linters_to_run = [
-            lookup_linter('MissingCard'),
-            lookup_linter('UnlinkedParticipant')
+            lookup_linter('MissingCard', config),
+            lookup_linter('UnlinkedParticipant', config)
         ]
 
     for path in files_to_lint:
@@ -78,10 +82,15 @@ def lint_main(args):
     return False
 
 def filter_main():
+    cwd = Path.cwd()
+
+    config_file = (cwd / 'config.toml')
+    config = tomllib.load(config_file.open('rb'))
+
     linters_to_run = [
-        UnlinkedParticipantLinter(),
-        UnlinkedNameLinter(),
-        UnlinkedEventLinter()
+        UnlinkedParticipantLinter(config),
+        UnlinkedNameLinter(config),
+        UnlinkedEventLinter(config)
     ]
     errors = []
 

@@ -61,7 +61,7 @@ class UnlinkedParticipantError(LintError):
 
 
 class UnlinkedParticipantLinter:
-    def __init__(self):
+    def __init__(self, config):
         self.names_with_articles = load_existing_name_articles()
 
     def lint(self, path: Path):
