@@ -5,6 +5,8 @@ template = "article.html"
 authors = ["Seweryn Pielucha"]
 [extra]
 toclevel=2
+[extra.gallery]
+1 = { path = "ptw-championship.jpg", caption = '[Puncher](@/w/puncher.md) with the PTW Championship in a promo shot for [Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md).', source = "Official PTW Facebook" }
 +++
 
 The PTW Championship is a professional wrestling championship created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their top championship.

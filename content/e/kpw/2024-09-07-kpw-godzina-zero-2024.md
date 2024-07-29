@@ -35,7 +35,7 @@ According to KPW's event page, there will be a significant number of foreign tal
   - "The 87: Alexander Roth, Roy Johnson"
   - {c: KPW Tag Team Championship}
 - - ???
-  - ???
+  - '[Darius](@/w/darius.md)'
   - ???
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - 'Flexos'
