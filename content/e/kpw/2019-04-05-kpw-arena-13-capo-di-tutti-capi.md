@@ -5,7 +5,7 @@ template = "event_page.html"
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
-1 = { path = "2019-04-05-kpw-arena-13-capo-di-tutti-capi-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2019-04-05-kpw-arena-13-capo-di-tutti-capi-plakat.jpg", caption = "Official poster, with [Piękny Kawaler](@/w/piekny-kawaler.md) and Robert star dressed like gangsters.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Arena 13 was held on Apr 5 2019 in Gdynia Sports Center. The event's name, an Italian phrase associated with the Mafia, meaning _Boss of all the Bosses_, is a reference to the fact that KPW would finally select their new Chairman persona on this event, closing this storyline. It would also see the first ever title defense of the new Tag Team Championship.

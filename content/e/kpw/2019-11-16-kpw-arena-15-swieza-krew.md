@@ -5,7 +5,7 @@ template = "event_page.html"
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
-1 = { path = "2019-11-16-kpw-arena-15-swieza-krew-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2019-11-16-kpw-arena-15-swieza-krew-plakat.jpg", caption = "Official poster, showing Reinbakh.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Świeża Krew (_Fresh Blood_) was the 15th Arena show by [KPW](@/o/kpw.md), held at Gdynia Sports Center on November 16, 2019. The event's name refers to new wrestlers debuting in their solo fights: Daniel Boza and [Eryk Lesak](@/w/eryk-lesak.md) (although the two appeared in the Magnificent Seven ladder match before).

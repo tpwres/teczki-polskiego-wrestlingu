@@ -4,8 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
 venue=["gdynia-sports-center"]
-[extra.gallery]
-1 = { path = "2019-08-17-kpw-godzina-zero-2019-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+[extra.gallery.1]
+path = "2019-08-17-kpw-godzina-zero-2019-plakat.jpg"
+caption = "Official poster. Top row: [David Oliwa](@/w/david-oliwa.md), [Dom Taylor](@/w/dom-taylor.md), [Greg](@/w/greg.md), Primate, Steinbolt. Bottom row: [Rosetti](@/w/rosetti.md), Sixt, [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Sawicki](@/w/sawicki.md), [Bianca](@/w/bianca.md)."
+source = "kpwrestling.pl / Official KPW Facebook"
 +++
 
 The fourth Godzina Zero (_Zero Hour_) show was KPW's biggest event in 2019. It was held again in the Gdynia Sports Center, following that year's two-week long wrestling school camp.
