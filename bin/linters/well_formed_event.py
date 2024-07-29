@@ -1,5 +1,6 @@
 from pathlib import Path
-from .base import LintError, Doc
+from base import LintError, Doc
+from card import CardParseError
 from utils import extract_front_matter
 from page import Page
 from dataclasses import dataclass
@@ -43,8 +44,9 @@ class WellFormedEventLinter:
     - mandatory sections: References
     - all internal links must be valid
     """
-    def __init__(self):
+    def __init__(self, config):
         self.messages = []
+        self.config = config
         self.load_taxonomies()
 
     def lint(self, document: Doc):
@@ -101,6 +103,7 @@ class WellFormedEventLinter:
 
         orgs = fc['orgs'].split('_')
         if not orgs:
+            # Redundant, as it will fail the naming scheme check first, which returns early
             self.error(F(path, f"Filename must contain organization or organizations"))
 
         dir = str(path.parent.name)
@@ -108,6 +111,7 @@ class WellFormedEventLinter:
             self.error(F(path, f"File is marked with orgs `{','.join(orgs)}` but is not located in any of their directories"))
 
     def check_frontmatter(self, path, text):
+        matter = None
         try:
             matter = extract_front_matter(text)
         except ValueError:
@@ -149,13 +153,13 @@ class WellFormedEventLinter:
         keys = set(doc_taxonomies.keys())
         unknown = keys - set(self.taxonomies.keys())
         if unknown:
-            self.error(F(path, f"Unknown taxonomies `{unknown}`"))
+            self.error(F(path, f"Unknown taxonomies `{','.join(unknown)}`"))
 
         chrono = doc_taxonomies.get('chronology')
         if chrono:
             unknown = set(chrono) - self.chronologies
             if unknown:
-                self.error(F(path, f"Unknown chronology keys `{unknown}`"))
+                self.error(F(path, f"Unknown chronology keys `{','.join(unknown)}`"))
 
         venues = doc_taxonomies.get('venue')
         if venues:
@@ -163,10 +167,10 @@ class WellFormedEventLinter:
                 self.warning(F(path, f"Venues taxonomy should only have one entry, but has {len(venues)}"))
             unknown = set(venues) - self.venues
             if unknown:
-                self.warning(F(path, f"Unknown venue keys `{unknown}`"))
+                self.warning(F(path, f"Unknown venue keys `{','.join(unknown)}`"))
 
     def check_gallery(self, path, gallery):
-        for key, val in gallery:
+        for key, val in gallery.items():
             pp, caption, source = val.get('path'), val.get('caption'), val.get('source')
             if not pp:
                 self.error(F(path, f"Gallery item {key} is missing path"))
@@ -190,7 +194,14 @@ class WellFormedEventLinter:
             page = Page(path, verbose=False)
         except yaml.scanner.ScannerError as e:
             # TODO: These errors show very wrong line numbers
+            # Aren't these swallowed into CPEs below?
             self.error(F(path, f"Error while parsing card: {str(e).replace('\n', ' ')}"))
+            return
+        except CardParseError as cpe:
+            self.error(F(path, f"Parse error: {str(cpe).replace('\n', '')}"))
+            return
+        except KeyError as e:
+            self.error(F(path, f"Missing required key {e}"))
             return
         except ValueError:
             self.error(F(path, f"Malformed card, did not parse valid matches"))
@@ -207,13 +218,11 @@ class WellFormedEventLinter:
 
 
     def load_taxonomies(self):
-        with Path('config.toml').open('rb') as fp:
-            config = tomllib.load(fp)
-            taxonomies = {o['name']: o for o in config['taxonomies']}
-            self.taxonomies = taxonomies
+        taxonomies = {o['name']: o for o in self.config['taxonomies']}
+        self.taxonomies = taxonomies
 
-            custom_chrono = config['extra']['chronology'].keys()
-            path_chronos = [p.stem for p in Path('content/o').glob('*.md') if p.stem != '_index']
-            self.chronologies = set([*custom_chrono, *path_chronos])
+        custom_chrono = self.config['extra']['chronology'].keys()
+        path_chronos = [p.stem for p in Path('content/o').glob('*.md') if p.stem != '_index']
+        self.chronologies = set([*custom_chrono, *path_chronos])
 
         self.venues = set([p.stem for p in Path('content/v').glob('*.md') if p.stem != '_index'])

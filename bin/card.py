@@ -279,6 +279,8 @@ class Card:
             return None
         start_line = text[:card_start].count("\n") + 2 # 1 for line numbering to start at 1, and 1 more to consume the {% card %} block start
         card_end = text.find('{% end %}', card_start + start_length)
+        if card_end == -1:
+            raise ValueError("Could not find card end marker")
         body = text[card_start + start_length:card_end]
 
         return DelimitedCard(card_start + start_length, card_end, body, start_line)
