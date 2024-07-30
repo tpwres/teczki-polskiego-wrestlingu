@@ -17,7 +17,7 @@ template = "article.html"
 14 = { path = "dziedzic-goodbye.jpg", caption = "[Dziedzic](@/w/dziedzic.md)'s farewell post on Instagram.'", source = "Instagram @dziedzicwrestling"}
 15 = { path = "sinister-farewell-insta.jpg", caption = "[Sinister](@/w/sinister.md) thanking everyone in his farewell post.", source = "Instagram @sinister_wrestler"}
 16 = { path = "sinister-farewell-text.png", caption = "Full text from Sinister's farewell post.", source = "Instagram @sinister_wrestling" }
-21 = { path = "sewi-exit.jpg", caption = "Referee Seweryn's farewell story on Instagram.", source = "Instagram @sewi_the_ref"}
+21 = { path = "sewi-exit.jpg", caption = "[Ref Seweryn](@/w/sedzia-seweryn.md)'s farewell story on Instagram.", source = "Instagram @sewi_the_ref"}
 22 = { path = "boro-ptw-last-dance-1.jpg", caption = "[Boro](@/w/boro.md) at a PTW event, from his Last Dance Instagram Story", source = "Instagram @borogng"}
 23 = { path = "boro-ptw-last-dance-2.jpg", caption = "MZW wrestlers [Queen](@/w/gabriel-queen.md), [Crane](@/w/jacob-crane.md), [Fox](@/w/axel-fox.md), [Isnorr](@/w/isnorr.md), [Madman Charlie](@/w/madman-charlie.md), [Rafael Kid](@/w/rafael-kid.md), [Aron Wake](@/w/aron-wake.md) (as Pikachu), [Olgierd](@/w/olgierd.md) and others, from Boro's Last Dance Instagram story. Bottom text says 'The message is clear'.", source = "Instagram @borogng"}
 24 = { path = "boro-ptw-last-dance-3.jpg", caption = "[Boro](@/w/boro.md), [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md) from Boro's Last Dance Instagram Story", source = "Instagram @borogng"}
@@ -172,7 +172,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - ??
   - ??
   - 2024-05 Twitter
-- - Referee Seweryn
+- - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - 2021-11
   - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'

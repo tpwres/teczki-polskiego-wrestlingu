@@ -17,7 +17,7 @@ Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling s
 - credits:
     Host: Konrad von Koch
     Ring Announcer: Mateusz Czarnecki
-    Referees: Sędzia Michał, Sędzia Seweryn
+    Referees: Sędzia Michał, [Sędzia Seweryn](@/w/sedzia-seweryn.md)
     Commentary: Jędrzej Jezierski, Piotr Małecki
 {% end %}
 

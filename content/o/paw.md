@@ -46,7 +46,7 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 * Chris X
 * Leo Zayde
 * [Prince Striker](@/w/royal-striker.md)
-* Referee Seweryn
+* [Ref Seweryn](@/w/sedzia-seweryn.md)
 * [Isnorr](@/w/isnorr.md)
 
 ## History

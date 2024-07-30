@@ -17,7 +17,7 @@ Project Basement 2 is the second episode of [MZW's](@/o/mzw.md) taped wrestling 
 - credits:
     Host: Konrad von Koch
     Ring Announcer: Mateusz Czarnecki
-    Referees: Sędzia Michał, Sędzia Seweryn
+    Referees: Sędzia Michał, [Sędzia Seweryn](@/w/sedzia-seweryn.md)
     Commentary: Jędrzej Jezierski, Piotr Małecki
 {% end %}
 
