@@ -12,7 +12,7 @@ city = "Rzeszów"
 
 All Or Nothing II was held in DDW's usual venue, klub Pod Palmą on August 17 2014. The event was built around a tournament for the vacant DDW International Championship of which [Kamil Aleksander](@/w/kamil-aleksander.md) was the previous holder. DDW also held a [smaller show](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) the previous day, featuring their trainees.
 
-Another big (literally) feature of the event was Polish Giant, an up-and-coming wrestler of Polish origin and extra large stature (210 cm tall, weighing at 140 kg), who trained in the UK for several years and did tryouts with both WWE and TNA at the time.
+Another big (literally) feature of the event was Polish Giant, an up-and-coming wrestler of Polish origin and extra large stature (210 cm tall, weighing at 140 kg), who trained in the UK for several years and did tryouts with both WWE and TNA at the time.
 
 {% card() %}
 - [Polish Giant, Eddie Rage, {s: DDW International Championship Tournament First
