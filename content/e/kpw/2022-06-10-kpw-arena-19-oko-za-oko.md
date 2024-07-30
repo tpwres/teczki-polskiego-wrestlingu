@@ -6,7 +6,7 @@ aliases = ["/e/2022-06-10-kpw-arena-19-oko-za-oko"]
 chronology = ["kpw", "arena"]
 venue=["atlantic-nh-gdynia"]
 [extra.gallery]
-1 = { path = "2022-06-10-kpw-arena-19-oko-za-oko-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2022-06-10-kpw-arena-19-oko-za-oko-plakat.jpg", caption = "Official poster, with [David Oliwa](@/w/david-oliwa.md) lifting Gianni Valletta, and [Chemik](@/w/chemik.md)'s face as background.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Oko za Oko (_An Eye for an Eye_) was KPW's second show of 2022 and the 19th Arena show overall, held in the [Nowy Harem](@/v/atlantic-nh-gdynia.md) music club. This event saw the return of [Fynn Freyhart](@/w/fynn-freyhart.md) and Darius.

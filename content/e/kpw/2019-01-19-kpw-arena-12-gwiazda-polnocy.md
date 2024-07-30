@@ -5,7 +5,7 @@ template = "event_page.html"
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
 [extra.gallery]
-1 = { path = "2019-01-19-kpw-arena-12-gwiazda-polnocy-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2019-01-19-kpw-arena-12-gwiazda-polnocy-plakat.jpg", caption = "Official poster, showing [Peter Pannache](@/w/peter-pannache.md) and [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Gwiazda Północy (_The Northern Star_) was the twelfth Arena event by KPW, held in Gdynia Sports Center. The event's foreign guest was Japanese female wrestler Yuu, at that time mostly appearing in Tokyo Joshi Pro Wrestling and Dramatic Dream Team. According to Cagematch, this was Yuu's sixth match in Europe overall.
