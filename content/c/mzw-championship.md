@@ -30,9 +30,9 @@ So far, the title was vacated twice in its history. First, Asmund vacated it imm
 
 At [Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), a special tournament was held to establish championship contenders.
 Due to the COVID-19 pandemic, no events could be held and the vacancy was prolonged until [Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md),
-where Rafael Kid emerged victorious against the winner of [MZW Project Basement #1](@/e/mzw/2021-03-18-mzw-project-basement-1.md) - [Aron Wake](@/w/aron-wake.md).
+where Rafael Kid emerged victorious against the winner of [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) - [Aron Wake](@/w/aron-wake.md).
 However, soon after that Rafael Kid left the organization, de facto vacating the belt for the second time.
-This was however not announced until [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), almost two years later.
+This was not announced until [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), almost two years later.
 
 ## Belt design:
 
