@@ -34,14 +34,14 @@ where Rafael Kid emerged victorious against the winner of [Project Basement](@/e
 However, soon after that Rafael Kid left the organization, de facto vacating the belt for the second time.
 This was not announced until [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), almost two years later.
 
-## Belt design:
+## Belt design
 
 The championship belt is rather bulky in size compared to others.
 Its most recognizable feature is the belt color, which is slick neon-green resembling the organization's main brand color.
 The center design shows big "MZW" and "Champion" text on a steel-coloured metal plate, with darker gradients in the middle, and decorations resembling cracks or explosions.
 Side plates use the same color scheme, with the left sideplate presenting a map of Poland, and the right one a white eagle, from the Polish coat of arms.
 
-## Title History
+## Title history
 
 ### Champion #1: Justin Joy
 

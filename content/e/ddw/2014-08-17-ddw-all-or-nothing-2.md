@@ -12,7 +12,7 @@ city = "Rzeszów"
 
 All Or Nothing II was held in DDW's usual venue, klub Pod Palmą on August 17 2014. The event was built around a tournament for the vacant DDW International Championship of which [Kamil Aleksander](@/w/kamil-aleksander.md) was the previous holder. DDW also held a [smaller show](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) the previous day, featuring their trainees.
 
-Another big (literally) feature of the event was Polish Giant, an up-and-coming wrestler of Polish origin and extra large stature (210 cm tall, weighing 140 kg), who trained in the UK for several years and did tryouts with both WWE and TNA at the time.
+Another big (literally) feature of the event was Polish Giant, an up-and-coming wrestler of Polish origin and extra large stature (210 cm tall, weighing at 140 kg), who trained in the UK for several years and did tryouts with both WWE and TNA at the time.
 
 {% card() %}
 - [Polish Giant, Eddie Rage, {s: DDW International Championship Tournament First
@@ -41,7 +41,7 @@ Attendance: about 120
 
 * Polish Giant turned out to be poorly trained and dangerous in the ring, and might have exaggerated his pro wrestling resume.
 * [Don Roid](@/w/don-roid.md) claimed that the Giant was unprofessional and a diva, and clashed with him about money.
-* The Attitude Forum later interviewed Giant, who declared he's done wrestling, and had sour words about the Polish wrestling scene.
+* The Attitude Forum later interviewed Giant, who declared he's done with wrestling, and had sour words about the Polish wrestling scene.
 * Fans enjoyed the other matches, and criticised Giant.
 
 ### References
@@ -49,5 +49,5 @@ Attendance: about 120
 * [Teaser video](https://www.youtube.com/watch?v=kOoraLZT5B4) briefly showing Polish Giant
 * [Full event on YouTube](https://www.youtube.com/watch?v=gsW9gQdWysU)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=115942)
-* [Article on mywrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-5-powstanie-maniac-zone-wrestling-afera-z-polish-giantem-przeprowadzka-ddw-do-gdanska/) (in Polish), discusses Polish Giant debacle extensively.
+* [Article on MyWrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-5-powstanie-maniac-zone-wrestling-afera-z-polish-giantem-przeprowadzka-ddw-do-gdanska/) (in Polish), discusses Polish Giant debacle extensively.
 * [Announcement by Rzeszów News](http://rzeszow-news.pl/wrestling-powraca-rzeszowa-zabraknie-brutalnej-walki/) (in Polish)
