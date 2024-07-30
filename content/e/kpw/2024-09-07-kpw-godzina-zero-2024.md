@@ -33,8 +33,8 @@ According to KPW's event page, there will be a significant number of foreign tal
 * Starting on June 22, 2024, KPW started daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
 
 {% card() %}
-- - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
-  - "The 87: Alexander Roth, Roy Johnson"
+- - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
+  - 'The 87: Alexander Roth, Roy Johnson'
   - {c: KPW Tag Team Championship}
 - - ???
   - '[Darius](@/w/darius.md)'
@@ -44,6 +44,8 @@ According to KPW's event page, there will be a significant number of foreign tal
   - ???
   - ???
   - {s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match}
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - Reece Alexios
 {% end %}
 
 #### Recap
