@@ -16,8 +16,11 @@ city = "Warszawa"
 - ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Prince Striker](@/w/royal-striker.md)"]
 - ["[Johnny Blade](@/w/johnny-blade.md)", "[Rob Scaffold](@/w/rob-scaffold.md)"]
 - ["[Bill Feager](@/w/feager.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Isnorr](@/w/isnorr.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "PpW Championship",
-    s: "Hardcore Match"}]
+- - "[Biesiad Strong](@/w/biesiad.md)"
+  - "[Isnorr](@/w/isnorr.md)"
+  - "[Steve Kuningas](@/w/steve-kuningas.md)"
+  - c: "[PpW Championship](@/c/ppw-championship.md)"
+    s: "Hardcore Match"
 - credits:
     Host, Ring Announcer: '"OG" Michael HT'
     Referees: 'Sędzia Borys, [Sędzia Kornel](@/w/sedzia-kornel.md)'

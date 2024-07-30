@@ -17,8 +17,10 @@ orgs = ["ppw", "mzw"]
 - ["[Gustav Gryffin](@/w/gustav-gryffin.md)", "Chris Cage"]
 - ["[Shadow](@/w/shadow.md)", "Rubix"]
 - ["[Biesiad Strong](@/w/biesiad.md)", "Chris X", {s: "Hardcore Match"}]
-- ["[Matt Buckna](@/w/matt-buckna.md)", "Michael Payne", {c: "MZW Championship", s: "#1
-      Contenders Match"}]
+- - "[Matt Buckna](@/w/matt-buckna.md)"
+  - "Michael Payne"
+  - c: "[MZW Championship](@/c/mzw-championship.md)"
+    s: "#1 Contenders Match"
 - ["Marcus Monere", "[Mister Z](@/w/mister-z.md)"]
 - credits:
     Ring Announcer: Adi

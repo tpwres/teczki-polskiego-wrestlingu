@@ -74,17 +74,17 @@ Shortly before the show, they were trading insults and challeneges online with L
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
-  - c: PpW Championship
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
     n: 'Immediately after the match, Mr Z granted #1 Contender [Gustav Gryffin](@/w/gustav-gryffin.md)
       his championship opportunity.'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - c: PpW Championship
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
-  - c: PpW European Ultraviolent Championship
+  - c: "[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
     s: Born To Be Wired Four Way Elimination Match
     n: Originally a 1-1 match, the other two opponents added themselves.
 - credits:

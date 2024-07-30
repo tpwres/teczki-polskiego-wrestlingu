@@ -51,12 +51,12 @@ The foreign guests for this event were:
   - Rambo
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
-  - c: PpW Championship
+  - c: "[PpW Championship](@/c/ppw-championship.md)"
 - - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), Jerry "Rich" Mandecki'
   - g: true
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
-  - c: PpW Ultraviolent Championship
+  - c: "[PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
     n: "[Johnny Blade](@/w/johnny-blade.md) was the special guest referee."
 - credits:
     Referees: Sędzia Kornel, Sędzia Karol Górski

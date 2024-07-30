@@ -15,8 +15,10 @@ city = "Warszawa"
 - ["[Isnorr](@/w/isnorr.md)", "Joshua Amaru"]
 - ["Feyyaz Aguila", "Dominik Fischer"]
 - ["[Johnny Blade](@/w/johnny-blade.md)", "Lexi Luxx", {s: "Intergender Hardcore Match"}]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Kapitan Bazooka](@/w/kapitan-bazooka.md)",
-  {r: "KO", c: "PpW Championship"}]
+- - "[Biesiad Strong](@/w/biesiad.md)"
+  - "[Kapitan Bazooka](@/w/kapitan-bazooka.md)"
+  - r: "KO"
+    c: "[PpW Championship](@/c/ppw-championship.md)"
 - - "[Steve Kuningas](@/w/steve-kuningas.md)"
   - "Aytac Bahar"
   - "[Bill Feager](@/w/feager.md)"

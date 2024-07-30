@@ -21,9 +21,12 @@ The event name, which translates to "The Best Show in Town", is a reference to t
   - s: "Tag Team Match"
 - - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)"
   - "[Johnny Blade](@/w/johnny-blade.md)"
-  - {s: "Casket Match", c: "PpW European Ultraviolent Championship"}
-- ["[Biesiad Strong](@/w/biesiad.md)(c)", "[Steve Kuningas](@/w/steve-kuningas.md)",
-  {s: "Ladder Match", c: "PpW Championship"}]
+  - s: "Casket Match"
+    c: "[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
+- - "[Biesiad Strong](@/w/biesiad.md)(c)"
+  - "[Steve Kuningas](@/w/steve-kuningas.md)"
+  - s: "Ladder Match"
+    c: "[PpW Championship](@/c/ppw-championship.md)"
 - credits:
     Host, Ring Announcer: Michael HT
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), Sędzia Gocha' # Borys

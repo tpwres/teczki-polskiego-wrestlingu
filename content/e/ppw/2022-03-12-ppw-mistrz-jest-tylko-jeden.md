@@ -28,7 +28,7 @@ city = "Warszawa"
   - "[Johnny Blade](@/w/johnny-blade.md)"
   - "[Mister Z](@/w/mister-z.md)"
   - "[Rob Scaffold](@/w/rob-scaffold.md)"
-  - c: "PpW Championship"
+  - c: "[PpW Championship](@/c/ppw-championship.md)"
     s: "Four Way Match"
 - credits:
     Host, Ring Announcer: Michael HT

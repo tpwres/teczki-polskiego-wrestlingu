@@ -21,8 +21,12 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 - ["Asara", "[Skull Evil](@/w/skull-evil.md)", {nc: "?"}]
 - ["[Bill Feager](@/w/feager.md)", "[Adam Wong](@/w/adam-wong.md)", {nc: "?"}]
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
-- ["[Johnny Blade](@/w/johnny-blade.md)", "Viking", {s: "Chaos Gods Deathmatch", c: "PpW
-      European Ultraviolent Championship, VcV Hardcore Championship"}]
+- - "[Johnny Blade](@/w/johnny-blade.md)"
+  - "Viking"
+  - s: "Chaos Gods Deathmatch"
+    c: |
+      [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md),
+      VcV Hardcore Championship
 - credits:
     Host, Ring Announcer: Michael HT
     Referees: Sędzia Gocha # Borys
