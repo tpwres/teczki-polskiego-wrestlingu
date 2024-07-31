@@ -6,9 +6,14 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
-[extra.gallery]
-1 = { path = "2023-12-08-ppw-turbo-og-plakat_.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
-2 = { path = "2023-12-08-ppw-turbo-og-bilety.jpg", caption = "Tickets on sale announcement (notice the similarity to the official poster of [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md))", source = "[Official PpW Facebook]" }
+[extra.gallery.1]
+path = "2023-12-08-ppw-turbo-og-plakat_.jpg"
+caption = "Official poster, imitating the character selection grid from Mortal Kombat games. The selectable characters are: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md); [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md); [Adam Wong](@/w/adam-wong.md), [Isnorr](@/w/isnorr.md), [Bill Feager](@/w/feager.md); Asara, Chris X, [Rafi](@/w/rafi.md); and finally Jack Harrop."
+source = "[Official PpW Facebook]"
+[extra.gallery.2]
+path = "2023-12-08-ppw-turbo-og-bilety.jpg"
+caption = "Tickets on sale announcement (notice the similarity to the official poster of [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md))"
+source = "[Official PpW Facebook]"
 +++
 
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2KOŁA](@/v/2kola.md) club.

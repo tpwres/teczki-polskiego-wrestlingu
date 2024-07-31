@@ -4,8 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]
-[extra.gallery]
-1 = { path = "2022-09-10-ppw-brak-mi-slow-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
+[extra.gallery.1]
+path = "2022-09-10-ppw-brak-mi-slow-plakat.jpg"
+caption = "Official poster, showing [Johnny Blade](@/w/johnny-blade.md) bathing in blood."
+source = "[Official PpW Facebook]"
 +++
 
 {% card() %}
