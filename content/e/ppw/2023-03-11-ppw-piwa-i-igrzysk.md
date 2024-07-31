@@ -6,8 +6,10 @@ chronology = ["ppw"]
 venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
-[extra.gallery]
-1 = { path = "2023-03-11-ppw-piwa-i-igrzysk-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
+[extra.gallery.1]
+path = "2023-03-11-ppw-piwa-i-igrzysk-plakat.jpg"
+caption = "Official poster, showing [Biesiad Strong](@/w/biesiad.md) in front of the Coliseum, wearing a Praetorian Guard helmet and cape, wearing the [PPW Championship](@/c/ppw-championship.md) belt and holding a beer bottle. Above him are the five Olympic rings, made out of barbed wire, with the PPW logo inside."
+source = "[Official PpW Facebook]"
 +++
 
 Piwa I Igrzysk ("Beer and Games") was an event that took place at [Waldorffa 25](@/v/waldorffa25.md) on March 11 2023.

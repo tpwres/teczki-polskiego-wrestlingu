@@ -4,10 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
-[extra]
-city = "Warszawa"
-[extra.gallery]
-1 = { path = "2021-06-12-ppw-ledwo-legalne-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
+[extra.gallery.1]
+path = "2021-06-12-ppw-ledwo-legalne-plakat.jpg"
+caption = "Official poster, showing [Mister Z](@/w/mister-z.md) with the [PPW Championship](@/c/ppw-championship.md)."
+source = "[Official PpW Facebook]"
 +++
 
 {% card() %}
