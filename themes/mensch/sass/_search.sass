@@ -35,8 +35,6 @@
       height: 1.5rem
       width: 1.5rem
 
-
-
 .search-results
   display: none
   position: absolute
@@ -56,6 +54,9 @@
       display: block !important
       background: var(--accent-bg)
       color: var(--text-light)
+
+      @media only screen and (max-width: 360px)
+        padding: 0.25rem
 
       .search-result a
         padding-left: 0.5rem
