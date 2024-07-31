@@ -42,7 +42,7 @@ According to KPW's event page, there will be a significant number of foreign tal
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - 'Flexos'
   - ???
-  - ???
+  - '[Rosetti](@/w/rosetti.md)'
   - {s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match}
 - - '[Leon Lato](@/w/leon-lato.md)'
   - Reece Alexios
