@@ -10,7 +10,7 @@ city = "Warszawa"
 hide_results = true
 [extra.gallery.1]
 path = "2019-12-07-ppw-2kola-to-my-nie-zarobimy-plakat.jpg"
-caption = "Official poster, showing a burnt down truck in front of the [2KOŁA](@/v/2kola.md) pub."
+caption = "Official poster, showing a burnt down truck, probably a Mercedes T1, in front of the [2KOŁA](@/v/2kola.md) pub."
 source = "[Official PpW Facebook]"
 +++
 
