@@ -14,3 +14,7 @@ Like [Zefir](@/w/zefir.md), Michał never missed a single show since his debut.
 
 The Fux Brothers are the reigning KPW Tag Team Champions, having won the belts from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veidt Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md).
 In 2023 they also made an appearance at an European Wrestling Association show in Austria.
+
+## Internet presence
+
+* [@michalfuxkpw on Instagram](https://www.instagram.com/michalfuxkpw/)
