@@ -14,7 +14,7 @@ Intended as the original butler for the heel stable (which didn't pan out; the p
 
 After the initial losing streak, for some of which he blamed Opol, Lesak agreed to join the newly-formed Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md). Having scored his first victory - against Opol at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md) - he was joined with Chemik as tag team partners, in a wedding-like ceremony officiated by Greg. However, neither joining the Gregorian Branch nor teaming up with Chemik helped drastically improve his success rate.
 
-In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "faceryk"; after making a heel turn, Lesak changed it to [heelesak](https://www.instagram.com/heelesak/).
+In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "faceryk"; after the heel turn, Lesak changed it to [heelesak](https://www.instagram.com/heelesak/).
 
 ## Internet presence
 
