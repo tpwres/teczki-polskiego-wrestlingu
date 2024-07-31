@@ -18,6 +18,12 @@ After DDW folded, he moved to the newly-opened KPW, eventually becoming the firs
 His last in-ring appearance was at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where he lost a Career vs Career Match against [Robert Star](@/w/robert-star.md).
 Since then he assumed the role of head coach.
 
+## Internet presence
+
+* [@trenerwrestlingu on Instagram](https://www.instagram.com/trenerwrestlingu/)
+* [KawalerWrestling on Facebook](https://www.facebook.com/kawalerwrestling/)
+* [KawalerWrestling on YouTube](https://www.youtube.com/user/kawalerwrestling)
+
 ### References
 
 * [YouTube video: Kawaler's debut in June 2012, Bishopton](https://www.youtube.com/watch?v=Hw6T_xAz5SY)

@@ -14,3 +14,8 @@ Despite never speaking he got over with the fans almost immediately, owing to hi
 
 Zefir usually fights solo, although a few times he formed a tag team with [Leon Lato](@/w/leon-lato.md).
 He is also one of only two KPW wrestlers (the other being [Michał Fux](@/w/michal-fux.md)) to never miss a single show since his debut.
+
+## Internet presence
+
+* [@zefirluchador on Instagram](https://www.instagram.com/zefirluchador/)
+* [ZefirLuchador on Facebook](https://www.facebook.com/zefirluchador/)
