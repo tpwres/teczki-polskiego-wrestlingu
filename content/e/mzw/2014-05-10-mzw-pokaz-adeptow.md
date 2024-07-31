@@ -5,7 +5,7 @@ template = "event_page.html"
 chronology = ["mzw"]
 venue = ["smolec"]
 [extra.gallery]
-1 = { path = "plakat.webp" }
+1 = { path = "plakat.webp", caption = "Show poster." }
 2 = { path = "host-referee-photo.jpg", caption = "Show host Filip Cieśliński and referee Matt2Hot", source = "Facebook @ManiacZoneWrestling"}
 +++
 
