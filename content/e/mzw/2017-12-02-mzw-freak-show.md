@@ -4,8 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["bakara"]
-[extra.gallery]
-plakat = { path = "plakat.webp", description = "Poster for the show", source = "MZW's Facebook page"}
+[extra.gallery.1]
+path = "plakat.webp"
+description = "Show poster. Wrestlers pictured are: [Justin Joy](@/w/justin-joy.md), Laurance Roman, [Shadow](@/w/shadow.md), [Hexia](@/w/hexia.md), [Asmund](@/w/asmund.md) and [Rick Baxxter](@/w/rick-baxxter.md)."
+source = "MZW's Facebook page"
 +++
 
 Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:
@@ -25,8 +27,9 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
 - ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "[Amisz](@/w/axel-fox.md)"]
 - ["[Asmund](@/w/asmund.md)", "[Franz Engel](@/w/franz-engel.md)", "[Justin Joy](@/w/justin-joy.md)",
   {s: "Triple Threat Match", c: "MZW Championship"}]
-- ["[Matt Buckna](@/w/matt-buckna.md), [Rick Baxxter](@/w/rick-baxxter.md)", "Apollo,
-    [Bartosz Borowsky](@/w/boro.md)", {s: "Tag Team Match"}]
+- - "[Matt Buckna](@/w/matt-buckna.md), [Rick Baxxter](@/w/rick-baxxter.md)"
+  - "Apollo, [Bartosz Borowsky](@/w/boro.md)"
+  - s: "Tag Team Match"
 - - '[Damian Lambert](@/w/damien-rothschild.md)'
   - Apollo
   - "[Bartosz Borowsky](@/w/boro.md)"

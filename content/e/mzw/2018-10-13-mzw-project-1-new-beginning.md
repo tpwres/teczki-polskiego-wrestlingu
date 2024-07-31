@@ -4,6 +4,9 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["bakara"]
+[extra.gallery.1]
+path = "project1-plakat-autografy.webp"
+caption = "Autographed poster for the show, given to fans who bought VIP tickets. The four wrestlers are [Asmund](@/w/asmund.md), [Damien Rothschild](@/w/damien-rothschild.md), [Justin Joy](@/w/justin-joy.md) and [Shadow](@/w/shadow.md)."
 +++
 
 {% card() %}

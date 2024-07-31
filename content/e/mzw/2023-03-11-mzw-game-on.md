@@ -4,8 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
-[extra.gallery]
-1 = { path = "2023-03-11-mzw-game-on-plakat.jpg", caption = "Official poster", source = "Official MZW Facebook" }
+[extra.gallery.1]
+path = "2023-03-11-mzw-game-on-plakat.jpg"
+caption = "Official poster. Wrestlers pictured, top to bottom: Rubix, Dieter Schwartz, [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), Denim Adams."
+source = "Official MZW Facebook"
 +++
 
 {% card() %}
