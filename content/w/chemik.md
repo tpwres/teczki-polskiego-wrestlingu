@@ -25,6 +25,11 @@ Lesak also formed a tag team with Chemik, initially losing to the Fux Brothers a
 
 At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becoming the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).
 
+## Internet presence
+
+* [@chemikkpw on Instagram](https://instagram.com/chemikkpw)
+* [ChemikKPW on Facebook](https://www.facebook.com/ChemikKPW)
+
 ## References
 
 * [KPW's Bianca interviewing Chemik](https://www.youtube.com/watch?v=K7J0zvAK264) (in Polish)
