@@ -37,6 +37,8 @@ The main plate was elliptical and grey-coloured, with a simple "MZW" logo, then 
 Triangle-shaped sideplates showed the Polish flag, with an eagle (from the Polish coat of arms) overlaid on top.
 Plates were affixed to plain black leather. There was no engravings or detailed design, as all of the logos, text and decorations were simply glued onto the plates.
 
+The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md).
+
 ## Title history
 
 ### Champions #1: Zbójnicy (Jędruś Bułecka and Stanisław Van Dobroniak)

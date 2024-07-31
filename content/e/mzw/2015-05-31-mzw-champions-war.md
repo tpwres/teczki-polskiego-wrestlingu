@@ -4,8 +4,9 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
-[extra.gallery]
-1 = { path = "plakat.webp" }
+[extra.gallery.1]
+path = "plakat.webp"
+caption = "Show poster. In the top row: [Szymon Siwiec](@/w/szymon-siwiec.md), [Hexia](@/w/hexia.md), Kevin Williams, Robert Kaiser, [Rick Baxxter](@/w/rick-baxxter.md),, [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Asmund](@/w/asmund.md). In the bottom row: Ilja Dragunov, [Shadow](@/w/shadow.md), [Red Thunder](@/w/red-thunder.md), [Justin Joy](@/w/justin-joy.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)."
 +++
 
 The first Champions War by MZW was held in Głuchołazy on May 31, 2015. The matches featured MZW trainees, experienced wrestlers like [Asmund](@/w/asmund.md) or [Dobroniak](@/w/stanislaw-van-dobroniak.md), a number of German wrestlers, and MZW's first and last women's match.

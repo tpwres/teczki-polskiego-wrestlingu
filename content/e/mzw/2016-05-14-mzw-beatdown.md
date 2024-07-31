@@ -4,8 +4,9 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
-[extra.gallery]
-1 = { path = "plakat.webp" }
+[extra.gallery.1]
+path = "plakat.webp"
+caption = "Justin Joy on the offical poster."
 +++
 
 {% card() %}
