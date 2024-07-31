@@ -8,7 +8,7 @@ toclevel = 3
 [taxonomies]
 chrono_root = ["kpw"]
 [extra.gallery]
-1 = { path = "white-eagle-wrestling.jpg", caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler) showing the mock-up logo for the unused name White Eagle Wrestling", source = "Official KPW YouTube channel" }
+1 = { path = "white-eagle-wrestling.jpg", caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler.md) showing the mock-up logo for the rejected White Eagle Wrestling name", source = "Official KPW YouTube channel" }
 +++
 
 ### History
