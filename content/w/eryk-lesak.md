@@ -16,6 +16,11 @@ After the initial losing streak, for some of which he blamed Opol, Lesak agreed 
 
 In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "faceryk"; after making a heel turn, Lesak changed it to [heelesak](https://www.instagram.com/heelesak/).
 
+## Internet presence
 
-### References
+* [@heelesak on Instagram](https://instagram.com/heelesak/)
+* [Eryk Lesak on Facebook](https://www.facebook.com/ErykLesak)
+
+## References
+
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning Lesak as the first choice for Kawaleria's butler (in Polish)
