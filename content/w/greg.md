@@ -1,7 +1,7 @@
 +++
 title = "Greg"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
 [extra]
