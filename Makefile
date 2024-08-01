@@ -7,7 +7,7 @@ ROSTERS=data/roster_ptw.json \
         data/roster_wwe.json
 METADATA=data/all_matches.json data/appearances.json data/crew_appearances.json data/career.json
 PLOTS=data/chronology-hyperlinked.svg
-CAL=static/tpwres.ics
+CAL=static/calendar.ics
 
 all: $(ROSTERS) $(METADATA) $(CAL)
 plot: $(PLOTS)

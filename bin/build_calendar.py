@@ -42,7 +42,7 @@ def main():
         event.add('dtstart', page.event_date)
         event.add('summary', vText(page.event_name))
         event.add('tzid', 'Europe/Warsaw')
-        event.add('url', f'https://tpwres.pl/e/{evf.with_suffix("")}')
+        event.add('url', f'https://tpwres.pl/e/{evf.relative_to("content/e").with_suffix("")}')
         for org in page.orgs:
             org_page = lookup_org(org)
             attn = vCalAddress(org_page.url)
