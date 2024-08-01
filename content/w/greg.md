@@ -21,7 +21,7 @@ He was frequently present at ringside for Kawaler's matches, and the two often u
 At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) Greg betrayed and attacked the already-defeated [Piękny Kawaler](@/w/piekny-kawaler.md), who up to this point was the leader of Kawaleria.
 Following that incident, Greg anointed himself the pope of Polish wrestling, Pijus I (roughly _Drinkus I_, but also a reference to Pius, a popular papal name).
 This has been his gimmick ever since. As Pope Pijus, his entrance routine has him enter dressed in long monasterial robes with a hood, and walk around the ring presenting a signet ring to fans, who are allowed to bow down and kiss it.
-Initially, he was also accompanied by [Chemik](@/w/chemik.md) who wore a surplice, as his junior priest or altar boy.
+Initially, he was also accompanied by [Chemik](@/w/chemik.md) who wore a surplice, as his junior priest or altar boy. Sometimes, during the match, Chemik would go around the ring, collecting donations into a wicker basket tray, like at a Catholic Mass.
 Greg also became the leader of a new heel faction named Gałąź Gregoriańska (_The Gregorian Branch_), who can be seen as the new version of Kawaleria. This faction also includes Chemik, [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md).
 
 At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeated David Oliwa to win the [KPW Championship](@/c/kpw-championship.md), vacated when [Robert Star](@/w/robert-star.md) left KPW to join [Prime Time Wrestling](@/o/ptw.md). Eleven months later he lost the title to Red Scorpion.
