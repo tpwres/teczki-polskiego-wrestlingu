@@ -6,8 +6,10 @@ chronology = ["ppw"]
 venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
-[extra.gallery]
-1 = { path = "2023-03-11-ppw-piwa-i-igrzysk-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
+[extra.gallery.1]
+path = "2023-03-11-ppw-piwa-i-igrzysk-plakat.jpg"
+caption = "Official poster, showing [Biesiad Strong](@/w/biesiad.md) in front of the Coliseum, wearing a Praetorian Guard helmet and cape, with the [PPW Championship](@/c/ppw-championship.md) belt around his waist, holding a bottle of beer. Above him are the five Olympic rings, made out of barbed wire, with the PPW logo inside."
+source = "[Official PpW Facebook]"
 +++
 
 Piwa I Igrzysk ("Beer and Games") was an event that took place at [Waldorffa 25](@/v/waldorffa25.md) on March 11 2023.
@@ -29,10 +31,12 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
     Host, Ring Announcer: Michael HT
 {% end %}
 
-#### Recap
+## Recap
 
 * Before closing the show, [Kapitan Bazooka](@/w/kapitan-bazooka.md) confronted [Biesiad Strong](@/w/biesiad.md) in the ring, setting up their match at the [next event](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
 
- * [Facebook event page](https://www.facebook.com/events/6085850078127761/)
- * [Full event on YouTube](https://www.youtube.com/watch?v=xkEi29j5_3I)
- 
+## References
+
+* [Facebook event page](https://www.facebook.com/events/6085850078127761/)
+* [Full event on YouTube](https://www.youtube.com/watch?v=xkEi29j5_3I)
+

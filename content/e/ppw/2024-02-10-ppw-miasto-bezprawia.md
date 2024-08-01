@@ -4,8 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
 venue=["teatr-komuna"]
-[extra.gallery]
-1 = { path = "2024-02-10-ppw-miasto-bezprawia-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
+[extra.gallery.1]
+path = "2024-02-10-ppw-miasto-bezprawia-plakat.jpg"
+caption = "Official poster, highly stylized to resemble a Sergio Leone western movie poster. The top two characters are [Bill Feager](@/w/feager.md) and [Steve Kuningas](@/w/steve-kuningas.md). Below them, [Jacob Crane](@/w/jacob-crane.md), Asara, [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md) and [Shadow](@/w/shadow.md). In the next row: TJ Charles, MBM, [Ricardo Diesel](@/w/ricardo-diesel.md), [Samson](@/w/samson.md), [Gustav Gryffin](@/w/gustav-gryffin.md). Last row: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Gabriel Queen](@/w/gabriel-queen.md), Chris X, [Isnorr](@/w/isnorr.md)."
+source = "[Official PpW Facebook]"
 +++
 
 Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). The event was held in [Teatr Komuna](@/v/teatr-komuna.md), a performing arts venue that operates in a former school building. This was the first time PpW presents their show in Warsaw's city center.

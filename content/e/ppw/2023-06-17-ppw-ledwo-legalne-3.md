@@ -4,10 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]
-[extra]
-city = "Warszawa"
-[extra.gallery]
-1 = { path = "2023-06-17-ppw-ledwo-legalne-3-plakat.jpg", caption = "Official poster", source = "[Official PpW Facebook]" }
+[extra.gallery.1]
+path = "2023-06-17-ppw-ledwo-legalne-3-plakat.jpg"
+caption = "Official poster, imitating the movie poster for Star Wars: Revenge of the Sith. Fighting with lightsabers are [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md). The ghostlike characters around them are: [Biesiad Strong](@/w/biesiad.md), [Steve Kuningas](@/w/steve-kuningas.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and Franz Schlederer, with [Ricardo Diesel](@/w/ricardo-diesel.md) below."
+source = "[Official PpW Facebook]"
 +++
 
 {% card() %}

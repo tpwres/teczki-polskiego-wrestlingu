@@ -6,8 +6,7 @@ authors = ["Szymon Iwulski", "Krzysztof Zych"]
 chronology = ["ppw"]
 venue=["praga-centrum"]
 [extra.gallery]
-
-1 = { path = "plakat_ll4.jpg", caption = "Show poster, released on Apr 28, 2024 on Facebook.", source = "PPW's Facebook page"}
+1 = { path = "plakat_ll4.jpg", caption = "Show poster, released on Apr 28, 2024 on Facebook. Pictured in the first row are: [Johnny Blade](@/w/johnny-blade.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) with the [Ultraviolent championship](@/c/ppw-european-ultraviolent-championship.md) belt, [Alex Arthur](@/w/alex-arthur.md). In the second row: [Goblin](@/w/goblin.md), [Biesiad Strong](@/w/biesiad.md), [Bill Feager](@/w/feager.md) with the [PPW Championship](@/c/ppw-championship.md), [Mister Z](@/w/mister-z.md) and [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "PPW's Facebook page"}
 2 = { path = "robert_star_is_ewenement.jpg", caption = "Graphics announcing Robert Star, released on May 11, 2024 on Facebook.", source="PPW's Facebook page"}
 3 = { path = "legia-entrance.jpg", caption = "Legia Łysych's surprise appearance. Titantron display shows scene from [PTW Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md).", source = "Krzysztof Zych" }
 4 = { path = "robert-star-mic.jpg", caption = "[Robert Star](@/w/robert-star.md) with his UEWA belt.", source = "Krzysztof Zych" }
