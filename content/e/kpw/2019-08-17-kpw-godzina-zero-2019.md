@@ -67,4 +67,4 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=247707)
 * [Chroniclelive's article](https://www.chroniclelive.co.uk/news/north-east-news/newcastle-wrestling-hero-forced-retire-14481374) on Primate's career-ending injuries
 * [What Is Wrestling's recap](https://www.youtube.com/watch?v=NvaTm0_0YdA)
-* [Final segment](https://www.youtube.com/watch?v=D3v7UD5DE_E)
+* [Final segment](https://www.youtube.com/watch?v=D3v7UD5DE_E), showing the betrayal and ascension to papacy
