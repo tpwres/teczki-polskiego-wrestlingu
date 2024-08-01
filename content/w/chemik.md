@@ -20,7 +20,7 @@ Initially starting with a losing streak, at [Arena 17](2021-08-21-kpw-arena-17-o
 The first one came at the [next event](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md), but he wouldn't fulfil his vows until [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md) more than a year later.
 This led to another change in his persona, dropping the altar boy routine completely, and becoming more brash, cocky and outspoken. His ring gear clearly references that period, with a chalice and host displayed on his chest.
 
-At [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md), [Eryk Lesak](@/w/eryk-lesak.md) and [Rosetti](@/w/rosetti.md) joined Greg and Chemik, forming KPW's new major heel stable, called Gałąź Gregoriańska (_Gregorian Branch_).
+At [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md), [Eryk Lesak](@/w/eryk-lesak.md) and [Rosetti](@/w/rosetti.md) joined Greg and Chemik, forming KPW's new major heel stable, called Gałąź Gregoriańska (_The Gregorian Branch_).
 Lesak also formed a tag team with Chemik, initially losing to the Fux Brothers at [KPW @ Pyrkon 2022](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), and later feuding with them for the [Tag Team Championship](@/c/kpw-tag-team-championship.md).
 
 At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becoming the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).
