@@ -42,14 +42,18 @@ def main():
         event.add('dtstart', page.event_date)
         event.add('summary', vText(page.event_name))
         event.add('tzid', 'Europe/Warsaw')
-        event.add('url', f'https://tpwres.pl/e/{evf.relative_to("content/e").with_suffix("")}')
+        event.add('uid', evf.stem)
+        event_url = evf.relative_to("content/e").with_suffix("")
+        event.add('url', f'https://tpwres.pl/e/{event_url}')
+
         for org in page.orgs:
             org_page = lookup_org(org)
             attn = vCalAddress(org_page.url)
-            attn.params['cn'] = vText(org_page.full_name)
+            attn.params['CN'] = vText(org_page.full_name)
             attn.params['CUTYPE'] = 'GROUP'
-            # attn.params['ROLE'] = 'CHAIR'
+            attn.params['ROLE'] = 'CHAIR'
             event.add('organizer', attn)
+
         venue_id = page.front_matter.get('taxonomies', {}).get('venue', [None])[0]
         if venue := lookup_venue(venue_id):
             if venue.city:
@@ -58,8 +62,9 @@ def main():
                 location = venue.full_name
             event.add('location', vText(location))
 
+        description = f'<a href="{event_url}">{page.event_name}</a>'
+        event.add('description', description)
         calendar.add_component(event)
-        # TODO: Find venue page, add info
         # TODO: Read card, add to details
 
     print(calendar.to_ical().decode('utf-8'))
