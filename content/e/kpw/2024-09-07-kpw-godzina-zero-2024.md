@@ -37,7 +37,7 @@ Card based on social media posts.
 {% card() %}
 - - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
   - 'The 87: Alexander Roth, Roy Johnson'
-  - {c: KPW Tag Team Championship}
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - ???
   - '[Darius](@/w/darius.md)'
   - ???
