@@ -27,7 +27,8 @@ class VenuePage:
 
 def main():
     calendar = Calendar()
-    calendar['X-WR-CALNAME'] = 'Tales of Polish Wrestling: Events'
+    calendar['NAME'] = 'Polish Wrestling Events'
+    calendar['X-WR-CALNAME'] = 'Polish Wrestling Events'
     # Not from all-matches, it doesn't have future events
     all_matches = json.load(Path("data/all_matches.json").open('rb'))
     event_files = Path("content/e").glob("**/????-??-??-*.md")
