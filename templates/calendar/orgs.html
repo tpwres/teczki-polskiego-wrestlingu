@@ -1,8 +1,8 @@
-{% set orgs = event.taxonomies | get(key="chronology", default=[])  %}
-{% set venues = get_section(path="v/_index.md") | get(key="pages") %}
-{% for org_slug in orgs %}
-{% if config.extra.chronology is containing(org_slug) %}{% continue %}{% endif %}
-{% if venues | filter(attribute="slug", value=org_slug) %}{% continue %}{% endif %}
-{% set org_page = get_page(path="o/" ~ org_slug ~ ".md") %}
+{%- set orgs = event.taxonomies | get(key="chronology", default=[])  -%}
+{%- set venues = get_section(path="v/_index.md") | get(key="pages") -%}
+{%- for org_slug in orgs -%}
+{%- if config.extra.chronology is containing(org_slug) -%}{%- continue -%}{%- endif -%}
+{%- if venues | filter(attribute="slug", value=org_slug) -%}{%- continue -%}{%- endif -%}
+{%- set org_page = get_page(path="o/" ~ org_slug ~ ".md") -%}
 ORGANIZER;CN="{{org_page.title}}";CUTYPE=GROUP;ROLE=CHAIR:{{ org_page.permalink }}
-{% endfor %}
+{%- endfor -%}
