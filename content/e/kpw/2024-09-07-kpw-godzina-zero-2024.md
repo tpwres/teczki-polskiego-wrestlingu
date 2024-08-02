@@ -48,6 +48,9 @@ Card based on social media posts.
   - {s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match}
 - - '[Leon Lato](@/w/leon-lato.md)'
   - Reece Alexios
+- - '[Greg](@/w/greg.)'
+  - '[Ron Corvus](@/w/ron-corvus.md)'
+  - {s: Hardcore Match}
 {% end %}
 
 #### Recap
