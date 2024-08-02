@@ -7,8 +7,9 @@ ROSTERS=data/roster_ptw.json \
         data/roster_wwe.json
 METADATA=data/all_matches.json data/appearances.json data/crew_appearances.json data/career.json
 PLOTS=data/chronology-hyperlinked.svg
+CAL=static/calendar.ics
 
-all: $(ROSTERS) $(METADATA)
+all: $(ROSTERS) $(METADATA) $(CAL)
 plot: $(PLOTS)
 
 clean:
@@ -32,3 +33,6 @@ data/chronology-plot.svg: const/chronology.csv
 
 data/chronology-hyperlinked.svg: data/chronology-plot.svg bin/linkify_plot.py
 	bin/linkify_plot.py < $< > $@
+
+$(CAL): content/e/**/*.md
+	bin/build_calendar.py > $@
