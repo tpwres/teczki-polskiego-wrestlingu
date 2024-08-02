@@ -5,7 +5,7 @@ from icalendar.cal import Event, Calendar
 import json
 from pathlib import Path
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, datetime
 from page import Page
 
 @dataclass
@@ -28,17 +28,19 @@ class VenuePage:
 def main():
     calendar = Calendar()
     calendar['VERSION'] = '2.0'
+    calendar['PRODID'] = 'tpwres.pl/1.0'
     calendar['CALSCALE'] = 'GREGORIAN'
-    calendar['METHOD'] = 'PUBLISH'
     calendar['X-WR-CALNAME'] = 'Polish Wrestling Events'
     calendar['X-WR-TIMEZONE'] = 'Europe/Warsaw'
     # Not from all-matches, it doesn't have future events
     all_matches = json.load(Path("data/all_matches.json").open('rb'))
     event_files = Path("content/e").glob("**/????-??-??-*.md")
+    created_at = datetime.now()
 
     for evf in event_files:
         page = Page(evf, verbose=False)
         event = Event()
+        event.add('dtstamp', created_at)
         event.add('dtstart', page.event_date)
         event.add('summary', vText(page.event_name))
         event.add('tzid', 'Europe/Warsaw')
