@@ -1,0 +1,10 @@
+{% set venue_slug = event.taxonomies | get(key="venue", default=[]) | first %}
+{% set venues = get_section(path="v/_index.md") | get(key="pages") %}
+{% set venue_page = venues | filter(attribute="slug", value=venue_slug) | default(value=[]) | first %}
+{% if venue_page %}
+  {% if venue_page.extra | get(key="city", default="") %}
+LOCATION:{{ venue_page.title }}, {{ venue_page.extra.city }}
+  {% else %}
+LOCATION:{{ venue_page.title }}
+  {% endif %}
+{% endif %}
