@@ -1,6 +1,7 @@
 +++
-title = "PpW Hardcore Friday"
+title = "PpW Hardcore Friday X4"
 template = "event_page.html"
+aliases = ["/e/ppw/2024-08-23-ppw-hardcore-friday"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
