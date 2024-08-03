@@ -25,6 +25,9 @@ data/career.json: content/e/**/*.md
 data/roster_ptw.json data/roster_kpw.json data/roster_ppw.json data/roster_dfw.json: content/e/**/*.md
 	bin/build_roster.py
 
+data/roster_mzw.json data/roster_wws.json data/roster_wwe.json: content/e/**/*.md
+	bin/build_roster.py
+
 clean-plot:
 	rm -rf data/chronology-hyperlinked.svg data/chronology-plot.svg
 
