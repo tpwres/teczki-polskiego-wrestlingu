@@ -99,7 +99,7 @@ After voicing their frustrations on social media, [Rafi Rarytas](@/w/rafi.md), [
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024.
 
-On February 12th, 2024, PTW commentary team member Piotr "Showoff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
+On February 12th, 2024, PTW commentary team member Piotr "ShowOff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
 
 #### Expansion into Austria
 
