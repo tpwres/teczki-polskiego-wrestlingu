@@ -14,9 +14,9 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
 {% card() %}
 - ["[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)", "[Dynamite Dave](@/w/dynamite-dave.md)"]
 - ["[Red Thunder](@/w/red-thunder.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
-- ["[Franz Engel](@/w/franz-engel.md)", "Robert Kaiser"]
+- ["[Franz Engel](@/w/franz-engel.md)", "[Robert Kaiser](@/w/robert-kaiser.md)"]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), The Grannatic"
+  - "Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)"
   - s: "Tag Team Match"
 - - '[Asmund](@/w/asmund.md)'
   - "Szymon Kolanus"

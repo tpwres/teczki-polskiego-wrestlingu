@@ -28,10 +28,10 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
 - ["[Asmund](@/w/asmund.md)", "[Franz Engel](@/w/franz-engel.md)", "[Justin Joy](@/w/justin-joy.md)",
   {s: "Triple Threat Match", c: "MZW Championship"}]
 - - "[Matt Buckna](@/w/matt-buckna.md), [Rick Baxxter](@/w/rick-baxxter.md)"
-  - "Apollo, [Bartosz Borowsky](@/w/boro.md)"
+  - "[Apollo](@/w/apollo-anderson.md), [Bartosz Borowsky](@/w/boro.md)"
   - s: "Tag Team Match"
 - - '[Damian Lambert](@/w/damien-rothschild.md)'
-  - Apollo
+  - "[Apollo](@/w/apollo-anderson.md)"
   - "[Bartosz Borowsky](@/w/boro.md)"
   - Blue Thunder
   - Kamil Kwiecień

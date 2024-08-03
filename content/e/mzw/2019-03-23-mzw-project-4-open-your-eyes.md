@@ -11,7 +11,7 @@ venue = ["czasoprzestrzen"]
   "[Madman Charlie](@/w/madman-charlie.md)", {s: "Three Way Match"}]
 - ["[Lady Killer](@/w/boro.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
   {s: "Glove On A Pole Match"}]
-- ["[Justin Joy](@/w/justin-joy.md)", "Apollo Anderson"]
+- ["[Justin Joy](@/w/justin-joy.md)", "[Apollo Anderson](@/w/apollo-anderson.md)"]
 - ["[Matt Buckna](@/w/matt-buckna.md)", "[Axel Fox](@/w/axel-fox.md)", "[Rafael Kid](@/w/rafael-kid.md)",
   "[Ronny Kessler](@/w/ronny-kessler.md)", {s: "Four Way Elimination Match"}]
 - ["[Jacob Crane](@/w/jacob-crane.md)", "Otto Stahl"]

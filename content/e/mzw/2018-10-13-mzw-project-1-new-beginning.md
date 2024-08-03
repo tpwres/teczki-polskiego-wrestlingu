@@ -11,16 +11,26 @@ source = "MZW / Krzysztof Zych"
 +++
 
 {% card() %}
-- ["[Rafael Kid](@/w/rafael-kid.md)", "[Jacob Crane](@/w/jacob-crane.md)", {c: "MZW
-      Championship", s: "Tournament Semi Final Match"}]
-- ["[Damien Rothschild](@/w/damien-rothschild.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)",
-  {c: "MZW Championship", s: "Tournament Semi Final Match"}]
-- ["Wataha: Apollo Anderson, [Justin Joy](@/w/justin-joy.md)", "Catch Connection:
-    [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)", {
-    c: "MZW Tag Team Championship"}]
-- ["[Lady Killer](@/w/boro.md)", "[Asmund](@/w/asmund.md)", "[Axel Fox](@/w/axel-fox.md)"]
-- ["[Madman Charlie](@/w/madman-charlie.md)", "[Matt Buckna](@/w/matt-buckna.md)",
-  {r: "DQ", c: "MZW Championship", s: "Tournament Semi Final Match"}]
+- - "[Rafael Kid](@/w/rafael-kid.md)"
+  - "[Jacob Crane](@/w/jacob-crane.md)"
+  - c: "MZW Championship"
+    s: "Tournament Semi Final Match"
+- - "[Damien Rothschild](@/w/damien-rothschild.md)"
+  - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+  - c: "MZW Championship"
+    s: "Tournament Semi Final Match"
+- - "Wataha: [Apollo Anderson](@/w/apollo-anderson.md), [Justin Joy](@/w/justin-joy.md)"
+  - "Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)"
+  - c: "MZW Tag Team Championship"
+- - "[Lady Killer](@/w/boro.md)"
+  - "[Asmund](@/w/asmund.md)"
+  - "[Axel Fox](@/w/axel-fox.md)"
+  - s: Triple Threat Match
+- - "[Madman Charlie](@/w/madman-charlie.md)"
+  - "[Matt Buckna](@/w/matt-buckna.md)"
+  - r: "DQ"
+    c: "MZW Championship"
+    s: "Tournament Semi Final Match"
 - ["[Rick Baxxter](@/w/rick-baxxter.md)", "[Shadow](@/w/shadow.md)"]
 - credits:
     Host, Ring Announcer: Tomasz Warchoł

@@ -18,7 +18,7 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 * Location:
   1. Głuchołazy (2017 - 2018) - in [GOSiR Głuchołazy](@/v/gosir-glucholazy.md)
   2. Wrocław (2018 - Oct 2021) - first in [Czasoprzestrzeń](@/v/czasoprzestrzen.md),
-     then in "Blaszak", a facility located at Leona Popielskiego street, 
+     then in "Blaszak", a facility located at Leona Popielskiego street,
      and finally in a facility at [Aleksandra Ostrowskiego](@/v/ostrowskiego-wroclaw.md) street
   3. Toruń (Oct 2021 - Oct 2022) - in Liceum Ogólnokształcące nr 2, a high school
   4. Wrocław (Oct 2022 - Apr 2024) - in [Czasoprzestrzeń](@/v/czasoprzestrzen.md)
@@ -37,7 +37,7 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 * [Gabriel Queen](@/w/gabriel-queen.md)
 * [Madman Charlie](@/w/madman-charlie.md)
 * [Rafael Kid](@/w/rafael-kid.md)
-* Apollo Anderson
+* [Apollo Anderson](@/w/apollo-anderson.md)
 * [Olgierd](@/w/olgierd.md)
 * [Boro](@/w/boro.md)
 * [Rafi Rarytas](@/w/rafi.md)
