@@ -40,7 +40,7 @@ Card based on social media posts.
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - ???
   - '[Darius](@/w/darius.md)'
-  - ???
+  - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - 'Flexos'
   - ???
