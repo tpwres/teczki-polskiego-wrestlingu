@@ -53,7 +53,7 @@ It was also the final edition of the convention.
 
 Match card unofficial, based on available photos.
 
-{% card() %}
+{% card(unofficial=true) %}
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - nc: '?'

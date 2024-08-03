@@ -9,6 +9,12 @@
 7. Linking to a non-existent page is an error, which is caught during the build process. The talent page must be created first.
 8. In the rare event that an event intentionally has no card (mostly for upcoming events), replace the card block with `{{ skip_card() }}`
 
+`{% card() %}` may also indicate that the card is unofficial, predicted or incomplete. This is done by passing exactly one of `predicted=true`, `unofficial=true`, `incomplete=true`, for example:
+
+```
+{% card(incomplete=true) %)}
+```
+
 ## YAML lists
 
 A YAML list is expressed either block-style:
