@@ -3,7 +3,7 @@
 import re
 from utils import accepted_name
 from card import Match, CardParseError
-from page import Page
+from page import EventPage
 from pathlib import Path
 from datetime import date
 import json
@@ -33,7 +33,7 @@ def main():
     i = 0
     for path in event_pages:
         try:
-            page = Page(path, verbose=False)
+            page = EventPage(path, verbose=False)
             card = page.card
             if not card.matches: continue
         except CardParseError:
@@ -47,7 +47,7 @@ def main():
                 dict(
                     d=page.event_date,
                     o=page.orgs,
-                    n=page.event_name,
+                    n=page.title,
                     m=bout,
                     p=relative_path
                 )
@@ -67,7 +67,7 @@ def main():
                 dict(
                     d=page.event_date,
                     o=page.orgs,
-                    n=page.event_name,
+                    n=page.title,
                     p=relative_path,
                     r=person.role
                 )

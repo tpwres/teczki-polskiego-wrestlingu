@@ -4,7 +4,6 @@ from pathlib import Path
 from dataclasses import dataclass
 from .base import LintError, Changeset, Doc
 from card import Card, Match
-from utils import parse_front_matter
 from articles import load_existing_name_articles
 from rewriter import Rewriter, UpdateMatch
 

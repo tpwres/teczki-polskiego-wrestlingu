@@ -1,5 +1,6 @@
 from pathlib import Path
-from utils import parse_front_matter
+from page import page
+from typing import cast
 
 def load_existing_name_articles() -> dict[str, Path]:
     cwd = Path.cwd()
@@ -10,15 +11,15 @@ def load_existing_name_articles() -> dict[str, Path]:
         if path.name == '_index.md': continue
         if path.name.startswith('.'): continue
 
-        with path.open('r') as fp:
-            text = fp.read()
-            front_matter = parse_front_matter(text)
-            names[front_matter['title']] = path
-            if extra := front_matter.get('extra'):
-                for alias in extra.get('career_aliases', []):
-                    names[alias] = path
-                if cname := extra.get('career_name', ''):
-                    names[cname] = path
+        article = page(path)
+        front_matter = article.front_matter
+        names[front_matter['title']] = path
+        if extra := front_matter.get('extra'):
+            extra = cast(dict[str, str], extra)
+            for alias in extra.get('career_aliases', []):
+                names[alias] = path
+            if cname := extra.get('career_name', ''):
+                names[cname] = path
 
     return names
 
@@ -31,16 +32,13 @@ def load_names_with_aliases() -> dict[str, set[str]]:
         if path.name == '_index.md': continue
         if path.name.startswith('.'): continue
 
-        with path.open('r') as fp:
-            text = fp.read()
-            front_matter = parse_front_matter(text)
-            extra = front_matter.get('extra', {})
-            title = front_matter['title']
-
-            preferred_name = extra.get('career_name', title)
-            names[preferred_name] = set([])
-            aliases = extra.get('career_aliases', [])
-            names[preferred_name] |= set(aliases)
+        talent = page(path)
+        match talent.front_matter:
+            case {"extra": dict(extra), "title": str(title)}:
+                preferred_name = extra.get('career_name', title)
+                names[preferred_name] = set([])
+                aliases = extra.get('career_aliases', [])
+                names[preferred_name] |= set(cast(list[str], aliases))
 
     return names
 
@@ -50,10 +48,8 @@ def load_event_articles() -> dict[str, Path]:
     all_event_files = events_dir.glob('**/????-??-??-*.md')
     events_dict = {}
     for path in all_event_files:
-        with path.open('r') as fp:
-            text = fp.read()
-            front_matter = parse_front_matter(text)
-            title = front_matter['title']
+        event = page(path)
+        title = event.front_matter['title']
 
-            events_dict[title] = path
+        events_dict[title] = path
     return events_dict

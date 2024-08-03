@@ -8,7 +8,7 @@ from functools import reduce
 from typing import Iterable, cast, Optional
 from utils import RichEncoder, accepted_name
 from card import Match, Name, CardParseError
-from page import Page
+from page import EventPage
 from sys import stderr, exit
 
 def extract_names(matches: Iterable[Match]) -> set[Name]:
@@ -28,7 +28,7 @@ def names_in_match(mm: Match) -> set[Name]:
 
 
 # Not strictly necessary as the career hash can be used to pull the same info
-def update_years_active(years: dict[str, set[int]], page: Page):
+def update_years_active(years: dict[str, set[int]], page: EventPage):
     if not page.card.matches: return
     if not page.event_date: return
 
@@ -41,7 +41,7 @@ def update_years_active(years: dict[str, set[int]], page: Page):
 OrgYears = dict[str, int]
 CareerYears = dict[int, OrgYears]
 
-def update_career(career: dict[str, CareerYears], page: Page):
+def update_career(career: dict[str, CareerYears], page: EventPage):
     event_date = page.event_date
     orgs = page.orgs
     card = page.card
@@ -102,7 +102,7 @@ def main():
 
     for path in event_pages:
         try:
-            page = Page(path, verbose=False)
+            page = EventPage(path, verbose=False)
             card = page.card
             if not card.matches:
                 stderr.write(f"{path}: Warning: no card available, skipping\n")

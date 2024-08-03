@@ -6,7 +6,7 @@ import json
 from collections import Counter
 from functools import reduce
 from card import Match, Name, CardParseError
-from page import Page
+from page import EventPage
 from typing import Optional
 from sys import stderr, exit
 
@@ -20,7 +20,7 @@ def main():
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
     for page_path in event_pages:
         try:
-            page = Page(page_path, verbose=False)
+            page = EventPage(page_path, verbose=False)
 
             # 3. Find and read the card() block
             card = page.card

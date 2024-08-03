@@ -1,30 +1,92 @@
 import re
-from datetime import datetime
+from datetime import datetime, date
 from pathlib import Path
 from card import Card
-from utils import parse_front_matter
+import tomllib
 from sys import exit, stderr
+from typing import Tuple
+from io import TextIOBase
 
-date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
+
+FrontMatterPrimitive = str | int | float
+FrontMatterValue = FrontMatterPrimitive | list[FrontMatterPrimitive] | dict[str, FrontMatterPrimitive]
+FrontMatter = dict[str, FrontMatterValue]
 
 class Page:
+    path: Path
+    front_matter: FrontMatter
+    body: str
+
     def __init__(self, path: Path, verbose: bool = True):
         if verbose:
             print("Loading %s" % path)
 
-        defaults = {}
-        if m := date_org_re.match(path.stem):
-            defaults['orgs'] = m.group('orgs').split('_')
-            defaults['date'] = datetime.strptime(m.group('date'), '%Y-%m-%d').date()
-
-        text = path.read_text(encoding='utf-8')
-        front_matter = defaults | parse_front_matter(text)
-
-        self.orgs = front_matter.get('orgs')
-        self.event_date = front_matter.get('date')
-        self.event_name = front_matter['title']
-        self.front_matter = front_matter
         self.path = path
+        self.front_matter, self.body = self.parse_content(path.open('rt', encoding='utf-8'))
 
-        # 3. Find and read the card() block
-        self.card = Card(text, path=path)
+    def parse_content(self, io: TextIOBase) -> Tuple[FrontMatter, str]:
+        line = io.readline()
+        if line.strip() != '+++':
+            raise ValueError(f"Page `{self.path}` did not start with frontmatter delimiter `+++`")
+
+        matter = []
+        line = io.readline()
+        while True:
+            matter.append(line)
+            line = io.readline()
+            if not line: # readline returns empty str, not even a single "\n" at eof
+                raise ValueError(f"Front matter block closing delimiter not found in `{self.path}`")
+            elif line.strip() == '+++':
+                break
+
+        fm = tomllib.loads("\n".join(matter))
+        return (fm, io.read())
+
+    @property
+    def title(self): return self.front_matter['title']
+
+class EventPage(Page):
+    event_date: date
+    orgs: list[str]
+    card: Card
+
+    date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
+
+    def __init__(self, path: Path, verbose: bool = True):
+        super().__init__(path, verbose)
+
+        match EventPage.date_org_re.match(path.stem):
+            case re.Match() as m:
+                ymd = m.group('date')
+                self.event_date = datetime.strptime(ymd, '%Y-%m-%d').date()
+                self.orgs = m.group('orgs').split('_')
+
+        self.card = Card(self.body, path)
+
+
+class OrgPage(Page):
+    pass
+
+class TalentPage(Page):
+    pass
+
+class Article(Page):
+    pass
+
+def page(path: Path, verbose: bool = False) -> Page:
+    """Returns a subclass of Page, based on what's the most appropriate
+    for the path given."""
+    if Path('content/e') in path.parents or EventPage.date_org_re.match(path.stem):
+        return EventPage(path, verbose)
+    elif Path('content/o') in path.parents:
+        return OrgPage(path, verbose)
+    elif Path('content/w') in path.parents:
+        return TalentPage(path, verbose)
+    else:
+        return Article(path, verbose)
+
+if __name__ == "__main__":
+    import sys, code
+    path = Path(sys.argv[1])
+    pg = page(path)
+    code.interact(local=locals())

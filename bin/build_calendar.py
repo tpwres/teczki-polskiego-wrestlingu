@@ -6,7 +6,7 @@ import json
 from pathlib import Path
 from dataclasses import dataclass
 from datetime import date, datetime
-from page import Page
+from page import EventPage
 
 @dataclass
 class EventPage:
@@ -38,7 +38,7 @@ def main():
     created_at = datetime.now()
 
     for evf in event_files:
-        page = Page(evf, verbose=False)
+        page = EventPage(evf, verbose=False)
         event = Event()
         event.add('dtstamp', created_at)
         event.add('dtstart', page.event_date)
