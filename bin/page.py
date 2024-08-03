@@ -67,6 +67,9 @@ class EventPage(Page):
 class OrgPage(Page):
     pass
 
+class VenuePage(Page):
+    pass
+
 class TalentPage(Page):
     pass
 
@@ -82,6 +85,8 @@ def page(path: Path, verbose: bool = False) -> Page:
         return OrgPage(path, verbose)
     elif Path('content/w') in path.parents:
         return TalentPage(path, verbose)
+    elif Path('content/v') in path.parents:
+        return VenuePage(path, verbose)
     else:
         return Article(path, verbose)
 

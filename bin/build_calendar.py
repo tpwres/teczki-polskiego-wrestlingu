@@ -1,29 +1,30 @@
 #! /usr/bin/env python3
 
 from icalendar import vText, vCalAddress
-from icalendar.cal import Event, Calendar
+from icalendar.cal import Event as vEvent, Calendar
 import json
 from pathlib import Path
 from dataclasses import dataclass
 from datetime import date, datetime
-from page import EventPage
+from page import EventPage, VenuePage, OrgPage
+from typing import cast, Optional
 
 @dataclass
-class EventPage:
+class Event:
     day: date
     title: str
     page_path: str
 
 @dataclass
-class OrgPage:
+class Org:
     url: str
     full_name: str
 
 @dataclass
-class VenuePage:
+class Venue:
     url: str
     full_name: str
-    city: str
+    city: Optional[str]
 
 def main():
     calendar = Calendar()
@@ -39,10 +40,10 @@ def main():
 
     for evf in event_files:
         page = EventPage(evf, verbose=False)
-        event = Event()
+        event = vEvent()
         event.add('dtstamp', created_at)
         event.add('dtstart', page.event_date)
-        event.add('summary', vText(page.event_name))
+        event.add('summary', vText(page.title))
         event.add('tzid', 'Europe/Warsaw')
         event.add('uid', evf.stem)
         event_url = evf.relative_to("content/e").with_suffix("")
@@ -56,7 +57,8 @@ def main():
             attn.params['ROLE'] = 'CHAIR'
             event.add('organizer', attn)
 
-        venue_id = page.front_matter.get('taxonomies', {}).get('venue', [None])[0]
+        taxonomies = cast(dict[str, list[str]], page.front_matter.get('taxonomies', {}))
+        venue_id = taxonomies.get('venue', [None])[0]
         if venue := lookup_venue(venue_id):
             if venue.city:
                 location = f'{venue.full_name}, {venue.city}'
@@ -64,7 +66,7 @@ def main():
                 location = venue.full_name
             event.add('location', vText(location))
 
-        description = f'<a href="{event_url}">{page.event_name}</a>'
+        description = f'<a href="{event_url}">{page.title}</a>'
         event.add('description', description)
         calendar.add_component(event)
         # TODO: Read card, add to details
@@ -74,10 +76,10 @@ def main():
 
 def lookup_org(code):
     path = Path('content/o') / f'{code}.md'
-    page = Page(path, verbose=False)
-    return OrgPage(
+    page = OrgPage(path, verbose=False)
+    return Org(
         url=f'https://tpwres.pl/o/{code}',
-        full_name=page.front_matter['title']
+        full_name=cast(str, page.front_matter['title'])
     )
 
 def lookup_venue(code):
@@ -85,11 +87,13 @@ def lookup_venue(code):
     path = Path('content/v') / f'{code}.md'
     if not path.exists(): return None
 
-    page = Page(path, verbose=False)
-    return VenuePage(
+    page = VenuePage(path, verbose=False)
+    front_matter = page.front_matter
+    extra = cast(dict[str, str], front_matter.get('extra', {}))
+    return Venue(
         url=f'https://tpwres.pl/v/{code}',
-        full_name=page.front_matter['title'],
-        city=page.front_matter.get('extra', {}).get('city', None)
+        full_name=cast(str, front_matter['title']),
+        city=extra.get('city', None)
     )
 
 
