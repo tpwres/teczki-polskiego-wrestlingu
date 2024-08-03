@@ -52,6 +52,17 @@ person_plain_re = re.compile(r'''
     $
 ''', re.VERBOSE)
 
+
+card_start_re = re.compile(r'''
+    ^
+    \{%\s+
+        card\(
+            (?:.+)? # Optional params
+        \)
+    \s+%\}
+    $
+''', re.VERBOSE | re.MULTILINE)
+
 @dataclass(frozen=True)
 class Name:
     name: str
@@ -231,6 +242,11 @@ class DelimitedCard(NamedTuple):
     card_start_line: int
 
 class Card:
+    start_offset: Optional[int]
+    end_offset: Optional[int]
+    crew: Optional[Crew]
+    matches: Optional[list[Match]]
+
     def __init__(self, text_or_io: Union[str, io.TextIOBase], path: Optional[Path]):
         match text_or_io:
             case str() as text:
@@ -267,17 +283,15 @@ class Card:
             raise CardParseError(message)
 
     def extract_card_unsplit(self, text: str) -> Optional[DelimitedCard]:
-        start_pattern = '{% card() %}'
-        start_length = len(start_pattern) + 1 # Accounting for the new line
-
-        card_start = text.find(start_pattern)
-        if card_start == -1:
+        card_start_match = card_start_re.search(text)
+        if not card_start_match:
             return None
+        card_start = card_start_match.start()
         start_line = text[:card_start].count("\n") + 2 # 1 for line numbering to start at 1, and 1 more to consume the {% card %} block start
-        card_end = text.find('{% end %}', card_start + start_length)
-        body = text[card_start + start_length:card_end]
+        card_end = text.find('{% end %}', card_start_match.end())
+        body = text[card_start_match.end():card_end]
 
-        return DelimitedCard(card_start + start_length, card_end, body, start_line)
+        return DelimitedCard(card_start_match.end(), card_end, body, start_line)
 
     def parse_card(self, card_text: str) -> Iterable[Match|Crew]:
         card_rows = yaml.safe_load(io.StringIO(card_text))
