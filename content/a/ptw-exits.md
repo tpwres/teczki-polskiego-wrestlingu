@@ -167,7 +167,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 WrestleOne Youtube
-- - Piotr "Showoff" Małecki (commentary, social media)
+- - Piotr "ShowOff" Małecki (commentary, social media)
   - ??
   - ??
   - ??
@@ -202,7 +202,7 @@ It was also announced that more roster cuts are to follow, especially after "Sea
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024. During an [interview][robert-star-interview] for the Istota Wrestlingu YouTube channel, Robert confirmed his departure from PTW.
 
-On February 12th, 2024, PTW commentary team member Piotr "Showoff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
+On February 12th, 2024, PTW commentary team member Piotr "ShowOff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
 
 ### 2024: Gold Rush and Total Blast From The Past
 
