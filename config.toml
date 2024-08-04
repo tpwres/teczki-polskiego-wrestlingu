@@ -5,7 +5,7 @@ base_url = "/"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
 title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestling
 
