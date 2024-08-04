@@ -39,7 +39,8 @@ mensch_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar" },
   { path = "@/w/_index.md", name = "People", icon = "users" },
   { path = "@/o/_index.md", name = "Orgs", icon = "globe" },
-  # { path = "@/a/contributing.md", name = "Contribute", icon="edit" },
+  { path = "@/a/_index.md", name = "Articles", icon = "book" },
+  { path = "@/a/contributing.md", name = "Contribute", icon = "edit" },
   # { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub", icon="github" }
 ]
 mensch_theme = "theme-base-0e"
