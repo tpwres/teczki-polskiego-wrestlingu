@@ -3,6 +3,7 @@ set -x
 
 deps() {
     pip3 install -r requirements.txt
+    yarn install
 }
 
 lint() {
@@ -27,7 +28,7 @@ build() {
     #python3 bin/build_metadata.py
     #python3 bin/build_roster.py
     #python3 bin/build_matches.py
-    make all plot
+    make all plot index
 
     zola -c build_cloudflare_config.toml build
 }

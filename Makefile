@@ -8,13 +8,14 @@ ROSTERS=data/roster_ptw.json \
 METADATA=data/all_matches.json data/appearances.json data/crew_appearances.json data/career.json
 PLOTS=data/chronology-hyperlinked.svg
 CAL=static/calendar.ics
+MINISEARCH_INDEX=static/minisearch_index.json
 
-all: $(ROSTERS) $(METADATA) $(CAL)
+all: $(ROSTERS) $(METADATA) $(CAL) $(MINISEARCH_INDEX)
 plot: $(PLOTS)
+index: $(MINISEARCH_INDEX)
 
 clean:
-	rm -rf $(ROSTERS)
-	rm -rf $(METADATA)
+	rm -rf $(ROSTERS) $(METADATA) $(PLOTS) $(CAL) $(MINISEARCH_INDEX)
 
 data/all_matches.json data/appearances.json data/crew_appearances.json: content/e/**/*.md
 	bin/build_matches.py
@@ -39,3 +40,6 @@ data/chronology-hyperlinked.svg: data/chronology-plot.svg bin/linkify_plot.py
 
 $(CAL): content/e/**/*.md
 	bin/build_calendar.py > $@
+
+$(MINISEARCH_INDEX): content/**/*.md
+	node bin/build_index.mjs > $@
