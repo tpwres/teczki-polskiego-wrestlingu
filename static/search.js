@@ -13,6 +13,12 @@ const debounce = (func, wait) => {
     };
 }
 
+const depolonize = (text, _fieldName) => {
+    const chars = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n', 'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
+                   'Ą': 'A', 'Ć': 'C', 'Ę': 'E', 'Ł': 'L', 'Ń': 'N', 'Ó': 'O', 'Ś': 'S', 'Ź': 'Z', 'Ż': 'Z'};
+    return text.replace(/\p{L}/gu, m => chars[m] || m).toLowerCase();
+}
+
 const initSearch = () => {
     const searchInput = document.getElementById("search_input");
     const resultsPane = document.querySelector(".search-results");
@@ -20,11 +26,8 @@ const initSearch = () => {
 
     searchInput.value = '';
     const options = {
-        bool: 'AND',
-        fields: {
-            title: { boost: 2 },
-            body: { boost: 1 }
-        }
+        boost: { 'title': 1.6 },
+        combineWith: 'AND'
     };
     const MAX_ITEMS = 16;
     let currentTerm;
@@ -33,8 +36,13 @@ const initSearch = () => {
 
     const initIndex = async () => {
         if (index === undefined) {
-            index = fetch("/search_index.en.json").then(async (response) => {
-                return await elasticlunr.Index.load(await response.json());
+            index = fetch("/minisearch_index.json").then(async (response) => {
+                let minisearch = MiniSearch.loadJSON(await response.text(), {
+                    fields: ['title', 'text'],
+                    storeFields: ['title', 'category', 'path'],
+                    processTerm: depolonize
+                });
+                return minisearch;
             });
         }
         let res = await index;
@@ -42,13 +50,7 @@ const initSearch = () => {
     };
 
     const formatSearchResultItem = (item, terms) => {
-        let path;
-        if (item.ref.startsWith("http")) {
-            const url = new URL(item.ref);
-            path = url.pathname;
-        } else if (item.ref.startsWith("/")) {
-            path = item.ref;
-        }
+        let path = item.path.replace('_', '-');
         let result_type = undefined;
         if (path.startsWith('/e/') && path.length > 3)
             result_type = 'Event';
@@ -65,7 +67,7 @@ const initSearch = () => {
         else
             result_type = 'Page';
 
-        return ` <a class="search-result" href="${item.ref}"><strong>${result_type}:</strong> ${item.doc.title}</a>`;
+        return ` <a class="search-result" href="${path}"><strong>${result_type}:</strong> ${item.title}</a>`;
 
     };
 
