@@ -1,5 +1,5 @@
 +++
-title = "Talent"
+title = "People"
 template = "alphabetical_talent_list.html"
 +++
 
