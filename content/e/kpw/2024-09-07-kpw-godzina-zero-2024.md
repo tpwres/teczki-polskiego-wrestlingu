@@ -51,6 +51,9 @@ Card based on social media posts.
 - - '[Greg](@/w/greg.md)'
   - '[Ron Corvus](@/w/ron-corvus.md)'
   - {s: Hardcore Match}
+- - '[Chemik](@/w/chemik.md)'
+  - 'Carlos Zamora'
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 {% end %}
 
 #### Recap
