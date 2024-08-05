@@ -69,8 +69,47 @@ const initSearch = () => {
 
     };
 
-    searchInput.addEventListener("keyup", debounce(async () => {
+    const handleListResultKey = (event) => {
+        const focused = resultsItems.querySelector('li:focus');
+        if (!focused) return false;
+        switch (event.key) {
+            case 'ArrowDown':
+                const next = focused.nextElementSibling;
+                if (next) next.focus();
+                break;
+            case 'ArrowUp':
+                const prev = focused.previousElementSibling;
+                if (prev) {
+                    prev.focus();
+                } else {
+                    // Back to search input
+                    searchInput.focus();
+                }
+                break;
+            case 'Enter':
+                focused.querySelector('a').click();
+        }
+        return false;
+    };
+
+    // NOTE: must be keydown not keyup, otherwise page scrolls
+    resultsItems.onkeydown = handleListResultKey;
+
+    const handleDownArrow = (event) => {
+        const firstResult = resultsItems.querySelector('li:first-child');
+        if (firstResult) {
+            firstResult.focus();
+        }
+        event.stopPropagation();
+        return false;
+    };
+
+    searchInput.addEventListener("keyup", debounce(async (event) => {
         let term = searchInput.value.trim();
+
+        if (event.key == 'ArrowDown' && resultsPane.style.display != 'none')
+            return handleDownArrow(event);
+
         if (term === currentTerm) return;
 
         resultsPane.style.display = (term === "" ? 'none' : 'block');
