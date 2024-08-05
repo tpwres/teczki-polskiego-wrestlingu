@@ -1,10 +1,6 @@
 #! /bin/bash
 set -x
 
-deps() {
-    pip3 install -r requirements.txt
-}
-
 lint() {
     python3 bin/lint.py || true
 }
@@ -32,7 +28,6 @@ build() {
     zola -c build_cloudflare_config.toml build
 }
 
-deps
 lint
 create_config
 build
