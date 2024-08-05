@@ -133,6 +133,7 @@ const initSearch = () => {
         for (let i = 0; i < Math.min(search_results.length, MAX_ITEMS); i++) {
             var item = document.createElement("li");
             item.className = "results-item";
+            item.tabIndex = -1;
             item.innerHTML = formatSearchResultItem(search_results[i], term.split(" "));
             resultsItems.appendChild(item);
         }
