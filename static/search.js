@@ -65,9 +65,7 @@ const initSearch = () => {
         else
             result_type = 'Page';
 
-        return `<div class="search-result">
-            <a href="${item.ref}"><strong>${result_type}:</strong> ${item.doc.title}</a>
-        </div>`;
+        return ` <a class="search-result" href="${item.ref}"><strong>${result_type}:</strong> ${item.doc.title}</a>`;
 
     };
 
