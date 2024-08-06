@@ -14,6 +14,7 @@ nav.level2
     border: none
     margin: 0
     padding: 0
+    color: var(--text)
 
   .nav-right
     display: block
@@ -23,8 +24,21 @@ nav.level2
       padding: 0
       list-style-type: none
       display: flex
-      flex-wrap: wrap
       justify-content: space-evenly
+      @media only screen and (max-width: 720px)
+          flex-wrap: wrap
+          justify-content: flex-start
+
+      li
+        padding: 0.15rem
+        white-space: nowrap
+        @media only screen and (max-width: 720px)
+          flex-basis: 29vw
+
+        @media only screen and (max-width: 540px)
+          flex-basis: 40vw
+
+
 
 nav.menu
   display: flex
