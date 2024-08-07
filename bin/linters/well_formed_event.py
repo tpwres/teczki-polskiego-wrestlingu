@@ -48,6 +48,31 @@ def strip_blocks(text: str) -> str:
 
     body = frontmatter_re.sub(lambda matchobj: "\n" * matchobj.group('frontmatter').count("\n"), text)
     return block_re.sub(replace_block, body)
+
+def find_links(element: dict, line_number:int=0) -> Generator[Tuple[dict, int], None, None]:
+    """Walk the AST recursively, yielding any links found."""
+
+    if 'line_number' in element:
+        line_number = element['line_number']
+
+    if element['type'] == 'Link':
+        yield (element, line_number)
+    elif 'children' in element:
+        for child in element['children']:
+            yield from find_links(child, line_number)
+
+def valid_content_link(content_path):
+    """Check if file named by content_path exists"""
+    content_root = Path.cwd() / "content"
+    target = content_root / content_path
+
+    return target.exists()
+
+def valid_link_target(target):
+    if target.startswith('@/'):
+        return valid_content_link(target[2:])
+    elif target.startswith('http://'):
+        return False # Outgoing links must be https
     else:
         return True
 
