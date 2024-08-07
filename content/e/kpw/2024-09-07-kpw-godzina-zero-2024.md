@@ -54,6 +54,9 @@ Card based on social media posts.
 - - '[Chemik](@/w/chemik.md)'
   - 'Carlos Zamora'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+- - 'Red Scorpion'
+  - 'Jack Jester'
+  - c: '[KPW Championship](@/c/kpw-championship.md)
 {% end %}
 
 #### Recap
