@@ -8,6 +8,9 @@ import re
 import datetime
 import tomllib
 import yaml, yaml.scanner
+from mistletoe import Document
+from mistletoe.ast_renderer import get_ast
+from typing import Tuple, Generator
 
 @dataclass
 class FileError(LintError):
@@ -118,7 +121,7 @@ class WellFormedEventLinter:
 
             self.check_card(path, text)
 
-            self.check_links(text)
+            self.check_body_links(path, text)
             #self.check_sections(text)
 
         return self.messages
@@ -270,6 +273,17 @@ class WellFormedEventLinter:
         if not card.crew:
             self.warning(F(path, "Credits section missing in card"))
 
+
+    def check_body_links(self, path, text):
+        plain_text = strip_blocks(text)
+        doc = Document(plain_text)
+
+        for (link, linenum) in find_links(get_ast(doc)):
+            match link:
+                case {'target': target} if valid_link_target(target):
+                    pass
+                case {'target': target, 'title': title}:
+                    self.error(F(path, f"Malformed link target ({target}) near line {linenum}"))
 
     def load_taxonomies(self):
         taxonomies = {o['name']: o for o in self.config['taxonomies']}
