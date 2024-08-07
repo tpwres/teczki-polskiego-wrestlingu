@@ -165,59 +165,59 @@ class WellFormedEventLinter:
             $
         ''', path.name, flags=re.VERBOSE)
         if not fc:
-            self.error(F(path, "Path does not adhere to naming scheme YYYY-MM-DD-ORGS-Event-Name.md"))
+            self.error("Path does not adhere to naming scheme YYYY-MM-DD-ORGS-Event-Name.md")
             return
 
         y, m, d = int(fc['year']), int(fc['month']), int(fc['day'])
         if y <= 1900:
-            self.error(F(path, f"Year {y} is before 1900"))
+            self.error(f"Year {y} is before 1900")
         if not 1 <= m <= 12:
-            self.error(F(path, f"Month {m} is not between 1 and 12"))
+            self.error(f"Month {m} is not between 1 and 12")
         if not 1 <= d <= 31:
-            self.error(F(path, f"Day of month {d} is not between 1 and 31"))
+            self.error(f"Day of month {d} is not between 1 and 31")
 
         try:
             datetime.date(y, m, d)
         except ValueError:
-            self.error(F(path, f"Date {fc['year']}-{fc['month']}-{fc['day']} is invalid."))
+            self.error(f"Date {fc['year']}-{fc['month']}-{fc['day']} is invalid.")
 
         orgs = fc['orgs'].split('_')
         if not orgs:
             # Redundant, as it will fail the naming scheme check first, which returns early
-            self.error(F(path, f"Filename must contain organization or organizations"))
+            self.error(f"Filename must contain organization or organizations")
 
         dir = str(path.parent.name)
         if dir not in orgs:
-            self.error(F(path, f"File is marked with orgs `{','.join(orgs)}` but is not located in any of their directories"))
+            self.error(f"File is marked with orgs `{','.join(orgs)}` but is not located in any of their directories")
 
     def check_frontmatter(self, path, text):
         matter = None
         try:
             matter = extract_front_matter(text)
         except ValueError:
-            self.error(F(path, "Could not find proper front matter block surrounded by `+++`"))
+            self.error("Could not find proper front matter block surrounded by `+++`")
 
         if not matter:
-            self.error(F(path, "Front matter block is empty"))
+            self.error("Front matter block is empty")
             return
 
         try:
             fmc = tomllib.loads(matter)
         except tomllib.TOMLDecodeError as err:
-            self.error(F(path, f"Invalid TOML in front matter: {err}"))
+            self.error(f"Invalid TOML in front matter: {err}")
             return
 
         title = fmc.get('title')
         if not title:
-            self.error(F(path, "Missing title in frontmatter"))
+            self.error("Missing title in frontmatter")
 
         template = fmc.get('template')
         if template != 'event_page.html':
-            self.error(F(path, "Event page must use the `event_page.html` template"))
+            self.error("Event page must use the `event_page.html` template")
 
         taxonomies = fmc.get('taxonomies')
         if not taxonomies:
-            self.warning(F(path, "Event page should have taxonomies. Recommended taxonomies are `chrono` and `venue`"))
+            self.warning("Event page should have taxonomies. Recommended taxonomies are `chrono` and `venue`")
         else:
             self.check_taxonomies(path, taxonomies)
 
@@ -233,33 +233,35 @@ class WellFormedEventLinter:
         keys = set(doc_taxonomies.keys())
         unknown = keys - set(self.taxonomies.keys())
         if unknown:
-            self.error(F(path, f"Unknown taxonomies `{','.join(unknown)}`"))
+            self.error(f"Unknown taxonomies `{','.join(unknown)}`")
 
         chrono = doc_taxonomies.get('chronology')
         if chrono:
             unknown = set(chrono) - self.chronologies
             if unknown:
-                self.error(F(path, f"Unknown chronology keys `{','.join(unknown)}`"))
+                self.error(f"Unknown chronology keys `{','.join(unknown)}`")
 
         venues = doc_taxonomies.get('venue')
         if venues:
             if len(venues) > 1:
-                self.warning(F(path, f"Venues taxonomy should only have one entry, but has {len(venues)}"))
+                self.warning(f"Venues taxonomy should only have one entry, but has {len(venues)}")
             unknown = set(venues) - self.venues
             if unknown:
-                self.warning(F(path, f"Unknown venue keys `{','.join(unknown)}`"))
+                self.warning(f"Unknown venue keys `{','.join(unknown)}`")
 
     def check_gallery(self, path, gallery):
         for key, val in gallery.items():
             pp, caption, source = val.get('path'), val.get('caption'), val.get('source')
             if not pp:
-                self.error(F(path, f"Gallery item {key} is missing path"))
+                self.error(f"Gallery item {key} is missing path")
             else:
                 self.verify_gallery_path_exists(path, pp)
             if not caption:
-                self.error(F(path, f"Gallery item {key} is missing caption"))
+                self.error(f"Gallery item {key} is missing caption")
             if not source:
-                self.error(F(path, f"Gallery item {key} is missing source annotation"))
+                self.error(f"Gallery item {key} is missing source annotation")
+
+
 
     def verify_gallery_path_exists(self, path, image_path):
         # TODO
@@ -267,7 +269,7 @@ class WellFormedEventLinter:
 
     def check_card(self, path, text):
         if '{{ skip_card() }}' in text:
-            self.warning(F(path, "Card marked as skipped"))
+            self.warning("Card marked as skipped")
             return
 
         try:
@@ -275,26 +277,26 @@ class WellFormedEventLinter:
         except yaml.scanner.ScannerError as e:
             # TODO: These errors show very wrong line numbers
             # Aren't these swallowed into CPEs below?
-            self.error(F(path, f"Error while parsing card: {str(e).replace('\n', ' ')}"))
+            self.error(f"Error while parsing card: {str(e).replace('\n', ' ')}")
             return
         except CardParseError as cpe:
-            self.error(F(path, f"Parse error: {str(cpe).replace('\n', '')}"))
+            self.error(f"Parse error: {str(cpe).replace('\n', '')}")
             return
         except KeyError as e:
-            self.error(F(path, f"Missing required key {e}"))
+            self.error(f"Missing required key {e}")
             return
         except ValueError:
-            self.error(F(path, f"Malformed card, did not parse valid matches"))
+            self.error(f"Malformed card, did not parse valid matches")
             return
 
         card = page.card
 
         if not card.matches:
-            self.error(F(path, "Card missing or no matches listed"))
+            self.error("Card missing or no matches listed")
             return
 
         if not card.crew:
-            self.warning(F(path, "Credits section missing in card"))
+            self.warning("Credits section missing in card")
 
 
     def check_body_links(self, path, text):
@@ -303,10 +305,8 @@ class WellFormedEventLinter:
 
         for (link, linenum) in find_links(get_ast(doc)):
             match link:
-                case {'target': target} if valid_link_target(target):
-                    pass
-                case {'target': target, 'title': title}:
-                    self.error(F(path, f"Malformed link target ({target}) near line {linenum}"))
+                case {'target': target, 'title': title} if not valid_link_target(target):
+                    self.error(f"Malformed link target ({target}) near line {linenum}")
 
     def load_taxonomies(self):
         taxonomies = {o['name']: o for o in self.config['taxonomies']}
