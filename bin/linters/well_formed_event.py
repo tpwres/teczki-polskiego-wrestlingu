@@ -23,6 +23,19 @@ class FileError(LintError):
     def supports_auto(self):
         return False
 
+class LintWarning(LintError): pass
+
+@dataclass
+class FileWarning(LintWarning):
+    path: Path
+    text: str
+
+    def message(self, file_root: Path):
+        return f'[{self.path.relative_to(file_root)}] Warning: {self.text}'
+
+    def supports_auto(self):
+        return False
+
 def strip_blocks(text: str) -> str:
     frontmatter_re = re.compile(r'''
       ^[+]{3}$ # Frontmatter delimiter: three pluses on a standalone line
@@ -80,6 +93,7 @@ def valid_link_target(target):
         return True
 
 F = FileError
+W = FileWarning
 
 class WellFormedEventLinter:
     """
@@ -113,6 +127,7 @@ class WellFormedEventLinter:
         if not path.exists():
             return self.messages
 
+        self.target_path = path
         self.check_filename(path)
 
         with document.open() as fp:
@@ -126,11 +141,19 @@ class WellFormedEventLinter:
 
         return self.messages
 
-    def error(self, err):
-        self.messages.append(err)
+    def error(self, err: LintError|str):
+        match err:
+            case LintError() as lint_err:
+                self.messages.append(lint_err)
+            case str(text):
+                self.messages.append(F(self.target_path, text))
 
-    def warning(self, warning):
-        self.messages.append(warning)
+    def warning(self, warning: LintWarning|str):
+        match warning:
+            case LintWarning() as lint_warn:
+                self.messages.append(lint_warn)
+            case str(text):
+                self.messages.append(W(self.target_path, text))
 
     def check_filename(self, path):
         fc = re.match(r'''
