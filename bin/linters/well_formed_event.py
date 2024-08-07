@@ -261,6 +261,15 @@ class WellFormedEventLinter:
             if not source:
                 self.error(f"Gallery item {key} is missing source annotation")
 
+            doc = Document(caption)
+            for (link, _linenum) in find_links(get_ast(doc)):
+                match link:
+                    case {'target': target} if valid_link_target(target):
+                        pass
+                    case {'target': target, 'title': title}:
+                        self.error(
+                            f"Malformed link target ({target}) in caption of gallery item `{key}`"
+                        )
 
 
     def verify_gallery_path_exists(self, path, image_path):
@@ -297,6 +306,9 @@ class WellFormedEventLinter:
 
         if not card.crew:
             self.warning("Credits section missing in card")
+
+        # TODO: for each match, and for each participant parse any markdown links found.
+        # Build AST and validate targets
 
 
     def check_body_links(self, path, text):
