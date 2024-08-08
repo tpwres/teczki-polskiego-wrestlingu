@@ -383,5 +383,47 @@ def test_no_credits(tmp_path, config_toml, valid_header):
     refute_exact_message(messages, "Card marked as skipped")
     refute_exact_message(messages, "Malformed card, did not parse valid matches")
     assert_exact_message(messages, "Credits section missing in card")
-    assert_exact_message(messages, "Malformed link `[Underfaker](@/w/underfaker.md)` in match 1")
+    assert_exact_message(messages, "Malformed link `[Undertaker](@/w/undertaker.md)` in match 1 participants")
 
+
+def test_card_checks_links_in_c_and_n(tmp_path, config_toml, valid_header):
+    path = tmp_path / '2023-02-28-mzw-event-name.md'
+    with path.open('w') as fp:
+        fp.write(valid_header)
+        fp.write(dedent('''
+        {% card() %}
+        - - '[Undertaker](@/w/undertaker.md)'
+          - '[Andre The Giant](@/w/andre.md)'
+          - c: '[NWA Championship](@/c/nwa-championship.md)'
+            n: Undertaker won by intervention of [Paul Bearer](@/w/paul-bearer.md)
+        {% end %}
+        '''))
+
+    linter = WellFormedEventLinter(config_toml)
+    doc = FileBackedDoc(path)
+
+    messages = linter.lint(doc)
+    assert_exact_message(messages, "Malformed link `[Undertaker](@/w/undertaker.md)` in match 1 participants")
+    assert_exact_message(messages, "Malformed link `[NWA Championship](@/c/nwa-championship.md)` in match 1 championship")
+    assert_exact_message(messages, "Malformed link `[Paul Bearer](@/w/paul-bearer.md)` in match 1 notes")
+
+def test_malformed_links_below_and_above_card(tmp_path, config_toml, valid_header):
+    path = tmp_path / '2023-02-28-mzw-event-name.md'
+    with path.open('w') as fp:
+        fp.write(valid_header)
+        fp.write(dedent('''
+        [DDP](@/w/ddp.md)
+        {% card() %}
+        - - '[Undertaker](@/w/undertaker.md)'
+          - '[Andre The Giant](@/w/andre.md)'
+        {% end %}
+        [NWA](@/o/nwa.md)
+        '''))
+
+    linter = WellFormedEventLinter(config_toml)
+    doc = FileBackedDoc(path)
+
+    messages = linter.lint(doc)
+    # Line offsets must include valid_header
+    assert_exact_message(messages, "Malformed link `[DDP](@/w/ddp.md)` near line 7")
+    assert_exact_message(messages, "Malformed link `[NWA](@/o/nwa.md)` near line 12")
