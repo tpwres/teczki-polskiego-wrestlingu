@@ -136,6 +136,7 @@ def test_filename_must_be_in_org_dir(tmp_path, config_toml):
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "File is marked with orgs `mzw` but is not located in any of their directories")
+
 def test_filename_in_org_dir(tmp_path, config_toml):
     (tmp_path / 'mzw').mkdir()
     path = tmp_path / 'mzw' / '2023-02-28-mzw-event-name.md'
@@ -382,4 +383,5 @@ def test_no_credits(tmp_path, config_toml, valid_header):
     refute_exact_message(messages, "Card marked as skipped")
     refute_exact_message(messages, "Malformed card, did not parse valid matches")
     assert_exact_message(messages, "Credits section missing in card")
+    assert_exact_message(messages, "Malformed link `[Underfaker](@/w/underfaker.md)` in match 1")
 

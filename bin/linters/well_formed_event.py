@@ -9,7 +9,9 @@ import datetime
 import tomllib
 import yaml, yaml.scanner
 from mistletoe import Document
-from mistletoe.ast_renderer import get_ast
+from mistletoe.markdown_renderer import MarkdownRenderer
+from mistletoe.block_token import BlockToken
+from mistletoe.span_token import SpanToken, Link
 from typing import Tuple, Generator
 
 @dataclass
@@ -37,17 +39,17 @@ class FileWarning(LintWarning):
         return False
 
 
-def find_links(element: dict, line_number:int=0) -> Generator[Tuple[dict, int], None, None]:
-    """Walk the AST recursively, yielding any links found."""
+def find_links(element: SpanToken|BlockToken, line_number:int=0) -> Generator[Tuple[Link, int], None, None]:
+    """Walk the AST recursively, but work on objects and not unpacked dicts from get_ast"""
+    if hasattr(element, 'line_number'):
+        line_number = element.line_number
 
-    if 'line_number' in element:
-        line_number = element['line_number']
-
-    if element['type'] == 'Link':
-        yield (element, line_number)
-    elif 'children' in element:
-        for child in element['children']:
-            yield from find_links(child, line_number)
+    match element:
+        case Link() as link:
+            yield (link, line_number)
+        case BlockToken(children=children) | SpanToken(children=children) if children:
+            for child in children:
+                yield from find_links(child, line_number)
 
 def valid_content_link(content_path):
     """Check if file named by content_path exists"""
@@ -63,6 +65,10 @@ def valid_link_target(target):
         return False # Outgoing links must be https
     else:
         return True
+
+def rerender_link(link: Link) -> str:
+    # Inefficient: new MarkdownRenderer instance each time
+    return "".join(MarkdownRenderer().render(link)).rstrip()
 
 F = FileError
 W = FileWarning
@@ -234,13 +240,13 @@ class WellFormedEventLinter:
                 self.error(f"Gallery item {key} is missing caption")
             else:
                 doc = Document(caption)
-                for (link, _linenum) in find_links(get_ast(doc)):
+                for (link, _linenum) in find_links(doc):
                     match link:
-                        case {'target': target} if valid_link_target(target):
+                        case Link(target=target) if valid_link_target(target):
                             pass
-                        case {'target': target, 'title': title}:
+                        case Link():
                             self.error(
-                                f"Malformed link target ({target}) in caption of gallery item `{key}`"
+                                f"Malformed link {rerender_link(link)} in caption of gallery item `{key}`"
                             )
 
 
@@ -279,17 +285,23 @@ class WellFormedEventLinter:
         if not card.crew:
             self.warning("Credits section missing in card")
 
-        # TODO: for each match, and for each participant parse any markdown links found.
-        # Build AST and validate targets
+        # TODO: line numbers - Card doesn't track them yet
+        for num, match in enumerate(card.matches, 1):
+            for item in match.line:
+                doc = Document(item)
+                for (link, _linenum) in find_links(doc):
+                    match link:
+                        case Link(target=target) if not valid_link_target(target):
+                            self.error(f"Malformed link `{rerender_link(link)}` in match {num}")
 
 
     def check_body_links(self, path, text):
         plain_text = strip_blocks(text)
         doc = Document(plain_text)
 
-        for (link, linenum) in find_links(get_ast(doc)):
+        for (link, linenum) in find_links(doc):
             match link:
-                case {'target': target, 'title': title} if not valid_link_target(target):
+                case {'target': target} if not valid_link_target(target):
                     self.error(f"Malformed link target ({target}) near line {linenum}")
 
     def load_taxonomies(self):
