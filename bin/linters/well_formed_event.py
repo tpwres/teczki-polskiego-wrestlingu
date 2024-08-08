@@ -85,24 +85,27 @@ W = FileWarning
 class WellFormedEventLinter:
     """
     A well formed event file has:
-    - filename matching proscribed pattern: yyyy-mm-dd-orgs-event-name.md
-      - parent dir must be an org name, and repeated in orgs
+    ✅ filename matching proscribed pattern: yyyy-mm-dd-orgs-event-name.md
+    ✅ parent dir must be an org name, and repeated in orgs
     - a valid frontmatter block
-      - with mandatory fields: title
-      - template must be event_page or other whitelisted ones
+      ✅ with mandatory fields: title
+      ✅ template must be event_page or other whitelisted ones
       - taxonomies, if present, must be valid
-        - values for chronology must be in chrono_root
-        - venue must have exactly one element, and matching an article in v/
+        ✅ values for chronology must be in chrono_root
+        ✅ venue must have exactly one element, and matching an article in v/
       - gallery items, if present, must be well-formed
-        - mandatory attributes: path, caption, source
+        ✅ mandatory attributes: path, caption, source
+        ✅ markdown links in caption are valid
         - if possible, validate path exists
         - if path exists, validate file size is within limit
     - a card block or a {{ skip_card() }} annotation
-      - that is valid yaml
-      - error if card is empty
-      - warning if no credits entry
+      ✅ that is valid yaml
+      ✅ error if card is empty
+      ✅ warning if no credits entry
+      ✅ each talent link is valid
+      - links in c: and n: options are valid
     - mandatory sections: References
-    - all internal links must be valid
+    ✅ all internal links must be valid
     """
     def __init__(self, config):
         self.messages = []
