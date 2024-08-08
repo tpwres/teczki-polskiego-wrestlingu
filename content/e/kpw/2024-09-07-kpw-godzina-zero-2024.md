@@ -43,7 +43,7 @@ Card based on social media posts.
   - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - 'Flexos'
-  - ???
+  - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Rosetti](@/w/rosetti.md)'
   - {s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match}
 - - '[Leon Lato](@/w/leon-lato.md)'
@@ -54,6 +54,9 @@ Card based on social media posts.
 - - '[Chemik](@/w/chemik.md)'
   - 'Carlos Zamora'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+- - 'Red Scorpion'
+  - 'Jack Jester'
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
 {% end %}
 
 #### Recap
