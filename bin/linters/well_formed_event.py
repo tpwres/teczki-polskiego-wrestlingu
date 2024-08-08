@@ -74,9 +74,10 @@ def valid_link_target(target):
     else:
         return True
 
+markdown_renderer = MarkdownRenderer()
+
 def rerender_link(link: Link) -> str:
-    # Inefficient: new MarkdownRenderer instance each time
-    return "".join(MarkdownRenderer().render(link)).rstrip()
+    return "".join(markdown_renderer.render(link)).rstrip()
 
 F = FileError
 W = FileWarning
