@@ -248,15 +248,10 @@ class WellFormedEventLinter:
             if not caption:
                 self.error(f"Gallery item {key} is missing caption")
             else:
-                doc = Document(caption)
-                for (link, _linenum) in find_links(doc):
-                    match link:
-                        case Link(target=target) if valid_link_target(target):
-                            pass
-                        case Link():
-                            self.error(
-                                f"Malformed link {rerender_link(link)} in caption of gallery item `{key}`"
-                            )
+                for (link, _linenum) in find_bad_links(caption):
+                    self.error(
+                        f"Malformed link {rerender_link(link)} in caption of gallery item `{key}`"
+                    )
 
 
     def verify_gallery_path_exists(self, path, image_path):
@@ -297,21 +292,25 @@ class WellFormedEventLinter:
         # TODO: line numbers - Card doesn't track them yet
         for num, match in enumerate(card.matches, 1):
             for item in match.line:
-                doc = Document(item)
-                for (link, _linenum) in find_links(doc):
-                    match link:
-                        case Link(target=target) if not valid_link_target(target):
-                            self.error(f"Malformed link `{rerender_link(link)}` in match {num}")
+                for (link, _linenum) in find_bad_links(item):
+                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} participants")
 
+
+            if championship := match.options.get('c'):
+                doc = Document(championship)
+                for (link, _linenum) in find_bad_links(championship):
+                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} championship")
+
+            if notes := match.options.get('n'):
+                text = "".join(notes) if isinstance(notes, list) else notes
+                for link, _linenum in find_bad_links(text):
+                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} notes")
 
     def check_body_links(self, path, text):
         plain_text = strip_blocks(text)
-        doc = Document(plain_text)
 
-        for (link, linenum) in find_links(doc):
-            match link:
-                case {'target': target} if not valid_link_target(target):
-                    self.error(f"Malformed link target ({target}) near line {linenum}")
+        for (link, linenum) in find_bad_links(plain_text):
+            self.error(f"Malformed link `{rerender_link(link)}` near line {linenum}")
 
     def load_taxonomies(self):
         taxonomies = {o['name']: o for o in self.config['taxonomies']}
