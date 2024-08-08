@@ -1,7 +1,7 @@
 from pathlib import Path
 from linters.base import LintError, Doc
 from card import CardParseError
-from utils import extract_front_matter
+from utils import extract_front_matter, strip_blocks
 from page import Page
 from dataclasses import dataclass
 import re
@@ -36,34 +36,6 @@ class FileWarning(LintWarning):
     def supports_auto(self):
         return False
 
-def strip_blocks(text: str) -> str:
-    frontmatter_re = re.compile(r'''
-      ^[+]{3}$ # Frontmatter delimiter: three pluses on a standalone line
-      (?P<frontmatter>(?:.|\n)*) # Frontmatter content
-      ^[+]{3}$ # Another delimiter
-    ''', re.VERBOSE | re.MULTILINE)
-    block_re = r"^\{%\s+(?P<keyword>\w+)\([^)]*\)\s+%\}$(?P<content>(?:\n|.)*)^\{%\s+end\s+%\}$", re.MULTILINE
-    block_re = re.compile(r'''
-      ^\{%\s+                # Opening {% and whitespace
-      (?P<keyword>\w+)       # keyword (usually card)
-      \([^)]*\)              # Open parentheses, any content, closing parentheses
-      \s+                    # Followed by whitespace
-      %\}$                   # Closing %}
-      (?P<content>(?:\n|.)*) # Block content
-      ^\{%\s+                # Opening {% and whitespace
-      end\s+                 # End keyword, whitespace
-      %\}$                   # Closing %}
-    ''', re.VERBOSE | re.MULTILINE)
-    passthrough_keywords = {'timeline'}
-
-    def replace_block(matchobj):
-        if matchobj.group('keyword') in passthrough_keywords:
-            return f"\n{matchobj.group('content')}\n"
-        else:
-            return "\n" * matchobj.group('content').count("\n")
-
-    body = frontmatter_re.sub(lambda matchobj: "\n" * matchobj.group('frontmatter').count("\n"), text)
-    return block_re.sub(replace_block, body)
 
 def find_links(element: dict, line_number:int=0) -> Generator[Tuple[dict, int], None, None]:
     """Walk the AST recursively, yielding any links found."""
