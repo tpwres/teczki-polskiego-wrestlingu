@@ -51,6 +51,14 @@ def find_links(element: SpanToken|BlockToken, line_number:int=0) -> Generator[Tu
             for child in children:
                 yield from find_links(child, line_number)
 
+def find_bad_links(text: str) -> Generator[Tuple[Link, int], None, None]:
+    """Similar to find_links but yields only links with bad targets."""
+    doc = Document(text)
+    for link, linenum in find_links(doc):
+        match link:
+            case Link(target=target) if not valid_link_target(target):
+                yield (link, linenum)
+
 def valid_content_link(content_path):
     """Check if file named by content_path exists"""
     content_root = Path.cwd() / "content"
