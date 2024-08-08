@@ -228,20 +228,20 @@ class WellFormedEventLinter:
                 self.error(f"Gallery item {key} is missing path")
             else:
                 self.verify_gallery_path_exists(path, pp)
-            if not caption:
-                self.error(f"Gallery item {key} is missing caption")
             if not source:
                 self.error(f"Gallery item {key} is missing source annotation")
-
-            doc = Document(caption)
-            for (link, _linenum) in find_links(get_ast(doc)):
-                match link:
-                    case {'target': target} if valid_link_target(target):
-                        pass
-                    case {'target': target, 'title': title}:
-                        self.error(
-                            f"Malformed link target ({target}) in caption of gallery item `{key}`"
-                        )
+            if not caption:
+                self.error(f"Gallery item {key} is missing caption")
+            else:
+                doc = Document(caption)
+                for (link, _linenum) in find_links(get_ast(doc)):
+                    match link:
+                        case {'target': target} if valid_link_target(target):
+                            pass
+                        case {'target': target, 'title': title}:
+                            self.error(
+                                f"Malformed link target ({target}) in caption of gallery item `{key}`"
+                            )
 
 
     def verify_gallery_path_exists(self, path, image_path):
