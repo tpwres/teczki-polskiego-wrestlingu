@@ -17,6 +17,7 @@ known_linters = {
 }
 
 def lookup_linter(name, config) -> object:
+    """Return an instance of linter by name."""
     if name in known_linters:
         return known_linters[name](config=config)
 
@@ -39,7 +40,7 @@ def lint_main(args):
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
     if args.linters:
-        linters_to_run = filter(None, (lookup_linter(name, config) for name in args.linters))
+        linters_to_run = list(filter(None, (lookup_linter(name, config) for name in args.linters)))
     else:
         linters_to_run = [
             lookup_linter('UnlinkedParticipant', config)
@@ -50,6 +51,7 @@ def lint_main(args):
         file_errors: list[LintError] = []
 
         for linter in linters_to_run:
+            linter.reset()
             file_errors.extend(linter.lint(doc))
 
         errors.extend(file_errors)
@@ -57,7 +59,11 @@ def lint_main(args):
     if not errors:
         return True
 
+    success = True
+
     for err in errors:
+        if err.fatal: success = False
+
         print(err.message(cwd))
 
         if not (args.auto or args.auto_dryrun):
@@ -76,7 +82,7 @@ def lint_main(args):
             if fix.apply_changes(err.path):
                 print("Fixed")
 
-    return False
+    return success
 
 def filter_main():
     cwd = Path.cwd()
