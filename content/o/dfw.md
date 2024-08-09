@@ -14,7 +14,7 @@ toclevel = 3
 
 Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015.
 Widely considered to be just another backyard, they nevertheless managed to hold multiple showcases and events in 2016, before fizzling out at the end of 2017.
-DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them later received proper training in places like PAW, but only after DFW dissolved.
+DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
 Dream Factory, unlike other backyards, did not do any sort of ultraviolent matches. They did dabble in hardcore wrestling, as several Street Fight-style matches were held, with kendo sticks, chairs, ladders and Legos.
 
 ### History
@@ -50,6 +50,8 @@ This was obviously an April Fools joke, which did bring some activity back to th
 
 The Facebook page was briefly active again between 2020 and 2021, reminiscing about past events and re-posting videos.
 
+DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) which, as of August 2024, is still available and appears to be functional.
+
 ### Scene relations
 
 DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
@@ -66,5 +68,5 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 
 * [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
-* [DFW's Origin Story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
+* [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)
