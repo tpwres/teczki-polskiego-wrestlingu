@@ -12,32 +12,49 @@ from mistletoe import Document
 from mistletoe.markdown_renderer import MarkdownRenderer
 from mistletoe.block_token import BlockToken
 from mistletoe.span_token import SpanToken, Link
-from typing import Tuple, Generator
+from typing import Tuple, Generator, Optional
 
 @dataclass
 class FileError(LintError):
-    path: Path
+    path: Optional[Path]
     text: str
 
     def message(self, file_root: Path):
-        return f'[{self.path.relative_to(file_root)}] {self.text}'
+        match self.path:
+            case Path():
+                return f'[{self.path.relative_to(file_root)}] Error: {self.text}'
+            case _:
+                return f'[????] Error: {self.text}'
 
+    @property
     def supports_auto(self):
         return False
+
+    @property
+    def fatal(self):
+        return True
 
 class LintWarning(LintError): pass
 
 @dataclass
 class FileWarning(LintWarning):
-    path: Path
+    path: Optional[Path]
     text: str
 
     def message(self, file_root: Path):
-        return f'[{self.path.relative_to(file_root)}] Warning: {self.text}'
+        match self.path:
+            case Path():
+                return f'[{self.path.relative_to(file_root)}] Warning: {self.text}'
+            case _:
+                return f'[????] Warning: {self.text}'
 
+    @property
     def supports_auto(self):
         return False
 
+    @property
+    def fatal(self):
+        return False
 
 def find_links(element: SpanToken|BlockToken, line_number:int=0) -> Generator[Tuple[Link, int], None, None]:
     """Walk the AST recursively, but work on objects and not unpacked dicts from get_ast"""
