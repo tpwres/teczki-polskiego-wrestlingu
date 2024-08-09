@@ -16,13 +16,13 @@ source = "Facebook @OficjalnePPW"
 
 * Nicknames:
   - Polski Lis (_Polish Fox_)
-  - Amisz
+  - Amisz (_Amish_)
 
 ## Professional wrestling career
 
 ### Before 2017: pro wrestling content creator
 
-Appearing simply as "Amisz" (his forum nickname) or under his real name Kuba (a variant of _Jacob_), he began his wrestling-related activies as a journalist, writing articles and discussing the indy wrestling scene abroad.
+Appearing simply as "Amisz" (his forum nickname) or under his real name Kuba (a diminutive of _Jacob_), he began his wrestling-related activies as a journalist, writing articles and discussing the indy wrestling scene abroad.
 He also ran his own YouTube channel called "KGWrestlingPodcast", where he also covered similar topics (most notably Pro Wrestling Guerilla).
 
 ### 2017: DFW debut and training
@@ -60,7 +60,7 @@ During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made
 Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
 They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md).
 
-Shortly after the show, PpW announced that Axel Fox will become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
+Shortly after the show, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
 
 ## Championships and accomplishments
 
