@@ -50,7 +50,7 @@ This was obviously an April Fools joke, which did bring some activity back to th
 
 The Facebook page was briefly active again between 2020 and 2021, reminiscing about past events and re-posting videos.
 
-DFW also had an [online shop](https://dreamfactorywrestling.cupsell.pl/) which is still available and appears to be functional.
+DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) which, as of August 2024, is still available and appears to be functional.
 
 ### Scene relations
 
