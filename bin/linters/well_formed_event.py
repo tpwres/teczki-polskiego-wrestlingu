@@ -76,15 +76,17 @@ def find_bad_links(text: str) -> Generator[Tuple[Link, int], None, None]:
             case Link(target=target) if not valid_link_target(target):
                 yield (link, linenum)
 
-def valid_content_link(content_path):
+def valid_content_link(content_path: str|Path) -> bool:
     """Check if file named by content_path exists"""
     content_root = Path.cwd() / "content"
     target = content_root / content_path
 
     return target.exists()
 
-def valid_link_target(target):
+def valid_link_target(target: str) -> bool:
+    """Basic link validation. For internal links, checks if target exists."""
     if target.startswith('@/'):
+        target, hash, fragment = target.partition('#')
         return valid_content_link(target[2:])
     elif target.startswith('http://'):
         return False # Outgoing links must be https
@@ -94,6 +96,7 @@ def valid_link_target(target):
 markdown_renderer = MarkdownRenderer()
 
 def rerender_link(link: Link) -> str:
+    """Converts a Link back into markdown."""
     return "".join(markdown_renderer.render(link)).rstrip()
 
 F = FileError
@@ -128,6 +131,10 @@ class WellFormedEventLinter:
         self.messages = []
         self.config = config
         self.load_taxonomies()
+
+    def reset(self):
+        self.target_path = None
+        self.messages = []
 
     def lint(self, document: Doc):
         path = document.pathname()
@@ -310,20 +317,21 @@ class WellFormedEventLinter:
             self.warning("Credits section missing in card")
 
         # TODO: line numbers - Card doesn't track them yet
-        for num, match in enumerate(card.matches, 1):
-            for item in match.line:
-                for (link, _linenum) in find_bad_links(item):
+        for num, mm in enumerate(card.matches, 1):
+            for item in mm.line:
+                # Line contains both participants and options
+                if not isinstance(item, str): continue
+                for link, _ in find_bad_links(item):
                     self.error(f"Malformed link `{rerender_link(link)}` in match {num} participants")
 
-
-            if championship := match.options.get('c'):
+            if championship := mm.options.get('c'):
                 doc = Document(championship)
-                for (link, _linenum) in find_bad_links(championship):
+                for link, _ in find_bad_links(championship):
                     self.error(f"Malformed link `{rerender_link(link)}` in match {num} championship")
 
-            if notes := match.options.get('n'):
+            if notes := mm.options.get('n'):
                 text = "".join(notes) if isinstance(notes, list) else notes
-                for link, _linenum in find_bad_links(text):
+                for link, _ in find_bad_links(text):
                     self.error(f"Malformed link `{rerender_link(link)}` in match {num} notes")
 
     def check_body_links(self, path, text):
