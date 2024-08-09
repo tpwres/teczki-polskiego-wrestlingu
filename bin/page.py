@@ -30,14 +30,13 @@ class Page:
             raise ValueError(f"Page `{self.path}` did not start with frontmatter delimiter `+++`")
 
         matter = []
-        line = io.readline()
         while True:
-            matter.append(line)
             line = io.readline()
             if not line: # readline returns empty str, not even a single "\n" at eof
                 raise ValueError(f"Front matter block closing delimiter not found in `{self.path}`")
             elif line.strip() == '+++':
                 break
+            matter.append(line)
 
         fm = tomllib.loads("\n".join(matter))
         return (fm, io.read())

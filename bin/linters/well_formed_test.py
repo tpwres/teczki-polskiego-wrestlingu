@@ -16,7 +16,7 @@ def config_toml():
 
 @pytest.fixture
 def valid_header():
-    return dedent('''
+    return dedent(''' \
         +++
         title = "Event Name"
         template = "event_page.html"
@@ -161,7 +161,7 @@ def test_missing_frontmatter(tmp_path, config_toml):
 def test_empty_frontmatter(tmp_path, config_toml):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
-        fp.write('+++\n+++')
+        fp.write('+++\n+++\n')
 
     linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
@@ -169,7 +169,6 @@ def test_empty_frontmatter(tmp_path, config_toml):
     messages = linter.lint(doc)
     refute_exact_message(messages, "Could not find proper front matter block surrounded by `+++`")
     assert_exact_message(messages, "Front matter block is empty")
-    assert_exact_message(messages, "Missing required key 'title'")
 
 def test_bad_toml_frontmatter(tmp_path, config_toml):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
@@ -346,7 +345,7 @@ def test_unclosed_card(tmp_path, config_toml, valid_header):
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
-    assert_exact_message(messages, "Malformed card, did not parse valid matches")
+    assert_exact_message(messages, "Malformed card, did not parse valid matches. Could not find card end marker {% end %}")
     refute_exact_message(messages, "Card marked as skipped")
 
 def test_malformed_card(tmp_path, config_toml, valid_header):
@@ -383,7 +382,7 @@ def test_no_credits(tmp_path, config_toml, valid_header):
     refute_exact_message(messages, "Card marked as skipped")
     refute_exact_message(messages, "Malformed card, did not parse valid matches")
     assert_exact_message(messages, "Credits section missing in card")
-    assert_exact_message(messages, "Malformed link `[Undertaker](@/w/undertaker.md)` in match 1 participants")
+    assert_exact_message(messages, "Malformed link `[Undertaker](@/w/undertaker.md)` in match 1 participants. File `w/undertaker.md` not found")
 
 
 def test_card_checks_links_in_c_and_n(tmp_path, config_toml, valid_header):
@@ -403,9 +402,9 @@ def test_card_checks_links_in_c_and_n(tmp_path, config_toml, valid_header):
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
-    assert_exact_message(messages, "Malformed link `[Undertaker](@/w/undertaker.md)` in match 1 participants")
-    assert_exact_message(messages, "Malformed link `[NWA Championship](@/c/nwa-championship.md)` in match 1 championship")
-    assert_exact_message(messages, "Malformed link `[Paul Bearer](@/w/paul-bearer.md)` in match 1 notes")
+    assert_exact_message(messages, "Malformed link `[Undertaker](@/w/undertaker.md)` in match 1 participants. File `w/undertaker.md` not found")
+    assert_exact_message(messages, "Malformed link `[NWA Championship](@/c/nwa-championship.md)` in match 1 championship. File `c/nwa-championship.md` not found")
+    assert_exact_message(messages, "Malformed link `[Paul Bearer](@/w/paul-bearer.md)` in match 1 notes. File `w/paul-bearer.md` not found")
 
 def test_malformed_links_below_and_above_card(tmp_path, config_toml, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
@@ -425,5 +424,5 @@ def test_malformed_links_below_and_above_card(tmp_path, config_toml, valid_heade
 
     messages = linter.lint(doc)
     # Line offsets must include valid_header
-    assert_exact_message(messages, "Malformed link `[DDP](@/w/ddp.md)` near line 7")
-    assert_exact_message(messages, "Malformed link `[NWA](@/o/nwa.md)` near line 12")
+    assert_exact_message(messages, "Malformed link `[DDP](@/w/ddp.md)` near line 6. File `w/ddp.md` not found")
+    assert_exact_message(messages, "Malformed link `[NWA](@/o/nwa.md)` near line 11. File `o/nwa.md` not found")

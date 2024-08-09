@@ -68,13 +68,13 @@ def find_links(element: SpanToken|BlockToken, line_number:int=0) -> Generator[Tu
             for child in children:
                 yield from find_links(child, line_number)
 
-def find_bad_links(text: str) -> Generator[Tuple[Link, int], None, None]:
+def find_bad_links(text: str) -> Generator[Tuple[Link, int, str], None, None]:
     """Similar to find_links but yields only links with bad targets."""
     doc = Document(text)
     for link, linenum in find_links(doc):
         match link:
             case Link(target=target) if not valid_link_target(target):
-                yield (link, linenum)
+                yield (link, linenum, bad_link_reason(target))
 
 def valid_content_link(content_path: str|Path) -> bool:
     """Check if file named by content_path exists"""
@@ -92,6 +92,16 @@ def valid_link_target(target: str) -> bool:
         return False # Outgoing links must be https
     else:
         return True
+
+def bad_link_reason(target: str) -> str:
+    """Basic link validation. For internal links, checks if target exists."""
+    if target.startswith('@/'):
+        target, _, _= target.partition('#')
+        return f"File `{target[2:]}` not found"
+    elif target.startswith('http://'):
+        return "Insecure http links not allowed"
+    else:
+        return 'OK'
 
 markdown_renderer = MarkdownRenderer()
 
@@ -275,9 +285,9 @@ class WellFormedEventLinter(Linter):
             if not caption:
                 self.error(f"Gallery item {key} is missing caption")
             else:
-                for (link, _linenum) in find_bad_links(caption):
+                for link, _, reason in find_bad_links(caption):
                     self.error(
-                        f"Malformed link {rerender_link(link)} in caption of gallery item `{key}`"
+                        f"Malformed link {rerender_link(link)} in caption of gallery item `{key}`. {reason}"
                     )
 
 
@@ -303,8 +313,8 @@ class WellFormedEventLinter(Linter):
         except KeyError as e:
             self.error(f"Missing required key {e}")
             return
-        except ValueError:
-            self.error(f"Malformed card, did not parse valid matches")
+        except ValueError as e:
+            self.error(f"Malformed card, did not parse valid matches. {e}")
             return
 
         card = page.card
@@ -321,24 +331,24 @@ class WellFormedEventLinter(Linter):
             for item in mm.line:
                 # Line contains both participants and options
                 if not isinstance(item, str): continue
-                for link, _ in find_bad_links(item):
-                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} participants")
+                for link, _, reason in find_bad_links(item):
+                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} participants. {reason}")
 
             if championship := mm.options.get('c'):
                 doc = Document(championship)
-                for link, _ in find_bad_links(championship):
-                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} championship")
+                for link, _, reason in find_bad_links(championship):
+                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} championship. {reason}")
 
             if notes := mm.options.get('n'):
                 text = "".join(notes) if isinstance(notes, list) else notes
-                for link, _ in find_bad_links(text):
-                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} notes")
+                for link, _, reason in find_bad_links(text):
+                    self.error(f"Malformed link `{rerender_link(link)}` in match {num} notes. {reason}")
 
     def check_body_links(self, path, text):
         plain_text = strip_blocks(text)
 
-        for (link, linenum) in find_bad_links(plain_text):
-            self.error(f"Malformed link `{rerender_link(link)}` near line {linenum}")
+        for link, linenum, reason in find_bad_links(plain_text):
+            self.error(f"Malformed link `{rerender_link(link)}` near line {linenum}. {reason}")
 
     def load_taxonomies(self):
         taxonomies = {o['name']: o for o in self.config['taxonomies']}
