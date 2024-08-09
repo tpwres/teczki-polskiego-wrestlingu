@@ -50,6 +50,8 @@ This was obviously an April Fools joke, which did bring some activity back to th
 
 The Facebook page was briefly active again between 2020 and 2021, reminiscing about past events and re-posting videos.
 
+DFW also had an [online shop](https://dreamfactorywrestling.cupsell.pl/) which is still available and appears to be functional.
+
 ### Scene relations
 
 DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
