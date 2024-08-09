@@ -1,7 +1,6 @@
 +++
 title = "David Oliwa"
 template = "talent_page.html"
-aliases = ["/w/dawid-oliwa"]
 authors = ["M3n747"]
 [taxonomies]
 country = ["PL"]
