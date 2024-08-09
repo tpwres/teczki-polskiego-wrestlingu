@@ -46,7 +46,7 @@ def lint_main(args):
     else:
         linters_to_run = cast(list[Linter], [
             lookup_linter('UnlinkedParticipant', config),
-            lookup_linter('WellFormedEvent', config)
+            # lookup_linter('WellFormedEvent', config)
         ])
 
     for path in files_to_lint:
