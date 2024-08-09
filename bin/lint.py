@@ -7,7 +7,6 @@ from itertools import chain
 from sys import exit
 from linters.base import LintError, FileBackedDoc, StreamDoc
 from linters.unlinked_participant import UnlinkedParticipantLinter
-from linters.missing_card import MissingCardLinter
 from linters.unlinked_name import UnlinkedNameLinter
 from linters.unlinked_event import UnlinkedEventLinter
 from linters.well_formed_event import WellFormedEventLinter
@@ -15,7 +14,6 @@ from linters.well_formed_event import WellFormedEventLinter
 known_linters = {
     'WellFormedEvent': WellFormedEventLinter,
     'UnlinkedParticipant': UnlinkedParticipantLinter,
-    'MissingCard': MissingCardLinter, # To be replaced by WFE
 }
 
 def lookup_linter(name, config) -> object:
@@ -44,7 +42,6 @@ def lint_main(args):
         linters_to_run = filter(None, (lookup_linter(name, config) for name in args.linters))
     else:
         linters_to_run = [
-            lookup_linter('MissingCard', config),
             lookup_linter('UnlinkedParticipant', config)
         ]
 
