@@ -66,7 +66,7 @@ def lint_main(args):
         if not (args.auto or args.auto_dryrun):
             continue
 
-        if not err.supports_auto():
+        if not err.supports_auto:
             continue
 
         with err.path.open('r+') as fp:

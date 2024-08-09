@@ -5,8 +5,13 @@ from io import TextIOBase, StringIO
 import sys
 
 class LintError:
-    def supports_auto(self):
-        return False
+    @property
+    def fatal(self) -> bool:
+        raise NotImplementedError
+
+    @property
+    def supports_auto(self) -> bool:
+        raise NotImplementedError
 
     def message(self, file_root: Path) -> str:
         return "LintError(???)"
