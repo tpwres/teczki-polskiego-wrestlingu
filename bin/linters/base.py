@@ -1,7 +1,8 @@
 from abc import abstractmethod
 from pathlib import Path
-from contextlib import AbstractContextManager, contextmanager
+from contextlib import AbstractContextManager, contextmanager, closing
 from io import TextIOBase, StringIO
+from typing import IO
 import sys
 
 class LintError:
@@ -31,15 +32,15 @@ class Doc:
 
     # Like Path.open. Must return a context mgr which yields an IO object.
     @abstractmethod
-    def open(self, mode='r') -> AbstractContextManager[TextIOBase]: pass
+    def open(self, mode='r') -> AbstractContextManager[IO]: pass
 
     # Like PurePath.match
     @abstractmethod
-    def match(self, name) -> bool: pass
+    def match(self, pattern) -> bool: pass
 
     # Like Path.relative_to
     @abstractmethod
-    def relative_to(self, other) -> str: pass
+    def relative_to(self, other) -> Path: pass
 
     @abstractmethod
     def pathname(self) -> Path: pass
@@ -49,7 +50,7 @@ class FileBackedDoc(Doc):
         self.path = path
 
     def open(self, mode='r'):
-        return self.path.open(mode)
+        return closing(self.path.open(mode))
 
     def match(self, pattern):
         return self.path.match(pattern)
@@ -79,9 +80,17 @@ class StreamDoc(Doc):
     def match(self, pattern):
         return False
 
-    def relative_to(self, pattern):
-        return '<stdin>'
+    def relative_to(self, other):
+        return Path('<stdin>')
 
     def pathname(self):
         return Path('-')
 
+class Linter:
+    def reset(self):
+        """Reset state before parsing a new file"""
+        pass
+
+    @abstractmethod
+    def lint(self, document: Doc) -> list[LintError]:
+        pass

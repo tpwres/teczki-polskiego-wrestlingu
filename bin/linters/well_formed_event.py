@@ -1,8 +1,8 @@
 from pathlib import Path
-from linters.base import LintError, Doc
+from linters.base import LintError, Doc, Linter
 from card import CardParseError
 from utils import extract_front_matter, strip_blocks
-from page import Page
+from page import EventPage
 from dataclasses import dataclass
 import re
 import datetime
@@ -102,7 +102,7 @@ def rerender_link(link: Link) -> str:
 F = FileError
 W = FileWarning
 
-class WellFormedEventLinter:
+class WellFormedEventLinter(Linter):
     """
     A well formed event file has:
     ✅ filename matching proscribed pattern: yyyy-mm-dd-orgs-event-name.md
@@ -291,7 +291,7 @@ class WellFormedEventLinter:
             return
 
         try:
-            page = Page(path, verbose=False)
+            page = EventPage(path, verbose=False)
         except yaml.scanner.ScannerError as e:
             # TODO: These errors show very wrong line numbers
             # Aren't these swallowed into CPEs below?

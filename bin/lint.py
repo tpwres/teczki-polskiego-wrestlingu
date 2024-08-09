@@ -4,8 +4,9 @@ import tomllib
 from pathlib import Path
 from argparse import ArgumentParser
 from itertools import chain
+from typing import Optional, cast
 from sys import exit
-from linters.base import LintError, FileBackedDoc, StreamDoc
+from linters.base import LintError, FileBackedDoc, StreamDoc, Linter
 from linters.unlinked_participant import UnlinkedParticipantLinter
 from linters.unlinked_name import UnlinkedNameLinter
 from linters.unlinked_event import UnlinkedEventLinter
@@ -16,7 +17,7 @@ known_linters = {
     'UnlinkedParticipant': UnlinkedParticipantLinter,
 }
 
-def lookup_linter(name, config) -> object:
+def lookup_linter(name, config) -> Optional[Linter]:
     """Return an instance of linter by name."""
     if name in known_linters:
         return known_linters[name](config=config)
@@ -39,12 +40,14 @@ def lint_main(args):
     else:
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
+    linters_to_run: list[Linter]
     if args.linters:
         linters_to_run = list(filter(None, (lookup_linter(name, config) for name in args.linters)))
     else:
-        linters_to_run = [
-            lookup_linter('UnlinkedParticipant', config)
-        ]
+        linters_to_run = cast(list[Linter], [
+            lookup_linter('UnlinkedParticipant', config),
+            lookup_linter('WellFormedEvent', config)
+        ])
 
     for path in files_to_lint:
         doc = FileBackedDoc(path)

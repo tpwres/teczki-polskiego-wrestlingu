@@ -1,8 +1,8 @@
 import re
-from typing import Iterable, Optional
+from typing import Iterable, Optional, override
 from pathlib import Path
 from dataclasses import dataclass
-from .base import LintError, Changeset, Doc
+from .base import LintError, Changeset, Doc, Linter
 from card import Card, Match
 from articles import load_existing_name_articles
 from rewriter import Rewriter, UpdateMatch
@@ -36,6 +36,7 @@ class UnlinkedParticipantError(LintError):
     def message(self, file_root: Path):
         return "[{}] {}".format(self.path.relative_to(file_root), self)
 
+    @property
     def supports_auto(self):
         return True
 
@@ -59,19 +60,22 @@ class UnlinkedParticipantError(LintError):
        return re.compile(f"{boundary if head_alpha else ''}{escaped}{boundary if tail_alpha else ''}")
 
 
-class UnlinkedParticipantLinter:
+class UnlinkedParticipantLinter(Linter):
     def __init__(self, config):
         self.names_with_articles = load_existing_name_articles()
 
-    def lint(self, path: Path):
-        with path.open('r') as fp:
-            card = Card(fp, path)
+    @override
+    def lint(self, document: Doc):
+        pathname = document.pathname()
+
+        with document.open('r') as fp:
+            card = Card(fp, pathname)
             if not card.matches:
                 return []
 
-            return self.analyze_matches(card.matches, path)
+            return self.analyze_matches(card.matches, document)
 
-    def analyze_matches(self, matches: Iterable[Match], path: Path) -> list[LintError]:
+    def analyze_matches(self, matches: Iterable[Match], doc: Doc) -> list[LintError]:
         errors = []
         for m in matches:
             participants = list(m.all_names())
@@ -82,6 +86,6 @@ class UnlinkedParticipantLinter:
                 if not article: continue
 
                 link = "[{}](@/w/{})".format(up.name, article.name)
-                errors.append(UnlinkedParticipantError(path, m.index, up.name, link))
+                errors.append(UnlinkedParticipantError(doc, m.index, up.name, link))
 
         return errors
