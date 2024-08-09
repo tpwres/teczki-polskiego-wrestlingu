@@ -47,7 +47,7 @@ class UnlinkedNameError(LintError):
 
 
 class UnlinkedNameLinter:
-    def __init__(self):
+    def __init__(self, config):
         self.names_with_articles = load_existing_name_articles()
         all_names = sorted(self.names_with_articles.keys(), key=len, reverse=True)
         name_union = '|'.join(re.escape(name) for name in all_names)

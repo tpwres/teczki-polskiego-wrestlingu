@@ -2,3 +2,4 @@ pyyaml
 matplotlib
 python-dateutil
 icalendar
+mistletoe

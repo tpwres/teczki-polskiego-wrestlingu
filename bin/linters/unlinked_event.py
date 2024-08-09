@@ -37,7 +37,7 @@ class UnlinkedEventError(LintError):
         return ReplaceEventTitleWithLink(self.line_num, self.start_col, self.title, self.link)
 
 class UnlinkedEventLinter:
-    def __init__(self):
+    def __init__(self, config):
         self.all_events = load_event_articles()
         event_titles = sorted(self.all_events.keys(), key=len, reverse=True)
         titles_union = '|'.join(re.escape(title) for title in event_titles)

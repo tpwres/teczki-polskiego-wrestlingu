@@ -1,14 +1,25 @@
 #! /usr/bin/env python3
 
+import tomllib
 from pathlib import Path
 from argparse import ArgumentParser
 from itertools import chain
 from sys import exit
 from linters.base import LintError, FileBackedDoc, StreamDoc
 from linters.unlinked_participant import UnlinkedParticipantLinter
-from linters.missing_card import MissingCardLinter
 from linters.unlinked_name import UnlinkedNameLinter
 from linters.unlinked_event import UnlinkedEventLinter
+from linters.well_formed_event import WellFormedEventLinter
+
+known_linters = {
+    'WellFormedEvent': WellFormedEventLinter,
+    'UnlinkedParticipant': UnlinkedParticipantLinter,
+}
+
+def lookup_linter(name, config) -> object:
+    """Return an instance of linter by name."""
+    if name in known_linters:
+        return known_linters[name](config=config)
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -20,21 +31,27 @@ def lint_main(args):
     errors = []
     cwd = Path.cwd()
 
+    config_file = (cwd / 'config.toml')
+    config = tomllib.load(config_file.open('rb'))
+
     if args.event_files:
         files_to_lint = chain.from_iterable(maybe_expand_dir(Path(f)) for f in args.event_files)
     else:
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
-    linters_to_run = [
-        MissingCardLinter(),
-        UnlinkedParticipantLinter(),
-    ]
+    if args.linters:
+        linters_to_run = list(filter(None, (lookup_linter(name, config) for name in args.linters)))
+    else:
+        linters_to_run = [
+            lookup_linter('UnlinkedParticipant', config)
+        ]
 
     for path in files_to_lint:
         doc = FileBackedDoc(path)
         file_errors: list[LintError] = []
 
         for linter in linters_to_run:
+            linter.reset()
             file_errors.extend(linter.lint(doc))
 
         errors.extend(file_errors)
@@ -42,13 +59,17 @@ def lint_main(args):
     if not errors:
         return True
 
+    success = True
+
     for err in errors:
+        if err.fatal: success = False
+
         print(err.message(cwd))
 
         if not (args.auto or args.auto_dryrun):
             continue
 
-        if not err.supports_auto():
+        if not err.supports_auto:
             continue
 
         with err.path.open('r+') as fp:
@@ -61,13 +82,18 @@ def lint_main(args):
             if fix.apply_changes(err.path):
                 print("Fixed")
 
-    return False
+    return success
 
 def filter_main():
+    cwd = Path.cwd()
+
+    config_file = (cwd / 'config.toml')
+    config = tomllib.load(config_file.open('rb'))
+
     linters_to_run = [
-        UnlinkedParticipantLinter(),
-        UnlinkedNameLinter(),
-        UnlinkedEventLinter()
+        UnlinkedParticipantLinter(config),
+        UnlinkedNameLinter(config),
+        UnlinkedEventLinter(config)
     ]
     errors = []
 
@@ -102,6 +128,7 @@ def build_argparser():
     parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
     parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
     parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
+    parser.add_argument('-L', metavar='LINTER', action='extend', dest='linters', nargs='+', help='Use the specified linters')
     return parser
 
 if __name__ == "__main__":

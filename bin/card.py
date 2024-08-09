@@ -261,6 +261,10 @@ class Card:
             self.end_offset = card_end
             with self.handle_yaml_errors(extracted_card, path):
                 content = list(self.parse_card(card_text))
+
+            if not content:
+                raise ValueError("Failed to find valid matches")
+
             if isinstance(content[-1], Crew):
                 self.crew = cast(Crew, content.pop())
             else:
