@@ -65,6 +65,10 @@ class UnlinkedParticipantLinter(Linter):
         self.names_with_articles = load_existing_name_articles()
 
     @override
+    def reset(self):
+        pass
+
+    @override
     def lint(self, document: Doc):
         pathname = document.pathname()
 
