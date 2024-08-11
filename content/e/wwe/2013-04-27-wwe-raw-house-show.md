@@ -6,7 +6,7 @@ authors = ["M3n747"]
 chronology = ["international", "wwe"]
 venue = ["atlas-arena"]
 [extra]
-city = "Łódź"
+city = ["Łódź"]
 [extra.gallery]
 1 = { path = "2013-04-27-wwe-raw-house-show.jpg", caption = "WWE in Łódź", source = "MyWrestling.com.pl" }
 +++
