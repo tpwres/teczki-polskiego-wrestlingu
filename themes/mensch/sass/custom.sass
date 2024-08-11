@@ -107,8 +107,11 @@ h1.title-with-flag
 h1:not(.title)
   color: var(--dark-green)
   display: flex
+  flex-wrap: wrap
   align-items: flex-start
   text-align: left
+  margin-top: 1rem
+
   &:after
     content: ''
     flex-grow: 1
@@ -117,6 +120,11 @@ h1:not(.title)
     min-width: 2rem
     margin: auto
     margin-left: 1rem
+
+  time
+    font-size: 2rem
+    flex-basis: 100%
+    text-align: right
 
 h1:not(.title)
     color: var(--dark-red)
