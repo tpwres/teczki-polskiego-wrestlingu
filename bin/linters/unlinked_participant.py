@@ -61,7 +61,7 @@ class UnlinkedParticipantError(LintError):
 
 
 class UnlinkedParticipantLinter(Linter):
-    def __init__(self, config):
+    def __init__(self, config, linter_options = {}):
         self.names_with_articles = load_existing_name_articles()
 
     @override
