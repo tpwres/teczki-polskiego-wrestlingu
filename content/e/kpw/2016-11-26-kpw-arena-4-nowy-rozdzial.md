@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue = ["hallera 16"]
+[extra]
+city = "Gdańsk"
 [extra.gallery]
 1 = { path = "2016-11-26-kpw-arena-4-nowy-rozdzial-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

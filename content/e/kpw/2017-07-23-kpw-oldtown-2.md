@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 venue = ["airport-kluczewo"]
 chronology = ["kpw"]
+[extra]
+city = "Stargard"
 [extra.gallery]
 1 = { path = "2017-07-23-kpw-oldtown-2-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2019-04-05-kpw-arena-13-capo-di-tutti-capi-plakat.jpg", caption = "Official poster, with [Piękny Kawaler](@/w/piekny-kawaler.md) and [Robert Star](@/w/robert-star.md) dressed like gangsters.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

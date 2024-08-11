@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2017-11-18-kpw-arena-8-droga-bez-powrotu-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

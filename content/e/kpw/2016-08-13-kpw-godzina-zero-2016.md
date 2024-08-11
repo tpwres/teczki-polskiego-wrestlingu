@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2016-08-13-kpw-godzina-zero-2016-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

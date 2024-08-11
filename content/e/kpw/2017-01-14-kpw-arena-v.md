@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["atlantic-nh-gdynia"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2017-01-14-kpw-arena-v-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

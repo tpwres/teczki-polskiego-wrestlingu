@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2018-05-26-kpw-arena-x-kawaleria-vs-sojusz-plakat.jpg", caption = "Official poster, with [Piękny Kawaler](@/w/piekny-kawaler.md) and [Robert Star](@/w/robert-star.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

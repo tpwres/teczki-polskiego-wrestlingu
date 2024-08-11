@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2019-01-19-kpw-arena-12-gwiazda-polnocy-plakat.jpg", caption = "Official poster, showing [Peter Pannache](@/w/peter-pannache.md) and [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

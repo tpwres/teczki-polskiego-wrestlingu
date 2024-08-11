@@ -5,6 +5,8 @@ aliases = ["/e/2022-06-10-kpw-arena-19-oko-za-oko"]
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["atlantic-nh-gdynia"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2022-06-10-kpw-arena-19-oko-za-oko-plakat.jpg", caption = "Official poster, with [David Oliwa](@/w/david-oliwa.md) lifting Gianni Valletta, with [Chemik](@/w/chemik.md)'s face in the background.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

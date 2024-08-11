@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2018-11-03-kpw-arena-11-podwojne-zagrozenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
@@ -38,6 +40,7 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
     [Boski Ostrowski](@/w/ostrowski.md)", {c: "KPW Tag Team Championship", s: "Tournament
       Final Tag Team Match"}]
 - credits:
+    Referee: 'Dariusz Łępicki'
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 

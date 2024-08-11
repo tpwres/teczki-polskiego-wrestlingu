@@ -5,6 +5,8 @@ aliases = ["/e/2024-02-16-kpw-arena-24-zagrozenie-lawinowe"]
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["atlantic-nh-gdynia"]
+[extra]
+city = "Gdynia"
 [extra.gallery.1]
 path = "2024-02-16-kpw-arena-24-zagrozenie-lawinowe-plakat.jpg"
 caption = "Official poster, with a big Robert Dreissker, and standing next to the mountain, the teams of [Filip](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md), versus [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md)."

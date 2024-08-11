@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2021-08-21-kpw-arena-17-odrodzenie-plakat.jpg", caption = "Official poster, featuring Michael Kovac.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
