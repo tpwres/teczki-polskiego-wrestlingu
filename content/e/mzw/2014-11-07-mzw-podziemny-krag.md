@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["legnica"]
+[extra]
+city = "Legnica"
 +++
 
 

@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["ostrowskiego-wroclaw"]
+[extra]
+city = "Wrocław"
 +++
 
 Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.

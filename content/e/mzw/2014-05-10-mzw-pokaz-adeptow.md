@@ -3,7 +3,9 @@ title = "MZW Pokaz Adeptów"
 template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
-venue = ["smolec"]
+venue = ["niedzwiedzica"]
+[extra]
+city = "Niedźwiedzica"
 [extra.gallery]
 1 = { path = "plakat.webp", caption = "Show poster." }
 2 = { path = "host-referee-photo.jpg", caption = "Show host Filip Cieśliński and referee Matt2Hot", source = "Facebook @ManiacZoneWrestling"}

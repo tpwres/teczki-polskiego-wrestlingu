@@ -5,6 +5,8 @@ aliases = ["/e/mzw/2015-09-05-mzw-untitled"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["opawa"]
+[extra]
+city = "Opawa"
 +++
 
 This event was a sideshow accompanying III Bieg WOP-isty (a cross-country half-marathon event), held in Opawa, a small village near Lubawka, close to the Polish-Czech border.

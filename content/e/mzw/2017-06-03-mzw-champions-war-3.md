@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
+[extra]
+city = "Głuchołazy"
 [extra.gallery.1]
 path = "plakat.webp"
 caption = "Show poster, showing the team of Storm Riders: [Red Thunder](@/w/red-thunder.md) and Blue Thunder, with [Shadow](@/w/shadow.md) in the middle, and [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) belts above."

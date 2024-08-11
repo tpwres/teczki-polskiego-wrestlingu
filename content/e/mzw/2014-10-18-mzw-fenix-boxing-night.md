@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["mzw"]
 venue = ["fenix-gniezno"]
 [extra]
+city = "Gniezno"
 hide_results = true
 +++
 
