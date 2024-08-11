@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ddw"]
 venue = ["gimnazjum-8-gdansk"]
+[extra]
+city = "Gdańsk"
 [extra.gallery]
 1 = { path = "2015-03-14-ddw-house-show-1-plakat.jpg", caption = "Official poster", source = "DDW Facebook" }
 2 = { path = "2015-03-14-ddw-house-show-1-mira-vs-kasandra-drawing.jpg", caption = "A young fan's drawing of Mira vs Kasandra", source = "DDW Facebook" }

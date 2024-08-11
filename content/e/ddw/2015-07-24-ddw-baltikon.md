@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["ddw"]
 venue = ["zs1-sopot"]
 [extra]
+city = "Sopot"
 hide_results = true
 [extra.gallery]
 1 = { path = "baltikon-pawlowski.jpg", caption = "[Pan Pawłowski](@/w/pan-pawlowski.md) with his signature entrance", source = "Facebook Baltikon / Tarakum Photo" }
