@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["ddw"]
 venue = ["gosir-katy-wroclawskie"]
 [extra]
+city = "Kąty Wrocławskie"
 +++
 
 {% card() %}
