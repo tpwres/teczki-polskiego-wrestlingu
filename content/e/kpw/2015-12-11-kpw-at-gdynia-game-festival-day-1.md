@@ -24,7 +24,7 @@ and [Day 3](@/e/kpw/2015-12-13-kpw-at-gdynia-game-festival-day-3.md).
 
 ### References
 
-* [KPW's event page](http://kpwrestling.pl/events/kpw-gdynia-game-festival/)
+* [KPW's event page](https://kpwrestling.pl/events/kpw-gdynia-game-festival/)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153080)
 * [Facebook event page](https://www.facebook.com/events/668141453330240/)
 * [Announcement by KomputerŚwiat](https://www.komputerswiat.pl/aktualnosci/wydarzenia/zapraszamy-na-gdynia-game-festival/41bqekl)

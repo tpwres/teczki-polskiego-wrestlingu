@@ -2,7 +2,7 @@
 title = "PpW Piwo Przyjacielem Wrestlingu"
 template = "event_page.html"
 [taxonomies]
-chronology = ["ppw","targi-poznan"]
+chronology = ["ppw"]
 venue = ["targi-poznan"]
 [extra]
 hide_results = true

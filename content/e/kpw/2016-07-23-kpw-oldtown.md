@@ -6,7 +6,7 @@ chronology = ["kpw"]
 venue = ["airport-kluczewo"]
 +++
 
-[OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the event and community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023.
+[OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 The event's name is derived from the town of Stargard, which literally translates as Old Town.
 
 KPW held a wrestling exhibition during the event on the penultimate day. Wrestling fits the post-apocalyptic theme of OldTown, however no special storylines were devised for the show. KPW would return to following editions of OldTown until 2019.
@@ -40,7 +40,7 @@ Attendance: estimated 200.
 
 * [Teaser video by KPW](https://www.youtube.com/watch?v=JS6Q792lg7M)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=77904)
-* [KPW's event page](http://kpwrestling.pl/events/kpw-oldtown/)
+* [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown/)
 * [Kombat TV Episode 7](https://www.youtube.com/watch?v=FlDqS77ltZQ), includes fragments of matches
 
 [oldtown]: https://oldtownfestival.net/

@@ -20,4 +20,4 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
 * [YouTube livestream of Ale Grzeje](https://www.youtube.com/watch?v=UEQkSKMekCs&t=14480s&ab_channel=PpWEwenementWrestling), at the 4:01:18 mark Michael announces the next date.
 * [Facebook post announcing the new date](https://www.facebook.com/share/p/Gh8cCdYZaMrbfqy4/)
 
-[hf-wiki]: http://ppw-fandom.tpwres.pl/hardcore-friday
+[hf-wiki]: https://ppw-fandom.tpwres.pl/hardcore-friday

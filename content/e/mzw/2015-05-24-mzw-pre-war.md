@@ -5,7 +5,7 @@ template = "event_page.html"
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra.gallery]
-1 = { path = "plakat.webp" }
+1 = { path = "plakat.webp", caption = "Official poster", source = "?" }
 +++
 
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=153090)

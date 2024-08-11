@@ -6,8 +6,8 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra.gallery.1]
 path = "plakat.webp"
-description = "Show poster. Wrestlers pictured are: [Justin Joy](@/w/justin-joy.md), Laurance Roman, [Shadow](@/w/shadow.md), [Hexia](@/w/hexia.md), [Asmund](@/w/asmund.md) and [Rick Baxxter](@/w/rick-baxxter.md)."
-source = "MZW's Facebook page"
+caption = "Show poster. Wrestlers pictured are: [Justin Joy](@/w/justin-joy.md), Laurance Roman, [Shadow](@/w/shadow.md), [Hexia](@/w/hexia.md), [Asmund](@/w/asmund.md) and [Rick Baxxter](@/w/rick-baxxter.md)."
+source = "Facebook @ManiacZoneWrestling"
 +++
 
 Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:

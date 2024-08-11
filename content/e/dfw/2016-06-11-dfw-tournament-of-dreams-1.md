@@ -5,7 +5,7 @@ authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
 [extra.gallery]
-1 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions."}
+1 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions.", source = "Facebook @DreamFactoryWrestling"}
 +++
 
 The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/dfw.md) champion. The first round of matches was held on Saturday, June 11th 2016 (this event), and the [finals](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md) two months later in August.

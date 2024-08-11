@@ -2,7 +2,7 @@
 title = "PpW @ Poznań Beer Expo 2024"
 template = "event_page.html"
 [taxonomies]
-chronology = ["ppw","targi-poznan"]
+chronology = ["ppw"]
 venue = ["targi-poznan"]
 [extra]
 hide_results = true

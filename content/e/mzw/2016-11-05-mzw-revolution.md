@@ -5,8 +5,8 @@ template = "event_page.html"
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra.gallery]
-1 = { path = "plakat.webp", caption = "Show poster with [Asmund](@/w/asmund.md)." }
-2 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event."}
+1 = { path = "plakat.webp", caption = "Show poster with [Asmund](@/w/asmund.md).", source = "?" }
+2 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event.", source = "Facebook @ManiacZoneWrestling"}
 +++
 
 {% card() %}

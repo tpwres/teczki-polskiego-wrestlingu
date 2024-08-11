@@ -4,8 +4,10 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
-[extra.gallery]
-1 = { path = "plakat.webp" }
+[extra.gallery.1]
+path = "plakat.webp"
+caption = "Official posters"
+source = "Facebook @GosirGlucholazy"
 +++
 
 This was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was a charity show, with donations going to [WOŚP][wosp], and coinciding with their 23rd annual Grand Finale event.
@@ -21,10 +23,11 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
     Referee: '[Sędzia Piotr](@/w/mr-b.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153092)
 * [YouTube recap video](https://youtu.be/R_abTj1_mGc)
 * [YouTube video of the full event](https://www.youtube.com/watch?v=2IaA9_sT6Fo)
+* [Facebook photo gallery](https://www.facebook.com/share/xm7GoztcP3nvCT24/)
 
 [wosp]: https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity

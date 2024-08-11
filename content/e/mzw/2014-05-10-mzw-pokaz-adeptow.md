@@ -19,5 +19,6 @@ venue = ["smolec"]
     Referees: Sędzia Matt2Hot
 {% end %}
 
+
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=112870)
 * [YouTube video](https://www.youtube.com/watch?v=TtRHwYXVLB0)

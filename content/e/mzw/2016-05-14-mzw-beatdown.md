@@ -7,6 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra.gallery.1]
 path = "plakat.webp"
 caption = "Justin Joy on the offical poster."
+source = "?"
 +++
 
 {% card() %}
