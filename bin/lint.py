@@ -17,10 +17,10 @@ known_linters = {
     'UnlinkedParticipant': UnlinkedParticipantLinter,
 }
 
-def lookup_linter(name, config) -> Optional[Linter]:
+def lookup_linter(name, config, linter_options={}) -> Optional[Linter]:
     """Return an instance of linter by name."""
     if name in known_linters:
-        return known_linters[name](config=config)
+        return known_linters[name](config=config, linter_options=linter_options)
 
 def maybe_expand_dir(path: Path):
     if path.is_dir():
@@ -40,13 +40,25 @@ def lint_main(args):
     else:
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
+    if args.relative:
+        error_relative_to = cwd
+    else:
+        error_relative_to = None
+
+    linter_options = {}
+    if args.emacs:
+        linter_options['wfe:skip-filename-check'] = True
+
     linters_to_run: list[Linter]
     if args.linters:
-        linters_to_run = list(filter(None, (lookup_linter(name, config) for name in args.linters)))
+        linters_to_run = list(
+            filter(None,
+                   (lookup_linter(name, config, linter_options) for name in args.linters)
+        ))
     else:
         linters_to_run = cast(list[Linter], [
-            lookup_linter('UnlinkedParticipant', config),
-            # lookup_linter('WellFormedEvent', config)
+            lookup_linter('UnlinkedParticipant', config, linter_options),
+            # lookup_linter('WellFormedEvent', config, linter_options)
         ])
 
     for path in files_to_lint:
@@ -67,7 +79,7 @@ def lint_main(args):
     for err in errors:
         if err.fatal: success = False
 
-        print(err.message(cwd))
+        print(err.message(error_relative_to))
 
         if not (args.auto or args.auto_dryrun):
             continue
@@ -132,6 +144,8 @@ def build_argparser():
     parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
     parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
     parser.add_argument('-L', metavar='LINTER', action='extend', dest='linters', nargs='+', help='Use the specified linters')
+    parser.add_argument('-r', '--relative', action='store_const', dest='relative', const=True, help='Show error file paths relative to cwd')
+    parser.add_argument('-E', '--emacs', action='store_const', dest='emacs', const=True, help='Disable some checks that are not suitable for Flycheck.')
     return parser
 
 if __name__ == "__main__":

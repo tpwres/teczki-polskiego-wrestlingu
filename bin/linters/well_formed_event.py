@@ -19,10 +19,13 @@ class FileError(LintError):
     path: Optional[Path]
     text: str
 
-    def message(self, file_root: Path):
+    def message(self, file_root: Optional[Path]):
         match self.path:
             case Path():
-                return f'[{self.path.relative_to(file_root)}] Error: {self.text}'
+                if file_root:
+                    return f'[{self.path.relative_to(file_root)}] Error: {self.text}'
+                else:
+                    return f'[{self.path}] Error: {self.text}'
             case _:
                 return f'[????] Error: {self.text}'
 
@@ -41,10 +44,13 @@ class FileWarning(LintWarning):
     path: Optional[Path]
     text: str
 
-    def message(self, file_root: Path):
+    def message(self, file_root: Optional[Path]):
         match self.path:
             case Path():
-                return f'[{self.path.relative_to(file_root)}] Warning: {self.text}'
+                if file_root:
+                    return f'[{self.path.relative_to(file_root)}] Warning: {self.text}'
+                else:
+                    return f'[{self.path}] Warning: {self.text}'
             case _:
                 return f'[????] Warning: {self.text}'
 
@@ -137,9 +143,10 @@ class WellFormedEventLinter(Linter):
     - mandatory sections: References
     ✅ all internal links must be valid
     """
-    def __init__(self, config):
+    def __init__(self, config, linter_options):
         self.messages = []
         self.config = config
+        self.linter_options = linter_options
         self.load_taxonomies()
 
     def reset(self):
@@ -152,7 +159,8 @@ class WellFormedEventLinter(Linter):
             return self.messages
 
         self.target_path = path
-        self.check_filename(path)
+        if not self.option_enabled('wfe:skip-filename-check'):
+            self.check_filename(path)
 
         with document.open() as fp:
             text = fp.read()
@@ -359,3 +367,7 @@ class WellFormedEventLinter(Linter):
         self.chronologies = set([*custom_chrono, *path_chronos])
 
         self.venues = set([p.stem for p in Path('content/v').glob('*.md') if p.stem != '_index'])
+
+    def option_enabled(self, code):
+        value = self.linter_options.get(code, False)
+        return value
