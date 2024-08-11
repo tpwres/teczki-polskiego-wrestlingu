@@ -5,6 +5,8 @@ aliases = ["/e/ppw/2024-08-23-ppw-hardcore-friday"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
+[extra]
+city = "Warszawa"
 [extra.gallery]
 1 = { path = "hardcore-friday-x4.jpg", caption = "Facebook graphic announcing the new date, featuring [Olgierd](@/w/olgierd.md).", source = "Facebook @oficjalneppw"}
 +++

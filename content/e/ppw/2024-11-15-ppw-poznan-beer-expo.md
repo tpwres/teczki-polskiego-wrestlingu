@@ -6,6 +6,7 @@ chronology = ["ppw"]
 venue = ["targi-poznan"]
 [extra]
 hide_results = true
+city = "Poznań"
 +++
 
 On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) will once again return to Poznań, to accompany the Poznań Beer Expo.

@@ -6,6 +6,7 @@ aliases = ["/e/mzw/2023-09-23-ppw-mzw-zadnych-granic"]
 chronology = ["mzw","ppw"]
 venue = ["czasoprzestrzen"]
 [extra]
+city = "Wrocław"
 orgs = ["ppw", "mzw"]
 [extra.gallery.1]
 path = "2023-09-23-ppw-mzw-zadnych-granic-plakat.jpg"

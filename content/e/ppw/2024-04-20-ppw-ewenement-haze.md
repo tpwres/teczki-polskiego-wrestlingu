@@ -5,8 +5,10 @@ authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["praga-centrum"]
+[extra]
+city = "Warszawa"
 [extra.gallery]
-1 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "PPW's Facebook page"}
+1 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "PpW's Facebook page"}
 +++
 
 Ewenement Haze was an event by [PpW Ewenement](@/o/ppw.md), taking place on Saturday April 20, 2024.
@@ -149,15 +151,15 @@ In comes Michael HT and starts an in-ring charity auction for Scooby the dog who
 #### Break, interviews conducted by Joker
 
 * Samson: he is not upset about his loss. He hints that his next match will be in singles competition.
-* Gustav Gryffin (w/Jakob Sigmarsson): Gryffin says he does not care about morals, insults everyone and lays out his plan to become PPW Champion.
+* Gustav Gryffin (w/Jakob Sigmarsson): Gryffin says he does not care about morals, insults everyone and lays out his plan to become PpW Champion.
   He claims that attack on Goblin was a sign of care - drugs and alcohol hold Goblin back and he can become a better wrestler without them.
   Then tells the announcer to fuck off and leaves.
 * Pure Gold - they are happy about their win and not much concerned about Baklava laying them out (just small itch in the balls). Asked about future opponents, they would like to fight Gustav Gryffin and a partner of his choosing.
-* Isnorr: he confirms his plans to become PpW Champion. He thanks Biesiad Strong for igniting his passion towards hardcore wrestling and challenges Stanisław Van Dobroniak for the PPW European Ultraviolent Championship
+* Isnorr: he confirms his plans to become PpW Champion. He thanks Biesiad Strong for igniting his passion towards hardcore wrestling and challenges Stanisław Van Dobroniak for the PpW European Ultraviolent Championship
 * Rafi: he claims that he was cheated out of the win by a bad referee, calls PpW "fucking backyard". He insults Goblin and is happy for Gryffin taking away the trophy - as long as Goblin does not have it.
 * Benny Bacchus: he's happy that Goblin won and wants to party after the show.
 * Goblin: comes in, barely walking, Joker holds him up, and helps him sit down. Asked about Gustav, he says "I hate him, he stole my weed".
-  Goblin says that Turbo OG match was not really meaningful to him, but now, Gustav made the issue personal. Goblin accepts the challenge, and wants it to be a hardcore match for #1 contender to PPW Championship.
+  Goblin says that Turbo OG match was not really meaningful to him, but now, Gustav made the issue personal. Goblin accepts the challenge, and wants it to be a hardcore match for #1 contender to PpW Championship.
 
 #### Rambo v Biesiad Strong
 
