@@ -16,7 +16,7 @@ The event, and festival, were held in B90, a music and event venue located in a 
 - ['[Robert Star](@/w/robert-star.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
     Zasada](@/w/krzysztof-zasada.md)"]
 - ['[Peter Pannache](@/w/peter-pannache.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
-  '[Mateusz Kowalski](@/w/mateusz-kowalski.md)', '[Victor Rosetti](@/w/rosetti.md)',
+  '[Mateusz Kowalski](@/w/mateusz-kakareko.md)', '[Victor Rosetti](@/w/rosetti.md)',
   {s: Fatal Four Way Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Greg](@/w/greg.md)', {s: Hardcore Match}]
 - ['[Bianca](@/w/bianca.md)', '[Mira](@/w/mira.md)', {s: Pillow Fight Match}]

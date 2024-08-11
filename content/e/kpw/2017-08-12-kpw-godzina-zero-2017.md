@@ -29,7 +29,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
-  - '[Mateusz Kowalski](@/w/mateusz-kowalski.md)'
+  - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - '[Victor Rosetti](@/w/rosetti.md)'
   - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a KPW Championship

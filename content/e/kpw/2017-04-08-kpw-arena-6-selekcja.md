@@ -14,7 +14,7 @@ This event featured the wrestling debut of referee Karol Górski in a squash mat
 Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wrestling](@/o/ptw.md), debuting at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md).
 
 {% card() %}
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Mateusz Kowalski](@/w/mateusz-kakareko.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Karol Górski](@/w/iskra.md)', {
     c: "KPW Championship"}]
 - ['[Sawicki](@/w/sawicki.md)', '[Adam Bravo](@/w/adam-bravo.md)']
