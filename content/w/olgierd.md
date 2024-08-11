@@ -46,7 +46,7 @@ Besides that, Olgierd was one of the participants of the [Gold Rush Rumble](@/e/
 
 ### 2024: Surprise return to PpW
 
-Olgierd and Hammers, teaming together as Legia łysych returned to PpW during [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), in a surprise appearance, answering a challenge laid out by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
+Olgierd and Hammers, teaming together as Legia Łysych returned to PpW during [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), in a surprise appearance, answering a challenge laid out by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
 While Pure Gold were taunting Legia on their social media channels before the event, fans didn't take this for anything but a provocation against PTW.
 Legia, up until the very last moment, appeared to remain committed to PTW, themselves feuding with Vincent Caravaggio and defending a joke "Intergender Championship" belt made of cardboard.
 They were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
@@ -62,5 +62,5 @@ Through his entire career, Olgierd always used songs by the same Polish rapper, 
 ### References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24693)
-* [Wayback Machine version of his PPW Wiki profile](https://web.archive.org/web/20230821192019/https://ppwofficial.fandom.com/pl/wiki/Hades)
-* [Profile on restored PPW Wiki](http://ppw-fandom.tpwres.pl/hades)
+* [Wayback Machine version of his PpW Wiki profile](https://web.archive.org/web/20230821192019/https://ppwofficial.fandom.com/pl/wiki/Hades)
+* [Profile on the restored PpW Wiki](http://ppw-fandom.tpwres.pl/hades)
