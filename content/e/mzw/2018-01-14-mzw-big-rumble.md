@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
+[extra]
+city = "Głuchołazy"
 +++
 
 This was the last [MZW](@/o/mzw.md) event to be held in [Głuchołazy](@/v/gosir-glucholazy.md), and also another charity event with donations going to WOŚP, coinciding with their 26th annual Grand Finale event. Listings of this event elsewhere on the Internet sometimes add "26th Anniversary", but do not explain what it refers to. It does not refer to MZW's Anniversary, at this time about four years old, but to the Grand Finale.

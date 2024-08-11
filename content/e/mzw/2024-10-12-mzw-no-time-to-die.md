@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["bakara"]
+[extra]
+city = "Wrocław"
 [extra.gallery.1]
 path = "2024-10-12-mzw-no-time-to-die.jpg"
 caption = "Official poster."

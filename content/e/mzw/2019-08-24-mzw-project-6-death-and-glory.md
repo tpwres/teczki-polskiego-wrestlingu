@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
+[extra]
+city = "Wrocław"
 +++
 
 {% card() %}

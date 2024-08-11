@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
+[extra]
+city = "Głuchołazy"
 [extra.gallery]
 1 = { path = "plakat.webp", caption = "Show poster with [Asmund](@/w/asmund.md).", source = "?" }
 2 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event.", source = "Facebook @ManiacZoneWrestling"}
