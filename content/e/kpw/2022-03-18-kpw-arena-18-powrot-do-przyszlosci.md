@@ -5,6 +5,8 @@ aliases = ["/e/2022-03-18-kpw-arena-18-powrot-do-przyszlosci"]
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["atlantic-nh-gdynia"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2022-03-18-kpw-arena-18-powrot-do-przyszlosci-plakat.jpg", caption = "Official poster, featuring [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 2 = { path = "arena-18-rosetti-i-krystian-czekaj.jpg", caption = 'Rosetti is late for his fight.', source = "M3n747" }

@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw"]
 venue = ["airport-kluczewo"]
+[extra]
+city = "Stargard"
 [extra.gallery]
 1 = { path = "2019-07-13-kpw-oldtown-4-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md) with the [KPW Championship](@/c/kpw-championship.md) belt, likely at last year's [OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

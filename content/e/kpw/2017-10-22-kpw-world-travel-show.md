@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 venue = ["ptak-expo-nadarzyn"]
 chronology = ["kpw"]
+[extra]
+city = "Nadarzyn"
 +++
 
 World Travel Show is an annual, mostly commercial fair hosting everything related to travel.

@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2020-02-01-kpw-arena-16-polowanie-plakat.jpg", caption = "Official poster, showing Primate and Wild Boar.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["kpw", "godzina-zero"]
 venue = ["okrzei-6-gdynia"]
 [extra]
+city = "Gdynia"
 hide_results = true
 [extra.gallery.1]
 path = "2024-09-07-kpw-godzina-zero-2024-plakat.jpg"

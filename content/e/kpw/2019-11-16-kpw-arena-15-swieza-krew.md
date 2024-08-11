@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
+[extra]
+city = "Gdynia"
 [extra.gallery]
 1 = { path = "2019-11-16-kpw-arena-15-swieza-krew-plakat.jpg", caption = "Official poster, showing Reinbakh.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++

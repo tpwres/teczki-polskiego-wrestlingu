@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["kpw"]
 venue = ["airport-kluczewo"]
+[extra]
+city = "Stargard"
 [extra.gallery]
 1 = { path = "2018-07-14-kpw-oldtown-3-plakat.jpg", caption = "Official poster, showing Greg with the [OldTown Championship](@/c/kpw-old-town-championship.md)", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
