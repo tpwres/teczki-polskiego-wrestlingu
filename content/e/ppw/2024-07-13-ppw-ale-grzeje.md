@@ -4,10 +4,12 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
 venue=["teatr-komuna"]
+[extra]
+city = "Warszawa"
 [extra.gallery]
-1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has Jakob Sigmarsson and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Facebook PPW Ewenement"}
-2 = { path = "ag-crane-queen.jpg", caption = "Official graphic for the [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match.", source = "Facebook PPW Ewenement"}
-3 = { path = "ag-legia-goblin.webp", caption = "Official graphic for [Goblin](@/w/goblin.md) vs Legia Łysych.", source = "Facebook PPW Ewenement"}
+1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has Jakob Sigmarsson and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Official PpW Facebook"}
+2 = { path = "ag-crane-queen.jpg", caption = "Official graphic for the [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match.", source = "Official PpW Facebook"}
+3 = { path = "ag-legia-goblin.webp", caption = "Official graphic for [Goblin](@/w/goblin.md) vs Legia Łysych.", source = "Official PpW Facebook"}
 4 = { path ="alex-feager-canceled.jpg", caption = "[Alex Arthur](@/w/alex-arthur.md)'s Instagram story explaining he will miss his just-announced fight with [Feager](@/w/feager.md).", source = "Instagram @realalexarthur"}
 5 = { path = "dingdance-vs-dominique.jpg", caption = "Teatr Komuna's instagram story, announcing a match between two choreographers.", source = "Instagram @komunawarszawa"}
 +++
