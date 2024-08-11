@@ -6,7 +6,7 @@ authors = ["M3n747"]
 chronology = ["international", "wwe"]
 venue = ["ergo-arena"]
 [extra]
-city = "Gdańsk", "Sopot"
+city = ["Gdańsk", "Sopot"]
 [extra.gallery]
 1 = { path = "2012-04-12-wwe-raw-house-show.jpg", caption = "WWE in Gdańsk/Sopot", source = "MyWrestling.com.pl" }
 +++
