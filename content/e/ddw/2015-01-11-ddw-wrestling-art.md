@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["ddw"]
 venue = ["przywidz"]
 [extra]
+city = "Przywidz"
 +++
 
 Held on the exact same day as [MZW's event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), and with donations also going towards WOŚP, this was DDW's second charity show.

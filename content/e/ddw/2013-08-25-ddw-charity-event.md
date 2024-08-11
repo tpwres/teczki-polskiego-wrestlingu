@@ -3,6 +3,8 @@ title = "DDW Charity Event"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ddw"]
+[extra]
+city = "Rzeszów"
 [extra.gallery]
 1 = { path = "2013-08-25-ddw-charity-event-01.jpg", caption = "[Pan Pawłowski](@/w/pan-pawlowski.md) on a ~motorcycle~ chopper.", source = "Facebook DDW" }
 2 = { path = "2013-08-25-ddw-charity-event-02.jpg", caption = "[Don Roid](@/w/don-roid.md) and the audience.", source = "Facebook DDW" }

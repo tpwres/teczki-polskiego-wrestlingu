@@ -50,4 +50,4 @@ Attendance: about 120
 * [Full event on YouTube](https://www.youtube.com/watch?v=gsW9gQdWysU)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=115942)
 * [Article on MyWrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-5-powstanie-maniac-zone-wrestling-afera-z-polish-giantem-przeprowadzka-ddw-do-gdanska/) (in Polish), discusses Polish Giant debacle extensively.
-* [Announcement by Rzeszów News](https://rzeszow-news.pl/wrestling-powraca-rzeszowa-zabraknie-brutalnej-walki/) (in Polish)
+* [Announcement by Rzeszów News](http://rzeszow-news.pl/wrestling-powraca-rzeszowa-zabraknie-brutalnej-walki/) (in Polish)

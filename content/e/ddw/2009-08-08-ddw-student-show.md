@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
+city = "Warszawa"
 +++
 
 {% card() %}

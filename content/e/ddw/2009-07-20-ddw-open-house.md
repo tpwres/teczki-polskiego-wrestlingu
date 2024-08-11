@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
+city = "Warszawa"
 +++
 
 Open House was the first event held by the newly created DDW. It was not the first one they planned to hold, however. That event was supposed to take place in Stodoła in Warsaw, a primarily music venue with a capacity up to 2500 attendants. However, due to high ticket prices, and trouble attracting sponsors, that event was cancelled, and
