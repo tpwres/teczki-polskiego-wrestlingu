@@ -5,6 +5,8 @@ author = ["Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["tauron"]
+[extra]
+city = "Kraków"
 +++
 
 This was [PTW's](@/o/ptw.md) return to Ryucon, an anime/manga fan convention held annually in Kraków for the second year. Like last year, the event was held at Tauron Arena, a multipurpose sports and event hall, with a capacity of up to 20,000 spectators. This time wrestling occuppied the main arena. The event featured references to the manga convention, including custom, manga-inspired graphics for the wrestlers and entrance themes.

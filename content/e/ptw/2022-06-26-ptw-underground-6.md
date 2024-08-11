@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md).

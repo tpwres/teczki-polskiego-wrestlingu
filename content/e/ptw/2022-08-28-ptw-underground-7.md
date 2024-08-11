@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 The seventh [PTW](@/o/ptw.md) Underground show was held on Sunday, August 28th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

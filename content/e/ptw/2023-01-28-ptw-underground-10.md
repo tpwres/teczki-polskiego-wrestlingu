@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 The tenth [PTW](@/o/ptw.md) Underground show was held on Saturday, January 28th 2023, as part of a two-show weekend. The show, initially set for December 18th, 2022, was postponed right before the start (with fans already inside the venue), due to a sudden power outage.

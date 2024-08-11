@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 chronology=["ptw", "underground"]
 venue=["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 The first [PTW](@/o/ptw.md) Underground was held on Sunday, December 19th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
