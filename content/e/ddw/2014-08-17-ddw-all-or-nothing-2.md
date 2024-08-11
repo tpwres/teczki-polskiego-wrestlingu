@@ -21,7 +21,7 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
       Championship Tournament First Round Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Klarys](@/w/klarys.md)', {s: DDW
       International Championship Tournament First Round Match}]
-- ['[Ron Corvus](@/w/ron-corvus.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)',
+- ['[Ron Corvus](@/w/ron-corvus.md)', '[Mateusz Kowalski](@/w/mateusz-kakareko.md)',
   {s: DDW International Championship Tournament First Round Match}]
 - ['[Dover](@/w/dover.md)', '[Luxus](@/w/luxus.md)', {s: Hardcore Match}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Ron Corvus](@/w/ron-corvus.md)',

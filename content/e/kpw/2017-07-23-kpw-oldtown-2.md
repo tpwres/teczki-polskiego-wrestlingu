@@ -35,7 +35,7 @@ KPW would return to following editions of OldTown until 2019.
   - [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Victor Rosetti](@/w/rosetti.md)
   - [David Oliwa](@/w/david-oliwa.md) vs [Greg](@/w/greg.md)
   - [Robert Star](@/w/robert-star.md) vs Mika The Polish Punisher
-- Aside from that, there was a three-way fight scheduled between [Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md) and [Piękny Kawaler](@/w/piekny-kawaler.md); plus the hardcore match between [Kaszub](@/w/kaszub.md) and Corvus
+- Aside from that, there was a three-way fight scheduled between [Mateusz Kowalski](@/w/mateusz-kakareko.md), [Adam Bravo](@/w/adam-bravo.md) and [Piękny Kawaler](@/w/piekny-kawaler.md); plus the hardcore match between [Kaszub](@/w/kaszub.md) and Corvus
 - The final two participants of the opening rumble face each other for the KPW OldTown championship in the main event
 - Kawaler appears, declares he's had enough of OldTown and will not take part, only to soon change his mind
 - Corvus powerbombed [Kaszub](@/w/kaszub.md) into a table stacked with lighting tubes to win

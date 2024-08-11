@@ -20,12 +20,12 @@ venue = ["gimnazjum-8-gdansk"]
   - '_rookie_ Artur Dzwończak'
   - '[Victor Rosetti](@/w/rosetti.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
-  - '[Mateusz Kowalski](@/w/mateusz-kowalski.md)'
+  - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
   - '[_rookie_ Prince Victor](@/w/vic-golden.md)'
   - ???
   - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
   - s: Battle Royal
-- ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kowalski.md)']
+- ['[Robert Star](@/w/robert-star.md)', '[Mateusz Kowalski](@/w/mateusz-kakareko.md)']
 - ['[Don Roid](@/w/don-roid.md)', '[Robert Star](@/w/robert-star.md)']
 - - '[Klarys](@/w/klarys.md)'
   - '[Kaszub](@/w/kaszub.md)'
@@ -47,7 +47,7 @@ _rookie_ [Damian Lambert](@/w/damien-rothschild.md) (being thrown out by Greg) \
 _rookie_ Artur Dzwończak (in red shorts, against the ropes) \
 [Victor Rosetti](@/w/rosetti.md) (in black vest, attacking _rookie_ Artur Dzwończak) \
 [Boski Ostrowski](@/w/ostrowski.md) (in blue trousers) \
-[Mateusz Kowalski](@/w/mateusz-kowalski.md) (holding the top rope) \
+[Mateusz Kowalski](@/w/mateusz-kakareko.md) (holding the top rope) \
 _rookie_ [Prince Victor](@/w/vic-golden.md) (attacking Mateusz Kowalski) \
 unknown (behind _rookie_ Prince Victor) \
 _rookie_ [David Oliwa](@/w/david-oliwa.md) (kneeling, in gaudy undies) \

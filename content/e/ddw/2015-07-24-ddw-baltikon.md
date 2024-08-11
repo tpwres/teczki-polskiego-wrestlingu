@@ -40,7 +40,7 @@ hide_results = true
 31 = { path = "baltikon-greg-ostrowski-bianka.jpg", caption = "Bianca punishing Ostrowski in the corner", source = "Facebook Baltikon / Tarakum Photo" }
 32 = { path = "baltikon-mira-kaszub-kawaler-pin.jpg", caption = "Mira and Kaszub stand in the corner while Kawaler pins Ostrowski", source = "Facebook Baltikon / Tarakum Photo" }
 33 = { path = "baltikon-mira-kaszub-ostrowski-kawaler.jpg", caption = "Kaszub, Ostrowski and Kawaler", source = "Facebook Baltikon / Tarakum Photo" }
-34 = { path = "baltikon-ostrowski-sedzia-kawaler.jpg", caption = "Ostrowski in the corner, Kawaler attacking. Referee in the background strongly resembles [Mateusz Kowalski](@/w/mateusz-kowalski.md)", source = "Facebook Baltikon / Tarakum Photo" }
+34 = { path = "baltikon-ostrowski-sedzia-kawaler.jpg", caption = "Ostrowski in the corner, Kawaler attacking. Referee in the background strongly resembles [Mateusz Kowalski](@/w/mateusz-kakareko.md)", source = "Facebook Baltikon / Tarakum Photo" }
 35 = { path = "baltikon-mira-kaszub-drop.jpg", caption = "Kaszub dropping down from the turnbuckle", source = "Facebook Baltikon / Tarakum Photo" }
 36 = { path = "baltikon-bianka-sedzia-greg-kaszub-kawaler.jpg", caption = "Kawaler dropping Kaszub in his corner.", source = "Facebook Baltikon / Tarakum Photo" }
 

@@ -22,7 +22,7 @@ venue=["gdynia-sports-center"]
 {% card() %}
 - ['[Moloch](@/w/moloch.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
 - ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)']
-- ['[Mateusz Kakareko](@/w/mateusz-kowalski.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
+- ['[Mateusz Kakareko](@/w/mateusz-kakareko.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - - "Team Aleksander: [David Oliwa](@/w/david-oliwa.md), [Kamil Aleksander](@/w/kamil-aleksander.md),
     [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Peter Pannache](@/w/peter-pannache.md)"
   - "Team Greg: [Adam Bravo](@/w/adam-bravo.md), [Greg](@/w/greg.md), [Sawicki](@/w/sawicki.md),
@@ -41,7 +41,7 @@ Attendance: about 300 \
 #### Recap
 
 - Two new girls in catsuits accompany [Moloch](@/w/moloch.md) to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md). The other one is Laura, who later trained with [PTW](@/o/ptw.md) but never debuted.
-- Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kowalski.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
+- Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kakareko.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
 - Greg "christened" members of the Kawaleria stable by spitting water on them. This would later become part of his character.
 - [Kamil Aleksander](@/w/kamil-aleksander.md)'s mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
 - Zasada was eliminated first, then [Kamil Aleksander](@/w/kamil-aleksander.md). With the balance now favouring Team Greg, [Adam Bravo](@/w/adam-bravo.md) pulls out a betrayal by laying down for a pin, showing his middle fingers to Kawaleria.

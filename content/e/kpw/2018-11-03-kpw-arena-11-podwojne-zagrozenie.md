@@ -26,7 +26,7 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
 - ["[Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md)", '[Moloch](@/w/moloch.md)',
   {s: "Tournament First Round Two On One Handicap Match"}]
 - ["British Bouncer Club: [Dom Taylor](@/w/dom-taylor.md), Lee Rogers", "[Adam Bravo](@/w/adam-bravo.md),
-    [Mateusz Kakareko](@/w/mateusz-kowalski.md)", {s: "Tournament First Round Tag
+    [Mateusz Kakareko](@/w/mateusz-kakareko.md)", {s: "Tournament First Round Tag
       Team Match"}]
 - ["Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md);
     [Mira](@/w/mira.md)", "British Bouncer Club: [Dom Taylor](@/w/dom-taylor.md),

@@ -39,7 +39,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
   - '[Dom Taylor](@/w/dom-taylor.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '[Greg](@/w/greg.md)'
-  - '[Mateusz Kakareko](@/w/mateusz-kowalski.md)'
+  - '[Mateusz Kakareko](@/w/mateusz-kakareko.md)'
   - s: Magnificent Seven Elimination Ladder Match
 - [Sixt, '[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', '[Diana](@/w/diana-strong.md)']
 - - "[David Oliwa](@/w/david-oliwa.md)(c)"
