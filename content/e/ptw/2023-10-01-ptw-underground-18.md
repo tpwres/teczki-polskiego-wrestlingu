@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 {% card() %}

@@ -4,6 +4,8 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 {% card() %}

@@ -7,6 +7,7 @@ chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
 [extra]
 hide_results = true
+city = "Kozłów"
 [extra.gallery.poster]
 path = "ptwu22-poster.webp"
 caption = "Official poster for the show."

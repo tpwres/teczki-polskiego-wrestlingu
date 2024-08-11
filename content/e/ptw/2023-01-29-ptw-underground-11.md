@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 The eleventh [PTW](@/o/ptw.md) Underground show was held on Sunday, January 29th 2023, as part of a two-show weekend.

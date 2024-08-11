@@ -4,6 +4,11 @@ template = "event_page.html"
 [taxonomies]
 chronology=["ptw"]
 venue=["moris-chorzow"]
+[extra]
+city = "Chorzów"
+[extra.gallery]
+1 = { path = "2021-10-09-ptw-1-revolucja-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
+2 = { path = "2021-10-09-ptw-1-revolucja-plakat-alt.jpg", caption = "Alternative poster", source = "Official PTW Facebook" }
 +++
 
 {% card() %}

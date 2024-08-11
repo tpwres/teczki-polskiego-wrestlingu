@@ -5,6 +5,10 @@ authors = ["Krzysztof Zych", "Piotr Drabik", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["hotel-scout-czestochowa"]
+[extra]
+city = "Częstochowa"
+[extra.gallery]
+1 = { path = "2024-02-03-ptw-5-gold-rush-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
 Gold Rush was an event by [PTW](@/o/ptw.md). It was announced as a "Season Finale", which suggested it's going to close some kind of chapter in PTW's history.

@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
+[extra]
+city = "Chorzów"
 +++
 
 The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 at the [PTW Performance Center](@/v/ptw-targowa.md). This guest had two foreign guests in an exhibition match: Finnish wrestler Salomon Strid, and Greek wrestler [Noah "404" Charon](https://twitter.com/Noah404Charon).

@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski", "Joanna Ropelewska"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["tauron"]
+[extra]
+city = "Kraków"
 [extra.gallery]
 1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros vs Svedberg and Carravaggio", source = "Facebook PTW"}
 2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing Alex Brave vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}

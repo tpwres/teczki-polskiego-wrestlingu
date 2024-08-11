@@ -5,6 +5,10 @@ authors = ["Krzysztof Zych", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
+[extra]
+city = "Kozłów"
+[extra.gallery]
+1 = { path = "2024-04-13-ptw-underground-21-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
 PTW Underground 21 was an event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, April 13, 2024.
