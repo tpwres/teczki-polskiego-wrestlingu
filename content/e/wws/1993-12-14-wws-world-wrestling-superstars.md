@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["international", "wws"]
 venue = ["torwar"]
 [extra]
+city = "Warszawa"
 +++
 
 World Wrestling Superstars was a group of American wrestlers, doing a tour of Europe in 1993.
