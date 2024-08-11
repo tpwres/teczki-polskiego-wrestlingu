@@ -8,7 +8,7 @@ country = ["PL"]
 1 = { path = 'jj1.png', caption = "Justin explains his quiet exit. Background: PTW's dismissal of [Jacob Crane](@/w/jacob-crane.md)" }
 2 = { path = 'jj2.png', caption = "[LEGENDS](@/e/ptw/2022-11-26-ptw-3-legends.md) was the breaking point. Background: Joy winning over Axel Fox at that event."}
 3 = { path = 'jj3.png', caption= "Justin is done fighting abroad, wants to follow the money. Background: Joy winning the NSW National title in Dresden."}
-4 = { path = 'jj4.png', caption = "Addressing [PPW](@/o/ppw.md)'s image issues. Background: Joy vs Axel Fox at LEGENDS."}
+4 = { path = 'jj4.png', caption = "Addressing [PpW](@/o/ppw.md)'s image issues. Background: Joy vs Axel Fox at LEGENDS."}
 6 = { path = 'jj6.png', caption = "Justin's most positive thing in PTW was his friend [Axel Fox](@/w/axel-fox.md). Background: Fox hugging Joy."}
 7 = { path = 'jj7.png', caption = "No kayfabe needed. Background: A PTW Underground show."}
 8 = { path = 'jj8.png', caption = "The drama that happened has acumulated over the years. Background: Joy vs [Nitro](@/w/nitro.md) at PTW Underground 3"}
