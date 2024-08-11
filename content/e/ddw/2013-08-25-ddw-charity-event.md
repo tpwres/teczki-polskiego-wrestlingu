@@ -14,7 +14,7 @@ chronology = ["ddw"]
 8 = { path = "2013-08-25-ddw-charity-event-08.jpg", caption = "Aurora vs Mira.", source = "Facebook DDW" }
 9 = { path = "2013-08-25-ddw-charity-event-09.jpg", caption = "Aurora vs Mira.", source = "Facebook DDW" }
 10= { path = "2013-08-25-ddw-charity-event-10.jpg", caption = "Mira about to land on Aurora.", source = "Facebook DDW" }
-11= { path = "2013-08-25-ddw-charity-event-11.jpg", caption = "[Luxus](@/w/luxus.md) & [Piękny Kawaler](@/w/piekny-kawaler.md) vs [Mateusz Kowalski](@/w/mateusz-kowalski.md) & [Robert Star](@/w/robert-star.md). Kowalski is holding Kawaler, Luxus and Robert are down on the floor.", source = "Facebook DDW" }
+11= { path = "2013-08-25-ddw-charity-event-11.jpg", caption = "[Luxus](@/w/luxus.md) & [Piękny Kawaler](@/w/piekny-kawaler.md) vs [Mateusz Kowalski](@/w/mateusz-kakareko.md) & [Robert Star](@/w/robert-star.md). Kowalski is holding Kawaler, Luxus and Robert are down on the floor.", source = "Facebook DDW" }
 12= { path = "2013-08-25-ddw-charity-event-12.jpg", caption = "Piękny Kawaler holding Mateusz Kowalski in a delayed vertical suplex.", source = "Facebook DDW" }
 13= { path = "2013-08-25-ddw-charity-event-13.jpg", caption = "Mateusz Kowalski dodges a lariat by Piękny Kawaler. Luxus stands in the corner.", source = "Facebook DDW" }
 14= { path = "2013-08-25-ddw-charity-event-14.jpg", caption = "Robert Star and Luxus, with Piękny Kawaler in the corner.", source = "Facebook DDW" }
@@ -25,7 +25,7 @@ chronology = ["ddw"]
 - ['[Klarys](@/w/klarys.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)']
 - [Aurora, '[Mira](@/w/mira.md)']
 - - "[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)"
-  - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Robert Star](@/w/robert-star.md)"
+  - "[Mateusz Kowalski](@/w/mateusz-kakareko.md), [Robert Star](@/w/robert-star.md)"
   - s: Tag Team Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

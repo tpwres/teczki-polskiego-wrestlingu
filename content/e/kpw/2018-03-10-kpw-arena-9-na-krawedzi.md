@@ -14,7 +14,7 @@ This show was also the debut of the future [Chemik](@/w/chemik.md) - who appeare
 
 {% card() %}
 - - "[Boski Ostrowski](@/w/ostrowski.md), [Peter Pannache](@/w/peter-pannache.md)"
-  - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md)"
+  - "[Mateusz Kowalski](@/w/mateusz-kakareko.md), [Adam Bravo](@/w/adam-bravo.md)"
   - '[Rosetti](@/w/rosetti.md)'
   - s: 2v2v1 Handicap Match
 - ['[Bianca](@/w/bianca.md)', '[Alisa](@/w/alisa.md)']

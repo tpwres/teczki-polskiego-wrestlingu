@@ -19,7 +19,7 @@ Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the fi
 - - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
 - - "[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)"
-  - "[Mateusz Kowalski](@/w/mateusz-kowalski.md), [Adam Bravo](@/w/adam-bravo.md)"
+  - "[Mateusz Kowalski](@/w/mateusz-kakareko.md), [Adam Bravo](@/w/adam-bravo.md)"
   - s: Tag Team Match
 - - "[Robert Star](@/w/robert-star.md)"
   - "[Greg](@/w/greg.md)(c)"

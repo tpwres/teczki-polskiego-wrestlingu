@@ -21,7 +21,7 @@ The event was almost cancelled due to unrelated but tragic circumstances in the 
 {% card() %}
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
   {s: "KPW OldTown Championship #1 Contendership Qualifier"}]
-- ['[Moloch](@/w/moloch.md)', '[Mateusz Kakareko](@/w/mateusz-kowalski.md)']
+- ['[Moloch](@/w/moloch.md)', '[Mateusz Kakareko](@/w/mateusz-kakareko.md)']
 - ['[David Oliwa](@/w/david-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)', {s: "KPW
       OldTown Championship #1 Contendership Qualifier"}]
 - ['[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', Yuu, {s: Three Way Match}]
