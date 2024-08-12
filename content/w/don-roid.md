@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych", "M3n747"]
 country = ["US"]
 [extra.gallery]
 1 = { path = "don-roid.webp", caption = "Promo shot of Don Roid, used for most of his matches in Poland and Europe.", source = "prowrestling.fandom.com" }
-2 = { path = "the-k-team-summer-camp-2023.jpg", caption = "Left to right: [Kamil Aleksander](@/w/kamil-aleksander.md), Don Roid, [Piękny Kawaler](@/w/piekny-kawaler.md) and [Mateusz Kakareko](@/w/mateusz-kowalski.md) at KPW Summer Camp 2023.", source = "Official KPW Facebook" }
+2 = { path = "the-k-team-summer-camp-2023.jpg", caption = "Left to right: [Kamil Aleksander](@/w/kamil-aleksander.md), Don Roid, [Piękny Kawaler](@/w/piekny-kawaler.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md) at KPW Summer Camp 2023.", source = "Official KPW Facebook" }
 +++
 
 Don Roid, an American from Pennsylvania, started his in-ring career in 2001 and wrestled for several promotions in the US and Western Europe, before coming to Poland in the latter half of the 2000s. In 2008 he created an account on the Wrestling Attitude forum, asking about the state of wrestling in Poland - having found out that it's nonexistent, Roid made the decision to start his own promotion and in 2009 [Do Or Die Wrestling](@/o/ddw.md) officially started, based in Warsaw.
