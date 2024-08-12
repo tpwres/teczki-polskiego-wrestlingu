@@ -3,6 +3,8 @@ title = "DFW Crosswords City 2"
 template = "event_page.html"
 [taxonomies]
 chronology = ["dfw"]
+[extra]
+city = "Krzyżówki"
 +++
 
 The final event from [DFW](@/o/dfw.md) was held almost three years after their first one, on Saturday, June 9th 2018. The venue and occasion was once more a community festival in Krzyżówki, where the previous [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md) took place.

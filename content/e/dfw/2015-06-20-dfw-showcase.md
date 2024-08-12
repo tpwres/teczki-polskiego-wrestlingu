@@ -3,6 +3,8 @@ title = "DFW Debut Show"
 template = "event_page.html"
 [taxonomies]
 chronology = ["dfw"]
+[extra]
+city = "Toruń"
 [extra.gallery]
 1 = { path = "Festyn2015.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions", source = "Parish website antoni-torun.pl"}
 +++

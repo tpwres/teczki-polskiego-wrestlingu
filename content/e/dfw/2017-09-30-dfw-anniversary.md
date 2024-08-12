@@ -4,9 +4,11 @@ template = "event_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
+[extra]
+city = "Toruń"
 +++
 
-Anniversary was an event that celebrated DFW's second anniversary, held on Saturday, September 30, 2017. The name was a bit of a stretch, as it was the second anniversary but when counting from [DFW @ Kaszczorek](@/e/dfw/2015-09-20-dfw-showcase.md). Which was DFW's second, not first show. Counting from the first show, the second anniversary was instead much closer to [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md).
+Anniversary was an event that celebrated DFW's second anniversary, held on Saturday, September 30, 2017. The name was a bit of a stretch as it was the second anniversary, but only when counting from [DFW @ Kaszczorek](@/e/dfw/2015-09-20-dfw-showcase.md) which was DFW's second show rather than first. Counting from the first show, the second anniversary was instead much closer to [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md).
 
 The event was held in the sports hall belonging to Nicolaus Copernicus University, same one that hosted [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md) and [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md).
 
