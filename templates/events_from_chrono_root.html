@@ -1,0 +1,27 @@
+{% set my_chrono_root = page.taxonomies['chrono_root'] | first %}
+{% set events_taxonomy = get_taxonomy(kind="chronology") %}
+{% set event_pages = events_taxonomy.items | filter(attribute="slug", value=my_chrono_root) | map(attribute="pages") | first %}
+
+{% if event_pages != "" %}
+  {% set events_by_year = event_pages | group_by(attribute="year") -%}
+  {% set_global years = [] -%}
+  {% for year, _ign in events_by_year -%}{% set_global years = years | concat(with=year) %}{% endfor -%}
+  {% set lowest_year = page.extra | get(key="year_list_start", default=2010) | int(default=2010) -%}
+  {% set highest_year = page.extra | get(key="year_list_end", default=2099) | int(default=2099) -%}
+
+  {% for thisyear in years|sort|reverse %}
+    {% if thisyear|int > highest_year or thisyear|int < lowest_year -%}{% continue %}{% endif %}
+    {% set_global venue_events_thisyear = events_by_year[thisyear] -%}
+
+    {% if venue_events_thisyear | length == 0 -%}{% continue %}{% endif %}
+    <h3>{{ thisyear }}</h3>
+    <ul class="event-list">
+      {% for event_page in venue_events_thisyear | sort(attribute="date") | reverse -%}
+        <li>
+          {% set dt = event_page.date | date(format="%Y-%m-%d") -%}
+          <time datetime="{{ dt }}">{{ dt }}</time>
+          <a class="nu" href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a></li>
+      {% endfor -%}
+    </ul>
+  {% endfor %}
+{% endif %}
