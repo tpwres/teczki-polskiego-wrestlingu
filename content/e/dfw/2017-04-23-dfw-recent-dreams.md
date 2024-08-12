@@ -4,6 +4,8 @@ template = "event_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
+[extra]
+city = "Toruń"
 +++
 
 [DFW's](@/o/dfw.md) Recent Dreams was held on Sunday, April 23 2017, once again in the sports hall of Toruń's university campus. The previous event to be held there was the second half of [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).
@@ -22,11 +24,11 @@ With 5 matches on the card, this was a big event by DFW's standards. In the main
       Championship}]
 {% end %}
 
-Commentary: Seth Donner, Marcel Koniecki, Adrian Gawrychowski!
+Commentary: Seth Donner, Marcel Koniecki, Adrian Gawrychowski
 
 #### Recap
 
-* Corin Mear's bodypaint was inspired by the main character Aang from "Avatar the Last Airbender" animated series.
+* Corin Mear's bodypaint was inspired by the main character Aang from "Avatar: The Last Airbender" animated series.
 * After his match, Rob Scaffold assumed cameraman duties, and can be sometimes seen on footage from the other cameras, filming from the left side of the ring (from the audience's POV).
 * Direk and Charlie start by exchanging various holds, to later transition into their usual stytyle. Later, weapons such as a kend sticks, chairs and a ladder are introduced. The match ended with Direk powerbombing Charlie through a table in the ring.
 * Norris was supposed to face Malmo one on one. However, Hekate came out with a microphone and turned the fight into a tag team match, if Norris was able to find a partner. Corin Mear volunteered himself, and the match started.
