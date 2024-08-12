@@ -1,0 +1,8 @@
+{% set extra = page.extra %}
+{% if extra.city %}
+  {% if extra.city is iterable %}
+    {{ extra.city | join(sep="/") }}
+  {% elif extra.city is string %}
+    {{ extra.city }}
+  {% endif %}
+{% endif %}
