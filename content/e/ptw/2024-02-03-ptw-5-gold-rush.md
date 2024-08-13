@@ -115,7 +115,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 13. [Wiktor Longman](@/w/wiktor-longman.md)
 14. Longman eliminates Diana
 15. Longman eliminates Mutant
-16. Bad Bones' music hits. Bones appears on screen and demands a title match from Pawłowski.
+16. Bad Bones's music hits. Bones appears on screen and demands a title match from Pawłowski.
 17. Sędzia Rafał, who remains outside the ring
 18. [Iskra](@/w/iskra.md) enters the ring
 19. Cowboy James Storm eliminates Iskra

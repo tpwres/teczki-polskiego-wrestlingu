@@ -9,11 +9,11 @@ chrono_root = ["ptw"]
 toclevel = 3
 [extra.gallery]
 1 = { path = "rzezniczek-departs.png", caption = "Marcin Rzeźniczek announcing his departure from PTW" }
-2 = { path = "ptw6_leak.png", caption = "Wrestlefans' Sabinq realising he leaked a match. Further down, Taras admits to being on a break from the ring.", source = "Twitter/X"}
+2 = { path = "ptw6_leak.png", caption = "Sabinq from Wrestlefans realising he leaked a match. Further down, Taras admits to being on a break from the ring.", source = "Twitter/X"}
 3 = { path = "taras_cyrk.jpg", caption = 'Taras seemingly happy that he is no longer part of "this circus".', source = "Twitter/X"}
 4 = { path = "taras_60.png", caption = "Jakub Tyczyński accusing Taras of ratting out other wrestlers to boss Pawłowski. Jacob Crane is named for holding an exhausting training session, and Axel Fox for some crude humor during training. Also mocking his debut victory over Tischer, as something that the entire German scene supposedly derides.", source = "PTW's public Facebook group"}
 5 = { path = "taras_done.png", caption = "Arek Roter criticizes that a 10-year old car is pushed way more than any wrestler in PTW. Taras declares he's done with wrestling for the time.", source = "Twitter/X"}
-6 = { path = "sabinq_done.png", caption = "Wrestlefan's Sabinq declaring he know nothing about Stonoga's involvement, and dropping out of collaboration with PTW.", source = "Twitter/X"}
+6 = { path = "sabinq_done.png", caption = "Sabinq from Wrestlefans declaring he know nothing about Stonoga's involvement, and dropping out of collaboration with PTW.", source = "Twitter/X"}
 7 = { path = "ppw_wrestlers_stonoga.jpg", caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PpW merchandise. Except one, these fans are PpW wrestlers and personnel.', source = "Gazeta Stonoga's Facebook page" }
 8 = { path = "pozdro_dla_tych.png", caption = "Group post re-sharing Stonoga's announcement. The comment mocks people who spent their own money on the show. The bottom popup text is an alert that the post was removed.", source = "PTW's public Facebook Group"}
 9 = { path = "ludwiczek-babs.png", caption = 'Kacper "Ludwiczek" Bociański next to Baba-thunder. The post promotes [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) and the lottery.', source = "Instagram profile @ludwiczek_top"}
@@ -112,7 +112,7 @@ The initial name for the this merged promotion was "PTW: WWA" (also stylized as 
 ### 2024
 
 In February 2024, PTW held their fifth major event: [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), this time in Legionowo, in the Warsaw metropolitan area.
-The Underground shows were also moved to a new location. Initially announced as Gliwice, a historical city in the west of the Silesian metropolis, the actual location turned to be a venue in the neighboring village of Kozłów, about 9 km west of the city.
+The Underground shows were also moved to a new location. Initially announced as Gliwice, a historical city in the west of the Silesian metropolis, the actual location turned to be a venue in the neighboring village of Kozłów, about 9&nbsp;km west of the city.
 This made the Underground shows far less accessible, and sparked some criticism.
 They also lost their regularity, with [only one](@/e/ptw/2024-04-13-ptw-underground-21.md) being announced for April.
 That event was followed by [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) in May.

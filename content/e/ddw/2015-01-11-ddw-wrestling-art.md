@@ -9,7 +9,7 @@ city = "Przywidz"
 +++
 
 Held on the exact same day as [MZW's event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), and with donations also going towards WOŚP, this was DDW's second charity show.
-It was held in a gymnastics hall in Przywidz, a Kashubian village about 30km south-west of Gdańsk.
+It was held in a gymnastics hall in Przywidz, a Kashubian village about 30&nbsp;km south-west of Gdańsk.
 
 {% card() %}
 - ["[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)", "[Kaszub](@/w/kaszub.md),
