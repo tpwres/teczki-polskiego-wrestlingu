@@ -32,21 +32,27 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 {% card(predicted=true) %}
 - - Maverick
   - '[Puncher](@/w/puncher.md)'
+  - nc: upcoming
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Max Speed](@/w/max-speed.md)'
+  - nc: upcoming
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '???'
+  - nc: upcoming
 - - '[Spartan](@/w/spartan.md)'
   - Svedberg
+  - nc: upcoming
 - - Miyagi Shida
   - g: true
     s: Contract Signing
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
   - '???'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '???'
   - s: Women's Match
+    nc: upcoming
 {% end %}
 
 ### References
