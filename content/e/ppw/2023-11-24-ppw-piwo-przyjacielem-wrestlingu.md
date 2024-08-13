@@ -34,7 +34,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - [Czesław Pierdolec, "Steven Kimono"]
 - ["[Isnorr](@/w/isnorr.md), [Mister Z](@/w/mister-z.md)", "[Striker](@/w/royal-striker.md),
     Mamet", {s: "New Jack Tribute Match"}]
-- ['Bracia Pierdolec: ???, ???', "Bracia Kimono: Steven Kimono, Konnan Kimono",
+- ['Bracia Pierdolec: Czesław Pierdolec, [Gustav Gryffin](@/w/gustav-gryffin.md)', "Bracia Kimono: Steven Kimono, Konnan Kimono",
   {s: Tag Team Match}]
 - ["Hardcore Gustav", "El Senior Cerveza"]
 - [Kapral Kornel, '[Kapitan Bazooka](@/w/kapitan-bazooka.md)']
