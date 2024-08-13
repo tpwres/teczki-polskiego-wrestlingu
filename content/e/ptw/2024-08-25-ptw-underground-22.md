@@ -32,7 +32,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 {% card(predicted=true) %}
 - - Maverick
   - '[Puncher](@/w/puncher.md)'
-- - 'Vincent Caravaggio'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Max Speed](@/w/max-speed.md)'
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '???'

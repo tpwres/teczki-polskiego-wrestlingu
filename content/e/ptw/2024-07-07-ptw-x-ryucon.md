@@ -83,7 +83,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
     c: PTW Championship and WWA Championship
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
-- - 'Vincent Caravaggio, Svedberg'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md), Svedberg'
   - 'Gulyas Bros: Gulyas Öcsi, Gulyas Vilmos'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)'
