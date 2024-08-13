@@ -17,7 +17,7 @@ chrono_root = ["kpw"]
 
 Kombat Pro Wrestling launched in 2015, after the founder of [DDW](@/o/ddw.md), [Don Roid](@/w/don-roid.md), closed down his organization.
 At the end of 2014, DDW's operations moved from Rzeszów, where Roid lived with his family, to Gdańsk.
-The two cities are more than 600 km apart, and the team in Gdańsk began to run things without Roid's input. Finally, he sold the ring, closed DDW and retired from wrestling entirely.
+The two cities are more than 600&nbsp;km apart, and the team in Gdańsk began to run things without Roid's input. Finally, he sold the ring, closed DDW and retired from wrestling entirely.
 
 That team, consisting of several DDW alumni, bought the ring and - after some deliberations regarding the name, with "White Eagle Wrestling" also being considered - relaunched themselves as Kombat Pro Wrestling. Their first event, [KPW vs the World](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), was held in the exact same venue as [DDW's final event proper](@/e/ddw/2015-05-02-ddw-house-show-2.md) (not counting their [appearance on a convention](@/e/ddw/2015-07-24-ddw-baltikon.md) two months later). Thus KPW is the direct descendant of Do or Die Wrestling.
 

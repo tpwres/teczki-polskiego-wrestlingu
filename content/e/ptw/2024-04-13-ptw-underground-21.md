@@ -13,7 +13,7 @@ city = "Kozłów"
 
 PTW Underground 21 was an event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, April 13, 2024.
 
-Initially PTW announced that the event will be held in Gliwice, a city in the Silesian Metropolis. However, fans who bought tickets, surprised at the actual venue location, asked for confirmation on social media. PTW confirmed the location to be in Kozłów, a village about 10km west of Gliwice.
+Initially PTW announced that the event will be held in Gliwice, a city in the Silesian Metropolis. However, fans who bought tickets, surprised at the actual venue location, asked for confirmation on social media. PTW confirmed the location to be in Kozłów, a village about 10&nbsp;km west of Gliwice.
 
 The venue is listed as Dworek Pod Platanami, which is a hotel and restaurant, primarily organizing weddings. However, it neighbors a set of sport facilities - tennis courts and an indoor beach volleyball court, which _may_ be the actual venue.
 
@@ -77,9 +77,9 @@ In Longman's Confession segment, he moves away from always acknowledging public 
 "Thank you" chants are met with "shut up" response from Longman. No mention of Rzeźniczek and authority angle from [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). The story seemingly pivots to Pawłowski and Paka vs Longman.
 Longman confirms that he is behind every injury that Paka sustained (off-screen attack on Taras in 2022, Boro's injury) and vows to put them on the shelf for good.
 He makes flirty remarks towards Pawłowski's girlfriend Karolina, claiming she was aroused by the sight of her boyfriend beaten down, but then puts her down, saying she needs to drop at least 30 kg to earn Longman's attention.
-This prompts Pawłowski to storm the ring and get physical with Longman, with security keeping them apart. Taras' music plays and he storms the ring, immediately getting into a brawl with Longman (music still playing).
+This prompts Pawłowski to storm the ring and get physical with Longman, with security keeping them apart. Taras's music plays and he storms the ring, immediately getting into a brawl with Longman (music still playing).
 
-In their match, Longman is working hard to re-injure Taras' arm. Post-match, he hits Taras with _At Your Service_ (F5) on the chair and con-chair-to for good measure. [Disco Pablo](@/w/disco-pablo.md) made a save, but only after the attack is finished. He checks on Taras and tries to revive him, to no avail. Taras is stretchered out of the arena.
+In their match, Longman is working hard to re-injure Taras's arm. Post-match, he hits Taras with _At Your Service_ (F5) on the chair and con-chair-to for good measure. [Disco Pablo](@/w/disco-pablo.md) made a save, but only after the attack is finished. He checks on Taras and tries to revive him, to no avail. Taras is stretchered out of the arena.
 
 Pawłowski was on guest commentary for this match.
 
@@ -98,8 +98,8 @@ This is a competitive match, with a lot of aggression from Strong. Hammers wins 
 Post-match, Hammers and Olgierd celebrate a championship "defense" with confetti.
 
 Pawłowski invites Hammers back to the ring, and in comedic fashion goads him into cleaning the confetti with a broom.
-President of Comedy Show (one of the sponsors), Łukasz Okoński is invited to the ring and introduced by Pawłowski. Together, they mock Hammers' cleaning skills. Eventually Hammers is dismissed and celebrates his "defense" once again.
-During the promos, Pawłowski made conflicting remarks whether Hammers' title is an actual, PTW recognized championship. Later, in Facebook results, there was a mention of imaginary champions, which implies the title is still unsanctioned.
+President of Comedy Show (one of the sponsors), Łukasz Okoński is invited to the ring and introduced by Pawłowski. Together, they mock Hammers's cleaning skills. Eventually Hammers is dismissed and celebrates his "defense" once again.
+During the promos, Pawłowski made conflicting remarks whether Hammers's title is an actual, PTW recognized championship. Later, in Facebook results, there was a mention of imaginary champions, which implies the title is still unsanctioned.
 
 #### Main event: Puncher vs Marius Al-Ani
 

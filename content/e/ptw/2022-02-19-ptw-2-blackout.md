@@ -143,7 +143,7 @@ He takes the mic for a short promo. He absolves himself of the loss, blaming his
 * Marty Scurll makes his trademark entrance, wearing his plague doctor mask and an umbrella. The audience is clearly on his side, some "Villain Section" signs present in the crowd.
 * Krampus makes his entrance, the first in what would become a lengthy relationship with PTW.
 * Referee checks both performers and starts the match. They go back and forth with their offense, the crowd reacts mildly. While Krampus throws Marty around, Villain goes at him with strikes.
-* They continue to fight at rigside, superkick and Marty drags Krampus back in. He works Krampus' left leg with strikes and submission moves.
+* They continue to fight at rigside, superkick and Marty drags Krampus back in. He works Krampus's left leg with strikes and submission moves.
 * Marty with a figure four leg-lock, Krampus tries to fight through. He rolls and inverts the hold, and now Marty has to grab the rope to break the hold.
 * Krampus attempts a suplex, but he has troubles with his leg. Powerbomb attempt is cut off by Villain with a chop block to the injured leg.
 * They trade more offense, now crowd is 50-50. Scurll with a superplex to Krampus for a 2-count. Scurll grabs the umbrella and goes for Krampus, but ref is quick enough and removes the foreign object. Krampus capitalizes and hits Scurll with his finisher (fireman's carry neckbreaker) for a win.
@@ -186,7 +186,7 @@ He takes the mic for a short promo. He absolves himself of the loss, blaming his
 * Adonis leaves to take some time out at ringside, referee counts. He takes his time, breaks the count and leaves again. Adonis drags Aldis to ringside and they brawl, 
 * Irish whip from Adonis into a steel guardrail. Adonis pushes Aldis into the apron, breaks the count and throws him back in the ring.
 * Double axe handle from the middle rope on Aldis. Adonis punishes Aldis some more with strikes and pushes him onto middle rope, runs the ropes for a seated senton. Pinfall attempt, headlock on seated Aldis who breaks free.
-* Adonis with a backbreaker, working Aldis' back. Adonis takes his time to taunt Santino who's on commentary, and hits a knee into the seated Aldis' back, follows with a submission hold.
+* Adonis with a backbreaker, working Aldis's back. Adonis takes his time to taunt Santino who's on commentary, and hits a knee into the seated Aldis's back, follows with a submission hold.
 * Aldis breaks the hold and tries to make his comeback, steps back up, runs the rope and is cut off by an elbow from Adonis. He climbs the middle rope once again, but Aldis runs at him with punches.
 * Aldis sets Adonis in position, superplex! They're both back on their feet and trade strikes. Adonis with the upperhand, attempts a Masterlock, but Aldis quickly breaks free.
 * A series of running lariats follows, until Adonis is laid out. Aldis runs at Adonis in the corner, Adonis counters with an elbow, runs at Aldis who counters into a powerslam. Pinfall attempt to no avail, Aldis quickly takes it to the top rope.
