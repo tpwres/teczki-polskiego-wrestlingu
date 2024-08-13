@@ -6,6 +6,8 @@ authors = ["Seweryn Pielucha"]
 country = ["PL"]
 [extra]
 career_aliases = ["Nathan Cross"]
+[extra.gallery]
+1 = { path = "gabriel-queen.jpg", caption = "Gabriel Queen in the ring at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "M3n747" }
 +++
 
 ## Basic info

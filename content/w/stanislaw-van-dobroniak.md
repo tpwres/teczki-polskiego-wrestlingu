@@ -3,6 +3,8 @@ title = "Stanisław Van Dobroniak"
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "stanislaw-van-dobroniak.jpg", caption = "Dobroniak's entrance, [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "M3n747" }
 +++
 
 ### Botchamania

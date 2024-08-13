@@ -9,8 +9,8 @@ chrono_root = ["ppw"]
 year_list_start = 2017
 toclevel = 3
 [extra.gallery]
-1 = { path = "backyard_korzenie.jpg", caption = '[Mister Zet](@/w/mister-z.md) (left) and [Gustav Gryffin](@/w/gustav-gryffin.md) in front of presumably the new ring. Text: "Today Mister Z showed me his roots"' }
-2 = { path = "biesiad_dive.jpg", caption = '[Biesiad](@/w/biesiad.md) testing the new ring by diving into some foam padding. Text: What a backyard, (expletive).' }
+1 = { path = "backyard_korzenie.jpg", caption = '[Mister Z](@/w/mister-z.md) (left) and [Gustav Gryffin](@/w/gustav-gryffin.md) in front of presumably the new ring. Text: "Today Mister Z showed me his roots"' }
+2 = { path = "biesiad_dive.jpg", caption = '[Biesiad](@/w/biesiad.md) testing the new ring by diving into some foam padding. Text: What a backyard, oh fuuuck.' }
 3 = { path = "zet_supron.jpg", caption = 'Andrzej Supron and Mister Zet shaking hands.' }
 +++
 
