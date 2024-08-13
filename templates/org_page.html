@@ -1,10 +1,6 @@
 {% extends "base.html" %}
 {%- import "macros/career.html" as macros %}
 
-{% block extra_head %}
-<link rel="stylesheet" href="{{ get_url(path="/tables.css") }}"/>
-{% endblock %}
-
 {% block content %}
 {# NOTE: must be in block content #}
 {% if page.extra.gallery -%}{% set has_gallery = true %}{% endif %}
