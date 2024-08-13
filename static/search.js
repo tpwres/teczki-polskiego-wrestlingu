@@ -27,7 +27,8 @@ const initSearch = () => {
     searchInput.value = '';
     const options = {
         boost: { 'title': 1.6 },
-        combineWith: 'AND'
+        combineWith: 'AND',
+        prefix: true
     };
     const MAX_ITEMS = 16;
     let currentTerm;
