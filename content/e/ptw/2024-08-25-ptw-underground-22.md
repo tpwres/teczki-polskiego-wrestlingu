@@ -37,7 +37,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '???'
 - - '[Spartan](@/w/spartan.md)'
-  - '???'
+  - Svedberg
 - - Miyagi Shida
   - g: true
     s: Contract Signing
