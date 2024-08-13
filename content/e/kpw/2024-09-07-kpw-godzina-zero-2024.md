@@ -39,6 +39,7 @@ Card based on social media posts.
 - - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
   - 'The 87: Alexander Roth, Roy Johnson'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+    nc: upcoming
 - - '[Zefir](@/w/zefir.md)'
   - '[Darius](@/w/darius.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
@@ -46,18 +47,23 @@ Card based on social media posts.
   - 'Flexos'
   - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Rosetti](@/w/rosetti.md)'
-  - {s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match}
+  - s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match
+    nc: upcoming
 - - '[Leon Lato](@/w/leon-lato.md)'
   - Reece Alexios
+  - nc: upcoming
 - - '[Greg](@/w/greg.md)'
   - '[Ron Corvus](@/w/ron-corvus.md)'
-  - {s: Hardcore Match}
+  - s: Hardcore Match
+    nc: upcoming
 - - '[Chemik](@/w/chemik.md)'
   - 'Carlos Zamora'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+    nc: upcoming
 - - 'Red Scorpion'
   - 'Jack Jester'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
+    nc: upcoming
 {% end %}
 
 #### Recap
