@@ -33,11 +33,18 @@ class UnlinkedParticipantError(LintError):
     def __str__(self):
         return "Match {}: replace {} with link {}".format(self.match_index + 1, self.name, self.link)
 
-    def message(self, file_root: Path):
-        return "[{}] {}".format(self.path.relative_to(file_root), self)
+    def message(self, file_root: Optional[Path]):
+        if file_root:
+            return f"[{self.path.relative_to(file_root)}] Error: {self}"
+        else:
+            return f'[{self.path.pathname()} Error: {self}'
 
     @property
     def supports_auto(self):
+        return True
+
+    @property
+    def fatal(self):
         return True
 
     def calculate_fix(self, text) -> Optional[Changeset]:
