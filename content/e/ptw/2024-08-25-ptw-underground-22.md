@@ -22,7 +22,7 @@ This Underground show is the first one to have an individual title, not just a n
 ## Build-up
 
 * On July 19 2024, PTW updated their Facebook cover photo, confirming dates for both the camp and the show. The training camp will start on Sunday August 18, and the show is to be held on the next Sunday, August 25.
-* On August 8th, the official poster was revealed, prominently featuring Maverick and [Puncher](@/w/puncher.md) suggesting a main event between the two.
+* On August 8th, the official poster was revealed, prominently featuring Maverick and [Puncher](@/w/puncher.md) suggesting a main event between the two. A couple of days later, on August 13, this was announced as a title match for the WWA Championship.
 
 ### Change in ticketing
 
@@ -33,6 +33,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - Maverick
   - '[Puncher](@/w/puncher.md)'
   - nc: upcoming
+    c: 'WWA Championship'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - nc: upcoming
@@ -60,3 +61,4 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 * [Facebook post with the cover image](https://www.facebook.com/photo/?fbid=528941409458506&set=a.136592405360077), confirming dates and listing sponsors.
 * [Facebook post revealing the poster](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KpJesZ3E1Jb3jpySUa71thS6qW4sGweLhzG9hWw1WivtihsxBWMAdLHnnYxnsM6cl)
 * [Facebook post announcing the ticket platform change](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0tdHu7WaJXLfDZi8dX57NLMjaP6keLDCBoj77mkr5FiSyrr9NwpVK84ESBsQ58vHil)
+* [Facebook post announcing a title match](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KPxKzErHhSzLak5t3ciBXRPFRj2rMKgPMEMGGeJANJG4xZyzN8pFB55A2STS4N6il) between Maverick and Puncher
