@@ -20,10 +20,10 @@ _See also: [PTW Exits](@/a/ptw-exits.md)._
 
 Over the course of 2023 and 2024 multiple wrestlers left [Prime Time Wrestling](@/o/ptw.md), either voluntarily or forcibly removed by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Dissatisfied with their former promotion, they decided to start a wrestling project of their own which, unlike PTW, would be open for cooperation with other Polish organisations. In early August of 2024 a number of former PTW wrestlers and staff posted to their social media teasing upcoming wrestling-related news.
 
-On the 14th of August a [reveal trailer](https://www.youtube.com/watch?v=_CvfCaElDK4) was posted to a new YouTube channel named Legacy of Wrestling. Set to the cover of Krystyna Prońko's song "Psalm stojących w kolejce" (_The Psalm of Those Standing in Line_), the trailer showed a couple of PTW-related fake newspaper clippings followed by several ex-PTW wrestlers, such as [Marco Hammers](@/w/marco-hammers.md), [Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md) or [Disco Pablo](@/w/disco-pablo.md). It then showed the LoW logo and closed with [Sinister](@/w/sinister.md) singing "All You Need is Love" by The Beatles.
+On the 14th of August a [reveal trailer](https://www.youtube.com/watch?v=_CvfCaElDK4) was posted to a new YouTube channel named Legacy of Wrestling. Set to the cover of Krystyna Prońko's song "Psalm stojących w kolejce" (_The Psalm of Those Standing in Line_), the trailer showed a couple of PTW-related fake newspaper clippings followed by several ex-PTW wrestlers, such as [Marco Hammers](@/w/marco-hammers.md), [Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md) or [Disco Pablo](@/w/disco-pablo.md). It then showed the LOW logo and closed with [Sinister](@/w/sinister.md) singing "All You Need is Love" by The Beatles.
 
 
 ### References
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
-* [Video: LoW reveal trailer](https://www.youtube.com/watch?v=_CvfCaElDK4)
+* [Video: LOW reveal trailer](https://www.youtube.com/watch?v=_CvfCaElDK4)
