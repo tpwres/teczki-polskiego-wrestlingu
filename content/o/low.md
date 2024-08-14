@@ -9,7 +9,7 @@ toclevel = 3
 chrono_root = ["low"]
 [extra.gallery]
 1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
-2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr "ShowOff" Małecki teasing upcoming news", source = "ShowOff's Instagram" }
+2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "ShowOff's Instagram" }
 +++
 
 ### History
