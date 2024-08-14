@@ -15,6 +15,7 @@ template = "index.html"
 | 2015- | {{ org_badge(org='kpw') }} [Kombat Pro Wrestling](@/o/kpw.md) | Gdańsk, Gdynia |
 | 2020- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
 | 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów |
+| 2024- | {{ org_badge(org='low') }} [Legacy of Wrestling](@/o/low.md) | Katowice |
 
 
 ### Wrestling schools
