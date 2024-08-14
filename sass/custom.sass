@@ -105,8 +105,17 @@ h1.title-with-flag
   justify-content: space-between
   align-items: center
 
+time:has(+ h1:not(.title))
+  color: var(--dark-red)
+  font-weight: bold
+  font-size: 1.75rem
+  flex-basis: 100%
+
+time + h1:not(.title)
+  margin-top: 0
+
 h1:not(.title)
-  color: var(--dark-green)
+  color: var(--dark-red)
   display: flex
   align-items: flex-start
   text-align: left
@@ -116,19 +125,10 @@ h1:not(.title)
     content: ''
     flex-grow: 1
     height: 0.3rem
-    background: var(--dark-green)
+    background: var(--dark-red)
     min-width: 2rem
     margin: auto
     margin-left: 1rem
-
-  time
-    font-size: 1.75rem
-    flex-basis: 100%
-
-h1:not(.title)
-    color: var(--dark-red)
-    &::after
-      background: var(--dark-red)
 
 h2
   color: var(--dark-green)
