@@ -143,7 +143,7 @@ He takes the mic for a short promo. He absolves himself of the loss, blaming his
 * Marty Scurll makes his trademark entrance, wearing his plague doctor mask and an umbrella. The audience is clearly on his side, some "Villain Section" signs present in the crowd.
 * Krampus makes his entrance, the first in what would become a lengthy relationship with PTW.
 * Referee checks both performers and starts the match. They go back and forth with their offense, the crowd reacts mildly. While Krampus throws Marty around, Villain goes at him with strikes.
-* They continue to fight at rigside, superkick and Marty drags Krampus back in. He works Krampus's left leg with strikes and submission moves.
+* They continue to fight at rigside, superkick and Marty drags Krampus back in. He works Krampus' left leg with strikes and submission moves.
 * Marty with a figure four leg-lock, Krampus tries to fight through. He rolls and inverts the hold, and now Marty has to grab the rope to break the hold.
 * Krampus attempts a suplex, but he has troubles with his leg. Powerbomb attempt is cut off by Villain with a chop block to the injured leg.
 * They trade more offense, now crowd is 50-50. Scurll with a superplex to Krampus for a 2-count. Scurll grabs the umbrella and goes for Krampus, but ref is quick enough and removes the foreign object. Krampus capitalizes and hits Scurll with his finisher (fireman's carry neckbreaker) for a win.
