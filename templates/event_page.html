@@ -5,7 +5,10 @@
 {% endblock %}
 
 {% block content %}
-<time class="event-date">{{ page.date }}</time>
+<span class="event-date-location">
+  <time class="event-date">{{ page.date }}</time>
+  {% include "event_location.html" %}
+</span>
 <h1>
 {{ page.title }}
 </h1>

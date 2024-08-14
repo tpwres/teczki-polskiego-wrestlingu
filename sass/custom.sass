@@ -105,13 +105,13 @@ h1.title-with-flag
   justify-content: space-between
   align-items: center
 
-time:has(+ h1:not(.title))
+.event-date-location:has(+ h1)
   color: var(--dark-red)
   font-weight: bold
   font-size: 1.75rem
   flex-basis: 100%
 
-time + h1:not(.title)
+.event-date-location + h1:not(.title)
   margin-top: 0
 
 h1:not(.title)
