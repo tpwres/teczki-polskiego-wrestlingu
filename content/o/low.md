@@ -8,7 +8,7 @@ toclevel = 3
 [taxonomies]
 chrono_root = ["low"]
 [extra.gallery]
-1 = { path = "low-logo.png", caption = "Screenshot from an Instagram post by Piotr "ShowOff" Małecki teasing upcoming news", source = "ShowOff's Instagram" }
+1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
 2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr "ShowOff" Małecki teasing upcoming news", source = "ShowOff's Instagram" }
 +++
 
@@ -16,7 +16,7 @@ chrono_root = ["low"]
 
 #### 2024: A new chapter
 
-_Main article: [PTW Exits](@/a/ptw-exits.md)._
+_See also: [PTW Exits](@/a/ptw-exits.md)._
 
 Over the course of 2023 and 2024 multiple wrestlers left [Prime Time Wrestling](@/o/ptw.md), either voluntarily or forcibly removed by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Dissatisfied with their former promotion, they decided to start a wrestling project of their own which, unlike PTW, would be open for cooperation with other Polish organisations. In early August of 2024 a number of former PTW wrestlers and staff posted to their social media teasing upcoming wrestling-related news.
 
