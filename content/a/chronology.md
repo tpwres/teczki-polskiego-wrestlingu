@@ -3,8 +3,6 @@ title = "Chronology of Polish wrestling"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
-[extra.gallery]
-1 = { path = "chronology.png", caption = "The chronology of Polish wrestling", source = "M3n747" }
 +++
 
 Below is the general chronology of Polish wrestling promotions, both professional and backyard.
