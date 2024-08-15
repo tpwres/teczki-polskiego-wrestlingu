@@ -1,0 +1,5 @@
+{%- set root = "${SITEMAP_ROOT}" | trim_end_matches(pat="/") -%}
+User-agent: *
+Disallow: *
+Allow: /
+Sitemap: {{ root ~ "/sitemap.txt" | safe }}

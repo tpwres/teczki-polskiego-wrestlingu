@@ -18,9 +18,10 @@ create_config() {
     envsubst < cloudflare-config.toml > build_cloudflare_config.toml
 }
 
-setup_sitemap() {
+setup_seo() {
    export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$CF_PAGES_URL}
    envsubst < templates/sitemap_template.xml > templates/sitemap.xml
+   envsubst < templates/robots_template.txt > templates/robots.txt
 }
 
 
@@ -35,5 +36,5 @@ build() {
 
 lint
 create_config
-setup_sitemap
+setup_seo
 build
