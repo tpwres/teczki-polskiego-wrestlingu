@@ -19,6 +19,15 @@ create_config() {
 }
 
 setup_seo() {
+   # Find the last-modified dates of all files under content/
+   # Edit each file inline, inserting updated= into front matter
+   git ls-files content/ | \
+   while read FILE; do
+       git log --pretty="$FILE: %as" -1 -- "$FILE"
+   done | while read FILE MTIME; do
+       sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/"
+   done
+
    export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$CF_PAGES_URL}
    envsubst < templates/sitemap_template.xml > templates/sitemap.xml
    envsubst < templates/robots_template.txt > templates/robots.txt
