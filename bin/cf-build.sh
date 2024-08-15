@@ -25,7 +25,7 @@ setup_seo() {
    while read FILE; do
        git log --pretty="$FILE: %as" -1 -- "$FILE"
    done | while read FILE MTIME; do
-       sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/"
+       sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
    done
 
    export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$CF_PAGES_URL}
