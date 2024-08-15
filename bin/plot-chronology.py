@@ -107,7 +107,8 @@ def build_colormap():
         '#770077', #PpW
         '#00B200', #MZW
         '#0066CC', #KPW
-        '#000000'  #PTW
+        '#000000', #PTW
+        '#B24C4C'  #LOW
     ])
 
 def setup():

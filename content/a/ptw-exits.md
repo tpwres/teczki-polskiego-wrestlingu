@@ -2,6 +2,8 @@
 title = "PTW Exits"
 weight = 5
 template = "article.html"
+[extra]
+toclevel = 3
 [extra.gallery]
 1 = { path = "rafi-exit-insta.jpg", caption = "Screenshot of [Rafi](@/w/rafi.md)'s goodbye post. His instagram profile is currently (June 2024) set to private.", source = "Instagram @rafirarytaswrestling"}
 2 = { path = "sambor-insta-thanks.jpg", caption = '[Sambor](@/w/sambor.md) thanking the fans, organization and Pawłowski for support. The text states that his time in wrestling is not over, and his story will be told in many taverns.'}
