@@ -19,6 +19,7 @@ create_config() {
 }
 
 setup_sitemap() {
+   export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$CF_PAGES_URL}
    envsubst < templates/sitemap_template.xml > templates/sitemap.xml
 }
 

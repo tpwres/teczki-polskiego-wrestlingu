@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% set root = "${SITEMAP_ROOT}" | trim_end_matches(pat="/") %}
 {% for entry in entries %}
   <url>
-    <loc>${CF_PAGES_URL}}/{{ entry.permalink | escape_xml | safe }}</loc>
+    <loc>{{ root ~ entry.permalink | escape_xml | safe }}</loc>
     {% if entry.updated %}
     <lastmod>{{ entry.updated }}</lastmod>
     {% endif %}
