@@ -18,6 +18,10 @@ create_config() {
     envsubst < cloudflare-config.toml > build_cloudflare_config.toml
 }
 
+setup_sitemap() {
+   envsubst < templates/sitemap_template.xml > templates/sitemap.xml
+}
+
 
 build() {
     #python3 bin/build_metadata.py
@@ -30,4 +34,5 @@ build() {
 
 lint
 create_config
+setup_sitemap
 build
