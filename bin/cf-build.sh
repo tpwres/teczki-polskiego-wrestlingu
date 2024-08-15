@@ -23,7 +23,7 @@ setup_seo() {
    # Edit each file inline, inserting updated= into front matter
    git ls-files content/ | \
    while read FILE; do
-       git log --pretty="$FILE: %as" -1 -- "$FILE"
+       git log --pretty="$FILE %as" -1 -- "$FILE"
    done | while read FILE MTIME; do
        sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
    done
