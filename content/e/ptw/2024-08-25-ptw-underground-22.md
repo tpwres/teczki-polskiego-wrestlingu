@@ -1,5 +1,5 @@
 +++
-title = "PTW Underground 22: FACE OFF"
+title = "PTW Underground 22: FACE-OFF"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
