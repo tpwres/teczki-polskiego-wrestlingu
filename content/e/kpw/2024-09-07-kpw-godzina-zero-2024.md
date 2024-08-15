@@ -32,7 +32,7 @@ According to KPW's event page, there will be a significant number of foreign tal
 * In the same video Malinowski stated that Greg would face Fynn Freyhart at [Pyrkon 2024](@/e/kpw/2024-06-15-kpw-pyrkon-2024.md) and if he won, he'd get to challenge Red Scorpion for the KPW Championship at Godzina Zero 2024. Greg lost the match, leaving the championship match-up in the air.
 * Chairman Malinowski announced that all three championships would be defended.
 * Starting on June 22, 2024, KPW started daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
-* Chemik posted a [video][chemik-video] stating that he did a whole lot of bad things to get [his title](@/c/kpw-old-town-championship.md) and that losing it would be like the end of the world to him. Perhaps tying into the name of the [previous event](@/w/kpw/2024-05-17-kpw-arena-25.md), he said "I did so many bad things that when I stand at the Pearly Gates, Saint Peter himself will kick my ass so hard I'll fly down straight to the ninth circle of hell", adding that the belt constitutes his identity.
+* Chemik posted a [video][chemik-video] stating that he did a whole lot of bad things to get [his title](@/c/kpw-old-town-championship.md) and that losing it would be like the end of the world to him. Perhaps tying into the name of the [previous event](@/e/kpw/2024-05-17-kpw-arena-25.md), he said "I did so many bad things that when I stand at the Pearly Gates, Saint Peter himself will kick my ass so hard I'll fly down straight to the ninth circle of hell", adding that the belt constitutes his identity.
 
 Card based on social media posts.
 
