@@ -37,7 +37,7 @@ city = "Chorzów"
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Interviewer: Krzysztof Skwarczyński
-    Commentary: [Arek Paterek](@/w/arek-paterek.md), '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
+    Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Referees: Sędzia Matek
 {% end %}
 

@@ -23,7 +23,9 @@ The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2
   - {r: DQ, s: Tag Team Match}
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Commentary: [Arek Paterek](@/w/arek-paterek.md), '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
+    Commentary: >
+      [Arek Paterek](@/w/arek-paterek.md),
+      [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)
     Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 

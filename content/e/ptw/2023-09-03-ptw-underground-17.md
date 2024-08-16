@@ -23,7 +23,7 @@ city = "Chorzów"
 - ['[Dziedzic](@/w/dziedzic.md)', '["Top Gun" Samson](@/w/samson.md)']
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Commentary: '[Piotr "ShowOff" Małecki'](@/w/piotr-malecki.md)'
+    Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
     Special guest commentary: '[Diana Strong](@/w/diana-strong.md)'
     Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}

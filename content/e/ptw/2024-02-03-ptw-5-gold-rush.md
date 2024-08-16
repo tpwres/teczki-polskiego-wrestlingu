@@ -71,7 +71,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
     x: [2] # Exclude Karolina from talent list
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Commentary: [Arek Paterek](@/w/arek-paterek.md), '[Piotr "ShowOff" Małecki'](@/w/piotr-malecki.md)', '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
+    Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Special Guest Commentary: Andrzej Supron, Paweł "Boryss" Borkowski
     English Commentary: 'Lewis Costello, [Santino](@/w/santino.md)'
     Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
