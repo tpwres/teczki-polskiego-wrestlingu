@@ -96,6 +96,7 @@ Shortly before the show, they were trading insults and challeneges online with L
 
 ### References
 
+* [Video: Legia Łysych vs Pure Gold](https://www.youtube.com/watch?v=zySx2QXuNFQ)
 * [Facebook post announcing Gustav vs Goblin II](https://www.facebook.com/OficjalnePPW/posts/pfbid02iGFhFNmgVNxhonkm9tESeyEbatpvufnCvHeezjcAa9xU3A8G7dnToAQcUDcd9vWYl)
 * [Post-show interview with Mister Z](https://youtu.be/8u292TzKREA?t=17984) at Ewenement Haze, announcing his next match (at 4:59:44)
 * [Facebook post announcing Robert Star](https://www.facebook.com/OficjalnePPW/posts/pfbid02GSspE1SNetocUY2kWnC9LhDdsKYSGgh17G4h2bV4Q3CaRgLkziMrC6JDPkCYWBVnl)
