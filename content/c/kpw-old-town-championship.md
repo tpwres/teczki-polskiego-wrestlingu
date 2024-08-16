@@ -166,6 +166,6 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
 {% end %}
 
 
-### References
+## References
 
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
