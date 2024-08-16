@@ -30,21 +30,3 @@
 {% endif -%}
 
 {% endblock content %}
-
-{% block pagination %}
-  {# In the event list, higher is an older event, and lower is a newer event #}
-  {# In the org list, they are listed by weight ascending, but
-     previous is lower weight, next is higher weight. #}
-  <span class="prev">
-    {% if page.lower %}
-      Previous:
-      <a href="{{ get_url(path=page.lower.path) }}">{{ page.lower.title }}</a>
-    {% endif %}
-  </span>
-  <span class="prev">
-    {% if page.higher %}
-      Next:
-      <a href="{{ get_url(path=page.higher.path) }}">{{ page.higher.title }}</a>
-    {% endif %}
-  </span>
-{% endblock %}
