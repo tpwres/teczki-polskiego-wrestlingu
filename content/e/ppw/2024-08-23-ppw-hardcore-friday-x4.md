@@ -15,7 +15,17 @@ In the closing sequence of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md
 
 The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was one of PpW's rosters (or weeklies, which never actually occured weekly), featuring [Johnny Blade](@/w/johnny-blade.md), [Bill Feager](@/w/feager.md), [Hades](@/w/olgierd.md) and [Rob Scaffold](@/w/rob-scaffold.md).
 
-{{ skip_card() }}
+{% card() %}
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - '[Samson](@/w/samson.md)'
+  - s: non-title match
+- - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - ???
+  - s: Johnny Blade’s Insane Wheel of Fortune Gauntlet Invitational Match
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - s: Unsanctioned Match
+{% end %}
 
 ## References
 
