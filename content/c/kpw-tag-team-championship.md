@@ -113,6 +113,6 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
     ed: 2024-02-16
 {% end %}
 
-### References
+## References
 
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)

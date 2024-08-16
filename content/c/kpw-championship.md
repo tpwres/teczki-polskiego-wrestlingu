@@ -188,6 +188,6 @@ Red Scorpion also defended the title outside of Poland: in [October 2023](https:
 Both defenses took place during events held by Bologna Wrestling Team.
 
 
-### References
+## References
 
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
