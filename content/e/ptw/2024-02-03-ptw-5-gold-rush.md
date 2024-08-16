@@ -51,7 +51,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[Mutant](@/w/mutant.md)'
   - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
-  - Sędzia Rafał
+  - '[Sędzia Rafał](@/w/sedzia-rafal.md)'
   - '[Santino](@/w/santino.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Olgierd](@/w/olgierd.md)'
@@ -116,7 +116,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 14. Longman eliminates Diana
 15. Longman eliminates Mutant
 16. Bad Bones's music hits. Bones appears on screen and demands a title match from Pawłowski.
-17. Sędzia Rafał, who remains outside the ring
+17. [Sędzia Rafał](@/w/sedzia-rafal.md), who remains outside the ring
 18. [Iskra](@/w/iskra.md) enters the ring
 19. Cowboy James Storm eliminates Iskra
 20. Sędzia Rafał enters the ring

@@ -34,7 +34,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 - - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
   - "Carlos Zamora, Steinbolt"
   - c: KPW Tag Team Championship
-- [Primate, '[Greg](@/w/greg.md)']
+- ['[Primate](@/w/primate.md)', '[Greg](@/w/greg.md)']
 - - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Chemik](@/w/chemik.md)'
   - '[Daniel Boza](@/w/mutant.md)'

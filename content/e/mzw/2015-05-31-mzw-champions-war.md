@@ -22,7 +22,7 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
 
 
 {% card() %}
-- ["Kevin Williams", "[Asmund](@/w/asmund.md)"]
+- ["[Kevin Williams](@/w/kevin-williams.md)", "[Asmund](@/w/asmund.md)"]
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Mr B.](@/w/mr-b.md)"]
 - ["[Red Thunder](@/w/red-thunder.md)", "[Kripto](@/w/kripto.md)"]
 - - "Projekt Gold: Nickolas von Rijk, [Robert Kaiser](@/w/robert-kaiser.md)"

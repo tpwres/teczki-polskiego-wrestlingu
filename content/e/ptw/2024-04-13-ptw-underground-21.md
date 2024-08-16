@@ -33,7 +33,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
     s: Longman's Confession
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
 - ['[Max Speed](@/w/max-speed.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
-- ['[Karol "Iskra" Górski](@/w/iskra.md)', S. Rafał, {g: true}]
+- ['[Karol "Iskra" Górski](@/w/iskra.md)', '[S. Rafał](@/w/sedzia-rafal.md)', {g: true}]
 - - '[Marco "Łysy" Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: PTW Intergender Championship (unsanctioned)
@@ -87,7 +87,7 @@ Pawłowski was on guest commentary for this match.
 
 In a short match-up, Max Speed gets his first win in PTW with SpeedForce (lungblower).
 
-A post-match segment between Iskra and S.Rafał follows. Rafał offers Iskra his friendship, additionally stating that he drops his "Srafał" identity and wants to be known as "Alex Brave" (ringname change).
+A post-match segment between Iskra and S. Rafał follows. Rafał offers Iskra his friendship, additionally stating that he drops his "Srafał" identity and wants to be known as "Alex Brave" (ringname change).
 Iskra leaves Brave alone in the ring, Disco Pablo makes his entrance and dispatches them both. Longman storms the ring to goad Pablo into attacking and immediately runs away, playing some mind games.
 
 #### Marco Hammers vs Diana Strong
