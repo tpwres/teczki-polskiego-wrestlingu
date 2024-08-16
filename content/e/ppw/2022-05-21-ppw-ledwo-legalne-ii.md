@@ -18,10 +18,10 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 
 
 {% card() %}
-- ["[Mister Z](@/w/mister-z.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {nc: "?"}]
-- ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Tony Sk1n](@/w/tony-sk1n.md)", {nc: "?"}]
-- ["Asara", "[Skull Evil](@/w/skull-evil.md)", {nc: "?"}]
-- ["[Bill Feager](@/w/feager.md)", "[Adam Wong](@/w/adam-wong.md)", {nc: "?"}]
+- ["[Mister Z](@/w/mister-z.md)", "[Steve Kuningas](@/w/steve-kuningas.md)"]
+- ["[Tony Sk1n](@/w/tony-sk1n.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
+- ["[Adam Wong](@/w/adam-wong.md)", "[Bill Feager](@/w/feager.md)"]
+- ["Asara", "[Skull Evil](@/w/skull-evil.md)", {nc: "by DQ"}]
 - ["[Biesiad Strong](@/w/biesiad.md)(c)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
 - - "[Johnny Blade](@/w/johnny-blade.md)"
   - "Viking"
