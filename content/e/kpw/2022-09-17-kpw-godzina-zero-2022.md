@@ -36,7 +36,7 @@ The foreign guests for the event were:
 - ['[Zefir](@/w/zefir.md)', '[Leon Lato](@/w/leon-lato.md)']
 - - "Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
   - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
-  - "'[Primate](@/w/primate.md)', Tommy Freeman"
+  - "[Primate](@/w/primate.md), Tommy Freeman"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - {c: KPW Tag Team Championship, s: 4-way Elimination Match}
 - - '[Rosetti](@/w/rosetti.md)'
