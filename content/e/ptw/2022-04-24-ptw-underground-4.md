@@ -22,7 +22,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 - ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '[Disco Pablo](@/w/disco-pablo.md)']
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Commentary: 'Arkadiusz Paterek, Piotr "ShowOff" Małecki'
+    Commentary: '[Arkadiusz Paterek](@/w/arek-paterek.md), '[Piotr "ShowOff" Małecki'](@/w/piotr-malecki.md)'
     Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 

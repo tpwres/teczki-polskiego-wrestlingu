@@ -30,8 +30,8 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
       [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md),
       VcV Hardcore Championship
 - credits:
-    Host, Ring Announcer: Michael HT
-    Referees: Sędzia Gocha # Borys
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
 ### References
