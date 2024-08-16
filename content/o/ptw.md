@@ -28,6 +28,8 @@ toclevel = 3
 102 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
 103 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
 104 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler [Justin Joy](@/w/justin-joy.md) (as oski_ninja) praises Ludwiczek for talking sense, while [Samson](@/w/samson.md) wants a match against Pawłowski."}
+201 = { path = "nowahala-1.webp", caption = "PTW's new venue with the ring, tables and giant posters.", source = "Instagram @lukasz_prezes_okonski"}
+202 = { path = "nowahala-2.webp", caption = "PTW's new venue with training equipment.", source = "Instagram @lukasz_prezes_okonski"}
 +++
 
 ## History
@@ -174,6 +176,10 @@ On Thursday June 13th, PTW has taken down the roster section of their page.
 
 In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that Axel Fox, a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before.
 
+#### Soft reboot: new venue in Kozłów
+
+On August 15 2024, Łukasz Okoński, who's the owner of Dworek Pod Platanem where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [22](@/e/ptw/2024-08-25-ptw-underground-22.md) were held, posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
+The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Babathunder.
 
 ## Polish wrestling scene
 
