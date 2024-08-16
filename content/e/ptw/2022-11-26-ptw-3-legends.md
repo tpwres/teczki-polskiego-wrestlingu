@@ -22,7 +22,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 - - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
   - "PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
   - s: Tag Team Match
-- [Marty Scurll, Primate]
+- [Marty Scurll, '[Primate](@/w/primate.md)']
 - [Myla Grace, Xia Brookside, '[Diana Strong](@/w/diana-strong.md)', {s: Triple Threat
       Match}]
 - ['[Justin Joy](@/w/justin-joy.md)', '[Axel Fox](@/w/axel-fox.md)', {s: No Disqualification

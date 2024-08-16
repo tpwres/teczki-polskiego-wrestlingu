@@ -11,12 +11,12 @@ city = "Kąty Wrocławskie"
 {% card() %}
 - ['[Rider](@/w/asmund.md)', '[Klarys](@/w/klarys.md)']
 - ['[Don Roid](@/w/don-roid.md)', Rob Cage]
-- ['[Jędruś Bułecka](@/w/jedrus-bulecka.md)', Kevin Williams, {r: DQ, s: Grudge Match}]
+- ['[Jędruś Bułecka](@/w/jedrus-bulecka.md)', '[Kevin Williams](@/w/kevin-williams.md)', {r: DQ, s: Grudge Match}]
 - - "Chris Botherway + [Kamil Aleksander](@/w/kamil-aleksander.md)"
   - Claymore
   - '[Don Roid](@/w/don-roid.md)'
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
-  - Kevin Williams
+  - '[Kevin Williams](@/w/kevin-williams.md)'
   - '[Klarys](@/w/klarys.md)'
   - '[Rider](@/w/asmund.md)'
   - Rob Cage
