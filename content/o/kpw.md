@@ -19,7 +19,7 @@ Kombat Pro Wrestling launched in 2015, after the founder of [DDW](@/o/ddw.md), [
 At the end of 2014, DDW's operations moved from Rzeszów, where Roid lived with his family, to Gdańsk.
 The two cities are more than 600&nbsp;km apart, and the team in Gdańsk began to run things without Roid's input. Finally, he sold the ring, closed DDW and retired from wrestling entirely.
 
-That team, consisting of several DDW alumni, bought the ring and - after some deliberations regarding the name, with "White Eagle Wrestling" also being considered - relaunched themselves as Kombat Pro Wrestling. Their first event, [KPW vs the World](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), was held in the exact same venue as [DDW's final event proper](@/e/ddw/2015-05-02-ddw-house-show-2.md) (not counting their [appearance on a convention](@/e/ddw/2015-07-24-ddw-baltikon.md) two months later). Thus KPW is the direct descendant of Do or Die Wrestling.
+That team, consisting of several DDW alumni, bought the ring and - after some deliberations regarding the name, with "White Eagle Wrestling" also being considered - relaunched themselves as Kombat Pro Wrestling. Their first event, [KPW vs the World](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), was held in the exact same venue as [DDW's final event proper](@/e/ddw/2015-05-02-ddw-house-show-2.md) (not counting their [appearance at a convention](@/e/ddw/2015-07-24-ddw-baltikon.md) two months later). Thus KPW is the direct descendant of Do Or Die Wrestling.
 
 In 2016 they would relocate to Gdynia, holding their shows in a recently reopened [music club](@/v/atlantic-nh-gdynia.md). That year, KPW held the first [Godzina Zero](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md), which would later become their annual supershow, where all championships were defended. 2017 saw them move to a bigger venue in the [Gdynia Sports Center](@/v/gdynia-sports-center.md), securing support from the city.
 
@@ -27,9 +27,9 @@ In 2016 they would relocate to Gdynia, holding their shows in a recently reopene
 
 In 2020 the COVID-19 pandemic hit, and Poland implemented severe restrictions. This caused KPW to go on an 18-month hiatus between [February 2020](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) and [August 2021](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), during which their future was uncertain. 2022 saw them resume regular shows, moving back to the previous venue.
 
-[Prime Time Wrestling](@/o/ptw.md) launched in 2021, headed by the controversial Arkadiusz Pawłowski.
+[Prime Time Wrestling](@/o/ptw.md) launched in 2021, headed by the controversial [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 Pawłowski was also part of the team of DDW veterans that founded KPW, and later served as their host and ring announcer until [2019](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md).
-During and after the hiatus, KPW lost several of their headliners who chose to join the new organization: [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md), [Sawicki](@/w/sawicki.md), [Gracjan Korpo](@/w/gracjan-korpo.md), as well as the newcomer [Diana](@/w/diana-strong.md).
+During and after the hiatus KPW lost several of their headliners who chose to join the new organization: [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md), [Sawicki](@/w/sawicki.md), [Gracjan Korpo](@/w/gracjan-korpo.md), as well as the newcomer [Diana](@/w/diana-strong.md).
 
 #### 2023 TV deal and FightBox
 
@@ -41,7 +41,7 @@ KPW frequently invited talent from the European independent scene to their event
 
 ### Polish wrestling scene
 
-KPW does not participate in the Polish wrestling scene; they do not share people with other organizations, nor do they invite other Polish performers to their shows. It is speculated to be inherited from Don Roid's way running of DDW, although there was no Polish scene back then. Some Polish-speaking characters did appear on their shows, but all of them were wrestlers of some Polish ancestry, performing abroad.
+KPW does not participate in the Polish wrestling scene; they do not share people with other organizations, nor do they invite other Polish performers to their shows. It is speculated to be inherited from Don Roid's way of running DDW, although there was no Polish scene back then. Some Polish-speaking characters did appear on their shows, but all of them were wrestlers of some Polish ancestry, performing abroad.
 
 The Polish IWC reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with other merchandise.
 
