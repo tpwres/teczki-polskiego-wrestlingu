@@ -42,7 +42,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   '[Gustav Gryffin](@/w/gustav-gryffin.md)', '[Isnorr](@/w/isnorr.md)', '[Feager](@/w/feager.md)',
   '[Kapitan Bazooka](@/w/kapitan-bazooka.md)', {s: 20 man Royal Rumble}]
 - credits:
-    Host, Ring Announcer: Michael HT
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 

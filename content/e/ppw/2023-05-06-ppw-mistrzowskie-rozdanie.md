@@ -27,7 +27,7 @@ source = "[Official PpW Facebook]"
   - "[Mister Z](@/w/mister-z.md)"
   - s: "Fatal Four Way Match"
 - credits:
-    Host, Ring Announcer: Michael HT
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Interviewer: Szymon Kuciok
-    Referees: Sędzia Kornel
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}

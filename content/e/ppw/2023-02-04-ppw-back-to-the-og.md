@@ -24,8 +24,8 @@ source = "[Official PpW Facebook]"
   - c: "[PpW Championship](@/c/ppw-championship.md)"
     s: "Hardcore Match"
 - credits:
-    Host, Ring Announcer: '"OG" Michael HT'
-    Referees: 'Sędzia Borys, [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Host, Ring Announcer: '["OG" Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Borys](@/w/sedzia-borys.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
 ### References
