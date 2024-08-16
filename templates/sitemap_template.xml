@@ -4,9 +4,7 @@
 {% for entry in entries %}
   <url>
     <loc>{{ root ~ entry.permalink | escape_xml | safe }}</loc>
-    {% if entry.updated %}
-    <lastmod>{{ entry.updated }}</lastmod>
-    {% endif %}
+    {%- if entry.updated -%}<lastmod>{{ entry.updated }}</lastmod>{%- endif %}
   </url>
 {% endfor %}
 </urlset>
