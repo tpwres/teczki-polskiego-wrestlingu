@@ -51,7 +51,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
-  - '???'
+  - 'Harley Hudson'
   - s: Women's Match
     nc: upcoming
 {% end %}
