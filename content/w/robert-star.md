@@ -10,7 +10,7 @@ country = ["PL"]
 ## Basic info
 
 * Billed from: Gdynia
-* Billed weight: 98kg
+* Billed weight: 98&nbsp;kg
 * Nicknames:
   - Polski Ogier
   - The Polish Stallion

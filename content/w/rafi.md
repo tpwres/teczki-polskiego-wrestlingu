@@ -11,5 +11,5 @@ career_aliases = ["Rafi Rarytas"]
 
 - Also known as: Rafi Rarytas
 - Years active: <span>{{ years_active() }}</span>
-- Billed height: 185 cm
-- Billed weight: 82 kg
+- Billed height: 185&nbsp;cm
+- Billed weight: 82&nbsp;kg
