@@ -23,7 +23,9 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 - ['[Nano Lopez](@/w/nano-lopez.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Commentary: Arek Paterek, Łukasz "Balik" Baliński
+    Commentary: >
+      [Arek Paterek](@/w/arek-paterek.md),
+      [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)
     Referees: Sędzia Matek
 {% end %}
 

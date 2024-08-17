@@ -33,8 +33,8 @@ source = "[Official PpW Facebook]"
   - c: "[PpW Championship](@/c/ppw-championship.md)"
     s: "Four Way Match"
 - credits:
-    Host, Ring Announcer: Michael HT
-    Referees: Sędzia Gocha # Borys
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
 ### References

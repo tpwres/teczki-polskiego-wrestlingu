@@ -14,7 +14,7 @@ city = "Warszawa"
 4 = { path = "jb-insane-gauntlet.webp", caption = "Facebook graphic accompanying the reveal of [Johnny Blade's](@/w/johnny-blade.md) Insane Gauntlet Invitational."}
 +++
 
-In the closing sequence of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), Michael HT announced the next show: the return of the classic Hardcore Friday series, set in PpW's original venue, motorcycle pub [2KOŁA](@/v/2kola.md). The original date was to be September 20th, but on July 29th, PpW's Facebook page posted about moving the event date to August 23rd.
+In the closing sequence of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), [Michael HT](@/w/michael-ht.md) announced the next show: the return of the classic Hardcore Friday series, set in PpW's original venue, motorcycle pub [2KOŁA](@/v/2kola.md). The original date was to be September 20th, but on July 29th PpW's Facebook page posted about moving the event date to August 23rd.
 
 The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was one of PpW's rosters (or weeklies, which never actually occured weekly), featuring [Johnny Blade](@/w/johnny-blade.md), [Bill Feager](@/w/feager.md), [Hades](@/w/olgierd.md) and [Rob Scaffold](@/w/rob-scaffold.md).
 

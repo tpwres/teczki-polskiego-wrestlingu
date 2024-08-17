@@ -16,7 +16,7 @@ True to the name, all the gate profits were donated to dog shelters in the Warsa
 
 {% card() %}
 - ["Amsker", "Duende"]
-- ["[Osamu](@/w/osamu.md)", "Alex Tamatou", "Ricky Sky", s: "Three Way Match"]
+- ["[Osamu](@/w/osamu.md)", "Alex Tamatou", "[Ricky Sky](@/w/ricky-sky.md)", s: "Three Way Match"]
 - ["[Mister Z](@/w/mister-z.md)(c)", "Sakal", c: "PpW Championship"]
 - ["Viking", "[Johnny Blade](@/w/johnny-blade.md)", s: "No Rope Barbed Wire Death Match"]
 - credits:

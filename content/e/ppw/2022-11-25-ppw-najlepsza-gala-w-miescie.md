@@ -30,8 +30,8 @@ The event name, which translates to "The Best Show in Town", is a reference to t
   - s: "Ladder Match"
     c: "[PpW Championship](@/c/ppw-championship.md)"
 - credits:
-    Host, Ring Announcer: Michael HT
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), Sędzia Gocha' # Borys
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
 ### References

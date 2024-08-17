@@ -23,7 +23,7 @@ source = "[Official PpW Facebook]"
   - "[Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)"
   - s: "Tag Team Match"
 - credits:
-    Host, Ring Announcer: Michael HT
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Interviewer: Szymon Kuciok
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}

@@ -18,11 +18,13 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 
 
 {% card() %}
-- ["[Mister Z](@/w/mister-z.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {nc: "?"}]
-- ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Tony Sk1n](@/w/tony-sk1n.md)", {nc: "?"}]
-- ["Asara", "[Skull Evil](@/w/skull-evil.md)", {nc: "?"}]
-- ["[Bill Feager](@/w/feager.md)", "[Adam Wong](@/w/adam-wong.md)", {nc: "?"}]
-- ["[Biesiad Strong](@/w/biesiad.md)(c)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
+- ["[Mister Z](@/w/mister-z.md)", "[Steve Kuningas](@/w/steve-kuningas.md)"]
+- ["[Tony Sk1n](@/w/tony-sk1n.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
+- ["[Adam Wong](@/w/adam-wong.md)", "[Bill Feager](@/w/feager.md)"]
+- ["Asara", "[Skull Evil](@/w/skull-evil.md)", {r: "DQ"}]
+- - "[Biesiad Strong](@/w/biesiad.md)(c)"
+  - "[Osamu](@/w/osamu.md)"
+  - c: "[PpW Championship](@/c/ppw-championship.md)"
 - - "[Johnny Blade](@/w/johnny-blade.md)"
   - "Viking"
   - s: "Chaos Gods Deathmatch"
@@ -30,8 +32,8 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
       [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md),
       VcV Hardcore Championship
 - credits:
-    Host, Ring Announcer: Michael HT
-    Referees: Sędzia Gocha # Borys
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
 ### References

@@ -29,8 +29,8 @@ source = "[Official PpW Facebook]"
   - "[Johnny Blade](@/w/johnny-blade.md)(c)"
   - c: VcV Hardcore Championship
 - credits:
-    Host, Ring Announcer: Michael HT
-    Referees: Sędzia Gocha # Borys
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
 ### References

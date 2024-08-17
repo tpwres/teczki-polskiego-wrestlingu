@@ -61,8 +61,8 @@ The foreign guests for this event were:
   - c: "[PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
     n: "[Johnny Blade](@/w/johnny-blade.md) was the special guest referee."
 - credits:
-    Referees: Sędzia Kornel, Sędzia Karol Górski
-    Ring announcer and host: Michael HT
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), Sędzia Karol Górski'
+    Ring announcer and host: '[Michael HT](@/w/michael-ht.md)'
     Commentary: Szymon Modzelewski, Konrad "Joker" Grzesikiewicz
 {% end %}
 

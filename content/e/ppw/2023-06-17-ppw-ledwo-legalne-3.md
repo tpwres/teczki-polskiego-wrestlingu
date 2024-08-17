@@ -23,6 +23,6 @@ source = "[Official PpW Facebook]"
 - ["[Steve Kuningas](@/w/steve-kuningas.md)", "[Biesiad Strong](@/w/biesiad.md)(c)",
   {c: "[PpW Championship](@/o/ppw.md#championships)"}]
 - credits:
-    Host, Ring Announcer: Michael HT
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}

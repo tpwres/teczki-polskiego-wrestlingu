@@ -31,12 +31,12 @@ The foreign guests for the event were:
 - - '[Darius](@/w/darius.md)'
   - '[Rosetti](@/w/rosetti.md)'
   - Tom Fulton
-  - Ricky Sky
+  - '[Ricky Sky](@/w/ricky-sky.md)'
   - s: "KPW OldTown Championship Contender Four-Way Match"
 - ['[Zefir](@/w/zefir.md)', '[Leon Lato](@/w/leon-lato.md)']
 - - "Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
   - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
-  - "Primate, Tommy Freeman"
+  - "[Primate](@/w/primate.md), Tommy Freeman"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - {c: KPW Tag Team Championship, s: 4-way Elimination Match}
 - - '[Rosetti](@/w/rosetti.md)'
@@ -46,13 +46,13 @@ The foreign guests for the event were:
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - Tom Fulton
   - '[Filip Fux](@/w/filip-fux.md)'
-  - Ricky Sky
+  - '[Ricky Sky](@/w/ricky-sky.md)'
   - '[Zefir](@/w/zefir.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Veit Müller](@/w/veit-mueller.md)'
   - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
-  - Primate
+  - '[Primate](@/w/primate.md)'
   - Tommy Freeman
   - s: Championship Contract Battle Royal
 - - '[Greg](@/w/greg.md)'
