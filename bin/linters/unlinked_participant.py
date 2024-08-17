@@ -1,5 +1,5 @@
 import re
-from typing import Iterable, Optional, override
+from typing import Iterable, Optional
 from pathlib import Path
 from dataclasses import dataclass
 from .base import LintError, Changeset, Doc, Linter
@@ -71,11 +71,9 @@ class UnlinkedParticipantLinter(Linter):
     def __init__(self, config, linter_options = {}):
         self.names_with_articles = load_existing_name_articles()
 
-    @override
     def reset(self):
         pass
 
-    @override
     def lint(self, document: Doc):
         pathname = document.pathname()
 

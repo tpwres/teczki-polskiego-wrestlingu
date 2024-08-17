@@ -1,5 +1,6 @@
 import MiniSearch from 'minisearch';
-import { glob, readFile } from 'fs/promises';
+import { readFile } from 'fs/promises';
+import { fdir } from 'fdir';
 import { parse as tomlParse } from 'toml';
 import { stdout } from 'process';
 
@@ -11,16 +12,8 @@ const depolonize = (text, _fieldName) => {
     return text.replace(/\p{L}/gu, m => chars[m] || m).toLowerCase();
 }
 
-let index = new MiniSearch({
-    fields: ['title', 'text'],
-    storeFields: ['title', 'path'],
-    processTerm: depolonize
-});
-
-// Index everything in content
-let all_docs = glob('content/**/*.md', { exclude: (path) => path.endsWith('_index.md') });
-for await (const doc_path of all_docs) {
-    const body = await readFile(doc_path, { encoding: 'utf-8' });
+const build_document = async (path) => {
+    const body = await readFile(path, { encoding: 'utf-8' });
     // Frontmatter is delimited by three plus signs on a line alone
     const re = /[+]{3}/g;
     // JS's glob regex semantics allow us to exec it twice to find both appearances
@@ -30,8 +23,8 @@ for await (const doc_path of all_docs) {
     const frontmatter = tomlParse(body.slice(fm_start.index + 4, fm_end.index));
     const text = body.slice(fm_end.index + 4);
 
-    const slug = doc_path.replace('content/', '/').replace('.md', '');
-    const document = {
+    const slug = path.replace('content/', '/').replace('.md', '');
+    return {
         // id is mandatory and must be unique
         id: slug.replace(/\//g, '-'),
         // requires processing in results - zola will coerce all non-alpha chars to a dash, e.g. underscores
@@ -39,7 +32,19 @@ for await (const doc_path of all_docs) {
         title: frontmatter.title,
         text: text
     };
+}
 
+let index = new MiniSearch({
+    fields: ['title', 'text'],
+    storeFields: ['title', 'path'],
+    processTerm: depolonize
+});
+
+// Index everything in content
+let all_docs = new fdir().glob('**/*.md').withRelativePaths().crawl('content/').sync();
+for await (const doc_path of all_docs) {
+    if (doc_path.endsWith('_index.md')) continue;
+    const document = await build_document(`content/${doc_path}`);
     index.add(document);
 }
 
