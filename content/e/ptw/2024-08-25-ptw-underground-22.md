@@ -19,6 +19,8 @@ Both are to be held in Kozłów, Dworek Pod Platanem, which is a complex contain
 
 This Underground show is the first one to have an individual title, not just a number.
 
+One new face making her debut for PTW will be Harley Hudson, English wrestler from Liverpool. Her wrestling resumé includes matches over the British scene, and winning TNA Gutcheck 2023.
+
 ## Build-up
 
 * On July 19 2024, PTW updated their Facebook cover photo, confirming dates for both the camp and the show. The training camp will start on Sunday August 18, and the show is to be held on the next Sunday, August 25.
@@ -52,8 +54,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
     nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Harley Hudson'
-  - s: Women's Match
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### References
