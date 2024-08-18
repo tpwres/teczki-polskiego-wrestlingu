@@ -28,7 +28,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
   - s: Non-Title Match
     nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - ???
+  - '[Jacob Crane](@/w/jacob-crane.md)'
   - ???
   - ???
   - s: Insane Wheel Of Fortune Gauntlet Invitational Match
