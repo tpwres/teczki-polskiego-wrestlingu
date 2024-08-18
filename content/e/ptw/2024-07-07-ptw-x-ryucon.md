@@ -91,7 +91,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Iva Kolasky'
 - credits:
-    Referee: Sędzia Klaudiusz
+    Referee: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)
     Host, ring announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 

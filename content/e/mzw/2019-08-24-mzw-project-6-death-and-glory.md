@@ -29,6 +29,6 @@ city = "Wrocław"
 - ['[Asmund](@/w/asmund.md)', "[Damien Rothschild](@/w/damien-rothschild.md)(c)",
   {c: "MZW Championship"}]
 - credits:
-    Host, Ring Announcer: Mateusz Czarnecki
-    Referees: Sędzia Michał, Sędzia Tobias
+    Host, Ring Announcer: [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
+    Referees: [Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Tobias](@/w/sedzia-tobias.md)
 {% end %}

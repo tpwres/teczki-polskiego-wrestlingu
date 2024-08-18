@@ -17,8 +17,8 @@ Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling s
   {s: "Three Way Match"}]
 - ["[Prince Victor](@/w/vic-golden.md)", "[Shadow](@/w/shadow.md)"]
 - credits:
-    Host: Konrad von Koch
-    Ring Announcer: Mateusz Czarnecki
+    Host: [Konrad von Koch](@/w/konrad-von-koch.md)
+    Ring Announcer: [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 

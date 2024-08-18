@@ -74,7 +74,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Special Guest Commentary: Andrzej Supron, Paweł "Boryss" Borkowski
     English Commentary: 'Lewis Costello, [Santino](@/w/santino.md)'
-    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Recap

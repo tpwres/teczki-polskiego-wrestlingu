@@ -23,7 +23,7 @@ This was likely the first PpW event open for general public, as opposed to frien
 - ["Duende", "Black Orion", {nc: "?"}]
 - ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Osamu](@/w/osamu.md)", {nc: "?"}]
 - credits:
-    Referee: Sędzia Matek
+    Referee: [Sędzia Matek](@/w/sedzia-matek.md)
 {% end %}
 
 ### References

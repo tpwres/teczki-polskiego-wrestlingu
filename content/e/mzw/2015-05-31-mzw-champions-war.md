@@ -40,7 +40,7 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
   - "Akira"
   - nc: Ref stoppage
 - credits:
-    Host, Ring Announcer: Tomasz Warchoł, Filip Cieśliński
+    Host, Ring Announcer: [Tomasz Warchoł](@/w/tomasz-warchol.md), Filip Cieśliński
     Referee: '[Sędzia Piotr](@/w/mr-b.md)'
 {% end %}
 

@@ -31,7 +31,7 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Interviews: 'Tobiasz "Skyver" Korzybski'
-    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Recap

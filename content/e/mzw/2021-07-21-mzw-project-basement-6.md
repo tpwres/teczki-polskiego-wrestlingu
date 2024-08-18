@@ -20,8 +20,8 @@ Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped w
   - '[Shadow](@/w/shadow.md)'
   - s: "Seven Man Gauntlet Match"
 - credits:
-    Host: Konrad von Koch
-    Ring Announcer: Mateusz Czarnecki
+    Host: [Konrad von Koch](@/w/konrad-von-koch.md)
+    Ring Announcer: [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 

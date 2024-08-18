@@ -28,7 +28,7 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 - ['[Justin Joy](@/w/justin-joy.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Rafał, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Rafał](@/w/sedzia-rafal.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### References

@@ -17,6 +17,6 @@ city = "Wrocław"
 - ['[Axel Fox](@/w/axel-fox.md)', '[Nathan Cross](@/w/gabriel-queen.md)']
 - ['[Jacob Crane](@/w/jacob-crane.md)', Fast Time Moodo]
 - credits:
-    Host, Ring Announcer: Mateusz Czarnecki
-    Referees: Sędzia Michał, Sędzia Tobias
+    Host, Ring Announcer: [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
+    Referees: [Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Tobias](@/w/sedzia-tobias.md)
 {% end %}

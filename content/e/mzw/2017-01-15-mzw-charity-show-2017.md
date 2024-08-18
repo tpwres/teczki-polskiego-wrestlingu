@@ -29,7 +29,7 @@ Attendance: estimated about 300
   - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - c: "MZW Tag Team Championship"
 - credits:
-    Host, Ring Announcer: Tomasz Warchoł
+    Host, Ring Announcer: [Tomasz Warchoł](@/w/tomasz-warchol.md)
 {% end %}
 
 ### References

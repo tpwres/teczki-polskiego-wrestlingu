@@ -22,7 +22,7 @@ The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Perfor
 - ['[Jonny Storm](@/w/jonny-storm.md)', '[Sinister](@/w/sinister.md)']
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### References
