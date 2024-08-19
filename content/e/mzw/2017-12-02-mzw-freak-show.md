@@ -46,7 +46,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
 - ["Laurance Roman(c)", "[Shadow](@/w/shadow.md)", {c: "Next Step Wrestling National
       Championship"}]
 - credits:
-    Ring Announcer: [Tomasz Warchoł](@/w/tomasz-warchol.md)
+    Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Host: '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
 {% end %}
 
