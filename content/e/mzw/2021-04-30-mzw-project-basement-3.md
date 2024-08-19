@@ -17,10 +17,10 @@ Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling s
 - ["[Madman Charlie](@/w/madman-charlie.md)", "[Jacob Crane](@/w/jacob-crane.md)",
   {s: "Loser Leaves MZW Best Two Out Of Three Falls"}]
 - credits:
-    Host: [Konrad von Koch](@/w/konrad-von-koch.md)
-    Ring Announcer: [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
-    Referees: [Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)
-    Commentary: Jędrzej Jezierski, [Piotr Małecki](@/w/piotr-malecki.md)
+    Host: '[Konrad von Koch](@/w/konrad-von-koch.md)'
+    Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
+    Referees: '[Sędzia Michał](@/w/sedzia-michal.md)', '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: Jędrzej Jezierski, '[Piotr Małecki](@/w/piotr-malecki.md)'
 {% end %}
 
 ## References
