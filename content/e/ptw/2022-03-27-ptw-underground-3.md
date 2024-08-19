@@ -23,7 +23,7 @@ The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022
 - ['[Justin Joy](@/w/justin-joy.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### References

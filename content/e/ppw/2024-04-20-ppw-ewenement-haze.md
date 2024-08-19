@@ -77,7 +77,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 Timestamp: `1:01:07`
 
-Gryffin makes his entrance accompanied by Sigmarsson to a chorus of boos and "get the f*** out" chants.
+Gryffin makes his entrance accompanied by Sigmarsson to a chorus of boos and "get the fuck out" chants.
 Nick Schreier hits the ring to a moderate pop, while Samson enters to a large pop. He's over with the crowd big time.
 
 The match starts with both Samson and Schreier (as babyfaces) forming an alliance against Gryffin.
@@ -251,7 +251,7 @@ Bazooka's theme music plays. He slowly drags Mandecky out of the arena and drive
 Michael HT is back in the ring, he repeats the result of the championship match.
 Ring crew slowly clean the ring and we go for another break.
 
-#### Ultraviolent match for PpW European Ultraviolent Championship - Stanisław van Dobroniak (c) v Alex Arthur
+#### Ultraviolent match for PpW European Ultraviolent Championship - Stanisław Van Dobroniak (c) v Alex Arthur
 
 Timestamp: `4:18:20`
 
@@ -296,7 +296,7 @@ Arthur uses the opportunity to attack Dobroniak, but he counters into a backbody
 Dobroniak goes for a pin, but now there is nobody to count the pin. Frustrated, he beats on Johnny some more, Arthur with a low blow.
 Arthur attempts to lift Dobroniak with an underhook, but does not have enough strength.
 Dobroniak counters with a Polish hammer and pins Arthur, counting the pin by himself using the motionless Johnny's hand.
-1,2,3, The bell rings, Stanisław van Dobroniak retains.
+1,2,3, the bell rings, Stanisław Van Dobroniak retains.
 
 Winner and still PpW European Ultraviolent Champion: Stanisław Van Dobroniak
 
@@ -308,7 +308,7 @@ Michael HT is reluctant to enter the ring once again, but eventually decides to.
 
 Additional interviews, once again conducted by Joker:
 
-* Stanisław van Dobroniak: brags about his win and his title run, nearly 600 days long. He's full of himself, calls himself a god, warlord, and king.
+* Stanisław Van Dobroniak: brags about his win and his title run, nearly 600 days long. He's full of himself, calls himself a god, warlord, and king.
 * Biesiad Strong: Joker asks him how many conspiracies he has thwarted, Strong jokingly remarks that all of them and one more.
   He promises to always stop conspiracies and do the same to Mister Z at the next show. Joker asks Biesiad to avenge Kornel, he asks if Kornel is part of any conspiracy.
   Joker denies, and Biesiad promises to avenge Kornel

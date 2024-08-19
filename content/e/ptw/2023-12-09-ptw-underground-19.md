@@ -28,7 +28,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
   {s: Triple Threat Match}]
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### References

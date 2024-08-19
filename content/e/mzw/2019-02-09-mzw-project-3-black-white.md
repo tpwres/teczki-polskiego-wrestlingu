@@ -21,6 +21,6 @@ city = "Wrocław"
 - ["[Damien Rothschild](@/w/damien-rothschild.md)", "[Shadow](@/w/shadow.md)(c)",
   {c: "MZW Championship"}]
 - credits:
-    Host, Ring Announcer: Tomasz Warchoł
-    Referees: Sędzia Matt2Hot, Sędzia Tobias
+    Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
+    Referees: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}

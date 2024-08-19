@@ -21,7 +21,7 @@ True to the name, all the gate profits were donated to dog shelters in the Warsa
 - ["Viking", "[Johnny Blade](@/w/johnny-blade.md)", s: "No Rope Barbed Wire Death Match"]
 - credits:
     Host, Ring Announcer: '[Biesiad](@/w/biesiad.md)' # unconfirmed, looks the part
-    Referee: Sędzia Matek # and possibly Koteł
+    Referee: '[Sędzia Matek](@/w/sedzia-matek.md)' # and possibly Koteł
 {% end %}
 
 ## References

@@ -26,7 +26,7 @@ Underground shows advanced the storylines seen in bigger events, but with signif
     Commentary: >
       [Arek Paterek](@/w/arek-paterek.md),
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)
-    Referees: Sędzia Matek
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
 
 ### References

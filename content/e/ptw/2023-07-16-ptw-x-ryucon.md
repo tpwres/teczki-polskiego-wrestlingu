@@ -28,7 +28,7 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
       Championship", nc: No Contest}]
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
     Post-match inteview segments: Tobiasz "Skyver" Korzybski
 {% end %}

@@ -28,6 +28,8 @@ source = "?"
   - "[Justin Joy](@/w/justin-joy.md)"
   - c: MZW Championship
     s: Loser Leaves Town Match
+- credits:
+    Commentary: 'Adam "Omega" Sekuła, Wojciech "Vice" Baranowski'
 {% end %}
 
 ## References

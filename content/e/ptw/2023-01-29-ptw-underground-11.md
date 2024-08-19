@@ -30,7 +30,7 @@ This was the only appearance of Aigle Blanc for PTW so far, and the second for S
   - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Rafał, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Rafał](@/w/sedzia-rafal.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### References

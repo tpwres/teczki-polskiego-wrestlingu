@@ -16,8 +16,8 @@ Project Basement 4 is the fourth episode of [MZW's](@/o/mzw.md) taped wrestling 
 - ["[Isnorr](@/w/isnorr.md), [Nathan Cross](@/w/gabriel-queen.md)", "[Aron Wake](@/w/aron-wake.md),
     [Rafael Kid](@/w/rafael-kid.md)", {s: "Tag Team Match"}]
 - credits:
-    Host: Konrad von Koch
-    Referees: Sędzia Michał
+    Host: '[Konrad von Koch](@/w/konrad-von-koch.md)'
+    Referees: '[Sędzia Michał](@/w/sedzia-michal.md)'
 {% end %}
 
 ## References

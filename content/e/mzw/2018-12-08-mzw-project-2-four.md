@@ -24,8 +24,8 @@ city = "Wrocław"
   - "[Rafael Kid](@/w/rafael-kid.md)"
   - {c: "MZW Championship", s: "Tournament Final Four Way Match"}
 - credits:
-    Host, Ring Announcer: Tomasz Warchoł
-    Referee: Sędzia Matt2Hot
+    Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
+    Referee: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md)'
 {% end %}
 
 ### Recap

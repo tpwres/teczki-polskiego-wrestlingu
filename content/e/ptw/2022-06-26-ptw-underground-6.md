@@ -25,7 +25,7 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
 - ['[Justin Joy](@/w/justin-joy.md)', Senza Volto]
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Aftermath

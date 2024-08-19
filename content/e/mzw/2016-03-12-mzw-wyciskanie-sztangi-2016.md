@@ -14,5 +14,5 @@ city = "Głuchołazy"
 - ["[Justin Joy](@/w/justin-joy.md)", "[Red Thunder](@/w/red-thunder.md)", {s: "Lumberjack
       Match", c: "MZW Championship"}]
 - credits:
-    Host, Ring Announcer: Tomasz Warchoł
+    Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}

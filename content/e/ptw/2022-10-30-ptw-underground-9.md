@@ -36,7 +36,7 @@ This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.
 - ['[Justin Joy](@/w/justin-joy.md)', Sam Gradwell]
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Matek, [Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Rafał'
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/sedzia-rafal.md)'
 {% end %}
 
 #### Recap

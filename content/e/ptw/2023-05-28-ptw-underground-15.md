@@ -27,7 +27,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Arek Paterek](@/w/arek-paterek.md)'
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Interviews: Tobiasz "Skyver" Korzybski
-    Referees: 'Sędzia Klaudiusz, [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 

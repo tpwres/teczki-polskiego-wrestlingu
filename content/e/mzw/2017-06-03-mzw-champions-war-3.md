@@ -29,7 +29,7 @@ The third Champions War event was held again in [Głuchołazy](@/v/gosir-gluchol
 - credits:
     Referees: Král Slova Kuba
     Host: '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
-    Ring Announcer: Tomasz Warchoł
+    Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}
 
 ### References
