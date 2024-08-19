@@ -27,6 +27,6 @@ city = "Wrocław"
   - "[Justin Joy](@/w/justin-joy.md)"
   - c: MZW Championship
 - credits:
-    Host, Ring Announcer: [Tomasz Warchoł](@/w/tomasz-warchol.md)
-    Referees: [Sędzia Matt2Hot](@/w/sedzia-matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)
+    Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
+    Referees: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md)', '[Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
