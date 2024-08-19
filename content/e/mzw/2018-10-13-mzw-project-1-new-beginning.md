@@ -35,8 +35,8 @@ source = "MZW / Krzysztof Zych"
     s: "Tournament Semi Final Match"
 - ["[Rick Baxxter](@/w/rick-baxxter.md)", "[Shadow](@/w/shadow.md)"]
 - credits:
-    Host, Ring Announcer: [Tomasz Warchoł](@/w/tomasz-warchol.md)
-    Referee: [Sędzia Tobias](@/w/sedzia-tobias.md)
+    Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
+    Referee: '[Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
 #### Recap
