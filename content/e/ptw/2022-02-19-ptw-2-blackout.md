@@ -48,8 +48,8 @@ For this event, PTW invited several guests from the independent European and Ame
 - [Nick Aldis, Chris Masters]
 - credits:
     Commentary: >
-      [Arkadiusz Paterek](@/w/arek-paterek.md),
-      [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)
+      '[Arkadiusz Paterek](@/w/arek-paterek.md),
+      [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     English commentary: 'Dave Bradshaw, [Santino](@/w/santino.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Matek](@/w/sedzia-matek.md)'
     Host, ring announcer, GM: '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
