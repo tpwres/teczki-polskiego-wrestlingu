@@ -15,7 +15,7 @@ This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell
 - ["[Justin Joy](@/w/justin-joy.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
 - ["[Red Thunder](@/w/red-thunder.md)", "[Shadow](@/w/shadow.md)"]
 - credits:
-    Host: [Tomasz Warchoł](@/w/tomasz-warchol.md)
+    Host: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}
 
 ### References
