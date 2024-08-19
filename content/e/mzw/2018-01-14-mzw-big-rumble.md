@@ -48,7 +48,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - {c: "MZW Championship", s: "Triple Threat Match"}
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
-    Referees: '[Tomasz Warchoł](@/w/tomasz-warchol.md)', '[Sędzia Rafael](@/w/rafael-kid.md)'
+    Referees: '[Tomasz Warchoł](@/w/tomasz-warchol.md), [Sędzia Rafael](@/w/rafael-kid.md)'
 {% end %}
 
 ### References

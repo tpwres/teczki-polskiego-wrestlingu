@@ -17,7 +17,7 @@ city = "Niedźwiedzica"
 - ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)"]
 - credits:
     Host, Ring Announcer: Filip Cieśliński
-    Commentary: '[Tomasz Warchoł](@/w/tomasz-warchol.md', Piotr Walkowiak
+    Commentary: '[Tomasz Warchoł](@/w/tomasz-warchol.md), Piotr Walkowiak'
     Referees: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md)'
 {% end %}
 

@@ -23,8 +23,8 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >
-      '[Arkadiusz Paterek](@/w/arek-paterek.md),
-      [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
+      [Arkadiusz Paterek](@/w/arek-paterek.md),
+      [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 

@@ -19,7 +19,7 @@ Project Basement 1 is the first episode of [MZW's](@/o/mzw.md) taped wrestling s
 - credits:
     Host: '[Konrad von Koch](@/w/konrad-von-koch.md)'
     Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
-    Referees: '[Sędzia Michał](@/w/sedzia-michal.md)', '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 To estabilish storyline continuity, footage from [Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) is used throughout the episode, as black and white clips. \

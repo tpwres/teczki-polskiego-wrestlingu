@@ -24,8 +24,8 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >
-      '[Arek Paterek](@/w/arek-paterek.md),
-      [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
+      [Arek Paterek](@/w/arek-paterek.md),
+      [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
 

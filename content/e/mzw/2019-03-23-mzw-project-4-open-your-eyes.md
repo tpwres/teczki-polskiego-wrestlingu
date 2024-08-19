@@ -21,5 +21,5 @@ city = "Wrocław"
   {s: "No Disqualification Match", c: "MZW Championship"}]
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
-    Referees: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md)', '[Sędzia Tobias](@/w/sedzia-tobias.md)'
+    Referees: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
