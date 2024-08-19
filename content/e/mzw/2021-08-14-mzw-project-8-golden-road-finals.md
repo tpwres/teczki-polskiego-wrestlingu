@@ -22,7 +22,7 @@ city = "Wrocław"
 - ['[Rafael Kid](@/w/rafael-kid.md)', '[Aron Wake](@/w/aron-wake.md)', {c: "MZW Championship",
     s: "Tournament Final Match"}]
 - credits:
-    Ring Announcer: [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
+    Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
     Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
