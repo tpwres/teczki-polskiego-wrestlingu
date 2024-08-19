@@ -29,7 +29,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
     nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '[Goblin](@?w/goblin.md)'
+  - '[Goblin](@/w/goblin.md)'
   - ???
   - s: Insane Wheel Of Fortune Gauntlet Invitational Match
     nc: upcoming
