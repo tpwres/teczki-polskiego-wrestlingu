@@ -26,7 +26,7 @@ city = "Głuchołazy"
   {s: "Two On One Handicap Match"}]
 - ["[Shadow](@/w/shadow.md)", "[Asmund](@/w/asmund.md)", {s: "Two Out Of Three Falls"}]
 - credits:
-    Host, Ring Announcer: [Tomasz Warchoł](@/w/tomasz-warchol.md)
+    Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Commentary: 'Adam "Omega" Sekuła, Wojciech "Vice" Baranowski'
     Referees: Král Slova Kuba
 {% end %}
