@@ -25,7 +25,7 @@ city = "Wrocław"
 - ["[Shadow](@/w/shadow.md)", "[Franz Engel](@/w/franz-engel.md)", {c: "MZW Championship"}]
 - credits:
     Referees: Král Slova Kuba
-    Host, Ring Announcer: [Tomasz Warchoł](@/w/tomasz-warchol.md)
+    Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}
 
 Attendance: estimated about 140
