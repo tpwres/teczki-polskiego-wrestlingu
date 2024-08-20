@@ -1,5 +1,5 @@
 +++
-title = "MORIS Chorzów"
+title = "MORiS Chorzów"
 template = "venue_page.html"
 +++
 
