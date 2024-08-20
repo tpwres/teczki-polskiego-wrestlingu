@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 
 This is the venue that [KPW](@/o/kpw.md) held their shows in 2017, and later from 2022 onwards.
 
-As of 2024, the current name of this venue is Klub Nowy Harem. It's the second (hence "new") location of music club Harem. That venue was located in Gdynia's Waterfront shopping center, previously known as Gemini, which was demolished in 2019.
+As of 2024, the current name of this venue is Klub Nowy Harem (_New Harem Club_). It's the second (hence "new") location of music club Harem. That venue was located in Gdynia's Waterfront shopping center, previously known as Gemini, which was demolished in 2019.
 
 ### History
 
@@ -16,7 +16,7 @@ The building itself dates back to 1934, erected to host an art gallery by painte
 
 Just before WWII broke out, the cinema closed because of a fire caused by a malfunctioning chimney. When Germans occupied Gdynia, the art gallery was closed, but its cinema function was retained. The name was also changed to "Goten" (_Goths_, as in the medieval Germanic people), along with the city itself, renamed from earlier "Gdingen" to "Gotenhafen" (_Harbour of the Goths_), to purge any Slavic history.
 
-After the war ended, the new authorities reclaimed the building from Mokwa, and renamed the cinema to "Wolność" (_Freedom_). The repertoire at that time was only Soviet movies, e.g. [Sekretar Raykoma][sekretar-raykoma]. Later, the cinema was rebranded again, to the fairly neutral "Atlantic". Other names proposed at that time were "Moskwa" (Moscow) or "Leningrad" (today's St Petersburg). This version of the cinema functioned till 1990.
+After the war ended, the new authorities reclaimed the building from Mokwa, and renamed the cinema to "Wolność" (_Liberty_). The repertoire at that time was only Soviet movies, e.g. [Sekretar Raykoma][sekretar-raykoma]. Later, the cinema was rebranded again, to the fairly neutral "Atlantic". Other names proposed at that time were "Moskwa" (Moscow) or "Leningrad" (today's St. Petersburg). This version of the cinema functioned till 1990.
 
 #### After 1990
 
@@ -30,8 +30,8 @@ However, after a few months they decided to lease the building to a new tenant, 
 
 #### KPW's return
 
-Between 2018 and 2021, KPW did not use the location, as they had a bigger venue to host their shows - the [Hall Of Sports](@/v/gdynia-sports-center.md). In 2022, they returned to the club, and since held most events in there, starting from [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)
-(excluding shows in other cities like for [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) in Poznań).
+Between 2018 and 2021 KPW did not use the location, as they had a bigger venue to host their shows: the [Hall Of Games](@/v/gdynia-sports-center.md). In 2022 they returned to the club and since then held most events in there, starting from [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)
+(excluding shows in other cities, such as [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) in Poznań).
 
 ### References
 
@@ -39,7 +39,7 @@ Between 2018 and 2021, KPW did not use the location, as they had a bigger venue 
 * [Photos on prestiztrojmiasto.pl](https://prestiztrojmiasto.pl/kronika-prestizowa/46/atlantic-powrocil) from Atlantic's grand reopening in 2014
 * [wyborcza.pl's article](https://trojmiasto.wyborcza.pl/trojmiasto/7,35611,23026490,klub-atlantic-w-gdyni-wznawia-dzialalnosc-nowy-wlasciciel.html) on reopening in 2018
 * [trojmiasto.pl's article](https://rozrywka.trojmiasto.pl/Klub-Atlantic-zostanie-ponownie-otwarty-n120854.html) on reopening in 2018
-* [Atlantic's facebook post from 2018](https://www.facebook.com/atlanticgdynia/posts/924514917673480) announcing reopening
+* [Atlantic's Facebook post from 2018](https://www.facebook.com/atlanticgdynia/posts/924514917673480) announcing reopening
 * [Article on trojmiasto.pl](https://rozrywka.trojmiasto.pl/Klub-klub-w-Gdyni-Nowy-Harem-w-miejscu-Atlantika-n127282.html) on reopening as Nowy Harem
 * [Article on gdynia.naszemiasto.pl from 2012](https://gdynia.naszemiasto.pl/stare-kina-w-gdyni-kino-atlantic-i-goplana/ar/c13-1301275) mentioning Sławomir Łuba as interested in reopening the cinema
 
