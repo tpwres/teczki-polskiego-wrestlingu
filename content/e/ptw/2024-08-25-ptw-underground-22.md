@@ -49,7 +49,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
   - g: true
     s: Contract Signing
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
-  - '???'
+  - 'Gulyas Bros: Gulyas Öcsi, Gulyas Vilmos'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
