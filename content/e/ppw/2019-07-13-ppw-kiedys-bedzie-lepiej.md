@@ -10,7 +10,7 @@ city = "Warszawa"
 {% card() %}
 - ["[Mister Z](@/w/mister-z.md)", "[Osamu](@/w/osamu.md)", {s: Hardcore Match}]
 - ['[Direk](@/w/direk.md)', '[Rob Scaffold](@/w/rob-scaffold.md)', {s: Hardcore Match}]
-- - Jeff
+- - '[Jeff](@/w/michael-ht.md)'
   - '[Steven Strong](@/w/biesiad.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Feager](@/w/feager.md)'
@@ -25,3 +25,4 @@ city = "Warszawa"
 
 * [YouTube video](https://www.youtube.com/watch?v=DOAeXjrpmlg)
 * [Video: PpW's Michael HT confirming he was Jeff](https://www.youtube.com/live/VlBjnWJRarE?si=LBRL38AjOmYrxW80&t=188) (at the 3:08 mark)
+* [PpW-Wiki page](http://ppw-fandom.tpwres.pl/ppw-kiedys-bedzie-lepiej-2019)
