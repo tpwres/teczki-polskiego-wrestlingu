@@ -1,6 +1,7 @@
 +++
 title = "MZW No Time to Die"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["bakara"]
@@ -14,6 +15,8 @@ source = "Official MZW Facebook"
 
 After a nearly year-long hiatus following their [last event](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), on August 1 2024 [MZW](@/o/mzw.md) announced a new show, called No Time to Die.
 The show is set to take place in [Bakara](@/v/bakara.md) Community Centre, which last held [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) in 2020, and several other events before.
+
+Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one is also a collaboration with [PpW Ewenement](@/o/ppw.md), seeing the return of [Gustav Gryffin](@/w/gustav-gryffin.md) and the MZW debut of [Johnny Blade](@/w/johnny-blade.md).
 
 {{ skip_card() }}
 
