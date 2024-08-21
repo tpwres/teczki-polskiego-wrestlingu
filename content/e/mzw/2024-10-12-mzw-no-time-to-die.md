@@ -9,14 +9,14 @@ venue = ["bakara"]
 city = "Wrocław"
 [extra.gallery.1]
 path = "2024-10-12-mzw-no-time-to-die.jpg"
-caption = "Official poster. Left to right: [Johnny Blade](@/w/johnny-blade.md) (top), [Shadow](@/w/shadow.md) (bottom), ???, [Matt Buckna](@/w/matt-buckna.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)."
+caption = "Official poster. Left to right: [Johnny Blade](@/w/johnny-blade.md) (top), [Shadow](@/w/shadow.md) (bottom), [Dziedzic](@/w/dziedzic.md), [Matt Buckna](@/w/matt-buckna.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)."
 source = "Official MZW Facebook"
 +++
 
 After a nearly year-long hiatus following their [last event](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), on August 1 2024 [MZW](@/o/mzw.md) announced a new show, called No Time to Die.
 The show is set to take place in [Bakara](@/v/bakara.md) Community Centre, which last held [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) in 2020, and several other events before.
 
-Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one is also a collaboration with [PpW Ewenement](@/o/ppw.md), seeing the return of [Gustav Gryffin](@/w/gustav-gryffin.md) and the MZW debut of [Johnny Blade](@/w/johnny-blade.md).
+Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one is also a collaboration with [PpW Ewenement](@/o/ppw.md), seeing the return of [Gustav Gryffin](@/w/gustav-gryffin.md) and the MZW debut of [Johnny Blade](@/w/johnny-blade.md). It is also the first MZW show to feature an ex-PTW wrestler, [Dziedzic](@/w/dziedzic.md).
 
 {{ skip_card() }}
 
