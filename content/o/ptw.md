@@ -176,9 +176,21 @@ On Thursday June 13th, PTW has taken down the roster section of their page.
 
 In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that Axel Fox, a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before.
 
-#### Soft reboot: new venue in Kozłów
+#### Soft reboot: Ryucon, new co-owner
 
-On August 15 2024, Łukasz Okoński, who's the owner of Dworek Pod Platanem where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [22](@/e/ptw/2024-08-25-ptw-underground-22.md) were held, posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
+Breaking the silence, Pawłowski promised that the Ryucon show will be a new opening for PTW.
+The non-televised show included many new faces, both from [PTW Academy](@/o/ptw-academy.md) and foreign free agents.
+During the show, Łukasz "Prezes" Okoński, owner of Dworek Pod Platanem where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) was held, was announced as PTW's new co-owner.
+This change was not reflected in official registration documents (as of August 21 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
+Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media.
+
+On August 14, 2024, Pawłowski hosted a show for the local TV channel TVT, titled "Czas na Wrestling" (_Time for Wrestling_).
+It featured a panel where Pawłowski led the discussion with two guests: Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
+
+#### Post-Ryucon: New venue
+
+PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in Kozłów, which now appeared to be PTW's new base of operations.
+On August 15, 2024, Okoński posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
 The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Babathunder.
 
 ## Polish wrestling scene
