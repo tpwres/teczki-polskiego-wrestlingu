@@ -8,7 +8,7 @@ venue = ["bakara"]
 city = "Wrocław"
 [extra.gallery.1]
 path = "2024-10-12-mzw-no-time-to-die.jpg"
-caption = "Official poster."
+caption = "Official poster. Left to right: [Johnny Blade](@/w/johnny-blade.md) (top), [Shadow](@/w/shadow.md) (bottom), ???, [Matt Buckna](@/w/matt-buckna.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)."
 source = "Official MZW Facebook"
 +++
 
