@@ -33,6 +33,7 @@ According to KPW's event page, there will be a significant number of foreign tal
 * Chairman Malinowski announced that all three championships would be defended.
 * Starting on June 22, 2024, KPW started daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
 * Chemik posted a [video][chemik-video] stating that he did a whole lot of bad things to get [his title](@/c/kpw-old-town-championship.md) and that losing it would be like the end of the world to him. Perhaps tying into the name of the [previous event](@/e/kpw/2024-05-17-kpw-arena-25.md), he said "I did so many bad things that when I stand at the Pearly Gates, Saint Peter himself will kick my ass so hard I'll fly down straight to the ninth circle of hell", adding that the belt constitutes his identity.
+* About a week later [another video][rosetti-video], filmed by an unknown person, showed an angry Rosetti making a phone call to Greg, during which the two argued about the ownership of the [Old Town Championship](@/c/kpw-old-town-championship.md): Rosetti calling it his belt, and Greg firmly stating that it belongs to the Gregorian Branch. After a brief exchange Greg changed the subject, ordering Rosetti to cooperate with [Eryk Lesak](@/w/eryk-lesak.md) during the Magnificent Seven match, because all that matters is that the Championship contract goes to the Gregorian Branch. Greg then hung up, leaving the irritated Rosetti in mid-sentence.
 
 Card based on social media posts.
 
@@ -80,3 +81,4 @@ Card based on social media posts.
 
 [malinowski-video]: https://www.youtube.com/watch?v=dZ1HmSC_iqs
 [chemik-video]: https://www.youtube.com/watch?v=nJ23NvOAGCM
+[rosetti-video]: https://www.youtube.com/watch?v=ddDugsVF4g0
