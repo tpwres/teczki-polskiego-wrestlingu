@@ -26,7 +26,7 @@ This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour 
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Jonny Storm](@/w/jonny-storm.md)']
 - credits:
     Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: '[Sędzia Rafał](@/w/sedzia-rafal.md)'
+    Referees: '[Sędzia Rafał](@/w/alex-brave.md)'
 {% end %}
 
 ### References

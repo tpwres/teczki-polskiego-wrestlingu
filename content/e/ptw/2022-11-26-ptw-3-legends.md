@@ -45,7 +45,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - {g: true}
 - [Samuray Del Sol, Matt Sydal]
 - credits:
-    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/sedzia-rafal.md)'
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/alex-brave.md)'
     Commentary: >
       [Arek Paterek](@/w/arek-paterek.md),
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md),
