@@ -7,6 +7,8 @@ chronology = ["ppw"]
 city = "Warszawa"
 +++
 
+"Kiedyś będzie lepiej" (_One Day It's Gonna Be Better_) was PpW's penultimate backyard show and the last one to be held in the open air.
+
 {% card() %}
 - ["[Mister Z](@/w/mister-z.md)", "[Osamu](@/w/osamu.md)", {s: Hardcore Match}]
 - ['[Direk](@/w/direk.md)', '[Rob Scaffold](@/w/rob-scaffold.md)', {s: Hardcore Match}]
