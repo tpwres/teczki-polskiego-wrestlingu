@@ -15,7 +15,7 @@ source = "[Official PpW Facebook]"
 {% card() %}
 - - "[Isnorr](@/w/isnorr.md)"
   - "[Royal Striker](@/w/royal-striker.md); [Direk](@/w/direk.md)"
-    n: Direk forced Isnorr to fight Striker as a condition of facing him later in the evening.
+  - n: Direk forced Isnorr to fight Striker as a condition of facing him later in the evening.
 - - "[Adam Wong](@/w/adam-wong.md)"
   - "[Ricardo Diesel](@/w/ricardo-diesel.md)"
 - - "[Bill Feager](@/w/feager.md)"
