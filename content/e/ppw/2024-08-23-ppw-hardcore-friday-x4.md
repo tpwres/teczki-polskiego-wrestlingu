@@ -18,22 +18,26 @@ In the closing sequence of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md
 
 The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was one of PpW's rosters (or weeklies, which never actually occured weekly), featuring [Johnny Blade](@/w/johnny-blade.md), [Bill Feager](@/w/feager.md), [Hades](@/w/olgierd.md) and [Rob Scaffold](@/w/rob-scaffold.md).
 
-{% card(predicted=true) %}
-- - '[Olgierd](@/w/olgierd.md)'
-  - '[Biesiad](@/w/biesiad.md)'
-  - s: Unsanctioned Match
-    nc: upcoming
+{% card() %}
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - 'Sędzia Karol Górski'
+  - '[Royal Striker](@/w/royal-striker.md)'
+  - '_rookie_ Oskar'
+  - '["OG" Michael HT](@/w/michael-ht.md)'
+  - s: Insane Wheel Of Fortune Gauntlet Invitational Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Samson](@/w/samson.md)'
   - s: Non-Title Match
-    nc: upcoming
-- - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '[Goblin](@/w/goblin.md)'
-  - '[Isnorr](@/w/isnorr.md)'
-  - ???
-  - s: Insane Wheel Of Fortune Gauntlet Invitational Match
-    nc: upcoming
+    r: Double Count Out
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - s: Unsanctioned Match
 {% end %}
 
 ## References
