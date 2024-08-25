@@ -26,7 +26,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - 'Sędzia Karol Górski'
+  - '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
   - '[Royal Striker](@/w/royal-striker.md)'
   - '_rookie_ Oskar'
   - '["OG" Michael HT](@/w/michael-ht.md)'
@@ -39,7 +39,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Unsanctioned Match
 - credits:
-    Referees: Sędzia Karol Górski, [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)
+    Referees: [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md'), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)
     Host and Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
