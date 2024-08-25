@@ -6,6 +6,10 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+[extra.gallery.1]
+path = "2019-03-23-mzw-project-4-open-your-eyes-plakat.jpg"
+caption = "Official poster."
+source = "Official MZW Facebook"
 +++
 
 {% card() %}

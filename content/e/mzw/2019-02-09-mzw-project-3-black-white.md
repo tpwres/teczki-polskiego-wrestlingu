@@ -6,6 +6,10 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+[extra.gallery.1]
+path = "2019-02-09-mzw-project-3-black-white-plakat.jpg"
+caption = "Official poster."
+source = "Official MZW Facebook"
 +++
 
 {% card() %}

@@ -6,6 +6,10 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+[extra.gallery.1]
+path = "2021-08-14-mzw-project-8-golden-road-finals-plakat.jpg"
+caption = "Official poster."
+source = "Official MZW Facebook"
 +++
 
 {% card() %}

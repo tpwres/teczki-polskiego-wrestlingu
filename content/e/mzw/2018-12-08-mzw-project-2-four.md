@@ -6,6 +6,10 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+[extra.gallery.1]
+path = "2018-12-08-mzw-project-2-four-plakat.jpg"
+caption = "Official poster."
+source = "Official MZW Facebook"
 +++
 
 {% card() %}
