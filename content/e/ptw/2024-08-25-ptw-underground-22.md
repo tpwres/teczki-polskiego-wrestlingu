@@ -25,7 +25,7 @@ One new face making her debut for PTW will be Harley Hudson, English wrestler fr
 
 * On July 19 2024, PTW updated their Facebook cover photo, confirming dates for both the camp and the show. The training camp will start on Sunday August 18, and the show is to be held on the next Sunday, August 25.
 * On August 8th, the official poster was revealed, prominently featuring Maverick and [Puncher](@/w/puncher.md) suggesting a main event between the two. A couple of days later, on August 13, this was announced as a title match for the WWA Championship.
-* As of 21st of August there's been no word whether or not the event would be streamed live.
+* PTW officially confirmed the show would not be aired live, but taped to be later aired on Fite/Triller, YouTube and an undisclosed TV station. This marks PTW's TV debut as well as the first time they tape a show - all prior shows were either live, or not broadcast at all.
 
 ### Change in ticketing
 
