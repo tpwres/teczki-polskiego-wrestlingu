@@ -18,7 +18,11 @@ The show is set to take place in [Bakara](@/v/bakara.md) Community Centre, which
 
 Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one is also a collaboration with [PpW Ewenement](@/o/ppw.md), seeing the return of [Gustav Gryffin](@/w/gustav-gryffin.md) and the MZW debut of [Johnny Blade](@/w/johnny-blade.md). It is also the first MZW show to feature an ex-PTW wrestler, [Dziedzic](@/w/dziedzic.md).
 
-{{ skip_card() }}
+{% card() %}
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Samson](@/w/samson.md)'
+    nc: upcoming
+{% end %}
 
 ## References
 
