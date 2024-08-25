@@ -33,13 +33,13 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
   - s: Insane Wheel of Fortune Gauntlet Invitational Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Samson](@/w/samson.md)'
-  - r: Double Count Out
-    s: Non-Title Match
+  - s: Non-Title Match
+    r: Double Count Out
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Unsanctioned Match
 - credits:
-    Referees: [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)
+    Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Host and Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
