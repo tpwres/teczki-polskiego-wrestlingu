@@ -21,7 +21,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 {% card() %}
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Samson](@/w/samson.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ## References
