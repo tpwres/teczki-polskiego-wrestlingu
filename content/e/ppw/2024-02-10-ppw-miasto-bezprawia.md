@@ -38,7 +38,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 - ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW
       Championship](@/o/ppw.md#championships)"}]
 - credits:
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), Sędzia Karol Górski, Yawara'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), Yawara'
     Ring announcer and host: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
