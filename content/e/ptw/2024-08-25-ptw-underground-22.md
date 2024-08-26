@@ -6,7 +6,6 @@ authors = ["Szymon Iwulski"]
 chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery.poster]
 path = "ptwu22-poster.webp"
@@ -29,33 +28,29 @@ One new face making her debut for PTW will be Harley Hudson, English wrestler fr
 
 ### Change in ticketing
 
-On August 7th, PTW announced a "partnership" with ticket platforms Going and empik. Their previous ticket platform was kupbilecik (also used by [KPW](@/o/kpw.md)).
-For the first time ever, PTW introduced VIP tickets for an Underground show, in a very limited number of 20 seats. With a premium price (150PLN, or about 35EUR at the time, twice the regular ticket cost) they also promise a premium experience: ringside seats, snacks, drinks, merchandise discounts. This new ticket policy seems to disregard the "first come first serve" principle that PTW always followed in regards to seats at the Underground shows.
+On August 7th, PTW announced a "partnership" with ticket platforms Going and Empik, making a switch from their previous ticket platform, KupBilecik (also used by [KPW](@/o/kpw.md)).
+For the first time ever, PTW introduced VIP tickets for an Underground show, in a very limited number of 20 seats. With a premium price (150&nbsp;PLN, or about 35&nbsp;EUR at the time; twice the regular ticket cost) they also promise a premium experience: ringside seats, snacks, drinks and merchandise discounts. This new ticket policy seems to disregard the "first come first served" principle that PTW always followed in regards to seats at the Underground shows.
 
 {% card(predicted=true) %}
-- - Maverick
-  - '[Puncher](@/w/puncher.md)'
-  - nc: upcoming
-    c: 'WWA Championship'
-- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[Max Speed](@/w/max-speed.md)'
-  - nc: upcoming
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - '???'
-  - nc: upcoming
-- - '[Spartan](@/w/spartan.md)'
-  - Svedberg
-  - nc: upcoming
-- - Miyagi Shida
+  - 'Blaze'
+- - 'Miyagi Shida'
   - g: true
-    s: Contract Signing
+    s: Contract signing
+- - '[Alex Brave](@/w/sedzia-rafal.md)'
+  - 'Miyagi Shida'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
   - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Harley Hudson'
-  - nc: upcoming
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+- - '[Spartan](@/w/spartan.md)'
+  - 'Svedberg'
+- - '[Puncher](@/w/puncher.md)'
+  - 'Maverick'
+    c: 'WWA Championship'
 {% end %}
 
 ### References
