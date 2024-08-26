@@ -50,7 +50,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
   - 'Svedberg'
 - - '[Puncher](@/w/puncher.md)'
   - 'Maverick'
-    c: 'WWA Championship'
+  - c: 'WWA Championship'
 {% end %}
 
 ### References
