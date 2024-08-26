@@ -37,7 +37,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - 'Miyagi Shida'
   - g: true
     s: Contract signing
-- - '[Alex Brave](@/w/sedzia-rafal.md)'
+- - '[Alex Brave](@/w/alex-brave.md)'
   - 'Miyagi Shida'
 - - 'Rust'
   - 'LaVonce'
