@@ -1,6 +1,7 @@
 +++
 title = "People"
 template = "alphabetical_talent_list.html"
+description = "List of all performers that appeared inside a wrestling ring in Poland."
 +++
 
 This list contains all the people that appeared in a ring in Poland. Mostly wrestlers, but also other in-ring personnel such as referees and ring announcers. It is derived from the events database.
