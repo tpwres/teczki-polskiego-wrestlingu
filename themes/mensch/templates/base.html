@@ -42,6 +42,11 @@
       <meta property="og:url" content="{{ get_url(path=section.path) }}" />
       <meta property="og:locale" content="{{ section.lang }}" />
       <meta property="og:title" content="{{ section.title }}" />
+      {% if section.description -%}
+        <meta property="og:description" content="{{ section.description }}" />
+      {% elif section.summary -%}
+        <meta property="og:description" content="{{ section.summary | striptags }}" />
+      {% endif -%}
     {% else -%}
       <meta property="og:type" content="website" />
       <meta property="og:url" content="{{ config.base_url }}" />
