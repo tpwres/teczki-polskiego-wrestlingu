@@ -33,7 +33,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Samson](@/w/samson.md)'
   - s: Non-Title Match
-    r: Double Count Out
+    nc: Double Count Out
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Unsanctioned Match
