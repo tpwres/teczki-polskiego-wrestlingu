@@ -12,7 +12,7 @@ city = "Warszawa"
 +++
 
 {% card(predicted=true) %}
-- - '[Biesiad Strong](@/w/biesiad-strong.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Bill Feager](@/w/feager.md)'
   - s: Dostawczak Match
     nc: upcoming
