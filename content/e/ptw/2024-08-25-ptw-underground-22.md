@@ -31,7 +31,7 @@ One new face making her debut for PTW will be Harley Hudson, English wrestler fr
 On August 7th, PTW announced a "partnership" with ticket platforms Going and Empik, making a switch from their previous ticket platform, KupBilecik (also used by [KPW](@/o/kpw.md)).
 For the first time ever, PTW introduced VIP tickets for an Underground show, in a very limited number of 20 seats. With a premium price (150&nbsp;PLN, or about 35&nbsp;EUR at the time; twice the regular ticket cost) they also promise a premium experience: ringside seats, snacks, drinks and merchandise discounts. This new ticket policy seems to disregard the "first come first served" principle that PTW always followed in regards to seats at the Underground shows.
 
-{% card(predicted=true) %}
+{% card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Blaze'
 - - 'Miyagi Shida'
@@ -39,6 +39,8 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
     s: Contract signing
 - - '[Alex Brave](@/w/sedzia-rafal.md)'
   - 'Miyagi Shida'
+- - 'Rust'
+  - 'LaVonce'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
   - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
