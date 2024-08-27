@@ -66,6 +66,7 @@ def update_career(career: dict[str, CareerYears], page: EventPage):
 
     if not card.crew: return
     for person in card.crew.members:
+        if not accepted_name(person.name): continue
         entry = career.setdefault(person.name, {})
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
