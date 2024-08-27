@@ -17,7 +17,7 @@ city = "Kraków"
 [PTW](@/o/ptw.md) organized this show, for the third consecutive year, in collaboration with Ryucon, an anime/manga themed fan convention held annually in Kraków. The event was held in Tauron Arena on Sunday July 7th, 2024.
 
 For this show, a significant portion of the match card was filled by guest wrestlers from abroad, including 5 from Hungary. The guest performers were:
-* Hungarian tag team The Gulyas Brothers: Gulyas Öcsi and Gulyas Vilmos.
+* Hungarian tag team The Gulyas Brothers: Gulyás Öcsi and Gulyás Vilmos.
 * Hungarian wrestlers Blaze and Svedberg, both making their second appearance after [PTW Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md).
 * Hungarian wrestler Iva Kolasky, also in her second appearance after [PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md).
 * Italian wrestlers Luca Bjorn and Rust.
@@ -30,7 +30,7 @@ For this show, a significant portion of the match card was filled by guest wrest
 * Diana Strong vs Iva Kolasky was the first all-female main event in PTW. While both rivals have faced multiple times on the European indy scene, they only clashed once before in PTW at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md), where Diana Strong was victorious.
 * More matches have been hinted at, including a multi-man match, a tag-team match, and a surprise appearance.
 * On Monday July 1st, PTW posted a match graphic revealing a tag team match. Except for Caravaggio, every competitor in that match comes from the Hungarian scene.
-  Svedberg has previously made a single PTW appearance, competing in the Contract Battle Royal at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md) in a losing effort. Gulyas Öcsi meanwhile, makes his PTW debut shortly after appearing at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md), in a rare occurrence for the Polish scene, where foreign workers are mostly exclusive to particular organizations.
+  Svedberg has previously made a single PTW appearance, competing in the Contract Battle Royal at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md) in a losing effort. Gulyás Öcsi meanwhile, makes his PTW debut shortly after appearing at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md), in a rare occurrence for the Polish scene, where foreign workers are mostly exclusive to particular organizations.
 * [Max Speed](@/w/max-speed.md) & Alex Brave continued their feud.
   During the [lottery stream](@/o/ptw.md#the-prize-draw), Brave interrupted Speed, telling him to "Speed the fuck out" ("Speedalaj") and received a superkick for his troubles.
   He spent a few minutes laying motionless, while the lottery draft continued.
@@ -84,7 +84,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md), Svedberg'
-  - 'Gulyas Bros: Gulyas Öcsi, Gulyas Vilmos'
+  - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)'
   - Joseph Conners
