@@ -21,7 +21,7 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
 - ['[Marco "Łysy" Hammers](@/w/marco-hammers.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)',
   {nc: Match not started}]
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '["Top Gun" Samson](@/w/samson.md)']
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Sędzia Rafał](@/w/sedzia-rafal.md)']
+- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Sędzia Rafał](@/w/alex-brave.md)']
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Rafi Rarytas](@/w/rafi.md)']
 - ['[Sinister](@/w/sinister.md)', '[Marcelito](@/w/marcelito.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']

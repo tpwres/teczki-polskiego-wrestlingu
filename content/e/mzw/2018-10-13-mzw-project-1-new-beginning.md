@@ -7,8 +7,12 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 [extra.gallery.1]
-path = "project1-plakat-autografy.webp"
-caption = "Autographed poster for the show, given to fans who bought VIP tickets. The four wrestlers are [Asmund](@/w/asmund.md), [Damien Rothschild](@/w/damien-rothschild.md), [Justin Joy](@/w/justin-joy.md) and [Shadow](@/w/shadow.md)."
+path = "2018-10-13-mzw-project-1-new-beginning-plakat.jpg"
+caption = "Official poster. The four wrestlers are [Asmund](@/w/asmund.md), [Damien Rothschild](@/w/damien-rothschild.md), [Justin Joy](@/w/justin-joy.md) and [Shadow](@/w/shadow.md)."
+source = "Official MZW Facebook"
+[extra.gallery.2]
+path = "2018-10-13-mzw-project-1-new-beginning-plakat-z-autografami.jpg"
+caption = "Autographed poster, given to fans who bought VIP tickets."
 source = "MZW / Krzysztof Zych"
 +++
 

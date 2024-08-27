@@ -70,7 +70,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 
 {% card() %}
 - - '[Max Speed](@/w/max-speed.md)'
-  - Alex Brave
+  - '[Alex Brave](@/w/alex-brave.md)'
   - s: Tables Match
 - - Maverick
   - Luca Bjorn

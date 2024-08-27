@@ -6,6 +6,10 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+[extra.gallery.1]
+path = "2019-08-24-mzw-project-6-death-and-glory-plakat.jpg"
+caption = "Official poster."
+source = "Official MZW Facebook"
 +++
 
 {% card() %}

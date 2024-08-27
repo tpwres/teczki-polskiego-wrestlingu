@@ -1,8 +1,8 @@
 +++
-title = "Sędzia Rafał"
+title = "Sędzia Karol Górski"
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["S. Rafał"]
+career_aliases = ["Karol Górski (2)"]
 +++

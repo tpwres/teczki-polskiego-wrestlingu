@@ -6,6 +6,10 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+[extra.gallery.1]
+path = "2020-01-18-mzw-project-7-golden-road-plakat.jpg"
+caption = "Official poster."
+source = "Official MZW Facebook"
 +++
 
 {% card() %}
