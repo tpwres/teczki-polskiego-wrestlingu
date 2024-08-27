@@ -11,6 +11,7 @@
 {% set all_talent_pages = talent_section.pages %}
 {% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
 {% set country_names = load_data(path="const/country_names.yml") %}
+{% set flag_dict = load_data(path="const/flags-by-code.json") %}
 {% set career_dict = load_data(path="data/career.json") %}
 {% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances.json") %}
@@ -45,7 +46,6 @@
 
 {% set all_countries = all_names | map(attribute='0') | sort | unique %}
 {% set empty_obj = []|group_by(key=0) %}
-{% set flag_dict = load_data(path="const/flags-by-code.json") %}
 
 {% for country, country_name in country_names %}
   {% set recs_by_country = all_names | filter(attribute='0', value=country) | sort(attribute='1') %}
