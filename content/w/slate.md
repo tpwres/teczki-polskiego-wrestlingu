@@ -1,8 +1,8 @@
 +++
-title = "Sędzia Matt2Hot"
+title = "Slate"
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Matt2Hot"]
+career_aliases = ["Sundance Slate"]
 +++
