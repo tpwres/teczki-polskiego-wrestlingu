@@ -1,0 +1,6 @@
+<div title="{{ hint_text }}" class="badge {% if ib %}ib{% endif %}{% if cnt is defined %}stretchy{% endif %}"
+     {% if cnt is defined %} style="flex-grow: {{ cnt/total }}; background: {{ bg }};" {% endif %}>
+  <a href='{{ get_url(path="@/o/ptw.md") }}' class="org-badge nu" style="background: #000" title="{{ hint_text }}">
+     <span>PTW</span></a>
+  <small style="color: {{ text_fg }}">{{ cnt|default(value="") }}</small>
+</div>
