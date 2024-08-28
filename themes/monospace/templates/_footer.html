@@ -1,9 +1,10 @@
 {% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
 <footer>
   <p>Created with
-    <a href="https://github.com/getzola/zola">zola</a>,
-    {% if config.extra.cloudflare %}Cloudflare Pages,{% endif %}
-    and lots of ☕
+    <a href="https://github.com/getzola/zola">zola</a>
+    {%- if config.extra.cloudflare %}and Cloudflare Pages{% endif %}.
+    Theme based on <a href="https://owickstrom.github.io/the-monospace-web/">The Monospace Web</a>
+    by Oskar Wickström.
   </p>
 </footer>
 
