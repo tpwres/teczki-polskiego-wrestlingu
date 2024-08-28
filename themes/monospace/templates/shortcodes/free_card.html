@@ -1,0 +1,18 @@
+{% set data = load_data(literal=body,format="yaml") %}
+
+<table class="card free-card">
+  <tbody>
+    <tr class="header">
+        <th class="n">Date</th>
+        <th class="p">Results</th>
+        <th class="c">Details</th>
+    </tr>
+{% for row in data %}
+  {% if row is object %}
+    {% include "object_row.html" %}
+  {% else %}
+    {% include "free_card_result_row.html" %}
+  {% endif %}
+{% endfor %}
+  </tbody>
+</table>

@@ -1,0 +1,40 @@
+{% set appearances = load_data(path="data/crew_appearances.json") %}
+{% set my_appearances = appearances | get(key=page.title, default=[]) %}
+{% if page.extra.career_name %}
+  {% set cn_appearances = appearances | get(key=page.extra.career_name, default=[]) %}
+  {% set my_appearances = my_appearances | concat(with=cn_appearances) %}
+{% endif %}
+{% for alias in page.extra|get(key="career_aliases", default=[]) %}
+  {% set alias_appearances = appearances | get(key=alias, default=[]) %}
+  {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
+{% endfor %}
+
+{% set appearances_by_date = my_appearances | sort(attribute='d') %}
+
+{% if my_appearances %}
+<h3>Crew appearances</h3>
+<table class="career crew-career">
+  <tbody>
+    <tr class="header">
+        <th class="d">Date</th>
+        <th class="o">Org</th>
+        <th class="r">Role</th>
+    </tr>
+    {% for app in appearances_by_date | reverse %}
+      <tr class="entry">
+        <td><time class="d" style="white-space: nowrap" datetime="{{ app.d }}">{{ app.d }}</time></td>
+        <td class="o">
+            {% for org in app.o %}
+              {{ macros::promolink_color(code=org, styles=org_styles) }}
+            {% endfor %}
+        </td>
+        <td class="r">
+            {{ app.r }}<br/>
+            {% set event_path = "@/" ~ app.p %}
+            <small>at <a href="{{ get_url(path=event_path) }}">{{ app.n }}</a></small>
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
