@@ -8,32 +8,31 @@
       </ul>
     </div>
     <div class="header-search">
-      <form class="search-widget">
-        <input type="search" id="search_input" autocomplete="off" tabIndex="1"/>
+      <form class="search-widget grid">
+        <label style="flex-grow: 1">
+          Search
+          <input type="search" id="search_input" autocomplete="off" tabIndex="1" />
+        </label>
+        <nav>
         <button class="search-button" type="submit">
-          <svg class="feather-inline search-icon" title="Search"> 
-            <use href="{{ sprite }}#search"/> 
-          </svg> 
+          Search
         </button>
+        </nav>
       </form>
       <div class="search-results">
         <ul class="search-results-items"></ul>
       </div>
     </div>
-    <div class="nav-right">
-      <ul class="nav-right-list keep">
-        <li>
-          <a id="darkmodetoggle" onclick="switchTheme()" ondblclick="switchThemeOG()" aria-label="Change theme" title="Change theme">
-            <svg class="feather dark-theme-icon" title="Moon icon">
-              <use href="{{ sprite }}#moon"/>
-            </svg>
-            <svg class="feather light-theme-icon" title="Sun icon">
-              <use href="{{ sprite }}#sun"/>
-            </svg>
-          </a>
-        </li>
-      </ul>
-    </div>
+    {# <div class="nav-right"> #}
+    {#   <ul class="nav-right-list keep"> #}
+    {#     <li> #}
+    {#       <a id="darkmodetoggle" onclick="switchTheme()" ondblclick="switchThemeOG()" aria-label="Change theme" title="Change theme"> #}
+    {#         <span class="dark-theme-icon">Dark</span> #}
+    {#         <span class="light-theme-icon">Light</span> #}
+    {#       </a> #}
+    {#     </li> #}
+    {#   </ul> #}
+    {# </div> #}
   </nav>
   <nav class="level2">
     <div class="nav-right">
@@ -49,12 +48,10 @@
             <a href="{{ get_url(path=link.path) }}"
               class="{{ link_class }}"
               title="{{ link.name }}">
-              {{ link_icon | safe }}
               <span class="t">{{ link.name }}</span>
             </a>
           {% elif link.url -%}
             <a href="{{link.url}}" class="{{ link_class }}" title="{{ link.name }}">
-              {{ link_icon | safe }}
               <span class="t">{{ link.name }}</span>
             </a>
           {% endif -%}

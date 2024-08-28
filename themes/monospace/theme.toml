@@ -1,0 +1,30 @@
+name = "monospace"
+description = "Retro monospace theme for Zola"
+license = "UNLICENSE"
+homepage =""
+# The minimum version of Zola required
+min_version = "0.15.2"
+# An optional live demo URL
+# demo = "https://wilsonjholmes.github.io/mensch/"
+
+
+[markdown]
+render_emoji = false
+
+highlight_code = false
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "gruvbox-dark", filename = "syntax-theme-dark.css" },
+  { theme = "gruvbox-light", filename = "syntax-theme-light.css" },
+]
+
+# Any variable there can be overridden in the end user `config.toml`
+# You don't need to prefix variables by the theme name but as this will
+# be merged with user data, some kind of prefix or nesting is preferable
+# Use snake_casing to be consistent with the rest of Zola
+[extra]
+
+# The theme author info: you!
+[author]
+name = "Foobar"
+homepage = "https://wilsonjholmes.xyz"

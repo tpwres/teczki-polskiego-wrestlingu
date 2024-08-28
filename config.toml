@@ -9,7 +9,7 @@ build_search_index = false
 
 title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestling
 
-theme = "mensch"
+theme = "monospace"
 
 taxonomies = [
   { name = "chronology", render = false },
