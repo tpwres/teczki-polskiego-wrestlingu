@@ -1,0 +1,33 @@
+// Org badges
+
+.badge
+  &.ib
+    display: inline-block
+
+  &.stretchy
+    margin: 0 0.25em
+    text-align: center
+
+  .org-badge
+    display: inline-block
+    min-width: 4ch
+    font-weight: bold
+    color: transparent
+    white-space: nowrap
+
+// Flag on the name lists and elsewhere in text
+span.flag
+  display: inline-block
+  width: 2ch
+
+// Event date header
+.event-date-location + h1:not(.title)
+  margin-top: 0
+
+// Event card
+details.toggle-card
+  border: none
+  padding: 0
+
+details[open] + .card
+  display: none

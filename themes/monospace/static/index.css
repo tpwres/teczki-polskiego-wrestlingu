@@ -202,12 +202,12 @@ details[open] summary {
   margin-bottom: var(--line-height);
 }
 
-details ::marker {
+details::marker {
   display: inline-block;
   content: '▶';
   margin: 0;
 }
-details[open] ::marker {
+details[open]::marker {
   content: '▼';
 }
 

@@ -1,0 +1,51 @@
+{%- import "macros/career.html" as macros %}
+{% set org_styles = config.extra.org_styles %}
+{% set all_matches = load_data(path="data/all_matches.json") %}
+{% set appearances = load_data(path="data/appearances.json") %}
+{% if page.extra.career_name %}
+    {% set my_appearances = appearances | get(key=page.extra.career_name) %}
+{% else %}
+    {% set my_appearances = appearances | get(key=page.title, default=[]) %}
+{% endif %}
+{% for alias in page.extra | get(key="career_aliases", default=[]) %}
+    {% set alias_appearances = appearances | get(key=alias, default=[]) %}
+    {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
+{% endfor %}
+{% set_global my_matches = [] -%}
+{% for index in my_appearances %}
+{% set_global my_matches = my_matches | concat(with=all_matches[index]) %}
+{% endfor %}
+{% set careers = [] %}
+{% set all_matches = [] %}
+{% set appearances = [] %}
+{% set matches_by_date = my_matches | sort(attribute='d') %}
+
+{% if my_matches %}
+<h3>Matches and segments</h3>
+<table class="career">
+  <tbody>
+    <tr class="header">
+        <th class="d">Date</th>
+        <th class="o">Org</th>
+        <th class="r">Details</th>
+    </tr>
+    {% for match in matches_by_date | reverse %}
+      <tr class="entry">
+        <td><time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time></td>
+        <td class="o">
+            {% for org in match.o %}
+              {{ macros::promolink_color(code=org, styles=org_styles) }}
+            {% endfor %}
+        </td>
+        {% set row = match.m %}
+        <td class="r">
+            {% include "career_result_row.html" %}
+            {% set event_path = "@/" ~ match.p %}
+            <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
+        </td>
+      </tr>
+    {% endfor %}
+  <tbody>
+</table>
+
+{% endif %}

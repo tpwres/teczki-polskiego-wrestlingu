@@ -1,0 +1,68 @@
+{% set data = load_data(literal=body,format="yaml") %}
+
+{% if predicted %}
+<h3>Predicted card</h3>
+{% elif incomplete %}
+<h3>Incomplete card</h3>
+{% elif unofficial %}
+<h3>Unofficial card</h3>
+{% else %}
+<h3>Card</h3>
+{% endif %}
+
+{# Results are displayed before the card. This is because the stylesheet hides a <card> element that follows an open <details> element. By default the details element is closed, and the results are not shown. #}
+{% set hide_results = page.extra | get(key="hide_results", default=false) -%}
+{% if not hide_results %}
+<details class="toggle-card">
+    <summary><span data-nosnippet>Toggle results</span></summary>
+    <table>
+      <tbody>
+        <tr>
+          <th>No.</td>
+          <th>Results</th>
+          <th>Details</th>
+        </tr>
+        {% set_global rownum = 1 %}
+        {% for row in data %}
+          {% if row is object %}
+            {% include "object_row.html" %}
+          {% else %}
+            {% include "card_result_row.html" %}
+            {% set_global rownum = rownum + 1 %}
+          {% endif %}
+        {% endfor %}
+      </tbody>
+    </table>
+</details>
+{% endif %}
+
+<table class="card">
+  <tbody>
+    <tr>
+      <th>No.</td>
+      <th>Participants</th>
+      <th>Details</th>
+    </tr>
+    {% set_global rownum = 1 %}
+    {% for row in data %}
+      {% if row is object %}
+        {% include "object_row.html" %}
+      {% else %}
+        {% include "card_match_row.html" %}
+        {% set_global rownum = rownum + 1 %}
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+
+{% set last_row = data | last %}
+{% if last_row is object and 'credits' in last_row %}
+  {% set credits = last_row | get(key='credits') %}
+  <h4>Cast and crew</h4>
+  <dl class="event-cast-members">
+  {% for role, people in credits %}
+    <dt>{{ role }}</dt>
+    <dd>{{ people | markdown(inline=true) | safe }}</dd>
+  {% endfor %}
+  </dl>
+{% endif %}
