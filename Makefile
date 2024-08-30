@@ -48,8 +48,11 @@ data/chronology-hyperlinked.svg: data/chronology-plot.svg
 static/calendar.ics: content/e/**/*.md
 	bin/build_calendar.py > $@
 
+static/calendar-%.ics: ORG = $(patsubst static/calendar-%.ics,%,$@)
 static/calendar-%.ics: content/e/%/*.md
-	bin/build_calendar.py $(patsubst static/calendar-%.ics,content/e/%,$@) > $@
+	bin/build_calendar.py \
+		-t $(shell grep -Po 'title = \K(.*)' content/e/${ORG}/_index.md) \
+		content/e/${ORG} > $@
 
 $(MINISEARCH_INDEX): content/**/*.md
 	bin/build-index > $@
