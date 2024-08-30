@@ -11,7 +11,7 @@ CAL=static/calendar.ics \
     static/calendar-ptw.ics \
     static/calendar-kpw.ics \
     static/calendar-mzw.ics \
-    static/calendar-ppw.ics \
+    static/calendar-ppw.ics
 MINISEARCH_INDEX=static/minisearch_index.json
 
 all: rosters meta calendar index plot
