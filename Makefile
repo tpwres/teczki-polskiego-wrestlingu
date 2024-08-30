@@ -7,10 +7,17 @@ ROSTERS=data/roster_ptw.json \
         data/roster_wwe.json
 METADATA=data/all_matches.json data/appearances.json data/crew_appearances.json data/career.json
 PLOTS=data/chronology-hyperlinked.svg
-CAL=static/calendar.ics
+CAL=static/calendar.ics \
+    static/calendar-ptw.ics \
+    static/calendar-kpw.ics \
+    static/calendar-mzw.ics \
+    static/calendar-ppw.ics \
 MINISEARCH_INDEX=static/minisearch_index.json
 
-all: $(ROSTERS) $(METADATA) $(CAL) $(MINISEARCH_INDEX)
+all: rosters meta calendar index plot
+rosters: $(ROSTERS)
+meta: $(METADATA)
+calendar: $(CAL)
 plot: $(PLOTS)
 index: $(MINISEARCH_INDEX)
 
@@ -38,8 +45,11 @@ data/chronology-plot.svg: const/chronology.csv
 data/chronology-hyperlinked.svg: data/chronology-plot.svg
 	bin/linkify-plot < $< > $@
 
-$(CAL): content/e/**/*.md
-	bin/build-calendar > $@
+static/calendar.ics: content/e/**/*.md
+	bin/build_calendar.py > $@
+
+static/calendar-%.ics: content/e/%/*.md
+	bin/build_calendar.py $(patsubst static/calendar-%.ics,content/e/%,$@) > $@
 
 $(MINISEARCH_INDEX): content/**/*.md
 	bin/build-index > $@
