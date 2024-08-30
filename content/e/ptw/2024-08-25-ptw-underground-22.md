@@ -11,20 +11,26 @@ city = "Kozłów"
 path = "ptwu22-poster.webp"
 caption = "Official poster for the show."
 source = "Facebook @PrimeTimeWrestlingPL"
+[extra.gallery.atomicas]
+path = "las_atomicas.webp"
+caption = "Screenshot of Las Atomicas' short-lived Instagram account. They were announced as a dance group to perform on the show in addition to the wrestling."
 +++
 
-During [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), [Prime Time Wrestling](@/o/ptw.md) owner [Pan Pawłowski](@/w/pan-pawlowski.md) announced a summer training camp to be held in August, concluding with another PTW Underground show, but did not give precise dates.
-Both are to be held in Kozłów, Dworek Pod Platanem, which is a complex containing guest rooms, sport facilities and a hall where wrestling shows can be held.
+Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was Dworek Pod Platanem in Kozłów, recently [refurbished](@/o/ptw.md#post-ryucon-new-venue) as a wrestling event and training facility.
 
-This Underground show is the first one to have an individual title, not just a number.
+This Underground show was the first one to have an individual title, not just a number.
+It was announced during [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), when GM/owner [Pan Pawłowski](@/w/pan-pawlowski.md) announced a summer training camp to be held in August,
+concluding with another PTW Underground show, but did not give precise dates.
 
-One new face making her debut for PTW will be Harley Hudson, English wrestler from Liverpool. Her wrestling resumé includes matches over the British scene, and winning TNA Gutcheck 2023.
+One new face making her debut for PTW was Harley Hudson, English wrestler from Liverpool. Her wrestling resumé includes matches over the British scene, and winning TNA Gutcheck 2023.
+Other foreign guests were already seen on RyuCon previously: Hungarian wrestlers Gulyas Bros and Maverick, Italian heel wrestler Rust, and the Swedish-flag wearing Svedberg.
 
 ## Build-up
 
 * On July 19 2024, PTW updated their Facebook cover photo, confirming dates for both the camp and the show. The training camp will start on Sunday August 18, and the show is to be held on the next Sunday, August 25.
 * On August 8th, the official poster was revealed, prominently featuring Maverick and [Puncher](@/w/puncher.md) suggesting a main event between the two. A couple of days later, on August 13, this was announced as a title match for the WWA Championship.
 * PTW officially confirmed the show would not be aired live, but taped to be later aired on Fite/Triller, YouTube and an undisclosed TV station. This marks PTW's TV debut as well as the first time they tape a show - all prior shows were either live, or not broadcast at all.
+* PTW also announced a dance performance, by a hitherto unknown dance group. The group was billed as "Las Atomicas", a direct reference to the Powerpuff Girls, which was a nickname previously reserved for PAKA. An Instagram account for this group was created shortly before the show, and had a single picture of three girls in rather revealing clothing.
 
 ### Change in ticketing
 
@@ -54,6 +60,8 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
   - 'Maverick'
   - c: 'WWA Championship'
 {% end %}
+
+The announced dance performance was met with slight backlash from the fans online. Ultimately it never happened, and the Instagram account was quietly removed.
 
 ### References
 
