@@ -313,10 +313,12 @@ class WellFormedEventLinter(Linter):
         except yaml.scanner.ScannerError as e:
             # TODO: These errors show very wrong line numbers
             # Aren't these swallowed into CPEs below?
-            self.error(f"Error while parsing card: {str(e).replace('\n', ' ')}")
+            msg = str(e).replace('\n', ' ')
+            self.error(f"Error while parsing card: {msg}")
             return
         except CardParseError as cpe:
-            self.error(f"Parse error: {str(cpe).replace('\n', '')}")
+            msg = str(cpe).replace('\n', ' ')
+            self.error(f"Parse error: {msg}")
             return
         except KeyError as e:
             self.error(f"Missing required key {e}")
