@@ -14,7 +14,7 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 
 * [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
-* Referee Sewi {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
+* [Referee Sewi](@/w/sedzia-seweryn.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * [Olgierd](@/w/olgierd.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
 * [Vic Golden](@/w/vic-golden.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
