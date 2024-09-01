@@ -18,8 +18,8 @@ city = "Głuchołazy"
   - '[Nightmare](@/w/nightmare.md)(c)'
   - n: Edge was supposed to fight Nightmare, but he broke his collarbone before the match and was replaced by Nathan Flame. The match was changed from a PXW Championship to a non-title match.
     s: No Count-Out match
-- - 'The Hardy Boyz'
-  - 'D-Generation X'
+- - 'The Hardy Boyz (imitators)'
+  - 'D-Generation X (imitators)'
   - c: PXW Tag Team Championship
     s: Tag-Team Match
 {% end %}
