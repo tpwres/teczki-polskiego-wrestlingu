@@ -12,9 +12,11 @@ city = "Głuchołazy"
 - - 'Master Punk'
   - '[Manny](@/w/manny.md)(c)'
   - c: ECW Championship
+    nc: '?'
 - - '[Sundance Slate](@/w/slate.md)'
   - '[Krycha](@/w/krycha.md)(c)'
   - c: PXW Championship
+    nc: '?'
 - - '[Snake](@/w/snake.md)'
   - '[Cold Blood](@/w/cold-blood.md)'
   - '[Terry Shadow](@/w/shadow.md)'
@@ -22,6 +24,7 @@ city = "Głuchołazy"
   - 'Nathan Flame'
   - ???
   - s: 10-Man Royal Rumble Match
+    nc: '?'
 {% end %}
 
 ## References

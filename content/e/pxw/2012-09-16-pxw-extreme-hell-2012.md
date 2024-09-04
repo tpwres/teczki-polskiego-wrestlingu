@@ -13,11 +13,13 @@ city = "Głuchołazy"
   - '[Snake](@/w/snake.md)'
   - c: PXW Championship
     s: Extreme Rules Match
+    nc: '?'
 - - '[Nightmare](@/w/nightmare.md)'
   - '[Manny](@/w/manny.md)'
   - '[Sirreks](@/w/sirreks.md)'
   - c: PXW Hardcore Championship
     s: No Holds Barred Match
+    nc: '?'
 {% end %}
 
 ## References
