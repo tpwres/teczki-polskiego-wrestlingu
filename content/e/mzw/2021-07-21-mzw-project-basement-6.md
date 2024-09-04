@@ -27,5 +27,5 @@ Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped w
 
 ## References
 
-* [Full episode on YouTube](https://youtu.be/nNkw2gdrWa4)
+* [Full episode on YouTube](https://www.youtube.com/watch?v=nNkw2gdrWa4&t=2264s)
 * [Playlist of all episodes](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8gOYpibA7twIBHV7w3iyLB2)
