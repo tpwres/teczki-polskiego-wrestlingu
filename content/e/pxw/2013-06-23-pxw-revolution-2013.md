@@ -11,13 +11,17 @@ city = "Głuchołazy"
 {% card() %}
 - - 'Abdullah the Hercules'
   - ???
+  - nc: '?'
 - - '[Nightmare](@/w/nightmare.md)'
   - '[Blazer](@/w/blazer.md)'
+  - nc: '?'
 - - 'Nathan Flame, ???'
   - '???, ???'
   - s: Tag-Team Match
+    nc: '?'
 - - '[Black Joker](@/w/black-joker.md)'
   - '[Manny](@/w/manny.md)'
+  - nc: '?'
 {% end %}
 
 ## References
