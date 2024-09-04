@@ -30,6 +30,7 @@ toclevel = 3
 104 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler [Justin Joy](@/w/justin-joy.md) (as oski_ninja) praises Ludwiczek for talking sense, while [Samson](@/w/samson.md) wants a match against Pawłowski."}
 201 = { path = "nowahala-1.webp", caption = "PTW's new venue with the ring, tables and giant posters.", source = "Instagram @lukasz_prezes_okonski"}
 202 = { path = "nowahala-2.webp", caption = "PTW's new venue with training equipment.", source = "Instagram @lukasz_prezes_okonski"}
+301 = { path = "botte-da-bestya.webp", caption = "ICW's poster advertising Botte da Bestya 2. Near the bottom are Iva Kolasky and [Puncher](@/w/puncher.md). Luca Bjorn, who also appeared for PTW is first in the second row."}
 +++
 
 ## History
@@ -212,7 +213,9 @@ It was quickly renamed to _PTW: WWA_ and became a de facto "sister federation" r
 This cooperation allowed PTW talent to be booked at the PTW: WWA show on 2024-01-05.
 See the [Expansion into Austria](#expansion-into-austria) section above.
 
-PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion Scotty Rawk to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK.
+PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion Scotty Rawk to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed, on a [livestream][live-istota-puncher] by Istota Wrestlingu, that the deal is still on.
+
+In early September 2024, PTW announced they'll be sending a team of wrestlers to _Botte da Bestya 2_, an event by Italian organization ICW happening on September 15, 2024. This team is to consist of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent: [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who will defend his championship.
 
 One remarkable deal between PTW and a bigger promotion was an agreement with Impact Wrestling, for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md).
 
@@ -250,3 +253,4 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 [ptw-ryucon-3]: https://www.instagram.com/p/C7ju1yYI5UF/
 [followup-puncher]: https://www.youtube.com/watch?v=m2kZZBAqmuo
 [followup-pawlowski]: https://www.youtube.com/watch?v=F4PknaxqojM&t=73s
+[live-istota-puncher]: https://www.youtube.com/watch?v=dq3qmzdzLYc&t=81s
