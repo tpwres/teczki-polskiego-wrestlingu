@@ -8,9 +8,10 @@
 {% set_global term_higher_lower_triplets = [] %}
 {% for taxonomy_org in taxonomy_orgs %}
   {% set relevant_chrono = get_taxonomy_term(kind="chronology", term=taxonomy_org) %}
+  {% set sorted_chrono_pages = relevant_chrono.pages | sort(attribute="slug") | reverse %}
   {% set_global lower_index = -1 %}
   {% set_global higher_index = 1 %}
-  {% for rel_chrono_page in relevant_chrono.pages %}
+  {% for rel_chrono_page in sorted_chrono_pages %}
     {% if rel_chrono_page.slug == page.slug %} {# Compare slugs to include date #}
       {% break %}
     {% else %}
@@ -20,12 +21,12 @@
   {% endfor %}
   {% set triplet = [taxonomy_org] %}
   {% if lower_index >= 0 %}
-    {% set triplet = triplet|concat(with=relevant_chrono.pages|nth(n=lower_index)) %}
+    {% set triplet = triplet|concat(with=sorted_chrono_pages|nth(n=lower_index)) %}
   {% else %}
     {% set triplet = triplet|concat(with=false) %}
   {% endif %}
   {% if higher_index < relevant_chrono.pages|length %}
-    {% set triplet = triplet|concat(with=relevant_chrono.pages|nth(n=higher_index)) %}
+    {% set triplet = triplet|concat(with=sorted_chrono_pages|nth(n=higher_index)) %}
   {% else %}
     {% set triplet = triplet|concat(with=false) %}
   {% endif %}

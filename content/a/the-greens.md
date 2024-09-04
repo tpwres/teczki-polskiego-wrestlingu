@@ -12,9 +12,9 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 
 ## Members
 
-* [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
+* [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
-* Referee Sewi {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
+* [Referee Sewi](@/w/sedzia-seweryn.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * [Olgierd](@/w/olgierd.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
 * [Vic Golden](@/w/vic-golden.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
@@ -22,7 +22,7 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * [Jacob Crane](@/w/jacob-crane.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-* [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
+* [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(orgs=['mzw', 'ppw']) }} (inactive)
 * [Asmund](@/w/asmund.md) {{ org_badge(org='mzw') }} (inactive)
 * [Justin Joy](@/w/justin-joy.md)  {{ org_badge(orgs=['mzw', 'ptw']) }} (inactive)
 

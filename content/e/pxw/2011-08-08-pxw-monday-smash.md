@@ -1,0 +1,25 @@
++++
+title = "PXW Monday Smash"
+template = "event_page.html"
+[taxonomies]
+chronology = ["pxw"]
+[extra]
+hide_results = true
+city = "Głuchołazy"
++++
+
+{% card() %}
+- - '[Krycha](@/w/krycha.md)'
+  - '[Demente](@/w/demente.md)'
+  - ???
+  - s: ECW Championship #1 Contendership 10-Man Over Rope Battle Royal
+- - ???
+  - ???
+  - s: PXW Tag Team Championship #1 Contendership Tag Team Match
+- - '[Terry Shadow](@/w/shadow.md)'
+  - '[Demente](@/w/demente.md)'
+{% end %}
+
+## References
+
+* [WrestleFans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=247&t=23738)

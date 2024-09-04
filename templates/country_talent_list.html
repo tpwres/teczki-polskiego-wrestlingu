@@ -1,0 +1,112 @@
+{% extends "index.html" %}
+{%- import "macros/career.html" as macros %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+
+{{ page.content | safe }}
+
+{% set org_styles = config.extra.org_styles %}
+{% set talent_section = get_section(path='w/_index.md') %}
+{% set all_talent_pages = talent_section.pages %}
+{% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
+{% set country_names = load_data(path="const/country_names.yml") %}
+{% set flag_dict = load_data(path="const/flags-by-code.json") %}
+{% set career_dict = load_data(path="data/career.json") %}
+{% set all_matches = load_data(path="data/all_matches.json") %}
+{% set appearances = load_data(path="data/appearances.json") %}
+{% set crew_appearances = load_data(path="data/crew_appearances.json") %}
+{% set_global all_names = [] %}
+
+{% for name, _ in career_dict %}
+  {% set talent_page = all_talent_pages|filter(attribute='title', value=name)|first %}
+  {% if not talent_page %}
+    {% set talent_page = all_talent_pages|filter(attribute='extra.career_name', value=name)|first %}
+  {% endif %}
+  {% if talent_page %}
+    {% set country = talent_page.taxonomies.country | first %}
+    {% set rec = [country, name|trim_start_matches(pat='The ')|slugify, name, 'P', talent_page] %}
+    {% set_global all_names = all_names | concat(with=[rec]) %}
+    {% if talent_page.title != name %}
+      {% set rec = [country, talent_page.title|trim_start_matches(pat='The ')|slugify, talent_page.title, 'T', talent_page, name] %}
+      {% set_global all_names = all_names | concat(with=[rec]) %}
+    {% endif %}
+    {% set xtra = talent_page.extra %}
+    {# And it may have some aliases. Record this as an A(lias) record, pointing to the main name #}
+    {% for alias in xtra|get(key='career_aliases', default=[]) %}
+      {% set alias_rec = [country, alias|trim_start_matches(pat='The ')|slugify, alias, 'A', talent_page] %}
+      {% set_global all_names = all_names | concat(with=[alias_rec]) %}
+    {% endfor %}
+  {% else %}
+    {% set country = name_to_flag|get(key=name, default='ZZ') %}
+    {% set rec = [country, name|trim_start_matches(pat='The ')|slugify, name, 'U', false] %}
+    {% set_global all_names = all_names | concat(with=[rec]) %}
+  {% endif %}
+{% endfor %}
+
+{% set all_countries = all_names | map(attribute='0') | sort | unique %}
+{% set empty_obj = []|group_by(key=0) %}
+
+{% for country, country_name in country_names %}
+  {% set recs_by_country = all_names | filter(attribute='0', value=country) | sort(attribute='1') %}
+  {% if recs_by_country | length == 0 %}{% continue %}{% endif %}
+
+  <h2 id="{{ country_name|slugify }}">
+    {{ flag_dict | get(key=country, default='') }}
+    {{ country_name }}
+  </h2>
+  <ul class="talentlist-section">
+    {% for talent in recs_by_country %}
+        {% set name = talent[2] %}
+        {% set flavor = talent[3] %}
+        {% set page = talent[4] %}
+        {% set_global career_entry = false %}
+        {% if flavor == 'P' %}
+          {% set_global person_name = name %}
+          {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+          {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
+          {% set_global display_match_links = false %}
+          <li class="pwf">
+            <a class="nu name" href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
+            {% include "person_orgs_matches.html" %}
+          </li>
+        {% elif flavor == 'T' %}
+          {% set career_name = talent[5] %}
+          {% set_global person_name = name %}
+          {% set_global appearances_entry = appearances|get(key=career_name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=career_name, default=[]) %}
+          {% set_global career_entry = career_dict|get(key=career_name, default=empty_obj) %}
+          {% set_global display_match_links = false %}
+          <li class="pwf">
+            <a class="nu name" href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
+            {% include "person_orgs_matches.html" %}
+          </li>
+        {% elif flavor == 'A' %}
+          {% set career_key = page.extra|get(key='career_name', default=page.title) %}
+          {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+          {# TODO: Do not use career, just appearances #}
+          {% set_global career_entry = career_dict|get(key=career_key, default=empty_obj) %}
+          {% set_global person_name = '<em>' ~ name ~ '</em>' %}
+          {% set_global display_match_links = false %}
+        <li class="pwf">
+            <a class="nu name" href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
+            {% include "person_orgs_matches.html" %}
+          </li>
+        {% elif flavor == 'U' %}
+          {% set_global person_name = name %}
+          {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
+          {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+          {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
+          {% set_global display_match_links = true %}
+          <li class="pwf">
+            <span class="name">{{ person_name }}</span>
+            {% include "person_orgs_matches.html" %}
+          </li>
+        {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+{% endblock %}

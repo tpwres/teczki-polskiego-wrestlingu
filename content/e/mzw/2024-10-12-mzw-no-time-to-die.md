@@ -22,6 +22,12 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Samson](@/w/samson.md)'
   - nc: upcoming
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - nc: upcoming
+- - '[Shadow](@/w/shadow.md)'
+  - '[Alex Ace](@/w/alex-ace.md)'
+  - nc: upcoming
 {% end %}
 
 ## References

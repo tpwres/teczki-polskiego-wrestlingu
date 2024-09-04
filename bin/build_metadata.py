@@ -21,10 +21,11 @@ def extract_names(matches: Iterable[Match]) -> set[Name]:
 
 def names_in_match(mm: Match) -> set[Name]:
     names: list[Optional[Name]] = list(mm.all_names())
-    exclude = mm.options.get('x', [])
-    for exclude_index in exclude:
-        names[exclude_index - 1] = None
-    return set(name for name in names if name)
+    exclude = set(mm.options.get('x', []))
+    return set(name
+               for i, name in enumerate(names)
+               if i - 1 not in exclude # exclude is 1-based
+               and name) # Otherwise the type is set[Name|None]
 
 
 # Not strictly necessary as the career hash can be used to pull the same info
@@ -66,6 +67,7 @@ def update_career(career: dict[str, CareerYears], page: EventPage):
 
     if not card.crew: return
     for person in card.crew.members:
+        if not accepted_name(person.name): continue
         entry = career.setdefault(person.name, {})
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)

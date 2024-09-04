@@ -1,0 +1,42 @@
+# NOTE: Sorting order is significant - countries will be displayed
+# in exactly this order on the nations list.
+AR: Argentina
+AT: Austria
+AU: Australia
+BE: Belgium
+BO: Bolivia
+CA: Canada
+CZ: Czechia
+DE: Germany
+DK: Denmark
+DO: Dominican Republic
+ENGLAND: England
+FI: Finland
+FR: France
+GH: Ghana
+GR: Greece
+GY: Guyana
+HU: Hungary
+IR: Iran
+IE: Ireland
+IL: Israel
+IT: Italy
+JP: Japan
+MT: Malta
+MX: Mexico
+NL: Netherlands
+"NO": Norway
+PL: Poland
+RU: Russia
+SA: Saudi Arabia
+SCOTLAND: Scotland
+SK: Slovakia
+ZA: South Africa
+ES: Spain
+SE: Sweden
+CH: Switzerland
+UA: Ukraine
+GB: United Kingdom
+US: United States
+WALES: Wales
+ZZ: "Unknown/Missing"
