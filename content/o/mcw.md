@@ -30,7 +30,7 @@ Despite this, the promotion ran a series of instructional videos on their YouTub
 Their activity on social media, however, is also infrequent, outside of YouTube shorts, which have been on the rise in 2024.
 
 The group had a small roster of people, many of whom since left, including some who joined Prime Time Wrestling.
-Notable names to come out of MCW were Syriusz Dziedzic, Disco Pablo and Sinister, who wrestled for MCW as David Sirch.
+Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md) and [Sinister](@/w/sinister.md), who wrestled for MCW as David Sirch.
 
 ### References
 
