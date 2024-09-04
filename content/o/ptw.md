@@ -181,7 +181,7 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw�
 Breaking the silence, Pawłowski promised that the Ryucon show will be a new opening for PTW.
 The non-televised show included many new faces, both from [PTW Academy](@/o/ptw-academy.md) and foreign free agents.
 During the show, Łukasz "Prezes" Okoński, owner of Dworek Pod Platanem where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) was held, was announced as PTW's new co-owner.
-This change was not reflected in official registration documents (as of August 21 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
+This change was not reflected in official registration documents (as of August 21, 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
 Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media.
 
 On August 14, 2024, Pawłowski hosted a show for the local TV channel TVT, titled "Czas na Wrestling" (_Time for Wrestling_).
