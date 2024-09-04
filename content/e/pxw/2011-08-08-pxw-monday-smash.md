@@ -13,11 +13,14 @@ city = "Głuchołazy"
   - '[Demente](@/w/demente.md)'
   - ???
   - s: ECW Championship #1 Contendership 10-Man Over Rope Battle Royal
+    nc: ?
 - - ???
   - ???
   - s: PXW Tag Team Championship #1 Contendership Tag Team Match
+    nc: ?
 - - '[Terry Shadow](@/w/shadow.md)'
   - '[Demente](@/w/demente.md)'
+    nc: ?
 {% end %}
 
 ## References

@@ -13,12 +13,15 @@ city = "Głuchołazy"
   - 'Deadman'
   - '[Snake](@/w/snake.md)'
   - s: Triple Third #1 contender match for ECW championship
+    nc: ?
 - - '[Terry Shadow](@/w/shadow.md)(c)'
   - '[Nightmare](@/w/nightmare.md)'
   - c: ECW Championship
+    nc: ?
 - - 'Generation: ???, ???, ???'
   - 'Nation: ???, ???, ???'
   - s: 6-Man Tag Team Elimination Match
+    nc: ?
 {% end %}
 
 ## References

@@ -11,14 +11,18 @@ city = "Głuchołazy"
 {% card() %}
 - - 'Abdullah the Hercules'
   - 'Demencjusz Wolski'
+  - nc: ?
 - - '[Matt Blazer](@/w/blazer.md)'
   - '[Nightmare](@/w/nightmare.md)'
+  - nc: ?
 - - '[Black Joker](@/w/black-joker.md)(c)'
   - '[Luke Sirreks](@/w/sirreks.md)'
   - c: PXW Championship
+    nc: ?
 - - ???
   - ???
   - s: Royal Rumble
+    nc: ?
 {% end %}
 
 ## References

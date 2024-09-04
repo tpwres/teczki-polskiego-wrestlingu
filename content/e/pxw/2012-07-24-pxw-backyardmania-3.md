@@ -12,39 +12,51 @@ city = "Głuchołazy"
 - - '[Terry Shadow](@/w/shadow.md)'
   - 'Caein'
   - s: Dark Match
+    nc: ?
 - - 'Resh'
   - 'Vairen'
+  - nc: ?
 - - '[Snake](@/w/snake.md), Reks'
   - '[Demente](@/w/demente.md), Vandal'
   - c: PXW Tag Team Championship
 - - 'CMD'
+    nc: ?
   - 'Learson'
   - c: BWN Championship
+    nc: ?
 - - 'Gangsta'
   - 'Hero'
   - c: Toruń Championship
+    nc: ?
 - - 'Billi Rox'
   - 'Monster'
   - c: TWF Championship
+    nc: ?
 - - 'Dirty Devil'
   - 'Nick Violent'
   - s: Hardcore Match
+    nc: ?
 - - '[Snake](@/w/snake.md)'
   - '[Matt Blazer](@/w/blazer.md)'
   - c: PXW ECW Championship
+    nc: ?
 - - 'Caein'
   - 'Izray'
   - 'Rob Crowley'
   - c: WTW Championship
+    nc: ?
 - - '[Manny](@/w/manny.md)'
   - '[Black Joker](@/w/black-joker.md)'
   - s: PXW Championship #1 Contendership Match
+    nc: ?
 - - '[Sirreks](@/w/sirreks.md)'
   - '[Terry Shadow](@/w/shadow.md)'
   - c: PXW Championship
+    nc: ?
 - - ???
   - ???
   - s: Big Battle Royal Match
+    nc: ?
 {% end %}
 
 ## References

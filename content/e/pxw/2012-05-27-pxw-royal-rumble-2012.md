@@ -13,6 +13,7 @@ city = "Głuchołazy"
   - '[Black Joker](@/w/black-joker.md)'
   - ???
   - s: Royal Rumble Match
+    nc: ?
 {% end %}
 
 ## References

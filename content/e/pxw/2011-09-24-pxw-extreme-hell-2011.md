@@ -12,20 +12,24 @@ city = "Głuchołazy"
 - - 'Deadman'
   - '[Snake](@/w/snake.md)'
   - s: Chairs Match
+    nc: ?
 - - '[Terry Shadow](@/w/shadow.md)'
   - '[Black Joker](@/w/black-joker.md)'
   - s: Falls Count Anywhere Match
 - - '[Mazi](@/w/mazi.md)'
   - '[Manny](@/w/manny.md)'
   - s: PXW championship #1 Contendership No Holds Barred Match
+    nc: ?
 - - '[Slate](@/w/slate.md)(c)'
   - '[Sirreks](@/w/sirreks.md)'
   - s: Submision Match
     c: PXW Championship
+    nc: ?
 - - '[Cold Blood](@/w/cold-blood.md)(c)'
   - '[Nightmare](@/w/nightmare.md)'
   - c: ECW Championship
     s: I Quit Match
+    nc: ?
 {% end %}
 
 ## References
