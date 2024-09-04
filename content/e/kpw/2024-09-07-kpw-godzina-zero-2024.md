@@ -21,7 +21,7 @@ According to KPW's event page, there will be a significant number of foreign tal
 * From England, "Multiversal" Alexander Roth and "Big Wavy" Roy Johnson, competing as "The 87".
 * One half of Die Ordnung, former [KPW Tag Team champions](@/c/kpw-tag-team-championship.md): German wrestler Hans Schulte.
 * The reigning KPW Champion, Italian wrestler Red Scorpion, in only his second defense of the title since winning it at [last year's event](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).
-* Spanish wrestler Carlos Zamora, in his second appearance, previously seen at [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
+* Spanish wrestler Carlos Zamora, in his second appearance, previously seen at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md).
 * Also from Germany, Flexos, previously seen at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md)
 * Scottish wrestler Jack Jester, making his KPW debut. Jack is a veteran of ICW, and their Heavyweight champion in his second reign.
 * "Anglo-Greek Warrior" Reece Alexios, competing primarily in UK and recently in Australia, making his KPW debut.
@@ -31,7 +31,7 @@ According to KPW's event page, there will be a significant number of foreign tal
 * In [his video][malinowski-video], Chairman Malinowski teased the return of a match type that used to be a staple of Godzina Zero - perhaps a Magnificent Seven Match.
 * In the same video Malinowski stated that Greg would face Fynn Freyhart at [Pyrkon 2024](@/e/kpw/2024-06-15-kpw-pyrkon-2024.md) and if he won, he'd get to challenge Red Scorpion for the KPW Championship at Godzina Zero 2024. Greg lost the match, leaving the championship match-up in the air.
 * Chairman Malinowski announced that all three championships would be defended.
-* Starting on June 22, 2024, KPW started daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
+* Starting on June 22, 2024, KPW began a series of daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
 * Chemik posted a [video][chemik-video] stating that he did a whole lot of bad things to get [his title](@/c/kpw-old-town-championship.md) and that losing it would be like the end of the world to him. Perhaps tying into the name of the [previous event](@/e/kpw/2024-05-17-kpw-arena-25.md), he said "I did so many bad things that when I stand at the Pearly Gates, Saint Peter himself will kick my ass so hard I'll fly down straight to the ninth circle of hell", adding that the belt constitutes his identity.
 * About a week later [another video][rosetti-video], filmed by an unknown person, showed an angry Rosetti making a phone call to Greg, during which the two argued about the ownership of the [Old Town Championship](@/c/kpw-old-town-championship.md): Rosetti calling it his belt, and Greg firmly stating that it belongs to the Gregorian Branch. After a brief exchange Greg changed the subject, ordering Rosetti to cooperate with [Eryk Lesak](@/w/eryk-lesak.md) during the Magnificent Seven match, because all that matters is that the Championship contract goes to the Gregorian Branch. Greg then hung up, leaving the irritated Rosetti in mid-sentence.
 
