@@ -19,8 +19,8 @@ city = "Głuchołazy"
 - - '[Snake](@/w/snake.md), Reks'
   - '[Demente](@/w/demente.md), Vandal'
   - c: PXW Tag Team Championship
-- - 'CMD'
     nc: ?
+- - 'CMD'
   - 'Learson'
   - c: BWN Championship
     nc: ?
