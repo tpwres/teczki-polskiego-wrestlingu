@@ -2,8 +2,10 @@ import re
 from typing import Iterable, Optional
 from pathlib import Path
 from dataclasses import dataclass
-from .base import LintError, Changeset, Doc, Linter
-from card import Card, Match
+
+from yaml import YAMLError
+from .base import LintError, Changeset, Doc, Linter, FileSyntaxError
+from card import Card, Match, CardParseError
 from articles import load_existing_name_articles
 from rewriter import Rewriter, UpdateMatch
 
@@ -47,7 +49,7 @@ class UnlinkedParticipantError(LintError):
     def fatal(self):
         return True
 
-    def calculate_fix(self, text) -> Optional[Changeset]:
+    def calculate_fix(self, body_text) -> Optional[Changeset]:
         card = Card(self.path.open(), self.path.pathname())
         if not card.matches: return None
 
@@ -60,7 +62,7 @@ class UnlinkedParticipantError(LintError):
             return ReplaceCard(result)
 
     def prepare_regex(self, text: str) -> re.Pattern:
-       escaped = re.escape(text) 
+       escaped = re.escape(text)
        head_alpha, tail_alpha = text[0].isalnum(), text[-1].isalnum()
        boundary = r'\b'
 
@@ -78,9 +80,14 @@ class UnlinkedParticipantLinter(Linter):
         pathname = document.pathname()
 
         with document.open('r') as fp:
-            card = Card(fp, pathname)
-            if not card.matches:
-                return []
+            try:
+                card = Card(fp, pathname)
+                if not card.matches:
+                    return []
+            except YAMLError as e:
+                return [FileSyntaxError(document, e)]
+            except CardParseError as cpe:
+                return [FileSyntaxError(document, cpe)]
 
             return self.analyze_matches(card.matches, document)
 

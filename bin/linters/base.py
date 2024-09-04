@@ -1,8 +1,11 @@
 from abc import abstractmethod
 from pathlib import Path
+from dataclasses import dataclass
 from contextlib import AbstractContextManager, contextmanager, closing
+from card import CardParseError, MatchParseError
 from io import TextIOBase, StringIO
-from typing import IO
+from yaml import MarkedYAMLError, YAMLError
+from typing import IO, Sequence, Optional
 import sys
 
 class LintError:
@@ -92,5 +95,53 @@ class Linter:
         pass
 
     @abstractmethod
-    def lint(self, document: Doc) -> list[LintError]:
+    def lint(self, document: Doc) -> Sequence[LintError]:
         pass
+
+def line_offset_to_card_block(doc: Doc) -> Optional[int]:
+    with doc.open() as fp:
+        body = fp.read()
+        index = body.index('{% card(')
+
+    if index == -1: return None
+    return body[:index].count('\n') + 1
+
+@dataclass
+class FileSyntaxError(LintError):
+    doc: Doc
+    error: YAMLError|CardParseError
+
+    @property
+    def fatal(self) -> bool:
+        return True
+
+    @property
+    def supports_auto(self) -> bool:
+        return False
+
+    def message(self, file_root: Path) -> str:
+        if file_root:
+            path_section = f"[{self.doc.relative_to(file_root)}]"
+        else:
+            path_section = f"[{self.doc.pathname()}]"
+
+        match self.error:
+            case MarkedYAMLError(problem=problem, problem_mark=mark):
+                # The file has a syntax error, we can't reliably parse the card.
+                offset = line_offset_to_card_block(self.doc)
+                # If the file doesn't have a card, we shouldn't be here anyway
+                if offset is None:
+                    raise ValueError("No card block detected when handling FileSyntaxError")
+
+                if mark:
+                    return f"{path_section} Syntax error: {problem} near line {offset + mark.line} column {mark.column}"
+                else:
+                    return f"{path_section} Syntax error: {problem}"
+            case MatchParseError(args=[message, *_]):
+                # Inherits from CardParseError, must be first
+                return f"{path_section} Syntax error: {message}"
+            case CardParseError(args=[message, *_]):
+                return message
+            case err:
+                import pdb; pdb.set_trace()
+                return f"{path_section} {err}"

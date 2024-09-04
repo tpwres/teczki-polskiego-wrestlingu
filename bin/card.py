@@ -198,11 +198,11 @@ class Match:
         match match_row:
             case [*participants, dict() as options]:
                 participants = cast(list[str], participants)
-                self.opponents = list(self.parse_opponents(participants))
+                self.opponents = list(self.parse_opponents(participants, index))
                 self.options = options
             case [*participants]:
                 participants = cast(list[str], participants)
-                self.opponents = list(self.parse_opponents(participants))
+                self.opponents = list(self.parse_opponents(participants, index))
                 self.options = {}
             case dict() as options:
                 self.opponents = []
@@ -218,7 +218,14 @@ class Match:
     def winner(self) -> Iterable[Participant]:
         return self.opponents[0]
 
-    def parse_opponents(self, opponents: list[str]) -> Iterable[Iterable[Participant]]:
+    def parse_opponents(self, opponents: list[str], index: Optional[int] = None) -> Iterable[Iterable[Participant]]:
+        if any(side is None for side in opponents):
+            if index:
+                message = f"At least one side in match {index + 1} is empty"
+            else:
+                message = "Malformed match in card: at least one side is empty"
+            raise MatchParseError(message)
+
         return [self.parse_partners(side.split("+")) for side in opponents]
 
     def parse_partners(self, partners: list[str]) -> Iterable[Participant]:
@@ -233,6 +240,9 @@ class Crew:
             self.members.extend(CrewMember(p.name, role) for p in parse_group(names) if isinstance(p, NamedParticipant))
 
 class CardParseError(Exception):
+    pass
+
+class MatchParseError(CardParseError):
     pass
 
 class DelimitedCard(NamedTuple):
@@ -283,7 +293,7 @@ class Card:
             context, _, problem, problem_mark = parse_error.args
             line = start_line + problem_mark.line
             message = f"{path or '<file>'}:{line}: Error: {problem} {context}\n"
-            stderr.write(message)
+            # stderr.write(message)
             raise CardParseError(message)
 
     def extract_card_unsplit(self, text: str) -> Optional[DelimitedCard]:
