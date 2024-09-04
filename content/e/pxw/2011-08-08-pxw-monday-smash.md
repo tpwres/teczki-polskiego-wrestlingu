@@ -20,7 +20,7 @@ city = "Głuchołazy"
     nc: '?'
 - - '[Terry Shadow](@/w/shadow.md)'
   - '[Demente](@/w/demente.md)'
-    nc: '?'
+  - nc: '?'
 {% end %}
 
 ## References
