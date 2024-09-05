@@ -28,6 +28,10 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 - - '[Shadow](@/w/shadow.md)'
   - '[Alex Ace](@/w/alex-ace.md)'
   - nc: upcoming
+- - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Matt Buckna](@/w/matt-buckna.md)'
+  - nc: upcoming
+    c: MZW Championship
 {% end %}
 
 ## References
