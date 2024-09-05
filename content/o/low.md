@@ -12,6 +12,7 @@ hide_events = 1
 [extra.gallery]
 1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
 2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "ShowOff's Instagram" }
+3 = { path = "low-qa-post.jpg", caption = "An official-looking document announcing a live Q&A session.", source = "Official LOW Facebook" }
 +++
 
 ### History
@@ -28,6 +29,8 @@ On the 14th of August a [reveal trailer][reveal-trailer] was posted to a new You
 Set to Studio Buffo's cover of Krystyna Prońko's song "Psalm stojących w kolejce" (_The Psalm of Those Standing in Line_, a protest song from the early days of [Solidarity][solidarnosc]), the trailer showed a couple of PTW-related fake newspaper clippings and the PTW Intergender Championship (hand-made by [Marco Hammers](@/w/marco-hammers.md) out of cardboard, and only vaguely recognised by PTW), followed by several ex-PTW wrestlers: Hammers, [Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md), [Disco Pablo](@/w/disco-pablo.md) and [Marcelito](@/w/marcelito.md), as well as Jakub Linde (formerly Jakob Sigmarsson) who's currently on the [PpW Ewenement](@/o/ppw.md) roster.
 It then showed the LOW logo and closed with [Sinister](@/w/sinister.md) singing "All You Need is Love" by The Beatles.
 
+On the 5th of September LOW [posted on Facebook][qa-post] stating that a live Q&A session will be held on YouTube in a few days, in order to answer people's questions, confirm certain theories and deny others. The document was signed "Pan Prezes" (_Mister Chairman_), harkening back to the early days of [KPW](@/o/kpw.md) when a mysterious "Mister Chairman" was often mentioned, but never actually seen.
+
 
 ### References
 
@@ -36,3 +39,4 @@ It then showed the LOW logo and closed with [Sinister](@/w/sinister.md) singing 
 
 [reveal-trailer]: https://www.youtube.com/watch?v=_CvfCaElDK4
 [solidarnosc]: https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
+[qa-post]: https://www.facebook.com/permalink.php?story_fbid=pfbid0upseBqjGHPXP3TTJbNzRdaLmAS2RpqTFxxs5GVAmCXPgEmadHewj5SiLEizhE1Azl&id=61564064601704
