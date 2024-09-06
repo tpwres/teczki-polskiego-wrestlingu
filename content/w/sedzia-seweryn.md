@@ -12,7 +12,7 @@ career_aliases = ["Ring Rat"]
 
 * Nicknames/Gimmicks:
   - Ring Rat {{ org_badge(org='mzw') }}
-  - Sewi The Ref {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
+  - Sewi the Ref {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) ([Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md)) 2018-2020
   - [PTW Academy](@/o/ptw-academy.md) 2020-2024
@@ -20,41 +20,41 @@ career_aliases = ["Ring Rat"]
 
 ## Professional wrestling career
 
-### 2018-2020: MZW Rookie & In-Ring Debut
+### 2018-2020: MZW rookie & in-ring debut
 
-Seweryn stepped his feet in a wrestling ring for the first time at PAW Summer Camp 2018, held in Wrocław.
+Seweryn set his foot in a wrestling ring for the first time at PAW Summer Camp 2018, held in Wrocław.
 In late 2018 and early 2019 he became one of the founding members of [The Greens](@/a/the-greens.md).
 Initally aiming to become a wrestler, he continued to train in PAW regularly for the next year, making his debut as Ring Rat during [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) Rookie Battle Royal, where he eliminated [Krueger](@/w/olgierd.md) before being eliminated by [Nathan Cross](@/w/gabriel-queen.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).
-After that he made yet another apperance, in a segment during [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) along with Anatolii, [Hexia](@/w/hexia.md) & Krueger.
-Later, during the pandemic lockdown he decided to forfeit his wrestler's career to become full-time wrestling referee.
+After that he made yet another apperance, in a segment during [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), along with Anatolii, [Hexia](@/w/hexia.md) & Krueger.
+Later, during the pandemic lockdown, he decided to resign from his wrestler's career to become full-time wrestling referee.
 
-## 2021: Becoming Sewi The Ref, "Green Revolution", joining PTW
+## 2021: Becoming Sewi the Ref, "Green Revolution", joining PTW
 
-Seweryn made his refereeing debut during [MZW Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) refereeing alongside [Sędzia Michał](@/w/sedzia-michal.md).
-After that, he made yet another apperance before a live audience at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
-Later that year, due to a long stagnation in MZW combined with low morale among MZW's Greens, and the rapid growth of PTW caused by poaching of talent from other federation, on 21st of November 2021 the remaining Greens decided to leave MZW.
-Many of them either suspended their wrestling career, or transferred to Prime Time Wrestling. Sewi joined the latter group, joining PTW in late 2021.
+Seweryn made his debut as a referee during [MZW Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md), refereeing alongside [Sędzia Michał](@/w/sedzia-michal.md).
+After that, he made another apperance before a live audience at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
+Later that year, due to a long stagnation in MZW combined with low morale among MZW's Greens, and the rapid growth of PTW caused by poaching of talent from other federation, on the 21st of November 2021 the remaining Greens decided to leave MZW.
+Many of them either suspended their wrestling career, or transferred to Prime Time Wrestling. Sewi decided on the latter, joining PTW in late 2021.
 
 ## 2022-2024: Prime Time Wrestling
 
-Sewi The Ref debuted at [PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), which marked the start of his 2-year tenure as referee in the federation.
+Sewi the Ref debuted at [PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), which marked the start of his 2-year tenure as referee in the federation.
 He worked along [Sędzia Matek](@/w/sedzia-matek.md), with [Sędzia Rafał](@/w/alex-brave.md) joining in the second half of 2022.
-After Rafał's suspension due to the ["Asian Scandal" controversy](@/a/ptw-awards.md), and Matek's quiet departure from the company, he became _de facto_ Senior Referee, briefly working as the sole referee for [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) & [12](@/e/ptw/2023-02-26-ptw-underground-12.md), before being joined by [Klaudiusz](@/w/sedzia-klaudiusz.md).
-For most of 2023 and 2024, he maintained his position as main referee, working many of the main events and matches with high-profile international wrestlers.
-He also was awarded PTW's "Referee of the Year" Award for 2022.
+After Rafał's suspension due to the ["Asian Scandal" controversy](@/a/ptw-awards.md), and Matek's quiet departure from the company, he became the _de facto_ Senior Referee, briefly working as the sole referee for [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) & [12](@/e/ptw/2023-02-26-ptw-underground-12.md), before being joined by [Klaudiusz](@/w/sedzia-klaudiusz.md).
+For most of 2023 and 2024 he maintained his position as the main referee, working many of the main events and matches with high-profile international wrestlers.
+He was also awarded the PTW's "Referee of the Year" Award for 2022.
 
 During his tenure in Prime Time Wrestling, Referee Seweryn also made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show "WrestleClash 25" in August 2023.
-Later he made yet another appearance on a PTW/WWA show in January 2024.
-Sewi continued his run in the company, being present at every PTW event except [Underground 7](@/e/ptw/2022-08-28-ptw-underground-7.md) up until [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
-After that show he, along with many other talents, left PTW.
+Later he made yet another appearance at a PTW/WWA show in January 2024.
+Sewi continued his run in the company, being present at every PTW event (except [Underground 7](@/e/ptw/2022-08-28-ptw-underground-7.md)) up until [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
+After that show he, along with many other talent, left PTW.
 
-## 2024: PpW
+## 2024: PpW Ewenement
 
-On July 5th 2024 PpW announced on its social media that Sewi will join the federation as a referee.
+On July 5th, 2024, [PpW](@/o/ppw.md) announced on its social media that Sewi would join the federation as a referee.
 He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) & [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md).
 While maintaining PpW as his main promotion, Sewi continued his sporadic apperances on the international circuit.
 
 ## Championships and achievments:
 
 [PTW Awards](@/a/ptw-awards.md) (1 time):
-- Referee of The Year (2022)
+- Referee of the Year (2022)
