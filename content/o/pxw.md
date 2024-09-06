@@ -2,7 +2,7 @@
 title = "Polish Xtreme Wrestling"
 weight = 0
 template = "org_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chrono_root = ["pxw"]
 [extra.gallery]
@@ -13,7 +13,7 @@ Polish Xtreme Wrestling was a backyard group (later registered as a sports club)
 
 The group was active between 2011 and 2013, and could only hold events in spring and summer, due to using a makeshift, outdoors ring. According to the article by Nowa Trybuna Opolska, their ring was built following instructions found online, and uses old tires to add spring to the floor, while the ring ropes were made of cheap manila rope.
 
-The biggest event held by PXW was [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow which featured matches from many other backyard organizations active in Poland at the time.
+The biggest event held by PXW was [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow which featured wrestlers from many other backyard organizations active in Poland at the time.
 
 ### References
 
