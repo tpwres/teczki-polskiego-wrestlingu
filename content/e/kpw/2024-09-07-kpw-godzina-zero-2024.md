@@ -15,7 +15,7 @@ path = "2024-09-07-kpw-godzina-zero-2024-zefir-microphone.jpg"
 caption = "Zefir with the microphone."
 source = "M3n747"
 [extra.gallery.3]
-path = "2024-09-07-kpw-godzina-zero-2024-zefir-unmasked"
+path = "2024-09-07-kpw-godzina-zero-2024-zefir-unmasked.jpg"
 caption = "Zefir unmasked."
 source = "M3n747"
 +++
