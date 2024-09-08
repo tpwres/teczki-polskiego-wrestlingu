@@ -189,7 +189,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
     ed: 2024-09-07
 - - '[Hans Schulte](@/w/hans-schulte.md)'
   - 'Red Scorpion (c)'
-  - s: Singles match
+  - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
 {% end %}
@@ -204,7 +204,7 @@ Both defenses took place during events held by Bologna Wrestling Team.
 {% free_card() %}
 - - '[Hans Schulte](@/w/hans-schulte.md)'
   - 'Red Scorpion (c)'
-  - s: Singles match
+  - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
 {% end %}
