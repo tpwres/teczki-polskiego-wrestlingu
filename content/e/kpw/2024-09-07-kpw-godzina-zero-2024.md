@@ -61,6 +61,10 @@ There were a significant number of foreign talent at this event, including some 
   - '[Zefir](@/w/zefir.md)'
   - s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match
 - - '[Chemik](@/w/chemik.md)'
+  - '[Chairman Malinowski](@/w/krystian-malinowski.md)'
+  - g: true
+    s: Malinowski criticizing Chemik as champion
+- - '[Chemik](@/w/chemik.md)'
   - 'Carlos Zamora'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Ron Corvus](@/w/ron-corvus.md)'
