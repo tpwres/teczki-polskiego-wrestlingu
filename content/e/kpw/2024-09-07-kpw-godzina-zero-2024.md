@@ -10,6 +10,14 @@ city = "Gdynia"
 path = "2024-09-07-kpw-godzina-zero-2024-plakat.jpg"
 caption = "Official poster. In the top row are [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md), Red Scorpion with the [KPW Championship](@/c/kpw-championship.md) belt, and The 87. Next to the event name are smaller figures of [David Oliwa](@/w/david-oliwa.md), [Rosetti](@/w/rosetti.md), Flexos and [Ron Corvus](@/w/ron-corvus.md). At the bottom, we see Carlos Zamora, Reece Alexios, [Greg](@/w/greg.md), Jack Jester, [Hans Schulte](@/w/hans-schulte.md), [Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Darius](@/w/darius.md) and [Eryk Lesak](@/w/eryk-lesak.md)."
 source = "kpwrestling.pl / Official KPW Facebook"
+[extra.gallery.2]
+path = "2024-09-07-kpw-godzina-zero-2024-zefir-microphone.jpg"
+caption = "Zefir with the microphone."
+source = "M3n747"
+[extra.gallery.3]
+path = "2024-09-07-kpw-godzina-zero-2024-zefir-unmasked"
+caption = "Zefir unmasked."
+source = "M3n747"
 +++
 
 Godzina Zero (_Zero Hour_) 2024 is an upcoming seventh annual KPW supershow, held since 2016. Unlike most previous editions, GZ'24 is going to be held in September. It also marks the first time a main KPW event won't be held in the [Nowy Harem club](@/v/atlantic-nh-gdynia.md), since the promotion returned there with [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md). The change of venue to a larger gym hall of a school at Stefana Okrzei 6 street was dictated by the increased interest in recent events, with Arenas [21](@/e/kpw/2023-02-24-kpw-arena-21.md), [23](@/e/kpw/2023-11-24-kpw-arena-23.md), [24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md), [25](@/e/kpw/2024-05-17-kpw-arena-25.md) and [GZ'23](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) selling out and additional tickets being made available. The move, according to Chairman Malinowski, is a temporary one and the promotion still does business with Nowy Harem.
