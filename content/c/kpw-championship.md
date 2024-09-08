@@ -160,7 +160,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
   - s: Singles match
     en: '[KPW Arena 22: Teczka Prezesa](@/e/kpw/2023-05-19-kpw-arena-22.md)'
     ed: 2023-05-19
-- - 'Red Scorpion'
+- - '[Red Scorpion](@/w/red-scorpion.md)'
   - 'Greg (c)'
   - s: Singles match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
@@ -172,7 +172,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
 ### Champion #6: Red Scorpion
 
 {% free_card() %}
-- - 'Red Scorpion'
+- - '[Red Scorpion](@/w/red-scorpion.md)'
   - 'Greg (c)'
   - s: Singles match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
@@ -182,10 +182,29 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
   - s: Singles match
     en: '[KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md)'
     ed: 2023-11-24
+- - 'Red Scorpion (c)'
+  - 'Jack Jester'
+    en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
+    ed: 2024-09-07
+- - '[Hans Schulte](@/w/hans-schulte.md)'
+  - 'Red Scorpion (c)'
+    en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
+    ed: 2024-09-07
 {% end %}
+
+**TOTAL:** 386 days.
 
 Red Scorpion also defended the title outside of Poland: in [October 2023](https://www.cagematch.net/?id=1&nr=377603) against James Mason, and in [March 2024](https://www.cagematch.net/?id=1&nr=391319) against Liam Slater.
 Both defenses took place during events held by Bologna Wrestling Team.
+
+### Champion #7: Hans Schulte
+
+{% free_card() %}
+- - '[Hans Schulte](@/w/hans-schulte.md)'
+  - 'Red Scorpion (c)'
+    en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
+    ed: 2024-09-07
+{% end %}
 
 
 ## References

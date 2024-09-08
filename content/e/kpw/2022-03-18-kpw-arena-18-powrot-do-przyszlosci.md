@@ -32,7 +32,7 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
   "[Eryk Lesak](@/w/eryk-lesak.md)", {s: Two On One Handicap Match, r: Count Out}]
 - ['[Chemik](@/w/chemik.md)', Piotr Opolski]
 - ['[David Oliwa](@/w/david-oliwa.md)(c)', Gianni Valletta, {c: KPW OldTown Championship}]
-- [Red Scorpion, '[Darius](@/w/darius.md)', '[Zefir](@/w/zefir.md)', {s: Three Way
+- ['[Red Scorpion](@/w/red-scorpion.md)', '[Darius](@/w/darius.md)', '[Zefir](@/w/zefir.md)', {s: Three Way
       Match}]
 - ['[Greg](@/w/greg.md)', '[Ron Corvus](@/w/ron-corvus.md)', {s: "Hardcore Match for
       KPW Championship #1 Contender"}]
