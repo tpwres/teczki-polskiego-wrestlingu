@@ -35,42 +35,42 @@ According to KPW's event page, there will be a significant number of foreign tal
 * Chemik posted a [video][chemik-video] stating that he did a whole lot of bad things to get [his title](@/c/kpw-old-town-championship.md) and that losing it would be like the end of the world to him. Perhaps tying into the name of the [previous event](@/e/kpw/2024-05-17-kpw-arena-25.md), he said "I did so many bad things that when I stand at the Pearly Gates, Saint Peter himself will kick my ass so hard I'll fly down straight to the ninth circle of hell", adding that the belt constitutes his identity.
 * About a week later [another video][rosetti-video], filmed by an unknown person, showed an angry Rosetti making a phone call to Greg, during which the two argued about the ownership of the [Old Town Championship](@/c/kpw-old-town-championship.md): Rosetti calling it his belt, and Greg firmly stating that it belongs to the Gregorian Branch. After a brief exchange Greg changed the subject, ordering Rosetti to cooperate with [Eryk Lesak](@/w/eryk-lesak.md) during the Magnificent Seven match, because all that matters is that the Championship contract goes to the Gregorian Branch. Greg then hung up, leaving the irritated Rosetti in mid-sentence.
 
-Card based on social media posts.
-
-{% card(predicted=true) %}
+{% card() %}
 - - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
   - 'The 87: Alexander Roth, Roy Johnson'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-    nc: upcoming
-- - '[Zefir](@/w/zefir.md)'
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - Reece Alexios
+- - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Darius](@/w/darius.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - 'Flexos'
-  - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Rosetti](@/w/rosetti.md)'
+  - '[Zefir](@/w/zefir.md)'
   - s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match
-    nc: upcoming
-- - '[Leon Lato](@/w/leon-lato.md)'
-  - Reece Alexios
-  - nc: upcoming
-- - '[Greg](@/w/greg.md)'
-  - '[Ron Corvus](@/w/ron-corvus.md)'
-  - s: Hardcore Match
-    nc: upcoming
 - - '[Chemik](@/w/chemik.md)'
   - 'Carlos Zamora'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-    nc: upcoming
-- - 'Red Scorpion'
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Greg](@/w/greg.md)'
+  - s: Hardcore Match
+- - '[Red Scorpion](@/w/red-scorpion.md)'
   - 'Jack Jester'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
-    nc: upcoming
+- - '[Hans Schulte](@/w/hans-schulte.md)'
+  - '[Red Scorpion](@/w/red-scorpion.md)'
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
+- credits:
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
+    Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
 #### Recap
 
-* N/A
+* Towards the end of the Magnificent Seven match, Zefir and Hans Schulte were trading blows on top of a ladder, when Schulte grabbed Zefir by the head and pulled off his mask. Zefir covered his features with his hands, thus retaining his anonymity, but losing the fight in the process. After the bell rang, one of the ring crew members offered Zefir a towel to hide his visage and led him backstage.
+* After Greg lost to Ron Corvus, he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the [KPW Old Town Championship](@/c/kpw-old-town-championship.md) to Chemik. A few moments later Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch.
+* After Red Scorpion defended the title against Jack Jester, he was suddenly attacked by Hans Schulte, who cashed in the championship contract he won in the Magnificent Seven match.
 
 ### References
 
