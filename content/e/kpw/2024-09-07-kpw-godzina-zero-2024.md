@@ -20,9 +20,13 @@ caption = "Zefir unmasked."
 source = "M3n747"
 +++
 
-Godzina Zero (_Zero Hour_) 2024 is an upcoming seventh annual KPW supershow, held since 2016. Unlike most previous editions, GZ'24 is going to be held in September. It also marks the first time a main KPW event won't be held in the [Nowy Harem club](@/v/atlantic-nh-gdynia.md), since the promotion returned there with [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md). The change of venue to a larger gym hall of a school at Stefana Okrzei 6 street was dictated by the increased interest in recent events, with Arenas [21](@/e/kpw/2023-02-24-kpw-arena-21.md), [23](@/e/kpw/2023-11-24-kpw-arena-23.md), [24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md), [25](@/e/kpw/2024-05-17-kpw-arena-25.md) and [GZ'23](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) selling out and additional tickets being made available. The move, according to Chairman Malinowski, is a temporary one and the promotion still does business with Nowy Harem.
+Godzina Zero (_Zero Hour_) 2024 was the seventh annual KPW supershow, held since 2016.
+Unlike most previous editions, GZ'24 was held in September.
+It also marked the first time a main KPW event was not held in the [Nowy Harem club](@/v/atlantic-nh-gdynia.md), since the promotion returned there with [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
+The change of venue to a larger gym hall of a school at Stefana Okrzei 6 street was dictated by the increased interest in recent events, with Arenas [21](@/e/kpw/2023-02-24-kpw-arena-21.md), [23](@/e/kpw/2023-11-24-kpw-arena-23.md), [24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md), [25](@/e/kpw/2024-05-17-kpw-arena-25.md) and [GZ'23](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) selling out and additional tickets being made available.
+The move, according to Chairman Malinowski, was temporary and the promotion still does business with Nowy Harem.
 
-According to KPW's event page, there will be a significant number of foreign talent at this event, including some new guests:
+There were a significant number of foreign talent at this event, including some new guests:
 
 * Hungarian wrestler and former [KPW champion](@/c/kpw-championship.md) [Ron Corvus](@/w/ron-corvus.md), last seen two years prior, at [Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
 * From England, "Multiversal" Alexander Roth and "Big Wavy" Roy Johnson, competing as "The 87".
@@ -68,6 +72,7 @@ According to KPW's event page, there will be a significant number of foreign tal
 - - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Red Scorpion](@/w/red-scorpion.md)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
+    s: Championship Contract Cash-In
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
@@ -75,11 +80,14 @@ According to KPW's event page, there will be a significant number of foreign tal
 
 #### Recap
 
-* Before the Magnificent Seven match began the wrestlers took turns on the microphone, starting with Rosetti, for whom the mic didn't work and his promo couldn't be heard. After Hans Schulte insulted Zefir, he grabbed the mic and for a moment it seemed like he was going to say something, but he drop-kicked Schulte instead.
-* During the Magnificent Seven match Rosetti, who was aiming for Zefir, accidentally hit Eryk Lesak in the head with a steel chair. Moments later, when both opponens were on the ground, Rosetti raised the chair to hit Zefir, but then turned on Lesak and attacked him, elliminating him from the fight.
+* Before the Magnificent Seven match began, the wrestlers took turns on the microphone, starting with Rosetti, for whom the mic didn't work and his promo couldn't be heard.
+  After Hans Schulte insulted Zefir, he grabbed the mic and for a moment it seemed like he was going to say something, but he drop-kicked Schulte instead.
+* During the Magnificent Seven match, Rosetti, who was aiming for Zefir, accidentally hit Eryk Lesak in the head with a steel chair. Moments later, when both opponents were on the ground, Rosetti raised the chair to hit Zefir, but then turned on Lesak and attacked him, eliminating him from the fight.
 * Towards the end of the Magnificent Seven match, Zefir and Hans Schulte were trading blows on top of a ladder, when Schulte grabbed Zefir by the head and pulled off his mask. Zefir covered his features with his hands, thus retaining his anonymity, but losing the fight in the process. After the bell rang, one of the ring crew members offered Zefir a towel to hide his visage and led him backstage.
-* After Greg lost to Ron Corvus, he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the [KPW Old Town Championship](@/c/kpw-old-town-championship.md) to Chemik. A few moments later Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch.
-* After Red Scorpion defended the title against Jack Jester, he was suddenly attacked by Hans Schulte, who cashed in the championship contract he won in the Magnificent Seven match.
+* After Greg lost to Ron Corvus, he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the [KPW Old Town Championship](@/c/kpw-old-town-championship.md) to Chemik.
+  A few moments later, Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch.
+  With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader. But nowadays after his losing streak, he was no longer worth following.
+* After Red Scorpion defended the title against Jack Jester, Hans Schulte ran into the ring to cash in his championship contract won in the Magnificent Seven match.
 
 ### References
 
