@@ -22,10 +22,14 @@ The feud was resolved during [Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-p
 
 ### 2023: Bodyguard to Mandecky
 
+In February 2023, just before [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md), PpW released Bazooka's promo on YouTube, a two-minute clip titled "STAN NADZWYCZAJNEJ PRZEMOCY" (_State of Extreme Violence_).
+The video appeared with distortions and washed-out color as if recorded off TV with a VCR. In the top-right corner, a fake channel name "PpW HISTORIA" appears, directly referencing and mocking TVP Historia, the national broadcaster's channel focused on history.
+Bazooka sits in front of a grey wall, in his combat uniform, balaclava and beret, and reads a statement from a memo pad.
+His words, and the video's aesthetic, directly reference the infamous [December 13, 1981 announcement][youtube-jaruzelski] when Generał Wojciech Jaruzelski interrupted children's TV programming and declared [martial law in Poland][wikipedia-martial-law-poland] in reaction to a massive wave of strike action and the threat of Soviet intervention.
+
 During [Piwa i Igrzysk](@/e/ppw/2023-03-11-ppw-piwa-i-igrzysk.md), a [segment][mandecki-johnny-segment] between [Johnny Blade](@/w/johnny-blade.md) and PpW's kayfabe owner and authority figure at that time Jerry "Rich" Mandecky, the latter announced Johnny's opponent to be his new bodyguard, Kapitan Bazooka.
 Bazooka entered the ring in slightly refreshed gear: his green vest now painted with a white skull motif similar to comic book antihero Punisher, with facepaint to match, and proceeded to viciously attack Johnny without waiting for the bell to ring.
-Later that same night, Mandecky confronted [Biesiad](@/w/biesiad.md), who successfully defended his [PpW Championship](@/c/ppw-championship.md) title against [Steve Kuningas](@/w/steve-kuningas.md). He stated that Biesiad should not be too happy about his defense, because he'd be defending his title against Bazooka on the next show.
-That defense, however, did not happen on the next show which was [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md) but was moved to [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md) two months later.
+Later that same night, Mandecky confronted [Biesiad](@/w/biesiad.md), who successfully defended his [PpW Championship](@/c/ppw-championship.md) title against [Steve Kuningas](@/w/steve-kuningas.md). He stated that Biesiad should not be too happy about his defense, because he'd be defending his title against Bazooka on the next show, which was [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md) two months later.
 Biesiad won that match by KO, defending his title yet again.
 This broke Bazooka's undefeated streak.
 
@@ -45,3 +49,5 @@ After rolling him out of the ring and dragging the body over the barriers, he le
 This new angle however, didn't go anywhere. Later that year in August, Bazooka announced his retirement from wrestling due to unspecified joint condition, preventing him from strenuous physical activity.
 
 [mandecki-johnny-segment]: https://www.youtube.com/watch?v=ziLmuoNIKUE
+[wikipedia-martial-law-poland]: https://en.wikipedia.org/wiki/Martial_law_in_Poland
+[youtube-jaruzelski]: https://www.youtube.com/watch?v=dKhITm9-5TU
