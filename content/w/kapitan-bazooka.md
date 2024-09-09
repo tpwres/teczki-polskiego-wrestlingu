@@ -4,6 +4,8 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "kpt-bazooka-i-mandec.jpg", caption = "Kapitan Bazooka and Mandecky saluting each other, seconds before Bazooka's turn.", source = "M3n747" }
 +++
 
 Kapitan Bazooka is a retired wrestler, competing for [PpW](@/o/ppw.md) between 2022 and 2024.
