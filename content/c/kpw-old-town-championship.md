@@ -103,7 +103,7 @@ The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling
     ed: 2022-03-18
 - - 'Rosetti'
   - 'David Oliwa (c)'
-  - s: Singles match
+  - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
 {% end %}
@@ -117,7 +117,7 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
 {% free_card() %}
 - - 'Rosetti'
   - 'David Oliwa (c)'
-  - s: Singles match
+  - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
 - - '[Darius](@/w/darius.md)'
