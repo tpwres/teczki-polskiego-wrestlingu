@@ -61,7 +61,7 @@ The foreign guests for the event were:
 - - '[Rosetti](@/w/rosetti.md)'
   - '[David Oliwa](@/w/david-oliwa.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-    s: Championship Contract Cash-In  
+    s: Contract Cash-In  
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
