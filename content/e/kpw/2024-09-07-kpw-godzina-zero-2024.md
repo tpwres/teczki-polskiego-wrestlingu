@@ -76,7 +76,7 @@ There were a significant number of foreign talent at this event, including some 
 - - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Red Scorpion](@/w/red-scorpion.md)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
-    s: Championship Contract Cash-In
+    s: Contract Cash-In
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
