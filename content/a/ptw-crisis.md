@@ -96,3 +96,12 @@ Once again, Pawłowski confirmed it was a spectacular fiasco, with the ticket mo
 
 To wrap up the show, Pawłowski was asked what is the essence of wrestling (phrased as "istota wrestlingu" - possibly a namedrop for a [YouTube channel of the same name](https://www.youtube.com/@IstotaWrestlingu/)).
 He answered that connecting people, escapism, and emotional involvement are the key components of pro wrestling's appeal.
+
+
+[puncher-statement]: https://x.com/PuncherShow/status/1791560657453678715
+[ptw-ryucon-3]: https://www.instagram.com/p/C7ju1yYI5UF/
+[ludwiczek-vs-ptw-instagram]: https://www.instagram.com/p/C7RgkT-oSOb
+[pawlowski-tvreklamy]: https://www.youtube.com/watch?v=l46enZVs2f0
+[ludwiczek-klamstwa-pawlowskiego]: https://www.youtube.com/watch?v=V39f6SNRUJ8&t=444s
+[followup-puncher]: https://www.youtube.com/watch?v=m2kZZBAqmuo
+[followup-pawlowski]: https://www.youtube.com/watch?v=F4PknaxqojM&t=73s
