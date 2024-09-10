@@ -83,6 +83,16 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Open Challenge
     ed: 2024-04-13
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
+- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
+  - 'Lucha Squad: Samuray Del Sol, Lince Dorado'
+  - s: Tag Team Match
+    en: '[PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md)'
+    ed: 2024-05-11
+- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
+  - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
+  - s: Tag Team Match
+    en: '[PTW Underground 22: FACE-OFF](@/e/ptw/2024-08-25-ptw-underground-22.md)'
+    ed: 2024-08-05
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
