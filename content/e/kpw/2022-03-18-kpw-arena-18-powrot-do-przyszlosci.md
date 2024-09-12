@@ -37,7 +37,7 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
 - ['[Greg](@/w/greg.md)', '[Ron Corvus](@/w/ron-corvus.md)', {s: "Hardcore Match for
       KPW Championship #1 Contender"}]
 - credits:
-    Referees: '[Krystian Czekaj](@/w/krystian-czekaj.md), Krystian Malinowski'
+    Referees: '[Krystian Czekaj](@/w/krystian-czekaj.md), [Krystian Malinowski](@/w/krystian-malinowski.md)'
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
     Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
