@@ -31,12 +31,55 @@ It then showed the LOW logo and closed with [Sinister](@/w/sinister.md) singing 
 
 On the 5th of September LOW [posted on Facebook][qa-post] stating that a live Q&A session would be held on YouTube in a few days, in order to answer people's questions, confirm certain theories and deny others. The document was signed "Pan Prezes" (_Mister Chairman_), harkening back to the early days of [KPW](@/o/kpw.md) when a mysterious "Mister Chairman" was often mentioned, but never actually seen.
 
+#### The live Q&A
+
+On 9.09.2024 LOW held a [live Q&A][live-qa] on YouTube hosted by [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), who anwsered questions asked by fans on Legacy's social media. The stream lasted around 75 minutes, during which ShowOff shared the following information:
+
+* Unlike other Polish promotions thus far, Legacy is not going to have their own wrestling school, focusing on organising events instead.
+* LOW might have their own championship titles; that remains to be seen.
+* Legacy may put together a show in 2024; more information should be available soon, including the time, place and perhaps even tickets.
+* The enigmatic "Mister Chairman" is someone who's been following Polish wrestling from the back seat and now wants to do something his own way. He is neither ["Pan" Pawłowski](@/w/pan-pawlowski.md) nor [PTW](@/o/ptw.md)'s co-founder, Rzeźnik.
+* Legacy won't have their own roster of home-grown talent. Instead, they're aiming to be an indie federation, offering wrestlers from other promotions a place to work and gain experience and exposure.
+* They want to cooperate relatively regularly with a core group of people allowing them to build storylines, while inviting other wrestlers from Poland and perhaps even from abroad (though from nearby rather than from far away).
+* Legacy talked to nearly every Polish promotion and hope to have talked to all of them before the first show.
+* The group will most likely be based in Katowice, with shows in other cities being a possibility, though not the main focus.
+* LOW is not connected to PTW, aside from the experience gained there and the ambition to improve on some of PTW's perceived shortcomings.
+* The first show will be their version of [All In][all-in], meant to test how much can be done within the context of one event, and based on that they'll decide on the best course of action to take.
+* LOW currently focuses on making their first event the best it can be. However, it is within the realm of possibility that the fist Legacy show will also be their last, if things don't work out.
+* Owing to the above, the first show will be close-ended in case it never gets a follow-up, but will leave enough doors open in case of the opposite.
+* The wrestlers will be paid for their appearances (this was a jab at "Pan" Pawłowski who, according to [Samson](@/w/samson.md), failed to properly compensate his workers financially).
+* The first show will take place in Silesia, with Katowice being especially hinted at.
+* They have their own ring, the origin of which is currently unknown.
+* LOW don't expect [Puncher](@/w/puncher.md) to want to work for them, nor for "Pan" Pawłowski to agree to it.
+* There's going to be beer.
+* Legacy aims for pure wrestling, without relying on various influencers to gain media exposure, like PTW did.
+* Tickets will cost no more than 100&nbsp;PLN (approximately 23&nbsp;EUR, 19.5&nbsp;GBP, 26&nbsp;USD, 3700&nbsp;JPY or 23,000&nbsp;[KPW][best-korea-best-money] as of September 2024).
+* Legacy wants to be open for cooperation with various wrestling YouTube outlets, such as [What is Wrestling][yt-wiw], [WrestleOne][yt-w1], [Attitude][yt-atti], [Istota Wrestlingu][yt-iw], [Blaze][yt-blaze], [Patrykos][yt-pat] and others.
+* There's a possibility that other promotions' championship titles could be defended at LOW shows.
+* Only a handful of people in Poland have serious experience and knowledge managing a wrestling promotion, none of whom are working for Legacy. They do, however, have people with the know-how of putting together events (wrestling and otherwise), some of whom used to work with PTW.
+* LOW hopes the first event is going to feature at least one wrestler from each Polish promotion.
+* Wrestlers will most likely retain their current gimmicks, rather than have brand-new ones specifically for Legacy. All the past events that happened to those wrestlers in their respective promotions are going to be canonical for LOW and will exist in their own continuity.
+* When asked if the event will be recorded and/or streamed live, ShowOff said they want to keep some things a secret for the time being.
+* ShowOff would like [Justin Joy](@/w/justin-joy.md) to appear at the show.
+* The idea for Legacy of Wrestling began to take shape when first people [started leaving PTW](@/a/ptw-exits.md).
+* The abbreviation "LOW" will rarely be used, with "Legacy" being the official short name. "Legacy of Wrestling" was chosen in part jokingly, as they wanted people to have rather "LOW" expectations (unlike when PTW took off).
 
 ### References
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
 * [Video: LOW reveal trailer][reveal-trailer]
+* [Live Q&A][live-qa], hosted by ShowOff
 
 [reveal-trailer]: https://www.youtube.com/watch?v=_CvfCaElDK4
 [solidarnosc]: https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
 [qa-post]: https://www.facebook.com/permalink.php?story_fbid=pfbid0upseBqjGHPXP3TTJbNzRdaLmAS2RpqTFxxs5GVAmCXPgEmadHewj5SiLEizhE1Azl&id=61564064601704
+[live-qa]:https://www.youtube.com/watch?v=aaODKm_UsnI
+[all-in]:https://en.wikipedia.org/wiki/All_In_(2018)
+[best-korea-best-money]:https://en.wikipedia.org/wiki/North_Korean_won
+[yt-wiw]:https://www.youtube.com/@WhatIsWrestling/featured
+[yt-w1]:https://www.youtube.com/@wrestleone
+[yt-atti]:https://www.youtube.com/@AttitudePolska
+[yt-iw]:https://www.youtube.com/@IstotaWrestlingu
+[yt-blaze]:https://www.youtube.com/@blazewrestling/featured
+[yt-pat]:https://www.youtube.com/channel/UCy-vLx6AuT4F4iCHkqkNPFg
+
