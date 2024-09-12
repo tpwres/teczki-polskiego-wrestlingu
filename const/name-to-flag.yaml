@@ -87,7 +87,7 @@ Doink: US
 Dolph Ziggler: US
 Dominik Fischer: DE
 Dominik Więcek: PL
-Duende: PL
+Duende: PL # Duende == Sędzia Gocha == Sędzia Borys
 # E
 Eddie Rage: HU
 El Generico: CA
@@ -288,8 +288,8 @@ Scott Rider: FR
 Scotty Rawk: ENGLAND
 Sebastien: CZ
 Senza Volto: FR
-Sędzia Borys: PL # Sędzia Borys == Sędzia Gocha
-Sędzia Gocha: PL # Sędzia Gocha == Sędzia Borys
+Sędzia Borys: PL # Sędzia Borys == Sędzia Gocha == Duende
+Sędzia Gocha: PL # Sędzia Gocha == Sędzia Borys == Duende
 Sędzia Karol Górski: PL # Sędzia Karol Górski = Karol Górski (2)
 Sędzia Klaudiusz: PL
 Sędzia Kornel: PL # Sędzia Kornel == Kapral Kornel (nieoficjalnie)
