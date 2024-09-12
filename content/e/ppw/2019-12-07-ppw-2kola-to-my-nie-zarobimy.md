@@ -20,7 +20,7 @@ This was likely the first PpW event open for general public, as opposed to frien
 
 {% card() %}
 - ["[Mister Z](@/w/mister-z.md)", "Terry Shadow (impostor)", {nc: "?"}]
-- ["Duende", "Black Orion", {nc: "?"}]
+- ["[Duende](@/w/sedzia-borys.md)", "Black Orion", {nc: "?"}]
 - ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Osamu](@/w/osamu.md)", {nc: "?"}]
 - credits:
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)'
