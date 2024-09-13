@@ -12,7 +12,7 @@ city = "Warszawa"
 +++
 
 Bijatyka Dla Piesków (_Brawl for the Puppies_) was an event by [PpW Ewenement](@/o/ppw.md), held on Saturday, February 15th 2020.
-Hld in [2KOŁA](@/v/2kola.md), it marks the start of PpW's pro era.
+Held in [2KOŁA](@/v/2kola.md), it marks the start of PpW's pro era.
 True to the name, all the gate profits were donated to dog shelters in the Warsaw area.
 
 {% card() %}
