@@ -29,7 +29,7 @@ On the 14th of August a [reveal trailer][reveal-trailer] was posted to a new You
 Set to Studio Buffo's cover of Krystyna Prońko's song "Psalm stojących w kolejce" (_The Psalm of Those Standing in Line_, a protest song from the early days of [Solidarity][solidarnosc]), the trailer showed a couple of PTW-related fake newspaper clippings and the PTW Intergender Championship (hand-made by [Marco Hammers](@/w/marco-hammers.md) out of cardboard, and only vaguely recognised by PTW), followed by several ex-PTW wrestlers: Hammers, [Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md), [Disco Pablo](@/w/disco-pablo.md) and [Marcelito](@/w/marcelito.md), as well as Jakub Linde (formerly Jakob Sigmarsson) who's currently on the [PpW Ewenement](@/o/ppw.md) roster.
 It then showed the LOW logo and closed with [Sinister](@/w/sinister.md) singing "All You Need is Love" by The Beatles.
 
-On the 5th of September LOW [posted on Facebook][qa-post] stating that a live Q&A session would be held on YouTube in a few days, in order to answer people's questions, confirm certain theories and deny others. The document was signed "Pan Prezes" (_Mister Chairman_), harkening back to the early days of [KPW](@/o/kpw.md) when a mysterious "Mister Chairman" was often mentioned, but never actually seen.
+On the 5th of September LOW [posted on Facebook][qa-post] stating that a live Q&A session would be held on YouTube in a few days, in order to answer people's questions, confirm certain theories and deny others. The document was signed "Pan Prezes" (_Mister Chairman_), harkening back (albeit unintentionally) to the early days of [KPW](@/o/kpw.md) when a mysterious "Mister Chairman" was often mentioned, but never actually seen.
 
 #### The live Q&A
 
