@@ -18,6 +18,14 @@ DDW International Championship was the the only belt of [Do Or Die Wrestling](@/
 * First champion: [Joe Legend](@/w/joe-legend.md)
 * Most reigns: N/A
 * Longest reign: Joe Legend (672 days)
+* Shortest reign: [Kamil Aleksander](@/w/kamil-aleksander.md) (341 days)
+* Oldest champion: Joe E. Legend (41 years, 33 days)
+* Youngest champion: Kamil Aleksander (24 years, 118 days)
+* Heaviest champion: Joe E. Legend (121 kg)
+* Lightest champion: Kamil Aleksander (87 kg)
+
+## Belt design:
+The design of DDW International Championship pays homage to old-school championships from the '80s era of US promotions, most notably the NWA World Heavyweight Championship. The main plate is round with horizontal rectangural protrusions in the middle. The main plate is golden-brass coloured with a blue globe symbol centred on Europe and a small DDW logo on top of the plate. The plate also contains some simple black ornaments and three red banners: the top one with flags (of USA, Italy, UK, Germany, Japan, Mexico, Canada & France) displayed on it, the middle one with the word "international", and and bottom one with "champion" engraved. Both sides of the Championship also featured sideplates - one with a big Polish flag, and the other with the DDW logo on it. The plates are attached to a standard black belt.
 
 ## Champion #1: Joe Legend
 
