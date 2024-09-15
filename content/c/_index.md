@@ -10,7 +10,6 @@ template = "index.html"
 
 | Years active | Name |
 |--:|---|
-
 | 2016- | {{ org_badge(org='kpw') }} [KPW Championship](@/c/kpw-championship.md) |
 | 2016- | {{ org_badge(org='mzw') }} [MZW Championship](@/c/mzw-championship.md) |
 | 2017- | {{ org_badge(org='kpw') }} [KPW OldTown Championship](@/c/kpw-old-town-championship.md) |
