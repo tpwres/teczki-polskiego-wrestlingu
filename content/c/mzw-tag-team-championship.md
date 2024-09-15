@@ -7,7 +7,7 @@ authors = ["Seweryn Pielucha"]
 toclevel=2
 [extra.gallery.1]
 path = "wataha-justin-apollo-championship.jpg"
-caption = "Final champions [Justin Joy](@/w/justin-joy.md) and Apollo Anderson."
+caption = "Final champions: [Justin Joy](@/w/justin-joy.md) and Apollo Anderson."
 source = "Facebook"
 +++
 
@@ -106,4 +106,4 @@ The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/20
     ed: 2018-10-13
 {% end %}
 
-The team broke up at [MZW Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md), resulting in the title being vacated and subsequently deactivated by Jędruś Bułecka, acting as MZW's authority figure.
+The team broke up at [MZW Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md), resulting in the title being vacated and subsequently retired by Jędruś Bułecka, acting as MZW's authority figure.
