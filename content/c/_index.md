@@ -4,7 +4,7 @@ sort_by = "weight"
 template = "index.html"
 +++
 
-# Organizations
+# Championship titles
 <!-- NOTE: The tables below need to be sorted manually. Sort them by creation date, and if two or more entries have the same year, do a secondary sort by name. So for instance KPW Championship comes before MZW Championship. -->
 ## Active
 
