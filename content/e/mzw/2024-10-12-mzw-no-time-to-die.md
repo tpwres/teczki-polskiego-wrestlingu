@@ -35,6 +35,9 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - nc: upcoming
+- - '[Marcelito](@/w/marcelito.md)'
+  - '[Rafi](@/w/rafi.md)'
+  - nc: upcoming
 {% end %}
 
 ## References
