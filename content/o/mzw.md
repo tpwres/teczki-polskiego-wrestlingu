@@ -31,6 +31,8 @@ Because their first two events were sideshows on other attractions like various 
 Since 2018, MZW held most of their events in Wrocław, either in [Bakara](@/v/bakara.md) or [Czasoprzestrzeń](@/v/czasoprzestrzen.md), with the latter becoming their main venue.
 Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), a town near the Polish-Czech border where many of their events took place, and where they trained new adepts. And prior to that, events were held in various small towns in the region, like Opawa, Smolec and Niedźwiedzica.
 
+In September 2019 persons unknown broke into the building where MZW held trainings and stole elements of the ring as well as lighting, thus forcing them to put their trainings and shows on hold. MZW then held a [crowdfunding campaign][mzw-zbiorka] to raise money to replace the stolen equipment and managed to collect 3566 PLN out of the 3000 PLN goal.
+
 #### 2020: Post-COVID and losing talent to PTW
 
 MZW was most active from 2014 to 2019, holding about five events a year. 2020 put a stop to that due to the COVID-19 pandemic and nationwide restrictions introduced. In 2021, unable to hold shows, MZW produced a series of events without live audience (Project Basement), which were released on YouTube. No events of any kind were held in 2022.
@@ -67,3 +69,4 @@ MZW has one singles championship, with Shadow having the longest combined reigns
 
 [mzw-c]: @/c/mzw-championship.md
 [mzw-ttc]: @/c/mzw-tag-team-championship.md
+[mzw-zbiorka]: https://zrzutka.pl/npgbb6
