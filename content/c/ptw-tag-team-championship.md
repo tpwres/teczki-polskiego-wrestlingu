@@ -54,7 +54,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 - - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
   - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
   - s: Tag Team Match
-    en: [PTW#4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)
+    en: '[PTW#4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
     ed: 2023-06-25
 - - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
   - 'Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
