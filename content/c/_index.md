@@ -9,7 +9,7 @@ template = "index.html"
 ## Active
 
 | Years active | Name |
-|--:|---|---|
+|--:|---|
 
 | 2016- | {{ org_badge(org='kpw') }} [KPW Championship](@/c/kpw-championship.md) |
 | 2016- | {{ org_badge(org='mzw') }} [MZW Championship](@/c/mzw-championship.md) |
@@ -22,7 +22,7 @@ template = "index.html"
 
 ## Retired
 
-| Years active | Name | Location |
-|--:|---|---|
+| Years active | Name |
+|--:|---|
 | 2010-2015 | {{ org_badge(org='ddw') }} [DDW International Championship](@/c/ddw-international-championship.md) |
 | 2016-2018 | {{ org_badge(org='mzw') }} [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) |
