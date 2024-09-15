@@ -2,6 +2,9 @@
 title = "Atlantic / Nowy Harem"
 template = "venue_page.html"
 authors = ["Krzysztof Zych"]
+[extra.gallery]
+1 = { path = "nowy-harem.jpg", caption = "Nowy Harem in late 2024.", source = "Ville" }
+2 = { path = "kino-atlantic.jpg", caption = 'Cinema "Atlantic" in the 1950s. The banner above the entrance says "Soviet cinema days".', source = "MojaGdynia.com" }
 +++
 
 This is the venue that [KPW](@/o/kpw.md) held their shows in 2017, and later from 2022 onwards.
