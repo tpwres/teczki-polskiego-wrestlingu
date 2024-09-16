@@ -5,7 +5,7 @@ from sys import stdin, stdout, stderr
 from pathlib import Path
 from page import Page
 
-def main(input_stream, output_stream, orgs):
+def process(input_stream, output_stream, orgs):
     ns = dict(
         svg = 'http://www.w3.org/2000/svg',
         xlink = "http://www.w3.org/1999/xlink",
@@ -108,6 +108,9 @@ def load_orgs():
     }
     return orgs_pages
 
-if __name__ == "__main__":
+def main():
     orgs = load_orgs()
-    main(open('data/chronology-plot.svg'), stdout, orgs)
+    process(open('data/chronology-plot.svg'), stdout, orgs)
+
+if __name__ == "__main__":
+    main()

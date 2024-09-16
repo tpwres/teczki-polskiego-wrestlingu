@@ -148,7 +148,7 @@ def build_argparser():
     parser.add_argument('-E', '--emacs', action='store_const', dest='emacs', const=True, help='Disable some checks that are not suitable for Flycheck.')
     return parser
 
-if __name__ == "__main__":
+def main():
     parser = build_argparser()
     args = parser.parse_args()
     if args.filter_mode:
@@ -157,3 +157,7 @@ if __name__ == "__main__":
         result = lint_main(args)
 
     exit(0 if result else 1)
+
+if __name__ == "__main__":
+    main()
+
