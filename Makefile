@@ -18,28 +18,28 @@ clean:
 	rm -rf $(ROSTERS) $(METADATA) $(PLOTS) $(CAL) $(MINISEARCH_INDEX)
 
 data/all_matches.json data/appearances.json data/crew_appearances.json: content/e/**/*.md
-	bin/build_matches.py
+	bin/build-matches
 
 data/career.json: content/e/**/*.md
-	bin/build_metadata.py
+	bin/build-metadata
 
 data/roster_ptw.json data/roster_kpw.json data/roster_ppw.json data/roster_dfw.json: content/e/**/*.md
-	bin/build_roster.py
+	bin/build-roster
 
 data/roster_mzw.json data/roster_wws.json data/roster_wwe.json: content/e/**/*.md
-	bin/build_roster.py
+	bin/build-roster
 
 clean-plot:
 	rm -rf data/chronology-hyperlinked.svg data/chronology-plot.svg
 
 data/chronology-plot.svg: const/chronology.csv
-	bin/plot-chronology.py $^ > $@
+	bin/plot-chronology $^ > $@
 
-data/chronology-hyperlinked.svg: data/chronology-plot.svg bin/linkify_plot.py
-	bin/linkify_plot.py < $< > $@
+data/chronology-hyperlinked.svg: data/chronology-plot.svg
+	bin/linkify-plot < $< > $@
 
 $(CAL): content/e/**/*.md
-	bin/build_calendar.py > $@
+	bin/build-calendar > $@
 
 $(MINISEARCH_INDEX): content/**/*.md
-	node bin/build_index.mjs > $@
+	bin/build-index > $@
