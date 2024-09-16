@@ -23,6 +23,10 @@ def valid_header():
         +++
     ''')
 
+@pytest.fixture
+def linter(config_toml):
+    return WellFormedEventLinter(config_toml, {})
+
 def assert_exact_message(messages: list[FileError]|None, text: str):
     if not messages:
         fail("No messages passed to assert_exact_message")
@@ -47,130 +51,119 @@ def refute_message(messages: list[FileError]|None, text: str):
     if any(text in m.text for m in messages):
         fail(f"Text `{text}` was found in messages")
 
-def test_very_bad_filename(tmp_path, config_toml):
+def test_very_bad_filename(tmp_path, linter):
     path = tmp_path / 'event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Path does not adhere to naming scheme YYYY-MM-DD-ORGS-Event-Name.md")
 
-def test_filename_without_date(tmp_path, config_toml):
+def test_filename_without_date(tmp_path, linter):
     path = tmp_path / 'mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Path does not adhere to naming scheme YYYY-MM-DD-ORGS-Event-Name.md")
 
-def test_filename_with_invalid_day(tmp_path, config_toml):
+def test_filename_with_invalid_day(tmp_path, linter):
     path = tmp_path / '2024-12-35-mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Day of month 35 is not between 1 and 31")
 
-def test_filename_with_invalid_month(tmp_path, config_toml):
+def test_filename_with_invalid_month(tmp_path, linter):
     path = tmp_path / '2024-13-31-mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Month 13 is not between 1 and 12")
 
-def test_filename_with_invalid_year_too_early(tmp_path, config_toml):
+def test_filename_with_invalid_year_too_early(tmp_path, linter):
     path = tmp_path / '1899-12-31-mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Year 1899 is before 1900")
 
-def test_filename_with_invalid_date(tmp_path, config_toml):
+def test_filename_with_invalid_date(tmp_path, linter):
     path = tmp_path / '2023-02-29-mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Date 2023-02-29 is invalid.")
 
-def test_filename_must_have_org(tmp_path, config_toml):
+def test_filename_must_have_date_and_org(tmp_path, linter):
     path = tmp_path / '2023-02-28--event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Path does not adhere to naming scheme YYYY-MM-DD-ORGS-Event-Name.md")
 
+def test_valid_filename_with_date_and_org(tmp_path, linter):
     path = (tmp_path / '2023-02-28-xwp-event-name.md')
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     refute_exact_message(messages, "Path does not adhere to naming scheme YYYY-MM-DD-ORGS-Event-Name.md")
     refute_exact_message(messages, "Filename must contain organization or organizations")
 
-def test_filename_must_be_in_org_dir(tmp_path, config_toml):
+def test_filename_must_be_in_org_dir(tmp_path, linter):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "File is marked with orgs `mzw` but is not located in any of their directories")
 
-def test_filename_in_org_dir(tmp_path, config_toml):
+def test_filename_in_org_dir(tmp_path, linter):
     (tmp_path / 'mzw').mkdir()
     path = tmp_path / 'mzw' / '2023-02-28-mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     refute_exact_message(messages, "File is marked with orgs `mzw` but is not located in any of their directories")
 
-def test_missing_frontmatter(tmp_path, config_toml):
+def test_missing_frontmatter(tmp_path, linter):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     path.touch()
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Could not find proper front matter block surrounded by `+++`")
 
-def test_empty_frontmatter(tmp_path, config_toml):
+def test_empty_frontmatter(tmp_path, linter):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write('+++\n+++\n')
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     refute_exact_message(messages, "Could not find proper front matter block surrounded by `+++`")
     assert_exact_message(messages, "Front matter block is empty")
 
-def test_bad_toml_frontmatter(tmp_path, config_toml):
+def test_bad_toml_frontmatter(tmp_path, linter):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(dedent('''
@@ -180,13 +173,12 @@ def test_bad_toml_frontmatter(tmp_path, config_toml):
         +++
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Invalid TOML in front matter: Invalid value (at line 2, column 12)")
 
-def test_missing_title_in_frontmatter(tmp_path, config_toml):
+def test_missing_title_in_frontmatter(tmp_path, linter):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(dedent('''
@@ -195,14 +187,13 @@ def test_missing_title_in_frontmatter(tmp_path, config_toml):
         +++
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Missing title in frontmatter")
     assert_exact_message(messages, "Event page must use the `event_page.html` template")
 
-def test_bad_template_in_frontmatter(tmp_path, config_toml):
+def test_bad_template_in_frontmatter(tmp_path, linter):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(dedent('''
@@ -212,19 +203,17 @@ def test_bad_template_in_frontmatter(tmp_path, config_toml):
         +++
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     refute_exact_message(messages, "Missing title in frontmatter")
     assert_exact_message(messages, "Event page must use the `event_page.html` template")
 
-def test_missing_taxonomies_in_frontmatter(tmp_path, config_toml, valid_header):
+def test_missing_taxonomies_in_frontmatter(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
@@ -248,7 +237,7 @@ def test_bad_taxonomies(tmp_path, config_toml):
 
     config_toml['taxonomies'].append(dict(name = "chronology"))
     config_toml['taxonomies'].append(dict(name = "venue"))
-    linter = WellFormedEventLinter(config_toml)
+    linter = WellFormedEventLinter(config_toml, {})
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
@@ -271,7 +260,7 @@ def test_accepts_chronologies(tmp_path, config_toml):
 
     config_toml['taxonomies'].append(dict(name = "chronology"))
     config_toml['taxonomies'].append(dict(name = "venue"))
-    linter = WellFormedEventLinter(config_toml)
+    linter = WellFormedEventLinter(config_toml, {})
     # Override value set from file structure
     linter.chronologies = {'mazury', 'xpw'}
     linter.venues = {'pensjonat-bekas'}
@@ -282,7 +271,7 @@ def test_accepts_chronologies(tmp_path, config_toml):
     refute_exact_message(messages, "Unknown chronology keys `mazury`")
     refute_exact_message(messages, "Unknown venue keys `pensjonat-bekas`")
 
-def test_malformed_gallery(tmp_path, config_toml):
+def test_malformed_gallery(tmp_path, linter):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(dedent('''
@@ -295,7 +284,6 @@ def test_malformed_gallery(tmp_path, config_toml):
         +++
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
@@ -306,32 +294,30 @@ def test_malformed_gallery(tmp_path, config_toml):
     refute_exact_message(messages, "Gallery item 2 is missing source annotation")
     assert_exact_message(messages, "Gallery item 2 is missing caption")
 
-def test_missing_card(tmp_path, config_toml, valid_header):
+def test_missing_card(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
         # Header and nothing else
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Card missing or no matches listed")
 
-def test_skip_card(tmp_path, config_toml, valid_header):
+def test_skip_card(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
         fp.write('{{ skip_card() }}\n')
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     refute_exact_message(messages, "Card missing or no matches listed")
     assert_exact_message(messages, "Card marked as skipped")
 
-def test_unclosed_card(tmp_path, config_toml, valid_header):
+def test_unclosed_card(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
@@ -341,14 +327,13 @@ def test_unclosed_card(tmp_path, config_toml, valid_header):
         - Randy Savage
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_exact_message(messages, "Malformed card, did not parse valid matches. Could not find card end marker {% end %}")
     refute_exact_message(messages, "Card marked as skipped")
 
-def test_malformed_card(tmp_path, config_toml, valid_header):
+def test_malformed_card(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
@@ -358,13 +343,12 @@ def test_malformed_card(tmp_path, config_toml, valid_header):
         {% end %}
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
     assert_message(messages, "Error: expected <block end>, but found '<scalar>' while parsing a block collection")
 
-def test_no_credits(tmp_path, config_toml, valid_header):
+def test_no_credits(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
@@ -374,7 +358,6 @@ def test_no_credits(tmp_path, config_toml, valid_header):
         {% end %}
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
@@ -385,7 +368,7 @@ def test_no_credits(tmp_path, config_toml, valid_header):
     assert_exact_message(messages, "Malformed link `[Undertaker](@/w/undertaker.md)` in match 1 participants. File `w/undertaker.md` not found")
 
 
-def test_card_checks_links_in_c_and_n(tmp_path, config_toml, valid_header):
+def test_card_checks_links_in_c_and_n(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
@@ -398,7 +381,6 @@ def test_card_checks_links_in_c_and_n(tmp_path, config_toml, valid_header):
         {% end %}
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
@@ -406,7 +388,7 @@ def test_card_checks_links_in_c_and_n(tmp_path, config_toml, valid_header):
     assert_exact_message(messages, "Malformed link `[NWA Championship](@/c/nwa-championship.md)` in match 1 championship. File `c/nwa-championship.md` not found")
     assert_exact_message(messages, "Malformed link `[Paul Bearer](@/w/paul-bearer.md)` in match 1 notes. File `w/paul-bearer.md` not found")
 
-def test_malformed_links_below_and_above_card(tmp_path, config_toml, valid_header):
+def test_malformed_links_below_and_above_card(tmp_path, linter, valid_header):
     path = tmp_path / '2023-02-28-mzw-event-name.md'
     with path.open('w') as fp:
         fp.write(valid_header)
@@ -419,7 +401,6 @@ def test_malformed_links_below_and_above_card(tmp_path, config_toml, valid_heade
         [NWA](@/o/nwa.md)
         '''))
 
-    linter = WellFormedEventLinter(config_toml)
     doc = FileBackedDoc(path)
 
     messages = linter.lint(doc)
