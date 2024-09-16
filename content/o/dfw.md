@@ -10,6 +10,17 @@ toclevel = 3
 [extra.gallery]
 1 = { path = "pas-dfw.jpg", caption = "The damaged DFW Championship belt plate. As of 2024, it was kept at [PpW](@/o/ppw.md)'s training facilities."}
 2 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the DFW Championship belt at [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
+pas = { path = "pas-dfw-caly.webp", caption = "The DFW Championship belt in good condition.", source = "Facebook @DreamFactoryWrestling" }
+[extra.gallery.atomowki]
+path = "dfw-atomowki.webp"
+caption = """
+DFW wrestlers reimagined as characters from Powerpuff Girls.
+Top row: [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md);
+second row: [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), [Corin Mear](@/w/corin-mear.md);
+last row: [Rob Scaffold](@/w/rob-scaffold.md), [Charlie](@/w/madman-charlie.md), Malmo Buruto.
+This was sold in DFW's online merch store as T-shirts and a cup, and the characters were used on social media for some events in 2017. Norris wore a T-shirt with his character, as part of his ring gear at some point.
+"""
+source = "dreamfactorywrestling.cupsell.pl"
 +++
 
 Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015.
