@@ -30,7 +30,7 @@ jobs:
           make all plot
       - name: Run lint and create comment
         run: |
-          bin/lint.py
+          bin/lint
       - name: Build site
         run: |
           zola build
