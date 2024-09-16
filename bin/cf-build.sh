@@ -2,7 +2,7 @@
 set -x
 
 lint() {
-    python3 bin/lint.py || true
+    bin/lint || true
 }
 
 create_config() {
