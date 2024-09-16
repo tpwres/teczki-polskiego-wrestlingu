@@ -5,6 +5,10 @@ template = "event_page.html"
 chronology = ["dfw"]
 [extra]
 city = "Toruń"
+[extra.gallery.poster]
+path = "dfw-love-hurts-poster.webp"
+caption = "Official poster"
+source = "Facebook @DreamFactoryWrestling"
 +++
 
 This was a Valentine's day event from 2017. Held once again in ZSGH which previously saw wrestling during its [Open Days](@/e/dfw/2016-04-22-dfw-zsgh-open-days.md), this event is notable for being the debut of [DFW's](@/o/dfw.md) first and only female wrestler Hekate.

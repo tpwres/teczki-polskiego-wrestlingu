@@ -6,6 +6,10 @@ authors = ["Krzysztof Zych"]
 chronology = ["dfw"]
 [extra]
 city = "Krzyżówki"
+[extra.gallery.poster]
+path = "dfw-crosswords-city-plakat.webp"
+caption = "Official poster"
+source = "Facebook @DreamFactoryWrestling"
 +++
 
 Crosswords City by [Dream Factory Wrestling](@/o/dfw.md) was a sideshow accompanying a community festival, the Firemen's Picnic. It took place on Saturday, June 17, 2017 in Krzyżówki, a village about 20&nbsp;km north of Włocławek, in the Kuyavia-Pomerania region of Poland. The event was held outdoors, on the village's sports and events grounds neighboring the local Fire brigade's location.
