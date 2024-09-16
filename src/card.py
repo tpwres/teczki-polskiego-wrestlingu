@@ -110,12 +110,14 @@ class Team(Participant):
         yield from getattr(self, 'members', [])
 
 class NamedTeam(Team):
+    members: list
+
     def __init__(self, team_name, members):
         self.team_name = team_name
         self.members = members
 
     def __repr__(self) -> str:
-        return "{}(n={} m={!r})".format(self.__class__.__name__, self.team_name, self.members)
+        return f"NamedTeam(n={self.team_name} m={self.members!r})"
 
 class AdHocTeam(Team):
     members: list
@@ -124,7 +126,7 @@ class AdHocTeam(Team):
         self.members = members
 
     def __repr__(self) -> str:
-        return "{}(m={!r})".format(self.__class__.__name__, self.members)
+        return f"AdHocTeam(m={self.members!r})"
 
 class Fighter(NamedParticipant):
     pass
