@@ -24,7 +24,7 @@ def names_in_match(mm: Match) -> set[Name]:
     exclude = set(mm.options.get('x', []))
     return set(name
                for i, name in enumerate(names)
-               if i - 1 not in exclude # exclude is 1-based
+               if i + 1 not in exclude # exclude is 1-based
                and name) # Otherwise the type is set[Name|None]
 
 
