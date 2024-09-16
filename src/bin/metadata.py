@@ -4,29 +4,11 @@ from pathlib import Path
 from collections import Counter
 from articles import load_names_with_aliases
 import json
-from functools import reduce
 from typing import Iterable, cast, Optional
 from utils import RichEncoder, accepted_name
-from card import Match, Name, CardParseError
+from card import Match, Name, CardParseError, extract_names, names_in_match
 from page import EventPage
 from sys import stderr, exit
-
-def extract_names(matches: Iterable[Match]) -> set[Name]:
-    """
-    Return a set of all distinct participants given a list of Matches.
-    Match object may have an `x` key in their options. This must be a list of integer 1-based indices.
-    If present, the indices mark people to REMOVE from this participant list.
-    """
-    return reduce(lambda s1, s2: s1 | s2, (names_in_match(m) for m in matches))
-
-def names_in_match(mm: Match) -> set[Name]:
-    names: list[Optional[Name]] = list(mm.all_names())
-    exclude = set(mm.options.get('x', []))
-    return set(name
-               for i, name in enumerate(names)
-               if i + 1 not in exclude # exclude is 1-based
-               and name) # Otherwise the type is set[Name|None]
-
 
 # Not strictly necessary as the career hash can be used to pull the same info
 def update_years_active(years: dict[str, set[int]], page: EventPage):
