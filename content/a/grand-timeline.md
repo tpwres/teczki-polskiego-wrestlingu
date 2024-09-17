@@ -2,6 +2,7 @@
 title = "Grand Timeline"
 template = "article.html"
 weight = 0
+authors = ["Krzysztof Zych"]
 +++
 
 {% timeline() %}
@@ -64,6 +65,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * WWE comes to Poland for the first time ever: [Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) is held in Gdańsk.
 * [PXW](@/o/pxw.md), a backyard in Głuchołazy in Lower Silesia, starts holding events on a makeshift ring. Among their ranks is one high-flying, risk-taking [Terry Shadow](@/w/shadow.md).
 * DDW holds their [fifth major event](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md) near Wrocław.
+* [Mine City Wrestling](@/o/mcw.md) is created, but kept under wraps for now.
 
 #### 2012
 
@@ -76,6 +78,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * WWE holds [another house show](@/e/wwe/2013-04-27-wwe-raw-house-show.md) in Poland, this time in Łódź.
 * DDW holds their [ninth event](@/e/ddw/2013-10-25-ddw-9.md), infamous for very low attendance. This prompts Straceniec and Jędruś Bułecka to leave the organization and return to Głuchołazy, planning something new.
 * PXW, the backyard from Głuchołazy, folds.
+* Mine City Wrestling is revealed to public in December.
 
 #### 2014
 
