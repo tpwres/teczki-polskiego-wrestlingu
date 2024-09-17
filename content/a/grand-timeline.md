@@ -138,7 +138,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2024
 
 * PpW buys a full-size wrestling ring from Supron, the same one he bought for PPWF back in 2003.
-* PTW holds their [infamous lottery](@/o/ptw/#the-lottery.md). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
+* PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
 * After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md)
 * PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
 {% end %}
