@@ -15,20 +15,16 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
 
 ## Belt design
 
-The championship belt is rather modest in size and design. The main plate is a faded gold-coloured vertical elipse with a silver circle overlapped by a bigger blue KPW logo in the middle. The main plate also contains the word "Champion" written on the bottom of the main plate and floral engravings resembling a laurel wreath, and a part of a white eagle - the Polish coat of arms - at top of the main plate. Full silhouettes of the eagle are also adapted as sideplates. Plates are attached to a sturdy black leather strap.
+The championship belt is rather modest in size and design. The main plate is a faded gold-coloured vertical ellipse, with a silver circle overlaid with a big blue KPW logo in the middle.
+The main plate also contains the word "Champion" written on the bottom of the main plate and floral engravings resembling a laurel wreath.
+Its top also features a white eagle, which is the Polish coat of arms.
+Full silhouettes of the eagle are also adapted as sideplates. Plates are attached to a sturdy black leather strap.
 
 ## Statistics
 
 * First champion: [Piękny Kawaler](@/w/piekny-kawaler.md)
 * Most reigns: [Robert Star](@/w/robert-star.md) (2)
 * Longest reign: Robert Star (2nd) (677 days)
-
-## Belt design
-
-The championship belt is rather modest in size and design. Its main plate is a faded gold-coloured vertical ellipse, with a silver circle overlaid with a big blue KPW logo in the middle, the word "Champion" below, and floral engravings resemblina a laurel wreath.
-Its top also features a white eagle, which is the Polish coat of arms.
-Full silhouettes of an eagle are also adapted as sideplates.
-The belt is based on a sturdy, black leather strap.
 
 ## Title history
 

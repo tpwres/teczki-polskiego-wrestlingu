@@ -16,9 +16,19 @@ The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling
 
 ## Belt design
 
-The original version of the belt was heavily influenced by the post-apocalyptic theme of the OldTown Festival. Its circular main plate was in fact a piece of rusty scrap metal without any visible logo, deliberate engravings etc. Instead of sideplates it only consisted of two smaller pieces of metal on both sides. All of the metal scrap plates were attached to a red strap. Instead of regular snap fasteners used on normal belts, the original OldTown Championship belt could be fastened by two slimmer leather belts, which were visibly longer than the red belt itself.
+The original version of the belt was heavily influenced by the post-apocalyptic theme of the OldTown Festival.
+Its circular main plate was in fact a piece of rusty scrap metal without any visible logo, deliberate engravings etc.
+Instead of sideplates it only consisted of two smaller pieces of metal on both sides.
+All of the metal scrap plates were attached to a red strap.
+Instead of regular snap fasteners used on normal belts, the original OldTown Championship belt could be fastened by two slimmer leather belts, which were visibly longer than the red belt itself.
 
-At KPW Arena 24 Rosetti introduced a new version of the Championship. It diverged from the original concept of the belt to become more conservative in its design. The main plate became silver-coloured with black background and featured many engravings. The centre part of the main plate features an image of a skull with post-apocaliptic mask inspired by the famous "Mad Max" film franchise, to which the OldTown festival pays homage. Above and below the main plate there are two banners, with "KPW" written at the top of the belt and "Oldtown Champion" underneath the skull. It is also decorated with many engravings resembling barbed wire. The championship belt also contains two pairs of sideplates with the KPW logo on the larger pair, attached closer to the main plate. The plates are attached to a regular black strap.
+At KPW Arena 24 Rosetti introduced a new version of the Championship.
+It diverged from the original concept of the belt to become more conservative in its design.
+The main plate became silver-coloured with black background and featured many engravings.
+The centre part of the main plate features an image of a skull with post-apocaliptic mask inspired by the famous "Mad Max" film franchise, to which the OldTown festival pays homage.
+Above and below the main plate there are two banners, with "KPW" written at the top of the belt and "Oldtown Champion" underneath the skull.
+It is also decorated with many engravings resembling barbed wire.
+The championship belt also contains two pairs of sideplates with the KPW logo on the larger pair, attached closer to the main plate. The plates are attached to a regular black strap.
 
 
 ## Statistics
