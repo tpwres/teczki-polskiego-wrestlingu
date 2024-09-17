@@ -4,7 +4,7 @@ template = "article.html"
 weight = 0
 authors = ["M3n747"]
 [extra.gallery]
-1 = { path = "supronstars.jpg", caption = "[The only surviving photo of a SupronStars show (Andrzej Supron standing on the left, in black clothes).", source = "Wikipedia" }
+1 = { path = "supronstars.jpg", caption = "The only surviving photo of a SupronStars show (Andrzej Supron standing on the left, in black clothes).", source = "Wikipedia" }
 +++
 
 Although the history of Polish wrestling is commonly agreed to begin with the inception of [Do Or Die Wrestling](@/o/ddw.md) in 2009, there have been wrestling shows on Polish soil going as far back as late 19th century.

@@ -3,7 +3,7 @@ title = "Atlantic / Nowy Harem"
 template = "venue_page.html"
 authors = ["Krzysztof Zych"]
 [extra.gallery]
-1 = { path = "nowy-harem.jpg", caption = "Nowy Harem in late 2024.", source = "Ville" }
+1 = { path = "nowy-harem.jpg", caption = "Nowy Harem in late 2024.", source = "Ville Paananen" }
 2 = { path = "kino-atlantic.jpg", caption = 'Cinema "Atlantic" in the 1950s. The banner above the entrance says "Soviet cinema days".', source = "MojaGdynia.com" }
 +++
 
