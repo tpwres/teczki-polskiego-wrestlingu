@@ -15,6 +15,7 @@ dialog#lb
   button.next, button.prev
     opacity: 50% // But not on mobile?
     font-size: 1.5rem
+    background: var(--lightbox-nav-button)
     &:hover
       opacity: 100%
 
@@ -33,7 +34,7 @@ dialog#lb
     top: 0
     right: 0
     opacity: 50%
-    background: var(--dark-red)
+    background: var(--close-button)
     font-size: 1.5rem
 
     &:hover
@@ -49,6 +50,7 @@ dialog#lb
 
     figcaption, p
       margin: 0 auto
+      color: var(--fg)
 
   .sr-only
     display: none
