@@ -14,17 +14,17 @@ weight = 0
 
 * Matches usually pit representatives of different countries fighting each other for supremacy. The fights almost always end in the local champion winning against a foreign opponent, draws and losses are rare.
 * The undefeated Jakob Koch is finally bested by Stanisław Zbyszko. A match between Albert Sturm and Zbyszko ends with a disqualification, the first such case on record.
-* Stanisław and Władysław, his real life brother, travel to USA, where both would have some successes in wrestling.
+* Stanisław and Władysław, his real life brother, travel to USA, where both will achieve some successes in wrestling.
 * Events are held in Szczecin, Wrocław, Bytom, Toruń and Poznań.
 
 #### Inter-war period
 
-* Only two known events held, in Wrocław and Warsaw. Stanisław Zbyszko returns to Poland.
-* First wrestler to fight under a ring name: Cyklop.
+* Only two known events held, in Wrocław and Warsaw. Stanisław Zbyszko returns to Poland, writes his biography.
+* First known wrestler to fight under a ring name instead of his real name: Cyklop.
 
 #### Post-WW2
 
-* Poland is somewhat successful in combat sports, winning many olympic medals in boxing, judo and classical wrestling, however no pro wrestling events were known to be held in this period.
+* Poland is somewhat successful in combat sports, winning olympic medals in boxing, judo and classical wrestling, however no pro wrestling events are known to be held in this period.
 
 #### 1974
 
@@ -49,7 +49,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2009
 
-* Don Roid, an American wrestler, settles in Poland. Discovering the non-existent state of pro-wrestling in the country, he opens [Do Or Die Wrestling](@/o/ddw.md), importing a proper ring and training rookies. Some of these rookies come from backyards.
+* Don Roid, an American wrestler, settles in Poland in the mid-2000s. Discovering the non-existent state of pro-wrestling in the country, he opens [Do Or Die Wrestling](@/o/ddw.md), importing a proper ring and training rookies. Some of these rookies come from backyards.
 * [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) joins Do Or Die Wrestling, trains his promo skills, becomes a manager character.
 * Roid also contacts Supron and Borkowski, quickly gaining their support. However, the organization struggles with selling tickets and gaining the public's attention. Despite that, they hold three small events in Warsaw. One of their wrestlers is [Marcin Wilkowski](@/w/jedrus-bulecka.md) who will soon take on a gimmick of Jędruś Bułecka.
 
@@ -62,7 +62,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2011
 
 * WWE comes to Poland for the first time ever: [Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) is held in Gdańsk.
-* A backyard in Głuchołazy, Lower Silesia, [PXW](@/o/pxw.md) starts holding events on a makeshift ring. Among their wrestlers is one high-flying, risk-taking [Terry Shadow](@/w/shadow.md).
+* A backyard in Głuchołazy, Lower Silesia, [PXW](@/o/pxw.md) starts holding events on a makeshift ring. Among their ranks is one high-flying, risk-taking [Terry Shadow](@/w/shadow.md).
 * DDW holds their fifth major event near Wrocław.
 
 #### 2012
@@ -85,38 +85,40 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2015
 
 * WWE holds their [last show](@/e/wwe/2015-04-15-wwe-live.md) in Poland to date.
-* Don Roid, DDW's owner is forced to travel hundreds of kilometers from Rzeszów to Gdańsk to oversee the organization. He gets tired of it, sells the ring and folds down DDW.
-* The buyers of that ring are a group of his wrestlers, including Pawłowski. They start a new organization called [Kombat Pro Wrestling](@/o/kpw.md).
+* Don Roid, DDW's owner is forced to travel hundreds of kilometers from Rzeszów to Gdańsk to oversee the organization. He quickly gets tired of it, sells the ring and folds down DDW.
+* The buyers of that ring are a group of his wrestlers, including Pawłowski. They start a new organization called [Kombat Pro Wrestling](@/o/kpw.md), and co-opt nearly the entire former roster of DDW.
 * Two backyards in Kuyavia combine their forces: one from Toruń and one from Grudziądz. They become [Dream Factory Wrestling](@/o/dfw.md) and obtain a proper ring.
 
 #### 2016
 
 * Dream Factory Wrestling holds their first events in and around Toruń. They meet Maniac Zone Wrestling when the latter are invited to perform on a Mexican-themed festival in Włocławek.
 * KPW holds their first Godzina Zero (_Hour Zero_) event in August. This would become their annual supershow.
-* Also in August, [Rob Scaffold](@/w/rob-scaffold.md) from the Warsaw backyard group that started in 2010, appears for Dream Factory Wrestling. He would soon bring more friends there.
+* Also in August, [Rob Scaffold](@/w/rob-scaffold.md) from the Warsaw backyard group that started in 2010, appears for Dream Factory Wrestling. He will soon bring more friends there.
 
 #### 2017
 
 * KPW finds a permanent venue in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), and holds a show as part of SzlamFest, a pop-culture and comics convention
-* DFW wrestler [Revage](@/w/rafael-kid.md) trains with MZW and appears on their December show. That same show also features future stars [Amisz](@/w/axel-fox.md), [Kuba Kamiński](@/w/jacob-crane.md), [Bartosz Borowsky](@/w/boro.md).
-* The Warsaw-area backyard, PpW, manage to build an actual wrestling ring, though undersized.
+* DFW wrestler [Revage](@/w/rafael-kid.md) trains with MZW and appears on their December show. That same show also features the debuting [Amisz](@/w/axel-fox.md), [Kuba Kamiński](@/w/jacob-crane.md) and [Bartosz Borowsky](@/w/boro.md).
+* The Warsaw-area backyard, PpW, manages to build an actual wrestling ring, though undersized. It is Rob Scaffold who came up with the design, and a local welding workshop assembles the metal structure.
 
 #### 2018
 
+* A group of wrestlers from MZW's locker room creates [The Greens](@/a/the-greens.md). Amisz, Kamiński and Borowsky among them.
+
 #### 2019
 
-* Pawłowski quits KPW.
+* Pawłowski quits KPW, reportedly due to disagreements over his character. But he has other plans.
 * MZW finds a new home in Wrocław: [Czasoprzestrzeń](@/v/czasoprzestrzen.md), holds three shows there.
 
 #### 2020
 
-* The backyard group from Warsaw, known as [PpW](@/o/ppw.md), goes pro and holds their first show, [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md)
-* COVID-19 hits, lockdown ensues, and all wrestling is cancelled for more than a year.
+* The backyard group from Warsaw, known as [PpW](@/o/ppw.md), goes pro and holds their first show, [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), donating all gate profits to dog shelters in the area.
+* COVID-19 hits, lockdown ensues, and **all wrestling is cancelled** for more than a year.
 * Pawłowski announces a new organization, entices many wrestlers to join it, draining the rosters of both MZW and KPW. Due to lockdowns however, their first show is postponed.
 
 #### 2021
 
-* Still under COVID restrictions, MZW records six episodes of wrestling and releases it on YouTube. The series is a championship tournament for their vacant championship.
+* Still under COVID restrictions, MZW records six episodes of wrestling and releases it on YouTube. The series is a tournament for their vacant championship.
 * With the restrictions lifted, PpW is invited to Poznań to perform as part of a craft beer festival.
 * KPW holds their first show after an 18-month long hiatus.
 * [Prime Time Wrestling](@/o/ptw.md) is revealed to be Pawłowski's new organization, and they hold their first event in October, in Chorzów. Among their roster, we find the aforementioned Amisz as [Axel Fox](@/w/axel-fox.md), Borowsky as [Boro](@/w/boro.md), and Kamiński as [Jacob Crane](@/w/jacob-crane.md).
@@ -125,10 +127,12 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * KPW is invited to Pyrkon, Poland's biggest fan convention. They would enjoy successful shows, and returned in the following years.
 * Not to be outdone, PTW becomes part of RyuCon, Poland's biggest anime-focused fan convention, held in Kraków.
+* PTW holds their Underground series of shows regularly almost every month, giving fans more wrestling than ever before. From the fourth show onwards, they are streamed live on FITE and YouTube.
+* Jacob Crane quits PTW after only a year, appears as a surprise contender for PpW and becomes their trainer.
 
 #### 2023
 
-* PTW holds their third major show in Wrocław, in June, in Czasoprzestrzeń, same venue as MZW.
+* PTW holds their third major show in Wrocław, in June, in Czasoprzestrzeń, same venue as MZW. The difference in budget and production value is stark.
 * In September, MZW and PpW hold a co-branded show in Wrocław, in the exact same venue, making history as the first such act of collaboration in Poland.
 
 #### 2024
@@ -136,5 +140,5 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PpW buys a full-size wrestling ring from Supron. The same one he bought for PPWF back in 2003.
 * PTW holds their infamous lottery. This marketing stunt ultimately backfires, losing the organization money. Many of their talent, fed up and conflicted with the organization, leave.
 * After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md)
-* PTW downscales heavily, both in roster size and ambitions.
+* PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly cadence.
 {% end %}
