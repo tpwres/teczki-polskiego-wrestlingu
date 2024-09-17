@@ -1,6 +1,8 @@
 +++
 title = "Teatr Komuna"
 template = "venue_page.html"
+[extra.gallery]
+1 = { path = "teatr-komuna.jpg", caption = "Teatr Komuna in April 2024, view from the Emilii Plater street.", source = "M3n747" }
 +++
 
 Teatr Komuna is home to Komuna Warszawa, an independent avant-garde theatre company. Their mission is to provide grassroots support for all manner of creative work, especially theatre, _broadly understood as an open space for various cultural disciplines to mingle and interpenetrate_. It's located in a former school building in the very center of Warsaw, which houses its stage in the school's sports hall.

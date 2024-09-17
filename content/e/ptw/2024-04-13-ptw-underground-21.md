@@ -9,6 +9,7 @@ venue = ["dworek-kozlow"]
 city = "Kozłów"
 [extra.gallery]
 1 = { path = "2024-04-13-ptw-underground-21-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
+2 = { path = "nissan-gtr-1200-koni-nikt-cie-nie-dogoni-no-chyba-ze-sprzedaz-na-otomoto.jpg", caption = "Nissan GTR outside the venue before the event.", source = "Ville Paananen" }
 +++
 
 PTW Underground 21 was an event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, April 13, 2024.
