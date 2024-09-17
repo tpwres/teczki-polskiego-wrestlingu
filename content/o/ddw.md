@@ -5,6 +5,8 @@ template = "org_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
 chrono_root = ["ddw"]
+[extra]
+toclevel = 3
 +++
 
 Do Or Die Wrestling was a pro wrestling school and promotion, created by Don Roid, an American indy wrestler who relocated to Poland sometime in the late 2000s. It was the first professional (not a backyard)
