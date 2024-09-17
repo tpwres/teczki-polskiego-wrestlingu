@@ -1,0 +1,57 @@
+:root:has(dialog[open])
+  overflow: clip
+
+dialog#lb
+  max-height: calc(90vh - 1rem)
+  max-width: calc(100vw - 1rem)
+  background: transparent
+  color: transparent
+  overflow: hidden
+
+  &::backdrop
+    background-color: var(--bg)
+    opacity: 80%
+
+  button.next, button.prev
+    opacity: 50% // But not on mobile?
+    font-size: 1.5rem
+    &:hover
+      opacity: 100%
+
+  button.next
+    position: absolute
+    top: 50%
+    right: 0
+
+  button.prev
+    position: absolute
+    top: 50%
+    left: 0
+
+  form button
+    position: absolute
+    top: 0
+    right: 0
+    opacity: 50%
+    background: var(--dark-red)
+    font-size: 1.5rem
+
+    &:hover
+      opacity: 100%
+
+  figure
+    overflow: scroll
+    background: var(--accent-bg)
+    padding: 0.5rem
+    img
+      max-height: calc(90vh - 5rem)
+      object-fit: contain
+
+    figcaption, p
+      margin: 0 auto
+
+  .sr-only
+    display: none
+
+.gallery li data
+  display: none
