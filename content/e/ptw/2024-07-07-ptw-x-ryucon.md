@@ -12,6 +12,7 @@ city = "Kraków"
 2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing Alex Brave vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}
 3 = { path = "iva-vs-diana.webp", caption = "Match graphic announcing Iva Kolasky vs [Diana Strong](@/w/diana-strong.md)", source = "Facebook PTW"}
 4 = { path = "spartan-vs-conners.webp", caption = "Match graphic announcing [Spartan](@/w/spartan.md) vs Joseph Conners", source = "Facebook PTW"}
+5 = { path = "ryucon-3-spartan-vs-conners.jpg", caption = "Spartan vs Conners, as seen from the audience.", source = "Ville Paananen"}
 +++
 
 [PTW](@/o/ptw.md) organized this show, for the third consecutive year, in collaboration with Ryucon, an anime/manga themed fan convention held annually in Kraków. The event was held in Tauron Arena on Sunday July 7th, 2024.
