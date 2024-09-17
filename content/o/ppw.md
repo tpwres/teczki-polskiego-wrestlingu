@@ -33,7 +33,7 @@ According to [Biesiad](@/w/biesiad.md), at the same time there was also Polski S
 
 The group made some attempts to build a proper ring, despite having no money or experience. The first structure to be recognized as one was created out of discarded mattresses, rugs, tires, floor mats and other junk. Later, another one was built from wooden pallets and some metal pillars in the corners.
 
-An actual ring, though undersized, was created in 2017, designed by [Rob Scaffold](@/w/rob-scaffold.md). The group pooled their money together and ordered the metal structure at a local welding shop. According to [Johnny Blade](@/w/johnny-blade.md), the craftsman was intrigued and amused at the project, and gave the group a significant discount because of that. It was still used as the primary ring until 2023, and relegated to their wrestling school afterwards.
+An actual ring, though undersized, was created in 2017, designed by [Rob Scaffold](@/w/rob-scaffold.md). The group pooled their money together and ordered the metal structure at a local welding shop. According to [Johnny Blade](@/w/johnny-blade.md), the craftsman was intrigued and amused at the project, and gave the group a significant discount because of that. It was used as the primary ring until 2023, when PpW purchased a full-sized professional ring. The old ring was then relegated to their wrestling school, although it still sees some use in smaller venues like [2KOŁA](@/v/2kola.md).
 
 Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, many of which can be traced back to [DDW](@/o/ddw.md).
 
