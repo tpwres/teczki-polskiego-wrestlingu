@@ -2,7 +2,7 @@
 title = "KPW Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747"]
+authors = ["M3n747", "SewiTheRef"]
 [extra]
 toclevel=2
 [extra.gallery]
@@ -12,6 +12,10 @@ toclevel=2
 The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md). It was introduced in 2016 and the first champion - [Piękny Kawaler](@/w/piekny-kawaler.md) - was crowned at the inaugural [Godzina Zero](e/kpw/2016-08-13-kpw-godzina-zero-2016.md).
 
 <!-- more -->
+
+## Belt design
+
+The championship belt is rather modest in size and design. The main plate is a faded gold-coloured vertical elipse with a silver circle overlapped by a bigger blue KPW logo in the middle. The main plate also contains the word "Champion" written on the bottom of the main plate and floral engravings resembling a laurel wreath, and a part of a white eagle - the Polish coat of arms - at top of the main plate. Full silhouettes of the eagle are also adapted as sideplates. Plates are attached to a sturdy black leather strap.
 
 ## Statistics
 
