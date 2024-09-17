@@ -25,7 +25,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - ['[Feager](@/w/feager.md)', '[Adam Wong](@/w/adam-wong.md)']
 - ['[Isnorr](@/w/isnorr.md)', Bonus CBD]
 - - "Team Biesiad: [Biesiad Strong](@/w/biesiad.md), [Adam Wong](@/w/adam-wong.md),
-    [Goblin](@/w/goblin.md)"
+    [Goblin](@/w/goblin.md), [Johnny Blade](@/w/johnny-blade.md)"
   - "Team Mister Z: [Mister Z](@/w/mister-z.md), [Isnorr](@/w/isnorr.md), [Gustav
     Gryffin](@/w/gustav-gryffin.md), [Kapitan Bazooka](@/w/kapitan-bazooka.md)"
   - nc: "?"
