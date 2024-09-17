@@ -1,6 +1,8 @@
 +++
 title = "PTW Performance Center"
 template = "venue_page.html"
+[extra.gallery]
+1 = { path = "ptw-performance-center.jpg", caption = "Outside view of the PTW Performance Center, July 2024.", source = "Ville Paananen" }
 +++
 
 PTW Performance Center is a storage facility repurposed into PTW's training center, and venue for its Underground series of events.  In its typical setup for such events, it fits a standard wrestling ring and about 150 seats for the audience. The back wall (visible to the hardcam) features colorful decorations made of wooden cargo pallets and graffiti.

@@ -2,6 +2,8 @@
 title = "Praga Centrum"
 template = "venue_page.html"
 authors = ["Seweryn Pielucha"]
+[extra.gallery]
+1 = { path = "praga-centrum.jpg", caption = "Praga Centrum in 2024, as seen from the outside.", source = "Ville Paananen" }
 +++
 
 Praga Centrum is a storage facility repurposed into a event hall.
