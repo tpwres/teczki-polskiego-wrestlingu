@@ -14,6 +14,7 @@ template = "index.html"
 | 2016- | {{ org_badge(org='mzw') }} [MZW Championship](@/c/mzw-championship.md) |
 | 2017- | {{ org_badge(org='kpw') }} [KPW OldTown Championship](@/c/kpw-old-town-championship.md) |
 | 2018- | {{ org_badge(org='kpw') }} [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) |
+| 2019- | {{ org_badge(org='mcw') }} [MCW Championship](@/c/mcw-championship.md) |
 | 2020- | {{ org_badge(org='ppw') }} [PpW Championship](@/c/ppw-championship.md) |
 | 2022- | {{ org_badge(org='ppw') }} [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) |
 | 2023- | {{ org_badge(org='ptw') }} [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) |
