@@ -3,12 +3,18 @@
 <dialog id="lb">
   <form method="dialog">
     <button type="submit" autofocus>
-      <span aria-hidden>×</span>
-      <span class="sr-only">Close dialog</span>
+      <span aria-hidden class="closebtn">×</span>
+      <span class="sr-only">Close popup</span>
     </button>
   </form>
-  <button class="prev" type="button">«</button>
-  <button class="next" type="button">»</button>
+  <button class="prev" type="button">
+    <span aria-hidden>«</span>
+    <span class="sr-only">Previous image</span>
+  </button>
+  <button class="next" type="button">
+    <span aria-hidden>»</span>
+    <span class="sr-only">Next image</span>
+  </button>
   <figure>
     <img/>
     <figcaption>
