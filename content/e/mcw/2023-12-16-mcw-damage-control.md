@@ -18,7 +18,8 @@ This was a charity event held at Primary School no. 20 in Siemianowice Śląskie
 {% card() %}
 - - 'Chris Steeler'
   - 'Johny Vegas'
-  - nc: 'Jack Kalom interevened, attacked Chris Steeler, antagonised the referee and manhandled Johny Vegas, before demanding a fight against everyone.'
+  - nc: 'Outside intervention'
+    n: 'Jack Kalom interevened, attacked Chris Steeler, antagonised the referee and manhandled Johny Vegas, before demanding a fight against everyone.'
 - - 'RAV(c)'
   - 'Chris Steeler'
   - 'Jack Kalom'
@@ -27,7 +28,7 @@ This was a charity event held at Primary School no. 20 in Siemianowice Śląskie
     c: MCW Championship
 {% end %}
 
-In a show of awareness rarely seen on the Polish wrestling scene, in his promo before the match RAV said "We have many cool federations: [KPW](@/o/kpw.md), [MZW](@/o/mzw.md), [PpW](@/o/ppw.md], [PTW](@/o/ptw.md]".
+In a show of awareness rarely seen on the Polish wrestling scene, in his promo before the match RAV said "We have many cool federations: [KPW](@/o/kpw.md), [MZW](@/o/mzw.md), [PpW](@/o/ppw.md), [PTW](@/o/ptw.md)".
 
 ## References
 
