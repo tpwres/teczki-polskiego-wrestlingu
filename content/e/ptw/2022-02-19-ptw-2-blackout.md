@@ -8,6 +8,7 @@ venue = ["moris-chorzow"]
 city = "Chorzów"
 [extra.gallery]
 1 = { path = "2022-02-19-ptw-2-blackout-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
+2 = { path = "blackout-pre-show.jpg", caption = "View from the audience, before the show.", source = "Ville Paananen" }
 +++
 
 Blackout was [PTW](@/o/ptw.md)'s second major event, and fourth event overall. It was held on Sunday, February 19th 2022, in a multipurpose sports hall in Chorzów. This was the same venue that held their first ever show [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
