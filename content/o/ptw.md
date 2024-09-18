@@ -229,9 +229,9 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 ## Other media
 
 PTW's talent made an appearance in Young Multi's [video][young-multi-ak47] for the song "AK47".
-The video features Pawłowski giving a pep-talk to Multi and his band, as well as scenes of PTW wrestlers hitting their moves in the ring, interleaved with clips of the musicians themselves.
+The video features Pawłowski giving a pep-talk to Multi and his band, as well as scenes of PTW wrestlers hitting their moves in the ring, intercut with clips of the band.
 Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#post-ryucon-new-venue) is located.
-Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), Shida and [Diana Strong](@/w/diana-strong.md).
+Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), Miyagi Shida and [Diana Strong](@/w/diana-strong.md).
 
 ## Internet presence
 
