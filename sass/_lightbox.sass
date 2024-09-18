@@ -16,6 +16,7 @@ dialog#lb
     padding: 2rem 0.5rem
     font-size: 1.5rem
     background: var(--lightbox-nav-button)
+    color: var(--lightbox-nav-fg)
     &:hover
       opacity: 100%
 
@@ -40,6 +41,7 @@ dialog#lb
 
     .closebtn
       background: var(--close-button)
+      color: var(--close-button-fg)
       padding: .3rem .5rem
       border: none
       border-radius: 5px
@@ -47,13 +49,19 @@ dialog#lb
   figure
     background: var(--accent-bg)
     padding: 0.5rem
-    img
-      max-height: calc(90vh - 5rem)
-      object-fit: contain
+    display: flex
+    flex-direction: column
 
-    figcaption, p
-      margin: 0 auto
-      color: var(--fg)
+  img
+    height: 0
+    object-fit: contain
+    flex: 2 70vh
+
+  figcaption
+    align-self: flex-end
+    margin: 0 auto
+    color: var(--fg)
+    /* flex: 1 10vh
 
   .sr-only
     display: none

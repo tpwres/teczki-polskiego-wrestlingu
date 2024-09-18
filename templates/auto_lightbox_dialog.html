@@ -16,7 +16,7 @@
     <span class="sr-only">Next image</span>
   </button>
   <figure>
-    <img/>
+    <img>
     <figcaption>
       <p></p>
       <small></small>
@@ -26,8 +26,8 @@
 <section>
   <ul class="gallery">
     {% for _key, item in page.extra.gallery %}
-      {% set path = item.path -%} 
-      {% set caption = item | get(key="caption", default="") -%} 
+      {% set path = item.path -%}
+      {% set caption = item | get(key="caption", default="") -%}
       <li>
         <figure id="fig{{ loop.index }}" data-path="{{ root ~ path }}">
           <a href="#img{{ loop.index }}">
@@ -49,8 +49,9 @@
     const caption = figure.querySelector('figcaption').innerHTML
     const attribution = figure.querySelector('data.attribution').innerHTML
     const img = dialog.querySelector('figure img')
-    const desc = dialog.querySelector('figure figcaption p')
-    const source = dialog.querySelector('figure figcaption small')
+    const figcaption = dialog.querySelector('figure figcaption')
+    const desc = figcaption.querySelector('p')
+    const source = figcaption.querySelector('small')
 
     img.src = figure.dataset.path
     desc.innerHTML = caption
@@ -58,6 +59,8 @@
       source.innerHTML = 'Source: ' + attribution
     else
       source.innerHTML = ''
+
+    figcaption.style.width = `clamp(50vw, ${img.naturalWidth}px, 80vw)`
 
     const [prevFig, nextFig] = findSiblingFigures(figure)
     const prevBtn = dialog.querySelector('button.prev')
