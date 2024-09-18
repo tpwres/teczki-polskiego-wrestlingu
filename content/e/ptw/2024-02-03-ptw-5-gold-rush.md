@@ -9,6 +9,7 @@ venue = ["hotel-scout-czestochowa"]
 city = "Częstochowa"
 [extra.gallery]
 1 = { path = "2024-02-03-ptw-5-gold-rush-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
+2 = { path = "gold-rush-pre-show.jpg", caption = "Before the start of the show.", source = "Ville Paananen" }
 +++
 
 Gold Rush was an event by [PTW](@/o/ptw.md). It was announced as a "Season Finale", which suggested it's going to close some kind of chapter in PTW's history.
