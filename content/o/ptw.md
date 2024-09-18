@@ -226,6 +226,13 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 | [PTW Championship](@/c/ptw-championship.md) | [Puncher](@/w/puncher.md) | Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 | [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) | Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) | Defeated PAKA: [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md) and [Taras](@/w/taras.md) at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). |
 
+## Other media
+
+PTW's talent made an appearance in Young Multi's [video][young-multi-ak47] for the song "AK47".
+The video features Pawłowski giving a pep-talk to Multi and his band, as well as scenes of PTW wrestlers hitting their moves in the ring, interleaved with clips of the musicians themselves.
+Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#post-ryucon-new-venue) is located.
+Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), Shida and [Diana Strong](@/w/diana-strong.md).
+
 ## Internet presence
 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
@@ -254,3 +261,4 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 [followup-puncher]: https://www.youtube.com/watch?v=m2kZZBAqmuo
 [followup-pawlowski]: https://www.youtube.com/watch?v=F4PknaxqojM&t=73s
 [live-istota-puncher]: https://www.youtube.com/watch?v=dq3qmzdzLYc&t=81s
+[young-multi-ak47]: https://www.youtube.com/watch?v=BXamVDoOSAw
