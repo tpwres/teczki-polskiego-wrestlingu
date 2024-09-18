@@ -44,7 +44,3 @@ In addition to the events listed below, MCW also held two undated demonstrations
 - [Crowdfunding page](https://wspieram.to/mcwwrestling)
 - [YouTube playlist of MCW's instructional videos](https://www.youtube.com/playlist?list=PL2kby3nr3FjcQFyp_hr73GMhmD9iiOdAd)
 - [Dziedzic talks about MCW](https://www.youtube.com/live/-mveTz3FApQ?si=GrAXj1vj7GMkwEdt&t=5200)
-- [Facebook event: MCW Damage Control](https://www.facebook.com/events/246015901602052/)
-- [Facebook post: MCW charity show in October 2022](https://www.facebook.com/minecitywrestling/posts/pfbid036Ts8szvAz5DxV4KTgXE6VHe6rZLRts9ga6g961GMCo867ro7JtFiejTgiHSU2tfcl)
-- [Facebook post: MCW show in September 2019](https://www.facebook.com/minecitywrestling/posts/pfbid0yobCocxacSdatiLm5e936n8r2xZteNweMfYVdKq6t4PMXkjBsjJRmPvuYPeDqJoxl)
-- [Facebook event: MCW show in June 2019](https://www.facebook.com/events/966766303522255/)
