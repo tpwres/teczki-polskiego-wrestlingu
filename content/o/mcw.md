@@ -4,8 +4,9 @@ weight = 0
 template = "org_page.html"
 authors = ["M3n747"]
 [extra]
-hide_roster = true
-hide_events = true
+toclevel = 3
+[taxonomies]
+chrono_root = ["MCw"]
 +++
 
 Mine City Wrestling is a small backyard promotion operating in Silesia.
@@ -32,6 +33,8 @@ Their activity on social media, however, is also infrequent, outside of YouTube 
 The group had a small roster of people, many of whom since left, including some who joined Prime Time Wrestling.
 Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md) and [Sinister](@/w/sinister.md), who wrestled for MCW as David Sirch.
 
+In addition to the events listed below, MCW also held two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie.
+
 ### References
 
 - [Czas na Polski WRESTLING!](https://web.archive.org/web/20160527112136/http://natlok.pl/czas-na-polski-wrestling/), archived article from natlok.pl
@@ -45,25 +48,3 @@ Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disc
 - [Facebook post: MCW charity show in October 2022](https://www.facebook.com/minecitywrestling/posts/pfbid036Ts8szvAz5DxV4KTgXE6VHe6rZLRts9ga6g961GMCo867ro7JtFiejTgiHSU2tfcl)
 - [Facebook post: MCW show in September 2019](https://www.facebook.com/minecitywrestling/posts/pfbid0yobCocxacSdatiLm5e936n8r2xZteNweMfYVdKq6t4PMXkjBsjJRmPvuYPeDqJoxl)
 - [Facebook event: MCW show in June 2019](https://www.facebook.com/events/966766303522255/)
-
-## All-time roster
-
-- Johny Vegas
-- RAV
-- Shida
-- Terror
-- Diana
-- Chris Steeler
-- Sigurd
-- Jack Kalom
-- [David Sirch](@/w/sinister.md)
-- [Syriusz Dziedzic](@/w/dziedzic.md)
-- [Disco Pablo](@/w/disco-pablo.md)
-
-## Events
-
-- 2023.12.16 MCW Damage Control
-- 2022.10.15 Charity show
-- 2019.09.14 Untitled event, accompanying various other sports
-- 2019.06.01 MCW show + children's bench press tournament
-- two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie
