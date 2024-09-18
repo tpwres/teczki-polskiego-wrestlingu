@@ -13,7 +13,7 @@ dialog#lb
     opacity: 80%
 
   button.next, button.prev
-    opacity: 50% // But not on mobile?
+    padding: 2rem 0.5rem
     font-size: 1.5rem
     background: var(--lightbox-nav-button)
     &:hover
@@ -22,23 +22,21 @@ dialog#lb
   button.next
     position: absolute
     top: 50%
+    transform: translateY(-50%)
     right: 0
 
   button.prev
     position: absolute
     top: 50%
+    transform: translateY(-50%)
     left: 0
 
   form button
     position: absolute
     top: 0
     right: 0
-    opacity: 50%
     background: var(--close-button)
     font-size: 1.5rem
-
-    &:hover
-      opacity: 100%
 
   figure
     overflow: scroll
