@@ -18,7 +18,10 @@ caption = """\
 source = "Official PTW Facebook"
 [extra.gallery.2]
 path = "ptw-piknik.jpg"
-caption = "Official poster"
+caption = """\
+    The foundation's official poster, mentioning PTW.
+    Also promised are bouncy castles, grill, ponies, a sports competition, face painting and a lottery.
+    """
 source = "Vincent Caravaggio's Instagram story revealing the event"
 +++
 
