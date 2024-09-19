@@ -14,7 +14,10 @@ city = "Kozłów"
 +++
 
 
-A charity show was announced to take place in Kozłów. It's not a part of the Underground chronology, but it was confirmed that it would continue feuds from those events.
+After [Underground 22](@/e/ptw/2024-08-25/ptw-underground-22.md) concluded, PTW's social media channels didn't reveal a date for the next show.
+However, some weeks later, they announced a charity show to take place in Kozłów.
+The event's title is simply "Fighting for the Foundation", where the charity foundation mentioned is "Fundacja Nadzieja Dzieci" (Children's Hope).
+The event is officially not a part of the Underground series, but it was confirmed that it would continue storylines and feuds from those events.
 
 {{ skip_card() }}
 
