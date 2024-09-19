@@ -9,7 +9,7 @@ venue = ["szkola-podstawowa-11-siemianowice"]
 city = "Siemianowice Śląskie"
 [extra.gallery.1]
 path = "2022-10-15-mcw-charity-show-plakat.jpg"
-caption = "Official poster. Pictured from left to right are: Chris Steeler, Johny Vegas, RAV and Sigurd. The bearded man in the middle is the ring announcer."
+caption = "Official poster. Pictured from left to right are: Chris Steeler, [Johny Vegas](@/w/johny-vegas.md), [RAV](@/w/rav.md) and Sigurd. The bearded man in the middle is the ring announcer."
 source = "Official MCW Facebook"
 +++
 
@@ -21,7 +21,7 @@ The show featured two fights. The first one was a singles match between the two 
 - - 'Sigurd'
   - 'Chris Steeler'
   - r: disqualification
-- - 'RAV'
+- - '[RAV](@/w/rav.md)'
   - '[Johny Vegas](@/w/johny-vegas.md)(c)'
   - s: No Disqualification Best 3 Out Of 5 Falls Match
     c: MCW Championship

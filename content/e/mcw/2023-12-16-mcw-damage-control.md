@@ -9,7 +9,7 @@ venue = ["szkola-podstawowa-20-siemianowice"]
 city = "Siemianowice Śląskie"
 [extra.gallery.1]
 path = "2023-12-16-mcw-damage-control-plakat.jpg"
-caption = "Official poster. Pictured from left to right are: Chris Steeler, RAV, Johny Vegas, and Jack Kalom."
+caption = "Official poster. Pictured from left to right are: Chris Steeler, [RAV](@/w/rav.md), [Johny Vegas](@/w/johny-vegas.md), and Jack Kalom."
 source = "Official MCW Facebook"
 +++
 
@@ -20,7 +20,7 @@ This was a charity event held at Primary School no. 20 in Siemianowice Śląskie
   - '[Johny Vegas](@/w/johny-vegas.md)'
   - nc: 'Outside intervention'
     n: 'Jack Kalom interevened, attacked Chris Steeler, antagonised the referee and manhandled Johny Vegas, before demanding a fight against everyone.'
-- - 'RAV(c)'
+- - '[RAV](@/w/rav.md)(c)'
   - 'Chris Steeler'
   - 'Jack Kalom'
   - '[Johny Vegas](@/w/johny-vegas.md)'
