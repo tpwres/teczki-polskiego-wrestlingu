@@ -14,7 +14,7 @@ MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW 
 ## Champion #1: Johny Vegas
 
 {% free_card() %}
-- - 'Johny Vegas'
+- - '[Johny Vegas](@/w/johny-vegas.md)'
   - 'RAV'
   - '[David Sirch](@/w/sinister.md)'
   - 'Terror'

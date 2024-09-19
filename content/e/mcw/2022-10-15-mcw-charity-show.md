@@ -22,7 +22,7 @@ The show featured two fights. The first one was a singles match between the two 
   - 'Chris Steeler'
   - r: disqualification
 - - 'RAV'
-  - 'Johny Vegas(c)'
+  - '[Johny Vegas](@/w/johny-vegas.md)(c)'
   - s: No Disqualification Best 3 Out Of 5 Falls Match
     c: MCW Championship
     n: RAV won the match 3:2
