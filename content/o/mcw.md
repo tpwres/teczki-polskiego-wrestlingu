@@ -6,7 +6,7 @@ authors = ["M3n747"]
 [extra]
 toclevel = 3
 [taxonomies]
-chrono_root = ["MCw"]
+chrono_root = ["mcw"]
 +++
 
 Mine City Wrestling is a small backyard promotion operating in Silesia.
