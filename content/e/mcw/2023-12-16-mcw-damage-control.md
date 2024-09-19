@@ -17,13 +17,13 @@ This was a charity event held at Primary School no. 20 in Siemianowice Śląskie
 
 {% card() %}
 - - 'Chris Steeler'
-  - 'Johny Vegas'
+  - '[Johny Vegas](@/w/johny-vegas.md)'
   - nc: 'Outside intervention'
     n: 'Jack Kalom interevened, attacked Chris Steeler, antagonised the referee and manhandled Johny Vegas, before demanding a fight against everyone.'
 - - 'RAV(c)'
   - 'Chris Steeler'
   - 'Jack Kalom'
-  - 'Johny Vegas'
+  - '[Johny Vegas](@/w/johny-vegas.md)'
   - s: Fatal Four-Way Match
     c: MCW Championship
 {% end %}
