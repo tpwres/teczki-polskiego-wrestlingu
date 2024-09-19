@@ -17,7 +17,7 @@ toclevel=2
   - '[David Sirch](@/w/sinister.md)'
   - 'Terror'
   - s: Gauntlet Match
-    en: '[MCW Show](@/e/mcw/2019-09-14-mcw-show.md)'
+    en: '[MCW Show](@/e/mcw/2019-09-14-mcw-show-3.md)'
     ed: 2019-09-14
 - - 'RAV'
   - 'Johny Vegas(c)'
