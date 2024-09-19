@@ -35,6 +35,15 @@ Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disc
 
 In addition to the events listed below, MCW also held two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie.
 
+
+### Championships
+
+MCW has one singles championship, which was introduced in the late 2019.
+
+| Championship | Current champion | Notes |
+|---|---|---|
+| [MCW Championship](@/c/mcw-championship.md) | RAV | Defeated Johny Vegas at [MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show/) |
+
 ### References
 
 - [Czas na Polski WRESTLING!](https://web.archive.org/web/20160527112136/http://natlok.pl/czas-na-polski-wrestling/), archived article from natlok.pl
