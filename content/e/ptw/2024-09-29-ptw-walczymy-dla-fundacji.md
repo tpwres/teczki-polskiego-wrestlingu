@@ -1,5 +1,5 @@
 +++
-title = "PTW Charity Show"
+title = "PTW Walczymy dla Fundacji"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
