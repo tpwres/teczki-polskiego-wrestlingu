@@ -13,8 +13,8 @@ Mine City Wrestling is a small backyard promotion operating in Silesia.
 
 ## History
 
-MCW was established in 2011 in Siemianowice Śląskie by Johny Vegas, but not unveiled until December 2013, aiming to be an alternative to Polish backyard.
-The working name of the promotion had been NoN (Now or Never), until Mine City Wrestling was chosen in reference to the coal mining industry of Siemianowice.
+MCW was established in 2011 in Siemianowice Śląskie by Johny Vegas, but not unveiled until December 2013, aiming to be an alternative to Polish backyards.
+The working name of the promotion had been NoN ("Now or Never"), until "Mine City Wrestling" was chosen in reference to the coal mining industry of Siemianowice.
 At a later time the federation moved to Brzeziny and then Tarnowskie Góry, before settling in Świerklaniec.
 
 MCW attempted a crowdfunding campaign in order to rent or purchase a place to hold training sessions in, but they were unsuccessful, with only 100 out of 13,000 PLN raised for that goal.
@@ -23,22 +23,21 @@ There's been a rumour that [Prime Time Wrestling](@/o/ptw.md) attempted to buy i
 Vegas himself denies such an offer ever being made, but agrees he'd refuse anyway if it happened.
 
 MCW shows are rare, and most of them are intended to raise funds for charities.
-Despite not having a budget for international stars, MCW nonetheless managed to attract attention of wrestlers from such countries are Ireland or Scotland,
-who expressed interest in exchanging experiences and appearing in shows.
+Even though they don't have a budget for international stars, MCW nonetheless managed to attract the attention of wrestlers from such countries are Ireland or Scotland,
+who expressed interest in exchanging experiences and appearing on their shows.
 
 Their wrestlers are self-taught, which caused them to be written off multiple times by other organizations.
-Despite this, the promotion ran a series of instructional videos on their YouTube channel demonstrating some wrestling moves, both basic and more advanced.
+Nonetheless, the promotion ran a series of instructional videos on their YouTube channel demonstrating some wrestling moves, both basic and more advanced.
 Their activity on social media, however, is also infrequent, outside of YouTube shorts, which have been on the rise in 2024.
 
-The group had a small roster of people, many of whom since left, including some who joined Prime Time Wrestling.
+The roster was never big, but some of their former trainees and wrestlers were recruited by Prime Time Wrestling.
 Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md) and [Sinister](@/w/sinister.md), who wrestled for MCW as David Sirch.
 
 In addition to the events listed below, MCW also held two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie.
 
-
 ### Championships
 
-MCW has one singles championship, which was introduced in the late 2019.
+MCW has one singles championship, which was introduced in late 2019.
 
 | Championship | Current champion | Notes |
 |---|---|---|
