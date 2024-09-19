@@ -9,7 +9,7 @@ hide_results = true
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster.", source = "Official PpW Facebook"}
-2 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Image announcing the new location.", source = "Official PpW Facebook" }
+2 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
 +++
 
 "Co Za Noc" (_What a Night_) was announced on 10.09.2024, set to take place in a brand new location - a post-industrial complex at Mińska 65 street.
