@@ -20,7 +20,8 @@ source = "Official PTW Facebook"
 path = "ptw-piknik.jpg"
 caption = """\
     The foundation's official poster, mentioning PTW.
-    Also promised are bouncy castles, grill, ponies, a sports competition, face painting and a lottery.
+    Besides wrestling, there will also be bouncy castles, a barbecue, ponies, a sports competition,
+    face painting and a lottery.
     """
 source = "Vincent Caravaggio's Instagram story revealing the event"
 +++
