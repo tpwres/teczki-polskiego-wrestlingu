@@ -1,7 +1,7 @@
 +++
-title = "PTW Walczymy dla Fundacji"
+title = "PTW - Walczymy dla Fundacji"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
@@ -24,12 +24,18 @@ caption = """\
     face painting and a lottery.
     """
 source = "Vincent Caravaggio's Instagram story revealing the event"
+[extra.gallery.3]
+path = "walczymy-ptw-dla-fundacji-to-nie-underground.jpg"
+caption = """\
+    PTW's responce to a fan's question, confirming that the event is not Underground 23.
+    """
+source = "Official PTW Facebook"
 +++
 
 
 After [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) concluded, PTW's social media channels didn't reveal a date for the next show.
 However, some weeks later, they announced a charity show to take place in Kozłów.
-The event's title is simply "Fighting for the Foundation", where the charity foundation mentioned is "Fundacja Nadzieja Dzieci" (Children's Hope).
+The event's title is simply "Fighting for the Foundation", where the foundation in question is "Fundacja Nadzieja Dzieci" (_Children's Hope Foundation_).
 The event is officially not a part of the Underground series, but it was confirmed that it would continue storylines and feuds from those events.
 
 {{ skip_card() }}
