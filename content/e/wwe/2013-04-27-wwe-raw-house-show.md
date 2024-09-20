@@ -11,7 +11,7 @@ city = ["Łódź"]
 1 = { path = "2013-04-27-wwe-raw-house-show.jpg", caption = "WWE in Łódź", source = "MyWrestling.com.pl" }
 +++
 
-The third WWE and the second RAW house show in Poland, this time held in the Atlas Arena in Łódź.
+The third [WWE](@/o/wwe.md) and the second RAW house show in Poland, this time held in the Atlas Arena in Łódź.
 
 {% card() %}
 - - Kaitlyn (c)
