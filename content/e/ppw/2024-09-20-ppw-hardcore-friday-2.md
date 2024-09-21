@@ -12,14 +12,18 @@ city = "Warszawa"
 +++
 
 {% card(predicted=true) %}
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - 'Oskar'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Olgierd](@/w/olgiers.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Bill Feager](@/w/feager.md)'
   - s: Dostawczak Match
-    nc: upcoming
-- - '[Samson](@/w/samson.md), [Johnny Blade](@/w/johnny-blade.md)'
-  - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
+  - '[Samson](@/w/samson.md), [Johnny Blade](@/w/johnny-blade.md)'
   - s: Anarchy Cyclone Tag Team Match
-    nc: upcoming
 {% end %}
 
 ## References
