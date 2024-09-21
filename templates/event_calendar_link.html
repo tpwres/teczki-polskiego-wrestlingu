@@ -1,0 +1,6 @@
+{# Check if the calendar file exists #}
+{% set filename = "calendar-" ~ page.slug ~ ".ics" %}
+{% set calendar = load_data(path=filename, required=false) %}
+{% if calendar %}
+    Add these events to your calendar by subscribing to <a href="{{ get_url(path=filename, trailing_slash=false) }}">{{ filename }}</a>.
+{% endif %}
