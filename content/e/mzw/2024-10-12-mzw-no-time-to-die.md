@@ -38,6 +38,10 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 - - '[Marcelito](@/w/marcelito.md)'
   - '[Rafi](@/w/rafi.md)'
   - nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Sambor](@/w/sambor.md); Rusałka'
+  - c: '[PPW Championship](@/c/ppw-championship.md)'
+    nc: upcoming
 {% end %}
 
 ## References
