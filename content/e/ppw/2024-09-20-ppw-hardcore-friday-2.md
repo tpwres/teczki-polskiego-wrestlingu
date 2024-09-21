@@ -15,7 +15,7 @@ city = "Warszawa"
 - - '[Axel Fox](@/w/axel-fox.md)'
   - 'Oskar'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Olgierd](@/w/olgiers.md)'
+  - '[Olgierd](@/w/olgierd.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Bill Feager](@/w/feager.md)'
   - s: Dostawczak Match
