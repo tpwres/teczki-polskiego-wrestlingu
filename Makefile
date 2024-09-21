@@ -46,11 +46,11 @@ data/chronology-hyperlinked.svg: data/chronology-plot.svg
 	bin/linkify-plot < $< > $@
 
 static/calendar.ics: content/e/**/*.md
-	bin/build_calendar.py > $@
+	bin/build-calendar > $@
 
 static/calendar-%.ics: ORG = $(patsubst static/calendar-%.ics,%,$@)
 static/calendar-%.ics: content/e/%/*.md
-	bin/build_calendar.py \
+	bin/build-calendar \
 		-t $(shell grep -Po 'title = \K(.*)' content/e/${ORG}/_index.md) \
 		content/e/${ORG} > $@
 
