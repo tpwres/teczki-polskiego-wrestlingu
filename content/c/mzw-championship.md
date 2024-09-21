@@ -175,7 +175,6 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 
 Asmund vacated the title immediately after winning it, due to his retirement from wrestling. This resulted in the title being vacant for 721 days.
 
-
 ### Champion #6: Rafael Kid
 
 {% free_card() %}
@@ -189,3 +188,14 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
 Title was later vacated due to Rafael Kid leaving the organization. This was announced at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), and resulted in a vacancy of over 502 days. Rafael Kid's reign is recognized as lasting 574 days.
 
 **TOTAL:** 574 days
+
+### Champion #7: ???
+
+{% free_card() %}
+- - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Matt Buckna](@/w/matt-buckna.md)'
+  - s: Singles match
+    en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
+    en: 2024-10-12
+    nc: upcoming
+{% end %}

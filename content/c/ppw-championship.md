@@ -8,9 +8,10 @@ toclevel=2
 [extra.gallery]
 1 = { path = "ppw-championship.jpg", caption = '[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.', source = "Official PpW website / Facebook" }
 2 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = '"The PpW Champion, Steve Kuningas, with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA."', source = "Official PpW website / Facebook" }
+3 = { path = "ppw-new-championship-belt.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) presenting the redesigned belt at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).", source = "Official PpW Instagram" }
 +++
 
-The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md). It was introduced in 2017 during their backyard years and underwent a design change in 2021.
+The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md). It was introduced in 2017 during their backyard years and underwent two design changes: first in 2021, and then in 2024 at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).
 
 <!-- more -->
 
@@ -23,13 +24,13 @@ The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md).
 ## Champion #1: Mister Z
 
 {% free_card() %}
-- - '[Mister Z](@/w/mister-z.md) (c)'
+- - '[Mister Z](@/w/mister-z.md)(c)'
   - 'Sakal'
   - s: Singles match
     en: '[PpW Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md)'
     ed: 2020-02-15
 - - '[Osamu](@/w/osamu.md)'
-  - 'Mister Z (c)'
+  - 'Mister Z(c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md)'
     ed: 2021-06-12
@@ -43,7 +44,7 @@ Mister Z had been the PpW Champion since the backyard era, however the available
 
 {% free_card() %}
 - - '[Osamu](@/w/osamu.md)'
-  - 'Mister Z (c)'
+  - 'Mister Z(c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md)'
     ed: 2020-06-12
@@ -63,34 +64,34 @@ Following Ledwo Legalne, the Championship was vacated for 182 days.
   - s: Four Way Match
     en: '[PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)'
     ed: 2022-03-12
-- - 'Biesiad Strong (c)'
+- - 'Biesiad Strong(c)'
   - 'Osamu'
   - s: Singles match
     en: '[PpW Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md)'
     ed: 2022-05-21
-- - 'Biesiad Strong (c)'
+- - 'Biesiad Strong(c)'
   - 'Mister Z'
   - s: Hardcore Match
     en: '[PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md)'
     ed: 2022-09-10
-- - 'Biesiad Strong (c)'
+- - 'Biesiad Strong(c)'
   - '[Steve Kuningas](@/w/steve-kuningas.md)'
   - s: Ladder Match
     en: '[PpW Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md)'
     ed: 2022-11-25
-- - 'Biesiad Strong (c)'
+- - 'Biesiad Strong(c)'
   - 'Steve Kuningas'
   - '[Isnorr](@/w/isnorr.md)'
   - s: Hardcore Match
     en: '[PpW Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md)'
     ed: 2023-02-04
-- - 'Biesiad Strong (c)'
+- - 'Biesiad Strong(c)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
   - s: Singles match
     en: '[PpW Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md)'
     ed: 2023-05-06
 - - 'Steve Kuningas'
-  - 'Biesiad Strong (c)'
+  - 'Biesiad Strong(c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md)'
     ed: 2023-06-17
@@ -102,12 +103,12 @@ Following Ledwo Legalne, the Championship was vacated for 182 days.
 
 {% free_card() %}
 - - 'Steve Kuningas'
-  - 'Biesiad Strong (c)'
+  - 'Biesiad Strong(c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md)'
     ed: 2023-06-17
 - - '[Bill Feager](@/w/feager.md)'
-  - 'Steve Kuningas (c)'
+  - 'Steve Kuningas(c)'
   - s: Singles match
     en: '[PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md)'
     ed: 2024-02-10
@@ -121,17 +122,17 @@ Steve Kuningas made at least one appearance with the PpW Championship outside of
 
 {% free_card() %}
 - - '[Bill Feager](@/w/feager.md)'
-  - 'Steve Kuningas (c)'
+  - 'Steve Kuningas(c)'
   - s: Singles match
     en: '[PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md)'
     ed: 2024-02-10
-- - 'Bill Feager (c)'
+- - 'Bill Feager(c)'
   - 'Mister Z'
   - s: Singles match
     en: '[PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md)'
     ed: 2024-04-20
 - - 'Biesiad Strong'
-  - 'Bill Feager (c)'
+  - 'Bill Feager(c)'
   - 'Mister Z'
   - s: Three Way Match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
@@ -144,13 +145,13 @@ Steve Kuningas made at least one appearance with the PpW Championship outside of
 
 {% free_card() %}
 - - 'Biesiad Strong'
-  - 'Bill Feager (c)'
+  - 'Bill Feager(c)'
   - 'Mister Z'
   - s: Three Way Match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
     ed: 2024-06-08
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - 'Biesiad Strong (c)'
+  - 'Biesiad Strong(c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
     ed: 2024-06-08
@@ -164,15 +165,21 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 
 {% free_card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - 'Biesiad Strong (c)'
+  - 'Biesiad Strong(c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
     ed: 2024-06-08
-- - 'Gustav Gryffin (c)'
+- - 'Gustav Gryffin(c)'
   - 'Biesiad Strong'
   - s: Singles match
     en: '[PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)'
     ed: 2024-07-13
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - '[Sambor](@/w/sambor.md)'
+  - s: Singles match
+    en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
+    en: 2024-10-12
+    nc: upcoming
 {% end %}
 
 ## References
