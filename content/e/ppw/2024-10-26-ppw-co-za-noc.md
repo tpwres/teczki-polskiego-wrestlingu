@@ -14,7 +14,21 @@ city = "Warszawa"
 
 "Co Za Noc" (_What a Night_) was announced on 10.09.2024, set to take place in a brand new location - a post-industrial complex at Mińska 65 street.
 
-{{ skip_card() }}
+{% card(predicted=true) %}
+- - 'Zmowa przeciwko zmowie'
+  - 'Zmowa'
+  - s: 5 vs 5 Ellimination Match
+    nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - '[Samson](@/w/samson.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    nc: upcoming
+- - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - '[Isnorr](@/w/isnorr.md)'
+  - c: '[PpW European Ultraviolent](@/c/ppw-european-ultraviolent-championship.md)' (unconfirmed)
+    s: Blood God Ritual - Trial by Metal and Glass
+    nc: upcoming
+{% end %}
 
 ## References
 
