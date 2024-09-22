@@ -2,13 +2,14 @@
 title = "PpW Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747"]
+authors = ["M3n747", "Seweryn Pielucha"]
 [extra]
 toclevel=2
 [extra.gallery]
 1 = { path = "ppw-championship.jpg", caption = '[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.', source = "Official PpW website / Facebook" }
 2 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = '"The PpW Champion, Steve Kuningas, with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA."', source = "Official PpW website / Facebook" }
 3 = { path = "ppw-new-championship-belt.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) presenting the redesigned belt at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).", source = "Official PpW Instagram" }
+4 = { path = "ppw-old-belt.jpg", caption = "[Mister Z](@/w/mister-z.md) with the old belt at [Kiedyś będzie lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).", source = "Official PpW YouTube" }
 +++
 
 The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md). It was introduced in 2017 during their backyard years and underwent two design changes: first in 2021, and then in 2024 at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).
@@ -19,7 +20,18 @@ The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md).
 
 * First champion: [Mister Z](@/w/mister-z.md)
 * Most reigns: [Biesiad Strong](@/w/biesiad.md) (2)
+* Shortest reign: Biesiad Strong (< 1 day)
 * Longest reign: Mister Z (483 days)
+* Heaviest Champion: [Steve Kuningas](@/w/steve-kuningas.md) (120&nbsp;kg)
+* Lightest Champion: [Osamu](@/w/osamu.md) / [Mister Z](@/w/mister-z.md) (85&nbsp;kg)
+
+## Belt design
+
+The original PpW Championship design, which was used in PpW's early backyard days, was rather simple and cheaply made. The main plate was in fact made of synthetic material instead of metal. It resembled the original WWE Tag Team Championship from Ruthless Agression Era in shape. The golden-coloured plate was decorated with black outlinings and details. In the centre of the main plate there was the orginal red and blue PpW logo against "eagle wings" ornamentation. Beneath that there was a banner with the word "MISTRZ" (_CHAMPION_) written on it. Over the PpW logo it there was another ornament with the cross of Saint James on it. The lower part of the main plate also contained a spot to put custom-made a plate with the name of the champion; however, it was apparently never used. There were two sideplates on each side of the belt: one with a luchador mask, and the other with "hardcore wrestling" written on it - a representation of PpW's two early brands, Hardcore Friday and Super Lucha. All of the plates were attached to a mint-blue belt without any snap fasteners. Instead it could be fastened with a velcro strap on the inner side of the belt.
+
+In February 2021 Mister Z introduced a new version of the Championship, this time much more professional. The main plate was round and made of golden-coloured metal. In the centre of the main plate there was a large, updated, silver PpW logo. Beneath the logo there was a smaller banner with "Champion" written on it. The main plate was also lightly decorated with engravings and laurel wreath with some colourful gems on the sides. Sideplates were rather simple and circural with the PpW logo on it. The plates were attached to a standard black leather belt.
+
+At [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) [Gustav Gryffin](@/w/gustav-gryffin.md) introduced a new, personalized variation of the PpW Championship. It was rather similar in design to the previous version, with the main differences being the added colourful details (such as a blue and red PpW logo), white belt instead of a black one, and golden tips with PpW logo at the ends of the belt itself.
 
 ## Champion #1: Mister Z
 
