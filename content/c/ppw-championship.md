@@ -27,7 +27,15 @@ The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md).
 
 ## Belt design
 
-The original PpW Championship design, which was used in PpW's early backyard days, was rather simple and cheaply made. The main plate was in fact made of synthetic material instead of metal. It resembled the original WWE Tag Team Championship from Ruthless Agression Era in shape. The golden-coloured plate was decorated with black outlinings and details. In the centre of the main plate there was the orginal red and blue PpW logo against "eagle wings" ornamentation. Beneath that there was a banner with the word "MISTRZ" (_CHAMPION_) written on it. Over the PpW logo it there was another ornament with the cross of Saint James on it. The lower part of the main plate also contained a spot to put custom-made a plate with the name of the champion; however, it was apparently never used. There were two sideplates on each side of the belt: one with a luchador mask, and the other with "hardcore wrestling" written on it - a representation of PpW's two early brands, Hardcore Friday and Super Lucha. All of the plates were attached to a mint-blue belt without any snap fasteners. Instead it could be fastened with a velcro strap on the inner side of the belt.
+The original PpW Championship design, which was used in PpW's early backyard days, was rather simple and cheaply made. The main plate was in fact made of synthetic material instead of metal. 
+In shape, it resembled the original Ruthless Aggression-era WWE Tag Team Championship. 
+The golden-coloured plate was decorated with black outlinings and details. 
+In the centre of the main plate there was the orginal red and blue PpW logo against "eagle wings" ornamentation. 
+Beneath that, there was a banner with the word "MISTRZ" (_CHAMPION_). 
+Above the PpW logo it there was another ornament with the cross of Saint James.
+ The lower part of the main could also receive smaller nameplates to mark the current owner; however, that was apparently never used. 
+ There were two sideplates on each side of the belt: one with a luchador mask, and the other with "hardcore wrestling" written on it - a representation of PpW's two early "brands", or rosters - Hardcore Friday and Super Lucha. 
+ All the plates were attached to a mint-blue belt without any snap fasteners. Instead it could be fastened with a velcro strap on the inner side of the belt.
 
 In February 2021 Mister Z introduced a new version of the Championship, this time much more professional. The main plate was round and made of golden-coloured metal. In the centre of the main plate there was a large, updated, silver PpW logo. Beneath the logo there was a smaller banner with "Champion" written on it. The main plate was also lightly decorated with engravings and laurel wreath with some colourful gems on the sides. Sideplates were rather simple and circural with the PpW logo on it. The plates were attached to a standard black leather belt.
 
