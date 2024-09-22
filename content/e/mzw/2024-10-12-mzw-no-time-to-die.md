@@ -31,7 +31,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - nc: upcoming
-    c: '[MZW Championship](@/c/mzw-championship.md')
+    c: '[MZW Championship](@/c/mzw-championship.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - nc: upcoming
