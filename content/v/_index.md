@@ -4,7 +4,7 @@ template = "index.html"
 +++
 
 # Places
-<-- Please sort alphabetically. -->
+<!-- Please sort alphabetically. -->
 ### Warsaw
 
 * [2KOŁA Motorcycle Club](@/v/2kola.md) {{ org_badge(org='ppw') }}
