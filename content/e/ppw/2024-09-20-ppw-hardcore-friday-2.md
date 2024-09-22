@@ -32,13 +32,13 @@ city = "Warszawa"
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
   - '[Samson](@/w/samson.md), [Johnny Blade](@/w/johnny-blade.md)'
   - s: Anarchy Cyclone Tag Team Match
-- - 'Axel Fox'
-  - 'Biesiad Strong'
-  - 'Gustav Gryffin'
-  - 'Johnny Blade'
-  - 'Mister Z'
-  - 'Olgierd'
-  - 'Samson'
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Mister Z](@/w/johnny-blade.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Samson](@/w/samson.md)'
   - g: true
     s: Zmowa vs Zmowa przeciwko zmowie face off
 - credits:
