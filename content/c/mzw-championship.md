@@ -196,6 +196,6 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - s: Singles match
     en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
-    en: 2024-10-12
+    ed: 2024-10-12
     nc: upcoming
 {% end %}
