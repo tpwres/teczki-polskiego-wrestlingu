@@ -13,7 +13,7 @@ city = "Warszawa"
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - -[Olgierd](@/w/olgierd.md)'
+  - '[Olgierd](@/w/olgierd.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - g: true
     s: New [PpW Championship](@/c/ppw-championship.md) revealed.
