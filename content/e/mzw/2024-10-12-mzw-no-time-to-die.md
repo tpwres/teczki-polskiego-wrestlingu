@@ -31,7 +31,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - nc: upcoming
-    c: MZW Championship
+    c: '[MZW Championship](@/c/mzw-championship.md')
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - nc: upcoming
@@ -40,7 +40,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
   - nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Sambor](@/w/sambor.md); Rusałka'
-  - c: '[PPW Championship](@/c/ppw-championship.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
 {% end %}
 
