@@ -38,7 +38,11 @@ However, some weeks later, they announced a charity show to take place in Kozł�
 The event's title is simply "Fighting for the Foundation", where the foundation in question is "Fundacja Nadzieja Dzieci" (_Children's Hope Foundation_).
 The event is officially not a part of the Underground series, but it was confirmed that it would continue storylines and feuds from those events.
 
-{{ skip_card() }}
+{% card() %}
+- - '["Starboy" Nano Lopes](@/w/nano-lopez.md)'
+  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - nc: upcoming
+{% end %}
 
 ### References
 
