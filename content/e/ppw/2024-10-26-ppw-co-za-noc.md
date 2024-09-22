@@ -25,7 +25,8 @@ city = "Warszawa"
     nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)(c)'
   - '[Isnorr](@/w/isnorr.md)'
-  - c: '[PpW European Ultraviolent](@/c/ppw-european-ultraviolent-championship.md)' (unconfirmed)
+  - c: '[PpW European Ultraviolent](@/c/ppw-european-ultraviolent-championship.md)'
+    n: Championship match not yet confirmed
     s: Blood God Ritual - Trial by Metal and Glass
     nc: upcoming
 {% end %}
