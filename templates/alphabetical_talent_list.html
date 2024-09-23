@@ -8,6 +8,8 @@
 
 {% set org_styles = config.extra.org_styles %}
 {% set all_talent_pages = section.pages %}
+{% set atp_index = all_talent_pages | group_by(attribute='title') %}
+{% set atp_index_cname = all_talent_pages | group_by(attribute='extra.career_name') %}
 {% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
 {% set career_dict = load_data(path="data/career.json") %}
 {% set all_matches = load_data(path="data/all_matches.json") %}
@@ -17,10 +19,9 @@
 
 {# The careers dict contains all names, with and without articles #}
 {% for name, _ in career_dict %}
-  {# Inefficient: O(n^2) #}
-  {% set talent_page = all_talent_pages|filter(attribute='title', value=name)|first %}
+  {% set talent_page = atp_index | get(key=name, default=[])|first %}
   {% if not talent_page %}
-    {% set talent_page = all_talent_pages|filter(attribute='extra.career_name', value=name)|first %}
+    {% set talent_page = atp_index_cname | get(key=name, default=[]) | first%}
   {% endif %}
   {% if talent_page %}
     {# This name has an actual talent page, record this as a P(age) record #}

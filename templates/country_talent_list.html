@@ -9,6 +9,8 @@
 {% set org_styles = config.extra.org_styles %}
 {% set talent_section = get_section(path='w/_index.md') %}
 {% set all_talent_pages = talent_section.pages %}
+{% set atp_index = all_talent_pages | group_by(attribute='title') %}
+{% set atp_index_cname = all_talent_pages | group_by(attribute='extra.career_name') %}
 {% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
 {% set country_names = load_data(path="const/country_names.yml") %}
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
@@ -19,9 +21,9 @@
 {% set_global all_names = [] %}
 
 {% for name, _ in career_dict %}
-  {% set talent_page = all_talent_pages|filter(attribute='title', value=name)|first %}
+  {% set talent_page = atp_index | get(key=name, default=[]) | first %}
   {% if not talent_page %}
-    {% set talent_page = all_talent_pages|filter(attribute='extra.career_name', value=name)|first %}
+    {% set talent_page = atp_index_cname | get(key=name, default=[]) | first %}
   {% endif %}
   {% if talent_page %}
     {% set country = talent_page.taxonomies.country | first %}
@@ -46,10 +48,12 @@
 
 {% set all_countries = all_names | map(attribute='0') | sort | unique %}
 {% set empty_obj = []|group_by(key=0) %}
+{% set rbc_grouped = all_names | group_by(attribute='0') %}
 
 {% for country, country_name in country_names %}
-  {% set recs_by_country = all_names | filter(attribute='0', value=country) | sort(attribute='1') %}
+  {% set recs_by_country = rbc_grouped[country] %}
   {% if recs_by_country | length == 0 %}{% continue %}{% endif %}
+  {% set recs_by_country = recs_by_country | sort(attribute='1') %}
 
   <h2 id="{{ country_name|slugify }}">
     {{ flag_dict | get(key=country, default='') }}
