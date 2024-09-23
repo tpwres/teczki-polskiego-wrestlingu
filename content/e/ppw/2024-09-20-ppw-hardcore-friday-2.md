@@ -101,6 +101,9 @@ city = "Warszawa"
 * Samson and Blade fight Isnorr for some near falls, eventually Gryffin makes his return to the ring. Gryffin is laid on the table, Samson with a frog splash for a near fall - Isnorr breaks the pin from the outside.
 * Low blow from Isnorr and heels get the upper hand. Gryffin straps Samson to the corner. They slam Blade through a board on the chairs, while Samson is only able to helplessly watch.
 * Isnorr pins Blade for a three-count. Winners: Isnorr and Gustav Gryffin.
+
+#### Finale
+
 * Heels continue to pummel Blade with helpless Samson still in the corner. Olgierd joins other heels in the beatdown now and hits Braindead on Blade. Axel Fox enters for a save to a monster pop. A masked figure lays him out with a kendo stick - it's Mister Z. They all beat Fox down and Biesiad is in, throwing some scaffolding into the ring.
 * Heels back away and it looks like "Zmowa przeciwko zmowie" is finally formed. Babyfaces free Samson and they all celebrate together. Biesiad challenges Mister Z to an "ustawka match" where each of them teams up with his respective crew.
 * Some taunting between the two teams and babyfaces celebrate once again to loud cheers and "PpW" chants.
