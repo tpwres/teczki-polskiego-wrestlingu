@@ -8,28 +8,8 @@ venue = ["dworek-kozlow"]
 [extra]
 hide_results = true
 city = "Kozłów"
-[extra.gallery.1]
-path = "2024-09-29-walczymy-ptw-dla-fundacji.jpg"
-caption = """\
-    Official poster. On the top is [Pawłowski](@/w/pan-pawlowski.md).
-    The wrestlers are: Rust, [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Puncher](@/w/puncher.md),
-    [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md),
-    [Krampus](@/w/krampus.md) and [Spartan](@/w/spartan.md)."""
-source = "Official PTW Facebook"
-[extra.gallery.2]
-path = "ptw-piknik.jpg"
-caption = """\
-    The foundation's official poster, mentioning PTW.
-    Besides wrestling, there will also be bouncy castles, a barbecue, ponies, a sports competition,
-    face painting and a lottery.
-    """
-source = "Vincent Caravaggio's Instagram story revealing the event"
-[extra.gallery.3]
-path = "walczymy-ptw-dla-fundacji-to-nie-underground.jpg"
-caption = """\
-    PTW's responce to a fan's question, confirming that the event is not Underground 23.
-    """
-source = "Official PTW Facebook"
+[extra.gallery]
+manifest = "@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji-gallery.toml"
 +++
 
 
@@ -39,8 +19,12 @@ The event's title is simply "Fighting for the Foundation", where the foundation 
 The event is officially not a part of the Underground series, but it was confirmed that it would continue storylines and feuds from those events.
 
 {% card() %}
-- - '["Starboy" Nano Lopes](@/w/nano-lopez.md)'
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - s: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
+- - '[Alex Brave](@/w/alex-brave.md)'
+  - 'LaVonce'
   - nc: upcoming
 {% end %}
 
