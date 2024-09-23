@@ -1,4 +1,4 @@
-[extra.gallery.1]
+[1]
 path = "2024-09-29-walczymy-ptw-dla-fundacji.jpg"
 caption = """\
     Official poster. On the top is [Pawłowski](@/w/pan-pawlowski.md).
@@ -6,7 +6,7 @@ caption = """\
     [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md),
     [Krampus](@/w/krampus.md) and [Spartan](@/w/spartan.md)."""
 source = "Official PTW Facebook"
-[extra.gallery.2]
+[2]
 path = "ptw-piknik.jpg"
 caption = """\
     The foundation's official poster, mentioning PTW.
@@ -14,19 +14,19 @@ caption = """\
     face painting and a lottery.
     """
 source = "Vincent Caravaggio's Instagram story revealing the event"
-[extra.gallery.3]
+[3]
 path = "walczymy-ptw-dla-fundacji-to-nie-underground.jpg"
 caption = """\
     PTW's responce to a fan's question, confirming that the event is not Underground 23.
     """
 source = "Official PTW Facebook"
-[extra.gallery.4]
+[4]
 path = "lopez-vs-puncher.jpg"
 caption = """\
     Announcement of "Starboy" Nano Lopez vs Dawid "Puncher" Seńko.
     """
 source = "Official PTW Facebook"
-[extra.gallery.5]
+[5]
 path = "alex-brave-vs-lavonce-sorry-ale-to-zle-mi-sie-kojarzy.jpg"
 caption = """\
     Announcement of Alex Brave vs LaVonce.
