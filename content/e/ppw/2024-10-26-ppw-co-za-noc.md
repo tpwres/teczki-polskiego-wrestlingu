@@ -21,7 +21,7 @@ city = "Warszawa"
     nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Samson](@/w/samson.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md) Strap Match'
     nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)(c)'
   - '[Isnorr](@/w/isnorr.md)'
