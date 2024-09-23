@@ -87,7 +87,7 @@ city = "Warszawa"
 
 * Referee of the match: Seweryn.
 * [Jacob Crane](@/w/jacob-crane.md) is out first, making a babyface entrance. [Marcelito](@/w/marcelito.md) is next. They start trading technical offense.
-* Crowd starts singing, but it's unrelated to the match - it's now 21:37 (the hour of pope John Paul II's death) and the song is ["Barka"](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore).
+* Crowd starts singing, but it's unrelated to the match - it's now 21:37 and the song is ["Barka"](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore).
 * Marcelito releases himself from Crane's grip and starts his sequence of striking moves. Satellite DDT on Crane but only a two-count. Crane back with his offense, Emerald Flowsion for a three-count. Winner: Jacob Crane
 * Crane grabs a mic for a promo; he appreciates the crowd liking his posterior and poses for the fans. He announces leaving for Japan for next 6 months, thanks the fans and wishes them fun for the rest of the show.
 
@@ -104,7 +104,8 @@ city = "Warszawa"
 
 #### Finale
 
-* Heels continue to pummel Blade with helpless Samson still in the corner. Olgierd joins other heels in the beatdown now and hits Braindead on Blade. Axel Fox enters for a save to a monster pop. A masked figure lays him out with a kendo stick - it's Mister Z. They all beat Fox down and Biesiad is in, throwing some scaffolding into the ring.
+* The Heels continue to pummel Blade, with a helpless Samson still in the corner. Olgierd joins the beatdown now and hits Braindead on Blade. Axel Fox enters for a save to monster pop. A masked figure lays him out with a kendo stick - it's Mister Z. They all beat Fox down.
+* Outside, the van returns, Biesiad runs into the venue. After a brief brawl, steps outside for a moment,  and returns with a piece of aluminium truss, throwing it into the ring, forcing the heels to take notice.
 * Heels back away and it looks like "Zmowa przeciwko zmowie" is finally formed. Babyfaces free Samson and they all celebrate together. Biesiad challenges Mister Z to an "ustawka match" where each of them teams up with his respective crew.
 * Some taunting between the two teams and babyfaces celebrate once again to loud cheers and "PpW" chants.
 * Michael HT confirms "Zmowa przeciwko zmowie vs Zmowa" for the [next show](@/e/ppw/2024-10-26-ppw-co-za-noc.md). He plugs the next shows and announces the start of ticket sale for the next day. Afterparty starts.
