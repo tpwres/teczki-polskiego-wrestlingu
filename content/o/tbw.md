@@ -7,26 +7,7 @@ toclevel = 3
 [taxonomies]
 chrono_root = ["tbw"]
 [extra.gallery]
-ahmed = { path = "ahmedchaer.jpg", caption = "Ahmed Chaer", source = "wrestling.nazwa.pl" }
-bjorn = { path = "bjornsem.jpg", caption = "Bjørn Sem", source = "wrestling.nazwa.pl" }
-chrisbambikiller = { path = "chrisbambikiller.jpg", caption = "Chris The Bambikiller", source = "wrestling.nazwa.pl"}
-chriscolen = { path = "chriscolen.jpg", caption = "Chris Colen", source = "wrestling.nazwa.pl"}
-colossos = { path = "collosos2.jpg", caption = "Colossos", source = "wrestling.nazwa.pl"}
-mike = { path = "crazysexymike.jpg", caption = "Crazy Sexy Mike", source = "wrestling.nazwa.pl"}
-cybernic = { path = "cybernic.jpg", caption = "Cybernic Machine", source = "wrestling.nazwa.pl"}
-damonbrix = { path = "damonbrix.jpg", caption = "Damon Brix", source = "wrestling.nazwa.pl"}
-erik = { path = "erikisaksen.jpg", caption = "Erik Isaksen", source = "wrestling.nazwa.pl"}
-dragon = { path = "flyingdragon.jpg", caption = "Flying Dragon", source = "wrestling.nazwa.pl"}
-heimo = { path = "heimo.jpg", caption = "Heimo Ukonselkä", source = "wrestling.nazwa.pl"}
-ivankiev = { path = "ivankiev.jpg", caption = "Ivan Kiev", source = "wrestling.nazwa.pl"}
-makoto = { path = "makoto.jpg", caption = "Makoto Morimitsu", source = "wrestling.nazwa.pl"}
-mertkaloglu = { path = "mertkaloglu.jpg", caption = "Mert Kaloglu", source = "wrestling.nazwa.pl"}
-mexx = { path = "mexx.jpg", caption = "Mexx", source = "wrestling.nazwa.pl"}
-kovac = { path = "michaelkovac.jpg", caption = "[Michael Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl"}
-scott = { path = "scottrider.jpg", caption = "Scott Rider", source = "wrestling.nazwa.pl"}
-starbuck = { path = "starbuck.jpg", caption = "Starbuck", source = "wrestling.nazwa.pl"}
-ultimo = { path = "ultimochingon.jpg", caption = "Ultimo Chingon", source = "wrestling.nazwa.pl"}
-vandamme = { path = "vandamme.jpg", caption = "Bernard Vandamme wearing the Eurostars European Heavyweight Championship", source = "wrestling.nazwa.pl"}
+manifest = "@/o/tbw-gallery.toml"
 +++
 
 Total Blast Wrestling was a short-lived organization created by Andrzej Supron and Paweł Borkowski, after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
