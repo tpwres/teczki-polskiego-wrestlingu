@@ -25,6 +25,9 @@ The event is officially not a part of the Underground series, but it was confirm
 - - '[Alex Brave](@/w/alex-brave.md)'
   - 'LaVonce'
   - nc: upcoming
+- - 'Miyagi Shida'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - nc: upcoming
 {% end %}
 
 ### References
