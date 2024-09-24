@@ -2,6 +2,8 @@
 title = "American Dream"
 weight = 0
 template = "article.html"
+[extra.gallery]
+1 = { path = "amerykanski-sen-plakat.jpg", caption = "Official film poster, featuring [Szymon Siwiec](@/w/szymon-siwiec.md).", source = "IMDb" }
 +++
 
 Amerykański Sen (_American Dream_) is a short documentary film from 2017. The film was directed by Marek Skrzecz, produced and released by Studio Munka.
