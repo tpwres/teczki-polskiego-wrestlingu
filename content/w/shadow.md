@@ -3,7 +3,7 @@ title = "Shadow"
 template = "talent_page.html"
 authors = ["M3n747"]
 [taxonomies]
-country = ["PL"]
+country = ["PL", "DE"]
 [extra]
 career_aliases = ["Straceniec", "Terry Shadow"]
 [extra.gallery]
