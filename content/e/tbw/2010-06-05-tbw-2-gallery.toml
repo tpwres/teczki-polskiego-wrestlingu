@@ -1,12 +1,12 @@
-1 = { path = "2010-06-05-tbw-2-plakat.jpg", caption = "Official poster, with Ultimo Chingón in the bottom-right corner.", source = "MyWrestling.com.pl" }
-2 = { path = "IMG_7220_1.jpeg", caption = "Show host Kuba Wątły", source = "wrestling.nazwa.pl" }
-3 = { path = "IMG_7221_1.jpeg", caption = "Show host Agnieszka Borkowska", source = "wrestling.nazwa.pl" }
-4 = { path = "IMG_7223_1.jpeg", caption = 'Owner, organiser and commentator Andrzej "The Professor of Wrestling" Supron', source = "wrestling.nazwa.pl" }
-5 = { path = "IMG_7228_1.jpeg", caption = 'Owner, organiser and commentator Paweł "Boryss" Borkowski', source = "wrestling.nazwa.pl" }
-6 = { path = "IMG_7247_1.jpeg", caption = "Mexx (upright)", source = "wrestling.nazwa.pl" }
-7 = { path = "IMG_7252_1.jpeg", caption = "Rambo running into Chris the Bambikiller, with Michael Kovac in the corner", source = "wrestling.nazwa.pl" }
-8 = { path = "IMG_7254_1.jpeg", caption = "Michael Kovac chopping Rambo in the corner", source = "wrestling.nazwa.pl" }
-9 = { path = "IMG_7269_1.jpeg", caption = "Rambo and Mexx with a double suplex to Kovac", source = "wrestling.nazwa.pl" }
+01 = { path = "2010-06-05-tbw-2-plakat.jpg", caption = "Official poster, with Ultimo Chingón in the bottom-right corner.", source = "MyWrestling.com.pl" }
+02 = { path = "IMG_7220_1.jpeg", caption = "Show host Kuba Wątły", source = "wrestling.nazwa.pl" }
+03 = { path = "IMG_7221_1.jpeg", caption = "Show host Agnieszka Borkowska", source = "wrestling.nazwa.pl" }
+04 = { path = "IMG_7223_1.jpeg", caption = 'Owner, organiser and commentator Andrzej "The Professor of Wrestling" Supron', source = "wrestling.nazwa.pl" }
+05 = { path = "IMG_7228_1.jpeg", caption = 'Owner, organiser and commentator Paweł "Boryss" Borkowski', source = "wrestling.nazwa.pl" }
+06 = { path = "IMG_7247_1.jpeg", caption = "Mexx (upright)", source = "wrestling.nazwa.pl" }
+07 = { path = "IMG_7252_1.jpeg", caption = "Rambo running into Chris the Bambikiller, with Michael Kovac in the corner", source = "wrestling.nazwa.pl" }
+08 = { path = "IMG_7254_1.jpeg", caption = "Michael Kovac chopping Rambo in the corner", source = "wrestling.nazwa.pl" }
+09 = { path = "IMG_7269_1.jpeg", caption = "Rambo and Mexx with a double suplex to Kovac", source = "wrestling.nazwa.pl" }
 10 = { path = "IMG_7274_1.jpeg", caption = "Chris the Bambikiller landing a splash on Rambo", source = "wrestling.nazwa.pl" }
 11 = { path = "IMG_7279_1.jpeg", caption = "Mexx throwing Kovac", source = "wrestling.nazwa.pl" }
 12 = { path = "IMG_7296_1.jpeg", caption = 'Kamil "Highlander" Bazelak', source = "wrestling.nazwa.pl" }
