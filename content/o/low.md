@@ -13,6 +13,7 @@ hide_events = 1
 1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
 2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "ShowOff's Instagram" }
 3 = { path = "low-qa-post.jpg", caption = "An official-looking document announcing a live Q&A session.", source = "Official LOW Facebook" }
+4 = { path = "legacy-1st-show-date.jpg", caption = "The date and location of the first show revealed.", source = "Official LOW Facebook" }
 +++
 
 ### History
