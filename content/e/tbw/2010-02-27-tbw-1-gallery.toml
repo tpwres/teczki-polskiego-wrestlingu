@@ -1,12 +1,12 @@
-1 = { path = "2010-02-27-tbw-1-plakat.jpg", caption = "Official poster, with Starbuck in the bottom-right corner.", source = "MyWrestling.com.pl" }
-2 = { path = "DSC_4585_1.JPG", caption = "Andrzej Supron opening the show", source = "wrestling.nazwa.pl" }
-3 = { path = "DSC_4597_1.JPG", caption = "Show hosts", source = "wrestling.nazwa.pl" }
-4 = { path = "DSC_4601_1.JPG", caption = "Chris Colen waving a Polish flag", source = "wrestling.nazwa.pl" }
-5 = { path = "DSC_4614_1.JPG", caption = "Chris Colen lifting Damon Brix", source = "wrestling.nazwa.pl" }
-6 = { path = "DSC_4636_1.JPG", caption = "Chris Colen and Damon Brix in the corner", source = "wrestling.nazwa.pl" }
-7 = { path = "DSC06404.JPG", caption = "Chris Colen jumping on Damon Brix", source = "wrestling.nazwa.pl" }
-8 = { path = "DSC_4656_1.JPG", caption = "Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
-9 = { path = "DSC_4680_1.JPG", caption = "Erik Isaksen (white trunks) dropping Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
+01 = { path = "2010-02-27-tbw-1-plakat.jpg", caption = "Official poster, with Starbuck in the bottom-right corner.", source = "MyWrestling.com.pl" }
+02 = { path = "DSC_4585_1.JPG", caption = "Andrzej Supron opening the show", source = "wrestling.nazwa.pl" }
+03 = { path = "DSC_4597_1.JPG", caption = "Show hosts", source = "wrestling.nazwa.pl" }
+04 = { path = "DSC_4601_1.JPG", caption = "Chris Colen waving a Polish flag", source = "wrestling.nazwa.pl" }
+05 = { path = "DSC_4614_1.JPG", caption = "Chris Colen lifting Damon Brix", source = "wrestling.nazwa.pl" }
+06 = { path = "DSC_4636_1.JPG", caption = "Chris Colen and Damon Brix in the corner", source = "wrestling.nazwa.pl" }
+07 = { path = "DSC06404.JPG", caption = "Chris Colen jumping on Damon Brix", source = "wrestling.nazwa.pl" }
+08 = { path = "DSC_4656_1.JPG", caption = "Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
+09 = { path = "DSC_4680_1.JPG", caption = "Erik Isaksen (white trunks) dropping Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
 10 = { path = "DSC06429.JPG", caption = "Erik Isaksen (white trunks) throwing Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
 11 = { path = "IMG_6385_1.JPG", caption = "Ivan Kiev (black and white pants) vs Bjørn Sem", source = "wrestling.nazwa.pl" }
 12 = { path = "DSC_4707_1.JPG", caption = "Ivan Kiev vs Bjørn Sem", source = "wrestling.nazwa.pl" }
