@@ -64,6 +64,10 @@ On 9.09.2024 LOW held a [live Q&A][live-qa] on YouTube hosted by [Piotr "ShowOff
 * The idea for Legacy of Wrestling began to take shape when first people [started leaving PTW](@/a/ptw-exits.md).
 * The abbreviation "LOW" will rarely be used, with "Legacy" being the official short name. "Legacy of Wrestling" was chosen in part jokingly, as they wanted people to have rather "LOW" expectations (unlike when PTW took off).
 
+#### Road to the first show
+
+On 25.09.2024 Legacy [posted to Facebook][fb-1st-show-date] revealing the date and location of the fist show: 1.12.2024 in the "Królestwo" music club in Katowice. In addition, a [short trailer][yt-1st-show-trailer] was posted to their YouTube channel, shot in the same location and starring the same people as the [reveal trailer][reveal-trailer].
+
 ### References
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
@@ -82,4 +86,5 @@ On 9.09.2024 LOW held a [live Q&A][live-qa] on YouTube hosted by [Piotr "ShowOff
 [yt-iw]:https://www.youtube.com/@IstotaWrestlingu
 [yt-blaze]:https://www.youtube.com/@blazewrestling/featured
 [yt-pat]:https://www.youtube.com/channel/UCy-vLx6AuT4F4iCHkqkNPFg
-
+[fb-1st-show-date]:https://www.facebook.com/permalink.php?story_fbid=953679250090327&id=61564064601704&substory_index=953679250090327
+[yt-1st-show-trailer]:https://www.youtube.com/watch?v=VltQ9RVeoOk
