@@ -33,7 +33,9 @@ The plate also contains some simple black ornaments and three red banners: the t
 the middle one with the word "International", and the bottom one with "Champion" engraved.
 Both sides of the Championship also feature sideplates - one with a big Polish flag, and the other with the DDW logo on it. The plates are attached to a standard black belt.
 
-## Champion #1: Joe Legend
+## Title history
+
+### Champion #1: Joe Legend
 
 {% free_card() %}
 - - '[Joe Legend](@/w/joe-legend.md)'
@@ -67,7 +69,7 @@ Both sides of the Championship also feature sideplates - one with a big Polish f
 Following DDW #7 the title was vacated and the promotion had no champion for 890 days.
 
 
-## Champion #2: Kamil Aleksander
+### Champion #2: Kamil Aleksander
 
 {% free_card() %}
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
