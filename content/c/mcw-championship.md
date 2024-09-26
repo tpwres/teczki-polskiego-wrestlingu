@@ -11,7 +11,9 @@ toclevel=2
 
 MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW starting years earlier, the belt was only introduced in late 2019 due lack of funds and personal difficulties, as well as the promotion's wish to have the best-looking title possible.
 
-## Champion #1: Johny Vegas
+## Title history
+
+### Champion #1: Johny Vegas
 
 {% free_card() %}
 - - '[Johny Vegas](@/w/johny-vegas.md)'
@@ -30,7 +32,7 @@ MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW 
 
 **TOTAL:** 1127 days.
 
-## Champion #2: RAV
+### Champion #2: RAV
 
 {% free_card() %}
 - - 'RAV'
