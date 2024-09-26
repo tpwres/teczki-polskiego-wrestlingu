@@ -17,7 +17,7 @@ However, some weeks later, they announced a charity show to take place in Koz≈Ç√
 The event's title is simply "Fighting for the Foundation", where the foundation in question is "Fundacja Nadzieja Dzieci" (_Children's Hope Foundation_).
 The event is officially not a part of the Underground series, but it was confirmed that it would continue storylines and feuds from those events.
 
-The event saw the return of LaVonce and the debut of the British wreslter Nightshade.
+The event saw the return of LaVonce and the debut of the British wrestler Nightshade.
 
 {% card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
