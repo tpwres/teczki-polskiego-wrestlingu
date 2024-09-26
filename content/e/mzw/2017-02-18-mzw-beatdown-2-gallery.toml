@@ -1,0 +1,8 @@
+01 = { path = "plakat.webp", caption = "Official poster.", source = "Facebook @ManiacZoneWrestling" }
+02 = { path = "mzw-beatdown-2-foto-01", caption = "Marcus Monere", source = "doba.pl" }
+03 = { path = "mzw-beatdown-2-foto-02", caption = "Lider vs Prince Victor", source = "doba.pl" }
+04 = { path = "mzw-beatdown-2-foto-03", caption = "Asmund vs Stanisław Van Dobroniak", source = "doba.pl" }
+05 = { path = "mzw-beatdown-2-foto-04", caption = "Skullevil vs Jędryś Bułecka", source = "doba.pl" }
+06 = { path = "mzw-beatdown-2-foto-05", caption = "Posse in Effect", source = "doba.pl" }
+07 = { path = "mzw-beatdown-2-foto-06", caption = "Hexia", source = "doba.pl" }
+08 = { path = "mzw-beatdown-2-foto-07", caption = "Franz Engel vs Shadow", source = "doba.pl" }
