@@ -30,6 +30,9 @@ city = "Warszawa"
     n: Championship match not yet confirmed
     s: Blood God Ritual - Trial by Metal and Glass
     nc: upcoming
+- - '[Alex Arthur](@/w/alex-arthur.md)'
+  - '[Bill Feager](@/w/feager.md)'
+  - nc: upcoming
 {% end %}
 
 ## References
