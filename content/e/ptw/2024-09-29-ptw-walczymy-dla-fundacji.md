@@ -28,6 +28,9 @@ The event is officially not a part of the Underground series, but it was confirm
 - - 'Miyagi Shida'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Nightshade'
+  - nc: upcoming
 {% end %}
 
 ### References
