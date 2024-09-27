@@ -1,8 +1,33 @@
-01 = { path = "plakat.webp", caption = "Official poster.", source = "Facebook @ManiacZoneWrestling" }
-02 = { path = "mzw-beatdown-2-foto-01.jpg", caption = "Marcus Monere", source = "doba.pl" }
-03 = { path = "mzw-beatdown-2-foto-02.jpg", caption = "Lider vs Prince Victor", source = "doba.pl" }
-04 = { path = "mzw-beatdown-2-foto-03.jpg", caption = "Asmund vs Stanisław Van Dobroniak", source = "doba.pl" }
-05 = { path = "mzw-beatdown-2-foto-04.jpg", caption = "Skullevil vs Jędruś Bułecka", source = "doba.pl" }
-06 = { path = "mzw-beatdown-2-foto-05.jpg", caption = "Posse in Effect", source = "doba.pl" }
-07 = { path = "mzw-beatdown-2-foto-06.jpg", caption = "Hexia", source = "doba.pl" }
-08 = { path = "mzw-beatdown-2-foto-07.jpg", caption = "Franz Engel vs Shadow", source = "doba.pl" }
+[01]
+path = "plakat.webp"
+caption = "Official poster."
+source = "Facebook @ManiacZoneWrestling"
+[02]
+path = "mzw-beatdown-2-foto-01.jpg"
+caption = "Marcus Monere"
+source = "doba.pl"
+[03]
+path = "mzw-beatdown-2-foto-02.jpg"
+caption = "Lider vs [Prince Victor](@/w/vic-golden.md)"
+source = "doba.pl"
+[04]
+path = "mzw-beatdown-2-foto-03.jpg"
+caption = "[Asmund](@/w/asmund.md) vs [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+source = "doba.pl"
+[05]
+path = "mzw-beatdown-2-foto-04.jpg"
+caption = "Skullevil vs [Jędruś Bułecka](@/w/jedrus-bulecka.md) (in his Patriota gimmick)"
+source = "doba.pl"
+[06]
+path = "mzw-beatdown-2-foto-05.jpg"
+caption = "Posse in Effect"
+source = "doba.pl"
+[07]
+path = "mzw-beatdown-2-foto-06.jpg"
+caption = "The unbeatable [Hexia](@/w/hexia.md)"
+source = "doba.pl"
+[08]
+path = "mzw-beatdown-2-foto-07.jpg"
+caption = "[Franz Engel](@/w/franz-engel.md) vs [Shadow](@/w/shadow.md)"
+source = "doba.pl"
+
