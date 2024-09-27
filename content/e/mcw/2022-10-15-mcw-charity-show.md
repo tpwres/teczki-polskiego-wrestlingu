@@ -24,7 +24,7 @@ The show featured two fights. The first one was a singles match between the two 
 - - '[RAV](@/w/rav.md)'
   - '[Johny Vegas](@/w/johny-vegas.md)(c)'
   - s: No Disqualification Best 3 Out Of 5 Falls Match
-    c: MCW Championship
+    c: '[MCW Championship](@/c/mcw-championship.md)'
     n: RAV won the match 3:2
 {% end %}
 
