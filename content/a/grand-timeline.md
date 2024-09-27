@@ -3,7 +3,15 @@ title = "Grand Timeline"
 template = "article.html"
 weight = 0
 authors = ["Krzysztof Zych"]
+description = """\
+  A timeline of key events in Polish wrestling history, from the 1800s to modern day.
+"""
 +++
+
+This article presents a timeline view of key events in Polish wrestling history. It is a condensed version of the [Prehistory article](@/a/prehistory.md) and expands on the modern era not covered by that article.
+An even more condensed version, in the form of a timeline graph covering the modern era, can be found in [Chronology](@/a/chronology.md).
+
+<!-- more -->
 
 {% timeline() %}
 #### 1800s
@@ -46,13 +54,13 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2005
 
-* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are Pomerania Indy Wrestling Group from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. See the timeline in [Chronology of Polish wrestling](@/a/chronology.md).
+* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are Pomerania Indy Wrestling Group from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
 
 #### 2009
 
 * [Don Roid](@/w/don-roid.md), an American wrestler, settles in Poland in the mid-2000s. Discovering the non-existent state of pro-wrestling in the country, he opens [Do Or Die Wrestling](@/o/ddw.md), importing a proper ring and training rookies. Some of these rookies come from backyards.
-* [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) joins Do Or Die Wrestling, hones his promo skills, becomes a manager character.
-* Roid also contacts Supron and Borkowski, quickly gaining their support. However, the organization struggles with selling tickets and gaining the public's attention. Despite that, they hold three small events in Warsaw. One of their wrestlers is [Marcin Wilkowski](@/w/jedrus-bulecka.md) who will soon take on the gimmick of Jędruś Bułecka.
+* [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) joins Do Or Die Wrestling, hones his promo skills, becomes a heel manager character.
+* Roid also contacts Supron and Borkowski, quickly gaining their support. However, the organization struggles with selling tickets and gaining the public's attention. Despite that, they hold three small events in Warsaw. One of their wrestlers is Marcin Michalski who will soon take on the gimmick of [Jędruś Bułecka](@/w/jedrus-bulecka.md).
 
 #### 2010
 
@@ -65,7 +73,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * WWE comes to Poland for the first time ever: [Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) is held in Gdańsk.
 * [PXW](@/o/pxw.md), a backyard in Głuchołazy in Lower Silesia, starts holding events on a makeshift ring. Among their ranks is one high-flying, risk-taking Terry Shadow.
 * DDW holds their [fifth major event](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md) near Wrocław.
-* A backyard group in Silesia forms, calls itself [Mine City Wrestling](@/o/mcw.md).
+* A backyard group in Silesia forms, choosing to name themselves [Mine City Wrestling](@/o/mcw.md).
 
 #### 2012
 
@@ -106,7 +114,8 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2018
 
-* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, become [The Greens](@/a/the-greens.md).
+* MZW [moves permanently](@/o/paw.md#2018-2019-moving-to-wroclaw) from Głuchołazy to Wrocław. This boosts attendance at their training sessions greatly.
+* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, form a group known as [The Greens](@/a/the-greens.md).
 
 #### 2019
 
@@ -123,12 +132,12 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * Still under COVID restrictions, MZW records a six-episode wrestling series and releases it on YouTube. The series is a tournament for their [vacant championship](@/c/mzw-championship.md).
 * With the restrictions lifted, PpW is invited to Poznań to perform as part of a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md).
-* KPW holds their [first show](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md) after an 18-month long hiatus.
+* KPW holds their [comeback show](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md) after an 18-month long hiatus.
 * [Prime Time Wrestling](@/o/ptw.md) is revealed to be Pawłowski's new organization, and they hold their [first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in October, in Chorzów. Among their roster are the aforementioned Amisz as [Axel Fox](@/w/axel-fox.md), Borowsky as [Boro](@/w/boro.md) and Kamiński as [Jacob Crane](@/w/jacob-crane.md).
 
 #### 2022
 
-* KPW is [invited to Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), Poland's biggest fan convention. They would enjoy a successful show, and return in the following years.
+* KPW is [invited to Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), Poland's biggest fan convention. The show is successful, and will become a recurring staple of the event.
 * Not to be outdone, PTW becomes [part of RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
 * PTW holds their Underground series of shows regularly almost every month, giving fans more wrestling than ever before. From the [fourth show](@/e/ptw/2022-04-24-ptw-underground-4.md) onwards, they are streamed live on FITE and YouTube.
 * Jacob Crane quits PTW after only a year, appears as a surprise contender for PpW and becomes their trainer.
@@ -142,6 +151,6 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * PpW buys a full-size wrestling ring from Supron, the same one he bought for PPWF back in 2003.
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
-* After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces its first show to be held in December.
-* PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
+* As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
+* After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces its [first show](@/e/low/2024-12-01-low-1.md) to be held in December.
 {% end %}
