@@ -33,6 +33,9 @@ The event saw the return of LaVonce and the debut of the British wrestler Nights
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Nightshade'
   - nc: upcoming
+- - 'Luca Bjorn'
+  - '[Spartan](@/w/spartan.md)'
+  - nc: upcoming
 {% end %}
 
 ### References
