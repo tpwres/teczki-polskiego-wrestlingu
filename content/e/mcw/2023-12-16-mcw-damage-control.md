@@ -25,7 +25,7 @@ This was a charity event held at Primary School no. 20 in Siemianowice Śląskie
   - 'Jack Kalom'
   - '[Johny Vegas](@/w/johny-vegas.md)'
   - s: Fatal Four-Way Match
-    c: MCW Championship
+    c: '[MCW Championship](@/c/mcw-championship.md)'
 {% end %}
 
 In a show of awareness rarely seen on the Polish wrestling scene, in his promo before the match RAV said "We have many cool federations: [KPW](@/o/kpw.md), [MZW](@/o/mzw.md), [PpW](@/o/ppw.md), [PTW](@/o/ptw.md)".
