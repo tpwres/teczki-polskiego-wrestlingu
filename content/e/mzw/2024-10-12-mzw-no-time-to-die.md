@@ -42,6 +42,10 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
   - '[Sambor](@/w/sambor.md); Rusałka'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
+- - '[Bill Feager](@/w/feager.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - s: No DQ Match
+    nc: upcoming
 {% end %}
 
 ## References
