@@ -46,7 +46,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2005
 
-* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are Pomerania Indy Wrestling Group from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive.
+* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are Pomerania Indy Wrestling Group from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. See the timeline in [Chronology of Polish wrestling](@/a/chronology.md).
 
 #### 2009
 
@@ -58,14 +58,14 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * Borkowski and Supron end their relation with DDW, and start [Total Blast Wrestling](@/o/tbw.md), holding two well-received shows with talent from major European organizations at the time, in [Radom](@/e/tbw/2010-02-27-tbw-1.md) and [Zawiercie](@/e/tbw/2010-06-05-tbw-2.md).
 * However, the events weren't financially successful, and the organization folded after the second show.
-* A group of teenage friends starts emulating their wrestling heroes after school in Warsaw. They call themselves [Polski Poszkolny Wrestling](@/o/ppw.md).
+* A group of teenage friends starts emulating their wrestling heroes after school in Warsaw. They call themselves _Polski Podwórkowy Wrestling_.
 
 #### 2011
 
 * WWE comes to Poland for the first time ever: [Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) is held in Gdańsk.
-* [PXW](@/o/pxw.md), a backyard in Głuchołazy in Lower Silesia, starts holding events on a makeshift ring. Among their ranks is one high-flying, risk-taking [Terry Shadow](@/w/shadow.md).
+* [PXW](@/o/pxw.md), a backyard in Głuchołazy in Lower Silesia, starts holding events on a makeshift ring. Among their ranks is one high-flying, risk-taking Terry Shadow.
 * DDW holds their [fifth major event](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md) near Wrocław.
-* [Mine City Wrestling](@/o/mcw.md) is created, but kept under wraps for now.
+* A backyard group in Silesia forms, calls itself [Mine City Wrestling](@/o/mcw.md).
 
 #### 2012
 
@@ -78,18 +78,18 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * WWE holds [another house show](@/e/wwe/2013-04-27-wwe-raw-house-show.md) in Poland, this time in Łódź.
 * DDW holds their [ninth event](@/e/ddw/2013-10-25-ddw-9.md), infamous for very low attendance. This prompts Straceniec and Jędruś Bułecka to leave the organization and return to Głuchołazy, planning something new.
 * PXW, the backyard from Głuchołazy, folds.
-* Mine City Wrestling is revealed to public in December.
 
 #### 2014
 
-* The former Straceniec, now known as Shadow, along with Jędruś Bułecka, purchase a professional wrestling ring and create [Maniac Zone Wrestling](@/o/mzw.md). They hold shows in Głuchołazy and various small towns in the region.
-* DDW moves to Gdańsk, hoping to attract greater attention in the larger metropolitan area than in Rzeszów.
+* The former Straceniec, now known as [Shadow](@/w/shadow.md), along with Jędruś Bułecka, purchase a professional wrestling ring and create [Maniac Zone Wrestling](@/o/mzw.md). They hold shows in Głuchołazy and various small towns in the region.
+* Director Marek Skrzecz follows MZW's early events with a film crew, recording a documentary feature he'll release as [_American Dream_](@/a/american-dream.md).
+* DDW moves to Gdańsk, hoping to attract greater attention in a larger metropolitan area than its original home Rzeszów.
 
 #### 2015
 
 * WWE holds their [last show](@/e/wwe/2015-04-15-wwe-live.md) in Poland to date.
 * Don Roid is forced to travel hundreds of kilometers from Rzeszów to Gdańsk to oversee the organization. He quickly gets tired of it, sells the ring and closes down DDW.
-* The buyers of that ring are a group of his wrestlers, including Pawłowski. They start a new organization called [Kombat Pro Wrestling](@/o/kpw.md), and co-opt nearly the entire former roster of DDW.
+* The buyers of that ring are a group of his wrestlers, including Pawłowski. They start a new organization called [Kombat Pro Wrestling](@/o/kpw.md), and recruit nearly the entire former roster of DDW.
 * Two backyards in Kuyavia, one from Toruń and one from Grudziądz, join forces. They become [Dream Factory Wrestling](@/o/dfw.md) and obtain a proper ring.
 
 #### 2016
@@ -115,7 +115,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2020
 
-* The backyard group from Warsaw, known as [PpW](@/o/ppw.md), goes pro and holds their first show, [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), donating all gate profits to dog shelters in the area.
+* The backyard group from Warsaw, now known as [PpW Ewenement](@/o/ppw.md), goes pro and holds their first show, [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), donating all gate profits to dog shelters in the area.
 * COVID-19 hits, lockdown ensues, and **all wrestling is cancelled** for more than a year.
 * Pawłowski announces a new organization, entices many wrestlers to join it, draining the rosters of both MZW and KPW. Due to lockdowns, however, their first show is postponed.
 
@@ -135,13 +135,13 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2023
 
-* PTW holds their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md) in Wrocław in June, in [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to their previous major shows, is stark.
+* PTW holds their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md) in Wrocław in June, in [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
 * In September, MZW and PpW hold a [co-branded show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) in Wrocław, in the exact same venue, making history as the first such act of collaboration in Poland.
 
 #### 2024
 
 * PpW buys a full-size wrestling ring from Supron, the same one he bought for PPWF back in 2003.
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
-* After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md)
+* After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces its first show to be held in December.
 * PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
 {% end %}
