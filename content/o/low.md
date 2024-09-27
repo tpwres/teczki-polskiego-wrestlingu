@@ -13,7 +13,7 @@ hide_events = 1
 1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
 2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "ShowOff's Instagram" }
 3 = { path = "low-qa-post.jpg", caption = "An official-looking document announcing a live Q&A session.", source = "Official LOW Facebook" }
-4 = { path = "legacy-1st-show-date.jpg", caption = "The date and location of the first show revealed.", source = "Official LOW Facebook" }
+4 = { path = "legacy-1st-show-date.jpg", caption = "The date and location of the [first show](@/e/low/2024-12-01-low-1.md) revealed.", source = "Official LOW Facebook" }
 +++
 
 ### History
@@ -42,7 +42,7 @@ On 9.09.2024 LOW held a [live Q&A][live-qa] on YouTube hosted by [Piotr "ShowOff
 * The enigmatic "Mister Chairman" is someone who's been following Polish wrestling from the back seat and now wants to do something his own way. He is neither ["Pan" Pawłowski](@/w/pan-pawlowski.md) nor [PTW](@/o/ptw.md)'s co-founder, Rzeźnik.
 * Legacy won't have their own roster of home-grown talent. Instead, they're aiming to be an indie federation, offering wrestlers from other promotions a place to work and gain experience and exposure.
 * They want to cooperate relatively regularly with a core group of people allowing them to build storylines, while inviting other wrestlers from Poland and perhaps even from abroad (though from nearby rather than from far away).
-* Legacy talked to nearly every Polish promotion and hope to have talked to all of them before the first show.
+* Legacy talked to nearly every Polish promotion and hope to have talked to all of them before the [first show](@/e/low/2024-12-01-low-1.md).
 * The group will most likely be based in Katowice, with shows in other cities being a possibility, though not the main focus.
 * LOW is not connected to PTW, aside from the experience gained there and the ambition to improve on some of PTW's perceived shortcomings.
 * The first show will be their version of [All In][all-in], meant to test how much can be done within the context of one event, and based on that they'll decide on the best course of action to take.
@@ -65,9 +65,25 @@ On 9.09.2024 LOW held a [live Q&A][live-qa] on YouTube hosted by [Piotr "ShowOff
 * The idea for Legacy of Wrestling began to take shape when first people [started leaving PTW](@/a/ptw-exits.md).
 * The abbreviation "LOW" will rarely be used, with "Legacy" being the official short name. "Legacy of Wrestling" was chosen in part jokingly, as they wanted people to have rather "LOW" expectations (unlike when PTW took off).
 
-#### Road to the first show
+#### The road to the first show
 
 On 25.09.2024 Legacy [posted to Facebook][fb-1st-show-date] revealing the date and location of the fist show: 1.12.2024 in the Królestwo music club in Katowice. In addition, a [short trailer][yt-1st-show-trailer] was posted to their YouTube channel, shot in the same location and starring the same people as the [reveal trailer][reveal-trailer].
+
+The next day there was another live Q&A, once again hosted by [ShowOff](@/w/piotr-malecki.md).
+
+* [Sinister](@/w/sinister.md) and [Dziedzic](@/w/dziedzic.md) will appear at the show; Sinister's stable may or may not exist any more.
+* In one of the comments [Filip Fux](@/w/filip-fux.md) said "Once you have those tag team titles, let us know".
+* They don't want to be PTW 2.0 and "clinically PG", but also don't want to go to the opposite extreme. The "hardcore level" of PTW, such as [Axel Fox vs Justin Joy](@/e/ptw/2022-11-26-ptw-3-legends.md), is enough.
+* The venue should hold about 300 people.
+* The [first show](@/e/low/2024-12-01-low-1.md) might be the only one, but LOW have long-term plans nonetheless.
+* Legacy spoke to [MCW](@/o/mcw.md), but not in the context of wrestlers.
+* There's going to be a Patronite (a Polish Patreon equivallent) offering a limited run of T-shirts.
+* A live stream was confirmed, although the platform has not yet been decided upon. A few options are being considered.
+* The first event won't have a subtitle or a number, it'll simply be named "Legacy of Wrestling".
+* The full card should be known in the first week of November and the first match in mid-October.
+* There's going to be a match between wrestlers from different federations.
+* Legacy are happy with their talks with other promotions.
+* The first event should be about 2:30-2:45 hours long.
 
 ### References
 

@@ -1,4 +1,5 @@
 01 = { path = "plakat.webp", caption = "Official poster.", source = "Facebook @ManiacZoneWrestling" }
+M3n747-20240926-mzw-beatdown-2-galeria-update
 02 = { path = "mzw-beatdown-2-foto-01.jpg", caption = "Marcus Monere", source = "doba.pl" }
 03 = { path = "mzw-beatdown-2-foto-02.jpg", caption = "Lider vs Prince Victor", source = "doba.pl" }
 04 = { path = "mzw-beatdown-2-foto-03.jpg", caption = "Asmund vs Stanisław Van Dobroniak", source = "doba.pl" }
@@ -6,3 +7,4 @@
 06 = { path = "mzw-beatdown-2-foto-05.jpg", caption = "Posse in Effect", source = "doba.pl" }
 07 = { path = "mzw-beatdown-2-foto-06.jpg", caption = "Hexia", source = "doba.pl" }
 08 = { path = "mzw-beatdown-2-foto-07.jpg", caption = "Franz Engel vs Shadow", source = "doba.pl" }
+main

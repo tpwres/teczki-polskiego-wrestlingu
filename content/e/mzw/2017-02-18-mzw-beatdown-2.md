@@ -7,7 +7,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 [extra.gallery]
-1 = { path = "plakat.webp", caption = "Official poster.", source = "Facebook @ManiacZoneWrestling" }
+manifest = "@/e/mzw/2017-02-18-mzw-beatdown-2-gallery.toml"
 +++
 
 {% card() %}

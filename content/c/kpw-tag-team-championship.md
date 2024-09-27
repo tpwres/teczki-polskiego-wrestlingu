@@ -19,7 +19,9 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 * Most reigns: N/A
 * Longest reign: The Hunt: Primate & Wild Boar (959 days)
 
-## Champions #1: Sawicki & Victor Rosetti
+## Title history
+
+### Champions #1: Sawicki & Victor Rosetti
 
 {% free_card() %}
 - - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
@@ -46,7 +48,7 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 
 **TOTAL:** 455 days.
 
-## Champions #2: The Hunt: Primate & Wild Boar
+### Champions #2: The Hunt: Primate & Wild Boar
 
 {% free_card() %}
 - - "The Hunt: Primate, Wild Boar"
@@ -69,7 +71,7 @@ Over 500 days of The Hunt's title run fell on the COVID-19 pandemic.
 
 Wild Boar was injured a couple of days before the event and was replaced by Tommy Freeman. The Tag Team belts were therefore vacated during the show.
 
-## Champions #3: Die Ordnung: Hans Schulte & Veit Müller
+### Champions #3: Die Ordnung: Hans Schulte & Veit Müller
 
 {% free_card() %}
 - - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md)"
@@ -98,7 +100,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 
 **TOTAL:** 335 days.
 
-## Champions #4: The Fux Brothers: Filip Fux & Michał Fux
+### Champions #4: The Fux Brothers: Filip Fux & Michał Fux
 
 {% free_card() %}
 - - "The Fux Brothers: Filip Fux, Michał Fux"
