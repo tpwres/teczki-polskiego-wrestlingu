@@ -7,9 +7,9 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
-1 = { path = "brutality-2017-pic-1.jpg", caption = "Official poster", source = "[Rob Scaffold](@/w/rob-scaffold.md) vs [Steven Strong](@/w/biesiad.md)" }
-2 = { path = "brutality-2017-pic-2.jpg", caption = "Official poster", source = "[Johnny Blade](@/w/johnny-blade.md) vs Hardcore Icon" }
-3 = { path = "brutality-2017-pic-3.jpg", caption = "Official poster", source = "[Mister Z](@/w/mister-z.md) vs [Feager](@/w/feager.md), [PpW Championship](@/c/ppw-championship.md) Match - announced, but not seen. " }
+1 = { path = "brutality-2017-pic-1.jpg", caption = "[Rob Scaffold](@/w/rob-scaffold.md) vs [Steven Strong](@/w/biesiad.md)", source = "Official PpW Facebook" }
+2 = { path = "brutality-2017-pic-2.jpg", caption = "[Johnny Blade](@/w/johnny-blade.md) vs Hardcore Icon", source = "Official PpW Facebook" }
+3 = { path = "brutality-2017-pic-3.jpg", caption = "[Mister Z](@/w/mister-z.md) vs [Feager](@/w/feager.md), [PpW Championship](@/c/ppw-championship.md) Match - announced, but not seen.", source = "Official PpW Facebook" }
 +++
 
 "Brutality 2017" was an early PpW backyard show, taking place in a lot at Winogronowa 17 street, that belonged to the grandfather of someone called Lemur. The Brutality series focused on hardcore matches and featured the roster from their [Hardcore Friday](https://ppw-fandom.tpwres.pl/hardcore-friday) division. True to the name, the main event of the show featured barbed wire, panes of glass and light tubes taped to the ropes, among other items.
