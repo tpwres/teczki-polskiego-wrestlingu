@@ -36,10 +36,11 @@ The main event featured Hardcore Icon, a guest from Halemba Power Wrestling (ano
 
 * One of the fans kept drumming on a plastic roadblock barrier since the start of the main event. Perhaps fed up with it, Harcore Icon ended up throwing Johnny Blade at him.
 * Midway through the main event, the referee hit Hardcore Icon with a light tube, prompting Johnny Blade to attack the ref.
-* The Facebook event [announced][feager-vs-z] a match between [Mister Z](@/w/mister-z.md) and [Feager](@/w/feager.md) for the [PpW Championship](@/c/ppw-championship.md), but it either didn't happen, or wasn't recorded.
+* The Facebook event [announced][fb-event] a match between [Mister Z](@/w/mister-z.md) and [Feager](@/w/feager.md) for the [PpW Championship](@/c/ppw-championship.md), but it either didn't happen, or wasn't recorded.
+* The Facebook event also had an image saying "Battle Royal", but that match didn't happen either.
 
 ### References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=9eon4bjo9JI)
 
-[feager-vs-z]: https://www.facebook.com/photo/?fbid=738706186303593&set=pcb.193982747756723
+[fb-event]: https://www.facebook.com/events/191171424704522/?active_tab=discussion
