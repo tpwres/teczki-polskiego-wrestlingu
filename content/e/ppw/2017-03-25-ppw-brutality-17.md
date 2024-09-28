@@ -1,5 +1,5 @@
 +++
-title = "PpW Brutality 2017"
+title = "PpW Brutality '17"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
