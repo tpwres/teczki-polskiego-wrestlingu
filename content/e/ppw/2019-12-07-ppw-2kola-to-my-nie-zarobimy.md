@@ -22,7 +22,7 @@ This was likely the first PpW event open for general public, as opposed to frien
 - - '[Tony Sk1n](@/w/tony-sk1n.md)'
   - 'Adam'
   - nc: '?'
-    n: Pre-show
+    s: Pre-show
 - - '[Mister Z](@/w/mister-z.md)(c)'
   - 'Terry Shadow (impostor)'
   - nc: '?'
