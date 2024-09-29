@@ -5,6 +5,9 @@ template = "talent_page.html"
 country = ["PL"]
 [extra]
 career_aliases = ["Hades", "Krueger"]
+[extra.gallery]
+1 = { path = "olgierd-ptw6.jpg", caption = "Olgierd's entrance, [Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md).", source = "Official PTW YouTube" }
+2 = { path = "sedzia-olgierd.jpg", caption = "Olgierd acting as a referee at [Brutality '17](@/e/ppw/2017-03-25-ppw-brutality-17.md).", source = "Official PpW YouTube" }
 +++
 
 ## Basic info
