@@ -1,0 +1,11 @@
+{% if page.extra.gallery.manifest %}
+  {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}
+{% else %}
+  {% set gallery_items = page.extra.gallery %}
+{% endif %}
+{% set root = config.extra.gallery_root ~ page.path %}
+{% for key, item in gallery_items %}
+  {% set path = item.path -%}
+  <meta property="og:image" content="{{ root ~ path }}" />
+  {% break %}
+{% endfor %}

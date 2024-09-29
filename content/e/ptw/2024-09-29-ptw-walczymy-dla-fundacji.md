@@ -36,6 +36,9 @@ The event saw the return of LaVonce and the debut of the British wrestler Nights
 - - 'Luca Bjorn'
   - '[Spartan](@/w/spartan.md)'
   - nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Rust'
+  - nc: upcoming
 {% end %}
 
 ### References
