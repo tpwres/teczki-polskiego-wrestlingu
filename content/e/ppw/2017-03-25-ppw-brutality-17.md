@@ -13,9 +13,13 @@ city = "Warszawa"
 4 = { path = "brutality-2017-pic-3.jpg", caption = "[Mister Z](@/w/mister-z.md) vs [Feager](@/w/feager.md), [PpW Championship](@/c/ppw-championship.md) Match - announced, but not seen.", source = "Official PpW Facebook" }
 +++
 
-"Brutality 2017" was an early PpW backyard show, taking place in a lot at Winogronowa 17 street, that belonged to the grandfather of someone called Lemur. The Brutality series focused on hardcore matches and featured the roster from their [Hardcore Friday](https://ppw-fandom.tpwres.pl/hardcore-friday) division. True to the name, the main event of the show featured barbed wire, panes of glass and light tubes taped to the ropes, among other items.
+"Brutality 2017" was a backyard-era [PpW](@/o/ppw.md) show, staged on an outdoors ring located in a vacant lot at Winogronowa 17 in Warsaw.
+According to [the Wiki][ppw-wiki-dzialka] this was PpW's main venue in that era, and belonged to the grandfather of someone called Lemur.
+The Brutality series focused on hardcore matches, and featured the roster from their [Hardcore Friday][hc-friday-wiki] division.
+True to the name, the main event of the show featured barbed wire, chain-link fence, panes of glass and light tubes taped to the ropes, among other items.
 
-The main event featured Hardcore Icon, a guest from Halemba Power Wrestling (another backyard, from Ruda Śląska) and their reigning Hardcore Champion at the time. This was the final PpW show to use the old DIY ring.
+The main event featured Hardcore Icon, a guest from Halemba Power Wrestling (a backyard from Ruda Śląska) and their reigning Hardcore Champion at the time.
+This was the final PpW show to use the old DIY ring.
 
 {% card() %}
 - - 'Jim Enerico'
@@ -37,10 +41,12 @@ The main event featured Hardcore Icon, a guest from Halemba Power Wrestling (ano
 * One of the fans kept drumming on a plastic roadblock barrier since the start of the main event. Perhaps fed up with it, Harcore Icon ended up throwing Johnny Blade at him.
 * Midway through the main event, the referee hit Hardcore Icon with a light tube, prompting Johnny Blade to attack the ref.
 * The Facebook event [announced][fb-event] a match between [Mister Z](@/w/mister-z.md) and [Feager](@/w/feager.md) for the [PpW Championship](@/c/ppw-championship.md), but it either didn't happen, or wasn't recorded.
-* The Facebook event also had an image saying "Battle Royal", but that match didn't happen either.
+* The Facebook event also had an image saying "Battle Royal", but that match is also missing from the video.
 
 ### References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=9eon4bjo9JI)
 
-[fb-event]: https://www.facebook.com/events/191171424704522/?active_tab=discussion
+[fb-event]: //www.facebook.com/events/191171424704522/?active_tab=discussion
+[ppw-wiki-dzialka]: //ppw-fandom.tpwres.pl/dzialka-dziadka-lemura
+[hc-friday-wiki]: //ppw-fandom.tpwres.pl/hardcore-friday
