@@ -13,7 +13,7 @@ city = "Warszawa"
 4 = { path = "brutality-2017-pic-3.jpg", caption = "[Mister Z](@/w/mister-z.md) vs [Feager](@/w/feager.md), [PpW Championship](@/c/ppw-championship.md) Match - announced, but not seen.", source = "Official PpW Facebook" }
 +++
 
-"Brutality 2017" was a backyard-era [PpW](@/o/ppw.md) show, staged on an outdoors ring located in a vacant lot at Winogronowa 17 in Warsaw.
+Brutality '17 was a backyard-era [PpW](@/o/ppw.md) show, staged on an outdoors ring located in a vacant lot at Winogronowa 17 in Warsaw.
 According to [the Wiki][ppw-wiki-dzialka] this was PpW's main venue in that era, and belonged to the grandfather of someone called Lemur.
 The Brutality series focused on hardcore matches, and featured the roster from their [Hardcore Friday][hc-friday-wiki] division.
 True to the name, the main event of the show featured barbed wire, chain-link fence, panes of glass and light tubes taped to the ropes, among other items.
