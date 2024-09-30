@@ -6,7 +6,6 @@ authors = ["M3n747", "Krzysztof Zych"]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 manifest = "@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji-gallery.toml"
