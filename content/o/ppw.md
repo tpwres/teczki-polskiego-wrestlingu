@@ -88,7 +88,7 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 
 ## Mainstream media
 
-On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured a brief segment with PpW's wrestlers [Biesiad](@/w/biesiad.md), [Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Gustav brought his custom [PpW Championship](@/c/ppw-championship.md) belt, which was prominently displayed on a coffee table, with PpW's logo clearly legible.
+On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured [a brief segment][halo-tu-ppw] with PpW's wrestlers [Biesiad](@/w/biesiad.md), [Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Gustav brought his custom [PpW Championship](@/c/ppw-championship.md) belt, which was prominently displayed on a coffee table, with PpW's logo clearly legible.
 The hosts asked the wrestlers several questions, including about the nature of kayfabe and their roles and characters. Biesiad was portrayed as a pure fighter, while Gustav promoted himself as a man of culture and means, deserving the championship he carried. Crane was referred to mostly as "coach".
 The segment ended with Gustav standing up and getting into Biesiad's face, at which point Biesiad removed his T-shirt and threw his opponent across the studio couch. They then ran out into the studio, brawled for a short while, while Crane was trying to separate them.
 Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the show host explained to the camera that it's all a show, and there's no need to be alarmed.
@@ -114,3 +114,4 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 
 [ppw-c]: @/c/ppw-championship.md
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
+[halo-tu-ppw]: https://youtu.be/rbscVyOSjn0?si=Li0WYQoHiVM9V-Pe
