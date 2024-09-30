@@ -20,25 +20,23 @@ The event is officially not a part of the Underground series, but it was confirm
 The event saw the return of LaVonce and the debut of the British wrestler Nightshade.
 
 {% card() %}
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
-  - s: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
-- - '[Alex Brave](@/w/alex-brave.md)'
-  - 'LaVonce'
-  - nc: upcoming
-- - 'Miyagi Shida'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - nc: upcoming
+- - 'Rust'
+  - '[Max Speed](@/w/max-speed.md)'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Miyagi Shida'
+- - '[Spartan](@/w/spartan.md)'
+  - 'Luca Bjorn'
+- - '[Krampus](@/w/krampus.md)'
+  - 'Newt Nova'
+  - '[Eric Slotir](@/w/erik-slotir.md)'
+  - s: Triple Threat Match
+- - 'LaVonce'
+  - '[Alex Brave](@/w/alex-brave.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Nightshade'
-  - nc: upcoming
-- - 'Luca Bjorn'
-  - '[Spartan](@/w/spartan.md)'
-  - nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - 'Rust'
-  - nc: upcoming
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - s: '[PTW Championship](@/c/ptw-championship.md)'
 {% end %}
 
 ### References
