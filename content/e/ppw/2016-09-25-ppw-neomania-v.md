@@ -8,7 +8,7 @@ venue = ["winogronowa-17"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "neomania-v-feager-vs-steven-strong.jpg", caption = "[Feager](@/w/feager.md) vs [Steven Strong](@/w/biesiad.md).", source = "Official PpW Facebook" }
-2 = { path = "neomania-v-jim-enerico-vs-rob-scaffold.jpg", caption = "Jim Enerics vs [Rob Scaffold](@/w/rob-scaffold).", source = "Official PpW Facebook" }
+2 = { path = "neomania-v-jim-enerico-vs-rob-scaffold.jpg", caption = "Jim Enerics vs [Rob Scaffold](@/w/rob-scaffold.md).", source = "Official PpW Facebook" }
 3 = { path = "neomania-v-red-dorada-vs-ultimo-combo.jpg", caption = "Red Dorada/Mati vs Ultimo Combo.", source = "Official PpW Facebook" }
 4 = { path = "hades-jousting.jpg", caption = "Hades jousting at Faus.", source = "Official PpW YouTube" }
 +++
