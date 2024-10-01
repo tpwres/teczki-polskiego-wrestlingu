@@ -3,6 +3,8 @@
 {% block content %}
 <h1>{{ section.title }}</h1>
 
+For a CageMatch-like list of events, click <a href="./cm/">here</a>.
+
 {% set_global all_events = section.pages %}
 {% for subsection_path in section.subsections %}
   {% set subsection = get_section(path=subsection_path) %}
