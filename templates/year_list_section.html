@@ -3,7 +3,10 @@
 {% block content %}
 <h1>{{ section.title }}</h1>
 
+<p>
 Add these events to your calendar by subscribing to <a href="{{ get_url(path="calendar.ics", trailing_slash=false) }}">calendar.ics</a>.
+Optionally, use the <a href="./cm/">CageMatch-like</a> list of events.
+</p>
 
 {% set_global all_events = section.pages %}
 {% for subsection_path in section.subsections %}
