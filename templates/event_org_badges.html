@@ -1,0 +1,14 @@
+{% set orgs = [] %}
+{% for org in page.taxonomies.chronology %}
+  {% if not config.extra.chronology is containing(org) %}
+    {% set_global orgs = orgs | concat(with=org) %}
+  {% endif %}
+{% endfor %}
+
+{% if orgs %}
+  <span>
+  {% for org in orgs %}
+    {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+  {% endfor %}
+  </span>
+{% endif %}
