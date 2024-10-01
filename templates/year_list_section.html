@@ -18,7 +18,7 @@ Add these events to your calendar by subscribing to <a href="{{ get_url(path="ca
     <h2>{{ thisyear }}</h2>
     <ul class="event-list">
         {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
-        <li>
+        <li data-date="{{ page.date }}">
            {{page.date}} <a href="{{get_url(path=page.path)}}">{{ page.title }}</a>
         </li>
         {% endfor %}
@@ -28,3 +28,31 @@ Add these events to your calendar by subscribing to <a href="{{ get_url(path="ca
 {{ section.content | safe }}
 
 {% endblock content %}
+{% block extra_head %}
+<script type="module">
+  document.addEventListener('DOMContentLoaded', () => {
+    let upcoming = []
+    let now = new Date()
+    let eventList = document.querySelector('ul.event-list')
+    eventList.querySelectorAll('li[data-date]').forEach((el) => {
+      const eventDate = new Date(el.dataset.date)
+      if (eventDate > now)
+        upcoming.push(eventList.removeChild(el))
+    })
+
+    if (upcoming.length == 0) return
+
+    let top = eventList.parentElement
+    let firstHeading = top.querySelector('h2')
+    let header = document.createElement('h2')
+    header.textContent = 'Upcoming'
+
+    let upcomingList = document.createElement('ul')
+    upcomingList.className = 'event-list'
+    upcoming.forEach((el) => upcomingList.appendChild(el))
+
+    top.insertBefore(header, firstHeading)
+    top.insertBefore(upcomingList, firstHeading)
+  })
+</script>
+{% endblock %}
