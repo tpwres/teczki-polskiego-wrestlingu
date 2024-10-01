@@ -5,7 +5,7 @@ authors = ["Seweryn Pielucha", "Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Kuba Kamiński"]
+career_aliases = ['Kuba Kamiński', 'Jakub "Gruby" Kamiński']
 [extra.gallery]
 1 = { path = "ptw_dismissal.jpg", caption = "PTW firing Jacob Crane in August 2022."}
 2 = { path = "crane-japan.jpg", caption = "Announcing the move to Japan. The Japanese text below his name reads _Dai Nihon puroresu_ (Big Japan Pro Wrestling)"}
