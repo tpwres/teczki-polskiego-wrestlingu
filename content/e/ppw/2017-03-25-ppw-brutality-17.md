@@ -29,7 +29,7 @@ This was the final PpW show to use the old DIY ring.
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - s: Hardcore Match
 - - 'Hardcore Icon(c)'
-  - '[Blade](@/w/johnny-blade.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Hardcore Match
     c: H.P.W. Hardcore Championship
 - credits:
