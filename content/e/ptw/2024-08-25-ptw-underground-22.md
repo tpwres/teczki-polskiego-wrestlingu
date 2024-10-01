@@ -40,11 +40,11 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 {% card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Blaze'
-- - 'Miyagi Shida'
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - g: true
     s: Contract signing
 - - '[Alex Brave](@/w/alex-brave.md)'
-  - 'Miyagi Shida'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
 - - 'Rust'
   - 'LaVonce'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'

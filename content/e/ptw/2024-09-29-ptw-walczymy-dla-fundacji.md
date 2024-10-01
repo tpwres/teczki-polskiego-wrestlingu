@@ -1,5 +1,5 @@
 +++
-title = "PTW Walczymy dla Fundacji"
+title = "PTW Walczymy Dla Fundacji"
 template = "event_page.html"
 authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
@@ -22,7 +22,7 @@ The event saw the return of LaVonce and the debut of the British wrestler Nights
 - - 'Rust'
   - '[Max Speed](@/w/max-speed.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - 'Miyagi Shida'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
 - - '[Spartan](@/w/spartan.md)'
   - 'Luca Bjorn'
 - - '[Krampus](@/w/krampus.md)'
