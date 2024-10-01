@@ -56,8 +56,8 @@ def generate_calendar(events_dir: Path, accept_event: Predicate, title: Optional
 
         event_url = evf.relative_to("content/e").with_suffix("")
         event = vEvent(
-            dtstamp=created_at,
-            dtstart=page.event_date,
+            dtstamp=created_at.strftime('%Y%m%dT%H%M%S'),
+            dtstart=page.event_date.strftime('%Y%m%d'),
             summary=vText(page.title),
             tzid='Europe/Warsaw',
             uid=evf.stem,
