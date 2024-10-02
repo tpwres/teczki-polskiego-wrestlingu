@@ -14,7 +14,7 @@ city = "Warszawa"
 
 "Chcemy Krwi!" (_We Want Blood!_) is an upcoming PpW event in cooperation with Splat!FilmFest, a horror-themed film festival.
 
-{% card(hide=true) %}
+{{ skip_card() }}
 
 ## References
 
