@@ -1,6 +1,7 @@
 +++
 title = "PpW Neomania V"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue = ["winogronowa-17"]
