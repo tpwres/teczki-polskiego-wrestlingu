@@ -2,6 +2,7 @@
 title = "Wrestlingowy Klub Sportowy Wołów"
 weight = 0
 template = "org_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chrono_root = ["wksw"]
 [extra]
