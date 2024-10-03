@@ -15,7 +15,7 @@ After intense confrontation at [PpW Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-ha
 ## Members
 
 * [Mister Z](@/w/mister-z.md) - (_Leader of "Zmowa"_)
-* [Gustav Gryffin](@/w/gustaw-gryffin.md) - (_Face of The Company_)
+* [Gustav Gryffin](@/w/gustav-gryffin.md) - (_Face of The Company_)
 * [Isnorr](@/w/isnorr.md) - (_Ultraviolent Prospect_)
 * [Olgierd](@/w/olgierd.md) - (_Legia Łysych_)
 * [Marco Hammers](@/w/marco-hammers.md) - (_Legia Łysych_)
@@ -24,4 +24,4 @@ After intense confrontation at [PpW Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-ha
 
 ## Championships and accomplishments
 
-* [PpW Championship](@c/ppw-championship.md) (1 time; current) - [Gustav Gryffin](@/w/gustav-gryffin.md)]
+* [PpW Championship](@/c/ppw-championship.md) (1 time; current) - [Gustav Gryffin](@/w/gustav-gryffin.md)]
