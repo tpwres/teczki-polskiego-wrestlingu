@@ -24,4 +24,4 @@ After intense confrontation at [PpW Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-ha
 
 ## Championships and accomplishments
 
-* [PpW Championship](@c/ppw-championship.md) (1 time; current) - [Gustav Gryffin](@/w/gustaw-gryffin.md)]
+* [PpW Championship](@c/ppw-championship.md) (1 time; current) - [Gustav Gryffin](@/w/gustav-gryffin.md)]
