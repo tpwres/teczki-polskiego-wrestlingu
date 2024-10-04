@@ -3,6 +3,7 @@ title = "PpW Kiedyś Będzie Lepiej"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
+venue = ["ognicho"]
 [extra]
 city = "Warszawa"
 +++
