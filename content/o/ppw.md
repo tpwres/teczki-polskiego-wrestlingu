@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 [taxonomies]
 chrono_root = ["ppw"]
 [extra]
-year_list_start = 2017
+year_list_start = 2010
 toclevel = 3
 [extra.gallery]
 1 = { path = "backyard_korzenie.jpg", caption = '[Mister Z](@/w/mister-z.md) (left) and [Gustav Gryffin](@/w/gustav-gryffin.md) in front of presumably the new ring. Text: "Today Mister Z showed me his roots"' }
