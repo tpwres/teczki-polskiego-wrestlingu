@@ -7,6 +7,8 @@ venue = ["dworek-kozlow"]
 [extra]
 hide_results = true
 city = "Kozłów"
+[extra.gallery]
+1 = { path = "2024-10-19-ptw-underground-23-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
 {% card() %}
