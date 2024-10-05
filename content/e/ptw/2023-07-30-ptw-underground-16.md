@@ -7,6 +7,8 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+[extra.gallery]
+1 = { path = "2023-07-30-ptw-underground-16-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
 PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30, 2023 at the [PTW Performance Center](@/v/ptw-targowa.md).

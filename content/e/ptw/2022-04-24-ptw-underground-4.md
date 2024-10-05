@@ -7,6 +7,8 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+[extra.gallery]
+1 = { path = "2022-04-24-ptw-underground-4-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
 The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. It was the first Underground show to be streamed online. The previous 3 shows were only available to the live audience.
