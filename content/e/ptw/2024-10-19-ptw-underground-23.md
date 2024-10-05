@@ -9,7 +9,18 @@ hide_results = true
 city = "Kozłów"
 +++
 
-{{ skip_card() }}
+{% card() %}
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '???'
+  - nc: Upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - '???'
+  - nc: Upcoming
+- - '???'
+  - '???'
+  - s: Trick or Treat Hardcore Match
+    nc: Upcoming
+{% end %}
 
 ### References
 
