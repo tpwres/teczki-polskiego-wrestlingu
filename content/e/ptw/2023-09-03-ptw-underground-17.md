@@ -30,7 +30,7 @@ city = "Chorzów"
 
 #### Trivia
 
-The Underground Street Fight match set the record of the longest match in PTW history, at 1 hour, 10 minutes and 45 seconds. The match was initially the show opener, but during the course of the fight, wrestlers left the building, camera in tow. Outside, [Olgierd](@/w/olgierd.md) put [Gabriel Queen](@/w/gabriel-queen.md) inside the trunk of his card, forced referee Seweryn into the passenger seat, and drove off. The show carried on, and later Olgierd and Gabriel returned to finish their match in the ring.
+The Underground Street Fight match set the record of the longest match in PTW history, at 1 hour, 10 minutes and 45 seconds. The match was initially the show opener, but during the course of the fight, wrestlers left the building, camera in tow. Outside, [Olgierd](@/w/olgierd.md) put [Gabriel Queen](@/w/gabriel-queen.md) inside the trunk of his car, forced referee Seweryn into the passenger seat, and drove off. The show carried on, and later Olgierd and Gabriel returned to finish their match in the ring.
 
 ### References
 
