@@ -22,12 +22,11 @@ city = "Chorzów"
 - ['[Axel Fox](@/w/axel-fox.md)', '[Rafi Rarytas](@/w/rafi.md)', {s: impromptu match}]
 - ['[Dziedzic](@/w/dziedzic.md)', '["Top Gun" Samson](@/w/samson.md)']
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
     Special guest commentary: '[Diana Strong](@/w/diana-strong.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
-
 
 #### Trivia
 
