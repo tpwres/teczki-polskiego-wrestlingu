@@ -41,7 +41,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 - ['[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)', '[John "Bad Bones" Klinger](@/w/bad-bones.md)',
   {g: true, s: Kidnapping Rzeźniczek}]
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: >
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md),
