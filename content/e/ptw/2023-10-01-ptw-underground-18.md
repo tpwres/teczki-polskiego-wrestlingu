@@ -19,7 +19,7 @@ city = "Chorzów"
 - ['[Nano Lopez](@/w/nano-lopez.md)', {g: true}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Peter Tihanyi]
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
