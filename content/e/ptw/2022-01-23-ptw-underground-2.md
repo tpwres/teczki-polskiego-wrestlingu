@@ -22,7 +22,7 @@ The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
   - {r: DQ, s: Tag Team Match}
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+   Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >
       [Arek Paterek](@/w/arek-paterek.md),
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)
