@@ -44,7 +44,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
 - credits:
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
-    Ring announcer, host, guest commentary, authority figure: '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+       Host, Ring Announcer, General Manager, Guest Commentary: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 
 {% end %}
 
