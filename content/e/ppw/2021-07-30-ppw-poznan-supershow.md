@@ -44,7 +44,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
       Wrestling Match}]
 - ['[Isnorr](@/w/isnorr.md)', Bonus CBD]
 - credits:
-    Host: '[Michael HT](@/w/michael-ht.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
