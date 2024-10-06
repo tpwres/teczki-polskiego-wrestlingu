@@ -1,0 +1,39 @@
+[1]
+path = "2022-07-31-ptw-x-ryucon-plakat.jpg"
+caption = """\
+    Official poster. 
+    Pictured left to right, in the top row: [Nano Lopez](@/w/nano-lopez.md), [Taras](@/w/tars.md),
+    [Bad Bones](@/w/bad-bones.md), [Sinister](@/w/sinister.md);
+    in the bottom row: [Robert Star](@/w/robert-star.md), [Axel Fox](@/w/axel-fox.md),
+    Mike D. Vecchio, [Krampus](@/w/krampus.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Justin Joy](@/w/justin-joy.md)."
+source = "Official PTW Facebook"
+[2]
+path = "ryucon-fox-vs-joy.jpg"
+caption = """\
+    Promotional image: [Axel Fox](@/w/axel-fox.md) vs [Justin Joy](@/w/justin-joy.md)."
+source = "Official PTW Facebook"
+[3]
+path = "ryucon-krampus-vs-mike-d.jpg"
+caption = """\
+    Promotional image: [Krampus](@/w/krampus.md) vs Mike D. Vecchio"
+source = "Official PTW Facebook"
+[4]
+path = "ryucon-pure-gold-vs-pablo-and-unknown.jpg"
+caption = """\
+    Promotional image: Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)) vs [Disco Pablo](@/w/disco-pablo.md) and [mystery partner](@/w/diana-strong.md)"
+source = "Official PTW Facebook"
+[5]
+path = "ryucon-samson-vs-puncher.jpg"
+caption = """\
+    Promotional image: [Samson](@/w/samson.md) vs [Puncher](@/w/puncher.md)"
+source = "Official PTW Facebook"
+[6]
+path = "ryucon-star-vs-dziedzic.jpg"
+caption = """\
+    Promotional image: [Robert Star](@/w/robert-star.md) vs [Syriusz Dziedzic](@/w/dziedzic.md)"
+source = "Official PTW Facebook"
+[7]
+path = "ryucon-taras-vs-bad-bones.jpg"
+caption = """\
+    Promotional image: [Taras](@/w/tars.md) vs [Bad Bones](@/w/bad-bones.md)"
+source = "Official PTW Facebook"

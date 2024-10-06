@@ -7,6 +7,8 @@ chronology = ["ptw"]
 venue = ["tauron"]
 [extra]
 city = "Kraków"
+[extra.gallery]
+manifest = "@/e/ptw/2022-07-31-ptw-x-ryucon-gallery.toml"
 +++
 
 PTW X RyuCon was held in Tauron Arena, Kraków on July 31st, 2022. Tauron is a large venue, the wrestling show was hosted in a smaller side room in the conference section of the arena. The event was not streamed on any official channels.
