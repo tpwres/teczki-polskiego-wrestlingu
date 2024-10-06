@@ -20,7 +20,7 @@ city = "Chorzów"
 - ["[Sambor](@/w/sambor.md)", "Jarek Nowak"]
 - ["[Axel Fox](@/w/axel-fox.md)", "[Wiktor Longman](@/w/wiktor-longman.md)", {r: "DQ"}]
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
