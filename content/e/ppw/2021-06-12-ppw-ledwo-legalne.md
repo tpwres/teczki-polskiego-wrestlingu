@@ -19,7 +19,7 @@ source = "[Official PpW Facebook]"
 - ["[Hades](@/w/olgierd.md)", "[Johnny Blade](@/w/johnny-blade.md)", {s: "Hardcore Match", nc: "Draw"}]
 - ["[Osamu](@/w/osamu.md)", "[Mister Z](@/w/mister-z.md)(c)", {c: "PpW Championship"}]
 - credits:
-    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Host: '[Michael HT](@/w/michael-ht.md)'
     Ring Announcer: Julian
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
