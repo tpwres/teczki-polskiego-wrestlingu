@@ -27,8 +27,8 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 - ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Johnny Blade](@/w/johnny-blade.md)"]
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
 - credits:
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
 {% end %}
 
 ## Recap
