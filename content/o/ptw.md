@@ -171,7 +171,7 @@ It featured a panel where Pawłowski led the discussion with two guests: Okońsk
 PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in Kozłów, which now appeared to be PTW's new base of operations.
 On August 15, 2024, Okoński posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
 The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Baba-Thunder.
-In September, PTW held their first-ever charity show [PTW Walczymy Dla Fundacji](@/content/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled. Though the shows are not aired live as previously, they are taped with a promise of later release.
+In September, PTW held their first-ever charity show [PTW Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled. Though the shows are not aired live as previously, they are taped with a promise of later release.
 Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing Show-off as a host, he was also confirmed to be 1/3 of a new commentary team.
 
 ## Polish wrestling scene
