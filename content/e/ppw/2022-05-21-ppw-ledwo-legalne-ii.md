@@ -28,7 +28,8 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 - - "[Johnny Blade](@/w/johnny-blade.md)"
   - "Viking"
   - s: "Chaos Gods Deathmatch"
-    c: [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md),
+    c: |
+      [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md),
       VcV Hardcore Championship
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
