@@ -27,7 +27,7 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
     [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)", {c: "PTW Tag Team
       Championship", nc: No Contest}]
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
     Post-match inteview segments: Tobiasz "Skyver" Korzybski
