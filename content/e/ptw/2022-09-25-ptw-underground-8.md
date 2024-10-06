@@ -30,7 +30,7 @@ For this event, PTW invited Northern Irish wrestler Myla Grace, who was briefly 
     s: "[Sinister](@/w/sinister.md), as kayfabe owner of Nano Lopez's contract, tears
       it to pieces in order to fire Lopez from PTW"
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/alex-brave.md)'
 {% end %}
 
