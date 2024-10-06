@@ -3,12 +3,17 @@ title = "Marzenie wrestlera"
 template = "article.html"
 weight = 0
 authors = ["Szymon Iwulski", "M3n747"]
+[extra.gallery]
+1 = { path = "marzenie-wrestlera.jpg", caption = "Official film poster, featuring [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "Official Facebook page" }
 +++
-Movie about Polish wrestler J
+
+Marzenie Wrestlera (_Wrestler's Dream_) is a short documentary film by Artur Wierzbicki about [Jędruś Bułecka](@/w/jedrus-bulecka.md).
 
 <!-- more -->
 
 This is a stub of article on "Marzenie wrestlera", a movie about [Jędruś Bułecka](@/w/jedrus-bulecka.md)
 
 * [Filmweb page](https://www.filmweb.pl/film/Marzenie+wrestlera-2017-789449)(in Polish)
+* [IMDb page](https://imdb.com/title/tt28521517/)
 * [Trailer](https://www.youtube.com/watch?v=I6v3I9iS4_8)
+* [Official Facebook page](https://www.facebook.com/marzeniewrestlera/)
