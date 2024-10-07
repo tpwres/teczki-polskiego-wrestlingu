@@ -79,8 +79,8 @@ Shortly before the show, they were trading insults and challeneges online with L
     s: Born To Be Wired Four Way Elimination Match
     n: Originally a 1-1 match, the other two opponents added themselves.
 - credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
-    Host and Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Interviewer: Konrad "Joker" Grzesikiewicz
 {% end %}
 

@@ -10,8 +10,8 @@ template = "index.html"
 
 | Years active | Name | Location |
 |--:|---|---|
-| 2014- | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
-| 2014- | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
+| 2013- | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
+| 2013- | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
 | 2015- | {{ org_badge(org='kpw') }} [Kombat Pro Wrestling](@/o/kpw.md) | Gdańsk, Gdynia |
 | 2020- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
 | 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów, Kozłów |

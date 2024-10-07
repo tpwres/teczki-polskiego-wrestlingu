@@ -35,11 +35,11 @@ The event saw the return of LaVonce and the debut of the British wrestler Nights
   - 'Nightshade'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - s: '[PTW Championship](@/c/ptw-championship.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-{% end %}
+  {% end %}
 
 ### References
 

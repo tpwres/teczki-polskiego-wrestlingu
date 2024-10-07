@@ -43,8 +43,8 @@ city = "Warszawa"
   - g: true
     s: Zmowa vs Zmowa przeciwko zmowie face off
 - credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Host and Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
 ### Recap

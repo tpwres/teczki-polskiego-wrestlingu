@@ -6,8 +6,8 @@ authors = ["M3n747", "Seweryn Pielucha"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "ppw-championship.jpg", caption = '[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.', source = "Official PpW website / Facebook" }
-2 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = '"The PpW Champion, Steve Kuningas, with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA."', source = "Official PpW website / Facebook" }
+1 = { path = "ppw-championship.jpg", caption = "[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.", source = "Official PpW website / Facebook" }
+2 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = "The PpW Champion, Steve Kuningas, with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA.", source = "Official PpW website / Facebook" }
 3 = { path = "ppw-new-championship-belt.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) presenting the redesigned belt at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).", source = "Official PpW Instagram" }
 4 = { path = "ppw-old-belt.jpg", caption = "[Mister Z](@/w/mister-z.md) with the old belt at [Kiedyś będzie lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).", source = "Official PpW YouTube" }
 +++

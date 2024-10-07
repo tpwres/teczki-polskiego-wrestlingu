@@ -50,11 +50,16 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 1999
 
-* Paweł Borkowski contacts Supron, wanting to create the first fully professional Polish pro-wrestling promotion. This would become PPWF (Polish Pro-Wrestling Federation), and although it held training sessions and owned a professional ring, never held any shows.
+* Paweł Borkowski contacts Supron, wanting to create the first fully professional Polish pro-wrestling promotion. They create PPWF (Polish Pro-Wrestling Federation), which only manages to hold training sessions, but no shows due to lack of interest.
+* Andrzej Supron buys a ring for PPWF.
 
 #### 2005
 
 * With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are Pomerania Indy Wrestling Group from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
+
+#### 2006
+
+* Borkowski plans to create a wrestling school, using Supron's ring. It is discovered to be too costly to repair, and the idea is abandoned.
 
 #### 2009
 
@@ -74,6 +79,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [PXW](@/o/pxw.md), a backyard in Głuchołazy in Lower Silesia, starts holding events on a makeshift ring. Among their ranks is one high-flying, risk-taking Terry Shadow.
 * DDW holds their [fifth major event](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md) near Wrocław.
 * A backyard group in Silesia forms, choosing to name themselves [Mine City Wrestling](@/o/mcw.md).
+* Supron lends his ring to [WKSW](@/o/wksw.md).
 
 #### 2012
 
@@ -149,7 +155,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2024
 
-* PpW buys a full-size wrestling ring from Supron, the same one he bought for PPWF back in 2003.
+* PpW buys Supron's ring, the same one he bought for PPWF some 20 years ago.
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
 * As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
 * After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces its [first show](@/e/low/2024-12-01-low-1.md) to be held in December.
