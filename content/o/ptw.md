@@ -161,16 +161,18 @@ Breaking the silence, Pawłowski promised that the Ryucon show will be a new ope
 The non-televised show included many new faces, both from [PTW Academy](@/o/ptw-academy.md) and foreign free agents.
 During the show, Łukasz "Prezes" Okoński, owner of Dworek Pod Platanem where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) was held, was announced as PTW's new co-owner.
 This change was not reflected in official registration documents (as of August 21, 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
-Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media.
+Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media. Renamed Łukasz "Prezes" Okoński, he gradually increased his presence, appearing on virtually every show and taking part in segments.
 
 On August 14, 2024, Pawłowski hosted a show for the local TV channel TVT, titled "Czas na Wrestling" (_Time for Wrestling_).
 It featured a panel where Pawłowski led the discussion with two guests: Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
 
-#### Post-Ryucon: New venue
+#### Post-Ryucon: New venue, PTW back on track
 
 PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in Kozłów, which now appeared to be PTW's new base of operations.
 On August 15, 2024, Okoński posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
-The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Babathunder.
+The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Baba-Thunder.
+In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled. Though the shows are not aired live as previously, they are taped with a promise of later release.
+Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host, he was also confirmed to be a third of the new commentary team.
 
 ## Polish wrestling scene
 
@@ -208,8 +210,9 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 
 PTW's talent made an appearance in Young Multi's [video][young-multi-ak47] for the song "AK47".
 The video features Pawłowski giving a pep-talk to Multi and his band, as well as scenes of PTW wrestlers hitting their moves in the ring, intercut with clips of the band.
-Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#post-ryucon-new-venue) is located.
+Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#Post-Ryucon-New-venue-PTW-back-on-track) is located.
 Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), Miyagi Shida and [Diana Strong](@/w/diana-strong.md).
+In August 2024, PTW launched their new show, "Czas na Wrestling" ("Time for Wrestling") on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage](https://telewizjatvt.pl/?s=czas+na+wrestling)
 
 ## Internet presence
 
