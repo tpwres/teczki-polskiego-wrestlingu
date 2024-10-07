@@ -35,7 +35,7 @@ The event saw the return of LaVonce and the debut of the British wrestler Nights
   - 'Nightshade'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - s: '[PTW Championship](@/c/ptw-championship.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
 {% end %}
 
 ### References
