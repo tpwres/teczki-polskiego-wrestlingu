@@ -59,6 +59,8 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - '[Puncher](@/w/puncher.md)'
   - 'Maverick'
   - c: 'WWA Championship'
+- credits:
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 The announced dance performance was met with slight backlash from the fans online. Ultimately it never happened, and the Instagram account was quietly removed.

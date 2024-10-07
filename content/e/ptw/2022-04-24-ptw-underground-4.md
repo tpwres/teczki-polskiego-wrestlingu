@@ -23,7 +23,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 - ['["Top Gun" Samson](@/w/samson.md)', '[Vic Golden](@/w/vic-golden.md)']
 - ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '[Disco Pablo](@/w/disco-pablo.md)']
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >
       [Arkadiusz Paterek](@/w/arek-paterek.md),
       [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)

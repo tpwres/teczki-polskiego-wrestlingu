@@ -35,7 +35,7 @@ city = "Chorzów"
 - [Chris Masters, '[Robert Star](@/w/robert-star.md)']
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', Nick Aldis, {r: DQ}]
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Interviewer: Krzysztof Skwarczyński
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
