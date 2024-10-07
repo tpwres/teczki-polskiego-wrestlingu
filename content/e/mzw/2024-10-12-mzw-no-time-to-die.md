@@ -16,14 +16,14 @@ source = "Official MZW Facebook"
 After a nearly year-long hiatus following their [last event](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), on August 1, 2024, [MZW](@/o/mzw.md) announced a new show, called No Time to Die.
 The show is set to take place in [Bakara](@/v/bakara.md) Community Centre, which last held [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) in 2020, and several other events before.
 
-Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one is also a collaboration with [PpW Ewenement](@/o/ppw.md), seeing the return of [Gustav Gryffin](@/w/gustav-gryffin.md) and [Biesiad](@/w/biesiad.md), and the MZW debut of [Johnny Blade](@/w/johnny-blade.md) and [Goblin](@/w/goblin.md). It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md), [Marco Hammers](@/w/marco-hammers.md), [Samson](@/w/samson.md), [Marcelito](@/w/marcelito.md), [Rafi](@/w/rafi.md) and [Sambor](@/w/sambor.md).
+Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one is also a collaboration with [PpW Ewenement](@/o/ppw.md), seeing the return of [Gustav Gryffin](@/w/gustav-gryffin.md) and [Biesiad](@/w/biesiad.md), and the MZW debut of [Johnny Blade](@/w/johnny-blade.md) and [Olgierd](@/w/olgierd.md) (taking over from [Goblin](@/w/goblin.md), who was initially booked for this match but couldn't make it). It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md), [Marco Hammers](@/w/marco-hammers.md), [Samson](@/w/samson.md), [Marcelito](@/w/marcelito.md), [Rafi](@/w/rafi.md) and [Sambor](@/w/sambor.md).
 
 {% card() %}
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Samson](@/w/samson.md)'
   - nc: upcoming
 - - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '[Goblin](@/w/goblin.md)'
+  - '[Olgierd](@/w/olgierd.md)'
   - nc: upcoming
 - - '[Shadow](@/w/shadow.md)'
   - '[Alex Ace](@/w/alex-ace.md)'
