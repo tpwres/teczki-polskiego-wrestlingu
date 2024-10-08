@@ -17,7 +17,7 @@ city = "Warszawa"
 {% card(predicted=true) %}
 - - 'Team Biesiad: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md), [Biesiad Strong](@/w/biesiad.md)'
   - 'Team Mister Z: [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), Jakub Linde, ???'
-  - s: 5 vs 5 Ellimination Match
+  - s: 5 vs 5 Elimination Match
     nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Samson](@/w/samson.md)'
