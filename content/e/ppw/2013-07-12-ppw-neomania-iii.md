@@ -26,13 +26,13 @@ The show was held outdoors at three different locations: a local playground, a "
 - - 'Dark Black Skull'
   - '[Vins Michael $hot](@/w/johnny-blade.md)'
   - nc: '?'
-    n: Video cut off during the match when, according to on-screen text, Vince's bodyguard bumped into the camera.
+    n: Video cuts off during the match when, according to on-screen text, Vince's bodyguard bumped into the camera.
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
   - 'Mystic Tiger'
   - s: Falls Count Anywhere No-DQ Match
 - credits:
-  Commentary: '???, [Johnny Blade](@/w/johnny-blade.md)'
   Referees: '???, [Mister Z](@/w/mister-z.md)'
+  Commentary: '???, [Johnny Blade](@/w/johnny-blade.md)'
 {% end %}
 
 #### Recap
