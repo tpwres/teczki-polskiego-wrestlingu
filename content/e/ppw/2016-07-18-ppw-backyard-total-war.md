@@ -16,7 +16,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
 {% card() %}
 - - '[Charlie](@/w/madman-charlie.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
-- - 'Jim Enerico'
+- - '[Jim Enerico](@/w/mister-z.md)'
   - '[Snake](@/w/snake.md)'
   - s: Hardcore Match
 - - 'Koteł, Krasso'
