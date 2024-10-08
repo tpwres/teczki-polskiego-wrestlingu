@@ -32,7 +32,7 @@ The show was held outdoors at three different locations: a local playground, a "
   - s: Falls Count Anywhere No-DQ Match
 - credits:
   Commentary: '???, [Johnny Blade](@/w/johnny-blade.md)'
-  Referees: ???, '[Mister Z](@/w/mister-z.md)'
+  Referees: '???, [Mister Z](@/w/mister-z.md)'
 {% end %}
 
 #### Recap
