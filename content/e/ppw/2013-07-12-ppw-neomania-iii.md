@@ -31,8 +31,8 @@ The show was held outdoors at three different locations: a local playground, a "
   - 'Mystic Tiger'
   - s: Falls Count Anywhere No-DQ Match
 - credits:
-  Referees: '???, [Mister Z](@/w/mister-z.md)'
-  Commentary: '???, [Johnny Blade](@/w/johnny-blade.md)'
+    Referees: '???, [Mister Z](@/w/mister-z.md)'
+    Commentary: '???, [Johnny Blade](@/w/johnny-blade.md)'
 {% end %}
 
 #### Recap
