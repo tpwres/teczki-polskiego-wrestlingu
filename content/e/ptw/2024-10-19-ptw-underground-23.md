@@ -24,8 +24,8 @@ city = "Kozłów"
     nc: Upcoming
 - - '[Alex Brave](@/w/alex-brave.md)'
   -  g: true
-  -  s: The Brave Show - episode 1
-  -  nc: Upcoming    
+     s: The Brave Show - episode 1
+     nc: Upcoming    
 {% end %}
 
 ### References
