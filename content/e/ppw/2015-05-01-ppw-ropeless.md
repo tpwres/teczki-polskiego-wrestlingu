@@ -18,7 +18,7 @@ Ropeless was an early PpW show from the backyard era, held outdoors at Winogrono
   - 'Edno'
 - - 'Eletrico'
   - 'Superior'
-- - 'Ultimo Combo'
+- - '[Ultimo Combo](@/w/johnny-blade.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Rob Hardy](@/w/rob-scaffold.md)'
   - s: Triple Threat Match

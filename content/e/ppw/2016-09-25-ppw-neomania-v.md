@@ -18,7 +18,7 @@ Neomania V was PpW's backyard show held outdoors at Winogronowa 17 street, in fr
 
 {% card() %}
 - - 'Mati'
-  - 'Ultimo Combo'
+  - '[Ultimo Combo](@/w/johnny-blade.md)'
   - s: Mati's Goodbye No-DQ Match
     r: Surrender
 - - 'Faust'

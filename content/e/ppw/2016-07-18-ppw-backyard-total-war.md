@@ -18,7 +18,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
 - - 'Jim Enerico'
   - '[Snake](@/w/snake.md)'
-  - s: Hardcore match
+  - s: Hardcore Match
 - - 'Koteł, Krasso'
   - 'Psychodela, KAT'
   - s: Hardcore Tag-Team Match
