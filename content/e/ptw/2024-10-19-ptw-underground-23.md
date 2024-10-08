@@ -15,7 +15,7 @@ city = "Kozłów"
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '???'
   - c: '[PTW Championship](@/c/ptw-championship.md)
-  - nc: Upcoming
+    nc: Upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '???'
   - nc: Upcoming
