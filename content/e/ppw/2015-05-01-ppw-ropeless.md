@@ -11,7 +11,7 @@ city = "Warszawa"
 1 = { path = "ropeless-ring.jpg", caption = "The ropeless ring.", source = "Official PpW YouTube" }
 +++
 
-Ropeless was an early PpW show from the backyard era, held outdoors at Winogronowa 17 street. It was their first event to feature a ring - one that was made from discarded mattresses, rugs, tires, floor mats and other junk. It didn't have the ropes in place yet, however, hence the name of the show. The ring was located at a lot at Winogronowa 17 street in Warsaw. Aside from two cameramen, there was no audience.
+Ropeless was an early PpW show from the backyard era, held outdoors at Winogronowa 17 street in Warsaw. It was their first event to feature a ring - one that was made from discarded mattresses, rugs, tires, floor mats and other junk. It didn't have the ropes in place yet, however, hence the name of the show. Aside from two cameramen, there was no audience.
 
 {% card() %}
 - - '[Johnny Blade](@/w/johnny-blade.md)'
