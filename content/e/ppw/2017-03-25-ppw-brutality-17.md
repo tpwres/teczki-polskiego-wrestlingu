@@ -23,7 +23,7 @@ The main event featured Hardcore Icon, a guest from Halemba Power Wrestling (a b
 This was the final PpW show to use the old DIY ring.
 
 {% card() %}
-- - 'Jim Enerico'
+- - '[Jim Enerico](@/w/mister-z.md)'
   - 'Black Orion'
   - s: Hardcore Match
 - - '[Steven Strong](@/w/biesiad.md)'
