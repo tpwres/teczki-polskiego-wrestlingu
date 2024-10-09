@@ -8,7 +8,6 @@ chrono_root = ["low"]
 [extra]
 toclevel = 3
 hide_roster = 1
-hide_events = 1
 [extra.gallery]
 1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
 2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "ShowOff's Instagram" }
