@@ -24,9 +24,12 @@ city = "Kozłów"
   - s: Trick or Treat Hardcore Match
     nc: Upcoming
 - - '[Alex Brave](@/w/alex-brave.md)'
-  -  g: true
-     s: The Brave Show - episode 1
-     nc: Upcoming    
+  - g: true
+    s: The Brave Show - episode 1
+    nc: Upcoming    
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+    nc: Upcoming    
 {% end %}
 
 ### References
