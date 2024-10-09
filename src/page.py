@@ -15,6 +15,7 @@ FrontMatter = dict[str, FrontMatterValue]
 class Page:
     path: Path
     front_matter: FrontMatter
+    front_offset: int
     body: str
 
     def __init__(self, path: Path, verbose: bool = True):
@@ -22,9 +23,9 @@ class Page:
             print("Loading %s" % path)
 
         self.path = path
-        self.front_matter, self.body = self.parse_content(path.open('rt', encoding='utf-8'))
+        self.front_matter, self.front_offset, self.body = self.parse_content(path.open('rt', encoding='utf-8'))
 
-    def parse_content(self, io: TextIOBase) -> Tuple[FrontMatter, str]:
+    def parse_content(self, io: TextIOBase) -> Tuple[FrontMatter, int, str]:
         line = io.readline()
         if line.strip() != '+++':
             raise ValueError(f"Page `{self.path}` did not start with frontmatter delimiter `+++`")
@@ -39,7 +40,7 @@ class Page:
             matter.append(line)
 
         fm = tomllib.loads("\n".join(matter))
-        return (fm, io.read())
+        return (fm, len(matter), io.read())
 
     @property
     def title(self): return self.front_matter['title']
@@ -60,7 +61,7 @@ class EventPage(Page):
                 self.event_date = datetime.strptime(ymd, '%Y-%m-%d').date()
                 self.orgs = m.group('orgs').split('_')
 
-        self.card = Card(self.body, path)
+        self.card = Card(self.body, path, self.front_offset)
 
 
 class OrgPage(Page):
