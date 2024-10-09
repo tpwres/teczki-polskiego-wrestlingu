@@ -23,3 +23,12 @@ export function createSection(events, listElement, headerLevel) {
     top.insertBefore(header, firstHeading)
     top.insertBefore(upcomingList, firstHeading)
 }
+
+export function cleanEmptyYears(headerLevel) {
+    document.querySelectorAll(`${headerLevel} + ul.event-list`)
+        .forEach(list => {
+            if (list.childElementCount > 0) return
+            list.previousElementSibling.remove()
+            list.remove()
+        })
+}
