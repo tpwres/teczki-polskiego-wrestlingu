@@ -29,7 +29,7 @@ city = "Kozłów"
     nc: Upcoming    
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-    nc: Upcoming    
+  - nc: Upcoming    
 {% end %}
 
 ### References
