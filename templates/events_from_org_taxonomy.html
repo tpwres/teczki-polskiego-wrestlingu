@@ -15,7 +15,7 @@
       <h3>{{ thisyear }}</h3>
       <ul class="event-list">
         {% for event_page in my_events_thisyear | sort(attribute="date") | reverse -%}
-          <li>
+          <li data-date="{{ event_page.date }}">
             {% set dt = event_page.date | date(format="%Y-%m-%d") -%}
             <time datetime="{{ dt }}">{{ dt }}</time>
             <a class="nu" href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a>

@@ -19,7 +19,9 @@ Add these events to your calendar by subscribing to <a href="{{ get_url(path="ca
     <ul class="event-list">
         {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
         <li data-date="{{ page.date }}">
-           {{page.date}} <a href="{{get_url(path=page.path)}}">{{ page.title }}</a>
+          {% set dt = page.date | date(format="%Y-%m-%d") -%}
+          <time datetime="{{ dt }}">{{ dt }}</time>
+          <a href="{{get_url(path=page.path)}}">{{ page.title }}</a>
         </li>
         {% endfor %}
     </ul>
@@ -29,30 +31,12 @@ Add these events to your calendar by subscribing to <a href="{{ get_url(path="ca
 
 {% endblock content %}
 {% block extra_head %}
-<script type="module">
-  document.addEventListener('DOMContentLoaded', () => {
-    let upcoming = []
-    let now = new Date()
-    let eventList = document.querySelector('ul.event-list')
-    eventList.querySelectorAll('li[data-date]').forEach((el) => {
-      const eventDate = new Date(el.dataset.date)
-      if (eventDate > now)
-        upcoming.push(eventList.removeChild(el))
-    })
-
-    if (upcoming.length == 0) return
-
-    let top = eventList.parentElement
-    let firstHeading = top.querySelector('h2')
-    let header = document.createElement('h2')
-    header.textContent = 'Upcoming'
-
-    let upcomingList = document.createElement('ul')
-    upcomingList.className = 'event-list'
-    upcoming.forEach((el) => upcomingList.appendChild(el))
-
-    top.insertBefore(header, firstHeading)
-    top.insertBefore(upcomingList, firstHeading)
-  })
+<script defer type="module">
+import { extractUpcoming, createSection } from '/events.js'
+document.addEventListener('DOMContentLoaded', () => {
+  const events = extractUpcoming()
+  const list = document.querySelector('ul.event-list')
+  createSection(events, list, 'h2')
+})
 </script>
 {% endblock %}
