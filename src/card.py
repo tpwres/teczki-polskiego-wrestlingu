@@ -1,6 +1,6 @@
 import yaml
 import io
-from typing import Union, Iterable, Optional, Tuple, NamedTuple, cast
+from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO
 import re
 from pathlib import Path
 from itertools import chain
@@ -261,13 +261,13 @@ class Card:
     crew: Optional[Crew]
     matches: Optional[list[Match]]
 
-    def __init__(self, text_or_io: Union[str, io.TextIOBase], path: Optional[Path], offset: int):
+    def __init__(self, text_or_io: object, path: Optional[Path], offset: int):
         match text_or_io:
             case str() as text:
                 # parse_result = self.extract_card(text_or_io.split("\n"))
                 extracted_card = self.extract_card_unsplit(text, offset)
             case io.TextIOBase() as stream:
-                extracted_card = self.extract_card_unsplit(stream.read())
+                extracted_card = self.extract_card_unsplit(stream.read(), offset)
 
         if extracted_card:
             card_start, card_end, card_text, _, _ = extracted_card

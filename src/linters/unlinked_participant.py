@@ -16,7 +16,8 @@ class ReplaceCard(Changeset):
     def apply_changes(self, doc: Doc):
         with doc.open('r') as fp:
             card_text = fp.read()
-            card = Card(card_text, doc.pathname())
+            # Zero offset is technically wrong, but this linter doesn't care about line numbers
+            card = Card(card_text, doc.pathname(), 0)
             start_offset, end_offset = card.start_offset, card.end_offset
             fp.close()
 
@@ -50,7 +51,7 @@ class UnlinkedParticipantError(LintError):
         return True
 
     def calculate_fix(self, body_text) -> Optional[Changeset]:
-        card = Card(self.path.open(), self.path.pathname())
+        card = Card(self.path.open('r'), self.path.pathname(), 0)
         if not card.matches: return None
 
         with self.path.open() as fp:
@@ -81,7 +82,7 @@ class UnlinkedParticipantLinter(Linter):
 
         with document.open('r') as fp:
             try:
-                card = Card(fp, pathname)
+                card = Card(fp, pathname, 0)
                 if not card.matches:
                     return []
             except YAMLError as e:
