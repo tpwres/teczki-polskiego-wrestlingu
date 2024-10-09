@@ -35,11 +35,13 @@
 {% block extra_head %}
   {% if not page.extra.hide_events -%}
     <script defer type="module">
-      import { extractUpcoming, createSection } from '/events.js'
+      import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
       document.addEventListener('DOMContentLoaded', () => {
         const events = extractUpcoming()
+        if (!events.length) return
         const list = document.querySelector('ul.event-list')
         createSection(events, list, 'h3')
+        cleanEmptyYears('h3')
       })
     </script>
   {% endif %}
