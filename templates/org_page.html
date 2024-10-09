@@ -31,3 +31,16 @@
 {% endif -%}
 
 {% endblock content %}
+
+{% block extra_head %}
+  {% if not page.extra.hide_events -%}
+    <script defer type="module">
+      import { extractUpcoming, createSection } from '/events.js'
+      document.addEventListener('DOMContentLoaded', () => {
+        const events = extractUpcoming()
+        const list = document.querySelector('ul.event-list')
+        createSection(events, list, 'h3')
+      })
+    </script>
+  {% endif %}
+{% endblock extra_head %}
