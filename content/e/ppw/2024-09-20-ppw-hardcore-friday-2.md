@@ -27,7 +27,7 @@ city = "Warszawa"
   - '[Bill Feager](@/w/feager.md)'
   - s: Dostawczak Match (_Delivery Van Match_)
     nc: '?'
-    n: Michael HT declared Biesiad the winner, but an [official Facebook post][dostawczak-nc] later called the fight a no contest.
+    n: Michael HT declared Biesiad the winner, but an [official Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0GvoYdEwBwUSNJ3H5WPmwUcP7sFXjA5ECQ84eXkWXbKwpHfPGzcxzE9MhWkEPSRJAl) later called the fight a no contest.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
@@ -115,6 +115,3 @@ city = "Warszawa"
 ### References
 
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid08d4V76rPAC5izL61xJRK9jjKYZNjTEawzJjtzKZTtZgiS5PAeA8EquL6FGQteEayl)
-
-[dostawczak-nc]: https://www.facebook.com/OficjalnePPW/posts/pfbid0GvoYdEwBwUSNJ3H5WPmwUcP7sFXjA5ECQ84eXkWXbKwpHfPGzcxzE9MhWkEPSRJAl
-
