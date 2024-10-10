@@ -19,8 +19,8 @@ city = "Kozłów"
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '???'
   - nc: Upcoming
-- - '???'
-  - '???'
+- - Luca Bjorn'
+  - '[Max Speed](@/w/max-speed.md)'
   - s: Trick or Treat Hardcore Match
     nc: Upcoming
 - - '[Alex Brave](@/w/alex-brave.md)'
