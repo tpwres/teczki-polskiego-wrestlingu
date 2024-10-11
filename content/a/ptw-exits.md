@@ -2,6 +2,7 @@
 title = "PTW Exits"
 weight = 5
 template = "article.html"
+ authors = ["Seweryn Pielucha", "Szymon Iwulski"]
 [extra]
 toclevel = 3
 [extra.gallery]
