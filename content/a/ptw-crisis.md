@@ -2,6 +2,7 @@
 title = "PTW's 2024 Crisis"
 template = "article.html"
 weight = 7
+authors = ["Szymon Iwulski"]
 +++
 
 The following elaborates on the 2024 PTW crisis, touched upon in the [main article](@/o/ptw.md#post-gold-rush-crisis).
