@@ -17,7 +17,7 @@ city = "Kozłów"
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: Upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
-  - '???'
+  - 'Reyca'
   - nc: Upcoming
 - - Luca Bjorn'
   - '[Max Speed](@/w/max-speed.md)'
