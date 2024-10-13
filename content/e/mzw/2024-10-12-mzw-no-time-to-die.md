@@ -47,7 +47,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
+  - '[Polish Hammer](@/w/jedrus-bulecka.md)'
 
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Olgierd](@/w/olgierd.md)'
