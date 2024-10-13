@@ -24,38 +24,47 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 * [Shadow](@/w/shadow.md) vs [Alex Ace](@/w/alex-ace.md) was initially supposed to be a regular Singles Match, but two days before the show MZW [posted a message][ace-belt] stating that Alex Ace decided he was going to defend his ERW East Division Championship. That made this fight the third title match of the night, which in turn means that his is the first event in the history of Polish pro wrestling where three belts of three different and distinctly separate promotions are defended on one night (earlier in 2024 [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) featured three matches for different titles, but PTW:WWA has strong ties to PTW).
 
 {% card() %}
-- - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Samson](@/w/samson.md)'
-  - nc: upcoming
-- - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - nc: upcoming
-- - '[Shadow](@/w/shadow.md)'
-  - '[Alex Ace](@/w/alex-ace.md)(c)'
+-'[Rafi](@/w/rafi.md)'
+- g: true
+  s: Rafi announces his retirement from in-ring competition. Match against Marcelito gets canceled
+- -'[Alex Ace](@/w/alex-ace.md)(c)'
+  - '[Shadow](@/w/shadow.md)'
   - c: ERW East Division Championship
-    nc: upcoming
-- - '[Aron Wake](@/w/aron-wake.md)'
-  - '[Matt Buckna](@/w/matt-buckna.md)'
-  - nc: upcoming
-    c: '[MZW Championship](@/c/mzw-championship.md)'
-- - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
-  - nc: upcoming
-- - '[Marcelito](@/w/marcelito.md)'
-  - '[Rafi](@/w/rafi.md)'
-  - nc: upcoming
+
+- - '[Syriusz Dziedzic](@/w/dziedzic.md)
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Marcelito](@/w/marcelito.md)
+  - s: Triple Threat Match. Marcelito added due to his match against Rafi being canceled
+ 
+- - '[Samson](@/w/samson.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Sambor](@/w/sambor.md); Rusałka'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
-- - '[Bill Feager](@/w/feager.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
-  - s: No DQ Match
-    nc: upcoming
+
+- - Tony "The River Man" Sheen
+  - '[Marco Hammers](@/w/marco-hammers.md)
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
+
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Feager Puncher](@/w/feager.md)'
+  - s: NO DQ Match
+
+- - '[Matt Buckna](@/w/matt-buckna.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+  -  c: '[MZW Championship](@/c/mzw-championship.md)'
+
+   
 {% end %}
 
 ## References
 
 * [Announcement post](https://www.facebook.com/photo/?fbid=893308346160890&set=a.548442050647523) on MZW's official Facebook page.
-
+* [Official results post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0xvscovNeQy1cRGucusxTL5gQ5dPAYbgRJLs1apxgY9VQ7CxwdR4C9yNFPbiQWYjkl)
 [ace-belt]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02AUDkH8aw2xrUgS6Z7agpRns9qNjRSDwJ9q4ZBR1KyKaRTB3kfNcWNvhrLShrYqx9l
