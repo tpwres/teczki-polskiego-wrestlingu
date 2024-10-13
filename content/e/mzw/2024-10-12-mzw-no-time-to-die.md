@@ -31,9 +31,9 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
   - '[Shadow](@/w/shadow.md)'
   - c: ERW East Division Championship
 
-- - '[Syriusz Dziedzic](@/w/dziedzic.md)
+- - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Marcelito](@/w/marcelito.md)
+  - '[Marcelito](@/w/marcelito.md)'
   - s: Triple Threat Match. Marcelito added due to his match against Rafi being canceled
  
 - - '[Samson](@/w/samson.md)'
@@ -43,8 +43,8 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
   - '[Sambor](@/w/sambor.md); Rusałka'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
 
-- - Tony "The River Man" Sheen
-  - '[Marco Hammers](@/w/marco-hammers.md)
+- - '[Tony "The River Man" Sheen]'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
