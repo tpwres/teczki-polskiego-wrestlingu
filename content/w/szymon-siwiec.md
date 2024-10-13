@@ -9,7 +9,7 @@ career_aliases = ["Siwy", "Mr. Fitness"]
 
 ## Professional wrestling career
 
-Szymon Siwiec is a Polish wrestler, who had a brief run as a singles wrestler with [PXW](@/w/pxw.md) in 2012, and with [MZW](@/o/mzw.md) between 2014 and 2017.
+Szymon Siwiec is a Polish wrestler, who had a brief run as a singles wrestler with [PXW](@/o/pxw.md) in 2012, and with [MZW](@/o/mzw.md) between 2014 and 2017.
 
 ## Other media
 
