@@ -11,7 +11,7 @@ manifest = "@/e/mzw/2017-02-18-mzw-beatdown-2-gallery.toml"
 +++
 
 {% card() %}
-- ["Lider", "[Prince Victor](@/w/vic-golden.md)"]
+- ["[Lider](@/w/lider.md)", "[Prince Victor](@/w/vic-golden.md)"]
 - ["[Matt Buckna](@/w/matt-buckna.md)", "[Dynamite Dave](@/w/dynamite-dave.md)", {
     r: "Count Out"}]
 - ["[Asmund](@/w/asmund.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]

@@ -4,7 +4,7 @@ template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Siwy"]
+career_aliases = ["Siwy", "Mr. Fitness"]
 +++
 
 ## Professional wrestling career

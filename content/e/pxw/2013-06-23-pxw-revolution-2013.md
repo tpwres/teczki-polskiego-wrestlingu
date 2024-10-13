@@ -19,7 +19,7 @@ city = "Głuchołazy"
   - '???, ???'
   - s: Tag-Team Match
     nc: '?'
-- - '[Black Joker](@/w/black-joker.md)'
+- - '[Black Joker](@/w/lider.md)'
   - '[Manny](@/w/manny.md)'
   - nc: '?'
 {% end %}

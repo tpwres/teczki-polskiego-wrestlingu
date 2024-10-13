@@ -10,7 +10,7 @@ city = "Głuchołazy"
 
 {% card() %}
 - - '[Terry Shadow](@/w/shadow.md)'
-  - '[Black Joker](@/w/black-joker.md)'
+  - '[Black Joker](@/w/lider.md)'
   - ???
   - s: Royal Rumble Match
     nc: '?'

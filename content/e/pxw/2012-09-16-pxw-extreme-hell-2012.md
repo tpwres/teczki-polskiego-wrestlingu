@@ -9,7 +9,7 @@ city = "Głuchołazy"
 +++
 
 {% card() %}
-- - '[Black Joker](@/w/black-joker.md)'
+- - '[Black Joker](@/w/lider.md)'
   - '[Snake](@/w/snake.md)'
   - c: PXW Championship
     s: Extreme Rules Match
