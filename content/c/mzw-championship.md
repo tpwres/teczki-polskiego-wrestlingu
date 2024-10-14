@@ -189,13 +189,12 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
 
 **TOTAL:** 574 days
 
-### Champion #7: ???
+### Champion #7: Matt Buckna
 
 {% free_card() %}
-- - '[Aron Wake](@/w/aron-wake.md)'
-  - '[Matt Buckna](@/w/matt-buckna.md)'
+- - '[Matt Buckna](@/w/matt-buckna.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
   - s: Singles match
     en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
     ed: 2024-10-12
-    nc: upcoming
 {% end %}
