@@ -14,7 +14,7 @@ city = "Warszawa"
 - ["[Don Roid](@/w/don-roid.md), [Klarys](@/w/klarys.md)", "[Kamil Manuszewski](@/w/kamil-aleksander.md),
     [Marcin Wilkowski](@/w/jedrus-bulecka.md)", {r: "DQ"}]
 - ["[Don Roid](@/w/don-roid.md), [Klarys](@/w/klarys.md)", "[Kamil Manuszewski](@/w/kamil-aleksander.md),
-    [Marcin Wilkowski](@/w/jedrus-bulecka.md)", {r: "DQ"}]
+    [Marcin Wilkowski](@/w/jedrus-bulecka.md)", {nc: "Double DQ"}]
 {% end %}
 
 ### References
