@@ -66,7 +66,12 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 
 ### Outcomes and aftermath
 
+* Adi came out clasping hands with the audience, earning him "Pan Pawłowski" chants in reference to the way [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) makes his entrance. Once in the ring, Adi was urged by the audience to drop to his knees - again, in the manner of Pawłowski - which he did.
 * Before the show started [Rafi](@/w/rafi.md) came out to the ring and announced his retirement from the in-ring competition, although he didn't specify a reason. Instead, he served as a referee for about half of the matches.
+* Present in the audience was [Justin Joy](@/w/justin-joy.md), who had a few minor fan interactions with the wrestlers.
+* The Triple Threat Match started with [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md) holding steel chairs, but [Biesiad](@/w/biesiad.md) with a wooden one.
+* Later in the match, Dziedzic grabbed the chair from Biesiad and exclaimed "I took away his only weapon!" Biesiad then threw Marcelito at him.
+* Samson's music was mistakenly played for a few seconds before [Sambor's](@/w/sambor.md) entrance.
 * The event saw a surprise, unannounced return of [Polish Hammer](@/w/jedrus-bulecka.md), last seen in MZW's ring back in [2019](@/e/mzw/2019-06-01-mzw-project-5-hero.md).
 * Another unexpected return to wrestling was Tony Sheen, active many years ago on the backyard scene, in places like [PXW](@/o/pxw.md) and [WKSW](@/o/wksw.md), and as referee on the previous two MZW events.
 * Johnny Blade and Feager put on a typical PpW style match, with weapons like kendo sticks, steel plates, chairs, road signs and an improvised mace.
