@@ -1,6 +1,8 @@
 +++
 title = "Bakara"
 template = "venue_page.html"
+[extra.gallery]
+1 = { path = "bakara.jpg", caption = "Bakara community centre in October 2024.", source = "M3n747" }
 +++
 
 Bakara is a local community center located in Wrocław's Grabiszyn district. It's next to the footbal stadium used by the city's team, although the two places are separated by a railway line.
