@@ -72,6 +72,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 * Johnny Blade and Feager put on a typical PpW style match, with weapons like kendo sticks, steel plates, chairs, road signs and an improvised mace.
 * Both members of Legia Łysych had a singles match, and accompanied their partner to the ring. The local crowd reacted strongly to them, singing very crude football stadium chants against Legia.
 * Prompted by the popular chants of "Eat his head!" (_Zjedz mu łeb!_), [Samson](@/w/samson.md) bit [Marco Hammers](@/w/marco-hammers.md) on the head.
+* [Aron Wake](@/w/aron-wake.md) entered with a modified version of his theme song, adding an intro from Madonna's "Like a player", referencing his MZW past and prodigal son return. During the match, he played up his career-threatening injury (shattered collarbone) to garner a heel heat in his match. After dodging Buckna's corner offence, he 'botched' a roll, leading to referee checking on him. He used this chance to low-blow [Matt Buckna](@/w/matt-buckna.md) standing behind him and make a come back for a near-fall.
 * After the main event, Buckna addressed the crowd in German. He reminisced about first stepping in MZW's ring [eight years ago](@/e/mzw/2016-11-05-mzw-revolution.md), and his route to becoming the champion and face of the organization today. He also promised that his reign is that of a fighting champion, and he's ready to defend the belt anywhere, anytime. Finally, he offered a title match to Shadow, at a time and place of his choosing.
 
 
