@@ -6,7 +6,7 @@ authors = ["M3n747", "Seweryn Pielucha"]
 [extra]
 toclevel=2
 [extra.gallery]
-manifest = "@/c/ppw-championship-gallery"
+manifest = "@/c/ppw-championship-gallery.toml"
 +++
 
 The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md). It was introduced in 2017 during their backyard years and underwent two design changes: first in 2021, and then in 2024 at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).
