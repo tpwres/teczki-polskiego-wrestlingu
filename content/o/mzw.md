@@ -39,6 +39,8 @@ MZW was most active from 2014 to 2019, holding about five events a year. 2020 pu
 
 In 2020 and 2021 several wrestlers would quit and join the newly created [PTW](@/o/ptw.md) to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
 
+In 2024, MZW held a fight for the long-vacant [MZW Championship](@/c/mzw-championship.md), and a [new champion](@/w/matt-buckna.md) was finally crowned.
+
 ### Foreign relations
 
 MZW frequently cooperated with German organizations, especially with Dresden-based Next Step Wrestling and Eastside Revolution Wrestling. In their early days, the Germans would often outnumber Polish wrestlers present.
