@@ -58,7 +58,7 @@ MZW has one singles championship, with Shadow having the longest combined reigns
 
 | Championship | Current champion | Notes |
 |---|---|---|
-| [MZW Championship][mzw-c] | **VACANT** since [Game On](@/e/mzw/2023-03-11-mzw-game-on.md) on 2023-03-11 | Final champion: [Rafael Kid](@/w/rafael-kid.md) defeated [Aron Wake](@/w/aron-wake.md) at [Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) |
+| [MZW Championship][mzw-c] | [Matt Buckna](@/w/matt-buckna.md) | Defeated [Aron Wake](@/w/aron-wake.md) at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) |
 | [MZW Tag Team Championship][mzw-ttc] | **INACTIVE** since 2019-03-23 | Final Champions: Wataha (Apollo Anderson & [Justin Joy](@/w/justin-joy.md)) |
 
 ## References
