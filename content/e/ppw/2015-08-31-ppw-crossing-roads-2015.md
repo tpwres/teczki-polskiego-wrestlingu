@@ -11,7 +11,7 @@ city = "Warszawa"
 1 = { path = "cr15-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
 +++
 
-Crossing Roads 2015 was an early backyard era PpW show, held outdoors at Winogronowa 17 street in Warsaw. It was built around the clash of the rosters of the two PpW "weeklies": Hardcore Friday and Super Lucha.
+Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdoors at Winogronowa 17 street in Warsaw. It was built around the clash of the rosters of the two PpW "weeklies": Hardcore Friday and Super Lucha.
 
 {% card() %}
 - - 'Hirinus'
@@ -20,11 +20,14 @@ Crossing Roads 2015 was an early backyard era PpW show, held outdoors at Winogro
 - - '[Feager](@/w/feager.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: Ropeless Match
-- - 'Automatico'
-  - 'Extreme Floorfiller'
+- - Automatico
+  - Extreme Floorfiller
   - s: 2 Out Of 3 Falls Match
     n: Automatico won the match 2:1
-- - 'Team Friday: [Feager](@/w/feager.md), [Biesiad Strong](@/w/biesiad.md)'
+- - >
+    Team Friday:
+    [Feager](@/w/feager.md),
+    [Biesiad Strong](@/w/biesiad.md)
   - 'Team Lucha: Superior, Epic Angel Guerrero'
   - s: Tag Team Match
     r: Submission
