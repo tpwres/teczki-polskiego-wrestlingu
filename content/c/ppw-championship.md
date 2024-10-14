@@ -6,10 +6,7 @@ authors = ["M3n747", "Seweryn Pielucha"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "ppw-championship.jpg", caption = "[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.", source = "Official PpW website / Facebook" }
-2 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = "The PpW Champion, Steve Kuningas, with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA.", source = "Official PpW website / Facebook" }
-3 = { path = "ppw-new-championship-belt.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) presenting the redesigned belt at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).", source = "Official PpW Instagram" }
-4 = { path = "ppw-old-belt.jpg", caption = "[Mister Z](@/w/mister-z.md) with the old belt at [Kiedyś będzie lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).", source = "Official PpW YouTube" }
+manifest = "@/c/ppw-championship-gallery"
 +++
 
 The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md). It was introduced in 2017 during their backyard years and underwent two design changes: first in 2021, and then in 2024 at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).
@@ -201,7 +198,6 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles match
     en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
     en: 2024-10-12
-    nc: upcoming
 {% end %}
 
 ## References

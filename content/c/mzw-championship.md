@@ -8,6 +8,9 @@ toclevel=2
 [extra.gallery.1]
 path = "rafael-kid-mzw-belt.webp"
 caption = "[Rafael Kid](@/w/rafael-kid.md) with the MZW Championship belt on his shoulder, at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)."
+[extra.gallery.2]
+path = "mzw-belt-2024.jpg"
+caption = "MZW Championship at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)."
 +++
 
 MZW Championship is a professional wrestling championship, created and promoted by [Maniac Zone Wrestling](@/o/mzw.md) as their top championship.
