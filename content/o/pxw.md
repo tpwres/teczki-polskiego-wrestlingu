@@ -15,7 +15,7 @@ The group was active between 2011 and 2013, and could only hold events in spring
 
 The biggest event held by PXW was [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow which featured wrestlers from many other backyard organizations active in Poland at the time.
 
-In early 2013, a popular Polish hip-hop artist O.S.T.R. released a [music video][ostry] featuring PXW wrestlers, such as [Manny](@/w/manny.md), [Black Joker](@/w/black-joker.md), [Terry Shadow](@/w/shadow.md), [Szymon Siwiec](@/w/szymon-siwiec.md) and others.
+In early 2013, a popular Polish hip-hop artist O.S.T.R. released a [music video][ostry] featuring PXW wrestlers, such as [Manny](@/w/manny.md), [Black Joker](@/w/lider.md), [Terry Shadow](@/w/shadow.md), [Mr. Fitness](@/w/szymon-siwiec.md) and others.
 
 ### References
 

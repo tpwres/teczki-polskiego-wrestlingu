@@ -46,7 +46,7 @@ city = "Głuchołazy"
   - c: WTW Championship
     nc: '?'
 - - '[Manny](@/w/manny.md)'
-  - '[Black Joker](@/w/black-joker.md)'
+  - '[Black Joker](@/w/lider.md)'
   - s: PXW Championship #1 Contendership Match
     nc: '?'
 - - '[Sirreks](@/w/sirreks.md)'

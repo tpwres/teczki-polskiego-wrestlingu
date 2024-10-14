@@ -15,7 +15,7 @@ city = "Głuchołazy"
 - - '[Matt Blazer](@/w/blazer.md)'
   - '[Nightmare](@/w/nightmare.md)'
   - nc: '?'
-- - '[Black Joker](@/w/black-joker.md)(c)'
+- - '[Black Joker](@/w/lider.md)(c)'
   - '[Luke Sirreks](@/w/sirreks.md)'
   - c: PXW Championship
     nc: '?'
