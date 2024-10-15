@@ -32,8 +32,10 @@ city = "Warszawa"
 - - '[Alex Arthur](@/w/alex-arthur.md)'
   - '[Bill Feager](@/w/feager.md)'
   - nc: upcoming
-- - '[Shadow](@/w/shadow.md)'
+- - '[Marcelito](@/w/marcelito.md)'
   - '_rookie_ Oskar'
+  - '[Sambor](@/w/sambor.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
   - nc: upcoming
 {% end %}
 
