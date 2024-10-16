@@ -51,6 +51,9 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
   - '[Marcelito](@/w/marcelito.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - s: Royal Rumble Match
+- - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
+  - g: true
+    s: Tomasz hosted a contest, where a small group of volunteers from the audience filled in a test to win MZW T-shirts and other gadgets.
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Olgierd](@/w/olgierd.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -70,7 +73,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 * Before the show started [Rafi](@/w/rafi.md) came out to the ring and announced his retirement from the in-ring competition, although he didn't specify a reason. Instead, he served as a referee for about half of the matches.
 * Present in the audience was [Justin Joy](@/w/justin-joy.md), who had a few minor fan interactions with the wrestlers.
 * The Triple Threat Match started with [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md) holding steel chairs, but [Biesiad](@/w/biesiad.md) with a wooden one.
-* Later in the match, Dziedzic grabbed the chair from Biesiad and exclaimed "I took away his only weapon!" Biesiad then threw Marcelito at him.
+* Later in the match, Dziedzic grabbed the chair from Biesiad and exclaimed "I took away his only weapon!" Then Biesiad threw Marcelito at him.
 * Samson's music was mistakenly played for a few seconds before [Sambor's](@/w/sambor.md) entrance.
 * The event saw a surprise, unannounced return of [Polish Hammer](@/w/jedrus-bulecka.md), last seen in MZW's ring back in [2019](@/e/mzw/2019-06-01-mzw-project-5-hero.md).
 * Another unexpected return to wrestling was Tony Sheen, active many years ago on the backyard scene, in places like [PXW](@/o/pxw.md) and [WKSW](@/o/wksw.md), and as referee on the previous two MZW events.
@@ -79,7 +82,6 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 * Prompted by the popular chants of "Eat his head!" (_Zjedz mu łeb!_), [Samson](@/w/samson.md) bit [Marco Hammers](@/w/marco-hammers.md) on the head.
 * [Aron Wake](@/w/aron-wake.md) entered with a modified version of his theme song, adding an intro from Madonna's "Like a prayer", referencing his MZW past and prodigal son return. During the match, he played up his career-threatening injury (shattered collarbone) to garner heel heat in his match. After dodging Buckna's corner offense, he 'botched' a roll, leading to referee checking on him. He used this chance to low-blow [Matt Buckna](@/w/matt-buckna.md) standing behind him, and make a come back for a near-fall.
 * After the main event, Buckna addressed the crowd in German. He reminisced about first stepping in MZW's ring [eight years ago](@/e/mzw/2016-11-05-mzw-revolution.md), and his route to becoming the champion and face of the organization today. He also promised that his reign is that of a fighting champion, and he's ready to defend the belt anywhere, anytime. Finally, he offered a title match to Shadow, at a time and place of his choosing.
-
 
 ## References
 
