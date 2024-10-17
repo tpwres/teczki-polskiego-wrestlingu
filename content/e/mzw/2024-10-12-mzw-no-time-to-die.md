@@ -7,10 +7,8 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
-[extra.gallery.1]
-path = "2024-10-12-mzw-no-time-to-die.jpg"
-caption = "Official poster. Left to right: [Johnny Blade](@/w/johnny-blade.md) (top), [Shadow](@/w/shadow.md) (bottom), [Dziedzic](@/w/dziedzic.md), [Matt Buckna](@/w/matt-buckna.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
+manifest = "@/e/mzw/2024-10-12-mzw-no-time-to-die-gallery.toml"
 +++
 
 After a nearly year-long hiatus following their [last event](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), on August 1, 2024, [MZW](@/o/mzw.md) announced a new show, called No Time to Die.
@@ -50,7 +48,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
   - '[Samson](@/w/samson.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
-  - s: Royal Rumble Match
+  - s: Battle Royal Match
 - - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
   - g: true
     s: Tomasz hosted a contest, where a small group of volunteers from the audience filled in a test to win MZW T-shirts and other gadgets.
@@ -75,6 +73,7 @@ Like the [previous show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), this one
 * The Triple Threat Match started with [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md) holding steel chairs, but [Biesiad](@/w/biesiad.md) with a wooden one.
 * Later in the match, Dziedzic grabbed the chair from Biesiad and exclaimed "I took away his only weapon!" Then Biesiad threw Marcelito at him.
 * Samson's music was mistakenly played for a few seconds before [Sambor's](@/w/sambor.md) entrance.
+* The Battle Royal wasn't on the card prior to the show; it was only announced moments before it happened.
 * The event saw a surprise, unannounced return of [Polish Hammer](@/w/jedrus-bulecka.md), last seen in MZW's ring back in [2019](@/e/mzw/2019-06-01-mzw-project-5-hero.md).
 * Another unexpected return to wrestling was Tony Sheen, active many years ago on the backyard scene, in places like [PXW](@/o/pxw.md) and [WKSW](@/o/wksw.md), and as referee on the previous two MZW events.
 * Johnny Blade and Feager put on a typical PpW style match, with weapons like kendo sticks, steel plates, chairs, road signs and an improvised mace.
