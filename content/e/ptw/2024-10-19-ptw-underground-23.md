@@ -13,7 +13,7 @@ city = "Kozłów"
 
 {% card() %}
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
-  - '???'
+  - 'Tucker'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: Upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
