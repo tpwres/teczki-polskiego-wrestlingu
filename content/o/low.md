@@ -84,6 +84,8 @@ The next day there was another live Q&A, once again hosted by [ShowOff](@/w/piot
 * Legacy are happy with their talks with other promotions.
 * The first event should be about 2:30-2:45 hours long.
 
+In October 2024 Legacy started unveiling the wrestlers booked for the [first show](@/e/low/2024-12-01-low-1.md). On 3.10.2024 they [announced][fb-reveal-1] [Wiktor Longman](@/w/wiktor-longman.md), [Marco Hammers](@/w/marco-hammers.md), [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md), all of whom were in the [reveal trailer][reveal-trailer]. About a week later [another post][fb-reveal-2] announced the first wrestler not seen in the trailer, and the first active worker from another promotion: [Filip Fux](@/w/filip-fux.md) from [Kombat Pro Wrestling](@/o/kpw.md).
+
 ### References
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
@@ -104,3 +106,5 @@ The next day there was another live Q&A, once again hosted by [ShowOff](@/w/piot
 [yt-pat]:https://www.youtube.com/channel/UCy-vLx6AuT4F4iCHkqkNPFg
 [fb-1st-show-date]:https://www.facebook.com/permalink.php?story_fbid=953679250090327&id=61564064601704&substory_index=953679250090327
 [yt-1st-show-trailer]:https://www.youtube.com/watch?v=VltQ9RVeoOk
+[fb-reveal-1]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02SuX78a4fAo5FDecJyfKdPDmKxnbuU663EP7R9mPrhEJuz1PkLmNKbbyiM2YHd1hQl
+[fb-reveal-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid0XWsFhvZ7FHHuqidorhsVc42E4xQodFjcfx6aGkgnncbSJexkXucdMdMc7Pr4UeLDl
