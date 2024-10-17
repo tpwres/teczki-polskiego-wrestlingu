@@ -174,6 +174,8 @@ The venue is divided in two by a set of curtains. Workout equipment can be found
 In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled. Though the shows are not aired live as previously, they are taped with a promise of later release.
 Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host, he was also confirmed to be a third of the new commentary team.
 
+On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
+
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md) or [MCW](@/o/mcw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
@@ -243,3 +245,4 @@ In August 2024, PTW launched their new show, "Czas na Wrestling" ("Time for Wres
 [followup-pawlowski]: https://www.youtube.com/watch?v=F4PknaxqojM&t=73s
 [live-istota-puncher]: https://www.youtube.com/watch?v=dq3qmzdzLYc&t=81s
 [young-multi-ak47]: https://www.youtube.com/watch?v=BXamVDoOSAw
+[fb-extreme-sports]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0DwHGQai69fPD3yYBa58LBvcCPFFLNsVShRaq8fru5VuiHaT9jhviRnyjk3X3rYqFl
