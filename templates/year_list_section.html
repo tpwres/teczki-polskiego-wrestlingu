@@ -32,11 +32,12 @@ Add these events to your calendar by subscribing to <a href="{{ get_url(path="ca
 {% endblock content %}
 {% block extra_head %}
 <script defer type="module">
-import { extractUpcoming, createSection } from '/events.js'
+import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
 document.addEventListener('DOMContentLoaded', () => {
   const events = extractUpcoming()
   const list = document.querySelector('ul.event-list')
   createSection(events, list, 'h2')
+  cleanEmptyYears('h2')
 })
 </script>
 {% endblock %}
