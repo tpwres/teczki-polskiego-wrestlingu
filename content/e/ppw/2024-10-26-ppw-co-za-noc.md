@@ -1,6 +1,7 @@
 +++
 title = "PpW Co Za Noc"
 template = "event_page.html"
+authors = ["Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["minska-65"]
@@ -13,10 +14,12 @@ city = "Warszawa"
 +++
 
 "Co Za Noc" (_What a Night_) was announced on 10.09.2024, set to take place in a brand new location - a post-industrial complex at Mińska 65 street.
-Trivia:
-* PpW announced a collaboration event for the show. Before and during the event, there will be an opportunity to get a tattoo, courtesy of tattoo shop Syrena (Siren)
+
+### Build-up
+
+* PpW announced a collaboration event for the show. Before and during the event, there will be an opportunity to get a tattoo, courtesy of tattoo parlour Syrena (_Siren_).
 * To further bolster ticket sales, PpW introduced a student discount as well are "buy 5, get 1 free" discount.
-* Many PpW personalities announced new merchandise items to be presented at the show
+* Many PpW personalities announced new merchandise items to be available at the show.
   
 {% card(predicted=true) %}
 - - 'Team Biesiad: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md), [Biesiad Strong](@/w/biesiad.md)'
