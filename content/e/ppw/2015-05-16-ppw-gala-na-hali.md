@@ -9,9 +9,9 @@ venue = ["gubin"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "mystic-tiger-vs-johnny-blade.jpg", caption = "", source = "Official PpW YouTube" }
-1 = { path = "ultimo-combo-vs-the-hardyz.jpg", caption = "[Ultimo Combo](@/w/johnny-blade.md) vs [The](@/w/mister-z.md) [Hardyz](@/w/rob-scaffold.md)", source = "Official PpW YouTube" }
-1 = { path = "mr-z-vs-automatico.jpg", caption = "[Mister Z](@/w/mister-z.md) vs Automatico", source = "Official PpW YouTube" }
-1 = { path = "matt2hot-vs-electrico.jpg", caption = "[Matt2Hot](@/w/sedzia-matt2hot.md) vs Electrico", source = "Official PpW YouTube" }
+2 = { path = "ultimo-combo-vs-the-hardyz.jpg", caption = "[Ultimo Combo](@/w/johnny-blade.md) vs [The](@/w/mister-z.md) [Hardyz](@/w/rob-scaffold.md)", source = "Official PpW YouTube" }
+3 = { path = "mr-z-vs-automatico.jpg", caption = "[Mister Z](@/w/mister-z.md) vs Automatico", source = "Official PpW YouTube" }
+4 = { path = "matt2hot-vs-electrico.jpg", caption = "[Matt2Hot](@/w/sedzia-matt2hot.md) vs Electrico", source = "Official PpW YouTube" }
 +++
 
 Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard era, held indoors in a school at Gubinowska street, which some of the members of the promotion attended at the time. There was no ring and all the fights took place on mattresses - mainly in the titular gym hall but also outside of it, in a school corridor and an adjacent PE changing room. There was no audience and also no referee.
@@ -29,7 +29,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 - - 'Electrico'
   - '[Matt2Hot](@/w/sedzia-matt2hot.md)'
   - nc: '?'
-    n: The video cuts off before the end of the fight; an on-screen caption then reads "winner: jhon cena #2" (sic).
+    n: The video cuts off before the end of the fight; an on-screen caption then reads "winner: jhon cena #2" [sic].
 - credits:
     Commentary: 'Roger Kevin'
 {% end %}
