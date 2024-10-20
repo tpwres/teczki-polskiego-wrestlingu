@@ -14,7 +14,7 @@ city = "Warszawa"
 4 = { path = "matt2hot-vs-electrico.jpg", caption = "[Matt2Hot](@/w/sedzia-matt2hot.md) vs Electrico", source = "Official PpW YouTube" }
 +++
 
-Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard era, held indoors in a [school at Gubinowska street][gubin], which some of the members of the promotion attended at the time. There was no ring and all the fights took place on mattresses - mainly in the titular gym hall but also outside of it, in a school corridor and an adjacent PE changing room. There was no audience and also no referee.
+Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard era, held indoors in a school at Gubinowska street, which some of the members of the promotion attended at the time. There was no ring and all the fights took place on mattresses - mainly in the titular gym hall but also outside of it, in a school corridor and an adjacent PE changing room. There was no audience and also no referee.
 
 {% card() %}
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -29,7 +29,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 - - 'Electrico'
   - '[Matt2Hot](@/w/sedzia-matt2hot.md)'
   - nc: '?'
-    n: The video cuts off before the end of the fight; an on-screen caption then reads _winner: jhon cena #2_ (sic).
+    n: The video cuts off before the end of the fight; an on-screen caption then reads "winner: jhon cena #2" (sic).
 - credits:
     Commentary: 'Roger Kevin'
 {% end %}
@@ -47,5 +47,4 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 * [Full show on YouTube](https://www.youtube.com/watch?v=vgzV_VAajB8)
 * [PpW Wikia entry](https://ppw-fandom.tpwres.pl/ppw-gala-na-hali-2015)
 
-[gubin]: https://ppw-fandom.tpwres.pl/gubin
 [cena-za-kilo]: https://www.youtube.com/watch?v=svjMiqVeiG8
