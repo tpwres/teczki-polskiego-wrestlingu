@@ -30,6 +30,8 @@ city = "Kozłów"
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - nc: Upcoming    
+- credits:
+    Referee: 'Herno'
 {% end %}
 
 ### References
