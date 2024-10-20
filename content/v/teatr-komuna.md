@@ -15,7 +15,7 @@ PpW organized their ["Miasto Bezprawia"](@/e/ppw/2024-02-10-ppw-miasto-bezprawia
 > Such emphasis is nothing but the popular and ancestral image of the perfect intelligibility of reality.
 > What is enacted by wrestling, then, is an ideal intelligence of things, a euphoria of humanity, raised for a while out of the constitutive ambiguity of everyday situations and installed in a panoramic vision of a univocal Nature, in which signs finally correspond to causes without obstacle, without evasion, and without contradiction.”
 >
-> -- Roland Barthes, Mythologies (1957)
+> — Roland Barthes, Mythologies (1957)
 
 ### References
 
