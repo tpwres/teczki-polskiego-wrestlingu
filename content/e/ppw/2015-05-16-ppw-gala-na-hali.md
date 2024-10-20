@@ -33,6 +33,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 - credits:
     Commentary: 'Roger Kevin'
 {% end %}
+
 #### Recap
 
 * The commentator was only present in the recap section at the beginning.
