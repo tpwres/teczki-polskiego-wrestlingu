@@ -8,6 +8,11 @@ toclevel=2
 [extra.gallery.1]
 path = "rafael-kid-mzw-belt.webp"
 caption = "[Rafael Kid](@/w/rafael-kid.md) with the MZW Championship belt on his shoulder, at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)."
+source = "Official MZW Facebook"
+[extra.gallery.2]
+path = "mzw-belt-2024.jpg"
+caption = "MZW Championship at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)."
+source = "M3n747"
 +++
 
 MZW Championship is a professional wrestling championship, created and promoted by [Maniac Zone Wrestling](@/o/mzw.md) as their top championship.
@@ -175,7 +180,6 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 
 Asmund vacated the title immediately after winning it, due to his retirement from wrestling. This resulted in the title being vacant for 721 days.
 
-
 ### Champion #6: Rafael Kid
 
 {% free_card() %}
@@ -189,3 +193,13 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
 Title was later vacated due to Rafael Kid leaving the organization. This was announced at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), and resulted in a vacancy of over 502 days. Rafael Kid's reign is recognized as lasting 574 days.
 
 **TOTAL:** 574 days
+
+### Champion #7: Matt Buckna
+
+{% free_card() %}
+- - '[Matt Buckna](@/w/matt-buckna.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+  - s: Singles match
+    en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
+    ed: 2024-10-12
+{% end %}

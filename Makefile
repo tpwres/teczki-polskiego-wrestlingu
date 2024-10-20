@@ -7,10 +7,18 @@ ROSTERS=data/roster_ptw.json \
         data/roster_wwe.json
 METADATA=data/all_matches.json data/appearances.json data/crew_appearances.json data/career.json
 PLOTS=data/chronology-hyperlinked.svg
-CAL=static/calendar.ics
+CAL=static/calendar.ics \
+    static/calendar-ptw.ics \
+    static/calendar-kpw.ics \
+    static/calendar-mzw.ics \
+    static/calendar-ppw.ics \
+		static/calendar-low.ics
 MINISEARCH_INDEX=static/minisearch_index.json
 
-all: $(ROSTERS) $(METADATA) $(CAL) $(MINISEARCH_INDEX)
+all: rosters meta calendar index plot
+rosters: $(ROSTERS)
+meta: $(METADATA)
+calendar: $(CAL)
 plot: $(PLOTS)
 index: $(MINISEARCH_INDEX)
 
@@ -38,8 +46,14 @@ data/chronology-plot.svg: const/chronology.csv
 data/chronology-hyperlinked.svg: data/chronology-plot.svg
 	bin/linkify-plot < $< > $@
 
-$(CAL): content/e/**/*.md
+static/calendar.ics: content/e/**/*.md
 	bin/build-calendar > $@
+
+static/calendar-%.ics: ORG = $(patsubst static/calendar-%.ics,%,$@)
+static/calendar-%.ics: content/e/%/*.md
+	bin/build-calendar \
+		-t $(shell grep -Po 'title = \K(.*)' content/e/${ORG}/_index.md) \
+		content/e/${ORG} > $@
 
 $(MINISEARCH_INDEX): content/**/*.md
 	bin/build-index > $@

@@ -7,7 +7,6 @@ country = ["PL"]
 [extra.gallery.1]
 path = "kornel-praga-centrum.webp"
 caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md)"
-source = "M3n747"
 [extra.gallery.2]
 path = "sedzia-kornel.jpg"
 caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md)."

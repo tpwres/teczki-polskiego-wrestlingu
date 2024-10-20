@@ -16,7 +16,7 @@ city = "Głuchołazy"
 - ["[Prince Victor](@/w/vic-golden.md)", "[Skull Evil](@/w/skull-evil.md)", "[Stanisław
     Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", {s: "Triple Threat Match"}]
 - ["[Red Thunder](@/w/red-thunder.md)", "Szymon Kolanus"]
-- ["[Siwy](@/w/szymon-siwiec.md)", "Lider", {r: "DQ"}]
+- ["[Siwy](@/w/szymon-siwiec.md)", "[Lider](@/w/lider.md)", {r: "DQ"}]
 - ["[Christopher Anthony](@/w/christopher-anthony.md)", "[Matt Buckna](@/w/matt-buckna.md)",
   "Otto Stahl", {s: "Triple Threat Match"}]
 - - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"

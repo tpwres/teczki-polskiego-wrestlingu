@@ -26,7 +26,9 @@ Sideplates are simply two small circular sawblades, and instead of a classic pin
 * Most reigns: Johnny Blade (2)
 * Longest reign: [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (637 days)
 
-## Champion #1: Johnny Blade (1st run)
+## Title history
+
+### Champion #1: Johnny Blade (1st run)
 
 {% free_card() %}
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -44,8 +46,7 @@ Sideplates are simply two small circular sawblades, and instead of a classic pin
 
 **TOTAL:** 112 days.
 
-
-## Champion #2: Stanisław Van Dobroniak
+### Champion #2: Stanisław Van Dobroniak
 
 {% free_card() %}
 - - 'Stanisław Van Dobroniak'
@@ -83,7 +84,7 @@ Sideplates are simply two small circular sawblades, and instead of a classic pin
 In addition to the above, Dobroniak also defended the title abroad: twice in STHLM Wrestling, in [November 2022](https://www.cagematch.net/?id=1&nr=355802) against Jack Jones and [December 2023](https://www.cagematch.net/?id=1&nr=381560) against Lexi Luxx, and once in Freedom Pro Wrestling against Mange Mörbult, in [January 2024](https://www.cagematch.net/?id=1&nr=389324).
 
 
-## Champion #3: Johnny Blade (2nd run)
+### Champion #3: Johnny Blade (2nd run)
 
 {% free_card() %}
 - - 'Johnny Blade'

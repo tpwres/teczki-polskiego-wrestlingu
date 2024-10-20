@@ -1,5 +1,6 @@
 +++
 title = "Contributing"
+authors = ["Krzysztof Zych"]
 weight = 0
 +++
 

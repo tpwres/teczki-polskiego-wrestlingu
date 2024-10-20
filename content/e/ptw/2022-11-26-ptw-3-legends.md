@@ -46,6 +46,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - {g: true}
 - [Samuray Del Sol, Matt Sydal]
 - credits:
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/alex-brave.md)'
     Commentary: >
       [Arek Paterek](@/w/arek-paterek.md),
@@ -53,7 +54,6 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
       [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)
     Special guest commentary for the main event: Andrzej Supron, Paweł "Boryss" Borkowski
     English commentary: '[Santino](@/w/santino.md), Lewis Costello'
-    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 

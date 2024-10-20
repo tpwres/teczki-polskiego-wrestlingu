@@ -79,7 +79,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
   - Blaze
   - s: Fatal 4 Way for PTW Contract
 - - '[Puncher](@/w/puncher.md)'
-  - 'Miyagi Shida'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - s: Puncher's open challenge
     c: PTW Championship and WWA Championship
 - - '[Nano Lopez](@/w/nano-lopez.md)'
@@ -92,8 +92,8 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Iva Kolasky'
 - credits:
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-    Host, ring announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 ### References

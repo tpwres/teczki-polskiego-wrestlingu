@@ -1,6 +1,6 @@
 import yaml
 import io
-from typing import Union, Iterable, Optional, Tuple, NamedTuple, cast
+from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO
 import re
 from pathlib import Path
 from itertools import chain
@@ -253,6 +253,7 @@ class DelimitedCard(NamedTuple):
     end: int
     text: str
     card_start_line: int
+    frontmatter_offset: int
 
 class Card:
     start_offset: Optional[int]
@@ -260,16 +261,16 @@ class Card:
     crew: Optional[Crew]
     matches: Optional[list[Match]]
 
-    def __init__(self, text_or_io: Union[str, io.TextIOBase], path: Optional[Path]):
+    def __init__(self, text_or_io: object, path: Optional[Path], offset: int):
         match text_or_io:
             case str() as text:
                 # parse_result = self.extract_card(text_or_io.split("\n"))
-                extracted_card = self.extract_card_unsplit(text)
+                extracted_card = self.extract_card_unsplit(text, offset)
             case io.TextIOBase() as stream:
-                extracted_card = self.extract_card_unsplit(stream.read())
+                extracted_card = self.extract_card_unsplit(stream.read(), offset)
 
         if extracted_card:
-            card_start, card_end, card_text, _ = extracted_card
+            card_start, card_end, card_text, _, _ = extracted_card
             self.start_offset = card_start
             self.end_offset = card_end
             with self.handle_yaml_errors(extracted_card, path):
@@ -292,14 +293,19 @@ class Card:
         try:
             yield
         except yaml.parser.ParserError as parse_error:
-            _, _, _, start_line = card_block
+            _, _, _, start_line, offset = card_block
             context, _, problem, problem_mark = parse_error.args
-            line = start_line + problem_mark.line
+            # Calculate actual line number
+            # Block content starts at start_line + 1
+            # problem_mark.line treats that as line 1
+            # And the card is extracted from a file with frontmatter already removed,
+            # so we also need to add in the frontmatter length
+            line = (start_line + 1) + problem_mark.line + offset
             message = f"{path or '<file>'}:{line}: Error: {problem} {context}\n"
             # stderr.write(message)
             raise CardParseError(message)
 
-    def extract_card_unsplit(self, text: str) -> Optional[DelimitedCard]:
+    def extract_card_unsplit(self, text: str, frontmatter_offset: int) -> Optional[DelimitedCard]:
         card_start_match = card_start_re.search(text)
         if not card_start_match:
             return None
@@ -310,7 +316,7 @@ class Card:
             raise ValueError("Could not find card end marker {% end %}")
         body = text[card_start_match.end():card_end]
 
-        return DelimitedCard(card_start_match.end(), card_end, body, start_line)
+        return DelimitedCard(card_start_match.end(), card_end, body, start_line, frontmatter_offset)
 
     def parse_card(self, card_text: str) -> Iterable[Match|Crew]:
         card_rows = yaml.safe_load(io.StringIO(card_text))

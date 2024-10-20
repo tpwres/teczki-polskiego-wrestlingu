@@ -4,14 +4,14 @@ template = "index.html"
 +++
 
 # Places
-
+<!-- Please sort alphabetically. -->
 ### Warsaw
 
-* [2 Koła Motorcycle Club](@/v/2kola.md) {{ org_badge(org='ppw') }}
-* [Waldorffa 25](@/v/waldorffa25.md) {{ org_badge(org='ppw') }}
-* [Teatr Komuna](@/v/teatr-komuna.md) {{ org_badge(org='ppw') }}
+* [2KOŁA Motorcycle Club](@/v/2kola.md) {{ org_badge(org='ppw') }}
 * [Hala Bemowo](@/v/hala-bemowo.md) {{ org_badge(org='ptw') }}
 * [Praga Centrum](@/v/praga-centrum.md) {{ org_badge(org='ppw') }}
+* [Teatr Komuna](@/v/teatr-komuna.md) {{ org_badge(org='ppw') }}
+* [Waldorffa 25](@/v/waldorffa25.md) {{ org_badge(org='ppw') }}
 
 ### Tricity area
 
@@ -21,8 +21,9 @@ template = "index.html"
 
 ### Silesian metropolis
 
-* [PTW Performance Center](@/v/ptw-targowa.md) {{ org_badge(org='ptw') }}
 * [MORIS Chorzów](@/v/moris-chorzow.md) {{ org_badge(org='ptw') }}
+* [Pod Platanem / Szafirowy Dwór](@/v/dworek-kozlow.md) {{ org_badge(org='ptw') }}
+* [PTW Performance Center](@/v/ptw-targowa.md) {{ org_badge(org='ptw') }}
 
 ### Wrocław and Lower Silesia
 

@@ -1,0 +1,125 @@
+{% set root = config.extra.gallery_root ~ page.path %}
+<h2 id="gallery">Gallery</h2>
+<dialog id="lb">
+  <form method="dialog">
+    <button type="submit" autofocus>
+      <span aria-hidden class="closebtn">×</span>
+      <span class="sr-only">Close popup</span>
+    </button>
+  </form>
+  <button class="prev" type="button">
+    <span aria-hidden>«</span>
+    <span class="sr-only">Previous image</span>
+  </button>
+  <button class="next" type="button">
+    <span aria-hidden>»</span>
+    <span class="sr-only">Next image</span>
+  </button>
+  <figure>
+    <img>
+    <figcaption>
+      <p></p>
+      <small></small>
+    </figcaption>
+  </figure>
+</dialog>
+<section>
+  <ul class="gallery">
+    {% if page.extra.gallery.manifest %}
+      {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}
+    {% else %}
+      {% set gallery_items = page.extra.gallery %}
+    {% endif %}
+    {% for key, item in gallery_items %}
+      {% set path = item.path -%}
+      {% set caption = item | get(key="caption", default="") -%}
+      <li>
+        <figure id="fig{{ loop.index }}" data-path="{{ root ~ path }}">
+          <a href="#img{{ loop.index }}">
+            <img src="{{ root ~ 'tn/' ~ path }}" alt=""/>
+          </a>
+
+          <a class="lightbox" href="#fig{{ loop.index }}" id="img{{ loop.index }}">
+            <span style="background-image: url('{{ root ~ path }}')"></span>
+          </a>
+          <figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
+          <data class="attribution">{{ item | get(key="source", default="") }}</data>
+        </figure>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+<script type="module">
+  const updateLightbox = (dialog, figure) => {
+    const caption = figure.querySelector('figcaption').innerHTML
+    const attribution = figure.querySelector('data.attribution').innerHTML
+    const img = dialog.querySelector('figure img')
+    const figcaption = dialog.querySelector('figure figcaption')
+    const desc = figcaption.querySelector('p')
+    const source = figcaption.querySelector('small')
+
+    img.src = figure.dataset.path
+    desc.innerHTML = caption
+    if (attribution)
+      source.innerHTML = 'Source: ' + attribution
+    else
+      source.innerHTML = ''
+
+    figcaption.style.width = `clamp(50vw, ${img.naturalWidth}px, 80vw)`
+
+    const [prevFig, nextFig] = findSiblingFigures(figure)
+    const prevBtn = dialog.querySelector('button.prev')
+    if (prevFig) {
+      prevBtn.style.display = ''
+      prevBtn.onclick = (ev) => updateLightbox(dialog, prevFig)
+    } else {
+      prevBtn.style.display = 'none'
+    }
+
+    const nextBtn = dialog.querySelector('button.next')
+    if (nextFig) {
+      nextBtn.style.display = ''
+      nextBtn.onclick = (ev) => updateLightbox(dialog, nextFig)
+    } else {
+      nextBtn.style.display = 'none'
+    }
+  }
+
+  const findSiblingFigures = (figure) => {
+    const nextItem = figure.parentElement.nextElementSibling
+    const nextFig = nextItem ? nextItem.querySelector('figure') : null
+    const prevItem = figure.parentElement.previousElementSibling
+    const prevFig = prevItem ? prevItem.querySelector('figure') : null
+    return [prevFig, nextFig]
+  }
+
+  const showLightbox = (ev) => {
+    const dialog = document.querySelector('dialog#lb')
+    const figure = ev.currentTarget
+    updateLightbox(dialog, figure)
+    dialog.showModal()
+    ev.preventDefault()
+  }
+  document.addEventListener('DOMContentLoaded', (ev) => {
+    document.querySelectorAll("[id^=fig]").forEach((el) => {
+      el.addEventListener('click', showLightbox)
+    })
+
+    const dialog = document.querySelector('dialog#lb')
+
+    dialog.addEventListener('keydown', (ev) => {
+      switch (ev.key) {
+        case 'ArrowRight':
+          var btn = dialog.querySelector('button.next')
+          if (btn.style.display != 'none')
+            btn.click()
+          break
+        case 'ArrowLeft':
+          var btn = dialog.querySelector('button.prev')
+          if (btn.style.display != 'none')
+            btn.click()
+          break
+      }
+    })
+  })
+</script>

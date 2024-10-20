@@ -13,7 +13,7 @@ The eleventh [PTW](@/o/ptw.md) Underground show was held on Sunday, January 29th
 The show was held in its regular venue, [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
 
 Foreign guests for this show included Danish wrestler Emilian Lewis, the Hungarian team of Dover and Icarus, and the French team of masked luchadors Aigle Blanc and Senza Volto.
-This was the only appearance of Aigle Blanc for PTW so far, and the second for Senza Volto who previously appeared at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md).
+This was the first appearance of Aigle Blanc for PTW, and the second for Senza Volto who previously appeared at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md).
 
 {% card() %}
 - - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
@@ -29,7 +29,7 @@ This was the only appearance of Aigle Blanc for PTW so far, and the second for S
   - 'The Frenchadors: Aigle Blanc, Senza Volto'
   - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Rafał](@/w/alex-brave.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 

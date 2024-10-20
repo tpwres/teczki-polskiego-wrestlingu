@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+from argparse import ArgumentParser
 from icalendar import vText, vCalAddress
 from icalendar.cal import Event as vEvent, Calendar
 import json
@@ -7,7 +8,8 @@ from pathlib import Path
 from dataclasses import dataclass
 from datetime import date, datetime
 from page import EventPage, VenuePage, OrgPage
-from typing import cast, Optional
+from textwrap import dedent
+from typing import cast, Optional, Callable
 
 @dataclass
 class Event:
@@ -26,28 +28,40 @@ class Venue:
     full_name: str
     city: Optional[str]
 
-def main():
+def setup_calendar(title: Optional[str]):
     calendar = Calendar()
     calendar['VERSION'] = '2.0'
     calendar['PRODID'] = 'tpwres.pl/1.0'
     calendar['CALSCALE'] = 'GREGORIAN'
-    calendar['X-WR-CALNAME'] = 'Polish Wrestling Events'
+    calendar['X-WR-CALNAME'] = title or 'Polish Wrestling Events'
     calendar['X-WR-TIMEZONE'] = 'Europe/Warsaw'
-    # Not from all-matches, it doesn't have future events
-    all_matches = json.load(Path("data/all_matches.json").open('rb'))
-    event_files = Path("content/e").glob("**/????-??-??-*.md")
+    return calendar
+
+def build_description(url, page):
+    return dedent(f'''
+        <a href="{url}">{page.title}</a>
+    ''').strip()
+
+Predicate = Callable[[EventPage], bool]
+
+def generate_calendar(events_dir: Path, accept_event: Predicate, title: Optional[str]):
+    calendar = setup_calendar(title)
+    event_files = events_dir.glob("**/????-??-??-*.md")
     created_at = datetime.now()
 
     for evf in event_files:
         page = EventPage(evf, verbose=False)
-        event = vEvent()
-        event.add('dtstamp', created_at)
-        event.add('dtstart', page.event_date)
-        event.add('summary', vText(page.title))
-        event.add('tzid', 'Europe/Warsaw')
-        event.add('uid', evf.stem)
+        if not accept_event(page):
+            continue
+
         event_url = evf.relative_to("content/e").with_suffix("")
-        event.add('url', f'https://tpwres.pl/e/{event_url}')
+        event = vEvent(
+            dtstamp=created_at.strftime('%Y%m%dT%H%M%S'),
+            dtstart=page.event_date.strftime('%Y%m%d'),
+            summary=vText(page.title),
+            tzid='Europe/Warsaw',
+            uid=evf.stem,
+            url=f'https://tpwres.pl/e/{event_url}')
 
         for org in page.orgs:
             org_page = lookup_org(org)
@@ -58,6 +72,7 @@ def main():
             event.add('organizer', attn)
 
         taxonomies = cast(dict[str, list[str]], page.front_matter.get('taxonomies', {}))
+        extra = cast(dict, page.front_matter.get('extra', {}))
         venue_id = taxonomies.get('venue', [None])[0]
         if venue := lookup_venue(venue_id):
             if venue.city:
@@ -65,9 +80,12 @@ def main():
             else:
                 location = venue.full_name
             event.add('location', vText(location))
+        else:
+            # No venue but may have city
+            if city := extra.get('city'):
+                event.add('location', vText(city))
 
-        description = f'<a href="{event_url}">{page.title}</a>'
-        event.add('description', description)
+        event.add('description', build_description(event_url, page))
         calendar.add_component(event)
         # TODO: Read card, add to details
 
@@ -97,6 +115,56 @@ def lookup_venue(code):
     )
 
 
+def main():
+    parser = ArgumentParser(
+        prog='build_calendar.py',
+        description='Build iCal files out of event directories'
+    )
+    parser.add_argument(
+        'events_dir',
+        nargs='?',
+        help='Directory name to parse event files from. If omitted, loads all event files available from under content/e'
+    )
+    parser.add_argument(
+        '-V', '--venue',
+        action='store',
+        metavar='VENUE',
+        help='Only add event if its frontmatter specifies a venue and it matches the provided value. '
+        'Rejects events with no venue.'
+    )
+    parser.add_argument(
+        '-C', '--city',
+        action='store',
+        metavar='CITY',
+        help='Only add event if its frontmatter specifies city and it matches the provided value'
+    )
+    parser.add_argument(
+        '-t', '--title',
+        action='store',
+        metavar='TITLE',
+        help='Set title for the calendar'
+    )
+    opts = parser.parse_args()
+
+    def event_filter(page: EventPage) -> bool:
+        front_matter = cast(dict, page.front_matter)
+        extra = cast(dict, front_matter.get('extra', {}))
+        fm_city = extra.get('city', None)
+        if opts.city and fm_city and opts.city != fm_city:
+            return False
+
+        taxonomies = cast(dict, front_matter.get('taxonomies', {}))
+        fm_venue = taxonomies.get('venue', [None])[0]
+        # If opts.venue is specified, but the event has no venue info, reject it
+        if fm_venue is None and opts.venue:
+            return False
+        # Otherwise, compare the two
+        if opts.venue and fm_venue and opts.venue != fm_venue:
+            return False
+
+        return True
+
+    generate_calendar(Path(opts.events_dir or 'content/e'), event_filter, opts.title)
 
 if __name__ == "__main__":
     main()

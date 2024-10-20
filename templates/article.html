@@ -2,6 +2,8 @@
 {%- import "macros/career.html" as macros %}
 
 {% block content %}
+{% if page.extra.gallery -%}{% set has_gallery = true %}{% endif %}
+
 <h1>{{ page.title }}</h1>
 
 {% if page.extra|get(key="toclevel", default=0) >= 1 %}
@@ -11,6 +13,6 @@
 {{ page.content | safe }}
 
 {% if page.extra.gallery -%}
-  {% include "auto_lightbox.html" -%}
+  {% include "auto_lightbox_dialog.html" -%}
 {% endif -%}
 {% endblock content %}

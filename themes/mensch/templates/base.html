@@ -31,6 +31,11 @@
       {% elif page.summary -%}
         <meta property="og:description" content="{{ page.summary | striptags }}" />
       {% endif -%}
+      {% if page.extra.gallery -%}
+        {% include "og_gallery_extractor.html" -%}
+      {% else %}
+        <meta property="og:image" content="{{ get_url(path='og-default.png') }}" />
+      {% endif %}
       {% if page.date -%}
         <meta property="article:published_time" content="{{ page.date }}" />
       {% endif -%}

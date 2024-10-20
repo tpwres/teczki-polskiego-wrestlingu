@@ -1,0 +1,70 @@
+:root:has(dialog[open])
+  overflow: clip
+
+dialog#lb
+  max-height: calc(90vh - 1rem)
+  max-width: calc(100vw - 1rem)
+  background: transparent
+  color: transparent
+  overflow: hidden
+
+  &::backdrop
+    background-color: var(--bg)
+    opacity: 80%
+
+  button.next, button.prev
+    padding: 2rem 0.5rem
+    font-size: 1.5rem
+    background: var(--lightbox-nav-button)
+    color: var(--lightbox-nav-fg)
+    &:hover
+      opacity: 100%
+
+  button.next
+    position: absolute
+    top: 50%
+    transform: translateY(-50%)
+    right: 0
+
+  button.prev
+    position: absolute
+    top: 50%
+    transform: translateY(-50%)
+    left: 0
+
+  form button
+    position: absolute
+    top: 0
+    right: 0
+    background: transparent
+    font-size: 1.5rem
+
+    .closebtn
+      background: var(--close-button)
+      color: var(--close-button-fg)
+      padding: .3rem .5rem
+      border: none
+      border-radius: 5px
+
+  figure
+    background: var(--accent-bg)
+    padding: 0.5rem
+    display: flex
+    flex-direction: column
+
+  img
+    height: 0
+    object-fit: contain
+    flex: 2 70vh
+
+  figcaption
+    align-self: flex-end
+    margin: 0 auto
+    color: var(--fg)
+    /* flex: 1 10vh
+
+  .sr-only
+    display: none
+
+.gallery li data
+  display: none

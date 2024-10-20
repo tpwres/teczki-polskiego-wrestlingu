@@ -5,6 +5,8 @@
 
 For a CageMatch-like list of events, click <a href="./cm/">here</a>.
 
+Add these events to your calendar by subscribing to <a href="{{ get_url(path="calendar.ics", trailing_slash=false) }}">calendar.ics</a>.
+
 {% set_global all_events = section.pages %}
 {% for subsection_path in section.subsections %}
   {% set subsection = get_section(path=subsection_path) %}
@@ -18,8 +20,10 @@ For a CageMatch-like list of events, click <a href="./cm/">here</a>.
     <h2>{{ thisyear }}</h2>
     <ul class="event-list">
         {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
-        <li>
-           {{page.date}} <a href="{{get_url(path=page.path)}}">{{ page.title }}</a>
+        <li data-date="{{ page.date }}">
+          {% set dt = page.date | date(format="%Y-%m-%d") -%}
+          <time datetime="{{ dt }}">{{ dt }}</time>
+          <a href="{{get_url(path=page.path)}}">{{ page.title }}</a>
         </li>
         {% endfor %}
     </ul>
@@ -28,3 +32,14 @@ For a CageMatch-like list of events, click <a href="./cm/">here</a>.
 {{ section.content | safe }}
 
 {% endblock content %}
+{% block extra_head %}
+<script defer type="module">
+import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
+document.addEventListener('DOMContentLoaded', () => {
+  const events = extractUpcoming()
+  const list = document.querySelector('ul.event-list')
+  createSection(events, list, 'h2')
+  cleanEmptyYears('h2')
+})
+</script>
+{% endblock %}

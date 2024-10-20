@@ -9,6 +9,10 @@ toclevel=2
 path = "wataha-justin-apollo-championship.jpg"
 caption = "Final champions: [Justin Joy](@/w/justin-joy.md) and Apollo Anderson."
 source = "Facebook"
+[extra.gallery.2]
+path = "svd-mzw-tt.jpg"
+caption = "A better look at the belt, worn by [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)."
+source = "Official MZW YouTube"
 +++
 
 MZW Tag Team Championship is a defunct professional wrestling championship, which was created and promoted by [Maniac Zone Wrestling](@/o/mzw.md) as their tag team division championship.

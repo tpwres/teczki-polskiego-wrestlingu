@@ -9,6 +9,8 @@ venue=["praga-centrum"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "PpW's Facebook page"}
+2 = { path = "ewenement-haze-420-match.jpg", caption = "Critical 4/20 Ladder Match - [Goblin](@/w/goblin.md) elbow drops onto [Rafi](@/w/rafi.md), held on a table by Benny Bacchus.", source = "Ville Paananen"}
+3 = { path = "ewenement-haze-mister-z.jpg", caption = "[Mister Z](@/w/mister-z.md) posing on a turnbuckle, with [Referee Kornel](@/w/sedzia-kornel.md) and [Michael HT](@/w/michael-ht.md) standing to the side.", source = "Ville Paananen"}
 +++
 
 Ewenement Haze was an event by [PpW Ewenement](@/o/ppw.md), taking place on Saturday April 20, 2024.
@@ -61,8 +63,8 @@ The foreign guests for this event were:
   - c: "[PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
     n: "[Johnny Blade](@/w/johnny-blade.md) was the special guest referee."
 - credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
-    Ring announcer and host: '[Michael HT](@/w/michael-ht.md)'
     Commentary: Szymon Modzelewski, Konrad "Joker" Grzesikiewicz
 {% end %}
 

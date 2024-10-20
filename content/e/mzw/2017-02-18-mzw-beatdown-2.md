@@ -7,16 +7,16 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 [extra.gallery]
-1 = { path = "plakat.webp", caption = "Official poster.", source = "Facebook @ManiacZoneWrestling" }
+manifest = "@/e/mzw/2017-02-18-mzw-beatdown-2-gallery.toml"
 +++
 
 {% card() %}
-- ["Lider", "[Prince Victor](@/w/vic-golden.md)"]
+- ["[Lider](@/w/lider.md)", "[Prince Victor](@/w/vic-golden.md)"]
 - ["[Matt Buckna](@/w/matt-buckna.md)", "[Dynamite Dave](@/w/dynamite-dave.md)", {
     r: "Count Out"}]
 - ["[Asmund](@/w/asmund.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
 - ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", "[Skull Evil](@/w/skull-evil.md)", {s: "Hardcore Flag Match"}]
-- - "Kings of Porn Style: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)"
+- - "Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)"
   - "[Christopher Anthony](@/w/christopher-anthony.md), Marcus Monere"
   - s: "Tag Team Match"
 - ["[Hexia](@/w/hexia.md)", "???", "???", "Blue Thunder", "[Mr B.](@/w/mr-b.md)",

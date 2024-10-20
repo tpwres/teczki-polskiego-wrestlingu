@@ -6,12 +6,15 @@ authors = ["Krzysztof Zych"]
 [taxonomies]
 chrono_root = ["ppw"]
 [extra]
-year_list_start = 2017
+year_list_start = 2010
 toclevel = 3
 [extra.gallery]
 1 = { path = "backyard_korzenie.jpg", caption = '[Mister Z](@/w/mister-z.md) (left) and [Gustav Gryffin](@/w/gustav-gryffin.md) in front of presumably the new ring. Text: "Today Mister Z showed me his roots"' }
 2 = { path = "biesiad_dive.jpg", caption = '[Biesiad](@/w/biesiad.md) testing the new ring by diving into some foam padding. Text: What a backyard, oh fuuuck.' }
 3 = { path = "zet_supron.jpg", caption = 'Andrzej Supron and Mister Zet shaking hands.' }
+4 = { path = "pas-ppw-2012.jpg", caption = "PpW's [main title belt](https://ppw-fandom.tpwres.pl/pas-ppw) from the backyard era (2012 design pictured)", source = "Official PpW Wikia, via Ville Paananen" }
+5 = { path = "dark-black-skull-z-pasem-skulla.jpg", caption = "Backyard-era wrestler Dark Black Skull with his hand-made [Skull's Belt](https://ppw-fandom.tpwres.pl/pas-skulla) (_Pas Skulla_) .", source = "Official PpW Wikia, via Ville Paananen" }
+
 +++
 
 PpW is a wrestling promotion from Warsaw. It styles itself as a fully independent, self-sufficient organization with no commercial affiliations.
@@ -83,6 +86,13 @@ This failed spot, and the second attempt were featured in [Botchamania 489](http
 PpW's third Botchamania entry was from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). In the four-man ladder match, just after the opening sequence, Benny Bachhus accidentally grabs the trophy as he falls to the ground when his ladder was knocked. The faces then signal the referee to hang it up again and the match is restarted.
 This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwafo&t=730s), at the 12:10 mark. In another botch, this time on Botchamania's end, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [similarly-named event](@/e/ptw/2024-05-11-ptw-6.md).
 
+## Mainstream media
+
+On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured [a brief segment][halo-tu-ppw] with PpW's wrestlers [Biesiad](@/w/biesiad.md), [Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Gustav brought his custom [PpW Championship](@/c/ppw-championship.md) belt, which was prominently displayed on a coffee table, with PpW's logo clearly legible.
+The hosts asked the wrestlers several questions, including about the nature of kayfabe and their roles and characters. Biesiad was portrayed as a pure fighter, while Gustav promoted himself as a man of culture and means, deserving the championship he carried. Crane was referred to mostly as "coach".
+The segment ended with Gustav standing up and getting into Biesiad's face, at which point Biesiad removed his T-shirt and threw his opponent across the studio couch. They then ran out into the studio, brawled for a short while, while Crane was trying to separate them.
+Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the show host explained to the camera that it's all a show, and there's no need to be alarmed.
+
 ## Championships
 
 | Championship | Current champion(s) | Notes |
@@ -104,3 +114,4 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 
 [ppw-c]: @/c/ppw-championship.md
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
+[halo-tu-ppw]: https://youtu.be/rbscVyOSjn0?si=Li0WYQoHiVM9V-Pe

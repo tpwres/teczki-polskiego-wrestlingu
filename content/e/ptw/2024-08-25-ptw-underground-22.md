@@ -16,7 +16,7 @@ path = "las_atomicas.webp"
 caption = "Screenshot of Las Atomicas' short-lived Instagram account. They were announced as a dance group to perform on the show in addition to the wrestling."
 +++
 
-Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was Dworek Pod Platanem in Kozłów, recently [refurbished](@/o/ptw.md#post-ryucon-new-venue) as a wrestling event and training facility.
+Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was Dworek Pod Platanem in Kozłów, recently [refurbished](@/o/ptw.md##Post-Ryucon-New-venue-PTW-back-on-track) as a wrestling event and training facility.
 
 This Underground show was the first one to have an individual title, not just a number.
 It was announced during [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), when GM/owner [Pan Pawłowski](@/w/pan-pawlowski.md) announced a summer training camp to be held in August,
@@ -40,11 +40,11 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 {% card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Blaze'
-- - 'Miyagi Shida'
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - g: true
     s: Contract signing
 - - '[Alex Brave](@/w/alex-brave.md)'
-  - 'Miyagi Shida'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
 - - 'Rust'
   - 'LaVonce'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
@@ -59,6 +59,8 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - '[Puncher](@/w/puncher.md)'
   - 'Maverick'
   - c: 'WWA Championship'
+- credits:
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
 The announced dance performance was met with slight backlash from the fans online. Ultimately it never happened, and the Instagram account was quietly removed.

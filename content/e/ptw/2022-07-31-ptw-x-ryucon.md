@@ -7,6 +7,8 @@ chronology = ["ptw"]
 venue = ["tauron"]
 [extra]
 city = "Kraków"
+[extra.gallery]
+manifest = "@/e/ptw/2022-07-31-ptw-x-ryucon-gallery.toml"
 +++
 
 PTW X RyuCon was held in Tauron Arena, Kraków on July 31st, 2022. Tauron is a large venue, the wrestling show was hosted in a smaller side room in the conference section of the arena. The event was not streamed on any official channels.
@@ -29,8 +31,8 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
 - ['[Puncher](@/w/puncher.md)', '[Samson](@/w/samson.md)']
 - ['[Bad Bones](@/w/bad-bones.md)', '[Taras](@/w/taras.md)']
 - credits:
-    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 

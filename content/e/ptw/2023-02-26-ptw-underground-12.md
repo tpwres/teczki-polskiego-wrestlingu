@@ -30,13 +30,13 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
   - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship
       Tournament
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 #### Recap
 
-- Hammers vs Lopez did not start, due to Remo interfering duing Lopez' entrance, laying him out, and later chasing Hammers out of the ring.
+- Hammers vs Lopez did not start, due to Remo interfering during Lopez's entrance, laying him out, and later chasing Hammers out of the ring.
 
 ### References
 

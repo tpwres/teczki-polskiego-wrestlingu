@@ -22,7 +22,7 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 - [Arczi Czajka, '[Gabriel Queen](@/w/gabriel-queen.md)']
 - ['[Nano Lopez](@/w/nano-lopez.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
 - credits:
-    Host, Ring Announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >
       [Arek Paterek](@/w/arek-paterek.md),
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)

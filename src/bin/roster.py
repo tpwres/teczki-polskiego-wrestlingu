@@ -10,7 +10,7 @@ from page import EventPage
 from sys import stderr, exit
 
 def main():
-    num_errors = 0
+    errors = []
     org_rosters = {}
     cwd = Path.cwd()
     # 1. List all event pages
@@ -31,11 +31,13 @@ def main():
             for org in page.orgs:
                 roster = org_rosters.setdefault(org, Counter())
                 roster.update(names)
-        except CardParseError:
-            num_errors += 1
+        except CardParseError as e:
+            errors.append(e)
 
     # Exit without writing anything if errors found
-    if num_errors > 0:
+    if len(errors) > 0:
+        for err in errors:
+            print(err)
         stderr.write("Errors found, aborting\n")
         exit(1)
 

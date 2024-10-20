@@ -9,7 +9,7 @@ city = "Głuchołazy"
 +++
 
 {% card() %}
-- - 'Mr. Fitness'
+- - '[Mr. Fitness](@/w/szymon-siwiec.md)'
   - '[Demente](@/w/demente.md)'
   - nc: '?'
 - - 'Vandal'
@@ -21,7 +21,7 @@ city = "Głuchołazy"
   - '[Sirreks](@/w/sirreks.md)'
   - nc: '?'
 - - '???'
-  - '[Black Joker](@/w/black-joker.md)'
+  - '[Black Joker](@/w/lider.md)'
   - c: PXW Championship
     nc: '?'
 {% end %}

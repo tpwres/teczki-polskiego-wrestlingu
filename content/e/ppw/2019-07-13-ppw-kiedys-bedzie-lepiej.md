@@ -3,11 +3,12 @@ title = "PpW Kiedyś Będzie Lepiej"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
+venue = ["ognicho"]
 [extra]
 city = "Warszawa"
 +++
 
-"Kiedyś będzie lepiej" (_One Day It's Gonna Be Better_) was PpW's penultimate backyard show and the last one to be held in the open air.
+"Kiedyś będzie lepiej" (_One Day It's Gonna Be Better_) was PpW's penultimate backyard show and the last one to be held in the open air. Unlike multiple previous events, which were held at a lot at Winogronowa 17 street, this show took place at a small clearing in a forest.
 
 {% card() %}
 - ["[Mister Z](@/w/mister-z.md)", "[Osamu](@/w/osamu.md)", {s: Hardcore Match}]

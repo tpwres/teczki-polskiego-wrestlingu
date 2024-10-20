@@ -7,8 +7,10 @@ template = "org_page.html"
 toclevel = 3
 [taxonomies]
 chrono_root = ["kpw"]
-[extra.gallery]
-1 = { path = "white-eagle-wrestling.jpg", caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler.md) showing the mock-up logo for the rejected White Eagle Wrestling name", source = "Official KPW YouTube channel" }
+[extra.gallery.1]
+path = "white-eagle-wrestling.jpg"
+caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler.md) showing the mock-up logo for the rejected White Eagle Wrestling name"
+source = "Official KPW YouTube channel"
 +++
 
 ### History
@@ -34,6 +36,29 @@ During and after the hiatus KPW lost several of their headliners who chose to jo
 #### 2023 TV deal and FightBox
 
 During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), Chairman Malinowski announced that from this moment on KPW's events would be broadcast on cable TV, on an MMA and wrestling-focused channel FightBox. This was finally realized in April 2024, when FightBox aired Arena 23. On April 2, 2024 [Piękny Kawaler](@/w/piekny-kawaler.md), KPW's owner, booker and head trainer, posted [a photo of himself][kawaler-watching-tv] watching the event on TV, captioning it "he day has come". According to his replies under that post, KPW supplied FightBox with two versions: one with Polish commentary track and one without, so that an English commentary could be recorded for broadcast outside of Poland. The version aired by FightBox in April 2024 had no commentary.
+
+#### 2024
+
+In 2024 the organization continued to hold successful events, often selling out their usual venue [Nowy Harem](@/v/atlantic-nh-gdynia.md). 
+That year's [Godzina Zero](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) show was, unusually, held in a school gymnastics hall instead, trading the club for a bigger venue. It also returned to a Saturday date.
+
+{% inline_fig(path="kpw_roster_gz2024.webp") %}
+Promo shot posted by KPW after [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) on Facebook, used as their cover image.
+
+Back row: Flexos with a German flag, then [Leon Lato](@/w/leon-lato.md) and [Chairman Malinowski](@/w/krystian-malinowski.md) with a Polish flag.
+Next to him are members of the Gregorian Branch: [Chemik](@/w/chemik.md), [Greg](@/w/greg.md) and [Eryk Lesak](@/w/eryk-lesak.md).
+To their right are [Zefir](@/w/zefir.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).
+
+Middle row: [Hans Schulte](@/w/hans-schulte.md), [David Oliwa](@/w/david-oliwa.md), Jack Jester presumably with a Scottish flag, then
+[Michał](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md), then [Rosetti](@/w/rosetti.md).
+
+In the front row: Reece Alexios with a Greek flag, Carlos Zamora with a Spanish one, ring announcer [Kinga Miotke](@/w/kinga-miotke.md). \
+[Red Scorpion](@/w/red-scorpion.md) with the [KPW Championship](@/c/kpw-championship.md) belt and an Italian flag stands in the middle. \
+Next, holding an English flag is "Multiversal" Alexander Roth, standing next to his tag-team partner "Big Wavy" Roy Johnson.
+Finally, [Darius](@/w/darius.md) is holding an Iranian flag, followed by [Referee Krystian Czekaj](@/w/krystian-czekaj.md) and [Ron Corvus](@/w/ron-corvus.md) with a Hungarian flag.
+
+Source: Facebook @kpwrestling.
+{% end %}
 
 ### Foreign relations
 

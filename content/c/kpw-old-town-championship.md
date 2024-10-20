@@ -37,7 +37,9 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
 * Most reigns: N/A
 * Longest reign: [David Oliwa](@/w/david-oliwa.md) (1190 days)
 
-## Champion #1: Greg
+## Title history
+
+### Champion #1: Greg
 
 {% free_card() %}
 - - '[Greg](@/w/greg.md)'
@@ -79,7 +81,7 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
 
 **TOTAL:** 692 days.
 
-## Champion #2: David Oliwa
+### Champion #2: David Oliwa
 
 {% free_card() %}
 - - 'David Oliwa'
@@ -129,7 +131,7 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
 
 Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
 
-## Champion #3: Rosetti
+### Champion #3: Rosetti
 
 {% free_card() %}
 - - 'Rosetti'
@@ -170,7 +172,7 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
 
 At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
 
-## Champion #4: Chemik
+### Champion #4: Chemik
 
 {% free_card() %}
 - - Chemik

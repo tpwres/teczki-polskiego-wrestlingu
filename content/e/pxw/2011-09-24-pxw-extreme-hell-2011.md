@@ -14,7 +14,7 @@ city = "Głuchołazy"
   - s: Chairs Match
     nc: '?'
 - - '[Terry Shadow](@/w/shadow.md)'
-  - '[Black Joker](@/w/black-joker.md)'
+  - '[Black Joker](@/w/lider.md)'
   - s: Falls Count Anywhere Match
 - - '[Mazi](@/w/mazi.md)'
   - '[Manny](@/w/manny.md)'

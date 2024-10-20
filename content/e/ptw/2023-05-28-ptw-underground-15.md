@@ -7,6 +7,8 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+[extra.gallery]
+1 = { path = "2023-05-28-ptw-underground-15-plakat.jpg", caption = "Official poster. Pictured left to right: [Vic Golden](@/w/vic-golden.md), [Sinister](@/w/sinister.md), [Gabriel Queen](@/w/gabriel-queen.md), [Disco Pablo](@/w/disco-pablo.md).", source = "Official PTW Facebook" }
 +++
 
 The 15th Underground event was the go-home show for [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and, as per FITE billings, the last one to feature Kinguin as titular sponsor.
@@ -24,8 +26,8 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/el-ogre.md)']
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
 - credits:
-    Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Arek Paterek](@/w/arek-paterek.md)'
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Arek Paterek](@/w/arek-paterek.md)'
     Interviews: Tobiasz "Skyver" Korzybski
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}

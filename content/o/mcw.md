@@ -4,16 +4,17 @@ weight = 0
 template = "org_page.html"
 authors = ["M3n747"]
 [extra]
-hide_roster = true
-hide_events = true
+toclevel = 3
+[taxonomies]
+chrono_root = ["mcw"]
 +++
 
 Mine City Wrestling is a small backyard promotion operating in Silesia.
 
 ## History
 
-MCW was established in 2011 in Siemianowice Śląskie by Johny Vegas, but not unveiled until December 2013, aiming to be an alternative to Polish backyard.
-The working name of the promotion had been NoN (Now or Never), until Mine City Wrestling was chosen in reference to the coal mining industry of Siemianowice.
+MCW was established in 2011 in Siemianowice Śląskie by Johny Vegas, but not unveiled until December 2013, aiming to be an alternative to Polish backyards.
+The working name of the promotion had been NoN ("Now or Never"), until "Mine City Wrestling" was chosen in reference to the coal mining industry of Siemianowice.
 At a later time the federation moved to Brzeziny and then Tarnowskie Góry, before settling in Świerklaniec.
 
 MCW attempted a crowdfunding campaign in order to rent or purchase a place to hold training sessions in, but they were unsuccessful, with only 100 out of 13,000 PLN raised for that goal.
@@ -22,15 +23,25 @@ There's been a rumour that [Prime Time Wrestling](@/o/ptw.md) attempted to buy i
 Vegas himself denies such an offer ever being made, but agrees he'd refuse anyway if it happened.
 
 MCW shows are rare, and most of them are intended to raise funds for charities.
-Despite not having a budget for international stars, MCW nonetheless managed to attract attention of wrestlers from such countries are Ireland or Scotland,
-who expressed interest in exchanging experiences and appearing in shows.
+Even though they don't have a budget for international stars, MCW nonetheless managed to attract the attention of wrestlers from such countries are Ireland or Scotland,
+who expressed interest in exchanging experiences and appearing on their shows.
 
 Their wrestlers are self-taught, which caused them to be written off multiple times by other organizations.
-Despite this, the promotion ran a series of instructional videos on their YouTube channel demonstrating some wrestling moves, both basic and more advanced.
+Nonetheless, the promotion ran a series of instructional videos on their YouTube channel demonstrating some wrestling moves, both basic and more advanced.
 Their activity on social media, however, is also infrequent, outside of YouTube shorts, which have been on the rise in 2024.
 
-The group had a small roster of people, many of whom since left, including some who joined Prime Time Wrestling.
+The roster was never big, but some of their former trainees and wrestlers were recruited by Prime Time Wrestling.
 Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md) and [Sinister](@/w/sinister.md), who wrestled for MCW as David Sirch.
+
+In addition to the events listed below, MCW also held two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie.
+
+### Championships
+
+MCW has one singles championship, which was introduced in late 2019.
+
+| Championship | Current champion | Notes |
+|---|---|---|
+| [MCW Championship](@/c/mcw-championship.md) | [RAV](@/w/rav.md) | Defeated [Johny Vegas](@/w/johny-vegas.md) at [MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show.md) |
 
 ### References
 
@@ -41,29 +52,3 @@ Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disc
 - [Crowdfunding page](https://wspieram.to/mcwwrestling)
 - [YouTube playlist of MCW's instructional videos](https://www.youtube.com/playlist?list=PL2kby3nr3FjcQFyp_hr73GMhmD9iiOdAd)
 - [Dziedzic talks about MCW](https://www.youtube.com/live/-mveTz3FApQ?si=GrAXj1vj7GMkwEdt&t=5200)
-- [Facebook event: MCW Damage Control](https://www.facebook.com/events/246015901602052/)
-- [Facebook post: MCW charity show in October 2022](https://www.facebook.com/minecitywrestling/posts/pfbid036Ts8szvAz5DxV4KTgXE6VHe6rZLRts9ga6g961GMCo867ro7JtFiejTgiHSU2tfcl)
-- [Facebook post: MCW show in September 2019](https://www.facebook.com/minecitywrestling/posts/pfbid0yobCocxacSdatiLm5e936n8r2xZteNweMfYVdKq6t4PMXkjBsjJRmPvuYPeDqJoxl)
-- [Facebook event: MCW show in June 2019](https://www.facebook.com/events/966766303522255/)
-
-## All-time roster
-
-- Johny Vegas
-- RAV
-- Shida
-- Terror
-- Diana
-- Chris Steeler
-- Sigurd
-- Jack Kalom
-- [David Sirch](@/w/sinister.md)
-- [Syriusz Dziedzic](@/w/dziedzic.md)
-- [Disco Pablo](@/w/disco-pablo.md)
-
-## Events
-
-- 2023.12.16 MCW Damage Control
-- 2022.10.15 Charity show
-- 2019.09.14 Untitled event, accompanying various other sports
-- 2019.06.01 MCW show + children's bench press tournament
-- two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie

@@ -17,6 +17,7 @@
 
 {% if has_events -%}
 <h2 id="events">Events</h2>
+{% include "event_calendar_link.html" %}
 {% include "events_from_org_taxonomy.html" -%}
 {% endif -%}
 
@@ -26,7 +27,22 @@
 {% endif -%}
 
 {% if has_gallery -%}
-  {% include "auto_lightbox.html" -%}
+  {% include "auto_lightbox_dialog.html" -%}
 {% endif -%}
 
 {% endblock content %}
+
+{% block extra_head %}
+  {% if not page.extra.hide_events -%}
+    <script defer type="module">
+      import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
+      document.addEventListener('DOMContentLoaded', () => {
+        const events = extractUpcoming()
+        if (!events.length) return
+        const list = document.querySelector('ul.event-list')
+        createSection(events, list, 'h3')
+        cleanEmptyYears('h3')
+      })
+    </script>
+  {% endif %}
+{% endblock extra_head %}

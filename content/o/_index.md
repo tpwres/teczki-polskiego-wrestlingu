@@ -10,8 +10,8 @@ template = "index.html"
 
 | Years active | Name | Location |
 |--:|---|---|
-| 2014- | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
-| 2014- | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
+| 2013- | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
+| 2013- | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
 | 2015- | {{ org_badge(org='kpw') }} [Kombat Pro Wrestling](@/o/kpw.md) | Gdańsk, Gdynia |
 | 2020- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
 | 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów, Kozłów |
@@ -32,7 +32,7 @@ template = "index.html"
 |--:|---|---|
 | 2009-2015 | {{ org_badge(org='ddw') }} [Do Or Die Wrestling](@/o/ddw.md) | Warsaw, Rzeszów, Gdańsk |
 | 2009-2011 | {{ org_badge(org='tbw') }} [Total Blast Wrestling](@/o/tbw.md) | Zawiercie, Radom |
+| 2010-2014 | [Wrestlingowy Klub Sportowy Wołów](@/o/wksw.md) | Wołów |
 | 2011-2013 | {{ org_badge(org='pxw') }} [Polish Xtreme Wrestling](@/o/pxw.md) | Głuchołazy |
 | 2015-2018 | {{ org_badge(org='dfw') }} [Dream Factory Wrestling](@/o/dfw.md) | Toruń |
 | ? | Pomerania Indy Wrestling Group | ? |
-| ? | Wrestlingowy Klub Sportowy Wołów | Wołów |
