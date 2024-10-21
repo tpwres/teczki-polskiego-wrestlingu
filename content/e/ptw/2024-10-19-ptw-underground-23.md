@@ -26,6 +26,7 @@ city = "Kozłów"
 - - 'Rust'
   - 'Serg Sullivan'
   - 'Mikk Vainula'
+  - s: International Showcase Triple Threat Match
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Tucker'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
