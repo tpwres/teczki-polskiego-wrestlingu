@@ -53,7 +53,7 @@ After that show he, along with many other talent, left PTW.
 On July 5th, 2024, [PpW](@/o/ppw.md) announced on its social media that Sewi would join the federation as a referee.
 He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) & [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md).
 While maintaining PpW as his main promotion, Sewi continued his sporadic apperances on the international circuit.
-On October 12th, 2024 he also made apperance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over 3 years. It was also unofficially confirmed that he will be one of the main referees for newly-found [Legacy of Wrestling](@/o/low.md)
+On October 12th, 2024 he also made an apperance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. It was also unofficially confirmed that he will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md).
 
 
 ## Championships and achievments:
