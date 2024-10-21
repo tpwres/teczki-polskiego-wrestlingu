@@ -5,31 +5,30 @@ template = "event_page.html"
 chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 1 = { path = "2024-10-19-ptw-underground-23-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
 {% card() %}
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
-  - 'Tucker'
-  - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: Upcoming
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - 'Reyca'
-  - nc: Upcoming
-- - Luca Bjorn
-  - '[Max Speed](@/w/max-speed.md)'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+- - '["The Hidden Gem" Erik Slotir](@/w/erik-slotir.md)'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Luca Bjorn'
   - s: Trick or Treat Hardcore Match
-    nc: Upcoming
 - - '[Alex Brave](@/w/alex-brave.md)'
   - g: true
     s: The Brave Show - episode 1
-    nc: Upcoming    
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - nc: Upcoming    
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Reyca'
+- - 'Rust'
+  - 'Serg Sullivan'
+  - 'Mikk Vainula'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - 'Tucker'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:
     Referee: 'Herno'
 {% end %}
