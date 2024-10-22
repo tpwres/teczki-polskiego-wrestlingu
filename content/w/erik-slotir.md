@@ -4,5 +4,5 @@ template = "talent_page.html"
 [taxonomies]
 country = ["CZ"]
 [extra]
-career_aliases = ['Erik Slotir']
+career_aliases = ['Erik Slotir', '"The Hidden Gem" Erik Slotir']
 +++
