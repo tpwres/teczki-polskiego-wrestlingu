@@ -68,7 +68,7 @@ On 9.09.2024 LOW held a [live Q&A][live-qa] on YouTube hosted by [Piotr "ShowOff
 
 On 25.09.2024 Legacy [posted to Facebook][fb-1st-show-date] revealing the date and location of the fist show: 1.12.2024 in the Królestwo music club in Katowice. In addition, a [short trailer][yt-1st-show-trailer] was posted to their YouTube channel, shot in the same location and starring the same people as the [reveal trailer][reveal-trailer].
 
-The next day there was another live Q&A, once again hosted by [ShowOff](@/w/piotr-malecki.md).
+The next day there was [another live Q&A][live-qa-2], once again hosted by [ShowOff](@/w/piotr-malecki.md).
 
 * [Sinister](@/w/sinister.md) and [Dziedzic](@/w/dziedzic.md) will appear at the show; Sinister's stable may or may not exist any more.
 * In one of the comments [Filip Fux](@/w/filip-fux.md) said "Once you have those tag team titles, let us know".
@@ -90,12 +90,14 @@ In October 2024 Legacy started unveiling the wrestlers booked for the [first sho
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
 * [Video: LOW reveal trailer][reveal-trailer]
-* [Live Q&A][live-qa], hosted by ShowOff
+* [Live Q&A #1][live-qa-1], hosted by ShowOff
+* [Live Q&A #2][live-qa-2], hosted by ShowOff
 
 [reveal-trailer]: https://www.youtube.com/watch?v=_CvfCaElDK4
 [solidarnosc]: https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
 [qa-post]: https://www.facebook.com/permalink.php?story_fbid=pfbid0upseBqjGHPXP3TTJbNzRdaLmAS2RpqTFxxs5GVAmCXPgEmadHewj5SiLEizhE1Azl&id=61564064601704
-[live-qa]:https://www.youtube.com/watch?v=aaODKm_UsnI
+[live-qa-1]:https://www.youtube.com/watch?v=aaODKm_UsnI
+[live-qa-2]:https://www.youtube.com/watch?v=KZRd7DVcrN8
 [all-in]:https://en.wikipedia.org/wiki/All_In_(2018)
 [best-korea-best-money]:https://en.wikipedia.org/wiki/North_Korean_won
 [yt-wiw]:https://www.youtube.com/@WhatIsWrestling/featured
