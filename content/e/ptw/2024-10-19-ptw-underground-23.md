@@ -57,23 +57,23 @@ According to Istota Wrestlingu, who attended the event in person, the overall at
 * Vincent exits the ring, leaving Nano defeated but standing tall for the crowd.
 
 #### "The Hidden Gem" Erik Slotir vs Miyagi Shida
-* Match is again refereed by Klaudiusz
-* [Erik Slotir](@/w/erik-slotir.md) is making his heelish entrance first.
-* [Miyagi Shida](@/w/miyagi-shida.md) is making his entrance while wearing Ghostface mask (paying tribute to "Scream" movie franchise)
-* After around 6 minutes of in-ring action Erik secures a pinfall victory after hitting Shida with top-rope Elbow Drop.
-* Winner: Erik Slotir by pinfall
-* Similar to the previous match, as well as many other PTW show retrospectively the defeated babyface again is leaving the ring standing tall, being hyped up by Pawłowski.
+* Match is again refereed by Klaudiusz.
+* [Erik Slotir](@/w/erik-slotir.md) makes his heelish entrance first.
+* [Miyagi Shida](@/w/miyagi-shida.md) makes his entrance while wearing a mask of Ghostface from the "Scream" movie franchise.
+* After around six minutes of in-ring action, Erik secures a pinfall victory after hitting Shida with a top-rope Elbow Drop.
+* Winner: Erik Slotir by pinfall.
+* Similarly to the previous match, as well as many prior PTW shows, the defeated babyface again leaves the ring standing tall, being hyped up by Pawłowski.
 
 #### Luca Bjorn vs Max Speed
-* During the entrances of performers the staff is setting up a table with halloween decorations and bowl of fruit punch in the ringside.
+* As the performers make their entrances, the staff sets up a table with Halloween decorations and a bowl of fruit punch by the ringside.
 * Luca Bjorn makes his entrance first.
-* [Max Speed](@/w/max-speed.md) is making his entrance, during which he comes back to backstage area to bring skull mask, as well as chain and halloween-themed kendo stick to the fight.
-* Fight again starts with an attack before the bell and lasts for about 10 minutes of both in-ring and ringside action.
-* During the match Max starts to lightly bleed on his forehead.
-* After Max Speed is teasing usage of pouch filled with hard candy in similar fashion as thumbtacks/glass/lego bricks Luca Bjorn's partner is interveing in a fight, but his attack on Speed is being repelled by [Spartan](@/w/spartan.md), which allows Max to hit Luca Bjorn with Superkick while wearing chain on his leg.
-* Winner: Max Speed by pinfall
-* After the match Pawłowski enters the ring and announces that Max Speed will be provided with oportunity to challenge Puncher for WWA Championship at PTW:WWA show in Austria.
-* Arkadiusz Pawłowski, Spartan and Max Speed are celebrating with wild dance competition to start the break.
+* [Max Speed](@/w/max-speed.md) makes his entrance, during which he comes back to backstage area to bring a skull mask, as well as a chain and a Halloween-themed kendo stick to the fight.
+* Fight once again starts with an attack before the bell and lasts for about 10 minutes of both in-ring and ringside action.
+* During the match Max starts to bleed slightly from his forehead.
+* Max Speed teases a pouch filled with hard candy in a similar fashion to thumbtacks/glass/LEGO bricks. Luca Bjorn's partner then intervenes in the fight, but his attack on Speed is repelled by [Spartan](@/w/spartan.md), which allows Max to hit Luca Bjorn with a Superkick while wearing the chain on his leg.
+* Winner: Max Speed by pinfall.
+* After the match Pawłowski enters the ring and announces that Max Speed will be provided with an oportunity to challenge Puncher for WWA Championship at PTW:WWA show in Austria.
+* Arkadiusz Pawłowski, Spartan and Max Speed celebrate with a wild dance competition to mark the break in the show.
 
 #### Break
 
