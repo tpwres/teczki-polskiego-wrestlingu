@@ -10,6 +10,10 @@ city = "Kozłów"
 1 = { path = "2024-10-19-ptw-underground-23-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
+Underground 23 was a event held by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, October 19 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów - PTW's main wrestling venue and training facility.
+This Underground name - "Halloweenowy Łomot" - which can be loosely translated to "Halloween Bash" suggested to the public that the event would be held in Halloween theme, which was visible in promotional materials publicized on PTW's social media, as well as in decorations at the venue and performers entrances. 
+According to Istota Wrestlingu, who attended event in person, the overall attendance at the show was approximately 50 people - including family and friends of performers, which was visible and audible due to fact that venue at Kozłów is able to held at least 150-200 people in the crowd. 
+
 {% card() %}
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
@@ -31,9 +35,86 @@ city = "Kozłów"
   - 'Tucker'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:
-    Referee: 'Herno'
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Herno'
+{% end %}
+
+
+### Recap
+
+{% timeline() %}
+* Show starts with [Pawłowski](@/w/pan-pawlowski.md) warming up a crowd with recaping the card for the event, as well as using his classic "Prime Time Wrrrrrrrestling!", and "CZY JESTEŚCIE GOTOWI?!" catchphrases. Noticing one of the signs in the crowd with caption "PTW EXTREME" he also promote new cooperation between PTW and Extreme Sports Channel, which will be airing PTW shows on TV.
+* After [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) enters the ring, Pawłowski announces first match of the night.
+
+#### Vincent Caravaggio vs "Starboy" Nano Lopez
+
+* First to the ring comes "The Modern Aristocrat" [Vincent Caravaggio](@/w/vincent-caravaggio.md), who is booed and flipped by the crowd. After forcing Referee into assisting him during entrance and couple of sarcastic comments from Pawłowski towards Vincent, he cuts a short promo.
+* Vincent talks about making his 5th victory after he beats [Nano Lopez](@/w/nano-lopez.md). All of that while mocking both his opponent, and the crowd, which in response is booing him and chanting "Wieśniak" (Peasant).
+* Nano Lopez is making his entrance. While milking pop from mocking Caravaggio he gets jumped by his opponent on top of the turnbuckle before the bell rang.
+* After about 5 minutes of match Referee Klaudiusz gets cought in the crossfire, while cornered Vincent defends himself against charging Nano with his body. Klaudiusz is laying against the ropes, wwhile Nano counters Vincent's finisher into his "Last Plane to Spain", but unresponsive Klaudiusz won't make a count.
+* While Lopez is trying to get Referee attention Vincent makes a recovery and use his cup of beverage hidden by the ringside to hit Nano with a mist, to secure a victory by rollup.
+* Winner: Vincent Caravaggio by pinfall
+* Vincent exits the ring, leaving defeated but standing tall Nano to the crowd.
+
+#### "The Hidden Gem" Erik Slotir vs Miyagi Shida
+* Match is again refereed by Klaudiusz
+* [Erik Slotir](@/w/erik-slotir.md) is making his heelish entrance first.
+* [Miyagi Shida](@/w/miyagi-shida.md) is making his entrance while wearing Ghostface mask (paying tribute to "Scream" movie franchise)
+* After around 6 minutes of in-ring action Erik secures a pinfall victory after hitting Shida with top-rope Elbow Drop.
+* Winner: Erik Slotir by pinfall
+* Similar to the previous match, as well as many other PTW show retrospectively the defeated babyface again is leaving the ring standing tall, being hyped up by Pawłowski.
+
+#### Luca Bjorn vs Max Speed
+* During the entrances of performers the staff is setting up a table with halloween decorations and bowl of fruit punch in the ringside.
+* Luca Bjorn makes his entrance first.
+* [Max Speed](@/w/max-speed.md) is making his entrance, during which he comes back to backstage area to bring skull mask, as well as chain and halloween-themed kendo stick to the fight.
+* Fight again starts with an attack before the bell and lasts for about 10 minutes of both in-ring and ringside action.
+* During the match Max starts to lightly bleed on his forehead.
+* After Max Speed is teasing usage of pouch filled with hard candy in similar fashion as thumbtacks/glass/lego bricks Luca Bjorn's partner is interveing in a fight, but his attack on Speed is being repelled by [Spartan](@/w/spartan.md), which allows Max to hit Luca Bjorn with Superkick while wearing chain on his leg.
+* Winner: Max Speed by pinfall
+* After the match Pawłowski enters the ring and announces that Max Speed will be provided with oportunity to challenge Puncher for WWA Championship at PTW:WWA show in Austria.
+* Arkadiusz Pawłowski, Spartan and Max Speed are celebrating with wild dance competition to start the break.
+
+#### Break
+
+#### The Brave Show - episode 1
+* Second part of the show starts with [Alex Brave](@/w/alex-brave.md) making his entrance along with unknown redheaded female. They are both wearing LED masks similar to those used in "The Purge" horror movie franchise.
+* After making a announcement of his segment Brave harshly excuses off his valet and introduces his first guest - Vincent Caravaggio.
+* Vincent and Alex praises each other for around 8 minutes, much to the crowd disapproval. They also mock other talents backstage.
+* The Brave Show is interrupted by Max Speed and Miyagi Shida. Vincent fleeds from the ring leaving Alex vulnerable to beatdown from the babyfaces.
+
+#### Reyca vs Diana Strong
+* Hungarian pro-wrestler Reyca is making her PTW debut as a heel, mocking the public during her entrance.
+* [Diana Strong](@/w/diana-strong.md) is making her entrance dressed up as Harley Quinn (as portrayed by Margot Robbie in Suicide Squad) holding baseball bat.
+* Before the bell rangs Arkadiusz Pawłowski introduces brand new PTW's referee - Sędzia Herno.
+* Match lasts for about 11 minutes to be won by local hero - Diana Strong.
+* Winner: Diana Strong by pinfall
+
+#### Mikk Vainula vs Rust vs Serg Sullivan
+* Pawłowski announces "International Showcase Triple Threat Match" - all three of the contestants are foreginers, including two, who are making their PTW's debuts.
+* The contestants are: Rust from Italy, Serg Sullivan from Russia and Mikk Vainula from Estonia.
+* The match lasts around 7 minutes, and ends with Rust's flash pinfall victory on Mikk Vainula.
+* Winner: Rust by pinfall
+
+#### Auction segment
+* Pawłowski annouces Prezes Łukasz, who is making his dancing entrance to the ring.
+* Pawłowski then proceeds to promote a "Nadzieja Dzieci" fundation. He then hosts an auction with a prize of PTW T-shirt with PTW's roster signatures.
+* T-shirt has been bidded for 300PLN by one of the crowd members.
+
+#### Tucker vs Dawid "Puncher" Seńko
+* Tucker is making his face entrance first, recieving positive reaction from the crowd.
+* Pawłowski announces [Dawid "Puncher" Seńko](@/w/puncher.md) as "Moral compass of polish wrestling".
+* Puncher proceeds to cut a promo before a match. While he is asserting his dominance in promo, Tucker goes to a crowd, to recieve a translated description of Puncher's promo from a fan.
+* Match lasts for about 14 minutes of in-ring action. Puncher secures a win after countering Tucker aerial move and hitting his own finisher on ex-NXT UK superstar.
+* Winner: Puncher by pinfall.
+* Despite the loss Tucker is being cheered by the public.
+
+#### Ending
+* Pawłowski thanks the crowd for being at the show and supporting PTW. He also invites for next PTW Shows as well as for the post-show afterparty.
 {% end %}
 
 ### References
 
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)
+* [First Part of Fancam provided by Istota Wrestlingu](https://www.youtube.com/watch?v=Xm58QUEA4CU)
+* [Second Part of Fancam provided by Istota Wrestlingu](https://www.youtube.com/watch?v=h9j4rHRzmMg)
