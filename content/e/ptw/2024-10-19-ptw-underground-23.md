@@ -102,15 +102,15 @@ According to Istota Wrestlingu, who attended the event in person, the overall at
 * The T-shirt is sold for 300&nbsp;PLN (approx. 69&nbsp;EUR, 57&nbsp;GBP or 74&nbsp;USD) to one of the crowd members.
 
 #### Tucker vs Dawid "Puncher" Seńko
-* Tucker is making his face entrance first, recieving positive reaction from the crowd.
-* Pawłowski announces [Dawid "Puncher" Seńko](@/w/puncher.md) as "Moral compass of polish wrestling".
-* Puncher proceeds to cut a promo before a match. While he is asserting his dominance in promo, Tucker goes to a crowd, to recieve a translated description of Puncher's promo from a fan.
-* Match lasts for about 14 minutes of in-ring action. Puncher secures a win after countering Tucker aerial move and hitting his own finisher on ex-NXT UK superstar.
+* Tucker makes his face entrance first, recieving positive reactions from the crowd.
+* Pawłowski announces [Dawid "Puncher" Seńko](@/w/puncher.md) as the "moral compass of Polish wrestling".
+* Puncher proceeds to cut a promo before the match. While he is asserting his dominance in the promo, Tucker goes to the crowd to recieve a translated description of Puncher's promo from a fan.
+* The match lasts for about 14 minutes of in-ring action. Puncher secures a win after countering Tucker's aerial move and hitting his own finisher on the ex-NXT UK superstar.
 * Winner: Puncher by pinfall.
-* Despite the loss Tucker is being cheered by the public.
+* Despite losing, Tucker is cheered by the crowd.
 
 #### Ending
-* Pawłowski thanks the crowd for being at the show and supporting PTW. He also invites for next PTW Shows as well as for the post-show afterparty.
+* Pawłowski thanks the crowd for being at the show and supporting PTW. He also invites everyone to the upcoming PTW shows as well as to the post-show afterparty.
 {% end %}
 
 ### References
