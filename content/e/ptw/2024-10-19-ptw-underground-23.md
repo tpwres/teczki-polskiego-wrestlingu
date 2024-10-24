@@ -10,9 +10,9 @@ city = "Kozłów"
 1 = { path = "2024-10-19-ptw-underground-23-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 +++
 
-Underground 23 was a event held by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, October 19 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów - PTW's main wrestling venue and training facility.
-This Underground name - "Halloweenowy Łomot" - which can be loosely translated to "Halloween Bash" suggested to the public that the event would be held in Halloween theme, which was visible in promotional materials publicized on PTW's social media, as well as in decorations at the venue and performers entrances. 
-According to Istota Wrestlingu, who attended event in person, the overall attendance at the show was approximately 50 people - including family and friends of performers, which was visible and audible due to fact that venue at Kozłów is able to held at least 150-200 people in the crowd. 
+Underground 23 was an event by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, October 19th, 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów - PTW's main wrestling venue and training facility.
+This Underground's name - "Halloweenowy Łomot", which can be loosely translated as "Halloween Bash" - suggested to the public that the event would have a Halloween theme, which was visible in promotional materials publicized on PTW's social media, as well as in decorations at the venue and the performers' entrances. 
+According to Istota Wrestlingu, who attended the event in person, the overall attendance at the show was approximately 50 people - including friends and families of the performers, which was visible and audible due to fact that the venue at Kozłów can hold at least 150-200 people in the audience.
 
 {% card() %}
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
@@ -43,18 +43,18 @@ According to Istota Wrestlingu, who attended event in person, the overall attend
 ### Recap
 
 {% timeline() %}
-* Show starts with [Pawłowski](@/w/pan-pawlowski.md) warming up a crowd with recaping the card for the event, as well as using his classic "Prime Time Wrrrrrrrestling!", and "CZY JESTEŚCIE GOTOWI?!" catchphrases. Noticing one of the signs in the crowd with caption "PTW EXTREME" he also promote new cooperation between PTW and Extreme Sports Channel, which will be airing PTW shows on TV.
-* After [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) enters the ring, Pawłowski announces first match of the night.
+* The show starts with [Pawłowski](@/w/pan-pawlowski.md) warming up the crowd with recaping the card for the event, as well as using his classic "Prime Time Wrrrrrrrestling!", and "CZY JESTEŚCIE GOTOWI?!" (_ARE YOU READY?!_) catchphrases. Noticing one of the signs in the crowd saying "PTW EXTREME", he also promotes the new cooperation between PTW and Extreme Sports Channel, which will be airing PTW shows on TV.
+* After [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) enters the ring, Pawłowski announces the first match of the night.
 
 #### Vincent Caravaggio vs "Starboy" Nano Lopez
 
-* First to the ring comes "The Modern Aristocrat" [Vincent Caravaggio](@/w/vincent-caravaggio.md), who is booed and flipped by the crowd. After forcing Referee into assisting him during entrance and couple of sarcastic comments from Pawłowski towards Vincent, he cuts a short promo.
-* Vincent talks about making his 5th victory after he beats [Nano Lopez](@/w/nano-lopez.md). All of that while mocking both his opponent, and the crowd, which in response is booing him and chanting "Wieśniak" (Peasant).
-* Nano Lopez is making his entrance. While milking pop from mocking Caravaggio he gets jumped by his opponent on top of the turnbuckle before the bell rang.
-* After about 5 minutes of match Referee Klaudiusz gets cought in the crossfire, while cornered Vincent defends himself against charging Nano with his body. Klaudiusz is laying against the ropes, wwhile Nano counters Vincent's finisher into his "Last Plane to Spain", but unresponsive Klaudiusz won't make a count.
-* While Lopez is trying to get Referee attention Vincent makes a recovery and use his cup of beverage hidden by the ringside to hit Nano with a mist, to secure a victory by rollup.
-* Winner: Vincent Caravaggio by pinfall
-* Vincent exits the ring, leaving defeated but standing tall Nano to the crowd.
+* First to the ring comes "The Modern Aristocrat" [Vincent Caravaggio](@/w/vincent-caravaggio.md), who is booed and flipped off by the crowd. After forcing the referee into assisting him during his entrance, and a couple of sarcastic comments from Pawłowski towards Vincent, he cuts a short promo.
+* Vincent talks about scoring his fifth victory after he beats [Nano Lopez](@/w/nano-lopez.md), all the while mocking both his opponent and the crowd, which results in the crowd booing him and chanting "wieśniak" (_peasant_).
+* Nano Lopez makes his entrance. While milking pop by mocking Caravaggio, he gets jumped by his opponent while still standing on top of the turnbuckle before the bell rang.
+* After about five minutes of the match, Referee Klaudiusz gets caught in the crossfire, when the cornered Vincent shields himself against the charging Nano with the ref's body. Klaudiusz lays against the ropes, while Nano counters Vincent's finisher into his "Last Plane to Spain", but the unresponsive Klaudiusz won't make a count.
+* While Lopez is trying to get the referee's attention, Vincent makes a recovery and uses his cup of beverage hidden by the ringside to hit Nano with mist, to secure a victory by rollup.
+* Winner: Vincent Caravaggio by pinfall.
+* Vincent exits the ring, leaving Nano defeated but standing tall for the crowd.
 
 #### "The Hidden Gem" Erik Slotir vs Miyagi Shida
 * Match is again refereed by Klaudiusz
