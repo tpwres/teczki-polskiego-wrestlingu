@@ -78,28 +78,28 @@ According to Istota Wrestlingu, who attended the event in person, the overall at
 #### Break
 
 #### The Brave Show - episode 1
-* Second part of the show starts with [Alex Brave](@/w/alex-brave.md) making his entrance along with unknown redheaded female. They are both wearing LED masks similar to those used in "The Purge" horror movie franchise.
-* After making a announcement of his segment Brave harshly excuses off his valet and introduces his first guest - Vincent Caravaggio.
-* Vincent and Alex praises each other for around 8 minutes, much to the crowd disapproval. They also mock other talents backstage.
-* The Brave Show is interrupted by Max Speed and Miyagi Shida. Vincent fleeds from the ring leaving Alex vulnerable to beatdown from the babyfaces.
+* The second part of the show starts with [Alex Brave](@/w/alex-brave.md) making his entrance accompanied by an unknown redheaded female. They both wear LED masks similar to those used in "The Purge" horror movie franchise.
+* After announcing his segment, Brave harshly dismisses his valet and introduces his first guest: Vincent Caravaggio.
+* Vincent and Alex praise each other for around eight minutes, much to the crowd's disapproval. They also mock other talent backstage.
+* The Brave Show is interrupted by Max Speed and Miyagi Shida. Vincent flees from the ring, leaving Alex vulnerable to a beatdown from the babyfaces.
 
 #### Reyca vs Diana Strong
-* Hungarian pro-wrestler Reyca is making her PTW debut as a heel, mocking the public during her entrance.
-* [Diana Strong](@/w/diana-strong.md) is making her entrance dressed up as Harley Quinn (as portrayed by Margot Robbie in Suicide Squad) holding baseball bat.
-* Before the bell rangs Arkadiusz Pawłowski introduces brand new PTW's referee - Sędzia Herno.
-* Match lasts for about 11 minutes to be won by local hero - Diana Strong.
-* Winner: Diana Strong by pinfall
+* Hungarian pro-wrestler Reyca makes her PTW debut as a heel, mocking the public during her entrance.
+* [Diana Strong](@/w/diana-strong.md) makes her entrance dressed up as Harley Quinn (as portrayed by Margot Robbie in "Suicide Squad") holding a baseball bat.
+* Before the bell rings, Arkadiusz Pawłowski introduces a brand new referee - Sędzia Herno.
+* The match lasts for about 11 minutes, ending with the victory of the local hero - Diana Strong.
+* Winner: Diana Strong by pinfall.
 
 #### Mikk Vainula vs Rust vs Serg Sullivan
-* Pawłowski announces "International Showcase Triple Threat Match" - all three of the contestants are foreginers, including two, who are making their PTW's debuts.
+* Pawłowski announces "International Showcase Triple Threat Match" - all three of the contestants are foreginers, including two who make their PTW debuts.
 * The contestants are: Rust from Italy, Serg Sullivan from Russia and Mikk Vainula from Estonia.
-* The match lasts around 7 minutes, and ends with Rust's flash pinfall victory on Mikk Vainula.
-* Winner: Rust by pinfall
+* The match lasts around seven minutes and ends with Rust's flash pinfall victory on Mikk Vainula.
+* Winner: Rust by pinfall.
 
 #### Auction segment
-* Pawłowski annouces Prezes Łukasz, who is making his dancing entrance to the ring.
-* Pawłowski then proceeds to promote a "Nadzieja Dzieci" fundation. He then hosts an auction with a prize of PTW T-shirt with PTW's roster signatures.
-* T-shirt has been bidded for 300PLN by one of the crowd members.
+* Pawłowski annouces Prezes Łukasz, who makes his dancing entrance to the ring.
+* Pawłowski then proceeds to promote the "Nadzieja Dzieci" (_Children's Hope_) charity foundation. He then hosts an auction with the prize of a PTW T-shirt with the PTW roster's signatures.
+* The T-shirt is sold for 300&nbsp;PLN (approx. 69&nbsp;EUR, 57&nbsp;GBP or 74&nbsp;USD) to one of the crowd members.
 
 #### Tucker vs Dawid "Puncher" Seńko
 * Tucker is making his face entrance first, recieving positive reaction from the crowd.
