@@ -36,8 +36,8 @@ new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new
 list_pages = false
 default_theme = "dark"
 mensch_links = [
-  { path = "@/e/_index.md", name = "Events", icon = "calendar" },
-  { path = "@/e/cm.md", name = "(Alt)", icon = "" },
+  { path = "@/e/_index.md", name = "Events (main)", icon = "calendar" },
+  { path = "@/e/cm.md", name = "Events (alt)", icon = "calendar" },
   { path = "@/w/_index.md", name = "People", icon = "users" },
   { path = "@/o/_index.md", name = "Orgs", icon = "globe" },
   { path = "@/a/_index.md", name = "Articles", icon = "book" },
