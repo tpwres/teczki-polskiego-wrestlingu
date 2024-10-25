@@ -6,6 +6,8 @@ authors = ["Seweryn Pielucha"]
 country = ["PL"]
 [extra]
 career_aliases = ["Ring Rat"]
+[extra.gallery]
+1 = { path = "Sewi_2024.webp", caption = "Sędzia Seweryn at a PpW show in 2024.", source = "Official PpW website" }
 +++
 
 ## Basic info
