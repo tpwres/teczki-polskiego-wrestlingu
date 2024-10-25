@@ -182,6 +182,10 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Four Way Match
     en: '[KPW Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md)'
     ed: 2024-05-17
+- - 'Chemik(c)'
+  - 'Carlos Zamora'
+    en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
+    ed: 2024-09-07
 {% end %}
 
 
