@@ -113,6 +113,10 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag Team Match
     en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
     ed: 2024-02-16
+- - "The Fux Brothers: Filip Fux, Michał Fux (c)"
+  - "The 87: Alexander Roth, Roy Johnson"
+    en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
+    ed: 2024-09-07
 {% end %}
 
 ## References
