@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{%- import "macros/career.html" as macros %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+
+{{ section.content | safe }}
+
+{% set max_events = 25 %}{% include "events_cm_list.html" %}
+
+{% endblock content %}
+
+{% block pagination %}
+  <div class="links">
+    <span></span>
+    <span><a href="/e/" class="center">Older events</a></span>
+  </div>
+{% endblock %}
+
+{% block extra_head %}
+<script defer type="module">
+import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
+document.addEventListener('DOMContentLoaded', () => {
+  const events = extractUpcoming('ul.event-list-cm')
+  const list = document.querySelector('ul.event-list-cm')
+  createSection(events, list, 'h2')
+  cleanEmptyYears('h2')
+})
+</script>
+{% endblock %}
