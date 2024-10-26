@@ -98,6 +98,7 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Death Match 
     en: '[PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)'
     ed: 2024-07-13
+- - 'Isnorr'
   - '[Johnny Blade](@/w/johnny-blade.md)(c)'
   - s: Blood God Ritual - Trial by Metal and Glass Match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'

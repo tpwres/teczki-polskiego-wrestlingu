@@ -21,7 +21,7 @@ city = "Warszawa"
 * To further bolster ticket sales, PpW introduced a student discount as well are "buy 5, get 1 free" discount.
 * Many PpW personalities announced new merchandise items to be available at the show.
   
-{% card(predicted=true) %}
+{% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Samson](@/w/samson.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
