@@ -83,7 +83,6 @@ Sideplates are simply two small circular sawblades, and instead of a classic pin
 
 In addition to the above, Dobroniak also defended the title abroad: twice in STHLM Wrestling, in [November 2022](https://www.cagematch.net/?id=1&nr=355802) against Jack Jones and [December 2023](https://www.cagematch.net/?id=1&nr=381560) against Lexi Luxx, and once in Freedom Pro Wrestling against Mange Mörbult, in [January 2024](https://www.cagematch.net/?id=1&nr=389324).
 
-
 ### Champion #3: Johnny Blade (2nd run)
 
 {% free_card() %}
@@ -99,4 +98,9 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Death Match 
     en: '[PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)'
     ed: 2024-07-13
+- - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - '[Isnorr](@/w/isnorr.md)'
+  - s: Blood God Ritual - Trial by Metal and Glass Match
+    en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
+    en: 2024-10-26
 {% end %}
