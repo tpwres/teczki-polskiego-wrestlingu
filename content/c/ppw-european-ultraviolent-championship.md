@@ -98,9 +98,19 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Death Match 
     en: '[PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)'
     ed: 2024-07-13
-- - '[Johnny Blade](@/w/johnny-blade.md)(c)'
-  - '[Isnorr](@/w/isnorr.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
   - s: Blood God Ritual - Trial by Metal and Glass Match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
     en: 2024-10-26
+{% end %}
+
+**TOTAL:** 140 days.
+
+### Champion #4: Isnorr
+{% free_card() %}
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - s: Blood God Ritual - Trial by Metal and Glass Match
+    en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
+    en: 2024-10-26- - '[Isnorr](@/w/isnorr.md)'
 {% end %}
