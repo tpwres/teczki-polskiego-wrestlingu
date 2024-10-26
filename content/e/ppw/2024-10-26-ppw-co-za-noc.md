@@ -46,7 +46,7 @@ city = "Warszawa"
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Commentary: '"Modzel" Szymon Modzelewski, Mateusz "Orzech" Orzechowski"'
-    Interviews: [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
+    Interviews: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
 {% end %}
 
 #### Recap
