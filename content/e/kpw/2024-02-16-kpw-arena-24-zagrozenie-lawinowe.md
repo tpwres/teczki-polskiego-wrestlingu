@@ -29,7 +29,7 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 - ['[Leon Lato](@/w/leon-lato.md)', '[David Oliwa](@/w/david-oliwa.md)']
 - [Robert Dreissker, '[Greg](@/w/greg.md)']
 - ["[Rosetti](@/w/rosetti.md)(c)", '[Darius](@/w/darius.md)', {c: KPW OldTown Championship}]
-- - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
+- - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - {s: Hair vs Mustache Tag Team Match, c: KPW Tag Team Championship}
 - credits:
