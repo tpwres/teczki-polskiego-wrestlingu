@@ -55,7 +55,7 @@ city = "Warszawa"
 * Zuzia, one of the ring crew members, had her birthday on the day of the event. After [Feager](@/w/feager.md) vs [Arthur](@/w/alex-arthur.md), [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang "Sto lat" (the Polish equivalent to "Happy Birthday").
 * In an interview during the break, [Gustav Gryffin](@/w/gustav-gryffin.md) issued an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
 * The mystery fifth member of Zmowa was revealed to be [Wiktor Longman](@/w/wiktor-longman.md), [formerly from PTW](@/a/ptw-exits.md), making his debut in PpW.
-* After all other wrestlers were successively eliminated, the 5 vs 5 match ended up as Goblin vs Olgierd.
+* After all other wrestlers were successively eliminated, the 5 vs 5 match ended up as [Goblin](@/w/goblin.md) vs [Olgierd](@/w/olgierd.md).
 * [Isnorr](@/w/isnorr.md) came out carrying an axe, which later came into play during the match.
 * The Main Event stipulation required that at least one of the wrestlers had to start bleeding before the referee would count any pins.
 
