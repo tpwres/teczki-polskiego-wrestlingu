@@ -7,8 +7,8 @@ venue=["moris-chorzow"]
 [extra]
 city = "Chorzów"
 [extra.gallery]
-1 = { path = "2021-10-09-ptw-1-revolucja-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
-2 = { path = "2021-10-09-ptw-1-revolucja-plakat-alt.jpg", caption = "Alternative poster", source = "Official PTW Facebook" }
+1 = { path = "2021-10-09-ptw-1-revolucja-plakat.jpg", caption = "Official poster. Left to right, top row: Marius Al-Ani, [Joe E. Legend](@/w/joe-legend.md), Marcin Rzeźniczek, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Nick Aldis, [Santino](@/w/santino.md). Bottom row: Axel Tischer, Chris Masters, [Robert Star](@/w/robert-star.md).", source = "Official PTW Facebook" }
+2 = { path = "2021-10-09-ptw-1-revolucja-plakat-alt.jpg", caption = "Alternative poster. Top-left: Marcin Rzeźniczek; bottom-left: Marius Al-Ani; middle: Axel Tischer, Chris Masters; top-right: Nick Aldis, bottom-right: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }
 +++
 
 {% card() %}
