@@ -340,7 +340,17 @@ def extract_names(matches: Iterable[Match]) -> set[Name]:
     Match object may have an `x` key in their options. This must be a list of integer 1-based indices.
     If present, the indices mark people to REMOVE from this participant list.
     """
-    return reduce(lambda s1, s2: s1 | s2, (names_in_match(m) for m in matches))
+    names = set()
+    for i, mm in enumerate(matches):
+        try:
+            new_names = names_in_match(mm)
+        except MatchParseError as mpe:
+            # This is the "Unexpected participant" message. Prefix it with the match number.
+            message, = mpe.args
+            raise MatchParseError(f"(Match {i + 1}) {message}")
+        names.update(new_names)
+
+    return names
 
 def names_in_match(mm: Match) -> set[Name]:
     names: list[Optional[Name]] = list(mm.all_names())
