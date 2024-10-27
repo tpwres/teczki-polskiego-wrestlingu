@@ -5,7 +5,7 @@ from utils import accepted_name
 import json
 from collections import Counter
 from functools import reduce
-from card import CardParseError, MatchParseError, extract_names
+from card import CardParseError, extract_names
 from page import EventPage
 from sys import stderr, exit
 
@@ -31,8 +31,6 @@ def main():
             for org in page.orgs:
                 roster = org_rosters.setdefault(org, Counter())
                 roster.update(names)
-        except MatchParseError as mpe:
-            errors.append(with_path_info(mpe, path=page_path))
         except CardParseError as e:
             errors.append(e)
 
@@ -51,13 +49,6 @@ def main():
         # 7. Output JSON files
         with (data_dir / f"roster_{org}.json").open('w') as fp:
             json.dump(roster, fp)
-
-def with_path_info(err: Exception, path):
-    # Ideally, detect if message already has a path.
-    # For now, just inject it unconditionally
-    cls = err.__class__
-    message, *args = err.args
-    return cls(f"{path}: {message}", *args)
 
 def sanitize_roster(roster):
     # Roster is a Counter where keys are Name objects, but may either be ones
