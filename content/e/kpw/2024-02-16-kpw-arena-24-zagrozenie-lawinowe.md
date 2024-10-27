@@ -29,7 +29,7 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
   - 'Tommy Kyle'
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
-- - '[Robert Dreissker'
+- - 'Robert Dreissker'
   - '[Greg](@/w/greg.md)'
 - - '[Rosetti](@/w/rosetti.md)(c)'
   - '[Darius](@/w/darius.md)'
