@@ -222,14 +222,16 @@ class Match:
         return self.opponents[0]
 
     def parse_opponents(self, opponents: list[str], index: Optional[int] = None) -> Iterable[Iterable[Participant]]:
-        if any(side is None for side in opponents):
-            if index:
-                message = f"At least one side in match {index + 1} is empty"
-            else:
-                message = "Malformed match in card: at least one side is empty"
-            raise MatchParseError(message)
+        for side in opponents:
+            match side:
+                case None:
+                    message = f"At least one side in match {index + 1} is empty" if index else "Malformed match in card: at least one side is empty"
+                    raise MatchParseError(message)
+                case str():
+                    yield self.parse_partners(side.split("+"))
+                case _:
+                    raise MatchParseError(f"Unexpected match participant {side!r}")
 
-        return [self.parse_partners(side.split("+")) for side in opponents]
 
     def parse_partners(self, partners: list[str]) -> Iterable[Participant]:
         return [parse_maybe_team(p) for p in partners]
