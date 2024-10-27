@@ -1,8 +1,8 @@
-export function extractUpcoming() {
-    const now = new Date()
-    const eventList = document.querySelector('ul.event-list')
+export function extractUpcoming(selector) {
+    const now = new Date(new Date().toDateString())
+    const eventList = document.querySelector(selector || 'ul.event-list')
     const upcoming = Array.from(eventList.querySelectorAll('li[data-date]'))
-          .filter(el => new Date(el.dataset.date) > now)
+          .filter(el => new Date(el.dataset.date) >= now)
           .map(el => eventList.removeChild(el));
 
     return upcoming
@@ -17,7 +17,7 @@ export function createSection(events, listElement, headerLevel) {
     header.textContent = 'Upcoming'
 
     const upcomingList = document.createElement('ul')
-    upcomingList.className = 'event-list'
+    upcomingList.className = listElement.className
     events.forEach(el => upcomingList.appendChild(el))
 
     top.insertBefore(header, firstHeading)
