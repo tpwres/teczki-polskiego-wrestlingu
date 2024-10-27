@@ -33,8 +33,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
   - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - '[Victor Rosetti](@/w/rosetti.md)'
-  - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a [KPW Championship](@/c/kpw-championship.md)
-      Title Match"
+  - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a [KPW Championship](@/c/kpw-championship.md) Title Match"
 - [Kat Von Kaige, '[Bianca](@/w/bianca.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Wild Boar, {c: "[KPW Championship](@/c/kpw-championship.md)"}]
 - credits:

@@ -13,7 +13,7 @@ city = "Stargard"
 [OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the event and community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023.
 The event's name is derived from the town of Stargard, which literally translates as Old Town.
 
-KPW held a wrestling exhibition during the event's last day. Wrestling fits the post-apocalyptic theme of OldTown. The second OldTown is also where [KPW's midcard belt](@/c/kpw-old-town-championship.md), appriopriately named "KPW OldTown Championship" was created and the inaugural championship crowned. The OldTown Championship belt had a unique look, matching the event's post-apocalyptic theme. The original strap was retired at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) and replaced with a more traditionally designed version.
+KPW held a wrestling exhibition during the event's last day. Wrestling fits the post-apocalyptic theme of OldTown. The second OldTown is also where KPW's midcard belt, appriopriately named "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)", was created and the inaugural championship crowned. The OldTown Championship belt had a unique look, matching the event's post-apocalyptic theme. The original strap was retired at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) and replaced with a more traditionally designed version.
 
 KPW would return to following editions of OldTown until 2019.
 

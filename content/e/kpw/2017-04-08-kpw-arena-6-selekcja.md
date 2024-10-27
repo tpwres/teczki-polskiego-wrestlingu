@@ -31,7 +31,7 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
   - '[Kaszub](@/w/kaszub.md)'
   - 'Leśny'
   - '[Peter Pannache](@/w/peter-pannache.md)'
-  - s: [KPW Championship](@/c/kpw-championship.md) #1 Contendership Six Man Elimination Match
+  - s: '[KPW Championship](@/c/kpw-championship.md) #1 Contendership Six Man Elimination Match'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
