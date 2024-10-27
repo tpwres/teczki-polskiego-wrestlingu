@@ -21,8 +21,8 @@ city = "Warszawa"
     n: Feager no-showed the fight.
 - credits:
     Referee: Koteł
+    Ring Announcer: 'Konrad "Joker" Grzesikiewicz'
 {% end %}
-
 
 ### References
 
