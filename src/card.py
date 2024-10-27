@@ -145,7 +145,6 @@ class CrewMember(NamedParticipant):
         return "{}:{}".format(repr, self.role)
 
 
-
 class Match:
     tag_team_re = re.compile(r'''
         ^
@@ -189,12 +188,14 @@ class Match:
         for side in opponents:
             match side:
                 case None:
-                    message = f"At least one side in match {index + 1} is empty" if index else "Malformed match in card: at least one side is empty"
+                    message = f"Match {index + 1}: at least one side in match is empty" if index else "Malformed match in card: at least one side is empty"
                     raise MatchParseError(message)
                 case str():
                     yield self.parse_partners(side.split("+"))
                 case _:
-                    raise MatchParseError(f"Unexpected match participant {side!r}")
+                    message = f"Match {index + 1}: unexpected match participant {side!r}" if index else f"Unexpected match participant {side!r}"
+                    raise MatchParseError(message)
+
 
     def parse_partners(self, partners: list[str]) -> Iterable[Union[Participant, Team]]:
         return filter(None, (self.parse_maybe_team(p) for p in partners))
