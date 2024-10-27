@@ -145,42 +145,6 @@ class CrewMember(NamedParticipant):
         return "{}:{}".format(repr, self.role)
 
 
-def parse_maybe_team(text) -> Union[Participant, Team]:
-    match Match.tag_team_re.match(text):
-        case re.Match() as m:
-            team_name = m.group('team')
-            people = m.group('people')
-        case _:
-            team_name = None
-            people = text
-
-    group = parse_group(people)
-    match (group, team_name):
-        case ([single_member], _):
-            return single_member
-        case ([*members], None):
-            return AdHocTeam(members)
-        case ([*members], name):
-            return NamedTeam(name, members)
-
-def parse_group(text) -> list[Participant]:
-    # Split with capture keeps delimiters in the result list
-    tokenized = re.split(r'\s*([,;])\s*', text)
-    first_name = tokenized.pop(0)
-    combatants: list[Participant] = [Fighter(first_name)]
-
-    while len(tokenized) > 0:
-        match tokenized:
-            case [',', name, *rest]:
-                combatants.append(Fighter(name.strip()))
-                tokenized = rest
-            case [';', name, *rest]:
-                combatants.append(Manager(name.strip()))
-                tokenized = rest
-            case _:
-                raise ValueError("{!r}".format(tokenized))
-
-    return combatants
 
 class Match:
     tag_team_re = re.compile(r'''
@@ -232,9 +196,45 @@ class Match:
                 case _:
                     raise MatchParseError(f"Unexpected match participant {side!r}")
 
+    def parse_partners(self, partners: list[str]) -> Iterable[Union[Participant, Team]]:
+        return filter(None, (self.parse_maybe_team(p) for p in partners))
 
-    def parse_partners(self, partners: list[str]) -> Iterable[Participant]:
-        return [parse_maybe_team(p) for p in partners]
+    def parse_maybe_team(self, text: str) -> Optional[Union[Participant, Team]]:
+        match Match.tag_team_re.match(text):
+            case re.Match() as m:
+                team_name = m.group('team')
+                people = m.group('people')
+            case _:
+                team_name = None
+                people = text
+
+        group = parse_group(people)
+        match (group, team_name):
+            case ([single_member], _):
+                return single_member
+            case ([*members], None):
+                return AdHocTeam(members)
+            case ([*members], name):
+                return NamedTeam(name, members)
+
+def parse_group(text) -> list[Participant]:
+    # Split with capture keeps delimiters in the result list
+    tokenized = re.split(r'\s*([,;])\s*', text)
+    first_name = tokenized.pop(0)
+    combatants: list[Participant] = [Fighter(first_name)]
+
+    while len(tokenized) > 0:
+        match tokenized:
+            case [',', name, *rest]:
+                combatants.append(Fighter(name.strip()))
+                tokenized = rest
+            case [';', name, *rest]:
+                combatants.append(Manager(name.strip()))
+                tokenized = rest
+            case _:
+                raise ValueError("{!r}".format(tokenized))
+
+    return combatants
 
 class Crew:
     def __init__(self, credits: dict, index: int):
