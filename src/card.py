@@ -293,10 +293,14 @@ class Card:
 
     @contextmanager
     def handle_yaml_errors(self, card_block: DelimitedCard, path: Optional[Path]):
+        _, _, _, start_line, offset = card_block
         try:
             yield
+        except MatchParseError as mpe:
+            # Add filename to messages
+            message, = mpe.args # Args is a tuple
+            raise MatchParseError(f"{path or '<file>'}: Error: {message}")
         except yaml.parser.ParserError as parse_error:
-            _, _, _, start_line, offset = card_block
             context, _, problem, problem_mark = parse_error.args
             # Calculate actual line number
             # Block content starts at start_line + 1
