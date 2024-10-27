@@ -19,12 +19,22 @@ There were also three debuts: we saw KPW's new high flying masked luchador Zefir
 Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart.md). A Facebook post announced that he's unable to compete due to injury, and two days later Ricky Sky was announced to take his place.
 
 {% card() %}
-- ['[Rosetti](@/w/rosetti.md)', '[Zefir](@/w/zefir.md)']
-- ['[Fynn Freyhart](@/w/fynn-freyhart.md)', '[Ricky Sky](@/w/ricky-sky.md)']
-- ["The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)",
-  "[Eryk Lesak](@/w/eryk-lesak.md), Piotr Opolski", {s: Tag Team Match}]
-- ['[Greg](@/w/greg.md)', Crowchester]
-- ['[David Oliwa](@/w/david-oliwa.md)(c)', '[Michael Kovac](@/w/michael-kovac.md)', {c: KPW OldTown Championship}]
+- - '[Rosetti](@/w/rosetti.md)'
+  - '[Zefir](@/w/zefir.md)'
+- - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
+  - '[Ricky Sky](@/w/ricky-sky.md)'
+- - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md), Piotr Opolski'
+  - s: Tag Team Match
+- - '[Greg](@/w/greg.md)'
+  - 'Crowchester'
+- - '[Greg](@/w/greg.md)'
+  - '[Chemik](@/w/chemik.md)'
+  - g: true
+    s: Chemik vows celibacy until he wins three fights.
+- - '[David Oliwa](@/w/david-oliwa.md)(c)'
+  - '[Michael Kovac](@/w/michael-kovac.md)'
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
