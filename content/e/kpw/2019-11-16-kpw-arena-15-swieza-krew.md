@@ -27,8 +27,8 @@ city = "Gdynia"
 - - '[David Oliwa](@/w/david-oliwa.md)(c)'
   - '[Boski 2.0](@/w/ostrowski.md)'
   - '[Greg](@/w/greg.md)'
-  - {c: KPW OldTown Championship, s: Three Way Match}
-- ['[Robert Star](@/w/robert-star.md)(c)', Reinbakh, {c: KPW Championship Match}]
+  - {c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md), s: Three Way Match}
+- ['[Robert Star](@/w/robert-star.md)(c)', Reinbakh, {c: [KPW Championship](@/c/kpw-championship.md)}]
 - credits:
     Commentary: Marek Łojek, Mateusz Mazurowski
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'

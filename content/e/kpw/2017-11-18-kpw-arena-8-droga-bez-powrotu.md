@@ -17,7 +17,7 @@ Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the fi
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
-  - s: KPW OldTown Championship
+  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
 - - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
 - - "[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)"
@@ -25,8 +25,8 @@ Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the fi
   - s: Tag Team Match
 - - "[Robert Star](@/w/robert-star.md)"
   - "[Greg](@/w/greg.md)(c)"
-  - c: "KPW OldTown Championship Match"
-    s: "(KPW Championship #1 Contender Match for Robert)"
+  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
+    s: "(#1 Contender Match for Robert Star)"
     r: DQ
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

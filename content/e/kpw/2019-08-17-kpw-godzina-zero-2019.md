@@ -33,7 +33,8 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 - [Reinbakh, '[Kamil Aleksander](@/w/kamil-aleksander.md)']
 - - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
   - "Carlos Zamora, Steinbolt"
-  - c: KPW Tag Team Championship
+  - c: [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)
+    s: Tag Team Match
 - ['[Primate](@/w/primate.md)', '[Greg](@/w/greg.md)']
 - - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Chemik](@/w/chemik.md)'
@@ -46,10 +47,10 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 - [Sixt, '[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', '[Diana](@/w/diana-strong.md)']
 - - "[David Oliwa](@/w/david-oliwa.md)(c)"
   - '[Moloch](@/w/moloch.md)'
-  - c: KPW OldTown Championship
+  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
 - - '[Robert Star](@/w/robert-star.md)(c)'
   - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
-  - c: KPW Championship
+  - c: [KPW Championship](@/c/kpw-championship.md)
     s: Career vs Career Last Man Standing Match
 - credits:
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'

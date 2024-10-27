@@ -31,9 +31,9 @@ city = "Gdynia"
     [Victor Rosetti](@/w/rosetti.md)"
   - s: Eight Man Tag Team Elimination Match
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Robert Star](@/w/robert-star.md)',
-  {c: "KPW Championship", s: "Lumberjack Match"}]
+  {c: "[KPW Championship](@/c/kpw-championship.md)", s: "Lumberjack Match"}]
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)',
-  {c: "KPW Championship"}]
+  {c: "[KPW Championship](@/c/kpw-championship.md)"}]
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}

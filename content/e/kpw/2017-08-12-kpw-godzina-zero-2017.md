@@ -23,8 +23,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 - ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)', {nc: No Contest}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Mika The Polish Punisher]
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Krzysztof Zasada](@/w/krzysztof-zasada.md)']
-- ['[Greg](@/w/greg.md)(c)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {c: "KPW OldTown
-      Championship"}]
+- ['[Greg](@/w/greg.md)(c)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"}]
 - ['[Robert Star](@/w/robert-star.md)', Joey Ozbourne, {s: "No Disqualification Match"}]
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Adam Bravo](@/w/adam-bravo.md)'
@@ -34,10 +33,10 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
   - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - '[Victor Rosetti](@/w/rosetti.md)'
-  - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a KPW Championship
+  - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a [KPW Championship](@/c/kpw-championship.md)
       Title Match"
 - [Kat Von Kaige, '[Bianca](@/w/bianca.md)']
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Wild Boar, {c: "KPW Championship"}]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Wild Boar, {c: "[KPW Championship](@/c/kpw-championship.md)"}]
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'

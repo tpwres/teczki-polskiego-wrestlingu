@@ -25,13 +25,19 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 * More than a year prior, Darius defeated three other opponents for a shot at the KPW OldTown Championship. At Arena 20 [Rosetti](@/w/rosetti.md) refused to fight Darius and left just after the opening bell, however soon afterwards Leon Lato stepped in to face Darius in a singles match which he lost, thus giving Darius a shot at the title.
 
 {% card() %}
-- ['[Zefir](@/w/zefir.md)', Tommy Kyle]
-- ['[Leon Lato](@/w/leon-lato.md)', '[David Oliwa](@/w/david-oliwa.md)']
-- [Robert Dreissker, '[Greg](@/w/greg.md)']
-- ["[Rosetti](@/w/rosetti.md)(c)", '[Darius](@/w/darius.md)', {c: KPW OldTown Championship}]
-- - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
-  - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
-  - {s: Hair vs Mustache Tag Team Match, c: KPW Tag Team Championship}
+- - '[Zefir](@/w/zefir.md)'
+  - 'Tommy Kyle'
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)'
+- - '[Robert Dreissker'
+  - '[Greg](@/w/greg.md)'
+- - '[Rosetti](@/w/rosetti.md)(c)'
+  - '[Darius](@/w/darius.md)'
+  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
+- - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
+  - '[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
+  - s: Tag Team Match
+    c: [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'

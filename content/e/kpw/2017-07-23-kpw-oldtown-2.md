@@ -23,8 +23,7 @@ KPW would return to following editions of OldTown until 2019.
   '[Robert Star](@/w/robert-star.md)']
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Kaszub](@/w/kaszub.md)', {s: Hardcore Match}]
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Adam Bravo](@/w/adam-bravo.md)']
-- ['[Greg](@/w/greg.md)', '[Peter Pannache](@/w/peter-pannache.md)', {c: "KPW OldTown
-      Championship"}]
+- ['[Greg](@/w/greg.md)', '[Peter Pannache](@/w/peter-pannache.md)', {c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"}]
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}

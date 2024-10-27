@@ -32,13 +32,21 @@ The foreign guests for the event were:
   - '[Rosetti](@/w/rosetti.md)'
   - Tom Fulton
   - '[Ricky Sky](@/w/ricky-sky.md)'
-  - s: "KPW OldTown Championship Contender Four-Way Match"
-- ['[Zefir](@/w/zefir.md)', '[Leon Lato](@/w/leon-lato.md)']
-- - "Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
-  - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
-  - "[Primate](@/w/primate.md), Tommy Freeman"
-  - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
-  - {c: KPW Tag Team Championship, s: 4-way Elimination Match}
+  - s: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md) Contender Four-Way Match'
+- - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
+  - '[Primate](@/w/primate.md)'
+  - '[Kinga Miotke](@/w/kinga-miotke.md)'
+  - '[Krystian Czekaj](@/w/krystian-czekaj.md)'
+  - g: true
+  - s: Primate vacates the [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md); Krystian Malinowski draws the match types for the main event, assisted by Kinga Miotke and Krystian Czekaj.
+- - '[Zefir](@/w/zefir.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+- - 'Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)'
+  - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
+  - '[Primate](@/w/primate.md), Tommy Freeman'
+  - '[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+    s: 4-way Elimination Match
 - - '[Rosetti](@/w/rosetti.md)'
   - Alex Berkner
   - '[Chemik](@/w/chemik.md)'
@@ -57,7 +65,8 @@ The foreign guests for the event were:
   - s: Championship Contract Battle Royal
 - - '[Greg](@/w/greg.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
-  - {s: Three Stages of Hell Match, c: KPW Championship}
+  - s: Three Stages of Hell Match
+    c: '[KPW Championship](@/c/kpw-championship.md)'
 - - '[Rosetti](@/w/rosetti.md)'
   - '[David Oliwa](@/w/david-oliwa.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'

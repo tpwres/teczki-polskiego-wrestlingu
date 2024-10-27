@@ -51,7 +51,7 @@ There were a significant number of foreign talent at this event, including some 
   - 'The 87: Alexander Roth, Roy Johnson'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'
-  - Reece Alexios
+  - 'Reece Alexios'
 - - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Darius](@/w/darius.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
@@ -63,7 +63,7 @@ There were a significant number of foreign talent at this event, including some 
 - - '[Chemik](@/w/chemik.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
   - g: true
-    s: Malinowski criticizing Chemik as champion
+    s: Malinowski criticises Chemik as a champion
 - - '[Chemik](@/w/chemik.md)(c)'
   - 'Carlos Zamora'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'

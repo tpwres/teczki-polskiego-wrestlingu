@@ -18,7 +18,7 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
 {% card() %}
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Mateusz Kowalski](@/w/mateusz-kakareko.md)']
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Karol Górski](@/w/iskra.md)', {
-    c: "KPW Championship"}]
+    c: "[KPW Championship](@/c/kpw-championship.md)"}]
 - ['[Sawicki](@/w/sawicki.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - ['[Mira](@/w/mira.md)', '[Bianca](@/w/bianca.md)']
 - - '[Boski Ostrowski](@/w/ostrowski.md)'
@@ -27,7 +27,7 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
   - '[Kaszub](@/w/kaszub.md)'
   - Leśny
   - '[Peter Pannache](@/w/peter-pannache.md)'
-  - s: KPW Championship #1 Contendership Six Man Elimination Match
+  - s: [KPW Championship](@/c/kpw-championship.md) #1 Contendership Six Man Elimination Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
