@@ -28,11 +28,11 @@ Originally, the tag team champions were scheduled against German wrestlers [Fynn
   - s: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md) #1 Contender Match"
 - - "[Sawicki](@/w/sawicki.md), [Rosetti](@/w/rosetti.md)"
   - "[Fynn Freyhart](@/w/fynn-freyhart.md), [Kamil Aleksander](@/w/kamil-aleksander.md)"
-  - c: [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag Team Match
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Ron Corvus](@/w/ron-corvus.md)(c)'
-  - c: [KPW Championship](@/c/kpw-championship.md)
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}

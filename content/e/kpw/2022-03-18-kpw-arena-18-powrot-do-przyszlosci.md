@@ -36,7 +36,7 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
   - 'Piotr Opolski'
 - - '[David Oliwa](@/w/david-oliwa.md)(c)'
   - Gianni Valletta
-  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Red Scorpion](@/w/red-scorpion.md)'
   - '[Darius](@/w/darius.md)'
   - '[Zefir](@/w/zefir.md)'

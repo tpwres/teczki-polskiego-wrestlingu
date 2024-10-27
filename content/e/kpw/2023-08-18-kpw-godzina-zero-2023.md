@@ -33,10 +33,10 @@ All three championships were defended and two changed hands. The Magnificent Sev
   - s: Chairs Match
 - - '[Rosetti](@/w/rosetti.md)(c)'
   - 'Ludy Lohan'
-  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - 'The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
   - 'Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)(c)'
-  - s: [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)
+  - s: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - 'Iestyn Rees'
   - '[David Oliwa](@/w/david-oliwa.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'
@@ -53,7 +53,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
   - s: Championship Contract Battle Royal
 - - '[Red Scorpion](@/w/red-scorpion.md)'
   - '[Greg](@/w/greg.md)(c)'
-  - c: [KPW Championship](@/c/kpw-championship.md)
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
   - r: Submission
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'

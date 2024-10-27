@@ -22,7 +22,7 @@ Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in [Klub Atlan
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Adam Bravo](@/w/adam-bravo.md)']
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
-  - c: [KPW Championship](@/c/kpw-championship.md)
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'

@@ -25,10 +25,10 @@ This show was also the debut of the future [Chemik](@/w/chemik.md) - who appeare
   {s: "[KPW Championship](@/c/kpw-championship.md) #1 Contender Match"}]
 - - '[Greg](@/w/greg.md)'
   - '[Kaszub](@/w/kaszub.md)'
-  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Greg](@/w/greg.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
-  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
     s: Hardcore Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

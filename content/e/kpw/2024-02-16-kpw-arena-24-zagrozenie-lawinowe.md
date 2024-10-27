@@ -33,11 +33,11 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
   - '[Greg](@/w/greg.md)'
 - - '[Rosetti](@/w/rosetti.md)(c)'
   - '[Darius](@/w/darius.md)'
-  - c: [KPW OldTown Championship](@/c/kpw-old-town-championship.md)
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
   - '[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
   - s: Tag Team Match
-    c: [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)
+    c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
