@@ -54,7 +54,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 - - '[Red Scorpion](@/w/red-scorpion.md)'
   - '[Greg](@/w/greg.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
-  - r: Submission
+    r: Submission
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
