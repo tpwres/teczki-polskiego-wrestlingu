@@ -80,12 +80,12 @@ class Name:
         elif m := person_plain_re.match(name_or_link):
             if '[' in name_or_link:
                 # Capture broken markdown links
-                raise ValueError(name_or_link)
+                raise MatchParseError(f"Malformed participant name {name_or_link!r}")
             object.__setattr__(self, 'name', m.group('text').strip())
             object.__setattr__(self, 'prefix', m.group('prefix'))
             object.__setattr__(self, 'suffix', m.group('suffix'))
         else:
-            raise ValueError(name_or_link)
+            raise MatchParseError(name_or_link)
 
     def __repr__(self) -> str:
         cls = self.__class__.__name__ # Important for subclasses
