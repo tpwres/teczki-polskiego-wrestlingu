@@ -27,7 +27,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
   - '[Royal Striker](@/w/royal-striker.md)'
-  - '_rookie_ Oskar'
+  - '[_rookie_ Oskar](@/w/oskar-aleksander.md)'
   - '["OG" Michael HT](@/w/michael-ht.md)'
   - s: Insane Wheel of Fortune Gauntlet Invitational Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'

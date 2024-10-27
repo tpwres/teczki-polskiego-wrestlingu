@@ -18,7 +18,7 @@ city = "Warszawa"
   - g: true
     s: New [PpW Championship](@/c/ppw-championship.md) revealed.
 - - '[Axel Fox](@/w/axel-fox.md)'
-  - '_rookie_ Oskar'
+  - '[_rookie_ Oskar](@/w/oskar-aleksander.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - s: Ustawka bez sprzętu (_no weapons hooligan street fight_)
