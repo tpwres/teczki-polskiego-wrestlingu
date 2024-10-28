@@ -15,7 +15,7 @@ city = "Warszawa"
 
 "Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It tooke place in a brand new location - a post-industrial complex at Mińska 65 street.
 
-Much like most of the bigger shows, this event was streamed live on PpW's YouTube channel for free1.
+Much like most of the bigger shows, this event was streamed live on PpW's YouTube channel for free.
 
 The show's name comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by a Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
