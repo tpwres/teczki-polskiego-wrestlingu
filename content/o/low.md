@@ -33,7 +33,7 @@ On the 5th of September LOW [posted on Facebook][qa-post] stating that a live Q&
 
 #### The live Q&A
 
-On 9.09.2024 LOW held a [live Q&A][live-qa] on YouTube hosted by [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), who anwsered questions asked by fans on Legacy's social media. The stream lasted around 75 minutes, during which ShowOff shared the following information:
+On 9.09.2024 LOW held a [live Q&A][live-qa-1] on YouTube hosted by [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), who anwsered questions asked by fans on Legacy's social media. The stream lasted around 75 minutes, during which ShowOff shared the following information:
 
 * Unlike other Polish promotions thus far, Legacy is not going to have their own wrestling school, focusing on organising events instead.
 * LOW might have their own championship titles; that remains to be seen.
