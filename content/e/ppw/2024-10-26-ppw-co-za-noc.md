@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["Szymon Iwulski", "M3n747", "Seweryn Pielucha"]
 [taxonomies]
 chronology = ["ppw"]
-venue=["minska-65"]
+venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
@@ -13,11 +13,11 @@ city = "Warszawa"
 3 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._", source = "Official PpW Facebook" }
 +++
 
-"Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It tooke place in a brand new location - a post-industrial complex at Mińska 65 street.
+"Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It took place in a brand new venue - a post-industrial complex at Mińska 65 in Warsaw.
 
-Much like most of the bigger shows, this event was streamed live on PpW's YouTube channel for free.
+Just like most of PpW's bigger shows, this event was streamed live on their YouTube channel for free.
 
-The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by a Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers, roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
 ### Build-up
 
@@ -27,10 +27,16 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 
 #### Storylines overview
 
-* A huge part of the show revolved around the main conflict of two groups: the villainous ["Zmowa"](@/a/the-collusion.md) led by [Mister Z](@/w/mister-z.md), and "Zmowa przeciwko zmowie" led by [Biesiad Strong](@/w/biesiad.md). Nearly a year-long feud of Mister Z versus Biesiad, as well as many other additional conflicts such as Pure Gold vs Legia Łysych, finally imploded at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) after Biesiad and his allies challenged "Zmowa" for an "Ustawka Match", which was a 5 vs 5 elimination no holds barred tag team match. 
-* [Samson](@/w/samson.md) continued his rivalry with [Gustav Gryffin](@/w/gustav-gryffin.md). After a draw in non-title match at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) and suffering a defeat in Anarchy Cyclone Tag Team Match at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), Samson was eager to challenge Gustav for the [PpW Championship](@/c/ppw-championship.md) in a strap match - the same weapon Gustav used to choke Samson during Hardcore Friday 2.
-* [Isnorr](@/w/isnorr.md) continued his crusade in the ultraviolent division going up against [Johnny Blade](@/w/johnny-blade.md), which goes back to [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md), where Isnorr intervened in Blade's match. The rivarly later continued with Isnorr challenging Johnny for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), but without success. Isnorr then won Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later on defeated him in a tag team match at Hardcore Friday 2, therefore earning his opportunity to challange the champion for a rematch.
-  
+* A huge part of the show revolved around the main conflict of two groups: the villainous ["Zmowa"](@/a/the-collusion.md) led by [Mister Z](@/w/mister-z.md), and "Zmowa przeciwko zmowie" led by [Biesiad Strong](@/w/biesiad.md).
+  Nearly a year-long feud of Mister Z versus Biesiad, as well as many other additional conflicts such as Pure Gold vs Legia Łysych, finally imploded at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), after Biesiad and his allies challenged "Zmowa" for an "Ustawka Match", which was a 5 vs 5 Elimination No Holds Barred tag team match.
+* [Samson](@/w/samson.md) continued his rivalry with [Gustav Gryffin](@/w/gustav-gryffin.md).
+  After their non-title match at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) ended in a draw, and losing to a team of Gustav and Isnorr in the Anarchy Cyclone Tag Team Match at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md),
+  Samson was eager to challenge Gustav for the [PpW Championship](@/c/ppw-championship.md) in a strap match - the same weapon Gustav used to choke Samson during Hardcore Friday 2.
+* [Isnorr](@/w/isnorr.md) continued his crusade in the ultraviolent division, going up against [Johnny Blade](@/w/johnny-blade.md).
+  This story goes back to [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md), where Isnorr intervened in Blade's match.
+  The rivalry later continued with Isnorr challenging Johnny for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), only to be defeated.
+  Isnorr then won the Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later defeated him in a tag team match at Hardcore Friday 2, earning his opportunity to challange the champion for a rematch.
+
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Samson](@/w/samson.md)'
@@ -45,8 +51,20 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 - - '[Bill Feager](@/w/feager.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
   - s: Chairs Match
-- - 'Team Biesiad: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md), [Biesiad Strong](@/w/biesiad.md)'
-  - 'Team Mister Z: [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), Jakub Linde, [Wiktor Longman](@/w/wiktor-longman.md)'
+- - >
+      Team Biesiad:
+      [Vic Golden](@/w/vic-golden.md),
+      [Gabriel Queen](@/w/gabriel-queen.md),
+      [Axel Fox](@/w/axel-fox.md),
+      [Goblin](@/w/goblin.md),
+      [Biesiad Strong](@/w/biesiad.md)
+  - >
+      Team Mister Z:
+      [Mister Z](@/w/mister-z.md),
+      [Olgierd](@/w/olgierd.md),
+      [Marco Hammers](@/w/marco-hammers.md),
+      Jakub Linde,
+      [Wiktor Longman](@/w/wiktor-longman.md)
   - s: 5 vs 5 Elimination Match
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)(c)'
