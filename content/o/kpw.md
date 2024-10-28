@@ -35,7 +35,7 @@ During and after the hiatus KPW lost several of their headliners who chose to jo
 
 #### 2023 TV deal and FightBox
 
-During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), Chairman Malinowski announced that from this moment on KPW's events would be broadcast on cable TV, on an MMA and wrestling-focused channel FightBox. This was finally realized in April 2024, when FightBox aired Arena 23. On April 2, 2024 [Piękny Kawaler](@/w/piekny-kawaler.md), KPW's owner, booker and head trainer, posted [a photo of himself][kawaler-watching-tv] watching the event on TV, captioning it "he day has come". According to his replies under that post, KPW supplied FightBox with two versions: one with Polish commentary track and one without, so that an English commentary could be recorded for broadcast outside of Poland. The version aired by FightBox in April 2024 had no commentary.
+During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), Chairman Malinowski announced that from this moment on KPW's events would be broadcast on cable TV, on an MMA and wrestling-focused channel FightBox. This was finally realized in April 2024, when FightBox aired Arena 23. On April 2, 2024 [Piękny Kawaler](@/w/piekny-kawaler.md), KPW's owner, booker and head trainer, posted [a photo of himself][kawaler-watching-tv] watching the event on TV, captioning it "the day has come". According to his replies under that post, KPW supplied FightBox with two versions: one with Polish commentary track and one without, so that an English commentary could be recorded for broadcast outside of Poland. The version aired by FightBox in April 2024 had no commentary.
 
 #### 2024
 
