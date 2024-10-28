@@ -1,7 +1,7 @@
 +++
 title = "PpW Co Za Noc"
 template = "event_page.html"
-authors = ["Szymon Iwulski", "M3n747"]
+authors = ["Szymon Iwulski", "M3n747", "Seweryn Pielucha"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["minska-65"]
@@ -13,11 +13,11 @@ city = "Warszawa"
 3 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._", source = "Official PpW Facebook" }
 +++
 
-PpW "Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It tooke place in a brand new location - a post-industrial complex at Mińska 65 street.
+"Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It tooke place in a brand new location - a post-industrial complex at Mińska 65 street.
 
-Much like most of the bigger shows this event was streamed live on PpW's Youtube Channel free for all.
+Much like most of the bigger shows, this event was streamed live on PpW's YouTube channel for free1.
 
-The show's name - "Co Za Noc" (which can be translated as "What a Night") comes from viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by polish influencer Robert Pasut and become popular rolling joke and sort of a catchphrase among PpW's fans and workers roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+The show's name comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by a Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
 ### Build-up
 
@@ -27,9 +27,9 @@ The show's name - "Co Za Noc" (which can be translated as "What a Night") comes 
 
 #### Storylines overview
 
-* Huge part of the show was revolving around main conflict of two groups: Villainous ["Zmowa"](@/a/the-collusion.md) led by [Mister Z](@/w/mister-z.md), and "Zmowa przeciwko zmowie" which was led by [Biesiad Strong](@/w/biesiad.md). Nearly year-long feud of Mister Z versus Biesiad, as well as many other additional conflicts such as Pure Gold vs Legia Łysych finally imploded at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) after Biesiad and his allies challenged "Zmowa" for a "Ustawka Match", which is 5vs5 elimination no holds barred tag team match. 
-* [Samson](@/w/samson.md) continued his rivalry with [Gustav Gryffin](@/w/gustav-gryffin.md). After a draw in non-title match at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) and suffering a defeat in Anarchy Cyclone Tag Team Match at Hardcore Friday 2 Samson was eager to challenge Gustav for [PpW Championship](@/c/ppw-championship.md) in a strap match - the same weapon Gustav used to choke Samson during Hardcore Friday 2.
-* [Isnorr](@/w/isnorr.md) continued his crusade in the ultraviolent division going up against [Johnny Blade](@/w/johnny-blade.md), which goes back to the [PpW Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) where Isnorr intervened in Blade's match. The rivarly later continued with Isnorr challenging Johnny for [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), but without success. Isnorr then won Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later on defeated him in a tag team match at Hardcore Friday 2 therefore earning his opportunity to challange the champion for a rematch.
+* A huge part of the show revolved around the main conflict of two groups: the villainous ["Zmowa"](@/a/the-collusion.md) led by [Mister Z](@/w/mister-z.md), and "Zmowa przeciwko zmowie" led by [Biesiad Strong](@/w/biesiad.md). Nearly a year-long feud of Mister Z versus Biesiad, as well as many other additional conflicts such as Pure Gold vs Legia Łysych, finally imploded at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) after Biesiad and his allies challenged "Zmowa" for an "Ustawka Match", which was a 5 vs 5 elimination no holds barred tag team match. 
+* [Samson](@/w/samson.md) continued his rivalry with [Gustav Gryffin](@/w/gustav-gryffin.md). After a draw in non-title match at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) and suffering a defeat in Anarchy Cyclone Tag Team Match at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), Samson was eager to challenge Gustav for the [PpW Championship](@/c/ppw-championship.md) in a strap match - the same weapon Gustav used to choke Samson during Hardcore Friday 2.
+* [Isnorr](@/w/isnorr.md) continued his crusade in the ultraviolent division going up against [Johnny Blade](@/w/johnny-blade.md), which goes back to [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md), where Isnorr intervened in Blade's match. The rivarly later continued with Isnorr challenging Johnny for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), but without success. Isnorr then won Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later on defeated him in a tag team match at Hardcore Friday 2, therefore earning his opportunity to challange the champion for a rematch.
   
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -64,7 +64,7 @@ The show's name - "Co Za Noc" (which can be translated as "What a Night") comes 
 * After his victory, rookie Oskar announced that henceforth he shall be known as [Oskar Aleksander](@/w/oskar-aleksander.md).
 * Zuzia, one of the ring crew members, had her birthday on the day of the event. After [Feager](@/w/feager.md) vs [Arthur](@/w/alex-arthur.md), [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang "Sto lat" (the Polish equivalent to "Happy Birthday").
 * In an interview during the break, [Gustav Gryffin](@/w/gustav-gryffin.md) issued an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
-* The mystery fifth member of Zmowa was revealed to be [Wiktor Longman](@/w/wiktor-longman.md), [formerly from PTW](@/a/ptw-exits.md), making his debut in PpW.
+* The mystery fifth member of "Zmowa" was revealed to be [Wiktor Longman](@/w/wiktor-longman.md), [formerly from PTW](@/a/ptw-exits.md), making his debut in PpW.
 * After all other wrestlers were successively eliminated, the 5 vs 5 match ended up as [Goblin](@/w/goblin.md) vs [Olgierd](@/w/olgierd.md).
 * [Isnorr](@/w/isnorr.md) came out carrying an axe, which later came into play during the match.
 * The Main Event stipulation required that at least one of the wrestlers had to start bleeding before the referee would count any pins.
