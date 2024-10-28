@@ -36,7 +36,7 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 - ['[Bianca](@/w/bianca.md)', Aurora Flame]
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - c: "KPW Championship"
+  - c: "[KPW Championship](@/c/kpw-championship.md)"
     s: "2 out of 3 Falls Match"
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

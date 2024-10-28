@@ -26,7 +26,7 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
 - ['[Alisa](@/w/alisa.md)', Chakara]
 - - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Greg](@/w/greg.md)(c)'
-  - {s: "I Quit Match", c: "KPW OldTown Championship"}
+  - {s: "I Quit Match", c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"}
 - ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Mark Haskins]
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Dom Taylor](@/w/dom-taylor.md)'
@@ -34,7 +34,7 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
   - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Sawicki](@/w/sawicki.md)'
-  - c: KPW Championship
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
     s: Elimination Match
 - credits:
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'

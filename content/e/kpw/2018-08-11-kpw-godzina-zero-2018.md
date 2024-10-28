@@ -23,7 +23,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and GÃ
 - ['[David Oliwa](@/w/david-oliwa.md)', '[Sawicki](@/w/sawicki.md)']
 - ['[PiÄ™kny Kawaler](@/w/piekny-kawaler.md)', '[Adam Bravo](@/w/adam-bravo.md)', {
     s: Street Fight}]
-- ['[Greg](@/w/greg.md)(c)', Tristan Archer, {c: KPW OldTown Championship}]
+- ['[Greg](@/w/greg.md)(c)', Tristan Archer, {c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'}]
 - - '[Peter Pannache](@/w/peter-pannache.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md); [Mira](@/w/mira.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
@@ -33,7 +33,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and GÃ
   - '[Mateusz Kakareko](@/w/mateusz-kakareko.md)'
   - s: Magnificent Seven No-DQ Elimination Ladder Match for a Championship contract
 - ['[Bianca](@/w/bianca.md)', Sixt]
-- ['[Ron Corvus](@/w/ron-corvus.md)(c)', Tom LaRuffa, {c: KPW Championship}]
+- ['[Ron Corvus](@/w/ron-corvus.md)(c)', Tom LaRuffa, {c: '[KPW Championship](@/c/kpw-championship.md)'}]
 - credits:
     Ring announcer: '[Arkadiusz PawÅ‚owski](@/w/pan-pawlowski.md)'
 {% end %}

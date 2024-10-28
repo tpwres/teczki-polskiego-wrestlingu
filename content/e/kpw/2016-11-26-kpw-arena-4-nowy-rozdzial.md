@@ -20,7 +20,7 @@ Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall o
   - s: Tag Team Match
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Greg](@/w/greg.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Damian Lambert](@/w/damien-rothschild.md)']
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Elliott Jordan, {c: KPW Championship}]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Elliott Jordan, {c: '[KPW Championship](@/c/kpw-championship.md)'}]
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'

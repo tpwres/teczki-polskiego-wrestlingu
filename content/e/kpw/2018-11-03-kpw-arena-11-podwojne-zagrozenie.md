@@ -37,7 +37,7 @@ Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held 
     [Robert Star](@/w/robert-star.md)", {r: "DQ", s: "Tournament Semi Final Tag Team
       Match"}]
 - ["[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)", "Boska Oliwa: [David Oliwa](@/w/david-oliwa.md),
-    [Boski Ostrowski](@/w/ostrowski.md)", {c: "KPW Tag Team Championship", s: "Tournament
+    [Boski Ostrowski](@/w/ostrowski.md)", {c: "[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)", s: "Tournament
       Final Tag Team Match"}]
 - credits:
     Referee: 'Dariusz Łępicki'

@@ -26,11 +26,11 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 {% card() %}
 - ['[Daniel Boza](@/w/mutant.md)', '[Eryk Lesak](@/w/eryk-lesak.md)']
 - ['[Bianca](@/w/bianca.md)', '[Diana Rega](@/w/diana-strong.md)']
-- ['[David Oliwa](@/w/david-oliwa.md)(c)', Martn Pain, {c: KPW OldTown Championship}]
+- ['[David Oliwa](@/w/david-oliwa.md)(c)', Martn Pain, {c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'}]
 - ['[Greg](@/w/greg.md)', Piotr Opolski]
 - - "The Hunt: [Primate](@/w/primate.md), Wild Boar"
   - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
-  - c: KPW Tag Team Championship
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - credits:
     Commentary: Marek Łojek, Mateusz Mazurowski
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'

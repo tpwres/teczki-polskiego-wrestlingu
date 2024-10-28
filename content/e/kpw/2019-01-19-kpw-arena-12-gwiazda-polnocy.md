@@ -22,13 +22,13 @@ The event was almost cancelled due to unrelated but tragic circumstances in the 
 
 {% card() %}
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
-  {s: "KPW OldTown Championship #1 Contendership Qualifier"}]
+  {s: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md) #1 Contendership Qualifier"}]
 - ['[Moloch](@/w/moloch.md)', '[Mateusz Kakareko](@/w/mateusz-kakareko.md)']
-- ['[David Oliwa](@/w/david-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)', {s: "KPW
-      OldTown Championship #1 Contendership Qualifier"}]
+- ['[David Oliwa](@/w/david-oliwa.md)', '[Boski Ostrowski](@/w/ostrowski.md)',
+  {s: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md) #1 Contendership Qualifier"}]
 - ['[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', Yuu, {s: Three Way Match}]
 - ['[Ron Corvus](@/w/ron-corvus.md)(c)', '[Peter Pannache](@/w/peter-pannache.md)',
-  {c: "KPW Championship"}]
+  {c: "[KPW Championship](@/c/kpw-championship.md)"}]
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}

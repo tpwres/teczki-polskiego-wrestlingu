@@ -22,13 +22,13 @@ This show was also the debut of the future [Chemik](@/w/chemik.md) - who appeare
 - ['[Bianca](@/w/bianca.md)', '[Alisa](@/w/alisa.md)']
 - ['[Ron Corvus](@/w/ron-corvus.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
-  {s: "KPW Championship #1 Contender Match"}]
+  {s: "[KPW Championship](@/c/kpw-championship.md) #1 Contender Match"}]
 - - '[Greg](@/w/greg.md)'
   - '[Kaszub](@/w/kaszub.md)'
-  - c: KPW OldTown Championship
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Greg](@/w/greg.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
-  - c: KPW OldTown Championship
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
     s: Hardcore Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

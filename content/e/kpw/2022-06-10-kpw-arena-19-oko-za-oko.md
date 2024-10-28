@@ -13,15 +13,26 @@ city = "Gdynia"
 
 Oko za Oko (_An Eye for an Eye_) was KPW's second show of 2022 and the 19th Arena show overall, held in the [Nowy Harem](@/v/atlantic-nh-gdynia.md) music club. This event saw the return of [Fynn Freyhart](@/w/fynn-freyhart.md) and Darius.
 
-Originally the Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and Darius in a three way match. Unfortunately, Martn had to bow out due to ilness, turning the fight into a singles match.
+Originally, Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and Darius in a three way match. Unfortunately, Martn had to bow out due to illness, turning the fight into a singles match.
 
 {% card() %}
-- ['[Filip Fux](@/w/filip-fux.md)', '[Chemik](@/w/chemik.md)']
-- ['[Eryk Lesak](@/w/eryk-lesak.md)', Piotr Opolski]
-- ['[Zefir](@/w/zefir.md)', '[Michał Fux](@/w/michal-fux.md)']
-- ['[Greg](@/w/greg.md)', '[Darius](@/w/darius.md)']
-- ['[David Oliwa](@/w/david-oliwa.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {
-    s: "KPW Championship #1 Contender Best Two Out Of Three Falls Match"}]
+- - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Chemik](@/w/chemik.md)'
+- - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - 'Piotr Opolski'
+- - '[Zefir](@/w/zefir.md)'
+  - '[Michał Fux](@/w/michal-fux.md)'
+- - '[Greg](@/w/greg.md)'
+  - '[Chemik](@/w/chemik.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - '[Rosetti](@/w/rosetti.md)'
+  - g: true
+    s: Greg holds a marriage-like ceremony to swear in a new tag team of Chemik and Lesak.
+- - '[Greg](@/w/greg.md)'
+  - '[Darius](@/w/darius.md)'
+- - '[David Oliwa](@/w/david-oliwa.md)'
+  - '[Fynn Freyhard](@/w/fynn-freyhart.md)'
+  - s: '[KPW Championship](@/c/kpw-championship.md) #1 Contender Best Two Out Of Three Falls Match'
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'

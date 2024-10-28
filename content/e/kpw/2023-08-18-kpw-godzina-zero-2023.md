@@ -25,32 +25,40 @@ All three championships were defended and two changed hands. The Magnificent Sev
 * In [his vignette][rosetti-vignette], Rosetti cashed in his [Chairman's Briefcase](@/e/kpw/2023-05-19-kpw-arena-22.md) match. Coming to the Chairman's office, he presents his match, which Malinowski accepts.
 
 {% card() %}
-- ['[Zefir](@/w/zefir.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {s: "KPW Oldtown
-      #1 Contendership Match"}]
-- ['[Chemik](@/w/chemik.md)', '[Leon Lato](@/w/leon-lato.md)', {s: Chairs Match}]
-- ['[Rosetti](@/w/rosetti.md)(c)', Ludy Lohan, {c: KPW Oldtown Championship}]
-- - "The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)"
-  - "Die Ordnung (c): [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)"
-  - s: KPW Tag Team Championship
-- [Iestyn Rees, '[David Oliwa](@/w/david-oliwa.md)']
+- - '[Zefir](@/w/zefir.md)'
+  - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
+  - s: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md) #1 Contendership Match'
+- - '[Chemik](@/w/chemik.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - s: Chairs Match
+- - '[Rosetti](@/w/rosetti.md)(c)'
+  - 'Ludy Lohan'
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+- - 'The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
+  - 'Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)(c)'
+  - s: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+- - 'Iestyn Rees'
+  - '[David Oliwa](@/w/david-oliwa.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Chemik](@/w/chemik.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Hans Schulte](@/w/hans-schulte.md)'
-  - Iestyn Rees
-  - Ludy Lohan
+  - 'Iestyn Rees'
+  - 'Ludy Lohan'
   - '[Michał Fux](@/w/michal-fux.md)'
   - '[Rosetti](@/w/rosetti.md)'
   - '[Veit Müller](@/w/veit-mueller.md)'
   - '[Zefir](@/w/zefir.md)'
   - s: Championship Contract Battle Royal
-- ['[Red Scorpion](@/w/red-scorpion.md)', '[Greg](@/w/greg.md)(c)', {c: KPW Championship, r: Submission}]
+- - '[Red Scorpion](@/w/red-scorpion.md)'
+  - '[Greg](@/w/greg.md)(c)'
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
+    r: Submission
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
-
 
 #### Recap
 

@@ -13,14 +13,14 @@ city = "Gdynia"
 +++
 
 Powrót Do Przyszłości (_Back To The Future_) was KPW's 18th Arena show, and the second post-pandemic one, after another 7-month long hiatus. This time, the show's name
-references that they are back in a place from their past: the former Klub Atlantic (which held Arenas [5](@/e/kpw/2017-01-14-kpw-arena-v.md), [6](@/e/kpw/2017-04-08-kpw-arena-6-selekcja.md) and [7](@/e/kpw/2017-06-10-kpw-arena-7-wysoka-stawka.md)) which has been rebranded and redecorated as [Nowy Harem](@/v/atlantic-nh-gdynia.md).
+references that they are back in a place from their past: the former Klub Atlantic (where Arenas [5](@/e/kpw/2017-01-14-kpw-arena-v.md), [6](@/e/kpw/2017-04-08-kpw-arena-6-selekcja.md) and [7](@/e/kpw/2017-06-10-kpw-arena-7-wysoka-stawka.md) were held), which has been rebranded and redecorated as [Nowy Harem](@/v/atlantic-nh-gdynia.md).
 
 For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, Italian masked wrestler Red Scorpion, and high-flying Austrian wrestler of Iranian descent, Darius.
 [Ron Corvus](@/w/ron-corvus.md), last seen at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md) also returned to KPW after 3 years.
 
 #### Build-up
 
-* In Zefir's promo, we saw him sitting at a bonfire and humming the melody from Czterej Pancerni (_Four Tank-Men and a Dog_), an extremely popular black and white Polish TV series from the 1960s. Zefir reminisced about his loss to [Rosetti](@/w/rosetti.md), and cast photos of his two opponents into the fire.
+* In Zefir's promo, we saw him sitting at a bonfire and humming the melody from "Czterej Pancerni" (_Four Tank-Men and a Dog_), an extremely popular black-and-white Polish TV series from the 1960s. Zefir reminisced about his loss to [Rosetti](@/w/rosetti.md), and cast photos of his two opponents into the fire.
 * [Greg](@/w/greg.md), appearing in his long monastic robes, declared that facing Corvus is his Via Crucis. In his promo we saw cuts to a past, younger, more aggressive Greg holding the KPW OldTown belt. Greg seemed to confront his younger self.
 * Gianni Valletta told the viewers he already saw [David Oliwa](@/w/david-oliwa.md) fight in Malta. Indeed, in February that same year David faced Red Scorpion and Adam Envy in an event by Pro Wrestling Malta. On that same event, Gianni Valletta fought Zak Knight, a [future one-time](@/e/kpw/2023-05-19-kpw-arena-22.md) KPW competitor.
 * [Ron Corvus](@/w/ron-corvus.md) considered his upcoming fight with [Greg](@/w/greg.md) a rematch from [five years ago](@/e/kpw/2017-02-04-kpw-szlamfest.md), which he won. On the day of the event, Corvus planned to do three things: swim in the sea, beat Greg again, and drink a lot of _piwo_ (beer).
@@ -28,14 +28,22 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
 * [Boski 2.0](@/w/ostrowski.md) won a contract to challenge for a championship at Godzina Zero 2019. However, he's since retired from wrestling.
 
 {% card() %}
-- ["The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)",
-  "[Eryk Lesak](@/w/eryk-lesak.md)", {s: Two On One Handicap Match, r: Count Out}]
-- ['[Chemik](@/w/chemik.md)', Piotr Opolski]
-- ['[David Oliwa](@/w/david-oliwa.md)(c)', Gianni Valletta, {c: KPW OldTown Championship}]
-- ['[Red Scorpion](@/w/red-scorpion.md)', '[Darius](@/w/darius.md)', '[Zefir](@/w/zefir.md)', {s: Three Way
-      Match}]
-- ['[Greg](@/w/greg.md)', '[Ron Corvus](@/w/ron-corvus.md)', {s: "Hardcore Match for
-      KPW Championship #1 Contender"}]
+- - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - s: Two On One Handicap Match
+    r: Count Out
+- - '[Chemik](@/w/chemik.md)'
+  - 'Piotr Opolski'
+- - '[David Oliwa](@/w/david-oliwa.md)(c)'
+  - Gianni Valletta
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+- - '[Red Scorpion](@/w/red-scorpion.md)'
+  - '[Darius](@/w/darius.md)'
+  - '[Zefir](@/w/zefir.md)'
+  - s: Three Way Match
+- - '[Greg](@/w/greg.md)'
+  - '[Ron Corvus](@/w/ron-corvus.md)'
+  - s: '[KPW Championship](@/c/kpw-championship.md) #1 Contender Hardcore Match'
 - credits:
     Referees: '[Krystian Czekaj](@/w/krystian-czekaj.md), [Krystian Malinowski](@/w/krystian-malinowski.md)'
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
