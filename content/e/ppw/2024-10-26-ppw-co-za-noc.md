@@ -17,7 +17,7 @@ city = "Warszawa"
 
 Much like most of the bigger shows, this event was streamed live on PpW's YouTube channel for free.
 
-The show's name comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by a Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by a Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
 ### Build-up
 
