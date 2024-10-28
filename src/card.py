@@ -80,12 +80,12 @@ class Name:
         elif m := person_plain_re.match(name_or_link):
             if '[' in name_or_link:
                 # Capture broken markdown links
-                raise ValueError(name_or_link)
+                raise MatchParseError(f"Malformed participant name {name_or_link!r}")
             object.__setattr__(self, 'name', m.group('text').strip())
             object.__setattr__(self, 'prefix', m.group('prefix'))
             object.__setattr__(self, 'suffix', m.group('suffix'))
         else:
-            raise ValueError(name_or_link)
+            raise MatchParseError(name_or_link)
 
     def __repr__(self) -> str:
         cls = self.__class__.__name__ # Important for subclasses
@@ -145,43 +145,6 @@ class CrewMember(NamedParticipant):
         return "{}:{}".format(repr, self.role)
 
 
-def parse_maybe_team(text) -> Union[Participant, Team]:
-    match Match.tag_team_re.match(text):
-        case re.Match() as m:
-            team_name = m.group('team')
-            people = m.group('people')
-        case _:
-            team_name = None
-            people = text
-
-    group = parse_group(people)
-    match (group, team_name):
-        case ([single_member], _):
-            return single_member
-        case ([*members], None):
-            return AdHocTeam(members)
-        case ([*members], name):
-            return NamedTeam(name, members)
-
-def parse_group(text) -> list[Participant]:
-    # Split with capture keeps delimiters in the result list
-    tokenized = re.split(r'\s*([,;])\s*', text)
-    first_name = tokenized.pop(0)
-    combatants: list[Participant] = [Fighter(first_name)]
-
-    while len(tokenized) > 0:
-        match tokenized:
-            case [',', name, *rest]:
-                combatants.append(Fighter(name.strip()))
-                tokenized = rest
-            case [';', name, *rest]:
-                combatants.append(Manager(name.strip()))
-                tokenized = rest
-            case _:
-                raise ValueError("{!r}".format(tokenized))
-
-    return combatants
-
 class Match:
     tag_team_re = re.compile(r'''
         ^
@@ -215,24 +178,67 @@ class Match:
         return "Match(i={},o={!r} f={!r})".format(self.index, self.opponents, self.options)
 
     def all_names(self) -> Iterable[Name]:
-        for opp in self.opponents:
-            yield from chain.from_iterable(s.all_names() for s in opp)
+        return (name
+                for person_or_team in self.opponents
+                for members in person_or_team
+                for name in members.all_names()
+                )
 
     def winner(self) -> Iterable[Participant]:
         return self.opponents[0]
 
     def parse_opponents(self, opponents: list[str], index: Optional[int] = None) -> Iterable[Iterable[Participant]]:
-        if any(side is None for side in opponents):
-            if index:
-                message = f"At least one side in match {index + 1} is empty"
-            else:
-                message = "Malformed match in card: at least one side is empty"
-            raise MatchParseError(message)
+        for side in opponents:
+            match side:
+                case None:
+                    message = f"Match {index + 1}: at least one side in match is empty" if index else "Malformed match in card: at least one side is empty"
+                    raise MatchParseError(message)
+                case str():
+                    yield self.parse_partners(side.split("+"))
+                case _:
+                    message = f"Match {index + 1}: unexpected match participant {side!r}" if index else f"Unexpected match participant {side!r}"
+                    raise MatchParseError(message)
 
-        return [self.parse_partners(side.split("+")) for side in opponents]
 
-    def parse_partners(self, partners: list[str]) -> Iterable[Participant]:
-        return [parse_maybe_team(p) for p in partners]
+    def parse_partners(self, partners: list[str]) -> Iterable[Union[Participant, Team]]:
+        return [t for p in partners if (t := self.parse_maybe_team(p))]
+
+    def parse_maybe_team(self, text: str) -> Optional[Union[Participant, Team]]:
+        match Match.tag_team_re.match(text):
+            case re.Match() as m:
+                team_name = m.group('team')
+                people = m.group('people')
+            case _:
+                team_name = None
+                people = text
+
+        group = parse_group(people)
+        match (group, team_name):
+            case ([single_member], _):
+                return single_member
+            case ([*members], None):
+                return AdHocTeam(members)
+            case ([*members], name):
+                return NamedTeam(name, members)
+
+def parse_group(text) -> list[Participant]:
+    # Split with capture keeps delimiters in the result list
+    tokenized = re.split(r'\s*([,;])\s*', text)
+    first_name = tokenized.pop(0)
+    combatants: list[Participant] = [Fighter(first_name)]
+
+    while len(tokenized) > 0:
+        match tokenized:
+            case [',', name, *rest]:
+                combatants.append(Fighter(name.strip()))
+                tokenized = rest
+            case [';', name, *rest]:
+                combatants.append(Manager(name.strip()))
+                tokenized = rest
+            case _:
+                raise ValueError("{!r}".format(tokenized))
+
+    return combatants
 
 class Crew:
     def __init__(self, credits: dict, index: int):
@@ -290,10 +296,14 @@ class Card:
 
     @contextmanager
     def handle_yaml_errors(self, card_block: DelimitedCard, path: Optional[Path]):
+        _, _, _, start_line, offset = card_block
         try:
             yield
+        except MatchParseError as mpe:
+            # Add filename to messages
+            message, = mpe.args # Args is a tuple
+            raise MatchParseError(f"{path or '<file>'}: Error: {message}")
         except yaml.parser.ParserError as parse_error:
-            _, _, _, start_line, offset = card_block
             context, _, problem, problem_mark = parse_error.args
             # Calculate actual line number
             # Block content starts at start_line + 1
@@ -333,14 +343,22 @@ def extract_names(matches: Iterable[Match]) -> set[Name]:
     Match object may have an `x` key in their options. This must be a list of integer 1-based indices.
     If present, the indices mark people to REMOVE from this participant list.
     """
-    return reduce(lambda s1, s2: s1 | s2, (names_in_match(m) for m in matches))
+    names = set()
+    for i, mm in enumerate(matches):
+        try:
+            names |= names_in_match(mm)
+        except MatchParseError as mpe:
+            # This is the "Unexpected participant" message. Prefix it with the match number.
+            message, = mpe.args
+            raise MatchParseError(f"(Match {i + 1}) {message}")
+
+    return names
 
 def names_in_match(mm: Match) -> set[Name]:
     names: list[Optional[Name]] = list(mm.all_names())
     exclude = set(mm.options.get('x', []))
+
     return set(name
                for i, name in enumerate(names)
                if i + 1 not in exclude # exclude is 1-based
                and name) # Otherwise the type is set[Name|None]
-
-
