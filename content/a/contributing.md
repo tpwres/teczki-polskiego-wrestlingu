@@ -19,8 +19,7 @@ This still requires a GitHub account, but nothing more than an internet browser 
 On each page, you'll find a link in the footer that will directly create an issue for that page.
 Use it to spot errors, send us corrections and new facts.
 Feel free to submit info in whatever language you prefer - English is not mandatory.
-When your contribution is accepted, you will be added to the page authors!
-
+When your contribution is accepted, you will be added to the page [authors](@/authors.md)!
 
 [github-hello-world]: //docs.github.com/en/get-started/quickstart/hello-world
 [issue-tracker]: //github.com/k3rni/teczki-polskiego-wrestlingu/issues
