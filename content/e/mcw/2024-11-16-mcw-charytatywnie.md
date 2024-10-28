@@ -10,7 +10,7 @@ city = "Siemianowice Śląskie"
 hide_results = true
 [extra.gallery.1]
 path = "2024-11-16-mcw-charytatywnie-plakat.jpg"
-caption = "Official poster. Pictured from left to right, top: two unknown debutants; middle: Chris Steeler, Jack Kalom; bottom: [RAV](@/w/rav.md), [Johny Vegas](@/w/johny-vegas.md)."
+caption = "Official poster. Pictured from left to right, top: two unknown debutants; middle: Chris Steeler, [Johny Vegas](@/w/johny-vegas.md); bottom: [RAV](@/w/rav.md), Jack Kalom."
 source = "Official MCW Facebook"
 +++
 
