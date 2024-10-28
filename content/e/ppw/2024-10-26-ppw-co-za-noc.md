@@ -62,6 +62,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 #### Recap
 
 * After his victory, rookie Oskar announced that henceforth he shall be known as [Oskar Aleksander](@/w/oskar-aleksander.md).
+* Oskar was joined in his celebration by an unnamed female figure (presumably a new manager/valet), wearing fancy black clothes, white sneakers and sunglasses. In an interview during the break, she confirmed herself to be Oskar's business associate/agent, but her name was not stated.
 * Zuzia, one of the ring crew members, had her birthday on the day of the event. After [Feager](@/w/feager.md) vs [Arthur](@/w/alex-arthur.md), [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang "Sto lat" (the Polish equivalent to "Happy Birthday").
 * In an interview during the break, [Gustav Gryffin](@/w/gustav-gryffin.md) issued an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
 * The mystery fifth member of "Zmowa" was revealed to be [Wiktor Longman](@/w/wiktor-longman.md), [formerly from PTW](@/a/ptw-exits.md), making his debut in PpW.
