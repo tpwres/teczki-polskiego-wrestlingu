@@ -70,6 +70,8 @@ KPW does not participate in the Polish wrestling scene; they do not share people
 
 The Polish Internet wrestling community reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with merchandise of international provenance, such as AEW or nWo T-shirts.
 
+On 14.10.2024 [Legacy of Wrestling](@/o/low.md) [announced][low-fux] that [Filip Fux](@/w/filip-fux.md) would make an appearance at their [first show](@/e/low/2024-12-01-low-1.md) in a fight with [Marco Hammers](@/w/marco-hammers.md). This is the first time a KPW wrestler was allowed to compete in another Polish federation.
+
 ### Championships
 
 As of 2024, KPW has one tag team championship and two singles championships. The main title, [KPW Championship](@/c/kpw-championship.md), was created in 2016 and won at the [first Godzina Zero](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md) event. [KPW OldTown Championship](@/c/kpw-old-town-championship.md) was created and won at the [OldTown Festival 2017](@/e/kpw/2017-07-23-kpw-oldtown-2.md), which was a post-apocalyptic themed LARP event to which KPW was invited to perform. This belt had an unique look befitting its origin, until [2023](@/e/kpw/2023-11-24-kpw-arena-23.md) when it was replaced with a more conventional style belt.
@@ -89,3 +91,4 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning White Eagle Wrestling (in Polish)
 
 [kawaler-watching-tv]:https://www.facebook.com/kawalerwrestling/posts/pfbid028kdGNo5vEVnSscGnsCzUr9spHsX14gPKk3ocJ7ogMSnnqPh2cxWsuCfMAUyrGdbyl
+[low-fux]:https://www.facebook.com/photo/?fbid=122119129010468820&set=pb.61564064601704.-2207520000
