@@ -14,7 +14,7 @@ caption = "Official poster. Pictured from left to right, top: two unknown debuta
 source = "Official MCW Facebook"
 +++
 
-MCW Charytatywnie (roughly: _MCW for Charity_) is an upcoming [Mine City Wrestling](@/o/mzw.md) show to be held in the "Michał" Sports Complex in Siemianowice Śląskie, as part of a charity event. The show is set to have three fights, including a Championship match, and will see the debut of two new wrestlers.
+MCW Charytatywnie (roughly: _MCW for Charity_) is an upcoming [Mine City Wrestling](@/o/mcw.md) show to be held in the "Michał" Sports Complex in Siemianowice Śląskie, as part of a charity event. The show is set to have three fights, including a Championship match, and will see the debut of two new wrestlers.
 
 {% card(predicted=true) %}
 - - '???'
