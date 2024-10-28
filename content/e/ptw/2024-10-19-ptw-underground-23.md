@@ -11,7 +11,9 @@ city = "Kozłów"
 +++
 
 Underground 23 was an event by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, October 19th, 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów - PTW's main wrestling venue and training facility.
+
 This Underground's name - "Halloweenowy Łomot", which can be loosely translated as "Halloween Bash" - suggested to the public that the event would have a Halloween theme, which was visible in promotional materials publicized on PTW's social media, as well as in decorations at the venue and the performers' entrances. 
+
 According to Istota Wrestlingu, who attended the event in person, the overall attendance at the show was approximately 50 people - including friends and families of the performers, which was visible and audible due to fact that the venue at Kozłów can hold at least 150-200 people in the audience.
 
 {% card() %}
