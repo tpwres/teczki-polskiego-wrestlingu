@@ -9,7 +9,7 @@ venue = ["winogronowa-17"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "crossing-roads-2016-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
-2 = { path = "literal-rope-break.jpg.jpg", caption = "[Black Orion](@/w/black-orion.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, Hirinus puts a hold on Automatico.", source = "Official PpW YouTube." }
+2 = { path = "literal-rope-break.jpg", caption = "[Black Orion](@/w/black-orion.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, Hirinus puts a hold on Automatico.", source = "Official PpW YouTube." }
 3 = { path = "biesiad-strongs-pro-wrestler.jpg", caption = "[Steven Strong](@/w/biesiad.md) jumps from the top rope onto nearly everybody.", source = "Official PpW YouTube." }
 4 = { path = "hades.jpg", caption = "[Hades](@/w/olgierd.md) smiling for the camera.", source = "Official PpW YouTube." }
 +++
