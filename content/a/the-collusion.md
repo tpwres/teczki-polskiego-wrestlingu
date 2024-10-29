@@ -30,10 +30,10 @@ The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [V
 * [Marco Hammers](@/w/marco-hammers.md) - Legia Łysych
 * Jakub Linde - personal trainer
 
-#### Former & Part-Time
+#### Former & part-time
 
-* [Rafi](@/w/rafi.md) - associate ([PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) - [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md))
-* [Wiktor Longman](@/w/wiktor-longman.md) - associate ([PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md))
+* [Rafi](@/w/rafi.md) - associate ([Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) - [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md))
+* [Wiktor Longman](@/w/wiktor-longman.md) - associate ([Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md))
 
 ## Championships and accomplishments
 
