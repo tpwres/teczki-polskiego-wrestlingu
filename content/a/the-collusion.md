@@ -21,15 +21,21 @@ The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [V
 
 ## Members
 
+#### Current
+
 * [Mister Z](@/w/mister-z.md) - the leader of "Zmowa"
 * [Gustav Gryffin](@/w/gustav-gryffin.md) - the face of the company
 * [Isnorr](@/w/isnorr.md) - ultraviolent specialist
 * [Olgierd](@/w/olgierd.md) - Legia Łysych
 * [Marco Hammers](@/w/marco-hammers.md) - Legia Łysych
 * Jakub Linde - personal trainer
-* [Rafi](@/w/rafi.md) - associate
-* [Wiktor Longman](@/w/wiktor-longman.md) - associate
+
+#### Former & Part-Time
+
+* [Rafi](@/w/rafi.md) - associate ([PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) - [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md))
+* [Wiktor Longman](@/w/wiktor-longman.md) - associate ([PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md))
 
 ## Championships and accomplishments
 
 * [PpW Championship](@/c/ppw-championship.md) (1 time; current) - [Gustav Gryffin](@/w/gustav-gryffin.md)
+* [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time; current) - [Isnorr](@/w/isnorr.md)
