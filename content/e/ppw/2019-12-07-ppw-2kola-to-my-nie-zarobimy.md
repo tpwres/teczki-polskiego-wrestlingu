@@ -29,7 +29,7 @@ This was likely the first PpW event open for general public, as opposed to frien
   - nc: '?'
     c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Duende](@/w/sedzia-borys.md)'
-  - 'Black Orion'
+  - '[Black Orion](@/w/black-orion.md)'
   - nc: '?'
     s: No-DQ Match
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'
