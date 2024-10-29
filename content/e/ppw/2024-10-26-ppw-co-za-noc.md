@@ -114,7 +114,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * [Marcelito](@/w/marcelito.md) makes his face entrance first.
 * Second of the babyfaces - [Aron Wake](@/w/aron-wake.md) - makes his entrance shortly after Marcelito.
 * [Sambor](@/w/sambor.md) makes his mysterious heel entrance, and therefore also his PpW debiut.
-* The final spot in Fatal-Four Way match belongs to [Adept Oskar](@/w/oskar-aleksander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW](@/o/ptw.nd) co-owners.
+* The final spot in Fatal-Four Way match belongs to [Adept Oskar](@/w/oskar-aleksander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW](@/o/ptw.md) co-owners.
 * Match starts with beatdown of babyfaces made by Oskar and Sambor. These two soon after begin their own strike exchange, which is won by slavic warrior.
 * Oskar then lefts ring after running knee strike just to be accompanied by Sambor seconds later after he recieves double dropkick from babyfaces.
 * After Marcelito joins heels at the ringside Aron stands tall after a top rope dive. He then proceeds to score a pin on Marcelito, but he quickly kicks out.
