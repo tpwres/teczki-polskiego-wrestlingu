@@ -113,20 +113,20 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Timestamp: `2:11:32`
 * [Marcelito](@/w/marcelito.md) makes his face entrance first.
 * Second of the babyfaces - [Aron Wake](@/w/aron-wake.md) - makes his entrance shortly after Marcelito.
-* [Sambor](@/w/sambor.md) makes his mysterious heel entrance, and therefore also his PpW debiut.
-* The final spot in Fatal-Four Way match belongs to [Adept Oskar](@/w/oskar-aleksander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW](@/o/ptw.md) co-owners.
-* Match starts with beatdown of babyfaces made by Oskar and Sambor. These two soon after begin their own strike exchange, which is won by slavic warrior.
-* Oskar then lefts ring after running knee strike just to be accompanied by Sambor seconds later after he recieves double dropkick from babyfaces.
-* After Marcelito joins heels at the ringside Aron stands tall after a top rope dive. He then proceeds to score a pin on Marcelito, but he quickly kicks out.
-* With all wrestlers back inside of the ring the match becomes a four-way tug-of-war with every contestant getting a opportunity to shine and pull a big move just to be cutted off by third competitor.
-* Finally Oskar gets the upper hand by hitting Marcelito with bodyslam on top of lying Sambor and Wake. Aron however kicks-out.
-* Desperated Oskar tries to hit oponents with aerial move from top of the turnbuckle but gets cut off by Sambor and Marcelito who holds him in double suplex. Aron wake gets in for a powerbomb, which effectively puts all four in "tower of doom". Crowd chants "freaking awesome!"
-* Aron stands tall as the first of all and begin his comeback with series of cannonballs in corners to all of the other wrestlers. However when it is time to hit it on Oskar he gets countered into powerful powerbomb, with close-call pinfall broke by Marcelito.
-* Another exchange of near match-ending moves with pinfalls narrowly kicked-out or broke by other competitors ends after Adept Oskar counters Aron's finisher with clothesline and another powerbomb to end the fight.
-* Winner: Adept Oskar by pinfall.
+* [Sambor](@/w/sambor.md) makes his mysterious heel entrance, and also his PpW debiut.
+* The final spot in the Fatal-Four Way match belongs to [_rookie_ Oskar](@/w/oskar-aleksander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW's](@/o/ptw.md) co-owners.
+* The match starts with a beatdown of babyfaces perpetrated by Oskar and Sambor. The two soon after begin their own strike exchange, which is won by the Slavic warrior, Sambor.
+* Oskar then leaves the ring after a running knee strike, just to be accompanied by Sambor seconds later after he recieves a double dropkick from the babyfaces.
+* After Marcelito joins the heels at the ringside, Aron stands tall after a top rope dive. Wake then proceeds to score a pin on Marcelito, who quickly kicks out.
+* With all the wrestlers back inside the ring, the match becomes a four-way tug-of-war with every contestant getting an opportunity to shine and pull off a big move just to be cut off by a third competitor.
+* Finally, Oskar gets the upper hand by hitting Marcelito with a bodyslam on top of knocked down Sambor and Wake. Aron however kicks out.
+* Desperate Oskar tries to hit his oponents with an aerial move from the top of a turnbuckle but gets cut off by Sambor and Marcelito, who hold him in a double suplex. Aron Wake gets in for a powerbomb, which effectively puts all four in a "tower of doom". The crowd chants "Fucking awesome!"
+* Aron stands tall as the first of all and begins his comeback with a series of corner cannonballs to all the other wrestlers. However, when it is time to hit Oskar with one, Wake gets countered into powerful powerbomb, with a close-call pinfall broken by Marcelito.
+* Another exchange of nearly match-ending moves with pinfalls narrowly kicked out of, or broken by other competitors, ends after Oskar counters Aron's finisher with a clothesline and another powerbomb to end the fight.
+* Winner: rookie Oskar by pinfall.
 * Oskar is joined in his celebration by an unnamed female figure (presumably a new manager/valet), wearing fancy black clothes, white sneakers and sunglasses.
-* After his victory, rookie Oskar announced that henceforth he shall be known as [Oskar Aleksander](@/w/oskar-aleksander.md).
-* Oskar Aleksander and his valet leave the ring while crowd boo them.
+* After his victory, rookie Oskar announces that henceforth he shall be known as [Oskar Aleksander](@/w/oskar-aleksander.md).
+* Oskar Aleksander and his valet leave the ring while crowd boos them.
 
 #### Alex Arthur vs Bill Faeger
 
