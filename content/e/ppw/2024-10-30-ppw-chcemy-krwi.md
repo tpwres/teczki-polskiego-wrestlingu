@@ -6,7 +6,6 @@ authors = ["M3n747"]
 chronology = ["ppw"]
 venue=["kinoteka"]
 [extra]
-hide_results = true
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "ppw-chcemy-krwi-plakat.jpg", caption = "Official poster.", source = "SplatFilmFest.com"}
