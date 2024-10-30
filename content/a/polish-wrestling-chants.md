@@ -45,5 +45,5 @@ Translations and explanations are provided, but no attempt at transliteration wa
 ## Wrestler-specific
 
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md), where _zjeb_ is retard or loser.
-* _Papież Polak_ - [Greg](@/w/greg.md), as described under Songs above
-* _Siła Przyjaźni_ - [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md)
+* _Papież Polak_ - Polish Pope: [Greg](@/w/greg.md), as described under Songs above
+* _Siła Przyjaźni_ - Power of Friendship: [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md)
