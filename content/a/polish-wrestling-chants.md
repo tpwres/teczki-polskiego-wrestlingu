@@ -48,6 +48,14 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 * _Więcej krzeseł!_ - Bring More Chairs: when the current number is not enough.
 
+## Intros
+
+* _Kim ty jesteś?_ - Who Are You: crowd is unfamiliar with the character.
+* _MAŁO!_ - Not Enough: a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \
+  Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the dialogue is:
+  - Announcer: _Pochodzący z [X], ważący [Y] kilogramów_ (Hailing from [X], weighing in at [Y] kilograms)
+  - Crowd: _MAŁO!_ (rarely _DUŻO!_, meaning A Lot, when the wrestler is especially massive)
+
 ## Songs
 
 * _Panie, któryś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by Polish Pope John Paul II. Sometimes fans start to randomly sing it at 21:37, the exact hour of the pope's death. It's not in the Pope's memory though, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
