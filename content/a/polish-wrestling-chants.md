@@ -32,7 +32,8 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Zajeb Go!_ - Fuck Him Up: also encouraging offensive action.
 * _Zjedz Mu Łeb!_ - Eat His Head: same. Once actually acted upon by [Samson](@/w/samson.md) who bit his opponent on the head to great pop.
 * _Urwij Mu Łeb!_ - Rip His Head Off: generally encouraging violence.
-* _Zostaw [X], ty kurwo_ zostaw [X] - Leave [X] alone: when a babyface receives too much punishment.
+* _Zostaw [X], ty kurwo_ zostaw [X] - Leave [X] alone: when a babyface receives too much punishment. \
+  At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios' nationality: _ty Greku zostaw Leona_ - leave Leon alone, you Greek.
 * _Jedziesz z tą kurwą, hej [X] jedziesz z tą kurwą_ - Fuck him up [X], encouraging offense and insulting the opponent at the same time.
 * _Pokaż dupę!_ - Show Your Ass: Against male performers it's rather a _What_ chant signifying the persona is boring.
 * _Trzecia Lina!_ - Third Rope: calling for a wrestler to perform a top-rope move.
