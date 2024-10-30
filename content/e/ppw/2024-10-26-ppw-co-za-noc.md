@@ -95,8 +95,8 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 #### Strap Match: Samson vs Gustav Gryffin (c) - PpW Championship
 
 * Timestamp: `1:46:24`
-* [Samson](@/w/samson.md) makes his way to the ring to a huge babyface reaction. The crowd is loudly chanting "Samson" while the referee is attaching one of leather belts to the contender's wrist using duct tape.
-* [Gustav Gryffin](@/w/gustav-gryffin.md) makes his way to the ring to a heat from the PpW fans. The crowd is chanting "Get The Fuck Out" as well as flipping him off. Gustav is hitting high-fives with a few of his supporters (referred to as "Gryffinators").
+* [Samson](@/w/samson.md) makes his way to the ring to a huge babyface reaction. The crowd is loudly chanting "Samson" while the referee attaches one of leather belts to the contender's wrist using duct tape.
+* [Gustav Gryffin](@/w/gustav-gryffin.md) makes his way to the ring to a heat from the PpW fans. The crowd is chanting "Get The Fuck Out" as well as flipping him off. Gustav hits high-fives with a few of his supporters (referred to as "Gryffinators").
 * A leather belt is attached to Gustav's wrist. The crowd is chanting "Bartoszyce? And where the fuck is that?!" to mock Gryffin's hometown.
 * Seweryn presents the PpW Championship to the crowd, while Michael HT repeats the rules of a Strap Match to the public.
 * The whole match is filled with vicious strap strikes from both of the competitors. After a shine from Samson the fight moves to the ringside area, where Gustav gets the upper hand countering Samson's offensive with a strong push to a ringpost and back suplex to the apron.
@@ -130,70 +130,70 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 #### Alex Arthur vs Bill Faeger
 
-* Michael HT again hypes up the crowd before the fight. He also promotes merch stand and tattoo parlour "Syrena".
-* Host invites [Referee Kornel]((@/w/sedzia-kornel.md)) to the ring. Crowd cheers him while Michael announces third fight.
+* Michael HT again hypes up the crowd before the fight. He also promotes the merch stand and the tattoo parlour "Syrena".
+* The host invites [Referee Kornel]((@/w/sedzia-kornel.md)) to the ring. The crowd cheers him while Michael announces the third fight.
 * Timestamp: `2:32:28`
 * [Alex Arthur](@/w/alex-arthur.md) makes his entrance first.
-* [Feager](@/w/feager.md) makes his entrance to the ring to rather negative fan reaction.
-* Match starts slowly, with some basic chain wrestling and test of strength before Faeger gets the upper hand with heelish move.
-* Faeger continues to beat down Arthur all around the ring, while the crowd is chanting "where are the chairs?!"
-* Alex Arthur finally got the upper hand after a back suplex and suicide dive. He then starts to hit Bill Faeger with chair he took from underneath the ring.
-* Long brawl at the ringside ends up with Faeger regaining control over the match. After working on his opponent leg with chairshots and few short comebacks from Arthur Faeger tries to hit Alex Arthur witch chokeslam, which is countered to sidewalk slam by ukrainian wrestler and unsuccesful pinfall attempt.
-* Scuffle ends up with Alex standing tall and taking the opportunity to set up four-chair construction in the ring to hit his finisher on Faeger. However ex-PpW Champion counters it with back body drop and destruction of Alex's chair structure. Which needs to be rebuilt shortly after.
-* Match ends after Bill Faeger hits Alex Arthur with powerbomb onto structure, and underhook facebuster on chair laying in the middle of the ring.
+* [Feager](@/w/feager.md) makes his entrance to the ring to a rather negative fan reaction.
+* The match starts slowly, with some basic chain wrestling and a test of strength before Faeger gets the upper hand with a heelish move.
+* Faeger continues to beat down Arthur all around the ring, while the crowd is chanting "Where are the chairs?!"
+* Alex Arthur finally gets the upper hand after a back suplex and suicide dive. He then starts to hit Bill Faeger with a chair he took from underneath the ring.
+* A long brawl at the ringside ends up with Faeger regaining control over the match. After working on his opponent's leg with chairshots and a few short comebacks from Arthur, Faeger tries to hit Alex Arthur with a chokeslam. The Ukrainian wrestler counters the move to a sidewalk slam and an unsuccesful pinfall attempt.
+* The scuffle ends up with Alex standing tall and taking the opportunity to set up a four-chair structure in the ring to hit his finisher on Faeger. However, the ex-PpW Champion counters it with a back body drop and destroys Alex's chair structure, which is rebuilt shortly thereafter.
+* The match ends after Bill Faeger hits Alex Arthur with a powerbomb onto the structure, and an underhook facebuster on a chair laying in the middle of the ring.
 * Winner: Bill Faeger by pinfall
-* Faeger celebrates in the ring for a while, while staff is clearing the ring from leftover chairs.
+* Faeger celebrates in the ring for a while, while staff clears the leftover chairs from the ring.
 
 #### First break & interviews
 
-* Zuzia, one of the ring crew members, had her birthday on the day of the event. [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang "Sto lat" (the Polish equivalent to "Happy Birthday").
-* After birthday celebration HT announces the intermission, which is scheduled to take about 20 minutes.
+* Zuzia, one of the ring crew members, has her birthday on the day of the event. [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang "Sto lat" (the Polish equivalent to "Happy Birthday").
+* After the birthday celebratio,n HT announces the intermission, which is scheduled to take about 20 minutes.
 * Timestamp: `2:55:28`
-* Transmission cuts to backstage, where [Mateusz Czarnecki](@/w/mateusz-czarnecki.md) is interviewing with Gustav Gryffin.
-* [Gustav Gryffin](@/w/gustav-gryffin.md) admits that Samson is one of the toughest opponents in his career, but he was confident that he will defeat Będzin's Beast. Gustav also invites Samson to join ["Zmowa"](@/a/the-collusion.md). He also issued an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
-* [Samson](@/w/samson.md) admits that Gutsav indeed "whooped his ass" without any shenanigans, so he feel lost and is unsure about his future in the ring, as "part of him died in the ring tonight". He apologies all of his fans for failing in tonight's bout, and doesn't promise that he will be on the next show.
-* [Marcelito](@/w/marcelito.md) admits that Oskar Aleksander did a good job, but due to fact that he wasn't pinned he would like a single match against him in the future.
-* [Aron Wake](@/w/aron-wake.md) says that [Ewenement Dojo](@/o/ewenement-dojo.md) is currently the best pro wrestling school in Poland, and Oskar Aleksander is a good example of that. Despite his loss in a match Aron says that he still got it, and wants to prove more in a future.
-* [Sambor](@/w/sambor.md) simply states that he is here to stay  despite losing in his PpW debut. He congratulates Oskar on his win, but claims that he would win if it weren't for Aron Wake, who became his target after that Four-Way Match.
-* [Oskar Aleksander](@/w/oskar-aleksander.md) arrives with his "Talent Agent", but her name was not stated. He disses the PpW Fanatics for not cheering during his maiden win in career. His agent states that Oskar has bright future before him, and she is in talks with [PpW's promotor](@/w/mister-z.md) to provide the best offers for her client.
-* Beer drinking [Bill Feager](@/w/feager.md) denies that fight with Alex was a "long awaited challenge". Then he shoots on "Mister Zjeb" and his booking decisions, as well as on Alex Arthur who "bottled out from a fight" at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). He also shoots on his critiques who say that he can't wrestle, as he claims that their opinion does not matter since he was a PpW Champion for over 130 days.
-* Interview time ends as Matuesz is inviting everyone on a second part of a show.
+* The transmission cuts to the backstage, where [Mateusz Czarnecki](@/w/mateusz-czarnecki.md) interviews Gustav Gryffin.
+* [Gustav Gryffin](@/w/gustav-gryffin.md) admits that Samson is one of the toughest opponents in his career, but he was confident that he would defeat the Beast of Będzin. Gustav invites Samson to join ["Zmowa"](@/a/the-collusion.md). He also issues an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
+* [Samson](@/w/samson.md) admits that Gutsav indeed "whooped his ass" without any shenanigans, so he feels lost and is unsure about his future in the ring, as "aapart of him died in the ring tonight". He apologies to all of his fans for failing in tonight's bout, and can't promise that he will be on the next show.
+* [Marcelito](@/w/marcelito.md) admits that Oskar Aleksander did a good job, but due to the fact that he wasn't pinned he would like a singles match against him in the future.
+* [Aron Wake](@/w/aron-wake.md) says that [Ewenement Dojo](@/o/ewenement-dojo.md) is currently the best pro wrestling school in Poland, and Oskar Aleksander is a good example of that. Despite his loss in the match, Aron says that he's still got it, and wants to prove more in the future.
+* [Sambor](@/w/sambor.md) simply states that he is here to stay despite losing in his PpW debut. He congratulates Oskar on his win, but claims that he would win if it weren't for Aron Wake, who became his target after that Four-Way Match.
+* [Oskar Aleksander](@/w/oskar-aleksander.md) arrives with his "Talent Agent", but her name was not stated. He disses the PpW Fanatics for not cheering during the maiden vicory of career. His agent states that Oskar has bright future before him, and she is in talks with [PpW's promotor](@/w/mister-z.md) to provide the best offers for her client.
+* Beer-drinking [Bill Feager](@/w/feager.md) denies that the fight with Alex was a "long awaited challenge". Then he shoots on "Mister Zjeb" and his booking decisions, as well as on Alex Arthur who "bolted out from his fight" at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). He also shoots on his critiques who say that he can't wrestle, as he claims that their opinion does not matter since he was a PpW Champion for over 130 days.
+* Interview time ends as Matuesz invites everyone on to the second part of the show.
 
 #### Ustawka Match: "Zmowa" (Mister Z, Olgierd, Marco Hammers, Jakub Linde & Wiktor Longman) vs "Zmowa przeciwko zmowie" (Biesiad Strong, Goblin, Axel Fox, Gabriel Queen & Vic Golden)
 
-* Michael HT hypes up the next match as one of the most improtant fights in PSV (polish wrestling scene) history. Referee Seweryn makes his way to the ring. The loud "Fuck The Collusion" chants are audible.
+* Michael HT hypes up the next match as one of the most improtant fights in the history of PSW ("Polska Scena Wrestlingu", _Polish Wrestling Scene_). Referee Seweryn makes his way to the ring. The loud "Fuck the Collusion" chants are audible.
 * Timestamp: `3:27:12`
-* Pure Gold ([Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)) make their entrance as first members of "Zmowa przeciwko zmowie". Crowd sings their "Best of Both Worlds" theme song.
+* Pure Gold ([Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)) make their entrance as first members of "Zmowa przeciwko zmowie". The crowd sings their "Best of Both Worlds" theme song.
 * Goblis ([Axel Fox](@/w/axel-fox.md) &[Goblin](@/w/goblin.md)) make their entrance rocking a new theme song "Punk Tactics" by Joey Valence & Brae.
-* Captain of the team [Biesiad Strong](@/w/biesiad.md) is making his entrance much to crowd approval. Whole team is hyping up theirselves in the ring.
-* HT is announcing first members of "Zmowa" - Legia Łysych ([Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)) makes their way on the entrance, waiting for rest of the "Zmowa" under the ring.
-* [Mister Z](@/w/mister-z.md) and Jakub Linde make their way to the ring together. Leader of "Zmowa" then cuts short promo, promising to his enemies that if Biesiad's Team lose today's ustawka match they won't be paid for the next year in federation, and all of the saved up funds will be donated to support mentaly-ill people. Then he announces The Collusion's mystery partner...
+* The captain of the team [Biesiad Strong](@/w/biesiad.md) makes his entrance to the crowd's great approval. The whole team hypes themselves up in the ring.
+* HT announces the first members of "Zmowa" - Legia Łysych ([Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)) make their way through the entrance, waiting for the rest of "Zmowa" by the ring.
+* [Mister Z](@/w/mister-z.md) and Jakub Linde make their way to the ring together. The leader of "Zmowa" then cuts a short promo, promising to his enemies that if Biesiad's team lose today's Ustawka Match, they won't be paid for the next year in the federation, and all of the saved-up funds will be donated to support mentaly ill people, such as Biesiad and his crew. Then he announces the Collusion's mystery partner...
 * The mystery partner is [Wiktor Longman](@/w/wiktor-longman.md), who makes his debut in PpW.
-* The match starts slowly, but intense with both teams scouting each other strengths and weaknesses.
-* After Marco Hammers nearly gets eliminated by Vic Golden he tries to go for a tag with his parnters, but Biesiad prevents him from doing so. Situation escalates to the point where all members of both teams stand in front of each other in the ring. Referee Sewi goes in the middle of both teams trying to restore law & order, but Olgierd throws him out of the ring, and the massive brawl explodes.
-* Intense brawl continues while crowd is chanting "violence". Finally the ring clears off after babyfaces throw The Collusion to the ringside. This is followed by Fox & Queen stereo dive and Biesiad with top rope swanton to the outside.
-* Biesiad pulls Marco Hammers to the ring, and pin him after hitting buckshot lariat.
-* Eliminated: Marco Hammers
-* Jakub Linde then tries to put some offensive on Biesiad, but he is quickly submitted by captain of babyface team.
-* Eliminated: Jakub Linde
-* Mister Z then fights Biesiad Strong. Captains of both teams are fighting for a moment and when Mister Z is dragged into "Anty-Zmowa" corner Olgierd and Wiktor Longman attack remaining members of "Zmowa Przeciwko Zmowie" with kendo sticks to prevent them from getting upper hand. Mister Z takes a beating long enough to distract Biesiad until Wiktor and Olgierd deal with rest of the babyfaces, to come after him with kendo sticks, hitting him with two finishers and allowing Mister Z to pin him.
-* Eliminated: Biesiad Strong
-* Match goes on with lot of back-and-forth action and close calls from both of teams. Finally, this comes to an end after massive 7-person suplex on "Zmowa" and their beatdown using foregin objects. Fight moves to the ringside, where Vic Golden hits top-rope moonsault on rest of the fighting wrestlers.
-* Pure Gold tries to hit their tag team finisher "Golden Shower" on blindfolded Olgierd, but he is able to avoid it and gain control over Vic Golden, who is then treated with "At Your Service" from Longman and gets pinned.
-* Eliminated: Vic Golden
+* The match starts slowly but intensely, with both teams feeling out each other's strengths and weaknesses.
+* After Marco Hammers nearly gets eliminated by Vic Golden, he tries to go for a tag with his parnters, but Biesiad prevents him from doing so. THe situation escalates to the point where all members of both teams stand in front of each other in the ring. Referee Sewi gets between both teams trying to restore law and order, but Olgierd throws him out of the ring, and a massive brawl explodes.
+* The intense brawl continues while the crowd chants "Violence". Finally the ring is cleared out after babyfaces throw the Collusion to the ringside. This is followed by Fox & Queen's stereo dive and Biesiad with a top rope swanton to the outside.
+* Biesiad pulls Marco Hammers to the ring, and pins him after hitting a buckshot lariat.
+* Eliminated: Marco Hammers.
+* Jakub Linde then tries to put some offensive on Biesiad, but he is quickly submitted by the captain of the babyface team.
+* Eliminated: Jakub Linde.
+* Mister Z then fights Biesiad Strong. Captains of both teams fight for a moment and when Mister Z is dragged into "Anty-Zmowa" corner, Olgierd and Wiktor Longman attack the remaining members of "Zmowa Przeciwko Zmowie" with kendo sticks to prevent them from getting the upper hand. Mister Z takes a beating long enough to distract Biesiad until Wiktor and Olgierd deal with the rest of the babyfaces, to then come after him with kendo sticks, hitting him with two finishers which allow Mister Z to pin him.
+* Eliminated: Biesiad Strong.
+* Match goes on with a lot of back-and-forth action and close calls from both teams. Finally, this comes to an end after a massive 7-person suplex on "Zmowa" and their beatdown using foregin objects. The fight moves to the ringside, where Vic Golden hits a top-rope moonsault on the rest of the fighting wrestlers.
+* Pure Gold tries to hit their tag team finisher "Golden Shower" on a blindfolded Olgierd, but he is able to avoid it and gain control over Vic Golden, who is then treated to an "At Your Service" from Longman and gets pinned.
+* Eliminated: Vic Golden.
 * Gabriel Queen tries to fight both Wiktor Longman and Olgierd, but he gets overpowered while Olgierd hits him with his running headbutt.
-* Eliminated: Gabriel Queen
-* Goblis stands their ground against three remaining members of "Zmowa". Despite being outnumbered they are able to hit poetry in motion on Mister Z and Olgierd, and put Longman through the table. Z is trying to hit Fox with kendo stick from behind, but Goblin makes the save, allowing Fox to get his revange on Mister Z, who hit him the same way on [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).
-* Olgierd saves PpW producer from further beating with baseball bat, knocking down both members of Goblis. This allows "Zmowa" to set up a table to put Axel Fox through it.
-* Eliminated: Axel Fox
-* Goblin - the sole survivor of "Zmowa Przeciwko Zmowie" - goes into uneven fight against Mister Z. Finally he gets a chance to counter his springboard attack into his own finisher and secure a pin.
-* Eliminated: Mister Z
-* Longman again tries to put The Acid Messiah to the ground, however when Longman tries to set up Goblin for Olgierd's running headbutt he ducks, so the Wiktor is the one treated with Olgierd's finisher, allowing Goblin to go for another pin on Longman.
-* Eliminated: Wiktor Longman
-* Acid Messiah goes for another miraculous recovery after being hit with many big moves. He is unable to defeat Olgierd with springboard DDT due to incredible head durability of bald hooligan. Olgierd hits him with buckle bomb and his finisher, but when he leans over Goblin he spray a green mist from his mouth and put Olgierd with small package to score a flash pin.
-* Eliminated: Olgierd
-* Winners: "Zmowa Przeciwko Zmowie" (Biesiad Strong, Goblin, Axel Fox, Gabriel Queen & Vic Golden)
-* After the match Olgierd is quickly apprehended by Referees and staff to prevent him from attacking Goblin. Exhausted Goblin celebrates victory over "Zmowa" along with his teammates in the ring.
+* Eliminated: Gabriel Queen.
+* Goblis stand their ground against the three remaining members of "Zmowa". Despite being outnumbered, they are able to hit poetry in motion on Mister Z and Olgierd, and put Longman through the table. Z tries to hit Fox with a kendo stick from behind, but Goblin makes the save, allowing Fox to get his revange on Mister Z, who hit him the same way on [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).
+* Olgierd saves the PpW producer from a further beating with a baseball bat, knocking down both members of Goblis. This allows "Zmowa" to set up a table to put Axel Fox through it.
+* Eliminated: Axel Fox.
+* Goblin - the sole survivor of "Zmowa Przeciwko Zmowie" - goes into an uneven fight against Mister Z. Finally he gets a chance to counter his springboard attack into his own finisher and secure a pin.
+* Eliminated: Mister Z.
+* Longman again tries to put the Acid Messiah to the ground, however when Longman tries to set up Goblin for Olgierd's running headbutt, Goblin ducks, so that Wiktor is the one hit with Olgierd's finisher, allowing Goblin to go for another pin on Longman.
+* Eliminated: Wiktor Longman.
+* The Acid Messiah goes for another miraculous recovery after being hit with many big moves. He is unable to defeat Olgierd with a springboard DDT due to the incredibly durable head of the bald hooligan. Olgierd hits him with a buckle bomb and his finisher, but when he leans over Goblin, the Acid Messiah sprays green mist from his mouth and puts Olgierd in a small package to score a flash pin.
+* Eliminated: Olgierd.
+* Winners: "Zmowa Przeciwko Zmowie" (Biesiad Strong, Goblin, Axel Fox, Gabriel Queen & Vic Golden).
+* After the match, Olgierd is quickly apprehended by referees and staff to prevent him from attacking Goblin. The exhausted Goblin celebrates the victory over "Zmowa" along with his teammates in the ring.
 
 #### Second break & interviews
 
