@@ -19,6 +19,11 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _[X] a gdzie to kurwa jest?_ - [X] where the fuck is that: used to insult a heel's hometown. Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with "Miasto Poznań".
 * _Chuj ci na imię, hej [X] chuj ci na imię_ - roughly equivalent to the British "[X] is a wanker" chant, although the expletive is stronger.
 
+## Praise
+
+* _Zajebiste!_ - This is Awesome
+* _[X] jest zajebisty_ - [X] is Awesome: most often to the tune of "Seven Nation Army".
+
 ## Calls to action
 
 * _Chcemy Krwi!_ - We Want Blood: crowd wants someone to start bleeding.
