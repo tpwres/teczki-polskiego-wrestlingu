@@ -21,6 +21,7 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 ## Calls to action
 
+* _Chcemy Krwi_ - We Want Blood: crowd wanting someone to start bleeding.
 * _Przemoc!_ - Violence: encouraging the same.
 * _Zabij Go!_ - Kill Him: encouraging offense.
 * _Zajeb Go!_ - Fuck Him Up: also encouraging offensive action.
@@ -36,6 +37,10 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Sędzia Chuj_ - Referee is a Dick: after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-Shirt.
 * _Sędzia Super_ - Referee is Awesome; counter-chant to the above, but also when ref prevents further damage or throws a heel out.
 * _Było Trzy_ - It was Three; when a heel kicks out at the last microsecond.
+
+## Weapons
+
+* _Więcej krzeseł!_ - Bring More Chairs, when the current number is not enough.
 
 ## Songs
 
