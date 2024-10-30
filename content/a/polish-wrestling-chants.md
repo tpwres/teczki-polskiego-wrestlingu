@@ -13,8 +13,8 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 ## General expletives
 
-* _Wypierdalaj!_ - "Get the fuck out": often used to react to heels and other unwelcome characters.
-* _Chuj ci w dupę!_ - "Up your arse": popular and general use expletive referring to anal sex.
+* _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters.
+* _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex.
 * _Kurwy i śmiecie, z [X] nie wyjedziecie_ - "Motherfuckers, you ain't gonna leave [town X] alive": used against heels, especially billed from out of town.
 * _[X], a gdzie to kurwa jest?_ - "[Town X], where the fuck is that?": used to insult a heel's hometown. \
   Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city").
@@ -22,40 +22,40 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 ## Praise
 
-* _Zajebiste!_ - "This is awesome", although more expletive.
+* _Zajebiste_ - "This is awesome", although more vulgar.
 * _[X] jest zajebisty_ - "[X] is awesome": most often to the tune of "Seven Nation Army".
 
 ## Calls to action
 
-* _Chcemy Krwi!_ - "We want blood!": the crowd wants someone to start bleeding.
-* _Przemoc!_ - "Violence!": encouraging the same.
-* _Zabij Go!_ - "Kill him!": encouraging offense.
-* _Zajeb Go!_ - "Fuck him up": also encouraging offensive action.
-* _Zjedz Mu Łeb!_ - "Eat his head!": same. Once actually acted upon by [Samson](@/w/samson.md) who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop.
-* _Urwij Mu Łeb!_ - "Rip his head off": generally encouraging violence.
+* _Chcemy krwi_ - "We want blood": the crowd wants someone to start bleeding.
+* _Przemoc_ - "Violence": encouraging exactly that.
+* _Zabij go_ - "Kill him!": encouraging offense.
+* _Zajeb go_ - "Fuck him up": also encouraging offensive action.
+* _Zjedz mu łeb_ - "Eat his head!": same. Once actually acted upon by [Samson](@/w/samson.md) who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop.
+* _Urwij mu łeb_ - "Rip his head off": generally encouraging violence.
 * _Zostaw [X], ty kurwo_ zostaw [X] - "Leave [X] alone, you whore": when a babyface receives too much punishment. \
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek".
 * _Jedziesz z tą kurwą, hej [X], jedziesz z tą kurwą_ - "Fuck this whore up, [X]", encouraging offense and insulting the opponent at the same time.
-* _Pokaż dupę!_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring.
-* _Trzecia Lina!_ - "Third rope": calling for a wrestler to perform a top-rope move.
+* _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring.
+* _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move.
 
 ## Referee
 
-* _Sędzia chuj!_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt.
+* _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt.
 * _Sędzia super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out.
 * _Było trzy_ - "It was three": when a heel kicks out at the last microsecond.
 
 ## Weapons
 
-* _Więcej krzeseł!_ - "Bring more chairs": when the current number is not enough.
+* _Więcej krzeseł_ - "Bring more chairs!": when the current number is not enough.
 
 ## Intros
 
 * _Kim ty jesteś?_ - "Who are you": the crowd is unfamiliar with the character (or pretends not to be).
-* _MAŁO!_ - "Not enough": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \
+* _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is:
   - Announcer: _Pochodzący z [X], ważący [Y] kilogramów_ ("Hailing from [X], weighing in at [Y] kilograms.")
-  - Crowd: _MAŁO!_ (rarely _DUŻO!_, meaning "A lot", when a wrestler is especially massive.)
+  - Crowd: _Mało!_ (rarely _Dużo!_, meaning "A lot", when a wrestler is especially massive.)
 
 ## Songs
 
