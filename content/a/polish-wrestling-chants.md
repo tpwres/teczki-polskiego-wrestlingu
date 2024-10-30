@@ -69,6 +69,7 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Papież Polak_ - Polish Pope: [Greg](@/w/greg.md), as described under Songs above
 * _Polski Lis!_ - Polish Fox: [Axel Fox](@/w/axel-fox.md)
 * _Wiedźmin 4_ - Witcher 4: [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior.
+* _Facet w Gaciach_ - Guy in Trunks: [David Oliwa](@/w/david-oliwa.md) and his usual ring attire.
 * _Siła Przyjaźni_ - Power of Friendship: [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md)
 * _Bóg jest Łysy_ - God Is Bald: [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. Also _Bóg ma Wąsa_ - God Has a 'Stache, when he grew one.
 * _Sadzić! Palić! Zalegalizować!_ - Plant, Smoke, Legalize: a pro-marijuana chant. Used against [Tony Sk1n](@/w/tony-sk1n.md), who was straight-edge.
