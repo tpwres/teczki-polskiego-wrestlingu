@@ -9,6 +9,7 @@ city = "Gdańsk"
 [extra.gallery]
 1 = { path = "2016-11-26-kpw-arena-4-nowy-rozdzial-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 2 = { path = "hallera-16.jpg", caption = "The school in 2024, as seen from the nearby tram stop.", source = "M3n747" }
+3 = { path = "wrzeszcz-dolny-panorama.jpg", caption = "Panoramic view of the Dolny Wrzeszcz district of Gdańsk. Visible in the bottom-right is the gym hall where the event took place.", source = "Artur Andrzej / Wikipedia.pl" }
 +++
 
 Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall of CKZiU 1, a complex of various educational institutions at the high school or vocational school level. Much smaller in scope than the previous event, it had only one foreign guest, British wrestler Elliott Jordan.
