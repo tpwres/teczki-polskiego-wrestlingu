@@ -141,7 +141,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * A long brawl at the ringside ends up with Faeger regaining control over the match. After working on his opponent's leg with chairshots and a few short comebacks from Arthur, Faeger tries to hit Alex Arthur with a chokeslam. The Ukrainian wrestler counters the move to a sidewalk slam and an unsuccesful pinfall attempt.
 * The scuffle ends up with Alex standing tall and taking the opportunity to set up a four-chair structure in the ring to hit his finisher on Faeger. However, the ex-PpW Champion counters it with a back body drop and destroys Alex's chair structure, which is rebuilt shortly thereafter.
 * The match ends after Bill Faeger hits Alex Arthur with a powerbomb onto the structure, and an underhook facebuster on a chair laying in the middle of the ring.
-* Winner: Bill Faeger by pinfall
+* Winner: Bill Faeger by pinfall.
 * Faeger celebrates in the ring for a while, while staff clears the leftover chairs from the ring.
 
 #### First break & interviews
@@ -197,30 +197,30 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 #### Second break & interviews
 
-* Michael HT announces 15 minutes of break before main event.
+* Michael HT announces a 15 minute break before the main event.
 * Timestamp: `4:23:33`
-* PpW Staff starts preparation for Ultraviolent Main Event by pulling off blue mat from the ring and installing ultraviolent objects in the ring.
-* During the interview with Goblin Biesiad comes in with his steel truss and hands it to the Acid Messiah as a symbol of defeating The Collusion. Goblin teases the end of "Zmowa", but says that "the rot starts at the top" marking the "top" as Gustav Gryffin, thus reviving their rivarly.
-* In the next interview Wiktor Longman simply states that "he is just doing business". Mister Z agrees that after defeat some of the changes has to be done in "Zmowa" but denies that it is over, since he's still the producer of PpW.
-* Furious Olgierd physically abuse interviewer Mateusz while cutting vulgar promo on Goblin, pledging to make him "his bitch".
-* Mateusz Czarnecki invites viewers for the main event.
+* PpW staff start preparations for the Ultraviolent Main Event by removing the blue canvas and installing ultraviolent objects in the ring.
+* During an interview with Goblin, Biesiad comes in with a steel girder and hands it to the Acid Messiah as a symbol of defeating the Collusion. Goblin teases the end of "Zmowa", but says that "the rot starts at the top" marking the "top" as Gustav Gryffin, thus reviving their rivarly.
+* In the next interview, Wiktor Longman simply states that "he is just doing business". Mister Z agrees that after their defeat, some changes need to be made in "Zmowa", but denies that it is over since he's still the producer of PpW.
+* A furious Olgierd physically abuses interviewer Mateusz while cutting a vulgar promo on Goblin, pledging to make him "his bitch".
+* Mateusz Czarnecki invites the viewers for the main event.
 
 #### Blood God Ritual - Trial by Metal and Glass Match: Isnorr vs Johnny Blade (c) - PpW European Ultraviolent Championship
 
-* Michel HT announces the main event, while dressed up in protective gear Referee Karol Górski makes his entrance to the ring.
+* Michel HT announces the main event, while Referee Karol Górski, wearing protective gear, makes his entrance to the ring.
 * Timestamp: `4:43:44`
-* Isnorr is entering the ring carrying an Axe.
-* Johnny Blade makes his entrance as the second of contestants. Crowd is clearly on Blade's side, as they loudly chant "Johnny!"
-* Ultraviolent match goes for back-and-forth action filled with dangerous spots containing barbed wire and lightubes until both of the competitors bleed furiously, which is more visible at Blade's body.
-* In the final moments of the match Isnorr goes for Death Valley Driver into one of the structures made of chairs, wood, barbed wire and lightubes to finally set up Johnny Blade for a pinfall finish.
-* Winner: Isnorr
+* Isnorr enters the ring carrying an axe.
+* Johnny Blade makes his entrance as the second contestant. The crowd is clearly on Blade's side, as they loudly chant "Johnny!"
+* The ultraviolent match goes for a back-and-forth action filled with dangerous spots, barbed wire and light tubes, until both competitors bleed profusely, which is more visible on Blade's body.
+* In the final moments of the match, Isnorr goes for a Death Valley Driver onto one of the structures made of chairs, wood, barbed wire and light tubes, to finally set Johnny Blade up for a pinfall finish.
+* Winner: Isnorr.
 * Isnorr celebrates his first championship victory in PpW for a while, with a mixed reception from crowd.
 
 #### Ending & final interviews
 
 * Timestamp: `5:03:57`
-* Michael HT thanks fans for attendance. He also promote upcoming PpW shows, such as: [PpW x SplatFestival: Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md), [PpW x Poznan Beer Expo](@/e/ppw/2024-11-15-ppw-poznan-beer-expo.md) and [third Hardcore Friday show in December](@/e/ppw/2024-12-06-ppw-hardcore-friday.md).
-* Besides that HT also invite fans to merch stand, where they can buy tickets for Hardcore Friday and other merchandise. He also thanks all of the people who helped make this show happen.
+* Michael HT thanks the fans for attending the event. He also promotes the upcoming PpW shows: [PpW x SplatFestival: Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md), [PpW x Poznan Beer Expo](@/e/ppw/2024-11-15-ppw-poznan-beer-expo.md) and [the third Hardcore Friday show in December](@/e/ppw/2024-12-06-ppw-hardcore-friday.md).
+* HT also invites the fans to the merch stand, where they can buy tickets for Hardcore Friday and various merchandise. He also thanks all of the people who helped make this show happen.
 {% end %}
 
 ## References
