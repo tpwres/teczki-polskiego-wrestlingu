@@ -16,7 +16,8 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Wypierdalaj!_ - Get the Fuck Out: often used to react to heels and other unwelcome characters.
 * _Chuj ci w dupę!_ - Up Your Arse: popular and general use expletive referring to anal sex.
 * _Kurwy i śmiecie, z [X] nie wyjedziecie_ - Motherfuckers, you ain't gonna leave town [X] alive: used against heels, especially billed from out of town.
-* _[X] a gdzie to kurwa jest?_ - [X] where the fuck is that: used to insult a heel's hometown. Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with "Miasto Poznań".
+* _[X] a gdzie to kurwa jest?_ - [X] where the fuck is that: used to insult a heel's hometown. \
+  Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with "Miasto Poznań".
 * _Chuj ci na imię, hej [X] chuj ci na imię_ - roughly equivalent to the British "[X] is a wanker" chant, although the expletive is stronger.
 
 ## Praise
@@ -58,17 +59,18 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 ## Songs
 
-* _Panie, któryś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by Polish Pope John Paul II. Sometimes fans start to randomly sing it at 21:37, the exact hour of the pope's death. It's not in the Pope's memory though, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
+* _Panie, któryś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by Polish Pope John Paul II. Fans may start to randomly sing it at 21:37, the exact hour of his death. It's not in the Pope's memory though, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
   Sometimes also sang for [Greg](@/w/greg.md) of [Kombat Pro Wrestling](@/o/kpw.md) in his Pope of Polish Wrestling gimmick - which he seemed to enjoy.
 * _Mam tak samo jak ty_: Czesław Niemen's [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI), sometimes before [PpW](@/o/ppw.md)'s shows start.
 
 ## Wrestler-specific
 
-* _Mister Zjeb_ - [Mister Z](@/w/mister-z.md), where _zjeb_ is retard or loser.
+* _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ means retard or loser.
 * _Papież Polak_ - Polish Pope: [Greg](@/w/greg.md), as described under Songs above
+* _Polski Lis!_ - Polish Fox: [Axel Fox](@/w/axel-fox.md)
+* _Wiedźmin 4_ - Witcher 4: [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior.
 * _Siła Przyjaźni_ - Power of Friendship: [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md)
 * _Bóg jest Łysy_ - God Is Bald: [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. Also _Bóg ma Wąsa_ - God Has a 'Stache, when he grew one.
 * _Sadzić! Palić! Zalegalizować!_ - Plant, Smoke, Legalize: a pro-marijuana chant. Used against [Tony Sk1n](@/w/tony-sk1n.md), who was straight-edge.
 * _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - insulting Łódź, a city in central Poland and the hometown of [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). A stadium chant against their football clubs.
-* _Polski Lis!_ - Polish Fox: [Axel Fox](@/w/axel-fox.md)
 * _Legia to stara kurwa_ - Legia is an old whore: a stadium chant against football club Legia Warszawa, and by extension, the team of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md).
