@@ -36,7 +36,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   This story goes back to [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md), where Isnorr intervened in Blade's match.
   The rivalry later continued with Isnorr challenging Johnny for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), only to be defeated.
   Isnorr then won the Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later defeated him in a tag team match at Hardcore Friday 2, earning his opportunity to challange the champion for a rematch.
-* After their match at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) was cancelled due to [Alex Arthur](@/w/alex-arthur.md) other obligations, him and [Feager](@/w/feager.md) were set to finally compete in a chairs match at "Co Za Noc".
+* After their match at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) was cancelled due to [Alex Arthur's](@/w/alex-arthur.md) other obligations, he and [Feager](@/w/feager.md) were set to finally compete in a chairs match at "Co Za Noc".
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -88,26 +88,26 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 #### Opening
 
 * Timestamp: `1:41:55`
-* [Michael HT](@/w/michael-ht.md) makes his way to the ring to remix of his theme song "Koty z Mokotowa". He hypes up the crowd.
+* [Michael HT](@/w/michael-ht.md) makes his way to the ring to a remix of his theme song "Koty z Mokotowa". He hypes up the crowd.
 * [Referee Seweryn](@/w/sedzia-seweryn.md) makes his way to the ring carrying two leather belts. The other belts are also attached to the ropes around the ring.
-* HT announces the first fight of the night: the championship bout for [PpW Championship](@/c/ppw-championship.md).
+* HT announces the first fight of the night: the championship bout for the [PpW Championship](@/c/ppw-championship.md).
 
-#### Strap Match: Samson v Gustav Gryffin (c) - PpW Championship
+#### Strap Match: Samson vs Gustav Gryffin (c) - PpW Championship
 
 * Timestamp: `1:46:24`
-* [Samson](@/w/samson.md) makes his way to the ring to a huge babyface reaction. Crowd is loudly chanting "Samson" while Referee is attaching one of leather belts to contender's wrist using duct tape.
-* [Gustav Gryffin](@/w/gustav-gryffin.md) is making his way to the ring to a heat from the PpW fans. Crowd is chanting "Get The Fuck Out" as well as flipping the middle fingers. Gustav is hitting high-fives with a few of his supporters (called "Gryffinators").
-* The leather belt is also attached to Gutsav wrist. Crowd is chanting "Bartoszyce? Where the fuck is that?!" to mock Gryffin's hometown.
-* Seweryn presents PpW Championship to the crowd, while Michael HT is reminding the public rules of a Strap Match.
-* Whole match is filled with vicious strap strikes from both of the competitors. After a shine from Samson the fight moves to ringside area, where Gustav gets the upper hand countering Samson's offensive with a strong push to ringpost and back suplex to the apron.
-* Gustav then proceeds to dominate Samson inside the ring with belt strikes and chokeholds against the ropes. Samson tries to make a comebacks but he is quickly put down in strike exchange. The champion is trying to pin Będzin's Beast couple of times, but he kicks-out constantly, much to the crowd's approval.
-* Samson finally makes a comeback after countering corner offensive, he then proceeds so deliver missle dropkick, but Gustav kicks-out at two, which turns crowd hostile towards the referee, with audible "It was three!" chants. Gustav then counters with spinebuster and puts Samson in cloverleaf, with championship contender narrowly escaping the submission with rope break. Back-and-forth exchange of big moves and nearfalls continues with few really close calls after Samson's back suplex, Gustav's superplex and Samson finishing frog splash, which is miraculously kicked out by reigning PpW Champion. Crowd begins to chant "Referee is a dick!".
-* Gustav and Samson - Both desperate - took off tops of their singlet to exchange a series of belt strikes to their bare chests. The scuffle ends with Samson's superkick and attempt to hit another frog splash ducked by Gustav. However he gets put in fireman's carry position, only to slide of Samson's back to put him in a choke using the leather belt. Samson loses consciousness and referee calls out the bout due to submission.
+* [Samson](@/w/samson.md) makes his way to the ring to a huge babyface reaction. The crowd is loudly chanting "Samson" while the referee is attaching one of leather belts to the contender's wrist using duct tape.
+* [Gustav Gryffin](@/w/gustav-gryffin.md) makes his way to the ring to a heat from the PpW fans. The crowd is chanting "Get The Fuck Out" as well as flipping him off. Gustav is hitting high-fives with a few of his supporters (referred to as "Gryffinators").
+* A leather belt is attached to Gustav's wrist. The crowd is chanting "Bartoszyce? And where the fuck is that?!" to mock Gryffin's hometown.
+* Seweryn presents the PpW Championship to the crowd, while Michael HT repeats the rules of a Strap Match to the public.
+* The whole match is filled with vicious strap strikes from both of the competitors. After a shine from Samson the fight moves to the ringside area, where Gustav gets the upper hand countering Samson's offensive with a strong push to a ringpost and back suplex to the apron.
+* Gustav then proceeds to dominate Samson inside the ring with belt strikes and chokeholds against the ropes. Samson tries to make a comeback but he is quickly put down in a strike exchange. The champion tries to pin the Beast of Będzin couple of times, but he keeps kicking out, much to the crowd's approval.
+* Samson finally makes a comeback after countering corner offensive, he then proceeds so deliver a missle dropkick, but Gustav kicks out at two, which turns the crowd hostile towards the referee, with audible "It was three!" chants. Gustav then counters with a spinebuster and puts Samson in a cloverleaf, with the championship contender narrowly escaping the submission with a rope break. Back-and-forth exchange of big moves and nearfalls continues with a few really close calls after Samson's back suplex, Gustav's superplex and Samson's finishing frog splash, which is miraculously kicked out of by the reigning PpW champion. The crowd begins to chant "Referee is a dick!".
+* Gustav and Samson - both now desperate - take off the tops of their singlets to exchange a series of belt strikes to their bare chests. The scuffle ends with Samson's superkick and an attempt to hit another frog splash, ducked by Gustav. However, he gets put in a fireman's carry position, only to slide out of Samson's back to put him in a choke using the leather belt. Samson loses consciousness and referee calls out the bout due to submission.
 * Winner: Gustav Gryffin by submission.
-* After the victory Gustav celebrates in the ring for awhile, listening to crowd "Get the fuck out!" chants and booing.
-* During a short brake between matches the ring is cleared by PpW's referees and staff to get rid out of the leather belts.
+* After the victory, Gustav celebrates in the ring for awhile, listening to the crowd's "Get the fuck out!" chants and booing.
+* During a short brake between matches the ring is cleared by PpW's referees and staff to get rid of the leather belts.
 
-#### Fatal Four-Way Match: Sambor v Marcelito v Aron Wake v Adept Oskar
+#### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v Adept Oskar
 
 * Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/sedzia-karol-gorski.md) is already waiting in the ring.
 * Timestamp: `2:11:32`
@@ -128,7 +128,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * After his victory, rookie Oskar announced that henceforth he shall be known as [Oskar Aleksander](@/w/oskar-aleksander.md).
 * Oskar Aleksander and his valet leave the ring while crowd boo them.
 
-#### Alex Arthur v Bill Faeger
+#### Alex Arthur vs Bill Faeger
 
 * Michael HT again hypes up the crowd before the fight. He also promotes merch stand and tattoo parlour "Syrena".
 * Host invites [Referee Kornel]((@/w/sedzia-kornel.md)) to the ring. Crowd cheers him while Michael announces third fight.
@@ -144,7 +144,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Winner: Bill Faeger by pinfall
 * Faeger celebrates in the ring for a while, while staff is clearing the ring from leftover chairs.
 
-#### First Break & Interviews
+#### First break & interviews
 
 * Zuzia, one of the ring crew members, had her birthday on the day of the event. [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang "Sto lat" (the Polish equivalent to "Happy Birthday").
 * After birthday celebration HT announces the intermission, which is scheduled to take about 20 minutes.
@@ -159,7 +159,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Beer drinking [Bill Feager](@/w/feager.md) denies that fight with Alex was a "long awaited challenge". Then he shoots on "Mister Zjeb" and his booking decisions, as well as on Alex Arthur who "bottled out from a fight" at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). He also shoots on his critiques who say that he can't wrestle, as he claims that their opinion does not matter since he was a PpW Champion for over 130 days.
 * Interview time ends as Matuesz is inviting everyone on a second part of a show.
 
-#### Ustawka Match: "Zmowa" (Mister Z, Olgierd, Marco Hammers, Jakub Linde & Wiktor Longman) v "Zmowa przeciwko zmowie" (Biesiad Strong, Goblin, Axel Fox, Gabriel Queen & Vic Golden)
+#### Ustawka Match: "Zmowa" (Mister Z, Olgierd, Marco Hammers, Jakub Linde & Wiktor Longman) vs "Zmowa przeciwko zmowie" (Biesiad Strong, Goblin, Axel Fox, Gabriel Queen & Vic Golden)
 
 * Michael HT hypes up the next match as one of the most improtant fights in PSV (polish wrestling scene) history. Referee Seweryn makes his way to the ring. The loud "Fuck The Collusion" chants are audible.
 * Timestamp: `3:27:12`
@@ -195,7 +195,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Winners: "Zmowa Przeciwko Zmowie" (Biesiad Strong, Goblin, Axel Fox, Gabriel Queen & Vic Golden)
 * After the match Olgierd is quickly apprehended by Referees and staff to prevent him from attacking Goblin. Exhausted Goblin celebrates victory over "Zmowa" along with his teammates in the ring.
 
-#### Second break & Interviews
+#### Second break & interviews
 
 * Michael HT announces 15 minutes of break before main event.
 * Timestamp: `4:23:33`
@@ -205,7 +205,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Furious Olgierd physically abuse interviewer Mateusz while cutting vulgar promo on Goblin, pledging to make him "his bitch".
 * Mateusz Czarnecki invites viewers for the main event.
 
-#### Blood God Ritual - Trial by Metal and Glass Match: Isnorr v Johnny Blade (c) - PpW European Ultraviolent Championship
+#### Blood God Ritual - Trial by Metal and Glass Match: Isnorr vs Johnny Blade (c) - PpW European Ultraviolent Championship
 
 * Michel HT announces the main event, while dressed up in protective gear Referee Karol Górski makes his entrance to the ring.
 * Timestamp: `4:43:44`
@@ -216,7 +216,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Winner: Isnorr
 * Isnorr celebrates his first championship victory in PpW for a while, with a mixed reception from crowd.
 
-#### Ending & Final Interviews
+#### Ending & final interviews
 
 * Timestamp: `5:03:57`
 * Michael HT thanks fans for attendance. He also promote upcoming PpW shows, such as: [PpW x SplatFestival: Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md), [PpW x Poznan Beer Expo](@/e/ppw/2024-11-15-ppw-poznan-beer-expo.md) and [third Hardcore Friday show in December](@/e/ppw/2024-12-06-ppw-hardcore-friday.md).
