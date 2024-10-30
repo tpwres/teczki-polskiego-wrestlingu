@@ -96,7 +96,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 * Timestamp: `1:46:24`
 * [Samson](@/w/samson.md) makes his way to the ring to a huge babyface reaction. The crowd is loudly chanting "Samson" while the referee attaches one of leather belts to the contender's wrist using duct tape.
-* [Gustav Gryffin](@/w/gustav-gryffin.md) makes his way to the ring to a heat from the PpW fans. The crowd is chanting "Get The Fuck Out" as well as flipping him off. Gustav hits high-fives with a few of his supporters (referred to as "Gryffinators").
+* [Gustav Gryffin](@/w/gustav-gryffin.md) makes his way to the ring to a heat from the PpW fans. The crowd is chanting "Get the fuck out" as well as flipping him off. Gustav hits high-fives with a few of his supporters (referred to as "Gryffinators").
 * A leather belt is attached to Gustav's wrist. The crowd is chanting "Bartoszyce? And where the fuck is that?!" to mock Gryffin's hometown.
 * Seweryn presents the PpW Championship to the crowd, while Michael HT repeats the rules of a Strap Match to the public.
 * The whole match is filled with vicious strap strikes from both of the competitors. After a shine from Samson the fight moves to the ringside area, where Gustav gets the upper hand countering Samson's offensive with a strong push to a ringpost and back suplex to the apron.
@@ -109,7 +109,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 #### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v Adept Oskar
 
-* Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/sedzia-karol-gorski.md) is already waiting in the ring.
+* Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/sedzia-karol-gorski.md) already waits in the ring.
 * Timestamp: `2:11:32`
 * [Marcelito](@/w/marcelito.md) makes his face entrance first.
 * Second of the babyfaces - [Aron Wake](@/w/aron-wake.md) - makes his entrance shortly after Marcelito.
