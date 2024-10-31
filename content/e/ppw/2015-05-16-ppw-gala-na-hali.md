@@ -29,7 +29,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 - - 'Electrico'
   - '[Matt2Hot](@/w/sedzia-matt2hot.md)'
   - nc: '?'
-    n: Video cuts off before the end; on-screen text says the winner is "jhon cena #2" (sic).
+    n: Video cuts off before the fight ends; an on-screen caption declares the winner to be "jhon cena &#35;2" (sic).
 - credits:
     Commentary: 'Roger Kevin'
 {% end %}
