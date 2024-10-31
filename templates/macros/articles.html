@@ -1,0 +1,23 @@
+{% macro cover(article) %}
+  <div class="cover-image">
+    {% if article.extra.gallery %}
+      {% if article.extra.gallery.manifest %}
+        {% set gallery_items = load_data(path=article.extra.gallery.manifest) %}
+      {% else %}
+        {% set gallery_items = article.extra.gallery %}
+      {% endif %}
+      {% set root = config.extra.gallery_root ~ article.path ~ "tn/" %}
+      {% for key, item in gallery_items %}
+        {% set path = item.path -%}
+        <a href="{{ article.permalink }}">
+          <img src="{{ root ~ path }}" />
+        </a>
+        {% break %}
+      {% endfor %}
+    {% else %}
+      <a href="{{ article.permalink }}">
+        <img src="{{ get_url(path='og-default.png') }}"/>
+      </a>
+    {% endif %}
+  </div>
+{% endmacro %}

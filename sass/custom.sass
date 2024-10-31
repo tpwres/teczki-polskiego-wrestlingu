@@ -300,6 +300,28 @@ a:hover
     color: transparent
     white-space: nowrap
 
+.article-list
+  margin-top: 1rem
+
+  article
+    display: flex
+    flex-wrap: nowrap
+    overflow-x: auto
+    gap: 1rem
+    &:not(:last-child)
+      padding: 1rem 0 2rem
+      border-bottom: .3rem solid var(--dark-blue)
+
+    .title
+      font-size: 2rem
+      font-weight: bold
+      color: var(--dark-blue)
+
+    .cover-image
+      flex-basis: 16rem
+      flex-grow: 0
+      flex-shrink: 0
+
 @media only screen and (max-width: 720px)
   .pagination .links span
     display: inline-block
