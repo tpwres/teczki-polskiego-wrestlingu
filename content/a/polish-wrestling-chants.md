@@ -9,7 +9,7 @@ This is a short guide to Polish wrestling crowd chants.
 
 <!-- more -->
 
-Translations and explanations are provided, but no attempt at transliteration was made.
+Translations, explanations and pronunciations are provided.
 
 ## General expletives
 
