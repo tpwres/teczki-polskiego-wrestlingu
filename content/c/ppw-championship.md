@@ -197,12 +197,12 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - '[Sambor](@/w/sambor.md)'
   - s: Singles match
     en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
-    en: 2024-10-12
+    ed: 2024-10-12
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Samson](@/w/samson.md)'
   - s: Strap match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
-    en: 2024-10-26
+    ed: 2024-10-26
 - - 'Gustav Gryffin (c)'
   - 'Mister Z'
   - s: Singles match
