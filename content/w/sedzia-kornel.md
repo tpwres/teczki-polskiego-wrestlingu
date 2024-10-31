@@ -13,7 +13,7 @@ caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-
 source = "M3n747"
 [extra.gallery.3]
 path = "hardcore-referee-koszulka.jpg"
-caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/2024-10-26-ppw-co-za-noc.md)."
+caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)."
 source = "Krzysztof Zych"
 +++
 
