@@ -6,20 +6,70 @@ authors = ["M3n747"]
 chronology = ["ppw"]
 venue=["kinoteka"]
 [extra]
-hide_results = true
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "ppw-chcemy-krwi-plakat.jpg", caption = "Official poster.", source = "SplatFilmFest.com"}
 +++
 
-"Chcemy Krwi!" (_We Want Blood!_) is an upcoming PpW event in cooperation with Splat!FilmFest, a horror-themed film festival.
+"Chcemy Krwi!" (_We Want Blood!_) was a PpW event held in collaboration with horror film festival SplatFilmFest, on October 30th, 2024.
+The venue was Kinoteka, an arthouse cinema, located in Warsaw's [Palace of Culture and Science][pkin-wikipedia], specifically its lounge/bar area.
+The event was free and open to the public, so while the festival moviegoers made a sizable chunk of the audience, fans not interested in the movies
+also attended the show.
 
-{% card(predicted=true) %}
+Despite the name, no blood was on display at this event, save for Johnny Blade's already bloodied back, from his Trial by Metal and Glass match from [Saturday](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
+The event was also not streamed on PpW's regular channels, though a fan-stream by Istota Wrestlingu is available.
+
+### Storyline overview
+
+This event was non-canon. Host [Michael HT](@/w/michael-ht.md) announced that "today we're in a different reality, where weird things may happen".
+PpW also teased only two fights on its social media: [Johnny Blade](@/w/johnny-blade.md) in a Halloween Street Fight, and later [Gustav Gryffin](@/w/gustav-gryffin.md) to face his "biggest nightmare".
+
+{% card() %}
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - '[Mister Z](@/w/mister-z.md)(c)'
+  - c: '[PPW Championship](@/c/ppw-championship.md)'
+    s: Unification Match
+    r: Submission
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - s: Triple Threat Match
+- - '[Isnorr](@/w/isnorr.md)(c)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+  - c: '[PPW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '???'
+  - '[Gremlin](@/w/goblin.md)'
   - s: Halloween Street Fight
+- credits:
+    Host, Ring announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
+
+## Recap
+
+* Gustav cut a promo about how PpW booker and owner Mister Z called him in the middle of the night to book him for this show. Next, his opponent enters, wearing black trunks and a black mask, and Gustav initially failed to recognize him.
+* The match pitted two champions against each other: Gustav with his new, white PpW championship belt, and Mister Z, wearing the previous, black-strapped version, the same one Gustav retired at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). Host Michael HT announces this to be a title belt unification match.
+* Winner: Gustav by submission.
+* Olgierd enters wearing a hockey mask, Friday the 13th style, in tune with the festival's theme.
+* After Olgierd entered, Biesiad's theme hits (AC/DC's Thunderstruck). However, the lead part is played on a [banjo](https://www.youtube.com/watch?v=e4Ao-iNPPUc) and the vocals don't match.
+  Fans accept it as part of the "different reality" and start chanting for Biesiad. In comes Oskar Alexander, dressed in Biesiad's signature camo pants, black T-shirt, and with his hair loose, imitating Biesiad's entrance routine.
+  Olgierd is incensed, says he wants the real Biesiad. Then AC/DC's version hits, Michael HT starts announcing Biesiad, but he throws a chair into the ring and starts brawling immediately, cutting off the announcement and music.
+* The opponents battle with chairs and kendo sticks, and Olgierd strucks a temporary alliance with Oskar.
+* At one point, with Oskar laid out on a table, Biesiad introduces a ladder by throwing it onto his opponent. Winner: Biesiad by pinfall on Oskar after crashing him through a table.
+* Fox and Isnorr brawl out in the crowd, on stairs, and at the bar, including a jump from the counter by Fox. Winner: Isnorr by pinfall
+* Michael HT announces that Goblin was to be Johnny's opponent, however he went missing in the vast cellars below the Palace. The crew set out to search for him, and even tried to lure him with a Kustosz (budget beer brand).
+  However, the creature who snatched the beer was someone else.
+  In comes Goblin, but with red facepaint, Michael announces him as Gremlin. He carriers with him a black bag in the shape of a body, with Goblin's signature mask on it, and proceeds to piledrive it, followed by elbow and legdrops.
+* This new Gremlin character is more feral, walks hunched, and communicates only in grunts and shrieks. Apparently he's also afraid of loud noises, because Johnny scares him with a small bicycle horn. He offers candy to the audience and Johnny, who initially refuses to accept them. When he does, he immediately starts choking.
+* The fight sees creative use of pumpkins: Johnny plants one on Gremlin's head, turning him into a Jack'o'lantern. Later, Gremlin uses a small pumpkin as a weapon.
+* Johnny introduces a wizard's hat to the ring, and pulls out something from it, which scares Gremlin, causing him to comically flip around. This turned out to be a decorative spider, and Johnny later speills all of them into the ring.
+* Gremlin lifts Johnny into a powerbomb position to hurl him into a table in the corner, but Johnny manages to counter into a headscissors takedown into the same table. Johnny follows with his signature splash holding a [road sign plate](https://en.wikipedia.org/wiki/Road_signs_in_Poland#Complementary_plates) that reads "The end". Winner: Johnny Blade by pinfall.
+* Afterwards, Johnny rolls up Gremlin into a bodybag, and stands victorious over him, holding the roadsign.
 
 ## References
 
 * [Announcement at SplatFilmFest.com](https://splatfilmfest.com/program/wrestling-chcemy-krwi-ppw-x-splatfilmfest/)
+* Istota Wrestlingu's [fan cam, part 1](https://www.youtube.com/watch?v=M1EzMK4IGhk), includes Gustav vs Mister Z
+* Istota Wrestlingu's [fan cam, part 2](https://www.youtube.com/watch?v=dpebVNTRiGo), all other matches
+
+[pkin-wikipedia]: https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science
