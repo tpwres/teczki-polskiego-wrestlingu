@@ -5,7 +5,7 @@ weight = 7
 authors = ["Szymon Iwulski"]
 +++
 
-The following elaborates on the 2024 PTW crisis, touched upon in the [main article](@/o/ptw.md#post-gold-rush-crisis).
+In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from the perceived mismanagement of the company, and [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) lacking abilit to book properly. This article elaborates on that crisis, touched upon in the [main article](@/o/ptw.md#post-gold-rush-crisis), and the numerous people who [left PTW](@/a/ptw-exits.md) as a result.
 
 <!-- more -->
 
@@ -40,7 +40,7 @@ However, he also included passive-aggressive remarks about "disloyal" members of
 Reactions to that statement were mixed, ranging from praise to mockery.
 This launched a wave of similar, shorter statements from other roster members, claiming they're going to stay with PTW through thick and thin, and would rather go down together with the organization rather than leave it because of its problems.
 
-PTW's fate was uncertain at that point, with multiple exits and nothing in the way of official announcements.
+PTW's fate was uncertain at that point, with [multiple exits](@/a/ptw-exits.md) and nothing in the way of official announcements.
 With one exception: a tribute post commemorating [John "Bad Bones" Klinger](@/w/bad-bones.md), who died of a heart attack on May 20th.
 
 On May 29th, Ryucon, a manga-themed fan convention (which previously hosted PTW events in [2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md) and [2023](@/e/ptw/2023-07-16-ptw-x-ryucon.md)), [announced][ptw-ryucon-3] that they're hosting a third PTW event.
