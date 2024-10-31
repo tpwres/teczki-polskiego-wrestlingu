@@ -155,8 +155,8 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2024
 
-* PpW buys Supron's ring, the same one he bought for PPWF some 20 years ago.
+* PpW buys Supron's ring, the same one he bought for PPWF some 20 years ago, and later used by [TBW](@/o/tbw.md) and [WKSW](@/o/wksw.md).
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
 * As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
-* After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces its [first show](@/e/low/2024-12-01-low-1.md) to be held in December.
+* After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md). The group soon announce their [first show](@/e/low/2024-12-01-low-1.md) to be held in December. For the first time ever, [KPW](@/o/kpw.md) lends one of their workers ([Filip Fux](@/w/filip-fux.md)) to another Polish organization.
 {% end %}
