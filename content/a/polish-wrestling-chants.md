@@ -102,7 +102,7 @@ Translations, explanations and pronunciations are provided.
 * _Siła przyjaźni_ - "Power of friendship": [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). \
   &#9205; [ɕˈiwa pʃɨjˈaʑɲi](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Si%C5%82a+przyja%C5%BAni&sl=pl&ttsMode=sentence&speed=3)
 * _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. \
-  &#9205; [bˈuk jˈɛst wˈɨsɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=B%C3%B3g+jest+%C5%82ysy&sl=pl&ttsMode=sentence&speed=3)
+  &#9205; [bˈuk jˈɛst wˈɨsɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=B%C3%B3g+jest+%C5%82ysy&sl=pl&ttsMode=sentence&speed=3) \
   Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one. \
   &#9205; [bˈuk mˈa vˈɔ̃sa](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=B%C3%B3g+ma+w%C4%85sa&sl=pl&ttsMode=sentence&speed=3)
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it": a pro-marijuana chant. Used against [Tony Sk1n](@/w/tony-sk1n.md), who was straight-edge. \
