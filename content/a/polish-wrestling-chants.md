@@ -2,7 +2,7 @@
 title = "Polish wrestling chants"
 template = "article.html"
 weight = 0
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "M3n747"]
 +++
 
 This is a short guide to Polish wrestling crowd chants.
