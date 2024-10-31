@@ -58,10 +58,9 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
 * The opponents battle with chairs and kendo sticks, and Olgierd forms a temporary alliance with Oskar.
 * At one point, with Oskar laid out on a table, Biesiad introduces a ladder by throwing it at his opponent
 * Winner: Biesiad by pinfall on Oskar after crashing him through a table.
+* Like at the [previous event](@/e/ppw/2024-10-26-ppw-co-za-noc.md), Isnorr came out carrying an axe.
 * Fox and Isnorr brawl out in the crowd, on stairs, and at the bar, including a jump from the counter by Fox.
 * Winner: Isnorr by pinfall.
-* Like at the [previous event](@/e/ppw/2024-10-26-ppw-co-za-noc.md), Isnorr came out carrying an axe.
-* Fox and Isnorr brawl out in the crowd, on stairs, and at the bar, including a jump from the counter by Fox. Winner: Isnorr by pinfall
 * Michael HT announces that Goblin was to be Johnny's opponent, however he went missing in the vast cellars below the Palace. The crew set out to search for him, and even tried to lure him with a Kustosz (budget beer brand).
   However, the creature who snatched the beer was someone else.
   In comes Goblin, but with red facepaint - Michael announces him as Gremlin. He carries with him a black bag in the shape of a body, with Goblin's signature mask on it, and proceeds to piledrive it, followed by a couple of elbow drops and a legdrop.
