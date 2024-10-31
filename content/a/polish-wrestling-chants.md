@@ -20,7 +20,7 @@ Translations, explanations and pronunciations are provided.
 * _Kurwy i śmiecie, z [X] nie wyjedziecie_ - "Motherfuckers, you ain't leaving [town X] alive": used against heels, especially billed from out of town. \
   &#9205; [kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;X&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Kurwy+i+%C5%9Bmiecie%2C+z+X+nie+wyjedziecie&sl=pl&ttsMode=sentence&speed=3)
 * _[X], a gdzie to kurwa jest?_ - "[Town X], where the fuck is that?": used to insult a heel's hometown. \
-  Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city").
+  Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
   &#9205; [&#91;X&#93;, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=X%2C+a+gdzie+to+kurwa+jest%3F&sl=pl&ttsMode=sentence&speed=3) \
 * _Chuj ci na imię, hej [X], chuj ci na imię_ - roughly equivalent to the British "[X] is a wanker" chant, although the expletive is stronger (lit. "Dick's your name"). \
   &#9205; [xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;X&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+ci+na+imi%C4%99%2C+hej+X%2C+chuj+ci+na+imi%C4%99&sl=pl&ttsMode=sentence&speed=3)
@@ -76,14 +76,14 @@ Translations, explanations and pronunciations are provided.
 * _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is:
   - Announcer: _Pochodzący z [X], ważący [Y] kilogramów_ ("Hailing from [X], weighing in at [Y] kilograms.")
-  - Crowd: _Mało!_ (rarely _Dużo!_, meaning "A lot", when a wrestler is especially massive.)
+  - Crowd: _Mało!_ (rarely _Dużo!_, meaning "A lot", when a wrestler is especially massive.) \
   &#9205; [mˈawɔ!](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Ma%C5%82o%21&sl=pl&ttsMode=sentence&speed=3)
 
 ## Songs
 
 * _Panie, któryś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by the Polish Pope John Paul&nbsp;II. Fans may start to randomly sing it at 21:37 (9:37&nbsp;PM), the exact hour of his death. It is not in the Pope's memory, however, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
   Sometimes also sang for [Greg](@/w/greg.md) of [Kombat Pro Wrestling](@/o/kpw.md) in his Pope of Polish Wrestling gimmick - which he seemed to enjoy.
-* _Mam tak samo jak ty_: [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI) by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows start.
+* _Mam tak samo jak ty_: [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI) by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin.
 
 ## Wrestler-specific
 
