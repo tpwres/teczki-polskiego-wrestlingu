@@ -20,7 +20,7 @@ city = "Warszawa"
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - s: Tables, Ladders & Chairs Match
+  - s: Triple Threat Match
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
