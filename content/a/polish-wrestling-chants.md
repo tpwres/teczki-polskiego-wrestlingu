@@ -13,7 +13,8 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 ## General expletives
 
-* _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters.
+* _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
+  Pron.: [ɡʒˈɛɡɔʃ bʒˌɛnt͡ʃɨʃt͡ʃɨkʲˈɛvit͡ʃ, xʃˌɔ̃ʃt͡ʃɨʒˌɛvɔʃˈɨt͡sɛ, pˈɔvʲat wˌɛŋkɔwˈɔdɨ.](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Grzegorz+Brz%C4%99czyszczykiewicz%2C+Chrz%C4%85szczy%C5%BCewoszyce%2C+powiat+%C5%81%C4%99ko%C5%82ody.&sl=pl&ttsMode=sentence&speed=4)
 * _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex.
 * _Kurwy i śmiecie, z [X] nie wyjedziecie_ - "Motherfuckers, you ain't gonna leave [town X] alive": used against heels, especially billed from out of town.
 * _[X], a gdzie to kurwa jest?_ - "[Town X], where the fuck is that?": used to insult a heel's hometown. \
