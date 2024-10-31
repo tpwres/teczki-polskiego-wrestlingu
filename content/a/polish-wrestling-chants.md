@@ -41,7 +41,7 @@ Translations, explanations and pronunciations are provided.
   &#9205; [zˈabʲij ɡˈɔ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zabij+go&sl=pl&ttsMode=sentence&speed=3)
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
   &#9205; [zˈajɛp ɡˈɔ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zajeb+go&sl=pl&ttsMode=sentence&speed=3)
-* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md) who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop. \
+* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop. \
   &#9205; [zjˈɛt͡s mˈu wˈɛp](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zjedz+mu+%C5%82eb&sl=pl&ttsMode=sentence&speed=3)
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
   &#9205; [ˈurvij mˈu wˈɛp](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Urwij+mu+%C5%82eb&sl=pl&ttsMode=sentence&speed=3)
@@ -78,7 +78,7 @@ Translations, explanations and pronunciations are provided.
   &ndash; Announcer: _Pochodzący z [miasta], ważący [ilość] kilogramów_ ("Hailing from [city], weighing in at [amount] kilograms.") \
   &ndash; Crowd: _Mało!_ \
   &#9205; [mˈawɔ!](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Ma%C5%82o%21&sl=pl&ttsMode=sentence&speed=3) \
-  Rarely, if a wrestler is especially massive, the crowd might respond _Dużo_, "A lot". \
+  Rarely, if a wrestler is especially massive, the crowd might respond _Dużo_, "Plenty". \
   &#9205; [dˈuʒɔ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Du%C5%BCo&sl=pl&ttsMode=sentence&speed=3)
 
 ## Songs
