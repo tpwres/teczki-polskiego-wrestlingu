@@ -13,46 +13,69 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 ## General expletives
 
-* _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters.
-* _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex.
-* _Kurwy i śmiecie, z [X] nie wyjedziecie_ - "Motherfuckers, you ain't gonna leave [town X] alive": used against heels, especially billed from out of town.
+* _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
+  Pron.: [ɡʒˈɛɡɔʃ bʒˌɛnt͡ʃɨʃt͡ʃɨkʲˈɛvit͡ʃ, xʃˌɔ̃ʃt͡ʃɨʒˌɛvɔʃˈɨt͡sɛ, pˈɔvʲat wˌɛŋkɔwˈɔdɨ.](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Grzegorz+Brz%C4%99czyszczykiewicz%2C+Chrz%C4%85szczy%C5%BCewoszyce%2C+powiat+%C5%81%C4%99ko%C5%82ody.&sl=pl&ttsMode=sentence&speed=4)
+* _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex. \
+  Pron.: [insert here](https://hello.world)
+* _Kurwy i śmiecie, z [X] nie wyjedziecie_ - "Motherfuckers, you ain't gonna leave [town X] alive": used against heels, especially billed from out of town. \
+  Pron.: [insert here](https://hello.world)
 * _[X], a gdzie to kurwa jest?_ - "[Town X], where the fuck is that?": used to insult a heel's hometown. \
+  Pron.: [insert here](https://hello.world) \
   Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city").
-* _Chuj ci na imię, hej [X], chuj ci na imię_ - roughly equivalent to the British "[X] is a wanker" chant, although the expletive is stronger (lit. "Dick's your name").
+* _Chuj ci na imię, hej [X], chuj ci na imię_ - roughly equivalent to the British "[X] is a wanker" chant, although the expletive is stronger (lit. "Dick's your name"). \
+  Pron.: [insert here](https://hello.world)
 
 ## Praise
 
-* _Zajebiste_ - "This is awesome", although more vulgar.
-* _[X] jest zajebisty_ - "[X] is awesome": most often to the tune of "Seven Nation Army".
+* _Zajebiste_ - "This is awesome", although more vulgar. \
+  Pron.: [insert here](https://hello.world)
+* _[X] jest zajebisty_ - "[X] is awesome": most often to the tune of "Seven Nation Army". \
+  Pron.: [insert here](https://hello.world)
 
 ## Calls to action
 
-* _Chcemy krwi_ - "We want blood": the crowd wants someone to start bleeding.
-* _Przemoc_ - "Violence": encouraging exactly that.
-* _Zabij go_ - "Kill him!": encouraging offense.
-* _Zajeb go_ - "Fuck him up": also encouraging offensive action.
-* _Zjedz mu łeb_ - "Eat his head!": same. Once actually acted upon by [Samson](@/w/samson.md) who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop.
-* _Urwij mu łeb_ - "Rip his head off": generally encouraging violence.
-* _Zostaw [X], ty kurwo_ zostaw [X] - "Leave [X] alone, you whore": when a babyface receives too much punishment. \
+* _Chcemy krwi_ - "We want blood": the crowd wants someone to start bleeding. \
+  Pron.: [insert here](https://hello.world)
+* _Przemoc_ - "Violence": encouraging exactly that. \
+  Pron.: [insert here](https://hello.world)
+* _Zabij go_ - "Kill him!": encouraging offense. \
+  Pron.: [insert here](https://hello.world)
+* _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
+  Pron.: [insert here](https://hello.world)
+* _Zjedz mu łeb_ - "Eat his head!": same. Once actually acted upon by [Samson](@/w/samson.md) who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop. \
+  Pron.: [insert here](https://hello.world)
+* _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
+  Pron.: [insert here](https://hello.world)
+* _Zostaw [X], ty kurwo_ zostaw [X] - "Leave [X] alone, you whore": when a babyface receives too much punishment. \ \
+  Pron.: [insert here](https://hello.world)
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek".
-* _Jedziesz z tą kurwą, hej [X], jedziesz z tą kurwą_ - "Fuck this whore up, [X]", encouraging offense and insulting the opponent at the same time.
-* _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring.
-* _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move.
+* _Jedziesz z tą kurwą, hej [X], jedziesz z tą kurwą_ - "Fuck this whore up, [X]", encouraging offense and insulting the opponent at the same time. \
+  Pron.: [insert here](https://hello.world)
+* _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
+  Pron.: [insert here](https://hello.world)
+* _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
+  Pron.: [insert here](https://hello.world)
 
 ## Referee
 
-* _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt.
-* _Sędzia super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out.
-* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond.
+* _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. \
+  Pron.: [insert here](https://hello.world)
+* _Sędzia super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out. \
+  Pron.: [insert here](https://hello.world)
+* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. \
+  Pron.: [insert here](https://hello.world)
 
 ## Weapons
 
-* _Więcej krzeseł_ - "Bring more chairs!": when the current number is not enough.
+* _Więcej krzeseł_ - "Bring more chairs!": when the current number is not enough. \
+  Pron.: [insert here](https://hello.world)
 
 ## Intros
 
-* _Kim ty jesteś?_ - "Who are you": the crowd is unfamiliar with the character (or pretends not to be).
-* _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \
+* _Kim ty jesteś?_ - "Who are you": the crowd is unfamiliar with the character (or pretends not to be). \
+  Pron.: [insert here](https://hello.world)
+* _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \ \
+  Pron.: [insert here](https://hello.world)
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is:
   - Announcer: _Pochodzący z [X], ważący [Y] kilogramów_ ("Hailing from [X], weighing in at [Y] kilograms.")
   - Crowd: _Mało!_ (rarely _Dużo!_, meaning "A lot", when a wrestler is especially massive.)
@@ -65,13 +88,23 @@ Translations and explanations are provided, but no attempt at transliteration wa
 
 ## Wrestler-specific
 
-* _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ means "retard" or "loser".
-* _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above.
-* _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md).
-* _Wiedźmin 4_ - "Witcher 4": [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior.
-* _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire.
-* _Siła przyjaźni_ - "Power of friendship": [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md).
-* _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one.
-* _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it": a pro-marijuana chant. Used against [Tony Sk1n](@/w/tony-sk1n.md), who was straight-edge.
-* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the whore's ain't gonna mind": insulting Łódź, a city in central Poland and the hometown of [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). A stadium chant against their football clubs.
-* _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md).
+* _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ means "retard" or "loser". \
+  Pron.: [insert here](https://hello.world)
+* _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
+  Pron.: [insert here](https://hello.world)
+* _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
+  Pron.: [insert here](https://hello.world)
+* _Wiedźmin 4_ - "Witcher 4": [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior. \
+  Pron.: [insert here](https://hello.world)
+* _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
+  Pron.: [insert here](https://hello.world)
+* _Siła przyjaźni_ - "Power of friendship": [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). \
+  Pron.: [insert here](https://hello.world)
+* _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one. \
+  Pron.: [insert here](https://hello.world)
+* _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it": a pro-marijuana chant. Used against [Tony Sk1n](@/w/tony-sk1n.md), who was straight-edge. \
+  Pron.: [insert here](https://hello.world)
+* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the whore's ain't gonna mind": insulting Łódź, a city in central Poland and the hometown of [Stanisław Van \
+  Pron.: [insert here](https://hello.world) Dobroniak](@/w/stanislaw-van-dobroniak.md). A stadium chant against their football clubs.
+* _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
+  Pron.: [insert here](https://hello.world)
