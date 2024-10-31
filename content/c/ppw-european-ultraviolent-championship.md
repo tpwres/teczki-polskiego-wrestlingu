@@ -115,4 +115,9 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Blood God Ritual - Trial by Metal and Glass Match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
     ed: 2024-10-26
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+  - s: Singles match
+    en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md)'
+    ed: 2024-10-30
 {% end %}

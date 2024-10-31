@@ -203,6 +203,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Strap match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
     en: 2024-10-26
+- - 'Gustav Gryffin (c)'
+  - 'Mister Z'
+  - s: Singles match
+    en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md)'
+    ed: 2024-10-30
 {% end %}
 
 ## References

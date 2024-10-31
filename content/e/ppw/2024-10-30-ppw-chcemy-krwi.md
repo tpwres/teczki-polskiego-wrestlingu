@@ -1,7 +1,7 @@
 +++
 title = "PpW Chcemy Krwi!"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["kinoteka"]
@@ -34,6 +34,7 @@ PpW also teased only two fights on its social media: [Johnny Blade](@/w/johnny-b
   - '[Olgierd](@/w/olgierd.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: Triple Threat Match
+<<<<<<< HEAD
 - - '[Isnorr](@/w/isnorr.md)(c)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - c: '[PPW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
@@ -47,15 +48,17 @@ PpW also teased only two fights on its social media: [Johnny Blade](@/w/johnny-b
 
 ## Recap
 
-* Gustav cut a promo about how PpW booker and owner Mister Z called him in the middle of the night to book him for this show. Next, his opponent enters, wearing black trunks and a black mask, and Gustav initially failed to recognize him.
-* The match pitted two champions against each other: Gustav with his new, white PpW championship belt, and Mister Z, wearing the previous, black-strapped version, the same one Gustav retired at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). Host Michael HT announces this to be a title belt unification match.
+* Gustav cut a promo about how PpW booker and owner Mister Z called him in the middle of the night to book him for this show.
+  Next, his opponent enters, wearing black trunks and a black mask, and Gustav initially failed to recognize him. On this event, Mister Z portrays his backyard past self.
+* The match pitted two champions against each other: Gustav with his new, white PpW championship belt, and Mister Z with the previous, black-strapped version, the same one Gustav retired at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). Host Michael HT announces this to be a title belt unification match.
 * Winner: Gustav by submission.
-* Olgierd enters wearing a hockey mask, Friday the 13th style, in tune with the festival's theme.
+* Olgierd enters wearing a Jason Vorhees hockey mask, from the Friday the 13th slasher series, in tune with the festival's theme.
 * After Olgierd entered, Biesiad's theme hits (AC/DC's Thunderstruck). However, the lead part is played on a [banjo](https://www.youtube.com/watch?v=e4Ao-iNPPUc) and the vocals don't match.
   Fans accept it as part of the "different reality" and start chanting for Biesiad. In comes Oskar Alexander, dressed in Biesiad's signature camo pants, black T-shirt, and with his hair loose, imitating Biesiad's entrance routine.
   Olgierd is incensed, says he wants the real Biesiad. Then AC/DC's version hits, Michael HT starts announcing Biesiad, but he throws a chair into the ring and starts brawling immediately, cutting off the announcement and music.
 * The opponents battle with chairs and kendo sticks, and Olgierd strucks a temporary alliance with Oskar.
 * At one point, with Oskar laid out on a table, Biesiad introduces a ladder by throwing it onto his opponent. Winner: Biesiad by pinfall on Oskar after crashing him through a table.
+* Like at the [previous event](@/e/ppw/2024-10-26-ppw-co-za-noc.md), Isnorr came out carrying an axe.
 * Fox and Isnorr brawl out in the crowd, on stairs, and at the bar, including a jump from the counter by Fox. Winner: Isnorr by pinfall
 * Michael HT announces that Goblin was to be Johnny's opponent, however he went missing in the vast cellars below the Palace. The crew set out to search for him, and even tried to lure him with a Kustosz (budget beer brand).
   However, the creature who snatched the beer was someone else.
