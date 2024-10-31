@@ -75,9 +75,9 @@ Translations, explanations and pronunciations are provided.
   &#9205; [kˈim tˈɨ jˈɛstɛɕ?](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Kim+ty+jeste%C5%9B%3F&sl=pl&ttsMode=sentence&speed=3)
 * _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is:
-  - Announcer: _Pochodzący z [miasta], ważący [ilość] kilogramów_ ("Hailing from [city], weighing in at [amount] kilograms.")
-  - Crowd: _Mało!_ \
-  &#9205; [mˈawɔ!](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Ma%C5%82o%21&sl=pl&ttsMode=sentence&speed=3)
+  &ndash; Announcer: _Pochodzący z [miasta], ważący [ilość] kilogramów_ ("Hailing from [city], weighing in at [amount] kilograms.")
+  &ndash; Crowd: _Mało!_ \
+  &#9205; [mˈawɔ!](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Ma%C5%82o%21&sl=pl&ttsMode=sentence&speed=3) \
   Rarely, if a wrestler is especially massive, the crowd might respond _Dużo_, "A lot". \
   &#9205; [dˈuʒɔ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Du%C5%BCo&sl=pl&ttsMode=sentence&speed=3)
 
