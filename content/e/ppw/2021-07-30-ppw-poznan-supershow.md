@@ -20,7 +20,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - d: Day 1
 - [Superior, '[Cade Bruce](@/w/mister-z.md)']
 - ['[Direk](@/w/direk.md)', '[Tony Sk1n](@/w/tony-sk1n.md)']
-- [Hirinus, '2 Chamy: Automatico, Black Orion', {s: Handicap Match}]
+- [Hirinus, '2 Chamy: Automatico, [Black Orion](@/w/black-orion.md)', {s: Handicap Match}]
 - ['[Isnorr](@/w/isnorr.md)', '[Adam Wong](@/w/adam-wong.md)']
 - [Esteban Lucha, Czacha]
 - [Esteban Lucha, '[Adam Wong](@/w/adam-wong.md)']
