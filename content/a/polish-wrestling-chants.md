@@ -18,19 +18,19 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex. \
   Pron.: [xˈuj t͡ɕˈi vˈɨ dˈupɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+ci+w+dup%C4%99&sl=pl&ttsMode=sentence&speed=3)
 * _Kurwy i śmiecie, z [X] nie wyjedziecie_ - "Motherfuckers, you ain't gonna leave [town X] alive": used against heels, especially billed from out of town. \
-  Pron.: [kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;X&#92; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Kurwy+i+%C5%9Bmiecie%2C+z+X+nie+wyjedziecie&sl=pl&ttsMode=sentence&speed=3)
+  Pron.: [kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;X&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Kurwy+i+%C5%9Bmiecie%2C+z+X+nie+wyjedziecie&sl=pl&ttsMode=sentence&speed=3)
 * _[X], a gdzie to kurwa jest?_ - "[Town X], where the fuck is that?": used to insult a heel's hometown. \
-  Pron.: [&#91;X&#92;, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=X%2C+a+gdzie+to+kurwa+jest%3F&sl=pl&ttsMode=sentence&speed=3) \
+  Pron.: [&#91;X&#93;, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=X%2C+a+gdzie+to+kurwa+jest%3F&sl=pl&ttsMode=sentence&speed=3) \
   Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s town of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city").
 * _Chuj ci na imię, hej [X], chuj ci na imię_ - roughly equivalent to the British "[X] is a wanker" chant, although the expletive is stronger (lit. "Dick's your name"). \
-  Pron.: [xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;X&#92;, xˈuj t͡ɕˈi nˈa ˈimjɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+ci+na+imi%C4%99%2C+hej+X%2C+chuj+ci+na+imi%C4%99&sl=pl&ttsMode=sentence&speed=3)
+  Pron.: [xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;X&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+ci+na+imi%C4%99%2C+hej+X%2C+chuj+ci+na+imi%C4%99&sl=pl&ttsMode=sentence&speed=3)
 
 ## Praise
 
 * _Zajebiste_ - "This is awesome", although more vulgar. \
   Pron.: [zˌajɛbʲˈistɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zajebiste&sl=pl&ttsMode=word&speed=3)
 * _[X] jest zajebisty_ - "[X] is awesome": most often to the tune of "Seven Nation Army". \
-  Pron.: [&#91;X&#92; jˈɛst zˌajɛbʲˈistɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=X+jest+zajebisty&sl=pl&ttsMode=sentence&speed=3)
+  Pron.: [&#91;X&#93; jˈɛst zˌajɛbʲˈistɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=X+jest+zajebisty&sl=pl&ttsMode=sentence&speed=3)
 
 ## Calls to action
 * _Chcemy krwi_ - "We want blood": the crowd wants someone to start bleeding. \
@@ -46,10 +46,10 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
   Pron.: [ˈurvij mˈu wˈɛp](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Urwij+mu+%C5%82eb&sl=pl&ttsMode=sentence&speed=3)
 * _Zostaw [X], ty kurwo_ zostaw [X] - "Leave [X] alone, you whore": when a babyface receives too much punishment. \ \
-  Pron.: [zˈɔstaf &#91;X&#92;, tˈɨ kˈurvɔ_ zˈɔstaf &#91;X&#92;](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zostaw+X%2C+ty+kurwo_+zostaw+X&sl=pl&ttsMode=sentence&speed=3)
+  Pron.: [zˈɔstaf &#91;X&#93;, tˈɨ kˈurvɔ_ zˈɔstaf &#91;X&#93;](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zostaw+X%2C+ty+kurwo_+zostaw+X&sl=pl&ttsMode=sentence&speed=3)
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek".
 * _Jedziesz z tą kurwą, hej [X], jedziesz z tą kurwą_ - "Fuck this whore up, [X]", encouraging offense and insulting the opponent at the same time. \
-  Pron.: [jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;X&#92;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Jedziesz+z+t%C4%85+kurw%C4%85%2C+hej+X%2C+jedziesz+z+t%C4%85+kurw%C4%85&sl=pl&ttsMode=sentence&speed=3)
+  Pron.: [jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;X&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Jedziesz+z+t%C4%85+kurw%C4%85%2C+hej+X%2C+jedziesz+z+t%C4%85+kurw%C4%85&sl=pl&ttsMode=sentence&speed=3)
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
   Pron.: [pˈɔkaʃ dˈupɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Poka%C5%BC+dup%C4%99&sl=pl&ttsMode=sentence&speed=3)
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
