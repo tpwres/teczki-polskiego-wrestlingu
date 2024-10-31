@@ -14,7 +14,7 @@ Translations and explanations are provided, but no attempt at transliteration wa
 ## General expletives
 
 * _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
-  Pron.: [vˌɨpʲɛrdˈalaj](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Wypierdalaj&sl=pl&ttsMode=word&speed=3)
+  Pron.: [vˌɨpʲɛrdˈalaj](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Wypierdalaj&sl=pl&ttsMode=sentence&speed=3)
 * _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex. \
   Pron.: [xˈuj t͡ɕˈi vˈɨ dˈupɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+ci+w+dup%C4%99&sl=pl&ttsMode=sentence&speed=3)
 * _Kurwy i śmiecie, z [X] nie wyjedziecie_ - "Motherfuckers, you ain't gonna leave [town X] alive": used against heels, especially billed from out of town. \
@@ -28,7 +28,7 @@ Translations and explanations are provided, but no attempt at transliteration wa
 ## Praise
 
 * _Zajebiste_ - "This is awesome", although more vulgar. \
-  Pron.: [zˌajɛbʲˈistɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zajebiste&sl=pl&ttsMode=word&speed=3)
+  Pron.: [zˌajɛbʲˈistɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zajebiste&sl=pl&ttsMode=sentence&speed=3)
 * _[X] jest zajebisty_ - "[X] is awesome": most often to the tune of "Seven Nation Army". \
   Pron.: [&#91;X&#93; jˈɛst zˌajɛbʲˈistɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=X+jest+zajebisty&sl=pl&ttsMode=sentence&speed=3)
 
@@ -36,7 +36,7 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Chcemy krwi_ - "We want blood": the crowd wants someone to start bleeding. \
   Pron.: [xt͡sˈɛmɨ krfˈi](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chcemy+krwi&sl=pl&ttsMode=sentence&speed=3)
 * _Przemoc_ - "Violence": encouraging exactly that. \
-  Pron.: [pʃˈɛmɔt͡s](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Przemoc&sl=pl&ttsMode=word&speed=3)
+  Pron.: [pʃˈɛmɔt͡s](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Przemoc&sl=pl&ttsMode=sentence&speed=3)
 * _Zabij go_ - "Kill him": encouraging offense. \
   Pron.: [zˈabʲij ɡˈɔ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zabij+go&sl=pl&ttsMode=sentence&speed=3)
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
@@ -74,7 +74,7 @@ Translations and explanations are provided, but no attempt at transliteration wa
 * _Kim ty jesteś?_ - "Who are you": the crowd is unfamiliar with the character (or pretends not to be). \
   Pron.: [kˈim tˈɨ jˈɛstɛɕ?](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Kim+ty+jeste%C5%9B%3F&sl=pl&ttsMode=sentence&speed=3)
 * _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \ \
-  Pron.: [mˈawɔ!](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Ma%C5%82o%21&sl=pl&ttsMode=word&speed=3)
+  Pron.: [mˈawɔ!](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Ma%C5%82o%21&sl=pl&ttsMode=sentence&speed=3)
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is:
   - Announcer: _Pochodzący z [X], ważący [Y] kilogramów_ ("Hailing from [X], weighing in at [Y] kilograms.")
   - Crowd: _Mało!_ (rarely _Dużo!_, meaning "A lot", when a wrestler is especially massive.)
