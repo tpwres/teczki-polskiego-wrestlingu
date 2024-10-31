@@ -11,6 +11,10 @@ caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md)"
 path = "sedzia-kornel.jpg"
 caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md)."
 source = "M3n747"
+[extra.gallery.3]
+path = "hardcore-referee-koszulka.jpg"
+caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/2024-10-26-ppw-co-za-noc.md)."
+source = "Krzysztof Zych"
 +++
 
 ## Professional wrestling career
@@ -30,6 +34,6 @@ Unhappy with his officiating, Gustav derogatorily called Kornel a "skinny dog" i
 This resulted in [Osamu](@/w/osamu.md) officiating Gryffin's match against [Ricardo Diesel](@/w/ricardo-diesel.md) at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md), and continued into Gryffin's career with other referees officiating his matches.
 
 At [Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) Kornel was introduced as a "referee well-versed in hardcore", and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and Chris X.
-This experience in hardcore and deathmatches, as well as a history of taking ref bumps, sometimes resulting in bleeding (e.g. [Feager](@/w/feager.md) vs [Mister Z](@/w/mister-z.md) at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md)) earned him the nickname "Hardcore Referee".
+This experience in hardcore and deathmatches, as well as a history of taking ref bumps, sometimes resulting in bleeding (e.g. [Feager](@/w/feager.md) vs [Mister Z](@/w/mister-z.md) at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md)) earned him the nickname "Hardcore Referee". He later put that on a T-shirt, thus becoming the second Polish referee to sell his merchandise (after [Krystian Czekaj](@/w/krystian-czekaj.md)).
 
 [kornel-interview]: https://www.youtube.com/watch?v=jPEISp3JvoU
