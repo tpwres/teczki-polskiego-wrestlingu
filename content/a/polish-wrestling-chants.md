@@ -60,7 +60,7 @@ Translations, explanations and pronunciations are provided.
 * _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. \
   &#9205; [sˈɛɲd͡ʑa xˈuj](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=S%C4%99dzia+chuj&sl=pl&ttsMode=sentence&speed=3)
 * _Sędzia super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out. \
-  &#9205; [sˈɛɲd͡ʑa sˈupɛr](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=S%C4%99dzia+super&sl=pl&ttsMode=sentence&speed=3)
+  &#9205; [sˈɛɲd͡ʑa jˈɛst sˈupɛr](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=S%C4%99dzia+jest+super&sl=pl&ttsMode=sentence&speed=3)
 * _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. \
   &#9205; [bˈɨwɔ tʃˈɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=By%C5%82o+trzy&sl=pl&ttsMode=sentence&speed=3)
 
