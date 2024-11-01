@@ -29,4 +29,5 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}

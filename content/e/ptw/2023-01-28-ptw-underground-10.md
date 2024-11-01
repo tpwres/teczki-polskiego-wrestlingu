@@ -29,6 +29,7 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Rafał](@/w/alex-brave.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}
 
 ### References

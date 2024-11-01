@@ -32,6 +32,7 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
 #### Recap

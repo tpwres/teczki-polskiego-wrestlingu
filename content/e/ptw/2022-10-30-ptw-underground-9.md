@@ -37,6 +37,7 @@ This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/alex-brave.md)'
+    Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
 #### Recap

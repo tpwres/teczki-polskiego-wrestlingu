@@ -26,6 +26,7 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
 ### Aftermath
