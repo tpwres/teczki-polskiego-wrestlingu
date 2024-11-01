@@ -5,7 +5,7 @@ weight = 7
 authors = ["Szymon Iwulski"]
 +++
 
-In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from the perceived mismanagement of the company, and [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) lacking abilit to book properly. This article elaborates on that crisis, touched upon in the [main article](@/o/ptw.md#post-gold-rush-crisis), and the numerous people who [left PTW](@/a/ptw-exits.md) as a result.
+In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from the perceived mismanagement of the company, and [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) poor booking. This article elaborates on that crisis, touched upon in the [main article](@/o/ptw.md#post-gold-rush-crisis), and the numerous people who [left PTW](@/a/ptw-exits.md) as a result.
 
 <!-- more -->
 
