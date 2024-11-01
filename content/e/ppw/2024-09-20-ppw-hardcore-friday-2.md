@@ -88,7 +88,7 @@ city = "Warszawa"
 
 * Referee of the match: Seweryn.
 * [Jacob Crane](@/w/jacob-crane.md) is out first, making a babyface entrance. [Marcelito](@/w/marcelito.md) is next. They start trading technical offense.
-* Crowd starts singing, but it's unrelated to the match - it's now 21:37 and the song is ["Barka"](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore).
+* Crowd starts singing, but it's unrelated to the match - [it's now 21:37](@/a/polish-wrestling-chants.md) and the song is ["Barka"](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore).
 * Marcelito releases himself from Crane's grip and starts his sequence of striking moves. Satellite DDT on Crane but only a two-count. Crane back with his offense, Emerald Flowsion for a three-count. Winner: Jacob Crane
 * Crane grabs a mic for a promo; he appreciates the crowd liking his posterior and poses for the fans. He announces leaving for Japan for next 6 months, thanks the fans and wishes them fun for the rest of the show.
 
