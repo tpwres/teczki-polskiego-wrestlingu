@@ -23,7 +23,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex. \
   {% ipa(tts="Chuj ci w dupę") %}xˈuj t͡ɕˈi vˈɨ dˈupɛ{% end %} 🌶️🌶️
 * _Kurwy i śmiecie, z [miasta] nie wyjedziecie_ - "Motherfuckers, you ain't leaving [city] alive": used against heels, especially billed from out of town. \
-  {% ipa(tts="Kurwy i śmiecie, z [miasta] nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
+  {% ipa(tts="Kurwy i śmiecie, z miasta nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
 * _[Miasto], a gdzie to kurwa jest?_ - "[City], where the fuck is that?": used to insult a heel's hometown. \
   May need extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s four-syllable hometown of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
   {% ipa(tts="[Miasto] a gdzie to kurwa jest") %}&#91;mʲˈastɔ&#93;, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?{% end %} 🌶️🌶️
