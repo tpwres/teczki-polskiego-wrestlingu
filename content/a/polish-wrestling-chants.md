@@ -89,7 +89,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 ## Songs
 
-* _Panie, któryś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by the Polish Pope John Paul&nbsp;II. Fans may start to randomly sing it at 21:37 (9:37&nbsp;PM), the exact hour of his death. It is not in the Pope's memory, however, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
+* _Pan kiedyś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by the Polish Pope John Paul&nbsp;II. Fans may start to randomly sing it at 21:37 (9:37&nbsp;PM), the exact hour of his death. It is not in the Pope's memory, however, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
   Sometimes also sang for [Greg](@/w/greg.md) of [Kombat Pro Wrestling](@/o/kpw.md) in his Pope of Polish Wrestling gimmick - which he seemed to enjoy.
 * _Mam tak samo jak ty_: [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI) by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin.
 
