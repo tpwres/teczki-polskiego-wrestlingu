@@ -83,7 +83,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is: \
   &ndash; Announcer: _Pochodzący z [miasta], ważący [ilość] kilogramów_ ("Hailing from [city], weighing in at [amount] kilograms.") \
   &ndash; Crowd: _Mało!_ \
-  {% ipa(tts="Mało!") %}mˈawɔ!{% end %} \
+  {% ipa(tts="Mało!") %}mˈawɔ{% end %} \
   Rarely, if a wrestler is especially massive, the crowd might respond _Dużo_, "Plenty". \
   {% ipa(tts="Dużo!") %}dˈuʒɔ{% end %}
 
