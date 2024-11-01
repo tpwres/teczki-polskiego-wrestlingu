@@ -9,65 +9,71 @@ This is a short guide to Polish wrestling crowd chants.
 
 <!-- more -->
 
-Translations, explanations and pronunciations are provided.
+Translations, explanations and pronunciations are provided. Additionally, since many of the chants use crude language, the number of chilli pepper emojis (🌶️) following the IPA pronunciation link indicates how strong the expletives are.
+
+* No peppers - neutral
+* One pepper 🌶️ - mild profanity
+* Two peppers 🌶️🌶️️️ - crude language
+* Three peppers 🌶️🌶️🌶️️ - strong profanity
 
 ## General expletives
 
 * _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
-  &#9205; [vˌɨpʲɛrdˈalaj](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Wypierdalaj&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Wypierdalaj") %}vˌɨpʲɛrdˈalaj{% end %} 🌶️🌶️
 * _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex. \
-  &#9205; [xˈuj t͡ɕˈi vˈɨ dˈupɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+ci+w+dup%C4%99&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Chuj ci w dupę") %}xˈuj t͡ɕˈi vˈɨ dˈupɛ{% end %} 🌶️🌶️
 * _Kurwy i śmiecie, z [miasta] nie wyjedziecie_ - "Motherfuckers, you ain't leaving [city] alive": used against heels, especially billed from out of town. \
-  &#9205; [kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Kurwy+i+%C5%9Bmiecie%2C+z+%5Bmiasta%5D+nie+wyjedziecie&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Kurwy i śmiecie, z [miasta] nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
 * _[Miasto], a gdzie to kurwa jest?_ - "[City], where the fuck is that?": used to insult a heel's hometown. \
-  Sometimes padded with extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s hometown of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
-  &#9205; [&#91;mʲˈastɔ&#93;, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=%5BMiasto%5D%2C+a+gdzie+to+kurwa+jest%3F&sl=pl&ttsMode=sentence&speed=3) \
+  May need extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s four-syllable hometown of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
+  {% ipa(tts="[Miasto] a gdzie to kurwa jest") %}&#91;mʲˈastɔ&#93;, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?{% end %} 🌶️🌶️
 * _Chuj ci na imię, hej [wrestler], chuj ci na imię_ - roughly equivalent to the British "[Wrestler] is a wanker" chant, although the expletive is stronger (lit. "Dick's your name"). \
-  &#9205; [xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;vrˈɛstlɛr&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+ci+na+imi%C4%99%2C+hej+%5Bwrestler%5D%2C+chuj+ci+na+imi%C4%99&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="") %}xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;vrˈɛstlɛr&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ{% end %} 🌶️️🌶️
 
 ## Praise
 
 * _Zajebiste_ - "This is awesome", although more vulgar. \
-  &#9205; [zˌajɛbʲˈistɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zajebiste&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Zajebiste") %}zˌajɛbʲˈistɛ{% end %} 🌶️
 * _[Wrestler] jest zajebisty_ - "[Wrestler] is awesome": most often to the tune of "Seven Nation Army". \
-  &#9205; [&#91;vrˈɛstlɛr&#93; jˈɛst zˌajɛbʲˈistɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=%5BWrestler%5D+jest+zajebisty&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="[Wrestler] jest zajebisty") %}&#91;vrˈɛstlɛr&#93; jˈɛst zˌajɛbʲˈistɨ{% end %} 🌶️
 
 ## Calls to action
+
 * _Chcemy krwi_ - "We want blood": the crowd wants someone to start bleeding. \
-  &#9205; [xt͡sˈɛmɨ krfˈi](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chcemy+krwi&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Chcemy krwi") %}xt͡sˈɛmɨ krfˈi{% end %}
 * _Przemoc_ - "Violence": encouraging exactly that. \
-  &#9205; [pʃˈɛmɔt͡s](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Przemoc&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Przemoc") %}pʃˈɛmɔt͡s{% end %}
 * _Zabij go_ - "Kill him": encouraging offense. \
-  &#9205; [zˈabʲij ɡˈɔ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zabij+go&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Zabij go") %}zˈabʲij ɡˈɔ{% end %}
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
-  &#9205; [zˈajɛp ɡˈɔ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zajeb+go&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Zajeb go") %}zˈajɛp ɡˈɔ{% end %} 🌶️
 * _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop. \
-  &#9205; [zjˈɛt͡s mˈu wˈɛp](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zjedz+mu+%C5%82eb&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Zjedz mu łeb") %}zjˈɛt͡s mˈu wˈɛp{% end %}
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
-  &#9205; [ˈurvij mˈu wˈɛp](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Urwij+mu+%C5%82eb&sl=pl&ttsMode=sentence&speed=3)
-* _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you whore": when a babyface receives too much punishment. \
+  {% ipa(tts="Urwij mu łeb") %}ˈurvij mˈu wˈɛp{% end %}
+* _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you bitch": when a babyface receives too much punishment. \
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". \
-  &#9205; [zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Zostaw+%5Bwrestlera%5D%2C+ty+kurwo%2C+zostaw+%5Bwrestlera%5D&sl=pl&ttsMode=sentence&speed=3)
-* _Jedziesz z tą kurwą, hej [wrestler], jedziesz z tą kurwą_ - "Fuck this whore up, [wrestler]": encouraging offense and insulting the opponent at the same time. \
-  &#9205; [jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Jedziesz+z+t%C4%85+kurw%C4%85%2C+hej+%5Bwrestler%5D%2C+jedziesz+z+t%C4%85+kurw%C4%85&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]") %}zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;{% end %} 🌶️🌶️
+* _Jedziesz z tą kurwą, hej [wrestler], jedziesz z tą kurwą_ - "Fuck this bitch up, [wrestler]": encouraging offense and insulting the opponent at the same time. \
+  {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
-  &#9205; [pˈɔkaʃ dˈupɛ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Poka%C5%BC+dup%C4%99&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
-  &#9205; [tʃˈɛt͡ɕa lˈina](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Trzecia+lina&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 
 ## Referee
 
 * _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. \
-  &#9205; [sˈɛɲd͡ʑa xˈuj](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=S%C4%99dzia+chuj&sl=pl&ttsMode=sentence&speed=3)
-* _Sędzia super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out. \
-  &#9205; [sˈɛɲd͡ʑa jˈɛst sˈupɛr](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=S%C4%99dzia+jest+super&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Sędzia Chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️
+* _Sędzia jest super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out. \
+  {% ipa(tts="Sędzia jest super") %}sˈɛɲd͡ʑa jˈɛst sˈupɛr{% end %}
 * _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. \
-  &#9205; [bˈɨwɔ tʃˈɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=By%C5%82o+trzy&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Było trzy") %}bˈɨwɔ tʃˈɨ{% end %}
 
 ## Weapons
 
 * _Więcej krzeseł_ - "Bring more chairs": when the current number is not enough. \
-  &#9205; [vʲˈɛnt͡sɛj kʃˈɛsɛw](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Wi%C4%99cej+krzese%C5%82&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Więcej krzeseł") %}vʲˈɛnt͡sɛj kʃˈɛsɛw{% end %}
 
 ## Intros
 
@@ -90,24 +96,24 @@ Translations, explanations and pronunciations are provided.
 ## Wrestler-specific
 
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "retard" or "loser". \
-  &#9205; [mˈistɛr zjˈɛp](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Mister+Zjeb&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
 * _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
-  &#9205; [pˈapʲɛʃ pˈɔlak](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Papie%C5%BC+Polak&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
 * _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
-  &#9205; [pˈɔlski lˈis](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Polski+lis&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Polski lis") %}pˈɔlski lˈis{% end %}
 * _Wiedźmin 4_ - "Witcher 4": [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior. \
-  &#9205; [vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Wied%C5%BAmin+cztery&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Wiedźmin Cztery") %}vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ{% end %}
 * _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
-  &#9205; [fˈat͡sɛt vˈɨ ɡˈat͡ɕax](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Facet+w+gaciach&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
 * _Siła przyjaźni_ - "Power of friendship": [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). \
-  &#9205; [ɕˈiwa pʃɨjˈaʑɲi](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Si%C5%82a+przyja%C5%BAni&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Siła przyjaźni") %}ɕˈiwa pʃɨjˈaʑɲi{% end %}
 * _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. \
-  &#9205; [bˈuk jˈɛst wˈɨsɨ](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=B%C3%B3g+jest+%C5%82ysy&sl=pl&ttsMode=sentence&speed=3) \
+  {% ipa(tts="Bóg jest łysy") %}bˈuk jˈɛst wˈɨsɨ{% end %} \
   Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one. \
-  &#9205; [bˈuk mˈa vˈɔ̃sa](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=B%C3%B3g+ma+w%C4%85sa&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Bóg ma wąsa") %}bˈuk mˈa vˈɔ̃sa{% end %}
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it": a pro-marijuana chant. Used against [Tony Sk1n](@/w/tony-sk1n.md), who was straight-edge. \
-  &#9205; [sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Sadzi%C4%87%21+Pali%C4%87%21+Zalegalizowa%C4%87%21&sl=pl&ttsMode=sentence&speed=3)
-* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the whore's ain't gonna mind": insulting Łódź, a city in central Poland and the hometown of [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). A stadium chant against their football clubs. \
-  &#9205; [xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Chuj+w+dup%C4%99+%C5%81odzi%2C+tej+kurwie+nic+nie+zaszkodzi&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Sadzić Palić Zalegalizować") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
+* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland and the hometown of [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). A stadium chant against their football clubs. \
+  {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
-  &#9205; [lˈɛɡja tˈɔ stˈara kˈurva](https://unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&voiceId=Maja&text=Legia+to+stara+kurwa&sl=pl&ttsMode=sentence&speed=3)
+  {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️️
