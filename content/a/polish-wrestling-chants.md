@@ -28,7 +28,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   May need extra words to match the rhythm. For [Gustav Gryffin](@/w/gustav-gryffin.md)'s four-syllable hometown of Bartoszyce no padding is needed, but for [Isnorr](@/w/isnorr.md)'s Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
   {% ipa(tts="[Miasto] a gdzie to kurwa jest") %}&#91;mʲˈastɔ&#93;, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?{% end %} 🌶️🌶️
 * _Chuj ci na imię, hej [wrestler], chuj ci na imię_ - roughly equivalent to the British "[Wrestler] is a wanker" chant, although the expletive is stronger (lit. "Dick's your name"). \
-  {% ipa(tts="") %}xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;vrˈɛstlɛr&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ{% end %} 🌶️️🌶️
+  {% ipa(tts="Chuj ci na imię, hej [wrestler], chuj ci na imię") %}xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;vrˈɛstlɛr&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ{% end %} 🌶️️🌶️
 
 ## Praise
 
@@ -64,7 +64,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 ## Referee
 
 * _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. \
-  {% ipa(tts="Sędzia Chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️
+  {% ipa(tts="Sędzia chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️🌶️
 * _Sędzia jest super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out. \
   {% ipa(tts="Sędzia jest super") %}sˈɛɲd͡ʑa jˈɛst sˈupɛr{% end %}
 * _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. \
@@ -102,7 +102,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
   {% ipa(tts="Polski lis") %}pˈɔlski lˈis{% end %}
 * _Wiedźmin 4_ - "Witcher 4": [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior. \
-  {% ipa(tts="Wiedźmin Cztery") %}vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ{% end %}
+  {% ipa(tts="Wiedźmin cztery") %}vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ{% end %}
 * _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
   {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
 * _Siła przyjaźni_ - "Power of friendship": [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). \
@@ -112,7 +112,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one. \
   {% ipa(tts="Bóg ma wąsa") %}bˈuk mˈa vˈɔ̃sa{% end %}
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it": a pro-marijuana chant. Used against [Tony Sk1n](@/w/tony-sk1n.md), who was straight-edge. \
-  {% ipa(tts="Sadzić Palić Zalegalizować") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
+  {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
 * _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland and the hometown of [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). A stadium chant against their football clubs. \
   {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
