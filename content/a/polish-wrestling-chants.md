@@ -64,7 +64,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 ## Referee
 
 * _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. \
-  {% ipa(tts="Sędzia chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️
+  {% ipa(tts="Sędzia chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️🌶️
 * _Sędzia jest super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out. \
   {% ipa(tts="Sędzia jest super") %}sˈɛɲd͡ʑa jˈɛst sˈupɛr{% end %}
 * _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. \
