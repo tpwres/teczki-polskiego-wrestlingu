@@ -25,6 +25,8 @@ Lesak also formed a tag team with Chemik, initially losing to the Fux Brothers a
 
 At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becoming the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).
 
+On 2.11.2024, chemik [issued an open challenge][yt-chemik-challenge] for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at the [first Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md).
+
 ## Internet presence
 
 * [@chemikkpw on Instagram](https://instagram.com/chemikkpw)
@@ -34,3 +36,6 @@ At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becom
 
 * [KPW's Bianca interviewing Chemik](https://www.youtube.com/watch?v=K7J0zvAK264) (in Polish)
 * [A fragment of Godzina Zero 2016](https://youtu.be/wmAyKa51clM?si=2YCEPHWYSpdoTR3a&t=65), with young Chemik in the audience (1:05 mark, next to Robert on the right side)
+
+[yt-chemik-challenge]: https://www.youtube.com/watch?v=QwlnIhkcN40
+
