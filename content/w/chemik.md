@@ -25,7 +25,7 @@ Lesak also formed a tag team with Chemik, initially losing to the Fux Brothers a
 
 At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becoming the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).
 
-On 2.11.2024, chemik [issued an open challenge][yt-chemik-challenge] for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at the [first Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md).
+On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at the [first Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md).
 
 ## Internet presence
 
