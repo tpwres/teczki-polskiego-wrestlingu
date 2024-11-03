@@ -42,9 +42,15 @@ mensch_links = [
   { path = "@/a/_index.md", name = "Articles", icon = "book" },
   { path = "@/v/_index.md", name = "Places", icon = "map-pin" },
   { path = "@/c/_index.md", name = "Championships", icon = "award" },
-  { path = "@/a/contributing.md", name = "Contribute", icon = "edit" },
-  # { url = "//github.com/k3rni/teczki-polskiego-wrestlingu", name = "GitHub", icon="github" }
 ]
+
+footer_links = [
+  { path = "@/about.md", name = "About", icon = "info"},
+  { path = "@/a/contributing.md", name = "Contributing", icon = "edit"},
+  { url = "//github.com/tpwres/teczki-polskiego-wrestlingu", name = "GitHub", icon = "github"},
+  { path = "@/authors.md", name = "Authors", icon = "heart" }
+]
+
 mensch_theme = "theme-base-0e"
 cloudflare = true
 gallery_root = "https://i.tpwres.pl"

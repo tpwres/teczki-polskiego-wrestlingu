@@ -11,30 +11,16 @@
     and lots of <span class="coffee">☕</span>
   </p>
   <p>
-    <a href="{{ get_url(path='@/about.md') }}">
-      <svg class="feather-inline" title="About">
-        <use href="{{ sprite }}#info"/>
+  {% for link in config.extra.footer_links %}
+    {% set dest = link.url | default(value=get_url(path=link.path))%}
+    <a href="{{ dest }}" {% if link.newtab %} target="_blank"{% endif %}>
+      <svg class="feather-inline" title="{{ link.name }}">
+        <use href="{{ sprite }}#{{ link.icon }}"/>
       </svg>
-      About
-    </a> |
-    <a href="{{ get_url(path='@/a/contributing.md') }}">
-      <svg class="feather-inline" title="Contributing">
-        <use href="{{ sprite }}#edit"/>
-      </svg>
-      Contributing
-    </a> |
-    <a href="//github.com/k3rni/teczki-polskiego-wrestlingu">
-      <svg class="feather-inline" title="GitHub">
-        <use href="{{ sprite }}#github"/>
-      </svg>
-      GitHub
-    </a> |
-    <a href="{{ get_url(path='@/authors.md') }}">
-      <svg class="feather-inline" title="Authors">
-        <use href="{{ sprite }}#info"/>
-      </svg>
-      Authors
+      {{ link.name }}
     </a>
+    {% if not loop.last %} | {% endif %}
+  {% endfor %}
   </p>
 </footer>
 
