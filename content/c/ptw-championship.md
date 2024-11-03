@@ -79,4 +79,14 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Puncher's Open Challenge
     en: '[PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md)'
     ed: 2024-07-07
+- - 'Puncher(c)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - s: Singles Match
+    en: '[PTW Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md)'
+    ed: 2024-09-29
+- - 'Puncher(c)'
+  - 'Tucker'
+  - s: Singles Match
+    en: '[PTW Underground 23: Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md)'
+    ed: 2024-10-19
 {% end %}
