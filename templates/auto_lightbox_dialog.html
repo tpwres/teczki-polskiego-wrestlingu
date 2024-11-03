@@ -35,7 +35,7 @@
       {% set caption = item | get(key="caption", default="") -%}
       <li>
         <figure id="fig{{ loop.index }}" data-path="{{ root ~ path }}">
-          <a href="#img{{ loop.index }}">
+          <a href="#img{{ loop.index }}" class="tn">
             <img src="{{ root ~ 'tn/' ~ path }}" alt=""/>
           </a>
 
@@ -95,13 +95,13 @@
 
   const showLightbox = (ev) => {
     const dialog = document.querySelector('dialog#lb')
-    const figure = ev.currentTarget
+    const figure = ev.currentTarget.closest('figure')
     updateLightbox(dialog, figure)
     dialog.showModal()
     ev.preventDefault()
   }
   document.addEventListener('DOMContentLoaded', (ev) => {
-    document.querySelectorAll("[id^=fig]").forEach((el) => {
+    document.querySelectorAll("[id^=fig] a.tn").forEach((el) => {
       el.addEventListener('click', showLightbox)
     })
 
