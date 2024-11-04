@@ -45,7 +45,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
     Host, Ring Announcer, General Manager, Guest Commentary: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
-    Guest commentary: Olgierd, Marco Hammers (during other people's matches)
+    Guest commentary: Olgierd, Marco Hammers
     Sponsor representative: Łukasz Okoński, for Comedy Show
 {% end %}
 
