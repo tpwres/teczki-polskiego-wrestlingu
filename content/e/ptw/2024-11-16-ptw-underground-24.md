@@ -17,6 +17,9 @@ city = "Kozłów"
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Jake Omen'
   - nc: upcoming
+- - '[Spartan](@/w/spartan.md)'
+  - 'Aaron Williams'
+  - nc: upcoming
 {% end %}
 
 ### References
