@@ -13,7 +13,7 @@ city = "Warszawa"
 3 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._", source = "Official PpW Facebook" }
 +++
 
-"Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It took place in a brand new venue - a post-industrial complex at Mińska 65 in Warsaw.
+"Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It took place in a brand new venue - a post-industrial complex at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
 
 Just like most of PpW's bigger shows, this event was streamed live on their YouTube channel for free.
 
