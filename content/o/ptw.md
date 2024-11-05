@@ -172,7 +172,7 @@ PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the annou
 On August 15, 2024, Okoński posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
 The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Baba-Thunder.
 In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled, although the shows are not aired live as previously, but rather taped with a promise of later release.
-Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host, who was also confirmed to be the third of the new commentary team.
+Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host. Resivny was also confirmed to be the third of the new commentary team.
 
 On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
 
