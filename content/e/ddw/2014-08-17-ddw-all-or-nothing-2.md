@@ -48,7 +48,8 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
   - '[Don Roid](@/w/don-roid.md)'
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Renegade](@/w/renegade.md)'
-  - c: '[DDW International Championship](@/c/ddw-international-championship.md)", s: Tournament Final Match'
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
+    s: 'Tournament Final Match'
 {% end %}
 
 Attendance: about 120
