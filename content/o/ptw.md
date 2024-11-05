@@ -213,7 +213,7 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 PTW's talent made an appearance in Young Multi's [video][young-multi-ak47] for the song "AK47".
 The video features Pawłowski giving a pep-talk to Multi and his band, as well as scenes of PTW wrestlers hitting their moves in the ring, intercut with clips of the band.
 Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#Post-Ryucon-New-venue-PTW-back-on-track) is located.
-Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), Miyagi Shida and [Diana Strong](@/w/diana-strong.md).
+Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Diana Strong](@/w/diana-strong.md).
 In August 2024, PTW launched their new show, "Czas na Wrestling" ("Time for Wrestling") on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage](https://telewizjatvt.pl/?s=czas+na+wrestling)
 
 ## Internet presence
