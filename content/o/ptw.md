@@ -178,7 +178,7 @@ On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on t
 
 ## Polish wrestling scene
 
-PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md) or [MCW](@/o/mcw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
+PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) or [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
 Talent were strictly prohibited from appearing in any other Polish rings, and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-exits.md), where the talent wanted to have more freedom and to be able to take bookings from other Polish organizations.
