@@ -190,7 +190,7 @@ One of the main selling points of PTW, differentiating them from their competiti
 At [PTW 3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) it was announced that [Santino Marella](@/w/santino.md), former long-time WWE star, would become one of the organization's co-owners.
 This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW 5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator, and suprise entrant in the Gold Rush Rumble.
 
-Later, PTW entered into collaboration with Austrian wrestler Krampus and his new organization called "World Wrestling Austria".
+Later, PTW entered into collaboration with Austrian wrestler Krampus and his new organization, World Wrestling Austria.
 It was quickly renamed to _PTW: WWA_ and became a de facto "sister federation" ran by Krampus with assistance from Pawłowski.
 This cooperation allowed PTW talent to be booked at the PTW: WWA show on 2024-01-05.
 See the [Expansion into Austria](#expansion-into-austria) section above.
