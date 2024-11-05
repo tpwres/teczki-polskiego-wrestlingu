@@ -19,7 +19,7 @@ This move prompted PTW wrestler [Taras](@/w/taras.md) to seemingly cut his ties 
 
 ## Backlash
 
-Other PTW personalities, such as [Disco Pablo](@/w/disco-pablo.md), ex-commentator Piotr Małecki, and current commentator Arek Paterek, also addressed the situation.
+Other PTW personalities, such as [Disco Pablo](@/w/disco-pablo.md), ex-commentator [Piotr Małecki](@/w/piotr-malecki.md), and current commentator Arek Paterek, also addressed the situation.
 Their posts ranged from vague references to open critique. After Pablo and Taras made their comments, fans speculated about Pablo leaving PTW as well, which Pablo strongly denied.
 Some fans also alleged that Taras's current frustration was a result of losing the PTW Tag Team Championship, which he also denied.
 
