@@ -153,13 +153,13 @@ On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://ww
 
 On Thursday June 13th, PTW has taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that Axel Fox, a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before.
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawłowski confirmed that Axel Fox, a popular babyface, had also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before.
 
 #### Soft reboot: Ryucon, new co-owner
 
 Breaking the silence, Pawłowski promised that the Ryucon show will be a new opening for PTW.
 The non-televised show included many new faces, both from [PTW Academy](@/o/ptw-academy.md) and foreign free agents.
-During the show, Łukasz "Prezes" Okoński, owner of Dworek Pod Platanem where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) was held, was announced as PTW's new co-owner.
+During the show, Łukasz Okoński, the owner of Dworek Pod Platanem where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) was held, was announced as PTW's new co-owner.
 This change was not reflected in official registration documents (as of August 21, 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
 Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media. Renamed Łukasz "Prezes" Okoński, he gradually increased his presence, appearing on virtually every show and taking part in segments.
 
@@ -171,8 +171,8 @@ It featured a panel where Pawłowski led the discussion with two guests: Okońsk
 PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in Kozłów, which now appeared to be PTW's new base of operations.
 On August 15, 2024, Okoński posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
 The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Baba-Thunder.
-In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled. Though the shows are not aired live as previously, they are taped with a promise of later release.
-Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host, he was also confirmed to be a third of the new commentary team.
+In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled, although the shows are not aired live as previously, but rather taped with a promise of later release.
+Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host, who was also confirmed to be the third of the new commentary team.
 
 On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
 
