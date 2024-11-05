@@ -22,7 +22,7 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
   - '[Bianca](@/w/bianca.md)'
   - '[Don Roid](@/w/don-roid.md)'
   - g: true
-    s: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) boasts about his importance an accomplishments, gets fired by [Don Roid](@/w/don-roid.md).'
+    s: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) boasts about his importance and accomplishments, gets fired by [Don Roid](@/w/don-roid.md).'
 - - '[Renegade](@/w/renegade.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: 'DDW International Championship Tournament First Round Match'
@@ -48,7 +48,8 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
   - '[Don Roid](@/w/don-roid.md)'
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Renegade](@/w/renegade.md)'
-  - c: 'DDW International Championship", s: Tournament Final Match'
+  - c: DDW International Championship
+    s: Tournament Final Match
 {% end %}
 
 Attendance: about 120
