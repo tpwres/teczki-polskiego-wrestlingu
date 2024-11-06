@@ -159,7 +159,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 Instagram
-- - Marcin Rzeźniczek (co-founder)
+- - 'Marcin Rzeźniczek (co-founder)'
   - 2020
   - n/a
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
