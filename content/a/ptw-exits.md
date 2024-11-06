@@ -23,9 +23,9 @@ Notably absent from the list and still on the roster:
 [Max Speed](@/w/max-speed.md),
 [King Kaiden](@/w/king-kaiden.md).
 
-Others still on the roster as of July 2024: Vincent Caravaggio, [Spartan](@/w/spartan.md), Arczi Czajka, Alex Brave.
+Others still on the roster as of July 2024: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md), Arczi Czajka, [Alex Brave](@/w/alex-brave.md).
 
-The table below is sorted chronologically by estimated exit date.
+The table below is sorted chronologically by the estimated exit date.
 
 {% churn() %}
 - - '**[Jacob Crane](@/w/jacob-crane.md)**'
@@ -52,7 +52,7 @@ The table below is sorted chronologically by estimated exit date.
   - 2022 ([MZW](@/o/mzw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2023-10-03 Instagram - see gallery
+  - 2023-10-03 Instagram - see gallery below
 - - '[Samson](@/w/samson.md)'
   - 2022
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
@@ -117,7 +117,7 @@ The table below is sorted chronologically by estimated exit date.
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [Instagram](@/o/ptw.md#img-27)
+  - 2024-06 [Instagram](@/a/ptw-exits.md#img-22)
 - - '[Sambor](@/w/sambor.md)'
   - 2023
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
@@ -139,17 +139,17 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
-- - Arek Paterek (commentary)
+- - '[Arek Paterek](@/w/arek-paterek.md)' (commentary)
   - 2021
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 Twitter
-- - Łukasz Baliński (commentary)
+- - '[Łukasz Baliński](@/w/lukasz-balinski.md)' (commentary)
   - ??
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 WrestleOne Youtube
-- - Piotr "ShowOff" Małecki (commentary, social media)
+- - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)' (commentary, social media)
   - ??
   - ??
   - ??
@@ -159,7 +159,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 Instagram
-- - Marcin Rzeźniczek (cofounder)
+- - Marcin Rzeźniczek (co-founder)
   - 2020
   - n/a
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
@@ -184,12 +184,12 @@ It was also announced that more roster cuts are to follow, especially after "Sea
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024. During an [interview][robert-star-interview] for the Istota Wrestlingu YouTube channel, Robert confirmed his departure from PTW.
 
-On February 12th, 2024, PTW commentary team member Piotr "ShowOff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
+On February 12th, 2024, PTW commentary team member [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
 
 ### 2024: Gold Rush and Total Blast From The Past
 
-Right after [Total Blast](@/e/ptw/2024-05-11-ptw-6.md), long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
-On May 25th 2024, Paterek and Łukasz "Balik" Baliński (who also does commentary for PTW events) appeared on the relaunched _WrestleOne_ YouTube channel, ran by a wrestling influencer and one-time freak fighter, Patryk "Patrykos" Domke.
+Right after [Total Blast](@/e/ptw/2024-05-11-ptw-6.md), long-time PTW commentator [Arkadiusz Paterek](@/w/arek-paterek.md) confirmed his departure in a [tweet][paterek-tweet].
+On May 25th 2024, Paterek and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md) (who also does commentary for PTW events) appeared on the relaunched _WrestleOne_ YouTube channel, ran by a wrestling influencer and one-time freak fighter, Patryk "Patrykos" Domke.
 In a livestream originally focused on an upcoming WWE event in Saudi Arabia, both Paterek and Balik briefly mentioned their PTW tenures.
 Around the 13:50 timestamp, Balik confirms his departure from PTW as well.
 According to Paterek, this means that all the original commentary team members have now left.
