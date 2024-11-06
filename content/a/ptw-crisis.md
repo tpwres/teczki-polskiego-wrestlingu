@@ -34,7 +34,7 @@ During this time PTW remained silent, attempted to control the situation by dele
 As this post-Gold Rush crisis was developing, PTW's social media channels remained silent.
 
 PTW Champion [Puncher](@/w/puncher.md)'s Instagram account posted a cryptic message stating "Chapter closed".
-This led to fans speculating that he may be the next one to leave PTW, but this turned out not to be the case.
+This led to fans speculating that he may be the next one to leave PTW, but it turned out not to be the case.
 On May 17th 2024, he tweeted a [long statement][puncher-statement] comprising three screenshots where he described his road to championship, all the sacrifices he made, and accepted the blame for the PTW#6 and lottery flops.
 However, he also included passive-aggressive remarks about "disloyal" members of the locker room, and excessive fan criticism halting the growth of wrestling in Poland.
 Reactions to that statement were mixed, ranging from praise to mockery.
@@ -69,7 +69,7 @@ The two continued to trash-talk each other, blaming one another and Pawłowski r
 Eventually Pawłowski made his leave, while Ludwiczek remained in the panel he was invited to.
 
 In a [follow-up interview with Puncher][followup-puncher], he called Ludwiczek a liar and asked about a potential fight between them.
-Puncher said that while some people find wrestling to be cringey, he actually finds freak fights cringey, adding "but who wouldn't like to punch Ludwiczek?".
+Puncher said that while some people find wrestling to be cringey, he actually finds freak fights cringey, adding "but who wouldn't like to punch Ludwiczek?"
 
 Another [follow-up interview with Pawłowski][followup-pawlowski] had Arkadiusz speaking in a trembling voice about a series of recent disasters in his life - health issues, his father's terminal illness, PTW business dwindling.
 He declared that he's not going to stay down on his knees, but instead rebuild his life and PTW, because it's in his nature.
