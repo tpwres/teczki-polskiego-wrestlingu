@@ -139,17 +139,17 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
-- - '[Arek Paterek](@/w/arek-paterek.md)' (commentary)
+- - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
   - 2021
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 Twitter
-- - '[Łukasz Baliński](@/w/lukasz-balinski.md)' (commentary)
+- - '[Łukasz Baliński](@/w/lukasz-balinski.md) (commentary)'
   - ??
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 WrestleOne Youtube
-- - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)' (commentary, social media)
+- - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) (commentary, social media)'
   - ??
   - ??
   - ??
