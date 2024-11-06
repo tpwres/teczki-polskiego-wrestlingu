@@ -35,7 +35,7 @@ As this post-Gold Rush crisis was developing, PTW's social media channels remain
 
 PTW Champion [Puncher](@/w/puncher.md)'s Instagram account posted a cryptic message stating "Chapter closed".
 This led to fans speculating that he may be the next one to leave PTW, but it turned out not to be the case.
-On May 17th 2024, he tweeted a [long statement][puncher-statement] comprising three screenshots where he described his road to championship, all the sacrifices he made, and accepted the blame for the PTW#6 and lottery flops.
+On May 17th, 2024, he tweeted a [long statement][puncher-statement] comprising three screenshots where he described his road to championship, all the sacrifices he made, and accepted the blame for the PTW#6 and lottery flops.
 However, he also included passive-aggressive remarks about "disloyal" members of the locker room, and excessive fan criticism halting the growth of wrestling in Poland.
 Reactions to that statement were mixed, ranging from praise to mockery.
 This launched a wave of similar, shorter statements from other roster members, claiming they're going to stay with PTW through thick and thin, and would rather go down together with the organization rather than leave it because of its problems.
@@ -75,7 +75,7 @@ Another [follow-up interview with Pawłowski][followup-pawlowski] had Arkadiusz 
 He declared that he's not going to stay down on his knees, but instead rebuild his life and PTW, because it's in his nature.
 When discussing the events of the panel, Pawłowski dismissed Ludwiczek's challenge to fight him (presumably in Clout MMA's octagon).
 When asked whether he thought it was legitimate, he replied that it's probably legitimate in Ludwiczek's mind, but that he wants nothing more to do with him, and wants Ludwiczek out of his life forever.
-Answering a question on his future plans, he plugged the upcoming PTW x Ryucon show on July 7th 2024. This is the closest thing to an official announcement for this show that fans got so far. PTW's social media accounts were still silent.
+Answering a question on his future plans, he plugged the upcoming PTW x Ryucon show on July 7th, 2024. This is the closest thing to an official announcement for this show that fans got so far. PTW's social media accounts were still silent.
 
 ## Kanał Zero
 
