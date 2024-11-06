@@ -215,19 +215,19 @@ It mostly contained photos of various moments in PTW he was part of, but also se
 The final image in this set was just a black background with text saying "Merci et au revoir" (_Thank you and goodbye_), strongly implying that he left as well.
 
 Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just after his return at Gold Rush, seemingly confirmed his exit through Instagram stories.
-He posted a poll, asking fans whether he should continue wrestling in a "new" place, or return to an "old" place, with [PpW](@/o/ppw.md) marked as "new", and [KPW](@/o/kpw.md) as "old".
+He posted a poll, asking fans whether he should continue wrestling in a "new" place, or return to an "old" one, with [PpW](@/o/ppw.md) marked as "new", and [KPW](@/o/kpw.md) as "old".
 
 On June 8th, Legia Łysych, a tag team consisting of [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), who never announced leaving PTW, made their surprise debut for [PpW](@/o/ppw.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
-On their social media platforms they still appeared to be signed with PTW, as Marco Hammers feuded with Vincent Caravaggio, and both team members released an Instagram story where the neon lights from their Performance Center venue were clearly visible.
+On their social media platforms they still appeared to be signed with PTW, as Marco Hammers feuded with [Vincent Caravaggio](@/w/vincent-caravaggio.md), and both team members released an Instagram story where the neon lights from their Performance Center venue were clearly visible.
 For Olgierd, that debut was also a return - he is a PpW original known previously as Hades.
 The two answered an open challenge issued by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
 This was the culmination of a storyline started back in PTW, where the two teams joined forces to prevent PAKA from becoming the inaugural Tag Team Champions. That plan failed, and the two teams feuded bitterly over it.
 
 On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://www.instagram.com/p/C7_u3gIsgSO/) of himself and his valet Rusałka on his Instagram profile. He thanked the organization, Pawłowski and the fans for helping him on his path to becoming a wrestler. This was also interpreted as his exit from PTW.
 
-On Thursday June 13th, PTW has taken down the roster section of their page.
+On Thursday June 13th, PTW have taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
 
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
