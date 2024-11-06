@@ -15,11 +15,11 @@ city = "Warszawa"
 {% card(predicted=true) %}
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - s: Christmas Street Fight Match
+  - s: 'Christmas Street Fight Match'
     nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Johnny Blade](@/w/johnny-blade.md)(c)'
-  - s: Non-Title Match
+  - s: 'Non-Title Match'
     nc: upcoming
 {% end %}
 
