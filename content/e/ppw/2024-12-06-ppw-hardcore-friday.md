@@ -10,7 +10,8 @@ hide_results = true
 city = "Warszawa"
 +++
 
-"Barszcz z Krzesłami" (_Barszcz with Chairs_) is an upcoming event in [PpW's](@/o/ppw.md) revived Hardcore Friday series. The name of the event is a play on "barszcz z uszkami", a traditional Polish soup [served at Christmas Eve][wigilia].
+"Barszcz z Krzesłami" (_Borscht with Chairs_) is an upcoming event in [PpW's](@/o/ppw.md) revived Hardcore Friday series.
+The name of the event is a play on "barszcz z uszkami", a traditional Polish soup [served at Christmas Eve][wigilia].
 
 {% card(predicted=true) %}
 - - '[Axel Fox](@/w/axel-fox.md)'
