@@ -23,7 +23,7 @@ Notably absent from the list and still on the roster:
 [Max Speed](@/w/max-speed.md),
 [King Kaiden](@/w/king-kaiden.md).
 
-Others still on the roster as of July 2024: Vincent Caravaggio, [Spartan](@/w/spartan.md), Arczi Czajka, Alex Brave.
+Others still on the roster as of July 2024: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md), Arczi Czajka, [Alex Brave](@/w/alex-brave.md).
 
 The table below is sorted chronologically by estimated exit date.
 
