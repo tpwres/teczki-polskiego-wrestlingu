@@ -117,7 +117,7 @@ The table below is sorted chronologically by the estimated exit date.
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [Instagram](@/o/ptw-exits.md#img-22)
+  - 2024-06 [Instagram](@/a/ptw-exits.md#img-22)
 - - '[Sambor](@/w/sambor.md)'
   - 2023
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
