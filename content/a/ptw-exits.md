@@ -212,7 +212,7 @@ Shortly after that, [referee Seweryn](@/w/sedzia-seweryn.md) also confirmed his 
 
 On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance".
 It mostly contained photos of various moments in PTW he was part of, but also several photos with ["the Greens"](@/a/the-greens.md) (an insider group of wrestlers from [MZW](@/o/mzw.md), like himself), some of whom had already quit PTW.
-The final image in this set was just a black background with text saying "Merci et au revoir" (Thank you and goodbye), strongly implying that he left as well.
+The final image in this set was just a black background with text saying "Merci et au revoir" (_Thank you and goodbye_), strongly implying that he left as well.
 
 Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just after his return at Gold Rush, seemingly confirmed his exit through Instagram stories.
 He posted a poll, asking fans whether he should continue wrestling in a "new" place, or return to an "old" place, with [PpW](@/o/ppw.md) marked as "new", and [KPW](@/o/kpw.md) as "old".
