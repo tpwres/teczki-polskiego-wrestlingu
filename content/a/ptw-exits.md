@@ -23,9 +23,9 @@ Notably absent from the list and still on the roster:
 [Max Speed](@/w/max-speed.md),
 [King Kaiden](@/w/king-kaiden.md).
 
-Others still on the roster as of July 2024: Vincent Caravaggio, [Spartan](@/w/spartan.md), Arczi Czajka, Alex Brave.
+Others still on the roster as of July 2024: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md), Arczi Czajka, [Alex Brave](@/w/alex-brave.md).
 
-The table below is sorted chronologically by estimated exit date.
+The table below is sorted chronologically by the estimated exit date.
 
 {% churn() %}
 - - '**[Jacob Crane](@/w/jacob-crane.md)**'
@@ -52,7 +52,7 @@ The table below is sorted chronologically by estimated exit date.
   - 2022 ([MZW](@/o/mzw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2023-10-03 Instagram - see gallery
+  - 2023-10-03 Instagram - see gallery below
 - - '[Samson](@/w/samson.md)'
   - 2022
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
@@ -117,7 +117,7 @@ The table below is sorted chronologically by estimated exit date.
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [Instagram](@/o/ptw.md#img-27)
+  - 2024-06 Instagram - see gallery below
 - - '[Sambor](@/w/sambor.md)'
   - 2023
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
@@ -139,17 +139,17 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
-- - Arek Paterek (commentary)
+- - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
   - 2021
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 Twitter
-- - Łukasz Baliński (commentary)
+- - '[Łukasz Baliński](@/w/lukasz-balinski.md) (commentary)'
   - ??
   - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 WrestleOne Youtube
-- - Piotr "ShowOff" Małecki (commentary, social media)
+- - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) (commentary, social media)'
   - ??
   - ??
   - ??
@@ -159,7 +159,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 Instagram
-- - Marcin Rzeźniczek (cofounder)
+- - 'Marcin Rzeźniczek (co-founder)'
   - 2020
   - n/a
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
@@ -184,14 +184,14 @@ It was also announced that more roster cuts are to follow, especially after "Sea
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024. During an [interview][robert-star-interview] for the Istota Wrestlingu YouTube channel, Robert confirmed his departure from PTW.
 
-On February 12th, 2024, PTW commentary team member Piotr "ShowOff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
+On February 12th, 2024, PTW commentary team member [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
 
 ### 2024: Gold Rush and Total Blast From The Past
 
-Right after [Total Blast](@/e/ptw/2024-05-11-ptw-6.md), long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
-On May 25th 2024, Paterek and Łukasz "Balik" Baliński (who also does commentary for PTW events) appeared on the relaunched _WrestleOne_ YouTube channel, ran by a wrestling influencer and one-time freak fighter, Patryk "Patrykos" Domke.
+Right after [PTW#6](@/e/ptw/2024-05-11-ptw-6.md), long-time PTW commentator [Arkadiusz Paterek](@/w/arek-paterek.md) confirmed his departure in a [tweet][paterek-tweet].
+On May 25th, 2024, Paterek and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md) (who also does commentary for PTW events) appeared on the relaunched _WrestleOne_ YouTube channel, ran by a wrestling influencer and one-time freak fighter, Patryk "Patrykos" Domke.
 In a livestream originally focused on an upcoming WWE event in Saudi Arabia, both Paterek and Balik briefly mentioned their PTW tenures.
-Around the 13:50 timestamp, Balik confirms his departure from PTW as well.
+Around the 13:50 mark, Balik confirms his departure from PTW as well.
 According to Paterek, this means that all the original commentary team members have now left.
 Later he also stated that Pawłowski failed to even read his farewell message, and claims that Paterek has "stabbed him in the back".
 
@@ -199,35 +199,35 @@ On May 31st, PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first epi
 Blaze, who had been a vocal supporter of PTW up to this point, expressed his disappointment with the [Total Blast](@/e/ptw/2024-05-11-ptw-6.md) show, and slowly but surely turned against the project.
 Dziedzic openly appeared under his real name (Kacper Dziedzic), in a shoot-style interview.
 He discussed various backstage topics, from the creation of gimmicks to issues in PTW and the wider Polish scene.
-He supported the vision of _Polish Wrestling Without Boundaries_, a phrase which Pawłowski coined but never truly committed to.
+He supported the vision of _Polish wrestling without boundaries_, a phrase which Pawłowski coined but never truly committed to.
 This concept is about inter-promotional cooperation on the Polish scene.
 Dziedzic alleged that, even if Pawłowski disliked his remarks, he will stay loyal to PTW as that's where his heart is.
 He stated that he's going to attend PTW training on the upcoming Sunday, and face possible consequences.
 
 On Sunday, June 2nd, a rumor was posted on the PTW Facebook fan group that Dziedzic, [Sinister](@/w/sinister.md) and [Marcelito](@/w/marcelito.md) have been released by PTW.
 The fans quickly linked these departures with the shoot interview of Dziedzic.
-On the next day, Monday June 3rd, Dziedzic confirmed his departure from PTW in a [heartfelt goodbye post][dziedzic-farewell-insta] on Instagram.
+On the next day, Monday, June 3rd, Dziedzic confirmed his departure from PTW in a [heartfelt goodbye post][dziedzic-farewell-insta] on Instagram.
 After some teasing on his Instagram Stories, Sinister confirmed the speculations as well. On Wednesday, June 5th 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
-Shortly after that, referee Seweryn also confirmed his departure on his Instagram story.
+Shortly after that, [referee Seweryn](@/w/sedzia-seweryn.md) also confirmed his departure on his Instagram story.
 
 On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance".
 It mostly contained photos of various moments in PTW he was part of, but also several photos with ["the Greens"](@/a/the-greens.md) (an insider group of wrestlers from [MZW](@/o/mzw.md), like himself), some of whom had already quit PTW.
-The final image in this set was just a black background with text saying "Merci et au revoir" (Thank you and goodbye), strongly implying that he left as well.
+The final image in this set was just a black background with text saying "Merci et au revoir" (_Thank you and goodbye_), strongly implying that he left as well.
 
 Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just after his return at Gold Rush, seemingly confirmed his exit through Instagram stories.
-He posted a poll, asking fans whether he should continue wrestling in a "new" place, or return to an "old" place, with [PpW](@/o/ppw.md) marked as "new", and [KPW](@/o/kpw.md) as "old".
+He posted a poll, asking fans whether he should continue wrestling in a "new" place, or return to an "old" one, with [PpW](@/o/ppw.md) marked as "new", and [KPW](@/o/kpw.md) as "old".
 
 On June 8th, Legia Łysych, a tag team consisting of [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), who never announced leaving PTW, made their surprise debut for [PpW](@/o/ppw.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
-On their social media platforms they still appeared to be signed with PTW, as Marco Hammers feuded with Vincent Caravaggio, and both team members released an Instagram story where the neon lights from their Performance Center venue were clearly visible.
+On their social media platforms they still appeared to be signed with PTW, as Marco Hammers feuded with [Vincent Caravaggio](@/w/vincent-caravaggio.md), and both team members released an Instagram story where the neon lights from their Performance Center venue were clearly visible.
 For Olgierd, that debut was also a return - he is a PpW original known previously as Hades.
 The two answered an open challenge issued by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
 This was the culmination of a storyline started back in PTW, where the two teams joined forces to prevent PAKA from becoming the inaugural Tag Team Champions. That plan failed, and the two teams feuded bitterly over it.
 
 On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://www.instagram.com/p/C7_u3gIsgSO/) of himself and his valet Rusałka on his Instagram profile. He thanked the organization, Pawłowski and the fans for helping him on his path to becoming a wrestler. This was also interpreted as his exit from PTW.
 
-On Thursday June 13th, PTW has taken down the roster section of their page.
+On Thursday June 13th, PTW have taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself did not reveal it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
 
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
