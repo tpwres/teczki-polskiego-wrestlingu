@@ -1,6 +1,7 @@
 +++
 title = "PpW Hardcore Friday: Barszcz z Krzesłami"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
@@ -8,6 +9,8 @@ venue=["2kola"]
 hide_results = true
 city = "Warszawa"
 +++
+
+"Barszcz z Krzesłami" (_Barszcz with Chairs_) is an upcoming event in [PpW's](@/o/ppw.md) revived Hardcore Friday series. The name of the event is a play on "barszcz z uszkami", a traditional Polish soup [served at Christmas Eve][wigilia].
 
 {% card(predicted=true) %}
 - - '[Axel Fox](@/w/axel-fox.md)'
@@ -23,3 +26,5 @@ city = "Warszawa"
 ## References
 
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
+
+[wigilia]: https://en.wikipedia.org/wiki/Wigilia
