@@ -1,5 +1,5 @@
 +++
-title = "PpW Hardcore Friday"
+title = "PpW Hardcore Friday: Barszcz z Krzesłami"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
@@ -9,7 +9,16 @@ hide_results = true
 city = "Warszawa"
 +++
 
-{{ skip_card() }}
+{% card(predicted=true) %}
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - s: Christmas Street Fight Match
+    nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - s: Non-Title Match
+    nc: upcoming
+{% end %}
 
 ## References
 
