@@ -76,7 +76,7 @@ The next day there was [another live Q&A][live-qa-2], once again hosted by [Show
 * The venue should hold about 300 people.
 * The [first show](@/e/low/2024-12-01-low-1.md) might be the only one, but LOW have long-term plans nonetheless.
 * Legacy spoke to [MCW](@/o/mcw.md), but not in the context of wrestlers.
-* There's going to be a Patronite (a Polish Patreon equivallent) offering a limited run of T-shirts.
+* There's going to be a [Patronite][patronite] (a Polish Patreon equivallent) offering a limited run of T-shirts.
 * A live stream was confirmed, although the platform has not yet been decided upon. A few options are being considered.
 * The first event won't have a subtitle or a number, it'll simply be named "Legacy of Wrestling".
 * The full card should be known in the first week of November and the first match in mid-October.
@@ -110,3 +110,4 @@ In October 2024 Legacy started unveiling the wrestlers booked for the [first sho
 [yt-1st-show-trailer]:https://www.youtube.com/watch?v=VltQ9RVeoOk
 [fb-reveal-1]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02SuX78a4fAo5FDecJyfKdPDmKxnbuU663EP7R9mPrhEJuz1PkLmNKbbyiM2YHd1hQl
 [fb-reveal-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid0XWsFhvZ7FHHuqidorhsVc42E4xQodFjcfx6aGkgnncbSJexkXucdMdMc7Pr4UeLDl
+[patronite]: https://patronite.pl/www.legacyofwrestling.pl
