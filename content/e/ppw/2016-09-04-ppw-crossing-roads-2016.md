@@ -9,7 +9,7 @@ venue = ["winogronowa-17"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "crossing-roads-2016-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
-2 = { path = "literal-rope-break.jpg", caption = "[Black Orion](@/w/black-orion.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, Hirinus puts a hold on Automatico.", source = "Official PpW YouTube." }
+2 = { path = "literal-rope-break.jpg", caption = "[Black Orion](@/w/black-orion.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, [Hirinus](@/w/hirinus.md) puts a hold on [Automatico](@/w/rob-scaffold.md).", source = "Official PpW YouTube." }
 3 = { path = "biesiad-strongs-pro-wrestler.jpg", caption = "[Steven Strong](@/w/biesiad.md) jumps from the top rope onto nearly everybody.", source = "Official PpW YouTube." }
 4 = { path = "hades.jpg", caption = "[Hades](@/w/olgierd.md) smiling for the camera.", source = "Official PpW YouTube." }
 +++
@@ -19,9 +19,9 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 {% card() %}
 - - >
     2 Chamy:
-    Automatico,
+    [Automatico](@/w/rob-scaffold.md),
     [Black Orion](@/w/black-orion.md)(c)
-  - 'Hirinus, [Feager](@/w/feager.md)'
+  - '[Hirinus](@/w/hirinus.md), [Feager](@/w/feager.md)'
   - s: Tag Team Match
     c: PpW Tag Team Championship
 - - '[Hades](@/w/olgierd.md)'
@@ -49,7 +49,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 #### Recap
 
 * A turnbuckle broke early on in the first match.
-* [Black Orion](@/w/black-orion.md) tagged in Automatico who promptly tagged himself out, declining to change his partner.
+* [Black Orion](@/w/black-orion.md) tagged in [Automatico](@/w/rob-scaffold.md) who promptly tagged himself out, declining to change his partner.
 * 2 Chamy attacked the [referee](@/w/biesiad.md), while Trzeci Cham entered the ring and jumped [Feager](@/w/feager.md).
 * The Superior vs [Hades](@/w/olgierd.md) match was, according to the commentary, "a fight for the Multimedia belt, which we won't see physically here, which exists somewhere, in our heads, theoretically".
 * According to one of the commentators, Team Lucha vs Team Hardcore was the first 3-vs-3 match PpW held since getting a ring.
