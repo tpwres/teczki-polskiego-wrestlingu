@@ -53,11 +53,11 @@ Olgierd and Hammers, teaming together as Legia Łysych returned to PpW during [L
 While Pure Gold were taunting Legia on their social media channels before the event, fans didn't take this for anything but a provocation against PTW.
 Legia, up until the very last moment, appeared to remain committed to PTW, themselves feuding with Vincent Caravaggio and defending a joke "Intergender Championship" belt made of cardboard.
 They were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
-Shortly after his return to PpW he joined villainous faction led by [Mister Z](@/w/mister-z.md) called ["Zmowa"](@/a/the-collusion.md), fighting against PpW's top babyfaces both in tag team & in solo action.
+Shortly after his return to PpW he joined ["Zmowa"](@/a/the-collusion.md), a villainous faction led by [Mister Z](@/w/mister-z.md), fighting against PpW's top babyfaces both in tag team & in solo action.
 
 #### October 2024: MZW return
 
-In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - has returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) which marked the first time since 2021 when members of ["The Greens"](@/a/the-greens.md) made their apperance on MZW show.
+In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - had returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/a/the-greens.md) made their apperance an an MZW show.
 
 ### Trivia
 
