@@ -48,7 +48,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 
 ## References
 
-* [Officia site][ptp]
+* [Official site][ptp]
 * [Photo galleries from past events](https://targipiwne.pl/galeria/).
 
 [ptp]: https://targipiwne.pl
