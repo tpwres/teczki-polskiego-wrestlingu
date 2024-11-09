@@ -20,6 +20,10 @@ city = "Kozłów"
 - - '[Spartan](@/w/spartan.md)'
   - 'Aaron Williams'
   - nc: upcoming
+- - '[Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Max Speed](@/w/max-speed.md), [Miyagi Shida](@/w/miyagi-shida.md)'
+  - s: Tag Team Match
+    nc: upcoming
 {% end %}
 
 ### References
