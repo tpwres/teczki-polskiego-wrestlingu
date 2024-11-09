@@ -2,11 +2,13 @@
 
 from pathlib import Path
 from dateutil.rrule import YEARLY
-from matplotlib import pyplot as plt
 import matplotlib as mpl
+from matplotlib import pyplot as plt
+from matplotlib import patches as pat
 from matplotlib import colors
+from matplotlib import transforms
 from matplotlib.dates import AutoDateLocator
-from sys import argv, stdout
+from sys import argv, stdout, stderr
 from datetime import datetime, timedelta
 import csv
 from typing import TextIO
@@ -79,7 +81,19 @@ def main(source_filename: Path, output_stream: TextIO):
     # Assign tick labels on the y axis. Range starts from 1 to match csv file
     y_pos = [x for x in range(1, len(labels)+1)]
     ax.set_yticks(y_pos, labels=labels)
-    ax.set_ylim(top=1-0.8, bottom=len(labels)+0.8) # 0.8 is the bar thickness
+    # Invert yaxis: normally 0 is at the bottom, N at the top
+    ax.invert_yaxis()
+
+    # X coordinate is in axes (0 is Y axis, 1 is right end of graph)
+    # and Y coord is in data (from 0 to N)
+    tx = transforms.blended_transform_factory(ax.transAxes, ax.transData)
+    for i in range(1, len(labels)+1):
+        # Start rectangle at -1 to span left of the Y axis. Width is more than the entire graph's worth.
+        rr = pat.Rectangle(xy=(-1, i-0.5), width=2.2, height=1,
+                           color='#f0f', edgecolor=None, transform=tx, gid=f"bg-{i}")
+        # Emitted in SVG before the figure
+        rr.set_zorder(-1)
+        _fig.add_artist(rr)
 
     ax.spines['right'].set_visible(False)
     ax.spines['top'].set_visible(False)
