@@ -13,7 +13,7 @@ career_aliases = ["Fatman", "Pan Pawłowski", 'Arkadiusz "Pan" Pawłowski' ]
 
 Arkadiusz "Pan" Pawłowski is the co-founder and the owner of [Prime Time Wrestling](@/o/ptw.md).
 
-In 2009 Pawłowski was one of the four people to attend the very first training session of the newly-opened [Do Or Die Wrestling](@/o/ddw.md) (the other three being [Kamil Aleksander](@/w/kamil-aleksander.md), [Klarys](@/w/klarys.md) and Antek from [Istota Wrestlingu][yt-iw])). He didn't wrestle, however, instead focusing on the role of manager and ring announcer.
+In 2009 Pawłowski was one of the four people to attend the very first training session of the newly-opened [Do Or Die Wrestling](@/o/ddw.md) (the other three being [Kamil Aleksander](@/w/kamil-aleksander.md), [Klarys](@/w/klarys.md) and Antek from [Istota Wrestlingu][yt-iw]). He didn't wrestle, however, instead focusing on the role of manager and ring announcer.
 
 After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md), after which he parted ways with the promotion. He then spent the next two years working for Fame MMA and in the latter half of 2021 announced the opening of [Prime Time Wrestling](@/o/ptw.md). Pawłowski started the promotion with Marcin "Rzeźnik" Rzeźniczek as co-owner, however Rzeźniczek left after [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), leaving Pawłowski the sole owner of the promotion.
 
