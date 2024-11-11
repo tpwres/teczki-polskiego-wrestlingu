@@ -89,4 +89,10 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Underground 23: Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md)'
     ed: 2024-10-19
+- - 'Puncher'
+  - '"The Veteran" Jack Vaughn'
+  - s: Singles Match
+    en: '[PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.md)'
+    ed: 2024-11-16
+    nc: upcoming
 {% end %}
