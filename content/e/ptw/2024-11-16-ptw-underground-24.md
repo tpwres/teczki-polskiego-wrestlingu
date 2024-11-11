@@ -25,7 +25,7 @@ city = "Kozłów"
   - s: Tag Team Match
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '"The Veteran" Jack Vaughn'
-  - c: [PTW Championship](@/c/ptw-championship.md)
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
 {% end %}
 
