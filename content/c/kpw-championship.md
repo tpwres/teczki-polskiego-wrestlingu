@@ -214,6 +214,12 @@ Both defenses took place during events held by Bologna Wrestling Team.
   - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
+- - '[Hans Schulte](@/w/hans-schulte.md) (c)'
+  - 'Red Scorpion'
+  - s: Singles Match
+    en: '[KPW Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md)'
+    ed: 2024-11-15
+    nc: Upcoming
 {% end %}
 
 
