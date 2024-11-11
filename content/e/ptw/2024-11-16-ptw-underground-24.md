@@ -23,6 +23,9 @@ city = "Kozłów"
 - - '[Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Max Speed](@/w/max-speed.md), [Miyagi Shida](@/w/miyagi-shida.md)'
   - s: Tag Team Match
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '"The Veteran" Jack Vaughn"
+  - c: [PTW Championship](@/c/ptw-championship.md)
     nc: upcoming
 {% end %}
 
