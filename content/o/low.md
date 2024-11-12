@@ -86,8 +86,7 @@ The next day there was [another live Q&A][live-qa-2], once again hosted by [Show
 
 In October 2024 Legacy started unveiling the wrestlers booked for the [first show](@/e/low/2024-12-01-low-1.md). On 3.10.2024 they [announced][fb-reveal-1] [Wiktor Longman](@/w/wiktor-longman.md), [Marco Hammers](@/w/marco-hammers.md), [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md), all of whom were in the [reveal trailer][reveal-trailer]. About a week later [another post][fb-reveal-2] announced the first wrestler not seen in the trailer, and the first active worker from another promotion: [Filip Fux](@/w/filip-fux.md) from [Kombat Pro Wrestling](@/o/kpw.md). Over next weeks, talent from [PpW](@/o/ppw.md) and [MZW](@/o/mzw.md) joined the line-up.
 
-On November 11th, fans [spotted LOW][extreme-low] at the Extreme Sports Channel website - a long-time home to wrestling in Poland, which recently entered a partnership with [Prime Time Wrestling](@/o/ptw.md) to air their shows. Although there has been no word from promotion yet, it led to assumptions that Legacy of Wrestling debut show is going to be aired on said channel.
-
+On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channel website - a long-time home to wrestling in Poland, which recently entered a partnership with [Prime Time Wrestling](@/o/ptw.md) to air their shows. The next day Legacy [posted][extreme-low-2] that the channel became their official media partner and the [first show](@/e/low/2024-12-01-low-1.md) would air on Extreme Sports a week after the event.
 
 ### References
 
@@ -114,4 +113,5 @@ On November 11th, fans [spotted LOW][extreme-low] at the Extreme Sports Channel 
 [fb-reveal-1]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02SuX78a4fAo5FDecJyfKdPDmKxnbuU663EP7R9mPrhEJuz1PkLmNKbbyiM2YHd1hQl
 [fb-reveal-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid0XWsFhvZ7FHHuqidorhsVc42E4xQodFjcfx6aGkgnncbSJexkXucdMdMc7Pr4UeLDl
 [patronite]: https://patronite.pl/www.legacyofwrestling.pl
-[extreme-low]: https://www.extreme.com/pl/program/legacy-of-wrestling/
+[extreme-low-1]: https://www.extreme.com/pl/program/legacy-of-wrestling/
+[extreme-low-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02mTUKt1pcAtvxPxFZASu4UHCEWbPLnbmnuDe219qYvB41kXG8rXLdyfMPefFbky3gl
