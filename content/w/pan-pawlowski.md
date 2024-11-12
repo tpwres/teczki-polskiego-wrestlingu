@@ -1,7 +1,7 @@
 +++
 title = 'Arkadiusz Pawłowski'
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
 [extra]
@@ -22,7 +22,7 @@ He didn't wrestle, however, instead focusing on the role of manager and ring ann
 
 In DDW he served as both, and adopted a persona of a heelish, self-important manager.
 
-### 2014: founding KPW
+### 2014: Founding of KPW
 
 After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer.
 This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md), after which he parted ways with the promotion.
