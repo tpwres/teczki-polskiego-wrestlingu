@@ -86,7 +86,7 @@ The next day there was [another live Q&A][live-qa-2], once again hosted by [Show
 
 In October 2024 Legacy started unveiling the wrestlers booked for the [first show](@/e/low/2024-12-01-low-1.md). On 3.10.2024 they [announced][fb-reveal-1] [Wiktor Longman](@/w/wiktor-longman.md), [Marco Hammers](@/w/marco-hammers.md), [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md), all of whom were in the [reveal trailer][reveal-trailer]. About a week later [another post][fb-reveal-2] announced the first wrestler not seen in the trailer, and the first active worker from another promotion: [Filip Fux](@/w/filip-fux.md) from [Kombat Pro Wrestling](@/o/kpw.md). Over next weeks, talent from [PpW](@/o/ppw.md) and [MZW](@/o/mzw.md) joined the line-up.
 
-On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channel website - a long-time home to wrestling in Poland, which recently entered a partnership with [Prime Time Wrestling](@/o/ptw.md) to air their shows. The next day Legacy [posted][extreme-low-2] that the channel became their official media partner and the [first show](@/e/low/2024-12-01-low-1.md) would air on Extreme Sports a week after the event.
+On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channel website - a long-time home to wrestling in Poland, which recently entered a partnership with [Prime Time Wrestling](@/o/ptw.md) to air their shows. The following day Legacy [officially confirmed][extreme-low-2] the deal, announcing that the channel became their official media partner and their [first show](@/e/low/2024-12-01-low-1.md) would air on Extreme Sports Channel a week after the event, on the 8th of December.
 
 ### References
 
