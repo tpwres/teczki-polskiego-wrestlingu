@@ -73,10 +73,10 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: Tables Match
-- - Maverick
-  - Luca Bjorn
-  - Rust
-  - Blaze
+- - 'Maverick'
+  - 'Luca Bjorn'
+  - '[Rust](@/w/rust.md)'
+  - 'Blaze'
   - s: Fatal 4 Way for PTW Contract
 - - '[Puncher](@/w/puncher.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'

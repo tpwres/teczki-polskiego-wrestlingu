@@ -19,7 +19,7 @@ The event is officially not a part of the Underground series, but it was confirm
 The event saw the return of LaVonce and the debut of the British wrestler Nightshade.
 
 {% card() %}
-- - 'Rust'
+- - '[Rust](@/w/rust.md)'
   - '[Max Speed](@/w/max-speed.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'

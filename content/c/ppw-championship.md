@@ -208,6 +208,12 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles match
     en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md)'
     ed: 2024-10-30
+- - 'Gustav Gryffin (c)'
+  - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - s: Singles match
+    en: '[Legacy of Wrestling](@/e/low/2024-12-01-low-1.md)'
+    ed: 2024-12-01
+    nc: 'upcoming'
 {% end %}
 
 ## References
