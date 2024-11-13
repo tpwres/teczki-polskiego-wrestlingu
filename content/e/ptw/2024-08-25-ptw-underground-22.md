@@ -45,7 +45,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
     s: Contract signing
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
-- - 'Rust'
+- - '[Rust](@/w/rust.md)'
   - 'LaVonce'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
   - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'

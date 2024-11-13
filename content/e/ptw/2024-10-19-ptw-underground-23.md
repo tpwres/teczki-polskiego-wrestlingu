@@ -29,7 +29,7 @@ According to Istota Wrestlingu, who attended the event in person, the overall at
     s: The Brave Show - episode 1
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Reyca'
-- - 'Rust'
+- - '[Rust](@/w/rust.md)'
   - 'Serg Sullivan'
   - 'Mikk Vainula'
   - s: International Showcase Triple Threat Match
