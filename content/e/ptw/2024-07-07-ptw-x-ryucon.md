@@ -81,7 +81,6 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - '[Puncher](@/w/puncher.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - s: Puncher's open challenge
-    c: PTW Championship and WWA Championship
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md), Svedberg'
