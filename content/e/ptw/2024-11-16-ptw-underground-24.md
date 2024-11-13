@@ -27,6 +27,9 @@ city = "Kozłów"
   - '"The Veteran" Jack Vaughn'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
+- - 'Newt Nova'
+  - '[Rust](@/w/rust.md)'
+    nc: upcoming
 {% end %}
 
 ### References
