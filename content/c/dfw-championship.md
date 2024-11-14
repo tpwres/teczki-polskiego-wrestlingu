@@ -5,7 +5,7 @@ weight = 0
 authors = ["Seweryn Pielucha"]
 +++
 
-The DFW Championship was the main and only title of [Dream Factory Wrestling](@/o/dfw.md). It was introduced in 2016 during the [Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) with the title being a prize in this titular tournament.
+The DFW Championship was the main and only title of [Dream Factory Wrestling](@/o/dfw.md). It was introduced in 2016 at [Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) with the title being a prize in the titular tournament.
 
 ## Statistics:
 * First champion: [Chris Hunter](@/w/chris-hunter.md)
@@ -15,12 +15,12 @@ The DFW Championship was the main and only title of [Dream Factory Wrestling](@/
 
 ## Belt design:
 
-The belt was rather simple in design and cheaply-made at home by DFW members. The main plate was made from simple sheet metal without any paint coating, and was visibly attached to the strap by four bolts. 
-Main plate in general was resembling a flattended hexagon in shape, with two visible cuts at top and bottom of plate. These cuts allows to think, that the plate supposed to resemble shape of Poland. The whole main plate space was occupied by "DFW" letters forged in the plate itself. Letters and the outer rims of main plate were simply painted in white and red.
+The belt was rather simple in design and cheapl homey-made by DFW members. The main plate was made from simple sheet metal without any paint coating, and was visibly attached to the strap by four bolts. 
+The main plate in general resembled a flattended hexagon, with two visible cuts at the top and bottom of the plate. These cuts give the plate a certain resemblance to the shape of Poland. The whole main plate space was occupied by "DFW" letters protruding from the plate itself. The letters and the outer rims of the main plate were simply painted white and red, the national colours of Poland.
 The sideplates were made from two identical, store-bought pins depicting skull and bones.
-All of the sideplates were attached to black belt made from artificial leather with couple of silver studs attached to it. 
+All of the sideplates were attached to a black belt made from artificial leather, with a couple of silver studs attached to it. 
 
-After DFW's closure the belt remained in possession of final champion - [Norris](@/w/isnorr-md.), who kept it in original form until early 2023, when the plates were stripped from belt itself. Belt was used as a base for ZLN GNG Championship - an insider belt defended only between members of [The Greens](@/a/the-greens.md). The original DFW main plate became one of the relics kept in [Ewenement Dojo](@/o/ewenement-dojo.md).
+After DFW's closure the belt remained in possession of the final champion - [Norris](@/w/isnorr-md), who kept it in its original form until early 2023, when the plates were stripped from the belt itself. The belt was used as a base for the ZLN GNG Championship - an insider belt defended only between the members of [The Greens](@/a/the-greens.md). The original DFW main plate became one of the relics kept in [Ewenement Dojo](@/o/ewenement-dojo.md).
 
 ## Title history
 
@@ -64,18 +64,18 @@ After DFW's closure the belt remained in possession of final champion - [Norris]
 ### Champion #2: Ravage
 
 {% free_card() %}
-- - '[Ravage](@/w/rafael-kid.md)'
+- - '[Revage](@/w/rafael-kid.md)'
   - 'Chris Hunter(c)'
   - s: Singles match
     en: '[DFW Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md)'
     ed: 2017-04-23
-- - 'Ravage(c)'
+- - 'Revage(c)'
   - '[PJ Blake](@/w/pj-blake.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
   - s: Triple Threat Match
     en: '[DFW Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md)'
     ed: 2017-06-17
-- - 'Ravage(c)'
+- - 'Revage(c)'
   - 'Direk'
   - s: Fall Count Anywhere Street Fight match
     en: '[DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md)'
@@ -84,7 +84,7 @@ After DFW's closure the belt remained in possession of final champion - [Norris]
 
 **TOTAL:** approx. 160 days
 
-Due to Ravage joining [Maniac Zone Wrestling](@/o/mzw.md) in December 2017 DFW Championship was vacated.
+Due to Revage departing for [Maniac Zone Wrestling](@/o/mzw.md) in December 2017, the DFW Championship was vacated.
 
 ### Champion #3: Norris
 
@@ -106,4 +106,4 @@ Due to Ravage joining [Maniac Zone Wrestling](@/o/mzw.md) in December 2017 DFW C
 
 **TOTAL:** approx. >90 days
 
-After DFW suspended their operations it is unclear how long final reign lasted, as Norris (later called "Isnorr") held Championship in his possession and appeared with it at [PpW's](@/o/ppw.md) shows. However, it was never defended there.
+After DFW suspended their operations, it is unclear how long the final reign lasted for, as Norris (later called "Isnorr") kept the Championship in his possession and appeared with it at [PpW's](@/o/ppw.md) shows. However, it was never defended there.
