@@ -75,11 +75,6 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
     en: '[PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md)'
     ed: 2024-05-11
 - - 'Puncher(c)'
-  - Miyagi Shida
-  - s: Puncher's Open Challenge
-    en: '[PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md)'
-    ed: 2024-07-07
-- - 'Puncher(c)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: Singles Match
     en: '[PTW Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md)'
