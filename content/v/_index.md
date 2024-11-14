@@ -21,6 +21,7 @@ template = "index.html"
 
 * [2KOŁA Motorcycle Club](@/v/2kola.md) {{ org_badge(org='ppw') }}
 * [Hala Bemowo](@/v/hala-bemowo.md) {{ org_badge(org='ptw') }}
+* [Mińska 65](@/v/minska-65.md) {{ org_badge(org='ppw') }}
 * [Praga Centrum](@/v/praga-centrum.md) {{ org_badge(org='ppw') }}
 * [Teatr Komuna](@/v/teatr-komuna.md) {{ org_badge(org='ppw') }}
 * [Waldorffa 25](@/v/waldorffa25.md) {{ org_badge(org='ppw') }}
