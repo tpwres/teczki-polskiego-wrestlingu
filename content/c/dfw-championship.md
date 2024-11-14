@@ -20,7 +20,7 @@ The main plate in general resembled a flattended hexagon, with two visible cuts 
 The sideplates were made from two identical, store-bought pins depicting skull and bones.
 All of the sideplates were attached to a black belt made from artificial leather, with a couple of silver studs attached to it. 
 
-After DFW's closure the belt remained in possession of the final champion - [Norris](@/w/isnorr-md), who kept it in its original form until early 2023, when the plates were stripped from the belt itself. The belt was used as a base for the ZLN GNG Championship - an insider belt defended only between the members of [The Greens](@/a/the-greens.md). The original DFW main plate became one of the relics kept in [Ewenement Dojo](@/o/ewenement-dojo.md).
+After DFW's closure the belt remained in possession of the final champion - [Norris](@/w/isnorr.md), who kept it in its original form until early 2023, when the plates were stripped from the belt itself. The belt was used as a base for the ZLN GNG Championship - an insider belt defended only between the members of [The Greens](@/a/the-greens.md). The original DFW main plate became one of the relics kept in [Ewenement Dojo](@/o/ewenement-dojo.md).
 
 ## Title history
 
