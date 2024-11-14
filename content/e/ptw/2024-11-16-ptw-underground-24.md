@@ -30,6 +30,9 @@ city = "Kozłów"
 - - 'Newt Nova'
   - '[Rust](@/w/rust.md)'
   - nc: upcoming
+- - 'Luca Bjorn'
+  - 'Serg Sullivan'
+  - nc: upcoming
 {% end %}
 
 ### References
