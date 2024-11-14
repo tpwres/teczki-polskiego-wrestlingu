@@ -17,11 +17,17 @@ Crosswords City by [Dream Factory Wrestling](@/o/dfw.md) was a sideshow accompan
 The event's name refers to the village: Krzyżówki can be translated as both _crossroads_ and _crosswords_. Fans saw the DFW debut of Prince Victor, who however only appeared for DFW again on the next event.
 
 {% card() %}
-- ['[Norris](@/w/isnorr.md)', '[Charlie](@/w/madman-charlie.md)']
-- ['[Chris Hunter](@/w/chris-hunter.md)', '[Prince Victor](@/w/vic-golden.md)']
-- ['[Direk](@/w/direk.md)', Faust XIII]
-- ['[Revage](@/w/rafael-kid.md)(c)', '[PJ Blake](@/w/pj-blake.md)', '[Corin Mear](@/w/corin-mear.md)',
-  {c: DFW Championship, s: Triple Threat Match}]
+- - '[Norris](@/w/isnorr.md)'
+  - '[Charlie](@/w/madman-charlie.md)'
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Prince Victor](@/w/vic-golden.md)'
+- - '[Direk](@/w/direk.md)'
+  - 'Faust XIII'
+- - '[Revage](@/w/rafael-kid.md)(c)'
+  - '[PJ Blake](@/w/pj-blake.md)'
+  - '[Corin Mear](@/w/corin-mear.md)'
+  - c: '[DFW Championship](@/c/dfw-championship.md)'
+    s: Triple Threat Match
 {% end %}
 
 Attendance: estimated 160

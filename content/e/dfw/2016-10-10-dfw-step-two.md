@@ -13,9 +13,14 @@ This was [DFW's](@/o/dfw.md) second event held in ZST. The first one was held ba
 Unlike the previous Tournament of Dreams, massive by DFW's standards, this event saw just three matches. In the main event Direk challenged Hunter for the DFW Championship.
 
 {% card() %}
-- ['[Revage](@/w/rafael-kid.md)', '[Charlie](@/w/madman-charlie.md)', {r: Submission}]
-- ['[Corin Mear](@/w/corin-mear.md)', '[Norris](@/w/isnorr.md)']
-- ['[Chris Hunter](@/w/chris-hunter.md)(c)', '[Direk](@/w/direk.md)', {c: DFW Championship}]
+- - '[Revage](@/w/rafael-kid.md)'
+  - '[Charlie](@/w/madman-charlie.md)'
+  - r: 'Submission'
+- - '[Corin Mear](@/w/corin-mear.md)'
+  - '[Norris](@/w/isnorr.md)'
+- - '[Chris Hunter](@/w/chris-hunter.md)(c)'
+  - '[Direk](@/w/direk.md)'
+  - c: '[DFW Championship](@/c/dfw-championship.md)'
 {% end %}
 
 ### References

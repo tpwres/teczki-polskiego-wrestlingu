@@ -11,10 +11,14 @@ city = "Toruń"
 On Friday, April 22nd 20216 [DFW](@/o/dfw.md) held a showcase in ZSGH, a trade school in Toruń primarily teaching gastronomy, tourism and recreation. According to the Facebook event page, three members of the roster were ZSGH students or alumni. The event was held during the school's Open Days that year.
 
 {% card() %}
-- ['[Malmo Buruto](@/w/malmo-buruto.md)', '[Charlie](@/w/madman-charlie.md)', '[Corin
-    Mear](@/w/corin-mear.md)', {s: Triple Threat Match}]
-- ['[PJ Blake](@/w/pj-blake.md)', '[Revage](@/w/rafael-kid.md)']
-- ['[Chris Hunter](@/w/chris-hunter.md)', '[Pain Killer](@/w/pain-killer.md)']
+- - '[Malmo Buruto](@/w/malmo-buruto.md)'
+  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Corin Mear](@/w/corin-mear.md)'
+  - s: Triple Threat Match
+- - '[PJ Blake](@/w/pj-blake.md)'
+  - '[Revage](@/w/rafael-kid.md)'
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Pain Killer](@/w/pain-killer.md)'
 {% end %}
 
 ### References

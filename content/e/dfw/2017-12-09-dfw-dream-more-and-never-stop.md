@@ -13,15 +13,22 @@ Dream More And Never Stop was [DFW's](@/o/dfw.md) last big event. Taking place o
 The nonprofit focuses on helping parents and schools fill children's time with engaging activities, and the audience was, appriopriately, mostly children.
 
 {% card() %}
-- ['[Rob Scaffold](@/w/rob-scaffold.md)', '[Chris Hunter](@/w/chris-hunter.md)']
-- ['[Corin Mear](@/w/corin-mear.md)', '[Cade Bruce](@/w/mister-z.md)', {s: No DQ Match}]
-- ['[Pain Killer](@/w/pain-killer.md)', '[PJ Blake](@/w/pj-blake.md)', {s: No DQ Match}]
-- ['[Direk](@/w/direk.md)', '[Norris](@/w/isnorr.md)', {s: Best 2 Out Of 3 Falls Match}]
+- - '[Rob Scaffold](@/w/rob-scaffold.md)'
+  - '[Chris Hunter](@/w/chris-hunter.md)'
+- - '[Corin Mear](@/w/corin-mear.md)'
+  - '[Cade Bruce](@/w/mister-z.md)'
+  - s: No DQ Match
+- - '[Pain Killer](@/w/pain-killer.md)'
+  - '[PJ Blake](@/w/pj-blake.md)'
+  - s: No DQ Match
+- - '[Direk](@/w/direk.md)'
+  - '[Norris](@/w/isnorr.md)'
+  - s: Best 2 Out Of 3 Falls Match
 {% end %}
 
 #### Recap
 
-* At one moment in the second match, Corin Mear calls in some children from the audience to the ring. They hold down Cade Bruce's legs apart, so that Corin can deliver a top rope headbutt to the crotch.
+* At one moment in the second match, Corin Mear called in some children from the audience to the ring. They held down Cade Bruce's legs apart, so that Corin could deliver a top rope headbutt to the crotch.
 * Pain Killer entered through the window, jumping down onto the ring. Unusually for him, he was dressed in white, not black, and also not the heel character. Malmo Buruto intervened in their fight attacking Pain Killer, but since it was a No DQ match, this had no consequences. \
   Later in their fight, PJ Blake removed Pain Killer's mask. After recovering and putting it back on, Pain Killer won with a frog splash.
 * Direk was the first one to score a pin. Later Norris took a daring jump from the same spot that Pain Killer jumped into the ring.

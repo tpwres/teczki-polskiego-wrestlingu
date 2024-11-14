@@ -13,11 +13,14 @@ city = "Toruń"
 The same festival and location would host [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) next year.
 
 {% card() %}
-- [Jay Revolt, '[PJ Blake](@/w/pj-blake.md)']
-- - "[Corin Mear](@/w/corin-mear.md), [Malmo Buruto](@/w/malmo-buruto.md)"
-  - "[Pain Killer](@/w/pain-killer.md), [Charlie Grayson](@/w/madman-charlie.md)"
+- - 'Jay Revolt'
+  - '[PJ Blake](@/w/pj-blake.md)'
+- - '[Corin Mear](@/w/corin-mear.md), [Malmo Buruto](@/w/malmo-buruto.md)'
+  - '[Pain Killer](@/w/pain-killer.md), [Charlie Grayson](@/w/madman-charlie.md)'
   - s: Tag Team Match
-- ['[Chris Hunter](@/w/chris-hunter.md)', '[Revage](@/w/rafael-kid.md)', s: No DQ Match]
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Revage](@/w/rafael-kid.md)'
+  - s: No DQ Match
 {% end %}
 
 ### References

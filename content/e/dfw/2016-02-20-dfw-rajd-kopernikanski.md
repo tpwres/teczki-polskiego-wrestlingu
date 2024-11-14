@@ -12,11 +12,16 @@ city = "Toruń"
 Chris Hunter did double duty, as Malmo Buruto who was supposed to face Corin Mear in the opening match, suffered a concussion two days before the event.
 
 {% card() %}
-- ['[Chris Hunter](@/w/chris-hunter.md)', '[Corin Mear](@/w/corin-mear.md)']
-- [Jay Revolt, '[Pain Killer](@/w/pain-killer.md)', '[PJ Blake](@/w/pj-blake.md)',
-  {s: Triple Threat Match}]
-- ['[Revage](@/w/rafael-kid.md)', '[Chris Hunter](@/w/chris-hunter.md)', '[Charlie](@/w/madman-charlie.md)',
-  {s: Triple Threat Match}]
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Corin Mear](@/w/corin-mear.md)'
+- - 'Jay Revolt'
+  - '[Pain Killer](@/w/pain-killer.md)'
+  - '[PJ Blake](@/w/pj-blake.md)'
+  - s: Triple Threat Match
+- - '[Revage](@/w/rafael-kid.md)'
+  - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Charlie](@/w/madman-charlie.md)'
+  - s: Triple Threat Match
 {% end %}
 
 ### References
