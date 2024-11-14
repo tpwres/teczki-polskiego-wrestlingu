@@ -48,7 +48,7 @@ Attendance: about 50, confirmed in a Facebook post \
 
 #### Recap and results
 
-* The #1 Contender match was ultimately meaningless, as Prince Victor never challenged Revage for the title. For both of them it was the last appearance in DFW, as by that time they and Direk had already trained in [PAW](@/w/paw.md), and later that year joined [MZW](@/o/mzw.md).
+* The #1 Contender match was ultimately meaningless, as Prince Victor never challenged Revage for the title. For both of them it was the last appearance in DFW, as by that time they and Direk had already trained in [PAW](@/o/paw.md), and later that year joined [MZW](@/o/mzw.md).
 * PJ Blake assumed the ring announcer duty for this event.
 
 ### Reference
