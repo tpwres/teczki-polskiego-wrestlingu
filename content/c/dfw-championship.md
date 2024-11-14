@@ -30,7 +30,7 @@ After DFW's closure the belt remained in possession of the final champion - [Nor
 - - '[Chris Hunter](@/w/chris-hunter.md)'
   - '[Charlie](@/w/madman-charlie.md)'
   - s: Singles match
-    en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)
+    en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)'
     ed: 2016-08-20
 - - 'Chris Hunter(c)'
   - '[Direk](@/w/direk.md)'
@@ -52,7 +52,7 @@ After DFW's closure the belt remained in possession of the final champion - [Nor
   - s: Singles match
     en: '[DFW Love Hurts, Wrestling Even More](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md)'
     ed: 2017-02-14
-- - '[Ravage](@/w/rafael-kid.md)
+- - '[Ravage](@/w/rafael-kid.md)'
   - 'Chris Hunter(c)
   - s: Singles match
     en: '[DFW Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md)'
