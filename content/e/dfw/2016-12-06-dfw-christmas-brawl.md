@@ -10,14 +10,18 @@ city = "Toruń"
 Christmas Brawl was held on December 6th, 2016, which was a Tuesday. December 6th in Poland is celebrated as Saint Nicholas Day, so the name is a bit misleading. The event took place, as was now tradition for DFW, in one of Toruń's schools. This time, in 3 LO, an academic-oriented high school.
 
 {% card() %}
-- ['[Revage](@/w/rafael-kid.md)', '[Norris](@/w/isnorr.md)', {s: Best 2 out of 3 falls}]
-- ['[Corin Mear](@/w/corin-mear.md)', '[Malmo Buruto](@/w/malmo-buruto.md)']
+- - '[Revage](@/w/rafael-kid.md)'
+  - '[Norris](@/w/isnorr.md)'
+  - s: Best 2 out of 3 falls
+- - '[Corin Mear](@/w/corin-mear.md)'
+  - '[Malmo Buruto](@/w/malmo-buruto.md)'
 - - '[Chris Hunter](@/w/chris-hunter.md)(c)'
   - '[Pain Killer](@/w/pain-killer.md)'
-  - {c: DFW Championship, s: Open Challenge}
+  - c: '[DFW Championship](@/c/dfw-championship.md)'
+    s: Open Challenge
 - - '[Charlie](@/w/madman-charlie.md)'
   - '[Direk](@/w/direk.md)'
-  - s: "DFW Championship #1 Contender Match"
+  - s: '[DFW Championship](@/c/dfw-championship.md) #1 Contender Match'
 {% end %}
 
 #### Recap
@@ -27,5 +31,5 @@ Christmas Brawl was held on December 6th, 2016, which was a Tuesday. December 6t
 
 ### References
 
-* [Youtube recap video](https://www.youtube.com/watch?v=2Z6laO3Fq8E)
+* [YouTube recap video](https://www.youtube.com/watch?v=2Z6laO3Fq8E)
 * [Facebook recap post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0XEhCbdnXJ3jhNtkPryh2yXvpVufw2Pp9KzW3CzotnQRLHbZzbr5yryBq8QUXhwypl)

@@ -11,17 +11,20 @@ caption = "Official poster"
 source = "Facebook @DreamFactoryWrestling"
 +++
 
-The final event from [DFW](@/o/dfw.md) was held almost three years after their first one, on Saturday, June 9th 2018. The venue and occasion was once more a community festival in Krzyżówki, where the previous [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md) took place.
+The final event from [DFW](@/o/dfw.md) was held almost three years after their first one, on Saturday, June 9th, 2018. The venue and occasion was once more a community festival in Krzyżówki, where the previous [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md) took place.
 
 Only two matches were held, with the main event seeing Norris defend his championship against former tag team partner Rob Scaffold. It's also the only match that has been released online. Some members of the roster were present at ringside.
 
 {% card() %}
-- ['[Direk](@/w/direk.md)', '[Pain Killer](@/w/pain-killer.md)']
-- ['[Norris](@/w/isnorr.md)(c)', '[Rob Scaffold](@/w/rob-scaffold.md)', {s: Last Man
-      Standing Match, c: DFW Championship}]
+- - '[Direk](@/w/direk.md)'
+  - '[Pain Killer](@/w/pain-killer.md)'
+- - '[Norris](@/w/isnorr.md)(c)'
+  - '[Rob Scaffold](@/w/rob-scaffold.md)'
+  - s: Last Man Standing Match
+    c: '[DFW Championship](@/c/dfw-championship.md)'
+- credits:
+    Commentary: 'Mateusz Mikołajczak, Stanisław Stachowiak'
 {% end %}
-
-Commentary: Mateusz Mikołajczak, Stanisław Stachowiak
 
 #### Recap
 

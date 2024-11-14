@@ -14,11 +14,15 @@ This event was the second ever [DFW](@/o/dfw.md) showcase before a live audience
 In the main event, Revage faced Chris Hunter in a rematch from the [previous show](@/e/dfw/2015-06-20-dfw-showcase.md).
 
 {% card() %}
-- [Jay Revolt, '[Corin Mear](@/w/corin-mear.md)']
-- ['[Malmo Buruto](@/w/malmo-buruto.md)', '[Charlie Grayson](@/w/madman-charlie.md)',
-  '[Pain Killer](@/w/pain-killer.md)', {s: Triple Threat Match}]
-- ['[Revage](@/w/rafael-kid.md)', '[Chris Hunter](@/w/chris-hunter.md)', {s: Falls
-      Count Anywhere Match}]
+- - 'Jay Revolt'
+  - '[Corin Mear](@/w/corin-mear.md)'
+- - '[Malmo Buruto](@/w/malmo-buruto.md)'
+  - '[Charlie Grayson](@/w/madman-charlie.md)'
+  - '[Pain Killer](@/w/pain-killer.md)'
+  - s: Triple Threat Match
+- - '[Revage](@/w/rafael-kid.md)'
+  - '[Chris Hunter](@/w/chris-hunter.md)'
+  - s: Falls Count Anywhere Match
 {% end %}
 
 Audience: estimated 50

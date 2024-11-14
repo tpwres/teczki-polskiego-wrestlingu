@@ -19,9 +19,13 @@ The event was held in the sports hall belonging to Nicolaus Copernicus Universit
 Featuring a battle royale match to select the next contender for Revage's DFW championship, and a street fight defense, this was probably DFW's biggest ever event. [PpW's](@/o/ppw.md) Cade Bruce contended in both a singles match and the battle royale.
 
 {% card() %}
-- ['[Prince Victor](@/w/vic-golden.md)', '[Cade Bruce](@/w/mister-z.md)']
-- ['[Norris](@/w/isnorr.md)', '[Chris Hunter](@/w/chris-hunter.md)']
-- [Faust XIII, '[Rob Scaffold](@/w/rob-scaffold.md)', '[Charlie](@/w/madman-charlie.md)']
+- - '[Prince Victor](@/w/vic-golden.md)'
+  - '[Cade Bruce](@/w/mister-z.md)'
+- - '[Norris](@/w/isnorr.md)'
+  - '[Chris Hunter](@/w/chris-hunter.md)'
+- - 'Faust XIII'
+  - '[Rob Scaffold](@/w/rob-scaffold.md)'
+  - '[Charlie](@/w/madman-charlie.md)'
 - - '[Prince Victor](@/w/vic-golden.md)'
   - '[Malmo Buruto](@/w/malmo-buruto.md)'
   - '[Cade Bruce](@/w/mister-z.md)'
@@ -31,19 +35,21 @@ Featuring a battle royale match to select the next contender for Revage's DFW ch
   - 'Matuch'
   - 'Hekate'
   - '[Norris](@/w/isnorr.md)'
-  - s: "DFW Championship #1 Contender Battle Royale"
+  - s: '[DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale'
 - - '[Revage](@/w/rafael-kid.md)(c)'
   - '[Direk](@/w/direk.md)'
-  - {c: DFW Championship, s: Falls Count Anywhere Street Fight}
+  - c: '[DFW Championship](@/c/dfw-championship.md)'
+    s: Falls Count Anywhere Street Fight
+- credits:
+    Ring announcer: '[PJ Blake](@/w/pj-blake.md)'
 {% end %}
 
 Attendance: about 50, confirmed in a Facebook post \
-Ring announcer: PJ Blake
 
 #### Recap and results
 
-* The #1 Contender match was ultimately meaningless, as Prince Victor never challenged Revage for the title. For both it was the last appearance in DFW, as by the time they and Direk already trained in PAW, and later that year joined [MZW](@/o/mzw.md).
-* PJ Blake assumed ring announcer duty for this event.
+* The #1 Contender match was ultimately meaningless, as Prince Victor never challenged Revage for the title. For both of them it was the last appearance in DFW, as by that time they and Direk had already trained in [PAW](@/w/paw.md), and later that year joined [MZW](@/o/mzw.md).
+* PJ Blake assumed the ring announcer duty for this event.
 
 ### Reference
 

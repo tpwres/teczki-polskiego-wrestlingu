@@ -18,21 +18,25 @@ source = "Facebook @DreamFactoryWrestling"
 
 [DFW's](@/o/dfw.md) Recent Dreams was held on Sunday, April 23 2017, once again in the sports hall of Toruń's university campus. The previous event to be held there was the second half of [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).
 
-With 5 matches on the card, this was a big event by DFW's standards. In the main event Revage, who won the gauntlet match at the [previous show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md), challenged Hunter for the DFW championship.
+With five matches on the card, this was a big event by DFW's standards. In the main event Revage, who won the gauntlet match at the [previous show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md), challenged Hunter for the DFW championship.
 
 {% card() %}
-- ['[Rob Scaffold](@/w/rob-scaffold.md)', '[Corin Mear](@/w/corin-mear.md)']
-- ['[Direk](@/w/direk.md)', '[Charlie](@/w/madman-charlie.md)', {s: No Holds Barred
-      Match}]
-- - "[Norris](@/w/isnorr.md), [Corin Mear](@/w/corin-mear.md)"
-  - "[Malmo Buruto](@/w/malmo-buruto.md), Hekate"
-  - {s: Tag Team Match}
-- ['[PJ Blake](@/w/pj-blake.md)', '[Amisz](@/w/axel-fox.md)']
-- ['[Revage](@/w/rafael-kid.md)', '[Chris Hunter](@/w/chris-hunter.md)(c)', {c: DFW
-      Championship}]
+- - '[Rob Scaffold](@/w/rob-scaffold.md)'
+  - '[Corin Mear](@/w/corin-mear.md)'
+- - '[Direk](@/w/direk.md)'
+  - '[Charlie](@/w/madman-charlie.md)'
+  - s: No Holds Barred Match
+- - '[Norris](@/w/isnorr.md), [Corin Mear](@/w/corin-mear.md)'
+  - '[Malmo Buruto](@/w/malmo-buruto.md), Hekate'
+  - s: Tag Team Match
+- - '[PJ Blake](@/w/pj-blake.md)'
+  - '[Amisz](@/w/axel-fox.md)'
+- - '[Revage](@/w/rafael-kid.md)'
+  - '[Chris Hunter](@/w/chris-hunter.md)(c)'
+  - c: '[DFW Championship](@/c/dfw-championship.md)'
+- credits:
+    Commentary: 'Seth Donner, Marcel Koniecki, Adrian Gawrychowski'
 {% end %}
-
-Commentary: Seth Donner, Marcel Koniecki, Adrian Gawrychowski
 
 #### Recap
 

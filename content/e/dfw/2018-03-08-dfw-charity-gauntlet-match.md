@@ -15,9 +15,10 @@ Previous champion [Revage](@/w/rafael-kid.md) left the organization to join [MZW
 - - '[Norris](@/w/isnorr.md)'
   - '[Direk](@/w/direk.md)'
   - '[Chris Hunter](@/w/chris-hunter.md)'
-  - Hekate
-  - Steven Seagal
-  - {c: DFW Championship, s: Gauntlet Match}
+  - 'Hekate'
+  - 'Steven Seagal'
+  - c: '[DFW Championship](@/c/dfw-championship.md)'
+    s: Gauntlet Match
 {% end %}
 
 ### References

@@ -17,14 +17,18 @@ This event was held at the same location as DFW's [debut show](@/e/dfw/2015-06-2
 Norris made his DFW debut at this event. Since then, he appeared at every show that DFW held.
 
 {% card() %}
-- ['[Charlie](@/w/madman-charlie.md)', '[Norris](@/w/isnorr.md)', {s: Tournament First
-      Round Match}]
-- ['[PJ Blake](@/w/pj-blake.md)', '[Pain Killer](@/w/pain-killer.md)', {s: Tournament
-      First Round Match}]
-- ['[Corin Mear](@/w/corin-mear.md)', '[Malmo Buruto](@/w/malmo-buruto.md)', {s: Tournament
-      First Round Match}]
-- ['[Chris Hunter](@/w/chris-hunter.md)', '[Revage](@/w/rafael-kid.md)', {s: Tournament
-      First Round Match}]
+- - '[Charlie](@/w/madman-charlie.md)'
+  - '[Norris](@/w/isnorr.md)'
+  - s: Tournament Quarter Final Match
+- - '[PJ Blake](@/w/pj-blake.md)'
+  - '[Pain Killer](@/w/pain-killer.md)'
+  - s: Tournament Quarter Final Match
+- - '[Corin Mear](@/w/corin-mear.md)'
+  - '[Malmo Buruto](@/w/malmo-buruto.md)'
+  - s: Tournament Quarter Final Match
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Revage](@/w/rafael-kid.md)'
+  - s: Tournament Quarter Final Match
 {% end %}
 
 ### References
