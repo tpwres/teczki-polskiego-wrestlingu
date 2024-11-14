@@ -44,7 +44,7 @@ Preceding it was the Summer Wrestling Camp organised by PpW with Jacob Crane as 
 For the first time in the Polish wrestling history, it was announced that the training sessions will be held mainly on a weekly basis instead of weekend-only two day training regimes.
 This change was inspired by German dojos such as wXw Academy, as well as martial arts dojos.
 
-The first fully Ewenement-made talent who got a chance to debut at polish scene was Oskar Aleksander, who debuted as Adept Oskar before "earning" his ringname.
+The first fully Ewenement-grown talent who got a chance to debut at the Polish scene was [Oskar Aleksander](@/w/oskar-aleksander.md), who debuted as Adept (_rookie_) Oskar before "earning" his ringname.
 
 ## References
 
