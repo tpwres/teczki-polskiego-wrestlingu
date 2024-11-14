@@ -184,7 +184,8 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
     ed: 2024-05-17
 - - 'Chemik (c)'
   - 'Carlos Zamora'
-  - en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
+  - s: Singles match
+    en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
 - - 'Chemik (c)'
   - '???'
