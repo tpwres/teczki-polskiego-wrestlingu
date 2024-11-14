@@ -22,13 +22,16 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
   - [Jacob Crane](@/w/jacob-crane.md) - Head Coach
   - [Biesiad Strong](@/w/biesiad.md) - Martial Arts Coach
   - [Axel Fox](@/w/axel-fox.md) - Coach
+  - [Gustav Gryffin](@/w/gustav-gryffin.md) - Assistant Coach
+  - [Goblin](@/w/goblin.md) - Assistant Coach
 
 ## Alumni
 
-* Gustaw Gryffin (PpW Dojo)
+* Gustav Gryffin (PpW Dojo)
 * Goblin (PpW Dojo)
-* Mister Z (PpW Dojo)
+* [Mister Z](@/w/mister-z.md) (PpW Dojo)
 * Biesiad Strong (PpW Dojo)
+* [Oskar Aleksander](@/w/oskar-aleksander.md)
 
 ## History
 
@@ -40,6 +43,8 @@ Preceding it was the Summer Wrestling Camp organised by PpW with Jacob Crane as 
 
 For the first time in the Polish wrestling history, it was announced that the training sessions will be held mainly on a weekly basis instead of weekend-only two day training regimes.
 This change was inspired by German dojos such as wXw Academy, as well as martial arts dojos.
+
+The first fully Ewenement-made talent who got a chance to debut at polish scene was Oskar Aleksander, who debuted as Adept Oskar before "earning" his ringname.
 
 ## References
 
