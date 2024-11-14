@@ -48,6 +48,7 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 * [Prince Striker](@/w/royal-striker.md)
 * [Ref Seweryn](@/w/sedzia-seweryn.md)
 * [Isnorr](@/w/isnorr.md)
+* Tony "The River Man" Sheen
 
 ## History
 
