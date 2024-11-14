@@ -9,7 +9,7 @@ The DFW Championship was the main and only title of [Dream Factory Wrestling](@/
 
 ## Statistics:
 * First champion: [Chris Hunter](@/w/chris-hunter.md)
-* Last champion: [Norris](@/w/isnorr-md.)
+* Last champion: [Norris](@/w/isnorr.md)
 * Longest reign: Chris Hunter (246 days)
 * Shortest reign: Norris (approx. 90 days)
 
