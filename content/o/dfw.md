@@ -8,9 +8,9 @@ chrono_root = ["dfw"]
 [extra]
 toclevel = 3
 [extra.gallery]
-1 = { path = "pas-dfw.jpg", caption = "The damaged DFW Championship belt plate. As of 2024, it was kept at [PpW](@/o/ppw.md)'s training facilities."}
-2 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the DFW Championship belt at [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
-pas = { path = "pas-dfw-caly.webp", caption = "The DFW Championship belt in good condition.", source = "Facebook @DreamFactoryWrestling" }
+1 = { path = "pas-dfw.jpg", caption = "The damaged [DFW Championship](@/c/dfw-championship.md) belt plate. As of 2024, it was kept at [PpW](@/o/ppw.md)'s training facilities."}
+2 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the [DFW Championship](@/c/dfw-championship.md) belt at [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
+pas = { path = "pas-dfw-caly.webp", caption = "The [DFW Championship](@/c/dfw-championship.md) belt in good condition.", source = "Facebook @DreamFactoryWrestling" }
 [extra.gallery.atomowki]
 path = "dfw-atomowki.webp"
 caption = """
@@ -52,7 +52,7 @@ However, later in the year, two important characters left to subsequently appear
 
 #### 2018: Final shows, on-line activity
 
-Despite the suspension, there were two small events held in 2018. One was a gauntlet match for the vacant championship, and the other, with only two matches, was a sideshow to a community festival.
+Despite the suspension, there were two small events held in 2018. One was a gauntlet match for the vacant [DFW Championship](@/c/dfw-championship.md), and the other, with only two matches, was a sideshow to a community festival.
 
 On April 1st, 2019, the fanpage teased a comeback show, which would feature a tournament for a new Poland-wide championship, split across three cities: Toruń, Gdynia ([KPW](@/o/kpw.md)'s territory) and Wrocław ([MZW's](@/o/mzw.md)), a reference to their own [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) which was split over two events in two months.
 The finale would be contested as a three-way match and a tournament ladder graphic was later posted.
