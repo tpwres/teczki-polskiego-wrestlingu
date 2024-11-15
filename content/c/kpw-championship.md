@@ -187,7 +187,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
 - - 'Red Scorpion (c)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - s: Singles match
-    en: '[KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md)'
+    en: '[KPW Arena 23: Zabójcze Wyzwanie](@/e/kpw/2023-11-24-kpw-arena-23.md)'
     ed: 2023-11-24
 - - 'Red Scorpion (c)'
   - 'Jack Jester'
@@ -217,9 +217,8 @@ Both defenses took place during events held by Bologna Wrestling Team.
 - - '[Hans Schulte](@/w/hans-schulte.md) (c)'
   - 'Red Scorpion'
   - s: Singles Match
-    en: '[KPW Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md)'
+    en: '[KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md)'
     ed: 2024-11-15
-    nc: Upcoming
 {% end %}
 
 
