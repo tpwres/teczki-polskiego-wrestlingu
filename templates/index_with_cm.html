@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const events = extractUpcoming('ul.event-list-cm')
   const list = document.querySelector('ul.event-list-cm')
   createSection(events, list, 'h2')
-  cleanEmptyYears('h2')
+  cleanEmptyYears('h2', 'ul.event-list-cm')
 })
 </script>
 {% endblock %}
