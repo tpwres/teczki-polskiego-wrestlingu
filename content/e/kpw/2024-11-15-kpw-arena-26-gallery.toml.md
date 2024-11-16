@@ -1,0 +1,8 @@
+1 = { path = "2024-11-15-kpw-arena-26-plakat.jpg", caption = "Official poster. Pictured left to right, top to bottom: [Hans Schulte](@/w/hans-schulte.md) & [Filip Fux](@/w/filip-fux.md); [Michał Fux](@/w/michal-fux.md); [Chemik](@/w/chemik.md) & [Rosetti](@/w/rosetti.md); [Eryk Lesak](@/w/eryk-lesak.md); [Red Scorpion](@/w/red-scorpion.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+
+1 = { path = "2024-11-15-kpw-arena-26-photo-1.jpg", caption = "[Filip Fux](@/w/filip-fux.md) makes his entrance, while a fan displays the Fux Brothers flag, last seen at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)", source = "M3n747" }
+2 = { path = "2024-11-15-kpw-arena-26-photo-2.jpg", caption = "[David Oliwa](@/w/david-oliwa.md) in his new outfit, reminscent of [Masaki Sumitani](https://en.wikipedia.org/wiki/Masaki_Sumitani).", source = "M3n747" }
+3 = { path = "2024-11-15-kpw-arena-26-photo-3.jpg", caption = "Fork found by [Krystian Czekaj](@/w/krystian-czekaj.md) in [David Oliwa's](@/w/david-oliwa.md) boot.", source = "M3n747" }
+4 = { path = "2024-11-15-kpw-arena-26-photo-4.jpg", caption = "[Rosetti](@/w/rosetti.md) attacks [Greg](@/w/greg.md) before the bell, while Greg is disrobing.", source = "M3n747" }
+5 = { path = "2024-11-15-kpw-arena-26-photo-5.jpg", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) carried out on a stretcher by medical staff.", source = "M3n747" }
+6 = { path = "2024-11-15-kpw-arena-26-photo-6.jpg", caption = "[Hans Schulte](@/w/hans-schulte.md) holding up [Red Scorpion's](@/w/red-scorpion.md) mask.", source = "M3n747" }
