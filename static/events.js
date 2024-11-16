@@ -1,9 +1,12 @@
 export function extractUpcoming(selector) {
     const now = new Date(new Date().toDateString())
-    const eventList = document.querySelector(selector || 'ul.event-list')
-    const upcoming = Array.from(eventList.querySelectorAll('li[data-date]'))
-          .filter(el => new Date(el.dataset.date) >= now)
-          .map(el => eventList.removeChild(el));
+    const upcoming = []
+    document.querySelectorAll(selector || 'ul.event-list').forEach((eventList) => {
+        Array.from(eventList.querySelectorAll('li[data-date]'))
+            .filter(el => new Date(el.dataset.date) >= now)
+            .map(el => eventList.removeChild(el))
+            .forEach(el => upcoming.push(el));
+    })
 
     return upcoming
 }
@@ -24,8 +27,8 @@ export function createSection(events, listElement, headerLevel) {
     top.insertBefore(upcomingList, firstHeading)
 }
 
-export function cleanEmptyYears(headerLevel) {
-    document.querySelectorAll(`${headerLevel} + ul.event-list`)
+export function cleanEmptyYears(headerLevel, listSelector) {
+    document.querySelectorAll(`${headerLevel} + ${listSelector || "ul.event-list"}`)
         .forEach(list => {
             if (list.childElementCount > 0) return
             list.previousElementSibling.remove()
