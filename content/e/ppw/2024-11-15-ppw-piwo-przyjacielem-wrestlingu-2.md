@@ -70,7 +70,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
     s: Singles Match
     c: PTW Intergender Championship
 - - '[Aron Wake](@/w/aron-wake.md)'
-  - '[Anthony Brovani](@/w/goblin.md)'
+  - '[Beerman](@/w/goblin.md)'
   - '[Bonus CBD](@/w/gabriel-queen.md)
     s: Triple Threat Match
 - - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), Tomisław Apoloniusz Curuś-Bachleda Farrell'
