@@ -29,7 +29,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Prince Striker](@/w/royal-striker.md)'
   - s: Hardcore Match
-    c: '[PPW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+    c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Karol Górski](@/w/sedzia-karol-gorski.md)'
 - - '[Mister Z](@/w/mister-z.md)'
