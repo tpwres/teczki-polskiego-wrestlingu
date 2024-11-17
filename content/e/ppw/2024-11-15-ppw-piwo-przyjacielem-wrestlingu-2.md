@@ -15,13 +15,14 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
 
 
 {% card(incomplete=true) %}
-- d: 'Saturday, 17:00'
+- d: 'Friday, 17:00'
 - - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - _rookie Bartek_
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Sambor](@/w/sambor.md)'
 - - 'Rodzina Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md), Siostra Kimono'
   - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), Tomisław Apoloniusz Curuś-Bachleda Farrell'
+  # Alvaro is Rookie Karol, Tomisław is Joker. Siostra Kimono = Martyna.
   - s: Tag Team Match
 - - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md)'
   - 'The Feagers: [Bill Feager](@/w/feager.md), Phil Feager'
@@ -35,7 +36,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - Esteban Lucha
   - El Senior Cerveza
   - s: Lucha Libre Triple Threat Match
-- d: 'Saturday, 20:00'
+- d: 'Friday, 20:00'
 - - '[Biesiad](@/w/biesiad.md)'
   - _rookie Andrzej_
 - - '[Marcelito](@/w/marcelito.md)'
