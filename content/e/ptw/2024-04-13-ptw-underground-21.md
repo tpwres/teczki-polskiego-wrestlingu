@@ -92,7 +92,7 @@ Iskra leaves Brave alone in the ring, Disco Pablo makes his entrance and dispatc
 
 #### Marco Hammers vs Diana Strong
 
-Marco Hammers gained muscle, he is visibly larger than in his previous appearances. In a pre-match promo, Hammers and Olgierd put Diana and all women down, then present a new "championship" - _PTW Intergender Championship_, a joke belt made of cardboard. They force a referee to hold the belt up as if it was an actual title defense.
+Marco Hammers gained muscle, he is visibly larger than in his previous appearances. In a pre-match promo, Hammers and Olgierd put Diana and all women down, then present a new "championship" - _[PTW Intergender Championship](@/c/ptw-intergender-championship.md)_, a joke belt made of cardboard. They force a referee to hold the belt up as if it was an actual title defense.
 
 This is a competitive match, with a lot of aggression from Strong. Hammers wins with a variation of Fisherman Buster, after multiple interferences from Olgierd.
 Post-match, Hammers and Olgierd celebrate a championship "defense" with confetti.
