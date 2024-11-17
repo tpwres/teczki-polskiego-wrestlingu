@@ -61,7 +61,7 @@ template = "event_page.html"
 chronology = ["ppw"]
 ```
 
-This event will now be listed in PPW's events section.
+This event will now be listed in PpW's events section.
 At the bottom of its page, there will be links to preceding and following events that also carry a `chronology = ["ppw"]` taxonomy.
 
 ### Creating additional chronologies

@@ -2,7 +2,7 @@
 title = "PpW Poznań Supershow 2021"
 template = "event_page.html"
 [taxonomies]
-chronology = ["ppw", "beer expo", "poznań fair"]
+chronology = ["ppw", "beer-expo", "poznan-fair"]
 venue = ["targi-poznan"]
 [extra]
 hide_results = true
