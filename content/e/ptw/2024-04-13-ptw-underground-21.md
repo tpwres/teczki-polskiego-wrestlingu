@@ -37,7 +37,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
 - ['[Karol "Iskra" Górski](@/w/iskra.md)', '[S. Rafał](@/w/alex-brave.md)', {g: true}]
 - - '[Marco "Łysy" Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
-  - c: PTW Intergender Championship (unsanctioned)
+  - c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md) (unsanctioned)'
 - - '[Puncher](@/w/puncher.md)(c)'
   - Marius Al-Ani(c)
   - c: "PTW Championship & WWA Championship"
