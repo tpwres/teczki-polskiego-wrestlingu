@@ -30,12 +30,12 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - s: Singles Match
-  - en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
+    en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13
 - - 'Siostra Kimono'
   - '[Marco Hammers](@/w/marco-hammers.md)(c)'
   - s: Singles Match
-  - en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
+    en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
     ed: 2024-11-15
 **TOTAL:** 216 days.
 {% end %}
@@ -46,6 +46,6 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
 - - 'Siostra Kimono'
   - '[Marco Hammers](@/w/marco-hammers.md)(c)'
   - s: Singles Match
-  - en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
+    en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
     ed: 2024-11-15
 {% end %}
