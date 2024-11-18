@@ -31,7 +31,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - - '[Feager](@/w/feager.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
 - - '[Isnorr](@/w/isnorr.md)'
-  - Bonus CBD
+  - '[Bonus CBD](@/w/gabriel-queen.md)'
 - - >
     Team Biesiad:
     [Biesiad Strong](@/w/biesiad.md),
