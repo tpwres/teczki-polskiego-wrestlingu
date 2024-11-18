@@ -28,7 +28,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
 - - '[Esteban Lucha](@/w/biesiad.md)'
-  - Czacha
+  - '[Czacha](@/w/johnny-blade.md)'
 - - '[Esteban Lucha](@/w/biesiad.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
 - - '[Isnorr](@/w/isnorr.md)'
@@ -39,7 +39,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   - '[Adam Wong](@/w/adam-wong.md)'
   - '[Cade Bruce](@/w/mister-z.md)'
   - '[Isnorr](@/w/isnorr.md)'
-  - Czacha
+  - '[Czacha](@/w/johnny-blade.md)'
   - '[Steven Kimono](@/w/biesiad.md)'
   - '[Direk](@/w/direk.md)'
   - '[Hades](@/w/olgierd.md)'

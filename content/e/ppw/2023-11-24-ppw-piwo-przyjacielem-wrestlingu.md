@@ -26,7 +26,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - Mamet
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - "[Steven Kimono](@/w/biesiad.md)"
-- - "Czacha"
+- - "[Czacha](@/w/johnny-blade.md)"
   - "[El Senior Cerveza](@/w/goblin.md)"
 - - '[Feager](@/w/feager.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
