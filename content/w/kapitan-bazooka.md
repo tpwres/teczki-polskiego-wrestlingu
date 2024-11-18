@@ -38,7 +38,7 @@ This broke Bazooka's undefeated streak.
 
 ### 2024: Betraying Mandecky, retirement
 
-Bazooka's only other singles match after May 2023 was against Kapral Kornel at [PpW Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) in November.
+Bazooka's only other singles match after May 2023 was against [Kapral Kornel](@/w/sedzia-kornel.md) at [PpW Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) in November.
 On that event, he also appeared in two multi-man matches.
 His next and final appearance was at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#segment-kapitan-bazooka-jerry-rich-mandecki) in April 2024.
 Mandecky entered the ring, followed by Bazooka in urban camo and a black vest with a "SECURITY" badge on his chest, wearing a black skull cap and a face mask with a skull motif. Their entrance music wasn't Mandecky's or Bazooka's usual themes, but Iron Maiden's "The Trooper".
