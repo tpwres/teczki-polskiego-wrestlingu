@@ -20,7 +20,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - d: Day 1
 - [Superior, '[Cade Bruce](@/w/mister-z.md)']
 - ['[Direk](@/w/direk.md)', '[Tony Sk1n](@/w/tony-sk1n.md)']
-- ['[Hirinus](@/w/hirinus.md)', '2 Chamy: [Automatico](@/w/rob-scaffold.md), [Black Orion](@/w/black-orion.md)', {s: Handicap Match}]
+- ['[Hirinus](@/w/hirinus.md)', '2 Chamy: [Automatico](@/w/rob-scaffold.md), [Black Orion](@/w/johnny-blade.md)', {s: Handicap Match}]
 - ['[Isnorr](@/w/isnorr.md)', '[Adam Wong](@/w/adam-wong.md)']
 - ['[Esteban Lucha](@/w/biesiad.md)', Czacha]
 - ['[Esteban Lucha](@/w/biesiad.md)', '[Adam Wong](@/w/adam-wong.md)']
@@ -40,8 +40,9 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - ['[Rob Scaffold](@/w/rob-scaffold.md)', '[Aron Wake](@/w/aron-wake.md)']
 - ['[Hades](@/w/olgierd.md)', '[Tony Sk1n](@/w/tony-sk1n.md)']
 - ['[Cade Bruce](@/w/mister-z.md)', '[Madman Charlie](@/w/madman-charlie.md)']
-- ['[Johnny Blade](@/w/johnny-blade.md)', '[Adam Wong](@/w/adam-wong.md)', {s: Classic
-      Wrestling Match}]
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Adam Wong](@/w/adam-wong.md)'
+  - s: Classic Wrestling Match
 - ['[Isnorr](@/w/isnorr.md)', Bonus CBD]
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
