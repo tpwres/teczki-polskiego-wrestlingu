@@ -16,7 +16,7 @@ The PTW Intergender Championship is a joke DIY professional wrestling championsh
 
 ## History
 
-The title was hand-made by [Marco Hammers](@/w/marco-hammers.md) for his fight with [Diana Strong](@/w/diana-strong.md) at [PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md). Although it was introduced as a joke title, Marco defended it as if it were a proper Championship and boasted about his victory afterwards. PTW only vaguely recognised the title and after Marco Hammers left the promotion, he took the title with him.
+The title was hand-made by [Marco Hammers](@/w/marco-hammers.md) for his fight with [Diana Strong](@/w/diana-strong.md) at [PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md). Although it was introduced as a joke title, Marco defended it as if it were a proper Championship and boasted about his victory afterwards. PTW only vaguely recognised the title and after Marco Hammers left the promotion, he took the title belt with him.
 
 ## Belt design
 
@@ -32,20 +32,28 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
   - s: Singles Match
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13
-- - 'Siostra Kimono'
+- - 'Istotna Martynka'
   - '[Marco Hammers](@/w/marco-hammers.md)(c)'
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
-    ed: 2024-11-15
-**TOTAL:** 216 days.
+    ed: 2024-11-16 # Two-day event
 {% end %}
 
-### Champion #2: Siostra Kimono
+**TOTAL:** 216 days.
+
+### Champion #2: Istotna Martynka
 
 {% free_card() %}
-- - 'Siostra Kimono'
+- - 'Istotna Martynka'
   - '[Marco Hammers](@/w/marco-hammers.md)(c)'
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
-    ed: 2024-11-15
+    ed: 2024-11-16
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - 'Istotna Martynka(c)'
+  - s: Singles Match
+    en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
+    ed: 2024-11-16
 {% end %}
+
+**TOTAL:** <1 day
