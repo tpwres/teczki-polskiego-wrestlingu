@@ -51,7 +51,7 @@ Besides that, Olgierd was one of the participants of the [Gold Rush Rumble](@/e/
 
 Olgierd and Hammers, teaming together as Legia Łysych returned to PpW during [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), in a surprise appearance, answering a challenge laid out by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
 While Pure Gold were taunting Legia on their social media channels before the event, fans didn't take this for anything but a provocation against PTW.
-Legia, up until the very last moment, appeared to remain committed to PTW, themselves feuding with Vincent Caravaggio and defending a joke "Intergender Championship" belt made of cardboard.
+Legia, up until the very last moment, appeared to remain committed to PTW, themselves feuding with Vincent Caravaggio and defending a joke "[Intergender Championship](@/c/ptw-intergender-championship.md)" belt made of cardboard.
 They were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
 Shortly after his return to PpW he joined ["Zmowa"](@/a/the-collusion.md), a villainous faction led by [Mister Z](@/w/mister-z.md), fighting against PpW's top babyfaces both in tag team & in solo action.
 
