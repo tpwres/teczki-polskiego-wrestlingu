@@ -32,7 +32,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - s: Hardcore Match
     c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Isnorr](@/w/isnorr.md)'
-  - '[Karol Górski](@/w/sedzia-karol-gorski.md)'
+  - '[Karol Górski](@/w/madman-charlie.md)'
   - s: Non-title Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
@@ -119,7 +119,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
     c: Golden Goat Trophy
 - credits:
     Ring Announcer, Host: '[Michael HT](@/w/michael-ht.md), [Rysiu Benzynka](@/w/joker.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
 ## References

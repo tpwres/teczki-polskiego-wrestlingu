@@ -64,7 +64,7 @@ The foreign guests for this event were:
     n: "[Johnny Blade](@/w/johnny-blade.md) was the special guest referee."
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
     Commentary: 'Szymon Modzelewski, [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 
