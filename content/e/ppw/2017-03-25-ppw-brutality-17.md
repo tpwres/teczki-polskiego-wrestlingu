@@ -24,7 +24,7 @@ This was the final PpW show to use the old DIY ring.
 
 {% card() %}
 - - '[Jim Enerico](@/w/mister-z.md)'
-  - '[Black Orion](@/w/black-orion.md)'
+  - '[Black Orion](@/w/johnny-blade.md)'
   - s: Hardcore Match
 - - '[Steven Strong](@/w/biesiad.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
