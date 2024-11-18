@@ -1,6 +1,7 @@
 +++
 title = "PTW Underground 24: Bania U Prezesa"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
