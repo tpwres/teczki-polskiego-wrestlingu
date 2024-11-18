@@ -22,8 +22,8 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - ['[Direk](@/w/direk.md)', '[Tony Sk1n](@/w/tony-sk1n.md)']
 - ['[Hirinus](@/w/hirinus.md)', '2 Chamy: [Automatico](@/w/rob-scaffold.md), [Black Orion](@/w/black-orion.md)', {s: Handicap Match}]
 - ['[Isnorr](@/w/isnorr.md)', '[Adam Wong](@/w/adam-wong.md)']
-- [Esteban Lucha, Czacha]
-- [Esteban Lucha, '[Adam Wong](@/w/adam-wong.md)']
+- ['[Esteban Lucha](@/w/biesiad.md)', Czacha]
+- ['[Esteban Lucha](@/w/biesiad.md)', '[Adam Wong](@/w/adam-wong.md)']
 - ['[Isnorr](@/w/isnorr.md)', '[Hades](@/w/olgierd.md)', {s: Hardcore Match}]
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
@@ -31,12 +31,12 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   - '[Cade Bruce](@/w/mister-z.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - Czacha
-  - Steven Kimono
+  - '[Steven Kimono](@/w/biesiad.md)'
   - '[Direk](@/w/direk.md)'
   - '[Hades](@/w/olgierd.md)'
   - s: Royal Rumble
 - d: Day 2
-- ['[Isnorr](@/w/isnorr.md)', Esteban Lucha]
+- ['[Isnorr](@/w/isnorr.md)', '[Esteban Lucha](@/w/biesiad.md)']
 - ['[Rob Scaffold](@/w/rob-scaffold.md)', '[Aron Wake](@/w/aron-wake.md)']
 - ['[Hades](@/w/olgierd.md)', '[Tony Sk1n](@/w/tony-sk1n.md)']
 - ['[Cade Bruce](@/w/mister-z.md)', '[Madman Charlie](@/w/madman-charlie.md)']
