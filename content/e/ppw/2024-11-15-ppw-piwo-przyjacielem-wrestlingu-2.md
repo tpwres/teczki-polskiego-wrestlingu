@@ -69,7 +69,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
 - - 'Istotna Martynka'
   - '[Marco Hammers](@/w/marco-hammers.md)(c); [Olgierd](@/w/olgierd.md); Darko Hammers'
   - s: Singles Match
-    c: PTW Intergender Championship
+    c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md)'
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Mikey Beerman](@/w/goblin.md)'
   - '[Bonus CBD](@/w/gabriel-queen.md)'
