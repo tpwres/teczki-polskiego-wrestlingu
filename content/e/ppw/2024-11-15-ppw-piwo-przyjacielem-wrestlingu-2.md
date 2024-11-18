@@ -12,6 +12,9 @@ city = "Poznań"
 
 On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again invited to Poznańskie Targi Piwne (_Poznań Beer Expo_). The wrestlers staged two performances on Friday, and a single, longer one on Saturday.
 
+Like the previous two shows at the Beer Expo, this one was mostly non-canon and did not continue prior storylines.
+The only exception was Isnorr's title defense against Prince Striker.
+
 
 {% card() %}
 - d: 'Friday, 17:00'
@@ -27,6 +30,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - s: Tag Team Match
 - - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md); Siostra Kimono'
   - 'The Feagers: [Bill Feager](@/w/feager.md), Phil Feager'
+  - s: Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)(c)'
   - '[Prince Striker](@/w/royal-striker.md)'
   - s: Hardcore Match
