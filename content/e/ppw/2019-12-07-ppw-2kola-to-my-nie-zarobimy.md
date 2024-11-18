@@ -25,7 +25,7 @@ This was likely the first PpW event open for general public, as opposed to frien
   - nc: '?'
     s: Pre-show
 - - '[Mister Z](@/w/mister-z.md)(c)'
-  - 'Terry Shadow (impostor)'
+  - '[Terry Shadow (impostor)'](@/w/rob-scaffold.md)'
   - nc: '?'
     c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Duende](@/w/sedzia-borys.md)'
