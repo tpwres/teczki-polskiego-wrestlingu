@@ -49,17 +49,17 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Feager](@/w/feager.md)'
-- - Czesław Pierdolec
+- - '[Czesław Pierdolec](@/w/kapitan-bazooka.md)'
   - "[Steven Kimono](@/w/biesiad.md)"
 - - "[Isnorr](@/w/isnorr.md)"
   - "[Mister Z](@/w/mister-z.md)"
   - "[Striker](@/w/royal-striker.md)"
   - Mamet
   - s: "New Jack Tribute Match"
-- - 'Bracia Pierdolec: Czesław Pierdolec, [Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - 'Bracia Pierdolec: [Czesław Pierdolec](@/w/kapitan-bazooka.md), [Gustav Pierdolec](@/w/gustav-gryffin.md)'
   - "Bracia Kimono: [Steven Kimono](@/w/biesiad.md), Konnan Kimono"
   - s: Tag Team Match
-- - "Hardcore Gustav"
+- - "[Hardcore Gustav](@/w/gustav-gryffin.md)"
   - "[El Senior Cerveza](@/w/goblin.md)"
 - - "[Kapral Kornel](@/w/sedzia-kornel.md)"
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
