@@ -21,7 +21,7 @@ This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.
   - Matt Miric
   - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
   - Svedberg
-  - '[El Ogre](@/w/el-ogre.md)'
+  - '[El Ogre](@/w/olgierd.md)'
   - Benji
   - Blaze
   - Electra

@@ -4,7 +4,7 @@ template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Ultimo Combo", "Vins Michael $hot"]
+career_aliases = ["Ultimo Combo", "Vins Michael $hot", "Black Orion", "Czacha"]
 [extra.gallery]
 1 = { path = "johnny-blade.jpg", caption = "Promo shot of Johnny Blade.", source = "Johnny Blade's official Facebook" }
 +++

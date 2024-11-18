@@ -30,7 +30,7 @@ Featuring a battle royale match to select the next contender for Revage's DFW ch
   - '[Malmo Buruto](@/w/malmo-buruto.md)'
   - '[Cade Bruce](@/w/mister-z.md)'
   - '[Charlie](@/w/madman-charlie.md)'
-  - '[Black Orion](@/w/black-orion.md)'
+  - '[Black Orion](@/w/johnny-blade.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - 'Matuch'
   - 'Hekate'

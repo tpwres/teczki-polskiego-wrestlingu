@@ -11,7 +11,7 @@ city = "Warszawa"
 hide_results = true
 [extra.gallery.1]
 path = "2019-12-07-ppw-2kola-to-my-nie-zarobimy-plakat.jpg"
-caption = "Official poster, showing a burnt down truck, probably a Mercedes T1, in front of the [2KOŁA](@/v/2kola.md) pub."
+caption = "Official poster, showing a burnt down truck (probably a Mercedes T1) in front of the [2KOŁA](@/v/2kola.md) pub."
 source = "[Official PpW Facebook]"
 +++
 
@@ -25,11 +25,11 @@ This was likely the first PpW event open for general public, as opposed to frien
   - nc: '?'
     s: Pre-show
 - - '[Mister Z](@/w/mister-z.md)(c)'
-  - 'Terry Shadow (impostor)'
+  - '[Terry Shadow (impostor)](@/w/rob-scaffold.md)'
   - nc: '?'
     c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Duende](@/w/sedzia-borys.md)'
-  - '[Black Orion](@/w/black-orion.md)'
+  - '[Black Orion](@/w/johnny-blade.md)'
   - nc: '?'
     s: No-DQ Match
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'

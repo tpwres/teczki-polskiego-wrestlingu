@@ -73,7 +73,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
     s: Blood God Ritual - Trial by Metal and Glass Match
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Commentary: '"Modzel" Szymon Modzelewski, Mateusz "Orzech" Orzechowski'
     Interviews: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
 {% end %}
@@ -109,7 +109,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 #### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v Adept Oskar
 
-* Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/sedzia-karol-gorski.md) already waits in the ring.
+* Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/madman-charlie.md) already waits in the ring.
 * Timestamp: `2:11:32`
 * [Marcelito](@/w/marcelito.md) makes his face entrance first.
 * Second of the babyfaces - [Aron Wake](@/w/aron-wake.md) - makes his entrance shortly after Marcelito.

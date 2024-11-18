@@ -25,7 +25,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
   - "[Marcelito](@/w/marcelito.md), [Axel Fox](@/w/axel-fox.md)"
   - s: Open Challenge
     c: PTW Tag Team Championship
-- ['[Vincent Caravaggio](@/w/vincent-caravaggio.md)', '[El Ogre](@/w/el-ogre.md)']
+- ['[Vincent Caravaggio](@/w/vincent-caravaggio.md)', '[El Ogre](@/w/olgierd.md)']
 - ['[Sambor](@/w/sambor.md)', '[Erik Šlotíř](@/w/erik-slotir.md)']
 - ['[King Kaiden](@/w/king-kaiden.md)', '[Olgierd](@/w/olgierd.md)']
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'

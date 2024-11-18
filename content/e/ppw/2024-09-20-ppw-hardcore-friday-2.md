@@ -44,7 +44,7 @@ city = "Warszawa"
     s: '[Zmowa](@/a/the-collusion.md) vs Zmowa przeciwko zmowie face off'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Recap
@@ -60,7 +60,7 @@ city = "Warszawa"
 
 * [Referee Seweryn](@/w/sedzia-seweryn.md) slides into the ring. Crowd chants for "violence".
 * Out next is [Axel Fox](@/w/axel-fox.md). He makes his entrance and calls out Mister Z or anybody else. Making his entrance is rookie Oskar, wearing all black, Young Lion-style gear. The crowd makes fun of it with "show your ass", "wear some pants" and "show your dick" chants. Fox offers a handshake, but Oskar refuses, establishing himself as a heel in this match. The crowd's clearly on Fox's side. Oskar establishes early dominance with power moves and berating his smaller oponent. Fox makes a comeback, "this is awesome" chants erupt. Fox wins with a top rope elbow drop to a huge pop. He offers a handshake to the rookie, which he now accepts. Fox celebrates in the ring.
-* [Referee Karol Górski](@/w/sedzia-karol-gorski.md) makes his entrance, Michael HT is back in the ring. He plugs the tickets for next show, [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), at a discount.
+* [Referee Karol Górski](@/w/madman-charlie.md) makes his entrance, Michael HT is back in the ring. He plugs the tickets for next show, [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), at a discount.
 
 #### Gabriel Queen vs Olgierd
 
