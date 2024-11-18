@@ -5,7 +5,6 @@ template = "event_page.html"
 chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 1 = { path = "2024-11-16-ptw-underground-24-plakat.jpg", caption = 'Official poster. Pictured left to right, top row: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Miyagi Shida](@/w/miyagi-shida.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Max Speed](@/w/max-speed.md), [Alex Brave](@/w/alex-brave.md); middle row: [Spartan](@/w/spartan.md), Jack Vaughn, [Dawid "Puncher" Seńko](@/w/puncher.md), Aaron Williams, Jake Omen; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Łukasz "Prezes" Okoński".', source = "Official PTW Facebook" }
