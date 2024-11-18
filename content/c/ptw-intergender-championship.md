@@ -29,7 +29,7 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
 
 ## Title history
 
-### Champion #1: Marco Hammers
+### Champion #1: Marco Hammers (1st run)
 
 {% free_card() %}
 - - '[Marco Hammers](@/w/marco-hammers.md)'
@@ -62,3 +62,13 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
 {% end %}
 
 **TOTAL:** <1 day
+
+### Champion #3: Marco Hammers (2nd run)
+
+{% free_card() %}
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - 'Istotna Martynka(c)'
+  - s: Singles Match
+    en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
+    ed: 2024-11-16
+{% end %}
