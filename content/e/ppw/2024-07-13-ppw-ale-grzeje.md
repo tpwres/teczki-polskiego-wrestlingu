@@ -57,7 +57,7 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Commentary, Interviews: 'Konrad "Joker" Grzesikiewicz'
+    Commentary, Interviews: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
     Commentary: '"Modzel" Szymon Modzelewski'
 {% end %}
 
