@@ -54,7 +54,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
 * Arczi Czajka
 * [Wiktor Longman](@/w/wiktor-longman.md)
 * [Spartan](@/w/spartan.md)
-* [El Ogre](@/w/el-ogre.md)
+* [El Ogre](@/w/olgierd.md)
 * [Karyna](@/w/karyna.md)
 * Alex Brave
 * [Max Speed](@/w/max-speed.md)

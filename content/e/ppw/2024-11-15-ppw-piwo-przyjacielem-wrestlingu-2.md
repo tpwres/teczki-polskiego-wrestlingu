@@ -98,7 +98,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - '[Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
   - Alvaro
   - _rookie Andrzej_
-  - '[El Ogre](@/w/el-ogre.md)'
+  - '[El Ogre](@/w/olgierd.md)'
   - '[Kapitan Testosteron](@/w/marco-hammers.md)'
   - _rookie Bartek_
   - '[Prince Striker](@/w/royal-striker.md)'

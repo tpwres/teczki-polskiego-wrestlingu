@@ -17,7 +17,7 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 {% card() %}
 - ['[Axel Fox](@/w/axel-fox.md)', '[Marcelito](@/w/marcelito.md)']
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[El Ogre](@/w/el-ogre.md)'
+  - '[El Ogre](@/w/olgierd.md)'
   - s: '[Marco Hammers](@/w/marco-hammers.md) to receive a PTW contract upon winning'
 - ['["Top Gun" Samson](@/w/samson.md)', Emilian Lewis]
 - - 'PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)'

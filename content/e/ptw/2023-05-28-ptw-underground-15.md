@@ -23,7 +23,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - ['["Top Gun" Samson](@/w/samson.md)', '[Marcelito](@/w/marcelito.md)', {r: DQ}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
 - ['[Taras](@/w/taras.md)', '[Marco Hammers](@/w/marco-hammers.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/el-ogre.md)']
+- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/olgierd.md)']
 - ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

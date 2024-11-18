@@ -26,7 +26,7 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
     s: Dark Baptism}]
 - ["[Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md)", "[Marcelito](@/w/marcelito.md),
     [Samson](@/w/samson.md)", {s: "Tag Team Match"}]
-- ["[Puncher](@/w/puncher.md)", "[El Ogre](@/w/el-ogre.md)"]
+- ["[Puncher](@/w/puncher.md)", "[El Ogre](@/w/olgierd.md)"]
 - ["[Nano Lopez](@/w/nano-lopez.md)", "Jarek Nowak"]
 - ["Peter Tihanyi", "[Axel Fox](@/w/axel-fox.md)"]
 - credits:
