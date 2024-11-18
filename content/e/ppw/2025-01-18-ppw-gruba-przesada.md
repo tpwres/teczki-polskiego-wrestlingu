@@ -13,7 +13,7 @@ caption = "Official poster."
 source = "[Official PpW Facebook]"
 +++
 
-Gruba Przesada (roughly _Far Too Much_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Teatr Komuna](@/v/teatr-komuna.md).
+Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Teatr Komuna](@/v/teatr-komuna.md).
 
 {{ skip_card() }}
 
