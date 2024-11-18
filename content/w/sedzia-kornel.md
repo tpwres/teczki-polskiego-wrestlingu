@@ -5,7 +5,7 @@ authors = ["Szymon Iwulski"]
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Kapitan Kornel", "Kapral Kornel"]
+career_aliases = ["Kapitan Kornel", "Kapral Kornel", "Ignacio"]
 [extra.gallery.1]
 path = "kornel-praga-centrum.webp"
 caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md)"
