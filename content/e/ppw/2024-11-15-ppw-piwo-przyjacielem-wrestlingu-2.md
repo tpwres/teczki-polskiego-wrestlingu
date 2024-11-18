@@ -22,8 +22,8 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - '[Sambor](@/w/sambor.md)'
   - s: Singles Match
 - - 'Rodzina Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md), Siostra Kimono'
-  - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), Tomisław Apoloniusz Curuś-Bachleda Farrell'
-  # Alvaro is Rookie Karol, Tomisław is Joker. Siostra Kimono = Martyna.
+  - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
+  # Alvaro is Rookie Karol, Siostra Kimono = Martyna.
   - s: Tag Team Match
 - - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md), Siostra Kimono'
   - 'The Feagers: [Bill Feager](@/w/feager.md), Phil Feager'
@@ -74,7 +74,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - '[Mikey Beerman](@/w/goblin.md)'
   - '[Bonus CBD](@/w/gabriel-queen.md)'
   - s: Triple Threat Match
-- - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), Tomisław Apoloniusz Curuś-Bachleda Farrell'
+- - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
   - '[Isnorr](@/w/isnorr.md), [Prince Striker](@/w/royal-striker.md), [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: Six-Man Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)'
@@ -95,7 +95,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - '[Sambor](@/w/sambor.md)'
   - '[Bill Feager](@/w/feager.md)'
   - '[Ignacio](@/w/sedzia-kornel.md)'
-  - Tomisław Apoloniusz Curuś-Bachleda Farrell
+  - '[Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
   - Alvaro
   - _rookie Andrzej_
   - '[El Ogre](@/w/el-ogre.md)'
@@ -118,7 +118,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - s: Royal Rumble
     c: Golden Goat Trophy
 - credits:
-    Ring Announcer, Host: '[Michael HT](@/w/michael-ht.md), Rysiu Benzynka'
+    Ring Announcer, Host: '[Michael HT](@/w/michael-ht.md), [Rysiu Benzynka](@/w/joker.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 

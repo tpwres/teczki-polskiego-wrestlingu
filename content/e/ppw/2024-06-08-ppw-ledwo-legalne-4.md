@@ -22,7 +22,7 @@ PpW announced a pre-show conference to be held on May 31st, 2024, one week befor
 #### Pre-show
 
 The event featured Q&A panels and face-to-face confrontations between competitors for each upcoming match.
-It was moderated by Konrad "Joker" Grzesikiewicz and "OG" Michael HT. Joker did commentary and interviews at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#finale), while Michael HT is PpW's ring announcer and mouthpiece.
+It was moderated by [Konrad "Joker" Grzesikiewicz](@/w/joker.md) and ["OG" Michael HT](@/w/michael-ht.md). Joker did commentary and interviews at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#finale), while Michael HT is PpW's ring announcer and mouthpiece.
 Tables were placed on a small stage mimicking a proper press conference setting, but with a unique twist: instead of water, there were PpW-labeled beer bottles on the tables.
 
 * [Mister Z](@/w/mister-z.md) started first, answering some hard questions, including ones about their competition ([PTW](@/o/ptw.md)). [Biesiad](@/w/biesiad.md) joined him to also answer some questions. They tried calling the absent [Feager](@/w/feager.md) on the phone, but he didn't answer. Face to face on stage, they tried to get physical but were quickly separated.
@@ -81,7 +81,7 @@ Shortly before the show, they were trading insults and challeneges online with L
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
-    Interviewer: Konrad "Joker" Grzesikiewicz
+    Interviewer: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 
 ### References

@@ -65,7 +65,7 @@ The foreign guests for this event were:
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
-    Commentary: Szymon Modzelewski, Konrad "Joker" Grzesikiewicz
+    Commentary: 'Szymon Modzelewski, [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 
 ### Full report
