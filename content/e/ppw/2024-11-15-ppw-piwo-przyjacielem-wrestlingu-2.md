@@ -27,7 +27,7 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - s: Tag Team Match
 - - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md), Siostra Kimono'
   - 'The Feagers: [Bill Feager](@/w/feager.md), Phil Feager'
-- - '[Isnorr](@/w/isnorr.md)'
+- - '[Isnorr](@/w/isnorr.md)(c)'
   - '[Prince Striker](@/w/royal-striker.md)'
   - s: Hardcore Match
     c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
@@ -87,9 +87,9 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
   - '[Scarecrow](@/w/mister-z.md)'
   - s: ECW Rules Match
 - - '[Marco Hammers](@/w/marco-hammers.md); [Olgierd](@/w/olgierd.md); Darko Hammers'
-  - 'Istotna Martynka'
+  - 'Istotna Martynka(c)'
   - s: Singles Match
-    c: PTW Intergender Championship
+    c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md)'
 - - '[Bonus CBD](@/w/gabriel-queen.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
   - '[Sambor](@/w/sambor.md)'
