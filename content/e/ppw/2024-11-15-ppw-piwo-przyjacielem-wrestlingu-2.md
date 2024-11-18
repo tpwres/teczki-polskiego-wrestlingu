@@ -5,7 +5,6 @@ template = "event_page.html"
 chronology = ["ppw"]
 venue = ["targi-poznan"]
 [extra]
-hide_results = true
 city = "Poznań"
 [extra.gallery]
 1 = { path = "2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2-plakat.jpg", caption = "Official poster, featuring [Goblin](@/w/goblin.md).", source = "Official PpW Facebook" }
@@ -14,7 +13,7 @@ city = "Poznań"
 On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again invited to Poznańskie Targi Piwne (_Poznań Beer Expo_). The wrestlers staged two performances on Friday, and a single, longer one on Saturday.
 
 
-{% card(incomplete=true) %}
+{% card() %}
 - d: 'Friday, 17:00'
 - - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - _rookie Bartek_
