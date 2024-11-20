@@ -5,7 +5,7 @@ weight = 0
 authors = ["Krzysztof Zych"]
 [extra.gallery.1]
 path = "teletydzien-19990118-tnt.webp"
-caption = "TV listing for TNT on Friday, Jan 22, 1999, poorly cropped."
+caption = "TV listing for TNT on Friday Jan 22, 1999, poorly cropped. The wrestler shown is Big Van Vader."
 source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archive.org/details/tele-tydzien-nr-4-18.01.1999-skan_20220929), page 17/63"
 [extra.gallery.2]
 path = "teletydzien-19990118-dsf.webp"
@@ -24,16 +24,35 @@ in Poland, and rarely featured on TV.
 
 ## 1990s-2002
 
-TNT, an American TV channel that mainly focused on classic films, reached Poland in the late 1990, becoming available in several cable TV networks. It initially shared its programming with Cartoon Network, which ran from the morning hours until 22:00 (10&nbsp;PM), when TNT content would start broadcasting.
+Probably the first Polish channel to air wrestling, was [ATV][atv-wikipedia], itself, one of the first commercial channels to be granted a broadcast license.
+As early as 1995, they were airing WCW Worldwide with amusing Polish commentary by the team of Mariusz Szkwał (Włodzimierz Osiński) and Krzysztof Zadziorny (Grzegorz Pawlak), who notably attempted to translate and localize names of wrestlers, wrestling moves and terms.
 
+As early as 1994, DSF (_Deutsche Sport Fernsehen_), a German sport TV channel available through satellite receivers and later also in several cable networks, was showing World Wrestling Federation's shows after 22:00, on various days through the years, settling on Saturdays.
+Later listings from 2002 advertised WCW in that timeslot, which may have been an error.
+
+TNT, an American TV channel that mainly focused on classic films, reached Poland in late 1990s, becoming available in several cable TV networks. It initially shared its programming with Cartoon Network, which ran from the morning hours until 22:00 (10&nbsp;PM), when TNT content would start broadcasting.
 TNT aired World Championship Wrestling's Nitro flagship show, later joined by Thunder (the B-show) directly afterwards, on Friday at 22:00. Notably, this was broadcast with original English commentary only. This lasted until the organization went defunct in 2001.
 
-Roughly during the same period, and as early as 1994, DSF (_Deutsche Sport Fernsehen_), a German sport TV channel available through satellite receivers and later also in several cable networks, was showing World Wrestling Federation's shows after 22:00, on various days through the years, settling on Saturdays.
-Later listings from 2002 advertised WCW in that timeslot, which may have been an error.
 
 In 1998, a new general TV channel named Wizja&nbsp;1 (_Vision&nbsp;1_) was launched. Its programming also included wrestling, on Saturdays at 18:00 (6&nbsp;PM), airing WWF Superstars with commentary by Tomasz Lorek, Grzegorz Kalinowski and Andrzej Supron.
 
-Around 1998, general purpose channel Polsat&nbsp;2 also broadcast WCW, though not the flagship show. The show was named "Wszystkie Chwyty Dozwolone" (_No Holds Barred_) and aired on Saturday mornings, with commentary by Michał Olszański and others.
+Also around 1998, general purpose channel Polsat&nbsp;2 aired WCW, though not the flagship show but older episodes of Worldwide and recaps. The show was named "Wszystkie Chwyty Dozwolone" (_No Holds Barred_) and aired on Saturday mornings, with commentary by Michał Olszański and others.
+
+## 2003-2019
+
+After the boom and flop of wrestling on general-purpose channels, they moved to sports-oriented channels instead.
+The first one was Extreme Sports Channel, which started airing WWE Raw episodes on tape delay. They were soon joined by Eurosport, which aired TNA Wrestling on Fridays.
+Starting in 2009, Eurosport replaced TNA with WWE recaps and their Vintage Collection show, on Mondays.
+
+During this time, the Polish wrestling scene was beginning to form, but with no interest by the media save for short news reports.
+[DDW](@/o/ddw.md) wanted to air their wrestling, but it never happened due to lack of interest.
+[TBW](@/o/tbw.md) planned to air their two shows and future events on Orange Sport in 2011, but both the organization and channel folded not long afterwards.
+
+In 2012, FightBox, a channel dedicated to combat sports entered cable TV. Since at least 2016, the channel aired NEW, a German wrestling promotion from Hessen, later joined by UK Wrestling, from Leeds, England. Notably, the English commentary for NEW was none other than [Don Roid](@/w/don-roid.md).
+
+## 2020
+
+In 2020, local branch of the national broadcaster TVP3 Wrocław published a [short piece on MZW][mzw-tvp3], titled "Staged and seemingly menacing. Wrestling gains popularity in Wrocław". The narrator talks about the staged nature of wrestling as entertainment, while several rookies and wrestlers practice bumps in the ring wearing face masks (as this was produced during the COVID-19 pandemic). [Shadow](@/w/shadow.md), introduced as [PAW](@/o/paw.md)'s coach, talks about training and safety. MZW's flag is clearly visible in the background.
 
 ## 2021
 
@@ -64,6 +83,15 @@ The following day Legacy [officially confirmed][extreme-low-2] their media partn
 One week later, on November 18th, Extreme and [KPW](@/o/kpw.md) also posted about signing a deal to air their shows, starting with [KPW Arena 23: Zabójcze Wyzwanie](@/e/kpw/2023-11-24-kpw-arena-23.md) on Saturday, November 23rd.
 It is unclear if their shows will continue to air on FightBox.
 
+## References
+
+* [Article by SixKiller of Attitude Forum](https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time
+* [Undisputed Polska](https://www.youtube.com/@Undisputed-Polska) YouTube channel with video archives of various Polish wrestling broadcasts.
+* [Old Polish TV Wikia][staratelewizja-2007] page for Friday, Jul 6 2007, lists TNA wrestling on Eurosport
+* [Article on WirtualneMedia from 2009][wmedia-eurosport] advertising wrestling on Eurosport
+* [Telemagazyn's archive of Eurosport listings](https://telemagazyn.pl/stacje/eurosport-1/archiwum), other channels also available
+
+
 [extreme-low-1]: https://www.extreme.com/pl/program/legacy-of-wrestling/
 [extreme-low-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02mTUKt1pcAtvxPxFZASu4UHCEWbPLnbmnuDe219qYvB41kXG8rXLdyfMPefFbky3gl
 [tvt-youtube]: https://www.youtube.com/@TVTtelewizja
@@ -73,7 +101,7 @@ It is unclear if their shows will continue to air on FightBox.
 [halo-tu-ppw]: https://youtu.be/rbscVyOSjn0?si=Li0WYQoHiVM9V-Pe
 [czysteintencje-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid02R3XfFF8t7Wff6kJNEQz6Pq84AUbn5wvYBrPtPG4AuYSaUHF7FyMebzbsxV1WGtBEl
 [ptwrevolucja-tvp-sport]: https://sport.tvp.pl/56112996/kinguin-prime-time-wrestling-1-revolucja-transmisja-na-zywo-online-live-stream-gdzie-ogladac
-
-## References
-
-* [Article by SixKiller of Attitude Forum](https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time
+[wmedia-eurosport]: https://www.wirtualnemedia.pl/artykul/gwiazdy-wrestlingu-w-eurosporcie
+[staratelewizja-2007]: https://staratelewizja.fandom.com/pl/wiki/06_Lipca_2007
+[atv-wikipedia]: https://pl.wikipedia.org/wiki/ATV_%E2%80%93_Krajowa_Telewizja_Kablowa
+[mzw-tvp3]: https://wroclaw.tvp.pl/48638715/wyrezyserowany-grozny-na-pozor-wrestling-nabiera-popularnosci-we-wroclawiu
