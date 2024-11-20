@@ -1,29 +1,3 @@
-{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
-<footer>
-  {%- if page -%}
-    {{- issues::authors(authors=page.authors) }}
-    <p>Is this page incorrect? Do you have extra information? <a href="{{ issues::new_issue(path=page.relative_path, title=page.title) }}">Submit an issue!</a></p>
-  {%- endif %}
-  <p>Created with
-    <a href="https://github.com/getzola/zola">zola</a>,
-    the <a href="https://github.com/wilsonjholmes/mensch">mensch theme</a>,
-    {% if config.extra.cloudflare %}Cloudflare Pages,{% endif %}
-    and lots of <span class="coffee">☕</span>
-  </p>
-  <p>
-  {% for link in config.extra.footer_links %}
-    {% set dest = link.url | default(value=get_url(path=link.path))%}
-    <a href="{{ dest }}" {% if link.newtab %} target="_blank"{% endif %}>
-      <svg class="feather-inline" title="{{ link.name }}">
-        <use href="{{ sprite }}#{{ link.icon }}"/>
-      </svg>
-      {{ link.name }}
-    </a>
-    {% if not loop.last %} | {% endif %}
-  {% endfor %}
-  </p>
-</footer>
-
 <script type="text/javascript">
 // Get the theme toggle input
 var currentTheme = window.localStorage.getItem("theme"); // If the current local storage item can be found
