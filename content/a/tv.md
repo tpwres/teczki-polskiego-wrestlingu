@@ -44,6 +44,8 @@ After the boom and flop of wrestling on general-purpose channels, they moved to 
 The first one was Extreme Sports Channel, which started airing WWE Raw episodes on tape delay. They were soon joined by Eurosport, which aired TNA Wrestling on Fridays.
 Starting in 2009, Eurosport replaced TNA with WWE recaps and their Vintage Collection show, on Mondays.
 
+In the long run, Extreme Sports became the only place for wrestling on TV, later gaining rights to show WWE Raw and Smackdown on tape delay, with Supron and Borkowski on commentary.
+
 During this time, the Polish wrestling scene was beginning to form, but with no interest by the media save for short news reports.
 [DDW](@/o/ddw.md) wanted to air their wrestling, but it never happened due to lack of interest.
 [TBW](@/o/tbw.md) planned to air their two shows and future events on Orange Sport in 2011, but both the organization and channel folded not long afterwards.
@@ -64,7 +66,7 @@ In September, PpW's social media announced that [Czyste Intencje](@/e/ppw/2023-0
 The channel was sportowa.tv, a general sports-oriented channel available in several smaller cable networks in Poland and over the Internet.
 Social media graphics for that event show the channel's logo among other partners and sponsors. This cooperation appears to have been short-lived, as the channel was not mentioned on any of the later shows, and there is no video of the event on their YouTube channel.
 
-During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), [chairman Malinowski](@/w/krystian-malinowski.md) announced that from this moment on, KPW's events would be broadcast on cable TV, on an MMA and wrestling-focused channel FightBox. The first show to air was indeed Arena 23. The following shows were recorded with the intention of airing them later, after recording a commentary.
+During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), [chairman Malinowski](@/w/krystian-malinowski.md) announced that from this moment on, KPW's events would be broadcast on FightBox. The first show to air was indeed Arena 23. The following shows were recorded with the intention of airing them later, after recording a commentary.
 
 ## 2024
 
