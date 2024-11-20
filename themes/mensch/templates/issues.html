@@ -7,7 +7,10 @@
 {% endmacro %}
 
 {% macro authors(authors) %}
-  {% if authors | length > 0 -%}
+  {%- set num_authors = authors|default(value=[])|length -%}
+  {% if num_authors == 1 -%}
+    Author: {{ authors | first }}
+  {% elif num_authors > 1 -%}
     Authors: {{ authors | join(sep=", ") }}
   {%- endif -%}
 {% endmacro %}
