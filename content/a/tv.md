@@ -8,7 +8,7 @@ path = "teletydzien-19990118-tnt.webp"
 caption = "TV listing for TNT on Friday Jan 22, 1999, poorly cropped."
 source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archive.org/details/tele-tydzien-nr-4-18.01.1999-skan_20220929), page 17/63"
 [extra.gallery.2]
-path = "teletydzien-19990118-tnt.webp"
+path = "teletydzien-19990118-dsf.webp"
 caption = "TV listing for DSF on Saturday Jan 23, 1999."
 source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archive.org/details/tele-tydzien-nr-4-18.01.1999-skan_20220929), page 23/63"
 [extra.gallery.3]
