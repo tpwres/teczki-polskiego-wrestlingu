@@ -44,3 +44,6 @@ city = "Chorzów"
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=326348)
+* [Full event on TVP Sport][ptwrevolucja-tvp-sport]
+
+[ptwrevolucja-tvp-sport]: https://sport.tvp.pl/56112996/kinguin-prime-time-wrestling-1-revolucja-transmisja-na-zywo-online-live-stream-gdzie-ogladac
