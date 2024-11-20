@@ -1,0 +1,4 @@
+{%- if page -%}
+  {{- issues::authors(authors=page.authors) }}
+  <p>Is this page incorrect? Do you have extra information? <a href="{{ issues::new_issue(path=page.relative_path, title=page.title) }}">Submit an issue!</a></p>
+{%- endif %}

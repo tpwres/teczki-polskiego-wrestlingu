@@ -1,0 +1,12 @@
+{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
+<div class="links">
+  {% for link in config.extra.footer_links %}
+    {% set dest = link.url | default(value=get_url(path=link.path))%}
+    <a href="{{ dest }}" {% if link.newtab %} target="_blank"{% endif %}>
+      <svg class="feather-inline" title="{{ link.name }}">
+        <use href="{{ sprite }}#{{ link.icon }}"/>
+      </svg>
+      {{ link.name }}
+    </a>
+  {% endfor %}
+</div>
