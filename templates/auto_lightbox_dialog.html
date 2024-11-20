@@ -43,7 +43,7 @@
             <span style="background-image: url('{{ root ~ path }}')"></span>
           </a>
           <figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
-          <data class="attribution">{{ item | get(key="source", default="") }}</data>
+          <data class="attribution">{{ item | get(key="source", default="") | markdown(inline=true) | safe }}</data>
         </figure>
       </li>
     {% endfor %}
