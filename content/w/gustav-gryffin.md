@@ -51,4 +51,9 @@ For the bigger part of 2024 Gustav became one of the most influential workers in
   - Jakub Linde (2024)
 
 * Entrance music:
-  - "Memphis Doom" by Kordhell {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present) 
+  - "Memphis Doom" by Kordhell {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present)
+ 
+## Championships and accomplishments
+
+* PpW Ewenement:
+  - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
