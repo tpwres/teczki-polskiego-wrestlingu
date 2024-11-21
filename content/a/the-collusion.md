@@ -39,3 +39,4 @@ The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [V
 
 * [PpW Championship](@/c/ppw-championship.md) (1 time; current) - [Gustav Gryffin](@/w/gustav-gryffin.md)
 * [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time; current) - [Isnorr](@/w/isnorr.md)
+* [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; current) - [Marco Hammers](@/w/marco-hammers.md)

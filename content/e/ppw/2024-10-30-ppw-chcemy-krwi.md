@@ -32,7 +32,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
     r: Submission
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Oskar Strong](@/w/oskar-aleksander.md)'
   - s: Triple Threat Match
 - - '[Isnorr](@/w/isnorr.md)(c)'
   - '[Axel Fox](@/w/axel-fox.md)'
