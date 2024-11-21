@@ -1,6 +1,7 @@
 +++
 title = "Gustav Gryffin"
 template = "talent_page.html"
+authors = ["Seweryn Pielucha"]
 [taxonomies]
 country = ["PL"]
 [extra]
