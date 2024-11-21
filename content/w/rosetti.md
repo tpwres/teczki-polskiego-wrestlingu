@@ -20,13 +20,13 @@ Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he
 
 * Entrance music:
   - "Pieceful" by The World I Know {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Sawicki](@/w/sawicki.md))
- [♪ YouTube](https://www.youtube.com/watch?v=cHMlcuuqWG8) | 
- [♪ Spotify](https://open.spotify.com/track/1UwAYJiTW0w0teCDzBvnTs) | 
- [♪ Apple Music](https://music.apple.com/pl/album/piecefull/1447820618?i=1447820619)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=cHMlcuuqWG8) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/1UwAYJiTW0w0teCDzBvnTs) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/piecefull/1447820618?i=1447820619)
   - "Long Live the Chief" by Jidenna {{ org_badge(orgs=['kpw']) }} (2020-2023)
- [♪ YouTube](https://www.youtube.com/watch?v=H_AQFnqMY3E) | 
- [♪ Spotify](https://open.spotify.com/track/5M708qYwdT7xyQqO0WXnzm) | 
- [♪ Apple Music](https://music.apple.com/pl/album/long-live-the-chief/1202463337?i=1202463431)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=H_AQFnqMY3E) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/5M708qYwdT7xyQqO0WXnzm) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/long-live-the-chief/1202463337?i=1202463431)
   - "???" by ??? {{ org_badge(orgs=['kpw']) }} (2023-present)
 
 ### References:

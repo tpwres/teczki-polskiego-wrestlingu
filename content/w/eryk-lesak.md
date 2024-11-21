@@ -20,21 +20,21 @@ In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "f
 
 * Entrance music:
   - "You’ve Got Another Thing Comin’" by Judas Priest {{ org_badge(orgs=['kpw']) }} (2019-2022)
- [♪ YouTube](https://www.youtube.com/watch?v=XJMgveYdO-M) | 
- [♪ Spotify](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | 
- [♪ Apple Music](https://music.apple.com/pl/album/youve-got-another-thing-comin/207178130?i=207178401)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=XJMgveYdO-M) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/youve-got-another-thing-comin/207178130?i=207178401)
   - "Desert Cruiser" by Truckfighters {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Opol)
- [♪ YouTube](https://www.youtube.com/watch?v=JLMPA4xPFpg) | 
- [♪ Spotify](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | 
- [♪ Apple Music](https://music.apple.com/pl/album/desert-cruiser/1568953211?i=1568953212))
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=JLMPA4xPFpg) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/desert-cruiser/1568953211?i=1568953212)
   - "Neon Blade" by MoonDeity {{ org_badge(orgs=['kpw']) }} (2023)
- [♪ YouTube](https://www.youtube.com/watch?v=Mu965dWgMMQ) | 
- [♪ Spotify](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | 
- [♪ Apple Music](https://music.apple.com/pl/album/neon-blade/1627535453?i=1627535463)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=Mu965dWgMMQ) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/neon-blade/1627535453?i=1627535463)
   - "Metaphonk" by Infraction {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪ YouTube](https://www.youtube.com/watch?v=Y64vZp8M8dE) | 
- [♪ Spotify](https://open.spotify.com/track/60Pt3GwqOMl5sE3LXeHBxu) | 
- [♪ Apple Music](https://music.apple.com/us/album/metaphonk/1761432224?i=1761432679)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=Y64vZp8M8dE) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/60Pt3GwqOMl5sE3LXeHBxu) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/us/album/metaphonk/1761432224?i=1761432679)
 
 ## Internet presence
 
