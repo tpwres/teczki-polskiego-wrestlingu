@@ -25,11 +25,11 @@ city = "Głuchołazy"
   - c: BWN Championship
     nc: '?'
 - - 'Gangsta'
-  - 'Hero'
+  - '[Hero](@/w/chris-hunter.md)'
   - c: Toruń Championship
     nc: '?'
 - - 'Billi Rox'
-  - 'Monster'
+  - '[Monster](@/w/pj-blake.md)'
   - c: TWF Championship
     nc: '?'
 - - 'Dirty Devil'
