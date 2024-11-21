@@ -19,12 +19,12 @@ In 2023 they also made an appearance at an European Wrestling Association show i
 
 * Entrance music:
   - Kickstart My Heart by Mötley Crüe {{ org_badge(orgs=['kpw']) }} (2021-2023)
- [♪ YouTube](https://www.youtube.com/watch?v=CmXWkMlKFkI) | 
- [♪ Spotify](https://open.spotify.com/track/7s60huPEeS8f9ytqAlQksr) | 
- [♪ Apple Music](https://music.apple.com/pl/album/kickstart-my-heart/1764395673?i=1764396024)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=CmXWkMlKFkI) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/7s60huPEeS8f9ytqAlQksr) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/kickstart-my-heart/1764395673?i=1764396024)
   - "Better days" by Dangerous New Machine {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪ YouTube](https://www.youtube.com/watch?v=se3AUY4XKcA) | 
- [♪ Apple Music](https://music.apple.com/us/album/better-days/375038556?i=375038653)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=se3AUY4XKcA) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/us/album/better-days/375038556?i=375038653)
 
 ## Internet presence
 

@@ -20,17 +20,17 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
 
 * Entrance music:
   - "Monsters" by Shinedown {{ org_badge(orgs=['kpw']) }} (2021-2023)
- [♪ YouTube](https://www.youtube.com/watch?v=EzsCb7ZwlQ0) | 
- [♪ Spotify](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | 
- [♪ Apple Music](https://music.apple.com/pl/album/monsters/1352572887?i=1352572895)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=EzsCb7ZwlQ0) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/monsters/1352572887?i=1352572895)
   - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md))
- [♪ YouTube](https://www.youtube.com/watch?v=a1jMUiSR4Gg) | 
- [♪ Spotify](https://open.spotify.com/track/44K1GCbNLf1NHlCaLaYONk) | 
- [♪ Apple Music](https://music.apple.com/pl/album/neo-tokyo-dance-with-the-dead-remix/1523997493?i=1523997494)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=a1jMUiSR4Gg) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/44K1GCbNLf1NHlCaLaYONk) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/neo-tokyo-dance-with-the-dead-remix/1523997493?i=1523997494)
   - "Everywhere I Go" by ONLAP {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪ YouTube](https://www.youtube.com/watch?v=4R8EDBkjcZQ) | 
- [♪ Spotify](https://open.spotify.com/track/3yjOB5krqe1CDyUksMCsUR) | 
- [♪ Apple Music](https://music.apple.com/us/album/everywhere-i-go/1690724986?i=1690725170)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=4R8EDBkjcZQ) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/3yjOB5krqe1CDyUksMCsUR) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/us/album/everywhere-i-go/1690724986?i=1690725170)
 
 ## Internet presence
 
