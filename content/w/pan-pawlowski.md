@@ -32,4 +32,12 @@ This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-
 Pawłowski then spent the next two years working for Fame MMA, and in the latter half of 2021 announced the opening of [Prime Time Wrestling](@/o/ptw.md).
 This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co-owner, however Rzeźniczek left after [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), leaving Pawłowski the sole owner.
 
+## In wrestling
+
+* Entrance music:
+  - "???" by ??? {{ org_badge(orgs=['ptw']) }} (2021-present)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=Ow_qI_F2ZJI) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/throne/1021582747?i=1021582761)
+
 [yt-iw]:https://www.youtube.com/@IstotaWrestlingu

@@ -38,7 +38,10 @@ Besides his regular apperances as Oskar Aleksander he also performed as "Oskar S
 * Managers:
   - Talent Agent
  * Entrance Music:
-   - "Zacznij Od Bacha" by Zbigniew Wodecki {{ org_badge(org='ppw') }} (2024-present, [YouTube](https://youtu.be/rDQHzGpwQNk), [Spotify](https://open.spotify.com/track/4Wm4rtJTkXIGOIWrEvTtzN))
+   - "Zacznij od Bacha" by Zbigniew Wodecki {{ org_badge(org='ppw') }} (2024-present)
+ [♪&nbsp;YouTube](https://youtu.be/rDQHzGpwQNk) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/4Wm4rtJTkXIGOIWrEvTtzN)) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/pl/album/zacznij-od-bacha/1485632394?i=1485632668)
 
 ## Internet presence
 
