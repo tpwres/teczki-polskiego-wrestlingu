@@ -8,7 +8,7 @@ country = ["PL"]
 
 * Years active: {{ years_active() }}
 
-## Basic info:
+## Basic info
 
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (August 2018-October 2021)
@@ -40,7 +40,7 @@ country = ["PL"]
 * Finishers:
   - Running Knee Strike
  
-## Championships and accomplishments:
+## Championships and accomplishments
 
  * Maniac Zone Wrestling:
    - Rookie's Battle Royal (2019)
