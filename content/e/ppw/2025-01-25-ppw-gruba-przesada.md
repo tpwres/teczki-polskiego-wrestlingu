@@ -8,7 +8,7 @@ venue=["teatr-komuna"]
 city = "Warszawa"
 hide_results = true
 [extra.gallery.1]
-path = "2025-01-18-ppw-gruba-przesada-plakat.jpg"
+path = "2025-01-25-ppw-gruba-przesada-plakat.jpg"
 caption = "Official poster."
 source = "[Official PpW Facebook]"
 +++
