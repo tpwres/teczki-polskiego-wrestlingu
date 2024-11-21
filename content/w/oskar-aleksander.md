@@ -8,7 +8,7 @@ country = ["PL"]
 career_aliases = ["Oskar"]
 +++
 
-## Basic info:
+## Basic info
 
 * Nicknames/Gimmicks:
   - Adept Oskar {{ org_badge(org='ppw') }} (August 2024-October 2024)
@@ -17,7 +17,7 @@ career_aliases = ["Oskar"]
 * Trained by:
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-present)
  
-  ## Professional wrestling career:
+  ## Professional wrestling career
 
   ### 2024 Training & PpW Ewenement
 
