@@ -33,7 +33,7 @@ country = ["PL"]
 
  During the [interview](https://www.youtube.com/watch?v=PfHPG9FUr7Y) with Istota Wrestlingu Aron confirmed, that his injury is almost impossible to rehabilitate as the surgery would be life-threating.
  
- Despite his injury Wake slowly returned to part-time training at [Ewenement Dojo](@/o/ewenement-dojo.md) to prepare for his in-ring return. He made his in-ring return after over 2 years of hiatus at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) facing [Bill Faeger](@/w/faeger.md) in a chairs match. Later on he also made his MZW's return at [MZW: No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after over 3 years.
+ Despite his injury Wake slowly returned to part-time training at [Ewenement Dojo](@/o/ewenement-dojo.md) to prepare for his in-ring return. He made his in-ring return after over 2 years of hiatus at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) facing [Bill Feager](@/w/feager.md) in a chairs match. Later on he also made his MZW's return at [MZW: No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after over 3 years.
 
 ## In wrestling
 
