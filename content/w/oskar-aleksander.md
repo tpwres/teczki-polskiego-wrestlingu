@@ -1,6 +1,7 @@
 +++
 title = "Oskar Aleksander"
 template = "talent_page.html"
+authors = ["Seweryn Pielucha"]
 [taxonomies]
 country = ["PL"]
 [extra]
