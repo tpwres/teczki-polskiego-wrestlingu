@@ -26,6 +26,16 @@ Greg also became the leader of a new heel faction named Gałąź Gregoriańska (
 
 At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeated David Oliwa to win the [KPW Championship](@/c/kpw-championship.md), vacated when [Robert Star](@/w/robert-star.md) left KPW to join [Prime Time Wrestling](@/o/ptw.md). Eleven months later he lost the title to Red Scorpion.
 
+## In wrestling
+
+* Entrance music:
+  - "Year Zero" by Ghost {{ org_badge(orgs=['kpw']) }} (2019-2023)
+ [♪ YouTube](https://www.youtube.com/watch?v=wy0l2r0IxkI) | 
+ [♪ Spotify](https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK) | 
+ [♪ Apple Music](https://music.apple.com/pl/album/year-zero/1440870903?i=1440870917)
+  - "Evil Warriors" by Makai Symphony {{ org_badge(orgs=['kpw']) }} (2024-present)
+ [♪ YouTube](https://www.youtube.com/watch?v=cbF6qRQ5WM8)
+
 ## Internet presence
 
 * [@gregwrestling on Instagram](https://www.instagram.com/gregwrestling/)

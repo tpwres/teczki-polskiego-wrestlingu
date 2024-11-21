@@ -17,6 +17,18 @@ Following his loss to Iestyn Rees at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-
 
 David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.md), with a record title run of 1190 days. He appeared at every Arena and Godzina Zero show, although he did miss a few of the smaller ones, such as [Pyrkon 2023](@/e/kpw/2023-06-17-kpw-pyrkon-2023.md).
 
+## In wrestling
+
+* Entrance music:
+  - "Escape (The Piña Colada Song)" by Rupert Holmes {{ org_badge(orgs=['kpw']) }} (2015-2023)
+ [♪ YouTube](https://www.youtube.com/watch?v=FXG_I_tf_i4) | 
+ [♪ Spotify](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | 
+ [♪ Apple Music](https://music.apple.com/pl/album/escape-the-pina-colada-song/1443846037?i=1443846163)
+  - "Bloodsport" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2024-present)
+ [♪ YouTube](https://www.youtube.com/watch?v=dP4GoeO5El8) | 
+ [♪ Spotify](https://open.spotify.com/track/2VvDAaS9MCN7WWwnG3N9JD) | 
+ [♪ Apple Music](https://music.apple.com/us/album/bloodsport/1657524342?i=1657524748)
+
 ## Internet presence
 
 * [David's Facebook profile](https://www.facebook.com/FFDavidOliwa/)

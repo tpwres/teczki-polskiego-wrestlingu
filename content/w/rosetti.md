@@ -16,6 +16,19 @@ Initially performing as a solo wrestler, Rosetti later started teaming with [Saw
 
 Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he was supposed to pair with [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 18](2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md), however he was late for the event and missed his fight. Soon after that he would join Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by Greg, and at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) he won the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) by defeating David Oliwa in a less-than-savoury manner. This victory was followed by a number of strong international opponents, such as Flexos, Ludy Lohan or Zak Knight. Rosetti's string of victories as a champion abruptly ended at [Arena 25](2024-05-17-kpw-arena-25.md) when [Chemik](@/w/chemik.md), a fellow Gregorian Branch member, backstabbed Rosetti and claimed the OldTown title for himself.
 
+## In wrestling
+
+* Entrance music:
+  - "Pieceful" by The World I Know {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Sawicki](@/w/sawicki.md))
+ [♪ YouTube](https://www.youtube.com/watch?v=cHMlcuuqWG8) | 
+ [♪ Spotify](https://open.spotify.com/track/1UwAYJiTW0w0teCDzBvnTs) | 
+ [♪ Apple Music](https://music.apple.com/pl/album/piecefull/1447820618?i=1447820619)
+  - "Long Live the Chief" by Jidenna {{ org_badge(orgs=['kpw']) }} (2020-2023)
+ [♪ YouTube](https://www.youtube.com/watch?v=H_AQFnqMY3E) | 
+ [♪ Spotify](https://open.spotify.com/track/5M708qYwdT7xyQqO0WXnzm) | 
+ [♪ Apple Music](https://music.apple.com/pl/album/long-live-the-chief/1202463337?i=1202463431)
+  - "???" by ??? {{ org_badge(orgs=['kpw']) }} (2023-present)
+
 ### References:
 * [Arena 20 - Rosetti's promo](https://www.youtube.com/watch?v=09uuL1EIZaw)
 

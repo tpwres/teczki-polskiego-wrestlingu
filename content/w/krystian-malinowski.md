@@ -18,6 +18,18 @@ Beginning as a trainee in [Do Or Die Wrestling](@/o/ddw.md), he wrestled in two 
 Before [Arena 12](e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), KPW announced that a new chairman would be elected, and Malinowski threw his name in the hat as a candidate, alongside [Krzysztof Zasada](@/w/krzysztof-zasada.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).
 Eventually he secured the new position at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md) and his previous duties as a referee were taken over by Dariusz Łępicki.
 
+## In wrestling
+
+* Entrance music:
+  - "We're Not Gonna Take It" by Twisted Sister {{ org_badge(orgs=['kpw']) }} (2015-2023)
+ [♪ YouTube](https://www.youtube.com/watch?v=cTC1TEVo3Aw) | 
+ [♪ Spotify](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | 
+ [♪ Apple Music](https://music.apple.com/pl/album/were-not-gonna-take-it/1093420230?i=1093420483))
+  - "Retro Funky (Sundance Remix)" by Perséphone {{ org_badge(orgs=['kpw']) }} (2023-present)
+ [♪ YouTube](https://www.youtube.com/watch?v=0-c7kXpRVIQ) | 
+ [♪ Spotify](https://open.spotify.com/track/1eEqg0aPf3BoaBl0I4Tuln) | 
+ [♪ Apple Music](https://music.apple.com/us/album/retro-funky/1438527375?i=1438527378)
+
 ## Internet presence
 
 * [PrezesMalinowskiKPW on Facebook](https://www.facebook.com/PrezesMalinowskiKPW/)
