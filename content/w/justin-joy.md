@@ -1,9 +1,10 @@
 +++
 title = "Justin Joy"
 template = "talent_page.html"
-career_aliases = ["Justin"]
 [taxonomies]
 country = ["PL"]
+[extra]
+career_aliases = ["Justin"]
 [extra.gallery]
 manifest = "@/w/justin-gallery.toml"
 +++
@@ -17,7 +18,7 @@ Under his real name Oskar Haracz, he entered Ninja Warrior Poland, a sports real
 
 Justin was one of the MZW wrestlers who chose to join the new [Prime Time Wrestling](@/o/ptw.md), debuting at [PTW Underground 3](@/e/ptw/2022-03-27-ptw-underground-3.md). He had a brief feud with [Axel Fox](@/w/axel-fox.md), which culminated with the two real-life friends mending fences and joining forces to take part in the inaugural Tag Team Championship tournament.
 
-Later in 2023, when PTW held a show in [Wrocław](@/e/ptw/2023-06-25-ptw-4-mystery.md), Justin's usual turf, he was nowhere on the card. In the build-up to the next major show, various wrestlers, Justin among them, started to voice their frustration with PTW's owner and GM Pawłowski on social media. This resulted in many of them getting silently removed from the organization's roster.
+Later in 2023, when PTW held a show in [Wrocław](@/e/ptw/2023-06-25-ptw-4-mystery.md), Justin's usual turf, he was nowhere on the card. In the build-up to the next major show, various wrestlers, Justin among them, started to voice their frustration with PTW's owner and GM [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on social media. This resulted in many of them getting silently removed from the organization's roster.
 
 Justin organized a Q&A on his Instagram profile, and posted a number of instastories, answering fan's questions, and explaining his departure and sour relations with the organization.
 
