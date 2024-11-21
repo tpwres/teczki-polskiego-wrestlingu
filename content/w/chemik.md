@@ -27,6 +27,19 @@ At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti, becom
 
 On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at the [first Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md).
 
+## In wrestling
+
+* Entrance music:
+  - "Yekteniya I" by Batushka {{ org_badge(orgs=['kpw']) }} (2018-2023)
+ [♪ YouTube](https://www.youtube.com/watch?v=XCMNqKuuFC4) | 
+ [♪ Apple Music](https://music.apple.com/pl/album/yekteniya-i/1152475900?i=1152476251)
+  - "Gregorian Chants" by Ryz Beats {{ org_badge(orgs=['kpw']) }} (2023)
+ [♪ YouTube](https://www.youtube.com/watch?v=eP52SxhgikE)
+ - "Plague Rat" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2024-present)
+ [♪ YouTube](https://www.youtube.com/watch?v=y8XElwNSPnI) | 
+ [♪ Spotify](https://open.spotify.com/track/5ydTDIWT7GpLq35kJv53Ry) | 
+ [♪ Apple Music](https://music.apple.com/us/album/plague-rat/1557138878?i=1557138879)
+
 ## Internet presence
 
 * [@chemikkpw on Instagram](https://instagram.com/chemikkpw)
@@ -38,4 +51,3 @@ On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KP
 * [A fragment of Godzina Zero 2016](https://youtu.be/wmAyKa51clM?si=2YCEPHWYSpdoTR3a&t=65), with young Chemik in the audience (1:05 mark, next to Robert on the right side)
 
 [yt-chemik-challenge]: https://www.youtube.com/watch?v=QwlnIhkcN40
-

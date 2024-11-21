@@ -19,6 +19,13 @@ Instead of becoming a wrestler, she would conduct interviews with wrestlers on t
 At first she appeared under the ring name "Kinga Różańska", but beginning with [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) she started using her real name, Kinga Miotke.
 She is the first and, as of 2024, the only female announcer on the Polish wrestling scene.
 
+## In wrestling
+
+* Entrance music:
+  - "Stand or Fall" by Bonfire {{ org_badge(orgs=['kpw']) }} (2019-present)
+ [♪ YouTube](https://www.youtube.com/watch?v=LC6A9ugveb0) | 
+ [♪ Spotify](https://open.spotify.com/track/6eQNoIwGlYci4zQvuF3BOa) | 
+ [♪ Apple Music](https://music.apple.com/pl/album/stand-or-fall/1351853605?i=1351853946)
 
 ### References
 
