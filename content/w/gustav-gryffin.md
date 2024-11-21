@@ -64,3 +64,7 @@ With Team Zmowa eventually losing to Team Zmowa Przeciwko Zmowie in a Ustawka (_
 
 * PpW Ewenement:
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
+
+## Internet presence
+
+* [gustav.gryffin](https://www.instagram.com/gustav.gryffin/) on Instagram
