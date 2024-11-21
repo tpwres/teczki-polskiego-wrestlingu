@@ -27,7 +27,7 @@ The event saw the return of LaVonce and the debut of the British wrestler Nights
   - 'Luca Bjorn'
 - - '[Krampus](@/w/krampus.md)'
   - 'Newt Nova'
-  - '[Eric Slotir](@/w/erik-slotir.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: Triple Threat Match
 - - 'LaVonce'
   - '[Alex Brave](@/w/alex-brave.md)'

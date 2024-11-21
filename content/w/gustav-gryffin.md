@@ -5,7 +5,7 @@ authors = ["Seweryn Pielucha"]
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Gustaw Pierdolec", "Hardcore Gustav"]
+career_aliases = ["Gustav Pierdolec", "Hardcore Gustav"]
 [extra.gallery]
 1 = { path = "gustav-gryffin.jpg", caption = "Gustav Gryffin, [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md).", source = "M3n747" }
 +++

@@ -31,7 +31,7 @@ Originally, Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and
 - - '[Greg](@/w/greg.md)'
   - '[Darius](@/w/darius.md)'
 - - '[David Oliwa](@/w/david-oliwa.md)'
-  - '[Fynn Freyhard](@/w/fynn-freyhart.md)'
+  - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - s: '[KPW Championship](@/c/kpw-championship.md) #1 Contender Best Two Out Of Three Falls Match'
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
