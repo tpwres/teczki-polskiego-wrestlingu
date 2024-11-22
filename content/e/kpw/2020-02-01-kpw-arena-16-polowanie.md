@@ -24,12 +24,21 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 * They also incorporated these roles into their ring entrance: [Greg](@/w/greg.md) would now strut around with a large signet ring, allowing audience members to kiss it, after which he would give them his blessing. [Chemik](@/w/chemik.md), in his altar boy's attire would collect donations, as is common in Polish churches during the Mass. Before entering the ring, Chemik would also swing a thurible filled with burning incense around Greg, imitating Catholic rites.
 
 {% card() %}
-- ['[Daniel Boza](@/w/mutant.md)', '[Eryk Lesak](@/w/eryk-lesak.md)']
-- ['[Bianca](@/w/bianca.md)', '[Diana Rega](@/w/diana-strong.md)']
-- ['[David Oliwa](@/w/david-oliwa.md)(c)', Martn Pain, {c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'}]
-- ['[Greg](@/w/greg.md)', Piotr Opolski]
-- - "The Hunt: [Primate](@/w/primate.md), Wild Boar"
-  - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
+- - '[Boski 2.0](@/w/ostrowski.md)'
+  - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
+  - g: true
+    s: '[Boski 2.0](@/w/ostrowski,md) demands a fight with [David Oliwa](@/w/david-oliwa.md) for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md).'
+- - '[Daniel Boza](@/w/mutant.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+- - '[Bianca](@/w/bianca.md)'
+  - '[Diana Rega](@/w/diana-strong.md)'
+- - '[David Oliwa](@/w/david-oliwa.md)(c)'
+  - 'Martn Pain'
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+- - '[Greg](@/w/greg.md)'
+  - 'Piotr Opolski'
+- - 'The Hunt: [Primate](@/w/primate.md), Wild Boar'
+  - '[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - credits:
     Commentary: Marek Łojek, Mateusz Mazurowski
