@@ -20,6 +20,7 @@ For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, wh
 {% card(predicted=true) %}
 - - '[Diana Strong](@/w/diana-strong.md)'
   - Session Moth Martina
+  - nc: upcoming
 {% end %}
 
 ### References
