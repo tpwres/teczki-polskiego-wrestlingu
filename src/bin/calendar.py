@@ -6,7 +6,7 @@ from icalendar.cal import Event as vEvent, Calendar
 import json
 from pathlib import Path
 from dataclasses import dataclass
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from page import EventPage, VenuePage, OrgPage
 from textwrap import dedent
 from typing import cast, Optional, Callable
@@ -54,12 +54,22 @@ def generate_calendar(events_dir: Path, accept_event: Predicate, title: Optional
         if not accept_event(page):
             continue
 
+        if page.card.matches:
+            end_date = max(m.date or page.event_date for m in page.card.matches)
+        else:
+            end_date = page.event_date
+
+        end_date += timedelta(days=1)
+        dtstart = page.event_date.strftime("%Y%m%d")
+        dtend = end_date.strftime("%Y%m%d")
+
         event_url = evf.relative_to("content/e").with_suffix("")
         event = vEvent(
             dtstamp=created_at.strftime('%Y%m%dT%H%M%S'),
-            dtstart=page.event_date.strftime('%Y%m%d'),
+            dtstart=dtstart,
+            dtend=dtend,
             summary=vText(page.title),
-            tzid='Europe/Warsaw',
+            # tzid='Europe/Warsaw',
             uid=evf.stem,
             url=f'https://tpwres.pl/e/{event_url}')
 

@@ -273,7 +273,7 @@ class Card:
     start_offset: Optional[int]
     end_offset: Optional[int]
     crew: Optional[Crew]
-    matches: Optional[list[Match]]
+    matches: list[Match]
 
     def __init__(self, text_or_io: object, path: Optional[Path], offset: int):
         match text_or_io:
@@ -286,7 +286,8 @@ class Card:
                 extracted_card = None
 
         if not extracted_card:
-            self.matches = self.crew = None
+            self.matches = []
+            self.crew = None
             return
 
         card_start, card_end, card_text, _, _ = extracted_card
