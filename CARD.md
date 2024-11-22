@@ -92,7 +92,7 @@ Available options are:
 - `s: STIPULATION` - if any, for example "Tables Match", "Best Two Out Of Three Falls" etc.
 - `c: CHAMPIONSHIP` - the title contested. Should be a Markdown link to the organizations' page section about that title.
 - `r: RESULT` - for situations like DQ or KO. Will be listed as "via RESULT". **Cannot be used together with `nc`**
-- `nc: OUTCOME` - if a match did not have a clear winner, for example ended in a draw, timeout or no-contest. Will be listed as " - OUTCOME". **Cannot be used together with `r`**
+- `nc: OUTCOME` - if a match did not have a clear winner, for example ended in a draw, timeout or no-contest. Will be listed as " - OUTCOME". **Cannot be used together with `r`**. For matches that are in the future, use `nc: upcoming`, and if the result is unknown, use `nc: ?`
 - `g: true` - marks this entry as a se`g`ment, not a match. Useful to mark someone's participation that was not a match, because it gets counted towards their years active and the organization's all time roster. When this is present, `nc` and `r` are ignored, but `c` and `s` will still be displayed.
 - `n: TEXT` or `n: [list, of, texts]` - adds notes, which are displayed in a smaller font below the participants. Notes are only visible on event pages, and only when "toggle results" was clicked.
 
@@ -101,6 +101,7 @@ Available options are:
 A special row in the card has no opponents, but only options. The list of available options is different for special rows.
 
 - `d: DELIMITER TEXT` - inserts a `d`elimiter row. Provided text will be centered across the whole width of the table, in a bold font. **Match numbering restarts after a delimiter.**
+- `date: YYYY-MM-DD` - changes the date for matches that follow it in the list, used for multi-day events that have a single page. Does not render in the list if used on its own, and can be combined with a delimiter row.
 - `credits: CREDITS` - adds an invisible row, that won't be included as part of the match card, but listed below it in a section called "Cast and crew"
 
 Examples:
@@ -117,13 +118,24 @@ Examples:
   - "Big Cass + Enzo Amore"
   - "Cesaro + Sheamus"
   - "The Club: Karl Anderson, Luke Gallows"
-  - {s: "Fatal Four Way Ladder Match",c: "WWE Raw Tag Team Title"}
+  - s: "Fatal Four Way Ladder Match"
+    c: "WWE Raw Tag Team Title"
 # A future event
 - [David Oliwa, Leon Lato, nc: upcoming]
-# A promo segment
+# A promo segment, two possible notations
 - [Lita, Edge, { g: true, s: Live Sex Celebration}]
+- - Lita
+  - Edge
+  - g: true
+    s: Live Sex Celebration
 # A delimiter marking Day 2 of the event
 - d: 'Day 2'
+# Change date for the next set of matches. Do not use quotes for the date.
+- date: 2024-11-19
+# Combining delimiter with a new date, two possible notations.
+- d: 'Day 3'
+  date: 2024-11-19
+- { d: 'Day 3', date: 2024-11-19 }
 # Cast credits for a show
 - credits:
     Referees: Aubrey Edwards, Red Shoes

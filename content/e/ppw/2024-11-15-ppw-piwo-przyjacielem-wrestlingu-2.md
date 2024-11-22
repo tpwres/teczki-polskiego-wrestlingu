@@ -64,6 +64,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - s: Tag Team Match
 
 - d: 'Saturday, 18:00'
+  date: 2024-11-16
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - s: Singles Match
