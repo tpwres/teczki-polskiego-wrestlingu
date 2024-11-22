@@ -1,6 +1,7 @@
+import datetime
 import yaml
 import io
-from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO
+from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO, Any
 import re
 from pathlib import Path
 from itertools import chain
@@ -146,6 +147,12 @@ class CrewMember(NamedParticipant):
 
 
 class Match:
+    line: list
+    index: int
+    opponents: list[Iterable[Participant]]
+    options: dict
+    date: Optional[datetime.date]
+
     tag_team_re = re.compile(r'''
         ^
          (?:
@@ -158,9 +165,10 @@ class Match:
          \s* # Eat trailing space
         ''', re.VERBOSE)
 
-    def __init__(self, match_row: list[str|dict], index: int):
+    def __init__(self, match_row: list[str|dict], index: int, date: Optional[datetime.date]):
         self.line = match_row # Store original row
         self.index = index
+        self.date = date
         match match_row:
             case [*participants, dict() as options]:
                 participants = cast(list[str], participants)
@@ -274,24 +282,27 @@ class Card:
                 extracted_card = self.extract_card_unsplit(text, offset)
             case io.TextIOBase() as stream:
                 extracted_card = self.extract_card_unsplit(stream.read(), offset)
+            case _:
+                extracted_card = None
 
-        if extracted_card:
-            card_start, card_end, card_text, _, _ = extracted_card
-            self.start_offset = card_start
-            self.end_offset = card_end
-            with self.handle_yaml_errors(extracted_card, path):
-                content = list(self.parse_card(card_text))
-
-            if not content:
-                raise ValueError("Failed to find valid matches")
-
-            if isinstance(content[-1], Crew):
-                self.crew = cast(Crew, content.pop())
-            else:
-                self.crew = None
-            self.matches = cast(list[Match], content)
-        else:
+        if not extracted_card:
             self.matches = self.crew = None
+            return
+
+        card_start, card_end, card_text, _, _ = extracted_card
+        self.start_offset = card_start
+        self.end_offset = card_end
+        with self.handle_yaml_errors(extracted_card, path):
+            content = list(self.parse_card(card_text))
+
+        if not content:
+            raise ValueError("Failed to find valid matches")
+
+        if isinstance(content[-1], Crew):
+            self.crew = cast(Crew, content.pop())
+        else:
+            self.crew = None
+        self.matches = cast(list[Match], content)
 
 
     @contextmanager
@@ -330,12 +341,15 @@ class Card:
 
     def parse_card(self, card_text: str) -> Iterable[Match|Crew]:
         card_rows = yaml.safe_load(io.StringIO(card_text))
+        match_date = None
         for i, row in enumerate(card_rows):
             match row:
                 case {"credits": dict() as credits}:
                     yield Crew(credits, i)
+                case {"date": str as new_date}:
+                    match_date = new_date
                 case [*_]:
-                    yield Match(cast(list[str|dict], row), i)
+                    yield Match(cast(Any, row), i, date=match_date)
 
 def extract_names(matches: Iterable[Match]) -> set[Name]:
     """

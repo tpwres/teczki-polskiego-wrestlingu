@@ -45,7 +45,7 @@ def main():
         for bout in card.matches:
             all_bouts.append(
                 dict(
-                    d=page.event_date,
+                    d=bout.date or page.event_date,
                     o=page.orgs,
                     n=page.title,
                     m=bout,
