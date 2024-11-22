@@ -28,7 +28,7 @@ David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=--6CdAypJsQ) | 
  [♪&nbsp;Spotify](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | 
  [♪&nbsp;Apple Music](https://music.apple.com/us/album/tarzan-boy/713600677?i=713600780)
-  - "Bloodsport" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2024-present)
+  - "Bloodsport" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2023-present)
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=dP4GoeO5El8) | 
  [♪&nbsp;Spotify](https://open.spotify.com/track/2VvDAaS9MCN7WWwnG3N9JD) | 
  [♪&nbsp;Apple Music](https://music.apple.com/us/album/bloodsport/1657524342?i=1657524748)
