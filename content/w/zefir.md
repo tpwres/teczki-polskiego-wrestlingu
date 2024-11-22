@@ -23,6 +23,10 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=EzsCb7ZwlQ0) | 
  [♪&nbsp;Spotify](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | 
  [♪&nbsp;Apple Music](https://music.apple.com/pl/album/monsters/1352572887?i=1352572895)
+  - "Happy Xmas (War Is Over)" by Shinedown {{ org_badge(orgs=['kpw']) }} (2022)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=lhAxVhrMt_U) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/4RT2cdLuHfobI0JdqW7V1W) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/us/album/happy-x-mas-war-is-over/206345554?i=206345556)
   - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md))
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=a1jMUiSR4Gg) | 
  [♪&nbsp;Spotify](https://open.spotify.com/track/44K1GCbNLf1NHlCaLaYONk) | 
