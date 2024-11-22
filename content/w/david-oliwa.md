@@ -24,6 +24,10 @@ David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=FXG_I_tf_i4) | 
  [♪&nbsp;Spotify](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | 
  [♪&nbsp;Apple Music](https://music.apple.com/pl/album/escape-the-pina-colada-song/1443846037?i=1443846163)
+  - "Tarzan Boy" by Baltimora {{ org_badge(orgs=['kpw']) }} (2020)
+ [♪&nbsp;YouTube](https://www.youtube.com/watch?v=--6CdAypJsQ) | 
+ [♪&nbsp;Spotify](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | 
+ [♪&nbsp;Apple Music](https://music.apple.com/us/album/tarzan-boy/713600677?i=713600780)
   - "Bloodsport" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2024-present)
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=dP4GoeO5El8) | 
  [♪&nbsp;Spotify](https://open.spotify.com/track/2VvDAaS9MCN7WWwnG3N9JD) | 
