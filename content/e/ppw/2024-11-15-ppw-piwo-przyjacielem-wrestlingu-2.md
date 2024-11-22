@@ -36,7 +36,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - s: Hardcore Match
     c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Isnorr](@/w/isnorr.md)'
-  - '[Karol Górski](@/w/madman-charlie.md)'
+  - '[Karol Górski (2)](@/w/madman-charlie.md)'
   - s: Non-title Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
