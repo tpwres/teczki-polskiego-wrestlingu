@@ -45,6 +45,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   - '[Hades](@/w/olgierd.md)'
   - s: Royal Rumble
 - d: Day 2
+  date: 2021-07-31
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'
