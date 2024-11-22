@@ -2,7 +2,7 @@
 title = "KPW Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747", "SewiTheRef"]
+authors = ["M3n747", "Seweryn Pielucha"]
 [extra]
 toclevel=2
 [extra.gallery]
