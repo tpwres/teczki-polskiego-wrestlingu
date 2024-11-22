@@ -12,14 +12,20 @@ manifest = "@/e/ptw/2024-10-19-ptw-underground-23-gallery.toml"
 
 Underground 23 was an event by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, October 19th, 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów - PTW's main wrestling venue and training facility.
 
-This Underground's name - "Halloweenowy Łomot", which can be loosely translated as "Halloween Bash" - suggested to the public that the event would have a Halloween theme, which was visible in promotional materials publicized on PTW's social media, as well as in decorations at the venue and the performers' entrances. 
+This Underground's name - "Halloweenowy Łomot", which can be loosely translated as "Halloween Bash" - implied a Halloween theme to the event, which was visible in promotional materials publicized on PTW's social media, as well as in decorations at the venue and the performers' entrances.
 
 According to Istota Wrestlingu, who attended the event in person, the overall attendance at the show was approximately 50 people - including friends and families of the performers, which was visible and audible due to fact that the venue at Kozłów can hold at least 150-200 people in the audience.
+
+Debuting for PTW at this show were:
+ * Russian wrestler Serg Sullivan, former champion of Moscow-based НРФ (NRF), currently living in Poland
+ * Estonian Mikk Vainula, with several appearances in Finland for FCF and SLAM!
+ * Hungarian wrestler Reyca, who already faced Diana in a four-way at WXW
+ * Northern Irish veteran Tucker, with several matches in NXT UK under his belt
 
 {% card() %}
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-- - '["The Hidden Gem" Erik Slotir](@/w/erik-slotir.md)'
+- - '["The Hidden Gem" Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
 - - '[Max Speed](@/w/max-speed.md)'
   - 'Luca Bjorn'
