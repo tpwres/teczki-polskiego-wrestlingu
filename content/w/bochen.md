@@ -12,7 +12,7 @@ source = "Michael HT"
 Bochen (or Maniek) was a British Shorthair cat about 4 years of age, who owned human wrestler Jakub Linde. Bochen, translated as _loaf_ (of bread) was the cat's nickname, likely given to him for his preference to sit in the loaf position, front paws tucked.
 
 Bochen became a part of [PpW](@/o/ppw.md)'s lore around July 2024, when Linde shared sad news about the cat's health issues.
-PpW invited its fans to help by donating money towards the cat's health.
+PpW invited its fans to help by donating money towards the cat's treatment.
 About 15 minutes into the livestream of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), fans can be briefly heard chanting for Bochen.
 
 Later, Linde shared the crowdfunding page to help nurse Bochen back to health.
