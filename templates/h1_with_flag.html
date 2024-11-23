@@ -8,7 +8,7 @@
     {% set emoji = all_emojis|get(key=flag,default=False) %}
     {% if flag_symbol %}
       {{ flag_symbol }}
-    {% elif emoji_entry %}
+    {% elif emoji %}
       {{ emoji }}
     {% else %}
     {% endif %}
