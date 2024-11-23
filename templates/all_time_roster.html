@@ -4,6 +4,7 @@
 {% set all_matches = load_data(path="data/all_matches.json") -%}
 {% set name_to_flag = load_data(path="const/name-to-flag.yaml") -%}
 {% set flag_dict = load_data(path="const/flags-by-code.json") -%}
+{% set all_emojis = load_data(path="const/emojis.yaml") %}
 
 {% set path = "data/roster_" ~ page.slug ~ ".json" -%}
 {% set roster = load_data(path=path, required=false) -%}

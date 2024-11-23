@@ -1,0 +1,5 @@
+# This file maps emoji shortcodes to their symbols.
+# Instead of using a premade file with all the emojis, we chose to only have a select list
+# for performance - as this is used many times when building the alphabetical talent list.
+":cat-face:": 🐱
+":cat:": 🐈

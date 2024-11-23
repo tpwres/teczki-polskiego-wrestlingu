@@ -1,8 +1,16 @@
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
+{% set all_emojis = load_data(path="const/emojis.yaml") %}
 {% set flag = page.taxonomies | get(key="country", default=[]) | first %}
 <h1 class="title title-with-flag">
   <span>{{ page.title }}</span>
   <span class="title-flag">
-    {{ flag_dict|get(key=flag|upper, default='') }}
+    {% set flag_symbol = flag_dict|get(key=flag|upper, default=False) %}
+    {% set emoji = all_emojis|get(key=flag,default=False) %}
+    {% if flag_symbol %}
+      {{ flag_symbol }}
+    {% elif emoji %}
+      {{ emoji }}
+    {% else %}
+    {% endif %}
   </span>
 </h1>
