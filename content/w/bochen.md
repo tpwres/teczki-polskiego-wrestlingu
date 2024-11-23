@@ -11,6 +11,10 @@ source = "Instagram @bochen_the_cat"
 path = "bochen-gaming.webp"
 caption = "Bochen accompanying Linde while gaming."
 source = "Instagram @bochen_the_cat"
+[extra.gallery.3]
+path = "bochen_vs_choroba.webp"
+caption = "Epic Battle of Grey Loaf and the Illness, a drawing by @kraftdorian."
+source = "Instagram @bochen_the_cat"
 [extra.gallery.plakat]
 path = "bochen-vs-michael.webp"
 caption = "Bochen vs [Michael HT](@/w/michael-ht.md), a fan's remake of the graphic advertising [Crane](@/w/jacob-crane.md) vs [Queen](@/w/gabriel-queen.md) for [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)."
