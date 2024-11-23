@@ -13,7 +13,7 @@ caption = "Bochen accompanying Linde while gaming."
 source = "Instagram @bochen_the_cat"
 [extra.gallery.3]
 path = "bochen_vs_choroba.webp"
-caption = "Epic Battle of Grey Loaf and the Illness, a drawing by @kraftdorian."
+caption = "Epic Battle of Grey Loaf and the Illness, a drawing by [@kraftdorian](https://www.instagram.com/kraftdorian/)."
 source = "Instagram @bochen_the_cat"
 [extra.gallery.plakat]
 path = "bochen-vs-michael.webp"
