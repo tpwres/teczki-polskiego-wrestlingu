@@ -26,7 +26,7 @@ About 15 minutes into the livestream of [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-
 Later, Linde shared the crowdfunding page to help nurse Bochen back to health.
 During [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md), host [Michael HT](@/w/michael-ht.md) auctioned off a T-shirt with Bochen, all proceedings going to the cat's aid.
 
-Unfortunately, despite the support, Bochen died on November 23, 2024.
+Unfortunately, despite the support, Bochen passed away on November 23, 2024.
 
 ## Internet presence
 
