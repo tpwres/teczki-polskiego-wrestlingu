@@ -6,17 +6,17 @@ authors = ["M3n747"]
 [extra]
 toclevel=2
 [extra.gallery.1]
-path = "marco-hammers-pas-intergender.jpg"
-caption = '[Marco Hammers](@/w/marco-hammers.md) holding the PTW Intergender Championship, posing with a fan at [PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).'
-source = "Instagram @vjp666"
-[extra.gallery.2]
-path = "siostra-kimono-iwul-pas-intergender.jpg"
-caption = 'Istotna Martynka (Martyna from Istota Wrestlingu) and Szymon Iwulski from Tales of Polish Wrestling with the Intergender Championship at [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md).'
-source = "Instagram @iwulbrand"
-[extra.gallery.3]
 path = "pas-intergender-closeup.jpg"
 caption = "Close-up shot of the PTW Intergender Championship."
 source = "MyWrestling.com.pl"
+[extra.gallery.2]
+path = "marco-hammers-pas-intergender.jpg"
+caption = '[Marco Hammers](@/w/marco-hammers.md) holding the PTW Intergender Championship, posing with a fan at [PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).'
+source = "Instagram @vjp666"
+[extra.gallery.3]
+path = "siostra-kimono-iwul-pas-intergender.jpg"
+caption = 'Istotna Martynka (Martyna from Istota Wrestlingu) and Szymon Iwulski from Tales of Polish Wrestling with the Intergender Championship at [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md).'
+source = "Instagram @iwulbrand"
 +++
 
 The PTW Intergender Championship is a joke DIY professional wrestling championship made out of cardboard.
