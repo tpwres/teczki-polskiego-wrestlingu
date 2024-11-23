@@ -13,6 +13,10 @@ source = "Instagram @vjp666"
 path = "siostra-kimono-iwul-pas-intergender.jpg"
 caption = 'Istotna Martynka (Martyna from Istota Wrestlingu) and Szymon Iwulski from Tales of Polish Wrestling with the Intergender Championship at [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md).'
 source = "Instagram @iwulbrand"
+[extra.gallery.3]
+path = "pas-intergender-closeup.jpg"
+caption = "Close-up shot of the PTW Intergender Championship."
+source = "MyWrestling.com.pl"
 +++
 
 The PTW Intergender Championship is a joke DIY professional wrestling championship made out of cardboard.
