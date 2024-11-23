@@ -4,12 +4,20 @@ template = "talent_page.html"
 [taxonomies]
 country = [":cat-face:"]
 [extra.gallery.1]
+path = "10-out-of-10.webp"
+caption = "Bochen sitting in the loaf position, 10 out of 10 points."
+source = "Instagram @bochen_the_cat"
+[extra.gallery.2]
+path = "bochen-gaming.webp"
+caption = "Bochen accompanying Linde while gaming."
+source = "Instagram @bochen_the_cat"
+[extra.gallery.plakat]
 path = "bochen-vs-michael.webp"
 caption = "Bochen vs [Michael HT](@/w/michael-ht.md), a fan's remake of the graphic advertising [Crane](@/w/jacob-crane.md) vs [Queen](@/w/gabriel-queen.md) for [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)."
 source = "Michael HT"
 +++
 
-Bochen (or Maniek) was a British Shorthair cat about 4 years of age, who owned human wrestler Jakub Linde. Bochen, translated as _loaf_ (of bread) was the cat's nickname, likely given to him for his preference to sit in the loaf position, front paws tucked.
+Bochen (or Maniek) was a British Shorthair cat about 4 years of age, who owned human wrestler Jakub Linde. Bochen, translated as _loaf_ (of bread) was the cat's nickname, likely given to him for his preference to sit in the loaf position, front paws and tail tucked.
 
 Bochen became a part of [PpW](@/o/ppw.md)'s lore around July 2024, when Linde shared sad news about the cat's health issues.
 PpW invited its fans to help by donating money towards the cat's treatment.
