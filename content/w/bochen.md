@@ -1,6 +1,7 @@
 +++
 title = "Bochen"
 template = "talent_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 country = [":cat-face:"]
 [extra.gallery]
