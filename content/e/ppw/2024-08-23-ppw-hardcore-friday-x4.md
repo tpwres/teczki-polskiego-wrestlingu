@@ -34,6 +34,10 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
   - '[Samson](@/w/samson.md)'
   - s: Non-Title Match
     nc: Double Count Out
+- - '[Michael HT](@/w/michael-ht.md)'
+  - '[Bochen](@/w/bochen.md)'
+  - g: true
+    s: Michael auctions a T-shirt to help fund Bochen the Cat's recovery
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Unsanctioned Match

@@ -49,6 +49,7 @@
 {% set alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
 {% set alpha_variants = load_data(literal="{S: [S, Ś], L: [L, Ł], Z: [Z, Ź, Ż]}", format='yaml') %}
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
+{% set all_emojis = load_data(path="const/emojis.yaml") %}
 {% set empty_obj = []|group_by(key=0) %}
 
 {% for letter in alphabet %}
