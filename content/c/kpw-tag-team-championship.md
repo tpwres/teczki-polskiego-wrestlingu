@@ -6,7 +6,8 @@ authors = ["M3n747"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "kpw-tag-team-belt.jpg", caption = '[Michał Fux](@/w/michal-fux.md) wearing his tag team belt at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md).', source = "MFotografika" }
+1 = { path = "kpw-tag-team-belts-closeup.jpg", caption = 'Close-up of the Tag Team Championships.', source = "Dawid Kucharski, MyWrestling.com.pl" }
+2 = { path = "kpw-tag-team-belt.jpg", caption = '[Michał Fux](@/w/michal-fux.md) wearing his tag team belt at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md).', source = "MFotografika" }
 +++
 
 The KPW Tag Team Championship is the Tag Team division championship of [Kombat Pro Wrestling](@/o/kpw.md), introduced in 2018.
