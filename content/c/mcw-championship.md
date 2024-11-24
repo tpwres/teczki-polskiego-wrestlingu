@@ -47,10 +47,21 @@ MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW 
   - s: Fatal Four-Way Match
     en: '[MCW Damage Control](@/e/mcw/2023-12-16-mcw-damage-control.md)'
     ed: 2023-12-16
-- - 'RAV(c)'
-  - 'Jack Kalom'
+- - 'Jack Kalom'
+  - 'RAV(c)'
   - s: Singles match
     en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
     ed: 2024-11-16
-    nc: 'Upcoming'
+{% end %}
+
+**TOTAL:** 763 days.
+
+### Champion #3: Jack Kalom
+
+{% free_card() %}
+- - 'Jack Kalom'
+  - 'RAV(c)'
+  - s: Singles match
+    en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
+    ed: 2024-11-16
 {% end %}
