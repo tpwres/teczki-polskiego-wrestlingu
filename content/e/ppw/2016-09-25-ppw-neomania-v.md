@@ -14,7 +14,7 @@ city = "Warszawa"
 4 = { path = "hades-jousting.jpg", caption = "Hades jousting at Faust.", source = "Official PpW YouTube" }
 +++
 
-Neomania V was PpW's backyard show held outdoors at Winogronowa 17 street, in front of a crowd of about 10 people. It was the final entry in the [Neomania series][neomania-series] of so-called PPVs.
+Neomania V was PpW's backyard show held outdoors at [Winogronowa 17](@/v/winogronowa-17.md) street, in front of a crowd of about 10 people. It was the final entry in the [Neomania series][neomania-series] of so-called PPVs.
 
 {% card() %}
 - - 'Mati'

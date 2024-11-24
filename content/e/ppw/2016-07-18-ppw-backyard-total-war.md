@@ -11,7 +11,7 @@ city = "Warszawa"
 manifest = "@/e/ppw/2016-07-18-ppw-backyard-total-war-gallery.toml"
 +++
 
-Backyard Total War was a backyard-era PpW event, featuring wrestlers from other groups in addition to the PpW workers. Like many other shows from PpW's backyard era, this one took place in the lot at Winogronowa 17 street.
+Backyard Total War was a backyard-era PpW event, featuring wrestlers from other groups in addition to the PpW workers. Like many other shows from PpW's backyard era, this one took place in the lot at [Winogronowa 17](@/v/winogronowa-17.md) street.
 
 {% card() %}
 - - '[Charlie](@/w/madman-charlie.md)'
