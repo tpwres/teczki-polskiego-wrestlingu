@@ -41,7 +41,7 @@ MCW has one singles championship, which was introduced in late 2019.
 
 | Championship | Current champion | Notes |
 |---|---|---|
-| [MCW Championship](@/c/mcw-championship.md) | [RAV](@/w/rav.md) | Defeated [Johny Vegas](@/w/johny-vegas.md) at [MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show.md) |
+| [MCW Championship](@/c/mcw-championship.md) | Jack Kalom | Defeated [RAV](@/w/rav.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md) |
 
 ### References
 
