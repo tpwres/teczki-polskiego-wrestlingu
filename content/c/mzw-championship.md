@@ -5,7 +5,7 @@ template = "article.html"
 authors = ["Seweryn Pielucha"]
 [extra]
 toclevel=2
-[extra.gallery.3]
+[extra.gallery.1]
 path = "mzw-belt-big.jpg"
 caption = "Close-up shot of the MZW Championship."
 source = "Dawid Kucharski, MyWrestling.com.pl"
