@@ -27,7 +27,6 @@ MCW Charytatywnie (roughly: _MCW for Charity_) was a 2024 [Mine City Wrestling](
 
 #### Recap
 * The debutant Phantom came out to the ring lead by a female valet on a piece of rope, which tied his hands and ended in a noose around his neck.
-* 
 
 ### References
 
