@@ -8,7 +8,7 @@ toclevel=2
 [extra.gallery.1]
 path = "pas-intergender-closeup.jpg"
 caption = "Close-up shot of the PTW Intergender Championship."
-source = "MyWrestling.com.pl"
+source = "Dawid Kucharski, MyWrestling.com.pl"
 [extra.gallery.2]
 path = "marco-hammers-pas-intergender.jpg"
 caption = '[Marco Hammers](@/w/marco-hammers.md) holding the PTW Intergender Championship, posing with a fan at [PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).'
