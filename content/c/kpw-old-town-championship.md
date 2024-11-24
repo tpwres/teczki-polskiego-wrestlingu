@@ -6,8 +6,9 @@ authors = ["M3n747", "SewiTheRef"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "kpw-old-town-belt-original.jpg", caption = '[David Oliwa](@/w/david-oliwa.md) with the original Old Town belt at [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).', source = "M3n747" }
-2 = { path = "kpw-old-town-belt-redesign.jpg", caption = '[Rosetti](@/w/rosetti.md) with the redesigned Old Town belt at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).', source = "MFotografika" }
+1 = { path = "kpw-old-town-belt-closeup.jpg", caption = 'Close-up of the Old Town Championship.', source = "Official KPW Facebook" }
+2 = { path = "kpw-old-town-belt-original.jpg", caption = '[David Oliwa](@/w/david-oliwa.md) with the original Old Town belt at [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).', source = "M3n747" }
+3 = { path = "kpw-old-town-belt-redesign.jpg", caption = '[Rosetti](@/w/rosetti.md) with the redesigned Old Town belt at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).', source = "MFotografika" }
 +++
 
 The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling](@/o/kpw.md). It was created and first awarded in 2017 in cooperation with the now defunct post-apocalyptic themed LARP event named OldTown.
