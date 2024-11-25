@@ -20,18 +20,21 @@ David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.
 ## In wrestling
 
 * Entrance music:
-  - "Escape (The Piña Colada Song)" by Rupert Holmes {{ org_badge(orgs=['kpw']) }} (2015-2023)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=FXG_I_tf_i4) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/escape-the-pina-colada-song/1443846037?i=1443846163)
-  - "Tarzan Boy" by Baltimora {{ org_badge(orgs=['kpw']) }} (2020)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=--6CdAypJsQ) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | 
- [♪&nbsp;Apple Music](https://music.apple.com/us/album/tarzan-boy/713600677?i=713600780)
-  - "Bloodsport" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=dP4GoeO5El8) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/2VvDAaS9MCN7WWwnG3N9JD) | 
- [♪&nbsp;Apple Music](https://music.apple.com/us/album/bloodsport/1657524342?i=1657524748)
+  - "Escape (The Piña Colada Song)" by Rupert Holmes
+ {{ org_badge(orgs=['kpw']) }} (2015-2023)
+ {{ music(yt='FXG_I_tf_i4')}}
+ {{ music(spot='5IMtdHjJ1OtkxbGe4zfUxQ')}}
+ {{ music(apple='1443846037?i=1443846163')}}
+  - "Tarzan Boy" by Baltimora
+ {{ org_badge(orgs=['kpw']) }} (2020)
+ {{ music(yt='=--6CdAypJsQ')}}
+ {{ music(spot='273uCXd7NPrInaiNqtkOrA')}}
+ {{ music(apple='713600677?i=713600780')}}
+  - "Bloodsport" by Karl Casey {{ org_badge(orgs=['kpw']) }}
+ (2023-present)
+ {{ music(yt='dP4GoeO5El8')}}
+ {{ music(spot='2VvDAaS9MCN7WWwnG3N9JD')}}
+ {{ music(apple='1657524342?i=1657524748')}}
 
 ## Internet presence
 
