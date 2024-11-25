@@ -14,7 +14,7 @@ career_aliases = ["Bartosz Borowsky", "Lady Killer"]
 
 * Gimmicks/Nicknames:
   - Bartosz Borowsky {{ org_badge(org='mzw') }}
-  - Lady Killer {{ org_badge(org='mzw') }}
+  - Lady Killer {{ org_badge(org='mzw) }}
   - Boro {{ org_badge(org='ptw') }}
  
 * Trained by:
@@ -58,9 +58,6 @@ Boro has not officialy left the federation until [PTW Exits](@/a/ptw-exits.md) i
  
 * Entrance music:
   - "Jessica" by Borys LBD {{ org_badge(orgs='ptw') }}
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=d00_feh_EE4) |
- [♪&nbsp;Spotify](https://open.spotify.com/track/0ldFF0faychIx11gumyIJO) |
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/jessica-feat-bado/1331275411?i=1331275697)
 
 ## Championships and accomplishments
 
