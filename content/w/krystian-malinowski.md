@@ -21,14 +21,16 @@ Eventually he secured the new position at [Arena 13](@/e/kpw/2019-04-05-kpw-aren
 ## In wrestling
 
 * Entrance music:
-  - "We're Not Gonna Take It" by Twisted Sister {{ org_badge(orgs=['kpw']) }} (2015-2023)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=cTC1TEVo3Aw) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/were-not-gonna-take-it/1093420230?i=1093420483)
-  - "Retro Funky (Sundance Remix)" by Perséphone {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=0-c7kXpRVIQ) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/1eEqg0aPf3BoaBl0I4Tuln) | 
- [♪&nbsp;Apple Music](https://music.apple.com/us/album/retro-funky/1438527375?i=1438527378)
+  - "We're Not Gonna Take It" by Twisted Sister
+ {{ org_badge(orgs=['kpw']) }} (2015-2023)
+ {{ music(yt='cTC1TEVo3Aw')}}
+ {{ music(spot='1hlveB9M6ijHZRbzZ2teyh')}}
+ {{ music(apple='1093420230?i=1093420483')}}
+  - "Retro Funky (Sundance Remix)" by Perséphone
+ {{ org_badge(orgs=['kpw']) }} (2023-present)
+ {{ music(yt='0-c7kXpRVIQ')}}
+ {{ music(spot='1eEqg0aPf3BoaBl0I4Tuln')}}
+ {{ music(apple='1438527375?i=1438527378')}}
 
 ## Internet presence
 

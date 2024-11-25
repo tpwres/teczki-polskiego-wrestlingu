@@ -58,10 +58,11 @@ With Team Zmowa eventually losing to Team Zmowa Przeciwko Zmowie in a Ustawka (_
 * Managers:
   - Jakub Linde (2024)
 * Entrance music:
-  - "Memphis Doom" by Kordhell {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=cJuO985zF8E) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/0dlz0KoaIE9zaFZNT4XvXn) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/memphis-doom/1591104080?i=1591104084)
+  - "Memphis Doom" by Kordhell
+ {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present)
+ {{ music(yt='cJuO985zF8E')}}
+ {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
+ {{ music(apple='1591104080?i=1591104084')}}
 
 ## Championships and accomplishments
 

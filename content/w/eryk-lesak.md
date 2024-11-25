@@ -19,22 +19,26 @@ In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "f
 ## In wrestling
 
 * Entrance music:
-  - "You’ve Got Another Thing Comin’" by Judas Priest {{ org_badge(orgs=['kpw']) }} (2019-2022)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=XJMgveYdO-M) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/youve-got-another-thing-comin/207178130?i=207178401)
-  - "Desert Cruiser" by Truckfighters {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Opol)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=JLMPA4xPFpg) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/desert-cruiser/1568953211?i=1568953212)
-  - "Neon Blade" by MoonDeity {{ org_badge(orgs=['kpw']) }} (2023)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=Mu965dWgMMQ) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/neon-blade/1627535453?i=1627535463)
-  - "Metaphonk" by Infraction {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=Y64vZp8M8dE) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/60Pt3GwqOMl5sE3LXeHBxu) | 
- [♪&nbsp;Apple Music](https://music.apple.com/us/album/metaphonk/1761432224?i=1761432679)
+  - "You’ve Got Another Thing Comin’" by Judas Priest
+ {{ org_badge(orgs=['kpw']) }} (2019-2022)
+ {{ music(yt='XJMgveYdO-M')}}
+ {{ music(spot='4f3RDq9nYPBeR1yMSgnmBm')}}
+ {{ music(apple='207178130?i=207178401')}}
+  - "Desert Cruiser" by Truckfighters
+ {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Opol)
+ {{ music(yt='JLMPA4xPFpg')}}
+ {{ music(spot='6dDdhX8byHKApki5TuOqjS')}}
+ {{ music(apple='1568953211?i=1568953212')}}
+  - "Neon Blade" by MoonDeity
+ {{ org_badge(orgs=['kpw']) }} (2023)
+ {{ music(yt='Mu965dWgMMQ')}}
+ {{ music(spot='0iUrxveyNUBfj0cqjYEijt')}}
+ {{ music(apple='1627535453?i=1627535463')}}
+  - "Metaphonk" by Infraction
+ {{ org_badge(orgs=['kpw']) }} (2023-present)
+ {{ music(yt='Y64vZp8M8dE')}}
+ {{ music(spot='60Pt3GwqOMl5sE3LXeHBxu')}}
+ {{ music(apple='1761432224?i=1761432679')}}
 
 ## Internet presence
 

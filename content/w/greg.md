@@ -29,12 +29,14 @@ At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeate
 ## In wrestling
 
 * Entrance music:
-  - "Year Zero" by Ghost {{ org_badge(orgs=['kpw']) }} (2019-2023)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=wy0l2r0IxkI) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/year-zero/1440870903?i=1440870917)
-  - "Evil Warriors" by Makai Symphony {{ org_badge(orgs=['kpw']) }} (2024-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=cbF6qRQ5WM8)
+  - "Year Zero" by Ghost
+ {{ org_badge(orgs=['kpw']) }} (2019-2023)
+ {{ music(yt='wy0l2r0IxkI')}}
+ {{ music(spot='3yiyZW5sYNg3VvIejh10sK')}}
+ {{ music(apple='1440870903?i=1440870917')}}
+  - "Evil Warriors" by Makai Symphony
+ {{ org_badge(orgs=['kpw']) }} (2024-present)
+ {{ music(yt='cbF6qRQ5WM8')}}
 
 ## Internet presence
 

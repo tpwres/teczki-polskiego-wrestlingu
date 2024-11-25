@@ -21,14 +21,15 @@ Since then he assumed the role of head coach.
 ## In wrestling
 
 * Entrance music:
-  - "Ascension" by Transit {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=FPoJb2Dp9C4) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/0HK20cyt3TdCpQ219Xe4Bl) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/transit/1544190290?i=1544190291)
+  - "Ascension" by Transit
+ {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019)
+ {{ music(yt='FPoJb2Dp9C4')}}
+ {{ music(spot='0HK20cyt3TdCpQ219Xe4Bl')}}
+ {{ music(apple='1544190290?i=1544190291')}}
   - "Burning Heart" by Survivor {{ org_badge(orgs=['kpw']) }} (2019)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=lYlkYkHkZxs) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/burning-heart/207443884?i=207444127)
+ {{ music(yt='lYlkYkHkZxs')}}
+ {{ music(spot='2avaSeKHI5l4sLruVfLdi2')}}
+ {{ music(apple='207443884?i=207444127')}}
 
 ## Internet presence
 
