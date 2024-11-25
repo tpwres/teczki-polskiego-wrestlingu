@@ -7,6 +7,10 @@ venue = ["dworek-kozlow"]
 [extra]
 hide_results = true
 city = "Kozłów"
+[extra.gallery.poster]
+path = ""
+caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Łukasz "Prezes" Okoński.'
+source = "Facebook @PrimeTimeWrestlingPL"
 [extra.gallery.martina]
 path = "martina.webp"
 caption = "Facebook promotional graphic announcing Session Moth Martina"
