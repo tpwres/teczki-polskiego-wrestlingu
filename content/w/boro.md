@@ -61,7 +61,7 @@ Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, 
   - PAKA
  
 * Entrance music:
-  - "Jessica" by Borys LBD {{ org_badge(orgs='ptw') }}
+  - "Jessica" by Borys LBD {{ org_badge(org='ptw') }}
 
 ## Championships and accomplishments
 
