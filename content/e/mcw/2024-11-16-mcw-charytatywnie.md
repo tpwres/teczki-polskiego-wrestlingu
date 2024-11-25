@@ -27,6 +27,7 @@ MCW Charytatywnie (roughly: _MCW for Charity_) was a 2024 [Mine City Wrestling](
 
 #### Recap
 * The debutant Phantom came out to the ring lead by a female valet on a piece of rope, which tied his hands and ended in a noose around his neck.
+* Johny Vegas's foot hit the camera while he was being thrown into the ring by Chris Steeler.
 
 ### References
 
