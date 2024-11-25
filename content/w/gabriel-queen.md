@@ -65,8 +65,8 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
   - [Isnorr](@/w/isnorr.md) (2021)
 
 * Entrance music:
-  - "Absloutely Anything" by CG5 & OR3O {{ org_badge(org='ptw', 'ppw', 'low') }} (2021-)
-  - "Best of Both Worlds" by Hannah Montana {{ org_badge(org='ptw', 'ppw') }} - as part of Pure Gold - (2022-)
+  - "Absolutely Anything" by CG5 & OR3O {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-)
+  - "Best of Both Worlds" by Hannah Montana {{ org_badge(orgs=['ptw', 'ppw']) }} - as part of Pure Gold - (2022-)
 
 ## Championships and accomplishments
 
