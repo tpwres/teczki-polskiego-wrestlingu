@@ -54,16 +54,12 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
   - _Gab Driver 01'_ (Michinoku Driver) (2021-)
   - Single Leg Boston Crab (2023)
   - Double Underhook Inverted Slam (2021)
-
 * With [Vic Golden](@/w/vic-golden.md)
-  - _Golden Shower_ - (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
-
+  - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
 * Tag Teams and stables:
   - Pure Gold (2022-)
-
 * Managers:
   - [Isnorr](@/w/isnorr.md) (2021)
-
 * Entrance music:
   - "Absolutely Anything" by CG5 & OR3O {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-)
   - "Best of Both Worlds" by Hannah Montana {{ org_badge(orgs=['ptw', 'ppw']) }} - as part of Pure Gold - (2022-)
@@ -73,7 +69,6 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Awards](@/a/ptw-awards.md) (1 time)
     * Tag Team of the Year (as Pure Gold)
-
 * [PpW Ewenement Wrestling](@/o/ppw.md)
   - Golden Goat Trophy (1 time)
 
