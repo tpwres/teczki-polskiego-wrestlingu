@@ -21,17 +21,17 @@ David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.
 
 * Entrance music:
   - "Escape (The Piña Colada Song)" by Rupert Holmes
- {{ org_badge(orgs=['kpw']) }} (2015-2023)
+ {{ org_badge(orgs=['kpw']) }} (2015-2023) <br>
  {{ music(yt='FXG_I_tf_i4')}}
  {{ music(spot='5IMtdHjJ1OtkxbGe4zfUxQ')}}
  {{ music(apple='1443846037?i=1443846163')}}
   - "Tarzan Boy" by Baltimora
- {{ org_badge(orgs=['kpw']) }} (2020)
+ {{ org_badge(orgs=['kpw']) }} (2020) <br>
  {{ music(yt='=--6CdAypJsQ')}}
  {{ music(spot='273uCXd7NPrInaiNqtkOrA')}}
  {{ music(apple='713600677?i=713600780')}}
-  - "Bloodsport" by Karl Casey {{ org_badge(orgs=['kpw']) }}
- (2023-present)
+  - "Bloodsport" by Karl Casey
+ {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
  {{ music(yt='dP4GoeO5El8')}}
  {{ music(spot='2VvDAaS9MCN7WWwnG3N9JD')}}
  {{ music(apple='1657524342?i=1657524748')}}

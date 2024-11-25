@@ -59,7 +59,7 @@ With Team Zmowa eventually losing to Team Zmowa Przeciwko Zmowie in a Ustawka (_
   - Jakub Linde (2024)
 * Entrance music:
   - "Memphis Doom" by Kordhell
- {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present)
+ {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present) <br>
  {{ music(yt='cJuO985zF8E')}}
  {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
  {{ music(apple='1591104080?i=1591104084')}}

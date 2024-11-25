@@ -23,7 +23,7 @@ She is the first and, as of 2024, the only female announcer on the Polish wrestl
 
 * Entrance music:
   - "Stand or Fall" by Bonfire
- {{ org_badge(orgs=['kpw']) }} (2019-present)
+ {{ org_badge(orgs=['kpw']) }} (2019-present) <br>
  {{ music(yt='LC6A9ugveb0')}}
  {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
  {{ music(apple='1351853605?i=1351853946')}}

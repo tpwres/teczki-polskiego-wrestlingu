@@ -30,12 +30,12 @@ At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeate
 
 * Entrance music:
   - "Year Zero" by Ghost
- {{ org_badge(orgs=['kpw']) }} (2019-2023)
+ {{ org_badge(orgs=['kpw']) }} (2019-2023) <br>
  {{ music(yt='wy0l2r0IxkI')}}
  {{ music(spot='3yiyZW5sYNg3VvIejh10sK')}}
  {{ music(apple='1440870903?i=1440870917')}}
   - "Evil Warriors" by Makai Symphony
- {{ org_badge(orgs=['kpw']) }} (2024-present)
+ {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
  {{ music(yt='cbF6qRQ5WM8')}}
 
 ## Internet presence

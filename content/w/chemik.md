@@ -31,14 +31,14 @@ On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KP
 
 * Entrance music:
   - "Yekteniya I" by Batushka
- {{ org_badge(orgs=['kpw']) }} (2018-2023)
+ {{ org_badge(orgs=['kpw']) }} (2018-2023) <br>
  {{ music(yt='XCMNqKuuFC4')}}
  {{ music(cc='pl', apple='1152475900?i=1152476251')}}
   - "Gregorian Chants" by Ryz Beats
- {{ org_badge(orgs=['kpw']) }} (2023)
+ {{ org_badge(orgs=['kpw']) }} (2023) <br>
  {{ music(yt='eP52SxhgikE')}}
   - "Plague Rat" by Karl Casey
- {{ org_badge(orgs=['kpw']) }} (2024-present)
+ {{ org_badge(orgs=['kpw']) }} (2024-present) <br>
  {{ music(yt='y8XElwNSPnI')}}
  {{ music(spot='5ydTDIWT7GpLq35kJv53Ry')}}
  {{ music(apple='1557138878?i=1557138879')}}

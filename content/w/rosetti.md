@@ -20,11 +20,12 @@ Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he
 
 * Entrance music:
   - "Pieceful" by The World I Know
- {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Sawicki](@/w/sawicki.md))
+ {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Sawicki](@/w/sawicki.md)) <br>
  {{ music(yt='cHMlcuuqWG8')}}
  {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
  {{ music(apple='1447820618?i=1447820619')}}
-  - "Long Live the Chief" by Jidenna {{ org_badge(orgs=['kpw']) }} (2020-2023)
+  - "Long Live the Chief" by Jidenna
+ {{ org_badge(orgs=['kpw']) }} (2020-2023) <br>
  {{ music(yt='H_AQFnqMY3E')}}
  {{ music(spot='5M708qYwdT7xyQqO0WXnzm')}}
  {{ music(apple='1202463337?i=1202463431')}}

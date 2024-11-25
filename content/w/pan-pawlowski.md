@@ -36,7 +36,7 @@ This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co
 
 * Entrance music:
   - "Throne" by Bring Me the Horizon
- {{ org_badge(orgs=['ptw']) }} (2021-present)
+ {{ org_badge(orgs=['ptw']) }} (2021-present) <br>
  {{ music(yt='Ow_qI_F2ZJI')}}
  {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
  {{ music(apple='1021582747?i=1021582761')}}
