@@ -35,7 +35,7 @@ On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KP
  [♪&nbsp;Apple Music](https://music.apple.com/pl/album/yekteniya-i/1152475900?i=1152476251)
   - "Gregorian Chants" by Ryz Beats {{ org_badge(orgs=['kpw']) }} (2023)
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=eP52SxhgikE)
- - "Plague Rat" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2024-present)
+  - "Plague Rat" by Karl Casey {{ org_badge(orgs=['kpw']) }} (2024-present)
  [♪&nbsp;YouTube](https://www.youtube.com/watch?v=y8XElwNSPnI) | 
  [♪&nbsp;Spotify](https://open.spotify.com/track/5ydTDIWT7GpLq35kJv53Ry) | 
  [♪&nbsp;Apple Music](https://music.apple.com/us/album/plague-rat/1557138878?i=1557138879)
