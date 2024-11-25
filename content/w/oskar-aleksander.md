@@ -37,7 +37,7 @@ Besides his regular apperances as Oskar Aleksander he also performed as "Oskar S
   - Boston Crab
 * Managers:
   - Talent Agent
- * Entrance Music:
+* Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
  {{ org_badge(org='ppw') }} (2024-present)
  {{ music(yt='rDQHzGpwQNk')}}
