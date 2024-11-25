@@ -13,8 +13,9 @@ career_aliases = ["Nathan Cross", "Bonus CBD"]
 ## Basic info
 
 * Years active: 2019-
-* Nicknames:
-  - Nathan Cross
+* Gimmicks/nicknames:
+  - Gabriel Queen {{ org_badge(org= ['ptw', 'ppw', 'low']) }}
+  - Nathan Cross {{ org_badge(org='mzw') }}
 
 ## Professional wrestling career
 
@@ -46,6 +47,26 @@ During that time he also started taking bookings from abroad, making appearances
 Gabriel Queen made his debut for [PpW Ewenement](@/o/ppw.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), where he faced [Jacob Crane](@/w/jacob-crane.md).
 After securing victory, he was attacked by his defeated opponent, however his tag team partner - [Vic Golden](@/w/vic-golden.md) - made his surprise debut by saving him from a beatdown.
 The reunited tag team issued an open challange at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), which was surprisingly accepted by Legia Łysych, at that time still associated with PTW. The two teams reignited their feud from PTW, delivering a well-received match.
+
+## In wrestling
+
+* Finishers:
+  - _Gab Driver 01'_ (Michinoku Driver) (2021-)
+  - Single Leg Boston Crab (2023)
+  - Double Underhook Inverted Slam (2021)
+
+* With [Vic Golden](@/w/vic-golden.md)
+  - _Golden Shower_ - (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
+
+* Tag Teams and stables:
+  - Pure Gold (2022-)
+
+* Managers:
+  - [Isnorr](@/w/isnorr.md) (2021)
+ 
+* Entrance music:
+  - "Absloutely Anything" by CG5 & OR3O {{ org_badge(org= ['ptw', 'ppw', 'low']) }} (2021-)
+  - "Best of Both Worlds" by Hannah Montana {{ org_badge(org= ['ptw', 'ppw']) }} - as part of Pure Gold - (2022-)
 
 ### References
 
