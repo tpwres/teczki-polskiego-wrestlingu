@@ -14,7 +14,7 @@ career_aliases = ["Nathan Cross", "Bonus CBD"]
 
 * Years active: 2019-
 * Gimmicks/nicknames:
-  - Gabriel Queen {{ org_badge(org= ['ptw', 'ppw', 'low']) }}
+  - Gabriel Queen {{ org_badge(org='ptw', 'ppw', 'low') }}
   - Nathan Cross {{ org_badge(org='mzw') }}
 
 ## Professional wrestling career
@@ -65,8 +65,17 @@ The reunited tag team issued an open challange at [Ledwo Legalne IV](@/e/ppw/202
   - [Isnorr](@/w/isnorr.md) (2021)
  
 * Entrance music:
-  - "Absloutely Anything" by CG5 & OR3O {{ org_badge(org= ['ptw', 'ppw', 'low']) }} (2021-)
-  - "Best of Both Worlds" by Hannah Montana {{ org_badge(org= ['ptw', 'ppw']) }} - as part of Pure Gold - (2022-)
+  - "Absloutely Anything" by CG5 & OR3O {{ org_badge(org='ptw', 'ppw', 'low') }} (2021-)
+  - "Best of Both Worlds" by Hannah Montana {{ org_badge(org='ptw', 'ppw') }} - as part of Pure Gold - (2022-)
+ 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md)
+  - [PTW Awards](@/a/ptw-awards.md) (1 time)
+    * Tag Team of The Year (as Pure Gold)
+
+* [PpW Ewenement Wrestling](@/o/ppw.md)
+  - Golden Goat Trophy (1 time)
 
 ### References
 
