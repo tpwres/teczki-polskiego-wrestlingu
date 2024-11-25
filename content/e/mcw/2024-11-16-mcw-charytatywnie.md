@@ -14,19 +14,20 @@ caption = "Official poster. Pictured from left to right, top: two unknown debuta
 source = "Official MCW Facebook"
 +++
 
-MCW Charytatywnie (roughly: _MCW for Charity_) is an upcoming [Mine City Wrestling](@/o/mcw.md) show to be held in the "Michał" Sports Complex in Siemianowice Śląskie, as part of a charity event. The show is set to have three fights, including a Championship match, and will see the debut of two new wrestlers.
+MCW Charytatywnie (roughly: _MCW for Charity_) was a show held by [Mine City Wrestling](@/o/mcw.md). Event be held in the "Michał" Sports Complex in Siemianowice Śląskie, as part of a charity event. For this show MCW promoted have three fights, including a Championship match, as well as debuts of two new wrestlers - Doomfist and Phantom.
 
-{% card(predicted=true) %}
-- - '???'
-  - '???'
-  - nc: upcoming
+{% card() %}
+- - 'Doomfist'
+  - 'Phantom(@/w/johny-vegas.md)'
+  - s: 'Debutants Fight'
 - - 'Chris Steeler'
   - '[Johny Vegas](@/w/johny-vegas.md)'
-  - nc: upcoming
-- - '[RAV](@/w/rav.md)(c)'
-  - 'Jack Kalom'
+  - s: Singles Match
+- - 'Jack Kalom'
+  - '[RAV](@/w/rav.md)(c)'
   - c: '[MCW Championship](@/c/mcw-championship.md)'
-    nc: upcoming
+    s: Singles Match
+    c: MCW Championship
 {% end %}
 
 ## References
