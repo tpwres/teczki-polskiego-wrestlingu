@@ -19,7 +19,7 @@ MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW 
 
 ## Belt design
 
-The belt itself is made in gold and black colours based on thin metal sheet. Main plate is flat, and all of the decour is engraved on it. In the centre of it there is MCW logo visible, with eagle wings over, and "Mine City Wrestling Champion" placed on banners underneath it. Rest of the main plate is filled with simple engravings. On each side of main plate there are two pairs of smaller, rectangular sideplates. Both pairs of sideplates contains two different silhouettes of retro-styled wrestlers. All of the plates are based on basic black leather strap.
+The belt is made out of thin metal sheets with gold-and-black lettering and ornaments. The main plate is flat, and all of the decour is engraved on it. In its centre is the MCW logo with eagle wings over it, and "Mine City Wrestling Champion" placed on banners below it. The rest of the main plate is filled with simple engravings. On each side of the main plate there are two pairs of smaller, rectangular sideplates. Both pairs of sideplates contain two different silhouettes of retro-styled wrestlers. All of the plates are attached to a basic black leather strap.
 
 ## Title history
 
