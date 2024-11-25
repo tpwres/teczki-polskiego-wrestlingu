@@ -19,22 +19,26 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
 ## In wrestling
 
 * Entrance music:
-  - "Monsters" by Shinedown {{ org_badge(orgs=['kpw']) }} (2021-2023)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=EzsCb7ZwlQ0) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/monsters/1352572887?i=1352572895)
-  - "Happy Xmas (War Is Over)" by Shinedown {{ org_badge(orgs=['kpw']) }} (2022)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=lhAxVhrMt_U) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/4RT2cdLuHfobI0JdqW7V1W) | 
- [♪&nbsp;Apple Music](https://music.apple.com/us/album/happy-x-mas-war-is-over/206345554?i=206345556)
-  - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md))
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=a1jMUiSR4Gg) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/44K1GCbNLf1NHlCaLaYONk) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/neo-tokyo-dance-with-the-dead-remix/1523997493?i=1523997494)
-  - "Everywhere I Go" by ONLAP {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=4R8EDBkjcZQ) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/3yjOB5krqe1CDyUksMCsUR) | 
- [♪&nbsp;Apple Music](https://music.apple.com/us/album/everywhere-i-go/1690724986?i=1690725170)
+  - "Monsters" by Shinedown
+ {{ org_badge(orgs=['kpw']) }} (2021-2023)
+ {{ music(yt='EzsCb7ZwlQ0')}}
+ {{ music(spot='1qAuIPMALdFtGv2Ymjy5l0')}}
+ {{ music(apple='1352572887?i=1352572895')}}
+  - "Happy Xmas (War Is Over)" by Shinedown
+ {{ org_badge(orgs=['kpw']) }} (2022)
+ {{ music(yt='lhAxVhrMt_U')}}
+ {{ music(spot='4RT2cdLuHfobI0JdqW7V1W')}}
+ {{ music(apple='206345554?i=206345556')}}
+  - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
+ {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md))
+ {{ music(yt='a1jMUiSR4Gg')}}
+ {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
+ {{ music(apple='1523997493?i=1523997494')}}
+  - "Everywhere I Go" by ONLAP
+ {{ org_badge(orgs=['kpw']) }} (2023-present)
+ {{ music(yt='4R8EDBkjcZQ')}}
+ {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
+ {{ music(apple='1690724986?i=1690725170')}}
 
 ## Internet presence
 

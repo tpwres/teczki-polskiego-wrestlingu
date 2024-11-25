@@ -14,13 +14,16 @@ Lato usually works solo, although on a couple of occasions he formed a tag team 
 ## In wrestling
 
 * Entrance music:
-  - "Out of Touch" by Daryl Hall & John Oates {{ org_badge(orgs=['kpw']) }} (2022-2023)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=DCkJ5lGPqFs) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/7zLGHdfJ3JRPxvc96mEPEi) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/out-of-touch/273750173?i=273750255)
-  - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Zefir](@/w/zefir.md))
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=a1jMUiSR4Gg) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/44K1GCbNLf1NHlCaLaYONk) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/neo-tokyo-dance-with-the-dead-remix/1523997493?i=1523997494)
-  - "Jody Summer" by INTL.CMD {{ org_badge(orgs=['kpw']) }} (2023-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=7pvqp9VFxhM)
+  - "Out of Touch" by Daryl Hall & John Oates
+ {{ org_badge(orgs=['kpw']) }} (2022-2023)
+ {{ music(yt='DCkJ5lGPqFs')}}
+ {{ music(spot='7zLGHdfJ3JRPxvc96mEPEi')}}
+ {{ music(apple='273750173?i=273750255')}}
+  - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
+ {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Zefir](@/w/zefir.md))
+ {{ music(yt='a1jMUiSR4Gg')}}
+ {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
+ {{ music(apple='1523997493?i=1523997494')}}
+  - "Jody Summer" by INTL.CMD
+ {{ org_badge(orgs=['kpw']) }} (2023-present)
+ {{ music(yt='7pvqp9VFxhM')}}

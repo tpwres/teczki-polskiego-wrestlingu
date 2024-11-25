@@ -35,9 +35,10 @@ This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co
 ## In wrestling
 
 * Entrance music:
-  - "Throne" by Bring Me the Horizon {{ org_badge(orgs=['ptw']) }} (2021-present)
- [♪&nbsp;YouTube](https://www.youtube.com/watch?v=Ow_qI_F2ZJI) | 
- [♪&nbsp;Spotify](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | 
- [♪&nbsp;Apple Music](https://music.apple.com/pl/album/throne/1021582747?i=1021582761)
+  - "Throne" by Bring Me the Horizon
+ {{ org_badge(orgs=['ptw']) }} (2021-present)
+ {{ music(yt='Ow_qI_F2ZJI')}}
+ {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
+ {{ music(apple='1021582747?i=1021582761')}}
 
 [yt-iw]:https://www.youtube.com/@IstotaWrestlingu
