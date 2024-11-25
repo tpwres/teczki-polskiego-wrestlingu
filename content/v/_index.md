@@ -25,6 +25,7 @@ template = "index.html"
 * [Praga Centrum](@/v/praga-centrum.md) {{ org_badge(org='ppw') }}
 * [Teatr Komuna](@/v/teatr-komuna.md) {{ org_badge(org='ppw') }}
 * [Waldorffa 25](@/v/waldorffa25.md) {{ org_badge(org='ppw') }}
+* [Winogronowa 17](@/v/winogronowa-17.md) {{ org_badge(org='ppw') }}
 
 ### Wrocław and Lower Silesia
 
