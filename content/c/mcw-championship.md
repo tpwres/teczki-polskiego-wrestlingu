@@ -11,6 +11,16 @@ toclevel=2
 
 MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW starting years earlier, the belt was only introduced in late 2019 due lack of funds and personal difficulties, as well as the promotion's wish to have the best-looking title possible.
 
+## Statistics:
+
+* First champion: [Johny Vegas](@/w/johny-vegas.md)
+* Shortest reign: Jack Kalom (1+ days)
+* Longest reign: Johny Vegas (1127 days)
+
+## Belt design
+
+The belt itself is made in gold and black colours based on thin metal sheet. Main plate is flat, and all of the decour is engraved on it. In the centre of it there is MCW logo visible, with eagle wings over, and "Mine City Wrestling Champion" placed on banners underneath it. Rest of the main plate is filled with simple engravings. On each side of main plate there are two pairs of smaller, rectangular sideplates. Both pairs of sideplates contains two different silhouettes of retro-styled wrestlers. All of the plates are based on basic black leather strap.
+
 ## Title history
 
 ### Champion #1: Johny Vegas
