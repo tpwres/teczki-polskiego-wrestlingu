@@ -14,7 +14,7 @@ career_aliases = ["Bartosz Borowsky", "Lady Killer"]
 
 * Gimmicks/Nicknames:
   - Bartosz Borowsky {{ org_badge(org='mzw') }}
-  - Lady Killer {{ org_badge(org='mzw) }}
+  - Lady Killer {{ org_badge(org='mzw') }}
   - Boro {{ org_badge(org='ptw') }}
  
 * Trained by:
