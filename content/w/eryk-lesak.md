@@ -20,22 +20,22 @@ In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "f
 
 * Entrance music:
   - "You’ve Got Another Thing Comin’" by Judas Priest
- {{ org_badge(orgs=['kpw']) }} (2019-2022)
+ {{ org_badge(orgs=['kpw']) }} (2019-2022) <br>
  {{ music(yt='XJMgveYdO-M')}}
  {{ music(spot='4f3RDq9nYPBeR1yMSgnmBm')}}
  {{ music(apple='207178130?i=207178401')}}
   - "Desert Cruiser" by Truckfighters
- {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Opol)
+ {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Opol) <br>
  {{ music(yt='JLMPA4xPFpg')}}
  {{ music(spot='6dDdhX8byHKApki5TuOqjS')}}
  {{ music(apple='1568953211?i=1568953212')}}
   - "Neon Blade" by MoonDeity
- {{ org_badge(orgs=['kpw']) }} (2023)
+ {{ org_badge(orgs=['kpw']) }} (2023) <br>
  {{ music(yt='Mu965dWgMMQ')}}
  {{ music(spot='0iUrxveyNUBfj0cqjYEijt')}}
  {{ music(apple='1627535453?i=1627535463')}}
   - "Metaphonk" by Infraction
- {{ org_badge(orgs=['kpw']) }} (2023-present)
+ {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
  {{ music(yt='Y64vZp8M8dE')}}
  {{ music(spot='60Pt3GwqOMl5sE3LXeHBxu')}}
  {{ music(apple='1761432224?i=1761432679')}}

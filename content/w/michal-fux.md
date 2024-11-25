@@ -19,11 +19,12 @@ In 2023 they also made an appearance at an European Wrestling Association show i
 
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
- {{ org_badge(orgs=['kpw']) }} (2021-2023)
+ {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
  {{ music(yt='CmXWkMlKFkI')}}
  {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
  {{ music(apple='1764395673?i=1764396024')}}
   - "Better days" by Dangerous New Machine
+ {{ org_badge(orgs=['kpw']) }} (2023-) <br>
  {{ music(yt='se3AUY4XKcA')}}
  {{ music(apple='375038556?i=375038653')}}
 
