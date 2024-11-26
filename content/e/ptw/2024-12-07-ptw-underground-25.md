@@ -8,7 +8,7 @@ venue = ["dworek-kozlow"]
 hide_results = true
 city = "Kozłów"
 [extra.gallery.poster]
-path = ""
+path = "2024-12-07-ptw-underground-25-plakat.jpg"
 caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Łukasz "Prezes" Okoński.'
 source = "Facebook @PrimeTimeWrestlingPL"
 [extra.gallery.martina]
