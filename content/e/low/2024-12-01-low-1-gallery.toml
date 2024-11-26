@@ -1,0 +1,28 @@
+[01]
+path = "krolestwo-katowice.jpg"
+caption = "Music club Królestwo."
+source = "Ville Paananen"
+[02]
+path = "marco-hammers-vs-filip-fux.jpg"
+caption = "[Marco Hammers](@/w/marco-hammers.md) vs [Filip Fux](@/w/filip-fux.md)."
+source = "Official Legacy Facebook"
+[03]
+path = "biesiad-vs-olgierd.jpg"
+caption = "[Biesiad Strong](@/w/biesiad.md) vs [Olgierd](@/w/olgierd.md)."
+source = "Official Legacy Facebook"
+[04]
+path = "gustav-gryffin-vs-wiktor-longman.jpg"
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) vs [Wiktor Longman](@/w/wiktor-longman.md) - cancelled match."
+source = "Official Legacy Facebook"
+[05]
+path = "gustav-gryffin-vs-axel-fox.jpg"
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) vs [Axel Fox](@/w/axel-fox.md) - replacement for the cancelled match."
+source = "Official Legacy Facebook"
+[06]
+path = "shadow-vs-marcelito.jpg"
+caption = "[Shadow](@/w/shadow.md) vs [Marcelito](@/w/marcelito.md)."
+source = "Official Legacy Facebook"
+[07]
+path = "aron-wake-vs-gabriel-queen.jpg"
+caption = "[Aron Wake](@/w/aron-wake.md) vs [Gabriel Queen](@/w/gabriel-queen.md)."
+source = "Official Legacy Facebook"
