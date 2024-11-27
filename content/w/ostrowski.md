@@ -4,5 +4,5 @@ template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["El Homo", "Boski Ostrowski"]
+career_aliases = ["El Homo", "Boski Ostrowski", "Ostrowski"]
 +++
