@@ -29,7 +29,7 @@
         <span class="r">Details</span>
     </li>
     {% for match in matches_by_date | reverse %}
-    <li class="entry">
+    <li class="entry {{ match.tt | default(value="") }}">
         <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
         <span class="o">
             {% for org in match.o %}
@@ -41,6 +41,9 @@
             {% include "career_result_row.html" %}
             {% set event_path = "@/" ~ match.p %}
             <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
+            {% if match.tt %}
+              ({{ match.tt }})
+            {% endif %}
         </span>
     </li>
     {% endfor %}

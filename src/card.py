@@ -59,7 +59,7 @@ card_start_re = re.compile(r'''
     ^
     \{%\s+
         card\(
-            (?:.+)? # Optional params
+            (?P<params>.+)? # Optional params
         \)
     \s+%\}
     $
@@ -195,7 +195,7 @@ class Match:
     def winner(self) -> Iterable[Participant]:
         return self.opponents[0]
 
-    def parse_opponents(self, opponents: list[str], index: Optional[int] = None) -> Iterable[Iterable[Participant]]:
+    def parse_opponents(self, opponents: list, index: Optional[int] = None) -> Iterable[Iterable[Participant]]:
         for side in opponents:
             match side:
                 case None:
@@ -268,12 +268,14 @@ class DelimitedCard(NamedTuple):
     text: str
     card_start_line: int
     frontmatter_offset: int
+    params: dict[str, Any]
 
 class Card:
     start_offset: Optional[int]
     end_offset: Optional[int]
     crew: Optional[Crew]
     matches: list[Match]
+    params: dict[str, Any]
 
     def __init__(self, text_or_io: object, path: Optional[Path], offset: int):
         match text_or_io:
@@ -290,9 +292,11 @@ class Card:
             self.crew = None
             return
 
-        card_start, card_end, card_text, _, _ = extracted_card
+        card_start, card_end, card_text, _start_line, _fm_offset, params = extracted_card
         self.start_offset = card_start
         self.end_offset = card_end
+        self.params = params
+
         with self.handle_yaml_errors(extracted_card, path):
             content = list(self.parse_card(card_text))
 
@@ -308,7 +312,7 @@ class Card:
 
     @contextmanager
     def handle_yaml_errors(self, card_block: DelimitedCard, path: Optional[Path]):
-        _, _, _, start_line, offset = card_block
+        _, _, _, start_line, offset, _ = card_block
         try:
             yield
         except MatchParseError as mpe:
@@ -332,13 +336,21 @@ class Card:
         if not card_start_match:
             return None
         card_start = card_start_match.start()
+        card_params = self.parse_card_params(card_start_match.group('params'))
         start_line = text[:card_start].count("\n") + 2 # 1 for line numbering to start at 1, and 1 more to consume the {% card %} block start
         card_end = text.find('{% end %}', card_start_match.end())
         if card_end == -1:
             raise ValueError("Could not find card end marker {% end %}")
         body = text[card_start_match.end():card_end]
 
-        return DelimitedCard(card_start_match.end(), card_end, body, start_line, frontmatter_offset)
+        return DelimitedCard(
+            start=card_start_match.end(),
+            end=card_end,
+            text=body,
+            card_start_line=start_line,
+            frontmatter_offset=frontmatter_offset,
+            params=card_params
+        )
 
     def parse_card(self, card_text: str) -> Iterable[Match|Crew]:
         card_rows = yaml.safe_load(io.StringIO(card_text))
@@ -351,6 +363,17 @@ class Card:
                     match_date = new_date
                 case [*_]:
                     yield Match(cast(Any, row), i, date=match_date)
+
+    def parse_card_params(self, params: str) -> dict:
+        if not params: return {}
+        key, _eq, value = params.partition('=')
+        match value.strip():
+            case 'true' | 'True':
+                return {key: True}
+            case 'false' | 'False':
+                return {key: False}
+            case _:
+                raise CardParseError(f"Card block header: unsupported value {value}")
 
 def extract_names(matches: Iterable[Match]) -> set[Name]:
     """

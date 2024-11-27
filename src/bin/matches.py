@@ -41,17 +41,27 @@ def main():
             continue
 
         relative_path = path.relative_to(content_dir).as_posix()
+        predicted = card.params.get('predicted', False)
+        incomplete = card.params.get('incomplete', False)
+        unofficial = card.params.get('unofficial', False)
 
         for bout in card.matches:
-            all_bouts.append(
-                dict(
-                    d=bout.date or page.event_date,
-                    o=page.orgs,
-                    n=page.title,
-                    m=bout,
-                    p=relative_path
-                )
+            info = dict(
+                d=bout.date or page.event_date,
+                o=page.orgs,
+                n=page.title,
+                m=bout,
+                p=relative_path,
             )
+            if predicted:
+                info['tt'] = 'predicted'
+            elif incomplete:
+                info['tt'] = 'incomplete'
+            elif unofficial:
+                info['tt'] = 'unofficial'
+
+            all_bouts.append(info)
+
             for person in bout.all_names():
                 if not accepted_name(person.name): continue
                 bouts = appearances.setdefault(person.name, [])
