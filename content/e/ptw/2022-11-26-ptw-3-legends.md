@@ -52,7 +52,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
       [Arek Paterek](@/w/arek-paterek.md),
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md),
       [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)
-    Special guest commentary for tag team match: [Boro](@/w/boro.md)
+    Special guest commentary for the tag team match: '[Boro](@/w/boro.md)'
     Special guest commentary for the main event: Andrzej Supron, Paweł "Boryss" Borkowski
     English commentary: '[Santino](@/w/santino.md), Lewis Costello'
 {% end %}
