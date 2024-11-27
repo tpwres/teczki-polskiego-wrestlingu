@@ -60,13 +60,24 @@ Shortly after his return to PpW he joined ["Zmowa"](@/a/the-collusion.md), a vil
 
 In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - had returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/a/the-greens.md) made their apperance an an MZW show.
 
-### Trivia
+## In wrestling
 
-Through his entire career, Olgierd always used songs by the same Polish rapper, horrorcore artist Słoniu. The songs he used were:
-
-1. As Hades and Krueger in PpW and MZW respectively: [Słoń/Mikser - Początek Końca](https://www.youtube.com/watch?v=S3UMz_OK3mg)
-2. Solo appearances in PTW, PpW & MZW: [Słoń - Sicario](https://www.youtube.com/watch?v=pE0DdJf-tSo)
-3. As Legia Łysych both in PTW and PpW: [Słoń/Mikser/WSRH - Fopa i Nietakt](https://www.youtube.com/watch?v=jt_2gXNBlqU)
+* Entrance music:
+  - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
+ {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger) <br>
+ {{ music(yt='S3UMz_OK3mg')}}
+ {{ music(spot='02JLJi7sryFu44hhNWOv1c')}}
+ {{ music(apple='1509932137?i=1509932139')}}
+  - "Sicario" by Słoń feat. Szpaku
+ {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-present) <br>
+ {{ music(yt='pE0DdJf-tSo')}}
+ {{ music(spot='7Lys2P5pmqfrF3sKivfB6q')}}
+ {{ music(apple='1437914014?i=1437914180')}}
+  - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
+ {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Marco Hammers](@/w/marco-hammers.md)) <br>
+ {{ music(yt='jt_2gXNBlqU')}}
+ {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
+ {{ music(apple='1509575453?i=1509575457')}}
 
 ### References
 

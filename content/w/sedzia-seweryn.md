@@ -59,11 +59,14 @@ He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), wor
 While maintaining PpW as his main promotion, Sewi continued his sporadic apperances on the international circuit.
 On October 12th, 2024 he also made an apperance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. It was also unofficially confirmed that he will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md).
 
-
 ## In wrestling
 
 * Entrance music:
-  - "Over and Over and Over" by Jack White - as Ring Rat {{ org_badge(org='mzw') }} (2020)
+  - "Over and Over and Over" by Jack White
+ {{ org_badge(orgs=['mzw']) }} (2020, as Ring Rat) <br>
+ {{ music(yt='ShCRN3tFy80')}}
+ {{ music(spot='13CKjk6hRuF2XzY4N3xw4m')}}
+ {{ music(apple='1337879490?i=1337879981')}}
 
 ## Championships and achievments:
 

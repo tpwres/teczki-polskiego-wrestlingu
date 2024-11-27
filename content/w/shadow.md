@@ -64,13 +64,15 @@ Shadow was also announced as one of the stars of the newly-founded federation ca
 ## In wrestling
 * Finishers:
   - Phoenix Splash
-
 * Managers:
   - Shadows Moonlight (2019)
-
 * Entrance music:
-  - "Iron Head" by Rob Zombie (2014-present) {{ org_badge(orgs=['mzw', 'ppw', 'low']) }}
- 
+  - "Iron Head" by Rob Zombie feat. Ozzy Osbourne
+ {{ org_badge(orgs=['mzw', 'ppw', 'low']) }} (2014-present) <br>
+ {{ music(yt='CQYh0ZnDN1s')}}
+ {{ music(spot='1BTpL8k7DytUPa2sNYs53P')}}
+ {{ music(apple='1440836302?i=1440836472')}}
+
 ## Championships and accomplishments
 
 * [Maniac Zone Wrestling:](@/o/mzw.md)
