@@ -71,6 +71,8 @@ The new version appears much slimmer and smaller than the first one. The main pl
     en: '[PTW#5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
 {% end %}
 
+**TOTAL:** 223 days
+
 While Boro never defended the title, he was also recognized as a champion.
 
 ### Champions #2: Budapest Bastards
