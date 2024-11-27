@@ -21,7 +21,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 
 {% card() %}
 - - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
-  - "PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
+  - "PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md); [Boro](@/w/boro.md)"
   - s: Tag Team Match
 - [Marty Scurll, '[Primate](@/w/primate.md)']
 - [Myla Grace, Xia Brookside, '[Diana Strong](@/w/diana-strong.md)', {s: Triple Threat
@@ -52,6 +52,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
       [Arek Paterek](@/w/arek-paterek.md),
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md),
       [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)
+    Special guest commentary for the tag team match: '[Boro](@/w/boro.md)'
     Special guest commentary for the main event: Andrzej Supron, Paweł "Boryss" Borkowski
     English commentary: '[Santino](@/w/santino.md), Lewis Costello'
 {% end %}
