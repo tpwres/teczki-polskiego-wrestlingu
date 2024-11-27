@@ -89,5 +89,10 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.md)'
     ed: 2024-11-16
+- - 'Puncher'
+  - '[Spartan](@/w/spartan.md)'
+  - s: Singles Match
+    en: '[PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md)'
+    ed: 2024-12-07
     nc: upcoming
 {% end %}
