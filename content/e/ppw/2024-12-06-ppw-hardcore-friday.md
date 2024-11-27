@@ -28,7 +28,7 @@ The name of the event is a play on "barszcz z uszkami", a traditional Polish sou
   - '[Johnny Blade](@/w/johnny-blade.md)(c)'
   - s: 'Non-Title Match'
     nc: upcoming
-- - '[Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - nc: upcoming
 {% end %}
