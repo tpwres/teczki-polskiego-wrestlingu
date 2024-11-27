@@ -16,13 +16,15 @@ career_aliases = ["Ring Rat"]
   - Ring Rat {{ org_badge(org='mzw') }}
   - Sewi the Ref {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * Trained by:
-  - [Polska Akademia Wrestlingu](@/o/paw.md) ([Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md)) 2018-2020
-  - [PTW Academy](@/o/ptw-academy.md) 2020-2024
+  - [Polska Akademia Wrestlingu](@/o/paw.md) 2018-2021
+  - [PTW Academy](@/o/ptw-academy.md) 2021-2024
   - [Ewenement Dojo](@/o/ewenement-dojo.md) 2024-present
 
 ## Professional wrestling career
 
-### 2018-2020: MZW rookie & in-ring debut
+### 2018-2020: Maniac Zone Wrestling
+
+#### Rookie & in-ring debut
 
 Seweryn set his foot in a wrestling ring for the first time at PAW Summer Camp 2018, held in Wrocław.
 In late 2018 and early 2019 he became one of the founding members of [The Greens](@/a/the-greens.md).
@@ -30,14 +32,14 @@ Initally aiming to become a wrestler, he continued to train in PAW regularly for
 After that he made yet another apperance, in a segment during [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), along with Anatolii, [Hexia](@/w/hexia.md) & Krueger.
 Later, during the pandemic lockdown, he decided to resign from his wrestler's career to become full-time wrestling referee.
 
-## 2021: Becoming Sewi the Ref, "Green Revolution", joining PTW
+#### 2021: Becoming Sewi the Ref, "Green Revolution", joining PTW
 
 Seweryn made his debut as a referee during [MZW Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md), refereeing alongside [Sędzia Michał](@/w/sedzia-michal.md).
 After that, he made another apperance before a live audience at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 Later that year, due to a long stagnation in MZW combined with low morale among MZW's Greens, and the rapid growth of PTW caused by poaching of talent from other federation, on the 21st of November 2021 the remaining Greens decided to leave MZW.
 Many of them either suspended their wrestling career, or transferred to Prime Time Wrestling. Sewi decided on the latter, joining PTW in late 2021.
 
-## 2022-2024: Prime Time Wrestling
+### 2022-2024: Prime Time Wrestling
 
 Sewi the Ref debuted at [PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), which marked the start of his 2-year tenure as referee in the federation.
 He worked along [Sędzia Matek](@/w/sedzia-matek.md), with [Sędzia Rafał](@/w/alex-brave.md) joining in the second half of 2022.
@@ -50,13 +52,18 @@ Later he made yet another appearance at a PTW/WWA show in January 2024.
 Sewi continued his run in the company, being present at every PTW event (except [Underground 7](@/e/ptw/2022-08-28-ptw-underground-7.md)) up until [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 After that show he, along with many other talent, left PTW.
 
-## 2024: PpW Ewenement
+### 2024: PpW Ewenement
 
 On July 5th, 2024, [PpW](@/o/ppw.md) announced on its social media that Sewi would join the federation as a referee.
 He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) & [Sędzia Karol Górski](@/w/madman-charlie.md).
 While maintaining PpW as his main promotion, Sewi continued his sporadic apperances on the international circuit.
 On October 12th, 2024 he also made an apperance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. It was also unofficially confirmed that he will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md).
 
+
+## In wrestling
+
+* Entrance music:
+  - "Over and Over and Over" by Jack White - as Ring Rat {{ org_badge(org='mzw') }} (2020)
 
 ## Championships and achievments:
 
