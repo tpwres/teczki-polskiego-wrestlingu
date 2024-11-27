@@ -21,8 +21,8 @@
 
 {% endblock content %}
 
-{% block pagination %}
 {% if not extra.hide_pagination %}
-  {% include "events_pagination_taxonomy.html" %}
+  {% block pagination %}
+    {% include "events_pagination_taxonomy.html" %}
+  {% endblock pagination %}
 {% endif %}
-{% endblock pagination %}
