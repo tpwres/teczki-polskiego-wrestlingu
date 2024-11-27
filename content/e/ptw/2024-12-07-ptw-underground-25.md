@@ -25,6 +25,10 @@ For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, wh
 - - '[Diana Strong](@/w/diana-strong.md)'
   - Session Moth Martina
   - nc: upcoming
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Spartan](@/w/spartan.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
 {% end %}
 
 ### References
