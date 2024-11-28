@@ -60,11 +60,11 @@ While maintaining PpW as his main promotion, Sewi continued his sporadic apperan
 
 ### Return to Maniac Zone Wrestling (2024)
 
-On October 12th, 2024 he also made an apperance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. 
+On October 12th, 2024, he also made an apperance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. 
 
 ### Legacy of Wrestling (2024)
 
-It was unofficially confirmed that Sewi The Referee will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md).
+It was unofficially confirmed that Sewi the Referee will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md).
 
 ## In wrestling
 
