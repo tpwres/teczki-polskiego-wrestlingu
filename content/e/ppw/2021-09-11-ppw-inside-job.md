@@ -29,6 +29,7 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
 
 ### References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=384409)
 * [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
 * [Full show on YouTube](https://www.youtube.com/watch?v=_PXqj9uuZLg)
 * [Facebook event page](https://www.facebook.com/events/548066229675271/)
