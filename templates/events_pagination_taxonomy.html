@@ -1,5 +1,9 @@
-{# Get orgs our event page belongs to #}
-{% set taxonomy_orgs = page.taxonomies | get(key='chronology', default=[]) %}
+{% if page.extra.hide_pagination %}
+  {% set taxonomy_orgs = [] %}
+{% else %}
+  {# Get orgs our event page belongs to #}
+  {% set taxonomy_orgs = page.taxonomies | get(key='chronology', default=[]) %}
+{% endif %}
 
 {% if taxonomy_orgs %}
   <h3>Chronology</h3>
