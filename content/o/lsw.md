@@ -5,10 +5,9 @@ authors = ["M3n747"]
 template = "org_page.html"
 [extra]
 toclevel = 3
-[taxonomies]
-[extra]
 hide_roster = true
 hide_events = true
+[taxonomies]
 [extra.gallery]
 1 = { path = "diving-elbow-drop.jpg", caption = "More professional than [WWE](@/o/wwe.md). Not.", source = "Official ŁSW YouTube" }
 2 = { path = "tombstone-piledriver.jpg", caption = "Do not try this at home, or at all.", source = "Official ŁSW YouTube" }
