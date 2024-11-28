@@ -46,6 +46,7 @@ At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeate
 
 ## References
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19626)
 * [Video: 10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning Greg's promos (in Polish)
 * [Video: Umarł król, niech żyje król](https://www.youtube.com/watch?v=D3v7UD5DE_E) - fragments of Godzina Zero 2019 highlighting Greg's betrayal of Piękny Kawaler and his ascension to self-proclaimed papacy (in Polish). The [recap](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#aftermath) explains what happened.
 

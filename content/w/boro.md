@@ -71,5 +71,9 @@ Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, 
 
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24643)
  
 [freebird-rule]: https://en.wikipedia.org/wiki/Fabulous_Freebirds#Freebird_Rule

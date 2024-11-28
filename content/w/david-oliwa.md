@@ -40,3 +40,7 @@ David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.
 
 * [David's Facebook profile](https://www.facebook.com/FFDavidOliwa/)
 * [David's Instagram](https://www.instagram.com/david_oliwa_wrestler/)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19692)

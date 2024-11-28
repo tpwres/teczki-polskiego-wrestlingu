@@ -17,4 +17,4 @@ Szymon is also the main character of a short documentary titled [Amerykański Se
 
 ### References
 
-* [Cagematch profile](https://www.cagematch.net/?id=2&nr=24750)
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24750)

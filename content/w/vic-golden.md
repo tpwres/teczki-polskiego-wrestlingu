@@ -135,6 +135,7 @@ After Legia Łysych joined [Zmowa](@/a/the-collusion.md), Pure Gold became their
 
 ## References
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24922)
 * [Video: interview with "Lion" by Jobbers About Wrestling](https://www.youtube.com/watch?v=P_IjOUH3Z6A)
 * [Video: first DDW's training in Gdańsk; short interview with Vic Golden](https://www.youtube.com/watch?v=GWLUXuKh4vU)
 * [Video: footage of Vic Golden in EKW ring after leaving KPW](https://www.youtube.com/watch?v=-i3MpV8XBfs)

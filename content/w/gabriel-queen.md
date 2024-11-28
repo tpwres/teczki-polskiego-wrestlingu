@@ -91,4 +91,4 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
 
 ## References
 
-* [Gabriel's Cagematch profile](https://www.cagematch.net/?id=2&nr=24919)
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24919)

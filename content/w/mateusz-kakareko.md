@@ -7,3 +7,7 @@ country = ["PL"]
 [extra]
 career_aliases = ["Mateusz Kowalski"]
 +++
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14995)

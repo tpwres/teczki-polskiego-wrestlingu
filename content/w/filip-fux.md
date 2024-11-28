@@ -30,3 +30,7 @@ Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of W
 ## Internet presence
 
 * [@fuxwrestling on Instagram](https://www.instagram.com/fuxwrestling/)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25696)

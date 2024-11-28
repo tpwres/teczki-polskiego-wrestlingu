@@ -18,5 +18,8 @@ career_aliases = ["Norris"]
 ## Championships and accomplishments
 
 - [DFW Championship](@/c/dfw-championship.md) (1 time; final)
-
 - [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time; current)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24690)

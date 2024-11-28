@@ -52,5 +52,6 @@ On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KP
 
 * [KPW's Bianca interviewing Chemik](https://www.youtube.com/watch?v=K7J0zvAK264) (in Polish)
 * [A fragment of Godzina Zero 2016](https://youtu.be/wmAyKa51clM?si=2YCEPHWYSpdoTR3a&t=65), with young Chemik in the audience (1:05 mark, next to Robert on the right side)
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25615)
 
 [yt-chemik-challenge]: https://www.youtube.com/watch?v=QwlnIhkcN40

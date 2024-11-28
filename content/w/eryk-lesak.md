@@ -47,4 +47,5 @@ In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "f
 
 ## References
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25631)
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning Lesak as the first choice for Kawaleria's butler (in Polish)

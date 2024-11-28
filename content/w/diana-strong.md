@@ -19,3 +19,7 @@ career_aliases = ["Diana", "Diana Rega"]
 - Gender: female
 - Billed height: 157&nbsp;cm
 - Billed weight: 58&nbsp;kg
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25783)

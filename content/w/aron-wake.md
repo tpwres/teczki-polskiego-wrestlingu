@@ -64,4 +64,8 @@ It was also announced that he will participate in a match against his first riva
 
 * [aron_wake](https://www.instagram.com/aron_wake/) on Instagram
 
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24640)
+
 [wywiad-istota]: https://www.youtube.com/watch?v=PfHPG9FUr7Y

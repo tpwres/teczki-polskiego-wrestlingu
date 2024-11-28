@@ -81,4 +81,5 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
   - [MZW Championship](@/c/mzw-championship.md) (2 times)
 
 ## References
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14724)
 * [Video: Extreme Hell 2011 - Terry Shadow vs Black Joker](https://www.youtube.com/watch?v=5uRpO2Viqlk), a PXW match

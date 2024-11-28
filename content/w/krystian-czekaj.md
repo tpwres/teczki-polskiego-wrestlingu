@@ -18,3 +18,7 @@ He is also the first Polish referee to sell his own merchandise - a T-shirt sayi
 ## Internet presence
 
 * [KrystianDroops.Czekaj on Facebook](https://www.facebook.com/krystiandroops.czekaj/)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=28296)

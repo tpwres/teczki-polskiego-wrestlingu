@@ -27,3 +27,7 @@ Lato usually works solo, although on a couple of occasions he formed a tag team 
   - "Jody Summer" by INTL.CMD
  {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
  {{ music(yt='7pvqp9VFxhM')}}
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26065)
