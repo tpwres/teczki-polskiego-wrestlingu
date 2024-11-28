@@ -7,7 +7,7 @@ template = "org_page.html"
 toclevel = 3
 [taxonomies]
 [extra.gallery]
-1 = { path = "diving-elbow-drop.jpg", caption = "More professional than [WWE](@/o/wwe/md). Not.", source = "Official ŁSW YouTube" }
+1 = { path = "diving-elbow-drop.jpg", caption = "More professional than [WWE](@/o/wwe.md). Not.", source = "Official ŁSW YouTube" }
 2 = { path = "tombstone-piledriver.jpg", caption = "Do not try this at home, or at all.", source = "Official ŁSW YouTube" }
 +++
 
