@@ -50,12 +50,12 @@ With Team Zmowa eventually losing to Team Zmowa Przeciwko Zmowie in a Ustawka (_
 
 ### Maniac Zone Wrestling (2023-present)
 
-Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at joint show [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) where he defeated Chris Cage in Singles Match.
-He later made another apperance over a year later at the next MZW's show [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). Contrary to his PpW's reception, in MZW he is portrayed as babyface persona, without any dramatic changes in his gimmick.
+Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the joint show [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), where he defeated Chris Cage in a Singles Match.
+He later made another apperance over a year later at the next MZW show, [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). Contrary to his PpW reception, in MZW he is portrayed as a babyface persona, without any dramatic changes to his gimmick.
 
 ### Legacy of Wrestling (2024)
 
-In November 2024 it was announced that Gustav will face [Wiktor Longman](@/w/wiktor-longman.md) in a match for PpW Championship at [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). Due to Wiktor withdrawal due to real-life reasons Gustav's opponent has been changed to [Axel Fox](@/w/axel-fox.md)
+In November 2024 it was announced that Gustav will face [Wiktor Longman](@/w/wiktor-longman.md) in a match for PpW Championship at [Legacy of Wrestling](@/o/low.md)'s [first show](@/e/low/2024-12-01-low-1.md). Following Wiktor's withdrawal due to real-life reasons, Gustav's opponent has been changed to [Axel Fox](@/w/axel-fox.md).
 
 ## In wrestling
 
