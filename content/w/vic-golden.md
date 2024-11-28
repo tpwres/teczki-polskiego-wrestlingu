@@ -110,6 +110,11 @@ At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) he and his tag 
  {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
  {{ music(apple='1440632617?i=1440633345')}}
 
+## Championships and accomplishments
+
+* Backyardowy Wrestling Niezależny:
+  - BWN Championship (1 time)
+
 ## References:
 [Video: interview with "Lion" by Jobbers About Wrestling](https://www.youtube.com/watch?v=P_IjOUH3Z6A)
 
