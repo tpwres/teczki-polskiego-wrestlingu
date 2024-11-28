@@ -24,3 +24,6 @@ source = "Official MZW Facebook"
     Host, Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
     Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=252578)

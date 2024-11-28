@@ -20,3 +20,7 @@ city = "Głuchołazy"
     Host, Ring Announcer: '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
     Referees: '[Jędruś Bułecka](@/w/jedrus-bulecka.md), [Sędzia Piotr](@/w/mr-b.md)'
 {% end %}
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=153090)
