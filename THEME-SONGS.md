@@ -28,7 +28,7 @@ In order to properly link to a wrestler's theme songs, use the following templat
 
 * Each badge needs to be separately enclosed in apostrophes. Badges and apostrophes are inside square brackets.
 
-* Regardless of how many badges there are, it's always ```orgs=```, not ```org=```. Removing the _s_ will cause an error.
+* For a single badge, you can use ```org=```. For multiple badges, however, it's always ```orgs=```.
 
 * Put the date range after the badges. If a song is still in use, mark it as "-present". If there's additional information, e.g. a song is used in tag team only, or it accompanied a wrestler's particular gimmick, put that inside the bracket after the date.
 
