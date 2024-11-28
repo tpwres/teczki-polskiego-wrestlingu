@@ -81,3 +81,7 @@ In November 2024 it was announced that Gustav will face [Wiktor Longman](@/w/wik
 ## Internet presence
 
 * [gustav.gryffin](https://www.instagram.com/gustav.gryffin/) on Instagram
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29108)

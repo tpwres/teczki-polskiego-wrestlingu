@@ -40,4 +40,5 @@ Since then he assumed the role of head coach.
 
 ### References
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15421)
 * [YouTube video: Kawaler's debut in June 2012, Bishopton](https://www.youtube.com/watch?v=Hw6T_xAz5SY)

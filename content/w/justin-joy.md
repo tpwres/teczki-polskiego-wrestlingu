@@ -26,6 +26,7 @@ Since then, he had no wrestling matches, preferring to concentrate on his activi
 
 ### References
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15278)
 * [Instagram post](https://www.instagram.com/p/CT0Ja9ZDD4l/) from Oskar's Ninja Warrior profile, showing him failing to qualify for Season 3
 * [Facebook video](https://www.facebook.com/watch/?v=806575264020450) of Oskar qualifying for the 6th edition of Ninja Warrior Poland
 * [Launching the 6th edition of Ninja Warrior](https://www.polsat.pl/news/2022-08-30/brawurowy-poczatek-szostej-edycji-ninja-warrior-polska/), an article from the Polsat TV station

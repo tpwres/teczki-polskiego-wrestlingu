@@ -109,7 +109,7 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
 
 ### References
 
-* [Video: First Appearance at MZW](https://www.youtube.com/watch?v=h5cNADPzxUQ&ab_channel=WhatisWrestling), then as a journalist for What is Wrestling, taking chops from [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Asmund](@/w/asmund.md).
-* [Video: What Is Wrestling vs PJ Blake](https://www.youtube.com/watch?v=roRtTpXireo&ab_channel=WhatisWrestling), promo for Amisz's first wrestling match
-* [Old Youtube Channel "KGWrestlingPodcast"](https://www.youtube.com/@amisz98), now with his name changed and all uploads hidden
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24550)
+* [Video: First appearance at MZW](https://www.youtube.com/watch?v=h5cNADPzxUQ), then as a journalist for What is Wrestling, taking chops from [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Asmund](@/w/asmund.md).
+* [Video: What Is Wrestling vs PJ Blake](https://www.youtube.com/watch?v=roRtTpXireo), promo for Amisz's first wrestling match
+* [Old YouTube channel "KGWrestlingPodcast"](https://www.youtube.com/@amisz98), now with his name changed and all uploads hidden

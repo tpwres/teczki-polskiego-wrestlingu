@@ -41,4 +41,8 @@ This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co
  {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
  {{ music(apple='1021582747?i=1021582761')}}
 
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6523)
+
 [yt-iw]:https://www.youtube.com/@IstotaWrestlingu

@@ -44,3 +44,7 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
 
 * [@zefirluchador on Instagram](https://www.instagram.com/zefirluchador/)
 * [ZefirLuchador on Facebook](https://www.facebook.com/zefirluchador/)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25587)

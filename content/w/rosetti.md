@@ -30,12 +30,14 @@ Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he
  {{ music(spot='5M708qYwdT7xyQqO0WXnzm')}}
  {{ music(apple='1202463337?i=1202463431')}}
 
-### References:
-* [Arena 20 - Rosetti's promo](https://www.youtube.com/watch?v=09uuL1EIZaw)
-
 ## Internet presence
 
 * [@rosettikpw on Instagram](https://www.instagram.com/rosettikpw/)
 * [RosettiKPW on Facebook](https://www.facebook.com/RosettiKPW/)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19710)
+* [Arena 20 - Rosetti's promo](https://www.youtube.com/watch?v=09uuL1EIZaw)
 
 [boat-city]: https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA

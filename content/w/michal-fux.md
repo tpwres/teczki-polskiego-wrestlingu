@@ -31,3 +31,7 @@ In 2023 they also made an appearance at an European Wrestling Association show i
 ## Internet presence
 
 * [@michalfuxkpw on Instagram](https://www.instagram.com/michalfuxkpw/)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25534)
