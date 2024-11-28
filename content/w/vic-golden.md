@@ -95,17 +95,17 @@ At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) he and his tag 
  
 * Entrance music:
   - "Witness" by Mindless Self Indulgence 
-  {{ org_badge(org=['mzw', 'ddw']) }} (2015-2021) <br>
+  {{ org_badge(org='mzw', 'ddw') }} (2015-2021) <br>
   {{ music(yt='wvl092QgTJU')}}
   {{ music(spot='3sniNl7pnj3J2WTmyyZnFK?si=fa43c1b220e94e46')}}
   {{ music(apple='1703729139')}}
   - "Golden Boy" by sin with sebastian
-  {{ org_badge(org=['mzw', 'ddw']) }} (2022-) <br>
+  {{ org_badge(org='mzw', 'ddw') }} (2022-) <br>
   {{ music(yt='N4oG4NUuhZk')}}
   {{ music(spot='1VdAWlvKSEe7nDd1zYok9O')}}
   {{ music(apple='[722079700')}}
   - "Best of Both Worlds" by Hannah Montana
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-, in tag team with [Gabriel Queen](@/w/gabriel-queen.md)) <br>
+ {{ org_badge(orgs='ptw', 'ppw') }} (2022-, in tag team with [Gabriel Queen](@/w/gabriel-queen.md)) <br>
  {{ music(yt='ZSGC3g-EWbw')}}
  {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
  {{ music(apple='1440632617?i=1440633345')}}
