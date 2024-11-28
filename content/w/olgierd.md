@@ -36,7 +36,7 @@ Officially debuting at [Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project
 As Krueger, he also appeared at [Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) and the pandemic-era [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) recordings.
 His last appearance was at [Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md), facing against [Isnorr](@/w/isnorr.md) and Deti Black in a Triple Threat Match.
 
-After a couple of months, on October 29th 2021, Olgierd officially quit MZW, during the so-called "Green Revolution", when multiple talent left the organization that very same day. Besides Olgierd, those were [Rafael Kid](@/w/rafael-kid.md), [Madman Charlie](@/w/madman-charlie.md), [Isnorr](@/w/isnorr.md), Ref Sewi and [Aron Wake](@/w/aron-wake.md).
+After a couple of months, on October 29th 2021, Olgierd officially quit MZW, during the so-called "Green Revolution", when multiple talent left the organization on the very same day. Aside from Olgierd, they were [Rafael Kid](@/w/rafael-kid.md), [Madman Charlie](@/w/madman-charlie.md), [Isnorr](@/w/isnorr.md), [Referee Seweryn](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md).
 
 ### First return to PpW (2021)
 
@@ -55,7 +55,7 @@ This new character was quickly paired with [Marco Hammers](@/w/marco-hammers.md)
 Again he was able to show his prowess in hardcore-style matches - two of his top bouts were Street Fights, one against [Gabriel Queen](@/w/gabriel-queen.md) at [Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md), and another, Christmas-themed street fight against [Axel Fox](@/w/axel-fox.md) at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md).
 Besides that, Olgierd was one of the participants of the [Gold Rush Rumble](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where the winner became PTW's inaugural singles champion. As Legia with Marco, they co-main evented [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) in an Intergender Tag Team Match against [Diana Strong](@/w/diana-strong.md) and British wrestler Heidi Katrina.
 
-After Total Blast From The Past Olgierd along with Marco and numerous other talent [left PTW](@/a/ptw-exits.md), but choose not to spread that information publicly right away.
+After Total Blast From The Past, Olgierd, Marco and numerous other talent [left PTW](@/a/ptw-exits.md), but choose not to make that information public right away.
 
 ### Second return to PpW (2024-present)
 
