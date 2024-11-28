@@ -27,5 +27,6 @@ city = "Chorzów"
 
 ### References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=372456)
 * [Full event on Youtube](https://www.youtube.com/watch?v=DbziqHMaPyU) (requires paid subscription)
 * [Full event on Fite/Triller](https://www.fite.tv/watch/ptw-underground-20/2pdqa/) (requires paid subscription)

@@ -47,3 +47,6 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 * El Ogre appeared and challenged [Sinister](@/w/sinister.md), who entered and announced Krampus as Ogre's opponent.
 * Golden distracted the referee with his gold chain, and hit a low blow on Joy, but the referee saw that. The match ended with a DQ win for Justin, who stood alone in the ring. Axel Fox entered the ring, and asked whether he can trust Joy. In response, Joy gave Fox his tag team armband, hugged him and whispered something in his ear. Joy left the ring, and the arena, which marked his final appearance for the organization.
 * Pure Gold attack Axel, who stood alone in the ring. Fans chanted for [Justin Joy](@/w/justin-joy.md) to come back, but instead it was PAKA who made the save.
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=365968)
