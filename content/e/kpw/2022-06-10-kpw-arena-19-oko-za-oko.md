@@ -51,5 +51,5 @@ Originally, Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=340665)
-* [All matches](https://www.youtube.com/watch?v=XRQWwMuajec)
+* [Full event on YouTube](https://www.youtube.com/watch?v=XRQWwMuajec)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-19/)
