@@ -16,3 +16,6 @@ city = "Głuchołazy"
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=153086)

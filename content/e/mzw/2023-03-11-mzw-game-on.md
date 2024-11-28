@@ -22,3 +22,7 @@ source = "Official MZW Facebook"
     Ring Announcer: Adi
     Referee: Tony Sheen
 {% end %}
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=362402)
+* [Event highlightson YouTube](https://www.youtube.com/watch?v=up-mNH_iWT0)

@@ -34,3 +34,6 @@ source = "Official MZW Facebook"
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Referees: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322464)
