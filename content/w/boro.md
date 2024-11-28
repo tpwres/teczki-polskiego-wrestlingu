@@ -23,13 +23,13 @@ career_aliases = ["Bartosz Borowsky", "Lady Killer"]
  
 ## Professional wrestling career
 
-### 2016-2021 Maniac Zone Wrestling
+### Maniac Zone Wrestling (2016-2021)
 
 Boro started his wrestling career by training at MZW-operated [Polska Akademia Wrestlingu](@/o/paw.md) in Głuchołazy in 2016. He made his debut the next year at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) where he participated in a tag team match and a battle royal. He debuted under his slighty modified real-life name "Bartosz Borowsky". He then changed his ringname and gimmick to "Lady Killer" - a cocky heel womanizer persona. He performed as Lady Killer for the best part of his stint in MZW, mostly during the "Project" era when he appeared at most of the shows. He also become one of the founding members of ["The Greens"](@/a/the-greens.md).
 
 During the COVID pandemic Boro did not appear at the MZW Basement shows and quietly left the federation in early-to-mid 2021.
 
-### 2021-2024 Prime Time Wrestling
+### Prime Time Wrestling (2021-2024)
 
 #### Debut and PAKA formation
 
