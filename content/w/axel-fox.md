@@ -34,11 +34,11 @@ During that time, the WiW team was involved in a storyline with [Dream Factory W
 
 #### Training and debut 
 
-Smetime after his apperance in DFW, Amisz started regular pro wrestling training at [Maniac Zone Wrestling](@/o/mzw.md)'s academy in Głuchołazy. In his proper first match for MZW, he was against [Hexia](@/w/hexia.md) and [Mr B.](@/w/mr-b.md) in a squash match at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md). Amisz continued his training under [Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md) and [Asmund](@/w/asmund.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he debuted his new "Axel Fox" gimmick.
+Some time after his apperance in DFW, Amisz started regular pro wrestling training at the [Maniac Zone Wrestling](@/o/mzw.md) academy in Głuchołazy. In his proper first match for MZW, he was against [Hexia](@/w/hexia.md) and [Mr B.](@/w/mr-b.md) in a squash match at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md). Amisz continued his training under [Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md) and [Asmund](@/w/asmund.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he debuted his new "Axel Fox" gimmick.
 
 #### Becoming Axel Fox
 
-Amisz, now renamed and repacaged as "Axel Fox" quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław. Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/a/the-greens.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
+Amisz, now renamed and repackaged as "Axel Fox", quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław. Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/a/the-greens.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
 
 Fox made a couple of appearances on the German indy scene, in Next Step Wrestling and Unlimited Wrestling (who often cooperated with MZW back then).
 
@@ -49,7 +49,7 @@ Axel left MZW in early 2021, having not appeared at the tapings for [Project Bas
 
 #### Debut and storyline with Justin Joy
 
-In early to mid 2021, along with some other "Greens", he joined [Prime Time Wrestling](@/o/ptw.md), becoming one of the most prominent babyfaces and workhorses of the organization, appearing on almost every show produced by the companyy.
+In early to mid 2021, along with some other "Greens", he joined [Prime Time Wrestling](@/o/ptw.md), becoming one of the most prominent babyfaces and workhorses of the organization, appearing at almost every show produced by the companyy.
 His most notable storyline was the one involving [Justin Joy](@/w/justin-joy.md), his mentor and friend turned rival.
 This was one of the most important feuds in PTW's golden era (between [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) and [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)), which culminated in one of the top rated matches on the Polish scene at the latter show.
 After that match, he formed a tag team with now-babyface Justin, to participate at the PTW Tag Team Championship Tournament, as "FoxJoy". The team made it to [semi-finals](@/e/ptw/2023-02-26-ptw-underground-12.md) where they lost to Pure Gold ([Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md)).
@@ -71,7 +71,7 @@ During his tenure in PTW, Axel become one of the most active Polish pro wrestler
 
 During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made his PpW debut as the surprise tag team partner of [Goblin](@/w/goblin.md), who was booked for a match against Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)).
 Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
-They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/a/the-collusion.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation and viciously him with kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's Producer.
+They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/a/the-collusion.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation, and viciously attacked him with a kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's producer.
 
 Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
 
