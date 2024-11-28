@@ -61,7 +61,7 @@ In late 2023 Shadow made history by co-organising a joint show [MZW+PpW: Żadnyc
 
 ### Legacy of Wrestling (2024)
 
-In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), as was scheduled to face [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md).
+In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and was scheduled to face [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md).
 
 ## In wrestling
 * Finishers:
