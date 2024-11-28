@@ -225,6 +225,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=406689)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
 * [Official Facebook post announding the location](https://www.facebook.com/OficjalnePPW/posts/pfbid0BTS8Qhe1s49J1sK748TSsTLHGAjq2ErggutZWuAt4d9xEhGctnXdjkN3QstarjFUl)
 * [Video: official live stream of the event](https://www.youtube.com/watch?v=zlkssoMxSaE)

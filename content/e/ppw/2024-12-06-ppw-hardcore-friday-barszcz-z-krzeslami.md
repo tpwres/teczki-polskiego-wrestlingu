@@ -35,6 +35,7 @@ The name of the event is a play on "barszcz z uszkami", a traditional Polish sou
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=410896)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
 
 [wigilia]: https://en.wikipedia.org/wiki/Wigilia

@@ -27,4 +27,5 @@ True to the name, all the gate profits were donated to dog shelters in the Warsa
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383224)
 * [YouTube video of the full event](https://www.youtube.com/watch?v=anNMdjJa8xM)

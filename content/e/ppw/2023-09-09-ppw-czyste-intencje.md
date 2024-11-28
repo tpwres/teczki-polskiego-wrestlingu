@@ -27,3 +27,7 @@ source = "[Official PpW Facebook]"
     Interviewer: Szymon Kuciok
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=382968)
+* [Full event on YouTube](https://www.youtube.com/watch?v=jG6U4LfnJuk)

@@ -26,3 +26,6 @@ source = "[Official PpW Facebook]"
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=382939)
