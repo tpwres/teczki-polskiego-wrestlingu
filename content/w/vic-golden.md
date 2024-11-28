@@ -5,7 +5,7 @@ authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Ref"]
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Prince Victor"]
+career_aliases = ["Prince Victor", "Joey Riddic"]
 +++
 
 ## Basic info

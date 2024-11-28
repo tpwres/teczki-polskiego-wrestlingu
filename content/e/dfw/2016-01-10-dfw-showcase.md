@@ -11,7 +11,7 @@ city = "Toruń"
 
 {% card() %}
 - - '[PJ Blake](@/w/pj-blake.md)'
-  - 'Joey Riddic'
+  - '[Joey Riddic](@/w/vic-golden.md)'
 - - '[Charlie Grayson](@/w/madman-charlie.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
 - - '[Malmo Buruto](@/w/malmo-buruto.md), [Pain Killer](@/w/pain-killer.md)'
