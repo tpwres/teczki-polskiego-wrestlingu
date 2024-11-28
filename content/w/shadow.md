@@ -24,15 +24,15 @@ career_aliases = ["Straceniec", "Terry Shadow"]
  
 ## Professional wrestling career
 
-### 2011-2012 Polish Xtreme Wrestling
+### Polish Xtreme Wrestling (2011-2012)
 Shadow started out as a backyard wrestler for [Polish Xtreme Wrestling](@/o/pxw.md) in his hometown Głuchołazy where he performed as Terry Shadow, showcasing his high-risk, high-flying style. During his time in this backyard promotion he managed to win their ECW Championship at least once.
 
-### 2013 Do Or Die Wrestling
+### Do Or Die Wrestling (2013)
 
 2013 was the year when Terry Shadow left PXW to start professional training with [Do or Die Wrestling](@/o/ddw.md) in Rzeszów, joining their roster as Straceniec (_The Condemned_). However, he only had two fights: at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) and [DDW #9](@/e/ddw/2013-10-25-ddw-9.md).
 Dissatisfied with [Don Roid](@/w/don-roid.md)'s way of running the promotion, he left along with [Jędruś Bułecka](@/w/jedrus-bulecka.md) in order to start a new federation.
 
-### 2013-present Maniac Zone Wrestling 
+### Maniac Zone Wrestling (2013-present)
 
 #### Głuchołazy Era
 Shadow started Maniac Zone Wrestling along with Jędruś Bułecka in Głuchołazy. From the very start of the federation he was considered one of the most influencial figures in MZW and one of their top babyfaces, despite his mysterious and ambigous gimmick.
@@ -55,11 +55,13 @@ After the COVID pandemic, Shadow continued to run Maniac Zone Wrestling events a
 
 In addition to performing in Poland, Shadow has also wrestled for a number of international promotions, particularly for Germany-based Eastside Revolution Wrestling.
 
-### 2023-2024 PpW & Legacy of Wrestling
+### PpW Ewenement  (2023-2024)
 
 In late 2023 Shadow made history by co-organising a joint show [MZW+PpW: Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), thus finally acknowledging [PpW](@/o/ppw.md) as a professional federation on the Polish wrestling scene. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
 
-Shadow was also announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), as was scheduled to face [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md).
+### Legacy of Wrestling (2024)
+
+In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), as was scheduled to face [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md).
 
 ## In wrestling
 * Finishers:
