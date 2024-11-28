@@ -16,7 +16,7 @@ country = ["PL"]
 
 ## Professional wrestling career
 
-### 2018-2021 Training and Maniac Zone Wrestling
+### Training and Maniac Zone Wrestling (2018-2021)
 
 Aron Wake started his pro-wrestling training in [Polska Akademia Wrestlingu](@/o/paw.md) during their 2018 Summer Camp held in Wrocław.
 His main coaches were [Shadow](@/w/shadow.md), [Justin Joy](@/w/justin-joy.md) and [Asmund](@/w/asmund.md).
@@ -30,7 +30,7 @@ Along with the trophy, he earned the opportunity to compete in a tournament for 
 
 During that time he also made a one-time apperance at [PpW Supershow 2021](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) where he was defeated by [Rob Scaffold](@/w/rob-scaffold.md).
 
-### 2022-2024 Prime Time Wrestling and injury
+### Prime Time Wrestling and injury (2022-2024)
 
 After leaving MZW, Aron followed most of [The Greens](@/a/the-greens.md) faction, who decided to make a jump to [Prime Time Wrestling](@/o/ptw.md).
 He made his debut at [Underground #5](@/e/ptw/2022-05-29-ptw-underground-5.md), defeating [Vic Golden](@/w/vic-golden.md).
@@ -38,13 +38,16 @@ During his second match at [Underground #6](@/e/ptw/2022-06-26-ptw-underground-6
 Since that moment he made only one official apperance at [PTW x RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md), cutting a short promo.
 He continued to appear in the crowd during PTW shows, but ultimately [left the federation](@/a/ptw-exits.md) shortly after [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 
-### 2024 Comeback
+### Comeback (2024)
 
 During an [interview][wywiad-istota] with Istota Wrestlingu, Aron confirmed that his injury is almost impossible to rehabilitate as the surgery would be life-threatening.
 
 Despite his injury Wake slowly returned to part-time training at [Ewenement Dojo](@/o/ewenement-dojo.md) to prepare for his in-ring return.
 He surprised fans by making his first in-ring appearance after over two years at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), facing [Bill Feager](@/w/feager.md) in a chairs match.
+
 Later on he also wrestled for MZW at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after more than three years.
+
+It was also announced that he will participate in a match against his first rival in career - [Gabriel Queen](@/w/gabriel-queen.md) - at [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md).
 
 ## In wrestling
 
