@@ -123,6 +123,7 @@ Debuting for PTW at this show were:
 
 ### References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=409396)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)
-* [First Part of Fancam provided by Istota Wrestlingu](https://www.youtube.com/watch?v=Xm58QUEA4CU)
-* [Second Part of Fancam provided by Istota Wrestlingu](https://www.youtube.com/watch?v=h9j4rHRzmMg)
+* [Fancam by Istota Wrestlingu, part 1](https://www.youtube.com/watch?v=Xm58QUEA4CU)
+* [Fancam by Istota Wrestlingu, part 2](https://www.youtube.com/watch?v=h9j4rHRzmMg)

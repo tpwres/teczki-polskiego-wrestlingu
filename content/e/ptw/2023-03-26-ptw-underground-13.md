@@ -31,3 +31,6 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}
+
+### References
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=363652)
