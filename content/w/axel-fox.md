@@ -16,7 +16,7 @@ source = "Facebook @OficjalnePPW"
 
 * Nicknames:
   - Polski Lis (_Polish Fox_) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-  - Amisz (_Amish_) {{ org_badge(orgs='[dfw', 'mzw']) }}
+  - Amisz (_Amish_) {{ org_badge(orgs=['dfw', 'mzw']) }}
 
 ## Professional wrestling career
 
@@ -88,10 +88,16 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
 * Entrance music:
   - "Saturday Night's Alright for Fighting" by Elton John
     {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
+    {{ music(yt='AhnZEmnuzgM')}}
+    {{ music(spot='12yHvSYFXI7PGzNecUvIDu')}}
+    {{ music(apple='1440863013?i=1440863140&l=pl')}}
   - "Crazy Like a Fox" by Independent Contractor
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
   - "Punk Tactics" by Joey Valence & Brae
     {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
+    {{ music(yt='OklSZmIx9-o')}}
+    {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
+    {{ music(apple='1697553064?i=1697553067&l=pl')}}
 
 ## Championships and accomplishments
 
