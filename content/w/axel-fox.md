@@ -87,11 +87,11 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
 
 * Entrance music:
   - "Saturday Night's Alright for Fighting" by Elton John (2021-2023)
-    {{ org_badge(org='ptw') }}
+    {{ org_badge(org=['ptw']) }}
   - "Crazy Like a Fox" by Independent Contractor (2023-)
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
   - "Punk Tactics" by Joey Valence & Brae (2024-), in tag team with [Goblin](@/w/goblin.md)
-    {{ org_badge(org='ppw') }}
+    {{ org_badge(org=['ppw']) }}
 
 ## Championships and accomplishments
 
