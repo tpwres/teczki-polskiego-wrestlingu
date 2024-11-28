@@ -86,12 +86,12 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
   - GobLis (2024-)
 
 * Entrance music:
-  - "Saturday Night's Alright for Fighting" by Elton John (2021-2023) <br>
-    {{ org_badge(orgs=['ptw']) }}
-  - "Crazy Like a Fox" by Independent Contractor (2023-) <br>
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
-  - "Punk Tactics" by Joey Valence & Brae (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
-    {{ org_badge(orgs=['ppw']) }}
+  - "Saturday Night's Alright for Fighting" by Elton John
+    {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
+  - "Crazy Like a Fox" by Independent Contractor
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
+  - "Punk Tactics" by Joey Valence & Brae
+    {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
 
 ## Championships and accomplishments
 
