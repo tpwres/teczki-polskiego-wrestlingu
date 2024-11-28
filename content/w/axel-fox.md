@@ -15,52 +15,83 @@ source = "Facebook @OficjalnePPW"
 ## Basic info
 
 * Nicknames:
-  - Polski Lis (_Polish Fox_)
-  - Amisz (_Amish_)
+  - Polski Lis (_Polish Fox_) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+  - Amisz (_Amish_) {{ org_badge(org=['dfw', 'mzw']) }}
 
 ## Professional wrestling career
 
-### Before 2017: pro wrestling content creator
+### Pro wrestling content creator (pre-2017)
 
 Appearing simply as "Amisz" (his forum nickname) or under his real name Kuba (a diminutive of _Jacob_), he began his wrestling-related activies as a journalist, writing articles and discussing the indy wrestling scene abroad.
 He also ran his own YouTube channel called "KGWrestlingPodcast", where he also covered similar topics (most notably Pro Wrestling Guerilla).
 
-### 2017: DFW debut and training
+### Dream Factory Wrestling (2017)
 
 In early 2017 he was involved in the "What Is Wrestling" YouTube channel, along with Mikita "Seth Donner" Varanovich, and later PTW commentator Piotr "ShowOff" Małecki.
 During that time, the WiW team was involved in a storyline with [Dream Factory Wrestling](@/o/dfw.md), which concluded in Amisz's first pro wrestling match at [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) where he faced [PJ Blake](@/w/pj-blake.md).
-At sometime during that period, Amisz started regular pro wrestling training at [Maniac Zone Wrestling](@/o/mzw.md)'s academy in Głuchołazy. In his proper first match for MZW, he was against [Hexia](@/w/hexia.md) and [Mr B.](@/w/mr-b.md) in a squash match at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md).
 
 ### 2018-2020: MZW and Germany
 
-Amisz continued his training under [Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md) and [Asmund](@/w/asmund.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he debuted his new "Axel Fox" gimmick.
-He quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław.
+#### Training and debut 
+
+Smetime after his apperance in DFW, Amisz started regular pro wrestling training at [Maniac Zone Wrestling](@/o/mzw.md)'s academy in Głuchołazy. In his proper first match for MZW, he was against [Hexia](@/w/hexia.md) and [Mr B.](@/w/mr-b.md) in a squash match at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md). Amisz continued his training under [Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md) and [Asmund](@/w/asmund.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he debuted his new "Axel Fox" gimmick.
+
+#### Becoming Axel Fox
+
+Amisz, now renamed and repacaged as "Axel Fox" quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław. Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/a/the-greens.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
+
 Fox made a couple of appearances on the German indy scene, in Next Step Wrestling and Unlimited Wrestling (who often cooperated with MZW back then).
-His final appearance for MZW was at [Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
-Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/a/the-greens.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
 
-### 2021-2024: PTW and European Expansion
+His final appearance for MZW was at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
+Axel left MZW in early 2021, having not appeared at the tapings for [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md).
 
-Fox left MZW in early 2021, having not appeared at the tapings for [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md).
-Later that year, along with some other "Greens", he joined [Prime Time Wrestling](@/o/ptw.md), becoming one of the most prominent babyfaces and workhorses of the organization, appearing on almost every show produced by the companyy.
+### PTW and European Expansion (2021-2024)
+
+#### Debut and storyline with Justin Joy
+
+In early to mid 2021, along with some other "Greens", he joined [Prime Time Wrestling](@/o/ptw.md), becoming one of the most prominent babyfaces and workhorses of the organization, appearing on almost every show produced by the companyy.
 His most notable storyline was the one involving [Justin Joy](@/w/justin-joy.md), his mentor and friend turned rival.
 This was one of the most important feuds in PTW's golden era (between [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) and [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)), which culminated in one of the top rated matches on the Polish scene at the latter show.
 After that match, he formed a tag team with now-babyface Justin, to participate at the PTW Tag Team Championship Tournament, as "FoxJoy". The team made it to [semi-finals](@/e/ptw/2023-02-26-ptw-underground-12.md) where they lost to Pure Gold ([Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md)).
 The team was dissolved soon after the tournament, as Joy has left PTW later that year.
 
-In early 2024, Axel Fox was involved as one of the contenders at the [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Royal Rumble match, where he was one of the final two competitors with [Puncher](@/w/puncher.md), the final winner.
+At that time also became a part-time coach, training others at the PTW Performance Center.
+
+#### Championships pursuits
+
+In early 2024, Axel Fox was involved as one of the contenders at the [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Royal Rumble match, where he was one of the final two competitors with [Puncher](@/w/puncher.md), the final winner. Later on he was trying to win [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) from Budapest Bastards while teaming with [Marcelito](@/w/marcelito.md). It was unsucessful, same as his title fight against Marcelito and Scotty Rawk for British Wrestling Revolution Championship. After the end of the fight Axel teased a possible heelturn or at least rivarly with Marcelito, but due to his departure from PTW it led to nothing.
+
+Axel was one of the few wrestlers who kept his [PTW exit](@/a/ptw-exits.md) to himself. His departure was however confirmed by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on one of his livestreams.
 
 During his tenure in PTW, Axel become one of the most active Polish pro wrestlers on the European indy scene, making regular appearances in Germany for wXw Academy, wXw itself and That's Awesome Wrestling; in Austria for Rings of Europe and the PTW-associated WWA; and in Hungary for HCW and Passion Pro Wrestling.
 
-He also became a part-time coach, training others at the PTW Performance Center.
+### PpW Ewenement (2024-present)
 
-### 2024: PpW
+#### GobLis and facing Zmowa
 
 During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made his PpW debut as the surprise tag team partner of [Goblin](@/w/goblin.md), who was booked for a match against Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)).
 Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
-They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md).
+They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/a/the-collusion.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation and viciously him with kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's Producer.
 
-Shortly after the show, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
+Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
+
+## In wrestling
+
+* Finishers:
+  - _Firefox DDT_ (2021-)
+  - _Lisia Bombka_ (Diving Elbow Drop) (2023-)
+ 
+* Tag teams and stables:
+  - FoxJoy (2023)
+  - GobLis (2024-)
+
+* Entrance music:
+  - "Saturday Night's Alright for Fighting" by Elton John (2021-2023)
+    {{ org_badge(org='ptw') }}
+  - "Crazy Like a Fox" by Independent Contractor (2023-)
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
+  - "Punk Tactics" by Joey Valence & Brae (2024-), in tag team with [Goblin](@/w/goblin.md)
+    {{ org_badge(org='ppw') }}
 
 ## Championships and accomplishments
 
