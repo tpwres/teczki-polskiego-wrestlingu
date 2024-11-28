@@ -23,7 +23,7 @@ city = "Gdańsk"
   - '[Victor Rosetti](@/w/rosetti.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
-  - '[_rookie_ Prince Victor](@/w/vic-golden.md)'
+  - '[Prince Victor](@/w/vic-golden.md)'
   - ???
   - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
   - s: Battle Royal
