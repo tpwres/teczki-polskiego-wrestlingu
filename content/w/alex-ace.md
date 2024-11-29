@@ -7,4 +7,5 @@ country = ["DE"]
 career_aliases = ["Alexander Reich"]
 +++
 
-* [Cagematch page](https://www.cagematch.net/?id=2&nr=19035)
+## References
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19035)
