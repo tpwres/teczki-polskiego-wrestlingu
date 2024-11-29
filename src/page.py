@@ -4,7 +4,7 @@ from pathlib import Path
 from card import Card
 import tomllib
 from sys import exit, stderr
-from typing import Tuple
+from typing import Tuple, Iterable, Optional
 from io import TextIOBase
 
 
@@ -45,6 +45,9 @@ class Page:
     @property
     def title(self): return self.front_matter['title']
 
+    def __repr__(self):
+        return f"<{self.__class__.__name__}({self.path})>"
+
 class EventPage(Page):
     event_date: date
     orgs: list[str]
@@ -63,6 +66,9 @@ class EventPage(Page):
 
         self.card = Card(self.body, path, self.front_offset)
 
+    def __repr__(self):
+        return f"<EventPage({self.path}) date={self.event_date} orgs={self.orgs}>"
+
 
 class OrgPage(Page):
     pass
@@ -71,7 +77,9 @@ class VenuePage(Page):
     pass
 
 class TalentPage(Page):
-    pass
+    def __repr__(self):
+        title = self.front_matter.get('title', None)
+        return f"<TalentPage({self.path}) name={title!r}>"
 
 class Article(Page):
     pass
@@ -89,6 +97,15 @@ def page(path: Path, verbose: bool = False) -> Page:
         return VenuePage(path, verbose)
     else:
         return Article(path, verbose)
+
+def all_talent_pages(root: Optional[Path]=None) -> Iterable[TalentPage]:
+    """Walk the files and produce all talent pages"""
+    if root is None:
+        root = Path.cwd()
+
+    yield from (TalentPage(page_path)
+                for page_path in (root / 'content/w/').glob('*.md')
+                if page_path.stem != '_index.md')
 
 if __name__ == "__main__":
     import sys, code
