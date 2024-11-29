@@ -2,15 +2,17 @@
 title = "KPW OldTown 3"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]
 [extra]
 city = "Stargard"
-[extra.gallery]
-1 = { path = "2018-07-14-kpw-oldtown-3-plakat.jpg", caption = "Official poster, showing Greg with the [OldTown Championship](@/c/kpw-old-town-championship.md)", source = "kpwrestling.pl / Official KPW Facebook" }
+[extra.gallery.1]
+path = "2018-07-14-kpw-oldtown-3-plakat.jpg"
+caption = "Official poster, showing [Greg](@/w/greg.md) with the [OldTown Championship](@/c/kpw-old-town-championship.md)"
+source = "kpwrestling.pl / Official KPW Facebook"
 +++
 
-[OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the event and community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023.
+[OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 The event's name is derived from the town of Stargard, which literally translates as Old Town.
 
 In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wrestling exhibition during the event's second day. KPW would return to following editions of OldTown until 2019.
@@ -18,7 +20,7 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
 #### Build-up
 
 * [Robert Star](@/w/robert-star.md) is forced to join Kawaleria after previously losing to [Piękny Kawaler](@/w/piekny-kawaler.md)
-* British wrestlers [Dom Taylor](@/w/dom-taylor.md) and Lee Rogers debut for KPW. Taylor would later appear several more times for the organization.
+* British wrestlers [Dom Taylor](@/w/dom-taylor.md) and Lee Rogers debut for KPW. Taylor would later appear several more times for the organization in singles competition as well.
 
 {% card() %}
 - - "Kawaleria: [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md),
@@ -26,13 +28,18 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
   - "Sojusz: [Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md),
     [Kamil Aleksander](@/w/kamil-aleksander.md)"
   - s: "Six Man Tag Team Match"
-- ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Adam Bravo](@/w/adam-bravo.md)']
-- ['[Greg](@/w/greg.md)(c)', Lee Rogers, {c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'}]
+- - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
+  - '[Adam Bravo](@/w/adam-bravo.md)'
+- - '[Greg](@/w/greg.md)(c)'
+  - Lee Rogers
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Bianca](@/w/bianca.md)'
   - '[Alisa](@/w/alisa.md)'
   - '[Mira](@/w/mira.md)'
   - s: Three Way Match
-- ['[Ron Corvus](@/w/ron-corvus.md)(c)', '[Dom Taylor](@/w/dom-taylor.md)', {c: '[KPW Championship](@/c/kpw-championship.md)'}]
+- - '[Ron Corvus](@/w/ron-corvus.md)(c)'
+  - '[Dom Taylor](@/w/dom-taylor.md)'
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}

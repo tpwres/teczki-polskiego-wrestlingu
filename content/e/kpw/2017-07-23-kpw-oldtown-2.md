@@ -3,27 +3,36 @@ title = "KPW OldTown 2: Turniej"
 template = "event_page.html"
 [taxonomies]
 venue = ["airport-kluczewo"]
-chronology = ["kpw"]
+chronology = ["kpw", "oldtown"]
 [extra]
 city = "Stargard"
 [extra.gallery]
 1 = { path = "2017-07-23-kpw-oldtown-2-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-[OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the event and community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023.
+[OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 The event's name is derived from the town of Stargard, which literally translates as Old Town.
 
-KPW held a wrestling exhibition during the event's last day. Wrestling fits the post-apocalyptic theme of OldTown. The second OldTown is also where KPW's midcard belt, appriopriately named "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)", was created and the inaugural championship crowned. The OldTown Championship belt had a unique look, matching the event's post-apocalyptic theme. The original strap was retired at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) and replaced with a more traditionally designed version.
+KPW held a wrestling exhibition during the event's last day. Wrestling fits the post-apocalyptic theme of OldTown. The second OldTown is also where KPW's midcard belt, appropriately named "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)", was created and the inaugural championship crowned. The OldTown Championship belt had a unique look, matching the event's post-apocalyptic theme. The original strap was retired at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) and replaced with a more traditionally designed version.
 
 KPW would return to following editions of OldTown until 2019.
 
 {% card() %}
-- ["[Greg](@/w/greg.md), [Peter Pannache](@/w/peter-pannache.md)", '[Adam Bravo](@/w/adam-bravo.md)',
-  '[David Oliwa](@/w/david-oliwa.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
-  '[Robert Star](@/w/robert-star.md)']
-- ['[Ron Corvus](@/w/ron-corvus.md)', '[Kaszub](@/w/kaszub.md)', {s: Hardcore Match}]
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Adam Bravo](@/w/adam-bravo.md)']
-- ['[Greg](@/w/greg.md)', '[Peter Pannache](@/w/peter-pannache.md)', {c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"}]
+- - "[Greg](@/w/greg.md), [Peter Pannache](@/w/peter-pannache.md)"
+  - >
+    [Adam Bravo](@/w/adam-bravo.md),
+    [David Oliwa](@/w/david-oliwa.md),
+    [Kamil Aleksander](@/w/kamil-aleksander.md),
+    [Robert Star](@/w/robert-star.md)
+  - s: Elimination Battle Royal
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Kaszub](@/w/kaszub.md)'
+  - s: Hardcore Match
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - '[Adam Bravo](@/w/adam-bravo.md)'
+- - '[Greg](@/w/greg.md)'
+  - '[Peter Pannache](@/w/peter-pannache.md)'
+  - c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
