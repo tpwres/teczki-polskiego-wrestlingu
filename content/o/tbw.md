@@ -4,6 +4,7 @@ template = "org_page.html"
 weight = 2
 [extra]
 toclevel = 3
+compact_event_list = true
 [taxonomies]
 chrono_root = ["tbw"]
 [extra.gallery]
