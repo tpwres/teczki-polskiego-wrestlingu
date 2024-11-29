@@ -33,4 +33,10 @@ In order to properly link to a wrestler's theme songs, use the following templat
 * For YouTube: https://www.youtube.com/watch?v= **YJQz73IPCyI**
 * For Spotify: https://open.spotify.com/track/ **6LGDsu52kzsb7p802GsmtH** ?si=b8144a5aec5c4675
 * For Apple Music: https://music.apple.com/us/album/new-witch-666-the-rising/ **1476554740?i=1476555600**
-* If the song cannot be found on the major platforms, but there is a version online that can be linked to, use the form `{{ music(link='https://link.to/song') }}`.
+* If the song cannot be found on the major platforms, but there is a version online that can be linked to, use the form `{% music(link='https://link.to/song') %}text{% end %}`.
+  For example, Zefir and Leon's tune on Bandcamp:
+  ```
+  {% music(link="https://scandroid.bandcamp.com/album/dreams-of-neo-tokyo") %}
+    Bandcamp
+  {% end %}
+  ```
