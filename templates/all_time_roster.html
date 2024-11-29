@@ -5,11 +5,12 @@
 {% set name_to_flag = load_data(path="const/name-to-flag.yaml") -%}
 {% set flag_dict = load_data(path="const/flags-by-code.json") -%}
 {% set all_emojis = load_data(path="const/emojis.yaml") %}
+{% set empty_obj = []|group_by(attribute=0) %}
 
 {% set path = "data/roster_" ~ page.slug ~ ".json" -%}
 {% set roster = load_data(path=path, required=false) -%}
 {% if not roster -%}
-{% set roster = [] | group_by(attribute="none") -%}
+  {% set roster = empty_obj -%}
 {% endif -%}
 
 {% set_global rx = [] -%}
