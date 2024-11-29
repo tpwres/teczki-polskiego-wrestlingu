@@ -29,6 +29,9 @@ For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, wh
   - '[Spartan](@/w/spartan.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
+- - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - nc: upcoming
 {% end %}
 
 ### References
