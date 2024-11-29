@@ -7,45 +7,12 @@
 {{ section.content | safe }}
 
 {% set org_styles = config.extra.org_styles %}
-{% set all_talent_pages = section.pages %}
-{% set atp_index = all_talent_pages | group_by(attribute='title') %}
-{% set atp_index_cname = all_talent_pages | group_by(attribute='extra.career_name') %}
-{% set name_to_flag = load_data(path="const/name-to-flag.yaml") %}
 {% set career_dict = load_data(path="data/career.json") %}
 {% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances.json") %}
 {% set crew_appearances = load_data(path="data/crew_appearances.json") %}
-{% set_global all_names = [] %}
+{% set all_names = load_data(path="data/all_time_roster.json") %}
 
-{# The careers dict contains all names, with and without articles #}
-{% for name, _ in career_dict %}
-  {% set talent_page = atp_index | get(key=name, default=[])|first %}
-  {% if not talent_page %}
-    {% set talent_page = atp_index_cname | get(key=name, default=[]) | first%}
-  {% endif %}
-  {% if talent_page %}
-    {# This name has an actual talent page, record this as a P(age) record #}
-    {% set pair = [name|trim_start_matches(pat='The ')|slugify, name, 'P', talent_page] %}
-    {% set_global all_names = all_names | concat(with=[pair]) %}
-    {# Title may be different from career dict entry #}
-    {% if talent_page.title != name %}
-      {% set pair = [talent_page.title|trim_start_matches(pat='The ')|slugify, talent_page.title, 'T', talent_page, name] %}
-      {% set_global all_names = all_names | concat(with=[pair]) %}
-    {% endif %}
-    {% set xtra = talent_page.extra %}
-    {# And it may have some aliases. Record this as an A(lias) record, pointing to the main name #}
-    {% for alias in xtra|get(key='career_aliases', default=[]) %}
-      {% set alias_pair = [alias|trim_start_matches(pat='The ')|slugify, alias, 'A', talent_page] %}
-      {% set_global all_names = all_names | concat(with=[alias_pair]) %}
-    {% endfor %}
-  {% else %}
-    {# Otherwise, no talent page, record this as an U record #}
-    {% set pair = [name|trim_start_matches(pat='The ')|slugify, name, 'U', false] %}
-    {% set_global all_names = all_names | concat(with=[pair]) %}
-  {% endif %}
-{% endfor %}
-
-{% set all_names = all_names | sort(attribute='0') %}
 {% set alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
 {% set alpha_variants = load_data(literal="{S: [S, Ś], L: [L, Ł], Z: [Z, Ź, Ż]}", format='yaml') %}
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
@@ -70,7 +37,8 @@
       {% for talent in talents %}
         {% set name = talent[1] %}
         {% set flavor = talent[2] %}
-        {% set page = talent[3] %}
+        {% set page_path = talent[3] %}
+        {% set flag = talent[5] %}{# country is at [4] but we don't use it here #}
         {% set_global career_entry = false %}
         {% if flavor == 'P' %}
           {% set_global person_name = name %}
@@ -78,6 +46,7 @@
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
           {% set_global display_match_links = false %}
+          {% set page_path = "@/" ~ page_path %}{# Overwrite so that pwf can produce correct link #}
           <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
@@ -94,6 +63,7 @@
             {% include "person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'A' %}
+          {% set page = get_page(path=page_path) %}
           {% set career_key = page.extra|get(key='career_name', default=page.title) %}
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
@@ -101,6 +71,7 @@
           {% set_global career_entry = career_dict|get(key=career_key, default=empty_obj) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
           {% set_global display_match_links = false %}
+          {% set page_path = "@/" ~ page_path %}{# Overwrite so that pwf can produce correct link #}
         <li class="pwf">
             {% include "person_with_flag.html" %}
             {% include "person_orgs_matches.html" %}
