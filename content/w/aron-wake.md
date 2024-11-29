@@ -52,7 +52,13 @@ It was also announced that he will participate in a match against his first riva
 ## In wrestling
 
 * Finishers:
-  - Running Knee Strike
+  - Running Knee Strike (2019-)
+  - Modified Crossface / scissored armbar combination (2021)
+ 
+* Entrance music:
+  - "Battle! Cynthia (Intense Symphonic Metal Cover)" by FalKKonE
+    {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} <br>
+    {{ music(yt='ZEVbju7lxx0')}}
 
 ## Championships and accomplishments
 
@@ -62,6 +68,7 @@ It was also announced that he will participate in a match against his first riva
 
 ## Internet presence
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24640)
 * [aron_wake](https://www.instagram.com/aron_wake/) on Instagram
 
 ## References
