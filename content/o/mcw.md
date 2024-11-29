@@ -5,6 +5,7 @@ template = "org_page.html"
 authors = ["M3n747"]
 [extra]
 toclevel = 3
+compact_event_list = true
 [taxonomies]
 chrono_root = ["mcw"]
 +++
