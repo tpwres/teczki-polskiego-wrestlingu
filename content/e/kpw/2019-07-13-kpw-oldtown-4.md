@@ -10,7 +10,7 @@ city = "Stargard"
 1 = { path = "2019-07-13-kpw-oldtown-4-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md) with the [KPW Championship](@/c/kpw-championship.md) belt, likely at last year's [OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-[OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
+[OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 
 In 2019, the event was held between July 8 and 13. Additionally, on the following weekend, July 20-21, non-participants could enter the airport grounds, for an open event with many attractions (including wrestling). KPW held two shows: one on the final day of the LARP part, and one during this open weekend. This page covers both days.
 
