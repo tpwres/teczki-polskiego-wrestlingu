@@ -78,8 +78,9 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
 ## In wrestling
 
 * Finishers:
-  - _Firefox DDT_ (2021-)
-  - _Lisia Bombka_ (Diving Elbow Drop) (2023-)
+  - _Code Red_ (Sunset Flip Powerbomb) - (2021-2022); used as signature move thereafter
+  - _Firefox DDT_ (Standing Shiranui) (2021-)
+  - _Lisia Bombka_ (Diving Elbow Drop) (2023-); adopted from [Justin Joy](@/w/justin-joy.md)
  
 * Tag teams and stables:
   - FoxJoy (2023)
