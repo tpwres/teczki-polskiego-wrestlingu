@@ -1,8 +1,13 @@
+{% if flag is defined and page_path is defined %}
+  <span class="flag">{{ flag }} </span>
+  <a class="nu name" href="{{ get_url(path=page_path) }}">{{ person_name | safe }}</a>
+{% elif page is defined %}
 <span class="flag">
   {%- set flag = page.taxonomies | get(key='country', default=[]) | first -%}
   {%- set flag_symbol = flag_dict|get(key=flag|upper, default=False) -%}
   {%- set emoji = all_emojis|get(key=flag, default=False) -%}
   {% if flag_symbol %}{{ flag_symbol }}{% elif emoji %}{{ emoji }}{% endif %}
 </span>
-
 <a class="nu name" href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
+{% endif %}
+

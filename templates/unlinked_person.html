@@ -1,7 +1,12 @@
-<span class="flag">
-{% set flag = name_to_flag|get(key=person_name, default='') -%}
-{% if flag -%}
-  {{ flag_dict|get(key=flag|upper, default='') -}}
-{% endif -%}
-</span>
-<span class="name">{{ person_name }}</span>
+{% if flag is defined %}
+  <span class="flag">{{ flag }} </span>
+  <span class="name">{{ person_name }}</span>
+{% else %}
+  <span class="flag">
+  {% set flag = name_to_flag|get(key=person_name, default='') -%}
+  {% if flag -%}
+    {{ flag_dict|get(key=flag|upper, default='') -}}
+  {% endif -%}
+  </span>
+  <span class="name">{{ person_name }}</span>
+{% endif %}
