@@ -36,7 +36,7 @@ In order to properly link to a wrestler's theme songs, use the following templat
 * If the song cannot be found on the major platforms, but there is a version online that can be linked to, use the form `{% music(link='https://link.to/song') %}text{% end %}`.
   For example, Zefir and Leon's tune on Bandcamp:
   ```
-  {% music(link="https://scandroid.bandcamp.com/album/dreams-of-neo-tokyo") %}
+  {% music(link="https://scandroid.bandcamp.com/track/neo-tokyo-dance-with-the-dead-remix") %}
     Bandcamp
   {% end %}
   ```
