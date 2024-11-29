@@ -2,7 +2,7 @@
 title = "KPW OldTown"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]
 [extra]
 city = "Stargard"
@@ -14,11 +14,15 @@ The event's name is derived from the town of Stargard, which literally translate
 KPW held a wrestling exhibition during the event on the penultimate day. Wrestling fits the post-apocalyptic theme of OldTown, however no special storylines were devised for the show. KPW would return to following editions of OldTown until 2019.
 
 {% card() %}
-- ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
-- ['[Damian Lambert](@/w/damien-rothschild.md)', '[Kaszub](@/w/kaszub.md)', {s: "Hardcore
-      Match"}]
-- ['[Peter Pannache](@/w/peter-pannache.md)', '[David Oliwa](@/w/david-oliwa.md)']
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Greg](@/w/greg.md)'
+- - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Kaszub](@/w/kaszub.md)'
+  - s: Hardcore Match
+- - '[Peter Pannache](@/w/peter-pannache.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)'
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
 - - "[Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md)"
   - >
     [Robert Star](@/w/robert-star.md),

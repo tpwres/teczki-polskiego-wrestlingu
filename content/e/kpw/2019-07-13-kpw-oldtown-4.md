@@ -2,7 +2,7 @@
 title = "KPW OldTown 4"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
+chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]
 [extra]
 city = "Stargard"
@@ -10,7 +10,7 @@ city = "Stargard"
 1 = { path = "2019-07-13-kpw-oldtown-4-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md) with the [KPW Championship](@/c/kpw-championship.md) belt, likely at last year's [OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-[OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the event and community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023.
+[OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held annually since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 
 In 2019, the event was held between July 8 and 13. Additionally, on the following weekend, July 20-21, non-participants could enter the airport grounds, for an open event with many attractions (including wrestling). KPW held two shows: one on the final day of the LARP part, and one during this open weekend. This page covers both days.
 
@@ -18,16 +18,28 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
 
 {% card() %}
 - d: Day 1
-- ['[Moloch](@/w/moloch.md)', Crowchester]
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Lucas Robinson]
-- ['[Dom Taylor](@/w/dom-taylor.md)', '[Chemik](@/w/chemik.md)', Matthias Bernstein,
-  {s: Three Way Match}]
-- ['[Fynn Freyhart](@/w/fynn-freyhart.md)', '[Rosetti](@/w/rosetti.md)']
-- ["[David Oliwa](@/w/david-oliwa.md)(c)", '[Greg](@/w/greg.md)', {c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'}]
+- - '[Moloch](@/w/moloch.md)'
+  - Crowchester
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - Lucas Robinson
+- - '[Dom Taylor](@/w/dom-taylor.md)'
+  - '[Chemik](@/w/chemik.md)'
+  - Matthias Bernstein,
+  - s: Three Way Match
+- - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
+  - '[Rosetti](@/w/rosetti.md)'
+- - "[David Oliwa](@/w/david-oliwa.md)(c)"
+  - '[Greg](@/w/greg.md)'
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - d: Day 2
-- ['[Greg](@/w/greg.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
-- ['[Moloch](@/w/moloch.md)', {s: Four on One Handicap Match}]
-- ['[Robert Star](@/w/robert-star.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)']
+  date: 2019-07-20
+- - '[Greg](@/w/greg.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md)'
+- - '[Moloch](@/w/moloch.md)'
+  - 'Kordon: ???, ???, ???, ???'
+  - s: Four on One Handicap Match
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
 - credits:
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
