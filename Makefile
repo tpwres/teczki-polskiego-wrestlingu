@@ -1,4 +1,5 @@
 ROSTERS=data/roster_ptw.json \
+				data/roster_ddw.json \
         data/roster_kpw.json \
         data/roster_mzw.json \
         data/roster_ppw.json \
@@ -15,26 +16,31 @@ CAL=static/calendar.ics \
 		static/calendar-low.ics
 MINISEARCH_INDEX=static/minisearch_index.json
 
-all: rosters meta calendar index plot
+all: rosters meta aliases atr calendar index plot
 rosters: $(ROSTERS)
+aliases: data/aliases.json
+atr: data/all_time_roster.json
 meta: $(METADATA)
 calendar: $(CAL)
 plot: $(PLOTS)
 index: $(MINISEARCH_INDEX)
 
 clean:
-	rm -rf $(ROSTERS) $(METADATA) $(PLOTS) $(CAL) $(MINISEARCH_INDEX)
+	rm -rf $(ROSTERS) $(METADATA) $(PLOTS) $(CAL) $(MINISEARCH_INDEX) data/all_time_roster.json data/aliases.json
 
-data/all_matches.json data/appearances.json data/crew_appearances.json: content/e/**/*.md
+data/all_matches.json data/appearances.json data/crew_appearances.json &: content/e/**/*.md
 	bin/build-matches
 
 data/career.json: content/e/**/*.md
 	bin/build-metadata
 
-data/roster_ptw.json data/roster_kpw.json data/roster_ppw.json data/roster_dfw.json: content/e/**/*.md
-	bin/build-roster
+data/aliases.json: content/w/*.md
+	bin/build-aliases
 
-data/roster_mzw.json data/roster_wws.json data/roster_wwe.json: content/e/**/*.md
+data/all_time_roster.json: data/aliases.json data/career.json const/name-to-flag.yaml const/flags-by-code.json const/emojis.yaml
+	bin/build-atr
+
+$(ROSTERS) &: content/e/**/*.md
 	bin/build-roster
 
 clean-plot:
