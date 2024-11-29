@@ -1,150 +1,148 @@
-const debounce = (func, wait) => {
-    let timeout;
+import { Application, Controller } from "/stimulus.js";
 
-    return function() {
-        let context = this;
-        let args = arguments;
-        clearTimeout(timeout);
 
-        timeout = setTimeout(function() {
-            timeout = null;
-            func.apply(context, args);
-        }, wait);
-    };
-}
-
-const depolonize = (text, _fieldName) => {
-    const chars = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n', 'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
-                   'Ą': 'A', 'Ć': 'C', 'Ę': 'E', 'Ł': 'L', 'Ń': 'N', 'Ó': 'O', 'Ś': 'S', 'Ź': 'Z', 'Ż': 'Z'};
-    return text.replace(/\p{L}/gu, m => chars[m] || m).toLowerCase();
-}
-
-const initSearch = () => {
-    const searchInput = document.getElementById("search_input");
-    const resultsPane = document.querySelector(".search-results");
-    const resultsItems = document.querySelector(".search-results-items");
-
-    searchInput.value = '';
-    const options = {
+class SearchController extends Controller {
+    static targets = ["query", "searchbox", "results", "items", "itemTemplate"]
+    static options = {
         boost: { 'title': 1.6 },
         combineWith: 'AND',
         prefix: true
-    };
-    const MAX_ITEMS = 16;
-    let currentTerm;
-    let index;
+    }
 
+    currentTerm
+    index
+    focused
 
-    const initIndex = async () => {
-        if (index === undefined) {
-            index = fetch("/minisearch_index.json").then(async (response) => {
-                let minisearch = MiniSearch.loadJSON(await response.text(), {
-                    fields: ['title', 'text'],
-                    storeFields: ['title', 'category', 'path'],
-                    processTerm: depolonize
-                });
-                return minisearch;
-            });
+    connect() {
+        this.show_search()
+    }
+
+    show_search() {
+        this.searchboxTarget.style.display = ''
+    }
+
+    close() {
+        this.hide_results()
+        this.currentTerm = undefined
+        this.focused = undefined
+    }
+
+    select_first() {
+        const first_result = this.itemsTarget.querySelector('li:first-child')
+        if (first_result) {
+            first_result.focus()
+            this.focused = first_result
         }
-        let res = await index;
-        return res;
-    };
+    }
 
-    const formatSearchResultItem = (item, terms) => {
-        let path = item.path.replace('_', '-');
-        let result_type = undefined;
-        if (path.startsWith('/e/') && path.length > 3)
-            result_type = 'Event';
-        else if (path.startsWith('/w/') && path.length > 3)
-            result_type = 'Talent';
-        else if (path.startsWith('/o/') && path.length > 3)
-            result_type = 'Organization';
-        else if (path.startsWith('/a/') && path.length > 3)
-            result_type = 'Article';
-        else if (path.startsWith('/v/') && path.length > 3)
-            result_type = 'Venue';
-        else if (path.startsWith('/c/') && path.length > 3)
-            result_type = 'Championship';
+    next() {
+        if (!this.focused) return
+        const el = this.focused.nextElementSibling
+        if (el) {
+            el.focus()
+            this.focused = el
+        }
+    }
+
+    prev() {
+        if (!this.focused) return
+        const el = this.focused.previousElementSibling
+        if (el) {
+            el.focus()
+            this.focused = el
+        }
+    }
+
+    open() {
+        if (!this.focused) return
+        this.focused.querySelector('a').click()
+    }
+
+
+    depolonize(text, _fieldName) {
+        const chars = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n',
+                       'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
+                       'Ą': 'A', 'Ć': 'C', 'Ę': 'E', 'Ł': 'L', 'Ń': 'N',
+                       'Ó': 'O', 'Ś': 'S', 'Ź': 'Z', 'Ż': 'Z'};
+        return text.replace(/\p{L}/gu, m => chars[m] || m).toLowerCase();
+    }
+
+    async search() {
+        // Load index on first use
+        if (this.index === undefined)
+            await this.load_index()
+
+        let term = this.queryTarget.value.trim()
+        if (term === this.currentTerm) return
+
+        let search_results = this.index.search(term, this.options)
+
+        if (search_results.length == 0)
+            this.hide_results()
         else
-            result_type = 'Page';
+            this.show_results(search_results, term)
+        this.currentTerm = term
+    }
 
-        return ` <a class="search-result" href="${path}"><strong>${result_type}:</strong> ${item.title}</a>`;
+    async load_index() {
+        let response = await fetch("/minisearch_index.json")
 
-    };
+        this.index = MiniSearch.loadJSON(await response.text(), {
+            fields: ['title', 'text'],
+            storeFields: ['title', 'category', 'path'],
+            processTerm: this.depolonize
+        })
+    }
 
-    const handleListResultKey = (event) => {
-        const focused = resultsItems.querySelector('li:focus');
-        if (!focused) return false;
-        switch (event.key) {
-            case 'ArrowDown':
-                const next = focused.nextElementSibling;
-                if (next) next.focus();
-                break;
-            case 'ArrowUp':
-                const prev = focused.previousElementSibling;
-                if (prev) {
-                    prev.focus();
-                } else {
-                    // Back to search input
-                    searchInput.focus();
-                }
-                break;
-            case 'Enter':
-                focused.querySelector('a').click();
+    hide_results() {
+        this.resultsTarget.style.display = 'none'
+    }
+
+    show_results(results, term) {
+        this.itemsTarget.replaceChildren()
+        for (let i = 0; i < Math.min(results.length, 16); i++) {
+            let item = document.createElement('li')
+            item.className = 'results-item'
+            item.tabIndex = -1
+            item.appendChild(this.format_result(results[i]))
+            this.itemsTarget.appendChild(item)
         }
-        return false;
-    };
+        this.resultsTarget.style.display = 'block'
+        this.adjust_position()
+    }
 
-    // NOTE: must be keydown not keyup, otherwise page scrolls
-    resultsItems.onkeydown = handleListResultKey;
-
-    const handleDownArrow = (event) => {
-        const firstResult = resultsItems.querySelector('li:first-child');
-        if (firstResult) {
-            firstResult.focus();
-        }
-        event.stopPropagation();
-        return false;
-    };
-
-    searchInput.addEventListener("keyup", debounce(async (event) => {
-        let term = searchInput.value.trim();
-
-        if (event.key == 'ArrowDown' && resultsPane.style.display != 'none')
-            return handleDownArrow(event);
-
-        if (term === currentTerm) return;
-
-        resultsPane.style.display = (term === "" ? 'none' : 'block');
-        let wide = matchMedia('only screen and (min-width: 540px)').matches;
+    adjust_position() {
+        const wide = matchMedia('only screen and (min-width: 540px)').matches;
         if (wide)
-            resultsPane.style.left = `${searchInput.getBoundingClientRect().left}px`;
+            this.resultsTarget.style.left = `${this.queryTarget.getBoundingClientRect().left}px`
         else {
-            resultsPane.style.left = '0px';
-            resultsPane.style.width = '100%';
+            this.resultsTarget.style.left = '0px'
+            this.resultsTarget.style.width = '100%'
         }
-        resultsItems.innerHTML = '';
-        currentTerm = term;
-        if (term === '') return;
+    }
 
-        let search_results = (await initIndex()).search(term, options);
-
-        if (search_results.length === 0) {
-            resultsPane.style.display = "none";
-            return;
+    format_result(item, terms) {
+        let path = item.path.replace('_', '-')
+        let result_type = undefined
+        const prefix_map = {
+            '/e/': 'Event',
+            '/w/': 'Talent',
+            '/o/': 'Organization',
+            '/a/': 'Article',
+            '/v/': 'Venue',
+            '/c/': 'Championship'
         }
-        for (let i = 0; i < Math.min(search_results.length, MAX_ITEMS); i++) {
-            var item = document.createElement("li");
-            item.className = "results-item";
-            item.tabIndex = -1;
-            item.innerHTML = formatSearchResultItem(search_results[i], term.split(" "));
-            resultsItems.appendChild(item);
-        }
-    }, 150));
+        const prefix = path.slice(0, 3)
+        result_type = prefix_map[prefix] || 'Page'
 
-    window.addEventListener('click', (e) => {
-        if (resultsPane.style.display == 'block' && !resultsPane.contains(e.target))
-            resultsPane.style.display = 'none';
-    });
+        let node = this.itemTemplateTarget.content.cloneNode(true)
+        node.querySelector('a').href = path
+        node.querySelector('#result-type').textContent = `${result_type}:`
+        node.querySelector('#result').textContent = item.title
+
+        return node
+    }
 }
-document.addEventListener("DOMContentLoaded", initSearch);
+
+window.Stimulus = Application.start()
+Stimulus.register('search', SearchController)
