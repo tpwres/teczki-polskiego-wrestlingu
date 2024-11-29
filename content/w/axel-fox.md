@@ -89,17 +89,17 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
   - "Nowhere to Hide" by Chrobot
     {{ org_badge(orgs=['dfw']) }} (2017) <br>
     {{ music(yt='0tBeZUjmp6Y')}}
-    {{ music(spot='69q1xbdp0MHTayxLvlRMdk?si')}}
+    {{ music(spot='69q1xbdp0MHTayxLvlRMdk')}}
     {{ music(apple='1472548615?i=1472548866')}}
   - "It's Raining Men" by The Weather Girls
     {{ org_badge(orgs=['mzw']) }} (2018) <br>
     {{ music(yt='l5aZJBLAu1E')}}
-    {{ music(spot='2IvetNzSZMH5gwjInoyr18?si')}}
+    {{ music(spot='2IvetNzSZMH5gwjInoyr18')}}
     {{ music(apple='273400100?i=273400238')}}
   - "Fox On The Run" by Sweet
     {{ org_badge(orgs=['mzw']) }} (2019-2020) <br> 
     {{ music(yt='kRv7EjjwYBI')}}
-    {{ music(spot='4uip0lLkMKl1nwchsdXs1r?si')}}
+    {{ music(spot='4uip0lLkMKl1nwchsdXs1r')}}
     {{ music(apple='1440629897?i=1440629905')}}
   - "Saturday Night's Alright for Fighting" by Elton John
     {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
