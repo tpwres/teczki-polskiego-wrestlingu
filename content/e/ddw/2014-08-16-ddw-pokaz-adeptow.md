@@ -15,7 +15,7 @@ This event was a showcase of DDW's newest trainees, and accompanied the bigger [
 - ["Kamil Leśny, [Luxus](@/w/luxus.md); [Piękny Kawaler](@/w/piekny-kawaler.md)",
   "Double G: [GREG](@/w/greg.md), Wielki G", {s: Tag Team Match}]
 - ['[Mira](@/w/mira.md)', '[Bianca](@/w/bianca.md)', {r: DQ}]
-- ['[Robert Star](@/w/robert-star.md)', "[El Homo](@/w/ostrowski.md); Bogdan"]
+- ['[Robert Star](@/w/robert-star.md)', "[El Homo](@/w/ostrowski.md); [Bogdan](@/w/krzysztof-zasada.md)"]
 - ['[Mateusz Kowalski](@/w/mateusz-kakareko.md)', '[Kaszub](@/w/kaszub.md)']
 {% end %}
 
