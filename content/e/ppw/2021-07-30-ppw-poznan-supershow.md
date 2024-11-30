@@ -29,8 +29,8 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   - '[Adam Wong](@/w/adam-wong.md)'
 - - '[Esteban Lucha](@/w/biesiad.md)'
   - '[Czacha](@/w/johnny-blade.md)'
-- - '[Esteban Lucha](@/w/biesiad.md)'
-  - '[Adam Wong](@/w/adam-wong.md)'
+- - '[Adam Wong](@/w/adam-wong.md)'
+  - '[Esteban Lucha](@/w/biesiad.md)'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Hades](@/w/olgierd.md)'
   - s: Hardcore Match
@@ -48,8 +48,8 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   date: 2021-07-31
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
-- - '[Rob Scaffold](@/w/rob-scaffold.md)'
-  - '[Aron Wake](@/w/aron-wake.md)'
+- - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Rob Scaffold](@/w/rob-scaffold.md)'
 - - '[Hades](@/w/olgierd.md)'
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
 - - '[Cade Bruce](@/w/mister-z.md)'

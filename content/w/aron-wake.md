@@ -28,7 +28,7 @@ During the COVID-19 pandemic he become one of the regularly-appearing workers in
 In the [final episode](@/e/mzw/2021-07-21-mzw-project-basement-6.md) he won a 7-man gauntlet match for the Project Basement trophy, which was awarded to him at the first MZW show after the pandemic, [MZW Project 8: Golden Road FINALS](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 Along with the trophy, he earned the opportunity to compete in a tournament for [MZW Championship](@/c/mzw-championship.md), first winning against Nick Schreier in semi-finals just to be defeated by [Rafael Kid](@/w/rafael-kid.md). This was his final show in his first stint in MZW, as he left company in October 2021.
 
-During that time he also made a one-time apperance at [PpW Supershow 2021](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) where he was defeated by [Rob Scaffold](@/w/rob-scaffold.md).
+During that time he also made a one-time apperance at [PpW Supershow 2021](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) where he defeated [Rob Scaffold](@/w/rob-scaffold.md).
 
 ### Prime Time Wrestling and injury (2022-2024)
 
@@ -52,7 +52,15 @@ It was also announced that he will participate in a match against his first riva
 ## In wrestling
 
 * Finishers:
-  - Running Knee Strike
+  - Running Knee Strike (2019-)
+  - Modified Crossface / scissored armbar combination (2021)
+ 
+* Entrance music:
+  - "Battle! Cynthia (Intense Symphonic Metal Cover)" by FalKKonE
+ {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} <br>
+ {{ music(yt='ZEVbju7lxx0')}}
+ {{ music(spot='5ZNDg0VG86jgXUalVqac49')}}
+ {{ music(apple='1268920632?i=1268920636')}}
 
 ## Championships and accomplishments
 
@@ -62,6 +70,7 @@ It was also announced that he will participate in a match against his first riva
 
 ## Internet presence
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24640)
 * [aron_wake](https://www.instagram.com/aron_wake/) on Instagram
 
 ## References
