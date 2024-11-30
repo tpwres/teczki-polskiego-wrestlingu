@@ -38,7 +38,7 @@ On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KP
  {{ org_badge(orgs=['kpw']) }} (2023) <br>
  {{ music(yt='eP52SxhgikE')}}
   - "Plague Rat" by Karl Casey
- {{ org_badge(orgs=['kpw']) }} (2024-present) <br>
+ {{ org_badge(orgs=['kpw', 'low']) }} (2024-present) <br>
  {{ music(yt='y8XElwNSPnI')}}
  {{ music(spot='5ydTDIWT7GpLq35kJv53Ry')}}
  {{ music(apple='1557138878?i=1557138879')}}

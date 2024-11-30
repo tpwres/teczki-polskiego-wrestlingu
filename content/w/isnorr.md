@@ -15,6 +15,15 @@ career_aliases = ["Norris"]
   - Isnorr, in {{ org_badge(org='mzw') }} {{ org_badge(org='ppw') }}
   - Norris, in {{ org_badge(org='dfw') }}
  
+## In wrestling
+
+* Entrance music:
+- "Eunomia" by Carrion
+ {{ org_badge(orgs=['ppw']) }} <br>
+ {{ music(yt='p1AAVsoDnVo')}}
+ {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
+ {{ music(apple='1410929179?i=1410938192')}}
+
 ## Championships and accomplishments
 
 - [DFW Championship](@/c/dfw-championship.md) (1 time; final)

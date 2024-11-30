@@ -23,7 +23,7 @@ Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of W
  {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
  {{ music(apple='1764395673?i=1764396024')}}
   - "Better days" by Dangerous New Machine
- {{ org_badge(orgs=['kpw']) }} (2023-) <br>
+ {{ org_badge(orgs=['kpw', 'low']) }} (2023-) <br>
  {{ music(yt='se3AUY4XKcA')}}
  {{ music(apple='375038556?i=375038653')}}
 
