@@ -57,8 +57,10 @@ It was also announced that he will participate in a match against his first riva
  
 * Entrance music:
   - "Battle! Cynthia (Intense Symphonic Metal Cover)" by FalKKonE
-    {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} <br>
-    {{ music(yt='ZEVbju7lxx0')}}
+ {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} <br>
+ {{ music(yt='ZEVbju7lxx0')}}
+ {{ music(spot='5ZNDg0VG86jgXUalVqac49')}}
+ {{ music(apple='1268920632?i=1268920636')}}
 
 ## Championships and accomplishments
 
