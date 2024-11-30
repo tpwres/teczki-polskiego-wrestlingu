@@ -29,8 +29,8 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   - '[Adam Wong](@/w/adam-wong.md)'
 - - '[Esteban Lucha](@/w/biesiad.md)'
   - '[Czacha](@/w/johnny-blade.md)'
-- - '[Esteban Lucha](@/w/biesiad.md)'
-  - '[Adam Wong](@/w/adam-wong.md)'
+- - '[Adam Wong](@/w/adam-wong.md)'
+  - '[Esteban Lucha](@/w/biesiad.md)'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Hades](@/w/olgierd.md)'
   - s: Hardcore Match
