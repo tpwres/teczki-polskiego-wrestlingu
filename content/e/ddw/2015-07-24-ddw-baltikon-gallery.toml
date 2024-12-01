@@ -15,7 +15,7 @@
 15 = { path = "baltikon-robert-vs-korpo-8.jpg", caption = "Robert with a splash on Korpo", source = "Facebook Baltikon / Tarakum Photo" }
 16 = { path = "baltikon-luxus.jpg", caption = "[Luxus](@/w/luxus.md)", source = "Facebook Baltikon / Tarakum Photo" }
 17 = { path = "baltikon-kamil-pas-ddw.jpg", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) with the [DDW Championship belt](@/c/ddw-international-championship.md)", source = "Facebook Baltikon / Tarakum Photo" }
-18 = { path = "baltikon-sedzia-zasada-luxus.jpg", caption = "Referee holding the DDW Championship belt. The referee strongly resembles [Krzysztof Zasada](@/w/krzysztof-zasada.md).", source = "Facebook Baltikon / Tarakum Photo" }
+18 = { path = "baltikon-sedzia-zasada-luxus.jpg", caption = "Referee [Krzysztof Zasada](@/w/krzysztof-zasada.md) holding the DDW Championship belt.", source = "Facebook Baltikon / Tarakum Photo" }
 19 = { path = "baltikon-luxus-kamil.jpg", caption = "Luxus vs Kamil", source = "Facebook Baltikon / Tarakum Photo" }
 20 = { path = "baltikon-luxus-kamil-2.jpg", caption = "Luxus vs Kamil", source = "Facebook Baltikon / Tarakum Photo" }
 21 = { path = "baltikon-kamil-zwyciezca.jpg", caption = "A victorious Kamil holding the belt above his head", source = "Facebook Baltikon / Tarakum Photo" }
@@ -31,6 +31,6 @@
 31 = { path = "baltikon-greg-ostrowski-bianka.jpg", caption = "Bianca punishing Ostrowski in the corner", source = "Facebook Baltikon / Tarakum Photo" }
 32 = { path = "baltikon-mira-kaszub-kawaler-pin.jpg", caption = "Mira and Kaszub stand in the corner while Kawaler pins Ostrowski", source = "Facebook Baltikon / Tarakum Photo" }
 33 = { path = "baltikon-mira-kaszub-ostrowski-kawaler.jpg", caption = "Kaszub, Ostrowski and Kawaler", source = "Facebook Baltikon / Tarakum Photo" }
-34 = { path = "baltikon-ostrowski-sedzia-kawaler.jpg", caption = "Ostrowski in the corner, Kawaler attacking. Referee in the background strongly resembles [Mateusz Kowalski](@/w/mateusz-kakareko.md)", source = "Facebook Baltikon / Tarakum Photo" }
+34 = { path = "baltikon-ostrowski-sedzia-kawaler.jpg", caption = "Ostrowski in the corner, Kawaler attacking, referee [Mateusz Kowalski](@/w/mateusz-kakareko.md) in the background.", source = "Facebook Baltikon / Tarakum Photo" }
 35 = { path = "baltikon-mira-kaszub-drop.jpg", caption = "Kaszub dropping down from the turnbuckle", source = "Facebook Baltikon / Tarakum Photo" }
 36 = { path = "baltikon-bianka-sedzia-greg-kaszub-kawaler.jpg", caption = "Kawaler dropping Kaszub in his corner.", source = "Facebook Baltikon / Tarakum Photo" }
