@@ -86,6 +86,19 @@ This failed spot, and the second attempt were featured in [Botchamania 489](http
 PpW's third Botchamania entry was from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). In the four-man ladder match, just after the opening sequence, Benny Bachhus accidentally grabs the trophy as he falls to the ground when his ladder was knocked. The faces then signal the referee to hang it up again and the match is restarted.
 This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwafo&t=730s), at the 12:10 mark. In another botch, this time on Botchamania's end, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [similarly-named event](@/e/ptw/2024-05-11-ptw-6.md).
 
+## Foreign relations
+
+Since going pro in 2019/2020, PpW invited foreign wrestlers to several of their shows, but never aimed for internationally recognized names. Guests from Czechia, Germany, Belgium, Austria, Sweden, Spain and even Israel performed on their shows, with Belgian [Steve Kuningas](@/w/steve-kuningas.md) even becoming [PpW Champion](@/c/ppw-championship.md) for over six months.
+However, since the Prime Time Transfers era, PpW has enough roster members, and foreign guests have been more rare, and the last event to feature them in significant numbers was [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) in April 2024.
+
+## Polish wrestling scene
+
+In their backyard era, PpW were always well connected with the other organizations, and appearing on each other's events. The best documented example on hand is [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), which featured three PpW wrestlers.
+
+As of 2023, a [co-branded show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization.
+After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
+
+
 ## Mainstream media
 
 On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured [a brief segment][halo-tu-ppw] with PpW's wrestlers [Biesiad](@/w/biesiad.md), [Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Gustav brought his custom [PpW Championship](@/c/ppw-championship.md) belt, which was prominently displayed on a coffee table, with PpW's logo clearly legible.
