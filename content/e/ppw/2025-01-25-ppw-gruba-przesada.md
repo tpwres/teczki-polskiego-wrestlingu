@@ -15,6 +15,10 @@ source = "[Official PpW Facebook]"
 
 Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Teatr Komuna](@/v/teatr-komuna.md).
 
+#### Build-up
+
+* On 24.11 PpW posted a picture of a cross tattoo that [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) has on his chest, with a date of 25.01.2025 inside it. On 26.11.2024 PpW officially confirmed that Dobroniak, last seen at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), would make a return. Dobroniak posted a comment in which he slandered [Isnorr](@/w/isnorr.md), implying a fight between the two - likely for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
+
 {{ skip_card() }}
 
 ### References
