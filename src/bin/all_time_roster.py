@@ -5,12 +5,12 @@ from pathlib import Path
 from typing import Any, Callable, Iterable, cast
 from page import page, TalentPage
 from sorting import assume_locale
-import json, re, yaml 
+import json, re, yaml
 
 ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country', 'flag_or_emoji'])
 
 LookupFlagFn = Callable[[str|TalentPage], tuple[str, str]]
-
+MakeKeyFn = Callable[[str], str]
 
 def main():
     content_path = Path.cwd() / 'content'
@@ -24,39 +24,40 @@ def main():
     lookup_flag = lambda name_or_page: lookup_flag_or_emoji(name_or_page, name_to_flag, flags, emojis)
 
     all_names = []
-    for name in careers:
-        path = alias_map.get(name)
-
-        if path:
-            talent_page = TalentPage(content_path / path, verbose=False)
-            all_names.extend(load_talent(talent_page, path, lookup_flag))
-        else:
-            all_names.append(unlinked_entry(name, lookup_flag))
-
     with assume_locale('pl_PL') as locale:
-        all_names.sort(key=lambda record: locale.strxfrm(record.sort_key))
+        sort_key = lambda text: locale.strxfrm(make_sort_key(text))
+        for name in careers:
+            path = alias_map.get(name)
+
+            if path:
+                talent_page = TalentPage(content_path / path, verbose=False)
+                all_names.extend(load_talent(talent_page, path, lookup_flag, make_key=sort_key))
+            else:
+                all_names.append(unlinked_entry(name, lookup_flag, make_key=sort_key))
+
+        all_names.sort(key=lambda record: record.sort_key)
 
     save_as_json(all_names, Path('data/all_time_roster.json'))
 
-def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn) -> Iterable[ATRecord]:
+def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> Iterable[ATRecord]:
     fm = talent_page.front_matter
-    title = fm['title']
+    title = cast(str, fm['title'])
     country, flag = lookup_flag(talent_page)
 
-    yield ATRecord(make_sort_key(title), title, 'P', path, country, flag)
+    yield ATRecord(make_key(title), title, 'P', path, country, flag)
 
     extra = cast(dict[str, Any], fm.get('extra', {}))
     career_name = extra.get('career_name')
     if career_name:
-        yield ATRecord(make_sort_key(career_name), career_name, 'T', path, country, flag)
+        yield ATRecord(make_key(career_name), career_name, 'T', path, country, flag)
 
     aliases = cast(list[str], extra.get('career_aliases', []))
     for alias in aliases:
-        yield ATRecord(make_sort_key(alias), alias, 'A', path, country, flag)
+        yield ATRecord(make_key(alias), alias, 'A', path, country, flag)
 
-def unlinked_entry(name, lookup_flag: LookupFlagFn) -> ATRecord:
+def unlinked_entry(name, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> ATRecord:
     country, flag = lookup_flag(name)
-    return ATRecord(make_sort_key(name), name, 'U', None, country, flag)
+    return ATRecord(make_key(name), name, 'U', None, country, flag)
 
 def lookup_flag_or_emoji(name_or_page, names_dict, flags_list, emojis) -> tuple[str, str]:
     match name_or_page:
