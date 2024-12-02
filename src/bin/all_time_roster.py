@@ -4,11 +4,13 @@ from collections import namedtuple
 from pathlib import Path
 from typing import Any, Callable, Iterable, cast
 from page import page, TalentPage
-import json, re, yaml
+from sorting import assume_locale
+import json, re, yaml 
 
 ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country', 'flag_or_emoji'])
 
 LookupFlagFn = Callable[[str|TalentPage], tuple[str, str]]
+
 
 def main():
     content_path = Path.cwd() / 'content'
@@ -31,7 +33,9 @@ def main():
         else:
             all_names.append(unlinked_entry(name, lookup_flag))
 
-    all_names.sort(key=lambda atr: atr.sort_key)
+    with assume_locale('pl_PL') as locale:
+        all_names.sort(key=lambda record: locale.strxfrm(record.sort_key))
+
     save_as_json(all_names, Path('data/all_time_roster.json'))
 
 def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn) -> Iterable[ATRecord]:
