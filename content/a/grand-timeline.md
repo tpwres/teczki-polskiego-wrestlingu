@@ -155,8 +155,9 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2024
 
-* PpW buys Supron's ring, the same one he bought for PPWF some 20 years ago, and later used by [TBW](@/o/tbw.md) and [WKSW](@/o/wksw.md).
+* PpW buys their first full sized ring from Andrzej Supron, the same one he bought for PPWF some 20 years ago, and later used by [TBW](@/o/tbw.md) and [WKSW](@/o/wksw.md).
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
 * As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
-* After exiting PTW, a group of their former talent starts [Legacy of Wrestling](@/o/low.md). The group soon announce their [first show](@/e/low/2024-12-01-low-1.md) to be held in December. For the first time ever, [KPW](@/o/kpw.md) lends one of their workers ([Filip Fux](@/w/filip-fux.md)) to another Polish organization.
+* PpW opens their training facility to the public, dubbed [Ewenement Dojo](@/o/ewenement-dojo.md). They hold a summer camp, with initial trainer being [Jacob Crane](@w/jacob-crane.md), later replaced by [Axel Fox](@/w/axel-fox.md) after former's departure to Japan.
+* After exiting PTW, a group of their former backstage crew and talent starts [Legacy of Wrestling](@/o/low.md). The group soon announce their [first show](@/e/low/2024-12-01-low-1.md) to be held in December. For the first time ever, [KPW](@/o/kpw.md) lends their workers ([Filip Fux](@/w/filip-fux.md) and [Chemik](@/w/chemik.md)) to another Polish organization. This is the first Polish card featuring representation from KPW, MZW and PpW, as well as some ex-PTW free agents. The show was dubbed by some "Polish Forbidden Door".
 {% end %}
