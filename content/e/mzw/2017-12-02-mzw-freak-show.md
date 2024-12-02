@@ -37,7 +37,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - "[Bartosz Borowsky](@/w/boro.md)"
   - Blue Thunder
   - Kamil Kwiecień
-  - "[Karol Górski](@/w/madman-charlie.md)"
+  - "[Karol Górski (2)](@/w/madman-charlie.md)"
   - "[Kuba Kamiński](@/w/jacob-crane.md)"
   - Marcel Koniecki
   - "[Rafał Orszak](@/w/rafael-kid.md)"
