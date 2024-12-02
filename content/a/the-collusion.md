@@ -28,7 +28,7 @@ The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [V
 * [Isnorr](@/w/isnorr.md) - ultraviolent specialist
 * [Olgierd](@/w/olgierd.md) - Legia Łysych
 * [Marco Hammers](@/w/marco-hammers.md) - Legia Łysych
-* Jakub Linde - personal trainer
+* [Jakub Linde](@/w/jakub-linde.md) - personal trainer
 
 #### Former & part-time
 

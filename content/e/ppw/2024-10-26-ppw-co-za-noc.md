@@ -64,7 +64,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
       [Mister Z](@/w/mister-z.md),
       [Olgierd](@/w/olgierd.md),
       [Marco Hammers](@/w/marco-hammers.md),
-      Jakub Linde,
+      [Jakub Linde](@/w/jakub-linde.md),
       [Wiktor Longman](@/w/wiktor-longman.md)
   - s: 5 vs 5 Elimination Match
 - - '[Isnorr](@/w/isnorr.md)'
