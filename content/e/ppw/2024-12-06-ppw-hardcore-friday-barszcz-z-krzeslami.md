@@ -31,6 +31,9 @@ The name of the event is a play on "barszcz z uszkami", a traditional Polish sou
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - nc: upcoming
+- - '[Olgierd](olgierd.md)'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ## References
