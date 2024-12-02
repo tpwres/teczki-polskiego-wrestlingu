@@ -20,8 +20,7 @@ Notably absent from the list and still on the roster:
 [Puncher](@/w/puncher.md),
 [Nano Lopez](@/w/nano-lopez.md),
 [Iskra](@/w/iskra.md),
-[Max Speed](@/w/max-speed.md),
-[King Kaiden](@/w/king-kaiden.md).
+[Max Speed](@/w/max-speed.md).
 
 Others still on the roster as of July 2024: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md), Arczi Czajka, [Alex Brave](@/w/alex-brave.md).
 
