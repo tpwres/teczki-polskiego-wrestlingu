@@ -51,7 +51,7 @@ Shortly before the show, they were trading insults and challeneges online with L
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Open Challenge Tag Team Match
-- - Jakob Sigmarsson
+- - '[Jakob Sigmarsson](@/w/jakub-linde.md)'
   - Mef the Death
   - s: "Sigmarsson's in-ring debut"
 - - '[Samson](@/w/samson.md)'

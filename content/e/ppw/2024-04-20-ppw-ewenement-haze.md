@@ -39,7 +39,7 @@ The foreign guests for this event were:
 * 7 matches and a [new ring](@/o/ppw.md#2023-prime-time-transfers-professional-ring) were confirmed on Facebook, in the post that advertised Baklava Club's involvement.
 
 {% card() %}
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md); Jakob Sigmarsson'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md); [Jakob Sigmarsson](@/w/jakub-linde.md)'
   - Nick Schreier
   - '[Samson](@/w/samson.md)'
   - s: Three Way Dance

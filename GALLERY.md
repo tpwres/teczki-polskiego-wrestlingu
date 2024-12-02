@@ -27,7 +27,7 @@ template = "event_page.html"
 [extra]
 venue = "teatr-komuna"
 [extra.gallery]
-1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has Jakob Sigmarsson and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Facebook PPW Ewenement"}
+1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Facebook PPW Ewenement"}
 +++
 ```
 
