@@ -4,7 +4,7 @@ from collections import namedtuple
 from pathlib import Path
 from typing import Any, Callable, Iterable, cast
 from page import page, TalentPage
-from sorting import assume_locale
+from unidecode import unidecode
 import json, re, yaml
 
 ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country', 'flag_or_emoji'])
@@ -24,18 +24,17 @@ def main():
     lookup_flag = lambda name_or_page: lookup_flag_or_emoji(name_or_page, name_to_flag, flags, emojis)
 
     all_names = []
-    with assume_locale('pl_PL.UTF-8') as locale:
-        sort_key = lambda text: locale.strxfrm(make_sort_key(text))
-        for name in careers:
-            path = alias_map.get(name)
+    sort_key = lambda text: unidecode(make_sort_key(text))
+    for name in careers:
+        path = alias_map.get(name)
 
-            if path:
-                talent_page = TalentPage(content_path / path, verbose=False)
-                all_names.extend(load_talent(talent_page, path, lookup_flag, make_key=sort_key))
-            else:
-                all_names.append(unlinked_entry(name, lookup_flag, make_key=sort_key))
+        if path:
+            talent_page = TalentPage(content_path / path, verbose=False)
+            all_names.extend(load_talent(talent_page, path, lookup_flag, make_key=sort_key))
+        else:
+            all_names.append(unlinked_entry(name, lookup_flag, make_key=sort_key))
 
-        all_names.sort(key=lambda record: record.sort_key)
+    all_names.sort(key=lambda record: record.sort_key)
 
     save_as_json(all_names, Path('data/all_time_roster.json'))
 
