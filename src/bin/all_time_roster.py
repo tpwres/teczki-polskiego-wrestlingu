@@ -24,7 +24,7 @@ def main():
     lookup_flag = lambda name_or_page: lookup_flag_or_emoji(name_or_page, name_to_flag, flags, emojis)
 
     all_names = []
-    with assume_locale('pl_PL') as locale:
+    with assume_locale('pl_PL.UTF-8') as locale:
         sort_key = lambda text: locale.strxfrm(make_sort_key(text))
         for name in careers:
             path = alias_map.get(name)
