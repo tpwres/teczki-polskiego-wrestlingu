@@ -77,7 +77,9 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
 
 ### Legacy of Wrestling (2024)
 
-In 20th of November 2024 it was announced, that Axel Fox will replace [Wiktor Longman](@/w/wiktor-longman.md) in a main event of [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He fought against [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md). During the match he was initially named as the winner, but due to minimal rope break which wasn't noticed by the [Referee Seweryn](@/w/sedzia-seweryn.md). [Sinister](@/w/sinister.md), [Arkadiusz Paterek](@/w/arek-paterek.md) and LoW Chairman have immediately restarted the match resulting in a loss by technical submission, much to Fox's despair. 
+On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox will replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). 
+He fought against [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md). 
+During the match he was initially named as the winner, but due to a minimal rope break which wasn't noticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and LoW Chairman, to immediately restart the match. This resulted in a loss by technical submission, much to Fox's despair. 
 
 ## In wrestling
 
