@@ -30,7 +30,7 @@ He also ran his own YouTube channel called "KGWrestlingPodcast", where he also c
 In early 2017 he was involved in the "What Is Wrestling" YouTube channel, along with Mikita "Seth Donner" Varanovich, and later PTW commentator Piotr "ShowOff" Małecki.
 During that time, the WiW team was involved in a storyline with [Dream Factory Wrestling](@/o/dfw.md), which concluded in Amisz's first pro wrestling match at [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) where he faced [PJ Blake](@/w/pj-blake.md).
 
-### 2018-2020: MZW and Germany
+### Maniac Zone Wrestling (2018-2020)
 
 #### Training and debut 
 
@@ -45,7 +45,7 @@ Fox made a couple of appearances on the German indy scene, in Next Step Wrestlin
 His final appearance for MZW was at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
 Axel left MZW in early 2021, having not appeared at the tapings for [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md).
 
-### PTW and European Expansion (2021-2024)
+### Prime Time Wrestling and European Expansion (2021-2024)
 
 #### Debut and storyline with Justin Joy
 
@@ -74,6 +74,10 @@ Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau 
 They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/a/the-collusion.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation, and viciously attacked him with a kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's producer.
 
 Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
+
+### Legacy of Wrestling (2024)
+
+In 20th of November 2024 it was announced, that Axel Fox will replace [Wiktor Longman](@/w/wiktor-longman.md) in a main event of [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He fought against [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/gustav-gryffin.md). During the match he was initially named as the winner, but due to minimal rope break which wasn't noticed by the [Referee Seweryn](@/w/sedzia-seweryn.md). [Sinister](@/w/sinister.md), [Arkadiusz Paterek](@/w/arek-paterek.md) and LoW Chairman have immediately restarted the match resulting in a loss by technical submission, much to Fox's despair. 
 
 ## In wrestling
 
@@ -111,7 +115,7 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
   - "Punk Tactics" by Joey Valence & Brae
     {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
-    {{ music(yt='OklSZmIx9-o')}}
+    {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
 
