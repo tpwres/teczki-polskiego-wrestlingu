@@ -24,7 +24,7 @@
 {% for country, country_name in country_names %}
   {% set recs_by_country = rbc_grouped[country] %}
   {% if recs_by_country | length == 0 %}{% continue %}{% endif %}
-  {% set recs_by_country = recs_by_country | sort(attribute='1') %}
+  {% set recs_by_country = recs_by_country | sort(attribute='0') %}
 
   <h2 id="{{ country_name|slugify }}">
     {{ flag_dict | get(key=country, default='') }}
