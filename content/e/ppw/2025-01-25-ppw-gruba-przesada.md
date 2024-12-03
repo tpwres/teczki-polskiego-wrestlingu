@@ -10,7 +10,11 @@ hide_results = true
 [extra.gallery.1]
 path = "2025-01-25-ppw-gruba-przesada-plakat.jpg"
 caption = "Official poster."
-source = "[Official PpW Facebook]"
+source = "Official PpW Facebook"
+[extra.gallery.2]
+path = "svd-szkaluje-isnorra.jpg"
+caption = "Basically, [Dobroniak](@/w/stanislaw-van-dobroniak.md) says that [Isnorr](@/w/isnorr.md) stinks."
+source = "Official PpW Facebook"
 +++
 
 Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Teatr Komuna](@/v/teatr-komuna.md).

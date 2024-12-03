@@ -8,8 +8,6 @@ venue=["2kola"]
 [extra]
 hide_results = true
 city = "Warszawa"
-[extra.gallery]
-1 = { path = "svd-szkaluje-isnorra.jpg", caption = "Basically, [Dobroniak](@/w/stanislaw-van-dobroniak.md) says that [Isnorr](@/w/isnorr.md) stinks.", source = "Official PpW Facebook" }
 +++
 
 "Barszcz z Krzesłami" (_Borscht with Chairs_) is an upcoming event in [PpW's](@/o/ppw.md) revived Hardcore Friday series.
