@@ -32,6 +32,15 @@ For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, wh
 - - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - nc: upcoming
+- -'[Alex Brave](@/w/alex-brave.md)
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - s: 'Career Threatening Match'
+    nc: upcoming
+- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+  - "L'Orda: Luca Bjorn, [Rust](@/w/rust.md)"
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+    s: 'Hardcore Tornado Tag Team Match'
+    nc: upcoming
 {% end %}
 
 ### References
