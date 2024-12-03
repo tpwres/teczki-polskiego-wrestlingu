@@ -11,8 +11,9 @@ career_aliases = ["Steven Strong", "Biesiad", "Steven Kimono", "Esteban Lucha"]
 2 = { path = "biesiadzik-stong.jpg", caption = "Young Steven Strong in the ring at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md).", source = "Official PpW YouTube." }
 +++
 
+## In wrestling
 * Entrance music:
-- "Thunderstruck" by AC/DC
+  - "Thunderstruck" by AC/DC
  {{ org_badge(orgs=['ppw', 'low']) }} <br>
  {{ music(yt='v2AC41dglnM')}}
  {{ music(spot='57bgtoPSgt236HzfBOd8kj')}}
