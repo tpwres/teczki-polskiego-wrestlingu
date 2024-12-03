@@ -1,11 +1,87 @@
 +++
 title = "Marcelito"
 template = "talent_page.html"
+authors = "Sewi The Referee"
 [taxonomies]
 country = ["PL"]
 [extra]
 career_aliases = ['Marcel "Marcelito" Budzianowski', 'Marcel Budzianowski']
 +++
+
+## Basic Info
+
+* Years active: 2021-present
+* Gimmicks/nicknames:
+  - Marcel Budzianowski {{ org_badge(org='ptw') }} (2021)
+  - Marcelito {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }}
+* Trained by:
+  - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
+  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+ 
+## Professional wrestling career
+
+### Prime Time Wrestling (2021-2024)
+
+#### Debut and lowcard apperances
+
+Marcelito started his training in PTW Academy in early 2021 while the federation was still preparing for public announcement. Along [Taras](@/w/taras.md), [Puncher](@/w/puncher.md) and few others wrestlers he was one of the first alumini of silesian-based pro-wrestling school. 
+
+Marcelito made his debut at [Prime Time Wrestling](@/o/ptw.md) first show - [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - as an enhancement talent. He wrestled under his real-life name against [Taxi Złotówa](@/w/taxi-zlotowa.md) - a microinfluencer & freakfighter recruited by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). His last name - Budzianowski - was part of the storyline conflict between Pawłowski and heelish Złotówa, as PTW Promoter supposedly promised Złotówa a match against MMA Fighter and Strongman Mariusz Pudzianowski - whose last name sounds kind of like Budzianowski. Marcelito lost his match in couple seconds.
+
+Later on Marcelito was still used as an enhancement talent to build-up more promoted characters such as [Puncher](@/w/puncher.md) and [Remo](@/w/remo.md). 
+
+#### Formation of Bright Lights and breaking the streak
+
+At [PTW Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md) Marcelito formed an alliance with [Karol "Iskra" Górski](@/w/iskra.md) - another enhancement talent and ex-referee who previously worked in [KPW](@/o/kpw.md). They called themselves "The Bright Lights" and tagged in rather part-time fashion while simultaneously maintaining their solo careers. Marcelito has continued his losing streak - both solo and in tag team with Iskra - up until [PTW Underground 9](/e/ptw/2022-10-30-ptw-underground-9.md) when he finally defeated one of the main event stars - Puncher - who was distracted by [Robert Star](@/w/robert-star.md), his rival. From around that time his position in the card improved slightly, as he was able to run longer and more close fights. 
+
+#### Bright Lights breakup
+
+After Bright Light lost their match against Pure Gold in first round of [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) tournament at [PTW Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) Iskra attacked Marcelito effectively turning heel on him. That led to short-lived feud with Marcelito losing to Iskra at [PTW Underground 13](@/e/ptw/2023-03-26-ptw-underground-13.md). Then he interrupted Iskra at [the next underground](@/e/ptw/2023-04-23-ptw-underground-14.md) where he attacked Karol Górski while he was trying to seduce [Diana Strong](@/w/diana-strong.md). At [PTW Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md) his match against [Samson](@/w/samson.md) was interrupted by Iskra leading to DQ. After that Iskra also took part in a segment before Marcelito's rematch against Samson at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), but after that their feud was finished, as Iskra moved toward feuding with Diana Strong.
+
+#### Feud with Sinister Kingdom and formation of Samsonito
+
+After his programme with Iskra Marcelito was finished Marcelito spent almost full second half of 2023 feuding with The Sinister Kingdom - [Sinister](@/w/sinister.md), [Syriusz Dziedzic](@/w/dziedzic.md) and [Krampus](@/w/krampus.md). He was defeated by "reborn" Dziedzic at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) and tried to fend off Sinister Kingdom members when they attacked Samson at the same show. The feud continued for next two undergrounds, where Samson & Marcelito failed to score at least one victory over Sinister's stable - both in singles competitions and as a tag team. At [Underground 20](@/e/ptw/2023-12-10-ptw-underground-20.md) they were defeated by Legia Łysych. This marked the final apperance of Samson in PTW, thus it was the end of Samsonito. 
+
+During that time he also made his international debut fighting for Austrian promotion Rings of Europe in September 2023, where he was defeated by [Marco Hammers](@/w/marco-hammers.md)
+
+#### Championship pursuits and departure
+
+In early 2024 Marcelito took part in [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Rumble Match for [PTW Championship](@/c/ptw-championship.md). He entered the match as number two and was eliminated as 15th by Krampus. 
+
+Later on he was trying to win PTW Tag Team Championship from Budapest Bastards while teaming with [Axel Fox](@/w/axel-fox.md) at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md). It was unsucessful, same as his title fight against Axel Fox and Scotty Rawk for British Wrestling Revolution Championship at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). After the end of the fight Axel teased a possible heelturn or at least rivarly with Marcelito, but due to their departure from PTW it led to nothing.
+
+On Sunday, June 2nd 2024, a rumor was posted on the PTW Facebook fan group that Marcelito, along with Dziedzic and Sinister have been [released by PTW](@/a/ptw-exits.md). The fans quickly linked these departures with the shoot interview of Dziedzic, where Marcelito was reportedly active in a chat, agreeing with Dziedzic on topics related to PTW & Pawłowski's politics. 
+
+### PpW Ewenement (2024-present)
+
+After his departure from PTW Marcelito was seen among numerous other ex-PTW wrestlers attending [PpW Ewenement Wrestling](@/o/ppw.md) show [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). He also worked as ring crew and timekeeper at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md).
+Marcelito made his official in-ring debut at [PpW Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) facing his ex-PTW co-worker Axel Fox. After PpW's debut he developed his babyface persona incorporating some humorous catchphrases such as "Kto zgasił światło?!" (_Who turned off the light?!_ - a reference to power failure during his match in PTW) as long as a new theme song. 
+
+### Maniac Zone Wrestling (2024)
+
+On October 2024 Marcelito performed at [Maniac Zone Wrestling](@/o/mzw.md) show [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) where he faced Syriusz Dziedzic and [Biesiad Strong](@/w/biesiad.md). 
+
+### Legacy of Wrestling (2024)
+
+On 14th of August 2024 Marcelito was one of the wrestlers starring in a trailer of new polish wrestling federation - [Legacy of Wrestling](@/o/low.md). In November it was announced that he will face MZW owner and legend - [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). He lost his match against high-flyer from MZW.
+
+## In wrestling
+
+* Finishers:
+  - Satelite DDT (2021-)
+ 
+* Tag Teams and stables:
+  - The Bright Lights (2022-2023)
+  - Samsonito (2023)
+
+* Entrance music:
+  - "Runner Up" by North or Never
+     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-present) <br>
+ {{ music(yt='V25DImNEYkw')}}
+ {{ music(spot='4gjycu7vNIP0A1KHNGS5N1')}}
+ {{ music(apple='1536296291?i=1536296298')}}
+  - "Kto zgasił światło?!" by Independent Contractor
+ {{ org_badge(org='ppw') }} (2024-present) <br>  
 
 ## Internet presence
 
