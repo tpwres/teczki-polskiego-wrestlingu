@@ -1,7 +1,7 @@
 +++
 title = "Marcelito"
 template = "talent_page.html"
-authors = "Sewi The Referee"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
