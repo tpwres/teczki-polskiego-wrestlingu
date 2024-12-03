@@ -77,6 +77,15 @@ In november 2024 it was announced that Olgierd will face [Biesiad Strong](@/w/bi
 
 ## In wrestling
 
+* Finishers:
+  - Tombstone Piledriver (2016)
+  - Swinging Reverse STO (2016-2020)
+  - _Braindead_ (Running Cartwheel Headbutt) (2021-)
+ 
+* Tag Teams and stables:
+  - Legia Łysych (2023-)
+  - [Zmowa](@/a/the-collusion.md) (2024-)
+
 * Entrance music:
   - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
  {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger) <br>
