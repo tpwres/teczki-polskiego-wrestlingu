@@ -32,7 +32,7 @@ For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, wh
 - - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - nc: upcoming
-- -'[Alex Brave](@/w/alex-brave.md)
+- - '[Alex Brave](@/w/alex-brave.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - s: 'Career Threatening Match'
     nc: upcoming
