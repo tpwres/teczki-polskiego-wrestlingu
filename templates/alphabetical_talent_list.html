@@ -48,8 +48,8 @@
           {% set_global display_match_links = false %}
           {% set page_path = "@/" ~ page_path %}{# Overwrite so that pwf can produce correct link #}
           <li class="pwf">
-            {% include "person_with_flag.html" %}
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/person_with_flag.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'T' %}
           {% set career_name = talent[4] %}
@@ -59,8 +59,8 @@
           {% set_global career_entry = career_dict|get(key=career_name, default=empty_obj) %}
           {% set_global display_match_links = false %}
           <li class="pwf">
-            {% include "person_with_flag.html" %}
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/person_with_flag.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'A' %}
           {% set page = get_page(path=page_path) %}
@@ -73,8 +73,8 @@
           {% set_global display_match_links = false %}
           {% set page_path = "@/" ~ page_path %}{# Overwrite so that pwf can produce correct link #}
         <li class="pwf">
-            {% include "person_with_flag.html" %}
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/person_with_flag.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'U' %}
           {% set_global person_name = name %}
@@ -83,8 +83,8 @@
           {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
           {% set_global display_match_links = true %}
           <li class="pwf">
-            {% include "unlinked_person.html" %}
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/unlinked_person.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% endif %}
       {% endfor %}

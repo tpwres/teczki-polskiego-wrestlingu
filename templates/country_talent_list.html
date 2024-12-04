@@ -46,7 +46,7 @@
           {% set page_path = "@/" ~ page_path %}{# Overwrite so that pwf can produce correct link #}
           <li class="pwf">
             <a class="nu name" href="{{ get_url(path=page_path) }}">{{ person_name | safe }}</a>
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'T' %}
           {% set career_name = talent[5] %}
@@ -57,7 +57,7 @@
           {% set_global display_match_links = false %}
           <li class="pwf">
             <a class="nu name" href="{{ get_url(path=page_path) }}">{{ person_name | safe }}</a>
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'A' %}
           {% set career_key = page.extra|get(key='career_name', default=page.title) %}
@@ -69,7 +69,7 @@
           {% set_global display_match_links = false %}
         <li class="pwf">
             <a class="nu name" href="{{ get_url(path=page.path) }}">{{ person_name | safe }}</a>
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% elif flavor == 'U' %}
           {% set_global person_name = name %}
@@ -79,7 +79,7 @@
           {% set_global display_match_links = true %}
           <li class="pwf">
             <span class="name">{{ person_name }}</span>
-            {% include "person_orgs_matches.html" %}
+            {% include "roster/person_orgs_matches.html" %}
           </li>
         {% endif %}
     {% endfor %}
