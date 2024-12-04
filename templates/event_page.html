@@ -7,7 +7,7 @@
 {% block content %}
 <span class="event-date-location">
   <time class="event-date">{{ page.date }}</time>
-  {% include "event_location.html" %}
+  {% include "events/location.html" %}
 </span>
 <h1>
 {{ page.title }}
@@ -22,5 +22,5 @@
 {% endblock content %}
 
 {% block pagination %}
-  {% include "events_pagination_taxonomy.html" %}
+  {% include "events/pagination_taxonomy.html" %}
 {% endblock pagination %}
