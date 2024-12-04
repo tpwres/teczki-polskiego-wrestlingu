@@ -144,5 +144,6 @@ class SearchController extends Controller {
     }
 }
 
-window.Stimulus = Application.start()
+if (window.Stimulus === undefined)
+    window.Stimulus = Application.start()
 Stimulus.register('search', SearchController)
