@@ -23,6 +23,7 @@ setup_seo() {
   # Edit each file inline, inserting updated= into front matter
   git fetch --unshallow
   git ls-files content/ | \
+  grep -Ev '_index\.md$' | \
   while read FILE; do
       git log --pretty="$FILE %as" -1 -- "$FILE"
   done | while read FILE MTIME; do
@@ -36,9 +37,6 @@ setup_seo() {
 
 
 build() {
-  #python3 bin/build_metadata.py
-  #python3 bin/build_roster.py
-  #python3 bin/build_matches.py
   make all plot index
 
   zola -c build_cloudflare_config.toml build
