@@ -1,9 +1,10 @@
 import { Application, Controller } from "/stimulus.js"
 
 class LightboxController extends Controller {
-    static targets = ["dialog", "close", "prev", "next", "img", "caption", "desc", "attribution"]
+    static targets = ["dialog", "close", "prev", "next", "img", "caption", "desc", "attribution", "maximize", "minimize"]
 
     paginator
+    zoomed
 
     next() {
         if (!this.nextFigure) return
@@ -17,11 +18,39 @@ class LightboxController extends Controller {
         this.populate(this.prevFigure)
     }
 
+    toggle_maximize() {
+        if (this.zoomed) {
+            this.reset_zoom()
+            this.zoom_buttons({ maximize: true, minimize: false})
+            this.maximizeTarget.style.display = 'initial'
+            this.minimizeTarget.style.display = 'none'
+        } else {
+            this.imgTarget.style.objectFit = 'none'
+            this.imgTarget.style.removeProperty("height")
+            this.zoom_buttons({ maximize: false, minimize: true})
+            this.zoomed = true
+        }
+    }
+
+    reset_zoom() {
+        this.imgTarget.style.objectFit = 'contain'
+        this.imgTarget.style.height = '0'
+        this.imgTarget.style.removeProperty('zoom')
+        this.zoomed = false
+    }
+
+    zoom_buttons(options) {
+        this.maximizeTarget.style.display = options.maximize ? 'initial' : 'none'
+        this.minimizeTarget.style.display = options.minimize ? 'initial' : 'none'
+    }
+
     populate(figure) {
         const caption = figure.querySelector('figcaption').innerHTML
         const attribution = figure.querySelector('data.attribution').innerHTML
 
         this.imgTarget.src = figure.dataset.path
+        this.reset_zoom()
+        this.zoom_buttons({ maximize: true, minimize: false})
         this.descTarget.innerHTML = caption
 
         if (attribution)
@@ -42,6 +71,7 @@ class LightboxController extends Controller {
     }
 
     adjust(event) {
+        this.imgTarget.style.height = '0'
         // Note: previously used naturalWidth
         this.captionTarget.style.width = `clamp(50vw, ${this.imgTarget.width}px, 80vw)`
     }
