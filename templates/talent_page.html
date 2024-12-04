@@ -8,13 +8,13 @@
 {% include "h1_with_flag.html"%}
 
 {% if page.extra|get(key="toclevel", default=0) >= 1 %}
-  {% include "page_toc.html" %}
+  {% include "shared/toc.html" %}
 {% endif %}
 
 {{ page.content | safe }}
 
 {% if has_gallery -%}
-  {% include "auto_lightbox_dialog.html" -%}
+  {% include "shared/auto_lightbox_dialog.html" -%}
 {% endif -%}
 
 {% if has_career -%}
