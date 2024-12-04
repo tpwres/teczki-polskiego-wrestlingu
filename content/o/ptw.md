@@ -183,7 +183,8 @@ Talent were strictly prohibited from appearing in any other Polish rings, and an
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-exits.md), where the talent wanted to have more freedom and to be able to take bookings from other Polish organizations.
 This is similar to KPW's approach. Fans theorize that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and DDW.
-Pawłowski's appearance for Marcin Najman ("Oryginalne Zero" YouTube channel) in a video named ["Whole truth about Polish wrestling"](https://www.youtube.com/watch?v=KhZxEHCEqHo&ab_channel=OryginalneZero) prompted further controversy on Polish scene. Asked if he's the only wrestling promoter in Poland, he claimed that he is the only professional one, acknowledging the competition but calling them all "more or less amateurish projects". This prompted an impassioned response from ex-wrestler and current KPW(@/o/kpw.md) promoter [Piękny Kawaler](@/w/piekny-kawaler.md) who made a lengthy Facebook post addressing the remarks. He claimed that Pawłowski was fired from KPW due to being a self-centered mark, focusing on promoting his own persona instead of team effort. He said that current state of PTW is more resembling of a backyard than a professional wrestling federation. The post got a lot of agreeing comments from Polish wrestlers, current and former, from all sides of Polish scene: Dawid Oliwa, Bianca, Olgierd, Boro, Kamil Aleksander.
+
+Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled [The Whole Truth About Polish Wrestling][pawłowski-najman-zero], which prompted further controversy on the Polish scene. Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he is the only professional one, acknowledging the competition but calling them "more or less amateur projects". This prompted an impassioned response from the ex-wrestler and current KPW(@/o/kpw.md) promoter [Piękny Kawaler](@/w/piekny-kawaler.md), who made a lengthy Facebook post addressing the remarks. Kawaler claimed that Pawłowski was fired from KPW due to being a self-centered mark, focusing on promoting his own persona instead of team effort. He said that the current state of PTW is more resembling of a backyard than a professional wrestling federation. The post got a lot of agreeing comments from Polish wrestlers, current and former, from all sides of Polish scene: [David Oliwa](@/w/david-oliwa.md), [Bianca](@/w/bianca.md), [Olgierd](@/w/olgierd.md), [Boro](@/w/boro.md), [Eryk Lesak](@/w/eryk-lesak.md), [Referee Seweryn](@/w/sedzia-seweryn.md), [Michał Fux](@/w/michal-fux.md) and [Kamil Aleksander](@/w/kamil-aleksander.md).
 
 ## Foreign relations
 
@@ -216,7 +217,7 @@ The video features Pawłowski giving a pep-talk to Multi and his band, as well a
 Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#Post-Ryucon-New-venue-PTW-back-on-track) is located.
 Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Diana Strong](@/w/diana-strong.md).
 In August 2024, PTW launched their new show, "Czas na Wrestling" ("Time for Wrestling") on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage](https://telewizjatvt.pl/?s=czas+na+wrestling)
-In December 2024, Pawłowski, Strong and Nano Lopez made an appearance for Marcin Najman's "Oryginalne Zero" Youtube channel.
+In December 2024, Pawłowski, Strong and Nano Lopez made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel.
 
 ## Internet presence
 
@@ -248,4 +249,4 @@ In December 2024, Pawłowski, Strong and Nano Lopez made an appearance for Marci
 [live-istota-puncher]: https://www.youtube.com/watch?v=dq3qmzdzLYc&t=81s
 [young-multi-ak47]: https://www.youtube.com/watch?v=BXamVDoOSAw
 [fb-extreme-sports]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0DwHGQai69fPD3yYBa58LBvcCPFFLNsVShRaq8fru5VuiHaT9jhviRnyjk3X3rYqFl
-[pawłowski-najman-zero]: https://www.youtube.com/watch?v=KhZxEHCEqHo&ab_channel=OryginalneZero
+[pawłowski-najman-zero]: https://www.youtube.com/watch?v=KhZxEHCEqHo
