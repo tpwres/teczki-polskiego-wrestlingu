@@ -17,7 +17,7 @@
 
 {% if has_events -%}
   <h2 id="events">Events</h2>
-  {% include "event_calendar_link.html" %}
+  {% include "orgs/calendar_link.html" %}
 
   {% if page.extra.compact_event_list %}
     {% include "events/from_org_taxonomy_compact.html" -%}
@@ -28,7 +28,7 @@
 
 
 {% if not page.extra.hide_roster -%}
-  {% include "all_time_roster.html" -%}
+  {% include "orgs/all_time_roster.html" -%}
 {% endif -%}
 
 {% if has_gallery -%}
