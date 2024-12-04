@@ -32,28 +32,38 @@ dialog#lb
     transform: translateY(-50%)
     left: 0
 
+  button.maximize, button.minimize
+    position: absolute
+    padding: .3rem .5rem
+    color: var(--lightbox-nav-fg)
+    top: 0
+    right: 3rem
+
+  button.minimize
+    display: none
+
+  button.closebtn
+    background: var(--close-button)
+    color: var(--close-button-fg)
+    padding: .3rem .5rem
+    border: none
+    border-radius: 5px
+
   form button
     position: absolute
     top: 0
     right: 0
     background: transparent
-    font-size: 1.5rem
-
-    .closebtn
-      background: var(--close-button)
-      color: var(--close-button-fg)
-      padding: .3rem .5rem
-      border: none
-      border-radius: 5px
 
   figure
     background: var(--accent-bg)
     padding: 0.5rem
     display: flex
     flex-direction: column
+    max-height: calc(90vh - 1rem)
+    overflow: scroll
 
   img
-    height: 0
     object-fit: contain
     flex: 2 70vh
 

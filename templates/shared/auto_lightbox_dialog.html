@@ -1,30 +1,45 @@
 {% set root = config.extra.gallery_root ~ page.path %}
+{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
 <h2 id="gallery">Gallery</h2>
-<dialog id="lb">
+<dialog id="lb"
+        data-controller="lightbox"
+        data-lightbox-target="dialog"
+        data-action="keydown.right->lightbox#next keydown.left->lightbox#prev keydown.0->lightbox#zoom_in keydown.9->lightbox#zoom_out">
   <form method="dialog">
-    <button type="submit" autofocus>
-      <span aria-hidden class="closebtn">×</span>
+    <button class="closebtn" type="submit" autofocus data-lightbox-target="close">
+      <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#x"/></svg></span>
       <span class="sr-only">Close popup</span>
     </button>
   </form>
-  <button class="prev" type="button">
-    <span aria-hidden>«</span>
+  <button class="maximize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="maximize">
+    <span aria-hidden ><svg class="feather feather-inline"><use href="{{ sprite }}#maximize"/></svg></span>
+    <span class="sr-only">Toggle maximized</span>
+  </button>
+  <button class="minimize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="minimize">
+    <span aria-hidden data-lightbox-target="minimize"><svg class="feather feather-inline"><use href="{{ sprite }}#minimize"/></svg></span>
+    <span class="sr-only">Toggle maximized</span>
+  </button>
+  <button class="prev" type="button" data-lightbox-target="prev" data-action="lightbox#prev">
+    <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-left"/></svg></span>
     <span class="sr-only">Previous image</span>
   </button>
-  <button class="next" type="button">
-    <span aria-hidden>»</span>
+  <button class="next" type="button" data-lightbox-target="next" data-action="lightbox#next">
+    <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-right"/></svg></span>
     <span class="sr-only">Next image</span>
   </button>
   <figure>
-    <img>
-    <figcaption>
-      <p></p>
-      <small></small>
+    <img data-lightbox-target="img" data-action="load->lightbox#adjust" />
+    <figcaption data-lightbox-target="caption">
+      <p data-lightbox-target="desc"></p>
+      <small data-lightbox-target="attribution"></small>
     </figcaption>
   </figure>
 </dialog>
 <section>
-  <ul class="gallery">
+  <ul class="gallery"
+      data-controller="gallery"
+      data-gallery-lightbox-outlet="dialog"
+  >
     {% if page.extra.gallery.manifest %}
       {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}
     {% else %}
@@ -34,8 +49,8 @@
       {% set path = item.path -%}
       {% set caption = item | get(key="caption", default="") -%}
       <li>
-        <figure id="fig{{ loop.index }}" data-path="{{ root ~ path }}">
-          <a href="#img{{ loop.index }}" class="tn">
+        <figure id="fig{{ loop.index }}" data-path="{{ root ~ path }}" data-gallery-target="figure">
+          <a href="#img{{ loop.index }}" class="tn" data-action="gallery#open:prevent">
             <img src="{{ root ~ 'tn/' ~ path }}" alt=""/>
           </a>
 
@@ -49,77 +64,4 @@
     {% endfor %}
   </ul>
 </section>
-<script type="module">
-  const updateLightbox = (dialog, figure) => {
-    const caption = figure.querySelector('figcaption').innerHTML
-    const attribution = figure.querySelector('data.attribution').innerHTML
-    const img = dialog.querySelector('figure img')
-    const figcaption = dialog.querySelector('figure figcaption')
-    const desc = figcaption.querySelector('p')
-    const source = figcaption.querySelector('small')
-
-    img.src = figure.dataset.path
-    desc.innerHTML = caption
-    if (attribution)
-      source.innerHTML = 'Source: ' + attribution
-    else
-      source.innerHTML = ''
-
-    figcaption.style.width = `clamp(50vw, ${img.naturalWidth}px, 80vw)`
-
-    const [prevFig, nextFig] = findSiblingFigures(figure)
-    const prevBtn = dialog.querySelector('button.prev')
-    if (prevFig) {
-      prevBtn.style.display = ''
-      prevBtn.onclick = (ev) => updateLightbox(dialog, prevFig)
-    } else {
-      prevBtn.style.display = 'none'
-    }
-
-    const nextBtn = dialog.querySelector('button.next')
-    if (nextFig) {
-      nextBtn.style.display = ''
-      nextBtn.onclick = (ev) => updateLightbox(dialog, nextFig)
-    } else {
-      nextBtn.style.display = 'none'
-    }
-  }
-
-  const findSiblingFigures = (figure) => {
-    const nextItem = figure.parentElement.nextElementSibling
-    const nextFig = nextItem ? nextItem.querySelector('figure') : null
-    const prevItem = figure.parentElement.previousElementSibling
-    const prevFig = prevItem ? prevItem.querySelector('figure') : null
-    return [prevFig, nextFig]
-  }
-
-  const showLightbox = (ev) => {
-    const dialog = document.querySelector('dialog#lb')
-    const figure = ev.currentTarget.closest('figure')
-    updateLightbox(dialog, figure)
-    dialog.showModal()
-    ev.preventDefault()
-  }
-  document.addEventListener('DOMContentLoaded', (ev) => {
-    document.querySelectorAll("[id^=fig] a.tn").forEach((el) => {
-      el.addEventListener('click', showLightbox)
-    })
-
-    const dialog = document.querySelector('dialog#lb')
-
-    dialog.addEventListener('keydown', (ev) => {
-      switch (ev.key) {
-        case 'ArrowRight':
-          var btn = dialog.querySelector('button.next')
-          if (btn.style.display != 'none')
-            btn.click()
-          break
-        case 'ArrowLeft':
-          var btn = dialog.querySelector('button.prev')
-          if (btn.style.display != 'none')
-            btn.click()
-          break
-      }
-    })
-  })
-</script>
+<script type="module" src="/gallery.js"></script>
