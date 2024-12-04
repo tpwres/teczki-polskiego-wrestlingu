@@ -18,7 +18,9 @@ career_aliases = ["Oskar"]
 
 ## Professional wrestling career
 
-### 2024 Training & PpW Ewenement
+### PpW Ewenement (2024-present)
+
+#### Training and debut
 
 Oskar Aleksander started his wrestling training in [Ewenement Dojo](@/o/ewenement-dojo.md) - a training facility operated mostly by PpW-affiliated wrestlers, with [Jacob Crane](@/w/jacob-crane.md) as the head coach.
 In the span of a few months he became ready for his in-ring debut.
@@ -35,8 +37,10 @@ Besides his regular apperances as Oskar Aleksander he also performed as "Oskar S
 * Finishers:
   - Powerbomb
   - Boston Crab
+  
 * Managers:
   - Talent Agent
+  
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
  {{ org_badge(org='ppw') }} (2024-present) <br>
