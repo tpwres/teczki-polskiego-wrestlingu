@@ -11,7 +11,7 @@
 {{ page.content | safe }}
 
 <h2>Events</h2>
-{% include "venue_events_from_taxonomy.html" %}
+{% include "venue/events_from_taxonomy.html" %}
 
 {% if page.extra.gallery -%}
   {% include "shared/auto_lightbox_dialog.html" -%}
