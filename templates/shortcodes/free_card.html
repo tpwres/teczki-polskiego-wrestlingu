@@ -8,9 +8,9 @@
     </li>
 {% for row in data %}
   {% if row is object %}
-    {% include "object_row.html" %}
+    {% include "card/object_row.html" %}
   {% else %}
-    {% include "free_card_result_row.html" %}
+    {% include "card/free_result_row.html" %}
   {% endif %}
 {% endfor %}
 </ul>
