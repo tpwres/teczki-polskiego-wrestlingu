@@ -19,7 +19,7 @@
         {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
         <li data-date="{{ page.date }}">
            <time>{{page.date}}</time>
-           <span class="o">{% include "event_org_badges.html" %}</span>
+           <span class="o">{% include "events/org_badges.html" %}</span>
            <a class="p" href="{{get_url(path=page.path)}}">{{ page.title }}</a>
            <span class="c">
               {% if page.extra.city %}
