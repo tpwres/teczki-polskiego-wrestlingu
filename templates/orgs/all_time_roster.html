@@ -45,14 +45,14 @@
         {%- elif person_name != page.title -%}
           {%- set_global person_name = '<em>' ~ person_name ~ '</em>' -%}
         {%- endif -%}
-        {%- include "person_with_flag.html" -%}
+        {%- include "roster/person_with_flag.html" -%}
       {%- else -%}
         {%- set_global person_name = pname -%}
         {%- set_global appearances_entry = appearances|get(key=pname) -%}
         {%- set_global career_entry = career_dict|get(key=pname) -%}
         {%- set_global org = page.slug -%}
-        {%- include "unlinked_person.html" -%}
-        {%- include "person_alltime_entry.html" -%}
+        {%- include "roster/unlinked_person.html" -%}
+        {%- include "roster/person_alltime_entry.html" -%}
       {%- endif -%}
     </span>
     <strong>{{pair[1]}}</strong>
