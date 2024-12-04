@@ -46,7 +46,7 @@
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
           {% set_global display_match_links = false %}
-          {% set page_path = "@/" ~ page_path %}{# Overwrite so that pwf can produce correct link #}
+          {% set page_path = "@/" ~ page_path %}
           <li class="pwf">
             {% include "roster/person_with_flag.html" %}
             {% include "roster/person_orgs_matches.html" %}
@@ -58,6 +58,7 @@
           {% set_global crew_appearances_entry = crew_appearances|get(key=career_name, default=[]) %}
           {% set_global career_entry = career_dict|get(key=career_name, default=empty_obj) %}
           {% set_global display_match_links = false %}
+          {% set page_path = "@/" ~ page_path %}
           <li class="pwf">
             {% include "roster/person_with_flag.html" %}
             {% include "roster/person_orgs_matches.html" %}
@@ -71,8 +72,8 @@
           {% set_global career_entry = career_dict|get(key=career_key, default=empty_obj) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
           {% set_global display_match_links = false %}
-          {% set page_path = "@/" ~ page_path %}{# Overwrite so that pwf can produce correct link #}
-        <li class="pwf">
+          {% set page_path = "@/" ~ page_path %}
+          <li class="pwf">
             {% include "roster/person_with_flag.html" %}
             {% include "roster/person_orgs_matches.html" %}
           </li>
