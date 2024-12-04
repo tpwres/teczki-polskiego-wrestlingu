@@ -38,7 +38,7 @@
         </span>
         {% set row = match.m %}
         <span class="r">
-            {% include "career_result_row.html" %}
+            {% include "career/result_row.html" %}
             {% set event_path = "@/" ~ match.p %}
             <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
             {% if match.tt %}
