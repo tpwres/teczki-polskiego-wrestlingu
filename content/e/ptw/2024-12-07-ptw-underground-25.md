@@ -41,6 +41,9 @@ For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, wh
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     s: 'Hardcore Tornado Tag Team Match'
     nc: upcoming
+- - 'Newt Nova'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - nc: upcoming
 {% end %}
 
 ### References
