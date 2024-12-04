@@ -32,7 +32,7 @@
         <meta property="og:description" content="{{ page.summary | striptags }}" />
       {% endif -%}
       {% if page.extra.gallery -%}
-        {% include "og_gallery_extractor.html" -%}
+        {% include "shared/og_gallery_extractor.html" -%}
       {% else %}
         <meta property="og:image" content="{{ get_url(path='og-default.png') }}" />
       {% endif %}
