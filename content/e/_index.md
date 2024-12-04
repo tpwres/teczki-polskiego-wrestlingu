@@ -1,6 +1,6 @@
 +++
 title = "Events"
-template = "year_list_section.html"
+template = "main_event_list.html"
 sort_by = "weight"
 +++
 
