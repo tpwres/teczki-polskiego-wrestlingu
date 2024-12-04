@@ -24,9 +24,9 @@
     {% set_global rownum = 1 %}
     {% for row in data %}
       {% if row is object %}
-        {% include "object_row.html" %}
+        {% include "card/object_row.html" %}
       {% else %}
-        {% include "card_result_row.html" %}
+        {% include "card/result_row.html" %}
         {% set_global rownum = rownum + 1 %}
       {% endif %}
     {% endfor %}
@@ -43,10 +43,10 @@
     {% set_global rownum = 1 %}
     {% for row in data %}
       {% if row is object %}
-        {% include "object_row.html" %}
+        {% include "card/object_row.html" %}
         {% set_global rownum = 1 %}
       {% else %}
-        {% include "card_match_row.html" %}
+        {% include "card/match_row.html" %}
         {% set_global rownum = rownum + 1 %}
       {% endif %}
     {% endfor %}
