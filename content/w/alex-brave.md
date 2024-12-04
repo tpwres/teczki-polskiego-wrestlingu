@@ -1,8 +1,48 @@
 +++
 title = "Alex Brave"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
 career_aliases = ["S. Rafał", "Sędzia Rafał"]
 +++
+
+## Basic info
+
+* Years active: 2021-present
+
+* Gimmicks/nicknames:
+ - Sędzia Rafał {{ org_badge(orgs=['ptw']) }} (2022-2023)
+ - S.Rafał {{ org_badge(orgs=['ptw']) }} (2023-2024)
+ - Alex Brave {{ org_badge(orgs=['ptw']) }} (2024-present)
+
+* Trained by:
+  - [PTW Academy](@/o/ptw-academy.md) (2022-present)
+ 
+## Professional wrestling career
+
+### Prime Time Wrestling (2022-present)
+
+#### Debut as a referee
+
+Rafał made his debut as a referee in August 2022 as sole official at [Underground 7](@/e/ptw/2022-08-28-ptw-underground-7.md). He joined Referees [Matek](@/w/sedzia-matek.md) and [Sewi](@/w/sedzia-seweryn.md) and began to make regural apperances at PTW shows since then, still working to become full-time wrestler.
+
+#### Asian Scandal and becoming S.Rafał
+
+In late 2024 he bacame one of the nominees in [PTW Awards](@/a/ptw-awards.md) - in "Referee of the Year" category. During the popular vote he was outvoted by Matek & Sewi over 100 votes each, but unexpedetly gained couple of hundreds votes. Upon close examination it appeared that all of his votes were in fact bought on one of bot websites. All of them were coming from Vietnam. This was called an "Asian Scandal" with Rafał being the main suspect behind it. The real-life controversy was turned into a storyline, where the main prosecutors in Rafał's trial were Sewi The Referee and [Puncher](@/w/puncher.md) - who named Rafał "Srafał" (combination of Rafał with "Sra" prefix - meaning "Shit-Fał). Even though it was later revealed that one of the wrestling fans - Szymon "Modzel" Modzelewski - was the one behind whole scandal Rafał was still suspended from his Referee duties.
+
+Besides suspention he also got involved into a squash match against Puncher at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md) as a last-chance opportunity to save himself from suspention.
+He made his return as a cocky heel persona still caled S.Rafał at [Underground 20](@/e/ptw/2023-12-10-ptw-underground-20.md) where he was again quickly defeated by [King Kaiden](@/w/king-kaiden.md). 
+
+At [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) he joined Gold Rush Battle Royal for [PTW Championship](@/c/ptw-championship.md), but he was quickly eliminated by Santino Marella. 
+
+#### Becoming Alex Brave
+
+At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) he officialy declared his name change to "Alex Brave" while still maintaining his cocky over-intelectual heel persona. He formed an alliance with another heel - [Vincent Caravaggio](@/w/vincent-caravaggio.md) - to feud against [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md). He also started his own segment called "Alex Brave Show". 
+
+## In wrestling
+
+* Finishers:
+  - Moonsault (2024-)
+ 
