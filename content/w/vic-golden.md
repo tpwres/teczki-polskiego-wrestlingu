@@ -1,7 +1,7 @@
 +++
 title = "Vic Golden"
 template = "talent_page.html"
-authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Ref"]
+authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
@@ -89,9 +89,9 @@ Golden's last match in PTW took place at [PTW x RYUCON 2](@/e/ptw/2023-07-16-ptw
 In 2023, Pure Gold made appearances outside of Poland, for Austrian Rings of Europe and Danish Nordic Elite Wrestling.
 In September 2023, Vic was injured at an RoE event in Austria and sidelined from competition. He was quietly removed from PTW's roster page in the early 2024.
 
-### PpW Ewenement & Legends Contract (2024)
+### PpW Ewenement (2024-present)
 
-#### Pure Gold reunion
+#### Pure Gold reunion & Legends Contract
 
 During [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), Vic's Pure Gold partner Gabriel Queen had a match against another ex-MZW, ex-PTW wrestler [Jacob Crane](@/w/jacob-crane.md).
 Despite not being billed for the show, Vic intervened in the post-match beatdown, saving his partner.
@@ -107,10 +107,13 @@ After Legia Łysych joined [Zmowa](@/a/the-collusion.md), Pure Gold became their
 * Finishers:
   - 450 Splash (2013-2014)
   - _Slayswitch_ / Killswitch (2015-)
+  
 * With [Gabriel Queen](@/w/gabriel-queen.md):
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
+  
 * Tag Teams and stables:
   - Pure Gold (2022-)
+  
 * Entrance music:
   - "Witness" by Mindless Self Indulgence
   {{ org_badge(orgs=['mzw', 'ddw']) }} (2015-2021) <br>
