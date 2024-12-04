@@ -19,8 +19,6 @@ source = "Facebook @PrimeTimeWrestlingPL"
 
 PTW Underground 25 is an upcoming event by [Prime Time Wrestling](@/o/ptw.md). The event's name refers to the date, close to December 6th, when Poland celebrates [Saint Nicholas Day][st-nicholas-day], and is when the Christmas season kicks into gear. This makes its similar to [PTW Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md) which was also Christmas-themed.
 
-<!-- more -->
-
 For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, who's very active on the British and Irish scenes since 2017, primarily in Pro-Wrestling EVE and Over The Top Wrestling.
 
 {% card(predicted=true) %}
@@ -43,6 +41,9 @@ For this event, PTW invited Session Moth Martina, Irish wrestler from Dublin, wh
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     s: 'Hardcore Tornado Tag Team Match'
     nc: upcoming
+- - 'Newt Nova'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - nc: upcoming
 {% end %}
 
 ### References
