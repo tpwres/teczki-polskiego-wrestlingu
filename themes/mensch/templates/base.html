@@ -67,9 +67,17 @@
     polyfillCountryFlagEmojis();
   </script>
 
-  {%- if config.generate_feed -%}
-    <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
-  {% endif %}
+  {% block rss %}
+    {%- if config.generate_feeds -%}
+      {%- for filename in config.feed_filenames -%}
+        {% if filename == "atom.xml" -%}
+          <link href="{{ get_url(path=filename) | safe }}" rel="alternate" type="application/atom+xml" title="Atom feed"/>
+        {% elif filename == "rss.xml" -%}
+          <link href="{{ get_url(path=filename) | safe }}" rel="alternate" type="application/rss++xml" title="RSS feed"/>
+        {% endif -%}
+      {% endfor -%}
+    {% endif %}
+  {% endblock rss %}
 
   {%- block extra_head %}
   {% endblock extra_head -%}
