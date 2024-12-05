@@ -1,10 +1,11 @@
 import { Application, Controller } from "/stimulus.js"
 
 class LightboxController extends Controller {
-    static targets = ["dialog", "close", "prev", "next", "img", "caption", "desc", "attribution", "maximize", "minimize"]
+    static targets = ["dialog", "close", "prev", "next", "maximize", "minimize",
+                      "container", "img", "caption", "desc", "attribution"]
 
     paginator
-    zoomed
+    maximised
 
     next() {
         if (!this.nextFigure) return
@@ -19,29 +20,33 @@ class LightboxController extends Controller {
     }
 
     toggle_maximize() {
-        if (this.zoomed) {
+        if (this.maximised) {
             this.reset_zoom()
             this.zoom_buttons({ maximize: true, minimize: false})
-            this.maximizeTarget.style.display = 'initial'
-            this.minimizeTarget.style.display = 'none'
         } else {
-            this.imgTarget.style.objectFit = 'none'
-            this.imgTarget.style.removeProperty("height")
+            // this.imgTarget.style.objectFit = 'none'
+            this.imgTarget.style.removeProperty("max-height")
+            this.imgTarget.style.setProperty('max-width', 'unset', 'important')
             this.zoom_buttons({ maximize: false, minimize: true})
-            this.zoomed = true
+            this.containerTarget.classList.add('maximised')
+            this.captionTarget.style.visibility = 'collapse'
+            this.maximised = true
         }
     }
 
     reset_zoom() {
-        this.imgTarget.style.objectFit = 'contain'
-        this.imgTarget.style.height = '0'
-        this.imgTarget.style.removeProperty('zoom')
-        this.zoomed = false
+        const img = this.imgTarget
+        img.style.maxHeight = '100%'
+        img.style.removeProperty('zoom')
+        img.style.removeProperty('max-width')
+        this.maximised = false
     }
 
     zoom_buttons(options) {
         this.maximizeTarget.style.display = options.maximize ? 'initial' : 'none'
         this.minimizeTarget.style.display = options.minimize ? 'initial' : 'none'
+        this.captionTarget.style.visibility = 'initial'
+        this.containerTarget.classList.remove('maximised')
     }
 
     populate(figure) {
@@ -71,9 +76,9 @@ class LightboxController extends Controller {
     }
 
     adjust(event) {
-        this.imgTarget.style.height = '0'
+        this.imgTarget.style.maxHeight = '100%'
         // Note: previously used naturalWidth
-        this.captionTarget.style.width = `clamp(50vw, ${this.imgTarget.width}px, 80vw)`
+        this.captionTarget.style.width = `clamp(50vw, ${this.imgTarget.width}px, 76vw)`
     }
 
     show() {

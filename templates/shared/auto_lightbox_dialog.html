@@ -28,7 +28,9 @@
     <span class="sr-only">Next image</span>
   </button>
   <figure>
-    <img data-lightbox-target="img" data-action="load->lightbox#adjust" />
+    <div class="img-container" data-lightbox-target="container">
+      <img data-lightbox-target="img" data-action="load->lightbox#adjust" />
+    </div>
     <figcaption data-lightbox-target="caption">
       <p data-lightbox-target="desc"></p>
       <small data-lightbox-target="attribution"></small>
