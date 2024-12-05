@@ -15,8 +15,9 @@
 
 {% set_global rx = [] -%}
 {% for name, count in roster -%}
-{% set pair = [name, count] -%}
-{% set_global rx = rx | concat(with=[pair]) -%}
+  {% set slug = name | slugify %}
+  {% set pair = [name, slug, count] -%}
+  {% set_global rx = rx | concat(with=[pair]) -%}
 {% endfor -%}
 
 <h2 id="all-time-roster">All-time roster</h2>
@@ -24,8 +25,9 @@
 <ul class="talentlist-section column-rule">
 {# With a stable sort, this results in results sorted by count desc,
     but items with equal count are sorted alphabetically #}
-{% for pair in rx|sort(attribute='0')|reverse|sort(attribute='1')|reverse -%}
+{% for pair in rx|sort(attribute='1')|reverse|sort(attribute='2')|reverse -%}
   {% set_global pname = pair[0] -%}
+  {% set count = pair[2] -%}
   <li class="talent-with-count">
     <span class="pwf">
       {%- if pname is containing('](') -%}{# A markdown link to the talent's page -#}
@@ -55,7 +57,7 @@
         {%- include "roster/person_alltime_entry.html" -%}
       {%- endif -%}
     </span>
-    <strong>{{pair[1]}}</strong>
+    <strong>{{ count }}</strong>
   </li>
 {% endfor -%}
 </ul>
