@@ -27,7 +27,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - - '[Hirinus](@/w/hirinus.md)'
   - '2 Chamy: [Automatico](@/w/rob-scaffold.md), [Black Orion](@/w/johnny-blade.md)'
   - s: Handicap Match
-  - nc: '?'
+    nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
   - nc: '?'
