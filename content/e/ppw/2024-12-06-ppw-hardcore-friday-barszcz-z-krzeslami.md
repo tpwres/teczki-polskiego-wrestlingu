@@ -10,7 +10,7 @@ hide_results = true
 city = "Warszawa"
 +++
 
-"Barszcz z Krzesłami" (_Borscht with Chairs_) is an upcoming event in [PpW's](@/o/ppw.md) revived Hardcore Friday series.
+"Barszcz z Krzesłami" (_Borscht with Chairs_) is an upcoming event in [PpW's](@/o/ppw.md) revived Hardcore Friday series, which will be held on December 6th 2024, in PpW's original venue, motorcycle club [2KOŁA](@/v/2kola.md).
 The name of the event is a play on "barszcz z uszkami", a traditional Polish soup [served at Christmas Eve][wigilia].
 
 <!-- more -->
@@ -29,6 +29,12 @@ The name of the event is a play on "barszcz z uszkami", a traditional Polish sou
   - s: 'Non-Title Match'
     nc: upcoming
 - - '[Olgierd](@/w/olgierd.md)'
+  - '???'
+  - nc: upcoming
+- - '[Goblin](@/w/goblin.md)'
+  - '???'
+  - nc: upcoming
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '???'
   - nc: upcoming
 {% end %}
