@@ -156,7 +156,7 @@ class Match:
     tag_team_re = re.compile(r'''
         ^
          (?:
-           (?P<team>[\w\s]+) # Team name followed by a colon
+           (?P<team>[-'\w\s]+) # Team name followed by a colon
            (?:\s*\(c\))? # Optional champion marker
            : # Followed by a colon
          )? # All optional
