@@ -24,7 +24,7 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
   - Lucas Robinson
 - - '[Dom Taylor](@/w/dom-taylor.md)'
   - '[Chemik](@/w/chemik.md)'
-  - Matthias Bernstein,
+  - Matthias Bernstein
   - s: Three Way Match
 - - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Rosetti](@/w/rosetti.md)'
