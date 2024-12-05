@@ -24,7 +24,7 @@ The event saw the return of LaVonce and the PTW debut of British wrestler Nights
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
 - - '[Spartan](@/w/spartan.md)'
-  - 'Luca Bjorn'
+  - '[Luca Bjorn](@/w/luca-bjorn.md)'
 - - '[Krampus](@/w/krampus.md)'
   - 'Newt Nova'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'

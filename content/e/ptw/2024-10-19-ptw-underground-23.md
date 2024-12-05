@@ -28,7 +28,7 @@ Debuting for PTW at this show were:
 - - '["The Hidden Gem" Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
 - - '[Max Speed](@/w/max-speed.md)'
-  - 'Luca Bjorn'
+  - '[Luca Bjorn](@/w/luca-bjorn.md)'
   - s: Trick or Treat Hardcore Match
 - - '[Alex Brave](@/w/alex-brave.md)'
   - g: true
