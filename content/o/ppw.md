@@ -108,10 +108,16 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 
 ## Championships
 
-| Championship | Current champion(s) | Notes |
-|--|--|--|
-| [PpW Championship][ppw-c] | [Gustav Gryffin](@/w/gustav-gryffin.md) | Won an additional title match immediately after [Biesiad](@/w/biesiad.md) defeated champion [Feager](@/w/feager.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). |
-| [PpW European Ultraviolent Championship][ppw-uvc] | [Johnny Blade](@/w/johnny-blade.md) | Eliminated champion [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), then defeated [Isnorr](@/w/isnorr.md) to reclaim the belt. |
+{% championship() %}
+- - '[PpW Championship](@/c/ppw-championship.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - >
+    Won an additional title match immediately after [Biesiad](@/w/biesiad.md) defeated champion [Feager](@/w/feager.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+- - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - >
+    Eliminated champion [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), then defeated [Isnorr](@/w/isnorr.md) to reclaim the belt.
+{% end %}
 
 ## Internet presence
 

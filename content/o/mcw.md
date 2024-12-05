@@ -40,9 +40,11 @@ In addition to the events listed below, MCW also held two undated demonstrations
 
 MCW has one singles championship, which was introduced in late 2019.
 
-| Championship | Current champion | Notes |
-|---|---|---|
-| [MCW Championship](@/c/mcw-championship.md) | Jack Kalom | Defeated [RAV](@/w/rav.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md) |
+{% championship() %}
+- - '[MCW Championship](@/c/mcw-championship.md)'
+  - Jack Kalom
+  - Defeated [RAV](@/w/rav.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)
+{% end %}
 
 ### References
 

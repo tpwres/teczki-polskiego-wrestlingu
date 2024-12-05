@@ -1,0 +1,8 @@
+{% set title = row[0] %}
+{% set champ = row[1] %}
+{% set notes = row[2] | default(value='') %}
+<li class="champ">
+  <span class="c">{{ title | markdown(inline=true) | safe }}</span>
+  <span class="r">{{ champ | markdown(inline=true) | safe }}</span>
+  <span class="n">{{ notes | markdown(inline=true) | safe }}</span>
+</li>

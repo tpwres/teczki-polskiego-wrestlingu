@@ -62,10 +62,16 @@ In 2020, local branch of the national broadcaster TVP3 Wrocław published a [sho
 
 MZW has one singles championship, with Shadow having the longest combined reigns as of 2024. Between 2016 and 2019 they also used to have a Tag Team championship, currently inactive.
 
-| Championship | Current champion | Notes |
-|---|---|---|
-| [MZW Championship][mzw-c] | [Matt Buckna](@/w/matt-buckna.md) | Defeated [Aron Wake](@/w/aron-wake.md) at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) |
-| [MZW Tag Team Championship][mzw-ttc] | **INACTIVE** since 2019-03-23 | Final Champions: Wataha (Apollo Anderson & [Justin Joy](@/w/justin-joy.md)) |
+{% championship() %}
+- - '[MZW Championship](@/c/mzw-championship.md)' 
+  - '[Matt Buckna](@/w/matt-buckna.md)' 
+  - >
+    Defeated [Aron Wake](@/w/aron-wake.md) at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)
+- - '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
+  - |
+    **INACTIVE** since 2019-03-23
+    Final Champions: Wataha (Apollo Anderson & [Justin Joy](@/w/justin-joy.md))
+{% end %}
 
 ## References
 

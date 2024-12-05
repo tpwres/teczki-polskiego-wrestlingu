@@ -71,7 +71,14 @@ After the organization dissolved in 2018, some unspecified wrestlers were announ
 
 ### Championships
 
-DFW had one singles championship, introduced and awarded at the first (and only) [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was Chris Hunter, and the final person to hold the belt was Norris.
+DFW had one singles championship, introduced and awarded at the first (and only) [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was Chris Hunter.
+
+{% championship() %}
+- - '[DFW Championship](@/c/dfw-championship.md)'
+  - 'Final champion: [Norris](@/w/isnorr.md)'
+  - >
+    Won a gauntlet match for the vacated belt at [DFW Charity Gauntlet Match](@/e/dfw/2018-03-08-dfw-charity-gauntlet-match.md)
+{% end %}
 
 Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for another belt.
 
