@@ -101,7 +101,7 @@ While Boro never defended the title, he was also recognized as a champion.
     ed: 2024-08-25
     en: '[PTW Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md)'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
-  - "L'Orda: Luca Bjorn, [Rust](@/w/rust.md)"
+  - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
   - s: Tag Team Match
     ed: 2024-12-07
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
