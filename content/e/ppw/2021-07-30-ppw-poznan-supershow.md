@@ -20,20 +20,27 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 - d: Day 1
 - - Superior
   - '[Cade Bruce](@/w/mister-z.md)'
+  - nc: '?'
 - - '[Direk](@/w/direk.md)'
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
+  - nc: '?'
 - - '[Hirinus](@/w/hirinus.md)'
   - '2 Chamy: [Automatico](@/w/rob-scaffold.md), [Black Orion](@/w/johnny-blade.md)'
   - s: Handicap Match
+  - nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
+  - nc: '?'
 - - '[Esteban Lucha](@/w/biesiad.md)'
   - '[Czacha](@/w/johnny-blade.md)'
+  - nc: '?'
 - - '[Adam Wong](@/w/adam-wong.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
+  - nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Hades](@/w/olgierd.md)'
   - s: Hardcore Match
+    nc: '?'
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
@@ -44,21 +51,28 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   - '[Direk](@/w/direk.md)'
   - '[Hades](@/w/olgierd.md)'
   - s: Royal Rumble
+    nc: '?'
 - d: Day 2
   date: 2021-07-31
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
+  - nc: '?'
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
+  - nc: '?'
 - - '[Hades](@/w/olgierd.md)'
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
+  - nc: '?'
 - - '[Cade Bruce](@/w/mister-z.md)'
   - '[Madman Charlie](@/w/madman-charlie.md)'
+  - nc: '?'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
   - s: Classic Wrestling Match
+    nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Bonus CBD](@/w/gabriel-queen.md)'
+  - nc: '?'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
