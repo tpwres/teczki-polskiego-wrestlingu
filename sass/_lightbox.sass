@@ -37,7 +37,7 @@ dialog#lb
     padding: .3rem .5rem
     color: var(--lightbox-nav-fg)
     top: 0
-    right: 3rem
+    right: 4rem
 
   button.minimize
     display: none
@@ -46,13 +46,11 @@ dialog#lb
     background: var(--close-button)
     color: var(--close-button-fg)
     padding: .3rem .5rem
-    border: none
-    border-radius: 5px
 
   form button
     position: absolute
     top: 0
-    right: 0
+    right: 1rem
     background: transparent
 
   figure
@@ -61,17 +59,31 @@ dialog#lb
     display: flex
     flex-direction: column
     max-height: calc(90vh - 1rem)
-    overflow: scroll
+    overflow: hide
+
+    .img-container
+      flex: 2 70vh
+      min-height: 30vh
+      max-width: calc(100vw - 4rem)
+      overflow: hide
+
+      &.maximised
+        flex: 2 calc(90vh - 1.5rem)
+        overflow: scroll
 
   img
     object-fit: contain
-    flex: 2 70vh
 
   figcaption
     align-self: flex-end
     margin: 0 auto
     color: var(--fg)
-    /* flex: 1 10vh
+    flex: 1 auto
+    @media screen and (max-width: 720px)
+      font-size: 0.8rem
+
+    p
+      margin-bottom: 0
 
   .sr-only
     display: none
