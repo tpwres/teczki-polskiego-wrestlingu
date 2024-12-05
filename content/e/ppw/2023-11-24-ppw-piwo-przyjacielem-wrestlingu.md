@@ -18,20 +18,26 @@ Piwo Przyjacielem Wrestlingu (_"Beer Is Wrestling's Friend"_) was an event by Pp
 Because the event was an exhibition show held for a mostly non-wrestling audience, the performers focused on comedy and invented new, humorous gimmicks. The card listed here covers both days of the event.
 
 {% card() %}
-- - "[Karol M](@/w/goblin.md)"
-  - "[Miłosz Z](@/w/mister-z.md)"
+- - '[Karol M](@/w/goblin.md)'
+  - '[Miłosz Z](@/w/mister-z.md)'
   - s: Young Lions Match
+    nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Striker](@/w/royal-striker.md)'
-  - Mamet
+  - 'Mamet'
+  - nc: '?'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - "[Steven Kimono](@/w/biesiad.md)"
-- - "[Czacha](@/w/johnny-blade.md)"
-  - "[El Senior Cerveza](@/w/goblin.md)"
+  - '[Steven Kimono](@/w/biesiad.md)'
+  - nc: '?'
+- - '[Czacha](@/w/johnny-blade.md)'
+  - '[El Senior Cerveza](@/w/goblin.md)'
+  - nc: '?'
 - - '[Feager](@/w/feager.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
+  - nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Bonus CBD](@/w/gabriel-queen.md)'
+  - nc: '?'
 - - >
     Team Biesiad:
     [Biesiad Strong](@/w/biesiad.md),
@@ -44,25 +50,31 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
     [Isnorr](@/w/isnorr.md)
     [Gustav Gryffin](@/w/gustav-gryffin.md)
     [Kapitan Bazooka](@/w/kapitan-bazooka.md)
-  - nc: "?"
-    s: "4 vs 4 Elimination Match"
+  - s: "4 vs 4 Elimination Match"
+    nc: '?'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Feager](@/w/feager.md)'
+  - nc: '?'
 - - '[Czesław Pierdolec](@/w/kapitan-bazooka.md)'
   - "[Steven Kimono](@/w/biesiad.md)"
+  - nc: '?'
 - - "[Isnorr](@/w/isnorr.md)"
   - "[Mister Z](@/w/mister-z.md)"
   - "[Striker](@/w/royal-striker.md)"
-  - Mamet
+  - 'Mamet'
   - s: "New Jack Tribute Match"
+    nc: '?'
 - - 'Bracia Pierdolec: [Czesław Pierdolec](@/w/kapitan-bazooka.md), [Gustav Pierdolec](@/w/gustav-gryffin.md)'
   - "Bracia Kimono: [Steven Kimono](@/w/biesiad.md), Konnan Kimono"
   - s: Tag Team Match
-- - "[Hardcore Gustav](@/w/gustav-gryffin.md)"
-  - "[El Senior Cerveza](@/w/goblin.md)"
-- - "[Kapral Kornel](@/w/sedzia-kornel.md)"
+    nc: '?'
+- - '[Hardcore Gustav](@/w/gustav-gryffin.md)'
+  - '[El Senior Cerveza](@/w/goblin.md)'
+  - nc: '?'
+- - '[Kapral Kornel](@/w/sedzia-kornel.md)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
+  - nc: '?'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Goblin](@/w/goblin.md)'
@@ -71,6 +83,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - '[Feager](@/w/feager.md)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
   - s: 20 man Royal Rumble
+    nc: '?'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
