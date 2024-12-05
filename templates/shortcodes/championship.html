@@ -1,0 +1,11 @@
+{% set data = load_data(literal=body,format="yaml") %}
+<ul class="championship">
+  <li class="header">
+    <span class="c">Championship</span>
+    <span class="r">Current champion(s)</span>
+    <span class="n">Notes</span>
+  </li>
+  {% for row in data %}
+    {% include "orgs/championship_row.html" %}
+  {% endfor %}
+</ul>

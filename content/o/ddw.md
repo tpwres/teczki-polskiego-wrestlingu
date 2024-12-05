@@ -27,6 +27,15 @@ Finally, Roid decided to close down DDW and let that team run things under a new
 One character in that history, although a non-wrestler, was Arkadiusz Pawłowski. Active on the internet at the time, he had grand ambitions to bring WWE to host a show in Poland, although he had no experience or contacts to pull that off. That didn't stop him from claiming that DDW was going to host a match at Night of Champions II, an MMA event in Włocławek, and he was to book the show and gather sponsors and media coverage. That did not happen, and the actual showrunners denied any knowledge of his actions, calling Pawłowski a fraud. That did not stop him from gaining a role in DDW as a ring announcer and manager. He was also a member of the aforementioned team
 that took over from DDW in Gdańsk. A couple years later Pawłowski would go on to create [PTW](@/o/ptw.md), this time with more experience under his belt, with similar ambitions to what DDW originally wanted to achieve.
 
+## Championships
+
+{% championship() %}
+- - '[DDW International Championship](@/c/ddw-international-championship.md)'
+  - 'Final champion: [Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - >
+    Defeated [Joe Legend](@/w/joe-legend.md) at [DDW #7](@/e/ddw/2012-03-10-ddw-7.md)
+{% end %}
+
 ### References
 
 * [Polish Wrestling History Part 2 on mywrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) (in Polish)

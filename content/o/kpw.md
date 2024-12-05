@@ -78,11 +78,21 @@ As of 2024, KPW has one tag team championship and two singles championships. The
 
 The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 2018 and the first champions crowned in 2018, at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md).
 
-| Championship | Current champion(s) | Notes |
-|---|---|---|
-| [KPW Championship](@/c/kpw-championship.md) | Hans Schulte | Defeated [Red Scorpion](@/w/red-scorpion.md) at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) |
-| [KPW OldTown Championship](@/c/kpw-old-town-championship.md) | [Chemik](@/w/chemik.md) | Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md) |
-| [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) | The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) | Defeated Die Ordnung (Veit Müller, Hans Schulte) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) |
+
+{% championship() %}
+- - '[KPW Championship](@/c/kpw-championship.md)'
+  - '[Hans Schulte](@/w/hans-schulte.md)'
+  - >
+    Defeated [Red Scorpion](@/w/red-scorpion.md) at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)
+- - '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+  - '[Chemik](@/w/chemik.md)'
+  - >
+    Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md)
+- - '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+  - 'The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
+  - >
+    Defeated Die Ordnung ([Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)
+{% end %}
 
 ### References
 
