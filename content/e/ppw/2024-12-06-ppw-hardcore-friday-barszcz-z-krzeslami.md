@@ -14,7 +14,7 @@ The name of the event is a play on "barszcz z uszkami", a traditional Polish sou
 
 <!-- more -->
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Goblin](@/w/goblin.md)'
