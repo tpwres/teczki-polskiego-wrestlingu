@@ -21,9 +21,6 @@
 {% set appearances = [] %}
 {% set matches_by_date = my_matches | sort(attribute='d') %}
 {% set my_match_pos = my_appearances | group_by(attribute='0') %}
-<pre>
-  {{ my_match_pos | json_encode(pretty=true) }}
-</pre>
 
 {% if my_matches %}
 <h3>Matches and segments</h3>
@@ -40,7 +37,6 @@
             {% for org in match.o %}
               {{ macros::promolink_color(code=org, styles=org_styles) }}
             {% endfor %}
-            {{ match.i }}
         </span>
         {% set row = match.m %}
         {# It may happen that the same match.i happens more than once #}
