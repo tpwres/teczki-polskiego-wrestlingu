@@ -26,7 +26,6 @@
 {% if segment %}
   <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others %}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
 {% else %}
-  {{ pos }}
   {% if bodies == 0 and not final.nc %} Winner: {% endif %}
   {% if pos == 0 %}
     <strong>{{ winner | markdown(inline=true) | safe }}</strong>
