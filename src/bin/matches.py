@@ -30,7 +30,7 @@ def main():
     events_dir = content_dir / "e"
     event_pages = events_dir.glob("**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
-    i = 0
+    global_match_num = 0
     for path in event_pages:
         try:
             page = EventPage(path, verbose=False)
@@ -52,6 +52,7 @@ def main():
                 n=page.title,
                 m=bout,
                 p=relative_path,
+                i=global_match_num
             )
             if predicted:
                 info['tt'] = 'predicted'
@@ -62,11 +63,11 @@ def main():
 
             all_bouts.append(info)
 
-            for person in bout.all_names():
+            for index, person in bout.all_names_indexed():
                 if not accepted_name(person.name): continue
                 bouts = appearances.setdefault(person.name, [])
-                bouts.append(i)
-            i += 1
+                bouts.append((global_match_num, index))
+            global_match_num += 1
 
         if not card.crew: continue
 
@@ -92,6 +93,11 @@ def main():
 
     with (data_dir / 'appearances.json').open('w') as f:
         print("Saving appearance map to %s" % f.name)
+        app_simple = {name: [apr[0] for apr in bouts] for name, bouts in appearances.items()}
+        json.dump(app_simple, f)
+
+    with (data_dir / 'appearances_v2.json').open('w') as f:
+        print("Saving appearance map v2 to %s" % f.name)
         json.dump(appearances, f)
 
     with (data_dir / 'crew_appearances.json').open('w') as f:
