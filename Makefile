@@ -28,7 +28,7 @@ index: $(MINISEARCH_INDEX)
 clean:
 	rm -rf $(ROSTERS) $(METADATA) $(PLOTS) $(CAL) $(MINISEARCH_INDEX) data/all_time_roster.json data/aliases.json
 
-data/all_matches.json data/appearances.json data/crew_appearances.json &: content/e/**/*.md
+data/all_matches.json data/appearances.json data/crew_appearances.json data/appearances_v2.json &: content/e/**/*.md
 	bin/build-matches
 
 data/career.json: content/e/**/*.md

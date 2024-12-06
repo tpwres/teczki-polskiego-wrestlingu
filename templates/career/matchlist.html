@@ -1,7 +1,7 @@
 {%- import "macros/career.html" as macros %}
 {% set org_styles = config.extra.org_styles %}
 {% set all_matches = load_data(path="data/all_matches.json") %}
-{% set appearances = load_data(path="data/appearances.json") %}
+{% set appearances = load_data(path="data/appearances_v2.json") %}
 {% if page.extra.career_name %}
     {% set my_appearances = appearances | get(key=page.extra.career_name) %}
 {% else %}
@@ -12,13 +12,18 @@
     {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
 {% endfor %}
 {% set_global my_matches = [] -%}
-{% for index in my_appearances %}
-{% set_global my_matches = my_matches | concat(with=all_matches[index]) %}
+{% for entry in my_appearances %}
+  {% set index = entry[0] %}
+  {% set_global my_matches = my_matches | concat(with=all_matches[index]) %}
 {% endfor %}
 {% set careers = [] %}
 {% set all_matches = [] %}
 {% set appearances = [] %}
 {% set matches_by_date = my_matches | sort(attribute='d') %}
+{% set my_match_pos = my_appearances | group_by(attribute='0') %}
+<pre>
+  {{ my_match_pos | json_encode(pretty=true) }}
+</pre>
 
 {% if my_matches %}
 <h3>Matches and segments</h3>
@@ -35,8 +40,13 @@
             {% for org in match.o %}
               {{ macros::promolink_color(code=org, styles=org_styles) }}
             {% endfor %}
+            {{ match.i }}
         </span>
         {% set row = match.m %}
+        {# It may happen that the same match.i happens more than once #}
+        {# This means more than one appearance in that match (think rumbles, entering under different names) #}
+        {# In that case, each pos should be used, order does not matter #}
+        {% set pos = my_match_pos[match.i] | last | last %}
         <span class="r">
             {% include "career/result_row.html" %}
             {% set event_path = "@/" ~ match.p %}

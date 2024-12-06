@@ -26,10 +26,26 @@
 {% if segment %}
   <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others %}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
 {% else %}
+  {{ pos }}
   {% if bodies == 0 and not final.nc %} Winner: {% endif %}
-  {{ winner | markdown(inline=true) | safe }}
+  {% if pos == 0 %}
+    <strong>{{ winner | markdown(inline=true) | safe }}</strong>
+  {% else %}
+    {{ winner | markdown(inline=true) | safe }}
+  {% endif %}
   {% if bodies > 0 %}
-    {{ sep }} {{ others | join(sep=" and ") | markdown(inline=true) | safe }}
+    {{ sep }}
+    {% for opponent in others %}
+      {% if loop.index == pos %}
+        <strong>{{ opponent | markdown(inline=true) | safe }}</strong>
+      {% else %}
+        {{ opponent | markdown(inline=true) | safe }}
+      {% endif %}
+      {% if not loop.last %}
+        and
+      {% endif %}
+    {% endfor %}
+    {# {{ others | join(sep=" and ") | markdown(inline=true) | safe }} #}
   {% endif %}
   {% if final.r %}
       via {{ final.r }}

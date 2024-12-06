@@ -192,6 +192,13 @@ class Match:
                 for name in members.all_names()
                 )
 
+    def all_names_indexed(self):
+        return ((i, name)
+                for i, person_or_team in enumerate(self.opponents)
+                for members in person_or_team
+                for name in members.all_names()
+                )
+
     def winner(self) -> Iterable[Participant]:
         return self.opponents[0]
 
