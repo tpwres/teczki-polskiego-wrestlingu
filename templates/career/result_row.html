@@ -22,12 +22,13 @@
     {% set sep = "defeated" %}
 {% endif %}
 {% if not stip %}{% set stip = default_stip %}{% endif %}
+{% set positions = positions | default(value=[]) %}
 
 {% if segment %}
   <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others %}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
 {% else %}
   {% if bodies == 0 and not final.nc %} Winner: {% endif %}
-  {% if pos == 0 %}
+  {% if 0 in positions %}
     <strong>{{ winner | markdown(inline=true) | safe }}</strong>
   {% else %}
     {{ winner | markdown(inline=true) | safe }}
@@ -35,7 +36,7 @@
   {% if bodies > 0 %}
     {{ sep }}
     {% for opponent in others %}
-      {% if loop.index == pos %}
+      {% if loop.index in positions %}
         <strong>{{ opponent | markdown(inline=true) | safe }}</strong>
       {% else %}
         {{ opponent | markdown(inline=true) | safe }}
