@@ -6,37 +6,39 @@ authors = ["M3n747"]
 chronology = ["ppw"]
 venue=["2kola"]
 [extra]
-hide_results = true
 city = "Warszawa"
 +++
 
-"Barszcz z Krzesłami" (_Borscht with Chairs_) is an upcoming event in [PpW's](@/o/ppw.md) revived Hardcore Friday series, which will be held on December 6th 2024, in PpW's original venue, motorcycle club [2KOŁA](@/v/2kola.md).
+"Barszcz z Krzesłami" (_Borscht with Chairs_) was an event in [PpW's](@/o/ppw.md) revived Hardcore Friday series, held on December 6th 2024, in PpW's original venue, motorcycle club [2KOŁA](@/v/2kola.md).
 The name of the event is a play on "barszcz z uszkami", a traditional Polish soup [served at Christmas Eve][wigilia].
 
 <!-- more -->
 
-#### Build-up
-
-
-
 {% card(predicted=true) %}
-- - '[Axel Fox](@/w/axel-fox.md)'
-  - '[Mister Z](@/w/mister-z.md)'
-  - s: 'Christmas Street Fight Match'
-    nc: upcoming
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
-  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
-  - s: 'Non-Title Match'
-    nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
-  - '???'
-  - nc: upcoming
-- - '[Goblin](@/w/goblin.md)'
-  - '???'
-  - nc: upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '???'
-  - nc: upcoming
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - s: Four-way Match
+- - '[Santa Biesiad](@/w/biesiad.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - g: true
+    s: Gifts from Santa
+- - '[Santa Biesiad](@/w/biesiad.md)'
+  - '[Feager](@/w/feager.md)'
+- - '[Isnorr](@/w/isnorr.md)(c)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - s: Open Challenge
+    c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - s: No Outside Weapons, Non-Title Match
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+  - s: 'Christmas Street Fight'
+- credits:
+    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
 ## References
