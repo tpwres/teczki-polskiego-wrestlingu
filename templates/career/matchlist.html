@@ -19,7 +19,7 @@
 {% set careers = [] %}
 {% set all_matches = [] %}
 {% set appearances = [] %}
-{% set matches_by_date = my_matches | sort(attribute='d') %}
+{% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') %}
 {% set my_match_pos = my_appearances | group_by(attribute='0') %}
 
 {% if my_matches %}
@@ -41,8 +41,8 @@
         {% set row = match.m %}
         {# It may happen that the same match.i happens more than once #}
         {# This means more than one appearance in that match (think rumbles, entering under different names) #}
-        {# In that case, each pos should be used, order does not matter #}
-        {% set pos = my_match_pos[match.i] | last | last %}
+        {# These matches were filtered out by unique above, so we have only one. #}
+        {% set positions = my_match_pos[match.i] | map(attribute='1') %}
         <span class="r">
             {% include "career/result_row.html" %}
             {% set event_path = "@/" ~ match.p %}
