@@ -125,4 +125,9 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Hardcore Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
     ed: 2024-11-16
+- - '[Isnorr](@/w/isnorr.md)(c)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - s: Singles match
+    en: '[Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md)'
+    ed: 2024-12-06    
 {% end %}
