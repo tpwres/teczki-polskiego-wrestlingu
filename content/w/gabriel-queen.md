@@ -56,6 +56,7 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
 
 * Finishers:
   - _Gab Driver 01'_ (Michinoku Driver) (2021-)
+  - Running Lariat (2024-)
   - Single Leg Boston Crab (2023)
   - Double Underhook Inverted Slam (2021)
 * With [Vic Golden](@/w/vic-golden.md)
