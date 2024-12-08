@@ -14,6 +14,10 @@ source = "Facebook @PrimeTimeWrestlingPL"
 path = "martina.webp"
 caption = "Facebook promotional graphic announcing Session Moth Martina"
 source = "Facebook @PrimeTimeWrestlingPL"
+[extra.gallery.prezes]
+path = "2024-12-07-ptw-underground-25-patrycja-malinowska-with-prezes-okonski.jpg"
+caption = "Prezes Okoński led on a chain by Patrycja Malinowska"
+source = "zbigniew_wielgosz @ Instagram"
 +++
 
 PTW Underground 25 was an event by [Prime Time Wrestling](@/o/ptw.md). The event's name refers to the date, close to December 6th, when Poland celebrates [Saint Nicholas Day][st-nicholas-day] (Mikołajki), and is when the Christmas season kicks into gear. This makes its similar to [PTW Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md) which was also Christmas-themed.
