@@ -60,8 +60,9 @@ In November 2024 it was announced that Gustav will face [Wiktor Longman](@/w/wik
 ## In wrestling
 
 * Finishers:
-  - Texas Cloverleaf
-  - _Gryffin Bomb_
+  - Ripcord Lariat (2024-)
+  - Texas Cloverleaf (2024-)
+  - _Gryffin Bomb_ (2023-)
 * Tag Teams and Stables:
   - [Zmowa](@/a/the-collusion.md)
 * Managers:
