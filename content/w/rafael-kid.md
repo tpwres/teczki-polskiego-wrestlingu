@@ -4,7 +4,7 @@ template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Rafał Orszak", "Revage"]
+career_aliases = ["Rafał Orszak", "Revage", "Sędzia Rafael"]
 +++
 
 ## References
