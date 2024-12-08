@@ -27,10 +27,11 @@ In DDW he served as both, and adopted a persona of a heelish, self-important man
 After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer.
 This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md), after which he parted ways with the promotion.
 
-### 2021: Prime Time Wrestling
+### 2021-currently: Prime Time Wrestling
 
-Pawłowski then spent the next two years working for Fame MMA, and in the latter half of 2021 announced the opening of [Prime Time Wrestling](@/o/ptw.md).
-This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co-owner, however Rzeźniczek left after [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), leaving Pawłowski the sole owner.
+Pawłowski then spent the next two years working for Fame MMA, and in the second half of 2021 announced the opening of [Prime Time Wrestling](@/o/ptw.md).
+This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co-owner, however Rzeźniczek left after [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), leaving Pawłowski the sole owner. Pawłowski is one of the main faces of the promotion, with his promoter role acknowledged on-screen. He typically hosts the shows, does the ring announcing, and makes authority figures decisions. It's not rare from him to openly comment on matches outcomes and wrestlers behaviors, as well as to be involved in the storylines.
+Despite controversies, his PTW persona continued as a babyface since the promotion started. He turned heel for the first time in his PTW run in December 2024 at [PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md), laying out [Spartan](@/w/spartan.md) with a chair in his [PTW Championship](@/c/ptw-championship.md) match against [Puncher](@/w/puncher.md).
 
 ## In wrestling
 
