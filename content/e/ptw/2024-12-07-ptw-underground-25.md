@@ -45,7 +45,7 @@ For this event, PTW invited several debuting wrestlers:
 - - '[Diana Strong](@/w/diana-strong.md)'
   - Session Moth Martina
 - - '"The Enigma" Serg Sullivan'
-  - El Homo # NOTE: Not Ostrowski, but Okoński
+  - El-Homo # NOTE: Not Ostrowski, but Okoński
 - - Łukasz "Prezes" Okoński
   - Krzysztof Skwarczyński
   - g: true
