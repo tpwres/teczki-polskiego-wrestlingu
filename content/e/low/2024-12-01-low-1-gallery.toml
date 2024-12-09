@@ -60,7 +60,7 @@ caption = "[Marcelito](@/w/marcelito.md) and [Shadow](@/w/shadow.md) up close an
 source = "Krzysztof Zych"
 [0302]
 path = "shadow.webp"
-caption = "[Shadow](@/w/shadow.md) staring us down from behind the mask"
+caption = "[Shadow](@/w/shadow.md) staring us down from behind the mask."
 source = "Krzysztof Zych"
 [0303]
 path = "shadow_marcelito.webp"
@@ -72,7 +72,7 @@ caption = "[Olgierd's](@/w/olgierd.md) entrance."
 source = "M3n747"
 [0402]
 path = "2024-12-01-low-photo-03.jpg"
-caption = "[Olgierd](@/w/olgierd.md) attacks [Biesiad Strong](@/w/biesiad.md) with the sponsor's pizza."
+caption = "[Olgierd](@/w/olgierd.md) attacks Biesiad with the sponsor's pizza."
 source = "M3n747"
 [0403]
 path = "2024-12-01-low-photo-04.jpg"
@@ -80,7 +80,7 @@ caption = "The essence of [PpW](@/o/ppw.md): beer and tables."
 source = "M3n747"
 [0404]
 path = "2024-12-01-low-photo-05.jpg"
-caption = "[Referee Seweryn](@/w/sedzia-seweryn.md) helps [Biesiad Strong](@/w/biesiad.md) build a structure of tables."
+caption = "[Referee Seweryn](@/w/sedzia-seweryn.md) helps [Biesiad](@/w/biesiad.md) build a structure of tables."
 source = "M3n747"
 [0405]
 path = "DSC09446.webp"
@@ -88,7 +88,7 @@ caption = "[Biesiad](@/w/biesiad.md), the Carpenter."
 source = "Krzysztof Zych"
 [0406]
 path = "DSC09654.webp"
-caption = "Biesiad going for Olgierd at ringside."
+caption = "[Biesiad](@/w/biesiad.md) going for Olgierd at ringside."
 source = "Krzysztof Zych"
 [0407]
 path = "DSC09815.webp"
@@ -96,7 +96,7 @@ caption = "[Biesiad](@/w/biesiad.md) and [Olgierd](@/w/olgierd.md)."
 source = "Krzysztof Zych"
 [0501]
 path = "DSC09896.webp"
-caption = "Disco Pablo announcing he wants to compete in some form or other."
+caption = "[Disco Pablo](@/w/disco-pablo.md) announcing he wants to compete in some form or other."
 source = "Krzysztof Zych"
 [0502]
 path = "2024-12-01-low-photo-06.jpg"
@@ -112,19 +112,19 @@ caption = '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), Mr Chairman and Ani
 source = "Krzysztof Zych"
 [0505]
 path = "2024-12-01-low-photo-07.jpg"
-caption = "A [mysterious figure](@/w/taras.md) looming over [ShowOff](@/w/piotr-malecki.md)."
+caption = "A mysterious figure looming over [ShowOff](@/w/piotr-malecki.md)."
 source = "M3n747"
 [0506]
 path = "DSC00065.webp"
-caption = "[Taras](@/w/taras.md) after dominating [Disco Pablo](@/w/disco-pablo.md)"
+caption = "[Taras](@/w/taras.md) after dominating Disco Pablo."
 source = "Krzysztof Zych"
 [0601]
 path = "2024-12-01-low-photo-08.jpg"
-caption = "[Filip Fux](@/w/filip-fux.md) presents his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), while [Marco Hammers](@/w/marco-hammers.md) waits for the match to start. Between them stands [Referee Seweryn](@/w/sedzia-seweryn.md)."
+caption = "[Filip Fux](@/w/filip-fux.md) presents his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), while [Marco Hammers](@/w/marco-hammers.md) waits for the match to start. Between them stands Referee Seweryn."
 source = "M3n747"
 [0602]
 path = "DSC00319.webp"
-caption = "[Marco Hammers](@/w/marco-hammers.md)' entrance"
+caption = "[Marco Hammers](@/w/marco-hammers.md)' entrance."
 source = "Krzysztof Zych"
 [0603]
 path = "DSC00433.webp"
@@ -140,11 +140,11 @@ caption = "A masked [Olgierd](@/w/olgierd.md) with the fans."
 source = "Krzysztof Zych"
 [0606]
 path = "2024-12-01-low-photo-09.jpg"
-caption = "[Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) disrespect [Filip Fux](@/w/filip-fux.md) and his title."
+caption = "[Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) disrespect Filip Fux and his title."
 source = "M3n747"
 [0701]
 path = "DSC00694.webp"
-caption = "[Aron Wake](@/w/aron-wake.md)"
+caption = "[Aron Wake](@/w/aron-wake.md)."
 source = "Krzysztof Zych"
 [0702]
 path = "DSC00840.webp"
@@ -168,7 +168,7 @@ caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) asserting dominance."
 source = "Krzysztof Zych"
 [0804]
 path = "2024-12-01-low-photo-10.jpg"
-caption = "[Axel Fox](@/w/axel-fox.md) mockingly invites [Gustav Gryffin](@/w/gustav-gryffin.md) to join him in the ring. Visible in the bottom-right corner is [Jakub Linde](@/w/jakub-linde.md)."
+caption = "[Axel Fox](@/w/axel-fox.md) mockingly invites Gustav Gryffin to join him in the ring. Visible in the bottom-right corner is Jakub Linde."
 source = "M3n747"
 [0805]
 path = "DSC01202.webp"
@@ -188,7 +188,7 @@ caption = "[Axel Fox](@/w/axel-fox.md) hyping up for a comeback with the crowd's
 source = "Krzysztof Zych"
 [0809]
 path = "DSC01542.webp"
-caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) dominating [Axel Fox](@/w/axel-fox.md)."
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) dominating Axel Fox."
 source = "Krzysztof Zych"
 [0810]
 path = "DSC01731.webp"
@@ -212,7 +212,7 @@ caption = "…but [Sinister](@/w/sinister.md) doesn't quite agree."
 source = "M3n747"
 [0815]
 path = "DSC01819.webp"
-caption = "[Sinister](@/w/sinister.md) about to ruin [Axel Fox](@/w/axel-fox.md)'s day."
+caption = "[Sinister](@/w/sinister.md) about to ruin Axel Fox's day."
 source = "Krzysztof Zych"
 [0816]
 path = "DSC01859.webp"
