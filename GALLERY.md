@@ -40,6 +40,34 @@ The value is always a map (another list of key-value pairs), which **must contai
 * `caption` is the text to display under the thumbnail in the gallery grid. Markdown can be used in this text, as shown in the example, so it can link to other pages. However, shortcodes and template markup cannot be used.
 * `source` is the attribution. While currently it's not displayed, we still want to collect it to have a grasp on where the images came from.
 
+### Alternate TOML format
+
+The TOML format used in the front matter offers some flexibility. The same gallery can also be rewritten as:
+
+```toml
+[extra.gallery.1]
+path = "ale-grzeje-poster.jpg"
+caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory."
+source = "Facebook PPW Ewenement"
+```
+
+Notice the changes: key is now in square brackets, prefixed by `extra.gallery`. Each required map item is now on a separate line, and no commas are necessary to separate them.
+
+This format also allows multiline text, most useful for captions. To do so, use the triple-quoted long string notation, and escape the newline with a backslash. Reusing the same example:
+
+```toml
+[extra.gallery.1]
+path = "ale-grzeje-poster.jpg"
+caption = """\
+  The show's official poster.
+  Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md).
+  The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.
+"""
+source = "Facebook PPW Ewenement"
+```
+
+However, line breaks will not be preserved in the displayed text, unless `<br>` is used to force them.
+
 ### Rules for documenting attribution
 
 * If it's a screenshot from social media, note the platform and the profile or page, e.g. 'Instagram @some_profile_name', or 'Twitter/X @thisorthatperson'.
