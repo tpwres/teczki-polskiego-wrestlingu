@@ -43,12 +43,12 @@ path = "DSC08770.webp"
 caption = "Rusałka at ringside."
 source = "Krzysztof Zych"
 [0204]
-path = "DSC08841.webp"
-caption = "[Sambor](@/w/sambor.md) versus [Chemik](@/w/chemik.md) and [Dziedzic](@/w/dziedzic.md)."
-source = "Krzysztof Zych"
-[0205]
 path = "DSC08889.webp"
 caption = "[Syriusz Dziedzic](@/w/dziedzic.md) is Soft & Proud."
+source = "Krzysztof Zych"
+[0205]
+path = "DSC08841.webp"
+caption = "[Sambor](@/w/sambor.md) versus [Chemik](@/w/chemik.md) and [Dziedzic](@/w/dziedzic.md)."
 source = "Krzysztof Zych"
 [0206]
 path = "DSC09021.webp"
@@ -60,7 +60,7 @@ caption = "[Marcelito](@/w/marcelito.md) and [Shadow](@/w/shadow.md) up close an
 source = "Krzysztof Zych"
 [0302]
 path = "shadow.webp"
-caption = "Shadow staring us down from behind the mask"
+caption = "[Shadow](@/w/shadow.md) staring us down from behind the mask"
 source = "Krzysztof Zych"
 [0303]
 path = "shadow_marcelito.webp"
