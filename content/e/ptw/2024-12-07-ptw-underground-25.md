@@ -65,7 +65,7 @@ For this event, PTW invited several debuting wrestlers:
 - - Bittersweet Josh
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: Singles Match
-- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: true
     s: T-Shirt Auction
 - - '[Diana Strong](@/w/diana-strong.md)'
