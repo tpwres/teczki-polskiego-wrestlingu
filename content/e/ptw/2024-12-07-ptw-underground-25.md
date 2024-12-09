@@ -1,7 +1,7 @@
 +++
 title = "PTW Underground 25: Wrestlingowe Mikołajki"
 template = "event_page.html"
-authors = ["Sewi The Referee"]
+authors = "Sewi The Referee"
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
