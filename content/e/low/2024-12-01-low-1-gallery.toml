@@ -95,28 +95,28 @@ path = "DSC09815.webp"
 caption = "[Biesiad](@/w/biesiad.md) and [Olgierd](@/w/olgierd.md)."
 source = "Krzysztof Zych"
 [0501]
-path = "2024-12-01-low-photo-06.jpg"
-caption = "The Musical Chairs segment. Left to right: [ShowOff](@/w/piotr-malecki.md), [Disco Pablo](@/w/disco-pablo.md), Ania, Mr Chairman."
-source = "M3n747"
-[0502]
-path = "2024-12-01-low-photo-07.jpg"
-caption = "A [mysterious figure](@/w/taras.md) looming over [ShowOff](@/w/piotr-malecki.md)."
-source = "M3n747"
-[0503]
-path = "DSC00065.webp"
-caption = "[Taras](@/w/taras.md) after dominating [Disco Pablo](@/w/disco-pablo.md)"
-source = "Krzysztof Zych"
-[0504]
 path = "DSC09896.webp"
 caption = "Disco Pablo announcing he wants to compete in some form or other."
 source = "Krzysztof Zych"
-[0505]
+[0502]
+path = "2024-12-01-low-photo-06.jpg"
+caption = "The Musical Chairs segment. Left to right: [ShowOff](@/w/piotr-malecki.md), [Disco Pablo](@/w/disco-pablo.md), Ania, Mr Chairman."
+source = "M3n747"
+[0503]
 path = "DSC09944.webp"
 caption = "Mr Chairman's promo."
 source = "Krzysztof Zych"
-[0506]
+[0504]
 path = "DSC09950.webp"
 caption = '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), Mr Chairman and Ania ready for the Musical Chairs.'
+source = "Krzysztof Zych"
+[0505]
+path = "2024-12-01-low-photo-07.jpg"
+caption = "A [mysterious figure](@/w/taras.md) looming over [ShowOff](@/w/piotr-malecki.md)."
+source = "M3n747"
+[0506]
+path = "DSC00065.webp"
+caption = "[Taras](@/w/taras.md) after dominating [Disco Pablo](@/w/disco-pablo.md)"
 source = "Krzysztof Zych"
 [0601]
 path = "2024-12-01-low-photo-08.jpg"
