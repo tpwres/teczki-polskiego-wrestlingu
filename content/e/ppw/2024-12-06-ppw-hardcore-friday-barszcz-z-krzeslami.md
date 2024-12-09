@@ -86,13 +86,13 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Finally Biesiad pulls the gift for the winner of Fatal Four Way Match - a contract for [PpW Championship](@/c/ppw-championship.md) match at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), which he supposedly stole from Gustav's invoice folder he held for Mister Z.
 * Gabriel Queen reads out loudly the details of the contract, declares that he is "coming for Gustav's ass" and signs the contract.
 
-### Santa Biesiad vs Faeger 
+### Santa Biesiad vs Feager 
 
 * Timestamp: `0:28:24`
-* [Faeger](@/w/faeger.md) makes his entrance to the ring. Biesiad declares, that his opponent will also recieve a gift. He pulls out some vodka and condoms from the bag, strongly suggesting that Faeger should "Drink, have sex and F-off".
+* [Feager](@/w/feager.md) makes his entrance to the ring. Biesiad declares, that his opponent will also recieve a gift. He pulls out some vodka and condoms from the bag, strongly suggesting that Faeger should "Drink, have sex and F-off".
 * The match beggins and lasts for about 20 minutes. [Sędzia Kornel](@/w/sedzia-kornel.md) is the referee but due to match impromptu nature it is most propably hardcore match by default.
 * Match is filled with usage of objects such as chairs, ladders, tables, sledgehammers and even a christmas tree from the stage.
-* Finally, the match ends after Santa Biesiad hits Faeger with his signature from top of the ladder.
+* Finally, the match ends after Santa Biesiad hits Feager with his signature from top of the ladder.
 * Winner: Biesiad by pinfall
 * After the match Biesiad celebrates for a while when the ringcrew is cleaning up the ring.
 
@@ -135,7 +135,8 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 
 * Timestamp: `2:10:15`
 * After Zmowa leaves the ring crowd is chanting "GobLis" while both of the members of said tag team slowly recover from beatdown and hug it out before leaving the ring.
-* Michael HT thanks PpW Fanatics for attending the show. He sums up the 2024 as one of the most important years for PpW and announces that this is just the beggining for Ewenement. He thanks everyone who helped during every PpW show and reminded the crowd that the next show will take place 25.01.2025 at [Teatr Komuna](@/v/teatr-komuna.md) and the tickets are avaliable right now. He also promoted after party, where [DJ Prezes](@/w/faeger.md) would be the master of ceremony.
+* Michael HT thanks PpW Fanatics for attending the show. He sums up the 2024 as one of the most important years for PpW and announces that this is just the beggining for Ewenement. He thanks everyone who helped during every PpW show and reminded the crowd that the next show will take place 25.01.2025 at [Teatr Komuna](@/v/teatr-komuna.md) and the tickets are avaliable right now.
+* He also promoted after party, where [DJ Prezes](@/w/feager.md) would be the master of ceremony.
 * After that show ends.
 
 ## References
