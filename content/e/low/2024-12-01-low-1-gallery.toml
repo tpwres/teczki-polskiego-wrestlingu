@@ -1,92 +1,232 @@
-[01]
+[0001]
 path = "krolestwo-katowice.jpg"
 caption = "Music club Królestwo."
 source = "Ville Paananen"
-[02]
+[0002]
 path = "marco-hammers-vs-filip-fux.jpg"
 caption = "[Marco Hammers](@/w/marco-hammers.md) vs [Filip Fux](@/w/filip-fux.md)."
 source = "Official Legacy Facebook"
-[03]
+[0003]
 path = "biesiad-vs-olgierd.jpg"
 caption = "[Biesiad Strong](@/w/biesiad.md) vs [Olgierd](@/w/olgierd.md)."
 source = "Official Legacy Facebook"
-[04]
+[0004]
 path = "gustav-gryffin-vs-wiktor-longman.jpg"
 caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) vs [Wiktor Longman](@/w/wiktor-longman.md) - cancelled match."
 source = "Official Legacy Facebook"
-[05]
+[0005]
 path = "gustav-gryffin-vs-axel-fox.jpg"
 caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) vs [Axel Fox](@/w/axel-fox.md) - replacement for the cancelled match."
 source = "Official Legacy Facebook"
-[06]
+[0006]
 path = "shadow-vs-marcelito.jpg"
 caption = "[Shadow](@/w/shadow.md) vs [Marcelito](@/w/marcelito.md)."
 source = "Official Legacy Facebook"
-[07]
+[0007]
 path = "aron-wake-vs-gabriel-queen.jpg"
 caption = "[Aron Wake](@/w/aron-wake.md) vs [Gabriel Queen](@/w/gabriel-queen.md)."
 source = "Official Legacy Facebook"
-[08]
-path = "shadow_marcelito.webp"
-caption = "[Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) performing a Spanish Fly, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) stands there amazed and horrified."
+[0101]
+path = "DSC08534.webp"
+caption = "Arek Paterek opening the show."
 source = "Krzysztof Zych"
-[09]
-path = "shadow.webp"
-caption = "Shadow staring us down from behind the mask"
+[0102]
+path = "DSC08588.webp"
+caption = "[Sinister](@/w/sinister.md) talking about a new circus with the same monkeys."
 source = "Krzysztof Zych"
-[10]
+[0201]
 path = "2024-12-01-low-photo-01.jpg"
 caption = "Left to right: [Sambor](@/w/sambor.md), [Chemik](@/w/chemik.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md) and [Dziedzic](@/w/dziedzic.md) standing in the [MZW](@/o/mzw.md) ring."
 source = "M3n747"
-[11]
+[0203]
+path = "DSC08770.webp"
+caption = "Rusałka at ringside."
+source = "Krzysztof Zych"
+[0204]
+path = "DSC08889.webp"
+caption = "[Syriusz Dziedzic](@/w/dziedzic.md) is Soft & Proud."
+source = "Krzysztof Zych"
+[0205]
+path = "DSC08841.webp"
+caption = "[Sambor](@/w/sambor.md) versus [Chemik](@/w/chemik.md) and [Dziedzic](@/w/dziedzic.md)."
+source = "Krzysztof Zych"
+[0206]
+path = "DSC09021.webp"
+caption = "A victorious [Chemik](@/w/chemik.md)."
+source = "Krzysztof Zych"
+[0301]
+path = "DSC09216.webp"
+caption = "[Marcelito](@/w/marcelito.md) and [Shadow](@/w/shadow.md) up close and personal."
+source = "Krzysztof Zych"
+[0302]
+path = "shadow.webp"
+caption = "[Shadow](@/w/shadow.md) staring us down from behind the mask."
+source = "Krzysztof Zych"
+[0303]
+path = "shadow_marcelito.webp"
+caption = "[Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) performing a Spanish Fly, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) stands there amazed and horrified."
+source = "Krzysztof Zych"
+[0401]
 path = "2024-12-01-low-photo-02.jpg"
 caption = "[Olgierd's](@/w/olgierd.md) entrance."
 source = "M3n747"
-[12]
+[0402]
 path = "2024-12-01-low-photo-03.jpg"
-caption = "[Olgierd](@/w/olgierd.md) attacks [Biesiad Strong](@/w/biesiad.md) with the sponsor's pizza."
+caption = "[Olgierd](@/w/olgierd.md) attacks Biesiad with the sponsor's pizza."
 source = "M3n747"
-[13]
+[0403]
 path = "2024-12-01-low-photo-04.jpg"
 caption = "The essence of [PpW](@/o/ppw.md): beer and tables."
 source = "M3n747"
-[14]
+[0404]
 path = "2024-12-01-low-photo-05.jpg"
-caption = "[Referee Seweryn](@/w/sedzia-seweryn.md) helps [Biesiad Strong](@/w/biesiad.md) build a structure of tables."
+caption = "[Referee Seweryn](@/w/sedzia-seweryn.md) helps [Biesiad](@/w/biesiad.md) build a structure of tables."
 source = "M3n747"
-[15]
+[0405]
+path = "DSC09446.webp"
+caption = "[Biesiad](@/w/biesiad.md), the Carpenter."
+source = "Krzysztof Zych"
+[0406]
+path = "DSC09654.webp"
+caption = "[Biesiad](@/w/biesiad.md) going for Olgierd at ringside."
+source = "Krzysztof Zych"
+[0407]
+path = "DSC09815.webp"
+caption = "[Biesiad](@/w/biesiad.md) and [Olgierd](@/w/olgierd.md)."
+source = "Krzysztof Zych"
+[0501]
+path = "DSC09896.webp"
+caption = "[Disco Pablo](@/w/disco-pablo.md) announcing he wants to compete in some form or other."
+source = "Krzysztof Zych"
+[0502]
 path = "2024-12-01-low-photo-06.jpg"
 caption = "The Musical Chairs segment. Left to right: [ShowOff](@/w/piotr-malecki.md), [Disco Pablo](@/w/disco-pablo.md), Ania, Mr Chairman."
 source = "M3n747"
-[16]
+[0503]
+path = "DSC09944.webp"
+caption = "Mr Chairman's promo."
+source = "Krzysztof Zych"
+[0504]
+path = "DSC09950.webp"
+caption = '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), Mr Chairman and Ania ready for the Musical Chairs.'
+source = "Krzysztof Zych"
+[0505]
 path = "2024-12-01-low-photo-07.jpg"
-caption = "A [mysterious figure](@/w/taras.md) looming over [ShowOff](@/w/piotr-malecki.md)."
+caption = "A mysterious figure looming over [ShowOff](@/w/piotr-malecki.md)."
 source = "M3n747"
-[17]
+[0506]
+path = "DSC00065.webp"
+caption = "[Taras](@/w/taras.md) after dominating Disco Pablo."
+source = "Krzysztof Zych"
+[0601]
 path = "2024-12-01-low-photo-08.jpg"
-caption = "[Filip Fux](@/w/filip-fux.md) presents his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), while [Marco Hammers](@/w/marco-hammers.md) waits for the match to start. Between them stands [Referee Seweryn](@/w/sedzia-seweryn.md)."
+caption = "[Filip Fux](@/w/filip-fux.md) presents his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), while [Marco Hammers](@/w/marco-hammers.md) waits for the match to start. Between them stands Referee Seweryn."
 source = "M3n747"
-[18]
+[0602]
+path = "DSC00319.webp"
+caption = "[Marco Hammers](@/w/marco-hammers.md)' entrance."
+source = "Krzysztof Zych"
+[0603]
+path = "DSC00433.webp"
+caption = "[Filip Fux](@/w/filip-fux.md) holding up [Marco Hammers](@/w/marco-hammers.md)."
+source = "Krzysztof Zych"
+[0604]
+path = "DSC00512.webp"
+caption = "[Marco Hammers](@/w/marco-hammers.md) bending the arms of [Filip Fux](@/w/filip-fux.md)."
+source = "Krzysztof Zych"
+[0605]
+path = "DSC00600.webp"
+caption = "A masked [Olgierd](@/w/olgierd.md) with the fans."
+source = "Krzysztof Zych"
+[0606]
 path = "2024-12-01-low-photo-09.jpg"
-caption = "[Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) disrespect [Filip Fux](@/w/filip-fux.md) and his title."
+caption = "[Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) disrespect Filip Fux and his title."
 source = "M3n747"
-[19]
+[0701]
+path = "DSC00694.webp"
+caption = "[Aron Wake](@/w/aron-wake.md)."
+source = "Krzysztof Zych"
+[0702]
+path = "DSC00840.webp"
+caption = "[Aron Wake](@/w/aron-wake.md) flying from the top turnbuckle."
+source = "Krzysztof Zych"
+[0703]
+path = "DSC00935.webp"
+caption = "A victorious [Gabriel Queen](@/w/gabriel-queen.md), with [Referee Seweryn](@/w/sedzia-seweryn.md)."
+source = "Krzysztof Zych"
+[0801]
+path = "DSC01022.webp"
+caption = "[Axel Fox](@/w/axel-fox.md)'s entrance."
+source = "Krzysztof Zych"
+[0802]
+path = "DSC01065.webp"
+caption = "[Jakub Linde](@/w/jakub-linde.md) waiting to announce Gustav Gryffin."
+source = "Krzysztof Zych"
+[0803]
+path = "DSC01101.webp"
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) asserting dominance."
+source = "Krzysztof Zych"
+[0804]
 path = "2024-12-01-low-photo-10.jpg"
-caption = "[Axel Fox](@/w/axel-fox.md) mockingly invites [Gustav Gryffin](@/w/gustav-gryffin.md) to join him in the ring. Visible in the bottom-right corner is [Jakub Linde](@/w/jakub-linde.md)."
+caption = "[Axel Fox](@/w/axel-fox.md) mockingly invites Gustav Gryffin to join him in the ring. Visible in the bottom-right corner is Jakub Linde."
 source = "M3n747"
-[20]
+[0805]
+path = "DSC01202.webp"
+caption = "[Axel Fox](@/w/axel-fox.md) facing off [Jakub Linde](@/w/jakub-linde.md), who is wearing a [Bochen](@/w/bochen.md) T-shirt."
+source = "Krzysztof Zych"
+[0806]
+path = "DSC01261.webp"
+caption = "[Axel Fox](@/w/axel-fox.md) flying out to land on Linde and Gryffin."
+source = "Krzysztof Zych"
+[0807]
+path = "DSC01411.webp"
+caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) counting Axel Fox outside the ring."
+source = "Krzysztof Zych"
+[0808]
+path = "DSC01515.webp"
+caption = "[Axel Fox](@/w/axel-fox.md) hyping up for a comeback with the crowd's support."
+source = "Krzysztof Zych"
+[0809]
+path = "DSC01542.webp"
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) dominating Axel Fox."
+source = "Krzysztof Zych"
+[0810]
+path = "DSC01731.webp"
+caption = "[Axel Fox](@/w/axel-fox.md) pins [Gustav Gryffin](@/w/gustav-gryffin.md), who is extending his hand beyond the ropes. [Referee Seweryn](@/w/sedzia-seweryn.md) counts."
+source = "Krzysztof Zych"
+[0811]
+path = "DSC01769.webp"
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) pointing out his arm was beyond the ropes, thus the three count is invalid."
+source = "Krzysztof Zych"
+[0812]
+path = "DSC01762.webp"
+caption = "[Axel Fox](@/w/axel-fox.md) is the new champion? [Referee Seweryn](@/w/sedzia-seweryn.md) lifting Fox's arm to confirm."
+source = "Krzysztof Zych"
+[0813]
 path = "2024-12-01-low-photo-11.jpg"
 caption = "[Axel Fox](@/w/axel-fox.md) wins the [PpW Championship](@/c/ppw-championship.md)…"
 source = "M3n747"
-[21]
+[0814]
 path = "2024-12-01-low-photo-12.jpg"
 caption = "…but [Sinister](@/w/sinister.md) doesn't quite agree."
 source = "M3n747"
-[22]
+[0815]
+path = "DSC01819.webp"
+caption = "[Sinister](@/w/sinister.md) about to ruin Axel Fox's day."
+source = "Krzysztof Zych"
+[0816]
+path = "DSC01859.webp"
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) choking out [Axel Fox](@/w/axel-fox.md) to retain his [PpW Championship](@/c/ppw-championship.md)."
+source = "Krzysztof Zych"
+[0817]
 path = "2024-12-01-low-photo-13.jpg"
 caption = "And so, [Gustav Gryffin](@/w/gustav-gryffin.md) retains."
 source = "M3n747"
-[23]
+[0818]
 path = "2024-12-01-low-photo-14.jpg"
 caption = "The general consensus regarding the outcome of the match."
 source = "M3n747"
+[0901]
+path = "DSC01917.webp"
+caption = 'Closing words from [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md).'
+source = "Krzysztof Zych"
