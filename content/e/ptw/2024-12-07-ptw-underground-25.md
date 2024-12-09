@@ -38,7 +38,7 @@ For this event, PTW invited several debuting wrestlers:
   - 'Newt Nova'
 - - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
   - 'Budapest Bastards (c): [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
-  - c: '[PTW Championship](@/c/ptw-championship.md)'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: 'Hardcore Tornado Tag Team Match'
 - - Bittersweet Josh
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
