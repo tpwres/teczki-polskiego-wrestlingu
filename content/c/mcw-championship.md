@@ -59,7 +59,7 @@ The belt is made out of thin metal sheets with gold-and-black lettering and orna
     ed: 2023-12-16
 - - 'Jack Kalom'
   - 'RAV(c)'
-  - s: Singles match
+  - s: No-DQ Match
     en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
     ed: 2024-11-16
 {% end %}
@@ -71,7 +71,7 @@ The belt is made out of thin metal sheets with gold-and-black lettering and orna
 {% free_card() %}
 - - 'Jack Kalom'
   - 'RAV(c)'
-  - s: Singles match
+  - s: No-DQ Match
     en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
     ed: 2024-11-16
 {% end %}
