@@ -98,10 +98,10 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * When Pawłowski is trying to announce the first fight Puncher's theme is heard. PTW Champion enters the ring and attacks Pawłowski verbally stating that Arek can't control him. He "shoots" on both Pawłowski and Okoński, making references to Pawłowski's statement from "Oryginalne Zero" saying that [all of his talent left him](@/a/ptw-exits.md) and he ain't no pro wrestling messiah. He also shoots at late [Bad Bones](@/w/bad-bones.md) saying, that he died just to get away from Arkadiusz.
 * Pawłowski - while almost crying - states that he made a lot of mistakes, but the biggest one is making Puncher a face of PTW, he also calls his champion "an ungrateful son of a bitch". PTW's owner states that today is the day of Puncher's defeat, when [Spartan](@/w/spartan.md) will take [PTW Championship](@/c/ptw-championship.md) from him.
 
-#### Erik Slothir vs Max Speed
+#### Erik Slotir vs Max Speed
 
 * Timestamp: `0:11:00`
-* [Erik Slothir](@/w/erik-slothir.md) makes his way to the ring first trying to mock [Max Speed](@/w/max-speed.md). Crowd is chanting "krecik!" (reference to popular czechoslovakian animated series) which visibly upsets Erik.
+* [Erik Slotir](@/w/erik-slotir.md) makes his way to the ring first trying to mock [Max Speed](@/w/max-speed.md). Crowd is chanting "krecik!" (reference to popular czechoslovakian animated series) which visibly upsets Erik.
 * Erik cuts short promo, basically saying that he is way better than his opponent and the Christmas is cancelled.
 * Max Speed enters the ring as the second one, wearing Santa's hat and Christmas sweater.
 * Meanwhile Referee Herno is entering the ring.
