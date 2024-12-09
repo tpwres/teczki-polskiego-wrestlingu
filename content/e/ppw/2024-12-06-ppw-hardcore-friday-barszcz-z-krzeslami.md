@@ -138,6 +138,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Michael HT thanks PpW Fanatics for attending the show. He sums up the 2024 as one of the most important years for PpW and announces that this is just the beggining for Ewenement. He thanks everyone who helped during every PpW show and reminded the crowd that the next show will take place 25.01.2025 at [Teatr Komuna](@/v/teatr-komuna.md) and the tickets are avaliable right now.
 * He also promoted after party, where [DJ Prezes](@/w/feager.md) would be the master of ceremony.
 * After that show ends.
+{% end %}
 
 ## References
 
