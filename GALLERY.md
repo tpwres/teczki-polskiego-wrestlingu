@@ -55,7 +55,7 @@ If used wrongly, file size grows or quality degrades: PNG can encode photos but 
 
 For any image, its thumbnail (located in the `tn/` subdirectory) must be encoded in the same format.
 
-As a rule of thumb, images above 500KiB in size should probably be converted to a more appropriate format (this is mostly applicable to screenshots**. If they already are in that format, they should be scaled down and optimized until they reach that size.
+As a rule of thumb, images above 250KiB in size should probably be converted to a more appropriate format (this is mostly applicable to screenshots). If they already are in that format, they should be scaled down and optimized until they reach that size.
 There is no recommended resolution for images, use the highest one that looks good and fits under the size.
 
 ## Manifest file
