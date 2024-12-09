@@ -25,8 +25,8 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 * Longest reign: Budapest Bastards (308 days)
 * Oldest Champion: Renegade (39 years, 99 days)
 * Youngest Champion: Disco Pablo (25 years, 91 days)
-* Heaviest Champions: PAKA - Disco Pablo & Taras (213kg)
-* Lightest Champions: L'Orda (165kg)
+* Heaviest Champions: PAKA - Disco Pablo & Taras (213&nbsp;kg)
+* Lightest Champions: L'Orda (165&nbsp;kg)
 
 ## History
 
