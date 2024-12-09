@@ -18,7 +18,7 @@ Under each image folder, there must also be a `tn/` folder. Files in that folder
 
 ## Gallery notation
 
-Each page that has a gallery signifies it by having an `[extra.gallery]` section in the front matter. Using Ale Grzeje for illustration:
+Each page that has a gallery signifies it by having an `[extra.gallery]` section in the front matter (or manifest file, see below). Using Ale Grzeje for illustration:
 
 ```
 +++
@@ -40,7 +40,7 @@ The value is always a map (another list of key-value pairs), which **must contai
 * `caption` is the text to display under the thumbnail in the gallery grid. Markdown can be used in this text, as shown in the example, so it can link to other pages. However, shortcodes and template markup cannot be used.
 * `source` is the attribution. While currently it's not displayed, we still want to collect it to have a grasp on where the images came from.
 
-### Rules for documenting atribution
+### Rules for documenting attribution
 
 * If it's a screenshot from social media, note the platform and the profile or page, e.g. 'Instagram @some_profile_name', or 'Twitter/X @thisorthatperson'.
 * If it's your own photo taken at an event, add your name or preferred nickname, e.g. 'Photo by John Anon'.
@@ -55,8 +55,56 @@ If used wrongly, file size grows or quality degrades: PNG can encode photos but 
 
 For any image, its thumbnail (located in the `tn/` subdirectory) must be encoded in the same format.
 
-As a rule of thumb, images above 500KiB in size should probably be converted to a more appropriate format (this is mostly applicable to screenshots). If they already are in that format, they should be scaled down and optimized until they reach that size.
+As a rule of thumb, images above 500KiB in size should probably be converted to a more appropriate format (this is mostly applicable to screenshots**. If they already are in that format, they should be scaled down and optimized until they reach that size.
 There is no recommended resolution for images, use the highest one that looks good and fits under the size.
+
+## Manifest file
+
+**Instead of** listing each photo in the front matter section, pages may specify that they use a manifest file instead.
+This is useful for pages with more than a couple of photos.
+
+```toml
+[extra.gallery]
+manifest = "@/e/low/2024-12-01-low-1-gallery.toml"
+```
+
+A manifest file is just a text file in a supported format, typically TOML, that lists the photos in a similar way to the frontmatter section. A single page may have **either** a manifest **or** a photo listing in the front matter. Combining the two is unsupported.
+
+The value of the `manifest` key is a path to the manifest file, which is resolved in the same fashion as all other internal links.
+It is recommended to keep the manifest file in the same directory with its page. In the example above, the manifest acoompanies an event page, and is accordingly put in the `e/low` directory.
+
+The manifest file should have the following structure:
+
+```toml
+[KEY]
+path = "filename.jpg"
+caption = "Lorem ipsum dolor sit amet."
+source = "Max Mustermann"
+[KEY2]
+path = "filename2.webp"
+caption = "Consectetur adipiscir elit."
+source = "Max Mustermann"
+```
+
+The `path`, `caption` and `source` fields work exactly as described under [Gallery notation](#gallery-notation) above.
+`KEY` is any alphanumeric string, also described in that section, and can be any arbitrary string. However, for large galleries accompanying event pages, there's a recommended schema for keys, to help sort and maintain them.
+
+### Recommended schema for event pages
+
+1. All photos will be using a four-digit key `MMXX`. The first two digits (`MM`) indicate the match or segment in the card, and the last two form a sequential number starting with `01`.
+2. Posters, photos of the venue, anything not showing in-ring action should use `00` or `99` as the first two digits. Use `0000` for the main show poster, `00xx` for other posters and venue photos. If the photos should instead be sorted towards the end, use `99xx`.
+3. Photos related to matches and segments should use the match or segment's number for the first two digits. The first match or segment is therefore `01xx`.
+4. Entries in the front matter or manifest should be sorted by key. The order of the photos is always exactly as listed, no sorting is done before displaying the gallery.
+
+## Automatic thumbnail
+
+Many social media platforms and messaging apps try to show rich previews of links shared through them. This is done by the pages providing specific metadata, which includes a thumbnail.
+Any page with a gallery will have such a thumbnail, **taken from the first photo listed** in the gallery or manifest, regardless of its key.
+
+* For event pages. the show poster should always be placed first.
+* For talent pages, the first photo should be a usable portrait of the person, preferably showing their face.
+* Venue pages can use a photo of the front entrance, or a recognizable sign or logo.
+* Other pages, such as articles, have no specific requirements, but should select at least an interesting and relevant photo.
 
 ## Videos?
 
