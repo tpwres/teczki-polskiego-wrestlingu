@@ -2,7 +2,7 @@
 title = "PTW Tag Team Championship"
 weight = 5
 template = "article.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery.1]
@@ -21,12 +21,12 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 ## Statistics
 
 * First champions: PAKA ([Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md) and [Boro](@/w/boro.md))
-* Current champions: Budapest Bastards ([Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md))
-* Longest reign: PAKA (223 days)
+* Current champions: L'Orda ([Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md))
+* Longest reign: Budapest Bastards (308 days)
 * Oldest Champion: Renegade (39 years, 99 days)
 * Youngest Champion: Disco Pablo (25 years, 91 days)
 * Heaviest Champions: PAKA - Disco Pablo & Taras (213kg)
-* Lightest Champions: Budapest Bastards (194kg)
+* Lightest Champions: L'Orda (165kg)
 
 ## History
 
@@ -100,9 +100,21 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Tag Team Match
     ed: 2024-08-25
     en: '[PTW Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md)'
-- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
-  - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
-  - s: Tag Team Match
+- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
+  - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+  - s: Hardcore Tornado Tag Team Match
+    ed: 2024-12-07
+    en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
+{% end %}
+
+**TOTAL:** 308 days
+
+### Champions #3: L'Orda
+
+{% free_card() %}
+- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
+  - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+  - s: Hardcore Tornado Tag Team Match
     ed: 2024-12-07
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
 {% end %}
