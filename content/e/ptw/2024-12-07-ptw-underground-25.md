@@ -41,8 +41,8 @@ For this event, PTW invited several debuting wrestlers:
 * Shortly before Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled "The Whole Truth About Polish Wrestling", which prompted further controversy on the Polish scene. Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he is the only professional one, acknowledging the competition but calling them "more or less amateur projects". 
 
 {% card() %}
-- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
-  - '[Puncher](@/w/puncher.md)
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Puncher](@/w/puncher.md)'
   - g: true
     s: Puncher vs Pawłowski altercation
 - - '[Max Speed](@/w/max-speed.md)'
