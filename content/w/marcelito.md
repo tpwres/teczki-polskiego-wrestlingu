@@ -91,7 +91,7 @@ In November it was announced that he would face MZW owner and legend [Shadow](@/
   - Samsonito (2023)
 * Entrance music:
   - "Runner Up" by North or Never
-     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-present) <br>
+ {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-present) <br>
  {{ music(yt='V25DImNEYkw')}}
  {{ music(spot='4gjycu7vNIP0A1KHNGS5N1')}}
  {{ music(apple='1536296291?i=1536296298')}}

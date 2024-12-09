@@ -12,7 +12,7 @@ career_aliases = ["Ultimo Combo", "Vins Michael $hot", "Black Orion", "Czacha"]
 ## In wrestling
 
 * Entrance music:
-- "Red Stars" by The Birthday Massacre
+  - "Red Stars" by The Birthday Massacre
  {{ org_badge(orgs=['ppw']) }} <br>
  {{ music(yt='4iOPS0X3pbk')}}
  {{ music(spot='25CRv7qnwyoa7kckF4HFb9')}}
