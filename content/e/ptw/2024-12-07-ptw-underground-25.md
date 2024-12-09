@@ -16,7 +16,7 @@ caption = "Facebook promotional graphic announcing Session Moth Martina"
 source = "Facebook @PrimeTimeWrestlingPL"
 [extra.gallery.prezes]
 path = "2024-12-07-ptw-underground-25-patrycja-malinowska-with-prezes-okonski.jpg"
-caption = "Prezes Okoński led on a chain by Patrycja Malinowska"
+caption = "El-Homo (Prezes Okoński) led on a chain by Patrycja Malinowska"
 source = "zbigniew_wielgosz @ Instagram"
 +++
 
