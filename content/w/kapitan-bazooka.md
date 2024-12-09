@@ -12,9 +12,20 @@ career_aliases = ["Czesław Pierdolec"]
 
 Kapitan Bazooka is a retired wrestler, competing for [PpW](@/o/ppw.md) between 2022 and 2024.
 
+## Basic info
+
+* Years active: 2022-2024
+* Gimmicks/nicknames:
+  - Kapitan Bazooka
+  - Czesław Pierdolec (non-canon shows)
+* Trained by:
+  - PpW Dojo (2022-2024)
+
 ## Professional wrestling career
 
-### 2022: Debut and feuding with Sędzia Kornel
+### PpW Ewenement (2022-2024)
+
+#### Debut and feuding with Sędzia Kornel
 
 Bazooka debuted during [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) in November 2022.
 His gimmick was that of a soldier dismissed from his unit for excessive aggression, wearing camo gear, green camo facepaint, combat boots and a black beret with no visible insignia.
@@ -24,7 +35,7 @@ Immediately after pinning his opponent he decided to also attack the referee, la
 That referee was the also-debuting [Sędzia Kornel](@/w/sedzia-kornel.md), and the two would go on to have a feud over the next few months, although mostly outside the ring and on social media.
 The feud was resolved during [Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) a year later, when Kornel's American cousin, Kapral (_Corporal_) Kornel defeated Bazooka in a singles match.
 
-### 2023: State of Extreme Violence, bodyguard to Mandecky
+#### State of Extreme Violence and bodyguard to Mandecky
 
 In February 2023, just before [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md), PpW released Bazooka's promo on YouTube, a two-minute clip titled "STAN NADZWYCZAJNEJ PRZEMOCY" (_State of Extreme Violence_).
 The video appeared with distortions and washed-out color as if recorded off TV with a VCR. In the top-right corner, a fake channel name "PpW HISTORIA" appears, directly referencing and mocking TVP Historia, the national broadcaster's channel focused on history.
@@ -38,7 +49,7 @@ He stated that Biesiad should not be too happy about his defense, because he'd b
 Biesiad won that match by KO, defending his title yet again.
 This broke Bazooka's undefeated streak.
 
-### 2024: Betraying Mandecky, retirement
+#### Betraying Mandecky and retirement
 
 Bazooka's only other singles match after May 2023 was against [Kapral Kornel](@/w/sedzia-kornel.md) at [PpW Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) in November.
 On that event, he also appeared in two multi-man matches.
@@ -53,6 +64,16 @@ After rolling him out of the ring and dragging his body over the barriers, he le
 The audience was later told that he put Mandecky in a body bag, then in a car's trunk and drove off to parts unknown.
 
 This new angle however, didn't go anywhere. Later that year in August, Bazooka announced his retirement from wrestling due to unspecified joint condition, preventing him from strenuous physical activity.
+
+## In wrestling:
+
+* Finishers:
+  - Stunner (2022-2024)
+
+* Entrance music:
+  - "Symphony of Destruction" by Megadeath
+    {{ org_badge(orgs=['ppw']) }} (2022-2024) <br>
+    {{ music(yt='vfpgpf6QVnI')}} {{ music(spot='51TG9W3y9qyO8BY5RXKgnZ')}} {{ music(apple='725812243?i=725812418')}}
 
 [mandecki-johnny-segment]: https://www.youtube.com/watch?v=ziLmuoNIKUE
 [wikipedia-martial-law-poland]: https://en.wikipedia.org/wiki/Martial_law_in_Poland
