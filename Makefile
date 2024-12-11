@@ -70,7 +70,7 @@ $(MINISEARCH_INDEX): content/**/*.md
 gemini_files: public capsule gemini_w gemini_e gemini_a gemini_c gemini_v capsule/index.gmi
 
 public:
-	zola build
+	zola -c gemini_config.toml build
 
 gemini_e: $(patsubst public/e/kpw/%/index.html, capsule/e/kpw/%.gmi, $(wildcard public/e/kpw/**/*.html))
 gemini_e: $(patsubst public/e/ptw/%/index.html, capsule/e/ptw/%.gmi, $(wildcard public/e/ptw/**/*.html))
