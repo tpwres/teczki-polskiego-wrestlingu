@@ -49,6 +49,8 @@ After establishing themselves as a serious organization and building a network o
 2021 saw them invite several [MZW](@/o/mzw.md) wrestlers for a show held during a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) in Poznań, with a [reprise](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) two years later.
 In 2023 PpW was recognized by Cagematch, and most of its events and wrestlers have been added to their database. WrestleMap features news about PpW since 2021.
 
+In early December 2024 a YouTube channel Newonce uploaded an [interview][newonce-pt-1] with some of the PpW talent. In it, [Mister Z](@/w/mister-z.md) said that he had damaged [Rob Scaffold's](@/w/rob-scaffold.md) spine by performing a Piledriver on him. This prompted Z to realise that the backyard iteration of PpW needs to be destroyed and rebuilt as a professional promotion in order for the group to be able to carry on.
+
 #### 2023: Prime Time Transfers, professional ring
 
 In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeared on PpW shows, quitting their promotion openly and criticizing [its owner](@/w/pan-pawlowski.md) on social media. This further boosted PpW's image on the Polish scene as a place dedicated to the joy of wrestling and not commercial endeavors. Later, PpW named this event and the wrestlers "Prime Time Transfers". The first one to appear was [Rafi](@/w/rafi.md), followed by [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and later his tag team partner [Vic Golden](@/w/vic-golden.md).
@@ -134,3 +136,4 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 [ppw-c]: @/c/ppw-championship.md
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
 [halo-tu-ppw]: https://youtu.be/rbscVyOSjn0?si=Li0WYQoHiVM9V-Pe
+[newonce-pt-1]: https://www.youtube.com/watch?v=KT8PHRlnSxI
