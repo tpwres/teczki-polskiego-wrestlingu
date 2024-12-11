@@ -24,6 +24,9 @@ meta: $(METADATA)
 calendar: $(CAL)
 plot: $(PLOTS)
 index: $(MINISEARCH_INDEX)
+gem: gemini_files gemini_writer.lua themes/gem/**/*.html
+
+.DELETE_ON_ERROR:
 
 clean:
 	rm -rf $(ROSTERS) $(METADATA) $(PLOTS) $(CAL) $(MINISEARCH_INDEX) data/all_time_roster.json data/aliases.json
@@ -63,3 +66,64 @@ static/calendar-%.ics: content/e/%/*.md
 
 $(MINISEARCH_INDEX): content/**/*.md
 	bin/build-index > $@
+
+gemini_files: public capsule gemini_w gemini_e gemini_a gemini_c gemini_v capsule/index.gmi
+
+public:
+	zola build
+
+gemini_e: $(patsubst public/e/kpw/%/index.html, capsule/e/kpw/%.gmi, $(wildcard public/e/kpw/**/*.html))
+gemini_e: $(patsubst public/e/ptw/%/index.html, capsule/e/ptw/%.gmi, $(wildcard public/e/ptw/**/*.html))
+gemini_e: $(patsubst public/e/ppw/%/index.html, capsule/e/ppw/%.gmi, $(wildcard public/e/ppw/**/*.html))
+gemini_e: $(patsubst public/e/mzw/%/index.html, capsule/e/mzw/%.gmi, $(wildcard public/e/mzw/**/*.html))
+gemini_e: $(patsubst public/e/low/%/index.html, capsule/e/low/%.gmi, $(wildcard public/e/low/**/*.html))
+
+gemini_w: $(patsubst public/w/%/index.html, capsule/w/%.gmi, $(wildcard public/w/**/*.html))
+gemini_a: $(patsubst public/a/%/index.html, capsule/a/%.gmi, $(wildcard public/a/**/*.html))
+gemini_c: $(patsubst public/c/%/index.html, capsule/c/%.gmi, $(wildcard public/c/**/*.html))
+gemini_v: $(patsubst public/v/%/index.html, capsule/v/%.gmi, $(wildcard public/v/**/*.html))
+
+capsule/index.gmi: public/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule:
+	mkdir -p $@
+
+HTML2GEM=pandoc --fail-if-warnings -f html -t gemini_writer.lua
+
+capsule/w/%.gmi: public/w/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/a/%.gmi: public/a/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/c/%.gmi: public/c/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/v/%.gmi: public/v/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/e/kpw/%.gmi: public/e/kpw/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/e/ptw/%.gmi: public/e/ptw/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/e/ppw/%.gmi: public/e/ppw/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/e/mzw/%.gmi: public/e/mzw/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/e/low/%.gmi: public/e/low/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@

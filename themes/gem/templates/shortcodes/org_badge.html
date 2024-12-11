@@ -1,0 +1,6 @@
+{%- if org %}
+  [{{ org }}]
+{%- elif orgs %}
+  {%- for org in orgs %} [{{ org }}] {% endfor -%}
+{%- endif -%}
+

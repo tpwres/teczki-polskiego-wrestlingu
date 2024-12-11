@@ -1,0 +1,9 @@
+<ul>
+  <li>Year | Organization</li>
+  {% for year in years | sort | reverse %}
+    <li>
+      {% set thisyear = mycareer | get(key=year|as_str, default=[]|group_by(key=0)) %}
+      {{ year }} | {% for org, cnt in thisyear %} {{ org }}:{{ cnt }} {% endfor %}
+    </li>
+  {% endfor %}
+</ul>

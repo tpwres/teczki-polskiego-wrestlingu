@@ -1,0 +1,98 @@
+# The URL the site will be built for
+base_url = "gemini://postjam.tail9c11fa.ts.net:10000"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestling
+
+theme = "gem"
+
+taxonomies = [
+  { name = "chronology", render = false },
+  { name = "venue", render = false },
+  { name = "chrono_root", render = false },
+  { name = "country", render = false },
+]
+
+[search]
+index_format = "elasticlunr_json"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[slugify]
+paths_keep_dates = true
+
+[extra]
+# Put all your custom variables here
+new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new"
+
+list_pages = false
+default_theme = "dark"
+header_nav_links = [
+  { path = "@/e/_index.md", name = "Events", icon = "calendar" },
+  { path = "@/w/_index.md", name = "People", icon = "users" },
+  { path = "@/o/_index.md", name = "Orgs", icon = "globe" },
+  { path = "@/a/_index.md", name = "Articles", icon = "book" },
+  { path = "@/v/_index.md", name = "Places", icon = "map-pin" },
+  { path = "@/c/_index.md", name = "Championships", icon = "award" },
+]
+
+footer_links = [
+  { path = "@/about.md", name = "About", icon = "info"},
+  { path = "@/a/contributing.md", name = "Contributing", icon = "edit"},
+  { url = "//github.com/tpwres/teczki-polskiego-wrestlingu", name = "GitHub", icon = "github"},
+  { path = "@/authors.md", name = "Authors", icon = "heart" }
+]
+mensch_theme = "theme-base-0e"
+
+gallery_root = "/i"
+
+tts_root = "//unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&sl=pl&ttsMode=sentence&speed=3&voiceId=Maja"
+
+[extra.org_styles.ppw]
+bg = '#5b007e'
+text_fg = '#c7c7c7'
+
+[extra.org_styles.mzw]
+bg = '#208315'
+text_fg = '#ffffff'
+
+[extra.org_styles.kpw]
+bg = '#133762'
+text_fg = '#ffffff'
+
+[extra.org_styles.ddw]
+bg = '#71171f'
+text_fg = '#fbf1c7'
+
+[extra.org_styles.tbw]
+bg = '#000'
+text_fg = '#999a93'
+
+[extra.org_styles.dfw]
+bg = '#a9100b'
+text_fg = '#fbf1c7'
+
+[extra.org_styles.ptw]
+bg = '#000'
+text_fg = '#ffffff'
+
+[extra.chronology]
+underground = "PTW Underground"
+godzina-zero = "KPW Godzina Zero"
+arena = "KPW Arena"
+pyrkon = "Pyrkon"
+international = "International"
+poznan-fair = "Poznań International Fair"
+beer-expo = "Poznań Beer Expo"
+oldtown = "OldTown Festival"

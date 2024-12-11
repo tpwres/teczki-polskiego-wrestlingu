@@ -1,0 +1,54 @@
+{% set_global all_appearances = [] %}
+{% for app in appearances_entry %}
+  {% set match = all_matches[app] %}
+  {% set_global all_appearances = all_appearances | concat(with=match) %}
+{% endfor %}
+
+{# We can just concat them onto the list of matches - both are similar in structure #}
+{% for app in crew_appearances_entry %}
+  {% set_global all_appearances = all_appearances | concat(with=app) %}
+{% endfor %}
+
+{# Calculate orgs from career_entry #}
+{% set_global orgs = [] %}
+{% for _year, org_count in career_entry %}
+  {% for org, _count in org_count %}
+    {% if orgs is not containing(org) %}
+      {% set_global orgs = orgs|concat(with=org) %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{# And from crew_appearances_entry #}
+{% for row in crew_appearances_entry %}
+  {% set crew_orgs = row.o %}
+  {% for org in crew_orgs %}
+    {% if orgs is not containing(org) %}
+      {% set_global orgs = orgs|concat(with=org) %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% set_global used_events = [] %}
+{% set_global i = 1 %}
+{# Now iterate through orgs, and find matches for that org #}
+{% for o in orgs %}
+  <span class="ot">
+    {# skip org if listing a name that was not used in it #}
+    {% set_global valid_org = false %}
+    {% for mm in all_appearances %}
+      {% if mm.o is containing(o) %}{% set_global valid_org = true %}{% break %}{% endif %}
+    {% endfor %}
+    {% if not valid_org %}{% continue %}{% endif %}
+    [{{ o }}]
+    {% if display_match_links and all_appearances|length < 5 %}
+      {% for match in all_appearances|sort(attribute='d') %}
+        {% if not match.o is containing(o) %} {% continue %} {% endif %}
+        {% if used_events is containing(match.p) %} {% continue %} {% endif %}
+        <a href="{{ get_url(path="@/" ~ match.p) }}"><small>[{{ i }}]</small></a>
+        {% set_global used_events = used_events|concat(with=match.p) %}
+        {% set_global i = i + 1 %}
+      {% endfor %}
+    {% endif %}
+    </span>
+{% endfor %}

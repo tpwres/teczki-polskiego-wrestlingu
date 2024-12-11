@@ -1,0 +1,10 @@
+{% set orgs = [] %}
+{% for org in page.taxonomies.chronology %}
+  {% if not config.extra.chronology is containing(org) %}
+    {% set_global orgs = orgs | concat(with=org) %}
+  {% endif %}
+{% endfor %}
+
+{% if orgs %}
+  {% for org in orgs %} [{{ org }}] {% endfor %}
+{% endif %}

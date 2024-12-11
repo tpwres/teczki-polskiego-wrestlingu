@@ -1,0 +1,4 @@
+name = "gem"
+description = "Try generating Gemtext with Zola"
+license = "MIT"
+min_version = "0.18.0"

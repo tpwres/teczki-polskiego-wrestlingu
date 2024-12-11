@@ -1,0 +1,22 @@
+{% set section = get_section(path="e/_index.md") %}
+{% set venues_section = get_section(path="v/_index.md") %}
+{% set_global all_events = section.pages %}
+
+{% for subsection_path in section.subsections %}
+  {% set subsection = get_section(path=subsection_path) %}
+  {% set_global all_events = all_events | concat(with=subsection.pages) %}
+{% endfor %}
+
+{% set events_by_year = all_events | group_by(attribute="year") %}
+{% set_global years = [] %}
+{% for year, _ignore in events_by_year %}{% set_global years = years | concat(with=year) %}{% endfor %}
+
+{% set i = 0 %}
+{% for thisyear in years|sort|reverse %}
+  {% if i > max_events %}{% break %}{% endif %}
+  <h2>{{ thisyear }}</h2>
+
+  {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
+    <a href="{{ get_url(path=page.path)}}" class="gem-hidden">{{ page.date }} {%- include "events/org_badges.html" -%} {{ page.title }}</a>
+  {% endfor %}
+{% endfor %}

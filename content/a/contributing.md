@@ -1,6 +1,7 @@
 +++
 title = "Contributing"
 authors = ["Krzysztof Zych"]
+template = "base.html"
 weight = 0
 +++
 

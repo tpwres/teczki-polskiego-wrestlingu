@@ -1,0 +1,35 @@
+{% set all_matches = load_data(path="data/all_matches.json") %}
+{% set appearances = load_data(path="data/appearances_v2.json") %}
+{% if page.extra.career_name %}
+    {% set my_appearances = appearances | get(key=page.extra.career_name) %}
+{% else %}
+    {% set my_appearances = appearances | get(key=page.title, default=[]) %}
+{% endif %}
+{% for alias in page.extra | get(key="career_aliases", default=[]) %}
+    {% set alias_appearances = appearances | get(key=alias, default=[]) %}
+    {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
+{% endfor %}
+{% set_global my_matches = [] -%}
+{% for entry in my_appearances %}
+  {% set index = entry[0] %}
+  {% set_global my_matches = my_matches | concat(with=all_matches[index]) %}
+{% endfor %}
+{% set careers = [] %}
+{% set all_matches = [] %}
+{% set appearances = [] %}
+{% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') %}
+{% set my_match_pos = my_appearances | group_by(attribute='0') %}
+
+{% if my_matches %}
+<h3>Matches and segments</h3>
+<ul>
+  {% for match in matches_by_date | reverse %}
+    {% set row = match.m %}
+    {% set positions = my_match_pos[match.i] | map(attribute='1') %}
+    {% set event_path = "@/" ~ match.p %}
+    <li>
+      {{ match.d }} {% for org in match.o %} [{{ org }}] {% endfor %} {% include "career/result_row.html" -%} at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a> {% if match.tt %} ({{ match.tt }}) {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}

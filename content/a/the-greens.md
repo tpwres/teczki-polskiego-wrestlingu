@@ -1,6 +1,7 @@
 +++
 title = "The Greens"
 weight = 0
+template = "article.html"
 authors = ["Seweryn Pielucha"]
 +++
 
