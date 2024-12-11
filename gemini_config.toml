@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "gemini://raspberrypi.tail9c11fa.ts.net"
+base_url = "gemini://raspberrypi.tail9c11fa.ts.net:10000"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

@@ -1,3 +1,11 @@
+{% for link in config.extra.header_nav_links %}
+  {% if link.path %}
+    <a href="{{ get_url(path=link.path) }}" class="gem-hidden">{{ link.name }}</a>
+  {% elif link.url %}
+    <a href="{{ link.url }}" class="gem-hidden">{{ link.name }}</a>
+  {% endif %}
+{% endfor %}
+
 {% block content %}
   {{ page.content }}
 {% endblock %}

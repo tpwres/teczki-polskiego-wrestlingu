@@ -1,0 +1,3 @@
+{% if row.d is defined %}
+  <li>{{ row.d | markdown(inline=true) | safe }}</li>
+{% endif %}

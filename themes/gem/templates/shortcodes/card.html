@@ -1,1 +1,38 @@
-CARD
+{% set data = load_data(literal=body,format="yaml") %}
+
+{% if predicted %}
+<h3>Predicted card</h3>
+{% elif incomplete %}
+<h3>Incomplete card</h3>
+{% elif unofficial %}
+<h3>Unofficial card</h3>
+{% else %}
+<h3>Card/Results</h3>
+{% endif %}
+
+{% set hide_results = page.extra | get(key="hide_results", default=false) -%}
+{% if not hide_results %}
+{# No interactivity available to toggle between card and results #}
+<ul>
+  {% set_global rownum = 1 %}
+  {% for row in data %}
+    {% if row is object %}
+      {% include "card/object_row.html" %}
+    {% else %}
+      {% include "card/result_row.html" %}
+      {% set_global rownum = rownum + 1 %}
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% set last_row = data | last %}
+{% if last_row is object and 'credits' in last_row %}
+  {% set credits = last_row | get(key='credits') %}
+  <h4>Cast and crew</h4>
+  <ul>
+  {% for role, people in credits %}
+    <li>{{ role }}: {{ people | markdown(inline=true) | safe }}</li>
+  {% endfor %}
+  </ul>
+{% endif %}

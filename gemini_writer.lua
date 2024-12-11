@@ -6,6 +6,8 @@ local hang = layout.hang
 local concat = layout.concat
 local nowrap = layout.nowrap
 
+local table_gen = require('table_gen')
+
 local TAB_SIZE = 2
 
 Writer = pandoc.scaffolding.Writer
@@ -70,6 +72,7 @@ end
 function dump_pending_links()
   local function render_link(link)
     local target = link.target .. ".gmi"
+    target = string.gsub(target, "/%.gmi", ".gmi")
     return concat { '=> ', target, ' ', nowrap(Writer.Inlines(link.content)), cr }
   end
   local content = {}
@@ -96,8 +99,12 @@ Writer.Block.Header = function(el)
   elseif el.level > 3 then
     return concat { '### ', Writer.Inlines(el.content) }
   else -- level == 1, title, ignore
-    return {}
+    return concat { '# *', Writer.Inlines(el.content), '*' }
   end
+end
+
+Writer.Block.Div = function(div)
+  return Writer.Blocks(div.content)
 end
 
 Writer.Block.BulletList = function(el)
@@ -119,4 +126,22 @@ Writer.Block.OrderedList = function(el)
     return concat { hang(Writer.Blocks(item), TAB_SIZE, counter .. "."), cr }
   end
   return concat(el.content:map(render_item))
+end
+
+local table_header = {}
+local table_rows = {}
+
+Writer.Block.Table = function(tbl)
+  print(tbl)
+  return { Writer.Blocks(tbl.content) }
+end
+
+Writer.Block.Row = function(row)
+  print(row)
+  return { Writer.Blocks(row.content) }
+end
+
+Writer.Block.Cell = function(cell)
+  print(cell)
+  return { Writer.Blocks(cell.content) }
 end

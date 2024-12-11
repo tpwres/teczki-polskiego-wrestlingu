@@ -24,7 +24,7 @@ meta: $(METADATA)
 calendar: $(CAL)
 plot: $(PLOTS)
 index: $(MINISEARCH_INDEX)
-gem: gemini_files gemini_writer.lua themes/gem/**/*.html
+gem: public gemini_files gemini_writer.lua themes/gem/**/*.html
 
 .DELETE_ON_ERROR:
 
@@ -67,30 +67,37 @@ static/calendar-%.ics: content/e/%/*.md
 $(MINISEARCH_INDEX): content/**/*.md
 	bin/build-index > $@
 
-gemini_files: public capsule gemini_w gemini_e gemini_a gemini_c gemini_v capsule/index.gmi
+gemini_files: capsule gemini_w gemini_e gemini_a gemini_c gemini_v gemini_o gemini_toplevel capsule/index.gmi
 
 public:
 	zola -c gemini_config.toml build
 
+HTML2GEM=pandoc --fail-if-warnings -f html -t gemini_writer.lua
+
 gemini_e: $(patsubst public/e/kpw/%/index.html, capsule/e/kpw/%.gmi, $(wildcard public/e/kpw/**/*.html))
+gemini_e: $(patsubst public/e/ddw/%/index.html, capsule/e/ddw/%.gmi, $(wildcard public/e/ddw/**/*.html))
 gemini_e: $(patsubst public/e/ptw/%/index.html, capsule/e/ptw/%.gmi, $(wildcard public/e/ptw/**/*.html))
 gemini_e: $(patsubst public/e/ppw/%/index.html, capsule/e/ppw/%.gmi, $(wildcard public/e/ppw/**/*.html))
 gemini_e: $(patsubst public/e/mzw/%/index.html, capsule/e/mzw/%.gmi, $(wildcard public/e/mzw/**/*.html))
 gemini_e: $(patsubst public/e/low/%/index.html, capsule/e/low/%.gmi, $(wildcard public/e/low/**/*.html))
+gemini_toplevel: capsule/w.gmi capsule/o.gmi capsule/a.gmi capsule/c.gmi capsule/v.gmi
 
 gemini_w: $(patsubst public/w/%/index.html, capsule/w/%.gmi, $(wildcard public/w/**/*.html))
+gemini_o: $(patsubst public/o/%/index.html, capsule/o/%.gmi, $(wildcard public/o/**/*.html))
 gemini_a: $(patsubst public/a/%/index.html, capsule/a/%.gmi, $(wildcard public/a/**/*.html))
 gemini_c: $(patsubst public/c/%/index.html, capsule/c/%.gmi, $(wildcard public/c/**/*.html))
 gemini_v: $(patsubst public/v/%/index.html, capsule/v/%.gmi, $(wildcard public/v/**/*.html))
+
+capsule:
+	mkdir -p $@
 
 capsule/index.gmi: public/index.html
 	@mkdir -p $(@D)
 	$(HTML2GEM) < $^ > $@
 
-capsule:
-	mkdir -p $@
-
-HTML2GEM=pandoc --fail-if-warnings -f html -t gemini_writer.lua
+capsule/%.gmi: public/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
 
 capsule/w/%.gmi: public/w/%/index.html
 	@mkdir -p $(@D)
@@ -104,7 +111,15 @@ capsule/c/%.gmi: public/c/%/index.html
 	@mkdir -p $(@D)
 	$(HTML2GEM) < $^ > $@
 
+capsule/o/%.gmi: public/o/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
 capsule/v/%.gmi: public/v/%/index.html
+	@mkdir -p $(@D)
+	$(HTML2GEM) < $^ > $@
+
+capsule/e/ddw/%.gmi: public/e/ddw/%/index.html
 	@mkdir -p $(@D)
 	$(HTML2GEM) < $^ > $@
 
