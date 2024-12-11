@@ -1,0 +1,3 @@
+<ul class="talentlist-section column-rule">
+  {{ body | markdown | trim_start_matches(pat="<ul>") | trim_end_matches(pat="</ul>") | safe }}
+</ul>

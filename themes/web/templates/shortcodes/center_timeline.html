@@ -1,0 +1,15 @@
+<style type="text/css">
+    .grand-timeline::before {
+        content: "";
+        position: absolute;
+        top: 0px;
+        left: 50%;
+        bottom: 0px;
+        transform: translateX(-50%);
+        width: 4px;
+        background-color: #fff;
+    }
+</style>
+<div class="grand-timeline">
+    {{ body | markdown | safe }}
+</div>
