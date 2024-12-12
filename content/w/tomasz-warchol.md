@@ -9,7 +9,7 @@ Tomasz Warchoł is a pro wrestling host, announcer, commentator and ring crew me
 
 ## Basic info
 
-* Years active: 2014-2019; 2024-
+* Years active: 2014-2019; 2024
 * Gimmicks/nicknames:
   - Tomasz Warchoł {{ org_badge(orgs=['mzw']) }}
  
