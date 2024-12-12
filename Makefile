@@ -6,7 +6,12 @@ ROSTERS=data/roster_ptw.json \
         data/roster_dfw.json \
         data/roster_wws.json \
         data/roster_wwe.json
-METADATA=data/all_matches.json data/appearances.json data/crew_appearances.json data/career.json
+METADATA=data/all_matches.json \
+				 data/appearances.json \
+         data/crew_appearances.json \
+         data/career.json \
+         data/all_photos.json \
+         data/photo_taggings.json
 PLOTS=data/chronology-hyperlinked.svg
 CAL=static/calendar.ics \
     static/calendar-ptw.ics \
@@ -39,6 +44,9 @@ data/aliases.json: content/w/*.md
 
 data/all_time_roster.json: data/aliases.json data/career.json const/name-to-flag.yaml const/flags-by-code.json const/emojis.yaml
 	bin/build-atr
+
+data/all_photos.json data/photo_taggings.json &: content/e/**/*.md
+	bin/build-talent-gallery
 
 $(ROSTERS) &: content/e/**/*.md
 	bin/build-roster

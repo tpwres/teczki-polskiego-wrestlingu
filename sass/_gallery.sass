@@ -31,3 +31,27 @@ ul.gallery
       background-position: center
       background-repeat: no-repeat
       background-size: contain
+
+details > summary.h2-like
+  font-size: 2.6rem
+  margin-top: 3rem
+  margin-bottom: .25rem
+  color: var(--dark-green)
+  display: flex
+  align-items: flex-start
+  text-align: left
+  &:before
+    padding: 0 0.5rem
+    content: '▸'
+  &:after
+    content: ''
+    flex-grow: 1
+    height: 0.26rem
+    background: var(--dark-green)
+    min-width: 2rem
+    margin: auto
+    margin-left: 1rem
+
+details[open] > summary.h2-like
+  &:before
+    content: '▾ '
