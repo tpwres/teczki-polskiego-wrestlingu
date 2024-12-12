@@ -17,9 +17,9 @@
     {% set_global extra_gallery = extra_gallery | concat(with=[other_photo]) %}
   {% endfor %}
 {% endif %}
+{% include "shared/lightbox.html" %}
 {% if gallery_items %}
   <h2 id="gallery">Gallery</h2>
-  {% include "shared/lightbox.html" %}
     <ul class="gallery"
         data-controller="gallery"
         data-gallery-lightbox-outlet="dialog"
