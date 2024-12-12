@@ -1,0 +1,25 @@
+{% set key = elem[0] %}
+{% set item = elem[1] %}
+{% set path = item.path -%}
+{% set thumb = item.thumb -%}
+{% set event_link = item.event %}
+{% set caption = item | get(key="caption", default="") -%}
+{% set source = item | get(key="source", default="") -%}
+{%- if not source %} {% set source = "" %} {% endif -%}
+<li>
+  <figure id="fig{{ loop.index }}" data-path="{{ config.extra.gallery_root ~ path }}" data-gallery-target="figure">
+    <a href="#img{{ loop.index }}" class="tn" data-action="gallery#open:prevent">
+      <img src="{{ config.extra.gallery_root ~ thumb }}" alt=""/>
+    </a>
+
+    <a class="lightbox" href="#fig{{ loop.index }}" id="img{{ loop.index }}">
+      <span style="background-image: url('{{ config.extra.gallery_root ~ path }}')"></span>
+    </a>
+    <figcaption>
+      {{ caption | markdown(inline=true) | safe }}
+      <br/>
+      <small>From: {{ event_link | markdown(inline=true) | safe }}</small>
+    </figcaption>
+    <data class="attribution">{{ source | markdown(inline=true) | safe }}</data>
+  </figure>
+</li>
