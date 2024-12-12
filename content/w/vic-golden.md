@@ -136,6 +136,11 @@ After Legia Łysych joined [Zmowa](@/a/the-collusion.md), Pure Gold became their
 
 * Backyardowy Wrestling Niezależny:
   - BWN Championship (1 time)
+ 
+## Internet presence
+
+* [Vic's Facebook profile](https://www.facebook.com/TheVicGolden)
+* [Vic's Instagram](https://www.instagram.com/the_vicgolden)
 
 ## References
 
