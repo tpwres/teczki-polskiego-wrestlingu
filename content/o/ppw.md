@@ -49,7 +49,7 @@ After establishing themselves as a serious organization and building a network o
 2021 saw them invite several [MZW](@/o/mzw.md) wrestlers for a show held during a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) in Poznań, with a [reprise](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) two years later.
 In 2023 PpW was recognized by Cagematch, and most of its events and wrestlers have been added to their database. WrestleMap features news about PpW since 2021.
 
-In early December 2024 a YouTube channel Newonce uploaded an [interview][newonce-pt-1] with some of the PpW talent. In it, [Mister Z](@/w/mister-z.md) said that he had damaged [Rob Scaffold's](@/w/rob-scaffold.md) spine by performing a Piledriver on him. This prompted Z to realise that the backyard iteration of PpW needs to be destroyed and rebuilt as a professional promotion in order for the group to be able to carry on.
+In early December 2024, YouTube channel Newonce uploaded an [interview][newonce-pt-1] with some of the PpW talent, recorded around the time of [Co Za Noc](@/e/ppw.2024-10-26-ppw-co-za-noc.md) and in the same location. In it, [Mister Z](@/w/mister-z.md) recalled that he had damaged [Rob Scaffold's](@/w/rob-scaffold.md) spine by performing a Piledriver on him. This prompted Z to realise that the backyard iteration of PpW needed to be destroyed and rebuilt as a professional promotion in order for the group to be able to carry on.
 
 #### 2023: Prime Time Transfers, professional ring
 
