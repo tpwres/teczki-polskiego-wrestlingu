@@ -15,23 +15,22 @@ Vincent Caravaggio is a Polish pro-wrestler performing for [Prime Time Wrestling
   - Vincent Caravaggio {{ org_badge(orgs=['ptw']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-present)
- 
+
 ## Professional wrestling career
 
 ### Prime Time Wrestling (2023-present)
 
 #### Debut and first feuds
 
-Vincent Caravaggio made his debut in December 2023 at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md). From the start he rocked his villainous persona, describing himself as "the Aristocrat from [Wawel][wiki-wawel]". The main part of his gimmick, besides his aristocratic apperance, were long promos, in which he often insulted both his opponents and the crowd, often calling them peasants (_wieśniaki_).
+Vincent Caravaggio made his debut in December 2023 at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md). From the start he rocked his villainous persona, describing himself as "the Aristocrat from [Wawel][wiki-wawel]". The main part of his gimmick, besides his aristocratic apperance, were long promos, in which he often insulted both his opponents and the crowd, often calling them peasants (_wieśniaki_), and made references to upper-class lifestyle and wealth.
 
-Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he's been involved in a storyline where he alligned himself with another heel, [Alex Brave](@/w/alex-brave.md), against the new generation of PTW's babyfaces - [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md). 
+Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he's been involved in a storyline where he aligned himself with another heel, [Alex Brave](@/w/alex-brave.md), against the new generation of PTW's babyfaces - [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md).
 
 ## In wrestling
 
 * Finishers:
   - Ankle Lock (2024-)
   - Wine Mist (2024-)
- 
 * Entrance music:
   - "Prelude" by Versailles
  {{ org_badge(orgs=['mzw', 'ddw']) }} (2023-) <br>

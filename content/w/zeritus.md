@@ -6,7 +6,7 @@ authors = ["Sewi the Referee"]
 country = ["DE"]
 +++
 
-Zeritus is a wrestler from Germany, who performs mostly on his homeland scene, but is known for making occasional apperances at the Polish federation [Maniac Zone Wrestling](@/o/mzw.md).
+Zeritus is a wrestler from Germany, who performs mostly on his homeland scene, but is known for making occasional appearances in [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -15,24 +15,23 @@ Zeritus is a wrestler from Germany, who performs mostly on his homeland scene, b
   - Zeritus {{ org_badge(orgs=['mzw']) }}
 * Trained by:
   - Next Step Wrestling School
- 
+
 ## Professional wrestling career
 
 ### Maniac Zone Wrestling (2016-2023)
 
 #### Irregural apperances
 
-Zeritus made a few apperances in Maniac Zone Wrestling. Two of them took place in 2016 where he teamed up with [Hexia](@/w/hexia.md) as part of a monster-heel tag team at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md) and [Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md). He then returned in 2019/2020, performing at three MZW shows: Projects [5](content/e/mzw/2019-06-01-mzw-project-5-hero.md), [6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) and [7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md). 
-After the COVID-19 pandemic he made yet another apperance at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md).
+Zeritus made a few appearances in Maniac Zone Wrestling. Two of them took place in 2016, when he teamed up with [Hexia](@/w/hexia.md) as part of a monster-heel tag team at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md) and [Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md). He then returned in 2019/2020, performing at three MZW shows: Projects [5](content/e/mzw/2019-06-01-mzw-project-5-hero.md), [6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) and [7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
+After the COVID-19 pandemic he made yet another appearance at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md).
 
-Zeritus made his apperances for MZW mostly due to positive working relations between MZW and Dresden-based German federations such as Next Step Wrestling. 
-Besides his ventures in Poland, Zeritus is mostly known for his apperances in German and other Central-European federations, such as wXw, TAW, Passion Pro and others.
+Zeritus was able to perform for MZW mostly due to positive working relations between MZW and Dresden-based German federations such as Next Step Wrestling.
+Besides his ventures in Poland, Zeritus is mostly known for his appearances in German and other Central-European federations, such as wXw, TAW, Passion Pro and others.
 
 ## In wrestling
 
-* Finishers: 
+* Finishers:
   - Chokebomb (2016-2023)
-
 * Entrance music:
 - "Wenn ihr wollt, ist es kein Traum" by Max Kusari
  {{ org_badge(orgs=['mzw']) }} (2016-2023) <br>

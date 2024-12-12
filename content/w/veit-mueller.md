@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["DE"]
 +++
 
-Veit Müller is a German wrestler. He is best known at the Polish wrestling scene for his tenure in [Kombat Pro Wrestling](@/o/kpw.md) as one half Die Ordnung tag team..
+Veit Müller is a German wrestler. He is best known in the Polish wrestling scene for his tenure in [Kombat Pro Wrestling](@/o/kpw.md) as one half of the one-time KPW Tag Team Champion holders Die Ordnung.
 
 ## Basic info
 
@@ -15,7 +15,7 @@ Veit Müller is a German wrestler. He is best known at the Polish wrestling scen
   - Veit Müller {{ org_badge(orgs=['kpw']) }}
 * Trained by:
   -	Nordisch Fight Club
- 
+
 ## Professional wrestling career
 
 ### Kombat Pro Wrestling (2022-present)
@@ -26,13 +26,10 @@ Veit made his debut at [KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-ze
 
 * Finishers:
   - Sleeper Hold (2023)
-
 * With [Hans Schulte](@/w/hans-schulte.md):
   - Powerbomb (Veit) followed by Running Senton (Hans) (2022-)
- 
 * Tag teams and stables:
   - Die Ordnung (2022-)
- 
 * Entrance music:
   - "Deutschland" by Rammstein
  {{ org_badge(orgs=['kpw']) }} (2022-, in tag team with [Hans Schulte](@/w/hans-schulte.md)) <br>
