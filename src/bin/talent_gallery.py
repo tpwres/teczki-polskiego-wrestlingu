@@ -59,11 +59,22 @@ def parse_names(text):
     for mm in person_link_re.finditer(text):
         yield(mm.group('target'))
 
-def combine_path(event_page: EventPage, photo_path: str):
+def combine_path(event_page: EventPage, subdir, photo_path: str) -> str:
     """Given an event page and a photo path that should be located in its directory, generate a path from content root."""
     content_root = Path.cwd() / 'content'
     relative = event_page.path.relative_to(content_root)
-    return relative / photo_path
+    path = relative / subdir / photo_path
+    return str(path).replace('.md', '')
+
+def generate_key(event_page: EventPage, index: int):
+    """Given an event page and photo index, generate an identifier unique within that page."""
+    ymd = event_page.event_date.strftime("%Y%m%d")
+    return f"{ymd}_{index}"
+
+def event_link(event_page: EventPage) -> str:
+    content_root = Path.cwd() / 'content'
+    path = event_page.path.relative_to(content_root)
+    return f"[{event_page.title}](@/{path})"
 
 def main():
     all_photos = []
@@ -75,22 +86,25 @@ def main():
         gallery = load_gallery(fm, verbose=False)
         if not gallery: continue
 
-        for key, entry in gallery.items():
+        for _, entry in gallery.items():
             path, caption, source = entry['path'], entry['caption'], entry.get('source')
             taggings = list(parse_names(caption))
             for page_path in taggings:
-                entries = photo_taggings.setdefault(page_path.replace('@', ''), [])
+                entries = photo_taggings.setdefault(page_path.replace('@/', ''), [])
                 entries.append(photo_index)
 
             if taggings:
                 # Skip photos that don't have anyone properly linked
+                key = generate_key(page, photo_index + 1)
                 all_photos.append(
                     (
                         key,
                         {
                             "caption": caption,
                             "source": source,
-                            "path": str(combine_path(page, path))
+                            "path": f"/{combine_path(page, '', path)}",
+                            "thumb": f"/{combine_path(page, 'tn', path)}",
+                            "event": event_link(page)
                         }
                     )
                 )
