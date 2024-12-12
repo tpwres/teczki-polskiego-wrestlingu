@@ -107,6 +107,15 @@ def all_talent_pages(root: Optional[Path]=None) -> Iterable[TalentPage]:
                 for page_path in (root / 'content/w/').glob('*.md')
                 if page_path.stem != '_index.md')
 
+def all_event_pages(root: Optional[Path]=None, verbose: bool = False) -> Iterable[EventPage]:
+    """Walk the files and produce all event pages"""
+    if root is None:
+        root = Path.cwd()
+
+    yield from (EventPage(page_path, verbose=verbose)
+                for page_path in (root / 'content/e/').glob('**/????-??-??-*.md')
+                if page_path.stem != '_index.md')
+
 if __name__ == "__main__":
     import sys, code
     path = Path(sys.argv[1])
