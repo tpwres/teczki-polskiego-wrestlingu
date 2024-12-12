@@ -30,14 +30,21 @@
         {% set caption = item | get(key="caption", default="") -%}
         {% include "shared/gallery_item.html" %}
       {% endfor %}
-      {% if use_extra_gallery and extra_gallery is defined %}
+    </ul>
+  </section>
+  {% if use_extra_gallery and extra_gallery is defined %}
+    <details>
+      <summary class="h2-like">Photos from events</summary>
+      <ul class="gallery"
+          data-controller="gallery"
+          data-gallery-lightbox-outlet="dialog">
         {% for elem in extra_gallery %}
           {% set key = elem[0] %}
           {% set item = elem[1] %}
           {% include "shared/gallery_extra_item.html" %}
         {% endfor %}
-      {% endif %}
-    </ul>
-  </section>
+      </ul>
+    </details>
+  {% endif %}
   <script type="module" src="/gallery.js"></script>
 {% endif %}
