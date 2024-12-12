@@ -17,10 +17,9 @@
     {% set_global extra_gallery = extra_gallery | concat(with=[other_photo]) %}
   {% endfor %}
 {% endif %}
-{% if gallery_items or extra_gallery %}
+{% if gallery_items %}
   <h2 id="gallery">Gallery</h2>
   {% include "shared/lightbox.html" %}
-  <section>
     <ul class="gallery"
         data-controller="gallery"
         data-gallery-lightbox-outlet="dialog"
@@ -31,20 +30,19 @@
         {% include "shared/gallery_item.html" %}
       {% endfor %}
     </ul>
-  </section>
-  {% if use_extra_gallery and extra_gallery is defined %}
-    <details>
-      <summary class="h2-like">Photos from events</summary>
-      <ul class="gallery"
-          data-controller="gallery"
-          data-gallery-lightbox-outlet="dialog">
-        {% for elem in extra_gallery %}
-          {% set key = elem[0] %}
-          {% set item = elem[1] %}
-          {% include "shared/gallery_extra_item.html" %}
-        {% endfor %}
-      </ul>
-    </details>
-  {% endif %}
-  <script type="module" src="/gallery.js"></script>
 {% endif %}
+{% if use_extra_gallery and extra_gallery %}
+  <details>
+    <summary class="h2-like">Photos from events</summary>
+    <ul class="gallery"
+        data-controller="gallery"
+        data-gallery-lightbox-outlet="dialog">
+      {% for elem in extra_gallery %}
+        {% set key = elem[0] %}
+        {% set item = elem[1] %}
+        {% include "shared/gallery_extra_item.html" %}
+      {% endfor %}
+    </ul>
+  </details>
+{% endif %}
+<script type="module" src="/gallery.js"></script>
