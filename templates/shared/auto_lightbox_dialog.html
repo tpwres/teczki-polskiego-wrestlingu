@@ -47,6 +47,17 @@
     {% else %}
       {% set gallery_items = page.extra.gallery %}
     {% endif %}
+    {% if current_path is containing("/w/") %}
+      {% set all_photos = load_data(path='data/all_photos.json') %}
+      {% set photo_taggings = load_data(path='data/photo_taggings.json') %}
+      {% set page_path = page.relative_path %}
+      {% set my_photos = photo_taggings | get(key=page_path, default=[]) %}
+      {% set extra_items = [] %}
+      {% for num in my_photos %}
+        {% set other_photo = all_photos[num] %}
+        {% set_global extra_items = extra_items | concat(with=[other_photo]) %}
+      {% endfor %}
+    {% endif %}
     {% for key, item in gallery_items %}
       {% set path = item.path -%}
       {% set caption = item | get(key="caption", default="") -%}
@@ -64,6 +75,35 @@
         </figure>
       </li>
     {% endfor %}
+    {% if extra_items is defined %}
+      {% for elem in extra_items %}
+        {% set key = elem[0] %}
+        {% set item = elem[1] %}
+        {% set path = item.path -%}
+        {% set thumb = item.thumb -%}
+        {% set event_link = item.event %}
+        {% set caption = item | get(key="caption", default="") -%}
+        {% set source = item | get(key="source", default="") -%}
+        {%- if not source %} {% set source = "" %} {% endif -%}
+        <li>
+          <figure id="fig{{ loop.index }}" data-path="{{ config.extra.gallery_root ~ path }}" data-gallery-target="figure">
+            <a href="#img{{ loop.index }}" class="tn" data-action="gallery#open:prevent">
+              <img src="{{ config.extra.gallery_root ~ thumb }}" alt=""/>
+            </a>
+
+            <a class="lightbox" href="#fig{{ loop.index }}" id="img{{ loop.index }}">
+              <span style="background-image: url('{{ config.extra.gallery_root ~ path }}')"></span>
+            </a>
+            <figcaption>
+              {{ caption | markdown(inline=true) | safe }}
+              <br/>
+              <small>From: {{ event_link | markdown(inline=true) | safe }}</small>
+            </figcaption>
+            <data class="attribution">{{ source | markdown(inline=true) | safe }}</data>
+          </figure>
+        </li>
+      {% endfor %}
+    {% endif %}
   </ul>
 </section>
 <script type="module" src="/gallery.js"></script>
