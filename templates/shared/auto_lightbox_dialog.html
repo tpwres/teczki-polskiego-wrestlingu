@@ -1,73 +1,76 @@
 {% set root = config.extra.gallery_root ~ page.path %}
 {% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
-<h2 id="gallery">Gallery</h2>
-<dialog id="lb"
-        data-controller="lightbox"
-        data-lightbox-target="dialog"
-        data-action="keydown.right->lightbox#next keydown.left->lightbox#prev">
-  <form method="dialog">
-    <button class="closebtn" type="submit" autofocus data-lightbox-target="close">
-      <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#x"/></svg></span>
-      <span class="sr-only">Close popup</span>
+{% set empty_obj = []|group_by(attribute='0') %}
+{% if page.extra.gallery.manifest %}
+  {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}
+{% else %}
+  {% set gallery_items = page.extra | get(key='gallery', default=empty_obj) %}
+{% endif %}
+{% if use_extra_gallery %}
+  {% set all_photos = load_data(path='data/all_photos.json') %}
+  {% set photo_taggings = load_data(path='data/photo_taggings.json') %}
+  {% set page_path = page.relative_path %}
+  {% set my_photos = photo_taggings | get(key=page_path, default=[]) %}
+  {% set extra_gallery = [] %}
+  {% for num in my_photos %}
+    {% set other_photo = all_photos[num] %}
+    {% set_global extra_gallery = extra_gallery | concat(with=[other_photo]) %}
+  {% endfor %}
+{% endif %}
+{% if gallery_items or extra_gallery %}
+  <h2 id="gallery">Gallery</h2>
+  <dialog id="lb"
+          data-controller="lightbox"
+          data-lightbox-target="dialog"
+          data-action="keydown.right->lightbox#next keydown.left->lightbox#prev">
+    <form method="dialog">
+      <button class="closebtn" type="submit" autofocus data-lightbox-target="close">
+        <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#x"/></svg></span>
+        <span class="sr-only">Close popup</span>
+      </button>
+    </form>
+    <button class="maximize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="maximize">
+      <span aria-hidden ><svg class="feather feather-inline"><use href="{{ sprite }}#maximize"/></svg></span>
+      <span class="sr-only">Toggle maximized</span>
     </button>
-  </form>
-  <button class="maximize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="maximize">
-    <span aria-hidden ><svg class="feather feather-inline"><use href="{{ sprite }}#maximize"/></svg></span>
-    <span class="sr-only">Toggle maximized</span>
-  </button>
-  <button class="minimize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="minimize">
-    <span aria-hidden data-lightbox-target="minimize"><svg class="feather feather-inline"><use href="{{ sprite }}#minimize"/></svg></span>
-    <span class="sr-only">Toggle maximized</span>
-  </button>
-  <button class="prev" type="button" data-lightbox-target="prev" data-action="lightbox#prev">
-    <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-left"/></svg></span>
-    <span class="sr-only">Previous image</span>
-  </button>
-  <button class="next" type="button" data-lightbox-target="next" data-action="lightbox#next">
-    <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-right"/></svg></span>
-    <span class="sr-only">Next image</span>
-  </button>
-  <figure>
-    <div class="img-container" data-lightbox-target="container">
-      <img data-lightbox-target="img" data-action="load->lightbox#adjust" />
-    </div>
-    <figcaption data-lightbox-target="caption">
-      <p data-lightbox-target="desc"></p>
-      <small data-lightbox-target="attribution"></small>
-    </figcaption>
-  </figure>
-</dialog>
-<section>
-  <ul class="gallery"
-      data-controller="gallery"
-      data-gallery-lightbox-outlet="dialog"
-  >
-    {% if page.extra.gallery.manifest %}
-      {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}
-    {% else %}
-      {% set gallery_items = page.extra.gallery %}
-    {% endif %}
-    {% if current_path is containing("/w/") %}
-      {% set all_photos = load_data(path='data/all_photos.json') %}
-      {% set photo_taggings = load_data(path='data/photo_taggings.json') %}
-      {% set page_path = page.relative_path %}
-      {% set my_photos = photo_taggings | get(key=page_path, default=[]) %}
-      {% set extra_items = [] %}
-      {% for num in my_photos %}
-        {% set other_photo = all_photos[num] %}
-        {% set_global extra_items = extra_items | concat(with=[other_photo]) %}
+    <button class="minimize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="minimize">
+      <span aria-hidden data-lightbox-target="minimize"><svg class="feather feather-inline"><use href="{{ sprite }}#minimize"/></svg></span>
+      <span class="sr-only">Toggle maximized</span>
+    </button>
+    <button class="prev" type="button" data-lightbox-target="prev" data-action="lightbox#prev">
+      <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-left"/></svg></span>
+      <span class="sr-only">Previous image</span>
+    </button>
+    <button class="next" type="button" data-lightbox-target="next" data-action="lightbox#next">
+      <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-right"/></svg></span>
+      <span class="sr-only">Next image</span>
+    </button>
+    <figure>
+      <div class="img-container" data-lightbox-target="container">
+        <img data-lightbox-target="img" data-action="load->lightbox#adjust" />
+      </div>
+      <figcaption data-lightbox-target="caption">
+        <p data-lightbox-target="desc"></p>
+        <small data-lightbox-target="attribution"></small>
+      </figcaption>
+    </figure>
+  </dialog>
+  <section>
+    <ul class="gallery"
+        data-controller="gallery"
+        data-gallery-lightbox-outlet="dialog"
+    >
+      {% for key, item in gallery_items %}
+        {% set path = item.path -%}
+        {% set caption = item | get(key="caption", default="") -%}
+        {% include "shared/gallery_item.html" %}
       {% endfor %}
-    {% endif %}
-    {% for key, item in gallery_items %}
-      {% set path = item.path -%}
-      {% set caption = item | get(key="caption", default="") -%}
-      {% include "shared/gallery_item.html" %}
-    {% endfor %}
-    {% if extra_items is defined %}
-      {% for elem in extra_items %}
-        {% include "shared/gallery_extra_item.html" %}
-      {% endfor %}
-    {% endif %}
-  </ul>
-</section>
-<script type="module" src="/gallery.js"></script>
+      {% if use_extra_gallery and extra_gallery is defined %}
+        {% for elem in extra_gallery %}
+          {% include "shared/gallery_extra_item.html" %}
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </section>
+  <script type="module" src="/gallery.js"></script>
+{% endif %}
