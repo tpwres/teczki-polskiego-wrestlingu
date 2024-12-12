@@ -67,6 +67,8 @@
       {% endfor %}
       {% if use_extra_gallery and extra_gallery is defined %}
         {% for elem in extra_gallery %}
+          {% set key = elem[0] %}
+          {% set item = elem[1] %}
           {% include "shared/gallery_extra_item.html" %}
         {% endfor %}
       {% endif %}
