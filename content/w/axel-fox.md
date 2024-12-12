@@ -12,11 +12,17 @@ caption = "Facebook graphic confirming that Axel Fox has joined PpW"
 source = "Facebook @OficjalnePPW"
 +++
 
+
 ## Basic info
 
+* Years active: 2017-present
 * Nicknames:
   - Polski Lis (_Polish Fox_) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
   - Amisz (_Amish_) {{ org_badge(orgs=['dfw', 'mzw']) }}
+* Trained by:
+  - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
+  - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
+  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
 
 ## Professional wrestling career
 
