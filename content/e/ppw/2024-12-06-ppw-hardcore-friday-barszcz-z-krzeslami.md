@@ -61,7 +61,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * [Sędzia Karol Górski](@/w/madman-charlie.md) enters the ring as HT introduces him, and crowd is chants his name.
 * After a while Michael HT announces the first fight - a Fatal Four Way Match - and remarks that the winner would be given a special gift from Santa.
 
-### Fatal Four Way Match: Olgierd vs Oskar Aleksander vs Gabriel Queen vs Goblin 
+#### Fatal Four Way Match: Olgierd vs Oskar Aleksander vs Gabriel Queen vs Goblin 
 
 * Timestamp: `0:06:02`
 * The head of masked [Goblin](@/w/goblin.md) peeks from behind a curtain, but as he makes his entrance it becames clear that the Acid Messiah is in fact portrayed by [Olgierd](@/w/olgierd.md) who stole his ring gear. Olgierd takes off Goblin's outfit and hits it with a couple of headbutts.
@@ -75,7 +75,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Finally, Gabriel Queen wins the fight after hitting his new finisher - a Running Lariat - on Oskar Aleksander.
 * Winner: Gabriel Queen by pinfall.
 
-### Segment: Gifts from Santa
+#### Segment: Gifts from Santa
 
 * Timestamp: `0:22:35`
 * Immediately after the match, HT announces the arrival of a special guest.
@@ -84,7 +84,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Finally St. Biesiek pulls out the gift for the winner of the Fatal Four Way Match - a contract for [PpW Championship](@/c/ppw-championship.md) match at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), which he supposedly stole from Gustav's invoice folder he held for Mister Z.
 * Gabriel Queen reads out the details of the contract out loud, declares that he is "coming for Gustav's ass" and signs the contract.
 
-### Santa Biesiad vs Feager 
+#### Santa Biesiad vs Feager 
 
 * Timestamp: `0:28:24`
 * [Feager](@/w/feager.md) makes his entrance to the ring. Biesiad declares that his opponent will also recieve a gift. He pulls out some vodka and condoms from the bag, strongly suggesting that Faeger should "Drink, have sex and F-off".
@@ -94,7 +94,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Winner: Biesiad by pinfall.
 * After the match, Biesiad celebrates for a while when the ringcrew cleans up the ring.
 
-### Hardcore Match: Isnorr (c) vs Marco Hammers - PpW European Ultraviolent Championship Open Challenge
+#### Hardcore Match: Isnorr (c) vs Marco Hammers - PpW European Ultraviolent Championship Open Challenge
 
 * Timestamp: `0:54:18`
 * The [PpW European Ultraviolent Champion](@/c/ppw-european-ultraviolent-championship.md) Isnorr makes his way to the ring. He cuts a short promo where he announces that he will host an Open Challenge for his championship.
@@ -103,9 +103,9 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Finally Hammers is able to control the situation long enough to get a half of a lighttube. He celebrates with it just to smash it on Isnorr's head. The reigning champion seems to be resistant to that type of weaponary and just brushes off pieces of glass from his hair before picking up a chair and smacking Marco's head with it to score a pin.
 * Winner: Isnorr by pinfall.
 
-### Break
+#### Break
 
-### No Outside Weapons, Non-Title Match: Gustav Gryffin vs Johnny Blade
+#### No Outside Weapons, Non-Title Match: Gustav Gryffin vs Johnny Blade
 
 * Timestamp: `1:28:00`
 * HT announces that this match will be officiated by [Sewi The Referee](@/w/sedzia-seweryn.md), who makes his entrance to the ring.
@@ -118,7 +118,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * After the match Gustav continues his beatdown on Blade and tries to hit him with a Piledriver onto his Championship belt laying in the ring. He is however interrupted by his next opponent, Gabriel Queen, who makes a save.
 * Gabriel Queen puts on a pink glove and sticks his thumb into Gustav's anus - making a reference to a fellow [Greens](@/a/the-greens.md) member [Boro](@/w/boro.md), who did such a move as Lady Killer. After that he takes the PpW Championship from Referee Seweryn to celebrate with it, hyping up his fight against the beaten & humiliated Gustav.
 
-### Christmas Street Fight Match: Mister Z vs Axel Fox
+#### Christmas Street Fight Match: Mister Z vs Axel Fox
 
 * Timestamp: `1:48:49`
 * [Axel Fox](@/w/axel-fox.md) makes his entrance to his "GobLis" tag team theme.
@@ -129,7 +129,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Winner: Mister Z by pinfall.
 * After the match Mister Z along with Legia Łysych celebrate over the beaten up GobLis.
 
-### Ending:
+#### Ending:
 
 * Timestamp: `2:10:15`
 * After Zmowa leaves the ring the crowd is chants "GobLis", while both members of said tag team slowly recover from the beatdown and hug it out before leaving the ring.
