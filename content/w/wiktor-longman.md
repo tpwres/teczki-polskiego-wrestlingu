@@ -57,6 +57,11 @@ Initially Longman was supposed to challenge [PpW Champion](@/c/ppw-championship.
     {{ music(spot='6A25J9As7towpxovYryAWr')}}
     {{ music(apple='1518033969?i=1518033971')}}
 
+## Internet presence
+
+* [Wiktor's Facebook profile](https://www.facebook.com/WiktorLongman)
+* [Wiktor's Instagram](https://www.instagram.com/longman_pw)
+
 ## References
 
 * [Video of Gustav and Longman confrontation after Co Za Noc](https://www.facebook.com/share/r/15apExpzsV/)
