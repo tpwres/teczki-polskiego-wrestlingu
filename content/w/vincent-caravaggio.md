@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
-Vincent Caravaggio is a polish pro-wrestler performing for [Prime Time Wrestling](@/o/ptw.md) since 2023.
+Vincent Caravaggio is a Polish pro-wrestler performing for [Prime Time Wrestling](@/o/ptw.md) since 2023.
 
 ## Basic info
 
@@ -22,9 +22,9 @@ Vincent Caravaggio is a polish pro-wrestler performing for [Prime Time Wrestling
 
 #### Debut and first feuds
 
-Vincent Caravaggio made his debut in December 2023 at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md). From the start he rocked his villainous persona, describing himself as "Aristocrat From Wawel". Main part of his gimmick, besides aristocratic apperance, were long promos, in which he often insulted both his opponents and the crowd, often calling them "wieśniaki" (peasants).
+Vincent Caravaggio made his debut in December 2023 at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md). From the start he rocked his villainous persona, describing himself as "the Aristocrat from [Wawel][wiki-wawel]". The main part of his gimmick, besides his aristocratic apperance, were long promos, in which he often insulted both his opponents and the crowd, often calling them peasants (_wieśniaki_).
 
-Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he got involved in a storyline, where he alligned himself with other heel - [Alex Brave](@/w/alex-brave.md) against new generation of PTW's babyfaces - [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md). 
+Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he's been involved in a storyline where he alligned himself with another heel, [Alex Brave](@/w/alex-brave.md), against the new generation of PTW's babyfaces - [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md). 
 
 ## In wrestling
 
@@ -34,12 +34,14 @@ Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he got involved
  
 * Entrance music:
   - "Prelude" by Versailles
-  {{ org_badge(orgs=['mzw', 'ddw']) }} (2023-) <br>
-  {{ music(yt='2c3Uv88-3sI')}}
-  {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
-  {{ music(apple='284259361?i=284259442')}}
+ {{ org_badge(orgs=['mzw', 'ddw']) }} (2023-) <br>
+ {{ music(yt='2c3Uv88-3sI')}}
+ {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
+ {{ music(apple='284259361?i=284259442')}}
 
 ## Internet presence
 
 * [Vincent's Facebook profile](https://www.facebook.com/vincent.caravaggio)
 * [Vincent's Instagram](https://www.instagram.com/vincentcaravaggio/)
+
+[wiki-wawel]: https://en.wikipedia.org/wiki/Wawel_Castle
