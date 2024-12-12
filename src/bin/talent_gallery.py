@@ -76,6 +76,10 @@ def event_link(event_page: EventPage) -> str:
     path = event_page.path.relative_to(content_root)
     return f"[{event_page.title}](@/{path})"
 
+def fix_caption(caption: str) -> str:
+    """Tomllib loads long strings differently from zola."""
+    return caption.replace("\n\n", "\n")
+
 def main():
     all_photos = []
     photo_taggings = {}
@@ -100,7 +104,7 @@ def main():
                     (
                         key,
                         {
-                            "caption": caption,
+                            "caption": fix_caption(caption),
                             "source": source,
                             "path": f"/{combine_path(page, '', path)}",
                             "thumb": f"/{combine_path(page, 'tn', path)}",
