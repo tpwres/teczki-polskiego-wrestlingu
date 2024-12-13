@@ -50,6 +50,8 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
   - '[Renegade](@/w/renegade.md)'
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
     s: 'Tournament Final Match'
+- credits:
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
 Attendance: about 120
