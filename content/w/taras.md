@@ -57,7 +57,7 @@ In his instagram stories Taras made references, that he was supposedly abadoned 
   - _Dzida_ (Spear) (2021-2024)
   - GTS (2024-)
 
-* With [Disco Pablo](@/w/disco-pablo)
+* With [Disco Pablo](@/w/disco-pablo.md)
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
  
 * Tag Teams and stables:
