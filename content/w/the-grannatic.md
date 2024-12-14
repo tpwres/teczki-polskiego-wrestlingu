@@ -1,6 +1,7 @@
 +++
 title = "The Grannatic"
 template = "talent_page.html"
+authors = ["Sewi the Referee"]
 [taxonomies]
 country = ["DE"]
 +++
