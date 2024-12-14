@@ -58,7 +58,7 @@ Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, 
   - _Oil Check_ (2018-2020)
  
 * Tag Teams and Stables:
-  - PAKA
+  - PAKA (2021-2024)
  
 * Entrance music:
   - "Jessica" by Borys LBD
