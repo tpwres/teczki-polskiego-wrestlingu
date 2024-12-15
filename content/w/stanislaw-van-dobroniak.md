@@ -51,7 +51,7 @@ The clip shows him trying to climb back into the ring from outside. One of his p
 ## In wrestling
 
 * Finishers:
-- _Polish Hammer_ (2022-)
+  - _Polish Hammer_ (2022-)
 
 * Tag Teams and Stables:
   - Zbójnicy (2015-2017)
