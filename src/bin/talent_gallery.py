@@ -63,8 +63,9 @@ def combine_path(event_page: EventPage, subdir, photo_path: str) -> str:
     """Given an event page and a photo path that should be located in its directory, generate a path from content root."""
     content_root = Path.cwd() / 'content'
     relative = event_page.path.relative_to(content_root)
-    path = relative / subdir / photo_path
-    return str(path).replace('.md', '').replace('_', '-')
+    slugified = Path(str(relative).replace('_', '-'))
+    path = slugified / subdir / photo_path
+    return str(path).replace('.md', '')
 
 def generate_key(event_page: EventPage, index: int):
     """Given an event page and photo index, generate an identifier unique within that page."""
