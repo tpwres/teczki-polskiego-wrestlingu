@@ -59,7 +59,11 @@ The clip shows him trying to climb back into the ring from outside. One of his p
 * Entrance music:
   - "W Murowanej Piwnicy" by unknown folk artist
     {{ org_badge(orgs=['mzw']) }} (2015-2017), in tag team with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) <br>
-
+  - "Fucking Asshole" by Little Big 
+    {{ org_badge(orgs=['ppw']) }} (2022-) <br>
+    {{ music(yt='bqMbVzQyXtc')}}
+    {{ music(spot='70rVhKSUjK5A106sGGrpWX')}}
+    {{ music(apple='1628768521?i=1628768851')}}
 
 ## Championships and accomplishments
 
