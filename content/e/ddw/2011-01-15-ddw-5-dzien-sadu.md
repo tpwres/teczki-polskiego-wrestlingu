@@ -6,6 +6,8 @@ chronology = ["ddw"]
 venue = ["gosir-katy-wroclawskie"]
 [extra]
 city = "Kąty Wrocławskie"
+[extra.gallery]
+manifest = "@/e/ddw/2011-01-15-ddw-5-dzien-sadu-gallery.toml"
 +++
 
 {% card() %}
@@ -20,13 +22,13 @@ city = "Kąty Wrocławskie"
   - '[Klarys](@/w/klarys.md)'
   - '[Rider](@/w/asmund.md)'
   - Rob Cage
+  - s: Nine Man Battle Royal
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Chris Botherway, {s: "DDW International
       Championship #1 Contender Lumberjack Match"}]
 - ["[Joe Legend](@/w/joe-legend.md)(c)", Omen, {c: "DDW International Championship"}]
 {% end %}
 
 Attendance: about 300
-
 
 ### References
 
