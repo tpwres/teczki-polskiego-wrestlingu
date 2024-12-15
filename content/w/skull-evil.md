@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["CZ"]
 +++
 
-Skull Evil is a czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018.
+Skull Evil is a Czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018.
 
 ## Basic info
 
@@ -22,7 +22,7 @@ Skull Evil made a few apperances in [Maniac Zone Wrestling](@/o/mzw.md). Most of
 
 ### PpW Ewenement (2022)
 
-Skull Evil made yet another apperance at polish wrestling scene, when he was invited to perform at PpW's show [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) in May 2022. He fought against Asara, but got himself disqualified.
+Skull Evil made yet another apperance on the Polish wrestling scene when he was invited to perform at PpW's show [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) in May 2022. He fought against Asara, but got himself disqualified.
 
 ## In wrestling
 
