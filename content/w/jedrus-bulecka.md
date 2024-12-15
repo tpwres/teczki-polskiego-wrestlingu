@@ -5,6 +5,8 @@ template = "talent_page.html"
 country = ["PL"]
 [extra]
 career_aliases = ["Patriota", "Polish Hammer", "Marcin Wilkowski"]
+[extra.gallery]
+1 = { path = "polish-hammer.jpg", caption = "Jędruś Bułecka in his Polish Hammer gimmick, at [Podziemny Krąg](@/e/mzw/2014-11-07-mzw-podziemny-krag.md).", source = "Jędruś Bułecka @ Facebook" }
 +++
 
 * Also known as: Patriota, Polish Hammer
