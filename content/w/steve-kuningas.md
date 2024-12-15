@@ -24,6 +24,8 @@ Steve Kuningas made his debut at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo
 
 Steve's reign lasted 238 days, but during that time he did not made any official championship defences. He only participated in one tag team match at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md). His first - and last - championship defence came up at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) where he was defeated by [Bill Feager](@/w/feager.md). After that he has not made another apperance in PpW.
 
+Besides his apperances on polish scene, he also makes numerous apperances on european independent scene.
+
 ## In wrestling
 
 * Finishers:
