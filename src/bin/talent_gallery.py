@@ -64,7 +64,7 @@ def combine_path(event_page: EventPage, subdir, photo_path: str) -> str:
     content_root = Path.cwd() / 'content'
     relative = event_page.path.relative_to(content_root)
     path = relative / subdir / photo_path
-    return str(path).replace('.md', '')
+    return str(path).replace('.md', '').replace('_', '-')
 
 def generate_key(event_page: EventPage, index: int):
     """Given an event page and photo index, generate an identifier unique within that page."""
