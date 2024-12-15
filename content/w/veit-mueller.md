@@ -10,7 +10,7 @@ Veit Müller is a German wrestler. He is best known in the Polish wrestling scen
 
 ## Basic info
 
-* Years active: 2022-present
+* Years active: 2012-present
 * Gimmicks/nicknames:
   - Veit Müller {{ org_badge(orgs=['kpw']) }}
 * Trained by:
