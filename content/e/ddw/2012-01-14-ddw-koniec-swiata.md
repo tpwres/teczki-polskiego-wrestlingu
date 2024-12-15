@@ -9,7 +9,7 @@ venue = ["hala-twardogora"]
 city = "Twardogóra"
 [extra.gallery.00]
 path = "ddw-koniecswiata-poster.webp"
-caption = "Official show poster. In the top row: [Don Roid](@/w/don-roid.md), Omen, Big Van Walter. Middle row: ???, ???. Bottom row: [Kamil Aleksander](@/w/kamil-aleksander.md), [Kevin Williams](@/w/kevin-williams.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)."
+caption = "Official show poster. In the top row: [Don Roid](@/w/don-roid.md), Omen, Big Van Walter. Between Roid and Omen in the middle row: Rob Cage. Bottom row: [Kamil Aleksander](@/w/kamil-aleksander.md), [Kevin Williams](@/w/kevin-williams.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)."
 source = "Jędruś Bułecka @ Facebook"
 +++
 
@@ -30,5 +30,5 @@ According to a statement posted just a day prior on Attitude Forum, DDW was not 
 * [Video announcing the eveng](https://www.youtube.com/watch?v=jvTuqWK1veM)
 * [Promos by Kamil and Jędruś](https://www.youtube.com/watch?v=2W_QXUet2kE)
 * [Don Roid's reply](https://www.youtube.com/watch?v=2W_QXUet2kE)
-* [Kevin William's reply](https://www.youtube.com/watch?v=xx9rO02IcaY)
+* [Kevin William's reply and Rob Cage's promo](https://www.youtube.com/watch?v=xx9rO02IcaY)
 * [Announcement on PPE.pl](https://www.ppe.pl/news/12944/koniec-swiata-w-przyszlym-tygodniu.html)
