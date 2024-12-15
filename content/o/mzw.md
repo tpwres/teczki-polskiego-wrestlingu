@@ -8,6 +8,8 @@ chrono_root = ["mzw"]
 [extra]
 toclevel = 3
 allow_section_pagination = true
+[extra.gallery]
+1 = { path = "mzw-fanart.jpg", caption = "A fan's drawing depicting [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "Jędruś Bułecka @ Facebook" }
 +++
 
 MZW was estabilished in 2014, which currently makes it the oldest active professional promotion in Poland. MZW has no regular or titular sponsors, and considers itself an independent European promotion. Wrestlers who trained with them are highly regarded for their skills, and some have continued their career outside of Poland.
