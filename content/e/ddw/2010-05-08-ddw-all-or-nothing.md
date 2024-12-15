@@ -6,6 +6,8 @@ chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
 city = "Warszawa"
+[extra.gallery]
+manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 +++
 
 {% card() %}
