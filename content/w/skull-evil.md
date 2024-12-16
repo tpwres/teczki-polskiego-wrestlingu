@@ -18,7 +18,7 @@ Skull Evil is a Czech wrestler best known for his time in [Maniac Zone Wrestling
 
 ### Maniac Zone Wrestling (2016-2018)
 
-Skull Evil made a few apperances in [Maniac Zone Wrestling](@/o/mzw.md). Most of them were possible thanks to good working relations between MZW and Drezden-based Next Step Wrestling where Skull Evil was also performing. He debuted at [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) and had his last match in MZW at [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md). 
+Skull Evil made a few appearances in [Maniac Zone Wrestling](@/o/mzw.md), made possible thanks to MZW's affiliation with Dresden-based Next Step Wrestling where Skull Evil was also performing. He debuted at [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) and had his last match in MZW at [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md).
 
 ### PpW Ewenement (2022)
 

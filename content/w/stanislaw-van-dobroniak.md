@@ -7,7 +7,7 @@ country = ["PL"]
 1 = { path = "stanislaw-van-dobroniak.jpg", caption = "Dobroniak's entrance, [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "M3n747" }
 +++
 
-Stanisław Van Dobroniak is a Polish wrestler based in Sweden, who is most notable from his apperances in [Maniac Zone Wrestling](@/o/mzw.md) and [PpW Ewenement Wrestling](@/o/ppw.md).
+Stanisław Van Dobroniak is a Polish wrestler based in Sweden, who is most notable from his appearances in [Maniac Zone Wrestling](@/o/mzw.md) and [PpW Ewenement Wrestling](@/o/ppw.md).
 
 ## Basic info
 
@@ -21,25 +21,25 @@ Stanisław Van Dobroniak is a Polish wrestler based in Sweden, who is most notab
 
 #### Teaming with Bułecka
 
-Stanisław Van Dobroniak made his debut on the Polish scene as a partner of [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a tag team called "Zbójnicy" (roughly _Robbers_). He rocked a gimmick of a babyface Polish emmigrant working man, to match his partner mountaineer gimmick. His first match took place at [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) where he and Jędruś fought against Nickolas von Rijk and [Robert Kaiser](@/w/robert-kaiser.md) for the BPWF Tag Team Championship. For the next couple of shows he made rather regular apperances working both solo and in a tag team. 
+Stanisław Van Dobroniak made his debut on the Polish scene as the partner of [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a tag team called "Zbójnicy" (_Highwaymen_, but specifically in Carpathian folklore). He rocked a gimmick of a babyface Polish emigrant working man, to match his partner's Góral (Polish highlander) gimmick. His first match took place at [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) where he and Jędruś fought against Nickolas von Rijk and [Robert Kaiser](@/w/robert-kaiser.md) for the BPWF Tag Team Championship. For the next couple of shows he made rather regular apperances working both solo and in a tag team.
 
-At [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) Zbójnicy have won a match against [Kripto](@/w/kripto.md) and [Red Thunder](@/w/red-thunder.md) to become inaugural [MZW Tag Team Champions](@/c/mzw-tag-team-championship.md). They've managed to defend it against Catch Connection at [Revolution](@/e/mzw/2016-11-05-mzw-revolution.md) but lost to Storm Riders - Red Thunder and Blue Thunder - at [Charity Show 2017](@/e/mzw/2017-01-15-mzw-charity-show-2017.md). After that defeat and Bułecka's pause from in-ring competition, Zbójnicy have benn disbanded.
+At [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) Zbójnicy won a match against [Kripto](@/w/kripto.md) and [Red Thunder](@/w/red-thunder.md) to become the inaugural [MZW Tag Team Champions](@/c/mzw-tag-team-championship.md). They managed to defend it against Catch Connection at [Revolution](@/e/mzw/2016-11-05-mzw-revolution.md) but lost to Storm Riders - Red Thunder and Blue Thunder - at [Charity Show 2017](@/e/mzw/2017-01-15-mzw-charity-show-2017.md). After that defeat and Bułecka's pause from in-ring competition, Zbójnicy disbanded.
 
 #### Solo run
 
-After MZW moved pernamently to Wrocław, Stanisław had leaned more into a comedy and gimmick character, much more like on the independent scene abroad. His gimmick was strongly influenced by video games characters like Wario from the famous Super Mario Bros franchise. He took part in a couple matches during MZW's Project era. He most notably feuded with the returning Jędruś Bułecka, who attacked him after his match against [Lady Killer](@/w/boro.md) at [Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md). This led to their Hardcore Match at [MZW Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md) where the fight ended in a double-KO. 
+After MZW moved pernamently to Wrocław, Stanisław had leaned more into a comedy and gimmick character, much more like on the independent scene abroad. His gimmick was strongly influenced by video game characters like Wario from the famous Super Mario Bros. franchise. He took part in a couple matches during MZW's Project era. He most notably feuded with the returning Jędruś Bułecka, who attacked him after his match against [Lady Killer](@/w/boro.md) at [Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md). This led to their Hardcore Match at [MZW Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md) which ended in a double-KO.
 
-After one more apperance at [MZW Project 6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), Dobroniak eventually left the federation.
+After one more apperance at [MZW Project 6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), Dobroniak eventually left the federation, choosing to focus on wrestling abroad.
 
 ### PpW Ewenement (2022-present)
 
 #### PpW European Ultraviolent Champion
 
-After the COVID-19 pandemic, Dobroniak made his return to the Polish scene in [PpW Ewenement](@/o/ppw.md), where he quickly got into their ultraviolent division. In his debut at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) he won a match against Vikind and the champion [Johnny Blade](@/w/johnny-blade.md), to become the [PpW European Ultraviolent Champion](@/c/ppw-european-ultraviolent-championship.md). Since then he ruled as the champion for 637 days. He lost his championship to Johnny Blade in a Born to be Wired Four Way Elimination Match at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+After the COVID-19 pandemic, Dobroniak made his return to the Polish scene in [PpW Ewenement](@/o/ppw.md), where he quickly got into their ultraviolent division. In his debut at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) he won a match against Viking and the champion [Johnny Blade](@/w/johnny-blade.md), to become the [PpW European Ultraviolent Champion](@/c/ppw-european-ultraviolent-championship.md). Since then, he has ruled as the champion for 637 days. He lost his championship to Johnny Blade in a Born to be Wired Four Way Elimination Match at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
-Besides his championsip defences in Poland, Dobroniak also had a few PpW EU UV Championship defences abroad, most notably in the Swedish federations STHLM Wrestling and Freedom Pro Wrestling where he makes frequent apperances.
+Besides his championship defenses in Poland, Dobroniak also had a few PpW EU UV Championship defenses abroad, most notably in the Swedish federations STHLM Wrestling and Freedom Pro Wrestling where he makes frequent appearances.
 
-After losing the championship, Stanisław had been inactive in PpW up until December 2024, when he was announced for [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in January. He immediately aimed for the now-reigning UV Champion, [Isnorr](@/w/isnorr.md).
+After losing the championship, Stanisław had been inactive in PpW up until December 2024, when he was announced for [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in January 2025. He immediately aimed for the now-reigning UV Champion, [Isnorr](@/w/isnorr.md).
 
 ## Other media
 
@@ -52,14 +52,12 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 
 * Finishers:
   - _Polish Hammer_ (2022-)
-
 * Tag Teams and Stables:
   - Zbójnicy (2015-2017)
-
 * Entrance music:
   - "W Murowanej Piwnicy" by unknown folk artist
  {{ org_badge(orgs=['mzw']) }} (2015-2017), in tag team with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) <br>
-  - "Fucking Asshole" by Little Big 
+  - "Fucking Asshole" by Little Big
  {{ org_badge(orgs=['ppw']) }} (2022-) <br>
  {{ music(yt='bqMbVzQyXtc')}}
  {{ music(spot='70rVhKSUjK5A106sGGrpWX')}}

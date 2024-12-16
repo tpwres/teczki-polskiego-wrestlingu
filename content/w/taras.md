@@ -24,9 +24,9 @@ Taras is a Polish wrestler best known for his tenure in [Prime Time Wrestling](@
 
 Taras joined [Prime Time Wrestling](@/o/ptw.md), a new federation owned by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), early in its development. During training and preparations he was paired with [Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md) as a trio called PAKA (loosely _The PACK_). They were portrayed as laid-back babyfaces who'd known each other since childhood. Taras was portrayed as a good-hearted lad and the de-facto leader of PAKA.
 
-Taras made his in-ring debut in the opener of PTW's first show ever - [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - where he faced and defeated an ex-[WWE](@/o/wwe.md) star Axel Tischer. During the build-up for the match he was hailed as the first-ever alumni trained only in [PTW Academy](@/o/ptw-academy.md).
+Taras made his in-ring debut in the opener of PTW's first show ever - [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - where he faced and defeated German veteran and ex-[WWE](@/o/wwe.md) talent Axel Tischer. During the build-up for the match he was hailed as the first-ever alumni trained only in [PTW Academy](@/o/ptw-academy.md).
 
-For the first couple of shows PAKA focused on establishing themselves as babyfaces and Pawłowski's favourites against heels such as [Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md) and [Remo](@/w/remo.md).
+For the first few shows, PAKA focused on establishing themselves as babyfaces and Pawłowski's favourites against heels such as [Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md) and [Remo](@/w/remo.md).
 
 #### Feud wih Bad Bones
 
@@ -34,7 +34,7 @@ Later on Taras - alongside his partners from PAKA - got involved in a feud again
 
 #### Feud with Pure Gold
 
-Not long after his defeat in the match against Bad Bones, Taras and PAKA started a feud with Pure Gold - the team of [Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md) - which would later evolve into a Tag Team Tournament for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They lost a Tag Team Match against Pure Gold at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), but managed to advance to the finals of the Tag Team Tournament while still feuding with Pure Gold, and the newly formed heel faction: Legia Łysych ([Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)). Taras and Pablo ultimately won the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in a Tables Match against Pure Gold at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md).
+Not long after his defeat in his match against Bad Bones, Taras and PAKA started a feud with Pure Gold - the team of [Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md) - which would later evolve into a Tag Team Tournament for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They lost a Tag Team Match against Pure Gold at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), but managed to advance to the finals of the Tag Team Tournament while still feuding with Pure Gold, and the newly formed heel faction, Legia Łysych ([Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)). Taras and Pablo ultimately won the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in a Tables Match against Pure Gold at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md).
 
 #### Championship reign
 
@@ -42,14 +42,14 @@ PAKA made their first title defence at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x
 
 #### Final feuds and departure
 
-After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Taras almost two years prior, Longman announced that he would destroy Pawłowski and his allies from PAKA. Since Boro was already seriously injured by him previously, his next target was Taras. At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) the member of PAKA eventually lost and got injured by Wiktor Longman to such a degree, that he had to be carried out on a stretcher. It was the final apperance of Taras in the PTW ring.
+After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Taras almost two years prior, Longman announced that he would destroy Pawłowski and his allies from PAKA. Since Boro was already seriously injured by him previously, his next target was Taras. At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) the member of PAKA eventually lost and got injured by Wiktor Longman to such a degree, that he had to be carried out on a stretcher. It was Taras' final appearance in the PTW ring.
 
 ### Legacy of Wrestling (2024)
 
 #### Surprise debut and finishing the PAKA
 
-Taras made his debut during [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). During a music chairs contest held by Disco Pablo, the masked Taras barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking himself he finished off Pablo with a GTS and put Piotr through a table. 
-In his Instagram stories Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded.
+Taras made his debut during [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). During a music chairs contest held by Disco Pablo, the masked Taras barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking himself he finished off Pablo with a GTS and put Piotr through a table.
+In his Instagram stories, Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded.
 
 ## In wrestling
 
@@ -59,10 +59,10 @@ In his Instagram stories Taras stated that he was supposedly abadoned by his par
 
 * With [Disco Pablo](@/w/disco-pablo.md)
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
- 
+
 * Tag Teams and stables:
   - PAKA (2021-2024)
- 
+
 * Entrance music:
   - "To my!" by 52 Dębiec
  {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
