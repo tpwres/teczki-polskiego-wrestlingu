@@ -1,6 +1,7 @@
 +++
 title = "MZW @ Bieg WOP-isty"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 aliases = ["/e/mzw/2015-09-05-mzw-untitled"]
 [taxonomies]
 chronology = ["mzw"]
