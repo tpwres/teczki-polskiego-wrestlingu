@@ -1,6 +1,7 @@
 +++
 title = "MZW @ Zajebisty Bieg WOP-isty"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["opawa"]
