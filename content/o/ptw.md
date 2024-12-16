@@ -221,7 +221,7 @@ PTW's talent made an appearance in Young Multi's [video][young-multi-ak47] for t
 The video features Pawłowski giving a pep-talk to Multi and his band, as well as scenes of PTW wrestlers hitting their moves in the ring, intercut with clips of the band.
 Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#Post-Ryucon-New-venue-PTW-back-on-track) is located.
 Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Diana Strong](@/w/diana-strong.md).
-In August 2024, PTW launched their new show, "Czas na Wrestling" ("Time for Wrestling") on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage](https://telewizjatvt.pl/?s=czas+na+wrestling)
+In August 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage](https://telewizjatvt.pl/?s=czas+na+wrestling).
 In December 2024, Pawłowski, Strong and Nano Lopez made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel.
 
 ## Internet presence
