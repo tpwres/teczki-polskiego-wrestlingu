@@ -27,7 +27,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
   - s: Falls Count Anywhere match
     c: PpW Light Heavyweight Championship
 - - 'Electrico'
-  - '[Matt2Hot](@/w/sedzia-matt2hot.md)'
+  - '[Matt2Hot](@/w/matt2hot.md)'
   - nc: '?'
     n: Video cuts off before the fight ends; an on-screen caption declares the winner to be "jhon cena &#35;2" (sic).
 - credits:
