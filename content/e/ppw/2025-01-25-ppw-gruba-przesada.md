@@ -30,7 +30,8 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
   - c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
-  - n: 'Fans choose the stipulation'
+  - s: 'Donky Kong Weaponmaster Match'
+    n: 'Stipulation selected by fans on social media'
 {% end %}
 
 ### References
