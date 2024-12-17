@@ -1,7 +1,7 @@
 +++
 title = "Sędzia Seweryn"
 template = "talent_page.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
@@ -50,12 +50,13 @@ He was also awarded the PTW's "Referee of the Year" Award for 2022.
 During his tenure in Prime Time Wrestling, Referee Seweryn also made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show "WrestleClash 25" in August 2023.
 Later he made yet another appearance at a PTW/WWA show in January 2024.
 Sewi continued his run in the company, being present at every PTW event (except [Underground 7](@/e/ptw/2022-08-28-ptw-underground-7.md)) up until [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
-After that show he, along with many other talent, left PTW.
+After that show he, along with many other talent, [left PTW](@/a/ptw-exits.md).
 
 ### PpW Ewenement (2024-present)
 
 On July 5th, 2024, [PpW Ewenement Wrestling](@/o/ppw.md) announced on its social media that Sewi would join the federation as a referee.
 He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) & [Sędzia Karol Górski](@/w/madman-charlie.md).
+
 While maintaining PpW as his main promotion, Sewi continued his sporadic apperances on the international circuit.
 
 ### Return to Maniac Zone Wrestling (2024)
@@ -64,7 +65,7 @@ On October 12th, 2024, he also made an apperance at [MZW No Time to Die](@/e/mzw
 
 ### Legacy of Wrestling (2024)
 
-It was unofficially confirmed that Sewi the Referee will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md).
+During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made apperance there, being the sole referee on said event.
 
 ## In wrestling
 
@@ -79,3 +80,8 @@ It was unofficially confirmed that Sewi the Referee will be one of the main refe
 
 [PTW Awards](@/a/ptw-awards.md) (1 time):
 - Referee of the Year (2022)
+
+## Internet presence
+
+* [Sewi's Facebook profile](https://www.facebook.com/people/Sewi-The-Referee/100089237194283/)
+* [Sewi's Instagram](https://www.instagram.com/sewi_the_ref/)
