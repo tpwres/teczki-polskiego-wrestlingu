@@ -10,7 +10,7 @@ career_aliases = ["Ring Rat"]
 1 = { path = "Sewi_2024.webp", caption = "Sędzia Seweryn at a PpW show in 2024.", source = "Official PpW website" }
 +++
 
-Sędzia Seweryn (known as Sewi The Referee) is a polish wrestling referee active on polish wrestling scene. He is best known for his time in [PpW Ewenement](@/o/ppw.md), as well as [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked as senior referee in [Prime Time Wrestling](@/o/ptw.md) from 2022 to 2024.
+Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active on the Polish wrestling scene. He is best known for his time in [PpW Ewenement](@/o/ppw.md), as well as [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked as a senior referee in [Prime Time Wrestling](@/o/ptw.md) from 2022 to 2024.
 
 ## Basic info
 
@@ -68,7 +68,7 @@ On October 12th, 2024, he also made an apperance at [MZW No Time to Die](@/e/mzw
 
 ### Legacy of Wrestling (2024)
 
-During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee will be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made apperance there, being the sole referee on said event.
+During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an apperance there, being the sole referee at the event.
 
 ## In wrestling
 
