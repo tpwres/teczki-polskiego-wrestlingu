@@ -122,12 +122,12 @@ After Legia Łysych joined [Zmowa](@/a/the-collusion.md), Pure Gold became their
   {{ music(spot='5KbPCz5BwuHVVeEFjaSENq')}}
   {{ music(apple='1703729138?i=1703729139')}}
   - "Golden Boy" by Sin With Sebastian
-  {{ org_badge(orgs=['mzw', 'ddw']) }} (2022-) <br>
+  {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
   {{ music(yt='N4oG4NUuhZk')}}
   {{ music(spot='3azjlLgKf8YQI2vK0D8skx')}}
-  {{ music(apple='[722079694?i=722079700')}}
+  {{ music(apple='722079694?i=722079700')}}
   - "Best of Both Worlds" by Hannah Montana
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-, in tag team with [Gabriel Queen](@/w/gabriel-queen.md)) <br>
+ {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-, both in tag team with [Gabriel Queen](@/w/gabriel-queen.md) and solo) <br>
  {{ music(yt='ZSGC3g-EWbw')}}
  {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
  {{ music(apple='1440632617?i=1440633345')}}
