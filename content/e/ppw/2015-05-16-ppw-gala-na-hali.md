@@ -11,7 +11,7 @@ city = "Warszawa"
 1 = { path = "mystic-tiger-vs-johnny-blade.jpg", caption = "Mystic Tiger vs [Johnny Blade](@/w/johnny-blade.md)", source = "Official PpW YouTube" }
 2 = { path = "ultimo-combo-vs-the-hardyz.jpg", caption = "[Ultimo Combo](@/w/johnny-blade.md) vs [The](@/w/mister-z.md) [Hardyz](@/w/rob-scaffold.md)", source = "Official PpW YouTube" }
 3 = { path = "mr-z-vs-automatico.jpg", caption = "[Mister Z](@/w/mister-z.md) vs [Automatico](@/w/rob-scaffold.md)", source = "Official PpW YouTube" }
-4 = { path = "matt2hot-vs-electrico.jpg", caption = "[Matt2Hot](@/w/sedzia-matt2hot.md) vs Electrico", source = "Official PpW YouTube" }
+4 = { path = "matt2hot-vs-electrico.jpg", caption = "[Matt2Hot](@/w/matt2hot.md) vs Electrico", source = "Official PpW YouTube" }
 +++
 
 Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard era, held indoors in a school at Gubinowska street, which some of the members of the promotion attended at the time. There was no ring and all the fights took place on mattresses - mainly in the titular gym hall but also outside of it, in a school corridor and an adjacent PE changing room. There was no audience and also no referee.
