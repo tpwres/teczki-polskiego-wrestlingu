@@ -10,8 +10,11 @@ career_aliases = ["Ring Rat"]
 1 = { path = "Sewi_2024.webp", caption = "Sędzia Seweryn at a PpW show in 2024.", source = "Official PpW website" }
 +++
 
+Sędzia Seweryn (known as Sewi The Referee) is a polish wrestling referee active on polish wrestling scene. He is best known for his time in [PpW Ewenement](@/o/ppw.md), as well as [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked as senior referee in [Prime Time Wrestling](@/o/ptw.md) from 2022 to 2024.
+
 ## Basic info
 
+* Years active: 2018-present
 * Nicknames/Gimmicks:
   - Ring Rat {{ org_badge(org='mzw') }}
   - Sewi the Ref {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
