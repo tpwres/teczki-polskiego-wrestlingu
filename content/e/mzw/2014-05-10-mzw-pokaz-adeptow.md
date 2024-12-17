@@ -8,7 +8,7 @@ venue = ["niedzwiedzica"]
 city = "Niedźwiedzica"
 [extra.gallery]
 1 = { path = "plakat.webp", caption = "Show poster." }
-2 = { path = "host-referee-photo.jpg", caption = "Show host Filip Cieśliński and referee [Matt2Hot](@/w/sedzia-matt2hot.md)", source = "Facebook @ManiacZoneWrestling"}
+2 = { path = "host-referee-photo.jpg", caption = "Show host Filip Cieśliński and referee [Matt2Hot](@/w/matt2hot.md)", source = "Facebook @ManiacZoneWrestling"}
 +++
 
 {% card() %}
