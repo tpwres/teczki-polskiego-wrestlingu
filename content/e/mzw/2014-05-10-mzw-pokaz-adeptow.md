@@ -18,7 +18,7 @@ city = "Niedźwiedzica"
 - credits:
     Host, Ring Announcer: Filip Cieśliński
     Commentary: '[Tomasz Warchoł](@/w/tomasz-warchol.md), Piotr Walkowiak'
-    Referees: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md)'
+    Referees: '[Sędzia Matt2Hot](@/w/matt2hot.md)'
 {% end %}
 
 
