@@ -24,7 +24,7 @@ Referee Matek made his debut at [PpW's](@/o/ppw.md) first-ever open to public ev
 
 ### Prime Time Wrestling (2021-2022)
 
-Matek joined [Prime Time Wresling](@/o/ptw.md) fairly early in its development. He was the sole referee for first two PTW's shows - including [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - before being joined by [Referee Seweryn](@/w/sedzia-seweryn.md) in January 2022, and [Referee Rafał](@/w/alex-brave.md) in August the same year. Coming closer to end of the year he bagan do express his dissatisfaction with [Pawłowski's](@/w/pan-pawłowski.md) way of handling PTW and decided that due to logistical problems he cannot appear at PTW shows as often. 
+Matek joined [Prime Time Wresling](@/o/ptw.md) fairly early in its development. He was the sole referee for first two PTW's shows - including [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - before being joined by [Referee Seweryn](@/w/sedzia-seweryn.md) in January 2022, and [Referee Rafał](@/w/alex-brave.md) in August the same year. Coming closer to end of the year he bagan do express his dissatisfaction with [Pawłowski's](@/w/pan-pawlowski.md) way of handling PTW and decided that due to logistical problems he cannot appear at PTW shows as often. 
 
 Matek was last seen as referee at December 18th 2022, where the unfamous Underground 10 was set to take place, but was cancelled due to power shortage in [PTW Performance Center](@/v/ptw-targowa.md). This was the last time Referee Matek made apperance in PTW, as he quietly left the federation.
 
