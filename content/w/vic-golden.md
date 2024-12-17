@@ -122,7 +122,7 @@ After Legia Łysych joined [Zmowa](@/a/the-collusion.md), Pure Gold became their
   {{ music(spot='5KbPCz5BwuHVVeEFjaSENq')}}
   {{ music(apple='1703729138?i=1703729139')}}
   - "Golden Boy" by Sin With Sebastian
-  {{ org_badge(orgs=['mzw', 'ddw']) }} (2022-) <br>
+  {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
   {{ music(yt='N4oG4NUuhZk')}}
   {{ music(spot='3azjlLgKf8YQI2vK0D8skx')}}
   {{ music(apple='[722079694?i=722079700')}}
