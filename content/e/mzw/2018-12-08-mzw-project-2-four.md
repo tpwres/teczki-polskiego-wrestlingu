@@ -29,7 +29,7 @@ source = "Official MZW Facebook"
   - {c: "MZW Championship", s: "Tournament Final Four Way Match"}
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
-    Referee: '[Sędzia Matt2Hot](@/w/sedzia-matt2hot.md)'
+    Referee: '[Sędzia Matt2Hot](@/w/matt2hot.md)'
 {% end %}
 
 ### Recap
