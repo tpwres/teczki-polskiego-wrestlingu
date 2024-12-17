@@ -39,8 +39,8 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 * The commentator was only present in the recap section at the beginning.
 * The fights had non-diegetinc music added in post, including the [John Cena theme][cena-za-kilo].
 * At one point [Automatico](@/w/rob-scaffold.md) vs [Mister Z](@/w/mister-z.md) became a three-man match, when [Ultimo Combo](@/w/johnny-blade.md) got invovled.
-* Electrico vs [Matt2Hot](@/w/sedzia-matt2hot.md) was kept as a surprise.
-* The video never specifies which of the two wrestlers in the Main Event is [Matt2Hot](@/w/sedzia-matt2hot.md) and which is Electrico. One needs to be familiar with them from other events.
+* Electrico vs [Matt2Hot](@/w/matt2hot.md) was kept as a surprise.
+* The video never specifies which of the two wrestlers in the Main Event is [Matt2Hot](@/w/matt2hot.md) and which is Electrico. One needs to be familiar with them from other events.
 
 ### References
 
