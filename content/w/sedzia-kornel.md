@@ -19,7 +19,7 @@ caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/
 source = "Krzysztof Zych"
 +++
 
-Sędzia Kornel is a polish wrestling referee best known from his time in [PpW Ewenement](@/o/ppw.md). He also made apperance in [Maniac Zone Wrestling](@/o/mzw.md)
+Sędzia Kornel is a Polish wrestling referee best known for his time in [PpW Ewenement](@/o/ppw.md). He also appeared in [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -37,7 +37,7 @@ Sędzia Kornel is a polish wrestling referee best known from his time in [PpW Ew
 
 #### Debut and feuding with Kapitan Bazooka
 
-Kornel made his official [PpW](@/o/ppw.md) debut as a referee during [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) in November 2022. For most of that time he worked along [Sędzia Borys](@/w/sedzia-borys.md).
+Kornel made his official [PpW](@/o/ppw.md) debut as a referee during [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) in November 2022. For most of that time he worked alongside [Sędzia Borys](@/w/sedzia-borys.md).
 After the second match of the evening, he got into a scuffle with also-debuting [Kapitan Bazooka](@/w/kapitan-bazooka.md), who then laid him out with an Attitude Adjustment, writing him off for the rest of the night.
 Kornel later addressed the attack in an [interview segment][kornel-interview], where he called Bazooka's actions unprofessional and an attack on Polish wrestling.
 This set up a feud between the two, that continued mostly on social media channels throughout 2023.
@@ -63,10 +63,9 @@ At [Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) Kornel made h
  
 * Entrance music:
   - "Intercontinental Bajers" by Solar/Białas
-    {{ org_badge(orgs=['ppw']) }} (2024) - non-canon shows, as part of "The Tourists" <br>
-    {{ music(yt='hs5_GR2hZfE')}}
-    {{ music(spot='4VEf3UQcYsNka5kbZSoF0A')}}
-    {{ music(apple='1765982589?i=1765982642')}}
-
+ {{ org_badge(orgs=['ppw']) }} (2024) - non-canon shows, as part of "The Tourists" <br>
+ {{ music(yt='hs5_GR2hZfE')}}
+ {{ music(spot='4VEf3UQcYsNka5kbZSoF0A')}}
+ {{ music(apple='1765982589?i=1765982642')}}
 
 [kornel-interview]: https://www.youtube.com/watch?v=jPEISp3JvoU
