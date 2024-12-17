@@ -1,9 +1,58 @@
 +++
 title = "Sawicki"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 +++
+
+Sawicki is retired wrestler best known from his tenure in [Kombat Pro Wrestling](@/o/kpw.md) from 2016 to 2020. He also worked in [Do Or Die Wrestling](@/o/ddw.md).
+
+## Basic info 
+
+* Years active: 2015-2020
+* Gimmicks/nicknames:
+  - Sawicki {{ org_badge(orgs=['ddw', 'kpw']) }}
+* Trained by:
+  - DDW Academy (2014-2015)
+  - KPW Academy (2015-2020)
+ 
+## Professional wrestling career
+
+### Do Or Die Wrestling (2014-2015)
+
+Sawicki started his professional wrestling career by training in [Do Or Die Wrestling](@/o/ddw.md) under [Don Roid's](@/w/don-roid.md) guidance. He made one apperance there, where he took part in Battle Royal during their [house show](@/e/ddw/2015-03-14-ddw-house-show-1.md) in March 2015. 
+
+### Kombat Pro Wrestling (2016-2020)
+
+After DDW transformation into [Kombat Pro Wrestling](@/o/kpw.md) Sawicki stayed in the federation and made his debut at [KPW Arena 2](@/e/kpw/2016-04-30-kpw-arena-2.md) in April 2016. He debuted in a heel gimmick of a security guard. He quickly alligned himself with [Rosetti](@/w/rosetti.md) with who he performed for good part of his tenure in KPW. They have managed to find success in KPW's tag team division by winning [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) as the first team in history. Along with Rosetti he belonged to [Piękny Kawaler's](@/w/piekny-kawaler.md) villainous stable - Kawaleria. 
+
+After Sawicki & Rosetti defeat at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) Rosetti turned on his long-time tag team partner and attacked him with a chair. It marks the last apperance of Sawicki in KPW, as he left federation to join brand new project which was started by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+
+### Prime Time Wrestling (2021)
+
+Sawicki was seen at the trainings in [PTW Academy](@/o/ptw-academy.md) back in the time when [Prime Time Wrestling](@/o/ptw.md) was preparing to launch. He also advertised the federation in his social media, but never got the chance to debut in PTW's ring, and subsequently retired from pro wrestling.
+
+## In wrestling
+
+* Finishers:
+  - _Sawicki Bomb_ (Chokebomb) (2016-2020)
+
+* Tag Teams and stables:
+  - Sawicki & Rosetti (2017-2020)
+  - Kawaleria (2018-2019)
+ 
+* Entrance music:
+  - "Pieceful" by The World I Know
+ {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Rosetti](@/w/rosetti.md)) <br>
+ {{ music(yt='cHMlcuuqWG8')}}
+ {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
+ {{ music(apple='1447820618?i=1447820619')}}
+
+
+## Internet presence
+
+* [Sawicki's Facebook profile](https://www.facebook.com/Sawicki-483062538551718/)
 
 ## References
 
