@@ -24,4 +24,4 @@ Besides his apperances on polish wrestling scene Tobias is most notably known fo
 
 ### Internet presence
 
-* [Tobias's facebook fanpage](https://www.facebook.com/TobitheRingRichter/)
+* [Tobias's facebook profile](https://www.facebook.com/TobitheRingRichter/)
