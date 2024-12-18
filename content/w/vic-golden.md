@@ -8,6 +8,8 @@ country = ["PL"]
 career_aliases = ["Prince Victor", "Joey Riddic"]
 +++
 
+Vic Golden is a polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md). He also made numerous apperances in [Prime Time Wrestling](@/o/ptw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and polish backyard scene.
+
 ## Basic info
 
 * Years active: 2012-present
