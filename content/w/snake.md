@@ -23,7 +23,7 @@ Snake made his debut in [Polish Xtreme Wrestling](@/o/pxw.md) at [PXW Royal Rumb
 
 ### PpW Ewenement (2016)
 
-Snake made a one-off appearance in PpW](@/o/ppw.md) in their backyard years. It was during [Backyard Total War 2016](@/e/ppw/2016-07-18-ppw-backyard-total-war.md) when he faced, and lost to Jim Enerico, an alter ego of [Mister Z](@/w/mister-z.md).
+Snake made a one-off appearance in [PpW](@/o/ppw.md) in their backyard years. It was during [Backyard Total War 2016](@/e/ppw/2016-07-18-ppw-backyard-total-war.md) when he faced, and lost to Jim Enerico, an alter ego of [Mister Z](@/w/mister-z.md).
 
 ## Championships and accomplishments 
 
