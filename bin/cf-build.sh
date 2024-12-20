@@ -40,6 +40,8 @@ build() {
   make all plot index
 
   zola -c build_cloudflare_config.toml build
+  cp data/appearances_v2.json public/
+  cp data/all_matches.json public/
 }
 
 lint
