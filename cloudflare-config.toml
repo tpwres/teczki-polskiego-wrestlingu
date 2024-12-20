@@ -45,6 +45,7 @@ mensch_links = [
   { path = "@/a/_index.md", name = "Articles", icon = "book" },
   { path = "@/v/_index.md", name = "Places", icon = "map-pin" },
   { path = "@/c/_index.md", name = "Championships", icon = "award" },
+  { url = "//mf.tpwres.pl", name = "Matchfinder", icon = "crosshair" },
 ]
 
 footer_links = [
