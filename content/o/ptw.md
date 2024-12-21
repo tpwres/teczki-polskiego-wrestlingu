@@ -163,8 +163,7 @@ During the show, Łukasz Okoński, the owner of Dworek Pod Platanem where [Under
 This change was not reflected in official registration documents (as of August 21, 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
 Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media. Renamed Łukasz "Prezes" Okoński, he gradually increased his presence, appearing on virtually every show and taking part in segments.
 
-On August 14, 2024, Pawłowski hosted a show for the local TV channel TVT, titled "Czas na Wrestling" (_Time for Wrestling_).
-It featured a panel where Pawłowski led the discussion with two guests: Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
+On August 14, 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage][czas-na-wrestling]. The first episode featured a panel where Pawłowski led the discussion with two guests: Łukasz Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
 
 #### Post-Ryucon: New venue, PTW back on track
 
@@ -176,6 +175,10 @@ Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?
 
 On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
 
+#### Final Underground, Pawłowski turns heel
+[Underground 25](e/ptw/2024-12-07-ptw-underground-25/) saw two seismic shifts. In the opening segment, Pawłowski confirmed that the show would be the final PTW Underground. To commemorate this series of events, a tournament would be held where the inaugural PTW Underground Champion would be crowned.
+In the main event, featuring [Puncher](@/w/puncher.md) defending his [PTW Championship](@/c/ptw-championship.md] against [Spartan](@/w/spartan.md), Pawłowski shocked the audience by attacking Spartan with a chair, which allowed Puncher to retain - thus turning heel for the first time since his [DDW](@/o/ddw.md) run. Ever since, Pawłowski has dropped his gracious persona and heavily increased his social media presence, going into arguments with "haters" whom he refers to as "basement-dwellers" (_piwniczaki_).
+
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) or [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
@@ -185,6 +188,11 @@ That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-
 This is similar to KPW's approach. Fans theorize that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and DDW.
 
 Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled ["The Whole Truth About Polish Wrestling"][pawłowski-najman-zero], which prompted further controversy on the Polish scene. Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he is the only professional one, acknowledging the competition but calling them "more or less amateur projects". This prompted an impassioned response from the ex-wrestler and current [KPW](@/o/kpw.md) promoter [Piękny Kawaler](@/w/piekny-kawaler.md), who made a lengthy Facebook post addressing the remarks. Kawaler claimed that Pawłowski was fired from KPW due to being a self-centered mark, focusing on promoting his own persona instead of team effort. He said that the current state of PTW is more resembling of a backyard than a professional wrestling federation. The post got a lot of agreeing comments from Polish wrestlers, current and former, from all sides of Polish scene: [David Oliwa](@/w/david-oliwa.md), [Bianca](@/w/bianca.md), [Olgierd](@/w/olgierd.md), [Boro](@/w/boro.md), [Eryk Lesak](@/w/eryk-lesak.md), [Referee Seweryn](@/w/sedzia-seweryn.md), [Michał Fux](@/w/michal-fux.md), [Chris Hunter](@/w/chris-hunter.md) and [Kamil Aleksander](@/w/kamil-aleksander.md).
+
+In a [live interview][pawłowski-my-wrestling-live] for MyWrestling, Pawłowski doubled down on his statements. He responded to Piękny Kawaler, revealing some dirt on him, calling him a pussy, ridiculing his height and lack of courage. According to Pawłowski, Kawaler had always wanted to downsize KPW, because larger shows would equal more work. He also accused Kawaler of being unstable and carrying a gun to fend off imaginary goons sent by Pawłowski. Pawłowski stated that Kawaler minimised Pawłowski's involvement in the promotion by reducing his role to just hosting shows and announcing fights. This led to an increasing disagreement between Pawłowski and Kawaler, so Pawłowski'd tried to sever ties with KPW as amicably as possible, however Kawaler had blindsided him by firing Pawłowski just a day before his scheduled appearance at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md). Despite this, Pawłowski started his new promotion in Silesia to avoid directly competing with KPW. He reiterated his belief that PTW is the first Polish professional promotion and their competition is more or less amateurish. In hindsight he also does not see KPW and DDW as pro, though he admitted that he'd seen these projects as professional at the time he was involved.
+
+Asked about overdue payments for [Total Blast From the Past](@/e/ptw/2024-05-11-ptw-6.md), which saw many competitors leave soon thereafter, Pawłowski changed his narrative about PTW debts. In his prior appearance for Kanał Zero he'd promised to pay off all the debts that PTW has. Now he alleged there were never any debts, except for PTW ex-wrestlers owing the promotion money for training. However, he chose to graciously absolve them from this debt to avoid any further contact with them.
+Asked about [Legacy of Wrestling](@/o/low.md), he claimed there were no attempts to invite PTW competitors. Multiple insiders in the chat confirmed otherwise, so Pawłowski proceeded to explain that the only way to invite a PTW competitor to other show is through the promoter, as they are contracted performers. When asked by a person in the chat whether El Homo led on a chain by a half-naked woman at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) was in line with the family friendly approach chosen by PTW, he responded that this was entirely Prezes Okoński's idea, which Pawłowski didn't entirely like, but it did achieve the goal of getting people talking. He promptly followed this by stating that he'd wish PTW fans weren't idiots (_debile_), because then they'd be able to "make cool, intelligent content for cool, intelligent people".
 
 ## Foreign relations
 
@@ -199,7 +207,7 @@ See the [Expansion into Austria](#expansion-into-austria) section above.
 
 PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion Scotty Rawk to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed, on a [livestream][live-istota-puncher] by Istota Wrestlingu, that the deal is still on.
 
-In early September 2024, PTW announced they'll be sending a team of wrestlers to _Botte da Bestya 2_, an event by Italian organization ICW happening on September 15, 2024. This team is to consist of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent: [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who will defend his championship.
+In the early September 2024, PTW announced they'd be sending a team of wrestlers to _Botte da Bestya 2_, an event by the Italian organization ICW happening on September 15, 2024. This team consisted of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent: [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who defended his championship.
 
 One remarkable deal between PTW and a bigger promotion was an agreement with Impact Wrestling, for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md).
 
@@ -220,9 +228,7 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 PTW's talent made an appearance in Young Multi's [video][young-multi-ak47] for the song "AK47".
 The video features Pawłowski giving a pep-talk to Multi and his band, as well as scenes of PTW wrestlers hitting their moves in the ring, intercut with clips of the band.
 Pawłowski is credited as the director of fighting scenes, which were recorded in Kozłów, where their new [Performance Center](#Post-Ryucon-New-venue-PTW-back-on-track) is located.
-Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Diana Strong](@/w/diana-strong.md).
-In August 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage](https://telewizjatvt.pl/?s=czas+na+wrestling).
-In December 2024, Pawłowski, Strong and Nano Lopez made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel.
+Featured in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Diana Strong](@/w/diana-strong.md).
 
 ## Internet presence
 
@@ -255,3 +261,5 @@ In December 2024, Pawłowski, Strong and Nano Lopez made an appearance on Marcin
 [young-multi-ak47]: https://www.youtube.com/watch?v=BXamVDoOSAw
 [fb-extreme-sports]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0DwHGQai69fPD3yYBa58LBvcCPFFLNsVShRaq8fru5VuiHaT9jhviRnyjk3X3rYqFl
 [pawłowski-najman-zero]: https://www.youtube.com/watch?v=KhZxEHCEqHo
+[pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
+[czas-na-wrestling]: https://telewizjatvt.pl/?s=czas+na+wrestling
