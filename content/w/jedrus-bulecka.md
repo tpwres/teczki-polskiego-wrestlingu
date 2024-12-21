@@ -41,7 +41,7 @@ Jędruś made regular appearances at most of MZW shows up until June 2019. Follo
 
 ## Other media
 
-Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wrestlera](@/a/wrestlers-dream.md), a documentary film about the conflict of his passion for wrestling with his academic pursuits. He is also portrayed as a wrestler and instructor in another documentary [Amerykański Sen](@/a/american-dream.md), tutoring several rookies including [Szymon](@/w/szymon-siwiec.md).
+Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wrestlera](@/a/wrestlers-dream.md), a documentary film about the conflict of his passion for wrestling with his academic pursuits. He is also featured in another documentary titled [Amerykański Sen](@/a/american-dream.md), where he's portrayed as a wrestler and a coach, tutoring several rookies including [Szymon](@/w/szymon-siwiec.md).
 
 ## References
 
