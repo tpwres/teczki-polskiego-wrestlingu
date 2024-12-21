@@ -45,13 +45,13 @@ mensch_links = [
   { path = "@/a/_index.md", name = "Articles", icon = "book" },
   { path = "@/v/_index.md", name = "Places", icon = "map-pin" },
   { path = "@/c/_index.md", name = "Championships", icon = "award" },
-  { url = "//mf.tpwres.pl", name = "Matchfinder", icon = "crosshair" },
 ]
 
 footer_links = [
   { path = "@/about.md", name = "About", icon = "info"},
   { path = "@/a/contributing.md", name = "Contributing", icon = "edit"},
   { url = "//github.com/tpwres/teczki-polskiego-wrestlingu", name = "GitHub", icon = "github"},
+  { url = "https://tpwres.pl//atom.xml", name = "Atom feed", icon = "rss"},
   { path = "@/authors.md", name = "Authors", icon = "heart" }
 ]
 
