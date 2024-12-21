@@ -262,4 +262,4 @@ Featured in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), 
 [fb-extreme-sports]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0DwHGQai69fPD3yYBa58LBvcCPFFLNsVShRaq8fru5VuiHaT9jhviRnyjk3X3rYqFl
 [pawłowski-najman-zero]: https://www.youtube.com/watch?v=KhZxEHCEqHo
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
-[czas-na-wrestling]: (https://telewizjatvt.pl/?s=czas+na+wrestling)
+[czas-na-wrestling]: https://telewizjatvt.pl/?s=czas+na+wrestling
