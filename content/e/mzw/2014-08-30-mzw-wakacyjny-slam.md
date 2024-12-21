@@ -28,3 +28,4 @@ city = "Opawa"
 
 * The battle royale is featured in the second act of [American Dream](@/a/american-dream.md).
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=118649)
+* [NSW On Tour in Opawa](https://www.youtube.com/watch?v=ofbrHqlKVko), a short video diary from Baxxter, Grannatic and Engel.
