@@ -16,7 +16,7 @@ career_aliases = ["Patriota", "Polish Hammer", "Marcin Wilkowski"]
 * Years active: 2009-2019; 2024
 * Gimmicks/nicknames:
   - Marcin Wilkowski {{ org_badge(org='ddw') }}
-  - Jędruś Bułecka {{ org_badge(orgs=['ddw', 'mzw'']) }}
+  - Jędruś Bułecka {{ org_badge(orgs=['ddw', 'mzw']) }}
   - Patriota {{ org_badge(orgs=['mzw']) }}
   - Polish Hammer {{ org_badge(orgs=['mzw']) }}
 * Trained by:
