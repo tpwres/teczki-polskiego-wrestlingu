@@ -8,9 +8,9 @@ venue = ["wroclaw"]
 city = "Wrocław"
 +++
 
-The second Podziemny Krąg was a private, closed event held on Saturday, Aug 22nd 2015. According to the organizer's page, the event was produced for employees of mining equipment manufacturer KGHM Zanam.
+The second Podziemny Krąg (_The Underground Circle_) was a private, closed event held on Saturday, Aug 22, 2015. According to the organizer's page, the event was produced for employees of the mining equipment manufacturer KGHM Zanam.
 
-The event's name refers to _Fight Club_, David Fincher's 1999 movie, whose Polish title was _Podziemny Krąg_.
+The event's name refers to David Fincher's 1999 movie _Fight Club_, whose Polish title is _Podziemny Krąg_.
 
 There is no confirmed card for this event. Based on the photos from the organizer's page, the following talent were involved:
 
