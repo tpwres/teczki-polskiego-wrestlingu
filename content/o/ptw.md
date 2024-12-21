@@ -176,6 +176,10 @@ Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?
 
 On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
 
+#### Final Underground, Pawłowski turns heel
+[Underground 25](e/ptw/2024-12-07-ptw-underground-25/) saw two seismic shifts. In the opening segment, Pawłowski confirmed that the show would be the final PTW Underground. To commemorate this series of events, the tournament would be held, where inaugural PTW Underground Champion would be crowned.
+In the main event, featuring [Puncher](@/w/puncher.md) defending his [PTW Championship](@/c/ptw-championship] against [Spartan](@/w/spartan.md), Pawłowski shocked the world, laying Spartan out with the chair, which allowed Puncher to retain - thus turning heel for the first time since his [DDW](@/o/ddw.md) run. Ever since, Pawłowski dropped the gracious persona and heavily increased his social media presence, going into arguments with every "hater", calling them "basement-dwellers" (piwniczaki).
+
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) or [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
@@ -185,6 +189,13 @@ That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-
 This is similar to KPW's approach. Fans theorize that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and DDW.
 
 Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled ["The Whole Truth About Polish Wrestling"][pawłowski-najman-zero], which prompted further controversy on the Polish scene. Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he is the only professional one, acknowledging the competition but calling them "more or less amateur projects". This prompted an impassioned response from the ex-wrestler and current [KPW](@/o/kpw.md) promoter [Piękny Kawaler](@/w/piekny-kawaler.md), who made a lengthy Facebook post addressing the remarks. Kawaler claimed that Pawłowski was fired from KPW due to being a self-centered mark, focusing on promoting his own persona instead of team effort. He said that the current state of PTW is more resembling of a backyard than a professional wrestling federation. The post got a lot of agreeing comments from Polish wrestlers, current and former, from all sides of Polish scene: [David Oliwa](@/w/david-oliwa.md), [Bianca](@/w/bianca.md), [Olgierd](@/w/olgierd.md), [Boro](@/w/boro.md), [Eryk Lesak](@/w/eryk-lesak.md), [Referee Seweryn](@/w/sedzia-seweryn.md), [Michał Fux](@/w/michal-fux.md), [Chris Hunter](@/w/chris-hunter.md) and [Kamil Aleksander](@/w/kamil-aleksander.md).
+
+In live interview for MyWrestling, Pawłowski doubled down on his statements. He responded to Piękny Kawaler, revealing some dirt on him, calling him a pussy, ridiculing his height and lack of courage. As per Pawłowski, Kawaler always wanted to downsize KPW, because larger shows would equal more work. He also accused Kawaler of being unstable and carrying a gun to fend off imaginary goons sent by Pawłowski. As per his version, Pawłowski tried to sever ties with KPW as amicably as possible, even starting his new promotion in Silesia, to avoid being a competition to KPW. However Kawaler blindsided him with firing just a day before scheduled appearance.
+Pawłowski reiterated his belief that PTW is the first Polish professional promotion and the competition is more or less amateurish. In hindsight he also does not see KPW and DDW as pro, though he admitted that he saw this projects as professional at the time he was involved.
+Asked about overdue payments for [Total Blast From the Past](@/e/ptw-6.md) which saw many competitors leaving soon after, Pawłowski changed his narrative about PTW debts. In prior appearance for Kanał Zero, he promised to pay off all the debts that PTW has. Now he alleged there were never any debts, except PTW  ex-wrestlers owing PTW money for training. However, he chose to absolve them from this debt to avoid any further contact with them.
+Asked about [Legacy of Wrestling](@/o/low.md), he claimed there were no attempts to invite PTW competitors. Multiple insiders in the chat confirmed otherwise, so Pawłowski shifted the narrative to defining the invite. Per his definition, the only way to invite a PTW competitor to other show is through the promoter, as they are contracted performers.
+
+
 
 ## Foreign relations
 
@@ -223,7 +234,7 @@ Pawłowski is credited as the director of fighting scenes, which were recorded i
 Shown in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Diana Strong](@/w/diana-strong.md).
 In August 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [webpage](https://telewizjatvt.pl/?s=czas+na+wrestling).
 In December 2024, Pawłowski, Strong and Nano Lopez made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel.
-
+In December 2024, MyWrestling portal held a live interview with Pawłowski on their YouTube channel.
 ## Internet presence
 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
@@ -255,3 +266,4 @@ In December 2024, Pawłowski, Strong and Nano Lopez made an appearance on Marcin
 [young-multi-ak47]: https://www.youtube.com/watch?v=BXamVDoOSAw
 [fb-extreme-sports]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0DwHGQai69fPD3yYBa58LBvcCPFFLNsVShRaq8fru5VuiHaT9jhviRnyjk3X3rYqFl
 [pawłowski-najman-zero]: https://www.youtube.com/watch?v=KhZxEHCEqHo
+[pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c&ab_channel=MyWrestling
