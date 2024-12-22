@@ -1,6 +1,7 @@
 +++
 title = "Samson"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
@@ -8,7 +9,6 @@ career_aliases = ['"Top Gun" Samson']
 +++
 
 Samson is a Polish wrestler best known from his apperances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).
-
 
 ## Basic info
 
@@ -25,13 +25,13 @@ Samson is a Polish wrestler best known from his apperances in [Prime Time Wrestl
 
 #### Debut and first feuds
 
-Samson made his debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 4](@/e/ptw/2022-04-24-ptw-underground-4.md). He adopted a "Top Gun" persona, heavily inspired by the famous movie with the same name. He was portraying a strictly babyface persona, and quickly gained a lot of popularity thanks to his in-ring style, showing off his agility and high-risk manouvers while maintaining a rather powerhouse physique. For most of 2022 he maintained a strong midcard position with an average win-loss record. Samson even got involved in a short feud against [Syriusz Dziedzic](@/w/dziedzic.md), who was set to face him at [PTW 3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). The plan was, however, scrapped after [Wiktor Longman](@/w/wiktor-longman.md) - who was on Syriusz's payroll - attacked and injured Samson. 
+Samson made his debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 4](@/e/ptw/2022-04-24-ptw-underground-4.md). He adopted a "Top Gun" persona, heavily inspired by the famous Tom Cruise movie of the same name. He portrayed a strictly babyface persona, and quickly gained a lot of popularity thanks to his agility and high-risk manouvers despite having a rather powerhouse physique. For most of 2022 he maintained a strong midcard position with an average win-loss record. Samson even got involved in a short feud against [Syriusz Dziedzic](@/w/dziedzic.md), who was set to face him at [PTW 3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). The plan was, however, scrapped after [Wiktor Longman](@/w/wiktor-longman.md) - who was on Syriusz's payroll - attacked and injured Samson.
 
 #### Samsonito and departure
 
-In 2023 Samson maintained his position in the midcard of most PTW shows. A brief storyline with [Marcelito](@/w/marcelito.md) emerged, when their match at [Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) was disrupted by [Iskra](@/w/iskra.md). A rematch between the two took place at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). At the [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md), he faced a member of Sinister Kingdom - [Krampus](@/w/krampus.md). He was then attacked by Dziedzic and [Sinister](@/w/sinister.md), but they were chased off by Marcelito and [Nano Lopez](@/w/nano-lopez.md). This led to Samson allying with Marcelito, to form "Samsonito", who then feuded with Sinister Kingdom. The story was cut short, as Samson made his last apperance for PTW at [Underground 20](content/e/ptw/2023-12-10-ptw-underground-20.md) in December 2023.
+In 2023 Samson maintained his position in the midcard of most PTW shows. A brief storyline with [Marcelito](@/w/marcelito.md) emerged, when their match at [Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) was disrupted by [Iskra](@/w/iskra.md). A rematch between the two took place at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). At [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md), he faced a member of Sinister Kingdom, [Krampus](@/w/krampus.md). He was then attacked by Dziedzic and [Sinister](@/w/sinister.md), but they were chased off by Marcelito and [Nano Lopez](@/w/nano-lopez.md). This led to Samson allying with Marcelito, to form "Samsonito", who then feuded with Sinister Kingdom. The story was cut short, as Samson made his last apperance for PTW at [Underground 20](content/e/ptw/2023-12-10-ptw-underground-20.md) in December 2023.
 
-Shortly after that last appearance, Samson [left PTW](@/a/ptw-exits.md). In an interview published on the "Wrestling Polska" YouTube channel, Samson stated that his departure was caused by a dispute with PTW's owner [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) over finances and overall poor talent treatment from Pawłowski's side. 
+Shortly after that last appearance, Samson [left PTW](@/a/ptw-exits.md). In an interview published on the "Wrestling Polska" YouTube channel, Samson stated that his departure was caused by a dispute with PTW's owner [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) over finances and overall poor talent treatment from Pawłowski's side. The interview has since been taken down.
 
 ### PpW Ewenement (2024-present)
 
@@ -42,7 +42,7 @@ After his depature from PTW, Samson joined Warsaw-based [PpW Ewenement](@/o/ppw.
 #### Feud with Gustav Gryffin
 
 Frustrated over being denied a victory twice by various shenanigans, Samson challenged Mister Z for a match at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). He managed to win this fight and started a rivalry with Gustav Gryffin, recently crowned [PpW Champion](@/c/ppw-championship.md).
-They faced each other in a series of three matches. The first one at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) was an non-title Match which ended via double count-out. They faced each other again a month later at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in an Anarchy Cyclone Tag-Team Match where Samson teamed up with [Johnny Blade](@/w/johnny-blade.md) against Gustav and [Isnorr](@/w/isnorr.md). Samson lost this match after being tied to the turnbuckle with leather straps by Gustav.
+They faced each other in a series of three matches. The first one at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) was an non-title Match which ended in a double count-out. They faced each other again a month later at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in an Anarchy Cyclone Tag-Team Match where Samson teamed up with [Johnny Blade](@/w/johnny-blade.md) against Gustav and [Isnorr](@/w/isnorr.md). Samson lost this match after being tied to the turnbuckle with leather straps by Gustav.
 This led to the final match in their trilogy at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) where he finally faced Gustav in a Strap Match, with the PpW Championship on the line. He was unable to win this fight, losing by submission. In a post-match interview, he confessed that his self-esteem is seriously damaged, and that he would need some time off from PpW.
 
 ### Maniac Zone Wrestling (2024)
