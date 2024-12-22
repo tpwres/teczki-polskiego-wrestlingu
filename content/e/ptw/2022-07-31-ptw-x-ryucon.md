@@ -23,6 +23,7 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
 - ['[Axel Fox](@/w/axel-fox.md)', '[Justin Joy](@/w/justin-joy.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
 - ['[Sinister](@/w/sinister.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)']
+  - s: Submission Match
 - [Mike D. Vecchio, '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)']
 - - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
   - "[Disco Pablo](@/w/disco-pablo.md), [Diana Strong](@/w/diana-strong.md)"
