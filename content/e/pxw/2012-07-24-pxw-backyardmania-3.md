@@ -16,7 +16,7 @@ city = "Głuchołazy"
 - - 'Resh'
   - 'Vairen'
   - nc: '?'
-- - '[Snake](@/w/snake.md), Reks'
+- - '[Snake](@/w/snake.md), [Reks](@/w/sirreks.md)'
   - '[Demente](@/w/demente.md), Vandal'
   - c: PXW Tag Team Championship
     nc: '?'
