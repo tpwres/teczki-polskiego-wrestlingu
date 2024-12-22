@@ -1,8 +1,8 @@
 +++
 title = "Sambor"
 template = "talent_page.html"
-[taxonomies]
 authors = ["Sewi The Referee"]
+[taxonomies]
 country = ["PL"]
 +++
 
