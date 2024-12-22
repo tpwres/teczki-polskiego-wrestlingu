@@ -1,6 +1,7 @@
 +++
 title = "Tomasz Warchoł"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 +++
