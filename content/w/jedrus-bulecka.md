@@ -24,8 +24,8 @@ Jędruś Bułecka is a semi-retired Polish wrestler best known for co-founding a
   - Polish Hammer {{ org_badge(orgs=['mzw']) }}
 * Trained by:
   - Kevin Williams (prior to 2009)
-  - DDW School (2009-2013)
-  - MZW School (2014-2019)
+  - DDW Academy (2009-2013)
+  - MZW Academy / [Polska Akademia Wrestlingu](@/o/paw.md) (2014-2018)
 
 ## Professional wrestling career
 
@@ -42,6 +42,20 @@ Jędruś made regular appearances at most of MZW shows up until June 2019. Follo
 ## Other media
 
 Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wrestlera](@/a/wrestlers-dream.md), a documentary film about the conflict of his passion for wrestling with his academic pursuits. He is also featured in another documentary titled [Amerykański Sen](@/a/american-dream.md), where he's portrayed as a wrestler and a coach, tutoring several rookies including [Szymon](@/w/szymon-siwiec.md).
+
+## In wrestling
+
+* Tag teams and stables:
+  - Zbójnicy (2015-2017)
+
+* Entrance music:
+ - "W Murowanej Piwnicy" by unknown folk artist
+ {{ org_badge(orgs=['mzw']) }} (2015-2017) <br>
+
+## Championships and accomplishments
+
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; inaugural) (with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md))
 
 ## References
 
