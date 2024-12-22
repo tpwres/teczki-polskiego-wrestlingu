@@ -16,6 +16,7 @@ Luke Sirreks, also simply known as "Sirreks" and "Reks", is a retired Polish bac
 * Gimmciks/nicknames:
   - Sirreks {{ org_badge(orgs=['pxw']) }} (2011-2012)
   - Luke Sirreks {{ org_badge(orgs=['pxw']) }} (2013)
+  - Reks {{ org_badge(orgs=['pxw']) }} (2012)
 
 ## Professional wrestling career
 
