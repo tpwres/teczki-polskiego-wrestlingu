@@ -52,7 +52,7 @@ Sawicki was seen at trainings in [PTW Academy](@/o/ptw-academy.md) back when [Pr
 ## Championships and accomplishments:
 
 * [Kombat Pro Wrestling](@/o/kpw.md)
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship) (1 time; inaugural) - with [Rosetti](@/w/rosetti.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Rosetti](@/w/rosetti.md)
 
 ## Internet presence
 
