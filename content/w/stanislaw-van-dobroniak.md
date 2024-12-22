@@ -1,6 +1,7 @@
 +++
 title = "Stanisław Van Dobroniak"
 template = "talent_page.html"
+authors = ["Sewi The Referee", "Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
