@@ -57,13 +57,13 @@ Samson made one-off apperance in [Maniac Zone Wrestling](@/o/mzw.md) where he fa
   - Samsonito (2023)
  
 * Entrance music:
-- "Danger Zone" by Kenny Loggins
+  - "Danger Zone" by Kenny Loggins
  {{ org_badge(orgs=['ptw']) }} (2022) <br>
  {{ music(yt='siwpn14IE7E')}}
  {{ music(spot='3hMHG6lx9QHVcfYSUr5PoM')}}
  {{ music(apple='387193895?i=387193955')}}
-- "We've Got Hostiles" by morch kovalsky
-- {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-) <br>
+  - "We've Got Hostiles" by morch kovalsky
+ {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-) <br>
  {{ music(yt='8KswYyylKD4')}}
  {{ music(spot='4fXCCzN6GfawQ2s1V2sRca')}}
  {{ music(apple='1475678330?i=1475678609')}}
