@@ -32,7 +32,7 @@ Plans were cut short, however, as both Sambor and Rusałka decided to [leave the
 
 ### Return to Maniac Zone Wrestling (2024)
 
-After an absence of five months, Sambor made his return to MZW, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) for the [PpW Championship](@/c/ppw-championship.md) at [No Time To Die](@/e/2024-10-12-mzw-no-time-to-die.md), resulting in a defeat by submission.
+After an absence of five months, Sambor made his return to MZW, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) for the [PpW Championship](@/c/ppw-championship.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), resulting in a defeat by submission.
 
 ### PpW Ewenement (2024-)
 
