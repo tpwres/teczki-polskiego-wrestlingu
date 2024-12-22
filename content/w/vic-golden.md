@@ -138,6 +138,11 @@ After Legia Łysych joined [Zmowa](@/a/the-collusion.md), Pure Gold became their
 
 * Backyardowy Wrestling Niezależny:
   - BWN Championship (1 time)
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (2 times):
+    * Tag Team of the Year (2022) - with [Gabriel Queen](@/w/gabriel-queen.md)
+    * Newcomer of the Year (2022)
  
 ## Internet presence
 
