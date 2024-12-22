@@ -5,10 +5,10 @@ authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
-career_aliases = ["Luke Sirreks"]
+career_aliases = ["Luke Sirreks", "Reks"]
 +++
 
-Luke Sirreks, also simply known as "Sirreks", is a retired Polish backyard wrestler known for his time in [Polish Xtreme Wrestling](@/o/pxw.md) between 2011 and 2013.
+Luke Sirreks, also simply known as "Sirreks" and "Reks", is a retired Polish backyard wrestler known for his time in [Polish Xtreme Wrestling](@/o/pxw.md) between 2011 and 2013.
 
 ## Basic info
 
