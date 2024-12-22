@@ -51,7 +51,7 @@ footer_links = [
   { path = "@/about.md", name = "About", icon = "info"},
   { path = "@/a/contributing.md", name = "Contributing", icon = "edit"},
   { url = "//github.com/tpwres/teczki-polskiego-wrestlingu", name = "GitHub", icon = "github"},
-  { url = "https://tpwres.pl//atom.xml", name = "Atom feed", icon = "rss"},
+  { url = "/atom.xml", name = "Atom Feed", icon = "rss"},
   { path = "@/authors.md", name = "Authors", icon = "heart" }
 ]
 
