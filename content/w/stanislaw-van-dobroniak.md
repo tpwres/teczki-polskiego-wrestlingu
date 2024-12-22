@@ -45,7 +45,7 @@ After losing the championship, Stanisław had been inactive in PpW up until Dece
 
 ## Other media
 
-Stockholm Life, a Swedish YouTube channel produced a short documentary about Dobroniak, titled "[The Polish Adonis](https://youtu.be/ywh7FwyQCEw)". In it, Dobroniak talks (in Swedish, with English subtitles) about "combining his private and wrestling life by prioritizing wrestling in almost every aspect".
+Stockholm Life, a Swedish YouTube channel, produced a short documentary about Dobroniak, titled "[The Polish Adonis](https://youtu.be/ywh7FwyQCEw)". In it, Dobroniak talks (in Swedish, with English subtitles) about "combining his private and wrestling life by prioritizing wrestling in almost every aspect".
 
 ### Botchamania
 
