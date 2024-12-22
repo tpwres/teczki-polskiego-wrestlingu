@@ -87,8 +87,11 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
 
 ## Championships and accomplishments
 
-* [Maniac Zone Wrestling:](@/o/mzw.md)
+* [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (2 times)
+
+* [Polish Xtreme Wrestling](@/o/pxw.md):
+  - ECW Championship (2 times)
 
 ## Internet presence
 
