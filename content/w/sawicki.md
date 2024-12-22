@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
-Sawicki is retired wrestler best known for his tenure in [Kombat Pro Wrestling](@/o/kpw.md) from 2016 to 2020. He also worked in [Do Or Die Wrestling](@/o/ddw.md).
+Sawicki is a retired wrestler best known for his tenure in [Kombat Pro Wrestling](@/o/kpw.md) from 2016 to 2020. He also worked in [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info 
 
