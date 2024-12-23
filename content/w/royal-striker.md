@@ -8,7 +8,7 @@ country = ["PL"]
 career_aliases = ["Striker", "Prince Striker"]
 +++
 
-Royal Striker, also known as Prince Striker or simply Striker, is a polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md)
+Royal Striker, also known as Prince Striker or simply Striker, is a polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
