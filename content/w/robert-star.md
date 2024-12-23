@@ -1,7 +1,7 @@
 +++
 title = "Robert Star"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Krzysztof Zych"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -17,7 +17,7 @@ Robert Star is a Polish wrestler best known from his time in [Kombat Pro Wrestli
   - "The Polish Stallion" {{ org_badge(orgs=['kpw', 'ptw', 'ppw']) }}
   - "The Rockstar of Polish Wrestling" {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - DDW Academy (201?-2015)
+  - [Don Roid](@/w/don-roid.md), DDW Academy (201?-2015)
   - KPW Academy (2015-2019)
 
 ## Professional wrestling career
@@ -28,24 +28,25 @@ Robert Star debuted at [DDW#8](@/e/ddw/2013-08-17-ddw-8.md) in a tag team match 
 
 ### Kombat Pro Wrestling (2015-2019)
 
-#### Debut 
+#### Debut
 
 At the end of 2014 DDW moved their operations to Gdańsk. This did not last long, as by 2015 Roid retired from wrestling and sold the ring to a team of his wrestlers from the area. This team became [KPW](@/o/kpw.md), and one of these people was Robert, who later main-evented many of their shows. He adopted a rockstar persona nicknamed "The Polish Stallion", wearing leather, jeans and sunglasses to the ring, and using Steel Panther's "Party All Day" as his entrance song.
 
-#### Feud with Piękny Kawaler 
+#### Feud with Piękny Kawaler
 
 In 2018 Robert became the leader of an all-babyface faction called "Sojusz" (_The Alliance_), which feuded with an all-heels faction "Kawaleria" (_The Cavalry_), led by [Piękny Kawaler](@/w/piekny-kawaler.md).
 These events played out at [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md) and [Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md).
 At the following show, [Godzina Zero 2018](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md), Robert was forced to join Kawaleria, wear their signature facepaint, and come to ringside with other members. As time went on, he became increasingly uncomfortable with his position.
 He was part of a tag team with Piękny Kawaler and entered the Tag Team Tournament at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md). However, the two of them were disqualified, due to Kawaler being under the influence.
 This storyline was resolved at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md): after Robert defeated Ron Corvus to become the [KPW Champion](@/c/kpw-championship.md), Kawaler appeared and requested that Robert hand over the belt to him. He revealed that Robert has signed a contract with him and Kawaleria, and that he was helping Robert win the title on the condition he immediately handed it over to Kawaler.
-Before the [following show](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md), Robert was officially fired via a Facebook post for breaking the terms of said contract. This stripped him of the championship, which was left vacant. However, at the show, [Chairman Malinowski](@/w/krystian-malinowski.md) added Robert to the main event, which was now a six-man elimination match. Robert managed to win said match and regain his KPW Championship.
+Before the [following show](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md), Robert was officially fired via a Facebook post for breaking the terms of said contract.
+This stripped him of the championship, which was left vacant. However, at the show, [Chairman Malinowski](@/w/krystian-malinowski.md) added Robert to the main event, which was now a six-man elimination match. Robert managed to win said match and regain his KPW Championship.
 
 #### KPW Champion and departure
 
 Robert's next match for KPW was at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), against Piękny Kawaler. This bout was both for the KPW Championship, and for the careers of both men, with a Last Man Standing stipulation. When Robert defeated Kawaler, the latter initially accepted his opponent's handshake and lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. With the help of other babyfaces, Robert regained control and together they struck a victory pose with Kawaler literally under Robert's heel.
 
-Robert's last apperance in KPW took place at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) where he protected [Sawicki](@/w/sawicki.md) from [Rosetti](@/w/rosetti.md), who attacked his tag team partner after their defeat. Following that show Robert left the federation, vacating the KPW Championship.
+Robert's last appearance in KPW took place at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) where he protected [Sawicki](@/w/sawicki.md) from [Rosetti](@/w/rosetti.md), who attacked his tag team partner after their defeat. Following that show Robert left the federation, vacating the KPW Championship.
 
 In 2018 Robert competed in his first match abroad: at the French Ligue Nationale de Catch's event in Commercy. He went against the French wrestler Scott Rider in a singles match, and also against a team including Scott Rider and Ron Corvus in an eight-man tag team match.
 
@@ -62,9 +63,9 @@ In January 2021 Robert was slated to debut at a Danish BODYSLAM! Pro-Wrestling's
 ### PpW Ewenement (2024)
 
 On May 11th, 2024, [PpW Ewenement](@/o/ppw.md) announced booking Robert Star for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) the following month.
-This surprised fans, but was well received both by fans and wrestling YouTubers. PpW wrestlers reposted this to their Instagram stories, with comments like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery) and its main prize, a Nissan GTR). The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held on that day.
+This surprised fans, but was well received both by fans and wrestling YouTubers. PpW wrestlers shared this to their Instagram stories, with comments like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery) and its main prize, a 1200HP Nissan GTR). The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held on that day.
 
-Robert faced another wrestler who made "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified to not lose the match.
+Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified to not lose the match.
 
 ## In wrestling
 
@@ -89,14 +90,18 @@ Robert faced another wrestler who made "Prime Time Transfer" - [Samson](@/w/sams
  {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-) <br>
  {{ music(yt='LHTdgdTwons')}}
 
-## Championships and accomplishments 
+## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Championship](@/c/kpw-championship.md) (2 times)
+
+## Internet presence
+
+* [realrobertstar on Instagram](https://www.instagram.com/realrobertstar/)
+* [Robert Star](https://www.facebook.com/RobertStar) on Facebook
 
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15651)
 * [Facebook post saying BYE BYE](https://www.facebook.com/photo/?fbid=839973208139393&set=pb.100063801633257.-2207520000) from December 2023
-* [Robert's Instagram profile](https://www.instagram.com/realrobertstar/)
 * [PpW's Facebook post announcing Robert](https://www.facebook.com/OficjalnePPW/posts/pfbid02GSspE1SNetocUY2kWnC9LhDdsKYSGgh17G4h2bV4Q3CaRgLkziMrC6JDPkCYWBVnl)
