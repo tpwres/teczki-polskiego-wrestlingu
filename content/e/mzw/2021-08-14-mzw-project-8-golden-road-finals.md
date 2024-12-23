@@ -22,7 +22,7 @@ source = "Official MZW Facebook"
 - ['[Shadow](@/w/shadow.md)', '[Prince Victor](@/w/vic-golden.md)', {s: "No Disqualification
       Match"}]
 - [Garett Noah, Chris Tyson]
-- [Michael Payne, {s: "Seven Man Battle Royal"}]
+- ['Michael Payne', '[Prince Striker](@/w/royal-striker.md)', 'Lio Zayde', 'Chris X', '???', '???', '???', {s: "Seven Man Battle Royal"}]
 - ['[Rafael Kid](@/w/rafael-kid.md)', '[Aron Wake](@/w/aron-wake.md)', {c: "MZW Championship",
     s: "Tournament Final Match"}]
 - credits:
