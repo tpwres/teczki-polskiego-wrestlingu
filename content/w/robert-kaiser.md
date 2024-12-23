@@ -22,7 +22,7 @@ Robert Kaiser is a German wrestler best known for his apperances in [Maniac Zone
 
 ### Maniac Zone Wrestling (2014-2016)
 
-Robert Kaiser made a few apperances in [Maniac Zone Wrestling](@/o/mzw.md) back in their early years thanks to good relations between the Polish federation, and the German scene, especially Drezden-based. He debuted at [MZW in Smolec](@/e/mzw/2014-06-21-mzw-untitled.md) show in June 2014. For the most part of his stint at MZW he served mostly as enhancement talent to fill in the card with matches. One time he appeared as the	BPWF Tag Team Champion alongside his partner Nickolas von Rijk to defeat Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). 
+Robert Kaiser made a few apperances in [Maniac Zone Wrestling](@/o/mzw.md) back in their early years, thanks to good relations between the Polish federation and the German scene, especially Drezden-based. He debuted at [MZW in Smolec](@/e/mzw/2014-06-21-mzw-untitled.md) show in June 2014. For the most part of his stint at MZW he served mostly as enhancement talent to fill in the card with matches. One time he appeared as the	BPWF Tag Team Champion alongside his partner Nickolas von Rijk to defeat Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). 
 
 Robert made his final apperance in MZW at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md), where he was defeated by [Franz Engel](@/w/franz-engel.md).
 
