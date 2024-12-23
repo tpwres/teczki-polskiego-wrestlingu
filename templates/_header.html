@@ -8,31 +8,35 @@
       </ul>
     </div>
     <div class="header-search"
-         data-controller="search"
-         data-search-target="searchbox"
-         data-action="click@window->search#close"
-         style="display: none">
+         x-data="search"
+         x-show="visible"
+         @click.window="close"
+         >
       <form class="search-widget">
-        <input type="search"
-               id="search_input"
+        <input type="search" id="search_input"
                autocomplete="off"
                tabIndex="1"
-               data-search-target="query"
-               data-action="input->search#search keydown.esc->search#close keydown.enter->search#open_focused keyup.down->search#select_first:stop"/>
+               x-ref="query" x-model="query"
+               @keydown.escape="close" @keyup.down.stop="select_first" @keydown.enter="go" />
         <button class="search-button" type="submit">
           <svg class="feather-inline search-icon" title="Search"> 
             <use href="{{ sprite }}#search"/> 
           </svg> 
         </button>
       </form>
-      <div class="search-results" data-search-target="results">
-        <ul class="search-results-items" data-search-target="items" data-action="keydown.enter->search#open keydown.down->search#next:prevent keydown.up->search#prev:prevent"></ul>
-        <template data-search-target="itemTemplate">
-          <a class="search-result">
-            <strong id="result-type"></strong>
-            <span id="result"></span>
-          </a>
-        </template>
+      <div class="search-results" x-show="search_results.length > 0">
+        <ul class="search-results-items"
+            @keydown.enter="open" @keydown.down.prevent="next" @keydown.up.prevent="prev" @keydown.escape="close"
+            x-ref="results">
+          <template x-for="result in search_results" :key="result.id">
+            <li class="results-item" tabindex="-1">
+              <a class="search-result" x-bind:href="result.path">
+                <strong id="result-type" x-text="result_type(result) + ': '"></strong>
+                <span x-text="result.title"></span>
+              </a>
+            </li>
+          </template>
+        </ul>
       </div>
     </div>
     <div class="nav-right">
