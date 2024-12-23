@@ -68,7 +68,7 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
 ## In wrestling
 
 * Finishers:
-  - Phoenix Splash
+  - Phoenix Splash (2011-)
   - Inverted Facelock Neckbreaker Slam (2011); used as signature thereafter
 * Managers:
   - Shadows Moonlight (2019)
