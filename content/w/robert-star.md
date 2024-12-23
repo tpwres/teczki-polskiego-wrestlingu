@@ -67,7 +67,7 @@ Robert faced another wrestler who made "Prime Time Transfer" - [Samson](@/w/sams
 
 ## In wrestling
 
-- _Stallion Cutter_ (Cutter) (2013-)
+- _Rockstar Hangover_ / _Stallion Cutter_ (Cutter) (2013-)
 
 * Tag Teams and stables:
   - Sojusz (2018)
