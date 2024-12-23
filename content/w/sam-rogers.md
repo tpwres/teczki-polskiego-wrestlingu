@@ -1,6 +1,7 @@
 +++
 title = "Sam Rogers"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["IT"]
 [extra]
