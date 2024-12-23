@@ -8,6 +8,8 @@ toclevel = 2
 country = ["PL"]
 +++
 
+Robert Star is a polish wrestler best known from his time in [Kombat Pro Wrestling](@/o/kpw.md). He also made numerous apperances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).
+
 ## Basic info
 
 * Years active: 2013-present
