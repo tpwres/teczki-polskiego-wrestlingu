@@ -1,6 +1,7 @@
 +++
 title = "Royal Striker"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
@@ -11,7 +12,7 @@ Royal Striker, also known as Prince Striker or simply Striker, is a polish wrest
 
 ## Basic info
 
-* Years active: 2022-present
+* Years active: 2021-present
 * Gimmicks/nicknames:
   - Prince Striker {{ org_badge(orgs=['mzw', 'ppw']) }}
   - Royal Striker {{ org_badge(orgs=['ppw']) }}
