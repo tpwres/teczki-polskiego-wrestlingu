@@ -11,7 +11,6 @@ career_aliases = ["Straceniec", "Terry Shadow"]
 2 = { path = "terry-shadow.jpg", caption = "Terry Shadow, as seen at [PXW Smash 20.06.2011](@/e/pxw/2011-06-20-pxw-smash.md).", source = "Polish Backyard Archives @ YouTube" }
 +++
 
-
 ## Basic info
 * Years active: 2011-present
 * Gimmicks/nicknames:
@@ -20,8 +19,8 @@ career_aliases = ["Straceniec", "Terry Shadow"]
   - Shadow {{ org_badge(orgs=['ppw', 'mzw', 'low']) }}
 * Trained by:
   - DDW School (2013)
-  - Rick Baxxter & Kevin Williams (2013-2014)
- 
+  - [Rick Baxxter](@/w/rick-baxxter.md) & [Kevin Williams](@/w/kevin-williams.md) (2013-2014)
+
 ## Professional wrestling career
 
 ### Polish Xtreme Wrestling (2011-2012)
@@ -41,7 +40,7 @@ Upon returning to Głuchołazy, Shadow started Maniac Zone Wrestling along with 
 
 In 2016, Shadow briefly feuded with [Justin Joy](@/w/justin-joy.md) over the [MZW Championship](@/c/mzw-championship.md). He won the title in a Loser Leaves Town Match at [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) and held it for 385 days until he was defeated by [Asmund](@/w/asmund.md) in a hardcore match at [MZW Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md). He regained the title over 225 days later at [MZW Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md), which would be the last show held in Głuchołazy.
 
-During that time, Shadow continued his training abroad, attending classes mostly in Germany. He also began making regular apperances at German federations such as Next Step Wrestling, and later Eastside Revolution Wrestling.
+During that time, Shadow continued his training abroad, attending classes mostly in Germany. He also began making regular appearances at German federations such as Next Step Wrestling, and later Eastside Revolution Wrestling.
 
 #### Moving to Wrocław; "Project" Era and gaining control 
 

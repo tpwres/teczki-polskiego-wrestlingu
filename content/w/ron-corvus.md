@@ -22,13 +22,13 @@ Ron Corvus is a Hungarian wrestler best known for his apperances in [Kombat Pro 
 
 ### Do Or Die Wrestling (2013-2014)
 
-Ron Corvus made a few apperances at [Do Or Die Wrestling](@/o/ddw.md) shows back in 2013 and 2014. His most notable achievement from that time is advancing to the semi-finals of the [DDW International Championship](@/c/ddw-international-championship.md) tournament, where he was defeated by [Kamil Aleksander](@/w/kamil-aleksander.md).
+Ron Corvus made a few appearances at [Do Or Die Wrestling](@/o/ddw.md) shows back in 2013 and 2014. His most notable achievement from that time is advancing to the semi-finals of the [DDW International Championship](@/c/ddw-international-championship.md) tournament, where he was defeated by [Kamil Aleksander](@/w/kamil-aleksander.md).
 
 ### Kombat Pro Wrestling (2015-present)
 
-Corvus returned to Poland for the first [Kombat Pro Wrestling](@/o/kpw.md) show: [KPW vs the World: Hung(a)ry for Kombat](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md). From that moment on he started making rather regular apperances at the Polish federation, becoming a kind of a "Hardcore Match expert" in KPW. At [KPW Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md) he won the Magnificent Seven No Disqualification Elimination Ladder Match for a [KPW Championship](@/c/kpw-championship.md) Title Match, which he later cashed-in at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md). The cash-in was successful and Ron Corvus became the KPW Champion.
+Corvus returned to Poland for the first [Kombat Pro Wrestling](@/o/kpw.md) show: [KPW vs the World: Hung(a)ry for Kombat](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md). From that moment on he started making rather regular appearances at the Polish federation, becoming a kind of a "Hardcore Match Expert" in KPW. At [KPW Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md) he won the Magnificent Seven No Disqualification Elimination Ladder Match for a [KPW Championship](@/c/kpw-championship.md) Title Match, which he later cashed-in at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md). The cash-in was successful and Ron Corvus became the KPW Champion.
 
-Corvus held his title for less than a year before being defeated by [Robert Star](@/w/robert-star.md) at [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md). After that defeat his apperances became more limited, but after nearly three years of absence he made his return to KPW at [KPW Arena 18: Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
+Corvus held his title for less than a year before losing it to [Robert Star](@/w/robert-star.md) at [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md). After that defeat, his apperances became more limited, but after nearly three years of absence returned to KPW at [KPW Arena 18: Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).
 
 ## In wrestling
 

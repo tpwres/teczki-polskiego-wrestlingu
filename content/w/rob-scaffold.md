@@ -25,7 +25,7 @@ Rob Scaffold is a retired Polish wrestler best known for his time in [PpW Ewenem
 
 #### Backyard era
 
-Rob Scaffold was one of the original wrestlers who joined [PpW Ewenement](@/o/ppw.md) in their backyard era. His first registered apperance took place during [PpW Ropeless](@/e/ppw/2015-05-01-ppw-ropeless.md) in May 2015. During his early years he was known as Rob Hardy - a persona greatly inspired by Jeff Hardy. From October 2015 he made most of his official apperances as Rob Scaffold, but he also performed as a masked persona, Automatico, when he won the PpW Light Heavyweight Championship. He also won the PpW Tag Team Championship while teaming with Black Orion - an alter ego of [Johnny Blade](@/w/johnny-blade.md) - as "2 Chamy" (roughly _2 Jerks_). 
+Rob Scaffold was one of the original wrestlers who joined [PpW Ewenement](@/o/ppw.md) in their backyard era. His first registered appearance took place during [PpW Ropeless](@/e/ppw/2015-05-01-ppw-ropeless.md) in May 2015. During his early years he was known as Rob Hardy - a persona greatly inspired by Jeff Hardy. From October 2015 he made most of his official apperances as Rob Scaffold, but he also performed as a masked persona, Automatico, when he won the PpW Light Heavyweight Championship. He also won the PpW Tag Team Championship while teaming with Black Orion, an alter ego of [Johnny Blade](@/w/johnny-blade.md) - as "2 Chamy" (roughly _2 Jerks_). 
 
 #### Professional PpW Era
 
@@ -41,10 +41,8 @@ Rob Scaffold appeared in [Dream Factory Wrestling](@/o/dfw.md) at [Tournament of
 
 * Finishers:
   - Swanton Bomb (2015-2023)
- 
 * Tag Teams and stables:
   - 2 Chamy (2016, 2021)
-
 * Entrance music:
   - "The Human Drive" by CKY
  {{ org_badge(orgs=['ppw', 'dfw']) }} (2016-2023) <br>
