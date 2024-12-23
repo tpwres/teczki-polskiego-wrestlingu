@@ -49,7 +49,7 @@ Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wre
   - Zbójnicy (2015-2017)
 
 * Entrance music:
- - "W Murowanej Piwnicy" by unknown folk artist
+  - "W Murowanej Piwnicy" by unknown folk artist
  {{ org_badge(orgs=['mzw']) }} (2015-2017) <br>
 
 ## Championships and accomplishments
