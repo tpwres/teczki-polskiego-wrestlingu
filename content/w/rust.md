@@ -6,7 +6,7 @@ authors = ["Sewi The Referee']
 country = ["IT"]
 +++
 
-Rust is a italian wrestler best known for his apperances in [Prime Time Wrestling](@/o/ptw.md).
+Rust is an Italian wrestler best known for his apperances in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -39,7 +39,7 @@ In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) h
     {{ music(spot='2U127R3xDmiqSKBJ6joI7L')}}
     {{ music(apple='1565938179?i=1565938184')}}
   - "Darkbreed" by Robert Slump
-    {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Luca Bjorn](@/w/luca-bojrn.md) <br>
+    {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Luca Bjorn](@/w/luca-bjorn.md) <br>
     {{ music(yt='eH_N0aHSfVw')}}
     {{ music(spot='0jB6SUfLOXytyH4VmolaUO')}}
     {{ music(apple='1584578129?i=1584578130')}}
