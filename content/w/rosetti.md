@@ -71,6 +71,12 @@ Rosetti is one of the most experienced [KPW](@/o/kpw.md) wrestlers still on the 
  {{ music(spot='5M708qYwdT7xyQqO0WXnzm')}}
  {{ music(apple='1202463337?i=1202463431')}}
 
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Sawicki](@/w/sawicki.md)
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
+
 ## Internet presence
 
 * [@rosettikpw on Instagram](https://www.instagram.com/rosettikpw/)
