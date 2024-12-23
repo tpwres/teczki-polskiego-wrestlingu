@@ -6,7 +6,9 @@ authors = ["M3n747", "Seweryn Pielucha"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "ppw-european-ultraviolent-championship.jpg", caption = '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) posing with the PpW European Ultraviolent Championship.', source = "Official PpW website / Facebook" }
+1 = { path = "ppw-new-belt-closeup-1.jpg", caption = "Close-up of the Championship's front plate.", source = "Dawid Kucharski, MyWrestling.com.pl" }
+2 = { path = "ppw-new-belt-closeup-2.jpg", caption = "Full view of the Championship.", source = "Dawid Kucharski, MyWrestling.com.pl" }
+3 = { path = "ppw-european-ultraviolent-championship.jpg", caption = '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) posing with the PpW European Ultraviolent Championship.', source = "Official PpW website / Facebook" }
 +++
 
 Introduced in 2022, the PpW European Ultraviolent Championship is the title used by [PpW Ewenement Wrestling](@/o/ppw.md) in their ultraviolent division.
