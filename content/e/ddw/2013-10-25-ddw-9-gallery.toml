@@ -1,12 +1,12 @@
-1 = { path = "2013-10-25-ddw-9-banner.jpg", caption = "Official banner", source = "[Official DDW Facebook]" }
-2 = { path = "jedrus-bulecka-vs-straceniec.jpg", caption = "Image announcing [Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Official DDW Facebook]" }
-3 = { path = "janusz-wojnarowicz-1.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) and six-time European judo champion Janusz Wojnarowicz.", source = "[Jędruś Bułecka @ Facebook]" }
-4 = { path = "janusz-wojnarowicz-2.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) and six-time European judo champion Janusz Wojnarowicz.", source = "[Jędruś Bułecka @ Facebook]" }
-5 = { path = "jedrus-bulecka-vs-straceniec-fight-1.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
-6 = { path = "jedrus-bulecka-vs-straceniec-fight-2.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
-7 = { path = "jedrus-bulecka-vs-straceniec-fight-3.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
-8 = { path = "jedrus-bulecka-vs-straceniec-fight-4.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
-9 = { path = "jedrus-bulecka-vs-straceniec-fight-5.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
+01 = { path = "2013-10-25-ddw-9-banner.jpg", caption = "Official banner", source = "[Official DDW Facebook]" }
+02 = { path = "jedrus-bulecka-vs-straceniec.jpg", caption = "Image announcing [Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Official DDW Facebook]" }
+03 = { path = "janusz-wojnarowicz-1.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) and six-time European judo champion Janusz Wojnarowicz.", source = "[Jędruś Bułecka @ Facebook]" }
+04 = { path = "janusz-wojnarowicz-2.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) and six-time European judo champion Janusz Wojnarowicz.", source = "[Jędruś Bułecka @ Facebook]" }
+05 = { path = "jedrus-bulecka-vs-straceniec-fight-1.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
+06 = { path = "jedrus-bulecka-vs-straceniec-fight-2.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
+07 = { path = "jedrus-bulecka-vs-straceniec-fight-3.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
+08 = { path = "jedrus-bulecka-vs-straceniec-fight-4.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
+09 = { path = "jedrus-bulecka-vs-straceniec-fight-5.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
 10 = { path = "jedrus-bulecka-vs-straceniec-fight-6.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
 11 = { path = "jedrus-bulecka-vs-straceniec-fight-7.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
 12 = { path = "jedrus-bulecka-vs-straceniec-fight-8.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "[Jędruś Bułecka @ Facebook]" }
