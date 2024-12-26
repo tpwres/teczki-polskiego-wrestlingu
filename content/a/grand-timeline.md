@@ -151,7 +151,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2023
 
 * PTW holds their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md) in Wrocław in June, in [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
-* In September, MZW and PpW hold a [co-branded show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) in Wrocław, in the exact same venue, making history as the first such act of collaboration in Poland.
+* In September, MZW and PpW hold a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) in Wrocław, in the exact same venue, making history as the first such act of collaboration in Poland.
 
 #### 2024
 
