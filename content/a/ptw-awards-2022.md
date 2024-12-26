@@ -1,20 +1,21 @@
 +++
-title = "PTW Awards"
+title = "PTW Awards 2022"
 weight = 6
 template = "article.html"
 authors = ["Seweryn Pielucha"]
 [extra.gallery]
-1 = { path = "hero-of-the-year.webp", caption = "Nominees for the Hero Of the Year category.", source = "Facebook PTW"}
+1 = { path = "hero-of-the-year.webp", caption = "Nominees for the Hero of the Year category.", source = "Facebook PTW"}
 2 = { path = "ptw-awards-statues.webp", caption = "Awards statues made of acrylic glass, set on the ring in [PTW Performance Center](@/v/ptw-targowa.md)", source = "Facebook PTW"}
 3 = { path = "ptw-awards-results.png", caption = "Facebook post announcing winners in each category.", source = "Facebook PTW"}
 +++
 
-The PTW Awards (Nagrody podsumowujące rok, loosely translated as _End-Of-Year Awards_) are a PTW initiative where awards, similar to the Academy Awards or WWE-estabilished Slammy Awards, are given to professional wrestlers and other individuals within PTW, such as commentators and referees, for notable achievements during the year.
+The PTW Awards ("Nagrody podsumowujące rok", loosely translated as _End-of-the-Year Awards_) are a [PTW](@/o/ptw.md) initiative where awards, similar to the Academy Awards or WWE-estabilished Slammy Awards, are given to professional wrestlers and other individuals within PTW, such as commentators and referees, for notable achievements during the year.
 
 <!-- more -->
 
-The awards were originally planned to be hosted annually, at the end of the year.
-However, so far only one edition has been held, in Dec 2022/Jan 2023, to summarize the first chapter of PTW's existence, from [PTW#1: Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) until the end of 2022.
+The awards were originally planned to be hosted annually, at the end of each year. This plan didn't entirely pan out, however, as there was no 2023/24 edition of the Awards. Instead, this edition was followed [two years later](@/a/ptw-awards-2024.md).
+
+The first edition took place in Dec 2022/Jan 2023, to summarize the first chapter of PTW's existence, from [PTW#1: Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) until the end of 2022.
 Fans nominated their candidates by voting with reactions on PTW's Facebook page, which posted selected nominees in multiple categories.
 
 This award ceremony was held during [PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md).
