@@ -7,6 +7,9 @@ venue = ["fenix-gniezno"]
 [extra]
 city = "Gniezno"
 hide_results = true
+[extra.gallery]
+1 = { path = "fenix-poster.jpg", caption = "Official poster.", source = "Jędruś Bułecka @ Facebook" }
+2 = { path = "fenix-triple-threat.jpg", caption = "Image announcing the match. Left to right: [Shadow](@/w/shadow.md), [Patriota](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md).", source = "Jędruś Bułecka @ Facebook" }
 +++
 
 This event was a professional boxing gala held in Hotel Feniks in Gniezno. In addition to the boxing matches, a showcase wrestling match was held.
