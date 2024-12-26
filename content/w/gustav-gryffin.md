@@ -7,7 +7,7 @@ country = ["PL"]
 [extra]
 career_aliases = ["Gustav Pierdolec", "Hardcore Gustav"]
 [extra.gallery]
-1 = { path = "gustav-gryffin.jpg", caption = "Gustav Gryffin, [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md).", source = "M3n747" }
+1 = { path = "gustav-gryffin.jpg", caption = "Gustav Gryffin, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 +++
 
 ## Basic info
@@ -31,7 +31,7 @@ Gustav made his debut at [PpW Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mist
 He quickly become a regular star at PpW events, thanks to his villainous gimmick of an ambitious, ruthless corporate suit who despises "hobos" and "low-lifes", which was a clear shot at the PpW audience, which is predominantly loosely assossiated with more rebellious and alternative ways of life.
 
 During his first matches in PpW he become one of most influential "traditional" wrestlers in PpW, focusing more on classic wrestling matches than hardcore wrestling, compared to other members of the PpW roster.
-Besides PpW, Gustav also made an appearance at the cross-promotion show [MZW+PpW: Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md).
+Besides PpW, Gustav also made an appearance at the cross-promotion show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
 
 #### Joining "Zmowa" and becoming PpW Champion (2024)
 
@@ -50,7 +50,7 @@ With Team Zmowa eventually losing to Team Zmowa Przeciwko Zmowie in a Ustawka (_
 
 ### Maniac Zone Wrestling (2023-present)
 
-Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the joint show [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md), where he defeated Chris Cage in a Singles Match.
+Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the joint show [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he defeated Chris Cage in a Singles Match.
 He later made another apperance over a year later at the next MZW show, [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). Contrary to his PpW reception, in MZW he is portrayed as a babyface persona, without any dramatic changes to his gimmick.
 
 ### Legacy of Wrestling (2024)

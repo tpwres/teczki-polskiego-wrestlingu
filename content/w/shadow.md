@@ -7,7 +7,7 @@ country = ["PL"]
 [extra]
 career_aliases = ["Straceniec", "Terry Shadow"]
 [extra.gallery]
-1 = { path = "shadow.jpg", caption = "Shadows's entrance, [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md).", source = "M3n747" }
+1 = { path = "shadow.jpg", caption = "Shadows's entrance, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 2 = { path = "terry-shadow.jpg", caption = "Terry Shadow, as seen at [PXW Smash 20.06.2011](@/e/pxw/2011-06-20-pxw-smash.md).", source = "Polish Backyard Archives @ YouTube" }
 +++
 
@@ -58,7 +58,7 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 
 ### PpW Ewenement  (2023-2024)
 
-In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
+In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
 
 ### Legacy of Wrestling (2024)
 

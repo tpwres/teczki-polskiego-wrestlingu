@@ -11,7 +11,7 @@ path = "kornel-praga-centrum.webp"
 caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md)"
 [extra.gallery.2]
 path = "sedzia-kornel.jpg"
-caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md)."
+caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md)."
 source = "M3n747"
 [extra.gallery.3]
 path = "hardcore-referee-koszulka.jpg"
@@ -54,7 +54,7 @@ This experience in hardcore and deathmatches, as well as a history of taking ref
 
 ### Maniac Zone Wrestling (2023)
 
-At [Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) Kornel made his debut in [Maniac Zone Wrestling](@/o/mzw.md), and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and Chris X.
+At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made his debut in [Maniac Zone Wrestling](@/o/mzw.md), and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and Chris X.
 
 ## In wrestling 
 

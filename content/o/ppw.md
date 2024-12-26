@@ -97,7 +97,7 @@ However, since the Prime Time Transfers era, PpW has enough roster members, and 
 
 In their backyard era, PpW were always well connected with the other organizations, and appearing on each other's events. The best documented example on hand is [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), which featured three PpW wrestlers.
 
-As of 2023, a [co-branded show](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization.
+As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization.
 After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
 
 

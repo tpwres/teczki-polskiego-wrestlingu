@@ -3,7 +3,7 @@ title = "Czasoprzestrzeń"
 template = "venue_page.html"
 [extra.gallery]
 1 = { path = "czasoprzestrzen-outside.jpg", caption = "An outside view of Czasoprzestrzeń.", source = "wrestling.pl" }
-2 = { path = "zadnych-granic-ring.jpg", caption = "Inside the venue, during [Żadnych Granic](@/e/ppw/2023-09-23-ppw_mzw-zadnych-granic.md).", source = "M3n747" }
+2 = { path = "zadnych-granic-ring.jpg", caption = "Inside the venue, during [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 +++
 
 Czasoprzestrzeń (_Spacetime_) is a community center, art and cultural center, and event venue in Wrocław. It occupies the halls of a former tram yard, and has been host to both [MZW's](@/o/mzw.md) and [PTW's](@/o/ptw.md) events. The halls have a unique industrial character, very high ceilings and massive wooden doors to the outside.
