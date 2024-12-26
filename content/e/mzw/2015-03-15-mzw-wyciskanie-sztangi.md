@@ -6,6 +6,8 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+[extra.gallery]
+1 = { path = "wyciskanie-sztangi-banner.jpg", caption = "Official banner.", source = "Jędruś Bułecka @ Facebook" }
 +++
 
 This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell_), a weight-lifting bench press competition held in [Głuchołazy](@/v/gosir-glucholazy.md).
