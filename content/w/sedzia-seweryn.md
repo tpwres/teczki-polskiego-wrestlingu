@@ -46,9 +46,9 @@ Many of them either suspended their wrestling career, or transferred to Prime Ti
 
 Sewi the Ref debuted at [PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), which marked the start of his 2-year tenure as referee in the federation.
 He worked along [Sędzia Matek](@/w/sedzia-matek.md), with [Sędzia Rafał](@/w/alex-brave.md) joining in the second half of 2022.
-After Rafał's suspension due to the ["Asian Scandal" controversy](@/a/ptw-awards.md), and Matek's quiet departure from the company, he became the _de facto_ Senior Referee, briefly working as the sole referee for [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) & [12](@/e/ptw/2023-02-26-ptw-underground-12.md), before being joined by [Klaudiusz](@/w/sedzia-klaudiusz.md).
+After Rafał's suspension due to the ["Asian Scandal" controversy](@/a/ptw-awards-2022.md), and Matek's quiet departure from the company, he became the _de facto_ Senior Referee, briefly working as the sole referee for [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) & [12](@/e/ptw/2023-02-26-ptw-underground-12.md), before being joined by [Klaudiusz](@/w/sedzia-klaudiusz.md).
 For most of 2023 and 2024 he maintained his position as the main referee, working many of the main events and matches with high-profile international wrestlers.
-He was also awarded the [PTW's "Referee of the Year" Award](@/a/ptw-awards.md) for 2022.
+He was also awarded the [PTW's "Referee of the Year" Award](@/a/ptw-awards-2022.md) for 2022.
 
 During his tenure in Prime Time Wrestling, Referee Seweryn also made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show "WrestleClash 25" in August 2023.
 Later he made yet another appearance at a PTW/WWA show in January 2024.
@@ -82,8 +82,8 @@ During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was uno
 ## Championships and achievments:
 
 * [Prime Time Wrestling](@/o/ptw.md)
-  - [PTW Awards](@/a/ptw-awards.md) (1 time):
-    * Referee of the Year (2022)
+  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
+    * Referee of the Year
 
 ## Internet presence
 

@@ -29,7 +29,7 @@ He joined Referees [Matek](@/w/sedzia-matek.md) and [Sewi](@/w/sedzia-seweryn.md
 
 #### Asian Scandal and becoming S.Rafał
 
-In late 2024 he was nominated for [PTW Awards](@/a/ptw-awards.md), in the "Referee of the Year" category.
+In late 2024 he was nominated for [PTW Awards 2022](@/a/ptw-awards-2022.md), in the "Referee of the Year" category.
 During the popular vote, he was outvoted by Matek and Sewi by over 100 votes each, when he unexpectedly gained a couple hundred votes.
 Upon closer examination, it appeared that all of his votes were in fact purchased from a bot website; all of them were coming from Vietnam.
 This was dubbed the "Asian Scandal", with Rafał being the main suspect.

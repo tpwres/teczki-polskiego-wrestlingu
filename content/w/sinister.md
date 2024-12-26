@@ -63,8 +63,8 @@ Sinister made his return to wrestling at [Legacy of Wrestling's](@/o/low.md) [fi
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md)"
-  - [PTW Awards](@/a/ptw-awards.md) (1 time):
-    * Villain of the Year (2022)
+  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
+    * Villain of the Year
 
 ## Internet presence
 
