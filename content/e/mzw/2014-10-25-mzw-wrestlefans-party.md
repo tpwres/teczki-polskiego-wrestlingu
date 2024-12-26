@@ -6,6 +6,9 @@ chronology = ["mzw"]
 venue = ["niedzwiedzica"]
 [extra]
 city = "Niedźwiedzica"
+[extra.gallery]
+1 = { path = "shadow-vs-patriota-1.jpg", caption = "[Shadow](@/w/shadow.md) vs [Patriota](@/w/jedrus-bulecka.md).", source = "Jędruś Bułecka @ Facebook" }
+2 = { path = "shadow-vs-patriota-2.jpg", caption = "[Shadow](@/w/shadow.md) vs [Patriota](@/w/jedrus-bulecka.md).", source = "Jędruś Bułecka @ Facebook" }
 +++
 
 {% card() %}
