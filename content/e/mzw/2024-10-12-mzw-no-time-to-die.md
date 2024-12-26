@@ -57,8 +57,8 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
 - - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
   - g: true
     s: Tomasz hosted a contest, where a small group of volunteers from the audience filled in a test to win MZW T&#8209;shirts and other gadgets.
-- - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '[Olgierd](@/w/olgierd.md)'
+- -'[Olgierd](@/w/olgierd.md)' 
+  - '[Disco Pablo](@/w/disco-pablo.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Feager Puncher](@/w/feager.md)'
   - s: No DQ Match
