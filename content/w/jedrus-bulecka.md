@@ -29,9 +29,9 @@ Jędruś Bułecka is a semi-retired Polish wrestler best known for co-founding a
 
 ## Professional wrestling career
 
-### Backyard and DDW (2011-2013)
+### Backyard and DDW (2008-2013)
 
-Bułecka got his early experience in a backyard group called Polish Wrestling Underground as well as in Scotland, where he trained under [Kevin Williams](@/w/kevin-williams.md). He then joined  [Do Or Die Wrestling](@/o/ddw.md) shortly after its inception, where he initially wrestled as Marcin Wilkowski, before settling on the ring name Jędruś Bułecka (roughly _Andy Breadroll_) and the gimmick of a [Polish Highlander][gorol]. Jędruś also made a few appearances in Scotland, Hungary and Germany - a 2013 show in the latter country is where he was first called "The Polish Hammer". In the late 2013, Bułecka and [Shadow](@/w/shadow.md) left DDW and founded a new promotion: [Maniac Zone Wrestling](@/o/mzw.md).
+Bułecka got his early experience in a backyard group called Polish Wrestling Underground as well as in Scotland, where he trained under [Kevin Williams](@/w/kevin-williams.md) in 2008. He then joined [Do Or Die Wrestling](@/o/ddw.md) shortly after its inception, where he initially wrestled as Marcin Wilkowski, before settling on the ring name Jędruś Bułecka (roughly _Andy Breadroll_) and the gimmick of a [Polish Highlander][gorol]. Jędruś also made a few appearances in Scotland, Hungary and Germany - a 2013 show in the latter country is where he was first called "The Polish Hammer". In the late 2013, Bułecka and [Shadow](@/w/shadow.md) left DDW and founded a new promotion: [Maniac Zone Wrestling](@/o/mzw.md).
 
 ### Maniac Zone Wrestling (2013-2019)
 
