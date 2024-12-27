@@ -7,27 +7,21 @@
         <li class="nav-left-item"><a href="/"><span class="sitename">{{ config.title }}</span></a></li>
       </ul>
     </div>
-    <div class="header-search"
-         data-controller="search"
-         data-search-target="searchbox"
-         data-action="click@window->search#close"
-         style="display: none">
+    <div class="header-search" style="display: none">
       <form class="search-widget">
         <input type="search"
                id="search_input"
                autocomplete="off"
-               tabIndex="1"
-               data-search-target="query"
-               data-action="input->search#search keydown.esc->search#close keydown.enter->search#open_focused keyup.down->search#select_first:stop"/>
+               tabIndex="1" />
         <button class="search-button" type="submit">
           <svg class="feather-inline search-icon" title="Search"> 
             <use href="{{ sprite }}#search"/> 
           </svg> 
         </button>
       </form>
-      <div class="search-results" data-search-target="results">
-        <ul class="search-results-items" data-search-target="items" data-action="keydown.enter->search#open keydown.down->search#next:prevent keydown.up->search#prev:prevent"></ul>
-        <template data-search-target="itemTemplate">
+      <div class="search-results">
+        <ul class="search-results-items"></ul>
+        <template>
           <a class="search-result">
             <strong id="result-type"></strong>
             <span id="result"></span>

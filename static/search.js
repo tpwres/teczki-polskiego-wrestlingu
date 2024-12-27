@@ -1,20 +1,70 @@
-import { Application, Controller } from "/stimulus.js";
-
-
-class SearchController extends Controller {
-    static targets = ["query", "searchbox", "results", "items", "itemTemplate"]
-    static options = {
+class SearchController {
+    options = {
         boost: { 'title': 1.6 },
         combineWith: 'AND',
         prefix: true
     }
 
+    minisearch_ready = false
     currentTerm
     index
     focused
 
+    constructor(root, results) {
+        this.searchboxTarget = root
+        this.queryTarget = root.querySelector('input[type=search]')
+        this.resultsTarget = results
+        this.itemsTarget = results.querySelector('ul.search-results-items')
+        this.itemTemplateTarget = results.querySelector('template')
+        this.connect()
+    }
+
     connect() {
+        this.queryTarget.addEventListener('input', this.search.bind(this))
+        this.queryTarget.addEventListener('keydown', this.search_keydown.bind(this))
+        this.queryTarget.addEventListener('keyup', this.search_keyup.bind(this))
+        this.resultsTarget.addEventListener('keydown', this.results_keydown.bind(this))
+        document.body.addEventListener('click', this.close.bind(this))
         this.show_search()
+    }
+
+    search_keydown(event) {
+        switch (event.key) {
+        case 'Escape':
+            this.close()
+            break
+        case 'Enter':
+            this.open()
+            event.preventDefault()
+            break
+        }
+    }
+
+    search_keyup(event) {
+        switch (event.key) {
+        case 'ArrowDown':
+            this.select_first()
+            break
+        }
+    }
+
+    results_keydown(event) {
+        switch (event.key) {
+        case 'ArrowDown':
+            this.next()
+            event.preventDefault()
+            break
+        case 'ArrowUp':
+            this.prev()
+            event.preventDefault()
+            break
+        case 'Enter':
+            this.open()
+            break
+        case 'Escape':
+            this.close()
+            break
+        }
     }
 
     show_search() {
@@ -69,8 +119,10 @@ class SearchController extends Controller {
 
     async search() {
         // Load index on first use
-        if (this.index === undefined)
+        if (this.index === undefined) {
+            await this.load_minisearch()
             await this.load_index()
+        }
 
         let term = this.queryTarget.value.trim()
         if (term === this.currentTerm) return
@@ -92,6 +144,24 @@ class SearchController extends Controller {
             storeFields: ['title', 'category', 'path'],
             processTerm: this.depolonize
         })
+    }
+
+    async load_minisearch() {
+        if (this.minisearch_ready) return
+        
+        const resp = await fetch('/minisearch.js')
+        const blob = await resp.blob()
+        const url = URL.createObjectURL(blob)
+        const script = document.createElement('script')
+        script.src = url
+        document.body.appendChild(script)
+        this.minisearch_ready = true
+        try {
+            URL.revokeObjectURL(url)
+            document.body.removeChild(script)
+        } catch (err) {
+            console.error(err)
+        }
     }
 
     hide_results() {
@@ -144,7 +214,7 @@ class SearchController extends Controller {
     }
 }
 
+const root = document.querySelector('.header-search')
+const results = document.querySelector('.search-results')
+new SearchController(root, results)
 
-if (window.Stimulus === undefined)
-    window.Stimulus = Application.start()
-Stimulus.register('search', SearchController)
