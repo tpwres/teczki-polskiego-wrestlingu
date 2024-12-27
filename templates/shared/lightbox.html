@@ -1,32 +1,29 @@
-<dialog id="lb"
-        data-controller="lightbox"
-        data-lightbox-target="dialog"
-        data-action="keydown.right->lightbox#next keydown.left->lightbox#prev">
+<dialog id="lb">
   <form method="dialog">
     <button class="closebtn" type="submit" autofocus data-lightbox-target="close">
       <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#x"/></svg></span>
       <span class="sr-only">Close popup</span>
     </button>
   </form>
-  <button class="maximize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="maximize">
-    <span aria-hidden ><svg class="feather feather-inline"><use href="{{ sprite }}#maximize"/></svg></span>
+  <button class="maximize" type="button">
+    <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#maximize"/></svg></span>
     <span class="sr-only">Toggle maximized</span>
   </button>
-  <button class="minimize" type="button" data-action="lightbox#toggle_maximize" data-lightbox-target="minimize">
-    <span aria-hidden data-lightbox-target="minimize"><svg class="feather feather-inline"><use href="{{ sprite }}#minimize"/></svg></span>
+  <button class="minimize" type="button">
+    <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#minimize"/></svg></span>
     <span class="sr-only">Toggle maximized</span>
   </button>
-  <button class="prev" type="button" data-lightbox-target="prev" data-action="lightbox#prev">
+  <button class="prev" type="button">
     <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-left"/></svg></span>
     <span class="sr-only">Previous image</span>
   </button>
-  <button class="next" type="button" data-lightbox-target="next" data-action="lightbox#next">
+  <button class="next" type="button">
     <span aria-hidden><svg class="feather feather-inline"><use href="{{ sprite }}#chevrons-right"/></svg></span>
     <span class="sr-only">Next image</span>
   </button>
   <figure>
-    <div class="img-container" data-lightbox-target="container">
-      <img data-lightbox-target="img" data-action="load->lightbox#adjust" />
+    <div class="img-container">
+      <img data-lightbox-target="img"/>
     </div>
     <figcaption data-lightbox-target="caption">
       <p data-lightbox-target="desc"></p>
