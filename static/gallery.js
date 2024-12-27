@@ -1,12 +1,46 @@
-import { Application, Controller } from "/stimulus.js"
-
-class LightboxController extends Controller {
+class LightboxController {
     static targets = ["dialog", "close", "prev", "next", "maximize", "minimize",
                       "container", "img", "caption", "desc", "attribution"]
 
     paginator
     maximised
 
+    constructor(dialog) {
+        const q = (sel) => dialog.querySelector(sel)
+        this.dialogTarget = dialog
+        this.closeTarget = q('button.closebtn')
+        this.prevTarget = q('button.prev')
+        this.nextTarget = q('button.next')
+        this.maximizeTarget = q('button.maximize')
+        this.minimizeTarget = q('button.minimize')
+        this.containerTarget = q('div.img-container')
+        this.imgTarget = q('figure img')
+        this.captionTarget = q('figcaption')
+        this.descTarget = q('figcaption p')
+        this.attributionTarget = q('figcaption small')
+        this.connect()
+    }
+
+    connect() {
+        // TODO: Attach events
+        this.dialogTarget.addEventListener('keydown', this.keyevent.bind(this))
+        this.maximizeTarget.addEventListener('click', this.toggle_maximize.bind(this))
+        this.minimizeTarget.addEventListener('click', this.toggle_maximize.bind(this))
+        this.prevTarget.addEventListener('click', this.prev.bind(this))
+        this.nextTarget.addEventListener('click', this.next.bind(this))
+        this.imgTarget.addEventListener('load', this.adjust.bind(this))
+    }
+
+    keyevent(event) {
+        switch (event.key) {
+        case 'ArrowLeft':
+            this.prev()
+            break;
+        case 'ArrowRight':
+            this.next()
+            break
+        }
+    }
     next() {
         if (!this.nextFigure) return
 
@@ -86,20 +120,29 @@ class LightboxController extends Controller {
     }
 }
 
-class GalleryController extends Controller {
+class GalleryController {
     static targets = ["figure"]
     static outlets = ["lightbox"]
 
-    connect() {
-        this.lightboxOutlet.paginator = this.find_sibling_figures
+    constructor(gallery_list, lightbox) {
+        this.lightbox = lightbox
+        this.connect(gallery_list)
+    }
+
+    connect(root) {
+        this.lightbox.paginator = this.find_sibling_figures
+        root.querySelectorAll('figure > a.tn').forEach((el) => {
+            el.addEventListener('click', this.open.bind(this))
+        })
     }
 
     open(event) {
         const figure = event.currentTarget.closest('figure')
         const [prevFig, nextFig] = this.find_sibling_figures(figure)
 
-        this.lightboxOutlet.populate(figure)
-        this.lightboxOutlet.show()
+        this.lightbox.populate(figure)
+        this.lightbox.show()
+        event.preventDefault()
     }
 
     find_sibling_figures(figure) {
@@ -113,8 +156,9 @@ class GalleryController extends Controller {
 
 }
 
-if (window.Stimulus === undefined)
-    window.Stimulus = Application.start()
-
-Stimulus.register('lightbox', LightboxController)
-Stimulus.register('gallery', GalleryController)
+const dialog = document.querySelector('dialog#lb')
+const lightbox = new LightboxController(dialog)
+// TODO: more than one gallery, normal on talent pages
+document.querySelectorAll('ul.gallery').forEach((gal) => {
+    new GalleryController(gal, lightbox)
+})

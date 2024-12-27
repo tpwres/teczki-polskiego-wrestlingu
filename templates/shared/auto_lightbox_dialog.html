@@ -20,10 +20,7 @@
 {% include "shared/lightbox.html" %}
 {% if gallery_items %}
   <h2 id="gallery">Gallery</h2>
-    <ul class="gallery"
-        data-controller="gallery"
-        data-gallery-lightbox-outlet="dialog"
-    >
+    <ul class="gallery">
       {% for key, item in gallery_items %}
         {% set path = item.path -%}
         {% set caption = item | get(key="caption", default="") -%}
@@ -34,9 +31,7 @@
 {% if use_extra_gallery and extra_gallery %}
   <details>
     <summary class="h2-like">Photos from events</summary>
-    <ul class="gallery"
-        data-controller="gallery"
-        data-gallery-lightbox-outlet="dialog">
+    <ul class="gallery">
       {% for elem in extra_gallery %}
         {% set key = elem[0] %}
         {% set item = elem[1] %}

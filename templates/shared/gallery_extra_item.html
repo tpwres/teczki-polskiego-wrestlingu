@@ -5,8 +5,8 @@
 {% set source = item | get(key="source", default="") -%}
 {%- if not source %}{% set source = "" %}{% endif -%}
 <li>
-  <figure id="fig_{{ key }}" data-path="{{ config.extra.gallery_root ~ path }}" data-gallery-target="figure">
-    <a href="#img_{{ key }}" class="tn" data-action="gallery#open:prevent">
+  <figure id="fig_{{ key }}" data-path="{{ config.extra.gallery_root ~ path }}">
+    <a href="#img_{{ key }}" class="tn">
       <img src="{{ config.extra.gallery_root ~ thumb }}" alt=""/>
     </a>
 
