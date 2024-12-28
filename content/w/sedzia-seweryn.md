@@ -27,7 +27,7 @@ Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active
 
 ### Maniac Zone Wrestling (2018-2021)
 
-#### Rookie & in-ring debut (2018-2021)
+#### Rookie & in-ring debut 
 
 Seweryn set his foot in a wrestling ring for the first time at PAW Summer Camp 2018, held in Wrocław.
 In late 2018 and early 2019 he became one of the founding members of [The Greens](@/a/the-greens.md).
@@ -35,7 +35,7 @@ Initally aiming to become a wrestler, he continued to train in PAW regularly for
 After that he made yet another apperance, in a segment during [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), along with Anatolii, [Hexia](@/w/hexia.md) & Krueger.
 Later, during the pandemic lockdown, he decided to resign from his wrestler's career to become full-time wrestling referee.
 
-#### Becoming Sewi the Ref (2021)
+#### Becoming Sewi the Ref 
 
 Seweryn made his debut as a referee during [MZW Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md), refereeing alongside [Sędzia Michał](@/w/sedzia-michal.md).
 After that, he made another apperance before a live audience at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
