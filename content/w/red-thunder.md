@@ -8,7 +8,7 @@ country = ["PL"]
 career_aliases = ["Kowboj Luke"]
 +++
 
-Red Thunder - also known as "Kowboj Luke" - is a retired polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
+Red Thunder, also known as "Kowboj Luke", is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -26,13 +26,13 @@ Red Thunder - also known as "Kowboj Luke" - is a retired polish wrestler best kn
 
 #### Kowboj Luke
 
-Red Thunder started his career under "Kowboj Luke" gimmick. He was one of the first adepts of MZW Academy who managed to score his debut at first MZW official showcase - [Pokaz Adeptów](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) in May 2014. As Kowboj Luke he managed to make a total of five apperances, winning in only one match - against [Szymon Siwiec](@/w/szymon-siwiec.md) at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md). 
+Red Thunder started his career under the "Kowboj Luke" (_Cowboy Luke_) gimmick. He was one of the first trainees of the MZW Academy who managed to score his debut at the first official MZW showcase, [Pokaz Adeptów](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) in May 2014. As Kowboj Luke he managed to make a total of five apperances, winning in only one match - against [Szymon Siwiec](@/w/szymon-siwiec.md) at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md). 
 
 #### Red Thunder
 
-In early 2015 Kowboj Luke changed his gimmick to Red Thunder - a villainous red luchador. This change improved his position on the card, as he began to win some of his matches, even against established wrestlers such as [Shadow](@/w/shadow.md). In 2016 he briefly got involved in a feud against [Jędruś Bułecka](@/w/jedrus-bulecka.md) after he attacked him at [MZW @ Wyciskanie Sztangi 2016](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md) backstage. He briefly alligned with [Kripto](@/w/kripto.md) trying to win [MZW Tag Team Chmapionship](@/c/mzw-tag-team-championship.md) in a match against Zbójnicy (Jędruś & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). They were however defeated. 
+In the early 2015 Kowboj Luke changed his gimmick to Red Thunder, a villainous red luchador. This change improved his position on the card as he began to win some of his matches, even against established wrestlers such as [Shadow](@/w/shadow.md). In 2016 he got briefly involved in a feud with [Jędruś Bułecka](@/w/jedrus-bulecka.md) after he attacked him on the backstage at [MZW @ Wyciskanie Sztangi 2016](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md). Red Thunder briefly alligned himself with [Kripto](@/w/kripto.md) trying to win the [MZW Tag Team Chmapionship](@/c/mzw-tag-team-championship.md) in a match against Zbójnicy (Jędruś Bułecka & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). They were however defeated. 
 
-Shortly after he alligned himself with mysterious manager - Columbus - and new wrestler called Blue Thunder, to form a tag team called Storm Riders. They managed to win MZW Tag Team Championship from Zbójnicy in January 2017 at [Charity Show](@/e/mzw/2017-01-15-mzw-charity-show-2017.md). Their reign lasted 140 before they were defeated by Catch Connection at [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md). After that Storm Riders have disbanded and Red Thunder managed to make one last apperance at [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md) in January 2018 before retiring from wrestling.
+Shortly thereafter Red Thunder alligned himself with a mysterious manager - Columbus - and a new wrestler called Blue Thunder, to form a tag team called Storm Riders. They managed to win MZW Tag Team Championship from Zbójnicy in January 2017 at [Charity Show](@/e/mzw/2017-01-15-mzw-charity-show-2017.md). Their reign lasted 140 days before they were defeated by Catch Connection at [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md). After that Storm Riders have disbanded and Red Thunder managed to make one last apperance at [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md) in January 2018, before retiring from wrestling.
 
 ## In wrestling
 
