@@ -77,7 +77,6 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
  {{ music(yt='CQYh0ZnDN1s')}}
  {{ music(spot='1BTpL8k7DytUPa2sNYs53P')}}
  {{ music(apple='1440836302?i=1440836472')}}
-
   - "Iron Head" by Rob Zombie feat. Ozzy Osbourne
  {{ org_badge(orgs=['mzw', 'ppw', 'low']) }} (2014-present) <br>
  {{ music(yt='jxJZOjsEk7w')}}
