@@ -27,7 +27,7 @@ Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active
 
 ### Maniac Zone Wrestling (2018-2021)
 
-#### Rookie & in-ring debut (2018-2012)
+#### Rookie & in-ring debut (2018-2021)
 
 Seweryn set his foot in a wrestling ring for the first time at PAW Summer Camp 2018, held in Wrocław.
 In late 2018 and early 2019 he became one of the founding members of [The Greens](@/a/the-greens.md).
