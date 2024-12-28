@@ -1,6 +1,7 @@
 +++
 title = "Red Thunder"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra]
