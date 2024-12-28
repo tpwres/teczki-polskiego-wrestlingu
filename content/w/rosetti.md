@@ -67,6 +67,11 @@ Rosetti is one of the most experienced [KPW](@/o/kpw.md) wrestlers still on the 
  {{ music(yt='H_AQFnqMY3E')}}
  {{ music(spot='5M708qYwdT7xyQqO0WXnzm')}}
  {{ music(apple='1202463337?i=1202463431')}}
+  - "Gangsters" by Alex Guz
+ {{ org_badge(orgs=['kpw']) }} (2024-present) <br>
+ {{ music(yt='aXil-eZeab4')}}
+ {{ music(spot='0cC4EVBUPuR5B8eaHSf40G')}}
+ {{ music(apple='1783463715?i=1783463716')}}
 
 ## Championships and accomplishments
 
