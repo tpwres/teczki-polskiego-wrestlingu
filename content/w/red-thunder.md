@@ -44,6 +44,11 @@ Shortly after he alligned himself with mysterious manager - Columbus - and new w
 * Tag Teams and stables:
   - Storm Riders (2017)
 
+## Championships and accomplishments
+
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time) - with Blue Thunder
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14968)
