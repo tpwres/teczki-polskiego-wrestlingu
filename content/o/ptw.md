@@ -237,6 +237,7 @@ Featured in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), 
 * [YouTube channel](https://www.youtube.com/@PrimeTimeWrestlingpl)
 * [FITE/TrillerTV listing](https://www.trillertv.com/vl/p/prime-time-wrestling/)
 * [Roster page](https://primetimewrestling.pl/roster/), taken down on 2024-06-13
+* [Roster page](https://web.archive.org/web/20240509113619/https://primetimewrestling.pl/roster/) on Archive.org (latest snapshot, from 9.05.2024)
 
 ## References
 
