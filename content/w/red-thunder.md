@@ -19,20 +19,20 @@ Red Thunder, also known as "Kowboj Luke", is a retired Polish wrestler best know
 * Trained by:
   - MZW Academy (2014-2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018)
- 
-## Professional wrestling career 
+
+## Professional wrestling career
 
 ### Maniac Zone Wrestling (2014-2018)
 
 #### Kowboj Luke
 
-Red Thunder started his career under the "Kowboj Luke" (_Cowboy Luke_) gimmick. He was one of the first trainees of the MZW Academy who managed to score his debut at the first official MZW showcase, [Pokaz Adeptów](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) in May 2014. As Kowboj Luke he managed to make a total of five apperances, winning in only one match - against [Szymon Siwiec](@/w/szymon-siwiec.md) at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md). 
+Red Thunder started his career in MZW in a cowboy gimmick, named "Kowboj Luke" (_Cowboy Luke_). He was one of the first trainees of the MZW Academy who managed to score his debut at the first official MZW showcase, [Pokaz Adeptów](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) in May 2014. As Kowboj Luke he managed to make a total of five appearances, winning in only one match - against [Szymon Siwiec](@/w/szymon-siwiec.md) at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md).
 
 #### Red Thunder
 
-In the early 2015 Kowboj Luke changed his gimmick to Red Thunder, a villainous red luchador. This change improved his position on the card as he began to win some of his matches, even against established wrestlers such as [Shadow](@/w/shadow.md). In 2016 he got briefly involved in a feud with [Jędruś Bułecka](@/w/jedrus-bulecka.md) after he attacked him on the backstage at [MZW @ Wyciskanie Sztangi 2016](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md). Red Thunder briefly alligned himself with [Kripto](@/w/kripto.md) trying to win the [MZW Tag Team Chmapionship](@/c/mzw-tag-team-championship.md) in a match against Zbójnicy (Jędruś Bułecka & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). They were however defeated. 
+In early 2015, Kowboj Luke changed his gimmick to Red Thunder, a villainous red luchador. This change improved his position on the card, and he began to win some of his matches, even against established wrestlers such as [Shadow](@/w/shadow.md). In 2016 briefly became involved in a feud with [Jędruś Bułecka](@/w/jedrus-bulecka.md) after he attacked him backstage at [MZW @ Wyciskanie Sztangi 2016](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md). Red Thunder briefly aligned himself with [Kripto](@/w/kripto.md) trying to win the [MZW Tag Team Chmapionship](@/c/mzw-tag-team-championship.md) in a match against Zbójnicy (Jędruś Bułecka & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). They were, however, defeated.
 
-Shortly thereafter Red Thunder alligned himself with a mysterious manager - Columbus - and a new wrestler called Blue Thunder, to form a tag team called Storm Riders. They managed to win MZW Tag Team Championship from Zbójnicy in January 2017 at [Charity Show](@/e/mzw/2017-01-15-mzw-charity-show-2017.md). Their reign lasted 140 days before they were defeated by Catch Connection at [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md). After that Storm Riders have disbanded and Red Thunder managed to make one last apperance at [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md) in January 2018, before retiring from wrestling.
+Shortly thereafter, Red Thunder aligned himself with a mysterious manager - Columbus - and a new wrestler called Blue Thunder, forming a tag team called Storm Riders. They managed to win MZW Tag Team Championship from Zbójnicy in January 2017 at [Charity Show](@/e/mzw/2017-01-15-mzw-charity-show-2017.md). Their reign lasted 140 days before they were defeated by Catch Connection at [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md). After that, Storm Riders disbanded, and Red Thunder managed to make one last appearance at [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md) in January 2018, before retiring from wrestling.
 
 ## In wrestling
 
@@ -40,7 +40,6 @@ Shortly thereafter Red Thunder alligned himself with a mysterious manager - Colu
   - _Country Time_ (Curb Stomp) (2014-2015)
   - _Thunder Splash_ (2015-2018)
   - Famouser (2016)
- 
 * Tag Teams and stables:
   - Storm Riders (2017)
 
