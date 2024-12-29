@@ -15,7 +15,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
 * Years active: 2021-current
 * Locations:
   1. Chorzów (2021 - Apr 2024) - in [PTW Performance Center](@/v/ptw-targowa.md)
-  2. Kozłów (since Apr 2024) - in Dworek Pod Platanami
+  2. Kozłów (since Apr 2024) - in [Pod Platanem](@/v/dworek-kozlow.md)
 * Coaching staff
   * Active:
     - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - Owner, Head and Promo Coach (2021-)
@@ -93,5 +93,5 @@ After the departure of [Justin Joy](@/w/justin-joy.md), the Academy lacked a reg
 Most of the training responsibilities were taken up by Taras, Disco Pablo & Nano Lopez, with an occasional appearance from Axel Fox or Renegade.
 Overall, the attendance at training weekends went slightly down due to circumstances connected directly to PTW itself.
 
-PTW Academy, along with the federation, changed its location in April 2024, when they moved from [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów to Dworek pod Platanami in Kozłów, a village bordering Gliwice.
+PTW Academy, along with the federation, changed its location in April 2024, when they moved from [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów to [Pod Platanem](@/v/dworek-kozlow.md) in Kozłów, a village bordering Gliwice.
 During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), a significant part of coaching staff, talent and rookies left the federation.
