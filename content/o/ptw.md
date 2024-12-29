@@ -236,12 +236,13 @@ Featured in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
 * [YouTube channel](https://www.youtube.com/@PrimeTimeWrestlingpl)
 * [FITE/TrillerTV listing](https://www.trillertv.com/vl/p/prime-time-wrestling/)
-* [Roster page](https://primetimewrestling.pl/roster/), taken down on 2024-06-13
-* [Roster page](https://web.archive.org/web/20240509113619/https://primetimewrestling.pl/roster/) on Archive.org (latest snapshot, from 9.05.2024)
+* [Official website](https://primetimewrestling.pl/)
 
 ## References
 
 * [YouTube video of the lottery prize draw](https://www.youtube.com/watch?v=DOgcwDhd53k) (unavailable, set to private)
+* [Roster page](https://primetimewrestling.pl/roster/), taken down on 2024-06-13
+* [Roster page](https://web.archive.org/web/20240509113619/https://primetimewrestling.pl/roster/) on Archive.org (latest snapshot, from 9.05.2024)
 
 [trailer-1-ptw]: https://www.facebook.com/watch/?v=343114510600555&ref=sharing
 [sponsors-announcement]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02jM7go32wEREc9u2XofEbKhhHFhHohQ16Cb6dhCHXzQURZUZYGhzzeXCcDfu6x9k3l
