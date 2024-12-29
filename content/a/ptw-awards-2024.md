@@ -22,3 +22,4 @@ Like previously, the winners are decided by fans on the official PTW Facebook fa
 - Progres Roku (_Progress of the Year_)
 - Mówca Roku (_Speaker of the Year_)
 - Bohater Roku (_Hero of the Year_)
+- Złoczyńca Roku (_Villain of the Year_)
