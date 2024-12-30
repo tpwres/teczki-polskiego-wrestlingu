@@ -32,7 +32,7 @@ For this event, PTW invited several debuting wrestlers:
 ### Build up
 
 * On 21.11.2024 PTW announced that Irish pro wrestler Session Moth Martina will make her debut in Prime Time Wrestling.
-* On 25.11.2024 it was also announced that from this Underground onwards PTW will take sponsorship deal from geek-store.
+* On 25.11.2024 it was also announced that from this Underground onwards, PTW has a new sponsorship deal from Polish gift gadget seller FantastyczneGadżety.
 
 #### Storylines overview
 
