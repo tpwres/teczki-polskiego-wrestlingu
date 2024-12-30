@@ -38,5 +38,6 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=384839)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/piwa-i-igrzysk-23-defenitive-edition-hd) (requires paid subscription)
 * [Facebook event page](https://www.facebook.com/events/6085850078127761/)
 * [Full event on YouTube](https://www.youtube.com/watch?v=xkEi29j5_3I)

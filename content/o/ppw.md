@@ -60,6 +60,8 @@ The involvement of Supron suggest that this may be the very same ring he [bought
 
 (Scroll down to the [gallery](./#gallery) to view screenshots of the stories mentioned.)
 
+On the 28th December 2024 PpW launched their [official subscription-based VOD][ppw-vod] with uncensored versions of their shows (including onces previously not available on YouTube), as well as exclusive bonus materials.
+
 ### Lost lore
 
 PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023. The Internet Archive's Wayback Machine only had an [incomplete version](https://web.archive.org/web/20230422172700/https://ppwofficial.fandom.com/pl/wiki/PPW) available. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.
@@ -126,8 +128,9 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 * Facebook: [OficjalnePPW](https://www.facebook.com/OficjalnePPW)
 * Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/)
 * YouTube: [OficjalnePPW](https://www.youtube.com/@OficjalnePPW)
+* [Official VOD][ppw-vod]
 
-### References
+## References
 
 * [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
@@ -137,3 +140,4 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
 [halo-tu-ppw]: https://youtu.be/rbscVyOSjn0?si=Li0WYQoHiVM9V-Pe
 [newonce-pt-1]: https://www.youtube.com/watch?v=KT8PHRlnSxI
+[ppw-vod]: https://ppw-ewenementpl.vhx.tv
