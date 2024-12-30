@@ -59,7 +59,7 @@ Shortly before the show, they were trading insults and challeneges online with L
   - r: DQ
     c: UEWA Heavyweight Championship
     note: Robert attacked the referee to retain
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'; 'Jakob Sigmarsson'; '[Rafi](@/w/rafi.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md); Jakob Sigmarsson, [Rafi](@/w/rafi.md)'
   - '[Goblin](@/w/goblin.md)'
   - s: "No Holds Barred #1 Contender Match"
 - - '[Biesiad Strong](@/w/biesiad.md)'
