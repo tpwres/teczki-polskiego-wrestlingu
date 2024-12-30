@@ -1,6 +1,7 @@
 +++
 title = "Johny Vegas"
 template = "talent_page.html"
+authors = ["M3n747"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
