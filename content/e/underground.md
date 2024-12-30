@@ -12,7 +12,7 @@ chrono_root = ["underground"]
 Months with a major show (one with a number and title) did not feature an Underground, with the only exception being July 2023 which saw both [PTW x Ryucon](@/e/ptw/2023-07-16-ptw-x-ryucon.md) and [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md) two weeks later.
 Also in 2023, both January and December had double bill weekend Underground shows, with one on Saturday and one on Sunday.
 This cadence was interrupted in 2024, with only one Underground show in the first half, before resuming in October.
-As of Underground 25, PTW announced that they'll be retiring the name and numbering scheme, with further shows having just a single title.
+As of Underground 25, PTW announced that they'll be retiring the name and numbering scheme, with further shows having just a single title. To honor the classic series, they'll be introducing a "PTW Underground" championship belt sometime in 2025.
 
 The Underground shows were initially marketed as somewhat exclusive, with only 100 seats available, because of the small venue. Major storylines were continued between the big events, and the smaller events often featured debuts, lower-card talent and foreign guests.
 
