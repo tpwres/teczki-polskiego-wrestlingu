@@ -36,5 +36,5 @@ source = "[Official PpW Facebook]"
 ### References
 
 * [Facebook event](https://www.facebook.com/events/5539714666051167/)
-* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ppw-brak-mi-slow-22-full-show-hd) (Definitive Edition)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ppw-brak-mi-slow-22-full-show-hd) (requires paid subscription)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383860)
