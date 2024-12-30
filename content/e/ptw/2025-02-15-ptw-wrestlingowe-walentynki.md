@@ -3,7 +3,7 @@ title = "PTW: Wrestlingowe Walentynki"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["ptw", "underground"]
+chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
 hide_results = true
