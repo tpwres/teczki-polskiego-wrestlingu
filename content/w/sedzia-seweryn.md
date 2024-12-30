@@ -17,7 +17,7 @@ Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active
 * Years active: 2018-present
 * Nicknames/Gimmicks:
   - Ring Rat {{ org_badge(org='mzw') }}
-  - Sewi the Ref {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
+  - Sewi the Ref {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) 2018-2021
   - [PTW Academy](@/o/ptw-academy.md) 2021-2024
