@@ -41,7 +41,7 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
   - 'Biesiad'
   - 'Samson'
   - g: true
-  - s: '[Zmowa's](@/a/the-collusion.md) promo gets interrupted by Samson and Biesiad
+  - s: "[Zmowa's](@/a/the-collusion.md) promo gets interrupted by Samson and Biesiad"
 - - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
   - '[Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match
