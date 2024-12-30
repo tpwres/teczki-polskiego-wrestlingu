@@ -8,7 +8,7 @@ country = ["IT"]
 1 = { path = "red-scorpion.jpg", caption = "Red Scorpion with the [KPW title](@/c/kpw-championship.md) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)", source = "Migawki z Puszki" }
 +++
 
-Red Scorpion is a italian wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
+Red Scorpion is an Italian wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## Basic info
 * Years active: 2007-present
@@ -26,7 +26,7 @@ Red Scorpion is a italian wrestler best known for his time in [Kombat Pro Wrestl
 
 Red Scorpion made his debut for [Kombat Pro Wrestling](@/o/kpw.md) in March 2023 at [KPW Arena 18: Powrót Do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md), where he defeated [Darius](@/w/darius.md) and [Zefir](@/w/zefir.md) in a Triple Threat Match. 
 
-He returned after over a year later and gained a title shot on a [KPW Championship](@/c/kpw-championship.md) at [KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md). He succeded in defeating reigning champion - [Greg](@/w/greg.md) - via submission. His reign lasted for 386 days, but during that time he only made 2 successful defences in Poland, and two defences in Italy. After he beat Jack Jester at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) the winner of Magnificent Seven Contract Ladder Match - [Hans Schulte](@/w/hans-schulte.md) - cashed in his contract and won the championship from italian wrestler. After that he tried to win back his championship at [KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md), but champion managed to retain it.
+He returned over a year later and gained a title shot on a [KPW Championship](@/c/kpw-championship.md) at [KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md). He succeded in defeating the reigning champion, [Greg](@/w/greg.md), via submission. His reign lasted for 386 days, but during that time he only made two successful defences in Poland, and two in Italy. After he beat Jack Jester at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), the winner of Magnificent Seven Contract Ladder Match - [Hans Schulte](@/w/hans-schulte.md) - cashed in his contract and won the Championship from the Italian wrestler. Red Scorpion tried to win back his Championship at [KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md), but the new champion managed to retain it.
 
 ## In wrestling
 
@@ -36,11 +36,11 @@ He returned after over a year later and gained a title shot on a [KPW Championsh
 
 * Entrance music:
   - "Red Scorpion Theme" by Independent Contractor
-    {{ org_badge(orgs=['kpw']) }} (2023) <br>
-    {{ music(yt='POsCRXqZf4A')}}
+ {{ org_badge(orgs=['kpw']) }} (2023) <br>
+ {{ music(yt='POsCRXqZf4A')}}
   - "Red Scorpion Theme 2024" by Independent Contractor
-    {{ org_badge(orgs=['kpw']) }} (2024-) <br>
-    {{ music(yt='1pU9gaxn5gY')}}
+ {{ org_badge(orgs=['kpw']) }} (2024-) <br>
+ {{ music(yt='1pU9gaxn5gY')}}
    
 ## Championships and accomplishments
 
