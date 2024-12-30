@@ -6,7 +6,7 @@ In order to properly link to a wrestler's theme songs, use the following templat
 ## In wrestling
 
 * Entrance music:
-- "Title 1" by Artist 1
+  - "Title 1" by Artist 1
  {{ org_badge(orgs=['ppw']) }} (20??-20???) <br>
  {{ music(yt='')}}
  {{ music(spot='')}}
