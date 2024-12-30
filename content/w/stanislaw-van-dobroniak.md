@@ -59,8 +59,10 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 * Tag Teams and Stables:
   - Zbójnicy (2015-2017)
 * Entrance music:
-  - "W Murowanej Piwnicy" by unknown folk artist
+  - "W Murowanej Piwnicy" by Kapela Pieczarki
  {{ org_badge(orgs=['mzw']) }} (2015-2017), in tag team with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) <br>
+ {{ music(yt='a1vi2GmjJYo')}}
+ {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
   - "Fucking Asshole" by Little Big
  {{ org_badge(orgs=['ppw']) }} (2022-) <br>
  {{ music(yt='bqMbVzQyXtc')}}
