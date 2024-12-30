@@ -40,5 +40,6 @@ The event was held at Waldorffa 25, a dedicated event venue in Bemowo that would
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383968)
 * [Facebook event](https://www.facebook.com/events/1117782402125287/)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-2-22-definitive-edition-hd) (requires paid subscription)
 * [WrestleMap's article](https://www.wrestlemap.com/news/p1e7040pmjt9uwctkin6cod0xwqj1k) covering the ultraviolent match
 * [WrestleMap's article](https://www.wrestlemap.com/news/mxrf1jwfu9v4hp21pmf7ws40yb76qk) announcing the event
