@@ -35,11 +35,11 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
 * On their social media, Teatr Komuna advertised a wrestling contest between two theatrical performers to take place during the pre-show. Both contestants are dancers and choreographers, and Dominik Więcek trained with PpW while preparing for [Glory Game][glory-game], also on Teatr Komuna's stage.
 
 {% card() %}
-- - 'Gustav Gryffin'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rafi](@/w/rafi.md)'
-  - 'Mister Z'
-  - 'Biesiad'
-  - 'Samson'
+  - '[Mister Z](@/w/mister-z.md)'
+  - '[Biesiad](@/w/biesiad.md)'
+  - '[Samson](@/w/samson.md)'
   - g: true
     s: "[Zmowa's](@/a/the-collusion.md) promo gets interrupted by Samson and Biesiad"
 - - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
