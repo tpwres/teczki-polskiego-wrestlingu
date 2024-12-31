@@ -54,7 +54,7 @@ In 2012, FightBox, a channel dedicated to combat sports entered cable TV. Since 
 
 ## 2020
 
-In 2020, local branch of the national broadcaster TVP3 Wrocław published a [short piece on MZW][mzw-tvp3], titled "Staged and seemingly menacing. Wrestling gains popularity in Wrocław". The narrator talks about the staged nature of wrestling as entertainment, while several rookies and wrestlers practice bumps in the ring wearing face masks (as this was produced during the COVID-19 pandemic). [Shadow](@/w/shadow.md), introduced as [PAW](@/o/paw.md)'s coach, talks about training and safety. MZW's flag is clearly visible in the background.
+In 2020, local branch of the national broadcaster TVP3 Wrocław published a [short piece on MZW][mzw-tvp3], titled "Staged and seemingly dangerous. Wrestling gains popularity in Wrocław". The narrator talks about the staged nature of wrestling as entertainment, while several rookies and wrestlers practice bumps in the ring wearing face masks (as this was produced during the COVID-19 pandemic). [Shadow](@/w/shadow.md), introduced as [PAW](@/o/paw.md)'s coach, talks about training and safety. MZW's flag is clearly visible in the background.
 
 ## 2021
 
