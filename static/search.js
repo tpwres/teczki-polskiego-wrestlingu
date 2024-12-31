@@ -117,11 +117,29 @@ class SearchController {
         return text.replace(/\p{L}/gu, m => chars[m] || m).toLowerCase();
     }
 
+    spin(enabled) {
+        const svg = this.searchboxTarget.querySelector('button > svg')
+        const icon = svg.querySelector('use')
+        const url = new URL(icon.href.baseVal)
+        if (enabled) {
+            url.hash = '#loader'
+            svg.classList.add('spin')
+        } else {
+            url.hash = '#search'
+            svg.classList.remove('spin')
+        }
+
+        icon.href.baseVal = url.toString()
+
+
+    }
+
     async search() {
         // Load index on first use
         if (this.index === undefined) {
             await this.load_minisearch()
             await this.load_index()
+            this.spin(false)
         }
 
         let term = this.queryTarget.value.trim()
@@ -138,6 +156,7 @@ class SearchController {
 
     async load_index() {
         let response = await fetch("/minisearch_index.json")
+        this.spin(true)
 
         this.index = MiniSearch.loadJSON(await response.text(), {
             fields: ['title', 'text'],
