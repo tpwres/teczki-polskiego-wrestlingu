@@ -1,4 +1,4 @@
-{%- if appearances_entry and career_entry -%}
+{%- if appearances_entry -%}
   {% set_global all_my_matches = [] -%}
   {% for app in appearances_entry -%}
     {% set match = all_matches[app] -%}
@@ -9,7 +9,7 @@
   {% for match in all_my_matches|sort(attribute='d') -%}
     {% if not match.o is containing(org) -%} {% continue %} {%- endif -%}
     {% if used_events is containing(match.p) -%} {% continue %} {%- endif -%}
-    <a class="nu" href="{{ get_url(path="@/" ~ match.p) }}">[{{ i }}]</a>
+    <a class="nu" href="{{ get_url(path="@/" ~ match.p) }}"><small>[{{ i }}]</small></a>
     {% set_global used_events = used_events|concat(with=match.p) -%}
     {% set_global i = i + 1 -%}
   {% endfor -%}

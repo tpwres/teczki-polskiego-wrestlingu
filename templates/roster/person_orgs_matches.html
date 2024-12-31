@@ -9,13 +9,11 @@
   {% set_global all_appearances = all_appearances | concat(with=app) %}
 {% endfor %}
 
-{# Calculate orgs from career_entry #}
+{# Calculate orgs from appearances #}
 {% set_global orgs = [] %}
-{% for _year, org_count in career_entry %}
-  {% for org, _count in org_count %}
-    {% if orgs is not containing(org) %}
-      {% set_global orgs = orgs|concat(with=org) %}
-    {% endif %}
+{% for match in all_appearances %}
+  {% for org in match.o %}
+    {% if orgs is not containing(org) %}{% set_global orgs=orgs | concat(with=org) %}{% endif %}
   {% endfor %}
 {% endfor %}
 
