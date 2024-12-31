@@ -59,8 +59,10 @@ class LightboxController {
             this.zoom_buttons({ maximize: true, minimize: false})
         } else {
             // this.imgTarget.style.objectFit = 'none'
-            this.imgTarget.style.removeProperty("max-height")
+            this.imgTarget.style.removeProperty('max-height')
+            this.imgTarget.style.removeProperty('height')
             this.imgTarget.style.setProperty('max-width', 'unset', 'important')
+            this.imgTarget.style.setProperty('height', 'unset', 'important')
             this.zoom_buttons({ maximize: false, minimize: true})
             this.containerTarget.classList.add('maximised')
             this.captionTarget.style.visibility = 'collapse'
@@ -70,7 +72,7 @@ class LightboxController {
 
     reset_zoom() {
         const img = this.imgTarget
-        img.style.maxHeight = '100%'
+        img.style.height = '100%'
         img.style.removeProperty('zoom')
         img.style.removeProperty('max-width')
         this.maximised = false
