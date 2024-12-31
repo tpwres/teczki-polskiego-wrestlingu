@@ -44,7 +44,7 @@ After the boom and flop of wrestling on general-purpose channels, they moved to 
 The first one was Extreme Sports Channel, which started airing WWE Raw episodes on tape delay. They were soon joined by Eurosport, which aired TNA Wrestling on Fridays.
 Starting in 2009, Eurosport replaced TNA with WWE recaps and their Vintage Collection show, on Mondays.
 
-In the long run, Extreme Sports became the only place for wrestling on TV, later gaining rights to show WWE Raw and Smackdown on tape delay, with Supron and Borkowski on commentary.
+In the long run, Extreme Sports became the only place for wrestling on TV, later gaining rights to show WWE Raw and Smackdown on tape delay, with Supron and [Borkowski](@/w/pawel-borkowski.md) on commentary.
 
 During this time, the Polish wrestling scene was beginning to form, but with no interest by the media save for short news reports.
 [DDW](@/o/ddw.md) wanted to air their wrestling, but it never happened due to lack of interest.
