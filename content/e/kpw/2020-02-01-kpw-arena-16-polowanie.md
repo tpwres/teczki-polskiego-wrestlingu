@@ -37,7 +37,7 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Greg](@/w/greg.md)'
   - 'Piotr Opolski'
-- - 'The Hunt: [Primate](@/w/primate.md), Wild Boar'
+- - 'The Hunt: [Primate](@/w/primate.md), [Wild Boar](@/w/wild-boar.md)'
   - '[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - credits:
