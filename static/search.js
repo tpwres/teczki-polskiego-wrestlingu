@@ -120,7 +120,7 @@ class SearchController {
     spin(enabled) {
         const svg = this.searchboxTarget.querySelector('button > svg')
         const icon = svg.querySelector('use')
-        const url = new URL(icon.href.baseVal)
+        const url = new URL(icon.href.baseVal, document.location.href)
         if (enabled) {
             url.hash = '#loader'
             svg.classList.add('spin')
