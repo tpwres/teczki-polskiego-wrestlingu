@@ -13,7 +13,8 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
 
 {% card() %}
 - ['["Top Gun" Samson](@/w/samson.md)', '[Jacob Crane](@/w/jacob-crane.md)']
-- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Minion](@/w/sedzia-klaudiusz.md)']
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Minion](@/w/sedzia-klaudiusz.md)'
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Aron Wake](@/w/aron-wake.md)']
 - ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '[Boro](@/w/boro.md)']
 - ['[Axel Fox](@/w/axel-fox.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
