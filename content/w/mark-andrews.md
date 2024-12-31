@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 country = ["WALES"]
 +++
 
-Mark Andrews is a Welsh wrestler from Cardiff, best known for his run in NXT UK and a long career all over the British Isles. In 2012, Andrews, along with several other British wrestlers, performed for [DDW](@/o/ddw.md) at their double header weekend in Rzeszów and Kolbuszowa.
+Mark Andrews is a Welsh wrestler from Cardiff, best known for his run in NXT UK and a long career all over the British Isles. In 2012, Andrews, along with several other British wrestlers, he performed for [DDW](@/o/ddw.md) at their double header weekend in Rzeszów and Kolbuszowa.
 
 ## References
 
