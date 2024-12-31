@@ -2,7 +2,7 @@
 02 = { path = "IMG_7220_1.jpeg", caption = "Show host Kuba Wątły", source = "wrestling.nazwa.pl" }
 03 = { path = "IMG_7221_1.jpeg", caption = "Show host Agnieszka Borkowska", source = "wrestling.nazwa.pl" }
 04 = { path = "IMG_7223_1.jpeg", caption = 'Owner, organiser and commentator Andrzej "The Professor of Wrestling" Supron', source = "wrestling.nazwa.pl" }
-05 = { path = "IMG_7228_1.jpeg", caption = 'Owner, organiser and commentator Paweł "Boryss" Borkowski', source = "wrestling.nazwa.pl" }
+05 = { path = "IMG_7228_1.jpeg", caption = 'Owner, organiser and commentator [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)', source = "wrestling.nazwa.pl" }
 06 = { path = "IMG_7247_1.jpeg", caption = "Mexx (upright)", source = "wrestling.nazwa.pl" }
 07 = { path = "IMG_7252_1.jpeg", caption = "Rambo running into Chris the Bambikiller, with Michael Kovac in the corner", source = "wrestling.nazwa.pl" }
 08 = { path = "IMG_7254_1.jpeg", caption = "Michael Kovac chopping Rambo in the corner", source = "wrestling.nazwa.pl" }
@@ -10,7 +10,7 @@
 10 = { path = "IMG_7274_1.jpeg", caption = "Chris the Bambikiller landing a splash on Rambo", source = "wrestling.nazwa.pl" }
 11 = { path = "IMG_7279_1.jpeg", caption = "Mexx throwing Kovac", source = "wrestling.nazwa.pl" }
 12 = { path = "IMG_7296_1.jpeg", caption = 'Kamil "Highlander" Bazelak', source = "wrestling.nazwa.pl" }
-13 = { path = "IMG_7353_1.jpeg", caption = "Commentary team: Borkowski and Supron", source = "wrestling.nazwa.pl" }
+13 = { path = "IMG_7353_1.jpeg", caption = "Commentary team: [Borkowski](@/w/pawel-borkowski.md) and Supron", source = "wrestling.nazwa.pl" }
 14 = { path = "IMG_7376_1.jpeg", caption = "Blue Nikita posing in the ring, Damon Brix sitting in the corner", source = "wrestling.nazwa.pl" }
 15 = { path = "IMG_7389_1.jpeg", caption = "Blue Nikita setting up a ladder", source = "wrestling.nazwa.pl" }
 16 = { path = "IMG_7394_1.jpeg", caption = "Blue Nikita with a chair to a laid-out Crazy Sexy Mike", source = "wrestling.nazwa.pl" }
