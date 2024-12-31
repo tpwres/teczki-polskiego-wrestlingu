@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 country = ["ENGLAND"]
 +++
 
-Elliott Jordan is a retired English Pro wrestler, who did two appearances for [KPW](@/o/kpw.md) back in 2016. In his home country, Jordan wrestled primarily for Birmingham-based Kamikaze Pro, plus several smaller promotions in the West Midlands.
+Elliott Jordan is a retired English Pro wrestler, who did two appearances for [KPW](@/o/kpw.md) in 2016. In his home country, Jordan wrestled primarily for Birmingham-based Kamikaze Pro, plus several smaller promotions in the West Midlands.
 
 ## Internet presence
 
