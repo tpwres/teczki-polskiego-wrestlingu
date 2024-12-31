@@ -7,7 +7,6 @@
 {{ section.content | safe }}
 
 {% set org_styles = config.extra.org_styles %}
-{% set career_dict = load_data(path="data/career.json") %}
 {% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances.json") %}
 {% set crew_appearances = load_data(path="data/crew_appearances.json") %}
@@ -44,7 +43,6 @@
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
-          {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
           {% set_global display_match_links = false %}
           {% set page_path = "@/" ~ page_path %}
           <li class="pwf">
@@ -56,7 +54,6 @@
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=career_name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=career_name, default=[]) %}
-          {% set_global career_entry = career_dict|get(key=career_name, default=empty_obj) %}
           {% set_global display_match_links = false %}
           {% set page_path = "@/" ~ page_path %}
           <li class="pwf">
@@ -68,8 +65,6 @@
           {% set career_key = page.extra|get(key='career_name', default=page.title) %}
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
-          {# TODO: Do not use career, just appearances #}
-          {% set_global career_entry = career_dict|get(key=career_key, default=empty_obj) %}
           {% set_global person_name = '<em>' ~ name ~ '</em>' %}
           {% set_global display_match_links = false %}
           {% set page_path = "@/" ~ page_path %}
@@ -81,7 +76,6 @@
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
-          {% set_global career_entry = career_dict|get(key=name, default=empty_obj) %}
           {% set_global display_match_links = true %}
           <li class="pwf">
             {% include "roster/unlinked_person.html" %}
