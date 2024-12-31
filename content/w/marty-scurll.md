@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 country = ["ENGLAND"]
 +++
 
-Marty 'The Villain' Scurll is an English professional wrestler, best known from his time in Ring of Honor, New Japan Pro Wrestling, as well as multiple other promotions worldwide, both solo and as part of the Bullet Club stable. In Poland, he appeared twice for [Prime Time Wrestling](@/o/ptw.md) in 2022.
+Marty "The Villain" Scurll is an English professional wrestler, best known from his time in Ring of Honor, New Japan Pro Wrestling, as well as multiple other promotions worldwide, both solo and as part of the Bullet Club stable. In Poland he made two appearances for [Prime Time Wrestling](@/o/ptw.md) in 2022.
 
 ## Internet presence
 
