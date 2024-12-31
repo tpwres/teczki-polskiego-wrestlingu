@@ -47,7 +47,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
       [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md),
       [Arek Paterek](@/w/arek-paterek.md), 
       [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)
-    Special Guest Commentary: Paweł "Boryss" Borkowski
+    Special Guest Commentary: '[Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)'
 {% end %}
 
 #### Recap
