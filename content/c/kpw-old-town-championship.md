@@ -64,7 +64,7 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
     en: '[KPW Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md)'
     ed: 2018-03-10
 - - 'Greg (c)'
-  - 'Lee Rogers'
+  - '[Lee Rogers](@/w/lee-rogers.md)'
   - s: Singles match
     en: '[KPW OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md)'
     ed: 2018-07-14

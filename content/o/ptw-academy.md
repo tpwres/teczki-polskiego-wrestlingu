@@ -34,7 +34,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
   * Seminary hosts:
     - [Santino Marella](@/w/santino.md) (2021 - 2022)
     - Chris Masters (Feb 2022)
-    - Nick Aldis (Feb 2022)
+    - '[Nick Aldis](@/w/nick-aldis.md)' (Feb 2022)
     - Axel Tischer (Feb 2022)
     - Tucker (2023)
     - Dirty Dango (2023)

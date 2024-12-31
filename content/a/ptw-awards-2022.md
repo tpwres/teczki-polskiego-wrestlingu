@@ -53,7 +53,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 1. [Puncher](@/w/puncher.md) - 441 votes
 2. [Justin Joy](@/w/justin-joy.md) - 365 votes
-3. Joe Hendry - 65 votes
+3. [Joe Hendry](@/w/joe-hendry.md) - 65 votes
 4. Matt Sydal - 54 votes
 5. [Krampus](@/w/krampus.md) - 27 votes
 
@@ -101,12 +101,12 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 2. Łukasz Baliński - 75
 3. Piotr Małecki - 56
 4. [Santino](@/w/santino.md) - 35
-5. Lewis Costello - 12
+5. [Lewis Costello](@/w/lewis-costello.md) - 12
 
 #### Female Wrestler of the Year
 
 1. [Diana Strong](@/w/diana-strong.md) - 135
-2. Myla Grace - 86
+2. [Myla Grace](@/w/myla-grace.md) - 86
 3. Xia Brookside - 11
 4. Helena Sixt - 3
 5. Gaya Glass - 0
