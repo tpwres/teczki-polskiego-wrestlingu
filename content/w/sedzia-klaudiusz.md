@@ -4,6 +4,8 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
+[extra]
+career_aliases = ['Minion']
 [extra.gallery]
 1 = { path = "sedzia-klaudiusz.jpg", caption = "Sędzia Klaudiusz presenting the PTW/WWA World Championship.", source = "Official PTW Facebook" }
 +++
@@ -14,8 +16,8 @@ Sędzia Klaudiusz is a Polish wrestling referee known for his time in [Prime Tim
 
 * Years active: 2022-present
 * Gimmicks/nicknames:
-  - Sędzia Klaudiusz {{ org_badge(orgs=['ptw]) }} (2023-present)
-  - Minion {{ org_badge(orgs=['ptw]) }} (2022)
+  - Sędzia Klaudiusz {{ org_badge(orgs=['ptw']) }} (2023-present)
+  - Minion {{ org_badge(orgs=['ptw']) }} (2022)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-present)
  
