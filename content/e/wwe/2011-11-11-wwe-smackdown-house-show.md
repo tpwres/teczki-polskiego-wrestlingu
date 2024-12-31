@@ -18,7 +18,7 @@ city = ["Gdańsk", "Sopot"]
 - [Brodus Clay, Ted DiBiase]
 - [Ezekiel Jackson, Jinder Mahal]
 - [Hunico, Yoshi Tatsu]
-- [Sheamus, Wade Barrett]
+- ['[Sheamus](@/w/sheamus.md)', Wade Barrett]
 - [Alicia Fox, Natalya]
 - - Randy Orton
   - Cody Rhodes

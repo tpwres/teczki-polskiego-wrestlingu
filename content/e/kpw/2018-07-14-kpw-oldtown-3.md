@@ -20,7 +20,7 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
 #### Build-up
 
 * [Robert Star](@/w/robert-star.md) is forced to join Kawaleria after previously losing to [Piękny Kawaler](@/w/piekny-kawaler.md)
-* British wrestlers [Dom Taylor](@/w/dom-taylor.md) and Lee Rogers debut for KPW. Taylor would later appear several more times for the organization in singles competition as well.
+* British wrestlers [Dom Taylor](@/w/dom-taylor.md) and [Lee Rogers](@/w/lee-rogers.md) debut for KPW. Taylor would later appear several more times for the organization in singles competition as well.
 
 {% card() %}
 - - "Kawaleria: [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md),
@@ -31,7 +31,7 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
 - - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - '[Adam Bravo](@/w/adam-bravo.md)'
 - - '[Greg](@/w/greg.md)(c)'
-  - Lee Rogers
+  - '[Lee Rogers](@/w/lee-rogers.md)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Bianca](@/w/bianca.md)'
   - '[Alisa](@/w/alisa.md)'

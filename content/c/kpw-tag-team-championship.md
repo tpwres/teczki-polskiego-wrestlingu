@@ -40,7 +40,7 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
   - s: Tag Team Match
     en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
-- - "The Hunt: Primate, Wild Boar"
+- - "The Hunt: [Primate](@/w/primate.md), [Wild Boar](@/w/wild-boar.md)"
   - "Sawicki, Victor Rosetti (c)"
   - s: Tag Team Match
     en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'

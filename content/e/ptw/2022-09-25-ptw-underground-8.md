@@ -17,7 +17,7 @@ For this event, PTW invited Northern Irish wrestler Myla Grace, who was briefly 
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Renegade](@/w/renegade.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
-  - Myla Grace
+  - '[Myla Grace](@/w/myla-grace.md)'
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - '["Top Gun" Samson](@/w/samson.md)'

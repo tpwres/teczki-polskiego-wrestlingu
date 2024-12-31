@@ -39,7 +39,7 @@ The venue had limited capacity, which was cleverly used to make these events fee
 
 Continuing their strong entry into the scene, PTW started the year with the [second Underground show](@/e/ptw/2022-01-23-ptw-underground-2.md)
 and quickly followed with [PTW#2 Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md), which was also well received.
-This show had even more starpower than Revolucja, featuring debuts of well-known names like Joe Hendry, Marty Scurll, Matt Sydal and John "Bad Bones" Klinger.
+This show had even more starpower than Revolucja, featuring debuts of well-known names like [Joe Hendry](@/w/joe-hendry.md), [Marty Scurll](@/w/marty-scurll.md), Matt Sydal and [John "Bad Bones" Klinger](@/w/bad-bones.md).
 
 Over the course of the year, PTW continued its steady pace, presenting the monthly Underground shows, and debuting at [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), a manga-themed fan convention in Kraków.
 The third major show, [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), was the first one to be held outside Chorzów, in Warsaw.
@@ -206,7 +206,7 @@ It was quickly renamed to _PTW: WWA_ and became a de facto "sister federation" r
 This cooperation allowed PTW talent to be booked at the PTW: WWA show on 2024-01-05.
 See the [Expansion into Austria](#expansion-into-austria) section above.
 
-PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion Scotty Rawk to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed, on a [livestream][live-istota-puncher] by Istota Wrestlingu, that the deal is still on.
+PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion [Scotty Rawk](@/w/scotty-rawk.md) to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed, on a [livestream][live-istota-puncher] by Istota Wrestlingu, that the deal is still on.
 
 In the early September 2024, PTW announced they'd be sending a team of wrestlers to _Botte da Bestya 2_, an event by the Italian organization ICW happening on September 15, 2024. This team consisted of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent: [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who defended his championship.
 

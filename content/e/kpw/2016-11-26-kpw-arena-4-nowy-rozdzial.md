@@ -12,7 +12,7 @@ city = "Gdańsk"
 3 = { path = "wrzeszcz-dolny-panorama.jpg", caption = "Panoramic view of the Dolny Wrzeszcz district of Gdańsk. Visible in the bottom-right is the gym hall where the event took place.", source = "Artur Andrzej / Wikipedia.pl" }
 +++
 
-Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall of CKZiU 1, a complex of various educational institutions at the high school or vocational school level. Much smaller in scope than the previous event, it had only one foreign guest, British wrestler Elliott Jordan.
+Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall of CKZiU 1, a complex of various educational institutions at the high school or vocational school level. Much smaller in scope than the previous event, it had only one foreign guest, British wrestler [Elliott Jordan](@/w/elliott-jordan.md).
 
 {% card() %}
 - ['[Kaszub](@/w/kaszub.md)', '[Peter Pannache](@/w/peter-pannache.md)', {r: DQ}]
@@ -21,7 +21,7 @@ Nowy Rozdział (_The New Chapter_) was held in Gdańsk, in the gymnastics hall o
   - s: Tag Team Match
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)', '[Greg](@/w/greg.md)']
 - ['[Robert Star](@/w/robert-star.md)', '[Damian Lambert](@/w/damien-rothschild.md)']
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', Elliott Jordan, {c: '[KPW Championship](@/c/kpw-championship.md)'}]
+- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Elliott Jordan](@/w/elliott-jordan.md)', {c: '[KPW Championship](@/c/kpw-championship.md)'}]
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'

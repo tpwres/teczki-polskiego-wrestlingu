@@ -25,7 +25,9 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 * The surprise, was however spoiled by Lince Dorado, who posted about a last-minute trip to Poland on his Instagram profile.
 
 {% card() %}
-- [Scotty Rawk(c), Speedball Mike Bailey, {c: "British Wrestling Revolution Championship"}]
+- - '[Scotty Rawk](@/w/scotty-rawk.md)(c)'
+  - Speedball Mike Bailey
+  - c: British Wrestling Revolution Championship
 - ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels]
 - ['[Krampus](@/w/krampus.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: No
       DQ Match}]
@@ -74,7 +76,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Special Guest Commentary: 'Andrzej Supron, [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)'
-    English Commentary: 'Lewis Costello, [Santino](@/w/santino.md)'
+    English Commentary: '[Lewis Costello](@/w/lewis-costello.md), [Santino](@/w/santino.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
