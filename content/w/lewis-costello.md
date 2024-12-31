@@ -6,9 +6,9 @@ authors = ["Krzysztof Zych"]
 country = ["ENGLAND"]
 +++
 
-Lewis Costello is an English standup comedian, announcer and pro wrestling commentator. In 2022 and 2024, he was providing English live commentary on PTW shows, first solo and later with [Santino](@/w/santino.md).
+Lewis Costello is an English standup comedian, announcer and pro wrestling commentator. In 2022 and 2024 he provided English live commentary on PTW shows, first solo and later with [Santino](@/w/santino.md).
 
 ## Internet presence
 
-* [Lewis' official site](https://www.lewiscostello.co.uk/)
+* [Lewis's official site](https://www.lewiscostello.co.uk/)
 * [lewisblaizecostello on Instagram](https://www.instagram.com/lewisblaizecostello/)
