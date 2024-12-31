@@ -34,6 +34,16 @@
       height: 1.5rem
       width: 1.5rem
 
+      &.spin
+        animation: spin 3s linear infinite
+
+@keyframes spin
+  0%
+    transform: rotate(0deg)
+  100%
+    transform: rotate(360deg)
+
+
 .search-results
   display: none
   position: absolute
