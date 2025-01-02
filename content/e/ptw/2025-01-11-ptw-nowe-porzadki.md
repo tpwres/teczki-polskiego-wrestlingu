@@ -1,7 +1,7 @@
 +++
 title = "PTW: Nowe Porządki"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
