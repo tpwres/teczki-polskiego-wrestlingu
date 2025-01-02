@@ -110,7 +110,7 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 #### Erik Slotir vs Max Speed
 
 * Timestamp: `0:11:00`
-* [Erik Slotir](@/w/erik-slotir.md) makes his way to the ring first, trying to mock [Max Speed](@/w/max-speed.md). The crowd chants "Krecik!" (referencing a popular [Czechoslovakian animated series](https://en.wikipedia.org/wiki/The_Little_Mole)), which visibly upsets Erik.
+* [Erik Slotir](@/w/erik-slotir.md) makes his way to the ring first, trying to mock [Max Speed](@/w/max-speed.md). The crowd chants "Krecik!" (referencing a popular [Czechoslovakian animated series][krtek]), which visibly upsets Erik.
 * Erik cuts a short promo, basically saying that he is way better than his opponent and that Christmas is cancelled.
 * Max Speed enters the ring next, wearing a Santa hat and a Christmas sweater.
 * Meanwhile, Referee Herno enters the ring.
@@ -232,4 +232,4 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 * [Fancam by Istota Wrestlingu, part 3](https://www.youtube.com/watch?v=sNXnt8jXqcg)
 
 [st-nicholas-day]: https://en.wikipedia.org/wiki/Saint_Nicholas_Day
-[krtek]: 
+[krtek]: https://en.wikipedia.org/wiki/The_Little_Mole
