@@ -24,10 +24,10 @@ On January 3rd 2025, PTW announced on their [Facebook](https://www.facebook.com/
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g:true
-  - s: Pawłowski's expose
-  - nc: upcoming
+  s: Pawłowski's expose
+  nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - c: ' [PTW Championship](@/c/ptw-championship.md)
-  - nc: upcoming
+  nc: upcoming
 {% end %}
