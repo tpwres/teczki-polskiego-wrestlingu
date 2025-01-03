@@ -22,7 +22,7 @@ Official ticket sale commenced on [Going](https://goingapp.pl/wydarzenie/gala-pr
 On January 3rd 2025, PTW announced on their [Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml?__cft__[0]=AZUWFsiE7m1B76WH4zcdw2rQjoiJ7ldaXNzfIR0yDSWDFHxyAnQpocrv7hGbt1a9s33jZq6vg9uX4XnSUM1Xvb5m2jRdnCKjBM41XrnPn0OaWyFu8Z1IsaczDH-HY1IBu3tmZSE9UIPK8dOCFtcM8sP3iv_BMV5D25jT51NAjo2E2CrGMK9QQxcXi6ZuODMY3e4&__tn__=%2CO%2CP-R) that Puncher is going to defend his title against Max Speed.
 
 {% card() %}
-- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.mde)'
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g:true
     s: Pawłowski's exposé
     nc: upcoming
