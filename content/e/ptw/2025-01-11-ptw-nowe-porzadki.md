@@ -28,6 +28,6 @@ On January 3rd 2025, PTW announced on their [Facebook](https://www.facebook.com/
     nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Max Speed](@/w/max-speed.md)'
-  - c: ' [PTW Championship](@/c/ptw-championship.md)
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
 {% end %}
