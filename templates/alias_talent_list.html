@@ -17,12 +17,6 @@
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
 {% set all_emojis = load_data(path="const/emojis.yaml") %}
 {% set empty_obj = []|group_by(key=0) %}
-{#
-1. Group all_names by path ([3]). This gathers aliases ('A' in [2]) with the main page ('P'). Unlinked names will be a group of one.
-2. From each group, find the main page ('P' or 'U'), collect into a list.
-3. Sort that list by sort key
-4. Iterate over sorted list. Emit the main item, then any aliases, which can be found by looking up the path.
-#}
 
 {% set grouped_by_alias = all_names | group_by(attribute="3") %}
 {% set talent_with_pages = all_names | filter(attribute="2", value="P") %}
