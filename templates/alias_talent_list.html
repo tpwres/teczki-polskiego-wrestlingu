@@ -56,23 +56,25 @@
               {% include "roster/person_with_flag.html" %}
               {% include "roster/person_orgs_matches.html" %}
             </span>
-            {% if my_aliases|length == 1 %}</li>{% continue %}{% endif %}
-            <ul>
-              {% for alias in my_aliases %}
-                {% set name = alias[1] %}
-                {% set flavor = alias[2] %}
-                {% if flavor == 'P' %}{% continue %}{% endif %}
-                {% set_global person_name = '<em>' ~ name ~ '</em>' %}
-                {% set_global appearances_entry = appearances | get(key=name, default=[]) %}
-                {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
-                <li>
-                  <span class="pwf">
-                    <a class="nu name" href="{{ get_url(path=page_path) }}">{{ person_name | safe }}</a>
-                    {% include "roster/person_orgs_matches.html" %}
-                  </span>
-                </li>
-              {% endfor %}
-            </ul>
+            {% if my_aliases|length > 1 %}
+              <ul>
+                {% for alias in my_aliases %}
+                  {% set name = alias[1] %}
+                  {% set flavor = alias[2] %}
+                  {% if flavor == 'P' %}{% continue %}{% endif %}
+                  {% set_global person_name = '<em>' ~ name ~ '</em>' %}
+                  {% set_global appearances_entry = appearances | get(key=name, default=[]) %}
+                  {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+                  {% set_global display_match_links = true %}
+                  <li>
+                    <span class="pwf">
+                      <a class="nu name" href="{{ get_url(path=page_path) }}">{{ person_name | safe }}</a>
+                      {% include "roster/person_orgs_matches.html" %}
+                    </span>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
           </li>
         {% elif flavor == 'U' %}
           {% set_global person_name = name %}
