@@ -178,7 +178,7 @@ On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on t
 #### Final Underground, Pawłowski turns heel
 [Underground 25](e/ptw/2024-12-07-ptw-underground-25/) saw two seismic shifts. In the opening segment, Pawłowski confirmed that the show would be the final PTW Underground. To commemorate this series of events, a tournament would be held where the inaugural PTW Underground Champion would be crowned.
 In the main event, featuring [Puncher](@/w/puncher.md) defending his [PTW Championship](@/c/ptw-championship.md) against [Spartan](@/w/spartan.md), Pawłowski shocked the audience by attacking Spartan with a chair, which allowed Puncher to retain - thus turning heel for the first time since his [DDW](@/o/ddw.md) run. Ever since, Pawłowski has dropped his gracious persona and heavily increased his social media presence, going into arguments with "haters" whom he refers to as "basement-dwellers" (_piwniczaki_).
-In another argument at the comment section of the [PTW Facebook page][kasa-okonia], Okoński clarified the extent of his involvement in the promotion, declaring he "put 350&nbsp;000 PLN (roughly 82&nbsp;000 EUR, 68&nbsp;000 GBP or 85&nbsp;000 USD) into PTW".
+In another argument in the comment section of the [PTW Facebook page][kasa-okonia], Okoński clarified the extent of his involvement in the promotion, declaring he "put 350&nbsp;000 PLN (roughly 82&nbsp;000 EUR, 68&nbsp;000 GBP or 85&nbsp;000 USD) into PTW".
 
 ## Polish wrestling scene
 
