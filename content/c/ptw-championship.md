@@ -94,4 +94,10 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md)'
     ed: 2024-12-07
+- - 'Puncher'
+  - '[Max Speed](@/w/max-speed.md)'
+  - s: Singles Match
+    en: '[PTW Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
+    ed: 20245-01-11
+    nc: upcoming
 {% end %}
