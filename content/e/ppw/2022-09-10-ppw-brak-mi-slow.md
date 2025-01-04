@@ -13,7 +13,7 @@ source = "[Official PpW Facebook]"
 +++
 
 {% card() %}
-- ['Jerry "Rich" Mandecky', "[Mister Z](@/w/mister-z.md)", "Ms. XXX", [Biesiad Strong](@/w/biesiad.md) 
+- ['Jerry "Rich" Mandecky', "[Mister Z](@/w/mister-z.md)", "Ms. XXX", "[Biesiad Strong](@/w/biesiad.md)" 
 {g: true, s: Contract signing for PpW Championship match}]
 - ["[Bill Feager](@/w/feager.md)", "[Osamu](@/w/osamu.md)"]
 - ["Feyyaz Aguila", "[Adam Wong](@/w/adam-wong.md)"]
