@@ -18,7 +18,7 @@ source = "[Official PpW Facebook]"
 - - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
   - '[Prince Striker](@/w/royal-striker.md)'
 - - -[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Rob Scaffold](@/w/rob-scaffold.md)-
+  - '[Rob Scaffold](@/w/rob-scaffold.md)'
 - - '[Bill Feager](@/w/feager.md)'
   - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
 - 'Jerry "Rich" Mandecky'
