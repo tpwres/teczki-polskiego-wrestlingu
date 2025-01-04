@@ -28,19 +28,19 @@ Dawid "Puncher" Seńko is a Polish wrestler best known for his time in [Prime Ti
 
 Puncher started training after being encouraged to do so by [Prime Time Wrestling's](@/o/ptw.md) owner, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). He is one of the Pawłowski's project-wrestlers. During the early days of Prime Time Wrestling, Arkadiusz tried to attract many niche influencers and sportsmen to wrestling in order to grow both their careers, help PTW's media presence and build audience interest. Puncher was one of the sportsmen who managed to continue his pro-wrestling training regularly.
 
-Puncher made his debut in PTW's ring at their first show - [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - where he took part in the Battle Royal Match. He quickly got established as one of the most pushed villains - performing as cocky boxer who is able to knock everyone out with one good punch. 
+Puncher made his debut in PTW's ring at their first show - [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - where he took part in the Battle Royal Match. He quickly established himself as one of the most pushed villains - performing as a cocky boxer who is able to knock everyone out with one good punch.
 
 #### Feud with Robert Star
 
-For a good part of 2022 Puncher was running an undefeated streak eliminating every opponent in his way, while simmulatneusly evolving his gimmick into an "anti-influencer" and "anti-clown" persona, with frequent promos which were positively received by the crowd. His streak came to an end when he started a rivalry against [Robert Star](@/w/robert-star.md), who cost him a match against [Marcelito](@/w/marcelito.md) at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md). This led to their match at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) where he defeated Robert in a questionable way after knocking out [Referee Rafał](@/w/alex-brave.md). This allowed for their rivalry to continue for the upcoming months. During that time they were forced to work together as a tag team at [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) where they were defeated by Arrows of Hungary. At [Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) Puncher brutally assaulted [Hunyadi Tamas](@/w/hunyadi-tamas.md) - Robert's tag team partner and friend - which built up heat for their match at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). Robert managed to win this match and defend his Dansk Pro Wrestling Championship, but quietly left the company shortly after, ultimately ending their feud.
+For a good part of 2022, Puncher ran an undefeated streak, eliminating every opponent in his way, while simultaneously evolving his gimmick into an "anti-influencer" and "anti-clown" persona, frequently delivering well-received promos. His streak came to an end when he started a rivalry against [Robert Star](@/w/robert-star.md), who cost him a match against [Marcelito](@/w/marcelito.md) at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md). This led to their match at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) where he defeated Robert in a questionable way after knocking out [Referee Rafał](@/w/alex-brave.md). This allowed for their feud to continue for several more months. During that time they were forced to work together as a tag team at [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md), losing to Arrows of Hungary. At [Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) Puncher brutally assaulted [Hunyadi Tamas](@/w/hunyadi-tamas.md) - Robert's tag team partner and friend - which built up heat for their match at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). Robert managed to win this match and defend his Dansk Pro Wrestling Championship, but quietly left the company shortly after, ultimately ending their feud.
 
-#### PTW Champion 
+#### PTW Champion
 
-After his feud with Star had ended, Puncher continued his victory streak marking himself as one of the most serious contenders for the [PTW Championship](@/c/ptw-championship.md). Puncher became the inaugural PTW champion at [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), in a Gold Rush Rumble Match.
+After his feud with Star had ended, Puncher continued his victory streak, marking himself as one of the most serious contenders for the [PTW Championship](@/c/ptw-championship.md). Puncher became the inaugural PTW champion at [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), in a Gold Rush Rumble Match.
 
 At the following [Underground show](@/e/ptw/2024-04-13-ptw-underground-21.md) he also became champion of PTW's sister promotion WWA, winning the belt from Marius Al-Ani.
 
-At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) Puncher faced the ex-WWE Polish-Nigerian wrestler Baba-Thunder - the match was ruled a no-contest due to an intervention by Sinister Kingdom. This ending was one of the main negative points of the show, which resulted in a huge backlash from fans.
+At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) Puncher faced the ex-WWE Polish-Nigerian wrestler Baba-Thunder. Their match was ruled a no-contest due to an intervention by Sinister Kingdom. This ending was one of the main negative points of the show, which resulted in a huge backlash from the fans.
 
 #### Criticizing the PTW Exits
 
@@ -49,7 +49,7 @@ _See also: [PTW Exits](@/a/ptw-exits.md)._
 After the events of Total Blast, talent started leaving the company, which spurred Puncher's activity on social media, sometimes resulting in quite hostile comments.
 
 On June 5th, he tweeted about a "purge night" happening, indirectly referencing an upcoming wave of releases.
-The next Monday, June 10th, just two days after [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), which saw not only Legia Łysych but also other PTW talent leaving, Puncher declared that "weeds have now been pulled out". 
+The next Monday, June 10th, just two days after [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), which saw not only Legia Łysych but also other PTW talent leaving, Puncher declared that "weeds have now been pulled out".
 During the following days, he continued to refer to the now ex-PTW talent as "weeds", leaking backstage stories of them allegedly being snitches (primarily [Olgierd](@/w/olgierd.md) and [Hammers](@/w/marco-hammers.md)).
 He updated his social media bio text, calling himself the "moral compass of Polish wrestling", and declaring a vision of "Polish wrestling ONLY with borders".
 
@@ -69,16 +69,16 @@ Source: Facebook @PTWpuncher
 
 #### PTW's reboot
 
-After Pan Pawłowski announced that a soft reboot would take place at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), Puncher managed to hold his position as PTW's top heel and Champion. However, due to online altercations, Puncher's reputation among fans has worsened.
+After Pan Pawłowski announced that a soft reboot would take place at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), Puncher managed to keep his position as PTW's top heel and Champion. However, due to online altercations, Puncher lost some of his reputation among the fans.
 
-At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.md) Puncher put Łukasz Okoński, PTW's new co-owner, through a table, resulting in a fine ordered by Pawłowski which was announced at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md). At the same show Puncher barged into the ring and confronted Pawłowski in a work-shoot promo, where he called the PTW owner a liar and "no messiah of Polish wrestling" that Pawłowski claims to be. Arkadiusz responded by calling Puncher an "ungrateful son of a bitch" and claiming that he regrets making him the face of Prime Time Wrestling. In the main event, where Puncher defended his championship against [Spartan](@/w/spartan.md), Pawłowski interrupted and turned heel by hitting Spartan with a chair, ultimately helping Puncher retain his title.
+At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.md) Puncher put Łukasz Okoński, PTW's new co-owner, through a table, forcing GM Pawłowski to discipline him with a fine, announced at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md). At the same show, Puncher barged into the ring and confronted Pawłowski in a work-shoot promo, where he called the PTW owner a liar and "no messiah of Polish wrestling" that Pawłowski claims to be. Arkadiusz responded by calling Puncher an "ungrateful son of a bitch" and claiming that he regrets making him the face of Prime Time Wrestling. In the main event, when Puncher defended his championship against [Spartan](@/w/spartan.md), Pawłowski interrupted and turned heel by hitting Spartan with a chair, ultimately aligning with Puncher and helping him retain the title.
 
 ## In wrestling
 
 * Finishers:
   - _Wylew_ (Superman Punch) (2021-)
   - Fireman's Carry Cutter (2024-)
- 
+
 * Entrance music:
    - "Eye of the Tiger" by Survivor
  {{ org_badge(orgs=['ptw']) }} (2021-) <br>
@@ -93,4 +93,4 @@ At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.m
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (3 times):
     * Wrestler of the Year
     * Speaker of the Year
-    * Finisher of the Year 
+    * Finisher of the Year
