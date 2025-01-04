@@ -18,11 +18,16 @@
 {% set all_emojis = load_data(path="const/emojis.yaml") %}
 {% set empty_obj = []|group_by(key=0) %}
 
+{% set grouped_by_alias = all_names | group_by(attribute="3") %}
+{% set talent_with_pages = all_names | filter(attribute="2", value="P") %}
+{% set unlinked_talent = all_names | filter(attribute="2", value="U") %}
+{% set head_names = [] | concat(with=talent_with_pages) | concat(with=unlinked_talent) | sort(attribute="0") %}
+
 {% for letter in alphabet %}
   {% set_global talents = [] %}
   {% set al = alpha_variants|get(key=letter, default=[letter]) %}
   {% for av in al %}
-    {% for name_pair in all_names %}
+    {% for name_pair in head_names %}
       {% set talent_name = name_pair[1]|replace(from='"', to='')|trim_start_matches(pat='The ') %}
       {% if talent_name is starting_with(av) %}
         {% set_global talents = talents|concat(with=[name_pair]) %}
@@ -36,7 +41,7 @@
       {% for talent in talents %}
         {% set name = talent[1] %}
         {% set flavor = talent[2] %}
-        {% set page_path = talent[3] %}
+        {% set filename = talent[3] %}
         {% set flag = talent[5] %}{# country is at [4] but we don't use it here #}
         {% set_global career_entry = false %}
         {% if flavor == 'P' %}
@@ -44,33 +49,32 @@
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global display_match_links = false %}
-          {% set page_path = "@/" ~ page_path %}
-          <li class="pwf">
-            {% include "roster/person_with_flag.html" %}
-            {% include "roster/person_orgs_matches.html" %}
-          </li>
-        {% elif flavor == 'T' %}
-          {% set career_name = talent[4] %}
-          {% set_global person_name = name %}
-          {% set_global appearances_entry = appearances|get(key=career_name, default=[]) %}
-          {% set_global crew_appearances_entry = crew_appearances|get(key=career_name, default=[]) %}
-          {% set_global display_match_links = false %}
-          {% set page_path = "@/" ~ page_path %}
-          <li class="pwf">
-            {% include "roster/person_with_flag.html" %}
-            {% include "roster/person_orgs_matches.html" %}
-          </li>
-        {% elif flavor == 'A' %}
-          {% set page = get_page(path=page_path) %}
-          {% set career_key = page.extra|get(key='career_name', default=page.title) %}
-          {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
-          {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
-          {% set_global person_name = '<em>' ~ name ~ '</em>' %}
-          {% set_global display_match_links = false %}
-          {% set page_path = "@/" ~ page_path %}
-          <li class="pwf">
-            {% include "roster/person_with_flag.html" %}
-            {% include "roster/person_orgs_matches.html" %}
+          {% set page_path = "@/" ~ filename %}
+          {% set my_aliases = grouped_by_alias | get(key=filename) | sort(attribute="0") %}
+          <li class="{% if my_aliases|length > 1 %}pwa{% endif %}">
+            <span class="pwf">
+              {% include "roster/person_with_flag.html" %}
+              {% include "roster/person_orgs_matches.html" %}
+            </span>
+            {% if my_aliases|length > 1 %}
+              <ul>
+                {% for alias in my_aliases %}
+                  {% set name = alias[1] %}
+                  {% set flavor = alias[2] %}
+                  {% if flavor == 'P' %}{% continue %}{% endif %}
+                  {% set_global person_name = '<em>' ~ name ~ '</em>' %}
+                  {% set_global appearances_entry = appearances | get(key=name, default=[]) %}
+                  {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+                  {% set_global display_match_links = true %}
+                  <li>
+                    <span class="pwf">
+                      <a class="nu name" href="{{ get_url(path=page_path) }}">{{ person_name | safe }}</a>
+                      {% include "roster/person_orgs_matches.html" %}
+                    </span>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
           </li>
         {% elif flavor == 'U' %}
           {% set_global person_name = name %}
