@@ -26,7 +26,7 @@ source = "[Official PpW Facebook]"
   - 'Jerry "Rich" Mandecky'
   - '[Kapitan Bazooka](@/w-kapitan-bazooka.md)'
   - g: true
-    s: 'With Mandecky's and Bazooka's support, Mister Z delivers punishment to Blade. As per the stipulation, he lashes Blade with a cane 10 times.'
+    s: "With Mandecky's and Bazooka's support, Mister Z delivers punishment to Blade. As per the stipulation, he lashes Blade with a cane 10 times."
 - - '[Bill Feager](@/w/feager.md)'
   - 'Alex Berkner'
   - 'Goran'
