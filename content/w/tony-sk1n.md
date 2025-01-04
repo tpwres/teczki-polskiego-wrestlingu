@@ -25,7 +25,7 @@ At [Piwa i Igrzysk](@/e/ppw/2023-03-11-ppw-piwa-i-igrzysk.md) he faced [Ricardo 
 
 Despide his kayfabe leaving PpW, Sk1n made a one-off return, answering [Adam Wong's](@/w/adam-wong.md) Hardcore Open Challenge at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) under the "Black Ninja" alias, with his real identity revealed after the match. 
 
-This angle was never followed up on and after Czyste Intencje, Tony Sk1n quietly left the federation and presumably retired from in-ring competition.
+This angle was never followed up on, and after Czyste Intencje Tony Sk1n quietly left the federation and presumably retired from in-ring competition.
 
 ## In wrestling
 
