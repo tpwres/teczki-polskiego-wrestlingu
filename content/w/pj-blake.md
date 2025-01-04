@@ -34,3 +34,10 @@ After DFW folded its operations PJ Blake have eventually retired from profession
 * Finishers:
   - Tombstone Piledriver (2015-2017)
   - Sit-Out Powerbomb (2017)
+
+* Entrance music:
+  - "Control" by Puddle Of Mudd
+    {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
+    {{ music(yt='I0-lENIRHaM')}}
+    {{ music(spot='575Sz3R4xOhueUstPObylF')}}
+    {{ music(apple='1450664881?i=1450664882')}}
