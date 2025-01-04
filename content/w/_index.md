@@ -11,3 +11,5 @@ Links typeset in _italics_ are aliases used by a character besides their current
 Each name is followed by a list of organizations they appeared for, represented by their logos. If that name appears in less than 5 matches, numbered links to events will be added after each organization logo.
 
 A flag appearing next to the name signifies that person's nationality, if known and relevant. There is also a similar list, but [grouped by country](@/w/by-country.md).
+
+Note that information regarding backyard appearances might not be 100% complete and are subject to change.
