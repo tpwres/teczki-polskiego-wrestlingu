@@ -28,4 +28,4 @@ After Czyste Intencje, Tony Sk1n quietly left the federation and retired from in
 ## In wrestling
 
 * Finishers:
-  - Superkick (2019-2023)
+  - Shining Wizard (2019-2023)
