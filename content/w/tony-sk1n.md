@@ -21,7 +21,7 @@ Tony Sk1n is a retired Polish wrestler, who performed for [PpW](@/o/ppw.md) betw
 
 Tony Sk1n made his official wrestling debut at the first official PpW show open for public - [2Koła to my nie zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md). Since then, he made rather regular appearances at PpW shows between 2021 and 2023. For most of his career he portrayed a heel persona, aligning with [Osamu](@/w/osamu.md).
 
-At [Piwa i Igrzysk](@/e/ppw/2023-03-11-ppw-piwa-i-igrzysk.md) he faced [Ricardo Diesel](@/w/ricardo-diesel.md) in a Loser Leaves PpW Match, in which he was defeated by the Specialist from Pabianice. After that, he only made one more apperance, answering [Adam Wong's](@/w/adam-wong.md) Hardcore Open Challenge at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) under the "Black Ninja" alias, with his real identity revealed after the match.
+At [Piwa i Igrzysk](@/e/ppw/2023-03-11-ppw-piwa-i-igrzysk.md) he faced [Ricardo Diesel](@/w/ricardo-diesel.md) in a Loser Leaves PpW Match, in which he was defeated by the Specialist from Pabianice. After that, he only made one more appearance, answering [Adam Wong's](@/w/adam-wong.md) Hardcore Open Challenge at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) under the "Black Ninja" alias, with his real identity revealed after the match.
 
 After Czyste Intencje, Tony Sk1n quietly left the federation and retired from in-ring competition.
 

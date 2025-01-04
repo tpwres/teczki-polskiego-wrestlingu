@@ -8,7 +8,7 @@ country = ["PL"]
 career_aliases = ["David Sirch"]
 +++
 
-Sinister is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also made a few apperances in [Mine City Wrestling](@/o/mcw.md).
+Sinister is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also made a few appearances in [Mine City Wrestling](@/o/mcw.md).
 
 ## Basic info
 
@@ -24,7 +24,7 @@ Sinister is a Polish wrestler best known for his time in [Prime Time Wrestling](
 
 ### Mine City Wrestling (2018-2019)
 
-Sinister, back then known as David Sirch, debuted in [Mine City Wrestling](@/o/mcw.md) at their [first show](@/e/mcw/2018-12-08-mcw-show-1.md). He made a total of three apperances there, with the highlight of his tenure being a defeat in a Gauntlet Match against [Johny Vegas](@/w/johny-vegas.md) at [MCW's third show](@/e/mcw/2019-09-14-mcw-show-3.md).
+Sinister, back then known as David Sirch, debuted in [Mine City Wrestling](@/o/mcw.md) at their [first show](@/e/mcw/2018-12-08-mcw-show-1.md). He made a total of three appearances there, with the highlight of his tenure being a defeat in a Gauntlet Match against [Johny Vegas](@/w/johny-vegas.md) at [MCW's third show](@/e/mcw/2019-09-14-mcw-show-3.md).
 
 ### Prime Time Wrestling (2021-2024)
 

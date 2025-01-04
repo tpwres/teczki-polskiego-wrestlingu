@@ -29,7 +29,7 @@ career_aliases = ['Kuba Kamiński', 'Jakub "Gruby" Kamiński']
 
 ### PpW Ewenement (2017)
 
-Before his MZW debut, Jacob made a few apperances in [PpW](@/o/ppw.md) back in Warsaw, where he took part in backyard matches against Jake Young and [Hades](@/w/olgierd.md).
+Before his MZW debut, Jacob made a few appearances in [PpW](@/o/ppw.md) back in Warsaw, where he took part in backyard matches against Jake Young and [Hades](@/w/olgierd.md).
 His first stint in PpW was short-lived, as he began his pro wrestling training in MZW's academy in Głuchołazy in 2017.
 
 ### Maniac Zone Wrestling (2017-2021)
@@ -38,7 +38,7 @@ Jacob made his in-ring debut for MZW as "Kuba Kamiński" (his real name) at [MZW
 His first singles match took place during [MZW Project 1: New Beggining](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) in October 2017, where he faced & lost to [Rafael Kid](@/w/rafael-kid.md).
 That marks his debut under the "Jacob Crane" ringname.
 
-Jacob continued his regular MZW apperances up until [Project Basement 3](@/e/mzw/2021-04-30-mzw-project-basement-3.md). He bid his farewell to MZW at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md), where he officially announced his departure from the company.
+Jacob continued his regular MZW appearances up until [Project Basement 3](@/e/mzw/2021-04-30-mzw-project-basement-3.md). He bid his farewell to MZW at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md), where he officially announced his departure from the company.
 Jacob quickly began taking bookings abroad. He made his international debut on a Next Step Wrestling show in October 2018, and continued to make regular appearances in the Central-European independent scene ever since.
 
 ### Prime Time Wrestling (2021-2022)
@@ -50,7 +50,7 @@ Only a year later, almost to the day, on August 12, 2022, PTW's Facebook account
 After this dismissal, Crane posted about [relocating to Germany][aschaffenburg], and focused on his development at the WxW Academy in Oberhausen. He appeared, in minor roles, at several of their shows, including at World Tag Team Festival 2023, and 16 Carat Gold in 2024 where he challenged for the WxW Shotgun Championship. He also appeared several times for [PpW Ewenement](@/o/ppw.md), initially as a surprise contender. Backstage, he also trained PpW's wrestlers.
 
 
-### Return to PpW & International Career (2022-2024) 
+### Return to PpW & International Career (2022-2024)
 
 After his dismissal from PTW, Crane announced his relocation to Germany, in order to focus on bookings in Germany itself (mostly for wXw & wXw Academy).
 He also made a comeback to PpW after over five years of absence, re-debuting in a match against [Steve Kuningas](@/w/steve-kuningas.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) in September 2022.

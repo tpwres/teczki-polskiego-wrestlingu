@@ -22,7 +22,7 @@ Vincent Caravaggio is a Polish pro-wrestler performing for [Prime Time Wrestling
 
 #### Debut and first feuds
 
-Vincent Caravaggio made his debut in December 2023 at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md). From the start he rocked his villainous persona, describing himself as "the Aristocrat from [Wawel][wiki-wawel]". The main part of his gimmick, besides his aristocratic apperance, were long promos, in which he often insulted both his opponents and the crowd, often calling them peasants (_wieśniaki_), and made references to upper-class lifestyle and wealth.
+Vincent Caravaggio made his debut in December 2023 at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md). From the start he rocked his villainous persona, describing himself as "the Aristocrat from [Wawel][wiki-wawel]". The main part of his gimmick, besides his aristocratic appearance, were long promos, in which he often insulted both his opponents and the crowd, often calling them peasants (_wieśniaki_), and made references to upper-class lifestyle and wealth.
 
 Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he's been involved in a storyline where he aligned himself with another heel, [Alex Brave](@/w/alex-brave.md), against the new generation of PTW's babyfaces - [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md).
 

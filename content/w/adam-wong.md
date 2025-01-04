@@ -21,7 +21,7 @@ country = ["PL"]
 
 ### PpW Ewenement Wrestling (2021-2023)
 
-Adam Wong made his official debut at [PpW Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md). He adopted the "Polski Smok" (_Polish Dragon_) gimmick heavily inspired by classic kung-fu movies from 1970s, as well as fighting video games. He was present during the first years of PpW's professional era, making numerous apperances at [PpW](@/o/ppw.md) shows. 
+Adam Wong made his official debut at [PpW Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md). He adopted the "Polski Smok" (_Polish Dragon_) gimmick heavily inspired by classic kung-fu movies from 1970s, as well as fighting video games. He was present during the first years of PpW's professional era, making numerous appearances at [PpW](@/o/ppw.md) shows. 
 
 Due to fast development of PpW and ongoing professionalisation of the roster, especially after the arrival of numerous "Prime Time Transfers" following deals made by [Mister Z](@/w/mister-z.md) in 2023/2024, Adam Wong dropped down the card. Most likely it was caused by his lack of in-ring improvement. At the end of 2023 Adam Wong decided to part ways with PpW.
 

@@ -8,7 +8,7 @@ country = ["PL"]
 career_aliases = ['"Top Gun" Samson']
 +++
 
-Samson is a Polish wrestler best known from his apperances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).
+Samson is a Polish wrestler best known from his appearances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
@@ -29,7 +29,7 @@ Samson made his debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 4](@
 
 #### Samsonito and departure
 
-In 2023 Samson maintained his position in the midcard of most PTW shows. A brief storyline with [Marcelito](@/w/marcelito.md) emerged, when their match at [Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) was disrupted by [Iskra](@/w/iskra.md). A rematch between the two took place at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). At [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md), he faced a member of Sinister Kingdom, [Krampus](@/w/krampus.md). He was then attacked by Dziedzic and [Sinister](@/w/sinister.md), but they were chased off by Marcelito and [Nano Lopez](@/w/nano-lopez.md). This led to Samson allying with Marcelito, to form "Samsonito", who then feuded with Sinister Kingdom. The story was cut short, as Samson made his last apperance for PTW at [Underground 20](content/e/ptw/2023-12-10-ptw-underground-20.md) in December 2023.
+In 2023 Samson maintained his position in the midcard of most PTW shows. A brief storyline with [Marcelito](@/w/marcelito.md) emerged, when their match at [Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) was disrupted by [Iskra](@/w/iskra.md). A rematch between the two took place at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). At [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md), he faced a member of Sinister Kingdom, [Krampus](@/w/krampus.md). He was then attacked by Dziedzic and [Sinister](@/w/sinister.md), but they were chased off by Marcelito and [Nano Lopez](@/w/nano-lopez.md). This led to Samson allying with Marcelito, to form "Samsonito", who then feuded with Sinister Kingdom. The story was cut short, as Samson made his last appearance for PTW at [Underground 20](content/e/ptw/2023-12-10-ptw-underground-20.md) in December 2023.
 
 Shortly after that last appearance, Samson [left PTW](@/a/ptw-exits.md). In an interview published on the "Wrestling Polska" YouTube channel, Samson stated that his departure was caused by a dispute with PTW's owner [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) over finances and overall poor talent treatment from Pawłowski's side. The interview has since been taken down.
 
@@ -47,7 +47,7 @@ This led to the final match in their trilogy at [Co Za Noc](@/e/ppw/2024-10-26-p
 
 ### Maniac Zone Wrestling (2024)
 
-Samson made a one-off apperance in [Maniac Zone Wrestling](@/o/mzw.md), where he faced [Marco Hammers](@/w/marco-hammers.md) at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024.
+Samson made a one-off appearance in [Maniac Zone Wrestling](@/o/mzw.md), where he faced [Marco Hammers](@/w/marco-hammers.md) at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024.
 
 ### Other appearances
 

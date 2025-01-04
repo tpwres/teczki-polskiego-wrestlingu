@@ -40,7 +40,7 @@ During that time, the WiW team was involved in a storyline with [Dream Factory W
 
 #### Training and debut 
 
-Some time after his apperance in DFW, Amisz started regular pro wrestling training at the [Maniac Zone Wrestling](@/o/mzw.md) academy in Głuchołazy. In his proper first match for MZW, he was against [Hexia](@/w/hexia.md) and [Mr B.](@/w/mr-b.md) in a squash match at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md). Amisz continued his training under [Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md) and [Asmund](@/w/asmund.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he debuted his new "Axel Fox" gimmick.
+Some time after his appearance in DFW, Amisz started regular pro wrestling training at the [Maniac Zone Wrestling](@/o/mzw.md) academy in Głuchołazy. In his proper first match for MZW, he was against [Hexia](@/w/hexia.md) and [Mr B.](@/w/mr-b.md) in a squash match at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md). Amisz continued his training under [Justin Joy](@/w/justin-joy.md), [Shadow](@/w/shadow.md) and [Asmund](@/w/asmund.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he debuted his new "Axel Fox" gimmick.
 
 #### Becoming Axel Fox
 
