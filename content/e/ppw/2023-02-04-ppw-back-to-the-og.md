@@ -12,15 +12,14 @@ caption = "Official poster, showing a scene from [Mistrz Jest Tylko Jeden](@/e/p
 source = "[Official PpW Facebook]"
 +++
 
-
 {% card() %}
 - ["[Jacob Crane](@/w/jacob-crane.md)", "[Mister Z](@/w/mister-z.md)"]
 - ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Prince Striker](@/w/royal-striker.md)"]
 - ["[Johnny Blade](@/w/johnny-blade.md)", "[Rob Scaffold](@/w/rob-scaffold.md)"]
 - ["[Bill Feager](@/w/feager.md)", "[Ricardo Diesel](@/w/ricardo-diesel.md)"]
-- "Jerry "Rich" Mandecky"
+- 'Jerry "Rich" Mandecky'
 - g: true
-  s: Mandecky makes main event a Triple Threat Match by inserting Kuningas
+  s: Mandecky makes the main event a Triple Threat Match by inserting Kuningas
 - - "[Biesiad Strong](@/w/biesiad.md)"
   - "[Isnorr](@/w/isnorr.md)"
   - "[Steve Kuningas](@/w/steve-kuningas.md)"
