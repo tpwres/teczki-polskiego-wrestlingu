@@ -30,4 +30,4 @@ Tomasz Warchoł didn't appear in any role in MZW or any other federation. Howeve
 
 ### Return to Maniac Zone Wrestling (2024)
 
-Tomasz made a one-off apperance at [MZW: No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) after nearly 5 years of absence. He hosted a contest where fans could win MZW T-shirts and other merchandise.
+Tomasz made a one-off appearance at [MZW: No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) after nearly 5 years of absence. He hosted a contest where fans could win MZW T-shirts and other merchandise.

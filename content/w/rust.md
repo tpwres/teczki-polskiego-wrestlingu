@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["IT"]
 +++
 
-Rust is an Italian wrestler best known for his apperances in [Prime Time Wrestling](@/o/ptw.md).
+Rust is an Italian wrestler best known for his appearances in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 

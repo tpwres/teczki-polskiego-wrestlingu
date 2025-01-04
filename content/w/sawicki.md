@@ -27,7 +27,7 @@ Sawicki started his professional wrestling career by training in [Do Or Die Wres
 
 After DDW transformed into [Kombat Pro Wrestling](@/o/kpw.md), Sawicki stayed in the federation and made his debut at [KPW Arena 2](@/e/kpw/2016-04-30-kpw-arena-2.md) in April 2016. He debuted in a heel gimmick of a security guard. He quickly aligned himself with [Rosetti](@/w/rosetti.md), with whom he performed for a good part of his tenure in KPW. They managed to find success in the federation's tag team division by becoming the first [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md). Along with Rosetti, Sawicki belonged to [Piękny Kawaler's](@/w/piekny-kawaler.md) villainous stable - Kawaleria.
 
-After Sawicki & Rosetti's defeat at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md), Rosetti turned on his long-time tag team partner and attacked him with a chair. This marks Sawicki's last apperance in KPW, as he left the federation to join the [brand-new project](@/o/ptw.md) started by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
+After Sawicki & Rosetti's defeat at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md), Rosetti turned on his long-time tag team partner and attacked him with a chair. This marks Sawicki's last appearance in KPW, as he left the federation to join the [brand-new project](@/o/ptw.md) started by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 
 ### Prime Time Wrestling (2021)
 

@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
-Sędzia Matek is a Polish wrestling referee best known from his time in [Prime Time Wresling](@/o/ptw.md) from 2021 to 2022. He also made a few apperances in [PpW Ewenement](@/o/ppw.md).
+Sędzia Matek is a Polish wrestling referee best known from his time in [Prime Time Wresling](@/o/ptw.md) from 2021 to 2022. He also made a few appearances in [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
@@ -20,7 +20,7 @@ Sędzia Matek is a Polish wrestling referee best known from his time in [Prime T
 
 ### PpW Ewenement (2019-2020)
 
-Referee Matek made his debut at [PpW's](@/o/ppw.md) first-ever open to public event - [2KOŁA To My Nie Zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md). After that he made yet another apperance at [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), which was his final one in PpW.
+Referee Matek made his debut at [PpW's](@/o/ppw.md) first-ever open to public event - [2KOŁA To My Nie Zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md). After that he made yet another appearance at [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), which was his final one in PpW.
 
 ### Prime Time Wrestling (2021-2022)
 

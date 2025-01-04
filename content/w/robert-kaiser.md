@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["DE"]
 +++
 
-Robert Kaiser is a German wrestler best known for his apperances in [Maniac Zone Wrestling](@/o/mzw.md) between 2014 and 2016.
+Robert Kaiser is a German wrestler best known for his appearances in [Maniac Zone Wrestling](@/o/mzw.md) between 2014 and 2016.
 
 ## Basic info
 

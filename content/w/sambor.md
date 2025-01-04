@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
-Sambor is a Polish wrestler best known from his apperances in [Prime Time Wresling](@/o/ptw.md), as well as [PpW Ewenement](@/o/ppw.md). He also wrestled for [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
+Sambor is a Polish wrestler best known from his appearances in [Prime Time Wresling](@/o/ptw.md), as well as [PpW Ewenement](@/o/ppw.md). He also wrestled for [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 

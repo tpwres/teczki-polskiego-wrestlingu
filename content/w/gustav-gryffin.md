@@ -51,7 +51,7 @@ With Team Zmowa eventually losing to Team Zmowa Przeciwko Zmowie in a Ustawka (_
 ### Maniac Zone Wrestling (2023-present)
 
 Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the joint show [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he defeated Chris Cage in a Singles Match.
-He later made another apperance over a year later at the next MZW show, [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). Contrary to his PpW reception, in MZW he is portrayed as a babyface persona, without any dramatic changes to his gimmick.
+He later made another appearance over a year later at the next MZW show, [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). Contrary to his PpW reception, in MZW he is portrayed as a babyface persona, without any dramatic changes to his gimmick.
 
 ### Legacy of Wrestling (2024)
 

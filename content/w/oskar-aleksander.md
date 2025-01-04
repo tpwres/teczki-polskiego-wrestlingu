@@ -30,17 +30,15 @@ Oskar made his debut as one of the contenders in Johnny Blade's Insane Wheel of 
 
 After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) and [Aron Wake](@/w/aron-wake.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a post-match promo he declared that he earned the right to decide what his ringname would be.
 Since then he would be billed as "Oskar Aleksander". At the same show in a backstage interview he become affiliated with an unnamed female "Talent Agent", who became his manager.
-Besides his regular apperances as Oskar Aleksander he also performed as "Oskar Strong" - [Biesiad Strong's](@/w/biesiad.md) parody - at the non-canon [SplatFilmFest](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md) show.
+Besides his regular appearances as Oskar Aleksander he also performed as "Oskar Strong" - [Biesiad Strong's](@/w/biesiad.md) parody - at the non-canon [SplatFilmFest](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md) show.
 
 ## In wrestling
 
 * Finishers:
   - Powerbomb
   - Boston Crab
-  
 * Managers:
   - Talent Agent
-  
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
  {{ org_badge(org='ppw') }} (2024-present) <br>

@@ -125,7 +125,7 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 * [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) enters the ring.
 * The first one to enter the ring is Flamingo from Italy.
 * The second one is Pedro, also an Italian.
-* The third contender is Blaze, who's made a couple of apperances in PTW before.
+* The third contender is Blaze, who's made a couple of appearances in PTW before.
 * The match goes for about 7 minutes with the simple structure of a triple threat match. Flamingo and Pedro are portrayed as mostly heel-leaning characters working together against Blaze, due to fact that they are both Italian-born. Finally Blaze overcomes them after hitting his finishing move on Flamingo.
 * Winner: Blaze by pinfall.
 

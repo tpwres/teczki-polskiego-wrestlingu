@@ -6,7 +6,7 @@ authors = ["Sewi the Referee"]
 country = ["PL"]
 +++
 
-TAXI Złotówa is a micro-influencer and freakfighter-turned-wrestler, who was most notable for his irregular apperances in [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024.
+TAXI Złotówa is a micro-influencer and freakfighter-turned-wrestler, who was most notable for his irregular appearances in [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024.
 
 ## Basic info
 
@@ -24,11 +24,11 @@ TAXI Złotówa is one of the Polish microinfluencers who became best known for h
 
 ### Feud with Pawłowski
 
-TAXI Złotówa made his debut at PTW's first official show, [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), where he quickly defeated Marcel Budzianowski, who would be later called [Marcelito](@/w/marcelito.md). Złotówa was portrayed as a comedy heel character who demanded a fight with well-known influencers such as [Mariusz Pudzianowski][pudzian], and called Pawłowski a con man for constantly tricking him. He then tried to attack Pawłowski at [Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), but his offensive was repelled by PTW's owner. Złotówa was subsequently suspended from PTW, which led him to make desperate attempts to get his job back. Shortly after that Złotówa had stopped making regular apperances at [PTW Academy](@/o/ptw-academy.md).
+TAXI Złotówa made his debut at PTW's first official show, [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), where he quickly defeated Marcel Budzianowski, who would be later called [Marcelito](@/w/marcelito.md). Złotówa was portrayed as a comedy heel character who demanded a fight with well-known influencers such as [Mariusz Pudzianowski][pudzian], and called Pawłowski a con man for constantly tricking him. He then tried to attack Pawłowski at [Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), but his offensive was repelled by PTW's owner. Złotówa was subsequently suspended from PTW, which led him to make desperate attempts to get his job back. Shortly after that Złotówa had stopped making regular appearances at [PTW Academy](@/o/ptw-academy.md).
 
-His next apperance at a PTW show was in the role of a hired private security guard of [Gabriel Queen](@/w/gabriel-queen.md) at [PTW #2: Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md). During the match of his employer against Joe Hendry, he got involved by carelessly hitting Joe with a low blow right in front of [Referee Seweryn](@/w/sedzia-seweryn.md), which caused many controversies. However Gabriel lost his match despite the help from Złotówa, and fired him from his role as security guard.
+His next appearance at a PTW show was in the role of a hired private security guard of [Gabriel Queen](@/w/gabriel-queen.md) at [PTW #2: Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md). During the match of his employer against Joe Hendry, he got involved by carelessly hitting Joe with a low blow right in front of [Referee Seweryn](@/w/sedzia-seweryn.md), which caused many controversies. However Gabriel lost his match despite the help from Złotówa, and fired him from his role as security guard.
 
-He made yet another apperance in a segment at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where he was wearing a penguin mascot costume - that of Kinguin, PTW's sponsor. He managed to enter the ring and ask Pawłowski to reinstate him, but the request was denied, and Złotówa was dragged out by security personnel.
+He made yet another appearance in a segment at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where he was wearing a penguin mascot costume - that of Kinguin, PTW's sponsor. He managed to enter the ring and ask Pawłowski to reinstate him, but the request was denied, and Złotówa was dragged out by security personnel.
 
 Złotówa made his last appearance over a year later at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) where he entered the Gold Rush Rumble Match for the [PTW Championship](@/c/ptw-championship.md), but was eliminated by Marcelito - the very same man whom he had defeated in his debut.
 

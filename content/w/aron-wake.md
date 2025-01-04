@@ -28,14 +28,14 @@ During the COVID-19 pandemic he become one of the regularly-appearing workers in
 In the [final episode](@/e/mzw/2021-07-21-mzw-project-basement-6.md) he won a 7-man gauntlet match for the Project Basement trophy, which was awarded to him at the first MZW show after the pandemic, [MZW Project 8: Golden Road FINALS](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 Along with the trophy, he earned the opportunity to compete in a tournament for [MZW Championship](@/c/mzw-championship.md), first winning against Nick Schreier in semi-finals just to be defeated by [Rafael Kid](@/w/rafael-kid.md). This was his final show in his first stint in MZW, as he left company in October 2021.
 
-During that time he also made a one-time apperance at [PpW Supershow 2021](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) where he defeated [Rob Scaffold](@/w/rob-scaffold.md).
+During that time he also made a one-time appearance at [PpW Supershow 2021](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) where he defeated [Rob Scaffold](@/w/rob-scaffold.md).
 
 ### Prime Time Wrestling and injury (2022-2024)
 
 After leaving MZW, Aron followed most of [The Greens](@/a/the-greens.md) faction, who decided to make a jump to [Prime Time Wrestling](@/o/ptw.md).
 He made his debut at [Underground #5](@/e/ptw/2022-05-29-ptw-underground-5.md), defeating [Vic Golden](@/w/vic-golden.md).
 During his second match at [Underground #6](@/e/ptw/2022-06-26-ptw-underground-6.md) he suffered a near career-ending collarbone and shoulder injury.
-Since that moment he made only one official apperance at [PTW x RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md), cutting a short promo.
+Since that moment he made only one official appearance at [PTW x RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md), cutting a short promo.
 He continued to appear in the crowd during PTW shows, but ultimately [left the federation](@/a/ptw-exits.md) shortly after [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 
 ### Comeback (2024)

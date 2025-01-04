@@ -17,12 +17,12 @@ career_aliases = ['Marcel "Marcelito" Budzianowski', 'Marcel Budzianowski']
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
- 
+
 ## Professional wrestling career
 
 ### Prime Time Wrestling (2021-2024)
 
-#### Debut and lowcard apperances
+#### Debut and lowcard appearances
 
 Marcelito started his training in PTW Academy in early 2021 while the federation was still preparing to reveal themselves to the public. Alongside [Taras](@/w/taras.md), [Puncher](@/w/puncher.md) and a few others, he was one of the first alumni of the Silesia-based pro-wrestling school.
 

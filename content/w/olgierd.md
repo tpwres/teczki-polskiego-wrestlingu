@@ -69,7 +69,7 @@ Shortly after his return to PpW he joined ["Zmowa"](@/a/the-collusion.md), a vil
 
 ### Return to Maniac Zone Wrestling (2024)
 
-In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - had returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/a/the-greens.md) made their apperance an an MZW show.
+In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - had returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/a/the-greens.md) made their appearance an an MZW show.
 
 ### Legacy of Wrestling (2024)
 
