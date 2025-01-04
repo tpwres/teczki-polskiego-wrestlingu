@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["ENGLAND"]
 +++
 
-Primate is an English wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also made a one-time apperance in [Prime Time Wrestling](@/o/ptw.md).
+Primate is an English wrestler best known for his NXT UK run. In Poland he mainly wrestled for [Kombat Pro Wrestling](@/o/kpw.md). He also made a one-time apperance in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
