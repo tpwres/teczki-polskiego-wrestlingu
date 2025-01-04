@@ -24,6 +24,9 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 - - "[Ricardo Diesel](@/w/ricardo-diesel.md)"
   - "[Tony Sk1n](@/w/tony-sk1n.md)"
   - s: "Loser Leaves PpW Match"
+- ["[Johnny Blade](@/w/johnny-blade.md)", "[Kapitan Bazooka](@/w/kapitan-bazooka.md)", 'Jerry "Rich" Mandecky',
+g: true,
+s: Blade confronts Mandecky who introduces Bazooka as his new bodyguard]
 - ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Johnny Blade](@/w/johnny-blade.md)"]
 - ["[Biesiad Strong](@/w/biesiad.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
 - credits:
