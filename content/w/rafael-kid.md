@@ -44,8 +44,13 @@ Rafael Kid made his debut in [PpW Ewenement](@/o/ppw.md) at [PpW Brak Mi Słów]
   - Dragon Sleeper (2016)
  
 * Entrance music:
-  - "Final Countdown" by Europe
+  - "Can You Feel My Heart" by Bring Me The Horizon
     {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
+    {{ music(yt='QJJYpsA5tv8')}}
+    {{ music(spot='1PInWkBARsxLyouDqa2GtF')}}
+    {{ music(apple='609257426?i=609257427')}}
+  - "Final Countdown" by Europe
+    {{ org_badge(orgs=['dfw']) }} (2017) <br>
     {{ music(yt='9jK-NcRmVcw')}}
     {{ music(spot='3MrRksHupTVEQ7YbA0FsZK')}}
     {{ music(apple='1635636172?i=1635638269')}}
