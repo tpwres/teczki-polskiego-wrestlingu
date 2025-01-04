@@ -31,7 +31,7 @@ source = "[Official PpW Facebook]"
 - - '[Biesiad Strong](@/w/biesiad.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-  - s: Hardcore Match
+    s: Hardcore Match
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Viking'
