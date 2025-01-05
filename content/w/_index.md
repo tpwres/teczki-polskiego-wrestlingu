@@ -12,4 +12,4 @@ Each name is followed by a list of organizations they appeared for, represented 
 
 A flag appearing next to the name signifies that person's nationality, if known and relevant. There is also a similar list, but [grouped by country](@/w/by-country.md).
 
-Note that information regarding backyard appearances might not be 100% complete and are subject to change.
+Note that information regarding backyard appearances might not be 100% complete and is subject to change.
