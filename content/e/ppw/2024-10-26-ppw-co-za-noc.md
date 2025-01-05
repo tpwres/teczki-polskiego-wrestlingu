@@ -74,7 +74,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
-    Commentary: '"Modzel" Szymon Modzelewski, Mateusz "Orzech" Orzechowski'
+    Commentary: 'Szymon "Modzel" Modzelewski, Mateusz "Orzech" Orzechowski'
     Interviews: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
 {% end %}
 
