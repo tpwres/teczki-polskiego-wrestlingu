@@ -23,7 +23,7 @@ Only two matches were held, with the main event seeing Norris defend his champio
   - s: Last Man Standing Match
     c: '[DFW Championship](@/c/dfw-championship.md)'
 - credits:
-    Commentary: 'Mateusz Mikołajczak, Stanisław Stachowiak'
+    Commentary: '[Mateusz Mikołajczak](@/w/sedzia-matek.md), Stanisław Stachowiak'
 {% end %}
 
 #### Recap
