@@ -13,21 +13,33 @@ source = "[Official PpW Facebook]"
 +++
 
 {% card() %}
-- ["[Bill Feager](@/w/feager.md)", "[Osamu](@/w/osamu.md)"]
-- ["Feyyaz Aguila", "[Adam Wong](@/w/adam-wong.md)"]
-- ["[Isnorr](@/w/isnorr.md)", "[Rafael Kid](@/w/rafael-kid.md)", {s: "Open Challenge"}]
-- ["[Steve Kuningas](@/w/steve-kuningas.md)", "[Jacob Crane](@/w/jacob-crane.md)"]
-- - "[Biesiad Strong](@/w/biesiad.md)(c)"
-  - "[Mister Z](@/w/mister-z.md)"
-  - {c: "[PpW Championship](@/o/ppw.md#championships)", s: Hardcore Match}
-- - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "[Johnny Blade](@/w/johnny-blade.md)"
-  - "Viking"
-  - c: "[PpW European Ultraviolent Championship](@/o/ppw.md#championships)"
-    s: "Three Way Match"
-- - "Viking"
-  - "[Johnny Blade](@/w/johnny-blade.md)(c)"
-  - c: VcV Hardcore Championship
+- - 'Jerry "Rich" Mandecky'
+  - '[Mister Z](@/w/mister-z.md)'
+  - 'Ms. XXX"'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - g: true
+    s: 'Contract signing for PpW Championship match'
+- - '[Bill Feager](@/w/feager.md)'
+  - '[Osamu](@/w/osamu.md)'
+- - 'Feyyaz Aguila'
+  - '[Adam Wong](@/w/adam-wong.md)'
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Rafael Kid](@/w/rafael-kid.md)'
+  - s: 'Open Challenge'
+- - '[Steve Kuningas](@/w/steve-kuningas.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)(c)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: Hardcore Match
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Viking'
+  - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+    s: 'Three Way Match'
+- - 'Viking'
+  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+  - c: 'VcV Hardcore Championship'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'

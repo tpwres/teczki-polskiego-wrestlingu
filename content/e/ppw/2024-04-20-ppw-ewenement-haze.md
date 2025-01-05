@@ -306,7 +306,7 @@ Dobroniak celebrates over laid out opponent and referee and makes his leave. Bla
 
 #### Finale
 
-Michael HT is reluctant to enter the ring once again, but eventually decides to. He announces that Jerry Rich Mandecky has been driven away outside Warsaw by a masked assailant named Kapitan Bazooka. He announces the next show, [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), "soon".
+Michael HT is reluctant to enter the ring once again, but eventually decides to. He announces that Jerry "Rich" Mandecky has been driven away outside Warsaw by a masked assailant named Kapitan Bazooka. He announces the next show, [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), "soon".
 
 Additional interviews, once again conducted by Joker:
 
