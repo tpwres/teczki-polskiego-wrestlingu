@@ -53,7 +53,7 @@ This broke Bazooka's undefeated streak.
 
 Bazooka's only other singles match after May 2023 was against [Kapral Kornel](@/w/sedzia-kornel.md) at [PpW Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md) in November.
 On that event, he also appeared in two multi-man matches.
-His next and final appearance was at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#segment-kapitan-bazooka-jerry-rich-mandecki) in April 2024.
+His next and final appearance was at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#segment-kapitan-bazooka-jerry-rich-mandecky) in April 2024.
 Mandecky entered the ring, followed by Bazooka in urban camo and a black vest with a "SECURITY" badge on his chest, wearing a black skull cap and a face mask with a skull motif. Their entrance music wasn't Mandecky's or Bazooka's usual themes, but Iron Maiden's "The Trooper".
 Initially still appearing to work for Mandecky, Bazooka helped him enter the ring, and saluted Mandecky after both of them took a look at the beaten [Mister Z](@/w/mister-z.md) in the corner.
 However, while the two were saluting each other, Bazooka turned his salute into a middle finger gesture to Mandecky. With the crowd reacting wildly, he then delivered a gut kick and stunner to his now former boss and removed his cap, mask and vest, revealing a new set of gear underneath.
