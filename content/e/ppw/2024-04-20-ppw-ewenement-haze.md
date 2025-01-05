@@ -56,7 +56,7 @@ The foreign guests for this event were:
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: "[PpW Championship](@/c/ppw-championship.md)"
-- - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), Jerry "Rich" Mandecki'
+- - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), Jerry "Rich" Mandecky'
   - g: true
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
@@ -65,7 +65,7 @@ The foreign guests for this event were:
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
-    Commentary: 'Szymon Modzelewski, [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
+    Commentary: 'Szymon "Modzel" Modzelewski, [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 
 ### Full report
@@ -236,7 +236,7 @@ Winner and still PpW Champion: Bill Feager
 Feager celebrates in the ring with the championship and slowly makes his leave.
 With him still on the ramp, Iron Maiden's "The Trooper" starts playing.
 
-#### Segment: Kapitan Bazooka, Jerry "Rich" Mandecki
+#### Segment: Kapitan Bazooka, Jerry "Rich" Mandecky
 
 Timestamp: `3:53:35`
 
