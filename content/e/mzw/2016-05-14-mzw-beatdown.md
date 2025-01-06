@@ -29,7 +29,7 @@ source = "?"
   - c: MZW Championship
     s: Loser Leaves Town Match
 - credits:
-    Commentary: 'Adam "Omega" Sekuła, Wojciech "Vice" Baranowski'
+    Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), Marcel Koniecki'
 {% end %}
 
 ## References
