@@ -25,15 +25,22 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 * The stipulation for the match between Stanisław Van Dobroniak and Isnorr was given to a popular vote via a poll on PpW's officiall Instagram - a first in Polish pro wrestling. In a comment, Dobroniak asked fans to vote for the Bra and Panties Match. Various options were given, each referencing a video game. Eventually "Donky Kong Weaponmaster Match" won - in this type of match, Donky Kong mascot will deliver the weapons at set moments of the match. PpW made it clear that despite uncanny likeness, this character is not _Donkey_ Kong - which belongs to Nintendo.
 * On 2.01.2025 [Goblin](@/w/goblin.md) posted a reel, in which he recapped [Olgierd](@/w/olgierd.md)'s interferences in his "sacred" rivalry against [Gustav Gryffin](@/w/gustav-gryffin.md). He likened it to a fictional scenario where Władysław Jagiełło and Ulrich von Jungingen face off for the [Battle of Grunwald][bitwa-pod-grunwaldem], only to be met with Genghis Khan interfering - in this case, the "stupid Mongolian" would be Olgierd. He dared Olgierd to make good on his promises to "end" Goblin and "make Goblin his bitch" - presumably challenging for a match at Gruba Przesada.
 * On 3.01.2025, [Mister Z](@/w/mister-z.md) and Gustav Gryffin posted a video where they recapped 2024 and made promises for 2025. They extended threats to most babyfaces on the roster, as well as an offer for [Axel Fox](@/w/axel-fox.md) to join [Zmowa](@/a/the-collusion.md) and finally get on the winning side. A day later PpW confirmed on their Facebook that Fox would make his decision at Gruba Przesada - presumably in an in-ring segment.
+* On 6.01.2025 PpW announced a Gauntler Survivor Challange match, in which [Goblin](@/w/goblin.md) is set to face a number of opponents. If he loses even one fight, he is said to be forcibly sent to [Monar][monar] for six months.
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
+    nc: upcoming
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: 'Donky Kong Weaponmaster Match'
     n: 'Stipulation selected by fans on social media'
+    nc: upcoming
+- - '[Goblin](@/w/goblin.md)'
+  - '???'
+  - s: Gauntlet Survivor Challenge
+    nc: upcoming
 {% end %}
 
 ### References
@@ -46,3 +53,4 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 * [Facebook post - Fox's decision](https://www.facebook.com/share/p/15TDKLcbE6/)
 
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
+[monar]: https://en.wikipedia.org/wiki/Monar
