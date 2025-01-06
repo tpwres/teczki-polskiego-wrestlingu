@@ -21,7 +21,7 @@ Pete Dunne is an English wrestler from Birmingham, best known for his runs in NX
 
 ### Do or Die Wrestling (2012)
 
-Pete Dunne made his one-off apperance in Poland at [Do Or Die Wrestling](@/o/ddw.md) double-header shows held in March 2012. At [first night](@/e/ddw/2012-03-09-ddw-6.md) he was defeated by [Klarys](@/w/klarys.md) in a Singles Match. At [second show](@/e/ddw/2012-03-10-ddw-7.md) he took part in 6-Man Tag Team Match, where his team got defeated by [Jędruś Bułecka](@/w/jedrus-bulecka.md), Klarys and [Mark Andrews](@/w/mark-andrews.md).
+Pete Dunne made his one-off apperance in Poland at [Do Or Die Wrestling's](@/o/ddw.md) double-header shows held in March 2012. At the [first night](@/e/ddw/2012-03-09-ddw-6.md) he was defeated by [Klarys](@/w/klarys.md) in a Singles Match. At the [second show](@/e/ddw/2012-03-10-ddw-7.md) he took part in a Six Man Tag Team Match, where his team was defeated by [Jędruś Bułecka](@/w/jedrus-bulecka.md), Klarys and [Mark Andrews](@/w/mark-andrews.md).
 
 ## In wrestling
 
