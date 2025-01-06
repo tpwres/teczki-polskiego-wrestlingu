@@ -5,7 +5,7 @@ authors = ["Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "kpt-bazooka-i-mandec.jpg", caption = "Kapitan Bazooka and Mandecky saluting each other, seconds before Bazooka's turn.", source = "M3n747" }
+1 = { path = "kpt-bazooka-i-mandec.jpg", caption = "Kapitan Bazooka and [Jerry Mandecky](@/w/jerry-mandecky.md) saluting each other, seconds before Bazooka's turn.", source = "M3n747" }
 +++
 
 Kapitan Bazooka is a retired wrestler, competing for [PpW](@/o/ppw.md) between 2022 and 2024.
@@ -40,7 +40,7 @@ The video appeared with distortions and washed-out color as if recorded off TV w
 Bazooka sits in front of a grey wall, in his combat uniform, balaclava and beret, and reads a statement from a memo pad.
 His words, and the video's aesthetic, directly reference the infamous [December 13, 1981 announcement][youtube-jaruzelski] when First Secretary and Army General Wojciech Jaruzelski interrupted children's TV programming and declared [martial law in Poland][wikipedia-martial-law-poland] in reaction to a massive wave of strike action and the threat of Soviet intervention.
 
-During [Piwa i Igrzysk](@/e/ppw/2023-03-11-ppw-piwa-i-igrzysk.md), in a [segment][mandecki-johnny-segment] between [Johnny Blade](@/w/johnny-blade.md) and PpW's kayfabe owner and authority figure at that time, Jerry "Rich" Mandecky, the latter announced Johnny's opponent to be his new bodyguard, Kapitan Bazooka.
+During [Piwa i Igrzysk](@/e/ppw/2023-03-11-ppw-piwa-i-igrzysk.md), in a [segment][mandecki-johnny-segment] between [Johnny Blade](@/w/johnny-blade.md) and PpW's kayfabe owner and authority figure at that time, [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md), the latter announced Johnny's opponent to be his new bodyguard, Kapitan Bazooka.
 Bazooka entered the ring in slightly updated gear: his green vest now painted with a white skull motif similar to the comic book antihero Punisher, with facepaint to match, and proceeded to viciously attack Johnny without waiting for the bell to ring.
 Later that same night, Mandecky confronted [Biesiad](@/w/biesiad.md), who successfully defended his [PpW Championship](@/c/ppw-championship.md) title against [Steve Kuningas](@/w/steve-kuningas.md).
 He stated that Biesiad should not be too happy about his defense, because he'd be defending his title against Bazooka on the next show, which was [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md) two months later.
