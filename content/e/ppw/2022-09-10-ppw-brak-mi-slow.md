@@ -15,7 +15,7 @@ source = "[Official PpW Facebook]"
 {% card() %}
 - - 'Jerry "Rich" Mandecky'
   - '[Mister Z](@/w/mister-z.md)'
-  - 'Ms. XXX"'
+  - 'Ms. XXX'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - g: true
     s: 'Contract signing for PpW Championship match'
