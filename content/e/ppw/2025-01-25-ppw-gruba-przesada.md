@@ -52,5 +52,6 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 * [Instagram reel - Mister Z and Gustav Gryffin recap 2024](https://www.instagram.com/reel/DEXqo47K6Is/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * [Facebook post - Fox's decision](https://www.facebook.com/share/p/15TDKLcbE6/)
 * [Monar website - scope](https://www.monar.org/o-nas/czym-sie-zajmujemy/)
+
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [monar]: https://en.wikipedia.org/wiki/Monar
