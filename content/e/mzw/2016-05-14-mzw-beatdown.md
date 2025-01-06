@@ -8,8 +8,16 @@ venue = ["gosir-glucholazy"]
 city = "Głuchołazy"
 [extra.gallery.1]
 path = "plakat.webp"
-caption = "Justin Joy on the offical poster."
-source = "?"
+caption = "[Justin Joy](@/w/justin-joy.md) on the offical poster."
+source = "Official MZW Facebook"
+[extra.gallery.2]
+path = "2016-05-14-mzw-beatdown-dvd-front.jpg"
+caption = "Front cover of the official DVD with the event, featuring [Justin Joy](@/w/justin-joy.md)."
+source = "Showoff @ Twitter"
+[extra.gallery.3]
+path = "2016-05-14-mzw-beatdown-dvd-back.jpg"
+caption = "Back cover of the offical DVD, listing the commentator."
+source = "Showoff @ Twitter"
 +++
 
 {% card() %}
