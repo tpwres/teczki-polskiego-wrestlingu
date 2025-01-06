@@ -21,23 +21,23 @@ Piękny Kawaler (roughly _Beautiful Bachelor_, or _Lovely Lad_) is a Polish wres
   - Mikey Whiplash
   - Big Damo
   - [Don Roid](@/w/don-roid.md)
- 
+
 ## Professional wrestling career
 
 ### Do Or Die Wrestling (2013-2015)
 
 Piękny Kawaler started his wrestling career by training in the Source Wrestling School in Glasgow where he worked as a babyface.
-After returning to Poland he joined [Do Or Die Wrestling](@/o/ddw.md) where he gained notoriety as a heel, known for his eccentric promos. In 2015 he formed a heel stable called "Kawaleria" (_The Cavalry_), with [Luxus](@/w/luxus.md) and [Greg](@/w/greg.md) as his subordinates. 
+After returning to Poland he joined [Do Or Die Wrestling](@/o/ddw.md) where he gained notoriety as a heel, known for his eccentric promos. In 2015 he formed a heel stable called "Kawaleria" (_The Cavalry_), with [Luxus](@/w/luxus.md) and [Greg](@/w/greg.md) as his subordinates.
 
 ### Kombat Pro Wrestling (2015-present)
 
-After DDW transfered into [Kombat Pro Wrestling](@/o/kpw.md), Kawaler stayed in the federation eventually becoming one of the most prominent characters in KPW. He remained the leader of Kawaleria and defeated [Kamil Aleksander](@/w/kamil-aleksander.md) to become the first ever [KPW Champion](@/c/kpw-championship.md). 
+After DDW transformed into [Kombat Pro Wrestling](@/o/kpw.md), Kawaler stayed in the federation, eventually becoming one of the most prominent characters in KPW. He remained the leader of Kawaleria and defeated [Kamil Aleksander](@/w/kamil-aleksander.md) to become the first ever [KPW Champion](@/c/kpw-championship.md).
 
 #### KPW Champion and feud with Robert Star
 
-After his victory over Kamil Aleksander, Piękny Kawaler ran a successful campagin of numerous championship defences over international wrestlers such as Elliott Jordan, Pastor William Eaver or Wild Boar. In March 2018 at [Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md) Kawaler, along with his stable, have officialy established themselves as opponents for the babyface faction under [Robert Star's](@/w/robert-star.md) leadership, called "Sojusz" (_The Alliance_). At the next show - [Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md) - Kawaler faced Robert for his KPW Championship in a Lumberjack Match. He managed to defeat The Polish Stallion, but eventually lost the championship to [Ron Corvus](@/w/ron-corvus.md), who won a title match contract earlier the same night. 
+After his victory over Kamil Aleksander, Piękny Kawaler ran a successful campagin of numerous championship defences over international wrestlers such as Elliott Jordan, Pastor William Eaver or Wild Boar. In March 2018 at [Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md) Kawaler, along with his stable, officialy established themselves as opponents for the babyface faction under [Robert Star's](@/w/robert-star.md) leadership, called "Sojusz" (_The Alliance_). At the next show - [Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md) - Kawaler faced Robert for his KPW Championship in a Lumberjack Match. He managed to defeat The Polish Stallion, but eventually lost the championship to [Ron Corvus](@/w/ron-corvus.md), who won a title match contract earlier the same night.
 
-Despite the loss of his championship, Kawaler managed to earn another asset - Robert's defeat meant that he was forced to join Kawaleria. They even managed to got into a Semi-Finals Match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), but were disqualified after Kawaler was found to be under the influence, and were suspended after assaulting a referee. During that suspention period Kawaler ran for the position of Kombat Pro Wrestling's chairman, ultimately losing to [Krystian Malinowski](@/w/krystian-malinowski.md) at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md). At the same show Robert Star managed to win the KPW Championship. Kawaler - still acting as Robert's leader - claimed the championship as his own. This resulted in Robert finally breaking free from Kawaleria, but also in him being released from KPW for breaking the deal between him and Kawaler.
+Despite the loss of his championship, Kawaler managed to earn another asset - Robert's defeat meant that he was forced to join Kawaleria. They even managed to got into a Semi-Finals Match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), but were disqualified after Kawaler was found to be under the influence, and were suspended after assaulting a referee. During that suspension period, Kawaler ran for the position of Kombat Pro Wrestling's chairman, ultimately losing to [Krystian Malinowski](@/w/krystian-malinowski.md) at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md). At the same show Robert Star managed to win the KPW Championship. Kawaler - still acting as Robert's leader - claimed the championship as his own. This resulted in Robert finally breaking free from Kawaleria, but also in him being released from KPW for breaking the deal between him and Kawaler.
 
 At [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) Piękny Kawaler once again stood against his career-long nemesis, Robert Star. This time it was a KPW Championship Career vs Career Last Man Standing Match. Piękny Kawaler lost this bout, and later on was backstabbed by his long-time allies from Kawaleria. This marks his final official apperance in Kombat Pro Wrestling.
 
