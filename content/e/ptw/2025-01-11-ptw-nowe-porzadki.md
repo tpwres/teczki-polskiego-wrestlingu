@@ -30,6 +30,9 @@ On January 3rd 2025, PTW announced on their [Facebook][fb-puncher] that Puncher 
   - '[Max Speed](@/w/max-speed.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
+- - '[Spartan](@/w/spartan.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - nc: upcoming
 {% end %}
 
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
