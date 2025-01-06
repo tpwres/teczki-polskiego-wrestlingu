@@ -24,7 +24,7 @@ On January 3rd 2025, PTW announced on their [Facebook][fb-puncher] that Puncher 
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: true
-    s: '"Pan" Pawłowski\'s confession'
+    s: "Pawłowski's confession"
     nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Max Speed](@/w/max-speed.md)'
