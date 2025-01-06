@@ -1,11 +1,39 @@
 +++
 title = "Pete Dunne"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["GB"]
 +++
 
 Pete Dunne is an English wrestler from Birmingham, best known for his runs in NXT and its UK sister promotion, plus multiple British and Irish organizations. Dunne was one of the British wrestlers to perform for [Do Or Die Wrestling](@/o/ddw.md) at their 2012 double header show in Rzeszów and Kolbuszowa.
+
+## Basic info
+
+* Years active: 2007-present
+* Gimmicks/nicknames:
+  - Pete Dunne {{ org_badge(orgs=['ddw']) }}
+* Trained by:
+  - Psycho Steve
+  - Max Angelus
+ 
+## Professional wrestling career
+
+### Do or Die Wrestling (2012)
+
+Pete Dunne made his one-off apperance in Poland at [Do Or Die Wrestling](@/o/ddw.md) double-header shows held in March 2012. At [first night](@/e/ddw/2012-03-09-ddw-6.md) he was defeated by [Klarys](@/w/klarys.md) in a Singles Match. At [second show](@/e/ddw/2012-03-10-ddw-7.md) he took part in 6-Man Tag Team Match, where his team got defeated by [Jędruś Bułecka](@/w/jedrus-bulecka.md), Klarys and [Mark Andrews](@/w/mark-andrews.md).
+
+## In wrestling
+
+* Finishers:
+  - _Bitter End_ (Pumphandle Lift dropped into a Reverse STO)
+ 
+* Entrance music:
+  - "Can You Feel My Heart" by Bring Me the Horizon
+ {{ org_badge(orgs=['dfw']) }} (2012) <br>
+ {{ music(yt='QJJYpsA5tv8')}}
+ {{ music(spot='1PInWkBARsxLyouDqa2GtF')}}
+ {{ music(apple='609257426?i=609257427')}}
 
 ## References
 
