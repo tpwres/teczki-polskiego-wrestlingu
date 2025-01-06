@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["M3n747"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Jerry Mandecky"]
 [extra.gallery]
 1 = { path = "mandec.webp", caption = "Jerry Mandecky at a PpW show.", source = "Official PpW website" }
 +++
