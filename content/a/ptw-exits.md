@@ -133,7 +133,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
 
 ## Other personnel
 {% churn() %}
-- - '[Karyna](@/w/_index.md#K) (valet)'
+- - '[Karyna](@/w/karyna.md) (valet)'
   - 2023
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
