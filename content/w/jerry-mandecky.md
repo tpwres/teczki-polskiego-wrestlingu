@@ -19,7 +19,7 @@ country = ["PL"]
 
 ### PpW Ewenement (20??-2024)
 
-Jerry Mandecky was PpW's kayfabe owner and authority figure. At [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) he was betrayed and disposed of by his former bodyguard, [Kapitan Bazooka](@/w/kapitan-bazooka.md).
+Jerry Mandecky is PpW's former kayfabe owner and authority figure. At [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) he was betrayed and disposed of by his former bodyguard, [Kapitan Bazooka](@/w/kapitan-bazooka.md).
 
 * Entrance music:
   - "The Trooper" by Iron Maiden
