@@ -47,6 +47,7 @@ Corvus held his title for less than a year before losing it to [Robert Star](@/w
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Championship](@/c/kpw-championship.md) (1 time)
+  - Magnificent Seven Contract Ladder Match (2017)
 
 ## References
 
