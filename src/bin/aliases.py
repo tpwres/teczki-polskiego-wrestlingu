@@ -1,7 +1,8 @@
 
 #! /usr/bin/env python3
 
-from page import all_talent_pages
+from page import all_talent_pages, all_event_pages
+from card import names_in_match
 from typing import cast, Any
 from pathlib import Path
 import json
@@ -10,21 +11,27 @@ def main():
     content_root = Path.cwd() / 'content'
     aliases = {}
 
-    for page in all_talent_pages():
-        path = str(page.path.relative_to(content_root))
-        fm = page.front_matter
-        extra = cast(dict[str, Any], fm.get('extra', {}))
+    for page in all_event_pages():
+        card = page.card
+        if not card: continue
 
-        title = fm['title']
-        career_name = extra.get('career_name')
-        career_aliases = extra.get('career_aliases', [])
+        for mm in card.matches:
+            names = names_in_match(mm)
 
-        aliases[title] = path
-        if career_name:
-            aliases[career_name] = path
-        aliases |= {ca: path for ca in career_aliases}
+            for person in names:
+                if person.link:
+                    aliases[person.name] = clean_link(person.link)
+
+        if not card.crew: continue
+        for person in card.crew.members:
+            if person.link:
+                aliases[person.name] = clean_link(person.link)
 
     save_as_json(aliases, Path('data/aliases.json'))
+
+
+def clean_link(link: str) -> str:
+    return link.replace('@/', '')
 
 def save_as_json(data: Any, path: Path):
     with path.open('w') as fp:

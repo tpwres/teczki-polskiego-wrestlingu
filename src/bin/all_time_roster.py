@@ -23,36 +23,35 @@ def main():
 
     lookup_flag = lambda name_or_page: lookup_flag_or_emoji(name_or_page, name_to_flag, flags, emojis)
 
-    all_names = []
+    every_talent_name = set(careers.keys()) | set(alias_map.keys())
+
+    all_names = set()
     sort_key = lambda text: unidecode(make_sort_key(text))
-    for name in careers:
+    for name in every_talent_name:
         path = alias_map.get(name)
 
         if path:
             talent_page = TalentPage(content_path / path, verbose=False)
-            all_names.extend(load_talent(talent_page, path, lookup_flag, make_key=sort_key))
+            other_names = [alias for alias, talent_path in alias_map.items() if talent_path == path and alias != name]
+            all_names |= set(load_talent(talent_page, path, lookup_flag, make_key=sort_key, other_names=other_names))
         else:
-            all_names.append(unlinked_entry(name, lookup_flag, make_key=sort_key))
+            all_names.add(unlinked_entry(name, lookup_flag, make_key=sort_key))
 
-    all_names.sort(key=lambda record: record.sort_key)
+    out = list(all_names)
+    out.sort(key=lambda record: record.sort_key)
 
-    save_as_json(all_names, Path('data/all_time_roster.json'))
+    save_as_json(out, Path('data/all_time_roster.json'))
 
-def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> Iterable[ATRecord]:
+def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn, make_key: MakeKeyFn, other_names: Iterable[str]) -> Iterable[ATRecord]:
     fm = talent_page.front_matter
     title = cast(str, fm['title'])
     country, flag = lookup_flag(talent_page)
 
     yield ATRecord(make_key(title), title, 'P', path, country, flag)
 
-    extra = cast(dict[str, Any], fm.get('extra', {}))
-    career_name = extra.get('career_name')
-    if career_name:
-        yield ATRecord(make_key(career_name), career_name, 'T', path, country, flag)
-
-    aliases = cast(list[str], extra.get('career_aliases', []))
-    for alias in aliases:
-        yield ATRecord(make_key(alias), alias, 'A', path, country, flag)
+    for other_name in other_names:
+        if other_name == title: continue
+        yield ATRecord(make_key(other_name), other_name, 'A', path, country, flag)
 
 def unlinked_entry(name, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> ATRecord:
     country, flag = lookup_flag(name)

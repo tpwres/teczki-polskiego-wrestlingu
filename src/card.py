@@ -261,7 +261,11 @@ class Crew:
         self.index = index
         self.members = []
         for role, names in credits.items():
-            self.members.extend(CrewMember(p.name, role) for p in parse_group(names) if isinstance(p, NamedParticipant))
+            self.members.extend(
+                CrewMember(p.format_link() if p.link else p.name, role)
+                for p in parse_group(names)
+                if isinstance(p, NamedParticipant)
+            )
 
 class CardParseError(Exception):
     pass
