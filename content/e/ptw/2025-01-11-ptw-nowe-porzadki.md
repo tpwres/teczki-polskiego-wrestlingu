@@ -24,7 +24,7 @@ On January 3rd 2025, PTW announced on their [Facebook][fb-puncher] that Puncher 
 
 On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], announcing the first match in a tournament for the new [PTW Women's Championship](@/c/ptw-womens-championship.md).
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: true
     s: "Pawłowski's confession"
