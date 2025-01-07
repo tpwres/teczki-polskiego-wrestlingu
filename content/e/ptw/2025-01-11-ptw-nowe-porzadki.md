@@ -33,6 +33,11 @@ On January 3rd 2025, PTW announced on their [Facebook][fb-puncher] that Puncher 
 - - '[Spartan](@/w/spartan.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Amy Heartbeat'
+  - c: '[PTW Women's Championship](@/c/ptw-womens-championship.md)'
+    s: Women's Championship tournament, round 1
+    nc: upcoming
 {% end %}
 
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
