@@ -14,7 +14,7 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 
 ## Basic info
 
-* Years active: 2017-current
+* Years active: 2017-present
 * Location:
   1. Głuchołazy (2017 - 2018) - in [GOSiR Głuchołazy](@/v/gosir-glucholazy.md)
   2. Wrocław (2018 - Oct 2021) - first in [Czasoprzestrzeń](@/v/czasoprzestrzen.md),

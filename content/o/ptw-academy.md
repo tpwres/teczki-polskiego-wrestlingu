@@ -12,7 +12,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
 
 ## Basic info
 
-* Years active: 2021-current
+* Years active: 2021-present
 * Locations:
   1. Chorzów (2021 - Apr 2024) - in [PTW Performance Center](@/v/ptw-targowa.md)
   2. Kozłów (since Apr 2024) - in [Pod Platanem](@/v/dworek-kozlow.md)

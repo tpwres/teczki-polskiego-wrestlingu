@@ -10,7 +10,7 @@ Zeritus is a wrestler from Germany, who performs mostly on his homeland scene, b
 
 ## Basic info
 
-* Years active: 2014-current
+* Years active: 2014-present
 * Gimmicks/nicknames:
   - Zeritus {{ org_badge(orgs=['mzw']) }}
 * Trained by:
