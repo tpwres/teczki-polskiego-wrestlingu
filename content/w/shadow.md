@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["M3n747", "Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Straceniec", "Terry Shadow"]
 [extra.gallery]
 1 = { path = "shadow.jpg", caption = "Shadows's entrance, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 2 = { path = "terry-shadow.jpg", caption = "Terry Shadow, as seen at [PXW Smash 20.06.2011](@/e/pxw/2011-06-20-pxw-smash.md).", source = "Polish Backyard Archives @ YouTube" }

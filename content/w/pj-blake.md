@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Monster"]
 +++
 
 PJ Blake is a retired Polish wrestler best known for his time in [Dream Factory Wrestling](@/o/dfw.md). He also made appearances on the backyard scene, including [Polish Xtreme Wrestling](@/o/pxw.md).

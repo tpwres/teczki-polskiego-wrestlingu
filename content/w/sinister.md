@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["David Sirch"]
 +++
 
 Sinister is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also made a few appearances in [Mine City Wrestling](@/o/mcw.md).

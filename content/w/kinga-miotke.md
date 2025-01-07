@@ -5,8 +5,6 @@ authors = ["M3n747"]
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Kinga Różańska"]
 [extra.gallery]
 1 = { path = "kinga-miotke-arena-18.jpg", caption = 'Kinga Różańska opens [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).', source = "Migawki z Puszki" }
 2 = { path = "kinga-miotke-arena-20.jpg", caption = 'Kinga Miotke opens [KPW Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md).', source = "M3n747" }

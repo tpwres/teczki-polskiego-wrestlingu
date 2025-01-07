@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Seweryn Pielucha"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Nathan Cross", "Bonus CBD"]
 [extra.gallery]
 1 = { path = "gabriel-queen.jpg", caption = "Gabriel Queen in the ring at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "M3n747" }
 +++

@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Mateusz Mikołajczak"]
 +++
 
 Sędzia Matek is a Polish wrestling referee best known from his time in [Prime Time Wresling](@/o/ptw.md) from 2021 to 2022. He also made a few appearances in [PpW Ewenement](@/o/ppw.md).

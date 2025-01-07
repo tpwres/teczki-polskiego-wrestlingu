@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["IT"]
-[extra]
-career_aliases = ["Santino Marella"]
 +++
 
 Santino Marella is a Canadian professional wrestler best known for his time at [WWE](@/o/wwe.md). On the Polish wrestling scene he is also known for his appearances at [Prime Time Wrestling](@/o/ptw.md)

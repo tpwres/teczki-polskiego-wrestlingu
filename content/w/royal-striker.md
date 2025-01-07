@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Striker", "Prince Striker"]
 +++
 
 Royal Striker, also known as Prince Striker or simply Striker, is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md).

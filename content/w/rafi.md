@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Rafi Rarytas"]
 +++
 
 Rafi Rarytas, also simply known as "Rafi", is a retired Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He also made appearances in [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md).

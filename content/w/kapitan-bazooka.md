@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Czesław Pierdolec"]
 [extra.gallery]
 1 = { path = "kpt-bazooka-i-mandec.jpg", caption = "Kapitan Bazooka and Mandecky saluting each other, seconds before Bazooka's turn.", source = "M3n747" }
 +++

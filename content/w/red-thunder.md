@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Kowboj Luke"]
 +++
 
 Red Thunder, also known as "Kowboj Luke", is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).

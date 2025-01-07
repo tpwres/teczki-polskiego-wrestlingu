@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Ring Rat"]
 [extra.gallery]
 1 = { path = "Sewi_2024.webp", caption = "Sędzia Seweryn at a PpW show in 2024.", source = "Official PpW website" }
 +++

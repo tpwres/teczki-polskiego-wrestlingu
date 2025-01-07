@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ['"Top Gun" Samson']
 +++
 
 Samson is a Polish wrestler best known from his appearances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).

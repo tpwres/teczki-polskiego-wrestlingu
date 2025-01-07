@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Piotr Małecki"]
 [extra.gallery]
 1 = { path = "showoff.jpg", caption = "ShowOff commenting an unknown event", source = "Official PTW Facebook" }
 +++

@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Sundance Slate"]
 +++
 
 Sundance Slate, also simply known as "Slate", is a former Polish backyard wrestler best known for his time in [Polish Xtreme Wrestling](@/o/pxw.md).

@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["M3n747", "Krzysztof Zych", "Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Paweł Borkowski"]
 [extra.gallery]
 1 = { path = "pawel-borkowski.jpg", caption = "Paweł Borkowski at [PTW#6: Total Blast form the Past](@/e/ptw/2024-05-11-ptw-6.md).", source = "Official PTW Facebook" }
 +++
