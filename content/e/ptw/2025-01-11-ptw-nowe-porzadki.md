@@ -39,7 +39,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Amy Heartbeat'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    s: "Women's Championship tournament, round 1"
+    s: 'tournament, round 1'
     nc: upcoming
 {% end %}
 
