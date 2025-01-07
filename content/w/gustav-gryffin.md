@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Seweryn Pielucha"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Gustav Pierdolec", "Hardcore Gustav"]
 [extra.gallery]
 1 = { path = "gustav-gryffin.jpg", caption = "Gustav Gryffin, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 +++

@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Duende", "Sędzia Gocha"]
 +++
 
 Sędzia Borys is a retired wrestling referee best known for his time in [PpW Ewenement](@/o/ppw.md) from 2019 to 2023.

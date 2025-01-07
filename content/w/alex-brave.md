@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["S. Rafał", "Sędzia Rafał"]
 +++
 
 ## Basic info

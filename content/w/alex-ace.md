@@ -3,8 +3,6 @@ title = "Alex Ace"
 template = "talent_page.html"
 [taxonomies]
 country = ["DE"]
-[extra]
-career_aliases = ["Alexander Reich"]
 +++
 
 ## References

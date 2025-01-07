@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Seweryn Pielucha"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Oskar"]
 +++
 
 ## Basic info

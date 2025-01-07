@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Siwy", "Mr. Fitness"]
 +++
 
 Szymon "Siwy" Siwiec is a retired Polish wrestler most notable for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also performed in [Polish Xtreme Wrestling](@/o/pxw.md).

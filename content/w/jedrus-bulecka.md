@@ -3,8 +3,6 @@ title = "Jędruś Bułecka"
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Patriota", "Polish Hammer", "Marcin Wilkowski"]
 [extra.gallery]
 1 = { path = "gorol-panocku.jpg", caption = "Jędruś Bułecka at [DDW #6](@/e/ddw/2012-03-09-ddw-6.md).", source = "Jędruś Bułecka @ Facebook" }
 2 = { path = "polish-hammer.jpg", caption = "Jędruś Bułecka in his Polish Hammer gimmick, at [Podziemny Krąg](@/e/mzw/2014-11-07-mzw-podziemny-krag.md).", source = "Jędruś Bułecka @ Facebook" }

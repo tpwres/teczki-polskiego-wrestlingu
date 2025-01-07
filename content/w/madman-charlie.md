@@ -3,8 +3,6 @@ title = "Madman Charlie"
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Charlie Grayson", "Charlie", "Sędzia Karol Górski", "Karol Górski (2)"]
 +++
 
 ## Basic info

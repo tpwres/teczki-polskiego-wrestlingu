@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["IT"]
-[extra]
-career_aliases = ["Sam Della Vale"]
 +++
 
 Sam Rogers, also known as Sam Della Vale, is an Italian wrestler best known for a few appearances in [Prime Time Wrestling](@/o/ptw.md).

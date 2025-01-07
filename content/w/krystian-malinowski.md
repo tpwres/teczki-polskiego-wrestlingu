@@ -5,8 +5,6 @@ authors = ["M3n747"]
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Rex Torpeda"]
 [extra.gallery]
 1 = { path = "krystian-malinowski-teczka.jpg", caption = 'Krystian Malinowski with his briefcase at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).', source = "Migawki z Puszki" }
 +++

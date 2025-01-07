@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Seweryn Pielucha"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Amisz"]
 [extra.gallery.1]
 path = "fox-is-ewenement.webp"
 caption = "Facebook graphic confirming that Axel Fox has joined PpW"

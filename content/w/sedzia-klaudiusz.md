@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ['Minion']
 [extra.gallery]
 1 = { path = "sedzia-klaudiusz.jpg", caption = "Sędzia Klaudiusz presenting the PTW/WWA World Championship.", source = "Official PTW Facebook" }
 +++

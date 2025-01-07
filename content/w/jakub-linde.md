@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Jakob Sigmarsson"]
 +++
 
 ## Internet presence

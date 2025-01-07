@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Refere"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Sędzia Matt2Hot"]
 +++
 
 Matt2Hot is a retired backyard wrestler and referee best known from his time in [Maniac Zone Wrestling](@/o/mzw.md) where he worked as referee. He also made a few appearances in [Polish Xtreme Wrestling](@/o/pxw.md) and [PpW Ewenement](@/o/ppw.md).

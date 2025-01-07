@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Rob Hardy", "Automatico", "Terry Shadow (impostor)"]
 +++
 
 Rob Scaffold is a retired Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md). He also made appearances in [Dream Factory Wrestling](@/o/dfw.md).

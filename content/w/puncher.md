@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Szymon Iwulski", "Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ['Puncher', 'Dawid Seńko']
 [extra.gallery]
 1 = { path = "owczy-ped-en.jpg", caption = 'Unofficial English version of the "Herd Instinct" comic.'}
 +++

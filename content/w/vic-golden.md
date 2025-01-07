@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Prince Victor", "Joey Riddic"]
 +++
 
 Vic Golden is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md). He also made numerous appearances in [Prime Time Wrestling](@/o/ptw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and on the Polish backyard scene.

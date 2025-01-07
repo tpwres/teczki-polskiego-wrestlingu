@@ -4,8 +4,6 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ["Rafał Orszak", "Revage", "Sędzia Rafael"]
 +++
 
 Rafael Kid, also known as Revage, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also performed in [Dream Factory Wrestling](@/o/dfw.md) and [PpW Ewenement](@/o/ppw.md).

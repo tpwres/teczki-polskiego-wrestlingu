@@ -3,8 +3,6 @@ title = 'Mutant'
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
-[extra]
-career_aliases = ['Michał "Mutant" Świątkowski', 'Daniel Boza']
 +++
 
 ## Basic Info
