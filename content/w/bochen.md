@@ -8,7 +8,7 @@ country = [":cat-face:"]
 manifest = "@/w/bochen-gallery.toml"
 +++
 
-Bochen (officially named Maniek) was a British Shorthair cat about 4 years of age, who owned human wrestler [Jakub Linde](@/w/jakub-linde.md). Bochen, translated as _bread loaf_, was the cat's nickname, likely given to him due to his preference to sit in the loaf position, front paws and tail tucked.
+Bochen (officially named Armani, or Maniek for short) was a British Shorthair cat about 4 years of age, who owned human wrestler [Jakub Linde](@/w/jakub-linde.md). Bochen, translated as _bread loaf_, was the cat's nickname, likely given to him due to his preference to sit in the loaf position, front paws and tail tucked.
 
 Bochen became a part of [PpW](@/o/ppw.md)'s lore sometime in early 2024. The cat gained popularity among fans, and was "feuding" online with Michael HT.
 Later, Linde shared sad news about the cat's health issues.
