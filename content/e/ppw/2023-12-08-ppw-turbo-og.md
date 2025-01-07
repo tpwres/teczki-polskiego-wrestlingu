@@ -44,7 +44,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 * [Goblin](@/w/goblin.md) won by using Green Mist on Gustav, while [Osamu](@/w/osamu.md) unsuccessfully tried to interfere in their match. After the bell, the angry Gustav accosted referee Borys. Once again [Osamu](@/w/osamu.md) interfered, this time defending the referee, but that ended his alliance with Gustav, and he received a beatdown for it. [Jakob Sigmarsson](@/w/jakub-linde.md) appeared, revealing himself as Gustav's trainer and new ally.
 * [Mister Z](@/w/mister-z.md) defeated Asara with a kick to his privates and some well-placed chairs.
 * Biesiad and [Isnorr](@/w/isnorr.md) took the fight outside and shot fireworks at each other, among other weapons. Chris X interfered against Biesiad, following their rivalry from [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
-* The Christmas Massacre featured light tubes, Christmas glass baubles, and most importantly, a heavily padded and helmeted cameraman in the ring, hired by Mandecki to record Johnny's defeat in high detail up close. At one point, he blinded Johnny with a camera flash to the face. [Isnorr](@/w/isnorr.md) and Biesiad also interfered in the fight.
+* The Christmas Massacre featured light tubes, Christmas glass baubles, and most importantly, a heavily padded and helmeted cameraman in the ring, hired by [Mandecki](@/w/jerry-mandecky.md) to record Johnny's defeat in high detail up close. At one point, he blinded Johnny with a camera flash to the face. [Isnorr](@/w/isnorr.md) and Biesiad also interfered in the fight.
 
 ## References
 
