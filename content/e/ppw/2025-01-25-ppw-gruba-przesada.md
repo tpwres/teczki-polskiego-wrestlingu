@@ -27,7 +27,7 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 * On 3.01.2025, [Mister Z](@/w/mister-z.md) and Gustav Gryffin posted a video where they recapped 2024 and made promises for 2025. They extended threats to most babyfaces on the roster, as well as an offer for [Axel Fox](@/w/axel-fox.md) to join [Zmowa](@/a/the-collusion.md) and finally get on the winning side. A day later PpW confirmed on their Facebook that Fox would make his decision at Gruba Przesada - presumably in an in-ring segment.
 * On 6.01.2025 PpW announced a Gauntler Survivor Challange match, in which [Goblin](@/w/goblin.md) is set to face a number of, yet unannounced, opponents. If he loses even one fight, he is said to be forcibly sent to [Monar][monar] for six months, presumably for a drug addiction rehab.
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
