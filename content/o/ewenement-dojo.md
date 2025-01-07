@@ -17,7 +17,7 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
 
 ## Basic info
 
-* Years active: July 2024-current (operated as PpW Dojo prior to 2024)
+* Years active: July 2024-present (operated as PpW Dojo prior to 2024)
 * Coaching staff:
   - [Jacob Crane](@/w/jacob-crane.md) - Head Coach
   - [Biesiad Strong](@/w/biesiad.md) - Martial Arts Coach
