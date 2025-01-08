@@ -50,7 +50,7 @@ mensch_links = [
 
 footer_links = [
   { path = "@/about.md", name = "About", icon = "info"},
-  { path = "@/a/contributing.md", name = "Contributing", icon = "edit"},
+  { path = "@/a/contributing.md", name = "Contributing", icon = "pencil-line"},
   { url = "//github.com/tpwres/teczki-polskiego-wrestlingu", name = "GitHub", icon = "github"},
   { url = "/atom.xml", name = "Atom Feed", icon = "rss"},
   { path = "@/authors.md", name = "Authors", icon = "heart" }
