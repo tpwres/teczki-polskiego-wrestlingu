@@ -20,7 +20,11 @@ class SearchController {
     }
 
     connect() {
-        this.queryTarget.addEventListener('input', this.search.bind(this))
+        function debounced_search() {
+            if (this.debounce_search) clearTimeout(this.debounce_search)
+            this.debounce_search = setTimeout(this.search.bind(this), 300)
+        }
+        this.queryTarget.addEventListener('input', debounced_search.bind(this))
         this.queryTarget.addEventListener('keydown', this.search_keydown.bind(this))
         this.queryTarget.addEventListener('keyup', this.search_keyup.bind(this))
         this.resultsTarget.addEventListener('keydown', this.results_keydown.bind(this))
