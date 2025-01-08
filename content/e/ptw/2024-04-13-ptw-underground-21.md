@@ -46,7 +46,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Guest commentary: Olgierd, Marco Hammers
-    Sponsor representative: [Łukasz Okoński](@/w/lukasz-okonski.md)
+    Sponsor representative: '[Łukasz Okoński](@/w/lukasz-okonski.md)'
 {% end %}
 
 Due to Balik working solo commentary, the show saw a lot of guest commentators.

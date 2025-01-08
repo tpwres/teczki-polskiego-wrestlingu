@@ -75,7 +75,7 @@ For this event, PTW invited several debuting wrestlers:
   - Session Moth Martina
   - s: Singles Match
 - - '"The Enigma" Serg Sullivan'
-  - [El Homo (PTW)](@/w/lukasz-okonski.md)
+  - '[El Homo (PTW)](@/w/lukasz-okonski.md)'
   - s: Singles Match
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - Krzysztof Skwarczyński
