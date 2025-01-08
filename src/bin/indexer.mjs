@@ -4,9 +4,21 @@ import { fdir } from 'fdir';
 import { parse as tomlParse } from 'toml';
 import { stdout } from 'process';
 
-const depolonize = (text, _fieldName) => {
-    const chars = {'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n', 'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
-                   'Ą': 'A', 'Ć': 'C', 'Ę': 'E', 'Ł': 'L', 'Ń': 'N', 'Ó': 'O', 'Ś': 'S', 'Ź': 'Z', 'Ż': 'Z'};
+const deaccent = (text, _fieldName) => {
+    const chars = {
+        // Polish
+        'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n', 'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z',
+        'Ą': 'A', 'Ć': 'C', 'Ę': 'E', 'Ł': 'L', 'Ń': 'N', 'Ó': 'O', 'Ś': 'S', 'Ź': 'Z', 'Ż': 'Z',
+        // Czech, Slovak, Hungarian
+        'č': 'c', 'ď': 'd', 'ě': 'e', 'é': 'e', 'í': 'i', 'ľ': 'l', 'ň': 'n', 'ř': 'r', 'š': 's', 'ť': 't', 'ú': 'u', 'ž': 'z',
+        'Č': 'C', 'Ď': 'D', 'Ě': 'E', 'É': 'E', 'Í': 'I', 'Ľ': 'L', 'Ň': 'N', 'Ř': 'R', 'Š': 'S', 'Ť': 'T', 'Ú': 'U', 'Ž': 'Z',
+        // Danish, German, Swedish, Finnish, Norwegian
+        'å': 'a', 'ä': 'a', 'ö': 'o', 'ü': 'u',
+        'Å': 'A', 'Ä': 'A', 'Ö': 'O', 'Ü': 'U',
+        // French, Spanish
+        'à': 'a', 'â': 'a', 'è': 'e', 'ê': 'e', 'ë': 'e', 'ï': 'i', 'ô': 'o', 'û': 'u', 'ü': 'u', 'ñ': 'n',
+        'À': 'A', 'Â': 'A', 'È': 'E', 'Ê': 'E', 'Ë': 'E', 'Ï': 'I', 'Ô': 'O', 'Û': 'U', 'Ü': 'U', 'Ñ': 'N'
+    };
     // \p{L} is a unicode category, matching Letters (like [A-Za-z] but with all the alphabets)
     // requires the 'u' flag on regexp
     return text.replace(/\p{L}/gu, m => chars[m] || m).toLowerCase();
@@ -37,7 +49,7 @@ const build_document = async (path) => {
 let index = new MiniSearch({
     fields: ['title', 'text'],
     storeFields: ['title', 'path'],
-    processTerm: depolonize
+    processTerm: deaccent
 });
 
 // Index everything in content
