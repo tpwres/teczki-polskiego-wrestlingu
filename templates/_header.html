@@ -1,4 +1,4 @@
-{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
+{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) | safe %}
 <nav class="toplevel">
   <nav class="menu">
     <div class="nav-left">
@@ -32,7 +32,7 @@
     <div class="nav-right">
       <ul class="nav-right-list keep">
         <li>
-          <a id="darkmodetoggle" onclick="switchTheme()" ondblclick="switchThemeOG()" aria-label="Change theme" title="Change theme">
+          <a id="darkmodetoggle" aria-label="Change theme" title="Change theme">
             <svg class="feather dark-theme-icon" title="Moon icon">
               <use href="{{ sprite }}#moon"/>
             </svg>
@@ -52,7 +52,7 @@
           {% set link_class = link | get(key='class', default='') -%}
           {% set link_icon = '' %}
           {% if link.icon -%}
-            {% set link_icon = '<svg class="feather feather-nav"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
+            {% set link_icon = '<svg class="feather feather-nav"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' | safe %}
           {% endif -%}
           {% if link.path -%}
             <a href="{{ get_url(path=link.path) }}"

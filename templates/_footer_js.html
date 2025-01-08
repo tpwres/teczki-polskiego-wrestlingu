@@ -38,6 +38,9 @@ function switchThemeOG() {
   document.documentElement.setAttribute("data-theme", "og");
   localStorage.setItem("theme", "og");
 }
+
+document.querySelector('#darkmodetoggle').addEventListener('click', switchTheme);
+document.querySelector('#darkmodetoggle').addEventListener('dblclick', switchThemeOG);
 </script>
 
 <script type="module" src="/search.js"></script>
