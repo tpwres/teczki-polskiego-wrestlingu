@@ -1,5 +1,5 @@
 {% set root = config.extra.gallery_root ~ page.path %}
-{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
 {% set empty_obj = []|group_by(attribute='0') %}
 {% if page.extra.gallery.manifest %}
   {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}

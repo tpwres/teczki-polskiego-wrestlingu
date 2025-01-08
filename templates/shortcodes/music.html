@@ -1,4 +1,4 @@
-{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
 {% set icon = "music" %}
 {% if link %}
   {% set url = link %}
@@ -11,6 +11,7 @@
 {% elif apple %}
   {% set country = cc | default(value='us') %}
   {% set url = "//music.apple.com/" ~ country ~ "/album/" ~ apple %}
+  {% set icon = "apple" %}
   {% set text = "Apple&nbsp;Music" %}
 {% elif spot %}
   {% set url = "//open.spotify.com/track/" ~ spot %}
