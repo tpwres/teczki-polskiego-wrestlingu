@@ -41,6 +41,9 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
   - '???'
   - s: Gauntlet Survivor Challenge
     nc: upcoming
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - nc: upcoming
 {% end %}
 
 ### References
