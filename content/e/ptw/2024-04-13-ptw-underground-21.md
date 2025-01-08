@@ -40,13 +40,13 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
   - c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md) (unsanctioned)'
 - - '[Puncher](@/w/puncher.md)(c)'
   - Marius Al-Ani(c)
-  - c: "PTW Championship & WWA Championship"
+  - c: "[PTW Championship](@/c/ptw-championship.md) & WWA Championship"
 - credits:
     Host, Ring Announcer, General Manager, Guest Commentary: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Guest commentary: Olgierd, Marco Hammers
-    Sponsor representative: Łukasz Okoński
+    Sponsor representative: [Łukasz Okoński](@/w/lukasz-okonski.md)
 {% end %}
 
 Due to Balik working solo commentary, the show saw a lot of guest commentators.
@@ -98,7 +98,7 @@ This is a competitive match, with a lot of aggression from Strong. Hammers wins 
 Post-match, Hammers and Olgierd celebrate a championship "defense" with confetti.
 
 Pawłowski invites Hammers back to the ring, and in comedic fashion goads him into cleaning the confetti with a broom.
-President of Comedy Show (one of the sponsors), Łukasz Okoński is invited to the ring and introduced by Pawłowski. Together, they mock Hammers's cleaning skills. Eventually Hammers is dismissed and celebrates his "defense" once again.
+President of Comedy Show (one of the sponsors), [Łukasz Okoński](@/w/lukasz-okonski.md) is invited to the ring and introduced by Pawłowski. Together, they mock Hammers's cleaning skills. Eventually Hammers is dismissed and celebrates his "defense" once again.
 During the promos, Pawłowski made conflicting remarks whether Hammers's title is an actual, PTW recognized championship. Later, in Facebook results, there was a mention of imaginary champions, which implies the title is still unsanctioned.
 
 #### Main event: Puncher vs Marius Al-Ani
@@ -111,7 +111,7 @@ They issue a warning to Nano Lopez, King Kaiden as well as the rest of PTW roste
 He reminds the fans who he is and that he wants revenge for an injury, one that Dziedzic was a part of. He quickly dispatches both Sinister Kingdom members and celebrates in the ring, to a pop from audience.
 As Sinister Kingdom make their exit, Spartan chases them to the backstage area.
 
-Puncher cuts his usual pre-match promo. After a competitive match-up he defeats Marius Al-Ani with _Wylew_ (superman punch). He defends his title and wins WWA Championship to become double champion - although there was no mention of unifying both titles.
+Puncher cuts his usual pre-match promo. After a competitive match-up he defeats Marius Al-Ani with _Wylew_ (Superman punch). He defends his title and wins WWA Championship to become double champion - although there was no mention of unifying both titles.
 Post-match, Puncher brags about his win and makes shots at Baba-Thunder. He mocks him for losing his job in WWE and promises to do the same here in PTW, supposedly in a match at [PTW 6: Total Blast From the Past](@/e/ptw/2024-05-11-ptw-6.md).
 
 Marius Al-Ani gets pop for his effort and leaves the arena, upset about his loss.

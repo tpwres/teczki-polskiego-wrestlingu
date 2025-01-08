@@ -9,7 +9,7 @@ venue = ["dworek-kozlow"]
 city = "Kozłów"
 [extra.gallery.poster]
 path = "2024-12-07-ptw-underground-25-plakat.jpg"
-caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Łukasz "Prezes" Okoński.'
+caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).'
 source = "Facebook @PrimeTimeWrestlingPL"
 [extra.gallery.martina]
 path = "martina.webp"
@@ -17,7 +17,7 @@ caption = "Facebook promotional graphic announcing Session Moth Martina"
 source = "Facebook @PrimeTimeWrestlingPL"
 [extra.gallery.prezes]
 path = "2024-12-07-ptw-underground-25-patrycja-malinowska-with-prezes-okonski.jpg"
-caption = "El-Homo (Prezes Okoński) led on a chain by Patrycja Malinowska"
+caption = "[El Homo](@/w/lukasz-okonski.md) (Prezes Okoński) led on a chain by Patrycja Malinowska"
 source = "zbigniew_wielgosz @ Instagram"
 +++
 
@@ -37,7 +37,7 @@ For this event, PTW invited several debuting wrestlers:
 #### Storylines overview
 
 * After his victory over Arron Williams at [the previous Underground](@/e/ptw/2024-11-16-ptw-underground-24.md), [Spartan](@/w/spartan.md) was set to take on Puncher for the [PTW Championship](@/c/ptw-championship.md) in the main event.
-  Spartan as babyface gained a lot of support from both the fans and some personalities in PTW, especially after Puncher viciously attacked Prezes Okoński at the end of Underground 24.
+  Spartan as babyface gained a lot of support from both the fans and some personalities in PTW, especially after Puncher viciously attacked [Prezes Okoński](@/w/lukasz-okonski.md) at the end of Underground 24.
 * [Alex Brave](@/w/alex-brave.md) continued his feud with [Miyagi Shida](@/w/miyagi-shida.md), which can be traced back to [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md).
   Alex declared that he would end Miyagi's career in PTW, and the martial artist agreed to the stipulation, that if he lost, he would retire from Prime Time Wrestling.
 * Shortly before Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled "The Whole Truth About Polish Wrestling", which prompted further controversy on the Polish scene.
@@ -75,9 +75,9 @@ For this event, PTW invited several debuting wrestlers:
   - Session Moth Martina
   - s: Singles Match
 - - '"The Enigma" Serg Sullivan'
-  - El-Homo # NOTE: Not Ostrowski, but Okoński
+  - [El Homo (PTW)](@/w/lukasz-okonski.md)
   - s: Singles Match
-- - Łukasz "Prezes" Okoński
+- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - Krzysztof Skwarczyński
   - g: true
     s: Post-match interview
