@@ -41,10 +41,10 @@ default_theme = "dark"
 mensch_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar" },
   { path = "@/w/_index.md", name = "People", icon = "users" },
-  { path = "@/o/_index.md", name = "Orgs", icon = "globe" },
+  { path = "@/o/_index.md", name = "Orgs", icon = "biceps-flexed" },
   { path = "@/a/_index.md", name = "Articles", icon = "book" },
-  { path = "@/v/_index.md", name = "Places", icon = "map-pin" },
-  { path = "@/c/_index.md", name = "Championships", icon = "award" },
+  { path = "@/v/_index.md", name = "Places", icon = "landmark" },
+  { path = "@/c/_index.md", name = "Championships", icon = "trophy" },
   { url = "//mf.tpwres.pl", name = "Matchfinder", icon = "crosshair" },
 ]
 
