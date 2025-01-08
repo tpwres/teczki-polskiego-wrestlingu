@@ -13,7 +13,7 @@ Samson is a Polish wrestler best known from his appearances in [Prime Time Wrest
 * Years active: 2022-present
 * Gimmicks/nicknames:
   - "Top Gun" Samson {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }}
-  - "Bestia z Będzina" (_The Beast of Będzin_, a fan given nickname referring to his hometown)
+  - "Bestia z Będzina" (_The Beast of Będzin_, a fan-given nickname referring to his hometown)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2023)
 
