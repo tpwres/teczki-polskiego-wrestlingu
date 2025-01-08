@@ -23,7 +23,9 @@
         <ul class="search-results-items"></ul>
         <template>
           <a class="search-result">
-            <strong id="result-type"></strong>
+            <svg class="feather-inline" id="result-type-icon">
+              <use href="{{ sprite }}"/>
+            </svg> 
             <span id="result"></span>
           </a>
         </template>
