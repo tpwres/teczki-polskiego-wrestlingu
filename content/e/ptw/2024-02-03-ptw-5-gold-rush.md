@@ -83,7 +83,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 ### Recap
 
 * Speedball immediately won the Polish crowd's support. Delivered his signature fast kicks and running tornado kick.
-* After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a women's title.
+* After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a [women's title](@/c/ptw-womens-championship.md).
 * Nano was pinned, but managed to lift one shoulder for the three count. The ref initially awarded [Krampus](@/w/krampus.md) the victory, but as he was about to reverse this decision, Krampus decked him and kicked out of the ring. [Sinister](@/w/sinister.md) arrived to deliver more punishment to Lopez.
 * Mario Pardua, a wrestler of Polish origin fighting in the Chicago area, introduced himself in a video clip. In Polish, he declared he's ready for Prime Time Wrestling. The crowd chanted CM-PUNK at him. Pawłowski added that Pardua is currently fighting for NWA, and that he's been signed to PTW.
 * After Lince Dorado's entrance, Supron and [Borkowski](@/w/pawel-borkowski.md) joined the Polish commentary team.
