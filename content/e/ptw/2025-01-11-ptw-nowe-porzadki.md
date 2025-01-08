@@ -41,7 +41,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     s: 'tournament, round 1'
     nc: upcoming
-- - 'Łukasz "Prezes" Okoński'
+- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '???'
   - nc: upcoming
 {% end %}
