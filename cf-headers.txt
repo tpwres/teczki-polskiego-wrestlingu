@@ -1,2 +1,2 @@
-/
+/*
   Content-Security-Policy: default-src 'self'; img-src 'self' 'i.tpwres.pl'; script-src 'self'; style-src 'self' 'unsafe-inline'; child-src 'none'
