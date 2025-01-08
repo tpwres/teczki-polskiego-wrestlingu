@@ -220,12 +220,12 @@ class SearchController {
     format_result(item, terms) {
         let path = item.path.replace('_', '-')
         const prefix_map = {
-            '/e/': ['Event', '#calendar'],
+            '/e/': ['Event', '#calendar-1'],
             '/w/': ['Talent', '#user'],
-            '/o/': ['Organization', 'globe'],
-            '/a/': ['Article', 'book'],
-            '/v/': ['Venue', 'map-pin'],
-            '/c/': ['Championship', 'award']
+            '/o/': ['Organization', '#handshake'],
+            '/a/': ['Article', '#book'],
+            '/v/': ['Venue', '#map-pin-house'],
+            '/c/': ['Championship', '#trophy']
         }
         const prefix = path.slice(0, 3)
         const [result_flavor, result_icon] = prefix_map[prefix] || ['Page', '#file-text']
