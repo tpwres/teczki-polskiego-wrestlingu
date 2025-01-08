@@ -171,7 +171,7 @@ class SearchController {
 
     async load_minisearch() {
         if (this.minisearch_ready) return
-        
+
         const resp = await fetch('/minisearch.js')
         const blob = await resp.blob()
         const url = URL.createObjectURL(blob)
@@ -192,6 +192,7 @@ class SearchController {
     }
 
     show_results(results, term) {
+        console.log(results)
         this.itemsTarget.replaceChildren()
         for (let i = 0; i < Math.min(results.length, 16); i++) {
             let item = document.createElement('li')
@@ -232,6 +233,11 @@ class SearchController {
         node.querySelector('a').href = path
         node.querySelector('#result-type').textContent = `${result_type}:`
         node.querySelector('#result').textContent = item.title
+        const intro = node.querySelector('p.intro')
+        if (item.intro)
+            intro.innerHTML = item.intro
+        else
+            node.removeChild(intro)
 
         return node
     }

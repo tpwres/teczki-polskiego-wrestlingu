@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "fdir": "^6.2.0",
+    "marked": "^15.0.6",
     "minisearch": "^7.1.0",
     "picomatch": "^4.0.2",
     "toml": "^3.0.0"

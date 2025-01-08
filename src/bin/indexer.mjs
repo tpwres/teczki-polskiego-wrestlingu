@@ -1,4 +1,5 @@
 import MiniSearch from 'minisearch';
+import { Marked } from 'marked';
 import { readFile } from 'fs/promises';
 import { fdir } from 'fdir';
 import { parse as tomlParse } from 'toml';
@@ -24,7 +25,7 @@ const deaccent = (text, _fieldName) => {
     return text.replace(/\p{L}/gu, m => chars[m] || m).toLowerCase();
 }
 
-const build_document = async (path) => {
+const build_document = async (path, renderer) => {
     const body = await readFile(path, { encoding: 'utf-8' });
     // Frontmatter is delimited by three plus signs on a line alone
     const re = /[+]{3}/g;
@@ -34,6 +35,9 @@ const build_document = async (path) => {
     // +4 to eat the endlines
     const frontmatter = tomlParse(body.slice(fm_start.index + 4, fm_end.index));
     const text = body.slice(fm_end.index + 4);
+    // The text may contain a <!-- more --> HTML comment that delimits the intro text
+    const more = text.indexOf('<!-- more -->');
+    const intro = more != -1 ? text.slice(0, more) : undefined;
 
     const slug = path.replace('content/', '/').replace('.md', '');
     return {
@@ -42,21 +46,38 @@ const build_document = async (path) => {
         // requires processing in results - zola will coerce all non-alpha chars to a dash, e.g. underscores
         path: `${slug}/`,
         title: frontmatter.title,
-        text: text
+        text,
+        intro: intro ? renderer.parseInline(intro) : ''
     };
+}
+
+const transform_path = (path) => {
+    return path.replace(/^@(.*)\/(.*)\.md$/, (match, dir, filename) => {
+        return `${dir}/${filename.replace(/[_]/g, '-')}`;
+    });
+}
+
+const convert_links = (html) => {
+    return html.replace(/href="([^"]*)"/g, (match, p1) => {
+        if (p1.startsWith('@')) {
+            return `href="${transform_path(p1)}"`;
+        }
+        return match;
+    });
 }
 
 let index = new MiniSearch({
     fields: ['title', 'text'],
-    storeFields: ['title', 'path'],
+    storeFields: ['title', 'path', 'intro'],
     processTerm: deaccent
 });
 
 // Index everything in content
 let all_docs = new fdir().glob('**/*.md').withRelativePaths().crawl('content/').sync();
+let renderer = new Marked({hooks: { postprocess: convert_links }});
 for await (const doc_path of all_docs) {
     if (doc_path.endsWith('_index.md')) continue;
-    const document = await build_document(`content/${doc_path}`);
+    const document = await build_document(`content/${doc_path}`, renderer);
     index.add(document);
 }
 
