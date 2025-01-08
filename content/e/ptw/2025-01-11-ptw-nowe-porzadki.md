@@ -41,6 +41,9 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     s: 'tournament, round 1'
     nc: upcoming
+- - 'Łukasz "Prezes" Okoński'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
