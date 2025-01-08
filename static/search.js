@@ -206,8 +206,11 @@ class SearchController {
 
     adjust_position() {
         const wide = matchMedia('only screen and (min-width: 540px)').matches;
-        if (wide)
-            this.resultsTarget.style.left = `${this.queryTarget.getBoundingClientRect().left}px`
+        if (wide) {
+            const bounds = this.queryTarget.getBoundingClientRect()
+            this.resultsTarget.style.left = `${bounds.left}px`
+            this.resultsTarget.style.width = `${bounds.width}px`
+        }
         else {
             this.resultsTarget.style.left = '0px'
             this.resultsTarget.style.width = '100%'
