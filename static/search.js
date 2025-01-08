@@ -216,28 +216,25 @@ class SearchController {
 
     format_result(item, terms) {
         let path = item.path.replace('_', '-')
-        let result_type = undefined
         const prefix_map = {
-            '/e/': 'calendar',
-            '/w/': 'user',
-            '/o/': 'globe',
-            '/a/': 'book',
-            '/v/': 'map-pin',
-            '/c/': 'award'
+            '/e/': ['Event', '#calendar'],
+            '/w/': ['Talent', '#user'],
+            '/o/': ['Organization', 'globe'],
+            '/a/': ['Article', 'book'],
+            '/v/': ['Venue', 'map-pin'],
+            '/c/': ['Championship', 'award']
         }
         const prefix = path.slice(0, 3)
-        result_type = prefix_map[prefix] || 'Page'
+        const [result_flavor, result_icon] = prefix_map[prefix] || ['Page', '#file-text']
 
-        let node = this.itemTemplateTarget.content.cloneNode(true)
-        node.querySelector('a').href = path
+        const node = this.itemTemplateTarget.content.cloneNode(true)
+        const link = node.querySelector('a')
+        link.href = path
         const svg = node.querySelector('#result-type-icon');
         const icon = svg.querySelector('use')
         const url = new URL(icon.href.baseVal, document.location.href)
-        if (result_type) {
-            url.hash = `#${result_type}`
-        } else {
-            url.hash = '#chevron-right'
-        }
+        url.hash = result_icon
+        link.title = `${result_flavor}: ${item.title}`
 
         icon.href.baseVal = url.toString()
         node.querySelector('#result').textContent = item.title
