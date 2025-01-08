@@ -218,19 +218,28 @@ class SearchController {
         let path = item.path.replace('_', '-')
         let result_type = undefined
         const prefix_map = {
-            '/e/': 'Event',
-            '/w/': 'Talent',
-            '/o/': 'Organization',
-            '/a/': 'Article',
-            '/v/': 'Venue',
-            '/c/': 'Championship'
+            '/e/': 'calendar',
+            '/w/': 'user',
+            '/o/': 'globe',
+            '/a/': 'book',
+            '/v/': 'map-pin',
+            '/c/': 'award'
         }
         const prefix = path.slice(0, 3)
         result_type = prefix_map[prefix] || 'Page'
 
         let node = this.itemTemplateTarget.content.cloneNode(true)
         node.querySelector('a').href = path
-        node.querySelector('#result-type').textContent = `${result_type}:`
+        const svg = node.querySelector('#result-type-icon');
+        const icon = svg.querySelector('use')
+        const url = new URL(icon.href.baseVal, document.location.href)
+        if (result_type) {
+            url.hash = `#${result_type}`
+        } else {
+            url.hash = '#chevron-right'
+        }
+
+        icon.href.baseVal = url.toString()
         node.querySelector('#result').textContent = item.title
 
         return node
