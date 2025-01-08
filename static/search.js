@@ -163,15 +163,15 @@ class SearchController {
         this.spin(true)
 
         this.index = MiniSearch.loadJSON(await response.text(), {
-            fields: ['title', 'text'],
-            storeFields: ['title', 'category', 'path'],
+            fields: ['title', 'text', 'date'],
+            storeFields: ['title', 'path', 'date'],
             processTerm: this.depolonize
         })
     }
 
     async load_minisearch() {
         if (this.minisearch_ready) return
-        
+
         const resp = await fetch('/minisearch.js')
         const blob = await resp.blob()
         const url = URL.createObjectURL(blob)
@@ -209,7 +209,7 @@ class SearchController {
         if (wide) {
             const bounds = this.queryTarget.getBoundingClientRect()
             this.resultsTarget.style.left = `${bounds.left}px`
-            this.resultsTarget.style.width = `${bounds.width}px`
+            this.resultsTarget.style.minWidth = `${bounds.width}px`
         }
         else {
             this.resultsTarget.style.left = '0px'
@@ -240,7 +240,11 @@ class SearchController {
         link.title = `${result_flavor}: ${item.title}`
 
         icon.href.baseVal = url.toString()
-        node.querySelector('#result').textContent = item.title
+        const result = node.querySelector('#result')
+        if (item.date)
+            result.textContent = `${item.title} (${item.date})`
+        else
+            result.textContent = item.title
 
         return node
     }

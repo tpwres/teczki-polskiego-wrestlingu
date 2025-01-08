@@ -36,19 +36,23 @@ const build_document = async (path) => {
     const text = body.slice(fm_end.index + 4);
 
     const slug = path.replace('content/', '/').replace('.md', '');
+    const date_match = /^content\/e\/(?:\w+)\/(\d{4}-\d{2}-\d{2})/.exec(path);
+    const date = date_match ? date_match[1] : undefined
+
     return {
         // id is mandatory and must be unique
         id: slug.replace(/\//g, '-'),
         // requires processing in results - zola will coerce all non-alpha chars to a dash, e.g. underscores
         path: `${slug}/`,
         title: frontmatter.title,
-        text: text
+        text,
+        date
     };
 }
 
 let index = new MiniSearch({
-    fields: ['title', 'text'],
-    storeFields: ['title', 'path'],
+    fields: ['title', 'text', 'date'],
+    storeFields: ['title', 'path', 'date'],
     processTerm: deaccent
 });
 
