@@ -43,6 +43,12 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '???'
   - nc: upcoming
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - 'Newt Nova'
+  - nc: upcoming
+- - 'Flamingo'
+  - 'R1'
+  - nc: upcoming
 {% end %}
 
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
