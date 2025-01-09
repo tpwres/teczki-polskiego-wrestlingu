@@ -55,6 +55,9 @@
   <strong>
 {% endif %}
 <br/>
+{% if segment and segment is string %}
+  {{ segment | markdown(inline=true) | safe }}
+{% endif %}
 {{ title | default(value="") | markdown(inline=true) | safe }}
 {{ stip | default(value=default_stip) | markdown(inline=true) | safe }}
 </strong>
