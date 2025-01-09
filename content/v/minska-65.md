@@ -6,13 +6,13 @@ authors = ["Seweryn Pielucha"]
 year_list_start = 2024
 +++
 
-Mińska&nbsp;65 is an event venue in Warsaw. It held its first wrestling show, [PpW Co Za Noc](2024-10-26-ppw-co-za-noc.md), in October 2024.
+Mińska&nbsp;65 is an event venue in Warsaw. It held its first wrestling show, [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in October 2024.
 
 ### History
 
 The industrial complex at Mińska&nbsp;65 was built in mid-1950s in the place of "Centralne Warsztaty Samochodowe" (_Central Car Works_) - a pre-war car and motorcycle manufacturer. The building's blueprints were drawn by architects Jerzy Brandysiewicz and Stanisław Zalewski. Mińska&nbsp;65 was the headquarters of the printing house "Drukarnia Naukowo-Techniczna" (_Technical-Scientific Printing House_, formerly known as "Drukarnia im. Rewoulcji Październikowej", _October Revolution Printing House_). It continued to be a printing house up untill 2012, when it shut down its operations. Later on, the complex at Mińska&nbsp;65 was repurposed as an event venue especially targeted at hosting conferences, banquets, fashion shows and others.
 
-In September 2024 PpW announced in a [Facebook post](https://www.facebook.com/photo/?fbid=1045206820943043&set=a.499910772139320) that Mińska&nbsp;65 would host their big show - [Co Za Noc](2024-10-26-ppw-co-za-noc.md).
+In September 2024 PpW announced in a [Facebook post](https://www.facebook.com/photo/?fbid=1045206820943043&set=a.499910772139320) that Mińska&nbsp;65 would host their big show - [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
 
 ### Location 
 
