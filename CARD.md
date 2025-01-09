@@ -94,6 +94,7 @@ Available options are:
 - `r: RESULT` - for situations like DQ or KO. Will be listed as "via RESULT". **Cannot be used together with `nc`**
 - `nc: OUTCOME` - if a match did not have a clear winner, for example ended in a draw, timeout or no-contest. Will be listed as " - OUTCOME". **Cannot be used together with `r`**. For matches that are in the future, use `nc: upcoming`, and if the result is unknown, use `nc: ?`
 - `g: true` - marks this entry as a se`g`ment, not a match. Useful to mark someone's participation that was not a match, because it gets counted towards their years active and the organization's all time roster. When this is present, `nc` and `r` are ignored, but `c` and `s` will still be displayed.
+- `g: SEGMENT DESCRIPTION` - same as above, but text is displayed in the details column. Both this text and stipulation will be displayed, although stipulation should be left empty.
 - `n: TEXT` or `n: [list, of, texts]` - adds notes, which are displayed in a smaller font below the participants. Notes are only visible on event pages, and only when "toggle results" was clicked.
 
 ## Special rows
@@ -122,12 +123,15 @@ Examples:
     c: "WWE Raw Tag Team Title"
 # A future event
 - [David Oliwa, Leon Lato, nc: upcoming]
-# A promo segment, two possible notations
+# A promo segment, many possible notations
 - [Lita, Edge, { g: true, s: Live Sex Celebration}]
 - - Lita
   - Edge
   - g: true
     s: Live Sex Celebration
+- - Lita
+  - Edge
+  - g: Live Sex Celebration
 # A delimiter marking Day 2 of the event
 - d: 'Day 2'
 # Change date for the next set of matches. Do not use quotes for the date.
