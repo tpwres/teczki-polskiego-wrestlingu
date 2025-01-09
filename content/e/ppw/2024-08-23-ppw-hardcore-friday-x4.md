@@ -32,7 +32,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
   - s: Insane Wheel of Fortune Gauntlet Invitational Match
 - - '[Bochen](@/w/bochen.md)'
   - '[Goblin](@/w/goblin.md)'
-  - g: Charity auction of a T-shirt to help fund Bochen the Cat's recovery
+  - g: 'Charity auction of a T-shirt to help fund [Bochen the Cat's](@/w/bochen.md) recovery'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Samson](@/w/samson.md)'
   - s: Non-Title Match
