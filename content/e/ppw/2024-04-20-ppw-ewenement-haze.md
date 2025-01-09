@@ -56,7 +56,7 @@ The foreign guests for this event were:
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: "[PpW Championship](@/c/ppw-championship.md)"
-- - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), Jerry "Rich" Mandecky'
+- - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
   - g: Bazooka turns on Mandecky
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
@@ -240,7 +240,7 @@ With him still on the ramp, Iron Maiden's "The Trooper" starts playing.
 
 Timestamp: `3:53:35`
 
-Jerry "Rich" Mandecky - PpW's major investor makes his entrance, accompanied by his bodyguard, Kapitan Bazooka.
+[Jerry "Rich" Mandecky](@/w/jerry-mandecky.md), PpW's major investor, makes his entrance accompanied by his bodyguard, Kapitan Bazooka.
 
 They pass Feager by and enter the ring, Mandecky turns to Z, still seated in the corner.
 Mandecky is clearly disappointed in Z, he shakes his head at him, looks at Bazooka and they both salute each other - it seems like he wants Bazooka to dispose of Mr Z.
