@@ -6,7 +6,7 @@ authors = ["Seweryn Pielucha"]
 country = ["PL"]
 +++
 
-* Years active: {{ years_active() }}
+* Years active: 2019..present
 
 ## Basic info
 
