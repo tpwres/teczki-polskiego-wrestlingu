@@ -1,8 +1,8 @@
 {% set org_styles = config.extra.org_styles %}
-{% set careers = load_data(path="data/career.json") %}
-{% set empty_career = [] | group_by(attribute='0') %}
-{% set career_key = page.extra | get(key='career_name', default=page.title) %}
-{% set mycareer = careers | get(key=career_key, default=empty_career) %}
+{% set careers = load_data(path="data/career_v2.json") %}
+{% set empty_obj = [] | group_by(attribute='0') %}
+{% set career_key = "@/" ~ page.relative_path %}
+{% set mycareer = careers | get(key=career_key, default=empty_obj) %}
 
 {% if mycareer %}
   <h3>Appearances per promotion and year</h3>

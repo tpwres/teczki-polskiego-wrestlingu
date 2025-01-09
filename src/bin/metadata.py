@@ -10,19 +10,41 @@ from card import Match, Name, CardParseError, extract_names, names_in_match
 from page import EventPage
 from sys import stderr, exit
 
-# Not strictly necessary as the career hash can be used to pull the same info
-def update_years_active(years: dict[str, set[int]], page: EventPage):
-    if not page.card.matches: return
-    if not page.event_date: return
-
-    names = extract_names(page.card.matches)
-
-    for person in names:
-        if not accepted_name(person.name): continue
-        years.setdefault(person.name, set()).add(page.event_date.year)
-
 OrgYears = dict[str, int]
 CareerYears = dict[int, OrgYears]
+
+def update_cbf(career, page: EventPage):
+    event_date = page.event_date
+    orgs = page.orgs
+    card = page.card
+
+    if not card.matches:
+        return
+
+    if not event_date:
+        return
+
+    for mm in card.matches:
+        names = names_in_match(mm)
+
+        for person in names:
+            if not accepted_name(person.name): continue
+            key = person.link or person.name
+
+            entry = career.setdefault(key, {})
+            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+            year.update(orgs)
+
+        if not card.crew: return
+        for person in card.crew.members:
+            if not accepted_name(person.name): continue
+            key = person.link or person.name
+
+            entry = career.setdefault(key, {})
+            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+            year.update(orgs)
+
+
 
 def update_career(career: dict[str, CareerYears], page: EventPage):
     event_date = page.event_date
@@ -54,13 +76,6 @@ def update_career(career: dict[str, CareerYears], page: EventPage):
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
 
-def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
-    result = left.copy()
-    for key in right:
-        year = result.setdefault(key, Counter())
-        year.update(right[key])
-
-    return result
 
 def merge_aliases(career: dict[str, CareerYears]):
     """
@@ -75,8 +90,8 @@ def merge_aliases(career: dict[str, CareerYears]):
             career[main_name] = merge_years(career.get(main_name, {}), c)
 
 def main():
-    years_active = {}
     career = {}
+    career_by_file = {}
     cwd = Path.cwd()
     num_errors = 0
 
@@ -91,8 +106,8 @@ def main():
             if not card.matches:
                 stderr.write(f"{path}: Warning: no card available, skipping\n")
                 continue
-            update_years_active(years_active, page)
             update_career(career, page)
+            update_cbf(career_by_file, page)
         except CardParseError:
             num_errors += 1
 
@@ -104,13 +119,13 @@ def main():
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)
 
-    with (data_dir / 'years-active.json').open('w') as f:
-        print("Saving years active to %s" % f.name)
-        json.dump(years_active, f, cls=RichEncoder)
-
     with (data_dir / 'career.json').open('w') as f:
         print("Saving career to %s" % f.name)
         json.dump(career, f, cls=RichEncoder)
+
+    with (data_dir / 'career_v2.json').open('w') as f:
+        print("Saving career v2 to %s" % f.name)
+        json.dump(career_by_file, f, cls=RichEncoder)
 
 
 if __name__ == "__main__":

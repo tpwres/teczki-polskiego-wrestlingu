@@ -36,7 +36,7 @@ clean:
 data/all_matches.json data/appearances.json data/crew_appearances.json data/appearances_v2.json &: content/e/**/*.md
 	bin/build-matches
 
-data/career.json: content/e/**/*.md
+data/career.json data/career_v2.json &: content/e/**/*.md
 	bin/build-metadata
 
 data/aliases.json: content/w/*.md
