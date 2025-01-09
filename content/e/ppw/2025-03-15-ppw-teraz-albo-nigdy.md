@@ -1,6 +1,7 @@
 +++
 title = "PpW Teraz Albo Nigdy"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["minska-65"]
@@ -11,7 +12,7 @@ hide_results = true
 1 = { path = "2025-03-15-ppw-teraz-albo-nigdy-plakat.jpg", caption = "Official poster.", source = "Official PpW Facebook" }
 +++
 
-Teraz Albo Nigdy (_Now Or Never_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska 65](@/v/minska-65.md).
+Teraz Albo Nigdy (_Now Or Never_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska&nbsp;65](@/v/minska-65.md).
 
 {{ skip_card() }}
 
