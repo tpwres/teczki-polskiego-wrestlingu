@@ -30,7 +30,7 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
 - ['[King Kaiden](@/w/king-kaiden.md)', '[Olgierd](@/w/olgierd.md)']
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: Longman's Confession
+  - g: Longman's confession
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
 - ['[Max Speed](@/w/max-speed.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
 - - '[Karol "Iskra" Górski](@/w/iskra.md)'
