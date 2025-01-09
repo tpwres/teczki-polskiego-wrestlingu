@@ -26,8 +26,7 @@ Originally, Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and
   - '[Chemik](@/w/chemik.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '[Rosetti](@/w/rosetti.md)'
-  - g: true
-    s: Greg holds a marriage-like ceremony to swear in a new tag team of Chemik and Lesak.
+  - g: Greg holds a marriage-like ceremony to swear in a new tag team of Chemik and Lesak.
 - - '[Greg](@/w/greg.md)'
   - '[Darius](@/w/darius.md)'
 - - '[David Oliwa](@/w/david-oliwa.md)'

@@ -21,7 +21,8 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 - ["[Krampus](@/w/krampus.md); [Sinister](@/w/sinister.md); [Syriusz Dziedzic](@/w/dziedzic.md)",
   '[Samson](@/w/samson.md)']
 - ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', "[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)"]
-- ['[Puncher](@/w/puncher.md)', {g: true, s: Burning manga}]
+- - '[Puncher](@/w/puncher.md)'
+  - g: Burning manga
 - ['[Puncher](@/w/puncher.md)', '[Sam Rogers](@/w/sam-rogers.md)']
 - ["Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)", "PAKA:
     [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)", {c: "PTW Tag Team

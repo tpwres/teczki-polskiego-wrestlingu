@@ -28,8 +28,7 @@ The show was quickly sold-out, so the attendance can be approximated at about 22
   - s: Four-way Match
 - - '[Santa Biesiad](@/w/biesiad.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - g: true
-    s: Gifts from Santa
+  - g: Gifts from Santa
 - - '[Santa Biesiad](@/w/biesiad.md)'
   - '[Feager](@/w/feager.md)'
 - - '[Isnorr](@/w/isnorr.md)(c)'

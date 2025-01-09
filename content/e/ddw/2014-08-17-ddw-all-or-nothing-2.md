@@ -21,8 +21,7 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Bianca](@/w/bianca.md)'
   - '[Don Roid](@/w/don-roid.md)'
-  - g: true
-    s: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) boasts about his importance and accomplishments, gets fired by [Don Roid](@/w/don-roid.md).'
+  - g: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) boasts about his importance and accomplishments, gets fired by [Don Roid](@/w/don-roid.md).'
 - - '[Renegade](@/w/renegade.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: '[DDW International Championship](@/c/ddw-international-championship.md) Tournament First Round Match'

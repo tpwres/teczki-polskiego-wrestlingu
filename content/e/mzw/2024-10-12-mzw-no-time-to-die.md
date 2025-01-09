@@ -29,8 +29,7 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
 
 {% card() %}
 - - '[Rafi](@/w/rafi.md)'
-  - g: true
-    s: Rafi announces his retirement from in-ring competition. His match against Marcelito has been cancelled.
+  - g: Rafi announces his retirement from in-ring competition. His match against Marcelito has been cancelled.
 - - '[Alex Ace](@/w/alex-ace.md)(c)'
   - '[Shadow](@/w/shadow.md)'
   - c: ERW East Division Championship
@@ -55,8 +54,7 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - s: Battle Royal Match
 - - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
-  - g: true
-    s: Tomasz hosted a contest, where a small group of volunteers from the audience filled in a test to win MZW T&#8209;shirts and other gadgets.
+  - g: Tomasz hosted a contest, where a small group of volunteers from the audience filled in a test to win MZW T&#8209;shirts and other gadgets.
 - - '[Olgierd](@/w/olgierd.md)' 
   - '[Disco Pablo](@/w/disco-pablo.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'

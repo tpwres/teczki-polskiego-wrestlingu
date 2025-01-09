@@ -31,8 +31,7 @@ Debuting for PTW at this show were:
   - '[Luca Bjorn](@/w/luca-bjorn.md)'
   - s: Trick or Treat Hardcore Match
 - - '[Alex Brave](@/w/alex-brave.md)'
-  - g: true
-    s: The Brave Show - episode 1
+  - g: The Brave Show - episode 1
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Reyca'
 - - '[Rust](@/w/rust.md)'

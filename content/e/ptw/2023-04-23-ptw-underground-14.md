@@ -15,8 +15,9 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 
 {% card() %}
 - ['[Marcelito](@/w/marcelito.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- ['[Axel Fox](@/w/axel-fox.md)', '[Marco Hammers](@/w/marco-hammers.md)', {g: True,
-    s: "Dr Fox examines Marco's baldness"}]
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - g: "Dr Fox examines Marco's baldness"
 - ['[Axel Fox](@/w/axel-fox.md)', '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Rafi Rarytas](@/w/rafi.md)']
 - ["[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)", Salomon Strid, Noah Charon,

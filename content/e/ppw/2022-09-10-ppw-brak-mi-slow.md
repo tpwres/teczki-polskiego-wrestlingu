@@ -17,8 +17,7 @@ source = "[Official PpW Facebook]"
   - '[Mister Z](@/w/mister-z.md)'
   - 'Ms. XXX'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - g: true
-    s: 'Contract signing for PpW Championship match'
+  - g: 'Contract signing for PpW Championship match'
 - - '[Bill Feager](@/w/feager.md)'
   - '[Osamu](@/w/osamu.md)'
 - - 'Feyyaz Aguila'

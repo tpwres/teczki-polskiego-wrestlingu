@@ -62,8 +62,7 @@ There were a significant number of foreign talent at this event, including some 
   - s: Magnificent Seven No-DQ Elimination Championship Contract Ladder Match
 - - '[Chemik](@/w/chemik.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
-  - g: true
-    s: Malinowski criticises Chemik as a champion
+  - g: Malinowski criticises Chemik as a champion
 - - '[Chemik](@/w/chemik.md)(c)'
   - 'Carlos Zamora'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'

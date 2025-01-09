@@ -19,7 +19,8 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
       Street Fight}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Max Speed](@/w/max-speed.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', Violet Nyte]
-- ['[Vincent Caravaggio](@/w/vincent-caravaggio.md)', {g: true}]
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: true
 - ['[Erik Šlotíř](@/w/erik-slotir.md)', '[Marcelito](@/w/marcelito.md)']
 - ['[Dziedzic](@/w/dziedzic.md)', '[King Kaiden](@/w/king-kaiden.md)']
 - ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Renegade](@/w/renegade.md)']

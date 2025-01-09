@@ -46,8 +46,7 @@ For this event, PTW invited several debuting wrestlers:
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Puncher](@/w/puncher.md)'
-  - g: true
-    s: Puncher vs Pawłowski altercation
+  - g:Puncher vs Pawłowski altercation
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: Singles Match
@@ -69,8 +68,7 @@ For this event, PTW invited several debuting wrestlers:
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: Singles Match
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: true
-    s: T-Shirt Auction
+  - g: T-Shirt Auction
 - - '[Diana Strong](@/w/diana-strong.md)'
   - Session Moth Martina
   - s: Singles Match
@@ -79,8 +77,7 @@ For this event, PTW invited several debuting wrestlers:
   - s: Singles Match
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - Krzysztof Skwarczyński
-  - g: true
-    s: Post-match interview
+  - g: Post-match interview
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Spartan](@/w/spartan.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
