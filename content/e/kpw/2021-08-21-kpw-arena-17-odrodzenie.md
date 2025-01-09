@@ -30,8 +30,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
   - 'Crowchester'
 - - '[Greg](@/w/greg.md)'
   - '[Chemik](@/w/chemik.md)'
-  - g: true
-    s: Chemik vows celibacy until he wins three fights.
+  - g: Chemik vows celibacy until he wins three fights.
 - - '[David Oliwa](@/w/david-oliwa.md)(c)'
   - '[Michael Kovac](@/w/michael-kovac.md)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'

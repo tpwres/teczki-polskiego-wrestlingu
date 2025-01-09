@@ -15,8 +15,7 @@ city = "Warszawa"
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Isnorr](@/w/isnorr.md)'
-  - g: true
-    s: New [PpW Championship](@/c/ppw-championship.md) revealed.
+  - g: New [PpW Championship](@/c/ppw-championship.md) revealed.
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[_rookie_ Oskar](@/w/oskar-aleksander.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -40,8 +39,7 @@ city = "Warszawa"
   - '[Mister Z](@/w/johnny-blade.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Samson](@/w/samson.md)'
-  - g: true
-    s: '[Zmowa](@/a/the-collusion.md) vs Zmowa przeciwko zmowie face off'
+  - g: '[Zmowa](@/a/the-collusion.md) vs Zmowa przeciwko zmowie face off'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'

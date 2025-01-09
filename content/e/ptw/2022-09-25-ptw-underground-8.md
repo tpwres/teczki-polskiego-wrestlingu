@@ -32,9 +32,8 @@ For this event, PTW invited Northern Irish wrestler Myla Grace, who was briefly 
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - s: Gauntlet Match
 - - '[Sinister](@/w/sinister.md)'
-  - g: true
-    s: "[Sinister](@/w/sinister.md), as kayfabe owner of Nano Lopez's contract, tears
-      it to pieces in order to fire Lopez from PTW"
+  - g: >
+      Sinister, as kayfabe owner of Nano Lopez's contract, tears it to pieces in order to fire Lopez from PTW.
 - - '[Justin Joy](@/w/justin-joy.md)'
   - '[Robert Star](@/w/robert-star.md)'
 - credits:

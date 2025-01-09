@@ -41,8 +41,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 - - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
   - '[Karyna](@/w/karyna.md)'
   - Marcin Najman
-  - g: true
-    s: Shaving [Karyna](@/w/karyna.md), Najman's MMA promo
+  - g: Shaving [Karyna](@/w/karyna.md)'s head, Najman's MMA promo
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marcelito](@/w/marcelito.md)'
@@ -69,8 +68,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - Karolina (Pawłowski's real-life partner)
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Bad Bones](@/w/bad-bones.md), Marcin "Rzeźnik" Rzeźniczek'
-  - g: true
-    s: "Pawłowski's in-ring proposal"
+  - g: "Pawłowski's in-ring proposal"
     x: [2] # Exclude Karolina from talent list
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

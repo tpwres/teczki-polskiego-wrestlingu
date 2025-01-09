@@ -57,7 +57,7 @@ The foreign guests for this event were:
   - '[Mister Z](@/w/mister-z.md)'
   - c: "[PpW Championship](@/c/ppw-championship.md)"
 - - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), Jerry "Rich" Mandecky'
-  - g: true
+  - g: Bazooka turns on Mandecky
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
   - c: "[PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"

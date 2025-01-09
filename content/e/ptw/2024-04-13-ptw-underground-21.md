@@ -30,11 +30,12 @@ It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11
 - ['[King Kaiden](@/w/king-kaiden.md)', '[Olgierd](@/w/olgierd.md)']
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: true
-    s: Longman's Confession
+  - g: Longman's Confession
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
 - ['[Max Speed](@/w/max-speed.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
-- ['[Karol "Iskra" Górski](@/w/iskra.md)', '[S. Rafał](@/w/alex-brave.md)', {g: true}]
+- - '[Karol "Iskra" Górski](@/w/iskra.md)'
+  - '[S. Rafał](@/w/alex-brave.md)'
+  - g: true
 - - '[Marco "Łysy" Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md) (unsanctioned)'

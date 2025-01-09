@@ -37,8 +37,9 @@ The foreign guests for the event were:
   - '[Primate](@/w/primate.md)'
   - '[Kinga Miotke](@/w/kinga-miotke.md)'
   - '[Krystian Czekaj](@/w/krystian-czekaj.md)'
-  - g: true
-    s: 'Primate vacates the [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md); Krystian Malinowski draws the match types for the main event, assisted by Kinga Miotke and Krystian Czekaj.'
+  - g: >
+      Primate vacates the [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md);
+      Krystian Malinowski draws the match types for the main event, assisted by Kinga Miotke and Krystian Czekaj.
 - - '[Zefir](@/w/zefir.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
 - - 'Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)'

@@ -22,8 +22,9 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 - ["[Wiktor Longman](@/w/wiktor-longman.md)", "[Max Speed](@/w/max-speed.md)", {r: "DQ"}]
 - ["[Diana Strong](@/w/diana-strong.md)", "[Iskra](@/w/iskra.md)", {s: "Intergender
       Match"}]
-- ['[Sinister](@/w/sinister.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)', {g: true,
-    s: Dark Baptism}]
+- - '[Sinister](@/w/sinister.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+  - g: "Syriusz's Dark Baptism"
 - ["[Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md)", "[Marcelito](@/w/marcelito.md),
     [Samson](@/w/samson.md)", {s: "Tag Team Match"}]
 - ["[Puncher](@/w/puncher.md)", "[El Ogre](@/w/olgierd.md)"]

@@ -26,8 +26,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 
 {% card(predicted=true) %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: true
-    s: "Pawłowski's confession"
+  - g: "Pawłowski's confession"
     nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Max Speed](@/w/max-speed.md)'

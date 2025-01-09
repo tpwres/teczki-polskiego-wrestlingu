@@ -26,8 +26,7 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
 {% card() %}
 - - '[Boski 2.0](@/w/ostrowski.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
-  - g: true
-    s: '[Boski 2.0](@/w/ostrowski.md) demands a fight with [David Oliwa](@/w/david-oliwa.md) for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md).'
+  - g: '[Boski 2.0](@/w/ostrowski.md) demands a fight with [David Oliwa](@/w/david-oliwa.md) for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md).'
 - - '[Daniel Boza](@/w/mutant.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
 - - '[Bianca](@/w/bianca.md)'
