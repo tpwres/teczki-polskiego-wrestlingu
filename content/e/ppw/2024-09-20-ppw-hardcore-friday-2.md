@@ -39,7 +39,7 @@ city = "Warszawa"
   - '[Mister Z](@/w/johnny-blade.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Samson](@/w/samson.md)'
-  - g: '[Zmowa](@/a/the-collusion.md) vs Zmowa przeciwko zmowie face off'
+  - g: '[Zmowa](@/a/the-collusion.md) vs Zmowa przeciwko zmowie face-off'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
