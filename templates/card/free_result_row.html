@@ -62,6 +62,9 @@
     </span>
     <span class="c">
         {{ title | markdown(inline=true) | safe }}
+        {% if segment and segment is string %}
+          {{ segment | markdown(inline=true) | safe }}
+        {% endif %}
         {{ stip | markdown(inline=true) | safe }}
         {% if event_name %}
           <small>at {{ event_name | markdown(inline=true) | safe }}</small>

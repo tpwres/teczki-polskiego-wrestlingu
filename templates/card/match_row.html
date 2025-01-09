@@ -26,6 +26,9 @@
     </span>
     <span class="c">
         {{ title | markdown(inline=true) | safe }}
+        {% if segment and segment is string %}
+          {{ segment | markdown(inline=true) | safe }}
+        {% endif %}
         {{ stip | markdown(inline=true) | safe }}
     </span>
 </li>
