@@ -8,7 +8,7 @@ venue = ["czasoprzestrzen"]
 city = "Wrocław"
 [extra.gallery.1]
 path = "2019-08-24-mzw-project-6-death-and-glory-plakat.jpg"
-caption = "Official poster."
+caption = "Official poster, featuring [Asmund](@/w/asmund.md)."
 source = "Official MZW Facebook"
 +++
 
