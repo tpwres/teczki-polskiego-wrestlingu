@@ -8,7 +8,7 @@ chronology = ["dfw"]
 city = "Toruń"
 [extra.gallery.poster]
 path = "dfw-anniversary-poster.webp"
-caption = "Official poster"
+caption = "Official poster, featuring [Charlie](@/w/madman-charlie.md), [Revage](@/w/rafael-kid.md), [Chris Hunter](@/w/chris-hunter.md), [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), Faust XIII, [Prince Victor](@/w/vic-golden.md), [Rob Scaffold](@/w/rob-scaffold.md)."
 source = "Facebook @DreamFactoryWrestling"
 +++
 

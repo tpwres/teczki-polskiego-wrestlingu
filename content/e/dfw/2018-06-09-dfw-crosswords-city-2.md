@@ -7,7 +7,7 @@ chronology = ["dfw"]
 city = "Krzyżówki"
 [extra.gallery.poster]
 path = "dfw-crosswords-city-2-poster.webp"
-caption = "Official poster"
+caption = "Official poster featuring [Direk](@/w/direk.md), [Pain Killer](@/w/pain-killer.md), [Norris](@/w/isnorr.md) and [Rob Scaffold](@/w/rob-scaffold.md)."
 source = "Facebook @DreamFactoryWrestling"
 +++
 
