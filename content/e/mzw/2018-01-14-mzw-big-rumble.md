@@ -8,7 +8,15 @@ venue = ["gosir-glucholazy"]
 city = "Głuchołazy"
 [extra.gallery.1]
 path = "2018-01-14-mzw-big-rumble-plakat.jpg"
-caption = "Official poster"
+caption = "Official poster. Top-down, left to right:
+           [Mr B.](@/w/mr-b.md), Valeria;
+           ???, [Hexia](@/w/hexia.md); 
+           ???, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), ???; 
+           [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);
+           ???, [Rick Baxxter](@/w/rick-baxxter.md), ???;
+           [Jędruś Bułecka](@/w/jedrus-bulecka.md), ???;
+           ???, ???;
+           [Alexander Reich](@/w/alex-ace.md)"
 source = "Official MZW Facebook"
 +++
 
@@ -19,12 +27,12 @@ The event featured their biggest ever battle royale-style match, which had many 
 The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Championship. He was present at ringside, observing the action. Once down to the last two participants, there was a near-finish, when they were standing on the ring apron outside the ropes. Asmund intervened and pulled them both to the ground simultaneously, hoping to avoid his match as there was no clear winner. Unfortunately, Tomasz Warchoł called the absent [Jędruś Bułecka](@/w/jedrus-bulecka.md), who decided that they are going to have a Triple Threat Match instead.
 
 {% card() %}
-- - "[Shadow](@/w/shadow.md) + [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "[Alexander Reich](@/w/alex-ace.md)"
-  - "[Amisz](@/w/axel-fox.md)"
-  - "[Bartosz Borowsky](@/w/boro.md)"
+- - '[Shadow](@/w/shadow.md) + [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Alexander Reich](@/w/alex-ace.md)'
+  - '[Amisz](@/w/axel-fox.md)'
+  - '[Bartosz Borowsky](@/w/boro.md)'
   - Bartuk
-  - "[Christopher Anthony](@/w/christopher-anthony.md)"
+  - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Damien Rothschild](@/w/damien-rothschild.md)'
   - Demon
   - Denim
@@ -32,24 +40,25 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - Ezeny
   - '[Hexia](@/w/hexia.md)'
   - Kent
-  - "[Kuba Kamiński](@/w/jacob-crane.md)"
+  - '[Kuba Kamiński](@/w/jacob-crane.md)'
   - Laurance Roman
   - Marcel Koniecki
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - '[Mr B.](@/w/mr-b.md)'
-  - "[Rafael Kid](@/w/rafael-kid.md)"
+  - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Red Thunder](@/w/red-thunder.md)'
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - '[Ronny Kessler](@/w/ronny-kessler.md)'
   - Ronzen
   - Sebastien
-  - "[Skull Evil](@/w/skull-evil.md)"
+  - '[Skull Evil](@/w/skull-evil.md)'
   - Valeria
-  - s: "MZW Championship #1 Contender 26 Man Royal Rumble Match"
-- - "[Shadow](@/w/shadow.md)"
-  - "[Asmund](@/w/asmund.md)(c)"
-  - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - {c: "MZW Championship", s: "Triple Threat Match"}
+  - s: 'MZW Championship #1 Contender 26 Man Royal Rumble Match'
+- - '[Shadow](@/w/shadow.md)'
+  - '[Asmund](@/w/asmund.md)(c)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - c: '[MZW Championship](@/c/mzw-championship.md)'
+    s: 'Triple Threat Match'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Referees: '[Tomasz Warchoł](@/w/tomasz-warchol.md), [Sędzia Rafael](@/w/rafael-kid.md)'
