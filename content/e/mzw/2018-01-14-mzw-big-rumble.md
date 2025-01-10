@@ -17,7 +17,7 @@ caption = """\
   ???, [Rick Baxxter](@/w/rick-baxxter.md), ???;
   [Jędruś Bułecka](@/w/jedrus-bulecka.md), ???;
   ???, ???;
-  [Alexander Reich](@/w/alex-ace.md)
+  [Alexander Reich](@/w/alex-ace.md).
 """
 source = "Official MZW Facebook"
 +++
