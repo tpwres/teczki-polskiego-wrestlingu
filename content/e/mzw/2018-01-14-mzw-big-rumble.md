@@ -8,15 +8,17 @@ venue = ["gosir-glucholazy"]
 city = "Głuchołazy"
 [extra.gallery.1]
 path = "2018-01-14-mzw-big-rumble-plakat.jpg"
-caption = "Official poster. Top-down, left to right:
-           [Mr B.](@/w/mr-b.md), Valeria;
-           ???, [Hexia](@/w/hexia.md); 
-           ???, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), ???; 
-           [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);
-           ???, [Rick Baxxter](@/w/rick-baxxter.md), ???;
-           [Jędruś Bułecka](@/w/jedrus-bulecka.md), ???;
-           ???, ???;
-           [Alexander Reich](@/w/alex-ace.md)"
+caption = """\
+  Official poster. Top-down, left to right:
+  [Mr B.](@/w/mr-b.md), Valeria;
+  ???, [Hexia](@/w/hexia.md); 
+  ???, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), ???; 
+  [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);
+  ???, [Rick Baxxter](@/w/rick-baxxter.md), ???;
+  [Jędruś Bułecka](@/w/jedrus-bulecka.md), ???;
+  ???, ???;
+  [Alexander Reich](@/w/alex-ace.md)
+"""
 source = "Official MZW Facebook"
 +++
 
