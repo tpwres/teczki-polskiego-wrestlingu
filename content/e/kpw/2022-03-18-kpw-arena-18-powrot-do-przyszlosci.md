@@ -9,7 +9,7 @@ venue=["atlantic-nh-gdynia"]
 city = "Gdynia"
 [extra.gallery]
 1 = { path = "2022-03-18-kpw-arena-18-powrot-do-przyszlosci-plakat.jpg", caption = "Official poster, featuring [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-2 = { path = "arena-18-rosetti-i-krystian-czekaj.jpg", caption = 'Rosetti is late for his fight.', source = "M3n747" }
+2 = { path = "arena-18-rosetti-i-krystian-czekaj.jpg", caption = 'Late for his fight, Rosetti argues with [referee Krystian Czekaj](@/w/krystian-czekaj.md).', source = "M3n747" }
 +++
 
 Powrót Do Przyszłości (_Back To The Future_) was KPW's 18th Arena show, and the second post-pandemic one, after another 7-month long hiatus. This time, the show's name

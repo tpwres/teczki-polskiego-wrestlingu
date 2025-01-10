@@ -8,7 +8,7 @@ venue=["gdynia-sports-center"]
 city = "Gdynia"
 [extra.gallery.1]
 path = "2019-08-17-kpw-godzina-zero-2019-plakat.jpg"
-caption = "Official poster. Top row: [David Oliwa](@/w/david-oliwa.md), [Dom Taylor](@/w/dom-taylor.md), [Greg](@/w/greg.md), Primate, Steinbolt. Bottom row: [Rosetti](@/w/rosetti.md), Sixt, [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Sawicki](@/w/sawicki.md), [Bianca](@/w/bianca.md)."
+caption = "Official poster. Top row: [David Oliwa](@/w/david-oliwa.md), [Dom Taylor](@/w/dom-taylor.md), [Greg](@/w/greg.md), [Primate](@/w/primate.md), Steinbolt. Bottom row: [Rosetti](@/w/rosetti.md), Sixt, [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Sawicki](@/w/sawicki.md), [Bianca](@/w/bianca.md)."
 source = "kpwrestling.pl / Official KPW Facebook"
 +++
 

@@ -7,16 +7,16 @@ venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2021-08-21-kpw-arena-17-odrodzenie-plakat.jpg", caption = "Official poster, featuring Michael Kovac.", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2021-08-21-kpw-arena-17-odrodzenie-plakat.jpg", caption = "Official poster, featuring [Michael Kovac](@/w/michael-kovac.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Odrodzenie (_The Rebirth_) was KPW's first show after an extended, 18 month hiatus caused by the COVID-19 pandemic. The venue was again the Gdynia Sports Center,
 although it would be the last show held there, with the following events moving to a smaller venue. The name refers to the organization finally recovering from the pandemic crisis (and being drained of talent by the new PTW), experiencing a rebirth of sorts. Because the annual supershow Godzina Zero was not held that year, and because this event took its usual spot in the middle of August, it can also be considered that year's replacement.
 
 Foreign guests this time were the returning Crowchester (previously seen at [KPW OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md)), Slovakian wrestler Ricky Sky, and Austrian veteran wrestler and trainer Michael Kovac, plus the already familiar [Fynn Freyhart](@/w/fynn-freyhart.md). For Kovac, this was a return to Poland after over a decade: in 2009 he wrestled El Generico at [DDW#3](@/e/ddw/2009-10-24-ddw-3.md).
-There were also three debuts: we saw KPW's new high flying masked luchador Zefir, and the tag team of Filip and Michał Fux.
+The event aslo saw the debuts of three new wrestlers: the high-flying masked luchador [Zefir](@/w/zefir.md), and the tag team of [Filip](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md).
 
-Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart.md). A Facebook post announced that he's unable to compete due to injury, and two days later Ricky Sky was announced to take his place.
+Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart.md). However, Chemik stated in a Facebook post that he was unable to compete due to an injury, and two days later Ricky Sky was announced as his replacement.
 
 {% card() %}
 - - '[Rosetti](@/w/rosetti.md)'

@@ -7,7 +7,7 @@ venue=["atlantic-nh-gdynia"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2017-04-08-kpw-arena-6-selekcja-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2017-04-08-kpw-arena-6-selekcja-plakat.jpg", caption = "Official poster, featuring [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Bianca](@/w/bianca.md) and [Sawicki](@/w/sawicki.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The sixth Arena show, Selekcja (_The Selection_) was held once again in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia.

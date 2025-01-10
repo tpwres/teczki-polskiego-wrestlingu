@@ -7,11 +7,11 @@ venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2018-11-03-kpw-arena-11-podwojne-zagrozenie-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2018-11-03-kpw-arena-11-podwojne-zagrozenie-plakat.jpg", caption = "Official poster. Shown are:
+[David Oliwa](@/w/david-oliwa.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Dom Taylor](@/w/dom-taylor.md), [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Rosetti](@/w/rosetti.md) and [Boski Ostrowski](@/w/ostrowski.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Podwójne Zagrożenie (_Double Threat_) was an event by [KPW](@/o/kpw.md), held in the Gdynia Sports Center. The entire event was a tournament to crown the inaugural KPW Tag Team Champions.
-
 
 #### Build-up
 

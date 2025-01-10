@@ -7,7 +7,7 @@ venue=["atlantic-nh-gdynia"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2017-06-10-kpw-arena-7-wysoka-stawka-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2017-06-10-kpw-arena-7-wysoka-stawka-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md) and [Greg](@/w/greg.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), a music venue in Gdynia. This event set up stories for the upcoming Godzina Zero show held two months later.
@@ -30,9 +30,10 @@ Wysoka Stawka (_High Stakes_) was KPW's seventh Arena event, held in [Klub Atlan
 
 #### Recap
 
-* Fans annoy Gracjan by calling him Gracjan Porno. [Krzysztof Zasada](@/w/krzysztof-zasada.md) protects Kowalski, and annoyed at his boss, dropkicks him with his signature catphrase "W imię zasad!" ("In the name of principles!").
-* Ostrowski enters with not only [Mira](@/w/mira.md), but an unnamed second girl. She would later be revealed as [Alisa](@/w/alisa.md).
-* After the event, Pawłowski announced a surprise, and invited the faces to the ring. Pannache takes over the mic, and explains that [David Oliwa](@/w/david-oliwa.md) celebrated his (28th) birthday just days before. A birthday cake is revealed, decorated with the KPW logo. Fans sing "Sto lat" (Polish _Happy Birthday_ song). Kawaler's music hits, [Greg](@/w/greg.md) walks in, and declares his disregard for the birthday, only to get the cake in his face to great crowd reactions.
+* Although [Bianca](@/w/bianca.md) was featured on the poster, she was abstent from the show itself.
+* Fans annoy Gracjan by calling him Gracjan Porno. [Krzysztof Zasada](@/w/krzysztof-zasada.md) protects Kowalski and, annoyed with his boss, dropkicks him with his signature catphrase "W imię zasad!" (_In the name of principles!_).
+* Ostrowski enters not only with [Mira](@/w/mira.md), but also with another, unnamed girl. She would later be revealed as [Alisa](@/w/alisa.md).
+* After the event, Pawłowski announces a surprise and invites the faces to the ring. Pannache takes over the mic and explains that [David Oliwa](@/w/david-oliwa.md) celebrated his (28th) birthday just days before. A birthday cake is revealed, decorated with the KPW logo. Fans sing "Sto lat" (Polish equivallent to _Happy Birthday_). Kawaler's music hits, [Greg](@/w/greg.md) walks in, and declares his disregard for the birthday, only to get the cake in his face to great crowd reactions.
 
 ### References
 

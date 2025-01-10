@@ -12,7 +12,7 @@ caption = "Official poster. In the top row are [Michał Fux](@/w/michal-fux.md),
 source = "kpwrestling.pl / Official KPW Facebook"
 [extra.gallery.2]
 path = "2024-09-07-kpw-godzina-zero-2024-zefir-microphone.jpg"
-caption = "Zefir with the microphone."
+caption = "Left to right: [Eryk Lesak](@/w/eryk-lesak.md), [Darius](@/w/darius.md), Flexos, [Rosetti](@/w/rosetti.md), [Hans Schulte](@/w/hans-schulte.md) and [Zefir](@/w/zefir.md) with a microphone."
 source = "M3n747"
 [extra.gallery.3]
 path = "2024-09-07-kpw-godzina-zero-2024-zefir-unmasked.jpg"

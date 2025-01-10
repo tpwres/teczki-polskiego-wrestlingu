@@ -7,7 +7,7 @@ venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2017-11-18-kpw-arena-8-droga-bez-powrotu-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2017-11-18-kpw-arena-8-droga-bez-powrotu-plakat.jpg", caption = "Official poster. Shown are: [Peter Pannache](@/w/peter-pannache.md), [Robert Star](@/w/robert-star.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Bianca](@/w/bianca.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the first one (although second after Godzina Zero 2017) to be held at the Gdynia Sport Center.
@@ -20,13 +20,13 @@ Droga Bez Powrotu (_The Road of No Return_) was the eight Arena show, and the fi
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-- - "[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)"
-  - "[Mateusz Kowalski](@/w/mateusz-kakareko.md), [Adam Bravo](@/w/adam-bravo.md)"
+- - '[Rosetti](@/w/rosetti.md), [Sawicki](@/w/sawicki.md)'
+  - '[Mateusz Kowalski](@/w/mateusz-kakareko.md), [Adam Bravo](@/w/adam-bravo.md)'
   - s: Tag Team Match
-- - "[Robert Star](@/w/robert-star.md)"
-  - "[Greg](@/w/greg.md)(c)"
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Greg](@/w/greg.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-    s: "(#1 Contender Match for Robert Star)"
+    s: '(#1 Contender Match for Robert Star)'
     r: DQ
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

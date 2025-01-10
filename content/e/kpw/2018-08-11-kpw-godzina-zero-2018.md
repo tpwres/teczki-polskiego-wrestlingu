@@ -7,7 +7,7 @@ venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2018-08-11-kpw-godzina-zero-2018-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2018-08-11-kpw-godzina-zero-2018-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md), Tom LaRuffa, [Greg](@/w/greg.md), [Robert Star](@/w/robert-star.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Bianca](@/w/bianca.md) and Tristan Archer.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The third Godzina Zero (_Zero Hour_) event featured three new foreign guests. One was French wrestler Tom LaRuffa, who spent a couple of years in NXT, then briefly in TNA. Another was Swedish female wrestler Sixt, then primarily appearing in Scandinavia. Finally, Tristan Archer, another French, very experienced wrestler, by that time already well known on the European scene. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned in his second match for KPW, after appearing in the previous year's Godzina Zero event.
