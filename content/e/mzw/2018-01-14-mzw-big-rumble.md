@@ -9,14 +9,14 @@ city = "Głuchołazy"
 [extra.gallery.1]
 path = "2018-01-14-mzw-big-rumble-plakat.jpg"
 caption = """\
-  Official poster. Top-down, left to right:
-  [Mr B.](@/w/mr-b.md), Valeria;
-  ???, [Hexia](@/w/hexia.md); 
-  ???, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), ???; 
-  [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);
-  ???, [Rick Baxxter](@/w/rick-baxxter.md), ???;
-  [Jędruś Bułecka](@/w/jedrus-bulecka.md), ???;
-  ???, ???;
+  Official poster. Top-down, left to right:<br>
+  [Mr B.](@/w/mr-b.md), Valeria;<br>
+  ???, [Hexia](@/w/hexia.md);<br>
+  ???, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), ???;<br>
+  [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);<br>
+  ???, [Rick Baxxter](@/w/rick-baxxter.md), ???;<br>
+  [Jędruś Bułecka](@/w/jedrus-bulecka.md), ???;<br>
+  ???, ???;<br>
   [Alexander Reich](@/w/alex-ace.md).
 """
 source = "Official MZW Facebook"
