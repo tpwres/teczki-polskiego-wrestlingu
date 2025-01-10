@@ -7,8 +7,8 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
-1 = { path = "2020-02-15-ppw-brawl-for-the-puppies-plakat.jpg", caption = "Official poster", source = "[Amsker's Facebook]" }
-2 = { path = "2020-02-15-ppw-brawl-for-the-puppies-logo.jpg", caption = "Official logo", source = "[Official PpW Facebook]" }
+1 = { path = "2020-02-15-ppw-brawl-for-the-puppies-plakat.jpg", caption = "Official poster", source = "Amsker's Facebook" }
+2 = { path = "2020-02-15-ppw-brawl-for-the-puppies-logo.jpg", caption = "Official logo", source = "Official PpW Facebook" }
 +++
 
 Bijatyka Dla Piesków (_Brawl for the Puppies_) was an event by [PpW Ewenement](@/o/ppw.md), held on Saturday, February 15th 2020.

@@ -8,9 +8,9 @@ venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
-1 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster.", source = "Official PpW Facebook"}
+1 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
 2 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
-3 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._", source = "Official PpW Facebook" }
+3 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._ In the corner are cartoons of [Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
 +++
 
 "Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It took place in a brand new venue - a post-industrial complex at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
