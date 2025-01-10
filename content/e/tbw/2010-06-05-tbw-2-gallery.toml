@@ -4,11 +4,11 @@
 04 = { path = "IMG_7223_1.jpeg", caption = 'Owner, organiser and commentator Andrzej "The Professor of Wrestling" Supron', source = "wrestling.nazwa.pl" }
 05 = { path = "IMG_7228_1.jpeg", caption = 'Owner, organiser and commentator [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)', source = "wrestling.nazwa.pl" }
 06 = { path = "IMG_7247_1.jpeg", caption = "Mexx (upright)", source = "wrestling.nazwa.pl" }
-07 = { path = "IMG_7252_1.jpeg", caption = "Rambo running into Chris the Bambikiller, with Michael Kovac in the corner", source = "wrestling.nazwa.pl" }
-08 = { path = "IMG_7254_1.jpeg", caption = "Michael Kovac chopping Rambo in the corner", source = "wrestling.nazwa.pl" }
-09 = { path = "IMG_7269_1.jpeg", caption = "Rambo and Mexx with a double suplex to Kovac", source = "wrestling.nazwa.pl" }
+07 = { path = "IMG_7252_1.jpeg", caption = "Rambo running into Chris the Bambikiller, with [Michael Kovac](@/w/michael-kovac.md) in the corner", source = "wrestling.nazwa.pl" }
+08 = { path = "IMG_7254_1.jpeg", caption = "[Michael Kovac](@/w/michael-kovac.md) chopping Rambo in the corner", source = "wrestling.nazwa.pl" }
+09 = { path = "IMG_7269_1.jpeg", caption = "Rambo and Mexx with a double suplex to [Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl" }
 10 = { path = "IMG_7274_1.jpeg", caption = "Chris the Bambikiller landing a splash on Rambo", source = "wrestling.nazwa.pl" }
-11 = { path = "IMG_7279_1.jpeg", caption = "Mexx throwing Kovac", source = "wrestling.nazwa.pl" }
+11 = { path = "IMG_7279_1.jpeg", caption = "Mexx throwing [Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl" }
 12 = { path = "IMG_7296_1.jpeg", caption = 'Kamil "Highlander" Bazelak', source = "wrestling.nazwa.pl" }
 13 = { path = "IMG_7353_1.jpeg", caption = "Commentary team: [Borkowski](@/w/pawel-borkowski.md) and Supron", source = "wrestling.nazwa.pl" }
 14 = { path = "IMG_7376_1.jpeg", caption = "Blue Nikita posing in the ring, Damon Brix sitting in the corner", source = "wrestling.nazwa.pl" }
@@ -30,6 +30,6 @@
 30 = { path = "IMG_7603_1.jpeg", caption = "Bernard Vandamme escaping a splash from Cybernic Machine", source = "wrestling.nazwa.pl" }
 31 = { path = "IMG_7622_1.jpeg", caption = "Vandamme handing over the European Wrestling Championship belt to Cybernic Machine", source = "wrestling.nazwa.pl" }
 32 = { path = "IMG_7625_1.jpeg", caption = "Cybernic Machine with the belt", source = "wrestling.nazwa.pl" }
-33 = { path = "IMG_7650_1.jpeg", caption = "Michael Kovac signing autographs after the event", source = "wrestling.nazwa.pl" }
+33 = { path = "IMG_7650_1.jpeg", caption = "[Michael Kovac](@/w/michael-kovac.md) signing autographs after the event", source = "wrestling.nazwa.pl" }
 34 = { path = "IMG_7667_1.jpeg", caption = "Cybernic Machine showing the Eurostars championship belt ", source = "wrestling.nazwa.pl" }
 35 = { path = "IMG_7677_1.jpeg", caption = "Andrzej Supron surrounded by women at the afterparty", source = "wrestling.nazwa.pl" }
