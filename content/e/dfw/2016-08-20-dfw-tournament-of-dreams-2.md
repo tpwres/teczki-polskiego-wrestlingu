@@ -8,7 +8,7 @@ chronology = ["dfw"]
 city = "Toruń"
 [extra.gallery.poster]
 path = "dfw-tournament-of-dreams-poster.webp"
-caption = "Official poster"
+caption = "Official poster. Top to bottom: [Corin Maer](@/w/corin-mear.md), [Pain Killer](@/w/pain-killer.md), [Chris Hunter](@/w/chris-hunter.md)."
 source = "Facebook @DreamFactoryWrestling"
 +++
 

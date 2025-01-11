@@ -8,7 +8,7 @@ chronology = ["dfw"]
 city = "Krzyżówki"
 [extra.gallery.poster]
 path = "dfw-crosswords-city-plakat.webp"
-caption = "Official poster"
+caption = "Official poster, featuring [Revage](@/w/rafael-kid.md) and [Direk](@/w/direk.md)."
 source = "Facebook @DreamFactoryWrestling"
 +++
 

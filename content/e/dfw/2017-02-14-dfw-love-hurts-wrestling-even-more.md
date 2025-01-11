@@ -7,7 +7,7 @@ chronology = ["dfw"]
 city = "Toruń"
 [extra.gallery.poster]
 path = "dfw-love-hurts-poster.webp"
-caption = "Official poster"
+caption = "Official poster featuring [Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md) and [Corin Maer](@/w/corin-mear.md)."
 source = "Facebook @DreamFactoryWrestling"
 +++
 
