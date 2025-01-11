@@ -7,11 +7,11 @@ venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster", source = "DDW Facebook" }
+1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster", source = "Official DDW Facebook" }
 2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "Kasandra vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
 3 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-1.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
-4 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-2.jpg", caption = "Greg vs Robert Star", source = "Krystian Malinowski" }
-5 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-3.jpg", caption = "Greg vs Robert Star", source = "Krystian Malinowski" }
+4 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-2.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
+5 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-3.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
 +++
 
 This was one of the final shows to be held under the [DDW](@/o/ddw.md) banner. After moving the organization from Rzeszów to Gdańsk, the local wrestlers (which at that time were the majority) started to run things without the owner's input.
