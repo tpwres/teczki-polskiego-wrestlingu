@@ -7,7 +7,7 @@ venue = ["hallera 16"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-1 = { path = "2016-11-26-kpw-arena-4-nowy-rozdzial-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2016-11-26-kpw-arena-4-nowy-rozdzial-plakat.jpg", caption = "Official poster, featuring [Kamil Aleksander](@/w/kamil-aleksander.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md) and [David Oliwa](@/w/david-oliwa.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 2 = { path = "hallera-16.jpg", caption = "The school in 2024, as seen from the nearby tram stop.", source = "M3n747" }
 3 = { path = "wrzeszcz-dolny-panorama.jpg", caption = "Panoramic view of the Dolny Wrzeszcz district of Gdańsk. Visible in the bottom-right is the gym hall where the event took place.", source = "Artur Andrzej / Wikipedia.pl" }
 +++

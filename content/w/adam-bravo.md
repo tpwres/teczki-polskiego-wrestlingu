@@ -3,6 +3,8 @@ title = "Adam Bravo"
 template = "talent_page.html"
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "adam-bravo.jpg", caption = "Adam Bravo at an unspecified event.", source = "MyWrestling.com.pl" }
 +++
 
 ## Professional wrestling career

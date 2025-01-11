@@ -7,10 +7,10 @@ venue=["atlantic-nh-gdynia"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2017-01-14-kpw-arena-v-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2017-01-14-kpw-arena-v-plakat.jpg", caption = "Official poster, featuring [Robert Star](@/w/robert-star.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Bianca](@/w/bianca.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-The fifth Arena show, this time numbered with Roman V instead of a 5, was the first event to be held in [Atlantic](@/v/atlantic-nh-gdynia.md), a music club and bar located in the very center of Gdynia.
+The fifth Arena show, this time numbered with a Roman V instead of an Arabic 5, was the first event to be held in [Atlantic](@/v/atlantic-nh-gdynia.md), a music club and bar located in the very center of Gdynia.
 
 The main event featured British wrestler Pastor William Eaver, a former PROGRESS wrestling champion and UK scene mainstay from 2013 until 2021. This would be his only KPW appearance.
 
@@ -30,8 +30,8 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 
 #### Recap
 
-* [Bianca](@/w/bianca.md) was the special referee for the main event, and featured on the show poster in a ref's attire. Previously she refereed Kawaler vs [Robert Star](@/w/robert-star.md) at [Arena 3](@/e/kpw/2016-06-11-kpw-arena-3.md).
-* Eaver initially won by pinfall, but [Bianca](@/w/bianca.md) later reversed the decision and restarted the match as Kawaler was seen grabbing the ropes
+* [Bianca](@/w/bianca.md) was the special referee for the main event, and featured on the show poster in a ref's attire. Previously she'd refereed Kawaler vs [Robert Star](@/w/robert-star.md) at [Arena 3](@/e/kpw/2016-06-11-kpw-arena-3.md).
+* Eaver initially won by pinfall, but [Bianca](@/w/bianca.md) later reversed the decision and restarted the match as Kawaler was seen grabbing the ropes.
 * In the post-match brawl, Kawaleria attacked [Bianca](@/w/bianca.md), and tried to powerbomb her into Eaver's crotch. Kawaler himself landed a flying elbow on it later.
 * The beaten up Eaver left the ring to chants of "Believe!"
 

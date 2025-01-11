@@ -8,6 +8,7 @@ venue=["gdynia-sports-center"]
 city = "Gdynia"
 [extra.gallery]
 1 = { path = "2019-04-05-kpw-arena-13-capo-di-tutti-capi-plakat.jpg", caption = "Official poster, with [Piękny Kawaler](@/w/piekny-kawaler.md) and [Robert Star](@/w/robert-star.md) dressed like gangsters.", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "capo-di-prawie-capi.jpg", caption = "Original version of the photograph, before editing.", source = "kawalerwrestling @ Facebook" }
 +++
 
 Arena 13 was held on Apr 5 2019 in Gdynia Sports Center. The event's name, an Italian phrase associated with the Mafia, meaning _Boss of all the Bosses_, is a reference to the fact that KPW would finally select their new Chairman persona on this event, closing this storyline. It would also see the first ever title defense of the new Tag Team Championship.
@@ -16,7 +17,7 @@ Originally, the tag team champions were scheduled against German wrestlers [Fynn
 
 ### Stories leading to the event
 
-* In a promo released before the event, [Rosetti](@/w/rosetti.md) mockedly named their opponents as Fynn Frajerheart (_frajer_ being the word for loser) and Vincent Heineken while raising a bottle of the same, with a faux German accent. This was followed by more references to Germany and war crimes. At the end, [Sawicki](@/w/sawicki.md) smashes the green beer bottle against a wall, calling it "fucking German piss". Heineken is a Dutch beer company.
+* In a promo released before the event, [Rosetti](@/w/rosetti.md) mockingly referred to their opponents as Fynn Frajerheart (_frajer_ being the word for loser) and Vincent Heineken, with a faux German accent, while raising a bottle of a Heineken beer. This was followed by more references to Germany and war crimes. At the end, [Sawicki](@/w/sawicki.md) smashed the green beer bottle against a wall, calling it "fucking German piss". Heineken is a Dutch company.
 * In another promo, Chairman candidate [Krzysztof Zasada](@/w/krzysztof-zasada.md) withdrew himself, giving his support to candidate Malinowski.
 * Yet another promo, recorded in a horror style, featured the future [Diana](@/w/diana-strong.md) calling [Moloch](@/w/moloch.md) unbeatable in a solo fight. [Peter Pannache](@/w/peter-pannache.md) would be the next one to challenge that claim.
 

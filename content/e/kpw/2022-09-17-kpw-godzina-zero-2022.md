@@ -8,7 +8,7 @@ venue=["atlantic-nh-gdynia"]
 city = "Gdynia"
 [extra.gallery.1]
 path = "2022-09-17-kpw-godzina-zero-2022-plakat.jpg"
-caption = "Official poster. With [Greg](@/w/greg.md) in the background, the characters from left to right, top to bottom are: [David Oliwa](@/w/david-oliwa.md), Primate, Wild Boar, [Darius](@/w/darius.md), [Chemik](@/w/chemik.md), [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md), then [Zefir](@/w/zefir.md) in his mask. "
+caption = "Official poster. With [Greg](@/w/greg.md) in the background, the characters from left to right, top to bottom are: [David Oliwa](@/w/david-oliwa.md), Primate, Wild Boar, [Darius](@/w/darius.md), [Chemik](@/w/chemik.md), [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), and the masked [Zefir](@/w/zefir.md)."
 source = "kpwrestling.pl / Official KPW Facebook"
 +++
 

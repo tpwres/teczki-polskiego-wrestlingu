@@ -7,33 +7,34 @@ chronology = ["kpw"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-1 = { path = "2015-11-14-vs-the-world-hungary-for-kombat-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2015-11-14-vs-the-world-hungary-for-kombat-plakat.jpg", caption = "Official poster. Left to right: ???, [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Bianca](@/w/bianca.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 KPW vs the World was the first event held by the newly created KPW, on November 14, 2015, in the gymnastics hall of Gimnazjum 8 in Gdańsk. This was the same venue that hosted [DDW](@/o/ddw.md)'s [final event](@/e/ddw/2015-05-02-ddw-house-show-2.md). The show's poster also advertised showcases of judo and capoeira to accompany wrestling.
 
-Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular [Ron Corvus](@/w/ron-corvus.md) would become a familiar face in KPW. The Nations Cup concept on this event had each country score one point for a victory, across 5 matches so that a tie was not possible.
+Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular [Ron Corvus](@/w/ron-corvus.md) would become a familiar face in KPW. The Nations Cup concept at this event had each country score one point for a victory across 5 matches, so that a tie was not possible.
 
 {% card() %}
-- - "[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)"
-  - "[Boski Ostrowski](@/w/ostrowski.md), [Victor Rosetti](@/w/rosetti.md)"
-  - {s: "Tag Team Match"}
-- ['[Mira](@/w/mira.md)', Kasandra]
-- - "Team Hungary: [Renegade](@/w/renegade.md)"
-  - "Team KPW: [Kaszub](@/w/kaszub.md)"
-  - s: "KPW vs Hungary Nations Cup Round 1 Match"
-- - "Team KPW: [Bianca](@/w/bianca.md)"
-  - "Team Hungary: Audrey Bride"
-  - s: "KPW vs Hungary Nations Cup Round 2 Match"
-- - "Team Hungary: [Ron Corvus](@/w/ron-corvus.md)"
-  - "Team KPW: [Robert Star](@/w/robert-star.md)"
-  - s: "KPW vs Hungary Nations Cup Round 3 Hardcore Match"
-- - "Team KPW: [Piękny Kawaler](@/w/piekny-kawaler.md)"
-  - "Team Hungary: [Nitro](@/w/nitro.md)"
-  - s: "KPW vs Hungary Nations Cup Round 4 Falls Count Anywhere Match"
-- - "Team KPW: [Kamil Aleksander](@/w/kamil-aleksander.md)"
-  - "Team Hungary: [Dover](@/w/dover.md)"
-  - s: "KPW vs Hungary Nations Cup Round 5 Match"
+- - '[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md), [Victor Rosetti](@/w/rosetti.md)'
+  - {s: 'Tag Team Match'}
+- - '[Mira](@/w/mira.md)'
+  - Kasandra
+- - 'Team Hungary: [Renegade](@/w/renegade.md)'
+  - 'Team KPW: [Kaszub](@/w/kaszub.md)'
+  - s: 'KPW vs Hungary Nations Cup Round 1 Match'
+- - 'Team KPW: [Bianca](@/w/bianca.md)'
+  - 'Team Hungary: Audrey Bride'
+  - s: 'KPW vs Hungary Nations Cup Round 2 Match'
+- - 'Team Hungary: [Ron Corvus](@/w/ron-corvus.md)'
+  - 'Team KPW: [Robert Star](@/w/robert-star.md)'
+  - s: 'KPW vs Hungary Nations Cup Round 3 Hardcore Match'
+- - 'Team KPW: [Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - 'Team Hungary: [Nitro](@/w/nitro.md)'
+  - s: 'KPW vs Hungary Nations Cup Round 4 Falls Count Anywhere Match'
+- - 'Team KPW: [Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - 'Team Hungary: [Dover](@/w/dover.md)'
+  - s: 'KPW vs Hungary Nations Cup Round 5 Match'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'

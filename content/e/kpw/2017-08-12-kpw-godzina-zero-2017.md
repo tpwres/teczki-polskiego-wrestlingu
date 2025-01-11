@@ -7,7 +7,7 @@ venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2017-08-12-kpw-godzina-zero-2017-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2017-08-12-kpw-godzina-zero-2017-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), Joey Ozbourne, [Fynn Freyhard](@/w/fynn-freyhart.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md), [Wild Boar](@/w/wild-boar.md), Kat Von Kaige, Mika the Polish Punisher, [David Oliwa](@/w/david-oliwa.md), [Peter Pannache](@/w/peter-pannache.md) and [Robert Star](@/w/robert-star.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The second Godzina Zero (_Zero Hour_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.
@@ -21,7 +21,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 {% card() %}
 - ['[Peter Pannache](@/w/peter-pannache.md)', '[Kaszub](@/w/kaszub.md)']
 - ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)', {nc: No Contest}]
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Mika The Polish Punisher]
+- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Mika the Polish Punisher]
 - ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Krzysztof Zasada](@/w/krzysztof-zasada.md)']
 - ['[Greg](@/w/greg.md)(c)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"}]
 - ['[Robert Star](@/w/robert-star.md)', Joey Ozbourne, {s: "No Disqualification Match"}]
@@ -54,7 +54,6 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 * The Magnificent Seven match was supposed to have seven participants, but [Gracjan Korpo](@/w/gracjan-korpo.md) added himself unceremoniously. The stipulation was basically same as Money In The Bank. Lots of great TLC action.
 * The womens match got the most difficult slot to fill, and mostly did not deliver.
 * Boar had to fight not only Kawaler, but the whole faction as well, and later took a drop in the crotch by Alisa.
-
 
 ### References
 

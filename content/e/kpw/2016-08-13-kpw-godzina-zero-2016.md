@@ -7,7 +7,7 @@ venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
-1 = { path = "2016-08-13-kpw-godzina-zero-2016-plakat.jpg", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2016-08-13-kpw-godzina-zero-2016-plakat.jpg", caption = "Official poster, showing [Kamil Aleksander](@/w/kamil-aleksander.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Bianca](@/w/bianca.md), [Ron Corvus](@/w/ron-corvus.md), [Damian Lambert](@/w/damien-rothschild.md) and Jon Ryan.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Godzina Zero (_Zero Hour_) is KPW's biggest event each year. Always held in August, and usually on the second Saturday (later Friday) of that month. KPW usually also holds their training camp just before that date. The first event was held in 2016, but the 2020 and 2021 editions were cancelled due to the COVID-19 pandemic.
