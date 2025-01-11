@@ -8,7 +8,7 @@ venue = ["czasoprzestrzen"]
 city = "Wrocław"
 [extra.gallery.1]
 path = "2018-12-08-mzw-project-2-four-plakat.jpg"
-caption = "Official poster."
+caption = "Official poster. Pictured left to right, top: ???, ???; bottom: [Damien Rothschild](@/w/damien-rothschild.md), [Shadow](@/w/shadow.md)."
 source = "Official MZW Facebook"
 +++
 

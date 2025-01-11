@@ -7,12 +7,12 @@ chronology = ["mzw"]
 city = "Inowrocław"
 [extra.gallery.00]
 path = "plakat.webp"
-caption = "Official show poster, with Red Thunder, Patriota and Shadow."
+caption = "Official show poster, with [Red Thunder](@/w/red-thunder.md), [Patriota](@/w/jedrus-bulecka.md) and [Shadow](@/w/shadow.md)."
 source = "Jędruś Bułecka's Facebook"
 [extra.gallery.01]
 path = "revage_polish_hammer_mzw2016.jpg"
 caption = "[Revage](@/w/rafael-kid.md) and [Patriota](@/w/jedrus-bulecka.md) backstage at the show"
-source = "Facebook profile of Revage/Rafał and Jędruś"
+source = "Facebook profiles of Revage/Rafał and Jędruś"
 +++
 
 This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which was a cultural and entertainment festival showcasing Mexican culture: mariachi music, fencing, painting, Mexican cuisine, and of course masked Lucha Libre-style wrestling. It was held at Park Solankowy in Inowrocław.

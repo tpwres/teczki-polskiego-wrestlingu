@@ -10,8 +10,8 @@ city = "Głuchołazy"
 path = "plakat.webp"
 caption = """\
   Show poster.
-  Top row: [Szymon Siwiec](@/w/szymon-siwiec.md), [Hexia](@/w/hexia.md), Kevin Williams, [Robert Kaiser](@/w/robert-kaiser.md), [Rick Baxxter](@/w/rick-baxxter.md),, [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Asmund](@/w/asmund.md).
-  Bottom row: Ilja Dragunov, [Shadow](@/w/shadow.md), [Red Thunder](@/w/red-thunder.md), [Justin Joy](@/w/justin-joy.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)."
+  Top row: [Szymon Siwiec](@/w/szymon-siwiec.md), [Hexia](@/w/hexia.md), Kevin Williams, [Robert Kaiser](@/w/robert-kaiser.md), [Rick Baxxter](@/w/rick-baxxter.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Asmund](@/w/asmund.md).
+  Bottom row: Ilja Dragunov, [Shadow](@/w/shadow.md), [Red Thunder](@/w/red-thunder.md), [Justin Joy](@/w/justin-joy.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 """
 +++
 

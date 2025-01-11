@@ -8,7 +8,7 @@ venue = ["gosir-glucholazy"]
 city = "Głuchołazy"
 [extra.gallery.1]
 path = "plakat.webp"
-caption = "Official posters"
+caption = "Official poster, showing [Hexia](@/w/hexia.md), [Kowboj Luke](@/w/red-thunder.md), [Shadow](@/w/shadow.md), [Polish Hammer](@/w/jedrus-bulecka.md) and [Justin Joy](@/w/justin-joy.md)."
 source = "Facebook @GosirGlucholazy"
 +++
 

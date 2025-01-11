@@ -1,6 +1,6 @@
 [01]
 path = "plakat.webp"
-caption = "Official poster."
+caption = "Official poster, featuring [Shadow](@/w/shadow.md) and [Franz Engel](@/w/franz-engel.md)."
 source = "Facebook @ManiacZoneWrestling"
 [02]
 path = "mzw-beatdown-2-foto-01.jpg"
@@ -8,7 +8,7 @@ caption = "Marcus Monere"
 source = "doba.pl"
 [03]
 path = "mzw-beatdown-2-foto-02.jpg"
-caption = "Lider vs [Prince Victor](@/w/vic-golden.md)"
+caption = "[Lider](@/w/lider.md) vs [Prince Victor](@/w/vic-golden.md)"
 source = "doba.pl"
 [04]
 path = "mzw-beatdown-2-foto-03.jpg"
@@ -16,11 +16,11 @@ caption = "[Asmund](@/w/asmund.md) vs [Stanisław Van Dobroniak](@/w/stanislaw-v
 source = "doba.pl"
 [05]
 path = "mzw-beatdown-2-foto-04.jpg"
-caption = "Skullevil vs [Jędruś Bułecka](@/w/jedrus-bulecka.md) (in his Patriota gimmick)"
+caption = "[Skull Evil](@/w/skull-evil.md) vs [Jędruś Bułecka](@/w/jedrus-bulecka.md) (in his Patriota gimmick)"
 source = "doba.pl"
 [06]
 path = "mzw-beatdown-2-foto-05.jpg"
-caption = "Posse in Effect"
+caption = "Posse in Effect:[The Grannatic](@/w/the-grannatic.md) (left) and [Rick Baxxter](@/w/rick-baxxter.md) (right)"
 source = "doba.pl"
 [07]
 path = "mzw-beatdown-2-foto-06.jpg"

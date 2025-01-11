@@ -8,7 +8,7 @@ venue = ["czasoprzestrzen"]
 city = "Wrocław"
 [extra.gallery.1]
 path = "2019-06-01-mzw-project-5-hero-plakat.jpg"
-caption = "Official poster."
+caption = "Official poster, featuring [Justin Joy](@/w/justin-joy.md)."
 source = "Official MZW Facebook"
 +++
 

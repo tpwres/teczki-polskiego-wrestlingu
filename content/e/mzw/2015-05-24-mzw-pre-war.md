@@ -7,7 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 [extra.gallery]
-1 = { path = "plakat.webp", caption = "Official poster", source = "?" }
+1 = { path = "plakat.webp", caption = "Official poster. Pictured are: [Justin Joy](@/w/justin-joy.md), [Szymon Siwiec](@/w/szymon-siwiec.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Asmund](@/w/asmund.md), [Red Thunder](@/w/red-thunder.md) and [Shadow](@/w/shadow.md).", source = "?" }
 +++
 
 * [Cagematch link](https://www.cagematch.net/?id=1&nr=153090)
