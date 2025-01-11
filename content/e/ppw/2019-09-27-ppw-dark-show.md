@@ -20,7 +20,7 @@ Dark Show was PpW's penultimate backyard event and the last one to be held in th
   - nc: Double Count Out
 - - '[Hirinus](@/w/hirinus.md)'
   - '[Automatico](@/w/rob-scaffold.md)'
-  - 'KAT'
+  - '[KAT](@/w/biesiad.md)'
   - s: Triple Threat Hardcore Match
 - credits:
     Referees: '[Automatico](@/w/rob-scaffold.md), [Osamu](@/w/osamu.md)'
