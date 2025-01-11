@@ -180,6 +180,8 @@ On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on t
 In the main event, featuring [Puncher](@/w/puncher.md) defending his [PTW Championship](@/c/ptw-championship.md) against [Spartan](@/w/spartan.md), Pawłowski shocked the audience by attacking Spartan with a chair, which allowed Puncher to retain - thus turning heel for the first time since his [DDW](@/o/ddw.md) run. Ever since, Pawłowski has dropped his gracious persona and heavily increased his social media presence, going into arguments with "haters" whom he refers to as "basement-dwellers" (_piwniczaki_).
 In another argument in the comment section of the [PTW Facebook page][kasa-okonia], Okoński clarified the extent of his involvement in the promotion, declaring he "put 350&nbsp;000 PLN (roughly 82&nbsp;000 EUR, 68&nbsp;000 GBP or 85&nbsp;000 USD) into PTW".
 
+On 11.01.2025 PTW posted a reminder about the upcoming [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md). In one of the comments below this post a company called Event Production, responsible for the production of [Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md), wrote "As a part of the new order, can we count on settling the old debts?", suggesting that PTW still owes them money for their last big show.
+
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) or [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
