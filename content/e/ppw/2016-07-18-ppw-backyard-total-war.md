@@ -20,7 +20,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
   - '[Snake](@/w/snake.md)'
   - s: Hardcore Match
 - - 'Koteł, Krasso'
-  - 'Psychodela, KAT'
+  - 'Psychodela, [KAT](@/w/biesiad.md)'
   - s: Hardcore Tag-Team Match
 - - 'Jake Young'
   - '[Hades](@/w/olgierd.md)'

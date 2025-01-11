@@ -28,7 +28,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
   - 'Superior'
   - s: PpW YouTube Championship
 - - '[Mister Z](@/w/mister-z.md)(c)'
-  - 'KAT(c)'
+  - '[KAT](@/w/biesiad.md)(c)'
   - s: Non-Title Champions Match
 - - >
     Team Lucha:
