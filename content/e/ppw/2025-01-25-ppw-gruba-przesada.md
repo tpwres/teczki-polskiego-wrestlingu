@@ -13,7 +13,7 @@ caption = "Official poster."
 source = "Official PpW Facebook"
 [extra.gallery.2]
 path = "svd-szkaluje-isnorra.jpg"
-caption = "Basically, [Dobroniak](@/w/stanislaw-van-dobroniak.md) says that [Isnorr](@/w/isnorr.md) stinks."
+caption = "Basically, [Dobroniak](@/w/stanislaw-van-dobroniak.md) says that Isnorr stinks."
 source = "Official PpW Facebook"
 +++
 
