@@ -4,9 +4,13 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
+[extra.gallery.1]
+path = "spartan-noweporzadki.webp"
+caption = "Spartan at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)."
+source = "Krzysztof Zych"
 +++
 
-Spartan is a polish wrestler most notably known for his time in [Prime Time Wrestling](@/o/ptw.md)
+Spartan is a Polish wrestler most notably known for his time in [Prime Time Wrestling](@/o/ptw.md)
 
 ## Basic info
 
