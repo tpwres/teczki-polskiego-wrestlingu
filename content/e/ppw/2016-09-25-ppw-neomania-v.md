@@ -33,7 +33,7 @@ Neomania V was PpW's backyard show held outdoors at [Winogronowa 17](@/v/winogro
 - - '[Jim Enerico](@/w/mister-z.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
 - credits:
-    Referees: 'Le Santo, Jim Enerico, [Taras (2)](@/w/michael-ht.md)'
+    Referees: 'Le Santo, [Jim Enerico](@/w/mister-z.md), [Taras (2)](@/w/michael-ht.md)'
     Commentary: 'Kevin Kevin, Roger Kevin, Adrian Gawrychowski, [Jakub "Gruby" Kamiński](@/w/jacob-crane.md)'
 {% end %}
 
