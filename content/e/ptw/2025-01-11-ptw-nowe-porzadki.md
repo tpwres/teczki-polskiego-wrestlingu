@@ -58,6 +58,8 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: Pawłowski turns on his business partner
+- credits:
+    Host, ring announcer: 'Krzysztof Skwarczyński'
 {% end %}
 
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
