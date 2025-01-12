@@ -10,7 +10,7 @@ caption = "Spartan at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md).
 source = "Krzysztof Zych"
 +++
 
-Spartan is a Polish wrestler most notably known for his time in [Prime Time Wrestling](@/o/ptw.md)
+Spartan is a Polish wrestler most notable for his time in [Prime Time Wrestling](@/o/ptw.md)
 
 ## Basic info
 
