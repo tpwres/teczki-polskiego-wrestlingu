@@ -45,7 +45,7 @@ const build_document = async (path) => {
         const aliases = find_aliases(path);
         if (aliases) {
             aliases.delete(title)
-            info = [...aliases].join(" / ")
+            info = [...aliases].join(" | ")
         }
     }
 
