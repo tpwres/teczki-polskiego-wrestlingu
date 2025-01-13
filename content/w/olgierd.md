@@ -9,7 +9,7 @@ country = ["PL"]
 2 = { path = "sedzia-olgierd.jpg", caption = "Olgierd acting as a referee at [Brutality '17](@/e/ppw/2017-03-25-ppw-brutality-17.md).", source = "Official PpW YouTube" }
 +++
 
-Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md). 
+Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -68,7 +68,7 @@ After Total Blast From The Past, Olgierd, Marco and numerous other talent [left 
 
 Olgierd and Hammers, teaming together as Legia Łysych returned to PpW during [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), in a surprise appearance, answering a challenge laid out by Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)).
 While Pure Gold were taunting Legia on their social media channels before the event, fans didn't take this for anything but a provocation against PTW.
-Legia, up until the very last moment, appeared to remain committed to PTW, themselves feuding with Vincent Caravaggio and defending a joke "[Intergender Championship](@/c/ptw-intergender-championship.md)" belt made of cardboard.
+Legia, up until the very last moment, appeared to remain committed to PTW, themselves feuding with [Vincent Caravaggio](@/w/vincent-caravaggio.md) and defending a joke "[Intergender Championship](@/c/ptw-intergender-championship.md)" belt made of cardboard.
 They were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
 Shortly after his return to PpW he joined ["Zmowa"](@/a/the-collusion.md), a villainous faction led by [Mister Z](@/w/mister-z.md), fighting against PpW's top babyfaces both in tag team & in solo action.
 
@@ -78,7 +78,7 @@ In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w
 
 ### Legacy of Wrestling (2024)
 
-In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. 
+In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match.
 
 ## In wrestling
 
@@ -86,7 +86,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
   - Tombstone Piledriver (2016)
   - Swinging Reverse STO (2016-2020)
   - _Braindead_ (Running Cartwheel Headbutt) (2021-)
- 
+
 * Tag Teams and stables:
   - Legia Łysych (2023-)
   - [Zmowa](@/a/the-collusion.md) (2024-)
