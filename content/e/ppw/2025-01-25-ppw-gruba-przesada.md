@@ -28,6 +28,12 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 * On 6.01.2025 PpW announced a Gauntler Survivor Challange match, in which [Goblin](@/w/goblin.md) is set to face a number of, yet unannounced, opponents. If he loses even one fight, he is said to be forcibly sent to [Monar][monar] for six months, presumably for a drug addiction rehab.
 
 {% card(predicted=true) %}
+- - '[Sambor](@/w/sambor.md)'
+  - '???'
+  - '???'
+  - '???'
+  - s: Pre-show
+    nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
