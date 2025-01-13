@@ -76,7 +76,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - 'Maverick'
   - '[Luca Bjorn](@/w/luca-bjorn.md)'
   - '[Rust](@/w/rust.md)'
-  - 'Blaze'
+  - '[Blaze](@/w/blaze.md)'
   - s: Fatal 4 Way for PTW Contract
 - - '[Puncher](@/w/puncher.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
