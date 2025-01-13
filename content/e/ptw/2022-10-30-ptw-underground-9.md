@@ -23,7 +23,7 @@ This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.
   - Svedberg
   - '[El Ogre](@/w/olgierd.md)'
   - Benji
-  - Blaze
+  - '[Blaze](@/w/blaze.md)'
   - Electra
   - s: PTW Contract Battle Royale
 - ['[Marcelito](@/w/marcelito.md)', '[Dawid "Puncher" Seńko](@/w/puncher.md)']

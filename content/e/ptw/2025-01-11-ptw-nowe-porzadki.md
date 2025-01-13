@@ -51,7 +51,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
 - - '[Luca Bjorn](@/w/luca-bjorn.md)'
-  - Blaze
+  - '[Blaze](@/w/blaze.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'

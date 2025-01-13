@@ -50,7 +50,7 @@ For this event, PTW invited several debuting wrestlers:
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: Singles Match
-- - Blaze
+- - '[Blaze](@/w/blaze.md)'
   - Flamingo
   - Pedro
   - s: Triple Threat International Showcase Match
