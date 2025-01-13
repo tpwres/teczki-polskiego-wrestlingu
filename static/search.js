@@ -163,8 +163,8 @@ class SearchController {
         this.spin(true)
 
         this.index = MiniSearch.loadJSON(await response.text(), {
-            fields: ['title', 'text', 'date'],
-            storeFields: ['title', 'path', 'date'],
+            fields: ['title', 'text', 'info'],
+            storeFields: ['title', 'path', 'info'],
             processTerm: this.depolonize
         })
     }
@@ -241,10 +241,10 @@ class SearchController {
 
         icon.href.baseVal = url.toString()
         const result = node.querySelector('#result')
-        if (item.date)
-            result.textContent = `${item.title} (${item.date})`
-        else
-            result.textContent = item.title
+        const info = node.querySelector('#info')
+        result.textContent = item.title
+        if (item.info)
+            info.textContent = `(${item.info})`
 
         return node
     }
