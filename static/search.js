@@ -1,6 +1,6 @@
 class SearchController {
     options = {
-        boost: { 'title': 1.6 },
+        boost: { 'title': 1.8, 'info': 1.2 },
         combineWith: 'AND',
         prefix: true
     }
