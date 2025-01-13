@@ -197,7 +197,7 @@ class SearchController {
             let item = document.createElement('li')
             item.className = 'results-item'
             item.tabIndex = -1
-            item.appendChild(this.format_result(results[i]))
+            item.appendChild(this.format_result(results[i], term))
             this.itemsTarget.appendChild(item)
         }
         this.resultsTarget.style.display = 'block'
@@ -243,10 +243,56 @@ class SearchController {
         const result = node.querySelector('#result')
         const info = node.querySelector('#info')
         result.textContent = item.title
-        if (item.info)
+        if (!item.info)
+            return node
+        else if (item.info.indexOf('|') != -1)
+            info.textContent = this.matching_term(terms, item.info)
+        else
             info.textContent = `(${item.info})`
 
         return node
+    }
+
+    matching_term(term, info) {
+        let keywords = info.split(' | ')
+        let scored = keywords.map((k, i) => [k, i, this.compareTwoStrings(term, k)])
+        scored.sort((a, b) => b[2] - a[2])
+        const [best_keyword, _index, best_score] = scored[0]
+        return `(${best_keyword})`
+    }
+
+    // Source: github.com/aceakash/string-similarity
+    compareTwoStrings(first, second) {
+	      first = first.replace(/\s+/g, '')
+	      second = second.replace(/\s+/g, '')
+
+	      if (first === second) return 1; // identical or empty
+	      if (first.length < 2 || second.length < 2) return 0; // if either is a 0-letter or 1-letter string
+
+	      let firstBigrams = new Map();
+	      for (let i = 0; i < first.length - 1; i++) {
+		        const bigram = first.substring(i, i + 2);
+		        const count = firstBigrams.has(bigram)
+			            ? firstBigrams.get(bigram) + 1
+			            : 1;
+
+		        firstBigrams.set(bigram, count);
+	      };
+
+	      let intersectionSize = 0;
+	      for (let i = 0; i < second.length - 1; i++) {
+		        const bigram = second.substring(i, i + 2);
+		        const count = firstBigrams.has(bigram)
+			            ? firstBigrams.get(bigram)
+			            : 0;
+
+		        if (count > 0) {
+			          firstBigrams.set(bigram, count - 1);
+			          intersectionSize++;
+		        }
+	      }
+
+	      return (2.0 * intersectionSize) / (first.length + second.length - 2);
     }
 }
 
