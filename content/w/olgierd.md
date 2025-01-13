@@ -1,6 +1,7 @@
 +++
 title = "Olgierd"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
@@ -8,14 +9,21 @@ country = ["PL"]
 2 = { path = "sedzia-olgierd.jpg", caption = "Olgierd acting as a referee at [Brutality '17](@/e/ppw/2017-03-25-ppw-brutality-17.md).", source = "Official PpW YouTube" }
 +++
 
+Olgierd - previously known as Krueger, Hades and El Ogre - is a polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md). 
+
 ## Basic info
 
-* Gimmicks:
+* Years active: 2016-present
+* Gimmicks/nicknames:
   - Krueger, in {{ org_badge(org='mzw') }}
   - Hades, in {{ org_badge(org='ppw') }} (later also as Olgierd)
   - Olgierd, in {{ org_badge(org='ptw') }}
   - El Ogre, in {{ org_badge(org='ptw') }} (masked)
-* Active: since 2016
+* Trained by:
+  - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
+  - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
+  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+
 
 ## Professional wrestling career
 
@@ -71,7 +79,7 @@ In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w
 
 ### Legacy of Wrestling (2024)
 
-In november 2024 it was announced that Olgierd will face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md).
+In november 2024 it was announced that Olgierd will face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in a scheduled match. 
 
 ## In wrestling
 
