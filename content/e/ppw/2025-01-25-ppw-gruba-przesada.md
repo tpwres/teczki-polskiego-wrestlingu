@@ -31,7 +31,7 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 - - '[Sambor](@/w/sambor.md)'
   - 'Wonder Haze'
   - '_rookie_ Bartek'
-  - '???'
+  - 'Sentinel'
   - s: Pre-show
     nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
