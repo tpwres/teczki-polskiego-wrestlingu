@@ -19,13 +19,15 @@ country = ["PL"]
 
 ### PpW Ewenement (2024-present)
 
-#### Training and debut
+#### Training and debut as Rookie Oskar
 
 Oskar Aleksander started his wrestling training in [Ewenement Dojo](@/o/ewenement-dojo.md) - a training facility operated mostly by PpW-affiliated wrestlers, with [Jacob Crane](@/w/jacob-crane.md) as the head coach.
 In the span of a few months he became ready for his in-ring debut.
 He debuted as Adept Oskar (_Rookie Oskar_) in a "Young Lion" gimmick highly influenced by his namesake - the German wrestler [Oskar Leube][oskar-leube]. In a similar fashion to Japanese Young Lions, he wore plain black trunks and boots, and used a limited but powerful moveset.
 
 Oskar made his debut as one of the contenders in Johnny Blade's Insane Wheel of Fortune Gauntlet Invitational Match at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md). He became the first wrestler who made his in-ring debut after being trained solely in Ewenement Dojo.
+
+#### Becoming Oskar Aleksander
 
 After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) and [Aron Wake](@/w/aron-wake.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a post-match promo he declared that he earned the right to decide what his ringname would be.
 Since then he would be billed as "Oskar Aleksander". At the same show in a backstage interview he become affiliated with an unnamed female "Talent Agent", who became his manager.
