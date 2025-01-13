@@ -48,8 +48,8 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - 'Falco'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: Four-way Match
-- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 - - '[Luca Bjorn](@/w/luca-bjorn.md)'
   - '[Blaze](@/w/blaze.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
