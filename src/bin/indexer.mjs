@@ -33,26 +33,51 @@ const build_document = async (path) => {
     const fm_end = re.exec(body);
     // +4 to eat the endlines
     const frontmatter = tomlParse(body.slice(fm_start.index + 4, fm_end.index));
+    const title = frontmatter.title
     const text = body.slice(fm_end.index + 4);
 
     const slug = path.replace('content/', '/').replace('.md', '');
+    let info = undefined;
     const date_match = /^content\/e\/(?:\w+)\/(\d{4}-\d{2}-\d{2})/.exec(path);
-    const date = date_match ? date_match[1] : undefined
+    if (date_match)
+        info = date_match[1];
+    else if (/^content\/w/.test(path)) {
+        const aliases = find_aliases(path);
+        if (aliases) {
+            aliases.delete(title)
+            info = [...aliases].join(" / ")
+        }
+    }
 
     return {
         // id is mandatory and must be unique
         id: slug.replace(/\//g, '-'),
         // requires processing in results - zola will coerce all non-alpha chars to a dash, e.g. underscores
         path: `${slug}/`,
-        title: frontmatter.title,
+        title,
         text,
-        date
+        info
     };
 }
 
+let alias_map = JSON.parse(await readFile("data/aliases.json"))
+const inverse_alias_map = {};
+for (const [name, path] of Object.entries(alias_map)) {
+  if (!inverse_alias_map[path]) {
+    inverse_alias_map[path] = [];
+  }
+  inverse_alias_map[path].push(name);
+}
+
+const find_aliases = (path) => {
+    const aliases = inverse_alias_map[path.replace('content/', '')]
+    return aliases ? new Set(aliases) : null
+}
+
+
 let index = new MiniSearch({
-    fields: ['title', 'text', 'date'],
-    storeFields: ['title', 'path', 'date'],
+    fields: ['title', 'text', 'info'],
+    storeFields: ['title', 'path', 'info'],
     processTerm: deaccent
 });
 
