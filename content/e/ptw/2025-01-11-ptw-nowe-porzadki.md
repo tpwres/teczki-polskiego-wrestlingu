@@ -60,6 +60,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - g: Pawłowski turns on his business partner
 - credits:
     Host, ring announcer: 'Krzysztof Skwarczyński'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Herno'
 {% end %}
 
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
