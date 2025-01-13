@@ -69,5 +69,5 @@ static/calendar-%.ics: content/e/%/*.md
 		-t $(shell grep -Po 'title = \K(.*)' content/e/${ORG}/_index.md) \
 		content/e/${ORG} > $@
 
-$(MINISEARCH_INDEX): content/**/*.md
+$(MINISEARCH_INDEX): content/**/*.md data/aliases.json
 	bin/build-index > $@
