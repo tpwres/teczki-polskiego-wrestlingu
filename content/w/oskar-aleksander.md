@@ -1,13 +1,14 @@
 +++
 title = "Oskar Aleksander"
 template = "talent_page.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 +++
 
 ## Basic info
 
+* Years active: 2024-present
 * Nicknames/Gimmicks:
   - Adept Oskar {{ org_badge(org='ppw') }} (August 2024-October 2024)
   - Oskar Strong {{ org_badge(org='ppw') }} (non-canon shows)
@@ -30,13 +31,15 @@ After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) an
 Since then he would be billed as "Oskar Aleksander". At the same show in a backstage interview he become affiliated with an unnamed female "Talent Agent", who became his manager.
 Besides his regular appearances as Oskar Aleksander he also performed as "Oskar Strong" - [Biesiad Strong's](@/w/biesiad.md) parody - at the non-canon [SplatFilmFest](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md) show.
 
+In January 2025 it was made official, that Oskar Aleksander will face polish scene legend - [Vic Golden](@/vic-golden.md) - in most probably his biggest match in career at [PpW Gruba Przesada](@c/e/ppw/2025-01-25-ppw-gruba-przesada.md).
+
 ## In wrestling
 
 * Finishers:
-  - Powerbomb
-  - Boston Crab
+  - Powerbomb (2024-)
+  - Boston Crab (2024-)
 * Managers:
-  - Talent Agent
+  - Agent Agata (2024-)
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
  {{ org_badge(org='ppw') }} (2024-present) <br>
