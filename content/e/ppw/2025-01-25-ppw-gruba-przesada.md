@@ -29,7 +29,7 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 
 {% card(predicted=true) %}
 - - '[Sambor](@/w/sambor.md)'
-  - '???'
+  - 'Wonder Haze'
   - '???'
   - '???'
   - s: Pre-show
