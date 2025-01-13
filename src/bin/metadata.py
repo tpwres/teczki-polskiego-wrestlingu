@@ -77,6 +77,14 @@ def update_career(career: dict[str, CareerYears], page: EventPage):
         year.update(orgs)
 
 
+
+def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
+    result = left.copy()
+    for key in right:
+        year = result.setdefault(key, Counter())
+        year.update(right[key])
+    return result
+
 def merge_aliases(career: dict[str, CareerYears]):
     """
     Mutate the career dict passed, by removing entries which are only ever
