@@ -23,3 +23,5 @@ The official Polish name for this project is "Teczki Polskiego Wrestlingu", whic
 **[Places](@/v/_index.md)** are secondary to Events, listing important venues that hosted them, also with bits of history included.
 
 **[Championships](@/c/_index.md)** lists and tracks Polish wrestling championships.
+
+**[Matchfinder](//mf.tpwres.pl)** is a search tool to find all matches where given talent or talents appeared. It's also useful to view match history for talent who doesn't have their own article in the People section.
