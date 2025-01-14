@@ -13,7 +13,7 @@ source = "[Official PpW Facebook]"
 +++
 
 {% card() %}
-- - 'Jerry "Rich" Mandecky'
+- - '[Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - 'Ms. XXX'
   - '[Biesiad Strong](@/w/biesiad.md)'

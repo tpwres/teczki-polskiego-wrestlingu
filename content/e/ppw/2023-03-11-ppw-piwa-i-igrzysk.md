@@ -17,19 +17,25 @@ Originally, [Rafael Kid](@/w/rafael-kid.md) was scheduled for a match against Ay
 In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Championship](@/o/ppw.md#championships) belt and the Freedom Pro Wrestling Championship belt that he held at the time. None of the titles were contended for, however.
 
 {% card() %}
-- ["[Mister Z](@/w/mister-z.md)", "Feyyaz Aguila"]
-- ["Aytac Bahar", "[Adam Wong](@/w/adam-wong.md)"]
-- ["[Bill Feager](@/w/feager.md)", "Joshua Amaru"]
-- ["[Steve Kuningas](@/w/steve-kuningas.md)", "[Isnorr](@/w/isnorr.md)"]
-- - "[Ricardo Diesel](@/w/ricardo-diesel.md)"
-  - "[Tony Sk1n](@/w/tony-sk1n.md)"
-  - s: "Loser Leaves PpW Match"
-- - "[Johnny Blade](@/w/johnny-blade.md)"
-  - "[Kapitan Bazooka](@/w/kapitan-bazooka.md)"
-  - 'Jerry "Rich" Mandecky'
+- - '[Mister Z](@/w/mister-z.md)'
+  - 'Feyyaz Aguila'
+- - 'Aytac Bahar'
+  - '[Adam Wong](@/w/adam-wong.md)'
+- - '[Bill Feager](@/w/feager.md)'
+  - 'Joshua Amaru'
+- - '[Steve Kuningas](@/w/steve-kuningas.md)'
+  - '[Isnorr](@/w/isnorr.md)'
+- - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
+  - '[Tony Sk1n](@/w/tony-sk1n.md)'
+  - s: 'Loser Leaves PpW Match'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
+  - '[Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
   - g: Blade confronts Mandecky who introduces Bazooka as his new bodyguard
-- ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Johnny Blade](@/w/johnny-blade.md)"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"]
+- - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
