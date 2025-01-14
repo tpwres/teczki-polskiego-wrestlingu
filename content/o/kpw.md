@@ -9,8 +9,12 @@ toclevel = 3
 chrono_root = ["kpw"]
 [extra.gallery.1]
 path = "white-eagle-wrestling.jpg"
-caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler.md) showing the mock-up logo for the rejected White Eagle Wrestling name"
+caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler.md) showing the mock-up logo for the rejected White Eagle Wrestling name."
 source = "Official KPW YouTube channel"
+[extra.gallery.2]
+path = "pamiatkowe-zdjecie-ze-smokiem-znad-morza.webp"
+caption = "Photo from a training session. Wearing a black shirt with a red dragon is [Adam Wong](@/w/adam-wong.md), formerly of [PpW Ewenement Wrestling](@/o/ppw.md)."
+source = "Official KPW Facebook"
 +++
 
 ### History
@@ -66,11 +70,13 @@ KPW regularly invites talent from the European independent scene to their events
 
 ### Polish wrestling scene
 
-KPW does not participate in the Polish wrestling scene; they do not share people with other organizations, nor do they invite other Polish performers to their shows. It is speculated to be inherited from Don Roid's way of running DDW, although there was no Polish scene back then. Some Polish-speaking characters did appear on their shows, but all of them were wrestlers of some Polish ancestry performing abroad, such as [Ron Corvus](@/w/ron-corvus.md) or [Fynn Freyhart](@/w/fynn-freyhart.md).
+For a long time KPW did not participate in the Polish wrestling scene; they didn't share people with other organizations, nor did they invite other Polish performers to their shows. It is speculated that this approach was inherited from Don Roid's way of running DDW, although there was no Polish scene back then. Some Polish-speaking characters did appear on their shows, but all of them were wrestlers of some Polish ancestry performing abroad, such as [Ron Corvus](@/w/ron-corvus.md) or [Fynn Freyhart](@/w/fynn-freyhart.md).
+
+This slowly started to change nearly a decade after the federation's inception. On 14.10.2024 [Legacy of Wrestling](@/o/low.md) [announced][low-fux] that [Filip Fux](@/w/filip-fux.md) would make an appearance at their [first show](@/e/low/2024-12-01-low-1.md) in a fight with [Marco Hammers](@/w/marco-hammers.md). This was followed on 2.11.2024 by a message from [Chemik](@/w/chemik.md), who issued an open challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at Legacy. This marked the first time KPW wrestlers were allowed to compete in another Polish federation.
+
+In mid-2024 [Adam Wong](@/w/adam-wong.md) from [PpW Ewenement Wrestling](@/o/ppw.md) was seen attending trainings in KPW's wrestling school, and later working as a ring crew member at their shows. In January 2025 KPW posted a photo from a training weekend with Wong clearly visible.
 
 The Polish Internet wrestling community reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with merchandise of international provenance, such as AEW or nWo T-shirts.
-
-On 14.10.2024 [Legacy of Wrestling](@/o/low.md) [announced][low-fux] that [Filip Fux](@/w/filip-fux.md) would make an appearance at their [first show](@/e/low/2024-12-01-low-1.md) in a fight with [Marco Hammers](@/w/marco-hammers.md). This is the first time a KPW wrestler was allowed to compete in another Polish federation.
 
 ### Championships
 
