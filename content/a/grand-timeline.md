@@ -160,4 +160,8 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
 * PpW opens their training facility to the public, dubbed [Ewenement Dojo](@/o/ewenement-dojo.md). They hold a summer camp, with initial trainer being [Jacob Crane](@w/jacob-crane.md), later replaced by [Axel Fox](@/w/axel-fox.md) after former's departure to Japan.
 * After exiting PTW, a group of their former backstage crew and talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces their [first show](@/e/low/2024-12-01-low-1.md) to be held in December. For the first time ever, [KPW](@/o/kpw.md) lends their workers ([Filip Fux](@/w/filip-fux.md) and [Chemik](@/w/chemik.md)) to another Polish organization, making this the first Polish card featuring representation from KPW, MZW and PpW, as well as some ex-PTW free agents. The show was dubbed by some as "Polish Forbidden Door".
+
+#### 2025
+
+* PTW drops the "Underground" name from their shows starting with [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) in January. Two new titles are announced: PTW Underground Championship, commemorating the Underground series, and PTW Women's Championship.
 {% end %}
