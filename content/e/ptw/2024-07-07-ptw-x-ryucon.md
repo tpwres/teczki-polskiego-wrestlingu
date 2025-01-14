@@ -8,8 +8,8 @@ venue = ["tauron"]
 [extra]
 city = "Kraków"
 [extra.gallery]
-1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros vs Svedberg and Carravaggio", source = "Facebook PTW"}
-2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing Alex Brave vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}
+1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros vs Svedberg and [Carravaggio](@/w/vincent-caravaggio.md)", source = "Facebook PTW"}
+2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing [Alex Brave](@/w/alex-brave.md) vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}
 3 = { path = "iva-vs-diana.webp", caption = "Match graphic announcing Iva Kolasky vs [Diana Strong](@/w/diana-strong.md)", source = "Facebook PTW"}
 4 = { path = "spartan-vs-conners.webp", caption = "Match graphic announcing [Spartan](@/w/spartan.md) vs Joseph Conners", source = "Facebook PTW"}
 5 = { path = "ryucon-3-spartan-vs-conners.jpg", caption = "Spartan vs Conners, as seen from the audience.", source = "Ville Paananen"}
@@ -17,7 +17,7 @@ city = "Kraków"
 
 [PTW](@/o/ptw.md) organized this show, for the third consecutive year, in collaboration with Ryucon, an anime/manga themed fan convention held annually in Kraków. The event was held in Tauron Arena on Sunday July 7th, 2024.
 
-For this show, a significant portion of the match card was filled by guest wrestlers from abroad, including 5 from Hungary. The guest performers were:
+For this show, a significant portion of the match card was filled by guest wrestlers from abroad, including five from Hungary. The guest performers were:
 * Hungarian tag team The Gulyas Brothers: Gulyás Öcsi and Gulyás Vilmos.
 * Hungarian wrestlers Blaze and Svedberg, both making their second appearance after [PTW Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md).
 * Hungarian wrestler Iva Kolasky, also in her second appearance after [PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md).

@@ -9,7 +9,7 @@ venue = ["dworek-kozlow"]
 city = "Kozłów"
 [extra.gallery.poster]
 path = "ptwu22-poster.webp"
-caption = "Official poster for the show."
+caption = "Official poster for the show. Pictured are: Maverick, [Puncher](@/w/puncher.md), [Nitro](@/w/nitro.md), [Spartan](@/w/spartan.md), [Renegade](@/w/renegade.md), [Diana Strong](@/w/diana-strong.md), [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md)."
 source = "Facebook @PrimeTimeWrestlingPL"
 [extra.gallery.atomicas]
 path = "las_atomicas.webp"
