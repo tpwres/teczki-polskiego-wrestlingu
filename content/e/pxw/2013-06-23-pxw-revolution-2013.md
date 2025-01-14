@@ -1,5 +1,5 @@
 +++
-title = "PXW Revolution 2011"
+title = "PXW Revolution 2013"
 template = "event_page.html"
 [taxonomies]
 chronology = ["pxw"]
