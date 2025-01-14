@@ -18,10 +18,8 @@
 18 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
 19 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
 20 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler [Justin Joy](@/w/justin-joy.md) (as oski_ninja) praises Ludwiczek for talking sense, while [Samson](@/w/samson.md) wants a match against Pawłowski."}
-21 = { path = "nowahala-1.webp", caption = "PTW's new venue with the ring, tables and giant posters.", source = "Instagram @lukasz_prezes_okonski"}
-22 = { path = "nowahala-2.webp", caption = "PTW's new venue with training equipment.", source = "Instagram @lukasz_prezes_okonski"}
-23 = { path = "botte-da-bestya.webp", caption = "ICW's poster advertising Botte da Bestya 2. Near the bottom are Iva Kolasky and [Puncher](@/w/puncher.md). Luca Bjorn, who also appeared for PTW is first in the second row."}
-24 = { path = "piekny-fakolec.webp", caption = "Post by [Piękny Kawaler](@/w/piekny-kawaler.md) responding to statements made by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on Marcin Najman's YouTube channel, with comments by fans and other wrestlers.", source = "Piękny Kawaler @ Facebook"}
-25 = { path = "okonskie-peeleny.png", caption = "Comment by Łukasz Okoński regarding his financial input into PTW.", source = "Official PTW Facebook"}
-26 = { path = "roster-2024-05-09.webp", caption = "PTW's roster page prior to being taken down.", source = "Archive.org"}
-27 = { path = "debt.webp", caption = "Screenshot from a January 2025 post. In the highlighted comment, the producers of [PTW#6](@/e/ptw/2024-05-11-ptw-6.md) ask about the money they're owed. ", source = "Official PTW Facebook"}
+21 = { path = "botte-da-bestya.webp", caption = "ICW's poster advertising Botte da Bestya 2. Near the bottom are Iva Kolasky and [Puncher](@/w/puncher.md). Luca Bjorn, who also appeared for PTW is first in the second row."}
+22 = { path = "piekny-fakolec.webp", caption = "Post by [Piękny Kawaler](@/w/piekny-kawaler.md) responding to statements made by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on Marcin Najman's YouTube channel, with comments by fans and other wrestlers.", source = "Piękny Kawaler @ Facebook"}
+23 = { path = "okonskie-peeleny.png", caption = "Comment by Łukasz Okoński regarding his financial input into PTW.", source = "Official PTW Facebook"}
+24 = { path = "roster-2024-05-09.webp", caption = "PTW's roster page prior to being taken down.", source = "Archive.org"}
+25 = { path = "debt.webp", caption = "Screenshot from a January 2025 post. In the highlighted comment, the producers of [PTW#6](@/e/ptw/2024-05-11-ptw-6.md) ask about the money they're owed. ", source = "Official PTW Facebook"}

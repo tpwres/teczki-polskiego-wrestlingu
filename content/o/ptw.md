@@ -167,9 +167,8 @@ On August 14, 2024, PTW launched their new show, "Czas na Wrestling" (_Time for 
 
 #### Post-Ryucon: New venue, PTW back on track
 
-PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in Kozłów, which now appeared to be PTW's new base of operations.
-On August 15, 2024, Okoński posted a sneak peek of the revamped PTW arena on his Instagram profile @lukasz_prezes_okonski.
-The venue is divided in two by a set of curtains. Workout equipment can be found in one section, while the other features a wrestling ring, a number of tables and wall decorations depicting major PTW characters like [Diana](@/w/diana-strong.md), [Spartan](@/w/spartan.md), [Puncher](@/w/puncher.md) and Baba-Thunder.
+PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in [Kozłów](@/v/dworek-kozlow.md), which now appeared to be PTW's new base of operations.
+
 In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled, although the shows are not aired live as previously, but rather taped with a promise of later release.
 Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host. Resivny was also confirmed to be the third member of the new commentary team.
 
