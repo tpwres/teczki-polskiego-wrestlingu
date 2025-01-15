@@ -7,7 +7,7 @@ venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster", source = "Official DDW Facebook" }
+1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster. Left to right: [Bianca](@/w/bianca.md), [Klarys](@/w/klarys.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official DDW Facebook" }
 2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "Kasandra vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
 3 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-1.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
 4 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-2.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
