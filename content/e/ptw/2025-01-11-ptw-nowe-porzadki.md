@@ -13,7 +13,7 @@ city = "Kozłów"
 3 = { path = "nowe-porzadki-stare-ceny.jpg", caption = "A view of the ring shortly before the start of the show.", source = "Krzysztof Zych" }
 +++
 
-"Nowe Porządki" (_A New Order_) was an event by [Prime Time Wrestling](@/o/ptw.md) and the second "minor" show to drop the "Underground" name. The show was announced around eight hours after [KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md); whether or not the identical names are a coincidence, currently remains unknown.
+"Nowe Porządki" (_A New Order_) was an event by [Prime Time Wrestling](@/o/ptw.md) and the first "minor" show to drop the "Underground" name. The show was announced around eight hours after [KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md); whether or not the identical names are a coincidence, currently remains unknown.
 
 ## Build-up
 
