@@ -75,7 +75,7 @@ as well as micro-influencers and people convinced to try wrestling by Pawłowski
 Additionally, multiple ex-[MZW](@/o/mzw.md) & [KPW](@/o/kpw.md) wrestlers had transferred to PTW to train there, due to personal reasons and lack of consistency in training schedule after the COVID-19 pandemic.
 
 The original plan for PTW Academy was to attract not only pro wrestling enthusiasts, but also new people unaware of wrestling culture and specifics.
-Pawłowski frequently tried to attract non-wrestling celebrities to attend training sessions, but after [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), when these efforts largely failed, that strategy was abandoned and PTW Academy focused more on developing their own stars.
+Pawłowski frequently tried to attract non-wrestling celebrities to attend training sessions, but after [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), when these efforts largely failed, that strategy was abandoned and PTW Academy focused more on developing their own stars.
 During that year some of the wrestlers allied themselves in a group called "the Originals", a nickname given to PTW-raised talent under the influence of Pawłowski's teachings and wrestling philosophy.
 Those differences would later lead to conflicts between the Originals and other groups who came to PTW from other organizations (especially "[The Greens](@/a/the-greens.md)") later on.
 
@@ -94,4 +94,4 @@ Most of the training responsibilities were taken up by Taras, Disco Pablo & Nano
 Overall, the attendance at training weekends went slightly down due to circumstances connected directly to PTW itself.
 
 PTW Academy, along with the federation, changed its location in April 2024, when they moved from [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów to [Pod Platanem](@/v/dworek-kozlow.md) in Kozłów, a village bordering Gliwice.
-During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), a significant part of coaching staff, talent and rookies left the federation.
+During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), a significant part of coaching staff, talent and rookies left the federation.

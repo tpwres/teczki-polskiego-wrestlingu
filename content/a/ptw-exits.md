@@ -169,7 +169,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
 
 ### 2023: Mystery
 
-In the aftermath of [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the fifth major show started.
+In the aftermath of [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the fifth major show started.
 Initially planned for October 2023, the show was postponed indefinitely.
 During that time, multiple talents started to voice their frustration on social media.
 Eventually, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
@@ -187,7 +187,7 @@ On February 12th, 2024, PTW commentary team member [Piotr "ShowOff" Małecki](@/
 
 ### 2024: Gold Rush and Total Blast From The Past
 
-Right after [PTW#6](@/e/ptw/2024-05-11-ptw-6.md), long-time PTW commentator [Arkadiusz Paterek](@/w/arek-paterek.md) confirmed his departure in a [tweet][paterek-tweet].
+Right after [PTW #6](@/e/ptw/2024-05-11-ptw-6.md), long-time PTW commentator [Arkadiusz Paterek](@/w/arek-paterek.md) confirmed his departure in a [tweet][paterek-tweet].
 On May 25th, 2024, Paterek and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md) (who also does commentary for PTW events) appeared on the relaunched _WrestleOne_ YouTube channel, ran by a wrestling influencer and one-time freak fighter, Patryk "Patrykos" Domke.
 In a livestream originally focused on an upcoming WWE event in Saudi Arabia, both Paterek and Balik briefly mentioned their PTW tenures.
 Around the 13:50 mark, Balik confirms his departure from PTW as well.

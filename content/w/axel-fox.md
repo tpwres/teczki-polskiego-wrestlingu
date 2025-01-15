@@ -129,7 +129,7 @@ During the match he was initially named as the winner, but due to a minimal rope
 
 [PTW Awards 2022](@/a/ptw-awards-2022.md) (4 times):
 - Hero of the Year
-- Match of the Year - vs Justin Joy at [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)
+- Match of the Year - vs Justin Joy at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)
 - Moment of the Year - reuniting with Justin Joy
 - Feud of the Year - vs Justin Joy
 

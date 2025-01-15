@@ -18,7 +18,7 @@ Initially PTW announced that the event will be held in Gliwice, a city in the Si
 
 The venue is listed as Dworek Pod Platanem, which is a hotel and restaurant, primarily organizing weddings. However, it neighbors a set of sport facilities - tennis courts and an indoor beach volleyball court.
 
-It was the go-home show for [PTW#6 Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). According to PTW's announcement post, Underground shows will move permanently to Saturday, and to a new location. This is likely what the "new season" in the promotional material for [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) referred to.
+It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). According to PTW's announcement post, Underground shows will move permanently to Saturday, and to a new location. This is likely what the "new season" in the promotional material for [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) referred to.
 
 {% card() %}
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'

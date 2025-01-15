@@ -34,7 +34,7 @@ For a good part of 2022, Puncher ran an undefeated streak, eliminating every opp
 
 #### PTW Champion
 
-After his feud with Star had ended, Puncher continued his victory streak, marking himself as one of the most serious contenders for the [PTW Championship](@/c/ptw-championship.md). Puncher became the inaugural PTW champion at [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), in a Gold Rush Rumble Match.
+After his feud with Star had ended, Puncher continued his victory streak, marking himself as one of the most serious contenders for the [PTW Championship](@/c/ptw-championship.md). Puncher became the inaugural PTW champion at [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), in a Gold Rush Rumble Match.
 
 At the following [Underground show](@/e/ptw/2024-04-13-ptw-underground-21.md) he also became champion of PTW's sister promotion WWA, winning the belt from Marius Al-Ani.
 

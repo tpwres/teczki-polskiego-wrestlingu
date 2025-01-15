@@ -26,7 +26,7 @@ For this show, a significant portion of the match card was filled by guest wrest
 
 ### Build-up
 
-* With the recent string of talent exits from PTW, and the organization's future uncertain, fans were speculating about PTW#6 being the last event.
+* With the recent string of talent exits from PTW, and the organization's future uncertain, fans were speculating about PTW #6 being the last event.
 * When Pawłowski and Ryucon both announced the show, speculation moved to the card - how many matches could they still build.
 * Diana Strong vs Iva Kolasky was the first all-female main event in PTW. While both rivals have faced multiple times on the European indy scene, they only clashed once before in PTW at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md), where Diana Strong was victorious.
 * More matches have been hinted at, including a multi-man match, a tag-team match, and a surprise appearance.

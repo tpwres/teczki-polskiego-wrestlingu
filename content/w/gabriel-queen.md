@@ -28,7 +28,7 @@ After making his final appearance at [MZW Project Basement 4](@/e/mzw/2021-06-11
 
 ### Prime Time Wrestling (2021-2023)
 
-Shortly after leaving MZW, Gabriel Queen joined the newly created [PTW](@/o/ptw.md), making his debut as a joker entrant in a battle royal during [PTW#1 REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), where he was the first one to be eliminated.
+Shortly after leaving MZW, Gabriel Queen joined the newly created [PTW](@/o/ptw.md), making his debut as a joker entrant in a battle royal during [PTW #1 REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), where he was the first one to be eliminated.
 He then continued his career in PTW, becoming one of the workhorses of the federation, with a long-lasting streak of appearances on every PTW show.
 
 #### Pure Gold and championship pursuit

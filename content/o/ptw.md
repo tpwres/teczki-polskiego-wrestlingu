@@ -23,7 +23,7 @@ These were both veterans of the Polish scene, as well as debuting Polish wrestle
 
 #### The first show
 
-This first show, titled [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), was met with positive response, even though some aspects were criticised.
+This first show, titled [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), was met with positive response, even though some aspects were criticised.
 Fans praised the starpower, production value and overall high-budget feel.
 The criticism was focused on Pawłowski's character, who fans felt was overexposed, inviting influencers to hype up the show, blatantly aggressive sponsor ads, and the booking - with a significant imbalance of starpower and a DQ finish in the main event.
 Most of the Polish talent on that show became cornerstones of PTW's roster, while some notably flopped.
@@ -38,7 +38,7 @@ The venue had limited capacity, which was cleverly used to make these events fee
 ### 2022
 
 Continuing their strong entry into the scene, PTW started the year with the [second Underground show](@/e/ptw/2022-01-23-ptw-underground-2.md)
-and quickly followed with [PTW#2 Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md), which was also well received.
+and quickly followed with [PTW #2 Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md), which was also well received.
 This show had even more starpower than Revolucja, featuring debuts of well-known names like [Joe Hendry](@/w/joe-hendry.md), [Marty Scurll](@/w/marty-scurll.md), Matt Sydal and [John "Bad Bones" Klinger](@/w/bad-bones.md).
 
 Over the course of the year, PTW continued its steady pace, presenting the monthly Underground shows, and debuting at [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), a manga-themed fan convention in Kraków.
@@ -55,7 +55,7 @@ _Legends_ closed 2022 as PTW's last show of such ambition and scale, until 2024'
 
 Prior to the first event, on 21st of September 2021, Kinguin was announced as one of the [sponsors][sponsors-announcement], later becoming the titular sponsor, and was added to the promotion's logo.
 Kinguin is a marketplace selling digital items, primarily game keys and in-game currency.
-The Kinguin mascot became a regular part of the shows, and was even included in an angle with Taxi Złotówa at [PTW#3 Legends](@/e/ptw/2022-11-26-ptw-3-legends.md).
+The Kinguin mascot became a regular part of the shows, and was even included in an angle with Taxi Złotówa at [PTW #3 Legends](@/e/ptw/2022-11-26-ptw-3-legends.md).
 
 Though Kinguin's departure was never officially announced, the titular sponsor was gradually dropped from PTW's branding over the spring/summer of 2023.
 The last Facebook post featuring Kinguin PTW name was from 26th March 2023, a [cover photo change][cover-photo-underground14] announcing [Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md).
@@ -135,7 +135,7 @@ This was caused by the failures of their new marketing strategy, seemingly dista
 
 _See also: [PTW Exits: 2024](@/a/ptw-exits.md#2024-gold-rush-and-total-blast-from-the-past)._
 
-Right after PTW#6, long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
+Right after PTW #6, long-time PTW commentator Arkadiusz Paterek confirmed his departure in a [tweet][paterek-tweet].
 Two weeks later, on a YouTube live stream, commentator Łukasz Baliński also announced his resignation.
 
 On May 31st, PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", discussing various backstage topics in a shoot-style interview. This led to rumors of his release just two days after, which was confirmed by Dziedzic announcing his departure from PTW that same week.
@@ -172,7 +172,7 @@ PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the annou
 In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled, although the shows are not aired live as previously, but rather taped with a promise of later release.
 Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host. Resivny was also confirmed to be the third member of the new commentary team.
 
-On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
+On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
 
 #### Final Underground, Pawłowski turns heel
 [Underground 25](e/ptw/2024-12-07-ptw-underground-25/) saw two seismic shifts. In the opening segment, Pawłowski confirmed that the show would be the final PTW Underground. To commemorate this series of events, a tournament would be held where the inaugural PTW Underground Champion would be crowned.

@@ -5,7 +5,7 @@ authors = ["M3n747", "Krzysztof Zych", "Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "pawel-borkowski.jpg", caption = "Paweł Borkowski at [PTW#6: Total Blast form the Past](@/e/ptw/2024-05-11-ptw-6.md).", source = "Official PTW Facebook" }
+1 = { path = "pawel-borkowski.jpg", caption = "Paweł Borkowski at [PTW #6: Total Blast form the Past](@/e/ptw/2024-05-11-ptw-6.md).", source = "Official PTW Facebook" }
 +++
 
 Paweł "Boryss" Borkowski is a wrestling commentator best known from Extreme Sports Channel. He is also a former wrestling promoter, and one of the pioneers of bringing pro wrestling to Poland.

@@ -1,5 +1,5 @@
 +++
-title = "PTW#2: BlackOut"
+title = "PTW #2: BlackOut"
 template = "event_page.html"
 [taxonomies]
 chronology=["ptw"]

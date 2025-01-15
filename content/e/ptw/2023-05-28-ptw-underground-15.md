@@ -11,7 +11,7 @@ city = "Chorzów"
 1 = { path = "2023-05-28-ptw-underground-15-plakat.jpg", caption = "Official poster. Pictured left to right: [Vic Golden](@/w/vic-golden.md), [Sinister](@/w/sinister.md), [Gabriel Queen](@/w/gabriel-queen.md), [Disco Pablo](@/w/disco-pablo.md).", source = "Official PTW Facebook" }
 +++
 
-The 15th Underground event was the go-home show for [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and, as per FITE billings, the last one to feature Kinguin as titular sponsor.
+The 15th Underground event was the go-home show for [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and, as per FITE billings, the last one to feature Kinguin as titular sponsor.
 It was held in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. The show one new foreign guest: American female wrestler Devlyn Macabre. Devlyn was playing a heel persona, with Rammstein's "Sonne" as her entrance theme.
 By the time of the event, Devlyn was touring the European independent scene, with three matches in lower-card AEW shows in her resume.
 

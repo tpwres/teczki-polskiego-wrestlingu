@@ -11,7 +11,7 @@ In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from t
 
 ## The Stonoga controversy
 
-On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW#6](@/e/ptw/2024-05-11-ptw-6.md) and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
+On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
 The next day, Stonoga posted photos of himself and the car, as well as short clips of himself in the passenger seat.
 Ludwiczek also posted a photo of himself and the controversial Stonoga in front of the car.
 Later, Stonoga announced we would hand out 50 free tickets to anyone who approached him in person at a McDonald's in Legionowo.
@@ -35,7 +35,7 @@ As this post-Gold Rush crisis was developing, PTW's social media channels remain
 
 PTW Champion [Puncher](@/w/puncher.md)'s Instagram account posted a cryptic message stating "Chapter closed".
 This led to fans speculating that he may be the next one to leave PTW, but it turned out not to be the case.
-On May 17th, 2024, he tweeted a [long statement][puncher-statement] comprising three screenshots where he described his road to championship, all the sacrifices he made, and accepted the blame for the PTW#6 and lottery flops.
+On May 17th, 2024, he tweeted a [long statement][puncher-statement] comprising three screenshots where he described his road to championship, all the sacrifices he made, and accepted the blame for the PTW #6 and lottery flops.
 However, he also included passive-aggressive remarks about "disloyal" members of the locker room, and excessive fan criticism halting the growth of wrestling in Poland.
 Reactions to that statement were mixed, ranging from praise to mockery.
 This launched a wave of similar, shorter statements from other roster members, claiming they're going to stay with PTW through thick and thin, and would rather go down together with the organization rather than leave it because of its problems.

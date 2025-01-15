@@ -1,5 +1,5 @@
 +++
-title = "PTW#5: Gold Rush"
+title = "PTW #5: Gold Rush"
 template = "event_page.html"
 authors = ["Krzysztof Zych", "Piotr Drabik", "Szymon Iwulski"]
 [taxonomies]
@@ -96,7 +96,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 * Pawłowski explained the Gold Rush Rumble rules: typical over-the-top rope elimination, but the final four can only eliminate  by pinfall or submission.
 * After the rumble, [Puncher](@/w/puncher.md) cut a promo, to be interrupted by Babatunde, an ex-WWE wrestler of Polish origin, now as Babathunder. Pawłowski announced him as signed to PTW.
 * Pawłowski invited his fiancee Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
-* The screen showed a video recalling Rzeźniczak's kidnapping from [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and revealing it was an elaborate ruse by Bones, Rzeżniczak and Longman who are scheming against Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, hit his boss with _At Your Service_, and closed the show by plugging the lottery.
+* The screen showed a video recalling Rzeźniczak's kidnapping from [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and revealing it was an elaborate ruse by Bones, Rzeżniczak and Longman who are scheming against Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, hit his boss with _At Your Service_, and closed the show by plugging the lottery.
 
 
 #### Gold Rush Rumble entrances and eliminations

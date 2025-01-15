@@ -30,19 +30,19 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 
 ## History
 
-The title was announced at [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in November 2022, by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), PTW's owner and General Manager.
+The title was announced at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in November 2022, by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), PTW's owner and General Manager.
 Pure Gold ([Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md)) snatched a controversial victory from PAKA in the opening match of that event.
 Along with the title, Pawłowski announced an upcoming tag team tournament, to crown the inaugural champions.
 This tournament happened during Undergrounds [10](@/e/ptw/2023-01-28-ptw-underground-10.md) and
 [11](@/e/ptw/2023-01-29-ptw-underground-11.md) (first round), [12](@/e/ptw/2023-02-26-ptw-underground-12.md), and [13](@/e/ptw/2023-03-26-ptw-underground-13.md) (semi finals).
-The final match was contested on [PTW#4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), where PAKA defeated Pure Gold in a tables match.
+The final match was contested on [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), where PAKA defeated Pure Gold in a tables match.
 While Boro did not participate in that match, he was also recognized as a champion in accordance with the [Freebird Rule][freebird-rule].
 
 ## Belt design
 
 The first proposed version of the belts was rather bulky, with a wide, golden, octagon-shaped central plate, and two smaller square sideplates on black leather. The main plate prominently features PTW's logo, including the full "Prime Time Wrestling" name in smaller text. Below the logo, it also showed the championship name "Tag Team Champions" in black text. The main plate was also engraved with basic line shapes, and decorated with several white crystals above and below the text.
 
-This design was poorly received by the audience, and lambasted as looking "cheap" and "bulky". PTW redesigned the belts, unveiling them at [PTW#5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), without announcing the fact.
+This design was poorly received by the audience, and lambasted as looking "cheap" and "bulky". PTW redesigned the belts, unveiling them at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), without announcing the fact.
 
 The new version appears much slimmer and smaller than the first one. The main plate is smaller with much more details, engravings and black fillings instead of the solid gold plate used before. In its centre, the logo still dominates. The sideplates were made bigger, and display two hands in a handshake, representing tag team spirit.
 
@@ -54,7 +54,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 - - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
   - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
   - s: Tag Team Match
-    en: '[PTW#4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
+    en: '[PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
     ed: 2023-06-25
 - - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
   - 'Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
@@ -68,7 +68,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
   - "MxM Collection: Mansoor, Mason Madden"
   - s: Four Way Tag Team Match
     ed: 2024-02-03
-    en: '[PTW#5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
+    en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
 {% end %}
 
 **TOTAL:** 223 days
@@ -84,7 +84,7 @@ While Boro never defended the title, he was also recognized as a champion.
   - "MxM Collection: Mansoor, Mason Madden"
   - s: Four Way Tag Team Match
     ed: 2024-02-03
-    en: '[PTW#5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
+    en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
   - "[Marcelito](@/w/marcelito.md), [Axel Fox](@/w/axel-fox.md)"
   - s: Open Challenge
@@ -94,7 +94,7 @@ While Boro never defended the title, he was also recognized as a champion.
   - 'Lucha Squad: Lince Dorado, Samuray del Sol'
   - s: Tag Team Match
     ed: 2024-05-11
-    en: '[PTW#6: Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md)'
+    en: '[PTW #6: Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md)'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
   - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
   - s: Tag Team Match
