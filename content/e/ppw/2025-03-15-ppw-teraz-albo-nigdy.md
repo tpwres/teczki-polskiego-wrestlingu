@@ -9,8 +9,7 @@ venue=["minska-65"]
 city = "Warszawa"
 hide_results = true
 [extra.gallery]
-1 = { path = "2025-03-15-ppw-teraz-albo-nigdy-plakat.jpg", caption = "Official poster. Skulls contain Easter eggs referencing various PpW competitors, but not all of them 
-can be clearly identified.", source = "Official PpW Facebook" }
+1 = { path = "2025-03-15-ppw-teraz-albo-nigdy-plakat.jpg", caption = "Official poster. Skulls contain Easter eggs referencing various PpW competitors, but not all of them can be clearly identified.", source = "Official PpW Facebook" }
 2 = { path = "ppw-teraz-albo-nigdy-tickets.webp", caption = "Screenshot of the ticketing website, showing three tiers of available tickets.", source = "Stage24.pl" }
 +++
 
