@@ -2,7 +2,7 @@
 title = "DFW Championship"
 template = "article.html"
 weight = 0
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 +++
 
 The DFW Championship was the main and only title of [Dream Factory Wrestling](@/o/dfw.md). It was introduced in 2016 at [Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) with the title being a prize in the titular tournament.

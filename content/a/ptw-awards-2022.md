@@ -2,7 +2,7 @@
 title = "PTW Awards 2022"
 weight = 6
 template = "article.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [extra.gallery]
 1 = { path = "hero-of-the-year.webp", caption = "Nominees for the Hero of the Year category.", source = "Facebook PTW"}
 2 = { path = "ptw-awards-statues.webp", caption = "Awards statues made of acrylic glass, set on the ring in [PTW Performance Center](@/v/ptw-targowa.md)", source = "Facebook PTW"}

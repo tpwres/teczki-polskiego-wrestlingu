@@ -1,7 +1,7 @@
 +++
 title = "Jacob Crane"
 template = "talent_page.html"
-authors = ["Seweryn Pielucha", "Krzysztof Zych"]
+authors = ["Sewi The Referee", "Krzysztof Zych"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]

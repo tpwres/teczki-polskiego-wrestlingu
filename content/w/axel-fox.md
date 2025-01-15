@@ -1,7 +1,7 @@
 +++
 title = "Axel Fox"
 template = "talent_page.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery.1]

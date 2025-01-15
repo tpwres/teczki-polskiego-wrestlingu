@@ -1,7 +1,7 @@
 +++
 title = "PpW Co Za Noc"
 template = "event_page.html"
-authors = ["Szymon Iwulski", "M3n747", "Seweryn Pielucha"]
+authors = ["Szymon Iwulski", "M3n747", "Sewi The Referee"]
 [taxonomies]
 chronology = ["ppw"]
 venue = ["minska-65"]

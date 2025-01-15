@@ -2,7 +2,7 @@
 title = "MZW Championship"
 weight = 5
 template = "article.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery.1]
