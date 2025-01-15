@@ -27,4 +27,4 @@ Along with event announcement, PpW announced "Largest match in PpW history". Thi
 ### References
 
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1137639111699813&set=a.499910772139320)
-* [Tickets for the event]
+* [Tickets for the event](https://stage24.pl/events/ppw-ewenement-teraz-albo-nigdy-4054)
