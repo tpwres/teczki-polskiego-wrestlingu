@@ -2,7 +2,7 @@
 title = "The Collusion" 
 weight = 0
 template = "article.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 +++
 
 "Zmowa" (_The Collusion_) was a villainous professional wrestling stable that performed mainly in [PpW](@/o/ppw.md), while making sporadic appearances in other Polish promotions such as [MZW](@/o/mzw.md). The group's name came from [Biesiad](@/w/biesiad.md), who started using it during his feud with [Mister Z](@/w/mister-z.md), PpW's booker and promotor, and his allies.

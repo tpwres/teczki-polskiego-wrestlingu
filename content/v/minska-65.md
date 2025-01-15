@@ -1,7 +1,7 @@
 +++
 title = "Mińska 65"
 template = "venue_page.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [extra]
 year_list_start = 2024
 +++

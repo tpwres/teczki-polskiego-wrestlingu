@@ -2,7 +2,7 @@
 title = "KPW OldTown Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747", "Seweryn Pielucha"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery]

@@ -1,7 +1,7 @@
 +++
 title = "The Greens"
 weight = 0
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 +++
 
 "Zieloni" (_The Greens_), is a the name for a group of Polish wrestlers, who were originally connected to [MZW](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.

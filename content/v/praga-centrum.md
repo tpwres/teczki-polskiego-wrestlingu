@@ -1,7 +1,7 @@
 +++
 title = "Praga Centrum"
 template = "venue_page.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [extra.gallery]
 1 = { path = "praga-centrum.jpg", caption = "Praga Centrum in 2024, as seen from the outside.", source = "Ville Paananen" }
 +++

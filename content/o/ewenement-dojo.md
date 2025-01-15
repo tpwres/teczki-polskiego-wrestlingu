@@ -2,7 +2,7 @@
 title = "Ewenement Dojo"
 weight = 0
 template = "org_page.html"
-authors = ["Seweryn Pielucha"]
+authors = ["Sewi The Referee"]
 [extra]
 hide_roster = true
 hide_events = true
