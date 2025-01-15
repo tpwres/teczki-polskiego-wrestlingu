@@ -11,7 +11,7 @@ city = "Kraków"
 
 This was [PTW's](@/o/ptw.md) return to Ryucon, an anime/manga fan convention held annually in Kraków for the second year. Like last year, the event was held at Tauron Arena, a multipurpose sports and event hall, with a capacity of up to 20,000 spectators. This time wrestling occuppied the main arena. The event featured references to the manga convention, including custom, manga-inspired graphics for the wrestlers and entrance themes.
 
-British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fox.md), who was his tag team partner at [PTW#4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). Also, Italian wrestler [Sam Rogers](@/w/sam-rogers.md) made his PTW debut.
+British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fox.md), who was his tag team partner at [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). Also, Italian wrestler [Sam Rogers](@/w/sam-rogers.md) made his PTW debut.
 
 {% card() %}
 - ['[Jonny Storm](@/w/jonny-storm.md)', '[Axel Fox](@/w/axel-fox.md)']
@@ -42,7 +42,7 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 * [Karol "Iskra" Górski](@/w/iskra.md) came out to challenge [Diana](@/w/diana-strong.md) to a match on the next Underground show.
 * After [Samson](@/w/samson.md)'s match, he was attacked by Sinister and his allies. [Marcelito](@/w/marcelito.md) tried to make a save, but got beaten down as well. Lights went out, [Nano Lopez](@/w/nano-lopez.md) entered with a steel chair and successfully makes a save.
 * [Puncher](@/w/puncher.md) came out to insult manga fans and culture, and tried burning manga books in a bucket full of gasoline. Some of the gasoline spilled out and burned the ring, a crewmember extinguished the fire.
-* [Wiktor Longman](@/w/wiktor-longman.md) interrupted Pan Pawłowski. He confirmed cutting ties with John "Bad Bones" Klinger, and proclaimed loyalty to Pawłowski. This storyline saw its conclusion months later at [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
+* [Wiktor Longman](@/w/wiktor-longman.md) interrupted Pan Pawłowski. He confirmed cutting ties with John "Bad Bones" Klinger, and proclaimed loyalty to Pawłowski. This storyline saw its conclusion months later at [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 * The tag team championship defense was a no-contest due to an intervention by Legia Łysych ([Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)) with [Vic Golden](@/w/vic-golden.md). The champions retained. Both teams chased off the heels. Show ended with babyfaces standing tall.
 
 #### One-time entrance themes

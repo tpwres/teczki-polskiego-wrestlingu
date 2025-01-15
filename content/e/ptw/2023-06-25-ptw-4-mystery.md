@@ -1,5 +1,5 @@
 +++
-title = "PTW#4: The Mystery"
+title = "PTW #4: The Mystery"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
@@ -63,7 +63,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 * Newly allied [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md) interfered in the match after a bump that took Ref Seweryn out. [Boro](@/w/boro.md), the third member of PAKA entered and chased off the heels with a kendo stick.
 * Pawłowski was in the ring to close the show, when the officially fired' "Bad Bones" Klinger appeared on the big screen. Klinger requested Pawłowski to reinstate him, and to give him a title match.
 * When Pawłowski rejected his offer, the screen revealed a chair, with a tied down Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW. Klinger beat up Rzeźniczek and threatened to cut off his fingers with pliers. This convinced Pawłowski to reinstate Klinger.
-* On-screen, Klinger laid out Rzeźniczek with a punch, then carried him, stunned and still tied up, to the entrance stage. Pawłowski sent the security team after them, who chased Bones away. The show ends with Pawłowski checking on Rzeźniczek. This story would be later continued at [PTW#5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
+* On-screen, Klinger laid out Rzeźniczek with a punch, then carried him, stunned and still tied up, to the entrance stage. Pawłowski sent the security team after them, who chased Bones away. The show ends with Pawłowski checking on Rzeźniczek. This story would be later continued at [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 
 ### References
 

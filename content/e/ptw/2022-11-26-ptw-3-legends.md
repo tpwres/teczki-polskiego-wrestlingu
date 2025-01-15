@@ -1,5 +1,5 @@
 +++
-title = "PTW#3: Legends"
+title = "PTW #3: Legends"
 template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]

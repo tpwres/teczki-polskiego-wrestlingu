@@ -58,7 +58,7 @@ In 2020, local branch of the national broadcaster TVP3 Wrocław published a [sho
 
 ## 2021
 
-The newly created [Prime Time Wrestling](@/o/ptw.md) streamed their first ever show, [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) on both YouTube and TVP Sport. While only streamed, not broadcast, it is notable because TVP Sport is the national broadcaster's sports channel.
+The newly created [Prime Time Wrestling](@/o/ptw.md) streamed their first ever show, [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) on both YouTube and TVP Sport. While only streamed, not broadcast, it is notable because TVP Sport is the national broadcaster's sports channel.
 
 ## 2023
 
@@ -75,7 +75,7 @@ In August 2024, PTW launched a format on TVT, which is a local Silesian TV stati
 On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured [a brief segment][halo-tu-ppw] with PpW's wrestlers [Biesiad](@/w/biesiad.md), [Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Gustav brought his custom [PpW Championship](@/c/ppw-championship.md) belt, which was prominently displayed on a coffee table, with PpW's logo clearly legible.
 The hosts asked the wrestlers several questions, including about the nature of kayfabe and their roles and characters. Biesiad was portrayed as a pure fighter, while Gustav promoted himself as a man of culture and means, deserving the championship he carried. Crane was referred to mostly as "coach".
 
-Some time later, in October, PTW announced that their shows would be aired on Extreme Sports channel, starting with [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), which aired on October 27th.
+Some time later, in October, PTW announced that their shows would be aired on Extreme Sports channel, starting with [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), which aired on October 27th.
 This was later followed by Extreme starting to air the Underground series of shows.
 The first one to air was [PTW Underground 4](@/e/ptw/2022-04-24-ptw-underground-4.md), scheduled on Monday, November 18th, 2024 at 22:00 (10&nbsp;PM), and was followed by more Underground shows on the following days.
 

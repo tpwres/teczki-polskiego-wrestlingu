@@ -39,7 +39,7 @@ This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-
 #### Creation of PTW
 
 After his departure from KPW, Pawłowski spent the next two years working for Fame MMA, and in the second half of 2021 announced the opening of [Prime Time Wrestling](@/o/ptw.md).
-This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co-owner, however Rzeźniczek left after [PTW#5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), leaving Pawłowski the sole owner.
+This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co-owner, however Rzeźniczek left after [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), leaving Pawłowski the sole owner.
 
 Pawłowski is one of the main faces of the promotion, with his promoter role acknowledged on-screen. He typically hosts the shows, does the ring announcing, and makes authority figure decisions. It's not uncommon for him to openly comment on match outcomes and wrestlers' behaviour, as well as to be involved in storylines. Most notably, between 2022 and early 2024 he feuded with [John "Bad Bones" Klinger](@/w/bad-bones.md) and [Wiktor Longman](@/w/wiktor-longman.md), who were trying to destroy PTW from the inside.
 

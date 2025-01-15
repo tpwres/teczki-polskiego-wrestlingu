@@ -23,8 +23,8 @@ The PTW Championship is a professional wrestling championship created and promot
 
 ## History
 
-The title was created at [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in November 2022, by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - PTW's owner and General Manager.
-Along with the title, Pawłowski announced a 20-person Gold Rush Rumble match (a variation of a Battle Royal match), which took place in February 2024 during [PTW#5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
+The title was created at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in November 2022, by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - PTW's owner and General Manager.
+Along with the title, Pawłowski announced a 20-person Gold Rush Rumble match (a variation of a Battle Royal match), which took place in February 2024 during [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 The match was won by Dawid "Puncher" Seńko, who then became the inaugural PTW Champion.
 
 ## Belt design
@@ -61,7 +61,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
   - s: Gold Rush Rumble
-    en: '[PTW#5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
+    en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
     ed: 2024-02-03
 - - 'Puncher(c)'
   - Marius Al-Ani
@@ -72,7 +72,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - 'Babathunder'
   - nc: No Contest
     s: Singles Match
-    en: '[PTW#6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md)'
+    en: '[PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md)'
     ed: 2024-05-11
 - - 'Puncher(c)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'

@@ -11,7 +11,7 @@ city = "Chorzów"
 
 The ninth [PTW](@/o/ptw.md) Underground show was held on Sunday, October 30th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
 
-This was the go-home show for [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). Many foreign wrestlers were present, thrown into a battle royale for a PTW contract. In this match, fans saw the ring debuts of masked luchador El Ogre, Marco Hammers, and Rafi Rarytas. In the main event, British wrestler Sam Gradwell, fresh out of NXT UK, faced Justin Joy.
+This was the go-home show for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). Many foreign wrestlers were present, thrown into a battle royale for a PTW contract. In this match, fans saw the ring debuts of masked luchador El Ogre, Marco Hammers, and Rafi Rarytas. In the main event, British wrestler Sam Gradwell, fresh out of NXT UK, faced Justin Joy.
 
 {% card() %}
 - ['[Taras](@/w/taras.md)', '[Vic Golden](@/w/vic-golden.md)']

@@ -15,7 +15,7 @@ The PTW Awards ("Nagrody podsumowujące rok", loosely translated as _End-of-the-
 
 The awards were originally planned to be hosted annually, at the end of each year. This plan didn't entirely pan out, however, as there was no 2023/24 edition of the Awards. Instead, this edition was followed [two years later](@/a/ptw-awards-2024.md).
 
-The first edition took place in Dec 2022/Jan 2023, to summarize the first chapter of PTW's existence, from [PTW#1: Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) until the end of 2022.
+The first edition took place in Dec 2022/Jan 2023, to summarize the first chapter of PTW's existence, from [PTW #1: Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) until the end of 2022.
 Fans nominated their candidates by voting with reactions on PTW's Facebook page, which posted selected nominees in multiple categories.
 
 This award ceremony was held during [PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md).
@@ -113,9 +113,9 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 #### Show of the Year
 
-1. [PTW#3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 170
-2. [PTW#1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 13
-3. [PTW#2: BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 11
+1. [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 170
+2. [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 13
+3. [PTW #2: BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 11
 4. [PTW X RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 4
 5. [PTW Underground 8](@/e/ptw/2022-09-25-ptw-underground-8.md) - 2
 
