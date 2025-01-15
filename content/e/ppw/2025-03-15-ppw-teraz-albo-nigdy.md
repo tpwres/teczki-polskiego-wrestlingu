@@ -9,7 +9,9 @@ venue=["minska-65"]
 city = "Warszawa"
 hide_results = true
 [extra.gallery]
-1 = { path = "2025-03-15-ppw-teraz-albo-nigdy-plakat.jpg", caption = "Official poster. Skulls contain Easter eggs referencing various PpW competitors, but not all of them can be clearly identified", source = "Official PpW Facebook" }
+1 = { path = "2025-03-15-ppw-teraz-albo-nigdy-plakat.jpg", caption = "Official poster. Skulls contain Easter eggs referencing various PpW competitors, but not all of them 
+can be clearly identified.", source = "Official PpW Facebook" }
+2 = { path = "ppw-teraz-albo-nigdy-tickets.webp", caption = "Screenshot of the ticketing website, showing three tiers of available tickets.", source = "Stage24.pl" }
 +++
 
 Teraz Albo Nigdy (_Now Or Never_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska&nbsp;65](@/v/minska-65.md). This time, the show is set in a different part of the venue complex, _Hala Labo_.
