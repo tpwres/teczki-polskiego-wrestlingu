@@ -1,12 +1,13 @@
+{% set alias_map = load_data(path="data/aliases.json") %}
+{% set all_my_names = [] %}
+{% for alias, path in alias_map %}
+  {% if path == page.relative_path %}{% set_global all_my_names = all_my_names | concat(with=alias) %}{% endif %}
+{% endfor %}
 {% set appearances = load_data(path="data/crew_appearances.json") %}
-{% set my_appearances = appearances | get(key=page.title, default=[]) %}
-{% if page.extra.career_name %}
-  {% set cn_appearances = appearances | get(key=page.extra.career_name, default=[]) %}
-  {% set my_appearances = my_appearances | concat(with=cn_appearances) %}
-{% endif %}
-{% for alias in page.extra|get(key="career_aliases", default=[]) %}
-  {% set alias_appearances = appearances | get(key=alias, default=[]) %}
-  {% set_global my_appearances = my_appearances | concat(with=alias_appearances) %}
+{% set my_appearances = [] %}
+{% for name in all_my_names %}
+  {% set napps = appearances | get(key=name, default=[]) %}
+  {% set_global my_appearances = my_appearances | concat(with=napps) %}
 {% endfor %}
 
 {% set appearances_by_date = my_appearances | sort(attribute='d') %}
