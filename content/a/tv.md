@@ -87,7 +87,7 @@ It is unclear if their shows will continue to air on FightBox.
 
 ## 2025
 
-In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadcast of both shows on Sunday January 5th. From now on, the only WWE programming on the channel would be WWE Classic Gold. In exchange, the channel added two more British wrestling organizations to its schedule: Newcastle-based North Wrestling, and Wolverhampton-based Burning Hearts Pro Wrestling, both to air on Thursday evenings.
+In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadcast of both shows on Sunday January 5th. From now on, the only WWE programming on the channel would be WWE Classic Gold. In exchange, the channel added two more British wrestling organizations to its schedule: Newcastle-based North Wrestling, and Wolverhampton-based Burning Hearts Pro Wrestling, both to air on Thursday evenings. The first episode of Burning Hearts aired on January 16th with commentary by [Pawłowski](@/w/pan-pawlowski.md) and Supron.
 
 ## References
 
