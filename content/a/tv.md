@@ -85,6 +85,10 @@ The following day Legacy [officially confirmed][extreme-low-2] their media partn
 One week later, on November 18th, Extreme and [KPW](@/o/kpw.md) also posted about signing a deal to air their shows, starting with [KPW Arena 23: Zabójcze Wyzwanie](@/e/kpw/2023-11-24-kpw-arena-23.md) on Saturday, November 23rd.
 It is unclear if their shows will continue to air on FightBox.
 
+## 2025
+
+In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadcast of both shows on Sunday January 5th. From now on, the only WWE programming on the channel would be WWE Classic Gold. In exchange, the channel added two more British wrestling organizations to its schedule: Newcastle-based North Wrestling, and Wolverhampton-based Burning Hearts Pro Wrestling, both to air on Thursday evenings.
+
 ## References
 
 * [Article by SixKiller of Attitude Forum](https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time
