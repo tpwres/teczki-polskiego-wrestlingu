@@ -46,7 +46,7 @@ For this event, PTW invited several debuting wrestlers:
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Puncher](@/w/puncher.md)'
-  - g:Altercation between Puncher and Pawłowski
+  - g: Altercation between Puncher and Pawłowski
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: Singles Match
