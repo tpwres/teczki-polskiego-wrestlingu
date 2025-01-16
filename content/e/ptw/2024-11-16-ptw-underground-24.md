@@ -32,6 +32,9 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '"The Veteran" Jack Vaughn'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
+- credits:
+    Host: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: 'Sędzia Herno, [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
 {% end %}
 
 ### Outcomes and aftermath
