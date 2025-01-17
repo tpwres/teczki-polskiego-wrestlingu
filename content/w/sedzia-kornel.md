@@ -47,14 +47,14 @@ Kornel also entered into a lengthy feud with [Gustav Gryffin](@/w/gustav-gryffin
 Unhappy with his officiating, Gustav derogatorily called Kornel a "skinny dog" in a promo at [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md), and refused to have his matches refereed by Kornel.
 This resulted in [Osamu](@/w/osamu.md) officiating Gryffin's match against [Ricardo Diesel](@/w/ricardo-diesel.md) at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md), and continued into Gryffin's career with other referees officiating his matches.
 
-Around mid-2023 Kornel began to be introduced as a "referee well-versed in hardcore", and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and Chris X.
+Around mid-2023 Kornel began to be introduced as a "referee well-versed in hardcore".
 This experience in hardcore and deathmatches, as well as a history of taking ref bumps, sometimes resulting in bleeding (e.g. [Feager](@/w/feager.md) vs [Mister Z](@/w/mister-z.md) at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md)) earned him the nickname "Hardcore Referee". He later put that on a T-shirt, thus becoming the second Polish referee to sell his merchandise (after [Krystian Czekaj](@/w/krystian-czekaj.md)).
 
 ### Maniac Zone Wrestling (2023)
 
-At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made his debut in [Maniac Zone Wrestling](@/o/mzw.md), and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and Chris X.
+At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made his debut in [Maniac Zone Wrestling](@/o/mzw.md), and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and [Chris X](@/w/chris-x.md).
 
-## In wrestling 
+## In wrestling
 
 * Tag Teams and stables:
   - The Tourists (2024) - non-canon shows
