@@ -43,7 +43,7 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 * [Rafi Rarytas](@/w/rafi.md)
 * [Sambor](@/w/sambor.md)
 * Michael Payne
-* Chris X
+* [Chris X](@/w/chris-x.md)
 * Leo Zayde
 * [Prince Striker](@/w/royal-striker.md)
 * [Ref Seweryn](@/w/sedzia-seweryn.md)

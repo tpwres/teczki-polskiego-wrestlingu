@@ -8,7 +8,13 @@ venue=["2kola"]
 city = "Warszawa"
 [extra.gallery.1]
 path = "2023-12-08-ppw-turbo-og-plakat_.jpg"
-caption = "Official poster, imitating the character selection grid from Mortal Kombat games. The selectable characters are: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md); [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md); [Adam Wong](@/w/adam-wong.md), [Isnorr](@/w/isnorr.md), [Bill Feager](@/w/feager.md); Asara, Chris X, [Rafi](@/w/rafi.md); and finally Jack Harrop."
+caption = """\
+Official poster, imitating the character selection grid from Mortal Kombat games.
+The selectable characters are: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md);
+[Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md);
+[Adam Wong](@/w/adam-wong.md), [Isnorr](@/w/isnorr.md), [Bill Feager](@/w/feager.md);
+Asara, [Chris X](@/w/chris-x.md), [Rafi](@/w/rafi.md); and finally Jack Harrop.
+"""
 source = "[Official PpW Facebook]"
 [extra.gallery.2]
 path = "2023-12-08-ppw-turbo-og-bilety.jpg"
@@ -19,7 +25,7 @@ source = "[Official PpW Facebook]"
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2KOŁA](@/v/2kola.md) club.
 
 The event's name references the previous [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md) event at the same venue, and refers to the fact that 2koła is the original, first place that held their events, dating back to 2019 with [PpW 2KOŁA To My Nie Zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md).
-Originally British wrestler Jack Harrop was to face [Johnny Blade](@/w/johnny-blade.md) in the main event, however he was sidelined due to injury, and replaced with Chris X.
+Originally British wrestler Jack Harrop was to face [Johnny Blade](@/w/johnny-blade.md) in the main event, however he was sidelined due to injury, and replaced with [Chris X](@/w/chris-x.md).
 This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](@/w/rafi.md), complete with an immediate heel-turn.
 
 {% card() %}
@@ -31,7 +37,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
   - "[Biesiad Strong](@/w/biesiad.md)"
   - s: "Street Fight"
 - - "[Johnny Blade](@/w/johnny-blade.md)"
-  - Chris X
+  - "[Chris X](@/w/chris-x.md)"
   - s: "Christmas Massacre"
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
