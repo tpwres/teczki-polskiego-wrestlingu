@@ -31,7 +31,7 @@ source = "Official MZW Facebook"
 - -  'Michael Payne'
   -  '[Prince Striker](@/w/royal-striker.md)'
   -  'Lio Zayde'
-  -  'Chris X'
+  -  '[Chris X](@/w/chris-x.md)'
   -  '???'
   -  s: "Seven Man Rookie Battle Royal"
 - - '[Rafael Kid](@/w/rafael-kid.md)'

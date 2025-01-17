@@ -13,7 +13,8 @@ source = "Official MZW Facebook"
 +++
 
 {% card() %}
-- [Chris X, Rubix]
+- - '[Chris X](@/w/chris-x.md)'
+  - Rubix
 - [Dieter Schwartz, Denim Adams]
 - ['[Matt Buckna](@/w/matt-buckna.md)', '[Alex Arthur](@/w/alex-arthur.md)']
 - [Leo Zayde, "[Alex Ace](@/w/alex-ace.md)", Michael Payne, {s: Three Way Match}]
