@@ -5,4 +5,4 @@ template = "talent_page.html"
 country = ["PL"]
 +++
 
-Chris X is a Polish pro wrestler, best known for his appearances in [MZW](@/o/mzw.md) and later [PpW Ewenement](@/o/ppw.md). In the latter, he performed mostly in hardcore and ultraviolent matches.
+Chris X is a retired Polish pro wrestler, best known for his appearances in [MZW](@/o/mzw.md) and later [PpW Ewenement](@/o/ppw.md). In the latter, he performed mostly in hardcore and ultraviolent matches.
