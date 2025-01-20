@@ -20,8 +20,8 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 - - '[Feager](@/w/feager.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: Ropeless Match
-- - '[Automatico](@/w/rob-scaffold.md)'
-  - Extreme Floorfiller
+- - 'Automatico'
+  - '[Extreme Floorfiller](@/w/johnny-blade.md)'
   - s: 2 Out Of 3 Falls Match
     n: Automatico won the match 2:1
 - - >
