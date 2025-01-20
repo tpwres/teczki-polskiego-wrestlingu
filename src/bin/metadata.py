@@ -35,14 +35,14 @@ def update_cbf(career, page: EventPage):
             year = cast(Counter, entry.setdefault(event_date.year, Counter()))
             year.update(orgs)
 
-        if not card.crew: return
-        for person in card.crew.members:
-            if not accepted_name(person.name): continue
-            key = person.link or person.name
+    if not card.crew: return
+    for person in card.crew.members:
+        if not accepted_name(person.name): continue
+        key = person.link or person.name
 
-            entry = career.setdefault(key, {})
-            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
-            year.update(orgs)
+        entry = career.setdefault(key, {})
+        year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+        year.update(orgs)
 
 
 
