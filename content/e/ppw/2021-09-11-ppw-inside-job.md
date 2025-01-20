@@ -29,8 +29,8 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: 'Last Man Standing Match'
-- - '[Mister Z](@/w/mister-z.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Mister Z](@/w/mister-z.md)'
   - s: 'Stairway to Hell Match'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
