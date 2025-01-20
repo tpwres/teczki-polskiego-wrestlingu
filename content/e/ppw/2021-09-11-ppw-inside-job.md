@@ -12,7 +12,7 @@ caption = "Official poster. Pictured are [Osamu](@/w/osamu.md) with the [PpW Cha
 source = "Official PpW Facebook"
 [extra.gallery.2]
 path = "niskooktanowy-ricardo.webp"
-caption = "The future [Ricardo Diesel](@/w/ricardo-diesel) visible in the crowd."
+caption = "The future [Ricardo Diesel](@/w/ricardo-diesel.md) visible in the crowd."
 source = "Official PpW VOD"
 +++
 
