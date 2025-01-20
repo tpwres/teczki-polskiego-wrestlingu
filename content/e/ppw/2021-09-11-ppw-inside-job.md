@@ -10,6 +10,10 @@ city = "Warszawa"
 path = "2021-09-11-ppw-inside-job-plakat.jpg"
 caption = "Official poster. Pictured are [Osamu](@/w/osamu.md) with the [PpW Championship](@/c/ppw-championship.md), [Mister Z](@/w/mister-z.md), [Rob Scaffold](@/w/rob-scaffold.md) doing a swanton dive, plus [Johnny Blade](@/w/johnny-blade.md) and [Tony Sk1n](@/w/tony-sk1n.md) next to the logo."
 source = "Official PpW Facebook"
+[extra.gallery.2]
+path = "niskooktanowy-ricardo.webp"
+caption = "The future [Ricardo Diesel](@/w/ricardo-diesel) visible in the crowd."
+source = "Official PpW VOD"
 +++
 
 Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 2021, the twentieth anniversary of the infamous WTC terrorist incident. The event's name was a reference to popular conspiracy theories concerning that incident.
