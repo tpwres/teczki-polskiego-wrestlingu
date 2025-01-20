@@ -16,7 +16,7 @@ country = ["PL"]
 ## In wrestling
 
 * Entrance music:
-- "Eunomia" by Carrion
+  - "Eunomia" by Carrion
  {{ org_badge(orgs=['ppw']) }} <br>
  {{ music(yt='p1AAVsoDnVo')}}
  {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
