@@ -9,7 +9,7 @@ city = "Warszawa"
 [extra.gallery.1]
 path = "2023-09-09-ppw-czyste-intencje-plakat.jpg"
 caption = 'Official poster. The top five characters are [Ricardo Diesel](@/w/ricardo-diesel.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Mister Z](@/w/mister-z.md). Below them, pictured are [Steve Kuningas](@/w/steve-kuningas.md), Jerry "Rich" Mandecki and [Kapitan Bazooka](@/w/kapitan-bazooka.md).'
-source = "[Official PpW Facebook]"
+source = "Official PpW Facebook"
 +++
 
 {% card() %}

@@ -9,7 +9,7 @@ city = "Warszawa"
 [extra.gallery.1]
 path = "2022-09-10-ppw-brak-mi-slow-plakat.jpg"
 caption = "Official poster, showing [Johnny Blade](@/w/johnny-blade.md) bathing in blood."
-source = "[Official PpW Facebook]"
+source = "Official PpW Facebook"
 +++
 
 {% card() %}

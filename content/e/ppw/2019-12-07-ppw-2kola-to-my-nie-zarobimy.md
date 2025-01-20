@@ -12,7 +12,7 @@ hide_results = true
 [extra.gallery.1]
 path = "2019-12-07-ppw-2kola-to-my-nie-zarobimy-plakat.jpg"
 caption = "Official poster, showing a burnt down truck (probably a Mercedes T1) in front of the [2KOŁA](@/v/2kola.md) pub."
-source = "[Official PpW Facebook]"
+source = "Official PpW Facebook"
 +++
 
 This was likely the first PpW event open for general public, as opposed to friends and insiders that comprised the audiences in the prior years.

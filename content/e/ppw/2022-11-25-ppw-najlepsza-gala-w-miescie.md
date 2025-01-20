@@ -9,7 +9,7 @@ city = "Warszawa"
 [extra.gallery.1]
 path = "2022-11-25-ppw-najlepsza-gala-w-miescie-plakat.jpg"
 caption = "Official poster, showing [Steve Kuningas](@/w/steve-kuningas.md) and [Biesiad Strong](@/w/biesiad.md), who's holding the spire of Warsaw's [Palace of Culture and Science](https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science)."
-source = "[Official PpW Facebook]"
+source = "Official PpW Facebook"
 +++
 
 The event name, which translates to "The Best Show in Town", is a reference to the fact that PTW also held their event [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in Warsaw, the very next day.
