@@ -14,7 +14,7 @@ Następny Poziom (_The Next Level_) was held as part of the third (and final) Sz
 
 This event had a major foreign guest - British wrestler Mark Haskins, who by then has appeared for NJPW and Ring of Honor, as well as countless British organizations. Other foreign wrestlers were the returning [Dom Taylor](@/w/dom-taylor.md), the veteran Anton Green, and 19-year old female wrestler Chakara.
 
-### Build-up
+## Build-up
 
 * Oliwa previously won the #1 Contender's match aagainst [Gracjan Korpo](@/w/gracjan-korpo.md).
 * KPW [posted on Facebook](https://www.facebook.com/kpwrestling/posts/pfbid02fGtUG8wuaMW25FV76VqSQHECjCVqt1E4McUNJmBhFu9x3mKLNE4HWao94yK7UEXal) that [Robert Star](@/w/robert-star.md) was fired for breaking terms of his contract that he allegedly signed with [Piękny Kawaler](@/w/piekny-kawaler.md) back at Arena X. This likely referred to him not surrendering the championship belt won at Arena 13 to Kawaler. In effect, the KPW Championship was vacant.
@@ -27,7 +27,8 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
 - - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Greg](@/w/greg.md)(c)'
   - {s: "I Quit Match", c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"}
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', Mark Haskins]
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - Mark Haskins
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Dom Taylor](@/w/dom-taylor.md)'
   - '[Peter Pannache](@/w/peter-pannache.md)'
@@ -48,7 +49,15 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
 * Like on previous editions of SzlamFest, there was one hardcore match. This time it was Dawid and [Greg](@/w/greg.md) who used chains, kendo sticks, chairs, ladders and lighting tubes on each other.
 * [Piękny Kawaler](@/w/piekny-kawaler.md) was also reinstated to the roster after defeating Haskins, and completing two other tasks that the Chairman gave him previously in recorded vignettes.
 
-### References
+## Trivia
+
+* On an episode of [Istota Wrestlingu][istota-202501], [PpW's](@/o/ppw.md) [Mister Z](@/w/mister-z.md) recalled that he and [Michael HT](@/w/michael-ht.md) were present at this event as fans, and he in particular was very impressed with Piękny Kawaler vs Mark Haskins.
+
+
+## References
 
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-14/), with a recap video
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=232400)
+
+
+[istota-202501]: https://www.youtube.com/watch?v=_YTLpybrUL8
