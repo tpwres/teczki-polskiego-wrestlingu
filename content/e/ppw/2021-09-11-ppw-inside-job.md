@@ -15,12 +15,19 @@ source = "Official PpW Facebook"
 Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 2021, the twentieth anniversary of the infamous WTC terrorist incident. The event's name was a reference to popular conspiracy theories concerning that incident.
 
 {% card() %}
-- ["[Tony Sk1n](@/w/tony-sk1n.md)", "[Adam Wong](@/w/adam-wong.md)", "[Bill Feager](@/w/feager.md)",
-  {s: "Three Way Match"}]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Isnorr](@/w/isnorr.md)", {s: "Last Man Standing
-      Match"}]
-- ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Direk](@/w/direk.md)", {s: "Hardcore Match"}]
-- ["[Mister Z](@/w/mister-z.md)", "[Osamu](@/w/osamu.md)", {c: "PpW Championship"}]
+- - '[Tony Sk1n](@/w/tony-sk1n.md)'
+  - '[Adam Wong](@/w/adam-wong.md)'
+  - '[Bill Feager](@/w/feager.md)'
+  - s: 'Three Way Match'
+- - '[Rob Scaffold](@/w/rob-scaffold.md)'
+  - '[Direk](@/w/direk.md)'
+  - s: 'Hardcore Match'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Isnorr](@/w/isnorr.md)'
+  - s: 'Last Man Standing Match'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Osamu](@/w/osamu.md)'
+  - c: 'PpW Championship'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Announcer: Julian
