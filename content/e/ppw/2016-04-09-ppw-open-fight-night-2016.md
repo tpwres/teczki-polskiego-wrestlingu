@@ -23,9 +23,9 @@ The exact date of the event isn't known. The videos were uploaded on 9.04, 14.05
   - '[Hades](@/w/olgierd.md)'
   - c: PpW Heavyweight Championship
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
-  - 'Red Floorfiller'
+  - '[Red Floorfiller](@/w/biesiad.md)'
 - credits:
-    Referee: 'Le Santo'
+    Referee: '[Le Santo](@/w/rob-scaffold.md)'
     Commentary: '[Johnny Blade](@/w/johnny-blade.md), [Rob Scaffold](@/w/rob-scaffold.md)'
 {% end %}
 
