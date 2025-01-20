@@ -30,8 +30,8 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
   - '[Isnorr](@/w/isnorr.md)'
   - s: 'Last Man Standing Match'
 - - '[Mister Z](@/w/mister-z.md)'
-  - '[Osamu](@/w/osamu.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - s: 'Stairway to Hell Match'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Announcer: Julian
