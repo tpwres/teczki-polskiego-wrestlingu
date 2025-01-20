@@ -27,7 +27,7 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
   - s: 'Last Man Standing Match'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Osamu](@/w/osamu.md)'
-  - c: 'PpW Championship'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Announcer: Julian
