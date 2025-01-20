@@ -15,11 +15,11 @@ The selectable characters are: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Str
 [Adam Wong](@/w/adam-wong.md), [Isnorr](@/w/isnorr.md), [Bill Feager](@/w/feager.md);
 Asara, [Chris X](@/w/chris-x.md), [Rafi](@/w/rafi.md); and finally Jack Harrop.
 """
-source = "[Official PpW Facebook]"
+source = "Official PpW Facebook"
 [extra.gallery.2]
 path = "2023-12-08-ppw-turbo-og-bilety.jpg"
 caption = "Tickets on sale announcement (notice the similarity to the official poster of [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md))"
-source = "[Official PpW Facebook]"
+source = "Official PpW Facebook"
 +++
 
 TURBO OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, at the [2KOŁA](@/v/2kola.md) club.
