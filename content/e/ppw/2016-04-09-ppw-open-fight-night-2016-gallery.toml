@@ -1,7 +1,7 @@
-01 = { path = "swanton-z-pagorka.webp", caption = "", source = "Official PpW YouTube" }
-02 = { path = "swanton-od-dupy-strony.webp", caption = "", source = "Official PpW YouTube" }
-03 = { path = "2-count.webp", caption = "", source = "Official PpW YouTube" }
-04 = { path = "3-count.webp", caption = "", source = "Official PpW YouTube" }
-05 = { path = "red-flooriller.webp", caption = "", source = "Official PpW YouTube" }
-06 = { path = "u-combo.webp", caption = "", source = "Official PpW YouTube" }
-07 = { path = "papier-kamien-nozyce.webp", caption = "", source = "Official PpW YouTube" }
+01 = { path = "swanton-z-pagorka.webp", caption = "Swanton from a grassy knoll.", source = "Official PpW YouTube" }
+02 = { path = "swanton-od-dupy-strony.webp", caption = "Same move, different angle.", source = "Official PpW YouTube" }
+03 = { path = "2-count.webp", caption = "One! Two!", source = "Official PpW YouTube" }
+04 = { path = "3-count.webp", caption = "Three!", source = "Official PpW YouTube" }
+05 = { path = "red-flooriller.webp", caption = "Red Floorfiller", source = "Official PpW YouTube" }
+06 = { path = "u-combo.webp", caption = "[U. Combo](@/w/johnny-blade.md).", source = "Official PpW YouTube" }
+07 = { path = "papier-kamien-nozyce.webp", caption = "[Ultimo Combo](@/w/johnny-blade.md) beats Red Floorfiller at rock-paper-scissors.", source = "Official PpW YouTube" }
