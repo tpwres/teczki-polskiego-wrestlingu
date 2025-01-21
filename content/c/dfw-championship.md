@@ -3,17 +3,23 @@ title = "DFW Championship"
 template = "article.html"
 weight = 0
 authors = ["Sewi The Referee"]
+[extra]
+toclevel=2
+[extra.gallery]
+1 = { path = "pas-dfw-caly.webp", caption = "The DFW Championship belt in good condition.", source = "Facebook @DreamFactoryWrestling" }
+2 = { path = "pas-dfw.jpg", caption = "The damaged DFW Championship belt plate. As of 2024, it's being kept at [PpW](@/o/ppw.md)'s training facilities."}
+3 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the DFW Championship belt at [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
 +++
 
 The DFW Championship was the main and only title of [Dream Factory Wrestling](@/o/dfw.md). It was introduced in 2016 at [Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) with the title being a prize in the titular tournament.
 
-## Statistics:
+## Statistics
 * First champion: [Chris Hunter](@/w/chris-hunter.md)
 * Last champion: [Norris](@/w/isnorr.md)
 * Longest reign: Chris Hunter (246 days)
 * Shortest reign: Norris (approx. 90 days)
 
-## Belt design:
+## Belt design
 
 The belt was rather simple in design and cheapl homey-made by DFW members. The main plate was made from simple sheet metal without any paint coating, and was visibly attached to the strap by four bolts. 
 The main plate in general resembled a flattended hexagon, with two visible cuts at the top and bottom of the plate. These cuts give the plate a certain resemblance to the shape of Poland. The whole main plate space was occupied by "DFW" letters protruding from the plate itself. The letters and the outer rims of the main plate were simply painted white and red, the national colours of Poland.
