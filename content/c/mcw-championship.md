@@ -11,7 +11,7 @@ toclevel=2
 
 MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW starting years earlier, the belt was only introduced in late 2019 due lack of funds and personal difficulties, as well as the promotion's wish to have the best-looking title possible.
 
-## Statistics:
+## Statistics
 
 * First champion: [Johny Vegas](@/w/johny-vegas.md)
 * Shortest reign: Jack Kalom (1+ days)

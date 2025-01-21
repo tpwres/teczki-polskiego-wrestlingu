@@ -7,10 +7,6 @@ authors = ["Krzysztof Zych"]
 chrono_root = ["dfw"]
 [extra]
 toclevel = 3
-[extra.gallery]
-1 = { path = "pas-dfw.jpg", caption = "The damaged [DFW Championship](@/c/dfw-championship.md) belt plate. As of 2024, it was kept at [PpW](@/o/ppw.md)'s training facilities."}
-2 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the [DFW Championship](@/c/dfw-championship.md) belt at [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
-pas = { path = "pas-dfw-caly.webp", caption = "The [DFW Championship](@/c/dfw-championship.md) belt in good condition.", source = "Facebook @DreamFactoryWrestling" }
 [extra.gallery.atomowki]
 path = "dfw-atomowki.webp"
 caption = """
