@@ -10,17 +10,26 @@ city = "Chorzów"
 +++
 
 {% card() %}
-- ['[Taras](@/w/taras.md)', '[Max Speed](@/w/max-speed.md)']
-- ['[King Kaiden](@/w/king-kaiden.md)', '[Erik Šlotíř](@/w/erik-slotir.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Boro](@/w/boro.md)']
-- ['[Disco Pablo](@/w/disco-pablo.md)', '[Sinister](@/w/sinister.md)']
-- - '[Olgierd](@/w/olgierd.md)'
+- - '[Taras](@/w/taras.md)'
+  - [Max Speed](@/w/max-speed.md)'
+- - '[King Kaiden](@/w/king-kaiden.md)'
+  - [Erik Šlotíř](@/w/erik-slotir.md)'
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - [Boro](@/w/boro.md)'
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - [Sinister](@/w/sinister.md)'
+- - '[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - s: Underground Street Fight
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Salomon Strid]
-- ["[Krampus](@/w/krampus.md)", "[Marcelito](@/w/marcelito.md)"]
-- ['[Axel Fox](@/w/axel-fox.md)', '[Rafi Rarytas](@/w/rafi.md)', {s: impromptu match}]
-- ['[Dziedzic](@/w/dziedzic.md)', '["Top Gun" Samson](@/w/samson.md)']
+  - s: 'Underground Street Fight'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - 'Salomon Strid'
+- - '[Krampus](@/w/krampus.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Rafi Rarytas](@/w/rafi.md)'
+  - s: 'impromptu match'
+- - '[Dziedzic](@/w/dziedzic.md)'
+  - '"Top Gun" Samson](@/w/samson.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
