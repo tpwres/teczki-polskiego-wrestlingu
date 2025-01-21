@@ -6,10 +6,14 @@ authors = ["Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery.1]
+path = "ptw-tag-team-championship-render.jpg"
+caption = "Full view of the Championship."
+source = "Dawid Kucharski, MyWrestling.com.pl"
+[extra.gallery.2]
 path = "paka-tag-team-champions.webp"
 caption = "PAKA ([Taras](@/w/taras.md), [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)) holding the first version of the belts."
 source = "Facebook PrimeTimeWrestling"
-[extra.gallery.2]
+[extra.gallery.3]
 path = "bastards-tag-team-champions.jpg"
 caption = "Budapest Bastards ([Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)) wearing the updated belts."
 +++
