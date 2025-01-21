@@ -6,6 +6,7 @@ authors = ["M3n747"]
 country = ["PL"]
 [extra.gallery]
 1 = { path = "kpw-arena-22-filip-fux.jpg", caption = "Filip carries [Lee Rogers](@/w/lee-rogers.md), KPW Arena 22.", source = "M3n747" }
+2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre, after giving a talk following a screening of [The Iron Claw](https://en.wikipedia.org/wiki/The_Iron_Claw_(film)) on 17.01.2025.", source = "Alan Lisewski" }
 +++
 
 Filip Fux is one half of the Fux Brothers tag team, along with his kayfabe sibling [Michał](@/w/michal-fux.md). Debuting at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), he's best known for his tag team work alongside Michał, but he's also had a number of solo matches.
