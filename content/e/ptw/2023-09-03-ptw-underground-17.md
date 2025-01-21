@@ -11,13 +11,13 @@ city = "Chorzów"
 
 {% card() %}
 - - '[Taras](@/w/taras.md)'
-  - [Max Speed](@/w/max-speed.md)'
+  - '[Max Speed](@/w/max-speed.md)'
 - - '[King Kaiden](@/w/king-kaiden.md)'
-  - [Erik Šlotíř](@/w/erik-slotir.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
-  - [Boro](@/w/boro.md)'
+  - '[Boro](@/w/boro.md)'
 - - '[Disco Pablo](@/w/disco-pablo.md)'
-  - [Sinister](@/w/sinister.md)'
+  - '[Sinister](@/w/sinister.md)'
 - - '[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: 'Underground Street Fight'
