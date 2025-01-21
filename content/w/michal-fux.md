@@ -12,7 +12,7 @@ Michał Fux is one half of the Fux Brothers tag team, along with his kayfabe sib
 Debuting at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), he's best known for his tag team work alongside Filip, but he also worked a number of solo matches.
 Michał is currently the only KPW wrestler who never missed a single show since his debut - an honour he shared with [Zefir](@/w/zefir.md) until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md).
 
-The Fux Brothers are the reigning KPW Tag Team Champions, having won the belts from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veidt Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md).
+The Fux Brothers are the reigning [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), having won the belts from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veidt Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md).
 In 2023 they also made an appearance at an European Wrestling Association show in Austria.
 
 ## In wrestling
