@@ -29,7 +29,7 @@ city = "Chorzów"
   - '[Rafi Rarytas](@/w/rafi.md)'
   - s: 'impromptu match'
 - - '[Dziedzic](@/w/dziedzic.md)'
-  - '"Top Gun" Samson](@/w/samson.md)'
+  - '["Top Gun" Samson](@/w/samson.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
