@@ -9,7 +9,7 @@ venue = ["winogronowa-17"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "crossing-roads-2016-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
-2 = { path = "literal-rope-break.jpg", caption = "[Black Orion](@/w/johnny-blade.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, [Hirinus](@/w/hirinus.md) puts a hold on [Automatico](@/w/rob-scaffold.md).", source = "Official PpW YouTube." }
+2 = { path = "literal-rope-break.jpg", caption = "[Black Orion](@/w/johnny-blade.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, [Hirinus](@/w/hirinus.md) puts a hold on [Automatico](@/w/automatico.md).", source = "Official PpW YouTube." }
 3 = { path = "biesiad-strongs-pro-wrestler.jpg", caption = "[Steven Strong](@/w/biesiad.md) jumps from the top rope onto nearly everybody.", source = "Official PpW YouTube." }
 4 = { path = "hades.jpg", caption = "[Hades](@/w/olgierd.md) smiling for the camera.", source = "Official PpW YouTube." }
 +++
@@ -19,7 +19,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 {% card() %}
 - - >
     2 Chamy:
-    [Automatico](@/w/rob-scaffold.md),
+    [Automatico](@/w/automatico.md),
     [Black Orion](@/w/johnny-blade.md)(c)
   - '[Hirinus](@/w/hirinus.md), [Feager](@/w/feager.md)'
   - s: Tag Team Match

@@ -8,7 +8,7 @@ venue = ["ognicho"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
-1 = { path = "hello-yeah-sure-i-can-talk.jpg", caption = "[Automatico](@/w/rob-scaffold.md) answering the phone", source = "Official PpW YouTube" }
+1 = { path = "hello-yeah-sure-i-can-talk.jpg", caption = "[Automatico](@/w/automatico.md) answering the phone", source = "Official PpW YouTube" }
 2 = { path = "notice.jpg", caption = "_Attention! Do not touch the toy devices until the protective elements are removed (Sunday, 12.05 of current year). Usage of newly installed toys poses a danger._ ", source = "Official PpW YouTube" }
 +++
 
@@ -19,18 +19,18 @@ Dark Show was PpW's penultimate backyard event and the last one to be held in th
   - '[Osamu](@/w/osamu.md)'
   - nc: Double Count Out
 - - '[Hirinus](@/w/hirinus.md)'
-  - '[Automatico](@/w/rob-scaffold.md)'
+  - '[Automatico](@/w/automatico.md)'
   - '[KAT](@/w/biesiad.md)'
   - s: Triple Threat Hardcore Match
 - credits:
-    Referees: '[Automatico](@/w/rob-scaffold.md), [Osamu](@/w/osamu.md)'
+    Referees: '[Automatico](@/w/automatico.md), [Osamu](@/w/osamu.md)'
     Commentary: '???, ???'
 {% end %}
 
 #### Recap
 
 * During [Duende](@/w/sedzia-borys.md) vs [Osamu](@/w/osamu.md), referee Automatico answered a phone call while the wrestlers were brawling outside of the ring. He then announced he's got to go, so he did a fast count of "one-two-three-ten", thus ending the fight prematurely.
-* For his match, [Automatico](@/w/rob-scaffold.md) wore [Biesiad's](@/w/biesiad.md) shorts.
+* For his match, [Automatico](@/w/automatico.md) wore [Biesiad's](@/w/biesiad.md) shorts.
 
 ### References
 
