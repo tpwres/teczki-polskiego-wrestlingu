@@ -33,7 +33,7 @@ This was the final PpW show to use the old DIY ring.
   - s: Hardcore Match
     c: H.P.W. Hardcore Championship
 - credits:
-    Referees: '???, Miłosz, [Olgierd](@/w/olgierd.md)'
+    Referees: '???, [Miłosz](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
 {% end %}
 
 #### Recap
