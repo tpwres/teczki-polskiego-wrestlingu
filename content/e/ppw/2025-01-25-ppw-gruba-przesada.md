@@ -22,10 +22,17 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 #### Build-up
 
 * On 24.11.2024 PpW social media posted a picture of an inverted cross, identical to the one that [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) wears as a tattoo on his chest, with a date of 25.01.2025 inside it. Two days later, PpW officially confirmed that Dobroniak, last seen at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), would make a return. Dobroniak posted a comment in which he slandered [Isnorr](@/w/isnorr.md), implying a fight between the two - likely for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
-* The stipulation for the match between Stanisław Van Dobroniak and Isnorr was given to a popular vote via a poll on PpW's officiall Instagram - a first in Polish pro wrestling. In a comment, Dobroniak asked fans to vote for the Bra and Panties Match. Various options were given, each referencing a video game. Eventually "Donky Kong Weaponmaster Match" won - in this type of match, Donky Kong mascot will deliver the weapons at set moments of the match. PpW made it clear that despite uncanny likeness, this character is not _Donkey_ Kong - which belongs to Nintendo.
+* The stipulation for the match between Stanisław Van Dobroniak and Isnorr was given to a popular vote via a poll on PpW's officiall Instagram - a first in Polish pro wrestling. In a comment, Dobroniak asked fans to vote for the Bra and Panties Match. Various options were given, each referencing a video game:
+Donky Kong Weaponmaster Match - Donky Kong mascot is going to bring in the foreign objects
+Trophy Hunter Deathgames - competitors would be given various tasks in real time, first to score 3 points wins
+Heroes 3 Soundtrack Match - soundtrack from Heroes of Might and Magic would play throughout the match (with visual effects)
+Gothic CD-Disk Hellscape Match - inspired by Gothic game series, with CD disks introduced as weapons.
+Eventually "Donky Kong Weaponmaster Match" won - in this type of match, Donky Kong mascot will deliver the weapons at set moments of the match. PpW made it clear that despite uncanny likeness, this character is not _Donkey_ Kong - which belongs to Nintendo.
 * On 2.01.2025 [Goblin](@/w/goblin.md) posted a reel, in which he recapped [Olgierd](@/w/olgierd.md)'s interferences in his "sacred" rivalry against [Gustav Gryffin](@/w/gustav-gryffin.md). He likened it to a fictional scenario where Władysław Jagiełło and Ulrich von Jungingen face off for the [Battle of Grunwald][bitwa-pod-grunwaldem], only to be met with Genghis Khan interfering - in this case, the "stupid Mongolian" would be Olgierd. He dared Olgierd to make good on his promises to "end" Goblin and "make Goblin his bitch" - presumably challenging for a match at Gruba Przesada.
 * On 3.01.2025, [Mister Z](@/w/mister-z.md) and Gustav Gryffin posted a video where they recapped 2024 and made promises for 2025. They extended threats to most babyfaces on the roster, as well as an offer for [Axel Fox](@/w/axel-fox.md) to join [Zmowa](@/a/the-collusion.md) and finally get on the winning side. A day later PpW confirmed on their Facebook that Fox would make his decision at Gruba Przesada - presumably in an in-ring segment.
 * On 6.01.2025 PpW announced a Gauntler Survivor Challange match, in which [Goblin](@/w/goblin.md) is set to face a number of, yet unannounced, opponents. If he loses even one fight, he is said to be forcibly sent to [Monar][monar] for six months, presumably for a drug addiction rehab.
+* On 21.01.2025, PpW posted Isnorr's reaction to fans' choice of stipulation. Playing Gothic 3 on his computer, in a room decorated with Gothic series memorabilia, he expressed disappointment for the fans not choosing Gothic-related stipulation for his match against Dobroniak. He remembers and regrets his time as Dobroniak's trainee, tearing down his career as mostly winning against "backyard guys" (_podwórkowcy_), his trademark insult. He calls Dobroniak the "biggest backyard guy of them all". Responding to a threat of having a banana shoved up his rectum, he promises to wrap a banana in barbed wire and shove it in Dobroniak's mouth.
+* On 22.01.2025, Mister Z posted yet another video. Sitting in his office, he makes a phone call, asking unknown interlocutor (presumably part of PpW crew) to relay a message that both [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) will not be making an apperance at Gruba Przesada. This comes after few days of Biesiad Strong teasing through Instagram "notes" that his match would be announced soon.
 
 {% card(predicted=true) %}
 - - '[Sambor](@/w/sambor.md)'
@@ -61,6 +68,8 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 * [Instagram reel - Mister Z and Gustav Gryffin recap 2024](https://www.instagram.com/reel/DEXqo47K6Is/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * [Facebook post - Fox's decision](https://www.facebook.com/share/p/15TDKLcbE6/)
 * [Monar website - scope](https://www.monar.org/o-nas/czym-sie-zajmujemy/)
+* [Instagram reel - Mister Z bans Biesiad and Blade from the show](https://www.instagram.com/p/DFJCpUet4LN/)
+* [Instagram reel - Isnorr comments on stipulation](https://www.instagram.com/p/DFGEwgKqTtr/)
 
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [monar]: https://en.wikipedia.org/wiki/Monar
