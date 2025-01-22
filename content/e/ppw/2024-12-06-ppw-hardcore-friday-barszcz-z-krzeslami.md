@@ -12,7 +12,7 @@ city = "Warszawa"
 "Barszcz z Krzesłami" (_Borscht with Chairs_) was an event in [PpW's](@/o/ppw.md) revived Hardcore Friday series, held on December 6th 2024, in PpW's original venue, motorcycle club [2KOŁA](@/v/2kola.md).
 The name of the event is a play on "barszcz z uszkami", a traditional Polish soup [served at Christmas Eve][wigilia].
 
-The show was quickly sold-out, so the attendance can be approximated at about 220 viewers.
+The show was quickly sold out, so the attendance can be approximated at about 220 viewers.
 
 ### Build up
 
