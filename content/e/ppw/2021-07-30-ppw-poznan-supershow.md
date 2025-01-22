@@ -25,7 +25,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
   - nc: '?'
 - - '[Hirinus](@/w/hirinus.md)'
-  - '2 Chamy: [Automatico](@/w/rob-scaffold.md), [Black Orion](@/w/johnny-blade.md)'
+  - '2 Chamy: [Automatico](@/w/automatico.md), [Black Orion](@/w/johnny-blade.md)'
   - s: Handicap Match
     nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'

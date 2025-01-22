@@ -25,7 +25,7 @@ The exact date of the event isn't known. The videos were uploaded on 9.04, 14.05
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
   - '[Red Floorfiller](@/w/biesiad.md)'
 - credits:
-    Referee: '[Le Santo](@/w/rob-scaffold.md)'
+    Referee: '[Le Santo](@/w/le-santo.md)'
     Commentary: '[Johnny Blade](@/w/johnny-blade.md), [Rob Scaffold](@/w/rob-scaffold.md)'
 {% end %}
 

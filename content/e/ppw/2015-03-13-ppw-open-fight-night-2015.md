@@ -9,7 +9,7 @@ venue = ["steel-cage"]
 city = "Warszawa"
 [extra.gallery]
 1 = { path = "logo.jpg", caption = "Official logo.", source = "Official PpW YouTube" }
-2 = { path = "automatico-z-zetem.jpg", caption = "[Automatico](@/w/rob-scaffold.md) (left) and [Mister Z](@/w/mister-z.md) (right).", source = "Official PpW YouTube" }
+2 = { path = "automatico-z-zetem.jpg", caption = "[Automatico](@/w/automatico.md) (left) and [Mister Z](@/w/mister-z.md) (right).", source = "Official PpW YouTube" }
 3 = { path = "materac.jpg", caption = "The &quot;steel cage&quot;.", source = "Official PpW YouTube" }
 4 = { path = "quote.jpg", caption = "&quot;Only cowards hide behind masks&quot; <br> ~Johnny Blade.", source = "Official PpW YouTube" }
 +++
@@ -25,8 +25,8 @@ The exact date of the event isn't known. The videos were uploaded on 13.03 and 2
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Black Tiger](@/w/rob-scaffold.md)'
 - - '[Jim Hardy](@/w/mister-z.md)'
-  - '[Automatico](@/w/rob-scaffold.md)'
-- - '[Automatico](@/w/rob-scaffold.md)'
+  - '[Automatico](@/w/automatico.md)'
+- - '[Automatico](@/w/automatico.md)'
   - '[Jim Hardy](@/w/mister-z.md)'
 - - '[Mister Z](@/w/mister-z.md)'
   - 'Epic Angel Guerrero'

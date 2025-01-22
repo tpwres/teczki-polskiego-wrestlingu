@@ -20,8 +20,8 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 - - '[Feager](@/w/feager.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: Ropeless Match
-- - 'Automatico'
-  - '[Extreme Floorfiller](@/w/johnny-blade.md)'
+- - '[Automatico](@/w/automatico.md)'
+  - '[Extreme Floorfiller](@/w/extreme-floorfiller.md)'
   - s: 2 Out Of 3 Falls Match
     n: Automatico won the match 2:1
 - - >
@@ -39,7 +39,7 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 
 * During [Mister Z](@/w/mister-z.md) vs [Feager](@/w/feager.md) a mock fight broke out among the audience members (one of whom appears to have been [Johnny Blade](@/w/johnny-blade.md)) over a disagreement whether or not a particular moment of in-ring action was good or not. The "fight" continued throughout the match and at one point two of the participants ran across the ring while the actual match was still in progress.
 * Mister Z pinned Feager after a frog splash, but the referee forgot to count and had to be reminded by the cameraman.
-* According to an on-screen caption, the entrances of [Automatico](@/w/rob-scaffold.md) and Extreme Floorfiller were filmed on a different day than the fight itself, but no further details are given.
+* According to an on-screen caption, the entrances of [Automatico](@/w/automatico.md) and Extreme Floorfiller were filmed on a different day than the fight itself, but no further details are given.
 * After the final fight there's a "candid camera" segment shot in Sun Ju's home, showing [Jim Enerico](@/w/mister-z.md) talking to PpW owner and General Manager Sun Ju about wanting to leave PpW, but being named the GM of Hardcore Friday instead.
 * The above is followed by Jim Enerico talking to [Rob Hardy](@/w/rob-scaffold.md), also in a faux-candid camera format. The video then cuts off mid-sentence.
 
