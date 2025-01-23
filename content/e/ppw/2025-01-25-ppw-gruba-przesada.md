@@ -22,7 +22,7 @@ Gruba Przesada (roughly _Way Too Far_) is an upcoming event by [PpW Ewenement Wr
 #### Build-up
 
 * On 24.11.2024 PpW social media posted a picture of an inverted cross, identical to the one that [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) wears as a tattoo on his chest, with a date of 25.01.2025 inside it. Two days later, PpW officially confirmed that Dobroniak, last seen at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), would make a return. Dobroniak posted a comment in which he slandered [Isnorr](@/w/isnorr.md), implying a fight between the two - likely for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
-* The stipulation for the match between Stanisław Van Dobroniak and Isnorr was given to a popular vote via poll on PpW's officiall Instagram - a first in Polish pro wrestling. In a comment, Dobroniak asked fans to vote for the Bra and Panties Match. Various options were given, each referencing a video game: \
+* The stipulation for the match between Stanisław Van Dobroniak and Isnorr was given to a popular vote via poll on PpW's official Instagram - a first in Polish pro wrestling. In a comment, Dobroniak asked fans to vote for the Bra and Panties Match. Various options were given, each referencing a video game: \
 &mdash; Donky Kong Weaponmaster Match - Donky Kong mascot is going to bring in the foreign objects \
 &mdash; Trophy Hunter Deathgames - competitors will be given various tasks in real time; first to score 3 points wins \
 &mdash; Heroes 3 Soundtrack Match - soundtrack from _Heroes of Might and Magic III_ will play throughout the match (with visual effects) \
