@@ -14,4 +14,6 @@ city = "Kozłów"
 
 "Wrestlingowe Walentynki" (_Wrestling St. Vallentine's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md), set to take place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
 
+## Build-up
+*On January 22th, [Diana Strong](@/w/diana-strong.md) stated via her Instagram (Story, disappearing after 24h) that she was wrongly featured on the poster for Wrestlingowe Walentynki, as well as _Bestya Rumble_, show in Italy with strong PTW involvement. Per Diana's words, she announced her unavailability in advance. As of 23.01, neither organization corrected their poster.
 {{ skip_card() }}
