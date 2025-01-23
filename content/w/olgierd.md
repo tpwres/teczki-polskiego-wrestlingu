@@ -108,6 +108,13 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
  {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
  {{ music(apple='1509575453?i=1509575457')}}
 
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+
+  _Backyard Era Championships_:
+  - PpW YouTube Championship (1 time; inaugural)
+
 ### References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24693)
