@@ -23,7 +23,7 @@ Snake made his debut in [Polish Xtreme Wrestling](@/o/pxw.md) at [PXW Royal Rumb
 
 ### PpW Ewenement (2016)
 
-Snake made a one-off appearance in [PpW](@/o/ppw.md) in their backyard years. It was during [Backyard Total War 2016](@/e/ppw/2016-07-18-ppw-backyard-total-war.md) when he faced, and lost to Jim Enerico, an alter ego of [Mister Z](@/w/mister-z.md). Later on he also teamed up with Mister Z himself to win PPW Tag Team Championship at one of the episodes of Superlucha.
+Snake made a one-off appearance in [PpW](@/o/ppw.md) in their backyard years. It was during [Backyard Total War 2016](@/e/ppw/2016-07-18-ppw-backyard-total-war.md) when he faced, and lost to, Jim Enerico, an alter ego of [Mister Z](@/w/mister-z.md). Later on he also teamed up with Mister Z himself to win the PpW Tag Team Championship in an episode of Super Lucha.
 
 ## Championships and accomplishments 
 
@@ -33,4 +33,4 @@ Snake made a one-off appearance in [PpW](@/o/ppw.md) in their backyard years. It
 * [PpW Ewenement](@/o/ppw.md)
   
   _Backyard Era Championships_:
-  - PPW Tag Team Championship (1 time; with [Mister Z](@/w/mister-z.md))
+  - PpW Tag Team Championship (1 time; with [Mister Z](@/w/mister-z.md))
