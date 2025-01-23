@@ -10,7 +10,7 @@ country = ["PL"]
 3 = { path = "kid-z.jpg", caption = "Young Mister Z at [Neomania III](@/e/ppw/2013-07-12-ppw-neomania-iii.md).", source = "Official PpW YouTube." }
 +++
 
-Mister Z is a Polish wrestler best known for his apperances in [PpW Ewenement](@/o/ppw.md), where he is the promoter. He also made a few apperances in both [Maniac Zone Wrestling](@/o/mzw.md), and [Dream Factory Wrestling](@/o/dfw.md).
+Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), where he is the promoter. He also made a few appearances in both [Maniac Zone Wrestling](@/o/mzw.md), and [Dream Factory Wrestling](@/o/dfw.md).
 
 ## Basic info
 
@@ -18,55 +18,55 @@ Mister Z is a Polish wrestler best known for his apperances in [PpW Ewenement](@
 * Gimmicks/nicknames:
   - Mister Z {{ org_badge(orgs=['ppw', 'mzw']) }}
   - Jim Enerico {{ org_badge(orgs=['ppw']) }} (2017)
-  - Cade Bruce {{ org_badge(orgs=['dfw', 'ppw']) }} (2017; later on at non-canon shows)
+  - Cade Bruce {{ org_badge(orgs=['dfw', 'ppw']) }} (2017; later only at non-canon shows)
   - Jim Hardy {{ org_badge(orgs=['ppw']) }} (2013-2015)
   - Miłosz Z {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Scarecrow {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
   - PpW Dojo
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
- 
+
 ## Professional wrestling career
 
 ### PpW Ewenement (2010-present)
 
 #### Early backyard years
 
-Mister Z was one of the earliest members of [PpW Ewenement](@/o/ppw.md). He joined this backyard organisation back in 2010, when a group of teenage friends and classmates started emulating their favourite wrestlers. His first known match most likely took place in December 2010. From this time on Mister Z continued to make regular apperances in PpW in various roles and under numerous aliases, growing to become one of PpW most active wrestlers along with performers such as [Biesiad](@/w/biesiad.md) or [Johnny Blade](@/w/johnny-blade.md). During his backyard years he also won multiple "backyard era" championships.
+Mister Z was one of the earliest members of [PpW Ewenement](@/o/ppw.md). He joined this backyard organisation back in 2010, when a group of teenage friends and classmates started emulating their favourite wrestlers. His first known match most likely took place in December 2010. From this time on Mister Z continued to make regular appearances in PpW, in various roles and under numerous aliases, growing to become one of PpW most active wrestlers along with performers such as [Biesiad](@/w/biesiad.md) or [Johnny Blade](@/w/johnny-blade.md). During his backyard years he also won multiple "backyard era" championships.
 
 #### Going professional
 
-After nine years of doing backyard wrestling, PpW pivoted towards organising more professional shows open for public. At the first show officially open for general public - [2KOŁA To My Nie Zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md) in December 2019 - Mister Z faced [Johnny Blade](@?w/johnny-blade.md) and [an impostor of Terry Shadow's persona](@/w/rob-scaffold.md) in two separate Singles Matches for the [PpW Championship](@/c/ppw-championship.md), which he held since the backyard days. At [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md) Mister Z faced Czech wrestler Šakal in the first PpW Championship title defence against a foreginer. 
+After nine years of doing backyard wrestling, PpW pivoted towards professional wrestling, holding shows open for the general public. At the first such show - [2KOŁA To My Nie Zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md) in December 2019 - Mister Z faced [Johnny Blade](@?w/johnny-blade.md) and [Terry Shadow's impersonator](@/w/rob-scaffold.md) in two separate Singles Matches for the [PpW Championship](@/c/ppw-championship.md), which he held since the backyard days. At [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md) Mister Z faced Czech wrestler Šakal in the first PpW Championship title defence against an international wrestler.
 
 #### Various storylines
 
-In June 2021 Mister Z's title reign has ended when he was defeated by [Osamu](@/w/osamu.md) at the first show after the COVID-19 pandemic lockdown - [Ledwo Legalne I](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md). After that he was involved in numerous matches, including a pursuit to regain his PpW Championship at both [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md) and [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), but with no success. Around that time Mister Z briefly alligned himself with a manager called Ms. XXX, but after his defeat at Ledwo Legalne II she left Mister Z for [Feager](@/w/feager.md). 
+In June 2021, Mister Z's title reign ended when he was defeated by [Osamu](@/w/osamu.md) at the first post-COVID-19 lockdown - [Ledwo Legalne I](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md). Since then, he was involved in numerous matches, including a pursuit to regain his PpW Championship at both [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md) and [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), but with no success. Around that time Mister Z briefly allied himself with a female valet called Ms. XXX, but after his defeat at Ledwo Legalne II she left Mister Z for [Feager](@/w/feager.md).
 
 #### Alliance with Mandecky and "Executive Producer"
 
-When [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md) took over PpW in May 2022 after buying it from Sun Ju, Mister Z formed a good partnership with the new owner. The opportunistic Mister Z gladly accepted any offer from Mandecky to secure his high position on the card and matches with top-level wrestlers Mandecky could bring in to PpW. At [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md) Mister Z reluctantly agreed to Jerry's offer to face his old friend and the fan-favourite Johnny Blade in a Singapore Cane Match. After the match Mister Z ultimately turned full-on heel after Mandecky's enforcer, [Kapitan Bazooka](@/w/kapitan-bazooka.md), handcuffed the beaten-up Blade to the ropes to punish him for his disobedient behaviour against Mandecky. This caused Mister Z to become one of the most hated wrestlers among the fans, who started to call him "_Mister Zjeb_" (roughly "Mister Retard").
+When [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md) took over PpW in May 2022 after buying it from kayfabe owner Sun Ju, Mister Z formed a partnership with the new owner. The opportunistic Mister Z gladly accepted any offer from Mandecky to secure his high position on the card and matches with top-level wrestlers Mandecky could bring in to PpW. At [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md) Mister Z reluctantly agreed to Jerry's offer to face his old friend and fan-favourite Johnny Blade in a Singapore Cane Match. After a brutal match, Mister Z ultimately turned full-on heel after Mandecky's enforcer, [Kapitan Bazooka](@/w/kapitan-bazooka.md), handcuffed the beaten-up Blade to the ropes to punish him for his disobedient behaviour against Mandecky. This caused Mister Z to become one of the most hated wrestlers among the fans, who started to call him "_Mister Zjeb_" (roughly "Mister Retard").
 
-The alliance with Mandecky allowed Mister Z to secure his position at the top of the card as promised - at the next shows he faced foreign wrestlers such as Yuval Goldshmit and Asara. He also became the "Executive Producer" of PpW, which allowed him to cut his famous "deals". He usurped the nickname of "The Real Deal" Mister Z. At [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024 he fought in a brutal Number One Contender Match against [Ricardo Diesel](@/w/ricardo-diesel.md). Mister Z won that match which allowed him to face the reigning champion - Feager - at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) in April 2024. He failed to defeat his opponent, however, which seemingly prompted Mandecky to dispose of Mister Z using Kapitan Bazooka, but shockingly PpW's owner was attacked and abducted by his own man. Shortly afterwards Mister Z revealed that due to his contract agreement with Mandecky, Mister Z became his legal successor, meaning that the "Executive Producer" became the sole authority figure in PpW. 
+This alliance with Mandecky allowed Mister Z to secure his position at the top of the card as promised, and at the following shows he faced foreign wrestlers such as Yuval Goldshmit and Asara. He also became the "Executive Producer" of PpW, which allowed him to cut his famous "deals". He assumed the nickname of "The Real Deal" Mister Z. At [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024, he fought in a brutal Number One Contender Match against [Ricardo Diesel](@/w/ricardo-diesel.md). Mister Z won that match which allowed him to face the reigning champion, Feager at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) in April 2024. He failed to defeat his opponent, however. This seemingly prompted Mandecky to betray and dispose of Mister Z using Kapitan Bazooka, but shockingly PpW's owner was attacked and abducted by his own man. Shortly afterwards, Mister Z revealed that due to his contract agreement with Mandecky, Mister Z became his legal successor, meaning that the "Executive Producer" became the sole authority figure in PpW.
 
-Mister Z is credited for "Prime Time Transfers": the transfer of numerous wrestlers who [left PTW](@/a/ptw-exits.md) in 2023 and 2024. He brought in talent such as [Rafi](@/w/rafi.md), [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md) and many others.
+Mister Z is credited for "Prime Time Transfers": when numerous wrestlers who [left PTW](@/a/ptw-exits.md) in 2023 and 2024 joined PpW. He brought in talent such as [Rafi](@/w/rafi.md), [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md) and many others.
 
 #### Creating "Zmowa"
 
-While Mandecky was still the owner of PpW, Mister Z began to slowly build himself a new entourage as the executive producer. In late 2023 and early 2024 he approached talent such as [Gustav Gryffin](@/w/gustav-gryffin.md) and his personal trainer [Jakub Linde](@/w/jakub-linde.md), as well as Rafi and [Isnorr](@/w/isnorr.md), to convince them into joining his alliance in a simillar fashion Mandecky approached him almost two years prior. 
+While Mandecky was still the owner of PpW, Mister Z began to slowly build himself a new entourage as the executive producer. In late 2023 and early 2024 he approached talent such as [Gustav Gryffin](@/w/gustav-gryffin.md) and his personal trainer [Jakub Linde](@/w/jakub-linde.md), as well as Rafi and [Isnorr](@/w/isnorr.md), to persuade them into joining his alliance in a similar fashion to when Mandecky approached him almost two years prior.
 
-At [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Mister Z set himself up against Biesiad and the ruling champion Feager in a Triple Threat Match for the PpW Championship. When Biesiad won the match, "The Real Deal" immediately called up his protégé and the new #1 Contender Gustav Gryffin, who managed to defeat Biesiad. After the match, in a post-show interview, Biesiad called this new stable under the leadership of Mister Z "[Zmowa](@/a/the-collusion.md)" (the Collusion). This name quickly became official, as Zmowa expanded after new Prime Time Transfers - Legia Łysych - joined both PpW and Zmowa. 
+At [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Mister Z set himself up against Biesiad and the reigning champion Feager in a Triple Threat Match for the PpW Championship. When Biesiad won the match, "The Real Deal" immediately called up his protégé and the new #1 Contender Gustav Gryffin, who managed to defeat Biesiad. After the match, in a post-show interview, Biesiad called this new stable under the leadership of Mister Z "[Zmowa](@/a/the-collusion.md)" (the Collusion). This name quickly became official, as Zmowa took on two new members from the Prime Time Transfers, when Legia Łysych, debuting as heels, joined both PpW and Zmowa.
 
-Conflict between Zmowa and numerous babyfaces, such as Biesiad, [Goblin](@/w/goblin.md), Samson and Pure Gold, grew over most part of 2024, during which Mister Z got involved in a rivalry with [Axel Fox](@/w/axel-fox.md) in his debut match, when Mister Z distracted the Polish Fox during his tag team match against Legia Łysych. The rivalry between Zmowa and so-called "Zmowa Przeciwko Zmowie" (_A Collution Against the Collusion_) under Biesiad's leadership led to the Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), during which Mister Z called up on yet another Prime Time Transfer: [Wiktor Longman](@/w/wiktor-longman.md). Despite their efforts, Zmowa ultimately lost to the "Zmowa Przeciwko Zmowie" which weakened them considerably, but Mister Z managed to keep the core of Zmowa intact. 
+Conflict between Zmowa and numerous babyfaces, such as Biesiad, [Goblin](@/w/goblin.md), Samson and Pure Gold, grew over most part of 2024, during which Mister Z got involved in a rivalry with [Axel Fox](@/w/axel-fox.md). Fox lost his debut match against Legia Łysych, due to intereference from Mister Z. The feud between Zmowa and so-called "Zmowa Przeciwko Zmowie" (_A Collution Against the Collusion_) under Biesiad's leadership led to the Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), during which Mister Z called up on yet another Prime Time Transfer: [Wiktor Longman](@/w/wiktor-longman.md). Despite their efforts, Zmowa ultimately lost to the allied babyfaces, which weakened them considerably, but Mister Z managed to keep the core of Zmowa intact.
 
 #### Feud with Axel Fox
 
-At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Mister Z faced Axel Fox in a Christmas Street Fight. While Axel Fox was eager to get his revagne on PpW's producer for constant backstabbing attacks and avoiding direct confrontation, he was unable to defeat "The Real Deal" due to an intervention by [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md), and their assault on Axel's tag team partner, Goblin.
+At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Mister Z faced Axel Fox in a Christmas Street Fight. While Fox was eager to get his revenge on PpW's producer for constant backstabbing attacks and avoiding direct confrontation, he was unable to defeat "The Real Deal" due to an intervention by [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md), and their assault on Axel's tag team partner, Goblin.
 
-At the next show - [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) - Mister Z offered Axel a chance to change his fate in PpW and join Mister Z to achieve success, instead of alligning himself with "losers", such as Goblin.
+At the next show - [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) - Mister Z offered Axel a chance to change his fate in PpW and join Mister Z to achieve success, instead of allying himself with "losers", such as Goblin.
 
 ### Dream Factory Wrestling (2017)
 
-In September and December 2017 Mister Z - under his "Cade Bruce" alias - made apperances at two shows organised by [Dream Factory Wrestling](@/o/dfw.md). He lost to [Prince Victor](@/w/vic-golden.md) and in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). He also lost to [Corin Mear](@/w/corin-mear.md) at [DFW Dream More And Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md).
+In September and December 2017 Mister Z - under his "Cade Bruce" alias - made appearances at two shows organised by [Dream Factory Wrestling](@/o/dfw.md). He lost to [Prince Victor](@/w/vic-golden.md) and in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). He also lost to [Corin Mear](@/w/corin-mear.md) at [DFW Dream More And Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md).
 
 ### Maniac Zone Wrestling (2023)
 
@@ -116,4 +116,3 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
   - PPW Light Heavyweight Championship (1 time)
   - PPW Heavyweight Championship (1 time)
   - PPW Tag Team Championship (1 time; with [Snake](@/w/snake.md))
-  
