@@ -19,7 +19,7 @@ Originally, Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and
 - - '[Filip Fux](@/w/filip-fux.md)'
   - '[Chemik](@/w/chemik.md)'
 - - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - 'Piotr Opolski'
+  - '[Piotr Opolski](@/w/piotr-opolski.md)'
 - - '[Zefir](@/w/zefir.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
 - - '[Greg](@/w/greg.md)'
@@ -46,6 +46,7 @@ Originally, Austrian wrestler Martn Pain was set to face [Greg](@/w/greg.md) and
 * With the ref distracted, Greg put on his signet ring, and punched Darius to win.
 * Freyhart scored the first pinfall. David's victory was interrupted by the Gregorian Branch. Greg, waving a soft penis-shaped candy from his crotch, attempted to "feed" it to David, held down by Rosetti. The Fux Brothers and Zefir interfered to help David and Fynn.
 * This event marked the last appearance of Piotr Opolski, who sustained an injury shortly thereafter.
+* Piotr Opolski was injured in his fight against Lesak and made no appearances of any kind until [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) in January 2025.
 
 ### References
 

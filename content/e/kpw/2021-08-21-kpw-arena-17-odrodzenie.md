@@ -24,7 +24,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
 - - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Ricky Sky](@/w/ricky-sky.md)'
 - - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
-  - '[Eryk Lesak](@/w/eryk-lesak.md), Piotr Opolski'
+  - '[Eryk Lesak](@/w/eryk-lesak.md), [Piotr Opolski](@/w/piotr-opolski.md)'
   - s: Tag Team Match
 - - '[Greg](@/w/greg.md)'
   - 'Crowchester'

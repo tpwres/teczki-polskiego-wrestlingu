@@ -33,7 +33,7 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
   - s: Two On One Handicap Match
     r: Count Out
 - - '[Chemik](@/w/chemik.md)'
-  - 'Piotr Opolski'
+  - '[Piotr Opolski](@/w/piotr-opolski.md)'
 - - '[David Oliwa](@/w/david-oliwa.md)(c)'
   - Gianni Valletta
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
