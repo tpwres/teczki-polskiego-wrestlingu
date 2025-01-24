@@ -14,7 +14,7 @@ Polowanie (_The Hunt_) was the 16th Arena event, held by KPW on February 1st 202
 
 It was also KPW's last event for more than 18 months, because of the COVID-19 pandemic. Severe, country-wide restrictions were implemented from March 2020 onwards. During that time, KPW's future was very uncertain.
 
-We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this time was Austrian wrestler Martn Pain.
+We saw one debuting wrestler: [Piotr "Opol" Opolski](@/w/piotr-opolski.md). Another foreign guest this time was Austrian wrestler Martn Pain.
 
 #### Build-up
 
@@ -35,7 +35,7 @@ We saw one debuting wrestler: Piotr "Opol" Opolski. Another foreign guest this t
   - 'Martn Pain'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Greg](@/w/greg.md)'
-  - 'Piotr Opolski'
+  - '[Piotr Opolski](@/w/piotr-opolski.md)'
 - - 'The Hunt: [Primate](@/w/primate.md), [Wild Boar](@/w/wild-boar.md)'
   - '[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'

@@ -194,6 +194,10 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Triple Threat Match
     en: '[Legacy of Wrestling](@/e/low/2024-12-01-low-1.md)'
     ed: 2024-12-01
+- - '[Chemik](@/w/chemik.md)'
+  - 'Michael Schenkenberg'
+    en: '[KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md)'
+    ed: 2025-01-24
 {% end %}
 
 ## References
