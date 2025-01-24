@@ -196,6 +196,7 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
     ed: 2024-12-01
 - - '[Chemik](@/w/chemik.md)'
   - 'Michael Schenkenberg'
+  - s: Singles match
     en: '[KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md)'
     ed: 2025-01-24
 {% end %}
