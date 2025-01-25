@@ -54,12 +54,12 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 - credits:
     Referee: ''
     Ring announcer: '[Michael HT](@/w/michael-ht.md)'
-    Commentary: 'Antek'
+    Commentary: 'Antek Istociarz'
 {% end %}
 
 #### Recap
 
-* This was the first show to be streamed live on the new PpW VOD.
+* This was the first show to be streamed live on the new [PpW VOD][ppw-vod].
 * The commentary was provided by Antek from the Istota Wrestlingu podcast.
 
 ### References
