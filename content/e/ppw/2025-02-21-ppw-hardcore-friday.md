@@ -1,5 +1,5 @@
 +++
-title = "PpW Hardcore Friday: xxx"
+title = "PpW Hardcore Friday"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
