@@ -46,7 +46,8 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - '[Aron Wake](@/w/aron-wake.md)'
   - '[Bill Feager](@/w/feager.md)'
   - s: Gauntlet Survivor Challenge
-
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md); Agentka Agatka'
 
 
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -58,11 +59,9 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - s: 'Donky Kong Weaponmaster Match'
     n: 'Stipulation selected by fans on social media'
 
-- - '[Vic Golden](@/w/vic-golden.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
 
 - credits:
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Guest Ring Announcer: '[Joker](@/w/joker.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Commentary: '[Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
@@ -79,7 +78,6 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02anoMmnN9g8ziEqr7t1jXhipXyGJzCvY3aHfZRyWHvsDfscrBkNh3i8SFXZPWMVMRl)
 * [Facebook post announcing the stipulation poll for Dobroniak vs Isnorr](https://www.facebook.com/photo/?fbid=1114549990675392&set=a.499910772139320)
 * [Facebook post announcing poll results](https://www.facebook.com/OficjalnePPW/posts/pfbid02LJth2szqUbP67RwvSKCARjpKQJPmkyxdVYAadC9aaLPGrwmjTjf7aeGAdGKScmjql)
-* [Full show on PpW VOD]() (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=7BqcLexnnFI)
 * [Goblin's reel on Olgierd](https://www.facebook.com/reel/8908777399206097)
 * [Instagram reel - Mister Z and Gustav Gryffin recap 2024](https://www.instagram.com/reel/DEXqo47K6Is/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
