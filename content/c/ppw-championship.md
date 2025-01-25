@@ -213,12 +213,14 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles match
     en: '[Legacy of Wrestling](@/e/low/2024-12-01-low-1.md)'
     ed: 2024-12-01
+
+
+
 - - 'Gustav Gryffin (c)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Singles match
     en: '[Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)'
     ed: 2025-01-25
-    nc: Upcoming
 {% end %}
 
 ## References
