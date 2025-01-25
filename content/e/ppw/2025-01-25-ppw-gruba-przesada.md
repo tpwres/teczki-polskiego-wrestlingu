@@ -48,6 +48,14 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - s: Gauntlet Survivor Challenge
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md); Agentka Agatka'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - g: 'Z coaxes Fox to join Zmowa; Fox politely declines.'
+- - '[Axel Fox](@/w/axel-fox.md), The Hardcores: [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)'
+  - 'Zmowa: [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+
 
 
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -66,7 +74,7 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
     Guest Ring Announcer: '[Joker](@/w/joker.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Commentary: '[Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
-    Commentary: '[Joker](@/w/joker.md), Istociarz'
+    Commentary: '[Joker](@/w/joker.md), Antek Istociarz'
 {% end %}
 
 #### Recap
