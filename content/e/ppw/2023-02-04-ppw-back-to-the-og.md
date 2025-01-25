@@ -8,7 +8,11 @@ venue=["2kola"]
 city = "Warszawa"
 [extra.gallery.1]
 path = "2023-02-04-ppw-back-to-the-og-plakat.jpg"
-caption = "Official poster, showing a scene from [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md), with [Rob Scaffold](@/w/rob-scaffold.md) and Biesiad perched on turnbuckles, ready to jump onto tables laid out with [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md)."
+caption = "Official banner, showing a scene from [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md), with [Rob Scaffold](@/w/rob-scaffold.md) and Biesiad perched on turnbuckles, ready to jump onto tables laid out with [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md)."
+source = "Official PpW Facebook"
+[extra.gallery.2]
+path = "2023-02-04-ppw-back-to-the-og-plakat-blade.jpg"
+caption = "Official poster, depicting [Johnny Blade](@/w/johnny-blade.md)."
 source = "Official PpW Facebook"
 +++
 
