@@ -59,7 +59,7 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 
 #### Recap
 
-* This was the first show to be streamed live on the new [PpW VOD][ppw-vod].
+* This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
 * The commentary was provided by Antek from the Istota Wrestlingu podcast.
 
 ### References
