@@ -55,6 +55,11 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - g: 'Z coaxes Fox to join Zmowa; Fox politely declines.'
 - - '[Axel Fox](@/w/axel-fox.md), [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)'
   - 'Zmowa: [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+- - '[Isnorr](@/w/isnorr.md)(c)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - s: 'Donky Kong Weaponmaster Match'
+    c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+    n: 'Stipulation selected by fans on social media'
 
 
 
@@ -63,10 +68,6 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - c: '[PpW Championship](@/c/ppw-championship.md)'
 
 
-- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[Isnorr](@/w/isnorr.md)'
-  - s: 'Donky Kong Weaponmaster Match'
-    n: 'Stipulation selected by fans on social media'
 
 
 - credits:
@@ -82,8 +83,9 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 * This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
 * The commentary was provided by Antek from the Istota Wrestlingu podcast.
 * Before the break in the show, [Michael HT](@/w/michael-ht.md) auctioned off the old ropes from PpW's ring.
-* During the break, Vic Golden came out to the ring to take pictures with the fans.
-* 
+* During the break, Vic Golden came out to the ring to take pictures with the fans. Backstage, Joker interviewed the wrestlers.
+* The weapons introduced by Donky Kong were, in this order: a banana, a piece of rope, a banana on the plate from the [DFW Championship](@/c/dfw-championship.md), several bananas taped to a steel chair, a banana taped to a mannequin, multiple bananas taped to a table, 
+* Isnorr slipped on a banana. A while later, he introduced a banana to Dobroniak's posterior.
 
 ### References
 
