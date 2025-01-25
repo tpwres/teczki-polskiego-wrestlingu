@@ -6,7 +6,6 @@ chronology = ["ppw"]
 venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
-hide_results = true
 [extra.gallery.1]
 path = "2025-01-25-ppw-gruba-przesada-plakat.jpg"
 caption = "Official poster."
@@ -34,36 +33,41 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 * On 21.01.2025, PpW posted Isnorr's reaction to fans' choice of stipulation. Playing _Gothic 3_ on his computer, in a room decorated with _Gothic_ series memorabilia, he expressed his disappointment with the fans not choosing the _Gothic_-related stipulation for his match against Dobroniak. He remembers and regrets his time as Dobroniak's trainee, tearing down his career as mostly winning against "backyard guys" (_podwórkowcy_), his trademark insult. He calls Dobroniak the "biggest backyard guy of them all". Responding to a threat of having a banana shoved up his rectum, he promises to wrap a banana in barbed wire and shove it in Dobroniak's mouth.
 * On 22.01.2025, Mister Z posted yet another video. Sitting in his office, he makes a phone call asking an unknown interlocutor (presumably someone from the PpW crew) to relay a message that both [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) will not be making an apperance at Gruba Przesada. This comes after a few days of Biesiad Strong teasing through Instagram "notes" that his match would be announced soon. In reaction to the ban, Biesiad posted a short Instagram story where he called Mister Z a boy trying to play [Jerry Mandecky's](@/w/jerry-mandecky.md) role, among other insults. He promised to appear on the show nevertheless and destroy Mister Z.
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Sambor](@/w/sambor.md)'
   - 'Wonder Haze'
   - '_rookie_ Bartek'
   - 'Sentinel'
   - s: Pre-show
-    nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: 'Donky Kong Weaponmaster Match'
     n: 'Stipulation selected by fans on social media'
-    nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '???'
   - s: Gauntlet Survivor Challenge
-    nc: upcoming
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - nc: upcoming
+- credits:
+    Referee: ''
+    Ring announcer: '[Michael HT](@/w/michael-ht.md)'
+    Commentary: 'Antek'
 {% end %}
+
+#### Recap
+
+* This was the first show to be streamed live on the new PpW VOD.
+* The commentary was provided by Antek from the Istota Wrestlingu podcast.
 
 ### References
 
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02anoMmnN9g8ziEqr7t1jXhipXyGJzCvY3aHfZRyWHvsDfscrBkNh3i8SFXZPWMVMRl)
 * [Facebook post announcing the stipulation poll for Dobroniak vs Isnorr](https://www.facebook.com/photo/?fbid=1114549990675392&set=a.499910772139320)
 * [Facebook post announcing poll results](https://www.facebook.com/OficjalnePPW/posts/pfbid02LJth2szqUbP67RwvSKCARjpKQJPmkyxdVYAadC9aaLPGrwmjTjf7aeGAdGKScmjql)
+* [Full show on PpW VOD]() (requires paid subscription)
 * [Goblin's reel on Olgierd](https://www.facebook.com/reel/8908777399206097)
 * [Instagram reel - Mister Z and Gustav Gryffin recap 2024](https://www.instagram.com/reel/DEXqo47K6Is/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * [Facebook post - Fox's decision](https://www.facebook.com/share/p/15TDKLcbE6/)
@@ -73,3 +77,4 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [monar]: https://en.wikipedia.org/wiki/Monar
+[ppw-vod]: https://ppw-ewenementpl.vhx.tv/
