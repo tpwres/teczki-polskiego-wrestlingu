@@ -60,16 +60,11 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - s: 'Donky Kong Weaponmaster Match'
     c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
     n: 'Stipulation selected by fans on social media'
-
-
-
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
-  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md); [Vic Golden](@/w/vic-golden.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-
-
-
-
+    r: Time-Out
+    n: 15 minute time limit
 - credits:
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Guest Ring Announcer: '[Joker](@/w/joker.md)'
@@ -86,6 +81,8 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 * During the break, Vic Golden came out to the ring to take pictures with the fans. Backstage, Joker interviewed the wrestlers.
 * The weapons introduced by Donky Kong were, in this order: a banana, a piece of rope, a banana on the plate from the [DFW Championship](@/c/dfw-championship.md), several bananas taped to a steel chair, a banana taped to a mannequin, multiple bananas taped to a table, 
 * Isnorr slipped on a banana. A while later, he introduced a banana to Dobroniak's posterior.
+* Gustav Gryffin tried to steal a fan's beer; the fan wouldn't have it and instead splashed the beer on Gryffin.
+* Around three minutes before the end of the main event, [Referee Seweryn](@/w/sedzia-seweryn.md) was knocked out. The referee regained consciousness enough to count Gabriel's pin, but due to him being still dazed after the hit to the head, Seweryn was slow to count. In effect the time ran out a single second before the ref counted to three.
 
 ### References
 
