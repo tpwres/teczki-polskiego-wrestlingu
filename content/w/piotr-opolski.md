@@ -10,7 +10,7 @@ country = ["PL"]
 
 Piotr "Opol" Opolski is a semi-retired Polish wrestler from [Kombat Pro Wrestling](@/o/kpw.md).
 
-Along with [Eryk Lesak](@/w/eryk-lesak.md) he was one of the finalists of KPW's 2019 internal competition "Serce do walki" (_Heart for combat_). After his debut in a singles match at [Arena 16](@/w/2020-02-01-kpw-arena-16-polowanie.md), he briefly teamed up with Lesak at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), only to return to singles matches afterwards. His carees was cut short at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md), however, when he sustained an injury that forced him to give up wrestling. For 2.5 years he wasn't seen at KPW in any capacity, until he made a surprise return at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), where he took over the ring announcing duty from [Kinga Miotke](@/w/kinga-miotke.md).
+Along with [Eryk Lesak](@/w/eryk-lesak.md) he was one of the finalists of KPW's 2019 internal competition "Serce do walki" (_Heart for combat_). After his debut in a singles match at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md), he briefly teamed up with Lesak at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), only to return to singles matches afterwards. His carees was cut short at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md), however, when he sustained an injury that forced him to give up wrestling. For 2.5 years he wasn't seen at KPW in any capacity, until he made a surprise return at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), where he took over the ring announcing duty from [Kinga Miotke](@/w/kinga-miotke.md).
 
 ## In wrestling
 
