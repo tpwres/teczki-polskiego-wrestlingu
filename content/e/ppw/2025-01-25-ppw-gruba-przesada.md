@@ -53,7 +53,7 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - g: 'Z coaxes Fox to join Zmowa; Fox politely declines.'
-- - '[Axel Fox](@/w/axel-fox.md), The Hardcores: [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)'
+- - '[Axel Fox](@/w/axel-fox.md), [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)'
   - 'Zmowa: [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
 
 
