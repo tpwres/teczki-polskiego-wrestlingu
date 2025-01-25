@@ -41,22 +41,32 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - 'Atilia'
   - s: Fatal Five-Way Match
     n: Pre-show
+- - '[Goblin](@/w/goblin.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Bill Feager](@/w/feager.md)'
+  - s: Gauntlet Survivor Challenge
+
+
+
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
+
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: 'Donky Kong Weaponmaster Match'
     n: 'Stipulation selected by fans on social media'
-- - '[Goblin](@/w/goblin.md)'
-  - '???'
-  - s: Gauntlet Survivor Challenge
+
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+
 - credits:
-    Referee: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
-    Ring announcer: '[Joker](@/w/joker.md)'
-    Commentary: '[Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), Antek Istociarz.'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Guest Ring Announcer: '[Joker](@/w/joker.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Guest Commentary: '[Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
+    Commentary: '[Joker](@/w/joker.md), Antek Istociarz'
 {% end %}
 
 #### Recap
