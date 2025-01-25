@@ -81,6 +81,9 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
 
 * This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
 * The commentary was provided by Antek from the Istota Wrestlingu podcast.
+* Before the break in the show, [Michael HT](@/w/michael-ht.md) auctioned off the old ropes from PpW's ring.
+* During the break, Vic Golden came out to the ring to take pictures with the fans.
+* 
 
 ### References
 
