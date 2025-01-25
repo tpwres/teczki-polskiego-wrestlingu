@@ -54,6 +54,7 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
 
+
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: 'Donky Kong Weaponmaster Match'
@@ -65,7 +66,7 @@ Eventually "Donky Kong Weaponmaster Match" won - in this type of match, a Donky 
     Guest Ring Announcer: '[Joker](@/w/joker.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Commentary: '[Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
-    Commentary: '[Joker](@/w/joker.md), Antek Istociarz'
+    Commentary: '[Joker](@/w/joker.md), Istociarz'
 {% end %}
 
 #### Recap
