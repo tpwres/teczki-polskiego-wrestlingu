@@ -20,8 +20,8 @@ template = "index.html"
 | 2023- | {{ org_badge(org='ptw') }} [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) |
 | 2024- | {{ org_badge(org='ptw') }} [PTW Championship](@/c/ptw-championship.md) |
 | 2024- | {{ org_badge(org='ptw') }} [PTW Intergender Championship](@/c/ptw-intergender-championship.md) |
-| 2025- | {{ org_badge(org='ptw') }} [PTW Women's Championship](@/c/ptw-womens-championship.md) |
 | 2025- | {{ org_badge(org='ptw') }} [PTW Underground Championship](@/c/ptw-underground-championship.md) |
+| 2025- | {{ org_badge(org='ptw') }} [PTW Women's Championship](@/c/ptw-womens-championship.md) |
 
 ## Retired
 
