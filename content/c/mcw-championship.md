@@ -6,7 +6,8 @@ authors = ["M3n747"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "mcw-championship.jpg", caption = '[RAV](@/w/rav.md) with the Championship at the 2022 [MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show.md).', source = "Official MCW YouTube" }
+1 = { path = "mcw-championship-full.jpg", caption = "Full view of the Championship.", source = "Dawid Kucharski, MyWrestling.com.pl" }
+2 = { path = "mcw-championship.jpg", caption = '[RAV](@/w/rav.md) with the Championship at the 2022 [MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show.md).', source = "Official MCW YouTube" }
 +++
 
 MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW starting years earlier, the belt was only introduced in late 2019 due lack of funds and personal difficulties, as well as the promotion's wish to have the best-looking title possible.
