@@ -99,6 +99,5 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - '[Max Speed](@/w/max-speed.md)'
   - s: Singles Match
     en: '[PTW Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
-    ed: 20245-01-11
-    nc: upcoming
+    ed: 2025-01-11
 {% end %}
