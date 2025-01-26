@@ -14,7 +14,7 @@ source = "kpwrestling.pl / Official KPW Facebook"
 +++
 
 Zagrożenie Lawinowe (_Avalanche Warning_) was an event by [KPW](@/o/kpw.md), held in [Klub Nowy Harem](@/v/atlantic-nh-gdynia.md) in Gdynia, on February 16, 2023.
-The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" Dreissker, who is set to appear on the show. Besides Dreissker, and KPW regular [Darius](@/w/darius.md), the event featured one new foreign guest: British wrestler Tommy Kyle.
+The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" Dreissker, who appeared at the show. Besides Dreissker, and KPW regular [Darius](@/w/darius.md), the event featured one new foreign guest: British wrestler Tommy Kyle.
 
 #### Storylines
 
