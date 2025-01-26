@@ -58,7 +58,7 @@ After DFW's closure the belt remained in possession of the final champion - [Nor
   - s: Singles match
     en: '[DFW Love Hurts, Wrestling Even More](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md)'
     ed: 2017-02-14
-- - '[Ravage](@/w/rafael-kid.md)'
+- - '[Revage](@/w/rafael-kid.md)'
   - 'Chris Hunter(c)'
   - s: Singles match
     en: '[DFW Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md)'
@@ -67,7 +67,7 @@ After DFW's closure the belt remained in possession of the final champion - [Nor
   
 **TOTAL:** 246 days.
 
-### Champion #2: Ravage
+### Champion #2: Revage
 
 {% free_card() %}
 - - '[Revage](@/w/rafael-kid.md)'
