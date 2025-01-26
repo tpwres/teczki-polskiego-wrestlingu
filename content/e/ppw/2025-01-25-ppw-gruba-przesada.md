@@ -1,6 +1,7 @@
 +++
 title = "PpW Gruba Przesada"
 template = "event_page.html"
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["teatr-komuna"]
@@ -22,8 +23,8 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 
 ## Build-up
 
-* On 24.11.2024 PpW social media posted a picture of an inverted cross, identical to the one that [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) wears as a tattoo on his chest, with a date of 25.01.2025 inside.
-  Two days later, PpW officially confirmed that Dobroniak, last seen at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), would make a return.
+* On 24.11.2024 PpW social media posted a picture of an inverted cross, identical to the one that [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) wears as a tattoo on his chest, with a date of 25.01.2025 inside.
+  Two days later PpW officially confirmed that Dobroniak, last seen at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), would make a return.
   Dobroniak posted a comment in which he slandered [Isnorr](@/w/isnorr.md), implying a fight between the two - likely for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
 * The stipulation for the match between Stanisław Van Dobroniak and Isnorr was given to a popular vote via poll on PpW's official Instagram - a first in Polish pro wrestling.
   In a comment, Dobroniak asked fans to vote for the Bra and Panties Match. Various options were given, each referencing a video game:
@@ -97,13 +98,13 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 * At one point in Oskar vs Vic, Oskar's valet Agentka Agata distracted Vic with a long kiss on the lips.
 * Before the break in the show, [Michael HT](@/w/michael-ht.md) auctioned off the old ropes from PpW's ring.
 * During the break, Vic Golden came out to the ring to take pictures with the fans. Backstage, Joker interviewed the wrestlers.
-* Donky Kong, the weaponmaster for Dobroniak vs Isnorr, was an unknown performer in a black monkey suit, and had his own entrance to Gloria Estefan's [Conga][conga]. This theme also played whenever Donky Kong came out to hand out new weapons, which were strongly banana-themed. These were, in order of appearance:
-  1. a banana, which Dobroniak forced into Isnorr's mouth
-  2. a piece of rope, which Isnorr used to choke out his opponent
-  3. a banana on a metal plate, which turned out to be the [DFW Championship](@/c/dfw-championship.md) front plate. Fans briefly chanted for [DFW](@/o/dfw.md).
-  4. several bananas taped to a steel chair,
-  5. a banana taped to Albert, the mannequin
-  6. multiple bananas taped to a table,
+* Donky Kong, the weaponmaster for Dobroniak vs Isnorr, was an unknown performer in a black monkey suit, and had his own entrance to Gloria Estefan's [Conga][conga]. This theme also played whenever Donky Kong came out to hand out new weapons, which were strongly banana-themed. These were, in the order of appearance:
+  1. A banana, which Dobroniak forced into Isnorr's mouth.
+  2. A piece of rope, which Isnorr used to choke out his opponent.
+  3. A banana on a metal plate, which turned out to be the [DFW Championship](@/c/dfw-championship.md) front plate. Fans briefly chanted for [DFW](@/o/dfw.md).
+  4. Several bananas taped to a steel chair.
+  5. A banana taped to Albert, the mannequin.
+  6. Multiple bananas taped to a table.
 * At one moment, Isnorr slipped on a banana peel thrown into the ring from the audience. A while later, he introduced a banana to Dobroniak's posterior.
 * During his entrance promo, Gustav Gryffin told Gabriel Queen that he values his time, and introduced a timer of 15 minutes for their match, shown counting down on the titantron display.
 * At one point, Gustav tried to steal a fan's beer; the fan wouldn't have it and instead splashed the beer on Gryffin.
