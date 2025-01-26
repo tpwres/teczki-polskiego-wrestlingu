@@ -1,5 +1,5 @@
 +++
-title = "PpW Hardcore Friday"
+title = "PpW Hardcore Friday 21.000"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw"]
@@ -16,7 +16,9 @@ hide_results = true
   - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - nc: upcoming
 - - '[Olgierd](@/w/olgierd.md)'
-  - '???'
-  - s: Gauntlet Match
+  - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+  - '[Sędzia Kornel](@/w/sedzia-kornel.md)'
+  - '[Sędzia Karol Górski](@/w/madman-charlie.md)'
+  - s: Referees Gauntlet Match
     nc: upcoming
 {% end %}
