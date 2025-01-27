@@ -20,10 +20,15 @@ def main():
     flags = json.load(Path('const/flags-by-code.json').open())
     emojis = yaml.safe_load(Path('const/emojis.yaml').open())
     alias_map = json.load(Path('data/aliases.json').open())
+    extra_aliases = load_extra_aliases()
 
     lookup_flag = lambda name_or_page: lookup_flag_or_emoji(name_or_page, name_to_flag, flags, emojis)
 
     every_talent_name = set(careers.keys()) | set(alias_map.keys())
+    # Now, remove all names that are present in the extra_aliases map, as main or alias names
+    for main_name, aliases in extra_aliases.items():
+        every_talent_name.discard(main_name)
+        every_talent_name -= aliases
 
     all_names = set()
     sort_key = lambda text: unidecode(make_sort_key(text))
@@ -31,16 +36,41 @@ def main():
         path = alias_map.get(name)
 
         if path:
+            # This is a name that has an article
             talent_page = TalentPage(content_path / path, verbose=False)
             other_names = [alias for alias, talent_path in alias_map.items() if talent_path == path and alias != name]
             all_names |= set(load_talent(talent_page, path, lookup_flag, make_key=sort_key, other_names=other_names))
         else:
+            # No entries in the unlinked aliases list
             all_names.add(unlinked_entry(name, lookup_flag, make_key=sort_key))
+
+    for main_name, aliases in extra_aliases.items():
+        if aliases:
+            # A name that doesn't have an article, but multiple names which we want to consolidate
+            all_names.add(unlinked_entry(main_name, lookup_flag, make_key=sort_key))
+            for alias in aliases:
+                all_names.add(unlinked_alias(main_name, alias, lookup_flag, make_key=sort_key))
 
     out = list(all_names)
     out.sort(key=lambda record: record.sort_key)
 
     save_as_json(out, Path('data/all_time_roster.json'))
+
+def load_extra_aliases():
+    alias_map = yaml.safe_load(Path('const/aliases.yaml').open())
+
+    def make_set(name_or_list):
+        match name_or_list:
+            case [*entries]:
+                return frozenset(entries)
+            case str(single_name):
+                return frozenset([single_name])
+            case _:
+                raise RuntimeError(f"Invalid alias entry {name_or_list}")
+
+    return {main_name: make_set(aliases)
+            for main_name, aliases in alias_map.items()}
+
 
 def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn, make_key: MakeKeyFn, other_names: Iterable[str]) -> Iterable[ATRecord]:
     fm = talent_page.front_matter
@@ -56,6 +86,10 @@ def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn, m
 def unlinked_entry(name, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> ATRecord:
     country, flag = lookup_flag(name)
     return ATRecord(make_key(name), name, 'U', None, country, flag)
+
+def unlinked_alias(main_name, alias, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> ATRecord:
+    country, flag = lookup_flag(main_name)
+    return ATRecord(make_key(alias), alias, 'Y', main_name, country, flag)
 
 def lookup_flag_or_emoji(name_or_page, names_dict, flags_list, emojis) -> tuple[str, str]:
     match name_or_page:
