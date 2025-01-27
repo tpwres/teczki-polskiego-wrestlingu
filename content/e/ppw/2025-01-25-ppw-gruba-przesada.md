@@ -52,7 +52,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
   - 'Sentinel'
   - '_rookie_ Bartosz'
   - 'Wonder Haze'
-  - 'Attila'
+  - 'Atillaa'
   - s: Fatal Five-Way Match
     n:
       - Pre-show match.
@@ -93,12 +93,15 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 #### Recap
 
 * This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
-* The commentary was provided by Antek from the [Istota Wrestlingu][istota] podcast.
+* The commentary was provided by Joker, joined by Antek from the [Istota Wrestlingu][istota] podcast, under the name _Istociarz_.
 * Joker opened the show, and announced the pre-show match, before handing the mic over to Michael HT.
-* At one point in Oskar vs Vic, Oskar's valet Agentka Agata distracted Vic with a long kiss on the lips.
+* At the pre-show, _rookie_ Bartosz made his full PpW debut. Previously he'd made a handful of apperances at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), but these were considered non-canon. He used a soundtrack piece from _Yakuza 0_ as his entrance theme.
+* Goblin's gauntlet challenge saw two fairly competitive matches against Marcelito and Aron Wake. During Feager's entrance, unusally long even for his standards, Goblin took a seat in a fishing chair in the ring and started reading a fishing magazine, gradually ripping pages out and handing them off to the audience. The match itself lasted mere seconds, with Goblin spitting green mist in Feager's face and rolling him up for a three-count.
+* At one point in Oskar vs Vic, Oskar's valet Agentka Agata distracted Vic with a long kiss on the lips. The match saw many physcial interferences from her, a deviation from her usually standing on the entrance with a glass of unknown beverage (presumably alcoholic). Eventually, Vic got fed up with Agatka's antics, chased her around ringside into the ring and set her up for a _Killswitch_ finishing move - only to have the attempt thwarted by Oskar Alexander's big boot.
 * Before the break in the show, [Michael HT](@/w/michael-ht.md) auctioned off the old ropes from PpW's ring.
 * During the break, Vic Golden came out to the ring to take pictures with the fans. Backstage, Joker interviewed the wrestlers.
-* Before his match, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) called for [Johnny Blade](@/w/johnny-blade.md) to face him for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) - only to be taken aback by the news that the title now belongs to [Isnorr](@/w/isnorr.md).
+* Before his match, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) cut his typical rambling promo, but this time in a babyface style. He called for [Johnny Blade](@/w/johnny-blade.md) to face him for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), only to be taken aback by the news that the title now belongs to [Isnorr](@/w/isnorr.md).
+* [Mister Z](@/w/mister-z.md) called out for Biesiad and Johnny Blade who are not making scheduled appearances tonight. Instead of them, [Axel Fox](@/w/axel-fox.md) who was supposed to make his decision on joining [Zmowa](@/a/the-collusion.md) that night made his entrance. Z tried to coax him into joining _Zmowa_, using [Olgierd's](@/w/olgierd.md) and [Marco Hammers's](@/w/marco-hammers.md) presence as a physical threat to support his case. Fox, taking off his GobLis T-shirt, initially appeared to be buying in, but he slowly turned to insult each member of _Zmowa_ present in the ring, stating that he values friendship over success. This led to Blade and Biesiad making their appearance as "The Hardcores" and a brawl that turned into an impromptu six-man tornado tag team match between the babyfaces and the members of _Zmowa_. During the match, [Goblin](@/w/goblin.md) made an interference, putting Olgierd on a dog leash and dragging him out of the arena.
 * Donky Kong, the weaponmaster for Dobroniak vs Isnorr, was an unknown performer in a black monkey suit, and had his own entrance to Gloria Estefan's [Conga][conga]. This theme also played whenever Donky Kong came out to hand out new weapons, which were strongly banana-themed. These were, in the order of appearance:
   1. A banana, which Dobroniak forced into Isnorr's mouth.
   2. A piece of rope, which Isnorr used to choke out his opponent.
@@ -123,7 +126,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 * [Monar website - scope](https://www.monar.org/o-nas/czym-sie-zajmujemy/)
 * [Instagram reel - Mister Z bans Biesiad and Blade from the show](https://www.instagram.com/p/DFJCpUet4LN/)
 * [Instagram reel - Isnorr comments on stipulation](https://www.instagram.com/p/DFGEwgKqTtr/)
-
+* [Bartosz's theme - Yakuza 0 intro](https://www.youtube.com/watch?v=zxrXgtSL2Rk&ab_channel=devilleon7)
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [monar]: https://en.wikipedia.org/wiki/Monar
 [ppw-vod]: https://ppw-ewenementpl.vhx.tv/
