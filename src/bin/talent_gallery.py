@@ -93,7 +93,7 @@ def main():
 
         for _, entry in gallery.items():
             path, caption, source = entry['path'], entry['caption'], entry.get('source')
-            taggings = list(parse_names(caption))
+            taggings = set(parse_names(caption))
             for page_path in taggings:
                 entries = photo_taggings.setdefault(page_path.replace('@/', ''), [])
                 entries.append(photo_index)
