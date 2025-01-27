@@ -1,0 +1,19 @@
+# "main name": "alias"
+# May repeat with different aliases. It is an error if a name is used both as name and as alias.
+# Alternatively: "main name": [list, of, aliases] (or in block form with dashes)
+# Think of this as formatted the same way you see it on the name list: main name first, then list of aliases.
+Wade Barrett: Bad News Barrett
+Bartosz: Bartek # Adept Shiplata
+Blue Thunder: Szymon Kolanus
+Adrian Zgórski: Adi
+Damien Sandow: Damien Mizdow
+Dieter Schwartz: Deti Black
+Primo: Diego # WWE's Primo Colón
+Faust XIII: Faust
+Istotna Martynka: Siostra Kimono
+Rambo: Salsakid Rambo
+Tomczak: Bodyguard
+Agent Agata:
+  - Agentka
+  - Agentka Agatka
+Tony Sheen: 'Tony "The River Man" Sheen'

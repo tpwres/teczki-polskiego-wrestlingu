@@ -81,9 +81,32 @@
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global display_match_links = true %}
-          <li class="pwf">
-            {% include "roster/unlinked_person.html" %}
-            {% include "roster/person_orgs_matches.html" %}
+          {# 'U'-flavor entries may have aliases which have flavor 'Y', and the main name at position 3, where regular aliases have the filename #}
+          {% set my_aliases = grouped_by_alias | get(key=name, default=[]) | sort(attribute="0") %}
+          <li class="{% if my_aliases|length > 0 %}pwa{% endif %}">
+            <span class="pwf">
+              {% include "roster/unlinked_person.html" %}
+              {% include "roster/person_orgs_matches.html" %}
+            </span>
+            {% if my_aliases|length > 0 %}
+              <ul>
+                {% for alias in my_aliases %}
+                  {% set name = alias[1] %}
+                  {% set flavor = alias[2] %}
+                  {% set flag = false %}
+                  {% set_global person_name = '<em>' ~ name ~ '</em>' %}
+                  {% set_global appearances_entry = appearances | get(key=name, default=[]) %}
+                  {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
+                  {% set_global display_match_links = true %}
+                  <li>
+                    <span class="pwf">
+                      <span class="name">{{ person_name | safe }}</span>
+                      {% include "roster/person_orgs_matches.html" %}
+                    </span>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
           </li>
         {% endif %}
       {% endfor %}
