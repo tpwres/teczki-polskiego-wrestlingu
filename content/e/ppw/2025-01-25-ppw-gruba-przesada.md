@@ -98,6 +98,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 * At one point in Oskar vs Vic, Oskar's valet Agentka Agata distracted Vic with a long kiss on the lips.
 * Before the break in the show, [Michael HT](@/w/michael-ht.md) auctioned off the old ropes from PpW's ring.
 * During the break, Vic Golden came out to the ring to take pictures with the fans. Backstage, Joker interviewed the wrestlers.
+* Before his match, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) called for [Johnny Blade](@/w/johnny-blade.md) to face him for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) - only to be taken aback by the news that the title now belongs to [Isnorr](@/w/isnorr.md).
 * Donky Kong, the weaponmaster for Dobroniak vs Isnorr, was an unknown performer in a black monkey suit, and had his own entrance to Gloria Estefan's [Conga][conga]. This theme also played whenever Donky Kong came out to hand out new weapons, which were strongly banana-themed. These were, in the order of appearance:
   1. A banana, which Dobroniak forced into Isnorr's mouth.
   2. A piece of rope, which Isnorr used to choke out his opponent.
