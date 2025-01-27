@@ -10,7 +10,7 @@ country = ["PL"]
 
 David Oliwa is one of the most experienced [Kombat Pro Wrestling](@/o/kpw.md) workers, and one of only three (alongside [Greg](@/w/greg.md) and [Rosetti](@/w/rosetti.md)) still in active roster who got their start in [Do Or Die Wrestling](@/o/ddw.md).
 Although Oliwa trained and even appeared as a rookie in two DDW shows, his official in-ring debut didn't happen until after DDW folded and KPW took its place.
-He also works abroad in such promotions as Austria-based European Wrestling Association (in a tag team with Ricky Sky and [Skull Evil](@/w/skull-evil.md)) and Pro Wrestling Österreich, Germany's Power Of Wrestling (where he won the Tag Team Championship with Sky) and others.
+He also works abroad in such promotions as Austria-based European Wrestling Association (in a tag team with [Ricky Sky](@/w/ricky-sky.md) and [Skull Evil](@/w/skull-evil.md)) and Pro Wrestling Österreich, Germany's Power Of Wrestling (where he won the Tag Team Championship with Sky) and others.
 
 In KPW, Oliwa had been a fan-favourite babyface for many years, known for his leisurely entrances and a penchant for handing out lollipops to (mostly) female fans, and known affectionately as the "guy in undies" (_facet w gaciach_) due to his choice of ring gear. He used Rupert Holmes's [Escape (The Piña Colada song)](https://www.youtube.com/watch?v=zROIlspgOjM) as his entrance theme.
 Following his loss to Iestyn Rees at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md), however, he began a slow heel turn, taking place over the next few shows.
