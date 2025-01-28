@@ -163,5 +163,5 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2025
 
-* PTW drops the "Underground" name from their shows starting with [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) in January. Two new titles are announced: PTW Underground Championship, commemorating the Underground series, and PTW Women's Championship.
+* PTW drops the "Underground" name from their shows starting with [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) in January. Two new titles are announced: [PTW Underground Championship](@/c/ptw-underground-championship.md), commemorating the Underground series, and [PTW Women's Championship](@/c/ptw-womens-championship.md).
 {% end %}
