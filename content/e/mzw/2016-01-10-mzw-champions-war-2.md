@@ -35,7 +35,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
   - s: 'Nine Man Battle Royal'
 - - '[Justin Joy](@/w/justin-joy.md)'
   - '[Shadow](@/w/shadow.md)'
-  - c: [MZW Championship](@/c/mzw-championship.md)
+  - c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md), El Muchacho'
 {% end %}
