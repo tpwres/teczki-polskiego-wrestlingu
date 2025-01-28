@@ -21,7 +21,6 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
 
 [Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) more than a year before, also returned at this event.
 
-
 {% card() %}
 - - '[Skull Evil](@/w/skull-evil.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
@@ -35,7 +34,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - '[Franz Engel](@/w/franz-engel.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
   - s: 'Triple Threat Match'
-  - c: '[MZW Championship](@/c/mzw-championship.md)'
+    c: '[MZW Championship](@/c/mzw-championship.md)'
 - - '[Matt Buckna](@/w/matt-buckna.md), [Rick Baxxter](@/w/rick-baxxter.md)'
   - '[Apollo](@/w/apollo-anderson.md), [Bartosz Borowsky](@/w/boro.md)'
   - s: 'Tag Team Match'
