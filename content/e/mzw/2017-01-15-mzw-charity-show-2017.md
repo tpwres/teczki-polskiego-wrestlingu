@@ -9,7 +9,7 @@ city = "Głuchołazy"
 [extra.gallery.1]
 path = "plakat.webp"
 caption = "Show poster, featuring the team of Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)."
-source = "?"
+source = "Official MZW Facebook"
 +++
 
 This was a short event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was the third annual charity show, with donations going to [WOŚP][wosp], and coinciding with their 25th annual Grand Finale event.
@@ -19,15 +19,16 @@ Originally [Prince Victor](@/w/vic-golden.md) was scheduled to team up with [Sha
 Attendance: estimated about 300
 
 {% card() %}
-- - "[Asmund](@/w/asmund.md), [Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)"
-  - >
-    [Shadow](@/w/shadow.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md),
-    [Szymon Siwiec](@/w/szymon-siwiec.md)
-  - s: "Six Man Tag Team Elimination Match"
-- ["[Lider](@/w/lider.md)", "???", "???", {s: "Two On One Handicap Match"}]
-- - "Storm Riders: [Red Thunder](@/w/red-thunder.md), Blue Thunder; Columbus"
-  - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - c: "MZW Tag Team Championship"
+- - '[Asmund](@/w/asmund.md), [Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)'
+  - '[Shadow](@/w/shadow.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Szymon Siwiec](@/w/szymon-siwiec.md)'
+  - s: 'Six Man Tag Team Elimination Match'
+- - '[Lider](@/w/lider.md)'
+  - '???'
+  - '???'
+  - s: 'Two On One Handicap Match'
+- - 'Storm Riders: [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md); Columbus'
+  - 'Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}

@@ -12,19 +12,31 @@ city = "Głuchołazy"
 +++
 
 {% card() %}
-- ["Demon", "RJ Kolda", {c: "VcV Championship"}]
-- ["[Prince Victor](@/w/vic-golden.md)", "[Skull Evil](@/w/skull-evil.md)", "[Stanisław
-    Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", {s: "Triple Threat Match"}]
-- ["[Red Thunder](@/w/red-thunder.md)", "Szymon Kolanus"]
-- ["[Siwy](@/w/szymon-siwiec.md)", "[Lider](@/w/lider.md)", {r: "DQ"}]
-- ["[Christopher Anthony](@/w/christopher-anthony.md)", "[Matt Buckna](@/w/matt-buckna.md)",
-  "Otto Stahl", {s: "Triple Threat Match"}]
-- - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)"
-  - r: "Double DQ"
-- ["[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)", "[Alex Arthur](@/w/alex-arthur.md)",
-  {s: "Two On One Handicap Match"}]
-- ["[Shadow](@/w/shadow.md)", "[Asmund](@/w/asmund.md)", {s: "Two Out Of Three Falls"}]
+- - 'Demon'
+  - 'RJ Kolda'
+  - c: 'VcV Championship'
+- - '[Prince Victor](@/w/vic-golden.md)'
+  - '[Skull Evil](@/w/skull-evil.md)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - s: 'Triple Threat Match'
+- - '[Red Thunder](@/w/red-thunder.md)'
+  - '[Szymon Kolanus](@/w/blue-thunder.md)'
+- - '[Siwy](@/w/szymon-siwiec.md)'
+  - '[Lider](@/w/lider.md)'
+  - r: 'DQ'
+- - '[Christopher Anthony](@/w/christopher-anthony.md)'
+  - '[Matt Buckna](@/w/matt-buckna.md)'
+  - 'Otto Stahl'
+  - s: 'Triple Threat Match'
+- - 'Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - 'Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)'
+  - nc: 'Double DQ'
+- - '[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)'
+  - '[Alex Arthur](@/w/alex-arthur.md)'
+  - s: 'Two On One Handicap Match'
+- - '[Shadow](@/w/shadow.md)'
+  - '[Asmund](@/w/asmund.md)'
+  - s: 'Two Out Of Three Falls'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Commentary: 'Adam "Omega" Sekuła, Wojciech "Vice" Baranowski'
