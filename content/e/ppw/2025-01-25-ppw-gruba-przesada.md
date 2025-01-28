@@ -52,7 +52,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
   - 'Sentinel'
   - '_rookie_ Bartosz'
   - 'Wonder Haze'
-  - 'Atillaa'
+  - 'Atilla'
   - s: Fatal Five-Way Match
     n:
       - Pre-show match.
