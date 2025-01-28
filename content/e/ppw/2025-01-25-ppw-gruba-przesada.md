@@ -126,7 +126,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 * [Monar website - scope](https://www.monar.org/o-nas/czym-sie-zajmujemy/)
 * [Instagram reel - Mister Z bans Biesiad and Blade from the show](https://www.instagram.com/p/DFJCpUet4LN/)
 * [Instagram reel - Isnorr comments on stipulation](https://www.instagram.com/p/DFGEwgKqTtr/)
-* [Bartosz's theme - Yakuza 0 intro](https://www.youtube.com/watch?v=zxrXgtSL2Rk&ab_channel=devilleon7)
+* [Bartosz's theme - Yakuza 0 intro](https://www.youtube.com/watch?v=zxrXgtSL2Rk)
 
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [monar]: https://en.wikipedia.org/wiki/Monar
