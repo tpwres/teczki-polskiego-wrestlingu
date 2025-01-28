@@ -2,8 +2,8 @@
 title = "MZW Beatdown II"
 template = "event_page.html"
 [taxonomies]
-chronology = ["mzw'
-venue = ["bakara'
+chronology = ["mzw"]
+venue = ["bakara"]
 [extra]
 city = "Wrocław"
 [extra.gallery]

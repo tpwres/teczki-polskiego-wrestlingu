@@ -2,8 +2,8 @@
 title = "MZW Champions War III"
 template = "event_page.html"
 [taxonomies]
-chronology = ["mzw'
-venue = ["gosir-glucholazy'
+chronology = ["mzw"]
+venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 [extra.gallery.1]
