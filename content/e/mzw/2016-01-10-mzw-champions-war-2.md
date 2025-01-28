@@ -14,14 +14,17 @@ caption = "Official poster, picturing [Justin Joy](@/w/justin-joy.md) and [Shado
 Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). Like last year's [untitled event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), it was a charity show, with donations going to [WOŚP][wosp], and was held on the same day as their 24th annual Grand Finale event.
 
 {% card() %}
-- ["[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)", "[Dynamite Dave](@/w/dynamite-dave.md)"]
-- ["[Red Thunder](@/w/red-thunder.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]
-- ["[Franz Engel](@/w/franz-engel.md)", "[Robert Kaiser](@/w/robert-kaiser.md)"]
-- - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - "Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)"
-  - s: "Tag Team Match"
+- - '[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)'
+  - '[Dynamite Dave](@/w/dynamite-dave.md)'
+- - '[Red Thunder](@/w/red-thunder.md)'
+  - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
+- - '[Franz Engel](@/w/franz-engel.md)'
+  - '[Robert Kaiser](@/w/robert-kaiser.md)'
+- - 'Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - 'Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)'
+  - s: 'Tag Team Match'
 - - '[Asmund](@/w/asmund.md)'
-  - "Szymon Kolanus"
+  - '[Szymon Kolanus](@/w/blue-thunder.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - '[Franz Engel](@/w/franz-engel.md)'
@@ -29,8 +32,10 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
   - '[Red Thunder](@/w/red-thunder.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
-  - s: "Nine Man Battle Royal"
-- ["[Justin Joy](@/w/justin-joy.md)", "[Shadow](@/w/shadow.md)", {c: "MZW Championship"}]
+  - s: 'Nine Man Battle Royal'
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - '[Shadow](@/w/shadow.md)'
+  - c: [MZW Championship](@/c/mzw-championship.md)
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md), El Muchacho'
 {% end %}
