@@ -19,4 +19,11 @@ city = "Kozłów"
 ## Build-up
 
 * On January 22th, [Diana Strong](@/w/diana-strong.md) stated via her Instagram story that she was mistakenly featured on the show's poster as well as the poster for _Bestya Rumble_, a show in Italy with strong PTW involvement. Per Diana's words, she announced her unavailability in advance. As of 23.01, neither organization corrected their poster.
-{{ skip_card() }}
+
+{% card(predicted=true) %}
+- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
+  - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: Tag Team Match
+    nc: upcoming
+{% end %}
