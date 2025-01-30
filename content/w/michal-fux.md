@@ -1,22 +1,44 @@
 +++
 title = "Michał Fux"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
 1 = { path = "kpw-arena-22-michal-fux.jpg", caption = "Michał poses for the fans, KPW Arena 22.", source = "M3n747" }
 +++
 
-Michał Fux is one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md).
-Debuting at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), he's best known for his tag team work alongside Filip, but he also worked a number of solo matches.
-Michał is currently the only KPW wrestler who never missed a single show since his debut - an honour he shared with [Zefir](@/w/zefir.md) until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md).
+Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/w/kpw.md), where he is  one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md).
 
-The Fux Brothers are the reigning [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), having won the belts from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veidt Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md).
-In 2023 they also made an appearance at an European Wrestling Association show in Austria.
+## Basic info:
+
+* Years active: 2017-present
+* Gimmicks/nicknames:
+  - Michał Fux {{ org_badge(org='kpw') }}
+* Trained by:
+  - KPW Academy (201?-present)
+ 
+## Professional wrestling career
+
+### Kombat Pro Wrestling (2021-present)
+
+Michał Fux made his debut in August 2021 at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), he's best known for his tag team work alongside [Filip Fux](@/w/filip-fux.md), but he also worked a number of solo matches.
+
+The Fux Brothers won [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), by defeating Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veidt Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at an European Wrestling Association show in Austria.
+
+In October 2024 KPW's chairman - [Krystian Malinowski](@/w/krystian-malinowski.md) - announced a new tournament for #1 Contendership for [KPW Championship](@/c/kpw-championship.md) called ["Wyścig"](@/e/kpw/2024-11-15-kpw-arena-26.md). Both of Fux Brothers entered the tournamtent and won their matches in Qualifying - Michał defeated [Chemik](@/w/chemik.md). In the finals - which were merged into the Triple Threat Match - Michał and Filip stood against each other and [David Oliwa](@/w/david-oliwa.md). Michał won the match, which would lead him into match with reigning champion - [Hans Schulte](@/w/hans-schulte.md).
 
 ## In wrestling
 
+* Finisher:
+  - _Fuxonator_ (Swinging side slam) (2021-)
+
+* With [Filip Fux](@/w/filip-fux.md):
+  - Flapjack (Michał) and Cutter (Filip) combination (2021-)
+
+* Tag Teams and stables:
+  - The Fux Brothers (2021-)
+    
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
  {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
@@ -27,6 +49,11 @@ In 2023 they also made an appearance at an European Wrestling Association show i
  {{ org_badge(orgs=['kpw']) }} (2023-) <br>
  {{ music(yt='se3AUY4XKcA')}}
  {{ music(apple='375038556?i=375038653')}}
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) - with [Filip Fux](@/w/filip-fux.md)
 
 ## Internet presence
 
