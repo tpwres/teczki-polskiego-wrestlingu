@@ -12,7 +12,7 @@ Michael HT is a Polish host, ring announcer and retired wrestler best known for 
 
 * Years active: 2012-present
 * Gimmicks/nicknames:
-  - "OG" Michael HT
+  - "OG" Michael HT {{ org_badge(orgs=['ppw']) }}
   - Jeff {{ org_badge(orgs=['ppw']) }} (backyard era)
   - Taras {{ org_badge(orgs=['ppw']) }} (backyard era)
  
