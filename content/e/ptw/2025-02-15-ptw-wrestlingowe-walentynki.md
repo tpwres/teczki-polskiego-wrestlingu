@@ -32,12 +32,12 @@ A tournament for the newly created [PTW Underground Championship](@/c/ptw-underg
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
-- - "[Max Speed](@/w/max-speed.md)"
-  - "???"
-  - s: [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament - quarter-final
+- - '[Max Speed](@/w/max-speed.md)'
+  - '???'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
     nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - "???"
+  - '???'
   - nc: upcoming
   {% end %}
 
