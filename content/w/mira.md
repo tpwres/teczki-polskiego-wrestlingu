@@ -64,7 +64,11 @@ Since then, Mira is still active in the wrestling industry as a ring-gear tailor
  {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
  {{ music(apple='1371473173?i=1371473189')}}
 
-### References
+## Internet presence
+
+* [mira.wrestlin](https://www.instagram.com/mira.wrestlin/) on Instagram
+
+## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=16119)
 * [Interview by trojmiasto.pl](https://rozrywka.trojmiasto.pl/Dziewczyna-z-ringu-o-golebim-sercu-n110167.html), in Polish
