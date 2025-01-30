@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
-Mira is a retired Polish wrestler and manager best known for her time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) beforehand. Since retiring, she also became a designer and tailor, creating ring gear for wrestlers.
+Mira is a retired Polish wrestler and manager best known for her time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) prior to that. Since retiring, she also became a designer and tailor, creating ring gear for wrestlers.
 
 ## Basic info
 
@@ -29,15 +29,15 @@ For the rest of her tenure in DDW - due to a shortage of female opponents - she 
 
 After DDW folded its operations and transformed into [Kombat Pro Wrestling](@/o/kpw.md), Mira joined the new federation along with many ex-DDW talents.
 She was quickly paired with [Boski Ostrowski](@/w/ostrowski.md) as his manager and sporadic partner in mixed tag team matches.
-She adapted a babyface persona of Ostrowski's main dancer, being visible when he was making his entrances. Her signature look included a pair of "disco sneakers", decorated with colorful LEDs that change colors with every step.
+She adapted a babyface persona of Ostrowski's main dancer, being visible during his entrances. Her signature look included a pair of "disco sneakers" decorated with colorful LEDs that changed colors with every step.
 
-Sometime later, she was joined by her kayfabe-sister [Alisa](@/w/alisa.md).
-The sister's relationship grew more and more bitter, finally culminating at [Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), when Alisa turned heel on her sister and Ostrowski, by joining the villainous faction Kawaleria, led by [Piękny Kawaler](@/w/piekny-kawaler.md).
-After that Mira spent almost a year on feuding with her sister, which concluded at [KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md), where Mira was representing the babyface faction Sojusz, and Alisa the villanous Kawaleria. Mira was defeated by her sister, and fought only one more match before returning to her managerial role alongside Boski Ostrowski.
+Some time later she was joined by her kayfabe-sister [Alisa](@/w/alisa.md).
+The sisters' relationship grew more and more bitter, finally culminating at [Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), when Alisa turned heel on her sister and Ostrowski by joining the villainous faction Kawaleria, led by [Piękny Kawaler](@/w/piekny-kawaler.md).
+After that Mira spent almost a year feuding with her sister which concluded at [KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md), where Mira represented the babyface faction Sojusz, and Alisa the villanous Kawaleria. Mira was defeated by her sister, and fought only one more match before returning to her managerial role alongside Boski Ostrowski.
 
-In January 2019, she danced into the ring for the final time at [KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), where she announced that due to pregnancy, she had take a hiatus from in-ring competition. However, she never made her return, as she left KPW in April 2021.
+In January 2019, she danced into the ring for the final time at [KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), where she announced that due to pregnancy, she had to take a hiatus from in-ring competition. However, she never made her return, as she left KPW in April 2021.
 
-Since then, Mira is still active in the wrestling industry as a ring-gear tailor and designer, working with multiple wrestlers on the Polish and foreign wrestling scenes.
+Since then, Mira is still active in the wrestling industry as a ring-gear tailor and designer, working with multiple wrestlers on the Polish and international wrestling scenes.
 
 ## In wrestling
 
@@ -54,15 +54,15 @@ Since then, Mira is still active in the wrestling industry as a ring-gear tailor
 
 * Entrance music:
   - "'Til The Dawn (Main Version)" by Drew Sidora
-    {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>
-    {{ music(yt='r-5gVLNPkiM')}}
-    {{ music(spot='3hQsKiuqpoxPnYhOytrJIJ')}}
-    {{ music(apple='183506814?i=183507529')}}
+ {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>
+ {{ music(yt='r-5gVLNPkiM')}}
+ {{ music(spot='3hQsKiuqpoxPnYhOytrJIJ')}}
+ {{ music(apple='183506814?i=183507529')}}
   - "Disco Disco Good Good" by Geo Da Silva & Jack Mazzoni
-    {{ org_badge(orgs=['kpw']) }} (2015-2018, while teaming and managing [Boski Ostrowski](@/w/ostrowski.md)) <br>
-    {{ music(yt='b0y4IQRbKAs')}}
-    {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
-    {{ music(apple='1371473173?i=1371473189')}}
+ {{ org_badge(orgs=['kpw']) }} (2015-2018, while teaming and managing [Boski Ostrowski](@/w/ostrowski.md)) <br>
+ {{ music(yt='b0y4IQRbKAs')}}
+ {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
+ {{ music(apple='1371473173?i=1371473189')}}
 
 ### References
 
