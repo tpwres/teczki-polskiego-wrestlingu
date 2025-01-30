@@ -8,7 +8,7 @@ country = ["PL"]
 1 = { path = "kpw-arena-22-michal-fux.jpg", caption = "Michał poses for the fans, KPW Arena 22.", source = "M3n747" }
 +++
 
-Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/w/kpw.md), where he is  one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md).
+Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), where he is one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md).
 
 ## Basic info:
 
@@ -22,11 +22,11 @@ Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestlin
 
 ### Kombat Pro Wrestling (2021-present)
 
-Michał Fux made his debut in August 2021 at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), he's best known for his tag team work alongside [Filip Fux](@/w/filip-fux.md), but he also worked a number of solo matches.
+Michał Fux made his debut in August 2021 at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md). He's best known for his tag team work alongside [Filip Fux](@/w/filip-fux.md), but he also worked a number of solo matches.
 
-The Fux Brothers won [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), by defeating Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veidt Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at an European Wrestling Association show in Austria.
+The Fux Brothers won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) and [Veidt Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at a European Wrestling Association show in Austria.
 
-In October 2024 KPW's chairman - [Krystian Malinowski](@/w/krystian-malinowski.md) - announced a new tournament for #1 Contendership for [KPW Championship](@/c/kpw-championship.md) called ["Wyścig"](@/e/kpw/2024-11-15-kpw-arena-26.md). Both of Fux Brothers entered the tournamtent and won their matches in Qualifying - Michał defeated [Chemik](@/w/chemik.md). In the finals - which were merged into the Triple Threat Match - Michał and Filip stood against each other and [David Oliwa](@/w/david-oliwa.md). Michał won the match, which would lead him into match with reigning champion - [Hans Schulte](@/w/hans-schulte.md).
+In October 2024 KPW's chairman [Krystian Malinowski](@/w/krystian-malinowski.md) announced a new tournament for #1 Contendership for the [KPW Championship](@/c/kpw-championship.md), called ["Wyścig"](@/e/kpw/2024-11-15-kpw-arena-26.md). Both of the Fux Brothers entered the tournamtent and won their matches in the quarter finals, where Michał defeated [Chemik](@/w/chemik.md). In the finals - which were merged into a single Triple Threat Match - Michał and Filip stood against one another and [David Oliwa](@/w/david-oliwa.md). Michał won the match, which would lead him into a match with the reigning champion - [Hans Schulte](@/w/hans-schulte.md).
 
 ## In wrestling
 
