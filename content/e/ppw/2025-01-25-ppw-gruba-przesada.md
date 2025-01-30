@@ -15,6 +15,10 @@ source = "Official PpW Facebook"
 path = "svd-szkaluje-isnorra.jpg"
 caption = "Basically, [Dobroniak](@/w/stanislaw-van-dobroniak.md) says that Isnorr stinks."
 source = "Official PpW Facebook"
+[extra.gallery.3]
+path = "dobroniak-dfw.webp"
+caption = "[Dobroniak](@/w/stanislaw-van-dobroniak.md) with the front plate of the [DFW Championship](@/c/dfw-championship.md)."
+source = "Official PpW YouTube"
 +++
 
 Gruba Przesada (roughly _Way Too Far_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held once again in [Teatr Komuna](@/v/teatr-komuna.md) on Saturday, January 25th 2025.
