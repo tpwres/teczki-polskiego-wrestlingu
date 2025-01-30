@@ -42,6 +42,10 @@ Veit made his debut at [KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-ze
 * Kombat Pro Wrestling:
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) with [Hans Schulte](@/w/hans-schulte.md)
 
+## Internet presence
+
+* [catchmueller](https://www.instagram.com/catchmueller/) on Instagram
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=13769)
