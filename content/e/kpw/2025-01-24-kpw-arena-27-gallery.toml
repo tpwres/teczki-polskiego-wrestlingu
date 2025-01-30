@@ -1,51 +1,51 @@
-01 = { path = "2025-01-24-kpw-arena-27-plakat.jpg", caption = "Official poster, featuring [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
-02 = { path = "arena-27-rosetti-entrance.webp", caption = "[Rosetti's](@/w/rosetti.md) entrance.", source = "Official KPW Facebook" }
-03 = { path = "arena-27-kinga-entrance.webp", caption = "[Kinga's](@/w/kinga-miotke.md) entrance.", source = "Official KPW Facebook" }
-04 = { path = "arena-27-acting-chairman-rosetti.webp", caption = "Acting chairman [Rosetti's](@/w/rosetti.md) opens the show.", source = "M3n747" }
-05 = { path = "arena-27-kinga-1.webp", caption = "The new referee, [Kinga](@/w/kinga-miotke.md).", source = "Krzysztof Zych" }
-06 = { path = "arena-27-guess-whos-back.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) is back and looking sharp.", source = "Official KPW Facebook" }
-07 = { path = "arena-27-opol.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) steps back into the ring after a long break.", source = "Krzysztof Zych" }
-08 = { path = "arena-27-rosetti-kinga-opol.webp", caption = "[Rosetti](@/w/rosetti.md) talks to the crowd, while referee [Kinga](@/w/kinga-miotke.md) and [Piotr Opolski](@/w/piotr-opolski.md) wait to the side.", source = "M3n747" }
-09 = { path = "arena-27-kinga-2.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) at the ready.", source = "Krzysztof Zych" }
-10 = { path = "arena-27-lesaaaaaak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) before his match.", source = "Krzysztof Zych" }
-11 = { path = "arena-27-one-finger-salute.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) salutes the fans in his typical manner.", source = "Official KPW Facebook" }
-12 = { path = "arena-27-lesak-vs-lato-1.webp", caption = "[Leon Lato](@/w/leon-lato.md) about to be thrown at the ring apron.", source = "Krzysztof Zych" }
-13 = { path = "arena-27-lesak-vs-lato-2.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) about to introduce [Leon Lato](@/w/leon-lato.md) to the ropes.", source = "Krzysztof Zych" }
-14 = { path = "arena-27-sexy-lesak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) embodies the Polish proverb &quot;Hungry man thinks of bread&quot;.", source = "M3n747" }
-15 = { path = "arena-27-lesak-wins-i-guess.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) awards the win to [Eryk Lesak](@/w/eryk-lesak.md).", source = "Krzysztof Zych" }
-16 = { path = "arena-27-hammer-time.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) relegated to the bell duty. To his left sits a medical staff member.", source = "Official KPW Facebook" }
-17 = { path = "arena-27-its-gonna-rain-zefirs-are-flying-low-to-the-ground.webp", caption = "[Zefir](@/w/zefir.md) flies into the ring.", source = "Krzysztof Zych" }
-18 = { path = "arena-27-beck-to-the-ring.webp", caption = "Callum Beck sentons onto [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
-19 = { path = "arena-27-zefir-and-callums-beckside.webp", caption = "[Zefir](@/w/zefir.md) strikes Beck.", source = "Krzysztof Zych" }
-20 = { path = "arena-27-oh-snap.webp", caption = "Callum Beck about to seemingly snap [Zefir's](@/w/zefir.md) fingers.", source = "M3n747" }
-21 = { path = "arena-27-rifez.webp", caption = "[Zefir](@/w/zefir.md) with his mask turned back-to-front.", source = "Official KPW Facebook" }
-22 = { path = "arena-27-zefir-back-to-front.webp", caption = "Callum Beck blindsides [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
-23 = { path = "arena-27-sexy-beck.webp", caption = "Callum Beck thrown out of the ring by Zefir.", source = "M3n747" }
-24 = { path = "arena-27-zefir-wins.webp", caption = "[Kinga](@/w/kinga-miotke.md) announces [Zefir's](@/w/zefir.md) victory over Callum Beck.", source = "M3n747" }
-25 = { path = "arena-27-oliwa-sky.webp", caption = "[David Oliwa](@/w/david-oliwa.md) wearing Ricky Sky's shirt.", source = "Krzysztof Zych" }
-26 = { path = "arena-27-triple-threat-1.webp", caption = "[Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) and [David Oliwa](@/w/david-oliwa.md).", source = "M3n747" }
-27 = { path = "arena-27-triple-threat-2.webp", caption = "David Oliwa decides whom to attack first.", source = "M3n747" }
-28 = { path = "arena-27-fuxy-1.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
-29 = { path = "arena-27-fuxy-2.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
-30 = { path = "arena-27-fuxy-3.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
-31 = { path = "arena-27-fuxy-4.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
-32 = { path = "arena-27-fuxy-5.webp", caption = "[Michał Fux](@/w/michal-fux.md) with his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) after the fight.", source = "Krzysztof Zych" }
-33 = { path = "arena-27-tune-in-the-key-of-wong.webp", caption = "[Adam Wong](@/w/adam-wong.md) fine-tunes the ropes.", source = "Krzysztof Zych" }
-34 = { path = "arena-27-tomczak-i-opol.webp", caption = "The towering debutant Tomczak announced by [Piotr Opolski](@/w/piotr-opolski.md).", source = "M3n747" }
-35 = { path = "arena-27-tomczak-1.webp", caption = "Half Michael Myers, half Hannibal Lecter, all Tomczak!", source = "Krzysztof Zych" }
-36 = { path = "arena-27-tomczak-2.webp", caption = "Tomczak makes a stop on his way to a Slipknot convention to read from Austin 3:16.", source = "Krzysztof Zych" }
-37 = { path = "arena-27-tomczak-3.webp", caption = "Tomczak about to drive [Greg](@/w/greg.md) into the ring.", source = "Krzysztof Zych" }
-38 = { path = "arena-27-tomczak-4.webp", caption = "Greg delivers a neckbreaker to Tomczak.", source = "Krzysztof Zych" }
-39 = { path = "arena-27-tomczak-5.webp", caption = "Tomczak attacks [Greg](@/w/greg.md) with a kendo stick.", source = "Krzysztof Zych" }
-40 = { path = "arena-27-tomczak-6.webp", caption = "The Towering Terror Tomczak drops Greg to the ring, as referee [Kinga](@/w/kinga-miotke.md) and acting chairman [Rosetti](@/w/rosetti.md) observe.", source = "Krzysztof Zych" }
-41 = { path = "arena-27-greg-i-tomczak.webp", caption = "Tomczak and [Greg](@/w/greg.md) choke each other out outside of the ring.", source = "M3n747" }
-42 = { path = "arena-27-chemik-is-ready.webp", caption = "[Chemik](@/w/chemik.md) presents his [KPW OldTown Championship](@/c/kpw-old-town-championship.md). In the corner stands Michael Schenkenberg.", source = "M3n747" }
-43 = { path = "arena-27-main-event-1.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) counts out [Chemik](@/w/chemik.md), as he chokes Michael Schenkenberg against the ropes.", source = "Krzysztof Zych" }
-44 = { path = "arena-27-main-event-2.webp", caption = "Michael Schenkenberg carries [Chemik](@/w/chemik.md) to his doom.", source = "Krzysztof Zych" }
-45 = { path = "arena-27-main-event-3.webp", caption = "Michael Schenkenberg tries to grab a rope while being pinned by [Chemik](@/w/chemik.md).", source = "Krzysztof Zych" }
-46 = { path = "arena-27-chemik-wins.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) declares [Chemik](@/w/chemik.md) the winner.", source = "M3n747" }
-47 = { path = "arena-27-chemik-and-kinga.webp", caption = "[Chemik](@/w/chemik.md) delivers a parting insult to [Kinga](@/w/kinga-miotke.md).", source = "M3n747" }
-48 = { path = "arena-27-koniec-1.webp", caption = "[Chemik](@/w/chemik.md) confronted by [Filip Fux](@/w/filip-fux.md) at the end of the show; referee [Kinga](@/w/kinga-miotke.md) watches from the corner.", source = "Krzysztof Zych" }
-49 = { path = "arena-27-koniec-2.webp", caption = "Chemik and [Filip Fux](@/w/filip-fux.md) held back by ring crew members, as [Piotr Opolski](@/w/piotr-opolski.md) rushes in.", source = "Krzysztof Zych" }
-50 = { path = "arena-27-brawl.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) valiantly attempts to break up the brawl between Chemik and Filip Fux.", source = "Official KPW Facebook" }
-51 = { path = "arena-27-arek-paterek-i-bianca.webp", caption = "[Arek Paterek](@/w/arek-paterek.md) after the show. Standing in front of him, looking to the left, is Bianca.", source = "M3n747" }
+0000 = { path = "2025-01-24-kpw-arena-27-plakat.jpg", caption = "Official poster, featuring [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
+0001 = { path = "arena-27-rosetti-entrance.webp", caption = "[Rosetti's](@/w/rosetti.md) entrance.", source = "Official KPW Facebook" }
+0002 = { path = "arena-27-kinga-entrance.webp", caption = "[Kinga's](@/w/kinga-miotke.md) entrance.", source = "Official KPW Facebook" }
+0003 = { path = "arena-27-acting-chairman-rosetti.webp", caption = "Acting chairman [Rosetti's](@/w/rosetti.md) opens the show.", source = "M3n747" }
+0004 = { path = "arena-27-kinga-1.webp", caption = "The new referee, [Kinga](@/w/kinga-miotke.md).", source = "Krzysztof Zych" }
+0005 = { path = "arena-27-guess-whos-back.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) is back and looking sharp.", source = "Official KPW Facebook" }
+0006 = { path = "arena-27-opol.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) steps back into the ring after a long break.", source = "Krzysztof Zych" }
+0007 = { path = "arena-27-rosetti-kinga-opol.webp", caption = "[Rosetti](@/w/rosetti.md) talks to the crowd, while referee [Kinga](@/w/kinga-miotke.md) and [Piotr Opolski](@/w/piotr-opolski.md) wait to the side.", source = "M3n747" }
+0008 = { path = "arena-27-kinga-2.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) at the ready.", source = "Krzysztof Zych" }
+0101 = { path = "arena-27-lesaaaaaak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) before his match.", source = "Krzysztof Zych" }
+0102 = { path = "arena-27-one-finger-salute.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) salutes the fans in his typical manner.", source = "Official KPW Facebook" }
+0103 = { path = "arena-27-lesak-vs-lato-1.webp", caption = "[Leon Lato](@/w/leon-lato.md) about to be thrown at the ring apron.", source = "Krzysztof Zych" }
+0104 = { path = "arena-27-lesak-vs-lato-2.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) about to introduce [Leon Lato](@/w/leon-lato.md) to the ropes.", source = "Krzysztof Zych" }
+0105 = { path = "arena-27-sexy-lesak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) embodies the Polish proverb &quot;Hungry man thinks of bread&quot;.", source = "M3n747" }
+0106 = { path = "arena-27-lesak-wins-i-guess.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) awards the win to [Eryk Lesak](@/w/eryk-lesak.md).", source = "Krzysztof Zych" }
+0201 = { path = "arena-27-its-gonna-rain-zefirs-are-flying-low-to-the-ground.webp", caption = "[Zefir](@/w/zefir.md) flies into the ring.", source = "Krzysztof Zych" }
+0202 = { path = "arena-27-beck-to-the-ring.webp", caption = "Callum Beck sentons onto [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
+0203 = { path = "arena-27-zefir-and-callums-beckside.webp", caption = "[Zefir](@/w/zefir.md) strikes Beck.", source = "Krzysztof Zych" }
+0204 = { path = "arena-27-oh-snap.webp", caption = "Callum Beck about to seemingly snap [Zefir's](@/w/zefir.md) fingers.", source = "M3n747" }
+0205 = { path = "arena-27-rifez.webp", caption = "[Zefir](@/w/zefir.md) with his mask turned back-to-front.", source = "Official KPW Facebook" }
+0206 = { path = "arena-27-zefir-back-to-front.webp", caption = "Callum Beck blindsides [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
+0207 = { path = "arena-27-sexy-beck.webp", caption = "Callum Beck thrown out of the ring by Zefir.", source = "M3n747" }
+0208 = { path = "arena-27-zefir-wins.webp", caption = "[Kinga](@/w/kinga-miotke.md) announces [Zefir's](@/w/zefir.md) victory over Callum Beck.", source = "M3n747" }
+0301 = { path = "arena-27-oliwa-sky.webp", caption = "[David Oliwa](@/w/david-oliwa.md) wearing Ricky Sky's shirt.", source = "Krzysztof Zych" }
+0302 = { path = "arena-27-triple-threat-1.webp", caption = "[Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) and [David Oliwa](@/w/david-oliwa.md).", source = "M3n747" }
+0303 = { path = "arena-27-triple-threat-2.webp", caption = "David Oliwa decides whom to attack first.", source = "M3n747" }
+0304 = { path = "arena-27-fuxy-1.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
+0305 = { path = "arena-27-fuxy-2.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
+0306 = { path = "arena-27-fuxy-3.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
+0307 = { path = "arena-27-fuxy-4.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Krzysztof Zych" }
+0308 = { path = "arena-27-fuxy-5.webp", caption = "[Michał Fux](@/w/michal-fux.md) with his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) after the fight.", source = "Krzysztof Zych" }
+0402 = { path = "arena-27-tomczak-i-opol.webp", caption = "The towering debutant Tomczak announced by [Piotr Opolski](@/w/piotr-opolski.md).", source = "M3n747" }
+0403 = { path = "arena-27-tomczak-1.webp", caption = "Half Michael Myers, half Hannibal Lecter, all Tomczak!", source = "Krzysztof Zych" }
+0404 = { path = "arena-27-tomczak-2.webp", caption = "Tomczak makes a stop on his way to a Slipknot convention to read from Austin 3:16.", source = "Krzysztof Zych" }
+0405 = { path = "arena-27-tomczak-3.webp", caption = "Tomczak about to drive [Greg](@/w/greg.md) into the ring.", source = "Krzysztof Zych" }
+0406 = { path = "arena-27-tomczak-4.webp", caption = "Greg delivers a neckbreaker to Tomczak.", source = "Krzysztof Zych" }
+0407 = { path = "arena-27-tomczak-5.webp", caption = "Tomczak attacks [Greg](@/w/greg.md) with a kendo stick.", source = "Krzysztof Zych" }
+0408 = { path = "arena-27-tomczak-6.webp", caption = "The Towering Terror Tomczak drops Greg to the ring, as referee [Kinga](@/w/kinga-miotke.md) and acting chairman [Rosetti](@/w/rosetti.md) observe.", source = "Krzysztof Zych" }
+0409 = { path = "arena-27-greg-i-tomczak.webp", caption = "Tomczak and [Greg](@/w/greg.md) choke each other out outside of the ring.", source = "M3n747" }
+0501 = { path = "arena-27-chemik-is-ready.webp", caption = "[Chemik](@/w/chemik.md) presents his [KPW OldTown Championship](@/c/kpw-old-town-championship.md). In the corner stands Michael Schenkenberg.", source = "M3n747" }
+0502 = { path = "arena-27-main-event-1.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) counts out [Chemik](@/w/chemik.md), as he chokes Michael Schenkenberg against the ropes.", source = "Krzysztof Zych" }
+0503 = { path = "arena-27-main-event-2.webp", caption = "Michael Schenkenberg carries [Chemik](@/w/chemik.md) to his doom.", source = "Krzysztof Zych" }
+0504 = { path = "arena-27-main-event-3.webp", caption = "Michael Schenkenberg tries to grab a rope while being pinned by [Chemik](@/w/chemik.md).", source = "Krzysztof Zych" }
+0505 = { path = "arena-27-chemik-wins.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) declares [Chemik](@/w/chemik.md) the winner.", source = "M3n747" }
+0506 = { path = "arena-27-chemik-and-kinga.webp", caption = "[Chemik](@/w/chemik.md) delivers a parting insult to [Kinga](@/w/kinga-miotke.md).", source = "M3n747" }
+0507 = { path = "arena-27-koniec-1.webp", caption = "[Chemik](@/w/chemik.md) confronted by [Filip Fux](@/w/filip-fux.md) at the end of the show; referee [Kinga](@/w/kinga-miotke.md) watches from the corner.", source = "Krzysztof Zych" }
+0508 = { path = "arena-27-koniec-2.webp", caption = "Chemik and [Filip Fux](@/w/filip-fux.md) held back by ring crew members, as [Piotr Opolski](@/w/piotr-opolski.md) rushes in.", source = "Krzysztof Zych" }
+0509 = { path = "arena-27-brawl.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) valiantly attempts to break up the brawl between Chemik and Filip Fux.", source = "Official KPW Facebook" }
+9901 = { path = "arena-27-arek-paterek-i-bianca.webp", caption = "[Arek Paterek](@/w/arek-paterek.md) after the show. Standing in front of him, looking to the left, is Bianca.", source = "M3n747" }
+9902 = { path = "arena-27-hammer-time.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) relegated to the bell duty. To his left sits a medical staff member.", source = "Official KPW Facebook" }
+9903 = { path = "arena-27-tune-in-the-key-of-wong.webp", caption = "[Adam Wong](@/w/adam-wong.md) fine-tunes the ropes.", source = "Krzysztof Zych" }
