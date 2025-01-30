@@ -1,7 +1,7 @@
 +++
 title = "PTW: Wrestlingowe Walentynki"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
@@ -15,16 +15,16 @@ city = "Kozłów"
 +++
 
 "Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md), set to take place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
-A tournament for newly created _PTW Underground Championship_ is going to start at this show. It starts with a round of 4 quarter-final matches , full tournament bracket has not yet been posted. 
+A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md.md) is going to start at this show. It begins with a round of four quarter-final matches, but full tournament bracket have not yet been posted. 
 
 ## Build-up
 
 * On January 22th, [Diana Strong](@/w/diana-strong.md) stated via her Instagram story that she was mistakenly featured on the show's poster as well as the poster for _Bestya Rumble_, a show in Italy with strong PTW involvement. Per Diana's words, she announced her unavailability in advance. As of 23.01, neither organization corrected their poster.
-* next matches in [PTW Women's Championship](@/c/ptw-womens-championship.md)tournament are set to take place - as per event page on Facebook
-* On January 27th, PTW announced a debut of a new competitor - rookie from [PTW Academy](@/o/ptw-academy.md). The debutant is going to be in action in "one of key matches of the evening" (per the post).
-* On January 28th, PTW announced that [Dawid "Puncher" Seńko](@/w/puncher.md) will be in action. No mention if this is going to be a title defense of either [PTW Championship](@/c/ptw-championship.md) or _WWA Championship_.
-* On January 29th, PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) defense. The line-up of the match is conditional on the results of title defense at _Bestya Rumble_ show on February 9th. If the champions lose against _Double Speed_ (team of _Spencer_ and _Zoom_). If the challengers win, they will take a place of L'Orda in a championship match.
-* On January 30th, PTW announced a first quarter-final match in [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed is going to take on a debuting rookie - presumably the same that was previously announced to debut. It is yet unknown if the full tournament is actually going to take place in a single show, as previously hinted.
+* The next matches in the [PTW Women's Championship](@/c/ptw-womens-championship.md)tournament are set to take place - as per the event page on Facebook.
+* On January 27th, PTW announced the debut of a new competitor - a rookie from [PTW Academy](@/o/ptw-academy.md). The debutant is going to be in action in "one of key matches of the evening" (per the post).
+* On January 28th, PTW announced that [Dawid "Puncher" Seńko](@/w/puncher.md) will be in action. No mention if this is going to be a title defense of either the [PTW Championship](@/c/ptw-championship.md) or the _WWA Championship_.
+* On January 29th, PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) defense. The line-up of the match depends on the results of the title defense at the _Bestya Rumble_ show on February 9th. If the champions lose against Double Speed (a team of Spencer and Zoom), the new champions will defend their titles. If the challengers win, they will take the place of L'Orda in the championship match.
+* On January 30th, PTW announced the first quarter final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed is going to take on a debuting rookie - presumably the same one whos was previously announced to debut. It is yet unknown if the full tournament is actually going to take place in a single show, as previously hinted.
 
 {% card(predicted=true) %}
 - - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
