@@ -1,11 +1,46 @@
 +++
 title = "Michael Kovac"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [taxonomies]
 country = ["AT"]
 [extra.gallery]
 1 = { path = "michael-kovac.jpg", caption = "Michael Kovac on his way to the ring, [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md).", source = "M3n747" }
 +++
+
+Michael Kovac is a Austrian wrestler, who made couple of apperances at polish wrestling scene. Most notably in [Do Or Die Wrestling](@/o/ddw.md), [Total Blast Wrestling](@/o/tbw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
+
+## Basic info
+
+* Years active: 1993-present
+* Gimmicks/nicknames:
+  - Michael Kovac {{ org_badge(orgs=['ddw', 'tbw', 'kpw']) }}
+
+## Professional wrestling career
+
+### Do Or Die Wrestling (2009)
+
+Michael Kovac made his debut on Polish soil back in October 2009, when he made his apperance at [Do Or Die Wrestling's](@/o/ddw.md) [third event](@/e/ddw/2009-10-24-ddw-3.md). In the main event of said show he faced, and got defeated, by El Generico - later to be known as WWE Superstar Sami Zayn.
+
+### Total Blast Wrestling (2010)
+
+In the February next year Kovac made his return to Poland at [Total Blast Wrestling](@/o/tbw.md) [first ever show](@/e/tbw/2010-02-27-tbw-1.md), where he competed in two matches: a Singles Match against Starbuck, and in a Eurostars European Heavyweight Championship #1 Contender Rumble Match. He lost in both of said competitions. He made his return at the [second](@/e/tbw/2010-06-05-tbw-2.md) show held in June 2010, where he teamed up with Chris The Bambikiller against Mexx and Salsakid Rambo. He won that match.
+
+### Kombat Pro Wrestling (2021)
+
+Kovac made his return to Polish wrestling scene after over a decade in August 2021, when he challanged reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) - [David Oliwa](@/w/david-oliwa.md) - in a Singles Match. He was however defeated.
+
+## In wrestling
+
+* Finishers:
+  - _Obermacker DDT_ (Bearhug into Cradle DDT) (2009-2021)
+
+* Entrance music:
+   - "Bleed for Me" by Black Label Society
+ {{ org_badge(orgs=['ddw', 'tbw', 'kpw']) }} (2009-2021) <br>
+ {{ music(yt='IPcjYTYgNgQ')}}
+ {{ music(spot='4MVLhnxukgKkAmKvvj6qcp')}}
+ {{ music(apple='1437328390?i=1437328603')}}
 
 ## References
 
