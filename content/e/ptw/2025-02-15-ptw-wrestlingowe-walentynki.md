@@ -15,10 +15,16 @@ city = "Kozłów"
 +++
 
 "Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md), set to take place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
+A tournament for newly created _PTW Underground Championship_ is going to start at this show. It starts with a round of 4 quarter-final matches , full tournament bracket has not yet been posted. 
 
 ## Build-up
 
 * On January 22th, [Diana Strong](@/w/diana-strong.md) stated via her Instagram story that she was mistakenly featured on the show's poster as well as the poster for _Bestya Rumble_, a show in Italy with strong PTW involvement. Per Diana's words, she announced her unavailability in advance. As of 23.01, neither organization corrected their poster.
+* next matches in [PTW Women's Championship](@/c/ptw-womens-championship.md)tournament are set to take place - as per event page on Facebook
+* On January 27th, PTW announced a debut of a new competitor - rookie from [PTW Academy](@/o/ptw-academy.md). The debutant is going to be in action in "one of key matches of the evening" (per the post).
+* On January 28th, PTW announced that [Dawid "Puncher" Seńko](@/w/puncher.md) will be in action. No mention if this is going to be a title defense of either [PTW Championship](@/c/ptw-championship.md) or _WWA Championship_.
+* On January 29th, PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) defense. The line-up of the match is conditional on the results of title defense at _Bestya Rumble_ show on February 9th. If the champions lose against _Double Speed_ (team of _Spencer_ and _Zoom_). If the challengers win, they will take a place of L'Orda in a championship match.
+* On January 30th, PTW announced a first quarter-final match in [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed is going to take on a debuting rookie - presumably the same that was previously announced to debut. It is yet unknown if the full tournament is actually going to take place in a single show, as previously hinted.
 
 {% card(predicted=true) %}
 - - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
@@ -26,4 +32,18 @@ city = "Kozłów"
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
-{% end %}
+- - "[Max Speed](@/w/max-speed.md)"
+  - "???"
+  - s: [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament - quarter-final
+    nc: upcoming
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - "???"
+  - nc: upcoming
+  {% end %}
+
+### References
+
+[PTW Tag Titles defense - Bestya Rumble show](https://www.instagram.com/p/DFLfyIjteNQ/_)
+[PTW Tag Titles defense - Wrestlingowe Walentynki](https://www.facebook.com/photo/?fbid=659585686394077&set=pb.100070279538143.-2207520000)
+[PTW Underground Championship - first quarter-final announced](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid024WCNZgW3HaWL3nbKhqS7joP6HitFMnNGQee4QCwzNdB6NpPnhFDKtvYgSFtukcoNl)
+[Event page - Facebook](https://www.facebook.com/events/494413280349578/?acontext=%7B%22event_action_history%22%3A[]%7D)
