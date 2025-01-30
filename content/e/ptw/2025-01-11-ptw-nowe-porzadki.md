@@ -8,9 +8,7 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 [extra.gallery]
-1 = { path = "2025-01-11-ptw-nowe-porzadki-plakat.jpg", caption = "Official poster, featuring [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "WildHuge Dot / Official PTW Facebook" }
-2 = { path = "2025-01-11-ptw-nowe-porzadki-pas-kobiet.jpg", caption = "Graphic announcing [Diana Strong](@/w/diana-strong.md) vs Amy Heartbeat, the first match in the [Women's Championship](@/c/ptw-womens-championship.md) tournament.", source = "Official PTW Facebook" }
-3 = { path = "nowe-porzadki-stare-ceny.jpg", caption = "A view of the ring shortly before the start of the show.", source = "Krzysztof Zych" }
+manifest = "@/e/ptw/2025-01-11-ptw-nowe-porzadki-gallery.toml"
 +++
 
 "Nowe Porządki" (_A New Order_) was an event by [Prime Time Wrestling](@/o/ptw.md) and the first "minor" show to drop the "Underground" name. The show was announced around eight hours after [KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md); whether or not the identical names are a coincidence, currently remains unknown.
