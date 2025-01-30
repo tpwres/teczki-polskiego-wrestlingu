@@ -15,7 +15,7 @@ city = "Kozłów"
 +++
 
 "Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md), set to take place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
-A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md.md) is going to start at this show. It begins with a round of four quarter-final matches, but full tournament bracket have not yet been posted. 
+A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) is going to start at this show. It begins with a round of four quarter-final matches, but full tournament bracket have not yet been posted. 
 
 ## Build-up
 
