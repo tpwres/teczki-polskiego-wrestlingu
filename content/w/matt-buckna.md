@@ -17,7 +17,7 @@ Matt Buckna is a German wrestler best known for his time in [Maniac Zone Wrestli
   - "Mr. Spear" Matt Buckna {{ org_badge(org='mzw') }}
 * Trained by:
   - Next Step Wrestling School
- 
+
 ## Professional wrestling career
 
 ### Maniac Zone Wrestling (2016-present)
@@ -28,17 +28,21 @@ Matt Buckna made his debut in [Maniac Zone Wrestling](@/o/mzw.md) back in Novemb
 
 #### MZW Champion
 
-Matt Buckna made his return to Poland shortly after MZW fully got back on track following the COVID-19 pandemic, seemingly losing much of his weight. At [MZW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) he defeated Michael Payne in an [MZW Championship](@/c/mzw-championship.md) #1 Contenders Match for the vacant title. His challenger in the final match for the Championship was [Aron Wake](@/w/aron-wake.md), who was unsuccesfull against the German wrestler. Thus, Matt Buckna became the new MZW Champion, turning babyface along the way.
+Matt Buckna made his return to Poland shortly after MZW fully got back on track following the COVID-19 pandemic, now no longer a heavyweight, but significantly slimmer. At [MZW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) he defeated Michael Payne in an [MZW Championship](@/c/mzw-championship.md) #1 Contenders Match for the vacant title. His challenger in the final match for the Championship was [Aron Wake](@/w/aron-wake.md), who was unsuccessful against the German wrestler. Thus, Matt Buckna became the new MZW Champion, turning babyface along the way.
 
 ## In wrestling
 
 * Finishers:
   - Spear (2016-)
- 
+
 ## Championships and accomplishments
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (1 time; current)
+
+## Internet presence
+
+* [matt_buckna on Instagram](https://www.instagram.com/matt_buckna/)
 
 ## References
 

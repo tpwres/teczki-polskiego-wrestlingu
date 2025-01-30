@@ -24,11 +24,11 @@ Michael Kovac made his debut on Polish soil back in October 2009, when he made h
 
 ### Total Blast Wrestling (2010)
 
-In February of the following year, Kovac made his return to Poland at [Total Blast Wrestling's](@/o/tbw.md) [first ever show](@/e/tbw/2010-02-27-tbw-1.md), where he competed in two matches: a Singles Match against Starbuck, and in a Eurostars European Heavyweight Championship #1 Contender Rumble Match, losing both times. He made his return at the [second show](@/e/tbw/2010-06-05-tbw-2.md) held in June 2010, where he teamed up with Chris The Bambikiller against Mexx and Salsakid Rambo, this time scoring the victory.
+In February of the following year, Kovac made his return to Poland at [Total Blast Wrestling's](@/o/tbw.md) [first ever show](@/e/tbw/2010-02-27-tbw-1.md), where he competed in two matches: a Singles Match against Starbuck, and in a Eurostars European Heavyweight Championship #1 Contender Rumble Match, losing both times. He made his return at the [second show](@/e/tbw/2010-06-05-tbw-2.md) held in June 2010, where he teamed up with Chris The Bambikiller against Mexx and Salsakid Rambo, this time scoring a victory.
 
 ### Kombat Pro Wrestling (2021)
 
-Kovac made his return to the Polish wrestling scene after over a decade in August 2021, when he challanged the reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) [David Oliwa](@/w/david-oliwa.md) in a Singles Match. He was however defeated.
+Kovac returned to the Polish wrestling scene once more, after over a decade in August 2021, when he challenged the reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) [David Oliwa](@/w/david-oliwa.md) in a Singles Match.
 
 ## In wrestling
 
