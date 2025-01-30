@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
-Mira is a retired Polish wrestler and manager best known for her time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Mira is a retired Polish wrestler and manager best known for her time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) beforehand. Since retiring, she also became a designer and tailor, creating ring gear for wrestlers.
 
 ## Basic info
 
@@ -15,33 +15,40 @@ Mira is a retired Polish wrestler and manager best known for her time in [Kombat
   - Mira {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
   - [Don Roid](@/w/don-roid.md)
- 
+
 ## Professional wrestling career
 
 ### Do Or Die Wrestling (2013-2015)
 
-Mira started her pro wrestling career training and debuting in [Do Or Die Wrestling](@/o/ddw.md). Among with [Bianca](@/w/bianca.md) and Kasandra she was one of the first Polish female wrestlers who made their official in-ring debut. Mira made her first apperance at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) show in August 2013, where she faced Bianca. For the rest of her tenure in DDW - due to shortage of female wrestlers - she fought mostly exhibition matches against Bianca and Kasandra (also known as Aurora) in various configurations, with only sporadic occasion where she fought alongside Audrey Bride against Bianca and Aurora.
+Mira started her pro wrestling career in [Do Or Die Wrestling](@/o/ddw.md), debuting in 2013.
+Along with [Bianca](@/w/bianca.md) and Kasandra she was one of the first ever Polish female wrestlers to make an official in-ring debut.
+Mira made her first appearance at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) show in August 2013, where she faced Bianca.
+For the rest of her tenure in DDW - due to a shortage of female opponents - she fought mostly exhibition matches against Bianca and Kasandra in various configurations, only once appearing alongside Hungarian wrestler Audrey Bride against Bianca and Aurora.
 
 ### Kombat Pro Wrestling (2015-2019)
 
-After DDW folded its operations and got transformed into [Kombat Pro Wrestling](@/o/kpw.md) Mira joined the federation along with many ex-DDW talents. She was quickly paired with [Boski Ostrowski](@/w/ostrowski.md) as his manager and sporadic partner in mixed tag team matches. She adapted a babyface persona of Ostrowski's main dancer, being visible when he was making his entrances. 
+After DDW folded its operations and transformed into [Kombat Pro Wrestling](@/o/kpw.md), Mira joined the new federation along with many ex-DDW talents.
+She was quickly paired with [Boski Ostrowski](@/w/ostrowski.md) as his manager and sporadic partner in mixed tag team matches.
+She adapted a babyface persona of Ostrowski's main dancer, being visible when he was making his entrances. Her signature look included a pair of "disco sneakers", decorated with colorful LEDs that change colors with every step.
 
-Sometime later she was joined by her keyfabe-sister [Alisa](@/w/alisa.md). Sister relationship grew bitter before [Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), as Alisa turned heel on her sister and Ostrowski, by joining villainous faction led by [Piękny Kawaler](@/w/piekny-kawaler.md): Kawaleria. After that Mira spent almost a year on feuding with her sister which concluded at [KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md), where Mira was representing Sojusz, and Alisa Kawaleria factions. Mira was defeated by her sister, and later on fought only one more match before returining to her managerial role alongside Boski Ostrowski.
+Sometime later, she was joined by her kayfabe-sister [Alisa](@/w/alisa.md).
+The sister's relationship grew more and more bitter, finally culminating at [Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), when Alisa turned heel on her sister and Ostrowski, by joining the villainous faction Kawaleria, led by [Piękny Kawaler](@/w/piekny-kawaler.md).
+After that Mira spent almost a year on feuding with her sister, which concluded at [KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md), where Mira was representing the babyface faction Sojusz, and Alisa the villanous Kawaleria. Mira was defeated by her sister, and fought only one more match before returning to her managerial role alongside Boski Ostrowski.
 
-In January 2019 he made her last on-screen apperance at [KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), where she announced that due to her pregnancy she would have to put her career on a hiatus. However, she never made her in-ring return, as she left KPW in April 2021. 
+In January 2019, she danced into the ring for the final time at [KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), where she announced that due to pregnancy, she had take a hiatus from in-ring competition. However, she never made her return, as she left KPW in April 2021.
 
-From that point on she is still active in wrestling industry as a ring-gear tailor and designer, working with many wrestlers on Polish and foregin wrestling scene.
+Since then, Mira is still active in the wrestling industry as a ring-gear tailor and designer, working with multiple wrestlers on the Polish and foreign wrestling scenes.
 
 ## In wrestling
 
 * Finishers:
   - Boston Crab (2013-2015)
   - _Step Up_ (Bridging double chickenwing) (2015-2017)
-    
+
 * Tag Teams and stables:
-  - [Boski Ostrowski](@/w/ostrowski.md) (2015-2018)
+  - Mixed tag team with [Boski Ostrowski](@/w/ostrowski.md) (2015-2018)
   - Sojusz (2018)
-    
+
 * Wrestlers managed:
   - [Boski Ostrowski](@/w/ostrowski.md) (2015-2018)
 
@@ -56,6 +63,7 @@ From that point on she is still active in wrestling industry as a ring-gear tail
     {{ music(yt='b0y4IQRbKAs')}}
     {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
     {{ music(apple='1371473173?i=1371473189')}}
+
 ### References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=16119)
