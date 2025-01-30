@@ -17,9 +17,9 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
 {% card() %}
 - - '[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md), [Victor Rosetti](@/w/rosetti.md)'
-  - {s: 'Tag Team Match'}
+  - s: 'Tag Team Match'
 - - '[Mira](@/w/mira.md)'
-  - Kasandra
+  - '[Kasandra](@/w/kasandra.md)'
 - - 'Team Hungary: [Renegade](@/w/renegade.md)'
   - 'Team KPW: [Kaszub](@/w/kaszub.md)'
   - s: 'KPW vs Hungary Nations Cup Round 1 Match'

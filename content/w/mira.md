@@ -21,9 +21,9 @@ Mira is a retired Polish wrestler and manager best known for her time in [Kombat
 ### Do Or Die Wrestling (2013-2015)
 
 Mira started her pro wrestling career in [Do Or Die Wrestling](@/o/ddw.md), debuting in 2013.
-Along with [Bianca](@/w/bianca.md) and Kasandra she was one of the first ever Polish female wrestlers to make an official in-ring debut.
+Along with [Bianca](@/w/bianca.md) and [Kasandra](@/w/kasandra.md) she was one of the first ever Polish female wrestlers to make an official in-ring debut.
 Mira made her first appearance at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) show in August 2013, where she faced Bianca.
-For the rest of her tenure in DDW - due to a shortage of female opponents - she fought mostly exhibition matches against Bianca and Kasandra in various configurations, only once appearing alongside Hungarian wrestler Audrey Bride against Bianca and Aurora.
+For the rest of her tenure in DDW - due to a shortage of female opponents - she fought mostly exhibition matches against [Bianca](@/w/bianca.md) and [Kasandra](@/w/kasandra.md) in various configurations, only once appearing alongside Hungarian wrestler Audrey Bride against Bianca and [Aurora](@/w/kasandra.md).
 
 ### Kombat Pro Wrestling (2015-2019)
 

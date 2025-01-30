@@ -10,8 +10,10 @@ manifest = "@/e/ddw/2013-08-25-ddw-charity-event-gallery.toml"
 +++
 
 {% card() %}
-- ['[Klarys](@/w/klarys.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)']
-- [Aurora, '[Mira](@/w/mira.md)']
+- - '[Klarys](@/w/klarys.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+- - '[Aurora](@/w/kasandra.md)'
+  - '[Mira](@/w/mira.md)'
 - - "[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)"
   - "[Mateusz Kowalski](@/w/mateusz-kakareko.md), [Robert Star](@/w/robert-star.md)"
   - s: Tag Team Match

@@ -40,7 +40,7 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
 - - '[Renegade](@/w/renegade.md)'
   - 'Polish Giant'
   - s: '[DDW International Championship](@/c/ddw-international-championship.md) Tournament Semi Final Match'
-- - '[Bianca](@/w/bianca.md), Kasandra'
+- - '[Bianca](@/w/bianca.md), [Kasandra](@/w/kasandra.md)'
   - 'Audrey Bride, [Mira](@/w/mira.md)'
   - s: 'Tag Team Match'
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
