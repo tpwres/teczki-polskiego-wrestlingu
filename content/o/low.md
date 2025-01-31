@@ -9,15 +9,12 @@ chrono_root = ["low"]
 toclevel = 3
 compact_event_list = true
 [extra.gallery]
-1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
-2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "ShowOff's Instagram" }
-3 = { path = "low-qa-post.jpg", caption = "An official-looking document announcing a live Q&A session.", source = "Official LOW Facebook" }
-4 = { path = "legacy-1st-show-date.jpg", caption = "The date and location of the [first show](@/e/low/2024-12-01-low-1.md) revealed.", source = "Official LOW Facebook" }
+manifest = "@/o/low-gallery.toml"
 +++
 
-### History
+## History
 
-#### 2024: A new chapter
+### 2024: A new chapter
 
 _See also: [PTW Exits](@/a/ptw-exits.md)_
 
@@ -88,7 +85,11 @@ In October 2024 Legacy started unveiling the wrestlers booked for the [first sho
 
 On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channel website - a long-time home to wrestling in Poland, which recently entered a partnership with [Prime Time Wrestling](@/o/ptw.md) to air their shows. The following day Legacy [officially confirmed][extreme-low-2] the deal, announcing that the channel became their official media partner and their [first show](@/e/low/2024-12-01-low-1.md) would air on Extreme Sports Channel a week after the event, on the 8th of December.
 
-### References
+### 2025: The second show
+
+On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2".
+
+## References
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
 * [Video: LOW reveal trailer][reveal-trailer]
@@ -115,3 +116,4 @@ On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channe
 [patronite]: https://patronite.pl/www.legacyofwrestling.pl
 [extreme-low-1]: https://www.extreme.com/pl/program/legacy-of-wrestling/
 [extreme-low-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02mTUKt1pcAtvxPxFZASu4UHCEWbPLnbmnuDe219qYvB41kXG8rXLdyfMPefFbky3gl
+[low-2-teaser]:https://www.facebook.com/legacyofwrestlingpl/posts/122134433624468820:4080268062219300
