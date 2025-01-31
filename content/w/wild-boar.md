@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["ENGLAND"]
 +++
 
-Wild Boar is a Welsh pro wrestler, best known for his run in NXT UK with tag team partner [Primate](@/w/primate.md), and a long career performing mostly in Wales and south-west England. In Poland, they are known for their apperances in [Kombat Pro Wrestling](@/o/kpw.md). team won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) in 2019, but was unable to defend it due to the COVID-19 pandemic. With the pandemic finally over, Wild Boar could not defend the title due to an injury, and they had to vacate it.
+Wild Boar is a Welsh pro wrestler, best known for his run in NXT UK with tag team partner [Primate](@/w/primate.md), and a long career performing mostly in Wales and south-west England. In Poland, they are known for their apperances in [Kombat Pro Wrestling](@/o/kpw.md). 
 
 ## Basic info
 
@@ -27,6 +27,9 @@ Wild Boar made his debut on Polish soil back in August 2017, where he faced regi
 
 * Finisher:
   - Package Piledriver (2017-2020)
+ 
+* Tag Teams and stables:
+  - Hunt (2020)
 
 * Entrance music:
   - "Midi Surf" by The Mad Capsule Markets
