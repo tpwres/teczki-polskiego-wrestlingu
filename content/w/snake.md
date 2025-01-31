@@ -30,7 +30,7 @@ Snake made a one-off appearance in [PpW](@/o/ppw.md) in their backyard era. It w
 * [Polish Xtreme Wrestling](@/o/pxw.md):
   - PXW Tag Team Championship (1 time) - with Sirreks
 
-* [PpW Ewenement](@/o/ppw.md)
+* [PpW Ewenement](@/o/ppw.md):
 
   _Backyard Era Championships_:
   - PpW Tag Team Championship (1 time; with [Mister Z](@/w/mister-z.md))
