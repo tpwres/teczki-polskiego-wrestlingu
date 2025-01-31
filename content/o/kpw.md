@@ -37,11 +37,11 @@ In 2020 the COVID-19 pandemic hit, and Poland implemented severe restrictions. T
 Pawłowski was also part of the team of DDW veterans that founded KPW, and later served as their host and ring announcer until [2019](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md).
 During and after the hiatus KPW lost several of their headliners who chose to join the new organization: [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md), [Sawicki](@/w/sawicki.md) and [Gracjan Korpo](@/w/gracjan-korpo.md), as well as the newcomer [Diana](@/w/diana-strong.md).
 
-#### 2023 TV deal and FightBox
+#### 2023: TV deal and FightBox
 
 During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), Chairman Malinowski announced that from this moment on KPW's events would be broadcast on cable TV, on an MMA and wrestling-focused channel FightBox. This was finally realized in April 2024, when FightBox aired Arena 23. On April 2, 2024 [Piękny Kawaler](@/w/piekny-kawaler.md), KPW's owner, booker and head trainer, posted [a photo of himself][kawaler-watching-tv] watching the event on TV, captioning it "the day has come". According to his replies under that post, KPW supplied FightBox with two versions: one with Polish commentary track and one without, so that an English commentary could be recorded for broadcast outside of Poland. The version aired by FightBox in April 2024 had no commentary.
 
-#### 2024 and Extreme Sports
+#### 2024: Extreme Sports
 
 In 2024 the organization continued to hold successful events, often selling out their usual venue [Nowy Harem](@/v/atlantic-nh-gdynia.md). 
 That year's [Godzina Zero](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) show was, unusually, held in a school gymnastics hall instead, trading the club for a bigger venue. It also returned to a Saturday date.
