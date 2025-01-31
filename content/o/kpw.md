@@ -41,7 +41,7 @@ During and after the hiatus KPW lost several of their headliners who chose to jo
 
 During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), Chairman Malinowski announced that from this moment on KPW's events would be broadcast on cable TV, on an MMA and wrestling-focused channel FightBox. This was finally realized in April 2024, when FightBox aired Arena 23. On April 2, 2024 [Piękny Kawaler](@/w/piekny-kawaler.md), KPW's owner, booker and head trainer, posted [a photo of himself][kawaler-watching-tv] watching the event on TV, captioning it "the day has come". According to his replies under that post, KPW supplied FightBox with two versions: one with Polish commentary track and one without, so that an English commentary could be recorded for broadcast outside of Poland. The version aired by FightBox in April 2024 had no commentary.
 
-#### 2024
+#### 2024 and Extreme Sports
 
 In 2024 the organization continued to hold successful events, often selling out their usual venue [Nowy Harem](@/v/atlantic-nh-gdynia.md). 
 That year's [Godzina Zero](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) show was, unusually, held in a school gymnastics hall instead, trading the club for a bigger venue. It also returned to a Saturday date.
@@ -63,6 +63,8 @@ Finally, [Darius](@/w/darius.md) is holding an Iranian flag, followed by [Refere
 
 Source: Facebook @kpwrestling.
 {% end %}
+
+On 18.11.2024 KPW [announced][kpw-on-extreme] a deal with Extreme Sports Channel. The TV station would air KPW shows beginning with [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) which, unlike its counterpart on FightBox, was shown with a commentary by [Krystian Czekaj](@/w/krystian-czekaj.md). The events shown on television were considerably cut down: the running times were only around 1:30&nbsp;h for Arenas and 2:30&nbsp;h for [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md). As a result many of the promos and other non-wrestling segments were shortened or even omitted entirely.
 
 ### Foreign relations
 
@@ -108,3 +110,4 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 
 [kawaler-watching-tv]:https://www.facebook.com/kawalerwrestling/posts/pfbid028kdGNo5vEVnSscGnsCzUr9spHsX14gPKk3ocJ7ogMSnnqPh2cxWsuCfMAUyrGdbyl
 [low-fux]:https://www.facebook.com/photo/?fbid=122119129010468820&set=pb.61564064601704.-2207520000
+[kpw-on-extreme]:https://www.facebook.com/kpwrestling/posts/pfbid0YGB2msLrahPdbVHb9YfF7YeXqQLacmtHD5c3Swuk4KzK4qFatZhkTsDLtvR5DSYDl
