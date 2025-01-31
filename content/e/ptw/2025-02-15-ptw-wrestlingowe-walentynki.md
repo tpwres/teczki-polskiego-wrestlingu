@@ -13,8 +13,8 @@ manifest = "@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki-gallery.toml"
 +++
 
 "Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md), set to take place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
-A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) is going to start and finish at this show. It begins with a round of four quarter-final matches, which means that mathematically, both finalists of the tournament will need to work 3 consecutive matches on the same night.
-Team Turbulence, making their debut in main PTW organization are also current _PTW/WWA Tag Team Champions_, but their titles are not at stake in the championship match.
+A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) is going to take place at this show. It's set to begin with a round of four quarter-final matches, meaning that both finalists of the tournament will need to work three consecutive matches on the same night.
+Team Turbulence, making their debut in main PTW organization are also the current PTW/WWA Tag Team Champions, but their titles are not at stake in the championship match.
 
 ## Build-up
 
