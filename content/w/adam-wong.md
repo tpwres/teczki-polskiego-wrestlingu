@@ -11,7 +11,7 @@ country = ["PL"]
 * Years active: 2021-present
 
 * Gimmicks/nicknames: 
-- "Polish Dragon" Adam Wong {{ org_badge(org='ppw') }}
+  - "Polish Dragon" Adam Wong {{ org_badge(org='ppw') }}
 
 * Trained by:
   - PpW Dojo (2021-2023)
@@ -29,7 +29,7 @@ Due to fast development of PpW and ongoing professionalisation of the roster, es
 
 #### Training
 
-Adam Wong quickly joined [Kombat Pro Wrestling](@/o/kpw.md) shortly after leaving PpW. He attended their training weekends and the 2024 summer camp, and was spotted by public working as part of ring crew at numerous KPW shows the same year. 
+Adam Wong quickly joined [Kombat Pro Wrestling](@/o/kpw.md) shortly after leaving PpW. He attended their training weekends and the 2024 summer camp, and was spotted by fans working as part of ring crew at numerous KPW shows the same year. 
 
 ## In wrestling
 
