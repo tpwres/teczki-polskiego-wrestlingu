@@ -8,7 +8,7 @@ venue = ["gimnazjum-8-gdansk"]
 city = "Gdańsk"
 [extra.gallery]
 1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster. Left to right: [Bianca](@/w/bianca.md), [Klarys](@/w/klarys.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official DDW Facebook" }
-2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "Kasandra vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
+2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "[Kasandra](@/w/kasandra.md) vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
 3 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-1.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
 4 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-2.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
 5 = { path = "2015-05-02-ddw-house-show-2-greg-vs-robert-star-3.jpg", caption = "[Greg](@/w/greg.md) vs [Robert Star](@/w/robert-star.md)", source = "Krystian Malinowski" }
@@ -19,7 +19,8 @@ This was one of the final shows to be held under the [DDW](@/o/ddw.md) banner. A
 Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md), and the need to travel the entire country to run the school and shows now in Gdańsk, [Don Roid](@/w/don-roid.md) would soon close down DDW, selling the ring to a new organization which took over the entire roster. That organization would reveal itself later in October that year as [KPW](@/o/kpw.md), and hold their [first show](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md) later in November.
 
 {% card() %}
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md)'
 - - '[Luxus](@/w/luxus.md)'
   - '[_rookie_ Rex Torpeda](@/w/krystian-malinowski.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
@@ -32,11 +33,14 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
   - s: Battle Royal
 - - '[Mira](@/w/mira.md)'
   - '[Bianca](@/w/bianca.md)'
-  - Kasandra
+  - '[Kasandra](@/w/kasandra.md)'
   - s: Triple Threat Match
-- ['[Robert Star](@/w/robert-star.md)', '[GREG](@/w/greg.md)', {s: Hardcore Match}]
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[GREG](@/w/greg.md)'
+  - s: 'Hardcore Match'
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - "[Kaszub](@/w/kaszub.md), [Klarys](@/w/klarys.md)"
+  - '[Kaszub](@/w/kaszub.md)'
+  - '[Klarys](@/w/klarys.md)'
   - s: Two On One Handicap Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
