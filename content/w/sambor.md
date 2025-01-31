@@ -23,7 +23,6 @@ Sambor is a Polish wrestler best known from his appearances in [Prime Time Wresl
 
 Sambor started his pro wrestling career in [Maniac Zone Wrestling's](@/o/mzw.md) school, [Polska Akademia Wrestlingu](@/o/paw.md). Despite his preparations and training he never got a chance to debut there. Due to the COVID-19 pandemic and very limited training and booking schedule of MZW, Sambor decided to leave the federation and the dojo.
 
-
 ### Prime Time Wrestling (2022-2024)
 
 Sambor joined [Prime Time Wrestling](@/o/ptw.md) soon after leaving MZW. He continued his training until December 2023, when he finally managed to score a debut against [Marco Hammers](@/w/marco-hammers.md) at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md). He was managed by Rusałka and portrayed a babyface slavic warrior. He was was featured in several PTW shows, including a spot in the [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Rumble for [PTW Championship](@/c/ptw-championship.md), and at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where he interrupted [Vincent Caravaggio](@/w/vincent-caravaggio.md) promo, seemingly setting up a potential feud.
@@ -53,10 +52,10 @@ Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024
 
 * Entrance music:
   - "Wojownik" by Żywiołak
-   {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }} (2023-) <br>
-   {{ music(yt='uF-arRQVJiI')}}
-   {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
-   {{ music(apple='640336030?i=640336040')}}
+ {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }} (2023-) <br>
+ {{ music(yt='uF-arRQVJiI')}}
+ {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
+ {{ music(apple='640336030?i=640336040')}}
 
 ## Internet presence
 
