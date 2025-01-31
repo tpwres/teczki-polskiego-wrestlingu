@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych", "Sewi The Referee"]
 country = ["ENGLAND"]
 +++
 
-Marty "The Villain" Scurll is an English professional wrestler, best known from his time in Ring of Honor, New Japan Pro Wrestling, as well as multiple other promotions worldwide, both solo and as part of the Bullet Club stable. In Poland he made two appearances for [Prime Time Wrestling](@/o/ptw.md) in 2022.
+Marty "The Villain" Scurll is an English professional wrestler, best known from his time in Ring of Honor and New Japan Pro Wrestling, as well as multiple other promotions worldwide, both solo and as part of the Bullet Club stable. In Poland he made two appearances for [Prime Time Wrestling](@/o/ptw.md) in 2022.
 
 ## Basic info
 
@@ -21,7 +21,7 @@ Marty "The Villain" Scurll is an English professional wrestler, best known from 
 
 ### Prime Time Wrestling (2022)
 
-Marty Scurll made his debut on Polish soil in February 2022, where he faced - and got defeated by - [Krampus](@/w/krampus.md) at [PTW #2: BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md). He returned to Poland in November the same year, this time facing [Primate](@/w/primate.md), emerging victorious from the match.
+Marty Scurll made his debut on Polish soil in February 2022, where he faced, and was defeated by, [Krampus](@/w/krampus.md) at [PTW #2: BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md). He returned to Poland in November of the same year, this time facing [Primate](@/w/primate.md) and emerging victorious from the match.
 
 ## In wrestling
 
@@ -30,8 +30,8 @@ Marty Scurll made his debut on Polish soil in February 2022, where he faced - an
 
 * Entrance music:
   - "One True Villain" by Hot Tag - Media Works
-    {{ org_badge(orgs=['ptw']) }} (2022) <br>
-    {{ music(yt='BU_SCEBo1VE')}}
+ {{ org_badge(orgs=['ptw']) }} (2022) <br>
+ {{ music(yt='BU_SCEBo1VE')}}
 
 ## Internet presence
 
