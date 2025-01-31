@@ -24,5 +24,5 @@ Some time after mid-to-late 2012, Mazi retired from backyard wrestling, leaving 
 
 ## Championships and accomplishments
 
-* [Polish Xtreme Wrestling]:
+* [Polish Xtreme Wrestling](@/o/pxw.md):
   - ECW Championship (1 time)
