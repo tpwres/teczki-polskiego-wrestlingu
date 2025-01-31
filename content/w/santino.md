@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["IT"]
 +++
 
-Santino Marella is a Canadian professional wrestler best known for his time at [WWE](@/o/wwe.md). On the Polish wrestling scene he is also known for his appearances at [Prime Time Wrestling](@/o/ptw.md)
+Santino Marella is a Canadian professional wrestler best known for his time at [WWE](@/o/wwe.md). On the Polish wrestling scene he is also known for his appearances at [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -21,6 +21,8 @@ Santino Marella is a Canadian professional wrestler best known for his time at [
 ## Professional wrestling career
 
 ### World Wrestling Entertainment (2012)
+
+#### WWE's live events
 
 In April 2012 Santino Marella made his appearance at [WWE RAW House Show](@/e/wwe/2012-04-12-wwe-raw-house-show.md) which took place in the ERGO Arena in Tricity. It was one of the few times when WWE hosted a live event in Poland.
 
