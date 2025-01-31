@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych", "Sewi The Referee"]
 country = ["SCOTLAND"]
 +++
 
-Sheamus is a Scottish professional wrestler, best known for his long tenure in WWE. He performed in Poland twice, back when the federation was touring Europe with its Smackdown house shows and later under the WWE Live brand.
+Sheamus is a Scottish professional wrestler, best known for his long tenure in [WWE](@/o/wwe.md). He performed in Poland twice, back when the federation was touring Europe with their Smackdown house shows and later under the WWE Live brand.
 
 ## Basic info
 
@@ -23,7 +23,7 @@ Sheamus is a Scottish professional wrestler, best known for his long tenure in W
 
 #### House shows in Poland
 
-Sheamus made his first apperance on Polish soil back in November 2011 during [WWE Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) which was held in ERGO Arena in Tri-city area. He defeated Wade Barrett. He made his return to Poland four years later, when he faced and won against Dolph Ziggler during [WWE Live](@/e/wwe/2015-04-15-wwe-live.md) held in April 2015 in Warsaw.
+Sheamus made his first apperance on Polish soil back in November 2011 during [WWE Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) which was held in ERGO Arena in Tricity area. At that show he defeated Wade Barrett. Seamus made his return to Poland four years later, when he faced and won against Dolph Ziggler during the [WWE Live](@/e/wwe/2015-04-15-wwe-live.md) show held in April 2015 in Warsaw.
 
 ## In wrestling
 
