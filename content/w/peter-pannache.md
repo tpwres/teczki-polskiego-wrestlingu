@@ -51,7 +51,7 @@ In 2021 Peter made a return to wrestling when he joined [Prime Time Wrestling](@
 
 ## Championships and accomplishments
 
-* [Kombat Pro Wrestling](@/o/kpw.md)
+* [Kombat Pro Wrestling](@/o/kpw.md):
   - Magnificent Seven Contract Ladder Match (2018)
 
 ## References
