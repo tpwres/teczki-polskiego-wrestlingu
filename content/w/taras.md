@@ -57,7 +57,7 @@ In his Instagram stories, Taras stated that he was supposedly abadoned by his pa
   - _Dzida_ (Spear) (2021-2024)
   - GTS (2024-)
 
-* With [Disco Pablo](@/w/disco-pablo.md)
+* With [Disco Pablo](@/w/disco-pablo.md):
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
 
 * Tag Teams and stables:
@@ -72,7 +72,7 @@ In his Instagram stories, Taras stated that he was supposedly abadoned by his pa
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md)
+* [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md)
 
 ## References
