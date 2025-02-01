@@ -30,7 +30,7 @@ The official name is just "PpW Ewenement". The word _ewenement_ means something 
 #### 2010: The backyard years
 
 PpW dates its origins back to 2010, when a group of teenage friends and classmates started emulating their favourite wrestlers. The original arena for their matches was a public playground, and later a common yard which gave the organization its first name: Polski Podwórkowy Wrestling (_Polish Yard Wrestling_ - note that backyards, in the Anglo-Saxon world defined as private enclosed outdoor areas behind terraced houses, are not common in Poland).
-Until about 2014 the primary location was placed next to the intersection of Kuratowski and Arbuzowa streets in Warsaw. The name for this venue was [Placyk PPW](http://ppw-fandom.tpwres.pl/placyk-ppw), and it had no proper ring.
+Until about 2014 the primary location was placed next to the intersection of Kuratowskiego and Arbuzowa streets in Warsaw. The name for this venue was [Placyk PPW](http://ppw-fandom.tpwres.pl/placyk-ppw), and it had no proper ring.
 
 According to [Biesiad](@/w/biesiad.md), at the same time there was also Polski Szkolny Wrestling (_Polish School Wrestling_), where shoot-style fights between classmates were held in [their school](http://ppw-fandom.tpwres.pl/gubin), complete with a ranking of sorts. That class had significant overlap with the roster of PPW. Later this organization of sorts was renamed to PPW (second P standing for Poszkolny or _After-School_), and later yet renamed to PPPW to distinguish the two. Ultimately, the two merged to create the current incarnation of PpW.
 
@@ -56,9 +56,7 @@ In early December 2024, YouTube channel Newonce uploaded an [interview][newonce-
 In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeared on PpW shows, quitting their promotion openly and criticizing [its owner](@/w/pan-pawlowski.md) on social media. This further boosted PpW's image on the Polish scene as a place dedicated to the joy of wrestling and not commercial endeavors. Later, PpW named this event and the wrestlers "Prime Time Transfers". The first one to appear was [Rafi](@/w/rafi.md), followed by [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and later his tag team partner [Vic Golden](@/w/vic-golden.md).
 
 Over the weekend of March 6-8 2024, PpW wrestlers [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md) posted stories on Instagram, which featured them in a ring that was slightly larger than PpW's regular one. Three days later, on March 11th, Mister Z, the kayfabe executive producer and booker and in real-life also the co-owner of PpW, posted a photo of himself and Andrzej Supron on Instagram. The photo showed them shaking hands and was captioned "Two [guys] happy that the deal went through. Thank you Mr Supron".
-The involvement of Supron suggest that this may be the very same ring he [bought in 2010](@/o/tbw.md#2010-successful-events) for Total Blast Wrestling. Hashtags used in the post seem to confirm this.
-
-(Scroll down to the [gallery](./#gallery) to view screenshots of the stories mentioned.)
+The involvement of Supron suggest that this may be the very same ring he [bought in 2010](@/o/tbw.md#2010-successful-events) for Total Blast Wrestling. Hashtags used in the post seem to confirm this. (Scroll down to the [gallery](./#gallery) to view screenshots of the stories mentioned.)
 
 On the 28th December 2024 PpW launched their [official subscription-based VOD][ppw-vod] with uncensored versions of their shows (including onces previously not available on YouTube), as well as exclusive bonus materials.
 
