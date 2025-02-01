@@ -92,7 +92,7 @@ In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadc
 ## References
 
 * [Article by SixKiller of Attitude Forum](https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time
-* [Undisputed Polska](https://www.youtube.com/@Undisputed-Polska) YouTube channel with video archives of various Polish wrestling broadcasts.
+* [Undisputed Polska](https://www.youtube.com/@Undisputed-Polska/playlists) YouTube channel with video archives of various Polish wrestling broadcasts.
 * [Old Polish TV Wikia][staratelewizja-2007] page for Friday, Jul 6 2007, lists TNA wrestling on Eurosport
 * [Article on WirtualneMedia from 2009][wmedia-eurosport] advertising wrestling on Eurosport
 * [Telemagazyn's archive of Eurosport listings](https://telemagazyn.pl/stacje/eurosport-1/archiwum), other channels also available
