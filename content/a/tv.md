@@ -66,7 +66,7 @@ In September, PpW's social media announced that [Czyste Intencje](@/e/ppw/2023-0
 The channel was sportowa.tv, a general sports-oriented channel available in several smaller cable networks in Poland and over the Internet.
 Social media graphics for that event show the channel's logo among other partners and sponsors. This cooperation appears to have been short-lived, as the channel was not mentioned on any of the later shows, and there is no video of the event on their YouTube channel.
 
-During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), [chairman Malinowski](@/w/krystian-malinowski.md) announced that from this moment on, KPW's events would be broadcast on FightBox. The first show to air was indeed Arena 23. The following shows were recorded with the intention of airing them later, after recording a commentary.
+During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), [chairman Malinowski](@/w/krystian-malinowski.md) announced that from this moment on, KPW's events would be broadcast on FightBox. The first show to air was indeed Arena 23, which was shown without the usual commentary by [Krystian Czekaj](@/w/krystian-czekaj.md). The following shows were recorded with the intention of airing them later, after recording a commentary.
 
 ## 2024
 
@@ -82,8 +82,8 @@ The first one to air was [PTW Underground 4](@/e/ptw/2022-04-24-ptw-underground-
 On November 11th fans noticed that Extreme Sports website now [promoted Legacy of Wrestling][extreme-low-1].
 The following day Legacy [officially confirmed][extreme-low-2] their media partnership, and that their [first show](@/e/low/2024-12-01-low-1.md) would air on Extreme one week after the event, on December 8th.
 
-One week later, on November 18th, Extreme and [KPW](@/o/kpw.md) also posted about signing a deal to air their shows, starting with [KPW Arena 23: Zabójcze Wyzwanie](@/e/kpw/2023-11-24-kpw-arena-23.md) on Saturday, November 23rd.
-It is unclear if their shows will continue to air on FightBox.
+One week later, on November 18th, Extreme and [KPW](@/o/kpw.md) also posted about signing a deal to air their shows, starting with [KPW Arena 23: Zabójcze Wyzwanie](@/e/kpw/2023-11-24-kpw-arena-23.md) (this time with the commentary) on Saturday, November 23rd.
+No further KPW shows aired on FightBox.
 
 ## 2025
 
@@ -92,7 +92,7 @@ In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadc
 ## References
 
 * [Article by SixKiller of Attitude Forum](https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time
-* [Undisputed Polska](https://www.youtube.com/@Undisputed-Polska) YouTube channel with video archives of various Polish wrestling broadcasts.
+* [Undisputed Polska](https://www.youtube.com/@Undisputed-Polska/playlists) YouTube channel with video archives of various Polish wrestling broadcasts.
 * [Old Polish TV Wikia][staratelewizja-2007] page for Friday, Jul 6 2007, lists TNA wrestling on Eurosport
 * [Article on WirtualneMedia from 2009][wmedia-eurosport] advertising wrestling on Eurosport
 * [Telemagazyn's archive of Eurosport listings](https://telemagazyn.pl/stacje/eurosport-1/archiwum), other channels also available
