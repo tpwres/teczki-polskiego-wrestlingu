@@ -38,8 +38,12 @@ Team Turbulence, making their debut in main PTW organization are also the curren
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '???'
   - nc: upcoming
-- - "[Alex Brave](@/w/alex-brave.md)"
-  - "[Blaze](@/w/blaze.md)"
+- - '[Alex Brave](@/w/alex-brave.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
+    nc: upcoming
+- - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - '[Spartan](@/w/spartan.md)'
   - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
     nc: upcoming
 
