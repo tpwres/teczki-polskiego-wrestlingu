@@ -1,14 +1,14 @@
-0000 = { path = "2025-01-24-kpw-arena-27-plakat.jpg", caption = "Official poster, featuring [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
-0001 = { path = "arena-27-rosetti-entrance.webp", caption = "[Rosetti's](@/w/rosetti.md) entrance.", source = "Official KPW Facebook" }
-0002 = { path = "arena-27-kinga-entrance.webp", caption = "[Kinga's](@/w/kinga-miotke.md) entrance.", source = "Official KPW Facebook" }
+0000 = { path = "2025-01-24-kpw-arena-27-plakat.jpg", caption = "Official poster, featuring [Rosetti](@/w/rosetti.md).", source = "m.fotografika" }
+0001 = { path = "arena-27-rosetti-entrance.webp", caption = "[Rosetti's](@/w/rosetti.md) entrance.", source = "m.fotografika" }
+0002 = { path = "arena-27-kinga-entrance.webp", caption = "[Kinga's](@/w/kinga-miotke.md) entrance.", source = "m.fotografika" }
 0003 = { path = "arena-27-acting-chairman-rosetti.webp", caption = "Acting chairman [Rosetti's](@/w/rosetti.md) opens the show.", source = "M3n747" }
 0004 = { path = "arena-27-kinga-1.webp", caption = "The new referee, [Kinga](@/w/kinga-miotke.md).", source = "Krzysztof Zych" }
-0005 = { path = "arena-27-guess-whos-back.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) is back and looking sharp.", source = "Official KPW Facebook" }
+0005 = { path = "arena-27-guess-whos-back.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) is back and looking sharp.", source = "m.fotografika" }
 0006 = { path = "arena-27-opol.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) steps back into the ring after a long break.", source = "Krzysztof Zych" }
 0007 = { path = "arena-27-rosetti-kinga-opol.webp", caption = "[Rosetti](@/w/rosetti.md) talks to the crowd, while referee [Kinga](@/w/kinga-miotke.md) and [Piotr Opolski](@/w/piotr-opolski.md) wait to the side.", source = "M3n747" }
 0008 = { path = "arena-27-kinga-2.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) at the ready.", source = "Krzysztof Zych" }
 0101 = { path = "arena-27-lesaaaaaak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) before his match.", source = "Krzysztof Zych" }
-0102 = { path = "arena-27-one-finger-salute.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) salutes the fans in his typical manner.", source = "Official KPW Facebook" }
+0102 = { path = "arena-27-one-finger-salute.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) salutes the fans in his typical manner.", source = "m.fotografika" }
 0103 = { path = "arena-27-lesak-vs-lato-1.webp", caption = "[Leon Lato](@/w/leon-lato.md) about to be thrown at the ring apron.", source = "Krzysztof Zych" }
 0104 = { path = "arena-27-lesak-vs-lato-2.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) about to introduce [Leon Lato](@/w/leon-lato.md) to the ropes.", source = "Krzysztof Zych" }
 0105 = { path = "arena-27-sexy-lesak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) embodies the Polish proverb &quot;Hungry man thinks of bread&quot;.", source = "M3n747" }
@@ -17,7 +17,7 @@
 0202 = { path = "arena-27-beck-to-the-ring.webp", caption = "Callum Beck sentons onto [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
 0203 = { path = "arena-27-zefir-and-callums-beckside.webp", caption = "[Zefir](@/w/zefir.md) strikes Beck.", source = "Krzysztof Zych" }
 0204 = { path = "arena-27-oh-snap.webp", caption = "Callum Beck about to seemingly snap [Zefir's](@/w/zefir.md) fingers.", source = "M3n747" }
-0205 = { path = "arena-27-rifez.webp", caption = "[Zefir](@/w/zefir.md) with his mask turned back-to-front.", source = "Official KPW Facebook" }
+0205 = { path = "arena-27-rifez.webp", caption = "[Zefir](@/w/zefir.md) with his mask turned back-to-front.", source = "m.fotografika" }
 0206 = { path = "arena-27-zefir-back-to-front.webp", caption = "Callum Beck blindsides [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
 0207 = { path = "arena-27-sexy-beck.webp", caption = "Callum Beck thrown out of the ring by Zefir.", source = "M3n747" }
 0208 = { path = "arena-27-zefir-wins.webp", caption = "[Kinga](@/w/kinga-miotke.md) announces [Zefir's](@/w/zefir.md) victory over Callum Beck.", source = "M3n747" }
@@ -45,7 +45,7 @@
 0506 = { path = "arena-27-chemik-and-kinga.webp", caption = "[Chemik](@/w/chemik.md) delivers a parting insult to [Kinga](@/w/kinga-miotke.md).", source = "M3n747" }
 0507 = { path = "arena-27-koniec-1.webp", caption = "[Chemik](@/w/chemik.md) confronted by [Filip Fux](@/w/filip-fux.md) at the end of the show; referee [Kinga](@/w/kinga-miotke.md) watches from the corner.", source = "Krzysztof Zych" }
 0508 = { path = "arena-27-koniec-2.webp", caption = "Chemik and [Filip Fux](@/w/filip-fux.md) held back by ring crew members, as [Piotr Opolski](@/w/piotr-opolski.md) rushes in.", source = "Krzysztof Zych" }
-0509 = { path = "arena-27-brawl.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) valiantly attempts to break up the brawl between Chemik and Filip Fux.", source = "Official KPW Facebook" }
+0509 = { path = "arena-27-brawl.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) valiantly attempts to break up the brawl between Chemik and Filip Fux.", source = "m.fotografika" }
 9901 = { path = "arena-27-arek-paterek-i-bianca.webp", caption = "[Arek Paterek](@/w/arek-paterek.md) after the show. Standing in front of him, looking to the left, is Bianca.", source = "M3n747" }
-9902 = { path = "arena-27-hammer-time.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) relegated to the bell duty. To his left sits a medical staff member.", source = "Official KPW Facebook" }
+9902 = { path = "arena-27-hammer-time.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) relegated to the bell duty. To his left sits a medical staff member.", source = "m.fotografika" }
 9903 = { path = "arena-27-tune-in-the-key-of-wong.webp", caption = "[Adam Wong](@/w/adam-wong.md) fine-tunes the ropes.", source = "Krzysztof Zych" }
