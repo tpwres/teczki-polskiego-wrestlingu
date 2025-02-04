@@ -3,6 +3,6 @@
 {# no space between svg and span is deliberate #}
 <a href="{{ config.extra.tts_root ~ '&text=' ~ text_param }}" target="_blank" class="tts">
   <svg class="feather-inline ipa-play-icon" title="Search">
-    <use href="{{ sprite }}#play"/>
+    <use href="{{ sprite }}#speech"/>
   </svg><span class="IPA" lang="und-Latn-fonipa">{{ body | safe }}</span>
 </a>
