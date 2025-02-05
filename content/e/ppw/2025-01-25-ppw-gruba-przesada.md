@@ -124,6 +124,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 * [Facebook post announcing the stipulation poll for Dobroniak vs Isnorr](https://www.facebook.com/photo/?fbid=1114549990675392&set=a.499910772139320)
 * [Facebook post announcing poll results](https://www.facebook.com/OficjalnePPW/posts/pfbid02LJth2szqUbP67RwvSKCARjpKQJPmkyxdVYAadC9aaLPGrwmjTjf7aeGAdGKScmjql)
 * [Full show on YouTube](https://www.youtube.com/watch?v=7BqcLexnnFI)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/gruba-przesada-25-full-show) (requires paid subscription)
 * [Goblin's reel on Olgierd](https://www.facebook.com/reel/8908777399206097)
 * [Instagram reel - Mister Z and Gustav Gryffin recap 2024](https://www.instagram.com/reel/DEXqo47K6Is/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * [Facebook post - Fox's decision](https://www.facebook.com/share/p/15TDKLcbE6/)
