@@ -15,10 +15,10 @@ manifest = "@/e/ppw/2015-09-05-ppw-neomania-iv-gallery.toml"
 Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 17 street. According to the [PpW Wikia][neo-4-wikia], the show was released on DVD.
 
 {% card() %}
-- - [Steven Strong](@/w/biesiad.md)
-  - [Superior](@/w/superior.md)
-  - [Ultimo Combo](@/w/johnny-blade.md)
-  - [Hirinus de Exsantus](@/w/hirinus.md)
+- - '[Steven Strong](@/w/biesiad.md)'
+  - '[Superior](@/w/superior.md)'
+  - '[Ultimo Combo](@/w/johnny-blade.md)'
+  - '[Hirinus de Exsantus](@/w/hirinus.md)'
   - s: 'Elimination Fatal 4 Way Match'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bill Feager](@/w/feager.md)'
@@ -34,7 +34,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
   - '[Automatico](@/w/automatico.md)'
   - s: '2 Out Of 3 Falls Match'
     c: 'PpW Light Heavyweight Championship'
-    n: Mister Z won the match 2:1'
+    n: 'Mister Z won the match 2:1'
 - credits:
     Host: '[Sun Ju](@/w/rob-scaffold.md)'
     Referees: 'Sędzia Jędrek'
