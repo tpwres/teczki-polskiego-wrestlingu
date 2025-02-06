@@ -15,6 +15,11 @@ country = ["PL"]
  {{ music(yt='y08pFwmgKz8')}}
  {{ music(spot='5BfUdzWYfhnH9MLsCxpQRw')}}
  {{ music(apple='1443164253?i=1443164584')}}
+  - "Raining Blood" by Slayer
+ {{ org_badge(orgs=['ppw']) }} (as KAT) <br>
+ {{ music(yt='CkaE237oiwE')}}
+ {{ music(spot='4fiOTntQKr24p07FvQDHZE')}}
+ {{ music(apple='1733768895?i=1733769810')}}
   - "Thunderstruck" by AC/DC
  {{ org_badge(orgs=['ppw', 'low']) }} <br>
  {{ music(yt='v2AC41dglnM')}}
