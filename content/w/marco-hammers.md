@@ -50,6 +50,16 @@ He was a part of Zmowa team in a Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-1
 
 During the [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) non-canon show he brought over his PTW Intergender Championship and briefly lost it to Istotna Martynka - co-host of YouTube's channel "Istota Wrestlingu" - but he has managed to retain it the same night.
 
+### Maniac Zone Wrestling (2024)
+
+In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) show, where he faced and got defeated by another ex-PTW wrestler [Samson](@/w/samson.md).
+
+### Legacy of Wrestling (2024)
+
+#### Feud with Filip Fux
+
+Marco Hammers was seen as one of the characters in a first trailers for new wrestling project in Poland - [Legacy of Wrestling](@/o/low.md). In one of episodes of his YouTube vlog series - "Łysy Vlog" - he got into conflict with KPW wrestler [Filip Fux](@/w/filip-fux.md) over a creatine during their joint trip to Hungary for a HCW show. This internet feud evolved into a match at Legacy's [first ever show](@/e/low/2024-12-01-low-1.md). Marco won this match after Olgierd's distraction, and in a post-match beatdown he and Olgierd have managed to snatch Filip's [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) belt and pose with it, which strongly suggested that Legia Łysych wants to face current champions for said title.
+
 ## In wrestling
 
 * Finishers:
