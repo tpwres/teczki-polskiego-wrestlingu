@@ -13,7 +13,7 @@ Manny is a retired Polish backyard wrestler known for his time in [Polish Xtreme
 * Years active: 2011-2013
 * Gimmicks/nicknames:
   - Manny {{ org_badge(orgs=['pxw']) }}
- 
+
 ## Professional wrestling career
 
 ### Polish Xtreme Wrestling (2011-2013)
@@ -26,7 +26,7 @@ Manny made his debut in Głuchołazy-based backyard federation [Polish Xtreme Wr
   - F-5 (2011-2013)
 
 * Entrance music:
-  
+
 - "Animal I Have Become" by Three Days Grace
   {{ org_badge(orgs=['pxw']) }} (2011-2013) <br>
   {{ music(yt='xqds0B_meys')}}
