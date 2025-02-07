@@ -18,7 +18,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
 - - '[Steven Strong](@/w/biesiad.md)'
   - '[Superior](@/w/superior.md)'
   - '[Ultimo Combo](@/w/johnny-blade.md)'
-  - '[Hirinus de Exsantus](@/w/mister-z.md)'
+  - '[Hirinus de Exsantus](@/w/hirinus.md)'
   - s: 'Elimination Fatal 4 Way Match'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bill Feager](@/w/feager.md)'
