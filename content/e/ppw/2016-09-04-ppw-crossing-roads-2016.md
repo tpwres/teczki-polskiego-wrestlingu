@@ -25,7 +25,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
   - s: Tag Team Match
     c: PpW Tag Team Championship
 - - '[Hades](@/w/olgierd.md)'
-  - 'Superior'
+  - '[Superior](@/w/rob-scaffold.md)'
   - s: PpW YouTube Championship
 - - '[Mister Z](@/w/mister-z.md)(c)'
   - '[KAT](@/w/biesiad.md)(c)'
@@ -42,7 +42,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
     [Feager](@/w/feager.md)
   - s: 3 vs 3 Elimination Tag Team Match
 - credits:
-    Referee: '[Steven Strong](@/w/biesiad.md), [Michael HT](@/w/michael-ht.md), ???'
+    Referee: '[Steven Strong](@/w/biesiad.md), [Michael HT](@/w/michael-ht.md), Sędzia Jędrek'
     Commentary: '???, ???'
 {% end %}
 

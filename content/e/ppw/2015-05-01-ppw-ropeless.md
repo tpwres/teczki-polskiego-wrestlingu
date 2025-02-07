@@ -17,7 +17,7 @@ Ropeless was an early PpW show from the backyard era, held outdoors at [Winogron
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Edno'
 - - 'Electrico'
-  - 'Superior'
+  - '[Superior](@/w/rob-scaffold.md)'
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Rob Hardy](@/w/rob-scaffold.md)'

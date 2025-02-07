@@ -18,7 +18,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 
 {% card() %}
 - d: Day 1
-- - Superior
+- - '[Superior](@/w/rob-scaffold.md)'
   - '[Cade Bruce](@/w/mister-z.md)'
   - nc: '?'
 - - '[Direk](@/w/direk.md)'

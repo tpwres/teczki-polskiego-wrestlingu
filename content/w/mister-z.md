@@ -17,7 +17,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
 * Years active: 2010-present
 * Gimmicks/nicknames:
   - Mister Z {{ org_badge(orgs=['ppw', 'mzw']) }}
-  - Jim Enerico {{ org_badge(orgs=['ppw']) }} (2017)
+  - Jim Enerico {{ org_badge(orgs=['ppw']) }} (2015-2017)
   - Cade Bruce {{ org_badge(orgs=['dfw', 'ppw']) }} (2017; later only at non-canon shows)
   - Jim Hardy {{ org_badge(orgs=['ppw']) }} (2013-2015)
   - Miłosz Z {{ org_badge(orgs=['ppw']) }} (non-canon shows)
@@ -86,7 +86,12 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
   - [Zmowa](@/a/the-collusion.md) (2024-)
 
 * Entrance music:
-  - "Take a Step (Instrumental Tribe Master)" by Tribeleader
+  - "Them Bones" by Alice in Chains
+ {{ org_badge(orgs=['ppw']) }} (2015, as Jim Enerico) <br>
+ {{ music(yt='zTuD8k3JvxQ')}}
+ {{ music(spot='4A065x9kJt955eGVqf813g')}}
+ {{ music(apple='157316517?i=157316531')}}
+ - "Take a Step (Instrumental Tribe Master)" by Tribeleader
  {{ org_badge(orgs=['ppw']) }} (2019-2022) <br>
  {{ music(yt='grvsOlS9fRg')}}
   - "In Bloom" by Nirvana (2023)
