@@ -29,8 +29,8 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 {% card() %}
 -"[Goblin](@/w/goblin.md)"
 -"[Olgierd](@/w/olgierd.md)"
--nc: upcoming
- s: Dog Collar Match
+ -nc: upcoming
+  s: Dog Collar Match
 {% end %}
 
 ### References
