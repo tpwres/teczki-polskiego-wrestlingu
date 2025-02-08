@@ -23,11 +23,18 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * _VIP pack_ &ndash; 213,00 PLN (approx. 50 EUR, 42 GBP or 51.5 USD); entry + special seats (ringside or bleachers) + commemorative limited edition T-shirt + 2 servings of drinks
 
 #### Build-up
-Along with the event announcement, PpW announced "the largest match in PpW history". This match is supposed to contain 20 competitors in a single ring, though the exact formula is as yet unknown.
+* Along with the event announcement, PpW announced "the largest match in PpW history". This match is supposed to contain 20 competitors in a single ring, though the exact formula is as yet unknown.
+* [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md) continued to cross paths ever since July. While Olgierd vowed to end Goblin, the latter always found a way to one-up him. At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) Goblin interfered in a 6 man tag match, dragging Olgierd away on a dog leash. After weeks of social media build-up, PpW announced they will face-off in Dog Collar Match - the first in Poland.
 
-{{ skip_card() }}
+{% card() %}
+-"[Goblin](@/w/goblin.md)"
+-"[Olgierd](@/w/olgierd.md)"
+-nc: upcoming
+ s: Dog Collar Match
+{% end %}
 
 ### References
 
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1137639111699813&set=a.499910772139320)
 * [Tickets for the event](https://stage24.pl/events/ppw-ewenement-teraz-albo-nigdy-4054)
+* [Dog Collar match announced](https://www.facebook.com/100063612039504/posts/1161155472681510/?rdid=Am24fR4aM5mpCYOs#)
