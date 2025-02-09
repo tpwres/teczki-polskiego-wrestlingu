@@ -4,7 +4,7 @@ from pathlib import Path
 from card import Card
 import tomllib
 from sys import exit, stderr
-from typing import Tuple, Iterable, Optional
+from typing import Tuple, Iterable, Optional, Any
 from io import TextIOBase
 
 
@@ -43,7 +43,18 @@ class Page:
         return (fm, len(matter), io.read())
 
     @property
-    def title(self): return self.front_matter['title']
+    def title(self) -> str: return self.front_matter['title']
+
+    def taxonomy(self, key) -> list[str]:
+        taxonomies = self.front_matter.get('taxonomies', None)
+        if not taxonomies: return []
+
+        return taxonomies[key]
+
+    @property
+    def extra(self) -> dict[str, Any]:
+        return self.front_matter.get('extra', {})
+
 
     def __repr__(self):
         return f"<{self.__class__.__name__}({self.path})>"
@@ -68,6 +79,28 @@ class EventPage(Page):
 
     def __repr__(self):
         return f"<EventPage({self.path}) date={self.event_date} orgs={self.orgs}>"
+
+    @property
+    def city(self) -> Optional[str]:
+        # TODO: Add a method to get the extra block (as property?) up in Page
+        fm = self.front_matter
+        extra = fm.get('extra', None)
+        if not extra: return None
+
+        match extra.get('city', None):
+            case str(city):
+                return city
+            case [*more_cities]:
+                # Quick hack, consumers should handle a list
+                return more_cities[0]
+
+
+    @property
+    def venue(self) -> Optional[str]:
+        try:
+            return self.taxonomy('venue')[0]
+        except KeyError:
+            return None
 
 
 class OrgPage(Page):
