@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
+Marcelito is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He currently performs in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
+
 ## Basic Info
 
 * Years active: 2021-present
