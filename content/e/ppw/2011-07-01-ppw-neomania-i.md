@@ -42,6 +42,6 @@ Neomania was the inaugural show in the Neomania series of PpW's early backyard s
 
 ### References
 
-* [Ultimo Combo vs La Parka ](https://www.youtube.com/watch?v=igbjryET25w)
+* [Ultimo Combo vs La Parka on YouTube](https://www.youtube.com/watch?v=igbjryET25w)
 
 [ppw-wiki-neo-1]: https://ppw-fandom.tpwres.pl/ppw-neomania-i
