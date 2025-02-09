@@ -21,11 +21,11 @@ city = "Chorzów"
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Boro](@/w/boro.md)'
-  - '[Dawid Seńko](@/w/puncher.md)'
-  - Dorian
+  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - 'Dorian'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Karol Górski](@/w/iskra.md)'
-  - Martin Guerrero
+  - 'Martin Guerrero'
   - '[Michał "Mutant" Świątkowski](@/w/mutant.md)'
   - '[Sinister](@/w/sinister.md)'
   - s: Battle Royal
