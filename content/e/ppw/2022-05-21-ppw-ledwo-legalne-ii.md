@@ -15,7 +15,7 @@ path = "pov-niecheci.webp"
 caption = "Even the cameraman doesn't like Tony Sk1n."
 source = "Official PpW VOD"
 [extra.gallery.3]
-path = "rafters"
+path = "rafters.webp"
 caption = "[Biesiad Strong](@/w/biesiad.md) about to jump from the rafters."
 source = "Official PpW VOD"
 +++
