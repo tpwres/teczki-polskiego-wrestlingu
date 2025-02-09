@@ -1,6 +1,7 @@
 +++
 title = "PpW Kiedyś Będzie Lepiej"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue = ["ognicho"]
