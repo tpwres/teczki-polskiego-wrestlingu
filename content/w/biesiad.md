@@ -20,6 +20,11 @@ country = ["PL"]
  {{ music(yt='CkaE237oiwE')}}
  {{ music(spot='4fiOTntQKr24p07FvQDHZE')}}
  {{ music(apple='1733768895?i=1733769810')}}
+  - "Can't Stop" by Red Hot Chili Peppers
+ {{ org_badge(orgs=['ppw']) }} <br>
+ {{ music(yt='8DyziWtkfBw')}}
+ {{ music(spot='3ZOEytgrvLwQaqXreDs2Jx')}}
+ {{ music(apple='945578420?i=945578427')}}
   - "Thunderstruck" by AC/DC
  {{ org_badge(orgs=['ppw', 'low']) }} <br>
  {{ music(yt='v2AC41dglnM')}}
