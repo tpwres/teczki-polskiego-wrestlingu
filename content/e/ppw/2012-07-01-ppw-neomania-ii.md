@@ -35,7 +35,7 @@ Neomania II was PpW's early backyard show that took place at an unknown date(s) 
 * According to the [PpW Wikia][ppw-wiki-neo-2], RoodWood and Red Dorada are the same person (also known as Mati), and his fight against Angel Guerrero was the first video uploaded to the PpW YouTube channel.
 * No video from the Tag Team match is available, and the results aren't known.
 * The [PpW Wikia][rej-mysterjo] describes their "Rey Mysterio" as a knock-off of the WWE contestant.
-* Angel Guerrero was standing in for Pan Pionha (roughly _Mister Feest_), who no-showed the fight (just like at Neomania I).
+* Angel Guerrero was standing in for Pan Pionha (roughly _Mister Feest_), who no-showed the fight (just like at [Neomania I](@/e/ppw/2011-07-01-ppw-neomania-i.md)).
 * Despite there being a commentator's table set up, with a person sitting behind it, the actual commentary for Dorada vs Guerrero was recorded separately by two people.
 * The commentary for the main event was provided live by the cameraman, although [Johnny Blade](@/w/johnny-blade.md) was at the commentator's table, calling the fight at the same time. The cameraman even points him out early in the fight.
 * [Mister Z](@/w/mister-z.md) is announced as "hailing from Warsaw in Poland, weighing at... however many kilograms".
