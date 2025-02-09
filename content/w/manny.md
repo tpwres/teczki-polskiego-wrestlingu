@@ -26,8 +26,7 @@ Manny made his debut in Głuchołazy-based backyard federation [Polish Xtreme Wr
   - F-5 (2011-2013)
 
 * Entrance music:
-
-- "Animal I Have Become" by Three Days Grace
+  - "Animal I Have Become" by Three Days Grace
   {{ org_badge(orgs=['pxw']) }} (2011-2013) <br>
   {{ music(yt='xqds0B_meys')}}
   {{ music(spot='56sk7jBpZV0CD31G9hEU3b')}}
