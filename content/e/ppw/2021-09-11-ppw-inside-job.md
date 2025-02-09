@@ -16,7 +16,7 @@ caption = "The future [Ricardo Diesel](@/w/ricardo-diesel.md) visible in the cro
 source = "Official PpW VOD"
 +++
 
-Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 2021, the twentieth anniversary of the infamous WTC terrorist incident. The event's name was a reference to popular conspiracy theories concerning that incident.
+Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 2021, the twentieth anniversary of the infamous WTC terrorist attacks. The event's name was a reference to a popular conspiracy theories concerning that incident.
 
 {% card() %}
 - - '[Tony Sk1n](@/w/tony-sk1n.md)'
