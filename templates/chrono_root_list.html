@@ -10,5 +10,10 @@
 {% if page.extra.events_header %}
   <h2>Events</h2>
 {% endif %}
-{% include "events/from_chrono_root.html" %}
+{% if page.extra.compact_event_list %}
+  {% include "events/from_chrono_root_compact.html" %}
+{% else %}
+  {% include "events/from_chrono_root.html" %}
+{% endif %}
+
 {% endblock content %}
