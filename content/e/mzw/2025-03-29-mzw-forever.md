@@ -19,7 +19,11 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * Along with the show's announcement, a poster featuring [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) was posted confirming his appearance.
 * The first competitor to be officially announced was [Marcelito](@/w/marcelito.md), who mostly appears for [PpW](@/o/ppw.md). With MZW's notably thin roster, this set the tone for yet another cross-over MZW show.
 
-{{ skip_card() }}
+{% card(predicted=true) %}
+- - 'Marcus Monere'
+  - '[Sambor](@/w/sambor.md)'
+  - nc: upcoming
+{% end %}
 
 ## References
 
