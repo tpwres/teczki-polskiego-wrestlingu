@@ -20,6 +20,6 @@ Rambo: Salsakid Rambo
 Serg Sullivan: '"The Enigma" Serg Sullivan'
 Tomczak:
   - Bodyguard
-  - TOMCZAK
+#  - TOMCZAK # Usunąć komentarz w razie potrzeby; na razie nie ma wpisanego żadnego wystąpienia wielkimi
 Tony Sheen: 'Tony "The River Man" Sheen'
 Wade Barrett: Bad News Barrett
