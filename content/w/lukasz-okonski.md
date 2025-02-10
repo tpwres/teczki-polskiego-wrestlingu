@@ -23,11 +23,14 @@ country = ["PL"]
 
 #### Debut
 
-Starting with [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md), PTW moved from Chorzów to Kozłów and settled in a local [hotel/restaurant](@/v/dworek-kozlow.md) owned by Łukasz Okoński. He became increasingly involved in the product, first appearing in promo segments, then becoming PTW's co-owner and later the same year making his in-ring debut against Serg Sullivan. His appearance sparked some controversy, as he wore a BDSM-style mask and was led into the ring on a chain held by a scantly-clad woman, which seemd contrary to the promotion's intended family-friendly image.
+Starting with [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md), PTW moved from Chorzów to Kozłów and settled in a local [hotel/restaurant](@/v/dworek-kozlow.md) owned by Łukasz Okoński. He became increasingly involved in the product, first appearing in promo segments, then becoming PTW's co-owner and later the same year making his in-ring debut against Serg Sullivan. His debut appearance sparked some controversy, as he wore a BDSM-style mask and was led into the ring on a chain held by a scantly-clad woman, which seemed contrary to the promotion's intended family-friendly image.
 
 #### Feud with Pawłowski
 
-At [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) Łukasz's business partner [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) got involved into a rivalry against the current [PTW Champion](@/c/ptw-championship.md) [Puncher](@/w/puncher.md). This was caused by Puncher's attack on Okoński at [Underground 24](@/e/ptw/2024-11-16-ptw-underground-24.md), where the champion put Łukasz through a table. In the main event of Underground 25 Puncher was set to defend his championship against [Spartan](@/w/spartan.md), but shockingly, Pawłowski turned heel and attakced Spartan with a chair, leading to a conflict between the two owners. During the build-up before the [next show](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md), Łukasz was trying to reach out to Pawłowski, but to no avail. They finally faced off at the show, where Pawłowski officialy turned not only on the fans, but also on his business partner by kicking him in the groin.
+At [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) Łukasz's business partner and PTW founder [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) got involved into a rivalry against the current [PTW Champion](@/c/ptw-championship.md) [Puncher](@/w/puncher.md).
+This was caused by Puncher's attack on Okoński at [Underground 24](@/e/ptw/2024-11-16-ptw-underground-24.md), where the champion put Łukasz through a table.
+In the main event of Underground 25 Puncher was set to defend his championship against [Spartan](@/w/spartan.md), but shockingly, Pawłowski turned heel and attacked Spartan with a chair, leading to a conflict between the two owners.
+During the build-up for the [next show](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md), Łukasz was trying to reach out to Pawłowski, but to no avail. They finally faced off at the show, where Pawłowski officially turned not only on the fans, but also on his business partner by kicking him in the groin, followed by a chair to the back.
 
 ## In wrestling
 

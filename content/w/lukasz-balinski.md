@@ -13,7 +13,7 @@ country = ["PL"]
 * Years active: 2021-present
 * Gimmicks/nicknames:
   - Łukasz "Balik" Baliński {{ org_badge(orgs=['ptw', 'low']) }}
- 
+
 ## Professional wrestling career
 
 ### Wrestling content creator (2016-2021)
@@ -22,7 +22,7 @@ country = ["PL"]
 
 ### Prime Time Wrestling (2021-2024)
 
-In 2021 Łukasz "Balik" Baliński joined [Arkadiusz Paterek](@/w/arek-paterek.md) as an official commentator for the new wrestling project in Poland, called [Prime Time Wrestling](@/o/ptw.md). He debuted as a color commentator at PTW's first show: [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). From that point on he continued his tenure in PTW working alongside Arek Paterek and [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) at many PTW shows. He eventually [left the federation](@/a/ptw-exits.md) along with numerous talent after the fiasco of PTW's sixth major show, [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
+In 2021 Łukasz joined [Arkadiusz Paterek](@/w/arek-paterek.md) as an official commentator for the new wrestling project in Poland, called [Prime Time Wrestling](@/o/ptw.md). He debuted as a color commentator at PTW's first show: [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). From that point on he continued his tenure in PTW working alongside Arek Paterek and [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) at multiple PTW shows. He eventually [left the federation](@/a/ptw-exits.md) along with numerous talent after the fiasco of PTW's sixth major show, [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 
 ### Legacy of Wrestling (2024)
 
