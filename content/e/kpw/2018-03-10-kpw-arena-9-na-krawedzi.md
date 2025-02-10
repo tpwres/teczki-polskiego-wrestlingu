@@ -53,7 +53,7 @@ Attendance: estimated 400
 
 ### References
 
-* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-9/)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=188307)
+* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-9/)
 * [Highlights video](https://www.youtube.com/watch?v=SnHPCkTeOdg)
 * [After the hardcore match](https://www.youtube.com/watch?v=CmCESeZpn_w)

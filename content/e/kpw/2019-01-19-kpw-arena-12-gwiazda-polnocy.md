@@ -40,8 +40,8 @@ The event was almost cancelled due to unrelated but tragic circumstances in the 
 
 ### References
 
-* [Facebook event page](https://www.facebook.com/events/188141545355589/)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=224366)
+* [Facebook event page](https://www.facebook.com/events/188141545355589/)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-12/)
 
 [adamowicz-stab-wiki]: https://en.wikipedia.org/wiki/Assassination_of_Pawe%C5%82_Adamowicz

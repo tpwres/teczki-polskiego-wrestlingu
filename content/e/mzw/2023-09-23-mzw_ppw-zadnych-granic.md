@@ -40,6 +40,6 @@ source = "Official MZW Facebook"
 
 ## References
 
-* [Facebook event page](https://www.facebook.com/events/1031532237862352)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=375104)
+* [Facebook event page](https://www.facebook.com/events/1031532237862352)
 * [YouTube playlist](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8ge-csZg10eYBYqmmANbvAK), each match is a separate video

@@ -23,3 +23,7 @@ hide_results = true
   - s: Referees Gauntlet Match
     nc: upcoming
 {% end %}
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=418109)

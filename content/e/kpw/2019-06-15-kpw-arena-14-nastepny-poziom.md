@@ -53,11 +53,9 @@ This event had a major foreign guest - British wrestler Mark Haskins, who by the
 
 * On an episode of [Istota Wrestlingu][istota-202501], [PpW's](@/o/ppw.md) [Mister Z](@/w/mister-z.md) recalled that he and [Michael HT](@/w/michael-ht.md) were present at this event as fans, and he in particular was very impressed with Piękny Kawaler vs Mark Haskins.
 
-
 ## References
 
-* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-14/), with a recap video
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=232400)
-
+* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-14/), with a recap video
 
 [istota-202501]: https://www.youtube.com/watch?v=_YTLpybrUL8

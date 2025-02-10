@@ -21,5 +21,5 @@ city = "Niedźwiedzica"
     Referees: '[Sędzia Matt2Hot](@/w/matt2hot.md)'
 {% end %}
 
-* [Cagematch link](https://www.cagematch.net/?id=1&nr=112870)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=112870)
 * [YouTube video](https://www.youtube.com/watch?v=TtRHwYXVLB0)
