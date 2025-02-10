@@ -35,7 +35,7 @@ This event saw the DFW debuts of [Rob Scaffold](@/w/rob-scaffold.md) and [Direk]
   - c: '[DFW Championship](@/c/dfw-championship.md)'
     s: Tournament Final Match
 - credits:
-    Commentary: 'Seth Donner, WWEPolandNatioN'
+    Commentary: 'Seth Donner, Kuba z WWEPolandNatioN'
 {% end %}
 
 ### References
