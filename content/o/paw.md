@@ -74,7 +74,7 @@ This period also saw the formation of a social group later called "[The Greens](
 
 After Justin and Asmund left, Shadow became the single permanent coach in PAW.
 This reduced the training sessions' frequency down to about once per month or two.
-The academy itself relocated to a much smaller venue, located at Aleksandra Ostrowskiego street, which was also the place in which the COVID-era [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) series was recorded.
+The academy itself relocated to a much smaller venue, located at Aleksandra Ostrowskiego street, which was also the place in which the COVID-era [Project Basement](@/e/project-basement.md) series was recorded.
 Despite this, PAW continued to hold summer camps in 2020 and 2021, which had worse attendance numbers than before.
 
 PAW suffered its biggest setback when multiple MZW talent and PAW rookies decided to join the newly created [PTW](@/o/ptw.md) in 2021.

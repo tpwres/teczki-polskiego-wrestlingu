@@ -70,7 +70,7 @@ During that time Prince Victor also grew closer to [The Greens](@/a/the-greens.m
 
 #### Return to MZW (2021)
 
-Victor made his official in-ring return to MZW during the COVID-era taped show series called [MZW Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md).
+Victor made his official in-ring return to MZW during the COVID-era taped show series called [MZW Project Basement](@/e/project-basement.md).
 After that he made yet another appearance, facing against [Shadow](@/w/shadow.md) in a No Disqualification Match at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) - the first show after the pandemic.
 His return there also didn't last long - just like other runs in Vic's career. After the exodus of The Greens he followed his colleagues and left Maniac Zone Wrestling for the second time.
 
