@@ -59,6 +59,6 @@ For this event, KPW invited the well-traveled Maltese wrestler Gianni Valletta, 
 
 ### References
 
-* [Full event on YouTube](https://www.youtube.com/watch?v=kAp3we-kg-0)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=335612)
+* [Full event on YouTube](https://www.youtube.com/watch?v=kAp3we-kg-0)
 * [Facebook event page](https://www.facebook.com/events/357134892922305/)

@@ -24,5 +24,5 @@ city = "Niedźwiedzica"
 
 ## References
 
-* [Cagematch link](https://www.cagematch.net/?id=1&nr=322458)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322458)
 * [Youtube video](https://www.youtube.com/watch?v=kvemG5gWOUo)

@@ -42,11 +42,11 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
 
 ### References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=145950)
 * [WrestleFans recap video](https://youtu.be/1kVqHeViz_o)
 * [Highlights video: Red Thunder vs Szymon Siwiec](https://youtu.be/wM6lUrd9IJI)
 * [Short article](https://www.glucholazyonline.com.pl/rozmaitosci/889-gala-wrestlingu) by Głuchołazy Online covering the event, includes the above video
 * [Event announcement](https://www.glucholazyonline.com.pl/rozmaitosci/824-wrestling-powraca-do-glucholaz) by Głuchołazy Online
 * [Mywrestling's recap](https://mywrestling.com.pl/mzw-champions-war-ii-relacja-po-gali/)
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=145950)
 
 [wosp]: https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity

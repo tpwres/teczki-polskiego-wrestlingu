@@ -52,7 +52,7 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 
 ### References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=161729)
 * [KPW Kombat TV #8](https://www.youtube.com/watch?v=sFsT2ZRhugw), with a hour-long recap of all matches
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2016/)
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=161729)
 * [Facebook event page](https://www.facebook.com/events/1649173802070000/)

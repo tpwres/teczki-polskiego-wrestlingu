@@ -43,7 +43,7 @@ Several years later, Karol would become [Iskra](@/w/iskra.md) in [Prime Time Wre
 
 ### References
 
-* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-6/)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=175306)
+* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-6/)
 * [KPW Kombat TV S2E4](https://youtu.be/idP3Fr7vcuE), covers [Sawicki](@/w/sawicki.md) vs Bravo
 * [Video: event highlights](https://www.youtube.com/watch?app=desktop&v=3G1TcMu5NUI)

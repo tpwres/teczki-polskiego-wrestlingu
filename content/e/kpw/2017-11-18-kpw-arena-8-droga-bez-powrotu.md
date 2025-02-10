@@ -41,6 +41,6 @@ Attendance: about 210
 
 ### References
 
-* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-8/)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=188299)
+* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-8/)
 * [Facebook event page](https://www.facebook.com/events/156002404995943/)

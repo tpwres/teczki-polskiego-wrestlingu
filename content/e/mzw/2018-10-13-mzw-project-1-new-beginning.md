@@ -49,6 +49,6 @@ source = "MZW / Krzysztof Zych"
 
 ### References
 
-* [Cagematch link](https://www.cagematch.net/?id=1&nr=322460)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322460)
 * [Facebook photo album](https://www.facebook.com/media/set/?set=a.1436496766494545&type=3)
 * [Recap by MZW](https://youtu.be/2pkg3X3kyY0)
