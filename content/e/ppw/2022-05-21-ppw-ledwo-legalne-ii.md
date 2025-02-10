@@ -47,7 +47,7 @@ The show is notable for being the first PpW event not to be held at the [2Koła 
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
-	Commentary: '???'
+    Commentary: '???'
 {% end %}
 
 ### Recap
