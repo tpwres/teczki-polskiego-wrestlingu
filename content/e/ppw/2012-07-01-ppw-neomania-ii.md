@@ -11,7 +11,7 @@ city = "Warszawa"
 manifest = "@/e/ppw/2012-07-01-ppw-neomania-ii-gallery.toml"
 +++
 
-Neomania II was PpW's early backyard show that took place at an unknown date(s) during the summer holidays of 2012, and it was held at a local playground. The date of 01.07 was chosen arbitrarily for the purposes of this entry and does not accurately reflect the acutual date(s) of the event.
+Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place at an unknown date(s) during the summer holidays of 2012, and was held at a local playground. The date of July 1st was chosen arbitrarily for the purposes of this entry and does not accurately reflect the actual date(s) of the event.
 
 {% card() %}
 - - 'Angel Guerrero, RoodWood'

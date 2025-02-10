@@ -8,13 +8,13 @@ venue = ["placyk-ppw"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
-1 = { path = "leg-drop.webp", caption = "La Parka (etc.) withs Ultimo Combo with a leg drop.", source = "Official PpW YouTube" }
+1 = { path = "leg-drop.webp", caption = "La Parka (etc.) hits Ultimo Combo with a leg drop.", source = "Official PpW YouTube" }
 2 = { path = "la-parka-etc.webp", caption = "La Parka (etc.) stalks Ultimo Combo.", source = "Official PpW YouTube" }
 3 = { path = "arm-bar!.webp", caption = "La Parka (etc.) attacks Ultimo Combo's arm.", source = "Official PpW YouTube" }
 4 = { path = "tap-out.webp", caption = "Ultimo Combo taps out.", source = "Official PpW YouTube" }
 +++
 
-Neomania was the inaugural show in the Neomania series of PpW's early backyard shows, and PpW's first "PPV" show. It took place at an unknown date(s) during the summer holidays of 2011, and it was held at a local playground. The date of 01.07 was chosen arbitrarily for the purposes of this entry and does not accurately reflect the acutual date(s) of the event.
+Neomania was the inaugural show in the Neomania series of [PpW's](@/o/ppw.md) early backyard shows, and PpW's first "PPV" show. It took place at an unknown date(s) during the summer holidays of 2011, and it was held at a local playground. The date of July 1st was chosen arbitrarily for the purposes of this entry and does not accurately reflect the actual date(s) of the event.
 
 {% card() %}
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
@@ -27,9 +27,6 @@ Neomania was the inaugural show in the Neomania series of PpW's early backyard s
   - 'Mystic Tiger'
   - s: 'No DQ match'
     nc: '?'
-- credits:
-    Referee: '???'
-    Commentary: '???'
 {% end %}
 
 #### Recap
@@ -38,7 +35,7 @@ Neomania was the inaugural show in the Neomania series of PpW's early backyard s
 * According to the [PpW Wikia][ppw-wiki-neo-1], "La Parka (Który nie jest prawdziwym La Parką ale to szczegół)" appears to be the full name of this contestant. It translates to "La Parka (Who isn't the real La Parka, but that's a minor detail)".
 * The cameraman/commentator refers to La Parka (etc.) in the feminine grammatical gender, as "La Parka (_Która_ nie jest _prawdziwą_ La Parką ale to szczegół)" - most likely because in the Polish language, names ending with an "a" are almost exclusively feminine.
 * When the first match begins, the cameraman says "But this has to be pretend, right?"
-* According to the [Wikia][ppw-wiki-neo-1], Black Tiger was standing in for Pan Pionha (roughly _Mister Feest_), who no-showed the fight. A similar situation later happened at [Neomania II](@/e/ppw/2012-07-01-ppw-neomania-ii.md).
+* Also, [PpW Wikia][ppw-wiki-neo-1] notes that Black Tiger was standing in for Pan Pionha (roughly _Mister Feest_), who no-showed the fight. A similar situation later happened at [Neomania II](@/e/ppw/2012-07-01-ppw-neomania-ii.md).
 
 ### References
 
