@@ -47,7 +47,7 @@ Amisz, now renamed and repackaged as "Axel Fox", quickly became one of MZW's mos
 Fox made a couple of appearances on the German indy scene, in Next Step Wrestling and Unlimited Wrestling (who often cooperated with MZW back then).
 
 His final appearance for MZW was at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
-Axel left MZW in early 2021, having not appeared at the tapings for [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md).
+Axel left MZW in early 2021, having not appeared at the tapings for [Project Basement](@/e/project-basement.md).
 
 ### Prime Time Wrestling and European Expansion (2021-2024)
 

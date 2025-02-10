@@ -23,7 +23,7 @@ Gabriel Queen started his pro wrestling career as Nathan Cross, at the MZW acade
 He made his debut in a Rookie Battle Royal at [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), ending runner-up to eventual winner [Aron Wake](@/w/aron-wake.md).
 His singles match debut was a couple months later, at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he was defeated by [Axel Fox](@/w/axel-fox.md).
 During that time, he also became the one of founding members of "[The Greens](@/a/the-greens.md)".
-He also made appearances at MZW's taped shows during the COVID-19 pandemic, a series of episodes titled [MZW Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md), where he was managed by [Isnorr](@/w/isnorr.md).
+He also made appearances at MZW's taped shows during the COVID-19 pandemic, a series of episodes titled [MZW Project Basement](@/e/project-basement.md), where he was managed by [Isnorr](@/w/isnorr.md).
 After making his final appearance at [MZW Project Basement 4](@/e/mzw/2021-06-11-mzw-project-basement-4.md), he left the company.
 
 ### Prime Time Wrestling (2021-2023)

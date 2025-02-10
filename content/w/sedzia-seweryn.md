@@ -35,7 +35,7 @@ Later, during the pandemic lockdown, he decided to resign from his wrestler's ca
 
 #### Becoming Sewi the Ref
 
-Seweryn made his debut as a referee during [MZW Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md), refereeing alongside [Sędzia Michał](@/w/sedzia-michal.md).
+Seweryn made his debut as a referee during [MZW Project Basement](@/e/project-basement.md), refereeing alongside [Sędzia Michał](@/w/sedzia-michal.md).
 After that, he made another appearance before a live audience at [MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 Later that year, due to a long stagnation in MZW combined with low morale among MZW's Greens, and the rapid growth of PTW caused by poaching of talent from other federation, on the 21st of November 2021 the remaining Greens decided to leave MZW.
 Many of them either suspended their wrestling career, or transferred to Prime Time Wrestling. Sewi decided on the latter, joining PTW in late 2021.

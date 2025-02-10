@@ -38,7 +38,7 @@ At that time, as a member of the "Hardcore Friday" roster, his specialty was har
 Olgierd started training in Maniac Zone Wrestling's academy in 2018, joining their summer camp in Wrocław, and suspending his PpW membership.
 In late 2018 and early 2019, he was one of the founding members of [The Greens](@/a/the-greens.md).
 Officially debuting at [Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) in a Rookie Battle Royal, he was eliminated by Ring Rat (later to become [Ref Seweryn](@/w/sedzia-seweryn.md)).
-As Krueger, he also appeared at [Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) and the pandemic-era [Project Basement](@/e/mzw/2021-03-18-mzw-project-basement-1.md) recordings.
+As Krueger, he also appeared at [Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) and the pandemic-era [Project Basement](@/e/project-basement.md) recordings.
 His last appearance was at [Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md), facing against [Isnorr](@/w/isnorr.md) and Deti Black in a Triple Threat Match.
 
 After a couple of months, on October 29th 2021, Olgierd officially quit MZW, during the so-called "Green Revolution", when multiple talent left the organization on the very same day. Aside from Olgierd, they were [Rafael Kid](@/w/rafael-kid.md), [Madman Charlie](@/w/madman-charlie.md), [Isnorr](@/w/isnorr.md), [Referee Seweryn](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md).
