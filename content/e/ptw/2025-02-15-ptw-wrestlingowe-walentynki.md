@@ -13,7 +13,7 @@ manifest = "@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki-gallery.toml"
 +++
 
 "Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md), set to take place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
-A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) is going to take place at this show. It's set to begin with a round of four quarter-final matches, meaning that both finalists of the tournament will need to work three consecutive matches on the same night.
+A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) is going to take place at this show. It's set to begin with a round of four quarter-final matches, followed by 2 semi-finals and main event for the championship. This means that both finalists of the tournament will need to work three consecutive matches on the same night.
 Team Turbulence, making their debut in main PTW organization are also the current PTW/WWA Tag Team Champions, but their titles are not at stake in the championship match.
 The only debuting star in the [Underground Championship](@/c/ptw-underground-championship.md) tournament is the Hungarian wrestler and stuntman with nine years of experience, Ken Pyro.
 
@@ -23,8 +23,9 @@ The only debuting star in the [Underground Championship](@/c/ptw-underground-cha
 * The next matches in the [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament are set to take place - as per the event page on Facebook.
 * On January 27th, PTW announced the debut of a new competitor - a rookie from [PTW Academy](@/o/ptw-academy.md). The debutant is going to be in action in "one of key matches of the evening" (per the post).
 * On January 28th, PTW announced that [Dawid "Puncher" Seńko](@/w/puncher.md) will be in action. No mention if this is going to be a title defense of either the [PTW Championship](@/c/ptw-championship.md) or the _WWA Championship_.
-* On January 29th, PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) defense. The line-up of the match depends on the results of the title defense at the Bestya Rumble show on February 9th. If the champions lose against Double Speed (a team of Spencer and Zoom), the new champions will defend their titles at Wrestlingowe Walentynki, taking L'Orda's place in the championship match.
+* On January 29th, PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) defense. After succesful title defense at the Bestya Rumble show on February 9th against Double Speed (a team of Spencer and Zoom), L'Orda's will defend the titles against Team Turbulence. This is a rematch from _PTW/WWA Takeover_ in November where Team Turbulence retained _WWA Tag Team Championship_ against L'Orda. Though Team Turbulence is coming into the match as WWA Tag Team Champions, this is not a unification match.
 * On January 30th, PTW announced the first quarter-final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed is going to take on a debuting rookie - presumably the same one who was previously announced to debut.
+* On February 7th, PTW released full bracket for the tournament. The first semi-final will feature the winner of Max Speed vs ??? against the winner of Blaze vs Alex Brave. In the other semi-final, winner of Ken Pyro vs Vincent Caravaggio will face off against the winner of Erik Slotir vs Spartan.
 
 {% card(predicted=true) %}
 - - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
