@@ -30,7 +30,7 @@ source = "Official MZW Facebook"
   - Chris Tyson
 - -  'Michael Payne'
   -  '[Prince Striker](@/w/royal-striker.md)'
-  -  'Lio Zayde'
+  -  'Leo Zayde'
   -  '[Chris X](@/w/chris-x.md)'
   -  '???'
   -  s: "Seven Man Rookie Battle Royal"
