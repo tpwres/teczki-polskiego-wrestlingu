@@ -87,8 +87,8 @@ In November it was announced that he would face MZW owner and legend [Shadow](@/
 * Finishers:
   - Satelite DDT (2021-)
 * Tag Teams and stables:
-  - The Bright Lights (2022-2023)
-  - Samsonito (2023)
+  - The Bright Lights (2022-2023), with [Karol "Iskra" Górski](@/w/iskra.md)
+  - Samsonito (2023), with [Samson](@/w/samson.md)
 * Entrance music:
   - "Runner Up" by North or Never
  {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-present) <br>

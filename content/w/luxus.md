@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["PL"]
 +++
 
-Luxus is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md) and [Do Or Die Wrestling](@/o/ddw.md). 
+Luxus is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md) and [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 
@@ -15,12 +15,12 @@ Luxus is a retired Polish wrestler best known for his time in [Kombat Pro Wrestl
   - Luxus {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
   - [Don Roid](@/w/don-roid.md)
- 
+
 ## Professional wrestling career
 
 ### Do Or Die Wrestling (2013-2015)
 
-Luxus made his debut on the Polish wrestling scene in August 2013, when he participated in [DDW Charity Event](@/e/ddw/2013-08-25-ddw-charity-event.md). He immediately alligned himself with [Piękny Kawaler](@/w/piekny-kawaler.md), becoming one of the founding members of Kawaleria: a villainous stable led by Kawaler himself. His biggest singles achievement from that time would be a victory in a Battle Royal, which was hosted at DDW's [second house show](@/e/ddw/2015-05-02-ddw-house-show-2.md) in May 2015. 
+Luxus made his debut on the Polish wrestling scene in August 2013, when he participated in [DDW Charity Event](@/e/ddw/2013-08-25-ddw-charity-event.md). He immediately allied himself with [Piękny Kawaler](@/w/piekny-kawaler.md), becoming one of the founding members of Kawaleria: a villainous stable led by Kawaler himself. His biggest singles achievement from that time would be a victory in a Battle Royal, which was hosted at DDW's [second house show](@/e/ddw/2015-05-02-ddw-house-show-2.md) in May 2015.
 
 ### Kombat Pro Wrestling (2015-2016)
 
