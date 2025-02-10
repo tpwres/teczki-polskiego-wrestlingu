@@ -72,7 +72,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Sambor](@/w/sambor.md)'
   - s: Singles Match
 - - 'Istotna Martynka'
-  - '[Marco Hammers](@/w/marco-hammers.md)(c); [Olgierd](@/w/olgierd.md); Darko Hammers'
+  - '[Marco Hammers](@/w/marco-hammers.md)(c); [Olgierd](@/w/olgierd.md), Darko Hammers'
   - s: Singles Match
     c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md)'
 - - '[Aron Wake](@/w/aron-wake.md)'
