@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 country = ["CZ"]
 +++
 
-Skull Evil is a Czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018.
+Skull Evil is a Czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018. Outside of Poland, he occasionally works as part of a tag team with [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md).
 
 ## Basic info
 
