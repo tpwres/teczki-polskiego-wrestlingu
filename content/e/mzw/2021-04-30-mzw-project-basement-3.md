@@ -2,7 +2,7 @@
 title = "MZW Project Basement #3"
 template = "event_page.html"
 [taxonomies]
-chronology = ["project-basement", "mzw"]
+chronology = ["mzw", "project-basement"]
 venue = ["ostrowskiego-wroclaw"]
 [extra]
 city = "Wrocław"
