@@ -70,8 +70,8 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 
 ### References
 
-* [Facebook event page](https://www.facebook.com/events/642316950792598)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=354592)
+* [Facebook event page](https://www.facebook.com/events/642316950792598)
 * [Facebook result post by PTW](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0PERt7WVmHntfpDneYCHknL765cN2Ny8nFVam6gcHFAfKpppNze9Xd6fkRfJ4qmpql)
 * [Facebook post with match card](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02u3Yzb8KGjS9vzS1Wt1c19dfL5CfyLYv1i2yXnG7QV4c56VAkfZpFBmNUiSfQkHR9l)
 * [WrestleMap's article](https://www.wrestlemap.com/news/z73mfr7l8vchshfbsv4z45gwqteqlq)

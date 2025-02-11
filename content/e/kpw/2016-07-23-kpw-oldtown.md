@@ -44,8 +44,8 @@ Attendance: estimated 200.
 
 ### References
 
-* [Teaser video by KPW](https://www.youtube.com/watch?v=JS6Q792lg7M)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=77904)
+* [Teaser video by KPW](https://www.youtube.com/watch?v=JS6Q792lg7M)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown/)
 * [Kombat TV Episode 7](https://www.youtube.com/watch?v=FlDqS77ltZQ), includes fragments of matches
 

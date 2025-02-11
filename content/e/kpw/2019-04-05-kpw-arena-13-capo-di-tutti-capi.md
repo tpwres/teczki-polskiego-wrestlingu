@@ -51,7 +51,7 @@ Originally, the tag team champions were scheduled against German wrestlers [Fynn
 
 ### References
 
-* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-13/), with a recap video
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=230512)
+* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-13/), with a recap video
 * [Facebook event page](https://www.facebook.com/events/2258200644451455/)
 * [Recap on MyWrestling](https://mywrestling.com.pl/kpw-arena-13-capo-di-tutti-capi-wyniki/)

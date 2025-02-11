@@ -36,6 +36,6 @@ The event name, which translates to "The Best Show in Town", is a reference to t
 
 ### References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383024)
 * [WrestleMap's article](https://www.wrestlemap.com/news/z73mfr7l8vchshfbsv4z45gwqteqlq)
 * [Facebook event page](https://www.facebook.com/events/787359779157446)
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383024)

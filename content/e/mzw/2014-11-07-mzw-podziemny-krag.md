@@ -24,5 +24,5 @@ city = "Legnica"
 
 ## References
 
-* [Cagematch link](https://www.cagematch.net/?id=1&nr=362830)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=362830)
 * [Youtube recap video](https://www.youtube.com/watch?v=KVnSKos72hs)

@@ -36,6 +36,6 @@ city = "Gdynia"
 
 ### References
 
-* [Highlights video](https://www.youtube.com/watch?v=cpIp2EJHK2I)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=247706)
+* [Highlights video](https://www.youtube.com/watch?v=cpIp2EJHK2I)
 * [Facebook event page](https://www.facebook.com/events/503462513806599/)

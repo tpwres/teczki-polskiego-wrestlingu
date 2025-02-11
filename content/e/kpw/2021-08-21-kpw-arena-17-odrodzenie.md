@@ -46,7 +46,7 @@ Originally [Chemik](@/w/chemik.md) was to face [Fynn Freyhart](@/w/fynn-freyhart
 
 ### References
 
-* [Full event on YouTube](https://www.youtube.com/watch?v=jmoffsimwUk)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=321394)
+* [Full event on YouTube](https://www.youtube.com/watch?v=jmoffsimwUk)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-17/)
 * [Facebook event page](https://www.facebook.com/events/4396239843739632/)

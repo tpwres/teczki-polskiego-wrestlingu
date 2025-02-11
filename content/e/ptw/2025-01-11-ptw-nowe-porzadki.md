@@ -61,6 +61,10 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Herno'
 {% end %}
 
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=417136)
+
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
 [going]: https://goingapp.pl/wydarzenie/gala-pro-wrestlingu-ptw-nowe-porzadki
 [fb-womens-tournament]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02WBNZzyEjWKb61be6JN3h9LUUPJUtA8sMSAXdxowMVTouN35SeLdcNkRAjD2Mfw2Ml
