@@ -9,6 +9,7 @@ city = "Warszawa"
 hide_results = true
 [extra.gallery]
 1 = { path = "2025-02-21-ppw-hardcore-friday-plakat.webp", caption = "Official poster, featuring [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
+2 = { path = "blady-jasko-akcyjniak.jpg", caption = "Graphic announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
 +++
 The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
 
@@ -38,4 +39,4 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=418109)
 * [Hammers challenges Blade](https://www.instagram.com/p/DF51JqMMH89/)
-* [Hammers v Blade Confirmed](https://www.facebook.com/OficjalnePPW/posts/pfbid0CHZzh4KFGB96cA97545KsQEpu2jXhcYNxHQnw83McLejDRyKdMwKagFva4mB2bqdl)
+* [Hammers vs Blade Confirmed](https://www.facebook.com/photo/?fbid=1163483015782089&set=a.499910772139320)
