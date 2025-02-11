@@ -28,8 +28,8 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
     [Sędzia Karol Górski](@/w/madman-charlie.md)
   - s: Referees Gauntlet Match
     nc: upcoming
-- - [Johnny Blade](@/w/johnny-blade.md)
-  - [Marco Hammers](@/w/marco-hammers.md)
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: any non-hardcore stipulation of Johnny's choosing
     nc: upcoming
 {% end %}
