@@ -15,7 +15,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 ## Build-up
 * On February 10th, PpW posted a video of [Marco Hammers](@/w/marco-hammers.md) challenging [Johnny Blade](@/w/johnny-blade.md) for a match with any stipulation of Blade's choosing - except for his signature Hardcore Match.
 * The match was confirmed the following day in PpW's social media.
-* [Mister Z](@/w/mister-z.mnd) also confirmed that while Johnny's suspension is lifted, [Biesiad Strong](@/w/biesiad-strong.md) is still suspended and he is going to get something "special" at the show.
+* [Mister Z](@/w/mister-z.mnd) also confirmed that while Johnny's suspension is lifted, [Biesiad Strong](@/w/biesiad.md) is still suspended and he is going to get something "special" at the show.
 
 {% card(predicted=true) %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
