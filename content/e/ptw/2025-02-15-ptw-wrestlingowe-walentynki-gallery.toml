@@ -7,3 +7,4 @@
 0007 = { path = "blave.webp", caption = "[Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook." }
 0008 = { path = "krtek-vs-leonidas.webp", caption = "[Erik Šlotíř](@/w/erik-slotir.md) vs [Spartan](@/w/spartan.md).", source = "Official PTW Facebook." }
 0009 = { path = "vicar-vs-kepyr.webp", caption = "[Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Ken Pyro.", source = "Official PTW Facebook." }
+0010 = { path = "drabinka.webp", caption = "The tournament bracket: [Max Speed](@/w/max-speed.md) vs ???, [Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md), [Erik Šlotíř](@/w/erik-slotir.md) vs [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Ken Pyro.", source = "Official PTW Facebook." }
