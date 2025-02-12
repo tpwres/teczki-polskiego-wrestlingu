@@ -91,9 +91,14 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
  {{ music(yt='zTuD8k3JvxQ')}}
  {{ music(spot='4A065x9kJt955eGVqf813g')}}
  {{ music(apple='157316517?i=157316531')}}
- - "Take a Step (Instrumental Tribe Master)" by Tribeleader
+  - "Take a Step (Instrumental Tribe Master)" by Tribeleader
  {{ org_badge(orgs=['ppw']) }} (2019-2022) <br>
  {{ music(yt='grvsOlS9fRg')}}
+  - "El Phantasmo and the Chicken-Run Blast-O-Rama (Wine, Women and Song Mix)" by White Zombie
+ {{ org_badge(orgs=['ppw']) }} (2022) <br>
+ {{ music(yt='wo41Glkrzhg')}}
+ {{ music(spot='0zaIWLPuSqeL0Prun22tgA')}}
+ {{ music(apple='1443799048?i=1443799194')}}
   - "In Bloom" by Nirvana (2023)
  {{ org_badge(orgs=['ppw']) }} (2023) <br>
  {{ music(yt='E6SbPv1Fu80')}}
