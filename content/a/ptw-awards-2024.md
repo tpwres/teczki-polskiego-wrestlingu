@@ -19,7 +19,7 @@ Like previously, the winners were to be decided by fans on the official PTW Face
 
 On 30.12.2024 fans noticed a sudden influx of votes for Spartan in the "Wrestler of the Year" and "Hero of the Year" categories. Just like in 2022, those votes came from Vietnamese accounts.
 
-Although initially presented as a genuine fan-voted popularity contest, the 2024 PTW Awards turned out to be a worked angle. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) [Alex Brave](@/w/alex-brave.md) cut a promo on [Spartan](@/w/spartan.md accusing him of buying votes, whereas [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) gave the award to [Vincent Caravaggio](@/w/vincent-caravaggio.md), despite [Miyagi Shida](@/w/miyagi-shida.md) having the majority. PTW then seemingly dropped the angle, as the Awards were not mentioned again.
+Although initially presented as a genuine fan-voted popularity contest, the 2024 PTW Awards turned out to be a worked angle. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) [Alex Brave](@/w/alex-brave.md) cut a promo on [Spartan](@/w/spartan.md] accusing him of buying votes, whereas [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) gave the award to [Vincent Caravaggio](@/w/vincent-caravaggio.md), despite [Miyagi Shida](@/w/miyagi-shida.md) having the majority. PTW then seemingly dropped the angle, as the Awards were not mentioned again.
 
 ## Categories
 
