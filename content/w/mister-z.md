@@ -99,7 +99,7 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
  {{ music(yt='wo41Glkrzhg')}}
  {{ music(spot='0zaIWLPuSqeL0Prun22tgA')}}
  {{ music(apple='1443799048?i=1443799194')}}
-  - "In Bloom" by Nirvana (2023)
+  - "In Bloom" by Nirvana
  {{ org_badge(orgs=['ppw']) }} (2023) <br>
  {{ music(yt='E6SbPv1Fu80')}}
  {{ music(spot='30HCB1FoE77IfGRyNv4eFq')}}
