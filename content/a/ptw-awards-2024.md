@@ -35,7 +35,7 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 
 ### Results of fan-voting in each category
 
-#### Wrestler of the Year
+#### Wrestler of the Year (not awarded)
 
 1. [Spartan](@/w/spartan.md) - 229 votes
 2. [Diana Strong](@/w/diana-strong.md) - 97 votes
@@ -43,35 +43,35 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 4. [Krampus](@/w/krampus.md) - 10 votes
 5. ["Starboy" Nano Lopez](@/w/nano-lopez.md) - 8 votes
 
-#### Newcomer of the Year
+#### Newcomer of the Year (awarded)
 
 1. [Miyagi Shida](@/w/miyagi-shida.md) - 177 votes
 2. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 167 votes
 3. [Alex Brave](@/w/alex-brave.md) - 41 votes
 4. [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) - 21 votes
 
-#### Progress of the Year
+#### Progress of the Year (not awarded)
 
 1. [Max Speed](@/w/max-speed.md) - 91 votes
 2. [Alex Brave](@/w/alex-brave.md) - 45 votes
 3. [Erik Šlotíř](@/w/erik-slotir.md) - 12 votes
 4. [Blaze](@/w/blaze.md) - 10 votes
 
-#### Speaker of the Year
+#### Speaker of the Year (awarded)
 
 1. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 87 votes
 2. [Dawid "Puncher" Seńko](@/w/puncher.md) - 53 votes
 3. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 27 votes
 4. [Alex Brave](@/w/alex-brave.md) - 11 votes
 
-#### Hero of the Year
+#### Hero of the Year (not awarded)
 
 1. [Spartan](@/w/spartan.md) - 208 votes
 2. [Max Speed](@/w/max-speed.md) - 67 votes
 3. [Diana Strong](@/w/diana-strong.md) - 64 votes
 4. ["Starboy" Nano Lopez](@/w/nano-lopez.md) - 17 votes
 
-#### Villain of the Year
+#### Villain of the Year (not awarded)
 
 1. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 38 votes
 2. [Dawid "Puncher" Seńko](@/w/puncher.md) - 30 votes
