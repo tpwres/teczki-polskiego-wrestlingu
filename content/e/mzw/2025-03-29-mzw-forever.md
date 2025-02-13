@@ -18,7 +18,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 ### Build-up
 * Along with the show's announcement, a poster featuring [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) was posted confirming his appearance.
 * The first competitor to be officially announced was [Marcelito](@/w/marcelito.md), who mostly appears for [PpW](@/o/ppw.md). With MZW's notably thin roster, this set the tone for yet another cross-over MZW show.
-* On 13.02.2025 MZW released a video of [Goblin](@/w/goblin.md) stating that he's finally going to appear in "the greenest federation in Poland" and then throw "the biggest after party in Breslau ever since those lands returned under the rule of the Republic of Poland".
+* On 13.02.2025 MZW released a video of [Goblin](@/w/goblin.md) stating that he's finally going to appear in "the greenest federation in Poland" and then throw "the biggest afterparty in Breslau ever since those lands returned under the rule of the Republic of Poland".
 
 {% card(predicted=true) %}
 - - 'Marcus Monere'
