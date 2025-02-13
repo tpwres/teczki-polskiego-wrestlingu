@@ -18,7 +18,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * On February 10th, PpW posted a video of [Marco Hammers](@/w/marco-hammers.md) challenging [Johnny Blade](@/w/johnny-blade.md) for a match with any stipulation of Blade's choosing - except for his signature Hardcore Match.
 * The match was confirmed the following day in PpW's social media.
 * [Mister Z](@/w/mister-z.md) also confirmed that while Johnny's suspension is lifted, [Biesiad Strong](@/w/biesiad.md) is still suspended and he is going to get something "special" at the show.
-* On February 13th, Johnny Blade posted a video of himself tending bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - _Drunken Ambition Match_ or _Gra w melanż_. The rules are simple - whoever grabs the rope, needs to drink a vodka shot. Later in the day, PpW confirmed the match, officially naming the stipulation _Gra w melanż - vodka match_ (roughly: _Party Game - Vodka Match_)
+* On February 13th, Johnny Blade posted a video of himself tending bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - _Drunken Ambition Match_ or _Gra w melanż_. The rules are simple - whoever grabs the rope, needs to drink a vodka shot. Later in the day, PpW confirmed the match, officially naming the stipulation _Gra w melanż - wódka mecz_ (roughly: _Party Game - Vodka Match_)
 
 {% card(predicted=true) %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
@@ -43,4 +43,4 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * [Hammers challenges Blade](https://www.instagram.com/p/DF51JqMMH89/)
 * [Hammers vs Blade Confirmed](https://www.facebook.com/photo/?fbid=1163483015782089&set=a.499910772139320)
 * [Blade chooses stipulation](https://www.instagram.com/p/DGAqsMAC4_D/)
-* [Vodka match confirmed]
+* [Vodka match confirmed](https://www.facebook.com/photo/?fbid=1165021168961607&set=a.499910772139320)
