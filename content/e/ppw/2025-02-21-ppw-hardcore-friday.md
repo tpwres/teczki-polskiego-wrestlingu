@@ -11,6 +11,7 @@ hide_results = true
 1 = { path = "2025-02-21-ppw-hardcore-friday-plakat.webp", caption = "Official poster, featuring [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
 2 = { path = "blady-jasko-akcyjniak.jpg", caption = "Graphic announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
 3 = { path = "vodka-match.jpg", caption = "Graphic announcing [Johnny Blade](@/w/johnny-blade.md) vs [Marco Hammers](@/w/marco-hammers.md). Distorted view further emphasizes that alcohol will be involved.", source = "Official PpW Facebook" }
+4 = { path = "tornado-tag-team.jpg", caption = "Graphic announcing [Isnorr](@/w/isnorr.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
 +++
 The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
 
@@ -34,6 +35,10 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: Gra w melanż - Vodka Match
+    nc: upcoming
+- - '[Isnorr](@/w/isnorr.md), [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
+  - s: Tornato Tag-Team Match
     nc: upcoming
 {% end %}
 
