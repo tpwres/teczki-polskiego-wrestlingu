@@ -14,7 +14,7 @@ caption = "Luca Bjorn at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.m
 source = "Krzysztof Zych"
 +++
 
-Luca Bjorn is a Italian wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md).
+Luca Bjorn is an Italian wrestler, best known for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -28,9 +28,9 @@ Luca Bjorn is a Italian wrestler best known for his time in [Prime Time Wrestlin
 
 ### Prime Time Wrestling (2024-present)
 
-Luca Bjorn made his debut in [Prime Time Wrestling](@/o/ptw.md) at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md) where he faced Maverick, Blaze and his tag team partner [Rust](@/w/rust.md) in a Fatal Four Way Match for a PTW contract. He was defeated in that bout, but despite that he made further appearances in the federation. He started his regular appearances from Ryucon. During his stint in PTW he adapted a villainous Viking persona.
+Luca Bjorn made his debut in [Prime Time Wrestling](@/o/ptw.md) at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md) where he faced Maverick, [Blaze](@/w/blaze.md) and his tag team partner [Rust](@/w/rust.md) in a Fatal Four Way Match for a PTW contract. He was defeated in that bout, but despite that he made further, regular appearances in the federation. During his stint in PTW he adapted a villainous Viking persona.
 
-In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) he and Rust, his tag team partner from L'Orda, fought Budapest Bastards for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They managed to score a victory over [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md), thus becoming the third PTW Tag Team Champions in history.
+In December 2024, at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md), he and his tag team partner Rust fromed L'Orda and fought Budapest Bastards for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They managed to score a victory over [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md), thus becoming the third PTW Tag Team Champions in history.
 
 ## In wrestling
 
@@ -42,12 +42,12 @@ In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) h
 
 * Entrance music:
   - "Guardians of Asgaard" by Amon Amarth
-    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
-    {{ music(yt='ARnBgW5XgSo')}}
-    {{ music(spot='2DR9AzDhYeStkHupvU08FC')}}
-    {{ music(apple='288236836?i=288236843')}}
+ {{ org_badge(orgs=['ptw']) }} (2024-)<br>
+ {{ music(yt='ARnBgW5XgSo')}}
+ {{ music(spot='2DR9AzDhYeStkHupvU08FC')}}
+ {{ music(apple='288236836?i=288236843')}}
   - "Darkbreed" by Robert Slump
- {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Rust](@/w/rust.md) <br>
+ {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Rust](@/w/rust.md)<br>
  {{ music(yt='eH_N0aHSfVw')}}
  {{ music(spot='0jB6SUfLOXytyH4VmolaUO')}}
  {{ music(apple='1584578129?i=1584578130')}}
