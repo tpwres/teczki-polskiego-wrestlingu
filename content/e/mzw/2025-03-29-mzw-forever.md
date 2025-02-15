@@ -19,7 +19,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * Along with the [show's announcement][announcement-post], a poster featuring [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) was posted confirming his appearance.
 * The first competitor to be [officially announced][marcelito-announced] was [Marcelito](@/w/marcelito.md), who mostly appears for [PpW](@/o/ppw.md). With MZW's notably thin roster, this set the tone for yet another cross-over MZW show.
 * On 13.02.2025 MZW [released a video][goblin-announces-himself] of [Goblin](@/w/goblin.md), stating that he's finally going to appear in "the greenest federation in Poland" and then throw "the biggest afterparty in Breslau ever since those lands returned under the rule of the Republic of Poland".
-* Two days later [MZW announced][robert-kaiser-returns] that Goblin would face the German wrestler [Robert Kaiser](@/w/robert-kaiser.md), last seen in 2016 at [Champions War II](@/w/2016-01-10-mzw-champions-war-2.md).
+* Two days later [MZW announced][robert-kaiser-returns] that Goblin would face the German wrestler [Robert Kaiser](@/w/robert-kaiser.md), last seen in 2016 at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md).
 
 {% card(predicted=true) %}
 - - 'Marcus Monere'
