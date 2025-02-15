@@ -27,7 +27,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
   - s: PpW YouTube Championship 20 Minute Iron Man Match
     n: Jake Young won the match 3:2
 - credits:
-    Referees: '???, [Le Santo](@/w/le-santo.md), [Biesiad](@/w/biesiad.md)'
+    Referees: '???, [Le Santo](@/w/rob-scaffold.md), [Biesiad](@/w/biesiad.md)'
 {% end %}
 
 #### Recap
