@@ -8,7 +8,6 @@ country = ["ENGLAND"]
 
 Lewis Costello is an English standup comedian, announcer and pro wrestling commentator best known for his apperances in [Prime Time Wrestling](@/o/ptw.md).
 
-
 ## Basic info
 
 * Years active: 2022-2024
@@ -19,7 +18,7 @@ Lewis Costello is an English standup comedian, announcer and pro wrestling comme
 
 ### Prime Time Wrestling (2022-2024)
 
-In 2022 Lewis Costello made his debut on Polish soil, when he provided English live commentary for [Prime Time Wrestling's](@/o/ptw.md) third big show [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). He made his return to once again cover commentary for PTW in February 2024, where he covered [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), first solo and later with [Santino](@/w/santino.md).
+In 2022 Lewis Costello made his debut in Poland when he provided English live commentary for [Prime Time Wrestling's](@/o/ptw.md) third big show, [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). In February 2024 he returned to once again provide commentary for [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), first solo and later with [Santino](@/w/santino.md).
 
 ## Internet presence
 
