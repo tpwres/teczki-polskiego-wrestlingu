@@ -18,6 +18,12 @@ country = ["PL"]
 - Billed height: 157&nbsp;cm
 - Billed weight: 58&nbsp;kg
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
+    * Female Wrestler of the Year
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25783)

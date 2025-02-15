@@ -51,6 +51,13 @@ Later on, Max Speed earned his opportunity to face Puncher for the PTW Champions
  {{ music(spot='6VRhkROS2SZHGlp0pxndbJ')}}
  {{ music(apple='491596645?i=491596647')}}
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards 2024](@/a/ptw-awards-2024.md) (2 times):
+    * Hero of the Year
+    * Progress of the Year
+
 ## Internet presence
 
 * [max.speed.ptw](https://www.instagram.com/max.speed.ptw/) on Instagram

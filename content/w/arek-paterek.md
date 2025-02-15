@@ -13,3 +13,9 @@ country = ["PL"]
  {{ music(yt='3fgJk97VnE0')}}
  {{ music(spot='5MRnl37NzHpo0qwtvjFeBj')}}
  {{ music(apple='297419027?i=297419061')}}
+
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 times):
+    * Commentator of the Year
