@@ -38,7 +38,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
     nc: upcoming
 - - '[Isnorr](@/w/isnorr.md), [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
-  - s: Tornato Tag-Team Match
+  - s: Tornado Tag-Team Match
     nc: upcoming
 {% end %}
 
