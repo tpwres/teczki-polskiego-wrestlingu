@@ -26,7 +26,7 @@ Tomasz Warchoł officially retired from his ring announcing role at [MZW Project
 
 ### Retirement (2019-2024)
 
-Tomasz Warchoł didn't appear in any role in MZW or any other federation. However, he was still partialy active on social media during his break from wrestling, often engaging in conversation regarding the Polish wrestling scene.
+Tomasz Warchoł didn't appear in any role in MZW or any other federation. However, he was still partialy active on social media during his break from wrestling, often engaging in conversations regarding the Polish wrestling scene.
 
 ### Return to Maniac Zone Wrestling (2024)
 

@@ -26,6 +26,10 @@ Robert Kaiser made a few appearances in [Maniac Zone Wrestling](@/o/mzw.md) back
 
 Robert made his final appearance in MZW at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md), where he was defeated by [Franz Engel](@/w/franz-engel.md).
 
+### Unexpected return (2025)
+
+On 15.02.2025 [MZW announced][robert-kaiser-returns] that Robert Kaiser would return to MZW after nine years, and face [Goblin](@/w/goblin.md) - a guest from [PpW Ewenement Wrestling](@/o/ppw.md) - at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
+
 ## In wrestling
 
 * Tag Teams and stables:
@@ -34,3 +38,5 @@ Robert made his final appearance in MZW at [Champions War II](@/e/mzw/2016-01-10
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=12250)
+
+[robert-kaiser-returns]:https://www.facebook.com/photo/?fbid=1039386298219760&set=a.548442053980856
