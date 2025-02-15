@@ -21,7 +21,7 @@ Lee Rogers is an English professional wrestler, who made several appearances in 
 
 ### Kombat Pro Wrestling (2018; 2023)
 
-Lee Rogers made his debut on Polish soil in July 2017, when he appeared in [Kombat Pro Wrestling](@/o/kpw.md), working at [KPW OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md). He made his return to Poland later that year at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md) where he, as one half of the British Bouncer Club, took part in a tournament for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). They managed to advance to the semi-finals by defeating [Adam Bravo](@/w/adam-bravo.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md), but they were defeated by Boska Oliwa ([David Oliwa](@/w/david-oliwa.md) and [Boski Ostrowski](@/w/boski-ostrowski.md)). 
+Lee Rogers made his debut on Polish soil in July 2017, when he appeared in [Kombat Pro Wrestling](@/o/kpw.md), working at [KPW OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md). He made his return to Poland later that year at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md) where he, as one half of the British Bouncer Club, took part in a tournament for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). They managed to advance to the semi-finals by defeating [Adam Bravo](@/w/adam-bravo.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md), but they were defeated by Boska Oliwa ([David Oliwa](@/w/david-oliwa.md) and [Boski Ostrowski](@/w/ostrowski.md)). 
 
 Rogers returned to KPW in May 2022 at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md), where he took on [Filip Fux](@/w/filip-fux.md) in a Singles Match, but was defeated by the Polish wrestler.
 
