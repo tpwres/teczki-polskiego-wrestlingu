@@ -1,11 +1,45 @@
 +++
 title = "Lee Rogers"
 template = "talent_page.html"
+authors - ["Sewi The Referee"]
 [taxonomies]
 country = ["ENGLAND"]
 +++
 
 Lee Rogers is an English professional wrestler, who made several appearances for [Kombat Pro Wrestling](@/o/kpw.md).
+
+## Basic info
+
+* Years active: 2014-present
+* Gimmicks/nicknames:
+  - Lee Rogers {{ org_badge(orgs=['kpw']) }}
+* Trained by:
+  - Alan Lee Tavis
+  - Johnny Kidd
+
+## Professional wrestling career
+
+### Kombat Pro Wrestling (2018; 2023)
+
+Lee Rogers made his debut on a Polish soil in July 2017, when he appeared at [Kombat Pro Wrestling](@/o/kpw.md) working at [KPW OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md). He made his return to Poland later that year at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md) where he, as one half of British Bouncer Club, took part in a tournament for [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). They managed to advance to the semi finals by defeating [Adam Bravo](@/w/adam-bravo.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md), but they were defeated by Boska Oliwa ([David Oliwa](@/w/david-oliwa.md) and [Boski Ostrowski](@/w/boski-ostrowski.md)). 
+
+After almost five years he returned to KPW in May 2022 at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md), where he took on [Filip Fux](@/w/filip-fux.md) in a Singles Match and got defeated by Polish wrestler.
+
+## In wrestling
+
+* Finishers:
+  - Powerbomb (2018-2023)
+
+* Tag Teams and stables:
+  - British Bouncer Club (2018-2023)
+
+* Entrance music:
+  - "Love The Way You Hate Me" by Like A Storm
+    {{ org_badge(orgs=['kpw']) }} (2018-2023) <br>
+    {{ music(yt='5xhubIqV1CI')}}
+    {{ music(spot='6h8TvDRaMTRfe2TIG6dqpH')}}
+    {{ music(apple='1056468734?i=1056468746')}}
+
 
 ## References
 
