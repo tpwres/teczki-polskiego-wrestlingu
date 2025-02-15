@@ -17,7 +17,8 @@ Louis Basham is an English professional wrestler, known from his appearances in 
 
 ### Kombat Pro Wrestling (2024)
 
-Louis Basham made his Polish debut in May 2024, when he appeared in [Kombat Pro Wrestling](@/o/kpw.md) at their show [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md), where he was defeated by [David Oliwa](@/w/david-oliwa.md). He made yet another apperance at [KPW @ Pyrkon 2024](@/e/kpw/2024-06-15-kpw-pyrkon-2024.md) month later, where he defeated [Rosetti](@/w/rosetti.md) in a Singles Match.
+Louis Basham made his Polish debut in May 2024, appearing in [Kombat Pro Wrestling](@/o/kpw.md) at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md), where he was defeated by [David Oliwa](@/w/david-oliwa.md). 
+A month later, he made another appearance at [KPW @ Pyrkon 2024](@/e/kpw/2024-06-15-kpw-pyrkon-2024.md), where he defeated [Rosetti](@/w/rosetti.md) in a Singles Match.
 
 ## Internet presence
 
