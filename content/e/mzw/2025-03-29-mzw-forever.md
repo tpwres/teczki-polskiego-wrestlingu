@@ -37,7 +37,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=418717)
 
-[announcement-post]: https://www.facebook.com/photo/?fbid=999843182174072&set=a.548442050647523)
+[announcement-post]: https://www.facebook.com/photo/?fbid=999843182174072&set=a.548442050647523
 [marcelito-announced]: https://www.facebook.com/photo/?fbid=1032056675619389&set=a.548442050647523
 [goblin-announces-himself]: https://www.facebook.com/ManiacZoneWrestling/videos/628974293412204
 [robert-kaiser-returns]: https://www.facebook.com/photo/?fbid=1039386298219760&set=a.548442053980856
