@@ -6,10 +6,10 @@ authors = ["M3n747"]
 country = ["PL"]
 [extra.gallery]
 1 = { path = "kpw-arena-22-filip-fux.jpg", caption = "Filip carries [Lee Rogers](@/w/lee-rogers.md), KPW Arena 22.", source = "M3n747" }
-2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre, after giving a talk following a screening of [The Iron Claw](https://en.wikipedia.org/wiki/The_Iron_Claw_(film)) on 17.01.2025.", source = "Alan Lisewski" }
+2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
-Filip Fux is one half of the Fux Brothers tag team, along with his kayfabe sibling [Michał](@/w/michal-fux.md). Debuting at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), he's best known for his tag team work alongside Michał, but he's also had a number of solo matches.
+Filip Fux is one half of the Fux Brothers tag team, along with his kayfabe sibling [Michał](@/w/michal-fux.md). Filip started training in the [Kombat Pro Wrestling](@/o/kpw.md) school in January 2018 and made his in-ring debut at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md). He's best known for his tag team work alongside Michał, but he's also had a number of solo matches.
 
 The Fux Brothers are the reigning [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), having won the belts from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at an European Wrestling Association show in Austria. 
 
@@ -38,3 +38,4 @@ Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of W
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25696)
+* [Filip's talk at the University of Gdańsk Film Centre](https://www.youtube.com/watch?v=FcJ_OQbmbUw), following a screening of [The Iron Claw](https://en.wikipedia.org/wiki/The_Iron_Claw_(film)) on 17.01.2025 (in Polish).
