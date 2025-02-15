@@ -22,7 +22,7 @@ Leon Lato is a Polish wrestler best known for his time in [Kombat Pro Wrestling]
 
 ### Kombat Pro Wrestling (2022-present)
 
-Leon Lato made his in-ring debut in July 2022 on the first day of [Tattoo Konwent](@/e/kpw/2022-07-30-kpw-tattoo-konwent-2022.md) and within the next two years he worked his way up from serving mostly as enhancement talent and midcarder to fighting for the [KPW Championship](@/c/kpw-championship.md) against [Red Scorpion](@/w/red-scorpion.md) at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), as well as the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md). 
+Leon Lato made his in-ring debut in July 2022 on the first day of [Tattoo Konwent](@/e/kpw/2022-07-30-kpw-tattoo-konwent-2022.md) and within the next two years he worked his way up from serving mostly as a mid-carder and enhancement talent, to fighting for the [KPW Championship](@/c/kpw-championship.md) against [Red Scorpion](@/w/red-scorpion.md) at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), as well as the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).
 
 Lato usually works solo, although on a couple of occasions he formed a tag team with another high flyer, [Zefir](@/w/zefir.md).
 
