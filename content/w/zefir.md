@@ -35,7 +35,7 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
   - Spinning Splash (2021-)
  
 * Tag teams and stables:
-  - [Leon Lato](@/w/leon-lato.md) (2023-)
+  - [Leon Lato](@/w/leon-lato.md) (2023)
 
 * Entrance music:
   - "Monsters" by Shinedown
