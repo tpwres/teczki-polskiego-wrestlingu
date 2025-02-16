@@ -106,7 +106,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 * [Video: Top 10 moments of KPW](https://www.youtube.com/watch?v=NeyUetRatMU) by What Is Wrestling
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning White Eagle Wrestling (in Polish)
-* [Vide: Kombat Pro Wrestling - otwarcie!](https://www.youtube.com/watch?v=fxnAFf-xUkM) (in Polish)
+* [Video: Kombat Pro Wrestling - otwarcie!](https://www.youtube.com/watch?v=fxnAFf-xUkM) (in Polish)
 
 [kawaler-watching-tv]:https://www.facebook.com/kawalerwrestling/posts/pfbid028kdGNo5vEVnSscGnsCzUr9spHsX14gPKk3ocJ7ogMSnnqPh2cxWsuCfMAUyrGdbyl
 [low-fux]:https://www.facebook.com/photo/?fbid=122119129010468820&set=pb.61564064601704.-2207520000
