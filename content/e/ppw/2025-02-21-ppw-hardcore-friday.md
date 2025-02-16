@@ -1,6 +1,7 @@
 +++
 title = "PpW Hardcore Friday 21.000"
 template = "event_page.html"
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
@@ -12,6 +13,7 @@ hide_results = true
 2 = { path = "blady-jasko-akcyjniak.jpg", caption = "Graphic announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
 3 = { path = "vodka-match.jpg", caption = "Graphic announcing [Johnny Blade](@/w/johnny-blade.md) vs [Marco Hammers](@/w/marco-hammers.md). Distorted view further emphasizes that alcohol will be involved.", source = "Official PpW Facebook" }
 4 = { path = "tornado-tag-team.jpg", caption = "Graphic announcing [Isnorr](@/w/isnorr.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
+5 = { path = "biesiad-special-challenge.jpg", caption = "Graphic announcing [Biesiad Strong](@/w/biesiad.md) facing Mister Z's special challenge.", source = "Official PpW Facebook" }
 +++
 The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
 
@@ -20,11 +22,13 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * The match was confirmed the following day in PpW's social media.
 * [Mister Z](@/w/mister-z.md) also confirmed that while Johnny's suspension is lifted, [Biesiad Strong](@/w/biesiad.md) is still suspended and he is going to get something "special" at the show.
 * On February 13th, Johnny Blade posted a video of himself tending bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - a _Drunken Ambition Match_, or _Gra w melanż_. The rules are simple - whoever grabs the rope, needs to drink a shot of vodka. Later in the day PpW confirmed the match, officially naming the stipulation _Gra w melanż - wódka mecz_ (roughly "Party Game - Vodka Match").
+* On 16.02.2025 PpW announced that Biesiad would have to face Mister Z's "special challenge" to earn his way back from his suspension.
 
 {% card(predicted=true) %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
   - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - nc: upcoming
+  - s: Tornado Tag-Team Match
+    nc: upcoming
 - - '[Olgierd](@/w/olgierd.md)'
   - >
     [Sędzia Seweryn](@/w/sedzia-seweryn.md),
@@ -36,9 +40,9 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: Gra w melanż - Vodka Match
     nc: upcoming
-- - '[Isnorr](@/w/isnorr.md), [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
-  - s: Tornado Tag-Team Match
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '???'
+  - n: Mister Z's special challenge
     nc: upcoming
 {% end %}
 
@@ -49,3 +53,4 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * [Hammers vs Blade Confirmed](https://www.facebook.com/photo/?fbid=1163483015782089&set=a.499910772139320)
 * [Blade chooses stipulation](https://www.instagram.com/p/DGAqsMAC4_D/)
 * [Vodka match confirmed](https://www.facebook.com/photo/?fbid=1165021168961607&set=a.499910772139320)
+* [Biesiad in Mister Z's special challenge announced](https://www.facebook.com/photo/?fbid=1167604972036560&set=a.499910772139320)
