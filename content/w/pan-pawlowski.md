@@ -58,6 +58,12 @@ After his on-screen heel turn, Pawłowski also increased his social media activi
  {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
  {{ music(apple='1021582747?i=1021582761')}}
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards 2024](@/a/ptw-awards-2024.md) (1 time):
+    * Speaker of the Year
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6523)

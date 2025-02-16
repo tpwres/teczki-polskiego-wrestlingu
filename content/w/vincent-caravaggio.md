@@ -38,6 +38,12 @@ Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he's been invol
  {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
  {{ music(apple='284259361?i=284259442')}}
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards 2024](@/a/ptw-awards-2024.md) (1 time):
+    * Newcomer of the Year
+
 ## Internet presence
 
 * [Vincent's Facebook profile](https://www.facebook.com/vincent.caravaggio)

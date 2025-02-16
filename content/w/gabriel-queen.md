@@ -79,8 +79,8 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
 
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time)
-* Tag Team of the Year (as Pure Gold)
-* [PpW Ewenement Wrestling](@/o/ppw.md)
+    * Tag Team of the Year (as Pure Gold)
+    * [PpW Ewenement Wrestling](@/o/ppw.md)
   - Golden Goat Trophy (1 time)
 
 ## Internet presence

@@ -72,7 +72,7 @@ There was a follow-up [two years later](@/a/ptw-awards-2024.md).
 1. [Sinister](@/w/sinister.md) - 165
 2. [Bad Bones](@/w/bad-bones.md) - 60
 3. [Syriusz Dziedzic](@/w/dziedzic.md) - 43
-4. Puncher - 36
+4. [Puncher](@/w/puncher.md) - 36
 5. [Gabriel Queen](@/w/gabriel-queen.md) - 14
 
 #### Newcomer of the Year
@@ -85,23 +85,23 @@ There was a follow-up [two years later](@/a/ptw-awards-2024.md).
 
 #### Speaker of the Year
 
-1. Puncher - 219
+1. [Puncher](@/w/puncher.md) - 219
 2. [TAXI Złotówa](@/w/taxi-zlotowa.md) - 83
-3. Syriusz Dziedzic - 49
-4. Sinister - 24
-5. Axel Fox - 19
+3. [Syriusz Dziedzic](@/w/dziedzic.md) - 49
+4. [Sinister](@/w/sinister.md) - 24
+5. [Axel Fox](@/w/axel-fox.md) - 19
 
 #### Tag Team of the Year
 
-1. Pure Gold (Gabriel Queen & Vic Golden) - 172
-2. PAKA (Disco Pablo, Taras & [Boro](@/w/boro.md)) - 124
+1. Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)) - 172
+2. PAKA ([Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md) & [Boro](@/w/boro.md)) - 124
 3. Bright Lights ([Marcelito](@/w/marcelito.md) & [Karol "Iskra" Górski](@/w/iskra.md)) - 25
 
 #### Commentator of the Year
 
-1. Arek Paterek - 171
-2. Łukasz Baliński - 75
-3. Piotr Małecki - 56
+1. [Arek Paterek](@/w/arek-paterek.md) - 171
+2. [Łukasz Baliński](@/w/lukasz-balinski.md) - 75
+3. [Piotr Małecki](@/w/piotr-malecki.md) - 56
 4. [Santino](@/w/santino.md) - 35
 5. [Lewis Costello](@/w/lewis-costello.md) - 12
 
@@ -123,38 +123,38 @@ There was a follow-up [two years later](@/a/ptw-awards-2024.md).
 
 #### Match of the Year
 
-1. Justin Joy vs Axel Fox - Legends - 165
+1. [Justin Joy](@/w/justin-joy.md) vs [Axel Fox](@/w/axel-fox.md) - [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 165
 2. Matt Sydal vs Samuray Del Sol - Legends - 25
-3. Disco Pablo vs Diana Strong vs Pure Gold - RyuCon - 16
-4. [Jonny Storm](@/w/jonny-storm.md) vs Jody Fleisch - Revolucja - 7
-5. Axel Tischer vs Bad Bones - Blackout - 7
+3. [Disco Pablo](@/w/disco-pablo.md) vs [Diana Strong](@/w/diana-strong.md) vs [Pure](@/w/gabriel-queen.md) [Gold](@/w/vic-golden.md) - [RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 16
+4. [Jonny Storm](@/w/jonny-storm.md) vs Jody Fleisch - [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 7
+5. Axel Tischer vs Bad Bones - [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 7
 
 #### Finisher of the Year
 
-1. Puncher - Wylew - 174
+1. [Puncher](@/w/puncher.md) - Wylew - 174
 2. [Robert Star](@/w/robert-star.md) - Stallion Cutter - 137
 3. PAKA - Blok 3D - 31
 4. [Spartan](@/w/spartan.md) - Spartan Bomb - 28
-5. Nano Lopez - Last Plane to Spain - 14
+5. [Nano Lopez](@/w/nano-lopez.md) - Last Plane to Spain - 14
 
 #### Moment of the Year
 
-1. Justin Joy & Axel Fox's reunion - 93
-2. Joy dropped on a table - 58
-3. Krampus chokeslamming Nano through a table - 15
+1. [Justin Joy](@/w/justin-joy.md) & [Axel Fox's](@/w/axel-fox.md) reunion - 93
+2. [Joy](@/w/justin-joy.md) dropped on a table - 58
+3. [Krampus](@/w/krampus.md) chokeslamming [Nano](@/w/nano-lopez.md) through a table - 15
 4. PAKA's 6-man suplex - 9
-5. Santino's Cobra - 9
+5. [Santino's](@/w/santino.md) Cobra - 9
 
 #### Referee of the Year
 
 1. [Sędzia Seweryn](@/w/sedzia-seweryn.md) - 174
-2. Sędzia Matek - 149
-3. Sędzia Rafał - 234 pre-disqualification (36 excluding paid bot votes)
+2. [Sędzia Matek](@/w/sedzia-matek.md) - 149
+3. [Sędzia Rafał](@/w/alex-brave.md) - 234 pre-disqualification (36 excluding paid bot votes)
 
 #### Feud of the Year
 
-1. Axel Fox vs Justin Joy - 88
-2. Nano Lopez vs Sinister - 60
-3. Taxi Złotówa vs Employers - 24
-4. Puncher vs Influencers - 12
-5. Bad Bones vs PTW - 9
+1. [Axel Fox](@/w/axel-fox.md) vs [Justin Joy](@/w/justin-joy.md) - 88
+2. [Nano Lopez](@/w/nano-lopez.md) vs [Sinister](@/w/sinister.md) - 60
+3. [TAXI Złotówa](@/w/taxi-zlotowa.md) vs Employers - 24
+4. [Puncher](@/w/puncher.md) vs Influencers - 12
+5. [Bad Bones](@/w/bad-bones.md) vs PTW - 9

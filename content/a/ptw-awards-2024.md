@@ -18,7 +18,7 @@ Like previously, the winners were to be decided by fans on the official PTW Face
 
 On 30.12.2024 fans noticed a sudden influx of votes for Spartan in the "Wrestler of the Year" and "Hero of the Year" categories. Just like in 2022, those votes came from Vietnamese accounts.
 
-Although initially presented as a genuine fan-voted popularity contest, the 2024 PTW Awards turned out to be a worked angle. Only two Awards were actually given out at a show. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) [Alex Brave](@/w/alex-brave.md) cut a promo on [Spartan](@/w/spartan.md) accusing him of buying votes (a repetition of the "Asian Scandal" from 2022). Arkadiusz Pawłowski announced himself the Speaker of the Year winner (online, from a private Facebook account), and overruled fan votes, allowing Łukasz Okoński to award Vincent Caravaggio Newcomer of the Year, despite [Miyagi Shida](@/w/miyagi-shida.md) having the majority.
+Although initially presented as a genuine fan-voted popularity contest, the 2024 PTW Awards turned out to be a worked angle. Only two Awards were actually given out at a show. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) [Alex Brave](@/w/alex-brave.md) cut a promo on [Spartan](@/w/spartan.md) accusing him of buying votes (a repetition of the "Asian Scandal" from 2022). Arkadiusz Pawłowski announced himself the Speaker of the Year winner (online, from a private Facebook account), and overruled fan votes, allowing Łukasz Okoński to award Vincent Caravaggio Newcomer of the Year, despite [Miyagi Shida](@/w/miyagi-shida.md) having the majority. [Max Speed](@/w/max-speed.md) was awarded in two categories, Hero and Progress of the Year.
 
 PTW then seemingly dropped the angle, as the Awards were not mentioned again.
 
@@ -43,28 +43,28 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 4. [Krampus](@/w/krampus.md) - 10 votes
 5. ["Starboy" Nano Lopez](@/w/nano-lopez.md) - 8 votes
 
-#### Newcomer of the Year (awarded)
+#### Newcomer of the Year
 
 1. [Miyagi Shida](@/w/miyagi-shida.md) - 177 votes
 2. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 167 votes
 3. [Alex Brave](@/w/alex-brave.md) - 41 votes
 4. [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) - 21 votes
 
-#### Progress of the Year (not awarded)
+#### Progress of the Year
 
 1. [Max Speed](@/w/max-speed.md) - 91 votes
 2. [Alex Brave](@/w/alex-brave.md) - 45 votes
 3. [Erik Šlotíř](@/w/erik-slotir.md) - 12 votes
 4. [Blaze](@/w/blaze.md) - 10 votes
 
-#### Speaker of the Year (awarded)
+#### Speaker of the Year
 
 1. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 87 votes
 2. [Dawid "Puncher" Seńko](@/w/puncher.md) - 53 votes
 3. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 27 votes
 4. [Alex Brave](@/w/alex-brave.md) - 11 votes
 
-#### Hero of the Year (not awarded)
+#### Hero of the Year
 
 1. [Spartan](@/w/spartan.md) - 208 votes
 2. [Max Speed](@/w/max-speed.md) - 67 votes
