@@ -7,6 +7,7 @@ authors = ["M3n747"]
 toclevel=2
 [extra.gallery]
 1 = { path = "ddw-international-championship.jpg", caption = 'Promo shot of [Kamil Aleksander](@/w/kamil-aleksander.md) wearing the DDW International belt.', source = "Official DDW Facebook" }
+2 = { path = "ddw-belt.webp", caption = 'Close-up of the Championship.', source = "PolishPuck.com" }
 +++
 
 DDW International Championship was the the only belt of [Do Or Die Wrestling](@/o/ddw.md). It was introduced in 2010 and has the distinction of being the first Polish pro wrestling title.
