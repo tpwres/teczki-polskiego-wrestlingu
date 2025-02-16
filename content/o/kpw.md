@@ -21,7 +21,7 @@ source = "Official KPW Facebook"
 
 #### 2015: The end of DDW
 
-Kombat Pro Wrestling launched in 2015, after the founder of [DDW](@/o/ddw.md), [Don Roid](@/w/don-roid.md), closed down his organization.
+Kombat Pro Wrestling officially launched on the 1st of October 2015, after the founder of [DDW](@/o/ddw.md), [Don Roid](@/w/don-roid.md), closed down his organization.
 At the end of 2014, DDW's operations moved from Rzeszów, where Roid lived with his family, to Gdańsk.
 The two cities are more than 600&nbsp;km apart, and the team in Gdańsk began to run things without Roid's input. Finally, he sold the ring, closed DDW and retired from wrestling entirely.
 
@@ -86,7 +86,6 @@ As of 2024, KPW has one tag team championship and two singles championships. The
 
 The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 2018 and the first champions crowned in 2018, at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md).
 
-
 {% championship() %}
 - - '[KPW Championship](@/c/kpw-championship.md)'
   - '[Hans Schulte](@/w/hans-schulte.md)'
@@ -107,6 +106,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 * [Video: Top 10 moments of KPW](https://www.youtube.com/watch?v=NeyUetRatMU) by What Is Wrestling
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning White Eagle Wrestling (in Polish)
+* [Vide: Kombat Pro Wrestling - otwarcie!](https://www.youtube.com/watch?v=fxnAFf-xUkM) (in Polish)
 
 [kawaler-watching-tv]:https://www.facebook.com/kawalerwrestling/posts/pfbid028kdGNo5vEVnSscGnsCzUr9spHsX14gPKk3ocJ7ogMSnnqPh2cxWsuCfMAUyrGdbyl
 [low-fux]:https://www.facebook.com/photo/?fbid=122119129010468820&set=pb.61564064601704.-2207520000
