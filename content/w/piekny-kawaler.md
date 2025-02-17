@@ -3,9 +3,10 @@ title = "Piękny Kawaler"
 weight = 0
 authors = ["M3n747", "Sewi The Referee"]
 template = "talent_page.html"
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["PL"]
-[extra]
 [extra.gallery]
 1 = { path = "piekny-kawaler.jpg", caption = 'Promo shot of Piękny Kawaler', source = "Pięny Kawaler's Facebook" }
 +++
