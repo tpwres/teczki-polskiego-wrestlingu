@@ -2,6 +2,8 @@
 title = "Bochen"
 template = "talent_page.html"
 authors = ["Krzysztof Zych", "M3n747"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = [":cat-face:"]
 [extra.gallery]

@@ -2,6 +2,8 @@
 title = "Diana Strong"
 template = "talent_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
