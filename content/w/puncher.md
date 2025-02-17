@@ -2,6 +2,8 @@
 title = 'Dawid "Puncher" Seńko'
 template = "talent_page.html"
 authors = ["Szymon Iwulski", "Sewi The Referee"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]

@@ -2,6 +2,8 @@
 title = 'Arkadiusz Pawłowski'
 template = "talent_page.html"
 authors = ["M3n747", "Krzysztof Zych", "Sewi The Referee"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
