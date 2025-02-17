@@ -59,7 +59,7 @@ The only debuting star in the [Underground Championship](@/c/ptw-underground-cha
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
-  {% end %}
+{% end %}
 
 ### References
 
