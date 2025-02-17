@@ -15,6 +15,14 @@ The Fux Brothers are the reigning [KPW Tag Team Champions](@/c/kpw-tag-team-cham
 
 Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md), thus becoming the first worker KPW allowed to perform in another Polish federation.
 
+## Basic info:
+
+* Years active: 2018-present
+* Gimmicks/nicknames:
+  - Filip Fux {{ org_badge(org='kpw') }}
+* Trained by:
+  - KPW Academy (2018-present)
+
 ## In wrestling
 
 * Entrance music:
