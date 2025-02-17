@@ -43,7 +43,7 @@ Debuting for PTW at this show were:
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Herno'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
 {% end %}
 
 
@@ -93,7 +93,7 @@ Debuting for PTW at this show were:
 #### Reyca vs Diana Strong
 * Hungarian pro-wrestler Reyca makes her PTW debut as a heel, mocking the public during her entrance.
 * [Diana Strong](@/w/diana-strong.md) makes her entrance dressed up as Harley Quinn (as portrayed by Margot Robbie in "Suicide Squad") holding a baseball bat.
-* Before the bell rings, Arkadiusz Pawłowski introduces a brand new referee - Sędzia Herno.
+* Before the bell rings, Arkadiusz Pawłowski introduces a brand new referee - [Sędzia Herno](@/w/sedzia-herno.md).
 * The match lasts for about 11 minutes, ending with the victory of the local hero - Diana Strong.
 * Winner: Diana Strong by pinfall.
 

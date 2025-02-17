@@ -58,7 +58,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - g: Pawłowski turns on his business partner
 - credits:
     Host, ring announcer: 'Krzysztof Skwarczyński'
-    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Herno'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
 {% end %}
 
 ### References

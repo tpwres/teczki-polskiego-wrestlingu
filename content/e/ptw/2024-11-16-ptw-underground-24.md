@@ -34,7 +34,7 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:
     Host: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Herno, [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+    Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
 {% end %}
 
 ### Outcomes and aftermath

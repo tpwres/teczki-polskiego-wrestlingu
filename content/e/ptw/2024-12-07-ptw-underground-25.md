@@ -83,7 +83,7 @@ For this event, PTW invited several debuting wrestlers:
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:
     Host: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: 'Sędzia Herno, [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+    Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
 {% end %}
 
 ### Recap
@@ -110,7 +110,7 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 * [Erik Slotir](@/w/erik-slotir.md) makes his way to the ring first, trying to mock [Max Speed](@/w/max-speed.md). The crowd chants "Krecik!" (referencing a popular [Czechoslovakian animated series](https://en.wikipedia.org/wiki/The_Little_Mole)), which visibly upsets Erik.
 * Erik cuts a short promo, basically saying that he is way better than his opponent and that Christmas is cancelled.
 * Max Speed enters the ring next, wearing a Santa hat and a Christmas sweater.
-* Meanwhile, Referee Herno enters the ring.
+* Meanwhile, [Referee Herno](@/w/sedzia-herno.md) enters the ring.
 * The match goes for about 8 minutes with the standard back-and-forth structure, with Erik trying to overpower Max mainly at ringside.
 * At the end of the match Erik tries to hit a top-rope manoeuvre, but Speed ducks and hits his opponent with a Superkick and a Codebreaker to secure victory over the Czech wrestler.
 * Winner: Max Speed by pinfall.
@@ -151,7 +151,7 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 * Timestamp: `1:08:00`
 * L'Orda members [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md) make their way to the ring first.
 * Budapest Bastards - [Nitro](@/w/nitro.md) and [Renegade](@/w/renegade.md) - are the second ones to enter, as they are the [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md)
-* The match is officiated by Sędzia Klaudiusz, with Sędzia Herno standing at the ringside as a backup referee.
+* The match is officiated by Sędzia Klaudiusz, with [Sędzia Herno](@/w/sedzia-herno.md) standing at the ringside as a backup referee.
 * The whole fight is filled with intense action due to the nature of the stipulation. For the most part the weapons aren't used much, with most of the damage being done during ringside brawls. Later on items such as a kendo stick, a plasma TV and a table are used.
 * Renegade hits one of his opponents with the Crucifix Powerbomb onto a table and tries to secure a pinfall, however he is stopped by the other member of L'Orda making a save with a Championship Belt strike into the back of Renegade's head, and secures a pinfall.
 * Winners: L'Orda by pinfall.
@@ -182,7 +182,7 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 * Martina visibly dominates her opponent for the best past of the match, with Diana making a few strong comebacks and big moves on her, but still not being able to regain full control over her slick opponent.
 * Finally Diana is able to hit a strong counter after receiving a Headbutt from Martina. She hits her opponent with a strong Knee Strike and proceeds to hit her finishing move.
 * Winner: Diana Strong by pinfall.
-* The ending of the match comes across as underwhelming, as Referee Herno made a rather indecisive three-count and Diana's theme played way too late, as if it was a botched finish.
+* The ending of the match comes across as underwhelming, as [Referee Herno](@/w/sedzia-herno.md) made a rather indecisive three-count and Diana's theme played way too late, as if it was a botched finish.
 
 #### Serg Sullivan vs El Homo (Prezes Okoński)
 
