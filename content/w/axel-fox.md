@@ -2,8 +2,6 @@
 title = "Axel Fox"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
-[extra]
-toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery.1]
@@ -11,6 +9,7 @@ path = "fox-is-ewenement.webp"
 caption = "Facebook graphic confirming that Axel Fox has joined PpW"
 source = "Facebook @OficjalnePPW"
 +++
+
 
 ## Basic info
 

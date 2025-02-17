@@ -2,8 +2,6 @@
 title = "Sheamus"
 template = "talent_page.html"
 authors = ["Krzysztof Zych", "Sewi The Referee"]
-[extra]
-toclevel = 2
 [taxonomies]
 country = ["SCOTLAND"]
 +++

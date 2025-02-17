@@ -3,8 +3,6 @@ title = "Krystian Malinowski"
 weight = 0
 authors = ["M3n747"]
 template = "talent_page.html"
-[extra]
-toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]

@@ -2,8 +2,6 @@
 title = "Matt2Hot"
 template = "talent_page.html"
 authors = ["Sewi The Refere"]
-[extra]
-toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
