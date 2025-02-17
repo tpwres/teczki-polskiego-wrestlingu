@@ -75,9 +75,9 @@ Team Turbulence, making their debut in the main PTW organization, are also the c
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
 - credits:
-  Host, ring announcer: 'Krzysztof Skwarczyński'
-  Referees: 'Sędzia Herno, [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-  Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
+    Host, ring announcer: 'Krzysztof Skwarczyński'
+    Referees: 'Sędzia Herno, [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+    Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
 {% end %}
 
 ### References
