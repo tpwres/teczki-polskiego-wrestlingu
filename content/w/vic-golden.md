@@ -2,6 +2,8 @@
 title = "Vic Golden"
 template = "talent_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Referee"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
