@@ -18,9 +18,13 @@ Like previously, the winners were to be decided by fans on the official PTW Face
 
 On 30.12.2024 fans noticed a sudden influx of votes for Spartan in the "Wrestler of the Year" and "Hero of the Year" categories. Just like in 2022, those votes came from Vietnamese accounts.
 
-Although initially presented as a genuine fan-voted popularity contest, the 2024 PTW Awards turned out to be a worked angle. Only two Awards were actually given out at a show. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) [Alex Brave](@/w/alex-brave.md) cut a promo on [Spartan](@/w/spartan.md) accusing him of buying votes (a repetition of the "Asian Scandal" from 2022). Arkadiusz Pawłowski announced himself the Speaker of the Year winner (online, from a private Facebook account), and overruled fan votes, allowing Łukasz Okoński to award Vincent Caravaggio Newcomer of the Year, despite [Miyagi Shida](@/w/miyagi-shida.md) having the majority. [Max Speed](@/w/max-speed.md) was awarded in two categories, Hero and Progress of the Year.
+Although initially presented as a genuine fan-voted popularity contest, the 2024 PTW Awards turned out to be largely influenced by Pawłowski's "power trip" storyline, with poll results ignored multiple times. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) [Alex Brave](@/w/alex-brave.md) cut a promo on [Spartan](@/w/spartan.md) accusing him of buying votes (a repetition of the "Asian Scandal" from 2022).
 
-PTW then seemingly dropped the angle, as the Awards were not mentioned again.
+Instead of publicly announcing the winners for all categories, the announcements were inconsistent and fragmented - some at social media and some at PTW shows:
+
+*[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) announced himself the Speaker of the Year winner (online, from a private Facebook account)
+*Pawłowski overruled fan votes, allowing Vincent Caravaggio to become Newcomer of the Year, despite [Miyagi Shida](@/w/miyagi-shida.md) having the majority. Łukasz Okoński handed him the award at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)
+*[Max Speed](@/w/max-speed.md) was awarded in two categories, Hero and Progress of the Year. Despite [Spartan](@/w/spartan.md) winning the popular vote for Hero of the Year, it seems like Alex Brave's doubts were taken into consideration. Pawłowski handed both awards to Speed at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md).
 
 ## Categories
 
@@ -46,20 +50,20 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 #### Newcomer of the Year
 
 1. [Miyagi Shida](@/w/miyagi-shida.md) - 177 votes
-2. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 167 votes
+2. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 167 votes (*winner*)
 3. [Alex Brave](@/w/alex-brave.md) - 41 votes
 4. [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) - 21 votes
 
 #### Progress of the Year
 
-1. [Max Speed](@/w/max-speed.md) - 91 votes
+1. [Max Speed](@/w/max-speed.md) - 91 votes (*winner*)
 2. [Alex Brave](@/w/alex-brave.md) - 45 votes
 3. [Erik Šlotíř](@/w/erik-slotir.md) - 12 votes
 4. [Blaze](@/w/blaze.md) - 10 votes
 
 #### Speaker of the Year
 
-1. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 87 votes
+1. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 87 votes (*winner*)
 2. [Dawid "Puncher" Seńko](@/w/puncher.md) - 53 votes
 3. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 27 votes
 4. [Alex Brave](@/w/alex-brave.md) - 11 votes
@@ -67,7 +71,7 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 #### Hero of the Year
 
 1. [Spartan](@/w/spartan.md) - 208 votes
-2. [Max Speed](@/w/max-speed.md) - 67 votes
+2. [Max Speed](@/w/max-speed.md) - 67 votes (*winner*)
 3. [Diana Strong](@/w/diana-strong.md) - 64 votes
 4. ["Starboy" Nano Lopez](@/w/nano-lopez.md) - 17 votes
 
@@ -79,3 +83,9 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 5. [Alex Brave](@/w/alex-brave.md) - 7 votes
 
 [10-categories]: https://www.facebook.com/photo/?fbid=629516462734333&set=a.136592408693410
+
+### References
+
+[PTW: Nowe porządki - at timestamp of 57:50, Okoński hands Caravaggio his award. Paywall](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=1s&ab_channel=PTW-PrimeTimeWrestling)
+[PTW: Wrestlingowe Walentynki - at timestamp of 22:10, Pawłowski hands Max Speed his awards. Paywall](https://www.youtube.com/watch?v=Til3tBdaKvs&t=881s&ab_channel=PTW-PrimeTimeWrestling)
+[Pawłowski awards himself Speaker of the year - personal Facebook](https://www.facebook.com/MrPawlowski/posts/pfbid02SXkH48k3WGpoghdzs8v46dQQh1tAbrU6GimkmKrZG77USZ2DvW1GDdc6qEYTRcThl)
