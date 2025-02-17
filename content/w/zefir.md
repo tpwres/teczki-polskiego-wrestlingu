@@ -10,7 +10,7 @@ country = ["PL"]
 
 Zefir is a high-flying masked luchador, working for [Kombat Pro Wrestling](@/o/kpw.md).
 
-## Basic info:
+## Basic info
 
 * Years active: 2021-present
 * Gimmicks/nicknames:

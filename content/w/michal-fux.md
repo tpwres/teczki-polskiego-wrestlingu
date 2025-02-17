@@ -10,7 +10,7 @@ country = ["PL"]
 
 Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), where he is one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md).
 
-## Basic info:
+## Basic info
 
 * Years active: 2017-present
 * Gimmicks/nicknames:

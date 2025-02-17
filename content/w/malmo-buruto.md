@@ -8,7 +8,7 @@ country = ["PL"]
 
 Malmo Buruto is a retired Polish wrestler best known for his time in [Dream Factory Wrestling](@/o/dfw.md).
 
-## Basic info:
+## Basic info
 
 * Years active: 2015-2017
 * Gimmicks/nicknames:
