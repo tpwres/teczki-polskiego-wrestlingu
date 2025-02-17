@@ -54,7 +54,7 @@ The only debuting star in the [Underground Championship](@/c/ptw-underground-cha
     r: DQ
 - - 'Betty Boa'
   - 'Kiara'
-  - s: '[PTW Women's Championship](@/c/ptw-womens-championship.md)' tournament qualifying match'
+  - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md)' tournament qualifying match"
 - - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
