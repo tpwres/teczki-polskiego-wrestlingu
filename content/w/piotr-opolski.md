@@ -51,6 +51,11 @@ For 2.5 years Piotr Opolski wasn't seen at KPW in any capacity, until he made a 
  {{ music(yt='3EFuG1V0FEQ')}}
  {{ music(spot='201Yhf2MAVJxJDgbGdykyb')}}
  {{ music(apple='445469263?i=445469281')}}
+  - "Adrenaline Rush" by Infraction
+ {{ org_badge(orgs=['kpw']) }} (2025-) <br>
+ {{ music(yt='PVdu7-ej5-w')}}
+ {{ music(spot='6kugnsvuVy4cON6IU433ug')}}
+ {{ music(apple='1755584815?i=1755584816')}}
 
 ## Internet presence
 
