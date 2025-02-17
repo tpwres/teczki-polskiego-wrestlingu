@@ -3,7 +3,7 @@ title = "Sam Rogers"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [extra]
-toclevel = 2
+toclevel = 2
 [taxonomies]
 country = ["IT"]
 +++
