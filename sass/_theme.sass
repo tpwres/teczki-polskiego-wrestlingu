@@ -76,3 +76,52 @@
   --lightbox-nav-fg: #fff
   --fg: #000
 
+.light-theme-icon, .dark-theme-icon
+  display: none
+
+[data-theme="dark"]
+  @include dark-theme
+
+  .light-theme-icon
+    display: inline
+
+  section a:not(.org-badge)
+    filter: brightness(120%)
+
+  figure a
+    filter: none !important
+
+// Light mode colors
+[data-theme="light"]
+  @include light-theme
+
+  .dark-theme-icon
+    display: inline
+
+  section a:not(.org-badge)
+    filter: brightness(90%)
+
+  figure a
+    filter: none !important
+
+[data-theme="og"]
+  @include og-theme
+
+  --timeline-border: black
+  --bg: white
+
+  .dark-theme-icon
+    display: inline
+
+  h1.title-with-flag span.title-flag
+    filter: grayscale(50%)
+
+  footer span.coffee
+    font-size: 0
+    &:after
+      font-size: 1rem
+      content: "🍺"
+
+html:not([data-theme])
+  .dark-theme-icon
+    display: inline
