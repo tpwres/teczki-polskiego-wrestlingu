@@ -73,9 +73,9 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
 - credits:
-  Host, ring announcer: 'Krzysztof Skwarczyński'
-  Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-  Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
+    Host, ring announcer: 'Krzysztof Skwarczyński'
+    Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+    Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
 {% end %}
 
 ### References
