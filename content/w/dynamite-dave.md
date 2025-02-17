@@ -1,6 +1,8 @@
 +++
 title = "Dynamite Dave"
 template = "talent_page.html"
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["DE"]
 +++

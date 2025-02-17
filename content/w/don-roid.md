@@ -2,6 +2,8 @@
 title = "Don Roid"
 template = "talent_page.html"
 authors = ["Krzysztof Zych", "M3n747"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["US"]
 [extra.gallery]
