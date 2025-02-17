@@ -2,6 +2,8 @@
 title = "Elliott Jordan"
 template = "talent_page.html"
 authors = ["Krzysztof Zych"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["ENGLAND"]
 +++
