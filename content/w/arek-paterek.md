@@ -1,8 +1,6 @@
 +++
 title = "Arek Paterek"
 template = "talent_page.html"
-[extra]
-toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
