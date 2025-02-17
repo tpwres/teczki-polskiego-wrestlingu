@@ -6,7 +6,6 @@ authors = ["M3n747", "Szymon Iwulski"]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 manifest = "@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki-gallery.toml"
@@ -29,31 +28,37 @@ The only debuting star in the [Underground Championship](@/c/ptw-underground-cha
 * On January 30th, PTW announced the first quarter-final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed is going to take on a debuting rookie - presumably the same one who was previously announced to debut.
 * On February 7th, PTW released a full bracket for the tournament. The first semi-final will feature the winner of Max Speed vs ??? against the winner of Blaze vs Alex Brave. In the other semi-final, the winner of Ken Pyro vs Vincent Caravaggio will face off against the winner of Erik Šlotíř vs Spartan.
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Sigma Boy xD'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - '[Blaze](@/w/blaze.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - '[Spartan](@/w/spartan.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Ken Pyro'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - 'Flamingo'
+  - 'Jonas Gabriel'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - s: International Showcase Triple Threat Match
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament semi-final match'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Spartan](@/w/spartan.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament semi-final match'
+    r: DQ
+- - 'Betty Boa'
+  - 'Kiara'
+  - s: '[PTW Women's Championship](@/c/ptw-womens-championship.md)' tournament qualifying match'
 - - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '???'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '???'
-  - nc: upcoming
-- - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Blaze](@/w/blaze.md)'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
-- - '[Erik Šlotíř](@/w/erik-slotir.md)'
-  - '[Spartan](@/w/spartan.md)'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
-- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - 'Ken Pyro'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
   {% end %}
 
 ### References
