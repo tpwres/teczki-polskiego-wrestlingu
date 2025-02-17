@@ -6,18 +6,19 @@ authors = ["M3n747", "Szymon Iwulski"]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 manifest = "@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki-gallery.toml"
 +++
 
-"Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md), set to take place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
+"Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) was an event by [Prime Time Wrestling](@/o/ptw.md), that took place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.
 
-A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) is going to take place at this show. It's set to begin with a round of four quarter-final matches, followed by two semi-finals and a main event for the championship. This means that both finalists of the tournament will need to work three consecutive matches on the same night.
+A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) started at this show. Set to begin with a round of four quarter-final matches, followed by two semi-finals and a main event for the championship.
+Due to (kayfabe) injury of one of the finalists, the finals were postponed until the next show, [PTW: Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md) with added stipulation of _Ladder Match_.
 
-Team Turbulence, making their debut in the main PTW organization, are also the current PTW/WWA Tag Team Champions, but their titles are not at stake in the championship match.
-The only debuting star in the [Underground Championship](@/c/ptw-underground-championship.md) tournament is the Hungarian wrestler and stuntman with nine years of experience, Ken Pyro.
+Team Turbulence, making their debut in the main PTW organization, are also the current PTW/WWA Tag Team Champions, but their titles were not at stake in the championship match.
+[Underground Championship](@/c/ptw-underground-championship.md) tournament saw two debuts: Hungarian wrestler and stuntman with nine years of experience, Ken Pyro, as well as graduate of [PTW Academy](@/o/ptw-academy.md), Sigma Boy xD.
+[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament continued with an unannounced match between Kiara and Betty Boa. It was never revealed which round of the tournament this match was.
 
 ## Build-up
 
@@ -29,32 +30,55 @@ The only debuting star in the [Underground Championship](@/c/ptw-underground-cha
 * On January 30th, PTW announced the first quarter-final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed is going to take on a debuting rookie - presumably the same one who was previously announced to debut.
 * On February 7th, PTW released a full bracket for the tournament. The first semi-final will feature the winner of Max Speed vs ??? against the winner of Blaze vs Alex Brave. In the other semi-final, the winner of Ken Pyro vs Vincent Caravaggio will face off against the winner of Erik Šlotíř vs Spartan.
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+  - g: 'Pawłowski opens the show and hands Max Speed [PTW Awards trophies](@/a/ptw-awards-2024.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Sigma Boy xD'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - '[Blaze](@/w/blaze.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - "LaVonce"
+  - g: Alex Brave beats down on Blaze. LaVonce makes a save and cuts a promo
+- - '[Spartan](@/w/spartan.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Ken Pyro'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
+- - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+  - 'Sędzia Herno'
+  - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+  - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+  - g: announced "Puncher in action" turned into Pawłowski's promo. Puncher has a day off. T-shirt auction interrupted by Okoński
+- - 'Flamingo'
+  - 'Jonas Gabriel'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - s: International Showcase Triple Threat Match
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament semi-final match'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Spartan](@/w/spartan.md)'
+  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament semi-final match'
+    r: DQ
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+  - g: 'Max Speed wants to compete, Pawłowski postpones the finals and changes it to Ladder Match'    
+- - 'Betty Boa'
+  - 'Kiara'
+  - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md)' tournament match"
 - - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '???'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '???'
-  - nc: upcoming
-- - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Blaze](@/w/blaze.md)'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
-- - '[Erik Šlotíř](@/w/erik-slotir.md)'
-  - '[Spartan](@/w/spartan.md)'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
-- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - 'Ken Pyro'
-  - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final'
-    nc: upcoming
-  {% end %}
+- credits:
+    Host, ring announcer: 'Krzysztof Skwarczyński'
+    Referees: 'Sędzia Herno, [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+    Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
+{% end %}
 
 ### References
 
@@ -67,3 +91,4 @@ The only debuting star in the [Underground Championship](@/c/ptw-underground-cha
 * [Event page - Facebook](https://www.facebook.com/events/494413280349578/?acontext=%7B%22event_action_history%22%3A[]%7D)
 * [PTW WWA TAG Team Championship - Cagematch](https://www.cagematch.net/?id=5&nr=6593_)
 * [Ken Pyro - Cagematch](https://www.cagematch.net/?id=2&nr=24006)
+* [Full show on YouTube - requires paid subscription](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1344s&ab_channel=PTW-PrimeTimeWrestling)
