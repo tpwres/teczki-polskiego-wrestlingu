@@ -20,6 +20,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * On February 13th, Johnny Blade posted a video of himself tending bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - a _Drunken Ambition Match_, or _Gra w melanż_. The rules are simple - whoever grabs the rope, needs to drink a shot of vodka. Later in the day PpW confirmed the match, officially naming the stipulation _Gra w melanż - wódka mecz_ (roughly "Party Game - Vodka Match").
 * On 16.02.2025 PpW announced that Biesiad would have to face Mister Z's "special challenge" to earn his way back from his suspension.
 * The day after that since [Goblin](@/w/goblin.md) decided to go to Mexico instead of appearing at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), he'd now have to compete in a "lucha surprise" match.
+* On 18.02.2025 [Axel Fox](@/w/axel-fox.md) was announced.
 
 {% card(predicted=true) %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
@@ -56,3 +57,4 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * [Vodka match confirmed](https://www.facebook.com/photo/?fbid=1165021168961607&set=a.499910772139320)
 * [Biesiad in Mister Z's special challenge announced](https://www.facebook.com/photo/?fbid=1167604972036560&set=a.499910772139320)
 * [Goblin in Mister Z's Sorpresa de Lucha Muy Loco](https://www.facebook.com/photo/?fbid=1168415858622138&set=a.499910772139320)
+* [Axel Fox announced](https://www.facebook.com/photo/?fbid=1169287151868342&set=a.499910772139320)
