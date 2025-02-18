@@ -13,4 +13,4 @@ Since 2022, [Prime Time Wrestling](@/o/ptw.md) have been holding annual shows at
 ### References
 
 * [About Tauron Arena Kraków](https://www.tauronarenakrakow.pl/o-nas/)
-* [Ryucon's official website](https://ryucon.pl/]
+* [Ryucon's official website](https://ryucon.pl/)
