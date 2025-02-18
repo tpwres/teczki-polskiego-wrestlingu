@@ -1,5 +1,6 @@
 from typing import cast, Any, TypedDict, Optional
-from page import all_event_pages, EventPage
+from functools import singledispatch
+from page import all_event_pages, all_talent_pages, EventPage, TalentPage, Page
 from pathlib import Path
 import tomllib, re, json
 
@@ -20,7 +21,7 @@ def load_manifest(manifest_path, verbose = True) -> dict[str, GalleryItem]:
 
 def load_gallery(fm: dict[str, Any], verbose = True) -> Optional[dict[str, GalleryItem]]:
     """Load gallery from the provided front matter. Accepts galleries with manifests."""
-    extra = cast(dict[str, Any], fm['extra'])
+    extra = cast(dict[str, Any], fm.get('extra', None))
     if not extra: return None
 
     gallery = cast(dict[str, GalleryItem], extra.get('gallery'))
@@ -67,21 +68,30 @@ def combine_path(event_page: EventPage, subdir, photo_path: str) -> str:
     path = slugified / subdir / photo_path
     return str(path).replace('.md', '')
 
-def generate_key(event_page: EventPage, index: int):
+@singledispatch
+def generate_key(page, index: int):
+    raise ArgumentError
+
+@generate_key.register
+def generate_event_key(page: EventPage, index: int):
     """Given an event page and photo index, generate an identifier unique within that page."""
-    ymd = event_page.event_date.strftime("%Y%m%d")
+    ymd = page.event_date.strftime("%Y%m%d")
     return f"{ymd}_{index}"
 
-def event_link(event_page: EventPage) -> str:
+@generate_key.register
+def generate_talent_key(page: TalentPage, index: int):
+    return f"{page.path.stem}_{index}"
+
+def page_link(page: Page) -> str:
     content_root = Path.cwd() / 'content'
-    path = event_page.path.relative_to(content_root)
-    return f"[{event_page.title}](@/{path})"
+    path = page.path.relative_to(content_root)
+    return f"[{page.title}](@/{path})"
 
 def fix_caption(caption: str) -> str:
     """Tomllib loads long strings differently from zola."""
     return caption.replace("\n\n", "\n")
 
-def main():
+def build_event_photos():
     all_photos = []
     photo_taggings = {}
     photo_index = 0
@@ -109,7 +119,7 @@ def main():
                             "source": source,
                             "path": f"/{combine_path(page, '', path)}",
                             "thumb": f"/{combine_path(page, 'tn', path)}",
-                            "event": event_link(page)
+                            "event": page_link(page)
                         }
                     )
                 )
@@ -118,9 +128,45 @@ def main():
     save_as_json(all_photos, Path('data/all_photos.json'))
     save_as_json(photo_taggings, Path('data/photo_taggings.json'))
 
+def build_people_photos():
+    people_photos = []
+    photo_index = 0
+
+    for page in all_talent_pages():
+        fm = page.front_matter
+        if fm['template'] != 'talent_page.html':
+            continue
+        gallery = load_gallery(fm, verbose=False)
+        if not gallery: continue
+
+        for _, entry in gallery.items():
+            path, caption, source = entry['path'], entry['caption'], entry.get('source')
+            taggings = set(parse_names(caption))
+
+            key = generate_key(page, photo_index + 1)
+            people_photos.append(
+                (
+                    key,
+                    {
+                        "caption": fix_caption(caption),
+                        "source": source,
+                        "path": f"/{combine_path(page, '', path)}",
+                        "thumb": f"/{combine_path(page, 'tn', path)}",
+                        "talent": page_link(page)
+                    }
+                )
+            )
+            photo_index += 1
+
+    save_as_json(people_photos, Path('data/talent_photos.json'))
+
 def save_as_json(data: Any, path: Path):
     with path.open('w') as fp:
         json.dump(data, fp)
+
+def main():
+    build_event_photos()
+    build_people_photos()
 
 if __name__ == "__main__":
     main()
