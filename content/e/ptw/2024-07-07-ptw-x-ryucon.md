@@ -15,7 +15,7 @@ city = "Kraków"
 5 = { path = "ryucon-3-spartan-vs-conners.jpg", caption = "Spartan vs Conners, as seen from the audience.", source = "Ville Paananen"}
 +++
 
-[PTW](@/o/ptw.md) organized this show, for the third consecutive year, in collaboration with Ryucon, an anime/manga themed fan convention held annually in Kraków. The event was held in Tauron Arena on Sunday July 7th, 2024.
+[PTW](@/o/ptw.md) organized this show, for the third consecutive year, in collaboration with Ryucon, an anime/manga themed fan convention held annually in Kraków. The event was held at the [Tauron Arena](@/v/tauron-arena.md) on Sunday July 7th, 2024.
 
 For this show, a significant portion of the match card was filled by guest wrestlers from abroad, including five from Hungary. The guest performers were:
 * Hungarian tag team The Gulyas Brothers: Gulyás Öcsi and Gulyás Vilmos.
