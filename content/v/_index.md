@@ -37,3 +37,4 @@ template = "index.html"
 ### Others
 
 * [Poznań International Fair](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
+* [Tauron Arena Kraków](@/v/tauron-arena.md) {{ org_badge(orgs=['ptw']) }}

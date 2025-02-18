@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["Szymon Iwulski", "Joanna Ropelewska"]
 [taxonomies]
 chronology = ["ptw"]
-venue = ["tauron"]
+venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
 [extra.gallery]
