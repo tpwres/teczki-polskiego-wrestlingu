@@ -2,6 +2,8 @@
 title = "Zeritus"
 template = "talent_page.html"
 authors = ["Sewi the Referee"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["DE"]
 +++

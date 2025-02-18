@@ -1,0 +1,50 @@
+.article-list
+  margin-top: 1rem
+
+  article
+    display: flex
+    flex-wrap: nowrap
+    overflow-x: auto
+    gap: 1rem
+    padding: 1rem 0
+
+    &:not(:last-child)
+      padding-bottom: 2rem
+      border-bottom: .3rem solid var(--dark-blue)
+
+    .title
+      font-size: 2rem
+      font-weight: bold
+      color: var(--dark-blue)
+
+    .cover-image
+      flex-basis: 16rem
+      flex-grow: 0
+      flex-shrink: 0
+
+      img
+        min-width: 16rem
+
+  @media only screen and (max-width: 720px)
+    article
+      .title
+        font-size: 1.75rem
+
+      .cover-image
+        flex-basis: 8rem
+
+        img
+          min-width: 8rem
+
+.toc
+  summary + ol
+    margin-top: 0
+
+  ol
+    list-style-type: none
+    counter-reset: item
+
+  li
+    counter-increment: item
+    &:before
+      content: counters(item, ".") ". "

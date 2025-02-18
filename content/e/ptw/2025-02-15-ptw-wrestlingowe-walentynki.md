@@ -89,3 +89,4 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 * [Event page - Facebook](https://www.facebook.com/events/494413280349578/?acontext=%7B%22event_action_history%22%3A[]%7D)
 * [PTW WWA TAG Team Championship - Cagematch](https://www.cagematch.net/?id=5&nr=6593_)
 * [Ken Pyro - Cagematch](https://www.cagematch.net/?id=2&nr=24006)
+* [Full show on YouTube - requires paid subscription](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1344s&ab_channel=PTW-PrimeTimeWrestling)

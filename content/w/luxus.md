@@ -2,6 +2,8 @@
 title = "Luxus"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
+[extra]
+toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++

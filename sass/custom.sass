@@ -7,6 +7,9 @@
 @import "nav"
 @import "tables"
 @import "lightbox"
+@import "pagination"
+@import "icons-badges"
+@import "articles"
 
 //@import "fonts/inter/inter-web/inter.css"
 // @font-face
@@ -21,82 +24,22 @@
   --mono-font: "Ubuntu Mono", monospace
   --timeline-border: var(--dark-yellow)
 
-.light-theme-icon, .dark-theme-icon
-  display: none
-
-[data-theme="dark"]
-  @include dark-theme
-
-  .light-theme-icon
-    display: inline
-
-  section a:not(.org-badge)
-    filter: brightness(120%)
-
-  figure a
-    filter: none !important
-
-// Light mode colors
-[data-theme="light"]
-  @include light-theme
-
-  .dark-theme-icon
-    display: inline
-
-  section a:not(.org-badge)
-    filter: brightness(90%)
-
-  figure a
-    filter: none !important
-
-[data-theme="og"]
-  @include og-theme
-
-  --timeline-border: black
-  --bg: white
-
-  .dark-theme-icon
-    display: inline
-
-  h1.title-with-flag span.title-flag
-    filter: grayscale(50%)
-
-  footer span.coffee
-    font-size: 0
-    &:after
-      font-size: 1rem
-      content: "🍺"
-
-html:not([data-theme])
-  .dark-theme-icon
-    display: inline
-
-
-.feather
-  width: 32px
-  height: 32px
-  stroke: currentColor
-  stroke-width: 2
-  stroke-linecap: round
-  stroke-linejoin: round
-  fill: none
-  vertical-align: text-bottom
-
-.feather-inline,.feather-nav
-  @extend .feather
-  width: 1.5rem
-  height: 1.5rem
-
 img
   max-width: 100% !important
 
-sup.footnote-reference>a
-  text-decoration: none
-  &:hover
-    text-decoration: underline
-
 h1, h2, h3, h4, h5, h6
   margin-bottom: .25rem
+  display: flex
+  align-items: flex-start
+  text-align: left
+
+@mixin trailing-line($color)
+  content: ''
+  background: var($color)
+  flex-grow: 1
+  min-width: 2rem
+  margin: auto
+  margin-left: 1rem
 
 h1.title
   color: var(--dark-green)
@@ -123,83 +66,39 @@ h1:not(.title)
   margin-top: 1rem
 
   &:after
-    content: ''
-    flex-grow: 1
+    @include trailing-line(--dark-red)
     height: 0.3rem
-    background: var(--dark-red)
-    min-width: 2rem
-    margin: auto
-    margin-left: 1rem
 
 h2
   color: var(--dark-green)
-  display: flex
-  align-items: flex-start
   text-align: left
   &:after
-    content: ''
-    flex-grow: 1
+    @include trailing-line(--dark-green)
     height: 0.26rem
-    background: var(--dark-green)
-    min-width: 2rem
-    margin: auto
-    margin-left: 1rem
 
 h3
   color: var(--dark-blue)
-  display: flex
-  align-items: flex-start
-  text-align: left
   &:after
-    content: ''
-    flex-grow: 1
+    @include trailing-line(--dark-blue)
     height: 0.2rem
-    background: var(--dark-blue)
-    min-width: 2rem
-    margin: auto
-    margin-left: 1rem
 
 h4
   color: var(--dark-yellow)
-  display: flex
-  align-items: flex-start
-  text-align: left
   &:after
-    content: ''
-    flex-grow: 1
+    @include trailing-line(--dark-yellow)
     height: 0.144rem
-    background: var(--dark-yellow)
-    min-width: 2rem
-    margin: auto
-    margin-left: 1rem
 
 h5
   color: var(--dark-gray)
-  display: flex
-  align-items: flex-start
-  text-align: left
   &:after
-    content: ''
-    flex-grow: 1
+    @include trailing-line(--dark-gray)
     height: 0.115rem
-    background: var(--dark-gray)
-    min-width: 2rem
-    margin: auto
-    margin-left: 1rem
 
 h6
   color: var(--dark-gray)
-  display: flex
-  align-items: flex-start
-  text-align: left
   &:after
-    content: ''
-    flex-grow: 1
+    @include trailing-line(--dark-gray)
     height: 0.096rem
-    background: var(--dark-gray)
-    min-width: 2rem
-    margin: auto
-    margin-left: 1rem
 
 blockquote
   margin: 0rem 0 1rem 1rem  //TODO: tweak
@@ -214,9 +113,6 @@ code
   background-color: var(--accent-bg)
   padding: 0.1rem 0.14rem
   border-radius: 5px
-
-kbd
-  color: var(--text-light)
 
 hr
   color: var(--dark-gray)
@@ -235,54 +131,14 @@ hr
   height: auto
   border-radius: 5px
 
-.date
-  color: var(--dark-purple)
-  font-weight: bold
-
-.reading-time
-  color: var(--dark-orange)
-  font-weight: bold
-
-.separator
-  color: var(--dark-yellow)
-  font-weight: bold
-
-.ipa-play-icon
-  margin-right: 0.25rem
-
 .music-link
-
   & + .music-link
     &:before
       content: " | "
 
-
 a:hover
   color: var(--dark-aqua)
   text-decoration: underline
-
-.toc
-  summary + ol
-    margin-top: 0
-
-  ol
-    list-style-type: none
-    counter-reset: item
-
-  li
-    counter-increment: item
-    &:before
-      content: counters(item, ".") ". "
-
-.pagination
-  margin-top: 0.5rem
-  .org-header
-    display: flex
-    justify-content: space-around
-  .links
-    background: var(--accent-bg)
-    display: flex
-    justify-content: space-between
 
 .svg-embed svg
   max-width: 100%
@@ -294,70 +150,3 @@ a:hover
     font-weight: bold
     &:after
       content: ":"
-
-.badge
-  &.ib
-    display: inline-block
-
-  &.stretchy
-    margin: 0 0.25em
-    text-align: center
-
-  .org-badge
-    padding: 0 0.4em
-    font-family: monospace
-    color: transparent
-    white-space: nowrap
-
-.article-list
-  margin-top: 1rem
-
-  article
-    display: flex
-    flex-wrap: nowrap
-    overflow-x: auto
-    gap: 1rem
-    padding: 1rem 0
-
-    &:not(:last-child)
-      padding-bottom: 2rem
-      border-bottom: .3rem solid var(--dark-blue)
-
-    .title
-      font-size: 2rem
-      font-weight: bold
-      color: var(--dark-blue)
-
-    .cover-image
-      flex-basis: 16rem
-      flex-grow: 0
-      flex-shrink: 0
-
-      img
-        min-width: 16rem
-
-  @media only screen and (max-width: 720px)
-    article
-      .title
-        font-size: 1.75rem
-
-      .cover-image
-        flex-basis: 8rem
-
-        img
-          min-width: 8rem
-
-@media only screen and (max-width: 720px)
-  .pagination .links span
-    display: inline-block
-    text-align: center
-
-footer
-  border-top: .2rem solid var(--dark-blue)
-
-  .links
-    display: flex
-    justify-content: center
-    gap: 0.5rem
-
-
