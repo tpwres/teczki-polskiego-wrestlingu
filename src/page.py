@@ -105,7 +105,7 @@ def all_talent_pages(root: Optional[Path]=None) -> Iterable[TalentPage]:
 
     yield from (TalentPage(page_path)
                 for page_path in (root / 'content/w/').glob('*.md')
-                if page_path.stem != '_index.md')
+                if page_path.stem != '_index')
 
 def all_event_pages(root: Optional[Path]=None, verbose: bool = False) -> Iterable[EventPage]:
     """Walk the files and produce all event pages"""
@@ -114,7 +114,7 @@ def all_event_pages(root: Optional[Path]=None, verbose: bool = False) -> Iterabl
 
     yield from (EventPage(page_path, verbose=verbose)
                 for page_path in (root / 'content/e/').glob('**/????-??-??-*.md')
-                if page_path.stem != '_index.md')
+                if page_path.stem != '_index')
 
 if __name__ == "__main__":
     import sys, code

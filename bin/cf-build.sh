@@ -43,6 +43,7 @@ build() {
   cp data/appearances_v2.json public/
   cp data/all_matches.json public/
   cp data/all_photos.json public/
+  cp data/talent_photos.json public/
 }
 
 lint
