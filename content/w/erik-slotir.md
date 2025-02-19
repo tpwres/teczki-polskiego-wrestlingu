@@ -27,7 +27,7 @@ source = "Krzysztof Zych"
 
 Not long after his debut in Czechia-based VCV, Slotir made his Polish debut in 2023 at [PTW Underground 16](e/ptw/2023-07-30-ptw-underground-16/), in a losing effort against [Rafi Rarytas](@/w/rafi.md). He quickly entered a feud with [Nano Lopez](@/w/nano-lopez.md), whom he took out and replaced in a match against [King Kaiden](@/w/king-kaiden.md) at [PTW Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md).
 In time, Slotir became a mainstay in PTW, primarily working Undergrounds as a midcard wrestler. His debut at larger PTW show came at [PTW 5: Gold Rush](e/ptw/2024-02-03-ptw-5-gold-rush.md), in a losing effort, eliminated by [Sambor](@/w/sambor.md). Over next months, he competed in a matches against various opponents in the middle of a card, but did not get involved in major storylines. 
-In 2025, Slotir joined the tournament for newly created [PTW Underground Championship](@/c/ptw-underground-championship.mnd), but came up short, losing in quarter-finals at [PTW:Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md). The following week, Slotir announced his PTW departure via Instagram stories. PTW confirmed this in Facebook comments, calling Slotir's departure "semi-retirement" with PTW leaving doors open for a return.
+In 2025, Slotir joined the tournament for newly created [PTW Underground Championship](@/c/ptw-underground-championship.md), but came up short, losing in quarter-finals at [PTW:Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md). The following week, Slotir announced his PTW departure via Instagram stories. PTW confirmed this in Facebook comments, calling Slotir's departure "semi-retirement" with PTW leaving doors open for a return.
   
 ## References
 
