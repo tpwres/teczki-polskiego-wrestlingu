@@ -87,7 +87,7 @@ On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channe
 
 ### 2025: The second show
 
-On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2". A [trailer][low-2-trailer] for the show was published on 18.02.2025, along with an announcement of another live Q&A.
+On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2". A [trailer][low-2-trailer] for the show was published on 18.02.2025, along with an announcement of [another live Q&A][live-qa-3], which took place on 19.02.2025.
 
 ## References
 
@@ -118,3 +118,4 @@ On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wre
 [extreme-low-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02mTUKt1pcAtvxPxFZASu4UHCEWbPLnbmnuDe219qYvB41kXG8rXLdyfMPefFbky3gl
 [low-2-teaser]:https://www.facebook.com/legacyofwrestlingpl/posts/122134433624468820:4080268062219300
 [low-2-trailer]:https://www.facebook.com/watch/?v=560125297045765
+[live-qa-3]:https://www.youtube.com/watch?v=4urhjLJHEtA
