@@ -6,14 +6,10 @@ toclevel = 2
 [taxonomies]
 country = ["CZ"]
 [extra.gallery.1]
-path = "slotir-noweporzadki-1.webp"
-caption = "Erik Šlotíř at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)."
-source = "Krzysztof Zych"
-[extra.gallery.2]
 path = "slotir-noweporzadki-2.webp"
 caption = "Erik Šlotíř at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)."
 source = "Krzysztof Zych"
-[extra.gallery.3]
+[extra.gallery.2]
 path = "ah-jooo.jpg"
 caption = "Erik Šlotíř informs he's parted ways with [Prime Time Wrestling](@/o/ptw.md)."
 source = "erikslotir @ Instagram"
