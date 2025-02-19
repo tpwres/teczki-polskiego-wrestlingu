@@ -87,7 +87,20 @@ On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channe
 
 ### 2025: The second show
 
-On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2". A [trailer][low-2-trailer] for the show was published on 18.02.2025, along with an announcement of [another live Q&A][live-qa-3], which took place on 19.02.2025.
+On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2". A [trailer][low-2-trailer] for the show was published on 18.02.2025, along with an announcement of [another live Q&A][live-qa-3], which took place on 19.02.2025. Again, the Q&A was hosted by [ShowOff](@/w/piotr-malecki.md).
+
+* Like previously, the show will take place on a Sundaya, as this was the only available date that didn't clash with shows by other promotions.
+* There were no expectations regarding Patronite before the first show.
+* The VIP tickets for Legacy vol. 2 are an attempt at a different approach, rather than a reaction to the Patronite results.
+* The chances for someone from [Prime Time Wrestling](@/o/ptw.md) appearing at the show are nearly zero, with the LOW-PTW relations being "complicated".
+* Events from [KPW](@/o/kpw.md), [MZW](@/o/mzw.md) and [PpW](@/o/ppw.md) shows are considered canon by Legacy, but what happens at Legacy shows may or may not be considered canon by other promotions.
+* 
+* Dokończyć jutro od tego miejsca:
+* https://www.youtube.com/live/4urhjLJHEtA&t=1036
+* 
+* 
+* 
+
 
 ## References
 
@@ -95,6 +108,7 @@ On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wre
 * [Video: LOW reveal trailer][reveal-trailer]
 * [Live Q&A #1][live-qa-1], hosted by ShowOff
 * [Live Q&A #2][live-qa-2], hosted by ShowOff
+* [Live Q&A #3][live-qa-3], hosted by ShowOff
 
 [reveal-trailer]: https://www.youtube.com/watch?v=_CvfCaElDK4
 [solidarnosc]: https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
