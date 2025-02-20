@@ -90,7 +90,7 @@ On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channe
 On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2". A [trailer][low-2-trailer] for the show was published on 18.02.2025, along with an announcement of [another live Q&A][live-qa-3], which took place on 19.02.2025. Again, the Q&A was hosted by [ShowOff](@/w/piotr-malecki.md).
 
 * The show is named "Legacy of Wrestling vol. 2" in reference to [Guardians of the Galaxy Vol. 2][galaktyczni-2].
-* Like previously, the show will take place on a Sunday, as this was the only available date that didn't clash with shows by other promotions.
+* Like previously, the show will take place on a Sunday, as this was the only available date that didn't clash with other wrestling shows.
 * There were no expectations regarding Patronite before the [first show](@/e/low/2024-12-01-low-1.md).
 * The VIP tickets (entry + limited T-shirt + signed poster) for Legacy vol. 2 are an attempt at a different approach, rather than a reaction to the Patronite results.
 * The chances for someone from [Prime Time Wrestling](@/o/ptw.md) appearing at the show are nearly zero, with the current LOW-PTW relations being "complicated".
@@ -101,8 +101,8 @@ On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wre
 * People who don't train as much will be used in roles other than in-ring competition, to keep the quality of the show consistently high.
 * Legacy are considering their own championship titles, but first they want to establish themselves as a promotion with regular events.
 * The second show will air on Extreme Sports Channel, and will be made available on YouTube about two weeks later.
-* There are talks with regards to international wrestlers. Legacy are willing to have one or two guests from abroad, but Polish wreslers are their primary focus.
-* Talks with KPW before the first show started with the federation, before moving to individual wreslers.
+* There are talks with regards to international wrestlers. Legacy are willing to have one or two guests from abroad, but Polish wrestlers are their primary focus.
+* Prior to the first show, Legacy talked with KPW first, before moving on to their individual wrestlers.
 * Legacy hope to have some KPW wrestlers at the second event as well.
 * The ring will most likely be supplied by MZW again.
 * The musical chairs from the first show were a reference to a [similar segment][krzesla-balora] in Progress Wrestling, featuring Finn Bálor.
@@ -112,7 +112,7 @@ On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wre
 * Kubes, [Dziedzic](@/w/dziedzic.md), [Balik](@/w/lukasz-balinski.md), [Sambor](@/w/sambor.md) and Mister Chairman were confirmed to be at the second show (though Mr. Chairman may or may not appear publicly).
 * [Arek Paterek](@/w/arek-paterek.md) should be at the show too; [Disco Pablo](@/w/disco-pablo.md) perhaps as well.
 * Everyone who appeared at the first show is invited to the second one.
-* There will be matches between wreslers from different promotions.
+* There will be matches between wrestlers from different promotions.
 * [Sinister](@/w/sinister.md) won't be the host again. There's a possibility that each show will feature a different host.
 * There might be another live Q&A before the show.
 
