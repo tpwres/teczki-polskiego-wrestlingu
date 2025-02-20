@@ -14,6 +14,8 @@ path = "ah-jooo.jpg"
 caption = "Erik Šlotíř informs he's parted ways with [Prime Time Wrestling](@/o/ptw.md)."
 source = "erikslotir @ Instagram"
 +++
+Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for his run in [Prime Time Wrestling](@/o/ptw.md) between 2023 and 2025.
+
 ## Basic info
 
 * Years active: 2023-
