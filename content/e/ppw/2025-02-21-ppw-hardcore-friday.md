@@ -7,7 +7,6 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
-hide_results = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-02-21-ppw-hardcore-friday-gallery.toml"
 +++
@@ -22,7 +21,29 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * The day after that since [Goblin](@/w/goblin.md) decided to go to Mexico instead of appearing at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), he'd now have to compete in a "lucha surprise" match.
 * On 18.02.2025 [Axel Fox](@/w/axel-fox.md) was announced.
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Goblin](@/w/goblin.md)'
+  - 'Sentinel'
+  - n: Mister Z's Sorpresa de Lucha Muy Loco
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - g: 'Mister Z states that if Biesiad wins, he'll have to go back to being his old self; and if Mr Z wins, Biesiad will have to be his bodyguard.'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - n: Mister Z's special challenge - Time Limit Match
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - 'Bartosz Plata'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - s: 'Triple Threat Match'
+    n: '[Michael HT](@/w/michael-ht.md) issued an open challenge'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - s: Gra w melanż - Vodka Match
+
+
+
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
   - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Tornado Tag-Team Match
@@ -34,19 +55,18 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
     [Sędzia Karol Górski](@/w/madman-charlie.md)
   - s: Referees Gauntlet Match
     nc: upcoming
-- - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Marco Hammers](@/w/marco-hammers.md)'
-  - s: Gra w melanż - Vodka Match
-    nc: upcoming
-- - '[Biesiad Strong](@/w/biesiad.md)'
-  - '???'
-  - n: Mister Z's special challenge
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md)'
-  - '???'
-  - n: Mister Z's Sorpresa de Lucha Muy Loco
-    nc: upcoming
+- credits:
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), Antek Istociarz'
+    Guest Commentary: '[Goblin](@/w/goblin.md), [Olgierd](@/w/olgierd.md)'
 {% end %}
+
+#### Recap
+
+* The live stream went offline a few times during the show, including the last few minutes of the opening match.
+* Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
+* 
 
 ### References
 
