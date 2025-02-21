@@ -32,6 +32,11 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Olgierd](@/w/olgierd.md)'
   - s: Dog Collar Match
     nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: '?'
+    nc: upcoming
 {% end %}
 
 ### References
