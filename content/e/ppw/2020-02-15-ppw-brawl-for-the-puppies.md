@@ -30,6 +30,7 @@ True to the name, all the gate profits (910&nbsp;PLN) were donated to "Psi Raj" 
   - s: 'No Rope Barbed Wire Death Match'
 - credits:
     Host, Ring Announcer: '[Biesiad](@/w/biesiad.md)' # unconfirmed, looks the part
+    Guest Ring Announcer: 'La Parka (Który nie jest prawdziwym etc.)'
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)' # and possibly Koteł
 {% end %}
 
