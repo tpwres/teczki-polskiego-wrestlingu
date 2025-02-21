@@ -41,22 +41,19 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: 'Gra w melanż - Vodka Match'
-
-
-
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
-  - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - s: Tornado Tag-Team Match
-    nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
+- - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
+  - s: 'Tornado Tag-Team Match'
+- - '[Olgierd](@/w/olgierd.md); [Marco Hammers](@/w/marco-hammers.md)'
   - >
     [Sędzia Seweryn](@/w/sedzia-seweryn.md),
     [Sędzia Kornel](@/w/sedzia-kornel.md),
     [Sędzia Karol Górski](@/w/madman-charlie.md)
   - s: Referees Gauntlet Match
-    nc: upcoming
+    n: Kornel went against Olgierd first, Karol second and Sewi third.
 - credits:
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Special Guest Referee: '[Marco Hammers](@/w/marco-hammers.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), Antek Istociarz'
     Guest Commentary: '[Goblin](@/w/goblin.md), [Olgierd](@/w/olgierd.md)'
@@ -64,10 +61,14 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 
 #### Recap
 
-* The live stream went offline a few times during the show, including the last few minutes of the opening match.
+* This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
+* The live stream went offline a few times during the show, including the final minutes of the opening match.
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
-* The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up on his feet, thus securing the win.
-* 
+* The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up to his feet, thus securing the win.
+* Since all three referees fought in the main event, the special guest referee for the match was [Marco Hammers](@/w/marco-hammers.md).
+* Marco came out wearing a [Legacy of Wrestling](@/o/low.md) T-shirt.
+* Sędzia Karol Górski reverted back to his Madman Charlie persona during his bout.
+* After the main event, Goblin attacked the victorious Olgierd and put a dog collar with a chain on him, in anticipation of the Dog Collar Match between the two at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ### References
 
@@ -80,3 +81,5 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * [Goblin in Mister Z's Sorpresa de Lucha Muy Loco](https://www.facebook.com/photo/?fbid=1168415858622138&set=a.499910772139320)
 * [Axel Fox announced](https://www.facebook.com/photo/?fbid=1169287151868342&set=a.499910772139320)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/events/hardcore-friday-21000-21-02-2025) (requires paid subscription)
+
+[ppw-vod]:https://ppw-ewenementpl.vhx.tv/
