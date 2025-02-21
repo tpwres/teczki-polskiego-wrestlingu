@@ -1,7 +1,4 @@
 class LightboxController {
-    static targets = ["dialog", "close", "prev", "next", "maximize", "minimize",
-                      "container", "img", "caption", "desc", "attribution"]
-
     paginator
     maximised
 
@@ -123,9 +120,6 @@ class LightboxController {
 }
 
 class GalleryController {
-    static targets = ["figure"]
-    static outlets = ["lightbox"]
-
     constructor(gallery_list, lightbox) {
         this.root = gallery_list
         this.lightbox = lightbox
