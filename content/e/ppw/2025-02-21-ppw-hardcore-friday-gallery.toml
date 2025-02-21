@@ -8,3 +8,4 @@
 0101 = { path = "pawlowski-przegryzl-kable.webp", caption = "The live stream stops streaming during Goblin vs Sentinel.", source = "Official PpW VOD" }
 0701 = { path = "antek-na-wysokosci-a-wrestling-na-ringu.jpg", caption = "Antek Istociarz watches the action from above.", source = "Krzysztof Zych" }
 0901 = { path = "low-represent.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) represents [Legacy of Wrestling](@/o/low.md), while [Olgierd](@/w/olgierd.md) chills in a corner.", source = "Official PpW VOD" }
+1001 = { path = "kielbasa-byla-rozdana-szybko.jpg", caption = "Fans and wrestlers after the show. Visible in the crowd are [Sędzia Kornel](@/w/sedzia-kornel.md) and [Isnorr](@/w/isnorr.md).", source = "Krzysztof Zych" }
