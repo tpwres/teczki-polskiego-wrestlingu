@@ -18,7 +18,7 @@ Dark Show was PpW's penultimate backyard event and the last one to be held in th
 - - '[Duende](@/w/sedzia-borys.md)'
   - '[Osamu](@/w/osamu.md)'
   - nc: Double Count Out
-- - '[Hirinus](@/w/hirinus.md)'
+- - '[Hirinus](@/w/mister-z.md)'
   - '[Automatico](@/w/automatico.md)'
   - '[KAT](@/w/biesiad.md)'
   - s: Triple Threat Hardcore Match

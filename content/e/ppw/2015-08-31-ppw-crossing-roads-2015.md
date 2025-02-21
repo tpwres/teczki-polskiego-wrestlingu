@@ -14,7 +14,7 @@ city = "Warszawa"
 Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdoors at [Winogronowa 17](@/v/winogronowa-17.md) street in Warsaw. It was built around the clash of the rosters of the two PpW "weeklies": Hardcore Friday and Super Lucha.
 
 {% card() %}
-- - '[Hirinus](@/w/hirinus.md)'
+- - '[Hirinus](@/w/mister-z.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Hardcore Match
 - - '[Feager](@/w/feager.md)'
