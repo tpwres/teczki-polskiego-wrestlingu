@@ -10,13 +10,15 @@ city = "Warszawa"
 [extra.gallery]
 manifest = "@/e/ppw/2025-02-21-ppw-hardcore-friday-gallery.toml"
 +++
-The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
+
+Hardcore Friday 21k was a show by [PpW Ewenement](@/o/ppw.md), held on Friday February 21st 2025, in the [2Koła motorcycle club](@/v/2kola.md). The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
 
 ## Build-up
 * On February 10th, PpW posted a video of [Marco Hammers](@/w/marco-hammers.md) challenging [Johnny Blade](@/w/johnny-blade.md) for a match with any stipulation of Blade's choosing - except for his signature Hardcore Match.
 * The match was confirmed the following day in PpW's social media.
 * [Mister Z](@/w/mister-z.md) also confirmed that while Johnny's suspension is lifted, [Biesiad Strong](@/w/biesiad.md) is still suspended and he is going to get something "special" at the show.
-* On February 13th, Johnny Blade posted a video of himself tending bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - a _Drunken Ambition Match_, or _Gra w melanż_. The rules are simple - whoever grabs the rope, needs to drink a shot of vodka. Later in the day PpW confirmed the match, officially naming the stipulation _Gra w melanż - wódka mecz_ (roughly "Party Game - Vodka Match").
+* On February 13th, Johnny Blade posted a video of himself tending bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - a _Drunken Ambition Match_, or _Gra w melanż_. The rules are simple - whoever touches the ropes, needs to drink a shot of vodka. Later in the day PpW confirmed the match, officially naming the stipulation _Gra w melanż - wódka mecz_ (roughly "Party Game - Vodka Match"). \
+  Despite Johnny naming it "Drunken Ambition", this stipulation is distinct from the one that the German federation WxW sometimes uses. In WxW, a shot is poured only after a wrestler **grabs the ropes** deliberately, including trying force a rope break. In the PpW version, **touching the ropes** for any reason, with any body part (including touching the ropes with your back after being thrown) is penalised with a vodka shot.
 * On 16.02.2025 PpW announced that Biesiad would have to face Mister Z's "special challenge" to earn his way back from his suspension.
 * The day after that since [Goblin](@/w/goblin.md) decided to go to Mexico instead of appearing at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), he'd now have to compete in a "lucha surprise" match.
 * On 18.02.2025 [Axel Fox](@/w/axel-fox.md) was announced.
@@ -27,7 +29,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
   - n: "Mister Z's Sorpresa de Lucha Muy Loco"
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - g: "Mister Z states that if Biesiad wins, he'll have to go back to being his old self; and if Mr Z wins, Biesiad will have to be his bodyguard."
+  - g: "Mister Z reinstates Biesiad, but also stipulates that if Biesiad loses, he will have to be his bodyguard and join Zmowa."
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
@@ -45,6 +47,9 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 - - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
   - s: 'Tornado Tag-Team Match'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - g: Gabriel demands a rematch
 - - '[Olgierd](@/w/olgierd.md); [Marco Hammers](@/w/marco-hammers.md)'
   - >
     [Sędzia Seweryn](@/w/sedzia-seweryn.md),
@@ -66,9 +71,12 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
 * The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up to his feet, thus securing the win.
+* Even Referee Kornel had to down a shot of vodka, after carelessly touching the ropes when motioning for the crew to pour one for Marco. He was careful to not touch the ropes afterwards.
+* Confronting Gustav after the match, Gabriel noted that Gustav's first defeat in 14 months. Gustav initially dismissed it, as it was Isnorr who ate the pin, but later agreed to a rematch (from [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)).
+* Bartosz was the one to accept Fox's open challenge, but before they engaged, Oskar's music started playing to the surprise of both. Axel then eagerly made the match a Triple Threat.
 * Since all three referees fought in the main event, the special guest referee for the match was [Marco Hammers](@/w/marco-hammers.md).
-* Marco came out wearing a [Legacy of Wrestling](@/o/low.md) T-shirt.
-* Sędzia Karol Górski reverted back to his Madman Charlie persona during his bout.
+* For his guest referee role, Marco came out wearing a [Legacy of Wrestling](@/o/low.md) T-shirt, which he later removed to reveal a referee's striped shirt underneath.
+* Sędzia Karol Górski appeared to revert back to his Madman Charlie persona during his bout.
 * After the main event, Goblin attacked the victorious Olgierd and put a dog collar with a chain on him, in anticipation of the Dog Collar Match between the two at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ### References
