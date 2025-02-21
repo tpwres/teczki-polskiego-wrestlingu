@@ -58,3 +58,4 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 * [Biesiad in Mister Z's special challenge announced](https://www.facebook.com/photo/?fbid=1167604972036560&set=a.499910772139320)
 * [Goblin in Mister Z's Sorpresa de Lucha Muy Loco](https://www.facebook.com/photo/?fbid=1168415858622138&set=a.499910772139320)
 * [Axel Fox announced](https://www.facebook.com/photo/?fbid=1169287151868342&set=a.499910772139320)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/events/hardcore-friday-21000-21-02-2025) (requires paid subscription)
