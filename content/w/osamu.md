@@ -32,7 +32,7 @@ At Ledwo Legalne Osamu managed to defeat Mister Z thanks to an assist from [Tony
 After that defeat Osamu vanished for over eight months before making his return at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), when he tried to regain the PpW Championship from current champion [Biesiad Strong](@/w/biesiad.md), but without success.
 At [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) he lost to [Bill Feager](@/w/feager.md), which marked his last appearance as an in-ring worker. At [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) Osamu managed Tony Sk1n and Madman Charlie in a match against Mister Z and [Ricardo Diesel](@/w/ricardo-diesel.md).
 
-In late 2022 Osamu subsequently retired from in-ring competition, due to suffering an injury, but remained in PpW as a staff member.
+In late 2022 Osamu subsequently retired from in-ring competition, due to suffering an injury, but remained in PpW as a staff member. For a few events Osamu worked as a manager to [Gustav Gryffin](@/w/gustav-gryffin.md), whom he introduced to PpW.
 
 ## In wrestling
 
