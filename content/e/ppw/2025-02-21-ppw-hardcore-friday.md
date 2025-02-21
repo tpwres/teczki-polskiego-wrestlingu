@@ -11,14 +11,14 @@ city = "Warszawa"
 manifest = "@/e/ppw/2025-02-21-ppw-hardcore-friday-gallery.toml"
 +++
 
-Hardcore Friday 21k was a show by [PpW Ewenement](@/o/ppw.md), held on Friday February 21st 2025, in the [2Koła motorcycle club](@/v/2kola.md). The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
+Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday, February 21st, 2025, in the [2KOŁA Motorcycle Club](@/v/2kola.md). The show was announced during the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
 
 ## Build-up
 * On February 10th, PpW posted a video of [Marco Hammers](@/w/marco-hammers.md) challenging [Johnny Blade](@/w/johnny-blade.md) for a match with any stipulation of Blade's choosing - except for his signature Hardcore Match.
 * The match was confirmed the following day in PpW's social media.
 * [Mister Z](@/w/mister-z.md) also confirmed that while Johnny's suspension is lifted, [Biesiad Strong](@/w/biesiad.md) is still suspended and he is going to get something "special" at the show.
-* On February 13th, Johnny Blade posted a video of himself tending bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - a _Drunken Ambition Match_, or _Gra w melanż_. The rules are simple - whoever touches the ropes, needs to drink a shot of vodka. Later in the day PpW confirmed the match, officially naming the stipulation _Gra w melanż - wódka mecz_ (roughly "Party Game - Vodka Match"). \
-  Despite Johnny naming it "Drunken Ambition", this stipulation is distinct from the identically named one that the German federation WxW sometimes uses. In WxW, a shot is poured only after a wrestler **grabs the ropes** deliberately, including trying to force a rope break. In the PpW version, **touching the ropes** for any reason, with any body part (including touching the ropes with your back after being thrown) is penalised with a vodka shot.
+* On February 13th, Johnny Blade posted a video of himself tending the bar at [2Koła](@/v/2kola.md) - his day job, now openly acknowledged in PpW storylines. While pouring vodka shots, he presents his choice of stipulation - a _Drunken Ambition Match_, or _Gra w melanż_. The rules are simple - whoever touches the ropes, needs to drink a shot of vodka. Later in the day PpW confirmed the match, officially naming the stipulation _Gra w melanż - wódka mecz_ (roughly "Party Game - Vodka Match"). \
+  Despite Johnny naming it "Drunken Ambition", this stipulation is distinct from the identically named one that the German federation WxW sometimes uses. In WxW, a shot is poured only after a wrestler _grabs the ropes_ deliberately, including trying to force a rope break. In the PpW version, _touching the ropes_ for any reason, with any body part (including touching the ropes with one's back after being thrown) is penalised with a vodka shot.
 * On 16.02.2025 PpW announced that Biesiad would have to face Mister Z's "special challenge" to earn his way back from his suspension.
 * The day after that since [Goblin](@/w/goblin.md) decided to go to Mexico instead of appearing at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), he'd now have to compete in a "lucha surprise" match.
 * On 18.02.2025 [Axel Fox](@/w/axel-fox.md) was announced.
