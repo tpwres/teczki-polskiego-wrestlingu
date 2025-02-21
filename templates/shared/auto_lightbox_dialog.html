@@ -20,7 +20,7 @@
 {% include "shared/lightbox.html" %}
 {% if gallery_items %}
   <h2 id="gallery">Gallery</h2>
-    <ul class="gallery">
+    <ul class="gallery main-gallery" {% if page.extra.collapse_gallery %} data-allow-collapse="allow" {% endif %}>
       {% for key, item in gallery_items %}
         {% set path = item.path -%}
         {% set caption = item | get(key="caption", default="") -%}

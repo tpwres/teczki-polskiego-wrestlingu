@@ -26,6 +26,7 @@ title = "PpW Ale Grzeje"
 template = "event_page.html"
 [extra]
 venue = "teatr-komuna"
+collapse_gallery = true
 [extra.gallery]
 1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Facebook PPW Ewenement"}
 +++
@@ -39,6 +40,10 @@ The value is always a map (another list of key-value pairs), which **must contai
 * `path` must name a file in the page's images folder (see above). There is no way to link images from other articles, and copying them is the only solution for now.
 * `caption` is the text to display under the thumbnail in the gallery grid. Markdown can be used in this text, as shown in the example, so it can link to other pages. However, shortcodes and template markup cannot be used.
 * `source` is the attribution. While currently it's not displayed, we still want to collect it to have a grasp on where the images came from.
+
+### Collapsing
+
+If `collapse_gallery` is present in the extra section, and has a value of `true`, the gallery will start in a collapsed state, only showing the first six photos, and a link to display the rest.
 
 ### Alternate TOML format
 

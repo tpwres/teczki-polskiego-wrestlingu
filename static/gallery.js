@@ -127,6 +127,7 @@ class GalleryController {
     static outlets = ["lightbox"]
 
     constructor(gallery_list, lightbox) {
+        this.root = gallery_list
         this.lightbox = lightbox
         this.connect(gallery_list)
     }
@@ -156,11 +157,31 @@ class GalleryController {
         return [prevFig, nextFig]
     }
 
+    collapse_main() {
+        if (!this.root.classList.contains('main-gallery')) return
+        if (!this.root.dataset.allowCollapse) return
+        const thumbs = this.root.querySelectorAll('li')
+        const total_photo_count = thumbs.length
+        Array.from(thumbs).slice(6).forEach((el) => el.style.display = 'none')
+
+        const display_more = document.createElement('a')
+        display_more.textContent = `Expand gallery (${total_photo_count - 6} photos hidden)`
+        const el = document.createElement('li')
+        el.classList.add('expand-gallery')
+        el.appendChild(display_more)
+        display_more.addEventListener('click', () => {
+            Array.from(thumbs).slice(6).forEach((el) => el.style.display = 'initial')
+            el.remove()
+        })
+        this.root.appendChild(el)
+    }
+
 }
 
 const dialog = document.querySelector('dialog#lb')
 const lightbox = new LightboxController(dialog)
 // TODO: more than one gallery, normal on talent pages
 document.querySelectorAll('ul.gallery').forEach((gal) => {
-    new GalleryController(gal, lightbox)
+    const gc = new GalleryController(gal, lightbox)
+    gc.collapse_main()
 })
