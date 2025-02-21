@@ -32,7 +32,8 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Sambor](@/w/sambor.md)'
-  - n: "Mister Z's special challenge - Time Limit Match"
+  - s: 'Time Limit Match'
+    n: "Mister Z's special challenge"
 - - '[Axel Fox](@/w/axel-fox.md)'
   - 'Bartosz Plata'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
