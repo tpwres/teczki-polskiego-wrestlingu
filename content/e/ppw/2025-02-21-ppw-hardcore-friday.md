@@ -24,15 +24,15 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 {% card() %}
 - - '[Goblin](@/w/goblin.md)'
   - 'Sentinel'
-  - n: Mister Z's Sorpresa de Lucha Muy Loco
+  - n: "Mister Z's Sorpresa de Lucha Muy Loco"
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - g: 'Mister Z states that if Biesiad wins, he'll have to go back to being his old self; and if Mr Z wins, Biesiad will have to be his bodyguard.'
+  - g: "Mister Z states that if Biesiad wins, he'll have to go back to being his old self; and if Mr Z wins, Biesiad will have to be his bodyguard."
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Sambor](@/w/sambor.md)'
-  - n: Mister Z's special challenge - Time Limit Match
+  - n: "Mister Z's special challenge - Time Limit Match"
 - - '[Axel Fox](@/w/axel-fox.md)'
   - 'Bartosz Plata'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
@@ -40,7 +40,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
     n: '[Michael HT](@/w/michael-ht.md) issued an open challenge'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
-  - s: Gra w melanż - Vodka Match
+  - s: 'Gra w melanż - Vodka Match'
 
 
 
@@ -66,6 +66,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 
 * The live stream went offline a few times during the show, including the last few minutes of the opening match.
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
+* The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up on his feet, thus securing the win.
 * 
 
 ### References
