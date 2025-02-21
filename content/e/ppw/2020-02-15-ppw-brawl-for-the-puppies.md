@@ -12,8 +12,8 @@ city = "Warszawa"
 +++
 
 Bijatyka Dla Piesków (_Brawl for the Puppies_) was an event by [PpW Ewenement](@/o/ppw.md), held on Saturday, February 15th 2020.
-Held in [2KOŁA](@/v/2kola.md), it marks the start of PpW's pro era.
-True to the name, all the gate profits were donated to dog shelters in the Warsaw area.
+Held in [2KOŁA](@/v/2kola.md), it marks the start of PpW's pro era and was the first PpW event to feature international wrestlers.
+True to the name, all the gate profits (910&nbsp;PLN) were donated to "Psi Raj" dog shelter in Pasłęk.
 
 {% card() %}
 - - 'Amskér'
@@ -24,7 +24,7 @@ True to the name, all the gate profits were donated to dog shelters in the Warsa
   - s: 'Three Way Match'
 - - '[Mister Z](@/w/mister-z.md)(c)'
   - 'Šakal'
-  - c: 'PpW Championship'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
 - - 'Viking'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: 'No Rope Barbed Wire Death Match'
