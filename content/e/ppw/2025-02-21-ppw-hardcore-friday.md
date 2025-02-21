@@ -38,7 +38,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
   - 'Bartosz Plata'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: 'Triple Threat Match'
-    n: '[Michael HT](@/w/michael-ht.md) issued an open challenge'
+    n: '[Michael HT](@/w/michael-ht.md) announced an open challenge for Axel Fox.'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: 'Gra w melanż - Vodka Match'
