@@ -63,7 +63,7 @@ The show was announced in the closing segment of [Gruba Przesada](@/e/ppw/2025-0
 #### Recap
 
 * This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
-* The live stream went offline a few times during the show, including the final minutes of the opening match.
+* The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
 * The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up to his feet, thus securing the win.
 * Since all three referees fought in the main event, the special guest referee for the match was [Marco Hammers](@/w/marco-hammers.md).
