@@ -21,7 +21,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 13.02.2025 MZW [released a video][goblin-announces-himself] of [Goblin](@/w/goblin.md), stating that he's finally going to appear in "the greenest federation in Poland" and then throw "the biggest afterparty in Breslau ever since those lands returned under the rule of the Republic of Poland".
 * Two days later [MZW announced][robert-kaiser-returns] that Goblin would face the German wrestler [Robert Kaiser](@/w/robert-kaiser.md), last seen in 2016 at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md).
 * On 18.02.2025 [Matt Buckna](@/w/matt-buckna.md) [challenged][buckna-challenge] [Shadow](@/w/shadow.md) to a fight for his [MZW Championship](@/c/mzw-championship.md), in honour of MZW's 11th anniversary.
-* On 22.02.2025 MZW [announced][kubes-announced] that would appear at the show. This was three days after Kubes was confirmed by [ShowOff](@/w/piotr-malecki.md) to be booked for the [second show](@/e/low/2025-04-06-low-2.md) by [Legacy of Wrestling](@/o/low.md).
+* On 22.02.2025 MZW [announced][kubes-announced] that Kubes, an American wrestler of Polish origin, would appear at the show. This was three days after Kubes was confirmed by [ShowOff](@/w/piotr-malecki.md) to be booked for the [second show](@/e/low/2025-04-06-low-2.md) by [Legacy of Wrestling](@/o/low.md).
 
 {% card(predicted=true) %}
 - - 'Marcus Monere'
