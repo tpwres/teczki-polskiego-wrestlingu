@@ -43,7 +43,14 @@ The value is always a map (another list of key-value pairs), which **must contai
 
 ### Collapsing
 
-If `collapse_gallery` is present in the extra section, and has a value of `true`, the gallery will start in a collapsed state, only showing the first six photos, and a link to display the rest.
+The extra section may contain a key named `collapse_gallery`. Depending on its value, the gallery may be collapsed:
+
+* when set to `true`: gallery is always collapsed, only showing the first six thumbnails, and a link to display the rest.
+* when set to `"auto"`: gallery is only collapsed if it has more than 12 items
+* when set to `false`: gallery is never collapsed
+* when the key is missing: same as `"auto"`
+
+Regardless of whether the gallery is collapsed or not, the lightbox can navigate between all photos without expanding it first.
 
 ### Alternate TOML format
 

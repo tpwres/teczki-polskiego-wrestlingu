@@ -19,8 +19,15 @@
 {% endif %}
 {% include "shared/lightbox.html" %}
 {% if gallery_items %}
+  {% set collapse = page.extra | get(key='collapse_gallery', default='auto') %}
   <h2 id="gallery">Gallery</h2>
-    <ul class="gallery main-gallery" {% if page.extra.collapse_gallery %} data-allow-collapse="allow" {% endif %}>
+    <ul class="gallery main-gallery"
+        {% if collapse == 'auto' %}
+          data-allow-collapse="auto"
+        {% elif collapse == true %}
+          data-allow-collapse="always"
+        {% endif %}
+    >
       {% for key, item in gallery_items %}
         {% set path = item.path -%}
         {% set caption = item | get(key="caption", default="") -%}
@@ -40,4 +47,12 @@
     </ul>
   </details>
 {% endif %}
+<script id="pluralization-rules" type="text/json">
+{
+    "photos hidden": {
+      "one": "1 photo hidden",
+      "other": "$n photos hidden"
+    }
+}
+</script>
 <script type="module" src="/gallery.js"></script>

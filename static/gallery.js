@@ -153,13 +153,19 @@ class GalleryController {
 
     collapse_main() {
         if (!this.root.classList.contains('main-gallery')) return
-        if (!this.root.dataset.allowCollapse) return
+        const when = this.root.dataset.allowCollapse
+        if (!when) return
+
         const thumbs = this.root.querySelectorAll('li')
         const total_photo_count = thumbs.length
+        if (when == 'auto' && total_photo_count < 12) return
+
         Array.from(thumbs).slice(6).forEach((el) => el.style.display = 'none')
 
         const display_more = document.createElement('a')
-        display_more.textContent = `Expand gallery (${total_photo_count - 6} photos hidden)`
+        const keep_visible = 6
+        const hidden_text = this.pluralize('photos hidden', total_photo_count - keep_visible)
+        display_more.textContent = `Expand gallery (${hidden_text})`
         const el = document.createElement('li')
         el.classList.add('expand-gallery')
         el.appendChild(display_more)
@@ -170,6 +176,18 @@ class GalleryController {
         this.root.appendChild(el)
     }
 
+    pluralize(term, n) {
+        const rules = JSON.parse(document.querySelector('#pluralization-rules').textContent)
+        const matching_rule = rules[term]
+        if (!matching_rule)
+            return `${n} ${term}`
+        switch (n) {
+        case 1:
+            return matching_rule.one.replace('$n', n)
+        default:
+            return matching_rule.other.replace('$n', n)
+        }
+    }
 }
 
 const dialog = document.querySelector('dialog#lb')
