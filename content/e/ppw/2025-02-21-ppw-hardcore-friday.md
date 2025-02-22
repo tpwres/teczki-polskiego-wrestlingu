@@ -37,7 +37,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - s: 'Time Limit Match'
     n: "Mister Z's special challenge"
 - - '[Axel Fox](@/w/axel-fox.md)'
-  - 'Bartosz Plata'
+  - 'Adept Bartosz'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: 'Triple Threat Match'
     n: '[Michael HT](@/w/michael-ht.md) announced an open challenge for Axel Fox.'
