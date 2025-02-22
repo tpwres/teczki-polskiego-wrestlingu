@@ -19,7 +19,7 @@ Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) 
   - '[Malmo Buruto](@/w/malmo-buruto.md)'
   - '[Steven Strong](@/w/biesiad.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
-  - '[Hirinus](@/w/hirinus.md)'
+  - '[Hirinus](@/w/mister-z.md)'
   - 'Hekate'
   - '[PJ Blake](@/w/pj-blake.md)'
   - s: Gauntlet Match
