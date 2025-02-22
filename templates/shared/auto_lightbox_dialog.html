@@ -23,9 +23,9 @@
   <h2 id="gallery">Gallery</h2>
     <ul class="gallery main-gallery"
         {% if collapse == 'auto' %}
-          data-allow-collapse="auto"
+          data-collapse-gallery="auto"
         {% elif collapse == true %}
-          data-allow-collapse="always"
+          data-collapse-gallery="collapse"
         {% endif %}
     >
       {% for key, item in gallery_items %}

@@ -153,7 +153,7 @@ class GalleryController {
 
     collapse_main() {
         if (!this.root.classList.contains('main-gallery')) return
-        const when = this.root.dataset.allowCollapse
+        const when = this.root.dataset.collapseGallery
         if (!when) return
 
         const thumbs = this.root.querySelectorAll('li')
