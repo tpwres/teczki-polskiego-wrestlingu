@@ -29,7 +29,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - n: "Mister Z's Sorpresa de Lucha Muy Loco"
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - g: "Mister Z reinstates Biesiad, but also stipulates that if Biesiad loses in Beat the Clock challenge, he will have to be his bodyguard and join Zmowa."
+  - g: "Mister Z reinstates Biesiad, but also stipulates that if Biesiad loses his Beat the Clock challenge, he will have to be his bodyguard and join Zmowa."
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - s: Match 1 of Beat the Clock Challenge
@@ -72,8 +72,8 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
 * Mister Z introduced a big clock for Beat the Clock challenge between him and Biesiad. 
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
-* If either Sambor or Marcelito won their respective match, they would earn a number 20 entry in 20 person match at [Teraz albo Nigdy](@e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
-* Biesiad managed to pin Sambor, beating Mister Z's time, thus securing his freedom.
+* If either Sambor or Marcelito won their respective matches, they would earn a number 20 entry in the 20 person match at [Teraz albo Nigdy](@e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+* Biesiad managed to pin Sambor beating Mister Z's time, thus securing his freedom.
 * The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up to his feet, thus securing the win.
 * Even Referee Kornel had to down a shot of vodka, after carelessly touching the ropes when motioning for the crew to pour one for Marco. He was careful to not touch the ropes afterwards.
 * Confronting Gustav after the match, Gabriel noted that Gustav's first defeat in 14 months. Gustav initially dismissed it, as it was Isnorr who ate the pin, but later agreed to a rematch (from [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)).
