@@ -71,7 +71,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
-* The Vodka Match ended in a no contest, since neither contestant managed to get up to his feet before the referee counted to ten. Johnny Blade appeared to raise just in time, but the [official results][hcf21k-wyniki] posted by PpW state there was no winner.
+* The Vodka Match ended in a no contest, since neither contestant managed to get up to his feet before the referee counted to ten. Johnny Blade appeared to stand up just in time, but the [official results][hcf21k-wyniki] posted by PpW state there was no winner.
 * Even Referee Kornel had to down a shot of vodka, after carelessly touching the ropes when motioning for the crew to pour one for Marco. He was careful to not touch the ropes afterwards.
 * Confronting Gustav after the match, Gabriel noted that Gustav's first defeat in 14 months. Gustav initially dismissed it, as it was Isnorr who ate the pin, but later agreed to a rematch (from [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)).
 * Bartosz was the one to accept Fox's open challenge, but before they engaged, Oskar's music started playing to the surprise of both. Axel then eagerly made the match a Triple Threat.
