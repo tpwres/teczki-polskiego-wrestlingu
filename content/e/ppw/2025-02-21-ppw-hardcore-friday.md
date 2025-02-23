@@ -29,12 +29,13 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - n: "Mister Z's Sorpresa de Lucha Muy Loco"
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - g: "Mister Z reinstates Biesiad, but also stipulates that if Biesiad loses, he will have to be his bodyguard and join Zmowa."
+  - g: "Mister Z reinstates Biesiad, but also stipulates that if Biesiad loses in Beat the Clock challenge, he will have to be his bodyguard and join Zmowa."
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Marcelito](@/w/marcelito.md)'
+  - s: Match 1 of Beat the Clock Challenge
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Sambor](@/w/sambor.md)'
-  - s: 'Time Limit Match'
+  - s: 'Match 2 of Beat the Clock Challenge'
     n: "Mister Z's special challenge"
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '_rookie_ Bartosz'
@@ -69,7 +70,10 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 
 * This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
+* Mister Z introduced a big clock for Beat the Clock challenge between him and Biesiad. 
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
+* If either Sambor or Marcelito won their respective match, they would earn a number 20 entry in 20 person match at [Teraz albo Nigdy](@e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+* Biesiad managed to pin Sambor, beating Mister Z's time, thus securing his freedom.
 * The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up to his feet, thus securing the win.
 * Even Referee Kornel had to down a shot of vodka, after carelessly touching the ropes when motioning for the crew to pour one for Marco. He was careful to not touch the ropes afterwards.
 * Confronting Gustav after the match, Gabriel noted that Gustav's first defeat in 14 months. Gustav initially dismissed it, as it was Isnorr who ate the pin, but later agreed to a rematch (from [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)).
