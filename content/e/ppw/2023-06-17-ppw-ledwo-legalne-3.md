@@ -20,12 +20,12 @@ source = "Official PpW Facebook"
   - '[Isnorr](@/w/isnorr.md)'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - s: 'Singapore Cane match'
+  - s: 'Singapore Cane Match'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
-  - g: "With Mandecky's and Bazooka's support, Mister Z delivers punishment to Blade. As per the stipulation, he lashes Blade with a cane 10 times."
+  - g: "With the support of Mandecky and Bazooka, Mister Z delivers punishment to Blade. As per the stipulation, he lashes Blade with a cane 10 times."
 - - '[Bill Feager](@/w/feager.md)'
   - 'Alex Berkner'
   - 'Goran'
