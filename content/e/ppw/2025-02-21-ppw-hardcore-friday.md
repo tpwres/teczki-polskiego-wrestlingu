@@ -40,7 +40,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - '_rookie_ Bartosz'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: 'Triple Threat Match'
-    n: '[Michael HT](@/w/michael-ht.md) announced an open challenge for Axel Fox.'
+    n: '[Michael HT](@/w/michael-ht.md) announced an open challenge on behalf of Axel Fox.'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: 'Gra w melanż - Vodka Match'
