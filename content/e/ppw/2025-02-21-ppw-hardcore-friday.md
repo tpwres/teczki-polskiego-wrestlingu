@@ -44,6 +44,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: 'Gra w melanż - Vodka Match'
+    nc: Double drunk-out
 - - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
   - s: 'Tornado Tag-Team Match'
@@ -55,7 +56,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
     [Sędzia Seweryn](@/w/sedzia-seweryn.md),
     [Sędzia Kornel](@/w/sedzia-kornel.md),
     [Sędzia Karol Górski](@/w/madman-charlie.md)
-  - s: Referees Gauntlet Match
+  - s: Referee Gauntlet Match
     n: Kornel went against Olgierd first, Karol second and Sewi third.
 - credits:
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -70,7 +71,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
 * Mister Z defeated Marcelito in 2:47, thus setting a time limit for Biesiad to defeat Sambor.
-* The Vodka Match appeared to end in a double drunk-out, but Johnny Blade managed to get up to his feet, thus securing the win.
+* The Vodka Match ended in a no contest, since neither contestant managed to get up to his feet before the referee counted to ten. Johnny Blade appeared to raise just in time, but the [official results][hcf21k-wyniki] posted by PpW state there was no winner.
 * Even Referee Kornel had to down a shot of vodka, after carelessly touching the ropes when motioning for the crew to pour one for Marco. He was careful to not touch the ropes afterwards.
 * Confronting Gustav after the match, Gabriel noted that Gustav's first defeat in 14 months. Gustav initially dismissed it, as it was Isnorr who ate the pin, but later agreed to a rematch (from [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)).
 * Bartosz was the one to accept Fox's open challenge, but before they engaged, Oskar's music started playing to the surprise of both. Axel then eagerly made the match a Triple Threat.
@@ -92,3 +93,4 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-21000-21-02-2025-02-21-2025-21-57-11) (requires paid subscription)
 
 [ppw-vod]:https://ppw-ewenementpl.vhx.tv/
+[hcf21k-wyniki]:https://www.facebook.com/photo/?fbid=1173247931472264&set=a.499910772139320
