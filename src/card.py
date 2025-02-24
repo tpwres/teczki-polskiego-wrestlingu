@@ -236,19 +236,38 @@ class Match:
             case ([*members], name):
                 return NamedTeam(name, members)
 
+tokenizer_re = re.compile(r'''
+  \s* # May include leading space, especially relevant for w/ and &
+    (
+      [,;&] | # single-char delimiters
+      (?:
+        (?<!@/) # NOT preceded by @/, i.e. not part of a talent page link
+        w/
+      )
+    )
+  \s*
+''', re.X)
+
 def parse_group(text) -> list[Participant]:
     # Split with capture keeps delimiters in the result list
-    tokenized = re.split(r'\s*([,;])\s*', text)
+    tokenized = tokenizer_re.split(text)
     first_name = tokenized.pop(0)
     combatants: list[Participant] = [Fighter(first_name)]
+    last_participant_type = Fighter
 
     while len(tokenized) > 0:
         match tokenized:
             case [',', name, *rest]:
                 combatants.append(Fighter(name.strip()))
+                last_participant_type = Fighter
                 tokenized = rest
-            case [';', name, *rest]:
+            case [w, name, *rest] if w in ('w/', ';'):
                 combatants.append(Manager(name.strip()))
+                last_participant_type = Manager
+                tokenized = rest
+            case ['&', name, *rest]:
+                person = last_participant_type(name.strip())
+                combatants.append(person)
                 tokenized = rest
             case _:
                 raise ValueError("{!r}".format(tokenized))

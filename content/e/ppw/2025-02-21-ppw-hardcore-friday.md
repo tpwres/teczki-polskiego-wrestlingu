@@ -52,7 +52,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - g: Gabriel demands a rematch
-- - '[Olgierd](@/w/olgierd.md); [Marco Hammers](@/w/marco-hammers.md)'
+- - '[Olgierd](@/w/olgierd.md) w/ [Marco Hammers](@/w/marco-hammers.md)'
   - >
     [Sędzia Seweryn](@/w/sedzia-seweryn.md),
     [Sędzia Kornel](@/w/sedzia-kornel.md),

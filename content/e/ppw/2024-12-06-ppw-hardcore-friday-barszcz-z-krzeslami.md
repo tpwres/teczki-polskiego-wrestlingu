@@ -24,7 +24,7 @@ The show was quickly sold out, so the attendance can be approximated at about 22
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Goblin](@/w/goblin.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md); Agent Agata'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ Agent Agata'
   - s: Four-way Match
 - - '[Santa Biesiad](@/w/biesiad.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'

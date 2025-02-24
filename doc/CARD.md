@@ -43,7 +43,7 @@ The recommended style is to use block-style for the matches list, but inline-sty
 - ["Bob Backlund", "Randy Savage"]
 ```
 
-However, nested block-style is also legal, and may be useful for multi-man matches like rumbles.
+However, nested block-style is most readable, and the recommended way to note all matches
 
 ```yaml
 # The following is a single match with four participants
@@ -77,6 +77,31 @@ But when it's an ad-hoc team, it's fine to use commas:
 
 ```
 "Hikaru Shida, Skye Blue, Willow Nightingale"
+```
+
+## Roles in the match
+
+Except for segments, each side has at least one fighter in the match. Often, additional people should not be counted as fighters, but rather as valets or managers. To denote a manager, use a semicolon `;` or `w/` before their name. For example, here's  two equivalent ways to note a team of two plus a manager.
+
+```
+Cash Wheeler, Dax Harwood; Tully Blanchard
+Cash Wheeler, Dax Harwood w/ Tully Blanchard
+```
+
+When multiple people have the same role, ampersands (`&`) can be used instead of repeating the other symbols. A person that is listed **after** an ampersand will have the **same role** as the person listed **before**. For example:
+
+All three fighters:
+
+```
+Matt Hardy, Jeff Hardy, Johnny Hardy
+Matt Hardy, Jeff Hardy & Johnny Hardy
+Matt Hardy & Jeff Hardy & Johnny Hardy
+```
+
+Multiple managers:
+
+```
+Galeno Del Mal w/ Hijo del Dr. Wagner & Silver King
 ```
 
 ## Championships
