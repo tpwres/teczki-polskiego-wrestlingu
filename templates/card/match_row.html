@@ -21,7 +21,7 @@
       {% if segment %}
         <strong>Segment:</strong> {{ talent | join(sep=", ") | markdown(inline=true) | safe }}
       {% else %}
-        {{ talent | join(sep=sep) | markdown(inline=true) | safe }}
+        {{ talent | join(sep=sep) | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
       {% endif %}
     </span>
     <span class="c">

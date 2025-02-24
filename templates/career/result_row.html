@@ -29,23 +29,22 @@
 {% else %}
   {% if bodies == 0 and not final.nc %} Winner: {% endif %}
   {% if 0 in positions %}
-    <strong>{{ winner | markdown(inline=true) | safe }}</strong>
+    <strong>{{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}</strong>
   {% else %}
-    {{ winner | markdown(inline=true) | safe }}
+    {{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
   {% endif %}
   {% if bodies > 0 %}
     {{ sep }}
     {% for opponent in others %}
       {% if loop.index in positions %}
-        <strong>{{ opponent | markdown(inline=true) | safe }}</strong>
+        <strong>{{ opponent | replace(from=";", to=" w/") | markdown(inline=true) | safe }}</strong>
       {% else %}
-        {{ opponent | markdown(inline=true) | safe }}
+        {{ opponent | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
       {% endif %}
       {% if not loop.last %}
         and
       {% endif %}
     {% endfor %}
-    {# {{ others | join(sep=" and ") | markdown(inline=true) | safe }} #}
   {% endif %}
   {% if final.r %}
       via {{ final.r }}
