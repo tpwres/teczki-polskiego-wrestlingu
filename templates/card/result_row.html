@@ -32,10 +32,10 @@
           {% if bodies == 0 %}
             Winner:
           {% endif %}
-          {{ winner | markdown(inline=true) | safe }}
+          {{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
           {% if bodies > 0 %}
               {{ sep | safe }}
-              {{ others | join(sep=" and ") | markdown(inline=true) | safe }}
+              {{ others | join(sep=" and ") | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
           {% endif %}
           {% if result %}
               via {{ final.r }}
