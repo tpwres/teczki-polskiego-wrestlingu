@@ -29,6 +29,7 @@ Gustav started his pro wrestling training at PpW Dojo - an unofficial predecesso
 He was trained mostly by [Jacob Crane](@/w/jacob-crane.md), who later became the head coach of the Dojo.
 Gustav made his debut at [PpW Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md), where he faced and defeated [Ricardo Diesel](@/w/ricardo-diesel.md).
 He quickly become a regular star at PpW events, thanks to his villainous gimmick of an ambitious, ruthless corporate suit who despises "hobos" and "low-lifes", which was a clear shot at the PpW audience, which is predominantly loosely assossiated with more rebellious and alternative ways of life.
+For the first few months of his career he was managed by [Osamu](@/w/osamu.md), until their falling out at [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) in December 2023..
 
 During his first matches in PpW he become one of most influential "traditional" wrestlers in PpW, focusing more on classic wrestling matches than hardcore wrestling, compared to other members of the PpW roster.
 Besides PpW, Gustav also made an appearance at the cross-promotion show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).

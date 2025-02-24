@@ -52,7 +52,7 @@ In June 2024, it was publicly revealed by [Arkadiusz Pawłowski](@/w/pan-pawlows
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Championship](@/o/ppw.md) (1 time)
+  - [PpW Championship](@/c/ppw-championship.md) (1 time)
 
 ## References
 
