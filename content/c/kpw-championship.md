@@ -37,38 +37,38 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
   - s: 2 out of 3 Falls Match
     en: '[Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md)'
     ed: 2016-08-13
-- - 'Piękny Kawaler (c)'
-  - Elliott Jordan
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
+  - '[Elliott Jordan](@/w/elliott-jordan.md)'
   - s: Singles match
     en: '[KPW Arena 4: Nowy Rozdział](@/e/kpw/2016-11-26-kpw-arena-4-nowy-rozdzial.md)'
     ed: 2016-11-26
-- - 'Piękny Kawaler (c)'
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - 'Pastor William Eaver'
   - s: Singles match
     en: '[KPW Arena V: Atlantic City](@/e/kpw/2017-01-14-kpw-arena-v.md)'
     ed: 2017-01-14
-- - 'Piękny Kawaler (c)'
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - '[Karol Górski](@/w/iskra.md)'
   - s: Singles match
     en: '[KPW Arena 6: Selekcja](@/e/kpw/2017-04-08-kpw-arena-6-selekcja.md)'
     ed: 2017-04-08
-- - 'Piękny Kawaler (c)'
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - s: Singles match
     en: '[KPW Arena 7: Wysoka Stawka](@/e/kpw/2017-06-10-kpw-arena-7-wysoka-stawka.md)'
     ed: 2017-06-10
-- - 'Piękny Kawaler (c)'
-  - 'Wild Boar'
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
+  - '[Wild Boar](@/w/wild-boar.md)'
   - s: Singles match
     en: '[KPW Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md)'
     ed: 2017-08-12
-- - 'Piękny Kawaler (c)'
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Lumberjack Match
     en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
     ed: 2018-05-26
 - - '[Ron Corvus](@/w/ron-corvus.md)'
-  - 'Piękny Kawaler (c)'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - s: Singles match
     en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
     ed: 2018-05-26
@@ -79,28 +79,28 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 ### Champion #2: Ron Corvus
 
 {% free_card() %}
-- - 'Ron Corvus'
-  - 'Piękny Kawaler (c)'
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - s: Singles match
     en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
     ed: 2018-05-26
-- - 'Ron Corvus (c)'
+- - '[Ron Corvus](@/w/ron-corvus.md) (c)'
   - '[Dom Taylor](@/w/dom-taylor.md)'
   - s: Singles match
     en: '[KPW OldTown 3: Turniej](@/e/kpw/2018-07-14-kpw-oldtown-3.md)'
     ed: 2018-07-14
-- - 'Ron Corvus (c)'
+- - '[Ron Corvus](@/w/ron-corvus.md) (c)'
   - 'Tom LaRuffa'
   - s: Singles match
     en: '[KPW Godzina Zero 2018](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md)'
     ed: 2018-08-11
-- - 'Ron Corvus (c)'
+- - '[Ron Corvus](@/w/ron-corvus.md) (c)'
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - s: Singles match
     en: '[KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md)'
     ed: 2019-01-19
 - - '[Robert Star](@/w/robert-star.md)'
-  - 'Ron Corvus (c)'
+  - '[Ron Corvus](@/w/ron-corvus.md) (c)'
   - s: Singles match
     en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
     ed: 2019-04-05
@@ -112,7 +112,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 
 {% free_card() %}
 - - '[Robert Star](@/w/robert-star.md)'
-  - 'Ron Corvus (c)'
+  - '[Ron Corvus](@/w/ron-corvus.md) (c)'
   - s: Singles match
     en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
     ed: 2019-04-05
@@ -125,21 +125,21 @@ Two days later, Robert Star was fired from KPW for breaking the terms of his agr
 ### Champion #4: Robert Star (2nd run)
 
 {% free_card() %}
-- - 'Robert Star'
-  - 'Dom Taylor'
-  - 'Kamil Aleksander'
-  - 'Peter Pannache'
-  - 'Ron Corvus'
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Dom Taylor](@/w/dom-taylor.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Peter Pannache](@/w/peter-pannache.md)'
+  - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - s: Six Way Elimination Match
     en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
     ed: 2019-06-15
-- - 'Robert Star (c)'
-  - 'Piękny Kawaler'
+- - '[Robert Star](@/w/robert-star.md) (c)'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - s: Career vs Career Last Man Standing Match
     en: '[KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
-- - 'Robert Star (c)'
+- - '[Robert Star](@/w/robert-star.md) (c)'
   - 'Reinbakh'
   - s: Singles match
     en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15-swieza-krew.md)'
@@ -158,18 +158,18 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
   - s: Three Stages of Hell Match 
     en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
-- - 'Greg (c)'
+- - '[Greg](@/w/greg.md) (c)'
   - 'Shigehiro Irie'
   - s: Singles match
     en: '[KPW Arena 21: Stara Szkoła](@/e/kpw/2023-02-24-kpw-arena-21.md)'
     ed: 2023-02-24
-- - 'Greg (c)'
+- - '[Greg](@/w/greg.md) (c)'
   - 'Flexos'
   - s: Singles match
     en: '[KPW Arena 22: Teczka Prezesa](@/e/kpw/2023-05-19-kpw-arena-22.md)'
     ed: 2023-05-19
 - - '[Red Scorpion](@/w/red-scorpion.md)'
-  - 'Greg (c)'
+  - '[Greg](@/w/greg.md) (c)'
   - s: Singles match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
@@ -181,22 +181,22 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
 
 {% free_card() %}
 - - '[Red Scorpion](@/w/red-scorpion.md)'
-  - 'Greg (c)'
+  - '[Greg](@/w/greg.md) (c)'
   - s: Singles match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
-- - 'Red Scorpion (c)'
+- - '[Red Scorpion](@/w/red-scorpion.md) (c)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - s: Singles match
     en: '[KPW Arena 23: Zabójcze Wyzwanie](@/e/kpw/2023-11-24-kpw-arena-23.md)'
     ed: 2023-11-24
-- - 'Red Scorpion (c)'
+- - '[Red Scorpion](@/w/red-scorpion.md) (c)'
   - 'Jack Jester'
   - s: Singles match
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
 - - '[Hans Schulte](@/w/hans-schulte.md)'
-  - 'Red Scorpion (c)'
+  - '[Red Scorpion](@/w/red-scorpion.md) (c)'
   - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
@@ -211,17 +211,16 @@ Both defenses took place during events held by Bologna Wrestling Team.
 
 {% free_card() %}
 - - '[Hans Schulte](@/w/hans-schulte.md)'
-  - 'Red Scorpion (c)'
+  - '[Red Scorpion](@/w/red-scorpion.md) (c)'
   - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
 - - '[Hans Schulte](@/w/hans-schulte.md) (c)'
-  - 'Red Scorpion'
+  - '[Red Scorpion](@/w/red-scorpion.md)'
   - s: Singles Match
     en: '[KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md)'
     ed: 2024-11-15
 {% end %}
-
 
 ## References
 
