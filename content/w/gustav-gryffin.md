@@ -67,6 +67,7 @@ In November 2024 it was announced that Gustav will face [Wiktor Longman](@/w/wik
 * Tag Teams and Stables:
   - [Zmowa](@/a/the-collusion.md)
 * Managers:
+  - [Osamu](@/w/osamu.md) (2023)
   - [Jakub Linde](@/w/jakub-linde.md) (2024)
 * Entrance music:
   - "Memphis Doom" by Kordhell
