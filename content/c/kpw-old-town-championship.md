@@ -160,7 +160,7 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
   - s: Singles match
     en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
     ed: 2024-02-16
-- - '[Chemik](@/w/chemik.md);
+- - '[Chemik](@/w/chemik.md)'
   - '[Rosetti](@/w/rosetti.md) (c)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Zefir](@/w/zefir.md)'
