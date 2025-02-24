@@ -41,7 +41,7 @@ In 2023 Osamu entered a feud with Ricardo Diesel. He was set to return to the ri
 
 Osamu quietly retired from in-ring competition due to lasting injuries, but remained in PpW as a staff member. He also made occasional appearances in [Goblin's](@/w/goblin.md) pre-taped segments. During the build-up to a match against Gryffin for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), Goblin - unaware of the events of Turbo OG - kidnapped Osamu to spite Gryffin, but this misunderstanding was soon resolved. Later, Osamu supported Goblin in his preparation for a tag match against Legia Łysych, presumably giving him [Axel Fox's](@/w/axel-fox.md) phone number.
 
-In June 2024, it was publicly revealed by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) that at the time of vacating the PpW Championship at Inside Job, Osamu had already been a PTW wrestler and the appearance was under Pawłowski's permission.
+In June 2024, it was publicly revealed by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) via his twitch stream that at the time of vacating the PpW Championship at Inside Job, Osamu had already been a PTW wrestler and the appearance was under Pawłowski's permission.
 
 ## In wrestling
 
@@ -58,3 +58,4 @@ In June 2024, it was publicly revealed by [Arkadiusz Pawłowski](@/w/pan-pawlows
 * [Goblin kidnaps Osamu](https://www.instagram.com/p/C6yzsKNsrmv/) - Instagram promo
 * [Canceled match at Mistrzowskie rozdanie](https://www.facebook.com/photo?fbid=689081556555573&set=a.499910778805986) - Facebook post
 * [Osamu helps Goblin find a partner against Legia Łysych](http://instagram.com/p/C9U-kiOswxR/) - Instagram post
+*[Pawłowski reveals that he allowed Osamu's PpW appearance](https://m.twitch.tv/videos/2180575222?desktop-redirect=true) - link expired
