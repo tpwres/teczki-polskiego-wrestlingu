@@ -17,3 +17,9 @@ country = ["PL"]
  {{ music(yt='4iOPS0X3pbk')}}
  {{ music(spot='25CRv7qnwyoa7kckF4HFb9')}}
  {{ music(apple='413180702?i=413180717')}}
+
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+  - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time; inaugural)
+  - VcV Hardcore Championship (1 time)

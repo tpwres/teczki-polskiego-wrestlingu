@@ -32,3 +32,8 @@ country = ["PL"]
  {{ music(yt='v2AC41dglnM')}}
  {{ music(spot='57bgtoPSgt236HzfBOd8kj')}}
  {{ music(apple='574049507?i=574051407')}}
+
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+  - [PpW Championship](@/c/ppw-championship.md) (2 times)

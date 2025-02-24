@@ -46,7 +46,7 @@ Shortly thereafter, Red Thunder aligned himself with a mysterious manager - Colu
 ## Championships and accomplishments
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
-  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time) - with Blue Thunder
+  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time) - with [Blue Thunder](@/w/blue-thunder.md)
 
 ## References
 

@@ -93,9 +93,9 @@ Marco won this match after Olgierd's distraction, and in a post-match beatdown h
 
 * Entrance music:
   - "Now You're a Man" by DVDA
-  {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2022-present)<br>
-  {{ music(yt='851BqHMCaeM')}}
-  {{ music(spot='30bm4o7Lurgswlokf1uEIf')}}
+ {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2022-present)<br>
+ {{ music(yt='851BqHMCaeM')}}
+ {{ music(spot='30bm4o7Lurgswlokf1uEIf')}}
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
  {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Olgierd](@/w/olgierd.md))<br>
  {{ music(yt='jt_2gXNBlqU')}}

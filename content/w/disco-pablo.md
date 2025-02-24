@@ -16,6 +16,11 @@ country = ["PL"]
  {{ music(spot='68rRbbwmXydDOqhArVTFTX')}}
  {{ music(apple='1443124632?i=1443124797')}}
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Taras](@/w/taras.md) and [Boro](@/w/boro.md)
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26752)
