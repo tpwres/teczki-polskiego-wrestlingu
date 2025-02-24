@@ -11,7 +11,7 @@ country = ["DE"]
 
 ## In Wrestling
 
-* With [Veit Müller](@/w/veit-mueller.md.md):
+* With [Veit Müller](@/w/veit-mueller.md):
   - Powerbomb (Veit) followed by Running Senton (Hans) (2022-2024)
 * Tag teams and stables:
   - Die Ordnung (2022-2024)
