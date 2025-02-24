@@ -57,13 +57,13 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
   - '[Bill Feager](@/w/feager.md)'
   - s: Gauntlet Survivor Challenge
 - - '[Vic Golden](@/w/vic-golden.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md); Agentka Agatka'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ Agentka Agatka'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - g: 'Z coaxes Fox to join [Zmowa](@/a/the-collusion.md); Fox chooses his closest friends instead.'
-- - '[Axel Fox](@/w/axel-fox.md), [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md); [Goblin](@/w/goblin.md)'
+- - '[Axel Fox](@/w/axel-fox.md), [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md) w/ [Goblin](@/w/goblin.md)'
   - 'Zmowa: [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Six-Man Tornado Tag Team match
 - - '[Isnorr](@/w/isnorr.md)(c)'
@@ -72,7 +72,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
     c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
     n: 'Stipulation selected by fans on social media'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
-  - '[Gabriel Queen](@/w/gabriel-queen.md); [Vic Golden](@/w/vic-golden.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md) w/ [Vic Golden](@/w/vic-golden.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     r: Time-Out
     n: 15 minute time limit
