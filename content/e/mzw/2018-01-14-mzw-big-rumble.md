@@ -1,10 +1,10 @@
 +++
 title = "MZW Big Rumble"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
-authors = ["Krzysztof Zych"]
 [extra]
 city = "Głuchołazy"
 [extra.gallery.1]
