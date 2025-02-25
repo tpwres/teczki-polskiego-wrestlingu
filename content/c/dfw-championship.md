@@ -73,7 +73,7 @@ The front plate made its surprising return at [PpW Gruba Przesada](@/e/ppw/2025-
 
 {% free_card() %}
 - - '[Revage](@/w/rafael-kid.md)'
-  - 'Chris Hunter(c)'
+  - '[Chris Hunter](@/w/chris-hunter.md) (c)'
   - s: Singles match
     en: '[DFW Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md)'
     ed: 2017-04-23
@@ -84,7 +84,7 @@ The front plate made its surprising return at [PpW Gruba Przesada](@/e/ppw/2025-
     en: '[DFW Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md)'
     ed: 2017-06-17
 - - 'Revage(c)'
-  - 'Direk'
+  - '[Direk](@/w/direk.md)'
   - s: Fall Count Anywhere Street Fight match
     en: '[DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md)'
     ed: 2017-09-30
@@ -98,8 +98,8 @@ Due to Revage departing for [Maniac Zone Wrestling](@/o/mzw.md) in December 2017
 
 {% free_card() %}
 - - '[Norris](@/w/isnorr.md)'
-  - 'Direk'
-  - 'Chris Hunter'
+  - '[Direk](@/w/direk.md)'
+  - '[Chris Hunter](@/w/chris-hunter.md)'
   - 'Hekate'
   - 'Steven Seagal'
   - s: Gauntlet Match

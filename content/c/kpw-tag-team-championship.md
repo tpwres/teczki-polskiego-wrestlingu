@@ -53,8 +53,8 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 ### Champions #2: The Hunt: Primate & Wild Boar
 
 {% free_card() %}
-- - "The Hunt: Primate, Wild Boar"
-  - "Sawicki, Victor Rosetti (c)"
+- - "The Hunt: [Primate](@/w/primate.md), [Wild Boar](@/w/wild-boar.md)"
+  - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md) (c)"
   - s: Tag Team Match
     en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
@@ -77,7 +77,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 
 {% free_card() %}
 - - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md)"
-  - "Primate, Tommy Freeman"
+  - "[Primate](@/w/primate.md), Tommy Freeman"
   - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - s: Four-Way Elimination Match
@@ -105,13 +105,13 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 ### Champions #4: The Fux Brothers: Filip Fux & Michał Fux
 
 {% free_card() %}
-- - "The Fux Brothers: Filip Fux, Michał Fux"
-  - "Die Ordnung: Hans Schulte, Veit Müller (c)"
+- - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
+  - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md) (c)"
   - s: Tag Team Match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
 - - "The Fux Brothers: Filip Fux, Michał Fux (c)"
-  - "Chemik, Eryk Lesak"
+  - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - s: Tag Team Match
     en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
     ed: 2024-02-16

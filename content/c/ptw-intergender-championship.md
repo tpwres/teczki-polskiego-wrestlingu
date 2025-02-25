@@ -42,7 +42,7 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13
 - - 'Istotna Martynka'
-  - '[Marco Hammers](@/w/marco-hammers.md)(c)'
+  - 'Marco Hammers(c)'
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
     ed: 2024-11-16 # Two-day event
@@ -58,7 +58,7 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
     ed: 2024-11-16
-- - '[Marco Hammers](@/w/marco-hammers.md)'
+- - 'Marco Hammers'
   - 'Istotna Martynka(c)'
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'

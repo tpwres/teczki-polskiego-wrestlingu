@@ -38,7 +38,7 @@ Sideplates are simply two small circular sawblades, and instead of a classic pin
   - s: Chaos Gods Death Match
     en: '[PpW Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md)'
     ed: 2022-05-21
-- - 'Stanisław Van Dobroniak'
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - 'Johnny Blade (c)'
   - 'Viking'
   - s: Three Way Match
@@ -51,8 +51,8 @@ Sideplates are simply two small circular sawblades, and instead of a classic pin
 ### Champion #2: Stanisław Van Dobroniak
 
 {% free_card() %}
-- - 'Stanisław Van Dobroniak'
-  - 'Johnny Blade (c)'
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md) (c)'
   - 'Viking'
   - s: Three Way Match
     en: '[PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md)'
@@ -88,9 +88,9 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
 ### Champion #3: Johnny Blade (2nd run)
 
 {% free_card() %}
-- - 'Johnny Blade'
-  - 'Stanisław Van Dobroniak (c)'
-  - 'Alex Arthur'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (c)'
+  - '[Alex Arthur](@/w/alex-arthur.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: Born to be Wired Four Way Elimination Match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
@@ -100,8 +100,8 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Death Match 
     en: '[PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md)'
     ed: 2024-07-13
-- - '[Isnorr](@/w/isnorr.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)(c)'
+- - 'Isnorr'
+  - 'Johnny Blade'
   - s: Blood God Ritual - Trial by Metal and Glass Match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
     ed: 2024-10-26
@@ -117,22 +117,22 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Blood God Ritual - Trial by Metal and Glass Match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
     ed: 2024-10-26
-- - '[Isnorr](@/w/isnorr.md)(c)'
+- - 'Isnorr(c)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - s: Singles match
     en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md)'
     ed: 2024-10-30
-- - '[Isnorr](@/w/isnorr.md)(c)'
+- - 'Isnorr(c)'
   - '[Prince Striker](@/w/royal-striker.md)'
   - s: Hardcore Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
     ed: 2024-11-16
-- - '[Isnorr](@/w/isnorr.md)(c)'
+- - 'Isnorr(c)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: Singles match
     en: '[Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md)'
     ed: 2024-12-06
-- - '[Isnorr](@/w/isnorr.md)(c)'
+- - 'Isnorr(c)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: Donky Kong Weaponmaster Match
     en: '[PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)'
