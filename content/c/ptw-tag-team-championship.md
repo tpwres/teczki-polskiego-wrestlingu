@@ -60,14 +60,14 @@ The new version appears much slimmer and smaller than the first one. The main pl
   - s: Tag Team Match
     en: '[PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
     ed: 2023-06-25
-- - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
+- - 'PAKA: Disco Pablo, Taras(c)'
   - 'Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
   - s: Tag Team Match
     nc: No Contest
     ed: 2023-07-16
     en: '[PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
-- - 'Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
-  - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
+- - 'Budapest Bastards: Renegade, Nitro'
+  - 'PAKA: Disco Pablo, Taras(c)'
   - 'Sinister Kingdom: [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
   - "MxM Collection: Mansoor, Mason Madden"
   - s: Four Way Tag Team Match
@@ -89,17 +89,17 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Four Way Tag Team Match
     ed: 2024-02-03
     en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+- - 'Budapest Bastards: Nitro, Renegade(c)'
   - "[Marcelito](@/w/marcelito.md), [Axel Fox](@/w/axel-fox.md)"
   - s: Open Challenge
     ed: 2024-04-13
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
-- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+- - 'Budapest Bastards: Nitro, Renegade(c)'
   - 'Lucha Squad: Lince Dorado, Samuray del Sol'
   - s: Tag Team Match
     ed: 2024-05-11
     en: '[PTW #6: Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md)'
-- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+- - 'Budapest Bastards: Nitro, Renegade(c)'
   - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
   - s: Tag Team Match
     ed: 2024-08-25
@@ -121,7 +121,7 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Hardcore Tornado Tag Team Match
     ed: 2024-12-07
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
-- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
+- - "L'Orda: Luca Bjorn, Rust(c)"
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - s: Tag Team Match
     ed: 2025-02-15
