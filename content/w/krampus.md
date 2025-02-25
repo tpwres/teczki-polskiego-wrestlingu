@@ -36,7 +36,7 @@ At [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) Krampus and 
 
 #### Return to singles competition
 
-After losing his stable Krampus returned to singles competition in PTW with a rather part-time schedule. He made apperance at [PTW: Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md) charity show. He defeated Newt Nova and [Erik Slothir](@/w/erik-slothir.md) in a Triple Threat Match.
+After losing his stable Krampus returned to singles competition in PTW with a rather part-time schedule. He made apperance at [PTW: Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md) charity show. He defeated Newt Nova and [Erik Slotir](@/w/erik-slotir.md) in a Triple Threat Match.
 
 ## Other ventures
 
