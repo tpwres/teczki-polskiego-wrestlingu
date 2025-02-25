@@ -134,7 +134,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 
 {% free_card() %}
 - - '[Shadow](@/w/shadow.md)'
-  - ['Asmund](@/w/asmund.md) (c)'
+  - '[Asmund](@/w/asmund.md) (c)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: Triple Threat Match
     en: '[MZW Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md)'
