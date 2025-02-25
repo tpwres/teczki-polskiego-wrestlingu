@@ -55,8 +55,8 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 ### Champion #1: Justin Joy
 
 {% free_card() %}
-- - Justin Joy
-  - Shadow
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - '[Shadow](@/w/shadow.md)'
   - s: Singles Match
     en: '[MZW Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md)'
     ed: 2016-01-10
@@ -66,7 +66,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
     en: '[Wyciskanie Sztangi 2016](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md)'
     ed: 2016-03-12
 - - Shadow
-  - Justin Joy
+  - Justin Joy (c)
   - s: Loser Leaves MZW Match
     en: '[MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md)'
     ed: 2016-05-14
@@ -77,8 +77,8 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 ### Champion #2: Shadow
 
 {% free_card() %}
-- - Shadow
-  - Justin Joy
+- - '[Shadow](@/w/shadow.md)'
+  - '[Justin Joy](@/w/justin-joy.md) (c)'
   - s: Loser Leaves MZW Match
     en: '[MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md)'
     ed: 2016-05-14
@@ -88,7 +88,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
     en: '[MZW Lucha Show](@/e/mzw/2016-09-10-mzw-lucha-show.md)'
     ed: 2016-09-10
 - - Shadow (c)
-  - Asmund
+  - '[Asmund](@/w/asmund.md)'
   - s: Two Out of Three Falls Match
     en: '[MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md)'
     ed: 2016-11-05
@@ -109,14 +109,14 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 ### Champion #3: Asmund
 
 {% free_card() %}
-- - Asmund
-  - Shadow (c)
+- - '[Asmund](@/w/asmund.md)'
+  - '[Shadow](@/w/shadow.md) (c)'
   - s: Hardcore Match
     en: '[MZW Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md)'
     ed: 2017-06-03
 - - Asmund (c)
-  - Justin Joy
-  - Franz Engel
+  - '[Justin Joy](@/w/justin-joy.md)'
+  - '[Franz Engel](@/w/franz-engel.md)'
   - s: Triple Threat Match
     en: '[MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md)'
     ed: 2017-12-02
@@ -133,8 +133,8 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 ### Champion #4: Shadow (2nd reign)
 
 {% free_card() %}
-- - Shadow
-  - Asmund (c)
+- - '[Shadow](@/w/shadow.md)'
+  - ['Asmund](@/w/asmund.md) (c)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: Triple Threat Match
     en: '[MZW Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md)'
@@ -158,8 +158,8 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 ### Champion #5: Damien Rothschild
 
 {% free_card() %}
-- - Damien Rothschild
-  - Shadow (c)
+- - '[Damien Rothschild](@/w/damien-rothschild.md)'
+  - '[Shadow](@/w/shadow.md) (c)'
   - s: Singles Match
     en: '[MZW Project 3: Black & White](@/e/mzw/2019-02-09-mzw-project-3-black-white.md)'
     ed: 2019-02-09
@@ -169,11 +169,11 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
     en: '[MZW Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md)'
     ed: 2019-03-23
 - - Damien Rothschild (c)
-  - Justin Joy
+  - '[Justin Joy](@/w/justin-joy.md)'
   - s: Singles Match
     en: '[MZW Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md)'
     ed: 2019-06-01
-- - Asmund
+- - '[Asmund](@/w/asmund.md)'
   - Damien Rothschild (c)
   - s: Singles Match
     en: '[MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md)'
@@ -187,8 +187,8 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
 ### Champion #6: Rafael Kid
 
 {% free_card() %}
-- - Rafael Kid
-  - Aron Wake
+- - '[Rafael Kid](@/w/rafael-kid.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
   - s: Singles Match
     en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
     ed: 2021-08-14

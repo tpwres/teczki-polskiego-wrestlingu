@@ -85,8 +85,8 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
 ### Champion #2: David Oliwa
 
 {% free_card() %}
-- - 'David Oliwa'
-  - 'Greg (c)'
+- - '[David Oliwa](@/w/david-oliwa.md)'
+  - '[Greg](@/w/greg.md) (c)'
   - s: '"I Quit" Match'
     en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
     ed: 2019-06-15
@@ -112,7 +112,7 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
     en: '[KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md)'
     ed: 2020-02-01
 - - 'David Oliwa (c)'
-  - 'Michael Kovac'
+  - '[Michael Kovac](@/w/michael-kovac.md)'
   - s: Singles match
     en: '[KPW Arena 17: Odrodzenie](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md)'
     ed: 2021-08-21
@@ -121,7 +121,7 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
   - s: Singles match
     en: '[KPW Arena 18: Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)'
     ed: 2022-03-18
-- - 'Rosetti'
+- - '[Rosetti](@/w/rosetti.md)'
   - 'David Oliwa (c)'
   - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
@@ -135,8 +135,8 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
 ### Champion #3: Rosetti
 
 {% free_card() %}
-- - 'Rosetti'
-  - 'David Oliwa (c)'
+- - '[Rosetti](@/w/rosetti.md)'
+  - '[David Oliwa](@/w/david-oliwa.md) (c)'
   - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
@@ -160,7 +160,7 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
   - s: Singles match
     en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
     ed: 2024-02-16
-- - Chemik
+- - '[Chemik](@/w/chemik.md)'
   - 'Rosetti (c)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Zefir](@/w/zefir.md)'
@@ -176,8 +176,8 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
 ### Champion #4: Chemik
 
 {% free_card() %}
-- - Chemik
-  - 'Rosetti (c)'
+- - '[Chemik](@/w/chemik.md)'
+  - '[Rosetti](@/w/rosetti.md) (c)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Zefir](@/w/zefir.md)'
   - s: Four Way Match
@@ -194,7 +194,7 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Triple Threat Match
     en: '[Legacy of Wrestling](@/e/low/2024-12-01-low-1.md)'
     ed: 2024-12-01
-- - '[Chemik](@/w/chemik.md)'
+- - 'Chemik (c)'
   - 'Michael Schenkenberg'
   - s: Singles match
     en: '[KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md)'

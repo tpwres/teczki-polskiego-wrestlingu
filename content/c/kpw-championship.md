@@ -38,7 +38,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
     en: '[Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md)'
     ed: 2016-08-13
 - - 'Piękny Kawaler (c)'
-  - Elliott Jordan
+  - '[Elliott Jordan](@/w/elliott-jordan.md')
   - s: Singles match
     en: '[KPW Arena 4: Nowy Rozdział](@/e/kpw/2016-11-26-kpw-arena-4-nowy-rozdzial.md)'
     ed: 2016-11-26
@@ -58,7 +58,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
     en: '[KPW Arena 7: Wysoka Stawka](@/e/kpw/2017-06-10-kpw-arena-7-wysoka-stawka.md)'
     ed: 2017-06-10
 - - 'Piękny Kawaler (c)'
-  - 'Wild Boar'
+  - '[Wild Boar](@/w/wild-boar.md)'
   - s: Singles match
     en: '[KPW Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md)'
     ed: 2017-08-12
@@ -79,8 +79,8 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 ### Champion #2: Ron Corvus
 
 {% free_card() %}
-- - 'Ron Corvus'
-  - 'Piękny Kawaler (c)'
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - s: Singles match
     en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
     ed: 2018-05-26
@@ -112,7 +112,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 
 {% free_card() %}
 - - '[Robert Star](@/w/robert-star.md)'
-  - 'Ron Corvus (c)'
+  - '[Ron Corvus](@/w/ron-corvus.md) (c)'
   - s: Singles match
     en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
     ed: 2019-04-05
@@ -125,17 +125,17 @@ Two days later, Robert Star was fired from KPW for breaking the terms of his agr
 ### Champion #4: Robert Star (2nd run)
 
 {% free_card() %}
-- - 'Robert Star'
-  - 'Dom Taylor'
-  - 'Kamil Aleksander'
-  - 'Peter Pannache'
-  - 'Ron Corvus'
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Dom Taylor](@/w/dom-taylor.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Peter Pannache](@/w/peter-pannache.md)'
+  - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - s: Six Way Elimination Match
     en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
     ed: 2019-06-15
 - - 'Robert Star (c)'
-  - 'Piękny Kawaler'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - s: Career vs Career Last Man Standing Match
     en: '[KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
@@ -181,7 +181,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the ti
 
 {% free_card() %}
 - - '[Red Scorpion](@/w/red-scorpion.md)'
-  - 'Greg (c)'
+  - '[Greg](@/w/greg.md) (c)'
   - s: Singles match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
@@ -215,13 +215,12 @@ Both defenses took place during events held by Bologna Wrestling Team.
   - s: Championship Contract Cash-In
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
-- - '[Hans Schulte](@/w/hans-schulte.md) (c)'
-  - 'Red Scorpion'
+- - 'Hans Schulte (c)'
+  - '[Red Scorpion](@/w/red-scorpion.md)'
   - s: Singles Match
     en: '[KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md)'
     ed: 2024-11-15
 {% end %}
-
 
 ## References
 
