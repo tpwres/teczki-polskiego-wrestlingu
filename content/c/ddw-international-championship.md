@@ -79,7 +79,7 @@ Following DDW #7 the title was vacated and the promotion had no champion for 890
     en: '[DDW All or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 - - 'Kamil Aleksander (c)'
-  - 'Don Roid'
+  - '[Don Roid](@/w/don-roid.md)'
   - s: Singles match
     en: '[DDW Wrestling Art](@/e/ddw/2015-01-11-ddw-wrestling-art.md)'
     nc: Time limit draw
