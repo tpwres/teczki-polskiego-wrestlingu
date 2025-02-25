@@ -54,3 +54,4 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * [Tickets for the event](https://stage24.pl/events/ppw-ewenement-teraz-albo-nigdy-4054)
 * [Dog Collar match announced](https://www.facebook.com/100063612039504/posts/1161155472681510/?rdid=Am24fR4aM5mpCYOs#)
 * [Details of the 20-Man Battle Royal](https://www.facebook.com/photo/?fbid=1174974491299608&set=a.499910772139320)
+* [PpW Championship Match is made - reel + description](https://www.facebook.com/reel/613548074965126)
