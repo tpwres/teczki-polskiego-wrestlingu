@@ -38,7 +38,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
     en: '[Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md)'
     ed: 2016-08-13
 - - 'Piękny Kawaler (c)'
-  - '[Elliott Jordan](@/w/elliott-jordan.md')
+  - '[Elliott Jordan](@/w/elliott-jordan.md)'
   - s: Singles match
     en: '[KPW Arena 4: Nowy Rozdział](@/e/kpw/2016-11-26-kpw-arena-4-nowy-rozdzial.md)'
     ed: 2016-11-26
