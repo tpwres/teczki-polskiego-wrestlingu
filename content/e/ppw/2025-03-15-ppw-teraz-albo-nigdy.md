@@ -9,7 +9,7 @@ venue=["minska-65"]
 city = "Warszawa"
 hide_results = true
 [extra.gallery]
-manifest = "@/e/low/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
+manifest = "@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
 +++
 
 Teraz Albo Nigdy (_Now Or Never_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska&nbsp;65](@/v/minska-65.md). This time, the show is set in a different part of the venue complex, _Hala Labo_.
