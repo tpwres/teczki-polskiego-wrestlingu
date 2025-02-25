@@ -58,7 +58,7 @@ At [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) Karol Gór
 
 #### Feud with Olgierd
 
-In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), a member of [Zmowa](@/a/the-collusion.md) - [Olgierd](@/w/olgierd.md) - physically assaulted referee Kornel, which prompted him to cut a promo on all the "zebras" (referring to the referees' black-and-white striped shirts), whom he despises on an ideological basis, being a rule-breaking hooligan. He challenged all the referees to a gauntlet match, set to take place at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md).
+In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), a member of [Zmowa](@/a/the-collusion.md) - [Olgierd](@/w/olgierd.md) - physically assaulted referee Kornel, which prompted him to cut a promo on all the "zebras" (referring to the referees' black-and-white striped shirts), whom he despises on an ideological basis, being a rule-breaking hooligan. He challenged all the referees to a gauntlet match, set to take place at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md). Karol was the second one of the referees to face Olgierd, but he was unable to score a victory over Polish Hooligan.
 
 ## In wrestling
 
@@ -79,6 +79,9 @@ In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przes
  {{ music(yt='Rq3FAy-JTAg')}}
  {{ music(spot='3JxQ8AGX7ZtHr5uu1pXXYK')}}
  {{ music(apple='1749729781?i=1749729788')}}
+  -  "Waza" by HEWRA 
+ {{ org_badge(orgs=['ppw']) }} (2025-, as member of The Referees) <br>
+ {{ music(yt='LMayWdD7Oac?t=42')}}
 
 ## References
 
