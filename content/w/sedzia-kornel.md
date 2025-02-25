@@ -67,12 +67,12 @@ At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made h
  
 * Entrance music:
   - "Intercontinental Bajers" by Solar/Białas
- {{ org_badge(orgs=['ppw']) }} (2024) - non-canon shows, as part of "The Tourists" <br>
+ {{ org_badge(orgs=['ppw']) }} (2024) - non-canon shows, as part of The Tourists <br>
  {{ music(yt='hs5_GR2hZfE')}}
  {{ music(spot='4VEf3UQcYsNka5kbZSoF0A')}}
  {{ music(apple='1765982589?i=1765982642')}}
   - "Waza" by HEWRA 
- {{ org_badge(orgs=['ppw']) }} (2025-, as member of The Referees) <br>
+ {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
  {{ music(yt='LMayWdD7Oac?t=42')}}
 
 [kornel-interview]: https://www.youtube.com/watch?v=jPEISp3JvoU
