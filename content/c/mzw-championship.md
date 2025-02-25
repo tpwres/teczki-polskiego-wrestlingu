@@ -164,7 +164,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
     en: '[MZW Project 3: Black & White](@/e/mzw/2019-02-09-mzw-project-3-black-white.md)'
     ed: 2019-02-09
 - - Damien Rothschild (c)
-  - Shadow (c)
+  - Shadow
   - s: No-DQ Match
     en: '[MZW Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md)'
     ed: 2019-03-23
