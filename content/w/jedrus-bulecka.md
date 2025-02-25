@@ -57,7 +57,7 @@ Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wre
 ## Championships and accomplishments
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
-  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; inaugural) (with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) as Zbójnicy)
+  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; inaugural) - with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)
 
 ## References
 

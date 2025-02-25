@@ -24,6 +24,12 @@ Justin organized a Q&A on his Instagram profile, and posted a number of instasto
 
 Since then, he had no wrestling matches, preferring to concentrate on his activities as a trainer, and returning to Ninja Warrior once more.
 
+## Championships and accomplishments
+
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; final) - with [Apollo Anderson](@/w/apollo-anderson.md)
+  - [MZW Championship](@/c/mzw-championship.md) (1 time; inaugural)
+
 ### References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15278)

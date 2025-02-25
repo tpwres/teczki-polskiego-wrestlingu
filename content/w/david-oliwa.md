@@ -38,6 +38,11 @@ David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.
  {{ music(spot='2VvDAaS9MCN7WWwnG3N9JD')}}
  {{ music(apple='1657524342?i=1657524748')}}
 
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
+
 ## Internet presence
 
 * [David's Facebook profile](https://www.facebook.com/FFDavidOliwa/)

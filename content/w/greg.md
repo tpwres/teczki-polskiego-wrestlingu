@@ -38,6 +38,12 @@ At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeate
  {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
  {{ music(yt='cbF6qRQ5WM8')}}
 
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time; inaugural)
+  - [KPW Championship](@/c/kpw-championship.md) (1 time)
+
 ## Internet presence
 
 * [@gregwrestling on Instagram](https://www.instagram.com/gregwrestling/)

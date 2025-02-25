@@ -43,7 +43,11 @@ Wild Boar made his debut on Polish soil back in August 2017, where he faced the 
  {{ org_badge(orgs=['kpw']) }} (2020) <br>
  {{ music(spot='5jYDoeDZI99EvGkKQ6sWDa')}}
 
-    
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Primate](@/w/primate.md)
+
 ## Internet presence
 
 * [wild_boar_hitchman](https://www.instagram.com/wild_boar_hitchman/) on Instagram

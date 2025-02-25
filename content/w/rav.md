@@ -28,7 +28,6 @@ RAV made his debut at the [first show](@/e/mcw/2018-12-08-mcw-show-1.md) produce
 
 In October 2022, RAV defeated Johny Vegas in a No Disqualification Best 3 Out Of 5 Falls Match at [MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show.md) to win the [MCW Championship](@/c/mcw-championship.md). He defended the title once at [MCW Damage Control](@/e/mcw/2023-12-16-mcw-damage-control.md) after one year of reign, but ultimately lost it to Chris Steeler at [MCW Charity Show 2024](@/e/mcw/2024-11-16-mcw-charytatywnie.md) after 763 days.
 
-
 ## In wrestling
 
 * Finishers:

@@ -80,7 +80,7 @@ At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.m
   - Fireman's Carry Cutter (2024-)
 
 * Entrance music:
-   - "Eye of the Tiger" by Survivor
+  - "Eye of the Tiger" by Survivor
  {{ org_badge(orgs=['ptw']) }} (2021-) <br>
  {{ music(yt='btPJPFnesV4')}}
  {{ music(spot='2KH16WveTQWT6KOG9Rg6e2')}}

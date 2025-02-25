@@ -45,6 +45,11 @@ On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KP
  {{ music(spot='5ydTDIWT7GpLq35kJv53Ry')}}
  {{ music(apple='1557138878?i=1557138879')}}
 
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time; current)
+
 ## Internet presence
 
 * [@chemikkpw on Instagram](https://instagram.com/chemikkpw)

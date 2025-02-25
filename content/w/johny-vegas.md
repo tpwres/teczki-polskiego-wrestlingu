@@ -11,3 +11,8 @@ country = ["PL"]
 +++
 
 Johny Vegas is the founder and owner of [Mine City Wrestling](@/o/mcw.md). He started the promotion to fulfill his long-standing dream and has been at the helm of the federation despite personal and financial hardships. Johny Vegas was the first [MCW Champion](@/c/mcw-championship.md) and, alongside [RAV](@/w/rav.md), one of only two people to appear at every MCW event.
+
+## Championships and accomplishments
+
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - [MCW Championship](@/c/mcw-championship.md) (1 time; inaugural)

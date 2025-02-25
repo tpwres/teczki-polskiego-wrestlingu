@@ -115,7 +115,7 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
  {{ music(spot='6CnNh8EX2Rbu3647wu9CG7')}}
  {{ music(apple='1577219021?i=1577219022')}}
 
- ## Championships and accomplishments
+## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; inaugural)

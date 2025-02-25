@@ -41,6 +41,11 @@ Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of W
  {{ org_badge(orgs=['low']) }} (2024) <br>
  {{ music(yt='XGwBYcPQLC8')}}
 
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) - with [Michał Fux](@/w/michal-fux.md)
+
 ## Internet presence
 
 * [@fuxwrestling on Instagram](https://www.instagram.com/fuxwrestling/)

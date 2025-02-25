@@ -12,8 +12,8 @@ country = ["PL"]
 ## Basic info
 
 * Ringnames:
-  - Isnorr, in {{ org_badge(org='mzw') }} {{ org_badge(org='ppw') }}
   - Norris, in {{ org_badge(org='dfw') }}
+  - Isnorr, in {{ org_badge(orgs=['mzw', 'ppw']) }}
  
 ## In wrestling
 
@@ -26,8 +26,11 @@ country = ["PL"]
 
 ## Championships and accomplishments
 
-- [DFW Championship](@/c/dfw-championship.md) (1 time; final)
-- [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time; current)
+* [Dream Factory Wrestling](@/o/dfw.md):
+  - [DFW Championship](@/c/dfw-championship.md) (1 time; final)
+
+* [PpW Ewenement Wrestling](@/o/ppw.md):
+  - [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time; current)
 
 ## References
 
