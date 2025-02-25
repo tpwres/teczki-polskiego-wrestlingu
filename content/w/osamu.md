@@ -32,7 +32,7 @@ At the same show, Osamu attacked [Mister Z](@/w/mister-z.md), then-reigning [PpW
 At [PpW Inside Job](@/e/ppw/2021-09-11-ppw-inside-job.md), in the opening segment, Osamu was booked to sign a contract for a championship rematch against Mister Z in the main event of that evening. He refused to sign the contract, however, left the Championship in the ring and stated that he is leaving PpW, thus vacating the title.
 After the show went off the air, Osamu addressed the crowd confirming he is indeed leaving PpW for a new federation - which turned out to be the newly formed [Prime Time Wrestling](@/o/ptw.md). Osamu's run with PTW was short-lived and limited to training with the organization and some staff work. He never made an official appearance at any PTW show.
 
-### Return to PpW, retirement (2022-24)
+### Return to PpW, retirement (2022-2024)
 
 After around eight months Osamu made his return at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), where he tried to regain the PpW Championship from the current champion [Biesiad Strong](@/w/biesiad.md), but without success.
 
@@ -59,4 +59,4 @@ In June 2024, it was publicly revealed by [Arkadiusz Pawłowski](@/w/pan-pawlows
 * [Goblin kidnaps Osamu](https://www.instagram.com/p/C6yzsKNsrmv/) - Instagram promo
 * [Canceled match at Mistrzowskie rozdanie](https://www.facebook.com/photo?fbid=689081556555573&set=a.499910778805986) - Facebook post
 * [Osamu helps Goblin find a partner against Legia Łysych](http://instagram.com/p/C9U-kiOswxR/) - Instagram post
-*[Pawłowski reveals that he allowed Osamu's PpW appearance](https://m.twitch.tv/videos/2180575222?desktop-redirect=true) - link expired
+* [Pawłowski reveals that he allowed Osamu's PpW appearance](https://m.twitch.tv/videos/2180575222?desktop-redirect=true) - link expired
