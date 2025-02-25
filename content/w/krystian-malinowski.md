@@ -34,11 +34,11 @@ After DDW folded and [Kombat Pro Wrestling](@/o/kpw.md) took its place, Malinows
 
 #### Chairman of KPW
 
-Before [Arena 12](e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), KPW announced that a new chairman would be elected, and Malinowski threw his name in the hat as a candidate, alongside [Krzysztof Zasada](@/w/krzysztof-zasada.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).
+Before [Arena 12](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), KPW announced that a new chairman would be elected, and Malinowski threw his name in the hat as a candidate, alongside [Krzysztof Zasada](@/w/krzysztof-zasada.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).
 Eventually he secured the new position at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md) and his previous duties as a referee were taken over by Dariusz Łępicki.
 
-At [Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Malinowski disqualified [Rosetti](@/w/rosetti.md) and [Chemik](@/w/chemik.md) from their [KPW Championship](@/c/kpw-championship.md) Contender Match. Following the above statement, Malinowski said that he has a very important announcement regarding the future of KPW. Before he could elaborate, however, he was suddenly attacked by a mysterious figure who promptly ran away, leaving the chairmain in need of medical assistance. He was carried out on a stretcher by medical personnel and, as stated by [Kinga Miotke](@/w/kinga-miotke.md) after the break, he was transported to a hospital.
-After the main event ended, Rosetti came out and informed the audience that Malinowski's condition is stable, but his exact state is currently unknown. He that stated that given the situation, Malinowski officially made Rosetti the acting chairman of KPW.
+At [Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Malinowski disqualified [Rosetti](@/w/rosetti.md) and [Chemik](@/w/chemik.md) from their [KPW Championship](@/c/kpw-championship.md) Contender Match. Following that, Malinowski said that he had a very important announcement regarding the future of KPW. Before he could elaborate, however, he was suddenly attacked with a glass bottle by a mysterious figure who promptly ran away, leaving the chairmain in need of medical assistance. He was carried out on a stretcher by medical personnel and, as stated by [Kinga Miotke](@/w/kinga-miotke.md) after the break, he was transported to a hospital.
+After the main event ended, Rosetti came out and informed the audience that Malinowski's condition is stable, but his exact state is currently unknown. He then stated that given the situation, Malinowski officially made Rosetti the acting chairman of KPW.
 
 ## In wrestling
 
