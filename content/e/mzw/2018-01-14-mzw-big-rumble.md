@@ -4,6 +4,7 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
+authors = ["Krzysztof Zych"]
 [extra]
 city = "Głuchołazy"
 [extra.gallery.1]
