@@ -46,8 +46,8 @@ The belt is made out of thin metal sheets with gold-and-black lettering and orna
 ### Champion #2: RAV
 
 {% free_card() %}
-- - 'RAV'
-  - 'Johny Vegas(c)'
+- - '[RAV](@/w/rav.md)'
+  - '[Johny Vegas](@/w/johny-vegas.md)(c)'
   - s: No Disqualification Best 3 Out Of 5 Falls Match
     en: '[MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show.md)'
     ed: 2022-10-15
