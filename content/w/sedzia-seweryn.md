@@ -58,7 +58,11 @@ After that show he, along with many other talent, [left PTW](@/a/ptw-exits.md).
 ### PpW Ewenement (2024-present)
 
 On July 5th, 2024, [PpW Ewenement Wrestling](@/o/ppw.md) announced on its social media that Sewi would join the federation as a referee.
-He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) & [Sędzia Karol Górski](@/w/madman-charlie.md).
+He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) & [Sędzia Karol Górski](@/w/madman-charlie.md) from that time on.
+
+#### Feud with Olgierd
+
+After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) members of [Zmowa](@/a/the-collusion.md) - [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) - blamed Kornel for their defeat in a match at said show. In a post-match interview Olgierd verbally and physically assaulted Kornel and vowed that he will put all of PpW's referees back in line, as they were constantly interrupting him in his matches by enforcing rules. At February 2nd 2025 it was officially announced that Olgierd will face each referee in a Gauntlet Match at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md). Referee Seweryn was the last one of referees to fight, and despite putting some offence and hitting his finishing move _Twist of Sew_ he was unable to defeat such seasoned wrestler as Olgierd.
 
 While maintaining PpW as his main promotion, Sewi continued his sporadic appearances on the international circuit.
 
@@ -72,12 +76,18 @@ During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was uno
 
 ## In wrestling
 
+* Finishers:
+  - _Twist of Sew_ (Twist of Fate) (2025-)
+
 * Entrance music:
   - "Over and Over and Over" by Jack White
  {{ org_badge(orgs=['mzw']) }} (2020, as Ring Rat) <br>
  {{ music(yt='ShCRN3tFy80')}}
  {{ music(spot='13CKjk6hRuF2XzY4N3xw4m')}}
  {{ music(apple='1337879490?i=1337879981')}}
+  - "Waza" by HEWRA 
+ {{ org_badge(orgs=['ppw']) }} (2025-, as member of The Referees) <br>
+ {{ music(yt='LMayWdD7Oac?t=42')}}
 
 ## Championships and achievments:
 
