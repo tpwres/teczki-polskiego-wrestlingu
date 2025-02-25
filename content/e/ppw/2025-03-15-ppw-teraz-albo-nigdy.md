@@ -21,15 +21,15 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * _VIP pack_ &ndash; 213,00 PLN (approx. 50 EUR, 42 GBP or 51.5 USD); entry + special seats (ringside or bleachers) + commemorative limited edition T-shirt + 2 servings of drinks
 
 #### Build-up
-* Along with the event, PpW announced "the largest match in PpW history". This match is supposed to contain 20 competitors in a single ring, though the exact formula is as yet unknown.
+* Along with the event, PpW announced "the largest match in PpW history". This match is supposed to contain 20 competitors in a single ring, though the exact formula was not initially revealed.
 * [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md) continued to cross paths ever since July. While Olgierd vowed to end Goblin, the latter always found a way to one-up him. At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) Goblin interfered in a six man tag match, dragging Olgierd away on a dog leash. After weeks of social media build-up, PpW announced they would face-off in Dog Collar Match - the first in Poland.
-* On 25.02.2025 PpW [posted][20-ziutkow] the details of the 20-Man Battle Royal:
-  - 20 wrestlers will take part in the match.
-  - The fight begins with two people in the ring.
-  - A new wrestler enters every 90 seconds.
-  - Wrestlers are eliminated by being thrown over the top rope; both feet must touch the floor.
-  - Each wrestler may bring one weapon.
-  - The winner will fight for the [PpW Championship](@/c/ppw-championship.md) at Ledwo Legalne 5.
+* At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md), Pure Gold defeated the team of [Gustav Gryffin](@/w/gustav-gryffin.md) and [Isnorr](@/w/isnorr.md), Gustav's first loss of any kind since [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md). This gave [Gabriel Queen](@/w/gabriel-queen.md) the leverage to demand another title shot, which Gustav accepted. It was later confirmed that the match is going to take place at the March show and that Gustav is going to pick the stipulation.
+* On February 25th, details of the 20-man match were clarified by PpW. It is going to be a _Royal Rumble_-esque battle royal, dubbed "20 typa, 20 broni" (roughly: _"20 dudes, 20 weapons"_). Rules are as follows:
+  * there are 20 competitors in the match
+  * the match starts with two wrestlers in the ring; next entrants come in every 90 seconds
+  * wrestlers are eliminated by being thrown over the top rope; both feet must touch the ground
+  * each wrestler is allowed to bring in a single foreign object
+  * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of Ledwo Legalne V
 
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
@@ -39,11 +39,11 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: '?'
+    s: 'Gryffin picks stipulation'
     nc: upcoming
 - - '???'
   - '???'
-  - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contender 20-Man Battle Royal'
+  - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne V'
     nc: upcoming
 {% end %}
 
@@ -53,6 +53,4 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1137639111699813&set=a.499910772139320)
 * [Tickets for the event](https://stage24.pl/events/ppw-ewenement-teraz-albo-nigdy-4054)
 * [Dog Collar match announced](https://www.facebook.com/100063612039504/posts/1161155472681510/?rdid=Am24fR4aM5mpCYOs#)
-* [Details of the 20-Man Battle Royal][20-ziutkow]
-
-[20-ziutkow]: https://www.facebook.com/photo/?fbid=1174974491299608&set=a.499910772139320
+* [Details of the 20-Man Battle Royal](https://www.facebook.com/photo/?fbid=1174974491299608&set=a.499910772139320)
