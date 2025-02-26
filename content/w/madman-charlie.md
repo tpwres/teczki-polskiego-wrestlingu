@@ -64,10 +64,8 @@ In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przes
 
 * Finishers:
   - Helluva Kick (2015-present)
-
 * Tag Teams and stables:
   - Tag team with [Jacob Crane](@/w/jacob-crane.md) (2018-2021)
-
 * Entrance music:
   - "Take It Out On Me" by Thousand Foot Krutch
  {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
@@ -79,7 +77,7 @@ In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przes
  {{ music(yt='Rq3FAy-JTAg')}}
  {{ music(spot='3JxQ8AGX7ZtHr5uu1pXXYK')}}
  {{ music(apple='1749729781?i=1749729788')}}
-  -  "Waza" by HEWRA 
+  -  "Waza" by HEWRA
  {{ org_badge(orgs=['ppw']) }} (2025-, as member of The Referees) <br>
  {{ music(yt='LMayWdD7Oac?t=42')}}
 

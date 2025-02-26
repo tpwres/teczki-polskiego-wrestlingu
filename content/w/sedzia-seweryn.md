@@ -57,8 +57,8 @@ After that show he, along with many other talent, [left PTW](@/a/ptw-exits.md).
 
 ### PpW Ewenement (2024-present)
 
-On July 5th, 2024, [PpW Ewenement Wrestling](@/o/ppw.md) announced on its social media that Sewi would join the federation as a referee.
-He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) and [Sędzia Karol Górski](@/w/madman-charlie.md) from that time on.
+On July 5th, 2024, [PpW Ewenement Wrestling](@/o/ppw.md) announced on its social media that Sewi joined the federation as a referee.
+He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) and [Sędzia Karol Górski](@/w/madman-charlie.md) from that time onwards.
 
 #### Feud with Olgierd
 
@@ -78,14 +78,13 @@ During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was uno
 
 * Finishers:
   - _Twist of Sew_ (Twist of Fate) (2025-)
-
 * Entrance music:
   - "Over and Over and Over" by Jack White
  {{ org_badge(orgs=['mzw']) }} (2020, as Ring Rat) <br>
  {{ music(yt='ShCRN3tFy80')}}
  {{ music(spot='13CKjk6hRuF2XzY4N3xw4m')}}
  {{ music(apple='1337879490?i=1337879981')}}
-  - "Waza" by HEWRA 
+  - "Waza" by HEWRA
  {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
  {{ music(yt='LMayWdD7Oac?t=42')}}
 
