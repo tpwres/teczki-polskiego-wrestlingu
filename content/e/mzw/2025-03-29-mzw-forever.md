@@ -36,6 +36,9 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 - - 'Kubes'
   - '???'
   - nc: upcoming
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - 'Tony "The Riverman" Sheen'
+  - nc: upcoming
 - - '[Matt Buckna](@/w/matt-buckna.md)'
   - '[Shadow](@/w/shadow.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
