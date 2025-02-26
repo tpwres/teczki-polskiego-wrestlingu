@@ -1,0 +1,33 @@
+@import "icons-badges"
+@import "themes"
+@import "gallery"
+@import "pagination"
+
+body > section.section
+  display: grid
+  grid-template-columns: 2fr 10fr
+
+
+footer
+  text-align: center
+
+span.pwf .flag
+  display: inline-block
+  text-align: center
+  width: calc(var(--global-font-size) * 2)
+
+.logo
+  display: inline-block
+  height: 48px
+  width: 48px
+  background: var(--logo-url)
+  background-size: contain
+
+  @media only screen and (max-width: 360px)
+    display: none
+
+details[open] + .card
+    display: none
+
+small
+  font-size: var(--global-font-size)

@@ -1,0 +1,28 @@
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
+  <nav class="level2">
+    <div class="nav-right">
+      <ul class="nav-right-list">
+        {% for link in config.extra.header_links -%}
+        <li class="nav-right-item">
+          {% set link_class = link | get(key='class', default='') -%}
+          {% set link_icon = '' %}
+          {% if link.icon -%}
+            {% set link_icon = '<svg class="feather feather-nav" viewBox="0 0 24 24"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
+          {% endif -%}
+          {% if link.path -%}
+            <a href="{{ get_url(path=link.path) }}"
+              class="{{ link_class }}"
+              title="{{ link.name }}">
+              {{ link_icon | safe }}
+              <span class="t">{{ link.name }}</span>
+            </a>
+          {% elif link.url -%}
+            <a href="{{link.url}}" class="{{ link_class }}" title="{{ link.name }}">
+              {{ link_icon | safe }}
+              <span class="t">{{ link.name }}</span>
+            </a>
+          {% endif -%}
+        </li>
+        {% endfor -%}
+      </ul>
+  </nav>

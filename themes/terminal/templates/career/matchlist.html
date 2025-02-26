@@ -1,0 +1,61 @@
+{%- import "macros/career.html" as macros %}
+{% set org_styles = config.extra.org_styles %}
+{% set alias_map = load_data(path="data/aliases.json") %}
+{% set all_my_names = [] %}
+{% for alias, path in alias_map %}
+  {% if path == page.relative_path %}{% set_global all_my_names = all_my_names | concat(with=alias) %}{% endif %}
+{% endfor %}
+{% set all_matches = load_data(path="data/all_matches.json") %}
+{% set appearances = load_data(path="data/appearances_v2.json") %}
+{% set my_appearances = [] %}
+{% for name in all_my_names %}
+  {% set napps = appearances | get(key=name, default=[]) %}
+  {% set_global my_appearances = my_appearances | concat(with=napps) %}
+{% endfor %}
+{% set_global my_matches = [] -%}
+{% for entry in my_appearances %}
+  {% set index = entry[0] %}
+  {% set_global my_matches = my_matches | concat(with=all_matches[index]) %}
+{% endfor %}
+{% set careers = [] %}
+{% set all_matches = [] %}
+{% set appearances = [] %}
+{% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') %}
+{% set my_match_pos = my_appearances | group_by(attribute='0') %}
+
+{% if my_matches %}
+<h3>Matches and segments</h3>
+<table class="career">
+    <tr class="header">
+        <th class="d">Date</th>
+        <th class="o">Org</th>
+        <th class="r">Details</th>
+    </tr>
+    {% for match in matches_by_date | reverse %}
+      <tr class="entry {{ match.tt | default(value="") }}">
+        <td>
+          <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
+        </td>
+        <td class="o">
+            {% for org in match.o %}
+              {{ macros::promolink_color(code=org, styles=org_styles) }}
+            {% endfor %}
+        </td>
+        {% set row = match.m %}
+        {# It may happen that the same match.i happens more than once #}
+        {# This means more than one appearance in that match (think rumbles, entering under different names) #}
+        {# These matches were filtered out by unique above, so we have only one. #}
+        {% set positions = my_match_pos[match.i] | map(attribute='1') %}
+        <td class="r">
+            {% include "career/result_row.html" %}
+            {% set event_path = "@/" ~ match.p %}
+            <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
+            {% if match.tt %}
+              ({{ match.tt }})
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% endif %}
