@@ -12,7 +12,7 @@ feed_filenames = ["atom.xml"]
 
 title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestling
 
-theme = "mensch"
+theme = "web"
 
 taxonomies = [
   { name = "chronology", render = false },
