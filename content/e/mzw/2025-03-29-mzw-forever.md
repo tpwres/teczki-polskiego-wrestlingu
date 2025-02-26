@@ -22,6 +22,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * Two days later [MZW announced][robert-kaiser-returns] that Goblin would face the German wrestler [Robert Kaiser](@/w/robert-kaiser.md), last seen in 2016 at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md).
 * On 18.02.2025 [Matt Buckna](@/w/matt-buckna.md) [challenged][buckna-challenge] [Shadow](@/w/shadow.md) to a fight for his [MZW Championship](@/c/mzw-championship.md), in honour of MZW's 11th anniversary.
 * On 22.02.2025 MZW [announced][kubes-announced] that Kubes, an American wrestler of Polish origin, would appear at the show. This was three days after Kubes was confirmed by [ShowOff](@/w/piotr-malecki.md) to be booked for the [second show](@/e/low/2025-04-06-low-2.md) by [Legacy of Wrestling](@/o/low.md).
+* On 26.02.2025 [Disco Pablo](@/w/disco-pablo.md) was [announced][river-disco] to face Tony "The Riverman" Sheen, who made his in-ring debut at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).
 
 {% card(predicted=true) %}
 - - 'Marcus Monere'
@@ -55,3 +56,4 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 [robert-kaiser-returns]: https://www.facebook.com/photo/?fbid=1039386298219760&set=a.548442053980856
 [buckna-challenge]: https://www.facebook.com/watch/?v=1168490531294590
 [kubes-announced]: https://www.facebook.com/watch/?v=608002828704788
+[river-disco]: https://www.facebook.com/photo?fbid=1047865304038526&set=a.548442050647523
