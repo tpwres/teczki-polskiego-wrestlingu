@@ -1,0 +1,3 @@
+{% if row.d is defined %}
+  <li class="delim"><span>{{ row.d | markdown(inline=true) | safe }}</span></li>
+{% endif %}

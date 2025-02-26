@@ -1,0 +1,16 @@
+{% macro new_issue(path, title='') -%}
+  {% set utitle = title | urlencode -%}
+  {% set prompt = '**Which page:** `' ~ path ~ "`~~**Your feedback:** ~~<type your feedback here>" | urlencode | replace(from="~~", to="%0D") -%}
+  {% set fields = ['labels=page', 'title=Feedback:+' ~ utitle, 'body=' ~ prompt] -%}
+  {% set query = fields|join(sep='&') -%}
+  {{- config.extra.new_issue_url }}?{{ query -}}
+{% endmacro %}
+
+{% macro authors(authors) %}
+  {%- set num_authors = authors|default(value=[])|length -%}
+  {% if num_authors == 1 -%}
+    Author: {{ authors | first }}
+  {% elif num_authors > 1 -%}
+    Authors: {{ authors | join(sep=", ") }}
+  {%- endif -%}
+{% endmacro %}
