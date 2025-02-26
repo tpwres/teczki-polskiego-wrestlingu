@@ -79,6 +79,7 @@ There were a significant number of foreign talent at this event, including some 
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
+    Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
 #### Recap

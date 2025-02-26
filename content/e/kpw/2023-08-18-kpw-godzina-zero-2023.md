@@ -58,6 +58,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
+    Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
 #### Recap

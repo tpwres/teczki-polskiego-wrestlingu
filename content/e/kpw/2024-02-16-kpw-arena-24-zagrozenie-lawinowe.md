@@ -41,6 +41,7 @@ The event's name refers to the nickname of WxW wrestler Robert "The Avalanche" D
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
+    Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
 #### Recap
