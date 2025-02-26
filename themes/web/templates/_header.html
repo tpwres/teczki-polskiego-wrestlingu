@@ -1,45 +1,77 @@
-{% set sprite = get_url(path="feather-sprite.svg", trailing_slash=false) %}
-<nav class="menu">
-  <div class="nav-left">
-    <ul class="nav-left-list">
-        <li class="nav-left-item"></li><a href="/"><div class="logo"></div></li>
-      <li class="nav-left-item"></li><a href="/"><span class="sitename">{{ config.title }}</span></a></li>
-    </ul>
-  </div>
-  <div class="nav-right">
-    <ul class="nav-right-list">
-      {% for link in config.extra.header_links -%}
-      <li class="nav-right-item">
-        {% set link_class = link | get(key='class', default='') -%}
-        {% set link_icon = '' %}
-        {% if link.icon -%}
-          {% set link_icon = '<svg class="feather link-icon"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
-        {% endif -%}
-        {% if link.path -%}
-          <a href="{{ get_url(path=link.path) }}"
-             class="{{ link_class }}"
-             title="{{ link.name }}">
-             {{ link_icon | safe }}
-             <span class="t">{{ link.name }}</span>
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
+<nav class="toplevel">
+  <nav class="menu">
+    <div class="nav-left">
+      <ul class="nav-left-list">
+        <li class="nav-left-item"><a href="/" class="logo"></a></li>
+        <li class="nav-left-item"><a href="/"><span class="sitename">{{ config.title }}</span></a></li>
+      </ul>
+    </div>
+    <div class="header-search" style="display: none">
+      <form class="search-widget">
+        <input type="search"
+               id="search_input"
+               autocomplete="off"
+               tabIndex="1" />
+        <button class="search-button" type="submit">
+          <svg class="feather-inline search-icon" title="Search"> 
+            <use href="{{ sprite }}#search"/> 
+          </svg> 
+        </button>
+      </form>
+      <div class="search-results">
+        <ul class="search-results-items"></ul>
+        <template>
+          <a class="search-result">
+            <svg class="feather-inline" id="result-type-icon">
+              <use href="{{ sprite }}"/>
+            </svg> 
+            <span id="result"></span>
+            <span id="info"></span>
           </a>
-        {% elif link.url -%}
-          <a href="{{link.url}}" class="{{ link_class }}" title="{{ link.name }}">
-             {{ link_icon | safe }}
-             <span class="t">{{ link.name }}</span>
+        </template>
+      </div>
+    </div>
+    <div class="nav-right">
+      <ul class="nav-right-list keep">
+        <li>
+          <a id="darkmodetoggle" onclick="switchTheme()" ondblclick="switchThemeOG()" aria-label="Change theme" title="Change theme">
+            <svg class="feather dark-theme-icon" title="Moon icon">
+              <use href="{{ sprite }}#moon"/>
+            </svg>
+            <svg class="feather light-theme-icon" title="Sun icon">
+              <use href="{{ sprite }}#sun"/>
+            </svg>
           </a>
-        {% endif -%}
-      </li>
-      {% endfor -%}
-      <li>
-        <a id="darkmodetoggle" onclick="switchTheme()" ondblclick="switchThemeOG()" aria-label="Change theme" title="Change theme">
-          <svg class="feather dark-theme-icon" title="Moon icon">
-            <use href="{{ sprite }}#moon"/>
-          </svg>
-          <svg class="feather light-theme-icon" title="Sun icon">
-            <use href="{{ sprite }}#sun"/>
-          </svg>
-        </a>
-      </li>
-    </ul>
-  </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <nav class="level2">
+    <div class="nav-right">
+      <ul class="nav-right-list">
+        {% for link in config.extra.header_links -%}
+        <li class="nav-right-item">
+          {% set link_class = link | get(key='class', default='') -%}
+          {% set link_icon = '' %}
+          {% if link.icon -%}
+            {% set link_icon = '<svg class="feather feather-nav"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
+          {% endif -%}
+          {% if link.path -%}
+            <a href="{{ get_url(path=link.path) }}"
+              class="{{ link_class }}"
+              title="{{ link.name }}">
+              {{ link_icon | safe }}
+              <span class="t">{{ link.name }}</span>
+            </a>
+          {% elif link.url -%}
+            <a href="{{link.url}}" class="{{ link_class }}" title="{{ link.name }}">
+              {{ link_icon | safe }}
+              <span class="t">{{ link.name }}</span>
+            </a>
+          {% endif -%}
+        </li>
+        {% endfor -%}
+      </ul>
+  </nav>
 </nav>
