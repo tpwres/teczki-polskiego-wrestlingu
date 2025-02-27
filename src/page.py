@@ -116,6 +116,10 @@ def all_event_pages(root: Optional[Path]=None, verbose: bool = False) -> Iterabl
                 for page_path in (root / 'content/e/').glob('**/????-??-??-*.md')
                 if page_path.stem != '_index')
 
+def pages_under(path: Path, verbose: bool = False) -> Iterable[Page]:
+    yield from (page(page_path, verbose=verbose)
+                for page_path in path.glob('*.md'))
+
 if __name__ == "__main__":
     import sys, code
     path = Path(sys.argv[1])
