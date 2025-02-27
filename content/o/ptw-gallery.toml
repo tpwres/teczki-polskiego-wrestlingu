@@ -1,25 +1,137 @@
-01 = { path = "rzezniczek-departs.png", caption = "Marcin Rzeźniczek announcing his departure from PTW" }
-02 = { path = "ptw6_leak.png", caption = "Sabinq from Wrestlefans realising he leaked a match. Further down, Taras admits to being on a break from the ring.", source = "Twitter/X"}
-03 = { path = "taras_cyrk.jpg", caption = 'Taras seemingly happy that he is no longer part of "this circus".', source = "Twitter/X"}
-04 = { path = "taras_60.png", caption = "Jakub Tyczyński accusing Taras of ratting out other wrestlers to boss Pawłowski. Jacob Crane is named for holding an exhausting training session, and Axel Fox for some crude humor during training. Also mocking his debut victory over Tischer, as something that the entire German scene supposedly derides.", source = "PTW's public Facebook group"}
-05 = { path = "taras_done.png", caption = "Arek Roter criticizes that a 10-year old car is pushed way more than any wrestler in PTW. Taras declares he's done with wrestling for the time.", source = "Twitter/X"}
-06 = { path = "sabinq_done.png", caption = "Sabinq from Wrestlefans declaring he know nothing about Stonoga's involvement, and dropping out of collaboration with PTW.", source = "Twitter/X"}
-07 = { path = "ppw_wrestlers_stonoga.jpg", caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PpW merchandise. Except one, these fans are PpW wrestlers and personnel.', source = "Gazeta Stonoga's Facebook page" }
-08 = { path = "pozdro_dla_tych.png", caption = "Group post re-sharing Stonoga's announcement. The comment mocks people who spent their own money on the show. The bottom popup text is an alert that the post was removed.", source = "PTW's public Facebook Group"}
-09 = { path = "ludwiczek-babs.png", caption = 'Kacper "Ludwiczek" Bociański next to Baba-thunder. The post promotes [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) and the lottery.', source = "Instagram profile @ludwiczek_top"}
-10 = { path = "dziedzic-sinister-marcelito-facebook.png", caption = "Anonymous post on the PTW Fan group, mockingly asking for at least 3 matches on the upcoming Ryucon show, and wishing well to Dziedzic, Marcelito and Sinister.", source = "Facebook PTW Grupa Fanów"}
-11 = { path = "puncher-chapter-closed.jpg", caption = "[Puncher's](@/w/puncher.md) Instagram post stating 'Chapter closed', which spurred rumors about his exit.", source = "Instagram @ptwpuncher" }
-12 = { path = "puncher-1.png", caption = "Puncher's long letter, page 1: meeting Pawłowski, training.", source = "Twitter @PuncherShow"}
-13 = { path = "puncher-2.png", caption = "Puncher's long letter, page 2: honing his skills, first PTW events, sleeping in the ring.", source = "Twitter @PuncherShow"}
-14 = { path = "puncher-3.png", caption = "Puncher's long letter, page 3: anonymous accusations, the lottery flop.", source = "Twitter @PuncherShow"}
-15 = { path = "sambor-insta-thanks.jpg", caption = '[Sambor](@/w/sambor.md) thanking the fans, organization and Pawłowski for support. The text states that his time in wrestling is not over, and his story will be told in many taverns.'}
-16 = { path = "hammers-vs-caravaggio.png", caption = "[Marco Hammers](@/w/marco-hammers.md) feuding online with Vincent Caravaggio, three days before his surprise debut for PpW. He links to Kornel Tomicki's (Vincent's real name) site, where prior to his wrestling career, Tomicki offered coaching, prominently promising successful dating.", source = "Facebook Marco Hammers"}
-17 = { path = "ludwiczek-stonoga.png", caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square.", source = "Instagram profile @ludwiczek_top"}
-18 = { path = "ludwiczek-insta-1.png", caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy.", source = "Instagram profile @ludwiczek_top"}
-19 = { path = "ludwiczek-insta-2.png", caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\".", source = "Instagram profile @ludwiczek_top"}
-20 = { path = "ludwiczek-insta-3.png", caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler [Justin Joy](@/w/justin-joy.md) (as oski_ninja) praises Ludwiczek for talking sense, while [Samson](@/w/samson.md) wants a match against Pawłowski."}
-21 = { path = "botte-da-bestya.webp", caption = "ICW's poster advertising Botte da Bestya 2. Near the bottom are Iva Kolasky and [Puncher](@/w/puncher.md). Luca Bjorn, who also appeared for PTW is first in the second row."}
-22 = { path = "piekny-fakolec.webp", caption = "Post by [Piękny Kawaler](@/w/piekny-kawaler.md) responding to statements made by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on Marcin Najman's YouTube channel, with comments by fans and other wrestlers.", source = "Piękny Kawaler @ Facebook"}
-23 = { path = "okonskie-peeleny.png", caption = "Comment by Łukasz Okoński regarding his financial input into PTW.", source = "Official PTW Facebook"}
-24 = { path = "roster-2024-05-09.webp", caption = "PTW's roster page prior to being taken down.", source = "Archive.org"}
-25 = { path = "debt.webp", caption = "Screenshot from a January 2025 post. In the highlighted comment, the producers of [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) ask about the money they're owed. ", source = "Official PTW Facebook"}
+[01]
+path = "rzezniczek-departs.png"
+caption = "Marcin Rzeźniczek announcing his departure from PTW"
+skip_art = true
+
+[02]
+path = "ptw6_leak.png"
+caption = "Sabinq from Wrestlefans realising he leaked a match. Further down, Taras admits to being on a break from the ring."
+source = "Twitter/X"
+skip_art = true
+
+[03]
+path = "taras_cyrk.jpg"
+caption = 'Taras seemingly happy that he is no longer part of "this circus".'
+source = "Twitter/X"
+skip_art = true
+
+[04]
+path = "taras_60.png"
+caption = "Jakub Tyczyński accusing Taras of ratting out other wrestlers to boss Pawłowski. Jacob Crane is named for holding an exhausting training session, and Axel Fox for some crude humor during training. Also mocking his debut victory over Tischer, as something that the entire German scene supposedly derides."
+source = "PTW's public Facebook group"
+skip_art = true
+
+[05]
+path = "taras_done.png"
+caption = "Arek Roter criticizes that a 10-year old car is pushed way more than any wrestler in PTW. Taras declares he's done with wrestling for the time."
+source = "Twitter/X"
+skip_art = true
+
+[06]
+path = "sabinq_done.png"
+caption = "Sabinq from Wrestlefans declaring he know nothing about Stonoga's involvement, and dropping out of collaboration with PTW."
+source = "Twitter/X"
+skip_art = true
+
+[07]
+path = "ppw_wrestlers_stonoga.jpg"
+caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PpW merchandise. Except one, these fans are PpW wrestlers and personnel.'
+source = "Gazeta Stonoga's Facebook page"
+
+[08]
+path = "pozdro_dla_tych.png"
+caption = "Group post re-sharing Stonoga's announcement. The comment mocks people who spent their own money on the show. The bottom popup text is an alert that the post was removed."
+source = "PTW's public Facebook Group"
+skip_art = true
+
+[09]
+path = "ludwiczek-babs.png"
+caption = 'Kacper "Ludwiczek" Bociański next to Baba-thunder. The post promotes [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) and the lottery.'
+source = "Instagram profile @ludwiczek_top"
+
+[10]
+path = "dziedzic-sinister-marcelito-facebook.png"
+caption = "Anonymous post on the PTW Fan group, mockingly asking for at least 3 matches on the upcoming Ryucon show, and wishing well to Dziedzic, Marcelito and Sinister."
+source = "Facebook PTW Grupa Fanów"
+
+[11]
+path = "puncher-chapter-closed.jpg"
+caption = "[Puncher's](@/w/puncher.md) Instagram post stating 'Chapter closed', which spurred rumors about his exit."
+source = "Instagram @ptwpuncher"
+
+[12]
+path = "puncher-1.png"
+caption = "Puncher's long letter, page 1: meeting Pawłowski, training."
+source = "Twitter @PuncherShow"
+skip_art = true
+
+[13]
+path = "puncher-2.png"
+caption = "Puncher's long letter, page 2: honing his skills, first PTW events, sleeping in the ring."
+source = "Twitter @PuncherShow"
+skip_art = true
+
+[14]
+path = "puncher-3.png"
+caption = "Puncher's long letter, page 3: anonymous accusations, the lottery flop."
+source = "Twitter @PuncherShow"
+skip_art = true
+
+[15]
+path = "sambor-insta-thanks.jpg"
+caption = '[Sambor](@/w/sambor.md) thanking the fans, organization and Pawłowski for support. The text states that his time in wrestling is not over, and his story will be told in many taverns.'
+
+[16]
+path = "hammers-vs-caravaggio.png"
+caption = "[Marco Hammers](@/w/marco-hammers.md) feuding online with Vincent Caravaggio, three days before his surprise debut for PpW. He links to Kornel Tomicki's (Vincent's real name) site, where prior to his wrestling career, Tomicki offered coaching, prominently promising successful dating."
+source = "Facebook Marco Hammers"
+skip_art = true
+
+[17]
+path = "ludwiczek-stonoga.png"
+caption = "Kacper \"Ludwiczek\" Bociański and Zbigniew Stonoga, in front of the lottery grand prize Nissan GTR. They building in the background is located in Warsaw's old town, next to Piłsudski Square."
+source = "Instagram profile @ludwiczek_top"
+
+[18]
+path = "ludwiczek-insta-1.png"
+caption = "Ludwiczek's instagram post. In the comments, several PTW personalities point out the author's hypocrisy."
+source = "Instagram profile @ludwiczek_top"
+skip_art = true
+
+[19]
+path = "ludwiczek-insta-2.png"
+caption = "Discussion under Ludwiczek's instagram post. He criticizes the organization, its \"mouldy\" ring, and writes about \"protecting the lottery\"."
+source = "Instagram profile @ludwiczek_top"
+skip_art = true
+
+[20]
+path = "ludwiczek-insta-3.png"
+caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler [Justin Joy](@/w/justin-joy.md) (as oski_ninja) praises Ludwiczek for talking sense, while [Samson](@/w/samson.md) wants a match against Pawłowski."
+skip_art = true
+
+[21]
+path = "botte-da-bestya.webp"
+caption = "ICW's poster advertising Botte da Bestya 2. Near the bottom are Iva Kolasky and [Puncher](@/w/puncher.md). Luca Bjorn, who also appeared for PTW is first in the second row."
+
+[22]
+path = "piekny-fakolec.webp"
+caption = "Post by [Piękny Kawaler](@/w/piekny-kawaler.md) responding to statements made by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on Marcin Najman's YouTube channel, with comments by fans and other wrestlers."
+source = "Piękny Kawaler @ Facebook"
+skip_art = true
+
+[23]
+path = "okonskie-peeleny.png"
+caption = "Comment by Łukasz Okoński regarding his financial input into PTW."
+source = "Official PTW Facebook"
+skip_art = true
+
+[24]
+path = "roster-2024-05-09.webp"
+caption = "PTW's roster page prior to being taken down."
+source = "Archive.org"
+
+[25]
+path = "debt.webp"
+caption = "Screenshot from a January 2025 post. In the highlighted comment, the producers of [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) ask about the money they're owed. "
+source = "Official PTW Facebook"
+skip_art = true

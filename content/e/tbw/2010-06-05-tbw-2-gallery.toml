@@ -1,35 +1,209 @@
-01 = { path = "2010-06-05-tbw-2-plakat.jpg", caption = "Official poster, with Ultimo Chingón in the bottom-right corner.", source = "MyWrestling.com.pl" }
-02 = { path = "IMG_7220_1.jpeg", caption = "Show host Kuba Wątły", source = "wrestling.nazwa.pl" }
-03 = { path = "IMG_7221_1.jpeg", caption = "Show host Agnieszka Borkowska", source = "wrestling.nazwa.pl" }
-04 = { path = "IMG_7223_1.jpeg", caption = 'Owner, organiser and commentator Andrzej "The Professor of Wrestling" Supron', source = "wrestling.nazwa.pl" }
-05 = { path = "IMG_7228_1.jpeg", caption = 'Owner, organiser and commentator [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)', source = "wrestling.nazwa.pl" }
-06 = { path = "IMG_7247_1.jpeg", caption = "Mexx (upright)", source = "wrestling.nazwa.pl" }
-07 = { path = "IMG_7252_1.jpeg", caption = "Rambo running into Chris the Bambikiller, with [Michael Kovac](@/w/michael-kovac.md) in the corner", source = "wrestling.nazwa.pl" }
-08 = { path = "IMG_7254_1.jpeg", caption = "[Michael Kovac](@/w/michael-kovac.md) chopping Rambo in the corner", source = "wrestling.nazwa.pl" }
-09 = { path = "IMG_7269_1.jpeg", caption = "Rambo and Mexx with a double suplex to [Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl" }
-10 = { path = "IMG_7274_1.jpeg", caption = "Chris the Bambikiller landing a splash on Rambo", source = "wrestling.nazwa.pl" }
-11 = { path = "IMG_7279_1.jpeg", caption = "Mexx throwing [Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl" }
-12 = { path = "IMG_7296_1.jpeg", caption = 'Kamil "Highlander" Bazelak', source = "wrestling.nazwa.pl" }
-13 = { path = "IMG_7353_1.jpeg", caption = "Commentary team: [Borkowski](@/w/pawel-borkowski.md) and Supron", source = "wrestling.nazwa.pl" }
-14 = { path = "IMG_7376_1.jpeg", caption = "Blue Nikita posing in the ring, Damon Brix sitting in the corner", source = "wrestling.nazwa.pl" }
-15 = { path = "IMG_7389_1.jpeg", caption = "Blue Nikita setting up a ladder", source = "wrestling.nazwa.pl" }
-16 = { path = "IMG_7394_1.jpeg", caption = "Blue Nikita with a chair to a laid-out Crazy Sexy Mike", source = "wrestling.nazwa.pl" }
-17 = { path = "IMG_7395_1.jpeg", caption = "Damon Brix (on the floor) attempting to topple Crazy Sexy Mike into a ladder", source = "wrestling.nazwa.pl" }
-18 = { path = "IMG_7444_1.jpeg", caption = "Dance group BellArto", source = "wrestling.nazwa.pl" }
-19 = { path = "IMG_7457_1.jpeg", caption = "Ultimo Chingon's entrance", source = "wrestling.nazwa.pl" }
-20 = { path = "IMG_7464_1.jpeg", caption = "Makoto Morimitsu landing on the ringmat, with Ultimo Chingon behind him", source = "wrestling.nazwa.pl" }
-21 = { path = "IMG_7506_1.jpeg", caption = "Ultimo Chingon doing flips, with Makoto Morimitsu striking a pose", source = "wrestling.nazwa.pl" }
-22 = { path = "IMG_7519_1.jpeg", caption = "Ultimo Chingon offering a handshake to Morimitsu", source = "wrestling.nazwa.pl" }
-23 = { path = "IMG_7535_1.jpeg", caption = "Cybernic Machine's entrance", source = "wrestling.nazwa.pl" }
-24 = { path = "IMG_7548_1.jpeg", caption = "Bernard Vandamme's entrance", source = "wrestling.nazwa.pl" }
-25 = { path = "IMG_7552_1.jpeg", caption = "Eurostars' European Wrestling Championship belt", source = "wrestling.nazwa.pl" }
-26 = { path = "IMG_7554_1.jpeg", caption = "Vandamme vs Cybernic Machine", source = "wrestling.nazwa.pl" }
-27 = { path = "IMG_7561_1.jpeg", caption = "Cybernic Machine trying to throw Vandamme over the ropes", source = "wrestling.nazwa.pl" }
-28 = { path = "IMG_7582_1.jpeg", caption = "Bernard Vandamme and Cybernic Machine in the corner", source = "wrestling.nazwa.pl" }
-29 = { path = "IMG_7598_1.jpeg", caption = "Cybernic Machine dropping from the top rope", source = "wrestling.nazwa.pl" }
-30 = { path = "IMG_7603_1.jpeg", caption = "Bernard Vandamme escaping a splash from Cybernic Machine", source = "wrestling.nazwa.pl" }
-31 = { path = "IMG_7622_1.jpeg", caption = "Vandamme handing over the European Wrestling Championship belt to Cybernic Machine", source = "wrestling.nazwa.pl" }
-32 = { path = "IMG_7625_1.jpeg", caption = "Cybernic Machine with the belt", source = "wrestling.nazwa.pl" }
-33 = { path = "IMG_7650_1.jpeg", caption = "[Michael Kovac](@/w/michael-kovac.md) signing autographs after the event", source = "wrestling.nazwa.pl" }
-34 = { path = "IMG_7667_1.jpeg", caption = "Cybernic Machine showing the Eurostars championship belt ", source = "wrestling.nazwa.pl" }
-35 = { path = "IMG_7677_1.jpeg", caption = "Andrzej Supron surrounded by women at the afterparty", source = "wrestling.nazwa.pl" }
+[01]
+path = "2010-06-05-tbw-2-plakat.jpg"
+caption = "Official poster, with Ultimo Chingón in the bottom-right corner."
+source = "MyWrestling.com.pl"
+skip_art = true
+
+[02]
+path = "IMG_7220_1.jpeg"
+caption = "Show host Kuba Wątły"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[03]
+path = "IMG_7221_1.jpeg"
+caption = "Show host Agnieszka Borkowska"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[04]
+path = "IMG_7223_1.jpeg"
+caption = 'Owner, organiser and commentator Andrzej "The Professor of Wrestling" Supron'
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[05]
+path = "IMG_7228_1.jpeg"
+caption = 'Owner, organiser and commentator [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)'
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[06]
+path = "IMG_7247_1.jpeg"
+caption = "Mexx (upright)"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[07]
+path = "IMG_7252_1.jpeg"
+caption = "Rambo running into Chris the Bambikiller, with [Michael Kovac](@/w/michael-kovac.md) in the corner"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[08]
+path = "IMG_7254_1.jpeg"
+caption = "[Michael Kovac](@/w/michael-kovac.md) chopping Rambo in the corner"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[09]
+path = "IMG_7269_1.jpeg"
+caption = "Rambo and Mexx with a double suplex to [Kovac](@/w/michael-kovac.md)"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[10]
+path = "IMG_7274_1.jpeg"
+caption = "Chris the Bambikiller landing a splash on Rambo"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[11]
+path = "IMG_7279_1.jpeg"
+caption = "Mexx throwing [Kovac](@/w/michael-kovac.md)"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[12]
+path = "IMG_7296_1.jpeg"
+caption = 'Kamil "Highlander" Bazelak'
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[13]
+path = "IMG_7353_1.jpeg"
+caption = "Commentary team: [Borkowski](@/w/pawel-borkowski.md) and Supron"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[14]
+path = "IMG_7376_1.jpeg"
+caption = "Blue Nikita posing in the ring, Damon Brix sitting in the corner"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[15]
+path = "IMG_7389_1.jpeg"
+caption = "Blue Nikita setting up a ladder"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[16]
+path = "IMG_7394_1.jpeg"
+caption = "Blue Nikita with a chair to a laid-out Crazy Sexy Mike"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[17]
+path = "IMG_7395_1.jpeg"
+caption = "Damon Brix (on the floor) attempting to topple Crazy Sexy Mike into a ladder"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[18]
+path = "IMG_7444_1.jpeg"
+caption = "Dance group BellArto"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[19]
+path = "IMG_7457_1.jpeg"
+caption = "Ultimo Chingon's entrance"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[20]
+path = "IMG_7464_1.jpeg"
+caption = "Makoto Morimitsu landing on the ringmat, with Ultimo Chingon behind him"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[21]
+path = "IMG_7506_1.jpeg"
+caption = "Ultimo Chingon doing flips, with Makoto Morimitsu striking a pose"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[22]
+path = "IMG_7519_1.jpeg"
+caption = "Ultimo Chingon offering a handshake to Morimitsu"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[23]
+path = "IMG_7535_1.jpeg"
+caption = "Cybernic Machine's entrance"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[24]
+path = "IMG_7548_1.jpeg"
+caption = "Bernard Vandamme's entrance"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[25]
+path = "IMG_7552_1.jpeg"
+caption = "Eurostars' European Wrestling Championship belt"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[26]
+path = "IMG_7554_1.jpeg"
+caption = "Vandamme vs Cybernic Machine"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[27]
+path = "IMG_7561_1.jpeg"
+caption = "Cybernic Machine trying to throw Vandamme over the ropes"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[28]
+path = "IMG_7582_1.jpeg"
+caption = "Bernard Vandamme and Cybernic Machine in the corner"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[29]
+path = "IMG_7598_1.jpeg"
+caption = "Cybernic Machine dropping from the top rope"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[30]
+path = "IMG_7603_1.jpeg"
+caption = "Bernard Vandamme escaping a splash from Cybernic Machine"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[31]
+path = "IMG_7622_1.jpeg"
+caption = "Vandamme handing over the European Wrestling Championship belt to Cybernic Machine"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[32]
+path = "IMG_7625_1.jpeg"
+caption = "Cybernic Machine with the belt"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[33]
+path = "IMG_7650_1.jpeg"
+caption = "[Michael Kovac](@/w/michael-kovac.md) signing autographs after the event"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[34]
+path = "IMG_7667_1.jpeg"
+caption = "Cybernic Machine showing the Eurostars championship belt "
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[35]
+path = "IMG_7677_1.jpeg"
+caption = "Andrzej Supron surrounded by women at the afterparty"
+source = "wrestling.nazwa.pl"
+skip_art = true

@@ -1,41 +1,244 @@
-01 = { path = "2010-02-27-tbw-1-plakat.jpg", caption = "Official poster, with Starbuck in the bottom-right corner.", source = "MyWrestling.com.pl" }
-02 = { path = "DSC_4585_1.JPG", caption = "Andrzej Supron opening the show", source = "wrestling.nazwa.pl" }
-03 = { path = "DSC_4597_1.JPG", caption = "Show hosts", source = "wrestling.nazwa.pl" }
-04 = { path = "DSC_4601_1.JPG", caption = "Chris Colen waving a Polish flag", source = "wrestling.nazwa.pl" }
-05 = { path = "DSC_4614_1.JPG", caption = "Chris Colen lifting Damon Brix", source = "wrestling.nazwa.pl" }
-06 = { path = "DSC_4636_1.JPG", caption = "Chris Colen and Damon Brix in the corner", source = "wrestling.nazwa.pl" }
-07 = { path = "DSC06404.JPG", caption = "Chris Colen jumping on Damon Brix", source = "wrestling.nazwa.pl" }
-08 = { path = "DSC_4656_1.JPG", caption = "Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
-09 = { path = "DSC_4680_1.JPG", caption = "Erik Isaksen (white trunks) dropping Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
-10 = { path = "DSC06429.JPG", caption = "Erik Isaksen (white trunks) throwing Heimo Ukonselkä", source = "wrestling.nazwa.pl" }
-11 = { path = "IMG_6385_1.JPG", caption = "Ivan Kiev (black and white pants) vs Bjørn Sem", source = "wrestling.nazwa.pl" }
-12 = { path = "DSC_4707_1.JPG", caption = "Ivan Kiev vs Bjørn Sem", source = "wrestling.nazwa.pl" }
-13 = { path = "DSC_4731_1.JPG", caption = "Polish Black Metal band Enthymion for August's entrance", source = "wrestling.nazwa.pl" }
-14 = { path = "DSC_4766_1.JPG", caption = "Enthymion's bassist and guitarist", source = "wrestling.nazwa.pl" }
-15 = { path = "DSC_4732_1.JPG", caption = "August (robe, white mask) confronting Bjørn Sem in the ring", source = "wrestling.nazwa.pl" }
-16 = { path = "DSC06465.JPG", caption = "August vs Bjørn Sem, Ivan Kiev in the other corner", source = "wrestling.nazwa.pl" }
-17 = { path = "DSC_4751_1.JPG", caption = "Kamil Bazelak attacking August", source = "wrestling.nazwa.pl" }
-18 = { path = "DSC_4788_1.JPG", caption = "Cybernic Machine", source = "wrestling.nazwa.pl" }
-19 = { path = "DSC_4793_1.JPG", caption = "Cybernic Machine, with Crazy Sexy Mike behind", source = "wrestling.nazwa.pl" }
-20 = { path = "DSC_4802_1.JPG", caption = "Cybernic Machine, Crazy Sexy Mike", source = "wrestling.nazwa.pl" }
-21 = { path = "DSC06495.JPG", caption = "Cybernic Machine's entrance", source = "wrestling.nazwa.pl" }
-22 = { path = "DSC06513.JPG", caption = "Cybernic Machine landing on Crazy Sexy Mike", source = "wrestling.nazwa.pl" }
-23 = { path = "DSC_4804_1.JPG", caption = "Cybernic Machine vs Ahmed Chaer tangled between the ropes", source = "wrestling.nazwa.pl" }
-24 = { path = "DSC_4818_1.JPG", caption = "Cybernic Machine with a double bodyslam to Ahmed Chaer and Crazy Sexy Mike", source = "wrestling.nazwa.pl" }
-25 = { path = "DSC_4841_1.JPG", caption = "Starbuck, wearing Canadian colors", source = "wrestling.nazwa.pl" }
-26 = { path = "DSC_4844_1.JPG", caption = "Starbuck dragging [Michael Kovac](@/w/michael-kovac.md) by the hair", source = "wrestling.nazwa.pl" }
-27 = { path = "DSC_4858_1.JPG", caption = "Starbuck vs [Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl" }
-28 = { path = "DSC_4860_1.JPG", caption = "Starbuck vs [Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl" }
-29 = { path = "DSC_4902_1.JPG", caption = "Starbuck's entrance", source = "wrestling.nazwa.pl" }
-30 = { path = "DSC_4907_1.JPG", caption = "Bernard Vandamme, with the Eurostars European Wrestling Championship", source = "wrestling.nazwa.pl" }
-31 = { path = "DSC_4916_1.JPG", caption = "[Borkowski](@/w/pawel-borkowski.md) and Supron in the commentary booth, with the Eurostars belt", source = "wrestling.nazwa.pl" }
-32 = { path = "DSC_4919_1.JPG", caption = "Vandamme vs Colossos", source = "wrestling.nazwa.pl" }
-33 = { path = "DSC_4963_1.JPG", caption = "Bernard Vandamme striking a victorious phose after defending the championship", source = "wrestling.nazwa.pl" }
-34 = { path = "DSC_5021_1.JPG", caption = "Rumble match: Crazy Sexy Mike, Damon Brix, [Michael Kovac](@/w/michael-kovac.md), Ahmed Chaer kneeling over Ivan Kiev", source = "wrestling.nazwa.pl" }
-35 = { path = "DSC_5035_1.JPG", caption = "Rumble Match: Starbuck trying to eliminate [Michael Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl" }
-36 = { path = "DSC_5060_1.JPG", caption = "Rumble match: Colossos and Chris Colen trying to eliminate Cybernic Machine", source = "wrestling.nazwa.pl" }
-37 = { path = "DSC_5065_1.JPG", caption = "Rumble match: Cybernic Machine eliminating Bjørn Sem", source = "wrestling.nazwa.pl" }
-38 = { path = "DSC_5077_1.JPG", caption = "Rumble match: Starbuck with a top rope elbow to Cybernic Machine", source = "wrestling.nazwa.pl" }
-39 = { path = "DSC06593.JPG", caption = "Rumble Match action", source = "wrestling.nazwa.pl" }
-40 = { path = "DSC_5105_1.JPG", caption = "Afterparty: members of Enthymion vs Bernard Vandamme", source = "wrestling.nazwa.pl" }
-41 = { path = "DSC_4516_1.JPG", caption = "[Paweł Borkowski](@/w/pawel-borkowski.md) after the show", source = "wrestling.nazwa.pl" }
+[01]
+path = "2010-02-27-tbw-1-plakat.jpg"
+caption = "Official poster, with Starbuck in the bottom-right corner."
+source = "MyWrestling.com.pl"
+
+[02]
+path = "DSC_4585_1.JPG"
+caption = "Andrzej Supron opening the show"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[03]
+path = "DSC_4597_1.JPG"
+caption = "Show hosts"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[04]
+path = "DSC_4601_1.JPG"
+caption = "Chris Colen waving a Polish flag"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[05]
+path = "DSC_4614_1.JPG"
+caption = "Chris Colen lifting Damon Brix"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[06]
+path = "DSC_4636_1.JPG"
+caption = "Chris Colen and Damon Brix in the corner"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[07]
+path = "DSC06404.JPG"
+caption = "Chris Colen jumping on Damon Brix"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[08]
+path = "DSC_4656_1.JPG"
+caption = "Heimo Ukonselkä"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[09]
+path = "DSC_4680_1.JPG"
+caption = "Erik Isaksen (white trunks) dropping Heimo Ukonselkä"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[10]
+path = "DSC06429.JPG"
+caption = "Erik Isaksen (white trunks) throwing Heimo Ukonselkä"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[11]
+path = "IMG_6385_1.JPG"
+caption = "Ivan Kiev (black and white pants) vs Bjørn Sem"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[12]
+path = "DSC_4707_1.JPG"
+caption = "Ivan Kiev vs Bjørn Sem"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[13]
+path = "DSC_4731_1.JPG"
+caption = "Polish Black Metal band Enthymion for August's entrance"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[14]
+path = "DSC_4766_1.JPG"
+caption = "Enthymion's bassist and guitarist"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[15]
+path = "DSC_4732_1.JPG"
+caption = "August (robe, white mask) confronting Bjørn Sem in the ring"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[16]
+path = "DSC06465.JPG"
+caption = "August vs Bjørn Sem, Ivan Kiev in the other corner"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[17]
+path = "DSC_4751_1.JPG"
+caption = "Kamil Bazelak attacking August"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[18]
+path = "DSC_4788_1.JPG"
+caption = "Cybernic Machine"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[19]
+path = "DSC_4793_1.JPG"
+caption = "Cybernic Machine, with Crazy Sexy Mike behind"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[20]
+path = "DSC_4802_1.JPG"
+caption = "Cybernic Machine, Crazy Sexy Mike"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[21]
+path = "DSC06495.JPG"
+caption = "Cybernic Machine's entrance"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[22]
+path = "DSC06513.JPG"
+caption = "Cybernic Machine landing on Crazy Sexy Mike"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[23]
+path = "DSC_4804_1.JPG"
+caption = "Cybernic Machine vs Ahmed Chaer tangled between the ropes"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[24]
+path = "DSC_4818_1.JPG"
+caption = "Cybernic Machine with a double bodyslam to Ahmed Chaer and Crazy Sexy Mike"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[25]
+path = "DSC_4841_1.JPG"
+caption = "Starbuck, wearing Canadian colors"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[26]
+path = "DSC_4844_1.JPG"
+caption = "Starbuck dragging [Michael Kovac](@/w/michael-kovac.md) by the hair"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[27]
+path = "DSC_4858_1.JPG"
+caption = "Starbuck vs [Kovac](@/w/michael-kovac.md)"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[28]
+path = "DSC_4860_1.JPG"
+caption = "Starbuck vs [Kovac](@/w/michael-kovac.md)"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[29]
+path = "DSC_4902_1.JPG"
+caption = "Starbuck's entrance"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[30]
+path = "DSC_4907_1.JPG"
+caption = "Bernard Vandamme, with the Eurostars European Wrestling Championship"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[31]
+path = "DSC_4916_1.JPG"
+caption = "[Borkowski](@/w/pawel-borkowski.md) and Supron in the commentary booth, with the Eurostars belt"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[32]
+path = "DSC_4919_1.JPG"
+caption = "Vandamme vs Colossos"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[33]
+path = "DSC_4963_1.JPG"
+caption = "Bernard Vandamme striking a victorious phose after defending the championship"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[34]
+path = "DSC_5021_1.JPG"
+caption = "Rumble match: Crazy Sexy Mike, Damon Brix, [Michael Kovac](@/w/michael-kovac.md), Ahmed Chaer kneeling over Ivan Kiev"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[35]
+path = "DSC_5035_1.JPG"
+caption = "Rumble Match: Starbuck trying to eliminate [Michael Kovac](@/w/michael-kovac.md)"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[36]
+path = "DSC_5060_1.JPG"
+caption = "Rumble match: Colossos and Chris Colen trying to eliminate Cybernic Machine"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[37]
+path = "DSC_5065_1.JPG"
+caption = "Rumble match: Cybernic Machine eliminating Bjørn Sem"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[38]
+path = "DSC_5077_1.JPG"
+caption = "Rumble match: Starbuck with a top rope elbow to Cybernic Machine"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[39]
+path = "DSC06593.JPG"
+caption = "Rumble Match action"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[40]
+path = "DSC_5105_1.JPG"
+caption = "Afterparty: members of Enthymion vs Bernard Vandamme"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[41]
+path = "DSC_4516_1.JPG"
+caption = "[Paweł Borkowski](@/w/pawel-borkowski.md) after the show"
+source = "wrestling.nazwa.pl"
+skip_art = true
