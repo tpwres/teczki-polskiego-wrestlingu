@@ -1,20 +1,119 @@
-ahmed = { path = "ahmedchaer.jpg", caption = "Ahmed Chaer", source = "wrestling.nazwa.pl" }
-bjorn = { path = "bjornsem.jpg", caption = "Bjørn Sem", source = "wrestling.nazwa.pl" }
-chrisbambikiller = { path = "chrisbambikiller.jpg", caption = "Chris The Bambikiller", source = "wrestling.nazwa.pl"}
-chriscolen = { path = "chriscolen.jpg", caption = "Chris Colen", source = "wrestling.nazwa.pl"}
-colossos = { path = "collosos2.jpg", caption = "Colossos", source = "wrestling.nazwa.pl"}
-mike = { path = "crazysexymike.jpg", caption = "Crazy Sexy Mike", source = "wrestling.nazwa.pl"}
-cybernic = { path = "cybernic.jpg", caption = "Cybernic Machine", source = "wrestling.nazwa.pl"}
-damonbrix = { path = "damonbrix.jpg", caption = "Damon Brix", source = "wrestling.nazwa.pl"}
-erik = { path = "erikisaksen.jpg", caption = "Erik Isaksen", source = "wrestling.nazwa.pl"}
-dragon = { path = "flyingdragon.jpg", caption = "Flying Dragon", source = "wrestling.nazwa.pl"}
-heimo = { path = "heimo.jpg", caption = "Heimo Ukonselkä", source = "wrestling.nazwa.pl"}
-ivankiev = { path = "ivankiev.jpg", caption = "Ivan Kiev", source = "wrestling.nazwa.pl"}
-makoto = { path = "makoto.jpg", caption = "Makoto Morimitsu", source = "wrestling.nazwa.pl"}
-mertkaloglu = { path = "mertkaloglu.jpg", caption = "Mert Kaloglu", source = "wrestling.nazwa.pl"}
-mexx = { path = "mexx.jpg", caption = "Mexx", source = "wrestling.nazwa.pl"}
-kovac = { path = "michaelkovac.jpg", caption = "[Michael Kovac](@/w/michael-kovac.md)", source = "wrestling.nazwa.pl"}
-scott = { path = "scottrider.jpg", caption = "Scott Rider", source = "wrestling.nazwa.pl"}
-starbuck = { path = "starbuck.jpg", caption = "Starbuck", source = "wrestling.nazwa.pl"}
-ultimo = { path = "ultimochingon.jpg", caption = "Ultimo Chingon", source = "wrestling.nazwa.pl"}
-vandamme = { path = "vandamme.jpg", caption = "Bernard Vandamme wearing the Eurostars European Heavyweight Championship", source = "wrestling.nazwa.pl"}
+[ahmed]
+path = "ahmedchaer.jpg"
+caption = "Ahmed Chaer"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[bjorn]
+path = "bjornsem.jpg"
+caption = "Bjørn Sem"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[chrisbambikiller]
+path = "chrisbambikiller.jpg"
+caption = "Chris The Bambikiller"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[chriscolen]
+path = "chriscolen.jpg"
+caption = "Chris Colen"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[colossos]
+path = "collosos2.jpg"
+caption = "Colossos"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[mike]
+path = "crazysexymike.jpg"
+caption = "Crazy Sexy Mike"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[cybernic]
+path = "cybernic.jpg"
+caption = "Cybernic Machine"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[damonbrix]
+path = "damonbrix.jpg"
+caption = "Damon Brix"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[erik]
+path = "erikisaksen.jpg"
+caption = "Erik Isaksen"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[dragon]
+path = "flyingdragon.jpg"
+caption = "Flying Dragon"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[heimo]
+path = "heimo.jpg"
+caption = "Heimo Ukonselkä"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[ivankiev]
+path = "ivankiev.jpg"
+caption = "Ivan Kiev"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[makoto]
+path = "makoto.jpg"
+caption = "Makoto Morimitsu"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[mertkaloglu]
+path = "mertkaloglu.jpg"
+caption = "Mert Kaloglu"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[mexx]
+path = "mexx.jpg"
+caption = "Mexx"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[kovac]
+path = "michaelkovac.jpg"
+caption = "[Michael Kovac](@/w/michael-kovac.md)"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[scott]
+path = "scottrider.jpg"
+caption = "Scott Rider"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[starbuck]
+path = "starbuck.jpg"
+caption = "Starbuck"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[ultimo]
+path = "ultimochingon.jpg"
+caption = "Ultimo Chingon"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
+[vandamme]
+path = "vandamme.jpg"
+caption = "Bernard Vandamme wearing the Eurostars European Heavyweight Championship"
+source = "wrestling.nazwa.pl"
+skip_art = true
