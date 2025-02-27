@@ -41,7 +41,8 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: 'Gryffin picks stipulation'
     nc: upcoming
-- - '???'
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '???'
   - '???'
   - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne V'
     nc: upcoming
