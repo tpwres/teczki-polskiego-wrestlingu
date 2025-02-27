@@ -70,17 +70,13 @@ def combine_path(event_page: EventPage, subdir, photo_path: str) -> str:
 
 @singledispatch
 def generate_key(page, index: int):
-    raise ArgumentError
+    return f"{page.path.stem}_{index}"
 
 @generate_key.register
 def generate_event_key(page: EventPage, index: int):
     """Given an event page and photo index, generate an identifier unique within that page."""
     ymd = page.event_date.strftime("%Y%m%d")
     return f"{ymd}_{index}"
-
-@generate_key.register
-def generate_talent_key(page: TalentPage, index: int):
-    return f"{page.path.stem}_{index}"
 
 def page_link(page: Page) -> str:
     content_root = Path.cwd() / 'content'
