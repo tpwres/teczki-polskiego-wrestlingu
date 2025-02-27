@@ -99,6 +99,9 @@ def build_event_photos():
 
         for _, entry in gallery.items():
             path, caption, source = entry['path'], entry['caption'], entry.get('source')
+            if entry.get('skip_art', False):
+                continue
+
             taggings = set(parse_names(caption))
             for page_path in taggings:
                 entries = photo_taggings.setdefault(page_path.replace('@/', ''), [])
