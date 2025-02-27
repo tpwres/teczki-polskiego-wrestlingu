@@ -24,5 +24,7 @@ Serg Sullivan: '"The Enigma" Serg Sullivan'
 Tomczak:
   - Bodyguard
 #  - TOMCZAK # Usunąć komentarz w razie potrzeby; na razie nie ma wpisanego żadnego wystąpienia wielkimi
-Tony Sheen: 'Tony "The River Man" Sheen'
+Tony Sheen:
+  - 'Tony "The River Man" Sheen'
+  - 'Tony "The Riverman" Sheen'
 Wade Barrett: Bad News Barrett
