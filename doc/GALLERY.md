@@ -40,6 +40,7 @@ The value is always a map (another list of key-value pairs), which **must contai
 * `path` must name a file in the page's images folder (see above). There is no way to link images from other articles, and copying them is the only solution for now.
 * `caption` is the text to display under the thumbnail in the gallery grid. Markdown can be used in this text, as shown in the example, so it can link to other pages. However, shortcodes and template markup cannot be used.
 * `source` is the attribution. While currently it's not displayed, we still want to collect it to have a grasp on where the images came from.
+* `skip_art` (optional). If present and set to true, this image will be excluded from Artwall. Recommended to set for photos that are low-resolution, or screenshots containing mostly text.
 
 ### Collapsing
 
