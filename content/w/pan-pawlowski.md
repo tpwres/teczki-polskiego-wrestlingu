@@ -43,7 +43,7 @@ This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-
 After his departure from KPW, Pawłowski spent the next two years working for Fame MMA, and in the second half of 2021 announced the opening of [Prime Time Wrestling](@/o/ptw.md).
 This new promotion was founded together with Marcin "Rzeźnik" Rzeźniczek as co-owner, however Rzeźniczek left after [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), leaving Pawłowski the sole owner.
 
-Between 2021 and 2025, Pawłowski was presented one of the main faces of the promotion, with his promoter role acknowledged on-screen. He typically hosted the shows, did the ring announcing, and made authority figure decisions. It's not uncommon for him to openly comment on match outcomes and wrestlers' behaviour, as well as to be involved in storylines. Most notably, between 2022 and first half of 2024 he feuded with [John "Bad Bones" Klinger](@/w/bad-bones.md) and [Wiktor Longman](@/w/wiktor-longman.md), who were trying to destroy PTW from the inside.
+Between 2021 and 2025, Pawłowski was presented as one of the main faces of the promotion, with his role as a promoter acknowledged on-screen. He typically hosted the shows, did the ring announcing, and made authority figure decisions. It's not uncommon for him to openly comment on match outcomes and wrestlers' behaviour, as well as to be involved in storylines. Most notably, between 2022 and the first half of 2024 he feuded with [John "Bad Bones" Klinger](@/w/bad-bones.md) and [Wiktor Longman](@/w/wiktor-longman.md), who were trying to destroy PTW from the inside.
 
 #### After reboot
 
@@ -51,7 +51,7 @@ Despite numerous controversies - especially after a huge PR crisis following the
 
 In addition to his on-screen heel turn, Pawłowski also increased his social media activity, frequently getting into disputes with displeased fans, calling them "piwniczaki" (_basement dwellers_) and shooting at ex-PTW talents, such as various members of ["The Greens"](@/a/the-greens.md), [Samson](@/w/samson.md) and personnel who left to form [Legacy of Wrestling](@/o/low.md). He also called out owners of other federations, like [Piękny Kawaler](@/w/piekny-kawaler.md) from [KPW](@/o/kpw.md) and [Shadow](@/w/shadow.md) from [MZW](@/o/mzw.md).
 
-At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md), Pawłowski debuted a new heelish entrance, retiring dynamic "Throne" and entering surrounded by the security from ever-loyal _Grupa Wolf_("Wolf" group), changing his entrance song to another _Bring me the Horizon_ piece - "Die4U". At the show he reaffirmed his heelturn by laying out [Łukasz Okoński](@/w/lukasz-okonski.md) after the now-traditional charity T-shirt auction. He used the same chair as at previous show, slowly making this item his signature weapon.
+At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Pawłowski debuted a new heelish entrance, retiring the dynamic "Throne" and entering surrounded by security from the ever-loyal Grupa Wolf (_Wolf Group_), changing his entrance song to another Bring me the Horizon song, "Die4U". At the show he reaffirmed his heel-turn by laying out [Łukasz Okoński](@/w/lukasz-okonski.md) after the now-traditional charity T-shirt auction. He used the same chair as at the previous show, slowly making this item his signature weapon.
 
 ## In wrestling
 
@@ -62,10 +62,10 @@ At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md), Pawłowski debuted
  {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
  {{ music(apple='1021582747?i=1021582761')}}
   - "DiE4u" by Bring Me the Horizon
-  {{ org_badge(orgs=['ptw']) }} (2025-present) <br>
-  {{ music(yt='IPUUbVhvqrE?si=f8cMFFA570bT2GoC')}}
-  {{ music(spot='2gT72HL4Y84K2Mle3miAMJ')}}
-  {{ music(apple='1583958900?i=1583959120')}}  
+ {{ org_badge(orgs=['ptw']) }} (2025-present) <br>
+ {{ music(yt='IPUUbVhvqrE')}}
+ {{ music(spot='2gT72HL4Y84K2Mle3miAMJ')}}
+ {{ music(apple='1583958900?i=1583959120')}}  
 
 ## Championships and accomplishments
 
