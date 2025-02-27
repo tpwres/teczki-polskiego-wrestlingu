@@ -1,6 +1,8 @@
 from typing import cast, Any, TypedDict, Optional
 from functools import singledispatch
-from page import all_event_pages, all_talent_pages, EventPage, TalentPage, Page
+from itertools import chain
+from page import EventPage, TalentPage, Article, OrgPage, Page, VenuePage
+from page import all_event_pages, all_talent_pages, page, pages_under
 from pathlib import Path
 import tomllib, re, json
 
@@ -107,43 +109,8 @@ def build_event_photos():
                 entries = photo_taggings.setdefault(page_path.replace('@/', ''), [])
                 entries.append(photo_index)
 
-            if taggings:
-                # Skip photos that don't have anyone properly linked
-                key = generate_key(page, photo_index + 1)
-                all_photos.append(
-                    (
-                        key,
-                        {
-                            "caption": fix_caption(caption),
-                            "source": source,
-                            "path": f"/{combine_path(page, '', path)}",
-                            "thumb": f"/{combine_path(page, 'tn', path)}",
-                            "event": page_link(page)
-                        }
-                    )
-                )
-                photo_index += 1
-
-    save_as_json(all_photos, Path('data/all_photos.json'))
-    save_as_json(photo_taggings, Path('data/photo_taggings.json'))
-
-def build_people_photos():
-    people_photos = []
-    photo_index = 0
-
-    for page in all_talent_pages():
-        fm = page.front_matter
-        if fm['template'] != 'talent_page.html':
-            continue
-        gallery = load_gallery(fm, verbose=False)
-        if not gallery: continue
-
-        for _, entry in gallery.items():
-            path, caption, source = entry['path'], entry['caption'], entry.get('source')
-            taggings = set(parse_names(caption))
-
             key = generate_key(page, photo_index + 1)
-            people_photos.append(
+            all_photos.append(
                 (
                     key,
                     {
@@ -151,21 +118,76 @@ def build_people_photos():
                         "source": source,
                         "path": f"/{combine_path(page, '', path)}",
                         "thumb": f"/{combine_path(page, 'tn', path)}",
-                        "talent": page_link(page)
+                        "event": page_link(page)
                     }
                 )
             )
             photo_index += 1
 
-    save_as_json(people_photos, Path('data/talent_photos.json'))
+    save_as_json(all_photos, Path('data/all_photos.json'))
+    save_as_json(photo_taggings, Path('data/photo_taggings.json'))
+
+def build_other_photos():
+    other_photos = []
+    photo_index = 0
+    root = Path.cwd()
+
+    def has_template(page, template):
+        return page.front_matter and page.front_matter['template'] == template
+
+    talent_pages = (doc for doc in all_talent_pages() if has_template(doc, 'talent_page.html'))
+    org_pages = (page for page in pages_under(root / 'content/o') if has_template(page, 'org_page.html'))
+    venue_pages = (page for page in pages_under(root / 'content/v') if has_template(page, 'venue_page.html'))
+    champ_pages = (page for page in pages_under(root / 'content/c') if page.front_matter)
+    article_pages = (page for page in pages_under(root / 'content/a') if page.front_matter)
+    all_pages = chain(talent_pages, org_pages, venue_pages, champ_pages, article_pages)
+
+    for page in all_pages:
+        gallery = load_gallery(page.front_matter, verbose=False)
+        if not gallery: continue
+
+        for _, entry in gallery.items():
+            path, caption, source = entry['path'], entry['caption'], entry.get('source')
+            if entry.get('skip_art', False):
+                continue
+
+            key = generate_key(page, photo_index + 1)
+            info = {
+                "caption": fix_caption(caption),
+                "source": source,
+                "path": f"/{combine_path(page, '', path)}",
+                "thumb": f"/{combine_path(page, 'tn', path)}",
+            }
+            type_key = page_type_key(page)
+            info[type_key] = page_link(page)
+
+            other_photos.append((key, info))
+            photo_index += 1
+
+    save_as_json(other_photos, Path('data/talent_photos.json'))
 
 def save_as_json(data: Any, path: Path):
     with path.open('w') as fp:
         json.dump(data, fp)
 
+def page_type_key(page: Page) -> str:
+    match page:
+        case TalentPage():
+            return 'talent'
+        case OrgPage(path=path) | Article(path=path) if path.match('o/*.md'):
+            return 'org'
+        case VenuePage(path=path) | Article(path=path) if path.match('v/*.md'):
+            return 'venue'
+        case Article(path=path) if path.match('c/*.md'):
+            return 'championship'
+        case Article(path=path) if path.match('a/*.md'):
+            return 'article'
+        case _:
+            raise ValueError(f"Unknown page type for page {page!r}")
+
 def main():
     build_event_photos()
-    build_people_photos()
+    build_other_photos()
 
 if __name__ == "__main__":
     main()
