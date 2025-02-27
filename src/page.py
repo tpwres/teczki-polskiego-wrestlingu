@@ -89,11 +89,11 @@ def page(path: Path, verbose: bool = False) -> Page:
     for the path given."""
     if Path('content/e') in path.parents or EventPage.date_org_re.match(path.stem):
         return EventPage(path, verbose)
-    elif Path('content/o') in path.parents:
+    elif path.match('o/*.md'):
         return OrgPage(path, verbose)
-    elif Path('content/w') in path.parents:
+    elif path.match('w/*.md'):
         return TalentPage(path, verbose)
-    elif Path('content/v') in path.parents:
+    elif path.match('v/*.md'):
         return VenuePage(path, verbose)
     else:
         return Article(path, verbose)
