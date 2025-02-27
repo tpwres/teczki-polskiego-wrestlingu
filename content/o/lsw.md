@@ -7,10 +7,16 @@ template = "org_page.html"
 toclevel = 3
 hide_roster = true
 hide_events = true
-[taxonomies]
-[extra.gallery]
-1 = { path = "diving-elbow-drop.jpg", caption = "More professional than [WWE](@/o/wwe.md). Not.", source = "Official ŁSW YouTube" }
-2 = { path = "tombstone-piledriver.jpg", caption = "Do not try this at home, or at all.", source = "Official ŁSW YouTube" }
+[extra.gallery.1]
+path = "diving-elbow-drop.jpg"
+caption = "More professional than [WWE](@/o/wwe.md). Not."
+source = "Official ŁSW YouTube"
+skip_art = true
+[extra.gallery.2]
+path = "tombstone-piledriver.jpg"
+caption = "Do not try this at home, or at all."
+source = "Official ŁSW YouTube"
+skip_art = true
 +++
 
 Łazieniec Superstar Wrestling was a short-lived backyard group from the village of Łazieniec. Little is known about them, as all that can be found is their YouTube channel with only four videos, 4.5 to 5.5 minutes in length, in which they demonstrate a variety of popular wrestling moves.
