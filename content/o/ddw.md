@@ -7,6 +7,8 @@ authors = ["Krzysztof Zych"]
 chrono_root = ["ddw"]
 [extra]
 toclevel = 3
+[extra.gallery]
+1 = { path = "atti-roid.webp", caption = "Don Roid's first post on Attitude Forum.", source = "Attitude Forum" }
 +++
 
 Do Or Die Wrestling was a pro wrestling school and promotion, created by [Don Roid](@/w/don-roid.md), an American indy wrestler who relocated to Poland some time in the late 2000s. It was the first professional (not a backyard) organisation of that kind in Poland, and its history reflects that pioneer status.
