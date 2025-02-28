@@ -20,7 +20,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * _Fan pack_ &ndash; 159,75 PLN (approx. 37.5 EUR, 32 GBP or 39 USD); entry + commemorative limited edition T-shirt + commemorative autographed poster
 * _VIP pack_ &ndash; 213,00 PLN (approx. 50 EUR, 42 GBP or 51.5 USD); entry + special seats (ringside or bleachers) + commemorative limited edition T-shirt + 2 servings of drinks
 
-#### Build-up
+### Build-up
 * Along with the event, PpW announced "the largest match in PpW history". This match is supposed to contain 20 competitors in a single ring, though the exact formula was not initially revealed.
 * [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md) continued to cross paths ever since July. While Olgierd vowed to end Goblin, the latter always found a way to one-up him. At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) Goblin interfered in a six man tag match, dragging Olgierd away on a dog leash. After weeks of social media build-up, PpW announced they would face-off in Dog Collar Match - the first in Poland.
 * At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md), Pure Gold defeated the team of [Gustav Gryffin](@/w/gustav-gryffin.md) and [Isnorr](@/w/isnorr.md), Gustav's first loss of any kind since [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md). This gave [Gabriel Queen](@/w/gabriel-queen.md) the leverage to demand another title shot, which Gustav accepted. It was later confirmed that the match is going to take place at the March show and that Gustav is going to pick the stipulation.
@@ -30,6 +30,11 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   * wrestlers are eliminated by being thrown over the top rope; both feet must touch the ground
   * each wrestler is allowed to bring in a single foreign object
   * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of Ledwo Legalne V
+
+#### Announced entrants for Battle Royal
+* Stanisław van Dobroniak - announced on PpW social media
+* [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview. Timestamp in offical video: '1:42:35'
+
 
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
@@ -42,7 +47,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
     s: 'Gryffin picks stipulation'
     nc: upcoming
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '???'
+  - '[Axel Fox](@/w/axel-fox.md)'
   - '???'
   - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne V'
     nc: upcoming
