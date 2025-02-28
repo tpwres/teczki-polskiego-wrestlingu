@@ -29,11 +29,12 @@ Kinga Miotke is a Polish ring announcer and on-screen personality currently work
 ### Kombat Pro Wrestling (2019-present)
 
 Kinga started out as a trainee in KPW's wrestling school, but had to abandon her trainings due to a neck injury.
-Instead of becoming a wrestler, she would conduct interviews with wrestlers on the backstage and with fans after shows, and eventually she'd take on her role as the ring announcer, starting with [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md), taking over from [Arek Pawłowski](@/w/pan-pawlowski.md) who left after [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md).
-At first she appeared under the ring name "Kinga Różańska", but beginning with [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) she started using her real name, Kinga Miotke.
-She is the first and, as of 2025, the only female announcer on the Polish wrestling scene.
+Instead of becoming a wrestler, she would conduct backstage interviews and with fans after shows, and eventually she'd take on her role as the ring announcer, starting with [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md), taking over from [Arek Pawłowski](@/w/pan-pawlowski.md) who left after [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md).
+At first, she appeared under the ring name "Kinga Różańska", but beginning with [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) she started using her real name, Kinga Miotke.
+She is the first and, as of 2025, only female announcer on the Polish wrestling scene.
 
-After [Rosetti](@/w/rosetti.md) took over KPW as the "acting chairman", he made numerous changes starting from [KPW Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Kinga was relieved of her ring announing duties, being replaced by [Piotr Opolski](@/w/piotr-opolski.md). She was appointed the referee for the show, while [Krystian Czekaj](@/w/krystian-czekaj.md) (KPW's usual official) was demoted to role of technical referee.
+After [Rosetti](@/w/rosetti.md) took over KPW as "acting chairman", he enforced numerous changes starting from [KPW Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md).
+Kinga was relieved of her ring announcing duties, and replaced by [Piotr Opolski](@/w/piotr-opolski.md). Instead, she was appointed the referee for the show, while [Krystian Czekaj](@/w/krystian-czekaj.md) (KPW's usual official) was demoted to the role of technical referee and timekeeper.
 
 ## In wrestling
 
