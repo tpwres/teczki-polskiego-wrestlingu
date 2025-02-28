@@ -33,7 +33,7 @@ Instead of becoming a wrestler, she would conduct interviews with wrestlers on t
 At first she appeared under the ring name "Kinga Różańska", but beginning with [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) she started using her real name, Kinga Miotke.
 She is the first and, as of 2025, the only female announcer on the Polish wrestling scene.
 
-After [Rosetti](@/w/rosetti.md) takeover of KPW as "acting chairman" he made numerous changes starting from [KPW Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Kinga was relieved from her ring announing duties, being replaced by [Piotr Opolski](@/w/piotr-opolski.md). Kinga herself was appointed as referee for the show, with [Krystian Czekaj](@/w/krystian-czekaj.md) being demoted to role of Technical Referee.
+After [Rosetti](@/w/rosetti.md) took over KPW as the "acting chairman", he made numerous changes starting from [KPW Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Kinga was relieved of her ring announing duties, being replaced by [Piotr Opolski](@/w/piotr-opolski.md). She was appointed the referee for the show, while [Krystian Czekaj](@/w/krystian-czekaj.md) (KPW's usual official) was demoted to role of technical referee.
 
 ## In wrestling
 
