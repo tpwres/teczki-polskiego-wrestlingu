@@ -23,6 +23,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 18.02.2025 [Matt Buckna](@/w/matt-buckna.md) [challenged][buckna-challenge] [Shadow](@/w/shadow.md) to a fight for his [MZW Championship](@/c/mzw-championship.md), in honour of MZW's 11th anniversary.
 * On 22.02.2025 MZW [announced][kubes-announced] that Kubes, an American wrestler of Polish origin, would appear at the show. This was three days after Kubes was confirmed by [ShowOff](@/w/piotr-malecki.md) to be booked for the [second show](@/e/low/2025-04-06-low-2.md) by [Legacy of Wrestling](@/o/low.md).
 * On 26.02.2025 [Disco Pablo](@/w/disco-pablo.md) was [announced][river-disco] to face Tony "The Riverman" Sheen, who made his in-ring debut at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).
+* On 28.02.2025 MZW [published a promo][aron-wyzywa-matta] by [Aron Wake](@/w/aron-wake.md) in which he challenged [Matt Buckna](@/w/matt-buckna.md) to a fight for the MZW Championship, saying that Matt doesn't care about MZW fans, and that he only challenges [Shadow](@/w/shadow.md) because he's talentless and Matt counts on an easy victory.
 
 {% card(predicted=true) %}
 - - 'Marcus Monere'
@@ -57,3 +58,4 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 [buckna-challenge]: https://www.facebook.com/watch/?v=1168490531294590
 [kubes-announced]: https://www.facebook.com/watch/?v=608002828704788
 [river-disco]: https://www.facebook.com/photo?fbid=1047865304038526&set=a.548442050647523
+[aron-wyzywa-matta]: https://www.facebook.com/watch/?v=9272743399471851
