@@ -16,14 +16,15 @@ city = "Wrocław"
 MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to return to [Bakara Community Centre](@/v/bakara.md) on Saturday, 29th of March 2025.
 
 ### Build-up
+
 * Along with the [show's announcement][announcement-post], a poster featuring [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) was posted confirming his appearance.
 * The first competitor to be [officially announced][marcelito-announced] was [Marcelito](@/w/marcelito.md), who mostly appears for [PpW](@/o/ppw.md). With MZW's notably thin roster, this set the tone for yet another cross-over MZW show.
 * On 13.02.2025 MZW [released a video][goblin-announces-himself] of [Goblin](@/w/goblin.md), stating that he's finally going to appear in "the greenest federation in Poland" and then throw "the biggest afterparty in Breslau ever since those lands returned under the rule of the Republic of Poland".
 * Two days later [MZW announced][robert-kaiser-returns] that Goblin would face the German wrestler [Robert Kaiser](@/w/robert-kaiser.md), last seen in 2016 at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md).
-* On 18.02.2025 [Matt Buckna](@/w/matt-buckna.md) [challenged][buckna-challenge] [Shadow](@/w/shadow.md) to a fight for his [MZW Championship](@/c/mzw-championship.md), in honour of MZW's 11th anniversary.
+* On 18.02.2025 Matt Buckna [challenged][buckna-challenge] [Shadow](@/w/shadow.md) to a fight for his MZW Championship, in honour of MZW's 11th anniversary.
 * On 22.02.2025 MZW [announced][kubes-announced] that Kubes, an American wrestler of Polish origin, would appear at the show. This was three days after Kubes was confirmed by [ShowOff](@/w/piotr-malecki.md) to be booked for the [second show](@/e/low/2025-04-06-low-2.md) by [Legacy of Wrestling](@/o/low.md).
 * On 26.02.2025 [Disco Pablo](@/w/disco-pablo.md) was [announced][river-disco] to face Tony "The Riverman" Sheen, who made his in-ring debut at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).
-* On 28.02.2025 MZW [published a promo][aron-wyzywa-matta] by [Aron Wake](@/w/aron-wake.md) in which he challenged [Matt Buckna](@/w/matt-buckna.md) to a match for the MZW Championship, criticizing his choice of [Shadow](@/w/shadow.md) as opponent, saying that Matt doesn't care about MZW fans, Shadow doesn't deserve a rematch just yet, and that Matt only chose him for an easy victory.
+* On 28.02.2025 MZW [published a promo][aron-wyzywa-matta] by [Aron Wake](@/w/aron-wake.md) in which he challenged Matt Buckna to a match for the MZW Championship, criticizing his choice of Shadow as opponent, saying that Matt doesn't care about MZW fans, Shadow doesn't deserve a rematch just yet, and that Matt only chose him for an easy victory.
 
 {% card(predicted=true) %}
 - - 'Marcus Monere'
