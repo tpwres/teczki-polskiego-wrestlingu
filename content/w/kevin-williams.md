@@ -20,11 +20,11 @@ Kevin Williams is a Scottish wrestler known in Poland for his apperances in [Do 
 
 ### Do Or Die Wrestling (2011-2012)
 
-Kevin Williams debuted in Poland in January 2011 working for [Do Or Die Wrestling](@/o/ddw.md) at their show [Dzień Sądu](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md), where he fought [Jędruś Bułecka](@/w/jedrus-bulecka.md). In total, he made four apperances in DDW, working mostly as a villain. His last match in DDW took place at [DDW #7](@/e/ddw/2012-03-10-ddw-7.md) in march 2012.
+Kevin Williams debuted in Poland in January 2011 working for [Do Or Die Wrestling](@/o/ddw.md) at [Dzień Sądu](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md), where he fought [Jędruś Bułecka](@/w/jedrus-bulecka.md). In total, he made four apperances in DDW, working mostly as a villain. His last match in for the promotion took place at [DDW #7](@/e/ddw/2012-03-10-ddw-7.md), in march 2012.
 
 ### Maniac Zone Wrestling (2014-2015)
 
-After two year hiatus from appearing in Poland Kevin Williams made his return in [Maniac Zone Wrestling](@/o/mzw.md), where he worked two victorious matches: one against [Justin](@/w/justin-joy.md) in [Smolec](@/e/mzw/2014-06-21-mzw-untitled.md), and against [Asmund](@/w/asmund.md) at [MZW Pre-War](@/e/mzw/2015-05-24-mzw-pre-war.md). 
+Two years later Kevin Williams returned to Poland, this time in [Maniac Zone Wrestling](@/o/mzw.md). He worked two victorious matches: one against [Justin](@/w/justin-joy.md) in [Smolec](@/e/mzw/2014-06-21-mzw-untitled.md), and another against [Asmund](@/w/asmund.md) at [MZW Pre-War](@/e/mzw/2015-05-24-mzw-pre-war.md). 
 
 ## In wrestling
 
