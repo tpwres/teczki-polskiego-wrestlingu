@@ -24,6 +24,8 @@
     {% include "badges/low.html" %}
   {% elif code == "pxw" %}
     {% include "badges/pxw.html" %}
+  {% elif code == "piwg" %}
+    {% include "badges/piwg.html" %}
   {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge">
@@ -63,6 +65,8 @@
     {% include "badges/low.html" %}
   {% elif code == "pxw" %}
     {% include "badges/pxw.html" %}
+  {% elif code == "piwg" %}
+    {% include "badges/piwg.html" %}
   {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge ib">
@@ -110,6 +114,8 @@
       {% include "badges/low.html" %}
     {% elif org == "pxw" %}
       {% include "badges/pxw.html" %}
+    {% elif org == "piwg" %}
+      {% include "badges/piwg.html" %}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};
