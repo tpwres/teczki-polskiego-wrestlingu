@@ -31,6 +31,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   * wrestlers are eliminated by being thrown over the top rope; both feet must touch the ground
   * each wrestler is allowed to bring in a single foreign object
   * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of Ledwo Legalne 5
+* On 1.03.2025 PpW released a [Facebook reel][gg-wybral], in which Gustav Gryffin chose his stipulation for the fight with Gabriel Queen - a 2 out of 3 falls match.
 
 #### Announced entrants for Battle Royal
 
@@ -45,7 +46,8 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: "Gryffin's choice of stipulation"
+    s: '2 Out Of 3 Falls Match'
+    n: "Gryffin's choice of stipulation"
     nc: upcoming
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
@@ -62,3 +64,5 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * [Dog Collar match announced](https://www.facebook.com/100063612039504/posts/1161155472681510/?rdid=Am24fR4aM5mpCYOs#)
 * [Details of the 20-Man Battle Royal](https://www.facebook.com/photo/?fbid=1174974491299608&set=a.499910772139320)
 * [PpW Championship Match is made - reel + description](https://www.facebook.com/reel/613548074965126)
+
+[gg-wybral]: https://www.facebook.com/reel/1162533122069903
