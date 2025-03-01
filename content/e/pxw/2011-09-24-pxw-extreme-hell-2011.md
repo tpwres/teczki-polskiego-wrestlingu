@@ -4,8 +4,11 @@ template = "event_page.html"
 [taxonomies]
 chronology = ["pxw"]
 [extra]
-hide_results = true
 city = "Głuchołazy"
+[extra.gallery]
+1 = { path = "terry-jump-1.webp", caption = "[Terry Shadow](@/w/shadow.md)…", source = "Polish Backyard Archives @ YouTube" }
+2 = { path = "terry-jump-2.webp", caption = "…jumps from the roof of a shed…", source = "Polish Backyard Archives @ YouTube" }
+3 = { path = "terry-jump-3.webp", caption = "…onto [Black Joker](@/w/lider.md).", source = "Polish Backyard Archives @ YouTube" }
 +++
 
 {% card() %}
@@ -13,8 +16,8 @@ city = "Głuchołazy"
   - '[Snake](@/w/snake.md)'
   - s: Chairs Match
     nc: '?'
-- - '[Terry Shadow](@/w/shadow.md)'
-  - '[Black Joker](@/w/lider.md)'
+- - '[Black Joker](@/w/lider.md)'
+  - '[Terry Shadow](@/w/shadow.md)'
   - s: Falls Count Anywhere Match
 - - '[Mazi](@/w/mazi.md)'
   - '[Manny](@/w/manny.md)'
