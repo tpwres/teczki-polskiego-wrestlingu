@@ -93,12 +93,13 @@ text_fg = '#ffffff'
 
 
 [extra.chronology]
-underground = "PTW Underground"
-godzina-zero = "KPW Godzina Zero"
 arena = "KPW Arena"
-pyrkon = "Pyrkon"
-international = "International"
-poznan-fair = "Poznań International Fair"
 beer-expo = "Poznań Beer Expo"
+godzina-zero = "KPW Godzina Zero"
+international = "International"
 oldtown = "OldTown Festival"
+poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
+pyrkon = "Pyrkon"
+ryucon = "Ryucon"
+underground = "PTW Underground"

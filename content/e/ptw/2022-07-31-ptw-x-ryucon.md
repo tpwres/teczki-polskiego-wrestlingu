@@ -3,7 +3,7 @@ title = "PTW X RyuCon 2022"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
-chronology = ["ptw"]
+chronology = ["ptw", "ryucon"]
 venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
