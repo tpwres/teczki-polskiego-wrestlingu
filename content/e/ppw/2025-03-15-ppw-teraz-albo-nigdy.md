@@ -32,7 +32,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   * each wrestler is allowed to bring in a single foreign object
   * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of Ledwo Legalne V
 
-{{ card_header(predicted=true) }}
+### Predicted card
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Olgierd](@/w/olgierd.md)'
