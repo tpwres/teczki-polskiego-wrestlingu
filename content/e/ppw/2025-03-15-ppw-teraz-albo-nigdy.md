@@ -8,6 +8,7 @@ venue=["minska-65"]
 [extra]
 city = "Warszawa"
 hide_results = true
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
 +++
@@ -31,6 +32,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   * each wrestler is allowed to bring in a single foreign object
   * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of Ledwo Legalne V
 
+{{ card_header(predicted=true) }}
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Olgierd](@/w/olgierd.md)'
