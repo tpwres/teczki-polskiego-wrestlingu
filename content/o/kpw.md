@@ -78,6 +78,8 @@ This slowly started to change nearly a decade after the federation's inception. 
 
 In mid-2024 [Adam Wong](@/w/adam-wong.md) from [PpW Ewenement Wrestling](@/o/ppw.md) was seen attending trainings in KPW's wrestling school, and later working as a ring crew member at their shows. In January 2025 KPW posted a photo from a training weekend with Wong clearly visible.
 
+Present at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) was [Arek Paterek](@/w/arek-paterek.md), sitting in the front row in a [Legacy of Wrestling](@/o/low.md) T-shirt. When the show aired on Extreme Sports Channel, the camera showed him arguing with [Chemik](@/w/chemik.md), and the commentary clearly mentioned Legacy.
+
 The Polish Internet wrestling community reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with merchandise of international provenance, such as AEW or nWo T-shirts.
 
 ### Championships
