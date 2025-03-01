@@ -27,7 +27,7 @@ city = "Kozłów"
     nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Heidi Katrina'
-  - c: '[PTW Women's Championship](@/c/ptw-womens-championship.md)'
+  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     nc : upcoming
 - - '[Puncher](@/w/puncher.md)'
   - '???'
