@@ -218,6 +218,12 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles match
     en: '[Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)'
     ed: 2025-01-25
+- - 'Gustav Gryffin (c)'
+  - 'Gabriel Queen'
+  - s: Singles match
+    en: '[Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)'
+    ed: 2025-03-15
+    nc: upcoming
 {% end %}
 
 ## References
