@@ -8,6 +8,7 @@ venue=["minska-65"]
 [extra]
 city = "Warszawa"
 hide_results = true
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
 +++
@@ -38,6 +39,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview. Timestamp in offical video: 1:42:35.
 * Stanisław van Dobroniak - announced on PpW's social media.
 
+### Predicted card
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Olgierd](@/w/olgierd.md)'
