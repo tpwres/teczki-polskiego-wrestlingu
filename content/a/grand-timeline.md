@@ -55,7 +55,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2005
 
-* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are Pomerania Indy Wrestling Group from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
+* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are [Pomerania Indy Wrestling Group](@/o/piwg.md) from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
 
 #### 2006
 
