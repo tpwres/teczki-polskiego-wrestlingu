@@ -16,7 +16,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and G�
 
 #### Build-up
 
-* [Robert Star](@/w/robert-star.md) was forced to join Kawaleria after losing to [Piękny Kawaler](@/w/piekny-kawaler.md) at Arena X
+* [Robert Star](@/w/robert-star.md) was forced to join Kawaleria after losing to [Piękny Kawaler](@/w/piekny-kawaler.md) at [Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md).
 
 {% card() %}
 - ['[Robert Star](@/w/robert-star.md); [Rosetti](@/w/rosetti.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)']
