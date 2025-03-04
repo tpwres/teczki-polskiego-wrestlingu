@@ -206,7 +206,7 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - s: Singles match
     en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
     ed: 2024-10-12
-- - '[Matt Buckna](@/w/matt-buckna.md)'
+- - '[Matt Buckna](@/w/matt-buckna.md) (c)'
   - '[Aron Wake](@/w/aron-wake.md)'
   - '[Shadow](@/w/shadow.md)'
   - s: Triple Threat Match
