@@ -33,6 +33,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of Ledwo Legalne 5
 * On 1.03.2025 PpW released a [Facebook reel][gg-wybral], in which Gustav Gryffin chose his stipulation for the fight with Gabriel Queen - a 2 out of 3 falls match.
 * At [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) [Biesiad's](@/w/biesiad.md) team defeated [Mister Z's](@/w/mister-z.md) and his men, including [Marco Hammers](@/w/marco-hammers.md). Now Marco wants wants a rematch against "The Strongest Carpenter".
+* On 4.03.2025 PpW released an [Instagram reel](https://www.instagram.com/p/DGyOF3MKKBT/) featuring [Johnny Blade](@/w/johnny-blade.md) working at [2 koła](@/v/2kola.md). Mysterious assailant comes from behind and chokes Johnny out, revealing himself as [Mister Z](@/w/mister-z.md). He cuts a promo insulting [Biesiad](@/w/biesiad.md) and urges him to come save his friend and decides to "go shooting", leaving Johnny tied up and hanging from the ceiling. [Biesiad] unties Johnny who relays Z's plans. Biesiad quickly realizes that Z went to _PM Shooter_ shooting range (currently PpW's sponsor) and continues the chase.
 
 #### Announced entrants for Battle Royal
 
