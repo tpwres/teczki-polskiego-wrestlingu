@@ -58,13 +58,13 @@ In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeare
 Over the weekend of March 6-8 2024, PpW wrestlers [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md) posted stories on Instagram, which featured them in a ring that was slightly larger than PpW's regular one. Three days later, on March 11th, Mister Z, the kayfabe executive producer and booker and in real-life also the co-owner of PpW, posted a photo of himself and Andrzej Supron on Instagram. The photo showed them shaking hands and was captioned "Two [guys] happy that the deal went through. Thank you Mr Supron".
 The involvement of Supron suggest that this may be the very same ring he [bought in 2010](@/o/tbw.md#2010-successful-events) for Total Blast Wrestling. Hashtags used in the post seem to confirm this. (Scroll down to the [gallery](./#gallery) to view screenshots of the stories mentioned.)
 
-Over the course of 2024 and further into 2025, PpW largely increased the frequency of their shows, establishing three de-facto tiers:
+Over the course of 2024 and further into 2025, PpW increased the frequency of their shows, establishing three de-facto tiers:
  
-* revamped _Hardcore Friday_ series set in [2Koła](@/v/2kola.md), with very limited crowd capacity (roughly 200 people), mostly used for pushing the storylines forward, using old small ring
-* middle-size events set in [Teatr Komuna](@/v/teatr-komuna.md), with larger, but still limited capacity (roughly 400 people), pushing the major storylines forward
-* major events, set in arenas larger than Komuna, featuring marquee matches and storyline pay-offs
+* revamped _Hardcore Friday_ series set in [2Koła](@/v/2kola.md), with very limited crowd capacity (ca. 200 people), using the old, small ring; mostly for pushing storylines forward
+* middle-sized events set in [Teatr Komuna](@/v/teatr-komuna.md), with larger, but still limited capacity (ca. 400 people); pushing major storylines forward
+* major events, set in arenas larger than Komuna; featuring marquee matches and storyline pay-offs
 
-On the 28th December 2024 PpW launched their [official subscription-based VOD][ppw-vod] with uncensored versions of their shows (including onces previously not available on YouTube), as well as exclusive bonus materials.
+On the 28th December 2024 PpW launched their [official subscription-based VOD][ppw-vod] with uncensored versions of their shows (including ones previously not available on YouTube), as well as exclusive bonus materials.
 
 ### Lost lore
 
