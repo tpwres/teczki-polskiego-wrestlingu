@@ -41,14 +41,14 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 * [Vic Golden](@/w/vic-golden.md) came alone, without the support of [Gabriel Queen](@/w/gabriel-queen.md).
 * [Karol "Iskra" Górski](@/w/iskra.md) came out to challenge [Diana](@/w/diana-strong.md) to a match on the next Underground show.
 * After [Samson](@/w/samson.md)'s match, he was attacked by Sinister and his allies. [Marcelito](@/w/marcelito.md) tried to make a save, but got beaten down as well. Lights went out, [Nano Lopez](@/w/nano-lopez.md) entered with a steel chair and successfully makes a save.
-* [Puncher](@/w/puncher.md) came out to insult manga fans and culture, and tried burning manga books in a bucket full of gasoline. Some of the gasoline spilled out and burned the ring, a crewmember extinguished the fire.
+* [Puncher](@/w/puncher.md) came out to insult manga fans and culture, and tried burning manga books in a bucket full of gasoline. Some of the gasoline spilled out and burned the ring, but a crewmember promptly extinguished the fire. Over a year later this person turned out to be the mysterious "Mister Chairman" from [Legacy of Wrestling](@/o/low.md).
 * [Wiktor Longman](@/w/wiktor-longman.md) interrupted Pan Pawłowski. He confirmed cutting ties with John "Bad Bones" Klinger, and proclaimed loyalty to Pawłowski. This storyline saw its conclusion months later at [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 * The tag team championship defense was a no-contest due to an intervention by Legia Łysych ([Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)) with [Vic Golden](@/w/vic-golden.md). The champions retained. Both teams chased off the heels. Show ended with babyfaces standing tall.
 
 #### One-time entrance themes
 
-- Jonny Storm: _Mortal Kombat Theme_
-- [Boro](@/w/boro.md): _Deja Vu_ from "Initial D"
+- Jonny Storm: _Techno Syndrome_ by The Immortals (commonly known as the _Mortal Kombat theme_)
+- [Boro](@/w/boro.md): _Deja Vu_ from Initial D
 - PAKA: _Shinzo wo Sasageyo!_ from Attack on Titan
 
 ### References
