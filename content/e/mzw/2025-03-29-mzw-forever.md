@@ -9,8 +9,7 @@ venue = ["bakara"]
 hide_results = true
 city = "Wrocław"
 [extra.gallery]
-1 = { path = "mzw-forever-poster.webp", caption = "Official poster, featuring the [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md). In the background is a close-up of Shadow.", source = "Official MZW Facebook" }
-2 = { path = "mzw-forever-banner.jpg", caption = "Image announcing the upcoming show, featuring Matt Buckna.", source = "Official MZW Facebook" }
+manifest = "@/e/mzw/2025-03-29-mzw-forever-gallery.toml"
 +++
 
 MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to return to [Bakara Community Centre](@/v/bakara.md) on Saturday, 29th of March 2025.
