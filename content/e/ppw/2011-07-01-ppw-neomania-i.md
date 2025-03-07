@@ -8,10 +8,10 @@ venue = ["placyk-ppw"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
-1 = { path = "leg-drop.webp", caption = "La Parka (etc.) hits Ultimo Combo with a leg drop.", source = "Official PpW YouTube" }
+1 = { path = "leg-drop.webp", caption = "La Parka (etc.) hits [Ultimo Combo](@/w/johnny-blade.md) with a leg drop.", source = "Official PpW YouTube" }
 2 = { path = "la-parka-etc.webp", caption = "La Parka (etc.) stalks Ultimo Combo.", source = "Official PpW YouTube" }
-3 = { path = "arm-bar!.webp", caption = "La Parka (etc.) attacks Ultimo Combo's arm.", source = "Official PpW YouTube" }
-4 = { path = "tap-out.webp", caption = "Ultimo Combo taps out.", source = "Official PpW YouTube" }
+3 = { path = "arm-bar!.webp", caption = "La Parka (etc.) attacks [Ultimo Combo's](@/w/johnny-blade.md) arm.", source = "Official PpW YouTube" }
+4 = { path = "tap-out.webp", caption = "[Ultimo Combo](@/w/johnny-blade.md) taps out.", source = "Official PpW YouTube" }
 +++
 
 Neomania was the inaugural show in the Neomania series of [PpW's](@/o/ppw.md) early backyard shows, and PpW's first "PPV" show. It took place on an unknown date(s) during the summer holidays of 2011, and it was held at a local playground. The date of July 1st was chosen arbitrarily for the purposes of this entry and does not accurately reflect the actual date(s) of the event.
