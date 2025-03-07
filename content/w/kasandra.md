@@ -11,7 +11,7 @@ country = ["PL"]
 2 = { path = "kasandra-2.png", caption = "Close-up of Kasandra.", source = "WrestlingJunkies.wixsite.com" }
 +++
 
-Kasandra, also known as Aurora, is a Polish retired wrestler best known for her time in [Do Or Die Wrestling](@/o/ddw.md). She also made one-off apperance at [Kombat Pro Wrestling](@/o/kpw.md).
+Kasandra, also known as Aurora, is a retired Poish wrestler best known for her time in [Do Or Die Wrestling](@/o/ddw.md). She also made a one-off apperance at [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## Basic info
 
@@ -26,11 +26,11 @@ Kasandra, also known as Aurora, is a Polish retired wrestler best known for her 
 
 ### Do Or Die Wrestling (2013-2015) 
 
-Kasandra, then known as Aurora, made her debut in [Do Or Die Wrestling](@/o/ddw.md) in August 2013 during [DDW's Charity Event](@/e/ddw/2013-08-25-ddw-charity-event-gallery.toml). In her debut she defeated [Mira](@/w/mira.md). In total she made five apperances in DDW, mostly working against two other female wrestlers on Polish wrestling scene Mira, [Bianca](@/w/bianca.md) or both of them. She made her last apperance for DDW at [House Show](@/e/ddw/2015-05-02-ddw-house-show-2.md) in May 2015. 
+Kasandra, then known as Aurora, made her debut in [Do Or Die Wrestling](@/o/ddw.md) in August 2013. In her debut at [DDW's Charity Event](@/e/ddw/2013-08-25-ddw-charity-event.md) she defeated [Mira](@/w/mira.md). In total she made five apperances in DDW, mostly working against two other female wrestlers on the Polish wrestling scene, [Mira](@/w/mira.md) and [Bianca](@/w/bianca.md), or both. She made her last apperance for DDW at [House Show](@/e/ddw/2015-05-02-ddw-house-show-2.md) in May 2015.
 
 ### Kombat Pro Wrestling (2015)
 
-After DDW folding and creation of [Kombat Pro Wrestling](@/o/kpw.md) Kasandra joined the federation, but she only made one apperance at federation first show [KPW vs the World: Hung(a)ry for Kombat](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), where she faced, and got defeated by Mira. After that she seemingly retired from professional wrestling.
+After the folding of DDW and creation of [Kombat Pro Wrestling](@/o/kpw.md), Kasandra joined the new federation. She only made one apperance at KPW's first show, [KPW vs the World: Hung(a)ry for Kombat](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), where she faced, and was defeated by, Mira. After that she seemingly retired from professional wrestling.
 
 ## In wrestling
 
