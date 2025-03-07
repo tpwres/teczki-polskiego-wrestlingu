@@ -54,6 +54,9 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - nc: upcoming  
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - nc: upcoming  
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '???'
