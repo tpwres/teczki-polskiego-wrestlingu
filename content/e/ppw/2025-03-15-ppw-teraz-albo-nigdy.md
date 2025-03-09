@@ -37,7 +37,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 
 #### Announced entrants for Battle Royal
 
-* [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview. Timestamp in offical video: 1:42:35.
+* [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview (timestamp in the offical video: 1:42:35). He was later [confirmed][axel-potwierdzony] in a Facebook post published on 8.03.2025.
 * Stanisław van Dobroniak - announced on PpW's social media.
 
 {% card(predicted=true) %}
@@ -75,3 +75,4 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 
 [gg-wybral]: https://www.facebook.com/reel/1162533122069903
 [johnny-zwis]: https://www.instagram.com/p/DGyOF3MKKBT/
+[axel-potwierdzony]: https://www.facebook.com/photo/?fbid=1184379093692481&set=a.499910772139320
