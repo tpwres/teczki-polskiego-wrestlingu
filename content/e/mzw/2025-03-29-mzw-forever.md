@@ -25,7 +25,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 26.02.2025 [Disco Pablo](@/w/disco-pablo.md) was [announced][river-disco] to face Tony "The Riverman" Sheen, who made his in-ring debut at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).
 * On 28.02.2025 MZW [published a promo][aron-wyzywa-matta] by [Aron Wake](@/w/aron-wake.md) in which he challenged Matt Buckna to a match for the MZW Championship, criticizing his choice of Shadow as opponent, saying that Matt doesn't care about MZW fans, Shadow doesn't deserve a rematch just yet, and that Matt only chose him for an easy victory.
 * On 3.03.2025 Matt [responded][buckna-odpowiada] to Wake's video, declaring that the championship match will be between Shadow, Wake and himself.
-* On 10.03.2025 Legia Łysych [issued an open challenge][łysy-challenge] to "anyone who has the balls".
+* On 10.03.2025 Legia Łysych [issued an open challenge][łysy-challenge] to "anyone who's got the balls".
 
 {% card(predicted=true) %}
 - - 'Marcus Monere'
