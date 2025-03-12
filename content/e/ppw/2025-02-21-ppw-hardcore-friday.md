@@ -72,7 +72,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 
 * This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
-* In the show's opener, Goblin faced Sentinel, a masked luchador from Hungary who made his debut in the pre-show match of Gruba Przesada. Goblin managed to score a win over Sentinel after hitting him with his signature _Kabacki Krztusiec_ (modified Muta Lock) to secure a victory via submission.
+* In the show's opener, Goblin faced Sentinel, a masked luchador from Hungary who made his debut in the pre-show match of Gruba Przesada. Goblin managed to score a win over Sentinel after putting him in his signature _Kabacki Krztusiec_ (modified Muta Lock) to secure a victory via submission.
 * Mister Z introduced a big clock for the Beat the Clock challenge between Biesiad and himself. If Biesiad failed to beat the time set by Mister Z, he would be forced to serve as Z's bodyguard. Additionally, if either Sambor or Marcelito won their respective matches, they would earn a number 20 entry in the 20 person match at [Teraz albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 * Mister Z defeated Marcelito in 2:47 after hitting his Spinning Sit-Out Powerbomb, thus setting a time limit for Biesiad to defeat Sambor.
 * Biesiad furiously assaulted Sambor with multiple chairshots and managed to pin Sambor, beating Mister Z's time and thus securing his freedom.
