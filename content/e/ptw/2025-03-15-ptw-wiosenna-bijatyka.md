@@ -9,7 +9,7 @@ venue = ["dworek-kozlow"]
 hide_results = true
 city = "Kozłów"
 [extra.gallery]
-manifest = "2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
+manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 +++
 
 "Wiosenna Bijatyka" (_Spring Brawl_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). As announced at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), final match of [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament is going to take place. The winner of ladder match will be crowned inaugural PTW Underground Champion.
