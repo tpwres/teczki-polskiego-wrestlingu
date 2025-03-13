@@ -44,6 +44,9 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - - '[Alex Brave](@/w/alex-brave.md)'
   - 'Sigma Boy xD'
   - nc : upcoming
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - 'Serg Sullivan'
+  - nc : upcoming
 {% end %}
 
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/
