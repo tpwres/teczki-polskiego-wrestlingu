@@ -72,7 +72,7 @@ For this event, PTW invited several debuting wrestlers:
 - - '[Diana Strong](@/w/diana-strong.md)'
   - Session Moth Martina
   - s: Singles Match
-- - '"The Enigma" Serg Sullivan'
+- - '["The Enigma" Serg Sullivan](@/w/serg-sullivan.md)'
   - '[El Homo (PTW)](@/w/lukasz-okonski.md)'
   - s: Singles Match
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'

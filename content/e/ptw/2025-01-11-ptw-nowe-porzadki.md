@@ -42,7 +42,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 - - 'Flamingo'
   - 'R1'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - 'Serg Sullivan'
+  - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - 'Falco'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: Four-way Match

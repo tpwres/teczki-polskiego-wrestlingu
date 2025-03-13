@@ -45,7 +45,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
   - 'Sigma Boy xD'
   - nc : upcoming
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - 'Serg Sullivan'
+  - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - nc : upcoming
 {% end %}
 
