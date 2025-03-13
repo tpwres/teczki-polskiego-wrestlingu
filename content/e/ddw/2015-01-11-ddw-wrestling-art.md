@@ -23,6 +23,6 @@ It was held in a gymnastics hall in Przywidz, a Kashubian village about 30&nbsp;
 
 ### References
 
-* [DDW's recap video](https://www.youtube.com/watch?v=MXT32x52Wdw)
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=123193)
+* [DDW's recap video](https://www.youtube.com/watch?v=MXT32x52Wdw)
 * [Vttitude's video](https://www.youtube.com/watch?v=SHVqgJsIROk)
