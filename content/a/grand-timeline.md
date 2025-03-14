@@ -166,3 +166,4 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * PTW drops the "Underground" name from their shows starting with [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) in January. Two new titles are announced: [PTW Underground Championship](@/c/ptw-underground-championship.md), commemorating the Underground series, and [PTW Women's Championship](@/c/ptw-womens-championship.md).
 {% end %}
+* [PpW Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) sells out all 800 tickets (and likely a little more than that), making it the biggest PpW show to date, and one of the biggest shows in the history of the Polish scene.
