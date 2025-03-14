@@ -56,7 +56,7 @@ source = "Ville Paananen"
 [12]
 path = "2024-10-19-ptw-underground-23-11_serg_sullivan.jpg"
 caption = """\
-    Serg Sullivan."""
+    [Serg Sullivan](@/w/serg-sullivan.md)."""
 source = "Ville Paananen"
 [13]
 path = "2024-10-19-ptw-underground-23-12_mikk_vainula.jpg"

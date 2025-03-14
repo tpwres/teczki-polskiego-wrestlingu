@@ -14,13 +14,13 @@ city = "Kozłów"
 "Bania U Prezesa" (_Party at the Chairman's_) was a show by [Prime Time Wrestling](@/o/ptw.md) that took place in the usual venue in [Kozłów](@/v/dworek-kozlow.md). The name of the show is likely a reference to the 1998 song [Bania u Cygana](https://www.youtube.com/watch?v=xLj5xaahdF8) (_Party at Cygan's_), by the Polish band Zero.
 
 For this event, PTW advertised the involvement of "The Veteran" Jack Vaugh, American wrestler primarly known from Ohio Valley Wrestling, but recently famous for his TikTok videos. Alongside Jack, two more American wrestlers were invited: Jake Omen and Aaron Williams.
-Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md), Spanish wrestler Newt Nova, and the Russian Serg Sullivan.
+Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md), Spanish wrestler Newt Nova, and the Russian [Serg Sullivan](@/w/serg-sullivan.md).
 
 {% card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Jake Omen'
 - - '[Luca Bjorn](@/w/luca-bjorn.md)'
-  - 'Serg Sullivan'
+  - '[Serg Sullivan](@/w/serg-sullivan.md)'
 - - '[Spartan](@/w/spartan.md)'
   - 'Aaron Williams'
   - s: '[PTW Championship](@/c/ptw-championship.md) #1 Contendership Match'

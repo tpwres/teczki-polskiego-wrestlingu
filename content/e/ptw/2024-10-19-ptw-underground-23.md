@@ -17,7 +17,7 @@ This Underground's name - "Halloweenowy Łomot", which can be loosely translated
 According to Istota Wrestlingu, who attended the event in person, the overall attendance at the show was approximately 50 people - including friends and families of the performers, which was visible and audible due to fact that the venue at Kozłów can hold at least 150-200 people in the audience.
 
 Debuting for PTW at this show were:
- * Russian wrestler Serg Sullivan, former champion of Moscow-based НРФ (NRF), currently living in Poland
+ * Russian wrestler [Serg Sullivan](@/w/serg-sullivan.md), former champion of Moscow-based НРФ (NRF), currently living in Poland
  * Estonian Mikk Vainula, with several appearances in Finland for FCF and SLAM!
  * Hungarian wrestler Reyca, who already faced Diana in a four-way at WXW
  * Northern Irish veteran Tucker, with several matches in NXT UK under his belt
@@ -35,7 +35,7 @@ Debuting for PTW at this show were:
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Reyca'
 - - '[Rust](@/w/rust.md)'
-  - 'Serg Sullivan'
+  - '(Serg Sullivan](@/w/serg-sullivan.md)'
   - 'Mikk Vainula'
   - s: International Showcase Triple Threat Match
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
