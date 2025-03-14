@@ -123,7 +123,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 - - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
   - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Tag-Team Match
-  - en: '[Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)'
+    en: '[Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)'
     ed: 2025-04-06
     nc: upcoming
 {% end %}
