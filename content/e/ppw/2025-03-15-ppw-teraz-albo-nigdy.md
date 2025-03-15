@@ -34,6 +34,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * On 1.03.2025 PpW released a [Facebook reel][gg-wybral], in which Gustav Gryffin chose his stipulation for the fight with Gabriel Queen - a 2 out of 3 falls match.
 * At [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) [Biesiad's](@/w/biesiad.md) team defeated [Mister Z's](@/w/mister-z.md) and his men, including [Marco Hammers](@/w/marco-hammers.md). Now Marco wants wants a rematch against "The Strongest Carpenter".
 * On 4.03.2025 PpW released an [Instagram reel][johnny-zwis] featuring [Johnny Blade](@/w/johnny-blade.md) working at [2Koła](@/v/2kola.md). A mysterious assailant approaches him from behind and chokes Johnny out, revealing himself to be [Mister Z](@/w/mister-z.md). He then cuts a promo insulting [Biesiad](@/w/biesiad.md) and urges him to come save his friend; then he decides to "go shooting", leaving Johnny tied up and hanging from the ceiling. Biesiad arrives and unties Johnny who relays Z's plans. Biesiad quickly realizes that Z went to _PM Shooter_ shooting range (currently PpW's sponsor) and gives chase.
+* On 14.03.2025 PpW [announced][soldaut] on their Facebook that the event was sold out. A little later [Mister Z](@/w/mister-z.md) reposted this on his Instagram, adding the number of tickets sold: 800, making this the biggest PpW show to date and one of the biggest shows in the history of the Polish wresling. (The only bigger show was [PTW#3](@/e/ptw/2022-11-26-ptw-3-legends.md), however a lot of tickets for that event were given out for free, unofficially making Teraz Albo Nigdy the show with the most tickets actually paid for.)
 
 #### Announced entrants for Battle Royal
 
@@ -77,3 +78,4 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 [johnny-zwis]: https://www.instagram.com/p/DGyOF3MKKBT/
 [axel-potwierdzony]: https://www.facebook.com/photo/?fbid=1184379093692481&set=a.499910772139320
 [axel-numero-uno]: https://www.instagram.com/p/DHB5vy8K49D/
+[soldaut]: https://www.facebook.com/photo/?fbid=1189751546488569&set=a.499910772139320
