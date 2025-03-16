@@ -1,5 +1,5 @@
 +++
-title = "Steven \"Biesiad\" Strong"
+title = "\"Biesiad\" Strong"
 template = "talent_page.html"
 [extra]
 toclevel = 2

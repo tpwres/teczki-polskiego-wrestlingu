@@ -7,12 +7,11 @@ chronology = ["ppw"]
 venue=["minska-65"]
 [extra]
 city = "Warszawa"
-hide_results = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
 +++
 
-Teraz Albo Nigdy (_Now Or Never_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska&nbsp;65](@/v/minska-65.md). This time, the show is set in a different part of the venue complex, _Hala Labo_.
+Teraz Albo Nigdy (_Now Or Never_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska&nbsp;65](@/v/minska-65.md). This time, the show took place in a different part of the venue complex, _Hala Labo_.
 
 PpW launched the ticket sales exactly two months before the event date. It is the first PpW event to introduce three tiers of tickets, with varying pricing:
 
@@ -41,28 +40,44 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview (timestamp in the offical video: 1:42:35). He was later [confirmed][axel-potwierdzony] in a Facebook post published on 8.03.2025. On 10.03 he [declared][axel-numero-uno] his wish to enter at number 1, to prove to himself and his detractors he belongs at the top.
 * Stanisław van Dobroniak - announced on PpW's social media.
 
-{% card(predicted=true) %}
-- - '[Goblin](@/w/goblin.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - s: Dog Collar Match
-    nc: upcoming
+{% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: '2 Out Of 3 Falls Match'
     n: "Gryffin's choice of stipulation"
-    nc: upcoming
-- - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Marco Hammers](@/w/marco-hammers.md)'
-  - nc: upcoming  
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - nc: upcoming  
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - s: Dog Collar Match
+- - '[Goblin](@/w/goblin.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '???'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Bill Feager](@/w/feager.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ Agent Agata'
+  - '[Robert Star](@/w/robert-star.md)'
+  - '[Isnorr](@/w/isnorr.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - '[Michael HT](@/w/michael-ht.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Osamu](@/w/osamu.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+  - '_rookie_ Bartosz'
+  - '[Sędzia Kornel](@/w/sedzia-kornel.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
   - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 5'
-    nc: upcoming
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Commentary: '[Joker](@/w/joker.md), Antek Istociarz'
 {% end %}
 
 ### References
