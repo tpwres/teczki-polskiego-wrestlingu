@@ -76,7 +76,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 5'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
     Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), Antek Istociarz'
 {% end %}
 
