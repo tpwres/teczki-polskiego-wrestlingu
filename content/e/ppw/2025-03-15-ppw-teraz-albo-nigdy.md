@@ -29,7 +29,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   * the match starts with two wrestlers in the ring; entrants come in every 90 seconds
   * wrestlers are eliminated by being thrown over the top rope; both feet must touch the ground
   * each wrestler is allowed to bring in a single foreign object
-  * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of Ledwo Legalne 5
+  * the winner gets a match for the [PpW Championship](@/c/ppw-championship.md) in the main event of [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
 * On 1.03.2025 PpW released a [Facebook reel][gg-wybral], in which Gustav Gryffin chose his stipulation for the fight with Gabriel Queen - a 2 out of 3 falls match.
 * At [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) [Biesiad's](@/w/biesiad.md) team defeated [Mister Z's](@/w/mister-z.md) and his men, including [Marco Hammers](@/w/marco-hammers.md). Now Marco wants wants a rematch against "The Strongest Carpenter".
 * On 4.03.2025 PpW released an [Instagram reel][johnny-zwis] featuring [Johnny Blade](@/w/johnny-blade.md) working at [2Koła](@/v/2kola.md). A mysterious assailant approaches him from behind and chokes Johnny out, revealing himself to be [Mister Z](@/w/mister-z.md). He then cuts a promo insulting [Biesiad](@/w/biesiad.md) and urges him to come save his friend; then he decides to "go shooting", leaving Johnny tied up and hanging from the ceiling. Biesiad arrives and unties Johnny who relays Z's plans. Biesiad quickly realizes that Z went to _PM Shooter_ shooting range (currently PpW's sponsor) and gives chase.
