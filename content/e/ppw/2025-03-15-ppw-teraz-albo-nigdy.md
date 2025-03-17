@@ -77,7 +77,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
-    Commentary: '[Joker](@/w/joker.md), Antek Istociarz'
+    Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), Antek Istociarz'
 {% end %}
 
 ### References
