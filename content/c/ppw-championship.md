@@ -223,6 +223,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles match
     en: '[Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)'
     ed: 2025-03-15
+- - 'Gustav Gryffin (c)'
+  - '[Goblin](@/w/goblin.md)'
+    en: '[Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
+    ed: 2025-06-07
+    nc: upcoming
 {% end %}
 
 ## References
