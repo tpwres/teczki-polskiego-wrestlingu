@@ -35,7 +35,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 - - '???'
   - '[Sambor](@/w/sambor.md)'
   - nc: upcoming
-- - '[Syriusz Dziedzic](@/w.dziedzic.md)'
+- - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - '???'
   - nc: upcoming  
 - - '[Marcelito](@/w/marcelito.md)'
