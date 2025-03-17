@@ -12,7 +12,7 @@ hide_results = true
 manifest = "@/e/ppw/2025-06-07-ppw-ledwo-legalne-5-gallery.toml"
 +++
 
-Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw.md), set to take place on 7th of June 2025, at [Mińska 65](@/w/minska-65.md).
+Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw.md), set to take place on 7th of June 2025, at [Mińska 65](@/v/minska-65.md).
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
