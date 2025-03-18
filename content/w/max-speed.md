@@ -59,6 +59,7 @@ Later on, Max Speed earned his opportunity to face Puncher for the PTW Champions
   - [PTW Awards 2024](@/a/ptw-awards-2024.md) (2 times):
     * Hero of the Year
     * Progress of the Year
+  - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time, current):
 
 ## Internet presence
 
