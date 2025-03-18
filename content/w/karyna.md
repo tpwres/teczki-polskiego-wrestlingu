@@ -14,7 +14,7 @@ Karyna is a Polish wrestling manager best known for her time in [Prime Time Wres
 
 * Years active: 2023-2024
 * Gimmicks/nicknames:
-  - Karyna {{ org_badge(orgs=['dfw']) }}
+  - Karyna {{ org_badge(orgs=['ptw']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
  
@@ -34,7 +34,7 @@ Karyna made her debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 14](
  
 * Entrance music:
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-2024, as part of Legia Łysych) <br>
+ {{ org_badge(orgs=['ptw']) }} (2023-2024, as part of Legia Łysych) <br>
  {{ music(yt='jt_2gXNBlqU')}}
  {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
  {{ music(apple='1509575453?i=1509575457')}}
