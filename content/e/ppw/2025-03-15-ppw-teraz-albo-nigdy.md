@@ -42,7 +42,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
-  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md) w/ [Vic Golden](@/w/vic-golden.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: '2 Out Of 3 Falls Match'
     n: "Gryffin's choice of stipulation"
