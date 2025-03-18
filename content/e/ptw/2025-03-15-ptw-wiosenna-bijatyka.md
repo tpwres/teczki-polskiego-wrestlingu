@@ -6,7 +6,6 @@ authors = ["M3n747"]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
@@ -26,15 +25,17 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
   - 'Sigma Boy xD'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
-  - r: "DQ"
-    n: "Sullivan hit Shida with a metal case for disqualification"
+  - r: DQ
+    n: Sullivan hit Shida with a metal case for disqualification
 - - '[Spartan](@/w/spartan.md)'
   - 'Martyrium'
   - 'Mikk Vainula'
   - s: Triple Threat Match
     n: Spartan Challenge
-- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)', '[Sędzia Herno](@/w/sedzia-herno.md)', [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)
-  - g: charity auction, Okoński gifts referees with a new set of T-shirts
+- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+  - '[Sędzia Herno](@/w/sedzia-herno.md)'
+  - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+  - g: Charity auction; Okoński gifts referees with a new set of T-shirts
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Polski Niedźwiedź'
   - n: Puncher Challenge
