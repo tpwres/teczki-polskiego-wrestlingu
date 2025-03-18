@@ -12,14 +12,14 @@ city = "Kozłów"
 manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 +++
 
-"Wiosenna Bijatyka" (_Spring Brawl_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). As announced at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), final match of [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament is going to take place. The winner of ladder match will be crowned inaugural PTW Underground Champion.
+"Wiosenna Bijatyka" (_Spring Brawl_) was a show by [Prime Time Wrestling](@/o/ptw.md). As announced at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), the final match of [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament took place at this event. The winner of the ladder match was crowned the inaugural PTW Underground Champion.
 
 ## Build-up
 
 * In their [Facebook event][fb-event] PTW announced [Dawid "Puncher" Seńko](@/w/puncher.md) would see some action. The same statement was made [previously](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), but that time Puncher ended up not having any fights.
 * In the same post PTW also announced the continuation of the [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament, and a ladder match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
-{% card %}
+{% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)':
   - g: Pawłowski opens the show
 - - '[Alex Brave](@/w/alex-brave.md)'
@@ -27,13 +27,14 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - r: "DQ"
-    s: "Sullivan hit Shida with metal case for disqualification"
+    n: "Sullivan hit Shida with a metal case for disqualification"
 - - '[Spartan](@/w/spartan.md)'
   - 'Martyrium'
   - 'Mikk Vainula'
-  - n: Spartan Challenge - Triple Threat Match
+  - s: Triple Threat Match
+    n: Spartan Challenge
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)', '[Sędzia Herno](@/w/sedzia-herno.md)', [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)
-  - g: charity auction, Okoński gifts referees with new set of t-shirts
+  - g: charity auction, Okoński gifts referees with a new set of T-shirts
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Polski Niedźwiedź'
   - n: Puncher Challenge
@@ -48,7 +49,6 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - s: Ladder match
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
 - credits:
     Host, ring announcer: 'Krzysztof Skwarczyński'
     Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
