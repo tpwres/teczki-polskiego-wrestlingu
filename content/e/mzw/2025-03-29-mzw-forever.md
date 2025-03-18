@@ -28,7 +28,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 10.03.2025 Legia Łysych [issued an open challenge][łysy-challenge] to "anyone who's got the balls".
 * On 12.03.2025 [Mister Z](@/w/mister-z.md) was confirmed via a [promo video][zet-promo] hosted on MZW's social media. He predicted that he would face another foreign opponent and questioned MZW's apparent need to involve international talent, when great wrestlers as himself are available. He promised to "kick their asses" just like he did with Marcus Monere - to whom he actually lost at [Żadnych granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) in 2023. Two days later, Mr Z vs Kubes was officially announced.
 * On 15.03, Marcus Monere revealed via Insta-stories that he's going to miss the show due to being hospitalized. This left Sambor without an opponent, effectively cancelling their previously announced match.
-* On 16.03 MZW announced [resuming the cooperation with MyWrestling][https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02zNcbKv6PPL4rkQL5hD7XrGoCLooY39YgecT2irqxe7JUDrdn3vmC2zGcNrrJpBzhl] portal - adding their logo to ring turnbuckles
+* On 16.03 MZW announced [resuming their cooperation with MyWrestling][https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02zNcbKv6PPL4rkQL5hD7XrGoCLooY39YgecT2irqxe7JUDrdn3vmC2zGcNrrJpBzhl] portal - adding their logo to ring turnbuckles
 * On 17.03, [Syriusz Dziedzic](@/w/dziedzic.md) was [announced][dziedzic] for the show. In the promo, he emphasized that he wants to become a legend.
 
 {% card(predicted=true) %}
