@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Kaszub is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Kaszub is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) before it.
 
 ## Basic info
 

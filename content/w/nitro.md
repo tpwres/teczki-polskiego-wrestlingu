@@ -8,7 +8,7 @@ toclevel = 2
 country = ["HU"]
 +++
 
-Tamas "Nitro" Szabo is a Hungarian wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He also worked for [Kombat Pro Wrestling](@/o/kpw.md) and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Tamas "Nitro" Szabo is a Hungarian wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He had also previously worked for [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) before that.
 
 ## Basic info
 

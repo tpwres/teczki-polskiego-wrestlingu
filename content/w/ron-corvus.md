@@ -10,7 +10,7 @@ country = ["HU"]
 1 = { path = "ron-corvus-nwo.jpg", caption = "Ron Corvus pays tribute to Scot Hall, who passed away four days before [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).", source = "Official KPW Facebook" }
 +++
 
-Ron Corvus is a Hungarian wrestler best known for his appearances in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Ron Corvus is a Hungarian wrestler best known for his appearances in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) prior to it.
 
 ## Basic info
 

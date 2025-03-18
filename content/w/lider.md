@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Lider, also known as Black Joker, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also worked for the Głuchołazy-based backyard federation [Polish Xtreme Wrestling](@/o/pxw.md) beforehand.
+Lider, also known as Black Joker, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He had also previously worked for the Głuchołazy-based backyard federation [Polish Xtreme Wrestling](@/o/pxw.md).
 
 ## Basic info
 
