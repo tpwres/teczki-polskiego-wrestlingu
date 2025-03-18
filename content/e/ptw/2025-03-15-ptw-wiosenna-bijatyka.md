@@ -19,34 +19,42 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 * In their [Facebook event][fb-event] PTW announced [Dawid "Puncher" Seńko](@/w/puncher.md) would see some action. The same statement was made [previously](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), but that time Puncher ended up not having any fights.
 * In the same post PTW also announced the continuation of the [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament, and a ladder match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
-{% card(predicted=true) %}
+{% card %}
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)':
+  - g: Pawłowski opens the show
+- - '[Alex Brave](@/w/alex-brave.md)'
+  - 'Sigma Boy xD'
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '[Serg Sullivan](@/w/serg-sullivan.md)'
+  - r: "DQ"
+    s: "Sullivan hit Shida with metal case for disqualification"
+- - '[Spartan](@/w/spartan.md)'
+  - 'Martyrium'
+  - 'Mikk Vainula'
+  - n: Spartan Challenge - Triple Threat Match
+- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)', '[Sędzia Herno](@/w/sedzia-herno.md)', [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)
+  - g: charity auction, Okoński gifts referees with new set of t-shirts
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - 'Polski Niedźwiedź'
+  - n: Puncher Challenge
+- - 'Newt Nova'
+  - 'Alex Sixxx'
+  - 'Mike Solaris'
+  - s: International Showcase Match
+- - 'Heidi Katrina'
+  - 'Rhiannon Jade'
+  - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament match" 
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - s: Ladder match
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - 'Heidi Katrina'
-  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming
-- - 'Heidi Katrina'
-  - 'Rhiannon Jade'
-  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming
-- - '[Puncher](@/w/puncher.md)'
-  - '???'
-  - n: Puncher Challenge
-    nc: upcoming
-- - '[Spartan](@/w/spartan.md)'
-  - '???'
-  - n: Spartan Challenge
-    nc : upcoming
-- - '[Alex Brave](@/w/alex-brave.md)'
-  - 'Sigma Boy xD'
-  - nc : upcoming
-- - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - '[Serg Sullivan](@/w/serg-sullivan.md)'
-  - nc : upcoming
+- credits:
+    Host, ring announcer: 'Krzysztof Skwarczyński'
+    Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+    Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
 {% end %}
 
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/
+[fb-results]: https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410
+[show-paywalled]: https://www.youtube.com/watch?v=-2w0SyTzH8Y&t=10057s&ab_channel=PTW-PrimeTimeWrestling
