@@ -26,7 +26,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - r: DQ
-    n: Sullivan hit Shida with a metal case for disqualification
+    n: Sullivan hit Shida with a metal case
 - - '[Spartan](@/w/spartan.md)'
   - 'Martyrium'
   - 'Mikk Vainula'
@@ -35,7 +35,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-  - g: Charity auction; Okoński gifts referees with a new set of T-shirts
+  - g: Charity auction; Okoński gifts referees with a new set of T&#8209;shirts
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Polski Niedźwiedź'
   - n: Puncher Challenge
@@ -48,13 +48,16 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
   - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament match" 
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - s: Ladder match
+  - s: Ladder Match
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - credits:
     Host, ring announcer: 'Krzysztof Skwarczyński'
     Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
     Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
 {% end %}
+
+### Recap
+* Despite being featured on the poster, [Diana Strong](@/w/diana-strong.md) did not appear at the show.
 
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/
 [fb-results]: https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410
