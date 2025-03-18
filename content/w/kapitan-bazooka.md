@@ -16,8 +16,8 @@ Kapitan Bazooka is a retired wrestler, competing for [PpW](@/o/ppw.md) between 2
 
 * Years active: 2022-2024
 * Gimmicks/nicknames:
-  - Kapitan Bazooka
-  - Czesław Pierdolec (non-canon shows)
+  - Kapitan Bazooka {{ org_badge(orgs=['ppw']) }}
+  - Czesław Pierdolec {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
   - PpW Dojo (2022-2024)
 
