@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Kamil Aleksander is a retired Polish wrestler best known for his time in [Do Or Die Wrestling](@/o/ddw.md), [Kombat Pro Wrestling](@/o/kpw.md) and [Pomerania Indy Wrestling Group](@/o/piwg.md) beforehand.
+Kamil Aleksander is a retired Polish wrestler best known for his time in [Do Or Die Wrestling](@/o/ddw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## Basic info
 
@@ -24,19 +24,19 @@ Kamil Aleksander is a retired Polish wrestler best known for his time in [Do Or 
 
 ### Pomerania Indy Wrestling Group (2005-2009)
 
-Kamil Aleksander started his career in a backyard group called [Pomerania Indy Wrestling Group](@/o/piwg.md), which he started in around 2005, being the only one coach there. Not much is known from that days, but it is confirmed that during his time his ringname was "The Seraphim", and he won their PIWG Pomerania Championship. Besides coaching a group of backyard wrestlers he also made at least three recorded apperances in said federation. Kamil eventually left PIWG in 2009, after he started training in [Do Or Die Wrestling](@/o/ddw.md).
+Kamil Aleksander started his career in a backyard group called [Pomerania Indy Wrestling Group](@/o/piwg.md), which he started around 2005, being the only one coach there. Not much is known from those days, but it is confirmed that during his time his ringname was "The Seraphim", and he won their PIWG Pomerania Championship. Besides coaching a group of backyard wrestlers he also made at least three recorded apperances in said federation. Kamil eventually left PIWG in 2009, after he started training with [Do Or Die Wrestling](@/o/ddw.md).
 
 ### Do Or Die Wrestling (2009-2015)
 
-After Kamil made his transfer to DDW he quickly debuted in a federation at their [Student Show](@/e/ddw/2009-08-08-ddw-student-show.md) in August 2009 where he defeated [Klarys](@/w/klarys.md). Up until 2010 he wrestled under his real-life name Kamil Manuszewski, before switching to Kamil Aleksander from that point on. He quickly became one of the most prominent Polish members of the roster. He was portrayed as a babyface. At [DDW All Or Nothing](@/e/ddw/2010-05-08-ddw-all-or-nothing.md) he was competing for [DDW International Championship](@/c/ddw-international-championship.md) in a Ten Man Gauntlet Match which was won by [Joe Legend](@/w/joe-legend.md). After that he quickly gained an opportunity for a rematch after defeating Chris Botherway in a Lumberjack Match at [DDW #5 Dzień Sądu](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md). However, his match against Legend at [DDW #7](@/e/ddw/2012-03-10-ddw-7.md) ended via No Contest. 
+After Kamil made his transfer to DDW, he quickly debuted in the federation at their [Student Show](@/e/ddw/2009-08-08-ddw-student-show.md) in August 2009 where he defeated [Klarys](@/w/klarys.md). Up until 2010 he wrestled under his real-life name Kamil Manuszewski, before switching to Kamil Aleksander from that point on. He quickly became one of the most prominent Polish members of the roster. He was portrayed as a babyface. At [DDW All Or Nothing](@/e/ddw/2010-05-08-ddw-all-or-nothing.md) Kamil competed for [DDW International Championship](@/c/ddw-international-championship.md) in a Ten Man Gauntlet Match which was won by [Joe Legend](@/w/joe-legend.md). After that he quickly gained an opportunity for a rematch after defeating Chris Botherway in a Lumberjack Match at [DDW #5 Dzień Sądu](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md). However, his match against Legend at [DDW #7](@/e/ddw/2012-03-10-ddw-7.md) ended via No Contest. 
 
-After short series of defeats in 2013 Kamil got back on track during the tournament for vacated DDW International Championship at [All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md) in August 2014, where he defeated Klarys, [Ron Corvus](@/w/ron-corvus.md), and finally [Renegade](@/w/renegade.md) to become second DDW International Champion in history. Kamil Aleksander held the championship up until DDW's closure after [Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) in July 2015, which marks his reign as lasting about 341 days.
+After a short series of defeats in 2013 Kamil got back on track during the tournament for the vacated DDW International Championship at [All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md) in August 2014, where he defeated Klarys, [Ron Corvus](@/w/ron-corvus.md), and finally [Renegade](@/w/renegade.md) to become the second DDW International Champion in history. Kamil Aleksander held the title up until DDW's closure after [Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) in July 2015, which marks the end of his reign, which lasted about 341 days.
 
 ### Kombat Pro Wrestling (2015-2019)
 
-After DDW closure and rebranding into [Kombat Pro Wrestling](@/o/kpw.md) Kamil joined the federation as a worker and coach in their academy. He held up his high status in the card, being one of the main babyfaces in federation. He feuded with main heels such as [Piękny Kawaler](@/w/piekny-kawaler.md), but he was unable to defeat him for [KPW Championship](@/c/kpw-championship.md) at [KPW Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md). Later on he led "Team Aleksander" against members of Kawaler's faction - Kawaleria - in a Eight Man Elimination Match at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md). 
+After DDW's closure and rebranding into [Kombat Pro Wrestling](@/o/kpw.md), Kamil joined the federation as a worker and coach in their academy. He retained his high status in the card, being one of the main babyfaces in the federation. He feuded with the main heels such as [Piękny Kawaler](@/w/piekny-kawaler.md), but was unable to defeat him for the [KPW Championship](@/c/kpw-championship.md) at [KPW Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md). Later on he led "Team Aleksander" against members of Kawaler's faction - Kawaleria - in an Eight Man Elimination Match at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md). 
 
-After that victory Kamil spent most of 2018 and 2019 in a championship pursuits, trying to earn #1 Contender spot in multiple matches for KPW Championship, [KPW OldTown Championship](@/c/kpw-old-town-championship.md) and [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) but he was unsucessful in all of his ventures. 
+After that victory Kamil spent most of 2018 and 2019 in championship pursuits, trying to earn #1 Contender spot in multiple matches for the KPW Championship, [KPW OldTown Championship](@/c/kpw-old-town-championship.md) and [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), but was unsucessful in all of these ventures. 
 
 Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where he was defeated by Reinbakh. After that he seemingly retired from in-ring activites and focused solely on coaching.
 
@@ -51,10 +51,10 @@ Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw
  
 * Entrance music:
   "Hymn" by Luxtorpeda
-  {{ org_badge(orgs=['ddw', 'kpw']) }} (2014-2019) <br>
-  {{ music(yt='jbjbfUlX2Vc')}}
-  {{ music(spot='3lsX4zFUwBbTrGpzx8NhTp')}}
-  {{ music(apple='1782342054?i=1782342056')}}
+ {{ org_badge(orgs=['ddw', 'kpw']) }} (2014-2019) <br>
+ {{ music(yt='jbjbfUlX2Vc')}}
+ {{ music(spot='3lsX4zFUwBbTrGpzx8NhTp')}}
+ {{ music(apple='1782342054?i=1782342056')}}
  
 ## Championships and accomplishments
 * [Pomerania Indy Wrestling Group](@/o/piwg.md)
