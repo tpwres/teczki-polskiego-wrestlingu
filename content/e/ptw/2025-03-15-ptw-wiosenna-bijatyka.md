@@ -19,7 +19,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 * In the same post PTW also announced the continuation of the [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament, and a ladder match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
 {% card() %}
-- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)':
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Pawłowski opens the show
 - - '[Alex Brave](@/w/alex-brave.md)'
   - 'Sigma Boy xD'
