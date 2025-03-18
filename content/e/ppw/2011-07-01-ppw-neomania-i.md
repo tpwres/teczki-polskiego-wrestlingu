@@ -24,7 +24,7 @@ Neomania was the inaugural show in the Neomania series of [PpW's](@/o/ppw.md) ea
   - 'Red Dorada'
   - nc: '?'
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
-  - 'Mystic Tiger'
+  - '[Mystic Tiger](@/w/rob-scaffold.md)'
   - s: 'No DQ match'
     nc: '?'
 {% end %}

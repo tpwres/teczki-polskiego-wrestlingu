@@ -1,10 +1,10 @@
-01 = { path = "angel-gorylo.webp", caption = "Angel Guerrero in the Gorilla Position.", source = "Official PpW YouTube" }
-02 = { path = "jajczenie.webp", caption = "_Red Dorada makes fun of Angel Guerrero._", source = "Official PpW YouTube" }
+01 = { path = "angel-gorylo.webp", caption = "[Angel Guerrero](@/w/johnny-blade.md) in the Gorilla Position.", source = "Official PpW YouTube" }
+02 = { path = "jajczenie.webp", caption = "_Red Dorada makes fun of [Angel Guerrero](@/w/johnny-blade.md)._", source = "Official PpW YouTube" }
 03 = { path = "semdzia.webp", caption = "[Referee Miłosz](@/w/mister-z.md).", source = "Official PpW YouTube" }
 04 = { path = "red-dorada-closeup.webp", caption = "Close-up of Red Dorada.", source = "Official PpW YouTube" }
-05 = { path = "angel-guerero-closeup.webp", caption = "Close-up of Angel Guerrero.", source = "Official PpW YouTube" }
+05 = { path = "angel-guerero-closeup.webp", caption = "Close-up of [Angel Guerrero](@/w/johnny-blade.md).", source = "Official PpW YouTube" }
 06 = { path = "commentators-table.webp", caption = "Brawl near the commentator's table.", source = "Official PpW YouTube" }
-07 = { path = "sur-la-tabl.webp", caption = "Angel Guerrero thrown at the commentators table.", source = "Official PpW YouTube" }
+07 = { path = "sur-la-tabl.webp", caption = "[Angel Guerrero](@/w/johnny-blade.md) thrown at the commentators table.", source = "Official PpW YouTube" }
 08 = { path = "break.webp", caption = "A break in the main event.", source = "Official PpW YouTube" }
 09 = { path = "sans-mascara.webp", caption = "Red Power sans mask.", source = "Official PpW YouTube" }
 10 = { path = "glass.webp", caption = "Random glass of drinking.", source = "Official PpW YouTube" }

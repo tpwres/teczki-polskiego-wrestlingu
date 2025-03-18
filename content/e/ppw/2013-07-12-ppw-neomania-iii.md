@@ -17,7 +17,7 @@ The show was held outdoors at three different locations: a local playground, a "
 
 {% card() %}
 - - 'Sin Cara'
-  - 'Mystic Tiger(c)'
+  - '[Mystic Tiger](@/w/rob-scaffold.md)(c)'
   - n: The commentator incorrectly called Mystic Tiger the winner of the fight.
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Jeff](@/w/michael-ht.md)(c)'
@@ -28,7 +28,7 @@ The show was held outdoors at three different locations: a local playground, a "
   - nc: '?'
     n: Video cuts off during the match when, according to on-screen text, Vince's bodyguard bumped into the camera.
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
-  - 'Mystic Tiger'
+  - '[Mystic Tiger](@/w/rob-scaffold.md)'
   - s: Falls Count Anywhere No-DQ Match
 - credits:
     Referees: '???, [Mister Z](@/w/mister-z.md)'
@@ -39,7 +39,7 @@ The show was held outdoors at three different locations: a local playground, a "
 
 * The fights were commented live by the cameramen. Twice during the opening match the cameraman can be heard whispering to Sin Cara, telling him the next move.
 * The main event was the only match to have a referee. In the other fights the three-count was done either by the cameraman, or the wrestlers themselves.
-* The video captions Johnny Blade as "Vince Mikelshot", however the [PpW wikia][ppw-wikia-vince] spells the name "Vins Michael $hot".
+* The video captions Johnny Blade as "Vince Mikelshot", however the [PpW wikia][ppw-wikia-vince] spells the name "Vins Michael $hot". According to a private conversation with Johnny Blade, this was caused by his sub-par knowledge of the English language and spelling at the time.
 * Multiple times during the main event, the cameraman accidentally covered the camera's microphone, resulting in muffled audio.
 * Candidate for the weirdest weapon in Polish wrestling (backyard or otherwise): Ultimo Combo attacked Mystic Tiger with a cotton bud.
 * After the match ended, [the referee](@/w/mister-z.md) attacked Mystic Tiger, before being attacked by Ultimo Combo in return.
