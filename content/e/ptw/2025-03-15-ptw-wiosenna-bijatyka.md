@@ -6,47 +6,62 @@ authors = ["M3n747"]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 +++
 
-"Wiosenna Bijatyka" (_Spring Brawl_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). As announced at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), final match of [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament is going to take place. The winner of ladder match will be crowned inaugural PTW Underground Champion.
+"Wiosenna Bijatyka" (_Spring Brawl_) was a show by [Prime Time Wrestling](@/o/ptw.md). As announced at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), the final match of [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament took place at this event. The winner of the ladder match was crowned the inaugural PTW Underground Champion.
 
 ## Build-up
 
 * In their [Facebook event][fb-event] PTW announced [Dawid "Puncher" Seńko](@/w/puncher.md) would see some action. The same statement was made [previously](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), but that time Puncher ended up not having any fights.
 * In the same post PTW also announced the continuation of the [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament, and a ladder match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
-{% card(predicted=true) %}
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - s: Ladder match
-    c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - 'Heidi Katrina'
-  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming
-- - 'Heidi Katrina'
-  - 'Rhiannon Jade'
-  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming
-- - '[Puncher](@/w/puncher.md)'
-  - '???'
-  - n: Puncher Challenge
-    nc: upcoming
-- - '[Spartan](@/w/spartan.md)'
-  - '???'
-  - n: Spartan Challenge
-    nc : upcoming
+{% card() %}
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: Pawłowski opens the show
 - - '[Alex Brave](@/w/alex-brave.md)'
   - 'Sigma Boy xD'
-  - nc : upcoming
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
-  - nc : upcoming
+  - r: DQ
+    n: Sullivan hit Shida with a metal case
+- - '[Spartan](@/w/spartan.md)'
+  - 'Martyrium'
+  - 'Mikk Vainula'
+  - s: Triple Threat Match
+    n: Spartan Challenge
+- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+  - '[Sędzia Herno](@/w/sedzia-herno.md)'
+  - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+  - g: Charity auction; Okoński gifts referees with a new set of T&#8209;shirts
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - 'Polski Niedźwiedź'
+  - n: Puncher Challenge
+- - 'Newt Nova'
+  - 'Alex Sixxx'
+  - 'Mike Solaris'
+  - s: International Showcase Match
+- - 'Heidi Katrina'
+  - 'Rhiannon Jade'
+  - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament match" 
+- - 'Heidi Katrina'
+  - '[Diana Strong](@/w/diana-strong.md)'
+  - g: Diana congratulates Heidi
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - s: Ladder Match
+    c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+- credits:
+    Host, ring announcer: 'Krzysztof Skwarczyński'
+    Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+    Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
 {% end %}
 
+### Recap
+* [Diana Strong](@/w/diana-strong.md) made a short appearance to congratulate Heidi on her win. The bracket for the tournament is still unclear, but it seems they will face each other down the line.
+
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/
+[fb-results]: https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410
+[show-paywalled]: https://www.youtube.com/watch?v=-2w0SyTzH8Y&t=10057s&ab_channel=PTW-PrimeTimeWrestling
