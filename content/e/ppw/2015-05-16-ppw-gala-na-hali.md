@@ -18,7 +18,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 
 {% card() %}
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - 'Mystic Tiger'
+  - '[Mystic Tiger](@/w/rob-scaffold.md)'
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
   - 'The Hardyz: [Jim Hardy](@/w/mister-z.md), [Rob Hardy](@/w/rob-scaffold.md)'
   - s: 2 vs 1 Handicap Match

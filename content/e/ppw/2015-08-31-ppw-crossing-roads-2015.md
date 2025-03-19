@@ -28,7 +28,7 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
     Team Friday:
     [Feager](@/w/feager.md),
     [Biesiad Strong](@/w/biesiad.md)
-  - 'Team Lucha: [Superior](@/w/rob-scaffold.md), Epic Angel Guerrero'
+  - 'Team Lucha: [Superior](@/w/rob-scaffold.md), [Epic Angel Guerrero](@/w/johnny-blade.md)'
   - s: Tag Team Match
     r: Submission
 - credits:

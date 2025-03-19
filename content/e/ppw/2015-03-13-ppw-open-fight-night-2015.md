@@ -29,7 +29,7 @@ The exact date of the event isn't known. The videos were uploaded on 13.03 and 2
 - - '[Automatico](@/w/automatico.md)'
   - '[Jim Hardy](@/w/mister-z.md)'
 - - '[Mister Z](@/w/mister-z.md)'
-  - 'Epic Angel Guerrero'
+  - '[Epic Angel Guerrero](@/w/johnny-blade.md)'
 {% end %}
 
 #### Recap
