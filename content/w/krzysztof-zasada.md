@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Krzysztof Zasada, also known as Bogdan and Krzysztof Foryst, is a Polish pro wrestling manager and producer best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Krzysztof Zasada, also known as Bogdan and Krzysztof Foryst, is a Polish pro wrestling manager and producer best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) before it.
 
 ## Basic info
 

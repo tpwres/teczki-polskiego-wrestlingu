@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "krystian-czekaj-koszulka.jpg", caption = 'Krystian Czekaj in his T-shirt.', source = "mfotografika" }
 +++
 
-Krystian Czekaj is a Polish wrestling referee and commentator currently working for [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Krystian Czekaj is a Polish wrestling referee and commentator currently working for [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md) before it.
 
 ## Basic info
 

@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Boski Ostrowski (_Divine Ostrowski_), also known as Boski 2.0, is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also worked for [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Boski Ostrowski (_Divine Ostrowski_), also known as Boski 2.0, is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He had also worked for [Do Or Die Wrestling](@/o/ddw.md) before it.
 
 ## Basic info
 

@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "krystian-malinowski-teczka.jpg", caption = 'Krystian Malinowski with his briefcase at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).', source = "Migawki z Puszki" }
 +++
 
-Krystian Malinowski is a Polish on-screen personality, best known for his role of kayfabe chairman of [Kombat Pro Wrestling](@/o/kpw.md). He also worked in [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Krystian Malinowski is a Polish on-screen personality, best known for his role of kayfabe chairman of [Kombat Pro Wrestling](@/o/kpw.md). He had also previously worked in [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 

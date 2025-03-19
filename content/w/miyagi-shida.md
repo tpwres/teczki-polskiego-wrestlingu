@@ -12,7 +12,7 @@ caption = "Miyagi Shida at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki
 source = "Krzysztof Zych"
 +++
 
-Miyagi Shida is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He also briefly worked for [Mine City Wrestling](@/o/mcw.md) beforehand.
+Miyagi Shida is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He had also briefly worked for [Mine City Wrestling](@/o/mcw.md) before joining PTW.
 
 ## Basic info
 
