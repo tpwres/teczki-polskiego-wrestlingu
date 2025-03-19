@@ -46,6 +46,9 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - - 'Heidi Katrina'
   - 'Rhiannon Jade'
   - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament match" 
+- - 'Heidi Katrina'
+  - '[Diana Strong](@/w/diana-strong.md)'
+  - g: Diana congratulates Heidi
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - s: Ladder Match
@@ -57,7 +60,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 {% end %}
 
 ### Recap
-* Despite being featured on the poster, [Diana Strong](@/w/diana-strong.md) did not appear at the show.
+* [Diana Strong](@/w/diana-strong.md) made a short appearance to congratulate Heidi on her win. The bracket for the tournament is still unclear, but it seems they will face each other down the line.
 
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/
 [fb-results]: https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410
