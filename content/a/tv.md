@@ -65,7 +65,7 @@ The newly created [Prime Time Wrestling](@/o/ptw.md) streamed their first ever s
 
 ## 2022
 
-In March 2022, Warner TV (previously known in Poland as TNT) started airing AEW Dynamite and Rampage, marking the official Polish TV debut for the promotion. The shows featured commentary from [Arek Paterek](@/w/arek-paterek.md) and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md), a duo of commentators associated with [Prime Time Wrestling](@/o/ptw.md). The shows aired from March 2022 to August 2022.
+In March 2022, Warner TV (previously known in Poland as TNT) started airing AEW Dynamite and Rampage, marking the official Polish TV debut for the promotion. The shows featured commentary from [Arek Paterek](@/w/arek-paterek.md) and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md), a duo of commentators associated with [Prime Time Wrestling](@/o/ptw.md). The shows aired from March 2022 to August 2022, when the TV deal expired and was not renewed.
 
 ## 2023
 
