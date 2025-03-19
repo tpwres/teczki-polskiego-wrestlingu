@@ -63,6 +63,10 @@ In 2020, local branch of the national broadcaster TVP3 Wrocław published a [sho
 
 The newly created [Prime Time Wrestling](@/o/ptw.md) streamed their first ever show, [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) on both YouTube and TVP Sport. While only streamed, not broadcast, it is notable because TVP Sport is the national broadcaster's sports channel.
 
+## 2022
+
+In March 2022, Warner TV (previously known in Poland as TNT) started airing AEW Dynamite and Rampage, marking an official Polish TV debut for the promotion. The shows featured commentary from [Arek Paterek](@/w/arek-paterek.md) and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md), a commentary duo associated with [Prime Time Wrestling](@/o/ptw.md). The shows aired from March 2022 to August 2022.
+
 ## 2023
 
 In September, PpW's social media announced that [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) would be available not only on their YouTube channel, but [also on TV][czysteintencje-fb].
@@ -114,3 +118,4 @@ In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadc
 [staratelewizja-2007]: https://staratelewizja.fandom.com/pl/wiki/06_Lipca_2007
 [atv-wikipedia]: https://pl.wikipedia.org/wiki/ATV_%E2%80%93_Krajowa_Telewizja_Kablowa
 [mzw-tvp3]: https://wroclaw.tvp.pl/48638715/wyrezyserowany-grozny-na-pozor-wrestling-nabiera-popularnosci-we-wroclawiu
+[aew-warner]: https://www.polsatmedia.pl/Aktualnosc_6786/All-Elite-Wrestling-Emitowany-W-Polsce-Wylacznie-W-Warner-TV_1825161/index.html
