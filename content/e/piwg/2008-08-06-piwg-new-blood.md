@@ -9,7 +9,7 @@ hide_results = true
 city = "Skórcz"
 +++
 
-This was an early backyard show by [Pomerania Indy Wrestling Group](@/o/piwg.md), held in Skórcz. Nothing is known about it.
+This was an early backyard event by [Pomerania Indy Wrestling Group](@/o/piwg.md), held in Skórcz. Other than the date and place, no other info is available.
 
 {{ skip_card() }}
 
