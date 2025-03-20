@@ -13,7 +13,7 @@ toclevel = 3
 2 = { path = "biesiad_dive.jpg", caption = '[Biesiad](@/w/biesiad.md) testing the new ring by diving into some foam padding. Text: What a backyard, oh fuuuck.' }
 3 = { path = "zet_supron.jpg", caption = 'Andrzej Supron and Mister Zet shaking hands.' }
 4 = { path = "pas-ppw-2012.jpg", caption = "PpW's [main title belt](https://ppw-fandom.tpwres.pl/pas-ppw) from the backyard era (2012 design pictured)", source = "Official PpW Wikia, via Ville Paananen" }
-5 = { path = "dark-black-skull-z-pasem-skulla.jpg", caption = "Backyard-era wrestler Dark Black Skull with his hand-made [Skull's Belt](https://ppw-fandom.tpwres.pl/pas-skulla) (_Pas Skulla_) .", source = "Official PpW Wikia, via Ville Paananen" }
+5 = { path = "dark-black-skull-z-pasem-skulla.jpg", caption = "Backyard-era wrestler [Dark Black Skull](@/w/mister-z.md) with his hand-made [Skull's Belt](https://ppw-fandom.tpwres.pl/pas-skulla) (_Pas Skulla_) .", source = "Official PpW Wikia, via Ville Paananen" }
 
 +++
 

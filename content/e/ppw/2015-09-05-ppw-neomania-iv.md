@@ -26,12 +26,12 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
 - - '[Rob Hardy](@/w/rob-scaffold.md)'
   - '[Jim Enerico](@/w/mister-z.md)'
   - s: 'Hardcore Match'
-- - '[Extreme Floorfiller](@/w/extreme-floorfiller.md)(c)'
+- - '[Extreme Floorfiller](@/w/mister-z.md)(c)'
   - '[KAT](@/w/biesiad.md)'
   - s: 'Hardcore Match'
     c: 'PpW Hardcore Championship'
 - - '[Mister Z](@/w/mister-z.md)(c)'
-  - '[Automatico](@/w/automatico.md)'
+  - '[Automatico](@/w/rob-scaffold.md)'
   - s: '2 Out Of 3 Falls Match'
     c: 'PpW Light Heavyweight Championship'
     n: 'Mister Z won the match 2:1'
@@ -46,7 +46,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
 * According to the entry on [PpW wikia][neo-4-wikia], the show took place on 5.09.2015, which was a Friday. However, during Extreme Floorfiller vs KAT, a commentator stated "today is Thursday".
 * The white balance for most of the video was set incorrectly, resulting in a blown out image.
 * [Sun Ju's](@/w/rob-scaffold.md) name is misspelled in the captions as "Sun Yu". Likewise, Extreme Floorfiller is captioned as "Exstreme Floorfiller".
-* Sun Ju, Superior and Rob Scaffold have the same shoes and shorts, indicating the same person under the masks.
+* Sun Ju, Superior and Rob Scaffold have the same shoes and shorts, indicating the same person under the masks. This was later confirmed by [Michael HT](@/w/michael-ht.md).
 * [Steven Strong](@/w/biesiad.md) was portrayed as an Olympic athlete, complete with the flag of Poland and an Olympic entrance theme.
 * According to one of the commentators: "There used to be a tradition at Neomania, that it always opened with a pro vs backyard fight".
 * The commentary seems to be about two seconds behind the events on screen.
