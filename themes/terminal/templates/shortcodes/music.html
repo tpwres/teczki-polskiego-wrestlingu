@@ -1,0 +1,29 @@
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
+{% set icon = "music" %}
+{% if link %}
+  {% set url = link %}
+  {% set text = body %}
+{% elif yt %}
+  {# music(yt='?v=abcdef') #}
+  {% set url = "//youtube.com/watch/" ~ yt %}
+  {% set icon = "youtube" %}
+  {% set text = "YouTube" %}
+{% elif apple %}
+  {% set country = cc | default(value='us') %}
+  {% set url = "//music.apple.com/" ~ country ~ "/album/" ~ apple %}
+  {% set icon = "apple" %}
+  {% set text = "Apple&nbsp;Music" %}
+{% elif spot %}
+  {% set url = "//open.spotify.com/track/" ~ spot %}
+  {% set text = "Spotify" %}
+{% else %}
+  {% set url = "#" %}
+  {% set bad = true %}
+  {% set text = "???" %}
+{% endif %}
+<span class="music-link">
+  <a href="{{ url }}">
+    <svg class="feather-inline" title="{{ text }}"><use href="{{ sprite }}#{{ icon }}"/></svg>
+    {{ text | safe }}
+  </a>
+</span>

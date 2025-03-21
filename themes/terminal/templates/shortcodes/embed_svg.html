@@ -1,0 +1,7 @@
+{% set content=load_data(path=path) %}
+<figure>
+  <div class="{{ class|default(value='svg-embed') }}">
+    {{ content | safe }}
+  </div>
+  <figcaption>{{ body | markdown | safe }}</figcaption>
+</figure>

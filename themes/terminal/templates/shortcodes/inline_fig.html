@@ -1,0 +1,5 @@
+{% set root = config.extra.gallery_root ~ page.path %}
+<figure>
+  <img alt="{{ alt | default(value='') }}" src="{{ root ~ path }}"/>
+  <figcaption>{{ body | markdown | safe }}</figcaption>
+</figure>
