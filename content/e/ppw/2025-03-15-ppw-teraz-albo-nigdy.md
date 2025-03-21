@@ -69,7 +69,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Osamu](@/w/osamu.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
-  - '_rookie_ Bartosz'
+  - '[_rookie_ Bartosz](@/w/plata.md)'
   - '[Sędzia Kornel](@/w/sedzia-kornel.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Vic Golden](@/w/vic-golden.md)'

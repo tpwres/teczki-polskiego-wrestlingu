@@ -44,7 +44,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 {% card() %}
 - - '[Sambor](@/w/sambor.md)'
   - 'Sentinel'
-  - '_rookie_ Bartosz'
+  - '[_rookie_ Bartosz](@/w/plata.md)'
   - 'Wonder Haze'
   - 'Atilla'
   - s: Fatal Five-Way Match
@@ -89,7 +89,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 * This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
 * The commentary was provided by Joker, joined by Antek from the [Istota Wrestlingu][istota] podcast, under the name _Istociarz_.
 * Joker opened the show, and announced the pre-show match, before handing the mic over to Michael HT.
-* At the pre-show, _rookie_ Bartosz made his full PpW debut. Previously he'd made a handful of appearances at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), but these were considered non-canon. He used a soundtrack piece from _Yakuza 0_ as his entrance theme.
+* At the pre-show, [_rookie_ Bartosz](@/w/plata.md) made his full PpW debut. Previously he'd made a handful of appearances at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), but these were considered non-canon. He used a soundtrack piece from the videogame _Yakuza 0_ as his entrance theme.
 * Goblin's gauntlet challenge saw two fairly competitive matches against Marcelito and Aron Wake. During Feager's entrance, unusally long even for his standards, Goblin took a seat in a fishing chair in the ring and started reading a fishing magazine, gradually ripping pages out and handing them off to the audience. The match itself lasted mere seconds, with Goblin spitting green mist in Feager's face and rolling him up for a three-count.
 * At one point in Oskar vs Vic, Oskar's valet Agentka Agata distracted Vic with a long kiss on the lips. The match saw many physcial interferences from her, a deviation from her usually standing on the entrance with a glass of unknown beverage (presumably alcoholic). Eventually, Vic got fed up with Agatka's antics, chased her around ringside into the ring and set her up for a _Killswitch_ finishing move - only to have the attempt thwarted by Oskar Alexander's big boot.
 * Before the break in the show, [Michael HT](@/w/michael-ht.md) auctioned off the old ropes from PpW's ring.

@@ -19,7 +19,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 {% card() %}
 - d: 'Friday, 17:00'
 - - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - _rookie_ Bartek
+  - '[_rookie_ Bartek](@/w/plata.md)'
   - s: Singles Match
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Sambor](@/w/sambor.md)'
@@ -47,7 +47,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - _rookie_ Andrzej
   - s: Singles Match
 - - '[Marcelito](@/w/marcelito.md)'
-  - _rookie_ Bartek
+  - '[_rookie_ Bartek](@/w/plata.md)'
   - s: Singles Match
 - - 'The Feagers: [Bill Feager](@/w/feager.md), Phil Feager'
   - '[Kapitan Kornel](@/w/sedzia-kornel.md), [Prince Striker](@/w/royal-striker.md)'
@@ -85,7 +85,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: Singles Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - _rookie_ Bartek
+  - '[_rookie_ Bartek](@/w/plata.md)'
   - s: Non-Title Match
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Scarecrow](@/w/mister-z.md)'
@@ -104,7 +104,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - _rookie_ Andrzej
   - '[El Ogre](@/w/olgierd.md)'
   - '[Kapitan Testosteron](@/w/marco-hammers.md)'
-  - _rookie_ Bartek
+  - '[_rookie_ Bartek](@/w/plata.md)'
   - '[Prince Striker](@/w/royal-striker.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'

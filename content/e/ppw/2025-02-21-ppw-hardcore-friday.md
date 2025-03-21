@@ -39,7 +39,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - s: 'Match 2 of Beat the Clock Challenge'
     n: "Mister Z's special challenge"
 - - '[Axel Fox](@/w/axel-fox.md)'
-  - '_rookie_ Bartosz'
+  - '[_rookie_ Bartosz](@/w/plata.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: 'Triple Threat Match'
     n: '[Michael HT](@/w/michael-ht.md) announced an open challenge on behalf of Axel Fox.'
