@@ -10,7 +10,7 @@ country = ["AT"]
 1 = { path = "michael-kovac.jpg", caption = "Michael Kovac on his way to the ring, [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md).", source = "M3n747" }
 +++
 
-Michael Kovac is an Austrian wrestler who made a few apperances on the Polish wrestling scene, most notably in [Do Or Die Wrestling](@/o/ddw.md), [Total Blast Wrestling](@/o/tbw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
+Michael Kovac is an Austrian wrestler who made a few appearances on the Polish wrestling scene, most notably in [Do Or Die Wrestling](@/o/ddw.md), [Total Blast Wrestling](@/o/tbw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## Basic info
 
@@ -22,7 +22,7 @@ Michael Kovac is an Austrian wrestler who made a few apperances on the Polish wr
 
 ### Do Or Die Wrestling (2009)
 
-Michael Kovac made his debut on Polish soil back in October 2009, when he made his apperance at [Do Or Die Wrestling's](@/o/ddw.md) [third event](@/e/ddw/2009-10-24-ddw-3.md). In the main event of said show he faced, and was defeated by, El Generico (later known as the WWE Superstar Sami Zayn).
+Michael Kovac debuted in Poland back in October 2009, when he made his appearance at [Do Or Die Wrestling's](@/o/ddw.md) [third event](@/e/ddw/2009-10-24-ddw-3.md). In the main event of said show he faced, and was defeated by, El Generico (later known as the WWE Superstar Sami Zayn).
 
 ### Total Blast Wrestling (2010)
 

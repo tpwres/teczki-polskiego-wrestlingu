@@ -20,7 +20,7 @@ Manny is a retired Polish backyard wrestler known for his time in [Polish Xtreme
 
 ### Polish Xtreme Wrestling (2011-2013)
 
-Manny made his debut in Głuchołazy-based backyard federation [Polish Xtreme Wrestling](@/o/pxw.md) in mid-2011. Not much information survives to this day, but it is known that during his time in PXW he made at least 13 apperances and won multiple championships. He held the PXW Championship, ECW Championship and PXW Hardcore Championship at least one time each. He most likely retired after PXW folded its operations in the second half of 2013.
+Manny made his debut in Głuchołazy-based backyard federation [Polish Xtreme Wrestling](@/o/pxw.md) in mid-2011. Not much information survives to this day, but it is known that during his time in PXW he made at least 13 appearances and won multiple championships. He held the PXW Championship, ECW Championship and PXW Hardcore Championship at least one time each. He most likely retired after PXW folded its operations in the second half of 2013.
 
 ## In wrestling
 

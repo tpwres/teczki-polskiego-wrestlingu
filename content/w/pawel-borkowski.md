@@ -46,7 +46,7 @@ Paweł Borkowski served as the commentator and organiser for both events produce
 
 ### Prime Time Wrestling (2022-2024)
 
-Borkowski made a few special guest apperances for [Prime Time Wrestling](@/o/ptw.md). He commentated the main event of [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) and provided commentary for other big shows such as [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). He even opened the latter show along with [Pan Pawłowski](@/w/pan-pawlowski.md), as the show's name was a tribute to the defunct federation, which "Boryss" used to run.
+Borkowski made a few special guest appearances for [Prime Time Wrestling](@/o/ptw.md). He commentated the main event of [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) and provided commentary for other big shows such as [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). He even opened the latter show along with [Pan Pawłowski](@/w/pan-pawlowski.md), as the show's name was a tribute to the defunct federation, which "Boryss" used to run.
 
 ### Professional wrestling commentator (2007-present)
 

@@ -26,7 +26,7 @@ Krystian Czekaj is a Polish wrestling referee and commentator currently working 
 
 ### Do Or Die Wrestling (2013-2015)
 
-Krystian Czekaj began his wrestling career in [Do Or Die Wrestling](@/o/ddw.md) in 2013, where he started making apperances as a referee and ring announcer.
+Krystian Czekaj began his wrestling career in [Do Or Die Wrestling](@/o/ddw.md) in 2013, where he took on the roles of a referee and ring announcer.
 
 ### Kombat Pro Wrestling (2021-present)
 

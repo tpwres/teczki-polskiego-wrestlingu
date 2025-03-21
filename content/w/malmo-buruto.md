@@ -22,7 +22,7 @@ Malmo Buruto is a retired Polish wrestler best known for his time in [Dream Fact
 
 Malmo Buruto was one of the founding members of Toruń area-based [Dream Factory Wrestling](@/o/dfw.md) federation. He made his debut in DFW at their very [first event](@/e/dfw/2015-06-20-dfw-showcase.md) which took place in June 2015, where he teamed up with [Corin Mear](@/w/corin-mear.md) against [Pain Killer](@/w/pain-killer.md) and [Charlie Grayson](@/w/madman-charlie.md). At first, he was able to secure a small winning streak while participating in Tag Team and Triple Threat matches, which lasted up until his defeat against Corin Mear in the first round of the [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) for the [DFW Championship](@/c/dfw-championship.md). After that he never managed to score a single official victory in the DFW ring again.
 
-Malmo Buruto made his last apperance for DFW in September 2017 at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), where he took part in a #1 Contender Battle Royal for the DFW Championship, but was unable to score a victory. After that show Malmo never made another apperance for DFW, subsequently retiring from wrestling.
+Malmo Buruto made his last appearance for DFW in September 2017 at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), where he took part in a #1 Contender Battle Royal for the DFW Championship, but was unable to score a victory. After that show Malmo never made another appearance for DFW, subsequently retiring from wrestling.
 
 ## In wrestling
 

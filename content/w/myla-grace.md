@@ -19,7 +19,7 @@ Myla Grace is a Northern Irish wrestler from Belfast, best known for her brief s
 
 ### Prime Time Wrestling (2022)
 
-Myla Grace made her first apperance in [Prime Time Wrestling](@/o/ptw.md) at [Underground 8](@/e/ptw/2022-09-25-ptw-underground-8.md) where she faced, and was defeated by, [Diana Strong](@/w/diana-strong.md). During her tenure in PTW she portrayed a stricly babyface character. She got a opportunity to perform in PTW again in November 2022 at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where she fought against Diana and Xia Brookside in a Triple Threat Match. She won that match after pinning the villainous Xia Brookside. This marked her final apperance in PTW's ring to date.
+Myla Grace made her debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 8](@/e/ptw/2022-09-25-ptw-underground-8.md) where she faced, and was defeated by, [Diana Strong](@/w/diana-strong.md). During her tenure in PTW she portrayed a strictly babyface character of a cheerful, positive girl. She got an opportunity to perform in PTW again in November 2022 at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where she fought against Diana and Xia Brookside in a Triple Threat Match. She won that match after pinning the villainous Xia Brookside. This marked her final appearance in PTW's ring to date.
 
 ## In wrestling
 

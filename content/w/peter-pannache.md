@@ -32,7 +32,7 @@ Peter's last appearance for KPW took place at [Arena 14](@/e/kpw/2019-06-15-kpw-
 
 ### Prime Time Wrestling (2021)
 
-In 2021 Peter made a return to wrestling when he joined [Prime Time Wrestling](@/o/ptw.md), a new federation founded by his old colleague from KPW, [Pan Pawłowski](@/w/pan-pawlowski.md). Pannache debuted in Prime Time Wrestling at their first show called [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in October 2021 in a match against [Joe E. Legend](@/w/joe-legend.md). He was defeated in that bout and he never made another apperance in PTW, subsequently retiring from in-ring competition.
+In 2021 Peter made a return to wrestling when he joined [Prime Time Wrestling](@/o/ptw.md), a new federation founded by his old colleague from KPW, [Pan Pawłowski](@/w/pan-pawlowski.md). Pannache debuted in Prime Time Wrestling at their first show called [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in October 2021 in a match against [Joe E. Legend](@/w/joe-legend.md). He was defeated in that bout and he never made another appearance in PTW, subsequently retiring from in-ring competition.
 
 ## In wrestling
 

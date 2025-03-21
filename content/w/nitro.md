@@ -28,7 +28,7 @@ After DDW rebranded into [Kombat Pro Wrestling](@/o/kpw.md), Nitro made a single
 
 ### Prime Time Wrestling (2021-2024)
 
-#### Debut and early apperances
+#### Debut and early appearances
 
 Thanks to his previous association with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Tamas Szabo returned to Poland after nearly six years, in December 2021 at [PTW Underground 1](@/e/ptw/2021-12-19-ptw-underground-1.md), where he faced and was defeated by babyface [Nano Lopez](@/w/nano-lopez.md). He returned at [Underground 3](@/e/ptw/2022-03-27-ptw-underground-3.md) to face - and lose to - [Justin Joy](@/w/justin-joy.md). During that time he worked as a tweener.
 

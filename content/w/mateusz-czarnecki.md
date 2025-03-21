@@ -17,7 +17,7 @@ Mateusz Czarnecki is a Polish ring announcer and interviewer best known for his 
   - Mateusz Czarnecki {{ org_badge(orgs=['mzw', 'ppw']) }}
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2019)
- 
+
 ## Professional wrestling career
 
 ### Maniac Zone Wrestling (2019-2021)
@@ -26,4 +26,4 @@ Mateusz started his pro-wrestling career in the [Maniac Zone Wrestling](@/o/mzw.
 
 ### PpW Ewenement (2024)
 
-In October 2024 Mateusz made a surprise apperance as an interviewer at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), temporary replacing [Konrad "Joker" Grzesikiewicz](@/w/joker.md) in the role.
+In October 2024 Mateusz made a surprise appearance as an interviewer at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), briefly replacing [Konrad "Joker" Grzesikiewicz](@/w/joker.md) in the role.
