@@ -1,0 +1,53 @@
+ul.talentlist-section
+  list-style-type: none
+  column-count: 2
+  gap: 1.5rem
+  @media only screen and (max-width: 720px)
+    column-count: 1
+    padding-left: 1rem
+
+  & > li:nth-child(even)
+    background: var(--accent-bg)
+
+  li.talent-with-count
+    display: flex
+    justify-content: space-between
+
+.pwa
+  break-inside: avoid-column
+
+  ul
+    list-style-type: none
+    padding-inline-start: 2.5rem
+
+    &.nf
+      padding-inline-start: 1.5rem
+
+.pwf
+  display: flex
+  flex-flow: row wrap
+  align-content: space-between
+  justify-content: space-between
+  gap: 0.2rem
+
+  .flag
+    min-width: 1.5rem
+
+  .name
+    flex: 1 0
+
+  .ot
+    margin-left: auto
+
+ul.column-rule
+  column-rule: solid 1px var(--dark-green)
+
+h1.title-with-flag
+  display: flex
+  justify-content: space-between
+  align-items: center
+
+.music-link
+  & + .music-link
+    &:before
+      content: " | "
