@@ -28,7 +28,7 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
     Team Friday:
     [Feager](@/w/feager.md),
     [Biesiad Strong](@/w/biesiad.md)
-  - 'Team Lucha: [Superior](@/w/rob-scaffold.md), Epic Angel Guerrero'
+  - 'Team Lucha: [Superior](@/w/rob-scaffold.md), Epic Angel Guerrero (Tymon)'
   - s: Tag Team Match
     r: Submission
 - credits:
@@ -44,7 +44,7 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 * According to an on-screen caption, the entrances of [Automatico](@/w/rob-scaffold.md) and Extreme Floorfiller were filmed on a different day than the fight itself, but no further details are given.
 * After the final fight there's a "candid camera" segment shot in [Sun Ju's](@/w/rob-scaffold.md) home, showing [Jim Enerico](@/w/mister-z.md) talking to PpW owner and General Manager Sun Ju about wanting to leave PpW, but being named the GM of Hardcore Friday instead.
 * The referee for [Automatico](@/w/rob-scaffold.md) vs [Extreme Floorfiller](@/w/mister-z.md) is [Biesiad](@/w/biesiad.md) dressed as Scaffold, as confirmed by [Michael HT](@/w/michael-ht.md).
-* Epic Angel Guerrero, typically portrayed by [Rob Scaffold](@/w/rob-scaffold.md), this time was played by Tymon, probably (as per Michael HT).
+* Epic Angel Guerrero, typically portrayed by [Johnny Blade](@/w/johnny-blade.md), this time was played by Tymon, probably (as per Michael HT).
 * The above is followed by Jim Enerico talking to [Rob Hardy](@/w/rob-scaffold.md), also in a faux-candid camera format. The video then cuts off mid-sentence.
 
 ### References
