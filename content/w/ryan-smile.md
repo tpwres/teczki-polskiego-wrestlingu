@@ -20,12 +20,12 @@ Ryan Smile was an English pro wrestler and promoter from Birmingham. In 2012, he
   - Keego Ward
   - Maddogg Max
   - PAC
- 
+
 ## Professional wrestling career
 
 ### Do Or Die Wrestling (2012)
 
-Ryan Smile made his debut on Polish soil back in 2012, where he made an apperance for [Do Or Die Wrestling](@/o/ddw.md) during their double header weekend. At the [first show](@/e/ddw/2012-03-09-ddw-6.md) he was defeated by fellow British wrestler [Mark Andrews](@/w/mark-andrews.md). At the [second show](@/e/ddw/2012-03-10-ddw-7.md) he teamed up with [Dover](@/w/dover.md) and [Pete Dunne](@/w/pete-dunne.md) to be defeated by Mark Andrews and Polish wrestlers [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Klarys](@/w/klarys.md).
+Ryan Smile's single stint in Poland happened in 2012, when he made an appearance for [Do Or Die Wrestling](@/o/ddw.md) during their double header weekend. At the [first show](@/e/ddw/2012-03-09-ddw-6.md) he lost to fellow British wrestler [Mark Andrews](@/w/mark-andrews.md). At the [second show](@/e/ddw/2012-03-10-ddw-7.md) he teamed up with [Dover](@/w/dover.md) and [Pete Dunne](@/w/pete-dunne.md) to be defeated by Mark Andrews and Polish wrestlers [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Klarys](@/w/klarys.md).
 
 ## References
 

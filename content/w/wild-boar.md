@@ -8,7 +8,7 @@ toclevel = 2
 country = ["ENGLAND"]
 +++
 
-Wild Boar is a Welsh pro wrestler, best known for his run in NXT UK with his tag team partner [Primate](@/w/primate.md), and a long career performing mostly in Wales and south-west England. In Poland, the two are known for their apperances in [Kombat Pro Wrestling](@/o/kpw.md). 
+Wild Boar is a Welsh pro wrestler, best known for his run in NXT UK with his tag team partner [Primate](@/w/primate.md), and a long career performing mostly in Wales and south-west England. In Poland, the two are known for their appearances in [Kombat Pro Wrestling](@/o/kpw.md). 
 
 ## Basic info
 

@@ -8,7 +8,7 @@ toclevel = 2
 country = ["SCOTLAND"]
 +++
 
-Kevin Williams is a Scottish wrestler known in Poland for his apperances in [Do Or Die Wrestling](@/o/ddw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Kevin Williams is a Scottish wrestler known in Poland for his appearances in [Do Or Die Wrestling](@/o/ddw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 

@@ -18,14 +18,14 @@ Sheamus is a Scottish professional wrestler, best known for his long tenure in [
 * Trained by:
   - Jim Molineaux
   - Larry Sharpe
- 
+
 ## Professional wrestling career
 
 ### World Wrestling Entertaiment (2011-2015)
 
 #### House shows in Poland
 
-Sheamus made his first apperance on Polish soil back in November 2011 during [WWE Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) which was held in ERGO Arena in Tricity area. At that show he defeated Wade Barrett. Seamus made his return to Poland four years later, when he faced and won against Dolph Ziggler during the [WWE Live](@/e/wwe/2015-04-15-wwe-live.md) show held in April 2015 in Warsaw.
+Sheamus made his Polish debut back in November 2011 during the [WWE Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md), which was held in ERGO Arena in Tricity area. At that show he defeated Wade Barrett. Seamus made his return to Poland four years later, when he faced and won against Dolph Ziggler during the [WWE Live](@/e/wwe/2015-04-15-wwe-live.md) show held in April 2015 in Warsaw.
 
 ## In wrestling
 

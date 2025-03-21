@@ -24,9 +24,9 @@ Matt Buckna is a German wrestler best known for his time in [Maniac Zone Wrestli
 
 ### Maniac Zone Wrestling (2016-present)
 
-#### Early apperances
+#### Early appearances
 
-Matt Buckna made his debut in [Maniac Zone Wrestling](@/o/mzw.md) back in November 2016 at [MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md). His apperances were possible due to good working relations between MZW and the Dresden-based wrestling scene, especially Next Step Wrestling. For most of his apperances he fought in Singles and Multi-Man matches as a special attraction, due to his Powerhouse style and rather big size. For the best part of this tenure he worked as tweener.
+Matt Buckna made his debut in [Maniac Zone Wrestling](@/o/mzw.md) back in November 2016 at [MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md). His appearances were possible due to good working relations between MZW and the Dresden-based wrestling scene, especially Next Step Wrestling. For most of his time in MZW, he fought in Singles and Multi-Man matches as a special attraction, due to his Powerhouse style and rather big size. For the best part of this tenure he worked as tweener.
 
 #### MZW Champion
 
