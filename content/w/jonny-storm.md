@@ -27,7 +27,7 @@ Jonny Storm made his first apperance in Poland working for newly created federat
 
 Jonny got involved in a short storyline with Axel Fox in July 2023, where he returned as his surprise Tag Team partner in a #1 Contender Match for [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). They were defeated by [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md), which led to their Singles Match at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) month later, where Englishman defeated Polish Fox. 
 
-Jonny Storm returned to Poland at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) in February 2024 where he was one of the contenders in a Gold Rush Rumble Match to determine inaugural [PTW Champion](@/w/ptw-championship.md). His last recorded match in Poland took part at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where he fought against Matt Sydal and Aigle Blanc in a Triple Threat Match.
+Jonny Storm returned to Poland at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) in February 2024 where he was one of the contenders in a Gold Rush Rumble Match to determine inaugural [PTW Champion](@/c/ptw-championship.md). His last recorded match in Poland took part at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where he fought against Matt Sydal and Aigle Blanc in a Triple Threat Match.
 
 ## In wrestling
 
