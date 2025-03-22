@@ -2,6 +2,7 @@
 title = "Rob Scaffold"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
+aliases = ["/w/automatico"]
 [extra]
 toclevel = 2
 [taxonomies]
