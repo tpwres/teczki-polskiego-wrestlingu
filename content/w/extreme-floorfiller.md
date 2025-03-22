@@ -1,10 +1,11 @@
 +++
-title = "Extreme Floorfiller"
+title = "Automatico"
 template = "talent_page.html"
+authors = ["M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
 
-Extreme Floorfiller was a masked luchador from [PpW](@/o/ppw.md). He was portrayed by [Rob Scaffold](@/w/rob-scaffold.md), or maybe [Mister Z](@/w/mister-z.md), but probably Scaffold. Unless it was [Biesiad](@/w/biesiad.md). Or [Johnny Blade](@/w/johnny-blade.md). 
+For debugging purposes, will delete later.

@@ -16,14 +16,14 @@ Neomania III was PpW's early backyard show that took place on multiple dates ove
 The show was held outdoors at three different locations: a local playground, a "steel cage" (actually a chain link fence) surrounding a basketball court outside of Mati's house, and [Helit's](@/w/johnny-blade.md) garden. The fights in the first two locations took place on the grass (and, in the case of the playground, utilised slides, jungle gyms and other available equipment), whereas the garden featured a small makeshift ring made out of cardboard and an ordinary jute fibre rope tied to a metal post, a wooden beam and two trees.
 
 {% card() %}
-- - 'Sin Cara'
+- - '[Sin Cara](@/w/sin-cara.md)'
   - '[Mystic Tiger](@/w/rob-scaffold.md)(c)'
   - n: The commentator incorrectly called Mystic Tiger the winner of the fight.
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Jeff](@/w/michael-ht.md)(c)'
   - c: PpW Championship # No link, because it's not the same PpW Championship as today - that one was introduced some four years later.
     s: Extreme Rules Match
-- - 'Dark Black Skull'
+- - '[Dark Black Skull](@/w/mister-z.md)'
   - '[Vins Michael $hot](@/w/johnny-blade.md)'
   - nc: '?'
     n: Video cuts off during the match when, according to on-screen text, Vince's bodyguard bumped into the camera.
@@ -37,7 +37,7 @@ The show was held outdoors at three different locations: a local playground, a "
 
 #### Recap
 
-* The fights were commented live by the cameramen. Twice during the opening match the cameraman can be heard whispering to Sin Cara, telling him the next move.
+* The fights were commented live by the cameramen. Twice during the opening match the cameraman can be heard whispering to [Sin Cara](@/w/sin-cara.md), telling him the next move.
 * The main event was the only match to have a referee. In the other fights the three-count was done either by the cameraman, or the wrestlers themselves.
 * The video captions Johnny Blade as "Vince Mikelshot", however the [PpW wikia][ppw-wikia-vince] spells the name "Vins Michael $hot". According to a private conversation with Johnny Blade, this was caused by his sub-par knowledge of the English language and spelling at the time.
 * Multiple times during the main event, the cameraman accidentally covered the camera's microphone, resulting in muffled audio.

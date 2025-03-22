@@ -15,14 +15,14 @@ Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an un
 
 {% card() %}
 - - '[Angel Guerrero](@/w/johnny-blade.md), RoodWood'
-  - 'Rey Mysterio (knock-off), Sin Cara'
+  - 'Rey Mysterio (knock-off), [Sin Cara](@/w/sin-cara.md)'
   - s: No-DQ Tag Team Match
     nc: '?'
 - - 'Red Dorada'
   - '[Angel Guerrero](@/w/johnny-blade.md)'
   - s: Last Man Standing Match
 - - '[Mister Z](@/w/mister-z.md)'
-  - 'Red Power'
+  - '[Red Power](@/w/rob-scaffold.md)'
   - s: Hardcore Match
 - credits:
     Referee: '[Sędzia Miłosz](@/w/mister-z.md), ???'
@@ -31,7 +31,7 @@ Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an un
 
 #### Recap
 
-* Red Dorada vs Angel Guerrero is presented in a 4:3 aspect ratio, whereas Red Power vs Mister Z is in 3:4. Judging by the cameraman's shadow, the main event was filmed with a phone held in portrait mode.
+* Red Dorada vs Angel Guerrero is presented in a 4:3 aspect ratio, whereas [Red Power](@/w/rob-scaffold.md) vs [Mister Z](@/w/mister-z.md) is in 3:4. Judging by the cameraman's shadow, the main event was filmed with a phone held in portrait mode.
 * According to the [PpW Wikia][ppw-wiki-neo-2], RoodWood and Red Dorada are the same person (also known as Mati), and his fight against Angel Guerrero was the first video uploaded to the PpW YouTube channel.
 * No video from the Tag Team match is available, and the results aren't known.
 * The [PpW Wikia][rej-mysterjo] describes their "Rey Mysterio" as a knock-off of the WWE contestant.
