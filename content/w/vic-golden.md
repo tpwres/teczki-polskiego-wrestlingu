@@ -6,6 +6,8 @@ authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "vic-golden.webp", caption = "Vic Golden at [PpW Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).", source = "Official PpW VOD" }
 +++
 
 Vic Golden is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md). He also made numerous appearances in [Prime Time Wrestling](@/o/ptw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and on the Polish backyard scene.
