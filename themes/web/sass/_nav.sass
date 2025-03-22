@@ -1,5 +1,30 @@
 nav
+  font-size: 1rem
+  padding: 1rem 0
   line-height: 1
+
+nav a,
+nav a:visited
+  margin: 0 1rem 0 0
+  border: 1px solid var(--border)
+  border-radius: 5px
+  color: var(--text)
+  display: inline-block
+  padding: 0.1rem 1rem
+  text-decoration: none
+
+// Reduce nav side on mobile
+@media only screen and (max-width: 750px)
+  nav a
+    border: none
+    padding: 0
+    color: var(--accent)
+    text-decoration: underline
+    line-height: 1
+
+nav a:hover
+  color: var(--accent)
+  border-color: var(--accent)
 
 nav.toplevel
   border-bottom: .2rem solid var(--dark-blue)
