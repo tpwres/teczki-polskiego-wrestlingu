@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Konrad "Joker" Grzesikiewicz is a Polish wrestling commenator, interviewer and backstage personality best known for his time in [PpW Ewenement](@/o/ppw.md).
+Konrad "Joker" Grzesikiewicz is a Polish wrestling commentator, interviewer and backstage personality best known for his time in [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
