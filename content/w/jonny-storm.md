@@ -8,7 +8,7 @@ toclevel = 2
 country = ["GB"]
 +++
 
-Jonny Storm is a British wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md).
+Jonny Storm is a British wrestler best known in Poland for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
