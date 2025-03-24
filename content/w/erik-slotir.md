@@ -24,7 +24,7 @@ Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for 
   - "The Hidden Gem" Erik Šlotíř {{ org_badge(orgs=['ptw'])}}
   - Krecik {{ org_badge(orgs=['ptw'])}} (given by fans)
 
-## Professional wrestling career 
+## Professional wrestling career
 
 ### Prime Time Wrestling (2023-2025)
 
@@ -32,10 +32,10 @@ Not long after his debut in the Czech federation VcV Original Wrestling, Šlotí
 
 In time, Šlotíř became a mainstay in PTW, primarily working Undergrounds as a midcard wrestler. His debut at a larger PTW show came at [PTW#5: Gold Rush](e/ptw/2024-02-03-ptw-5-gold-rush.md), where he was eliminated from the Gold Rush Rumble Match by [Sambor](@/w/sambor.md). Over the next months, he competed in mid-card matches against a variety of opponents, but never got involved in major storylines. 
 
-In 2025, Šlotíř entered the tournament for newly created [PTW Underground Championship](@/c/ptw-underground-championship.md), but came up short, losing in quarter-finals at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md). The following week, Šlotíř announced his departure from PTW via an Instagram story. PTW confirmed this in Facebook comments, calling Šlotíř's departure "semi-retirement", with PTW leaving ther doors open for a return.
+In 2025, Šlotíř entered the tournament for newly created [PTW Underground Championship](@/c/ptw-underground-championship.md), but came up short, losing in quarter-finals at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md). The following week, Šlotíř announced his departure from PTW via an Instagram story. PTW confirmed this in Facebook comments, calling Šlotíř's departure "semi-retirement", with PTW leaving ther doors open for a return. However, as of spring 2025, Erik was anything but retired - accepting international bookings, and competing for the VcV championship, putting PTW's version in doubt.
 
 Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslovakian (and later Czech) cartoon known in English as ["The Little Mole"][krtek].
-  
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27518)
