@@ -37,7 +37,7 @@ Johnny Blade, also known under numerous aliases, is a Polish wrestler best known
 Johnny Blade was one of the founding members of [PpW](@/o/ppw.md) back in 2010/2011, along with his fellow classmates. Since the creation of this backyard group, Johnny was one of the wrestlers who made numerous appearances at early PpW shows. Like his fellow wrestlers, he worked under multiple gimmicks and aliases, often wearing a mask.
 
 In his early days, his main persona was a masked luchador called Ultimo Combo. It was used from the earliest days of PpW, until about 2016. Occasionally, he also performed under a comedic gimmick of "the worst high-flyer in PpW" Angel Guerrero, as an unmasked authority persona Vins Michael $hot, and "Human" - a short-lived horror gimmick of a mutant.
-From 2016 to 2019 he also worked under his more tag-team oriented gimmick of [Automatico's](@/w/rob-scaffold.md) cousin: Ultimo Combo.
+From 2016 to 2019 he also worked under his more tag-team oriented gimmick of [Automatico's](@/w/rob-scaffold.md) cousin: Black Orion.
 Johnny's primary gimmick was first used in late 2014, in a match against [Jim Hardy](@/w/mister-z.md). Over the years the concept of a reanimated corpse buried in a [Wola][wola-wwa] cemetery became Johnny's main persona, which he uses to this day.
 
 During the backyard years of PpW, Johnny - as his numerous characters - managed to win multiple "backyard era" championships, currently unrecognized by PpW after their transformation into a professional federation in 2020.
@@ -58,7 +58,7 @@ At [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md) in June 2023, 
 
 #### Championship pursuit
 
-After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md), occasionally teaming up with him for the rest of 2023, which led to his feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024, which Blade & Biesiad won.
+After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md), occasionally teaming up with him for the rest of 2023 as The Hardcores. At [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) they lost a Tag Team Match against Stanisław Van Dobroniak and [Steve Kuningas](@/w/steve-kuningas.md). According to their agreement with PpW's producer - Mister Z - due to defeat both of The Hardcores were banned from earning any title shots in PpW. This defeat led to feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024, which Blade & Biesiad won.
 At the next show, [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md), Johnny made himself the special guest referee in an ultraviolent match between Dobroniak vs [Alex Arthur](@/w/alex-arthur.md), and forced Mister Z to lift his ban on competing for the UV Championship. Mister Z agreed and that led Johnny to be considered next in line for his long-lost PpW Ultraviolent Championship. The match took place at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). It was a Born to be Wired Four Way Elimination Match with Alex Arthur and Isnorr added to the mix, however it was Blade who managed to score the ultimate victory and regain the championship.
 
 #### Feud with Isnorr
