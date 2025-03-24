@@ -33,7 +33,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
 - - '[Shadow](@/w/shadow.md) + [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Alexander Reich](@/w/alex-ace.md)'
   - '[Amisz](@/w/axel-fox.md)'
-  - '[Bartosz Borowsky](@/w/boro.md)'
+  - '[Lady Killer](@/w/boro.md)'
   - Bartuk
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Damien Rothschild](@/w/damien-rothschild.md)'
@@ -76,7 +76,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
 6. Christopher Anthony
 7. Alex Jacobs
 8. Alex (Reich)
-9. Toni Steel
+9. Tony Steel
 10. Matt Buckna
 11. Buckna eliminates Sebastien
 12. Buckna eliminates Alex Jacobs
@@ -85,19 +85,19 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
 15. Amisz
 16. Skull Evil
 17. Demon
-18. Ladykiller
+18. Lady Killer
 19. Amisz eliminates Demon
 20. Skull Evil eliminates Amisz
 21. Kent
 22. Kent eliminates Marcel
 23. Kent eliminates Christopher Anthony
-24. SkullEvil eliminates Denim
+24. Skull Evil eliminates Denim
 25. Kent eliminates Matt Buckna
 26. Red Thunder
 27. Ronzen
 28. Ronzen & Alex eliminate Red Thunder
 29. Hexia
-30. Hexia eliminates Ladykiller
+30. Hexia eliminates Lady Killer
 31. Ronzen & Alex eliminate Skull Evil
 32. Valeria (introduced as Valerie)
 33. Valeria eliminates Hexia (over the 2nd rope)
