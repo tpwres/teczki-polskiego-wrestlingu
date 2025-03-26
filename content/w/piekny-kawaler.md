@@ -8,7 +8,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "piekny-kawaler.jpg", caption = 'Promo shot of Piękny Kawaler', source = "Pięny Kawaler's Facebook" }
+1 = { path = "piekny-kawaler.jpg", caption = 'Promo shot of Piękny Kawaler', source = "Piękny Kawaler's Facebook" }
 +++
 
 Piękny Kawaler (roughly _Beautiful Bachelor_, or _Lovely Lad_) is a Polish wrestler and the owner of [Kombat Pro Wrestling](@/o/kpw.md) where he actively wrestled between 2015 and 2019. Prior to KPW, he also worked in [Do Or Die Wrestling](@/o/ddw.md).
