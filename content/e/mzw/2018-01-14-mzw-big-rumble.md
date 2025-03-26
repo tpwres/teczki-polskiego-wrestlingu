@@ -34,7 +34,6 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - '[Alexander Reich](@/w/alex-ace.md)'
   - '[Amisz](@/w/axel-fox.md)'
   - '[Lady Killer](@/w/boro.md)'
-  - Bartuk
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Damien Rothschild](@/w/damien-rothschild.md)'
   - Demon
@@ -43,7 +42,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - Ezeny
   - '[Hexia](@/w/hexia.md)'
   - Kent
-  - '[Alex Jacobs](@/w/jacob-crane.md)'
+  - '[_rookie_ Jacob](@/w/jacob-crane.md)'
   - Laurance Roman
   - Marcel Koniecki
   - '[Matt Buckna](@/w/matt-buckna.md)'
@@ -54,6 +53,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - '[Ronzen](@/w/ronny-kessler.md)'
   - Sebastien
   - '[Skull Evil](@/w/skull-evil.md)'
+  - Tony Steel
   - Valeria
   - s: 'MZW Championship #1 Contender 26 Man Royal Rumble Match'
 - - '[Shadow](@/w/shadow.md)'
@@ -66,60 +66,9 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
     Referees: '[Tomasz Warchoł](@/w/tomasz-warchol.md), [Sędzia Rafael](@/w/rafael-kid.md)'
 {% end %}
 
-### Rumble entrance and elimination order
-
-1. Damien Rothschild
-2. Stanisław Van Dobroniak
-3. Sebastien
-4. Rafael (Kid)
-5. Denim
-6. Christopher Anthony
-7. Alex Jacobs
-8. Alex (Reich)
-9. Tony Steel
-10. Matt Buckna
-11. Buckna eliminates Sebastien
-12. Buckna eliminates Alex Jacobs
-13. Rafael Kid eliminated
-14. Marcel
-15. Amisz
-16. Skull Evil
-17. Demon
-18. Lady Killer
-19. Amisz eliminates Demon
-20. Skull Evil eliminates Amisz
-21. Kent
-22. Kent eliminates Marcel
-23. Kent eliminates Christopher Anthony
-24. Skull Evil eliminates Denim
-25. Kent eliminates Matt Buckna
-26. Red Thunder
-27. Ronzen
-28. Ronzen & Alex eliminate Red Thunder
-29. Hexia
-30. Hexia eliminates Lady Killer
-31. Ronzen & Alex eliminate Skull Evil
-32. Valeria (introduced as Valerie)
-33. Valeria eliminates Hexia (over the 2nd rope)
-34. Mr B
-35. Valeria self-eliminates
-36. Mr B eliminated
-37. Shadow
-38. Ezeny
-39. Shadow eliminates Ezeny
-40. Dynamite Dave
-41. Laurance Roman
-42. Rick Baxxter
-43. Baxxter eliminates Ronzen
-44. Kent eliminates Baxxter
-45. Dynamite Dave eliminates Kent
-46. Dynamite Dave eliminates Laurance Roman
-47. Dobroniak eliminates Dynamite Dave
-48. Asmund eliminates Shadow & Dobroniak
-
 ### References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=192262)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=192262). Note that the rumble participants list is different. This version is based on the video linked below.
 * Full Royal Rumble match, [part 1](https://www.youtube.com/watch?v=KLp-Ub3MGDo) and [part 2](https://www.youtube.com/watch?v=DS118G4KnhM)
 * [Facebook post with photos](https://www.facebook.com/ManiacZoneWrestling/posts/1204544136356477/)
 * [Triple Threat match finale](https://www.instagram.com/stanimania/p/Bd-AHC1B1Ia/) on Dobroniak's Instagram
