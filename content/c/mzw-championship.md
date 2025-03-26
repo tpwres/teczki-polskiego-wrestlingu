@@ -210,7 +210,7 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - '[Aron Wake](@/w/aron-wake.md)'
   - '[Shadow](@/w/shadow.md)'
   - s: Triple Threat Match
-    en: '[MZW No Time to Die](@/e/mzw/2025-03-29-mzw-forever.md)'
+    en: '[MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md)'
     ed: 2025-03-29
     nc: upcoming
 {% end %}
