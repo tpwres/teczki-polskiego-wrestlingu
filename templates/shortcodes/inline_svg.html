@@ -1,5 +1,0 @@
-{% set root = config.extra.gallery_root ~ page.path %}
-<figure>
-  <embed alt="{{ alt | default(value='') }}" src="{{ root ~ path }}"/>
-  <figcaption>{{ body | markdown | safe }}</figcaption>
-</figure>
