@@ -16,7 +16,7 @@ city = "Warszawa"
 
 Neomania was the inaugural show in the Neomania series of [PpW's](@/o/ppw.md) early backyard shows, and PpW's first "PPV" show. It took place on an unknown date(s) during the summer holidays of 2011, and it was held at a local playground. The date of July 1st was chosen arbitrarily for the purposes of this entry and does not accurately reflect the actual date(s) of the event.
 
-The name of the event derives from the derogatory Polish term "Dzieci Neo[strady]" (_Children of Neo[strada]_) used to refer to new Internet users, often very young and unfamiliar with the netiquette, who started appearing online with the rise of popularity of Neostrada broadband connection service in the early 2000s (cf. [Eternal September][nooby]).
+According to [Johnny Blade](@/w/johnny-blade.md), the name of the event derives from the derogatory Polish term "Dzieci Neo[strady]" (_Children of Neo[strada]_) used to refer to new Internet users, often very young and unfamiliar with the netiquette, who started appearing online with the rise of popularity of Neostrada, Poland's first broadband ADSL service, in the early 2000s (cf. [Eternal September][nooby]).
 
 {% card() %}
 - - '[Ultimo Combo](@/w/johnny-blade.md)'
