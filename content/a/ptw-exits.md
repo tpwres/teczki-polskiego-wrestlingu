@@ -68,12 +68,12 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2024-04-13](@/e/ptw/2024-04-13-ptw-underground-21.md)'
   - 2024 Twitter
 - - '**[Disco Pablo](@/w/disco-pablo.md)**'
-  - 2021
+  - 2021 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - '2024-06 [Instagram](https://www.instagram.com/p/C8ALDNIszF8)'
 - - '**[Dziedzic](@/w/dziedzic.md)**'
-  - 2020
+  - 2020 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-06 [Instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
@@ -83,7 +83,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06
 - - '**[Sinister](@/w/sinister.md)**'
-  - 2020
+  - 2020 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-06 [Instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
