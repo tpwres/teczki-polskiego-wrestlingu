@@ -15,9 +15,9 @@ caption = """\
   ???, [Hexia](@/w/hexia.md);<br>
   ???, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), ???;<br>
   [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);<br>
-  ???, [Rick Baxxter](@/w/rick-baxxter.md), ???;<br>
-  [Jędruś Bułecka](@/w/jedrus-bulecka.md), ???;<br>
-  ???, ???;<br>
+  ???, [Rick Baxxter](@/w/rick-baxxter.md), Kent;<br>
+  [Jędruś Bułecka](@/w/jedrus-bulecka.md), Laurance Roman;<br>
+  [Ronny Kessler](@/w/ronny-kessler.md), [Dynamite Dave](@/w/dynamite-dave.md); <br>
   [Alexander Reich](@/w/alex-ace.md).
 """
 source = "Official MZW Facebook"
