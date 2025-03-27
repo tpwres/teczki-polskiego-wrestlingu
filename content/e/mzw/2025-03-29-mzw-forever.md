@@ -33,7 +33,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 27.03 MZW announced Dieter Schwarz, last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
 
 {% card(predicted=true) %}
-- - '???'
+- - 'Dieter Schwarz'
   - '[Sambor](@/w/sambor.md)'
   - nc: upcoming
 - - '[Syriusz Dziedzic](@/w/dziedzic.md)'
