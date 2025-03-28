@@ -1,6 +1,7 @@
 +++
 title = "Jędruś Bułecka"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -33,11 +34,11 @@ Jędruś Bułecka is a semi-retired Polish wrestler best known for co-founding a
 
 Bułecka got his early experience in a backyard group called Polish Wrestling Underground as well as in Scotland, where he trained under [Kevin Williams](@/w/kevin-williams.md) in 2008. He then joined [Do Or Die Wrestling](@/o/ddw.md) shortly after its inception, where he initially wrestled as Marcin Wilkowski, before settling on the ring name Jędruś Bułecka (roughly _Andy Breadroll_) and the gimmick of a [Polish Highlander][gorol]. Jędruś also made a few appearances in Scotland, Hungary and Germany - a 2013 show in the latter country is where he was first called "The Polish Hammer". In the late 2013, Bułecka and [Shadow](@/w/shadow.md) left DDW and founded a new promotion: [Maniac Zone Wrestling](@/o/mzw.md).
 
-### Maniac Zone Wrestling (2013-2019)
+### Maniac Zone Wrestling (2013-2019; 2024-)
 
 Bułecka began his MZW chapter as Patriota (_The Patriot_), a Polish-themed masked luchador. This was a short-lived gimmick, however, and he quickly returned to his old Highlander persona which he would alternate with Polish Hammer. In 2015 Jędruś started a tag team with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), which would become the first [MZW Tag Team Champions](@/c/mzw-tag-team-championship.md). He also served as MZW's coach.
 
-Jędruś made regular appearances at most of MZW shows up until June 2019. Following [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md) he seemingly retired from wrestling, however he made a surprising return to the ring at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he was the final contestant in the Battle Royal.
+Jędruś made regular appearances at most of MZW shows up until June 2019. Following [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md) he seemingly retired from wrestling. however he made a surprising return to the ring at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, where he was the final contestant in the Battle Royal.
 
 ## Other media
 
@@ -45,14 +46,18 @@ Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wre
 
 ## In wrestling
 
+* Finishers:
+- _Flaming Valask_ (Leg Drop Bulldog) 
+- _Flaga Na Maszt_ (Headlock Driver) 
+
 * Tag teams and stables:
   - Zbójnicy (2015-2017)
 
 * Entrance music:
   - "W Murowanej Piwnicy" by Kapela Pieczarki
- {{ org_badge(orgs=['mzw']) }} (2015-2017, in tag-team with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) <br>
- {{ music(yt='a1vi2GmjJYo')}}
- {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
+    {{ org_badge(orgs=['mzw']) }} (2015-2017, in tag-team with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) <br>
+    {{ music(yt='a1vi2GmjJYo')}}
+    {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
  
 ## Championships and accomplishments
 
