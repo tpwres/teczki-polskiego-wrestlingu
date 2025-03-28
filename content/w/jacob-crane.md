@@ -79,7 +79,7 @@ After his 3-month stint in Japan, it was announced that Jacob Crane will return 
     {{ music(yt='6-nxtwmUbYg')}}
     {{ music(spot='3eaucqJ0Q7v8VZf8liXRKx')}}
     {{ music(apple='1611824393?i=1611824405')}}
- - "Kyōran Hey Kids!!" by The Oral Cigarettes
+  - "Kyōran Hey Kids!!" by The Oral Cigarettes
    {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
     {{ music(yt='3oFTHxkOzjE')}}
     {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
