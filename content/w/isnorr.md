@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "isnorr.jpg", caption = "Isnorr towering over [Goblin](@/w/goblin.md) and Benny Bacchus at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "Official PpW Facebook" }
 +++
 
-Isnorr, previously known as Norris, is a Polish wrestler best known for his appearances at [PpW Ewenement](@/o/ppw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/w/mzw.md).
+Isnorr, previously known as Norris, is a Polish wrestler best known for his appearances at [PpW Ewenement](@/o/ppw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
