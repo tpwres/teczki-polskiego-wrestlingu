@@ -12,24 +12,28 @@ country = ["PL"]
 3 = { path = "ppw-crane-420.jpg", caption = 'On April 1st, 2024 PpW "fired" Jacob Crane after his first show in Japan, parodying PTW by using the exact same text with its owners mock signatures. The text reads "Should not have left for Japan disregarding our events".'}
 +++
 
+Jacob Crane is a Polish wrestler currently working in Japan, making part-time apperances for [PpW Ewenement](@/o/ppw.md). He also worked for [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md). 
+
 ## Basic info
 
-* Known as:
-  - Kuba Kamiński
-  - Adept Kuba (early [MZW](@/o/mzw.md))
-  - The Perfect Man
-  - The Top Guy Everywhere
+* Years active: 2016-present
+* Gimmicks/nicknames:
+  - "The Perfect Man" / "The Top Guy Everywhere" Jacob Crane {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
+  -  _Rookie_ Jacob {{ org_badge(orgs=['mzw']) }} (early apperances)
+  - Kuba Kamiński {{ org_badge(orgs=['mzw']) }} (early apperances)
+
+
 * Trained by:
   - [Justin Joy](@/w/justin-joy.md)
   - [Joe E. Legend](@/w/joe-legend.md)
-  - [Shadow](@/w/shadow.md)
-  - [Asmund](@/w/asmund.md)
+  - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2020)
+  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
 
 ## Professional wrestling career
 
 ### PpW Ewenement (2017)
 
-Before his MZW debut, Jacob made a few appearances in [PpW](@/o/ppw.md) back in Warsaw, where he took part in backyard matches against Jake Young and [Hades](@/w/olgierd.md).
+Before his professional debut, Jacob made a few appearances in [PpW Ewenement](@/o/ppw.md) back in Warsaw, where he took part in backyard matches against Jake Young and [Hades](@/w/olgierd.md).
 His first stint in PpW was short-lived, as he began his pro wrestling training in MZW's academy in Głuchołazy in 2017.
 
 ### Maniac Zone Wrestling (2017-2021)
@@ -59,6 +63,28 @@ Since then, he made regular appearances for PpW, and took up the role of head co
 In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], joining the BJPW (Big Japan Pro Wrestling) roster.
 
 After his 3-month stint in Japan, it was announced that Jacob Crane will return at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in a rematch against [Gabriel Queen](@/w/gabriel-queen.md). In addition, PpW announced that they will run a summer wrestling course under their dojo's brand with Jacob as head coach.
+
+## In wrestling
+
+* Finishers:
+  - Lariat
+  - Package Piledriver (2018-2021)
+  
+* Tag Teams and stables:
+  - Tag Team [Madman Charlie](@/w/madman-charlie.md) (2018-2021)
+
+* Entrance music:
+  - "Bad Reputation" by Adelitas Way
+    {{ org_badge(orgs=['mzw']) }} (2017-2021) <br>
+    {{ music(yt='6-nxtwmUbYg')}}
+    {{ music(spot='3eaucqJ0Q7v8VZf8liXRKx')}}
+    {{ music(apple='1611824393?i=1611824405')}}
+ - "Kyōran Hey Kids!!" by The Oral Cigarettes
+   {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
+    {{ music(yt='3oFTHxkOzjE')}}
+    {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
+    {{ music(apple='1064406932?i=1064406939')}}
+
 
 ## References
 
