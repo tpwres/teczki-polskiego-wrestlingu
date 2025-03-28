@@ -38,7 +38,8 @@
 {% endblock content %}
 
 {% block extra_head %}
-  {% if not page.extra.hide_events -%}
+  {% if page.extra.hide_events or page.extra.compact_event_list -%}
+  {% else %}
     <script defer type="module">
       import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
       document.addEventListener('DOMContentLoaded', () => {
