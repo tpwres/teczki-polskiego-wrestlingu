@@ -25,7 +25,7 @@ Joe Hendry is a Scottish wrestler and musician, best known for his runs in Ring 
 
 ### Prime Time Wrestling (2022)
 
-Joe Hendry made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their second big show [BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md). At the show he defeated Polish up-and-coming wrestler [Gabriel Queen](@/w/gabriel-queen.md) with [Taxi Złotówa](@/w/taxi-zlotowa.md) as his manager. He made yet another apperance in Poland at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) where he defended his [Impact Digital Media Championship][impact-dgc] against Trent Seven. 
+Joe Hendry made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their second big show, [BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md). At the show he defeated Polish up-and-coming wrestler [Gabriel Queen](@/w/gabriel-queen.md) with [Taxi Złotówa](@/w/taxi-zlotowa.md) as his manager. He made another appearance in Poland at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where he defended his [Impact Digital Media Championship][impact-dgc] against Trent Seven. 
 
 ## In wrestling
 
@@ -35,10 +35,10 @@ Joe Hendry made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.m
  
 * Entrance music:
   - "I Believe in Joe Hendry" by Joe Hendry
-    {{ org_badge(orgs=['ptw']) }} (2022) <br>
-    {{ music(yt='Hb17uaaldwM')}}
-    {{ music(spot='2tfEDfDTTWmFf2fNpmVdDq')}}
-    {{ music(apple='1742008241?i=1742008242')}}
+ {{ org_badge(orgs=['ptw']) }} (2022) <br>
+ {{ music(yt='Hb17uaaldwM')}}
+ {{ music(spot='2tfEDfDTTWmFf2fNpmVdDq')}}
+ {{ music(apple='1742008241?i=1742008242')}}
 
 ## Internet presence
 
