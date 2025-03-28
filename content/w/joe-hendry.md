@@ -8,7 +8,8 @@ toclevel = 2
 country = ["SCOTLAND"]
 +++
 
-Joe Hendry is a Scottish wrestler and musician, best known for his runs in Ring of Honor and TNA/Impact. He made two appearances in Poland in 2022 for [Prime Time Wrestling](@/o/ptw.md), even defending his Impact Digital Media Championship in the second one.
+Joe Hendry is a Scottish wrestler and musician, best known internationally for his runs in Ring of Honor and TNA/Impact.
+He made two appearances in Poland in 2022 for [Prime Time Wrestling](@/o/ptw.md), defending his Impact Digital Media Championship in the second one.
 
 ## Basic info
 
@@ -25,14 +26,14 @@ Joe Hendry is a Scottish wrestler and musician, best known for his runs in Ring 
 
 ### Prime Time Wrestling (2022)
 
-Joe Hendry made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their second big show, [BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md). At the show he defeated Polish up-and-coming wrestler [Gabriel Queen](@/w/gabriel-queen.md) with [Taxi Złotówa](@/w/taxi-zlotowa.md) as his manager. He made another appearance in Poland at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where he defended his [Impact Digital Media Championship][impact-dgc] against Trent Seven. 
+Joe Hendry made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their second big show, [BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md).
+At that show he defeated up-and-coming Polish wrestler [Gabriel Queen](@/w/gabriel-queen.md) with [Taxi Złotówa](@/w/taxi-zlotowa.md) as his manager. He later returned to Poland for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where he defended his [Impact Digital Media Championship][impact-dgc] against Trent Seven.
 
 ## In wrestling
 
 * Finishers:
   - Pop-Up Powerbomb (2022)
   - _The Standing Ovation_ (Chokeslam) (2022)
- 
 * Entrance music:
   - "I Believe in Joe Hendry" by Joe Hendry
  {{ org_badge(orgs=['ptw']) }} (2022) <br>

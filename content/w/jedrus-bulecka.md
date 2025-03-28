@@ -38,7 +38,7 @@ Bułecka got his early experience in a backyard group called Polish Wrestling Un
 
 Bułecka began his MZW chapter as Patriota (_The Patriot_), a Polish-themed masked luchador. This was a short-lived gimmick, however, and he quickly returned to his old Highlander persona which he would alternate with Polish Hammer. In 2015 Jędruś started a tag team with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), which would become the first [MZW Tag Team Champions](@/c/mzw-tag-team-championship.md). He also served as MZW's coach.
 
-Jędruś made regular appearances at most of MZW shows up until June 2019. Following [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md) he seemingly retired from wrestling. He made a surprising return to the ring at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, however, where he was the final contestant in the Battle Royal.
+Jędruś made regular appearances at most MZW shows until June 2019. Following [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md) he retired from wrestling. Years later, he made a surprising return to the ring at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, however, where he was the final contestant in the Battle Royal.
 
 ## Other media
 
@@ -47,18 +47,16 @@ Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wre
 ## In wrestling
 
 * Finishers:
-- _Flaming Valask_ (Leg Drop Bulldog) 
-- _Flaga Na Maszt_ (Headlock Driver) 
-
+- _Flaming Valask_ (Leg Drop Bulldog)
+- _Flaga Na Maszt_ (Headlock Driver)
 * Tag teams and stables:
   - Zbójnicy (2015-2017)
-
 * Entrance music:
   - "W Murowanej Piwnicy" by Kapela Pieczarki
- {{ org_badge(orgs=['mzw']) }} (2015-2017, in tag-team with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) <br>
+ {{ org_badge(orgs=['mzw']) }} (2015-2017, in a tag-team with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) <br>
  {{ music(yt='a1vi2GmjJYo')}}
  {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
- 
+
 ## Championships and accomplishments
 
 * [Maniac Zone Wrestling](@/o/mzw.md):

@@ -17,13 +17,13 @@ Jerry "Rich" Mandecky is a retired Polish wrestling on-screen personality best k
 * Gimmicks/nicknames:
   - Jerry "Rich" Mandecky {{ org_badge(orgs=['ppw']) }}
 * Trained by:
-  - PpW School (20??-2024)
+  - PpW Dojo (20??-2024)
 
 ## Professional wrestling career
 
 ### PpW Ewenement (2022-2024)
 
-Jerry "Rich" Mandecky is PpW's former (kayfabe) owner and authority figure. He was portrayed as an American-born businessman who earned his first million dollars at the age of 20 due to his extreme talent for investing. As a lifelong wrestling fan, he decided to use his wealth to support growing hardcore wrestling in Poland.
+Jerry "Rich" Mandecky is PpW's former (kayfabe) owner and authority figure. He was portrayed as an American-born businessman, who earned his first million dollars at the age of 20 due to his extreme talent for investing. As a lifelong wrestling fan, he decided to use his wealth to support the growing hardcore wrestling scene in Poland.
 
 In May 2022 PpW posted a [video][vid-mandec] where Mandecky and his associate coerced the previous owner, [Sun Ju](@/w/rob-scaffold.md), to sign off PpW's ownership to them. Mandecky proudly announced that his "Mandecky Investment Group" had acquired PpW. He explained his business background, prior contributions to PpW and announced a new venue for PpW - [Waldorffa 25](@/v/waldorffa25.md).
 
