@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "mandec.webp", caption = "Jerry Mandecky at a PpW show.", source = "Official PpW website" }
 +++
 
-Jerry "Rich" Mandecky is a retired Polish wrestling on-screen personality best known for his time in [PpW Ewenement](@/o/ppw.md)
+Jerry "Rich" Mandecky is a retired Polish wrestling on-screen personality best known for his time in [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 * Years active: 2022-2024
