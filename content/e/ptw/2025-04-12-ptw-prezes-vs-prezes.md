@@ -15,5 +15,5 @@ city = "Kozłów"
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
