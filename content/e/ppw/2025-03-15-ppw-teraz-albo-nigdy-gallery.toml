@@ -38,7 +38,7 @@
 5012 = { path = "20-typa-10.webp", caption = "A masculine sandwich of [Robert Star](@/w/robert-star.md), [Axel Fox](@/w/axel-fox.md) and [Marco Hammers](@/w/marco-hammers.md). In the background, Sędzia Karol Górski talks to Oskar Aleksander, while Sędzia Seweryn observes the action from near the corner.", source = "M3n747" }
 5013 = { path = "20-dudes-osamu.webp", caption = "A wild [Osamu](@/w/osamu.md) appears!", source = "Official PpW VOD" }
 5014 = { path = "20-typa-11.webp", caption = "[Osamu](@/w/osamu.md) back in the ring. Biesiad stands in the corner, while Robert Star and Marco Hammers lie on the ring, and Sędzie Seweryn stands outside.", source = "M3n747" }
-5015 = { path = "20-dudes-mef-1.webp", caption = "Mef the Death, last seen at [Ledwo Legalne IV](@e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)...", source = "Official PpW VOD" }
+5015 = { path = "20-dudes-mef-1.webp", caption = "Mef the Death, last seen at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)...", source = "Official PpW VOD" }
 5016 = { path = "20-dudes-mef-2-pecunia-apparently-olets.webp", caption = "...is easily bribed by [Mister Z](@/w/mister-z.md).", source = "Official PpW VOD" }
 5017 = { path = "20-dudes-aron-pokeball.webp", caption = "[Aron Wake](@/w/aron-wake.md) with a poké ball.", source = "Official PpW VOD" }
 5018 = { path = "20-dudes-biesiad-arrested.webp", caption = "Biesiad is arrested by the PM Shooter team.", source = "Official PpW VOD" }
