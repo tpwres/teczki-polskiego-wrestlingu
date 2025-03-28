@@ -7,7 +7,7 @@ template = "org_page.html"
 chrono_root = ["low"]
 [extra]
 toclevel = 3
-compact_event_list = true
+compact_event_list = false
 [extra.gallery]
 manifest = "@/o/low-gallery.toml"
 +++
