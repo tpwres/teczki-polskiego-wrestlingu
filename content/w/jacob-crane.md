@@ -22,7 +22,6 @@ Jacob Crane is a Polish wrestler currently working in Japan, making part-time ap
   -  _Rookie_ Jacob {{ org_badge(orgs=['mzw']) }} (early apperances)
   - Kuba Kamiński {{ org_badge(orgs=['mzw']) }} (early apperances)
 
-
 * Trained by:
   - [Justin Joy](@/w/justin-joy.md)
   - [Joe E. Legend](@/w/joe-legend.md)
@@ -33,7 +32,7 @@ Jacob Crane is a Polish wrestler currently working in Japan, making part-time ap
 
 ### PpW Ewenement (2017)
 
-Before his professional debut, Jacob made a few appearances in [PpW Ewenement](@/o/ppw.md) back in Warsaw, where he took part in backyard matches against Jake Young and [Hades](@/w/olgierd.md).
+Before his professional debut, Jacob made a few appearances in [PpW Ewenement](@/o/ppw.md) in Warsaw, where he took part in backyard matches against Jake Young and [Hades](@/w/olgierd.md).
 His first stint in PpW was short-lived, as he began his pro wrestling training in MZW's academy in Głuchołazy in 2017.
 
 ### Maniac Zone Wrestling (2017-2021)
@@ -62,7 +61,7 @@ Since then, he made regular appearances for PpW, and took up the role of head co
 
 In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], joining the BJPW (Big Japan Pro Wrestling) roster.
 
-After his 3-month stint in Japan, it was announced that Jacob Crane will return at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in a rematch against [Gabriel Queen](@/w/gabriel-queen.md). In addition, PpW announced that they will run a summer wrestling course under their dojo's brand with Jacob as head coach.
+After his 3-month stint in Japan, it was announced that Jacob Crane would return at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in a rematch against [Gabriel Queen](@/w/gabriel-queen.md). In addition, PpW announced that they would run a summer wrestling course under their dojo's brand with Jacob as head coach.
 
 ## In wrestling
 
@@ -75,16 +74,15 @@ After his 3-month stint in Japan, it was announced that Jacob Crane will return 
 
 * Entrance music:
   - "Bad Reputation" by Adelitas Way
-    {{ org_badge(orgs=['mzw']) }} (2017-2021) <br>
-    {{ music(yt='6-nxtwmUbYg')}}
-    {{ music(spot='3eaucqJ0Q7v8VZf8liXRKx')}}
-    {{ music(apple='1611824393?i=1611824405')}}
+ {{ org_badge(orgs=['mzw']) }} (2017-2021) <br>
+ {{ music(yt='6-nxtwmUbYg')}}
+ {{ music(spot='3eaucqJ0Q7v8VZf8liXRKx')}}
+ {{ music(apple='1611824393?i=1611824405')}}
   - "Kyōran Hey Kids!!" by The Oral Cigarettes
-   {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
-    {{ music(yt='3oFTHxkOzjE')}}
-    {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
-    {{ music(apple='1064406932?i=1064406939')}}
-
+ {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
+ {{ music(yt='3oFTHxkOzjE')}}
+ {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
+ {{ music(apple='1064406932?i=1064406939')}}
 
 ## References
 
