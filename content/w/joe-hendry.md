@@ -14,7 +14,7 @@ Joe Hendry is a Scottish wrestler and musician, best known for his runs in Ring 
 
 * Years active: 2013-present
 * Gimmicks/nicknames:
-  - Joe Hendry
+  - Joe Hendry {{ org_badge(orgs=['ptw']) }}
 * Trained by:
   - Damian O'Connor
   - Marty Jones
