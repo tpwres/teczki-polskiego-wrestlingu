@@ -19,8 +19,8 @@ Jacob Crane is a Polish wrestler, best known for his runs in [Maniac Zone Wrestl
 * Years active: 2016-present
 * Gimmicks/nicknames:
   - "The Perfect Man" / "The Top Guy Everywhere" Jacob Crane {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-  -  _Rookie_ Jacob {{ org_badge(orgs=['mzw']) }} (early apperances)
-  - Kuba Kamiński {{ org_badge(orgs=['mzw']) }} (early apperances)
+  -  _Rookie_ Jacob {{ org_badge(orgs=['mzw']) }} (early appearances)
+  - Kuba Kamiński {{ org_badge(orgs=['mzw']) }} (early appearances)
 
 * Trained by:
   - [Justin Joy](@/w/justin-joy.md)
