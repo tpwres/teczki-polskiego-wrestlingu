@@ -13,10 +13,11 @@
 
 {% set i = 0 %}
 {% for thisyear in years|sort|reverse %}
-    {% if i > max_events %}{% break %}{% endif %}
+    {% if i >= max_events %}{% break %}{% endif %}
     <h2>{{ thisyear }}</h2>
     <ul class="event-list-cm">
         {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
+        {% if i >= max_events %}{% break %}{% endif %}
         <li data-date="{{ page.date }}">
            <time>{{page.date}}</time>
            <span class="o">{% include "events/org_badges.html" %}</span>
