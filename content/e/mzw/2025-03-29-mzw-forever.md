@@ -38,7 +38,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[The Wolf](@/w/apollo-anderson.md)'
   - n: This was Marcelito's first official win since beating Dziedzic at [PTW Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md), earning him a huge pop.
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md) ???'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - n: Legia's open challenge
     s: Tag-Team Match
 - - 'Tony "The Riverman" Sheen'
