@@ -212,5 +212,4 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - s: Triple Threat Match
     en: '[MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md)'
     ed: 2025-03-29
-    nc: upcoming
 {% end %}
