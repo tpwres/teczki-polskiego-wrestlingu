@@ -30,16 +30,16 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 15.03, Marcus Monere revealed via Insta-stories that he's going to miss the show due to being hospitalized. This left [Sambor](@/w/sambor.md) without an opponent, effectively cancelling their previously announced match.
 * On 16.03 MZW announced [resuming their cooperation with MyWrestling portal][mywrestling], and published a photo with MyWrestling's logo added to the ring turnbuckles.
 * On 17.03, [Syriusz Dziedzic](@/w/dziedzic.md) was [announced][dziedzic] for the show. In the promo, he emphasized that he wants to become a legend.
-* On 27.03 MZW announced Dieter Schwarz, last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
+* On 27.03 MZW announced Dieter Schwartz, last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
 
 {% card () %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Robert Kaiser](@/w/robert-kaiser.md)'
 - - '[Marcelito](@/w/marcelito.md)'
   - '[The Wolf](@/w/apollo-anderson.md)'
-  - n: this was Marcelito's first official win since beating Dziedzic in April 2023. The crowd popped in huge way
+  - n: This was Marcelito's first official win since beating Dziedzic in April 2023. Marcelito reacted wildly, and the crowd popped in huge way.
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md) ???'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - n: Legia's open challenge
     s: Tag-Team Match
 - - 'Tony "The Riverman" Sheen'
@@ -47,8 +47,8 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - n: Sheen wins off the distraction due to Taras' music playing
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Taras](@/w/taras.md)'
-  - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is stretchered out
-- - 'Dieter Schwarz'
+  - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is carried out on a stretcher.
+- - 'Dieter Schwartz'
   - '[Sambor](@/w/sambor.md)'
 - - 'Kubes'
   - '[Mister Z](@/w/mister-z.md)'
@@ -58,7 +58,8 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[Aron Wake](@/w/aron-wake.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: Triple Threat Match
-
+- credits:
+    Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ## References
