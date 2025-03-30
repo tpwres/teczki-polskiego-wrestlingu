@@ -43,18 +43,6 @@
               - {{ final.nc }}
           {% endif %}
         {% endif %}
-        {% if notes is string %}
-          <span class="nt">NOTE: {{ notes | markdown(inline=true) | safe }}</span>
-        {% elif notes %}
-          <span class="nt">
-            NOTES:<br/>
-            <ul>
-              {% for note in notes %}
-                <li>{{ note | markdown(inline=true) | safe }}</li>
-              {% endfor %}
-            </ul>
-          </span>
-        {% endif %}
     </span>
     <span class="c">
         {{ title | markdown(inline=true) | safe }}
@@ -63,4 +51,16 @@
         {% endif %}
         {{ stip | markdown(inline=true) | safe }}
     </span>
+    {% if notes is string %}
+      <span class="nt">NOTE: {{ notes | markdown(inline=true) | safe }}</span>
+    {% elif notes %}
+      <span class="nt">
+        NOTES:<br/>
+        <ul>
+          {% for note in notes %}
+            <li>{{ note | markdown(inline=true) | safe }}</li>
+          {% endfor %}
+        </ul>
+      </span>
+    {% endif %}
 </li>
