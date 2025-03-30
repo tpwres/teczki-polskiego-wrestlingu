@@ -78,4 +78,4 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 [zet-promo]: https://www.facebook.com/watch/?v=629222843205448
 [mywrestling]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02zNcbKv6PPL4rkQL5hD7XrGoCLooY39YgecT2irqxe7JUDrdn3vmC2zGcNrrJpBzhl
 [dziedzic]: https://www.facebook.com/ManiacZoneWrestling/videos/2200560117041463
-[results]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02Ma11RZvEkBPeR3WURSWCkTMPXBPeT9EsKLHYXiEUZxTbijjfo3Q8LCdqXxDHwWbyl?__cft__[0]=AZWyPtnUJjXGsqGhOUyV9lmYDIKCzCvBzrdV_YHwpxGqHZH_nKWFVM5RXrRUOvBRjZm86ZN-lAx481SXcf90rILOCpaDNxhqG9G2vCKR_0lRjS73CWG698CZGWlDgk28egVmI87cZ9pOfW4_lMz7VP8sIEzpRfEndBpdTScdUIyOr1r-lGDdNQRT2-ZLD_FBVLs&__tn__=%2CO%2CP-R
+[results]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02Ma11RZvEkBPeR3WURSWCkTMPXBPeT9EsKLHYXiEUZxTbijjfo3Q8LCdqXxDHwWbyl
