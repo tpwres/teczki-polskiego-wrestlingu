@@ -32,7 +32,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 17.03, [Syriusz Dziedzic](@/w/dziedzic.md) was [announced][dziedzic] for the show. In the promo, he emphasized that he wants to become a legend.
 * On 27.03 MZW announced Dieter Schwarz, last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
 
-{% card %}
+{% card () %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Robert Kaiser](@/w/robert-kaiser.md)'
 - - '[Marcelito](@/w/marcelito.md)'
