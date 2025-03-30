@@ -37,6 +37,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[Robert Kaiser](@/w/robert-kaiser.md)'
 - - '[Marcelito](@/w/marcelito.md)'
   - '[The Wolf](@/w/apollo-anderson.md)'
+  - n: this was Marcelito's first official win since beating Dziedzic in 2023. The crowd popped in huge way
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md) ???'
   - n: Legia's open challenge
