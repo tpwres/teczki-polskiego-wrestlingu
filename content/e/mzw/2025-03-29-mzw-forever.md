@@ -41,7 +41,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - n: Legia's open challenge
     s: Tag-Team Match
-- - 'Dieter Schwarz'
+- - 'Dieter Schwartz'
   - '[Sambor](@/w/sambor.md)'
 - - 'Tony "The Riverman" Sheen'
   - '[Disco Pablo](@/w/disco-pablo.md)'
