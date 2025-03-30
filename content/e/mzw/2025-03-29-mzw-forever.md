@@ -32,36 +32,32 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * On 17.03, [Syriusz Dziedzic](@/w/dziedzic.md) was [announced][dziedzic] for the show. In the promo, he emphasized that he wants to become a legend.
 * On 27.03 MZW announced Dieter Schwarz, last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
 
-{% card(predicted=true) %}
-- - 'Dieter Schwarz'
-  - '[Sambor](@/w/sambor.md)'
-  - nc: upcoming
-- - '[Syriusz Dziedzic](@/w/dziedzic.md)'
-  - '???'
-  - nc: upcoming  
-- - '[Marcelito](@/w/marcelito.md)'
-  - '???'
-  - nc: upcoming
+{% card %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Robert Kaiser](@/w/robert-kaiser.md)'
-  - nc: upcoming
-- - 'Kubes'
-  - '[Mister Z](@/w/mister-z.md)'
-  - nc: upcoming
-- - '[Disco Pablo](@/w/disco-pablo.md)'
-  - 'Tony "The Riverman" Sheen'
-  - nc: upcoming
+- - '[Marcelito](@/w/marcelito.md)'
+  - '[The Wolf](@/w/apollo-anderson.md)'
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
-  - '???, ???'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md) ???'
   - n: Legia's open challenge
     s: Tag-Team Match
-    nc: upcoming
+- - 'Tony "The Riverman" Sheen'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
+  - n: Sheen wins off the distraction due to Taras' music playing
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Taras](@/w/taras-md)'
+  - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is stretchered out
+- - 'Dieter Schwarz'
+  - '[Sambor](@/w/sambor.md)'
+- - 'Kubes'
+  - '[Mister Z](@/w/mister-z.md)'
+  - r: DQ
 - - '[Matt Buckna](@/w/matt-buckna.md)(c)'
   - '[Shadow](@/w/shadow.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: Triple Threat Match
-    nc: upcoming
+
 {% end %}
 
 ## References
@@ -81,3 +77,4 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 [zet-promo]: https://www.facebook.com/watch/?v=629222843205448
 [mywrestling]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02zNcbKv6PPL4rkQL5hD7XrGoCLooY39YgecT2irqxe7JUDrdn3vmC2zGcNrrJpBzhl
 [dziedzic]: https://www.facebook.com/ManiacZoneWrestling/videos/2200560117041463
+[results]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02Ma11RZvEkBPeR3WURSWCkTMPXBPeT9EsKLHYXiEUZxTbijjfo3Q8LCdqXxDHwWbyl?__cft__[0]=AZWyPtnUJjXGsqGhOUyV9lmYDIKCzCvBzrdV_YHwpxGqHZH_nKWFVM5RXrRUOvBRjZm86ZN-lAx481SXcf90rILOCpaDNxhqG9G2vCKR_0lRjS73CWG698CZGWlDgk28egVmI87cZ9pOfW4_lMz7VP8sIEzpRfEndBpdTScdUIyOr1r-lGDdNQRT2-ZLD_FBVLs&__tn__=%2CO%2CP-R
