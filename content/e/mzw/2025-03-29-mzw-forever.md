@@ -41,14 +41,14 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - n: Legia's open challenge
     s: Tag-Team Match
+- - 'Dieter Schwarz'
+  - '[Sambor](@/w/sambor.md)'
 - - 'Tony "The Riverman" Sheen'
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - n: Sheen wins after being distracted by Taras's music suddenly playing
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Taras](@/w/taras.md)'
   - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is carried out on a stretcher.
-- - 'Dieter Schwarz'
-  - '[Sambor](@/w/sambor.md)'
 - - 'Kubes'
   - '[Mister Z](@/w/mister-z.md)'
   - r: DQ
