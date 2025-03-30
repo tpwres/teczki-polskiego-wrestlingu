@@ -46,7 +46,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - n: Sheen wins off the distraction due to Taras' music playing
 - - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '[Taras](@/w/taras-md)'
+  - '[Taras](@/w/taras.md)'
   - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is stretchered out
 - - 'Dieter Schwarz'
   - '[Sambor](@/w/sambor.md)'
