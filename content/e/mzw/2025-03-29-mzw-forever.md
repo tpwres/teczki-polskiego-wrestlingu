@@ -48,7 +48,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[Taras](@/w/taras.md)'
   - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is carried out on a stretcher.
 - - 'Dieter Schwarz'
-  - '[Sambor](@/w/sambor.md)'
+  - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
 - - 'Kubes'
   - '[Mister Z](@/w/mister-z.md)'
   - r: DQ
