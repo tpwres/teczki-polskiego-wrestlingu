@@ -6,7 +6,6 @@ authors = ["M3n747"]
 chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
-hide_results = true
 city = "Wrocław"
 [extra.gallery]
 manifest = "@/e/mzw/2025-03-29-mzw-forever-gallery.toml"
