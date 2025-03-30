@@ -37,18 +37,18 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
   - '[Robert Kaiser](@/w/robert-kaiser.md)'
 - - '[Marcelito](@/w/marcelito.md)'
   - '[The Wolf](@/w/apollo-anderson.md)'
-  - n: This was Marcelito's first official win since beating Dziedzic in April 2023. Marcelito reacted wildly, and the crowd popped in huge way.
+  - n: This was Marcelito's first official win since beating Dziedzic at [PTW Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md), earning him a huge pop.
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md) ???'
   - n: Legia's open challenge
     s: Tag-Team Match
 - - 'Tony "The Riverman" Sheen'
   - '[Disco Pablo](@/w/disco-pablo.md)'
-  - n: Sheen wins off the distraction due to Taras' music playing
+  - n: Sheen wins after being distracted by Taras's music suddenly playing
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Taras](@/w/taras.md)'
   - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is carried out on a stretcher.
-- - 'Dieter Schwartz'
+- - 'Dieter Schwarz'
   - '[Sambor](@/w/sambor.md)'
 - - 'Kubes'
   - '[Mister Z](@/w/mister-z.md)'
@@ -60,6 +60,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
     s: Triple Threat Match
 - credits:
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring Announcer: 'Adrian Zgórski'
 {% end %}
 
 ## References
