@@ -44,7 +44,7 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - '[Sambor](@/w/sambor.md); [Rusałka](@/w/rusalka.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-- - 'Tony "The River Man" Sheen'
+- - '[Tony "The Riverman" Sheen](@/w/riverman.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
