@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "gustav-gryffin.jpg", caption = "Gustav Gryffin, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 +++
 
-Gustav Gryffin is a Polish wrestler best known for his apperances for [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
+Gustav Gryffin is a Polish wrestler best known for his appearances for [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
@@ -55,24 +55,24 @@ With Team Zmowa eventually losing to Team Zmowa Przeciwko Zmowie in a Ustawka (_
 
 #### Feud with Gabriel Queen
 
-At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Gustav faced [Johnny Blade](@/w/johnny-blade.md). After the match he was attacked by [Gabriel Queen](@/w/gabriel-queen.md) - who earlier that night earned a title shot for PpW Championship - who sodomized Gustav's rectum. Humaliated Gustav accepted the fact, that he would have to face Gabriel at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), but just before a match started he stated, that it would be a match with 15-minute time limit. Due to referee knock-out Gustav was able to retain his championship. 
+At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Gustav faced [Johnny Blade](@/w/johnny-blade.md). After the match he was attacked by [Gabriel Queen](@/w/gabriel-queen.md) - the winner of a title shot for the [PpW Championship](@/c/ppw-championship.md) earlier that night - who sodomized Gustav's rectum. The humaliated Gustav accepted the fact that he would have to face Gabriel at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), but just before the match started, he stated that the match would have a 15 minute time limit. Due to a referee knock-out, Gustav was able to retain his championship. 
 
-At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Gustav teamed up with [Isnorr](@/w/isnorr.md) to face Pure Gold. The match resulted in Gustav's and Isnorr's defeat after [Vic Golden](@/w/vic-golden.md) pinned Isnorr. Nevertheless it was first Gustav's defeat during his title reign, so Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls Stipulation, and during the match just before Gabriel Queen was able to go for a second pinfall and victory, he was struck with a chair by his long time friend Vic Golden, which allowed Gustav to defeat Gabriel and end their feud.
+At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Gustav teamed up with [Isnorr](@/w/isnorr.md) to face Pure Gold. The match resulted in Gustav and Isnorr's defeat after [Vic Golden](@/w/vic-golden.md) pinned Isnorr. Nevertheless it was Gustav's first defeat during his title reign, so Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match just before Gabriel Queen was able to go for the second pinfall and victory, he was struck with a chair by his long-time friend [Vic Golden](@/w/vic-golden.md), which allowed Gustav to defeat Gabriel and end their feud.
 
 #### The Last Dance
 
-After 20 Typa 20 Broni Rumble Match in a main event of Teraz Albo Nigdy [Goblin](@/w/goblin.md) became #1 Contender for PpW Championship, and the match will take place at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). Due to fact, that it would be the third official match between Goblin and Gustav, the Gustav vs Goblin III match will has been named "The Last Dance".
+After the 20 Typa 20 Broni Rumble Match in the main event of Teraz Albo Nigdy, [Goblin](@/w/goblin.md) became #1 Contender for the PpW Championship at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match was named "The Last Dance" due to it being the third official match between Goblin and Gustav.
 
 ### Maniac Zone Wrestling (2023-present)
 
 Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the joint show [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he defeated Chris Cage in a Singles Match.
-He later made another appearance over a year later at the next MZW show, [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). Contrary to his PpW reception, in MZW he is portrayed as a babyface persona, without any dramatic changes to his gimmick.
+He later made another appearance over a year later at the next MZW show, [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). In contrast to his PpW reception, in MZW he is portrayed as a babyface persona without any dramatic changes to his gimmick.
 
 ### Legacy of Wrestling (2024-present)
 
-In November 2024 it was announced that Gustav will face [Wiktor Longman](@/w/wiktor-longman.md) in a match for PpW Championship at [Legacy of Wrestling](@/o/low.md)'s [first show](@/e/low/2024-12-01-low-1.md). Following Wiktor's withdrawal due to real-life reasons, Gustav's opponent has been changed to [Axel Fox](@/w/axel-fox.md). Despite initially being ruled as Axel victory via pinfall, the match was restarted after a intervention from LoW's Chairman and [Sinister](@/w/sinister.md) due to fact, that Gustav's hand was outside of the ring, which was unnoticed by a [Referee Sewi](@/w/sedzia-seweryn.md). After a restart Gustav submitted Axel in a quick fashion.
+In November 2024 it was announced that Gustav would face [Wiktor Longman](@/w/wiktor-longman.md) in a match for the PpW Championship at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). Following Wiktor's withdrawal due to personal reasons, Gustav's opponent was changed to [Axel Fox](@/w/axel-fox.md). Despite initially being ruled as Axel's victory via pinfall, the match was restarted after [Sinister](@/w/sinister.md) pointed out that Gustav's hand was outside of the ring, which was unnoticed by a [Referee Sewi](@/w/sedzia-seweryn.md). Legacy's Chairman confirmed this and the match was restarted, with Gustav quickly submitting Axel with a chokehold.
 
-On 22.03.2025 it was announced that Gustav will face Polish-American wrestler Kubes in a "Road To Title Match" which will take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)
+On 22.03.2025 it was announced that Gustav would face Polish-American wrestler Kubes in a "Road To Title Match" which will take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)
 
 ## In wrestling
 
