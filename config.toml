@@ -12,7 +12,7 @@ feed_filenames = ["atom.xml"]
 
 title = "TPW" # Teczki Polskiego Wrestlingu. In English, Tales of Polish Wrestling
 
-theme = "mensch"
+theme = "web"
 
 taxonomies = [
   { name = "chronology", render = false },
@@ -38,7 +38,7 @@ new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new
 
 list_pages = false
 default_theme = "dark"
-mensch_links = [
+header_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar-1" },
   { path = "@/w/_index.md", name = "People", icon = "users" },
   { path = "@/o/_index.md", name = "Orgs", icon = "handshake" },

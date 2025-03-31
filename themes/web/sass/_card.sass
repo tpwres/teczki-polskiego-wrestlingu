@@ -1,0 +1,72 @@
+details[open] + .card
+    display: none
+
+.card
+  padding-left: 0
+  display: grid
+  grid-template-rows: auto
+  grid-template-columns: 3em auto auto
+
+  &.free-card
+    grid-template-columns: 7em auto auto
+
+  .match, .header, .delim
+    display: grid
+    grid-template-columns: subgrid
+    grid-template-rows: auto
+    grid-column: span 3
+
+    span
+      padding: 0.1em 0.3em
+
+    .n, .ed
+      text-align: right
+      break-inside: avoid
+
+    .nt
+      font-size: 0.8rem
+      grid-row: 3
+      grid-column: 2 / 4
+
+      ul
+        padding-left: 1em
+
+  .header
+    background: var(--accent-bg)
+    font-weight: bold
+
+  .delim
+    justify-items: center
+
+    span
+      font-weight: bold
+      grid-column: span 3
+
+  .match:nth-child(odd),.delim:nth-child(odd)
+    background: var(--accent-bg)
+
+  @media only screen and (max-width: 720px)
+    grid-template-columns: 1fr 9fr
+
+    &.free-card
+      grid-template-columns: auto
+
+      .ed
+        min-width: 10ch
+        break-inside: avoid
+
+    .match, .header
+      display: grid
+      column-gap: 0.3em
+      row-gap: 0
+
+      .p, .c
+        grid-column: 2
+
+.event-cast-members
+  list-style-type: none
+
+  dt
+    font-weight: bold
+    &:after
+      content: ":"
