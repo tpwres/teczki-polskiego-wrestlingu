@@ -17,9 +17,8 @@ city = "Niedźwiedzica"
 - - '[Justin Joy](@/w/justin-joy.md)'
   - 'Gracjan, Wiktor'
   - s: 'Two On One Handicap Match'
-- - 'Posse In Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)'
-  - '[Jędruś Bułecka](@/w/jedrus-bulecka.md), [ZERO](@/w/franz-engel.md)'
-  - c: 'Next Step Wrestling Tag Team Championship'
+- - '[Shadow](@/w/shadow.md)'
+  - '[Patriota](@/w/jedrus-bulecka.md)'
 - credits:
     Referee: '[Sędzia Piotr](@/w/mr-b.md)'
 {% end %}
