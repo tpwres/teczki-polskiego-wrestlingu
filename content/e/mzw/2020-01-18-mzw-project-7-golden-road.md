@@ -22,7 +22,7 @@ source = "Official MZW Facebook"
 - - '[Ring Rat](@/w/sedzia-seweryn.md)'
   - 'Anatolii'
   - '[Krueger](@/w/olgierd.md)'
-  - 'Hexia(@/w/hexia.md)'
+  - '[Hexia](@/w/hexia.md)'
   - g: Ring Rat's promo explaining why he doesn't have a match. 
     n: Exact place on the card uncertain.
 - - '[Rafael Kid](@/w/rafael-kid.md)'
