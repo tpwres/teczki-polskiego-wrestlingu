@@ -58,7 +58,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[King Kaiden](@/w/king-kaiden.md)'
-  - '[Sambor](@/w/sambor.md)'
+  - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
   - '[Spartan](@/w/spartan.md)'
   - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
   - '[Krampus](@/w/krampus.md)'
