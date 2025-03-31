@@ -21,7 +21,7 @@ source = "Official MZW Facebook"
 - ['[Zeritus](@/w/zeritus.md)', '[Shadow](@/w/shadow.md)']
 - credits:
     Ring Announcer: Adi
-    Referee: Tony Sheen
+    Referee: "[Tony Sheen](@/w/riverman.md)"
 {% end %}
 
 ### References
