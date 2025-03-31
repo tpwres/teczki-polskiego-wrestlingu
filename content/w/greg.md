@@ -51,15 +51,15 @@ Greg also became the leader of a new heel faction named Gałąź Gregoriańska (
 
 At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeated David Oliwa to win the [KPW Championship](@/c/kpw-championship.md), vacated when [Robert Star](@/w/robert-star.md) left KPW to join [Prime Time Wrestling](@/o/ptw.md). Eleven months later he lost the title to [Red Scorpion](@/w/red-scorpion.md).
 
-#### End Of The Gregorian Branch
+#### End of the Gregorian Branch
 
-At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost his match against [Ron Corvus](@/w/ron-corvus.md). After the match he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the KPW Old Town Championship to Chemik. A few moments later, Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch. With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader. But nowadays after his losing streak, he was no longer worth following. 
+At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost his match against [Ron Corvus](@/w/ron-corvus.md). After the match he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the KPW Old Town Championship to Chemik. A few moments later, Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch. With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but now, after his losing streak, he was no longer worth following. 
 
-This betrayal led to his rivalry against Rosetti, which resulted in a double-count out draw in a KPW Championship Contendership Qualifying Match at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). During the same show [Krystian Malinowski](@/w/krystian-malinowski.md) was attacked and his role of KPW's Chairman was usurped by Rosetti himself. Acting chairman quickly set up a Handicap Match with himself and KPW's new powerhouse - Tomczak - against Greg, but during [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) Rosetti pulled himself out of the match, leaving Tomczak against Greg, but putting every obstacle possible just to see his former leader lose against debutee. 
+This betrayal led to his rivalry with Rosetti, which resulted in a double-count out draw in a KPW Championship Contendership Qualifying Match at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). During the same show [Krystian Malinowski](@/w/krystian-malinowski.md) was attacked and his role of KPW's Chairman was taken over by Rosetti himself (supposedly acting with accordance to Malinowski's wishes). The acting chairman quickly set up a Handicap Match with himself and KPW's new powerhouse Tomczak against Greg, but during [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) Rosetti pulled himself out of the match (citing being overwhelmed with his new managerial duties), leaving Tomczak alone against Greg, but putting every obstacle possible just to see his former leader lose against the debutant.
 
 ### Legacy of Wrestling (2025)
 
-On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling scene [Vic Golden](@/w/vic-golden.md) would face each other at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). This match is the [Legacy](@/o/low.md) debut for both of them.
+On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling scene, [Vic Golden](@/w/vic-golden.md), would face each other at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). This match is the [Legacy](@/o/low.md) debut for both of them.
 
 ## In wrestling
 
