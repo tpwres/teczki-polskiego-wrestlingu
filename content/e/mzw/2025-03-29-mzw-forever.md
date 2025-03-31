@@ -65,6 +65,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=418717)
+* Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=YjfpMc5lpU0), [part 2](https://www.youtube.com/watch?v=XvbIG1wle6E)
 
 [announcement-post]: https://www.facebook.com/photo/?fbid=999843182174072&set=a.548442050647523
 [marcelito-announced]: https://www.facebook.com/photo/?fbid=1032056675619389&set=a.548442050647523
