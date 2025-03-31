@@ -1,7 +1,7 @@
 +++
 title = 'Tony "The Riverman" Sheen'
 template = "talent_page.html"
-authors = ["Szymon Iwulski]
+authors = ["Szymon Iwulski"]
 [extra]
 toclevel = 2
 [taxonomies]
