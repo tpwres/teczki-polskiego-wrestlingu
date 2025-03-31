@@ -22,7 +22,7 @@ source = "Official MZW Facebook"
 - - '[Ring Rat](@/w/sedzia-seweryn.md)'
   - 'Anatolii'
   - '[Krueger](@/w/olgierd.md)'
-  - 'Hexia'(@/w/hexia.md)'
+  - 'Hexia(@/w/hexia.md)'
   - g: Ring Rat's promo explaining why he doesn't have a match. 
     n: Exact place on the card uncertain.
 - - '[Rafael Kid](@/w/rafael-kid.md)'
@@ -37,7 +37,6 @@ source = "Official MZW Facebook"
     Host, Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
     Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
-
 
 ## Recap
 * Ring Rat's promo was interrupted by Anatolii, giving him a Big Boot. Anatolii was then attacked by Krueger, who in turn was chokeslammed by Hexia.
