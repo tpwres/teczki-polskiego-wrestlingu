@@ -35,7 +35,7 @@ source = "Official MZW Facebook"
   - "[Mister Z](@/w/mister-z.md)"
 - credits:
     Ring Announcer: Adi
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), Tony Sheen'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Tony Sheen](@/w/riverman.md)'
 {% end %}
 
 ## References
