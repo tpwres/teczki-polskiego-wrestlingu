@@ -16,6 +16,9 @@
 {% else %}
   {% set default_stip = "Singles Match" %}
 {% endif %}
+{% if segment %}
+  {% set default_stip = "" %}
+{% endif %}
 {% if final.nc %}
     {% set sep = "vs" %}
 {% else %}
@@ -56,6 +59,7 @@
 <br/>
 {% if segment and segment is string %}
   {{ segment | markdown(inline=true) | safe }}
+  <br/>
 {% endif %}
 {{ title | default(value="") | markdown(inline=true) | safe }}
 {{ stip | default(value=default_stip) | markdown(inline=true) | safe }}
