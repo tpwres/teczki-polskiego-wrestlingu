@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "tony-2-sheen.webp", caption = "Tony Sheen attacks [Matt2Hott](@/w/matt2hot.md).", source = "Tutaj Iwul dopisz, bo ja nie wiem. :P" }
+1 = { path = "tony-2-sheen.webp", caption = "Tony Sheen attacks [Matt2Hott](@/w/matt2hot.md).", source = "competitor's private archive" }
 +++
 
 ## Basic info
