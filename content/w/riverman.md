@@ -21,7 +21,7 @@ country = ["PL"]
 
 ### Various backyard promotions
 
-Over the span of 2010s, Sheen competed for various Polish backyard promotions, including [PXW](@/o/pxw.md), WSW and [WKSW](@/o/wksw.md)
+Over the span of 2010s, Sheen competed for various Polish backyard promotions, including [PXW](@/o/pxw.md), WSW and [WKSW](@/o/wksw.md). Per his account, he main-evented the final WKSW show.
 
 ### Maniac Zone Wrestling (2023-)
 
