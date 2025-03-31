@@ -43,7 +43,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
     s: Tag-Team Match
 - - 'Dieter Schwartz'
   - '[Sambor](@/w/sambor.md)'
-- - 'Tony "The Riverman" Sheen'
+- - '[Tony "The Riverman" Sheen](@/w/riverman.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - n: Sheen wins after being distracted by Taras's music suddenly playing
 - - '[Disco Pablo](@/w/disco-pablo.md)'
