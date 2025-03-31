@@ -7,15 +7,15 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "tony-2-sheen.webp", caption = "Tony Sheen attacks [Matt2Hott](@/w/matt2hot.md).", source = "competitor's private archive" }
+1 = { path = "tony-2-sheen.webp", caption = "Tony Sheen attacks [Matt2Hott](@/w/matt2hot.md).", source = "Tony Sheen's private archive" }
 +++
 
 ## Basic info
 * Years active: 
 * Gimmicks/nicknames:
-  - Tony "The Riverman" Sheen {{ org_badge(orgs=['mzw']) }}
-  - Tony Sheen {{ org_badge(orgs=['mzw']) }}
   - "Aparycja" Tony Sheen (backyard)
+  - Tony Sheen {{ org_badge(orgs=['mzw']) }}
+  - Tony "The Riverman" Sheen {{ org_badge(orgs=['mzw']) }}
 
 * Trained by:
   - [Shadow](@/w/shadow.md)
@@ -23,7 +23,7 @@ country = ["PL"]
  
 ## Professional wrestling career
 
-### Various backyard promotions (2011-2014
+### Various backyard promotions (2011-2014)
 
 Over the span of 2010s, Sheen competed for various Polish backyard promotions, including [PXW](@/o/pxw.md), WSW and [WKSW](@/o/wksw.md). He earned the nickname "Aparycja" (_Appearance_), due to his unique look, called out in a [backstage video from Backyardmania IV][bm4].
 Per his account, he main-evented the final WKSW show. Most of the promotion's cards and shows are considered lost media.
