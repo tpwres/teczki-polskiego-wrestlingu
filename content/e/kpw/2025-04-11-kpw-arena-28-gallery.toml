@@ -2,4 +2,4 @@
 0001 = { path = "schulte-vs-michal.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Official KPW Facebook" }
 0002 = { path = "greg-vs-lesak.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
 0003 = { path = "chemik-vs-filip.webp", caption = "Image announcing [Chemik](@/w/chemik.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
-0004 = { path = "oliva-vs-st-john.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs Toby St. John.", source = "Official KPW Facebook" }
+0004 = { path = "oliwa-vs-st-john.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs Toby St. John.", source = "Official KPW Facebook" }
