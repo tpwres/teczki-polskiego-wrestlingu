@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "greg-arena-24.jpg", caption = "Greg in his papal robes at [Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)", source = "Krzysztof Zych" }
 +++
 
-Greg is a Polish wrestler best known for his appearances in [Kombat Pro Wrestling](@/o/kpw.md), [Do Or Die Wrestling](@/o/ddw.md) and [Legacy of Wrestling](@/o/low.md). 
+Greg is a Polish wrestler best known for his appearances in [Kombat Pro Wrestling](@/o/kpw.md), [Do Or Die Wrestling](@/o/ddw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
@@ -20,12 +20,12 @@ Greg is a Polish wrestler best known for his appearances in [Kombat Pro Wrestlin
 * Trained by:
   - DDW Academy (2014-2015)
   - KPW Academy (2015-2024)
- 
+
 ## Professional wrestling career
 
 ### Do Or Die Wrestling (2014-2015)
 
-GREG made his first appearance in [Do Or Die Wrestling](@/o/ddw.md) in August 2014 during [Adept Showcase](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) event in a Tag Team Match, where he teamed up with Wielki G as "Double G" to face - and being defeated by - [Piękny Kawaler](@/w/piekny-kawaler.md) and Kamil Leśny. Initially he worked as babyface with a rapper gimmick. This can be seen in a promo video, where he [challenges Robert Star][greg-rap] for their fight at [DDW House Show #2](@/e/ddw/2015-05-02-ddw-house-show-2.md). He made a total of six apperances in DDW. For the last show DDW [show at Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) he officially joined Kawaleria - a villainous stable led by Piękny Kawaler.
+GREG debuted in [Do Or Die Wrestling](@/o/ddw.md) in August 2014 during [Adept Showcase](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) event in a Tag Team Match, where he teamed up with Wielki G as "Double G" to face - and lose to - [Piękny Kawaler](@/w/piekny-kawaler.md) and Kamil Leśny. Initially he worked as babyface with a rapper gimmick. This can be seen in a promo video, where he [challenges Robert Star][greg-rap] for their fight at [DDW House Show #2](@/e/ddw/2015-05-02-ddw-house-show-2.md). He made a total of six appearances. At DDW's [final show at Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) he officially joined Kawaleria - a villainous stable led by Piękny Kawaler.
 
 ### Kombat Pro Wrestling (2015-present)
 
@@ -39,23 +39,23 @@ At first typically placed in the mid-card, Greg slowly but surely started gainin
 
 #### KPW OldTown Champion
 
-At [KPW OldTown 2](@/e/kpw/2017-07-23-kpw-oldtown-2.md) Greg became the inaugural [OldTown Champion](@/c/kpw-old-town-championship.md) by defeating [Peter Pannache](@/w/peter-pannache.md) and held the title for nearly two years, defending it in a matches against wrestlers such as [Fynn Freyhart](@/w/fynn-freyhart.md), [Lee Rogers](@/w/lee-rogers.md) and Tristan Archer. He eventually lost it to [David Oliwa](@/w/david-oliwa.md) in a "I Quit" Match at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md).
+At [KPW OldTown 2](@/e/kpw/2017-07-23-kpw-oldtown-2.md) Greg became the inaugural [OldTown Champion](@/c/kpw-old-town-championship.md) by defeating [Peter Pannache](@/w/peter-pannache.md) and held the title for nearly two years, defending it in a matches against wrestlers such as [Fynn Freyhart](@/w/fynn-freyhart.md), [Lee Rogers](@/w/lee-rogers.md) and Tristan Archer. He eventually lost it to [David Oliwa](@/w/david-oliwa.md) in an "I Quit" Match at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md).
 
 #### The Pope of Polish Wrestling
 
 At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) Greg betrayed and attacked the already-defeated [Piękny Kawaler](@/w/piekny-kawaler.md), who up to this point was the leader of Kawaleria.
-Following that incident, Greg anointed himself the pope of Polish wrestling, Pijus I (roughly _Drinkus I_, but also a reference to Pius, a popular papal name).
+Following that incident, Greg anointed himself the Pope of Polish wrestling, Pijus I (roughly _Drinkus I_, but also a reference to Pius, a popular papal name).
 This has been his gimmick ever since. As Pope Pijus, his entrance routine has him enter dressed in long monasterial robes with a hood, and walk around the ring presenting a signet ring to fans, who are allowed to bow down and kiss it.
 Initially, he was also accompanied by [Chemik](@/w/chemik.md) who wore a surplice, as his junior priest or altar boy. Sometimes, during the match, Chemik would go around the ring, collecting donations into a wicker basket tray, mimicking a custom from a Catholic Mass.
-Greg also became the leader of a new heel faction named Gałąź Gregoriańska (_The Gregorian Branch_), which can be seen as the new version of Kawaleria. This faction also includes Chemik, [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md).
+Greg also became the leader of a new heel faction named Gałąź Gregoriańska (_The Gregorian Branch_), which could be seen as the new version of Kawaleria. This faction also included Chemik, [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md).
 
 At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeated David Oliwa to win the [KPW Championship](@/c/kpw-championship.md), vacated when [Robert Star](@/w/robert-star.md) left KPW to join [Prime Time Wrestling](@/o/ptw.md). Eleven months later he lost the title to [Red Scorpion](@/w/red-scorpion.md).
 
 #### End of the Gregorian Branch
 
-At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost his match against [Ron Corvus](@/w/ron-corvus.md). After the match he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the KPW Old Town Championship to Chemik. A few moments later, Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch. With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but now, after his losing streak, he was no longer worth following. 
+At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost his match against [Ron Corvus](@/w/ron-corvus.md). After the match, he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the KPW Old Town Championship to Chemik at [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md). A few moments later, Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch. With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but now, after his losing streak, he was no longer worth following.
 
-This betrayal led to his rivalry with Rosetti, which resulted in a double-count out draw in a KPW Championship Contendership Qualifying Match at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). During the same show [Krystian Malinowski](@/w/krystian-malinowski.md) was attacked and his role of KPW's Chairman was taken over by Rosetti himself (supposedly acting with accordance to Malinowski's wishes). The acting chairman quickly set up a Handicap Match with himself and KPW's new powerhouse Tomczak against Greg, but during [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) Rosetti pulled himself out of the match (citing being overwhelmed with his new managerial duties), leaving Tomczak alone against Greg, but putting every obstacle possible just to see his former leader lose against the debutant.
+This betrayal led to his rivalry with Rosetti, which resulted in a double-count out draw in a KPW Championship Contendership Qualifying Match at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). During the same show [Krystian Malinowski](@/w/krystian-malinowski.md) was attacked and his role of KPW's Chairman was taken over by Rosetti himself (supposedly acting in accordance with Malinowski's wishes). The acting chairman quickly set up a Handicap Match with himself and KPW's new powerhouse Tomczak against Greg, but during [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) Rosetti pulled himself out of the match (citing being overwhelmed with his new managerial duties), leaving Tomczak alone against Greg, but putting every obstacle possible just to see his former leader lose against the debutant.
 
 ### Legacy of Wrestling (2025)
 
@@ -66,12 +66,10 @@ On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling
 * Finishers:
   - Pedigree (2019-)
   - _Jajacha_ (Crotch-lift release German suplex) (2015-2019); adopted from [Piękny Kawaler](@/w/piekny-kawaler.md)
-
 * Tag Teams and stables:
   - Double G (2014)
   - Kawaleria (2015-2019)
   - Gałąź Gregoriańska (2019-2024)
-
 * Entrance music:
   - "Year Zero" by Ghost
  {{ org_badge(orgs=['kpw']) }} (2019-2023) <br>

@@ -20,19 +20,19 @@ Hans Schulte is a German wrestler best known to Polish audiences for his time in
 * Trained by:
   - Nordisch Fight Club
 
-## Professional wrestling career 
+## Professional wrestling career
 
 ### Kombat Pro Wrestling (2022-present)
 
-#### Die Ordung
+#### Die Ordnung
 
 Hans Schulte made his debut in Poland working for [Kombat Pro Wrestling](@/o/kpw.md) at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md), where he and his tag team partner [Veit Müller](@/w/veit-mueller.md) - forming a tag team called Die Ordnung - won the Four-Way Elimination Tag Team Match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). They managed to hold the title for 335 days, defending them against such teams as the Fux Brothers and [Leon Lato](@/w/leon-lato.md) & [Zefir](@/w/zefir.md). They finally lost the championship at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) in their second bout against the Fux Brothers.
 
 #### KPW Champion
 
-After losing their Tag Team Championship to Fux Brothers, Die Ordnung seemingly split to focus on their singles careers in KPW. Hans unexpectedly won the Magnificent Seven No-DQ Elimination Championship Contract Ladder Match at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), which allowed him to cash in the contract the same night, challenging the reigning [KPW Champion](@/c/kpw-championship.md) [Red Scorpion](@/w/red-scorpion.md) after his main event victory against Jack Jester. Hans was successful in his cash-in match and become the new KPW Champion.
+After losing their Tag Team Championship, Die Ordnung seemingly split to focus on their singles careers in KPW. Hans unexpectedly won the Magnificent Seven No-DQ Elimination Championship Contract Ladder Match at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), which allowed him to cash in the contract the same night, challenging the reigning [KPW Champion](@/c/kpw-championship.md) [Red Scorpion](@/w/red-scorpion.md) after his main event victory against Jack Jester. Hans was successful in his cash-in match and become the new KPW Champion.
 
-At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in a rematch, and after [Michał Fux](@/w/michal-fux.md) won #1 Contendership tournament they are set for a Singles Match at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md).
+At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in a rematch, and after [Michał Fux](@/w/michal-fux.md) won the #1 Contendership tournament, they are set for a Singles Match at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md).
 
 ## In Wrestling
 
