@@ -17,7 +17,8 @@ city = "Chorzów"
   - "Samsonito: [Marcelito](@/w/marcelito.md), [Samson](@/w/samson.md)"
   - {s: "Tag Team Match"}
 - ["[King Kaiden](@/w/king-kaiden.md)", "[Sędzia Rafał](@/w/alex-brave.md)"]
-- ["[Sambor](@/w/sambor.md)", "Jarek Nowak"]
+- - "[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)"
+  - "Jarek Nowak"
 - ["[Axel Fox](@/w/axel-fox.md)", "[Wiktor Longman](@/w/wiktor-longman.md)", {r: "DQ"}]
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
