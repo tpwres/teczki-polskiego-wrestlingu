@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Gracjan Korpo is a retired Polish wrestler known for his appearances in [Kombat Pro Wrestling](@/o/kpw.md), [Prime Time Wrestling](@/o/ptw.md) and [Do Or Die Wrestling](@/o/ddw.md)
+Gracjan Korpo is a retired Polish wrestler known for his appearances in [Kombat Pro Wrestling](@/o/kpw.md), [Prime Time Wrestling](@/o/ptw.md) and [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 
