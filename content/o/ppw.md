@@ -9,12 +9,7 @@ chrono_root = ["ppw"]
 year_list_start = 2010
 toclevel = 3
 [extra.gallery]
-1 = { path = "backyard_korzenie.jpg", caption = '[Mister Z](@/w/mister-z.md) (left) and [Gustav Gryffin](@/w/gustav-gryffin.md) in front of presumably the new ring. Text: "Today Mister Z showed me his roots"' }
-2 = { path = "biesiad_dive.jpg", caption = '[Biesiad](@/w/biesiad.md) testing the new ring by diving into some foam padding. Text: What a backyard, oh fuuuck.' }
-3 = { path = "zet_supron.jpg", caption = 'Andrzej Supron and Mister Zet shaking hands.' }
-4 = { path = "pas-ppw-2012.jpg", caption = "PpW's [main title belt](https://ppw-fandom.tpwres.pl/pas-ppw) from the backyard era (2012 design pictured)", source = "Official PpW Wikia, via Ville Paananen" }
-5 = { path = "dark-black-skull-z-pasem-skulla.jpg", caption = "Backyard-era wrestler [Dark Black Skull](@/w/mister-z.md) with his hand-made [Skull's Belt](https://ppw-fandom.tpwres.pl/pas-skulla) (_Pas Skulla_) .", source = "Official PpW Wikia, via Ville Paananen" }
-
+manifest = "@/o/ppw-gallery.toml"
 +++
 
 PpW is a wrestling promotion from Warsaw. It styles itself as a fully independent, self-sufficient organization with no commercial affiliations.
@@ -24,6 +19,8 @@ Their wrestling style used to rely heavily on hardcore and deathmatches, but it 
 
 There was no canonical meaning of the PpW acronym, however recently it was repurposed to match "Piwo Przyjacielem Wrestlingu" (_Beer is Wrestling's Friend_).
 The official name is just "PpW Ewenement". The word _ewenement_ means something unique, special and not easily replicated, and could be translated as "phenomenon" or "anomaly".
+
+PpW initially used the terms "Hardcore Wrestling" or "Hybrid Wrestling", but began to use "Ewenement" in the late 2020. On 27.04.2022 they [introduced a new logo][ewenement-logo], which officially marks the beginning of "Ewenement Wrestling" as a part of the promotion's name.
 
 ### History
 
@@ -106,7 +103,6 @@ In their backyard era, PpW were always well connected with the other organizatio
 As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization.
 After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
 
-
 ## Mainstream media
 
 On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured [a brief segment][halo-tu-ppw] with PpW's wrestlers [Biesiad](@/w/biesiad.md), [Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Gustav brought his custom [PpW Championship](@/c/ppw-championship.md) belt, which was prominently displayed on a coffee table, with PpW's logo clearly legible.
@@ -145,3 +141,4 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 [halo-tu-ppw]: https://youtu.be/rbscVyOSjn0?si=Li0WYQoHiVM9V-Pe
 [newonce-pt-1]: https://www.youtube.com/watch?v=KT8PHRlnSxI
 [ppw-vod]: https://ppw-ewenementpl.vhx.tv
+[ewenement-logo]: https://www.facebook.com/photo/?fbid=2150678838439647&set=a.158941800946704
