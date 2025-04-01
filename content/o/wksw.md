@@ -17,7 +17,7 @@ Starting out as WFW (Wołowska Federacja Wrestlingu, _Wołów Wrestling Federaio
 As the group grew, drawing in other teenagers sharing their love for wrestling, they were able to pool their resources to book time in a sports hall to train and stage their shows.
 Later, after fulfilling some legal requirements, the group registered as a sports club, prompting the name change to Wrestlingowy Klub Sportowy Wołów (_Wrestling Sports Club Wołów_).
 
-WKSW often took part in local festivals and charity events, even appearing at the 22nd Grand Finale of the [Great Orchestra of Christmas Charity][wosp] in January 2014. The group was also actively supported by Andrzej Supron, which included lending them his ring, previously used by [Total Blast Wrestling](@/o/tbw.md).
+WKSW often took part in local festivals and charity events, even appearing at the 22nd Grand Finale of the [Great Orchestra of Christmas Charity][wosp] in January 2014. The group was also actively supported by [Andrzej Supron](@/w/andrzej-supron.md), which included lending them his ring, previously used by [Total Blast Wrestling](@/o/tbw.md).
 
 The group attracted more media attention than other backyards: newspaper publication Angora printed a short column in 2011, and according to their crowdfunding page (see below), regional broadcaster TVP Wrocław took interest, as well as the commercial Polsat (on their flagship news show Wydarzenia, on 2014-03-22) and TVN networks.
 
