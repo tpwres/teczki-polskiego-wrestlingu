@@ -12,13 +12,13 @@ chrono_root = ["tbw"]
 manifest = "@/o/tbw-gallery.toml"
 +++
 
-Total Blast Wrestling was a short-lived organization created by Andrzej Supron and Paweł Borkowski, after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
+Total Blast Wrestling was a short-lived organization created by [Andrzej Supron](@/w/andrzej-supron.md) and Paweł Borkowski, after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
 
 ### History
 
 #### Before 2006: PPWF
 
-Back in 1993, Andrzej Supron was instrumental in bringing the independent American "World Wrestling Superstars" tour to Poland. This was the first professional wrestling event in the country since the interwar period.
+Back in 1993, [Andrzej Supron](@/w/andrzej-supron.md) was instrumental in bringing the independent American "World Wrestling Superstars" tour to Poland. This was the first professional wrestling event in the country since the interwar period.
 Some years later, likely in the early 2000s, Paweł Borkowski came to Supron with a plan to create the first pro wrestling federation in the country.
 The name for this was simply "Polish Pro-Wrestling Federation", or PPWF.
 However, the results were much more modest than expected: unable to secure foreign names, the organization had to rely only on home-grown talent.

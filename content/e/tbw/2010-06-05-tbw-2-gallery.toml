@@ -18,7 +18,7 @@ skip_art = true
 
 [04]
 path = "IMG_7223_1.jpeg"
-caption = 'Owner, organiser and commentator Andrzej "The Professor of Wrestling" Supron'
+caption = 'Owner, organiser and commentator [Andrzej "The Professor of Wrestling" Supron](@/w/andrzej-supron.md)'
 source = "wrestling.nazwa.pl"
 skip_art = true
 
@@ -72,7 +72,7 @@ skip_art = true
 
 [13]
 path = "IMG_7353_1.jpeg"
-caption = "Commentary team: [Borkowski](@/w/pawel-borkowski.md) and Supron"
+caption = "Commentary team: [Borkowski](@/w/pawel-borkowski.md) and [Supron](@/w/andrzej-supron.md)"
 source = "wrestling.nazwa.pl"
 skip_art = true
 
@@ -204,6 +204,6 @@ skip_art = true
 
 [35]
 path = "IMG_7677_1.jpeg"
-caption = "Andrzej Supron surrounded by women at the afterparty"
+caption = "[Andrzej Supron](@/w/andrzej-supron.md) surrounded by women at the afterparty"
 source = "wrestling.nazwa.pl"
 skip_art = true

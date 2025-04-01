@@ -37,7 +37,7 @@ TNT, an American TV channel that mainly focused on classic films, reached Poland
 TNT aired World Championship Wrestling's Nitro flagship show, later joined by Thunder (the B-show) directly afterwards, on Friday at 22:00. Notably, this was broadcast with original English commentary only. This lasted until the organization went defunct in 2001.
 
 
-In 1998, a new general TV channel named Wizja&nbsp;1 (_Vision&nbsp;1_) was launched. Its programming also included wrestling, on Saturdays at 18:00 (6&nbsp;PM), airing WWF Superstars with commentary by Tomasz Lorek, Grzegorz Kalinowski and Andrzej Supron.
+In 1998, a new general TV channel named Wizja&nbsp;1 (_Vision&nbsp;1_) was launched. Its programming also included wrestling, on Saturdays at 18:00 (6&nbsp;PM), airing WWF Superstars with commentary by Tomasz Lorek, Grzegorz Kalinowski and [Andrzej Supron](@/w/andrzej-supron.md).
 
 Also around 1998, general purpose channel Polsat&nbsp;2 aired WCW, though not the flagship show but older episodes of Worldwide and recaps. The show was named "Wszystkie Chwyty Dozwolone" (_No Holds Barred_) and aired on Saturday mornings, with commentary by Michał Olszański and others.
 

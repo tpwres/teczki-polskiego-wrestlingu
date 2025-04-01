@@ -37,7 +37,7 @@ An even more condensed version, in the form of a timeline graph covering the mod
 
 #### 1974
 
-* Andrzej Supron travels to USA, discovers pro wrestling on TV. Later meets Killer Kowalski and Ivan Putski, two wrestlers of Polish origin. Putski convinces Supron to try and start presenting pro wrestling in Poland.
+* [Andrzej Supron](@/w/andrzej-supron.md) travels to USA, discovers pro wrestling on TV. Later meets Killer Kowalski and Ivan Putski, two wrestlers of Polish origin. Putski convinces Supron to try and start presenting pro wrestling in Poland.
 
 #### 1980s
 
@@ -155,7 +155,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2024
 
-* PpW buys their first full sized ring from Andrzej Supron, the same one he bought for PPWF some 20 years ago, and later used by [TBW](@/o/tbw.md) and [WKSW](@/o/wksw.md).
+* PpW buys their first full sized ring from [Andrzej Supron](@/w/andrzej-supron.md), the same one he bought for PPWF some 20 years ago, and later used by [TBW](@/o/tbw.md) and [WKSW](@/o/wksw.md).
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
 * As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
 * PpW opens their training facility to the public, dubbed [Ewenement Dojo](@/o/ewenement-dojo.md). They hold a summer camp, with initial trainer being [Jacob Crane](@w/jacob-crane.md), later replaced by [Axel Fox](@/w/axel-fox.md) after former's departure to Japan.

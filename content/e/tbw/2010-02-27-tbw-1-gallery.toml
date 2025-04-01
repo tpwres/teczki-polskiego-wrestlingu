@@ -5,7 +5,7 @@ source = "MyWrestling.com.pl"
 
 [02]
 path = "DSC_4585_1.JPG"
-caption = "Andrzej Supron opening the show"
+caption = "[Andrzej Supron](@/w/andrzej-supron.md) opening the show"
 source = "wrestling.nazwa.pl"
 skip_art = true
 
@@ -179,7 +179,7 @@ skip_art = true
 
 [31]
 path = "DSC_4916_1.JPG"
-caption = "[Borkowski](@/w/pawel-borkowski.md) and Supron in the commentary booth, with the Eurostars belt"
+caption = "[Borkowski](@/w/pawel-borkowski.md) and [Supron](@/w/andrzej-supron.md) in the commentary booth, with the Eurostars belt"
 source = "wrestling.nazwa.pl"
 skip_art = true
 

@@ -73,7 +73,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
-    Special Guest Commentary: 'Andrzej Supron, [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)'
+    Special Guest Commentary: '[Andrzej Supron](@/w/andrzej-supron.md), [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)'
     English Commentary: '[Lewis Costello](@/w/lewis-costello.md), [Santino](@/w/santino.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
@@ -84,7 +84,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 * After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a [women's title](@/c/ptw-womens-championship.md).
 * Nano was pinned, but managed to lift one shoulder for the three count. The ref initially awarded [Krampus](@/w/krampus.md) the victory, but as he was about to reverse this decision, Krampus decked him and kicked out of the ring. [Sinister](@/w/sinister.md) arrived to deliver more punishment to Lopez.
 * Mario Pardua, a wrestler of Polish origin fighting in the Chicago area, introduced himself in a video clip. In Polish, he declared he's ready for Prime Time Wrestling. The crowd chanted CM-PUNK at him. Pawłowski added that Pardua is currently fighting for NWA, and that he's been signed to PTW.
-* After Lince Dorado's entrance, Supron and [Borkowski](@/w/pawel-borkowski.md) joined the Polish commentary team.
+* After Lince Dorado's entrance, [Supron](@/w/andrzej-supron.md) and [Borkowski](@/w/pawel-borkowski.md) joined the Polish commentary team.
 * Lince kicked out of the Styles clash, hitting the ref in the face with his feet. PJ Black hit the Placebo Effect to win.
 * MxM received warmly by the audience, only to immediately turn heel and cut a promo calling them and the Polish language ugly. Cue chants of STFU.
 * PAKA entered to Bonnie Tyler's _Holding out for a hero_. Coincidentally, the actual Bonnie Tyler was giving a concert in Poland the next day, Sunday Feb 4.
