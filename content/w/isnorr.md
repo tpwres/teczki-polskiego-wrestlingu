@@ -66,7 +66,7 @@ At [Teraz Albo Nigdy](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Isnorr entered 
 ## In wrestling
 
 * Finishers:
-  - Spear (2017-
+  - Spear (2017-)
   - Spinning Side Slam (2016-2017)
   - Frog Splash (2017)
 
