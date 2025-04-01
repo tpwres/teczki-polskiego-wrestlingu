@@ -23,7 +23,7 @@
 5002 = { path = "m3-sheen-vs-pablo-2.webp", caption = "Tony Sheen's fisherman's raincoat.", source = "M3n747" }
 5003 = { path = "m3-sheen-vs-pablo-3.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) dancing with a fan.", source = "M3n747" }
 5004 = { path = "mk-riverman-disco.webp", caption = "[Tony Sheen](@/w/riverman.md) gives a Big Boot to [Disco Pablo](@/w/disco-pablo.md), as [Sędzia Seweryn](@/w/sedzia-seweryn.md) observes the action.", source = "Kawczun" }
-6001 = { path = "m3-pablo-receives-medical-help", caption = "Disco Pablo receives medical attention from a medical staff member. Around them stand [Dziedzic](@/w/dziedzic.md), Marcelito, [Jędruś Bułecka](@/w/jedrus-bulecka.md) and Adrian Zgórski.", source = "M3n747" }
+6001 = { path = "m3-pablo-receives-medical-help.webp", caption = "Disco Pablo receives medical attention from a medical staff member. Around them stand [Dziedzic](@/w/dziedzic.md), Marcelito, [Jędruś Bułecka](@/w/jedrus-bulecka.md) and Adrian Zgórski.", source = "M3n747" }
 7001 = { path = "m3-z-vs-kubes-1.webp", caption = "[Mister Z's](@/w/mister-z.md) entrance.", source = "M3n747" }
 7002 = { path = "mk-z-among-the-people.webp", caption = "Mister Z after being thrown out of the ring by Kubes.", source = "Kawczun" }
 8001 = { path = "m3-main-event-1.webp", caption = "[Mister Z](@/w/mister-z.md) watches the main event from the audience.", source = "M3n747" }
@@ -32,8 +32,8 @@
 8004 = { path = "mk-main-event-1.webp", caption = "[Aron Wake](@/w/aron-wake.md) gets ready to strike [Shadow](@/w/shadow.md) while he's down.", source = "Kawczun" }
 8005 = { path = "mk-main-event-1.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) grabs [Aron Wake's](@/w/aron-wake.md) kendo stick to prevent him from hitting the downed [Shadow](@/w/shadow.md).", source = "Kawczun" }
 8006 = { path = "m3-main-event-5.webp", caption = "Aron Wake about to launch himself at Shadow.", source = "M3n747" }
-8007 = { path = "mk-main-event-3", caption = "[Matt Buckna](@/w/matt-buckna.md) sets up Shadow and Aron Wake for a Double Chokeslam…", source = "Kawczun" }
-8008 = { path = "mk-main-event-3", caption = "…and delivers.", source = "Kawczun" }
+8007 = { path = "mk-main-event-3.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) sets up Shadow and Aron Wake for a Double Chokeslam…", source = "Kawczun" }
+8008 = { path = "mk-main-event-3.webp", caption = "…and delivers.", source = "Kawczun" }
 8009 = { path = "m3-main-event-7.webp", caption = "Aron Wake laid out outside of the ring.", source = "M3n747" }
 8010 = { path = "mk-main-event-5.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) performs a Double Superplex on Shadow and Marcelito.", source = "Kawczun" }
 8011 = { path = "mk-main-event-6.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) stares down Mister Z.", source = "Kawczun" }
