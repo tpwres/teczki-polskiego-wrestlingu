@@ -36,7 +36,7 @@ Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.m
 
 Goblin made his debut in [PpW Ewenement](@/o/ppw.md) at [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md), where he faced [Adam Wong](@/w/adam-wong.md).
 He debuted in a babyface "Acid Messiah" gimmick, which quickly gained him a lot of positive reception from the fans thanks to his chaotic nature, psychedelic promos and fondness for beer. His debut was preceded by a [vignette][tarot-goblina] where he sat reading Tarot cards as a parody of late-night TV fortune tellers, discovering his "future" as unexpected cards with the event's date, location and his opponent's face.
-At [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) he lost his second match to Javier Vives. Despite that, he quickly gained popularity, gathering a devoted fanbase called "Gobliniarze" (which can be roughly translated as "Goblinators").
+Another vignette, where Goblin goes ["All In!"][goblin-poker] on a Texas Hold'em hand, losing it to an invisible opponent preceded his second match, at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) against Javier Vives. Despite losing both of these matches, he quickly gained popularity, gathering a devoted fanbase called "Gobliniarze" (which can be roughly translated as "Goblinators").
 
 #### Feud with Gustav Gryffin
 
@@ -46,7 +46,7 @@ This rivalry led them to face each other in a No Holds Barred #1 Contender Match
 
 #### GobLis and feud with Zmowa
 
-During the build-up to [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) Gustav reached up to Legia Łysych member [Olgierd](@/w/olgierd.md) offering the team a match against Acid Messiah.
+During the build-up to [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) Gustav reached out to Legia Łysych member [Olgierd](@/w/olgierd.md) offering the team a match against Acid Messiah.
 Additionally, unless Goblin is able to find a partner, it was to be a handicap match. This was a problem for him, as many potential allies already had issues of their own - [Gabriel Queen](@/w/gabriel-queen.md) (who just lost a tag match to Legia) was facing [Jacob Crane](@/w/jacob-crane.md); [Biesiad](@/w/biesiad.md) challenged Gustav for the PpW Championship, and [Johnny Blade](@/w/johnny-blade.md) was defending his newly regained [European UV Championship](@/c/ppw-european-ultraviolent-championship.md).
 At the show, Goblin stood up against Legia Łysych alone and cut a short promo, mentioning how Legia Łysych got under many people's skin even before they came in to PpW in June that year, and that one such person came to PpW to get his hands on Legia. This marked the surprise debut of [Axel Fox](@/w/axel-fox.md), who teamed up with Goblin as a team quickly named by PpW fans as "GobLis". However, due to Mister Z's interference in the match, they were unable to defeat Legia Łysych.
 
@@ -66,7 +66,7 @@ The Acid Messiah did that by eliminating his Tag Team partner and friend Axel Fo
 
 ### Maniac Zone Wrestling
 
-In March 2023, Goblin made his in-ring debut for Maniac Zone Wrestling during [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), against German wrestler Robert Kaiser.
+In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling during [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), against German wrestler Robert Kaiser.
 
 ## In wrestling
 
@@ -101,3 +101,4 @@ In March 2023, Goblin made his in-ring debut for Maniac Zone Wrestling during [M
 
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [tarot-goblina]: https://www.youtube.com/watch?v=AsEqQwh0idg
+[goblin-poker]: https://www.youtube.com/watch?v=2Fiyos4xT8g
