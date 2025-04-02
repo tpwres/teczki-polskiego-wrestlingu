@@ -120,7 +120,7 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - >
-    Defeated [Johnny Blade](@/w/johnny-blade.md) at [Co Za Noc](@/w/ppw/2024-10-26-ppw-co-za-noc.md).
+    Defeated [Johnny Blade](@/w/johnny-blade.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
 {% end %}
 
 ## Internet presence
