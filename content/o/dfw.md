@@ -28,11 +28,11 @@ Dream Factory, unlike other backyards, did not do any sort of ultraviolent match
 
 #### Before 2015: Local backyard
 
-Dream Factory Wrestling came to be as a result of two backyard organizations merging: Toruń Wrestling Federation (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence.
+Dream Factory Wrestling came to be as a result of two backyard organizations merging: Toruń Wrestling Federation (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence. According to Chris Hunter, the idea to start his own wrestling project came to him while he was returning home from Elbląg, where he was participating in the backyard group EKW.
 
 #### 2015: The first shows
 
-The new organization named itself after its members' shared dream to be wrestlers, hence "Dream Factory". In May 2015, [Chris Hunter](@/w/chris-hunter.md) posted about getting their own ring and holding a total of 10 training sessions before their [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June that year.
+The new organization named itself after its members' shared dream to be wrestlers, hence "Dream Factory". In May 2015, [Chris Hunter](@/w/chris-hunter.md) posted about getting their own ring and holding a total of 10 training sessions before their [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June that year. According to Hunter, the first ring which they built tended to collapse after bumps. Their second, improved ring was Chris's birthday gift from his dad.
 
 #### 2016: The peak year
 
@@ -84,3 +84,4 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
 * [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)
+* [MyCast #5 with Chris Hunter](https://www.youtube.com/watch?v=PNifwMjQZWE)
