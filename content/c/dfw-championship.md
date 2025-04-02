@@ -21,7 +21,7 @@ The DFW Championship was the main and only title of [Dream Factory Wrestling](@/
 
 ## Belt design
 
-The belt was rather simple in design and cheaply homey-made by DFW members. The main plate was made from simple sheet metal without any paint coating, and was visibly attached to the strap by four bolts.
+The belt was rather simple in design and cheaply home-made by DFW members. The main plate was made from simple sheet metal without any paint coating, and was visibly attached to the strap by four bolts.
 The main plate in general resembled a flattended hexagon, with two visible cuts at the top and bottom of the plate. These cuts give the plate a certain resemblance to the shape of Poland. The whole main plate space was occupied by "DFW" letters protruding from the plate itself. The letters and the outer rims of the main plate were simply painted white and red, the national colours of Poland.
 The sideplates were made from two identical, store-bought pins depicting skull and bones.
 All of the sideplates were attached to a black belt made from artificial leather, with a couple of silver studs attached to it.
@@ -32,9 +32,9 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
 
 * When the belt was first awarded at the Tournament of Dreams, none of the competitors in the tournament saw it before it was actually awarded. The belt was kept under wraps (literally wrapped in a towel) until the final bell.
 * After DFW's closure, the belt remained in possession of the final champion - [Norris](@/w/isnorr.md), who kept it in its original form until early 2023, when the plates were stripped from the belt itself.
-* The belt was used as a base for the ZLN GNG Championship - an insider belt defended only between the members of [The Greens](@/a/the-greens.md).
+* The belt was used as the base for the ZLN GNG Championship - an insider belt defended only between the members of [The Greens](@/a/the-greens.md).
 * The original DFW main plate became one of the relics kept in [Ewenement Dojo](@/o/ewenement-dojo.md).
-* The front plate made its surprising return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between final champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
+* The front plate made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
 ## Title history
 
