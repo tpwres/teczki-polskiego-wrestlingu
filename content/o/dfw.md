@@ -28,11 +28,11 @@ Dream Factory, unlike other backyards, did not do any sort of ultraviolent match
 
 #### Before 2015: Local backyard
 
-Dream Factory Wrestling came to be as a result of two backyard organizations merging: Toruń Wrestling Federation (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence. According to Chris Hunter, the idea to start his own wrestling project came to him while he was returning home from Elbląg, where he was participating in the backyard group EKW.
+Dream Factory Wrestling came to be as a result of two backyard organizations merging: Toruń Wrestling Federation (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence. According to Chris Hunter, the idea to start his own wrestling project came to him while he was returning home from Elbląg, where he participated in the backyard group EKW.
 
 #### 2015: The first shows
 
-The new organization named itself after its members' shared dream to be wrestlers, hence "Dream Factory". In May 2015, [Chris Hunter](@/w/chris-hunter.md) posted about getting their own ring and holding a total of 10 training sessions before their [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June that year. According to Hunter, the first ring which they built tended to collapse after bumps. Their second, improved ring was Chris's birthday gift from his dad.
+The new organization named itself after its members' shared dream to be wrestlers, hence "Dream Factory". In May 2015, [Chris Hunter](@/w/chris-hunter.md) posted about getting their own ring and holding a total of 10 training sessions before their [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June that year. According to Hunter, the first ring they built tended to collapse after bumps. Their second, improved ring was Chris's birthday gift from his father.
 
 #### 2016: The peak year
 
