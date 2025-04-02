@@ -61,9 +61,29 @@ Goblin returned to the ring the same night he was almost hanged by Olgierd to en
 ## In wrestling
 
 * Finishers:
-  -
+  - Swiniging Reverse STO (2023-)
   - Green Mist (2023-)
   - _Kabacki Krztusiec_ (Modified Muta Lock) (2025-)
+ 
+* Tag Teams and stables:
+  - GobLis (2024-)
+    
+* Entrance music:
+  - "Get Got" by Death Grips
+  {{ org_badge(orgs=['ppw', 'mzw']) }} (2023-present) <br>
+  {{ music(yt='HIrKSqb4H4A')}}
+  {{ music(spot='781V2Y5LPtcpgONEOadadE')}}
+  {{ music(apple='515449028?i=515449215')}}
+- "Punk Tactics" by Joey Valence & Brae
+    {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Axel Fox](@/w/axel-fox.md)) <br>
+    {{ music(yt='OklSZmIx9-o')}} 
+    {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
+    {{ music(apple='1697553064?i=1697553067&l=pl')}}
+
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+  - 20 Typa 20 Broni Rumble Match (2025)
 
 ## References
 
