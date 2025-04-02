@@ -57,15 +57,16 @@ In those months he also started taking bookings from abroad, making appearances 
 #### Debut and feud with Zmowa
 
 Gabriel Queen made his debut for [PpW Ewenement](@/o/ppw.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), where he faced [Jacob Crane](@/w/jacob-crane.md).
-After securing victory, he was attacked by his defeated opponent, however his tag team partner - [Vic Golden](@/w/vic-golden.md) - made his surprise debut by saving him from a beatdown.
+After securing victory, he was attacked by his defeated opponent, however his tag team partner - [Vic Golden](@/w/vic-golden.md) - made his surprise debut by saving him from the beatdown.
+
 The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), which was surprisingly accepted by Legia Łysych, at that time still associated with PTW. The two teams reignited their feud from PTW, delivering a well-received match.
-Their rivalry with Legia Łysych - especially [Olgierd](@/w/olgierd.md) - continued, and Gabriel faced him at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a No Weapons Hooligan Street Fight, which ended in Olgierd's disqualification for using such a Weapon.
-This led to Gabriel and Vic going against villainous stable [Zmowa](@/a/the-collusion.md) in a Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), which they won as part of a coalition against Zmowa led by [Biesiad](@/w/biesiad.md).
+Their rivalry with Legia Łysych - especially [Olgierd](@/w/olgierd.md) - continued, and Gabriel faced him at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a No Weapons Hooligan Street Fight, which ended in Olgierd's disqualification for using a weapon.
+This led to Gabriel and Vic going against the villainous stable [Zmowa](@/a/the-collusion.md) in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), which they won as part of a coalition against Zmowa, led by [Biesiad](@/w/biesiad.md).
 
 #### Championship pursuit
 
-At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) in December 2024 Gabriel won a Gauntlet Match, which resulted in Biesiad - dressed as Santa Biesiad - gifting him a contract to face [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md) at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md).
-Later that night, Gabriel attacked Gustav after his match with [Johnny Blade](@/w/johnny-blade.md) and introduced his gloved thumb into Gustav's rectum. The humiliated champion accepted the fact that he would have to face Gabriel at Gruba Przesada. At that show, just before the match started, he stipulated a 15 minute time limit, stating that he values his time. Due to a referee knock-out, Queen was unable to win the championship.
+At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) in December 2024 Gabriel won a Gauntlet Match, which resulted in Biesiad - dressed as Santa Biesiad - gifting him a contract to face the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md) at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md).
+Later that night, Gabriel attacked Gustav after his match with [Johnny Blade](@/w/johnny-blade.md), and introduced his gloved thumb into Gustav's rectum. The humiliated champion accepted the fact that he would have to face Gabriel at Gruba Przesada. At that show, just before the match started, he stipulated a 15 minute time limit, stating that he values his time. Due to a referee knock-out, Queen was unable to win the Championship.
 
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and Isnorr. The match resulted in Gustav and Isnorr's defeat, after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first defeat during his title reign, and Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match, just before Gabriel Queen went for the second pinfall and victory, he was struck with a chair by long-time friend Vic Golden, which allowed Gustav to defeat Gabriel and end their feud.
 
