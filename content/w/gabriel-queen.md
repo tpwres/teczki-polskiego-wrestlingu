@@ -10,12 +10,18 @@ country = ["PL"]
 1 = { path = "gabriel-queen.jpg", caption = "Gabriel Queen in the ring at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "M3n747" }
 +++
 
+Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+
 ## Basic info
 
-* Years active: 2019-
+* Years active: 2019-present
 * Gimmicks/nicknames:
   - Gabriel Queen {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
   - Nathan Cross {{ org_badge(org='mzw') }}
+  - Bonus CBD {{ org_badge(org='ppw') }} (non-canon shows)
+* Trained by:
+  - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
+  - [PTW Academy](@/o/ptw-academy.md) (2021-2023)
 
 ## Professional wrestling career
 
@@ -48,9 +54,17 @@ In those months he also started taking bookings from abroad, making appearances 
 
 ### PpW Ewenement (2024-)
 
+#### Debut and feud with Zmowa
+
 Gabriel Queen made his debut for [PpW Ewenement](@/o/ppw.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), where he faced [Jacob Crane](@/w/jacob-crane.md).
 After securing victory, he was attacked by his defeated opponent, however his tag team partner - [Vic Golden](@/w/vic-golden.md) - made his surprise debut by saving him from a beatdown.
-The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), which was surprisingly accepted by Legia Łysych, at that time still associated with PTW. The two teams reignited their feud from PTW, delivering a well-received match.
+The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), which was surprisingly accepted by Legia Łysych, at that time still associated with PTW. The two teams reignited their feud from PTW, delivering a well-received match. Rivalry with Legia Łysych - especially [Olgierd](@/w/olgierd.md) - continued, as Gabriel faced him at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a No Weapons Hooligan Street Fight which resulted in Olgierd's disqualification for using such a Weapon. This led to Gabriel and Vic going against [Zmowa](@/a/the-collusion.md) - a villainous stable led by PpW's producer [Mister Z](@/w/mister-z.md) - in a Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), which was ultimatevly won by Zmowa Przeciwko Zmowie - coallition against Zmowa led by [Biesiad](@/w/biesiad.md).
+
+#### Championship pursuit
+
+At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) in December 2024 Gabriel won a Gauntlet Match, which resulted in Biesiad - dressed as Santa Biesiad - gifting him an contract to face [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md) at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Later that night Gabriel attacked Gustav after his match with [Johnny Blade](@/w/johnny-blade.md) and introduced his gloved thumb into Gustav's rectum. The humiliated champion accepted the fact that he would have to face Gabriel at Gruba Przesada, but just before the match started, he stipulated a 15 minute time limit, stating that he values his time. Due to a referee knock-out, Queen was unable to win the championship.
+
+At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and Isnorr. The match resulted in Gustav and Isnorr's defeat after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first defeat during his title reign, so Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match, just before Gabriel Queen was going for the second pinfall and victory, he was struck with a chair by long-time friend Vic Golden, which allowed Gustav to defeat Gabriel and end their feud.
 
 ## In wrestling
 
@@ -60,9 +74,9 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
   - Single Leg Boston Crab (2023)
   - Double Underhook Inverted Slam (2021)
 * With [Vic Golden](@/w/vic-golden.md)
-  - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
+  - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
 * Tag Teams and stables:
-  - Pure Gold (2022-)
+  - Pure Gold (2022-2025)
 * Managers:
   - [Isnorr](@/w/isnorr.md) (2021)
 * Entrance music:
@@ -72,7 +86,7 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
  {{ music(spot='30nwxUmOXvcwA1U84BqowT')}}
  {{ music(apple='1490598362?i=1490598731')}}
   - "Best of Both Worlds" by Hannah Montana
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-, in tag team with [Vic Golden](@/w/vic-golden.md)) <br>
+ {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-, solo and formerly in tag team with [Vic Golden](@/w/vic-golden.md)) <br>
  {{ music(yt='ZSGC3g-EWbw')}}
  {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
  {{ music(apple='1440632617?i=1440633345')}}
@@ -82,7 +96,7 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time)
     * Tag Team of the Year (as Pure Gold)
-    * [PpW Ewenement Wrestling](@/o/ppw.md)
+* [PpW Ewenement Wrestling](@/o/ppw.md):
   - Golden Goat Trophy (1 time)
 
 ## Internet presence
