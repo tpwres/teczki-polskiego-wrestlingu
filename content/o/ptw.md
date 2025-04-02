@@ -223,6 +223,10 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
   - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md)"
   - >
     Defeated Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) at [PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md).
+- - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - Inaugural champion, won the title by defeating [Vincent Caravaggio](@/w/vincent-caravaggio.md) at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md).
+
 {% end %}
 
 ## Other media
