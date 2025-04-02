@@ -118,9 +118,9 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
   - >
     Won an additional title match immediately after [Biesiad](@/w/biesiad.md) defeated champion [Feager](@/w/feager.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Isnorr](@/w/isnorr.md)'
   - >
-    Eliminated champion [Stanislaw Van Dobroniak](@/w/stanislaw-van-dobroniak.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), then defeated [Isnorr](@/w/isnorr.md) to reclaim the belt.
+    Defeated [Johnny Blade](@/w/johnny-blade.md) at [Co Za Noc](@/w/ppw/2024-10-26-ppw-co-za-noc.md).
 {% end %}
 
 ## Internet presence
