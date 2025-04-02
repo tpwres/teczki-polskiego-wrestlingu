@@ -29,7 +29,7 @@ The title was hand-made by [Marco Hammers](@/w/marco-hammers.md) for his fight w
 
 ## Belt design
 
-The belt is made out of cardboard and black duct tape, with text and graphical elements in black and yellow markers. The front "plate" says "Intergender PTW Championship" below a crown, while the side "plates" show the male and female symbols (♀ and ♂) also with crowns.
+The belt is made out of cardboard and black duct tape, with text and graphical elements in black and yellow markers. The front "plate" says "Intergender PTW Championship" below a crown, while the side "plates" show the male and female symbols (♀ and ♂), also with crowns.
 
 ## Title history
 
