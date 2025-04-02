@@ -8,7 +8,7 @@ toclevel = 2
 country = ["DE"]
 +++
 
-Franz Engel, also known as ZERO is a German wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
+Franz Engel, also known as ZERO, is a German wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -24,7 +24,7 @@ Franz Engel, also known as ZERO is a German wrestler best known for his time in 
 
 ### Maniac Zone Wrestling (2014-2017)
 
-Franz Engel made his debut in Poland working for [Maniac Zone Wrestling](@/o/mzw.md) under the ringname "ZERO". His first appearance took place during [Show in Smolec](@/e/mzw/2014-06-21-mzw-untitled.md) in June 2014, where he was defending his Next Step Wrestling Championship against [Rick Baxxter](@/w/rick-baxxter.md). He made two more apperance as ZERO working in MZW throughout 2014. In 2015 he started his appearances as Franz Engel. Overall he made a total of 10 apperances in Maniac Zone Wrestling, with his last one taking place at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) in December 2017. 
+Franz Engel made his debut in Poland working for [Maniac Zone Wrestling](@/o/mzw.md) under the ringname "ZERO". His first appearance took place during [Show in Smolec](@/e/mzw/2014-06-21-mzw-untitled.md) in June 2014, where he was defending his Next Step Wrestling Championship against [Rick Baxxter](@/w/rick-baxxter.md). He made two more MZW appearances as ZERO throughout 2014. In 2015 he started working as Franz Engel. Overall he made a total of ten appearances in Maniac Zone Wrestling, with the last one taking place at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) in December 2017. 
 
 ## In wrestling
 
