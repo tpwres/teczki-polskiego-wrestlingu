@@ -43,9 +43,11 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
     s: Tag-Team Match
 - - 'Dieter Schwartz'
   - '[Sambor](@/w/sambor.md)'
+- - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
+  - 'Adrian Zgórski'
+  - g: Tomasz hosted a contest for a group of volunteers, who could win MZW T&#8209;shirts and gadgets by stepping into the role of Adrian and introducing the show.
 - - '[Tony "The Riverman" Sheen](@/w/riverman.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
-  - n: Sheen wins after being distracted by Taras's music suddenly playing
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Taras](@/w/taras.md)'
   - g: Taras beats down Pablo and attempts to injure his arms. Babyfaces stop him, Pablo is carried out on a stretcher.
@@ -61,6 +63,17 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Host, Ring Announcer: 'Adrian Zgórski'
 {% end %}
+
+### Recap
+
+* [Isnorr](@/w/isnorr.md), who broke his arm [two weeks prior](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), was present in the audience. During the break in the show he interviewed fans for the Istota Wrestlingu podcast.
+* This was [Goblin's](@/w/goblin.md) debut in MZW. He was supposed to appear at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), but could not make it.
+* The event saw an unexpected return of [Apollo Anderson](@/w/apollo-anderson.md), in a new Wolf gimmick.
+* [Dziedzic](@/w/dziedzic.md) answered Legia's open challenge, with [Jędruś Bułecka](@/w/jedrus-bulecka.md) as his tag team partner. This was Jędruś's second appearance after making a surprise return the show before.
+* [Rusałka](@/w/rusalka.md) helped [Sambor](@/w/sambor.md) stay in his match by pushing a rope towards him for a rope break.
+* Near the end of Tony Sheen vs [Disco Pablo](@/w/disco-pablo.md), [Taras's](@/w/taras.md) music suddenly played, distracting Pablo and allowing Sheen to score a victory.
+* After his fight with Kubes, [Mister Z](@/w/mister-z.md) took a chair an spent the main event seated in the front row, observing the in-ring action.
+* After the show, Disco Pablo came out with his arm in a sling. According to him, the injury was legitimate, but not serious.
 
 ## References
 
@@ -80,4 +93,3 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 [zet-promo]: https://www.facebook.com/watch/?v=629222843205448
 [mywrestling]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02zNcbKv6PPL4rkQL5hD7XrGoCLooY39YgecT2irqxe7JUDrdn3vmC2zGcNrrJpBzhl
 [dziedzic]: https://www.facebook.com/ManiacZoneWrestling/videos/2200560117041463
-[results]: https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02Ma11RZvEkBPeR3WURSWCkTMPXBPeT9EsKLHYXiEUZxTbijjfo3Q8LCdqXxDHwWbyl
