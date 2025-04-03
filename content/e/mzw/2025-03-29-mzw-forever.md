@@ -73,7 +73,7 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * Dziedzic came out wearing a shirt that said "WŁOSY" (_HAIR_), as a jab at his bald opponents.
 * [Rusałka](@/w/rusalka.md) helped [Sambor](@/w/sambor.md) stay in his match by pushing a rope towards him for a rope break.
 * Near the end of Tony Sheen vs [Disco Pablo](@/w/disco-pablo.md), [Taras's](@/w/taras.md) music suddenly played, distracting Pablo and allowing Sheen to score a victory.
-* After his fight with Kubes, [Mister Z](@/w/mister-z.md) took a chair an spent the main event seated in the front row, observing the in-ring action.
+* After his fight with Kubes, [Mister Z](@/w/mister-z.md) took a chair and spent the main event seated in the front row, observing the in-ring action.
 * After the show, Disco Pablo came out with his arm in a sling. According to him, the injury was legitimate, but not serious.
 
 ## References
