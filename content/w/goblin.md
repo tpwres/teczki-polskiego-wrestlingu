@@ -8,7 +8,8 @@ toclevel = 2
 country = ["PL"]
 [extra.gallery]
 1 = { path = "goblin.jpg", caption = "Goblin before his Wild West-themed match at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).", source = "Official PpW Facebook" }
-2 = { path = "el-duende-polaco.jpg", caption = "ARENA PEPE Cisneros announced Goblin would appear in Mexico on 15.09.2024.", source = "Official ARENA PEPE Cisneros Facebook" }
+2 = { path = "goblin-maska.webp", caption = "Goblin wearing his mask at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).", source = "Shadowsmoonlight Photography" }
+3 = { path = "el-duende-polaco.jpg", caption = "ARENA PEPE Cisneros announced Goblin would appear in Mexico on 15.09.2024.", source = "Official ARENA PEPE Cisneros Facebook" }
 +++
 
 Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
