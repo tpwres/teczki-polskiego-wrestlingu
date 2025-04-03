@@ -69,7 +69,8 @@ MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to r
 * [Isnorr](@/w/isnorr.md), who broke his arm [two weeks prior](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), was present in the audience. During the break in the show he interviewed fans for the Istota Wrestlingu podcast.
 * This was [Goblin's](@/w/goblin.md) debut in MZW. He was supposed to appear at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), but could not make it.
 * The event saw an unexpected return of [Apollo Anderson](@/w/apollo-anderson.md), in a new Wolf gimmick.
-* [Dziedzic](@/w/dziedzic.md) answered Legia's open challenge, with [Jędruś Bułecka](@/w/jedrus-bulecka.md) as his tag team partner. This was Jędruś's second appearance after making a surprise return the show before.
+* [Syriusz Dziedzic](@/w/dziedzic.md) answered Legia's open challenge, with [Jędruś Bułecka](@/w/jedrus-bulecka.md) as his tag team partner. This was Jędruś's second appearance after making a surprise return the show before.
+* Dziedzic came out wearing a shirt that said "WŁOSY" (_HAIR_), as a jab at his bald opponents.
 * [Rusałka](@/w/rusalka.md) helped [Sambor](@/w/sambor.md) stay in his match by pushing a rope towards him for a rope break.
 * Near the end of Tony Sheen vs [Disco Pablo](@/w/disco-pablo.md), [Taras's](@/w/taras.md) music suddenly played, distracting Pablo and allowing Sheen to score a victory.
 * After his fight with Kubes, [Mister Z](@/w/mister-z.md) took a chair an spent the main event seated in the front row, observing the in-ring action.
