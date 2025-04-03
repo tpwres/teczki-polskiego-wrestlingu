@@ -35,7 +35,7 @@ Debuting for PTW at this show were:
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Reyca'
 - - '[Rust](@/w/rust.md)'
-  - '(Serg Sullivan](@/w/serg-sullivan.md)'
+  - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - 'Mikk Vainula'
   - s: International Showcase Triple Threat Match
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
