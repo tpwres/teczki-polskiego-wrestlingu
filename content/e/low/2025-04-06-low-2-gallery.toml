@@ -1,14 +1,14 @@
-0001 = { path = "low2-plakat.webp", caption = "Official poster featuring [Dziedzic](@/w/dziedzic.md) and [Sinister](@/w/sinister.md).", source = "Official Legacy Facebook" }
-0002 = { path = "low2-plakat-alt.webp", caption = "Alternative poster featuring, left to right: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Dziedzic](@/w/dziedzic.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Filip Fux](@/w/filip-fux.md).", source = "Official Legacy Facebook" }
-0003 = { path = "low2-logo.jpg", caption = "Official logo.", source = "Official Legacy Facebook" }
-0004 = { path = "legia-vs-fuxy.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) & [Filip Fux](@/w/filip-fux.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Note the incorrect date of 2024.", source = "Official Legacy Facebook" }
-0005 = { path = "greg-vs-vic.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Vic Golden](@/w/vic-golden.md).", source = "Official Legacy Facebook" }
-0006 = { path = "queen-vs-fox.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Axel Fox](@/w/axel-fox.md).", source = "Official Legacy Facebook" }
-0007 = { path = "gustav-vs-kubes.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs Kubes.", source = "Official Legacy Facebook" }
-0008 = { path = "pablo-sie-wypowie.webp", caption = "_[Disco Pablo](@/w/disco-pablo.md) will address the events of the [first show](@/e/low/2024-12-01-low-1.md)._", source = "Official Legacy Facebook" }
-0009 = { path = "robert-star-is-legacy.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md) as a special guest.", source = "Official Legacy Facebook" }
-0010 = { path = "taras-odpowie.webp", caption = "_[Taras](@/w/taras.md) breaks his silence_.", source = "Official Legacy Facebook" }
-0011 = { path = "sinister-vs-dziedzic.webp", caption = "Image announcing [Sinister](@/w/sinister.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official Legacy Facebook" }
-0012 = { path = "oliwa-vs-marcelito.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs [Marcelito](@/w/marcelito.md).", source = "Official Legacy Facebook" }
-0013 = { path = "posters-in-the-wild-1.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
-0014 = { path = "posters-in-the-wild-2.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
+00001 = { path = "low2-plakat.webp", caption = "Official poster featuring [Dziedzic](@/w/dziedzic.md) and [Sinister](@/w/sinister.md).", source = "Official Legacy Facebook" }
+00002 = { path = "low2-plakat-alt.webp", caption = "Alternative poster featuring, left to right: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Dziedzic](@/w/dziedzic.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Filip Fux](@/w/filip-fux.md).", source = "Official Legacy Facebook" }
+00003 = { path = "low2-logo.jpg", caption = "Official logo.", source = "Official Legacy Facebook" }
+00004 = { path = "legia-vs-fuxy.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) & [Filip Fux](@/w/filip-fux.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Note the incorrect date of 2024.", source = "Official Legacy Facebook" }
+00005 = { path = "greg-vs-vic.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Vic Golden](@/w/vic-golden.md).", source = "Official Legacy Facebook" }
+00006 = { path = "queen-vs-fox.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Axel Fox](@/w/axel-fox.md).", source = "Official Legacy Facebook" }
+00007 = { path = "gustav-vs-kubes.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs Kubes.", source = "Official Legacy Facebook" }
+00008 = { path = "pablo-sie-wypowie.webp", caption = "_[Disco Pablo](@/w/disco-pablo.md) will address the events of the [first show](@/e/low/2024-12-01-low-1.md)._", source = "Official Legacy Facebook" }
+00009 = { path = "robert-star-is-legacy.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md) as a special guest.", source = "Official Legacy Facebook" }
+00010 = { path = "taras-odpowie.webp", caption = "_[Taras](@/w/taras.md) breaks his silence_.", source = "Official Legacy Facebook" }
+00011 = { path = "sinister-vs-dziedzic.webp", caption = "Image announcing [Sinister](@/w/sinister.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official Legacy Facebook" }
+00012 = { path = "oliwa-vs-marcelito.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs [Marcelito](@/w/marcelito.md).", source = "Official Legacy Facebook" }
+99001 = { path = "posters-in-the-wild-1.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
+99002 = { path = "posters-in-the-wild-2.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
