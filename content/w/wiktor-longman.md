@@ -8,13 +8,13 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Wiktor Longman is a wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md), and also [PpW Ewenement](@/o/ppw.md).
+Wiktor Longman is a wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md), and later also [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
 * Years active: 2022-present
 * Gimmicks/nicknames:
-  - Wiktor Longman {{ org_badge(orgs=['ptw', 'ppw']) }}
+  - Wiktor Longman {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024)
@@ -47,13 +47,15 @@ Longman made his return in October 2024, this time to [PpW](@/o/ppw.md), when he
 
 Initially Longman was supposed to challenge the [PpW Champion](@/c/ppw-championship.md) Gustav Gryffin in the main event of [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md). However, due to personal reasons he was pulled off the card and didn't appear at the show. His spot in the main event was taken by [Axel Fox](@/w/axel-fox.md) instead.
 
+On the [second Legacy show](@/e/low/2025-04-06-low-2.md), Arkadiusz Paterek opened the show by introducing Longman as the organization's new Chairman and ring announcer.
+
 ## In wrestling
 
 * Finishers:
   - _At Your Service_ (F5) (2022-)
 * Entrance music:
   - Such a Whore (Stellular Remix) by JVLA
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-) <br>
+ {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-) <br>
  {{ music(yt='8fFOtGETlrU')}}
  {{ music(spot='6A25J9As7towpxovYryAWr')}}
  {{ music(apple='1518033969?i=1518033971')}}
