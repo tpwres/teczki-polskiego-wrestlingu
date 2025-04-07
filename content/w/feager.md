@@ -44,7 +44,7 @@ After losing his PpW Championship Feager held a grudge against Biesiad, which le
 
 ### Maniac Zone Wrestling (2024)
 
-Feager made his first apperance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, where he faced, and got defeated by, fellow PpW wrestler [Johnny Blade](@/w/johnny-blade.md). 
+Feager made his first apperance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, where he faced, and got defeated by fellow PpW wrestler [Johnny Blade](@/w/johnny-blade.md). 
 
 ## In wrestling
 
