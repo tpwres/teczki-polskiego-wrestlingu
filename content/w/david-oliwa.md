@@ -37,6 +37,11 @@ David Oliwa was the second [KPW OldTown Champion](@/c/kpw-old-town-championship.
  {{ music(yt='dP4GoeO5El8')}}
  {{ music(spot='2VvDAaS9MCN7WWwnG3N9JD')}}
  {{ music(apple='1657524342?i=1657524748')}}
+  - "Nightcall" by Kavinsky
+ {{ org_badge(orgs=['low']) }} (2025) <br>
+ {{ music(yt='MV_3Dpw-BRY')}}
+ {{ music(spot='0U0ldCRmgCqhVvD6ksG63j')}}
+ {{ music(apple='1442447952?i=1442447970')}}
 
 ## Championships and accomplishments
 
