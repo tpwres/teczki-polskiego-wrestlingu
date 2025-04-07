@@ -56,6 +56,10 @@ Erik Šlotíř made an unexpected return to Poland not long after his departure 
 * Managers:
   - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-)
 
+* Entrance music:
+  - "Erik Slothir Theme Song" by Indepentent Artist
+     {{ org_badge(orgs=['low']) }} (2025-)  <br>
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27518)
