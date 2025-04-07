@@ -34,7 +34,7 @@ As of February 2025, Michał is the only active KPW wrestler who's never missed 
 
 ### Legacy of Wrestling (2025)
 
-Michał debuted at Legacy of Wrestling's [second show](@/e/low/2025-04-06-low-2.md), where together with Filip he defended their [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against Legia Łysych.
+Michał debuted at Legacy of Wrestling's [second show](@/e/low/2025-04-06-low-2.md), where together with Filip he defended their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) against Legia Łysych.
 
 
 ## In wrestling
