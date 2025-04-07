@@ -59,12 +59,12 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy Of Wr
 
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
- {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo) <br>
+ {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo)<br>
  {{ music(yt='CmXWkMlKFkI')}}
  {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
  {{ music(apple='1764395673?i=1764396024')}}
   - "Better days" by Dangerous New Machine
- {{ org_badge(orgs=['kpw']) }} (2023-, - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo) ) <br>
+ {{ org_badge(orgs=['kpw']) }} (2023-present - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo)<br>
  {{ music(yt='se3AUY4XKcA')}}
  {{ music(apple='375038556?i=375038653')}}
   - "Kickstart My Heart Remix" by Dance with the Dead
