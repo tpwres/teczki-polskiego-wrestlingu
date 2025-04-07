@@ -1,7 +1,7 @@
 +++
 title = "Eryk Lesak"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -10,15 +10,40 @@ country = ["PL"]
 1 = { path = "eryk-lesak.jpg", caption = "Eryk Lesak after his victory at [KPW Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md).", source = "M3n747" }
 +++
 
+Eryk Lesak is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
+
+## Basic info
+
+* Years active: 2019-present
+* Gimmicks/nicknames:
+  - Eryk Lesak {{ org_badge(orgs=['kpw']) }}
+* Trained by:
+  - KPW Academy (201?-)
+
+## Professional wrestling career
+
+### Kombat Pro Wrestling (2019-present)
+
+#### Debut and early appearances
+
 Eryk Lesak is one of two finalists of [Kombat Pro Wrestling](@/o/kpw.md)'s 2019 internal competition "Serce do walki" (_Heart for combat_).
+Intended as the original butler for the heel stable (which didn't pan out; the position went to [Chemik](@/w/chemik.md) instead), he made his debut at [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) and started off as a babyface, first working solo and then in a short-lived tag team with the other _Heart for combat_ finalist, [Piotr Opolski](@/w/piotr-opolski.md).
 
-Intended as the original butler for the heel stable (which didn't pan out; the position went to [Chemik](@/w/chemik.md) instead), he made his debut at [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) and started off as a babyface, first working solo and then in a short-lived tag team with the other _Heart for combat_ finalist, Piotr Opolski.
+#### The Gregorian Branch
 
-After the initial losing streak, for some of which he blamed Opol, Lesak agreed to join the newly-formed Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md). Having scored his first victory - against Opol at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md) - he was joined with Chemik as tag team partners, in a wedding-like ceremony officiated by Greg. However, neither joining the Gregorian Branch nor teaming up with Chemik helped drastically improve his success rate.
+After the initial losing streak, for some of which he blamed Opol, Lesak agreed to join the newly-formed Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md). Having scored his first victory - against Opol at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md) - he was joined with Chemik as tag team partners, in a wedding-like ceremony officiated by Greg. However, neither joining the Gregorian Branch nor teaming up with Chemik helped drastically improve his success rate, as he mostly feuded with KPW's babyfaces such as The Fux Brothers ([Filip](@/w/filip-fux.md) and [Michał](@/w/michal-fux.md)), against whom he often teamed up with Chemik.
 
-In a bit of meta-humour, Eryk's Instagram handle during his babyface days was "faceryk"; after the heel turn, Lesak changed it to [heelesak](https://www.instagram.com/heelesak/).
+#### Betraying Greg
+
+At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took part in a segment, when himself - along with Chemik and [Rosetti](@/w/rosetti.md) - turned on Greg. Ater a beatdown they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but after his losing streak, he was no longer worth following. After that Lesak went separate way and focused on solo career. He lost to [Filip Fux](@/w/filip-fux.md) in a Contender Match Qualifier for [KPW Championship](@/c/kpw-championship.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) and won a Singles Match against [Leon Lato](@/w/leon-lato.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md).
 
 ## In wrestling
+
+* Finishers:
+  - Spear (2019-)
+    
+* Tag Teams and stables:
+  - Gałąź Gregoriańska (2022-2024)
 
 * Entrance music:
   - "You’ve Got Another Thing Comin’" by Judas Priest
