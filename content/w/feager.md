@@ -54,6 +54,9 @@ Feager made his first apperance for [Maniac Zone Wrestling](@/o/mzw.md) at [No T
   - Modified Gogoplata (2023)
   - Tombstone Piledriver (2022)
 
+* Managers:
+  - Ms. XXX (2022-2023)
+
 * Entrance music:
   - "Wherever I May Roam" by Metallica
      {{ org_badge(orgs=['ppw', 'mzw']) }} (2024-) <br>
