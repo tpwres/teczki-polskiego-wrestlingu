@@ -1,6 +1,7 @@
 +++
 title = "Erik Šlotíř"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -14,16 +15,20 @@ path = "ah-jooo.jpg"
 caption = "Erik Šlotíř informs he's parted ways with [Prime Time Wrestling](@/o/ptw.md)."
 source = "erikslotir @ Instagram"
 +++
-Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for his run in [Prime Time Wrestling](@/o/ptw.md) between 2023 and 2025.
+
+Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for his run in [Prime Time Wrestling](@/o/ptw.md) between 2023 and 2025, and from [Legacy of Wrestling](@/o/low.md) from 2025 onwards.
 
 ## Basic info
 
-* Years active: 2023-
+* Years active: 2023-present
 * Gimmicks/nicknames:
-  - Erik Šlotíř {{ org_badge(orgs=['ptw'])}}
-  - "The Hidden Gem" Erik Šlotíř {{ org_badge(orgs=['ptw'])}}
+  - "The Hidden Gem" Erik Šlotíř {{ org_badge(orgs=['ptw', 'low'])}}
   - Krecik {{ org_badge(orgs=['ptw'])}} (given by fans)
-
+* Trained by:
+  - Peter Tihanyi
+  - [Ricky Sky](@/w/ricky-sky.md)
+  - Robert Dreissker
+    
 ## Professional wrestling career
 
 ### Prime Time Wrestling (2023-2025)
@@ -35,6 +40,21 @@ In time, Šlotíř became a mainstay in PTW, primarily working Undergrounds as a
 In 2025, Šlotíř entered the tournament for the newly-created [PTW Underground Championship](@/c/ptw-underground-championship.md), but came up short, losing in quarter-finals at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md). The following week, Šlotíř announced his departure from PTW via an Instagram story. PTW confirmed this in Facebook comments, calling Šlotíř's departure "semi-retirement", with PTW leaving ther doors open for a return. However, as of spring 2025, Erik was anything but retired - accepting international bookings and competing for the VcV Championship, putting PTW's version in doubt.
 
 Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslovakian (and later Czech) cartoon known in English as ["The Little Mole"][krtek].
+
+### Legacy Of Wrestling (2025-present)
+
+Erik Šlotíř made an unexpected return to Poland not long after his departure from PTW, when he made his debut in [Legacy Of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he made a surprise entry into a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md) and won it. During the match he was seemingly managed by [Arkadiusz Paterek](@/w/arek-paterek.md) - LoW's on-screen personality - who signem him to his stable called "Biuro Prasowe" (_Press Office_).  
+
+## In wrestling
+
+* Finishers:
+  - Diving Elbow Drop (2023-)
+
+* Tag Teams and stables:
+  - Biuro Prasowe (2025-)
+
+* Managers:
+  - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-)
 
 ## References
 
