@@ -38,7 +38,7 @@ Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslo
 
 ### Legacy of Wrestling (2025)
 
-At [Legacy's second show](@/e/low/2025-04-06-low-2.md), Erik was the fifth mystery competitor in a Fatal Five-Way match, which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) and his newly created _Press Office_(Biuro Prasowe).
+At [Legacy's second show](@/e/low/2025-04-06-low-2.md), Erik was the fifth mystery competitor in a Fatal Five-Way match, which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) and his newly-created _Press Office_ ("Biuro Prasowe").
 
 ## References
 
