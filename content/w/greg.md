@@ -72,7 +72,7 @@ On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling
   - Gałąź Gregoriańska (2019-2024)
 * Entrance music:
   - "Year Zero" by Ghost
- {{ org_badge(orgs=['kpw']) }} (2019-2023) <br>
+ {{ org_badge(orgs=['kpw', 'low']) }} (2019-2023; 2025) <br>
  {{ music(yt='wy0l2r0IxkI')}}
  {{ music(spot='3yiyZW5sYNg3VvIejh10sK')}}
  {{ music(apple='1440870903?i=1440870917')}}
