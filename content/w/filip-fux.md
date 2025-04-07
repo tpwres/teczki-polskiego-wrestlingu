@@ -1,7 +1,7 @@
 +++
 title = "Filip Fux"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -11,30 +11,60 @@ country = ["PL"]
 2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
-Filip Fux is one half of the Fux Brothers tag team, along with his kayfabe sibling [Michał](@/w/michal-fux.md). Filip started training in the [Kombat Pro Wrestling](@/o/kpw.md) school in January 2018 and made his in-ring debut at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md). He's best known for his tag team work alongside Michał, but he's also had a number of solo matches.
-
-The Fux Brothers are the reigning [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), having won the belts from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at an European Wrestling Association show in Austria. 
-
-Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md), thus becoming the first worker KPW allowed to perform in another Polish federation.
+Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
 * Years active: 2018-present
 * Gimmicks/nicknames:
-  - Filip Fux {{ org_badge(org='kpw') }}
+  - Filip Fux {{ org_badge(org='kpw', 'low') }}
 * Trained by:
   - KPW Academy (2018-present)
 
+## Professional wrestling career
+
+### Kombat Pro Wrestling (2018-present)
+
+#### Debut and KPW Tag Team Champions
+
+Filip Fux is one half of the Fux Brothers tag team, along with his kayfabe sibling [Michał](@/w/michal-fux.md). Filip started training in the [Kombat Pro Wrestling](@/o/kpw.md) school in January 2018 and made his in-ring debut at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md). He's best known for his tag team work alongside Michał, but he's also had a number of solo matches.
+The Fux Brothers won their [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md)from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at an European Wrestling Association show in Austria. 
+
+#### Solo championships pursuits
+
+In November 2024 chairman of KPW [Krystian Maliowski](@/w/krystian-malinowski.md) announced, that at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Filip Fux will be one of the contestants in "The Race" for [KPW Championship](@/c/kpw-championship.md). He managed to win his qualifier match against [Eryk Lesak](@/w/eryk-lesak.md). At [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) he entered the final match facing [David Oliwa](@/w/david-oliwa.md) and his brother Michał in a Triple Threat Match. He was unable to secure a victory, as the match was won by Michał Fux.
+
+After his defeat at Arena 27 Filip challenged [Chemik](@/w/chemik.md) for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) During the build-up for [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) it was officially challenged, that the match will be a Street Fight Match.
+
+### Legacy Of Wrestling (2024-present)
+
+#### Feud with Legia Łysych
+
+Filip Fux was the first KPW wrestler to be announced as the member of [Legacy Of Wrestling](@/o/low.md) roster, thus becoming the first worker KPW allowed to perform in another Polish federation. Few months before [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md) Filip got involved in a feud with his old friend from KPW Academy and current member of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md). In one of the episodes of Marco's YouTube vlog series - "Łysy Vlog" - he got into an argument with Filip over some muscle-enhancing creatine, which Filip supposedly stole from Marco during their joint trip to Hungary for an HCW show. This Internet feud evolved into a match at Legacy's first show. Marco won this match after [Olgierd's](@/w/olgierd.md) distraction, and in a post-match beatdown him and Olgierd managed to snatch Filip's KPW Tag Team Championship belt and pose with it, which strongly suggested Legia's intention to face the KPW champions for their titles.
+
+The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy Of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled out by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych.
+
 ## In wrestling
+
+* Finishers:
+  - _Fux Bomb_ (2021-)
+  - Cutter (2023-)
+    
+* With [Michał Fux](@/w/michal-fux.md):
+  - Flapjack (Michał) and Cutter (Filip) combination (2021-)
+  - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
+    
+* Tag Teams and stables:
+  - Bracia Fux (2021-)
 
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
- {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
+ {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo) <br>
  {{ music(yt='CmXWkMlKFkI')}}
  {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
  {{ music(apple='1764395673?i=1764396024')}}
   - "Better days" by Dangerous New Machine
- {{ org_badge(orgs=['kpw']) }} (2023-) <br>
+ {{ org_badge(orgs=['kpw']) }} (2023-, - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo) ) <br>
  {{ music(yt='se3AUY4XKcA')}}
  {{ music(apple='375038556?i=375038653')}}
   - "Kickstart My Heart Remix" by Dance with the Dead
