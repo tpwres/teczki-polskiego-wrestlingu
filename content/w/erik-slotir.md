@@ -36,6 +36,10 @@ In 2025, Šlotíř entered the tournament for the newly-created [PTW Underground
 
 Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslovakian (and later Czech) cartoon known in English as ["The Little Mole"][krtek].
 
+### Legacy of Wrestling (2025)
+
+At [Legacy's second show](@/e/low/2025-04-06-low-2.md), Erik was the fifth mystery competitor in a Fatal Five-Way match, which he won.
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27518)
