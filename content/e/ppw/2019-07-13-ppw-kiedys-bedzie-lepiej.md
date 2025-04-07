@@ -17,9 +17,8 @@ city = "Warszawa"
 - - '[Jeff](@/w/michael-ht.md)'
   - '[Steven Strong](@/w/biesiad.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Feager](@/w/feager.md)'
   - s: Tornado Hardcore Match
-    n: Feager no-showed the fight.
+    n: '[Feager](@/w/feager.md), originally booked and announced, no-showed the fight.'
 - credits:
     Referee: Koteł
     Ring Announcer: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
