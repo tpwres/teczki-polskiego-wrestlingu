@@ -11,7 +11,7 @@ country = ["PL"]
 2 = { path = "billy-boy-feager.jpg", caption = "Young Bill Feager cutting a promo at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md).", source = "Official PpW YouTube." }
 +++
 
-Bill Feager, also known simply as Feager, is a Polish wrestler known for his apperances for [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Bill Feager, also known simply as Feager, is a Polish wrestler known for his appearances for [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -28,11 +28,11 @@ Bill Feager, also known simply as Feager, is a Polish wrestler known for his app
 
 #### Backyard era
 
-Feager joined [PpW Ewenement](@/o/ppw.md) back in their backyard days, some time around mid-2015. In his early days - unlike many other PpW wrestlers - he worked only under his main alias "Feager", a character strongly influenced by wrestlers such as the Undertaker, Brock Lesnar and Roman Reigns. At the time he also teamed up with [Steven Strong](@/w/biesiad.md) and [Hirinus](@/w/mister-z.md). Feager made his last apperance for the backyard-era PpW in his promo announcing his apperance at [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md), where he no-showed the Tornado Hardcore Match. 
+Feager joined [PpW Ewenement](@/o/ppw.md) back in their backyard days, some time around mid-2015. In his early days - unlike many other PpW wrestlers - he worked only under his main alias "Feager", a character strongly influenced by wrestlers such as the Undertaker, Brock Lesnar and Roman Reigns. At the time he also teamed up with [Steven Strong](@/w/biesiad.md) and [Hirinus](@/w/mister-z.md). Feager made his last appearance for the backyard-era PpW in his promo announcing his appearance at [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md), where he no-showed the Tornado Hardcore Match. 
 
 #### Return and early feuds
 
-Feager returned to PpW after a nearly two-year hiatus, making his apperance at [Inside Job](@/e/ppw/2021-09-11-ppw-inside-job.md) in September 2021, where he faced [Tony Sk1n](@/w/tony-sk1n.md) and [Adam Wong](@/w/adam-wong.md). This led him to two rematches against Tony and Wong at [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md) and [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), respectively. After defeating [Osamu](@/w/osamu.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md), he unexpectedly alligned himself with Ms. XXX - [Mister Z's](@/w/mister-z.md) manager, who dumped him after his loss against [Biesiad](@/w/biesiad.md), only to immedietely kiss Feager and become his manager. This alliance didn't last long, as Ms. XXX left Feager - and PpW - some time after [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md).
+Feager returned to PpW after a nearly two-year hiatus, making his appearance at [Inside Job](@/e/ppw/2021-09-11-ppw-inside-job.md) in September 2021, where he faced [Tony Sk1n](@/w/tony-sk1n.md) and [Adam Wong](@/w/adam-wong.md). This led him to two rematches against Tony and Wong at [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md) and [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), respectively. After defeating [Osamu](@/w/osamu.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md), he unexpectedly alligned himself with Ms. XXX - [Mister Z's](@/w/mister-z.md) manager, who dumped him after his loss against [Biesiad](@/w/biesiad.md), only to immedietely kiss Feager and become his manager. This alliance didn't last long, as Ms. XXX left Feager - and PpW - some time after [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md).
 
 #### PpW Champion
 
@@ -44,7 +44,7 @@ After losing his PpW Championship Feager held a grudge against Biesiad, which le
 
 ### Maniac Zone Wrestling (2024)
 
-Feager made his first apperance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, where he faced, and was defeated by, a fellow PpW wrestler, [Johnny Blade](@/w/johnny-blade.md). 
+Feager made his first appearance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, where he faced, and was defeated by, a fellow PpW wrestler, [Johnny Blade](@/w/johnny-blade.md). 
 
 ## In wrestling
 
