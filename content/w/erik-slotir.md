@@ -43,7 +43,7 @@ Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslo
 
 ### Legacy Of Wrestling (2025-present)
 
-Erik Šlotíř made an unexpected return to Poland not long after his departure from PTW, when he made his debut in [Legacy Of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he made a surprise entry into a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md) and won it. During the match he was seemingly managed by [Arkadiusz Paterek](@/w/arek-paterek.md) - LoW's on-screen personality - who signem him to his stable called "Biuro Prasowe" (_Press Office_).  
+Erik Šlotíř made an unexpected return to Poland not long after his departure from PTW, when he made his debut in [Legacy Of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he made a surprise entry into a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md) and won it. During the match he was seemingly managed by [Arkadiusz Paterek](@/w/arek-paterek.md) - LoW's on-screen personality - who signed him to his stable called "Biuro Prasowe" (_Press Office_).  
 
 ## In wrestling
 
