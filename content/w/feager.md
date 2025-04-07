@@ -28,23 +28,23 @@ Bill Feager, also known simply as Feager, is a Polish wrestler known for his app
 
 #### Backyard era
 
-Feager joined [PpW Ewenement](@/o/ppw.md) back in their backyard days somewhere around mid-2015. In his early days - unlike many other PpW wrestlers - he worked only under his main alias "Feager", a character strongly influenced by wrestlers such as Undertaker, Brock Lesnar and Roman Reigns. He also teamed up with [Steven Strong](@/w/biesiad.md) and [Hirinus](@/w/mister-z.md) during that time. Feager made his last apperance for Backyard Era PpW in his promo announcing his apperance at [Kiedyś Będzie Lepiej](@//e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md), where he no-showed for a Tornado Hardcore Match. 
+Feager joined [PpW Ewenement](@/o/ppw.md) back in their backyard days, some time around mid-2015. In his early days - unlike many other PpW wrestlers - he worked only under his main alias "Feager", a character strongly influenced by wrestlers such as the Undertaker, Brock Lesnar and Roman Reigns. At the time he also teamed up with [Steven Strong](@/w/biesiad.md) and [Hirinus](@/w/mister-z.md). Feager made his last apperance for the backyard-era PpW in his promo announcing his apperance at [Kiedyś Będzie Lepiej](@//e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md), where he no-showed the Tornado Hardcore Match. 
 
 #### Return and early feuds
 
-Feager returned to PpW after nearly two-year hiatus making his apperance at [PpW Inside Job](@/e/ppw/2021-09-11-ppw-inside-job.md) in September 2021, where he faced [Tony Sk1n](@/w/tony-sk1n.md) and [Adam Wong](@/w/adam-wong.md). This led him to two Rematches against Tony and Wong at [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md) and [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) respectively. After defeating [Osamu](@/w/osamu.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) he unexpectedly alligned himself with Ms. XXX - [Mister Z's](@/w/mister-z.md) manager, who dumped him after his loss against [Biesiad](@/w/biesiad.md), only to immedietely kiss Feager and become his manager. This alliance didn't last long, as Ms. XXX left Feager - and PpW - sometime after [Back To The OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md).
+Feager returned to PpW after a nearly two-year hiatus, making his apperance at [Inside Job](@/e/ppw/2021-09-11-ppw-inside-job.md) in September 2021, where he faced [Tony Sk1n](@/w/tony-sk1n.md) and [Adam Wong](@/w/adam-wong.md). This led him to two rematches against Tony and Wong at [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md) and [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), respectively. After defeating [Osamu](@/w/osamu.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md), he unexpectedly alligned himself with Ms. XXX - [Mister Z's](@/w/mister-z.md) manager, who dumped him after his loss against [Biesiad](@/w/biesiad.md), only to immedietely kiss Feager and become his manager. This alliance didn't last long, as Ms. XXX left Feager - and PpW - some time after [Back to the OG](@/e/ppw/2023-02-04-ppw-back-to-the-og.md).
 
 #### PpW Champion
 
-After ending her alliance with Ms. XXX Feager spent most of 2023 working in midcard matches. At the last show of the year - [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) - he defeated [Jacob Crane](@/w/jacob-crane.md) which granted him a #1 Contender Spot for [PpW Championship](@/w/ppw-championship.md). He faced [Steve Kuningas](@/w/steve-kuningas.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) and managed to win, which made him the fifth PpW Champion in professional PpW history. He sucessfully defended his championship against Mister Z at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) he faced both Mister Z and Biesiad Strong in a Triple Threat Match for PpW Championship, which ended in Feager defeat and loss of his championship, ending his reign at 119 days. 
+After ending his alliance with Ms. XXX, Feager spent most of 2023 working in midcard matches. At the last show of the year - [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) - he defeated [Jacob Crane](@/w/jacob-crane.md), which granted him a #1 Contender Spot for the [PpW Championship](@/c/ppw-championship.md). He faced [Steve Kuningas](@/w/steve-kuningas.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) and managed to win, which made him the fifth PpW Champion in the history of the professional-era PpW. Feager sucessfully defended his championship against Mister Z at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) he faced both Mister Z and Biesiad Strong in a Triple Threat Match for PpW Championship, which ended in Feager's defeat and loss of his championship, ending his reign after 119 days. 
 
 #### Various storylines
 
-After losing his PpW Championship Feager held a grudge against Biesiad, which led them to fight at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a Delivery Van Match, which was ruled no-contest. Later on he also faced [Alex Arthur](@/w/alex-arthur.md) in a Chairs Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), and again Biesiad - dressed up as Santa Claus - at [Hardore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md). At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) he entered 20 Typa 20 Broni Match for opportunity to face PpW Champion at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), but he was unsucessfull in winning the match.
+After losing his PpW Championship Feager held a grudge against Biesiad, which led them to fight at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a Delivery Van Match, which was ruled a no-contest. Later on he also faced [Alex Arthur](@/w/alex-arthur.md) in a Chairs Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), and Biesiad again - dressed as Santa Claus - at [Hardore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md). At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) he entered the 20 Typa 20 Broni Match for an opportunity to face the PpW Champion at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), but he was unsucessfull in winning that match.
 
 ### Maniac Zone Wrestling (2024)
 
-Feager made his first apperance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, where he faced, and got defeated by fellow PpW wrestler [Johnny Blade](@/w/johnny-blade.md). 
+Feager made his first apperance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, where he faced, and was defeated by, a fellow PpW wrestler, [Johnny Blade](@/w/johnny-blade.md). 
 
 ## In wrestling
 
@@ -59,20 +59,20 @@ Feager made his first apperance for [Maniac Zone Wrestling](@/o/mzw.md) at [No T
 
 * Entrance music:
   - "Wherever I May Roam" by Metallica
-     {{ org_badge(orgs=['ppw', 'mzw']) }} (2024-) <br>
-     {{ music(yt='dHUHxTiPFUU')}}
-     {{ music(spot='4zJLpLsfY52ih6y8u4mhKH')}}
-     {{ music(apple='1571968136?i=1571968728')}}
+ {{ org_badge(orgs=['ppw', 'mzw']) }} (2024-) <br>
+ {{ music(yt='dHUHxTiPFUU')}}
+ {{ music(spot='4zJLpLsfY52ih6y8u4mhKH')}}
+ {{ music(apple='1571968136?i=1571968728')}}
   - "Sad But True" by Metallica
-   {{ org_badge(orgs=['ppw']) }} (2021-2024) <br>
-   {{ music(yt='A8MO7fkZc5o')}}
-   {{ music(spot='5ltXoDLlI0rFZAmOXbAp5T')}}
-   {{ music(apple='1571968136?i=1571968526')}}
+ {{ org_badge(orgs=['ppw']) }} (2021-2024) <br>
+ {{ music(yt='A8MO7fkZc5o')}}
+ {{ music(spot='5ltXoDLlI0rFZAmOXbAp5T')}}
+ {{ music(apple='1571968136?i=1571968526')}}
   - "A Warrior's Call" by Volbeat
-   {{ org_badge(orgs=['ppw']) }} (2024) <br>
-   {{ music(yt='rSmtHBMjXLU')}}
-   {{ music(spot='4o6k1XHlrIZay8v1m5VU83')}}
-   {{ music(apple='1440738335?i=1440738448')}}
+ {{ org_badge(orgs=['ppw']) }} (2024) <br>
+ {{ music(yt='rSmtHBMjXLU')}}
+ {{ music(spot='4o6k1XHlrIZay8v1m5VU83')}}
+ {{ music(apple='1440738335?i=1440738448')}}
 
 ## Championships and accomplishments
 
