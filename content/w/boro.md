@@ -47,7 +47,7 @@ At [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) Boro lost to Olgie
 
 Despite the fact that Boro did not win the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) and didn't defend it in a match either, he was still considered a champion due to the ["Freebird Rule"][freebird-rule]. Later on he continued to feud with Legia Łysych and Gabriel Queen, as Vic Golden suffered an injury around that time. 
 
-At [PTW Underground #17](@/e/ptw/2023-09-03-ptw-underground-17.md) he faced [Wiktor Longman](@/w/wiktor-longman.md) who at that time was feuding with Pawłowski. During that match Boro suffered a keyfabe knee injury caused by Longman, and he was oficially sent on rehabilitation to France for an undisclosed length of time.
+At [PTW Underground #17](@/e/ptw/2023-09-03-ptw-underground-17.md) he faced [Wiktor Longman](@/w/wiktor-longman.md) who at that time was feuding with Pawłowski. During that match Boro suffered a kayfabe knee injury caused by Longman, and he was officially sent on rehabilitation to France for an undisclosed length of time.
 
 Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, when he posted his "Last Dance Story" where he clearly supported wrestlers leaving PTW, such as his teammates from PAKA and the members of his ["Green Gang"](@/a/the-greens.md).
 

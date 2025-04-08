@@ -1,6 +1,7 @@
 +++
 title = "Erik Šlotíř"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -14,15 +15,19 @@ path = "ah-jooo.jpg"
 caption = "Erik Šlotíř informs he's parted ways with [Prime Time Wrestling](@/o/ptw.md)."
 source = "erikslotir @ Instagram"
 +++
-Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for his run in [Prime Time Wrestling](@/o/ptw.md) between 2023 and 2025.
+
+Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for his run in [Prime Time Wrestling](@/o/ptw.md) between 2023 and 2025, and for [Legacy of Wrestling](@/o/low.md) from 2025 onwards.
 
 ## Basic info
 
-* Years active: 2023-
+* Years active: 2023-present
 * Gimmicks/nicknames:
-  - Erik Šlotíř {{ org_badge(orgs=['ptw'])}}
-  - "The Hidden Gem" Erik Šlotíř {{ org_badge(orgs=['ptw'])}}
+  - "The Hidden Gem" Erik Šlotíř {{ org_badge(orgs=['ptw', 'low'])}}
   - Krecik {{ org_badge(orgs=['ptw'])}} (given by fans)
+* Trained by:
+  - Peter Tihanyi
+  - [Ricky Sky](@/w/ricky-sky.md)
+  - Robert Dreissker
 
 ## Professional wrestling career
 
@@ -36,14 +41,29 @@ In 2025, Šlotíř entered the tournament for the newly-created [PTW Underground
 
 Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslovakian (and later Czech) cartoon known in English as ["The Little Mole"][krtek].
 
-### Legacy of Wrestling (2025)
+### Legacy of Wrestling (2025-present)
 
-At [Legacy's second show](@/e/low/2025-04-06-low-2.md), Erik was the fifth mystery competitor in a Fatal Five-Way match, which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) and his newly-created _Press Office_ ("Biuro Prasowe").
+Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy Of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he was the fifth mystery competitor in a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md), which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) - Legacy's on-screen personality - who signed him to his stable called "Biuro Prasowe" (_Press Office_).
+
+## In wrestling
+
+* Finishers:
+  - Diving Elbow Drop (2023-)
+
+* Tag Teams and stables:
+  - Biuro Prasowe (2025-)
+
+* Managers:
+  - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-)
+
+* Entrance music:
+  - "Erik Slotir Theme Song" by Independent Artist
+     {{ org_badge(orgs=['low']) }} (2025-)  <br>
 
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27518)
 * [PTW confirms Šlotíř's departure in a Facebook comment](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0EtinH8uSMwm67BR4ji5Pr3VmFzpK9e2txKTuda6QqyEmQcxYd1o29SzUAABnowQJl?comment_id=2058644111321986&reply_comment_id=635351272208635)
-* [Erik Šlotíř's debut, presumably in VcV, March 2023](https://www.instagram.com/p/CqYiAFzsVf2/?img_index=1)
+* [Erik Šlotíř's debut in VcV, March 2023](https://www.instagram.com/p/CqYiAFzsVf2/?img_index=1)
 
 [krtek]:https://en.wikipedia.org/wiki/The_Little_Mole
