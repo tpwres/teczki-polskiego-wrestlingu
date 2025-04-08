@@ -62,7 +62,7 @@ Olgierd and Hammers, teaming together as Legia Łysych, joined PpW in a surprise
 While Pure Gold taunted Legia on their social media channels before the event, fans didn't take this as anything but a provocation against PTW.
 Legia, up until the very last moment, appeared to remain committed to PTW, feuding with [Vincent Caravaggio](@/w/vincent-caravaggio.md) and defending the PTW Intergender Championship.
 They were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
-Shortly after his joining PpW, Marco joined ["Zmowa"](@/a/the-collusion.md), a villainous faction led by [Mister Z](@/w/mister-z.md), feuding against PpW's top babyfaces both in tag team and solo matches.
+Shortly after his joining PpW, Marco joined ["Zmowa"](@/a/zmowa.md), a villainous faction led by [Mister Z](@/w/mister-z.md), feuding against PpW's top babyfaces both in tag team and solo matches.
 
 Marco was a part of the Zmowa team in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), where he was the first one to be eliminated.
 
@@ -89,7 +89,7 @@ Marco won this match after Olgierd's distraction, and in a post-match beatdown h
 
 * Tag Teams and stables:
   - Legia Łysych (2023-)
-  - [Zmowa](@/a/the-collusion.md) (2024-)
+  - [Zmowa](@/a/zmowa.md) (2024-)
 
 * Entrance music:
   - "Now You're a Man" by DVDA

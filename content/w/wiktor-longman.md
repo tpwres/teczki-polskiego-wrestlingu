@@ -41,7 +41,7 @@ Longman also made a few appearances abroad, most notably working alongside [Rene
 
 ### PpW Ewenement (2024)
 
-Longman made his return in October 2024, this time to [PpW](@/o/ppw.md), when he entered as the final, mystery partner of [Zmowa](@/a/the-collusion.md) in the Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) - seemingly leaning towards his old "mercenary" gimmick. After Zmowa's defeat he was blamed by [Gustav Gryffin](@/w/gustav-gryffin.md) for their loss in said match, which was a set up for their future match.
+Longman made his return in October 2024, this time to [PpW](@/o/ppw.md), when he entered as the final, mystery partner of [Zmowa](@/a/zmowa.md) in the Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) - seemingly leaning towards his old "mercenary" gimmick. After Zmowa's defeat he was blamed by [Gustav Gryffin](@/w/gustav-gryffin.md) for their loss in said match, which was a set up for their future match.
 
 ### Legacy of Wrestling (2024)
 

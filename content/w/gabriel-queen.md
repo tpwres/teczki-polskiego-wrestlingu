@@ -61,7 +61,7 @@ After securing victory, he was attacked by his defeated opponent, however his ta
 
 The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), which was surprisingly accepted by Legia Łysych, at that time still associated with PTW. The two teams reignited their feud from PTW, delivering a well-received match.
 Their rivalry with Legia Łysych - especially [Olgierd](@/w/olgierd.md) - continued, and Gabriel faced him at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a No Weapons Hooligan Street Fight, which ended in Olgierd's disqualification for using a weapon.
-This led to Gabriel and Vic going against the villainous stable [Zmowa](@/a/the-collusion.md) in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), which they won as part of a coalition against Zmowa, led by [Biesiad](@/w/biesiad.md).
+This led to Gabriel and Vic going against the villainous stable [Zmowa](@/a/zmowa.md) in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), which they won as part of a coalition against Zmowa, led by [Biesiad](@/w/biesiad.md).
 
 #### Championship pursuit
 
