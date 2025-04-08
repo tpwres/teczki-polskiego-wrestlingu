@@ -86,7 +86,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 #### Santa Biesiad vs Feager 
 
 * Timestamp: `0:28:24`
-* [Feager](@/w/feager.md) makes his entrance to the ring. Biesiad declares that his opponent will also recieve a gift. He pulls out some vodka and condoms from the bag, strongly suggesting that Faeger should "Drink, have sex and F-off".
+* [Feager](@/w/feager.md) makes his entrance to the ring. Biesiad declares that his opponent will also recieve a gift. He pulls out some vodka and condoms from the bag, strongly suggesting that Feager should "Drink, have sex and F-off".
 * The match beggins and lasts for about 20 minutes. [Sędzia Kornel](@/w/sedzia-kornel.md) is the referee but due to the match's impromptu nature, it is most likely a hardcore match by default.
 * The match is full of objects such as chairs, ladders, tables, sledgehammers and even a Christmas tree from the stage.
 * Finally, the match ends after Santa Biesiad hits Feager with his signature move from the top of the ladder.

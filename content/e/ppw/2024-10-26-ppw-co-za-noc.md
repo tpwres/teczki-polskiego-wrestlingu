@@ -128,21 +128,21 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * After his victory, rookie Oskar announces that henceforth he shall be known as [Oskar Aleksander](@/w/oskar-aleksander.md).
 * Oskar Aleksander and his valet leave the ring while crowd boos them.
 
-#### Alex Arthur vs Bill Faeger
+#### Alex Arthur vs Bill Feager
 
 * Michael HT again hypes up the crowd before the fight. He also promotes the merch stand and the tattoo parlour "Syrena".
 * The host invites [Referee Kornel]((@/w/sedzia-kornel.md)) to the ring. The crowd cheers him while Michael announces the third fight.
 * Timestamp: `2:32:28`
 * [Alex Arthur](@/w/alex-arthur.md) makes his entrance first.
 * [Feager](@/w/feager.md) makes his entrance to the ring to a rather negative fan reaction.
-* The match starts slowly, with some basic chain wrestling and a test of strength before Faeger gets the upper hand with a heelish move.
-* Faeger continues to beat down Arthur all around the ring, while the crowd is chanting "Where are the chairs?!"
-* Alex Arthur finally gets the upper hand after a back suplex and suicide dive. He then starts to hit Bill Faeger with a chair he took from underneath the ring.
-* A long brawl at the ringside ends up with Faeger regaining control over the match. After working on his opponent's leg with chairshots and a few short comebacks from Arthur, Faeger tries to hit Alex Arthur with a chokeslam. The Ukrainian wrestler counters the move to a sidewalk slam and an unsuccesful pinfall attempt.
-* The scuffle ends up with Alex standing tall and taking the opportunity to set up a four-chair structure in the ring to hit his finisher on Faeger. However, the ex-PpW Champion counters it with a back body drop and destroys Alex's chair structure, which is rebuilt shortly thereafter.
-* The match ends after Bill Faeger hits Alex Arthur with a powerbomb onto the structure, and an underhook facebuster on a chair laying in the middle of the ring.
-* Winner: Bill Faeger by pinfall.
-* Faeger celebrates in the ring for a while, while staff clears the leftover chairs from the ring.
+* The match starts slowly, with some basic chain wrestling and a test of strength before Feager gets the upper hand with a heelish move.
+* Feager continues to beat down Arthur all around the ring, while the crowd is chanting "Where are the chairs?!"
+* Alex Arthur finally gets the upper hand after a back suplex and suicide dive. He then starts to hit Bill Feager with a chair he took from underneath the ring.
+* A long brawl at the ringside ends up with Feager regaining control over the match. After working on his opponent's leg with chairshots and a few short comebacks from Arthur, Feager tries to hit Alex Arthur with a chokeslam. The Ukrainian wrestler counters the move to a sidewalk slam and an unsuccesful pinfall attempt.
+* The scuffle ends up with Alex standing tall and taking the opportunity to set up a four-chair structure in the ring to hit his finisher on Feager. However, the ex-PpW Champion counters it with a back body drop and destroys Alex's chair structure, which is rebuilt shortly thereafter.
+* The match ends after Bill Feager hits Alex Arthur with a powerbomb onto the structure, and an underhook facebuster on a chair laying in the middle of the ring.
+* Winner: Bill Feager by pinfall.
+* Feager celebrates in the ring for a while, while staff clears the leftover chairs from the ring.
 
 #### First break & interviews
 
