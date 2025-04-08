@@ -98,6 +98,10 @@ class Linter:
     def lint(self, document: Doc) -> Sequence[LintError]:
         pass
 
+    @abstractmethod
+    def handles(self, path: Path) -> bool:
+        pass
+
 def line_offset_to_card_block(doc: Doc) -> Optional[int]:
     with doc.open() as fp:
         body = fp.read()

@@ -71,3 +71,6 @@ static/calendar-%.ics: content/e/%/*.md
 
 $(MINISEARCH_INDEX): content/**/*.md data/aliases.json
 	bin/build-index > $@
+
+lint-championships: meta
+	bin/lint -L ChampionshipUpdated -- content/c/

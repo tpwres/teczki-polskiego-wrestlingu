@@ -1,11 +1,19 @@
 #! /bin/bash
 # set -x
 
+build-meta() {
+  make meta
+}
+
 lint() {
     bin/lint || true
 }
 
-create_config() {
+lint-requiring-meta() {
+    bin/lint -L ChampionshipUpdated content/c/
+}
+
+create-config() {
   case $CF_PAGES_BRANCH in
       main)
           export BASE_URL=$PRODUCTION_URL
@@ -18,7 +26,7 @@ create_config() {
   envsubst < cloudflare-config.toml > build_cloudflare_config.toml
 }
 
-setup_seo() {
+setup-seo() {
   # Find the last-modified dates of all files under content/
   # Edit each file inline, inserting updated= into front matter
   git fetch --unshallow
@@ -35,7 +43,6 @@ setup_seo() {
   envsubst < templates/robots_template.txt > templates/robots.txt
 }
 
-
 build() {
   make all plot index
 
@@ -47,6 +54,8 @@ build() {
 }
 
 lint
-create_config
-setup_seo
+build-meta
+lint-requiring-meta
+create-config
+setup-seo
 build

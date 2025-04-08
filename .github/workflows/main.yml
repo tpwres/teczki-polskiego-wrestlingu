@@ -31,6 +31,9 @@ jobs:
       - name: Run lint and create comment
         run: |
           bin/lint
+      - name: Lint championship articles
+        run: |
+          bin/lint -L ChampionshipUpdated -- content/c/
       - name: Build site
         run: |
           zola build
