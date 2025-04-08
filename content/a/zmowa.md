@@ -1,5 +1,5 @@
 +++
-title = "The Collusion" 
+title = "Zmowa" 
 weight = 0
 template = "article.html"
 authors = ["Sewi The Referee"]
