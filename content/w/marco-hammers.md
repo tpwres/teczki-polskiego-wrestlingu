@@ -81,6 +81,8 @@ In one of the episodes of his YouTube vlog series - "Łysy Vlog" - he got into a
 This Internet feud evolved into a match at Legacy's [first show](@/e/low/2024-12-01-low-1.md).
 Marco won this match after Olgierd's distraction, and in a post-match beatdown him and Olgierd managed to snatch Filip's [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) belt and pose with it, which strongly suggested Legia's intention to face the KPW champions for their titles.
 
+This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Marco and Olgierd faced the Fux Brothers for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) in the main event.
+
 ## In wrestling
 
 * Finishers:

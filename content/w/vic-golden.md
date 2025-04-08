@@ -130,10 +130,14 @@ After Legia Łysych joined [Zmowa](@/a/the-collusion.md), Pure Gold became their
  {{ music(spot='3azjlLgKf8YQI2vK0D8skx')}}
  {{ music(apple='722079694?i=722079700')}}
   - "Best of Both Worlds" by Hannah Montana
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-, both in tag team with [Gabriel Queen](@/w/gabriel-queen.md) and solo) <br>
+ {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-2025, both in tag team with [Gabriel Queen](@/w/gabriel-queen.md) and solo)<br>
  {{ music(yt='ZSGC3g-EWbw')}}
  {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
  {{ music(apple='1440632617?i=1440633345')}}
+  - "Hi Fi" by Wanda i Banda
+ {{ org_badge(orgs=['low']) }} (2025)
+ {{ music(yt='INGAIJiMCnE')}}
+ {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
 
 ## Championships and accomplishments
 

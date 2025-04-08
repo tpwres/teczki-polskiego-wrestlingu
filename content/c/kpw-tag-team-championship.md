@@ -125,7 +125,6 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)'
     ed: 2025-04-06
-    nc: upcoming
 {% end %}
 
 ## References

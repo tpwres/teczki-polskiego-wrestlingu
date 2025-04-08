@@ -15,7 +15,7 @@ Filip Fux is one half of the Fux Brothers tag team, along with his kayfabe sibli
 
 The Fux Brothers are the reigning [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), having won the belts from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at an European Wrestling Association show in Austria. 
 
-Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md), thus becoming the first worker KPW allowed to perform in another Polish federation.
+Filip Fux was the first KPW wrestler to be booked for the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md), thus becoming the first worker KPW allowed to perform in another Polish federation. Filip and Michał later returned for the [second show](@/e/low/2025-04-06-low-2.md) to defend their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) against Legia Łysych.
 
 ## Basic info
 

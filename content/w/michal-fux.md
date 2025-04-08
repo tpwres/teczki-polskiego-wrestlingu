@@ -32,6 +32,11 @@ In October 2024 KPW's chairman [Krystian Malinowski](@/w/krystian-malinowski.md)
 
 As of February 2025, Michał is the only active KPW wrestler who's never missed a single show since his debut.
 
+### Legacy of Wrestling (2025)
+
+Michał debuted at Legacy of Wrestling's [second show](@/e/low/2025-04-06-low-2.md), where together with Filip he defended their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) against Legia Łysych.
+
+
 ## In wrestling
 
 * Finisher:
@@ -45,12 +50,12 @@ As of February 2025, Michał is the only active KPW wrestler who's never missed 
 
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
- {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
+ {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in Tag Team with [Filip Fux](@/w/filip-fux.md) and solo)<br>
  {{ music(yt='CmXWkMlKFkI')}}
  {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
  {{ music(apple='1764395673?i=1764396024')}}
   - "Better days" by Dangerous New Machine
- {{ org_badge(orgs=['kpw']) }} (2023-) <br>
+ {{ org_badge(orgs=['kpw']) }} (2023-present - both in Tag Team with [Filip Fux](@/w/filip-fux.md) and solo)<br>
  {{ music(yt='se3AUY4XKcA')}}
  {{ music(apple='375038556?i=375038653')}}
 
