@@ -39,7 +39,7 @@ city = "Warszawa"
   - '[Mister Z](@/w/johnny-blade.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Samson](@/w/samson.md)'
-  - g: '[Zmowa](@/a/the-collusion.md) vs Zmowa przeciwko zmowie face-off'
+  - g: '[Zmowa](@/a/zmowa.md) vs Zmowa przeciwko zmowie face-off'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -107,7 +107,7 @@ city = "Warszawa"
 * Outside, the van returns, Biesiad runs into the venue. After a brief brawl, steps outside for a moment,  and returns with a piece of aluminium truss, throwing it into the ring, forcing the heels to take notice.
 * Heels back away and it looks like "Zmowa przeciwko zmowie" is finally formed. Babyfaces free Samson and they all celebrate together. Biesiad challenges Mister Z to an "ustawka match" where each of them teams up with his respective crew.
 * Some taunting between the two teams and babyfaces celebrate once again to loud cheers and "PpW" chants.
-* Michael HT confirms "Zmowa przeciwko zmowie vs [Zmowa](@/a/the-collusion.md)" for the [next show](@/e/ppw/2024-10-26-ppw-co-za-noc.md). He plugs the next shows and announces the start of ticket sale for the next day. Afterparty starts.
+* Michael HT confirms "Zmowa przeciwko zmowie vs [Zmowa](@/a/zmowa.md)" for the [next show](@/e/ppw/2024-10-26-ppw-co-za-noc.md). He plugs the next shows and announces the start of ticket sale for the next day. Afterparty starts.
 {% end %}
 
 ### References

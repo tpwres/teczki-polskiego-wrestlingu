@@ -54,7 +54,7 @@ This experience in hardcore and deathmatches, as well as a history of taking ref
 
 #### Feud with Olgierd
 
-After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zmowa](@/a/the-collusion.md) - [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) - blamed Kornel for their defeat at said show. In a post-match interview, Olgierd verbally and physically assaulted Kornel, and vowed that he would put all of PpW's referees back in line, as they were constantly interrupting him in his matches by enforcing rules. On February 2nd, 2025, it was officially announced that Olgierd would face each referee in a Gauntlet Match at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md). Referee Kornel was the first one to go against the Polish hooligan.
+After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zmowa](@/a/zmowa.md) - [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) - blamed Kornel for their defeat at said show. In a post-match interview, Olgierd verbally and physically assaulted Kornel, and vowed that he would put all of PpW's referees back in line, as they were constantly interrupting him in his matches by enforcing rules. On February 2nd, 2025, it was officially announced that Olgierd would face each referee in a Gauntlet Match at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md). Referee Kornel was the first one to go against the Polish hooligan.
 
 ### Maniac Zone Wrestling (2023)
 
