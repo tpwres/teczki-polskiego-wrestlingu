@@ -27,6 +27,12 @@ The title was first mentioned in a December 2024 interview for the [MyWrestling 
   - s: Ladder match
     en: '[PTW Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md)'
     ed: 2025-03-15
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Conte'
+  - s: Ladder match
+    en: '[PTW Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
+    ed: 2025-04-12
+    nc: upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
