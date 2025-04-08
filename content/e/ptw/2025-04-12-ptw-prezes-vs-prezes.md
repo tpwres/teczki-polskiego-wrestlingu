@@ -23,6 +23,10 @@ city = "Kozłów"
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Conte'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    nc: upcoming
 - credits:
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
 {% end %}
