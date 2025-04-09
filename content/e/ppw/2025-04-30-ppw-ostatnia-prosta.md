@@ -33,6 +33,6 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
   - nc: upcoming
   - - '??'
     - '??'
-    - s: Enigma Scramble - ?-Man Scramble Match
-    nc: upcoming
+    - s: 'Enigma Scramble - ?-Man Scramble Match'
+      nc: upcoming
 {% end %}
