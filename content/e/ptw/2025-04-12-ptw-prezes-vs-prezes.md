@@ -12,6 +12,7 @@ city = "Kozłów"
 1 = { path = "dwaj-prezesi.webp", caption = "Official banner, featuring [Łukasz Okoński](@/w/lukasz-okonski.md) and [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }
 2 = { path = "andrzej-supron.webp", caption = "Announcement of [Andrzej Supron](@/w/andrzej-supron.md) as the Special Guest Referee.", source = "Official PTW Facebook" }
 3 = { path = "speed-conte.webp", caption = "[Max Speed](@/w/max-speed.md) vs Conte.", source = "Official PTW Facebook" }
+4 = { path = "lavonce-vs-brave.webp", caption = "LaVonce vs [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook" }
 +++
 
 "Prezes vs Prezes" (_Chairman vs Chairman_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
@@ -27,6 +28,9 @@ city = "Kozłów"
   - 'Conte'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
+- - 'LaVonce'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - nc: upcoming
 - credits:
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
 {% end %}
