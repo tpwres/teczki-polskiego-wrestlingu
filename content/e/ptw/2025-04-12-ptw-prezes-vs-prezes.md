@@ -18,9 +18,9 @@ city = "Kozłów"
 "Prezes vs Prezes" (_Chairman vs Chairman_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
 
 ### Build-up
-* On April Fools Day PTW announced Andrzej Supron as the Special Guest Referee for the Main Event. They reiterated that despite the date, it is no April Fool's joke
-* Both Chairmen appeared live for PTW Youtube Channel on separate occassions during the feud. Rather than firing shots at each other, each of them focused on calling out competition and "traitors", making only brief references to the opponent.
-* Max Speed is going to defend [PTW Underground Championship](@/c/ptw-underground-championship.md) against [Conte][conte], Italian wrestler with 3 years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more italians incoming]
+* On April Fools Day PTW announced Andrzej Supron as the Special Guest Referee for the Main Event. They reiterated that despite the date, it is not an April Fools joke.
+* Both Chairmen appeared live on the PTW YouTube channel on separate occassions during the feud. Rather than firing shots at one another, each of them focused on calling out the competition and "traitors", making only brief references to the opponent.
+* Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against Conte, an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
 
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
@@ -37,6 +37,4 @@ city = "Kozłów"
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
 {% end %}
 
-References:
-[conte]: https://www.cagematch.net/?id=2&nr=31103
-[more italians incoming]: https://www.instagram.com/conte_mcstevenson/
+[more_italians_incoming]: https://www.instagram.com/conte_mcstevenson/
