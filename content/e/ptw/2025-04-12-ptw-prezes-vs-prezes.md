@@ -37,4 +37,7 @@ city = "Kozłów"
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
 {% end %}
 
+## References
+* [Conte's CageMatch profile](https://www.cagematch.net/?id=2&nr=31103&page=20)
+
 [more_italians_incoming]: https://www.instagram.com/conte_mcstevenson/
