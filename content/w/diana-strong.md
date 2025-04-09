@@ -18,7 +18,7 @@ Diana Strong is a Polish female wrestler best known for her time in [Prime Time 
 * Years active: 2017-present
 * Gimmicks/nicknames:
   - Diana Rega {{ org_badge(org='kpw') }}
-  - Diana Strong {{ org_badge(org='mzw') }}
+  - Diana Strong {{ org_badge(org='ptw') }}
 * Trained by:
   - KPW Academy (2017-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-present)
@@ -49,11 +49,11 @@ After PTW reboot, which was forced by multiple controversies and [talent exodus]
   - _Power Play_ (Samoan Drop) (2021-)
 
 * Wrestlers managed:
-  - Moloch
+  - Moloch (2018)
  
 * Entrance music:
    - "Iconic" by Ledger
-     {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
+     {{ org_badge(orgs=['ptw']) }} (2021-) <br>
      {{ music(yt='EcpAfOZlMnk')}}
      {{ music(spot='75sYImCjS4sB3Xrdrae1OZ')}}
      {{ music(apple='1366486807?i=1366487205')}}
