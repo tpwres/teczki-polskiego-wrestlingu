@@ -11,7 +11,7 @@ country = ["US"]
 2 = { path = "the-k-team-summer-camp-2023.jpg", caption = "Left to right: [Kamil Aleksander](@/w/kamil-aleksander.md), Don Roid, [Piękny Kawaler](@/w/piekny-kawaler.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md) at KPW Summer Camp 2023.", source = "Official KPW Facebook" }
 +++
 
-Don Roid is an American wrestler best known as creator and owner of [Do Or Die Wrestling](@/o/ddw.md) - first professional wrestling federation in Poland.
+Don Roid is an American wrestler best known as the founder and owner of [Do Or Die Wrestling](@/o/ddw.md) - the first professional wrestling federation in Poland.
 
 ## Basic info
 
@@ -27,9 +27,9 @@ Don Roid is an American wrestler best known as creator and owner of [Do Or Die W
 
 Don Roid, an American from Pennsylvania, started his in-ring career in 2001 and wrestled for several promotions in the US and Western Europe, before coming to Poland in the latter half of the 2000s. In 2008 he created an account on the Wrestling Attitude forum, asking about the state of wrestling in Poland - having found out that it's nonexistent, Roid made the decision to start his own promotion and in 2009 [Do Or Die Wrestling](@/o/ddw.md) officially started, based in Warsaw.
 
-After about a year in the capital, DDW moved to Rzeszów. During that time Don Roid focused on coaching new generation of wrestlers and performers, such as [Piękny Kawaler](@/w/piekny-kawaler.md), [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and many more. Besides that he also worked in DDW as a wrestler. 
+After about a year in the capital, DDW moved to Rzeszów. During that time Don Roid focused on coaching a new generation of wrestlers and performers, such as [Piękny Kawaler](@/w/piekny-kawaler.md), [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and many more. Besides that he also worked in DDW as a wrestler. 
 
-When in late 2014 DDW moved to gdańs Gdańsk the move proved inconvenient to Roid due to the distance involved, he became increasingly less hands-on in the running of the promotion. Finally, in 2015, he decided to close down the door on DDW and sell the ring to the other members of the roster, who then went on to create [Kombat Pro Wrestling](@/o/kpw.md) later that year. Roid then retired from wrestling and became a commentator for a variety of combat sports.
+When in late 2014 DDW moved to Gdańsk, the move proved inconvenient to Roid due to the distance involved. As a result, he became increasingly less hands-on in the running of the promotion. Finally, in 2015, he decided to close down the door on DDW and sell the ring to the other members of the roster, who then went on to create [Kombat Pro Wrestling](@/o/kpw.md) later that year. Roid then retired from wrestling and became a commentator for a variety of combat sports.
 
 ### Kombat Pro Wrestling (2023)
 
