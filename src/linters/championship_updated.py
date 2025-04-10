@@ -59,6 +59,7 @@ class ChampionshipUpdatedLinter(Linter):
                      if isinstance(block, FreeCardBlock)]
         self.validate_blocks(fc_blocks)
 
+        # TODO: Validate that ALL matches with that championship are listed, none are omitted.
 
         return self.messages
 
