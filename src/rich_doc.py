@@ -21,6 +21,7 @@ from functools import partial
 import re
 import tomllib
 import yaml
+from linters.errors import format_error
 
 class DocError(Exception):
     pass
@@ -65,16 +66,18 @@ class RichDoc:
         return partial(decorate, cls, block_name)
 
     @classmethod
-    def from_file(cls, path: Path):
+    def from_file(cls, path: Path, error_sink=None):
         if not path.exists():
-            raise DocError(f"Path {path} does not exist")
-        doc = cls(path.open('r'), path)
+            error_sink.error(DocError(f"Path {path} does not exist"))
+            return cls(StringIO(''), path, error_sink)
+
+        doc = cls(path.open('r'), path, error_sink)
         doc.parse()
         return doc
 
     @classmethod
-    def from_text(cls, body: TextIO, identifier: str = '<text>'):
-        doc = cls(StringIO(body), PurePath(identifier))
+    def from_text(cls, body: TextIO, identifier: str = '<text>', error_sink = None):
+        doc = cls(StringIO(body), PurePath(identifier), error_sink)
         doc.parse()
         return doc
 
@@ -90,9 +93,10 @@ class RichDoc:
     def taxonomies(self) -> dict[str, Any]:
         return self.front_matter.get('taxonomies') or {}
 
-    def __init__(self, body: TextIO, path: Optional[Path]):
+    def __init__(self, body: TextIO, path: Optional[Path], error_sink=None):
         self.body = body
         self.path = path
+        self.sink = error_sink
         self.sections = []
 
         self.current_block = None
@@ -136,10 +140,11 @@ class RichDoc:
             _, _, fm = self.sections.pop()
             self.front_matter = fm.front_matter
         else:
-            if any(isinstance(blk, FrontMatterBlock) for (_, _, blk) in self.sections):
-                raise DocError(f"Extra frontmatter delimiter at line {line_num} after frontmatter already consumed")
+            if self.front_matter:
+                self.sink.error(format_error(f"extra frontmatter delimiter encountered", self.path, line_num, None))
+
             # No need to wrap up preceding text, this is at document start
-            self.current_block = FrontMatterBlock(None, line_num)
+            self.current_block = FrontMatterBlock(None, line_num, self.sink)
 
     def summary_closed(self, line_num):
         summary, _ = self.text_up_to_now()
@@ -153,10 +158,10 @@ class RichDoc:
             return
 
         # Wrap up current text and add as section
-        section, start_line = self.text_up_to_now()
+        section_text, start_line = self.text_up_to_now()
         self.clear_buf()
 
-        self.sections.append((start_line, self.last_section_title, section))
+        self.sections.append((start_line, self.last_section_title, section_text))
 
         # Include header as part of section body
         self.raw_text(line, line_num)
@@ -165,11 +170,14 @@ class RichDoc:
 
     def block_opened(self, block, params, line_num):
         # Wrap up current text and add as section
-        section, start_line = self.text_up_to_now()
+        section_text, start_line = self.text_up_to_now() or (None, None)
         self.clear_buf()
 
-        self.sections.append((start_line, self.last_section_title, section))
+        if section_text:
+            self.sections.append((start_line, self.last_section_title, section_text))
 
+        if self.current_block:
+            self.sink.error(format_error("opening new block before closing previous one", self.path, line_num, None))
         self.current_block = self.create_block(block, params, line_num)
 
     def block_closed(self, line_num):
@@ -191,7 +199,7 @@ class RichDoc:
     def create_block(self, block, params, line_num) -> 'Block':
         try:
             factory = self.__class__.block_classes[block]
-            return factory(params, line_num)
+            return factory(params, line_num, self.sink)
         except KeyError:
             raise DocError(f"Unsupported block type {block}")
 
@@ -220,9 +228,10 @@ class Block:
     body: list[str]
     params: str
 
-    def __init__(self, params, line_num):
+    def __init__(self, params, line_num, error_sink):
         self.params = params
         self.starting_line = line_num
+        self.sink = error_sink
 
         self.body = []
 
@@ -237,14 +246,22 @@ class Block:
 class CardBlock(Block):
     raw_card: list[Any]
 
+    def __init__(self, params, line_num, error_sink):
+        super().__init__(params, line_num, error_sink)
+        self.raw_card = None
+
     def close(self):
         card_text = '\n'.join(self.body)
-        self.raw_card = yaml.safe_load(card_text)
         self.body = None
+        self.raw_card = yaml.safe_load(card_text)
 
 @RichDoc.register_block('free_card')
 class FreeCardBlock(Block):
     raw_card: list[Any]
+
+    def __init__(self, params, line_num, error_sink):
+        super().__init__(params, line_num, error_sink)
+        self.raw_card = None
 
     def close(self):
         card_text = '\n'.join(self.body)
