@@ -28,6 +28,7 @@ class DocError(Exception):
 FRONTMATTER_DELIMITER = re.compile(r'[+]{3}\s*')
 MORE_REGEX = re.compile(r'<!--\s+more\s+-->\s*')
 BLOCK_START = re.compile(r'''
+  \s*
   \{%\s+ # Wrapped in {% %}
     (?P<name>\w+)
     \( # Keyword followed by mandatory parentheses
@@ -39,7 +40,7 @@ BLOCK_START = re.compile(r'''
     \)\s+
   \%}\s*
 ''', re.X)
-BLOCK_END = re.compile(r'{%\s+end\s+%}\s*')
+BLOCK_END = re.compile(r'\s*{%\s+end\s+%}\s*')
 HEADER_LINE = re.compile(r'^[#]{2,5}\s+(?P<title>.*)$')
 ALL_BLANKS = re.compile(r'^\s+$')
 
