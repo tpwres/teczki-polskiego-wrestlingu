@@ -6,6 +6,7 @@ from linters.base import LintError, Doc, Linter
 from linters.errors import FileError, FileWarning, LintWarning
 from card import person_link_re, person_plain_re
 from rich_doc import RichDoc, FreeCardBlock
+from md_utils import parse_link
 
 F = FileError
 W = FileWarning
@@ -105,9 +106,8 @@ class ChampionshipUpdatedLinter(Linter):
                 self.validate_match_in_card([*matchline, opts], prefix)
 
     def validate_event_file(self, event_link, event_date, prefix):
-        title, event_path = event_link.split('](')
-        event_path = event_path[:-1].replace('@', str(self.content_root)) # Convert from @-path
-        title = title[1:] # Strip the leading ]
+        title, event_path = parse_link(event_link)
+        event_path = event_path.replace('@', str(self.content_root)) # Convert from @-path
         path = Path(event_path)
 
         if not path.match(f'{event_date}-*.md'):
@@ -128,16 +128,13 @@ class ChampionshipUpdatedLinter(Linter):
         opts = fight.pop()
         en = opts.pop('en')
 
-        if '](' not in en: # Not markdown link
-            return
-
-        _title, event_path = en.split('](')
-        full_path = event_path[:-1].replace('@', str(self.content_root)) # Convert from @-path
+        _title, event_path = parse_link(en)
+        full_path = event_path.replace('@', str(self.content_root)) # Convert from @-path
         path = Path(full_path)
         if not path.exists():
             return
 
-        rel_path = event_path[:-1].replace('@/', '')
+        rel_path = event_path.replace('@/', '')
         # All bouts at this event
         bouts = [m for m in self.all_matches if m['p'] == rel_path]
         championship_matches = self.find_relevant_match(bouts, participants=fight, opts=opts, prefix=prefix, event_path=rel_path)
