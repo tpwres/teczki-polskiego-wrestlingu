@@ -11,8 +11,8 @@ In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from t
 
 ## The Stonoga controversy
 
-On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
-The next day, Stonoga posted photos of himself and the car, as well as short clips of himself in the passenger seat.
+On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he'd bought 1500 tickets for [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) and wanted to distribute them for free to his supporters (who sent him money and received a numbered membership card).
+The next day, Stonoga posted photos of himself and the Nissan GTR that was the main prize in the [PTW lottery](@/o/ptw.md#the-lottery), as well as short clips of himself in the car's passenger seat.
 Ludwiczek also posted a photo of himself and the controversial Stonoga in front of the car.
 Later, Stonoga announced we would hand out 50 free tickets to anyone who approached him in person at a McDonald's in Legionowo.
 This move prompted PTW wrestler [Taras](@/w/taras.md) to seemingly cut his ties with the organization, declaring he's finally "quitting this circus".
