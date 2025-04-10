@@ -52,7 +52,7 @@ class ChampionshipUpdatedLinter(Linter):
 
         self.target_path = path
 
-        rd = RichDoc.from_file(path)
+        rd = RichDoc.from_file(path, error_sink=self.sink)
         self.championship_name = rd.title
         fc_blocks = [(start_line, block)
                      for start_line, _name, block in rd.sections
