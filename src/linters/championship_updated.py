@@ -136,23 +136,26 @@ class ChampionshipUpdatedLinter(Linter):
 
         if not championship_matches:
             self.error(f'{prefix} relevant match not found in event card at {rel_path}, participants may be different', starting_line, None)
+        num_matches = len(championship_matches)
 
+        # TODO: Extract this bit
         cm_errors = defaultdict(lambda: [])
         cm_warnings = defaultdict(lambda: [])
         for i, cm in enumerate(championship_matches):
             *_teams, cm_opts = cm['m']
-            stip, card_stip = cm_opts.get('s'), opts.get('s')
-            if stip and stip != card_stip:
+            stip, card_stip = opts.get('s'), cm_opts.get('s')
+            # TODO: stip_compatible() method
+            if stip and stip != card_stip and not (card_stip is None and stip == 'Singles match'):
                 cm_warnings[i].append(f"{prefix} stipulation mismatch: `{stip}` in article, `{card_stip}` in card")
-            nc, card_nc = cm_opts.get('nc'), opts.get('nc')
+            nc, card_nc = opts.get('nc'), cm_opts.get('nc')
             if nc and nc != card_nc:
                 cm_errors[i].append(f"{prefix} ruling (nc) mismatch: `{nc}` in article, `{card_nc}` in card")
 
-            result, card_result = cm_opts.get('r'), opts.get('r')
+            result, card_result = opts.get('r'), cm_opts.get('r')
             if result and result != card_result:
                 cm_warnings[i].append(f"{prefix} result mismatch: `{result}` in article, `{card_result}` in card")
 
-        if len(cm_errors) < len(championship_matches) or len(cm_warnings) < len(championship_matches):
+        if len(cm_errors) < num_matches and len(cm_warnings) < num_matches:
             # If at least one matched on title + participants, and flags r(esult), s(tipulation) and nc(no-contest), we're good
             return
 
