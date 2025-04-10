@@ -1,16 +1,11 @@
 import re
-import yaml
-import tomllib
 import json
 from collections import defaultdict
 from pathlib import Path
 from linters.base import LintError, Doc, Linter
 from linters.errors import FileError, FileWarning, LintWarning
-from utils import extract_front_matter
 from card import person_link_re, person_plain_re
-
-FREE_CARD_START = re.compile(r'{% free_card\(\) %}')
-FREE_CARD_END = re.compile(r'{% end %}')
+from rich_doc import RichDoc, FreeCardBlock
 
 F = FileError
 W = FileWarning
@@ -63,60 +58,48 @@ class ChampionshipUpdatedLinter(Linter):
 
         self.target_path = path
 
-        with document.open() as fp:
-            text = fp.read()
-            fm = tomllib.loads(extract_front_matter(text))
-            self.championship_name = fm['title']
-            fc_blocks = list(self.find_card_blocks(text))
-            self.validate_blocks(fc_blocks)
+        rd = RichDoc.from_file(path)
+        self.championship_name = rd.title
+        fc_blocks = [(start_line, block)
+                     for start_line, _name, block in rd.sections
+                     if isinstance(block, FreeCardBlock)]
+        self.validate_blocks(fc_blocks)
+
 
         return self.messages
 
-    def find_card_blocks(self, text: str):
-        for fc_head in FREE_CARD_START.finditer(text):
-            start = fc_head.end() + 1 # Eat newline
-            fc_tail = FREE_CARD_END.search(text[start:])
-            if not fc_tail:
-                self.error('Improperly closed free_card block')
-                return
-            fc_block = text[start:start + fc_tail.start()]
-            yield fc_block
-
     def validate_blocks(self, blocks):
-        for i, block in enumerate(blocks, start=1):
+        for i, (starting_line, block) in enumerate(blocks, start=1):
+            location = f'free card block {i} starting at line {starting_line}'
             if not block:
-                self.error(f'Free card block {i} is blank')
-            try:
-                fc = yaml.safe_load(block)
-            except yaml.YAMLError:
-                self.error(f'Error loading free card block {i}')
-                return
+                self.error(f'{location} is blank')
 
+            fc = block.raw_card
             if fc is None:
-                self.error(f'Free card block {i} is empty')
+                self.error(f'{location} is empty')
                 return
 
             if not isinstance(fc, list):
-                self.error(f"Free card block {i} does not parse as a list")
+                self.error(f"{location} does not parse as a list")
 
-            self.validate_match_block(fc, i)
+            self.validate_match_block(fc, location)
 
-    def validate_match_block(self, matchlines, block_num):
+    def validate_match_block(self, matchlines, location):
         for i, matchline in enumerate(matchlines, start=1):
             opts = matchline.pop()
             if not isinstance(opts, dict):
-                self.error(f"Match {i} in free card block {block_num} has no options")
+                self.error(f"Match {i} in {location} has no options")
                 continue
 
             en, ed = opts.get('en'), opts.get('ed')
             if not en:
-                self.error(f"Match {i} in free card block {block_num} is missing an `en` entry")
+                self.error(f"Match {i} in {location} is missing an `en` entry")
 
             if not ed:
-                self.error(f"Match {i} in free card block {block_num} is missing an `ed` entry")
+                self.error(f"Match {i} in {location} is missing an `ed` entry")
 
             if en and '](' in en:
-                prefix = f'In free card block {block_num}, match {i}'
+                prefix = f'In {location}'
                 self.validate_event_file(en, ed, prefix)
 
                 self.validate_match_in_card([*matchline, opts], prefix)
@@ -134,18 +117,18 @@ class ChampionshipUpdatedLinter(Linter):
             return
 
         # NOTE: Could be cached
-        fm = tomllib.loads(extract_front_matter(path.read_text()))
-        fm_title = fm.get('title')
+        doc = RichDoc.from_file(path)
+        fm_title = doc.front_matter.get('title')
 
         # Accept partial name (e.g. KPW Godzina Zero 2024 vs Godzina Zero 2024 is ok)
-        if not title in fm_title:
+        if title not in fm_title:
             self.warning(f"{prefix} event name `{title}` does not match title `{fm_title}` in its file {str(path)}")
 
     def validate_match_in_card(self, fight, prefix):
         opts = fight.pop()
         en = opts.pop('en')
 
-        if not '](' in en:
+        if '](' not in en: # Not markdown link
             return
 
         _title, event_path = en.split('](')
