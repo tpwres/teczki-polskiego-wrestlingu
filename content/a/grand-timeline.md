@@ -59,11 +59,11 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2006
 
-* Borkowski plans to create a wrestling school, using Supron's ring. It is discovered to be too costly to repair, and the idea is abandoned.
+* Borkowski plans to create a wrestling school, using Supron's ring. The ring is discovered to be too costly to repair, and the idea is abandoned.
 
 #### 2009
 
-* [Don Roid](@/w/don-roid.md), an American wrestler, settles in Poland in the mid-2000s. Discovering the non-existent state of pro-wrestling in the country, he opens [Do Or Die Wrestling](@/o/ddw.md), importing a proper ring and training rookies. Some of these rookies come from backyards.
+* [Don Roid](@/w/don-roid.md), an American wrestler, settles in Poland in the mid-2000s. Discovering the non-existent state of pro-wrestling in the country, he opens [Do Or Die Wrestling](@/o/ddw.md), imports a proper ring and trains rookies. Some of these rookies come from backyards.
 * [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) joins Do Or Die Wrestling, hones his promo skills, becomes a heel manager character.
 * Roid also contacts Supron and Borkowski, quickly gaining their support. However, the organization struggles with selling tickets and gaining the public's attention. Despite that, they hold three small events in Warsaw. One of their wrestlers is Marcin Michalski who will soon take on the gimmick of [Jędruś Bułecka](@/w/jedrus-bulecka.md).
 
