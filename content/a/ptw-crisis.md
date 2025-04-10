@@ -11,8 +11,8 @@ In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from t
 
 ## The Stonoga controversy
 
-On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he bought 1500 tickets for [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) and wants to distribute them for free to his supporters (who sent him money and received a numbered membership card).
-The next day, Stonoga posted photos of himself and the car, as well as short clips of himself in the passenger seat.
+On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he'd bought 1500 tickets for [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) and wanted to distribute them for free to his supporters (who sent him money and received a numbered membership card).
+The next day, Stonoga posted photos of himself and the Nissan GTR that was the main prize in the [PTW lottery](@/o/ptw.md#the-lottery), as well as short clips of himself in the car's passenger seat.
 Ludwiczek also posted a photo of himself and the controversial Stonoga in front of the car.
 Later, Stonoga announced we would hand out 50 free tickets to anyone who approached him in person at a McDonald's in Legionowo.
 This move prompted PTW wrestler [Taras](@/w/taras.md) to seemingly cut his ties with the organization, declaring he's finally "quitting this circus".
@@ -88,7 +88,7 @@ He spoke about how reading fans' criticism was very painful, because he felt exa
 He then declared that the organization plans to recover from the crisis starting with the next show, [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
 Pawłowski confirmed that the reason for people leaving were disagreements about finances, booking and exclusivity. All the while, his words were countered by [Puncher](@/w/puncher.md) aggressively trolling the chat, even insulting the same ex-wrestlers Pawłowski was complimenting on-screen.
 
-When Pawłowski agreed that he was the main culprit of the downfall, Krzan pried harder, asking him about the organization's near bankrupcy. A visibly upset Pawłowski declared he will make amends, but needs some time.
+When Pawłowski agreed that he was the main culprit of the downfall, Krzan pried harder, asking him about the organization's near-bankrupcy. A visibly upset Pawłowski declared he will make amends, but needs some time.
 The hosts cut him off with a joke, that the show's previous guest (a Mr Małecki, public officer in charge of bankrupcy and property claims) may be able to help.
 Pawłowski joins in on the joke, but is still visibly shaken. WuWunio inquires about Rzeźniczek's (PTW's cofounder) departure, which Pawłowski confirms but declines to reveal the reasons in his absence.
 In the wrap-up, Diana was asked why she stayed after so many others left. She answered that she had always believed in the project, still does and has no problems working with Arek, therefore she chooses to stay.
