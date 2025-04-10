@@ -25,6 +25,9 @@ import yaml
 class DocError(Exception):
     pass
 
+class ParseError(Exception):
+    pass
+
 FRONTMATTER_DELIMITER = re.compile(r'[+]{3}\s*')
 MORE_REGEX = re.compile(r'<!--\s+more\s+-->\s*')
 BLOCK_START = re.compile(r'''
@@ -175,9 +178,14 @@ class RichDoc:
             f'<{self.current_block.__class__.__name__}>',
             self.current_block
         ))
-        self.current_block.close()
-        self.current_block = None
-        self.last_section_title = None
+
+        try:
+            self.current_block.close()
+        except ParseError as p:
+            self.sink.parse_error(p, self.path, self.current_block.starting_line)
+        finally:
+            self.current_block = None
+            self.last_section_title = None
 
     # NOTE: Forward type reference
     def create_block(self, block, params, line_num) -> 'Block':
@@ -240,7 +248,10 @@ class FreeCardBlock(Block):
 
     def close(self):
         card_text = '\n'.join(self.body)
-        self.raw_card = yaml.safe_load(card_text)
+        try:
+            self.raw_card = yaml.safe_load(card_text)
+        except yaml.YAMLError as e:
+            raise ParseError(e)
         self.body = None
 
 @RichDoc.register_block('timeline')
