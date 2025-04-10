@@ -42,7 +42,7 @@ An even more condensed version, in the form of a timeline graph covering the mod
 #### 1980s
 
 * Supron wins silver medal in classical wrestling in the Moscow Olympics of 1980.
-Later, assembles a team of athletes, trains them (despite having no pro wrestling training himself), and stages a couple of events in Warsaw and Poznań.
+Later, assembles a team of athletes, trains them (despite having no pro wrestling training himself), and stages a couple of events in Warsaw and Poznań in the early '90s.
 
 #### 1993
 
@@ -50,7 +50,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 1999
 
-* Paweł Borkowski contacts Supron, wanting to create the first fully professional Polish pro-wrestling promotion. They create PPWF (Polish Pro-Wrestling Federation), which only manages to hold training sessions, but no shows due to lack of interest.
+* Paweł Borkowski contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They create PPWF (Polish Pro-Wrestling Federation), which only manages to hold training sessions, but no shows due to lack of interest.
 * Andrzej Supron buys a ring for PPWF.
 
 #### 2005
