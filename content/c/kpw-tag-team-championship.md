@@ -7,7 +7,7 @@ authors = ["M3n747"]
 toclevel=2
 [extra.gallery]
 1 = { path = "kpw-tag-team-belts-closeup.jpg", caption = 'Close-up of the Tag Team Championships.', source = "Dawid Kucharski, MyWrestling.com.pl" }
-2 = { path = "kpw-tag-team-belt.jpg", caption = "[Michał Fux](@/w/michal-fux.md) wearing his tag team belt at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md).", source = "MFotografika" }
+2 = { path = "kpw-tag-team-belt.jpg", caption = "[Michał Fux](@/w/michal-fux.md) wearing his tag team belt at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24.md).", source = "MFotografika" }
 3 = { path = "pas-kpw-tt-na-ug.webp", caption = "Close-up of [Filip Fux's](@/w/filip-fux.md) Championship, taken at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
@@ -29,12 +29,12 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 - - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
   - "Boska Oliwa: [David Oliwa](@/w/david-oliwa.md), [Boski Ostrowski](@/w/ostrowski.md)"
   - s: Tag Team Match
-    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md)'
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
     ed: 2018-11-03
 - - "Sawicki, Victor Rosetti (c)"
   - "[Fynn Freyhart](@/w/fynn-freyhart.md), [Kamil Aleksander](@/w/kamil-aleksander.md)"
   - s: Tag Team Match
-    en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
+    en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13.md)'
     ed: 2019-04-05
 - - "Sawicki, Victor Rosetti (c)"
   - "Carlos Zamora, Steinbolt"
@@ -113,7 +113,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 - - "The Fux Brothers: Filip Fux, Michał Fux (c)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - s: Tag Team Match
-    en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
+    en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24.md)'
     ed: 2024-02-16
 - - "The Fux Brothers: Filip Fux, Michał Fux (c)"
   - "The 87: Alexander Roth, Roy Johnson"

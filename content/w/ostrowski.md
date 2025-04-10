@@ -90,16 +90,16 @@ Boski 2.0, along with numerous other ex-KPW wrestlers, joined a new federation c
 
 [arena-1]: @/e/kpw/2016-02-27-kpw-arena-1.md
 [gz16]: @/e/kpw/2016-08-13-kpw-godzina-zero-2016.md
-[arena-4]: @/e/kpw/2016-11-26-kpw-arena-4-nowy-rozdzial.md
-[arena-6]: @/e/kpw/2017-04-08-kpw-arena-6-selekcja.md
-[arena-7]: @/e/kpw/2017-06-10-kpw-arena-7-wysoka-stawka.md
+[arena-4]: @/e/kpw/2016-11-26-kpw-arena-4.md
+[arena-6]: @/e/kpw/2017-04-08-kpw-arena-6.md
+[arena-7]: @/e/kpw/2017-06-10-kpw-arena-7.md
 [gz17]: @/e/kpw/2017-08-12-kpw-godzina-zero-2017.md
-[arena-9]: @/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md
-[arena-x]: @/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md
-[arena-11]: @/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md
-[arena-12]: @/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md
-[arena-13]: @/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md
+[arena-9]: @/e/kpw/2018-03-10-kpw-arena-9.md
+[arena-x]: @/e/kpw/2018-05-26-kpw-arena-x.md
+[arena-11]: @/e/kpw/2018-11-03-kpw-arena-11.md
+[arena-12]: @/e/kpw/2019-01-19-kpw-arena-12.md
+[arena-13]: @/e/kpw/2019-04-05-kpw-arena-13.md
 [gz19]: @/e/kpw/2019-08-17-kpw-godzina-zero-2019.md
-[arena-15]: @/e/kpw/2019-11-16-kpw-arena-15-swieza-krew.md
-[arena-16]: @/e/kpw/2020-02-01-kpw-arena-16-polowanie.md
-[arena-17]: @/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md
+[arena-15]: @/e/kpw/2019-11-16-kpw-arena-15.md
+[arena-16]: @/e/kpw/2020-02-01-kpw-arena-16.md
+[arena-17]: @/e/kpw/2021-08-21-kpw-arena-17.md

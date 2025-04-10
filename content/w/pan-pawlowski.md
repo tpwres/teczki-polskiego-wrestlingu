@@ -34,7 +34,7 @@ In DDW he served as both, and adopted a persona of a heelish, self-important man
 ### Kombat Pro Wrestling (2015-2019)
 
 After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer.
-This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md), after which he parted ways with the promotion. In 2024, KPW owner and booker [Piękny Kawaler](@/w/piekny-kawaler.md) revealed that it was him who fired Pawłowski from the organization, over creative and personal differences.
+This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md), after which he parted ways with the promotion. In 2024, KPW owner and booker [Piękny Kawaler](@/w/piekny-kawaler.md) revealed that it was him who fired Pawłowski from the organization, over creative and personal differences.
 
 ### Prime Time Wrestling (2021-present)
 

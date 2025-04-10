@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "eryk-lesak.jpg", caption = "Eryk Lesak after his victory at [KPW Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md).", source = "M3n747" }
+1 = { path = "eryk-lesak.jpg", caption = "Eryk Lesak after his victory at [KPW Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md).", source = "M3n747" }
 +++
 
 Eryk Lesak is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
@@ -31,7 +31,7 @@ Intended as the original butler for the heel stable Kawaleria (which didn't pan 
 
 #### The Gregorian Branch
 
-After the initial losing streak, for some of which he blamed Opol, Lesak agreed to join the newly-formed Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md). Having scored his first victory - against Opol at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md) - he was joined with Chemik as tag team partners, in a wedding-like ceremony officiated by Greg. However, neither joining the Gregorian Branch nor teaming up with Chemik helped drastically improve his success rate, as he mostly feuded with KPW's babyfaces such as the Fux Brothers ([Filip](@/w/filip-fux.md) and [Michał](@/w/michal-fux.md)), against whom he often teamed up with Chemik.
+After the initial losing streak, for some of which he blamed Opol, Lesak agreed to join the newly-formed Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md). Having scored his first victory - against Opol at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md) - he was joined with Chemik as tag team partners, in a wedding-like ceremony officiated by Greg. However, neither joining the Gregorian Branch nor teaming up with Chemik helped drastically improve his success rate, as he mostly feuded with KPW's babyfaces such as the Fux Brothers ([Filip](@/w/filip-fux.md) and [Michał](@/w/michal-fux.md)), against whom he often teamed up with Chemik.
 
 #### Betraying Greg
 

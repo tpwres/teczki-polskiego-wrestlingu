@@ -11,7 +11,7 @@ Also known as: Damian Lambert.
 
 #### British Excursion and MZW (2016-2019)
 
-After [KPW Arena 4](@/e/kpw/2016-11-26-kpw-arena-4-nowy-rozdzial.md), Lambert left KPW and Poland, and moved to UK to pursue his wrestling career there.
+After [KPW Arena 4](@/e/kpw/2016-11-26-kpw-arena-4.md), Lambert left KPW and Poland, and moved to UK to pursue his wrestling career there.
 He would appear in two matches for Coventry Pro Wrestling, and another two for the Birmingham-based Kamikaze Pro. The latter's wrestlers appeared for KPW on two of their shows in 2016.
 
 There, he would meet [Justin Joy](@/w/justin-joy.md), who was also on his UK leave, after losing to Shadow in a Loser Leaves Town match at [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md).

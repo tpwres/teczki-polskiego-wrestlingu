@@ -138,7 +138,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * Still under COVID restrictions, MZW records a six-episode wrestling series and releases it on YouTube. The series is a tournament for their [vacant championship](@/c/mzw-championship.md).
 * With the restrictions lifted, PpW is invited to Poznań to perform as part of a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md).
-* KPW holds their [comeback show](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md) after an 18-month long hiatus.
+* KPW holds their [comeback show](@/e/kpw/2021-08-21-kpw-arena-17.md) after an 18-month long hiatus.
 * [Prime Time Wrestling](@/o/ptw.md) is revealed to be Pawłowski's new organization, and they hold their [first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in October, in Chorzów. Among their roster are the aforementioned Amisz as [Axel Fox](@/w/axel-fox.md), Borowsky as [Boro](@/w/boro.md) and Kamiński as [Jacob Crane](@/w/jacob-crane.md).
 
 #### 2022

@@ -34,7 +34,7 @@ After a short series of defeats in 2013, Kamil got back on track during the tour
 
 ### Kombat Pro Wrestling (2015-2019)
 
-After DDW's closure and rebranding into [Kombat Pro Wrestling](@/o/kpw.md), Kamil joined the federation as a worker and coach in their academy. He retained his high status in the card, being one of the main babyfaces in the federation. He feuded with top heels such as [Piękny Kawaler](@/w/piekny-kawaler.md), but was unable to defeat him for the [KPW Championship](@/c/kpw-championship.md) at [KPW Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md). Later on he led "Team Aleksander" against members of Kawaler's faction - Kawaleria - in an Eight Man Elimination Match at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md).
+After DDW's closure and rebranding into [Kombat Pro Wrestling](@/o/kpw.md), Kamil joined the federation as a worker and coach in their academy. He retained his high status in the card, being one of the main babyfaces in the federation. He feuded with top heels such as [Piękny Kawaler](@/w/piekny-kawaler.md), but was unable to defeat him for the [KPW Championship](@/c/kpw-championship.md) at [KPW Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md). Later on he led "Team Aleksander" against members of Kawaler's faction - Kawaleria - in an Eight Man Elimination Match at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x.md).
 
 After that victory Kamil spent most of 2018 and 2019 in championship pursuits, trying to earn #1 Contender spot in multiple matches for the KPW Championship, [KPW OldTown Championship](@/c/kpw-old-town-championship.md) and the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), but was unsuccessful in all of these ventures.
 

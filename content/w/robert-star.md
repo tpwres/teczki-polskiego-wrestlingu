@@ -35,18 +35,18 @@ At the end of 2014 DDW moved their operations to Gdańsk. This did not last long
 #### Feud with Piękny Kawaler
 
 In 2018 Robert became the leader of an all-babyface faction called "Sojusz" (_The Alliance_), which feuded with an all-heels faction "Kawaleria" (_The Cavalry_), led by [Piękny Kawaler](@/w/piekny-kawaler.md).
-These events played out at [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md) and [Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md).
+These events played out at [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md) and [Arena X](@/e/kpw/2018-05-26-kpw-arena-x.md).
 At the following show, [Godzina Zero 2018](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md), Robert was forced to join Kawaleria, wear their signature facepaint, and come to ringside with other members. As time went on, he became increasingly uncomfortable with his position.
-He was part of a tag team with Piękny Kawaler and entered the Tag Team Tournament at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md). However, the two of them were disqualified, due to Kawaler being under the influence.
-This storyline was resolved at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md): after Robert defeated Ron Corvus to become the [KPW Champion](@/c/kpw-championship.md), Kawaler appeared and requested that Robert hand over the belt to him. He revealed that Robert has signed a contract with him and Kawaleria, and that he was helping Robert win the title on the condition he immediately handed it over to Kawaler.
-Before the [following show](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md), Robert was officially fired via a Facebook post for breaking the terms of said contract.
+He was part of a tag team with Piękny Kawaler and entered the Tag Team Tournament at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md). However, the two of them were disqualified, due to Kawaler being under the influence.
+This storyline was resolved at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md): after Robert defeated Ron Corvus to become the [KPW Champion](@/c/kpw-championship.md), Kawaler appeared and requested that Robert hand over the belt to him. He revealed that Robert has signed a contract with him and Kawaleria, and that he was helping Robert win the title on the condition he immediately handed it over to Kawaler.
+Before the [following show](@/e/kpw/2019-06-15-kpw-arena-14.md), Robert was officially fired via a Facebook post for breaking the terms of said contract.
 This stripped him of the championship, which was left vacant. However, at the show, [Chairman Malinowski](@/w/krystian-malinowski.md) added Robert to the main event, which was now a six-man elimination match. Robert managed to win said match and regain his KPW Championship.
 
 #### KPW Champion and departure
 
 Robert's next match for KPW was at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), against Piękny Kawaler. This bout was both for the KPW Championship, and for the careers of both men, with a Last Man Standing stipulation. When Robert defeated Kawaler, the latter initially accepted his opponent's handshake and lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. With the help of other babyfaces, Robert regained control and together they struck a victory pose with Kawaler literally under Robert's heel.
 
-Robert's last appearance in KPW took place at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) where he protected [Sawicki](@/w/sawicki.md) from [Rosetti](@/w/rosetti.md), who attacked his tag team partner after their defeat. Following that show Robert left the federation, vacating the KPW Championship.
+Robert's last appearance in KPW took place at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md) where he protected [Sawicki](@/w/sawicki.md) from [Rosetti](@/w/rosetti.md), who attacked his tag team partner after their defeat. Following that show Robert left the federation, vacating the KPW Championship.
 
 In 2018 Robert competed in his first match abroad: at the French Ligue Nationale de Catch's event in Commercy. He went against the French wrestler Scott Rider in a singles match, and also against a team including Scott Rider and Ron Corvus in an eight-man tag team match.
 

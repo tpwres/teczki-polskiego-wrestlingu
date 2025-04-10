@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "david-arena-24.jpg", caption = "David at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)"}
+1 = { path = "david-arena-24.jpg", caption = "David at [KPW Arena 24](@/e/kpw/2024-02-16-kpw-arena-24.md)"}
 +++
 
 David Oliwa is one of the most experienced [Kombat Pro Wrestling](@/o/kpw.md) workers, and one of only three (alongside [Greg](@/w/greg.md) and [Rosetti](@/w/rosetti.md)) still in active roster who got their start in [Do Or Die Wrestling](@/o/ddw.md).

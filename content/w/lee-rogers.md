@@ -24,7 +24,7 @@ Lee Rogers is an English professional wrestler, who made several appearances in 
 ### Kombat Pro Wrestling (2018; 2023)
 
 Lee Rogers made his debut on Polish soil in July 2017, appearing in [Kombat Pro Wrestling](@/o/kpw.md) at [KPW OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md).
-He returned to Poland later that year at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11-podwojne-zagrozenie.md) where, as one half of the British Bouncer Club,
+He returned to Poland later that year at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md) where, as one half of the British Bouncer Club,
 he participated in a tournament for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md).
 The team advanced to the the semi-finals by defeating [Adam Bravo](@/w/adam-bravo.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md), but were ultimately
 defeated by Boska Oliwa ([David Oliwa](@/w/david-oliwa.md) and [Boski Ostrowski](@/w/ostrowski.md)).

@@ -23,7 +23,7 @@ Moloch is a retired Polish wrestler best known for his time in [Kombat Pro Wrest
 ### Kombat Pro Wrestling (2018-2019)
 
 Moloch debuted in [Kombat Pro Wrestling](@/o/kpw.md) in May 2018, after training in their academy.
-Prior to his debut, KPW teased his appearance in a series of mysterious horror-themed vignettes, notably featuring two female valets in tight catsuits, who were later present at ringside during his matches. He debuted as a villainous mask-wearing monster. In his debut match he defeated [Boski Ostrowski](@/w/ostrowski.md) at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md).
+Prior to his debut, KPW teased his appearance in a series of mysterious horror-themed vignettes, notably featuring two female valets in tight catsuits, who were later present at ringside during his matches. He debuted as a villainous mask-wearing monster. In his debut match he defeated [Boski Ostrowski](@/w/ostrowski.md) at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x.md).
 
 Later on, he unsuccessfully took part in the Magnificent Seven Ladder Match at [KPW Godzina Zero 2018](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md).
 Moloch also entered in a tournament for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) along with [Gracjan Korpo](@/w/gracjan-korpo.md). However, shortly before the show Gracjan betrayed Moloch by pulling out from the tournament, forcing him to fight against Kawaleria in a Handicap Match, which he lost.

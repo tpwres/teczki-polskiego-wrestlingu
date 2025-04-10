@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "greg-arena-24.jpg", caption = "Greg in his papal robes at [Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)", source = "Krzysztof Zych" }
+1 = { path = "greg-arena-24.jpg", caption = "Greg in his papal robes at [Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24.md)", source = "Krzysztof Zych" }
 +++
 
 Greg is a Polish wrestler best known for his appearances in [Kombat Pro Wrestling](@/o/kpw.md), [Do Or Die Wrestling](@/o/ddw.md) and [Legacy of Wrestling](@/o/low.md).
@@ -39,7 +39,7 @@ At first typically placed in the mid-card, Greg slowly but surely started gainin
 
 #### KPW OldTown Champion
 
-At [KPW OldTown 2](@/e/kpw/2017-07-23-kpw-oldtown-2.md) Greg became the inaugural [OldTown Champion](@/c/kpw-old-town-championship.md) by defeating [Peter Pannache](@/w/peter-pannache.md) and held the title for nearly two years, defending it in a matches against wrestlers such as [Fynn Freyhart](@/w/fynn-freyhart.md), [Lee Rogers](@/w/lee-rogers.md) and Tristan Archer. He eventually lost it to [David Oliwa](@/w/david-oliwa.md) in an "I Quit" Match at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md).
+At [KPW OldTown 2](@/e/kpw/2017-07-23-kpw-oldtown-2.md) Greg became the inaugural [OldTown Champion](@/c/kpw-old-town-championship.md) by defeating [Peter Pannache](@/w/peter-pannache.md) and held the title for nearly two years, defending it in a matches against wrestlers such as [Fynn Freyhart](@/w/fynn-freyhart.md), [Lee Rogers](@/w/lee-rogers.md) and Tristan Archer. He eventually lost it to [David Oliwa](@/w/david-oliwa.md) in an "I Quit" Match at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md).
 
 #### The Pope of Polish Wrestling
 

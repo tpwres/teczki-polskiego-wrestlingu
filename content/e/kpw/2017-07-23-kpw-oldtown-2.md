@@ -39,7 +39,7 @@ KPW would return to following editions of OldTown until 2019.
 
 #### Recap
 
-- Like at the [previous event](@/e/kpw/2017-06-10-kpw-arena-7-wysoka-stawka.md), [Bianca](@/w/bianca.md) was on the poster, but not on the card.
+- Like at the [previous event](@/e/kpw/2017-06-10-kpw-arena-7.md), [Bianca](@/w/bianca.md) was on the poster, but not on the card.
 - Due to heavy rain, the show was delayed for four hours, until midnight.
 - The original card had more matches, and a tournament was to be held. The starting brackets were:
   - [Peter Pannache](@/w/peter-pannache.md) vs [Gracjan Korpo](@/w/gracjan-korpo.md)
