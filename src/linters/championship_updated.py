@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 from pathlib import Path
 from linters.base import LintError, Doc, Linter
-from linters.errors import FileError, FileWarning, LintWarning
+from linters.errors import FileError, FileWarning, LintWarning, ConsoleErrorSink, format_error
 from card import person_link_re, person_plain_re
 from rich_doc import RichDoc, FreeCardBlock
 from md_utils import parse_link
@@ -22,8 +22,9 @@ class ChampionshipUpdatedLinter(Linter):
         - the match can be found in that file's card
         - participants and options other than en, ed MUST be the same as in the match line in event file
     """
-    def __init__(self, config, linter_options):
+    def __init__(self, config, linter_options, error_sink=None):
         self.messages = []
+        self.sink = error_sink or ConsoleErrorSink()
         self.load_required_metadata()
 
     def handles(self, path: Path) -> bool:
@@ -36,19 +37,11 @@ class ChampionshipUpdatedLinter(Linter):
         all_matches_path = Path.cwd() / 'data/all_matches.json'
         self.all_matches = json.load(all_matches_path.open('rb'))
 
-    def error(self, err: LintError|str):
-        match err:
-            case LintError() as lint_err:
-                self.messages.append(lint_err)
-            case str(text):
-                self.messages.append(F(self.target_path, text))
+    def error(self, message, *args):
+        self.sink.error(format_error(message, self.target_path, *args))
 
-    def warning(self, warning: LintWarning|str):
-        match warning:
-            case LintWarning() as lint_warn:
-                self.messages.append(lint_warn)
-            case str(text):
-                self.messages.append(W(self.target_path, text))
+    def warning(self, message, *args):
+        self.sink.warning(format_error(message, self.target_path, *args))
 
     def lint(self, document: Doc):
         path = document.pathname()
@@ -71,60 +64,60 @@ class ChampionshipUpdatedLinter(Linter):
 
     def validate_blocks(self, blocks):
         for i, (starting_line, block) in enumerate(blocks, start=1):
-            location = f'free card block {i} starting at line {starting_line}'
+            location = f'free card block {i}'
             if not block:
                 self.error(f'{location} is blank')
 
             fc = block.raw_card
             if fc is None:
-                self.error(f'{location} is empty')
+                self.error(f'{location} is empty or invalid', starting_line, None)
                 return
 
             if not isinstance(fc, list):
-                self.error(f"{location} does not parse as a list")
+                self.error(f"{location} does not parse as a list", starting_line, None)
+            else:
+                self.validate_match_block(fc, location, starting_line)
 
-            self.validate_match_block(fc, location)
-
-    def validate_match_block(self, matchlines, location):
+    def validate_match_block(self, matchlines, location, starting_line):
         for i, matchline in enumerate(matchlines, start=1):
             opts = matchline.pop()
             if not isinstance(opts, dict):
-                self.error(f"Match {i} in {location} has no options")
+                self.error(f"required option block for match {i} in {location} missing", starting_line, None)
                 continue
 
             en, ed = opts.get('en'), opts.get('ed')
             if not en:
-                self.error(f"Match {i} in {location} is missing an `en` entry")
+                self.error(f"Match {i} in {location} is missing an `en` entry", starting_line, None)
 
             if not ed:
-                self.error(f"Match {i} in {location} is missing an `ed` entry")
+                self.error(f"Match {i} in {location} is missing an `ed` entry", starting_line, None)
 
             if en and '](' in en:
                 prefix = f'In {location}'
-                self.validate_event_file(en, ed, prefix)
+                self.validate_event_file(en, ed, prefix, starting_line)
 
-                self.validate_match_in_card([*matchline, opts], prefix)
+                self.validate_match_in_card([*matchline, opts], prefix, starting_line)
 
-    def validate_event_file(self, event_link, event_date, prefix):
+    def validate_event_file(self, event_link, event_date, prefix, starting_line):
         title, event_path = parse_link(event_link)
         event_path = event_path.replace('@', str(self.content_root)) # Convert from @-path
         path = Path(event_path)
 
         if not path.match(f'{event_date}-*.md'):
-            self.warning(f"{prefix} event date `{event_date}` does not match its filename {str(path)}")
+            self.warning(f"{prefix} date mismatch `{event_date}` does not match its filename {str(path)}", starting_line, None)
         if not path.exists():
-            self.error(f"{prefix} invalid link to non-existent event file `{event_link}`")
+            self.error(f"{prefix} invalid link to non-existent event file `{event_link}`", starting_line, None)
             return
 
         # NOTE: Could be cached
-        doc = RichDoc.from_file(path)
+        doc = RichDoc.from_file(path, error_sink=self.sink)
         fm_title = doc.front_matter.get('title')
 
         # Accept partial name (e.g. KPW Godzina Zero 2024 vs Godzina Zero 2024 is ok)
         if title not in fm_title:
-            self.warning(f"{prefix} event name `{title}` does not match title `{fm_title}` in its file {str(path)}")
+            self.warning(f"{prefix} title mismatch `{title}` does not match title `{fm_title}` from {str(path)}", starting_line, None)
 
-    def validate_match_in_card(self, fight, prefix):
+    def validate_match_in_card(self, fight, prefix, starting_line):
         opts = fight.pop()
         en = opts.pop('en')
 
@@ -142,7 +135,7 @@ class ChampionshipUpdatedLinter(Linter):
             return
 
         if not championship_matches:
-            self.error(f'{prefix} championship match with same participants not found in event card at {event_path[2:-1]}')
+            self.error(f'{prefix} relevant match not found in event card at {rel_path}, participants may be different', starting_line, None)
 
         cm_errors = defaultdict(lambda: [])
         cm_warnings = defaultdict(lambda: [])
@@ -164,10 +157,10 @@ class ChampionshipUpdatedLinter(Linter):
             return
 
         for _, errs in cm_errors.items():
-            for err in errs: self.error(err)
+            for err in errs: self.error(err, starting_line, None)
 
         for _, warns in cm_warnings.items():
-            for warn in warns: self.warning(err)
+            for warn in warns: self.warning(warn, starting_line, None)
 
     def find_relevant_match(self, bouts, participants, opts, prefix, event_path):
         participants = list(only_names(participants))
