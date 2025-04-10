@@ -6,7 +6,7 @@ authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "kpw-old-town-belt-original.jpg", caption = '[David Oliwa](@/w/david-oliwa.md) with the original Old Town belt at [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md).', source = "M3n747" }
+1 = { path = "kpw-old-town-belt-original.jpg", caption = '[David Oliwa](@/w/david-oliwa.md) with the original Old Town belt at [KPW Arena 18](@/e/kpw/2022-03-18-kpw-arena-18.md).', source = "M3n747" }
 2 = { path = "kpw-old-town-belt-redesign.jpg", caption = '[Rosetti](@/w/rosetti.md) with the redesigned Old Town belt at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).', source = "MFotografika" }
 3 = { path = "kpw-old-town-belt-closeup.jpg", caption = 'Promo shot of the original Old Town Championship.', source = "Official KPW Facebook" }
 +++
@@ -56,12 +56,12 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
 - - 'Greg (c)'
   - '[Kaszub](@/w/kaszub.md)'
   - s: Singles match
-    en: '[KPW Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md)'
+    en: '[KPW Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9.md)'
     ed: 2018-03-10
 - - 'Greg (c)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - s: Hardcore Match
-    en: '[KPW Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md)'
+    en: '[KPW Arena 9: Na Krawędzi](@/e/kpw/2018-03-10-kpw-arena-9.md)'
     ed: 2018-03-10
 - - 'Greg (c)'
   - '[Lee Rogers](@/w/lee-rogers.md)'
@@ -76,7 +76,7 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
 - - 'David Oliwa'
   - 'Greg (c)'
   - s: '"I Quit" Match'
-    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
+    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14.md)'
     ed: 2019-06-15
 {% end %}
 
@@ -88,7 +88,7 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
 - - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Greg](@/w/greg.md) (c)'
   - s: '"I Quit" Match'
-    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
+    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14.md)'
     ed: 2019-06-15
 - - 'David Oliwa (c)'
   - 'Greg'
@@ -104,22 +104,22 @@ The championship belt also contains two pairs of sideplates with the KPW logo on
   - '[Boski 2.0](@/w/ostrowski.md)'
   - Greg
   - s: Three Way Match
-    en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15-swieza-krew.md)'
+    en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15.md)'
     ed: 2019-11-16
 - - 'David Oliwa (c)'
   - 'Martn Pain'
   - s: Singles match
-    en: '[KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md)'
+    en: '[KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md)'
     ed: 2020-02-01
 - - 'David Oliwa (c)'
   - '[Michael Kovac](@/w/michael-kovac.md)'
   - s: Singles match
-    en: '[KPW Arena 17: Odrodzenie](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md)'
+    en: '[KPW Arena 17: Odrodzenie](@/e/kpw/2021-08-21-kpw-arena-17.md)'
     ed: 2021-08-21
 - - 'David Oliwa (c)'
   - 'Gianni Valletta'
   - s: Singles match
-    en: '[KPW Arena 18: Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18-powrot-do-przyszlosci.md)'
+    en: '[KPW Arena 18: Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18.md)'
     ed: 2022-03-18
 - - '[Rosetti](@/w/rosetti.md)'
   - 'David Oliwa (c)'
@@ -158,7 +158,7 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
 - - 'Rosetti (c)'
   - 'Darius'
   - s: Singles match
-    en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24-zagrozenie-lawinowe.md)'
+    en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24.md)'
     ed: 2024-02-16
 - - '[Chemik](@/w/chemik.md)'
   - 'Rosetti (c)'

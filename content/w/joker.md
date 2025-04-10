@@ -28,4 +28,4 @@ Joker made his first appearance in [PpW Ewenement](@/o/ppw.md) back when PpW was
 
 As PpW began to transform into a professional federation, Joker remained with the promotion in a role of interviewer and commentator on PpW's bigger shows starting in 2024. At first he was working with Szymon "Modzel" Modzelewski as his co-comentator, before being joined by Antek Istociarz from [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) onwards.
 
-Besides his apperances as "Joker" he also worked under a few comedic aliases at non-canon shows, such as [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md).
+Besides his appearances as "Joker" he also worked under a few comedic aliases at non-canon shows, such as [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md).

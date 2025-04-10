@@ -1,6 +1,7 @@
 +++
 title = "KPW Arena X: Kawaleria vs Sojusz"
 template = "event_page.html"
+aliases = ["/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz"]
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
@@ -15,7 +16,7 @@ city = "Gdynia"
 * Kawaleria vs Sojusz was built around the storyline of KPW's entire locker room being split in two factions: either
   the heel faction Kawaleria (_The Cavalry_) led by [Piękny Kawaler](@/w/piekny-kawaler.md), or the face faction Sojusz (_The Alliance_), led by
   [Robert Star](@/w/robert-star.md).
-* Initially, Robert hesitated to join, but after the post-event brawl at [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9-na-krawedzi.md), when he
+* Initially, Robert hesitated to join, but after the post-event brawl at [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md), when he
   defended [Mira](@/w/mira.md) from being attacked with a taser by Kawaleria, everyone of the faces joined.
 * Robert became #1 Contender for the KPW Championship at Arena 9, when [Greg](@/w/greg.md) lost by DQ. During this event, he would face the undefeated Kawaler for the championship.
 * [Ron Corvus](@/w/ron-corvus.md) won the Magnificent Seven Match at the previous year's [Godzina Zero](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), for a shot at any of the championships. At Arena 9, Corvus reminded [Greg](@/w/greg.md) that he's coming for his title.

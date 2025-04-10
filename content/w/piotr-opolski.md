@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "opol-arena-17.webp", caption = "Opol choking Michał Fux at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md).", source = "M3n747" }
+1 = { path = "opol-arena-17.webp", caption = "Opol choking Michał Fux at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).", source = "M3n747" }
 +++
 
 Piotr "Opol" Opolski is a semi-retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
@@ -26,7 +26,7 @@ Piotr "Opol" Opolski is a semi-retired Polish wrestler best known for his time i
 
 #### Career as wrestler
 
-Piotr Opolski made his debut in [Kombat Pro Wrestling](@/o/kpw.md) in February 2020. Along with [Eryk Lesak](@/w/eryk-lesak.md) he was one of the finalists of KPW's 2019 internal competition "Serce do walki" (_Heart for combat_). After his debut in a singles match at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md), he briefly teamed up with Lesak at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), only to return to singles matches afterwards. His career was cut short at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19-oko-za-oko.md), when he sustained an injury that forced him to give up wrestling. 
+Piotr Opolski made his debut in [Kombat Pro Wrestling](@/o/kpw.md) in February 2020. Along with [Eryk Lesak](@/w/eryk-lesak.md) he was one of the finalists of KPW's 2019 internal competition "Serce do walki" (_Heart for combat_). After his debut in a singles match at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md), he briefly teamed up with Lesak at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md), only to return to singles matches afterwards. His career was cut short at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md), when he sustained an injury that forced him to give up wrestling. 
 
 #### Return to KPW
 

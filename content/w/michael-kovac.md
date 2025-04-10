@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["AT"]
 [extra.gallery]
-1 = { path = "michael-kovac.jpg", caption = "Michael Kovac on his way to the ring, [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md).", source = "M3n747" }
+1 = { path = "michael-kovac.jpg", caption = "Michael Kovac on his way to the ring, [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).", source = "M3n747" }
 +++
 
 Michael Kovac is an Austrian wrestler who made a few appearances on the Polish wrestling scene, most notably in [Do Or Die Wrestling](@/o/ddw.md), [Total Blast Wrestling](@/o/tbw.md) and [Kombat Pro Wrestling](@/o/kpw.md).

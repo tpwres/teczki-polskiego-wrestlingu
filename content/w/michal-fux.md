@@ -24,7 +24,7 @@ Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestlin
 
 ### Kombat Pro Wrestling (2021-present)
 
-Michał Fux debuted in August 2021 at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md). He's best known for his tag team work alongside [Filip Fux](@/w/filip-fux.md), but he also worked a number of solo matches.
+Michał Fux debuted in August 2021 at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). He's best known for his tag team work alongside [Filip Fux](@/w/filip-fux.md), but he also worked a number of solo matches.
 
 As the Fux Brothers, Michał and Filip won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) and [Veit Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at a European Wrestling Association show in Austria.
 

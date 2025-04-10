@@ -24,7 +24,7 @@ Zefir is a high-flying masked luchador, working for [Kombat Pro Wrestling](@/o/k
 
 ### Kombat Pro Wrestling (2021-present)
 
-Zefir made his in-ring debut at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md), where he faced [Rosetti](@/w/rosetti.md).
+Zefir made his in-ring debut at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md), where he faced [Rosetti](@/w/rosetti.md).
 Despite never speaking he got over with the fans almost immediately, owing to his dynamic, high-risk style, the ability to communicate through body language alone, and his unique entrance, featuring a fire breathing routine.
 
 Zefir usually fights solo, although a few times he formed a tag team with [Leon Lato](@/w/leon-lato.md). They even tried to compete for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against Die Ordnung at [KPW Arena 21](@/e/kpw/2023-02-24-kpw-arena-21.md), but without success.

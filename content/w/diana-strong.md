@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 [extra.gallery]
 1 = { path = "diana-strong.jpg", caption = "Diana Strong at one of the PTW Underground shows", source = "Official PTW Facebook" }
-2 = { path = "diana-rega.jpg", caption = "Diana Rega at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md)", source = "Lens Blog" }
+2 = { path = "diana-rega.jpg", caption = "Diana Rega at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md)", source = "Lens Blog" }
 +++
 
 Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
@@ -27,9 +27,9 @@ Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestli
 
 ### Kombat Pro Wrestling (2017-2021)
 
-Diana started her career in professional wrestling by training in KPW Academy some time around 2017. She made her early on-screen appearances for [Kombat Pro Wrestling](@/o/kpw.md) as an interviewer from [Arena 8](@/e/kpw/2017-11-18-kpw-arena-8-droga-bez-powrotu.md) onwards. Later on, she - along with another KPW female adept Laura - appeared as [Moloch's](@/w/moloch.md) valets.
+Diana started her career in professional wrestling by training in KPW Academy some time around 2017. She made her early on-screen appearances for [Kombat Pro Wrestling](@/o/kpw.md) as an interviewer from [Arena 8](@/e/kpw/2017-11-18-kpw-arena-8.md) onwards. Later on, she - along with another KPW female adept Laura - appeared as [Moloch's](@/w/moloch.md) valets.
 
-Diana made her official in-ring debut at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where she faced other female Polish wrestlers, [Bianca](@/w/bianca.md) and [Alisa](@/w/alisa.md), and Swedish worker Sixt. During her debut she was known simply as "Diana", performing as a obvious underdog rookie. At [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) she faced Bianca, now working under the ringname "Diana Rega". This, however, marked Diana's last appearance at KPW.
+Diana made her official in-ring debut at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where she faced other female Polish wrestlers, [Bianca](@/w/bianca.md) and [Alisa](@/w/alisa.md), and Swedish worker Sixt. During her debut she was known simply as "Diana", performing as a obvious underdog rookie. At [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) she faced Bianca, now working under the ringname "Diana Rega". This, however, marked Diana's last appearance at KPW.
 
 ### Prime Time Wrestling (2021-present)
 

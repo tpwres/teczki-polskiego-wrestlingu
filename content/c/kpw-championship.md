@@ -7,7 +7,7 @@ authors = ["M3n747", "Sewi The Referee"]
 toclevel=2
 [extra.gallery]
 1 = { path = "kpw-belt-closeup.jpg", caption = 'Close-up of the KPW Championship.', source = "Dawid Kucharski, MyWrestling.com.pl" }
-2 = { path = "kpw-championship-belt.jpg", caption = '[Kinga Różańska](@/w/kinga-miotke.md) presents the vacated KPW Championship belt at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17-odrodzenie.md).', source = "M3n747" }
+2 = { path = "kpw-championship-belt.jpg", caption = '[Kinga Różańska](@/w/kinga-miotke.md) presents the vacated KPW Championship belt at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).', source = "M3n747" }
 +++
 
 The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md). It was introduced in 2016 and the first champion - [Piękny Kawaler](@/w/piekny-kawaler.md) - was crowned at the inaugural [Godzina Zero](e/kpw/2016-08-13-kpw-godzina-zero-2016.md).
@@ -40,7 +40,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 - - 'Piękny Kawaler (c)'
   - '[Elliott Jordan](@/w/elliott-jordan.md)'
   - s: Singles match
-    en: '[KPW Arena 4: Nowy Rozdział](@/e/kpw/2016-11-26-kpw-arena-4-nowy-rozdzial.md)'
+    en: '[KPW Arena 4: Nowy Rozdział](@/e/kpw/2016-11-26-kpw-arena-4.md)'
     ed: 2016-11-26
 - - 'Piękny Kawaler (c)'
   - 'Pastor William Eaver'
@@ -50,12 +50,12 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 - - 'Piękny Kawaler (c)'
   - '[Karol Górski](@/w/iskra.md)'
   - s: Singles match
-    en: '[KPW Arena 6: Selekcja](@/e/kpw/2017-04-08-kpw-arena-6-selekcja.md)'
+    en: '[KPW Arena 6: Selekcja](@/e/kpw/2017-04-08-kpw-arena-6.md)'
     ed: 2017-04-08
 - - 'Piękny Kawaler (c)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - s: Singles match
-    en: '[KPW Arena 7: Wysoka Stawka](@/e/kpw/2017-06-10-kpw-arena-7-wysoka-stawka.md)'
+    en: '[KPW Arena 7: Wysoka Stawka](@/e/kpw/2017-06-10-kpw-arena-7.md)'
     ed: 2017-06-10
 - - 'Piękny Kawaler (c)'
   - '[Wild Boar](@/w/wild-boar.md)'
@@ -65,12 +65,12 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 - - 'Piękny Kawaler (c)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Lumberjack Match
-    en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
+    en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x.md)'
     ed: 2018-05-26
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - 'Piękny Kawaler (c)'
   - s: Singles match
-    en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
+    en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x.md)'
     ed: 2018-05-26
 {% end %}
 
@@ -82,7 +82,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Piękny Kawaler](@/w/piekny-kawaler.md) (c)'
   - s: Singles match
-    en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md)'
+    en: '[KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x.md)'
     ed: 2018-05-26
 - - 'Ron Corvus (c)'
   - '[Dom Taylor](@/w/dom-taylor.md)'
@@ -97,12 +97,12 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 - - 'Ron Corvus (c)'
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - s: Singles match
-    en: '[KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md)'
+    en: '[KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12.md)'
     ed: 2019-01-19
 - - '[Robert Star](@/w/robert-star.md)'
   - 'Ron Corvus (c)'
   - s: Singles match
-    en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
+    en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13.md)'
     ed: 2019-04-05
 {% end %}
 
@@ -114,7 +114,7 @@ Full silhouettes of the eagle are also adapted as sideplates. Plates are attache
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Ron Corvus](@/w/ron-corvus.md) (c)'
   - s: Singles match
-    en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13-capo-di-tutti-capi.md)'
+    en: '[KPW Arena 13: Capo di Tutti Cappi](@/e/kpw/2019-04-05-kpw-arena-13.md)'
     ed: 2019-04-05
 {% end %}
 
@@ -132,7 +132,7 @@ Two days later, Robert Star was fired from KPW for breaking the terms of his agr
   - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - s: Six Way Elimination Match
-    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14-nastepny-poziom.md)'
+    en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14.md)'
     ed: 2019-06-15
 - - 'Robert Star (c)'
   - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
@@ -142,13 +142,13 @@ Two days later, Robert Star was fired from KPW for breaking the terms of his agr
 - - 'Robert Star (c)'
   - 'Reinbakh'
   - s: Singles match
-    en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15-swieza-krew.md)'
+    en: '[KPW Arena 15: Świeża Krew](@/e/kpw/2019-11-16-kpw-arena-15.md)'
     ed: 2019-08-17
 {% end %}
 
 **TOTAL:** 677 days.
 
-Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16-polowanie.md) (where the title wasn't defended), Robert Star left the promotion to join [PTW](@/o/ptw.md) and the belt was once again vacated.
+Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) (where the title wasn't defended), Robert Star left the promotion to join [PTW](@/o/ptw.md) and the belt was once again vacated.
 
 ### Champion #5: Greg
 

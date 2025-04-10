@@ -35,9 +35,9 @@ She adapted a babyface persona of Ostrowski's main dancer, being visible during 
 
 Some time later she was joined by her kayfabe-sister [Alisa](@/w/alisa.md).
 The sisters' relationship grew more and more bitter, finally culminating at [Godzina Zero 2017](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), when Alisa turned heel on her sister and Ostrowski by joining the villainous faction Kawaleria, led by [Piękny Kawaler](@/w/piekny-kawaler.md).
-After that Mira spent almost a year feuding with her sister which concluded at [KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz.md), where Mira represented the babyface faction Sojusz, and Alisa the villanous Kawaleria. Mira was defeated by her sister, and fought only one more match before returning to her managerial role alongside Boski Ostrowski.
+After that Mira spent almost a year feuding with her sister which concluded at [KPW Arena X: Kawaleria vs Sojusz](@/e/kpw/2018-05-26-kpw-arena-x.md), where Mira represented the babyface faction Sojusz, and Alisa the villanous Kawaleria. Mira was defeated by her sister, and fought only one more match before returning to her managerial role alongside Boski Ostrowski.
 
-In January 2019, she danced into the ring for the final time at [KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12-gwiazda-polnocy.md), where she announced that due to pregnancy, she had to take a hiatus from in-ring competition. However, she never made her return, as she left KPW in April 2021.
+In January 2019, she danced into the ring for the final time at [KPW Arena 12: Gwiazda Północy](@/e/kpw/2019-01-19-kpw-arena-12.md), where she announced that due to pregnancy, she had to take a hiatus from in-ring competition. However, she never made her return, as she left KPW in April 2021.
 
 Since then, Mira is still active in the wrestling industry as a ring-gear tailor and designer, working with multiple wrestlers on the Polish and international wrestling scenes.
 
