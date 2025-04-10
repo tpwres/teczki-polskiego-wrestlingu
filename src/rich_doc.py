@@ -57,6 +57,7 @@ class RichDoc:
     def register_block(cls, block_name):
         def decorate(cls, name, block_class):
             cls.block_classes[name] = block_class
+            return block_class
 
         return partial(decorate, cls, block_name)
 
