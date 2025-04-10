@@ -1,7 +1,9 @@
 from pathlib import Path
 from linters.base import LintError, Doc, Linter
+from linters.errors import FileError, FileWarning, LintWarning
 from card import CardParseError
 from utils import extract_front_matter, strip_blocks
+from md_utils import find_links
 from page import EventPage
 from dataclasses import dataclass
 import re
@@ -10,69 +12,8 @@ import tomllib
 import yaml, yaml.scanner
 from mistletoe import Document
 from mistletoe.markdown_renderer import MarkdownRenderer
-from mistletoe.block_token import BlockToken
-from mistletoe.span_token import SpanToken, Link
-from typing import Tuple, Generator, Optional
-
-@dataclass
-class FileError(LintError):
-    path: Optional[Path]
-    text: str
-
-    def message(self, file_root: Optional[Path]):
-        match self.path:
-            case Path():
-                if file_root:
-                    return f'[{self.path.relative_to(file_root)}] Error: {self.text}'
-                else:
-                    return f'[{self.path}] Error: {self.text}'
-            case _:
-                return f'[????] Error: {self.text}'
-
-    @property
-    def supports_auto(self):
-        return False
-
-    @property
-    def fatal(self):
-        return True
-
-class LintWarning(LintError): pass
-
-@dataclass
-class FileWarning(LintWarning):
-    path: Optional[Path]
-    text: str
-
-    def message(self, file_root: Optional[Path]):
-        match self.path:
-            case Path():
-                if file_root:
-                    return f'[{self.path.relative_to(file_root)}] Warning: {self.text}'
-                else:
-                    return f'[{self.path}] Warning: {self.text}'
-            case _:
-                return f'[????] Warning: {self.text}'
-
-    @property
-    def supports_auto(self):
-        return False
-
-    @property
-    def fatal(self):
-        return False
-
-def find_links(element: SpanToken|BlockToken, line_number:int=0) -> Generator[Tuple[Link, int], None, None]:
-    """Walk the AST recursively, but work on objects and not unpacked dicts from get_ast"""
-    if hasattr(element, 'line_number'):
-        line_number = element.line_number
-
-    match element:
-        case Link() as link:
-            yield (link, line_number)
-        case BlockToken(children=children) | SpanToken(children=children) if children:
-            for child in children:
-                yield from find_links(child, line_number)
+from mistletoe.span_token import Link
+from typing import Tuple, Generator
 
 def find_bad_links(text: str) -> Generator[Tuple[Link, int, str], None, None]:
     """Similar to find_links but yields only links with bad targets."""
@@ -149,6 +90,10 @@ class WellFormedEventLinter(Linter):
         self.linter_options = linter_options
         self.load_taxonomies()
 
+    def handles(self, path: Path) -> bool:
+        # Only process event files
+        return path.match('????-??-??-*.md')
+
     def reset(self):
         self.target_path = None
         self.messages = []
@@ -161,6 +106,11 @@ class WellFormedEventLinter(Linter):
         self.target_path = path
         if not self.option_enabled('wfe:skip-filename-check'):
             self.check_filename(path)
+
+        try:
+            self.content_root = [p for p in path.parents if p.stem == 'content'].pop()
+        except IndexError:
+            self.content_root = Path.cwd() / 'content'
 
         with document.open() as fp:
             text = fp.read()
@@ -259,6 +209,10 @@ class WellFormedEventLinter(Linter):
 
         gallery = extra.get('gallery')
         if gallery:
+            manifest = gallery.get('manifest', None)
+            if manifest:
+                manifest_path = Path(manifest.replace('@', str(self.content_root)))
+                gallery = tomllib.load(manifest_path.open('rb'))
             self.check_gallery(path, gallery)
 
     def check_taxonomies(self, path, doc_taxonomies):
