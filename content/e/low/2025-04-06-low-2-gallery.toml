@@ -11,5 +11,29 @@
 00011 = { path = "sinister-vs-dziedzic.webp", caption = "Image announcing [Sinister](@/w/sinister.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official Legacy Facebook" }
 00012 = { path = "oliwa-vs-marcelito.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs [Marcelito](@/w/marcelito.md).", source = "Official Legacy Facebook" }
 00013 = { path = "fatal-five-way.webp", caption = "Image announcing [Shadow](@/w/shadow.md) vs [Biesiad Strong](@/w/biesiad.md) vs ??? vs [Aron Wake](@/w/aron-wake.md) vs [Sambor](@/w/sambor.md).", source = "Official Legacy Facebook" }
-99001 = { path = "posters-in-the-wild-1.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
-99002 = { path = "posters-in-the-wild-2.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
+10001 = { path = "G-U-S-T-A-V.webp", caption = "Fans show support for Gustav Gryffin.", source = "M3n747" }
+10002 = { path = "kubes-vs-gustav-1.webp", caption = "Kubes faces [Gustav Gryffin](@/w/gustav-gryffin.md). Next to them stands [Sędzia Karol Górski](@/e/madman-charlie.md).", source = "M3n747" }
+10003 = { path = "kubes-vs-gustav-2.webp", caption = "Kubes holds [Gustav Gryffin](@/w/gustav-gryffin.md) in a sharpshooter...", source = "M3n747" }
+10004 = { path = "kubes-vs-gustav-3.webp", caption = "...but soon after [Gustav Gryffin](@/w/gustav-gryffin.md) turns the tables on Kubes.", source = "M3n747" }
+20001 = { path = "nobodys-puppet.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) appreciates the fact that [Dziedzic](@/w/dziedzic.md) is nobody's puppet.", source = "M3n747" }
+40001 = { path = "greg-star-golden-chemik.webp", caption = "Robert Star and Vic Golden reach out to Greg and Chemik.", source = "M3n747" }
+50001 = { path = "5-way.webp", caption = "Five-Way Match. Left to right: Aron Wake, [Shadow](@/w/shadow.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sambor](@/w/sambor.md), [Rusałka](@/w/rusalka.md) (outside the ring) and [Biesiad Strong](@/w/biesiad.md).", source = "M3n747" }
+50002 = { path = "biesiad-dzwiga-opozycje.webp", caption = "", source = "M3n747" }
+60001 = { path = "axel-wejscie-1.webp", caption = "[Axel Fox's](@/w/axel-fox.md) lenghty entrance: Among the fans.", source = "M3n747" }
+60002 = { path = "axel-wejscie-2.webp", caption = "[Axel Fox's](@/w/axel-fox.md) lenghty entrance 2: Next to Wiktor Longman and [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
+60003 = { path = "axel-wejscie-3.webp", caption = "[Axel Fox's](@/w/axel-fox.md) lenghty entrance 3: He's still entering.", source = "M3n747" }
+60004 = { path = "bar-fight-01.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) helps himself to something from the bar, amusing a bartender.", source = "M3n747" }
+60005 = { path = "bar-fight-02.webp", caption = "[Axel Fox](@/w/axel-fox.md) reaches for Gabriel Queen.", source = "M3n747" }
+60006 = { path = "bar-fight-03.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) and [Axel Fox](@/w/axel-fox.md) brawl on the bar.", source = "M3n747" }
+60007 = { path = "axel-finally-wins.webp", caption = "[Axel Fox](@/w/axel-fox.md) triumphs, much to [Sędzia Seweryn's](@/w/sedzia-seweryn.md) discreet delight.", source = "Official Legacy Facebook" }
+60008 = { path = "fox-queen-handshake.webp", caption = "[Axel Fox](@/w/axel-fox.md) and [Gabriel Queen](@/w/gabriel-queen.md) shake hands.", source = "M3n747" }
+70001 = { path = "taras-i-pablo.webp", caption = "[Taras](@/w/taras.md) confronts Disco Pablo.", source = "M3n747" }
+80001 = { path = "legia-wejscie.webp", caption = "[Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md) make their entrance.", source = "M3n747" }
+80002 = { path = "fux-slam.webp", caption = "Filip Fux and Michał Fux about to bodyslam Olgierd and Marco Hammers respectively.", source = "M3n747" }
+80003 = { path = "fux-w-kominiarce.webp", caption = "[Filip Fux](@/w/filip-fux.md) in a Legia Łysych balaclava, put on him by [Marco Hammers](@/w/marco-hammers.md).", source = "M3n747" }
+80004 = { path = "fuxpalm.webp", caption = "[Olgierd](@/w/olgierd.md) stalks [Michał Fux](@/w/michal-fux.md), looking to hit him with a [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md).", source = "M3n747" }
+99001 = { path = "tu-siedzi-gwiazda.webp", caption = "Seat by the bar reserved for Robert Star.", source = "M3n747" }
+99002 = { path = "mikrofon.webp", caption = "Microphone in the ring.", source = "M3n747" }
+99003 = { path = "plakat-podpisany.webp", caption = "Poster signed by workers, available at the merch stand.", source = "M3n747" }
+99004 = { path = "posters-in-the-wild-1.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
+99005 = { path = "posters-in-the-wild-2.webp", caption = "Show posters found in the wild.", source = "Ville Paananen" }
