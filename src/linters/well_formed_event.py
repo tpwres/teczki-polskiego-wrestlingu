@@ -3,6 +3,7 @@ from linters.base import LintError, Doc, Linter
 from linters.errors import FileError, FileWarning, LintWarning
 from card import CardParseError
 from utils import extract_front_matter, strip_blocks
+from md_utils import find_links
 from page import EventPage
 from dataclasses import dataclass
 import re
@@ -11,22 +12,8 @@ import tomllib
 import yaml, yaml.scanner
 from mistletoe import Document
 from mistletoe.markdown_renderer import MarkdownRenderer
-from mistletoe.block_token import BlockToken
-from mistletoe.span_token import SpanToken, Link
-from typing import Tuple, Generator, Optional
-
-
-def find_links(element: SpanToken|BlockToken, line_number:int=0) -> Generator[Tuple[Link, int], None, None]:
-    """Walk the AST recursively, but work on objects and not unpacked dicts from get_ast"""
-    if hasattr(element, 'line_number'):
-        line_number = element.line_number
-
-    match element:
-        case Link() as link:
-            yield (link, line_number)
-        case BlockToken(children=children) | SpanToken(children=children) if children:
-            for child in children:
-                yield from find_links(child, line_number)
+from mistletoe.span_token import Link
+from typing import Tuple, Generator
 
 def find_bad_links(text: str) -> Generator[Tuple[Link, int, str], None, None]:
     """Similar to find_links but yields only links with bad targets."""
