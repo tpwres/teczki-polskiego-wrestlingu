@@ -22,7 +22,7 @@ An even more condensed version, in the form of a timeline graph covering the mod
 #### Before 1918
 
 * Matches usually pit representatives of different countries fighting each other for supremacy. The fights almost always end in the local champion winning against a foreign opponent, draws and losses are rare.
-* The undefeated Jakob Koch is finally bested by Stanisław Zbyszko. A match between Albert Sturm and Zbyszko ends with a disqualification, the first such case on record.
+* The undefeated Jakob Koch is finally bested by Stanisław Zbyszko. A match between Albert Sturm and Zbyszko ends in a disqualification, the first such case on record.
 * Stanisław and Władysław, his real life brother, travel to USA, where both will achieve some successes in wrestling.
 * Events are held mostly in Szczecin, Wrocław, Bytom, Toruń and Poznań, with a number of other cities getting some shows as well.
 
