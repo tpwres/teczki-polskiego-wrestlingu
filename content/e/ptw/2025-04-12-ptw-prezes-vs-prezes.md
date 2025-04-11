@@ -35,6 +35,9 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
     nc: upcoming
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - 'Mikk Vainula'
+  - nc: upcoming
 - credits:
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
 {% end %}
