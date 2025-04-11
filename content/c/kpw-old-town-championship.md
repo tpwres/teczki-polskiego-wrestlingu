@@ -204,7 +204,6 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: 'Street Fight'
     en: '[KPW Arena 28: Zły Omen](@/e/kpw/2025-04-11-kpw-arena-28.md)'
     ed: 2025-04-11
-    nc: upcoming
 {% end %}
 
 ## References
