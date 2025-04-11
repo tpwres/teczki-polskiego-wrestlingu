@@ -59,7 +59,7 @@ For 2.5 years Piotr Opolski wasn't seen at KPW in any capacity, until he made a 
  {{ music(spot='6kugnsvuVy4cON6IU433ug')}}
  {{ music(apple='1755584815?i=1755584816')}}
   - "Stand or Fall" by Bonfire
- {{ org_badge(orgs=['kpw']) }} (2025) <br>
+ {{ org_badge(orgs=['kpw']) }} (2025-) <br>
  {{ music(yt='LC6A9ugveb0')}}
  {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
  {{ music(apple='1351853605?i=1351853946')}}
