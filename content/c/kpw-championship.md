@@ -223,9 +223,9 @@ Both defenses took place during events held by Bologna Wrestling Team.
 - - 'Hans Schulte (c)'
   - '[Michał Fux](@/w/michal-fux.md)'
   - s: Singles Match
+    r: Submission
     en: '[KPW Arena 28: Zły Omen](@/e/kpw/2025-04-11-kpw-arena-28.md)'
     ed: 2025-04-11
-    nc: upcoming
 {% end %}
 
 ## References
