@@ -1,6 +1,6 @@
 +++
 title = "PTW Exits"
-weight = 5
+weight = 0
 template = "article.html"
  authors = ["Sewi The Referee", "Szymon Iwulski"]
 [extra]

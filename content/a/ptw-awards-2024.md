@@ -1,6 +1,6 @@
 +++
 title = "PTW Awards 2024"
-weight = 6
+weight = 0
 template = "article.html"
 authors = ["M3n747", "Szymon Iwulski"]
 [extra.gallery]
