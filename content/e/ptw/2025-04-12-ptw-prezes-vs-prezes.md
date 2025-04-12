@@ -24,7 +24,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
+- - '[Max Speed](@/w/max-speed.md)(c)'
   - 'Conte'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
