@@ -1,7 +1,7 @@
 +++
 title = "PTW: Prezes vs Prezes"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
