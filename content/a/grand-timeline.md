@@ -96,7 +96,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2014
 
 * Jędruś Bułecka and the former Straceniec, now known as [Shadow](@/w/shadow.md), purchase a professional wrestling ring and create [Maniac Zone Wrestling](@/o/mzw.md). They hold shows in Głuchołazy and various small towns in the region.
-* Director Marek Skrzecz follows MZW's early events with a film crew, recording a documentary feature he'll release as [_American Dream_](@/a/american-dream.md).
+* Director Marek Skrzecz follows MZW's early events with a film crew, recording a documentary feature he'll release as [_American Dream_](@/a/amerykanski-sen.md).
 * DDW moves to Gdańsk, hoping to attract greater attention in a larger metropolitan area than its original hometown Rzeszów.
 
 #### 2015
@@ -121,7 +121,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2018
 
 * MZW [moves permanently](@/o/paw.md#2018-2019-moving-to-wroclaw) from Głuchołazy to Wrocław. This boosts attendance at their training sessions greatly.
-* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, form a group known as [The Greens](@/a/the-greens.md).
+* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, form a group known as [The Greens](@/a/zieloni.md).
 
 #### 2019
 

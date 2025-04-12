@@ -32,7 +32,7 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
 
 * When the belt was first awarded at the Tournament of Dreams, none of the competitors in the tournament saw it before it was actually awarded. The belt was kept under wraps (literally wrapped in a towel) until the final bell.
 * After DFW's closure, the belt remained in possession of the final champion - [Norris](@/w/isnorr.md), who kept it in its original form until early 2023, when the plates were stripped from the belt itself.
-* The belt was used as the base for the ZLN GNG Championship - an insider belt defended only between the members of [The Greens](@/a/the-greens.md).
+* The belt was used as the base for the ZLN GNG Championship - an insider belt defended only between the members of [The Greens](@/a/zieloni.md).
 * The original DFW main plate became one of the relics kept in [Ewenement Dojo](@/o/ewenement-dojo.md).
 * The front plate made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 

@@ -32,7 +32,7 @@ source = "?"
     Host, Ring Announcer: Filip Cieśliński
 {% end %}
 
-Matches from this event are briefly shown in the first act of [American Dream](@/a/american-dream.md).
+Matches from this event are briefly shown in the first act of [American Dream](@/a/amerykanski-sen.md).
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=112730)
 * [YouTube recap video](https://www.youtube.com/watch?v=govjBMLhU3E)

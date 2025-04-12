@@ -2,6 +2,7 @@
 title = "Marzenie wrestlera"
 template = "article.html"
 weight = 0
+aliases = ["/a/wrestlers-dream"]
 authors = ["Szymon Iwulski", "M3n747"]
 [extra.gallery.1]
 path = "marzenie-wrestlera.jpg"

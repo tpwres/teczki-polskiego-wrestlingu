@@ -210,7 +210,7 @@ After some teasing on his Instagram Stories, Sinister confirmed the speculations
 Shortly after that, [referee Seweryn](@/w/sedzia-seweryn.md) also confirmed his departure on his Instagram story.
 
 On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance".
-It mostly contained photos of various moments in PTW he was part of, but also several photos with ["the Greens"](@/a/the-greens.md) (an insider group of wrestlers from [MZW](@/o/mzw.md), like himself), some of whom had already quit PTW.
+It mostly contained photos of various moments in PTW he was part of, but also several photos with ["the Greens"](@/a/zieloni.md) (an insider group of wrestlers from [MZW](@/o/mzw.md), like himself), some of whom had already quit PTW.
 The final image in this set was just a black background with text saying "Merci et au revoir" (_Thank you and goodbye_), strongly implying that he left as well.
 
 Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just after his return at Gold Rush, seemingly confirmed his exit through Instagram stories.
