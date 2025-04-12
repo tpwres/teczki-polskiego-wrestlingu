@@ -1,7 +1,7 @@
 +++
 title = "PTW: Prezes vs Prezes"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
@@ -24,14 +24,14 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
+- - '[Max Speed](@/w/max-speed.md)(c)'
   - 'Conte'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
 - - 'LaVonce'
   - '[Alex Brave](@/w/alex-brave.md)'
   - nc: upcoming
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
     nc: upcoming
