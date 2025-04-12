@@ -1,6 +1,6 @@
 +++
 title = "PTW Awards 2022"
-weight = 6
+weight = 0
 template = "article.html"
 authors = ["Sewi The Referee"]
 [extra.gallery]
