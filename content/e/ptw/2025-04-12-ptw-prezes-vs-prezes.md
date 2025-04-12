@@ -31,7 +31,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 - - 'LaVonce'
   - '[Alex Brave](@/w/alex-brave.md)'
   - nc: upcoming
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
     nc: upcoming
