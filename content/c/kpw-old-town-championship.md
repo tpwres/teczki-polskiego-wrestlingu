@@ -143,8 +143,8 @@ Over 500 days of Oliwa's title run fell on the COVID-19 pandemic.
 - - '[Darius](@/w/darius.md)'
   - 'Rosetti (c)'
   - s: Singles match
-    r: Count Out
-    n: Since Darius won the match by count-out, Rosetti retained the title.
+    r: Count Out \
+    n: Darius won the match by count-out, therefore Rosetti retained the title.
     en: '[KPW Arena 20: Świąteczna Awantura](@/e/kpw/2022-12-16-kpw-arena-20.md)'
     ed: 2022-12-16
 - - 'Rosetti (c)'
