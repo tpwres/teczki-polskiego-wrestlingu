@@ -20,7 +20,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 * Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against Conte, an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
 * On April 10th, PTW [announced][bestia-pas] that [Dawid "Puncher" Seńko](@/w/puncher.md) will defend his Bestya Slam Championship against the up-and-coming Sigma Boy xD.
 
-{% card () %}
+{% card() %}
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: 'Caravaggio quits PTW'
 - - '[Alex Brave](@/w/alex-brave.md)'
@@ -35,9 +35,9 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
   - 'Conte'
   - n: 'special referee announced by Pawłowski - Daniele Specchiulli from Italy'
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
- - - '[Spartan](@/w/spartan.md)'
-   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-   - g: 'Pawłowski announces that Spartan is not allowed to compete and suspended for 2 shows. He taunts him, but Spartan keeps his composure'
+- - '[Spartan](@/w/spartan.md)'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: 'Pawłowski announces that Spartan is not allowed to compete and suspended for 2 shows. He taunts him, but Spartan keeps his composure'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
@@ -55,7 +55,6 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
     Special Referee: 'Daniele Specchiulli'
     Commentary: 'Adam Goldschmitt', 'Krystian "Resivny" Smoleń'
     Host, ring announcer: 'Krzysztof Skwarczyński'
-
 {% end %}
 
 ## References
