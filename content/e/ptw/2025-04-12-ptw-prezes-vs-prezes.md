@@ -36,7 +36,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Spartan](@/w/spartan.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: 'Pawłowski announces that Spartan is not allowed to compete and suspended for two shows.'
+  - g: 'Pawłowski announces that Spartan is not allowed to compete and is suspended for two shows.'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
