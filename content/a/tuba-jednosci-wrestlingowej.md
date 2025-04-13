@@ -40,7 +40,7 @@ The tube was signed by the following people:
 - [Kapitan Bazooka](@/w/kapitan-bazooka.md)
 - [Karol Górski](@/w/madman-charlie.md)
 - [Kinga Miotke](@/w/kinga-miotke.md)
-- [Krystian Czekaj](@/w/krystian-czekaj.md) (signed as ["Sędzia Chuj"](@/a/polish-wrestling-chants.md)
+- [Krystian Czekaj](@/w/krystian-czekaj.md) (signed as ["Sędzia Chuj"](@/a/polish-wrestling-chants.md))
 - [Krystian Malinowski](@/w/krystian-malinowski.md)
 - [Leon Lato](@/w/leon-lato.md)
 - [Marco Hammers](@/w/marco-hammers.md)
