@@ -33,18 +33,18 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
   - g: 'post-match brawl continuing throughout the show'
 - - '[Max Speed](@/w/max-speed.md)(c)'
   - 'Conte'
-  - n: special referee announced by Pawłowski - Daniele Specchiulli from Italy
+  - n: 'special referee announced by Pawłowski - Daniele Specchiulli from Italy'
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
  - - '[Spartan](@/w/spartan.md)'
    - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-   - 'g: Pawłowski announces that Spartan is not allowed to compete and suspended for 2 shows. He taunts him, but Spartan keeps his composure'
+   - g: 'Pawłowski announces that Spartan is not allowed to compete and suspended for 2 shows. He taunts him, but Spartan keeps his composure'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
 - - 'Lucia Lee'
   - '???'
   - s: PTW Women's Championship tournament match
-    n: as Lucia's never revealed opponent did not make it, she automatically qualifies for the next round
+    n: 'as Lucia's never revealed opponent did not make it, she automatically qualifies for the next round'
 - - 'Lucia Lee'
   - 'El G'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
