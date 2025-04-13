@@ -1,8 +1,8 @@
-1 = { path = "tjw-01.webp", caption = "Signatures.", source = "M3n747"}
-2 = { path = "tjw-02.webp", caption = "Signatures.", source = "M3n747"}
-3 = { path = "tjw-03.webp", caption = "Signatures.", source = "M3n747"}
-4 = { path = "tjw-04.webp", caption = "Signatures.", source = "M3n747"}
-5 = { path = "tjw-05.webp", caption = "Signatures.", source = "M3n747"}
-6 = { path = "tjw-06.webp", caption = "Signatures.", source = "M3n747"}
-7 = { path = "tjw-07.webp", caption = "Signatures.", source = "M3n747"}
-8 = { path = "tjw-99-lesak.webp", caption = "Lesak's Signature, before being crossed out.", source = "M3n747"}
+1 = { path = "tjw-01.webp", caption = "Signatures.", source = "M3n747" skip_art = true }
+2 = { path = "tjw-02.webp", caption = "Signatures.", source = "M3n747" skip_art = true }
+3 = { path = "tjw-03.webp", caption = "Signatures.", source = "M3n747" skip_art = true }
+4 = { path = "tjw-04.webp", caption = "Signatures.", source = "M3n747" skip_art = true }
+5 = { path = "tjw-05.webp", caption = "Signatures.", source = "M3n747" skip_art = true }
+6 = { path = "tjw-06.webp", caption = "Signatures.", source = "M3n747" skip_art = true }
+7 = { path = "tjw-07.webp", caption = "Signatures.", source = "M3n747" skip_art = true }
+8 = { path = "tjw-99-lesak.webp", caption = "Lesak's Signature, before being crossed out.", source = "M3n747" skip_art = true }
