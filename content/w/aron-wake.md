@@ -24,7 +24,7 @@ Aron Wake started his pro-wrestling training in [Polska Akademia Wrestlingu](@/o
 His main coaches were [Shadow](@/w/shadow.md), [Justin Joy](@/w/justin-joy.md) and [Asmund](@/w/asmund.md).
 After a year of training he made his debut in a rookie battle royal at [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), which he won, with [Nathan Cross](@/w/gabriel-queen.md) as runner-up.
 Later on, he made his singles debut against [Madman Charlie](@/w/madman-charlie.md) at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he lost.
-In 2018/2019 he became one of the funding members of ["The Greens"](@/a/zieloni.md).
+In 2018/2019 he became one of the founding members of ["The Greens"](@/a/zieloni.md).
 
 During the COVID-19 pandemic he become one of the regularly-appearing workers in an MZW taped show called MZW Project Basement.
 In the [final episode](@/e/mzw/2021-07-21-mzw-project-basement-6.md) he won a 7-man gauntlet match for the Project Basement trophy, which was awarded to him at the first MZW show after the pandemic, [MZW Project 8: Golden Road FINALS](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
