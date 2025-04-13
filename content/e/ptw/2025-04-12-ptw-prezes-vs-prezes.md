@@ -43,7 +43,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 - - 'Lucia Lee'
   - '???'
   - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament match"
-    n: "As Lucia's never-revealed opponent did't make it, she automatically qualifies for the next round."
+    n: "As Lucia's never-revealed opponent did't make it, Lee automatically qualifies for the next round."
 - - 'Lucia Lee'
   - 'El G'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
