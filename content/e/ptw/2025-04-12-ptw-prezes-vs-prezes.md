@@ -43,7 +43,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
   - c: 'Bestya Slam Championship'
 - - 'Lucia Lee'
   - '???'
-  - s: PTW Women's Championship tournament match
+  - s: 'PTW Women's Championship tournament match'
     n: 'as Lucia's never revealed opponent did not make it, she automatically qualifies for the next round'
 - - 'Lucia Lee'
   - 'El G'
