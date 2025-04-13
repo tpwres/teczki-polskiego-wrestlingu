@@ -6,13 +6,12 @@ authors = ["M3n747", "Szymon Iwulski"]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 +++
 
-"Prezes vs Prezes" (_Chairman vs Chairman_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Prezes vs Prezes" (_Chairman vs Chairman_) was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ### Build-up
 * On April Fools Day PTW announced Andrzej Supron as the Special Guest Referee for the Main Event. They reiterated that despite the date, it is not an April Fools joke.
@@ -30,21 +29,21 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
   - n: Vainuala won due to Serg Sullivan's distraction
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
-  - g: 'post-match brawl continuing throughout the show'
+  - g: 'Post-match brawl continuing throughout the show'
 - - '[Max Speed](@/w/max-speed.md)(c)'
   - 'Conte'
-  - n: 'special referee announced by Pawłowski - Daniele Specchiulli from Italy'
+  - n: 'Special referee announced by Pawłowski: Daniele Specchiulli from Italy'
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Spartan](@/w/spartan.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: 'Pawłowski announces that Spartan is not allowed to compete and suspended for 2 shows. He taunts him, but Spartan keeps his composure'
+  - g: 'Pawłowski announces that Spartan is not allowed to compete and suspended for two shows. He taunts him, but Spartan keeps his composure.'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
 - - 'Lucia Lee'
   - '???'
-  - s: 'PTW Women's Championship tournament match'
-    n: 'as Lucia's never revealed opponent did not make it, she automatically qualifies for the next round'
+  - s: "PTW Women's Championship tournament match"
+    n: "As Lucia's never-revealed opponent did't make it, she automatically qualifies for the next round."
 - - 'Lucia Lee'
   - 'El G'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
@@ -53,12 +52,13 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 - credits:
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
     Special Referee: 'Daniele Specchiulli'
-    Commentary: 'Adam Goldschmitt', 'Krystian "Resivny" Smoleń'
+    Commentary: 'Adam Goldschmitt, Krystian "Resivny" Smoleń'
     Host, ring announcer: 'Krzysztof Skwarczyński'
 {% end %}
 
 ## References
 * [Conte's CageMatch profile](https://www.cagematch.net/?id=2&nr=31103&page=20)
 * [Italian ref](https://www.instagram.com/refspeck/)
+ 
 [more_italians_incoming]: https://www.instagram.com/conte_mcstevenson/
 [bestia-pas]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0cdaa3Du3xhaYq5K4RrE6tCWUsoE8N4jXBWkQ7nqWauET3VXtLLB5pUa7s68YM8j9l
