@@ -6,13 +6,12 @@ authors = ["M3n747", "Szymon Iwulski"]
 chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
-hide_results = true
 city = "Kozłów"
 [extra.gallery]
 manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 +++
 
-"Prezes vs Prezes" (_Chairman vs Chairman_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Prezes vs Prezes" (_Chairman vs Chairman_) was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ### Build-up
 * On April Fools Day PTW announced Andrzej Supron as the Special Guest Referee for the Main Event. They reiterated that despite the date, it is not an April Fools joke.
@@ -20,30 +19,46 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 * Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against Conte, an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
 * On April 10th, PTW [announced][bestia-pas] that [Dawid "Puncher" Seńko](@/w/puncher.md) will defend his Bestya Slam Championship against the up-and-coming Sigma Boy xD.
 
-{% card(predicted=true) %}
-- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - nc: upcoming
+{% card() %}
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: 'Caravaggio quits PTW'
+- - '[Alex Brave](@/w/alex-brave.md)'
+  - 'LaVonce'
+- - 'Mikk Vainula'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - n: Vainuala won due to Serg Sullivan's distraction
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '[Serg Sullivan](@/w/serg-sullivan.md)'
+  - g: 'Post-match brawl continuing throughout the show'
 - - '[Max Speed](@/w/max-speed.md)(c)'
   - 'Conte'
-  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
-- - 'LaVonce'
-  - '[Alex Brave](@/w/alex-brave.md)'
-  - nc: upcoming
+  - n: 'Special referee announced by Pawłowski: Daniele Specchiulli from Italy'
+    c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+- - '[Spartan](@/w/spartan.md)'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: 'Pawłowski announces that Spartan is not allowed to compete and is suspended for two shows.'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Sigma Boy xD'
   - c: 'Bestya Slam Championship'
-    nc: upcoming
-- - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - 'Mikk Vainula'
-  - nc: upcoming
+- - 'Lucia Lee'
+  - '???'
+  - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament match"
+    n: "As Lucia's never-revealed opponent did't make it, Lee automatically qualifies for the next round."
+- - 'Lucia Lee'
+  - 'El G'
+  - '[Serg Sullivan](@/w/serg-sullivan.md)'
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 - credits:
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
+    Special Referee: 'Daniele Specchiulli'
+    Commentary: 'Adam Goldschmitt, Krystian "Resivny" Smoleń'
+    Host, ring announcer: 'Krzysztof Skwarczyński'
 {% end %}
 
 ## References
 * [Conte's CageMatch profile](https://www.cagematch.net/?id=2&nr=31103&page=20)
-
+* [Italian ref](https://www.instagram.com/refspeck/)
+ 
 [more_italians_incoming]: https://www.instagram.com/conte_mcstevenson/
 [bestia-pas]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0cdaa3Du3xhaYq5K4RrE6tCWUsoE8N4jXBWkQ7nqWauET3VXtLLB5pUa7s68YM8j9l
