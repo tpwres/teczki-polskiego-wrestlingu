@@ -18,7 +18,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 * Both Chairmen appeared live on the PTW YouTube channel on separate occassions during the feud. Rather than firing shots at one another, each of them focused on calling out the competition and "traitors", making only brief references to the opponent.
 * Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against Conte, an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
 * On April 10th, PTW [announced][bestia-pas] that [Dawid "Puncher" Seńko](@/w/puncher.md) will defend his Bestya Slam Championship against the up-and-coming Sigma Boy xD.
-* On April 11th, PTW hosted another YouTube live with appearances by both Chairmen. They talked various topics, mainly building up their upcoming fight
+* On April 11th, PTW hosted another YouTube livestream with appearances by both Chairmen. They talked various topics, mainly building up their upcoming fight.
 
 {% card() %}
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
@@ -61,8 +61,8 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 ## References
 * [Conte's CageMatch profile](https://www.cagematch.net/?id=2&nr=31103&page=20)
 * [Italian referee's Instagram profile](https://www.instagram.com/refspeck/)
-* [Chairmen confront live - YouTube, requires paid subscription](https://www.youtube.com/watch?v=Mm8MzWkLXxo&ab_channel=PTW-PrimeTimeWrestling)
-* [Full show - YouTube, requires paid subscription](https://www.youtube.com/watch?v=ClI5xGRxnhg&t=8567s&ab_channel=PTW-PrimeTimeWrestling)
+* [Video: Chairmen's live confrontation](https://www.youtube.com/watch?v=Mm8MzWkLXxo&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
+* [Full show on YouTube](https://www.youtube.com/watch?v=ClI5xGRxnhg&t=8567s&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
 
 [more_italians_incoming]: https://www.instagram.com/conte_mcstevenson/
 [bestia-pas]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0cdaa3Du3xhaYq5K4RrE6tCWUsoE8N4jXBWkQ7nqWauET3VXtLLB5pUa7s68YM8j9l
