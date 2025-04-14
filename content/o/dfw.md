@@ -68,7 +68,8 @@ DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) w
 
 ### Scene relations
 
-DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
+DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. 
+DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth Donner" Varanovich introduced [Amisz](@/w/axel-fox.md) into the promotion, as well as provided commentary for various shows, alongside WiW's Marcel Koniecki. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality (also _What is Wrestling_) still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
 
 After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the Polish Wrestling Academy (PAW), which is MZW's wrestling school.
 
@@ -94,3 +95,4 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 * [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)
 * [MyCast #5 with Chris Hunter](https://www.youtube.com/watch?v=PNifwMjQZWE)
+* [Seth Donner vs Lygrys feud about backyard](https://www.wrestlefans.pl/forum/viewtopic.php?t=46017&p=424631)
