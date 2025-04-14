@@ -17,9 +17,16 @@ last row: [Rob Scaffold](@/w/rob-scaffold.md), [Charlie](@/w/madman-charlie.md),
 This was sold in DFW's online merch store as T-shirts and a cup, and the characters were used on social media for some events in 2017. Norris wore a T-shirt with his character, as part of his ring gear at some point.
 """
 source = "dreamfactorywrestling.cupsell.pl"
+[extra.gallery.founding-fathers]
+path = "founding-fathers.jpg"
+caption = """
+DFW's first meeting. Five founders, from left to right:
+[Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md)
+"""
+source = "Pain Killer's private archive"
 +++
 
-Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015.
+Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015 and founded by: [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md).
 Widely considered to be just another backyard, they nevertheless managed to hold multiple showcases and events in 2016, before fizzling out at the end of 2017.
 DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
 Dream Factory, unlike other backyards, did not do any sort of ultraviolent matches. They did dabble in hardcore wrestling, as several Street Fight-style matches were held, with kendo sticks, chairs, ladders and Legos.
@@ -81,6 +88,8 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 ### References
 
 * [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
+* [DFW's Facebook page](https://www.facebook.com/DreamFactoryWrestling]
+* [DFW's Instagram profile](https://www.instagram.com/dreamfactorywrestling/)
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
 * [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)
