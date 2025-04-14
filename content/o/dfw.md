@@ -2,7 +2,7 @@
 title = "Dream Factory Wrestling"
 weight = 0
 template = "org_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "Szymon Iwulski"]
 [taxonomies]
 chrono_root = ["dfw"]
 [extra]
@@ -17,9 +17,16 @@ last row: [Rob Scaffold](@/w/rob-scaffold.md), [Charlie](@/w/madman-charlie.md),
 This was sold in DFW's online merch store as T-shirts and a cup, and the characters were used on social media for some events in 2017. Norris wore a T-shirt with his character, as part of his ring gear at some point.
 """
 source = "dreamfactorywrestling.cupsell.pl"
+[extra.gallery.founding-fathers]
+path = "founding-fathers.jpg"
+caption = """
+DFW's first meeting. Five founders, from left to right:
+[Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md)
+"""
+source = "Pain Killer's private archive"
 +++
 
-Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015.
+Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015 and founded by [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md).
 Widely considered to be just another backyard, they nevertheless managed to hold multiple showcases and events in 2016, before fizzling out at the end of 2017.
 DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
 Dream Factory, unlike other backyards, did not do any sort of ultraviolent matches. They did dabble in hardcore wrestling, as several Street Fight-style matches were held, with kendo sticks, chairs, ladders and Legos.
@@ -61,13 +68,14 @@ DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) w
 
 ### Scene relations
 
-DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
+DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. 
+DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth Donner" Varanovich introduced [Amisz](@/w/axel-fox.md) to the promotion, as well as provided commentary for various shows, alongside WiW's Marcel Koniecki. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality (also from _What is Wrestling_) still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
 
-After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the Polish Wrestling Academy (PAW), which is MZW's wrestling school.
+After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school.
 
 ### Championships
 
-DFW had one singles championship, introduced and awarded at the first (and only) [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was Chris Hunter.
+DFW had one singles championship, introduced and awarded at [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was Chris Hunter.
 
 {% championship() %}
 - - '[DFW Championship](@/c/dfw-championship.md)'
@@ -81,7 +89,10 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 ### References
 
 * [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
+* [DFW's Facebook page](https://www.facebook.com/DreamFactoryWrestling]
+* [DFW's Instagram profile](https://www.instagram.com/dreamfactorywrestling/)
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
 * [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)
 * [MyCast #5 with Chris Hunter](https://www.youtube.com/watch?v=PNifwMjQZWE)
+* [Seth Donner vs Lygrys feud about backyard](https://www.wrestlefans.pl/forum/viewtopic.php?t=46017&p=424631)
