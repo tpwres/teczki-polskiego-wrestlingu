@@ -7,12 +7,12 @@ chronology = ["kpw"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-1 = { path = "2015-11-14-vs-the-world-hungary-for-kombat-plakat.jpg", caption = "Official poster. Left to right: ???, [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Bianca](@/w/bianca.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "2015-11-14-vs-the-world-hungary-for-kombat-plakat.jpg", caption = "Official poster. Left to right: [Renegade](@/w/renegade.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Bianca](@/w/bianca.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 KPW vs the World was the first event held by the newly created KPW, on November 14, 2015, in the gymnastics hall of Gimnazjum 8 in Gdańsk. This was the same venue that hosted [DDW](@/o/ddw.md)'s [final event](@/e/ddw/2015-05-02-ddw-house-show-2.md). The show's poster also advertised showcases of judo and capoeira to accompany wrestling.
 
-Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular [Ron Corvus](@/w/ron-corvus.md) would become a familiar face in KPW. The Nations Cup concept at this event had each country score one point for a victory across 5 matches, so that a tie was not possible.
+Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular [Ron Corvus](@/w/ron-corvus.md) would become a familiar face in KPW. The Nations Cup concept at this event had each country score one point for a victory across five matches, so that a tie was not possible.
 
 {% card() %}
 - - '[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)'
@@ -42,8 +42,8 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
 
 #### Recap
 
-* Until the final match, the score was tied. After Kamil Aleksander scored the winning point, an physical cup was presented to the winners, and the Polish wrestlers celebrated in the ring. The Hungarian team entered, congratulated them and joined the celebration.
-* Once the Hungarians left, faces Kamil Aleksander, Robert Star and Kaszub celebrated facing the audience. Behind them, heels Piękny Kawaler, Greg and Luxus stood silently, then attacked, leading to a post-event brawl.
+* Until the final match, the score was tied. After Kamil Aleksander scored the winning point, a physical cup was presented to the winners, and the Polish wrestlers celebrated in the ring. The Hungarian team entered, congratulated them and joined the celebration.
+* Once the Hungarians left, faces Kamil Aleksander, Robert Star and Kaszub celebrated facing the audience. Behind them, heels Piękny Kawaler, Greg and Luxus stood silently and then attacked, leading to a post-event brawl.
 
 ### References
 
