@@ -14,7 +14,7 @@ DFW wrestlers reimagined as characters from Powerpuff Girls.
 Top row: [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md);
 second row: [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), [Corin Mear](@/w/corin-mear.md);
 last row: [Rob Scaffold](@/w/rob-scaffold.md), [Charlie](@/w/madman-charlie.md), [Malmo Buruto](@/w/malmo-buruto.md).
-This was sold in DFW's online merch store as T-shirts and a cup, and the characters were used on social media for some events in 2017. Norris wore a T-shirt with his character, as part of his ring gear at some point.
+This was sold in DFW's online merch store as T&#8209;shirts and a cup, and the characters were used on social media for some events in 2017. Norris wore a T&#8209;shirt with his character, as part of his ring gear at some point.
 """
 source = "dreamfactorywrestling.cupsell.pl"
 [extra.gallery.founding-fathers]
