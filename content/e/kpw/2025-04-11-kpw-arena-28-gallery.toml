@@ -5,3 +5,28 @@
 0004 = { path = "oliwa-vs-st-john.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs Toby St. John.", source = "Official KPW Facebook" }
 0005 = { path = "latomczakefir.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs Tomczak vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
 0006 = { path = "rosetti-zaprzysiezenie.webp", caption = "Image announcing the induction ceremony of the new KPW chairman, [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
+1001 = { path = "greg-wejscie.webp", caption = "[Greg's](@/w/greg.md) entrance. [Eryk Lesak](@/w/eryk-lesak.md) waits in the corner to the left, [Referee Kinga](@/w/kinga-miotke.md) to the right.", source = "M3n747" }
+1002 = { path = "leskas-little-tank", caption = "[Eryk Lesak](@/w/eryk-lesak.md) presents his new ring gear.", source = "M3n747" }
+1003 = { path = "lupa-desaka.jpg", caption = "🔞 Greg pulls down Lesak's singlet. 🔞", source = "Krzysztof Zych" }
+2001 = { path = "garbage-bin.webp", caption = "Standard-issue wrestling garbage bin.", source = "M3n747" }
+2002 = { path = "filip-o-neil.webp", caption = "Filip Fux channels his inner Titus O'Neil.", source = "M3n747" }
+2003 = { path = "filip-bloody-filip.webp", caption = "[Chemik](@/w/chemik.md) with the bloodied [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
+2004 = { path = "blood-on-the-dancefloor.webp", caption = "A broken piece of hubcap and plenty of Filip's blood.", source = "M3n747" }
+2005 = { path = "szalikowiec.webp", caption = "[Chemik](@/w/chemik.md) poses with a scarf of Arka Gdynia over the heavily bleeding [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
+2006 = { path = "lecha-gdansk-rzadzi.webp", caption = "[Filip Fux](@/w/filip-fux.md) chokes [Chemik](@/w/chemik.md) with his own scarf.", source = "M3n747" }
+2007 = { path = "your-move-literally.webp", caption = "[Filip Fux](@/w/filip-fux.md) steals Chemik's finishing move.", source = "M3n747" }
+2008 = { path = "ideal-siegnal-bruku.webp", caption = "Chemik thrown out of the ring.", source = "M3n747" }
+2009 = { path = "sad-chemik-in-the-ring.webp", caption = "Chemik beaten up, but not beaten.", source = "M3n747" }
+3001 = { path = "oliwa-wejscie.webp", caption = "[David Oliwa's](@/w/david-oliwa.md) entrance.", source = "M3n747" }
+3002 = { path = "toby-st-john.webp", caption = "Toby St. John points out the obvious.", source = "M3n747" }
+3003 = { path = "oliwa-sie-rozlal.webp", caption = "[David Oliwa](@/w/david-oliwa.md) cowers in the corner.", source = "M3n747" }
+3004 = { path = "oliwa-beers-up.webp", caption = "[David Oliwa](@/w/david-oliwa.md) drinks a fan's beer.", source = "M3n747" }
+3005 = { path = "smile-for-the-camera.webp", caption = "[David Oliwa](@/w/david-oliwa.md) speaks his mind to the camera.", source = "M3n747" }
+4001 = { path = "rosettis-ceremony-1.webp", caption = "Induction ceremony. Left to right: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md), Tomczak, [Filip Fux](@/w/filip-fux.md), [Rosetti](@/w/rosetti.md), [Piotr Opolski](@/w/piotr-opolski.md), Leon Lato's knee, [Greg](@/w/greg.md) and [Zefir](@/w/zefir.md).", source = "M3n747" }
+4002 = { path = "rosettis-ceremony-2.webp", caption = "[Rosetti](@/w/rosetti.md) being sworn in by [Piotr Opolski](@/w/piotr-opolski.md).", source = "M3n747" }
+5001 = { path = "hansel-ohne-gretel.webp", caption = "[Hans Schulte's](@/w/hans-schulte.md) entrance.", source = "M3n747" }
+5002 = { path = "hans-und-michal.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) chokes [Michał Fux](@/w/michal-fux.md).", source = "M3n747" }
+5003 = { path = "dynamic-duo.webp", caption = "Michał Fux superplexes Hans Schulte from the corner.", source = "M3n747" }
+5004 = { path = "mann-bist-du-schwer.webp", caption = "[Michał Fux](@/w/michal-fux.md) applies a submission hold to Hans Schulte. To the right is [Referee Kinga](@/w/kinga-miotke.md).", source = "M3n747" }
+5005 = { path = "er-ist-ein-besieger.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) victorious.", source = "M3n747" }
+6001 = { path = "zefir-oskarzony.webp", caption = "Krystian Malinowski accuses Zefir.", source = "M3n747" }
