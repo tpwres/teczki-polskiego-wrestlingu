@@ -11,7 +11,7 @@ city = "Wrocław"
 manifest = "@/e/mzw/2025-03-29-mzw-forever-gallery.toml"
 +++
 
-MZW Forever is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to return to [Bakara Community Centre](@/v/bakara.md) on Saturday, 29th of March 2025.
+MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in the [Bakara Community Centre](@/v/bakara.md).
 
 ### Build-up
 
