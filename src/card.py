@@ -1,15 +1,13 @@
 import datetime
 import yaml
 import io
-from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO, Any
+from warnings import deprecated
+from typing import Union, Iterable, Optional, cast, Any
 import re
 from pathlib import Path
-from itertools import chain
-from functools import reduce
 from dataclasses import dataclass
 from contextlib import contextmanager
 import yaml.parser
-from sys import exit, stderr
 
 person_link_re = re.compile(r'''
     ^
@@ -64,6 +62,17 @@ card_start_re = re.compile(r'''
     \s+%\}
     $
 ''', re.VERBOSE | re.MULTILINE)
+
+param_re = re.compile(r'''
+    (\w+)\s*=\s* # key=, with optional spaces
+    (
+        (?P<delim>['\"]) # opening single or double quote, for string values
+        \w+
+        (?P=delim) # closing quote of the same flavor
+        |\w+ # instead of a quoted value, raw keyword
+    )
+    (?:,\s+|$) # followed by a comma and spaces
+''', re.VERBOSE)
 
 @dataclass(frozen=True)
 class Name:
@@ -292,118 +301,59 @@ class CardParseError(Exception):
 class MatchParseError(CardParseError):
     pass
 
-class DelimitedCard(NamedTuple):
-    start: int
-    end: int
-    text: str
-    card_start_line: int
-    frontmatter_offset: int
-    params: dict[str, Any]
-
 class Card:
-    start_offset: Optional[int]
-    end_offset: Optional[int]
     crew: Optional[Crew]
     matches: list[Match]
     params: dict[str, Any]
 
-    def __init__(self, text_or_io: object, path: Optional[Path], offset: int):
-        match text_or_io:
-            case str() as text:
-                # parse_result = self.extract_card(text_or_io.split("\n"))
-                extracted_card = self.extract_card_unsplit(text, offset)
-            case io.TextIOBase() as stream:
-                extracted_card = self.extract_card_unsplit(stream.read(), offset)
-            case _:
-                extracted_card = None
+    def __init__(self, section, doc, error_sink=None):
+        _line_start, _name, card_block = section
+        self.sink = error_sink or doc.sink
 
-        if not extracted_card:
-            self.matches = []
-            self.crew = None
-            return
+        # NOTE: YAML errors are handled earlier, when parsing the block
+        content = list(self.parse_card(card_block.raw_card))
 
-        card_start, card_end, card_text, _start_line, _fm_offset, params = extracted_card
-        self.start_offset = card_start
-        self.end_offset = card_end
-        self.params = params
+        match content:
+            case []:
+                # Also if the card had errors
+                self.matches, self.crew = [], None
+            case [*matches, Crew() as crew]:
+                self.matches, self.crew = cast(list[Match], matches), crew
+            case [*matches]:
+                self.matches, self.crew = cast(list[Match], matches), None
 
-        with self.handle_yaml_errors(extracted_card, path):
-            content = list(self.parse_card(card_text))
-
-        if not content:
-            raise ValueError("Failed to find valid matches")
-
-        if isinstance(content[-1], Crew):
-            self.crew = cast(Crew, content.pop())
-        else:
-            self.crew = None
-        self.matches = cast(list[Match], content)
+        self.params = self.parse_card_params(card_block.params)
 
 
-    @contextmanager
-    def handle_yaml_errors(self, card_block: DelimitedCard, path: Optional[Path]):
-        _, _, _, start_line, offset, _ = card_block
-        try:
-            yield
-        except MatchParseError as mpe:
-            # Add filename to messages
-            message, = mpe.args # Args is a tuple
-            raise MatchParseError(f"{path or '<file>'}: Error: {message}")
-        except yaml.parser.ParserError as parse_error:
-            context, _, problem, problem_mark = parse_error.args
-            # Calculate actual line number
-            # Block content starts at start_line + 1
-            # problem_mark.line treats that as line 1
-            # And the card is extracted from a file with frontmatter already removed,
-            # so we also need to add in the frontmatter length
-            line = (start_line + 1) + problem_mark.line + offset
-            message = f"{path or '<file>'}:{line}: Error: {problem} {context}\n"
-            # stderr.write(message)
-            raise CardParseError(message)
-
-    def extract_card_unsplit(self, text: str, frontmatter_offset: int) -> Optional[DelimitedCard]:
-        card_start_match = card_start_re.search(text)
-        if not card_start_match:
-            return None
-        card_start = card_start_match.start()
-        card_params = self.parse_card_params(card_start_match.group('params'))
-        start_line = text[:card_start].count("\n") + 2 # 1 for line numbering to start at 1, and 1 more to consume the {% card %} block start
-        card_end = text.find('{% end %}', card_start_match.end())
-        if card_end == -1:
-            raise ValueError("Could not find card end marker {% end %}")
-        body = text[card_start_match.end():card_end]
-
-        return DelimitedCard(
-            start=card_start_match.end(),
-            end=card_end,
-            text=body,
-            card_start_line=start_line,
-            frontmatter_offset=frontmatter_offset,
-            params=card_params
-        )
-
-    def parse_card(self, card_text: str) -> Iterable[Match|Crew]:
-        card_rows = yaml.safe_load(io.StringIO(card_text))
+    def parse_card(self, card_rows: list[Any]) -> Iterable[Match|Crew]:
         match_date = None
         for i, row in enumerate(card_rows):
             match row:
                 case {"credits": dict() as credits}:
                     yield Crew(credits, i)
-                case {"date": str as new_date}:
+                case {"date": datetime.date() as new_date}:
                     match_date = new_date
                 case [*_]:
                     yield Match(cast(Any, row), i, date=match_date)
 
     def parse_card_params(self, params: str) -> dict:
-        if not params: return {}
-        key, _eq, value = params.partition('=')
-        match value.strip():
-            case 'true' | 'True':
-                return {key: True}
-            case 'false' | 'False':
-                return {key: False}
-            case _:
-                raise CardParseError(f"Card block header: unsupported value {value}")
+        result = {}
+        for mm in param_re.finditer(params):
+            key, value = mm.group(1), mm.group(2)
+            match value.strip():
+                case 'true' | 'True':
+                    result[key] = True
+                case 'false' | 'False':
+                    result[key] = False
+                case str() as text if text[0] == text[-1] == "'":
+                    result[key] = text[1:-1]
+                case str() as text if text[0] == text[-1] == '"':
+                    result[key] = text[1:-1]
+                case str() as num if num.isnumeric():
+                    result[key] = int(num)
+                case _:
+                    raise CardParseError(f"Card block header: unsupported value {value}")
+        return result
 
 def extract_names(matches: Iterable[Match]) -> set[Name]:
     """
