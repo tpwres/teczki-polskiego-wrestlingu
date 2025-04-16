@@ -21,34 +21,41 @@ John "Bad Bones" Klinger was a German professional wrestler best known for his t
   - ROH Training Camp
   - Takao Omory
   - Tommy Suicide
- 
+
 ## Professional wrestling career
 
 ### Prime Time Wrestling (2022-2024)
 
 #### Debut at BlackOut
 
-John Klinger made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md). In his debut match at [BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md) he faced ex-WWE superstar and reigning GWF Champion Axel Tischer in a unsuccessful bout for the championship. 
+John Klinger made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md). In his debut match at [BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md) he faced ex-WWE superstar and reigning GWF Champion Axel Tischer in a unsuccessful bout for the championship.
 
 #### Feud with PAKA
 
-Later on, Bad Bones as a villain got involved in a feud against PTW's babyface stable PAKA. He was acused of attacking and seriously injuring [Taras](@/w/taras.md) after a training at [PTW Performance Center](@/v/ptw-targowa.md). At [Underground 4](@/e/ptw/2022-04-24-ptw-underground-4.md) he defeated [Disco Pablo](@/w/disco-pablo.md), and at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md) he defeated [Boro](@/w/boro.md). During the feud with PAKA he got involved in numerous alteractions against PTW owner and promoter [Pan Pawłowski](@/w/pan-pawlowski.md), who constantly threaten him to suspend him. Bad Bones finally finished PAKA in a match against Taras, which took place at [RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
+Later on Bad Bones, portraying a villain, got involved in a feud against PTW's babyface stable PAKA. He was accused of attacking and seriously injuring [Taras](@/w/taras.md) after a training session at [PTW Performance Center](@/v/ptw-targowa.md).
+At [Underground 4](@/e/ptw/2022-04-24-ptw-underground-4.md) he defeated [Disco Pablo](@/w/disco-pablo.md), and at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md) he defeated [Boro](@/w/boro.md).
+During his feud with PAKA, he got embroiled in numerous altercations against PTW's owner and promoter [Pan Pawłowski](@/w/pan-pawlowski.md), who constantly threatened him with a suspension.
+Bad Bones finally finished PAKA in a match against Taras, which took place at [RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
 
 #### Feud with Pawłowski
 
-After a match against [Samson](@/w/samson.md) at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md) Bad Bones assaulted Polish wrestler with a baseball bat, which resulted in a release of Bad Bones ordered by Pan Pawłowski. Furious Bad Bones got his revenge during [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) show where he tried to enter the ring to attack [Santino](@/w/santino.md), but was quickly escorted out by security. At [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) Bad Bones appeared on-screen when Pawłowski was closing-up the show. Klinger requested Pawłowski to reinstate him, and to give him a title match. When Pawłowski rejected his offer, the screen revealed a chair, with a tied down Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW. Klinger beat up Rzeźniczek and threatened to cut off his fingers with pliers. This convinced Pawłowski to reinstate Klinger. On-screen, Klinger laid out Rzeźniczek with a punch, then carried him, stunned and still tied up, to the entrance stage. Pawłowski sent the security team after them, who chased Bones away.
+After a match against [Samson](@/w/samson.md) at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md) Bad Bones assaulted the Polish wrestler with a baseball bat, which resulted in Pawłowski finally releasing him.
+The furious Bones got his revenge during [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), where he tried to enter the ring to attack [Santino](@/w/santino.md), but was quickly escorted out by security.
+At [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) Bad Bones appeared on-screen when Pawłowski was closing the show. Klinger requested Pawłowski to reinstate him, and to give him a title match.
+When Pawłowski rejected his offer, the screen revealed a chair, with a tied down Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW. Klinger beat up Rzeźniczek and threatened to cut off his fingers with pliers.
+This convinced Pawłowski to reinstate Klinger. On-screen, Klinger laid out Rzeźniczek with a punch, then carried him, stunned and still tied up, to the entrance stage. Pawłowski sent the security team after them, and they managed to chase Bones away.
 
-During [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) show in February 2024 when seemingly everyone have forgotten about Bad Bones he appeared on-screen during Gold Rush Rumble Match to remind Pawłowski about the title match. Later on, during Pawłowski's proposal to his girlfriend he was interupted by [Wiktor Longman](@/w/wiktor-longman.md), who showed Pawłowski full footage of Rzeźniczak's kidnapping from The Mystery, and revealing it was an elaborate ruse by Bones, Rzeżniczak and Longman who are scheming against Pawłowski.
+During [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) in February 2024, when seemingly everyone forgot about Bones, he appeared on-screen during the Gold Rush Rumble Match to remind Pawłowski about that promised title match.
+Later in the show, during Pawłowski's proposal to his girlfriend, he was interrupted by [Wiktor Longman](@/w/wiktor-longman.md), who showed Pawłowski the full footage of Rzeźniczak's kidnapping from The Mystery, and revealing it was an elaborate ruse by Bones, Rzeżniczak and Longman, all of whom are scheming against Pawłowski.
 
-At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) at May 11th 2024 John Klinger made his last appearance for PTW, where he faced and defeated Flash Morgan Webster. 
+At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) on May 11th 2024, John Klinger made his last appearance for PTW, where he faced and defeated British wrestler Flash Morgan Webster.
 
-This marked Bad Bones last appearance for PTW. Not long after at May 20th John "Bad Bones" Klinger passed away at the age of 40. His death has been mourned by numerous wrestlers across the world, including many PTW wrestlers and staff members, who had the opportunity to meet and work with Bad Bones.
+This marked Bad Bones last appearance for PTW. Not long after, on May 20th John "Bad Bones" Klinger passed away at the age of 40. His death has been mourned by numerous promotions and wrestlers around the world, including many PTW wrestlers and staff members, who had the opportunity to meet and work with Bad Bones.
 
 ## In wrestling
 
 * Finishers:
   - _Shadow Driver_ (Sitdown Pumphandle Powerbomb) (2022-2024)
- 
 * Entrance music:
   - "Bad Bones Theme Song" by Unknown Artist
      {{ org_badge(orgs=['ptw']) }} (2022-2024) <br>

@@ -12,7 +12,7 @@ caption = "Facebook graphic confirming that Axel Fox has joined PpW"
 source = "Facebook @OficjalnePPW"
 +++
 
-Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Legacy of Wrestling](@/o/low.md) and [Dream Factory Wrestling](@/o/dfw.md).
+Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md),  and [Dream Factory Wrestling](@/o/dfw.md).
 
 ## Basic info
 
@@ -86,15 +86,15 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
 
 At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Axel faced Mister Z in a Christmas Street Fight. While Fox was eager to get his revenge on PpW's producer for constant backstabbing attacks and avoiding direct confrontation, he was unable to defeat "The Real Deal" due to an intervention by Olgierd and Marco Hammers, and their assault on Axel's tag team partner, Goblin.
 
-At the next show - Gruba Przesada - Mister Z offered Axel a chance to change his fate in PpW and join Mister Z to achieve success, instead of allying himself with "losers", such as Goblin. Axel denied Z's offer, as he was joined by The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md)) - Mister Z nemesis - who saved Fox from uneven beatdown from hands of Zmowa. 
+At the next show, [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), Mister Z offered Axel a chance to join him to achieve success, instead of allying himself with "losers", such as Goblin. Axel denied Z's offer, as he was joined by The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md)), who saved him from an unfair beatdown at the hands of Zmowa.
 
-Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declared himself as one of the competitors in 20 Typa 20 Broni Rumble Match to gain a opportunity for a Title Match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). He managed to get into final two, but his rival appeared to be Goblin. Ultimately Fox was eliminated by his tag team partner and friend.
+efore [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declared himself as one of the competitors in 20 Typa 20 Broni Rumble Match to gain an opportunity for a Title Match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). He managed to get into final two, but his rival turned out to be Goblin. Ultimately Fox was eliminated by his tag team partner and friend.
 
 ### Legacy of Wrestling (2024-present)
 
-On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox will replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). 
-He fought against [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md). 
-During the match he was initially named as the winner, but due to a minimal rope break which wasn't noticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and LoW Chairman, to immediately restart the match. This resulted in a loss by technical submission, much to Fox's despair. 
+On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox will replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
+He fought against [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md).
+During the match he was initially named as the winner, but due to a minimal rope break which wasn't noticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and LoW Chairman, to immediately restart the match. This resulted in a loss by technical submission, much to Fox's despair.
 
 ## In wrestling
 
@@ -102,7 +102,7 @@ During the match he was initially named as the winner, but due to a minimal rope
   - _Code Red_ (Sunset Flip Powerbomb) - (2021-2022); used as signature move thereafter
   - _Firefox DDT_ (Standing Shiranui) (2021-)
   - _Firefox Elbow Drop_ (Diving Elbow Drop) (2023-); adopted from [Justin Joy](@/w/justin-joy.md)
- 
+
 * Tag teams and stables:
   - FoxJoy (2023)
   - GobLis (2024-)
