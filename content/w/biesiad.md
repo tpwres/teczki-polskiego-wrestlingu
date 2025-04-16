@@ -50,8 +50,8 @@ His reign finally came to an end at [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-l
 #### The Hardcores
 
 After his defeat at Ledwo Legalne III Biesiad formed an alliance with his old friend Johnny Blade, to form a team called The Hardcores.
-They faced their rivals - Steve Kuningas and Stanisław Van Dobroniak - in a Tag Team Match at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md). According to their agreement with PpW's producer and their rival - Mister Z - their defeat resulted in The Hardcores being banned from earning any title shots in PpW.
-This defeat led to a feud with other hardcore specialists, Isnorr and [Chris X](@/w/chris-x.md). At [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) Biesiad lost his match against Isnorr thanks to Chris X's intervention, but he got his revenge when he attacked Chris during his match against Johnny later that night. At [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) The Hardcores defeated Chris X and Isnorr.
+They faced their rivals - Steve Kuningas and Stanisław Van Dobroniak - in a Tag Team Match at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md). According to their agreement with PpW's producer and their rival Mister Z, their defeat resulted in The Hardcores being banned from earning any title shots in PpW.
+This led to a feud with other hardcore specialists, Isnorr and [Chris X](@/w/chris-x.md). At [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) Biesiad lost his match against Isnorr thanks to Chris X's intervention, but he got his revenge when he attacked Chris during his match against Johnny later that night. At [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) The Hardcores defeated Chris X and Isnorr.
 
 #### Championship pursuit 
 
