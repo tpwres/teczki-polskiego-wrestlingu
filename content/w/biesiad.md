@@ -74,7 +74,7 @@ They faced their opponents in a 5vs5 Elimination Ustawka Match at [Co Za Noc](@/
 
 After defeating Zmowa, Biesiad's feud with Mister Z grew even more intense.
 At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) he and Johnny were banned from entering the venue as a wrestlers.
-They managed to work around the ban by simply buying tickets, and managed to save Axel Fox from getting jumped by Mister Z and Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)) after he declined an offer to join Zmowa.
+They circumvented the ban by simply buying tickets, and managed to save Axel Fox from getting jumped by Mister Z and Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)) after he declined an offer to join Zmowa.
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Mister Z reinstated Biesiad, but challenged him to a Beat The Clock Challenge. Should he lose, he would become Z's bodyguard. Nevertheless Biesiad won, granting himself freedom.
 
 This didn't end the with Mister Z, however, as prior to [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) the PpW Producer kidnapped and tied up Biesiad's friend Johnny Blade.
