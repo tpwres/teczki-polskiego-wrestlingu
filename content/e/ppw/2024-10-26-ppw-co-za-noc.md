@@ -27,7 +27,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 
 #### Storylines overview
 
-* A huge part of the show revolved around the main conflict of two groups: the villainous ["Zmowa"](@/a/zmowa.md) led by [Mister Z](@/w/mister-z.md), and "Zmowa przeciwko zmowie" led by [Biesiad Strong](@/w/biesiad.md).
+* A huge part of the show revolved around the main conflict of two groups: the villainous ["Zmowa"](@/tt/zmowa.md) led by [Mister Z](@/w/mister-z.md), and "Zmowa przeciwko zmowie" led by [Biesiad Strong](@/w/biesiad.md).
   Nearly a year-long feud of Mister Z versus Biesiad, as well as many other additional conflicts such as Pure Gold vs Legia Łysych, finally imploded at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), after Biesiad and his allies challenged "Zmowa" for an "Ustawka Match", which was a 5 vs 5 Elimination No Holds Barred tag team match.
 * [Samson](@/w/samson.md) continued his rivalry with [Gustav Gryffin](@/w/gustav-gryffin.md).
   After their non-title match at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) ended in a draw, and losing to a team of Gustav and Isnorr in the Anarchy Cyclone Tag Team Match at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md),
@@ -150,7 +150,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * After the birthday celebratio,n HT announces the intermission, which is scheduled to take about 20 minutes.
 * Timestamp: `2:55:28`
 * The transmission cuts to the backstage, where [Mateusz Czarnecki](@/w/mateusz-czarnecki.md) interviews Gustav Gryffin.
-* [Gustav Gryffin](@/w/gustav-gryffin.md) admits that Samson is one of the toughest opponents in his career, but he was confident that he would defeat the Beast of Będzin. Gustav invites Samson to join ["Zmowa"](@/a/zmowa.md). He also issues an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
+* [Gustav Gryffin](@/w/gustav-gryffin.md) admits that Samson is one of the toughest opponents in his career, but he was confident that he would defeat the Beast of Będzin. Gustav invites Samson to join ["Zmowa"](@/tt/zmowa.md). He also issues an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
 * [Samson](@/w/samson.md) admits that Gutsav indeed "whooped his ass" without any shenanigans, so he feels lost and is unsure about his future in the ring, as "aapart of him died in the ring tonight". He apologies to all of his fans for failing in tonight's bout, and can't promise that he will be on the next show.
 * [Marcelito](@/w/marcelito.md) admits that Oskar Aleksander did a good job, but due to the fact that he wasn't pinned he would like a singles match against him in the future.
 * [Aron Wake](@/w/aron-wake.md) says that [Ewenement Dojo](@/o/ewenement-dojo.md) is currently the best pro wrestling school in Poland, and Oskar Aleksander is a good example of that. Despite his loss in the match, Aron says that he's still got it, and wants to prove more in the future.
