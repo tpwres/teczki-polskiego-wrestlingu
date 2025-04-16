@@ -5,7 +5,7 @@ from contextlib import AbstractContextManager, contextmanager, closing
 from card import CardParseError, MatchParseError
 from io import TextIOBase, StringIO
 from yaml import MarkedYAMLError, YAMLError
-from typing import IO, Sequence, Optional
+from typing import TextIO, IO, Sequence, Optional, Protocol
 import sys
 
 class LintError:
@@ -100,7 +100,24 @@ class Linter:
 
     @abstractmethod
     def handles(self, path: Path) -> bool:
+        "Return True if this path is one that this linter can handle."
         pass
+
+class LinterProto(Protocol):
+    @abstractmethod
+    def handles(self, path: Path) -> bool:
+        """Return True if this path is one that this linter can handle.
+           The file may be opened and inspected if needed."""
+        raise NotImplementedError
+
+    @abstractmethod
+    def lint(self, path: Path) -> Sequence[LintError]:
+        raise NotImplementedError
+
+
+    @abstractmethod
+    def lint_stream(self, stream: TextIO) -> Sequence[LintError]:
+        raise NotImplementedError
 
 def line_offset_to_card_block(doc: Doc) -> Optional[int]:
     with doc.open() as fp:

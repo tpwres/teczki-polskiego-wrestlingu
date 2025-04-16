@@ -1,17 +1,19 @@
-import re
 import json
 from collections import defaultdict
-from pathlib import Path
-from linters.base import LintError, Doc, Linter
-from linters.errors import FileError, FileWarning, LintWarning, ConsoleErrorSink, format_error
+from pathlib import Path, PurePath
+from linters.base import LintError, LinterProto
+from errors import FileError, FileWarning, format_error
+from sink import ConsoleSink
 from card import person_link_re, person_plain_re
-from rich_doc import RichDoc, FreeCardBlock
+from rich_doc import RichDoc
+from blocks import FreeCardBlock
 from md_utils import parse_link
+from typing import cast
 
 F = FileError
 W = FileWarning
 
-class ChampionshipUpdatedLinter(Linter):
+class ChampionshipUpdatedLinter(LinterProto):
     """
     A well formed championship file has:
     - zero or more free_card blocks, each of which
@@ -24,7 +26,7 @@ class ChampionshipUpdatedLinter(Linter):
     """
     def __init__(self, config, linter_options, error_sink=None):
         self.messages = []
-        self.sink = error_sink or ConsoleErrorSink()
+        self.sink = error_sink or ConsoleSink()
         self.load_required_metadata()
 
     def handles(self, path: Path) -> bool:
@@ -43,8 +45,7 @@ class ChampionshipUpdatedLinter(Linter):
     def warning(self, message, *args):
         self.sink.warning(format_error(message, self.target_path, *args))
 
-    def lint(self, document: Doc):
-        path = document.pathname()
+    def lint(self, path: Path):
         try:
             self.content_root = [p for p in path.parents if p.stem == 'content'].pop()
         except IndexError:
@@ -52,16 +53,32 @@ class ChampionshipUpdatedLinter(Linter):
 
         self.target_path = path
 
-        rd = RichDoc.from_file(path, error_sink=self.sink)
-        self.championship_name = rd.title
+        doc = RichDoc.from_file(path, error_sink=self.sink)
+        self.championship_name = doc.title
         fc_blocks = [(start_line, block)
-                     for start_line, _name, block in rd.sections
+                     for start_line, _name, block in doc.sections
                      if isinstance(block, FreeCardBlock)]
         self.validate_blocks(fc_blocks)
 
         # TODO: Validate that ALL matches with that championship are listed, none are omitted.
 
         return self.messages
+
+    def lint_stream(self, stream):
+        self.content_root = Path.cwd() / 'content'
+        self.target_path = PurePath('<stream>')
+
+        doc = RichDoc.from_text(stream.read(), error_sink=self.sink)
+        self.championship_name = doc.title
+        fc_blocks = [(start_line, block)
+                     for start_line, _name, block in doc.sections
+                     if isinstance(block, FreeCardBlock)]
+        self.validate_blocks(fc_blocks)
+
+        # TODO: Validate that ALL matches with that championship are listed, none are omitted.
+
+        return self.messages
+
 
     def validate_blocks(self, blocks):
         for i, (starting_line, block) in enumerate(blocks, start=1):
@@ -112,7 +129,7 @@ class ChampionshipUpdatedLinter(Linter):
 
         # NOTE: Could be cached
         doc = RichDoc.from_file(path, error_sink=self.sink)
-        fm_title = doc.front_matter.get('title')
+        fm_title = doc.front_matter['title']
 
         # Accept partial name (e.g. KPW Godzina Zero 2024 vs Godzina Zero 2024 is ok)
         if title not in fm_title:
@@ -161,7 +178,8 @@ class ChampionshipUpdatedLinter(Linter):
             return
 
         for _, errs in cm_errors.items():
-            for err in errs: self.error(err, starting_line, None)
+            for err in errs:
+                self.error(err, starting_line, None)
 
         for _, warns in cm_warnings.items():
             for warn in warns: self.warning(warn, starting_line, None)
