@@ -5,41 +5,29 @@ from utils import accepted_name
 import json
 from collections import Counter
 from functools import reduce
-from card import CardParseError, MatchParseError, extract_names
-from page import EventPage
+from card import extract_names
+from page import all_event_pages
 from sys import stderr, exit
+from sink import ConsoleSink
 
 def main():
-    errors = []
     org_rosters = {}
     cwd = Path.cwd()
-    # 1. List all event pages
-    events_dir = cwd / "content/e"
-    event_pages = events_dir.glob("**/????-??-??-*.md")
-    # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
-    for page_path in event_pages:
-        try:
-            page = EventPage(page_path, verbose=False)
+    sink = ConsoleSink()
+    for page in all_event_pages(sink=sink):
+        card = page.card
+        if not (card and card.matches):
+            continue
 
-            # 3. Find and read the card() block
-            card = page.card
-            if not card.matches: continue
+        names = [person for person in extract_names(card.matches) if accepted_name(person.name)]
+        for org in page.orgs:
+            roster = org_rosters.setdefault(org, Counter())
+            roster.update(names)
 
-            # 4. Grab all talent names in that block
-            names = [person for person in extract_names(card.matches) if accepted_name(person.name)]
-            # 5. Add to a set of names for relevant orgs
-            for org in page.orgs:
-                roster = org_rosters.setdefault(org, Counter())
-                roster.update(names)
-        except MatchParseError as mpe:
-            errors.append(with_path_info(mpe, path=page_path))
-        except CardParseError as e:
-            errors.append(e)
-
-    # Exit without writing anything if errors found
-    if len(errors) > 0:
-        for err in errors:
-            print(err)
+    if not sink.empty:
+        # No need to dump, ConsoleSink will do that as errors are added
+        # sink.dump(stderr)
+        # Exit without writing anything if errors found
         stderr.write("Errors found, aborting\n")
         exit(1)
 

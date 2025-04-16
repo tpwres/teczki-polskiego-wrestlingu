@@ -1,8 +1,9 @@
 #! /usr/bin/env python3
 
-import re
 from utils import accepted_name
-from card import Match, CardParseError
+from card import Card, Match, CardParseError
+from rich_doc import RichDoc
+from sink import ExplosiveSink, ConsoleSink
 from page import EventPage
 from pathlib import Path
 from datetime import date
@@ -10,14 +11,14 @@ import json
 from sys import stderr, exit
 
 class MatchEncoder(json.JSONEncoder):
-    def default(self, obj):
-        match obj:
+    def default(self, o):
+        match o:
             case Match():
-                return obj.line
+                return o.line
             case date():
-                return obj.strftime("%Y-%m-%d")
+                return o.strftime("%Y-%m-%d")
             case _:
-                return super().default(obj)
+                return super().default(o)
 
 def main():
     num_errors = 0
@@ -31,15 +32,22 @@ def main():
     event_pages = events_dir.glob("**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
     global_match_num = 0
+    sink = ConsoleSink()
     for path in event_pages:
+        print(path)
         try:
-            page = EventPage(path, verbose=False)
-            card = page.card
-            if not card.matches: continue
+            doc = RichDoc.from_file(path, sink)
+            card_section = doc.card_section
+            if not card_section:
+                continue
+            card = Card(card_section, doc, sink)
+            if not card.matches:
+                continue
         except CardParseError:
             num_errors += 1
             continue
 
+        page = EventPage(doc)
         relative_path = path.relative_to(content_dir).as_posix()
         predicted = card.params.get('predicted', False)
         incomplete = card.params.get('incomplete', False)
