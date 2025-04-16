@@ -57,7 +57,7 @@ This led to a feud with other hardcore specialists, Isnorr and [Chris X](@/w/chr
 
 At [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) Biesiad faced Rambo. The stipulation stated that Biesiad will earn a contender match against Mister Z if he wins. However, should he lose, he gets his long hair shaved bald.
 During the ending, Mister Z intervened and attempted to prevent Biesiad from winning. Despite that, Biesiad managed to secure a victory over Rambo. After his win, he cut a short promo, in which he challenged Mister Z for a match at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
-Later that night, his intervention in a championship match between [Feager](@/w/feager.md) and Mister Z later that night, resulted in Feager's victory. This led to Mister Z setting up a Triple Threat Match for Ledwo Legalne IV, with Feager vs Mister Z vs Biesiad for the PpW Championship.
+Later that night, his intervention in a championship match between [Feager](@/w/feager.md) and Mister Z resulted in Feager's victory. This led to Mister Z setting up a Triple Threat Match for Ledwo Legalne IV, with Feager vs Mister Z vs Biesiad for the PpW Championship.
 
 At Ledwo Legalne IV, Biesiad managed to win his match, becoming PpW Champion for the second time in history.
 However, his title reign was cut short. The defeated Mister Z initiated his "plan B", as he introduced the winner of #1 Contender Match - and his protégé - [Gustav Gryffin](@/w/gustav-gryffin.md) who immediately proceeded to cash-in his opportunity to face the champion. Gustav managed to defeat the weakened Biesiad, making this second PpW Championship reign last only a few minutes.
