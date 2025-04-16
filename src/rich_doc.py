@@ -13,22 +13,17 @@ A Rich Doc improves this by further parsing the body text into a list of blocks.
 - other blocks like championship(), org_badge() appear mixed with markdown text
 """
 
-from typing import Optional, Tuple
+from typing import Optional, Tuple, TextIO, Any
 from pathlib import Path, PurePath
-from typing import TextIO, Any, ClassVar
 from io import StringIO
-from functools import partial
 import re
-import tomllib
-import yaml
-from linters.errors import format_error
+from errors import format_error, DocError, ParseError
+from sink import Sink, ConsoleSink
 from blocks import BlockRegistry, FrontMatterBlock, Block, CardBlock
 
-class DocError(Exception):
-    pass
 
-class ParseError(Exception):
-    pass
+def default_error_sink():
+    return ConsoleSink()
 
 FRONTMATTER_DELIMITER = re.compile(r'[+]{3}\s*')
 MORE_REGEX = re.compile(r'<!--\s+more\s+-->\s*')
@@ -55,16 +50,14 @@ HEADER_LINE = re.compile(r'^[#]{2,5}\s+(?P<title>.*)$')
 ALL_BLANKS = re.compile(r'^\s+$')
 
 class RichDoc:
-    body: str
-    path: Path
-    frontmatter: dict()
+    path: Path|PurePath
+    frontmatter: dict[str, Any]
     summary: Optional[str]
     sections: list[Any]
 
 
     @classmethod
-    @classmethod
-    def from_file(cls, path: Path, error_sink=None):
+    def from_file(cls, path: Path, error_sink: Sink = default_error_sink()):
         if not path.exists():
             error_sink.error(DocError(f"Path {path} does not exist"))
             return cls(StringIO(''), path, error_sink)
@@ -74,7 +67,7 @@ class RichDoc:
         return doc
 
     @classmethod
-    def from_text(cls, body: TextIO, identifier: str = '<text>', error_sink = None):
+    def from_text(cls, body: str, identifier: str = '<text>', error_sink = default_error_sink()):
         doc = cls(StringIO(body), PurePath(identifier), error_sink)
         doc.parse()
         return doc
@@ -91,7 +84,18 @@ class RichDoc:
     def taxonomies(self) -> dict[str, Any]:
         return self.front_matter.get('taxonomies') or {}
 
-    def __init__(self, body: TextIO, path: Optional[Path], error_sink=None):
+    @property
+    def card_section(self) -> Optional[Tuple[int, Optional[str], CardBlock]]:
+        "Returns the first card block found, or None if no card blocks."
+        card_sections = [(start, title, block)
+                         for start, title, block in self.sections
+                         if isinstance(block, CardBlock)
+                        ]
+        if card_sections:
+            return card_sections[0]
+
+
+    def __init__(self, body: TextIO, path: Path|PurePath, error_sink):
         self.body = body
         self.path = path
         self.sink = error_sink
@@ -139,14 +143,15 @@ class RichDoc:
             self.front_matter = fm.front_matter
         else:
             if self.front_matter:
-                self.sink.error(format_error(f"extra frontmatter delimiter encountered", self.path, line_num, None))
+                self.sink.error(format_error("extra frontmatter delimiter encountered", self.path, line_num, None))
 
             # No need to wrap up preceding text, this is at document start
             self.current_block = FrontMatterBlock(None, line_num, self.sink)
 
     def summary_closed(self, line_num):
-        summary, _ = self.text_up_to_now()
+        summary, _ = self.text_up_to_now() or ('', None)
         # NOTE: not calling clear_buf() - we want the text to remain
+        self.raw_text('\n', line_num)
         self.summary = summary.strip()
 
     def section_header(self, title, line, line_num):
@@ -156,10 +161,11 @@ class RichDoc:
             return
 
         # Wrap up current text and add as section
-        section_text, start_line = self.text_up_to_now()
+        section_text, start_line = self.text_up_to_now() or (None, None)
         self.clear_buf()
 
-        self.sections.append((start_line, self.last_section_title, section_text))
+        if section_text:
+            self.sections.append((start_line, self.last_section_title, section_text))
 
         # Include header as part of section body
         self.raw_text(line, line_num)
@@ -178,7 +184,11 @@ class RichDoc:
             self.sink.error(format_error("opening new block before closing previous one", self.path, line_num, None))
         self.current_block = self.create_block(block, params, line_num)
 
-    def block_closed(self, line_num):
+    def block_closed(self, line_num: int):
+        if not self.current_block:
+            self.sink.error(format_error("block closed but no block was opened", self.path, line_num, None))
+            return
+
         self.sections.append((
             self.current_block.starting_line,
             f'<{self.current_block.__class__.__name__}>',
@@ -218,9 +228,12 @@ class RichDoc:
 
 
 if __name__ == "__main__":
-    doc = RichDoc.from_file(Path("content/a/grand-timeline.md"))
-    # RichDoc.from_file(Path("content/e/low/2025-04-06-low-2.md"))
-    # RichDoc.from_file(Path("content/c/ppw-championship.md"))
+    sink = ConsoleSink()
+    # doc = RichDoc.from_file(Path("content/a/grand-timeline.md"), sink)
+    evt = RichDoc.from_file(Path("content/e/low/2025-04-06-low-2.md"), sink)
+    # belt =  RichDoc.from_file(Path("content/c/ppw-championship.md"), sink)
+    from card import Card
+    cc=Card(evt.sections[2], evt, sink)
     breakpoint()
 
 ...
