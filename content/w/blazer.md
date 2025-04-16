@@ -1,8 +1,24 @@
 +++
 title = "Blazer"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
+
+Matt Blazer, also known as simply Blazer, is a Polish retired backyard wrestler best known for his time in [Polish Xtreme Wrestling](@/o/pxw.md).
+
+## Basic info 
+
+* Years active: 2012-2013
+* Gimmicks/nicknames:
+  - Matt Blazer {{ org_badge(orgs=['pxw']) }} (2012-2013)
+  - Blazer {{ org_badge(orgs=['pxw']) }} (2013)
+ 
+## Professional wrestling career
+
+### Polish Xtreme Wrestling (2012-2013)
+
+Matt Blazer made his debut for [Polish Xtreme Wrestling](@/o/pxw.md) in May 2012. Not much information from that time is avaliable, but it is known that during his days he made at least 7 appearances for that Głuchołazy-based backyard federation. His first recorded match took place at May 20th episode of [Smash](@/e/pxw/2012-05-20-pxw-smash.md) where he faced ECW Champion [Mazi](@/w/mazi.md). He made his last known appearance at [Revolution 2013](content/e/pxw/2013-06-23-pxw-revolution-2013.md) in June 2013. After that he seemingly retired from backyard wrestling. 
