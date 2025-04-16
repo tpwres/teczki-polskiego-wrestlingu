@@ -72,7 +72,7 @@ Olgierd and Hammers, teaming together as Legia Łysych returned to PpW during [L
 While Pure Gold were taunting Legia on their social media channels before the event, fans didn't take this for anything but a provocation against PTW.
 Legia, up until the very last moment, appeared to remain committed to PTW, themselves feuding with [Vincent Caravaggio](@/w/vincent-caravaggio.md) and defending a joke "[Intergender Championship](@/c/ptw-intergender-championship.md)" belt made of cardboard.
 They were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
-Shortly after his return to PpW he joined ["Zmowa"](@/a/zmowa.md), a villainous faction led by [Mister Z](@/w/mister-z.md), fighting against PpW's top babyfaces both in tag team & in solo action.
+Shortly after his return to PpW he joined ["Zmowa"](@/tt/zmowa.md), a villainous faction led by [Mister Z](@/w/mister-z.md), fighting against PpW's top babyfaces both in tag team & in solo action.
 
 ### Return to Maniac Zone Wrestling (2024)
 
@@ -91,7 +91,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
 
 * Tag Teams and stables:
   - Legia Łysych (2023-)
-  - [Zmowa](@/a/zmowa.md) (2024-)
+  - [Zmowa](@/tt/zmowa.md) (2024-)
 
 * Entrance music:
   - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
