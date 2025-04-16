@@ -208,7 +208,7 @@ class RichDoc:
         if not self.body_lines:
             return None
 
-        text = '\n'.join([line for _, line in self.body_lines])
+        text = ''.join([line for _, line in self.body_lines])
         start_line, _ = self.body_lines[0]
         return (text, start_line)
 
