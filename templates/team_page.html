@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{%- import "macros/career.html" as macros %}
+
+{% block content %}
+
+<h1 class="title">
+  {{ page.title }}
+</h1>
+
+{% if page.extra|get(key="toclevel", default=0) >= 1 %}
+  {% include "shared/toc.html" %}
+{% endif %}
+
+{{ page.content | safe }}
+
+{% set use_extra_gallery = true %}
+{% include "shared/auto_lightbox_dialog.html" -%}
+
+{% endblock content %}

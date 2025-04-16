@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% import "macros/articles.html" as articles %}
+
+{% block content %}
+  <h1>{{ section.title }}</h1>
+
+  {# TODO: Style as two-column list similar to talent list #}
+  <ul class="team-list">
+    {% for page in section.pages %}
+      <li>
+          <a href="{{ page.permalink }}">{{ page.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endblock %}
