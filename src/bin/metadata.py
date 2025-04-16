@@ -4,16 +4,16 @@ from pathlib import Path
 from collections import Counter
 from articles import load_names_with_aliases
 import json
-from typing import Iterable, cast, Optional
+from typing import cast
 from utils import RichEncoder, accepted_name
-from card import Match, Name, CardParseError, extract_names, names_in_match
+from card import CardParseError, names_in_match, teams_in_match
 from page import EventPage
 from sys import stderr, exit
 
 OrgYears = dict[str, int]
 CareerYears = dict[int, OrgYears]
 
-def update_cbf(career, page: EventPage):
+def update_cbf(careers, team_careers, page: EventPage):
     event_date = page.event_date
     orgs = page.orgs
     card = page.card
@@ -31,22 +31,32 @@ def update_cbf(career, page: EventPage):
             if not accepted_name(person.name): continue
             key = person.link or person.name
 
-            entry = career.setdefault(key, {})
+            entry = careers.setdefault(key, {})
             year = cast(Counter, entry.setdefault(event_date.year, Counter()))
             year.update(orgs)
 
-    if not card.crew: return
+        teams = teams_in_match(mm)
+        for team in teams:
+            for key in team.build_keys():
+                entry = team_careers.setdefault(key, {})
+                year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+                year.update(orgs)
+
+    if not card.crew:
+        return
+
     for person in card.crew.members:
-        if not accepted_name(person.name): continue
+        if not accepted_name(person.name):
+            continue
         key = person.link or person.name
 
-        entry = career.setdefault(key, {})
+        entry = careers.setdefault(key, {})
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
 
 
 
-def update_career(career: dict[str, CareerYears], page: EventPage):
+def update_career(career: dict[str, CareerYears], team_careers: dict[str, CareerYears], page: EventPage):
     event_date = page.event_date
     orgs = page.orgs
     card = page.card
@@ -69,9 +79,19 @@ def update_career(career: dict[str, CareerYears], page: EventPage):
             year = cast(Counter, entry.setdefault(event_date.year, Counter()))
             year.update(orgs)
 
-    if not card.crew: return
+        teams = teams_in_match(mm)
+        for team in teams:
+            for key in team.build_keys():
+                entry = team_careers.setdefault(key, {})
+                year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+                year.update(orgs)
+
+    if not card.crew:
+        return
+
     for person in card.crew.members:
-        if not accepted_name(person.name): continue
+        if not accepted_name(person.name):
+            continue
         entry = career.setdefault(person.name, {})
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
@@ -98,8 +118,10 @@ def merge_aliases(career: dict[str, CareerYears]):
             career[main_name] = merge_years(career.get(main_name, {}), c)
 
 def main():
-    career = {}
-    career_by_file = {}
+    careers = {}
+    careers_by_file = {}
+    team_careers = {}
+    team_cbf = {}
     cwd = Path.cwd()
     num_errors = 0
 
@@ -114,26 +136,31 @@ def main():
             if not card.matches:
                 stderr.write(f"{path}: Warning: no card available, skipping\n")
                 continue
-            update_career(career, page)
-            update_cbf(career_by_file, page)
+            update_career(careers, team_careers, page)
+            update_cbf(careers_by_file, team_cbf, page)
         except CardParseError:
             num_errors += 1
 
     if num_errors > 0:
         stderr.write("Errors found, aborting\n")
         exit(1)
-    merge_aliases(career)
+
+    merge_aliases(careers)
 
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)
 
     with (data_dir / 'career.json').open('w') as f:
         print("Saving career to %s" % f.name)
-        json.dump(career, f, cls=RichEncoder)
+        json.dump(careers, f, cls=RichEncoder)
 
     with (data_dir / 'career_v2.json').open('w') as f:
         print("Saving career v2 to %s" % f.name)
-        json.dump(career_by_file, f, cls=RichEncoder)
+        json.dump(careers_by_file, f, cls=RichEncoder)
+
+    with (data_dir / 'team_careers.json').open('w') as f:
+        print("Saving team career v2 to %s" % f.name)
+        json.dump(team_cbf, f, cls=RichEncoder)
 
 
 if __name__ == "__main__":

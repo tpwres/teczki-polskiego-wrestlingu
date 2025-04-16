@@ -1,0 +1,31 @@
+{% set org_styles = config.extra.org_styles %}
+{% set careers = load_data(path="data/team_career_v2.json") %}
+{% set empty_obj = [] | group_by(attribute='0') %}
+{# {% set mycareer = careers | get(key=career_key, default=False) %} #}
+{% set pagelink = "@/" ~ page.relative_path %}
+{% set career_lookup_keys = [pagelink, page.title] %}
+{% if page.extra.team_career_keys %}
+  {% set career_lookup_keys = career_lookup_keys | concat(with=page.extra.team_career_keys) %}
+{% endif %}
+{% set mycareer = [] %}
+{% for key in career_lookup_keys %}
+  {% set career_lookup = careers | get(key=key, default=False) %}
+  {% if not career_lookup %}
+    {% continue %}
+  {% else %}
+    {% set_global mycareer = career_lookup %}
+    {% break %} {# No way to concat it yet. This is a problem for stables, where many pairs/teams may be considered to match. #}
+  {% endif %}
+{% endfor %}
+
+{% if mycareer %}
+  <h3>Appearances per promotion and year</h3>
+  {% set_global years = [] -%}
+  {% for year, _ignore in mycareer -%}
+    {% set_global years = years | concat(with=year) -%}
+  {% endfor -%}
+  {% include "career/years.html" %}
+{% endif %}
+
+{% include "career/matchlist.html" %}
+{# Unlike individual career, this omits crew section which makes no sense for teams #}
