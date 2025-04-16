@@ -34,7 +34,7 @@ Biesiad Strong, also known under his numerous aliases, is a Polish wrestler best
 
 #### Backyard era
 
-Biesiad Strong joined [PpW Ewenement](@/o/ppw.md) back in 2013, when the federation was still a backyard. In his early days he wrestled under numerous aliases with Steven Strong being his main one. He also worked under such ringnames as KAT, Red Floorfiller, Kakałko and numerous others. From 2015 he became one of the most active members of PpW's roster, along with [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md). He managed to win a few bakcyard era championships, some under his other aliases.
+Biesiad Strong joined [PpW Ewenement](@/o/ppw.md) back in 2013, when the federation was still a backyard. In his early days he wrestled under numerous aliases with Steven Strong being his main one, but also as KAT, Red Floorfiller, Kakałko and several more. From 2015 he became one of the most active members of PpW's roster, along with [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md). He managed to win a few backyard era championships, some under his other aliases.
 
 #### Going pro
 
