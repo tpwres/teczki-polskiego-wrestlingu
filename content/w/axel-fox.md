@@ -12,11 +12,13 @@ caption = "Facebook graphic confirming that Axel Fox has joined PpW"
 source = "Facebook @OficjalnePPW"
 +++
 
+Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Legacy of Wrestling](@/o/low.md) and [Dream Factory Wrestling](@/o/dfw.md).
+
 ## Basic info
 
 * Years active: 2017-present
 * Nicknames:
-  - Polski Lis (_Polish Fox_) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+  - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
   - Amisz (_Amish_) {{ org_badge(orgs=['dfw', 'mzw']) }}
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
@@ -80,7 +82,15 @@ They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md)
 
 Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
 
-### Legacy of Wrestling (2024)
+#### Feud with Mister Z
+
+At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Axel faced Mister Z in a Christmas Street Fight. While Fox was eager to get his revenge on PpW's producer for constant backstabbing attacks and avoiding direct confrontation, he was unable to defeat "The Real Deal" due to an intervention by Olgierd and Marco Hammers, and their assault on Axel's tag team partner, Goblin.
+
+At the next show - Gruba Przesada - Mister Z offered Axel a chance to change his fate in PpW and join Mister Z to achieve success, instead of allying himself with "losers", such as Goblin. Axel denied Z's offer, as he was joined by The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md)) - Mister Z nemesis - who saved Fox from uneven beatdown from hands of Zmowa. 
+
+Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declared himself as one of the competitors in 20 Typa 20 Broni Rumble Match to gain a opportunity for a Title Match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). He managed to get into final two, but his rival appeared to be Goblin. Ultimately Fox was eliminated by his tag team partner and friend.
+
+### Legacy of Wrestling (2024-present)
 
 On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox will replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). 
 He fought against [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md). 
