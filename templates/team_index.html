@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% import "macros/articles.html" as articles %}
+{%- import "macros/career.html" as macros %}
 
 {% block content %}
   <h1>{{ section.title }}</h1>
@@ -9,6 +9,10 @@
     {% for page in section.pages %}
       <li>
           <a href="{{ page.permalink }}">{{ page.title }}</a>
+          {% set orgs = page.extra.orgs | default(value=[]) %}
+          {% for org in orgs %}
+            {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+          {% endfor %}
       </li>
     {% endfor %}
   </ul>

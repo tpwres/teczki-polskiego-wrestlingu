@@ -1,0 +1,10 @@
+<h1 class="title title-with-flag">
+  <span>{{ page.title }}</span>
+  <span class="title-orgs">
+    {% set orgs = page.extra.orgs | default(value=[]) %}
+    {# XXX: Not sure if useful in this form #}
+    {% for org in orgs %}
+      {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+    {% endfor %}
+  </span>
+</h1>

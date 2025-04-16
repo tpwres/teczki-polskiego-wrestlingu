@@ -3,9 +3,7 @@
 
 {% block content %}
 
-<h1 class="title">
-  {{ page.title }}
-</h1>
+{% include "team/h1_with_orgs.html"%}
 
 {% if page.extra|get(key="toclevel", default=0) >= 1 %}
   {% include "shared/toc.html" %}
