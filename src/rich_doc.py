@@ -34,13 +34,18 @@ MORE_REGEX = re.compile(r'<!--\s+more\s+-->\s*')
 BLOCK_START = re.compile(r'''
   \s*
   \{%\s+ # Wrapped in {% %}
-    (?P<name>\w+)
+    (?P<name>[\w_]+)
     \( # Keyword followed by mandatory parentheses
       (?P<params>
          (?: # Params are one or more keyword=value, joined with commas
-            (?:\w+=["'\w]+)
-         ),?\s*
-      )*
+           \w+ = # keyword, equals sign with no spaces
+           (?:
+             \w+ | # Either a named const (True or False) or numeric value
+             (?P<delim>["']).+?(?P=delim) # Or a string value
+           )
+           ,?\s*
+         )*
+      )
     \)\s+
   \%}\s*
 ''', re.X)
