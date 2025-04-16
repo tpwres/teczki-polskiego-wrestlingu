@@ -44,7 +44,7 @@ With PpW's transformation into a professional federation, Biesiad became one of 
 
 At [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md) Biesiad managed to secure a win against three great figures of the PpW roster: Mister Z, Johnny Blade and [Rob Scaffold](@/w/rob-scaffold.md), in a Fatal Four Way Match.
 Thanks to that victory, he became the 3rd official [PpW Champion](@/c/ppw-championship.md) in the federation's professional history.
-From that point on, Biesiad started a streak of successful title defences against wrestlers such as [Osamu](@/w/osamu.md), Mister Z, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and the enforcer of PpW's Owner - [Jerry Mandecky](@/w/jerry-mandecky.md) - [Kapitan Bazooka](@/w/kapitan-bazooka.md).
+From that point on, Biesiad started a streak of successful title defences against wrestlers such as [Osamu](@/w/osamu.md), Mister Z, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and the enforcer of PpW's Owner [Jerry Mandecky](@/w/jerry-mandecky.md) - [Kapitan Bazooka](@/w/kapitan-bazooka.md).
 His reign finally came to an end at [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md), when he lost the title to [Steve Kuningas](@/w/steve-kuningas.md), ending his reign at 462 days.
 
 #### The Hardcores
