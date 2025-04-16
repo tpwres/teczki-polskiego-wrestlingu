@@ -1,6 +1,6 @@
 from pathlib import Path
 from linters.base import LintError, Doc, Linter
-from linters.errors import FileError, FileWarning, LintWarning
+from errors import FileError, FileWarning, LintWarning
 from card import CardParseError
 from utils import extract_front_matter, strip_blocks
 from md_utils import find_links
