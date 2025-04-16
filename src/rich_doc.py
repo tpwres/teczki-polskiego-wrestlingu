@@ -22,6 +22,7 @@ import re
 import tomllib
 import yaml
 from linters.errors import format_error
+from blocks import BlockRegistry, FrontMatterBlock, Block, CardBlock
 
 class DocError(Exception):
     pass
@@ -60,16 +61,8 @@ class RichDoc:
     summary: Optional[str]
     sections: list[Any]
 
-    block_classes: ClassVar[dict[str, type]] = {}
 
     @classmethod
-    def register_block(cls, block_name):
-        def decorate(cls, name, block_class):
-            cls.block_classes[name] = block_class
-            return block_class
-
-        return partial(decorate, cls, block_name)
-
     @classmethod
     def from_file(cls, path: Path, error_sink=None):
         if not path.exists():
@@ -200,13 +193,8 @@ class RichDoc:
             self.current_block = None
             self.last_section_title = None
 
-    # NOTE: Forward type reference
-    def create_block(self, block, params, line_num) -> 'Block':
-        try:
-            factory = self.__class__.block_classes[block]
-            return factory(params, line_num, self.sink)
-        except KeyError:
-            raise DocError(f"Unsupported block type {block}")
+    def create_block(self, block, params, line_num) -> Block:
+        return BlockRegistry.create_block(block, params, line_num, self.sink)
 
     def raw_text(self, line, line_num):
         # Feed text to block if one is open, otherwise to body buffer
@@ -227,65 +215,6 @@ class RichDoc:
     def clear_buf(self):
         self.body_lines = []
 
-class Block:
-    "Basic block that collects text without processing it."
-    starting_line: int
-    body: list[str]
-    params: str
-
-    def __init__(self, params, line_num, error_sink):
-        self.params = params
-        self.starting_line = line_num
-        self.sink = error_sink
-
-        self.body = []
-
-    def close(self):
-        pass
-
-    def text(self, line, line_num):
-        self.body.append(line)
-
-
-@RichDoc.register_block('card')
-class CardBlock(Block):
-    raw_card: list[Any]
-
-    def __init__(self, params, line_num, error_sink):
-        super().__init__(params, line_num, error_sink)
-        self.raw_card = None
-
-    def close(self):
-        card_text = '\n'.join(self.body)
-        self.body = None
-        self.raw_card = yaml.safe_load(card_text)
-
-@RichDoc.register_block('free_card')
-class FreeCardBlock(Block):
-    raw_card: list[Any]
-
-    def __init__(self, params, line_num, error_sink):
-        super().__init__(params, line_num, error_sink)
-        self.raw_card = None
-
-    def close(self):
-        card_text = '\n'.join(self.body)
-        try:
-            self.raw_card = yaml.safe_load(card_text)
-        except yaml.YAMLError as e:
-            raise ParseError(e)
-        self.body = None
-
-@RichDoc.register_block('timeline')
-class TimelineBlock(Block):
-    pass
-
-# No need to register, RichDoc uses it explicitly
-class FrontMatterBlock(Block):
-    def close(self):
-        fm_text = '\n'.join(self.body)
-        self.front_matter = tomllib.loads(fm_text)
-        self.body = None
 
 
 if __name__ == "__main__":
