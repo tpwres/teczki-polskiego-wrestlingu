@@ -22,8 +22,9 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
   * pins and submissions score points
   * the wrestler with the most points wins
   * the winner gets a mysterious prize
+* Pn 16.04.2025 PpW announced the first women's match in the history of the promotion: Madison Marley from Denmark vs an unspecified Polish wrestler trained by [Ewenement Dojo](@/o/ewenement-dojo.md).
 
-{% card() %}
+{% card(predicted=true) %}
 - - 'Goblis: [Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
   - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Tornado Tag Team Match
@@ -35,4 +36,6 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
   - '??'
   - s: 'Enigma Scramble Match'
     nc: upcoming
+- - 'Madison Marley'
+  - '???'
 {% end %}
