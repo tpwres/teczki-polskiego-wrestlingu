@@ -42,7 +42,7 @@ PAKA made their first title defence at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x
 
 #### Final feuds and departure
 
-After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Taras almost two years prior, Longman announced that he would destroy Pawłowski and his allies from PAKA. Since Boro was already seriously injured by him previously, his next target was Taras. At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) the member of PAKA eventually lost and were injured by Wiktor Longman to such a degree, that Pablo had to be carried out on a stretcher. He made a save, but just after the damage was done. This led to Pablo vs Longman No Holds Barred Match at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), which was won by Longman. This marks Pablo's last appearance in PTW, as he [left the federation](@/a/ptw-exits.md) soon after.
+After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Taras almost two years prior, Longman announced that he would destroy Pawłowski and his allies from PAKA. Since Boro was already seriously injured by him previously, his next target was Taras. At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) the member of PAKA eventually lost to and was injured by Wiktor Longman to such a degree, that Taras had to be carried out on a stretcher. He made a save, but just after the damage was done. This led to Pablo vs Longman No Holds Barred Match at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), which was won by Longman. This marks Pablo's last appearance in PTW, as he [left the federation](@/a/ptw-exits.md) soon after.
 
 ### Maniac Zone Wrestling (2024-)
 
