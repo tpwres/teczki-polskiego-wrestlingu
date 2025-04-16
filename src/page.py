@@ -2,77 +2,66 @@ import re
 from datetime import datetime, date
 from pathlib import Path
 from card import Card
-import tomllib
-from sys import exit, stderr
-from typing import Tuple, Iterable, Optional
+from typing import Iterable, Optional, cast
 from io import TextIOBase
-
+from warnings import deprecated
+from rich_doc import RichDoc
+from sink import ExplosiveSink
 
 FrontMatterPrimitive = str | int | float
 FrontMatterValue = FrontMatterPrimitive | list[FrontMatterPrimitive] | dict[str, FrontMatterPrimitive]
 FrontMatter = dict[str, FrontMatterValue]
 
 class Page:
-    path: Path
-    front_matter: FrontMatter
-    front_offset: int
-    body: str
+    def __init__(self, doc: RichDoc, verbose: bool = True):
+        self.doc = doc
 
-    def __init__(self, path: Path, verbose: bool = True):
-        if verbose:
-            print("Loading %s" % path)
-
-        self.path = path
-        self.front_matter, self.front_offset, self.body = self.parse_content(path.open('rt', encoding='utf-8'))
-
-    def parse_content(self, io: TextIOBase) -> Tuple[FrontMatter, int, str]:
-        line = io.readline()
-        if line.strip() != '+++':
-            raise ValueError(f"Page `{self.path}` did not start with frontmatter delimiter `+++`")
-
-        matter = []
-        while True:
-            line = io.readline()
-            if not line: # readline returns empty str, not even a single "\n" at eof
-                raise ValueError(f"Front matter block closing delimiter not found in `{self.path}`")
-            elif line.strip() == '+++':
-                break
-            matter.append(line)
-
-        fm = tomllib.loads("\n".join(matter))
-        return (fm, len(matter), io.read())
+    @property
+    def front_matter(self):
+        return self.doc.front_matter
 
     @property
     def title(self): return self.front_matter['title']
 
+    @property
+    def path(self): return self.doc.path
+
     def __repr__(self):
-        return f"<{self.__class__.__name__}({self.path})>"
+        return f"<{self.__class__.__name__}({self.doc.path})>"
 
 class EventPage(Page):
     event_date: date
     orgs: list[str]
-    card: Card
 
     date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
 
-    def __init__(self, path: Path, verbose: bool = True):
-        super().__init__(path, verbose)
+    @property
+    def card(self) -> Optional[Card]:
+        card_section = self.doc.card_section
+        if not card_section:
+            return None
 
+        return Card(card_section, self.doc)
+
+    def __init__(self, doc: RichDoc, verbose: bool = True):
+        super().__init__(doc, verbose)
+
+        path = doc.path
         match EventPage.date_org_re.match(path.stem):
             case re.Match() as m:
                 ymd = m.group('date')
                 self.event_date = datetime.strptime(ymd, '%Y-%m-%d').date()
                 self.orgs = m.group('orgs').split('_')
 
-        self.card = Card(self.body, path, self.front_offset)
-
     def __repr__(self):
-        return f"<EventPage({self.path}) date={self.event_date} orgs={self.orgs}>"
+        return f"<EventPage({self.doc.path}) date={self.event_date} orgs={self.orgs}>"
 
 
+@deprecated("Replace with RichDoc or rework")
 class OrgPage(Page):
     pass
 
+@deprecated("Replace with RichDoc or rework")
 class VenuePage(Page):
     pass
 
@@ -84,44 +73,48 @@ class TalentPage(Page):
 class Article(Page):
     pass
 
-def page(path: Path, verbose: bool = False) -> Page:
+def page(doc: RichDoc, verbose: bool = False) -> Page:
     """Returns a subclass of Page, based on what's the most appropriate
     for the path given."""
+    path = doc.path
     if Path('content/e') in path.parents or EventPage.date_org_re.match(path.stem):
-        return EventPage(path, verbose)
+        return EventPage(doc, verbose)
     elif path.match('o/*.md'):
-        return OrgPage(path, verbose)
+        return OrgPage(doc, verbose)
     elif path.match('w/*.md'):
-        return TalentPage(path, verbose)
+        return TalentPage(doc, verbose)
     elif path.match('v/*.md'):
-        return VenuePage(path, verbose)
+        return VenuePage(doc, verbose)
     else:
-        return Article(path, verbose)
+        return Article(doc, verbose)
+
+def default_sink():
+    return ExplosiveSink()
 
 def all_talent_pages(root: Optional[Path]=None) -> Iterable[TalentPage]:
     """Walk the files and produce all talent pages"""
     if root is None:
         root = Path.cwd()
 
-    yield from (TalentPage(page_path)
-                for page_path in (root / 'content/w/').glob('*.md')
-                if page_path.stem != '_index')
+    yield from (cast(TalentPage, page)
+                for page in pages_under(root / 'content/w', '*.md')
+                if page.path.stem != '_index')
 
-def all_event_pages(root: Optional[Path]=None, verbose: bool = False) -> Iterable[EventPage]:
+def all_event_pages(root: Optional[Path]=None, verbose: bool = False, sink=None) -> Iterable[EventPage]:
     """Walk the files and produce all event pages"""
     if root is None:
         root = Path.cwd()
 
-    yield from (EventPage(page_path, verbose=verbose)
-                for page_path in (root / 'content/e/').glob('**/????-??-??-*.md')
-                if page_path.stem != '_index')
+    yield from (cast(EventPage, page)
+                for page in pages_under(root / 'content/e', '**/????-??-??-*.md', verbose, sink))
 
-def pages_under(path: Path, verbose: bool = False) -> Iterable[Page]:
-    yield from (page(page_path, verbose=verbose)
-                for page_path in path.glob('*.md'))
+def pages_under(path: Path, glob_pattern: str = '*.md', verbose: bool = False, sink=None) -> Iterable[Page]:
+    error_sink = sink or default_sink()
+    yield from (page(doc, verbose=verbose)
+                for page_path in path.glob(glob_pattern)
+                if (doc := RichDoc.from_file(page_path, error_sink)))
 
 if __name__ == "__main__":
-    import sys, code
     path = Path(sys.argv[1])
     pg = page(path)
-    code.interact(local=locals())
+    breakpoint()

@@ -82,7 +82,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
   - s: Loser Leaves MZW Match
     en: '[MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md)'
     ed: 2016-05-14
-- - Shadow (c)
+- - Shadow(c)
   - '[Prince Victor](@/w/vic-golden.md)'
   - s: Singles Match
     en: '[MZW Lucha Show](@/e/mzw/2016-09-10-mzw-lucha-show.md)'
@@ -92,7 +92,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
   - s: Two Out of Three Falls Match
     en: '[MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md)'
     ed: 2016-11-05
-- - Shadow (c)
+- - Shadow(c)
   - '[Franz Engel](@/w/franz-engel.md)'
   - s: Singles Match
     en: '[MZW Beatdown II](@/e/mzw/2017-02-18-mzw-beatdown-2.md)'

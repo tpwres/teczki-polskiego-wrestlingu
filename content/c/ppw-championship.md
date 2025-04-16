@@ -44,7 +44,7 @@ At [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) [Gustav Gryf
 
 {% free_card() %}
 - - '[Mister Z](@/w/mister-z.md)(c)'
-  - 'Sakal'
+  - 'Šakal'
   - s: Singles match
     en: '[PpW Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md)'
     ed: 2020-02-15
@@ -66,7 +66,7 @@ Mister Z had been the PpW Champion since the backyard era, however the available
   - '[Mister Z](@/w/mister-z.md)(c)'
   - s: Singles match
     en: '[PpW Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md)'
-    ed: 2020-06-12
+    ed: 2021-06-12
 {% end %}
 
 **TOTAL:** 91 days.
@@ -151,7 +151,7 @@ Steve Kuningas made at least one appearance with the PpW Championship outside of
     en: '[PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md)'
     ed: 2024-04-20
 - - '[Biesiad Strong](@/w/biesiad.md)'
-  - 'Bill Feager(c)'
+  - 'Feager(c)'
   - 'Mister Z'
   - s: Three Way Match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
@@ -164,7 +164,7 @@ Steve Kuningas made at least one appearance with the PpW Championship outside of
 
 {% free_card() %}
 - - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Bill Feager](@/w/feager.md)(c)'
+  - '[Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: Three Way Match
     en: '[PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
@@ -200,7 +200,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     ed: 2024-10-12
 - - 'Gustav Gryffin(c)'
   - '[Samson](@/w/samson.md)'
-  - s: Strap match
+  - s: Strap Match
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
     ed: 2024-10-26
 - - 'Gustav Gryffin (c)'
