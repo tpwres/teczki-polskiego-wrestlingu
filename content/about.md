@@ -14,9 +14,11 @@ The official Polish name for this project is "Teczki Polskiego Wrestlingu", whic
 
 **[Events](@/e/_index.md)** lists both past and upcoming events on the Polish wrestling scene.
 
+**[Organizations](@/o/_index.md)** documents active and folded organizations, both pro and backyard. Each article includes the organization's history.
+
 **[People](@/w/_index.md)** is a listing of all talent, local and foreign, that stepped between the ropes in Poland. Some of them have articles of their own, which list their matches in detail, and sometimes include a bio and the character's history.
 
-**[Organizations](@/o/_index.md)** documents active and folded organizations, both pro and backyard. Each article includes the organization's history.
+**[Teams](@/tt/_index.md)** lists tag teams and stables, both domestic and international, that worked in Poland. Unlike the list of people, this one only includes teams of certain notability.
 
 **[Articles](@/a/_index.md)** contains miscellaneous entries that don't fit into the above categories.
 

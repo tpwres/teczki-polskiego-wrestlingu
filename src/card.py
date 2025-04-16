@@ -1,9 +1,9 @@
 import datetime
 import yaml
 import io
-from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO, Any
+from typing import Union, Iterable, Optional, NamedTuple, assert_never, cast, TextIO, Any
 import re
-from pathlib import Path
+from pathlib import Path, PurePath
 from itertools import chain
 from functools import reduce
 from dataclasses import dataclass
@@ -11,45 +11,43 @@ from contextlib import contextmanager
 import yaml.parser
 from sys import exit, stderr
 
-person_link_re = re.compile(r'''
-    ^
-    \[ # Square brackets surround link text
-        (?: # Optional prefix
-          (?P<delim>[*_]) # begins with an underscore or asterisk
-          (?P<prefix>.*?) # followed by text
-          (?P=delim) # ends with the same delimiter character
-        )?
-        \s* # May be followed by whitespace
-        (?P<text>.*?)
-        (?:\(c\))? # May have a champion marker, which we do not capture
-        (?: # Optional suffix
-          (?P<sdelim>[*_]) # begins with an underscore or asterisk
-          (?P<suffix>.*?) # followed by text
-          (?P=sdelim) # ends with the same delimiter character
-        )?
-    \]
-    \( # Then, parentheses surround link target
-        (?P<target>.*?)
-    \)
+prefix_re = r'''
+    (?P<delim>[*_]) # begins with an underscore or asterisk
+    (?P<prefix>.*?) # followed by text
+    (?P=delim) # ends with the same delimiter character
+'''
+
+suffix_re = r'''
+    (?P<sdelim>[*_]) # begins with an underscore or asterisk
+    (?P<suffix>.*?) # followed by text
+    (?P=sdelim) # ends with the same delimiter character
+'''
+
+champion_marker = r'(?:\(c\))'
+
+link_label_re = rf'''
+    (?:{prefix_re})? # Optional prefix
+    \s* # May be followed by whitespace
+    (?P<text>.*?)
+    {champion_marker}? # May have a champion marker, which we do not capture
+    (?:{suffix_re})? # Optional suffix
+'''
+
+person_link_re = re.compile(rf'''
+    ^\s*
+    \[{link_label_re}\] # Square brackets surround link text
+    \((?P<target>.*?)\) # Then, parentheses surround link target
     (?:\(c\))? # The champion marker may also be outside
     \s* # Eat whitespace
     $
 ''', re.VERBOSE)
 
-person_plain_re = re.compile(r'''
+person_plain_re = re.compile(rf'''
     ^
-    (?: # Optional part
-        (?P<delim>[*_]) # begins with an underscore or asterisk
-        (?P<prefix>.*?) # followed by text
-        (?P=delim) # ends with the same delimiter character
-    )?
+    (?:{prefix_re})? # Optional prefix
     (?P<text>.*?)
-    (?:\(c\))? # Optional champion marker
-    (?: # Optional suffix
-        (?P<sdelim>[*_]) # begins with an underscore or asterisk
-        (?P<suffix>.*?) # followed by text
-        (?P=sdelim) # ends with the same delimiter character
-    )?
+    {champion_marker}? # Optional champion marker
+    (?:{suffix_re})? # Optional suffix
     \s* # Eat whitespace
     $
 ''', re.VERBOSE)
@@ -98,6 +96,13 @@ class Name:
 
         return f"[{self.name}]({self.link})"
 
+    def canonicalize(self):
+        if self.link:
+            link = PurePath(self.link)
+            return link.stem
+        else:
+            return self.name.strip().lower().replace(' ', '-')
+
 class Participant:
     # Abstract
     def all_names(self) -> Iterable[Name]:
@@ -111,15 +116,29 @@ class Team(Participant):
     def all_names(self) -> Iterable[Name]:
         yield from getattr(self, 'members', [])
 
+    def build_keys(self) -> Iterable[str]:
+        raise NotImplementedError
+
 class NamedTeam(Team):
     members: list
+    # TODO: Parse link
+    link: Optional[str] = None
 
-    def __init__(self, team_name, members):
-        self.team_name = team_name
+    def __init__(self, team_name, members, link=None):
+        self.team_name = team_name.strip()
         self.members = members
+        self.link = link
 
     def __repr__(self) -> str:
-        return f"NamedTeam(n={self.team_name} m={self.members!r})"
+        return f"NamedTeam(n={self.team_name} m={self.members!r} l={self.link})"
+
+    def build_keys(self):
+        # Named teams are identified by name or link.
+        keys = [self.team_name]
+        if self.link:
+            keys.insert(0, self.link)
+
+        return keys
 
 class AdHocTeam(Team):
     members: list
@@ -129,6 +148,10 @@ class AdHocTeam(Team):
 
     def __repr__(self) -> str:
         return f"AdHocTeam(m={self.members!r})"
+
+    def build_keys(self):
+        key = '&'.join(sorted(m.canonicalize() for m in self.members))
+        return [key]
 
 class Fighter(NamedParticipant):
     pass
@@ -152,18 +175,6 @@ class Match:
     opponents: list[Iterable[Participant]]
     options: dict
     date: Optional[datetime.date]
-
-    tag_team_re = re.compile(r'''
-        ^
-         (?:
-           (?P<team>[-'\w\s]+) # Team name followed by a colon
-           (?:\s*\(c\))? # Optional champion marker
-           : # Followed by a colon
-         )? # All optional
-         \s* # Eat whitespace
-         (?P<people>.+) # Followed by list of participants
-         \s* # Eat trailing space
-        ''', re.VERBOSE)
 
     def __init__(self, match_row: list[str|dict], index: int, date: Optional[datetime.date]):
         self.line = match_row # Store original row
@@ -199,6 +210,12 @@ class Match:
                 for name in members.all_names()
                 )
 
+    def all_teams_indexed(self):
+        return ((i, person_or_team)
+                for i, opponents in enumerate(self.opponents)
+                for person_or_team in opponents
+                if isinstance(person_or_team, Team))
+
     def winner(self) -> Iterable[Participant]:
         return self.opponents[0]
 
@@ -218,14 +235,45 @@ class Match:
     def parse_partners(self, partners: list[str]) -> Iterable[Union[Participant, Team]]:
         return [t for p in partners if (t := self.parse_maybe_team(p))]
 
+    plain_name_re = r"[-'\w\s]+"
+    team_link_re = rf'''
+        \[(?P<label>{plain_name_re})\] # Square brackets surround link text
+        \((?P<target>.*?)\) # Then, parentheses surround link target
+        (?:\(c\))? # The champion marker
+    '''
+
+    team_name_re = rf'(?P<link>{team_link_re})|(?P<plain>{plain_name_re})'
+
+    tag_team_re = re.compile(rf'''
+        ^
+         (?P<team>
+           (?:{team_name_re}) # Team name or a link
+           (?:\s*\(c\))? # Optional champion marker
+           : # Followed by a colon
+         )? # All optional
+         \s* # Eat whitespace
+         (?P<people>.+) # Followed by list of participants
+         \s* # Eat trailing space
+        ''', re.VERBOSE)
+
     def parse_maybe_team(self, text: str) -> Optional[Union[Participant, Team]]:
-        match Match.tag_team_re.match(text):
-            case re.Match() as m:
-                team_name = m.group('team')
-                people = m.group('people')
-            case _:
+        m = Match.tag_team_re.match(text)
+        if not m:
+            raise ValueError(f"Couldn't match {text}")
+
+        fields = m.groupdict()
+        match fields:
+            case {'team': None}:
                 team_name = None
                 people = text
+            case {'label': str() as label, 'target': str() as target, 'people': str() as match_people}:
+                team_name = (label, target)
+                people = match_people
+            case {'plain': str() as label, 'people': str() as match_people}:
+                team_name = (label, None)
+                people = match_people
+            case _:
+                raise ValueError(f"Invalid fields {fields}")
 
         group = parse_group(people)
         match (group, team_name):
@@ -233,7 +281,9 @@ class Match:
                 return single_member
             case ([*members], None):
                 return AdHocTeam(members)
-            case ([*members], name):
+            case ([*members], (str() as name, str() as link)):
+                return NamedTeam(name, members, link=link)
+            case ([*members], (str() as name, None)):
                 return NamedTeam(name, members)
 
 tokenizer_re = re.compile(r'''
@@ -430,3 +480,12 @@ def names_in_match(mm: Match) -> set[Name]:
                for i, name in enumerate(names)
                if i + 1 not in exclude # exclude is 1-based
                and name) # Otherwise the type is set[Name|None]
+
+def teams_in_match(mm: Match) -> set[Team]:
+    team_names = [entry
+                  for opponent in mm.opponents
+                  for entry in opponent
+                  if isinstance(entry, Team)]
+
+    # NOTE: do we need exclude here?
+    return set(team_names)
