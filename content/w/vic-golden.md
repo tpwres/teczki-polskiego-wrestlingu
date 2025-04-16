@@ -107,7 +107,7 @@ It was announced that he would perform under a so-called "legends contract", whi
 
 At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Vic and his tag team partner issued an open challenge, which was accepted by their former allies Legia Łysych.
 This was teased in numerous altercations in social media.
-After Legia Łysych joined [Zmowa](@/a/zmowa.md), Pure Gold became their opponents joining "Zmowa Przeciwko Zmowie" in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) with them emerging victorious from the feud.
+After Legia Łysych joined [Zmowa](@/tt/zmowa.md), Pure Gold became their opponents joining "Zmowa Przeciwko Zmowie" in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) with them emerging victorious from the feud.
 
 ## In wrestling
 

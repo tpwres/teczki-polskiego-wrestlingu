@@ -56,7 +56,7 @@ Mister Z is credited for "Prime Time Transfers": when numerous wrestlers who [le
 
 While Mandecky was still the owner of PpW, Mister Z began to slowly build himself a new entourage as the executive producer. In late 2023 and early 2024 he approached talent such as [Gustav Gryffin](@/w/gustav-gryffin.md) and his personal trainer [Jakub Linde](@/w/jakub-linde.md), as well as Rafi and [Isnorr](@/w/isnorr.md), to persuade them into joining his alliance in a similar fashion to when Mandecky approached him almost two years prior.
 
-At [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Mister Z set himself up against Biesiad and the reigning champion Feager in a Triple Threat Match for the PpW Championship. When Biesiad won the match, "The Real Deal" immediately called up his protégé and the new #1 Contender Gustav Gryffin, who managed to defeat Biesiad. After the match, in a post-show interview, Biesiad called this new stable under the leadership of Mister Z "[Zmowa](@/a/zmowa.md)" (the Collusion). This name quickly became official, as Zmowa took on two new members from the Prime Time Transfers, when Legia Łysych, debuting as heels, joined both PpW and Zmowa.
+At [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Mister Z set himself up against Biesiad and the reigning champion Feager in a Triple Threat Match for the PpW Championship. When Biesiad won the match, "The Real Deal" immediately called up his protégé and the new #1 Contender Gustav Gryffin, who managed to defeat Biesiad. After the match, in a post-show interview, Biesiad called this new stable under the leadership of Mister Z "[Zmowa](@/tt/zmowa.md)" (the Collusion). This name quickly became official, as Zmowa took on two new members from the Prime Time Transfers, when Legia Łysych, debuting as heels, joined both PpW and Zmowa.
 
 Conflict between Zmowa and numerous babyfaces, such as Biesiad, [Goblin](@/w/goblin.md), Samson and Pure Gold, grew over most part of 2024, during which Mister Z got involved in a rivalry with [Axel Fox](@/w/axel-fox.md). Fox lost his debut match against Legia Łysych, due to intereference from Mister Z. The feud between Zmowa and so-called "Zmowa Przeciwko Zmowie" (_A Collution Against the Collusion_) under Biesiad's leadership led to the Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), during which Mister Z called up on yet another Prime Time Transfer: [Wiktor Longman](@/w/wiktor-longman.md). Despite their efforts, Zmowa ultimately lost to the allied babyfaces, which weakened them considerably, but Mister Z managed to keep the core of Zmowa intact.
 
@@ -85,7 +85,7 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
   - Moonsault (2023-)
 
 * Tag Teams and stables:
-  - [Zmowa](@/a/zmowa.md) (2024-)
+  - [Zmowa](@/tt/zmowa.md) (2024-)
 
 * Entrance music:
   - "Them Bones" by Alice in Chains
