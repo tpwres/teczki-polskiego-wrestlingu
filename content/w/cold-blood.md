@@ -22,9 +22,9 @@ Cold Blood is a retired Polish backyard wrestler known for his appearances in [P
 
 Cold Blood made his wrestling debut for Głuchołazy-based [Polish Xtreme Wrestling](@/o/pxw.md).
 Not much information is available from these days, but it is known that he made at least six appearances for the group.
-His first recorded match took place on June 12th during [PXW Survive 2011](@/e/pxw/2011-06-12-pxw-survive-2011.md), where he faced [Terry Shadow](@/w/shadow.md). His final recorded appearance took place at [Extreme Hell 2011](@/e/pxw/2011-09-24-pxw-extreme-hell-2011.md) in September 2011. During his stint in PXW he managed to win the ECW Championship, but any details about his run are unknown.
+His first recorded match took place on June 12th during [PXW Survive 2011](@/e/pxw/2011-06-12-pxw-survive-2011.md), where he faced [Terry Shadow](@/w/shadow.md). His final recorded appearance took place at [Extreme Hell 2011](@/e/pxw/2011-09-24-pxw-extreme-hell-2011.md) in September 2011. During his stint in PXW he managed to win the ECW Championship, but no details about his run are known.
 
-Supposedely, after summer of 2011 he retired from backyard wrestling, seemingly ending his career.
+After the summer of 2011 he apparently retired from backyard wrestling, ending his career.
 
 ## Championships and accomplishments
 
