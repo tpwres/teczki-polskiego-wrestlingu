@@ -46,4 +46,4 @@ source = "Official MZW Facebook"
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322461)
 * [Full match: Tournament Final 4-way](https://www.youtube.com/watch?v=31_PIi22v6o)
-* [Recap video](https://youtu.be/8LKMTYPzaIU)
+* [Recap video](https://www.youtube.com/watch?v=8LKMTYPzaIU)

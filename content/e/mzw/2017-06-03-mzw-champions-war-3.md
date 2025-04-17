@@ -41,3 +41,4 @@ The third Champions War event was held again in [Głuchołazy](@/v/gosir-gluchol
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=177221)
+* [Recap video on YouTube](https://www.youtube.com/watch?v=zYz0fUurPBg)

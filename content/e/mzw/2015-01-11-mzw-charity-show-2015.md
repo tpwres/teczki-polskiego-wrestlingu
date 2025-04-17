@@ -28,8 +28,8 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153092)
+* [Full show on YouTube](https://www.youtube.com/watch?v=2IaA9_sT6Fo)
 * [YouTube recap video](https://youtu.be/R_abTj1_mGc)
-* [YouTube video of the full event](https://www.youtube.com/watch?v=2IaA9_sT6Fo)
 * [Facebook photo gallery](https://www.facebook.com/share/xm7GoztcP3nvCT24/)
 
 [wosp]: https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity
