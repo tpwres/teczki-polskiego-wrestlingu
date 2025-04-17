@@ -28,11 +28,12 @@ This was a charity event held at Primary School no. 20 in Siemianowice Śląskie
     c: '[MCW Championship](@/c/mcw-championship.md)'
 {% end %}
 
-In a show of awareness rarely seen on the Polish wrestling scene, in his promo before the match RAV said "We have many cool federations: [KPW](@/o/kpw.md), [MZW](@/o/mzw.md), [PpW](@/o/ppw.md), [PTW](@/o/ptw.md)".
+#### Recap
+* In a show of awareness rarely seen on the Polish wrestling scene, in his promo before the match RAV said "We have many cool federations: [KPW](@/o/kpw.md), [MZW](@/o/mzw.md), [PpW](@/o/ppw.md), [PTW](@/o/ptw.md)".
 
 ## References
 
-* [Facebook post](https://www.facebook.com/minecitywrestling/posts/pfbid02eVecFDKqDjKjc5CE6MNwn59qkXYbs4aUKtt1Lz5EDTesRRT9o9yquWov8KCQkZzbl)
-* [Facebook event](https://www.facebook.com/events/246015901602052/?ref=newsfeed)
 * [Video: Chris Steeler vs Johny Vegas](https://www.youtube.com/watch?v=vvSlMmh7dDc)
 * [Video: Fatal Four-Way Match](https://www.youtube.com/watch?v=dzTJliftrYU)
+* [Facebook post](https://www.facebook.com/minecitywrestling/posts/pfbid02eVecFDKqDjKjc5CE6MNwn59qkXYbs4aUKtt1Lz5EDTesRRT9o9yquWov8KCQkZzbl)
+* [Facebook event](https://www.facebook.com/events/246015901602052/?ref=newsfeed)
