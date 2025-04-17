@@ -12,7 +12,7 @@ caption = "Facebook graphic confirming that Axel Fox has joined PpW"
 source = "Facebook @OficjalnePPW"
 +++
 
-Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md),  and [Dream Factory Wrestling](@/o/dfw.md).
+Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md) and [Dream Factory Wrestling](@/o/dfw.md).
 
 ## Basic info
 
@@ -29,7 +29,7 @@ Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw
 
 ### Pro wrestling content creator (pre-2017)
 
-Appearing simply as "Amisz" (his forum nickname) or under his real name Kuba (a diminutive of _Jacob_), he began his wrestling-related activies as a journalist, writing articles and discussing the indy wrestling scene abroad.
+Appearing simply as "Amisz" (_Amish_; his forum nickname) or under his real name Kuba (a diminutive of _Jacob_), he began his wrestling-related activies as a journalist, writing articles and discussing the indy wrestling scene abroad.
 He also ran his own YouTube channel called "KGWrestlingPodcast", where he also covered similar topics (most notably Pro Wrestling Guerilla).
 
 ### Dream Factory Wrestling (2017)
@@ -84,17 +84,15 @@ Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent c
 
 #### Feud with Mister Z
 
-At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Axel faced Mister Z in a Christmas Street Fight. While Fox was eager to get his revenge on PpW's producer for constant backstabbing attacks and avoiding direct confrontation, he was unable to defeat "The Real Deal" due to an intervention by Olgierd and Marco Hammers, and their assault on Axel's tag team partner, Goblin.
+At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Axel faced Mister Z in a Christmas Street Fight. While Fox was eager to get his revenge on the PpW producer for constant backstabbing attacks and avoiding direct confrontation, he was unable to defeat "The Real Deal" due to an intervention by Olgierd and Marco Hammers, and their assault on Axel's tag team partner, Goblin.
 
-At the next show, [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), Mister Z offered Axel a chance to join him to achieve success, instead of allying himself with "losers", such as Goblin. Axel denied Z's offer, as he was joined by The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md)), who saved him from an unfair beatdown at the hands of Zmowa.
+At the next show, [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), Mister Z offered Axel a chance to join him to achieve success, instead of allying himself with "losers" such as Goblin. Axel denied Z's offer, as he was joined by The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md)), who saved him from an unfair beatdown at the hands of Zmowa.
 
-efore [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declared himself as one of the competitors in 20 Typa 20 Broni Rumble Match to gain an opportunity for a Title Match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). He managed to get into final two, but his rival turned out to be Goblin. Ultimately Fox was eliminated by his tag team partner and friend.
+Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declared himself as one of the competitors in 20 Typa 20 Broni Rumble Match to gain an opportunity for a Title Match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). He managed to get into final two, but his rival turned out to be Goblin. Ultimately Fox was eliminated by his tag team partner and friend.
 
 ### Legacy of Wrestling (2024-present)
 
-On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox will replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
-He fought against [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md).
-During the match he was initially named as the winner, but due to a minimal rope break which wasn't noticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and LoW Chairman, to immediately restart the match. This resulted in a loss by technical submission, much to Fox's despair.
+On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). During the matchagainst the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a minimal rope break which wasn't noticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
 
 ## In wrestling
 
@@ -109,32 +107,32 @@ During the match he was initially named as the winner, but due to a minimal rope
 
 * Entrance music:
   - "Nowhere to Hide" by Chrobot
-    {{ org_badge(orgs=['dfw']) }} (2017) <br>
-    {{ music(yt='0tBeZUjmp6Y')}}
-    {{ music(spot='69q1xbdp0MHTayxLvlRMdk')}}
-    {{ music(apple='1472548615?i=1472548866')}}
+ {{ org_badge(orgs=['dfw']) }} (2017) <br>
+ {{ music(yt='0tBeZUjmp6Y')}}
+ {{ music(spot='69q1xbdp0MHTayxLvlRMdk')}}
+ {{ music(apple='1472548615?i=1472548866')}}
   - "It's Raining Men" by The Weather Girls
-    {{ org_badge(orgs=['mzw']) }} (2018) <br>
-    {{ music(yt='l5aZJBLAu1E')}}
-    {{ music(spot='2IvetNzSZMH5gwjInoyr18')}}
-    {{ music(apple='273400100?i=273400238')}}
+ {{ org_badge(orgs=['mzw']) }} (2018) <br>
+ {{ music(yt='l5aZJBLAu1E')}}
+ {{ music(spot='2IvetNzSZMH5gwjInoyr18')}}
+ {{ music(apple='273400100?i=273400238')}}
   - "Fox On The Run" by Sweet
-    {{ org_badge(orgs=['mzw']) }} (2019-2020) <br> 
-    {{ music(yt='kRv7EjjwYBI')}}
-    {{ music(spot='4uip0lLkMKl1nwchsdXs1r')}}
-    {{ music(apple='1440629897?i=1440629905')}}
+ {{ org_badge(orgs=['mzw']) }} (2019-2020) <br> 
+ {{ music(yt='kRv7EjjwYBI')}}
+ {{ music(spot='4uip0lLkMKl1nwchsdXs1r')}}
+ {{ music(apple='1440629897?i=1440629905')}}
   - "Saturday Night's Alright for Fighting" by Elton John
-    {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
-    {{ music(yt='AhnZEmnuzgM')}}
-    {{ music(spot='12yHvSYFXI7PGzNecUvIDu')}}
-    {{ music(apple='1440863013?i=1440863140&l=pl')}}
+ {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
+ {{ music(yt='AhnZEmnuzgM')}}
+ {{ music(spot='12yHvSYFXI7PGzNecUvIDu')}}
+ {{ music(apple='1440863013?i=1440863140&l=pl')}}
   - "Crazy Like a Fox" by Independent Contractor
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
+ {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
-    {{ music(yt='OklSZmIx9-o')}} 
-    {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
-    {{ music(apple='1697553064?i=1697553067&l=pl')}}
+ {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
+ {{ music(yt='OklSZmIx9-o')}} 
+ {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
+ {{ music(apple='1697553064?i=1697553067&l=pl')}}
 
 ## Championships and accomplishments
 
