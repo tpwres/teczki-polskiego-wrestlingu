@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Chris Hunter is a retired Polish backyard wrestler, best known for creating and competing in [Dream Factory Wrestling](@/o/dfw.md). He was also active in other backyard groups, such as EKW from Elbląg, TWF from Toruń, and [Polish Xtreme Wrestling](@/o/pxw.md).
+Chris Hunter is a retired Polish backyard wrestler, best known for creating and competing in [Dream Factory Wrestling](@/o/dfw.md). He was also active in other backyard groups, such as EKW from Elbląg, TWF from Toruń, and [Polish Xtreme Wrestling](@/o/pxw.md) from Głuchołazy.
 
 ## Basic info
 
@@ -31,9 +31,9 @@ Chris Hunter - then working under his ringname "Hero" - made his appearance for 
 
 Chris got the idea to start his own wrestling group when he was returning home from an appearance in another backyard group, EKW from Elbląg. In an interview for MyCast, he recalls receiving a botched kick from [Revage](@/w/rafael-kid.md), which caused his eye to swell and temporarily restrict his vision. On a train from Elbląg to Toruń, barely being able to see, he made his decision. Chris was the group's leader, and later their inaugural champion.
 
-Since he created [Dream Factory Wrestling](@/o/dfw.md) in 2015, he appeared on almost every single DFW show. He debuted at their [First Showcase](@/e/dfw/2015-06-20-dfw-showcase.md) in June 2015 where he defeated Revage, with whom he had a heated rivalry. At [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) he advanced to the finals, to finally be crowned the inaugural [DFW Champion](@/c/dfw-championship.md) at [Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).
+Since creating [Dream Factory Wrestling](@/o/dfw.md) in 2015, he appeared at almost every single DFW show. He debuted at their [First Showcase](@/e/dfw/2015-06-20-dfw-showcase.md) in June 2015 where he defeated Revage, with whom he had a heated rivalry. At [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) he advanced to the finals, to eventually be crowned the inaugural [DFW Champion](@/c/dfw-championship.md) at [Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).
 
-Hunter ran a successful campaign as a champion, defending his title against another top DFW wrestlers such as [Direk](@/w/direk.md), [Charlie](@/w/madman-charlie.md) and [Pain Killer](@/w/pain-killer.md). He finally lost it in a match against his old rival Revage in a match that took place at [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) in April 2017. Chris Hunter made his last appearance for DFW at their [Charity Show](@/e/dfw/2018-03-08-dfw-charity-gauntlet-match.md) in March 2018, where he was defeated in a Gauntlet Match in which [Norris](@/w/isnorr.md) won the vacated DFW Championship.
+Hunter ran a successful campaign as a champion, defending his title against other top DFW wrestlers such as [Direk](@/w/direk.md), [Charlie](@/w/madman-charlie.md) and [Pain Killer](@/w/pain-killer.md). He finally lost the Championship in a match against his old rival Revage, in a match that took place at [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) in April 2017. Chris Hunter made his last appearance for DFW at their [Charity Show](@/e/dfw/2018-03-08-dfw-charity-gauntlet-match.md) in March 2018 where he was defeated in a Gauntlet Match, in which [Norris](@/w/isnorr.md) won the vacated DFW Championship.
 
 Since then Chris retired from wrestling, closing down Dream Factory Wrestling not long after [Crosswords City II](@/e/dfw/2018-06-09-dfw-crosswords-city-2.md) in June 2018.
 
@@ -49,10 +49,10 @@ Since then Chris retired from wrestling, closing down Dream Factory Wrestling no
 
 * Entrance music:
   - "Still Swingin'" by Papa Roach
-    {{ org_badge(orgs=['dfw']) }} (2015-2018) <br>
-    {{ music(yt='mvSvEeD8CVQ')}}
-    {{ music(spot='14LJqAIsGgeuntx583zLzi')}}
-    {{ music(apple='1699420293?i=1699420296')}}
+ {{ org_badge(orgs=['dfw']) }} (2015-2018) <br>
+ {{ music(yt='mvSvEeD8CVQ')}}
+ {{ music(spot='14LJqAIsGgeuntx583zLzi')}}
+ {{ music(apple='1699420293?i=1699420296')}}
 
 ## Championships and accomplishments
 
