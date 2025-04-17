@@ -37,11 +37,10 @@ def update_cbf(career, page: EventPage):
 
         teams = teams_in_match(mm)
         for team in teams:
-            key = team.team_name or team.link
-
-            entry = career.setdefault(key, {})
-            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
-            year.update(orgs)
+            for key in team.build_keys():
+                entry = career.setdefault(key, {})
+                year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+                year.update(orgs)
 
     if not card.crew:
         return
@@ -82,11 +81,10 @@ def update_career(career: dict[str, CareerYears], page: EventPage):
 
         teams = teams_in_match(mm)
         for team in teams:
-            plain = team.team_name
-
-            entry = career.setdefault(plain, {})
-            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
-            year.update(orgs)
+            for key in team.build_keys():
+                entry = career.setdefault(key, {})
+                year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+                year.update(orgs)
 
     if not card.crew:
         return

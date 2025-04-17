@@ -3,7 +3,7 @@ import yaml
 import io
 from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO, Any
 import re
-from pathlib import Path
+from pathlib import Path, PurePath
 from itertools import chain
 from functools import reduce
 from dataclasses import dataclass
@@ -98,6 +98,13 @@ class Name:
 
         return f"[{self.name}]({self.link})"
 
+    def canonicalize(self):
+        if self.link:
+            link = PurePath(self.link)
+            return link.stem
+        else:
+            return self.name.lower().replace(' ', '-')
+
 class Participant:
     # Abstract
     def all_names(self) -> Iterable[Name]:
@@ -111,6 +118,9 @@ class Team(Participant):
     def all_names(self) -> Iterable[Name]:
         yield from getattr(self, 'members', [])
 
+    def build_keys(self) -> Iterable[str]:
+        raise NotImplementedError
+
 class NamedTeam(Team):
     members: list
     # TODO: Parse link
@@ -123,6 +133,14 @@ class NamedTeam(Team):
     def __repr__(self) -> str:
         return f"NamedTeam(n={self.team_name} m={self.members!r})"
 
+    def build_keys(self):
+        # Named teams are identified by name or link.
+        keys = [self.team_name]
+        if self.link:
+            keys.append(self.link)
+
+        return keys
+
 class AdHocTeam(Team):
     members: list
 
@@ -131,6 +149,10 @@ class AdHocTeam(Team):
 
     def __repr__(self) -> str:
         return f"AdHocTeam(m={self.members!r})"
+
+    def build_keys(self):
+        key = '&'.join(sorted(m.canonicalize() for m in self.members))
+        return [key]
 
 class Fighter(NamedParticipant):
     pass
@@ -437,7 +459,7 @@ def teams_in_match(mm: Match) -> set[NamedTeam]:
     team_names = [entry
                   for opponent in mm.opponents
                   for entry in opponent
-                  if isinstance(entry, NamedTeam)]
+                  if isinstance(entry, Team)]
 
     # NOTE: do we need exclude here?
     return set(team_names)

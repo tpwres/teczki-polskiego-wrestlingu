@@ -70,8 +70,9 @@ def main():
 
             # TODO: This produces bad numbering, fix it
             for index, team in enumerate(teams_in_match(bout), 1):
-                bouts = appearances.setdefault(team.team_name, [])
-                bouts.append((global_match_num, index))
+                for key in team.build_keys():
+                    bouts = appearances.setdefault(key, [])
+                    bouts.append((global_match_num, index))
 
             global_match_num += 1
 
