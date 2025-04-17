@@ -113,6 +113,8 @@ class Team(Participant):
 
 class NamedTeam(Team):
     members: list
+    # TODO: Parse link
+    link: Optional[str] = None
 
     def __init__(self, team_name, members):
         self.team_name = team_name
@@ -430,3 +432,12 @@ def names_in_match(mm: Match) -> set[Name]:
                for i, name in enumerate(names)
                if i + 1 not in exclude # exclude is 1-based
                and name) # Otherwise the type is set[Name|None]
+
+def teams_in_match(mm: Match) -> set[NamedTeam]:
+    team_names = [entry
+                  for opponent in mm.opponents
+                  for entry in opponent
+                  if isinstance(entry, NamedTeam)]
+
+    # NOTE: do we need exclude here?
+    return set(team_names)

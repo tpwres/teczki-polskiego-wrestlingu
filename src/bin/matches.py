@@ -2,7 +2,7 @@
 
 import re
 from utils import accepted_name
-from card import Match, CardParseError
+from card import Match, CardParseError, teams_in_match
 from page import EventPage
 from pathlib import Path
 from datetime import date
@@ -67,6 +67,12 @@ def main():
                 if not accepted_name(person.name): continue
                 bouts = appearances.setdefault(person.name, [])
                 bouts.append((global_match_num, index))
+
+            # TODO: This produces bad numbering, fix it
+            for index, team in enumerate(teams_in_match(bout), 1):
+                bouts = appearances.setdefault(team.team_name, [])
+                bouts.append((global_match_num, index))
+
             global_match_num += 1
 
         if not card.crew: continue

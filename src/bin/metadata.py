@@ -4,9 +4,9 @@ from pathlib import Path
 from collections import Counter
 from articles import load_names_with_aliases
 import json
-from typing import Iterable, cast, Optional
+from typing import cast
 from utils import RichEncoder, accepted_name
-from card import Match, Name, CardParseError, extract_names, names_in_match
+from card import CardParseError, names_in_match, teams_in_match
 from page import EventPage
 from sys import stderr, exit
 
@@ -35,9 +35,20 @@ def update_cbf(career, page: EventPage):
             year = cast(Counter, entry.setdefault(event_date.year, Counter()))
             year.update(orgs)
 
-    if not card.crew: return
+        teams = teams_in_match(mm)
+        for team in teams:
+            key = team.team_name or team.link
+
+            entry = career.setdefault(key, {})
+            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+            year.update(orgs)
+
+    if not card.crew:
+        return
+
     for person in card.crew.members:
-        if not accepted_name(person.name): continue
+        if not accepted_name(person.name):
+            continue
         key = person.link or person.name
 
         entry = career.setdefault(key, {})
@@ -69,9 +80,19 @@ def update_career(career: dict[str, CareerYears], page: EventPage):
             year = cast(Counter, entry.setdefault(event_date.year, Counter()))
             year.update(orgs)
 
-    if not card.crew: return
+        teams = teams_in_match(mm)
+        for team in teams:
+            plain = team.team_name
+
+            entry = career.setdefault(plain, {})
+            year = cast(Counter, entry.setdefault(event_date.year, Counter()))
+            year.update(orgs)
+
+    if not card.crew:
+        return
     for person in card.crew.members:
-        if not accepted_name(person.name): continue
+        if not accepted_name(person.name):
+            continue
         entry = career.setdefault(person.name, {})
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
@@ -122,6 +143,7 @@ def main():
     if num_errors > 0:
         stderr.write("Errors found, aborting\n")
         exit(1)
+
     merge_aliases(career)
 
     data_dir = cwd / 'data'
