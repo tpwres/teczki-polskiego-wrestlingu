@@ -92,7 +92,7 @@ Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declar
 
 ### Legacy of Wrestling (2024-present)
 
-On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). During the matchagainst the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a minimal rope break which wasn't noticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
+On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a minimal rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
 
 ## In wrestling
 
