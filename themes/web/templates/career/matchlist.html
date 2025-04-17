@@ -2,8 +2,8 @@
 {% set org_styles = config.extra.org_styles %}
 {% set alias_map = load_data(path="data/aliases.json") %}
 {% set all_my_names = [] %}
-{% if career_lookup_keys %}
-  {% set all_my_names = career_lookup_keys %}
+{% if seed_name %}
+  {% set all_my_names = [seed_name] %}
 {% endif %}
 {% for alias, path in alias_map %}
   {% if path == page.relative_path %}{% set_global all_my_names = all_my_names | concat(with=alias) %}{% endif %}
