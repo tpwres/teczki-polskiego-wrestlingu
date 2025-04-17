@@ -329,13 +329,13 @@ Additional interviews, once again conducted by Joker:
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=391568)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ewenement-haze-4-20-24-full-show-hd) (requires paid subscription)
+* [Full show on YouTube](https://www.youtube.com/watch?v=8u292TzKREA) (set to private as of April 2025)
 * [Facebook event page](https://www.facebook.com/events/330377740015358)
 * [Praga Centrum](https://pragacentrum.pl/pl/galeria/)
 * [4/20 Ladder Match announcement](https://www.facebook.com/OficjalnePPW/posts/pfbid02xck4MVh2qEGhfJ1qNQgYPE8dRDbCe3TvBQCSbt5meCgtzsNvu3RUPpvMAmPEdf9Xl)
 * [Announcing Baklava club vs Pure Gold](https://www.facebook.com/OficjalnePPW/posts/pfbid029SpCNuYnCHqmccMxhSPNQ9KAF7yAeXoDMcNmFhvbWWB1NMnfuxT9iot7jhH4pMgTl),
   also mentions a new ring and 7 matches
-* [Full event on YouTube](https://www.youtube.com/watch?v=8u292TzKREA) (set to private as of April 2025)
-* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ewenement-haze-4-20-24-full-show-hd) (requires paid subscription)
 * [Results on PpW's Facebook page](https://www.facebook.com/OficjalnePPW/posts/pfbid02VDK1CTBvrB2rSQyHEB7jBkHE2BXPPxGnX5Dbkz8krDbJ9n9zMyiJwUXftAYVGPvol)
 
 [bm-493]: https://youtu.be/2azqxchwafo?t=731

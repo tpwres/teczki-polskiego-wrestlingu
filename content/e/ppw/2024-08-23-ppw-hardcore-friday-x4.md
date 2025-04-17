@@ -48,8 +48,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=402615)
-* [YouTube livestream of Ale Grzeje](https://www.youtube.com/watch?v=UEQkSKMekCs&t=14480s&ab_channel=PpWEwenementWrestling), at the 4:01:18 mark Michael announces the next date.
-* [Facebook post announcing the new date](https://www.facebook.com/share/p/Gh8cCdYZaMrbfqy4/)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-x4-full-show-23-08-24) (requires paid subscription)
+* [Facebook post announcing the new date](https://www.facebook.com/share/p/Gh8cCdYZaMrbfqy4/)
 
 [hf-wiki]: https://ppw-fandom.tpwres.pl/hardcore-friday

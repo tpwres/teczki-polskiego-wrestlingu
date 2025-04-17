@@ -27,5 +27,5 @@ city = "Warszawa"
 ### References
 
 * [YouTube video](https://www.youtube.com/watch?v=DOAeXjrpmlg)
-* [Video: PpW's Michael HT confirming he was Jeff](https://www.youtube.com/live/VlBjnWJRarE?si=LBRL38AjOmYrxW80&t=188) (at the 3:08 mark)
+* [Video: PpW's Michael HT confirming he was Jeff](https://www.youtube.com/live/VlBjnWJRarE?si=LBRL38AjOmYrxW80&t=188) (in Polish; at the 3:08 mark)
 * [PpW-Wiki page](http://ppw-fandom.tpwres.pl/ppw-kiedys-bedzie-lepiej-2019)
