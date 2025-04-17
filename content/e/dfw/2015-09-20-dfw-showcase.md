@@ -36,6 +36,6 @@ Audience: estimated 50
 
 ### References
 
-* [Facebook recap post from 2020](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0drttjram94XRGvm2Pvs11KUytPi5ckGJMk9GM82FpYKi8sEKRkCTxVi5P2fcyFbjl)
 * [YouTube recap video](https://www.youtube.com/watch?v=OVYowCuUQmE)
+* [Facebook recap post from 2020](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0drttjram94XRGvm2Pvs11KUytPi5ckGJMk9GM82FpYKi8sEKRkCTxVi5P2fcyFbjl)
 * [Facebook event](https://www.facebook.com/events/744573412315086/)
