@@ -55,7 +55,7 @@ After this defection from Greg, Chemik focused on defending his OldTown Champion
 
 On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at the [first Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md). The challenge was initially anwsered by [Sambor](@/w/sambor.md), but the guest host of the show - [Sinister](@/w/sinister.md) - added [Dziedzic](@/w/dziedzic.md) to the mix. Nevertheless, Chemik managed to emerge victorious and keep his title.
 
-At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened during Greg's entrance to his scheduled match against [Vic Golden](@/w/vic-golden.md). As he was attacking Greg, [Robert Star](@/w/robert-star.md) unexpectedly joined the mix. Acting Chairman [Wiktor Longman](@/w/wiktor-longman.md) then turned the match into a Tag Team Match of Chemik & Vic vs Greg & Star, which was won by the latter, as Chemik ran away from the ring during the finish.
+At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened during Greg's entrance to his scheduled match against [Vic Golden](@/w/vic-golden.md). As he was attacking Greg, [Robert Star](@/w/robert-star.md) unexpectedly entered the fray. Acting Chairman [Wiktor Longman](@/w/wiktor-longman.md) then turned the match into a Tag Team Match of Chemik & Vic vs Greg & Star, which was won by the latter team, as Chemik ran away from the ring during the finish.
 
 ## In wrestling
 
