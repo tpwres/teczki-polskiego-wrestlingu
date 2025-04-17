@@ -8,11 +8,15 @@
   <ul class="team-list">
     {% for page in section.pages %}
       <li>
-          <a href="{{ page.permalink }}">{{ page.title }}</a>
+        <span class="pwf">
+          <a class="nu name" href="{{ page.permalink }}">{{ page.title }}</a>
           {% set orgs = page.extra.orgs | default(value=[]) %}
-          {% for org in orgs %}
-            {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
-          {% endfor %}
+          <span class="ot">
+            {% for org in orgs %}
+              {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+            {% endfor %}
+          </span>
+        </span>
       </li>
     {% endfor %}
   </ul>
