@@ -1,4 +1,5 @@
 {% set org_styles = config.extra.org_styles %}
+<<<<<<< HEAD
 {% set careers = load_data(path="data/team_career_v2.json") %}
 {% set empty_obj = [] | group_by(attribute='0') %}
 {# {% set mycareer = careers | get(key=career_key, default=False) %} #}
@@ -17,6 +18,18 @@
     {% break %} {# No way to concat it yet. This is a problem for stables, where many pairs/teams may be considered to match. #}
   {% endif %}
 {% endfor %}
+=======
+{% set careers = load_data(path="data/career_v2.json") %}
+{% set empty_obj = [] | group_by(attribute='0') %}
+{% set career_key = "@/" ~ page.relative_path %}
+{% set mycareer = careers | get(key=career_key, default=False) %}
+{% if not mycareer %}
+  {% set career_key = page.title %}
+  {% set mycareer = careers | get(key=career_key, default=empty_obj) %}
+{% endif %}
+{# Used by matchlist #}
+{% set seed_name = page.title %}
+>>>>>>> 4e9648d6 (Add career section to team page)
 
 {% if mycareer %}
   <h3>Appearances per promotion and year</h3>
