@@ -47,7 +47,7 @@ There were a significant number of foreign talent at this event, including some 
 * About a week later [another video][rosetti-video], filmed by an unknown person, showed an angry Rosetti making a phone call to Greg, during which the two argued about the ownership of the [Old Town Championship](@/c/kpw-old-town-championship.md): Rosetti calling it his belt, and Greg firmly stating that it belongs to the Gregorian Branch. After a brief exchange Greg changed the subject, ordering Rosetti to cooperate with [Eryk Lesak](@/w/eryk-lesak.md) during the Magnificent Seven match, because all that matters is that the Championship contract goes to the Gregorian Branch. Greg then hung up, leaving the irritated Rosetti in mid-sentence.
 
 {% card() %}
-- - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
+- - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
   - 'The 87: Alexander Roth, Roy Johnson'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'

@@ -27,7 +27,7 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
   - '[Leon Lato](@/w/leon-lato.md)'
   - s: Three Way Match
 - - 'Gałąź Gregoriańska: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
-  - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
+  - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
 - d: Day 2
   date: 2022-07-31
 - - '[David Oliwa](@/w/david-oliwa.md)'

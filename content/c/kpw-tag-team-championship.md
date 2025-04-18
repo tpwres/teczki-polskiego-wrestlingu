@@ -60,7 +60,7 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
     ed: 2019-08-17
 - - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md)"
   - "Primate, Tommy Freeman"
-  - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
+  - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - s: Four-Way Elimination Match
     en: '[Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
@@ -78,13 +78,13 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 {% free_card() %}
 - - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md)"
   - "[Primate](@/w/primate.md), Tommy Freeman"
-  - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
+  - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - s: Four-Way Elimination Match
     en: '[Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
 - - "Die Ordnung: Hans Schulte, Veit Müller (c)"
-  - "The Fux Brothers: Filip Fux, Michał Fux"
+  - "Bracia Fux: Filip Fux, Michał Fux"
   - s: Tag Team Match
     en: '[KPW Arena 20: Świąteczna Awantura](@/e/kpw/2022-12-16-kpw-arena-20.md)'
     ed: 2022-12-16
@@ -93,7 +93,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag Team Match
     en: '[KPW Arena 21: Stara Szkoła](@/e/kpw/2023-02-24-kpw-arena-21.md)'
     ed: 2023-02-24
-- - "The Fux Brothers: Filip Fux, Michał Fux"
+- - "Bracia Fux: Filip Fux, Michał Fux"
   - "Die Ordnung: Hans Schulte, Veit Müller (c)"
   - s: Tag Team Match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
@@ -102,25 +102,25 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 
 **TOTAL:** 335 days.
 
-### Champions #4: The Fux Brothers: Filip Fux & Michał Fux
+### Champions #4: Bracia Fux: Filip Fux & Michał Fux
 
 {% free_card() %}
-- - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
+- - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)"
   - "Die Ordnung: [Hans Schulte](@/w/hans-schulte.md), [Veit Müller](@/w/veit-mueller.md) (c)"
   - s: Tag Team Match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
-- - "The Fux Brothers: Filip Fux, Michał Fux (c)"
+- - "Bracia Fux: Filip Fux, Michał Fux (c)"
   - "[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)"
   - s: Tag Team Match
     en: '[KPW Arena 24: Zagrożenie Lawinowe](@/e/kpw/2024-02-16-kpw-arena-24.md)'
     ed: 2024-02-16
-- - "The Fux Brothers: Filip Fux, Michał Fux (c)"
+- - "Bracia Fux: Filip Fux, Michał Fux (c)"
   - "The 87: Alexander Roth, Roy Johnson"
   - s: Tag-Team Match
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
-- - "The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md) (c)"
+- - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md) (c)"
   - "Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)"
   - s: Tag-Team Match
     en: '[Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)'

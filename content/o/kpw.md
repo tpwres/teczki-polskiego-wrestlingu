@@ -98,7 +98,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
   - >
     Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md)
 - - '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-  - 'The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
+  - 'Bracia Fux: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
   - >
     Defeated Die Ordnung ([Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)
 {% end %}
