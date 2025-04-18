@@ -11,45 +11,43 @@ from contextlib import contextmanager
 import yaml.parser
 from sys import exit, stderr
 
-person_link_re = re.compile(r'''
-    ^
-    \[ # Square brackets surround link text
-        (?: # Optional prefix
-          (?P<delim>[*_]) # begins with an underscore or asterisk
-          (?P<prefix>.*?) # followed by text
-          (?P=delim) # ends with the same delimiter character
-        )?
-        \s* # May be followed by whitespace
-        (?P<text>.*?)
-        (?:\(c\))? # May have a champion marker, which we do not capture
-        (?: # Optional suffix
-          (?P<sdelim>[*_]) # begins with an underscore or asterisk
-          (?P<suffix>.*?) # followed by text
-          (?P=sdelim) # ends with the same delimiter character
-        )?
-    \]
-    \( # Then, parentheses surround link target
-        (?P<target>.*?)
-    \)
+prefix_re = r'''
+    (?P<delim>[*_]) # begins with an underscore or asterisk
+    (?P<prefix>.*?) # followed by text
+    (?P=delim) # ends with the same delimiter character
+'''
+
+suffix_re = r'''
+    (?P<sdelim>[*_]) # begins with an underscore or asterisk
+    (?P<suffix>.*?) # followed by text
+    (?P=sdelim) # ends with the same delimiter character
+'''
+
+champion_marker = r'(?:\(c\))'
+
+link_label_re = rf'''
+    (?:{prefix_re})? # Optional prefix
+    \s* # May be followed by whitespace
+    (?P<text>.*?)
+    {champion_marker}? # May have a champion marker, which we do not capture
+    (?:{suffix_re})? # Optional suffix
+'''
+
+person_link_re = re.compile(rf'''
+    ^\s*
+    \[{link_label_re}\] # Square brackets surround link text
+    \((?P<target>.*?)\) # Then, parentheses surround link target
     (?:\(c\))? # The champion marker may also be outside
     \s* # Eat whitespace
     $
 ''', re.VERBOSE)
 
-person_plain_re = re.compile(r'''
+person_plain_re = re.compile(rf'''
     ^
-    (?: # Optional part
-        (?P<delim>[*_]) # begins with an underscore or asterisk
-        (?P<prefix>.*?) # followed by text
-        (?P=delim) # ends with the same delimiter character
-    )?
+    (?:{prefix_re})? # Optional prefix
     (?P<text>.*?)
-    (?:\(c\))? # Optional champion marker
-    (?: # Optional suffix
-        (?P<sdelim>[*_]) # begins with an underscore or asterisk
-        (?P<suffix>.*?) # followed by text
-        (?P=sdelim) # ends with the same delimiter character
-    )?
+    {champion_marker}? # Optional champion marker
+    (?:{suffix_re})? # Optional suffix
     \s* # Eat whitespace
     $
 ''', re.VERBOSE)
