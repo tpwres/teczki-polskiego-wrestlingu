@@ -223,6 +223,12 @@ class Match:
                 for name in members.all_names()
                 )
 
+    def all_teams_indexed(self):
+        return ((i, person_or_team)
+                for i, opponents in enumerate(self.opponents)
+                for person_or_team in opponents
+                if isinstance(person_or_team, Team))
+
     def winner(self) -> Iterable[Participant]:
         return self.opponents[0]
 
@@ -455,7 +461,7 @@ def names_in_match(mm: Match) -> set[Name]:
                if i + 1 not in exclude # exclude is 1-based
                and name) # Otherwise the type is set[Name|None]
 
-def teams_in_match(mm: Match) -> set[NamedTeam]:
+def teams_in_match(mm: Match) -> set[Team]:
     team_names = [entry
                   for opponent in mm.opponents
                   for entry in opponent
