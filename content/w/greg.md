@@ -47,7 +47,7 @@ At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) Greg betraye
 Following that incident, Greg anointed himself the Pope of Polish wrestling, Pijus I (roughly _Drinkus I_, but also a reference to Pius, a popular papal name).
 This has been his gimmick ever since. As Pope Pijus, his entrance routine has him enter dressed in long monasterial robes with a hood, and walk around the ring presenting a signet ring to fans, who are allowed to bow down and kiss it.
 Initially, he was also accompanied by [Chemik](@/w/chemik.md) who wore a surplice, as his junior priest or altar boy. Sometimes, during the match, Chemik would go around the ring, collecting donations into a wicker basket tray, mimicking a custom from a Catholic Mass.
-Greg also became the leader of a new heel faction named Gałąź Gregoriańska (_The Gregorian Branch_), which could be seen as the new version of Kawaleria. This faction also included Chemik, [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md).
+Greg also became the leader of a new heel faction named [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (_The Gregorian Branch_), which could be seen as the new version of Kawaleria. This faction also included Chemik, [Rosetti](@/w/rosetti.md) and [Eryk Lesak](@/w/eryk-lesak.md).
 
 At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeated David Oliwa to win the [KPW Championship](@/c/kpw-championship.md), vacated when [Robert Star](@/w/robert-star.md) left KPW to join [Prime Time Wrestling](@/o/ptw.md). Eleven months later he lost the title to [Red Scorpion](@/w/red-scorpion.md).
 
@@ -69,7 +69,7 @@ On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling
 * Tag Teams and stables:
   - Double G (2014)
   - Kawaleria (2015-2019)
-  - Gałąź Gregoriańska (2019-2024)
+  - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Year Zero" by Ghost
  {{ org_badge(orgs=['kpw', 'low']) }} (2019-2023; 2025) <br>
