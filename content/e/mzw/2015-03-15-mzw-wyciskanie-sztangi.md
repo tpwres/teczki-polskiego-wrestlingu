@@ -23,4 +23,5 @@ This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153091)
+* [Full show on YouTube](https://www.youtube.com/watch?v=6-XDRfmxiQs)
 * [Preshow and brief recap by WrestleFans](https://youtu.be/jyZe8EumyMM) (poor sound)

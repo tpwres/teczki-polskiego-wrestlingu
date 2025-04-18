@@ -43,5 +43,8 @@ source = "Showoff @ Twitter"
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153713)
+* [Full match: Asmund vs Skull Evil](https://www.youtube.com/watch?v=omaD5hZAhs0)
 * [Full match: Zbójnicy vs Kripto & Red Thunder](https://youtu.be/DEkQgT53Nnc)
+* [Full match: Shadow vs Justin Joy](https://www.youtube.com/watch?v=nptlBizGmwo)
+* [Highlights video](https://www.youtube.com/watch?v=HgremqvEFVo)
 * [WrestleFans video coverage](https://youtu.be/4LgYjxWLvFs)
