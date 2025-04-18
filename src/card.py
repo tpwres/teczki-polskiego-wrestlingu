@@ -175,18 +175,6 @@ class Match:
     options: dict
     date: Optional[datetime.date]
 
-    tag_team_re = re.compile(r'''
-        ^
-         (?:
-           (?P<team>[-'\w\s]+) # Team name followed by a colon
-           (?:\s*\(c\))? # Optional champion marker
-           : # Followed by a colon
-         )? # All optional
-         \s* # Eat whitespace
-         (?P<people>.+) # Followed by list of participants
-         \s* # Eat trailing space
-        ''', re.VERBOSE)
-
     def __init__(self, match_row: list[str|dict], index: int, date: Optional[datetime.date]):
         self.line = match_row # Store original row
         self.index = index
@@ -245,6 +233,27 @@ class Match:
 
     def parse_partners(self, partners: list[str]) -> Iterable[Union[Participant, Team]]:
         return [t for p in partners if (t := self.parse_maybe_team(p))]
+
+    plain_name_re = r"[-'\w\s]+"
+    team_link_re = rf'''
+        \[(?P<label>{plain_name_re})\] # Square brackets surround link text
+        \((?P<target>.*?)\) # Then, parentheses surround link target
+        (?:\(c\))? # The champion marker
+    '''
+
+    team_name_re = rf'(?P<link>{team_link_re})|(?P<plain>{plain_name_re})'
+
+    tag_team_re = re.compile(rf'''
+        ^
+         (?P<team>
+           (?:{team_name_re}) # Team name or a link
+           (?:\s*\(c\))? # Optional champion marker
+           : # Followed by a colon
+         )? # All optional
+         \s* # Eat whitespace
+         (?P<people>.+) # Followed by list of participants
+         \s* # Eat trailing space
+        ''', re.VERBOSE)
 
     def parse_maybe_team(self, text: str) -> Optional[Union[Participant, Team]]:
         match Match.tag_team_re.match(text):
