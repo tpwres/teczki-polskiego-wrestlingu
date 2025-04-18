@@ -157,11 +157,7 @@ def main():
         print("Saving career v2 to %s" % f.name)
         json.dump(careers_by_file, f, cls=RichEncoder)
 
-    with (data_dir / 'team_career.json').open('w') as f:
-        print("Saving team career to %s" % f.name)
-        json.dump(team_careers, f, cls=RichEncoder)
-
-    with (data_dir / 'team_career_v2.json').open('w') as f:
+    with (data_dir / 'team_careers.json').open('w') as f:
         print("Saving team career v2 to %s" % f.name)
         json.dump(team_cbf, f, cls=RichEncoder)
 
