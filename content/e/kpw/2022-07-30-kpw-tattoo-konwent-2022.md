@@ -26,7 +26,7 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
   - '[Darius](@/w/darius.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - s: Three Way Match
-- - '[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
+- - 'Gałąź Gregoriańska: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
   - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
 - d: Day 2
   date: 2022-07-31
@@ -39,7 +39,7 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
 - - '[Filip Fux](@/w/filip-fux.md)'
   - 'Steinbolt'
 - - '[Darius](@/w/darius.md), [Zefir](@/w/zefir.md)'
-  - '[Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
+  - 'Gałąź Gregoriańska: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
   - s: Tag Team Match
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
