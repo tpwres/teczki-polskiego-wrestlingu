@@ -64,7 +64,8 @@ Several international wrestlers debuted for PpW at this event, most of them from
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383968)
-* [Facebook event](https://www.facebook.com/events/1117782402125287/)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-2-22-definitive-edition-hd) (requires paid subscription)
+* [Full show on YouTube](https://www.youtube.com/watch?v=sU2hHukUCn0) (set to private as of April 2025)
+* [Facebook event](https://www.facebook.com/events/1117782402125287/)
 * [WrestleMap's article](https://www.wrestlemap.com/news/p1e7040pmjt9uwctkin6cod0xwqj1k) covering the ultraviolent match
 * [WrestleMap's article](https://www.wrestlemap.com/news/mxrf1jwfu9v4hp21pmf7ws40yb76qk) announcing the event

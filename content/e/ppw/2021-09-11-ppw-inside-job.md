@@ -41,8 +41,8 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=384409)
-* [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
-* [Full show on YouTube](https://www.youtube.com/watch?v=_PXqj9uuZLg) (set to private as of January 2025)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/inside-job-fullshow-dvd-hd) (requires paid subscription)
+* [Full show on YouTube](https://www.youtube.com/watch?v=_PXqj9uuZLg) (set to private as of January 2025)
+* [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
 * [Facebook event page](https://www.facebook.com/events/548066229675271/)
 * [WrestleMap's article](https://www.wrestlemap.com/news/7oo8taw1btavbz38pvzubzazrvz6re)

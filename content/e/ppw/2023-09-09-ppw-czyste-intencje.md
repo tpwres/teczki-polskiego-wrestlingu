@@ -30,4 +30,4 @@ source = "Official PpW Facebook"
 
 ### References
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=382968)
-* [Full event on YouTube](https://www.youtube.com/watch?v=jG6U4LfnJuk)
+* [Full show on YouTube](https://www.youtube.com/watch?v=jG6U4LfnJuk)
