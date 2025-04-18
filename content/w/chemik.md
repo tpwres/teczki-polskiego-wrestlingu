@@ -64,7 +64,7 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened durin
  
 * Tag Teams and stables:
   - Kawaleria (2018-2019)
-  - Gałąź Gregoriańska (2022-2024)
+  - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 
 * Entrance music:
   - "Yekteniya I" by Batushka
