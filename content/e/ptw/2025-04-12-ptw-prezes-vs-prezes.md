@@ -60,9 +60,9 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 
 ## References
 * [Conte's CageMatch profile](https://www.cagematch.net/?id=2&nr=31103&page=20)
-* [Italian referee's Instagram profile](https://www.instagram.com/refspeck/)
+* [Full show on YouTube](https://www.youtube.com/watch?v=ClI5xGRxnhg&t=8567s) (requires paid subscription)
 * [Video: Chairmen's live confrontation](https://www.youtube.com/watch?v=Mm8MzWkLXxo&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
-* [Full show on YouTube](https://www.youtube.com/watch?v=ClI5xGRxnhg&t=8567s&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
+* [Italian referee's Instagram profile](https://www.instagram.com/refspeck/)
 
 [more_italians_incoming]: https://www.instagram.com/conte_mcstevenson/
 [bestia-pas]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0cdaa3Du3xhaYq5K4RrE6tCWUsoE8N4jXBWkQ7nqWauET3VXtLLB5pUa7s68YM8j9l

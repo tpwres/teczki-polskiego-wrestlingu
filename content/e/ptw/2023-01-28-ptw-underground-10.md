@@ -35,5 +35,5 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=358861)
-* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid08Gs77Wt8KX58vvcxK8cF36ChUbrHHQtM8qhGhmWTcqhnjDe6XcsN1hq48RKQpaiAl)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-10/2pcem/), requires paid subscription
+* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid08Gs77Wt8KX58vvcxK8cF36ChUbrHHQtM8qhGhmWTcqhnjDe6XcsN1hq48RKQpaiAl)

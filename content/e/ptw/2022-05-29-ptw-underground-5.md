@@ -29,5 +29,5 @@ The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Perfor
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=339570)
-* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02se5jtQZbrEPbqbKyMS1MYVpjMMfaBvBGZapxEywfiWLj3ACbNfCKCCA7v73MsdAyl)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-5-pl/2pbcq/), requires paid subscription
+* [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02se5jtQZbrEPbqbKyMS1MYVpjMMfaBvBGZapxEywfiWLj3ACbNfCKCCA7v73MsdAyl)

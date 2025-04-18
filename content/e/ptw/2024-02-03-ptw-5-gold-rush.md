@@ -155,7 +155,7 @@ Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another c
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=387058)
+* [Full event on Fite/Triller](https://www.trillertv.com/watch/ptw-gold-rush-pl/2pehz/), requires paid subscription
 * [Facebook event page](https://www.facebook.com/events/3371743163122883/)
-* [Watch on Fite/Triller](https://www.trillertv.com/watch/ptw-gold-rush-pl/2pehz/), requires paid subscription
 
 [sydal-facebook-video]: https://www.facebook.com/watch/?v=783495120471108
