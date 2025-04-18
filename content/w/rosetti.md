@@ -40,7 +40,7 @@ Rosetti later teamed up with [Sawicki](@/w/sawicki.md), while at the same time j
 
 #### Joining Gałąź Gregoriańska and KPW OldTown Champion
 
-Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he was supposed to pair up with [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 18](2022-03-18-kpw-arena-18.md), however he was late for the event and missed his fight. Soon after that he would join Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md), and at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) he won the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) by defeating David Oliwa in a less-than-savoury manner. This victory was followed by defending against a number of strong international opponents, such as Flexos, Ludy Lohan or Zak Knight. Rosetti's streak as a champion abruptly ended at [Arena 25](2024-05-17-kpw-arena-25.md) when [Chemik](@/w/chemik.md), a fellow Gregorian Branch member, backstabbed Rosetti and claimed the OldTown title for himself. This situation resulted in Rosetti eventually turning on Greg and ending the Gregorian Branch at the next [Godzina Zero](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md).
+Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he was supposed to pair up with [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 18](2022-03-18-kpw-arena-18.md), however he was late for the event and missed his fight. Soon after that he would join [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md), and at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) he won the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) by defeating David Oliwa in a less-than-savoury manner. This victory was followed by defending against a number of strong international opponents, such as Flexos, Ludy Lohan or Zak Knight. Rosetti's streak as a champion abruptly ended at [Arena 25](2024-05-17-kpw-arena-25.md) when [Chemik](@/w/chemik.md), a fellow Gregorian Branch member, backstabbed Rosetti and claimed the OldTown title for himself. This situation resulted in Rosetti eventually turning on Greg and ending the Gregorian Branch at the next [Godzina Zero](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md).
 
 #### Acting chairman of KPW
 
@@ -55,7 +55,7 @@ Rosetti is one of the most experienced [KPW](@/o/kpw.md) wrestlers still on the 
 * Tag Teams and stables:
   - Sawicki & Rosetti (2017-2020)
   - Kawaleria (2018-2019)
-  - Gałaź Gregoriańska (2022-2024)
+  - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Pieceful" by The World I Know
  {{ org_badge(orgs=['kpw']) }} (2017-2020; 2023-), in tag team with [Sawicki](@/w/sawicki.md) and later solo) <br>

@@ -40,14 +40,15 @@ Initially starting with a losing streak, at [Arena 17](2021-08-21-kpw-arena-17.m
 The first one came at the [next event](@/e/kpw/2022-03-18-kpw-arena-18.md), but he wouldn't fulfil his vows until [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md) more than a year later.
 This led to another change in his persona, dropping the altar boy routine completely, and becoming more brash, cocky and outspoken. His ring gear clearly references that period, with a chalice and host displayed on his chest.
 
-At [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md), [Eryk Lesak](@/w/eryk-lesak.md) and [Rosetti](@/w/rosetti.md) joined Greg and Chemik, forming KPW's new major heel stable, called Gałąź Gregoriańska (_The Gregorian Branch_).
-Lesak also formed a tag team with Chemik, initially losing to the Fux Brothers at [KPW @ Pyrkon 2022](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), and later feuding with them for the [Tag Team Championship](@/c/kpw-tag-team-championship.md). At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti in a Fatal Four Way Match, becoming the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).
+At [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md), [Eryk Lesak](@/w/eryk-lesak.md) and [Rosetti](@/w/rosetti.md) joined Greg and Chemik, forming KPW's new major heel stable, called [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (_The Gregorian Branch_).
+Lesak also formed a tag team with Chemik, initially losing to the Fux Brothers at [KPW @ Pyrkon 2022](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), and later feuding with them for the [Tag Team Championship](@/c/kpw-tag-team-championship.md).
+At [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) Chemik defeated Rosetti in a Fatal Four Way Match, becoming the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).
 
 #### End of The Gregorian Branch
 
 At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost his match against [Ron Corvus](@/w/ron-corvus.md). After the match, he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the KPW Old Town Championship to Chemik at Arena 25. A few moments later, Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch. With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but now, after his losing streak, he was no longer worth following.
 
-#### Singles competiton
+#### Singles competition
 
 After this defection from Greg, Chemik focused on defending his OldTown Championship. He defeated Michael Schenkenberg at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), but after his victory he was confronted by [Filip Fux](@/w/filip-fux.md), which led to their Street Fight at [the next show](@/e/kpw/2025-04-11-kpw-arena-28.md). Chemik managed to emerge victorious from that bout.
 
@@ -61,10 +62,10 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened durin
 
 * Finishers:
   - _Ostatnie Namaszczenie_ (Swinging Reverse STO) (2018-)
- 
+
 * Tag Teams and stables:
   - Kawaleria (2018-2019)
-  - Gałąź Gregoriańska (2019-2024)
+  - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 
 * Entrance music:
   - "Yekteniya I" by Batushka
