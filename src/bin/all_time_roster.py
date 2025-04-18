@@ -22,7 +22,8 @@ def main():
     alias_map = json.load(Path('data/aliases.json').open())
     extra_aliases = load_extra_aliases()
 
-    lookup_flag = lambda name_or_page: lookup_flag_or_emoji(name_or_page, name_to_flag, flags, emojis)
+    def lookup_flag(name_or_page):
+        return lookup_flag_or_emoji(name_or_page, name_to_flag, flags, emojis)
 
     every_talent_name = set(careers.keys()) | set(alias_map.keys())
     # Now, remove all names that are present in the extra_aliases map, as main or alias names
@@ -31,7 +32,9 @@ def main():
         every_talent_name -= aliases
 
     all_names = set()
-    sort_key = lambda text: unidecode(make_sort_key(text))
+    def sort_key(text):
+        return unidecode(make_sort_key(text))
+
     for name in every_talent_name:
         path = alias_map.get(name)
 
