@@ -1,5 +1,5 @@
 {% set org_styles = config.extra.org_styles %}
-{% set careers = load_data(path="data/career_v2.json") %}
+{% set careers = load_data(path="data/team_career_v2.json") %}
 {% set empty_obj = [] | group_by(attribute='0') %}
 {# {% set mycareer = careers | get(key=career_key, default=False) %} #}
 {% set pagelink = "@/" ~ page.relative_path %}

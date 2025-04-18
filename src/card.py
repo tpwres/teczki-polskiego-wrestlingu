@@ -103,7 +103,7 @@ class Name:
             link = PurePath(self.link)
             return link.stem
         else:
-            return self.name.lower().replace(' ', '-')
+            return self.name.strip().lower().replace(' ', '-')
 
 class Participant:
     # Abstract
