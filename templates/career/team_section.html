@@ -1,35 +1,27 @@
 {% set org_styles = config.extra.org_styles %}
-<<<<<<< HEAD
 {% set careers = load_data(path="data/team_career_v2.json") %}
 {% set empty_obj = [] | group_by(attribute='0') %}
-{# {% set mycareer = careers | get(key=career_key, default=False) %} #}
+{# Career entries will be looked up by zola link first, then by team name #}
+{# If needed, [extra] can contain team_career_keys with additional identifiers. #}
+{# This is useful for unnamed teams, by using a key which is built from the member's names #}
 {% set pagelink = "@/" ~ page.relative_path %}
 {% set career_lookup_keys = [pagelink, page.title] %}
 {% if page.extra.team_career_keys %}
   {% set career_lookup_keys = career_lookup_keys | concat(with=page.extra.team_career_keys) %}
 {% endif %}
+
 {% set mycareer = [] %}
+{# Use the first career key that returns some results. #}
+{# Ideally, we may need to list more and combine the lookups. However, for named teams this is not an issue. #}
 {% for key in career_lookup_keys %}
   {% set career_lookup = careers | get(key=key, default=False) %}
   {% if not career_lookup %}
     {% continue %}
   {% else %}
     {% set_global mycareer = career_lookup %}
-    {% break %} {# No way to concat it yet. This is a problem for stables, where many pairs/teams may be considered to match. #}
+    {% break %}
   {% endif %}
 {% endfor %}
-=======
-{% set careers = load_data(path="data/career_v2.json") %}
-{% set empty_obj = [] | group_by(attribute='0') %}
-{% set career_key = "@/" ~ page.relative_path %}
-{% set mycareer = careers | get(key=career_key, default=False) %}
-{% if not mycareer %}
-  {% set career_key = page.title %}
-  {% set mycareer = careers | get(key=career_key, default=empty_obj) %}
-{% endif %}
-{# Used by matchlist #}
-{% set seed_name = page.title %}
->>>>>>> 4e9648d6 (Add career section to team page)
 
 {% if mycareer %}
   <h3>Appearances per promotion and year</h3>
