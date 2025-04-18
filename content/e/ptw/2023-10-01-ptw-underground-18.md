@@ -42,6 +42,6 @@ city = "Chorzów"
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365972)
-* [Facebook post with results](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0EVFXQZGnWGxD3T8mMSzGaqaXFneVnpWuTC1JkeDY7Hk7nSGcg3ohVGR2A1csDPHfl)
 * [Full event on YouTube](https://www.youtube.com/watch?v=7DCe7kcCKJQ), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-underground-18/2pdq4//), requires paid subscription
+* [Facebook post with results](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0EVFXQZGnWGxD3T8mMSzGaqaXFneVnpWuTC1JkeDY7Hk7nSGcg3ohVGR2A1csDPHfl)

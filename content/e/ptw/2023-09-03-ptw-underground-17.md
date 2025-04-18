@@ -44,8 +44,8 @@ The Underground Street Fight match set the record of the longest match in PTW hi
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365971)
-* [Facebook post confirming the record match duration](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0xpBiuZbjAbaBX1ryEpSXgTMa4EaMsgxJiyzCARq6D51ec5C9FRgiCrs3UYS6i7bBl)
-* [Official Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0PetNLNxmekrXTcfY5s2mEMb7eL21UpinvtMyBzcQajZCP2BB5EBJvBMFQKG5JyVkl)
 * [Full event on YouTube](https://www.youtube.com/watch?v=rzPx_GS5NeQ&t=9458s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-underground-17/2pdlp/), requires paid subscription
+* [Facebook post confirming the record match duration](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0xpBiuZbjAbaBX1ryEpSXgTMa4EaMsgxJiyzCARq6D51ec5C9FRgiCrs3UYS6i7bBl)
+* [Official Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0PetNLNxmekrXTcfY5s2mEMb7eL21UpinvtMyBzcQajZCP2BB5EBJvBMFQKG5JyVkl)
 * [Facebook post announcing Diana as guest commentator](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02aZedhtGzsTpd3QhX6rtq7Qs79V62wdvcXT4EB1eKB7TBdwzSv9AQNBi2KW4xs2X4l)
