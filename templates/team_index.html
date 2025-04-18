@@ -4,6 +4,10 @@
 {% block content %}
   <h1>{{ section.title }}</h1>
 
+  {{ section.content | safe }}
+
+  <h2>List</h2>
+
   {# TODO: Style as two-column list similar to talent list #}
   <ul class="team-list">
     {% for page in section.pages %}
