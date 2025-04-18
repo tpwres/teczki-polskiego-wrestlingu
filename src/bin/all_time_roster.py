@@ -15,6 +15,7 @@ MakeKeyFn = Callable[[str], str]
 def main():
     content_path = Path.cwd() / 'content'
 
+    # TODO: Replace with career_v2 and stop building the old file.
     careers = json.load(Path('data/career.json').open())
     name_to_flag = yaml.safe_load(Path('const/name-to-flag.yaml').open())
     flags = json.load(Path('const/flags-by-code.json').open())
