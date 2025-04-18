@@ -121,21 +121,21 @@ class Team(Participant):
 
 class NamedTeam(Team):
     members: list
-    # TODO: Parse link
     link: Optional[str] = None
 
-    def __init__(self, team_name, members):
-        self.team_name = team_name
+    def __init__(self, team_name, members, link=None):
+        self.team_name = team_name.strip()
         self.members = members
+        self.link = link
 
     def __repr__(self) -> str:
-        return f"NamedTeam(n={self.team_name} m={self.members!r})"
+        return f"NamedTeam(n={self.team_name} m={self.members!r} l={self.link})"
 
     def build_keys(self):
         # Named teams are identified by name or link.
         keys = [self.team_name]
         if self.link:
-            keys.append(self.link)
+            keys.insert(0, self.link)
 
         return keys
 
