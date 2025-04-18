@@ -45,9 +45,9 @@ Attendance: estimated 200.
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=77904)
+* [Kombat TV Episode 7](https://www.youtube.com/watch?v=FlDqS77ltZQ), includes fragments of matches
 * [Teaser video by KPW](https://www.youtube.com/watch?v=JS6Q792lg7M)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown/)
-* [Kombat TV Episode 7](https://www.youtube.com/watch?v=FlDqS77ltZQ), includes fragments of matches
 
 [oldtown]: https://oldtownfestival.net/
 [airfield-wiki]: https://en.wikipedia.org/wiki/Kluczewo_Airfield

@@ -22,4 +22,5 @@ city = "Niedźwiedzica"
 {% end %}
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=112870)
-* [YouTube video](https://www.youtube.com/watch?v=TtRHwYXVLB0)
+* [Full show on YouTube (with commentary)](https://www.youtube.com/watch?v=TtRHwYXVLB0)
+* [Full show on YouTube (no commentary)](https://www.youtube.com/watch?v=_vzD6kYaNUk)

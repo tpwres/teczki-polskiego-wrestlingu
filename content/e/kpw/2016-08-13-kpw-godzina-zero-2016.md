@@ -8,6 +8,7 @@ venue=["gdynia-sports-center"]
 city = "Gdynia"
 [extra.gallery]
 1 = { path = "2016-08-13-kpw-godzina-zero-2016-plakat.jpg", caption = "Official poster, showing [Kamil Aleksander](@/w/kamil-aleksander.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Bianca](@/w/bianca.md), [Ron Corvus](@/w/ron-corvus.md), [Damian Lambert](@/w/damien-rothschild.md) and Jon Ryan.", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "kid.webp", caption = "[Robert Star](@/w/robert-star.md) gives his glasses to a young fan. To the right sits young Chemik.", source = "Official KPW YouTube" }
 +++
 
 Godzina Zero (_Zero Hour_) is KPW's biggest event each year. Always held in August, and usually on the second Saturday (later Friday) of that month. KPW usually also holds their training camp just before that date. The first event was held in 2016, but the 2020 and 2021 editions were cancelled due to the COVID-19 pandemic.
@@ -49,10 +50,12 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 * Kawaler enters the ring with his entire stable Kawaleria (_The Cavalry_) dressed in dark robes and holding flaming torches.
 * After [Kamil Aleksander](@/w/kamil-aleksander.md) scored the second pin to even the score, Kawaleria tried to interfere, but [Kaszub](@/w/kaszub.md) and [Robert Star](@/w/robert-star.md) came into the ring and stopped them.
 * Then [Rosetti](@/w/rosetti.md) and [Sawicki](@/w/sawicki.md) arrived to even the odds. The rest of the locker room followed, and a huge brawl broke out. Referee unsuccessfully tried to throw them out, later threatening to stop the match, and to disqualify Kawaler.
+* After Robert Star lost to Jon Ryan, a young child in the audience was visibly upset. The crowd started chanting "Pociesz dziecko!" (_Comfort the child!_), prompting Star to give the boy his aviator glasses. (Sitting in front of the boy is young [Chemik](@/w/chemik.md), who would join the KPW school around a year later.)
 
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=161729)
-* [KPW Kombat TV #8](https://www.youtube.com/watch?v=sFsT2ZRhugw), with a hour-long recap of all matches
+* [KPW Kombat TV #8](https://www.youtube.com/watch?v=sFsT2ZRhugw), with an hour-long recap of all matches
+* [Video: Youngest KPW fan](https://www.youtube.com/watch?v=wmAyKa51clM)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2016/)
 * [Facebook event page](https://www.facebook.com/events/1649173802070000/)

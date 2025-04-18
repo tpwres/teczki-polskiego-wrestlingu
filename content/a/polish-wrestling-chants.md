@@ -60,6 +60,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
+* _Reparacje_ - "Reparations": aimed at German heels, referring to [World War II reparations][reparacje]. \
+  {% ipa(tts="Reparacje") %}rˌɛparˈat͡sjɛ{% end %}
 
 ## Referee
 
@@ -94,6 +96,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Pan kiedyś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by the Polish Pope John Paul&nbsp;II. Fans may start to randomly sing it at 21:37 (9:37&nbsp;PM), the exact hour of his death. It is not in the Pope's memory, however, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
   Sometimes also sang for [Greg](@/w/greg.md) of [Kombat Pro Wrestling](@/o/kpw.md) in his Pope of Polish Wrestling gimmick - which he seemed to enjoy.
 * _Mam tak samo jak ty_: [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI) by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin.
+* _Nie rzucim ziemi skąd nasz ród_: [Rota][rota], a 1908 patriotic poem by Maria Konopnicka. Sometimes heard in matches involving German heels.
 
 ## Wrestler-specific
 
@@ -121,3 +124,5 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️️
 
 [wyp3]: https://www.youtube.com/watch?v=7dphuF6RHMw
+[reparacje]: https://en.wikipedia.org/wiki/World_War_II_reparations#Poland
+[rota]: https://en.wikipedia.org/wiki/Rota_(poem)

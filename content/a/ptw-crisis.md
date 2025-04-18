@@ -1,7 +1,7 @@
 +++
 title = "PTW's 2024 Crisis"
 template = "article.html"
-weight = 7
+weight = 0
 authors = ["Szymon Iwulski"]
 +++
 

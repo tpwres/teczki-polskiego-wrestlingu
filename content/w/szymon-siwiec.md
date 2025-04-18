@@ -37,7 +37,7 @@ Finally, Szymon made his last appearance for Maniac Zone Wrestling at [Champions
 
 In early 2013, a popular Polish hip-hop artist O.S.T.R. released a music video for his song "Czas Dużych Przemian" (_The Time of Great Changes_) featuring PXW wrestlers, with Mr. Fitness being one of them.
 
-Szymon is also the main character of a short documentary titled [Amerykański Sen](@/a/american-dream.md) (_American Dream_), which focuses on his training to become a wrestler, overcoming stage fright and connecting with the audience.
+Szymon is also the main character of a short documentary titled [Amerykański Sen](@/a/amerykanski-sen.md) (_American Dream_), which focuses on his training to become a wrestler, overcoming stage fright and connecting with the audience.
 
 
 ## In wrestling

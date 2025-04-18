@@ -30,7 +30,7 @@ The show featured two fights. The first one was a singles match between the two 
 
 ## References
 
-* [Facebook post](https://www.facebook.com/minecitywrestling/posts/pfbid036Ts8szvAz5DxV4KTgXE6VHe6rZLRts9ga6g961GMCo867ro7JtFiejTgiHSU2tfcl)
-* [Photos: Chris Steeler vs Sigurd](https://www.facebook.com/minecitywrestling/posts/pfbid0v9x6W2MZuPGAiNHsz4joMKgieNuj9qynPEdA3C2zGqWbcWcLx6bu7PJs2uF9GzNVl)
 * [Video: Chris Steeler vs Sigurd](https://www.youtube.com/watch?v=4o31Ix1s7Xo)
 * [Video: RAV vs Johny Vegas](https://www.youtube.com/watch?v=fLphTfm97j8)
+* [Facebook post](https://www.facebook.com/minecitywrestling/posts/pfbid036Ts8szvAz5DxV4KTgXE6VHe6rZLRts9ga6g961GMCo867ro7JtFiejTgiHSU2tfcl)
+* [Photos: Chris Steeler vs Sigurd](https://www.facebook.com/minecitywrestling/posts/pfbid0v9x6W2MZuPGAiNHsz4joMKgieNuj9qynPEdA3C2zGqWbcWcLx6bu7PJs2uF9GzNVl)

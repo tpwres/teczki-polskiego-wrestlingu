@@ -1,6 +1,7 @@
 +++
 title = "Wrestling on Polish TV"
 template = "article.html"
+aliases = ["/a/tv"]
 weight = 0
 authors = ["Krzysztof Zych"]
 [extra.gallery.1]

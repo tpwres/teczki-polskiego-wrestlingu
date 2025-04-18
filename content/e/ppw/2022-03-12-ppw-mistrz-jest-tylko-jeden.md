@@ -42,3 +42,4 @@ source = "Official PpW Facebook"
 * [Facebook event page](https://www.facebook.com/events/469423497960404)
 * [WrestleMap's article, in English](https://www.wrestlemap.com/news/1drguugh9ebvne7mytbnm3sez4nga9)
 * [Video: Full event on YouTube](https://www.youtube.com/watch?v=tN_R7MRMeys)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/mistrz-jest-tylko-jeden-22-full-show) (requires paid subscription)

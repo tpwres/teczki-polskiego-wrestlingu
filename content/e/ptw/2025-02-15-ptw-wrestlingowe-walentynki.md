@@ -81,6 +81,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=419471)
+* [Full show on YouTube](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1344s), requires paid subscription
 * [PTW Tag Titles defense - Bestya Rumble show](https://www.instagram.com/p/DFLfyIjteNQ/_)
 * [PTW Tag Titles defense - Wrestlingowe Walentynki](https://www.facebook.com/photo/?fbid=659585686394077&set=pb.100070279538143.-2207520000)
 * [PTW Underground Championship - first quarter-final announced](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid024WCNZgW3HaWL3nbKhqS7joP6HitFMnNGQee4QCwzNdB6NpPnhFDKtvYgSFtukcoNl)
@@ -90,4 +91,3 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 * [Event page - Facebook](https://www.facebook.com/events/494413280349578/?acontext=%7B%22event_action_history%22%3A[]%7D)
 * [PTW WWA TAG Team Championship - Cagematch](https://www.cagematch.net/?id=5&nr=6593_)
 * [Ken Pyro - Cagematch](https://www.cagematch.net/?id=2&nr=24006)
-* [Full show on YouTube - requires paid subscription](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1344s&ab_channel=PTW-PrimeTimeWrestling)

@@ -1,10 +1,13 @@
 +++
-title = "The Greens"
+title = "Zieloni"
 weight = 0
+template = "article.html"
+aliases = ["/a/the-greens"]
 authors = ["Sewi The Referee"]
 +++
 
 "Zieloni" (_The Greens_), is a the name for a group of Polish wrestlers, who were originally connected to [MZW](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
+
 <!-- more -->
 
 However, not all MZW wrestlers are Greens. The group was started by wrestlers who joined in 2017/2018, and created a strongly bonded social group, connected by their wrestling endeavors.
@@ -13,7 +16,7 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 ## Members
 
 * [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
+* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }} (inactive)
 * [Referee Sewi](@/w/sedzia-seweryn.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * [Olgierd](@/w/olgierd.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}

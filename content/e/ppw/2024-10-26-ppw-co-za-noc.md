@@ -229,3 +229,4 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
 * [Official Facebook post announding the location](https://www.facebook.com/OficjalnePPW/posts/pfbid0BTS8Qhe1s49J1sK748TSsTLHGAjq2ErggutZWuAt4d9xEhGctnXdjkN3QstarjFUl)
 * [Video: official live stream of the event](https://www.youtube.com/watch?v=zlkssoMxSaE)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/co-za-noc-24-definitive-edition) (requires paid subscription)

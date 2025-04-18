@@ -73,5 +73,5 @@ Greg \
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=129059)
-* [Vttitude's video](https://www.youtube.com/watch?v=s0qnr_fL1xI)
 * [Full Match: Kasandra vs Mira](https://www.youtube.com/watch?v=XCgBTAGddOg)
+* [Vttitude's video](https://www.youtube.com/watch?v=s0qnr_fL1xI)

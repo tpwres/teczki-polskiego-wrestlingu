@@ -101,8 +101,8 @@ referee Artur Dzwończak \
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=129059)
-* [Mywrestling's article](https://mywrestling.com.pl/historia-polskiego-wrestlingu-6-pierwsza-biletowana-gala-mzw-powstanie-kpw-obecna-sytuacja/) (in Polish), discusses the final days of DDW.
-* [Facebook event page](https://www.facebook.com/events/754910457961178)
 * [DDW's highlights video](https://www.youtube.com/watch?v=V0hXeu1SsPg)
 * [A short video from the Battle Royal](https://www.youtube.com/watch?v=RKCL1Drj4YQ)
+* [Mywrestling's article](https://mywrestling.com.pl/historia-polskiego-wrestlingu-6-pierwsza-biletowana-gala-mzw-powstanie-kpw-obecna-sytuacja/) (in Polish), discusses the final days of DDW.
+* [Facebook event page](https://www.facebook.com/events/754910457961178)
 * [G.R.E.G.'s rap promo](https://www.youtube.com/watch?v=P7m2nsHC6eA)

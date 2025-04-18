@@ -51,7 +51,7 @@ Shadow's second reign as MZW Champion ended when he was defeated by [Damien Rots
 
 Following the [PAW](@/o/paw.md) summer camp of 2019 and [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), Asmund and Justin vacated their positions as members of MZW's board, leaving Shadow as the sole owner of MZW and PAW.
 
-Due to COVID-19 restrictions, MZW was forced to temporarily halt their operations. However, during this break, Shadow decided to produce taped events held in the [Ostrowskiego](@/v/ostrowskiego-wroclaw.md) venue, known as [MZW Project Basement](@/e/project-basement.md). He also dealt with the "Green Revolution" - a significant loss of talent due to personal and managerial conflicts with members of ["The Greens"](@/a/the-greens.md).
+Due to COVID-19 restrictions, MZW was forced to temporarily halt their operations. However, during this break, Shadow decided to produce taped events held in the [Ostrowskiego](@/v/ostrowskiego-wroclaw.md) venue, known as [MZW Project Basement](@/e/project-basement.md). He also dealt with the "Green Revolution" - a significant loss of talent due to personal and managerial conflicts with members of ["The Greens"](@/a/zieloni.md).
 
 After the COVID pandemic, Shadow continued to run Maniac Zone Wrestling events as both the promoter and an in-ring performer, albeit with a rather irregular schedule. He also continued as the head coach of PAW, which moved operations to Kępno.
 

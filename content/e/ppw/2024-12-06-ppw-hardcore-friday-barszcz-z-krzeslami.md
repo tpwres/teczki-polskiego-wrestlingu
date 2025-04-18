@@ -115,7 +115,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Gustav shows off his viciousness by kicking off from said Splash and transforming that into his own attack. After that he visibly plays with the beaten up Blade, breaking his own pinfalls just to mock his opponent. After he's done with that he treats Johnny with a Ripcord Lariat to finish the match.
 * Winner: Gustav Gryffin by pinfall.
 * After the match Gustav continues his beatdown on Blade and tries to hit him with a Piledriver onto his Championship belt laying in the ring. He is however interrupted by his next opponent, Gabriel Queen, who makes a save.
-* Gabriel Queen puts on a pink glove and sticks his thumb into Gustav's anus - making a reference to a fellow [Greens](@/a/the-greens.md) member [Boro](@/w/boro.md), who did such a move as Lady Killer. After that he takes the PpW Championship from Referee Seweryn to celebrate with it, hyping up his fight against the beaten & humiliated Gustav.
+* Gabriel Queen puts on a pink glove and sticks his thumb into Gustav's anus - making a reference to a fellow [Greens](@/a/zieloni.md) member [Boro](@/w/boro.md), who did such a move as Lady Killer. After that he takes the PpW Championship from Referee Seweryn to celebrate with it, hyping up his fight against the beaten & humiliated Gustav.
 
 #### Christmas Street Fight Match: Mister Z vs Axel Fox
 

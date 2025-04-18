@@ -29,5 +29,5 @@ Lesson of Respect was an event by [Dream Factory Wrestling](@/o/dfw.md), that to
 
 ### References
 
-* [Facebook post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02nNkFEYD8Z1YvYwTb8kkyYPxkm55qFcMNei2PgM4TyQ3CpCE9KpPNM4fpWALyEMFEl)
 * [YouTube recap video](https://www.youtube.com/watch?v=KtJYrMjoIrE)
+* [Facebook post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02nNkFEYD8Z1YvYwTb8kkyYPxkm55qFcMNei2PgM4TyQ3CpCE9KpPNM4fpWALyEMFEl)
