@@ -1,7 +1,7 @@
 import datetime
 import yaml
 import io
-from typing import Union, Iterable, Optional, NamedTuple, cast, TextIO, Any
+from typing import Union, Iterable, Optional, NamedTuple, assert_never, cast, TextIO, Any
 import re
 from pathlib import Path, PurePath
 from itertools import chain
@@ -256,13 +256,23 @@ class Match:
         ''', re.VERBOSE)
 
     def parse_maybe_team(self, text: str) -> Optional[Union[Participant, Team]]:
-        match Match.tag_team_re.match(text):
-            case re.Match() as m:
-                team_name = m.group('team')
-                people = m.group('people')
-            case _:
+        m = Match.tag_team_re.match(text)
+        if not m:
+            raise ValueError(f"Couldn't match {text}")
+
+        fields = m.groupdict()
+        match fields:
+            case {'team': None}:
                 team_name = None
                 people = text
+            case {'label': str() as label, 'target': str() as target, 'people': str() as match_people}:
+                team_name = (label, target)
+                people = match_people
+            case {'plain': str() as label, 'people': str() as match_people}:
+                team_name = (label, None)
+                people = match_people
+            case _:
+                raise ValueError(f"Invalid fields {fields}")
 
         group = parse_group(people)
         match (group, team_name):
@@ -270,7 +280,9 @@ class Match:
                 return single_member
             case ([*members], None):
                 return AdHocTeam(members)
-            case ([*members], name):
+            case ([*members], (str() as name, str() as link)):
+                return NamedTeam(name, members, link=link)
+            case ([*members], (str() as name, None)):
                 return NamedTeam(name, members)
 
 tokenizer_re = re.compile(r'''
