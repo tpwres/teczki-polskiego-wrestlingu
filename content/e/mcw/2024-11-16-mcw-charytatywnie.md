@@ -37,7 +37,7 @@ MCW Charytatywnie (roughly: _MCW for Charity_) was a 2024 [Mine City Wrestling](
 
 ### References
 
-* [Facebook post announcing the event](https://www.facebook.com/minecitywrestling/posts/pfbid02RgeZnLCLQk99euChtiEaBtD7jfVWMFUjvYBzh8a7vXrxtnJyj19iU7KWXjMJZ1jdl)
 * [Video: Doomfist vs Phantom](https://www.youtube.com/watch?v=NosWwenwHFU)
 * [Video: Chris Steeler vs Johny Vegas](https://www.youtube.com/watch?v=Ifu69eMP_Q0)
 * [Video: RAV vs Jack Kalom](https://www.youtube.com/watch?v=UVzZIEYymqk)
+* [Facebook post announcing the event](https://www.facebook.com/minecitywrestling/posts/pfbid02RgeZnLCLQk99euChtiEaBtD7jfVWMFUjvYBzh8a7vXrxtnJyj19iU7KWXjMJZ1jdl)
