@@ -37,5 +37,5 @@ city = "Głuchołazy"
 
 ## References
 
-* [Wrestlefans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=247&t=24589)
 * [Video: Extreme Hell 2011 - Terry Shadow vs Black Joker](https://www.youtube.com/watch?v=5uRpO2Viqlk)
+* [Wrestlefans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=247&t=24589)
