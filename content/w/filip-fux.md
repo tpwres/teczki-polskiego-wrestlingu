@@ -17,7 +17,7 @@ Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wr
 
 * Years active: 2018-present
 * Gimmicks/nicknames:
-  - Filip Fux {{ org_badge(org='kpw', 'low') }}
+  - Filip Fux {{ org_badge(orgs=['kpw', 'low']) }}
 * Trained by:
   - KPW Academy (2018-present)
 

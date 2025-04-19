@@ -14,8 +14,8 @@ Syriusz Dziedzic is a Polish wrestler best known for his time in [Legacy of Wres
 
 * Years active: 2021-present
 * Gimmicks/nicknames:
-  - Dziedzic
-  - Syriusz Dziedzic
+  - Dziedzic {{ org_badge(orgs=['ptw']) }}
+  - Syriusz Dziedzic {{ org_badge(orgs=['ptw', 'mzw', 'low']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
 

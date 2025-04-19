@@ -14,7 +14,7 @@ Robert Star is a Polish wrestler best known from his time in [Kombat Pro Wrestli
 
 * Years active: 2013-present
 * Gimmicks/nicknames:
-  - "The Polish Stallion" {{ org_badge(orgs=['kpw', 'ptw', 'ppw']) }}
+  - "The Polish Stallion" {{ org_badge(orgs=['kpw', 'ptw', 'ppw', 'low']) }}
   - "The Rockstar of Polish Wrestling" {{ org_badge(orgs=['kpw']) }}
 * Trained by:
   - [Don Roid](@/w/don-roid.md), DDW Academy (201?-2015)
