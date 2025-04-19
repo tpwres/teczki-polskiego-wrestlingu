@@ -23,7 +23,7 @@ Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for 
 * Years active: 2023-present
 * Gimmicks/nicknames:
   - "The Hidden Gem" Erik Šlotíř {{ org_badge(orgs=['ptw', 'low'])}}
-  - Krecik {{ org_badge(orgs=['ptw'])}} (given by fans)
+  - Krecik {{ org_badge(orgs=['ptw', 'low'])}} (given by fans)
 * Trained by:
   - Peter Tihanyi
   - [Ricky Sky](@/w/ricky-sky.md)
