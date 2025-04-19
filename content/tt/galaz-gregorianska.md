@@ -5,6 +5,9 @@ authors = ["M3n747"]
 [extra]
 toclevel = 3
 orgs = ["kpw"]
+[extra.gallery]
+1 = { path = "galaz-gregorianska.webp", caption = "Gałąź Gregoriańska celebrating at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md). Left to right: [Eryk Lesak](@/w/eryk-lesak.md), [Rosetti](@/w/rosetti.md), [Greg](@/w/greg.md) and [Chemik](@/w/chemik.md).", source = "Migawki z Puszki" }
+2 = { path = "galaz-rysunkowa.jpg", caption = "A fan's drawing, signed by the members of the Branch.", source = "Official KPW YouTube" }
 +++
 
 Gałąź Gregoriańska (_The Gregorian Branch_) was a profesional wrestling stable active in [Kombat Pro Wrestling](@/o/kpw.md).
