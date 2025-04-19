@@ -16,7 +16,7 @@ Piotr "ShowOff" Małecki is a Polish wrestling commentator, content creator and 
 
 * Years active: 2015-present
 * Gimmicks/nicknames:
-  - Piotr "ShowOff" Małecki {{ org_badge(orgs=['mzw', 'ptw']) }}
+  - Piotr "ShowOff" Małecki {{ org_badge(orgs=['mzw', 'ptw', 'low']) }}
 
 ## Professional wrestling career
 

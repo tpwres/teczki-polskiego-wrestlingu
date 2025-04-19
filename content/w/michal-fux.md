@@ -16,7 +16,7 @@ Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestlin
 
 * Years active: 2017-present
 * Gimmicks/nicknames:
-  - Michał Fux {{ org_badge(org='kpw') }}
+  - Michał Fux {{ org_badge(orgs=['kpw', 'low']) }}
 * Trained by:
   - KPW Academy (201?-present)
 

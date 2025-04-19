@@ -17,7 +17,7 @@ Vic Golden is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.
 * Years active: 2012-present
 * Gimmicks/Nicknames:
   - Prince Victor {{ org_badge(orgs=['ddw', 'mzw', 'dfw']) }}
-  - Vic Golden {{ org_badge(orgs=['ptw', 'ppw']) }}
+  - Vic Golden {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
   - Joey Riddic {{ org_badge(orgs=['dfw']) }}
   - Lion (BWN)
 * Trained by:
