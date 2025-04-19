@@ -40,8 +40,9 @@ list_pages = false
 default_theme = "dark"
 header_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar-1" },
-  { path = "@/w/_index.md", name = "People", icon = "users" },
   { path = "@/o/_index.md", name = "Orgs", icon = "handshake" },
+  { path = "@/w/_index.md", name = "People", icon = "users" },
+  { path = "@/tt/_index.md", name = "Teams", icon = "biceps-flexed" },
   { path = "@/a/_index.md", name = "Articles", icon = "book" },
   { path = "@/v/_index.md", name = "Places", icon = "map-pin-house" },
   { path = "@/c/_index.md", name = "Championships", icon = "trophy" },

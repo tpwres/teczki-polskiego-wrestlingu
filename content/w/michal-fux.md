@@ -46,7 +46,7 @@ Michał debuted at Legacy of Wrestling's [second show](@/e/low/2025-04-06-low-2.
   - Flapjack (Michał) and Cutter (Filip) combination (2021-)
 
 * Tag Teams and stables:
-  - The Fux Brothers (2021-)
+  - [Bracia Fux](@/tt/bracia-fux.md) (2021-)
 
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe

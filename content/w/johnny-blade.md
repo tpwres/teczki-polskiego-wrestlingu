@@ -63,7 +63,7 @@ At the next show, [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md), Jo
 
 #### Feud with Isnorr
 
-At [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) Johnny set up his first title defence against the Ultraviolent specialist of [Zmowa](@/a/zmowa.md): Isnorr, who had been feuding with Blade in the past, citing his hatred towards "backyard guys" as the main reason to take Blade down. Johnny was able to score a victory over Isnorr. At [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) Johnny hosted an Insane Wheel of Fortune Gauntlet Invitational Match, where Isnorr reappeared and defeated the host.
+At [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) Johnny set up his first title defence against the Ultraviolent specialist of [Zmowa](@/tt/zmowa.md): Isnorr, who had been feuding with Blade in the past, citing his hatred towards "backyard guys" as the main reason to take Blade down. Johnny was able to score a victory over Isnorr. At [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) Johnny hosted an Insane Wheel of Fortune Gauntlet Invitational Match, where Isnorr reappeared and defeated the host.
 He later confirmed his ambitions for a rematch and scored another victory over Blade and his partner [Samson](@/w/samson.md) in a match where he partnered with [Gustav Gryffin](@/w/gustav-gryffin.md) at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). The official rematch took part at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), and this time Johnny Blade was unable to sucessfully defend his championship against Isnorr.
 
 #### Feud with Mister Z

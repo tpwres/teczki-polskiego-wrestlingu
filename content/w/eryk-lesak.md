@@ -31,7 +31,7 @@ Intended as the original butler for the heel stable Kawaleria (which didn't pan 
 
 #### The Gregorian Branch
 
-After the initial losing streak, for some of which he blamed Opol, Lesak agreed to join the newly-formed Gałąź Gregoriańska (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md). Having scored his first victory - against Opol at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md) - he was joined with Chemik as tag team partners, in a wedding-like ceremony officiated by Greg. However, neither joining the Gregorian Branch nor teaming up with Chemik helped drastically improve his success rate, as he mostly feuded with KPW's babyfaces such as the Fux Brothers ([Filip](@/w/filip-fux.md) and [Michał](@/w/michal-fux.md)), against whom he often teamed up with Chemik.
+After the initial losing streak, for some of which he blamed Opol, Lesak agreed to join the newly-formed [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (_The Gregorian Branch_), a heel stable led by [Greg](@/w/greg.md). Having scored his first victory - against Opol at [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md) - he was joined with Chemik as tag team partners, in a wedding-like ceremony officiated by Greg. However, neither joining the Gregorian Branch nor teaming up with Chemik helped drastically improve his success rate, as he mostly feuded with KPW's babyfaces such as the Fux Brothers ([Filip](@/w/filip-fux.md) and [Michał](@/w/michal-fux.md)), against whom he often teamed up with Chemik.
 
 #### Betraying Greg
 
@@ -43,7 +43,7 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took pa
   - Spear (2019-)
     
 * Tag Teams and stables:
-  - Gałąź Gregoriańska (2022-2024)
+  - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 
 * Entrance music:
   - "You’ve Got Another Thing Comin’" by Judas Priest

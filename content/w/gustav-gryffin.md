@@ -41,7 +41,7 @@ Besides PpW, Gustav also made an appearance at the cross-promotion show [MZW+PpW
 #### Joining "Zmowa" and becoming PpW Champion
 
 In the early 2024 Gustav, alongside his personal trainer and bodyguard Jakub Linde, formed an alliance with the villainous PpW producer, [Mister Z](@/w/mister-z.md).
-This alliance would be lated called ["Zmowa"](@/a/zmowa.md). Gustav was quickly pushed by Mister Z into a No Holds Barred Match against [Goblin](@/w/goblin.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), with the winner gaining the #1 Contender spot for the [PpW Championship](@/c/ppw-championship.md).
+This alliance would be lated called ["Zmowa"](@/tt/zmowa.md). Gustav was quickly pushed by Mister Z into a No Holds Barred Match against [Goblin](@/w/goblin.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), with the winner gaining the #1 Contender spot for the [PpW Championship](@/c/ppw-championship.md).
 Gustav defeated his opponent and cashed in his title shot after his ally Mister Z failed to defeat [Feager](@/w/feager.md) and champion [Biesiad](@/w/biesiad.md) in a triple threat match.
 The title shot cash-in was successful, thus Gustav Gryffin became the 7th PpW Champion in history.
 
@@ -83,7 +83,7 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
   - Rear Naked Choke (2024-)
   - Texas Cloverleaf (2024)
 * Tag Teams and Stables:
-  - [Zmowa](@/a/zmowa.md)
+  - [Zmowa](@/tt/zmowa.md)
 * Managers:
   - [Osamu](@/w/osamu.md) (2023)
   - [Jakub Linde](@/w/jakub-linde.md) (2024)

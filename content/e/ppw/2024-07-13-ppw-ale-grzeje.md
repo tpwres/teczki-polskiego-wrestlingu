@@ -16,7 +16,7 @@ city = "Warszawa"
 
 "Ale Grzeje" (roughly translated as _Heat Wave_, or more accurately as _Man, Is It Hot!_) was an event held by [PpW](@/o/ppw.md) on Saturday July 13th 2024. It was the second one to be hosted by [Teatr Komuna](@/v/teatr-komuna.md), after [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February that year.
 
-The announcement post featured the show's official poster, focusing on the term ["Zmowa"](@/a/zmowa.md) (roughly translated as _Collusion_), promising the hottest (literally and figuratively) show of the summer.
+The announcement post featured the show's official poster, focusing on the term ["Zmowa"](@/tt/zmowa.md) (roughly translated as _Collusion_), promising the hottest (literally and figuratively) show of the summer.
 The hype text suggested "a collusion against the collusion" - which refers to [Biesiad's](@/w/biesiad.md) plan to exact revenge, and thwart [Mister Z](@/w/mister-z.md)'s and [Gustav Gryffin](@/w/gustav-gryffin.md)'s new alliance that screwed him out of the PpW Championship belt at [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
 Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they called their "summer course". This later turned into [Ewenement Dojo](@/o/ewenement-dojo.md), PpW's official wrestling school with Crane and Biesiad as coaches.
@@ -40,7 +40,7 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
   - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad](@/w/biesiad.md)'
   - '[Samson](@/w/samson.md)'
-  - g: "[Zmowa's](@/a/zmowa.md) promo gets interrupted by Samson and Biesiad"
+  - g: "[Zmowa's](@/tt/zmowa.md) promo gets interrupted by Samson and Biesiad"
 - - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
   - '[Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match

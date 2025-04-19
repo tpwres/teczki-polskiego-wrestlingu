@@ -34,7 +34,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 - - '[Rosetti](@/w/rosetti.md)(c)'
   - 'Ludy Lohan'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-- - 'The Fux Brothers: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
+- - 'Bracia Fux: [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
   - 'Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)(c)'
   - s: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - 'Iestyn Rees'

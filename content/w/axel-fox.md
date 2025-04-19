@@ -78,7 +78,7 @@ During his tenure in PTW, Axel become one of the most active Polish pro wrestler
 
 During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made his PpW debut as the surprise tag team partner of [Goblin](@/w/goblin.md), who was booked for a match against Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)).
 Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
-They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/a/zmowa.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation, and viciously attacked him with a kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's producer.
+They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/tt/zmowa.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation, and viciously attacked him with a kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's producer.
 
 Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
 

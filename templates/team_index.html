@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{%- import "macros/career.html" as macros %}
+
+{% block content %}
+  <h1>{{ section.title }}</h1>
+
+  {{ section.content | safe }}
+
+  <h2>List</h2>
+
+  {# TODO: Style as two-column list similar to talent list #}
+  <ul class="team-list">
+    {% for page in section.pages %}
+      <li>
+        <span class="pwf">
+          <a class="nu name" href="{{ page.permalink }}">{{ page.title }}</a>
+          {% set orgs = page.extra.orgs | default(value=[]) %}
+          <span class="ot">
+            {% for org in orgs %}
+              {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+            {% endfor %}
+          </span>
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endblock %}
