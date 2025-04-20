@@ -67,7 +67,7 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
     ed: 2022-09-17
 {% end %}
 
-**TOTAL:** 455 days.
+**TOTAL:** 959 days.
 
 Over 500 days of The Hunt's title run fell on the COVID-19 pandemic.
 
