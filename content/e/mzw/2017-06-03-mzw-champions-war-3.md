@@ -21,7 +21,7 @@ The third Champions War event was held again in [Głuchołazy](@/v/gosir-gluchol
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
 - - '[Skull Evil](@/w/skull-evil.md)'
   - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
-- - 'Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)'
+- - '[Catch Connection](@/tt/catch-connection.md): [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)'
   - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md)'
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
