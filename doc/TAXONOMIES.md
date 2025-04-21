@@ -5,7 +5,7 @@ They are chiefly used for pagination, but also for some extra info about the tal
 
 ## General usage
 
-Taxonomies can be added to any page, in the front matter block. They must be put in their own section `[taxonomies]`.
+Taxonomies can be added to any page, in the front matter block. Read `FRONT-MATTER.md` to learn more about this block. They must be put in their own section `[taxonomies]`.
 Each row in that section is of the form `<taxonomy_name> = ["<term1>", "<term2>"]`.
 While there is no technical limit to how many terms can be used, some of the taxonomies only make use of the first term.
 Taxonomy name must be one of the defined taxonomies, as defined in `config.toml`. It is an error to assign terms to an unknown taxonomy.
