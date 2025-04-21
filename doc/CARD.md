@@ -31,11 +31,11 @@ or inline-style:
 ["element1", "element2", "element3"]
 ```
 
-Quotes are necessary in the inline style if an element contains spaces, or certain characters: braces `{}`, square brackets `[]`, commas `,` or colons `:`.
+Quotes are necessary in the inline style if an element contains spaces, or certain characters: braces `{}`, square brackets `[]`, commas `,` colons `:`, apostrophes/single quotes `'` or double quotes `"`.
 
-In block style, quotes can be omitted if an element contains spaces, but not these special characters.
+In block style, quotes can be omitted if an element contains spaces, but not these special characters. If unsure, prefer quotes as they're always safe.
 
-The recommended style is to use block-style for the matches list, but inline-style for the individual match:
+The recommended style is to use block-style for both the match list, and individual matches.
 
 ```yaml
 # The following are two singles matches
@@ -43,19 +43,19 @@ The recommended style is to use block-style for the matches list, but inline-sty
 - ["Bob Backlund", "Randy Savage"]
 ```
 
-However, nested block-style is most readable, and the recommended way to note all matches
+However, nested block-style is most readable, and the recommended way to note all matches.
 
 ```yaml
 # The following is a single match with four participants
 - - The Undertaker
   - Giant Gonzalez
-  - [Bob Backlund](@/w/bob.md)
+  - '[Bob Backlund](@/w/bob.md)'
   - Randy Savage
 ```
 
 ## Tag teams and groupings of people
 
-In tag-team matches, we may want to list the participants as a team. To do this, separate the names with commas (and optionally spaces), and prefix them with the tag team name and a colon. Because we use a colon, quotes are mandatory in both notations here.
+In tag-team matches, we may want to list the participants as a team. To do this, separate the tag member names with commas and spaces, and prefix them with the tag team name and a colon. Because we use a colon, quotes are mandatory in both notations here.
 
 ```
 "Maki Death Kill: Maki Itoh, Nick Gage"

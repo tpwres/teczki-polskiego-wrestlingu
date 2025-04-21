@@ -18,7 +18,7 @@ Under each image folder, there must also be a `tn/` folder. Files in that folder
 
 ## Gallery notation
 
-Each page that has a gallery signifies it by having an `[extra.gallery]` section in the front matter (or manifest file, see below). Using Ale Grzeje for illustration:
+Each page that has a gallery signifies it by having an `[extra.gallery]` section in the front matter (or manifest file, see below). See `FRONT-MATTER.md` for more on the front matter block. Using Ale Grzeje for illustration:
 
 ```
 +++
