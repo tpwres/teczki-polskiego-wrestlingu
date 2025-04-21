@@ -31,6 +31,7 @@ city = "Głuchołazy"
 - - 'Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - 'Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)'
   - nc: 'Double DQ'
+    s: Tag Team Match
 - - '[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
   - s: 'Two On One Handicap Match'
