@@ -68,4 +68,4 @@ The tube was signed by the following people:
 - Tomczak
 - [Wiktor Longman](@/w/wiktor-longman.md)
 
-When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't wish to unify with people who are below him. [Zefir](@/w/zefir.md) refused as well, but did not say why.
+When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't wish to unify with people who are beneath him. [Zefir](@/w/zefir.md) refused as well, but did not say why.
