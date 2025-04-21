@@ -26,7 +26,7 @@ Attendance: estimated about 300
   - '???'
   - '???'
   - s: 'Two On One Handicap Match'
-- - 'Storm Riders: [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md); Columbus'
+- - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md); Columbus'
   - 'Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
 - credits:

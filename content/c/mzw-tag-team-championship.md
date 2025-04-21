@@ -54,12 +54,12 @@ The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/20
     en: '[MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md)'
     ed: 2016-05-14
 - - 'Zbójnicy (c): Jędruś Bułecka, Stanisław Van Dobroniak'
-  - 'Catch Connection: [Alexander Reich](@/w/alex-ace.md) and [Ronny Kessler](@/w/ronny-kessler.md)'
+  - '[Catch Connection](@/tt/catch-connection.md): [Alexander Reich](@/w/alex-ace.md) and [Ronny Kessler](@/w/ronny-kessler.md)'
   - s: Tag Team Match
     r: DQ
     en: '[MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md)'
     ed: 2016-11-05
-- - 'Storm Riders: Red Thunder, [Blue Thunder](@/w/blue-thunder.md)'
+- - '[Storm Riders](@/tt/storm-riders.md): Red Thunder, [Blue Thunder](@/w/blue-thunder.md)'
   - 'Zbójnicy (c): Jędruś Bułecka, Stanisław Van Dobroniak'
   - s: Tag Team Match
     en: '[MZW Charity Show 2017](@/e/mzw/2017-01-15-mzw-charity-show-2017.md)'
