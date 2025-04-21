@@ -25,7 +25,7 @@ Match card unofficial, based on available photos.
   - nc: '?'
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Luxus](@/w/luxus.md)'
-- - 'Kawaleria: [Piękny Kawaler](@/w/piekny-kawaler.md), [Bianca](@/w/bianca.md),
+- - '[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md), [Bianca](@/w/bianca.md),
     [Greg](@/w/greg.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md), [Mira](@/w/mira.md), [Kaszub](@/w/kaszub.md)'
   - s: Mixed Six-Man Tag Team Match
