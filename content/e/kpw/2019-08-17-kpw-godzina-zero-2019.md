@@ -31,7 +31,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 
 {% card() %}
 - [Reinbakh, '[Kamil Aleksander](@/w/kamil-aleksander.md)']
-- - "[Sawicki](@/w/sawicki.md), [Victor Rosetti](@/w/rosetti.md)"
+- - "[Sawicki](@/w/sawicki.md), [Rosetti](@/w/rosetti.md)"
   - "Carlos Zamora, Steinbolt"
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag Team Match
