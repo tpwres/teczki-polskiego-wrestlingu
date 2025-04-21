@@ -22,7 +22,7 @@ Luxus is a retired Polish wrestler best known for his time in [Kombat Pro Wrestl
 
 ### Do Or Die Wrestling (2013-2015)
 
-Luxus made his debut on the Polish wrestling scene in August 2013, when he participated in [DDW Charity Event](@/e/ddw/2013-08-25-ddw-charity-event.md). He immediately allied himself with [Piękny Kawaler](@/w/piekny-kawaler.md), becoming one of the founding members of Kawaleria: a villainous stable led by Kawaler himself. His biggest singles achievement from that time would be a victory in a Battle Royal, which was hosted at DDW's [second house show](@/e/ddw/2015-05-02-ddw-house-show-2.md) in May 2015.
+Luxus made his debut on the Polish wrestling scene in August 2013, when he participated in [DDW Charity Event](@/e/ddw/2013-08-25-ddw-charity-event.md). He immediately allied himself with [Piękny Kawaler](@/w/piekny-kawaler.md), becoming one of the founding members of [Kawaleria](@/tt/kawaleria.md): a villainous stable led by Kawaler himself. His biggest singles achievement from that time would be a victory in a Battle Royal, which was hosted at DDW's [second house show](@/e/ddw/2015-05-02-ddw-house-show-2.md) in May 2015.
 
 ### Kombat Pro Wrestling (2015-2016)
 

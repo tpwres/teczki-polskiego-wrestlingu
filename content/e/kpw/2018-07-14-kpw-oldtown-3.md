@@ -23,7 +23,7 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
 * British wrestlers [Dom Taylor](@/w/dom-taylor.md) and [Lee Rogers](@/w/lee-rogers.md) debut for KPW. Taylor would later appear several more times for the organization in singles competition as well.
 
 {% card() %}
-- - "Kawaleria: [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md),
+- - "[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md),
     [Rosetti](@/w/rosetti.md)"
   - "Sojusz: [Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md),
     [Kamil Aleksander](@/w/kamil-aleksander.md)"
