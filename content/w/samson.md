@@ -53,7 +53,7 @@ Samson made a one-off appearance in [Maniac Zone Wrestling](@/o/mzw.md), where h
 
 In 2024, Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent, trained at WxW Academy in Gelsenkirchen, and worked as ringcrew during their major "16 Carat Gold" event in March in Oberhausen.
 
-## In Wrestling
+## In wrestling
 
 * Finishers:
   - Frog Splash (2023-)
