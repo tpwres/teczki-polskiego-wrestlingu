@@ -6,6 +6,8 @@ authors = ["Krzysztof Zych", "Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["SCOTLAND"]
+[extra.gallery]
+1 = { path = "szejmus.webp", caption = "Seamus with his WWE United States Championship at a 2014 Smackdown show.", source = "Megan Elice Meadows / Wikipedia" }
 +++
 
 Sheamus is a Scottish professional wrestler, best known for his long tenure in [WWE](@/o/wwe.md). He performed in Poland twice, back when the federation was touring Europe with their Smackdown house shows and later under the WWE Live brand.
