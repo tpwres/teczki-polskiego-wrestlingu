@@ -13,3 +13,7 @@ city = "Kozłów"
 "Dzień Dziecka" (_Children's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
 
 {{ skip_card() }}
+
+### References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=423576)
