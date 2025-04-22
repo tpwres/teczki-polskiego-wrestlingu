@@ -67,6 +67,11 @@ In 2024, Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent,
  {{ music(yt='siwpn14IE7E')}}
  {{ music(spot='3hMHG6lx9QHVcfYSUr5PoM')}}
  {{ music(apple='387193895?i=387193955')}}
+  - "Mighty Wings" by Cheap Trick
+ {{ org_badge(orgs=['ptw']) }} (202?) <br>
+ {{ music(yt='b8OdyAq7sfk')}}
+ {{ music(spot='32SckiFOYb8bwYewY51WA7')}}
+ {{ music(apple='387193895?i=387193971')}}
   - "We've Got Hostiles" by morch kovalsky
  {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-) <br>
  {{ music(yt='8KswYyylKD4')}}
