@@ -23,6 +23,7 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
   * at the end of the match, the wrestler with the most points wins
   * the winner gets a mysterious prize
 * On 16.04.2025 PpW's social media announced the first women's match in the promotion's history: Danish wrestler Madison Marley will face an unnamed [Ewenement Dojo](@/o/ewenement-dojo.md)-trained wrestler.
+* On 23.04.2025 PpW announced that [Biesiad Strong](@/w/biesiad.md) would face Scandinavian wrestler Mr Power Up (hired in keyfabe by the PM Shooter mercenaries to dispose of Biesiad), and that the match would be officiated by [Mister Z](@/w/mister-z.md) as the Special Guest Referee.
 
 {% card(predicted=true) %}
 - - 'Goblis: [Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
@@ -38,6 +39,10 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
     nc: upcoming
 - - 'Madison Marley'
   - '???'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - 'Mr Power Up'
+- credits:
+    Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
 {% end %}
 
 ### References
