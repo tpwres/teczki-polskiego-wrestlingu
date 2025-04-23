@@ -8,10 +8,13 @@ toclevel = 2
 country = ["PL"]
 +++
 
+Oskar Aleksander is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md).
+
 ## Basic info
 
 * Years active: 2024-present
 * Nicknames/Gimmicks:
+  - Oskar Aleksander {{ org_badge(org='ppw') }} (October 2024-)
   - Adept Oskar {{ org_badge(org='ppw') }} (August 2024-October 2024)
   - Oskar Strong {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
