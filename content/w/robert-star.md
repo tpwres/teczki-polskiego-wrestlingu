@@ -65,11 +65,12 @@ In January 2021 Robert was slated to debut at a Danish BODYSLAM! Pro-Wrestling's
 On May 11th, 2024, [PpW Ewenement](@/o/ppw.md) announced booking Robert Star for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) the following month.
 This surprised fans, but was well received both by fans and wrestling YouTubers. PpW wrestlers shared this to their Instagram stories, with comments like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery) and its main prize, a 1200HP Nissan GTR). The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held on that day.
 
-Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified to not lose the match.
+Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified to not lose the match. He also made his return during 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ## In wrestling
 
-- _Rockstar Hangover_ / _Stallion Cutter_ (Cutter) (2013-)
+* Finishers:
+  - _Rockstar Hangover_ / _Stallion Cutter_ (Cutter) (2013-)
 
 * Tag Teams and stables:
   - Sojusz (2018)
