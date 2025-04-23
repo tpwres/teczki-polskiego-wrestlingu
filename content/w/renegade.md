@@ -35,7 +35,7 @@ In a rematch nine months later at [Underground 8](@/e/ptw/2022-09-25-ptw-undergr
 
 #### PTW Tag Team Champion
 
-Budapest Bastards managed to secure another opportunity to fight for the PTW Tag Team Championship at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where they managed to score a victory against PAKA, Sinister Kingdom and MxM Collection, becoming the second PTW Tag Team Champions in history. Their reign lasted 308 days, and included victories over teams such as Axel Fox & Marcelito, Lucha Squad and Gulyas Bros. Their reign came to an end at [PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), where they were defeated by L'Orda.
+Budapest Bastards managed to secure another opportunity to fight for the PTW Tag Team Championship at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where they managed to score a victory against PAKA, Sinister Kingdom and MxM Collection, becoming the second PTW Tag Team Champions in history. Their reign lasted 308 days, and included victories over teams such as Axel Fox & Marcelito, Lucha Squad and Gulyas Bros. Their reign came to an end at [PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), where they were defeated by [L'Orda](@/tt/l-orda.md).
 
 After their loss Renegade and his tag team partner Nitro seemingly bid farewell to [Prime Time Wrestling](@/o/ptw.md), claiming that it might be uncertain when - if ever - they return.
 

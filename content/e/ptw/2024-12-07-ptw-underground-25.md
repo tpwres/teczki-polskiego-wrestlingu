@@ -60,8 +60,8 @@ For this event, PTW invited several debuting wrestlers:
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - 'Newt Nova'
   - s: Singles Match
-- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
-  - 'Budapest Bastards (c): [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
+  - '[Budapest Bastards](@/tt/budapest-bastards.md)(c): [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: 'Hardcore Tornado Tag Team Match'
 - - Bittersweet Josh
@@ -149,8 +149,8 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 #### Hardcore Tornado Tag Team Match: Budapest Bastards (Renegade & Nitro) vs L'Orda Luca Bjorn & Rust - PTW Tag Team Championship
 
 * Timestamp: `1:08:00`
-* L'Orda members [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md) make their way to the ring first.
-* Budapest Bastards - [Nitro](@/w/nitro.md) and [Renegade](@/w/renegade.md) - are the second ones to enter, as they are the [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md)
+* [L'Orda](@/tt/l-orda.md) members [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md) make their way to the ring first.
+* [Budapest Bastards](@/tt/budapest-bastards.md) - [Nitro](@/w/nitro.md) and [Renegade](@/w/renegade.md) - are the second ones to enter, as they are the [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md)
 * The match is officiated by Sędzia Klaudiusz, with [Sędzia Herno](@/w/sedzia-herno.md) standing at the ringside as a backup referee.
 * The whole fight is filled with intense action due to the nature of the stipulation. For the most part the weapons aren't used much, with most of the damage being done during ringside brawls. Later on items such as a kendo stick, a plasma TV and a table are used.
 * Renegade hits one of his opponents with the Crucifix Powerbomb onto a table and tries to secure a pinfall, however he is stopped by the other member of L'Orda making a save with a Championship Belt strike into the back of Renegade's head, and secures a pinfall.
