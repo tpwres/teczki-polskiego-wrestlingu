@@ -12,7 +12,7 @@ caption = "Spartan at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md).
 source = "Krzysztof Zych"
 +++
 
-Spartan is a Polish wrestler most notable for his time in [Prime Time Wrestling](@/o/ptw.md)
+Spartan is a Polish wrestler most notable for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -20,7 +20,7 @@ Spartan is a Polish wrestler most notable for his time in [Prime Time Wrestling]
 * Gimmicks/nicknames:
   - Spartan {{ org_badge(orgs=['ptw']) }}
 * Trained by:
-  - [PTW Academy](@/o/ptw-academy.md)
+  - [PTW Academy](@/o/ptw-academy.md) (2022-)
  
 ## Professional wrestling career
 
