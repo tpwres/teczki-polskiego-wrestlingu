@@ -24,13 +24,13 @@ Apollo Anderson, also known as The Wolf, is a Polish wrestler best known for his
 
 #### Apollo Anderson
 
-Apollo Anderson made his debut for [Maniac Zone Wrestling](@/o/mzw.md) in December 2017 at [Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) in a Tag Team Match with [Bartosz Borowsky](@/w/boro.md) where he faced [Matt Buckna](@/w/matt-buckna.md) and [Rick Baxxter](@/w/rick-baxxter.md). He also worked in a Ten Men Battle Royal Match at the same show. From the start he was distinguished from other wrestlers thanks to him agility and muscular build. 
+Apollo Anderson made his debut for [Maniac Zone Wrestling](@/o/mzw.md) in December 2017 at [Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md), working with [Bartosz Borowsky](@/w/boro.md) in a Tag Team Match against [Matt Buckna](@/w/matt-buckna.md) and [Rick Baxxter](@/w/rick-baxxter.md). He also fought in a Ten-Man Battle Royal Match at the same show. From the start he distinguished himself from other wrestlers thanks to his agility and musculature. 
 
-During the "Project" era he started a Tag Team called "Wataha" in which he teamed up with [Justin Joy](@/w/justin-joy.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) they won [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) from Catch Connection ([Alexander Reich](@/w/alex-ace.md) and [Ronny Kessler](@/w/ronny-kessler.md)). Despite that win, they never defended their championship as the atmosphere in a team quickly began to sour. Wataha officially broke up at [Project 4](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md) with Apollo turning heel on Justin. Soon after [Jędruś Bułecka](@/w/jedrus-bulecka.md) - acting as authority figure - stripped Apollo from Tag Team Championship, retiring them. Apollo's last match took place at [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md) where he defeated [Dynamite Dave](@/w/dynamite-dave.md). Not long after Apollo's career went on hiatus due to personal reasons. 
+During the "Project era" he started a Tag Team called "Wataha", in which he teamed up with [Justin Joy](@/w/justin-joy.md). At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) they won the [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md) from Catch Connection ([Alexander Reich](@/w/alex-ace.md) and [Ronny Kessler](@/w/ronny-kessler.md)). Despite that win, they never defended their Championships as the atmosphere in a team quickly began to sour. Wataha officially broke up at [Project 4](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md) with Apollo turning heel on Justin. Soon after [Jędruś Bułecka](@/w/jedrus-bulecka.md) - acting as the authority figure - stripped Apollo from his Tag Team Championship, retiring the title. Apollo's last match took place at [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md), where he defeated [Dynamite Dave](@/w/dynamite-dave.md). Not long after that show, Apollo's career went on hiatus due to personal reasons. 
 
 #### Return as The Wolf 
 
-Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) where he lost to [Marcelito](@/w/marcelito.md). 
+Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), where he lost to [Marcelito](@/w/marcelito.md). 
 
 ## In wrestling
 
@@ -41,7 +41,7 @@ Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-f
   - Watacha (2018-2019)
  
 * Entrance music:
- - "Wataha" by Męskie Granie Orkiestra
+  - "Wataha" by Męskie Granie Orkiestra
  {{ org_badge(orgs=['mzw']) }} (2018-2019, in tag team with [Justin Joy](@/w/justin-joy.md)) <br>
  {{ music(yt='7WAFLz9xT3U')}}
  {{ music(spot='6ZvBEifHQkFG4P8sthpGYZ')}}
