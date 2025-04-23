@@ -56,7 +56,7 @@ He surprised fans by making his first in-ring appearance in over two years at [A
 
 #### Championship pursuit
 
-In October 2024 Aron officially worked a match in MZW at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after more than three years. He started working as a heel, trying to win the [MZW Championship](@/c/mzw-championship.md), but was defeated by [Matt Buckna](@/w/matt-buckna.md). At the next show - [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) - Matt initially planned to fight [Shadow](@/w/shadow.md) in a Singles Match, but Aron inserted himself into the card, transforming the match into a Triple Threat. Despite that, Aron was once again unable to secure a win over Matt and Shadow. 
+In October 2024 Aron officially worked a match in MZW at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after more than three years. He started working as a heel, trying to win the [MZW Championship](@/c/mzw-championship.md), but was defeated by [Matt Buckna](@/w/matt-buckna.md). At the next show - [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) - Matt initially planned to fight [Shadow](@/w/shadow.md) in a Singles Match, but Aron inserted himself into the card, transforming the match into a Triple Threat. Once again, Aron was unable to secure a win over Matt and Shadow.
 
 ### Legacy of Wrestling (2024-present)
 
@@ -69,7 +69,7 @@ At [LoW vol.2](@/e/low/2025-04-06-low-2.md) Aron took part in Fatal Five-Way Mat
 * Finishers:
   - Running Knee Strike (2019-)
   - Modified Crossface / scissored armbar combination (2021)
- 
+
 * Entrance music:
   - "Battle! Cynthia (Intense Symphonic Metal Cover)" by FalKKonE
  {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} (2019-) <br>

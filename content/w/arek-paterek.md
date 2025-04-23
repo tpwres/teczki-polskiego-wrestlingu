@@ -16,15 +16,15 @@ Arkadiusz Paterek is a Polish wrestling commentator, on-screen personality and m
 * Gimmicks/nicknames:
   - Arkadiusz / Arek Paterek {{ org_badge(orgs=['ptw', 'low']) }}
 
-## Professional wrestling career 
+## Professional wrestling career
 
 ### Prime Time Wrestling (2021-2024)
 
-Arkadiusz Paterek made his debut in professional wrestling business working for [Prime Time Wrestling](@/o/ptw.md) from its inception in the late 2021. His on-air debut took place at PTW's debut show [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). From that point on he appeared at most of the PTW shows, covering a total of nineteen shows. His made his final appearance at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), after which he announced his [departure from PTW](@/a/ptw-exits.md). 
+Arkadiusz Paterek started his career in professional wrestling working for [Prime Time Wrestling](@/o/ptw.md) since its inception in late 2021. His on-air debut took place at PTW's debut show [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). He provided commentary for most PTW shows, covering a total of nineteen events. Paterek's final appearance was at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), after which he announced his [departure from PTW](@/a/ptw-exits.md).
 
 ### Legacy of Wrestling (2024-present)
 
-After parting ways with Prime Time, Arek Paterek joined the new wrestling project ran by his ex-PTW colleagues: [Legacy of Wrestling](@/o/low.md). For Legacy's [inaugural show](@/e/low/2024-12-01-low-1.md) he worked as a commentator and guest host. 
+After parting ways with Prime Time, Arek Paterek joined the new wrestling project ran by his ex-PTW colleagues: [Legacy of Wrestling](@/o/low.md). For Legacy's [inaugural show](@/e/low/2024-12-01-low-1.md) he worked as a commentator and guest host.
 
 At the [second show](@/e/low/2025-04-06-low-2.md), in addition to providing commentary, he introduced Legacy's new acting chairman, [Wiktor Longman](@/w/wiktor-longman.md), and also accompanied [Erik Šlotíř](@/w/erik-slotir.md) during his match, as a seemingly villainous manager. After the show Paterek announced the creation of a new stable called "Biuro Prasowe" (_Press Office_), with Erik becoming his first "client".
 
