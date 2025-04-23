@@ -3,6 +3,7 @@ title = "The Hunt"
 template = "team_page.html"
 authors = ["M3n747"]
 [extra]
+toclevel = 3
 orgs = ["kpw"]
 [extra.gallery]
 1 = { path = "the-hunt.webp", caption = "[Wild Boad](@/w/wild-boar.md) and [Primate](@/w/primate.md) after winning the [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).", source = "Migawki z Puszki" }

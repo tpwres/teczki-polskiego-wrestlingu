@@ -3,6 +3,7 @@ title = "Legia Łysych"
 template = "team_page.html"
 authors = ["Szymon Iwulski"]
 [extra]
+toclevel = 3
 orgs = ["ptw", "ppw", "mzw", "low"]
 +++
 
