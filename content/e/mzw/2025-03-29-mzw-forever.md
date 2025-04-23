@@ -42,7 +42,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
   - n: Legia's open challenge
     s: Tag-Team Match
 - - 'Dieter Schwartz'
-  - '[Sambor](@/w/sambor.md)'
+  - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
 - - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
   - 'Adrian Zgórski'
   - g: Tomasz hosted a contest for a group of volunteers, who could win MZW T&#8209;shirts and gadgets by stepping into the role of Adrian and introducing the show.
