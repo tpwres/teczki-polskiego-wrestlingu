@@ -20,7 +20,7 @@ Andrzej Supron is a Polish Greco-Roman wrestler, Olympian and wrestling commenta
 
 ### Supron Stars (1990-1992)
 
-In early 1990s Andrzej Supron organised a group of bodybuilders, sportsmen and actors trained loosely by Supron to perform in Poland and ex-Soviet republics such as Georgia, Armenia, Lithuania etc. However, not much information or media is avaliable from that time. 
+In early 1990s Andrzej Supron organised a group of bodybuilders, sportsmen and actors trained loosely by himself to perform in Poland and ex-Soviet republics, such as Georgia, Armenia, Lithuania etc. However, not much information or media is avaliable from that time. 
 
 ### World Wrestling Superstars (1993)
 
@@ -31,6 +31,8 @@ In 1993 Andrzej Supron contacted a group of American wrestlers touring Europe, c
 Around 1999 [Paweł Borkowski](@/w/pawel-borkowski.md) came to Andrzej Supron with a plan to create the first pro wrestling federation in the country, to be named simply "Polish Pro-Wrestling Federation", or PPWF. Unable to secure international names, the organization had to rely only on home-grown talent. While they did manage to secure sponsorship and a deal to buy a professional wrestling ring, no events were actually held due to low interest and poor ticket sales. A second attempt in 2003 secured support from Belgian wrestler and promoter Bernard Vandamme, but once again the event was cancelled, just three weeks before the scheduled date.
 
 ### Total Blast Wrestling (2009-2011)
+
+_Main article: [Total Blast Wrestling](@/o/tbw.md)_
 
 #### Split from Do Or Die Wrestling
 
