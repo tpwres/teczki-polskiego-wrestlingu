@@ -39,10 +39,10 @@ Rusałka accompanied Sambor during his debut for [Legacy of Wrestling](@/o/low.m
   - [Sambor](@/w/sambor.md) (2023-)
  
 * Entrance music:
-- "Wojownik" by Żywiołak
-   {{ org_badge(orgs=['ptw', 'mzw', 'low']) }} (2023-, while accompanying [Sambor](@/w/sambor.md)) <br>
-   {{ music(yt='uF-arRQVJiI')}}
-   {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
-   {{ music(apple='640336030?i=640336040')}}
+  - "Wojownik" by Żywiołak
+ {{ org_badge(orgs=['ptw', 'mzw', 'low']) }} (2023-, while accompanying [Sambor](@/w/sambor.md)) <br>
+ {{ music(yt='uF-arRQVJiI')}}
+ {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
+ {{ music(apple='640336030?i=640336040')}}
 
 [rusalka]: https://en.wikipedia.org/wiki/Rusalka
