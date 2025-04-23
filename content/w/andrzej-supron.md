@@ -28,8 +28,6 @@ Around 1999 [Paweł Borkowski](@/w/pawel-borkowski.md) came to Andrzej Supron wi
 
 ### Total Blast Wrestling (2009-2011)
 
-_Main artice: [Total Blast Wrestling](@/o/tbw.md)._
-
 #### Split from Do Or Die Wrestling
 
 In 2008 American wrestler [Don Roid](@/w/don-roid.md) settled in Poland and created the first pro wrestling organization, with Supron and Borkowski's support. The newly-created [Do Or Die Wrestling](@/o/ddw.md) had ambitious plans, but had to scale many of them down due to poor ticket sales. After some initial failures, Supron and Borkowski ended their collaboration with DDW, and set off with their own plan.
