@@ -8,13 +8,13 @@ toclevel = 2
 country = ["RU"]
 +++
 
-Serg Sullivan is a Russian wrestler known for his time in [Prime Time Wrestling](@/o/ptw.md).
+Serg Sullivan is a Russian wrestler known for his time in [Prime Time Wrestling](@/o/ptw.md). Before joining PTW, he worked for Moscow-based [НРФ][wrestling-moscow] (NRF).
 
 ## Basic info
 
 * Years active: 2010-present
 * Gimmicks/nicknames:
-  - "The Enigma" Serg Sullvian {{ org_badge(orgs=['ptw']) }}
+  - "The Enigma" Serg Sullivan {{ org_badge(orgs=['ptw']) }}
 
 ## Professional wrestling career
 
@@ -22,17 +22,18 @@ Serg Sullivan is a Russian wrestler known for his time in [Prime Time Wrestling]
 
 #### Debut
 
-Serg Sullivan made his debut working as a villainous masked persona in the Kozłów-based federation [Prime Time Wrestling](@/o/ptw.md). He debuted at [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) in an International Showcase Triple Threat Match against the victorious [Rust](@/w/rust.md), and Mikk Vainula. At [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md) he faced [Łukasz Okoński](@/w/lukasz-okonski.md) in his in-ring debut (then introduced as El Homo).
+Serg Sullivan joined [Prime Time Wrestling](@/o/ptw.md), working as a villainous masked persona. He debuted at [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) in an International Showcase Triple Threat Match against the victorious [Rust](@/w/rust.md), and Mikk Vainula. At [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md) he faced [Łukasz Okoński](@/w/lukasz-okonski.md) in his in-ring debut (with Okoński introduced as El Homo).
 
 #### Feud with Miyagi Shida
 
-At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Serg lost in a Triple Threat Match, won by [Miyagi Shida](@/w/miyagi-shida.md). This led to their Singles Match at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md), which resulted in the disqualification of Serge who attakced Shida with a solid steel briefcase. This heated up their rivalry, leading to a huge brawl after Shida's match at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), which lasted throughout the whole show.
+At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Serg lost in a Triple Threat Match, won by [Miyagi Shida](@/w/miyagi-shida.md). This led to their Singles Match at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md), which resulted in Serge's disqualification, for attacking Shida with a solid steel briefcase.
+This heated up their rivalry, leading to a huge brawl after Shida's match at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), which lasted throughout the whole show.
 
 ## In wrestling
 
 * Finishers:
   - Frog Splash (2024-)
- 
+
 * Entrance music:
   - "Callout" by Atilla
  {{ org_badge(orgs=['ptw']) }} (2024-) <br>
@@ -43,3 +44,5 @@ At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Serg lost in a Trip
 ### References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=11741)
+
+[wrestling-moscow]: https://wrestling.moscow

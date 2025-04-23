@@ -21,7 +21,7 @@ Spartan is a Polish wrestler most notable for his time in [Prime Time Wrestling]
   - Spartan {{ org_badge(orgs=['ptw']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-)
- 
+
 ## Professional wrestling career
 
 ### Prime Time Wrestling (2022-present)
