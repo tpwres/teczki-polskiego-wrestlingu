@@ -59,7 +59,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2006
 
-* Borkowski plans to create a wrestling school, using Supron's ring. The ring is discovered to be too costly to repair, and the idea is abandoned.
+* Borkowski plans to create a wrestling school, using PPWF's ring. It is discovered to be too costly to repair, and the idea is abandoned.
 
 #### 2009
 
@@ -69,7 +69,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2010
 
-* Borkowski and Supron end their relation with DDW, and start [Total Blast Wrestling](@/o/tbw.md), holding two well-received shows with talent from major European organizations at the time, in [Radom](@/e/tbw/2010-02-27-tbw-1.md) and [Zawiercie](@/e/tbw/2010-06-05-tbw-2.md).
+* Borkowski and Supron end their relation with DDW, buy another ring and start [Total Blast Wrestling](@/o/tbw.md), holding two well-received shows with talent from major European organizations at the time, in [Radom](@/e/tbw/2010-02-27-tbw-1.md) and [Zawiercie](@/e/tbw/2010-06-05-tbw-2.md).
 * However, the events weren't financially successful, and the organization folded after the second show.
 * A group of teenage friends starts emulating their wrestling heroes after school in Warsaw. They call themselves _Polski Podwórkowy Wrestling_.
 

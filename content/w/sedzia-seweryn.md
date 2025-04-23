@@ -72,7 +72,7 @@ On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mz
 
 ### Legacy of Wrestling (2024)
 
-During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event.
+During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/madman-charlie.md).
 
 ## In wrestling
 
