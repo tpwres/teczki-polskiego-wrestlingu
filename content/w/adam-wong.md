@@ -8,13 +8,13 @@ toclevel = 2
 country = ["PL"]
 +++
 
+Adam Wong is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md) from 2021 to 2023. He is currently working for [Kombat Pro Wrestling](@/o/kpw.md).
+
 ## Basic info
 
 * Years active: 2021-present
-
 * Gimmicks/nicknames: 
   - "Polish Dragon" Adam Wong {{ org_badge(org='ppw') }}
-
 * Trained by:
   - PpW Dojo (2021-2023)
   - KPW Academy (2024-present)
