@@ -23,11 +23,11 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
   * at the end of the match, the wrestler with the most points wins
   * the winner gets a mysterious prize
 * On 13.04 PpW posted the video of Biesiad held in custody and tortured by PM Shooter mercenaries.
-* On 14.04 PpW posted the viddeo of [Jonny Blade](@/w/johnny-blade.md) infiltrating PM shooter complex. He releases Biesiad and they try to run away. Just when they are about to jump the fence, Blade gets shot. Biesiad is taken back to custody, while mercenaries are digging the grave to bury wounded Blade.
+* On 14.04 PpW posted the viddeo of [Jonny Blade](@/w/johnny-blade.md) infiltrating the PM Shooter complex. He frees Biesiad and they try to run away. Just when they are about to jump the fence, Blade gets shot. Biesiad is taken back into custody, while the mercenaries dig a grave to bury the wounded Blade.
 * On 16.04.2025 PpW's social media announced the first women's match in the promotion's history: Danish wrestler Madison Marley will face an unnamed [Ewenement Dojo](@/o/ewenement-dojo.md)-trained wrestler.
-* On 22.04.2025 PpW posted yet another video of PM Shooter saga. In this one, Mister Z can be seen honoring his deal with PM Shooter mercenaries. He pays them in _artifacts from Peru_ and offers additional bounty in a form of _King Cápac's talisman_ if they finish Biesiad once and for all. This would mean humiliating him in the ring, by sending the strongest mercenary to beat him. Z would be the special referee.
-* On 21.04, [Agentka Agatka] posted a video of her call with Mister Z. She voices her displeasure in Madison Marley getting booked, as it undermines her position as sole woman in PpW. She is thinking of a plan to get rid of Marley.
-* On 23.04.2025 PpW announced that [Biesiad Strong](@/w/biesiad.md) would face Scandinavian wrestler Mr Power Up (PM Shooter's kayfabe representation), and that the match would be officiated by [Mister Z](@/w/mister-z.md) as the Special Guest Referee.
+* On 22.04.2025 PpW posted yet another video in the PM Shooter saga. In this one, Mister Z can be seen honoring his deal with the PM Shooter mercenaries. He pays them in Peruvian artifacts and offers additional bounty in the form of the talisman of King Cápac if they finish Biesiad once and for all. This would mean humiliating him in the ring by sending the strongest mercenary to beat him. Mr Z will be the special referee.
+* On 21.04, Agentka Agatka posted a video of her call with Mister Z. She voices her displeasure in Madison Marley getting booked, as it undermines her position as the sole woman in PpW. She is thinking of a plan to get rid of Marley.
+* On 23.04.2025 PpW announced that [Biesiad Strong](@/w/biesiad.md) would face Scandinavian wrestler Mr Power Up (PM Shooter's kayfabe representative), and that the match would be officiated by [Mister Z](@/w/mister-z.md) as the Special Guest Referee.
 
 {% card(predicted=true) %}
 - - 'Goblis: [Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
@@ -51,9 +51,9 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
 
 ### References
 
-[Mr. Power Up's Cagematch profile](https://www.cagematch.net/?id=2&nr=29033&gimmick=Flex+Powers)
-[Mr. Power Up's Instagram](https://www.instagram.com/mrpowerup_flexpowers/)
-[PM Shooter custody #1](https://www.instagram.com/p/DIZE3pEKw7o/)
-[PM shooter escape attempt](https://www.instagram.com/p/DIbwspSqOSP/)
-[Mister Z negotiates with PM shooter](https://www.instagram.com/p/DIwbHBYqVCl/)
-[Agatka calls Z](https://www.instagram.com/p/DIuPb6kuN2h/)
+* [Mr. Power Up's Cagematch profile](https://www.cagematch.net/?id=2&nr=29033&gimmick=Flex+Powers)
+* [Mr. Power Up's Instagram](https://www.instagram.com/mrpowerup_flexpowers/)
+* [Video 1: PM Shooter custody](https://www.instagram.com/p/DIZE3pEKw7o/)
+* [Video 2: PM shooter escape attempt](https://www.instagram.com/p/DIbwspSqOSP/)
+* [Video 3: Mister Z negotiates with PM shooter](https://www.instagram.com/p/DIwbHBYqVCl/)
+* [Agatka calls Mister Z](https://www.instagram.com/p/DIuPb6kuN2h/)
