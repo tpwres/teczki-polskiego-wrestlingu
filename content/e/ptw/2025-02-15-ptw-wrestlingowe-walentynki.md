@@ -68,7 +68,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 - - 'Betty Boa'
   - 'Kiara'
   - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md)' tournament match"
-- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match

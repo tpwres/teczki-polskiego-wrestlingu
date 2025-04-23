@@ -32,7 +32,7 @@ Luca Bjorn is an Italian wrestler, best known for his time in [Prime Time Wrestl
 
 Luca Bjorn made his debut in [Prime Time Wrestling](@/o/ptw.md) at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md) where he faced Maverick, [Blaze](@/w/blaze.md) and [Rust](@/w/rust.md) in a Fatal Four Way Match for a PTW contract. He was defeated in that bout, but nonetheless continued to make further, regular appearances in the federation. During his stint in PTW he adapted a villainous Viking persona.
 
-In December 2024, at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md), Luca and Rust together, as L'Orda (their tag team on the Italian scene since 2019) challenged Budapest Bastards for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They managed to score a victory over [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md), thus becoming the third PTW Tag Team Champions in history.
+In December 2024, at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md), Luca and Rust together, as [L'Orda](@/tt/l-orda.md) (their tag team on the Italian scene since 2019) challenged Budapest Bastards for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They managed to score a victory over [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md), thus becoming the third PTW Tag Team Champions in history.
 
 
 ## In wrestling
@@ -40,7 +40,7 @@ In December 2024, at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md),
 * Finishers:
   - _Walhalla Drive_ (Kryptonite Krunch Driver) (2024-)
 * Tag Teams and stables:
-  - L'Orda (2024-)
+  - [L'Orda](@/tt/l-orda.md) (2024-)
 * Entrance music:
   - "Guardians of Asgaard" by Amon Amarth
  {{ org_badge(orgs=['ptw']) }} (2024-)<br>

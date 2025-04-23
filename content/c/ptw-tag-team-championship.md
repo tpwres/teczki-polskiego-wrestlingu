@@ -25,7 +25,7 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 ## Statistics
 
 * First champions: PAKA ([Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md) and [Boro](@/w/boro.md))
-* Current champions: L'Orda ([Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md))
+* Current champions: [L'Orda](@/tt/l-orda.md) ([Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md))
 * Longest reign: Budapest Bastards (308 days)
 * Oldest Champion: Renegade (39 years, 99 days)
 * Youngest Champion: Disco Pablo (25 years, 91 days)
@@ -55,13 +55,13 @@ The new version appears much slimmer and smaller than the first one. The main pl
 ### Champions #1: PAKA
 
 {% free_card() %}
-- - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
+- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
   - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
   - s: Tag Team Match
     en: '[PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
     ed: 2023-06-25
-- - 'PAKA: Disco Pablo, Taras(c)'
-  - 'Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
+- - '[PAKA](@/tt/paka.md): Disco Pablo, Taras(c)'
+  - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
   - s: Tag Team Match
     nc: No Contest
     ed: 2023-07-16
@@ -82,8 +82,8 @@ While Boro never defended the title, he was also recognized as a champion.
 ### Champions #2: Budapest Bastards
 
 {% free_card() %}
-- - 'Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
-  - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
+- - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
+  - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
   - 'Sinister Kingdom: [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
   - "MxM Collection: Mansoor, Mason Madden"
   - s: Four Way Tag Team Match
@@ -104,7 +104,7 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Tag Team Match
     ed: 2024-08-25
     en: '[PTW Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md)'
-- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
   - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
   - s: Hardcore Tornado Tag Team Match
     ed: 2024-12-07
@@ -116,8 +116,8 @@ While Boro never defended the title, he was also recognized as a champion.
 ### Champions #3: L'Orda
 
 {% free_card() %}
-- - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
-  - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
+  - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
   - s: Hardcore Tornado Tag Team Match
     ed: 2024-12-07
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
