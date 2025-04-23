@@ -8,6 +8,8 @@ toclevel = 2
 country = ["PL"]
 +++
 
+Alex Brave, previously known as S.Rafał and Sędzia Rafał, is a professional wrestler known for his time in [Prime Time Wrestling](@/o/ptw.md).
+
 ## Basic info
 
 * Years active: 2021-present
@@ -46,7 +48,18 @@ At [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) S.Rafał joined the Gold R
 At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) he officialy declared his name change to "Alex Brave", while still maintaining his cocky over-intellectual heel persona.
 Later in 2024, Alex formed an alliance with another heel, [Vincent Caravaggio](@/w/vincent-caravaggio.md), to feud against [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md). He also started his own recurring segment, calling it the "Alex Brave Show".
 
+At [Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md) he challenged Miyagi Shida to a Career Threating Match, where his victory will mean that Shida would be fired from PTW. However, Brave was unsucessful in defeating his opponent. After [Pan Pawłowkski](@/w/pan-pawlowski.md) - PTW's chairman - turned heel by attacking [Łukasz Okoński](@/w/lukasz-okonski.md) Alex Brave quickly alligned himself with villainous chairman, often praising him in social media, same as Caravaggio and Puncher. Brave was also one of the contenders for inaugural [PTW Underground Championship](@/c/ptw-underground-championship.md), but he was defeated in first round of the tournament by [Blaze](@/w/blaze.md) at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md).
+
+Alex got involved in a main event of [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) where he and Vincent ambushed chairman Okoński before a match and put him through a commentary table. They were, however, chased off by [Andrzej Supron](@/w/andrzej-supron.md) - special guest referee for a match - who headbutted both of the attackers.
+
 ## In wrestling
 
 * Finishers:
   - Moonsault (2024-)
+
+* Entrance music:
+  - "White Rabbit" by Egypt Central
+   {{ org_badge(orgs=['ptw']) }} (2023-) <br>
+   {{ music(yt='Um8EEzl42PQ')}}
+   {{ music(spot='6xwak2gJxMwbLBEJVier7X')}}
+   {{ music(apple='494032236')}}
