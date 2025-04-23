@@ -1,6 +1,7 @@
 +++
 title = "Adam Bravo"
 template = "talent_page.html"
+authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -8,6 +9,17 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "adam-bravo.jpg", caption = "Adam Bravo at an unspecified event.", source = "MyWrestling.com.pl" }
 +++
+
+Adam Bravo is a Polish retired wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also briefly worked for [Prime Time Wrestling](@/o/ptw.md).
+
+## Basic info
+
+* Years active: 2017-2021
+* Gimmicks/nicknames:
+  - Adam Bravo {{ org_badge(orgs=['kpw', 'ptw']) }}
+* Trained by:
+  - KPW Academy (201?-2019)
+  - [PTW Academy](@/o/ptw-academy.md) (2021)
 
 ## Professional wrestling career
 
