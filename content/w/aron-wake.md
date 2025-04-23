@@ -49,20 +49,20 @@ He continued to appear in the crowd during PTW shows, but ultimately [left the f
 
 During an [interview][wywiad-istota] with Istota Wrestlingu, Aron confirmed that his injury is almost impossible to rehabilitate as the surgery would be life-threatening.
 
-Despite his injury Wake slowly returned to part-time training at [Ewenement Dojo](@/o/ewenement-dojo.md) to prepare for his in-ring return.
-He surprised fans by making his first in-ring appearance after over two years at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), facing [Bill Feager](@/w/feager.md) in a chairs match. At [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) he was defeated by [Oskar Aleksander](@/w/oskar-aleksander.md) in a Fatal Four Way Match. He also faced and lost to [Goblin](@/w/goblin.md) in a Gauntlet Survivor Challenge at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), as well as in 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)
+Despite his injury Wake slowly returned to part-time training at [Ewenement Dojo](@/o/ewenement-dojo.md), preparing for his in-ring return.
+He surprised fans by making his first in-ring appearance in over two years at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), facing [Bill Feager](@/w/feager.md) in a chairs match. At [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) he was defeated by [Oskar Aleksander](@/w/oskar-aleksander.md) in a Fatal Four Way Match. He also faced and lost to [Goblin](@/w/goblin.md) in a Gauntlet Survivor Challenge at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), as well as in the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
 #### Championship pursuit
 
-In October 2024 Aron officially worked a match in MZW at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after more than three years. He started working as a heel, trying to win [MZW Championship](@/c/mzw-championship.md), but he was defeated by [Matt Buckna](@/w/matt-buckna.md). For the next show - [Forever](@/e/mzw/2025-03-29-mzw-forever.md) - where initailly Matt planned to fight [Shadow](@/w/shadow.md) in a Singles Match, Aron was added, which transformed the match into Triple Threat. Despite that, Aron was again unable to secure a win over Matt and Shadow. 
+In October 2024 Aron officially worked a match in MZW at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after more than three years. He started working as a heel, trying to win the [MZW Championship](@/c/mzw-championship.md), but was defeated by [Matt Buckna](@/w/matt-buckna.md). At the next show - [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) - Matt initially planned to fight [Shadow](@/w/shadow.md) in a Singles Match, but Aron inserted himself into the card, transforming the match into a Triple Threat. Despite that, Aron was once again unable to secure a win over Matt and Shadow. 
 
 ### Legacy of Wrestling (2024-present)
 
-During the build-up for [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) it was announced that he will participate in a match against his first rival in career - [Gabriel Queen](@/w/gabriel-queen.md). Aron - working as na babyface - has been defeated by Gabriel Queen.
+During the build-up for [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) it was announced that Aron would participate in a match against an opponent from the first match in his career, [Gabriel Queen](@/w/gabriel-queen.md) (back then working as Nathan Cross). Aron, now working as a babyface, lost to Queen.
 
-At [LoW vol.2](@/e/low/2025-04-06-low-2.md) Aron took part in Fatal Five-Way Match, which was won by debuting ex-PTW wrestler [Erik Šlotíř](@/w/erik-slotir.md).
+At [LoW vol.2](@/e/low/2025-04-06-low-2.md) Aron took part in Fatal Five-Way Match, which was won by a debuting ex-PTW wrestler, [Erik Šlotíř](@/w/erik-slotir.md).
 
 ## In wrestling
 
