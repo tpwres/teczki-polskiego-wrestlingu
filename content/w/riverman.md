@@ -10,11 +10,12 @@ country = ["PL"]
 1 = { path = "tony-2-sheen.webp", caption = "Tony Sheen attacks [Matt2Hott](@/w/matt2hot.md).", source = "Tony Sheen's private archive" }
 +++
 
+Tony "The Riverman" Sheen is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also worked for multiple backyard federations before that.
+
 ## Basic info
-* Years active: 
+* Years active: 2011-2014; 2023-present
 * Gimmicks/nicknames:
   - "Aparycja" Tony Sheen (backyard)
-  - Tony Sheen {{ org_badge(orgs=['mzw']) }}
   - Tony "The Riverman" Sheen {{ org_badge(orgs=['mzw']) }}
 
 * Trained by:
@@ -31,10 +32,13 @@ Per his account, he main-evented the final WKSW show. Most of the promotion's ca
 ### Maniac Zone Wrestling (2023-)
 
 Sheen, not announced by name, refereed two MZW shows in 2023.
-In 2024, he made his in-ring debut for the promotion at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) as Tony "The Riverman" Sheen, winning a battle royal.
+In 2024, he made his in-ring debut for the promotion at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) as Tony "The Riverman" Sheen, winning a battle royal. Wearing a fisherman's raincoat and using a fishing net as his signature weapon, the Riverman character seems to take the sailor culture as an inspiration. He later incorporated Aquaman-inspired boots and tights into his attire. As a character, he likes to incorporate fishing references into his promos.
+
 At the next MZW show, Sheen faced [Disco Pablo](@/w/disco-pablo.md), winning thanks to distraction from [Taras](@/w/taras.md).
 
-## Character and persona
-Wearing a fisherman's raincoat and using a fishing net as his signature weapon, the Riverman character seems to take the sailor culture as an inspiration. He later incorporated Aquaman-inspired boots and tights into his attire. As a character, he likes to incorporate fishing references into his promos.
+## In wrestling
+
+* Finishers:
+  - Running Knee Strike (2024-)
 
 [bm4]:https://www.youtube.com/watch?v=AcBIUr_-LqA
