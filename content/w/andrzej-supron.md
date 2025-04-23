@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Andrzej Supron is a Polish greco-roman wrestler, olympian and wrestling commentator best known from Extreme Sports Channel. He is also a former wrestling promoter, and one of the pioneers of bringing pro wrestling to Poland.
+Andrzej Supron is a Polish Greco-Roman wrestler, Olympian and wrestling commentator best known from Extreme Sports Channel. He is also a former wrestling promoter, and one of the pioneers of bringing pro wrestling to Poland.
 
 ## Basic info
 
@@ -20,7 +20,7 @@ Andrzej Supron is a Polish greco-roman wrestler, olympian and wrestling commenta
 
 ### World Wrestling Superstars (1993)
 
-In 1993 Andrzej Supron contacted a group of American wrestlers touring Europe called [World Wrestling Superstars](@/o/wws.md) and convinced them to perform a single [show](@/e/wws/1993-12-14-wws-world-wrestling-superstars.md) in Poland. It took place in December 1993 at Torwar arena in Warsaw. This was the only international wrestling event held in Poland before WWE arrived in the mid-2010.
+In 1993 Andrzej Supron contacted a group of American wrestlers touring Europe, called [World Wrestling Superstars](@/o/wws.md), and convinced them to perform a single [show](@/e/wws/1993-12-14-wws-world-wrestling-superstars.md) in Poland. It took place in December 1993 at Torwar arena in Warsaw. This was the only international wrestling event held in Poland before [WWE](@/o/wwe.md) arrived in the mid-2010.
 
 ### Polish Pro-Wrestling Federation (1999-2003)
 
@@ -32,37 +32,37 @@ _Main artice: [Total Blast Wrestling](@/o/tbw.md)._
 
 #### Split from Do Or Die Wrestling
 
-In 2008, American wrestler [Don Roid](@/w/don-roid.md) settled in Poland, and created the first pro wrestling organization, with Supron and Borkowski's support. The newly created [Do Or Die Wrestling](@/o/ddw.md) had ambitious plans, but had to scale many of them down due to poor ticket sales. After some initial failures, Supron and Borkowski ended their collaboration with DDW, and set off with their own plan.
+In 2008 American wrestler [Don Roid](@/w/don-roid.md) settled in Poland and created the first pro wrestling organization, with Supron and Borkowski's support. The newly-created [Do Or Die Wrestling](@/o/ddw.md) had ambitious plans, but had to scale many of them down due to poor ticket sales. After some initial failures, Supron and Borkowski ended their collaboration with DDW, and set off with their own plan.
 
 #### Successful events
 
 Supron and Borkowski once again contacted Bernard Vandamme, whose wrestling promotion - Eurostars - was holding events in Belgium and France at that time and had a solid roster of experienced workers, although unknown to Polish fans who at the time were mostly exposed to WWE programming. With Bernard's help they also contacted Fight Club Finland, European Wrestling Association from Austria, and the German Wrestling Federation.
 
-Borkowski and Supron held the [first event](@/e/tbw/2010-02-27-tbw-1.md) of the newly created [Total Blast Wrestling](@/w/tbw.md) in February 2010. The event was highly produced, with pyrotechnics, professional lightning and sound. Extreme Sports Channel, which the duo worked for as wrestling commentators, was to re-broadcast the event in several episodes. The organisation held [another event](@/e/tbw/2010-06-05-tbw-2.md) in June 2010 and planned more, but folded soon after due to lack of sponsors.
+Borkowski and Supron held the [first event](@/e/tbw/2010-02-27-tbw-1.md) of the newly-created [Total Blast Wrestling](@/w/tbw.md) in February 2010. The event was highly produced, with pyrotechnics, professional lightning and sound. Extreme Sports Channel, which the duo worked for as wrestling commentators, was to re-broadcast the event in several episodes. The organisation held [another event](@/e/tbw/2010-06-05-tbw-2.md) in June 2010 and planned more, but folded soon after due to lack of sponsors.
 
 ### Prime Time Wrestling (2022-2025)
 
-Supron made a few special guest appearances for [Prime Time Wrestling](@/o/ptw.md). He commentated the main event of [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) and provided commentary for other big show [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). 
+Supron made a few special guest appearances for [Prime Time Wrestling](@/o/ptw.md). He commentated the main event of [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) and provided commentary for another big show, [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). 
 
-He made his return to PTW at their show [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) where he served as special guest referee in a match between [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) and [Łukasz Okoński](@/w/lukasz-okonski.md). During said match he also got into a physical alteraction where he headbutted villainous [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) who attacked Okoński before a match.
+Supron made his return to PTW at their show [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), where he served as a special guest referee in a match between [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) and [Łukasz Okoński](@/w/lukasz-okonski.md). During said match he also got into a physical alteraction where he headbutted villainous [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md), who attacked Okoński before the match.
 
-### Professional wrestling commenator (1999-2024)
+### Professional wrestling commentator (1999-2024)
 
-From 1999 Andrzej Supron regulary works as an pro wrestling commenator. He started by solely commentating WWF matches on "Wizja Sport" TV Channel between 1999 and 2001. 
-Later on he was joined by Paweł Borkowski, working for Eurosport, and from 2007 to 2024 for Extreme Sports Channel. 
-They also worked for Orange Sport working on TNA between 2012 and 2013. 
+Since 1999 Andrzej Supron has been regulary working as a pro wrestling commenator. He started by providing solo commentary for WWF matches on the "Wizja Sport" TV Channel between 1999 and 2001. 
+Later on he was joined by Paweł Borkowski working for Eurosport, and from 2007 to 2024 for Extreme Sports Channel. 
+They also worked for Orange Sport, commentating TNA shows between 2012 and 2013. 
 
-## Supron's Ring
+## Supron's ring
 
-Ring bought and owned by Andrzej Supron became one of the most important artifacts in Polish Wrestling Scene history. Supron obtained the ring in 2010 and used it to host Total Blast Wrestling shows, but later on he rented it to backyard group called [Wrestlingowy Klub Sportowy Wołów](@/o/wksw.md). In mid-2014 the ring itself has been viciously stolen by two wrestlers from Elbląg-area: CMD and the legend currently known as [Vic Golden](@/w/vic-golden.md). It has been held by EKW (Elbląski Klub Sportowy) federation for an undisclosed period of time, before it has been returned to Supron, who stored it on his wife's backyard in Warsaw. 
+The ring bought and owned by Andrzej Supron became one of the most important artifacts in the history of the Polish wrestling scene. Supron obtained the ring in 2010 and used it to host TBW shows, but later on he rented it to a backyard group called [Wrestlingowy Klub Sportowy Wołów](@/o/wksw.md). In mid-2014 the ring itself was stolen by two wrestlers from the Elbląg area: CMD and the legend currently known as [Vic Golden](@/w/vic-golden.md). It was held by the Elbląski Klub Sportowy group for an unknown time before being returned to Supron, who stored it in his wife's back yard in Warsaw. 
 
-Over the weekend of March 6-8 2024 it was announced, that the ring has been sold to [PpW Ewenement](@/o/ppw.md). From that point on the ring - officially named "Supron" by PpW's workers and staff members - is used on PpW mid, and large-sized shows.
+Over the weekend of March 6th-8th, 2024, it was announced that the ring had been sold to [PpW Ewenement](@/o/ppw.md). From that point on the ring - officially named "Supron" by PpW's workers and staff members - has been used at PpW mid-, and large-scale shows.
 
 ## In wrestling
 
 * Entrance music:
   - "Medal" by Jim Johnston
-    {{ org_badge(orgs=['ptw']) }} (2025) <br>
-    {{ music(yt='jYRKvdEJSJc')}}
-    {{ music(spot='18tJInJEdUrNNLbEqOcQHi')}}
-    {{ music(apple='1382308075')}}
+ {{ org_badge(orgs=['ptw']) }} (2025) <br>
+ {{ music(yt='jYRKvdEJSJc')}}
+ {{ music(spot='18tJInJEdUrNNLbEqOcQHi')}}
+ {{ music(apple='1382308075')}}
