@@ -18,6 +18,10 @@ Andrzej Supron is a Polish Greco-Roman wrestler, Olympian and wrestling commenta
 
 ## Professional wrestling career
 
+### Supron Stars (1990-1992)
+
+In early 1990s Andrzej Supron organised a group of bodybuilders, sportsmen and actors trained loosely by Supron to perform in Poland and ex-Soviet republics such as Georgia, Armenia, Lithuania etc. However, not much information or media is avaliable from that time. 
+
 ### World Wrestling Superstars (1993)
 
 In 1993 Andrzej Supron contacted a group of American wrestlers touring Europe, called [World Wrestling Superstars](@/o/wws.md), and convinced them to perform a single [show](@/e/wws/1993-12-14-wws-world-wrestling-superstars.md) in Poland. It took place in December 1993 at Torwar arena in Warsaw. This was the only international wrestling event held in Poland before [WWE](@/o/wwe.md) arrived in the mid-2010.
