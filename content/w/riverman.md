@@ -32,9 +32,9 @@ Per his account, he main-evented the final WKSW show. Most of the promotion's ca
 ### Maniac Zone Wrestling (2023-)
 
 Sheen, not announced by name, refereed two MZW shows in 2023.
-In 2024, he made his in-ring debut for the promotion at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) as Tony "The Riverman" Sheen, winning a battle royal. Wearing a fisherman's raincoat and using a fishing net as his signature weapon, the Riverman character seems to take the sailor culture as an inspiration. He later incorporated Aquaman-inspired boots and tights into his attire. As a character, he likes to incorporate fishing references into his promos.
+In 2024, he made his in-ring debut for the promotion at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) as Tony "The Riverman" Sheen, winning a battle royal. Wearing a fisherman's raincoat and using a fishing net as his signature weapon, the Riverman character seems to take the sailor culture as an inspiration. He later added Aquaman-inspired boots and tights into his attire. As a character, he likes to incorporate fishing references into his promos.
 
-At the next MZW show, Sheen faced [Disco Pablo](@/w/disco-pablo.md), winning thanks to distraction from [Taras](@/w/taras.md).
+At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), Sheen faced [Disco Pablo](@/w/disco-pablo.md), winning thanks to distraction from [Taras](@/w/taras.md).
 
 ## In wrestling
 
