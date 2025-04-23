@@ -12,7 +12,7 @@ Serg Sullivan is a Russian wrestler known for his time in [Prime Time Wrestling]
 
 ## Basic info
 
-* Years active: 2024-present
+* Years active: 2010-present
 * Gimmicks/nicknames:
   - "The Enigma" Serg Sullvian {{ org_badge(orgs=['ptw']) }}
 
@@ -39,3 +39,7 @@ At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Serg lost in a Trip
     {{ music(yt='dkYnqCwuw-g')}}
     {{ music(spot='1D11qBrbCj0kpxLID6VrFo')}}
     {{ music(apple='1440928179')}}
+
+### References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=11741)
