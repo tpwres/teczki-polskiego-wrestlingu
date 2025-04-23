@@ -65,7 +65,11 @@ In January 2021 Robert was slated to debut at a Danish BODYSLAM! Pro-Wrestling's
 On May 11th, 2024, [PpW Ewenement](@/o/ppw.md) announced booking Robert Star for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) the following month.
 This surprised fans, but was well received both by fans and wrestling YouTubers. PpW wrestlers shared this to their Instagram stories, with comments like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery) and its main prize, a 1200HP Nissan GTR). The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held on that day.
 
-Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified so as not to lose the match. He also made his return during the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified so as not to lose the match. In 2025, he returned once more during the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+
+### Legacy of Wrestling (2025)
+
+Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show](@/e/low/2025-04-06-low-2.md). He observed the first few matches sitting at the bar, close to the ring. In the fourth match, [Greg](@/w/greg.md) was scheduled to face [Vic Golden](@/w/vic-golden.md), but [Chemik](@/w/chemik.md) jumped Greg during his entrance routine. When Acting Chairman [Longman](@/w/wiktor-longman.md) forced Chemik to return to the backstage, Robert came out, in full ring gear and helped Greg, by attacking Chemik. The singles match was quickly turned into a Tag Team Match, where Robert joined his longtime KPW rival Greg against Chemik and Vic.
 
 ## In wrestling
 
