@@ -25,11 +25,16 @@ Alex Ace, previously known as Alexander Reich, is a German wrestler best known f
 
 #### Alexander Reich & Catch Connection
 
-Alexander Reich made his debut for [Maniac Zone Wrestling](@/o/mzw.md) in May 2015 at [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) as member of Catch Connection, along with [Ronny Kessler](@/w/ronny-kessler.md). His appearances for MZW were possible thanks to the good working relations between Polish federation and German wrestling scene, mostly Drezden-based federations. At [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md) Catch Connection defeated Zbójnicy ([Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) for [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md). They became third champions in history. Their reign lasted up until [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) when they were defeated by Watacha ([Justin Joy](@/w/justin-joy.md) & [Apollo Anderson](@/w/apollo-anderson.md)), ending their championship reign at 497 days. 
+Alexander Reich made his debut for [Maniac Zone Wrestling](@/o/mzw.md) in May 2015 at [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) as member of Catch Connection, along with [Ronny Kessler](@/w/ronny-kessler.md).
+His appearances for MZW were possible thanks to good working relations between the Polish federation and German wrestling scene, mostly Dresden-based organizations like Next Step Wrestling.
+At [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md) Catch Connection defeated Zbójnicy ([Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) to win the [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md), becoming the third champions in the belt's history.
+Their reign lasted up until [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) in 2018, when they were defeated by Wataha ([Justin Joy](@/w/justin-joy.md) & [Apollo Anderson](@/w/apollo-anderson.md)), ending their championship reign at 497 days.
 
-#### Alex Ace 
+#### Alex Ace
 
-After his defeat in a Tag Team Championship Match Alexander Reich vanished from MZW. His hiatus lasted up until 2023, where he returned to Wrocław-based federation as Alex Ace at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), where he was defeated by Leo Zayde in a Triple Threat Match. At [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) he returned as ERW East Division Champion and defended his title against [Shadow](@/w/shadow.md), managing to emerge victorious in a controvelsial fashion after hitting [Referee](@/w/sedzia-seweryn.md) with a championship belt.
+After his defeat in a Tag Team Championship Match, Alexander Reich vanished from MZW.
+His hiatus lasted until 2023, when he returned to the Wrocław-based federation as Alex Ace at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), losing to Leo Zayde in a Triple Threat Match.
+At [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) he returned once more, as ERW East Division Champion and defended his title against [Shadow](@/w/shadow.md), managing to emerge victorious in a controversial fashion after hitting [Referee Seweryn](@/w/sedzia-seweryn.md) with his championship belt.
 
 ## In wrestling
 

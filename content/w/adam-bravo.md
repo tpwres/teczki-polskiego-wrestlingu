@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "adam-bravo.jpg", caption = "Adam Bravo at an unspecified event.", source = "MyWrestling.com.pl" }
 +++
 
-Adam Bravo is a Polish retired wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also briefly worked for [Prime Time Wrestling](@/o/ptw.md).
+Adam Bravo is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also briefly worked for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -25,9 +25,8 @@ Adam Bravo is a Polish retired wrestler best known for his time in [Kombat Pro W
 
 ### Kombat Pro Wrestling (2017-2019)
 
-Adam debuted for [Kombat Pro Wrestling](@/o/kpw.md) at the [sixth Arena show](@/e/kpw/2017-04-08-kpw-arena-6.md), and appeared in 12 matches,
+Adam debuted for [Kombat Pro Wrestling](@/o/kpw.md) at the [sixth Arena show](@/e/kpw/2017-04-08-kpw-arena-6.md), working as enhancement talent
 both in singles and tag competition, and including several multi-man matches.
-However he failed to win each one of them.
 
 ### Prime Time Wrestling (2021)
 
