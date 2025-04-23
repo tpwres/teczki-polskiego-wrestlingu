@@ -38,7 +38,7 @@ In 2008 American wrestler [Don Roid](@/w/don-roid.md) settled in Poland and crea
 
 Supron and Borkowski once again contacted Bernard Vandamme, whose wrestling promotion - Eurostars - was holding events in Belgium and France at that time and had a solid roster of experienced workers, although unknown to Polish fans who at the time were mostly exposed to WWE programming. With Bernard's help they also contacted Fight Club Finland, European Wrestling Association from Austria, and the German Wrestling Federation.
 
-Borkowski and Supron held the [first event](@/e/tbw/2010-02-27-tbw-1.md) of the newly-created [Total Blast Wrestling](@/w/tbw.md) in February 2010. The event was highly produced, with pyrotechnics, professional lightning and sound. Extreme Sports Channel, which the duo worked for as wrestling commentators, was to re-broadcast the event in several episodes. The organisation held [another event](@/e/tbw/2010-06-05-tbw-2.md) in June 2010 and planned more, but folded soon after due to lack of sponsors.
+Borkowski and Supron held the [first event](@/e/tbw/2010-02-27-tbw-1.md) of the newly-created [Total Blast Wrestling](@/o/tbw.md) in February 2010. The event was highly produced, with pyrotechnics, professional lightning and sound. Extreme Sports Channel, which the duo worked for as wrestling commentators, was to re-broadcast the event in several episodes. The organisation held [another event](@/e/tbw/2010-06-05-tbw-2.md) in June 2010 and planned more, but folded soon after due to lack of sponsors.
 
 ### Prime Time Wrestling (2022-2025)
 
