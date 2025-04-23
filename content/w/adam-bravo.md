@@ -26,12 +26,12 @@ Adam Bravo is a retired Polish wrestler best known for his time in [Kombat Pro W
 ### Kombat Pro Wrestling (2017-2019)
 
 Adam debuted for [Kombat Pro Wrestling](@/o/kpw.md) at the [sixth Arena show](@/e/kpw/2017-04-08-kpw-arena-6.md), working as enhancement talent
-both in singles and tag competition, and including several multi-man matches.
+both in singles and tag competition, including several multi-man matches.
 
 ### Prime Time Wrestling (2021)
 
 After his KPW run, Bravo became affiliated with [Prime Time Wrestling](@/o/ptw.md) and focused his social media channels on promoting the project.
-Ultimately, he didn't make even a single official in-ring appearance for them.
+Ultimately, he didn't make even a single official in-ring appearance for the new promotion.
 His fellow KPW alumni [Sawicki](@/w/sawicki.md) also shared the same fate - initially joining but never getting a match opportunity.
 
 ### References
