@@ -20,13 +20,13 @@ Arkadiusz Paterek is a Polish wrestling commentator, on-screen personality and m
 
 ### Prime Time Wrestling (2021-2024)
 
-Arkadiusz Paterek made his debut in professional wrestling business working for [Prime Time Wrestling](@/o/ptw.md) from its start in late 2021. His on-air debut took place at PTW's debut show [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). From that point on he made his appearance on most of the PTW shows, covering a total of nineteen shows. His last appearance took place at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) after which he announced his [departure from PTW](@/a/ptw-exits.md). 
+Arkadiusz Paterek made his debut in professional wrestling business working for [Prime Time Wrestling](@/o/ptw.md) from its inception in the late 2021. His on-air debut took place at PTW's debut show [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). From that point on he appeared at most of the PTW shows, covering a total of nineteen shows. His made his final appearance at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), after which he announced his [departure from PTW](@/a/ptw-exits.md). 
 
-### Legacy Of Wrestling (2024-present)
+### Legacy of Wrestling (2024-present)
 
-Arek Paterek joined new wrestling project runned by his ex-PTW collegues called [Legacy of Wrestling](@/o/low.md). For the [first show](@/e/low/2024-12-01-low-1.md) he worked as commentator and guest host. 
+After parting ways with Prime Time, Arek Paterek joined the new wrestling project ran by his ex-PTW colleagues: [Legacy of Wrestling](@/o/low.md). For Legacy's [inaugural show](@/e/low/2024-12-01-low-1.md) he worked as a commentator and guest host. 
 
-At Legacy's [second show](@/e/low/2025-04-06-low-2.md) beside commentary he also introduced new LoW's acting chairman [Wiktor Longman](@/w/wiktor-longman.md), as well as he accompanied [Erik Šlotíř](@/w/erik-slotir.md) during his match as a seemingly villainous manager. After the show he announced creation of new stable called "Biuro Prasowe" (_Press Office_), with Erik becoming his first "client".
+At the [second show](@/e/low/2025-04-06-low-2.md), in addition to providing commentary, he introduced Legacy's new acting chairman, [Wiktor Longman](@/w/wiktor-longman.md), and also accompanied [Erik Šlotíř](@/w/erik-slotir.md) during his match, as a seemingly villainous manager. After the show Paterek announced the creation of a new stable called "Biuro Prasowe" (_Press Office_), with Erik becoming his first "client".
 
 ## In wrestling
 
