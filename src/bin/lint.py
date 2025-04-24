@@ -4,17 +4,19 @@ import tomllib
 from pathlib import Path
 from argparse import ArgumentParser
 from itertools import chain
-from typing import Optional, cast
+from typing import Optional, cast, Callable
 from sys import exit
 from linters.base import LintError, FileBackedDoc, StreamDoc, Linter
 from linters.unlinked_participant import UnlinkedParticipantLinter
 from linters.unlinked_name import UnlinkedNameLinter
 from linters.unlinked_event import UnlinkedEventLinter
 from linters.well_formed_event import WellFormedEventLinter
+from linters.championship_updated import ChampionshipUpdatedLinter
 
 known_linters = {
     'WellFormedEvent': WellFormedEventLinter,
     'UnlinkedParticipant': UnlinkedParticipantLinter,
+    'ChampionshipUpdated': ChampionshipUpdatedLinter,
 }
 
 def lookup_linter(name, config, linter_options={}) -> Optional[Linter]:
@@ -22,9 +24,19 @@ def lookup_linter(name, config, linter_options={}) -> Optional[Linter]:
     if name in known_linters:
         return known_linters[name](config=config, linter_options=linter_options)
 
-def maybe_expand_dir(path: Path):
+PathPredicate = Callable[[Path], bool]
+
+def maybe_expand_dir(path: Path, predicate: Optional[PathPredicate] = None) -> list[Path]:
+    """
+    If the file path given is a directory, recursively find files that match
+    a pattern for event files under it, and return the list. Otherwise,
+    return a list with just the path given.
+    """
+    if not predicate:
+        predicate = lambda _p: True
+
     if path.is_dir():
-        return [p.absolute() for p in path.rglob('????-??-??-*.md')]
+        return [p.absolute() for p in path.rglob('*.md') if predicate(path)]
     else:
         return [path.absolute()]
 
@@ -40,10 +52,7 @@ def lint_main(args):
     else:
         files_to_lint = maybe_expand_dir(cwd / 'content/e')
 
-    if args.relative:
-        error_relative_to = cwd
-    else:
-        error_relative_to = None
+    error_relative_to = cwd if args.relative else None
 
     linter_options = {}
     if args.emacs:
@@ -66,6 +75,9 @@ def lint_main(args):
         file_errors: list[LintError] = []
 
         for linter in linters_to_run:
+            if not linter.handles(path):
+                continue
+
             linter.reset()
             file_errors.extend(linter.lint(doc))
 
@@ -139,13 +151,20 @@ def build_argparser():
         description="Run various lint tasks on event files")
 
     parser.add_argument(dest='event_files', nargs='*', metavar='filename.md',
-                        help='Filename to check. If not specified, run on all event files.')
-    parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
-    parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
-    parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
-    parser.add_argument('-L', metavar='LINTER', action='extend', dest='linters', nargs='+', help='Use the specified linters')
-    parser.add_argument('-r', '--relative', action='store_const', dest='relative', const=True, help='Show error file paths relative to cwd')
-    parser.add_argument('-E', '--emacs', action='store_const', dest='emacs', const=True, help='Disable some checks that are not suitable for Flycheck.')
+                        help='''Filename to check. If not specified, run on all event files.
+                                If passed a directory, check all files under it recursively.''')
+    parser.add_argument('-A', action='store_const', const=True,
+                        dest='auto', help="Fix errors automatically")
+    parser.add_argument('-a', action='store_const', const=True,
+                        dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
+    parser.add_argument('-f', action='store_const', const=True,
+                        dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
+    parser.add_argument('-L', metavar='LINTER', action='extend',
+                        dest='linters', nargs='+', help='Use the specified linters')
+    parser.add_argument('-r', '--relative', action='store_const',
+                        dest='relative', const=True, help='Show error file paths relative to cwd')
+    parser.add_argument('-E', '--emacs', action='store_const',
+                        dest='emacs', const=True, help='Disable some checks that are not suitable for Flycheck.')
     return parser
 
 def main():

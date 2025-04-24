@@ -1,17 +1,13 @@
 from pathlib import Path
-from page import page
+from page import all_talent_pages, all_event_pages
 from typing import cast
 
 def load_existing_name_articles() -> dict[str, Path]:
     cwd = Path.cwd()
     talent_dir = cwd / 'content/w'
-    name_files = talent_dir.glob('*.md')
     names = {}
-    for path in name_files:
-        if path.name == '_index.md': continue
-        if path.name.startswith('.'): continue
-
-        article = page(path)
+    for article in all_talent_pages():
+        path = article.path
         front_matter = article.front_matter
         names[front_matter['title']] = path
         if extra := front_matter.get('extra'):
@@ -24,15 +20,11 @@ def load_existing_name_articles() -> dict[str, Path]:
     return names
 
 def load_names_with_aliases() -> dict[str, set[str]]:
-    cwd = Path.cwd()
-    talent_dir = cwd / 'content/w'
-    name_files = talent_dir.glob('*.md')
     names = {}
-    for path in name_files:
-        if path.name == '_index.md': continue
-        if path.name.startswith('.'): continue
+    for talent in all_talent_pages():
+        if talent.path.stem == '_index':
+            continue
 
-        talent = page(path)
         match talent.front_matter:
             case {"extra": dict(extra), "title": str(title)}:
                 preferred_name = extra.get('career_name', title)
@@ -43,13 +35,9 @@ def load_names_with_aliases() -> dict[str, set[str]]:
     return names
 
 def load_event_articles() -> dict[str, Path]:
-    cwd = Path.cwd()
-    events_dir = cwd / 'content/e'
-    all_event_files = events_dir.glob('**/????-??-??-*.md')
     events_dict = {}
-    for path in all_event_files:
-        event = page(path)
+    for event in all_event_pages():
         title = event.front_matter['title']
 
-        events_dict[title] = path
+        events_dict[title] = event.path
     return events_dict

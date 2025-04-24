@@ -7,7 +7,8 @@ import json
 from typing import Iterable, cast, Optional
 from utils import RichEncoder, accepted_name
 from card import Match, Name, CardParseError, extract_names, names_in_match
-from page import EventPage
+from page import EventPage, all_event_pages
+from sink import ConsoleSink
 from sys import stderr, exit
 
 OrgYears = dict[str, int]
@@ -103,21 +104,15 @@ def main():
     cwd = Path.cwd()
     num_errors = 0
 
-    events_dir = cwd / "content/e"
-    # Omit _index.md pages
-    event_pages = events_dir.glob("**/????-??-??-*.md")
+    sink = ConsoleSink()
+    for page in all_event_pages(sink=sink):
+        card = page.card
+        if not (card and card.matches):
+            stderr.write(f"{page.path}: Warning: no card available, skipping\n")
+            continue
 
-    for path in event_pages:
-        try:
-            page = EventPage(path, verbose=False)
-            card = page.card
-            if not card.matches:
-                stderr.write(f"{path}: Warning: no card available, skipping\n")
-                continue
-            update_career(career, page)
-            update_cbf(career_by_file, page)
-        except CardParseError:
-            num_errors += 1
+        update_career(career, page)
+        update_cbf(career_by_file, page)
 
     if num_errors > 0:
         stderr.write("Errors found, aborting\n")

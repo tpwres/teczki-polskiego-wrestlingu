@@ -50,12 +50,12 @@ Both sides of the Championship also feature sideplates - one with a big Polish f
   - '[Klarys](@/w/klarys.md)'
   - '[Rider](@/w/asmund.md)'
   - s: Ten Man Gauntlet Match
-    en: '[DDW All or Nothing](@/e/ddw/2010-05-08-ddw-all-or-nothing.md)'
+    en: '[DDW All Or Nothing](@/e/ddw/2010-05-08-ddw-all-or-nothing.md)'
     ed: 2010-05-08
 - - 'Joe Legend (c)'
   - 'Omen'
   - s: Singles match
-    en: '[DDW #5: Dzień Sądu](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md)'
+    en: '[DDW #5 Dzień Sądu](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md)'
     ed: 2011-01-15
 - - 'Joe Legend (c)'
   - 'Kamil Aleksander'
@@ -76,7 +76,7 @@ Following DDW #7 the title was vacated and the promotion had no champion for 890
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Renegade](@/w/renegade.md)'
   - s: Singles match
-    en: '[DDW All or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 - - 'Kamil Aleksander (c)'
   - '[Don Roid](@/w/don-roid.md)'
