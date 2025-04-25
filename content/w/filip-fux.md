@@ -48,7 +48,7 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy Of Wr
 
 * Finishers:
   - _Fux Bomb_ (2021-)
-  - Cutter (2023-)
+  - Mother Cutter (2023-)
 * With [Michał Fux](@/w/michal-fux.md):
   - Flapjack (Michał) and Cutter (Filip) combination (2021-)
   - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
