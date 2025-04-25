@@ -21,7 +21,7 @@ city = "Warszawa"
     n: '[Feager](@/w/feager.md), originally booked and announced, no-showed the fight.'
 - credits:
     Referee: Koteł
-    Ring Announcer: ???
+    Ring Announcer: Dzięki
 {% end %}
 
 ### References
