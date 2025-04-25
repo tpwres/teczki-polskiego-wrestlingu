@@ -43,7 +43,7 @@ The foreign guests for the event were:
 - - '[Zefir](@/w/zefir.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
 - - 'Die Ordnung: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)'
-  - 'The Fux Brothers: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
+  - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
   - '[Primate](@/w/primate.md), Tommy Freeman'
   - 'Gałąź Gregoriańska: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
@@ -81,7 +81,7 @@ The foreign guests for the event were:
 #### Recap
 
 * Three Stages of Hell was a best 2 out of 3 falls match, but with stipulations changing after each pinfall. The stipulations were chosen at random by Chairman Krystian Malinowski. This resulted in the opening as a Submission Match, followed by a Texas Chain Match, and finally a Hardcore Match.
-* Rosetti was quick to cash in his title opportunity on the badly beaten and tired David Oliwa, and grabbed the second belt for his faction
+* Rosetti was quick to cash in his title opportunity on the badly beaten and tired David Oliwa, and grabbed the second belt for his faction.
 
 ### References
 
