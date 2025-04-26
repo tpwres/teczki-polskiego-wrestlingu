@@ -50,11 +50,11 @@ city = "Chorzów"
     Interviewer 'Łukasz "Broda" Mitura'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
     Panel host: 'Krzysztof Skwarczyński'
-     
+    Panel guests: 'Sylwia Cross, Paweł "Trybson" Trybała'
 {% end %}
 
 ### Recap
-* Taking part in the pre-show panel and later present in the audience were Polish YouTube personalities: Sylwia Cross, Paweł "Trybson" Trybała, Lil Masti, WuWunio, AdBuster, Yoczook and Mateusz Grabowski.
+* Taking part in the pre-show panel and later present in the audience were Polish celebrities, mainly with YouTube and internet presence: Paweł "Trybson" Trybała, Lil Masti, WuWunio, AdBuster, Yoczook and Mateusz Grabowski.
 
 ### References
 
