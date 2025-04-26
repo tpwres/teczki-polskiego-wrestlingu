@@ -36,10 +36,11 @@ city = "Chorzów"
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - g: 'Pawłowski welcomes Trybson to PTW. When asked about his first opponent, he gets challenged by Puncher, whom he throws over the top rope'
-- - "Marius Al-Ani, [Syriusz Dziedzic](@/w/dziedzic.md)"
-  -  "[Disco Pablo](@/w/disco-pablo.md), [Santino](@/w/santino.md)"
+- - 'Marius Al-Ani, [Syriusz Dziedzic](@/w/dziedzic.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md), [Santino](@/w/santino.md)'
   - s: Tag Team Match
-- [Chris Masters, '[Robert Star](@/w/robert-star.md)']
+- - 'Chris Masters'
+  - '[Robert Star](@/w/robert-star.md)'
 - - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - '[Nick Aldis](@/w/nick-aldis.md)'
   - r: DQ
@@ -48,9 +49,12 @@ city = "Chorzów"
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Interviewer 'Łukasz "Broda" Mitura'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
-    Pre-show/break panel: 'Krzysztof Skwarczyński, Sylwia Cross, Paweł "Trybson" Trybała", Lil Masti, WuWunio, AdBuster, Yoczook, Mateusz Grabowski')
+    Panel host: 'Krzysztof Skwarczyński'
      
 {% end %}
+
+### Recap
+* Taking part in the pre-show panel and later present in the audience were Polish YouTube personalities: Sylwia Cross, Paweł "Trybson" Trybała, Lil Masti, WuWunio, AdBuster, Yoczook and Mateusz Grabowski.
 
 ### References
 
