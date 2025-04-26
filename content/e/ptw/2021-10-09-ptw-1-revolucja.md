@@ -12,6 +12,9 @@ city = "Chorzów"
 +++
 
 {% card() %}
+- 'Marcin "Rzeźnik" Rzeźniczek'
+- '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+- g: PTW's two owners welcome the fans
 - ['[Taras](@/w/taras.md)', Axel Tischer]
 - ['[Joe E. Legend](@/w/joe-legend.md)', '[Peter Pannache](@/w/peter-pannache.md)']
 - ['[TAXI Złotówa](@/w/taxi-zlotowa.md)', '[Marcel Budzianowski](@/w/marcelito.md)']
@@ -29,6 +32,10 @@ city = "Chorzów"
   - '[Michał "Mutant" Świątkowski](@/w/mutant.md)'
   - '[Sinister](@/w/sinister.md)'
   - s: Battle Royal
+- - 'Paweł "Trybson" Trybała'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - g: 'Pawłowski welcomes Trybson to PTW. When asked about his first opponent, he gets challenged by Puncher, whom he throws over the top rope'
 - - "Marius Al-Ani, [Syriusz Dziedzic](@/w/dziedzic.md)"
   -  "[Disco Pablo](@/w/disco-pablo.md), [Santino](@/w/santino.md)"
   - s: Tag Team Match
@@ -38,14 +45,17 @@ city = "Chorzów"
   - r: DQ
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Interviewer: Krzysztof Skwarczyński
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
+    Interviewer 'Łukasz "Broda" Mitura'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
+    Pre-show/break panel: 'Krzysztof Skwarczyński, Sylwia Cross, Paweł "Trybson" Trybała", Lil Masti, WuWunio, AdBuster, Yoczook, Mateusz Grabowski')
+     
 {% end %}
 
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=326348)
 * [Full event on TVP Sport][ptwrevolucja-tvp-sport]
+* [Full event on Youtube](https://www.youtube.com/watch?v=lwNDsuU3HVw&t=5s&ab_channel=PTW-PrimeTimeWrestling)
 
 [ptwrevolucja-tvp-sport]: https://sport.tvp.pl/56112996/kinguin-prime-time-wrestling-1-revolucja-transmisja-na-zywo-online-live-stream-gdzie-ogladac
