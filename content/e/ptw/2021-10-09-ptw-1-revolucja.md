@@ -1,4 +1,4 @@
-+++
+e+++
 title = "PTW #1: REVOLUCJA"
 template = "event_page.html"
 [taxonomies]
@@ -52,7 +52,7 @@ city = "Chorzów"
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
-    Interviewer 'Łukasz "Broda" Mitura'
+    Interviewer: 'Łukasz "Broda" Mitura'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
     Panel host: 'Krzysztof Skwarczyński'
     Panel guests: 'Sylwia Cross, Paweł "Trybson" Trybała'
