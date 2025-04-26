@@ -12,14 +12,19 @@ city = "Chorzów"
 +++
 
 {% card() %}
-- 'Marcin "Rzeźnik" Rzeźniczek'
-- '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-- g: PTW's two owners welcome the fans
-- ['[Taras](@/w/taras.md)', Axel Tischer]
-- ['[Joe E. Legend](@/w/joe-legend.md)', '[Peter Pannache](@/w/peter-pannache.md)']
-- ['[TAXI Złotówa](@/w/taxi-zlotowa.md)', '[Marcel Budzianowski](@/w/marcelito.md)']
-- [Arczi Czajka, '[Remo](@/w/remo.md)']
-- ['[Jonny Storm](@/w/jonny-storm.md)', Jody Fleisch]
+- - 'Marcin "Rzeźnik" Rzeźniczek'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: "PTW's two owners welcome the fans"
+- - '[Taras](@/w/taras.md)'
+  - 'Axel Tischer'
+- - '[Joe E. Legend](@/w/joe-legend.md)'
+  - '[Peter Pannache](@/w/peter-pannache.md)'
+- - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
+  - '[Marcel Budzianowski](@/w/marcelito.md)'
+- - 'Arczi Czajka'
+  - '[Remo](@/w/remo.md)'
+- - '[Jonny Storm](@/w/jonny-storm.md)'
+  - 'Jody Fleisch'
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
@@ -54,7 +59,7 @@ city = "Chorzów"
 {% end %}
 
 ### Recap
-* Taking part in the pre-show panel and later present in the audience were Polish celebrities, mainly with YouTube and internet presence: Paweł "Trybson" Trybała, Lil Masti, WuWunio, AdBuster, Yoczook and Mateusz Grabowski.
+* Taking part in the pre-show panel and later present in the audience were Polish celebrities, mainly known from YouTube and Internet presence: Lil Masti, WuWunio, AdBuster, Yoczook and Mateusz Grabowski.
 
 ### References
 
