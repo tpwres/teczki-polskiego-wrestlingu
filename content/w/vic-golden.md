@@ -105,9 +105,19 @@ Despite not being billed for the show, Vic intervened in the post-match beatdown
 In a [recap post][mb-recap] of the show, PpW confirmed that he had joined the roster.
 It was announced that he would perform under a so-called "legends contract", which _de facto_ meant that his appearances would be limited to part-time occasions.
 
-At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Vic and his tag team partner issued an open challenge, which was accepted by their former allies Legia Łysych.
-This was teased in numerous altercations in social media.
-After Legia Łysych joined [Zmowa](@/tt/zmowa.md), Pure Gold became their opponents joining "Zmowa Przeciwko Zmowie" in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) with them emerging victorious from the feud.
+At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Vic and his tag team partner issued an open challenge. It was accepted by their former allies and opponents, [Legia Łysych](@/tt/legia-lysych.md), which was teased in their numerous altercations on social media.
+After Legia Łysych joined [Zmowa](@/tt/zmowa.md), Pure Gold became their opponents joining "Zmowa Przeciwko Zmowie" in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), with the team of Vic & Queen emerging victorious from the feud.
+
+#### Pure Gold break-up
+
+At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) in December 2024 Gabriel won a Gauntlet Match, which resulted in [Biesiad](@/w/biesiad.md) - dressed as Santa - gifting him a contract to face the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md) at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md).
+With Golden in his corner, Queen failed to capture the championship, due to time-out.
+
+At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and [Isnorr](@/w/isnorr.md). The match resulted in Gustav and Isnorr's defeat, after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first defeat during his title reign, and Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match, just before Gabriel Queen went for the second pinfall and victory, Vic Golden struck him with a chair, allowing Gustav to retain.
+
+### Legacy of Wrestling (2025)
+
+Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md). What was announced as a singles match between him and [Greg](@/w/greg.md) turned into a tag team match when the unannounced [Chemik](@/w/chemik.md) jumped Greg, who was then aided by [Robert Star](@/w/robert-star.md). The babyface duo won, with Greg pinning Vic.
 
 ## In wrestling
 
