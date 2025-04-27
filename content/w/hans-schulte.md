@@ -6,8 +6,14 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["DE"]
-[extra.gallery]
-1 = { path = "hans-schulte.jpg", caption = "Hans Schulte at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) with his [KPW Championship](@/c/kpw-championship.md).", source = "m.fotografika" }
+[extra.gallery.1]
+path = "hans-schulte.jpg"
+caption = "Hans Schulte at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) with his [KPW Championship](@/c/kpw-championship.md)."
+source = "m.fotografika"
+[extra.gallery.2]
+path = "schulte_three_belts.webp"
+caption = "Hans Schulte with the [KPW Championship](@/c/kpw-championship.md), LDN Heavyweight Championship, and Nordisch Fight Club's BIG SLAM World Championship belts."
+source = "Instagram profile @hansschultepro"
 +++
 
 Hans Schulte is a German wrestler best known to Polish audiences for his time in [Kombat Pro Wrestling](@/o/kpw.md).
@@ -55,6 +61,10 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in 
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Veit Müller](@/w/veit-mueller.md)
   - [KPW Championship](@/c/kpw-championship.md) (1 time; current)
   - Magnificent Seven No-DQ Elimination Championship Contract Ladder Match (2024)
+
+## Internet presence
+
+* [hansschultepro on Instagram](https://www.instagram.com/hansschultepro/)
 
 ## References
 
