@@ -59,7 +59,7 @@ As usual, Pawłowski makes a full entrance to open the show. Once again, he goes
 
 #### Budapest Bastards Open Challenge
 
-Bastards make their entrance. Renegade cuts a pre-match promo, hyping the meaning of Bastards' title win and inviting the mystery opponents. Out comes Marcelito, followed by Axel Fox. A competitive match, finished in an unfortunate fashion. The lights go out. Initally it sees like a set-up for interference (presumably by Sinister Kingdom), but it turns out to be just a power outage. The show goes into a 30 minutes break, and live video transmission is interrupted. The match finishes in complete darkness, Bastards retain.
+Bastards make their entrance. Renegade cuts a pre-match promo, hyping the meaning of Bastards' title win and inviting the mystery opponents. Out comes Marcelito, followed by Axel Fox. A competitive match, finished in an unfortunate fashion. The lights go out. Initally it sees like a set-up for interference (presumably by [Sinister Kingdom](@/tt/sinister-kingdom.md)), but it turns out to be just a power outage. The show goes into a 30 minutes break, and live video transmission is interrupted. The match finishes in complete darkness, Bastards retain.
 
 #### Caravaggio vs El Ogre
 
@@ -105,7 +105,7 @@ During the promos, Pawłowski made conflicting remarks whether Hammers's title i
 
 #### Main event: Puncher vs Marius Al-Ani
 
-Pawłowski starts to announce main event of the evening, but is cut off by Sinister Kingdom's entrance music. [Sinister](@/w/sinister.md) and [Dziedzic](@/w/dziedzic.md) (sporting different facepaint than usual) make their way to the ring.
+Pawłowski starts to announce main event of the evening, but is cut off by [Sinister Kingdom's](@/tt/sinister-kingdom.md) entrance music. [Sinister](@/w/sinister.md) and [Dziedzic](@/w/dziedzic.md) (sporting different facepaint than usual) make their way to the ring.
 In an unusal fashion for them, they cut a less serious promo, celebrating the demise of Paka, whose 2 out of 3 members are on the shelf.
 The celebration was comedic, over the top, full of jokes, complete with blowing party horns.
 The team declares they don't need tag team belts, as they already have their own belts (presenting the belts from their trousers) and that they are already gold themselves.

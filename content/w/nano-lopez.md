@@ -43,7 +43,7 @@ After BlackOut, Nano started a feud with one of the PTW's top villains at the ti
 
 In February 2023 at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md) Lopez was scheduled to face [Marco Hammers](@/w/marco-hammers.md), but he was attacked by the returning [Remo](@/w/remo.md) before the match started. This caused Nano to be sidelined for almost half a year until he returned to PTW at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where he defeated [Olgierd](@/w/olgierd.md).
 
-In October "Starboy" appeared at [Underground 18](@/e/ptw/2023-10-01-ptw-underground-18.md) where he adressed his another arm injury, but he promised that he would return to defeat Sinister Kingdom.
+In October "Starboy" appeared at [Underground 18](@/e/ptw/2023-10-01-ptw-underground-18.md) where he adressed his another arm injury, but he promised that he would return to defeat [Sinister Kingdom](@/tt/sinister-kingdom.md).
 
 #### Feud with Sinister Kingdom
 
