@@ -30,7 +30,7 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Mr B.](@/w/mr-b.md)"]
 - ["[Red Thunder](@/w/red-thunder.md)", "[Kripto](@/w/kripto.md)"]
 - - "Projekt Gold: Nickolas von Rijk, [Robert Kaiser](@/w/robert-kaiser.md)"
-  - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+  - "[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - c: "Belgium Pro Wrestling Federation Championship"
     s: "Tag Team Match"
 - - >

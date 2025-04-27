@@ -28,7 +28,7 @@ Alex Ace, previously known as Alexander Reich, is a German wrestler best known f
 Alexander Reich made his debut for [Maniac Zone Wrestling](@/o/mzw.md) in May 2015 at [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md), as a member of Catch Connection, along with [Ronny Kessler](@/w/ronny-kessler.md).
 His appearances for MZW were possible thanks to good working relations between the Polish federation and the German wrestling scene, mostly Dresden-based organizations like Next Step Wrestling.
 
-At [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md) Catch Connection defeated Zbójnicy ([Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) to win the [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md), becoming the third champions in the history of the title.
+At [Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md) Catch Connection defeated [Zbójnicy](@/tt/zbojnicy.md) to win the [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md), becoming the third champions in the history of the title.
 Their reign lasted up until [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) in 2018, when they were defeated by Wataha ([Justin Joy](@/w/justin-joy.md) & [Apollo Anderson](@/w/apollo-anderson.md)), ending their championship reign after 497 days.
 
 #### Alex Ace

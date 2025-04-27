@@ -8,7 +8,7 @@ venue = ["gosir-glucholazy"]
 city = "Głuchołazy"
 [extra.gallery.1]
 path = "plakat.webp"
-caption = "Show poster, featuring the team of Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)."
+caption = "Show poster, featuring the team of [Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)."
 source = "Official MZW Facebook"
 +++
 
@@ -27,7 +27,7 @@ Attendance: estimated about 300
   - '???'
   - s: 'Two On One Handicap Match'
 - - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md); Columbus'
-  - 'Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
