@@ -66,6 +66,8 @@ Source: Facebook @kpwrestling.
 
 On 18.11.2024 KPW [announced][kpw-on-extreme] a deal with Extreme Sports Channel. The TV station would air KPW shows beginning with [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) which, unlike its counterpart on FightBox, was shown with a commentary by [Krystian Czekaj](@/w/krystian-czekaj.md). The events shown on television were considerably cut down: the running times were only around 1:30&nbsp;h for Arenas and 2:30&nbsp;h for [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md). As a result many of the promos and other non-wrestling segments were shortened or even omitted entirely.
 
+On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Kombat TV, would make a return in a new format, airing twice a month on Extreme Sports Channel.
+
 ### Foreign relations
 
 KPW regularly invites talent from the European independent scene to their events, especially the yearly supershow Godzina Zero. Initially they invited wrestlers from Hungary, with whom DDW had had good relations. Later, most of the talent came from Germany and Austria. Several wrestlers from the British scene also appeared on KPW's shows. The hottest guest appearance among them were Primate and Wild Boar, by that time a tag team seen in NXT UK, and Mark Haskins, a veteran of the British scene. KPW's own wrestlers occassionally appeared abroad, mostly in Austria and Germany. KPW does not try to draw attendance by relying on foreign stars and, with [only](@/e/kpw/2018-07-14-kpw-oldtown-3.md) [a](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md) [few](@/e/kpw/2021-08-21-kpw-arena-17.md) [rare](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) [exceptions](@/e/kpw/2024-11-15-kpw-arena-26.md), almost always puts them against their own talent.
@@ -113,3 +115,4 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 [kawaler-watching-tv]:https://www.facebook.com/kawalerwrestling/posts/pfbid028kdGNo5vEVnSscGnsCzUr9spHsX14gPKk3ocJ7ogMSnnqPh2cxWsuCfMAUyrGdbyl
 [low-fux]:https://www.facebook.com/photo/?fbid=122119129010468820&set=pb.61564064601704.-2207520000
 [kpw-on-extreme]:https://www.facebook.com/kpwrestling/posts/pfbid0YGB2msLrahPdbVHb9YfF7YeXqQLacmtHD5c3Swuk4KzK4qFatZhkTsDLtvR5DSYDl
+[kombat-tv]: https://www.facebook.com/photo/?fbid=1003326585259914&set=a.517136233878954
