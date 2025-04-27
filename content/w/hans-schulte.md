@@ -12,7 +12,7 @@ caption = "Hans Schulte at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-ze
 source = "m.fotografika"
 [extra.gallery.2]
 path = "schulte_three_belts.webp"
-caption = "Hans Schulte with the [KPW Championship](@/c/kpw-championship.md), LDN Heavyweight Championship, and Nordisch Fight Club's BIG SLAM World Championship belts."
+caption = "Hans Schulte with the [KPW Championship](@/c/kpw-championship.md), LDN British Heavyweight Championship, and Nordisch Fight Club's BIG SLAM World Championship belts."
 source = "Instagram profile @hansschultepro"
 +++
 
