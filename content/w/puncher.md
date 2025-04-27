@@ -40,7 +40,7 @@ After his feud with Star had ended, Puncher continued his victory streak, markin
 
 At the following [Underground show](@/e/ptw/2024-04-13-ptw-underground-21.md) he also became champion of PTW's sister promotion WWA, winning the belt from Marius Al-Ani.
 
-At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) Puncher faced the ex-WWE Polish-Nigerian wrestler Baba-Thunder. Their match was ruled a no-contest due to an intervention by Sinister Kingdom. This ending was one of the main negative points of the show, which resulted in a huge backlash from the fans.
+At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) Puncher faced the ex-WWE Polish-Nigerian wrestler Baba-Thunder. Their match was ruled a no-contest due to an intervention by [Sinister Kingdom](@/tt/sinister-kingdom.md). This ending was one of the main negative points of the show, which resulted in a huge backlash from the fans.
 
 #### Criticizing the PTW Exits
 

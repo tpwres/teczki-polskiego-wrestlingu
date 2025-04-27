@@ -38,7 +38,7 @@ At [RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) in 2022, Disco Pablo and [Diana 
 
 #### Championship reign
 
-PAKA made their first title defence at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where they faced Budapest Bastards ([Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md)). They emerged victorious, but afterwards an attack from Legia Łysych caused the match to be ruleda no-contest by the referee. After that Pablo got involved in fighting off Legia Łysych and Gabriel Queen in a six-man tag team match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md), as well as some exhibition matches. He did not defend his championship until Gold Rush, where he and Taras faced Budapest Bastards, MxM Collection and Sinister Kingdom. PAKA ultimately lost the PTW Tag Team Championship to Budapest Bastards.
+PAKA made their first title defence at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where they faced [Budapest Bastards](@/tt/budapest-bastards.md). They emerged victorious, but afterwards an attack from Legia Łysych caused the match to be ruleda no-contest by the referee. After that Pablo got involved in fighting off Legia Łysych and Gabriel Queen in a six-man tag team match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md), as well as some exhibition matches. He did not defend his championship until Gold Rush, where he and Taras faced Budapest Bastards, MxM Collection and [Sinister Kingdom](@/tt/sinister-kingdom.md). PAKA ultimately lost the PTW Tag Team Championship to Budapest Bastards.
 
 #### Final feuds and departure
 
