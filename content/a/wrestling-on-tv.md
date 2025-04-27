@@ -97,6 +97,8 @@ No further KPW shows aired on FightBox.
 
 In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadcast of both shows on Sunday January 5th. From now on, the only WWE programming on the channel would be WWE Classic Gold. In exchange, the channel added two more British wrestling organizations to its schedule: Newcastle-based North Wrestling, and Wolverhampton-based Burning Hearts Pro Wrestling, both to air on Thursday evenings. The first episode of Burning Hearts aired on January 16th with commentary by [Pawłowski](@/w/pan-pawlowski.md) and Supron.
 
+On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Kombat TV, would make a return in a new format, airing twice a month on Extreme Sports Channel.
+
 ## References
 
 * [Article by SixKiller of Attitude Forum](https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time
@@ -120,3 +122,4 @@ In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadc
 [atv-wikipedia]: https://pl.wikipedia.org/wiki/ATV_%E2%80%93_Krajowa_Telewizja_Kablowa
 [mzw-tvp3]: https://wroclaw.tvp.pl/48638715/wyrezyserowany-grozny-na-pozor-wrestling-nabiera-popularnosci-we-wroclawiu
 [aew-warner]: https://www.polsatmedia.pl/Aktualnosc_6786/All-Elite-Wrestling-Emitowany-W-Polsce-Wylacznie-W-Warner-TV_1825161/index.html
+[kombat-tv]: https://www.facebook.com/photo/?fbid=1003326585259914&set=a.517136233878954
