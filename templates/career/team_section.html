@@ -1,5 +1,5 @@
 {% set org_styles = config.extra.org_styles %}
-{% set careers = load_data(path="data/team_career_v2.json") %}
+{% set careers = load_data(path="data/team_careers.json") %}
 {% set empty_obj = [] | group_by(attribute='0') %}
 {# Career entries will be looked up by zola link first, then by team name #}
 {# If needed, [extra] can contain team_career_keys with additional identifiers. #}
