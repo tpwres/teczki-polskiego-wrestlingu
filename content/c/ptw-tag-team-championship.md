@@ -68,7 +68,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
     en: '[PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
 - - 'Budapest Bastards: Renegade, Nitro'
   - 'PAKA: Disco Pablo, Taras(c)'
-  - 'Sinister Kingdom: [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
+  - '[Sinister Kingdom](@/tt/sinister-kingdom.md): [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
   - "MxM Collection: Mansoor, Mason Madden"
   - s: Four Way Tag Team Match
     ed: 2024-02-03

@@ -66,7 +66,7 @@ Afterwards, none of the graphics for the show featured Kinguin in either logo or
 After closing 2022 with Legends, PTW continued to hold Underground shows.
 Throughout the first half of the year, they continued at a monthly pace (except for January, which saw a double-header Underground weekend).
 On June 25th in Wrocław, PTW held their 4th major show overall and the only one for 2023 - [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md).
-This event saw the crowning of PAKA as the inaugural PTW Tag Team Champions, a storyline involving [Bad Bones](@/w/bad-bones.md) kidnapping Marcin Rzeźniczek, and the formation of what would later become The Sinister Kingdom.
+This event saw the crowning of PAKA as the inaugural PTW Tag Team Champions, a storyline involving [Bad Bones](@/w/bad-bones.md) kidnapping Marcin Rzeźniczek, and the formation of what would later become [The Sinister Kingdom](@/tt/sinister-kingdom.md).
 Foreign starpower was significantly lower than in previous major shows, presumably due to titular sponsor dropping out.
 This was also the first major PTW show to be put behind a paywall (the supporter functionality of YouTube; the first fight was available for free), with the live stream dropping out so often that it rendered the show unwatchable.
 All these issues caused a lot of controversy, angering the fans who were demanding refunds - which PTW later granted in the form of free tickets and discounts for PTW's merchandise.

@@ -33,7 +33,7 @@ From his debut onwards he kept a winning streak over wrestlers such as [Jacob Cr
 At [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) Krampus was involved in a Last Man Standing Match between [Sinister](@/w/sinister.md) and [Nano Lopez](@/w/nano-lopez.md).
 Krampus attacked Nano and put him through the commentary table, allowing Sinister to score a victory. After that, the Austrian powerhouse bowed to Sinister, joining him as an enforcer.
 
-After defeating Peter Tihanyi at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), Krampus helped Sinister to recruit another acolyte to Sinister Kingdom: [Syriusz Dziedzic](@/w/dziedzic.md).
+After defeating Peter Tihanyi at [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), Krampus helped Sinister to recruit another acolyte to [Sinister Kingdom](@/tt/sinister-kingdom.md): [Syriusz Dziedzic](@/w/dziedzic.md).
 He then continued to aid Sinister in his ventures, most notably in a rivalry against Nano Lopez. The Spanish wrestler had the opportunity to face Krampus in a Singles Match at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), but was unable to defeat him. At the same show, Krampus was set to enter the Gold Rush Rumble, but was prevented from doing so by Nano, who attacked and abducted Sinister, forcing Krampus to forfeit his Rumble appearance and chase after his master.
 
 At [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) Krampus and Dziedzic got involved in a main event between [Puncher](@/w/puncher.md) and Babathunder, where they attacked both competitors and caused the match to be ruled as no-contest. This angle was perceived very negatively by the fans, adding another issue to an already criticised show. Ultimately, after Total Blast and [PTW's huge talent exodus](@/a/ptw-exits.md), which included Dziedzic and Sinister, the angle was scrapped.
@@ -53,7 +53,7 @@ They even promoted their own PTW:WWA Championship and PTW:WWA Tag Team Champions
 * Finishers:
   - Rolling Cutter (2022-)
 * Tag Teams and stables:
-  - Sinister Kingdom (2022-2024)
+  - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2022-2024)
 * Entrance music:
   - "Krampus Theme" by Stereo Theater
    {{ org_badge(orgs=['ptw']) }} (2022-) <br>

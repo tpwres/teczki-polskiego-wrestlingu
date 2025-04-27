@@ -39,6 +39,8 @@ After [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md), Sinister started a feud 
 
 #### Sinister Kingdom
 
+_Main article: [Sinister Kingdom](@/tt/sinister-kingdom.md)_
+
 After [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) Sinister would make fewer in-ring appearances, limiting himself mostly to managing Krampus. His persona was used as one of the main motives behind [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) which improved his position as a puppet master of the whole PTW. At the same show, he added one more person to his stable - Syriusz Dziedzic - who joined him to finally emerge as his real self. Sinister officialy "baptised" Dziedzic at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md) and took part in a Fatal Four Way Tag Team Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) where he and Dziedzic were more interested in preventing PAKA from winning than actually winning themselves, possibly teasing a new feud.
 However, no action from Sinister Kingdom was required - with [Boro](@/w/boro.md) quietly leaving the promotion and Taras stretchered out after [Wiktor Longman's](@/w/wiktor-longman.md) attack at [Underground 20](@/e/ptw/2023-12-10-ptw-underground-20.md), [Disco Pablo](@/w/disco-pablo.md) remained the last Paka member standing. At the same show, Sinister and Dziedzic celebrated Paka's demise in an over-the-top fashion, complete with party hats and party horns.
 
@@ -53,7 +55,7 @@ Sinister made his return to wrestling at [Legacy of Wrestling's](@/o/low.md) [fi
 * Finishers:
   - Curb Stomp (2021-)
 * Tag Teams and stables:
-  - Sinister Kingdom (2023-2024)
+  - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2023-2024)
 * Entrance music:
   - "GladWeHaveAnUnderstanding" by Bones
  {{ org_badge(orgs=['ptw', 'low']) }} (2021-)  <br>

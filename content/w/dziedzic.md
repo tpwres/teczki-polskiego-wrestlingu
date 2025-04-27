@@ -33,7 +33,7 @@ Following his defeat at BlackOut, Dziedzic went into a long losing streak which 
 
 #### Sinister Kingdom
 
-Numerous failures led Dziedzic into adapting a more dark and desperate persona. At [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) he joined Sinister Kingdom - a villainous stable of Sinister and [Krampus](@/w/krampus.md). Joining Sinister Kingdom gave Dziedzic enough momentum to finally break his losing streak by defeating [Marcelito](@/w/marcelito.md) at [RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md). At [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md) Dziedzic was officially "baptised" as a member of Sinister Kingdom. The leadership of Sinister allowed him to get onto a winning streak and eventually join a Fatal Four Way Tag Team Match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) where he - along with Sinister - faced PAKA, Budapest Bastards and MxM Collection. They were unsucessful in securing a win, but they stood tall, as - according to Sinister - they only cared about PAKA losing the Tag Team titles.
+Numerous failures led Dziedzic into adapting a more dark and desperate persona. At [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) he joined [Sinister Kingdom](@/tt/sinister-kingdom.md) - a villainous stable of Sinister and [Krampus](@/w/krampus.md). Joining Sinister Kingdom gave Dziedzic enough momentum to finally break his losing streak by defeating [Marcelito](@/w/marcelito.md) at [RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md). At [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md) Dziedzic was officially "baptised" as a member of Sinister Kingdom. The leadership of Sinister allowed him to get onto a winning streak and eventually join a Fatal Four Way Tag Team Match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) where he - along with Sinister - faced PAKA, Budapest Bastards and MxM Collection. They were unsucessful in securing a win, but they stood tall, as - according to Sinister - they only cared about PAKA losing the Tag Team titles.
 
 #### Total Blast and departure
 
@@ -61,7 +61,7 @@ Dziedzic joined [Legacy of Wrestling](@/o/low.md), a Katowice-based project fund
   - Spinning Heel Kick (2021-)
 
 * Tag Teams and stables:
-  - Sinister Kingdom (2023-2024)
+  - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2023-2024)
 
 * Entrance music:
   - "Popular Monster" by Falling In Reverse
