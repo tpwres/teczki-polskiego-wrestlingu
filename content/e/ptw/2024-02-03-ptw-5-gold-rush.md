@@ -32,8 +32,8 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 - ['[Krampus](@/w/krampus.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: No
       DQ Match}]
 - [PJ Black, Lince Dorado]
-- - "Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)"
-  - "PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
+- - "[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)"
+  - "[PAKA](@/tt/paka.md): [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
   - "[Sinister Kingdom](@/tt/sinister-kingdom.md): [Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md)"
   - "MxM Collection: Mansoor, Mason Madden"
   - {c: "PTW Tag Team Championship"}
