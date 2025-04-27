@@ -45,7 +45,7 @@ Some time after his appearance in DFW, Amisz started regular pro wrestling train
 
 #### Becoming Axel Fox
 
-Amisz, now renamed and repackaged as "Axel Fox", quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław. Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/a/zieloni.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
+Amisz, now renamed and repackaged as "Axel Fox", quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław. Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/tt/zieloni.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
 
 Fox made a couple of appearances on the German indy scene, in Next Step Wrestling and Unlimited Wrestling (who often cooperated with MZW back then).
 

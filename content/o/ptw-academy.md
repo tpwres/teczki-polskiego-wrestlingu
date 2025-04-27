@@ -77,7 +77,7 @@ Additionally, multiple ex-[MZW](@/o/mzw.md) & [KPW](@/o/kpw.md) wrestlers had tr
 The original plan for PTW Academy was to attract not only pro wrestling enthusiasts, but also new people unaware of wrestling culture and specifics.
 Pawłowski frequently tried to attract non-wrestling celebrities to attend training sessions, but after [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), when these efforts largely failed, that strategy was abandoned and PTW Academy focused more on developing their own stars.
 During that year some of the wrestlers allied themselves in a group called "the Originals", a nickname given to PTW-raised talent under the influence of Pawłowski's teachings and wrestling philosophy.
-Those differences would later lead to conflicts between the Originals and other groups who came to PTW from other organizations (especially "[The Greens](@/a/zieloni.md)") later on.
+Those differences would later lead to conflicts between the Originals and other groups who came to PTW from other organizations (especially "[The Greens](@/tt/zieloni.md)") later on.
 
 ### 2022-2023: The golden era
 

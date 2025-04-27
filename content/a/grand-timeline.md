@@ -121,7 +121,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2018
 
 * MZW [moves permanently](@/o/paw.md#2018-2019-moving-to-wroclaw) from Głuchołazy to Wrocław. This boosts attendance at their training sessions greatly.
-* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, form a group known as [The Greens](@/a/zieloni.md).
+* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, form a group known as [The Greens](@/tt/zieloni.md).
 
 #### 2019
 
