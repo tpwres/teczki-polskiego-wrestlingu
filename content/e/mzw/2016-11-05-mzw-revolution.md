@@ -28,7 +28,7 @@ city = "Głuchołazy"
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - 'Otto Stahl'
   - s: 'Triple Threat Match'
-- - 'Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+- - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Catch Connection](@/tt/catch-connection.md): [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)'
   - nc: 'Double DQ'
     s: Tag Team Match

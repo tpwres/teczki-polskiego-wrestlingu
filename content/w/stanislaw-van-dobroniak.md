@@ -25,7 +25,7 @@ Stanisław Van Dobroniak is a Polish wrestler based in Sweden, who is most notab
 
 #### Teaming with Bułecka
 
-Stanisław Van Dobroniak made his debut on the Polish scene as the partner of [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a tag team called "Zbójnicy" (_Highwaymen_, but specifically in [Carpathian folklore][wiki-zbojnicy]). He rocked a gimmick of a babyface Polish emigrant working man, to match his partner's [Góral][wiki-gorale] (Polish Highlander) gimmick. His first match took place at [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) where he and Jędruś fought against Nickolas von Rijk and [Robert Kaiser](@/w/robert-kaiser.md) for the BPWF Tag Team Championship. For the next couple of shows he made rather regular appearances working both solo and in a tag team.
+Stanisław Van Dobroniak made his debut on the Polish scene as the partner of [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a tag team called "[Zbójnicy](@/tt/zbojnicy.md)". He rocked a gimmick of a babyface Polish emigrant working man, to match his partner's [Góral][wiki-gorale] (Polish Highlander) gimmick. His first match took place at [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) where he and Jędruś fought against Nickolas von Rijk and [Robert Kaiser](@/w/robert-kaiser.md) for the BPWF Tag Team Championship. For the next couple of shows he made rather regular appearances working both solo and in a tag team.
 
 At [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) Zbójnicy won a match against [Kripto](@/w/kripto.md) and [Red Thunder](@/w/red-thunder.md) to become the inaugural [MZW Tag Team Champions](@/c/mzw-tag-team-championship.md). They managed to defend it against Catch Connection at [Revolution](@/e/mzw/2016-11-05-mzw-revolution.md) but lost to [Storm Riders](@/tt/storm-riders.md) - Red Thunder and [Blue Thunder](@/w/blue-thunder.md) - at [Charity Show 2017](@/e/mzw/2017-01-15-mzw-charity-show-2017.md). After that defeat and Bułecka's pause from in-ring competition, Zbójnicy disbanded.
 
@@ -59,7 +59,7 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 * Finishers:
   - _Polish Hammer_ (2022-)
 * Tag Teams and Stables:
-  - Zbójnicy (2015-2017)
+  - [Zbójnicy](@/tt/zbojnicy.md) (2015-2017)
 * Entrance music:
   - "W Murowanej Piwnicy" by Kapela Pieczarki
  {{ org_badge(orgs=['mzw']) }} (2015-2017, in tag team with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) <br>
@@ -84,5 +84,4 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14513)
 
 [bm-493]: https://www.youtube.com/watch?v=2azqxchwafo
-[wiki-zbojnicy]: https://pl.wikipedia.org/wiki/Zb%C3%B3jnicy
 [wiki-gorale]: https://en.wikipedia.org/wiki/Gorals

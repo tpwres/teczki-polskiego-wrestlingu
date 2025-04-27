@@ -50,7 +50,7 @@ Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wre
 - _Flaming Valask_ (Leg Drop Bulldog)
 - _Flaga Na Maszt_ (Headlock Driver)
 * Tag teams and stables:
-  - Zbójnicy (2015-2017)
+  - [Zbójnicy](@/tt/zbojnicy.md) (2015-2017)
 * Entrance music:
   - "W Murowanej Piwnicy" by Kapela Pieczarki
  {{ org_badge(orgs=['mzw']) }} (2015-2017, in a tag-team with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)) <br>

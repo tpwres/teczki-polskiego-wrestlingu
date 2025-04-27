@@ -29,7 +29,7 @@ source = "Showoff @ Twitter"
 - ["[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Red Thunder](@/w/red-thunder.md)",
   {r: "DQ"}]
 - ["[Asmund](@/w/asmund.md)", "[Skull Evil](@/w/skull-evil.md)"]
-- - "Zbójnicy: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
+- - "[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
   - "[Kripto](@/w/kripto.md), [Red Thunder](@/w/red-thunder.md)"
   - c: "MZW Tag Team Championship"
 - - "[Shadow](@/w/shadow.md)"
