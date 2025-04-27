@@ -68,7 +68,7 @@ In May 2018 MZW and PAW moved to Wrocław, holding most of their events and trai
 After the summer camp of 2018 Jędruś Bułecka retired from his coach duties, leaving the trio of Shadow, Asmund and Justin Joy in charge.
 That lasted for almost another year until the summer training camp of 2019, after which Justin and Asmund also retired from coaching (the latter also from wrestling in general).
 
-This period also saw the formation of a social group later called "[The Greens](@/a/zieloni.md)", composed of both rookies and some of the coaches. The group's members would later become important talent in MZW and other organizations.
+This period also saw the formation of a social group later called "[The Greens](@/tt/zieloni.md)", composed of both rookies and some of the coaches. The group's members would later become important talent in MZW and other organizations.
 
 ### 2019-2023: Shadow's solo run, PTW
 

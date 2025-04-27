@@ -26,7 +26,7 @@ Boro, also known as Lady Killer, is a Polish wrestler best known for his time in
 
 ### Maniac Zone Wrestling (2017-2021)
 
-Boro started his wrestling career by training at MZW-operated [Polska Akademia Wrestlingu](@/o/paw.md) in Głuchołazy in 2016. He made his debut the next year at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) where he participated in a tag team match and a battle royal. He debuted under his slighty modified real-life name "Bartosz Borowsky". He then changed his ringname and gimmick to "Lady Killer" - a cocky heel womanizer persona. He performed as Lady Killer for the best part of his stint in MZW, mostly during the "Project" era when he appeared at most of the shows. He also become one of the founding members of ["The Greens"](@/a/zieloni.md).
+Boro started his wrestling career by training at MZW-operated [Polska Akademia Wrestlingu](@/o/paw.md) in Głuchołazy in 2016. He made his debut the next year at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) where he participated in a tag team match and a battle royal. He debuted under his slighty modified real-life name "Bartosz Borowsky". He then changed his ringname and gimmick to "Lady Killer" - a cocky heel womanizer persona. He performed as Lady Killer for the best part of his stint in MZW, mostly during the "Project" era when he appeared at most of the shows. He also become one of the founding members of ["The Greens"](@/tt/zieloni.md).
 
 During the COVID pandemic Boro did not appear at the MZW Basement shows and quietly left the federation in early-to-mid 2021.
 
@@ -50,7 +50,7 @@ Despite the fact that Boro did not win the [PTW Tag Team Championship](@/c/ptw-t
 
 At [PTW Underground #17](@/e/ptw/2023-09-03-ptw-underground-17.md) he faced [Wiktor Longman](@/w/wiktor-longman.md) who at that time was feuding with Pawłowski. During that match Boro suffered a kayfabe knee injury caused by Longman, and he was officially sent on rehabilitation to France for an undisclosed length of time.
 
-Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, when he posted his "Last Dance Story" where he clearly supported wrestlers leaving PTW, such as his teammates from PAKA and the members of his ["Green Gang"](@/a/zieloni.md).
+Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, when he posted his "Last Dance Story" where he clearly supported wrestlers leaving PTW, such as his teammates from PAKA and the members of his ["Green Gang"](@/tt/zieloni.md).
 
 ## In wrestling
 

@@ -92,5 +92,5 @@ Just before Queen went for the second pinfall and victory, Vic Golden turned on 
   
 ## Affiliations
 
-* [Zieloni](@/a/zieloni.md)
+* [Zieloni](@/tt/zieloni.md)
 * [Zmowa przeciwko Zmowie](@/tt/zmowa.md) (2024)

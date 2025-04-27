@@ -30,7 +30,7 @@ Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active
 #### Rookie & in-ring debut
 
 Seweryn set his foot in a wrestling ring for the first time at PAW Summer Camp 2018, held in Wrocław.
-In late 2018 and early 2019 he became one of the founding members of [The Greens](@/a/zieloni.md).
+In late 2018 and early 2019 he became one of the founding members of [The Greens](@/tt/zieloni.md).
 Initially aiming to become a wrestler, he continued to train in PAW regularly for the next year, making his debut as Ring Rat during [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) Rookie Battle Royal, where he eliminated [Krueger](@/w/olgierd.md) before being eliminated by [Nathan Cross](@/w/gabriel-queen.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 After that he made yet another appearance, in a segment during [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), along with Anatolii, [Hexia](@/w/hexia.md) & Krueger.
 Later, during the pandemic lockdown, he decided to resign from his wrestler's career to become full-time wrestling referee.

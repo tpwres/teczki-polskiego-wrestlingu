@@ -23,7 +23,7 @@ Rafi Rarytas, also simply known as "Rafi", is a retired Polish wrestler best kno
 
 ### Maniac Zone Wrestling (2018-2021)
 
-Rafi started his pro-wrestling training in [Polska Akademia Wrestlingu](@/o/paw.md), which was [Maniac Zone Wrestling's](@/o/mzw.md) dojo in 2018. He never made an official appearance as an in-ring performer, but he was spotted there as a ring crew member - most notably as one of camera operators during [MZW Project Basement](@/e/project-basement.md) tapings in early 2021. After that he left MZWA in early-to-mid 2021, seemingly on better terms with MZW's authority figures than part of the roster who called themselves "[The Greens](@/a/zieloni.md)".
+Rafi started his pro-wrestling training in [Polska Akademia Wrestlingu](@/o/paw.md), which was [Maniac Zone Wrestling's](@/o/mzw.md) dojo in 2018. He never made an official appearance as an in-ring performer, but he was spotted there as a ring crew member - most notably as one of camera operators during [MZW Project Basement](@/e/project-basement.md) tapings in early 2021. After that he left MZWA in early-to-mid 2021, seemingly on better terms with MZW's authority figures than part of the roster who called themselves "[The Greens](@/tt/zieloni.md)".
 
 ### Prime Time Wrestling (2022-2023)
 

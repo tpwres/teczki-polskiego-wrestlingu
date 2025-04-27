@@ -2,7 +2,7 @@
 title = "Zieloni"
 weight = 0
 template = "article.html"
-aliases = ["/a/the-greens"]
+aliases = ["/a/the-greens", "/a/zieloni"]
 authors = ["Sewi The Referee"]
 +++
 

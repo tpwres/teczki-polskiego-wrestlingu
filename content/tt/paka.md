@@ -53,7 +53,7 @@ At the same show, Sinister Kingdom orchestrated a celebration of PAKA's demise. 
 
 With Pablo failing to save Taras from Longman in time, he became the last PAKA member standing, intent to get revenge on Longman. This led to Pablo vs Longman No Holds Barred Match at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), which was won by Longman. This marked Pablo's last appearance in PTW, as he [left the federation](@/a/ptw-exits.md) soon after.
 
-Despite not appearing since September 2023, Boro had not officialy [quit the promotion](@/a/ptw-exits.md) until June 2024, when he posted his "Last Dance Story" in which he clearly supported wrestlers leaving PTW, such as his teammates from PAKA and the members of his ["Green Gang"](@/a/zieloni.md).
+Despite not appearing since September 2023, Boro had not officialy [quit the promotion](@/a/ptw-exits.md) until June 2024, when he posted his "Last Dance Story" in which he clearly supported wrestlers leaving PTW, such as his teammates from PAKA and the members of his ["Green Gang"](@/tt/zieloni.md).
 
 #### Encore
 

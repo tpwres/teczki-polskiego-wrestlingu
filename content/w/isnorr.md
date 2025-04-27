@@ -39,7 +39,7 @@ He made his debut at [Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6
 Later on he returned as a villainous manager and Tag Team partner of Nathan Cross, forming a short-lived alliance between them for the duration of the [Project Basement](@/e/project-basement.md) programme.
 After the COVID-19 pandemic ended, Isnorr made yet another, final appearance in MZW at [Project 8: Golden Road FINALS](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) where he took part in a Triple Threat Match against Deti Black and Krueger.
 
-During his MZW tenure Isnorr, along with numerous other wrestlers, started an insider group called ["The Greens"](@/a/zieloni.md), which later on would become influential across the entire Polish wrestling scene.
+During his MZW tenure Isnorr, along with numerous other wrestlers, started an insider group called ["The Greens"](@/tt/zieloni.md), which later on would become influential across the entire Polish wrestling scene.
 
 ### PpW Ewenement (2021-present)
 
