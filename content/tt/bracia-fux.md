@@ -54,4 +54,4 @@ At [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) F
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) - with [Michał Fux](@/w/michal-fux.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) 
