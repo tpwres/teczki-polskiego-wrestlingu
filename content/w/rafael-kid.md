@@ -42,29 +42,27 @@ Rafael Kid made his debut in [PpW Ewenement](@/o/ppw.md) at [PpW Brak Mi Słów]
 * Finishers:
   - Diving Double Foot Stomp (2015-2022)
   - Dragon Sleeper (2016)
-
 * Entrance music:
   - "Can You Feel My Heart" by Bring Me the Horizon
- {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
- {{ music(yt='QJJYpsA5tv8')}}
- {{ music(spot='1PInWkBARsxLyouDqa2GtF')}}
- {{ music(apple='609257426?i=609257427')}}
+    {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
+    {{ music(yt='QJJYpsA5tv8')}}
+    {{ music(spot='1PInWkBARsxLyouDqa2GtF')}}
+    {{ music(apple='609257426?i=609257427')}}
   - "Final Countdown" by Europe
- {{ org_badge(orgs=['dfw']) }} (2017) <br>
- {{ music(yt='9jK-NcRmVcw')}}
- {{ music(spot='3MrRksHupTVEQ7YbA0FsZK')}}
- {{ music(apple='1635636172?i=1635638269')}}
+    {{ org_badge(orgs=['dfw']) }} (2017) <br>
+    {{ music(yt='9jK-NcRmVcw')}}
+    {{ music(spot='3MrRksHupTVEQ7YbA0FsZK')}}
+    {{ music(apple='1635636172?i=1635638269')}}
   - "You're The Best" by Joe "Bean" Esposito
- {{ org_badge(orgs=['mzw', 'ppw']) }} (2017-2022) <br>
- {{ music(yt='p44G0U4sLCE')}}
- {{ music(spot='4zXa17K83Pp6N2yXdVc2sv')}}
- {{ music(apple='1440739716?i=1440740331')}}
+    {{ org_badge(orgs=['mzw', 'ppw']) }} (2017-2022) <br>
+    {{ music(yt='p44G0U4sLCE')}}
+    {{ music(spot='4zXa17K83Pp6N2yXdVc2sv')}}
+    {{ music(apple='1440739716?i=1440740331')}}
 
 ## Championships and accomplishments
 
 * [Dream Factory Wrestling](@/o/dfw.md):
   - [DFW Championship](@/c/dfw-championship.md) (1 time)
-
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (1 time)
 

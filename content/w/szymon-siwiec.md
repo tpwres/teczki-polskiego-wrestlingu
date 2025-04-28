@@ -39,18 +39,16 @@ In early 2013, a popular Polish hip-hop artist O.S.T.R. released a music video f
 
 Szymon is also the main character of a short documentary titled [Amerykański Sen](@/a/amerykanski-sen.md) (_American Dream_), which focuses on his training to become a wrestler, overcoming stage fright and connecting with the audience.
 
-
 ## In wrestling
 
 * Finishers:
   - Samoan Drop (2014-2017)
-
 * Entrance music:
   - "Piovere" by Sindre Eide
- {{ org_badge(orgs=['mzw']) }} (2014-2017) <br>
- {{ music(yt='Uqrdxi8OijE')}}
- {{ music(spot='6mZNpAqkM0anYXgHWEtIOn')}}
- {{ music(apple='338870616?i=338871140')}}
+    {{ org_badge(orgs=['mzw']) }} (2014-2017) <br>
+    {{ music(yt='Uqrdxi8OijE')}}
+    {{ music(spot='6mZNpAqkM0anYXgHWEtIOn')}}
+    {{ music(apple='338870616?i=338871140')}}
 
 ### References
 

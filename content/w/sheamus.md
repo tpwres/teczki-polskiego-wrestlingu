@@ -33,18 +33,17 @@ Sheamus made his Polish debut back in November 2011 during the [WWE Smackdown Ho
 
 * Finishers:
   - _Brouge Kick_ (Bicycle Kick) (2011-2015)
-
 * Entrance music:
   - "Written in My Face" by Sean Jenness
- {{ org_badge(orgs=['wwe']) }} (2011) <br>
- {{ music(yt='wi22Xgxx-Ak')}}
- {{ music(spot='71FkjfHQrninkwXX7Mz3v6')}}
- {{ music(apple='441925039?i=441925049')}}
+    {{ org_badge(orgs=['wwe']) }} (2011) <br>
+    {{ music(yt='wi22Xgxx-Ak')}}
+    {{ music(spot='71FkjfHQrninkwXX7Mz3v6')}}
+    {{ music(apple='441925039?i=441925049')}}
   - "Hellfire" by CFO$
- {{ org_badge(orgs=['wwe']) }} (2015) <br>
- {{ music(yt='zdGU3Q9FlcA')}}
- {{ music(spot='75ZsXuef7vnxkvhsXO3bqf')}}
- {{ music(apple='984561663?i=984561664')}}
+    {{ org_badge(orgs=['wwe']) }} (2015) <br>
+    {{ music(yt='zdGU3Q9FlcA')}}
+    {{ music(spot='75ZsXuef7vnxkvhsXO3bqf')}}
+    {{ music(apple='984561663?i=984561664')}}
 
 ## References
 

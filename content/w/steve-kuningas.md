@@ -34,10 +34,10 @@ Besides his appearances in Poland, he also makes numerous appearances on the Eur
   - Swinging reverse STO (2022-2024)
 * Entrance music:
   - "King" by Eluveitie
- {{ org_badge(orgs=['ppw']) }} (2022-2024) <br>
- {{ music(yt='SUN1PYvBNa0')}}
- {{ music(spot='5bh2yNq0H23I1Qfh2IBs34')}}
- {{ music(apple='1472538688?i=1472539003')}}
+    {{ org_badge(orgs=['ppw']) }} (2022-2024) <br>
+    {{ music(yt='SUN1PYvBNa0')}}
+    {{ music(spot='5bh2yNq0H23I1Qfh2IBs34')}}
+    {{ music(apple='1472538688?i=1472539003')}}
 
 ## Championships and accomplishments
 

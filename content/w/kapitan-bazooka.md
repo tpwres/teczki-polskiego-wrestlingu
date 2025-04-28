@@ -69,13 +69,12 @@ This new angle however, didn't go anywhere. Later that year in August, Bazooka a
 
 * Finishers:
   - Stunner (2022-2024)
-
 * Entrance music:
   - "Symphony of Destruction" by Megadeath
- {{ org_badge(orgs=['ppw']) }} (2022-2024) <br>
- {{ music(yt='vfpgpf6QVnI')}}
- {{ music(spot='51TG9W3y9qyO8BY5RXKgnZ')}}
- {{ music(apple='725812243?i=725812418')}}
+    {{ org_badge(orgs=['ppw']) }} (2022-2024) <br>
+    {{ music(yt='vfpgpf6QVnI')}}
+    {{ music(spot='51TG9W3y9qyO8BY5RXKgnZ')}}
+    {{ music(apple='725812243?i=725812418')}}
 
 [mandecki-johnny-segment]: https://www.youtube.com/watch?v=ziLmuoNIKUE
 [wikipedia-martial-law-poland]: https://en.wikipedia.org/wiki/Martial_law_in_Poland

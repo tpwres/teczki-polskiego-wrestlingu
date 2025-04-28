@@ -55,10 +55,10 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md), [Arkadiusz Paterek](@/
   - _At Your Service_ (F5) (2022-)
 * Entrance music:
   - Such a Whore (Stellular Remix) by JVLA
- {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-) <br>
- {{ music(yt='8fFOtGETlrU')}}
- {{ music(spot='6A25J9As7towpxovYryAWr')}}
- {{ music(apple='1518033969?i=1518033971')}}
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-) <br>
+    {{ music(yt='8fFOtGETlrU')}}
+    {{ music(spot='6A25J9As7towpxovYryAWr')}}
+    {{ music(apple='1518033969?i=1518033971')}}
 
 ## Internet presence
 

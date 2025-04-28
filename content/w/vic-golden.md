@@ -130,24 +130,24 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
   - Pure Gold (2022-)
 * Entrance music:
   - "Witness" by Mindless Self Indulgence
- {{ org_badge(orgs=['mzw', 'ddw']) }} (2015-2021) <br>
- {{ music(yt='wvl092QgTJU')}}
- {{ music(spot='5KbPCz5BwuHVVeEFjaSENq')}}
- {{ music(apple='1703729138?i=1703729139')}}
+    {{ org_badge(orgs=['mzw', 'ddw']) }} (2015-2021) <br>
+    {{ music(yt='wvl092QgTJU')}}
+    {{ music(spot='5KbPCz5BwuHVVeEFjaSENq')}}
+    {{ music(apple='1703729138?i=1703729139')}}
   - "Golden Boy" by Sin With Sebastian
- {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
- {{ music(yt='N4oG4NUuhZk')}}
- {{ music(spot='3azjlLgKf8YQI2vK0D8skx')}}
- {{ music(apple='722079694?i=722079700')}}
+    {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
+    {{ music(yt='N4oG4NUuhZk')}}
+    {{ music(spot='3azjlLgKf8YQI2vK0D8skx')}}
+    {{ music(apple='722079694?i=722079700')}}
   - "Best of Both Worlds" by Hannah Montana
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-2025, both in tag team with [Gabriel Queen](@/w/gabriel-queen.md) and solo)<br>
- {{ music(yt='ZSGC3g-EWbw')}}
- {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
- {{ music(apple='1440632617?i=1440633345')}}
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-2025, both in tag team with [Gabriel Queen](@/w/gabriel-queen.md) and solo)<br>
+    {{ music(yt='ZSGC3g-EWbw')}}
+    {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
+    {{ music(apple='1440632617?i=1440633345')}}
   - "Hi Fi" by Wanda i Banda
- {{ org_badge(orgs=['low']) }} (2025)
- {{ music(yt='INGAIJiMCnE')}}
- {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
+    {{ org_badge(orgs=['low']) }} (2025)
+    {{ music(yt='INGAIJiMCnE')}}
+    {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
 
 ## Championships and accomplishments
 

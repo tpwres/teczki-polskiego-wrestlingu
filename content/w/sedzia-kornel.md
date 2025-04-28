@@ -6,17 +6,10 @@ authors = ["Szymon Iwulski", "Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
-[extra.gallery.1]
-path = "kornel-praga-centrum.webp"
-caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md)"
-[extra.gallery.2]
-path = "sedzia-kornel.jpg"
-caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md)."
-source = "M3n747"
-[extra.gallery.3]
-path = "hardcore-referee-koszulka.jpg"
-caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)."
-source = "Krzysztof Zych"
+[extra.gallery]
+1 = { path = "kornel-praga-centrum.webp", caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md.", source = "?" }
+2 = { path = "sedzia-kornel.jpg", caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
+3 = { path = "hardcore-referee-koszulka.jpg", caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).", source = "Kornel's Facebook profile" }
 +++
 
 Sędzia Kornel is a Polish wrestling referee best known for his time in [PpW Ewenement](@/o/ppw.md). He also appeared in [Maniac Zone Wrestling](@/o/mzw.md).
@@ -66,12 +59,12 @@ At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made h
   - The Tourists (2024) - non-canon shows
 * Entrance music:
   - "Intercontinental Bajers" by Solar/Białas
- {{ org_badge(orgs=['ppw']) }} (2024) - non-canon shows, as part of The Tourists <br>
- {{ music(yt='hs5_GR2hZfE')}}
- {{ music(spot='4VEf3UQcYsNka5kbZSoF0A')}}
- {{ music(apple='1765982589?i=1765982642')}}
+    {{ org_badge(orgs=['ppw']) }} (2024) - non-canon shows, as part of The Tourists <br>
+    {{ music(yt='hs5_GR2hZfE')}}
+    {{ music(spot='4VEf3UQcYsNka5kbZSoF0A')}}
+    {{ music(apple='1765982589?i=1765982642')}}
   - "Waza" by HEWRA
- {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
- {{ music(yt='LMayWdD7Oac?t=42')}}
+    {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
+    {{ music(yt='LMayWdD7Oac?t=42')}}
 
 [kornel-interview]: https://www.youtube.com/watch?v=jPEISp3JvoU

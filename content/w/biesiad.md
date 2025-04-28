@@ -101,31 +101,29 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
 * Finishers:
   - Swanton Bomb (2015-present)
-
 * Tag Teams and stables:
   - The Hardcores (2023-2024)
-
 * Entrance music:
   - "Floorfiller" by A*Teens
- {{ org_badge(orgs=['ppw']) }} (as Red Floorfiller) <br>
- {{ music(yt='y08pFwmgKz8')}}
- {{ music(spot='5BfUdzWYfhnH9MLsCxpQRw')}}
- {{ music(apple='1443164253?i=1443164584')}}
+    {{ org_badge(orgs=['ppw']) }} (as Red Floorfiller) <br>
+    {{ music(yt='y08pFwmgKz8')}}
+    {{ music(spot='5BfUdzWYfhnH9MLsCxpQRw')}}
+    {{ music(apple='1443164253?i=1443164584')}}
   - "Raining Blood" by Slayer
- {{ org_badge(orgs=['ppw']) }} (as KAT) <br>
- {{ music(yt='CkaE237oiwE')}}
- {{ music(spot='4fiOTntQKr24p07FvQDHZE')}}
- {{ music(apple='1733768895?i=1733769810')}}
+    {{ org_badge(orgs=['ppw']) }} (as KAT) <br>
+    {{ music(yt='CkaE237oiwE')}}
+    {{ music(spot='4fiOTntQKr24p07FvQDHZE')}}
+    {{ music(apple='1733768895?i=1733769810')}}
   - "Can't Stop" by Red Hot Chili Peppers
- {{ org_badge(orgs=['ppw']) }} <br>
- {{ music(yt='8DyziWtkfBw')}}
- {{ music(spot='3ZOEytgrvLwQaqXreDs2Jx')}}
- {{ music(apple='945578420?i=945578427')}}
+    {{ org_badge(orgs=['ppw']) }} <br>
+    {{ music(yt='8DyziWtkfBw')}}
+    {{ music(spot='3ZOEytgrvLwQaqXreDs2Jx')}}
+    {{ music(apple='945578420?i=945578427')}}
   - "Thunderstruck" by AC/DC
- {{ org_badge(orgs=['ppw', 'low']) }} (2021-) <br>
- {{ music(yt='v2AC41dglnM')}}
- {{ music(spot='57bgtoPSgt236HzfBOd8kj')}}
- {{ music(apple='574049507?i=574051407')}}
+    {{ org_badge(orgs=['ppw', 'low']) }} (2021-) <br>
+    {{ music(yt='v2AC41dglnM')}}
+    {{ music(spot='57bgtoPSgt236HzfBOd8kj')}}
+    {{ music(apple='574049507?i=574051407')}}
 
 ## Championships and accomplishments
 
@@ -134,4 +132,3 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
   _Backyard Era Championships:_
   - Pas Hardcore'u (1 time; as KAT)
-

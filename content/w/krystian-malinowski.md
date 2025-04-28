@@ -44,15 +44,15 @@ After the main event ended, Rosetti came out and informed the audience that Mali
 
 * Entrance music:
   - "We're Not Gonna Take It" by Twisted Sister
- {{ org_badge(orgs=['kpw']) }} (2015-2023) <br>
- {{ music(yt='cTC1TEVo3Aw')}}
- {{ music(spot='1hlveB9M6ijHZRbzZ2teyh')}}
- {{ music(apple='1093420230?i=1093420483')}}
+    {{ org_badge(orgs=['kpw']) }} (2015-2023) <br>
+    {{ music(yt='cTC1TEVo3Aw')}}
+    {{ music(spot='1hlveB9M6ijHZRbzZ2teyh')}}
+    {{ music(apple='1093420230?i=1093420483')}}
   - "Retro Funky (Sundance Remix)" by Perséphone
- {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
- {{ music(yt='0-c7kXpRVIQ')}}
- {{ music(spot='1eEqg0aPf3BoaBl0I4Tuln')}}
- {{ music(apple='1438527375?i=1438527378')}}
+    {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
+    {{ music(yt='0-c7kXpRVIQ')}}
+    {{ music(spot='1eEqg0aPf3BoaBl0I4Tuln')}}
+    {{ music(apple='1438527375?i=1438527378')}}
 
 ## Internet presence
 

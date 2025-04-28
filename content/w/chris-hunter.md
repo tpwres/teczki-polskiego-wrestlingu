@@ -46,13 +46,12 @@ Since then Chris retired from wrestling, closing down Dream Factory Wrestling no
   - Lifting Underhook Facebuster (2016)
   - Craddle Tombstone Piledriver (2016)
   - F-5 (2015)
-
 * Entrance music:
   - "Still Swingin'" by Papa Roach
- {{ org_badge(orgs=['dfw']) }} (2015-2018) <br>
- {{ music(yt='mvSvEeD8CVQ')}}
- {{ music(spot='14LJqAIsGgeuntx583zLzi')}}
- {{ music(apple='1699420293?i=1699420296')}}
+    {{ org_badge(orgs=['dfw']) }} (2015-2018) <br>
+    {{ music(yt='mvSvEeD8CVQ')}}
+    {{ music(spot='14LJqAIsGgeuntx583zLzi')}}
+    {{ music(apple='1699420293?i=1699420296')}}
 
 ## Championships and accomplishments
 

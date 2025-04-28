@@ -31,10 +31,10 @@ Pete Dunne made his one-off appearance in Poland at [Do Or Die Wrestling's](@/o/
   - _Bitter End_ (Pumphandle Lift dropped into a Reverse STO)
 * Entrance music:
   - "Can You Feel My Heart" by Bring Me the Horizon
- {{ org_badge(orgs=['ddw']) }} (2012) <br>
- {{ music(yt='QJJYpsA5tv8')}}
- {{ music(spot='1PInWkBARsxLyouDqa2GtF')}}
- {{ music(apple='609257426?i=609257427')}}
+    {{ org_badge(orgs=['ddw']) }} (2012) <br>
+    {{ music(yt='QJJYpsA5tv8')}}
+    {{ music(spot='1PInWkBARsxLyouDqa2GtF')}}
+    {{ music(apple='609257426?i=609257427')}}
 
 ## References
 

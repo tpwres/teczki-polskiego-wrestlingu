@@ -45,10 +45,10 @@ Rafi was scheduled to face his fellow ex-PTW colleague [Marcelito](@/w/marcelito
   - Fisherman Suplex (2022-2024)
 * Entrance music:
   - "Narcotic" by Liquido
- {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
- {{ music(yt='PJ7E40Ec5ec')}}
- {{ music(spot='1H5VQuShs4qfwBXyHF0PeH')}}
- {{ music(apple='1015954953?i=1015955379')}}
+    {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
+    {{ music(yt='PJ7E40Ec5ec')}}
+    {{ music(spot='1H5VQuShs4qfwBXyHF0PeH')}}
+    {{ music(apple='1015954953?i=1015955379')}}
 
 ## References
 

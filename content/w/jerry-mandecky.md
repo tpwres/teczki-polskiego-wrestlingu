@@ -33,9 +33,9 @@ At [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) Mandecky was b
 
 * Entrance music:
   - "The Trooper" by Iron Maiden
- {{ org_badge(org='ppw') }} (2024) <br>
- {{ music(yt='X4bgXH3sJ2Q')}}
- {{ music(spot='4OROzZUy6gOWN4UGQVaZMF')}}
- {{ music(apple='1147164122?i=1147164127')}}
+    {{ org_badge(org='ppw') }} (2024) <br>
+    {{ music(yt='X4bgXH3sJ2Q')}}
+    {{ music(spot='4OROzZUy6gOWN4UGQVaZMF')}}
+    {{ music(apple='1147164122?i=1147164127')}}
 
 [vid-mandec]: https://www.youtube.com/watch?v=Lyz8750GJ-o

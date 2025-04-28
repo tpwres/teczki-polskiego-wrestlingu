@@ -38,7 +38,7 @@ After the folding of DDW and creation of [Kombat Pro Wrestling](@/o/kpw.md), Kas
   - _Pure Gold_ (Jumping DDT) (2013-2015)
 * Entrance music:
   - "So What" by P!nk
- {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2015) <br>
- {{ music(yt='FJfFZqTlWrQ')}}
- {{ music(spot='0JiY190vktuhSGN6aqJdrt')}}
- {{ music(apple='1308721832?i=1308727418')}}
+    {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2015) <br>
+    {{ music(yt='FJfFZqTlWrQ')}}
+    {{ music(spot='0JiY190vktuhSGN6aqJdrt')}}
+    {{ music(apple='1308721832?i=1308727418')}}

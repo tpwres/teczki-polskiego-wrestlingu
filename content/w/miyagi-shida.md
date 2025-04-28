@@ -46,10 +46,9 @@ He even allied himself with [Max Speed](@/w/max-speed.md), but they were unable 
 
 * Finishers:
   - Superkick (2021-)
-
 * Entrance music:
   - "Kotonaru" by GRILLABEATS
- {{ org_badge(orgs=['ptw']) }} (2024-) <br>
- {{ music(yt='YYpZGiKySMw')}}
- {{ music(spot='4w1WMmMdtXPHMcP18q9I3r')}}
- {{ music(apple='1248033477?i=1248033970')}}
+    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
+    {{ music(yt='YYpZGiKySMw')}}
+    {{ music(spot='4w1WMmMdtXPHMcP18q9I3r')}}
+    {{ music(apple='1248033477?i=1248033970')}}

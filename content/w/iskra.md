@@ -36,13 +36,11 @@ After that Iskra continued his career in PTW by making rather irregural appearan
 
 * Finishers:
   - _Iskravaganza_ (2021-2024)
- 
 * Tag Teams and stables:
   - The Bright Lights (2022)
-    
 * Entrance music:
   - "Home Is For The Heartless" by Parkway Drive
     {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
-    {{ music(yt='-VF4ObZEM8w')}}
-    {{ music(spot='2mvi7qtDNLuh25oOcHVEOk')}}
-    {{ music(apple='1485045627?i=1485045877')}}
+       {{ music(yt='-VF4ObZEM8w')}}
+       {{ music(spot='2mvi7qtDNLuh25oOcHVEOk')}}
+       {{ music(apple='1485045627?i=1485045877')}}

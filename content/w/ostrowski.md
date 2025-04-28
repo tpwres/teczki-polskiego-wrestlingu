@@ -64,20 +64,17 @@ Boski 2.0, along with numerous other ex-KPW wrestlers, joined a new federation c
 
 * Finishers:
   - _Party Driver_ (Canadian Destroyer) (2015-2020)
-
 * Tag Teams and stables:
   - Boska Oliwa (2016-2018)
   - Sojusz (2018)
-
 * Managers:
   - [Mira](@/w/mira.md) (2015-2018)
-
 * Entrance music:
   - "Disco Disco Good Good" by Geo Da Silva & Jack Mazzoni
- {{ org_badge(orgs=['kpw']) }} (2015-2020) <br>
- {{ music(yt='b0y4IQRbKAs')}}
- {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
- {{ music(apple='1371473173?i=1371473189')}}
+    {{ org_badge(orgs=['kpw']) }} (2015-2020) <br>
+    {{ music(yt='b0y4IQRbKAs')}}
+    {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
+    {{ music(apple='1371473173?i=1371473189')}}
 
 ## Championships and accomplishments
 

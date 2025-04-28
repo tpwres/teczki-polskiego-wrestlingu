@@ -51,18 +51,18 @@ After their loss Nitro and his tag team partner seemingly bid farewell to [Prime
   - Budapest Bastards (2023-2024)
 * Entrance music:
   - "Sweat" by Snoop Dogg
- {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }} (2013-2024) <br>
- {{ music(yt='KnEXrbAQyIo')}}
- {{ music(spot='02yUHcUT4HckhJNrftZZtY')}}
- {{ music(apple='1667369849?i=1667370608')}}
+    {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }} (2013-2024) <br>
+    {{ music(yt='KnEXrbAQyIo')}}
+    {{ music(spot='02yUHcUT4HckhJNrftZZtY')}}
+    {{ music(apple='1667369849?i=1667370608')}}
   - "I Think I Smell a Rat" by The White Stripes
- {{ org_badge(orgs=['ptw']) }} (2022) <br>
- {{ music(yt='_ALZTuyM7lg')}}
- {{ music(spot='05M3t3UVRXUO29fYEFYBMJ')}}
- {{ music(apple='1534387685?i=1534388602')}}
+    {{ org_badge(orgs=['ptw']) }} (2022) <br>
+    {{ music(yt='_ALZTuyM7lg')}}
+    {{ music(spot='05M3t3UVRXUO29fYEFYBMJ')}}
+    {{ music(apple='1534387685?i=1534388602')}}
   - "Falu" by Ignite
- {{ org_badge(orgs=['ptw']) }} (2023-2024), in tag team with [Renegade](@/w/renegade.md)) <br>
- {{ music(yt='6AR3zLYx9XU')}}
+    {{ org_badge(orgs=['ptw']) }} (2023-2024), in tag team with [Renegade](@/w/renegade.md)) <br>
+    {{ music(yt='6AR3zLYx9XU')}}
 
 ## Championships and accomplishments
 

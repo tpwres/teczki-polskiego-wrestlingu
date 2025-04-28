@@ -36,10 +36,10 @@ Besides his ventures in Poland, Zeritus is mostly known for his appearances in G
   - Chokebomb (2016-2023)
 * Entrance music:
   - "Wenn ihr wollt, ist es kein Traum" by Max Kusari
- {{ org_badge(orgs=['mzw']) }} (2016-2023) <br>
- {{ music(yt='edz_QPZzijk')}}
- {{ music(spot='2Uq4SUzd6Jv1Xc1CfsQ37B')}}
- {{ music(apple='1780630462?i=1780630463')}}
+    {{ org_badge(orgs=['mzw']) }} (2016-2023) <br>
+    {{ music(yt='edz_QPZzijk')}}
+    {{ music(spot='2Uq4SUzd6Jv1Xc1CfsQ37B')}}
+    {{ music(apple='1780630462?i=1780630463')}}
 
 ## References
 

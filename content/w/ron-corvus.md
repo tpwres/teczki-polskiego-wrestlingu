@@ -37,13 +37,12 @@ Corvus held his title for less than a year before losing it to [Robert Star](@/w
 * Finishers:
   - _Blackout Piledriver_ (Piledrvier) (2013-)
   - Sit-out Powerbomb (2019)
-
 * Entrance music:
   - "Stranglehold" by Ted Nugent
- {{ org_badge(orgs=['kpw']) }} (2015-) <br>
- {{ music(yt='hzFpiW5vHrc')}}
- {{ music(spot='2f0P7iELCvAlV8j6Z3rGDE')}}
- {{ music(apple='197914607?i=197914626')}}
+    {{ org_badge(orgs=['kpw']) }} (2015-) <br>
+    {{ music(yt='hzFpiW5vHrc')}}
+    {{ music(spot='2f0P7iELCvAlV8j6Z3rGDE')}}
+    {{ music(apple='197914607?i=197914626')}}
 
 ## Championships and accomplishments
 

@@ -50,13 +50,13 @@ After their loss Renegade and his tag team partner Nitro seemingly bid farewell 
   - Budapest Bastards (2023-2024)
 * Entrance music:
   - "Mother" by Danzig
- {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }} (2014-2024) <br>
- {{ music(yt='uPugn_05Qac')}}
- {{ music(spot='7txxAtOMwLLnQTpKeBL6bp')}}
- {{ music(apple='1440880562?i=1440880961')}}
+    {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }} (2014-2024) <br>
+    {{ music(yt='uPugn_05Qac')}}
+    {{ music(spot='7txxAtOMwLLnQTpKeBL6bp')}}
+    {{ music(apple='1440880562?i=1440880961')}}
   - "Falu" by Ignite
- {{ org_badge(orgs=['ptw']) }} (2023-2024), in tag team with [Nitro](@/w/nitro.md)) <br>
- {{ music(yt='6AR3zLYx9XU')}}
+    {{ org_badge(orgs=['ptw']) }} (2023-2024), in tag team with [Nitro](@/w/nitro.md)) <br>
+    {{ music(yt='6AR3zLYx9XU')}}
 
 ## Championships and accomplishments
 

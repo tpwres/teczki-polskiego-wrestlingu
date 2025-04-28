@@ -37,11 +37,11 @@ He returned over a year later and gained a title shot on a [KPW Championship](@/
   - _Scorpion Red Lock_ (Sharpshooter) (2024-)
 * Entrance music:
   - "Red Scorpion Theme" by Independent Contractor
- {{ org_badge(orgs=['kpw']) }} (2023) <br>
- {{ music(yt='POsCRXqZf4A')}}
+    {{ org_badge(orgs=['kpw']) }} (2023) <br>
+    {{ music(yt='POsCRXqZf4A')}}
   - "Red Scorpion Theme 2024" by Independent Contractor
- {{ org_badge(orgs=['kpw']) }} (2024-) <br>
- {{ music(yt='1pU9gaxn5gY')}}
+    {{ org_badge(orgs=['kpw']) }} (2024-) <br>
+    {{ music(yt='1pU9gaxn5gY')}}
 
 ## Championships and accomplishments
 

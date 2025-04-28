@@ -27,12 +27,11 @@ Slate made a few appearances in [Polish Xtreme Wrestling](@/o/pxw.md). Not much 
 
 * Finishers:
   - Sharpshooter (2011)
-
 * Entrance music:
   - "Club Foot" by Hollywood Session Group
- {{ org_badge(orgs=['pxw']) }} (2011) <br>
- {{ music(yt='qvAoyDxF2Wg')}}
- {{ music(spot='1qQQkxFz5DkxqdbYoi6rrS')}}
+    {{ org_badge(orgs=['pxw']) }} (2011) <br>
+    {{ music(yt='qvAoyDxF2Wg')}}
+    {{ music(spot='1qQQkxFz5DkxqdbYoi6rrS')}}
 
 ## Championships and accomplishments
 

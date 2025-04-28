@@ -51,21 +51,19 @@ After his in-ring retirement Kawaler continued to run KPW Academy and the federa
 * Finishers:
   - _Looooooove_ (Double knee facebreaker) (2013-2015)
   - _Jajacha_ (Crotch-lift release German suplex) (2015-2019)
-
 * Tag Teams and stables:
   - Kawaleria (2015-2019)
-
 * Entrance music:
   - "Ascension" by Transit
- {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>
- {{ music(yt='FPoJb2Dp9C4')}}
- {{ music(spot='0HK20cyt3TdCpQ219Xe4Bl')}}
- {{ music(apple='1544190290?i=1544190291')}}
+    {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>
+    {{ music(yt='FPoJb2Dp9C4')}}
+    {{ music(spot='0HK20cyt3TdCpQ219Xe4Bl')}}
+    {{ music(apple='1544190290?i=1544190291')}}
   - "Burning Heart" by Survivor
- {{ org_badge(orgs=['kpw']) }} (2019) <br>
- {{ music(yt='lYlkYkHkZxs')}}
- {{ music(spot='2avaSeKHI5l4sLruVfLdi2')}}
- {{ music(apple='207443884?i=207444127')}}
+    {{ org_badge(orgs=['kpw']) }} (2019) <br>
+    {{ music(yt='lYlkYkHkZxs')}}
+    {{ music(spot='2avaSeKHI5l4sLruVfLdi2')}}
+    {{ music(apple='207443884?i=207444127')}}
 
 ## Championships and accomplishments
 

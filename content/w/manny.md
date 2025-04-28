@@ -26,13 +26,12 @@ Manny made his debut in Głuchołazy-based backyard federation [Polish Xtreme Wr
 
 * Finishers:
   - F-5 (2011-2013)
-
 * Entrance music:
   - "Animal I Have Become" by Three Days Grace
- {{ org_badge(orgs=['pxw']) }} (2011-2013) <br>
- {{ music(yt='xqds0B_meys')}}
- {{ music(spot='56sk7jBpZV0CD31G9hEU3b')}}
- {{ music(apple='1308586562?i=1308586995')}}
+    {{ org_badge(orgs=['pxw']) }} (2011-2013) <br>
+    {{ music(yt='xqds0B_meys')}}
+    {{ music(spot='56sk7jBpZV0CD31G9hEU3b')}}
+    {{ music(apple='1308586562?i=1308586995')}}
 
  ## Championships and accomplishments
 

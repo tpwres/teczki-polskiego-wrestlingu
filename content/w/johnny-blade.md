@@ -83,17 +83,15 @@ In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), wh
 
 * Finishers:
   - Diving Splash, sometimes with a foregin object in hands (2020-)
-
 * Tag Teams and stables:
   - 2 Chamy (2016, 2021)
   - The Hardcores (2023-)
-
 * Entrance music:
   - "Red Stars" by The Birthday Massacre
- {{ org_badge(orgs=['ppw']) }} (2020-) <br>
- {{ music(yt='4iOPS0X3pbk')}}
- {{ music(spot='25CRv7qnwyoa7kckF4HFb9')}}
- {{ music(apple='413180702?i=413180717')}}
+    {{ org_badge(orgs=['ppw']) }} (2020-) <br>
+    {{ music(yt='4iOPS0X3pbk')}}
+    {{ music(spot='25CRv7qnwyoa7kckF4HFb9')}}
+    {{ music(apple='413180702?i=413180717')}}
 
 ## Championships and accomplishments
 

@@ -60,7 +60,7 @@ Alex got involved in the main event of [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw
 
 * Entrance music:
   - "White Rabbit" by Egypt Central
- {{ org_badge(orgs=['ptw']) }} (2023-) <br>
- {{ music(yt='Um8EEzl42PQ')}}
- {{ music(spot='6xwak2gJxMwbLBEJVier7X')}}
- {{ music(apple='494032236')}}
+    {{ org_badge(orgs=['ptw']) }} (2023-) <br>
+    {{ music(yt='Um8EEzl42PQ')}}
+    {{ music(spot='6xwak2gJxMwbLBEJVier7X')}}
+    {{ music(apple='494032236')}}

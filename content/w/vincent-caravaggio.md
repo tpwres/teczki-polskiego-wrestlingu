@@ -35,10 +35,10 @@ Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he's been invol
   - Wine Mist (2024-)
 * Entrance music:
   - "Prelude" by Versailles
- {{ org_badge(orgs=['mzw', 'ddw']) }} (2023-) <br>
- {{ music(yt='2c3Uv88-3sI')}}
- {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
- {{ music(apple='284259361?i=284259442')}}
+    {{ org_badge(orgs=['mzw', 'ddw']) }} (2023-) <br>
+    {{ music(yt='2c3Uv88-3sI')}}
+    {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
+    {{ music(apple='284259361?i=284259442')}}
 
 ## Championships and accomplishments
 

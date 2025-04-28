@@ -40,7 +40,7 @@ Złotówa made his last appearance over a year later at [Gold Rush](@/e/ptw/2024
   - _Taxi Driver_ (Samoan Driver) (2021-2024)
 * Entrance music:
   - "Złotówa" by NDZ
- {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
- {{ music(yt='ZvD7IydjrdU')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ music(yt='ZvD7IydjrdU')}}
 
 [pudzian]: https://en.wikipedia.org/wiki/Mariusz_Pudzianowski

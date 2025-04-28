@@ -28,7 +28,6 @@ After a break forced by the COVID-19 pandemic, Dom returned to KPW in 2023 at [A
 
 * Finishers:
   - Fireman's carry powerslam (2018-)
- 
 * Tag Teams and stables:
   - British Bouncer Club (2018-2023)
 

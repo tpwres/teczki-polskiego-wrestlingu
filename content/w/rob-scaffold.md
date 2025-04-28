@@ -46,10 +46,10 @@ Rob Scaffold appeared in [Dream Factory Wrestling](@/o/dfw.md) at [Tournament of
   - 2 Chamy (2016, 2021)
 * Entrance music:
   - "The Human Drive" by CKY
- {{ org_badge(orgs=['ppw', 'dfw']) }} (2016-2023) <br>
- {{ music(yt='Os6n92Ufc_A')}}
- {{ music(spot='3lCPFaMP10bUxYGnLlMCq0')}}
- {{ music(apple='253905780?i=253905818')}}
+    {{ org_badge(orgs=['ppw', 'dfw']) }} (2016-2023) <br>
+    {{ music(yt='Os6n92Ufc_A')}}
+    {{ music(spot='3lCPFaMP10bUxYGnLlMCq0')}}
+    {{ music(apple='253905780?i=253905818')}}
 
 ## Championships and accomplishments
 

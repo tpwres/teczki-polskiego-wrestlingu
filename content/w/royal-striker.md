@@ -37,7 +37,7 @@ He returned at [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md
 
 * Entrance music:
   - "Animals" by Concepts
- {{ org_badge(orgs=['ppw']) }} (2022-) <br>
- {{ music(yt='Bx7auy-X5WA')}}
- {{ music(spot='5EnHnsJhIxAbiSEm2hXkJl')}}
- {{ music(apple='1700423936?i=1700423938')}}
+    {{ org_badge(orgs=['ppw']) }} (2022-) <br>
+    {{ music(yt='Bx7auy-X5WA')}}
+    {{ music(spot='5EnHnsJhIxAbiSEm2hXkJl')}}
+    {{ music(apple='1700423936?i=1700423938')}}

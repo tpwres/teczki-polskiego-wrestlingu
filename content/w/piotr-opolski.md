@@ -36,33 +36,32 @@ For 2.5 years Piotr Opolski wasn't seen at KPW in any capacity, until he made a 
 
 * Finishers:
   - _Zew Dziczy_ (2020-2022)
-
 * Entrance music:
   - "Young Blood Rising" by Santa Cruz
- {{ org_badge(orgs=['kpw']) }} (2020) <br>
- {{ music(yt='7TWkmy5ELJc')}}
- {{ music(spot='35ptWyOIGsiJo7cJHJojFw')}}
- {{ music(apple='1740195928?i=1740195930')}}
+    {{ org_badge(orgs=['kpw']) }} (2020) <br>
+    {{ music(yt='7TWkmy5ELJc')}}
+    {{ music(spot='35ptWyOIGsiJo7cJHJojFw')}}
+    {{ music(apple='1740195928?i=1740195930')}}
   - "Desert Cruiser" by Truckfighters
- {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Eryk Lesak) <br>
- {{ music(yt='JLMPA4xPFpg')}}
- {{ music(spot='6dDdhX8byHKApki5TuOqjS')}}
- {{ music(apple='1568953211?i=1568953212')}}
+    {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Eryk Lesak) <br>
+    {{ music(yt='JLMPA4xPFpg')}}
+    {{ music(spot='6dDdhX8byHKApki5TuOqjS')}}
+    {{ music(apple='1568953211?i=1568953212')}}
   - "Gleipnijr" by Adrian von Ziegler
- {{ org_badge(orgs=['kpw']) }} (2022) <br>
- {{ music(yt='3EFuG1V0FEQ')}}
- {{ music(spot='201Yhf2MAVJxJDgbGdykyb')}}
- {{ music(apple='445469263?i=445469281')}}
+    {{ org_badge(orgs=['kpw']) }} (2022) <br>
+    {{ music(yt='3EFuG1V0FEQ')}}
+    {{ music(spot='201Yhf2MAVJxJDgbGdykyb')}}
+    {{ music(apple='445469263?i=445469281')}}
   - "Adrenaline Rush" by Infraction
- {{ org_badge(orgs=['kpw']) }} (2025-) <br>
- {{ music(yt='PVdu7-ej5-w')}}
- {{ music(spot='6kugnsvuVy4cON6IU433ug')}}
- {{ music(apple='1755584815?i=1755584816')}}
+    {{ org_badge(orgs=['kpw']) }} (2025-) <br>
+    {{ music(yt='PVdu7-ej5-w')}}
+    {{ music(spot='6kugnsvuVy4cON6IU433ug')}}
+    {{ music(apple='1755584815?i=1755584816')}}
   - "Stand or Fall" by Bonfire
- {{ org_badge(orgs=['kpw']) }} (2025-) <br>
- {{ music(yt='LC6A9ugveb0')}}
- {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
- {{ music(apple='1351853605?i=1351853946')}}
+    {{ org_badge(orgs=['kpw']) }} (2025-) <br>
+    {{ music(yt='LC6A9ugveb0')}}
+    {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
+    {{ music(apple='1351853605?i=1351853946')}}
 
 ## Internet presence
 

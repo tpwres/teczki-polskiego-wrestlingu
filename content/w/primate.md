@@ -32,13 +32,12 @@ Shortly after Godzina Zero 2022, Primate made an appearance at [Prime Time Wrest
 
 * Finishers:
   - Spear (2019-2022)
-
 * Entrance music:
   - "Crushed" by Parkway Drive
- {{ org_badge(orgs=['kpw', 'ptw']) }} (2019-2022) <br>
- {{ music(yt='9m4685liWb0')}}
- {{ music(spot='2BzEsfwqucjlBSFu8s74sz')}}
- {{ music(apple='1485075360?i=1485075365')}}
+    {{ org_badge(orgs=['kpw', 'ptw']) }} (2019-2022) <br>
+    {{ music(yt='9m4685liWb0')}}
+    {{ music(spot='2BzEsfwqucjlBSFu8s74sz')}}
+    {{ music(apple='1485075360?i=1485075365')}}
 
 ## Championships and accomplishments
 

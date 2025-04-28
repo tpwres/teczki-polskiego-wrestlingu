@@ -33,13 +33,12 @@ This heated up their rivalry, leading to a huge brawl after Shida's match at [Pr
 
 * Finishers:
   - Frog Splash (2024-)
-
 * Entrance music:
   - "Callout" by Atilla
- {{ org_badge(orgs=['ptw']) }} (2024-) <br>
- {{ music(yt='dkYnqCwuw-g')}}
- {{ music(spot='1D11qBrbCj0kpxLID6VrFo')}}
- {{ music(apple='1440928179')}}
+    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
+    {{ music(yt='dkYnqCwuw-g')}}
+    {{ music(spot='1D11qBrbCj0kpxLID6VrFo')}}
+    {{ music(apple='1440928179')}}
 
 ### References
 

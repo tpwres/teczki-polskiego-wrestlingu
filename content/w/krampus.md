@@ -57,7 +57,7 @@ They even promoted their own PTW:WWA Championship and PTW:WWA Tag Team Champions
 * Entrance music:
   - "Krampus Theme" by Stereo Theater
    {{ org_badge(orgs=['ptw']) }} (2022-) <br>
-   {{ music(yt='up6I7Y1S-1k')}}
+      {{ music(yt='up6I7Y1S-1k')}}
 
 ## References
 

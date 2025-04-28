@@ -39,25 +39,25 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
   - [Leon Lato](@/w/leon-lato.md) (2023)
 * Entrance music:
   - "Monsters" by Shinedown
- {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
- {{ music(yt='EzsCb7ZwlQ0')}}
- {{ music(spot='1qAuIPMALdFtGv2Ymjy5l0')}}
- {{ music(apple='1352572887?i=1352572895')}}
+    {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
+    {{ music(yt='EzsCb7ZwlQ0')}}
+    {{ music(spot='1qAuIPMALdFtGv2Ymjy5l0')}}
+    {{ music(apple='1352572887?i=1352572895')}}
   - "Happy Xmas (War Is Over)" by Shinedown
- {{ org_badge(orgs=['kpw']) }} (2022) <br>
- {{ music(yt='lhAxVhrMt_U')}}
- {{ music(spot='4RT2cdLuHfobI0JdqW7V1W')}}
- {{ music(apple='206345554?i=206345556')}}
+    {{ org_badge(orgs=['kpw']) }} (2022) <br>
+    {{ music(yt='lhAxVhrMt_U')}}
+    {{ music(spot='4RT2cdLuHfobI0JdqW7V1W')}}
+    {{ music(apple='206345554?i=206345556')}}
   - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
- {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md)) <br>
- {{ music(yt='a1jMUiSR4Gg')}}
- {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
- {{ music(apple='1523997493?i=1523997494')}}
+    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md)) <br>
+    {{ music(yt='a1jMUiSR4Gg')}}
+    {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
+    {{ music(apple='1523997493?i=1523997494')}}
   - "Everywhere I Go" by ONLAP
- {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
- {{ music(yt='4R8EDBkjcZQ')}}
- {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
- {{ music(apple='1690724986?i=1690725170')}}
+    {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
+    {{ music(yt='4R8EDBkjcZQ')}}
+    {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
+    {{ music(apple='1690724986?i=1690725170')}}
 
 ## Internet presence
 

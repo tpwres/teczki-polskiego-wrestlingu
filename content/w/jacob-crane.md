@@ -21,7 +21,6 @@ Jacob Crane is a Polish wrestler, best known for his runs in [Maniac Zone Wrestl
   - "The Perfect Man" / "The Top Guy Everywhere" Jacob Crane {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
   -  _Rookie_ Jacob {{ org_badge(orgs=['mzw']) }} (early appearances)
   - Kuba Kamiński {{ org_badge(orgs=['mzw']) }} (early appearances)
-
 * Trained by:
   - [Justin Joy](@/w/justin-joy.md)
   - [Joe E. Legend](@/w/joe-legend.md)
@@ -70,15 +69,15 @@ After his 3-month stint in Japan, Jacob Crane returned at [Ale Grzeje](@/e/ppw/2
   - Tag Team with [Madman Charlie](@/w/madman-charlie.md) (2018-2021)
 * Entrance music:
   - "Bad Reputation" by Adelitas Way
- {{ org_badge(orgs=['mzw']) }} (2017-2021) <br>
- {{ music(yt='6-nxtwmUbYg')}}
- {{ music(spot='3eaucqJ0Q7v8VZf8liXRKx')}}
- {{ music(apple='1611824393?i=1611824405')}}
+    {{ org_badge(orgs=['mzw']) }} (2017-2021) <br>
+    {{ music(yt='6-nxtwmUbYg')}}
+    {{ music(spot='3eaucqJ0Q7v8VZf8liXRKx')}}
+    {{ music(apple='1611824393?i=1611824405')}}
   - "Kyōran Hey Kids!!" by The Oral Cigarettes
- {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
- {{ music(yt='3oFTHxkOzjE')}}
- {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
- {{ music(apple='1064406932?i=1064406939')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
+    {{ music(yt='3oFTHxkOzjE')}}
+    {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
+    {{ music(apple='1064406932?i=1064406939')}}
 
 ## References
 

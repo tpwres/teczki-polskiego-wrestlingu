@@ -28,13 +28,11 @@ Malmo Buruto made his last appearance for DFW in September 2017 at [DFW Annivers
 
 * Finishers:
   - Powerslam (2015-2017)
-
 * Tag Teams and stables:
   - [Pain Killer](@/w/pain-killer.md) (2015-2016)
-
 * Entrance music:
   - "Badass" by Saliva
- {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
- {{ music(yt='uPar2KARcOk')}}
- {{ music(spot='2uBQREkcWcQeCvNteYlECt')}}
- {{ music(apple='1634039379?i=1634040710')}}
+    {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
+    {{ music(yt='uPar2KARcOk')}}
+    {{ music(spot='2uBQREkcWcQeCvNteYlECt')}}
+    {{ music(apple='1634039379?i=1634040710')}}

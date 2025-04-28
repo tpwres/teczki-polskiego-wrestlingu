@@ -57,15 +57,15 @@ At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Pawłowski debuted 
 
 * Entrance music:
   - "Throne" by Bring Me the Horizon
- {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
- {{ music(yt='Ow_qI_F2ZJI')}}
- {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
- {{ music(apple='1021582747?i=1021582761')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ music(yt='Ow_qI_F2ZJI')}}
+    {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
+    {{ music(apple='1021582747?i=1021582761')}}
   - "DiE4u" by Bring Me the Horizon
- {{ org_badge(orgs=['ptw']) }} (2025-present) <br>
- {{ music(yt='IPUUbVhvqrE')}}
- {{ music(spot='2gT72HL4Y84K2Mle3miAMJ')}}
- {{ music(apple='1583958900?i=1583959120')}}  
+    {{ org_badge(orgs=['ptw']) }} (2025-present) <br>
+    {{ music(yt='IPUUbVhvqrE')}}
+    {{ music(spot='2gT72HL4Y84K2Mle3miAMJ')}}
+    {{ music(apple='1583958900?i=1583959120')}}  
 
 ## Championships and accomplishments
 

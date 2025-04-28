@@ -42,12 +42,12 @@ Besides his appearances in Polish wrestling, Spartan also made a few appearances
   - _Spartan Bomb_ (Sitout Chokebomb) (2022-)
 * Entrance music:
   - "Sparta" by Genjutsu Beats
- {{ org_badge(orgs=['ptw']) }} (2022-2024) <br>
- {{ music(yt='ppF8MYxnFy8')}}
- {{ music(spot='4K6HcWgBi3mfbzpmsUK5sU')}}
- {{ music(apple='1654286940?i=1654286941')}}
+    {{ org_badge(orgs=['ptw']) }} (2022-2024) <br>
+    {{ music(yt='ppF8MYxnFy8')}}
+    {{ music(spot='4K6HcWgBi3mfbzpmsUK5sU')}}
+    {{ music(apple='1654286940?i=1654286941')}}
   - "Spartan Theme" by Independent Contractor
- {{ org_badge(orgs=['ptw']) }} (2024-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
 
 ## References
 

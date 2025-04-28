@@ -68,7 +68,7 @@ Over the weekend of March 6th-8th, 2024, it was announced that the ring had been
 
 * Entrance music:
   - "Medal" by Jim Johnston
- {{ org_badge(orgs=['ptw']) }} (2025) <br>
- {{ music(yt='jYRKvdEJSJc')}}
- {{ music(spot='18tJInJEdUrNNLbEqOcQHi')}}
- {{ music(apple='1382308075')}}
+    {{ org_badge(orgs=['ptw']) }} (2025) <br>
+    {{ music(yt='jYRKvdEJSJc')}}
+    {{ music(spot='18tJInJEdUrNNLbEqOcQHi')}}
+    {{ music(apple='1382308075')}}

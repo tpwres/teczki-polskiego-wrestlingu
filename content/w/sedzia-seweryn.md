@@ -80,13 +80,13 @@ During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was uno
   - _Twist of Sew_ (Twist of Fate) (2025-)
 * Entrance music:
   - "Over and Over and Over" by Jack White
- {{ org_badge(orgs=['mzw']) }} (2020, as Ring Rat) <br>
- {{ music(yt='ShCRN3tFy80')}}
- {{ music(spot='13CKjk6hRuF2XzY4N3xw4m')}}
- {{ music(apple='1337879490?i=1337879981')}}
+    {{ org_badge(orgs=['mzw']) }} (2020, as Ring Rat) <br>
+    {{ music(yt='ShCRN3tFy80')}}
+    {{ music(spot='13CKjk6hRuF2XzY4N3xw4m')}}
+    {{ music(apple='1337879490?i=1337879981')}}
   - "Waza" by HEWRA
- {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
- {{ music(yt='LMayWdD7Oac?t=42')}}
+    {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
+    {{ music(yt='LMayWdD7Oac?t=42')}}
 
 ## Championships and achievments:
 

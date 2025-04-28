@@ -62,24 +62,22 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened durin
 
 * Finishers:
   - _Ostatnie Namaszczenie_ (Swinging Reverse STO) (2018-)
-
 * Tag Teams and stables:
   - Kawaleria (2018-2019)
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
-
 * Entrance music:
   - "Yekteniya I" by Batushka
- {{ org_badge(orgs=['kpw']) }} (2018-2023) <br>
- {{ music(yt='XCMNqKuuFC4')}}
- {{ music(cc='pl', apple='1152475900?i=1152476251')}}
+    {{ org_badge(orgs=['kpw']) }} (2018-2023) <br>
+    {{ music(yt='XCMNqKuuFC4')}}
+    {{ music(cc='pl', apple='1152475900?i=1152476251')}}
   - "Gregorian Chants" by Ryz Beats
- {{ org_badge(orgs=['kpw']) }} (2023) <br>
- {{ music(yt='eP52SxhgikE')}}
+    {{ org_badge(orgs=['kpw']) }} (2023) <br>
+    {{ music(yt='eP52SxhgikE')}}
   - "Plague Rat" by Karl Casey
- {{ org_badge(orgs=['kpw', 'low']) }} (2024-present) <br>
- {{ music(yt='y8XElwNSPnI')}}
- {{ music(spot='5ydTDIWT7GpLq35kJv53Ry')}}
- {{ music(apple='1557138878?i=1557138879')}}
+    {{ org_badge(orgs=['kpw', 'low']) }} (2024-present) <br>
+    {{ music(yt='y8XElwNSPnI')}}
+    {{ music(spot='5ydTDIWT7GpLq35kJv53Ry')}}
+    {{ music(apple='1557138878?i=1557138879')}}
 
 ## Championships and accomplishments
 

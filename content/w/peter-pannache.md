@@ -42,14 +42,14 @@ In 2021 Peter made a return to wrestling when he joined [Prime Time Wrestling](@
   - Sojusz (2018)
 * Entrance music:
   - "Become a Legend" by Instrumental Core
- {{ org_badge(orgs=['kpw']) }} (2016-2019) <br>
- {{ music(yt='mH07hjnSNiI')}}
- {{ music(spot='7vX1cNnhKke1yoEn13XAmU')}}
+    {{ org_badge(orgs=['kpw']) }} (2016-2019) <br>
+    {{ music(yt='mH07hjnSNiI')}}
+    {{ music(spot='7vX1cNnhKke1yoEn13XAmU')}}
   - "Silver Scrapes" by Chronic Crew
- {{ org_badge(orgs=['ptw']) }} (2021) <br>
- {{ music(yt='m8Or0A1pcso')}}
- {{ music(spot='3CtZB2dVuHWHXIGShH9jUK')}}
- {{ music(apple='1099052135?i=1099052295')}}
+    {{ org_badge(orgs=['ptw']) }} (2021) <br>
+    {{ music(yt='m8Or0A1pcso')}}
+    {{ music(spot='3CtZB2dVuHWHXIGShH9jUK')}}
+    {{ music(apple='1099052135?i=1099052295')}}
 
 ## Championships and accomplishments
 

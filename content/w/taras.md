@@ -58,19 +58,16 @@ In his Instagram stories, Taras stated that he was supposedly abadoned by his pa
 * Finishers:
   - _Dzida_ (Spear) (2021-2024)
   - GTS (2024-)
-
 * With [Disco Pablo](@/w/disco-pablo.md):
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
-
 * Tag Teams and stables:
   - PAKA (2021-2024)
-
 * Entrance music:
   - "To my!" by 52 Dębiec
- {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
- {{ music(yt='XcQdJyo1B-8')}}
- {{ music(spot='3mvtAnOK9CoHvVCsqrixj5')}}
- {{ music(apple='619262718?i=619262888')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
+    {{ music(yt='XcQdJyo1B-8')}}
+    {{ music(spot='3mvtAnOK9CoHvVCsqrixj5')}}
+    {{ music(apple='619262718?i=619262888')}}
 
 ## Championships and accomplishments
 

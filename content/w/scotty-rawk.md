@@ -28,7 +28,7 @@ Scotty Rawk made two appearances for [Prime Time Wrestling](@/o/ptw.md) in 2024.
   - Frog Splash (2024)
 * Entrance music:
   - "You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire" by Queens of the Stone Age
- {{ org_badge(orgs=['ptw']) }} (2024) <br>
- {{ music(yt='i_45GLa_F70')}}
- {{ music(spot='48OJGqiTSwiUmDwLpAlGZ6')}}
- {{ music(apple='1443996694?i=1443996876')}}
+    {{ org_badge(orgs=['ptw']) }} (2024) <br>
+    {{ music(yt='i_45GLa_F70')}}
+    {{ music(spot='48OJGqiTSwiUmDwLpAlGZ6')}}
+    {{ music(apple='1443996694?i=1443996876')}}

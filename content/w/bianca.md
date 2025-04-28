@@ -33,19 +33,16 @@ After DDW ceased operations and [Kombat Pro Wrestling](@/o/kpw.md) was created, 
 
 * Finishers:
   - _Unhappy Ending_ (Modified double knee backbreaker) (2012-2020)
-
 * Tag Teams and stables:
   - Kawaleria (2015)
   - The Untouchables (2014)
-
 * Wrestlers managed:
   - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (2014)
   - [Piękny Kawaler](@/w/piekny-kawaler.md) (2015)
-
 * Entrance music:
   - "Gasoline" by Porcelain and the Tramps
- {{ org_badge(orgs=['ddw', 'kpw']) }} (2012-2020) <br>
- {{ music(yt='vv27loiNnNs')}}
+    {{ org_badge(orgs=['ddw', 'kpw']) }} (2012-2020) <br>
+    {{ music(yt='vv27loiNnNs')}}
 
 ## References
 

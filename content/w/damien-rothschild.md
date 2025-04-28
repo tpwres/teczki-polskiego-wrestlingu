@@ -51,18 +51,17 @@ Following his defeat, Rotschild has retired from professional wrestling.
 
 * Finishers:
   - _Lambert Lock_ (Armbar) (2015-2019)
-
 * Entrance music:
   - "Shut Your Mouth" by Pain
- {{ org_badge(orgs=['kpw']) }} (2015-2016) <br>
- {{ music(yt='067YF8KHdTM')}}
- {{ music(spot='5sLRiOznZn6SglsszMDP1w')}}
- {{ music(apple='1779479116?i=1779479216')}}
+    {{ org_badge(orgs=['kpw']) }} (2015-2016) <br>
+    {{ music(yt='067YF8KHdTM')}}
+    {{ music(spot='5sLRiOznZn6SglsszMDP1w')}}
+    {{ music(apple='1779479116?i=1779479216')}}
   - "NieWolnOść" by Hunter
- {{ org_badge(orgs=['mzw']) }} (2017-2019) <br>
- {{ music(yt='jIB6E1gSoMM')}}
- {{ music(spot='3ojITUjoFxaqYASKOcOgH0')}}
- {{ music(apple='1491000606?i=1491000607')}}
+    {{ org_badge(orgs=['mzw']) }} (2017-2019) <br>
+    {{ music(yt='jIB6E1gSoMM')}}
+    {{ music(spot='3ojITUjoFxaqYASKOcOgH0')}}
+    {{ music(apple='1491000606?i=1491000607')}}
 
 ## Championships and accomplishments
 

@@ -83,37 +83,35 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
   - Curb stomp (2022)
   - Single Leg Dropkick (2023)
   - Moonsault (2023-)
-
 * Tag Teams and stables:
   - [Zmowa](@/tt/zmowa.md) (2024-)
-
 * Entrance music:
   - "Them Bones" by Alice in Chains
- {{ org_badge(orgs=['ppw']) }} (2015, as Jim Enerico) <br>
- {{ music(yt='zTuD8k3JvxQ')}}
- {{ music(spot='4A065x9kJt955eGVqf813g')}}
- {{ music(apple='157316517?i=157316531')}}
+    {{ org_badge(orgs=['ppw']) }} (2015, as Jim Enerico) <br>
+    {{ music(yt='zTuD8k3JvxQ')}}
+    {{ music(spot='4A065x9kJt955eGVqf813g')}}
+    {{ music(apple='157316517?i=157316531')}}
   - "Take a Step (Instrumental Tribe Master)" by Tribeleader
- {{ org_badge(orgs=['ppw']) }} (2019-2022) <br>
- {{ music(yt='grvsOlS9fRg')}}
+    {{ org_badge(orgs=['ppw']) }} (2019-2022) <br>
+    {{ music(yt='grvsOlS9fRg')}}
   - "El Phantasmo and the Chicken-Run Blast-O-Rama (Wine, Women and Song Mix)" by White Zombie
- {{ org_badge(orgs=['ppw']) }} (2022) <br>
- {{ music(yt='wo41Glkrzhg')}}
- {{ music(spot='0zaIWLPuSqeL0Prun22tgA')}}
- {{ music(apple='1443799048?i=1443799194')}}
+    {{ org_badge(orgs=['ppw']) }} (2022) <br>
+    {{ music(yt='wo41Glkrzhg')}}
+    {{ music(spot='0zaIWLPuSqeL0Prun22tgA')}}
+    {{ music(apple='1443799048?i=1443799194')}}
   - "In Bloom" by Nirvana
- {{ org_badge(orgs=['ppw']) }} (2023) <br>
- {{ music(yt='E6SbPv1Fu80')}}
- {{ music(spot='30HCB1FoE77IfGRyNv4eFq')}}
- {{ music(apple='1440823614?i=1440823700')}}
+    {{ org_badge(orgs=['ppw']) }} (2023) <br>
+    {{ music(yt='E6SbPv1Fu80')}}
+    {{ music(spot='30HCB1FoE77IfGRyNv4eFq')}}
+    {{ music(apple='1440823614?i=1440823700')}}
   - "This Is Extreme!" by Harry Slash & The Slashtones
- {{ org_badge(orgs=['ppw']) }} (2023-2024) <br>
- {{ music(yt='T2T9e8CcgHE')}}
+    {{ org_badge(orgs=['ppw']) }} (2023-2024) <br>
+    {{ music(yt='T2T9e8CcgHE')}}
   - "Don't Like Em' All" by PHARMACIST
- {{ org_badge(orgs=['ppw']) }} (2024-) <br>
- {{ music(yt='kPeRVlK8YWI')}}
- {{ music(spot='6CnNh8EX2Rbu3647wu9CG7')}}
- {{ music(apple='1577219021?i=1577219022')}}
+    {{ org_badge(orgs=['ppw']) }} (2024-) <br>
+    {{ music(yt='kPeRVlK8YWI')}}
+    {{ music(spot='6CnNh8EX2Rbu3647wu9CG7')}}
+    {{ music(apple='1577219021?i=1577219022')}}
 
 ## Championships and accomplishments
 

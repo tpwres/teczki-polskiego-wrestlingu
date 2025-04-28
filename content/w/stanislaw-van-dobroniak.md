@@ -62,14 +62,14 @@ The clip shows him trying to climb back into the ring from the outside. One of h
   - [Zbójnicy](@/tt/zbojnicy.md) (2015-2017)
 * Entrance music:
   - "W Murowanej Piwnicy" by Kapela Pieczarki
- {{ org_badge(orgs=['mzw']) }} (2015-2017, in tag team with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) <br>
- {{ music(yt='a1vi2GmjJYo')}}
- {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
+    {{ org_badge(orgs=['mzw']) }} (2015-2017, in tag team with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) <br>
+    {{ music(yt='a1vi2GmjJYo')}}
+    {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
   - "Fucking Asshole" by Little Big
- {{ org_badge(orgs=['ppw']) }} (2022-) <br>
- {{ music(yt='bqMbVzQyXtc')}}
- {{ music(spot='70rVhKSUjK5A106sGGrpWX')}}
- {{ music(apple='1628768521?i=1628768851')}}
+    {{ org_badge(orgs=['ppw']) }} (2022-) <br>
+    {{ music(yt='bqMbVzQyXtc')}}
+    {{ music(spot='70rVhKSUjK5A106sGGrpWX')}}
+    {{ music(apple='1628768521?i=1628768851')}}
 
 ## Championships and accomplishments
 

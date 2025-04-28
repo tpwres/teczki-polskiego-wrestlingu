@@ -29,11 +29,10 @@ Marty Scurll made his debut on Polish soil in February 2022, where he faced, and
 
 * Finishers:
   - Crossface Chickenwing (2022)
-
 * Entrance music:
   - "One True Villain" by Hot Tag - Media Works
- {{ org_badge(orgs=['ptw']) }} (2022) <br>
- {{ music(yt='BU_SCEBo1VE')}}
+    {{ org_badge(orgs=['ptw']) }} (2022) <br>
+    {{ music(yt='BU_SCEBo1VE')}}
 
 ## Internet presence
 

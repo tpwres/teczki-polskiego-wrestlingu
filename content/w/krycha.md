@@ -29,10 +29,10 @@ Krycha's ring name was unusual and unique on the Polish scene, as it was an augm
   - Sharpshooter (2011)
 * Entrance music:
   - "Awake and Alive" by Skillet
- {{ org_badge(orgs=['pxw']) }} (2011) <br>
- {{ music(yt='2aJUnltwsqs')}}
- {{ music(spot='0nkzd3yNniB767zSDDdLZ3')}}
- {{ music(apple='325821860?i=325821864')}}
+    {{ org_badge(orgs=['pxw']) }} (2011) <br>
+    {{ music(yt='2aJUnltwsqs')}}
+    {{ music(spot='0nkzd3yNniB767zSDDdLZ3')}}
+    {{ music(apple='325821860?i=325821864')}}
 
 ## Championships and accomplishments
 

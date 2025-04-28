@@ -36,10 +36,10 @@ At that show he defeated up-and-coming Polish wrestler [Gabriel Queen](@/w/gabri
   - _The Standing Ovation_ (Chokeslam) (2022)
 * Entrance music:
   - "I Believe in Joe Hendry" by Joe Hendry
- {{ org_badge(orgs=['ptw']) }} (2022) <br>
- {{ music(yt='Hb17uaaldwM')}}
- {{ music(spot='2tfEDfDTTWmFf2fNpmVdDq')}}
- {{ music(apple='1742008241?i=1742008242')}}
+    {{ org_badge(orgs=['ptw']) }} (2022) <br>
+    {{ music(yt='Hb17uaaldwM')}}
+    {{ music(spot='2tfEDfDTTWmFf2fNpmVdDq')}}
+    {{ music(apple='1742008241?i=1742008242')}}
 
 ## Internet presence
 
