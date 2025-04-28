@@ -33,3 +33,25 @@ In addition to working in Poland, the Fux Brothers made an appearance in 2023 fo
 ### Legacy of Wrestling (2025-)
 
 At [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) Filip lost a match against [Marco Hammers](@/w/marco-hammers.md), who - along with his tag team partner [Olgierd](@/w/olgierd.md) - expressed interest in Filip's KPW Tag Team title. The [follow-up event](@/e/low/2025-04-06-low-2.md) then saw a match between Bracia Fux and [Legia Łysych](@/tt/legia-lysych.md) for the Tag Team titles. Once again, the Brothers retained their gold.
+
+## In wrestling
+
+* Finishers:
+  - Flapjack ([Michał](@/w/michal-fux.md)) and Cutter ([Filip](@/filip-fux.md)) combination (2021-)
+  - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
+ 
+* Entrance music:
+  - "Kickstart My Heart" by Mötley Crüe
+ {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025-) <br>
+ {{ music(yt='CmXWkMlKFkI')}}
+ {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
+ {{ music(apple='1764395673?i=1764396024')}}
+  - "Better days" by Dangerous New Machine
+ {{ org_badge(orgs=['kpw']) }} (2023-)<br>
+ {{ music(yt='se3AUY4XKcA')}}
+ {{ music(apple='375038556?i=375038653')}}
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) - with [Michał Fux](@/w/michal-fux.md)
