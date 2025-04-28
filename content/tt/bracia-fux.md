@@ -22,7 +22,7 @@ orgs = ["kpw", "low"]
 
 #### Championship pursuits
 
-At [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) the Brothers took part in a [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) 4-Way Elimination Match against three other teams, but lost. At the following show, [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md), they faced the new Tag Team Champions, [Die Ordnung](@/tt/die-ordnung.md), but with no success. Their moment came a year later at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) when they clashed with the German team once again, this time stripping them of their titles. This victory was followed by a series of defences against the likes of [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) ([Chemik](@/w/chemik.md) & [Eryk Lesak](@/w/eryk-lesak.md)) and The 87 (Alexander Roth & Roy Johnson).
+At [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) the Brothers took part in a [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) 4-Way Elimination Match against three other teams, but lost. At the following show, [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md), they faced the new Tag Team Champions, [Die Ordnung](@/tt/die-ordnung.md), but with no success. Their moment came a year later at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) when they clashed with the German team once again, this time stripping them of their titles. This victory was followed by a series of defences against the likes of [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) ([Chemik](@/w/chemik.md)&nbsp;& [Eryk Lesak](@/w/eryk-lesak.md)) and The 87 (Alexander Roth & Roy Johnson).
 
 At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) the Brothers took part in a tournament for the [KPW Championship](@/c/kpw-championship.md) Contendership and at the [next show](@/e/kpw/2025-01-24-kpw-arena-27.md) they faced [David Oliwa](@/w/david-oliwa.md) as well as one another in a Three Way Match - a bout that was won by Michał Fux. Then at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) Michał took on [Hans Schulte](@/w/hans-schulte.md) in a match for KPW's main title, while Filip squared off against Chemik for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md); however, both Fuxes lost their matches.
 
@@ -34,12 +34,15 @@ In addition to working in Poland, the Fux Brothers made an appearance in 2023 fo
 
 At [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) Filip lost a match against [Marco Hammers](@/w/marco-hammers.md), who - along with his tag team partner [Olgierd](@/w/olgierd.md) - expressed interest in Filip's KPW Tag Team title. The [follow-up event](@/e/low/2025-04-06-low-2.md) then saw a match between Bracia Fux and [Legia Łysych](@/tt/legia-lysych.md) for the Tag Team titles. Once again, the Brothers retained their gold.
 
+## Members
+* [Filip Fux](@/w/filip-fux.md)
+* [Michał Fux](@/w/michal-fux.md)
+
 ## In wrestling
 
 * Finishers:
   - Flapjack ([Michał](@/w/michal-fux.md)) and Cutter ([Filip](@/w/filip-fux.md)) combination (2021-)
   - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
- 
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
  {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025-) <br>
