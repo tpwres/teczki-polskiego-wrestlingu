@@ -95,7 +95,7 @@ In 2023 Biesiad made his debut for [Maniac Zone Wrestling](@/o/mzw.md) at their 
 
 In December 2024 Biesiad took part in [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md), where he defeated Olgierd in a PpW Rules Match.
 
-Biesiad was able to shop up at the [second event](@/e/low/2025-04-06-low-2.md), as he was granted a temporary pass by the PM Shooter mercenaries, who guarded him during his appearance. He fought in a Fatal Five Way Match against [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md), [Shadow](@/w/shadow.md) and [Erik Šlotíř](@/w/erik-slotir.md). He was prevented from winning as his pass expired during the bout, and he was yet again apprehended by the mercenaries.
+Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), as he was granted a temporary pass by the PM Shooter mercenaries, who guarded him during his appearance. He fought in a Fatal Five Way Match against [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md), [Shadow](@/w/shadow.md) and [Erik Šlotíř](@/w/erik-slotir.md). He was prevented from winning as his pass expired during the bout, and he was yet again apprehended by the mercenaries.
 
 ## In wrestling
 
