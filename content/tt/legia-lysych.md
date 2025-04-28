@@ -77,6 +77,9 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
 
 ## In wrestling:
 
+* Finishing moves:
+  - Stereo Running Headbutt (2024-)
+
 * Entrance music:
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
  {{ org_badge(orgs=['ptw','ppw','mzw','low']) }} (2023-) <br>
@@ -84,7 +87,9 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
  {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
  {{ music(apple='1509575453?i=1509575457')}}'
 
-* Finishing moves:
-  - Stereo Running Headbutt
+## Championships and accomplishments 
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; current) - [Marco Hammers](@/w/marco-hammers.md) (2)
 
 [legia-warszawa]:https://en.wikipedia.org/wiki/Legia_Warsaw
