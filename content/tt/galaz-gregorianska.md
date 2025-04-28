@@ -34,7 +34,7 @@ Two show later, at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.
 
 ## Championships and accomplishments
 * [KPW Championship](@/c/kpw-championship.md) (1 time) - [Greg](@/w/greg.md)
-* [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (2 times) - [Rosetti](@/w/rosetti.md), [Chemik](@/w/chemik.md) (current)
+* [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (2 times) - [Rosetti](@/w/rosetti.md) (1), [Chemik](@/w/chemik.md) (1; current)
 
 [inwazja]: https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine
 [rosetti-tlumaczy]: https://youtu.be/kAp3we-kg-0&t=2263
