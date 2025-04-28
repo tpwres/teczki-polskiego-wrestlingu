@@ -34,13 +34,12 @@ Jonny Storm returned to Poland at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush
 * Finishers:
   - _Whirlwind_
   - _Rewind Stormin' Steiner_
- 
-* Entrance music:
+ * Entrance music:
   - "Let It Rain (Thunder Radio Edit) by East 17
- {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
- {{ music(yt='fHP8uO4pmN8')}}
- {{ music(spot='5aOYcNBRLaWjtASfPhf3xt')}}
- {{ music(apple='1469097065?i=1469097587')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ music(yt='fHP8uO4pmN8')}}
+    {{ music(spot='5aOYcNBRLaWjtASfPhf3xt')}}
+    {{ music(apple='1469097065?i=1469097587')}}
 
 ## References
 

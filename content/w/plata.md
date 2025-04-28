@@ -28,6 +28,6 @@ Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his ca
 
 * Entrance music:
   - "Yakuza 0 Intro" by Yakuza Sound Team
- {{ org_badge(orgs=['ppw']) }} (2024-) <br>
- {{ music(yt='zxrXgtSL2Rk')}}
+    {{ org_badge(orgs=['ppw']) }} (2024-) <br>
+    {{ music(yt='zxrXgtSL2Rk')}}
   

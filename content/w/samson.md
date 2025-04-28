@@ -63,15 +63,15 @@ In 2024, Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent,
   - Samsonito (2023)
 * Entrance music:
   - "Mighty Wings" by Cheap Trick
- {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
- {{ music(yt='b8OdyAq7sfk')}}
- {{ music(spot='32SckiFOYb8bwYewY51WA7')}}
- {{ music(apple='387193895?i=387193971')}}
+    {{ org_badge(orgs=['ptw']) }} (2022-2023) <br>
+    {{ music(yt='b8OdyAq7sfk')}}
+    {{ music(spot='32SckiFOYb8bwYewY51WA7')}}
+    {{ music(apple='387193895?i=387193971')}}
   - "We've Got Hostiles" by morch kovalsky
- {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-) <br>
- {{ music(yt='8KswYyylKD4')}}
- {{ music(spot='4fXCCzN6GfawQ2s1V2sRca')}}
- {{ music(apple='1475678330?i=1475678609')}}
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-) <br>
+    {{ music(yt='8KswYyylKD4')}}
+    {{ music(spot='4fXCCzN6GfawQ2s1V2sRca')}}
+    {{ music(apple='1475678330?i=1475678609')}}
 
 ## Internet presence
 

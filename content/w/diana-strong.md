@@ -47,16 +47,14 @@ After PTW's reboot, which was forced by multiple controversies and [talent exodu
 
 * Finishers:
   - _Power Play_ (Samoan Drop) (2021-)
-
 * Wrestlers managed:
   - Moloch (2018)
- 
 * Entrance music:
   - "Iconic" by Ledger
- {{ org_badge(orgs=['ptw']) }} (2021-) <br>
- {{ music(yt='EcpAfOZlMnk')}}
- {{ music(spot='75sYImCjS4sB3Xrdrae1OZ')}}
- {{ music(apple='1366486807?i=1366487205')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-) <br>
+    {{ music(yt='EcpAfOZlMnk')}}
+    {{ music(spot='75sYImCjS4sB3Xrdrae1OZ')}}
+    {{ music(apple='1366486807?i=1366487205')}}
 
 ## Championships and accomplishments
 

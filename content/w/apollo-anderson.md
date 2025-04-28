@@ -37,16 +37,14 @@ Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-f
 
 * Finishers:
   - Springboard 450 Splash (2017-2019)
-
 * Tag Teams and stables:
   - Wataha (2018-2019)
-
 * Entrance music:
   - "Wataha" by Męskie Granie Orkiestra
- {{ org_badge(orgs=['mzw']) }} (2018-2019, in tag team with [Justin Joy](@/w/justin-joy.md)) <br>
- {{ music(yt='7WAFLz9xT3U')}}
- {{ music(spot='6ZvBEifHQkFG4P8sthpGYZ')}}
- {{ music(apple='1699411962?i=1699412396')}}
+    {{ org_badge(orgs=['mzw']) }} (2018-2019, in tag team with [Justin Joy](@/w/justin-joy.md)) <br>
+    {{ music(yt='7WAFLz9xT3U')}}
+    {{ music(spot='6ZvBEifHQkFG4P8sthpGYZ')}}
+    {{ music(apple='1699411962?i=1699412396')}}
 
 ## Championships and accomplishments
 

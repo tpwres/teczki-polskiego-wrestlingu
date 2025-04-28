@@ -39,17 +39,15 @@ Sawicki was seen at training sessions in [PTW Academy](@/o/ptw-academy.md) back 
 
 * Finishers:
   - _Sawicki Bomb_ (Chokebomb) (2016-2020)
-
 * Tag Teams and stables:
   - Sawicki & Rosetti (2017-2020)
   - Kawaleria (2018-2019)
-
 * Entrance music:
   - "Pieceful" by The World I Know
- {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Rosetti](@/w/rosetti.md)) <br>
- {{ music(yt='cHMlcuuqWG8')}}
- {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
- {{ music(apple='1447820618?i=1447820619')}}
+    {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Rosetti](@/w/rosetti.md)) <br>
+    {{ music(yt='cHMlcuuqWG8')}}
+    {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
+    {{ music(apple='1447820618?i=1447820619')}}
 
 ## Championships and accomplishments:
 

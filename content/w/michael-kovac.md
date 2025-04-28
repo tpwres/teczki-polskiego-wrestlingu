@@ -36,13 +36,12 @@ Kovac returned to the Polish wrestling scene once more, after over a decade in A
 
 * Finishers:
   - _Obermacker DDT_ (Bearhug into Cradle DDT) (2009-2021)
-
 * Entrance music:
   - "Bleed for Me" by Black Label Society
- {{ org_badge(orgs=['ddw', 'tbw', 'kpw']) }} (2009-2021) <br>
- {{ music(yt='IPcjYTYgNgQ')}}
- {{ music(spot='4MVLhnxukgKkAmKvvj6qcp')}}
- {{ music(apple='1437328390?i=1437328603')}}
+    {{ org_badge(orgs=['ddw', 'tbw', 'kpw']) }} (2009-2021) <br>
+    {{ music(yt='IPcjYTYgNgQ')}}
+    {{ music(spot='4MVLhnxukgKkAmKvvj6qcp')}}
+    {{ music(apple='1437328390?i=1437328603')}}
 
 ## References
 

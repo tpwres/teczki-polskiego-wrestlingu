@@ -69,13 +69,12 @@ At [LoW vol.2](@/e/low/2025-04-06-low-2.md) Aron took part in Fatal Five-Way Mat
 * Finishers:
   - Running Knee Strike (2019-)
   - Modified Crossface / scissored armbar combination (2021)
-
 * Entrance music:
   - "Battle! Cynthia (Intense Symphonic Metal Cover)" by FalKKonE
- {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} (2019-) <br>
- {{ music(yt='ZEVbju7lxx0')}}
- {{ music(spot='5ZNDg0VG86jgXUalVqac49')}}
- {{ music(apple='1268920632?i=1268920636')}}
+    {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} (2019-) <br>
+    {{ music(yt='ZEVbju7lxx0')}}
+    {{ music(spot='5ZNDg0VG86jgXUalVqac49')}}
+    {{ music(apple='1268920632?i=1268920636')}}
 
 ## Championships and accomplishments
 

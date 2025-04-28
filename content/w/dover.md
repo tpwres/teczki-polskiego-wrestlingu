@@ -37,14 +37,12 @@ After over eight years of inactivity on the Polish wrestling scene, Dover - alon
 * Finishers:
   - _Hungarian Wanderer_ (Air Raid Crash) (2012-)
   - Discus Lariat
- 
 * Tag Teams and stables:
   - Arrows of Hungary (2023)
- 
 * Entrance music:
   - "Arrows of Hungary Theme Song" by Apey & the Pea
- {{ org_badge(orgs=['ptw']) }} (2023) <br>
- {{ music(yt='qxe8XTtCN5k')}}
+    {{ org_badge(orgs=['ptw']) }} (2023) <br>
+    {{ music(yt='qxe8XTtCN5k')}}
 
 ## References
 

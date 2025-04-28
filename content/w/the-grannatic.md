@@ -34,10 +34,10 @@ The Grannatic was able to perform for MZW mostly due to friendly relations betwe
   - Posse In Effect (2014-2017)
 * Entrance music:
   - "Bombtrack" by 	Rage Against The Machine
- {{ org_badge(orgs=['mzw']) }} (2014-2017), in tag team with [Rick Baxxter](@/w/rick-baxxter.md)) <br>
- {{ music(yt='MUaL1FnotRQ')}}
- {{ music(spot='6ZU9RJIZ0fNaFuQM57bDIA')}}
- {{ music(apple='578028823?i=578028950')}}
+    {{ org_badge(orgs=['mzw']) }} (2014-2017), in tag team with [Rick Baxxter](@/w/rick-baxxter.md)) <br>
+    {{ music(yt='MUaL1FnotRQ')}}
+    {{ music(spot='6ZU9RJIZ0fNaFuQM57bDIA')}}
+    {{ music(apple='578028823?i=578028950')}}
 
 ## References
 

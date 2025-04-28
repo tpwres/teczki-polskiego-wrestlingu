@@ -100,39 +100,37 @@ On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox
   - _Code Red_ (Sunset Flip Powerbomb) - (2021-2022); used as signature move thereafter
   - _Firefox DDT_ (Standing Shiranui) (2021-)
   - _Firefox Elbow Drop_ (Diving Elbow Drop) (2023-); adopted from [Justin Joy](@/w/justin-joy.md)
-
 * Tag teams and stables:
   - FoxJoy (2023)
   - GobLis (2024-)
-
 * Entrance music:
   - "Nowhere to Hide" by Chrobot
- {{ org_badge(orgs=['dfw']) }} (2017) <br>
- {{ music(yt='0tBeZUjmp6Y')}}
- {{ music(spot='69q1xbdp0MHTayxLvlRMdk')}}
- {{ music(apple='1472548615?i=1472548866')}}
+    {{ org_badge(orgs=['dfw']) }} (2017) <br>
+    {{ music(yt='0tBeZUjmp6Y')}}
+    {{ music(spot='69q1xbdp0MHTayxLvlRMdk')}}
+    {{ music(apple='1472548615?i=1472548866')}}
   - "It's Raining Men" by The Weather Girls
- {{ org_badge(orgs=['mzw']) }} (2018) <br>
- {{ music(yt='l5aZJBLAu1E')}}
- {{ music(spot='2IvetNzSZMH5gwjInoyr18')}}
- {{ music(apple='273400100?i=273400238')}}
+    {{ org_badge(orgs=['mzw']) }} (2018) <br>
+    {{ music(yt='l5aZJBLAu1E')}}
+    {{ music(spot='2IvetNzSZMH5gwjInoyr18')}}
+    {{ music(apple='273400100?i=273400238')}}
   - "Fox On The Run" by Sweet
- {{ org_badge(orgs=['mzw']) }} (2019-2020) <br> 
- {{ music(yt='kRv7EjjwYBI')}}
- {{ music(spot='4uip0lLkMKl1nwchsdXs1r')}}
- {{ music(apple='1440629897?i=1440629905')}}
+    {{ org_badge(orgs=['mzw']) }} (2019-2020) <br> 
+    {{ music(yt='kRv7EjjwYBI')}}
+    {{ music(spot='4uip0lLkMKl1nwchsdXs1r')}}
+    {{ music(apple='1440629897?i=1440629905')}}
   - "Saturday Night's Alright for Fighting" by Elton John
- {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
- {{ music(yt='AhnZEmnuzgM')}}
- {{ music(spot='12yHvSYFXI7PGzNecUvIDu')}}
- {{ music(apple='1440863013?i=1440863140&l=pl')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
+    {{ music(yt='AhnZEmnuzgM')}}
+    {{ music(spot='12yHvSYFXI7PGzNecUvIDu')}}
+    {{ music(apple='1440863013?i=1440863140&l=pl')}}
   - "Crazy Like a Fox" by Independent Contractor
- {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
   - "Punk Tactics" by Joey Valence & Brae
- {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
- {{ music(yt='OklSZmIx9-o')}} 
- {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
- {{ music(apple='1697553064?i=1697553067&l=pl')}}
+    {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
+    {{ music(yt='OklSZmIx9-o')}} 
+    {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
+    {{ music(apple='1697553064?i=1697553067&l=pl')}}
 
 ## Championships and accomplishments
 

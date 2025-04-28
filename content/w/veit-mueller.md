@@ -34,10 +34,10 @@ Veit made his debut at [KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-ze
   - Die Ordnung (2022-2024)
 * Entrance music:
   - "Deutschland" by Rammstein
- {{ org_badge(orgs=['kpw']) }} (2022-2024, in tag team with [Hans Schulte](@/w/hans-schulte.md)) <br>
- {{ music(yt='NeQM1c-XCDc')}}
- {{ music(spot='2bPGTMB5sFfFYQ2YvSmup0')}}
- {{ music(apple='1456789831?i=1456789852')}}
+    {{ org_badge(orgs=['kpw']) }} (2022-2024, in tag team with [Hans Schulte](@/w/hans-schulte.md)) <br>
+    {{ music(yt='NeQM1c-XCDc')}}
+    {{ music(spot='2bPGTMB5sFfFYQ2YvSmup0')}}
+    {{ music(apple='1456789831?i=1456789852')}}
 
 ## Championships and accomplishments
 

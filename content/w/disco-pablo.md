@@ -60,19 +60,16 @@ At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo fac
 
 * Finishers:
   - _Koniec Imprezy_ (Blue Thunder Bomb) (2021-)
-
 * With [Taras](@/w/taras.md):
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
-
 * Tag Teams and stables:
   - PAKA (2021-2024)
-
 * Entrance music:
   - "Sorry For Party Rocking" by LMFAO
- {{ org_badge(orgs=['mzw', 'low']) }} (2024-present) <br>
- {{ music(yt='VctCEZ73USx5iVyp&t=139')}}
- {{ music(spot='68rRbbwmXydDOqhArVTFTX')}}
- {{ music(apple='1443124632?i=1443124797')}}
+    {{ org_badge(orgs=['mzw', 'low']) }} (2024-present) <br>
+    {{ music(yt='VctCEZ73USx5iVyp&t=139')}}
+    {{ music(spot='68rRbbwmXydDOqhArVTFTX')}}
+    {{ music(apple='1443124632?i=1443124797')}}
 
 ## Championships and accomplishments
 

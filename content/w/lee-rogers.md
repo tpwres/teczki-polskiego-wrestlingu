@@ -39,10 +39,10 @@ Rogers returned to KPW in May 2022 at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22
   - British Bouncer Club (2018-2023), with [Dom Taylor](@/w/dom-taylor.md)
 * Entrance music:
   - "Love The Way You Hate Me" by Like A Storm
- {{ org_badge(orgs=['kpw']) }} (2018-2023)<br>
- {{ music(yt='5xhubIqV1CI')}}
- {{ music(spot='6h8TvDRaMTRfe2TIG6dqpH')}}
- {{ music(apple='1056468734?i=1056468746')}}
+    {{ org_badge(orgs=['kpw']) }} (2018-2023)<br>
+    {{ music(yt='5xhubIqV1CI')}}
+    {{ music(spot='6h8TvDRaMTRfe2TIG6dqpH')}}
+    {{ music(apple='1056468734?i=1056468746')}}
 
 ## References
 

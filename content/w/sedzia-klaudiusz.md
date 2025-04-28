@@ -37,10 +37,9 @@ Klaudiusz returned to PTW's ring as a referee making his re-debut at [Undergroun
 
 * Tag Teams and Stables
   - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2022) - as Minion
- 
 * Entrance music:
   - "GladWeHaveAnUnderstanding" by Bones
- {{ org_badge(orgs=['ptw']) }} (2022), as Minion (part of Sinister Kingdom) <br>
- {{ music(yt='dPGxYXWhCzM')}}
- {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
- {{ music(apple='1447553826?i=1447553830')}}
+    {{ org_badge(orgs=['ptw']) }} (2022), as Minion (part of Sinister Kingdom) <br>
+    {{ music(yt='dPGxYXWhCzM')}}
+    {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
+    {{ music(apple='1447553826?i=1447553830')}}

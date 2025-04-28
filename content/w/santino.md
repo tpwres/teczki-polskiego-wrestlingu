@@ -40,18 +40,17 @@ Santino made his last PTW appearance to date at [Gold Rush](@/e/ptw/2024-02-03-p
 
 * Finishers:
   - _Cobra_ (Right-handed thrust to an opponent's throat or face, with theatrics) (2012; 2021-2024)
- 
 * Entrance music:
   - "La Vittoria E Mia (Victory Is Mine)" by Jim Johnston
- {{ org_badge(orgs=['wwe']) }} (2012) <br>
- {{ music(yt='sxNw-2_ZZrs')}}
- {{ music(spot='7qtgW0nMrrsveYX4axpvsO')}}
- {{ music(apple='621624800?i=621624927')}}
+    {{ org_badge(orgs=['wwe']) }} (2012) <br>
+    {{ music(yt='sxNw-2_ZZrs')}}
+    {{ music(spot='7qtgW0nMrrsveYX4axpvsO')}}
+    {{ music(apple='621624800?i=621624927')}}
   - "Infinity 2008" by Guru Josh Project
- {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
- {{ music(yt='dL3AiuTsbOU')}}
- {{ music(spot='7vseIfb8ooQmXzisuinchZ')}}
- {{ music(apple='281099322?i=281099353')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ music(yt='dL3AiuTsbOU')}}
+    {{ music(spot='7vseIfb8ooQmXzisuinchZ')}}
+    {{ music(apple='281099322?i=281099353')}}
   
 ## References
 

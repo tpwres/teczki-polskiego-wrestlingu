@@ -34,10 +34,10 @@ In October 2022, RAV defeated Johny Vegas in a No Disqualification Best 3 Out Of
   - Blue Thunder Bomb (2018-)
 * Entrance music:
   - "Over And Under" by Egypt Central
- {{ org_badge(orgs=['mcw']) }} (2018-) <br>
- {{ music(yt='GMhHdUdH9GQ')}}
- {{ music(spot='4MMts6W5k8DlXFOGMFih8P')}}
- {{ music(apple='506488265?i=506488268')}}
+    {{ org_badge(orgs=['mcw']) }} (2018-) <br>
+    {{ music(yt='GMhHdUdH9GQ')}}
+    {{ music(spot='4MMts6W5k8DlXFOGMFih8P')}}
+    {{ music(apple='506488265?i=506488268')}}
 
 ## Championships and accomplishments
 

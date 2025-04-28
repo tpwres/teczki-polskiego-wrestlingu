@@ -68,17 +68,17 @@ On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling
   - _Jajacha_ (Crotch-lift release German suplex) (2015-2019); adopted from [Piękny Kawaler](@/w/piekny-kawaler.md)
 * Tag Teams and stables:
   - Double G (2014)
-  - Kawaleria (2015-2019)
+  - [Kawaleria](@/tt/kawaleria.md) (2015-2019)
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Year Zero" by Ghost
- {{ org_badge(orgs=['kpw', 'low']) }} (2019-2023; 2025) <br>
- {{ music(yt='wy0l2r0IxkI')}}
- {{ music(spot='3yiyZW5sYNg3VvIejh10sK')}}
- {{ music(apple='1440870903?i=1440870917')}}
+    {{ org_badge(orgs=['kpw', 'low']) }} (2019-2023; 2025) <br>
+    {{ music(yt='wy0l2r0IxkI')}}
+    {{ music(spot='3yiyZW5sYNg3VvIejh10sK')}}
+    {{ music(apple='1440870903?i=1440870917')}}
   - "Evil Warriors" by Makai Symphony
- {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
- {{ music(yt='cbF6qRQ5WM8')}}
+    {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
+    {{ music(yt='cbF6qRQ5WM8')}}
 
 ## Championships and accomplishments
 

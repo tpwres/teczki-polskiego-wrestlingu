@@ -58,20 +58,20 @@ Rosetti is one of the most experienced [KPW](@/o/kpw.md) wrestlers still on the 
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Pieceful" by The World I Know
- {{ org_badge(orgs=['kpw']) }} (2017-2020; 2023-), in tag team with [Sawicki](@/w/sawicki.md) and later solo) <br>
- {{ music(yt='cHMlcuuqWG8')}}
- {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
- {{ music(apple='1447820618?i=1447820619')}}
+    {{ org_badge(orgs=['kpw']) }} (2017-2020; 2023-), in tag team with [Sawicki](@/w/sawicki.md) and later solo) <br>
+    {{ music(yt='cHMlcuuqWG8')}}
+    {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
+    {{ music(apple='1447820618?i=1447820619')}}
   - "Long Live the Chief" by Jidenna
- {{ org_badge(orgs=['kpw']) }} (2020-2023) <br>
- {{ music(yt='H_AQFnqMY3E')}}
- {{ music(spot='5M708qYwdT7xyQqO0WXnzm')}}
- {{ music(apple='1202463337?i=1202463431')}}
+    {{ org_badge(orgs=['kpw']) }} (2020-2023) <br>
+    {{ music(yt='H_AQFnqMY3E')}}
+    {{ music(spot='5M708qYwdT7xyQqO0WXnzm')}}
+    {{ music(apple='1202463337?i=1202463431')}}
   - "Gangsters" by Alex Guz
- {{ org_badge(orgs=['kpw']) }} (2024-present) <br>
- {{ music(yt='aXil-eZeab4')}}
- {{ music(spot='0cC4EVBUPuR5B8eaHSf40G')}}
- {{ music(apple='1783463715?i=1783463716')}}
+    {{ org_badge(orgs=['kpw']) }} (2024-present) <br>
+    {{ music(yt='aXil-eZeab4')}}
+    {{ music(spot='0cC4EVBUPuR5B8eaHSf40G')}}
+    {{ music(apple='1783463715?i=1783463716')}}
 
 ## Championships and accomplishments
 

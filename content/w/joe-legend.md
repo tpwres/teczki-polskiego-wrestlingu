@@ -44,8 +44,8 @@ This marked Joe E. Legend's last appearance in PTW (and Poland) to date.
   - _Hospital Job_ (Lifting Reverse STO) (2009-2022)
 * Entrance music:
   - "Joe E. Legend Theme Song" by W3L Network
- {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
- {{ music(yt='kpuO4Q6Xgfc')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
+    {{ music(yt='kpuO4Q6Xgfc')}}
 
 ## Championships and accomplishments
 

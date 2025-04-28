@@ -31,13 +31,12 @@ At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) he won a Fou
 
 * Finishers:
   - Swanton Bomb (2022-)
-
 * Entrance music:
   - "Believer" by Myrath
- {{ org_badge(orgs=['kpw']) }} (2022-) <br>
- {{ music(yt='CnFtZZp7f-c')}}
- {{ music(spot='6zNWCirgbJ9nkwZlVeMY3T')}}
- {{ music(apple='1092466167?i=1092466515')}}
+    {{ org_badge(orgs=['kpw']) }} (2022-) <br>
+    {{ music(yt='CnFtZZp7f-c')}}
+    {{ music(spot='6zNWCirgbJ9nkwZlVeMY3T')}}
+    {{ music(apple='1092466167?i=1092466515')}}
 
 ## References
 

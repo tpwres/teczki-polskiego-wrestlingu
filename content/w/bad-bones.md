@@ -58,8 +58,8 @@ This marked Bad Bones's final appearance for PTW. Not long after, on May 20th, J
   - _Shadow Driver_ (Sitdown Pumphandle Powerbomb) (2022-2024)
 * Entrance music:
   - "Bad Bones Theme Song" by Unknown Artist
- {{ org_badge(orgs=['ptw']) }} (2022-2024) <br>
- {{ music(yt='H1lHLSmcW7I')}}
+    {{ org_badge(orgs=['ptw']) }} (2022-2024) <br>
+    {{ music(yt='H1lHLSmcW7I')}}
 
 ## References
 

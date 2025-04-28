@@ -26,10 +26,10 @@ Nightmare made his debut in 2011, in [Polish Xtreme Wrestling](@/o/pxw.md) - a b
 
 * Entrance music:
   - "Nightmare" by Avenged Sevenfold
- {{ org_badge(orgs=['pxw']) }} (2011-2013) <br>
- {{ music(yt='94bGzWyHbu0')}}
- {{ music(spot='4UEo1b0wWrtHMC8bVqPiH8')}}
- {{ music(apple='378658663?i=378658664')}}
+    {{ org_badge(orgs=['pxw']) }} (2011-2013) <br>
+    {{ music(yt='94bGzWyHbu0')}}
+    {{ music(spot='4UEo1b0wWrtHMC8bVqPiH8')}}
+    {{ music(apple='378658663?i=378658664')}}
 
 ## Championships and accomplishments
 

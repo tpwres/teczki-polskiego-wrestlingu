@@ -58,10 +58,10 @@ Sinister made his return to wrestling at [Legacy of Wrestling's](@/o/low.md) [fi
   - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2023-2024)
 * Entrance music:
   - "GladWeHaveAnUnderstanding" by Bones
- {{ org_badge(orgs=['ptw', 'low']) }} (2021-)  <br>
- {{ music(yt='dPGxYXWhCzM')}}
- {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
- {{ music(apple='1447553826?i=1447553830')}}
+    {{ org_badge(orgs=['ptw', 'low']) }} (2021-)  <br>
+    {{ music(yt='dPGxYXWhCzM')}}
+    {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
+    {{ music(apple='1447553826?i=1447553830')}}
 
 ## Championships and accomplishments
 

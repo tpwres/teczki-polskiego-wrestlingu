@@ -46,25 +46,22 @@ Since then, Mira is still active in the wrestling industry as a ring-gear tailor
 * Finishers:
   - Boston Crab (2013-2015)
   - _Step Up_ (Bridging double chickenwing) (2015-2017)
-
 * Tag Teams and stables:
   - Mixed tag team with [Boski Ostrowski](@/w/ostrowski.md) (2015-2018)
   - Sojusz (2018)
-
 * Wrestlers managed:
   - [Boski Ostrowski](@/w/ostrowski.md) (2015-2018)
-
 * Entrance music:
   - "'Til The Dawn (Main Version)" by Drew Sidora
- {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>
- {{ music(yt='r-5gVLNPkiM')}}
- {{ music(spot='3hQsKiuqpoxPnYhOytrJIJ')}}
- {{ music(apple='183506814?i=183507529')}}
+    {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>
+    {{ music(yt='r-5gVLNPkiM')}}
+    {{ music(spot='3hQsKiuqpoxPnYhOytrJIJ')}}
+    {{ music(apple='183506814?i=183507529')}}
   - "Disco Disco Good Good" by Geo Da Silva & Jack Mazzoni
- {{ org_badge(orgs=['kpw']) }} (2015-2018, while teaming and managing [Boski Ostrowski](@/w/ostrowski.md)) <br>
- {{ music(yt='b0y4IQRbKAs')}}
- {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
- {{ music(apple='1371473173?i=1371473189')}}
+    {{ org_badge(orgs=['kpw']) }} (2015-2018, while teaming and managing [Boski Ostrowski](@/w/ostrowski.md)) <br>
+    {{ music(yt='b0y4IQRbKAs')}}
+    {{ music(spot='2ZeiGDwf4P9JxsBwc9AE6r')}}
+    {{ music(apple='1371473173?i=1371473189')}}
 
 ## Internet presence
 

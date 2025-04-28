@@ -45,13 +45,12 @@ Later on, Max Speed earned his opportunity to face Puncher for the PTW Champions
 
 * Finishers:
   - _I am speed_ (Codebreaker) (2023-)
-
 * Entrance music:
   - "Bangarang (Remix)" by Skrillex
- {{ org_badge(orgs=['ptw']) }} (2023-) <br>
- {{ music(yt='YJVmu6yttiw')}}
- {{ music(spot='6VRhkROS2SZHGlp0pxndbJ')}}
- {{ music(apple='491596645?i=491596647')}}
+    {{ org_badge(orgs=['ptw']) }} (2023-) <br>
+    {{ music(yt='YJVmu6yttiw')}}
+    {{ music(spot='6VRhkROS2SZHGlp0pxndbJ')}}
+    {{ music(apple='491596645?i=491596647')}}
 
 ## Championships and accomplishments
 

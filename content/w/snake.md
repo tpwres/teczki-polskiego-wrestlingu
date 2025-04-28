@@ -10,7 +10,6 @@ country = ["PL"]
 
 Snake is a former backyard wrestler who was active between 2011-2012, and briefly in 2016. He is best known for his time in [Polish Xtreme Wrestling](@/o/pxw.md). He also appeared in [PpW Ewenement](@/o/ppw.md).
 
-
 ## Basic info
 
 * Years active: 2011-2012; 2016
@@ -31,7 +30,6 @@ Snake made a one-off appearance in [PpW](@/o/ppw.md) in their backyard era. It w
 
 * [Polish Xtreme Wrestling](@/o/pxw.md):
   - PXW Tag Team Championship (1 time) - with Sirreks
-
 * [PpW Ewenement](@/o/ppw.md):
 
   _Backyard Era Championships_:

@@ -49,13 +49,10 @@ Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy Of Wrest
 
 * Finishers:
   - Diving Elbow Drop (2023-)
-
 * Tag Teams and stables:
   - Biuro Prasowe (2025-)
-
 * Managers:
   - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-)
-
 * Entrance music:
   - "Erik Slotir Theme Song" by Independent Artist
      {{ org_badge(orgs=['low']) }} (2025-)  <br>

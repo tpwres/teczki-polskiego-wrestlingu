@@ -63,15 +63,15 @@ Since then, he had no wrestling matches, preferring to focus on his activities a
   - FoxJoy (2023), with [Axel Fox](@/w/axel-fox.md)
 * Entrance music:
   - "Boyfriend" by ISSUES
- {{ org_badge(orgs=['mzw', 'ptw']) }} (2014-2023) <br>
- {{ music(yt='xB0I-FuXRwA')}}
- {{ music(spot='0lFAOPungtUxEmEG4l6uoU')}}
- {{ music(apple='1526164995?i=1526165004')}}
+    {{ org_badge(orgs=['mzw', 'ptw']) }} (2014-2023) <br>
+    {{ music(yt='xB0I-FuXRwA')}}
+    {{ music(spot='0lFAOPungtUxEmEG4l6uoU')}}
+    {{ music(apple='1526164995?i=1526165004')}}
   - "Wataha" by Męskie Granie Orkiestra
- {{ org_badge(orgs=['mzw']) }} (2018-2019, in tag team with [Apollo Anderson](@/w/apollo-anderson.md)) <br>
- {{ music(yt='7WAFLz9xT3U')}}
- {{ music(spot='6ZvBEifHQkFG4P8sthpGYZ')}}
- {{ music(apple='1699411962?i=1699412396')}}
+    {{ org_badge(orgs=['mzw']) }} (2018-2019, in tag team with [Apollo Anderson](@/w/apollo-anderson.md)) <br>
+    {{ music(yt='7WAFLz9xT3U')}}
+    {{ music(spot='6ZvBEifHQkFG4P8sthpGYZ')}}
+    {{ music(apple='1699411962?i=1699412396')}}
 
 ## Championships and accomplishments
 

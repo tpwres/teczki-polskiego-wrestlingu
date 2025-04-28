@@ -68,18 +68,18 @@ In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przes
   - Tag team with [Jacob Crane](@/w/jacob-crane.md) (2018-2021)
 * Entrance music:
   - "Take It Out On Me" by Thousand Foot Krutch
- {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
- {{ music(yt='9aRfUPnu2g0')}}
- {{ music(spot='1RXoCep9hxApPfx8UFsGZk')}}
- {{ music(apple='714670633?i=714670983')}}
+    {{ org_badge(orgs=['dfw']) }} (2015-2017) <br>
+    {{ music(yt='9aRfUPnu2g0')}}
+    {{ music(spot='1RXoCep9hxApPfx8UFsGZk')}}
+    {{ music(apple='714670633?i=714670983')}}
   - "Madman" by Djerv
- {{ org_badge(orgs=['mzw', 'ppw']) }} (2018-2022) <br>
- {{ music(yt='Rq3FAy-JTAg')}}
- {{ music(spot='3JxQ8AGX7ZtHr5uu1pXXYK')}}
- {{ music(apple='1749729781?i=1749729788')}}
+    {{ org_badge(orgs=['mzw', 'ppw']) }} (2018-2022) <br>
+    {{ music(yt='Rq3FAy-JTAg')}}
+    {{ music(spot='3JxQ8AGX7ZtHr5uu1pXXYK')}}
+    {{ music(apple='1749729781?i=1749729788')}}
   -  "Waza" by HEWRA
- {{ org_badge(orgs=['ppw']) }} (2025-, as member of The Referees) <br>
- {{ music(yt='LMayWdD7Oac?t=42')}}
+    {{ org_badge(orgs=['ppw']) }} (2025-, as member of The Referees) <br>
+    {{ music(yt='LMayWdD7Oac?t=42')}}
 
 ## References
 

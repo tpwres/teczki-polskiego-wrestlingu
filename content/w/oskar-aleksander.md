@@ -49,10 +49,10 @@ In January 2025 Oskar Aleksander faced a Polish scene legend - [Vic Golden](@/w/
   - Agent Agata (2024-)
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
- {{ org_badge(org='ppw') }} (2024-present) <br>
- {{ music(yt='rDQHzGpwQNk')}}
- {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
- {{ music(apple='1485632394?i=1485632668')}}
+    {{ org_badge(org='ppw') }} (2024-present) <br>
+    {{ music(yt='rDQHzGpwQNk')}}
+    {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
+    {{ music(apple='1485632394?i=1485632668')}}
 
 ## Internet presence
 

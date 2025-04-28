@@ -75,25 +75,23 @@ Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show]
 
 * Finishers:
   - _Rockstar Hangover_ / _Stallion Cutter_ (Cutter) (2013-)
-
 * Tag Teams and stables:
   - Sojusz (2018)
-  - Kawaleria (2018-2019)
-
+  - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
 * Entrance music:
   - "Party All Day" by Steel Panther
- {{ org_badge(orgs=['kpw']) }} (2015-2019) <br>
- {{ music(yt='N3mKVmpol20')}}
- {{ music(spot='3wBSTEM9OJGnazxq6SLq3n')}}
- {{ music(apple='1440712401?i=1440712414')}}
+    {{ org_badge(orgs=['kpw']) }} (2015-2019) <br>
+    {{ music(yt='N3mKVmpol20')}}
+    {{ music(spot='3wBSTEM9OJGnazxq6SLq3n')}}
+    {{ music(apple='1440712401?i=1440712414')}}
   - "Cum on Feel the Noize" by Quiet Riot
- {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
- {{ music(yt='XQ5mygB97nM')}}
- {{ music(spot='3vV3cr2TpPqFk07zxYUbla')}}
- {{ music(apple='975739304?i=975741254')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
+    {{ music(yt='XQ5mygB97nM')}}
+    {{ music(spot='3vV3cr2TpPqFk07zxYUbla')}}
+    {{ music(apple='975739304?i=975741254')}}
   - "Stallion" by Secret Metal
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-) <br>
- {{ music(yt='LHTdgdTwons')}}
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-) <br>
+    {{ music(yt='LHTdgdTwons')}}
 
 ## Championships and accomplishments
 

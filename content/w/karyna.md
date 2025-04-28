@@ -32,7 +32,7 @@ Karyna made her debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 14](
   - Olgierd (2023-2024)
 * Entrance music:
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
- {{ org_badge(orgs=['ptw']) }} (2023-2024, as part of Legia Łysych) <br>
- {{ music(yt='jt_2gXNBlqU')}}
- {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
- {{ music(apple='1509575453?i=1509575457')}}
+    {{ org_badge(orgs=['ptw']) }} (2023-2024, as part of Legia Łysych) <br>
+    {{ music(yt='jt_2gXNBlqU')}}
+    {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
+    {{ music(apple='1509575453?i=1509575457')}}

@@ -69,19 +69,16 @@ At [Teraz Albo Nigdy](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Isnorr entered 
   - Spear (2017-)
   - Spinning Side Slam (2016-2017)
   - Frog Splash (2017)
-
 * Tag Teams and stables
   - [Zmowa](@/tt/zmowa.md) (2024-)
-
 * Wrestlers managed:
   - [Nathan Cross](@/w/gabriel-queen.md) (2021)
-
 * Entrance music:
   - "Eunomia" by Carrion
- {{ org_badge(orgs=['dfw', 'ppw']) }} (2018-) <br>
- {{ music(yt='p1AAVsoDnVo')}}
- {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
- {{ music(apple='1410929179?i=1410938192')}}
+    {{ org_badge(orgs=['dfw', 'ppw']) }} (2018-) <br>
+    {{ music(yt='p1AAVsoDnVo')}}
+    {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
+    {{ music(apple='1410929179?i=1410938192')}}
 
 ## Championships and accomplishments
 

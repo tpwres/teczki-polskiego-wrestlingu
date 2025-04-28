@@ -36,18 +36,18 @@ Lato usually works solo, although on a few occasions, he formed a tag team with 
   - with [Zefir](@/w/zefir.md) (2023-)
 * Entrance music:
   - "Out of Touch" by Daryl Hall & John Oates
- {{ org_badge(orgs=['kpw']) }} (2022-2023) <br>
- {{ music(yt='DCkJ5lGPqFs')}}
- {{ music(spot='7zLGHdfJ3JRPxvc96mEPEi')}}
- {{ music(apple='273750173?i=273750255')}}
+    {{ org_badge(orgs=['kpw']) }} (2022-2023) <br>
+    {{ music(yt='DCkJ5lGPqFs')}}
+    {{ music(spot='7zLGHdfJ3JRPxvc96mEPEi')}}
+    {{ music(apple='273750173?i=273750255')}}
   - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
- {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Zefir](@/w/zefir.md)) <br>
- {{ music(yt='a1jMUiSR4Gg')}}
- {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
- {{ music(apple='1523997493?i=1523997494')}}
+    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Zefir](@/w/zefir.md)) <br>
+    {{ music(yt='a1jMUiSR4Gg')}}
+    {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
+    {{ music(apple='1523997493?i=1523997494')}}
   - "Jody Summer" by INTL.CMD
- {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
- {{ music(yt='7pvqp9VFxhM')}}
+    {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
+    {{ music(yt='7pvqp9VFxhM')}}
 
 ## References
 

@@ -88,21 +88,19 @@ This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Ma
 * Finishers:
   - _Testoslam_ (Falling slam) (2022-)
   - Fisherman Driver (2024-)
-
 * Tag Teams and stables:
   - Legia Łysych (2023-)
   - [Zmowa](@/tt/zmowa.md) (2024-)
-
 * Entrance music:
   - "Now You're a Man" by DVDA
- {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2022-present)<br>
- {{ music(yt='851BqHMCaeM')}}
- {{ music(spot='30bm4o7Lurgswlokf1uEIf')}}
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2022-present)<br>
+    {{ music(yt='851BqHMCaeM')}}
+    {{ music(spot='30bm4o7Lurgswlokf1uEIf')}}
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Olgierd](@/w/olgierd.md))<br>
- {{ music(yt='jt_2gXNBlqU')}}
- {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
- {{ music(apple='1509575453?i=1509575457')}}
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Olgierd](@/w/olgierd.md))<br>
+    {{ music(yt='jt_2gXNBlqU')}}
+    {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
+    {{ music(apple='1509575453?i=1509575457')}}
 
 ## Championships and accomplishments
 

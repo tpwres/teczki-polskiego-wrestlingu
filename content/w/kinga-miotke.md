@@ -40,10 +40,10 @@ Kinga was relieved of her ring announcing duties, and replaced by [Piotr Opolski
 
 * Entrance music:
   - "Stand or Fall" by Bonfire
- {{ org_badge(orgs=['kpw']) }} (2019-present) <br>
- {{ music(yt='LC6A9ugveb0')}}
- {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
- {{ music(apple='1351853605?i=1351853946')}}
+    {{ org_badge(orgs=['kpw']) }} (2019-present) <br>
+    {{ music(yt='LC6A9ugveb0')}}
+    {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
+    {{ music(apple='1351853605?i=1351853946')}}
 
 ### References
 

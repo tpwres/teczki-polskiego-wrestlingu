@@ -89,10 +89,10 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
   - [Jakub Linde](@/w/jakub-linde.md) (2024)
 * Entrance music:
   - "Memphis Doom" by Kordhell
- {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present) <br>
- {{ music(yt='cJuO985zF8E')}}
- {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
- {{ music(apple='1591104080?i=1591104084')}}
+    {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present) <br>
+    {{ music(yt='cJuO985zF8E')}}
+    {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
+    {{ music(apple='1591104080?i=1591104084')}}
 
 ## Championships and accomplishments
 

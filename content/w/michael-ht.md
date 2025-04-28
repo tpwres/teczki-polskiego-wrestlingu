@@ -40,13 +40,12 @@ During [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) he mad
 
 * Finishers:
   - Superkick (2019)
-
 * Entrance music:
   - "Koty z Mokotowa" by DJ Decks & Hemp Gru
      {{ org_badge(orgs=['ppw']) }} (2022-) <br>
-     {{ music(yt='tnY3qfmS-6k')}}
-     {{ music(spot='4aYdYiLGWnw6A0P0oOcmoq')}}
-     {{ music(apple='1658015205?i=1658015481')}}
+        {{ music(yt='tnY3qfmS-6k')}}
+        {{ music(spot='4aYdYiLGWnw6A0P0oOcmoq')}}
+        {{ music(apple='1658015205?i=1658015481')}}
 
 ## Championships and accomplishments
 
@@ -58,4 +57,3 @@ During [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) he mad
 ## Internet presence
 
 * [michaelheelt](https://www.instagram.com/michaelheelt/) on Instagram
-

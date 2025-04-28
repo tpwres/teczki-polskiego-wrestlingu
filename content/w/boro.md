@@ -57,19 +57,18 @@ Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, 
 * Finishers:
   - _Dobry Podryw_ (Olimpic Slam) (2021-2023)
   - _Oil Check_ (2018-2020)
- 
+
 * Tag Teams and Stables:
   - PAKA (2021-2024)
- 
-* Entrance music:
+ * Entrance music:
   - "Jessica" by Borys LBD
- {{ org_badge(orgs=['mzw', 'ptw']) }} (2018-2023) <br>
- {{ music(yt='s8Px2LI2Frs')}}
- {{ music(spot='5lznttrwsPNSLSnvAK9uL3')}}
- {{ music(apple='1376455080?i=1376455089')}}
+    {{ org_badge(orgs=['mzw', 'ptw']) }} (2018-2023) <br>
+    {{ music(yt='s8Px2LI2Frs')}}
+    {{ music(spot='5lznttrwsPNSLSnvAK9uL3')}}
+    {{ music(apple='1376455080?i=1376455089')}}
   - "Bogurodzica - Metal Version" by Grzegorz Ptak
- {{ org_badge(orgs=['mzw']) }} (2017) <br>
- {{ music(yt='5rFzNDIyksY')}}
+    {{ org_badge(orgs=['mzw']) }} (2017) <br>
+    {{ music(yt='5rFzNDIyksY')}}
 
 ## Championships and accomplishments
 

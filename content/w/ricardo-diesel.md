@@ -33,7 +33,7 @@ After the two rivalries ended, Ricardo only made two more appearances. Firstly, 
   - Moonsault (2022-2024)
 * Entrance music:
   - "Gasolina" by Daddy Yankee
- {{ org_badge(orgs=['ppw']) }} (2022-2024) <br>
- {{ music(yt='CCF1_jI8Prk')}}
- {{ music(spot='228BxWXUYQPJrJYHDLOHk')}}
- {{ music(apple='1586112407?i=1586112418')}}
+    {{ org_badge(orgs=['ppw']) }} (2022-2024) <br>
+    {{ music(yt='CCF1_jI8Prk')}}
+    {{ music(spot='228BxWXUYQPJrJYHDLOHk')}}
+    {{ music(apple='1586112407?i=1586112418')}}

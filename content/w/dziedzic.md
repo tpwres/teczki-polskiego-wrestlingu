@@ -59,18 +59,16 @@ Dziedzic joined [Legacy of Wrestling](@/o/low.md), a Katowice-based project fund
 
 * Finishers:
   - Spinning Heel Kick (2021-)
-
 * Tag Teams and stables:
   - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2023-2024)
-
 * Entrance music:
   - "Popular Monster" by Falling In Reverse
- {{ org_badge(orgs=['ptw', 'mzw', 'low']) }} (2021-)<br>
- {{ music(yt='jakpo7tj7Qw')}}
- {{ music(spot='4GssB27iJeqmfGxS94Tfij')}}
- {{ music(apple='1487801236?i=1487801237')}}
+    {{ org_badge(orgs=['ptw', 'mzw', 'low']) }} (2021-)<br>
+    {{ music(yt='jakpo7tj7Qw')}}
+    {{ music(spot='4GssB27iJeqmfGxS94Tfij')}}
+    {{ music(apple='1487801236?i=1487801237')}}
   - "GladWeHaveAnUnderstanding" by Bones
- {{ org_badge(orgs=['ptw']) }} (2023-2024, - as part of Sinister Kingdom)<br>
- {{ music(yt='dPGxYXWhCzM')}}
- {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
- {{ music(apple='1447553826?i=1447553830')}}
+    {{ org_badge(orgs=['ptw']) }} (2023-2024, - as part of Sinister Kingdom)<br>
+    {{ music(yt='dPGxYXWhCzM')}}
+    {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
+    {{ music(apple='1447553826?i=1447553830')}}

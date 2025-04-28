@@ -66,32 +66,30 @@ In April 2025 David made his debut for [Legacy Of Wrestling](@/o/low.md) at thei
 
 * Finishers:
   - _Fall From Paradise_ (Spinebuster) (2015-)
- 
-* Tag Teams and stables:
+ * Tag Teams and stables:
   - Boska Oliwa (2016-2018)
-  - Sojusz (2018)
-
+  - [[Sojusz]](@/tt/kawaleria.md) (2018)
 * Entrance music:
   - "Escape (The Piña Colada Song)" by Rupert Holmes
- {{ org_badge(orgs=['kpw']) }} (2015-2023) <br>
- {{ music(yt='FXG_I_tf_i4')}}
- {{ music(spot='5IMtdHjJ1OtkxbGe4zfUxQ')}}
- {{ music(apple='1443846037?i=1443846163')}}
+    {{ org_badge(orgs=['kpw']) }} (2015-2023) <br>
+    {{ music(yt='FXG_I_tf_i4')}}
+    {{ music(spot='5IMtdHjJ1OtkxbGe4zfUxQ')}}
+    {{ music(apple='1443846037?i=1443846163')}}
   - "Tarzan Boy" by Baltimora
- {{ org_badge(orgs=['kpw']) }} (2020) <br>
- {{ music(yt='=--6CdAypJsQ')}}
- {{ music(spot='273uCXd7NPrInaiNqtkOrA')}}
- {{ music(apple='713600677?i=713600780')}}
+    {{ org_badge(orgs=['kpw']) }} (2020) <br>
+    {{ music(yt='=--6CdAypJsQ')}}
+    {{ music(spot='273uCXd7NPrInaiNqtkOrA')}}
+    {{ music(apple='713600677?i=713600780')}}
   - "Bloodsport" by Karl Casey
- {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
- {{ music(yt='dP4GoeO5El8')}}
- {{ music(spot='2VvDAaS9MCN7WWwnG3N9JD')}}
- {{ music(apple='1657524342?i=1657524748')}}
+    {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
+    {{ music(yt='dP4GoeO5El8')}}
+    {{ music(spot='2VvDAaS9MCN7WWwnG3N9JD')}}
+    {{ music(apple='1657524342?i=1657524748')}}
   - "Nightcall" by Kavinsky
- {{ org_badge(orgs=['low']) }} (2025) <br>
- {{ music(yt='MV_3Dpw-BRY')}}
- {{ music(spot='0U0ldCRmgCqhVvD6ksG63j')}}
- {{ music(apple='1442447952?i=1442447970')}}
+    {{ org_badge(orgs=['low']) }} (2025) <br>
+    {{ music(yt='MV_3Dpw-BRY')}}
+    {{ music(spot='0U0ldCRmgCqhVvD6ksG63j')}}
+    {{ music(apple='1442447952?i=1442447970')}}
 
 ## Championships and accomplishments
 

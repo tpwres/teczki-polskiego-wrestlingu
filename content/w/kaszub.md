@@ -32,8 +32,7 @@ Kaszub was one of the first wrestlers to join the new federation - [Kombat Pro W
 ## In wrestling
 
 * Finishers:
-  - _Duma Kaszub_ (Standing sitout shiranui) (2013-2018)
-
+  - _Duma Kaszub_ (Standing Sitout Shiranui) (2013-2018)
 * Tag Teams and stables:
   - Kawaleria (2017-2018)
 

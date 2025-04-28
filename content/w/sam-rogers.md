@@ -14,8 +14,8 @@ Sam Rogers, also known as Sam Della Vale, is an Italian wrestler best known for 
 
 * Years active: 2022-present
 * Gimmicks/nicknames:
-  - Sam Rogers  {{ org_badge(orgs=['ptw']) }} (2023)
-  - Sam Della Vale  {{ org_badge(orgs=['ptw']) }} (2024)
+  - Sam Rogers {{ org_badge(orgs=['ptw']) }} (2023)
+  - Sam Della Vale {{ org_badge(orgs=['ptw']) }} (2024)
 * Trained by:
   - Flatbacks Wrestling School
   - Matt Disaster
@@ -32,10 +32,10 @@ Sam Rogers made his debut in [Prime Time Wrestling](@/o/ptw.md) in July 2023 whe
   - Clothesline From Hell (2023-2024)
 * Entrance music:
   - "Bello e Impossibile" (Remix) by Gianna Nannini
-     {{ org_badge(orgs=['ptw']) }} (2023-2024) <br>
-     {{ music(yt='03P23dbatok')}}
-     {{ music(spot='3dZHWv3IsAQLzAr7FLJoJA')}}
-     {{ music(apple='340120309?i=340120331')}}
+    {{ org_badge(orgs=['ptw']) }} (2023-2024) <br>
+    {{ music(yt='03P23dbatok')}}
+    {{ music(spot='3dZHWv3IsAQLzAr7FLJoJA')}}
+    {{ music(apple='340120309?i=340120331')}}
 
 ## References
 

@@ -53,26 +53,24 @@ Feager made his first appearance for [Maniac Zone Wrestling](@/o/mzw.md) at [No 
   - Pedigree (2023-)
   - Modified Gogoplata (2023)
   - Tombstone Piledriver (2022)
-
 * Managers:
   - Ms. XXX (2022-2023)
-
 * Entrance music:
   - "Wherever I May Roam" by Metallica
- {{ org_badge(orgs=['ppw', 'mzw']) }} (2024-) <br>
- {{ music(yt='dHUHxTiPFUU')}}
- {{ music(spot='4zJLpLsfY52ih6y8u4mhKH')}}
- {{ music(apple='1571968136?i=1571968728')}}
+    {{ org_badge(orgs=['ppw', 'mzw']) }} (2024-) <br>
+    {{ music(yt='dHUHxTiPFUU')}}
+    {{ music(spot='4zJLpLsfY52ih6y8u4mhKH')}}
+    {{ music(apple='1571968136?i=1571968728')}}
   - "Sad But True" by Metallica
- {{ org_badge(orgs=['ppw']) }} (2021-2024) <br>
- {{ music(yt='A8MO7fkZc5o')}}
- {{ music(spot='5ltXoDLlI0rFZAmOXbAp5T')}}
- {{ music(apple='1571968136?i=1571968526')}}
+    {{ org_badge(orgs=['ppw']) }} (2021-2024) <br>
+    {{ music(yt='A8MO7fkZc5o')}}
+    {{ music(spot='5ltXoDLlI0rFZAmOXbAp5T')}}
+    {{ music(apple='1571968136?i=1571968526')}}
   - "A Warrior's Call" by Volbeat
- {{ org_badge(orgs=['ppw']) }} (2024) <br>
- {{ music(yt='rSmtHBMjXLU')}}
- {{ music(spot='4o6k1XHlrIZay8v1m5VU83')}}
- {{ music(apple='1440738335?i=1440738448')}}
+    {{ org_badge(orgs=['ppw']) }} (2024) <br>
+    {{ music(yt='rSmtHBMjXLU')}}
+    {{ music(spot='4o6k1XHlrIZay8v1m5VU83')}}
+    {{ music(apple='1440738335?i=1440738448')}}
 
 ## Championships and accomplishments
 

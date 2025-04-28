@@ -29,19 +29,17 @@ Wild Boar made his debut on Polish soil back in August 2017, where he faced the 
 
 * Finisher:
   - Package Piledriver (2017-2020)
- 
 * Tag Teams and stables:
   - Hunt (2020)
-
 * Entrance music:
   - "Midi Surf" by The Mad Capsule Markets
- {{ org_badge(orgs=['kpw']) }} (2017) <br>
- {{ music(yt='4gk1Tvg1w3Q')}}
- {{ music(spot='31qiF3OUXl3C1vJibr9eFe')}}
- {{ music(apple='258350427')}}
+    {{ org_badge(orgs=['kpw']) }} (2017) <br>
+    {{ music(yt='4gk1Tvg1w3Q')}}
+    {{ music(spot='31qiF3OUXl3C1vJibr9eFe')}}
+    {{ music(apple='258350427')}}
   - "Boar of War" by South Wales Kings
- {{ org_badge(orgs=['kpw']) }} (2020) <br>
- {{ music(spot='5jYDoeDZI99EvGkKQ6sWDa')}}
+    {{ org_badge(orgs=['kpw']) }} (2020) <br>
+    {{ music(spot='5jYDoeDZI99EvGkKQ6sWDa')}}
 
 ## Championships and accomplishments
 

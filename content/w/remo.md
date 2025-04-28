@@ -32,10 +32,9 @@ In June 2024 Remo officialy [left Prime Time Wrestling](@/a/ptw-exits.md), which
 
 * Finishers:
   - TKO (2021-2024)
-
 * Entrance music:
   - "Lone Wolf" by Judas Priest
- {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
- {{ music(yt='_TvBZ1eM0p8')}}
- {{ music(spot='/0LLrDYfS9umDFiPOlh3pqP')}}
- {{ music(apple='1325585022?i=1325585365')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ music(yt='_TvBZ1eM0p8')}}
+    {{ music(spot='/0LLrDYfS9umDFiPOlh3pqP')}}
+    {{ music(apple='1325585022?i=1325585365')}}

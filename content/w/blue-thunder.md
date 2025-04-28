@@ -36,7 +36,6 @@ After that, Storm Riders disbanded and Blue Thunder only managed to make one mor
 
 * Tag Teams and stables:
   - Storm Riders (2017)
-
 * Managers:
   - Columbus (2017)
 

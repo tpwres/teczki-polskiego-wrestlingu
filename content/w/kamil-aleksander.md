@@ -49,10 +49,10 @@ Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw
   - Sojusz (2018)
 * Entrance music:
   "Hymn" by Luxtorpeda
- {{ org_badge(orgs=['ddw', 'kpw']) }} (2014-2019) <br>
- {{ music(yt='jbjbfUlX2Vc')}}
- {{ music(spot='3lsX4zFUwBbTrGpzx8NhTp')}}
- {{ music(apple='1782342054?i=1782342056')}}
+    {{ org_badge(orgs=['ddw', 'kpw']) }} (2014-2019) <br>
+    {{ music(yt='jbjbfUlX2Vc')}}
+    {{ music(spot='3lsX4zFUwBbTrGpzx8NhTp')}}
+    {{ music(apple='1782342054?i=1782342056')}}
 
 ## Championships and accomplishments
 * [Pomerania Indy Wrestling Group](@/o/piwg.md)

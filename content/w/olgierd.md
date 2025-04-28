@@ -17,10 +17,10 @@ Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler 
 
 * Years active: 2016-present
 * Gimmicks/nicknames:
-  - Krueger, in {{ org_badge(org='mzw') }}
-  - Hades, in {{ org_badge(org='ppw') }} (later also as Olgierd)
-  - Olgierd, in {{ org_badge(orgs='ptw', 'low') }}
-  - El Ogre, in {{ org_badge(org='ptw') }} (masked)
+  - Krueger {{ org_badge(org='mzw') }}
+  - Hades {{ org_badge(org='ppw') }} (later also as Olgierd)
+  - Olgierd {{ org_badge(orgs='ptw', 'low') }}
+  - El Ogre {{ org_badge(org='ptw') }} (masked)
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
@@ -88,27 +88,25 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
   - Tombstone Piledriver (2016)
   - Swinging Reverse STO (2016-2020)
   - _Braindead_ (Running Cartwheel Headbutt) (2021-)
-
 * Tag Teams and stables:
   - Legia Łysych (2023-)
   - [Zmowa](@/tt/zmowa.md) (2024-)
-
 * Entrance music:
   - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
- {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger) <br>
- {{ music(yt='S3UMz_OK3mg')}}
- {{ music(spot='02JLJi7sryFu44hhNWOv1c')}}
- {{ music(apple='1509932137?i=1509932139')}}
+    {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger) <br>
+    {{ music(yt='S3UMz_OK3mg')}}
+    {{ music(spot='02JLJi7sryFu44hhNWOv1c')}}
+    {{ music(apple='1509932137?i=1509932139')}}
   - "Sicario" by Słoń feat. Szpaku
- {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-present) <br>
- {{ music(yt='pE0DdJf-tSo')}}
- {{ music(spot='7Lys2P5pmqfrF3sKivfB6q')}}
- {{ music(apple='1437914014?i=1437914180')}}
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-present) <br>
+    {{ music(yt='pE0DdJf-tSo')}}
+    {{ music(spot='7Lys2P5pmqfrF3sKivfB6q')}}
+    {{ music(apple='1437914014?i=1437914180')}}
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
- {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Marco Hammers](@/w/marco-hammers.md)) <br>
- {{ music(yt='jt_2gXNBlqU')}}
- {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
- {{ music(apple='1509575453?i=1509575457')}}
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Marco Hammers](@/w/marco-hammers.md)) <br>
+    {{ music(yt='jt_2gXNBlqU')}}
+    {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
+    {{ music(apple='1509575453?i=1509575457')}}
 
 ## Championships and accomplishments
 

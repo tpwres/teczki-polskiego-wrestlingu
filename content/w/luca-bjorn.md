@@ -6,14 +6,9 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["IT"]
-[extra.gallery.1]
-path = "bjorn-noweporzadki-1.webp"
-caption = "Luca Bjorn at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)."
-source = "Krzysztof Zych"
-[extra.gallery.2]
-path = "bjorn-noweporzadki-2.webp"
-caption = "Luca Bjorn at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)."
-source = "Krzysztof Zych"
+[extra.gallery]
+1 = { path = "bjorn-noweporzadki-1.webp", caption = "Luca Bjorn at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md).", source = "Krzysztof Zych" }
+2 = { path = "bjorn-noweporzadki-2.webp", caption = "Luca Bjorn at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md).", source = "Krzysztof Zych" }
 +++
 
 Luca Bjorn is an Italian wrestler, best known for his time in [Prime Time Wrestling](@/o/ptw.md).
@@ -43,15 +38,15 @@ In December 2024, at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md),
   - [L'Orda](@/tt/l-orda.md) (2024-)
 * Entrance music:
   - "Guardians of Asgaard" by Amon Amarth
- {{ org_badge(orgs=['ptw']) }} (2024-)<br>
- {{ music(yt='ARnBgW5XgSo')}}
- {{ music(spot='2DR9AzDhYeStkHupvU08FC')}}
- {{ music(apple='288236836?i=288236843')}}
+    {{ org_badge(orgs=['ptw']) }} (2024-)<br>
+    {{ music(yt='ARnBgW5XgSo')}}
+    {{ music(spot='2DR9AzDhYeStkHupvU08FC')}}
+    {{ music(apple='288236836?i=288236843')}}
   - "Darkbreed" by Robert Slump
- {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Rust](@/w/rust.md)<br>
- {{ music(yt='eH_N0aHSfVw')}}
- {{ music(spot='0jB6SUfLOXytyH4VmolaUO')}}
- {{ music(apple='1584578129?i=1584578130')}}
+    {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Rust](@/w/rust.md)<br>
+    {{ music(yt='eH_N0aHSfVw')}}
+    {{ music(spot='0jB6SUfLOXytyH4VmolaUO')}}
+    {{ music(apple='1584578129?i=1584578130')}}
 
 ## Championships and accomplishments
 

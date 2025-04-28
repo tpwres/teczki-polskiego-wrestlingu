@@ -27,8 +27,6 @@ Hunyadi Tamas made his debut in Poland for [Prime Time Wrestling](@/o/ptw.md) in
 
 At his final show - Underground 15 - he was a part of a storyline between [Puncher](@/w/puncher.md) and [Robert Star](@/w/robert-star.md) - Hunyadi's friend and Tag Team partner. After their match Puncher brutally attacked Tamas busting him open in the process to send a message towards Robert. This marks Hunyadi final appearance for PTW.
 
-
-
 ## References
 
 [Cagematch profile page](https://www.cagematch.net/?id=2&nr=23926)

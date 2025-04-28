@@ -48,16 +48,14 @@ Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024
 * Finishers:
   - _Szczerbiec_ (Claymore Kick) (2023-)
   - _Słowiański Pal_ (Piledriver) (2025-)
-
 * Managers:
   - Rusałka (2023-)
-
 * Entrance music:
   - "Wojownik" by Żywiołak
- {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }} (2023-) <br>
- {{ music(yt='uF-arRQVJiI')}}
- {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
- {{ music(apple='640336030?i=640336040')}}
+    {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }} (2023-) <br>
+    {{ music(yt='uF-arRQVJiI')}}
+    {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
+    {{ music(apple='640336030?i=640336040')}}
 
 ## Internet presence
 

@@ -93,12 +93,12 @@ In November it was announced that he would face MZW owner and legend [Shadow](@/
   - Samsonito (2023), with [Samson](@/w/samson.md)
 * Entrance music:
   - "Runner Up" by North or Never
- {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-present) <br>
- {{ music(yt='V25DImNEYkw')}}
- {{ music(spot='4gjycu7vNIP0A1KHNGS5N1')}}
- {{ music(apple='1536296291?i=1536296298')}}
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-present) <br>
+    {{ music(yt='V25DImNEYkw')}}
+    {{ music(spot='4gjycu7vNIP0A1KHNGS5N1')}}
+    {{ music(apple='1536296291?i=1536296298')}}
   - "Kto zgasił światło?!" by Independent Contractor
- {{ org_badge(org='ppw') }} (2024-present) <br>
+    {{ org_badge(org='ppw') }} (2024-present) <br>
 
 ## Internet presence
 

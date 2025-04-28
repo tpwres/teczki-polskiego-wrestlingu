@@ -30,21 +30,19 @@ In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) h
 
 * Finishers:
   - _Rustmaker_ (Reverse STO) (2024-)
-
 * Tag Teams and stables:
   - [L'Orda](@/tt/l-orda.md) (2024-)
-
 * Entrance music:
   - "Ragnarök" by Peyton Parrish
- {{ org_badge(orgs=['ptw']) }} (2024-) <br>
- {{ music(yt='I08nE2aKaLM')}}
- {{ music(spot='2U127R3xDmiqSKBJ6joI7L')}}
- {{ music(apple='1565938179?i=1565938184')}}
+    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
+    {{ music(yt='I08nE2aKaLM')}}
+    {{ music(spot='2U127R3xDmiqSKBJ6joI7L')}}
+    {{ music(apple='1565938179?i=1565938184')}}
   - "Darkbreed" by Robert Slump
- {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Luca Bjorn](@/w/luca-bjorn.md) <br>
- {{ music(yt='eH_N0aHSfVw')}}
- {{ music(spot='0jB6SUfLOXytyH4VmolaUO')}}
- {{ music(apple='1584578129?i=1584578130')}}
+    {{ org_badge(orgs=['ptw']) }} (2024-), in tag team with [Luca Bjorn](@/w/luca-bjorn.md) <br>
+    {{ music(yt='eH_N0aHSfVw')}}
+    {{ music(spot='0jB6SUfLOXytyH4VmolaUO')}}
+    {{ music(apple='1584578129?i=1584578130')}}
 
 ## Championships and accomplishments:
 

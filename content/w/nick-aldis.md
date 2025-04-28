@@ -32,13 +32,12 @@ BlackOut marked the last appearance of Nick Aldis in Prime Time Wrestling. When 
 
 * Finishers:
   - Diving Elbow Drop (2021-2022)
-
 * Entrance music:
   - "God Save The King (Ode To Aldis)" by Zaheer & Swami Baracus
- {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
- {{ music(yt='EQ5bZ60MCGs')}}
- {{ music(spot='16GQnS6Km18aJhfHJg7ID6')}}
- {{ music(apple='1539004297?i=1539004299')}}
+    {{ org_badge(orgs=['ptw']) }} (2021-2022) <br>
+    {{ music(yt='EQ5bZ60MCGs')}}
+    {{ music(spot='16GQnS6Km18aJhfHJg7ID6')}}
+    {{ music(apple='1539004297?i=1539004299')}}
 
 ## Internet presence
 
