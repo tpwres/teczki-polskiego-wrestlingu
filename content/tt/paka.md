@@ -66,6 +66,15 @@ While Boro and Taras seemingly retired, Disco Pablo continued to compete on the 
 * [Taras](@/w/taras.md)
 
 ## In wrestling
+
+* Finishers:
+  - Blok 3D  (Flapjack ([Pablo](@/w/disco-pablo.md)) and Cutter ([Taras](@/w/taras.md)) combination) (2022-2024)
+    
+* Signature moves
+  - Double running splash on standing opponent(s)
+  - Double hiptoss on a single opponent
+  - Running senton (Taras), running legdrop (Pablo) in sequence
+
 * Entrance music (all 3 solo themes usually played in sequence for team entrances):
   - Boro: "Jessica" by Borys LBD 
  {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
@@ -80,12 +89,7 @@ While Boro and Taras seemingly retired, Disco Pablo continued to compete on the 
  {{ music(yt='XcQdJyo1B-8')}}
  {{ music(spot='3mvtAnOK9CoHvVCsqrixj5')}}
  {{ music(apple='619262718?i=619262888')}}
-* Signature moves
-  - Double running splash on standing opponent(s)
-  - Double hiptoss on a single opponent
-  - Running senton (Taras), running legdrop (Pablo) in sequence
-* Finishg moves
-  - Blok 3D (_3D_)
+
 ## Championships and accomplishments
 
 * [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time) - Taras and Disco Pablo won the titles; Boro was considered the third champion in accordance with the [Freebird Rule][freebird-rule], but never defended the titles.
