@@ -20,3 +20,8 @@ At [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md) they took part in the inaugura
 As Tag Team Champions, they defended the belts at Arenas [13](@/e/kpw/2019-04-05-kpw-arena-13.md) and [14](@/e/kpw/2019-06-15-kpw-arena-14.md), and at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), before losing the titles to [The Hunt](@/tt/the-hunt.md) at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
 
 After their defeat Rosetti turned on his partner, ending the team. While Rosetti remained with KPW, Sawicki later associated himself with [Prime Time Wrestling](@/o/ptw.md), training and promoting them on social media, but did not make even a single appearance before retiring.
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time)

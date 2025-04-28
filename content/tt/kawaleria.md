@@ -55,3 +55,19 @@ The resolution came at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2
 Greg did aid Kawaler, preventing further beatdowns. However, instead of helping him exit the ring, he delivered a surprise attack, betraying his now-former leader. This was the definite end of the faction, and Kawaler himself retired from in-ring competition from then on, remaining in coaching and backstage roles.
 
 In the show's closing moments, Chemik appeared behind a pulpit, and, speaking in Latin, announced a new Pope. Then Greg entered, no longer using Kawaleria's entrance music, but to a new theme, wearing long monasterial robes. He stood behind the pulpit and announced himself as the new Pope of Polish wrestling, under the name _Pijus I Greg_. This angle later lead to the creation of a new faction: [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md).
+
+## In wrestling
+
+* Entrance music:
+  - "Ascension" by Transit
+ {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>
+ {{ music(yt='FPoJb2Dp9C4')}}
+ {{ music(spot='0HK20cyt3TdCpQ219Xe4Bl')}}
+ {{ music(apple='1544190290?i=1544190291')}}
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Championship](@/c/kpw-championship.md) (1 time) - [Piękny Kawaler](@/w/piekny-kawaler.md)
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time) - [Greg](@/w/greg.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - [Sawicki & Rosetti](@/tt/sawicki-rosetti.md)

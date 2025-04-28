@@ -17,3 +17,8 @@ Die Ordnung won the KPW Tag Team Championship on their KPW debut during [Godzina
 They feuded over the titles with Bracia Fux, defending them successfully on the first occasion, but lost them at the [next year's Godzina Zero](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md). Since then, Schulte found success in singles competition, winning the [KPW Championship](@/c/kpw-championship.md) from [Red Scorpion](@/w/red-scorpion.md), while Müller did not make any appearances, until he was announced for [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
 
 As a team, they employed straightforward, classic foreign heel gimmicks, especially playing up the "evil German" stereotype.
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time)

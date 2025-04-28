@@ -9,7 +9,7 @@ toclevel = 3
 orgs = ["ptw", "ppw", "mzw", "low"]
 +++
 
-"Zieloni" (_The Greens_), is a the name for a group of Polish wrestlers, who were originally connected to [MZW](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
+"Zieloni" (_The Greens_), is a the name for a group of Polish wrestlers, who were originally connected to [Maniac Zone Wrestling](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
 
 <!-- more -->
 
@@ -18,19 +18,21 @@ Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also sta
 
 ## Members
 
-* [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }} (inactive)
-* [Referee Sewi](@/w/sedzia-seweryn.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-* [Olgierd](@/w/olgierd.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
-* [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
-* [Vic Golden](@/w/vic-golden.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw']) }}
-* [Madman Charlie](@/w/madman-charlie.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
+* [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
+* [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
-* [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * [Jacob Crane](@/w/jacob-crane.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-* [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(orgs=['mzw', 'ppw']) }} (inactive)
-* [Asmund](@/w/asmund.md) {{ org_badge(org='mzw') }} (inactive)
-* [Justin Joy](@/w/justin-joy.md)  {{ org_badge(orgs=['mzw', 'ptw']) }} (inactive)
+* [Madman Charlie](@/w/madman-charlie.md) {{ org_badge(orgs=['mzw', 'ppw', 'low']) }}
+* [Olgierd](@/w/olgierd.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
+* [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
+* [Sewi](@/w/sedzia-seweryn.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Vic Golden](@/w/vic-golden.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
+
+#### Honorary members
+* [Asmund](@/w/asmund.md) {{ org_badge(org='mzw') }} 
+* [Justin Joy](@/w/justin-joy.md)  {{ org_badge(orgs=['mzw', 'ptw']) }} 
 
 ## Influence
 

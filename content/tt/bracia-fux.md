@@ -38,5 +38,23 @@ At [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) F
 * [Filip Fux](@/w/filip-fux.md)
 * [Michał Fux](@/w/michal-fux.md)
 
+## In wrestling
+
+* Finishers:
+  - Flapjack ([Michał](@/w/michal-fux.md)) and Cutter ([Filip](@/w/filip-fux.md)) combination (2021-)
+  - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
+* Entrance music:
+  - "Kickstart My Heart" by Mötley Crüe
+ {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025-) <br>
+ {{ music(yt='CmXWkMlKFkI')}}
+ {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
+ {{ music(apple='1764395673?i=1764396024')}}
+  - "Better days" by Dangerous New Machine
+ {{ org_badge(orgs=['kpw']) }} (2023-)<br>
+ {{ music(yt='se3AUY4XKcA')}}
+ {{ music(apple='375038556?i=375038653')}}
+
 ## Championships and accomplishments
-* [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (current)
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) 
