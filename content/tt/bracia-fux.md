@@ -37,7 +37,7 @@ At [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) F
 ## In wrestling
 
 * Finishers:
-  - Flapjack ([Michał](@/w/michal-fux.md)) and Cutter ([Filip](@/filip-fux.md)) combination (2021-)
+  - Flapjack ([Michał](@/w/michal-fux.md)) and Cutter ([Filip](@/w/filip-fux.md)) combination (2021-)
   - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
  
 * Entrance music:
