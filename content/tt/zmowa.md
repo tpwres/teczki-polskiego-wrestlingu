@@ -20,7 +20,7 @@ It became clear that Zmowa aimed for a total domination in every division of PpW
 
 After an intense confrontation at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), Biesiad announced the formation of an impromptu alliance of babyfaces called "Zmowa Przeciwko Zmowie" (_The Collusion Against The Collusion_) and challenged Zmowa for a tag team match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
 
-The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) taking on [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), Jakub Linde and the surprise fifth contender, [Wiktor Longman](@/w/wiktor-longman.md) (in his PpW debut). After a long match all but one wrestler on each side were eliminated, leaving only [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md). Eventually Goblin scored pinned his opponent, thus putting an end to Zmowa.
+The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) taking on [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), Jakub Linde and the surprise fifth contender, [Wiktor Longman](@/w/wiktor-longman.md) (in his PpW debut). After a long match all but one wrestler on each side were eliminated, leaving only [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md). Eventually Goblin scored pinned his opponent, thus defeating Zmowa. This left the stable visibly damaged, but despite that Zmowa still remained active in a federation, often cooperating with each other in their personal feuds throughout the PpW. 
 
 ## Members
 
@@ -31,10 +31,10 @@ The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [V
 * [Isnorr](@/w/isnorr.md) - ultraviolent specialist
 * [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
 * [Marco Hammers](@/w/marco-hammers.md) - [Legia Łysych](@/tt/legia-lysych.md)
-* [Jakub Linde](@/w/jakub-linde.md) - personal trainer
 
 #### Former and part-time
 
+* [Jakub Linde](@/w/jakub-linde.md) - personal trainer ([Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) - part time)
 * [Rafi](@/w/rafi.md) - associate ([Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) - [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md))
 * [Wiktor Longman](@/w/wiktor-longman.md) - associate ([Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md))
 
