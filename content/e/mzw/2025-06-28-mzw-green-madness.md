@@ -33,3 +33,7 @@ The show was announced along with the poster, depicting '[Aron Wake](@/w/aron-wa
 ### Recap
 
 * TBD
+
+### References:
+
+[MZW announces the show via Facebook](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid02pSfUnYJQPA1FLr76V9JopA2NeoHvS8zcqcJW8PpPjDD7HcBbtmnjwHemtNd5u2tgl)
