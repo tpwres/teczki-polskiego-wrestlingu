@@ -68,7 +68,7 @@ In April 2025 David made his debut for [Legacy Of Wrestling](@/o/low.md) at thei
   - _Fall From Paradise_ (Spinebuster) (2015-)
  * Tag Teams and stables:
   - Boska Oliwa (2016-2018)
-  - [[Sojusz]](@/tt/kawaleria.md) (2018)
+  - [Sojusz](@/tt/kawaleria.md) (2018)
 * Entrance music:
   - "Escape (The Piña Colada Song)" by Rupert Holmes
     {{ org_badge(orgs=['kpw']) }} (2015-2023) <br>
