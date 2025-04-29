@@ -165,7 +165,7 @@ class GalleryController {
         const display_more = document.createElement('a')
         const keep_visible = 6
         const hidden_text = this.pluralize('photos hidden', total_photo_count - keep_visible)
-        display_more.textContent = `Expand gallery (${hidden_text})`
+        display_more.textContent = `🖼️   Expand gallery (${hidden_text}) ▼`
         const el = document.createElement('li')
         el.classList.add('expand-gallery')
         el.appendChild(display_more)
