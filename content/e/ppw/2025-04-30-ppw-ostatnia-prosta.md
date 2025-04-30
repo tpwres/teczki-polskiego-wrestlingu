@@ -7,14 +7,13 @@ chronology = ["ppw"]
 venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
-hide_results = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-04-30-ppw-ostatnia-prosta-gallery.toml"
 +++
 
-Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Teatr Komuna](@/v/teatr-komuna.md). This show will be the run-up to Ledwo Legalne 5, hence the name.
+Ostatnia Prosta (_The Run-Up_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held in [Teatr Komuna](@/v/teatr-komuna.md) on April 30th, 2025. This show was the run-up to Ledwo Legalne 5, hence the name.
 
-### Build-up
+## Build-up
 
 * On 2.04.2025 PpW announced an "Enigma Scramble - ?-Man Scramble Match", the rules of which are:
   * the exact number of opponents is left unspecified
@@ -30,31 +29,51 @@ Ostatnia Prosta (_The Run-Up_) is an upcoming event by [PpW Ewenement Wrestling]
 * On 23.04.2025 PpW announced that [Biesiad Strong](@/w/biesiad.md) would face Scandinavian wrestler Mr Power Up (PM Shooter's kayfabe representative), and that the match would be officiated by [Mister Z](@/w/mister-z.md) as the Special Guest Referee.
 * On 25.04.2025 PpW announced the gate and bell time, mentioning that the pre-show match will take place roughly 15 minutes before the show starts.
 
-{% card(predicted=true) %}
-- - '??'
-  - '??'
+## International guests
+
+During the event, fans saw new and returning international wrestlers in the ring:
+
+* Hungarian luchadors Sentinel and Wonder Haze, both seen previously at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), and Sentinel also at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md).
+* Hungarian wrestler Danny Roxx, in his PpW debut.
+* Danish wrestler Madison Marley, at the time only 17 years old, but already experienced, with matches in Sweden, Denmark, Germany, Scotland and others under her belt.
+* Swedish wrestler Mr Power Up, best known from the Swedish and Danish scenes.
+
+{% card() %}
+- - '[Marcelito](@/w/marcelito.md)'
+  - 'Danny Roxx'
   - s: "Pre-show Match"
-    nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - g: Contract signing for Goblin vs Gustav III at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
+- - 'Agentka Agatka w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - 'Madison Marley'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - n: Impromptu match, after Gabriel intervened in a post-match beatdown
+- - '[Sambor](@/w/sambor.md)'
+  - 'Wonder Haze'
+  - 'Sentinel'
+  - '[Feager](@/w/feager.md)'
+  - s: 'Enigma Scramble Match'
+    r: 3-way tie
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - 'Mr Power Up'
+- - '[Isnorr](@/w/isnorr.md)'
+  - g: Isnorr vacates the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[_rookie_ Bartosz](@/w/plata.md)'
 - - 'Goblis: [Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
   - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Tornado Tag Team Match
-    nc: upcoming
-- - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - nc: upcoming
-- - '??'
-  - '??'
-  - s: 'Enigma Scramble Match'
-    nc: upcoming
-- - 'Madison Marley'
-  - '???'
-- - '[Biesiad Strong](@/w/biesiad.md)'
-  - 'Mr Power Up'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - g: Johnny Blade, thought to be shot dead by PM Shooter guards, unexpectedly returns
 - credits:
     Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
+    Hosts: '[Joker](@/w/joker.md), [Michael HT](@/w/michael-ht.md)'
 {% end %}
 
-### References
+## References
 
 * [Mr. Power Up's Cagematch profile](https://www.cagematch.net/?id=2&nr=29033&gimmick=Flex+Powers)
 * [Mr. Power Up's Instagram](https://www.instagram.com/mrpowerup_flexpowers/)
