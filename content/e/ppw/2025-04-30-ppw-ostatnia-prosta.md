@@ -1,7 +1,7 @@
 +++
 title = "PpW Ostatnia Prosta"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["teatr-komuna"]
@@ -22,7 +22,7 @@ Ostatnia Prosta (_The Run-Up_) was an event by [PpW Ewenement Wrestling](@/o/ppw
   * at the end of the match, the wrestler with the most points wins
   * the winner gets a mysterious prize
 * On 13.04 PpW posted the video of Biesiad held in custody and tortured by PM Shooter mercenaries.
-* On 14.04 PpW posted the viddeo of [Jonny Blade](@/w/johnny-blade.md) infiltrating the PM Shooter complex. He frees Biesiad and they try to run away. Just when they are about to jump the fence, Blade gets shot. Biesiad is taken back into custody, while the mercenaries dig a grave to bury the wounded Blade.
+* On 14.04 PpW posted the video of [Jonny Blade](@/w/johnny-blade.md) infiltrating the PM Shooter complex. He frees Biesiad and they try to run away. Just when they are about to jump the fence, Blade gets shot. Biesiad is taken back into custody, while the mercenaries dig a grave to bury the wounded Blade.
 * On 16.04.2025 PpW's social media announced the first women's match in the promotion's history: Danish wrestler Madison Marley will face an unnamed [Ewenement Dojo](@/o/ewenement-dojo.md)-trained wrestler.
 * On 22.04.2025 PpW posted yet another video in the PM Shooter saga. In this one, Mister Z can be seen honoring his deal with the PM Shooter mercenaries. He pays them in Peruvian artifacts and offers additional bounty in the form of the talisman of King Cápac if they finish Biesiad once and for all. This would mean humiliating him in the ring by sending the strongest mercenary to beat him. Mr Z will be the special referee.
 * On 21.04, [Agentka Agatka](@/w/agentka-agatka.md) posted a video of her call with Mister Z. She voices her displeasure in Madison Marley getting booked, as it undermines her position as the sole woman in PpW. She is thinking of a plan to get rid of Marley.
@@ -41,7 +41,7 @@ During the event, fans saw new and returning international wrestlers in the ring
 {% card() %}
 - - '[Marcelito](@/w/marcelito.md)'
   - 'Danny Roxx'
-  - s: "Pre-show Match"
+  - n: Pre-show match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
