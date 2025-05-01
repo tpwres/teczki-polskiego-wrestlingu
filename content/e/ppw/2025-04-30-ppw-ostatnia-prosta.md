@@ -35,7 +35,7 @@ During the event, fans saw new and returning international wrestlers in the ring
 
 * Hungarian luchadors Sentinel and Wonder Haze, both seen previously at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), and Sentinel also at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md).
 * Hungarian wrestler Danny Roxx, in his PpW debut.
-* Danish wrestler Madison Marley, at the time only 17 years old, but already experienced, with matches in Sweden, Denmark, Germany, Scotland and others under her belt.
+* Danish wrestler Madison Marley, at the time only 17 years old, but with multiple matches in Sweden, Denmark, Germany, Scotland and others under her belt.
 * Swedish wrestler Mr Power Up, best known from the Swedish and Danish scenes.
 
 {% card() %}
