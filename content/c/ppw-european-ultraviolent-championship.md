@@ -138,7 +138,7 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
     en: '[PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)'
     ed: 2025-01-25
 - - Isnorr(c)
-  - g: Isnorr vacates the belt, citing a long upcoming recovery from his broken arm, and unspecified but career-threatening heart condition.
+  - g: Isnorr vacates the belt, citing a long upcoming recovery from his broken arm, and unspecified but career-threatening heart condition
     en: '[PpW Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md)'
     ed: 2025-04-30
 {% end %}
