@@ -177,11 +177,10 @@ class GalleryController {
 
     display_more_link(text) {
         const link = document.createElement('a')
-        const head_icon = this.create_icon('camera')
         const span = document.createElement('span')
         span.textContent = `Expand gallery (${text})`
         const tail_icon = this.create_icon('chevron-down')
-        link.append(head_icon, span, tail_icon)
+        link.append(span, tail_icon)
         return link
     }
 
