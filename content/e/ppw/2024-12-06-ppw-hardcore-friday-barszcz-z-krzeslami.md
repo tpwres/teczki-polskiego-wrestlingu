@@ -24,7 +24,7 @@ The show was quickly sold out, so the attendance can be approximated at about 22
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Goblin](@/w/goblin.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ Agent Agata'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
   - s: Four-way Match
 - - '[Santa Biesiad](@/w/biesiad.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -65,7 +65,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Timestamp: `0:06:02`
 * The head of masked [Goblin](@/w/goblin.md) peeks from behind a curtain, but as he makes his entrance it becames clear that the Acid Messiah is in fact portrayed by [Olgierd](@/w/olgierd.md) who stole his ring gear. Olgierd takes off Goblin's outfit and hits it with a couple of headbutts.
 * [Gabriel Queen](@/w/gabriel-queen.md) makes his babyface entrance next.
-* [Oskar Aleksander](@/w/oskar-aleksander.md) is the third one in this match. He makes his way to the ring supported by Agent Agata - his manager - who sips her vodka martini, standing on the stage throughout the match.
+* [Oskar Aleksander](@/w/oskar-aleksander.md) is the third one in this match. He makes his way to the ring supported by Agentka Agatka - his manager - who sips her vodka martini, standing on the stage throughout the match.
 * Goblin finally makes his entrance wearing one of the Olgierd's merchandise shirts with many invectives written on it. He immediatly takes on the charging Olgierd and the two brawl backstage.
 * The match is filled with many spots and continous change of initiative every few moments. Olgierd is mostly focused on fighting Goblin, while Oskar fights Gabriel Queen.
 * Queen and Goblin ocassionaly team up to fend off Oskar and Olgierd, but have some opportunites to exchange blows with each other.

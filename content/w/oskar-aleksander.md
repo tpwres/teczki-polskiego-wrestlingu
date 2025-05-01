@@ -35,7 +35,7 @@ Oskar made his debut as one of the contenders in Johnny Blade's Insane Wheel of 
 #### Becoming Oskar Aleksander
 
 After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) and [Aron Wake](@/w/aron-wake.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a post-match promo he declared that he earned the right to decide what his ringname would be.
-Since then he would be billed as "Oskar Aleksander". At the same show, in a backstage interview, he became affiliated with an unnamed female "Talent Agent", who became his manager.
+Since then he would be billed as "Oskar Aleksander". At the same show, in a backstage interview, he became affiliated with an unnamed female "[Talent Agent](@/w/agentka-agatka.md)", who became his manager.
 Besides his regular appearances as Oskar Aleksander he also performed as "Oskar Strong" - [Biesiad Strong's](@/w/biesiad.md) parody - at the non-canon [SplatFilmFest](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md) show.
 
 In January 2025 Oskar Aleksander faced a Polish scene legend - [Vic Golden](@/w/vic-golden.md) - in probably the biggest match in his career at [PpW Gruba Przesada](@c/e/ppw/2025-01-25-ppw-gruba-przesada.md).
@@ -46,7 +46,7 @@ In January 2025 Oskar Aleksander faced a Polish scene legend - [Vic Golden](@/w/
   - Powerbomb (2024-)
   - Boston Crab (2024-)
 * Managers:
-  - Agent Agata (2024-)
+  - [Agentka Agatka](@/w/agentka-agatka.md) (2024-)
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
     {{ org_badge(org='ppw') }} (2024-present) <br>
