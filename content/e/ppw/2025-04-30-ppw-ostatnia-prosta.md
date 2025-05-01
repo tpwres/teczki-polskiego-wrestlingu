@@ -59,7 +59,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - 'Sentinel'
   - '[Feager](@/w/feager.md)'
   - s: 'Enigma Scramble Match'
-    r: 3-way tie
+    nc: 3-way tie
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - 'Mr Power Up'
 - - '[Isnorr](@/w/isnorr.md)'
