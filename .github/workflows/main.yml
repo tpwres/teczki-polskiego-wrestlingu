@@ -11,13 +11,13 @@ jobs:
         uses: taiki-e/install-action@v2
         with:
           tool: zola
-      - uses: actions/setup-python@v5
-        name: Install Python
+      - uses: astral-sh/setup-uv@v6
+        name: Install UV
         with:
-          python-version: '3.12.4'
-          cache: pip
-      - name: Install required Python packages
-        run: pip install -r requirements.txt
+          version: latest
+          python-version: '3.13.3'
+          activate-environment: true
+          enable-cache: true
       - name: Install Node
         uses: actions/setup-node@v4
         with:
@@ -27,10 +27,10 @@ jobs:
         run: npm install
       - name: Build metadata
         run: |
-          make all plot
+          uv run make all plot
       - name: Run lint and create comment
         run: |
-          bin/lint
+          uv run bin/lint
       - name: Build site
         run: |
           zola build

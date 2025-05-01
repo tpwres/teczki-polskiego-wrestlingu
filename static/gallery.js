@@ -162,10 +162,9 @@ class GalleryController {
 
         Array.from(thumbs).slice(6).forEach((el) => el.style.display = 'none')
 
-        const display_more = document.createElement('a')
         const keep_visible = 6
         const hidden_text = this.pluralize('photos hidden', total_photo_count - keep_visible)
-        display_more.textContent = `Expand gallery (${hidden_text})`
+        const display_more = this.display_more_link(hidden_text)
         const el = document.createElement('li')
         el.classList.add('expand-gallery')
         el.appendChild(display_more)
@@ -174,6 +173,26 @@ class GalleryController {
             el.remove()
         })
         this.root.appendChild(el)
+    }
+
+    display_more_link(text) {
+        const link = document.createElement('a')
+        const span = document.createElement('span')
+        span.textContent = `Expand gallery (${text})`
+        const tail_icon = this.create_icon('chevron-down')
+        link.append(span, tail_icon)
+        return link
+    }
+
+    create_icon(symbol) {
+        const svg_ns = "http://www.w3.org/2000/svg"
+        const xlink_ns = "http://www.w3.org/1999/xlink"
+        const icon = document.createElementNS(svg_ns, 'svg')
+        icon.classList.add('feather', 'feather-nav')
+        const sprite = document.createElementNS(svg_ns, 'use')
+        sprite.setAttributeNS(xlink_ns, 'href', `${SPRITE_URL}#${symbol}`)
+        icon.append(sprite)
+        return icon
     }
 
     pluralize(term, n) {
