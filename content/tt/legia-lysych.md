@@ -5,6 +5,8 @@ authors = ["Szymon Iwulski"]
 [extra]
 toclevel = 3
 orgs = ["ptw", "ppw", "mzw", "low"]
+[extra.gallery]
+1 = { path = "banda-lysego.webp", caption = "Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
 ## Basic info

@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "winner-lenghty-person.webp", caption = "Longman [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
 Wiktor Longman is a wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md), and later also [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md).
