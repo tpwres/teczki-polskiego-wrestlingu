@@ -19,7 +19,7 @@ Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an un
   - s: No-DQ Tag Team Match
     nc: '?'
 - - 'Red Dorada'
-  - '[Angel Guerrero](@/w/johnny-blade.md)'
+  - '[Angel Guerrero](@/w/angel-guerrero.md)'
   - s: Last Man Standing Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Red Power](@/w/rob-scaffold.md)'
