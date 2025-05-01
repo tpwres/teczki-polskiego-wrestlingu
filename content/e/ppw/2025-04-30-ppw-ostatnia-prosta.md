@@ -50,7 +50,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - 'Madison Marley'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - n: Impromptu match, after Gabriel intervened in a post-match beatdown
+  - n: Impromptu match, after Gabriel saved Madison from a post-match beatdown
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
   - g: Vic assaults Gabriel with a chair, then cuts a promo explaining his actions since [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
