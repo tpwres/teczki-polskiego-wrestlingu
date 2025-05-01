@@ -59,7 +59,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bill Feager](@/w/feager.md)'
   - '[Sambor](@/w/sambor.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ Agent Agata'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Marcelito](@/w/marcelito.md)'

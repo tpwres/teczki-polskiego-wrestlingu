@@ -25,7 +25,7 @@ Ostatnia Prosta (_The Run-Up_) was an event by [PpW Ewenement Wrestling](@/o/ppw
 * On 14.04 PpW posted the viddeo of [Jonny Blade](@/w/johnny-blade.md) infiltrating the PM Shooter complex. He frees Biesiad and they try to run away. Just when they are about to jump the fence, Blade gets shot. Biesiad is taken back into custody, while the mercenaries dig a grave to bury the wounded Blade.
 * On 16.04.2025 PpW's social media announced the first women's match in the promotion's history: Danish wrestler Madison Marley will face an unnamed [Ewenement Dojo](@/o/ewenement-dojo.md)-trained wrestler.
 * On 22.04.2025 PpW posted yet another video in the PM Shooter saga. In this one, Mister Z can be seen honoring his deal with the PM Shooter mercenaries. He pays them in Peruvian artifacts and offers additional bounty in the form of the talisman of King Cápac if they finish Biesiad once and for all. This would mean humiliating him in the ring by sending the strongest mercenary to beat him. Mr Z will be the special referee.
-* On 21.04, Agentka Agatka posted a video of her call with Mister Z. She voices her displeasure in Madison Marley getting booked, as it undermines her position as the sole woman in PpW. She is thinking of a plan to get rid of Marley.
+* On 21.04, [Agentka Agatka](@/w/agentka-agatka.md) posted a video of her call with Mister Z. She voices her displeasure in Madison Marley getting booked, as it undermines her position as the sole woman in PpW. She is thinking of a plan to get rid of Marley.
 * On 23.04.2025 PpW announced that [Biesiad Strong](@/w/biesiad.md) would face Scandinavian wrestler Mr Power Up (PM Shooter's kayfabe representative), and that the match would be officiated by [Mister Z](@/w/mister-z.md) as the Special Guest Referee.
 * On 25.04.2025 PpW announced the gate and bell time, mentioning that the pre-show match will take place roughly 15 minutes before the show starts.
 
@@ -46,7 +46,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - g: Contract signing for Goblin vs Gustav III at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
-- - 'Agentka Agatka w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
+- - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - 'Madison Marley'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'

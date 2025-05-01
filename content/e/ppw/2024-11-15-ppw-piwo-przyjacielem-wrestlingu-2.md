@@ -109,7 +109,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Larwa](@/w/goblin.md)'
-  - Agentka
+  - '[Agentka](@/w/agentka-agatka.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Isnorr](@/w/isnorr.md)'
