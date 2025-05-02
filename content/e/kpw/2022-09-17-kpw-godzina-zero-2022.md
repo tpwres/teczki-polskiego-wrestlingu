@@ -3,7 +3,7 @@ title = "KPW Godzina Zero 2022"
 template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
-venue=["atlantic-nh-gdynia"]
+venue=["nowy-harem"]
 [extra]
 city = "Gdynia"
 [extra.gallery.1]

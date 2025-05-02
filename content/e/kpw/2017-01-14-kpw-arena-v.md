@@ -3,7 +3,7 @@ title = "KPW Arena V: Atlantic City"
 template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "arena"]
-venue=["atlantic-nh-gdynia"]
+venue=["atlantic"]
 [extra]
 city = "Gdynia"
 [extra.gallery]
