@@ -2,6 +2,11 @@
 title = "Pod Platanem / Szafirowy Dwór"
 template = "venue_page.html"
 authors = ["M3n747"]
+[taxonomies]
+same-venue = ["pod-platanem", "szafirowy-dwor"]
+[extra.venue_names]
+pod-platanem = "Pod Platanem"
+szafirowy-dwor = "Szafirowy Dwór"
 [extra.gallery]
 1 = { path = "pod-platanem-performance-centre.jpg", caption = "Outside view of the venue.", source = "Ville Paananen" }
 2 = { path = "nowahala-1.webp", caption = "PTW's new venue with the ring, tables and giant posters.", source = "Instagram @lukasz_prezes_okonski"}
