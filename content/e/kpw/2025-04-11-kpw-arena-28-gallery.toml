@@ -6,8 +6,10 @@
 0005 = { path = "latomczakefir.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs Tomczak vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
 0006 = { path = "rosetti-zaprzysiezenie.webp", caption = "Image announcing the induction ceremony of the new KPW chairman, [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
 1001 = { path = "greg-wejscie.webp", caption = "[Greg's](@/w/greg.md) entrance. [Eryk Lesak](@/w/eryk-lesak.md) waits in the corner to the left, [Referee Kinga](@/w/kinga-miotke.md) to the right.", source = "M3n747" }
-1002 = { path = "leskas-little-tank.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) presents his new ring gear.", source = "M3n747" }
+1002 = { path = "lesaks-little-tank.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) presents his new ring gear.", source = "M.Fotografika" }
 1003 = { path = "lupa-desaka.jpg", caption = "🔞 Greg pulls down Lesak's singlet. 🔞", source = "Krzysztof Zych" }
+1004 = { path = "jerebut-o-ring.webp", caption = "Tomczak slams [Leon Lato](@/w/leon-lato.md) against the ring apron; [Referee Kinga](@/w/kinga-miotke.md) and [Zefir](@/w/zefir.md) obsereve the situation.", source = "M.Fotografika" }
+1005 = { path = "skok-na-glowke.webp", caption = "[Zefir](@/w/zefir.md) delivers a Swanton Bomb onto Leon Lato.", source = "M.Fotografika" }
 2001 = { path = "garbage-bin.webp", caption = "Standard-issue wrestling garbage bin.", source = "M3n747" }
 2002 = { path = "filip-oneil.webp", caption = "Filip Fux channels his inner Titus O'Neil.", source = "M3n747" }
 2003 = { path = "filip-bloody-filip.webp", caption = "[Chemik](@/w/chemik.md) with the bloodied [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
@@ -24,9 +26,11 @@
 3005 = { path = "smile-for-the-camera.webp", caption = "[David Oliwa](@/w/david-oliwa.md) speaks his mind to the camera.", source = "M3n747" }
 4001 = { path = "rosettis-ceremony-1.webp", caption = "Induction ceremony. Left to right: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md), Tomczak, [Filip Fux](@/w/filip-fux.md), [Rosetti](@/w/rosetti.md), [Piotr Opolski](@/w/piotr-opolski.md), Leon Lato's knee, [Greg](@/w/greg.md) and [Zefir](@/w/zefir.md).", source = "M3n747" }
 4002 = { path = "rosettis-ceremony-2.webp", caption = "[Rosetti](@/w/rosetti.md) being sworn in by [Piotr Opolski](@/w/piotr-opolski.md).", source = "M3n747" }
+4003 = { path = "suddenly-malinowski.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) appears out of nowhere, and has a few harsh words for [Rosetti](@/w/rosetti.md).", source = "M.Fotografika" }
 5001 = { path = "hansel-ohne-gretel.webp", caption = "[Hans Schulte's](@/w/hans-schulte.md) entrance.", source = "M3n747" }
 5002 = { path = "hans-und-michal.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) chokes [Michał Fux](@/w/michal-fux.md).", source = "M3n747" }
 5003 = { path = "dynamic-duo.webp", caption = "Michał Fux superplexes Hans Schulte from the corner.", source = "M3n747" }
 5004 = { path = "mann-bist-du-schwer.webp", caption = "[Michał Fux](@/w/michal-fux.md) applies a submission hold to Hans Schulte. To the right is [Referee Kinga](@/w/kinga-miotke.md).", source = "M3n747" }
 5005 = { path = "er-ist-ein-besieger.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) victorious.", source = "M3n747" }
-6001 = { path = "zefir-oskarzony.webp", caption = "Krystian Malinowski accuses Zefir.", source = "M3n747" }
+6001 = { path = "zefir-z-trzeciego-balkonu.webp", caption = "[Zefir](@/w/zefir.md) jumps from the club's mezzanine onto Hans Schulte.", source = "M.Fotografika" }
+6002 = { path = "zefir-oskarzony.webp", caption = "Krystian Malinowski accuses Zefir.", source = "M3n747" }
