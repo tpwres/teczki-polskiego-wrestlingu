@@ -7,6 +7,7 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+hide_results = true
 [extra.gallery]
 manifest = "@/e/mzw/2025-06-28-mzw-green-madness-gallery.toml"
 +++
