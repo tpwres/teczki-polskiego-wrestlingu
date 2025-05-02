@@ -45,12 +45,12 @@ During the event, fans saw new and returning international wrestlers in the ring
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - g: Contract signing for Goblin vs Gustav III at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
+  - g: Contract signing for Goblin vs Gustav at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
 - - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - 'Madison Marley'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - n: Impromptu match, after Gabriel saved Madison from a post-match beatdown
+  - n: Gabriel saved Madison from a post-match beatdown and started his announced match
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
   - g: Vic assaults Gabriel with a chair, then cuts a promo explaining his actions since [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
@@ -60,6 +60,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - '[Feager](@/w/feager.md)'
   - s: 'Enigma Scramble Match'
     nc: 3-way tie
+    n: Every competitor scored a point, except for Feager
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - 'Mr Power Up'
 - - '[Isnorr](@/w/isnorr.md)'
@@ -70,7 +71,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Tornado Tag Team Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - g: Johnny Blade, thought to be shot dead by PM Shooter guards, unexpectedly returns
+  - g: Johnny Blade, thought to be shot dead by PM Shooter guards, rises from the grave and returns as a zombie
 - credits:
     Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
     Hosts: '[Joker](@/w/joker.md), [Michael HT](@/w/michael-ht.md)'
