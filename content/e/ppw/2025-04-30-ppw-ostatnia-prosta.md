@@ -45,12 +45,11 @@ During the event, fans saw new and returning international wrestlers in the ring
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - g: Contract signing for Goblin vs Gustav III at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
+  - g: Contract signing for Goblin vs Gustav at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
 - - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - 'Madison Marley'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - n: Impromptu match, after Gabriel saved Madison from a post-match beatdown
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
   - g: Vic assaults Gabriel with a chair, then cuts a promo explaining his actions since [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
