@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw", "underground"]
-venue = ["dworek-kozlow"]
+venue = ["pod-platanem"]
 [extra]
 city = "Kozłów"
 [extra.gallery]

@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["ptw"]
-venue = ["dworek-kozlow"]
+venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 [extra.gallery]
