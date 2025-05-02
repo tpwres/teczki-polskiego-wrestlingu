@@ -45,7 +45,7 @@ During the event, fans saw new and returning international wrestlers in the ring
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - g: Contract signing for Goblin vs Gustav III at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
+  - g: Contract signing for Goblin vs Gustav at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
 - - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - 'Madison Marley'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
