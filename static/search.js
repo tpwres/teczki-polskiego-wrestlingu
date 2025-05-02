@@ -225,9 +225,12 @@ class SearchController {
             '/o/': ['Organization', '#handshake'],
             '/a/': ['Article', '#book'],
             '/v/': ['Venue', '#map-pin-house'],
-            '/c/': ['Championship', '#trophy']
+            '/c/': ['Championship', '#trophy'],
+            '/tt/': ['Team', '#biceps-flexed']
         }
-        const prefix = path.slice(0, 3)
+
+        path.match(/(\/\w+\/)/)
+        const prefix = RegExp.$1
         const [result_flavor, result_icon] = prefix_map[prefix] || ['Page', '#file-text']
 
         const node = this.itemTemplateTarget.content.cloneNode(true)
