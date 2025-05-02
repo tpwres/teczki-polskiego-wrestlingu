@@ -122,7 +122,7 @@ However, its header will be displayed with multiple exclamation marks and in bol
 ## Venue
 
 This taxonomy applies only to event pages, and links events to their venue page.
-The allowed term values here are filename roots (filename minus the `.md` extension) of pages under `content/v/`, which is the directory for venue pages.
+The allowed term values here are filename roots (filename minus the `.md` extension) of pages under `content/v/`, which is the directory for venue pages. Additional legal values are of the `same-venue` taxonomy, described below.
 
 The venue page has a list of events as well, and this list shows exactly all the events that have a matching `venue` taxonomy term.
 
@@ -139,3 +139,21 @@ venue = ["ptw-targowa"]
 
 This event will be listed on the venue page for PTW Performance Center.
 The venue is not linked automatically on the event's page. Instead, it should be linked in the descriptive text.
+
+## Same-venue
+
+This taxonomy only applies to venue pages.
+
+Venues can change names over the years. To be able to keep linking to the same page, but use a different venue name in the listing, the `same-venue` taxonomy allows declaring alternate keys for the same venue page. These keys are then associated with titles, which are explained in `FRONT-MATTER.md`.
+
+#### Example
+
+```toml
+# Assume this file is venues/atlantic-nh.md
+title = "Atlantic / Nowy Harem"
+template = "venue_page.html"
+[taxonomies]
+same-venue = ["atlantic", "nowy-harem"]
+```
+
+With this, an event's `venue` taxonomy may now use any of `atlantic-nh, atlantic, nowy-harem`, and it will be correctly linked to and displayed in the event list on this page. It will also correctly link on the homepage event list. By default, the venue page's title is used, unless alternate titles are defined.

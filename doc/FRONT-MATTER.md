@@ -48,6 +48,8 @@ Certain entries are mandatory for all files, and not including them is an error.
 ## Venue page
 
 * `template`: must be `venue_page.html`.
+* `extra.skip_event_list`: if present and set to true, prevents linking to the venue in the homepage event list. Only the city will be displayed.
+* `extra.venue_names`: a map of keys from the `same-venue` chronology to quoted strings. When this venue page is linked to from the homepage listing using a different `venue` key, these titles are preferred over the page title.
 
 ## Article
 
