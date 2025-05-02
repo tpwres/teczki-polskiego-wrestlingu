@@ -15,6 +15,8 @@
 {% card(incomplete=true) %)}
 ```
 
+When using `predicted=true`, the event page will not display match results. This is alternatively accomplished with the `hide_results` setting in front-matter block.
+
 ## YAML lists
 
 A YAML list is expressed either block-style:
