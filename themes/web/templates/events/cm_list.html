@@ -32,13 +32,11 @@
               {% else %}
                 {% set cities = "" %}
               {% endif %}
-             {{ cities -}}
               {%- if cities and page.taxonomies.venue -%}
                 {%- set venue = page.taxonomies.venue | first -%}
-                {%- set venue_page = venues_section.pages | filter(attribute="slug", value=venue) | first -%}
-                {%- if venue_page and not venue_page.extra.skip_event_list -%}
-                  , <a href="{{ venue_page.path }}">{{ venue_page.title }}</a>
-                {%- endif -%}
+                {%- include "events/alt_venue_name.html" -%}
+              {% elif cities %}
+                {{ cities }}
               {% endif %}
            </span>
         </li>
