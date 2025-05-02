@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "beda-siedzialy-rzeczy.webp", caption = "Arek Paterek opens [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
 Arkadiusz Paterek is a Polish wrestling commentator, on-screen personality and manager known for his time in [Legacy of Wrestling](@/o/low.md) and [Prime Time Wrestling](@/o/ptw.md).

@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "zly-brat-dextera.webp", caption = "Sinister at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
 Sinister is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also made a few appearances in [Mine City Wrestling](@/o/mcw.md).

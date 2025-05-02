@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "awake.webp", caption = "Aron Wake at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
 Aron Wake is a Polish wrestler known for his appearances in [Maniac Zone Wrestling](@/o/mzw.md), [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). He also worked for [Prime Time Wrestling](@/o/ptw.md).
