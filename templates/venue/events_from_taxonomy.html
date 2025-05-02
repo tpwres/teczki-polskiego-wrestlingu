@@ -2,7 +2,11 @@
 {% set main_slug = page.slug %}
 {% set other_keys =page.taxonomies | get(key="same-venue", default=[])  %}
 
-{% set venue_event_pages = events_taxonomy.items | filter(attribute="slug", value=main_slug) | map(attribute="pages") | first %}
+{% set venue_event_pages = [] %}
+{% set main_slug_events = events_taxonomy.items | filter(attribute="slug", value=main_slug) | map(attribute="pages") | first %}
+{% if main_slug_events %}
+  {% set_global venue_event_pages = venue_event_pages | concat(with=main_slug_events) %}
+{% endif %}
 {% for key in other_keys %}
   {% set key_event_pages = get_taxonomy_term(kind="venue", term=key, required=false) %}
   {% if not key_event_pages %}{% continue %}{% endif %}
