@@ -31,6 +31,7 @@ template = "index.html"
 | Years active | Name | Location |
 |--:|---|---|
 | 2005-2009 | {{ org_badge(org='piwg') }} [Pomerania Indy Wrestling Group](@/o/piwg.md) | Skórcz, Starogard Gdański, Gdańsk |
+| 2007-2009 | [New Quality Wrestling](@/o/nqw.md) | Warsaw |
 | 2009-2015 | {{ org_badge(org='ddw') }} [Do Or Die Wrestling](@/o/ddw.md) | Warsaw, Rzeszów, Gdańsk |
 | 2009-2010 | [Łazieniec Superstar Wrestling](@/o/lsw.md) | Łazieniec |
 | 2009-2011 | {{ org_badge(org='tbw') }} [Total Blast Wrestling](@/o/tbw.md) | Zawiercie, Radom |
