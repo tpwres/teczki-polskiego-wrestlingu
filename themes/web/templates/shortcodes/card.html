@@ -1,7 +1,9 @@
 {% set data = load_data(literal=body,format="yaml") %}
 
+{% set hide_results = page.extra | get(key="hide_results", default=false) -%}
 {% if predicted %}
 <h3>Predicted card</h3>
+{% set hide_results = true %}
 {% elif incomplete %}
 <h3>Incomplete card</h3>
 {% elif unofficial %}
@@ -11,7 +13,6 @@
 {% endif %}
 
 {# Results are displayed before the card. This is because the stylesheet hides a <card> element that follows an open <details> element. By default the details element is closed, and the results are not shown. #}
-{% set hide_results = page.extra | get(key="hide_results", default=false) -%}
 {% if not hide_results %}
 <details>
     <summary><span data-nosnippet>Toggle results</span></summary>
