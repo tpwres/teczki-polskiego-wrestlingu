@@ -17,10 +17,14 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 ## Build-up
 
 * At the run-up show [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), several matches were announced or confirmed:
-  * In a contract signing segment, [Gustav Gryffin](@/w/gustav-gryffin.md) selected the stipulation for his upcoming match against [Goblin](@/w/goblin.md): a Three Stages of Hell match, starting with a Classic Wrestling Match, then going into a No Holds Barred, to eventually finish with a Submission Match. In this last segment, it's only possible to win when the opponent is beaten unconscious.
+  * In a contract signing segment, [Gustav Gryffin](@/w/gustav-gryffin.md) selected the stipulation for his upcoming match against [Goblin](@/w/goblin.md)- a Three Stages of Hell match. Stages are as follows:
+    * Classic Wrestling Match (contrary to standard PpW rules: no foreign objects, no interference)
+    * No Holds Barred
+    * Submission Match only won via TKO. It was billed as _W imię Zasad: Walka do odciny_(roughly: _For the Principles: Fight till pass-out_)
   * As [Mister Z](@/w/mister-z.md) granted [Biesiad](@/w/biesiad.md) the opportunity to fight him at this show, Biesiad immediately declared it to be a Cieśla (_Carpenter_) Match, presumably involving lots of furniture.
   * [Axel Fox](@/w/axel-fox.md) challenged [Olgierd](@/w/olgierd.md).
 * The Enigma Scramble match at the same show ended with three out of four wrestlers scoring one point: Sentinel, Wonder Haze and [Sambor](@/w/sambor.md). All of them were granted a match at this show, with no further details given.
+
 
 {% card(predicted=true) %}
 - - Sentinel
