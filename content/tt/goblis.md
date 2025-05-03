@@ -68,5 +68,5 @@ With the team not on the same page, they were put in a Tornado Tag Team match ag
 
 * [Osamu shares Fox's phone number with Goblin - Instagram reel](https://www.instagram.com/p/C9U-kiOswxR/)
 * [Official merch - Instagram](https://www.instagram.com/p/DBOC6NVIKyA/)
-* [Can Axel trust Goblin? - Instagram reel](https://www.instagram.com/p/DHoUOjnqpJS/)
+* [Can Fox trust Goblin? - Instagram reel](https://www.instagram.com/p/DHoUOjnqpJS/)
 * [GobLis on the same page](https://www.instagram.com/p/DJJvNautf6Q/)
