@@ -24,7 +24,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
     nc: '?'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Striker](@/w/royal-striker.md)'
-  - 'Mamet'
+  - 'Matt Walker'
   - nc: '?'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Steven Kimono](@/w/biesiad.md)'
@@ -62,7 +62,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - - "[Isnorr](@/w/isnorr.md)"
   - "[Mister Z](@/w/mister-z.md)"
   - "[Striker](@/w/royal-striker.md)"
-  - 'Mamet'
+  - 'Matt Walker'
   - s: "New Jack Tribute Match"
     nc: '?'
 - - 'Bracia Pierdolec: [Czesław Pierdolec](@/w/kapitan-bazooka.md), [Gustav Pierdolec](@/w/gustav-gryffin.md)'
