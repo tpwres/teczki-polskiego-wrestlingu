@@ -1,2 +1,3 @@
-0001 = { path = "ledwo-legalne-5-plakat.webp", caption = "Official poster featuring, left to right: [Gustav Gryffin](@/w/gustav-gryffin.md), [Biesiad Strong](@/w/biesiad.md), [Goblin](@/w/goblin.md) and [Mister Z](@/w/mister-z.md).", source="Official PpW Facebook"}
-0002 = { path = "gustav-vs-goblin.jpg", caption = "Graphics announcing [Goblin](@/w/goblin.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md).", source="Official PpW Facebook"}
+0001 = { path = "ledwo-legalne-5-plakat.webp", caption = "Official poster featuring, left to right: [Gustav Gryffin](@/w/gustav-gryffin.md), [Biesiad Strong](@/w/biesiad.md), [Goblin](@/w/goblin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
+0002 = { path = "gustav-vs-goblin.jpg", caption = "Graphics announcing [Goblin](@/w/goblin.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook"}
+0003 = { path = "3-stages.jpg", caption = "Graphics announcing the rules for Gustav vs Goblin.", source = "Official PpW Facebook"}
