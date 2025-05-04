@@ -19,7 +19,7 @@ This event was a professional boxing gala held in Hotel Feniks in Gniezno. In ad
   - '[Shadow](@/w/shadow.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
   - s: 'Triple Threat Match'
-    nc: ?
+    nc: '?'
 {% end %}
 
 ### References

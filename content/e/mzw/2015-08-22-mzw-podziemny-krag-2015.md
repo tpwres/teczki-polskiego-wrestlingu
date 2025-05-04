@@ -31,7 +31,7 @@ The only known match-up is [Shadow](@/w/shadow.md) vs [Szymon Siwiec](@/w/szymon
 {% card(incomplete=true) %}
 - - '[Shadow](@/w/shadow.md)'
   - '[Szymon "Siwy" Siwiec](@/w/szymon-siwiec.md)'
-  - nc: ?
+  - nc: '?'
 - credits:
     Referee: '???'
     Ring Announcer: '???'
