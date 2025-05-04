@@ -28,7 +28,7 @@ There is no confirmed card for this event. Based on the photos from the organize
 
 The only known match-up is [Shadow](@/w/shadow.md) vs [Szymon Siwiec](@/w/szymon-siwiec.md), as evidenced by a [forum post][siwy-szedou] referencing an official video (set to private as of 2025).
 
-{% card(incomplete=true) %)}
+{% card(incomplete=true) %}
 - - '[Shadow](@/w/shadow.md)'
   - '[Szymon "Siwy" Siwiec](@/w/szymon-siwiec.md)'
   - nc: ?
