@@ -1,0 +1,12 @@
+01 = { path = "joy-patriota-thunder.webp", caption = "[Justin Joy](@/w/justin-joy.md), [Patriota](@/w/jedrus-bulecka.md) and [Red Thunder](@/w/red-thunder.md) being announced.", source = "PowerEvents.pl" }
+02 = { path = "ring-girl-shadow.webp", caption = "A ring girl announces Shadow, seen in the background.", source = "PowerEvents.pl" }
+03 = { path = "4-way-it-seems.webp", caption = "An apparent Four-Way Match between Justin Joy, Patriota, Red Thunder and Shadow.", source = "PowerEvents.pl" }
+04 = { path = "patriota-joy.webp", caption = "Patriota and Justin Joy enter the ring.", source = "PowerEvents.pl" }
+05 = { path = "patriota-vs-justin.webp", caption = "[Patriota](@/w/jedrus-bulecka.md) vs Justin Joy.", source = "PowerEvents.pl" }
+06 = { path = "shadow-vs-joy.webp", caption = "[Justin Joy](@/w/justin-joy.md) chokes [Shadow](@/w/shadow.md).", source = "PowerEvents.pl" }
+07 = { path = "ring-girls.webp", caption = "Ring Girls announce Rick Baxxter and TinoX.", source = "PowerEvents.pl" }
+08 = { path = "baxxter-vs-joy.webp", caption = "Rick Baxxter vs Justin Joy.", source = "PowerEvents.pl" }
+09 = { path = "baxxter-vs-tinox.webp", caption = "TinoX pins Rick Baxxter.", source = "PowerEvents.pl" }
+10 = { path = "cheerleaders.webp", caption = "Cheerleaders.", source = "PowerEvents.pl" }
+11 = { path = "set-decorations.webp.webp", caption = "Set decorations.", source = "PowerEvents.pl" }
+12 = { path = "mannequin.webp", caption = "Set decorations.", source = "PowerEvents.pl" }
