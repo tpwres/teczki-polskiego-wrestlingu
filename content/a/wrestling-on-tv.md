@@ -58,7 +58,9 @@ In 2012, FightBox, a channel dedicated to combat sports entered cable TV. Since 
 
 ## 2020
 
-In 2020, local branch of the national broadcaster TVP3 Wrocław published a [short piece on MZW][mzw-tvp3], titled "Staged and seemingly dangerous. Wrestling gains popularity in Wrocław". The narrator talks about the staged nature of wrestling as entertainment, while several rookies and wrestlers practice bumps in the ring wearing face masks (as this was produced during the COVID-19 pandemic). [Shadow](@/w/shadow.md), introduced as [PAW](@/o/paw.md)'s coach, talks about training and safety. MZW's flag is clearly visible in the background.
+On 14.01.2016 a local branch of the national broadcaster, TVP3 Opole, invited [Shadow](@/w/shadow.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) to appear on their morning programme ["O!polskie o poranku"][mzw-tvp3-opole]. The interviewers asked about the basics of pro wrestling, the history of MZW and how the two guests became interested in wrestling in the first place. The interview was intercut with clips from the [2015 charity show](@/e/mzw/2015-01-11-mzw-charity-show-2015.md). At the beginning of the segment, archival footage from [PXW](@/o.pxw.md) was also shown to illustrate the progress made by the group.
+
+In 2020, TVP3 Wrocław published a [short piece on MZW][mzw-tvp3], titled "Staged and seemingly dangerous. Wrestling gains popularity in Wrocław". The narrator talks about the staged nature of wrestling as entertainment, while several rookies and wrestlers practice bumps in the ring wearing face masks (as this was produced during the COVID-19 pandemic). [Shadow](@/w/shadow.md), introduced as [PAW](@/o/paw.md)'s coach, talks about training and safety. MZW's flag is clearly visible in the background.
 
 ## 2021
 
@@ -123,3 +125,4 @@ On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Komba
 [mzw-tvp3]: https://wroclaw.tvp.pl/48638715/wyrezyserowany-grozny-na-pozor-wrestling-nabiera-popularnosci-we-wroclawiu
 [aew-warner]: https://www.polsatmedia.pl/Aktualnosc_6786/All-Elite-Wrestling-Emitowany-W-Polsce-Wylacznie-W-Warner-TV_1825161/index.html
 [kombat-tv]: https://www.facebook.com/photo/?fbid=1003326585259914&set=a.517136233878954
+[mzw-tvp3-opole]: https://youtu.be/ECnTkYD6w2g&t=2232
