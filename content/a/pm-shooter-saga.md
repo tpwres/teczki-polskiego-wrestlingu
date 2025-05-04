@@ -14,7 +14,7 @@ At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal wi
 
 <!-- more -->
 
-## History
+## The story
 
 ### Initial stages (December 2024 - March 2025)
 
@@ -32,8 +32,7 @@ Those events, though seemingly a promotional stunt, were quickly recognized as c
 
 ### Arrest angle
 
-At Teraz Albo Nigdy, Mister Z revealed that the court granted him a restraining order and now Biesiad is not allowed to come near him.
-After Biesiad got eliminated from the _20 Typa 20 Broni Rumble Match_, he continued to brawl with Mister Z until a band of uniformed henchmen, carrying rifles and wearing PM Shooter colors, captured Biesiad and escorted him outside the venue. It was later revealed that at a future show, [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad would face a "serviceman" to regain his freedom. [Legacy of Wrestling](@/o/low.md) provided a follow-up on the angle, announcing Biesiad for a five-way match at [Legacy vol. 2](content/e/low/2025-04-06-low-2.md), with a caveat that Biesiad might not make it due to his arrest.
+At Teraz Albo Nigdy, Mister Z revealed that the court granted him a restraining order and now Biesiad is not allowed to come near him. After Biesiad got eliminated from the _20 Typa 20 Broni Rumble Match_, he continued to brawl with Mister Z until a band of uniformed henchmen, carrying rifles and wearing PM Shooter colors, captured Biesiad and escorted him outside the venue. It was later revealed that at a future show, [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad would face a "serviceman" to regain his freedom. [Legacy of Wrestling](@/o/low.md) provided a follow-up on the angle, announcing Biesiad for a five-way match at [Legacy vol. 2](content/e/low/2025-04-06-low-2.md), with a caveat that Biesiad might not make it due to his arrest.
 
 The storyline continued with Biesiad's Instagram account taken over (in kayfabe) by PM Shooter, and all the posts and stories on it written from their point of view. Via Insta-stories, they announced that Biesiad was granted a leave for the Legacy show.
 
