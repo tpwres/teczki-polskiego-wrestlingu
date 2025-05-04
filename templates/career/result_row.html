@@ -30,7 +30,11 @@
 {% if segment %}
   <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others %}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
 {% else %}
-  {% if bodies == 0 and not final.nc %} Winner: {% endif %}
+  {% if final.nc and final.nc == "upcoming" %}
+    <strong>Upcoming:</strong>
+  {% elif bodies == 0 and not final.nc %}
+    Winner:
+  {% endif %}
   {% if 0 in positions %}
     <strong>{{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}</strong>
   {% else %}
@@ -51,7 +55,7 @@
   {% endif %}
   {% if final.r %}
       via {{ final.r }}
-  {% elif final.nc %}
+  {% elif final.nc and final.nc != "upcoming" %}
       - {{ final.nc }}
   {% endif %}
   <strong>
