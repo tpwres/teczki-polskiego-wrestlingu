@@ -1,11 +1,14 @@
 +++
 title = "Pure Gold"
 template = "team_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ptw", "ppw"]
 +++
+
+Pure Gold was a Polish tag team consisting of [Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md). They are best known for their work in [PpW Ewenement](@/w/ppw.md) and [Prime Time Wrestling](@/o/ptw.md).
+
 ## Basic info
 
 Years active: 2022-2025
@@ -76,7 +79,7 @@ Just before Queen went for the second pinfall and victory, Vic Golden turned on 
 ## In wrestling
 
 * Finishing move:
-  - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
+  - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
 * Entrance music:
   - "Best of Both Worlds" by Hannah Montana
  {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-2025, both in tag team and solo entrances)<br>
