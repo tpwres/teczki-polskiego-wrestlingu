@@ -119,7 +119,7 @@ Available options are:
 - `s: STIPULATION` - if any, for example "Tables Match", "Best Two Out Of Three Falls" etc.
 - `c: CHAMPIONSHIP` - the title contested. Should be a Markdown link to the organizations' page section about that title.
 - `r: RESULT` - for situations like DQ or KO. Will be listed as "via RESULT". **Cannot be used together with `nc`**
-- `nc: OUTCOME` - if a match did not have a clear winner, for example ended in a draw, timeout or no-contest. Will be listed as " - OUTCOME". **Cannot be used together with `r`**. For matches that are in the future, use `nc: upcoming`, and if the result is unknown, use `nc: ?`
+- `nc: OUTCOME` - if a match did not have a single, clear winner, for example ended in a draw, timeout or no-contest. Will be listed as " - OUTCOME". **Cannot be used together with `r`**. If the result is unknown, use `nc: ?`. For matches that have been announced for future events and haven't happened yet, use `nc: upcoming`, which will be shown as `Upcoming: ` before the match details.
 - `g: true` - marks this entry as a se`g`ment, not a match. Useful to mark someone's participation that was not a match, because it gets counted towards their years active and the organization's all time roster. When this is present, `nc` and `r` are ignored, but `c` and `s` will still be displayed.
 - `g: SEGMENT DESCRIPTION` - same as above, but text is displayed in the details column. Both this text and stipulation will be displayed, although stipulation should be left empty.
 - `n: TEXT` or `n: [list, of, texts]` - adds notes, which are displayed in a smaller font below the participants. Notes are only visible on event pages, and only when "toggle results" was clicked.
