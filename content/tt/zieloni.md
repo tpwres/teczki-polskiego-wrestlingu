@@ -9,7 +9,7 @@ toclevel = 3
 orgs = ["ptw", "ppw", "mzw", "low"]
 +++
 
-"Zieloni" (_The Greens_), is a the name for a group of Polish wrestlers, who were originally connected to [Maniac Zone Wrestling](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
+"Zieloni" (_The Greens_) is the name of a group of Polish wrestlers who were originally connected to [Maniac Zone Wrestling](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
 
 <!-- more -->
 
