@@ -1,7 +1,7 @@
 +++
 title = "Bracia Fux"
 template = "team_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["kpw", "low"]
@@ -10,13 +10,15 @@ orgs = ["kpw", "low"]
 2 = { path = "wejscie-godne-mistrzow.webp", caption = "The Brothers' entrance at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md).", source = "M.Fotografika" }
 +++
 
+Bracia Fux is a Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md). They are best known for their work in [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
+
 ## Basic info
 
-* Years active: 2021-
+* Years active: 2021-present
 
-## History
+## Professional wrestling career
 
-### Kombat Pro Wrestling (2021-)
+### Kombat Pro Wrestling (2021-present)
 
 [Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md) made their debuts at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). Working as a tag team called Bracia Fux (_the Fux Brothers_), the two kayfabe siblings faced a one-off team of [Eryk Lesak](@/w/eryk-lesak.md) and [Piotr Opolski](@/w/piotr-opolski.md), whom they defeated. The [next show](@/e/kpw/2022-03-18-kpw-arena-18.md) saw them in another tag match, but the two Fuxes quickly branched off into singles competition starting with [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md). Since then they have appeared solo as well as together in roughly equal measure.
 
