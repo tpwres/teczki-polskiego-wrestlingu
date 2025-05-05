@@ -33,7 +33,7 @@ During the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](content/e/ppw/2025-03-15
 
 During the build-up to [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), PpW announced that the show would see the first ever women's match in PpW's history.
 Initially, the organization only revealed that Danish wrestler Madison Marley would face an unnamed Ewenement Dojo-trained wrestler.
-Later on Agatka posted a video of her calling Mister Z on the phone. She voiced her displeasure in Madison Marley getting booked, as it undermined her position as the sole woman in PpW. Agatka devised a plan to get rid of Marley.That match saw Madison pitted against Agatka indeed, who then won her debut match via roll-up after Oskar's interference.
+Later on Agatka posted a video of her calling Mister Z on the phone. She voiced her displeasure in Madison Marley getting booked, as it undermined her position as the sole woman in PpW. Agatka devised a plan to get rid of Marley. That match saw Madison pitted against Agatka indeed, who then won her debut match via roll-up after Oskar's interference.
 
 ## In wrestling
 
