@@ -10,7 +10,7 @@ orgs = ["kpw", "low"]
 2 = { path = "wejscie-godne-mistrzow.webp", caption = "The Brothers' entrance at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md).", source = "M.Fotografika" }
 +++
 
-Bracia Fux is a Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md). They are best known for their work in [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
+Bracia Fux are a Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md). They are best known for their work in [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
