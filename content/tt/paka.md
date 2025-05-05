@@ -9,7 +9,7 @@ orgs = ["ptw"]
 1 = { path = "paka.webp", caption = "[Taras](@/w/taras.md), [Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md), with their [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md).", source = "Official PTW Facebook" }
 +++
 
-PAKA (roughly _The PACK_) was a babyface tag team, active in [Prime Time Wrestling](@/o/ptw.md). As a three-man team, the members saw success both in tag-team and singles competition.
+PAKA (roughly _The PACK_) were a babyface tag team, active in [Prime Time Wrestling](@/o/ptw.md). As a three-man team, the members saw success both in tag-team and singles competition.
 
 ## Basic info
 
