@@ -15,7 +15,11 @@ hide_results = true
 This event was a professional boxing gala held in Hotel Feniks in Gniezno. In addition to the boxing matches, a showcase wrestling match was held.
 
 {% card() %}
-- ["[Patriota](@/w/jedrus-bulecka.md)", "[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", nc: "?"]
+- - '[Patriota](@/w/jedrus-bulecka.md)'
+  - '[Shadow](@/w/shadow.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
+  - s: 'Triple Threat Match'
+    nc: '?'
 {% end %}
 
 ### References
