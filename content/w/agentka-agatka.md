@@ -45,7 +45,7 @@ During the build-up to [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.
     {{ music(spot='45ghTMKvWtMCX9tHJCT1Zo')}}
     {{ music(apple='1433949584')}}
   - "Zacznij od Bacha" by Zbigniew Wodecki
-    {{ org_badge(org=['ppw']) }} (2024-, when managing [Oskar Aleksander](@/w/oskar-aleksander.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-, when managing [Oskar Aleksander](@/w/oskar-aleksander.md)) <br>
     {{ music(yt='rDQHzGpwQNk')}}
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}
