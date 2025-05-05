@@ -9,9 +9,11 @@ orgs = ["ptw", "ppw", "mzw", "low"]
 1 = { path = "banda-lysego.webp", caption = "Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
+Legia Łysych (_Legion Of Bald_) is a Polish wrestling tag team consisting of [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md). They are known for their work in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md), [Maniac Zone Wrestling](@/o/mzw.md) and formerly in [Prime Time Wrestling](@/o/ptw.md).
+
 ## Basic info
 
-* Years active: 2023-
+* Years active: 2023-present
 
 ## History
 
