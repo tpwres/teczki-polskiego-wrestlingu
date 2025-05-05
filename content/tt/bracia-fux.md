@@ -16,7 +16,7 @@ Bracia Fux is a Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) a
 
 * Years active: 2021-present
 
-## Professional wrestling career
+## History
 
 ### Kombat Pro Wrestling (2021-present)
 
