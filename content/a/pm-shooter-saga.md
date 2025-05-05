@@ -1,7 +1,6 @@
 +++
 title = "PM Shooter Saga"
 template = "article.html"
-aliases = ["/a/pm]
 weight = 0
 authors = ["Szymon Iwulski"]
 [extra]
