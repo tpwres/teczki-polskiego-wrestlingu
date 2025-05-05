@@ -53,8 +53,10 @@ With the team not on the same page, they were put in a Tornado Tag Team match ag
 
 ## In wrestling
 
+* Finishers:
+  - Double Powerbomb (2025-)
 * Team signature moves:
-  - Stereo suicide dives (Goblin & Fox to the opponents outside the ring)
+  - Stereo suicide dives (Goblin & Fox to the opponents outside the ring) 
 * Entrance music:
   - "Punk Tactics" by Joey Valence & Brae
     {{ org_badge(orgs=['ppw']) }} (2024-present,) <br>
