@@ -13,7 +13,7 @@ GobLis is a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox]
 
 * Years active: 2024-present
 
-## Professional wrestling career
+## History
 
 ### PpW Ewenement (2024-)
 
