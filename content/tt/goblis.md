@@ -1,17 +1,19 @@
 +++
 title = "GobLis"
 template = "team_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ppw"]
 +++
 
+GobLis is a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md) active in [PpW Ewenement](@/o/ppw.md).
+
 ## Basic info
 
-* Years active: 2024-
+* Years active: 2024-present
 
-## History
+## Professional wrestling career
 
 ### PpW Ewenement (2024-)
 
@@ -59,6 +61,11 @@ With the team not on the same page, they were put in a Tornado Tag Team match ag
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
+
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+  - 20 Typa 20 Broni Rumble Match (2025) - [Goblin](@/w/goblin.md) 
 
 ## Affiliations
 
