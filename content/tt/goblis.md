@@ -7,7 +7,7 @@ toclevel = 3
 orgs = ["ppw"]
 +++
 
-GobLis is a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md) active in [PpW Ewenement](@/o/ppw.md).
+GobLis are a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md) active in [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
