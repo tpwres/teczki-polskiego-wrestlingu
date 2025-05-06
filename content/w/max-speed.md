@@ -35,7 +35,7 @@ Making his way up the ramp, he was taunted by [Karol "Iskra" Górski](@/w/iskra.
 
 After the drama and [talent exodus](@/a/ptw-exits.md) following the controversial [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), in a June 2024 show Max Speed stated he had decided to stay in PTW.
 As one of the top babyfaces in PTW's midcard, he started a feud with [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) - the main midcard heels at the time.
-Speed won his match against Brave at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), but lost to Caravaggio at [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md). After that he fought against Italian wrestlers [Rust](@/w/rust.md) and [Luca Bjorn](@/w/luca-bjorn.md) before teaming up with the up-and-coming babyface [Miyagi Shida](@/w/miyagi-shida.md) against Brave and Caravaggio, who were taunting them in the "Alex Brave Show" segment beforehand. Speed and Shida were however defeated by the villainous tag team.
+Speed won his match against Brave at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), but lost to Caravaggio at [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md). After that he fought against Italian wrestlers [Rust](@/w/rust.md) and [Luca Bjorn](@/w/luca-bjorn.md) before teaming up with the up-and-coming babyface [Miyagi Shida](@/w/miyagi-shida.md) against Brave and Caravaggio, who were taunting them in the "Alex Brave Show" segment beforehand. Speed and Shida were however defeated by the villainous tag team.
 
 #### Championship pursuits
 

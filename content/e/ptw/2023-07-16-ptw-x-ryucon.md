@@ -1,5 +1,5 @@
 +++
-title = "PTW x RyuCon 2"
+title = "PTW x Ryucon 2"
 template = "event_page.html"
 author = ["Szymon Iwulski"]
 [taxonomies]

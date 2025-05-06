@@ -52,7 +52,7 @@ Later, Iskra also took part in a segment before Marcelito's rematch against Sams
 #### Feud with Sinister Kingdom and formation of Samsonito
 
 After his programme with Iskra, Marcelito spent almost the full second half of 2023 feuding with [The Sinister Kingdom](@/tt/sinister-kingdom.md) - [Sinister](@/w/sinister.md), [Syriusz Dziedzic](@/w/dziedzic.md) and [Krampus](@/w/krampus.md).
-He was defeated by the "reborn" Dziedzic at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) and tried to fend off Sinister Kingdom members when they attacked Samson at the same show.
+He was defeated by the "reborn" Dziedzic at [PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) and tried to fend off Sinister Kingdom members when they attacked Samson at the same show.
 The feud continued for the next two Undergrounds, where Samson and Marcelito failed to score even a single victory over Sinister's stable, both in singles competitions and as a tag team, dubbed "Samsonito" as a portmanteau of their names.
 At [Underground 20](@/e/ptw/2023-12-10-ptw-underground-20.md) they were defeated by Legia Łysych. This marked the final appearance of Samson in PTW, and thus the end of Samsonito.
 

@@ -32,7 +32,7 @@ For the first few shows, PAKA focused on establishing themselves as babyfaces an
 
 #### Feud wih Bad Bones
 
-Later on Taras - alongside his partners from PAKA - got involved in a feud against [Bad Bones](bad-bones.md), who was then trying to destroy Pawłowski and his federation from the inside. Taras was beaten up and injured after one of the training sessions held at [PTW Performance Center](@/v/ptw-targowa.md) by an annonymous attacker - who, almost two years later, was revealed to be [Longman](@/w/wiktor-longman.md). The feud between Taras and Bad Bones ended when the Polish wrestler was defeated at [PTW x RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
+Later on Taras - alongside his partners from PAKA - got involved in a feud against [Bad Bones](bad-bones.md), who was then trying to destroy Pawłowski and his federation from the inside. Taras was beaten up and injured after one of the training sessions held at [PTW Performance Center](@/v/ptw-targowa.md) by an annonymous attacker - who, almost two years later, was revealed to be [Longman](@/w/wiktor-longman.md). The feud between Taras and Bad Bones ended when the Polish wrestler was defeated at [PTW x Ryucon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
 
 #### Feud with Pure Gold
 
@@ -40,7 +40,7 @@ Not long after his defeat in his match against Bad Bones, Taras and PAKA started
 
 #### Championship reign
 
-PAKA made their first title defence at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where they faced Budapest Bastards. They emerged victorious, but afterwards an attack from Legia Łysych caused the match to be ruled no-contest by the Referee. After that Taras got involved in fighting off Legia Łysych and Gabriel Queen in a six-man tag team match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md), as well as some exhibition matches. He did not defend his championship until [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where he and Pablo faced [Budapest Bastards](@/tt/budapest-bastards.md), MxM Collection and [Sinister Kingdom](@/tt/sinister-kingdom.md). PAKA had ultimately lost the PTW Tag Team Championship to Budapest Bastards.
+PAKA made their first title defence at [PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where they faced Budapest Bastards. They emerged victorious, but afterwards an attack from Legia Łysych caused the match to be ruled no-contest by the Referee. After that Taras got involved in fighting off Legia Łysych and Gabriel Queen in a six-man tag team match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md), as well as some exhibition matches. He did not defend his championship until [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where he and Pablo faced [Budapest Bastards](@/tt/budapest-bastards.md), MxM Collection and [Sinister Kingdom](@/tt/sinister-kingdom.md). PAKA had ultimately lost the PTW Tag Team Championship to Budapest Bastards.
 
 #### Final feuds and departure
 

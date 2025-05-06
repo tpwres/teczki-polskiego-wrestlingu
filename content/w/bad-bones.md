@@ -35,7 +35,7 @@ John Klinger made his debut in Poland working for [Prime Time Wrestling](@/o/ptw
 Later on Bad Bones, portraying a villain, got involved in a feud against PTW's babyface stable PAKA. He was accused of attacking and seriously injuring [Taras](@/w/taras.md) after a training session at [PTW Performance Center](@/v/ptw-targowa.md).
 At [Underground 4](@/e/ptw/2022-04-24-ptw-underground-4.md) he defeated [Disco Pablo](@/w/disco-pablo.md), and later [Boro](@/w/boro.md) at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md). 
 During his feud with PAKA, he got embroiled in numerous altercations against PTW's owner and promoter [Pan Pawłowski](@/w/pan-pawlowski.md), who constantly threatened him with a suspension.
-Bad Bones finally finished PAKA in a match against Taras, which took place at [RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
+Bad Bones finally finished PAKA in a match against Taras, which took place at [Ryucon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
 
 #### Feud with Pawłowski
 

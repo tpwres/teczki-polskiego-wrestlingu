@@ -65,7 +65,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
   - s: Tag Team Match
     nc: No Contest
     ed: 2023-07-16
-    en: '[PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
+    en: '[PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
 - - 'Budapest Bastards: Renegade, Nitro'
   - 'PAKA: Disco Pablo, Taras(c)'
   - '[Sinister Kingdom](@/tt/sinister-kingdom.md): [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'

@@ -1,5 +1,5 @@
 +++
-title = "PTW x RyuCon 3"
+title = "PTW x Ryucon 3"
 template = "event_page.html"
 authors = ["Szymon Iwulski", "Joanna Ropelewska"]
 [taxonomies]
@@ -59,7 +59,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 * Diana Strong turned up next. Immediately signed the contract, and cut a babyface promo. She hypes the importance of her match, trash-talks Iva and gave an inspiring message to her fans: "you can climb every mountain with enough effort".
 * Announced as "The Moral Compass of Polish Wrestling", Puncher entered next. This nickname is referring to his recent social media persona.
   He signed the contract, and proceeded to put down the fans, especially cosplayers present, telling them that they are all losers who dress up to feel better.
-  Puncher reminded the crowd of his antics at previous RyuCon shows (first tearing a manga book, then burning one). He promised that the following day, they would get a dose of reality and a taste of his "Genetic Domination".
+  Puncher reminded the crowd of his antics at previous Ryucon shows (first tearing a manga book, then burning one). He promised that the following day, they would get a dose of reality and a taste of his "Genetic Domination".
   Pawłowski translated Puncher's rambling, confirming that Puncher has just made an open challenge.
 * With speed befitting his name, Max Speed ran to the table, quickly signing the contract.
   Next, out came his opponent, Alex Brave, who immediately signed as well.

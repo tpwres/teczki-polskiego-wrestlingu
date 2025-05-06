@@ -42,7 +42,7 @@ During that time he also made a one-time appearance at [PpW Supershow 2021](@/e/
 After leaving MZW, Aron followed most of [The Greens](@/tt/zieloni.md) faction, who decided to make a jump to [Prime Time Wrestling](@/o/ptw.md).
 He made his debut at [Underground #5](@/e/ptw/2022-05-29-ptw-underground-5.md), defeating [Vic Golden](@/w/vic-golden.md).
 During his second match at [Underground #6](@/e/ptw/2022-06-26-ptw-underground-6.md) he suffered a near career-ending collarbone and shoulder injury.
-Since that moment he made only one official appearance at [PTW x RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md), cutting a short promo.
+Since that moment he made only one official appearance at [PTW x Ryucon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md), cutting a short promo.
 He continued to appear in the crowd during PTW shows, but ultimately [left the federation](@/a/ptw-exits.md) shortly after [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 
 ### PpW Ewenement (2024-present)
