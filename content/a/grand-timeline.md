@@ -144,7 +144,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2022
 
 * KPW is [invited to Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), Poland's biggest fan convention. The show is successful, and will become a recurring staple of the event.
-* Not to be outdone, PTW becomes [part of RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
+* Not to be outdone, PTW becomes [part of Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
 * PTW holds their Underground series of shows regularly almost every month, giving fans more wrestling than ever before. From the [fourth show](@/e/ptw/2022-04-24-ptw-underground-4.md) onwards, they are streamed live on FITE and YouTube.
 * Jacob Crane quits PTW after only a year, appears as a surprise contender for PpW and becomes their coach.
 

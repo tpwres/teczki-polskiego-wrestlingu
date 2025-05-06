@@ -27,7 +27,7 @@ For the first few shows PAKA focused on establishing themselves as babyfaces and
 
 ### Feud wih Bad Bones
 
-Later on PAKA got involved in a feud against [Bad Bones](bad-bones.md), who was then trying to destroy Pawłowski and his federation from the inside. At [PTW Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md) Boro competed against Bad Bones and suffered a knee injury, which had been his weak point since the MZW days of his career. For the next couple of shows Boro was sidelined as the manager of his PAKA teammates. Later, after one of the training sessions held at the [PTW Performance Center](@/v/ptw-targowa.md), Taras was beaten up and injured by an annonymous attacker - who, almost two years later, was revealed to be [Longman](@/w/wiktor-longman.md). The feud between Taras and Bad Bones ended when the Polish wrestler was defeated at [PTW x RyuCon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
+Later on PAKA got involved in a feud against [Bad Bones](bad-bones.md), who was then trying to destroy Pawłowski and his federation from the inside. At [PTW Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md) Boro competed against Bad Bones and suffered a knee injury, which had been his weak point since the MZW days of his career. For the next couple of shows Boro was sidelined as the manager of his PAKA teammates. Later, after one of the training sessions held at the [PTW Performance Center](@/v/ptw-targowa.md), Taras was beaten up and injured by an annonymous attacker - who, almost two years later, was revealed to be [Longman](@/w/wiktor-longman.md). The feud between Taras and Bad Bones ended when the Polish wrestler was defeated at [PTW x Ryucon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md).
 
 ### Feud with Pure Gold
 
@@ -35,7 +35,7 @@ Not long after, Taras and PAKA started a feud with [Pure Gold](@/tt/pure-gold.md
 
 ### Championship reign
 
-PAKA made their first title defence at [PTW x RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where they faced [Budapest Bastards](@/tt/budapest-bastards.md). They emerged victorious, but afterwards an attack from Legia Łysych and Vic Golden caused the match to be ruled a no-contest by the referee. Both babyface teams chased the heels off and celebrated together.
+PAKA made their first title defence at [PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where they faced [Budapest Bastards](@/tt/budapest-bastards.md). They emerged victorious, but afterwards an attack from Legia Łysych and Vic Golden caused the match to be ruled a no-contest by the referee. Both babyface teams chased the heels off and celebrated together.
 
 After that PAKA's members continued to fight members of Legia and Pure Gold, who formed an alliance to dethrone the champions.
 They faced off against Legia Łysych and Gabriel Queen in a six-man tag team match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md), which was their last match as a trio.

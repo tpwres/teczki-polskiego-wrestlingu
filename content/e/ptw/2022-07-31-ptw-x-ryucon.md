@@ -1,5 +1,5 @@
 +++
-title = "PTW X RyuCon 2022"
+title = "PTW X Ryucon 2022"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
@@ -11,10 +11,10 @@ city = "Kraków"
 manifest = "@/e/ptw/2022-07-31-ptw-x-ryucon-gallery.toml"
 +++
 
-PTW X RyuCon was held at the [Tauron Arena](@/v/tauron-arena.md), Kraków on July 31st, 2022. The Tauron Arena is a large venue, the wrestling show was hosted in a smaller side room in the conference section of the arena. The event was not streamed on any official channels.
+PTW X Ryucon was held at the [Tauron Arena](@/v/tauron-arena.md), Kraków on July 31st, 2022. The Tauron Arena is a large venue, the wrestling show was hosted in a smaller side room in the conference section of the arena. The event was not streamed on any official channels.
 
 This was the first time [PTW](@/o/ptw.md) appeared as part of a fan convention.
-They partnered with RyuCon, one of the biggest Polish anime/manga conventions, which takes place annually in Kraków.
+They partnered with Ryucon, one of the biggest Polish anime/manga conventions, which takes place annually in Kraków.
 Earlier that same year, [KPW](@/o/kpw.md) made a similar appearance at Poland's biggest fan convention [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md).
 
 For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many independent European organizations. His scheduled opponent was Krampus, but he failed to appear, and was replaced with Marcelito.
