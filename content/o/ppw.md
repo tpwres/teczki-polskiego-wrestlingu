@@ -63,7 +63,7 @@ Over the course of 2024 and further into 2025, PpW increased the frequency of th
 
 On the 28th December 2024 PpW launched their [official subscription-based VOD][ppw-vod] with uncensored versions of their shows (including ones previously not available on YouTube), as well as exclusive bonus materials.
 
-At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, further described in [separate article](@/a/pmshooter-saga.md).
+At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, further described in ą [separate article](@/a/pm-shooter-saga.md).
 
 ### Lost lore
 
