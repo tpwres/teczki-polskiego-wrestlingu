@@ -7,7 +7,7 @@ venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery"
+manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
 +++
 
 {% card() %}
