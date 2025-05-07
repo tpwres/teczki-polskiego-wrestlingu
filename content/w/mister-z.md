@@ -66,6 +66,12 @@ At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-frida
 
 At the next show - [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) - Mister Z offered Axel a chance to change his fate in PpW and join Mister Z to achieve success, instead of allying himself with "losers", such as Goblin.
 
+#### Biesiad and Blade
+
+Over the first half of 2025, Z revisited his feud with Blade and Biesiad, this time involving mercenaries from PpW's sponsor - PM Shooter. Details can be seen in separate [article](@/a/pmshooter-saga.md).
+At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)), Mister Z competed in _20 Typa, 20 Broni_ battle royal for [PpW Championship](@c/ppw-championship.md) title shot, to no success.
+After the events of [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), he is set to face Biesiad at [Ledwo Legalne 5](@/content/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a _Cieśla Match_.
+
 ### Dream Factory Wrestling (2017)
 
 In September and December 2017 Mister Z - under his "Cade Bruce" alias - made appearances at two shows organised by [Dream Factory Wrestling](@/o/dfw.md). He lost to [Prince Victor](@/w/vic-golden.md) and in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). He also lost to [Corin Mear](@/w/corin-mear.md) at [DFW Dream More And Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md).
