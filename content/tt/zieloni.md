@@ -11,7 +11,21 @@ orgs = ["ptw", "ppw", "mzw", "low"]
 
 "Zieloni" (_The Greens_) is the name of a group of Polish wrestlers who were originally connected to [Maniac Zone Wrestling](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_.
 
-<!-- more -->
+## History
+
+#### Formation in Maniac Zone Wrestling
+
+The group later to be named "Zieloni" formed itself from wrestlers and adepts who attended 2018 edition of Summer Camp hosted by [Polska Akademia Wrestlingu](@/o/paw.md) - a dojo operated by [Maniac Zone Wrestling](@/o/mzw.md). Few of the Zieloni knew each other either from previous trainings in MZW, backyard federations such as [Dream Factory Wrestling](@/o/dfw.md) or from online activity, but class of 2018 PAW Summer Camp was the one, where most of them got along officially. Since then, the group created strongly bonded social group. The group was heavly influenced by teachings of [Justin Joy](@/w/justin-joy.md), who brought a lot of experience from his stint at UK wrestling scene, as well as his approach which pushed many of The Greens to quickly attempt wrestling abroad, instead of only getting bookings in MZW, to develop themselves as a performers, which helped many of The Greens such as [Jacob Crane](@/w/jacob-crane.md), [Axel Fox](@/w/axel-fox.md) and [Gabriel Queen](@/w/gabriel-queen.md) in future. 
+
+After [Project 6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) both [Asmund](@/w/asmund.md) and Justin left MZW creative team and PAW coaching staff, with Justin eventually leaving MZW altogether after MZW [next show](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md). 
+
+#### Green Revolution and leaving MZW
+
+During the pandemic break The Greens remained bonded together socially, but due halt which was put on organising wrestling shows and trainings in Poland and Europe altogether the morale went down. In early-to-mid 2021 [Boro](@/w/boro.md) and Axel Fox left MZW. They were soon followed by Jacob Crane and Gabriel Queen. It was later revealed that they joined newly created federation owned by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) called [Prime Time Wrestling](@/o/ptw.md). During that time overall upset among remaining Greens caused by lack of development in MZW caused many of workers to go rouge and perform in [PpW](@/o/ppw.md) at [Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) and [Supershow in Poznań](@/e/ppw/2021-07-30-ppw-poznan-supershow.md) against MZW's owner [Shadow](@/w/shadow.md) will. Non-PTW Greens also attended [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) to support their friends who were working during that show.
+
+27th October 2021 was the final straw between Zieloni and MZW management. The day was named "Zielona Rewolucja" (_Green Revolution_). Practically, it was a whole-day long quarell between MZW management and The Greens led by [Olgierd](@/w/olgierd.md) started by MZW's ban on training women, which was a excuse to lash out on MZW's for many other problems such as: lack of any stable direction of MZW's development, irregular schedule of training sessions and disapproval over MZW's Greens appearing on other federation shows even as spectactors, let alone as performers. Eventually, both sides were unable to reach any agreement, which led the remaining Greens to leave MZW the same day. 
+
+
 
 However, not all MZW wrestlers are Greens. The group was started by wrestlers who joined in 2017/2018, and created a strongly bonded social group, connected by their wrestling endeavors.
 Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also started their training in MZW, or [Shadow](@/w/shadow.md) who created the organization, are not considered to be Greens.
