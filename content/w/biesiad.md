@@ -77,7 +77,7 @@ At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) he and Johnny were
 They circumvented the ban by simply buying tickets, and managed to save Axel Fox from getting jumped by Mister Z and Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)), after he declined an offer to join Zmowa.
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Mister Z reinstated Biesiad, but challenged him to a Beat the Clock Challenge. Should he lose, he would become Z's bodyguard. Nevertheless Biesiad won, retaining his freedom.
 
-This didn't end the feud with Mister Z, however, as prior to [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) the PpW producer kidnapped and tied up Biesiad's friend Johnny Blade. Further details of that angle can be seen in a [separate article](@/a/pmshooter-saga.md).
+This didn't end the feud with Mister Z, however, as prior to [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) the PpW producer kidnapped and tied up Biesiad's friend Johnny Blade. Further details of that angle can be seen in a [separate article](@/a/pm-shooter-saga.md).
 
 Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad is set to face Mister Z at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match.
 
