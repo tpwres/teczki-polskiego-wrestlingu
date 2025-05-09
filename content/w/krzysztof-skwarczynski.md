@@ -1,5 +1,5 @@
 +++
-title = "Superior"
+title = "Krzysztof Skwarczyński"
 template = "talent_page.html"
 authors = ["M3n747"]
 [extra]
