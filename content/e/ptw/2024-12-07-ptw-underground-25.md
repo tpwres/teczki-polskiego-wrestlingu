@@ -76,7 +76,7 @@ For this event, PTW invited several debuting wrestlers:
   - '[El Homo (PTW)](@/w/lukasz-okonski.md)'
   - s: Singles Match
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - Krzysztof Skwarczyński
+  - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
   - g: Post-match interview
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Spartan](@/w/spartan.md)'

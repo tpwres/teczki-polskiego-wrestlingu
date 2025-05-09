@@ -57,7 +57,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: Pawłowski turns on his business partner
 - credits:
-    Host, ring announcer: 'Krzysztof Skwarczyński'
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
 {% end %}
 
