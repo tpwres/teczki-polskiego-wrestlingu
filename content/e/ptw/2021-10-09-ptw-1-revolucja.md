@@ -54,7 +54,7 @@ city = "Chorzów"
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
     Interviewer: 'Łukasz "Broda" Mitura'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
-    Panel host: 'Krzysztof Skwarczyński'
+    Panel host: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Panel guests: 'Sylwia Cross, Paweł "Trybson" Trybała'
 {% end %}
 
