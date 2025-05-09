@@ -1,6 +1,5 @@
 +++
 title = "PpW Ewenement"
-weight = 3
 template = "org_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]

@@ -1,6 +1,5 @@
 +++
 title = "PTW Academy"
-weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [extra]

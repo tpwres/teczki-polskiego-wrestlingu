@@ -1,6 +1,5 @@
 +++
 title = "Do Or Die Wrestling"
-weight = 0
 template = "org_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]

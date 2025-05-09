@@ -1,6 +1,5 @@
 +++
 title = "Legacy of Wrestling"
-weight = 1
 authors = ["M3n747", "Szymon Iwulski"]
 template = "org_page.html"
 [taxonomies]

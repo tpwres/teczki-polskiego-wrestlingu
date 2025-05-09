@@ -1,6 +1,5 @@
 +++
 title = "Pomerania Indy Wrestling Group"
-weight = 1
 authors = ["M3n747"]
 template = "org_page.html"
 [extra]
