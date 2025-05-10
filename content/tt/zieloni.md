@@ -1,7 +1,6 @@
 +++
 title = "Zieloni"
-weight = 0
-template = "article.html"
+template = "team_page.html"
 aliases = ["/a/the-greens", "/a/zieloni"]
 authors = ["Sewi The Referee"]
 [extra]
