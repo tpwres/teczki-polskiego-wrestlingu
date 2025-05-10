@@ -2,6 +2,7 @@ from json import JSONEncoder
 from collections import Counter
 import tomllib
 import re
+from typing import TextIO
 
 invalid_names_re = re.compile(r'^([?]+|TBA|Unknown\d*)$')
 
@@ -60,3 +61,22 @@ class RichEncoder(JSONEncoder):
                 return dict(o)
             case _:
                 return super().default(o)
+
+class SkipComments:
+    """
+    Wraps an IO object, and provides iteration over its lines.
+    Skips lines that start with a comment marker (#)
+    """
+    def __init__(self, io: TextIO):
+        self.io = iter(io.readlines())
+
+    def __iter__(self):
+        return self
+
+    def __next__(self) -> str:
+        while True:
+            line = next(self.io)
+            if not line.startswith('#'):
+                break
+
+        return line
