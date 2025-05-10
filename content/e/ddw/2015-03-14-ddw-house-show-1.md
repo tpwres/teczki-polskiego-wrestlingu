@@ -7,8 +7,7 @@ venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-1 = { path = "2015-03-14-ddw-house-show-1-plakat.jpg", caption = "Official poster. Left to right: [Robert Star](@/w/robert-star.md), [Klarys](@/w/klarys.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official DDW Facebook" }
-2 = { path = "2015-03-14-ddw-house-show-1-mira-vs-kasandra-drawing.jpg", caption = "A young fan's drawing of [Mira](@/w/mira.md) vs [Kasandra](@/w/kasandra.md)", source = "Official DDW Facebook" }
+manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
 +++
 
 {% card() %}
@@ -38,7 +37,7 @@ city = "Gdańsk"
   - s: Three Way Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md), ???, [Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
 #### Battle Royal
