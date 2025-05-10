@@ -1,0 +1,61 @@
+# name,org,start,end,layer,band
+# The last two are technically optional but recommended
+# Layer is anything. Stripes on the same layer will draw over each other, in the order specified.
+# To push a stripe down, use a different layer.
+# band is a/N, e.g. 1/3, 2/3, 3/3. These mean a stripe of 1/3 height, positioned at the top, middle and bottom respectively
+# If layer is not specified, a default value of '0' is used, i.e. all rows without a layer will be drawn on a single one
+# If band is not specified, 1/1 is used (full height)
+# A special layer is !, which draws vertical lines. In that case, org,end and band are not used,and the name is a label for that line
+Green Revolution,,2021-10-27,-,!
+Total Blast From The Past,,2024-06-05,-,!
+Aron Wake,mzw,2019-08,2021-10,A
+Aron Wake,ptw,2022-05,2024-06,A
+Aron Wake,ppw,2024-07,-,A,1/3
+Aron Wake,mzw,2024-10,-,A,2/3
+Aron Wake,low,2024-12,-,A,3/3
+Axel Fox,dfw,2017-04,2017-05,A
+Axel Fox,mzw,2017-12,2020-01,A
+Axel Fox,ptw,2021-10,2024-05,A
+Axel Fox,ppw,2024-07,-,A,1/2
+Axel Fox,low,2024-12,-,A,2/2
+Boro,mzw,2017-12,2020-01
+Boro,ptw,2021-10,2024-06
+Gabriel Queen,mzw,2019-08,2021-06,A
+Gabriel Queen,ppw,2021-07,2021-08,A
+Gabriel Queen,ptw,2021-10,2023-10,A
+Gabriel Queen,ppw,2023-11,-,A,1/2
+Gabriel Queen,low,2024-12,-,A,2/2
+Isnorr,dfw,2016-06,2018-06
+Isnorr,mzw,2019-08,2021-08
+Isnorr,ppw,2021-06,2021-08,0,1/2
+Isnorr,ppw,2021-08,2025-05
+Jacob Crane,mzw,2017-12,2021-05
+Jacob Crane,ptw,2021-10,2022-06
+Jacob Crane,ppw,2022-09,-
+Madman Charlie,dfw,2015-06,2017-09
+Madman Charlie,ppw,2016-07,2016-08
+Madman Charlie,mzw,2017-12,2021-07
+Madman Charlie,ppw,2021-06,2021-07
+Madman Charlie,ppw,2022-11,-
+Olgierd,ppw,2016-04,2016-09,A
+Olgierd,mzw,2019-08,2021-09,A
+Olgierd,ppw,2021-06,2021-07,A
+Olgierd,ppw,2021-07,2021-08,A
+Olgierd,ptw,2022-10,2024-06,A
+Olgierd,ppw,2024-06,-,A
+Rafael Kid,dfw,2015-06,2017-10,A,1/2
+Rafael Kid,mzw,2017-02,2021-09,A,2/2
+Rafael Kid,ppw,2022-09,2022-10,A
+Sewi,mzw,2021-03,2021-09,A
+Sewi,ptw,2022-01,2024-06,A
+Sewi,ppw,2024-07,-,A,1/3
+Sewi,mzw,2024-10,-,A,2/3
+Sewi,low,2024-12,-,A,3/3
+Vic Golden,ddw,2015-03,2015-05,A
+Vic Golden,dfw,2016-01,2016-02,A
+Vic Golden,mzw,2016-09,2017-03,A
+Vic Golden,dfw,2017-06,2017-10,A
+Vic Golden,mzw,2021-03,2021-08,A
+Vic Golden,ptw,2022-03,2023-07,A
+Vic Golden,ppw,2024-04,-,A,1/2
+Vic Golden,low,2025-04,-,A,2/2
