@@ -12,25 +12,7 @@ from sys import argv, stdout, stderr
 from datetime import datetime, timedelta
 import csv
 from typing import TextIO
-
-class SkipComments:
-    """
-    Wraps an IO object, and provides iteration over its lines.
-    Skips lines that start with a comment marker (#)
-    """
-    def __init__(self, io: TextIO):
-        self.io = iter(io.readlines())
-
-    def __iter__(self):
-        return self
-
-    def __next__(self) -> str:
-        while True:
-            line = next(self.io)
-            if not line.startswith('#'):
-                break
-
-        return line
+from utils import SkipComments
 
 def ym(text: str) -> datetime:
     "Parses year-month date into a datetime object."

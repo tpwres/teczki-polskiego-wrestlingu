@@ -48,3 +48,10 @@ Later they were also active in [PpW](@/o/ppw.md) since 2023.
 
 * The Greens are also known as Zielone Małpy (_Green Monkeys_) and their official mascot, used in their "shoot" promos and Instagram notes, is an orangutan "🦧".
 * The group has their own insider championship, called "ZLN GNG Championship", shown mostly on their social media during the group's meetings. It was created by modifying the [DFW championship](@/c/dfw-championship.md) belt, replacing its mainplate with a green one. The sideplates show wrestler Dave Batista.
+
+## Timeline
+
+
+{% embed_svg(path="data/zieloni.svg") %}
+Members of Zieloni wrestled all over the Polish scene.
+{% end %}

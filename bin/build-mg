@@ -5,6 +5,6 @@ from pathlib import Path
 
 srcdir = Path(__file__).resolve().parent / '../src'
 sys.path.insert(0, str(srcdir))
-import bin.event_calendar as calendar
+import bin.membership as mmm
 
-calendar.main()
+mmm.main()
