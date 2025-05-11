@@ -1,5 +1,6 @@
 +++
 title = "Prime Time Wrestling"
+weight = 4
 template = "org_page.html"
 authors = ["Szymon Iwulski", "Sewi The Referee"]
 [taxonomies]

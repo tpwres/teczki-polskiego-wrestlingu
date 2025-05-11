@@ -1,5 +1,6 @@
 +++
 title = "New Quality Wrestling"
+weight = 0
 template = "org_page.html"
 authors = ["M3n747"]
 [extra]

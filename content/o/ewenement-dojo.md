@@ -1,5 +1,6 @@
 +++
 title = "Ewenement Dojo"
+weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [extra]

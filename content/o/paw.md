@@ -1,5 +1,6 @@
 +++
 title = "Polska Akademia Wrestlingu"
+weight = 4
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [extra]

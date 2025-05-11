@@ -1,5 +1,6 @@
 +++
 title = "Maniac Zone Wrestling"
+weight = 2
 authors = ["Krzysztof Zych"]
 template = "org_page.html"
 [taxonomies]
