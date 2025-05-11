@@ -14,7 +14,7 @@ from matplotlib import pyplot as plt
 from matplotlib import patches as pat
 from matplotlib import colors
 from matplotlib import transforms
-from matplotlib.dates import AutoDateLocator
+from matplotlib.dates import AutoDateLocator, YearLocator, MonthLocator
 from utils import SkipComments
 import csv
 from itertools import groupby
@@ -121,14 +121,10 @@ def process(in_fd, out_fd):
     # For each name, produce a list of line segments, each starting at start-date, ending at end-date
     # and with the color looked up by org in an org_colors map
 
-    _fig, ax = plt.subplots(figsize=(10, 6),layout='constrained')
-    loc = AutoDateLocator()
-    loc.intervald[YEARLY] = [1]
-    ax.xaxis.set_major_locator(loc)
-    loc = AutoDateLocator()
-    loc.intervald[MONTHLY] = [6]
-    ax.xaxis.set_minor_locator(loc)
-    ax.xaxis.grid(visible=True, alpha=0.4)
+    _fig, ax = plt.subplots(figsize=(10, 4),layout='constrained')
+    ax.xaxis.set_major_locator(YearLocator())
+    ax.xaxis.set_minor_locator(MonthLocator(bymonth=[4,7,10]))
+    ax.xaxis.grid(visible=True, alpha=0.4, which='both')
 
     labels = {}
     orgs_used = set()
