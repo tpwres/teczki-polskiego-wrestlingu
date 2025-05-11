@@ -8,7 +8,7 @@ compact_event_list = true
 [taxonomies]
 chrono_root = ["bwd"]
 [extra.gallery]
-manifest = "@/o/bwd/bwd-gallery.toml"
+manifest = "@/o/bwd-gallery.toml"
 +++
 
 Backyard Wrestling Division was a backyard group from Chrzanów, founded in March 2003 by Vamp, Lef and Kidmanek (A.K.A. Kid Crusher). At first it was called Hardcore Wrestling Division, but changed its name to BWD at some point between April and July 2003, according to surviving snapshots on Archive.org. The same source also suggests that BWD quietly shut down at some point in mid-2004. Despite the official starting date being given as March 2003, two events are known to have taken place at an earlier time. BWD planned to hold monthly shows, but this didn't pan out.
