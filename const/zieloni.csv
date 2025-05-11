@@ -6,6 +6,7 @@
 # If layer is not specified, a default value of '0' is used, i.e. all rows without a layer will be drawn on a single one
 # If band is not specified, 1/1 is used (full height)
 # A special layer is !, which draws vertical lines. In that case, org,end and band are not used,and the name is a label for that line
+PAW Summer Camp,,2018-06,-,!
 Green Revolution,,2021-10-27,-,!
 Total Blast From The Past,,2024-06-05,-,!
 Aron Wake,mzw,2019-08,2021-10,A
@@ -32,11 +33,11 @@ Isnorr,ppw,2021-08,2025-05
 Jacob Crane,mzw,2017-12,2021-05
 Jacob Crane,ptw,2021-10,2022-06
 Jacob Crane,ppw,2022-09,-
-Madman Charlie,dfw,2015-06,2017-09
-Madman Charlie,ppw,2016-07,2016-08
-Madman Charlie,mzw,2017-12,2021-07
-Madman Charlie,ppw,2021-06,2021-07
-Madman Charlie,ppw,2022-11,-
+Madman Charlie,dfw,2015-06,2017-09,0,1/2
+Madman Charlie,ppw,2016-07,2016-08,0,2/2
+Madman Charlie,mzw,2017-12,2021-07,0,1/2
+Madman Charlie,ppw,2021-06,2021-07,0,2/2
+Madman Charlie,ppw,2022-11,-,0
 Olgierd,ppw,2016-04,2016-09,A
 Olgierd,mzw,2019-08,2021-09,A
 Olgierd,ppw,2021-06,2021-07,A
