@@ -5,6 +5,7 @@ aliases = ["/a/the-greens", "/a/zieloni"]
 authors = ["Sewi The Referee"]
 [extra]
 toclevel = 3
+omit_career = true
 orgs = ["ptw", "ppw", "mzw", "low"]
 +++
 
