@@ -14,13 +14,13 @@ This was a show by [Backyard Wrestling Division](@/o/bwd.md). The exact number o
 {% card(predicted=true) %}
 - - 'Mr. Oko'
   - 'Miś w Masce'
-  - nc: ?
+  - nc: '?'
 - - 'ManowaR'
   - 'KAT (BWD)'
-  - nc: ?
+  - nc: '?'
 - - 'Kid Crusher'
   - 'KAT (BWD)'
-  - nc: ?
+  - nc: '?'
 - - 'Vamp'
   - 'KAT (BWD)'
   - 'Kid Crusher'
@@ -30,7 +30,7 @@ This was a show by [Backyard Wrestling Division](@/o/bwd.md). The exact number o
   - 'Obbo'
   - 'Sebo'
   - s: BWD Royal Rumble
-    nc: ?
+    nc: '?'
 {% end %}
 
 #### Recap
