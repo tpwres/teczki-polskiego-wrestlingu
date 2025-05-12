@@ -30,6 +30,7 @@ template = "index.html"
 
 | Years active | Name | Location |
 |--:|---|---|
+| 2003-2004 | [Backyard Wrestling Division](@/o/bwd.md) | Chrzanów |
 | 2005-2009 | {{ org_badge(org='piwg') }} [Pomerania Indy Wrestling Group](@/o/piwg.md) | Skórcz, Starogard Gdański, Gdańsk |
 | 2007-2009 | [New Quality Wrestling](@/o/nqw.md) | Warsaw |
 | 2009-2015 | {{ org_badge(org='ddw') }} [Do Or Die Wrestling](@/o/ddw.md) | Warsaw, Rzeszów, Gdańsk |
