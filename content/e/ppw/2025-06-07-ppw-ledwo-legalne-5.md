@@ -24,6 +24,7 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
   * As [Mister Z](@/w/mister-z.md) granted [Biesiad](@/w/biesiad.md) the opportunity to fight him at this show, Biesiad immediately declared it to be a Cieśla (_Carpenter_) Match, presumably involving lots of furniture.
   * [Axel Fox](@/w/axel-fox.md) challenged [Olgierd](@/w/olgierd.md).
 * The Enigma Scramble match at the same show ended with three out of four wrestlers scoring one point: Sentinel, Wonder Haze and [Sambor](@/w/sambor.md). All of them were granted a match at this show, with no further details given.
+* At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) [Vic Golden](@/w/vic-golden.md) betrayed and backstabbed his former friend [Gabriel Queen](@/w/gabriel-queen.md), later explaining that he was fed up with Queen getting all the biggest chances, while he got nothing.
 
 {% card(predicted=true) %}
 - - Sentinel
