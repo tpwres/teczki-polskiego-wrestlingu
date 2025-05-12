@@ -36,8 +36,8 @@ d_horror-06 = { path = "hh_6.jpg", caption = "Househorror.<br/>Vamp carries KAT.
 e_trening-021 = { path = "trening021.jpg", caption = "November training session.<br/>Close-up of Kid Crusher's T-shirt.", source = "Official BWD page / Archive.org" }
 e_trening-022 = { path = "trening022.jpg", caption = "November training session.<br/>Detail of ManowaR's T-shirt.", source = "Official BWD page / Archive.org" }
 e_trening-023 = { path = "trening023.jpg", caption = "November training session.<br/>Close-up of ManowaR's T-shirt.", source = "Official BWD page / Archive.org" }
-e_trening-025 = { path = "trening025.jpg", caption = "November training session.<br/>Close-up of Vamp's other T-shirt.", source = "Official BWD page / Archive.org" }
-e_trening-026 = { path = "trening026.jpg", caption = "November training session.<br/>Close-up of Vamp's T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-025 = { path = "trening025.jpg", caption = "November training session.<br/>Close-up of Vamp's T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-026 = { path = "trening026.jpg", caption = "November training session.<br/>Close-up of Vamp's other T-shirt.", source = "Official BWD page / Archive.org" }
 e_trening-028 = { path = "trening028.jpg", caption = "November training session.<br/>Vamp and ???.", source = "Official BWD page / Archive.org" }
 e_trening-049 = { path = "trening049.jpg", caption = "November training session.<br/>ManowaR and Kid Crusher.", source = "Official BWD page / Archive.org" }
 e_trening-051 = { path = "trening051.jpg", caption = "November training session.<br/>??? and Vamp.", source = "Official BWD page / Archive.org" }
