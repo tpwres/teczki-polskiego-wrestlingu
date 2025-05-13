@@ -20,6 +20,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
 * Gimmicks/nicknames:
   - Mister Z {{ org_badge(orgs=['ppw', 'mzw']) }}
   - Jim Enerico {{ org_badge(orgs=['ppw']) }} (2015-2017)
+  - Electrico {{ org_badge(orgs=['ppw']) }} (2015; later only at non-canon shows)
   - Cade Bruce {{ org_badge(orgs=['dfw', 'ppw']) }} (2017; later only at non-canon shows)
   - Jim Hardy {{ org_badge(orgs=['ppw']) }} (2013-2015)
   - Miłosz Z {{ org_badge(orgs=['ppw']) }} (non-canon shows)
