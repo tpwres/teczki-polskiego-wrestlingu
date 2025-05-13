@@ -21,7 +21,7 @@ Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.m
   - "The Acid Messiah" Goblin {{ org_badge(orgs=['ppw', 'mzw']) }}
   - Gremlin {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Mikey Beerman {{ org_badge(orgs=['ppw']) }} (non-canon shows)
-  - El Senior Cerveza {{ org_badge(orgs=['ppw']) }} (non-canon shows)
+  - El Señor Cerveza {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Larwa {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Brat Kimono {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Karol M {{ org_badge(orgs=['ppw']) }} (non-canon shows)
