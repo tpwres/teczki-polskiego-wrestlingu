@@ -16,7 +16,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 ### Build-up
 
-* On 13.05.2025 MZW [announced][walizka] an eight-man tournament to be held at the show. The winners of each individual fight are going to take part in the main event, with the main price being a contract briefcase. The contract will allow the tournament winner to challenge the current [MZW Champion](@/c/mzw-championship.md) _or_ the [PpW Champions](@/c/ppw-championship.md) - a first on the Polish wrestling scene. The contract can be used at any moment.
+* On 13.05.2025 MZW [announced][walizka] an eight-man tournament to be held at the show. The winners of each individual fight are going to take part in the main event (whose stipulation will be given at a later date), with the main prize being a contract briefcase. The contract will allow the tournament winner to challenge the current [MZW Champion](@/c/mzw-championship.md) _or_ the [PpW Champions](@/c/ppw-championship.md) - a first on the Polish wrestling scene. The contract can be used at any moment.
 
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
