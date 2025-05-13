@@ -7,7 +7,6 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
-hide_results = true
 [extra.gallery]
 manifest = "@/e/mzw/2025-06-28-mzw-green-madness-gallery.toml"
 +++
@@ -17,24 +16,40 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 ### Build-up
 
-* TBD
+* On 13.05.2025 MZW [announced][walizka] an eight-man tournament to be held at the show. The winners of each individual fight are going to take part in the main event (whose stipulation will be given at a later date), with the main prize being a contract briefcase. The contract will allow the tournament winner to challenge the current [MZW Champion](@/c/mzw-championship.md) _or_ the [PpW Champions](@/c/ppw-championship.md) - a first on the Polish wrestling scene. The contract can be used at any moment.
 
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
   - '???'
-  - nc: upcoming
+  - n: Tournament qualifying match
+    nc: upcoming
 - - '[Marcelito](@/w/marcelito.md)'
   - '???'
-  - nc: upcoming
+  - n: Tournament qualifying match
+    nc: upcoming
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '???'
-  - nc: upcoming
+  - n: Tournament qualifying match
+    nc: upcoming
+- - '???'
+  - '???'
+  - n: Tournament qualifying match
+    nc: upcoming
+- - '???'
+  - '???'
+  - '???'
+  - '???'
+  - s: TBA
+    n: Tournament Final
+    nc: upcoming
 {% end %}
 
 ### Recap
 
 * TBD
 
-### References:
+### References
 
-* [MZW announces the show via Facebook](https://www.facebook.com/photo/?fbid=1096604642497925&set=a.548442050647523)
+* [Announcement post on Facebook](https://www.facebook.com/photo/?fbid=1096604642497925&set=a.548442050647523)
+
+[walizka]: https://www.facebook.com/photo/?fbid=1108274157997640&set=a.548442050647523
