@@ -48,8 +48,8 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 * TBD
 
-### References:
+### References
 
-* [MZW announces the show via Facebook](https://www.facebook.com/photo/?fbid=1096604642497925&set=a.548442050647523)
+* [Announcement post on Facebook](https://www.facebook.com/photo/?fbid=1096604642497925&set=a.548442050647523)
 
 [walizka]: https://www.facebook.com/photo/?fbid=1108274157997640&set=a.548442050647523
