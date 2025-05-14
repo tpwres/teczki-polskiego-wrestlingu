@@ -53,9 +53,9 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * Paweł Borkowski contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They create PPWF (Polish Pro-Wrestling Federation), which only manages to hold training sessions, but no shows due to lack of interest.
 * Andrzej Supron buys a ring for PPWF.
 
-#### 2005
+#### 2000-2005
 
-* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are [Pomerania Indy Wrestling Group](@/o/piwg.md) from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
+* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards include [Hardcore/Backyard Wrestling Division](@/o/bwd.md) from Chrzanów and [Pomerania Indy Wrestling Group](@/o/piwg.md) from Gdańsk. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
 
 #### 2006
 
