@@ -30,7 +30,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - '[Spartan](@/w/spartan.md)'
   - g: "Pawłowski's confession"
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - 'Newt Nova'
+  - '[Newt Nova](@/w/newt-nova.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Amy Heartbeat'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"

@@ -39,7 +39,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Polski Niedźwiedź'
   - n: Puncher Challenge
-- - 'Newt Nova'
+- - '[Newt Nova](@/w/newt-nova.md)'
   - 'Alex Sixxx'
   - 'Mike Solaris'
   - s: International Showcase Match

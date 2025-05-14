@@ -26,7 +26,7 @@ The event saw the return of LaVonce and the PTW debut of British wrestler Nights
 - - '[Spartan](@/w/spartan.md)'
   - '[Luca Bjorn](@/w/luca-bjorn.md)'
 - - '[Krampus](@/w/krampus.md)'
-  - 'Newt Nova'
+  - '[Newt Nova](@/w/newt-nova.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: Triple Threat Match
 - - 'LaVonce'
