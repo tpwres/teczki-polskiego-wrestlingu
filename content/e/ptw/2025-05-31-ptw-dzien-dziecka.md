@@ -22,22 +22,22 @@ city = "Kozłów"
   * [Max Speed](@/w/max-speed.md) to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md)
   * [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) and [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) to make a co-announcement
 {% card(predicted=true) %}
-- - "[Dawid "Puncher" Seńko](@/w/puncher.md)"
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - ???
   - nc: upcoming
-- - ["Starboy" Nano Lopez](@/w/nano-lopez.md)
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - ???
   - nc: upcoming
-- - "[Diana Strong](@/w/diana-strong.md)"
+- - '[Diana Strong](@/w/diana-strong.md)'
   - ???
   - nc: upcoming
-  - "[Max Speed](@/w/max-speed.md)"
+  - '[Max Speed](@/w/max-speed.md)'
   - ???
-  - c: "[PTW Underground Championship](@/c/ptw-underground-championship.md)"
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
-- - [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)
-  - [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)
-  - g: "Chairmen to make an announcement"
+- - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+  - g: 'Chairmen to make an announcement'
     nc: upcoming
   
 {% end %}
