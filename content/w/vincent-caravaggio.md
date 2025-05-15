@@ -23,7 +23,7 @@ Vincent Caravaggio is a Polish pro-wrestler performing for [Prime Time Wrestling
 
 ### Prime Time Wrestling (2023-present)
 
-Caravaggio made his pre-debut cameo appearance in an in ring segment at [Underground 15](content/e/ptw/2023-05-28-ptw-underground-15.md). In the segment where changes to [PTW Academy](@/o/ptw-academy.md) were announced, Vincent, introduced by his first name Kornel, made a short speech about his experience as a PTW trainee.
+Caravaggio made his pre-debut cameo appearance in an in-ring segment at [Underground 15](content/e/ptw/2023-05-28-ptw-underground-15.md). In the segment where changes to [PTW Academy](@/o/ptw-academy.md) were announced, Vincent - introduced by his first name Kornel - made a short speech about his experience as a PTW trainee.
 
 #### Debut and first feuds
 
