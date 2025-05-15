@@ -21,6 +21,7 @@ city = "Kozłów"
   * [Diana Strong](@/w/diana-strong.md) in action
   * [Max Speed](@/w/max-speed.md) to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md)
   * [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) and [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) to make a co-announcement
+
 {% card(predicted=true) %}
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - ???
