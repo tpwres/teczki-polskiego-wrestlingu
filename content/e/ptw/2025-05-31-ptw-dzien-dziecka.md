@@ -14,8 +14,36 @@ city = "Kozłów"
 
 "Dzień Dziecka" (_Children's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
 
-{{ skip_card() }}
+## Build-up
+* as per Facebook event page we might expect the following:
+  * [Dawid "Puncher" Seńko](@/w/puncher.md) in action
+  * ["Starboy" Nano Lopez](@/w/nano-lopez.md) returns from alleged injury (which did not affect his capability for international bookings)
+  * [Diana Strong](@/w/diana-strong.md) in action
+  * [Max Speed](@/w/max-speed.md) to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md)
+  * [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) and [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) to make a co-announcement
+{% card(predicted=true) %}
+- - "[Dawid "Puncher" Seńko](@/w/puncher.md)"
+  - ???
+  - nc: upcoming
+- - ["Starboy" Nano Lopez](@/w/nano-lopez.md)
+  - ???
+  - nc: upcoming
+- - "[Diana Strong](@/w/diana-strong.md)"
+  - ???
+  - nc: upcoming
+  - "[Max Speed](@/w/max-speed.md)"
+  - ???
+  - c: "[PTW Underground Championship](@/c/ptw-underground-championship.md)"
+    nc: upcoming
+- - [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)
+  - [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)
+  - g: "Chairmen to make an announcement"
+    nc: upcoming
+  
+{% end %}
 
 ### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=423576)
+* [Event page on Facebook](https://www.facebook.com/events/1864407861025971/)
+* [Nano Lopez returns - Facebook post](https://www.facebook.com/photo?fbid=737172635302048&set=a.136592408693410)
