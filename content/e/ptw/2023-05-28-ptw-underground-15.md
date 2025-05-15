@@ -21,7 +21,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - ['[Disco Pablo](@/w/disco-pablo.md)', "[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)"]
 - ['[Diana Strong](@/w/diana-strong.md)', Devlyn Macabre]
 - ['["Top Gun" Samson](@/w/samson.md)', '[Marcelito](@/w/marcelito.md)', {r: DQ}]
-- ['[rookie Kornel](@/w/vincent-caravaggio.md)', 'rookie Przemek', '[Disco Pablo](@/w/disco-pablo.md)', '[Nano Lopez](@/w/nano-lopez.md)', '[Axel Fox](@/w/axel-fox.md)', '[Taras](@/w/taras.md)', {g: "PTW trainers and rookies hype [PTW Academy](@/o/ptw-academy.md)"}]
+- ['[_rookie_ Kornel](@/w/vincent-caravaggio.md)', '_rookie_ Przemek', '[Disco Pablo](@/w/disco-pablo.md)', '[Nano Lopez](@/w/nano-lopez.md)', '[Axel Fox](@/w/axel-fox.md)', '[Taras](@/w/taras.md)', {g: "PTW trainers and rookies hype [PTW Academy](@/o/ptw-academy.md)"}]
 - ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
 - ['[Taras](@/w/taras.md)', '[Marco Hammers](@/w/marco-hammers.md)']
 - ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/olgierd.md)']
