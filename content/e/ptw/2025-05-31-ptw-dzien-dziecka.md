@@ -10,14 +10,15 @@ hide_results = true
 city = "Kozłów"
 [extra.gallery]
 1 = { path = "dzien-dziecka-plakat.webp", caption = "Official poster featuring, top: [Prezes Okoński](@/w/lukasz-okonski.md), [Max Speed](@/w/max-speed.md), [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md), [Miyagi Shida](@/w/miyagi-shida.md); middle: Sigma Boy XD, [Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md); bottom: [Alex Brave](@/w/alex-brave.md), [Serg Sullivan](@/w/serg-sullivan.md), [Puncher](@/w/puncher.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }
+2 = { path = "nano-lopez-juz-leci.jpg", caption = "Image announcing the return of [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
 +++
 
 "Dzień Dziecka" (_Children's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
-* as per Facebook event page we might expect the following:
+* The Facebook event page suggests the following:
   * [Dawid "Puncher" Seńko](@/w/puncher.md) in action
-  * ["Starboy" Nano Lopez](@/w/nano-lopez.md) returns from alleged injury (which did not affect his capability for international bookings)
+  * ["Starboy" Nano Lopez](@/w/nano-lopez.md) returns, having recovered from his alleged injury (which did not affect his international bookings)
   * [Diana Strong](@/w/diana-strong.md) in action
   * [Max Speed](@/w/max-speed.md) to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md)
   * [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) and [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) to make a co-announcement
@@ -38,9 +39,8 @@ city = "Kozłów"
     nc: upcoming
 - - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - g: 'Chairmen to make an announcement'
-    nc: upcoming
-  
+  - g: 'The two chairmen make an announcement'
+    nc: upcoming  
 {% end %}
 
 ### References
