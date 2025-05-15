@@ -31,7 +31,7 @@ city = "Kozłów"
 - - '[Diana Strong](@/w/diana-strong.md)'
   - ???
   - nc: upcoming
-  - '[Max Speed](@/w/max-speed.md)'
+- - '[Max Speed](@/w/max-speed.md)'
   - ???
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
