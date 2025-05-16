@@ -121,7 +121,7 @@ def process(in_fd, out_fd):
                 add_bars(ax, rownum + layer_index, stripe, colors, stripe_index)
                 #annotator.annotate(ax, rownum + layer_index, stripe, stripe_index)
 
-        rownum += layer_index + 1
+        rownum += layer_index + 1 # pyright: ignore
 
     # TODO: build the org list
     #legend_artists = [pat.Rectangle((0, 0), 0.5, 0.5, color=Stripe.single_color(org)) for org in orgs_used]
