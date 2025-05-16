@@ -53,6 +53,21 @@ def group_rows_by_name(stripes):
             current_name = stripe.name
             batch.append(stripe)
 
+def add_vertical_line_and_text(ax, stripe, colors):
+    t = ax.get_xaxis_transform()
+    ax.vlines(
+        stripe.start,
+        0, 1, transform=t, # Spans the whole graph height
+        **colors.line(stripe.org)
+    )
+    ax.text(
+        stripe.start,
+        0,
+        stripe.name,
+        rotation='vertical',
+        transform=t
+    )
+
 def add_bars(ax, row, stripe, colors, index):
     full_height = 0.8
     for n, d in stripe.band:
@@ -94,8 +109,7 @@ def process(in_fd, out_fd):
         for layer_index, (ls, layer_stripes) in enumerate(layers(stripes)):
             for stripe in layer_stripes:
                 if ls == '!':
-                    ax.vlines(stripe.start, 0, 1, transform=ax.get_xaxis_transform(), **colors.line(stripe.org))
-                    ax.text(stripe.start, 0, stripe.name, rotation='vertical', transform=ax.get_xaxis_transform())
+                    add_vertical_line_and_text(ax, stripe, colors)
                     continue
 
                 labels[rownum] = name
