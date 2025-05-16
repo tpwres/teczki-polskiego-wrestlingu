@@ -54,6 +54,8 @@ def group_rows_by_name(stripes):
             current_name = stripe.name
             batch.append(stripe)
 
+    yield (current_name, batch)
+
 def add_vertical_line_and_text(ax, stripe, colors):
     t = ax.get_xaxis_transform()
     ax.vlines(
