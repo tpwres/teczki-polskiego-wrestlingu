@@ -62,6 +62,9 @@ data/chronology-plot.svg: const/chronology.csv
 data/chronology-hyperlinked.svg: data/chronology-plot.svg
 	bin/linkify-plot < $< > $@
 
+data/zieloni.svg: const/zieloni.csv
+	bin/build-mg  $< $@
+
 static/calendar.ics: content/e/**/*.md
 	bin/build-calendar > $@
 
