@@ -1,0 +1,80 @@
+from datetime import datetime
+from typing import ClassVar, Any
+from itertools import repeat
+import re
+
+def parse_partial_date(text: str) -> datetime:
+    "Parses a year-month or a year-month-date string into a datetime object."
+    dashes = text.count('-')
+    if dashes == 2:
+        format = '%Y-%m-%d'
+    elif dashes == 1:
+        format = '%Y-%m'
+    else:
+        raise ValueError(f'Unsupported date {text} provided')
+
+    return datetime.strptime(text, format)
+
+class BandSpec:
+    def __init__(self, num: int|list[int], denom: int):
+        match num:
+            case int(num):
+                self.n = [num]
+            case [*nums]:
+                self.n = nums
+        self.d = denom
+
+    @classmethod
+    def parse(cls, band: str):
+        # Accepts: a simple fraction like 1/3, and repeated bands like 1+3/3
+        nums_list, _, denom = band.partition('/')
+        nums = [int(part) for part in nums_list.split('+')]
+        return cls(nums, int(denom))
+
+    def __iter__(self):
+        return zip(self.n, repeat(self.d))
+
+class Stripe:
+    fallback_color: ClassVar[str] = '#000'
+
+    def __init__(self, row):
+        name, org, start, end, *rest = row
+        self.name, self.org = name, org
+        self.start = parse_partial_date(start)
+        self.end = datetime(2099,12,31) if end == '-' else parse_partial_date(end)
+
+        # Adjust end date
+        if end == '-':
+            self.duration = datetime.today() - self.start
+        else:
+            self.duration = self.end - self.start
+
+        match rest:
+            case [layer, band]:
+                self.layer = layer
+                self.band = BandSpec.parse(band)
+            case [layer]:
+                self.layer = layer
+                self.band = BandSpec(1, 1)
+            case []:
+                self.layer = '0'
+                self.band = BandSpec(1, 1)
+
+
+    def overlaps(self, other_row):
+        if self.start >= other_row.end:
+            return False
+        if self.end <= other_row.start:
+            return False
+        return True
+
+    @property
+    def all_orgs(self):
+        match re.match(r'^(\w+)([|/\\])(\w+)$', self.org):
+            case re.Match(group=group):
+                return set([group(1), group(3)])
+            case _:
+                return set([self.org])
+
+    def __repr__(self):
+        return f"({self.name}@{self.org},{self.start}..{self.end},dur={self.duration},layer={self.layer},band={self.band})"

@@ -2,13 +2,11 @@ import sys
 from pathlib import Path
 srcdir = Path(__file__).resolve().parent / '..'
 sys.path.insert(0, str(srcdir))
-import re
 import argparse
-from typing import ClassVar, Any
 from sys import stdin, stdout
 from types import SimpleNamespace
 from dateutil.rrule import YEARLY, MONTHLY
-from datetime import datetime, timedelta
+from datetime import datetime
 import matplotlib as mpl
 from matplotlib import pyplot as plt
 from matplotlib import patches as pat
@@ -18,20 +16,10 @@ from matplotlib.dates import AutoDateLocator, YearLocator, MonthLocator
 from utils import SkipComments
 import csv
 from itertools import groupby
-import tomllib
-from collections import defaultdict
-import math
+from timelines import Stripe, OrgColors
 
 def setup():
-    Stripe.org_colors = load_org_colors()
     plt.rcParams["hatch.linewidth"] = 6
-
-def load_org_colors():
-    config_path = Path(__file__).parent / '../..' / 'config.toml'
-    with config_path.resolve().open('rb') as fp:
-        project_config = tomllib.load(fp)
-        styles = project_config['extra']['org_styles']
-        return {key: org['bg'] for key, org in styles.items()}
 
 def ym(text: str) -> datetime:
     "Parses year-month date into a datetime object."
@@ -40,69 +28,6 @@ def ym(text: str) -> datetime:
 def ymd(text: str) -> datetime:
     return datetime.strptime('2099-12-31' if text == '-' else text, '%Y-%m-%d')
 
-class Stripe:
-    org_colors: ClassVar[dict[str, str]]
-    fallback_color: ClassVar[str] = '#000'
-
-    def __init__(self, row):
-        name, org, start, end, *rest = row
-        self.name, self.org = name, org
-        self.start = ymd(start) if start.count('-') == 2 else ym(start)
-        self.end = ymd(end) if end.count('-') == 2 else ym(end)
-        if end == '-':
-            self.duration = datetime.today() - self.start
-        else:
-            self.duration = self.end - self.start
-        match rest:
-            case [layer, band]:
-                self.layer = layer
-                self.band = tuple(int(num) for num in band.split('/'))
-            case [layer]:
-                self.layer = layer
-                self.band = (1, 1)
-            case []:
-                self.layer = '0'
-                self.band = (1, 1)
-
-
-    def overlaps(self, other_row):
-        if self.start >= other_row.end:
-            return False
-        if self.end <= other_row.start:
-            return False
-        return True
-
-    def render_args(self) -> dict[str, Any]:
-        return self.rich_colors() or dict(
-            color=Stripe.single_color(self.org)
-        )
-
-    @staticmethod
-    def single_color(org):
-        return Stripe.org_colors.get(org, Stripe.fallback_color)
-
-    @property
-    def all_orgs(self):
-        match re.match(r'^(\w+)([|/\\])(\w+)$', self.org):
-            case re.Match(group=group):
-                return set([group(1), group(3)])
-            case _:
-                return set([self.org])
-
-    def rich_colors(self):
-        match re.match(r'^(\w+)([|/\\])(\w+)$', self.org):
-            case re.Match(group=group):
-                return dict(
-                    facecolor=Stripe.single_color(group(1)),
-                    edgecolor=Stripe.single_color(group(3)),
-                    hatch=group(2),
-
-                )
-            case _:
-                return None
-
-    def __repr__(self):
-        return f"({self.name}@{self.org},{self.start}..{self.end},dur={self.duration},layer={self.layer},band={self.band})"
 
 def layers(stripes: list[Stripe]):
     # Group the list of stripes by layers, and yield them in-order
@@ -117,6 +42,7 @@ def log(message):
 def process(in_fd, out_fd):
     io = SkipComments(in_fd)
     data = list(Stripe(row) for row in csv.reader(io))
+    colors = OrgColors()
 
     # For each name, produce a list of line segments, each starting at start-date, ending at end-date
     # and with the color looked up by org in an org_colors map
@@ -141,28 +67,30 @@ def process(in_fd, out_fd):
                     continue
                 labels[rownum] = name
                 orgs_used |= stripe.all_orgs
-                match stripe.band:
-                    case (1, 1):
-                        stripe_height = full_height
-                        stripe_offset = 0
-                    case (n, d):
-                        stripe_height = full_height / d
-                        top = -full_height / 2 + stripe_height / 2
-                        stripe_offset = top + (n-1) * stripe_height
+                for n, d in stripe.band:
+                    match (n, d):
+                        case (1, 1):
+                            stripe_height = full_height
+                            stripe_offset = 0
+                        case (n, d):
+                            stripe_height = full_height / d
+                            top = -full_height / 2 + stripe_height / 2
+                            stripe_offset = top + (n-1) * stripe_height
 
-                ax.barh(rownum + layer_index - stripe_offset,
-                        stripe.duration,
-                        left=stripe.start,
-                        height=stripe_height,
-                        **stripe.render_args()
-                )
+                    ax.barh(rownum + layer_index - stripe_offset,
+                            stripe.duration,
+                            left=stripe.start,
+                            height=stripe_height,
+                            **colors.paint(stripe.org)
+                    )
         rownum += layer_index + 1
 
     # Create legend by adding patches
     log(f"OU = {orgs_used}")
-    legend_artists = [pat.Rectangle((0, 0), 0.5, 0.5, color=Stripe.single_color(org)) for org in orgs_used]
-    legend_keys = list(orgs_used)
-    _fig.legend(legend_artists, legend_keys,loc='outside right lower')
+    # TODO: build the org list
+    #legend_artists = [pat.Rectangle((0, 0), 0.5, 0.5, color=Stripe.single_color(org)) for org in orgs_used]
+    #legend_keys = list(orgs_used)
+    #_fig.legend(legend_artists, legend_keys,loc='outside right lower')
 
     y_pos = list(labels.keys())
     ax.set_yticks(y_pos, [labels[i] for i in y_pos])
