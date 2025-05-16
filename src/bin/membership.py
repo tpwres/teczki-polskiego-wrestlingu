@@ -90,6 +90,13 @@ def add_bars(ax, row, stripe, colors, index):
                 gid=f"stripe-{row}-{index}-{n}-{d}",
                 **colors.paint(stripe.org)
         )
+
+def make_org_entry(org_identifier):
+    content_root = Path("content")
+    org_path = f"o/{org_identifier}.md"
+    org_page = page(content_root / org_path)
+    return f"[o/{org_page.title}]"
+
 def process(in_fd, out_fd):
     io = SkipComments(in_fd)
     data = list(Stripe(row) for row in csv.reader(io))
