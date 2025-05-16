@@ -107,7 +107,7 @@ def process(in_fd, out_fd):
     # For each name, produce a list of line segments, each starting at start-date, ending at end-date
     # and with the color looked up by org in an org_colors map
 
-    _fig, ax = plt.subplots(figsize=(10, 4),layout='constrained')
+    _fig, ax = plt.subplots(figsize=(10, 5),layout='constrained')
     ax.xaxis.set_major_locator(YearLocator())
     ax.xaxis.set_minor_locator(MonthLocator(bymonth=[4,7,10]))
     ax.xaxis.grid(visible=True, alpha=0.4, which='both')
