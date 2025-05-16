@@ -133,6 +133,17 @@ def process(in_fd, out_fd):
     ax.set_yticks(y_pos, [labels[i] for i in y_pos])
     ax.invert_yaxis()
 
+    # Set colors to placeholders
+    ax.spines['left'].set_color('#ff00ff')
+    ax.spines['left'].set_gid('left-spine')
+    ax.spines['top'].set_color('#ff00ff')
+    ax.spines['top'].set_gid('top-spine')
+    ax.spines['bottom'].set_color('#ff00ff')
+    ax.spines['bottom'].set_gid('bottom-spine')
+    ax.spines['right'].set_color('#ff00ff')
+    ax.spines['right'].set_gid('right-spine')
+    ax.tick_params(axis='x', colors='#ff00ff')
+    ax.tick_params(axis='y', colors='#ff00ff')
     ax.set_xlim(left=None, right=datetime.now())
     # plt.tight_layout()
     plt.savefig(out_fd, format='svg', pad_inches=0, transparent=True)
