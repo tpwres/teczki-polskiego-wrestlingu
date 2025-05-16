@@ -26,6 +26,8 @@ class BandSpec:
 
     @classmethod
     def parse(cls, band: str):
+        if band == '':
+            return cls(1, 1)
         # Accepts: a simple fraction like 1/3, and repeated bands like 1+3/3
         nums_list, _, denom = band.partition('/')
         nums = [int(part) for part in nums_list.split('+')]
@@ -50,12 +52,12 @@ class Stripe:
             self.duration = self.end - self.start
 
         match rest:
-            case [layer, band]:
+            case [band, layer]:
                 self.layer = layer
                 self.band = BandSpec.parse(band)
-            case [layer]:
-                self.layer = layer
-                self.band = BandSpec(1, 1)
+            case [band]:
+                self.layer = '0'
+                self.band = BandSpec.parse(band)
             case []:
                 self.layer = '0'
                 self.band = BandSpec(1, 1)
