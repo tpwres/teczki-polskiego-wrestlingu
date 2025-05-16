@@ -16,7 +16,7 @@ from matplotlib.dates import AutoDateLocator, YearLocator, MonthLocator
 from utils import SkipComments
 import csv
 from itertools import groupby
-from timelines import Stripe, OrgColors
+from timelines import Stripe, OrgColors, Annotator
 
 def setup():
     plt.rcParams["hatch.linewidth"] = 6
