@@ -11,6 +11,8 @@ def load_org_colors_from_config():
         styles = project_config['extra']['org_styles']
         return {key: org['bg'] for key, org in styles.items()}
 
+LINE_STYLES = ('solid', 'dashed', 'dashdot', 'dotted')
+
 class OrgColors:
     def __init__(self):
         # TODO: Some handling for #000 as the 'default' color, and color overrides
@@ -35,6 +37,28 @@ class OrgColors:
             return color
 
         return self.colors.get(color, '#FF00FF')
+
+    def line(self, colorspec: str) -> dict[str, Any]:
+        # Like paint() below but for lines
+        # colorspec is a single color, either org hex or named
+        # which can be followed space-separated thickness and style, both optional
+        if colorspec == '':
+            return {} # Matplotlib defaults
+
+        color, *rest = colorspec.split()
+        attrs: dict[str, Any] = {'color': self.lookup(color)}
+
+        match rest:
+            case [thickness, style]:
+                attrs['linewidths'] = [thickness]
+                attrs['linestyles'] = [style]
+            case [style] if style in LINE_STYLES:
+                attrs['linestyles'] = [style]
+            case [thickness]:
+                attrs['linewidths'] = [thickness]
+
+        return attrs
+
 
     def paint(self, colorspec: str) -> dict[str, Any]:
         # colorspec is built from a stripe's org field
