@@ -2,6 +2,7 @@ import sys
 from pathlib import Path
 srcdir = Path(__file__).resolve().parent / '..'
 sys.path.insert(0, str(srcdir))
+from io import BytesIO
 import argparse
 from sys import stdin, stdout
 from types import SimpleNamespace
@@ -13,7 +14,7 @@ from matplotlib import patches as pat
 from matplotlib.dates import AutoDateLocator, YearLocator, MonthLocator
 from utils import SkipComments
 import csv
-from timelines import Stripe, OrgColors, Annotator
+from timelines import Stripe, OrgColors, Annotator, LegendBuilder, SVGFilter
 
 def setup():
     plt.rcParams["hatch.linewidth"] = 6
@@ -139,7 +140,10 @@ def process(in_fd, out_fd):
 def main():
     setup()
     options = parse_args()
-    process(options.input_file, options.output_file)
+    process(options.input_file, raw_svg := BytesIO())
+    raw_svg.seek(0)
+    filter = SVGFilter()
+    filter.process(raw_svg, options.output_file)
 
 def parse_args():
   parser = argparse.ArgumentParser(description="Process some input")
