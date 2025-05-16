@@ -1,3 +1,5 @@
+from .stripe import Stripe
+
 class Annotator:
     def annotate(self, axis, row, stripe, index):
         # TODO

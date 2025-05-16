@@ -81,3 +81,8 @@ class OrgColors:
             case _:
                 raise ValueError(f"Unsupported color spec {colorspec}")
 
+
+    @staticmethod
+    def split_orgs(text: str) -> list[str]:
+        """Public method for other classes to use for parsing the org colors"""
+        return OrgColors.HATCH_RE.split(text)
