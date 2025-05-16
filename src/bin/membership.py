@@ -9,12 +9,12 @@ from types import SimpleNamespace
 from dateutil.rrule import YEARLY, MONTHLY
 from datetime import datetime
 import matplotlib as mpl
-from matplotlib import pyplot as plt
-from matplotlib import patches as pat
+from matplotlib import pyplot as plt, text as mtxt
 from matplotlib.dates import AutoDateLocator, YearLocator, MonthLocator
 from utils import SkipComments
 import csv
 from timelines import Stripe, OrgColors, Annotator, LegendBuilder, SVGFilter
+from page import page
 
 def setup():
     plt.rcParams["hatch.linewidth"] = 6
