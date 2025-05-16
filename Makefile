@@ -14,7 +14,7 @@ METADATA=data/all_matches.json \
          data/team_careers.json \
          data/all_photos.json \
          data/photo_taggings.json
-PLOTS=data/chronology-hyperlinked.svg
+PLOTS=data/chronology-hyperlinked.svg data/zieloni.svg
 CAL=static/calendar.ics \
     static/calendar-ptw.ics \
     static/calendar-kpw.ics \
