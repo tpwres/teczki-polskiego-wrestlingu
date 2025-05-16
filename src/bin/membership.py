@@ -91,6 +91,7 @@ def process(in_fd, out_fd):
     io = SkipComments(in_fd)
     data = list(Stripe(row) for row in csv.reader(io))
     colors = OrgColors()
+    annotator = Annotator()
 
     # For each name, produce a list of line segments, each starting at start-date, ending at end-date
     # and with the color looked up by org in an org_colors map
@@ -107,7 +108,7 @@ def process(in_fd, out_fd):
         stripes = list(stripes)
         # Rows for the same name are listed as consecutive groups
         for layer_index, (ls, layer_stripes) in enumerate(layers(stripes)):
-            for stripe in layer_stripes:
+            for stripe_index, stripe in enumerate(layer_stripes):
                 if ls == '!':
                     add_vertical_line_and_text(ax, stripe, colors)
                     continue
@@ -115,6 +116,7 @@ def process(in_fd, out_fd):
                 labels[rownum] = name
                 orgs_used |= stripe.all_orgs
                 add_bars(ax, rownum + layer_index, stripe, colors, stripe_index)
+                #annotator.annotate(ax, rownum + layer_index, stripe, stripe_index)
 
         rownum += layer_index + 1
 
