@@ -20,19 +20,17 @@ class OrgColors:
     # Supported hatches: | for vertical stripes and /, \ for slanted ones
     # Doubled variants give more density
     HATCH_RE = re.compile(r'''
-        \b(
+        \b( # Must start at word boundary. Required to make the double variants match.
           //   | /    | # Double and single slash
           \\\\ | \\   | # Double and single backslash, with escaping
           \|   | \|\|   # Pipe and double pipe, with escaping
         )\b
         ''', re.X)
 
-    def lookup(self, color: str) -> str:
+    def lookup(self, color: str) -> Any:
         if color.startswith('!'):
             name = color[1:]
-            if name not in mcolors.CSS4_COLORS:
-                raise ValueError(f"Unknown named color {name}")
-            return name
+            return mcolors.CSS4_COLORS[name]
         elif color.startswith('#') and len(color) == 7: # RGB as-is
             return color
 
@@ -44,7 +42,8 @@ class OrgColors:
         # 1. a single org 'mzw'
         # 2. a named color starting with a bang
         # 3. a hex color starting with a hash
-        # 4. two colors joined with matplotlib's hatch char
+        # 4. two colors joined with a supported matplotlib hatch char
+        # If one of these is a named or rgb color, it MUST COME FIRST
         specs = OrgColors.HATCH_RE.split(colorspec)
         match specs:
             case [single]:
