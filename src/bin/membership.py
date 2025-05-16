@@ -38,6 +38,21 @@ def layers(stripes: list[Stripe]):
 def log(message):
     sys.stderr.write(message + "\n")
 
+def group_rows_by_name(stripes):
+    current_name = None
+    batch = []
+    for stripe in stripes:
+        if stripe.name == current_name:
+            batch.append(stripe)
+        elif stripe.name == '-' and current_name:
+            batch.append(stripe)
+        else:
+            if current_name:
+                yield(current_name, batch)
+            batch = []
+            current_name = stripe.name
+            batch.append(stripe)
+
 def process(in_fd, out_fd):
     io = SkipComments(in_fd)
     data = list(Stripe(row) for row in csv.reader(io))
@@ -55,7 +70,7 @@ def process(in_fd, out_fd):
     orgs_used = set()
     rownum = 0
     full_height = 0.8
-    for name, stripes in groupby(data, lambda row: row.name):
+    for name, stripes in group_rows_by_name(data):
         stripes = list(stripes)
         # Rows for the same name are listed as consecutive groups
         for layer_index, (ls, layer_stripes) in enumerate(layers(stripes)):
