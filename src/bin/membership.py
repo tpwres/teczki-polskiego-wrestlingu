@@ -62,9 +62,10 @@ def process(in_fd, out_fd):
         for layer_index, (ls, layer_stripes) in enumerate(layers(stripes)):
             for stripe in layer_stripes:
                 if ls == '!':
-                    ax.vlines(stripe.start, 0, 1, transform=ax.get_xaxis_transform())
+                    ax.vlines(stripe.start, 0, 1, transform=ax.get_xaxis_transform(), **colors.paint(stripe.org))
                     ax.text(stripe.start, 0, stripe.name, rotation='vertical', transform=ax.get_xaxis_transform())
                     continue
+
                 labels[rownum] = name
                 orgs_used |= stripe.all_orgs
                 for n, d in stripe.band:
