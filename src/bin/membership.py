@@ -10,12 +10,9 @@ from datetime import datetime
 import matplotlib as mpl
 from matplotlib import pyplot as plt
 from matplotlib import patches as pat
-from matplotlib import colors
-from matplotlib import transforms
 from matplotlib.dates import AutoDateLocator, YearLocator, MonthLocator
 from utils import SkipComments
 import csv
-from itertools import groupby
 from timelines import Stripe, OrgColors, Annotator
 
 def setup():
