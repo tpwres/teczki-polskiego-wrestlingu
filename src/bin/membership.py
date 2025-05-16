@@ -93,6 +93,7 @@ def process(in_fd, out_fd):
     data = list(Stripe(row) for row in csv.reader(io))
     colors = OrgColors()
     annotator = Annotator()
+    legend_builder = LegendBuilder(colors, make_org_entry)
 
     # For each name, produce a list of line segments, each starting at start-date, ending at end-date
     # and with the color looked up by org in an org_colors map
@@ -103,7 +104,6 @@ def process(in_fd, out_fd):
     ax.xaxis.grid(visible=True, alpha=0.4, which='both')
 
     labels = {}
-    orgs_used = set()
     rownum = 0
     for name, stripes in group_rows_by_name(data):
         stripes = list(stripes)
@@ -115,18 +115,17 @@ def process(in_fd, out_fd):
                     continue
 
                 labels[rownum] = name
-                orgs_used |= stripe.all_orgs
+                legend_builder.add_stripe(stripe)
                 add_bars(ax, rownum + layer_index, stripe, colors, stripe_index)
                 #annotator.annotate(ax, rownum + layer_index, stripe, stripe_index)
 
         rownum += layer_index + 1
 
-    # Create legend by adding patches
-    log(f"OU = {orgs_used}")
     # TODO: build the org list
     #legend_artists = [pat.Rectangle((0, 0), 0.5, 0.5, color=Stripe.single_color(org)) for org in orgs_used]
     #legend_keys = list(orgs_used)
-    #_fig.legend(legend_artists, legend_keys,loc='outside right lower')
+    legend_keys, patches = legend_builder.legend()
+    _fig.legend(patches, legend_keys ,loc='outside lower right', facecolor='#ff00ff')
 
     y_pos = list(labels.keys())
     ax.set_yticks(y_pos, [labels[i] for i in y_pos])
