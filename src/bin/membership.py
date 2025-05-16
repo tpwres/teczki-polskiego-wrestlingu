@@ -20,6 +20,8 @@ from timelines import Stripe, OrgColors
 
 def setup():
     plt.rcParams["hatch.linewidth"] = 6
+    # Otherwise text is converted to svg paths
+    mpl.rcParams["svg.fonttype"] = 'none'
 
 def ym(text: str) -> datetime:
     "Parses year-month date into a datetime object."
