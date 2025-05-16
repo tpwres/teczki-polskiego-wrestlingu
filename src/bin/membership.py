@@ -53,6 +53,25 @@ def group_rows_by_name(stripes):
             current_name = stripe.name
             batch.append(stripe)
 
+def add_bars(ax, row, stripe, colors, index):
+    full_height = 0.8
+    for n, d in stripe.band:
+        match (n, d):
+            case (1, 1):
+                stripe_height = full_height
+                stripe_offset = 0
+            case (n, d):
+                stripe_height = full_height / d
+                top = -full_height / 2 + stripe_height / 2
+                stripe_offset = top + (n-1) * stripe_height
+
+        ax.barh(row - stripe_offset,
+                stripe.duration,
+                left=stripe.start,
+                height=stripe_height,
+                gid=f"stripe-{row}-{index}-{n}-{d}",
+                **colors.paint(stripe.org)
+        )
 def process(in_fd, out_fd):
     io = SkipComments(in_fd)
     data = list(Stripe(row) for row in csv.reader(io))
@@ -69,7 +88,6 @@ def process(in_fd, out_fd):
     labels = {}
     orgs_used = set()
     rownum = 0
-    full_height = 0.8
     for name, stripes in group_rows_by_name(data):
         stripes = list(stripes)
         # Rows for the same name are listed as consecutive groups
@@ -82,22 +100,8 @@ def process(in_fd, out_fd):
 
                 labels[rownum] = name
                 orgs_used |= stripe.all_orgs
-                for n, d in stripe.band:
-                    match (n, d):
-                        case (1, 1):
-                            stripe_height = full_height
-                            stripe_offset = 0
-                        case (n, d):
-                            stripe_height = full_height / d
-                            top = -full_height / 2 + stripe_height / 2
-                            stripe_offset = top + (n-1) * stripe_height
+                add_bars(ax, rownum + layer_index, stripe, colors, stripe_index)
 
-                    ax.barh(rownum + layer_index - stripe_offset,
-                            stripe.duration,
-                            left=stripe.start,
-                            height=stripe_height,
-                            **colors.paint(stripe.org)
-                    )
         rownum += layer_index + 1
 
     # Create legend by adding patches
