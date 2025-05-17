@@ -49,13 +49,17 @@ class OrgColors:
         attrs: dict[str, Any] = {'color': self.lookup(color)}
 
         match rest:
-            case [thickness, style]:
-                attrs['linewidths'] = [thickness]
+            case []:
+                pass
+            case [thickness, style] if style in LINE_STYLES:
+                attrs['linewidths'] = [float(thickness)]
                 attrs['linestyles'] = [style]
             case [style] if style in LINE_STYLES:
                 attrs['linestyles'] = [style]
             case [thickness]:
-                attrs['linewidths'] = [thickness]
+                attrs['linewidths'] = [float(thickness)]
+            case _:
+                raise ValueError(f"Unrecognized line style {rest}")
 
         return attrs
 
