@@ -73,6 +73,11 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened durin
   - "Gregorian Chants" by Ryz Beats
     {{ org_badge(orgs=['kpw']) }} (2023) <br>
     {{ music(yt='eP52SxhgikE')}}
+  - "Metaphonk" by Infraction
+    {{ org_badge(orgs=['kpw']) }} (2024; in tag team with [Eryk Lesak](@/w/eryk-lesak.md)) <br>
+    {{ music(yt='Y64vZp8M8dE')}}
+    {{ music(spot='60Pt3GwqOMl5sE3LXeHBxu')}}
+    {{ music(apple='1761432224?i=1761432679')}}
   - "Plague Rat" by Karl Casey
     {{ org_badge(orgs=['kpw', 'low']) }} (2024-present) <br>
     {{ music(yt='y8XElwNSPnI')}}
