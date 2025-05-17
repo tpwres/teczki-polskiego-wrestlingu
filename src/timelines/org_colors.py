@@ -22,11 +22,11 @@ class OrgColors:
     # Supported hatches: | for vertical stripes and /, \ for slanted ones
     # Doubled variants give more density
     HATCH_RE = re.compile(r'''
-        \b( # Must start at word boundary. Required to make the double variants match.
+        (?<=\w)( # Assert we're starting after a letter
           //   | /    | # Double and single slash
           \\\\ | \\   | # Double and single backslash, with escaping
           \|   | \|\|   # Pipe and double pipe, with escaping
-        )\b
+        )(?=[\w!#]) # Ending before symbols that can start a color
         ''', re.X)
 
     def lookup(self, color: str) -> Any:
