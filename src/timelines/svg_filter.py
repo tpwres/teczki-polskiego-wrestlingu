@@ -34,6 +34,7 @@ class SVGFilter:
         self.apply_vline_text_color(root)
         self.strip_extra_text_styling(root)
         self.apply_legend_background(root)
+        self.apply_legend_colors(root)
         self.create_link_elements(root)
 
         tree.write(output_stream, encoding='unicode', default_namespace='')
@@ -104,6 +105,11 @@ class SVGFilter:
         for text in legend.findall('.//svg:g//svg:text', NS):
             text.attrib['style'] += '; fill: currentColor' # Lazy but works
 
+    def apply_legend_colors(self, root):
+        groups = [el for el in root.findall('.//svg:g[@id="legend_1"]/svg:g', NS) if el.attrib.get('id', '').startswith('patch_')]
+        for group in groups:
+            path = group[0]
+            self.use_currentcolor(path)
 
     def strip_extra_text_styling(self, root):
         for text in root.findall('.//svg:text', NS):

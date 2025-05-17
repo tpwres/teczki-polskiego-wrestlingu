@@ -124,9 +124,6 @@ def process(in_fd, out_fd):
 
         rownum += layer_index + 1 # pyright: ignore
 
-    # TODO: build the org list
-    #legend_artists = [pat.Rectangle((0, 0), 0.5, 0.5, color=Stripe.single_color(org)) for org in orgs_used]
-    #legend_keys = list(orgs_used)
     legend_keys, patches = legend_builder.legend()
     _fig.legend(patches, legend_keys ,loc='outside lower right', facecolor='#ff00ff')
 
