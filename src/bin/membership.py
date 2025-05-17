@@ -6,11 +6,10 @@ from io import BytesIO
 import argparse
 from sys import stdin, stdout
 from types import SimpleNamespace
-from dateutil.rrule import YEARLY, MONTHLY
 from datetime import datetime
 import matplotlib as mpl
 from matplotlib import pyplot as plt, text as mtxt
-from matplotlib.dates import AutoDateLocator, YearLocator, MonthLocator
+from matplotlib.dates import YearLocator, MonthLocator
 from utils import SkipComments
 import csv
 from timelines import Stripe, OrgColors, Annotator, LegendBuilder, SVGFilter
@@ -20,14 +19,6 @@ def setup():
     plt.rcParams["hatch.linewidth"] = 6
     # Otherwise text is converted to svg paths
     mpl.rcParams["svg.fonttype"] = 'none'
-
-def ym(text: str) -> datetime:
-    "Parses year-month date into a datetime object."
-    return datetime.strptime('2099-12' if text == '-' else text, '%Y-%m')
-
-def ymd(text: str) -> datetime:
-    return datetime.strptime('2099-12-31' if text == '-' else text, '%Y-%m-%d')
-
 
 def layers(stripes: list[Stripe]):
     # Group the list of stripes by layers, and yield them in-order
