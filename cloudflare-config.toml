@@ -93,7 +93,6 @@ text_fg = '#fbf1c7'
 bg = '#000'
 text_fg = '#ffffff'
 
-
 [extra.chronology]
 arena = "KPW Arena"
 beer-expo = "Poznań Beer Expo"
@@ -104,4 +103,5 @@ poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
 pyrkon = "Pyrkon"
 ryucon = "Ryucon"
+stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"
