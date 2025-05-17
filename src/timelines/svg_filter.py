@@ -71,12 +71,6 @@ class SVGFilter:
             path = spine[0]
             self.use_currentcolor(path)
 
-    def use_currentcolor(self, elem):
-        style = elem.attrib.get('style', '')
-        style = (style.replace('fill: #ff00ff', 'fill: currentColor')
-                        .replace('stroke: #ff00ff', 'stroke: currentColor'))
-        elem.attrib['style'] = style
-
     def apply_graph_patch_colors(self, root):
         patches = [el for el in root.findall('.//svg:g[@id="axes_1"]/svg:g', NS) if el.attrib.get('id', '').startswith('stripe')]
         for patch in patches:
@@ -154,6 +148,12 @@ class SVGFilter:
             style = style.replace(before, after)
 
         elem.attrib['style'] = style
+
+    def use_currentcolor(self, elem):
+        self.edit_style(elem,
+                        ('fill: #ff00ff', 'fill: currentColor'),
+                        ('stroke: #ff00ff', 'stroke: currentColor'))
+
 
     def emit_js(self, stream):
         pass
