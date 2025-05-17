@@ -15,12 +15,8 @@ class LegendBuilder:
 
 
     def make_patch(self, colorspec):
-        return pat.Rectangle((0, 0), 0.5, 0.5, color=self.colors.lookup(colorspec))
-
-    def add_explicit(self, row: list[Any]):
-        # Add a legend item from a CSV row
-        # TODO
-        pass
+        # return pat.Rectangle((0, 0), 0.5, 0.5, color=self.colors.lookup(colorspec))
+        return pat.Rectangle((0, 0), 0.5, 0.5, **self.colors.paint(colorspec))
 
     def add_stripe(self, stripe: Stripe):
         # Add a legend item from a stripe
@@ -37,11 +33,21 @@ class LegendBuilder:
         if text.isalpha():
             return True
 
-    def add(self, text):
-        if text in self.legend_items:
+    def add(self, symbol):
+        if symbol in self.legend_items:
             return
 
-        self.legend_items[text] = (self.renderer(text), self.make_patch(text))
+        self.legend_items[symbol] = (self.renderer(symbol), self.make_patch(symbol))
+
+    def add_explicit(self, symbol: str, descr: str):
+        if symbol in self.legend_items:
+            return
+
+        self.legend_items[symbol] = (self.render_custom(descr), self.make_patch(symbol))
+
+    def render_custom(self, text):
+        # TODO
+        return text
 
     def legend(self):
         keys_patches = self.legend_items.values()
