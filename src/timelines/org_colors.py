@@ -18,6 +18,7 @@ class OrgColors:
         # TODO: Some handling for #000 as the 'default' color, and color overrides
         self.colors = {}
         self.colors.update(load_org_colors_from_config())
+        self.custom_colors = {}
 
     # Supported hatches: | for vertical stripes and /, \ for slanted ones
     # Doubled variants give more density
@@ -37,6 +38,9 @@ class OrgColors:
             return color
 
         return self.colors.get(color, '#FF00FF')
+
+    def add_custom(self, name: str, spec: str):
+        self.custom_colors[name] = spec
 
     def line(self, colorspec: str) -> dict[str, Any]:
         # Like paint() below but for lines
@@ -65,13 +69,9 @@ class OrgColors:
 
 
     def paint(self, colorspec: str) -> dict[str, Any]:
-        # colorspec is built from a stripe's org field
-        # which contains one of:
-        # 1. a single org 'mzw'
-        # 2. a named color starting with a bang
-        # 3. a hex color starting with a hash
-        # 4. two colors joined with a supported matplotlib hatch char
-        # If one of these is a named or rgb color, it MUST COME FIRST
+        # A custom color must first be resolved into its definition
+        colorspec = self.custom_colors.get(colorspec, colorspec)
+
         specs = OrgColors.HATCH_RE.split(colorspec)
         match specs:
             case [single]:
