@@ -47,7 +47,7 @@ def group_rows_by_name(stripes):
 
     yield (current_name, batch)
 
-def add_vertical_line_and_text(ax, stripe, colors):
+def add_vertical_line_and_text(ax, stripe, colors, index):
     t = ax.get_xaxis_transform()
     ax.vlines(
         stripe.start,
@@ -56,10 +56,13 @@ def add_vertical_line_and_text(ax, stripe, colors):
     )
     ax.text(
         stripe.start,
-        0,
+        0.05,
         stripe.name,
         rotation='vertical',
-        transform=t
+        transform=t,
+        gid=f"vline-text-{index}",
+        color='#ff00ff',
+        bbox=dict(facecolor='#ff00fe', edgecolor='#ff00ff', alpha=0.5)
     )
 
 def add_bars(ax, row, stripe, colors, index):
@@ -111,7 +114,7 @@ def process(in_fd, out_fd):
         for layer_index, (ls, layer_stripes) in enumerate(layers(stripes)):
             for stripe_index, stripe in enumerate(layer_stripes):
                 if ls == '!':
-                    add_vertical_line_and_text(ax, stripe, colors)
+                    add_vertical_line_and_text(ax, stripe, colors, f"{rownum}-{stripe_index}")
                     continue
 
                 labels[rownum] = name

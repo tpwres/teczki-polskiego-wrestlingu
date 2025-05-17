@@ -31,6 +31,7 @@ class SVGFilter:
 
         self.apply_axis_colors(root)
         self.apply_graph_patch_colors(root)
+        self.apply_vline_text_color(root)
         self.strip_extra_text_styling(root)
         self.apply_legend_background(root)
         self.create_link_elements(root)
@@ -88,6 +89,15 @@ class SVGFilter:
     def apply_text_color(self, root):
         pass
 
+    def apply_vline_text_color(self, root):
+        # Add filter to defs
+        groups = [el for el in root.findall('.//svg:g[@id="axes_1"]/svg:g', NS) if el.attrib.get('id', '').startswith('vline-text')]
+        for group in groups:
+            box = group[0][0]
+            self.edit_style(box, ('fill: #ff00fe', 'fill: var(--accent-bg)'), ('stroke: #ff00ff', 'stroke: currentColor'))
+            text = group[-1]
+            self.use_currentcolor(text)
+
     def apply_legend_background(self, root):
         legend = root.find('.//svg:g[@id="legend_1"]', NS)
         # First g>path is the background
@@ -137,6 +147,13 @@ class SVGFilter:
             doc = page(candidate_path)
             if doc.title == title:
                 return (title, f"/{candidate_path.relative_to(content_root).with_suffix('')}")
+
+    def edit_style(self, elem, *replacements):
+        style = elem.attrib.get('style', '')
+        for before, after in replacements:
+            style = style.replace(before, after)
+
+        elem.attrib['style'] = style
 
     def emit_js(self, stream):
         pass
