@@ -12,7 +12,7 @@ city = "Gdańsk"
 1 = { path = "el-plakato-grande.jpg", caption = "The show's poster.", source = "Official PpW Facebook" }
 +++
 
-PpW Lucha Libre Extravaganza was a two-day show accompanying [Tequila Mezcal Festival][tequila] in Gdańsk, taking place in the Plenum hall of the historical Gdańsk Shipyard. This was the first time PpW appeared in northern Poland.
+PpW Lucha Libre Extravaganza was a two-day show accompanying [Tequila Mezcal Festival][tequila] in Gdańsk, taking place in the Plenum hall of the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md). This was the first time PpW appeared in northern Poland.
 
 ### Build-up
 
