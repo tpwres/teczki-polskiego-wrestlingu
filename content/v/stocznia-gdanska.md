@@ -2,6 +2,8 @@
 title = "Stocznia Gdańska"
 template = "venue_page.html"
 authors = ["M3n747"]
+[extra.gallery]
+manifest = "@/v/stocznia-gdanska-gallery.toml"
 +++
 
 Stocznia Gdańska (_Gdańsk Shipyard_) is a historical post-industrial complex in the city of Gdańsk, located on the western shore of the Martwa Wisła river.
