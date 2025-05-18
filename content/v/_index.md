@@ -16,6 +16,7 @@ template = "index.html"
 * [Atlantic / Nowy Harem](@/v/atlantic-nh-gdynia.md) {{ org_badge(org='kpw') }}
 * [Gdynia Sports Center](@/v/gdynia-sports-center.md) {{ org_badge(org='kpw') }}
 * [Gimnazjum nr 8](@/v/gimnazjum-8-gdansk.md) {{ org_badge(orgs=['ddw', 'kpw']) }}
+* [Stocznia Gdańska](@/v/stocznia-gdanska.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
 
 ### Warsaw
 
@@ -37,4 +38,4 @@ template = "index.html"
 ### Others
 
 * [Poznań International Fair](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
-* [Tauron Arena Kraków](@/v/tauron-arena.md) {{ org_badge(orgs=['ptw']) }}
+* [Tauron Arena Kraków](@/v/tauron-arena.md) {{ org_badge(orgs=['ptw', 'low']) }}

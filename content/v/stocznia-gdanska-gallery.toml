@@ -1,0 +1,14 @@
+001 = { path = "elektrykow.webp", caption = "Elektryków Street.<br/>The grey door on the right lead to the B90 Club; the next ones over, between the orange plaque and colourful graffiti, lead to Drizzly Grizzly Club on the ground floor and Plenum upstairs.", source = "Gedanopedia" }
+002 = { path = "mystic-z-lotu-ptaka.webp", caption = "Bird's-eye view of Mystic Festival.", source = "Official Mystic Festival website" }
+101 = { path = "csg-kult-2008.webp", caption = "Centrum Stocznia Gdańska<br/>KULT performing in 2008.", source = "M3n747" }
+102 = { path = "csg-marillion-2009.webp", caption = "Centrum Stocznia Gdańska<br/>Marillion performing in 2009.", source = "M3n747" }
+103 = { path = "b90-off-2019-pulp-fiction.webp", caption = "B90<br/>Pulp Fiction screened at Octopus Film Festival 2019.", source = "M3n747" }
+104 = { path = "plenum-off-2021-pi.webp", caption = "Plenum<br/>Mid-air visualisations before the screening of [π](https://en.wikipedia.org/wiki/Pi_(film)).", source = "M3n747" }
+105 = { path = "b90-off-2021-marek-piestrak.webp", caption = "B90</br>Director Marek Piestrak signs a copy of [Curse of Snakes Valley](https://en.wikipedia.org/wiki/Curse_of_Snakes_Valley) for Krystian Kujda at Octopus Film Festival 2021.", source = "M3n747" }
+106 = { path = "b90-vhs-hell-2023-shock-em-dead.webp", caption = "B90<br/>[Shock 'Em Dead](https://en.wikipedia.org/wiki/Shock_%27Em_Dead) screened at VHS Hell on 30.03.2023.", source = "M3n747" }
+107 = { path = "mystic-2023-ghost.webp", caption = "Mystic Festival<br/>Ghost performing in 2023.", source = "Official Mystic Festival Facebook" }
+108 = { path = "b90-2024-wednesday-13.webp", caption = "B90<br/>Wednesday 13 performing in 2024.", source = "Tarakum Photography" }
+109 = { path = "b90-2024-cradle-of-filth.webp", caption = "B90<br/>Cradle of Filth performing in 2024.", source = "Paulina Leśna" }
+110 = { path = "mystic-2024-megadeth.webp", caption = "Mystic Festival<br/>Megadeth performing in 2024.", source = "Official Mystic Festival Facebook" }
+111 = { path = "b90-2025-sick-n-beautiful.webp", caption = "B90<br/>Sick N' Beautiful performing in 2025.", source = "Trójmiasto.pl" }
+112 = { path = "b90-2025-lordi.webp", caption = "B90<br/>Lordi performing in 2025.", source = "Trójmiasto.pl" }

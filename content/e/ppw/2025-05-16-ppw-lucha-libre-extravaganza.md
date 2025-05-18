@@ -3,16 +3,18 @@ title = "PpW Lucha Libre Extravaganza"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["ppw"]
-venue = ["stocznia-plenum"]
+chronology = ["ppw", "stocznia-gdanska"]
+venue = ["stocznia-gdanska"]
 [extra]
 hide_results = true
 city = "Gdańsk"
 [extra.gallery]
 1 = { path = "el-plakato-grande.jpg", caption = "The show's poster.", source = "Official PpW Facebook" }
+2 = { path = "4029235-festiwal-tequili-w-plenum-w-gdansku.webp", caption = "[Mister Z](@/w/mister-z.md) and Istotna Martynka.", source = "Trójmiasto.pl" }
+3 = { path = "4029232-festiwal-tequili-w-plenum-w-gdansku.webp", caption = "[Czacha](@/w/johnny-blade.md).", source = "Trójmiasto.pl" }
 +++
 
-PpW Lucha Libre Extravaganza will be a two-day show accompanying the [Tequila Mezcal Festival][tequila] in Gdańsk, set to take place in the Plenum hall of the historical Gdańsk Shipyard. This is the first time PpW will appear in northern Poland.
+PpW Lucha Libre Extravaganza was a two-day show accompanying [Tequila Mezcal Festival][tequila] in Gdańsk, taking place in the Plenum hall of the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md). This was the first time PpW appeared in northern Poland.
 
 ### Build-up
 
@@ -25,5 +27,6 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
 
 * [Announcement video](https://www.facebook.com/reel/1707539943197636)
 * [Show details on Facebook](https://www.facebook.com/photo/?fbid=1245911024205954&set=a.499910772139320)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=wIYrM_KH2jM)
 
 [tequila]: https://tequilamezcalfestival.pl

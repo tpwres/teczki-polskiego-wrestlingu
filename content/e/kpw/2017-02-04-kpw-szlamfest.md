@@ -2,8 +2,8 @@
 title = "KPW Szlamfest"
 template = "event_page.html"
 [taxonomies]
-chronology = ["kpw"]
-venue = ["b90"]
+chronology = ["kpw", "stocznia-gdanska"]
+venue = ["stocznia-gdanska"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
@@ -12,7 +12,7 @@ city = "Gdańsk"
 
 SzlamFest billed itself as a celebration of low culture: comics, retro games, B-class movies, meetings with authors, YouTubers and bloggers. And a wrestling show. Three editions were held between 2017 and 2019. The fourth edition in 2020 was cancelled due to the COVID-19 pandemic, and the festival never returned. KPW would hold events on all editions, but only the first one would be named after the event - the others were billed as regular Arena shows.
 
-The event, and festival, were held in B90, a music and event venue located in a former industrial building belonging to Gdańsk Shipyard.
+The event, and festival, were held in B90, a music and event venue located in a former industrial building belonging to [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
 
 {% card() %}
 - ['[Robert Star](@/w/robert-star.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
