@@ -25,5 +25,6 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
 
 * [Announcement video](https://www.facebook.com/reel/1707539943197636)
 * [Show details on Facebook](https://www.facebook.com/photo/?fbid=1245911024205954&set=a.499910772139320)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=wIYrM_KH2jM)
 
 [tequila]: https://tequilamezcalfestival.pl
