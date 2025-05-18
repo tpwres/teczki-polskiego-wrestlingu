@@ -10,6 +10,8 @@ hide_results = true
 city = "Gdańsk"
 [extra.gallery]
 1 = { path = "el-plakato-grande.jpg", caption = "The show's poster.", source = "Official PpW Facebook" }
+2 = { path = "4029235-festiwal-tequili-w-plenum-w-gdansku.webp", caption = "[Mister Z](@/w/mister-z.md) and Istotna Martynka.", source = "Trójmiasto.pl" }
+3 = { path = "4029232-festiwal-tequili-w-plenum-w-gdansku.webp", caption = "[Czacha](@/w/johnny-blade.md).", source = "Trójmiasto.pl" }
 +++
 
 PpW Lucha Libre Extravaganza was a two-day show accompanying [Tequila Mezcal Festival][tequila] in Gdańsk, taking place in the Plenum hall of the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md). This was the first time PpW appeared in northern Poland.
