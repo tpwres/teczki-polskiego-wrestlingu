@@ -1,14 +1,10 @@
 01 = { path = "csg-kult-2008.webp", caption = "Centrum Stocznia Gdańska<br/>KULT performing in 2008.", source = "M3n747" }
 02 = { path = "csg-marillion-2009.webp", caption = "Centrum Stocznia Gdańska<br/>Marillion performing in 2009.", source = "M3n747" }
 03 = { path = "b90-off-2019-pulp-fiction.webp", caption = "B90<br/>Pulp Fiction screened at Octopus Film Festival 2019.", source = "M3n747" }
-04 = { path = "plenum-off-2021-pi.webp", caption = "Plenum<br/>Mid-air visualisations before the screening of [π][pi].", source = "M3n747" }
-05 = { path = "b90-off-2021-marek-piestrak.webp", caption = "B90</br>Director Marek Piestrak signs a copy of [Curse of Snakes Valley][weze] for Krystian Kujda at Octopus Film Festival 2021.", source = "M3n747" }
-06 = { path = "b90-vhs-hell-2023-shock-em-dead.webp", caption = "B90<br/>[Shock 'Em Dead][shock] screened at VHS Hell on 30.03.2023.", source = "M3n747" }
+04 = { path = "plenum-off-2021-pi.webp", caption = "Plenum<br/>Mid-air visualisations before the screening of [π](https://en.wikipedia.org/wiki/Pi_(film)).", source = "M3n747" }
+05 = { path = "b90-off-2021-marek-piestrak.webp", caption = "B90</br>Director Marek Piestrak signs a copy of [Curse of Snakes Valley](https://en.wikipedia.org/wiki/Curse_of_Snakes_Valley) for Krystian Kujda at Octopus Film Festival 2021.", source = "M3n747" }
+06 = { path = "b90-vhs-hell-2023-shock-em-dead.webp", caption = "B90<br/>[Shock 'Em Dead](https://en.wikipedia.org/wiki/Shock_%27Em_Dead) screened at VHS Hell on 30.03.2023.", source = "M3n747" }
 07 = { path = "b90-2024-wednesday-13.webp", caption = "B90<br/>Wednesday 13 performing in 2024.", source = "Tarakum Photography" }
 08 = { path = "b90-2024-cradle-of-filth.webp", caption = "B90<br/>Cradle of Filth performing in 2024.", source = "Paulina Leśna" }
 09 = { path = "b90-2025-sick-n-beautiful.webp", caption = "B90<br/>Sick N' Beautiful performing in 2025.", source = "Trójmiasto.pl" }
 10 = { path = "b90-2025-lordi.webp", caption = "B90<br/>Lordi performing in 2025.", source = "Trójmiasto.pl" }
-
-[pi]: https://en.wikipedia.org/wiki/Pi_(film)
-[weze]: https://en.wikipedia.org/wiki/Curse_of_Snakes_Valley
-[shock]: https://en.wikipedia.org/wiki/Shock_%27Em_Dead
