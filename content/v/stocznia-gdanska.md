@@ -2,6 +2,11 @@
 title = "Stocznia Gdańska"
 template = "venue_page.html"
 authors = ["M3n747"]
+[taxonomies]
+same-venue = ["b90", "plenum"]
+[extra.venue_names]
+b90 = "B90"
+plenum = "Plenum Hall"
 [extra.gallery]
 manifest = "@/v/stocznia-gdanska-gallery.toml"
 +++
