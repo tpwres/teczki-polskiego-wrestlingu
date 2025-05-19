@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw", "stocznia-gdanska"]
-venue = ["stocznia-gdanska"]
+venue = ["plenum"]
 [extra]
 hide_results = true
 city = "Gdańsk"

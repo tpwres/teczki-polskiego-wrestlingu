@@ -3,7 +3,7 @@ title = "KPW Szlamfest"
 template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "stocznia-gdanska"]
-venue = ["stocznia-gdanska"]
+venue = ["b90"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
