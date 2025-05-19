@@ -1,4 +1,4 @@
-001 = { path = "elektrykow.webp", caption = "Elektryków Street.<br/>The grey door on the right lead to the B90 Club; the next ones over, between the orange plaque and colourful graffiti, lead to Drizzly Grizzly Club on the ground floor and Plenum upstairs.", source = "Gedanopedia" }
+001 = { path = "elektrykow.webp", caption = "Elektryków Street.<br/>The grey door on the right leads to the B90 Club; the next one over, between the orange plaque and colourful graffiti, lead to Drizzly Grizzly Club on the ground floor and Plenum upstairs.", source = "Gedanopedia" }
 002 = { path = "mystic-z-lotu-ptaka.webp", caption = "Bird's-eye view of Mystic Festival.", source = "Official Mystic Festival website" }
 101 = { path = "csg-kult-2008.webp", caption = "Centrum Stocznia Gdańska<br/>KULT performing in 2008.", source = "M3n747" }
 102 = { path = "csg-marillion-2009.webp", caption = "Centrum Stocznia Gdańska<br/>Marillion performing in 2009.", source = "M3n747" }
