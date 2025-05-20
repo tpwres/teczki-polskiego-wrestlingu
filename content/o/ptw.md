@@ -87,12 +87,12 @@ On February 12th, 2024, PTW commentary team member Piotr "ShowOff" Małecki anno
 Throughout 2023, [Krampus](@/w/krampus.md), in addition to his in-ring career in PTW, launched a wrestling promotion of his own: Wrestling World Austria (WWA).
 The first set of tapings was announced for September 29th 2023, emanating from City Theater in Hallein, Austria. Among others, the show featured multiple talent from PTW.
 On December 4th 2023, both PTW and WWA [announced][wwa-announcement] that WWA had now become a part of PTW.
-
 The initial name for the this merged promotion was "PTW: WWA" (also stylized as "PTW presents: WWA"), but the organization soon adopted "PTW German" as their [social media name](https://www.facebook.com/ptwwrestlingdeutsch). In addition to covering their own shows, this account reposted PTW's updates concerning events in Poland, but translated to German.
+WWA held its final set of tapings as of yet in October 2024, since then, their social media remained pretty much silent.
 
 ### 2024
 
-In February 2024, PTW held their fifth major event: [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), this time in Legionowo, in the Warsaw metropolitan area.
+In February 2024, PTW held their fifth major event: [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), this time in Częstochowa, a city in the North of Silesian voivodship.
 The Underground shows were also moved to a new location. Initially announced as Gliwice, a historical city in the west of the Silesian metropolis, the actual location turned to be a venue in the neighboring village of Kozłów, about 9&nbsp;km west of the city.
 This made the Underground shows far less accessible, and sparked some criticism.
 They also lost their regularity, with [only one](@/e/ptw/2024-04-13-ptw-underground-21.md) being announced for April.
@@ -124,7 +124,7 @@ On Sunday, May 12th, PTW held the lottery's prize draw on a YouTube live stream.
 Despite PTW's stated goal of providing entertainment for the whole family, this show included controversial guests: Stonoga and the cast of _Królowe Życia_ ("The Queens of Life") reality show, spouting distasteful, sexually-charged jokes.
 The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who called them and why, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet (eventually including the lottery website).
 
-#### Post-Gold Rush crisis
+#### Crisis after Total Blast From The Past
 
 _Main article: [PTW's 2024 crisis](@/a/ptw-crisis.md)_
 
@@ -147,13 +147,13 @@ On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW
 
 Michał "Mutant" Świątkowski, an inactive PTW wrestler who got shelved just after his return at Gold Rush, seemingly confirmed his exit through Instagram stories.
 
-On June 8th, Legia Łysych, a tag team consisting of [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), who never announced leaving PTW, made their surprise debut for [PpW](@/o/ppw.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
+On June 8th, [Legia Łysych](@/tt/legia-lysych.md), a tag team consisting of [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), who never announced leaving PTW, made their surprise debut for [PpW](@/o/ppw.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
 On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://www.instagram.com/p/C7_u3gIsgSO/) of himself and his valet Rusałka on his Instagram profile. This was also interpreted as his exit from PTW.
 
 On Thursday June 13th, PTW has taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawłowski confirmed that Axel Fox, a popular babyface, had also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before.
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawłowski confirmed that Axel Fox, a popular babyface, had also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Just a month later, Fox joined [PpW](@/o/ppw.md), becoming one of the coaches in PpW's rebranded [Ewenement Dojo](@/o/ewenement-dojo.md).
 
 #### Soft reboot: Ryucon, new co-owner
 
@@ -174,12 +174,18 @@ Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?
 
 On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
 
-#### Final Underground, Pawłowski turns heel
-[Underground 25](e/ptw/2024-12-07-ptw-underground-25/) saw two seismic shifts. In the opening segment, Pawłowski confirmed that the show would be the final PTW Underground. To commemorate this series of events, a tournament would be held where the inaugural PTW Underground Champion would be crowned.
+#### End of Underground series, Pawłowski's heel run
+
+[Underground 25](e/ptw/2024-12-07-ptw-underground-25/) saw two seismic shifts. In the opening segment, Pawłowski confirmed that the show would be the final PTW Underground. To commemorate this series of events, a tournament would be held where the inaugural [PTW Underground Champion](@/c/ptw-underground-championship.md) would be crowned.
 In the main event, featuring [Puncher](@/w/puncher.md) defending his [PTW Championship](@/c/ptw-championship.md) against [Spartan](@/w/spartan.md), Pawłowski shocked the audience by attacking Spartan with a chair, which allowed Puncher to retain - thus turning heel for the first time since his [DDW](@/o/ddw.md) run. Ever since, Pawłowski has dropped his gracious persona and heavily increased his social media presence, going into arguments with "haters" whom he refers to as "basement-dwellers" (_piwniczaki_).
 In another argument in the comment section of the [PTW Facebook page][kasa-okonia], Okoński clarified the extent of his involvement in the promotion, declaring he "put 350&nbsp;000 PLN (roughly 82&nbsp;000 EUR, 68&nbsp;000 GBP or 85&nbsp;000 USD) into PTW".
 
 On 11.01.2025 PTW posted a reminder about the upcoming [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md). In one of the comments below this post a company called Event Production, responsible for the production of [Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md), wrote "As a part of the new order, can we count on settling the old debts?", suggesting that PTW still owes them money for their last big show. A fan responded to their post saying that PTW is penniless and sells very few tickets. In the ensuing discussion, Pawłowski and Okoński declared that PTW is in a good condition financially. The event company confirmed that they produced [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) as well.
+
+Over the following months, PpW continued to hold the shows regularly, staying in Kozłów as their base of operations. Since Okoński's December in-ring debut he kept being presented as the face chairman, protecting babyfaces from Pawłowski's bullying. "Chairman vs chairman" became a focal point of the storylines, set to culminate at the [appropriately named show](content/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) in April. The match between two chairmen turned out to be a set-up from Pawłowski, so the story continued.
+PTW increased the number of their championships: [Max Speed](@/w/max-speed.md) was crowned an inaugural [PTW Underground Champion](@/c/ptw-underground-championship.md) and a tournament was started to crown an inaugural [PTW Women's Champion](@/c/ptw-womens-championship.md) 
+
+In multiple Q&A sessions, Pawłowski alluded that their next non-domestic show would be at Ryucon 2025, however, Ryucon eventually decided to host another federation and supposed PTW show became [Legacy of Wrestling vol.3](content/e/low/2025-07-11-low-3.md)
 
 ## Polish wrestling scene
 
