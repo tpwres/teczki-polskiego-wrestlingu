@@ -1,7 +1,7 @@
 +++
 title = "Zieloni"
 template = "team_page.html"
-aliases = ["/a/the-greens", "/a/zieloni"]
+aliases = ["/a/the-greens", "/a/zieloni", "/a/chwasty"]
 authors = ["Sewi The Referee"]
 [extra]
 toclevel = 3
