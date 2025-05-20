@@ -7,10 +7,10 @@ venue = ["b90"]
 [extra]
 city = "Gdańsk"
 [extra.gallery]
-1 = { path = "2017-02-04-kpw-szlamfest-plakat.jpg", caption = "Official poster. Seen along the bottom, left to right: [David Oliwa](@/w/david-oliwa.md), [Peter Pannache](@/w/peter-pannache.md), [Ron Corvus](@/w/ron-corvus.md), [Greg](@/w/greg.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Gracjan Korpo](@/w/gracjan-korpo.md), [Kaszub](@/w/kaszub.md), [Boski Ostrowski](@/w/ostrowski.md), [Robert Star](@/w/robert-star.md) and [Rosetti](@/w/rosetti.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+manifest = "@/e/kpw/2017-02-04-kpw-szlamfest-gallery.toml"
 +++
 
-SzlamFest billed itself as a celebration of low culture: comics, retro games, B-class movies, meetings with authors, YouTubers and bloggers. And a wrestling show. Three editions were held between 2017 and 2019. The fourth edition in 2020 was cancelled due to the COVID-19 pandemic, and the festival never returned. KPW would hold events on all editions, but only the first one would be named after the event - the others were billed as regular Arena shows.
+Szlamfest (roughly _Slimefest_) billed itself as a celebration of low culture: comics, retro games, B-class movies, meetings with authors, YouTubers and bloggers. And a wrestling show. Three editions were held between 2017 and 2019. The fourth edition in 2020 was cancelled due to the COVID-19 pandemic, and the festival never returned. KPW would hold events on all editions, but only the first one would be named after the event - the others were billed as regular Arena shows.
 
 The event, and festival, were held in B90, a music and event venue located in a former industrial building belonging to [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
 
