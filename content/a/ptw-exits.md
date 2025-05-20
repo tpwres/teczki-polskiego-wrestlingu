@@ -188,7 +188,7 @@ On February 12th, 2024, PTW commentary team member [Piotr "ShowOff" Małecki](@/
 ### 2024: Gold Rush and Total Blast From The Past
 
 Right after [PTW #6](@/e/ptw/2024-05-11-ptw-6.md), long-time PTW commentator [Arkadiusz Paterek](@/w/arek-paterek.md) confirmed his departure in a [tweet][paterek-tweet].
-On May 25th, 2024, Paterek and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md) (who also does commentary for PTW events) appeared on the relaunched _WrestleOne_ YouTube channel, ran by a wrestling influencer and one-time freak fighter, Patryk "Patrykos" Domke.
+On May 25th, 2024, Paterek and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md) (who also did commentary for PTW events) appeared on the relaunched _WrestleOne_ YouTube channel, ran by a wrestling influencer and one-time freak fighter, Patryk "Patrykos" Domke.
 In a livestream originally focused on an upcoming WWE event in Saudi Arabia, both Paterek and Balik briefly mentioned their PTW tenures.
 Around the 13:50 mark, Balik confirms his departure from PTW as well.
 According to Paterek, this means that all the original commentary team members have now left.
