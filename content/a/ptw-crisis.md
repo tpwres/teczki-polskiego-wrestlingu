@@ -5,7 +5,7 @@ weight = 0
 authors = ["Szymon Iwulski"]
 +++
 
-In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from the perceived mismanagement of the company, and [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) poor booking. This article elaborates on that crisis, touched upon in the [main article](@/o/ptw.md#post-gold-rush-crisis), and the numerous people who [left PTW](@/a/ptw-exits.md) as a result.
+In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from the perceived mismanagement of the company, and [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) poor booking. This article elaborates on that crisis, touched upon in the [main article](@/o/ptw.md#Crisis-following-Total-Blast-From-The-Past), and the numerous people who [left PTW](@/a/ptw-exits.md) as a result.
 
 <!-- more -->
 
@@ -31,7 +31,7 @@ During this time PTW remained silent, attempted to control the situation by dele
 
 ## Silence and confusion
 
-As this post-Gold Rush crisis was developing, PTW's social media channels remained silent.
+As this post-Total Blast crisis was developing, PTW's social media channels remained silent.
 
 PTW Champion [Puncher](@/w/puncher.md)'s Instagram account posted a cryptic message stating "Chapter closed".
 This led to fans speculating that he may be the next one to leave PTW, but it turned out not to be the case.
