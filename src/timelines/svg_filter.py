@@ -42,9 +42,14 @@ class SVGFilter:
         self.create_link_elements(root)
         self.style_and_hide_annotations(root)
         self.style_bg_stripes(root)
+        self.apply_aspect_ratio(root)
 
         tree.write(output_stream, encoding='unicode', default_namespace='')
         self.emit_js(output_stream)
+
+    def apply_aspect_ratio(self, root):
+        # TODO: Controlled by options?
+        root.set('preserveAspectRatio', 'slice xMinYmin')
 
     def apply_axis_colors(self, root):
         # Ticks

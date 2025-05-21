@@ -10,6 +10,7 @@
 @link,2018,/a/grand-timeline#2018
 @link,PPW Poznań Supershow,/e/ppw/2021-07-30-ppw-poznan-supershow
 @option,minor_ticks,3m
+@option,figsize,13/5
 # graph
 [w/Aron Wake],mzw,2018-08-26,2021-07-21
 -,mzw,2021-07-21,2021-07-22,1/2

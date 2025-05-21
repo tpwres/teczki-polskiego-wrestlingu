@@ -52,6 +52,6 @@ Later they were also active in [PpW](@/o/ppw.md) since 2023.
 ## Timeline
 
 
-{% embed_svg(path="data/zieloni.svg") %}
+{% embed_svg(path="data/zieloni.svg", class="svg-wide") %}
 Members of Zieloni wrestled all over the Polish scene.
 {% end %}
