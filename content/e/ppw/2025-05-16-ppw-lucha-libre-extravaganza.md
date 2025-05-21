@@ -6,7 +6,6 @@ authors = ["M3n747"]
 chronology = ["ppw", "stocznia-gdanska"]
 venue = ["plenum"]
 [extra]
-hide_results = true
 city = "Gdańsk"
 [extra.gallery]
 1 = { path = "el-plakato-grande.jpg", caption = "The show's poster.", source = "Official PpW Facebook" }
