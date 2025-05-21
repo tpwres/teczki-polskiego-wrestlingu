@@ -12,7 +12,9 @@ Bartosz is a rookie wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), 
 
 * Years active: 2024-present
 * Gimmicks/nicknames:
-  - _Rookie_ Bartosz {{ org_badge(orgs=['ppw']) }}
+  - _Rookie_ Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
+  - Bartosz Plata {{ org_badge(orgs=['ppw']) }} (April 2025-)
+
 * Trained by:
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
  
@@ -23,6 +25,10 @@ Bartosz is a rookie wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), 
 #### Training and debut
 
 Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as [Jacob Crane](@/w/jacob-crane.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md), he made his first appearance at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) exhibition show in Poznań. His official debut in front of the [PpW](@/o/ppw.md) audience took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in a pre-show match against the victorious [Sambor](@/w/sambor.md), as well as Sentinel, Wonder Haze and Atilla. 
+
+#### Run as a rookie
+
+With _rookie_ still part of his billing, Bartosz continued to appear regularly, besides _20 typa 20 broni_ Rumble match, mostly in open challenge matches. This spawned a regular "O kurwa, to Bartek Plata!" (roughly: "Holy shit, it's Bartek Plata!") commentary reaction at his entrance. After losing in an open challenge against [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in an interview, he emphasized his willingness to make a name for himself, not as a rookie anymore, but under his shoot name - *Bartosz Plata*. In the same interview, Plata requested a match for [Ledwo Legalne 5](content/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
 
 ## In wrestling
 
