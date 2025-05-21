@@ -1,12 +1,12 @@
 +++
-title = "Bartosz"
+title = "Bartosz Plata"
 template = "talent_page.html"
 authors = ["M3n747", "Sewi The Referee"]
 [taxonomies]
 country = ["PL"]
 +++
 
-Bartosz is a rookie wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/ewenement-dojo.md).
+Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/ewenement-dojo.md).
 
 ## Basic info
 
