@@ -29,8 +29,8 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
 - - '[Czacha](@/w/johnny-blade.md)'
   - '[La Gatita](@/w/agentka-agatka.md)'
   - nc: No contest due to interferences, changed to Trios match
-- - 'Team Tecnicos: [El Señor Cerveza](@/w/goblin.md), [Martinez Grabollo](@/w/gustav-gryffin.md), [La Gatita](@/w/agentka-agatka.md)
-  - 'Team Rudos: [Mister Z](@/w/mister-z.md), [Hirinus de Exsantus](@/w/biesiad.md), [Czacha](@/w/johnny-blade.md)
+- - 'Team Tecnicos: [El Señor Cerveza](@/w/goblin.md), [Martinez Grabollo](@/w/gustav-gryffin.md), [La Gatita](@/w/agentka-agatka.md)'
+  - 'Team Rudos: [Mister Z](@/w/mister-z.md), [Hirinus de Exsantus](@/w/biesiad.md), [Czacha](@/w/johnny-blade.md)'
   - s: Trios match
 - credits:
     Referee: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
