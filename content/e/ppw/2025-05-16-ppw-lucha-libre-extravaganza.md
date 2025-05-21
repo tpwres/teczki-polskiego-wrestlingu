@@ -23,7 +23,7 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
 
 {% card() %}
 - - '[El Señor Cerveza](@/w/goblin.md)'
-  - '[Mister Z](@/w/mister-z.md)'
+  - '[Electrico](@/w/mister-z.md)'
 - - '[Hirinus de Exsantus](@/w/biesiad.md)'
   - '[Martinez Grabollo](@/w/gustav-gryffin.md)'
 - - '[Czacha](@/w/johnny-blade.md)'
@@ -41,11 +41,11 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
 
 * Luchadores spent all of the show ringside, cheering _rudos_ and _tecnicos_ respectively
 * Though every performer wore a mask, they were mostly wearing their original ring-gear, allowing to easily recognize their original personas.
-* Mister Z was announced under his original name, but wrestled in a mask
+* Mister Z was mistakenly announced under his original name, but wrestled in a mask of his old Electrico character
 * Grabollo was nicknamed "Largest Luchador in Poland". He got unmasked during his match, briefly showing Gryffin's face
 * La Gatita vs Czacha saw a series of interferences, from each side and the match devolved into a brawl between rudos and tecnicos, setting up trios main event
 * La Gatita scored a win for _Team Tecnicos_ after a crossbody on Hirinus. He kept selling defeat for a long time, even after Michael HT announced the show was over.
-* Two of the announced luchadores: Esteban Lucha and Electrico no-showed the event
+* Esteban Lucha no-showed the event
 
 ### References
 
