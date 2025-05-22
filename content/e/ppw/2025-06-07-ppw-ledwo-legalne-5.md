@@ -25,7 +25,7 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
   * [Axel Fox](@/w/axel-fox.md) challenged [Olgierd](@/w/olgierd.md).
 * The Enigma Scramble match at the same show ended with three out of four wrestlers scoring one point: Sentinel, Wonder Haze and [Sambor](@/w/sambor.md). All of them were granted a match at this show, with no further details given.
 * At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) [Vic Golden](@/w/vic-golden.md) turned on his former friend [Gabriel Queen](@/w/gabriel-queen.md), later explaining that he was fed up with Queen getting all the biggest chances, while he got nothing.
-* On 22.05 PpW confirmed that the match to which Enigma Scramble contenders qualified is going to be a 6 man ladder match for [PpW Championship](@/c/ppw-championship.md) number one contendership. With 3 spots still empty, PpW confirmed that additional qualifying matches will take place at their [Mystic Festival showcase](@/e/ppw/2025-06-05-ppw-mystic-festival.md).
+* On 22.05.2025 PpW confirmed that the match that Enigma Scramble contenders qualify for, is going to be a six-man ladder match for the [PpW Championship](@/c/ppw-championship.md) number one contendership. With three spots still empty, PpW confirmed that additional qualifying matches will take place at their [Mystic Festival showcase](@/e/ppw/2025-06-05-ppw-mystic-festival.md).
 
 {% card(predicted=true) %}
 - - Sentinel
@@ -51,4 +51,4 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 {% end %}
 
 ### References
-[6 man ladder match](https://www.facebook.com/OficjalnePPW/posts/pfbid034U5GQJPwuSDcMXrh2vyyXzhaB5GVG65gPHDn7jEAAwA88s7EKhsP4jo1UjqhmXgtl)
+* [6 man ladder match](https://www.facebook.com/OficjalnePPW/posts/pfbid034U5GQJPwuSDcMXrh2vyyXzhaB5GVG65gPHDn7jEAAwA88s7EKhsP4jo1UjqhmXgtl)
