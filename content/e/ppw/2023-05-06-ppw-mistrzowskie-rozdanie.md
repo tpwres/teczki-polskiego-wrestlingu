@@ -16,7 +16,7 @@ source = "Official PpW Facebook"
 - - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md) w/ [Osamu](@/w/osamu.md)'
   - r: 'DQ'
-    n: 'the match was initially restarted after Osamu's botched interference. After restart, DQ - Gryffin ignored the ropebreak during submission.'
+    n: "the match was initially restarted after Osamu's botched interference. After restart, DQ - Gryffin ignored the ropebreak during submission."
 - - '[Isnorr](@/w/isnorr.md)'
   - 'Joshua Amaru'
 - - 'Feyyaz Aguila'
