@@ -14,7 +14,7 @@ METADATA=data/all_matches.json \
          data/team_careers.json \
          data/all_photos.json \
          data/photo_taggings.json
-PLOTS=data/chronology-hyperlinked.svg
+PLOTS=data/zieloni.svg data/chronology-2.svg
 CAL=static/calendar.ics \
     static/calendar-ptw.ics \
     static/calendar-kpw.ics \
@@ -54,13 +54,13 @@ $(ROSTERS) &: content/e/**/*.md
 	bin/build-roster
 
 clean-plot:
-	rm -rf data/chronology-hyperlinked.svg data/chronology-plot.svg
+	rm -rf $(PLOTS)
 
-data/chronology-plot.svg: const/chronology.csv
-	bin/plot-chronology $^ > $@
+data/chronology-2.svg: const/chronology_2.csv
+	bin/build-mg  $< $@
 
-data/chronology-hyperlinked.svg: data/chronology-plot.svg
-	bin/linkify-plot < $< > $@
+data/zieloni.svg: const/zieloni.csv
+	bin/build-mg  $< $@
 
 static/calendar.ics: content/e/**/*.md
 	bin/build-calendar > $@

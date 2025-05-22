@@ -81,7 +81,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
     * Match of the Year - Axel Fox and Justin Joy
     * Moment of the Year - Axel Fox and Justin Joy
     * Feud of the Year - Axel Fox and Justin Joy
-    * Tag Team of the Year - Gabriel Queen and Vic Golden 
+    * Tag Team of the Year - Gabriel Queen and Vic Golden
     * Referee of the Year - Sewi The Ref
     * Newcomer of the Year - Vic Golden
 * [Maniac Zone Wrestling](@/o/mzw.md):
@@ -93,5 +93,11 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
 
 * The Greens are also known as Zielone Małpy (_Green Monkeys_) and their official mascot, used in their "shoot" promos and Instagram notes, is an orangutan "🦧".
 * The group have their own insider championship called the "ZLN GNG Championship", shown mostly on their social media during the group's meetings. It was created by modifying the [DFW championship](@/c/dfw-championship.md) belt, replacing its mainplate with a green one. The sideplates show wrestler Dave Batista.
+
+## Timeline
+
+{% embed_svg(path="data/zieloni.svg") %}
+Members of Zieloni wrestled all over the Polish scene.
+{% end %}
 
 [freebirds]: https://en.wikipedia.org/wiki/Fabulous_Freebirds#Freebird_Rule

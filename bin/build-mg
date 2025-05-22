@@ -5,6 +5,6 @@ from pathlib import Path
 
 srcdir = Path(__file__).resolve().parent / '../src'
 sys.path.insert(0, str(srcdir))
-import bin.linkify_plot as linkify
+import bin.membership as mmm
 
-linkify.main()
+mmm.main()

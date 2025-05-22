@@ -1,0 +1,50 @@
+@color,backyard,!grey
+@color,supron,#ffff00
+@color,ppwf,#bfccff
+@color,ddw,#ff9e23
+@color,tbw,#ff0000
+@color,ppw,#770077
+@color,mzw,#00b200
+@color,kpw,#0066cc
+@color,ptw,!black
+@color,low,#b24c4c
+@option,rotate_xticks,on
+@option,legend,off
+@option,major_ticks,2y
+@option,layout,tight
+@option,figsize,10/7
+@option,org_in_tooltip,off
+@option,hide_spines,top+right
+@option,padding,0
+SupronStars,supron,1990-01,1992-12
+Polish Pro-Wrestling Federation,ppwf,2000-01,2003-12
+[o/Do Or Die Wrestling],ddw,2009-01,2015-07
+[o/Total Blast Wrestling],tbw,2010-01,2011-01
+# Backyard years of PpW, then pro years. Use same date as the start of pro to make the bars touch.,,,
+[o/PpW Ewenement],backyard,2010-01,2020-01
+-,ppw,2020-01,-
+[o/Maniac Zone Wrestling],mzw,2013-10,-
+[o/Kombat Pro Wrestling],kpw,2015-10,-
+[o/Prime Time Wrestling],ptw,2021-10,-
+[o/Legacy of Wrestling],low,2024-08,-
+[o/Pomerania Indy Wrestling Group],backyard,2005-04,2009-01
+Polish Wrestling Underground,backyard,2006-01,2009-01
+[o/New Quality Wrestling],backyard,2007-01,2009-12
+Wrestling Total Federation,backyard,2007-01,2010-12
+Wrocławska Scena Wrestlingu,backyard,2008-01,2013-09
+[o/Łazieniec Superstar Wrestling],backyard,2009-11,2010-09
+Honor of Wrestling,backyard,2009-12,2011-12
+Backyard Wrestling Action,backyard,2010-01,2012-03
+[o/Wrestlingowy Klub Sportowy Wołów],backyard,2010-01,2014-08
+Line of Pro,backyard,2010-01,2015-04
+Halemba Power Wrestling,backyard,2010-03,2020-03
+PWE,backyard,2010-06,2010-12
+[o/Polish Xtreme Wrestling],backyard,2011-01,2013-01
+Dolnośląska Scena Wrestlingu,backyard,2011-02,2011-12
+Toruń Wrestling Federation,backyard,2011-04,2014-04
+Polish Wrestling Federation,backyard,2013-01,2013-05
+North Polish Wrestlers Organization,backyard,2013-01,2021-07
+[o/Mine City Wrestling],backyard,2013-09,-
+Slavic Wrestling Federation,backyard,2014-05,2014-06
+[o/Dream Factory Wrestling],backyard,2015-02,2018-06
+PBWF,backyard,2018-12,2019-03

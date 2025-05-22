@@ -1,0 +1,84 @@
+# name,org,start,end,band,layer
+# lines
+@vline,2018-08-26,!blue,PAW Summer Camp
+@vline,2021-10-27,!green,Green Revolution
+@vline,2023-04-01,!yellow,Introduction of ZLN GNG Championship
+@vline,2024-05-11,!orange,Total Blast From The Past,/e/ptw/2024-05-11-ptw-6
+# custom color and legend
+@color,bjpw,!white|!red
+@legend,bjpw,Excursion to Japan,/w/jacob-crane#return-to-ppw-international-career-2022-2024
+@link,Sewi,/w/sedzia-seweryn
+@link,2018,/a/grand-timeline#2018
+@link,PPW Poznań Supershow,/e/ppw/2021-07-30-ppw-poznan-supershow
+@link,PPW Backyard Total War,/e/ppw/2016-07-18-ppw-backyard-total-war
+@link,DFW Recent Dreams,/e/dfw/2017-04-23-dfw-recent-dreams
+@option,minor_ticks,3m
+# graph
+[w/Aron Wake],mzw,2018-08-26,2021-07
+-,mzw,2021-06,2021-07-31,1/2
+-,ppw,2021-07,2021-07-31,2/2,,PPW Poznań Supershow
+-,mzw,2021-08,2021-10-27
+-,ptw,2022-05,2024-06-05
+-,ppw,2024-07-13,-,1/3
+-,mzw,2024-10-12,-,2/3
+-,low,2024-12-01,-,3/3
+[w/Axel Fox],dfw,2017-04,2017-05,,,DFW Recent Dreams
+-,mzw,2017-12,2021-01
+-,ptw,2021-05,2024-06-05
+-,ppw,2024-07-13,-,1/2
+-,low,2024-12-01,-,2/2
+[w/Boro],mzw,2017-12,2021-01
+-,ptw,2021-10,2024-06-05
+[w/Gabriel Queen],mzw,2018-08-26,2021-06
+-,ppw,2021-07,2021-07,,,PPW Poznań Supershow
+-,ptw,2021-05,2023-10-01
+-,ppw,2023-11-24,-,1/2
+-,low,2024-12-01,-,2/2
+[w/Isnorr],dfw,2016-06,2018-06-09
+-,mzw,2018-08-26,2021-06-11
+-,mzw,2021-06-12,2021-10-27,1/2
+-,ppw,2021-06-12,2021-10-27,2/2
+-,ppw,2021-10-27,2025-04-30
+[w/Jacob Crane],mzw,2017-12,2021-08-14
+-,ptw,2021-08-13,2022-08-12
+-,ppw,2022-09-10,-
+-,bjpw,2024-03-31,-,2/2
+[w/Madman Charlie],dfw,2015-06,2017-09-30
+-,ppw,2016-07,2016-07-31,2/2,,PPW Backyard Total War
+-,mzw,2017-12,2021-07
+-,ppw,2021-06,2021-06-30,2/2
+-,mzw,2021-07,2021-10-27,1/2
+-,ppw,2021-08,2021-10-27,2/2
+-,ppw,2021-07-27,2025-04-06
+-,ppw,2025-04-06,-,1/2
+-,low,2025-04-06,-,2/2
+[w/Olgierd],ppw,2016-04,2016-09
+-,mzw,2018-08-26,2021-06-11
+-,mzw,2021-06-11,2021-07-31,1/2
+-,ppw,2021-06-11,2021-07-31,2/2,,PPW Poznań Supershow
+-,mzw,2021-07-31,2021-10-27
+-,ptw,2021-11,2024-06-05
+-,ppw,2024-06-08,2024-12-01
+-,ppw,2024-12-01,-,1/3
+-,mzw,2024-10-12,-,2+3/3
+-,low,2024-12-01,-,3/3
+[w/Rafael Kid],dfw,2015-06,2017-10,
+-,mzw,2017-02,2021-10-27,
+-,ppw,2022-09,2022-10
+Sewi,mzw,2018-08-26,2021-10-27
+-,ptw,2021-11,2024-06-05
+-,ppw,2024-07-13,2024-10-12
+-,ppw,2024-10-12,2024-12-01,1/3
+-,mzw,2024-10-12,2024-12-01,2+3/3
+-,ppw,2024-12-01,-,1/3
+-,mzw,2024-12-01,-,2/3
+-,low,2024-12-01,-,3/3
+[w/Vic Golden],ddw,2015-03-14,2015-05-02
+-,dfw,2016-01,2016-01
+-,mzw,2016-09-10,2017-02-18
+-,dfw,2017-06-17,2017-09-30
+-,mzw,2018-08-26,2021-10-27
+-,ptw,2021-02,2023-07-16
+-,ppw,2024-02-10,2025-04-06
+-,ppw,2025-04-06,-,1/2
+-,low,2025-04-06,-,2/2
