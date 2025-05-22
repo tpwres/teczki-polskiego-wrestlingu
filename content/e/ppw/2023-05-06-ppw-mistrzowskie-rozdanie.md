@@ -13,25 +13,25 @@ source = "Official PpW Facebook"
 +++
 
 {% card() %}
-- - "[Ricardo Diesel](@/w/ricardo-diesel.md)"
-  - "[Gustav Gryffin](@/w/gustav-gryffin.md); [Osamu](@/w/osamu.md)"
+- - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'; '[Osamu](@/w/osamu.md)'
   - r: 'DQ'
     n: 'the match was initially restarted after Osamu's botched interference. After restart, DQ - Gryffin ignored the ropebreak during submission.'
-- - "[Isnorr](@/w/isnorr.md)"
-  - "Joshua Amaru"
-- - "Feyyaz Aguila"
-  - "Dominik Fischer"
-- - "[Johnny Blade](@/w/johnny-blade.md)"
-  - "Lexi Luxx"
-  - s: "Intergender Hardcore Match"
-- - "[Biesiad Strong](@/w/biesiad.md)"
-  - '[Kapitan Bazooka](@/w/kapitan-bazooka.md); [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
-  - r: "KO"
-    c: "[PpW Championship](@/c/ppw-championship.md)"
-- - "[Steve Kuningas](@/w/steve-kuningas.md)"
-  - "Aytac Bahar"
-  - "[Bill Feager](@/w/feager.md)"
-  - "[Mister Z](@/w/mister-z.md)"
+- - '[Isnorr](@/w/isnorr.md)'
+  - 'Joshua Amaru'
+- - 'Feyyaz Aguila'
+  - 'Dominik Fischer'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Lexi Luxx'
+  - s: 'Intergender Hardcore Matc'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'; '[Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
+  - r: 'KO'
+    c: '[PpW Championship](@/c/ppw-championship.md)'
+- - '[Steve Kuningas](@/w/steve-kuningas.md)'
+  - 'Aytac Bahar'
+  - '[Bill Feager](@/w/feager.md)'
+  - '[Mister Z](@/w/mister-z.md)'
   - s: "[PpW Championship](@/c/ppw-championship.md) no #1 Contender's Fatal Four Way Match"
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
