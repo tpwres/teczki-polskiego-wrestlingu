@@ -39,8 +39,8 @@ class SVGFilter:
         self.strip_extra_text_styling(root)
         self.apply_legend_background(root)
         self.apply_legend_colors(root)
-        self.create_link_elements(root)
         self.style_and_hide_annotations(root)
+        self.create_link_elements(root)
         self.style_bg_stripes(root)
 
         tree.write(output_stream, encoding='unicode', default_namespace='')
