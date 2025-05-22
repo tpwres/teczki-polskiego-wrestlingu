@@ -16,14 +16,14 @@ source = "Official PpW Facebook"
 - - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md) w/ [Osamu](@/w/osamu.md)'
   - r: 'DQ'
-    n: "the match was initially restarted after Osamu's botched interference. After restart, DQ - Gryffin ignored the ropebreak during submission."
+    n: "The match was initially restarted after Osamu's botched interference. Later, Gryffin ignored a rope break during submission, leading to a DQ."
 - - '[Isnorr](@/w/isnorr.md)'
   - 'Joshua Amaru'
 - - 'Feyyaz Aguila'
   - 'Dominik Fischer'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Lexi Luxx'
-  - s: 'Intergender Hardcore Matc'
+  - s: 'Intergender Hardcore Match'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md) w/ [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
   - r: 'KO'
@@ -32,7 +32,7 @@ source = "Official PpW Facebook"
   - 'Aytac Bahar'
   - '[Bill Feager](@/w/feager.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - s: "[PpW Championship](@/c/ppw-championship.md) no #1 Contender's Fatal Four Way Match"
+  - s: "[PpW Championship](@/c/ppw-championship.md) #1 Contender's Fatal Four Way Match"
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Interviewer: Szymon Kuciok
