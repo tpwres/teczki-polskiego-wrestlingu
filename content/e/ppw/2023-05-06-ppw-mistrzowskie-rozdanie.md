@@ -14,7 +14,7 @@ source = "Official PpW Facebook"
 
 {% card() %}
 - - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
-  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'; '[Osamu](@/w/osamu.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md) w/ [Osamu](@/w/osamu.md)'
   - r: 'DQ'
     n: 'the match was initially restarted after Osamu's botched interference. After restart, DQ - Gryffin ignored the ropebreak during submission.'
 - - '[Isnorr](@/w/isnorr.md)'
@@ -25,7 +25,7 @@ source = "Official PpW Facebook"
   - 'Lexi Luxx'
   - s: 'Intergender Hardcore Matc'
 - - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'; '[Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
+  - '[Kapitan Bazooka](@/w/kapitan-bazooka.md) w/ [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
   - r: 'KO'
     c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Steve Kuningas](@/w/steve-kuningas.md)'
