@@ -59,17 +59,17 @@ On June 18th, 2024, Puncher published a single-page comic titled "Owczy Pęd" (_
 Characters referenced: \
 Top panels: likely [Samson](@/w/samson.md) on TV (captioned "Retarded Simon"), then Merch Stand Ania with a bell and THE END IS NOW sign. \
 Middle panels: [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md) as pigs in front of a door. \
-[Wiktor Longman](@/w/wiktor-longman.md) wearing a long coat, Legia Łysych ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)) wearing scarves and "60" badges (labelling them as snitches, in reference to article 60 of the Polish criminal code). \
+[Wiktor Longman](@/w/wiktor-longman.md) wearing a long coat, [Legia Łysych](@/tt/legia-lysych.md) ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)) wearing scarves and "60" badges (labelling them as snitches, in reference to article 60 of the Polish criminal code). \
 Text on Marco's scarf reads "Legia Komfidentuf" (_Legion of Sneetchez_, intentionally misspelled). \
-Below them, PAKA: [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md), [Taras](@/w/taras.md) wearing colored tracksuits, and on their left is most likely Samson. \
-Commentary booth: Arek Paterek, referred to as "Świderek" ("świder" meaning a type of drill, similar in appearance to a pig's tail), Piotr "ShowOff" Małecki, referred to as "ŚwińOff" (_PigOff_), and likely Łukasz Baliński. \
+Below them, [PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md), [Boro](@/w/boro.md), [Taras](@/w/taras.md) wearing colored tracksuits, and on their left is most likely Samson. \
+Commentary booth: [Arek Paterek](@/w/arek-paterek.md), referred to as "Świderek" ("świder" meaning a type of drill, similar in appearance to a pig's tail), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), referred to as "ŚwińOff" (_PigOff_), and likely [Łukasz Baliński](@/w/lukasz-balinski.md). \
 The horse: "The Polish Stallion" [Robert Star](@/w/robert-star.md), and to his right Golden and Queen again, ushering the other sheep into the pig's anus. \
 Source: Facebook @PTWpuncher
 {% end %}
 
 #### PTW's reboot
 
-After Pan Pawłowski announced that a soft reboot would take place at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), Puncher managed to keep his position as PTW's top heel and Champion. However, due to online altercations, Puncher lost some of his reputation among the fans.
+After Pan Pawłowski announced that a soft reboot would take place at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), Puncher managed to keep his position as PTW's top heel and Champion. However, due to online altercations, Puncher lost some of his reputation among the fans.
 
 At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.md) Puncher put Łukasz Okoński, PTW's new co-owner, through a table, forcing GM Pawłowski to discipline him with a fine, announced at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md). At the same show, Puncher barged into the ring and confronted Pawłowski in a work-shoot promo, where he called the PTW owner a liar and "no messiah of Polish wrestling" that Pawłowski claims to be. Arkadiusz responded by calling Puncher an "ungrateful son of a bitch" and claiming that he regrets making him the face of Prime Time Wrestling. In the main event, when Puncher defended his championship against [Spartan](@/w/spartan.md), Pawłowski interrupted and turned heel by hitting Spartan with a chair, ultimately aligning with Puncher and helping him retain the title.
 

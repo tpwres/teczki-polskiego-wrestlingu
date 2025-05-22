@@ -75,13 +75,11 @@ They faced their opponents in a 5-vs-5 Elimination Ustawka Match at [Co Za Noc](
 After defeating Zmowa, Biesiad's feud with Mister Z grew even more intense.
 At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) he and Johnny were banned from entering the venue as wrestlers.
 They circumvented the ban by simply buying tickets, and managed to save Axel Fox from getting jumped by Mister Z and Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)), after he declined an offer to join Zmowa.
-At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Mister Z reinstated Biesiad, but challenged him to a Beat the Clock Challenge. Should he lose, he would become Z's bodyguard. Nevertheless Biesiad won, granting himself freedom.
+At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Mister Z reinstated Biesiad, but challenged him to a Beat the Clock Challenge. Should he lose, he would become Z's bodyguard. Nevertheless Biesiad won, retaining his freedom.
 
-This didn't end the feud with Mister Z, however, as prior to [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) the PpW producer kidnapped and tied up Biesiad's friend Johnny Blade.
-Biesiad managed to save his friend and ambush Mister Z at a PM Shooter (PpW's sponsor) shooting range with an assault weapon.
-At Teraz Albo Nigdy Biesiad defeated Marco Hammers, but after Johnny's loss to Mister Z, Biesiad was prevented from even approach Z, risking arrest by PM Shooter mercenaries if he did. Strong ignored the warning which resulted in him being taken down and arrested by armed mercenaries during the 20 Typa, 20 Broni Match.
+This didn't end the feud with Mister Z, however, as prior to [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) the PpW producer kidnapped and tied up Biesiad's friend Johnny Blade. Further details of that angle can be seen in a [separate article](@/a/pm-shooter-saga.md).
 
-Biesiad remained in captivity for a long time. During the build-up to [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) his friend Johnny attempted to free him from the PM Shooter facility, but during their escape Johnny was fatally shot, and Biesiad himself was recaptured.
+Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad is set to face Mister Z at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match.
 
 ### Dream Factory Wrestling (2017)
 

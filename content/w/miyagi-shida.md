@@ -37,7 +37,7 @@ After [Prime Time Wrestling](@/o/ptw.md) opened, choosing to base itself in Sile
 
 #### Debut and feud with Brave & Caravaggio
 
-After Miyagi returned to training in [PTW Academy](@/o/ptw-academy.md), he made his official debut at [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md) in July 2024, answering [Puncher's](@/w/puncher.md) open challenge but was defeated by the [PTW Champion](@/c/ptw-championship.md).
+After Miyagi returned to training in [PTW Academy](@/o/ptw-academy.md), he made his official debut at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md) in July 2024, answering [Puncher's](@/w/puncher.md) open challenge but was defeated by the [PTW Champion](@/c/ptw-championship.md).
 Nevertheless, PTW's owner [Pan Pawłowski](@/w/pan-pawlowski.md) still offered him a contract during [PTW Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md).
 Shida's segment was interrupted by [Alex Brave](@/w/alex-brave.md), which led to their impromptu match right off the bat. Shida lost this match and continued to feud with both of PTW's main midcard heels, Brave and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 He even allied himself with [Max Speed](@/w/max-speed.md), but they were unable to defeat the villains up until Alex Brave challenged Miyagi for a Career Threatening Match at [Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md). This time, Miyagi was able to secure a win over Brave, save his own career and score his first victory in Prime Time Wrestling.

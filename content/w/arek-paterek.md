@@ -38,7 +38,7 @@ At the [second show](@/e/low/2025-04-06-low-2.md), in addition to providing comm
   - Biuro Prasowe (2025-)
 * Entrance music:
   - "It's Only Me (The Wizard of Magicland)" by Barenaked Ladies
-    {{ org_badge(org='low') }} (2024) <br>
+    {{ org_badge(org='low') }} (2024-) <br>
     {{ music(yt='3fgJk97VnE0')}}
     {{ music(spot='5MRnl37NzHpo0qwtvjFeBj')}}
     {{ music(apple='297419027?i=297419061')}}

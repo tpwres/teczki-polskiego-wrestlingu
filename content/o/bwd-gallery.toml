@@ -1,0 +1,54 @@
+a_logo-01 = { path = "bwd-logo.jpg", caption = "Backyard Wrestling Division logo", source = "Official BWD page / Archive.org" }
+a_logo-02 = { path = "banner.gif", caption = "BWD banner", source = "Official BWD page / Archive.org" }
+b_roster-01 = { path = "roster_kat.jpg", caption = "KAT", source = "Official BWD page / Archive.org" }
+b_roster-02 = { path = "roster_kid-crusher.jpg", caption = "Kid Crusher", source = "Official BWD page / Archive.org" }
+b_roster-03 = { path = "roster_manowar.jpg", caption = "ManowaR", source = "Official BWD page / Archive.org" }
+b_roster-04 = { path = "roster_mis-w-masce.jpg", caption = "Miś w Masce", source = "Official BWD page / Archive.org" }
+b_roster-05 = { path = "roster_mr-oko.jpg", caption = "Mr. Oko", source = "Official BWD page / Archive.org" }
+b_roster-06 = { path = "roster_obbo.jpg", caption = "Obbo", source = "Official BWD page / Archive.org" }
+b_roster-07 = { path = "roster_vamp.jpg", caption = "Vamp", source = "Official BWD page / Archive.org" }
+c_marcowa-02 = { path = "ma_02.jpg", caption = "Marcowa Gala 2002.<br/>Left to right: KAT, Vamp and Obbo. Sitting down is Kid Crusher.", source = "Official BWD page / Archive.org" }
+c_marcowa-03 = { path = "ma_03.jpg", caption = "Marcowa Gala 2002.<br/>??? and ???.", source = "Official BWD page / Archive.org" }
+c_marcowa-05 = { path = "ma_05.jpg", caption = "Marcowa Gala 2002.<br/>??? vs Vamp.", source = "Official BWD page / Archive.org" }
+c_marcowa-06 = { path = "ma_06.jpg", caption = "Marcowa Gala 2002.<br/>KAT vs ???.", source = "Official BWD page / Archive.org" }
+c_marcowa-07 = { path = "ma_07.jpg", caption = "Marcowa Gala 2002.<br/>KAT vs Kid Crusher.", source = "Official BWD page / Archive.org" }
+c_marcowa-08 = { path = "ma_08.jpg", caption = "Marcowa Gala 2002.<br/>Obbo vs KAT.", source = "Official BWD page / Archive.org" }
+c_marcowa-09 = { path = "ma_09.jpg", caption = "Marcowa Gala 2002.<br/>Kid Crusher and Vamp.", source = "Official BWD page / Archive.org" }
+c_marcowa-10 = { path = "ma_10.jpg", caption = "Marcowa Gala 2002.<br/>Kid Crusher hits a Backbreaker on Vamp.", source = "Official BWD page / Archive.org" }
+c_marcowa-11 = { path = "ma_11.jpg", caption = "Marcowa Gala 2002.<br/>Vamp suplexes ???.", source = "Official BWD page / Archive.org" }
+c_marcowa-12 = { path = "ma_12.jpg", caption = "Marcowa Gala 2002.<br/>Obbo.", source = "Official BWD page / Archive.org" }
+c_marcowa-13 = { path = "ma_13.jpg", caption = "Marcowa Gala 2002.<br/>KAT.", source = "Official BWD page / Archive.org" }
+c_marcowa-14 = { path = "ma_14.jpg", caption = "Marcowa Gala 2002.<br/>Vamp.", source = "Official BWD page / Archive.org" }
+c_marcowa-15 = { path = "ma_15.jpg", caption = "Marcowa Gala 2002.<br/>KAT vs Vamp.", source = "Official BWD page / Archive.org" }
+c_marcowa-16 = { path = "ma_16.jpg", caption = "Marcowa Gala 2002.<br/>KAT.", source = "Official BWD page / Archive.org" }
+c_marcowa-17 = { path = "ma_17.jpg", caption = "Marcowa Gala 2002.<br/>Vamp jumps onto an unseen opponent.", source = "Official BWD page / Archive.org" }
+c_marcowa-18 = { path = "ma_18.jpg", caption = "Marcowa Gala 2002.<br/>Obbo pins Vamp; KAT does the three-count; Kid Crusher stands by the wall.", source = "Official BWD page / Archive.org" }
+c_marcowa-19 = { path = "ma_19.jpg", caption = "Marcowa Gala 2002.<br/>Kid Crusher vs Obbo.", source = "Official BWD page / Archive.org" }
+c_marcowa-20 = { path = "ma_20.jpg", caption = "Marcowa Gala 2002.<br/>Obbo pins KAT; in the corner, Vamp is held by an unseen opponent.", source = "Official BWD page / Archive.org" }
+c_marcowa-21 = { path = "ma_21.jpg", caption = "Marcowa Gala 2002.<br/>Vamp pins ???.", source = "Official BWD page / Archive.org" }
+c_marcowa-22 = { path = "ma_22.jpg", caption = "Marcowa Gala 2002.<br/>??? about to jump onto KAT.", source = "Official BWD page / Archive.org" }
+d_horror-01 = { path = "hh_1.jpg", caption = "Househorror.<br/>Vamp holds KAT upside-down.", source = "Official BWD page / Archive.org" }
+d_horror-02 = { path = "hh_2.jpg", caption = "Househorror.<br/>Vamp.", source = "Official BWD page / Archive.org" }
+d_horror-03 = { path = "hh_3.jpg", caption = "Househorror.<br/>Vamp holds up ???.", source = "Official BWD page / Archive.org" }
+d_horror-04 = { path = "hh_4.jpg", caption = "Househorror.<br/>Vamp and Kid Crusher share a bottle.", source = "Official BWD page / Archive.org" }
+d_horror-05 = { path = "hh_5.jpg", caption = "Househorror.<br/>Kid Crusher and Vamp.", source = "Official BWD page / Archive.org" }
+d_horror-06 = { path = "hh_6.jpg", caption = "Househorror.<br/>Vamp carries KAT.", source = "Official BWD page / Archive.org" }
+e_trening-021 = { path = "trening021.jpg", caption = "November training session.<br/>Close-up of Kid Crusher's T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-022 = { path = "trening022.jpg", caption = "November training session.<br/>Detail of ManowaR's T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-023 = { path = "trening023.jpg", caption = "November training session.<br/>Close-up of ManowaR's T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-025 = { path = "trening025.jpg", caption = "November training session.<br/>Close-up of Vamp's T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-026 = { path = "trening026.jpg", caption = "November training session.<br/>Close-up of Vamp's other T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-028 = { path = "trening028.jpg", caption = "November training session.<br/>Vamp and ???.", source = "Official BWD page / Archive.org" }
+e_trening-049 = { path = "trening049.jpg", caption = "November training session.<br/>ManowaR and Kid Crusher.", source = "Official BWD page / Archive.org" }
+e_trening-051 = { path = "trening051.jpg", caption = "November training session.<br/>??? and Vamp.", source = "Official BWD page / Archive.org" }
+e_trening-085 = { path = "trening085.jpg", caption = "November training session.<br/>ManowaR vs ???.", source = "Official BWD page / Archive.org" }
+e_trening-086 = { path = "trening086.jpg", caption = "November training session.<br/>ManowaR vs ???.", source = "Official BWD page / Archive.org" }
+e_trening-088 = { path = "trening088.jpg", caption = "November training session.<br/>ManowaR vs ???.", source = "Official BWD page / Archive.org" }
+e_trening-091 = { path = "trening091.jpg", caption = "November training session.<br/>ManowaR and ???.", source = "Official BWD page / Archive.org" }
+e_trening-118 = { path = "trening118.jpg", caption = "November training session.<br/>Vamp vs ManowaR.", source = "Official BWD page / Archive.org" }
+e_trening-131 = { path = "trening131.jpg", caption = "November training session.<br/>Vamp vs ManowaR.", source = "Official BWD page / Archive.org" }
+e_trening-132 = { path = "trening132.jpg", caption = "November training session.<br/>Vamp vs ManowaR.", source = "Official BWD page / Archive.org" }
+e_trening-134 = { path = "trening134.jpg", caption = "November training session.<br/>Vamp vs ManowaR.", source = "Official BWD page / Archive.org" }
+e_trening-135 = { path = "trening135.jpg", caption = "November training session.<br/>Vamp vs ???.", source = "Official BWD page / Archive.org" }
+e_trening-157 = { path = "trening157.jpg", caption = "November training session.<br/>Left to righ: Vamp, ManowaR, ???, ???.", source = "Official BWD page / Archive.org" }
+e_trening-166 = { path = "trening166.jpg", caption = "November training session.<br/>A random artificial flower.", source = "Official BWD page / Archive.org" }

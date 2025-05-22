@@ -69,7 +69,10 @@ He later confirmed his ambitions for a rematch and scored another victory over B
 #### Feud with Mister Z
 
 After the villainous stable Zmowa lost to face stable Zmowa Przeciwko Zmowie led by Biesiad at Co Za Noc, Mister Z focused on taking revenge on Biesiad Strong and Johnny Blade - his former friends. He tried to suspend them from the federation during [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), but the duo bought regular tickets to get into the show, and were able to assist [Axel Fox](@/w/axel-fox.md) in a confrontation against Z and Legia Łysych.
+
 After Johnny took on [Marco Hammers](@/w/marco-hammers.md) in a Vodka Match at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md), Mister Z managed to capture him and set Johnny as a lure for Biesiad. This led to Mister Z vs Johnny Blade III which took place at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). In a brutal match Blade was defeated and beaten up to provoke Biesiad, but despite his injuries Blade made yet another appearance that night, when he took part in 20 Typa 20 Broni Match.
+
+The further involvement of PM shooter mercenaries, as decribed in a [separate article](@/a/pm-shooter-saga.md), led to Johnny's presumed death. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he rose from the grave and returned as a zombie-like persona, calling out [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
 ### Dream Factory Wrestling (2017)
 

@@ -1,5 +1,5 @@
 +++
-title = "Tuba Jedności wrestlingowej"
+title = "Tuba Jedności Wrestlingowej"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
@@ -7,7 +7,7 @@ authors = ["M3n747"]
 manifest = "@/a/tuba-jednosci-wrestlingowej-gallery.toml"
 +++
 
-"Tuba Jedności wrestlingowej" (_The Tube of Wrestling Unity_) is a cardboard tube signed by multiple people (wrestlers and otherwise) from the Polish wrestling scene.
+"Tuba Jedności Wrestlingowej" (_The Tube of Wrestling Unity_) is a cardboard tube signed by multiple people (wrestlers and otherwise) from the Polish wrestling scene.
 
 <!-- more -->
 

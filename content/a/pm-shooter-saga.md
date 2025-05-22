@@ -51,7 +51,7 @@ Post-match, one of the PM Shooter members - apparently the leader - voiced his f
 
 ### Johnny's fate
 
-After the show, as [Michael HT](@/w/michael-ht.md) was about to deliver his parting words, the lights suddenly went out. The big screen showed a video package of some necromantic rituals, resulting in Johnny Blade rising from the grave. The lights came back on revealing Johnny Blade standing in the ring, looking like a zombie. He picked up the mic and called out [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md), seemingly challenging him for a match.
+After the show, as [Michael HT](@/w/michael-ht.md) was about to deliver his parting words, the lights suddenly went out. The big screen showed a video package of necromantic rituals and a witch-like figure chanting "ćibaz Akainorbod" (_kill Dobroniak_, backwards), resulting in Johnny Blade rising from the grave. The lights came back on revealing Johnny Blade standing in the ring, looking like a zombie. He picked up the mic and called out [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md), seemingly challenging him for a match.
 
 ## References
 

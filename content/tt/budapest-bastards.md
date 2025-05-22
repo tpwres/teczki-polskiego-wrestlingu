@@ -21,7 +21,7 @@ Nitro's Polish debut came in 2013 at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md), wher
 
 The Bastards were present at PTW's first [Underground](@/e/ptw/2021-12-19-ptw-underground-1.md) show in December 2021, although still not as a tag team. They didn't compete in the inaugural tournament for PTW's [Tag Team Championship](@/c/ptw-tag-team-championship.md) either. Another Hungarian team - Arrows of Hungary, made up of [Dover](@/w/dover.md) and Icarus - won in the first round, but lost to [PAKA](@/tt/paka.md) in the semifinals.
 
-Budapest Bastards then debuted at [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) in a #1 Contendership Match for the tag team belts, which they won, and later faced the champions at [RyuCon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md), although the match was ruled no-contest due to an intervention by [Legia Łysych](@/tt/legia-lysych.md).
+Budapest Bastards then debuted at [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) in a #1 Contendership Match for the tag team belts, which they won, and later faced the champions at [Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md), although the match was ruled no-contest due to an intervention by [Legia Łysych](@/tt/legia-lysych.md).
 
 #### Tag Team Champions
 

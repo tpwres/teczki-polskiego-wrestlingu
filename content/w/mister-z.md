@@ -20,6 +20,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
 * Gimmicks/nicknames:
   - Mister Z {{ org_badge(orgs=['ppw', 'mzw']) }}
   - Jim Enerico {{ org_badge(orgs=['ppw']) }} (2015-2017)
+  - Electrico {{ org_badge(orgs=['ppw']) }} (2015; later only at non-canon shows)
   - Cade Bruce {{ org_badge(orgs=['dfw', 'ppw']) }} (2017; later only at non-canon shows)
   - Jim Hardy {{ org_badge(orgs=['ppw']) }} (2013-2015)
   - Miłosz Z {{ org_badge(orgs=['ppw']) }} (non-canon shows)
@@ -65,6 +66,13 @@ Conflict between Zmowa and numerous babyfaces, such as Biesiad, [Goblin](@/w/gob
 At [Hardcore Friday: Barszcz Z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) Mister Z faced Axel Fox in a Christmas Street Fight. While Fox was eager to get his revenge on PpW's producer for constant backstabbing attacks and avoiding direct confrontation, he was unable to defeat "The Real Deal" due to an intervention by [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md), and their assault on Axel's tag team partner, Goblin.
 
 At the next show - [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) - Mister Z offered Axel a chance to change his fate in PpW and join Mister Z to achieve success, instead of allying himself with "losers", such as Goblin.
+
+#### Biesiad and Blade
+
+Over the first half of 2025 Mister Z revisited his feud with Blade and Biesiad, this time involving mercenaries from PpW's sponsor - PM Shooter. Details can be seen in a [separate article](@/a/pm-shooter-saga.md).
+
+At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)), Mister Z competed in 20 Typa 20 Broni battle royal for the [PpW Championship](@c/ppw-championship.md) title shot, to no success.
+After the events of [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), he is set to face Biesiad at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match.
 
 ### Dream Factory Wrestling (2017)
 

@@ -53,9 +53,9 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * Paweł Borkowski contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They create PPWF (Polish Pro-Wrestling Federation), which only manages to hold training sessions, but no shows due to lack of interest.
 * Andrzej Supron buys a ring for PPWF.
 
-#### 2005
+#### 2000-2005
 
-* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards are [Pomerania Indy Wrestling Group](@/o/piwg.md) from Gdańsk, and Polish Wrestling Underground. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
+* With pro wrestling still non-existent, a backyard scene begins to emerge. The earliest known backyards include [Hardcore/Backyard Wrestling Division](@/o/bwd.md) from Chrzanów and [Pomerania Indy Wrestling Group](@/o/piwg.md) from Gdańsk. Many of these organizations fold after a year or two, but some thrive. The timeline graph in [Chronology of Polish wrestling](@/a/chronology.md) includes these backyards.
 
 #### 2006
 
@@ -144,7 +144,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2022
 
 * KPW is [invited to Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), Poland's biggest fan convention. The show is successful, and will become a recurring staple of the event.
-* Not to be outdone, PTW becomes [part of RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
+* Not to be outdone, PTW becomes [part of Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
 * PTW holds their Underground series of shows regularly almost every month, giving fans more wrestling than ever before. From the [fourth show](@/e/ptw/2022-04-24-ptw-underground-4.md) onwards, they are streamed live on FITE and YouTube.
 * Jacob Crane quits PTW after only a year, appears as a surprise contender for PpW and becomes their coach.
 
@@ -167,5 +167,6 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PTW drops the "Underground" name from their shows starting with [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) in January. Two new titles are announced: [PTW Underground Championship](@/c/ptw-underground-championship.md), commemorating the Underground series, and [PTW Women's Championship](@/c/ptw-womens-championship.md).
 * [PpW Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) sells out all 800 tickets (and likely a little more than that), making it the biggest PpW show to date, and one of the biggest shows in the history of the Polish scene.
 * PpW announces the first women's match in the history of their promotion, set to take place at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
+* [Legacy of Wrestling](@/o/low.md) hold their [third show](@/e/low/2025-07-11-low-3.md) at Ryucon, which hosted PTW shows for the past three years.
 
 {% end %}

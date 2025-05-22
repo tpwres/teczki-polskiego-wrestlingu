@@ -1,0 +1,15 @@
+01 = { path = "vamp-vita.jpg", caption = "Vampirro opens the show.", source = "WrestleFans forum" }
+02 = { path = "kat.jpg", caption = "KAT.", source = "WrestleFans forum" }
+03 = { path = "kid-crusher.jpg", caption = "Kid Crusher.", source = "WrestleFans forum" }
+04 = { path = "bush.jpg", caption = "The bush that served as the Gorilla Position.", source = "WrestleFans forum" }
+11 = { path = "obbo-biegnie.jpg", caption = "Obbo's entrance.", source = "WrestleFans forum" }
+12 = { path = "kat-i-obbo.jpg", caption = "KAT and Obbo shake hands.", source = "WrestleFans forum" }
+13 = { path = "fajerman.jpg", caption = "Obbo holds KAT in a Fireman Carry, seconds before applying a Twister.", source = "WrestleFans forum" }
+14 = { path = "sugestia-tag-teamu.jpg", caption = "Obbo accepts Kid Crusher's proposition.", source = "WrestleFans forum" }
+21 = { path = "szarpszuter.jpg", caption = "Vampirro holds Kid Crusher in a Sharpshooter.", source = "WrestleFans forum" }
+22 = { path = "kid-crushed.jpg", caption = "Obbo delcares Kid Crusher the winner, after helping him screw Vampirro.", source = "WrestleFans forum" }
+23 = { path = "czelendz.jpg", caption = "Vampirro challenges Obbo and Kid Crusher to a Two-on-One Handicap Match.", source = "WrestleFans forum" }
+31 = { path = "referee-oko.jpg", caption = "Referee Mr. Oko, next to the Gorilla Bush.", source = "WrestleFans forum" }
+32 = { path = "bo-grunt-to-twarz.jpg", caption = "Vampirro introduced Obbo's face to the ground.", source = "WrestleFans forum" }
+33 = { path = "vampirro-wins.jpg", caption = "Vampirro defeats Kid Crusher.", source = "WrestleFans forum" }
+34 = { path = "haj-fajw.jpg", caption = "Vampirro high-fives KAT, who helped him win the match.", source = "WrestleFans forum" }

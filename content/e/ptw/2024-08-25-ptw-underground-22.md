@@ -19,11 +19,11 @@ caption = "Screenshot of Las Atomicas' short-lived Instagram account. They were 
 Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was Dworek Pod Platanem in Kozłów, recently [refurbished](@/o/ptw.md##Post-Ryucon-New-venue-PTW-back-on-track) as a wrestling event and training facility.
 
 This Underground show was the first one to have an individual title, not just a number.
-It was announced during [PTW x RyuCon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), when GM/owner [Pan Pawłowski](@/w/pan-pawlowski.md) announced a summer training camp to be held in August,
+It was announced during [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), when GM/owner [Pan Pawłowski](@/w/pan-pawlowski.md) announced a summer training camp to be held in August,
 concluding with another PTW Underground show, but did not give precise dates.
 
 One new face making her debut for PTW was Harley Hudson, English wrestler from Liverpool. Her wrestling resumé includes matches over the British scene, and winning TNA Gutcheck 2023.
-Other foreign guests were already seen on RyuCon previously: Hungarian wrestlers Gulyas Bros and Maverick, Italian heel wrestler Rust, and the Swedish-flag wearing Svedberg.
+Other foreign guests were already seen on Ryucon previously: Hungarian wrestlers Gulyas Bros and Maverick, Italian heel wrestler Rust, and the Swedish-flag wearing Svedberg.
 
 ## Build-up
 

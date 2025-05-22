@@ -16,9 +16,10 @@ Gustav Gryffin is a Polish wrestler from Bartoszyce, best known for his appearan
 
 * Years active: 2022-present
 * Nicknames/Gimmicks:
-  - Gustav Gryffin {{ org_badge(orgs='ppw', 'low') }}
+  - Gustav Gryffin {{ org_badge(orgs=['ppw', 'low']) }}
   - Hardcore Gustav {{ org_badge(org='ppw') }} (non-canon shows)
   - Gustav Pierdolec {{ org_badge(org='ppw') }} (non-canon shows)
+  - Martinez Grabollo {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
   - PpW Dojo (2022-June 2024)
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (June 2024-present)
@@ -81,19 +82,24 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
   - Ripcord Lariat (2024-)
   - _Gryffin Bomb_ (2023-)
   - Rear Naked Choke (2024-)
-  - Texas Cloverleaf (2024)
+  - Texas Cloverleaf (2023-)
 * Tag Teams and Stables:
   - [Zmowa](@/tt/zmowa.md)
 * Managers:
   - [Osamu](@/w/osamu.md) (2023)
   - [Jakub Linde](@/w/jakub-linde.md) (2024)
 * Entrance music:
+  - "Fuck It" by xryce
+    {{ org_badge(orgs=['ppw', 'mzw']) }} (2023) <br>
+    {{ music(yt='6w8dIKv8pNs&ab')}}
+    {{ music(spot='4WKfmxi5gWUs4MkYiMcln7')}}
+    {{ music(apple='1688771428')}}
   - "Memphis Doom" by Kordhell
-    {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2023-present) <br>
+    {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2024-present) <br>
     {{ music(yt='cJuO985zF8E')}}
     {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
     {{ music(apple='1591104080?i=1591104084')}}
-
+ 
 ## Championships and accomplishments
 
 * PpW Ewenement:

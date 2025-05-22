@@ -28,7 +28,7 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
   - '[Max Speed](@/w/max-speed.md), [Miyagi Shida](@/w/miyagi-shida.md)'
   - s: Tag Team Match
 - - '[Rust](@/w/rust.md)'
-  - 'Newt Nova'
+  - '[Newt Nova](@/w/newt-nova.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '"The Veteran" Jack Vaughn'
   - c: '[PTW Championship](@/c/ptw-championship.md)'

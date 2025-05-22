@@ -118,14 +118,14 @@ There was a follow-up [two years later](@/a/ptw-awards-2024.md).
 1. [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 170
 2. [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 13
 3. [PTW #2: BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 11
-4. [PTW X RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 4
+4. [PTW X Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 4
 5. [PTW Underground 8](@/e/ptw/2022-09-25-ptw-underground-8.md) - 2
 
 #### Match of the Year
 
 1. [Justin Joy](@/w/justin-joy.md) vs [Axel Fox](@/w/axel-fox.md) - [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 165
 2. Matt Sydal vs Samuray Del Sol - Legends - 25
-3. [Disco Pablo](@/w/disco-pablo.md) vs [Diana Strong](@/w/diana-strong.md) vs [Pure](@/w/gabriel-queen.md) [Gold](@/w/vic-golden.md) - [RyuCon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 16
+3. [Disco Pablo](@/w/disco-pablo.md) vs [Diana Strong](@/w/diana-strong.md) vs [Pure](@/w/gabriel-queen.md) [Gold](@/w/vic-golden.md) - [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 16
 4. [Jonny Storm](@/w/jonny-storm.md) vs Jody Fleisch - [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 7
 5. Axel Tischer vs Bad Bones - [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 7
 

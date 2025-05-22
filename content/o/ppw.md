@@ -63,6 +63,8 @@ Over the course of 2024 and further into 2025, PpW increased the frequency of th
 
 On the 28th December 2024 PpW launched their [official subscription-based VOD][ppw-vod] with uncensored versions of their shows (including ones previously not available on YouTube), as well as exclusive bonus materials.
 
+At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, further described in a [separate article](@/a/pm-shooter-saga.md).
+
 ### Lost lore
 
 PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023. The Internet Archive's Wayback Machine only had an [incomplete version](https://web.archive.org/web/20230422172700/https://ppwofficial.fandom.com/pl/wiki/PPW) available. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.

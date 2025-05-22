@@ -59,6 +59,10 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took pa
     {{ music(yt='Mu965dWgMMQ')}}
     {{ music(spot='0iUrxveyNUBfj0cqjYEijt')}}
     {{ music(apple='1627535453?i=1627535463')}}
+  - "Yekteniya I" by Batushka
+    {{ org_badge(orgs=['kpw']) }} (2023; in tag team with [Chemik](@/w/chemik.md)) <br>
+    {{ music(yt='XCMNqKuuFC4')}}
+    {{ music(cc='pl', apple='1152475900?i=1152476251')}}
   - "Metaphonk" by Infraction
     {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
     {{ music(yt='Y64vZp8M8dE')}}

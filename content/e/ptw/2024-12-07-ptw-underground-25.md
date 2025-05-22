@@ -58,7 +58,7 @@ For this event, PTW invited several debuting wrestlers:
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: 'Career Threatening Match'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - 'Newt Nova'
+  - '[Newt Nova](@/w/newt-nova.md)'
   - s: Singles Match
 - - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
   - '[Budapest Bastards](@/tt/budapest-bastards.md)(c): [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
@@ -76,7 +76,7 @@ For this event, PTW invited several debuting wrestlers:
   - '[El Homo (PTW)](@/w/lukasz-okonski.md)'
   - s: Singles Match
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - Krzysztof Skwarczyński
+  - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
   - g: Post-match interview
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Spartan](@/w/spartan.md)'
