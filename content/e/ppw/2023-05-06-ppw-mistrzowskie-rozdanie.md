@@ -14,15 +14,15 @@ source = "Official PpW Facebook"
 
 {% card() %}
 - - "[Ricardo Diesel](@/w/ricardo-diesel.md)"
-  - "[Gustav Gryffin](@/w/gustav-gryffin.md); [Osamu](@/w/osamu.md)",
-  - r: DQ
-    n: the match was initially restarted after Osamu's botched interference. After restart, DQ - Gryffin ignored the ropebreak during submission. 
+  - "[Gustav Gryffin](@/w/gustav-gryffin.md); [Osamu](@/w/osamu.md)"
+  - r: 'DQ'
+    n: 'the match was initially restarted after Osamu's botched interference. After restart, DQ - Gryffin ignored the ropebreak during submission.'
 - - "[Isnorr](@/w/isnorr.md)"
   - "Joshua Amaru"
-- - "Feyyaz Aguila",
+- - "Feyyaz Aguila"
   - "Dominik Fischer"
-- - "[Johnny Blade](@/w/johnny-blade.md)",
-  - "Lexi Luxx", 
+- - "[Johnny Blade](@/w/johnny-blade.md)"
+  - "Lexi Luxx"
   - s: "Intergender Hardcore Match"
 - - "[Biesiad Strong](@/w/biesiad.md)"
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md); [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
