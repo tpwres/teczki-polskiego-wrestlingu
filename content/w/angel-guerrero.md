@@ -1,6 +1,7 @@
 +++
 title = "Angel Guerrero"
 template = "talent_page.html"
+authors = ["M3n747"]
 authors = ["Angel Guerrero"]
 [taxonomies]
 country = ["PL"]
