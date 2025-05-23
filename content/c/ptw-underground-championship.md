@@ -31,6 +31,11 @@ The title was first mentioned in a December 2024 interview for the [MyWrestling 
   - 'Conte'
   - en: '[PTW Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
     ed: 2025-04-12
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Gulyás Öcsi'
+  - en: '[Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+    ed: 2025-05-31
+    nc: Upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
