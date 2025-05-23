@@ -1,8 +1,7 @@
 +++
 title = "Kinga Miotke"
-weight = 0
-authors = ["M3n747", "Sewi The Refere"]
 template = "talent_page.html"
+authors = ["M3n747", "Sewi The Refere"]
 [extra]
 toclevel = 2
 [taxonomies]
