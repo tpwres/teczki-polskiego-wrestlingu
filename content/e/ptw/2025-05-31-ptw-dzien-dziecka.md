@@ -34,7 +34,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - ???
   - nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
-  - ???
+  - 'Gulyás Öcsi'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
 - - 'Sigma Boy xD'
