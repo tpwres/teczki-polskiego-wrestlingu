@@ -7,6 +7,9 @@ authors = ["Sewi The Referee"]
 toclevel = 3
 omit_career = true
 orgs = ["ptw", "ppw", "mzw", "low"]
+[extra.gallery]
+1 = { path = "pas-zln-gng-kominiarz.jpg", caption = "[Unidentified Zielony](@/w/sedzia-seweryn.md) with first version of ZLN GNG Championship belt.", source = "ZLN GNG Archives" }
+2 = { path = "pas-zln-gng-rafael-kid.jpg", caption = "[Rafael Kid](@/w/rafael-kid.md) with second version of ZLN GNG Championship belt.", source = "ZLN GNG Archives" }
 +++
 
 "Zieloni" (_The Greens_) is the name of a group of Polish wrestlers who were originally connected to [Maniac Zone Wrestling](@/o/mzw.md) or started their career there. The name comes from the organization's primary brand color, and is sometimes cryptically abbreviated as _ZLN GNG_. Besides MZW they are also known from working in [Prime Time Wrestling](@/o/ptw.md), [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). 
