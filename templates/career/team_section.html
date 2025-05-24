@@ -5,7 +5,7 @@
 {# If needed, [extra] can contain team_career_keys with additional identifiers. #}
 {# This is useful for unnamed teams, by using a key which is built from the member's names #}
 {% set pagelink = "@/" ~ page.relative_path %}
-{% set career_lookup_keys = [pagelink, page.title] %}
+{% set career_lookup_keys = [page.title, pagelink] %}
 {% if page.extra.team_career_keys %}
   {% set career_lookup_keys = career_lookup_keys | concat(with=page.extra.team_career_keys) %}
 {% endif %}
