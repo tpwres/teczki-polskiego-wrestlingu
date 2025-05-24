@@ -24,7 +24,7 @@ country = ["PL"]
 
 Young Istociarz was a backyard wrestler, active in his small project, [NQW](@/o/nqw.md), as LJ Blade. Per his own account, he took part in [Don Roid](@/w/don-roid.md)'s original training camp, alongside [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Klarys](@/w/klarys.md), and later joined by [Jędruś Bułecka](@/w/jedrus-bulecka.md). This is corroborated by [MyWrestling article][antek-skomentuje] where a  mysterious "fourth man" is mentioned.
 
-Painful training regimen and overall lack of organisation, however, discouraged him from further trainings under Roid. After that, Istociarz limited his activity on the wrestling scene to being a fan and Internet. He was active on forums like BillGoldbergZone and Ultimate Wrestling (as moderator) and also worked as newsman for WrestleFans - one of the most prominent wrestling portals.
+Painful training regimen and overall lack of organisation, however, discouraged him from further trainings under Roid. After that, Istociarz limited his activity on the wrestling scene to being a fan and Internet. He was active on forums like BillGoldbergZone and Ultimate Wrestling (as a moderator), and also worked as a newsman for WrestleFans - one of the most prominent Polish wrestling portals.
 
 ### Internet personality: Istota Wrestlingu (2023-)
 
