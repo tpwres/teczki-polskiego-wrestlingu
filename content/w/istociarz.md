@@ -22,7 +22,7 @@ country = ["PL"]
 ## Professional wrestling career
 ### Attempts to become a wrestler
 
-Young Istociarz was a backyard wrestler, active in his small project, [NQW](@/w/nqw.md) as LJ Blade. Per his own account, he took part in [Don Roid](@/w/don-roid.md)'s original training camp, but painful training regimen and overall disorganization discouraged him from further trainings under Roid. After that, Istociarz limited his activity in wrestling to being a fan.
+Young Istociarz was a backyard wrestler, active in his small project, [NQW](@/o/nqw.md) as LJ Blade. Per his own account, he took part in [Don Roid](@/w/don-roid.md)'s original training camp, but painful training regimen and overall disorganization discouraged him from further trainings under Roid. After that, Istociarz limited his activity in wrestling to being a fan.
 
 
 ### Internet personality: Istota Wrestlingu (2023-)
