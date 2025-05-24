@@ -64,7 +64,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Special Guest Referee: '[Marco Hammers](@/w/marco-hammers.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), Antek Istociarz'
+    Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
     Guest Commentary: '[Goblin](@/w/goblin.md), [Olgierd](@/w/olgierd.md)'
 {% end %}
 
