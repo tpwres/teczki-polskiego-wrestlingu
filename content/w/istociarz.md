@@ -17,12 +17,13 @@ country = ["PL"]
   - Istociarz {{ org_badge(org='ppw') }}
   
 * Trained by:
-  - Don Roid (briefly)
+  - DDW (2009, briefly)
 
 ## Professional wrestling career
 ### Attempts to become a wrestler
 
-Young Istociarz was a backyard wrestler, active in his small project, [NQW](@/o/nqw.md) as LJ Blade. Per his own account, he took part in [Don Roid](@/w/don-roid.md)'s original training camp, but painful training regimen and overall disorganization discouraged him from further trainings under Roid. After that, Istociarz limited his activity in wrestling to being a fan.
+Young Istociarz was a backyard wrestler, active in his small project, [NQW](@/o/nqw.md) as LJ Blade. Per his own account, he took part in [Don Roid](@/w/don-roid.md)'s original training camp, alongside [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Klarys](@/w/klarys.md) and later joined by [Jędruś Bułecka](@/w/jedrus-bulecka.md). This is corroborated by [MyWrestling article](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) where mysterious "fourth man" is mentioned.
+Painful training regimen and overall disorganization discouraged him from further trainings under Roid. After that, Istociarz limited his activity in wrestling to being a fan.
 
 
 ### Internet personality: Istota Wrestlingu (2023-)
