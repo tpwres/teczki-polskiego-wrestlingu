@@ -81,13 +81,13 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
     Guest Ring Announcer: '[Joker](@/w/joker.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Commentary: '[Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
-    Commentary: '[Joker](@/w/joker.md), Antek Istociarz'
+    Commentary: '[Joker](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 
 #### Recap
 
 * This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
-* The commentary was provided by Joker, joined by Antek from the [Istota Wrestlingu][istota] podcast, under the name _Istociarz_.
+* The commentary was provided by Joker, joined by Antek from the [Istota Wrestlingu][istota] podcast, under the name _[Istociarz](@/w/istociarz.md)_.
 * Joker opened the show, and announced the pre-show match, before handing the mic over to Michael HT.
 * At the pre-show, [_rookie_ Bartosz](@/w/plata.md) made his full PpW debut. Previously he'd made a handful of appearances at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), but these were considered non-canon. He used a soundtrack piece from the videogame _Yakuza 0_ as his entrance theme.
 * Goblin's gauntlet challenge saw two fairly competitive matches against Marcelito and Aron Wake. During Feager's entrance, unusally long even for his standards, Goblin took a seat in a fishing chair in the ring and started reading a fishing magazine, gradually ripping pages out and handing them off to the audience. The match itself lasted mere seconds, with Goblin spitting green mist in Feager's face and rolling him up for a three-count.
