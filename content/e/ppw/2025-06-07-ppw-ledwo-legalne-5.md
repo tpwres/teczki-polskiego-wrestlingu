@@ -35,7 +35,7 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '???'
   - '???'
-  - s: '6 man No #1 Contender Ladder Match'
+  - s: 'Six Man #1 Contender Ladder Match'
     nc: upcoming
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Olgierd](@/w/olgierd.md)'
