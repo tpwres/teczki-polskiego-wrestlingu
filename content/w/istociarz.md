@@ -24,7 +24,7 @@ country = ["PL"]
 
 Young Istociarz was a backyard wrestler, active in his small project, [NQW](@/o/nqw.md), as LJ Blade. Per his own account, he took part in [Don Roid](@/w/don-roid.md)'s original training camp, alongside [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Klarys](@/w/klarys.md), and later joined by [Jędruś Bułecka](@/w/jedrus-bulecka.md). This is corroborated by [MyWrestling article][antek-skomentuje] where a  mysterious "fourth man" is mentioned.
 
-Painful training regimen and overall lack of organisation, however, discouraged him from further trainings under Roid. After that, Istociarz limited his activity on the wrestling scene to being a fan and Internet. He was active on forums like BillGoldbergZone and Ultimate Wrestling (as moderator) and also worked as newsman for WrestleFans - one of the most prominent wrestling portals.
+Painful training regimen and overall lack of organisation, however, discouraged him from further trainings under Roid. After that, Istociarz limited his activity on the wrestling scene to being a fan and Internet. He was active on forums like BillGoldbergZone and Ultimate Wrestling (as a moderator), and also worked as a newsman for WrestleFans - one of the most prominent Polish wrestling portals.
 
 ### Internet personality: Istota Wrestlingu (2023-)
 
@@ -37,13 +37,14 @@ Along with moving to the live formula, their style also changed. Istociarz (then
 
 After Martyna became an [Ewenement Dojo](@/o/ewenement-dojo.md) trainee, the relationship between Istota Wrestlingu and [PpW](@/o/ppw.md) gradually started growing. The channel featured PpW angles (notably - [Gustav Gryffin ](@/w/gustav-gryffin.md) [attacking][flecizm-stosowany] [Goblin](@/w/goblin.md) during his interview, in a build-up to their match) and more PpW wrestlers (both live and in exclusive interviews). [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) called the channel biased and a "PpW's propaganda machine", rejecting an interview invitation (alternatively claiming he'd never heard of the channel and never received an invitation).
 
-On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would be added to the PpW commentary team. Joining [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](content/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at every show since. 
+On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would be added to the PpW commentary team. Joining [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](content/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at every show since. He also works on various aspects of the events, such as preshow direction, video production and conducting interviews with fans.
 
 ### References
 
 * [Istota Wrestlingu YouTube channel](https://www.youtube.com/@IstotaWrestlingu/)
 * [First show with video - lucha masks' debut](https://www.youtube.com/watch?v=8mK6DOEIucw&t=26s)
 * [MyWrestling announces Istociarz debuting on PpW commentary](https://mywrestling.com.pl/istociarz-skomentuje-gale-ppw-gruba-przesada/)
+* [Pre-show interviews](https://www.youtube.com/watch?v=5G__fqLzFqc) conducted by Istociarz at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)
 
 [flecizm-stosowany]: https://www.youtube.com/watch?v=qf0dCwJb8x0
 [antek-skomentuje]: https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/
