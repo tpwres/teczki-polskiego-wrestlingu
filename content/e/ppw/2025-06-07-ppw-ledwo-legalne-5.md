@@ -50,8 +50,8 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: 'Three Stages Of Hell'
     nc: upcoming
-- - [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)
-  - [Johnny Blade](@/w/johnny-blade.md)
+- - '[Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Undead Beerbath match: Project Zero'
     nc: upcoming
 {% end %}
