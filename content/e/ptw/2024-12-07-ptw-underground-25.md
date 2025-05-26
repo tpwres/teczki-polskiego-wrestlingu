@@ -78,7 +78,7 @@ For this event, PTW invited several debuting wrestlers:
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
   - g: Post-match interview
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '[Spartan](@/w/spartan.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:

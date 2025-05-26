@@ -29,7 +29,7 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
   - s: Tag Team Match
 - - '[Rust](@/w/rust.md)'
   - '[Newt Nova](@/w/newt-nova.md)'
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '"The Veteran" Jack Vaughn'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - credits:
