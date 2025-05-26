@@ -25,7 +25,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 * On May 15th Klaudiusz uploaded a video of him and Okoński, in which the Chairman promised to help him resolve the issue.
 * Following up on their feud including arena brawls, Shida and Sullivan will compete in a Falls Count Anywhere match.
 * On May 23rd PTW confirmed the challenger for the [PTW Underground Championship](@/c/ptw-underground-championship.md) - the returning Gulyás Öcsi, making his PTW singles debut.
-* In a [Facebook video](https://www.facebook.com/watch/?v=1056182143186831) on PTW  fanpage, Italian referee Daniele Specchiulli cuts a heelish promo, announcing his return to PTW, calling out [Sędzia Herno](@/w/sedzia-herno.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)
+* In a [Facebook video](https://www.facebook.com/watch/?v=1056182143186831) on PTW  fanpage, Italian referee Daniele Specchiulli cuts a heelish promo, announcing his return to PTW, calling out [Sędzia Herno](@/w/sedzia-herno.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md).
 
 {% card(predicted=true) %}
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
