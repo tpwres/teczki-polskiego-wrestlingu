@@ -28,7 +28,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 * In a [Facebook video](https://www.facebook.com/watch/?v=1056182143186831) on PTW  fanpage, Italian referee Daniele Specchiulli cuts a heelish promo, announcing his return to PTW, calling out [Sędzia Herno](@/w/sedzia-herno.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md).
 
 {% card(predicted=true) %}
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - 'Ben Rodgers'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
@@ -38,7 +38,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 - - '[Diana Strong](@/w/diana-strong.md)'
   - ???
   - nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
+- - '[Max Speed](@/w/max-speed.md)(c)'
   - 'Gulyás Öcsi'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
