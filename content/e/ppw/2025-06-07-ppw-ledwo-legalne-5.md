@@ -26,8 +26,8 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 * The Enigma Scramble match at the same show ended with three out of four wrestlers scoring one point: Sentinel, Wonder Haze and [Sambor](@/w/sambor.md). All of them were granted a match at this show, with no further details given.
 * At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) [Vic Golden](@/w/vic-golden.md) turned on his former friend [Gabriel Queen](@/w/gabriel-queen.md), later explaining that he was fed up with Queen getting all the biggest chances, while he got nothing.
 * On 22.05.2025 PpW confirmed that the match that Enigma Scramble contenders have qualified for, is going to be a six-man ladder match for the [PpW Championship](@/c/ppw-championship.md) number one contendership. With three spots still empty, PpW confirmed that additional qualifying matches will take place at their [Mystic Festival showcase](@/e/ppw/2025-06-05-ppw-mystic-festival.md).
-* On 25.05.2025 PpW posted a [video](https://www.facebook.com/reel/1532002251118652) of [Marco Hammers](@/w/marco-hammers.md) phoning [Mister Z](@/w/mister-z.md). He runs down all the matches that [Zmowa](@/tt/zmowa.md) has at the show and requests one for himself. Following up on his ladder spot from [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Marco calls himself a "ladder specialist", likening himself to Jeff Hardy. He requests being added to the Six Man #1 Contender Ladder Match. While the voice on the phone is never heard, Marco's reaction as well as the video's description confirm that the deal was made.
-* On 26.05.2025 PpW posted a [video](https://www.facebook.com/reel/3307021946119896), containing lab diary of [Professor Dobroniak](@/w/stanislaw-van-dobroniak.md). He lists the ways to get rid of [Johnny Zombie Blade](@/w/johnny-blade.md). One is to kill the zombie, but it would also kill Johnny Blade. However, Dobroniak's research allowed him to discover a more humanitarian way to beat Zombie Johnny - bathe him in non-alcoholic beer, which would cure his zombie affliction. Thus, Johnny Blade vs Stanisław van Dobroniak has been set up as an _Undead Beerbath match: Project Zero_. He vows to save Johnny Blade and become a hero of Polish wrestling.
+* On 25.05.2025 PpW posted a [video][marco-dzwoni] of [Marco Hammers](@/w/marco-hammers.md) phoning [Mister Z](@/w/mister-z.md). He runs down all the matches that [Zmowa](@/tt/zmowa.md) has at the show and requests one for himself. Following up on his ladder spot from [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Marco calls himself a "ladder specialist", likening himself to Jeff Hardy. He requests being added to the Six Man #1 Contender Ladder Match. While the voice on the phone is never heard, Marco's reaction as well as the video's description confirm that the deal was made.
+* On 26.05.2025 PpW posted a [video][szalony-profesor] containing lab diary of [Professor Dobroniak](@/w/stanislaw-van-dobroniak.md). In it, he lists various ways to get rid of [Johnny Zombie Blade](@/w/johnny-blade.md). One way is to kill the zombie, but that would also kill Johnny Blade. However, Dobroniak's research allowed him to discover a more humane way to beat Zombie Johnny - bathe him in non-alcoholic beer, which should cure his zombie affliction. Thus, Johnny Blade vs Stanisław van Dobroniak has been set up as an Undead Beerbath Match: Project Zero. Dobroniak vows to save Johnny Blade and become a hero of Polish wrestling.
 
 {% card(predicted=true) %}
 - - Sentinel
@@ -52,7 +52,7 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
     nc: upcoming
 - - '[Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - s: 'Undead Beerbath match: Project Zero'
+  - s: 'Undead Beerbath Match: Project Zero'
     nc: upcoming
 {% end %}
 
@@ -60,3 +60,6 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 * [Six Man Ladder Match](https://www.facebook.com/OficjalnePPW/posts/pfbid034U5GQJPwuSDcMXrh2vyyXzhaB5GVG65gPHDn7jEAAwA88s7EKhsP4jo1UjqhmXgtl)
 * [Hammers requests to be added](https://www.facebook.com/reel/1532002251118652)
 * [Professor Dobroniak's lab diary](https://www.facebook.com/reel/3307021946119896)
+
+[marco-dzwoni]: https://www.facebook.com/reel/1532002251118652
+[szalony-profesor]: https://www.facebook.com/reel/3307021946119896
