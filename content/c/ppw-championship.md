@@ -34,7 +34,7 @@ Above the PpW logo it there was another ornament with the cross of Saint James.
  There were two sideplates on each side of the belt: one with a luchador mask, and the other with "hardcore wrestling" written on it - a representation of PpW's two early "brands", or rosters - Hardcore Friday and Super Lucha. 
  All the plates were attached to a mint-blue belt without any snap fasteners. Instead it could be fastened with a velcro strap on the inner side of the belt.
 
-In February 2021 Mister Z introduced a new version of the Championship, this time much more professional. The main plate was round and made of golden-coloured metal. In the centre of the main plate there was a large, updated, silver PpW logo. Beneath the logo there was a smaller banner with "Champion" written on it. The main plate was also lightly decorated with engravings and laurel wreath with some colourful gems on the sides. Sideplates were rather simple and circural with the PpW logo on it. The plates were attached to a standard black leather belt.
+In February 2021 Mister Z introduced a new version of the Championship, this time much more professional. The main plate was round and made of golden-coloured metal. In the centre of the main plate there was a large, updated, silver PpW logo. Beneath the logo there was a smaller banner with "Champion" written on it. The main plate was also lightly decorated with engravings and laurel wreath with some colourful gems on the sides. Sideplates were rather simple and circural with the PpW logo on it. The plates were attached to a standard black leather belt. The belt was created by [United Brothers Belts](https://www.facebook.com/photo.php?fbid=921020626705335&set=a.574354294705305&type=3), a Pakistani wrestling title belts creator.
 
 At [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) [Gustav Gryffin](@/w/gustav-gryffin.md) introduced a new, personalized variation of the PpW Championship. It was rather similar in design to the previous version, with the main differences being the added colourful details (such as a blue and red PpW logo), white belt instead of a black one, and golden tips with PpW logo at the ends of the belt itself.
 
@@ -230,6 +230,8 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     nc: upcoming
 {% end %}
 
+## References:
+* [United Brothers Belts fanpage](https://www.facebook.com/photo.php?fbid=921020626705335&set=a.574354294705305&type=3)
 ## References
 
 * [PpW Wiki's entry on the PpW Championship](https://ppw-fandom.tpwres.pl/ppw-championship)
