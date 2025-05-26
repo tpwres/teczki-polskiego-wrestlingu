@@ -36,8 +36,9 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - ???
   - nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
-  - ???
-  - nc: upcoming
+  - 'Kiara'
+  - c: Glam! Championship
+    nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
   - 'Gulyás Öcsi'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
