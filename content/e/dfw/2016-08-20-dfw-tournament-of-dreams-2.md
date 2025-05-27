@@ -6,6 +6,7 @@ authors = ["Krzysztof Zych"]
 chronology = ["dfw"]
 [extra]
 city = "Toruń"
+toclevel = 2
 [extra.gallery.poster]
 path = "dfw-tournament-of-dreams-poster.webp"
 caption = "Official poster. Top to bottom: [Corin Maer](@/w/corin-mear.md), [Pain Killer](@/w/pain-killer.md), [Chris Hunter](@/w/chris-hunter.md)."
@@ -17,6 +18,8 @@ The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/
 For this event, the venue was a sports hall belonging to local Nicolaus Copernicus University in Toruń, located on the university campus in the western part of the city.
 
 This event saw the DFW debuts of [Rob Scaffold](@/w/rob-scaffold.md) and [Direk](@/w/direk.md). More importantly, the [DFW Championship](@/c/dfw-championship.md) belt was introduced and awarded. The first two matches were semi-finals, and the main event a finals match for the championship.
+
+## Card
 
 {% card() %}
 - - '[Charlie](@/w/madman-charlie.md)'
@@ -38,7 +41,7 @@ This event saw the DFW debuts of [Rob Scaffold](@/w/rob-scaffold.md) and [Direk]
     Commentary: 'Seth Donner, Kuba z WWEPolandNatioN'
 {% end %}
 
-### References
+## References
 
 * [Full event on YouTube](https://www.youtube.com/watch?v=AoQtub8J1eU)
 * [Facebook event page](https://www.facebook.com/events/1203592959691798/)
