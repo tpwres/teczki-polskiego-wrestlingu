@@ -6,6 +6,7 @@ chronology = ["international", "wws"]
 venue = ["torwar"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 +++
 
 World Wrestling Superstars was a group of American wrestlers, doing a tour of Europe in 1993.
@@ -17,6 +18,8 @@ and aside from Supron's efforts in the 90s and early 2000s, the only professiona
 until [DDW](@/o/ddw.md) and [TBW](@/o/tbw.md) held their first shows in 2009-2010.
 
 The [Prehistory of wrestling](@/a/prehistory.md) article covers this era in more detail.
+
+## Card
 
 {% card() %}
 - [Max Moon, SD Jones]
