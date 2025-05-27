@@ -37,7 +37,7 @@ The event name, which translates to "The Best Show in Town", is a reference to t
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383024)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/najlepsza-gala-w-miescie-22-full-show-rare-edition) (requires paid subscription)

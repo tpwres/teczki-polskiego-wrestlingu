@@ -64,7 +64,7 @@ Several international wrestlers debuted for PpW at this event, most of them from
 * The legs of one of the table were broken and wouldn't hold correctly in place, so [Biesiad](@/w/biesiad.md) simply dumped the table on Osamu.
 * [Tony Sk1n](@/w/tony-sk1n.md) interfered and attacked Biesiad during his match with [Osamu](@/w/osamu.md), but Biesiad quickly disposed of him.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383968)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-2-22-definitive-edition-hd) (requires paid subscription)

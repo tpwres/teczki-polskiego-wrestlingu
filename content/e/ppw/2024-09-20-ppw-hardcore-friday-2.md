@@ -113,7 +113,7 @@ toclevel = 2
 * Michael HT confirms "Zmowa przeciwko zmowie vs [Zmowa](@/tt/zmowa.md)" for the [next show](@/e/ppw/2024-10-26-ppw-co-za-noc.md). He plugs the next shows and announces the start of ticket sale for the next day. Afterparty starts.
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=403099)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-2-full-show-20-09-24) (requires paid subscription)

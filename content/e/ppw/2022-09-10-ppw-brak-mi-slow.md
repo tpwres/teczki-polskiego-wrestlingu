@@ -47,7 +47,7 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383860)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ppw-brak-mi-slow-22-full-show-hd) (requires paid subscription)

@@ -31,6 +31,6 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### References
+## References
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=382968)
 * [Full show on YouTube](https://www.youtube.com/watch?v=jG6U4LfnJuk)

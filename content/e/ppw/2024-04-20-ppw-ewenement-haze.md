@@ -30,7 +30,7 @@ The foreign guests for this event were:
 * Dominican wrestler Rambo, with 16 years of in-ring experience, mostly on the German scene. This is not his first time in Poland however: back in 2010 he appeared in a [tag team match](@/e/tbw/2010-06-05-tbw-2.md) for [Total Blast Wrestling](@/o/tbw.md).
 * Ukrainian wrestler Alex Arthur. While this is his first appearance for PpW, he already wrestled for MZW a number of times, starting in 2016.
 
-#### Build-up to the event
+## Build-up
 
 * Mister Z defeated Ricardo Diesel for the #1 Contender spot. PpW Champion Feager defends his newly won title in the main event.
 * In the 4/20 ladder match, the object hung above the ring is to be a small bag of cannabis.
@@ -329,7 +329,7 @@ Additional interviews, once again conducted by Joker:
   Closing comment from Z - are you all happy that I don't have a belt? But I have PpW! He flips off the camera.
 * Alex Arthur: He feels like after a good fight. He likes the Ultraviolent belt, he showed he can hang with Dobroniak, so he wants a rematch down the line. Joker suggests a triple threat including Johnny and Arthur loves the idea. He leaves with a PpW chant toward the camera.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=391568)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ewenement-haze-4-20-24-full-show-hd) (requires paid subscription)

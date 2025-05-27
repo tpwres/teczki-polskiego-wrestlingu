@@ -41,7 +41,7 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
     Referee: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=384409)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/inside-job-fullshow-dvd-hd) (requires paid subscription)

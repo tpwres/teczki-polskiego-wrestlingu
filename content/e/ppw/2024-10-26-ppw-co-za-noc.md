@@ -20,7 +20,7 @@ Just like most of PpW's bigger shows, this event was streamed live on their YouT
 
 The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers, roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
-### Build-up
+## Build-up
 
 * PpW announced a collaboration event for the show. Before and during the event, there will be an opportunity to get a tattoo, courtesy of tattoo parlour Syrena (_Siren_).
 * To further bolster ticket sales, PpW introduced a student discount as well are "buy 5, get 1 free" discount.
@@ -86,7 +86,6 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 Timestamps refer to the YouTube video linked in the [References](#references) section, and mark the start of wrestler entrances, not the opening bell.
 
 {% timeline() %}
-
 
 #### Opening
 

@@ -47,6 +47,7 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=382939)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-3-23-full-show-definitive-edition) (requires paid subscription)

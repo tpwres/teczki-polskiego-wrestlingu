@@ -25,7 +25,7 @@ PpW @ Mystic Festival 2025 will be a two-day show accompanying [Mystic Festival 
     nc: upcoming
 {% end %}
 
-### References
+## References
 
 * [Announcement post](https://www.facebook.com/photo/?fbid=1246774540140902&set=a.734451078039920)
 

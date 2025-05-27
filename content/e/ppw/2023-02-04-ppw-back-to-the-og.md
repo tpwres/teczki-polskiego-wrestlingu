@@ -40,7 +40,7 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Borys](@/w/sedzia-borys.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=388621)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/back-2-the-og-23-rare-edition) (requires paid subscription)

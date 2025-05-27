@@ -15,7 +15,7 @@ The name of the event is a play on "barszcz z uszkami", a traditional Polish sou
 
 The show was quickly sold out, so the attendance can be approximated at about 220 viewers.
 
-### Build up
+## Build-up
 
 * On 08.11.2024 it was announced that [Axel Fox](@/w/axel-fox.md) would face PpW's producer and leader of [Zmowa](@/tt/zmowa.md) in a Christmas Street Fight Match. It would be a continuation of the Fox-Z feud which started during [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July. It was also Fox's second Christmas-themed Stret Fight Match, as he fought in the same stipulation the year before at [PTW Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md)
 * On 25.11.2024 PpW announced that the current [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md) would face [Johnny Blade](@/w/johnny-blade.md) in a non-title match.
@@ -131,7 +131,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Winner: Mister Z by pinfall.
 * After the match Mister Z along with Legia Łysych celebrate over the beaten up GobLis.
 
-#### Ending:
+#### Ending
 
 * Timestamp: `2:10:15`
 * After Zmowa leaves the ring the crowd is chants "GobLis", while both members of said tag team slowly recover from the beatdown and hug it out before leaving the ring.

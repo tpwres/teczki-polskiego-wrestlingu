@@ -92,7 +92,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### References
+## References
 
 * [Official site][ptp]
 * [Photo galleries from past events](https://targipiwne.pl/galeria/)

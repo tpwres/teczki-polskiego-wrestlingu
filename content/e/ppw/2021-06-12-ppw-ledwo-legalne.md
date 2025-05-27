@@ -27,7 +27,7 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383300)
 * [Full show on YouTube](https://www.youtube.com/watch?v=9PZhhykQF8s)

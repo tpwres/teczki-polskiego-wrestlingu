@@ -20,7 +20,7 @@ also attended the show.
 Despite the name, no blood was on display at this event save for [Johnny Blade's](@/w/johnny-blade.md) back, already bloodied from his Trial by Metal and Glass match on [Saturday](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
 The event was also not streamed on PpW's regular channels, though a fan-stream by Istota Wrestlingu is available.
 
-### Storyline overview
+## Storyline overview
 
 This event was non-canon. Host [Michael HT](@/w/michael-ht.md) announced that "today we're in a different reality, where weird things may happen".
 PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny-blade.md) in a Halloween Street Fight, and later [Gustav Gryffin](@/w/gustav-gryffin.md) to face his "biggest nightmare".

@@ -22,7 +22,7 @@ The hype text suggested "a collusion against the collusion" - which refers to [B
 
 Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they called their "summer course". This later turned into [Ewenement Dojo](@/o/ewenement-dojo.md), PpW's official wrestling school with Crane and Biesiad as coaches.
 
-### Build-up
+## Build-up
 
 * [Jacob Crane](@/w/jacob-crane.md) is returning from his three-month stint in Japan's BJW, and wants his rematch against [Gabriel Queen](@/w/gabriel-queen.md)
 * In an [Instagram reel][reel-olgierd-gryffin], Gustav reached out to Olgierd and offered Legia Łysych ([Olgierd](@/w/olgierd.md) & [Hammers](@/w/marco-hammers.md)) a match against Goblin.
@@ -70,7 +70,7 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
     Commentary: 'Szymon "Modzel" Modzelewski'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=397548)
 * [Full show on YouTube](https://www.youtube.com/watch?v=UEQkSKMekCs&t=14480s) (at the 4:01:18 mark Michael announces the next show)

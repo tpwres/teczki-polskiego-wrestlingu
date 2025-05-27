@@ -39,7 +39,7 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383440)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/mistrz-jest-tylko-jeden-22-full-show) (requires paid subscription)

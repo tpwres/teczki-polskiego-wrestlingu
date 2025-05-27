@@ -58,7 +58,8 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
     nc: upcoming
 {% end %}
 
-### References
+## References
+
 * [Six Man Ladder Match](https://www.facebook.com/OficjalnePPW/posts/pfbid034U5GQJPwuSDcMXrh2vyyXzhaB5GVG65gPHDn7jEAAwA88s7EKhsP4jo1UjqhmXgtl)
 * [Hammers requests to be added](https://www.facebook.com/reel/1532002251118652)
 * [Professor Dobroniak's lab diary](https://www.facebook.com/reel/3307021946119896)
