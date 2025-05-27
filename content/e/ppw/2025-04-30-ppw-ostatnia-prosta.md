@@ -30,7 +30,7 @@ Ostatnia Prosta (_The Run-Up_) was an event by [PpW Ewenement Wrestling](@/o/ppw
 * On 23.04.2025 PpW announced that [Biesiad Strong](@/w/biesiad.md) would face Scandinavian wrestler Mr Power Up (PM Shooter's kayfabe representative), and that the match would be officiated by [Mister Z](@/w/mister-z.md) as the Special Guest Referee.
 * On 25.04.2025 PpW announced the gate and bell time, mentioning that the pre-show match will take place roughly 15 minutes before the show starts.
 
-## International guests
+### International guests
 
 During the event, fans saw new and returning international wrestlers in the ring:
 

@@ -87,7 +87,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
     Commentary: '[Joker](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
 * The commentary was provided by Joker, joined by Antek from the [Istota Wrestlingu][istota] podcast, under the name _[Istociarz](@/w/istociarz.md)_.
@@ -111,7 +111,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 * At one point, Gustav tried to steal a fan's beer; the fan wouldn't have it and instead splashed the beer on Gryffin.
 * Around three minutes before the end of the main event, [Referee Seweryn](@/w/sedzia-seweryn.md) was knocked out. The referee regained consciousness enough to count Gabriel's pin, but due to being still dazed after the hit to the head, Seweryn was slow to count. In effect, the timer ran out just one second before the ref counted to three, rendering the pin invalid.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=418108)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/gruba-przesada-25-full-show) (requires paid subscription)

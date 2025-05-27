@@ -7,6 +7,7 @@ chronology = ["ppw", "stocznia-gdanska"]
 venue = ["stocznia-gdanska"]
 [extra]
 city = "Gdańsk"
+toclevel = 2
 [extra.gallery]
 1 = { path = "ppw-mystic-festival-plakat.webp", caption = "The show's poster, showing a picture from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "Official Mystic Festival Facebook" }
 2 = { path = "mystic-mapka-2025.jpg", caption = "Map of the festival area. Note a pin labelled &quot;wrestling&quot; in the Chill Out Zone in the bottom right corner.", source = "Official Mystic Festival Facebook" }
@@ -14,6 +15,8 @@ city = "Gdańsk"
 +++
 
 PpW @ Mystic Festival 2025 will be a two-day show accompanying [Mystic Festival 2025][mystic] in Gdańsk, set to take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's Chill Out Zone. This is PpW's second appearance in Gdańsk, following [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) in May.
+
+## Card
 
 {% card(predicted=true) %}
 - - '[Biesiad Strong](@/w/biesiad.md), [Goblin](@/w/goblin.md)'
