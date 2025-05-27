@@ -33,7 +33,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - '[Steven Kimono](@/w/biesiad.md)'
   - nc: '?'
 - - '[Czacha](@/w/johnny-blade.md)'
-  - '[El Senior Cerveza](@/w/goblin.md)'
+  - '[El Señor Cerveza](@/w/goblin.md)'
   - nc: '?'
 - - '[Feager](@/w/feager.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
@@ -73,7 +73,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - s: Tag Team Match
     nc: '?'
 - - '[Hardcore Gustav](@/w/gustav-gryffin.md)'
-  - '[El Senior Cerveza](@/w/goblin.md)'
+  - '[El Señor Cerveza](@/w/goblin.md)'
   - nc: '?'
 - - '[Kapral Kornel](@/w/sedzia-kornel.md)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
@@ -92,7 +92,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-## References
+### References
 
 * [Official site][ptp]
 * [Photo galleries from past events](https://targipiwne.pl/galeria/)

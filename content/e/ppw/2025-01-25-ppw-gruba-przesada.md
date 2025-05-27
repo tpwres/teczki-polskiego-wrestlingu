@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-01-25-ppw-gruba-przesada-gallery.toml"
 +++
@@ -40,6 +41,8 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
   He called Dobroniak the "biggest backyard guy of them all". Responding to a threat of having a banana shoved up his rectum, he promised to wrap that banana in barbed wire and shove it in Dobroniak's mouth.
 * On 22.01.2025, Mister Z posted yet another video. Sitting in his office, he makes a phone call asking an unknown interlocutor (presumably someone from the PpW crew) to relay a message that both [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) will not be making an appearance at Gruba Przesada.
   This came after a few days of Biesiad Strong teasing in his Instagram "notes" that his match would be announced soon. Reacting to the ban, Biesiad posted a short Instagram story, where he called Mister Z a "boy trying to play [Jerry Mandecky's](@/w/jerry-mandecky.md) role", among other insults. He promised to appear on the show nevertheless and destroy Mister Z.
+
+## Card
 
 {% card() %}
 - - '[Sambor](@/w/sambor.md)'

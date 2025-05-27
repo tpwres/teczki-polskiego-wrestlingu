@@ -42,7 +42,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - s: Non-title Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
-  - '[El Senior Cerveza](@/w/goblin.md)'
+  - '[El Señor Cerveza](@/w/goblin.md)'
   - s: Lucha Libre Triple Threat Match
 
 - d: 'Friday, 20:00'

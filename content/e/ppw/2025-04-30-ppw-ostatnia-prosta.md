@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-04-30-ppw-ostatnia-prosta-gallery.toml"
 +++
@@ -37,6 +38,8 @@ During the event, fans saw new and returning international wrestlers in the ring
 * Hungarian wrestler Danny Roxx, in his PpW debut.
 * Danish wrestler Madison Marley, at the time only 17 years old, but with multiple matches in Sweden, Denmark, Germany, Scotland and others under her belt.
 * Swedish wrestler Mr Power Up, best known from the Swedish and Danish scenes.
+
+## Card
 
 {% card() %}
 - - '[Marcelito](@/w/marcelito.md)'

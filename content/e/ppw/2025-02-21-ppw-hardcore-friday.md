@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-02-21-ppw-hardcore-friday-gallery.toml"
 +++
@@ -22,6 +23,8 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * On 16.02.2025 PpW announced that Biesiad would have to face Mister Z's "special challenge" to earn his way back from his suspension.
 * The day after that since [Goblin](@/w/goblin.md) decided to go to Mexico instead of appearing at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), he'd now have to compete in a "lucha surprise" match.
 * On 18.02.2025 [Axel Fox](@/w/axel-fox.md) was announced.
+
+## Card
 
 {% card() %}
 - - '[Goblin](@/w/goblin.md)'

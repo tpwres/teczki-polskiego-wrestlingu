@@ -49,7 +49,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
     Sound: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-## Recap
+### Recap
 
 * Gustav cuts a promo about how the PpW booker and owner Mister Z called him in the middle of the night to book him for this show. Next, his opponent enters, wearing black trunks and a black lucha mask, whom Gustav initially failed to recognize.
 * The match pitted two champions against each other: Gustav with his new, white PpW championship belt, and Mister Z, wearing the previous, black-strapped version, the same one Gustav retired at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). Host Michael HT announced this to be a title belt unification match.

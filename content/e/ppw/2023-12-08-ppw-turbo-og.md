@@ -47,7 +47,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
 {% end %}
 
-## Aftermath
+### Aftermath
 
 * [Feager](@/w/feager.md) won the right to face [Steve Kuningas](@/w/steve-kuningas.md) for the [PpW Championship](@/o/ppw.md#championships).
 * [Goblin](@/w/goblin.md) won by using Green Mist on Gustav, while [Osamu](@/w/osamu.md) unsuccessfully tried to interfere in their match. After the bell, the angry Gustav accosted referee Borys. Once again [Osamu](@/w/osamu.md) interfered, this time defending the referee, but that ended his alliance with Gustav, and he received a beatdown for it. [Jakob Sigmarsson](@/w/jakub-linde.md) appeared, revealing himself as Gustav's trainer and new ally.
@@ -55,7 +55,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 * Biesiad and [Isnorr](@/w/isnorr.md) took the fight outside and shot fireworks at each other, among other weapons. Chris X interfered against Biesiad, following their rivalry from [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
 * The Christmas Massacre featured light tubes, Christmas glass baubles, and most importantly, a heavily padded and helmeted cameraman in the ring, hired by [Mandecki](@/w/jerry-mandecky.md) to record Johnny's defeat in high detail up close. At one point, he blinded Johnny with a camera flash to the face. [Isnorr](@/w/isnorr.md) and Biesiad also interfered in the fight.
 
-## References
+### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383977)
 * [Facebook event page](https://www.facebook.com/events/1375270156727790)

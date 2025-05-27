@@ -44,11 +44,11 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
 {% end %}
 
-## Recap
+### Recap
 
 * Before closing the show, [Kapitan Bazooka](@/w/kapitan-bazooka.md) confronted [Biesiad Strong](@/w/biesiad.md) in the ring, setting up their match at the [next event](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
 
-## References
+### References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=384839)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/piwa-i-igrzysk-23-defenitive-edition-hd) (requires paid subscription)
