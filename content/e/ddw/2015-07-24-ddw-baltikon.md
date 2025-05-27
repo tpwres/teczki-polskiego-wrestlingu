@@ -6,6 +6,7 @@ chronology = ["ddw"]
 venue = ["zs1-sopot"]
 [extra]
 city = "Sopot"
+toclevel = 2
 hide_results = true
 [extra.gallery]
 manifest = "@/e/ddw/2015-07-24-ddw-baltikon-gallery.toml"
@@ -18,6 +19,8 @@ The 2015 edition was held in Sopot, in Zespół Szkół nr 1 which is a complex 
 It was also the final edition of the convention.
 
 Match card unofficial, based on available photos.
+
+## Card
 
 {% card(unofficial=true) %}
 - - '[Robert Star](@/w/robert-star.md)'
@@ -32,7 +35,7 @@ Match card unofficial, based on available photos.
     nc: '?'
 {% end %}
 
-### References
+## References
 
 * [Baltikon 2015 at Konwenty Południowe](https://konwenty-poludniowe.pl/konwenty/kalendarz/205-baltikon-2015)
 * [Facebook event page for Baltikon](https://www.facebook.com/events/857141374353362). The "Guests" section lists various artists, writers, cosplayers, and Do Or Die Wrestling among them.

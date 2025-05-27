@@ -6,6 +6,7 @@ chronology = ["ddw"]
 venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster. Left to right: [Bianca](@/w/bianca.md), [Klarys](@/w/klarys.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official DDW Facebook" }
 2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "[Kasandra](@/w/kasandra.md) vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
@@ -17,6 +18,8 @@ city = "Gdańsk"
 This was one of the final shows to be held under the [DDW](@/o/ddw.md) banner. After moving the organization from Rzeszów to Gdańsk, the local wrestlers (which at that time were the majority) started to run things without the owner's input.
 
 Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md), and the need to travel the entire country to run the school and shows now in Gdańsk, [Don Roid](@/w/don-roid.md) would soon close down DDW, selling the ring to a new organization which took over the entire roster. That organization would reveal itself later in October that year as [KPW](@/o/kpw.md), and hold their [first show](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md) later in November.
+
+## Card
 
 {% card() %}
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
@@ -47,7 +50,7 @@ Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md
     Referees: '[Krystian Malinowski](@/w/krystian-malinowski.md), Artur Dzwończak'
 {% end %}
 
-#### Battle Royal
+### Battle Royal
 
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-1.jpg") %}
 _rookie_ [Rex Torpeda](@/w/krystian-malinowski.md) \
@@ -97,8 +100,7 @@ referee Artur Dzwończak \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 
-
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=129059)
 * [DDW's highlights video](https://www.youtube.com/watch?v=V0hXeu1SsPg)

@@ -6,9 +6,12 @@ chronology = ["ddw"]
 venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
 +++
+
+## Card
 
 {% card() %}
 - - '[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
@@ -40,7 +43,7 @@ manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md), ???, [Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
-#### Battle Royal
+### Battle Royal
 
 {% inline_fig(path="2015-03-14-ddw-house-show-1-battle-royal-1.jpg") %}
 Left to right: \
@@ -69,7 +72,7 @@ Greg \
 (Source: Krystian Malinowski)
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=129059)
 * [Full Match: Kasandra vs Mira](https://www.youtube.com/watch?v=XCgBTAGddOg)

@@ -6,9 +6,12 @@ chronology = ["ddw"]
 venue = ["pod-palma"]
 [extra]
 city = "Rzeszów"
+toclevel = 2
 +++
 
 This event was a showcase of DDW's newest trainees, and accompanied the bigger [All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md) which was held the next day.
+
+## Card
 
 {% card() %}
 - - 'Ivan Bolkov'
@@ -25,6 +28,6 @@ This event was a showcase of DDW's newest trainees, and accompanied the bigger [
   - '[Kaszub](@/w/kaszub.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=114968)
