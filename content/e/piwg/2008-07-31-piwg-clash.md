@@ -20,7 +20,7 @@ PIWG Clash was an early backyard show by [Pomerania Indy Wrestling Group](@/o/pi
   - nc: '?'
 {% end %}
 
-### References
+## References
 
 * [List of published videos][atti-lista] on Attitude Forum
 
