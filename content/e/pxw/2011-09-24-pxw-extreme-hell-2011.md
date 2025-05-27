@@ -5,11 +5,14 @@ template = "event_page.html"
 chronology = ["pxw"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery]
 1 = { path = "terry-jump-1.webp", caption = "[Terry Shadow](@/w/shadow.md)…", source = "Polish Backyard Archives @ YouTube" }
 2 = { path = "terry-jump-2.webp", caption = "…jumps from the roof of a shed…", source = "Polish Backyard Archives @ YouTube" }
 3 = { path = "terry-jump-3.webp", caption = "…onto [Black Joker](@/w/lider.md).", source = "Polish Backyard Archives @ YouTube" }
 +++
+
+## Card
 
 {% card() %}
 - - 'Deadman'
