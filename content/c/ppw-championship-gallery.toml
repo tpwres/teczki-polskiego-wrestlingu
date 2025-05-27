@@ -1,9 +1,9 @@
-01 = { path = "stary-pas.jpg", caption = "Close-up of the PpW Championship before redesign.", source = "piotr.biesiadeck @ Facebook" }
-02 = { path = "ppw-championship.jpg", caption = "[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.", source = "Official PpW website / Facebook" }
-03 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = "The PpW Champion, [Steve Kuningas](@/w/steve-kuningas.md), with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA.", source = "Official PpW website / Facebook" }
-04 = { path = "ppw-new-championship-belt.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) presenting the redesigned belt at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).", source = "Official PpW Instagram" }
-05 = { path = "ppw-old-belt.jpg", caption = "[Mister Z](@/w/mister-z.md) with the old belt at [Kiedyś będzie lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).", source = "Official PpW YouTube" }
-06 = { path = "ppw-new-belt-closeup-1.jpg", caption = "Close-up of the Championship's front plate, taken at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).", source = "Sewi The Referee" }
-07 = { path = "ppw-new-belt-closeup-2.jpg", caption = "Full view of the Championship, taken at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).", source = "Sewi The Referee" }
-08 = { path = "ppw-belt-post.jpg", caption = "Belt creators United Brothers BELTS advertises their services with PpW Championship.", source = "Official UBB Facebook" }
-09 = { path = "ppw-belt-from-creator.jpg", caption = "Photo of PpW Championship from title belt creatord United Brothers BELTS.", source = "Official UBB Facebook" }
+01 = { path = "ppw-old-belt.jpg", caption = "[Mister Z](@/w/mister-z.md) with the old belt at [Kiedyś będzie lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).", source = "Official PpW YouTube" }
+02 = { path = "stary-pas.jpg", caption = "Close-up of the PpW Championship before redesign.", source = "piotr.biesiadeck @ Facebook" }
+03 = { path = "ppw-championship.jpg", caption = "[Biesiad Strong](@/w/biesiad.md) with the PpW Championship.", source = "Official PpW website / Facebook" }
+04 = { path = "steve-kuningas-with-ppw-championship-in-jacksonville.jpg", caption = "The PpW Champion, [Steve Kuningas](@/w/steve-kuningas.md), with the PpW Championship belt at a CCW Wrestling event in Jacksonville, USA.", source = "Official PpW website / Facebook" }
+05 = { path = "ppw-belt-post.jpg", caption = "Belt creators United Brothers BELTS advertises their services with PpW Championship.", source = "Official UBB Facebook" }
+06 = { path = "ppw-belt-from-creator.jpg", caption = "Photo of PpW Championship from title belt creators United Brothers BELTS.", source = "Official UBB Facebook" }
+07 = { path = "ppw-new-championship-belt.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) presenting the redesigned belt at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md).", source = "Official PpW Instagram" }
+08 = { path = "ppw-new-belt-closeup-1.jpg", caption = "Close-up of the Championship's front plate, taken at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).", source = "Sewi The Referee" }
+09 = { path = "ppw-new-belt-closeup-2.jpg", caption = "Full view of the Championship, taken at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).", source = "Sewi The Referee" }
