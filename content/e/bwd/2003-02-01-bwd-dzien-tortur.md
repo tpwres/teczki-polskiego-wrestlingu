@@ -7,12 +7,15 @@ chronology = ["bwd"]
 venue = ["hala-lo2"]
 [extra]
 city = "Chrzanów"
+toclevel = 2
 hide_results = true
 [extra.gallery]
 manifest = "@/e/bwd/2003-02-01-bwd-dzien-tortur-gallery.toml"
 +++
 
 Dzień Tortur (_Torture Day_) was the first show by [Backyard Wrestling Division](@/o/bwd.md), then known as Hardcore Wrestling Division. The event took place on 1.02.2003, around a month before the group was officially created. It was held in the gym hall of high school no. 2 in Chrzanów.
+
+## Card
 
 {% card() %}
 - - 'Kid Crusher'
@@ -32,7 +35,7 @@ Dzień Tortur (_Torture Day_) was the first show by [Backyard Wrestling Division
     nc: '?'
 {% end %}
 
-### References
+## References
 
 * [Show details on HWD's website](https://web.archive.org/web/20030313032910/http://www.hwd.friko.pl/dzient.html) on Archive.org
 * [News section of HWD's website]( https://web.archive.org/web/20030312011610/http://www.hwd.friko.pl/home.html) on Archive.org, mentioning the date of the group's inception
