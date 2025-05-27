@@ -6,11 +6,14 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery.1]
 path = "2021-06-12-ppw-ledwo-legalne-plakat.jpg"
 caption = "Official poster, showing [Mister Z](@/w/mister-z.md) with the [PpW Championship](@/c/ppw-championship.md)."
 source = "Official PpW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Tony Sk1n](@/w/tony-sk1n.md)"]

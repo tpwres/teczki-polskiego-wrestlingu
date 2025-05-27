@@ -6,6 +6,7 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2020-02-15-ppw-brawl-for-the-puppies-plakat.jpg", caption = "Official poster, showing [Ricky Sky](@/w/ricky-sky.md), [Duende](@/w/sedzia-borys.md), Viking, Alex Tamatou, Šakal, [Osamu](@/w/osamu.md), Amskér, [Johnny Blade](@/w/johnny-blade.md) and [Mister Z](@/w/mister-z.md).", source = "Amskér's Facebook" }
 2 = { path = "2020-02-15-ppw-brawl-for-the-puppies-logo.jpg", caption = "Official logo", source = "Official PpW Facebook" }
@@ -14,6 +15,8 @@ city = "Warszawa"
 Bijatyka Dla Piesków (_Brawl for the Puppies_) was an event by [PpW Ewenement](@/o/ppw.md), held on Saturday, February 15th 2020.
 Held in [2KOŁA](@/v/2kola.md), it marks the start of PpW's pro era (albeit it is considered a transitional event, with [Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) being the first "proper" pro show) and was the first PpW event to feature international wrestlers.
 True to the name, all the gate profits (910&nbsp;PLN) were donated to "Psi Raj" dog shelter in Pasłęk.
+
+## Card
 
 {% card() %}
 - - 'Amskér'
