@@ -7,11 +7,14 @@ chronology = ["ppw"]
 venue = ["placyk-ppw"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2012-07-01-ppw-neomania-ii-gallery.toml"
 +++
 
 Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an unknown date(s) during the summer holidays of 2012, and was held at a local playground. The date of July 1st was chosen arbitrarily for the purposes of this entry and does not accurately reflect the actual date(s) of the event.
+
+## Card
 
 {% card() %}
 - - '[Angel Guerrero](@/w/johnny-blade.md), RoodWood'

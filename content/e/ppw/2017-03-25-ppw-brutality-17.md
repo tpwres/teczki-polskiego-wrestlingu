@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "brutality-2017-banner.jpg", caption = "Official banner.", source = "Official PpW Facebook" }
 2 = { path = "brutality-2017-pic-1.jpg", caption = "[Rob Scaffold](@/w/rob-scaffold.md) vs [Steven Strong](@/w/biesiad.md)", source = "Official PpW Facebook" }
@@ -20,6 +21,8 @@ True to the name, the main event of the show featured barbed wire, chain-link fe
 
 The main event featured Hardcore Icon, a guest from Halemba Power Wrestling (a backyard from Ruda Śląska) and their reigning Hardcore Champion at the time.
 This was the final PpW show to use the old DIY ring.
+
+## Card
 
 {% card() %}
 - - '[Jim Enerico](@/w/mister-z.md)'

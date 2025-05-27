@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "neomania-v-feager-vs-steven-strong.jpg", caption = "[Feager](@/w/feager.md) vs [Steven Strong](@/w/biesiad.md).", source = "Official PpW Facebook" }
 2 = { path = "neomania-v-jim-enerico-vs-rob-scaffold.jpg", caption = "[Jim Enerico](@/w/mister-z.md) vs [Rob Scaffold](@/w/rob-scaffold.md).", source = "Official PpW Facebook" }
@@ -15,6 +16,8 @@ city = "Warszawa"
 +++
 
 Neomania V was PpW's backyard show held outdoors at [Winogronowa 17](@/v/winogronowa-17.md) street, in front of a crowd of about 10 people. It was the final entry in the [Neomania series][neomania-series] of so-called PPVs.
+
+## Card
 
 {% card() %}
 - - 'Mati'

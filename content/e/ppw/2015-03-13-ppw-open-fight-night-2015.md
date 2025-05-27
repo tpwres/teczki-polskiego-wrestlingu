@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["steel-cage"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "logo.jpg", caption = "Official logo.", source = "Official PpW YouTube" }
 2 = { path = "automatico-z-zetem.jpg", caption = "[Automatico](@/w/rob-scaffold.md) (left) and [Mister Z](@/w/mister-z.md) (right).", source = "Official PpW YouTube" }
@@ -17,6 +18,8 @@ city = "Warszawa"
 Open Fight Night 2015 was the first of two events in the Open Fight Night series. It took place in a "steel cage", which was in fact a basketball court surrounded by a chain link fence. The idea of the OFN series was that anyone could challange anyone else.
 
 The exact date of the event isn't known. The videos were uploaded on 13.03 and 23.03.2015; the first date was chosen for the purposes of this entry, but may not accurately reflect the acutual date(s) of the event. Judging by the differences in lighting, part 2 of the video was likely recorder on another day.
+
+## Card
 
 {% card() %}
 - - '[Electrico](@/w/mister-z.md)'

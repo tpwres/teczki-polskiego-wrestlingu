@@ -7,12 +7,15 @@ chronology = ["ppw"]
 venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2015-09-05-ppw-neomania-iv-gallery.toml"
 
 +++
 
 Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 17 street. According to the [PpW Wikia][neo-4-wikia], the show was released on DVD.
+
+## Card
 
 {% card() %}
 - - '[Steven Strong](@/w/biesiad.md)'

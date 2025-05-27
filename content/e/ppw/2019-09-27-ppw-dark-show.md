@@ -7,12 +7,15 @@ chronology = ["ppw"]
 venue = ["ognicho"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "hello-yeah-sure-i-can-talk.jpg", caption = "[Automatico](@/w/rob-scaffold.md) answering the phone", source = "Official PpW YouTube" }
 2 = { path = "notice.jpg", caption = "_Attention! Do not touch the toy devices until the protective elements are removed (Sunday, 12.05 of current year). Usage of newly installed toys poses a danger._ ", source = "Official PpW YouTube" }
 +++
 
 Dark Show was PpW's penultimate backyard event and the last one to be held in the open air. It took place late in the afternoon, shortly before and after sunset, hence the name. It was held in the same small forest clearing as [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).
+
+## Card
 
 {% card() %}
 - - '[Duende](@/w/sedzia-borys.md)'
