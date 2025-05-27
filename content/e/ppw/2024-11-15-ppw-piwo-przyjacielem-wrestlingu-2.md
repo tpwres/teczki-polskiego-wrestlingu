@@ -6,6 +6,7 @@ chronology = ["ppw", "beer-expo", "poznan-fair"]
 venue = ["targi-poznan"]
 [extra]
 city = "Poznań"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2-plakat.jpg", caption = "Official poster, featuring [Goblin](@/w/goblin.md).", source = "Official PpW Facebook" }
 +++
@@ -15,6 +16,8 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
 Like the previous two shows at the Beer Expo, this one was mostly non-canon and did not continue prior storylines. 
 The only exceptions were Isnorr's title defense against Prince Striker, and Aron Wake vs Sambor.
 
+
+## Card
 
 {% card() %}
 - d: 'Friday, 17:00'

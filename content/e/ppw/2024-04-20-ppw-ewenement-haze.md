@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["praga-centrum"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "PpW's Facebook page"}
 2 = { path = "ewenement-haze-420-match.jpg", caption = "Critical 4/20 Ladder Match - [Goblin](@/w/goblin.md) elbow drops onto [Rafi](@/w/rafi.md), held on a table by Benny Bacchus.", source = "Ville Paananen"}
@@ -37,6 +38,8 @@ The foreign guests for this event were:
 * Nick Schreier, before the official announcement, leaked his involvement on Instagram, listing dates and cities of his bookings in April.
 * Pure Gold (Gabriel Queen and Vic Golden) are set to appear in a tag team match, after their surprise reunion at the previous event.
 * 7 matches and a [new ring](@/o/ppw.md#2023-prime-time-transfers-professional-ring) were confirmed on Facebook, in the post that advertised Baklava Club's involvement.
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md); [Jakob Sigmarsson](@/w/jakub-linde.md)'

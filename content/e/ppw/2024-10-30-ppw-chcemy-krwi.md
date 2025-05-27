@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["kinoteka"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "ppw-chcemy-krwi-plakat.jpg", caption = "Official poster.", source = "SplatFilmFest.com"}
 +++
@@ -23,6 +24,8 @@ The event was also not streamed on PpW's regular channels, though a fan-stream b
 
 This event was non-canon. Host [Michael HT](@/w/michael-ht.md) announced that "today we're in a different reality, where weird things may happen".
 PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny-blade.md) in a Halloween Street Fight, and later [Gustav Gryffin](@/w/gustav-gryffin.md) to face his "biggest nightmare".
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'

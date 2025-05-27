@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["minska-65"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
 2 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
@@ -37,6 +38,8 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   The rivalry later continued with Isnorr challenging Johnny for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), only to be defeated.
   Isnorr then won the Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later defeated him in a tag team match at Hardcore Friday 2, earning his opportunity to challange the champion for a rematch.
 * After their match at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) was cancelled due to [Alex Arthur's](@/w/alex-arthur.md) other obligations, he and [Feager](@/w/feager.md) were set to finally compete in a chairs match at "Co Za Noc".
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'

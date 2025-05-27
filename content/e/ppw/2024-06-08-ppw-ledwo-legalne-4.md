@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["praga-centrum"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2024-06-08-ppw-ledwo-legalne-4-gallery.toml"
 +++
@@ -46,6 +47,8 @@ In his post-show interview, Mister Z (exercising full power over PpW after [Mand
 For the next show, Pure Gold were left without opponents, and their Open Challenge was announced on [PpW's Facebook page][pure-gold-challenge].
 Shortly before the show, they were trading insults and challeneges online with Legia Łysych, a tag team from [PTW](@/o/ptw.md).
 * On Saturday May 11, 2024, the day when [PTW](@/o/ptw.md) held their [event](@/e/ptw/2024-05-11-ptw-6.md) in Legionowo near Warsaw, PpW's Facebook page posted about booking [Robert Star](@/w/robert-star.md) for the show. Robert was part of PTW's initial roster, as well as [KPW's](@/o/kpw.md) and [DDW's](@/o/ddw.md) before that.
+
+## Card
 
 {% card() %}
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'

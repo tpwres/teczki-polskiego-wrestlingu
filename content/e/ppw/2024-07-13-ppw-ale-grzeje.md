@@ -6,6 +6,7 @@ chronology = ["ppw"]
 venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Official PpW Facebook"}
 2 = { path = "ag-crane-queen.jpg", caption = "Official graphic for the [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match.", source = "Official PpW Facebook"}
@@ -33,6 +34,8 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
 * On Sunday July 7th, PpW announced [Alex Arthur](@/w/alex-arthur.md) vs [Feager](@/w/feager.md) in a chairs match. However, after a couple of hours, Alex posted an Instagram story explaining he'll "miss that battle because of his shoot job".
 * Samson was denied victory twice now: most recently Robert Star refused to let him win cleanly and forced a disqualification, and previously it was Mister Z's associate Gustav Gryffin who stole the victory. Fed up with this rampant cronyism, Samson challenged Mister Z for a singles match.
 * On their social media, Teatr Komuna advertised a wrestling contest between two theatrical performers to take place during the pre-show. Both contestants are dancers and choreographers, and Dominik Więcek trained with PpW while preparing for [Glory Game][glory-game], also on Teatr Komuna's stage.
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
