@@ -39,14 +39,14 @@ This was the final PpW show to use the old DIY ring.
     Referees: '???, [Miłosz](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * One of the fans kept drumming on a plastic roadblock barrier since the start of the main event. Perhaps fed up with it, Harcore Icon ended up throwing Johnny Blade at him.
 * Midway through the main event, the referee hit Hardcore Icon with a light tube, prompting Johnny Blade to attack the ref.
 * The Facebook event [announced][fb-event] a match between [Mister Z](@/w/mister-z.md) and [Feager](@/w/feager.md) for the [PpW Championship](@/c/ppw-championship.md), but it either didn't happen, or wasn't recorded.
 * The Facebook event also had an image saying "Battle Royal", but that match is also missing from the video.
 
-### References
+## References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=9eon4bjo9JI)
 

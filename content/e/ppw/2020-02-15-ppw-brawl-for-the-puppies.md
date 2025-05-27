@@ -37,7 +37,7 @@ True to the name, all the gate profits (910&nbsp;PLN) were donated to "Psi Raj" 
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)' # and possibly Koteł
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383224)
 * [YouTube video of the full event](https://www.youtube.com/watch?v=anNMdjJa8xM)

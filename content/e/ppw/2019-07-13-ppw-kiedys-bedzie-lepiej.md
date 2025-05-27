@@ -27,7 +27,7 @@ toclevel = 2
     Ring Announcer: Dzięki
 {% end %}
 
-### References
+## References
 
 * [YouTube video](https://www.youtube.com/watch?v=DOAeXjrpmlg)
 * [Video: PpW's Michael HT confirming he was Jeff](https://www.youtube.com/live/VlBjnWJRarE?si=LBRL38AjOmYrxW80&t=188) (in Polish; at the 3:08 mark)

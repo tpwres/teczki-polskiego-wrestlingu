@@ -34,7 +34,7 @@ According to [Johnny Blade](@/w/johnny-blade.md), the name of the event derives 
     nc: '?'
 {% end %}
 
-#### Recap
+### Recap
 
 * The only surviving video from the event is Ultimo Combo vs La Parka (Który nie jest prawdziwym La Parką ale to szczegół).
 * According to the [PpW Wikia][ppw-wiki-neo-1], the full name of this version of La Parka appears to be "La Parka (Który nie jest prawdziwym La Parką ale to szczegół)". This translates to "La Parka (Who isn't the real La Parka, but that's a minor detail)". (The name was shortened in this entry for technical reasons.)
@@ -42,7 +42,7 @@ According to [Johnny Blade](@/w/johnny-blade.md), the name of the event derives 
 * When the first match begins, the cameraman says "But this has to be pretend, right?"
 * Also, [PpW Wikia][ppw-wiki-neo-1] notes that [Black Tiger](@/w/rob-scaffold.md) was standing in for Pan Pionha (roughly _Mister Feest_), who no-showed the fight. A similar situation later happened at [Neomania II](@/e/ppw/2012-07-01-ppw-neomania-ii.md).
 
-### References
+## References
 
 * [Ultimo Combo vs La Parka on YouTube](https://www.youtube.com/watch?v=igbjryET25w)
 

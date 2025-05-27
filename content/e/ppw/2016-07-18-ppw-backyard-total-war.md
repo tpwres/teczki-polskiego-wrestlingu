@@ -33,7 +33,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
     Referees: '???, [Le Santo](@/w/rob-scaffold.md), [Biesiad](@/w/biesiad.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * All fights except the main event are presented as highly edited highlight reels instead of full matches.
 * One of the fans recorded the show by holding up a laptop computer.
@@ -43,7 +43,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
 * A short while later, the same fan threw a sword into the fray; this prompted a cameraman to call him "fucking [Snake](@/w/snake.md)".
 * Another rarity in Polish wrestling: Hades wrapped the sword with some rags, doused them in liquid barbeque fuel and set them ablaze, before attacking Jake Young with it.
 
-### References
+## References
 
 * [Opener match on YouTube](https://www.youtube.com/watch?v=xI52xA68xfw)
 * [Full show on YouTube](https://www.youtube.com/watch?v=vw-L1ucpRgM)

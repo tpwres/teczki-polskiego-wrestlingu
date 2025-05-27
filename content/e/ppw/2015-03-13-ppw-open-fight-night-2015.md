@@ -35,7 +35,7 @@ The exact date of the event isn't known. The videos were uploaded on 13.03 and 2
   - '[Epic Angel Guerrero](@/w/angel-guerrero.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * The fights took place on mattresses covered with an old carpet, placed on the grass.
 * There was no referee; the three-count was done by camera operators.
@@ -47,7 +47,7 @@ The exact date of the event isn't known. The videos were uploaded on 13.03 and 2
 * Since Automatico hadn't challenged anyone, he decided to challange Jim Hardy after their fight, resulting in the same match-up twice.
 * After his second fight with [Jim Hardy](@/w/mister-z.md), Automatico was attacked by [Mister Z](@/w/mister-z.md).
 
-### References
+## References
 
 * [Full show on YouTube, part 1](https://www.youtube.com/watch?v=2hln6ksuhCY)
 * [Full show on YouTube, part 2](ttps://www.youtube.com/watch?v=1Z98oRkOdkc)

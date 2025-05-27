@@ -38,7 +38,7 @@ The show was held outdoors at three different locations: a local playground, a "
     Commentary: '???, [Johnny Blade](@/w/johnny-blade.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * The fights were commented live by the cameramen. Twice during the opening match the cameraman can be heard whispering to [Sin Cara](@/w/sin-cara.md), telling him the next move.
 * The main event was the only match to have a referee. In the other fights the three-count was done either by the cameraman, or the wrestlers themselves.
@@ -47,7 +47,7 @@ The show was held outdoors at three different locations: a local playground, a "
 * Candidate for the weirdest weapon in Polish wrestling (backyard or otherwise): Ultimo Combo attacked Mystic Tiger with a cotton bud.
 * After the match ended, [the referee](@/w/mister-z.md) attacked Mystic Tiger, before being attacked by Ultimo Combo in return.
 
-### References
+## References
 
 * [Full show on YouTube, part 1](https://www.youtube.com/watch?v=WBWOTyqvo_Y)
 * [Full show on YouTube, part 2](https://www.youtube.com/watch?v=XGIy3NPhWpk)

@@ -37,7 +37,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
     Commentary: 'Roger Kevin'
 {% end %}
 
-#### Recap
+### Recap
 
 * The commentator was only present in the recap section at the beginning.
 * The fights had non-diegetinc music added in post, including the [John Cena theme][cena-za-kilo].
@@ -45,7 +45,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 * [Electrico](@/w/mister-z.md) vs [Matt2Hot](@/w/matt2hot.md) was kept as a surprise.
 * The video never specifies which of the two wrestlers in the Main Event is [Matt2Hot](@/w/matt2hot.md) and which is [Electrico](@/w/mister-z.md). One needs to be familiar with them from other events.
 
-### References
+## References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=vgzV_VAajB8)
 * [PpW Wikia entry](https://ppw-fandom.tpwres.pl/ppw-gala-na-hali-2015)

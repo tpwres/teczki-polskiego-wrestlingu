@@ -30,11 +30,11 @@ Dark Show was PpW's penultimate backyard event and the last one to be held in th
     Commentary: '???, ???'
 {% end %}
 
-#### Recap
+### Recap
 
 * During [Duende](@/w/sedzia-borys.md) vs [Osamu](@/w/osamu.md), referee Automatico answered a phone call while the wrestlers were brawling outside of the ring. He then announced he's got to go, so he did a fast count of "one-two-three-ten", thus ending the fight prematurely.
 * For his match, [Automatico](@/w/rob-scaffold.md) wore [Biesiad's](@/w/biesiad.md) shorts.
 
-### References
+## References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=xudoPHQ_uag)

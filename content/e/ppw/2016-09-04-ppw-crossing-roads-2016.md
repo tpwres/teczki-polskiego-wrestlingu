@@ -49,7 +49,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
     Commentary: '???, ???'
 {% end %}
 
-#### Recap
+### Recap
 
 * A turnbuckle broke early on in the first match.
 * Black Orion tagged in Automatico who promptly tagged himself out, declining to change his partner.
@@ -59,7 +59,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 * At one point during the 3 vs 3 match [a cameraman](@/w/michael-ht.md) switched duties with the referee, seemingly because the latter didn't realise he had to count when [Jim Enerico](@/w/mister-z.md) pinned [Rob Scaffold](@/w/rob-scaffold.md).
 * [Hades](@/w/olgierd.md) was disqualified from the match for attacking [Rob Scaffold](@/w/rob-scaffold.md) with an illegal item.
 
-### References
+## References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=QoOlY0qXkuQ)
 * [Entry on PpW Wikia](https://ppw-fandom.tpwres.pl/ppw-crossing-roads-2016)

@@ -47,6 +47,6 @@ This was likely the first PpW event open for general public, as opposed to frien
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
 
-### References
+## References
 
 * [Facebook event](https://www.facebook.com/events/746791299065517/)
