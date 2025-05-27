@@ -7,9 +7,12 @@ chronology = ["piwg"]
 [extra]
 hide_results = true
 city = "Skórcz"
+toclevel = 2
 +++
 
 PIWG Clash was an early backyard show by [Pomerania Indy Wrestling Group](@/o/piwg.md). According to a [post on Attitude Forum][atti-lista] by [Kamil Aleksander](@/w/kamil-aleksander.md), this was PIWG's third ever event, and the first one with a known date.
+
+## Card
 
 {% card() %}
 - - 'Scorpion'
