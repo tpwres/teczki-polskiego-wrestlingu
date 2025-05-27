@@ -13,6 +13,6 @@ This was an early backyard event by [Pomerania Indy Wrestling Group](@/o/piwg.md
 
 {{ skip_card() }}
 
-## References
+### References
 
 * [Post on Attitude Forum](https://forum.wrestling.pl/topic/11301-piwg-new-blood-2008-08-06/)
