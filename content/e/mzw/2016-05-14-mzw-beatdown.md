@@ -6,6 +6,7 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery.1]
 path = "plakat.webp"
 caption = "[Justin Joy](@/w/justin-joy.md) on the offical poster."
@@ -19,6 +20,8 @@ path = "2016-05-14-mzw-beatdown-dvd-back.jpg"
 caption = "Back cover of the offical DVD, listing the commentator."
 source = "Showoff @ Twitter"
 +++
+
+## Card
 
 {% card() %}
 - ["[Dynamite Dave](@/w/dynamite-dave.md)", "[Alexander Reich](@/w/alex-ace.md)"]

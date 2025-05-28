@@ -6,10 +6,13 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery]
-1 = { path = "plakat.webp", caption = "Show poster with [Asmund](@/w/asmund.md).", source = "?" }
-2 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event.", source = "Facebook @ManiacZoneWrestling"}
+1 = { path = "plakat.webp", caption = "Show poster with [Asmund](@/w/asmund.md).", source = "Official MZW Facebook" }
+2 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event.", source = "Official MZW Facebook"}
 +++
+
+## Card
 
 {% card() %}
 - - 'Demon'
@@ -44,7 +47,7 @@ city = "Głuchołazy"
     Referees: Král Slova Kuba
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=164685)
 * [Full match: Shadow vs Asmund](https://youtu.be/lzLRJC9qII0)

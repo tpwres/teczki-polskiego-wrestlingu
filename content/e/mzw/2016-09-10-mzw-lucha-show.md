@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["mzw"]
 [extra]
 city = "Inowrocław"
+toclevel = 2
 [extra.gallery.00]
 path = "plakat.webp"
 caption = "Official show poster, with [Red Thunder](@/w/red-thunder.md), [Patriota](@/w/jedrus-bulecka.md) and [Shadow](@/w/shadow.md)."
@@ -17,6 +18,8 @@ source = "Facebook profiles of Revage/Rafał and Jędruś"
 
 This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which was a cultural and entertainment festival showcasing Mexican culture: mariachi music, fencing, painting, Mexican cuisine, and of course masked Lucha Libre-style wrestling. It was held at Park Solankowy in Inowrocław.
 
+## Card
+
 {% card() %}
 - ["[Patriota](@/w/jedrus-bulecka.md)", "[Red Thunder](@/w/red-thunder.md)"]
 - ["[El Diamante](@/w/asmund.md)", "???"]
@@ -25,7 +28,7 @@ This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which 
     Ring announcer: '[Revage](@/w/rafael-kid.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322459)
 * [YouTube highlights](https://www.youtube.com/watch?v=Wucpm6M5WEQ)

@@ -8,6 +8,7 @@ venue = ["opawa"]
 [extra]
 hide_results = true
 city = "Opawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2016-09-03-mzw-zajebisty-bieg-wopisty.jpg", caption = "Official poster, featuring [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "Official MZW Facebook" }
 +++
@@ -18,6 +19,6 @@ No card is available for the show, however the announced workers included [Jędr
 
 {{ skip_card() }}
 
-### References
+## References
 
 * [Facebook annoucement post](https://www.facebook.com/photo/?fbid=852880151522879&set=a.422497321227833)

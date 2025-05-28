@@ -6,9 +6,12 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/mzw/2017-02-18-mzw-beatdown-2-gallery.toml"
 +++
+
+## Card
 
 {% card() %}
 - - '[Lider](@/w/lider.md)'
@@ -42,7 +45,7 @@ manifest = "@/e/mzw/2017-02-18-mzw-beatdown-2-gallery.toml"
 
 Attendance: estimated about 140
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=169774)
 * [Recap video on YouTube](https://www.youtube.com/watch?v=lXoy7eRsZ88)

@@ -6,12 +6,15 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery.1]
 path = "plakat.webp"
 caption = "Official poster, picturing [Justin Joy](@/w/justin-joy.md) and [Shadow](@/w/shadow.md)."
 +++
 
-Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). Like last year's [untitled event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), it was a charity show, with donations going to [WOŚP][wosp], and was held on the same day as their 24th annual Grand Finale event.
+Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). Like the previous year's [untitled event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), it was a charity show, with donations going to [WOŚP][wosp], and was held on the same day as their 24th annual Grand Finale event.
+
+## Card
 
 {% card() %}
 - - '[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)'
@@ -40,7 +43,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md), El Muchacho'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=145950)
 * [WrestleFans recap video](https://youtu.be/1kVqHeViz_o)
