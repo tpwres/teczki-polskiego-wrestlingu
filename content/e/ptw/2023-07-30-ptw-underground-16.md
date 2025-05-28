@@ -7,15 +7,17 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2023-07-30-ptw-underground-16-plakat.jpg", caption = "Official poster. Pictured left to right: [Marco Hammers](@/w/marco-hammers.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Puncher](@/w/puncher.md), [Marcelito](@/w/marcelito.md).", source = "Official PTW Facebook" }
 +++
 
 PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30, 2023 at the [PTW Performance Center](@/v/ptw-targowa.md).
 
+## Card
 
 {% card() %}
-- - "PAKA: [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)"
+- - "[PAKA](@/tt/paka.md): [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)"
   - "[Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md), [Gabriel Queen](@/w/gabriel-queen.md)"
   - s: "Six-Man Tag Team Match"
 - ["[Rafi Rarytas](@/w/rafi.md)", "[Erik Šlotíř](@/w/erik-slotir.md)"]
@@ -36,14 +38,14 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * Before the show, PTW announced that [Sinister](@/w/sinister.md) is going to "baptize" his new ally/underling [Syriusz Dziedzic](@/w/dziedzic.md). For this segment, the ring was decorated with white balloons, like for a typical baptism party, and a table with a bucket standing on it was placed in the middle. In contrast to the white balloons, both the tablecloth and bucket were black.
 * [Sinister](@/w/sinister.md) cut a promo, proclaiming to rid [Syriusz Dziedzic](@/w/dziedzic.md) of his "old, defiled name". Announced that "there is no Syriusz [Dziedzic](@/w/dziedzic.md) anymore, there's only Dziedzic", confirming a name change for the latter.
 * With his snake-headed cane, Sinister gestured the sign of the cross, and poked Dziedzic's head. This resulted in Dziedzic spitting an unknown black liquid, presumably because of some supernatural activity. Next, Sinister forcibly put Dziedzic's head into the bucket, pulling it out barely in time to stop him from drowning. [Marcelito](@/w/marcelito.md) and [Samson](@/w/samson.md) interfered, chasing the others outside the ring.
 * [Max Speed](@/w/max-speed.md) lost due to an intervention by [Rafi Rarytas](@/w/rafi.md).
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=367305)
 * [Full event on YouTube](https://www.youtube.com/watch?v=vFknTT_bV4o), requires paid subscription

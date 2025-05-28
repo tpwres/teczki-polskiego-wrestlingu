@@ -7,6 +7,7 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The eleventh [PTW](@/o/ptw.md) Underground show was held on Sunday, January 29th 2023, as part of a two-show weekend.
@@ -14,6 +15,8 @@ The show was held in its regular venue, [PTW Performance Center](@/v/ptw-targowa
 
 Foreign guests for this show included Danish wrestler Emilian Lewis, the Hungarian team of Dover and Icarus, and the French team of masked luchadors Aigle Blanc and Senza Volto.
 This was the first appearance of Aigle Blanc for PTW, and the second for Senza Volto who previously appeared at [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md).
+
+## Card
 
 {% card() %}
 - - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
@@ -39,7 +42,7 @@ This was the first appearance of Aigle Blanc for PTW, and the second for Senza V
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=358862)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-11/2pcen/), requires paid subscription

@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2023-06-25-ptw-4-mystery-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 2 = { path = "the-mystery-opener.jpg", caption = "Budapest Bastards vs Fox & Storm from the perspective of the audience.", source = "Ville Paananen" }
@@ -19,10 +20,12 @@ A fixed version called "The Final Cut", free from quality issues, was released l
 
 There were two new foreign guests on this event: French female wrestler Amale, who competed on NXT UK since 2020 until its suspension in 2022; and Hungarian high-flyer Peter Tihanyi. Amale would face [Diana Strong](@/w/diana-strong.md).
 
-#### Build-up
+## Build-up
 
 * With [Justin Joy](@/w/justin-joy.md) leaving PTW, [Axel Fox](@/w/axel-fox.md) was left without a tag team partner. The match was billed as Axel + mystery partner of his choice vs the Budapest Bastards.
 * By 2023, [Robert Star](@/w/robert-star.md) was primarily competing for various Danish organizations: mainly BODYSLAM!, Nordic Elite Wrestling, and Dansk Pro Wrestling. He appeared for PTW sparingly, despite being in the first major show's main event. This would be his final appearance for PTW, although he was still featured on its roster page.
+
+## Card
 
 {% card() %}
 - - "Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)"
@@ -51,7 +54,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
     Special Guest Commentary: '[Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * At the beginning, PTW revealed the new Tag Team Championship belts, to mixed reactions.
 * [Marco Hammers](@/w/marco-hammers.md) intervened on [Olgierd](@/w/olgierd.md)'s behalf, helping him secure the win. They formed a tag team, and declared their wish to challenge for the PTW Tag Team Championship.
@@ -65,7 +68,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 * When Pawłowski rejected his offer, the screen revealed a chair, with a tied down Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW. Klinger beat up Rzeźniczek and threatened to cut off his fingers with pliers. This convinced Pawłowski to reinstate Klinger.
 * On-screen, Klinger laid out Rzeźniczek with a punch, then carried him, stunned and still tied up, to the entrance stage. Pawłowski sent the security team after them, who chased Bones away. The show ends with Pawłowski checking on Rzeźniczek. This story would be later continued at [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=367306)
 * [Full event on YouTube - original version](https://www.youtube.com/watch?v=bjeXfDhVFJY), requires paid subscription

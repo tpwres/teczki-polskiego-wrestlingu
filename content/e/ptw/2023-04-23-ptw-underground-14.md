@@ -7,11 +7,14 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2023-04-23-ptw-underground-14-plakat.jpg", caption = "Official poster. Pictured left to right: [Sinister](@/w/sinister.md), [Puncher](@/w/puncher.md), [Diana Strong](@/w/diana-strong.md), [Justin Joy](@/w/justin-joy.md).", source = "Official PTW Facebook" }
 +++
 
 The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 at the [PTW Performance Center](@/v/ptw-targowa.md). This guest had two foreign guests in an exhibition match: Finnish wrestler Salomon Strid, and Greek wrestler [Noah "404" Charon](https://twitter.com/Noah404Charon).
+
+## Card
 
 {% card() %}
 - ['[Marcelito](@/w/marcelito.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
@@ -49,5 +52,6 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 * Golden distracted the referee with his gold chain, and hit a low blow on Joy, but the referee saw that. The match ended with a DQ win for Justin, who stood alone in the ring. Axel Fox entered the ring, and asked whether he can trust Joy. In response, Joy gave Fox his tag team armband, hugged him and whispered something in his ear. Joy left the ring, and the arena, which marked his final appearance for the organization.
 * Pure Gold attack Axel, who stood alone in the ring. Fans chanted for [Justin Joy](@/w/justin-joy.md) to come back, but instead it was PAKA who made the save.
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365968)

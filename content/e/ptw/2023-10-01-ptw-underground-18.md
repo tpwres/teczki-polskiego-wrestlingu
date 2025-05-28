@@ -7,7 +7,10 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
+
+## Card
 
 {% card() %}
 - ['[Olgierd](@/w/olgierd.md)', '[Marcelito](@/w/marcelito.md)']
@@ -25,7 +28,7 @@ city = "Chorzów"
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * [Nano Lopez](@/w/nano-lopez.md) appeared with one arm in a sling, addressing his health and potential retirement. Promised to fight [Sinister Kingdom](@/tt/sinister-kingdom.md) after returning from injury.
 * This was originally to be the go-home show for [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), however that show was postponed, from December till February next year.
@@ -39,7 +42,7 @@ city = "Chorzów"
 * The above events are mistakenly listed as [Diana](@/w/diana-strong.md) winning a Battle Royal by some sources, but this was not an actual match, as the bell never rang.
 * Pawłowski announced Diana joining the Gold Rush Rumble match line-up.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365972)
 * [Full event on YouTube](https://www.youtube.com/watch?v=7DCe7kcCKJQ), requires paid subscription

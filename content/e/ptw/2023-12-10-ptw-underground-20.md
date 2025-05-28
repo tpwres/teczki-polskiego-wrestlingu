@@ -6,7 +6,10 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
+
+## Card
 
 {% card() %}
 - ["[Puncher](@/w/puncher.md)", "[Nitro](@/w/nitro.md)"]
@@ -26,7 +29,7 @@ city = "Chorzów"
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=372456)
 * [Full event on Youtube](https://www.youtube.com/watch?v=DbziqHMaPyU) (requires paid subscription)

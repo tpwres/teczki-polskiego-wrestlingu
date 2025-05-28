@@ -7,6 +7,7 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2023-05-28-ptw-underground-15-plakat.jpg", caption = "Official poster. Pictured left to right: [Vic Golden](@/w/vic-golden.md), [Sinister](@/w/sinister.md), [Gabriel Queen](@/w/gabriel-queen.md), [Disco Pablo](@/w/disco-pablo.md).", source = "Official PTW Facebook" }
 +++
@@ -14,6 +15,8 @@ city = "Chorzów"
 The 15th Underground event was the go-home show for [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and, as per FITE billings, the last one to feature Kinguin as titular sponsor.
 It was held in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. The show one new foreign guest: American female wrestler Devlyn Macabre. Devlyn was playing a heel persona, with Rammstein's "Sonne" as her entrance theme.
 By the time of the event, Devlyn was touring the European independent scene, with three matches in lower-card AEW shows in her resume.
+
+## Card
 
 {% card() %}
 - ['[Vic Golden](@/w/vic-golden.md)', '[Boro](@/w/boro.md)']
@@ -33,8 +36,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-
-#### Recap
+### Recap
 
 * After the opening match, Skyver conducted an interview with [Rafi](@/w/rafi.md) Rarytas, who declares that he will make [Wiktor Longman](@/w/wiktor-longman.md) accept the "power of friendship", challenging him to a match. [Iskra](@/w/iskra.md) interrupted with a promo, and started beating on Rafi, bell is rang for an impromptu match. Rafi hit his finisher on Iskra, immediately pinning him for a win. According to commentary, this was the shortest ever PTW match, lasting all of 9 seconds.
 * [Marcelito](@/w/marcelito.md) lost due to interference from [Iskra](@/w/iskra.md). GM Pawłowski grabbed the microphone and announced a rematch on the upcoming Mystery, and Iskra not getting a match as punishment.
@@ -49,7 +51,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 * The heel teams start to overpower PAKA. Vic and Gabriel drop [Boro](@/w/boro.md) through the table.
 * Inspired, Pawłowski announced that their upcoming championship match is now a Tables match.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365970)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-15/2pd2r/), requires paid subscription
