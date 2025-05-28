@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2021-08-14-mzw-project-8-golden-road-finals-plakat.jpg"
 caption = "Official poster. Pictured top to bottom, left: [Rafael Kid](@/w/rafael-kid.md), [Madman Charlie](@/w/madman-charlie.md), [Jacob Crane](@/w/jacob-crane.md); right: [Matt Buckna](@/w/matt-buckna.md), [Axel Fox](@/w/axel-fox.md), [Zeritus](@/w/zeritus.md)."
 source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - - '[Rafael Kid](@/w/rafael-kid.md)'
@@ -43,6 +46,6 @@ source = "Official MZW Facebook"
     Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322479)

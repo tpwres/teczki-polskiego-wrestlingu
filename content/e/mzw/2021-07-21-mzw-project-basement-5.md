@@ -6,9 +6,12 @@ chronology = ["mzw", "project-basement"]
 venue = ["ostrowskiego-wroclaw"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 +++
 
 Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.
+
+## Card
 
 {% card() %}
 - ["[Aron Wake](@/w/aron-wake.md)", "[Madman Charlie](@/w/madman-charlie.md)", {nc: "Double

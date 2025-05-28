@@ -7,6 +7,7 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/mzw/2024-10-12-mzw-no-time-to-die-gallery.toml"
 +++
@@ -20,12 +21,14 @@ It was the only [MZW](@/o/mzw.md) show in 2024, after a nearly year-long hiatus 
 Like the [previous show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), this one is also a collaboration with [PpW Ewenement](@/o/ppw.md), seeing the return of [Gustav Gryffin](@/w/gustav-gryffin.md) and [Biesiad](@/w/biesiad.md), and the MZW debuts of [Johnny Blade](@/w/johnny-blade.md) and [Bill Feager](@/w/feager.md); initially [Goblin](@/w/goblin.md) was booked as well, but couldn't make it and instead [Olgierd](@/w/olgierd.md), who'd previously wrestled for MZW as Kruger, filled in.
 It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md), [Marco Hammers](@/w/marco-hammers.md), [Samson](@/w/samson.md), [Marcelito](@/w/marcelito.md), [Rafi](@/w/rafi.md) and [Sambor](@/w/sambor.md).
 
-### Build-up
+## Build-up
 
 * At the [last MZW show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) [Matt Buckna](@/w/matt-buckna.md) defeated Michael Payne, becoming #1 contender for the vacated [MZW Championship](@/c/mzw-championship.md). His opponent was announced to be [Aron Wake](@/w/aron-wake.md), last seen in MZW at [Project 8](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) in 2021, where he lost the championship match to [Rafael Kid](@/w/rafael-kid.md).
 * [Gustav Gryffin](@/w/gustav-gryffin.md), who made his MZW debut at [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) was announced to defend his [PpW Championship](@/c/ppw-championship.md) against a [former PTW wrestler](@/a/ptw-exits.md), [Sambor](@/w/sambor.md).
 * [Shadow](@/w/shadow.md) vs [Alex Ace](@/w/alex-ace.md) was initially supposed to be a regular Singles Match, but two days before the show MZW [posted a message][ace-belt] stating that Alex Ace decided he was going to defend his ERW East Division Championship. That made this fight the third title match of the night, which in turn means that his is the first event in the history of Polish pro wrestling where three belts of three different and distinctly separate promotions are defended on one night (earlier in 2024 [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) featured three matches for different titles, but PTW:WWA has strong ties to PTW).
 * [Aron Wake](@/w/aron-wake.md), [Olgierd](@/w/olgierd.md) and [Sewi the Referee](@/w/sedzia-seweryn.md) made their MZW return, being three of [The Greens](@/tt/zieloni.md) who have returned to MZW after a three-year-long hiatus.
+
+## Card
 
 {% card() %}
 - - '[Rafi](@/w/rafi.md)'
@@ -68,7 +71,7 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
     Host, Ring Announcer: Adrian Zgórski
 {% end %}
 
-### Outcomes and aftermath
+### Recap
 
 * Adi came out clasping hands with the audience, earning him "Pan Pawłowski" chants in reference to the way [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) makes his entrance. Once in the ring, Adi was urged by the audience to drop to his knees - again, in the manner of Pawłowski - which he did.
 * Before the show started [Rafi](@/w/rafi.md) came out to the ring and announced his retirement from the in-ring competition, although he didn't specify a reason. Instead, he served as a referee for about half of the matches.
