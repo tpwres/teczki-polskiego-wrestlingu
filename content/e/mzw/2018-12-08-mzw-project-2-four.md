@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2018-12-08-mzw-project-2-four-plakat.jpg"
 caption = "Official poster. Pictured left to right, top: ???, ???; bottom: [Damien Rothschild](@/w/damien-rothschild.md), [Shadow](@/w/shadow.md)."
 source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - ["Deti Black", "[Apollo Anderson](@/w/apollo-anderson.md)"]
@@ -42,7 +45,7 @@ source = "Official MZW Facebook"
 * In the main event, all opponents arrived to the ring on a cruiser motorcycle.
 * While [Shadow](@/w/shadow.md) pins Crane, Rothschild puts an armbar on Kid, who tapped out immediately, before ref counted the pin. However, referee did not see the tap out, and awarded the win to Shadow. The angry Rothschild hit Shadow with a steel chair.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322461)
 * [Full match: Tournament Final 4-way](https://www.youtube.com/watch?v=31_PIi22v6o)

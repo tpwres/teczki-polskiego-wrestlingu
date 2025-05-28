@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2019-03-23-mzw-project-4-open-your-eyes-plakat.jpg"
 caption = "Official poster featuring [Damien Rothschild](@/w/damien-rothschild.md)."
 source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - ["[Asmund](@/w/asmund.md)", "[Christopher Anthony](@/w/christopher-anthony.md)",
@@ -28,5 +31,6 @@ source = "Official MZW Facebook"
     Referees: '[Sędzia Matt2Hot](@/w/matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322463)

@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2019-08-24-mzw-project-6-death-and-glory-plakat.jpg"
 caption = "Official poster, featuring [Asmund](@/w/asmund.md)."
 source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - ['[Rafael Kid](@/w/rafael-kid.md)', '[Madman Charlie](@/w/madman-charlie.md)', '[Rick
@@ -37,5 +40,6 @@ source = "Official MZW Facebook"
     Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=238539)

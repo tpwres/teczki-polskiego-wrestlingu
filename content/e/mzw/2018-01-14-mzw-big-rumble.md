@@ -7,6 +7,7 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery.1]
 path = "2018-01-14-mzw-big-rumble-plakat.jpg"
 caption = """\
@@ -28,6 +29,8 @@ This was the last [MZW](@/o/mzw.md) event to be held in [Głuchołazy](@/v/gosir
 The event featured their biggest ever battle royale-style match, which had many of the same participants as the ten-man rumble on their [previous show](@/e/mzw/2017-12-02-mzw-freak-show.md) in Wrocław, plus guest wrestlers from Germany and Czechia.
 
 The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Championship. He was present at ringside, observing the action. Once down to the last two participants, there was a near-finish, when they were standing on the ring apron outside the ropes. Asmund intervened and pulled them both to the ground simultaneously, hoping to avoid his match as there was no clear winner. Unfortunately, Tomasz Warchoł called the absent [Jędruś Bułecka](@/w/jedrus-bulecka.md), who decided that they are going to have a Triple Threat Match instead.
+
+## Card
 
 {% card() %}
 - - '[Shadow](@/w/shadow.md) + [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
@@ -66,7 +69,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
     Referees: '[Tomasz Warchoł](@/w/tomasz-warchol.md), [Sędzia Rafael](@/w/rafael-kid.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=192262). Note that the rumble participants list is different. This version is based on the video linked below.
 * Full Royal Rumble match, [part 1](https://www.youtube.com/watch?v=KLp-Ub3MGDo) and [part 2](https://www.youtube.com/watch?v=DS118G4KnhM)

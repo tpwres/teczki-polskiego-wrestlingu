@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2020-01-18-mzw-project-7-golden-road-plakat.jpg"
 caption = "Official poster, featuring [Shadow](@/w/shadow.md) and [Zeritus](@/w/zeritus.md)."
 source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - - '[Madman Charlie](@/w/madman-charlie.md)'
@@ -39,8 +42,10 @@ source = "Official MZW Facebook"
 {% end %}
 
 ## Recap
+
 * Ring Rat's promo was interrupted by Anatolii, giving him a Big Boot. Anatolii was then attacked by Krueger, who in turn was chokeslammed by Hexia.
 * This was Hexia's final in-ring appearance.
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=252578)

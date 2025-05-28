@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2019-06-01-mzw-project-5-hero-plakat.jpg"
 caption = "Official poster, featuring [Justin Joy](@/w/justin-joy.md)."
 source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - ["[Zeritus](@/w/zeritus.md)", "[Rafael Kid](@/w/rafael-kid.md)"]
@@ -35,5 +38,6 @@ source = "Official MZW Facebook"
     Referees: '[Sędzia Matt2Hot](@/w/matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322464)
