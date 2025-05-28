@@ -7,6 +7,7 @@ chronology = ["ptw", "ryucon"]
 venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
+toclevel = 2
 [extra.gallery]
 1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros vs Svedberg and [Carravaggio](@/w/vincent-caravaggio.md)", source = "Facebook PTW"}
 2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing [Alex Brave](@/w/alex-brave.md) vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}
@@ -24,7 +25,7 @@ For this show, a significant portion of the match card was filled by guest wrest
 * Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md).
 * British wrestler Joseph Conners, one-time WCPW Champion and former NXT UK perfomer.
 
-### Build-up
+## Build-up
 
 * With the recent string of talent exits from PTW, and the organization's future uncertain, fans were speculating about PTW #6 being the last event.
 * When Pawłowski and Ryucon both announced the show, speculation moved to the card - how many matches could they still build.
@@ -35,13 +36,13 @@ For this show, a significant portion of the match card was filled by guest wrest
 * [Max Speed](@/w/max-speed.md) & Alex Brave continued their feud.
   During the [lottery stream](@/o/ptw.md#the-prize-draw), Brave interrupted Speed, telling him to "Speed the fuck out" ("Speedalaj") and received a superkick for his troubles.
   He spent a few minutes laying motionless, while the lottery draft continued.
-  There was no further interaction between the two, but fans speculated it might be a build up for a future match.
+  There was no further interaction between the two, but fans speculated it might be a Build-up for a future match.
 * On July 2nd, Speed uploaded a gym video on his Instagram.
   In the video, Speed was busy training, while Brave came in and interrupted him with trash talk.
   Speed responded with the same and another superkick to Brave, then laid out a challenge for a match at PTW x Ryucon 3. \
   PTW later reposted the video on their Facebook, declaring that possible match is awaiting confirmation from Pan Pawłowski.
 
-#### Contract signing
+### Contract signing
 
 The day before the show, a contract signing ceremony was held.
 It was located in the same arena that the show took place, on a set featuring the ramp, titantron and a table.
@@ -69,6 +70,8 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 
 {% end %}
 
+## Card
+
 {% card() %}
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
@@ -95,7 +98,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
     Referee: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=398192)
 * [Facebook post announcing the first match](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid025CUsTP2nwpJkbHDNQFaCNFcWabnQ2Dm8xjbq13nZ6iAU9BRPL7e5zw8vgePgE7rEl)

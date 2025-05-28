@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue = ["hotel-scout-czestochowa"]
 [extra]
 city = "Częstochowa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2024-02-03-ptw-5-gold-rush-plakat.jpg", caption = "Official poster. Pictured left to right: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md), Mason Madden (back, wearing glasses), [Taras](@/w/taras.md) (front, wearing red), Mansoor (back, with a beard), [Disco Pablo](@/w/disco-pablo.md) (front, wearing blue), [Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md).", source = "Official PTW Facebook" }
 2 = { path = "gold-rush-pre-show.jpg", caption = "Before the start of the show.", source = "Ville Paananen" }
@@ -17,12 +18,14 @@ The event featured PTW's cast alongside foreign wrestlers from UK, USA, Germany 
 
 Polish celebrity and former boxer Marcin Najman was also expected to appear in some capacity, as the event was held in his hometown.
 
-#### Build-up to the event
+## Build-up to the event
 
 * PTW has been teasing the introduction of a singles championship belt for several months. The first champion is going to be crowned in a 20-man royal rumble at this event.
 * [Dziedzic](@/w/dziedzic.md) defeated [Disco Pablo](@/w/disco-pablo.md) and [Renegade](@/w/renegade.md) on PTW Underground 20, with each wrestler's tag team partners present and involved in the match.
 * The day before the event, PTW [posted on Facebook][sydal-facebook-video] that Matt Sydal will not be performing due to unforeseen circumstances. In a video attached to that post, Sydal explained that this was due to passport issues. A replacement of his or higher caliber was announced, to be revealed at the event.
 * The surprise, was however spoiled by Lince Dorado, who posted about a last-minute trip to Poland on his Instagram profile.
+
+## Card
 
 {% card() %}
 - - '[Scotty Rawk](@/w/scotty-rawk.md)(c)'
@@ -36,12 +39,12 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - "[PAKA](@/tt/paka.md): [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
   - "[Sinister Kingdom](@/tt/sinister-kingdom.md): [Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md)"
   - "MxM Collection: Mansoor, Mason Madden"
-  - {c: "PTW Tag Team Championship"}
+  - {c: "[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)"}
 - [Marius Al-Ani, '[Sam Della Vale](@/w/sam-rogers.md)', {c: "PTW:WWA Championship"}]
 - - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
   - '[Karyna](@/w/karyna.md)'
   - Marcin Najman
-  - g: Shaving [Karyna](@/w/karyna.md)'s head, Najman's MMA promo
+  - g: Shaving [Karyna's](@/w/karyna.md) head, Najman's MMA promo
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marcelito](@/w/marcelito.md)'
@@ -63,7 +66,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
   - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
-  - {s: "Gold Rush Rumble", c: "PTW Championship"}
+  - {s: "Gold Rush Rumble", c: "[PTW Championship](@/c/ptw-championship.md)"}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - Karolina (Pawłowski's real-life partner)
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
@@ -98,8 +101,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 * Pawłowski invited his fiancee Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
 * The screen showed a video recalling Rzeźniczak's kidnapping from [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and revealing it was an elaborate ruse by Bones, Rzeżniczak and Longman who are scheming against Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, hit his boss with _At Your Service_, and closed the show by plugging the lottery.
 
-
-#### Gold Rush Rumble entrances and eliminations
+### Gold Rush Rumble entrances and eliminations
 
 1. [Axel Fox](@/w/axel-fox.md)
 2. [Marcelito](@/w/marcelito.md)
@@ -150,9 +152,9 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 47. Puncher pins Axel Fox to win
 
 Mutant was last seen in PTW on their [very first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in 2021.
-Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character who made his debut at the first event, then showed on first two Underground events and disappeared.
+Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character who made his debut at the first event, then showed up on first two Underground events and disappeared.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=387058)
 * [Full event on Fite/Triller](https://www.trillertv.com/watch/ptw-gold-rush-pl/2pehz/), requires paid subscription

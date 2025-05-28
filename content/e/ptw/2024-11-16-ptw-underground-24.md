@@ -7,6 +7,7 @@ chronology = ["ptw", "underground"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2024-11-16-ptw-underground-24-plakat.jpg", caption = 'Official poster. Pictured left to right, top row: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Miyagi Shida](@/w/miyagi-shida.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Max Speed](@/w/max-speed.md), [Alex Brave](@/w/alex-brave.md); middle row: [Spartan](@/w/spartan.md), Jack Vaughn, [Dawid "Puncher" Seńko](@/w/puncher.md), Aaron Williams, Jake Omen; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).', source = "Official PTW Facebook" }
 +++
@@ -15,6 +16,8 @@ city = "Kozłów"
 
 For this event, PTW advertised the involvement of "The Veteran" Jack Vaugh, American wrestler primarly known from Ohio Valley Wrestling, but recently famous for his TikTok videos. Alongside Jack, two more American wrestlers were invited: Jake Omen and Aaron Williams.
 Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md), Spanish wrestler Newt Nova, and the Russian [Serg Sullivan](@/w/serg-sullivan.md).
+
+## Card
 
 {% card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
@@ -41,7 +44,7 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
 
 * Post-show, the current champion Puncher, and new #1 contender Spartan faced off. This ended with Puncher attacking PTW's co-owner [Łukasz Okoński](@/w/lukasz-okonski.md) and putting him through a table.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=412026)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)

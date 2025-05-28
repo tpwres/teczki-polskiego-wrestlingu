@@ -7,6 +7,7 @@ chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery.poster]
 path = "ptwu22-poster.webp"
 caption = "Official poster for the show. Pictured are: Maverick, [Puncher](@/w/puncher.md), [Nitro](@/w/nitro.md), [Spartan](@/w/spartan.md), [Renegade](@/w/renegade.md), [Diana Strong](@/w/diana-strong.md), [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md)."
@@ -37,6 +38,8 @@ Other foreign guests were already seen on Ryucon previously: Hungarian wrestlers
 On August 7th, PTW announced a "partnership" with ticket platforms Going and Empik, making a switch from their previous ticket platform, KupBilecik (also used by [KPW](@/o/kpw.md)).
 For the first time ever, PTW introduced VIP tickets for an Underground show, in a very limited number of 20 seats. With a premium price (150&nbsp;PLN, or about 35&nbsp;EUR at the time; twice the regular ticket cost) they also promise a premium experience: ringside seats, snacks, drinks and merchandise discounts. This new ticket policy seems to disregard the "first come first served" principle that PTW always followed in regards to seats at the Underground shows.
 
+## Card
+
 {% card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Blaze](@/w/blaze.md)'
@@ -64,7 +67,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 
 The announced dance performance was met with slight backlash from the fans online. Ultimately it never happened, and the Instagram account was quietly removed.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=402625)
 * [Facebook post with the cover image](https://www.facebook.com/photo/?fbid=528941409458506&set=a.136592405360077), confirming dates and listing sponsors.
