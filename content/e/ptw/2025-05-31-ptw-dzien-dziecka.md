@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 hide_results = true
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 +++
@@ -15,6 +16,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 "Dzień Dziecka" (_Children's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
+
 * The Facebook event page suggests the following:
   * [Dawid "Puncher" Seńko](@/w/puncher.md) in action
   * ["Starboy" Nano Lopez](@/w/nano-lopez.md) returns, having recovered from his alleged injury (which did not affect his international bookings)
@@ -26,6 +28,8 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 * Following up on their feud including arena brawls, Shida and Sullivan will compete in a Falls Count Anywhere match.
 * On May 23rd PTW confirmed the challenger for the [PTW Underground Championship](@/c/ptw-underground-championship.md) - the returning Gulyás Öcsi, making his PTW singles debut.
 * In a [Facebook video](https://www.facebook.com/watch/?v=1056182143186831) on PTW  fanpage, Italian referee Daniele Specchiulli cuts a heelish promo, announcing his return to PTW, calling out [Sędzia Herno](@/w/sedzia-herno.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md).
+
+## Card
 
 {% card(predicted=true) %}
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
@@ -54,9 +58,14 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: 'The two chairmen make an announcement'
     nc: upcoming  
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
+  - '???, ???'
+  - s: Tag Team match
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    nc: upcoming  
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=423576)
 * [Event page on Facebook](https://www.facebook.com/events/1864407861025971/)
