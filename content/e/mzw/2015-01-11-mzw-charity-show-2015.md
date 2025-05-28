@@ -6,6 +6,7 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery.1]
 path = "plakat.webp"
 caption = "Official poster, showing [Hexia](@/w/hexia.md), [Kowboj Luke](@/w/red-thunder.md), [Shadow](@/w/shadow.md), [Polish Hammer](@/w/jedrus-bulecka.md) and [Justin Joy](@/w/justin-joy.md)."
@@ -15,6 +16,8 @@ source = "Facebook @GosirGlucholazy"
 This was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was a charity show, with donations going to [WOŚP][wosp], and coinciding with their 23rd annual Grand Finale event.
 
 In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-01-11-ddw-wrestling-art.md) that same day, for the same cause.
+
+## Card
 
 {% card() %}
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Kowboj Luke](@/w/red-thunder.md)"]

@@ -7,6 +7,7 @@ chronology = ["mzw"]
 venue = ["wroclaw"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 hide_results = true
 [extra.gallery]
 manifest = "@/e/mzw/2015-08-22-mzw-podziemny-krag-2015-gallery.toml"
@@ -28,6 +29,8 @@ There is no confirmed card for this event. Based on the photos from the organize
 
 The only known match-up is [Shadow](@/w/shadow.md) vs [Szymon "Siwy" Siwiec](@/w/szymon-siwiec.md), as evidenced by a [forum post][siwy-szedou] referencing an official video (set to private as of 2025). A [Facebook post by MZW][mzw-fb-post] also mentions Szymon Siwiec, as well as [The Grannatic](@/w/the-grannatic.md).
 
+## Card
+
 {% card(incomplete=true) %}
 - - '[Shadow](@/w/shadow.md)'
   - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
@@ -37,7 +40,7 @@ The only known match-up is [Shadow](@/w/shadow.md) vs [Szymon "Siwy" Siwiec](@/w
     Ring Announcer: '???'
 {% end %}
 
-### References
+## References
 
 * [Mywrestling's article](https://mywrestling.com.pl/galeria-zdjec-z-champions-war-materialy-video-z-gali-gwf-next-step-zamkniety-event-we-wroclawiu-wrestlerzy-z-niemiec-na-pokazie-w-opawie-koszulka-mzw/) about [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md), briefly discusses this event
 * [Podziemny Krąg at PowerEvents](https://powerevents.pl/realizacje/podziemny-krag/), a recap by the organizer, with photos

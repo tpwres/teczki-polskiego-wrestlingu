@@ -6,10 +6,13 @@ chronology = ["mzw"]
 venue = ["opawa"]
 [extra]
 city = "Opawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "plakat.webp", caption = "Show poster. Pictured wrestlers are: [Shadow](@/w/shadow.md), [Kowboj Luke](@/w/red-thunder.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Rick Baxxter](@/w/rick-baxxter.md), [Justin Joy](@/w/justin-joy.md), [Franz Engel](@/w/franz-engel.md).", source = "Facebook @ManiacZoneWrestling" }
 2 = { path = "rookies-battle-royale.jpg", caption = "Rookies Battle Royale, with [Szymon Siwiec](@/w/szymon-siwiec.md) in the center.", source = "Facebook @ManiacZoneWrestling"}
 +++
+
+## Card
 
 {% card() %}
 - ["[Szymon Siwiec](@/w/szymon-siwiec.md)", {s: "MZW Rookies Battle Royale"}]
@@ -22,7 +25,6 @@ city = "Opawa"
     Host, Ring Announcer: Filip Cieśliński
     Referees: '[Sędzia Piotr](@/w/mr-b.md), ???'
 {% end %}
-
 
 ## References
 

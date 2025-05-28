@@ -6,6 +6,7 @@ chronology = ["mzw"]
 venue = ["smolec"]
 [extra]
 city = "Smolec"
+toclevel = 2
 [extra.gallery.1]
 path = "plakat.webp"
 caption = """\
@@ -13,8 +14,10 @@ caption = """\
   [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md), [Kowboj Luke](@/w/red-thunder.md),
   [Robert Kaiser](@/w/robert-kaiser.md), [Shadow](@/w/shadow.md) and Kevin Williams.
 """
-source = "?"
+source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - ["[Shadow](@/w/shadow.md)", "[Kowboj Luke](@/w/red-thunder.md)"]
@@ -33,6 +36,8 @@ source = "?"
 {% end %}
 
 Matches from this event are briefly shown in the first act of [American Dream](@/a/amerykanski-sen.md).
+
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=112730)
 * [YouTube recap video](https://www.youtube.com/watch?v=govjBMLhU3E)
