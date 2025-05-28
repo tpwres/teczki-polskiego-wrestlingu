@@ -6,6 +6,7 @@ venue = ["airport-kluczewo"]
 chronology = ["kpw", "oldtown"]
 [extra]
 city = "Stargard"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2017-07-23-kpw-oldtown-2-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Robert Star](@/w/robert-star.md) and [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
@@ -16,6 +17,8 @@ The event's name is derived from the town of Stargard, which literally translate
 KPW held a wrestling exhibition during the event's last day. Wrestling fits the post-apocalyptic theme of OldTown. The second OldTown is also where KPW's midcard belt, appropriately named "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)", was created and the inaugural championship crowned. The OldTown Championship belt had a unique look, matching the event's post-apocalyptic theme. The original strap was retired at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) and replaced with a more traditionally designed version.
 
 KPW would return to following editions of OldTown until 2019.
+
+## Card
 
 {% card() %}
 - - "[Greg](@/w/greg.md), [Peter Pannache](@/w/peter-pannache.md)"
@@ -37,7 +40,7 @@ KPW would return to following editions of OldTown until 2019.
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 - Like at the [previous event](@/e/kpw/2017-06-10-kpw-arena-7.md), [Bianca](@/w/bianca.md) was on the poster, but not on the card.
 - Due to heavy rain, the show was delayed for four hours, until midnight.
@@ -51,7 +54,7 @@ KPW would return to following editions of OldTown until 2019.
 - Kawaler appears, declares he's had enough of OldTown and will not take part, only to soon change his mind.
 - Corvus powerbombed [Kaszub](@/w/kaszub.md) into a table stacked with lighting tubes to win.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=182537)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown-2/)

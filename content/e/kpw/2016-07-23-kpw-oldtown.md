@@ -6,12 +6,15 @@ chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]
 [extra]
 city = "Stargard"
+toclevel = 2
 +++
 
 [OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 The event's name is derived from the town of Stargard, which literally translates as Old Town.
 
 KPW held a wrestling exhibition during the event on the penultimate day. Wrestling fits the post-apocalyptic theme of OldTown, however no special storylines were devised for the show. KPW would return to following editions of OldTown until 2019.
+
+## Card
 
 {% card() %}
 - - '[Robert Star](@/w/robert-star.md)'
@@ -35,14 +38,14 @@ KPW held a wrestling exhibition during the event on the penultimate day. Wrestli
 
 Attendance: estimated 200.
 
-#### Recap
+### Recap
 
 - Lambert attacked [Kaszub](@/w/kaszub.md) before the opening bell, then left the ring to find a chair and kendo stick. The arsenal used was even wider - lighting tubes, a ladder and a baseball bat. The bleeding Lambert powerbombed Kaszub onto a large lighting tube to win.
 - [Kamil Aleksander](@/w/kamil-aleksander.md) countered Korpo's Deadline into a pin.
 - People cheer Kawaler during his entrance, as he's billed from the nearby area, only to
   turn on him once he calls them dirty and smelly, and the festival a place of filth. Kawaler dominates, first punishing [Bianca](@/w/bianca.md), then Robert. Bianca performs a stinkface on Kawaler to great reactions. Oliwa enters to even the odds, but gets a low blow while his team was distracted.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=77904)
 * [Kombat TV Episode 7](https://www.youtube.com/watch?v=FlDqS77ltZQ), includes fragments of matches

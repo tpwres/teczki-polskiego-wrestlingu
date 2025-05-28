@@ -6,6 +6,7 @@ venue = ["ptak-expo-nadarzyn"]
 chronology = ["kpw"]
 [extra]
 city = "Nadarzyn"
+toclevel = 2
 +++
 
 World Travel Show is an annual, mostly commercial fair hosting everything related to travel.
@@ -15,6 +16,8 @@ KPW was invited to facilitate Carmen Rojas - a Bolivian _cholita_ (wearing tradi
 
 Rojas faced KPW's [Mira](@/w/mira.md) in a mostly unplanned match, consisting of basic throws and punches. While Mira entered in her typical, tight trunks and cropped top, Rojas was wearing a long dress with many layers - the two wrestlers couldn't be more different. Afterwards, [Robert Star](@/w/robert-star.md) and [Greg](@/w/greg.md) put on a men's match.
 
+## Card
+
 {% card() %}
 - ['[Mira](@/w/mira.md)', Carmen Rojas]
 - ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
@@ -22,7 +25,7 @@ Rojas faced KPW's [Mira](@/w/mira.md) in a mostly unplanned match, consisting of
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=188297)
 * [KPW's event page](https://kpwrestling.pl/events/world-travel-show/)
