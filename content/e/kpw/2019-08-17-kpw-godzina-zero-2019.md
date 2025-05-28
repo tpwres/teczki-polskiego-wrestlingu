@@ -68,7 +68,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 * Behind their backs, Greg entered the ring and appeared to help Kawaler. However, to everyone's surpise, instead of helping him off the ring, he landed a surprise attack, betraying his former leader.
 * When the announcer was closing the show, she was interrupted by some coughing. This turned out to be [Chemik](@/w/chemik.md), standing on the same balcony that Kawaler delivered his speech from. He repeated the _Annuntio vobis_ phrase, this time naming Greg as the bishop of Rome. Greg entered the pulpit, to Ghost BC's Year Zero. Announced himself as the new pope of Polish wrestling, under the name _Pijus I Greg_ ("pijus" being a pun on both Pius, the name of many popes, but also a somewhat archaic Polish word for _drunkard_).
 
-## Referencess
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=247707)
 * [Final segment](https://www.youtube.com/watch?v=D3v7UD5DE_E), showing the betrayal and ascension to papacy

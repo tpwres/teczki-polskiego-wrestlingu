@@ -47,7 +47,7 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
-## Referencess
+## References
 
 * Cagematch event pages: [day 1](https://www.cagematch.net/?id=1&nr=319861), [day 2](https://www.cagematch.net/?id=1&nr=319862)
 * [KPW's event page, day 1](https://kpwrestling.pl/events/kpw-oldtown-4/)
