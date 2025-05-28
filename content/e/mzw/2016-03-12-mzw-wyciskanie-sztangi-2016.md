@@ -21,4 +21,5 @@ toclevel = 2
 {% end %}
 
 ## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153086)
