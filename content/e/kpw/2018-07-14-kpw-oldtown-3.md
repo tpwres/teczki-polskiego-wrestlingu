@@ -6,6 +6,7 @@ chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]
 [extra]
 city = "Stargard"
+toclevel = 2
 [extra.gallery.1]
 path = "2018-07-14-kpw-oldtown-3-plakat.jpg"
 caption = "Official poster, showing [Greg](@/w/greg.md) with the [OldTown Championship](@/c/kpw-old-town-championship.md)"
@@ -17,10 +18,12 @@ The event's name is derived from the town of Stargard, which literally translate
 
 In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wrestling exhibition during the event's second day. KPW would return to following editions of OldTown until 2019.
 
-#### Build-up
+## Build-up
 
 * [Robert Star](@/w/robert-star.md) is forced to join Kawaleria after previously losing to [Piękny Kawaler](@/w/piekny-kawaler.md)
 * British wrestlers [Dom Taylor](@/w/dom-taylor.md) and [Lee Rogers](@/w/lee-rogers.md) debut for KPW. Taylor would later appear several more times for the organization in singles competition as well.
+
+## Card
 
 {% card() %}
 - - "[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md),
@@ -44,7 +47,7 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=319859)
 * [Euronews](https://www.euronews.com/2018/07/18/poland-s-post-apocalyptic-old-town-festival) article and video about the third OldTown

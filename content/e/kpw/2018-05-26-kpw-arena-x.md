@@ -7,11 +7,12 @@ chronology = ["kpw", "arena"]
 venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2018-05-26-kpw-arena-x-kawaleria-vs-sojusz-plakat.jpg", caption = "Official poster, with [Piękny Kawaler](@/w/piekny-kawaler.md) and [Robert Star](@/w/robert-star.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-#### Build-up
+## Build-up
 
 * Kawaleria vs Sojusz was built around the storyline of KPW's entire locker room being split in two factions: either
   the heel faction Kawaleria (_The Cavalry_) led by [Piękny Kawaler](@/w/piekny-kawaler.md), or the face faction Sojusz (_The Alliance_), led by
@@ -21,6 +22,8 @@ city = "Gdynia"
 * Robert became #1 Contender for the KPW Championship at Arena 9, when [Greg](@/w/greg.md) lost by DQ. During this event, he would face the undefeated Kawaler for the championship.
 * [Ron Corvus](@/w/ron-corvus.md) won the Magnificent Seven Match at the previous year's [Godzina Zero](@/e/kpw/2017-08-12-kpw-godzina-zero-2017.md), for a shot at any of the championships. At Arena 9, Corvus reminded [Greg](@/w/greg.md) that he's coming for his title.
 * On Facebook, Kawaler announced that [Kaszub](@/w/kaszub.md) is discharged from his faction. He would never again appear for KPW, likely retiring from wrestling altogether.
+
+## Card
 
 {% card() %}
 - ['[Moloch](@/w/moloch.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
@@ -41,7 +44,7 @@ city = "Gdynia"
 
 Attendance: about 300 \
 
-#### Recap
+### Recap
 
 - Two new girls in catsuits accompany [Moloch](@/w/moloch.md) to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md). The other one is Laura, who later trained with [PTW](@/o/ptw.md) but never debuted.
 - Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kakareko.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
@@ -57,7 +60,7 @@ Attendance: about 300 \
 - In the scramble, [Moloch](@/w/moloch.md) briefly fought [Gracjan Korpo](@/w/gracjan-korpo.md). They would have a proper fight on the next event.
 - Corvus cleared the ring by piledriving members of Kawaleria one at a time. Kawaler is dragged into the ring by force. One powerbomb through a table later, we have a new KPW Champion, ending Kawaler's reign.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=205652)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-x/), includes a trailer and highlights video

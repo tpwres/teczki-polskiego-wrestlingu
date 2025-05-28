@@ -6,6 +6,7 @@ chronology = ["kpw", "godzina-zero"]
 venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2018-08-11-kpw-godzina-zero-2018-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md), Tom LaRuffa, [Greg](@/w/greg.md), [Robert Star](@/w/robert-star.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Bianca](@/w/bianca.md) and Tristan Archer.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
@@ -14,9 +15,11 @@ The third Godzina Zero (_Zero Hour_) event featured three new foreign guests. On
 
 The event was held on the same day as a footbal match between Arka Gdynia and Górnik Zabrze. Arka is the local football team, then competing in Poland's top division. Their stadium is nearby.
 
-#### Build-up
+## Build-up
 
 * [Robert Star](@/w/robert-star.md) was forced to join Kawaleria after losing to [Piękny Kawaler](@/w/piekny-kawaler.md) at [Arena X](@/e/kpw/2018-05-26-kpw-arena-x.md).
+
+## Card
 
 {% card() %}
 - ['[Robert Star](@/w/robert-star.md); [Rosetti](@/w/rosetti.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)']
@@ -38,7 +41,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and G�
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * Two self-proclaimed rock stars face each other in the ring. [Rosetti](@/w/rosetti.md) bosses [Robert Star](@/w/robert-star.md) around, to his annoyance. Finally he earns a slap to the face, to great applause.
 * Oliwa was unable to lift his heavy-set opponent, and used a frog splash to finish.
@@ -51,7 +54,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and G�
 * LaRuffa refused to shake hands with Corvus, then methodically wore him down. Finally Corvus retained the belt with a piledriver.
 * In the post-event scramble, ladder match winner Pannache got kicked down by Kawaleria. Kawaler wanted to steal his contract and cash the title shot on Corvus, to no avail. Kawaleria, along with the angry Kawaler attacked Corvus, who got rescued by Sojusz. LaRuffa also returns to help, superkicking Kawaler.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=205647), curiously missing the ladder match
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2018/)
