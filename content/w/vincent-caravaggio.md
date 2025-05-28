@@ -31,6 +31,10 @@ Vincent Caravaggio made his debut in December 2023 at [Underground 19](@/e/ptw/2
 
 Since [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) he's been involved in a storyline where he aligned himself with another heel, [Alex Brave](@/w/alex-brave.md), against the new generation of PTW's babyfaces - [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md).
 
+#### Championship pursuit
+
+After one of PTW's owners - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) turned heel by attacking [Spartan](@/w/spartan.md) in his [PTW Championship](@/c/ptw-championship.md) match against [Dawid "Puncher" Seńko](@/w/puncher.md) he quickly got approved by both Vincent and Alex Brave in social media. This led to Vincent facing another chairman - [Łukasz Okoński](@/w/lukasz-okonski.md) in a Singles Match at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md). Later on, he took part in a Championship Tournament for inaugural [PTW Underground Championship](@/c/ptw-underground-championship.md), in which he advanced to the finals. This took place at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md), where Max Speed emerged victorious from a Ladder Match. At [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) he opened the show to announce, that he is leaving Prime Time Wrestling. However, this has been later revealed as some sort of a smokescreen planted by Vincent at the end of the show to attack Łukasz Okoński along with Alex Brave. 
+
 ## In wrestling
 
 * Finishers:
