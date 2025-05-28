@@ -7,9 +7,12 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md).
+
+## Card
 
 {% card() %}
 - ['[Jacob Crane](@/w/jacob-crane.md)', '[Disco Pablo](@/w/disco-pablo.md)']
@@ -26,7 +29,7 @@ The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Perfor
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=339570)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-5-pl/2pbcq/), requires paid subscription

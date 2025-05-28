@@ -7,11 +7,14 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The ninth [PTW](@/o/ptw.md) Underground show was held on Sunday, October 30th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
 
 This was the go-home show for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). Many foreign wrestlers were present, thrown into a battle royale for a PTW contract. In this match, fans saw the ring debuts of masked luchador El Ogre, Marco Hammers, and Rafi Rarytas. In the main event, British wrestler Sam Gradwell, fresh out of NXT UK, faced Justin Joy.
+
+## Card
 
 {% card() %}
 - ['[Taras](@/w/taras.md)', '[Vic Golden](@/w/vic-golden.md)']
@@ -39,11 +42,11 @@ This was the go-home show for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * In a post-match segment, Bad Bones continued to beat Samson with a baseball bat. Security tried to stop him, also got beat down. Pawłowski officially fired Bad Bones.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=348783)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-9-pl/2pc7e/), requires paid subscription

@@ -7,9 +7,12 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md).
+
+## Card
 
 {% card() %}
 - ['["Top Gun" Samson](@/w/samson.md)', '[Jacob Crane](@/w/jacob-crane.md)']
@@ -34,7 +37,7 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
 
 This was [Jacob Crane](@/w/jacob-crane.md)'s last PTW appearance. He was later officially released in August 2022.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=339571)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-6-pl/2pbio/), requires paid subscription

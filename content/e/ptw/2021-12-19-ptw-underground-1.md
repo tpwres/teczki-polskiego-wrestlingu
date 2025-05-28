@@ -7,6 +7,7 @@ chronology=["ptw", "underground"]
 venue=["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The first [PTW](@/o/ptw.md) Underground was held on Sunday, December 19th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
@@ -14,6 +15,8 @@ The first [PTW](@/o/ptw.md) Underground was held on Sunday, December 19th 2022, 
 It kicked off PTW's monthly cadence of events in 2022 and 2023: an Underground event on the last Sunday of each month, except when a bigger (numbered) event was held on that weekend. Thus, there was no Underground show in November 2022, as that slot was taken by [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). January and December 2023 were special: both had two Underground shows on Saturday and Sunday, but in December they were moved to the second weekend, because of Christmas.
 
 Underground shows advanced the storylines seen in bigger events, but with significantly less starpower. Initially only available to live public, but since Underground 4, streamed live on FITE/Triller. The venue also has limited capacity, compared to ones used for the larger shows.
+
+## Card
 
 {% card() %}
 - ['[Renegade](@/w/renegade.md)', '[Axel Fox](@/w/axel-fox.md)']
@@ -29,7 +32,7 @@ Underground shows advanced the storylines seen in bigger events, but with signif
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=331120)
 * [Facebook result post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0rwtqvHMoUfpVnE4X3Ze3azUqfRkcixuFgh4Zi99qqPvvHh3aUPtUCbVP4o8XhLCrl)

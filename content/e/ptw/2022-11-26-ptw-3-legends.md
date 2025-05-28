@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue=["hala-bemowo"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2022-11-26-ptw-3-legends-plakat.jpg", caption = 'Official poster. Pictured are: Matt Sydal, Trent Seven, [Santino](@/w/santino.md), Joe Hendry, [Dawid "Puncher" Seńko](@/w/puncher.md), [Sinister](@/w/sinister.md), Samuray Del Sol, [Justin Joy](@/w/justin-joy.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Marcin Rzeźniczek, Xia Brookside, [Myla Grace](@/w/myla-grace.md), [Diana Strong](@/w/diana-strong.md), [Primate](@/w/primate.md), [Robert Star](@/w/robert-star.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md) and [Axel Fox](@/w/axel-fox.md).', source = "Official PTW Facebook" }
 2 = { path = "legends-triple-threat.jpg", caption = "Women's triple threat match, as seen from the audience", source = "Ville Paananen" }
@@ -17,6 +18,8 @@ Legends was the third major event by [Prime Time Wrestling](@/o/ptw.md), held on
 The event heavily promoted its numerous foreign guests.
 
 By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primate, Trent Seven, Scottish wrestler Joe Hendry, then current IMPACT Digital Media Champion. Two female performers, also from UK were Myla Grace and Xia Brookside, formerly NXT UK competitors. Finally, from the United States, Matt Sydal, then performing in AEW, and Samuray Del Sol, best known as Kalisto in WWE.
+
+## Card
 
 {% card() %}
 - - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
@@ -61,14 +64,14 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
     English commentary: '[Santino](@/w/santino.md), [Lewis Costello](@/w/lewis-costello.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * Santino was named the new co-owner of Prime Time Wrestling by Pawłowski. Bad Bones, officially released on the previous show, entered the ring to attack Santino, but was quickly escorted out by security.
 * After Hendry vs Seven, the Kinguin mascot, previously wading among the audience and posing for photos, entered the ring area and started to circle it erraticaly. Hendry inspected it, and revealed that it was Taxi Złotówa wearing it. Złotówa prostrated and begged Pawłowski to reinstate him. Pawłowski refused, and Złotówa was dragged out by security.
 * [Krampus](@/w/krampus.md) interfered against Nano Lopez, to align himself with Sinister.
 * Samson was not medically cleared, which resulted in their scheduled match being cancelled. Dziedzic and Longman made their entrance, and cut a promo bragging about injuring samson. Then they declare Dziedzic the winner by countout. Samson appeared, for a staredown with Longman. After Longman left, Spartan appeared, and laid Dziedzic out with a Spartan Bomb.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=354592)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-12/2pceo/), requires paid subscription

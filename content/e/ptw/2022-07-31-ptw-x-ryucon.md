@@ -7,6 +7,7 @@ chronology = ["ptw", "ryucon"]
 venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2022-07-31-ptw-x-ryucon-gallery.toml"
 +++
@@ -18,6 +19,8 @@ They partnered with Ryucon, one of the biggest Polish anime/manga conventions, w
 Earlier that same year, [KPW](@/o/kpw.md) made a similar appearance at Poland's biggest fan convention [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md).
 
 For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many independent European organizations. His scheduled opponent was Krampus, but he failed to appear, and was replaced with Marcelito.
+
+## Card
 
 {% card() %}
 - ['[Axel Fox](@/w/axel-fox.md)', '[Justin Joy](@/w/justin-joy.md)']
@@ -39,12 +42,12 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
 {% end %}
 
 
-#### Recap
+### Recap
 
 * In a promo before his match, Puncher teased the audience by showing interest in a manga book. He then proceeded to tear it up and crush the pages, and derided the audience for enjoying it.
 * For this event, unique entrance graphics were used, sometimes with character portraits done in a manga style. Samson altered his entrance routine - instead of entering in his signature military jacket, he wore a headband and a green "forest camo" poncho, with kendo stick in hand.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=346589)
 * [Video recap by Kto Pytał?](https://www.youtube.com/watch?v=cnhTKPqQHg4)
