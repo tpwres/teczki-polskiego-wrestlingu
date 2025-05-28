@@ -41,7 +41,7 @@ source = "Official MZW Facebook"
     Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
-## Recap
+### Recap
 
 * Ring Rat's promo was interrupted by Anatolii, giving him a Big Boot. Anatolii was then attacked by Krueger, who in turn was chokeslammed by Hexia.
 * This was Hexia's final in-ring appearance.
