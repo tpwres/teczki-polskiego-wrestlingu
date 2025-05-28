@@ -61,7 +61,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 - - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - '???, ???'
   - s: Tag Team match
-  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     nc: upcoming  
 {% end %}
 
