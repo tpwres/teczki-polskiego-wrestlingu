@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 +++
@@ -14,11 +15,14 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 "Prezes vs Prezes" (_Chairman vs Chairman_) was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ### Build-up
+
 * On April Fools Day PTW announced Andrzej Supron as the Special Guest Referee for the Main Event. They reiterated that despite the date, it is not an April Fools joke.
 * Both Chairmen appeared live on the PTW YouTube channel on separate occassions during the feud. Rather than firing shots at one another, each of them focused on calling out the competition and "traitors", making only brief references to the opponent.
 * Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against Conte, an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
 * On April 10th, PTW [announced][bestia-pas] that [Dawid "Puncher" Seńko](@/w/puncher.md) will defend his Bestya Slam Championship against the up-and-coming Sigma Boy xD.
 * On April 11th, PTW hosted another YouTube livestream with appearances by both Chairmen. They talked various topics, mainly building up their upcoming fight.
+
+## Card
 
 {% card() %}
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
@@ -58,7 +62,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=421930)
 * [Full show on YouTube](https://www.youtube.com/watch?v=ClI5xGRxnhg&t=8567s) (requires paid subscription)
