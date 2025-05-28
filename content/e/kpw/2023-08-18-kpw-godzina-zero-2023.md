@@ -7,6 +7,7 @@ chronology = ["kpw", "godzina-zero"]
 venue=["nowy-harem"]
 [extra]
 city = "Gdynia"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2023-08-18-kpw-godzina-zero-2023-plakat.jpg", caption = "Official poster, featuring Iestyn Rees with a clock.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
@@ -17,12 +18,14 @@ The event had two new foreign guests: Welsh powerhouse Iestyn Rees, and German w
 
 All three championships were defended and two changed hands. The Magnificent Seven Ladder Match was replaced by a Championship Contract Battle Royal, same as on the [2022 event](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md).
 
-#### Build-up
+## Build-up
 
 * Real Man Chemik, since winning his third match at the last event, has grown some serious mustache. In [his promo][chemik-promo], he explains that to be a man, you have to both look and act the part. At [Pyrkon](@/e/kpw/2023-06-17-kpw-pyrkon-2023.md), Leon eliminated Chemik who was mistakenly hit in the head with a chair by his own bodyguard. Chemik wants to show Leon what that feels like, in a Chairs Match.
 * KPW's two high flyers Zefir and Fynn Freyhart will face each other. The prize - a shot at the OldTown championship.
 * Die Ordnung won the championship belts at the previous year's Godzina Zero, in a four-way elimination match. Filip and Michał Fux were the last to be eliminated. Now they aim for the championship again, in their third match against the Germans.
 * In [his vignette][rosetti-vignette], Rosetti cashed in his [Chairman's Briefcase](@/e/kpw/2023-05-19-kpw-arena-22.md) match. Coming to the Chairman's office, he presents his match, which Malinowski accepts.
+
+## Card
 
 {% card() %}
 - - '[Zefir](@/w/zefir.md)'
@@ -61,7 +64,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
     Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * This was the last event to feature the original OldTown championship belt. From [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) onwards, it was replaced by a more conventional leather plate design.
 * In the Battle Royal finale, Leon Lato faced Chemik again, after being defeated in their singles match.
@@ -70,7 +73,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 * While Red Scorpion celebrated his victory, Leon Lato arrived in the ring, holding the Championship contract he just won, and challenged Scorpion for the championship at the next event.
 * In a [Facebook post](https://www.facebook.com/kpwrestling/posts/pfbid02UQY6HWgyVoCpq9RayytozE7D7UNcAfFCGYVceD1FKZY4LrpyhUwHtTaCAywLahQfl), KPW stated that Godzina Zero 2023 was their 40th overall event, since the promotion started in 2015.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=373499)
 * [Facebook event page](https://www.facebook.com/events/204635299214755/)
