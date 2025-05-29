@@ -126,6 +126,12 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Tag Team Match
     ed: 2025-02-15
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
+- - "L'Orda: Luca Bjorn, Rust(c)"
+  - '???, ???'
+  - s: Tag Team Match
+    ed: 2025-05-31
+    en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
