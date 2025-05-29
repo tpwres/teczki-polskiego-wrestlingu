@@ -1,0 +1,4 @@
+01 = { path = "ppw-mystic-festival-plakat.webp", caption = "The show's poster, showing a picture from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "Official Mystic Festival Facebook" }
+02 = { path = "mystic-mapka-2025.jpg", caption = "Map of the festival area. Note a pin labelled &quot;wrestling&quot; in the Chill Out Zone in the bottom right corner.", source = "Official Mystic Festival Facebook" }
+03 = { path = "chlopcy-stoczniowcy.jpg", caption = "Image announcing [Biesiad](@/w/biesiad.md) & [Goblin](@/w/goblin.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) & [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
+04 = { path = "queen-vs-star.jpg", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Robert Star](@/w/robert-star.md).", source = "Official PpW Facebook" }
