@@ -6,6 +6,7 @@ chronology = ["ppw"]
 venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery.1]
 path = "2022-05-21-ppw-ledwo-legalne-ii-plakat.jpg"
 caption = "Official poster. Wrestlers drawn are [Mister Z](@/w/mister-z.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md) wearing the [PpW Championship](@/c/ppw-championship.md) belt, Viking and [Steve Kuningas](@/w/steve-kuningas.md)."
@@ -29,6 +30,8 @@ Several international wrestlers debuted for PpW at this event, most of them from
 * Czech wrestler Viking, Hardcore Champion of Prague-based VcV Original Wrestling
 * Czech wrestler Skull Evil, who previously worked several matches for MZW between 2016 and 2018
 * Belgian wrestler Steve Kuningas
+
+## Card
 
 {% card() %}
 - - '[Mister Z](@/w/mister-z.md); Ms. XXX'
@@ -61,7 +64,7 @@ Several international wrestlers debuted for PpW at this event, most of them from
 * The legs of one of the table were broken and wouldn't hold correctly in place, so [Biesiad](@/w/biesiad.md) simply dumped the table on Osamu.
 * [Tony Sk1n](@/w/tony-sk1n.md) interfered and attacked Biesiad during his match with [Osamu](@/w/osamu.md), but Biesiad quickly disposed of him.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383968)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-2-22-definitive-edition-hd) (requires paid subscription)

@@ -6,7 +6,10 @@ chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 +++
+
+## Card
 
 {% card() %}
 - ["[Kamil Manuszewski](@/w/kamil-aleksander.md)", "[Klarys](@/w/klarys.md)"]
@@ -17,6 +20,6 @@ city = "Warszawa"
     [Marcin Wilkowski](@/w/jedrus-bulecka.md)", {nc: "Double DQ"}]
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=39143)

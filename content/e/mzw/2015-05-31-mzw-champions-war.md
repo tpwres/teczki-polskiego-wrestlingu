@@ -6,6 +6,7 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery.1]
 path = "plakat.webp"
 caption = """\
@@ -24,6 +25,7 @@ Some fans in the Internet wrestling community now mockingly referred to the orga
 MZW briefly paused their activities following the event, to return later the same year in [Opawa](@/e/mzw/2015-09-05-mzw-bieg-wopisty.md).
 Hexia appeared again for MZW more than a year later, and continued to wrestle until 2018, mostly in a team with [Mr B](@/w/mr-b.md). However, MZW held no women's matches since.
 
+## Card
 
 {% card() %}
 - ["[Kevin Williams](@/w/kevin-williams.md)", "[Asmund](@/w/asmund.md)"]
@@ -48,7 +50,7 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
     Referee: '[Sędzia Piotr](@/w/mr-b.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=128358)
 * [Local news portal](https://nowinynyskie.com.pl/artykul/16-latka-zginela-na/629807) reporting on the death of Akira (in Polish)

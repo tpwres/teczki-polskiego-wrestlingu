@@ -7,11 +7,14 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The seventh [PTW](@/o/ptw.md) Underground show was held on Sunday, August 28th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
 
 This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour of Europe, appearing in various smaller promotions. The day before this event, he competed in Helsinki for Slam Wrestling Finland. English veteran Jonny Storm returned, last seen at [Underground 5](@/e/ptw/2022-05-29-ptw-underground-5.md) in May, and at both of PTW's major shows to date.
+
+## Card
 
 {% card() %}
 - ['[Taras](@/w/taras.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
@@ -30,7 +33,7 @@ This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour 
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=348785)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-7-pl/2pbtx/), requires paid subscription

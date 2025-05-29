@@ -6,6 +6,7 @@ chronology = ["kpw"]
 venue = ["amber-expo"]
 [extra]
 city = "Gdańsk"
+toclevel = 2
 +++
 
 Tattoo Konwent is an event focused on the art of tattoo. Since 2014, it's been held several times a year in major cities in Poland, e.g. Gdańsk, Łódź, Poznań, Wrocław, but notably not in Warsaw which has its own, similarly named event. It's often accompanied by concerts, art exhibitions and workshops.
@@ -13,6 +14,8 @@ Tattoo Konwent is an event focused on the art of tattoo. Since 2014, it's been h
 In 2022, KPW was featured as part of the Gdańsk edition, held in the city's exhibition center, Amber Expo. Over two days, 30-31.07, KPW performed in several 20-minute timeslots, one match each time.
 
 Swedish wrestler Steinbolt was the foreign guest this time, along with now regular Darius. The event saw one debut: [Leon Lato](@/w/leon-lato.md), a wrestler from Toruń.
+
+## Card
 
 {% card() %}
 - d: Day 1
@@ -46,7 +49,7 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
-### References
+## References
 
 * Cagematch event pages: [day 1](https://www.cagematch.net/?id=1&nr=348387), [day 2](https://www.cagematch.net/?id=1&nr=348388)
 * [Facebook announcement](https://www.facebook.com/TattooKonwent/posts/pfbid02gSGuoY1rmy3iHyzg9CDVLakhqShm8T4iH3Ys9sDzBxEqNjcubNKuQu2pnq29mY1Tl) on the event's page, lists timeslots.

@@ -6,10 +6,13 @@ chronology = ["ddw"]
 venue = ["przywidz"]
 [extra]
 city = "Przywidz"
+toclevel = 2
 +++
 
 Held on the exact same day as [MZW's event](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), and with donations also going towards WOŚP, this was DDW's second charity show.
 It was held in a gymnastics hall in Przywidz, a Kashubian village about 30&nbsp;km south-west of Gdańsk.
+
+## Card
 
 {% card() %}
 - ["[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)", "[Kaszub](@/w/kaszub.md),
@@ -21,7 +24,7 @@ It was held in a gymnastics hall in Przywidz, a Kashubian village about 30&nbsp;
   {c: "DDW International Championship"}]
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=123193)
 * [DDW's recap video](https://www.youtube.com/watch?v=MXT32x52Wdw)

@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 hide_results = true
 city = "Kozłów"
+toclevel = 2
 +++
 
 "Złoto Dla Zuchwałych" (_Gold for the Bold_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).

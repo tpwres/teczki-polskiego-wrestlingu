@@ -8,6 +8,7 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 hide_results = true
 [extra.gallery.1]
 path = "2019-12-07-ppw-2kola-to-my-nie-zarobimy-plakat.jpg"
@@ -18,6 +19,8 @@ source = "Official PpW Facebook"
 This was likely the first PpW event open for general public, as opposed to friends and insiders that comprised the audiences in the prior years.
 
 "2 koła" is Polish for "2 wheels", a fitting name for a [motorcycle-themed pub](@/v/2kola.md) in which the event was held. It is also a slang term for "2 thousand" in the context of money - thus the name of the event can be understood as "We Ain't Gonna Make 2GRAND".
+
+## Card
 
 {% card() %}
 - - '[Tony Sk1n](@/w/tony-sk1n.md)'
@@ -44,6 +47,6 @@ This was likely the first PpW event open for general public, as opposed to frien
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
 
-### References
+## References
 
 * [Facebook event](https://www.facebook.com/events/746791299065517/)

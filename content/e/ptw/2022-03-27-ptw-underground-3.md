@@ -7,9 +7,12 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+
+## Card
 
 {% card() %}
 - ['[Taras](@/w/taras.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
@@ -26,7 +29,7 @@ The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=331122)
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02XZU16Pi5Z2vocppgdCcvGRnuzNb2Z1MPmYtnBdrHqoYdsA4RWiDWxcZTGC1DCyCyl)

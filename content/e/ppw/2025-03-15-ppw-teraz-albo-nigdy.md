@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["minska-65"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
 +++
@@ -19,7 +20,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * _Fan pack_ &ndash; 159,75 PLN (approx. 37.5 EUR, 32 GBP or 39 USD); entry + commemorative limited edition T-shirt + commemorative autographed poster
 * _VIP pack_ &ndash; 213,00 PLN (approx. 50 EUR, 42 GBP or 51.5 USD); entry + special seats (ringside or bleachers) + commemorative limited edition T-shirt + 2 servings of drinks
 
-### Build-up
+## Build-up
 
 * Along with the event, PpW announced "the largest match in PpW history". This match is supposed to contain 20 competitors in a single ring, though the exact formula was not initially revealed.
 * [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md) continued to cross paths ever since July. While Olgierd vowed to end Goblin, the latter always found a way to one-up him. At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) Goblin interfered in a six man tag match, dragging Olgierd away on a dog leash. After weeks of social media build-up, PpW announced they would face-off in Dog Collar Match - the first in Poland.
@@ -35,10 +36,12 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 * On 4.03.2025 PpW released an [Instagram reel][johnny-zwis] featuring [Johnny Blade](@/w/johnny-blade.md) working at [2Koła](@/v/2kola.md). A mysterious assailant approaches him from behind and chokes Johnny out, revealing himself to be [Mister Z](@/w/mister-z.md). He then cuts a promo insulting [Biesiad](@/w/biesiad.md) and urges him to come save his friend; then he decides to "go shooting", leaving Johnny tied up and hanging from the ceiling. Biesiad arrives and unties Johnny who relays Z's plans. Biesiad quickly realizes that Z went to the PM Shooter shooting range (currently PpW's sponsor) and [gives chase](@/a/pm-shooter-saga.md).
 * On 14.03.2025 PpW [announced][soldaut] on their Facebook that the event was sold out. A little later [Mister Z](@/w/mister-z.md) reposted this on his Instagram, adding the number of tickets sold: 800, making this the biggest PpW show to date and one of the biggest shows in the history of the Polish wresling. (The only bigger show was [PTW #3](@/e/ptw/2022-11-26-ptw-3-legends.md), however a lot of tickets for that event were given out for free, unofficially making Teraz Albo Nigdy the show with the most tickets actually paid for.)
 
-#### Announced entrants for Battle Royal
+### Announced entrants for Battle Royal
 
 * [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview (timestamp in the offical video: 1:42:35). He was later [confirmed][axel-potwierdzony] in a Facebook post published on 8.03.2025. On 10.03 he [declared][axel-numero-uno] his wish to enter at number 1, to prove to himself and his detractors he belongs at the top.
 * Stanisław van Dobroniak - announced on PpW's social media.
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -80,7 +83,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
     Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=418110)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-teraz-albo-nigdy-1) (requires paid subscription)

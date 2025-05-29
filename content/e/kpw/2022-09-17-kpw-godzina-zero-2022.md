@@ -6,6 +6,7 @@ chronology = ["kpw", "godzina-zero"]
 venue=["nowy-harem"]
 [extra]
 city = "Gdynia"
+toclevel = 2
 [extra.gallery.1]
 path = "2022-09-17-kpw-godzina-zero-2022-plakat.jpg"
 caption = "Official poster. With [Greg](@/w/greg.md) in the background, the characters from left to right, top to bottom are: [David Oliwa](@/w/david-oliwa.md), Primate, Wild Boar, [Darius](@/w/darius.md), [Chemik](@/w/chemik.md), [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), and the masked [Zefir](@/w/zefir.md)."
@@ -22,10 +23,12 @@ The foreign guests for the event were:
 - Austrian wrestler Alex Berkner
 - British wrestler Primate, but without his tag team partner Wild Boar, who was the co-holder of KPW's Tag Team Championship at the time. Instead, he was replaced by another British wrestler Tommy Freeman.
 
-#### Build-up
+## Build-up
 
 * The KPW Championship belt was vacated in 2021 when current champion [Robert Star](@/w/robert-star.md) left KPW to join PTW. Arenas 18 and 19 held matches between four wrestlers selected by Chairman Krystian Malinowski. The final 2 would face each other on this event.
 * In a [Facebook post](https://www.facebook.com/events/393729466203534/?post_id=412536367656177), KPW announced that Wild Boar, one half of current KPW Tag Team Champions, is unable to attend due to injury. As a result, the championship was officially vacated, and his replacement was to be revealed soon.
+
+## Card
 
 {% card() %}
 - - '[Darius](@/w/darius.md)'
@@ -78,12 +81,12 @@ The foreign guests for the event were:
     Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * Three Stages of Hell was a best 2 out of 3 falls match, but with stipulations changing after each pinfall. The stipulations were chosen at random by Chairman Krystian Malinowski. This resulted in the opening as a Submission Match, followed by a Texas Chain Match, and finally a Hardcore Match.
 * Rosetti was quick to cash in his title opportunity on the badly beaten and tired David Oliwa, and grabbed the second belt for his faction.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=350960)
 * [Full event on YouTube](https://www.youtube.com/watch?v=H3LgDQxFTZg)

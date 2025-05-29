@@ -6,6 +6,7 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2018-10-13-mzw-project-1-new-beginning-plakat.jpg"
 caption = "Official poster. The four wrestlers are [Asmund](@/w/asmund.md), [Damien Rothschild](@/w/damien-rothschild.md), [Justin Joy](@/w/justin-joy.md) and [Shadow](@/w/shadow.md)."
@@ -15,6 +16,8 @@ path = "2018-10-13-mzw-project-1-new-beginning-plakat-z-autografami.jpg"
 caption = "Autographed poster, given to fans who bought VIP tickets."
 source = "MZW / Krzysztof Zych"
 +++
+
+## Card
 
 {% card() %}
 - - "[Rafael Kid](@/w/rafael-kid.md)"
@@ -43,11 +46,11 @@ source = "MZW / Krzysztof Zych"
     Referee: '[Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * In a comedic spot, [Lady Killer](@/w/boro.md) donned a pink glove and poked Axel with a finger to the anus. Later tried to do the same to [Asmund](@/w/asmund.md), but Asmund overpowered him and forces Lady Killer to taste the finger instead.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322460)
 * [Recap video](https://youtu.be/2pkg3X3kyY0)

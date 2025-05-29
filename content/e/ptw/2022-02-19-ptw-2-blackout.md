@@ -6,6 +6,7 @@ chronology=["ptw"]
 venue = ["moris-chorzow"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2022-02-19-ptw-2-blackout-plakat.jpg", caption = "Official poster. Left to right: [Santino](@/w/santino.md), Tristan Archer, Matt Sydal, Chris Masters, [Nick Aldis](@/w/nick-aldis.md), [Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md), [Justin Joy](@/w/justin-joy.md), [Krampus](@/w/krampus.md).", source = "Official PTW Facebook" }
 2 = { path = "blackout-pre-show.jpg", caption = "View from the audience, before the show.", source = "Ville Paananen" }
@@ -23,17 +24,19 @@ For this event, PTW invited several guests from the independent European and Ame
 * British wrestler [Marty Scurll](@/w/marty-scurll.md), best known for his time at Ring of Honor and NJPW.
 * Scottish wrestler [Joe Hendry](@/w/joe-hendry.md), at that time best known from Ring of Honor.
 
-### Build-up
+## Build-up
 
 * On the day before the show, PTW held an event, which featured the billed wrestlers signing contracts for their matches, but not before cutting promos on each other.
   While some of the segments were limited to promos or interviews (with Pawłowski providing ad-hoc translation to Polish), in others the wrestlers got physical.
 * The final segment of that show was supposed to have Chris Adonis and Nick Aldis sign their contract. With the first one absent, Aldis hyped the match all by himself,
   and signed the contract.
 
-#### Storylines overview
+### Storylines overview
 
 * Nick Aldis, who headlined the previous show, lost due to an intervention by Chris Adonis. This was his revenge match.
 * Joe Hendry produced a [music video](https://www.youtube.com/watch?v=AEIXjgUQgxk), set to Kings of Leon' "Sex On Fire", which documented his journey to Poland, featuring Taxi Złotówa and Gabriel Queen as crude face overlays. He sings about "setting his taxi on fire", and calls Gabriel a "crackhead Harry Potter". It was used as his entrance video.
+
+## Card
 
 {% card() %}
 - [Tristan Archer, '[Jacob Crane](@/w/jacob-crane.md)']
@@ -212,7 +215,7 @@ He continues the usual clapping for each sponsor routine, and when WrestleFans i
 * Camera moves to commentary, who talk some about the show, they say goodbye to the viewers and the transmission ends.
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=333047)
 * [Full event on YouTube](https://www.youtube.com/watch?v=HYkTJlRNHAw)

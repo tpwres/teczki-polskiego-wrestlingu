@@ -6,6 +6,7 @@ chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 +++
 
 Open House was the first event held by the newly created DDW. It was not the first one they planned to hold, however. That event was supposed to take place in Stodoła in Warsaw, a primarily music venue with a capacity up to 2500 attendants. However, due to high ticket prices, and trouble attracting sponsors, that event was cancelled, and
@@ -15,11 +16,13 @@ Reportedly, [Don Roid](@/w/don-roid.md), the owner of DDW preferred Stodoła bec
 
 The event featured a single, 30 minute long match, and was mostly aimed at promoting their wrestling school. The match was hailed as "the first wrestling bout in Poland since 16 years", referring to the single event in 1993.
 
+## Card
+
 {% card() %}
 - ["[Joe Legend](@/w/joe-legend.md)", "[Don Roid](@/w/don-roid.md)"]
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=43394)
 

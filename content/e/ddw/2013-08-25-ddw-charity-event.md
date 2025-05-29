@@ -5,9 +5,12 @@ template = "event_page.html"
 chronology = ["ddw"]
 [extra]
 city = "Rzeszów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ddw/2013-08-25-ddw-charity-event-gallery.toml"
 +++
+
+## Card
 
 {% card() %}
 - - '[Klarys](@/w/klarys.md)'
@@ -22,7 +25,7 @@ manifest = "@/e/ddw/2013-08-25-ddw-charity-event-gallery.toml"
     Referee: '[Kaszub](@/w/kaszub.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=100076)
 * [DDW's Facebook post](https://www.facebook.com/DoOrDieWrestling/posts/pfbid02vLzgMQrWFzdRQY9hGL1ysh71w69QSCwZAqU6ZYr9u6ZmPdkPeyJCvUXZ48mVAK9Bl)

@@ -7,11 +7,14 @@ chronology = ["international", "wwe"]
 venue = ["ergo-arena"]
 [extra]
 city = ["Gdańsk", "Sopot"]
+toclevel = 2
 [extra.gallery]
 1 = { path = "2012-04-12-wwe-raw-house-show.jpg", caption = "WWE in Gdańsk/Sopot", source = "MyWrestling.com.pl" }
 +++
 
 This was the second [WWE](@/o/wwe.md) show in Poland, and the first RAW. Like the previous SmackDown event, it also took place in Ergo Arena.
+
+## Card
 
 {% card() %}
 - [Lord Tensai, Alex Riley]

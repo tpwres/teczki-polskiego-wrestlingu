@@ -7,11 +7,14 @@ chronology = ["ppw"]
 venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2016-07-18-ppw-backyard-total-war-gallery.toml"
 +++
 
 Backyard Total War was a backyard-era PpW event, featuring wrestlers from other groups in addition to the PpW workers. Like many other shows from PpW's backyard era, this one took place in the lot at [Winogronowa 17](@/v/winogronowa-17.md) street.
+
+## Card
 
 {% card() %}
 - - '[Charlie](@/w/madman-charlie.md)'
@@ -30,7 +33,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
     Referees: '???, [Le Santo](@/w/rob-scaffold.md), [Biesiad](@/w/biesiad.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * All fights except the main event are presented as highly edited highlight reels instead of full matches.
 * One of the fans recorded the show by holding up a laptop computer.
@@ -40,7 +43,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
 * A short while later, the same fan threw a sword into the fray; this prompted a cameraman to call him "fucking [Snake](@/w/snake.md)".
 * Another rarity in Polish wrestling: Hades wrapped the sword with some rags, doused them in liquid barbeque fuel and set them ablaze, before attacking Jake Young with it.
 
-### References
+## References
 
 * [Opener match on YouTube](https://www.youtube.com/watch?v=xI52xA68xfw)
 * [Full show on YouTube](https://www.youtube.com/watch?v=vw-L1ucpRgM)

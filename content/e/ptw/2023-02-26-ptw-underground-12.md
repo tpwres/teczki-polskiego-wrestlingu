@@ -7,6 +7,7 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The 12th [PTW](@/o/ptw.md) Underground show was held on Sunday, February 26, 2023, in [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
@@ -14,6 +15,8 @@ The 12th [PTW](@/o/ptw.md) Underground show was held on Sunday, February 26, 202
 The show had one new foreign guest: Hungarian wrestler Iva Kolasky, former WxW Women's Champion, facing Diana Strong. This was her only appearance for PTW so far, but not her first match against Diana - the two faced in WxW Academy in March 2022, and would meet each other again in Finland and Budapest later in 2023.
 
 In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02GPtR7do2nZYvFzc4jbRLnvhSRDkD9Z1rg7kAxAp3X8YPiEoWnLKqzV2wWiqjP9GSl) for the PTW Tag Team Championship, fans saw the first team advance to the finals.
+
+## Card
 
 {% card() %}
 - ['[Boro](@/w/boro.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
@@ -35,11 +38,11 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-#### Recap
+### Recap
 
-- Hammers vs Lopez did not start, due to Remo interfering during Lopez's entrance, laying him out, and later chasing Hammers out of the ring.
+* Hammers vs Lopez did not start, due to Remo interfering during Lopez's entrance, laying him out, and later chasing Hammers out of the ring.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=358863)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-12/2pceo/), requires paid subscription

@@ -6,9 +6,12 @@ chronology = ["ddw"]
 venue = ["karuzela"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 +++
+
+## Card
 
 {% card() %}
 - ["[Jędruś Bułecka](@/w/jedrus-bulecka.md)", {s: "Ten Man Battle Royal"}]
@@ -27,6 +30,6 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 
 The event was later released on DVD, in very limited numbers. Fans could purchase the disc by e-mailing [Don Roid](@/w/don-roid.md).
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=62759)

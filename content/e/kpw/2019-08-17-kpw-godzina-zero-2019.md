@@ -6,6 +6,7 @@ chronology = ["kpw", "godzina-zero"]
 venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
+toclevel = 2
 [extra.gallery.1]
 path = "2019-08-17-kpw-godzina-zero-2019-plakat.jpg"
 caption = "Official poster. Top row: [David Oliwa](@/w/david-oliwa.md), [Dom Taylor](@/w/dom-taylor.md), [Greg](@/w/greg.md), [Primate](@/w/primate.md), Steinbolt. Bottom row: [Rosetti](@/w/rosetti.md), Sixt, [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Sawicki](@/w/sawicki.md), [Bianca](@/w/bianca.md)."
@@ -22,12 +23,14 @@ Like in previous years, a _Magnificent Seven_ ladder match was held, whose winne
 
 In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who previously served as one of [Moloch](@/w/moloch.md)'s valets, speaking on his promos, and occassionally doing interviewer duty.
 
-#### Build-up
+## Build-up
 
 * Kawaler challenged [Robert Star](@/w/robert-star.md) for his title and career. According to him, Robert was ungrateful, after Kawaleria helped him win the title belt, he refused to hand it over to Kawaler.
 * Sixt wants to avenge her defeat and restore honor, as a proud Swedish shieldmaiden. This time, she'd have to contend not just with [Bianca](@/w/bianca.md), but with [Alisa](@/w/alisa.md) and the debuting [Diana](@/w/diana-strong.md) as well.
 * [Kamil Aleksander](@/w/kamil-aleksander.md) was kept in the dark on the identity of his opponent. So were the fans. Only in a [promo](https://www.youtube.com/watch?v=A2EgpkNPn04) released two weeks before the event did they learn his face, but not his name.
 * Ostrowski has now completely turned heel, after his attacks on former partner [David Oliwa](@/w/david-oliwa.md). He would now wear different gear and ditch his old disco theme.
+
+## Card
 
 {% card() %}
 - [Reinbakh, '[Kamil Aleksander](@/w/kamil-aleksander.md)']
@@ -56,7 +59,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
-#### Aftermath
+### Aftermath
 
 * This was [Moloch](@/w/moloch.md)'s last match in KPW, although he was booked for the following event.
 * When Kawaler's music hit, [Greg](@/w/greg.md) instead walked out, and spoke in Latin: "Annuntio vobis gaudium magnum; habemus Papam" (_I announce to you with great joy: we have a Pope_). This is the traditional announcement used when the Papal Conclave has successfully selected a new Pope. Then he continued with "Sanctae Romanae Ecclesiae Cardinalem: Kawaler" and left the ring.
@@ -65,7 +68,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 * Behind their backs, Greg entered the ring and appeared to help Kawaler. However, to everyone's surpise, instead of helping him off the ring, he landed a surprise attack, betraying his former leader.
 * When the announcer was closing the show, she was interrupted by some coughing. This turned out to be [Chemik](@/w/chemik.md), standing on the same balcony that Kawaler delivered his speech from. He repeated the _Annuntio vobis_ phrase, this time naming Greg as the bishop of Rome. Greg entered the pulpit, to Ghost BC's Year Zero. Announced himself as the new pope of Polish wrestling, under the name _Pijus I Greg_ ("pijus" being a pun on both Pius, the name of many popes, but also a somewhat archaic Polish word for _drunkard_).
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=247707)
 * [Final segment](https://www.youtube.com/watch?v=D3v7UD5DE_E), showing the betrayal and ascension to papacy

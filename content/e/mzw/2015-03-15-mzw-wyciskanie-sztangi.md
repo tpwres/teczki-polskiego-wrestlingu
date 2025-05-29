@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 [extra.gallery]
 1 = { path = "wyciskanie-sztangi-banner.jpg", caption = "Official banner.", source = "Jędruś Bułecka @ Facebook" }
 +++
 
 This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell_), a weight-lifting bench press competition held in [Głuchołazy](@/v/gosir-glucholazy.md).
+
+## Card
 
 {% card() %}
 - ["[Asmund](@/w/asmund.md)", "[Jędruś Bułecka](@/w/jedrus-bulecka.md)"]
@@ -20,8 +23,8 @@ This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell
     Host: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153091)
 * [Full show on YouTube](https://www.youtube.com/watch?v=6-XDRfmxiQs)
-* [Preshow and brief recap by WrestleFans](https://youtu.be/jyZe8EumyMM) (poor sound)
+* [Preshow and brief recap by WrestleFans](https://youtu.be/jyZe8EumyMM) (low sound quality)

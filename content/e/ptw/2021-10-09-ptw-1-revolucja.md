@@ -6,10 +6,13 @@ chronology=["ptw"]
 venue=["moris-chorzow"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2021-10-09-ptw-1-revolucja-plakat.jpg", caption = "Official poster. Left to right, top row: Marius Al-Ani, [Joe E. Legend](@/w/joe-legend.md), Marcin Rzeźniczek, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Nick Aldis](@/w/nick-aldis.md), [Santino](@/w/santino.md). Bottom row: Axel Tischer, Chris Masters, [Robert Star](@/w/robert-star.md).", source = "Official PTW Facebook" }
 2 = { path = "2021-10-09-ptw-1-revolucja-plakat-alt.jpg", caption = "Alternative poster. Top-left: Marcin Rzeźniczek; bottom-left: Marius Al-Ani; middle: Axel Tischer, Chris Masters; top-right: [Nick Aldis](@/w/nick-aldis.md), bottom-right: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }
 +++
+
+## Card
 
 {% card() %}
 - - 'Marcin "Rzeźnik" Rzeźniczek'
@@ -61,7 +64,7 @@ city = "Chorzów"
 ### Recap
 * Taking part in the pre-show panel and later present in the audience were Polish celebrities, mainly known from YouTube and Internet presence: Lil Masti, WuWunio, AdBuster, Yoczook and Mateusz Grabowski.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=326348)
 * [Full event on TVP Sport][ptwrevolucja-tvp-sport]

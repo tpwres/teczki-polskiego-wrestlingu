@@ -6,6 +6,7 @@ chronology = ["kpw", "godzina-zero"]
 venue=["gdynia-sports-center"]
 [extra]
 city = "Gdynia"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2017-08-12-kpw-godzina-zero-2017-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), Joey Ozbourne, [Fynn Freyhard](@/w/fynn-freyhart.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md), [Wild Boar](@/w/wild-boar.md), Kat Von Kaige, Mika The Polish Punisher, [David Oliwa](@/w/david-oliwa.md), [Peter Pannache](@/w/peter-pannache.md) and [Robert Star](@/w/robert-star.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
@@ -17,6 +18,8 @@ The challenger to [Greg](@/w/greg.md)'s OldTown Championship was [Fynn Freyhart]
 The other challenger was Welsh wrestler Wild Boar, by then already a veteran of the British scene, including matches in RevPro, Progress, ICW and many, many others. In 2018 Boar would be signed by WWE, and start appearing in its NXT UK programs.
 
 [Bianca](@/w/bianca.md) faced Kat Von Kaige, also a Welsh wrestler who at the time performed mainly in south-west England.
+
+## Card
 
 {% card() %}
 - ['[Peter Pannache](@/w/peter-pannache.md)', '[Kaszub](@/w/kaszub.md)']
@@ -43,7 +46,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * An early pin attempt by [Kaszub](@/w/kaszub.md) is miscounted to three. The bell rang, but the fight went on regardless, and the ref soon restarted the match.
 * [Alisa](@/w/alisa.md), who now joined the Kawaleria faction, enters with a baseball bat and attacks [Mira](@/w/mira.md) mid-dance. The fight was declared a no-contest after a referee bump.
@@ -55,7 +58,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 * The womens match got the most difficult slot to fill, and mostly did not deliver.
 * Boar had to fight not only Kawaler, but the whole faction as well, and later took a drop in the crotch by Alisa.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=179976)
 * [KPW Kombat TV S2E7](https://www.youtube.com/watch?v=I_7z9YYUPho), covers Greg vs Fynn

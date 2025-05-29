@@ -7,11 +7,14 @@ chronology = ["ppw"]
 venue = ["placyk-ppw"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2012-07-01-ppw-neomania-ii-gallery.toml"
 +++
 
 Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an unknown date(s) during the summer holidays of 2012, and was held at a local playground. The date of July 1st was chosen arbitrarily for the purposes of this entry and does not accurately reflect the actual date(s) of the event.
+
+## Card
 
 {% card() %}
 - - '[Angel Guerrero](@/w/johnny-blade.md), RoodWood'
@@ -29,7 +32,7 @@ Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an un
     Commentary: '???, ???'
 {% end %}
 
-#### Recap
+### Recap
 
 * Red Dorada vs Angel Guerrero is presented in a 4:3 aspect ratio, whereas [Red Power](@/w/rob-scaffold.md) vs [Mister Z](@/w/mister-z.md) is in 3:4. Judging by the cameraman's shadow, the main event was filmed with a phone held in portrait mode.
 * According to the [PpW Wikia][ppw-wiki-neo-2], RoodWood and Red Dorada are the same person (also known as Mati), and his fight against Angel Guerrero was the first video uploaded to the PpW YouTube channel.
@@ -44,7 +47,7 @@ Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an un
 * At one point in the match, Mister Z unintentionally removes Red Power's mask with his leg. Later on the situation repeated, when Mister Z rested his hand on Red Power's head while jumping from a jungle gym.
 * Among the weapons used in the fight were a microphone, a Darth Vader mask, a drinking glass (that apparently happened to lie on the grass next to the fence), a crutch, a cardboard box and a garbage bin.
 
-### References
+## References
 
 * [Red Dorada vs Angel Guerrero on YouTube](https://www.youtube.com/watch?v=RutqJ05sylc)
 * [Red Power vs Mister Z on YouTube](https://www.youtube.com/watch?v=jlq-aQNVX2s)

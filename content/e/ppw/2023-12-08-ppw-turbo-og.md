@@ -6,6 +6,7 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery.1]
 path = "2023-12-08-ppw-turbo-og-plakat_.jpg"
 caption = """\
@@ -28,6 +29,8 @@ The event's name references the previous [Back to the OG](@/e/ppw/2023-02-04-ppw
 Originally British wrestler Jack Harrop was to face [Johnny Blade](@/w/johnny-blade.md) in the main event, however he was sidelined due to injury, and replaced with [Chris X](@/w/chris-x.md).
 This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](@/w/rafi.md), complete with an immediate heel-turn.
 
+## Card
+
 {% card() %}
 - ["[Bill Feager](@/w/feager.md)", "[Jacob Crane](@/w/jacob-crane.md)", {s: "#1 Contender Match", c: "[PpW Championship](@/o/ppw.md#championships)"}]
 - ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Adam Wong](@/w/adam-wong.md)", "[Rafi](@/w/rafi.md)", s: "3-way match"]
@@ -44,7 +47,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
 {% end %}
 
-## Aftermath
+### Aftermath
 
 * [Feager](@/w/feager.md) won the right to face [Steve Kuningas](@/w/steve-kuningas.md) for the [PpW Championship](@/o/ppw.md#championships).
 * [Goblin](@/w/goblin.md) won by using Green Mist on Gustav, while [Osamu](@/w/osamu.md) unsuccessfully tried to interfere in their match. After the bell, the angry Gustav accosted referee Borys. Once again [Osamu](@/w/osamu.md) interfered, this time defending the referee, but that ended his alliance with Gustav, and he received a beatdown for it. [Jakob Sigmarsson](@/w/jakub-linde.md) appeared, revealing himself as Gustav's trainer and new ally.

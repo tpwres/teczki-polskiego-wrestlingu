@@ -6,6 +6,7 @@ chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]
 [extra]
 city = "Stargard"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2019-07-13-kpw-oldtown-4-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md) with the [KPW Championship](@/c/kpw-championship.md) belt, likely at last year's [OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
@@ -15,6 +16,8 @@ city = "Stargard"
 In 2019, the event was held between July 8 and 13. Additionally, on the following weekend, July 20-21, non-participants could enter the airport grounds, for an open event with many attractions (including wrestling). KPW held two shows: one on the final day of the LARP part, and one during this open weekend. This page covers both days.
 
 The foreign guests for this event were all from Germany: the experienced Lucas Robinson and two relatively new but estabilished wrestlers Crowchester and Matthias Bernstein. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned to take on one half of the KPW Tag Team Champions.
+
+## Card
 
 {% card() %}
 - d: Day 1
@@ -44,7 +47,7 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
-### References
+## References
 
 * Cagematch event pages: [day 1](https://www.cagematch.net/?id=1&nr=319861), [day 2](https://www.cagematch.net/?id=1&nr=319862)
 * [KPW's event page, day 1](https://kpwrestling.pl/events/kpw-oldtown-4/)

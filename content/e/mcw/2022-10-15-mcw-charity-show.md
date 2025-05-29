@@ -7,6 +7,7 @@ chronology = ["mcw"]
 venue = ["szkola-podstawowa-11-siemianowice"]
 [extra]
 city = "Siemianowice Śląskie"
+toclevel = 2
 [extra.gallery.1]
 path = "2022-10-15-mcw-charity-show-plakat.jpg"
 caption = "Official poster. Pictured from left to right are: Chris Steeler, [Johny Vegas](@/w/johny-vegas.md), [RAV](@/w/rav.md) and Sigurd. The bearded man in the middle is the ring announcer."
@@ -16,6 +17,8 @@ source = "Official MCW Facebook"
 This was a charity event held at Primary School no. 11 in Siemianowice Śląskie, raising money for a boy named Gabryś.
 
 The show featured two fights. The first one was a singles match between the two debutants, Sigurd and Chris Steeler, and the main event was a no-DQ match between RAV and the MCW Champion Johny Vegas for the title belt.
+
+## Card
 
 {% card() %}
 - - 'Sigurd'

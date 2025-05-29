@@ -6,6 +6,7 @@ chronology = ["ddw"]
 venue = ["pod-palma"]
 [extra]
 city = "Rzeszów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2014-08-17-ddw-all-or-nothing-2-banner.jpg", caption = "Official banner", source = "[Official DDW Facebook]" }
 2 = { path = "kasandra-3.png", caption = "[Kasandra's](@/w/kasandra.md) entrance.", source = "WrestlingJunkies.wixsite.com" }
@@ -15,6 +16,8 @@ city = "Rzeszów"
 All Or Nothing II was held in DDW's usual venue, klub Pod Palmą on August 17 2014. The event was built around a tournament for the vacant [DDW International Championship](@/c/ddw-international-championship.md) of which [Kamil Aleksander](@/w/kamil-aleksander.md) was the previous holder. DDW also held a [smaller show](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) the previous day, featuring their trainees.
 
 Another big (literally) feature of the event was Polish Giant, an up-and-coming wrestler of Polish origin and extra large stature (210 cm tall, weighing 140 kg), who trained in the UK for several years and did tryouts with both WWE and TNA at the time.
+
+## Card
 
 {% card() %}
 - - 'Polish Giant'
@@ -57,14 +60,14 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
 
 Attendance: about 120
 
-#### Aftermath
+### Aftermath
 
 * Polish Giant turned out to be poorly trained and dangerous in the ring, and might have exaggerated his pro wrestling resume.
 * [Don Roid](@/w/don-roid.md) claimed that the Giant was unprofessional and a diva, and clashed with him about money.
 * The Attitude Forum later interviewed Giant, who declared he's done with wrestling, and had sour words about the Polish wrestling scene.
 * Fans enjoyed the other matches, and criticised Giant.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=115942)
 * [Full event on YouTube](https://www.youtube.com/watch?v=gsW9gQdWysU)

@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["kinoteka"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "ppw-chcemy-krwi-plakat.jpg", caption = "Official poster.", source = "SplatFilmFest.com"}
 +++
@@ -19,10 +20,12 @@ also attended the show.
 Despite the name, no blood was on display at this event save for [Johnny Blade's](@/w/johnny-blade.md) back, already bloodied from his Trial by Metal and Glass match on [Saturday](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
 The event was also not streamed on PpW's regular channels, though a fan-stream by Istota Wrestlingu is available.
 
-### Storyline overview
+## Storyline overview
 
 This event was non-canon. Host [Michael HT](@/w/michael-ht.md) announced that "today we're in a different reality, where weird things may happen".
 PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny-blade.md) in a Halloween Street Fight, and later [Gustav Gryffin](@/w/gustav-gryffin.md) to face his "biggest nightmare".
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -46,7 +49,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
     Sound: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-## Recap
+### Recap
 
 * Gustav cuts a promo about how the PpW booker and owner Mister Z called him in the middle of the night to book him for this show. Next, his opponent enters, wearing black trunks and a black lucha mask, whom Gustav initially failed to recognize.
 * The match pitted two champions against each other: Gustav with his new, white PpW championship belt, and Mister Z, wearing the previous, black-strapped version, the same one Gustav retired at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). Host Michael HT announced this to be a title belt unification match.

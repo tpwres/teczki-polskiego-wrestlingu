@@ -7,6 +7,7 @@ chronology = ["mcw"]
 venue = ["szkola-podstawowa-20-siemianowice"]
 [extra]
 city = "Siemianowice Śląskie"
+toclevel = 2
 [extra.gallery.1]
 path = "2023-12-16-mcw-damage-control-plakat.jpg"
 caption = "Official poster. Pictured from left to right are: Chris Steeler, [RAV](@/w/rav.md), [Johny Vegas](@/w/johny-vegas.md), and Jack Kalom."
@@ -14,6 +15,8 @@ source = "Official MCW Facebook"
 +++
 
 This was a charity event held at Primary School no. 20 in Siemianowice Śląskie, raising money for a new wheelchair for a girl named Sylwia.
+
+## Card
 
 {% card() %}
 - - 'Chris Steeler'
@@ -28,7 +31,8 @@ This was a charity event held at Primary School no. 20 in Siemianowice Śląskie
     c: '[MCW Championship](@/c/mcw-championship.md)'
 {% end %}
 
-#### Recap
+### Recap
+
 * In a show of awareness rarely seen on the Polish wrestling scene, in his promo before the match RAV said "We have many cool federations: [KPW](@/o/kpw.md), [MZW](@/o/mzw.md), [PpW](@/o/ppw.md), [PTW](@/o/ptw.md)".
 
 ## References

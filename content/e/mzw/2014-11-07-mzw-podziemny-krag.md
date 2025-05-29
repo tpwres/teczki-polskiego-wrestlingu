@@ -6,8 +6,10 @@ chronology = ["mzw"]
 venue = ["legnica"]
 [extra]
 city = "Legnica"
+toclevel = 2
 +++
 
+## Card
 
 {% card() %}
 - ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Szymon Siwiec](@/w/szymon-siwiec.md)"]

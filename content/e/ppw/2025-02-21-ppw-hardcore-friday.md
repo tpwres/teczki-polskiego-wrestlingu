@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-02-21-ppw-hardcore-friday-gallery.toml"
 +++
@@ -14,6 +15,7 @@ manifest = "@/e/ppw/2025-02-21-ppw-hardcore-friday-gallery.toml"
 Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday, February 21st, 2025, in the [2KOŁA Motorcycle Club](@/v/2kola.md). The show was announced during the closing segment of [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), with tickets immediately available for purchase at the merch table.
 
 ## Build-up
+
 * In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), Legia Łysych along with [Mister Z](@/w/mister-z.md) blamed [Referee Kornel](@/w/sedzia-kornel.md) for their defeat. [Olgierd](@/w/olgierd.md) - visibly fed up with the referees - physically assaulted Kornel and challenged all of PpW's officials to a Gauntlet Match to "show them their place in the line". The match was officially announced on PpW's social media on February 2nd.
 * On February 10th, PpW posted a video of [Marco Hammers](@/w/marco-hammers.md) challenging [Johnny Blade](@/w/johnny-blade.md) to a match with any stipulation of Blade's choosing - except for his signature Hardcore Match. The match was confirmed the following day on PpW's social media.
 * [Mister Z](@/w/mister-z.md) also confirmed that while Johnny's suspension is lifted, [Biesiad Strong](@/w/biesiad.md) is still suspended and he is going to get something "special" at the show.
@@ -22,6 +24,8 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * On 16.02.2025 PpW announced that Biesiad would have to face Mister Z's "special challenge" to earn his way back from his suspension.
 * The day after that since [Goblin](@/w/goblin.md) decided to go to Mexico instead of appearing at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), he'd now have to compete in a "lucha surprise" match.
 * On 18.02.2025 [Axel Fox](@/w/axel-fox.md) was announced.
+
+## Card
 
 {% card() %}
 - - '[Goblin](@/w/goblin.md)'
@@ -68,7 +72,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
     Guest Commentary: '[Goblin](@/w/goblin.md), [Olgierd](@/w/olgierd.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.
@@ -87,7 +91,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * Sędzia Seweryn was the last one to fight, and despite a strong comeback after avoiding Olgierd's falling headbutt and hitting a _Twist of Sew_, the drunken Marco only managed to count his pinfall to two. In desperation, Seweryn hit a suicidal headbutt on Olgierd's indestructible head, knocking himself out and allowing Olgierd to finish him off with a Tombstone Piledriver. 
 * After the main event, Goblin attacked the victorious Olgierd and put a dog collar with a chain on him, in anticipation of the Dog Collar Match between the two at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=418109)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-21000-21-02-2025-02-21-2025-21-57-11) (requires paid subscription)

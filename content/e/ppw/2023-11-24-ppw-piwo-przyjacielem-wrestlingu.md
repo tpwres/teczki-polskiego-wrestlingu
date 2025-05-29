@@ -7,6 +7,7 @@ venue = ["targi-poznan"]
 [extra]
 hide_results = true
 city = "Poznań"
+toclevel = 2
 [extra.gallery.1]
 path = "2023-11-24-ppw-piwo-przyjacielem-wrestlingu-plakat.jpg"
 caption = "Official poster, showing [Johnny Blade](@/w/johnny-blade.md) with a glass beer mug and kendo stick."
@@ -16,6 +17,8 @@ source = "Official PpW Facebook"
 Piwo Przyjacielem Wrestlingu (_"Beer Is Wrestling's Friend"_) was an event by PpW accompanying [Poznańskie Targi Piwne][ptp] (Poznań Beer Expo), held over Friday and Saturday on November 24 and 25, 2023. During each day of the event, two wrestling exhibitions took place, one at 16:00, and another one at 20:00. This was the second time PpW provided wrestling entertainment at this fair - the first one was [two years earlier](@/e/ppw/2021-07-30-ppw-poznan-supershow.md).
 
 Because the event was an exhibition show held for a mostly non-wrestling audience, the performers focused on comedy and invented new, humorous gimmicks. The card listed here covers both days of the event.
+
+## Card
 
 {% card() %}
 - - '[Karol M](@/w/goblin.md)'
@@ -30,7 +33,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - '[Steven Kimono](@/w/biesiad.md)'
   - nc: '?'
 - - '[Czacha](@/w/johnny-blade.md)'
-  - '[El Senior Cerveza](@/w/goblin.md)'
+  - '[El Señor Cerveza](@/w/goblin.md)'
   - nc: '?'
 - - '[Feager](@/w/feager.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
@@ -70,7 +73,7 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - s: Tag Team Match
     nc: '?'
 - - '[Hardcore Gustav](@/w/gustav-gryffin.md)'
-  - '[El Senior Cerveza](@/w/goblin.md)'
+  - '[El Señor Cerveza](@/w/goblin.md)'
   - nc: '?'
 - - '[Kapral Kornel](@/w/sedzia-kornel.md)'
   - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'

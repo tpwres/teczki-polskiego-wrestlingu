@@ -6,6 +6,7 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery.1]
 path = "2021-09-11-ppw-inside-job-plakat.jpg"
 caption = "Official poster. Pictured are [Osamu](@/w/osamu.md) with the [PpW Championship](@/c/ppw-championship.md), [Mister Z](@/w/mister-z.md), [Rob Scaffold](@/w/rob-scaffold.md) doing a swanton dive, plus [Johnny Blade](@/w/johnny-blade.md) and [Tony Sk1n](@/w/tony-sk1n.md) next to the logo."
@@ -17,6 +18,8 @@ source = "Official PpW VOD"
 +++
 
 Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 2021, the twentieth anniversary of the infamous WTC terrorist attacks. The event's name was a reference to a popular conspiracy theory concerning that incident.
+
+## Card
 
 {% card() %}
 - - '[Tony Sk1n](@/w/tony-sk1n.md)'
@@ -38,7 +41,7 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
     Referee: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=384409)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/inside-job-fullshow-dvd-hd) (requires paid subscription)

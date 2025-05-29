@@ -6,9 +6,12 @@ authors = ["Krzysztof Zych"]
 chronology = ["dfw"]
 [extra]
 city = "Toruń"
+toclevel = 2
 +++
 
 On Friday, April 22nd 20216 [DFW](@/o/dfw.md) held a showcase in ZSGH, a trade school in Toruń primarily teaching gastronomy, tourism and recreation. According to the Facebook event page, three members of the roster were ZSGH students or alumni. The event was held during the school's Open Days that year.
+
+## Card
 
 {% card() %}
 - - '[Malmo Buruto](@/w/malmo-buruto.md)'
@@ -21,7 +24,7 @@ On Friday, April 22nd 20216 [DFW](@/o/dfw.md) held a showcase in ZSGH, a trade s
   - '[Pain Killer](@/w/pain-killer.md)'
 {% end %}
 
-### References
+## References
 
 * [YouTube recap video](https://www.youtube.com/watch?v=NxjS1q_vwxg)
 * [Facebook event](https://www.facebook.com/events/1224156620945359/)

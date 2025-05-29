@@ -6,10 +6,11 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "plakat.webp"
 caption = "Show poster. Wrestlers pictured are: [Justin Joy](@/w/justin-joy.md), Laurance Roman, [Shadow](@/w/shadow.md), [Hexia](@/w/hexia.md), [Asmund](@/w/asmund.md) and [Rick Baxxter](@/w/rick-baxxter.md)."
-source = "Facebook @ManiacZoneWrestling"
+source = "Official MZW Facebook"
 +++
 
 Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:
@@ -20,6 +21,8 @@ and [Rafał Orszak](@/w/rafael-kid.md) (future [Rafael Kid](@/w/rafael-kid.md)).
 Another new face, although an experienced wrestler by then, was [Damian Lambert](@/w/damien-rothschild.md), previously in KPW, who returned from a brief excursion to Great Britain.
 
 [Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) more than a year before, also returned at this event.
+
+## Card
 
 {% card() %}
 - - '[Skull Evil](@/w/skull-evil.md)'
@@ -57,7 +60,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
     Host: '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=189507)
 * [Highlights video](https://www.youtube.com/watch?v=h5NtfBJN95k)

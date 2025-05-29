@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["gubin"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "mystic-tiger-vs-johnny-blade.jpg", caption = "[Mystic Tiger](@/w/rob-scaffold.md) vs [Johnny Blade](@/w/johnny-blade.md)", source = "Official PpW YouTube" }
 2 = { path = "ultimo-combo-vs-the-hardyz.jpg", caption = "[Ultimo Combo](@/w/johnny-blade.md) vs [The](@/w/mister-z.md) [Hardyz](@/w/rob-scaffold.md)", source = "Official PpW YouTube" }
@@ -15,6 +16,8 @@ city = "Warszawa"
 +++
 
 Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard era, held indoors in a school at Gubinowska street, which some of the members of the promotion attended at the time. There was no ring and all the fights took place on mattresses - mainly in the titular gym hall but also outside of it, in a school corridor and an adjacent PE changing room. There was no audience and also no referee.
+
+## Card
 
 {% card() %}
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -34,7 +37,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
     Commentary: 'Roger Kevin'
 {% end %}
 
-#### Recap
+### Recap
 
 * The commentator was only present in the recap section at the beginning.
 * The fights had non-diegetinc music added in post, including the [John Cena theme][cena-za-kilo].
@@ -42,7 +45,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
 * [Electrico](@/w/mister-z.md) vs [Matt2Hot](@/w/matt2hot.md) was kept as a surprise.
 * The video never specifies which of the two wrestlers in the Main Event is [Matt2Hot](@/w/matt2hot.md) and which is [Electrico](@/w/mister-z.md). One needs to be familiar with them from other events.
 
-### References
+## References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=vgzV_VAajB8)
 * [PpW Wikia entry](https://ppw-fandom.tpwres.pl/ppw-gala-na-hali-2015)

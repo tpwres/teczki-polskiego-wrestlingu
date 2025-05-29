@@ -6,12 +6,15 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 +++
 
 The 13th monthly Underground show was held on Sunday March 26, 2023 at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
 
 The event saw three foreign wrestlers, all from Hungary: the team of [Dover](@/w/dover.md) and Icarus, known as Arrows of Hungary; and Hunyadi Tamas,
 who often teamed with [Robert Star](@/w/robert-star.md) on the European independent circuit, mostly in Denmark.
+
+## Card
 
 {% card() %}
 - ['["Top Gun" Samson](@/w/samson.md)', '[Justin Joy](@/w/justin-joy.md)']
@@ -32,5 +35,5 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}
 
-### References
+## References
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=363652)

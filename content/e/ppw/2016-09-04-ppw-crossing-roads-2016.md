@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "crossing-roads-2016-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
 2 = { path = "literal-rope-break.jpg", caption = "[Black Orion](@/w/johnny-blade.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, [Hirinus](@/w/mister-z.md) puts a hold on [Automatico](@/w/rob-scaffold.md).", source = "Official PpW YouTube." }
@@ -15,6 +16,8 @@ city = "Warszawa"
 +++
 
 Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdoors at [Winogronowa 17](@/v/winogronowa-17.md) street in Warsaw. Like the [previous entry](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md), it was built around the clash of the rosters of the two PpW "weeklies": Hardcore Friday and Super Lucha.
+
+## Card
 
 {% card() %}
 - - >
@@ -46,7 +49,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
     Commentary: '???, ???'
 {% end %}
 
-#### Recap
+### Recap
 
 * A turnbuckle broke early on in the first match.
 * Black Orion tagged in Automatico who promptly tagged himself out, declining to change his partner.
@@ -56,7 +59,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 * At one point during the 3 vs 3 match [a cameraman](@/w/michael-ht.md) switched duties with the referee, seemingly because the latter didn't realise he had to count when [Jim Enerico](@/w/mister-z.md) pinned [Rob Scaffold](@/w/rob-scaffold.md).
 * [Hades](@/w/olgierd.md) was disqualified from the match for attacking [Rob Scaffold](@/w/rob-scaffold.md) with an illegal item.
 
-### References
+## References
 
 * [Full show on YouTube](https://www.youtube.com/watch?v=QoOlY0qXkuQ)
 * [Entry on PpW Wikia](https://ppw-fandom.tpwres.pl/ppw-crossing-roads-2016)

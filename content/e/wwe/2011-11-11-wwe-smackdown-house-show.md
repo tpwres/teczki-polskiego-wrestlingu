@@ -7,11 +7,14 @@ chronology = ["international", "wwe"]
 venue = ["ergo-arena"]
 [extra]
 city = ["Gdańsk", "Sopot"]
+toclevel = 2
 [extra.gallery]
 1 = { path = "2011-11-11-wwe-smackdown-house-show.jpg", caption = "WWE in Gdańsk/Sopot", source = "MyWrestling.com.pl" }
 +++
 
 [World Wrestling Entertainment](@/o/wwe.md) held their first ever show in Poland on 11.11.2011 in Ergo Arena, located at the border of Gdańsk and Sopot.
+
+## Card
 
 {% card() %}
 - [Daniel Bryan, Justin Gabriel, Tyson Kidd, {s: Triple Threat Match}]

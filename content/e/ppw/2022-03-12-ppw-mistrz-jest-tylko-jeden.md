@@ -6,11 +6,14 @@ chronology = ["ppw"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery.1]
 path = "2022-03-12-ppw-mistrz-jest-tylko-jeden-plakat.jpg"
 caption = "Official poster, showing joined faces of a masked [Mister Z](@/w/mister-z.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md) and [Rob Scaffold](@/w/rob-scaffold.md)."
 source = "Official PpW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - - "[Isnorr](@/w/isnorr.md)"
@@ -36,7 +39,7 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383440)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/mistrz-jest-tylko-jeden-22-full-show) (requires paid subscription)

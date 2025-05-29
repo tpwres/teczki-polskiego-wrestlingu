@@ -7,6 +7,7 @@ chronology = ["ptw", "underground"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery.poster]
 path = "2024-12-07-ptw-underground-25-plakat.jpg"
 caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).'
@@ -29,12 +30,12 @@ For this event, PTW invited several debuting wrestlers:
 * Italian-born, Dublin-based Bittersweet Josh, also appearing for Over The Top.
 * Italian wrestler Flamingo, from Brescia.
 
-### Build up
+## Build-up
 
 * On 21.11.2024 PTW announced that Irish pro wrestler Session Moth Martina will make her debut in Prime Time Wrestling.
 * On 25.11.2024 it was also announced that from this Underground onwards, PTW has a new sponsorship deal from Polish gift gadget seller FantastyczneGadżety.
 
-#### Storylines overview
+### Storylines overview
 
 * After his victory over Arron Williams at [the previous Underground](@/e/ptw/2024-11-16-ptw-underground-24.md), [Spartan](@/w/spartan.md) was set to take on Puncher for the [PTW Championship](@/c/ptw-championship.md) in the main event.
   Spartan as babyface gained a lot of support from both the fans and some personalities in PTW, especially after Puncher viciously attacked [Prezes Okoński](@/w/lukasz-okonski.md) at the end of Underground 24.
@@ -42,6 +43,8 @@ For this event, PTW invited several debuting wrestlers:
   Alex declared that he would end Miyagi's career in PTW, and the martial artist agreed to the stipulation, that if he lost, he would retire from Prime Time Wrestling.
 * Shortly before Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled "The Whole Truth About Polish Wrestling", which prompted further controversy on the Polish scene.
   Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he was the only professional one, acknowledging the competition but calling them "more or less amateur projects".
+
+## Card
 
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
@@ -104,10 +107,10 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 * Pawłowski - while almost crying - states that he made a lot of mistakes, but the biggest one is making Puncher the face of PTW. He also calls his champion "an ungrateful son of a bitch".
   The PTW's owner states that today is the day of Puncher's defeat, as [Spartan](@/w/spartan.md) will strip him of the [PTW Championship](@/c/ptw-championship.md).
 
-#### Erik Slotir vs Max Speed
+#### Erik Šlotíř vs Max Speed
 
 * Timestamp: `0:11:00`
-* [Erik Slotir](@/w/erik-slotir.md) makes his way to the ring first, trying to mock [Max Speed](@/w/max-speed.md). The crowd chants "Krecik!" (referencing a popular [Czechoslovakian animated series](https://en.wikipedia.org/wiki/The_Little_Mole)), which visibly upsets Erik.
+* [Erik Šlotíř](@/w/erik-slotir.md) makes his way to the ring first, trying to mock [Max Speed](@/w/max-speed.md). The crowd chants "Krecik!" (referencing a popular [Czechoslovakian animated series](https://en.wikipedia.org/wiki/The_Little_Mole)), which visibly upsets Erik.
 * Erik cuts a short promo, basically saying that he is way better than his opponent and that Christmas is cancelled.
 * Max Speed enters the ring next, wearing a Santa hat and a Christmas sweater.
 * Meanwhile, [Referee Herno](@/w/sedzia-herno.md) enters the ring.
@@ -221,7 +224,7 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 * Prezes Okoński is visibly shaken and stressed, but he thanks all of the fans for attending the show.
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=414093)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)

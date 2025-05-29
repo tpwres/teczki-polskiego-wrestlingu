@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2025-01-11-ptw-nowe-porzadki-gallery.toml"
 +++
@@ -23,6 +24,8 @@ The official ticket sale commenced on [Going][going], the description there prov
 On January 3rd 2025, PTW announced on their [Facebook][fb-puncher] that Puncher is going to defend his title against Max Speed.
 
 On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], announcing the first match in a tournament for the new [PTW Women's Championship](@/c/ptw-womens-championship.md).
+
+## Card
 
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
@@ -61,7 +64,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=417136)
 

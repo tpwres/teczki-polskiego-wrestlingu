@@ -7,7 +7,7 @@ chronology = ["ppw"]
 venue=["minska-65"]
 [extra]
 city = "Warszawa"
-hide_results = true
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2025-06-07-ppw-ledwo-legalne-5-gallery.toml"
 +++
@@ -29,6 +29,8 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 * On 25.05.2025 PpW posted a [video][marco-dzwoni] of [Marco Hammers](@/w/marco-hammers.md) phoning [Mister Z](@/w/mister-z.md). He runs down all the matches that [Zmowa](@/tt/zmowa.md) has at the show and requests one for himself. Following up on his ladder spot from [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Marco calls himself a "ladder specialist", likening himself to Jeff Hardy. He requests being added to the Six Man #1 Contender Ladder Match. While the voice on the phone is never heard, Marco's reaction as well as the video's description confirm that the deal was made.
 * On 26.05.2025 PpW posted a [video][szalony-profesor] containing lab diary of [Professor Dobroniak](@/w/stanislaw-van-dobroniak.md). In it, he lists various ways to get rid of [Johnny Zombie Blade](@/w/johnny-blade.md). One way is to kill the zombie, but that would also kill Johnny Blade. However, Dobroniak's research allowed him to discover a more humane way to beat Zombie Johnny - bathe him in non-alcoholic beer, which should cure his zombie affliction. Thus, Johnny Blade vs Stanisław van Dobroniak has been set up as an Undead Beerbath Match: Project Zero. Dobroniak vows to save Johnny Blade and become a hero of Polish wrestling.
 * On the following day PpW officially announced the match. The [Facebook post][le-protocole] referred to the stipulation as "Protocole Zero" (note the misspelling of "protocol"), but the accompanying image kept "Project Zero".
+
+## Card
 
 {% card(predicted=true) %}
 - - Sentinel
@@ -57,7 +59,8 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
     nc: upcoming
 {% end %}
 
-### References
+## References
+
 * [Six Man Ladder Match](https://www.facebook.com/OficjalnePPW/posts/pfbid034U5GQJPwuSDcMXrh2vyyXzhaB5GVG65gPHDn7jEAAwA88s7EKhsP4jo1UjqhmXgtl)
 * [Hammers requests to be added](https://www.facebook.com/reel/1532002251118652)
 * [Professor Dobroniak's lab diary](https://www.facebook.com/reel/3307021946119896)

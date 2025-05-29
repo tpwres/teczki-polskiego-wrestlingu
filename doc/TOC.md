@@ -51,3 +51,29 @@ Headers down to the third level will be listed. Note that headers four and five 
 2. Suspendisse potenti
 ```
 
+## Event entry structure
+
+To keep the event entries consistent, follow this structure:
+
+```
+## Storyline overview
+## Build-up
+### Additional details
+## Card
+### Recap
+#### Additional details
+## References
+```
+
+This is a guideline rather than a strict rule - not every point will be necessary or even possible. The most important ones are Card, Recap and References, and they always should start with `##`; the rest should fall where it makes the most sense.
+
+In the vast majority of cases `toclevel=2` is the best choice for events. There's no need for `toclevel=1` even if the entry has no `###`, and `toclevel=3` might result in overly crowded TOC, depending on the structure (such as would be the case of Ewenement Haze). To get a better idea, see:
+
+- [PTW #5 Gold Rush](https://tpwres.pl/e/ptw/2024-02-03-ptw-5-gold-rush/)
+- [PpW Ewenement Haze](https://tpwres.pl/e/ppw/2024-04-20-ppw-ewenement-haze/)
+- [PTW #6 Total Blast From The Past](https://tpwres.pl/e/ptw/2024-05-11-ptw-6/)
+- [PpW Ledwo Legalne IV](https://tpwres.pl/e/ppw/2024-06-08-ppw-ledwo-legalne-4/)
+- [PpW Co Za Noc](https://tpwres.pl/e/ppw/2024-10-26-ppw-co-za-noc/)
+- [PpW Chcemy Krwi!](https://tpwres.pl/e/ppw/2024-10-30-ppw-chcemy-krwi/)
+- [PpW Ostatnia Prosta](https://tpwres.pl/e/ppw/2025-04-30-ppw-ostatnia-prosta/)
+- [PpW Lucha Libre Extravaganza](https://tpwres.pl/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza/)

@@ -7,13 +7,14 @@ chronology = ["mzw"]
 venue = ["bakara"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/mzw/2025-03-29-mzw-forever-gallery.toml"
 +++
 
 MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in the [Bakara Community Centre](@/v/bakara.md).
 
-### Build-up
+## Build-up
 
 * Along with the [show's announcement][announcement-post], a poster featuring [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) was posted confirming his appearance.
 * The first competitor to be [officially announced][marcelito-announced] was [Marcelito](@/w/marcelito.md), who mostly appears for [PpW](@/o/ppw.md). With MZW's notably thin roster, this set the tone for yet another cross-over MZW show.
@@ -30,6 +31,8 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
 * On 16.03 MZW announced [resuming their cooperation with MyWrestling portal][mywrestling], and published a photo with MyWrestling's logo added to the ring turnbuckles.
 * On 17.03, [Syriusz Dziedzic](@/w/dziedzic.md) was [announced][dziedzic] for the show. In the promo, he emphasized that he wants to become a legend.
 * On 27.03 MZW announced Dieter Schwartz, last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
+
+## Card
 
 {% card() %}
 - - '[Goblin](@/w/goblin.md)'

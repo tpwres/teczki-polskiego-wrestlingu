@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["dfw"]
 [extra]
 city = "Toruń"
+toclevel = 2
 [extra.gallery.poster]
 path = "dfw-love-hurts-poster.webp"
 caption = "Official poster featuring [Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md) and [Corin Maer](@/w/corin-mear.md)."
@@ -13,6 +14,8 @@ source = "Facebook @DreamFactoryWrestling"
 
 This was the DFW Valentine's day event of 2017. Held once again in ZSGH which previously saw wrestling during its [Open Days](@/e/dfw/2016-04-22-dfw-zsgh-open-days.md), this event is notable for being the debut of [DFW's](@/o/dfw.md) first and only female wrestler Hekate.
 Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) Steven Strong. In the main event, #1 contender Charlie faced Chris Hunter for the DFW Championship.
+
+## Card
 
 {% card() %}
 - - '[Revage](@/w/rafael-kid.md)'
@@ -33,6 +36,6 @@ Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) 
 
 Audience: estimated 80
 
-### References
+## References
 
 * [YouTube recap video](https://www.youtube.com/watch?v=9Dr8XwQYcck)

@@ -7,12 +7,15 @@ chronology = ["ppw"]
 venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2015-09-05-ppw-neomania-iv-gallery.toml"
 
 +++
 
 Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 17 street. According to the [PpW Wikia][neo-4-wikia], the show was released on DVD.
+
+## Card
 
 {% card() %}
 - - '[Steven Strong](@/w/biesiad.md)'
@@ -41,7 +44,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
     Commentary: 'John the Motherfucker King, Rogerek'
 {% end %}
 
-#### Recap
+### Recap
 
 * According to the entry on [PpW wikia][neo-4-wikia], the show took place on 5.09.2015, which was a Friday. However, during Extreme Floorfiller vs KAT, a commentator stated "today is Thursday".
 * The white balance for most of the video was set incorrectly, resulting in a blown out image.
@@ -64,7 +67,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
 * Several seconds later the camera's battery died and the show cut to a second camera, this one using 4:3 aspect ratio (as opposed to the first one's 16:9).
 * The video ends with the the two commentators getting out of their seats and commenting on whether or not their track did in fact record.
 
-### References
+## References
 
 * [Full show on YouTube,](https://www.youtube.com/watch?v=O5SqyXoH6VU)
 

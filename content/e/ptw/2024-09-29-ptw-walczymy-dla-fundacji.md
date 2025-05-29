@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji-gallery.toml"
 +++
@@ -17,6 +18,8 @@ The event's title is simply "Fighting for the Foundation", where the foundation 
 The event is officially not a part of the Underground series, but it was confirmed that it would continue storylines and feuds from those events.
 
 The event saw the return of LaVonce and the PTW debut of British wrestler Nightshade, who's best known from Pro-Wrestling: EVE and Revolution Pro Wrestling.
+
+## Card
 
 {% card() %}
 - - '[Rust](@/w/rust.md)'
@@ -41,7 +44,7 @@ The event saw the return of LaVonce and the PTW debut of British wrestler Nights
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=403967)
 * [Facebook announcement and poster](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0A8DxWMbks5aKMceWdq2kVsNcauAGxL56iSqdtVCdthHCEcQfNocuM5mzRBvz78bul)

@@ -7,11 +7,14 @@ chronology = ["ppw"]
 venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "cr15-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
 +++
 
 Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdoors at [Winogronowa 17](@/v/winogronowa-17.md) street in Warsaw. It was built around the clash of the rosters of the two PpW "weeklies": Hardcore Friday and Super Lucha.
+
+## Card
 
 {% card() %}
 - - '[Hirinus](@/w/mister-z.md)'
@@ -36,7 +39,7 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
     Special guest referee: '[Rob Scaffold](@/w/rob-scaffold.md), [Biesiad Strong](@/w/biesiad.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * After Hirinus vs Blade, there's a segment at [Sun Ju's](@/w/rob-scaffold.md) house, where he talks to [Mister Z](@/w/mister-z.md), [Automatico](@/w/rob-scaffold.md) and [Superior](@/w/rob-scaffold.md). Since Automatico and Superior are both played by Rob Scaffold, as is Sun Ju, the latter in this case was played [Mister Z](@/w/mister-z.md), according to [Michael HT](@/w/michael-ht.md). After Sun Ju's talk with Mister Z there's a jump cut as Automatico enters the room, likely to conceal the change; also, Automatico's voice is rather poorly dubbed over.
 * During [Mister Z](@/w/mister-z.md) vs [Feager](@/w/feager.md) a mock fight broke out among the audience members (one of whom appears to have been [Johnny Blade](@/w/johnny-blade.md)) over a disagreement whether or not a particular moment of in-ring action was good or not. The "fight" continued throughout the match and at one point two of the participants ran across the ring while the actual match was still in progress.
@@ -47,7 +50,7 @@ Crossing Roads 2015 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 * Epic Angel Guerrero, typically portrayed by [Johnny Blade](@/w/johnny-blade.md), this time was played by Tymon, probably (as per Michael HT).
 * The above is followed by Jim Enerico talking to [Rob Hardy](@/w/rob-scaffold.md), also in a faux-candid camera format. The video then cuts off mid-sentence.
 
-### References
+## References
 
 * [Full show on YouTube, part 1](https://www.youtube.com/watch?v=2uoSbpRt__Y)
 * [Full show on YouTube, part 2](https://www.youtube.com/watch?v=1XzpBWhfuzk)

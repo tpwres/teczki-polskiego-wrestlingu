@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["minska-65"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
 2 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
@@ -19,7 +20,7 @@ Just like most of PpW's bigger shows, this event was streamed live on their YouT
 
 The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers, roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
-### Build-up
+## Build-up
 
 * PpW announced a collaboration event for the show. Before and during the event, there will be an opportunity to get a tattoo, courtesy of tattoo parlour Syrena (_Siren_).
 * To further bolster ticket sales, PpW introduced a student discount as well are "buy 5, get 1 free" discount.
@@ -37,6 +38,8 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   The rivalry later continued with Isnorr challenging Johnny for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), only to be defeated.
   Isnorr then won the Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later defeated him in a tag team match at Hardcore Friday 2, earning his opportunity to challange the champion for a rematch.
 * After their match at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) was cancelled due to [Alex Arthur's](@/w/alex-arthur.md) other obligations, he and [Feager](@/w/feager.md) were set to finally compete in a chairs match at "Co Za Noc".
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -83,7 +86,6 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 Timestamps refer to the YouTube video linked in the [References](#references) section, and mark the start of wrestler entrances, not the opening bell.
 
 {% timeline() %}
-
 
 #### Opening
 

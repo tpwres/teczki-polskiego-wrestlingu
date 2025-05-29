@@ -6,9 +6,12 @@ chronology = ["ddw"]
 venue = ["gosir-katy-wroclawskie"]
 [extra]
 city = "Kąty Wrocławskie"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ddw/2011-01-15-ddw-5-dzien-sadu-gallery.toml"
 +++
+
+## Card
 
 {% card() %}
 - ['[Rider](@/w/asmund.md)', '[Klarys](@/w/klarys.md)']
@@ -30,6 +33,6 @@ manifest = "@/e/ddw/2011-01-15-ddw-5-dzien-sadu-gallery.toml"
 
 Attendance: about 300
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=62760)

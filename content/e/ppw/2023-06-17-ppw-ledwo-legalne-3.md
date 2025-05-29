@@ -6,11 +6,14 @@ chronology = ["ppw"]
 venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery.1]
 path = "2023-06-17-ppw-ledwo-legalne-3-plakat.jpg"
 caption = "Official poster, imitating the movie poster for Star Wars: Revenge of the Sith. Fighting with lightsabers are [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md). The ghostlike characters around them are: [Biesiad Strong](@/w/biesiad.md), [Steve Kuningas](@/w/steve-kuningas.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and Franz Schlederer, with [Ricardo Diesel](@/w/ricardo-diesel.md) below."
 source = "Official PpW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - - '[Adam Wong](@/w/adam-wong.md)'
@@ -44,6 +47,7 @@ source = "Official PpW Facebook"
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=382939)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-3-23-full-show-definitive-edition) (requires paid subscription)

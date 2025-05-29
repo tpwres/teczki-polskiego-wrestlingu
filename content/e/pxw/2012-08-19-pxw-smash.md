@@ -6,7 +6,10 @@ chronology = ["pxw"]
 [extra]
 hide_results = true
 city = "Głuchołazy"
+toclevel = 2
 +++
+
+## Card
 
 {% card() %}
 - - '[Terry Shadow](@/w/shadow.md)'

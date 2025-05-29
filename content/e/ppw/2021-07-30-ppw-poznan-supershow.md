@@ -7,6 +7,7 @@ venue = ["targi-poznan"]
 [extra]
 hide_results = true
 city = "Poznań"
+toclevel = 2
 +++
 
 This event was a sideshow held as part of Poznań Beer Expo 2021. The event featured wrestlers from [PpW](@/o/ppw.md) competing against former backyard wrestlers, and several [MZW](@/o/mzw.md) regulars in their first, historic collaboration. PpW would return to that event two years later at [Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md), following another co-branded show in September the same year ([Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md)).
@@ -15,6 +16,7 @@ While this wasn't [Isnorr's](@/w/isnorr.md) debut for PpW, as that was a month b
 
 Some matches featured wrestlers thinly disguised with a mask, fighting as another, mostly comedic persona.
 
+## Card
 
 {% card() %}
 - d: Day 1
@@ -78,7 +80,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * Isnorr pulled a large hammer from under the ring, and used it to attack Esteban, to later win with a spear on the stunned opponent.
 * Johnny found a large construciton stapler under the ring. Warned by the ref that using it on his opponent would result in a DQ, Johnny stapled a card to his own chest. Later, he hit Adam with a kendo stick while the ref was looking away, and pinned him for the win.
@@ -88,7 +90,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 * Immediately after the fight, Esteban demanded a new opponent, and [Adam Wong](@/w/adam-wong.md) answered.
 * An exhausted Isnorr asked a fan to help him carry a table into the ring, to almost land on it immediately. Speared Hades into the table later to win.
 
-### References
+## References
 
 * [Video report on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/poznan-supershow-21-raport) (requires paid subscription)
 * [Video report](https://www.youtube.com/watch?v=YmqP_CGJZg8)

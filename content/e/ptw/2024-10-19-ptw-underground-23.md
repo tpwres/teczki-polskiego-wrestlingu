@@ -6,6 +6,7 @@ chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2024-10-19-ptw-underground-23-gallery.toml"
 +++
@@ -21,6 +22,8 @@ Debuting for PTW at this show were:
  * Estonian Mikk Vainula, with several appearances in Finland for FCF and SLAM!
  * Hungarian wrestler Reyca, who already faced Diana in a four-way at WXW
  * Northern Irish veteran Tucker, with several matches in NXT UK under his belt
+
+## Card
 
 {% card() %}
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
@@ -46,7 +49,6 @@ Debuting for PTW at this show were:
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
 {% end %}
 
-
 ### Recap
 
 {% timeline() %}
@@ -64,6 +66,7 @@ Debuting for PTW at this show were:
 * Vincent exits the ring, leaving Nano defeated but standing tall for the crowd.
 
 #### "The Hidden Gem" Erik Slotir vs Miyagi Shida
+
 * Match is again refereed by Klaudiusz.
 * [Erik Slotir](@/w/erik-slotir.md) makes his heelish entrance first.
 * [Miyagi Shida](@/w/miyagi-shida.md) makes his entrance while wearing a mask of Ghostface from the "Scream" movie franchise.
@@ -72,6 +75,7 @@ Debuting for PTW at this show were:
 * Similarly to the previous match, as well as many prior PTW shows, the defeated babyface again leaves the ring standing tall, being hyped up by Pawłowski.
 
 #### Luca Bjorn vs Max Speed
+
 * As the performers make their entrances, the staff sets up a table with Halloween decorations and a bowl of fruit punch by the ringside.
 * Luca Bjorn makes his entrance first.
 * [Max Speed](@/w/max-speed.md) makes his entrance, during which he comes back to backstage area to bring a skull mask, as well as a chain and a Halloween-themed kendo stick to the fight.
@@ -85,12 +89,14 @@ Debuting for PTW at this show were:
 #### Break
 
 #### The Brave Show - episode 1
+
 * The second part of the show starts with [Alex Brave](@/w/alex-brave.md) making his entrance accompanied by an unknown redheaded female. They both wear LED masks similar to those used in "The Purge" horror movie franchise.
 * After announcing his segment, Brave harshly dismisses his valet and introduces his first guest: Vincent Caravaggio.
 * Vincent and Alex praise each other for around eight minutes, much to the crowd's disapproval. They also mock other talent backstage.
 * The Brave Show is interrupted by Max Speed and Miyagi Shida. Vincent flees from the ring, leaving Alex vulnerable to a beatdown from the babyfaces.
 
 #### Reyca vs Diana Strong
+
 * Hungarian pro-wrestler Reyca makes her PTW debut as a heel, mocking the public during her entrance.
 * [Diana Strong](@/w/diana-strong.md) makes her entrance dressed up as Harley Quinn (as portrayed by Margot Robbie in "Suicide Squad") holding a baseball bat.
 * Before the bell rings, Arkadiusz Pawłowski introduces a brand new referee - [Sędzia Herno](@/w/sedzia-herno.md).
@@ -98,17 +104,20 @@ Debuting for PTW at this show were:
 * Winner: Diana Strong by pinfall.
 
 #### Mikk Vainula vs Rust vs Serg Sullivan
+
 * Pawłowski announces "International Showcase Triple Threat Match" - all three of the contestants are foreginers, including two who make their PTW debuts.
 * The contestants are: Rust from Italy, Serg Sullivan from Russia and Mikk Vainula from Estonia.
 * The match lasts around seven minutes and ends with Rust's flash pinfall victory on Mikk Vainula.
 * Winner: Rust by pinfall.
 
 #### Auction segment
+
 * Pawłowski annouces Prezes Łukasz, who makes his dancing entrance to the ring.
 * Pawłowski then proceeds to promote the "Nadzieja Dzieci" (_Children's Hope_) charity foundation. He then hosts an auction with the prize of a PTW T-shirt with the PTW roster's signatures.
 * The T-shirt is sold for 300&nbsp;PLN (approx. 69&nbsp;EUR, 57&nbsp;GBP or 74&nbsp;USD) to one of the crowd members.
 
 #### Tucker vs Dawid "Puncher" Seńko
+
 * Tucker makes his face entrance first, recieving positive reactions from the crowd.
 * Pawłowski announces [Dawid "Puncher" Seńko](@/w/puncher.md) as the "moral compass of Polish wrestling".
 * Puncher proceeds to cut a promo before the match. While he is asserting his dominance in the promo, Tucker goes to the crowd to recieve a translated description of Puncher's promo from a fan.
@@ -117,10 +126,11 @@ Debuting for PTW at this show were:
 * Despite losing, Tucker is cheered by the crowd.
 
 #### Ending
+
 * Pawłowski thanks the crowd for being at the show and supporting PTW. He also invites everyone to the upcoming PTW shows as well as to the post-show afterparty.
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=409396)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)

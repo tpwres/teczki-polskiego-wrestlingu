@@ -6,6 +6,7 @@ authors = ["Krzysztof Zych"]
 chronology = ["dfw"]
 [extra]
 city = "Toruń"
+toclevel = 2
 [extra.gallery]
 1 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions.", source = "Facebook @DreamFactoryWrestling"}
 +++
@@ -15,6 +16,8 @@ The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/
 This event was held at the same location as DFW's [debut show](@/e/dfw/2015-06-20-dfw-showcase.md) one year before, as part of another edition of the same community festival.
 
 Norris made his DFW debut at this event. Since then, he appeared at every show that DFW held.
+
+## Card
 
 {% card() %}
 - - '[Charlie](@/w/madman-charlie.md)'
@@ -31,7 +34,7 @@ Norris made his DFW debut at this event. Since then, he appeared at every show t
   - s: Tournament Quarter Final Match
 {% end %}
 
-### References
+## References
 
 * [YouTube recap video](https://www.youtube.com/watch?v=60dv7lnc6Ck)
 * [First match announcement on Facebook](https://www.facebook.com/photo/?fbid=903509779771707&set=a.659956797460341)

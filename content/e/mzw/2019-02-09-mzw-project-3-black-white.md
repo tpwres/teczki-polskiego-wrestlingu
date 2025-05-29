@@ -6,11 +6,14 @@ chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 [extra.gallery.1]
 path = "2019-02-09-mzw-project-3-black-white-plakat.jpg"
 caption = "Official poster, showing [Damien Rothschild](@/w/damien-rothschild.md) and [Shadow](@/w/shadow.md)."
 source = "Official MZW Facebook"
 +++
+
+## Card
 
 {% card() %}
 - ["[Jacob Crane](@/w/jacob-crane.md)", "[Apollo Anderson](@/w/apollo-anderson.md)"]
@@ -29,5 +32,6 @@ source = "Official MZW Facebook"
     Referees: '[Sędzia Matt2Hot](@/w/matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322462)

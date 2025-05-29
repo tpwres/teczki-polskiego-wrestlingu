@@ -6,6 +6,7 @@ chronology = ["ppw"]
 venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery.1]
 path = "2024-02-10-ppw-miasto-bezprawia-plakat.jpg"
 caption = """\
@@ -20,7 +21,7 @@ source = "Official PpW Facebook"
 
 Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). The event was held in [Teatr Komuna](@/v/teatr-komuna.md), a performing arts venue that operates in a former school building. This was the first time PpW presents their show in Warsaw's city center.
 
-#### Build-up to the event
+## Build-up
 
 * Previously on [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md), [Bill Feager](@/w/feager.md) won a #1 Contender match for the championship held by [Steve Kuningas](@/w/steve-kuningas.md).
 * Biesiad and [Isnorr](@/w/isnorr.md) both intervened in the [Johnny Blade](@/w/johnny-blade.md) vs [Chris X](@/w/chris-x.md) match.
@@ -30,6 +31,8 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 * Based on the poster, the show would also feature [Jacob Crane](@/w/jacob-crane.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad](@/w/biesiad.md), [Chris X](@/w/chris-x.md), [Isnorr](@/w/isnorr.md), Asara, [Gabriel Queen](@/w/gabriel-queen.md) and [Samson](@/w/samson.md) as noted above
 * In a [Facebook video](https://www.facebook.com/OficjalnePPW/videos/263013170024297/), acting boss [Mister Z](@/w/mister-z.md) congratulated Gryffin on his show-stealing performance at Turbo OG, and rewarded him with a match against Irish wrestler TJ Charles, with a stipulation of his choosing.
 * In that same video, [Goblin](@/w/goblin.md), who was Gustav's opponent, is announced to get a match against an unspecified opponent who would be making his debut for PpW, also with a stipulation of his choosing. This was later revealed to be Belgian wrestler MBM "Sweetboy", who competes all over the European scene, and the stipulation to be an _El Paso Outlaw Match_.
+
+## Card
 
 {% card() %}
 - ['[Goblin](@/w/goblin.md)', "MBM", {s: "El Paso Outlaw Match"}]
@@ -48,7 +51,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), Yawara'
 {% end %}
 
-#### Recap
+### Recap
 
 * With a table and two chairs set up in the ring, [Bill Feager](@/w/feager.md), [Steve Kuningas](@/w/steve-kuningas.md) and [Mister Z](@/w/mister-z.md) entered to have a staredown and contract signing for the main event.
 * The El Paso Outlaw Match saw [Goblin](@/w/goblin.md) straddle a hobby horse, wearing a pink cowboy hat and shooting cap guns into the crowd. A botched table spot was successfully repeated post fight, to the crowd's great joy. The botch and the repetition made it to Botchamania's Facebook page, and later to [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516).
@@ -63,7 +66,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 * Later, Johnny announced that he's gunning to reclaim the PpW Ultraviolent title (from current champion Dobroniak), even if he must break the law to do it.
 * [Feager](@/w/feager.md) and Kuningas was the hoss fight of the night, with very stiff hits. Feager wins with a Pedigree to become new PpW Champion. He got into an emotional celebration with the audience afterwards, as the show finished.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=385513)
 * [Full show on YouTube](https://www.youtube.com/watch?v=U6YINKeich4)

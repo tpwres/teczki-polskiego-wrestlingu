@@ -7,11 +7,14 @@ chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
+toclevel = 2
 [extra.gallery]
 1 = { path = "2022-04-24-ptw-underground-4-plakat.jpg", caption = "Official poster. Pictured left to right: Marius Al-Ani, [Bad Bones](@/w/bad-bones.md), [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official PTW Facebook" }
 +++
 
 The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. It was the first Underground show to be streamed online. The previous 3 shows were only available to the live audience.
+
+## Card
 
 {% card() %}
 - ['[Justin Joy](@/w/justin-joy.md)', '[Boro](@/w/boro.md)']
@@ -30,7 +33,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=339569)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-4-pl/2pb6t/), requires paid subscription

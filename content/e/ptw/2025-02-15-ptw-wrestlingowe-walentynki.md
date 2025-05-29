@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki-gallery.toml"
 +++
@@ -27,6 +28,8 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 * On January 29th, PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) defense. After succesful title defense at the Bestya Rumble show on February 9th against Double Speed (a team of Spencer and Zoom), L'Orda's will defend the titles against Team Turbulence. This is a rematch from PTW/WWA Takeover in November where Team Turbulence retained WWA Tag Team Championship against L'Orda. Though Team Turbulence is coming into the match as WWA Tag Team Champions, this is not a unification match.
 * On January 30th, PTW announced the first quarter-final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed is going to take on a debuting rookie - presumably the same one who was previously announced to debut.
 * On February 7th, PTW released a full bracket for the tournament. The first semi-final will feature the winner of Max Speed vs ??? against the winner of Blaze vs Alex Brave. In the other semi-final, the winner of Ken Pyro vs Vincent Caravaggio will face off against the winner of Erik Šlotíř vs Spartan.
+
+## Card
 
 {% card() %}
 - - '[Max Speed](@/w/max-speed.md)'
@@ -78,7 +81,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
     Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=419471)
 * [Full show on YouTube](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1344s), requires paid subscription

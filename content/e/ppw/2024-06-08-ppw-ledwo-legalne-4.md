@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue=["praga-centrum"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ppw/2024-06-08-ppw-ledwo-legalne-4-gallery.toml"
 +++
@@ -17,9 +18,9 @@ Unlike several previous events, this show was not streamed live. PpW stated in a
 
 PpW announced a pre-show conference to be held on May 31st, 2024, one week before the show. This event took place in [2KOŁA](@/v/2kola.md), the organization's original venue. Unlike the following show, this event was streamed live. It featured wrestling segments building up to the show and was followed by an afterparty with PpW's roster members. Refer to the [pre-show](#pre-show) section for details.
 
-### Build-up
+## Build-up
 
-#### Pre-show
+### Pre-show
 
 The event featured Q&A panels and face-to-face confrontations between competitors for each upcoming match.
 It was moderated by [Konrad "Joker" Grzesikiewicz](@/w/joker.md) and ["OG" Michael HT](@/w/michael-ht.md). Joker did commentary and interviews at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md#finale), while Michael HT is PpW's ring announcer and mouthpiece.
@@ -30,7 +31,7 @@ Tables were placed on a small stage mimicking a proper press conference setting,
 * The final segment was between [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). After each cut a promo and both trash-talking each other, they answered questions from the audience. Gustav was taking audience heat, as most of the "questions" to him were insults from the crowd. To finish their segment, Goblin put Gustav through the table.
 * An afterparty followed, with Joker and referee Kornel DJ-ing, playing mostly wrestling entrance themes. PpW wrestlers and staff partied together with the fans, whom PpW refers to as "fanatics".
 
-#### Storylines overview
+### Storylines overview
 
 * In the aftermath of Gustav Gryffin vs Goblin at [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md), Goblin has moved on, while Gustav became obsessed with his unexpected loss. At [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md), his frustration reached a critical point, leading to him attacking Goblin, stealing his prize from the 420 Critical Ladder Match.
 During the mid-show interviews, both wrestlers declared their plans to go for the PpW title, and to face each other.
@@ -46,6 +47,8 @@ In his post-show interview, Mister Z (exercising full power over PpW after [Mand
 For the next show, Pure Gold were left without opponents, and their Open Challenge was announced on [PpW's Facebook page][pure-gold-challenge].
 Shortly before the show, they were trading insults and challeneges online with Legia Łysych, a tag team from [PTW](@/o/ptw.md).
 * On Saturday May 11, 2024, the day when [PTW](@/o/ptw.md) held their [event](@/e/ptw/2024-05-11-ptw-6.md) in Legionowo near Warsaw, PpW's Facebook page posted about booking [Robert Star](@/w/robert-star.md) for the show. Robert was part of PTW's initial roster, as well as [KPW's](@/o/kpw.md) and [DDW's](@/o/ddw.md) before that.
+
+## Card
 
 {% card() %}
 - - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
@@ -84,7 +87,7 @@ Shortly before the show, they were trading insults and challeneges online with L
     Interviewer: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=394861)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ledwo-legalne-4-24-definitive-edition) (requires paid subscription)

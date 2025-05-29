@@ -5,12 +5,15 @@ template = "event_page.html"
 chronology = ["dfw"]
 [extra]
 city = "Toruń"
+toclevel = 2
 [extra.gallery]
 1 = { path = "Festyn2015.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions", source = "Parish website antoni-torun.pl"}
 +++
 
 [Dream Factory Wrestling's](@/o/dfw.md) first show with a live audience was held on Saturday, June 20 2015. The ring was set outdoors, on the grounds of an assisted living facility in Toruń (Dom Pomocy Społecznej im dr. Szumana). Wrestling was featured as one of the attractions on a local parish's community festival, celebrating Saint Anthony (also the parish patron saint).
 The same festival and location would host [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) next year.
+
+## Card
 
 {% card() %}
 - - 'Jay Revolt'
@@ -23,7 +26,7 @@ The same festival and location would host [Tournament of Dreams](@/e/dfw/2016-06
   - s: No DQ Match
 {% end %}
 
-### References
+## References
 
 * [Youtube Recap video](https://www.youtube.com/watch?v=iWOEu1OakYk)
 * [Facebook post from 2020](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02VbF5zWtSJw2qUi94o9jtEkUe2ZoiFfVTc4uyUpLnhUACHgtwcFssrgWC6KMjAQMgl)

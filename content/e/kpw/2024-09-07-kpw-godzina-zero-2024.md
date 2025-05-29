@@ -6,6 +6,7 @@ chronology = ["kpw", "godzina-zero"]
 venue = ["okrzei-6-gdynia"]
 [extra]
 city = "Gdynia"
+toclevel = 2
 [extra.gallery.1]
 path = "2024-09-07-kpw-godzina-zero-2024-plakat.jpg"
 caption = "Official poster. In the top row are [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md), Red Scorpion with the [KPW Championship](@/c/kpw-championship.md) belt, and The 87. Next to the event name are smaller figures of [David Oliwa](@/w/david-oliwa.md), [Rosetti](@/w/rosetti.md), Flexos and [Ron Corvus](@/w/ron-corvus.md). At the bottom, we see Carlos Zamora, Reece Alexios, [Greg](@/w/greg.md), Jack Jester, [Hans Schulte](@/w/hans-schulte.md), [Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Darius](@/w/darius.md) and [Eryk Lesak](@/w/eryk-lesak.md)."
@@ -37,7 +38,7 @@ There were a significant number of foreign talent at this event, including some 
 * Scottish wrestler Jack Jester, making his KPW debut. Jack is a veteran of ICW, and their Heavyweight champion in his second reign.
 * "Anglo-Greek Warrior" Reece Alexios, competing primarily in UK and recently in Australia, making his KPW debut.
 
-#### Build-up
+## Build-up
 
 * In [his video][malinowski-video], Chairman Malinowski teased the return of a match type that used to be a staple of Godzina Zero - perhaps a Magnificent Seven Match.
 * In the same video Malinowski stated that Greg would face Fynn Freyhart at [Pyrkon 2024](@/e/kpw/2024-06-15-kpw-pyrkon-2024.md) and if he won, he'd get to challenge Red Scorpion for the KPW Championship at Godzina Zero 2024. Greg lost the match, leaving the championship match-up in the air.
@@ -45,6 +46,8 @@ There were a significant number of foreign talent at this event, including some 
 * Starting on June 22, 2024, KPW began a series of daily posts revealing the wrestlers that would appear on the show. One of them was the former champion [Ron Corvus](@/w/ron-corvus.md), last seen at Arena 18.
 * Chemik posted a [video][chemik-video] stating that he did a whole lot of bad things to get [his title](@/c/kpw-old-town-championship.md) and that losing it would be like the end of the world to him. Perhaps tying into the name of the [previous event](@/e/kpw/2024-05-17-kpw-arena-25.md), he said "I did so many bad things that when I stand at the Pearly Gates, Saint Peter himself will kick my ass so hard I'll fly down straight to the ninth circle of hell", adding that the belt constitutes his identity.
 * About a week later [another video][rosetti-video], filmed by an unknown person, showed an angry Rosetti making a phone call to Greg, during which the two argued about the ownership of the [Old Town Championship](@/c/kpw-old-town-championship.md): Rosetti calling it his belt, and Greg firmly stating that it belongs to the Gregorian Branch. After a brief exchange Greg changed the subject, ordering Rosetti to cooperate with [Eryk Lesak](@/w/eryk-lesak.md) during the Magnificent Seven match, because all that matters is that the Championship contract goes to the Gregorian Branch. Greg then hung up, leaving the irritated Rosetti in mid-sentence.
+
+## Card
 
 {% card() %}
 - - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
@@ -82,7 +85,7 @@ There were a significant number of foreign talent at this event, including some 
     Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
-#### Recap
+### Recap
 
 * Before the Magnificent Seven match began, the wrestlers took turns on the microphone, starting with Rosetti, for whom the mic didn't work and his promo couldn't be heard.
   After Hans Schulte insulted Zefir, he grabbed the mic and for a moment it seemed like he was going to say something, but he drop-kicked Schulte instead.
@@ -93,7 +96,7 @@ There were a significant number of foreign talent at this event, including some 
   With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader. But nowadays after his losing streak, he was no longer worth following.
 * After Red Scorpion defended the title against Jack Jester, Hans Schulte ran into the ring to cash in his championship contract won in the Magnificent Seven match.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=397161)
 * [Facebook event page](https://www.facebook.com/events/1031987541820081/)

@@ -6,9 +6,12 @@ chronology = ["mzw", "project-basement"]
 venue = ["ostrowskiego-wroclaw"]
 [extra]
 city = "Wrocław"
+toclevel = 2
 +++
 
 Project Basement 1 is the first episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free.
+
+## Card
 
 {% card() %}
 - ["[Nathan Cross](@/w/gabriel-queen.md)", "[Krueger](@/w/olgierd.md)"]

@@ -7,6 +7,7 @@ chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
+toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 +++
@@ -17,6 +18,8 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 
 * In their [Facebook event][fb-event] PTW announced [Dawid "Puncher" Seńko](@/w/puncher.md) would see some action. The same statement was made [previously](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), but that time Puncher ended up not having any fights.
 * In the same post PTW also announced the continuation of the [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament, and a ladder match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
+
+## Card
 
 {% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
@@ -60,9 +63,10 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 {% end %}
 
 ### Recap
+
 * [Diana Strong](@/w/diana-strong.md) made a short appearance to congratulate Heidi on her win. The bracket for the tournament is still unclear, but it seems they will face each other down the line.
 
-### References
+## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=421707)
 

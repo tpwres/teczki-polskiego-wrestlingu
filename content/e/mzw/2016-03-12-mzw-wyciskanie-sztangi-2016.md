@@ -6,7 +6,10 @@ chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
+toclevel = 2
 +++
+
+## Card
 
 {% card() %}
 - ["[Shadow](@/w/shadow.md)", "[Asmund](@/w/asmund.md)"]
@@ -17,5 +20,6 @@ city = "Głuchołazy"
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
 {% end %}
 
-### References
+## References
+
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=153086)
