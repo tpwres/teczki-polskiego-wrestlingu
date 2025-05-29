@@ -16,7 +16,6 @@ On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again inv
 Like the previous two shows at the Beer Expo, this one was mostly non-canon and did not continue prior storylines. 
 The only exceptions were Isnorr's title defense against Prince Striker, and Aron Wake vs Sambor.
 
-
 ## Card
 
 {% card() %}

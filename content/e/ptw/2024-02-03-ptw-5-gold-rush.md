@@ -18,7 +18,7 @@ The event featured PTW's cast alongside foreign wrestlers from UK, USA, Germany 
 
 Polish celebrity and former boxer Marcin Najman was also expected to appear in some capacity, as the event was held in his hometown.
 
-## Build-up to the event
+## Build-up
 
 * PTW has been teasing the introduction of a singles championship belt for several months. The first champion is going to be crowned in a 20-man royal rumble at this event.
 * [Dziedzic](@/w/dziedzic.md) defeated [Disco Pablo](@/w/disco-pablo.md) and [Renegade](@/w/renegade.md) on PTW Underground 20, with each wrestler's tag team partners present and involved in the match.
