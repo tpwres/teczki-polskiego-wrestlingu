@@ -12,6 +12,9 @@ curl -sSfL https://github.com/getzola/zola/releases/download/$ZOLA_VER/zola-$ZOL
 
 export PATH="$HOME/.local/bin:$PATH"
 
+echo "Creating venv"
+uv venv
+
 echo "Installing Python dependencies with uv..."
 uv pip install -e .
 
