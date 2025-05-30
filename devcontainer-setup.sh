@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+set -x
 
 # Install uv (official installer)
 echo "Installing uv (official installer)..."
