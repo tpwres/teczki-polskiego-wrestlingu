@@ -27,4 +27,6 @@ uv run make all plot
 #echo "Starting Zola server on port 1111 in the background..."
 #uv run zola serve --interface 0.0.0.0 --port 1111 &
 
+cat .devcontainer/.welcome | sudo tee /usr/local/etc/vscode-dev-containers/first-run-notice.txt
+
 
