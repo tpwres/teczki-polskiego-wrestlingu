@@ -2,7 +2,6 @@
     "name": "tpwres Codespace",
     "image": "mcr.microsoft.com/devcontainers/python:3.12",
     "features": {
-        "ghcr.io/devcontainers-contrib/features/zola:1": {}
     },
     "forwardPorts": [1111],
     "portsAttributes": {
@@ -16,6 +15,9 @@
         "vscode": {
             "settings": {},
             "extensions": [
+                "yzhang.markdown-all-in-one",
+                "evenbetter.toml",
+                "samuelcolvin.jinjahtml",
                 "ms-python.python",
                 "ms-python.vscode-pylance"
             ]

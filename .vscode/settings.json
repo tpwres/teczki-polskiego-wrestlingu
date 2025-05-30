@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "jinja",
+        "*.toml": "toml",
+        "*.md": "markdown"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    }
+}
