@@ -7,7 +7,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 echo "Installing zola"
 export ZOLA_VER=v0.20.0
-curl -sSfL https://github.com/getzola/zola/releases/download/$ZOLA_VER/zola-$ZOLA_VER-x86_64-unknown-linux-gnu.tar.gz | tar xz -C /usr/local/bin
+curl -sSfL https://github.com/getzola/zola/releases/download/$ZOLA_VER/zola-$ZOLA_VER-x86_64-unknown-linux-gnu.tar.gz | tar xz -C $HOME/.local/bin
 
 export PATH="$HOME/.local/bin:$PATH"
 
