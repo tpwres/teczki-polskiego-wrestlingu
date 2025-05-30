@@ -45,11 +45,11 @@ Longman also made a few appearances abroad, most notably working alongside [Rene
 
 Longman made his return in October 2024, this time to [PpW](@/o/ppw.md), when he entered as the final, mystery partner of [Zmowa](@/tt/zmowa.md) in the Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) - seemingly leaning towards his old "mercenary" gimmick. After Zmowa's defeat he was blamed by [Gustav Gryffin](@/w/gustav-gryffin.md) for their loss in said match, which was a set up for their future match.
 
-### Legacy of Wrestling (2024)
+### Legacy of Wrestling (2024-present)
 
 Initially Longman was supposed to challenge the [PpW Champion](@/c/ppw-championship.md) Gustav Gryffin in the main event of [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md). However, due to personal reasons he was pulled off the card and didn't appear at the show. His spot in the main event was taken by [Axel Fox](@/w/axel-fox.md) instead.
 
-At the [second Legacy show](@/e/low/2025-04-06-low-2.md), [Arkadiusz Paterek](@/w/arek-paterek.md) opened the show by introducing Longman as the organization's new _acting Chairman_ and ring announcer.
+At the [second Legacy show](@/e/low/2025-04-06-low-2.md), [Arkadiusz Paterek](@/w/arek-paterek.md) opened the show by introducing Longman as the organization's new _acting Chairman_ and ring announcer. 
 
 ## In wrestling
 

@@ -8,13 +8,13 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Taras is a Polish wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024. He also appeared in [Legacy of Wrestling](@/o/low.md).
+Taras is a Polish wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024. He also appeared in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
 * Years active: 2021-present
 * Gimmicks/nicknames:
-  - Taras {{ org_badge(orgs=['ptw', 'low']) }}
+  - Taras {{ org_badge(orgs=['ptw', 'low', 'mzw']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
  
@@ -46,12 +46,13 @@ PAKA made their first title defence at [PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x
 
 After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Taras almost two years prior, Longman announced that he would destroy Pawłowski and his allies from PAKA. Since Boro was already seriously injured by him previously, his next target was Taras. At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) the member of PAKA eventually lost and got injured by Wiktor Longman to such a degree, that he had to be carried out on a stretcher. It was Taras' final appearance in the PTW ring.
 
-### Legacy of Wrestling (2024)
+### Legacy of Wrestling (2024-present)
 
 #### Surprise debut and finishing the PAKA
 
 Taras made his debut during [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). During a music chairs contest held by Disco Pablo, the masked Taras barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking himself he finished off Pablo with a GTS and put Piotr through a table.
-In his Instagram stories, Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded.
+
+In his Instagram stories, Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded. Taras met Pablo face-to-face at [Legacy's next show](@/e/low/2025-04-06-low-2.md) where, after a brief but heated argument followed by a brawl, they were announced to face each other at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
 
 ## In wrestling
 
