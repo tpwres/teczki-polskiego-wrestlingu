@@ -5,6 +5,10 @@ set -euo pipefail
 echo "Installing uv (official installer)..."
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
+echo "Installing zola"
+export ZOLA_VER=v0.20.0
+curl -sSfL https://github.com/getzola/zola/releases/download/$ZOLA_VER/zola-$ZOLA_VER-x86_64-unknown-linux-gnu.tar.gz | tar xz -C /usr/local/bin
+
 export PATH="$HOME/.local/bin:$PATH"
 
 echo "Installing Python dependencies with uv..."
