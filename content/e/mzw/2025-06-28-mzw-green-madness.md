@@ -20,6 +20,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * On 13.05.2025 MZW [announced][walizka] an eight-man tournament to be held at the show. The winners of each individual fight are going to take part in the main event (whose stipulation will be given at a later date), with the main prize being a contract briefcase. The contract will allow the tournament winner to challenge the current [MZW Champion](@/c/mzw-championship.md) _or_ the [PpW Champions](@/c/ppw-championship.md) - a first on the Polish wrestling scene. The contract can be used at any moment.
 * The first tournament match, revealed on 17.05.2025, was [Aron Wake](@/w/aron-wake.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).
 * The second tournament match, revealed on 25.05.2025, was [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md).
+* The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md).
 
 ## Card
 
@@ -36,8 +37,8 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - '[Mister Z](@/w/mister-z.md)'
   - n: Tournament qualifying match
     nc: upcoming
-- - '???'
-  - '???'
+- - '[Shadow](@/w/shadow.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - n: Tournament qualifying match
     nc: upcoming
 - - '???'
