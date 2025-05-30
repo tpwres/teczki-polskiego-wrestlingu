@@ -8,7 +8,11 @@
     "portsAttributes": {
         "1111": {
             "label": "Zola Server",
-            "onAutoForward": "openBrowser"
+            "onAutoForward": "openBrowserOnce"
+        },
+        "1024": {
+            "label": "Zola Autoreload",
+            "onAutoForward": "silent"
         }
     },
     "postCreateCommand": "./devcontainer-setup.sh",
