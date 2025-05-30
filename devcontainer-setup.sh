@@ -27,6 +27,10 @@ uv run make all plot
 #echo "Starting Zola server on port 1111 in the background..."
 #uv run zola serve --interface 0.0.0.0 --port 1111 &
 
-cat .devcontainer/first-run-notice.txt
+cp .devcontainer/first-run-notice.txt ~/welcome.txt
+
+cat <<-EOF > ~/.bashrc
+  test -f ~/welcome.txt && (cat ~/welcome.txt; rm -f ~/welcome.txt)
+EOF
 
 
