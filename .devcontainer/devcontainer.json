@@ -1,0 +1,25 @@
+{
+    "name": "tpwres Codespace",
+    "image": "mcr.microsoft.com/devcontainers/python:3.12",
+    "features": {
+        "ghcr.io/devcontainers-contrib/features/zola:1": {}
+    },
+    "forwardPorts": [1111],
+    "portsAttributes": {
+        "1111": {
+            "label": "Zola Server",
+            "onAutoForward": "openBrowser"
+        }
+    },
+    "postCreateCommand": "./setup.sh",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    },
+    "remoteUser": "vscode"
+}
