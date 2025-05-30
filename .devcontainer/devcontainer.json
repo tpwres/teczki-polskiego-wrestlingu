@@ -10,7 +10,7 @@
             "onAutoForward": "openBrowser"
         }
     },
-    "postCreateCommand": "./setup.sh",
+    "postCreateCommand": "./devcontainer-setup.sh",
     "customizations": {
         "vscode": {
             "settings": {},
