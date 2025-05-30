@@ -18,8 +18,11 @@ uv venv
 echo "Installing Python dependencies with uv..."
 uv pip install -e .
 
+echo "Installing nodejs modules"
+npm install
+
 echo "Running make all with uv..."
-uv run make all
+uv run make all plot
 
 echo "Starting Zola server on port 1111 in the background..."
 uv run zola serve --port 1111 &
