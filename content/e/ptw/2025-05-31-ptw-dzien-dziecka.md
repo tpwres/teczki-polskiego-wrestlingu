@@ -6,14 +6,13 @@ authors = ["M3n747"]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
 [extra]
-hide_results = true
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
 manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 +++
 
-"Dzień Dziecka" (_Children's Day_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Dzień Dziecka" (_Children's Day_) was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
 
@@ -31,22 +30,22 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 
 ## Card
 
-{% card %}
+{% card () %}
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Spartan](@/w/spartan.md)'
-  - g: 'Okoński reinstates Spartan and supposedly leaves PTW'
+  - g: 'Okoński reinstates Spartan and supposedly leaves PTW.'
 - - '[Spartan](@/w/spartan.md)'
   - 'Conte'
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
-  - g: 'Lopez announces he's ready for a match. Pawłowski comes out offering him a title shot for PTW Tag Team Championship with a mystery partner'
+  - g: "Lopez announces he's ready for a match. Pawłowski comes out offering him a title shot for the PTW Tag Team Championship with a mystery partner."
 - - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
-  - g: 'Pawłowski announces his new faction: Nietykalni'
+  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - g: 'Pawłowski announces his new faction: Nietykalni.'
 - - 'Sigma Boy xD'
   - 'El G'
 - - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
@@ -54,11 +53,11 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
   - s: Tornado Tag Team match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    n: 'mid-match, Pawłowski announced the addition of Royal Rebels and changes the rules to Tornado tag team match'
+    n: 'Mid-match, Pawłowski announced the addition of Royal Rebels and changes the rules to a Tornado Tag Team Match.'
 - - '[Max Speed](@/w/max-speed.md)(c)'
   - 'Gulyás Öcsi'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-- - '[Serg Sullivan](@/w/serg-sullivan.md) w/Lesya'
+- - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - s: Falls Count Anywhere
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
@@ -78,27 +77,26 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
     Special Referee: 'Daniele Specchiulli'
     Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    
 {% end %}
 
-## Recap:
+### Recap
 
-* In opening segment, Okoński, accompanied by unnamed female valet, brings out Spartan and both referees. He gives praise to each of them, reinstates Spartan and bids farewell to everyone, presumably leaving PTW.
-* Conte, who requested a match prior to the show, came out to challenge Spartan.
-* Post match, show went to technical break due to ring malfunction
-* Nano Lopez comes out in a suit, says he's glad to be back and announces he's ready for competition. Pawłowski comes out, first praises him, but then buries him for never winning a big one. He offers him a chance to finally become a champion, in a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) with a partner that Pawłowski handpicked. If Lopez loses, he loses boss' favor and will need to earn every championship opportunity.
-* Lopez leaves, Pawłowski introduces Alex Brave and Vincent Caravaggio. He gives them a new tag team name: Royal Rebels. Then he introduces Puncher. Pawłowski praises all three and grants each of them a favor. Alex Brave is allowed to host The Brave Show once again - at the next show, with the best guest ever, Pawłowski himself. Puncher's gift is a harder opponent - Ben Rodgers. Vincent is not getting his wish, because even Pawłowski can't resurrect Caravaggio's late grandmother. However, he offers him and Brave a chance to become a champion. He announces the formation of their new faction - Nietykalni (_Untouchable Ones_), including all three competitors and Pawłowski.
-* Sigma Boy xD defeats El G with his finisher, _Sigma Destroyer_(Canadian destroyer)
-* Nano Lopez makes his entrance for tag team match. Pawłowski announces his partner, a [PTW Academy](@/o/ptw-academy.md) trainee, Daniel Razor. Mid-match, Pawłowski announced he 'forgot to announce' Royal Rebels and 'forgot to mention' that this is a Tornado tag team match. Royal Rebels win, with Brave pinning Razor. New champions quickly leave and two originally competing teams shake each other's hands. Razor is already over big time and gets an ovation from the crowd.
-* Max Speed retains PTW Underground Championship against Gulyás Öcsi after a competitive match.
-* Show goes to a scheduled break
-* Musical performance by an up-and-coming rapper Tester
+* In the opening segment, Okoński, accompanied by an unnamed female valet, brought out Spartan and both referees. He gave praise to each of them, reinstated Spartan and bade farewell to everyone, seemingly leaving PTW.
+* Conte, who'd requested a match prior to the show, came out to challenge Spartan.
+* Post-match, the show went to a technical break due to ring malfunction.
+* Nano Lopez came out wearing a suit, said he was glad to be back and announced he was ready for competition. Pawłowski came out, first praising him, but then buried him for never winning a big one. He offered him a chance to finally become a champion, in a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) match with a partner hand-picked by Pawłowski. Should Lopez lose, he'd lose the boss's favour and would need to earn his every championship opportunity.
+* Lopez left, Pawłowski introduced Alex Brave and Vincent Caravaggio. He gave them a new tag team name: Royal Rebels. Then he introduced Puncher. Pawłowski praised all three and granted each of them a favour. Alex Brave was allowed to host The Brave Show once again - at the next show, with the best guest ever, Pawłowski himself. Puncher's gift was a harder opponent: Ben Rodgers. Vincent didn't get his wish, because even Pawłowski can't resurrect Caravaggio's late grandmother. However, he offered him and Brave a chance to become champions. He announced the formation of a new faction - "Nietykalni" (_The Untouchables_), consisting of all three competitors and Pawłowski.
+* Sigma Boy xD defeated El G with his finisher, _Sigma Destroyer_ (Canadian destroyer).
+* Nano Lopez made his entrance for the tag team match. Pawłowski announced his partner, a [PTW Academy](@/o/ptw-academy.md) trainee, Daniel Razor. Mid-match, Pawłowski stated he "forgot to announce" the Royal Rebels and "forgot to mention" that this was a Tornado Tag Team Match. The Royal Rebels win, with Brave pinning Razor. New champions quickly left and two originally competing teams shook hands. Razor was already over big time and got an ovation from the crowd.
+* Max Speed retained his PTW Underground Championship against Gulyás Öcsi after a fierce match.
+* The show then went to a scheduled break.
+* Musical performance by an up-and-coming rapper, Tester.
 * Charity auction for a commemorative T-shirt.
-* Sullivan and Shida make their entrance for their Falls Count Anywhere match. They brawl throughout the arena. Sullivan's wife Lesya is watching closely, concerned for her significant one. Sullivan wins after elbow drop from the ladder, putting Shida through the table. Lesya helps Sullivan out.
-* Rodgers made his entrance for championship match first. Puncher made a champion's entrance, as usual, flanked by Klaudiusz and Herno holding his belts. While Klaudiusz attempted to start officiating the match, Pawłowski removed him and announced Daniele Specchiulli as his replacement. Puncher beats Rodgers in a match not long, but competitive.
-* Pawłowski puts Rodgers over with the crowd and moves to closing segment of the show. Crowd is chanting for Okoński, but Pawłowski shuts it down. He announces that during Children's day festivities in the vicinity the following day, PTW is going to hold an additional, non-televised show.
-* Pawłowski brings out both Polish referees and says he's not pleased with their work. He questions necessity of their employment with referee Daniele being available. Pawłowski continues rambling that they should leave PTW just like Okoński did in the beginning of the show, then Okoński's theme song plays. Pawłowski watches the entrance way waiting for Okoński - who's already standing behind him with a camera. Pawłowski continues rambling about Okoński being out and when he finally turns back, Okoński lays him out, using camera as a weapon. Royal Rebels make a save allowing Pawłowski to regroup, they attempt to fight Okoński, but Spartan evens the odds. Pawłowski tries to go back in the fray with a chair, but Okoński takes it away. With Pawłowski running away, Okoński hits a chairshot on already laid out Caravaggio. Okoński grabs a mic and says that the era of Pawłowski is over. On his cue, the referees cover Pawłowski banner hanging on the walls with a new one, depicting Okoński. Okoński and Spartan celebrate, parodying the pose of Nietykalni.
-* Skwarczyński closes the show
+* Sullivan and Shida made their entrance for their Falls Count Anywhere Match. They brawled throughout the arena. Sullivan's wife Lesya was watching closely, concerned for her husband. Sullivan won after an elbow drop from the ladder, putting Shida through the table. Lesya helped Sullivan out.
+* Rodgers made his entrance for the championship match first. Puncher made a champion's entrance, as usual, flanked by Klaudiusz and Herno holding his belts. While Klaudiusz attempted to start officiating the match, Pawłowski removed him and announced Daniele Specchiulli as his replacement. Puncher beat Rodgers in a match that was not long, but intense.
+* Pawłowski put Rodgers over with the crowd and moved to the closing segment of the show. The crowd chanted for Okoński, but Pawłowski shut it down. He announced that during Children's Day festivities in the area the following day, PTW was going to hold an additional, non-televised show.
+* Pawłowski brought out both Polish referees and said he wasn't pleased with their work. He questioned the necessity of their employment with referee Daniele being available. Pawłowski continued rambling that they should leave PTW just like Okoński had in the beginning of the show, when Okoński's theme song hit. Pawłowski watched the entrance way, waiting for Okoński - who was already standing behind him with a camera. Pawłowski continued rambling about Okoński being out and when he finally turned back, Okoński laid him out using the camera as a weapon. The Royal Rebels make a save allowing Pawłowski to regroup. They attempted to fight Okoński, but Spartan evened the odds. Pawłowski tried to go back into the fray with a chair, but Okoński took it away. With Pawłowski running away, Okoński hit a chairshot to the already laid out Caravaggio. Okoński grabbed a mic and said that the era of Pawłowski was over. On his cue, the referees covered the Pawłowski banner hanging on the wall with a new one, depicting Okoński. Okoński and Spartan celebrated, parodying the pose of theNietykalni.
+* Skwarczyński closed the show.
 
 ## References
 
