@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Zola Serve",
+            "type": "shell",
+            "command": "zola",
+            "args": [
+                "serve",
+                "--interface",
+                "0.0.0.0",
+                "--port",
+                "1111",
+                "--base-url",
+                "/"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        }
+    ]
+}

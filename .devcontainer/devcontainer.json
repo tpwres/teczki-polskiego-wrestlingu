@@ -1,0 +1,31 @@
+{
+    "name": "tpwres Codespace",
+    "image": "mcr.microsoft.com/devcontainers/python:3.12",
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": { "version": "22" }
+    },
+    "forwardPorts": [1111],
+    "portsAttributes": {
+        "1111": {
+            "label": "Zola Server",
+            "onAutoForward": "openBrowserOnce"
+        },
+        "1024": {
+            "label": "Zola Autoreload",
+            "onAutoForward": "silent"
+        }
+    },
+    "postCreateCommand": "./devcontainer-setup.sh",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "evenbetter.toml",
+                "samuelcolvin.jinjahtml",
+                "ms-python.python",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    },
+    "remoteUser": "vscode"
+}

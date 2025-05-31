@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "jinja-html",
+        "*.toml": "toml",
+        "*.md": "jinja-md"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "vscode.markdown-language-features"
+    }
+}
