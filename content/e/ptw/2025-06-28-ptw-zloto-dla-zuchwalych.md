@@ -15,6 +15,16 @@ toclevel = 2
 
 The name of the show is a reference to the Polish title of the 1970 film [Kelly's Heroes][zloto].
 
-{{ skip_card() }}
+## Build up
+
+* At the [previous show](content/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Pawłowski created his new faction, _Nietykalni_, consisting of [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md) (together known as _Royal Rebels_), [Dawid "Puncher" Seńko](@/w/puncher.md) and himself. As part of the deal, he granted each of them a favor. For Alex Brave, it was the return of his discontinued talk show segment "The Brave Show" with Pawłowski as a guest, announced for PTW: Złoto Dla Zuchwałych.
+
+{% card %}
+
+- '[Alex Brave](@/w/alex-brave.md)'
+- '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+- g: 'The Brave Show'
+
+{% end %}
 
 [zloto]: https://en.wikipedia.org/wiki/Kelly%27s_Heroes
