@@ -1,5 +1,8 @@
 ℹ️ℹ️ℹ️ Github Codespaces instructions ℹ️ℹ️ℹ️ 
-🧑‍💻 Run this command in the terminal:
+🧑‍💻 Live preview while coding:
+
+After the environment loads, press Ctrl-Shift-B (Cmd-Shift-B on Macs). This starts Zola in the background, rendering the project.
+Alternatively, run this command in the terminal:
 
 zola serve -i 0.0.0.0 -p 1111 -u /
 
@@ -7,6 +10,9 @@ Then, switch to the Ports panel, you should see two entries. Select the one that
 in the Port column. Hover your mouse pointer over the Forwarded Address in that row, and click either the globe icon to
 open in a new tab, or the split-window icon to open to the side of the active editor.
 
-♻️ Reloading ♻️
+♻️ No autoreloads ♻️
 
-Your changes may not reload automatically. To do so manually, return to the terminal, and press Ctrl-C to stop the process. Then, just rerun the command to include your latest changes.
+Your changes will not be rendered immediately. Reloading the tab or window may briefly
+display an error message, but after a couple of seconds, the page will be available again.
+If the process is stuck, return to the terminal, then press Ctrl-C to stop the process. 
+Then, just rerun the command to include your latest changes.

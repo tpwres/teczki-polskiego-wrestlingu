@@ -1,10 +1,10 @@
 {
     "files.associations": {
-        "*.html": "tera-html",
+        "*.html": "jinja-html",
         "*.toml": "toml",
-        "*.md": "tera-md"
+        "*.md": "jinja-md"
     },
     "[markdown]": {
-        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+        "editor.defaultFormatter": "vscode.markdown-language-features"
     }
 }

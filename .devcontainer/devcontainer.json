@@ -20,9 +20,8 @@
         "vscode": {
             "settings": {},
             "extensions": [
-                "yzhang.markdown-all-in-one",
                 "evenbetter.toml",
-                "karunamurti.tera",
+                "samuelcolvin.jinjahtml",
                 "ms-python.python",
                 "ms-python.vscode-pylance"
             ]
