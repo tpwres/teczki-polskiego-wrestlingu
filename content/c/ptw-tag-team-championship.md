@@ -126,12 +126,25 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Tag Team Match
     ed: 2025-02-15
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
-- - "L'Orda: Luca Bjorn, Rust(c)"
-  - '???, ???'
-  - s: Tag Team Match
+- - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
+  - s: Tornado Tag Team Match
     ed: 2025-05-31
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
-    nc: upcoming
+{% end %}
+
+**TOTAL:** 175 days
+
+### Champions #4: L'Orda
+
+{% free_card() %}
+- - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
+  - s: Tornado Tag Team Match
+    ed: 2025-05-31
+    en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
