@@ -56,11 +56,11 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 {% free_card() %}
 - - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
-  - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
+  - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
   - s: Tag Team Match
     en: '[PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
     ed: 2023-06-25
-- - '[PAKA](@/tt/paka.md): Disco Pablo, Taras(c)'
+- - 'PAKA: Disco Pablo, Taras(c)'
   - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
   - s: Tag Team Match
     nc: No Contest
@@ -69,7 +69,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 - - 'Budapest Bastards: Renegade, Nitro'
   - 'PAKA: Disco Pablo, Taras(c)'
   - '[Sinister Kingdom](@/tt/sinister-kingdom.md): [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
-  - "MxM Collection: Mansoor, Mason Madden"
+  - 'MxM Collection: Mansoor, Mason Madden'
   - s: Four Way Tag Team Match
     ed: 2024-02-03
     en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
@@ -105,7 +105,7 @@ While Boro never defended the title, he was also recognized as a champion.
     ed: 2024-08-25
     en: '[PTW Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md)'
 - - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
-  - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+  - 'Budapest Bastards: Nitro, Renegade(c)'
   - s: Hardcore Tornado Tag Team Match
     ed: 2024-12-07
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
@@ -127,7 +127,7 @@ While Boro never defended the title, he was also recognized as a champion.
     ed: 2025-02-15
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
 - - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
+  - "L'Orda: Luca Bjorn, Rust(c)"
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
   - s: Tornado Tag Team Match
     ed: 2025-05-31
