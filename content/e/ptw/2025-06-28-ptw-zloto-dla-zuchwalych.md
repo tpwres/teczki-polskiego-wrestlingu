@@ -24,6 +24,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: 'The Brave Show'
+    nc: upcoming
 {% end %}
 
 [zloto]: https://en.wikipedia.org/wiki/Kelly%27s_Heroes
