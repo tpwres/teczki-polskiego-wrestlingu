@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
-venue = ["szafirowy-dwor"]e
+venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
