@@ -1,7 +1,7 @@
 +++
 title = "PTW: Dzień Dziecka"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747"],["Iwul"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -95,7 +95,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 * Sullivan and Shida made their entrance for their Falls Count Anywhere Match. They brawled throughout the arena. Sullivan's wife Lesya was watching closely, concerned for her husband. Sullivan won after an elbow drop from the ladder, putting Shida through the table. Lesya helped Sullivan out.
 * Rodgers made his entrance for the championship match first. Puncher made a champion's entrance, as usual, flanked by Klaudiusz and Herno holding his belts. While Klaudiusz attempted to start officiating the match, Pawłowski removed him and announced Daniele Specchiulli as his replacement. Puncher beat Rodgers in a match that was not long, but intense.
 * Pawłowski put Rodgers over with the crowd and moved to the closing segment of the show. The crowd chanted for Okoński, but Pawłowski shut it down. He announced that during Children's Day festivities in the area the following day, PTW was going to hold an additional, non-televised show.
-* Pawłowski brought out both Polish referees and said he wasn't pleased with their work. He questioned the necessity of their employment with referee Daniele being available. Pawłowski continued rambling that they should leave PTW just like Okoński had in the beginning of the show, when Okoński's theme song hit. Pawłowski watched the entrance way, waiting for Okoński - who was already standing behind him with a camera. Pawłowski continued rambling about Okoński being out and when he finally turned back, Okoński laid him out using the camera as a weapon. The Royal Rebels make a save allowing Pawłowski to regroup. They attempted to fight Okoński, but Spartan evened the odds. Pawłowski tried to go back into the fray with a chair, but Okoński took it away. With Pawłowski running away, Okoński hit a chairshot to the already laid out Caravaggio. Okoński grabbed a mic and said that the era of Pawłowski was over. On his cue, the referees covered the Pawłowski banner hanging on the wall with a new one, depicting Okoński. Okoński and Spartan celebrated, parodying the pose of theNietykalni.
+* Pawłowski brought out both Polish referees and said he wasn't pleased with their work. He questioned the necessity of their employment with referee Daniele being available. Pawłowski continued rambling that they should leave PTW just like Okoński had in the beginning of the show, when Okoński's theme song hit. Pawłowski watched the entrance way, waiting for Okoński - who was already standing behind him with a camera. Pawłowski continued rambling about Okoński being out and when he finally turned back, Okoński laid him out using the camera as a weapon. The Royal Rebels make a save allowing Pawłowski to regroup. They attempted to fight Okoński, but Spartan evened the odds. Pawłowski tried to go back into the fray with a chair, but Okoński took it away. With Pawłowski running away, Okoński hit a chairshot to the already laid out Caravaggio. Okoński grabbed a mic and said that the era of Pawłowski was over. On his cue, the referees covered the Pawłowski banner hanging on the wall with a new one, depicting Okoński. Okoński and Spartan celebrated, parodying the pose of Nietykalni.
 * Skwarczyński closed the show.
 
 ## References
