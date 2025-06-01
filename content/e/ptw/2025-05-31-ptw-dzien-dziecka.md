@@ -101,9 +101,9 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=423576)
+* [Official stream on YouTube](https://www.youtube.com/watch?v=G0_KsMe6aQc) (requires paid subscription)
 * [Event page on Facebook](https://www.facebook.com/events/1864407861025971/)
 * [Nano Lopez returns - Facebook post](https://www.facebook.com/photo?fbid=737172635302048&set=a.136592408693410)
 * [Klaudiusz and Herno stand up to Pawłowski](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1015170060231221)
 * [Klaudiusz and Herno read out Pawłowski's announcement](https://www.facebook.com/PrimeTimeWrestlingPL/videos/2071315973375572)
 * [Klaudiusz and Okoński make a deal](https://www.instagram.com/p/DJr5B3joYhd/)
-* [Official stream on YouTube - requires paid subscription](https://www.youtube.com/watch?v=G0_KsMe6aQc&ab_channel=PTW-PrimeTimeWrestling)
