@@ -1,10 +1,10 @@
 +++
 title = "PTW: Dzień Dziecka"
 template = "event_page.html"
-authors = ["M3n747"],["Iwul"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
-venue = ["szafirowy-dwor"]
+venue = ["szafirowy-dwor"]e
 [extra]
 city = "Kozłów"
 toclevel = 2
