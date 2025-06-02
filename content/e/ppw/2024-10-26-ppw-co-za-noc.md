@@ -7,6 +7,7 @@ chronology = ["ppw"]
 venue = ["minska-65"]
 [extra]
 city = "Warszawa"
+toclevel = 2
 [extra.gallery]
 0000 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
 0001 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
@@ -38,6 +39,8 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   The rivalry later continued with Isnorr challenging Johnny for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), only to be defeated.
   Isnorr then won the Insane Wheel of Fortune Gauntlet Invitational Match hosted by Blade, and later defeated him in a tag team match at Hardcore Friday 2, earning his opportunity to challange the champion for a rematch.
 * After their match at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) was cancelled due to [Alex Arthur's](@/w/alex-arthur.md) other obligations, he and [Feager](@/w/feager.md) were set to finally compete in a chairs match at "Co Za Noc".
+
+## Card
 
 {% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
@@ -79,16 +82,15 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
     Interviews: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
 {% end %}
 
-## Grand Press Photo
+### Grand Press Photo
 
-Photographer Bartosz Mateńko captured the key moment of the main event, when Isnorr slams Johnny Blade into a construct made of light tubes, wood and chairs. This photo went on to win second prize in Poland's annual [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/).
+Photographer Bartosz Mateńko captured the key moment of the main event, when Isnorr slams Johnny Blade into a structure made of light tubes, wood and chairs. This photo went on to win the second prize in Poland's annual [Grand Press Photo][gpp].
 
-## Recap
+### Recap
 
 Timestamps refer to the YouTube video linked in the [References](#references) section, and mark the start of wrestler entrances, not the opening bell.
 
 {% timeline() %}
-
 
 #### Opening
 
@@ -235,3 +237,5 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * [Full show on YouTube](https://www.youtube.com/watch?v=zlkssoMxSaE)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
 * [Official Facebook post announding the location](https://www.facebook.com/OficjalnePPW/posts/pfbid0BTS8Qhe1s49J1sK748TSsTLHGAjq2ErggutZWuAt4d9xEhGctnXdjkN3QstarjFUl)
+
+[gpp]: https://grandpressphoto.pl/laureaci-2025/
