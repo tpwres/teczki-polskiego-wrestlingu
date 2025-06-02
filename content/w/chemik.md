@@ -9,6 +9,7 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "chemik.jpg", caption = "Chemik striking a pose at [KPW Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).", source = "M3n747" }
 2 = { path = "chemik-with-piekny-kawaler-2016-vs-2019.jpg", caption = "Chemik with Piękny Kawaler - 2016 vs 2019.", source = "Piękny Kawaler's official Facebook" }
+3 = { path = "chemik-radio-gdansk.jpg", caption = "Chemik at Radio Gdańsk, with the hosts Hanna Brzezińska and Filip Jędruch.", source = "radiogdansk.pl" }
 +++
 
 Chemik is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
@@ -96,8 +97,10 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened durin
 
 ## References
 
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25615)
 * [KPW's Bianca interviewing Chemik](https://www.youtube.com/watch?v=K7J0zvAK264) (in Polish)
 * [A fragment of Godzina Zero 2016](https://youtu.be/wmAyKa51clM?si=2YCEPHWYSpdoTR3a&t=65), with young Chemik in the audience (1:05 mark, next to Robert on the right side)
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25615)
+* [Interview with Chemik][radio-gdansk] by Radio Gdańsk (in Polish)
 
 [yt-chemik-challenge]: https://www.youtube.com/watch?v=QwlnIhkcN40
+[radio-gdansk]: https://radiogdansk.pl/audycje/zoom-na-popkulture/2025/05/23/wrestling-to-emocje-rozmowa-o-pasji-bohaterach-ringu-i-kulisach/
