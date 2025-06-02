@@ -8,9 +8,10 @@ venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 [extra.gallery]
-1 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
-2 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
-3 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._ In the corner are cartoons of [Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
+0000 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
+0001 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
+0002 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._ In the corner are cartoons of [Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
+0501 = { path = "isnorr_vs_blade.webp", caption = "Bartosz Mateńko's award-winning photo of the main event, with [Isnorr](@/w/isnorr.md) and [Johnny Blade](@/w/johnny-blade.md)", source = "Bartosz Mateńko / Grand Press Photo"}
 +++
 
 "Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It took place in a brand new venue - a post-industrial complex at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
@@ -19,13 +20,13 @@ Just like most of PpW's bigger shows, this event was streamed live on their YouT
 
 The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEmVHWs?t=157) published by Polish influencer Robert Pasut, and become a popular running joke and a sort of a catchphrase among PpW's fans and workers, roughly since [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
-### Build-up
+## Build-up
 
 * PpW announced a collaboration event for the show. Before and during the event, there will be an opportunity to get a tattoo, courtesy of tattoo parlour Syrena (_Siren_).
 * To further bolster ticket sales, PpW introduced a student discount as well are "buy 5, get 1 free" discount.
 * Many PpW personalities announced new merchandise items to be available at the show.
 
-#### Storylines overview
+### Storylines overview
 
 * A huge part of the show revolved around the main conflict of two groups: the villainous ["Zmowa"](@/tt/zmowa.md) led by [Mister Z](@/w/mister-z.md), and "Zmowa przeciwko zmowie" led by [Biesiad Strong](@/w/biesiad.md).
   Nearly a year-long feud of Mister Z versus Biesiad, as well as many other additional conflicts such as Pure Gold vs Legia Łysych, finally imploded at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), after Biesiad and his allies challenged "Zmowa" for an "Ustawka Match", which was a 5 vs 5 Elimination No Holds Barred tag team match.
@@ -78,7 +79,11 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
     Interviews: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
 {% end %}
 
-### Recap
+## Grand Press Photo
+
+Photographer Bartosz Mateńko captured the key moment of the main event, when Isnorr slams Johnny Blade into a construct made of light tubes, wood and chairs. This photo went on to win second prize in Poland's annual [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/).
+
+## Recap
 
 Timestamps refer to the YouTube video linked in the [References](#references) section, and mark the start of wrestler entrances, not the opening bell.
 

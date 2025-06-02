@@ -168,5 +168,6 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [PpW Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) sells out all 800 tickets (and likely a little more than that), making it the biggest PpW show to date, and one of the biggest shows in the history of the Polish scene.
 * PpW announces the first women's match in the history of their promotion, set to take place at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
 * [Legacy of Wrestling](@/o/low.md) hold their [third show](@/e/low/2025-07-11-low-3.md) at Ryucon, which hosted PTW shows for the past three years.
+* Bartosz Mateńko's photo of Johnny Blade vs Isnorr in the main event of [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) wins second prize in [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/), Sports category.
 
 {% end %}
