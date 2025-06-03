@@ -1,5 +1,6 @@
 0000 = { path = "arena-29-plakat.webp", caption = "Official poster. Visible in the TV screens, top to bottom and left to right, are: Hans Schulte; Leon Lato chokeslammed by Tomczak; Referee Kinga looking at Filip Fux caught in a hold by David Oliwa; Eryk Lesak; and Chemik with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 0001 = { path = "wiecej-mocniej-lepiej.webp", caption = "&quot;More, stronger, better! Both at live events, and on TV!&quot;", source = "Official KPW Facebook" }
 0002 = { path = "latomczak.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs Tomczak.", source = "Official KPW Facebook" }
-0003 = { path = "rozciagliwy-lesak.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs Flexos.", source = "Official KPW Facebook" }
-0004 = { path = "wsciekli-i-nasi.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md) vs Barbarossa & Curtis Black.", source = "Official KPW Facebook" }
+0003 = { path = "gregoliwa.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+0004 = { path = "rozciagliwy-lesak.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs Flexos.", source = "Official KPW Facebook" }
+0005 = { path = "wsciekli-i-nasi.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md) vs Barbarossa & Curtis Black.", source = "Official KPW Facebook" }
