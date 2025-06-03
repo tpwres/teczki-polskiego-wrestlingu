@@ -1,5 +1,5 @@
 +++
-title = "PpW @ Mystic Festival 2025"
+title = "PpW x Mystic Festival - More Brutal Than Metal"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
@@ -9,10 +9,10 @@ venue = ["stocznia-gdanska"]
 city = "Gdańsk"
 toclevel = 2
 [extra.gallery]
-manifest = "@/e/ppw/2025-06-05-ppw-mystic-festival-gallery.toml"
+manifest = "@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.toml"
 +++
 
-PpW @ Mystic Festival 2025 will be a two-day show accompanying [Mystic Festival 2025][mystic] in Gdańsk, set to take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's Chill Out Zone. This is PpW's second appearance in Gdańsk, following [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) in May.
+More Brutal Than Metal will be a two-day show accompanying [Mystic Festival 2025][mystic] in Gdańsk, set to take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's Chill Out Zone. This is PpW's second appearance in Gdańsk, following [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) in May.
 
 ## Card
 
