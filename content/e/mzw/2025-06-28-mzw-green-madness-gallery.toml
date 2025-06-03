@@ -3,3 +3,5 @@
 0003 = { path = "wake-up-dziedzic.webp", caption = "Graphic announcing the first match - [Aron Wake](@/w/aron-wake.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official MZW Facebook" }
 0004 = { path = "marceli-z-misterem.webp", caption = "Graphic announcing the second match - [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md].", source = "Official MZW Facebook" }
 0005 = { path = "oskar-w-cieniu-aleksandra.webp", caption = "Graphic announcing the third match - [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md).", source = "Official MZW Facebook" }
+0006 = { path = "cesky-goblinek.webp", caption = "Graphic announcing the third match - [Goblin](@/w/goblin.md) vs [Erik Šlotíř](@/w/erik-slotir.md).", source = "Official MZW Facebook" }
+
