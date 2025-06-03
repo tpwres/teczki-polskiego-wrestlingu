@@ -24,7 +24,6 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md), in Oskar's MZW debut.
 * The fourth tournament match, revealed on 3.06.2025, was [Goblin](@/w/goblin.md) vs [Erik Šlotíř](@/w/erik-slotir.md). It marks Šlotíř's MZW debut.
 
-
 ## Card
 
 {% card(predicted=true) %}
