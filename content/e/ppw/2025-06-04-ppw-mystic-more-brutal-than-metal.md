@@ -17,7 +17,7 @@ More Brutal Than Metal will be a two-day show accompanying [Mystic Festival 2025
 
 ## Card
 
-{% card(predicted=true) %)}
+{% card(predicted=true) %}
 - - '[Biesiad Strong](@/w/biesiad.md), [Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
   - s: Tag Team Match
