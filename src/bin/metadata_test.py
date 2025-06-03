@@ -7,7 +7,7 @@ import yaml
 
 def parse_match(text):
     matchrow = yaml.safe_load(text)
-    return Match(matchrow, 0)
+    return Match(matchrow, 0, None)
 
 def test_basic_names():
     m = parse_match("[Tadeusz Kościuszko, George Washington]")

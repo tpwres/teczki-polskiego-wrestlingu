@@ -169,14 +169,20 @@ class CrewMember(NamedParticipant):
         return "{}:{}".format(repr, self.role)
 
 
+# Type alias for match row data structure
+MatchRow = list[str|dict] | dict
+
 class Match:
-    line: list
+    line: MatchRow
     index: int
     opponents: list[Iterable[Participant]]
     options: dict
     date: Optional[datetime.date]
 
-    def __init__(self, match_row: list[str|dict], index: int, date: Optional[datetime.date]):
+    # Only these keys are allowed in option-only special rows
+    SPECIAL_ROW_ALLOWED_OPTIONS = frozenset(('d', 'date', 'credits'))
+
+    def __init__(self, match_row: MatchRow, index: int, date: Optional[datetime.date]):
         self.line = match_row # Store original row
         self.index = index
         self.date = date
@@ -184,6 +190,12 @@ class Match:
             case [*participants, dict() as options]:
                 participants = cast(list[str], participants)
                 self.opponents = list(self.parse_opponents(participants, index))
+                # Validate that special row options are not used in regular match rows
+                self._validate_no_special_row_options(options, index)
+                # Validate that nc and r are not used together
+                self._validate_nocontest_or_result(options, index)
+                # Validate segment option requirements
+                self._validate_segment_options(options, index)
                 self.options = options
             case [*participants]:
                 participants = cast(list[str], participants)
@@ -191,17 +203,71 @@ class Match:
                 self.options = {}
             case dict() as options:
                 self.opponents = []
+                # When only options are provided, only allow the defined special row options
+                self._validate_only_special_row_options(options, index)
                 self.options = options
 
+    def _validate_no_special_row_options(self, options: dict, index: Optional[int]) -> None:
+        """Validate that regular match rows don't contain special row options."""
+        invalid_keys = options.keys() & self.SPECIAL_ROW_ALLOWED_OPTIONS
+        if not invalid_keys:
+            return
+
+        prefix = "Segment" if 'g' in options else "Match"
+        message = f"{prefix} {index}: special row options not allowed in regular match: {', '.join(invalid_keys)}"
+        raise MatchParseError(message)
+
+    def _validate_only_special_row_options(self, options: dict, index: Optional[int]) -> None:
+        """Validate that special rows only contain allowed options."""
+        invalid_keys = options.keys() - self.SPECIAL_ROW_ALLOWED_OPTIONS
+        if not invalid_keys:
+            return
+
+        message = f"Special row {index}: invalid options: {', '.join(invalid_keys)}"
+        raise MatchParseError(message)
+
+    def _validate_nocontest_or_result(self, options: dict, index: Optional[int]) -> None:
+        """Validate that nc and r options are not used together."""
+        if not ('nc' in options and 'r' in options):
+            return
+
+        prefix = "Segment" if 'g' in options else "Match"
+        message = f"{prefix} {index}: cannot use both 'nc' and 'r' options together"
+        raise MatchParseError(message)
+
+    def _validate_segment_options(self, options: dict, index: Optional[int]) -> None:
+        """Validate that g option follows the rules:
+        1. Either g=True and s is a non-empty string, or
+        2. g is a non-empty string
+        """
+        match options:
+            case {'g': True, 's': str() as stipulation} if stipulation.strip():
+                # Case 1: g is True and s is a non-empty string - valid
+                pass
+
+            case {'g': True}:
+                # Case 1: g is True but s is missing or not a non-empty string
+                # Accept for now
+                pass
+
+            case {'g': str() as segment} if segment.strip():
+                # Case 2: g is a non-empty string - valid
+                pass
+
+            case {'g': _}:
+                # Case 3: g exists but is not True and not a non-empty string
+                message = f"Segment {index}: description must be a non-empty string"
+                raise MatchParseError(message)
+
+            case _:
+                # No 'g' key present - nothing to validate
+                pass
+
     def __repr__(self) -> str:
-        return "Match(i={},o={!r} f={!r})".format(self.index, self.opponents, self.options)
+        return f"Match(i={self.index},o={self.opponents!r} f={self.options!r})"
 
     def all_names(self) -> Iterable[Name]:
-        return (name
-                for person_or_team in self.opponents
-                for members in person_or_team
-                for name in members.all_names()
-                )
+        return (name for _, name in self.all_names_indexed())
 
     def all_names_indexed(self):
         return ((i, name)
