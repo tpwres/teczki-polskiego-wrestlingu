@@ -1,6 +1,7 @@
 +++
 title = "PpW x Mystic Festival - More Brutal Than Metal"
 template = "event_page.html"
+aliases = ["/e/ppw/2025-06-05-ppw-mystic-festival"]
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw", "stocznia-gdanska"]
