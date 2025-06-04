@@ -2,11 +2,12 @@
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [20.919262, 52.236807]
+        "coordinates": [52.236807, 20.919262]
     },
     "properties": {
         "kind": "historical-venue",
         "name": "Klub Karuzela",
-        "description": "Klub Karuzela"
+        "description": "Klub Karuzela",
+        "orgs": ["ddw"]
     }
 }

@@ -1,6 +1,9 @@
 +++
 title = "Czasoprzestrzeń"
 template = "venue_page.html"
+[extra.geo]
+coordinates = '51.105153/17.087245'
+orgs = ['mzw', 'ptw']
 [extra.gallery]
 1 = { path = "czasoprzestrzen-outside.jpg", caption = "An outside view of Czasoprzestrzeń.", source = "wrestling.pl" }
 2 = { path = "zadnych-granic-ring.jpg", caption = "Inside the venue, during [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }

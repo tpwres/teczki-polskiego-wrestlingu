@@ -7,6 +7,8 @@ same-venue = ["atlantic", "nowy-harem"]
 [extra.venue_names]
 atlantic = "Atlantic"
 nowy-harem = "Nowy Harem"
+[extra.geo]
+coordinates = '54.519174/18.535337'
 [extra.gallery]
 1 = { path = "nowy-harem.jpg", caption = "Nowy Harem in late 2024.", source = "Ville Paananen" }
 2 = { path = "kino-atlantic.jpg", caption = 'Cinema "Atlantic" in the 1950s. The banner above the entrance says "Soviet cinema days".', source = "MojaGdynia.com" }

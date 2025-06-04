@@ -2,6 +2,10 @@
 title = "Praga Centrum"
 template = "venue_page.html"
 authors = ["Sewi The Referee"]
+[extra.geo]
+coordinates = '52.251249,21.048566'
+type = 'historical-venue'
+orgs = ['ppw']
 [extra.gallery]
 1 = { path = "praga-centrum.jpg", caption = "Praga Centrum in 2024, as seen from the outside.", source = "Ville Paananen" }
 +++

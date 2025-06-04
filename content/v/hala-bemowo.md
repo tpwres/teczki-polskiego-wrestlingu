@@ -1,6 +1,9 @@
 +++
 title = "Hala Bemowo"
 template = "venue_page.html"
+[extra.geo]
+coordinates = '52.257764,20.930489'
+type = 'historical-venue'
 +++
 
 Hala Bemowo is a multipurpose sports hall, located in Warsaw's district Bemowo. The seating capacity is advertised as up to 1900, or 2200 including floor seating. The hall is used by the basketball wing of Warsaw's sports club Legia. Besides that, it is occasionally used for other sports and exhibition events.

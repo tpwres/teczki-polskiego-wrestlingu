@@ -1,6 +1,10 @@
 +++
 title = "GOSiR Głuchołazy"
 template = "venue_page.html"
+[extra.geo]
+coordinates = '50.317579/17.385976'
+type = 'historical-venue'
+orgs = ['mzw']
 +++
 
 Hala Sportowa GOSiR Głuchołazy (_Community Centre of Sports and Recreation_) is a multipurpose sports hall in [Głuchołazy][glucholazy-wiki].

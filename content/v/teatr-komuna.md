@@ -1,6 +1,9 @@
 +++
 title = "Teatr Komuna"
 template = "venue_page.html"
+[extra.geo]
+coordinates = '52.226888/21.005237'
+orgs = ['ppw']
 [extra.gallery]
 1 = { path = "teatr-komuna.jpg", caption = "Teatr Komuna in April 2024, view from the Emilii Plater street.", source = "M3n747" }
 +++

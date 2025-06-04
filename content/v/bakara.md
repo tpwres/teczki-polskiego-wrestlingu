@@ -1,6 +1,9 @@
 +++
 title = "Bakara"
 template = "venue_page.html"
+[extra.geo]
+coordinates = '51.096312/16.994242'
+orgs = ['mzw']
 [extra.gallery]
 1 = { path = "bakara.jpg", caption = "Bakara community centre in October 2024.", source = "M3n747" }
 +++

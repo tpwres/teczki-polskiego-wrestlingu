@@ -2,6 +2,10 @@
 title = "MORiS Chorzów"
 template = "venue_page.html"
 authors = ["Krzysztof Zych"]
+[extra.geo]
+coordinates = '50.284049/18.942117'
+type = 'historical-venue'
+orgs = ['ptw']
 [extra.gallery]
 1 = { path = "moris-1.jpg", caption = "MORiS Sports Hall in October 2024.", source = "Ville Paananen" }
 2 = { path = "moris-2.jpg", caption = "MORiS Sports Hall in October 2024.", source = "Ville Paananen" }

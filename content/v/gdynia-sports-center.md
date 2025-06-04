@@ -1,6 +1,10 @@
 +++
 title = "Gdynia Sports Center"
 template = "venue_page.html"
+[extra.geo]
+coordinates = '54.495277/18.532164'
+type = 'historical-venue'
+orgs = ['kpw']
 +++
 
 Gdyńskie Centrum Sportu (_Gdynia Sports Center_) is a complex of sports facilities located in Gdynia, as well as the name of the city government's subdivision overseeing these facilities. Those include the football stadium used by Arka Gdynia, the multipurpose Gdynia Arena hall most known for hosting volleyball, and the National Rugby Stadium.

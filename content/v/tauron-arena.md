@@ -2,6 +2,9 @@
 title = "Tauron Arena"
 template = "venue_page.html"
 authors = ["M3n747"]
+[extra.geo]
+coordinates = '50.067726/19.991583'
+orgs = ['ptw', 'low']
 [extra.gallery]
 1 = { path = "tauron.webp", caption = "An aerial shot of the Arena.", source = "Maciek Zabierowski / Wikipedia" }
 +++

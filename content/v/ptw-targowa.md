@@ -1,6 +1,10 @@
 +++
 title = "PTW Performance Center"
 template = "venue_page.html"
+[extra.geo]
+coordinates = '50.290252/19.002052'
+type = 'historical-venue'
+orgs = ['ptw']
 [extra.gallery]
 1 = { path = "ptw-performance-center.jpg", caption = "Outside view of the PTW Performance Center, July 2024.", source = "Ville Paananen" }
 +++

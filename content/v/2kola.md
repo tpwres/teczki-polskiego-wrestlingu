@@ -3,6 +3,9 @@ title = "2KOŁA Motorcycle Club"
 template = "venue_page.html"
 [extra]
 year_list_start = 2019
+[extra.geo]
+coordinates = '52.221859,20.969030'
+orgs = ['ppw']
 +++
 
 2KOŁA (_2WHEELS_) is a motorcycle bar and event venue in Warsaw. It's the first venue to host events by [PpW Ewenement](@/o/ppw.md).
