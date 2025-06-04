@@ -40,6 +40,7 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - '[Robert Star](@/w/robert-star.md)'
   - nc: upcoming
 - credits:
+    Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
