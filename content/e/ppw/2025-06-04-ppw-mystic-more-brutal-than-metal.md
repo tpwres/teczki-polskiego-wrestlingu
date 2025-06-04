@@ -28,18 +28,18 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - 'Atilla'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
-- d: Day 2
-  date: 2025-06-05
-- - '[Biesiad Strong](@/w/biesiad.md), [Goblin](@/w/goblin.md)'
+- - '[Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
   - s: Tag Team Match
-    nc: upcoming
+    nc: In progress
+- d: Day 2
+  date: 2025-06-05
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - nc: upcoming
 - credits:
     Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
 {% end %}
 
 ### Recap
