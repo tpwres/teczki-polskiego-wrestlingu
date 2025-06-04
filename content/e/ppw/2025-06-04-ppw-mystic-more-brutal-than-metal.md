@@ -28,8 +28,8 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - 'Atilla'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
-  - '[Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
+  - '[Goblis](@/tt/goblis.md): [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - s: Tag Team Match
 - - '[Robert Star](@/w/robert-star.md)'
   - 'Wonder Haze'
