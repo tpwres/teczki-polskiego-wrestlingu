@@ -31,11 +31,15 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
   - '[Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - s: Tag Team Match
+- - 'Wonder Haze'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: 'Six Man Ladder Qualifying Match'
+    nc: In progress
 - d: Day 2
   date: 2025-06-05
-- - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Robert Star](@/w/robert-star.md)'
-  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: Upcoming
 - credits:
     Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
@@ -44,6 +48,7 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 ### Recap
 
 * Each day there were four 20-minute segments, an hour apart.
+* Despite being announced for the tag team match as Goblin's partner, Biesiad was replaced by Axel Fox. Similarly, Robert Star faced Wonder Haze instead of Gabriel Queen.
 
 ## References
 
