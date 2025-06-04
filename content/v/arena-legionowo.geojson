@@ -1,0 +1,13 @@
+{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [20.917169, 52.400143]
+        },
+        "properties": {
+            "kind": "historical-venue",
+            "name": "Arena Legionowo",
+            "description": "Arena Legionowo",
+            "orgs": ["ptw"]
+        }
+    }

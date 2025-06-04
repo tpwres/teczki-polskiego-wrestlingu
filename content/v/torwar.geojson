@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [21.042198, 52.222474]
+    },
+    "properties": {
+        "kind": "historical-venue",
+        "name": "Torwar",
+        "description": "Torwar"
+    }
+}
