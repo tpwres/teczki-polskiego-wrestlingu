@@ -29,7 +29,7 @@ def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], /, titl
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [lat, lon]
+            "coordinates": [lon, lat]
         },
         "properties": {
             "name": title,
