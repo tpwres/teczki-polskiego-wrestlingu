@@ -21,12 +21,11 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 - d: Day 1
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Sambor](@/w/sambor.md)'
-- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+- - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
   - '[El Ogre](@/w/olgierd.md)'
   - s: 'Six Man Ladder Qualifying Match'
-- - '???'
-  - '???'
-  - nc: upcoming
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - 'Atilla'
 - - '???'
   - '???'
   - nc: upcoming
