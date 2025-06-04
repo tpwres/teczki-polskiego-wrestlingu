@@ -31,10 +31,9 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
   - '[Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - s: Tag Team Match
-- - 'Wonder Haze'
-  - '[Robert Star](@/w/robert-star.md)'
+- - '[Robert Star](@/w/robert-star.md)'
+  - 'Wonder Haze'
   - s: 'Six Man Ladder Qualifying Match'
-    nc: In progress
 - d: Day 2
   date: 2025-06-05
 - - '???'
