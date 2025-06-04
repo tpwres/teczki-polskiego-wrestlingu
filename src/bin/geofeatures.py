@@ -2,7 +2,7 @@ import argparse
 import json
 import sys
 from pathlib import Path
-from typing import List, Dict, Any, Optional, cast
+from typing import List, Dict, Any, Optional
 from page import page, Page
 
 def create_geojson(page: Page) -> Optional[Dict[str, Any]]:
@@ -71,9 +71,9 @@ def parse_args():
 
 def main():
     args = parse_args()
-    output_file = args.output_file if args.output_file else sys.stdout
 
     features = build_features_from(Path('content/v'))
+    output_file = Path(args.output_file).open('w') if args.output_file else sys.stdout
     json.dump(features, output_file)
 
 if __name__ == '__main__':
