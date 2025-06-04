@@ -4,6 +4,8 @@ template = "venue_page.html"
 authors = ["Sewi The Referee"]
 [extra]
 year_list_start = 2024
+[extra.geo]
+coordinates = "21.067861, 52.251065"
 +++
 
 Mińska&nbsp;65 is an event venue in Warsaw. It held its first wrestling show, [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in October 2024.

@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [20.919262, 52.236807]
+    },
+    "properties": {
+        "kind": "historical-venue",
+        "name": "Klub Karuzela",
+        "description": "Klub Karuzela"
+    }
+}
