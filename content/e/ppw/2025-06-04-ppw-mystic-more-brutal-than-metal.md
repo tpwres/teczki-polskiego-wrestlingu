@@ -13,11 +13,25 @@ toclevel = 2
 manifest = "@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.toml"
 +++
 
-More Brutal Than Metal will be a two-day show accompanying [Mystic Festival 2025][mystic] in Gdańsk, set to take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's Chill Out Zone. This is PpW's second appearance in Gdańsk, following [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) in May.
+More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mystic] in Gdańsk, taking place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's Chill Out Zone. This is PpW's second appearance in Gdańsk, following [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) in May.
 
 ## Card
 
 {% card(predicted=true) %}
+- d: Day 1
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Sambor](@/w/sambor.md)'
+- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[El Ogre](@/w/olgierd.md)'
+  - s: 'Six Man Ladder Qualifying Match'
+- - '???'
+  - '???'
+  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: upcoming
+- d: Day 2
+  date: 2025-06-05
 - - '[Biesiad Strong](@/w/biesiad.md), [Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
   - s: Tag Team Match
@@ -25,10 +39,18 @@ More Brutal Than Metal will be a two-day show accompanying [Mystic Festival 2025
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - nc: upcoming
+- credits:
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
+
+### Recap
+
+* Each day there were four 20-minute segments, an hour apart.
 
 ## References
 
 * [Announcement post](https://www.facebook.com/photo/?fbid=1246774540140902&set=a.734451078039920)
+* [Facebook reel: Biesiad vs Sambor]:(https://www.facebook.com/reel/731351469459974)
+* [Facebook reel: El Ogre vs Oskar Aleksander]:(https://www.facebook.com/reel/504039896128850)
 
 [mystic]: https://www.mysticfestival.pl/
