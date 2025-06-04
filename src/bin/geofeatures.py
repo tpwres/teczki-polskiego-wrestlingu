@@ -23,6 +23,8 @@ def create_geojson(page: Page) -> Optional[Dict[str, Any]]:
     return create_feature_dict(lon, lat, geodict, title=fm.get('title'), city=fm.get('city'))
 
 def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], /, title, city) -> Dict[str, Any]:
+    mandatory_properties = ('type', 'description', 'coordinates')
+    copy_properties = {key: value for key, value in geodict.items() if key not in mandatory_properties}
     return {
         "type": "Feature",
         "geometry": {
@@ -33,7 +35,8 @@ def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], /, titl
             "name": title,
             "type": geodict.get('type', 'venue'),
             "city": city,
-            "description": geodict.get('description')
+            "description": geodict.get('description'),
+            **copy_properties
         }
     }
 
