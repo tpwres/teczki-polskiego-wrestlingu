@@ -92,7 +92,7 @@ Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show]
   - "Stallion" by Secret Metal
     {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-) <br>
     {{ music(yt='LHTdgdTwons')}}
-- "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
+  - "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
     {{ org_badge(orgs=['ptw', 'ppw']) }} (2025-) <br>
     {{ music(yt='hXksAsBNeaA')}}
     {{ music(spot='6rlkPZLlQHcVyGfPjtOfIC')}}
