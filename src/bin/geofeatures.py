@@ -15,7 +15,8 @@ def create_geojson(page: Page) -> Optional[Dict[str, Any]]:
             return None
 
     try:
-        lon, lat = map(float, coord_string.split(','))
+        sep = '/' if '/' in coord_string else ','
+        lon, lat = map(float, coord_string.split(sep))
     except (ValueError, AttributeError):
         raise ValueError(f"Could not parse coordinates {coord_string}")
 
