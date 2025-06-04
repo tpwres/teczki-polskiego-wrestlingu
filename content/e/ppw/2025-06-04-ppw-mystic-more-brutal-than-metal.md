@@ -52,7 +52,7 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 ## References
 
 * [Announcement post](https://www.facebook.com/photo/?fbid=1246774540140902&set=a.734451078039920)
-* [Facebook reel: Biesiad vs Sambor]:(https://www.facebook.com/reel/731351469459974)
-* [Facebook reel: El Ogre vs Oskar Aleksander]:(https://www.facebook.com/reel/504039896128850)
+* [Facebook reel: Biesiad vs Sambor](https://www.facebook.com/reel/731351469459974)
+* [Facebook reel: El Ogre vs Oskar Aleksander](https://www.facebook.com/reel/504039896128850)
 
 [mystic]: https://www.mysticfestival.pl/
