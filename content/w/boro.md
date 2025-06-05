@@ -16,7 +16,7 @@ Boro, also known as Lady Killer, is a Polish wrestler best known for his time in
 * Gimmicks/Nicknames:
   - Bartosz Borowsky {{ org_badge(org='mzw') }}
   - Lady Killer {{ org_badge(org='mzw') }}
-  - Boro {{ org_badge(org='ptw') }}
+  - Boro {{ org_badge(orgs=['ptw', 'low']) }}
 * Trained by:
   - MZW Academy (2016-2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
