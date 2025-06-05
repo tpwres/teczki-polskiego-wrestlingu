@@ -43,6 +43,9 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 - - '[Agentka Agatka](@/w/agentka-agatka.md), [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Sambor](@/w/sambor.md), Atilla'
   - s: 'Tag-Team Match'
+- - 'Sentinel'
+  - 'Danny Roxx'
+  - nc: upcoming
 - - '???'
   - '???'
   - nc: upcoming
