@@ -45,7 +45,7 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - s: 'Tag-Team Match'
 - - '???'
   - '???'
-  - upcoming
+  - nc: upcoming
 - credits:
     Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
@@ -56,7 +56,7 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 * Each day there were suppsed to be four 20-minute segments, an hour apart. In practice, however, that plan wasn't adhered to very strictly.
 * Despite being announced for the tag team match as Goblin's partner, Biesiad was replaced by Axel Fox.
 * Similarly, Robert Star faced Wonder Haze instead of Gabriel Queen - but the announced match eventually happened on Day 2.
-* While Star vs Wonder Haze was a qualifier for a ladder match, Haze has already qualified before. His spot was not on the line however and while Star beat him to qualify, Haze is still in the match. This was confirmed by the final match graphic.
+* While Star vs Wonder Haze was a qualifier for the ladder match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), Haze had already qualified before. His spot was not on the line, however, and while Star beat him to qualify, Haze is still in the match. This was confirmed by the image of the final line-up for the match released by PpW on 5.06.2025.
 
 ## References
 
