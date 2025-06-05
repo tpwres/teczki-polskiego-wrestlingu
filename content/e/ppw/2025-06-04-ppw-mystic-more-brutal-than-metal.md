@@ -17,7 +17,7 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 
 ## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - d: Day 1
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Sambor](@/w/sambor.md)'
