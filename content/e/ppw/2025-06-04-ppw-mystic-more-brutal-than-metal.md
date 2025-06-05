@@ -43,7 +43,7 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
 - - '[Agentka Agatka](@/w/agentka-agatka.md), [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Sambor](@/w/sambor.md), Atilla'
   - s: 'Tag-Team Match'
-- - 'Sentinel'
+- - '[Sentinel](@/w/sentinel.md)'
   - 'Danny Roxx'
 - - 'Anty-Zmowa: [Biesiad Strong](@/w/biesiad.md), [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'

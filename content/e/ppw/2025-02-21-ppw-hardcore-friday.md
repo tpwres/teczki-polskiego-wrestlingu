@@ -29,7 +29,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 
 {% card() %}
 - - '[Goblin](@/w/goblin.md)'
-  - 'Sentinel'
+  - '[Sentinel](@/w/sentinel.md)'
   - n: "Mister Z's Sorpresa de Lucha Muy Loco"
     r: Submission
 - - '[Mister Z](@/w/mister-z.md)'
