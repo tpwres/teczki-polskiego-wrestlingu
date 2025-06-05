@@ -34,11 +34,11 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 
 {% card(predicted=true) %}
 - - '[Sentinel](@/w/sentinel.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
-  - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '???'
-  - '???'
   - s: 'Six Man #1 Contender Ladder Match'
     nc: upcoming
 - - '[Axel Fox](@/w/axel-fox.md)'
