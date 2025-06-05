@@ -45,8 +45,8 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - s: 'Tag-Team Match'
 - - 'Sentinel'
   - 'Danny Roxx'
-- - '[Zmowa](@/tt/zmowa.md): ???, ??? '
-  - '[Goblis](@/tt/goblis.md): [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
+  - '[Biesiad Strong](@/w/biesiad.md), [Goblis](@/tt/goblis.md): [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - nc: In progress
 - credits:
     Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
