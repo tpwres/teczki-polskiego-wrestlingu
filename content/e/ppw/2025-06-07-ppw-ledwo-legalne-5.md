@@ -23,7 +23,7 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
     3. Submission Match that can only be won via TKO (making the opponent pass out). It was billed as _W imię zasad: Walka do odciny_ (roughly: _In the name of principles: Fight till blackout_)
   * As [Mister Z](@/w/mister-z.md) granted [Biesiad](@/w/biesiad.md) the opportunity to fight him at this show, Biesiad immediately declared it to be a Cieśla (_Carpenter_) Match, presumably involving lots of furniture.
   * [Axel Fox](@/w/axel-fox.md) challenged [Olgierd](@/w/olgierd.md).
-* The Enigma Scramble match at the same show ended with three out of four wrestlers scoring one point: Sentinel, Wonder Haze and [Sambor](@/w/sambor.md). All of them were granted a match at this show, with no further details given.
+* The Enigma Scramble match at the same show ended with three out of four wrestlers scoring one point: Sentinel, [Wonder Haze](@/w/wonder-haze.md) and [Sambor](@/w/sambor.md). All of them were granted a match at this show, with no further details given.
 * At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) [Vic Golden](@/w/vic-golden.md) turned on his former friend [Gabriel Queen](@/w/gabriel-queen.md), later explaining that he was fed up with Queen getting all the biggest chances, while he got nothing.
 * On 22.05.2025 PpW confirmed that the match that Enigma Scramble contenders have qualified for, is going to be a six-man ladder match for the [PpW Championship](@/c/ppw-championship.md) number one contendership. With three spots still empty, PpW confirmed that additional qualifying matches will take place at their [Mystic Festival showcase](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md).
 * On 25.05.2025 PpW posted a [video][marco-dzwoni] of [Marco Hammers](@/w/marco-hammers.md) phoning [Mister Z](@/w/mister-z.md). He runs down all the matches that [Zmowa](@/tt/zmowa.md) has at the show and requests one for himself. Following up on his ladder spot from [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Marco calls himself a "ladder specialist", likening himself to Jeff Hardy. He requests being added to the Six Man #1 Contender Ladder Match. While the voice on the phone is never heard, Marco's reaction as well as the video's description confirm that the deal was made.
@@ -33,9 +33,9 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 ## Card
 
 {% card(predicted=true) %}
-- - Sentinel
+- - 'Sentinel'
   - '[Sambor](@/w/sambor.md)'
-  - Wonder Haze
+  - '[Wonder Haze](@/w/wonder-haze.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '???'
   - '???'

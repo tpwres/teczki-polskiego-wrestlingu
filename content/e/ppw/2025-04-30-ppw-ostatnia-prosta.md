@@ -58,7 +58,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - '[Vic Golden](@/w/vic-golden.md)'
   - g: Vic assaults Gabriel with a chair, then cuts a promo explaining his actions since [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 - - '[Sambor](@/w/sambor.md)'
-  - 'Wonder Haze'
+  - '[Wonder Haze](@/w/wonder-haze.md)'
   - 'Sentinel'
   - '[Feager](@/w/feager.md)'
   - s: 'Enigma Scramble Match'

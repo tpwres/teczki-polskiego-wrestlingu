@@ -32,14 +32,14 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - '[Goblis](@/tt/goblis.md): [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - s: Tag Team Match
 - - '[Robert Star](@/w/robert-star.md)'
-  - 'Wonder Haze'
+  - '[Wonder Haze](@/w/wonder-haze.md)'
   - s: 'Six Man Ladder Qualifying Match'
 - d: Day 2
   date: 2025-06-05
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
 - - '[Bartosz Plata](@/w/plata.md)'
-  - 'Wonder Haze'
+  - '[Wonder Haze](@/w/wonder-haze.md)'
 - - '[Agentka Agatka](@/w/agentka-agatka.md), [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Sambor](@/w/sambor.md), Atilla'
   - s: 'Tag-Team Match'
