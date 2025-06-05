@@ -22,7 +22,8 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * The first tournament match, revealed on 17.05.2025, was [Aron Wake](@/w/aron-wake.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).
 * The second tournament match, revealed on 25.05.2025, was [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md).
 * The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md), in Oskar's MZW debut.
-* The fourth tournament match, revealed on 3.06.2025, was [Goblin](@/w/goblin.md) vs [Erik Šlotíř](@/w/erik-slotir.md). It marks Šlotíř's MZW debut.
+* On 3.06.2025 MZW announced a non-tournament match between [Goblin](@/w/goblin.md) and [Erik Šlotíř](@/w/erik-slotir.md). It marks Šlotíř's MZW debut.
+* On 5.06.2025 the stipulation for the main event was revealed: a Fatal 4-Way Ladder Match, a first for MZW.
 
 ## Card
 
@@ -33,8 +34,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
     nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
-  - n: Tournament qualifying match
-    nc: upcoming
+  - nc: upcoming
 - - '[Marcelito](@/w/marcelito.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - n: Tournament qualifying match
@@ -47,7 +47,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - '???'
   - '???'
   - '???'
-  - s: TBA
+  - s: 'Fatal 4-Way Ladder Match'
     n: Tournament Final
     nc: upcoming
 {% end %}
