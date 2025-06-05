@@ -54,7 +54,9 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
 ### Recap
 
 * Each day there were suppsed to be four 20-minute segments, an hour apart. In practice, however, that plan wasn't adhered to very strictly.
-* Despite being announced for the tag team match as Goblin's partner, Biesiad was replaced by Axel Fox. Similarly, Robert Star faced Wonder Haze instead of Gabriel Queen.
+* Despite being announced for the tag team match as Goblin's partner, Biesiad was replaced by Axel Fox.
+* Similarly, Robert Star faced Wonder Haze instead of Gabriel Queen - but the announced match eventually happened on Day 2.
+* While Star vs Wonder Haze was a qualifier for a ladder match, Haze has already qualified before. His spot was not on the line however and while Star beat him to qualify, Haze is still in the match. This was confirmed by the final match graphic.
 
 ## References
 
