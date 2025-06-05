@@ -36,9 +36,16 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - s: 'Six Man Ladder Qualifying Match'
 - d: Day 2
   date: 2025-06-05
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+- - '[Bartosz Plata](@/w/plata.md)'
+  - 'Wonder Haze'
+- - '[Agentka Agatka](@/w/agentka-agatka.md), [Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Sambor](@/w/sambor.md), Atilla'
+  - s: 'Tag-Team Match'
 - - '???'
   - '???'
-  - nc: Upcoming
+  - upcoming
 - credits:
     Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
