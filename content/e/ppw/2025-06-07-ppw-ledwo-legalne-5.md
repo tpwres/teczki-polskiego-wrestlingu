@@ -58,6 +58,9 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
   - '[Zombie! Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Undead Beerbath Match: Project Zero'
     nc: upcoming
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - nc: upcoming
 {% end %}
 
 ## References
