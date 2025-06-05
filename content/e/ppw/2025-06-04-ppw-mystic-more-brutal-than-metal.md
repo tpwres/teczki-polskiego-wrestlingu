@@ -45,7 +45,6 @@ More Brutal Than Metal is a two-day show accompanying [Mystic Festival 2025][mys
   - s: 'Tag-Team Match'
 - - 'Sentinel'
   - 'Danny Roxx'
-  - nc: upcoming
 - - '???'
   - '???'
   - nc: upcoming
