@@ -65,5 +65,6 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
 * [Facebook reel: Biesiad vs Sambor](https://www.facebook.com/reel/731351469459974)
 * [Facebook reel: El Ogre vs Oskar Aleksander](https://www.facebook.com/reel/504039896128850)
 * [Facebook reel: Agentka Agatka vs Gabriel Queen](https://www.facebook.com/reel/1374293023779154)
+* Live streams by Istota Wrestlingu: [day 1 part 1](https://www.youtube.com/watch?v=0hYiC4hGeK4), [day 1 part 2](https://www.youtube.com/watch?v=iajUof-W6kk&t=912s), [day 2 part 1](https://www.youtube.com/watch?v=AZaOqNBoV8c), [day 2 part 2](https://www.youtube.com/watch?v=a2g6ZoWaiBA) and [day 2 part 3](https://www.youtube.com/watch?v=N_l8vCw6FWs).
 
 [mystic]: https://www.mysticfestival.pl/
