@@ -14,7 +14,7 @@ manifest = "@/e/ppw/2025-01-25-ppw-gruba-przesada-gallery.toml"
 
 Gruba Przesada (roughly _Way Too Far_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held once again in [Teatr Komuna](@/v/teatr-komuna.md) on Saturday, January 25th 2025.
 
-The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel and Wonder Haze, and the powerhouse Atilla, in a pre-show match.
+The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentinel](@/w/sentinel.md) and [Wonder Haze](@/w/wonder-haze.md), and the powerhouse Atilla, in a pre-show match.
 
 ## Build-up
 
@@ -46,9 +46,9 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors Sentinel
 
 {% card() %}
 - - '[Sambor](@/w/sambor.md)'
-  - 'Sentinel'
+  - '[Sentinel](@/w/sentinel.md)'
   - '[_rookie_ Bartosz](@/w/plata.md)'
-  - 'Wonder Haze'
+  - '[Wonder Haze](@/w/wonder-haze.md)'
   - 'Atilla'
   - s: Fatal Five-Way Match
     n:

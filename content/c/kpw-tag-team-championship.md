@@ -120,11 +120,12 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
-- - "Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md) (c)"
-  - "Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)"
+- - "Bracia Fux: Filip Fux, Michał Fux (c)"
+  - "Tribe of Wrath: Barbarossa, Curtis Black"
   - s: Tag-Team Match
-    en: '[Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)'
+    en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
     ed: 2025-04-06
+    nc: upcoming
 {% end %}
 
 ## References

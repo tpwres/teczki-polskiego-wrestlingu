@@ -34,7 +34,7 @@ Ostatnia Prosta (_The Run-Up_) was an event by [PpW Ewenement Wrestling](@/o/ppw
 
 During the event, fans saw new and returning international wrestlers in the ring:
 
-* Hungarian luchadors Sentinel and Wonder Haze, both seen previously at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), and Sentinel also at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md).
+* Hungarian luchadors [Sentinel](@/w/sentinel.md) and [Wonder Haze](@/w/wonder-haze.md), both seen previously at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), and Sentinel also at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md).
 * Hungarian wrestler Danny Roxx, in his PpW debut.
 * Danish wrestler Madison Marley, at the time only 17 years old, but with multiple matches in Sweden, Denmark, Germany, Scotland and others under her belt.
 * Swedish wrestler Mr Power Up, best known from the Swedish and Danish scenes.
@@ -58,8 +58,8 @@ During the event, fans saw new and returning international wrestlers in the ring
   - '[Vic Golden](@/w/vic-golden.md)'
   - g: Vic assaults Gabriel with a chair, then cuts a promo explaining his actions since [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 - - '[Sambor](@/w/sambor.md)'
-  - 'Wonder Haze'
-  - 'Sentinel'
+  - '[Wonder Haze](@/w/wonder-haze.md)'
+  - '[Sentinel](@/w/sentinel.md)'
   - '[Feager](@/w/feager.md)'
   - s: 'Enigma Scramble Match'
     nc: 3-way tie

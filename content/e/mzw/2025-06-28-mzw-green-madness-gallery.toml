@@ -1,5 +1,7 @@
 0001 = { path = "mzw-green-madness-poster.webp", caption = "Official poster, featuring left to right: [Aron Wake](@/w/aron-wake.md), [Marcelito](@/w/marcelito.md) and [Goblin](@/w/goblin.md).", source = "Official MZW Facebook" }
 0002 = { path = "turniej-o-walizke.webp", caption = "Graphic announcing the eight-man tournament for the Championship contract.", source = "Official MZW Facebook" }
 0003 = { path = "wake-up-dziedzic.webp", caption = "Graphic announcing the first match - [Aron Wake](@/w/aron-wake.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official MZW Facebook" }
-0004 = { path = "marceli-z-misterem.webp", caption = "Graphic announcing the second match - [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md].", source = "Official MZW Facebook" }
+0004 = { path = "marceli-z-misterem.webp", caption = "Graphic announcing the second match - [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md).", source = "Official MZW Facebook" }
 0005 = { path = "oskar-w-cieniu-aleksandra.webp", caption = "Graphic announcing the third match - [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md).", source = "Official MZW Facebook" }
+0006 = { path = "cesky-goblinek.webp", caption = "Graphic announcing a non-tournament match - [Goblin](@/w/goblin.md) vs [Erik Šlotíř](@/w/erik-slotir.md).", source = "Official MZW Facebook" }
+0007 = { path = "fatal-4-way.webp", caption = "Graphic announcing the main event stipulation - a Fatal 4-Way Ladder Match.", source = "Official MZW Facebook" }

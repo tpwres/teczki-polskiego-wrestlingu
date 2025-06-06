@@ -1,4 +1,10 @@
-01 = { path = "ppw-mystic-festival-plakat.webp", caption = "The show's poster, showing a picture from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "Official Mystic Festival Facebook" }
-02 = { path = "mystic-mapka-2025.jpg", caption = "Map of the festival area. Note a pin labelled &quot;wrestling&quot; in the Chill Out Zone in the bottom right corner.", source = "Official Mystic Festival Facebook" }
-03 = { path = "chlopcy-stoczniowcy.jpg", caption = "Image announcing [Biesiad](@/w/biesiad.md) & [Goblin](@/w/goblin.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) & [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
-04 = { path = "queen-vs-star.jpg", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Robert Star](@/w/robert-star.md).", source = "Official PpW Facebook" }
+001 = { path = "ppw-mystic-festival-plakat.webp", caption = "The show's poster, showing a picture from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "Official Mystic Festival Facebook" }
+002 = { path = "mystic-mapka-2025.jpg", caption = "Map of the festival area. Note a pin labelled &quot;wrestling&quot; in the Chill Out Zone in the bottom right corner.", source = "Official Mystic Festival Facebook" }
+003 = { path = "chlopcy-stoczniowcy.jpg", caption = "Image announcing [Biesiad](@/w/biesiad.md) & [Goblin](@/w/goblin.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) & [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
+004 = { path = "queen-vs-star.jpg", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Robert Star](@/w/robert-star.md).", source = "Official PpW Facebook" }
+005 = { path = "rozklad-walk.webp", caption = "The fight plan.", source = "Official PpW Facebook" }
+101 = { path = "biesiadambor-1.webp", caption = "[Biesiad Strong](@/w/biesiad.md) vs [Sambor](@/w/sambor.md).", source = "Official Mystic Festival Facebook" }
+102 = { path = "biesiadambor-2.webp", caption = "[Sambor](@/w/sambor.md) crashes into Biesiad, who crashes into the railing.", source = "Official Mystic Festival Facebook" }
+103 = { path = "biesiadambor-3.webp", caption = "[Biesiad Strong](@/w/biesiad.md) vs [Sambor](@/w/sambor.md), officiated by [Sędzia Kornel](@/w/sedzia-kornel.md).", source = "Official Mystic Festival Facebook" }
+104 = { path = "biesiadambor-4.webp", caption = "[Biesiad Strong](@/w/biesiad.md) Irish whips [Sambor](@/w/sambor.md), with [Sędzia Kornel](@/w/sedzia-kornel.md) pressed against the ring.", source = "Official Mystic Festival Facebook" }
+901 = { path = "ring.webp", caption = "The ring set up and ready for action.", source = "Biesiad Strong @ Facebook" }

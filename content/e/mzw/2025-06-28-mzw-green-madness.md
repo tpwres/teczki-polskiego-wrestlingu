@@ -18,9 +18,12 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 ## Build-up
 
 * On 13.05.2025 MZW [announced][walizka] an eight-man tournament to be held at the show. The winners of each individual fight are going to take part in the main event (whose stipulation will be given at a later date), with the main prize being a contract briefcase. The contract will allow the tournament winner to challenge the current [MZW Champion](@/c/mzw-championship.md) _or_ the [PpW Champions](@/c/ppw-championship.md) - a first on the Polish wrestling scene. The contract can be used at any moment.
+* Over the next weeks, MZW continued to reveal the matches at their Facebook.
 * The first tournament match, revealed on 17.05.2025, was [Aron Wake](@/w/aron-wake.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).
 * The second tournament match, revealed on 25.05.2025, was [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md).
-* The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md).
+* The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md), in Oskar's MZW debut.
+* On 3.06.2025 MZW announced a non-tournament match between [Goblin](@/w/goblin.md) and [Erik Šlotíř](@/w/erik-slotir.md). It marks Šlotíř's MZW debut.
+* On 5.06.2025 the stipulation for the main event was revealed: a Fatal 4-Way Ladder Match, a first for MZW.
 
 ## Card
 
@@ -30,9 +33,8 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - n: Tournament qualifying match
     nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
-  - '???'
-  - n: Tournament qualifying match
-    nc: upcoming
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - nc: upcoming
 - - '[Marcelito](@/w/marcelito.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - n: Tournament qualifying match
@@ -45,7 +47,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - '???'
   - '???'
   - '???'
-  - s: TBA
+  - s: 'Fatal 4-Way Ladder Match'
     n: Tournament Final
     nc: upcoming
 {% end %}
