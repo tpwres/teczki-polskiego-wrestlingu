@@ -4,6 +4,24 @@ import sys
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 from page import page, Page
+import html
+from urllib.parse import quote
+from mistletoe import Document, HtmlRenderer
+
+class ZolaLinkingRenderer(HtmlRenderer):
+    @staticmethod
+    def escape_url(raw: str) -> str:
+        if raw.startswith('@') and raw.endswith('.md'):
+            # Strip @ and suffix to make it a relative path,
+            # add the domain
+            raw = f"//tpwres.pl/{raw[2:-3]}"
+
+        return html.escape(quote(raw, safe='/#:()*?=%@+,&;'))
+
+def eval_markdown(text: str) -> str:
+    with ZolaLinkingRenderer() as renderer:
+        doc = Document(text)
+        return renderer.render(doc)
 
 def create_geojson(page: Page) -> Optional[Dict[str, Any]]:
     """Convert a venue page into a GeoJSON feature"""
@@ -20,11 +38,13 @@ def create_geojson(page: Page) -> Optional[Dict[str, Any]]:
     except (ValueError, AttributeError):
         raise ValueError(f"Could not parse coordinates {coord_string}")
 
-    return create_feature_dict(lon, lat, geodict, title=fm.get('title'), city=fm.get('city'))
+    return create_feature_dict(lon, lat, geodict, page)
 
-def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], /, title, city) -> Dict[str, Any]:
+def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], page: Page) -> Dict[str, Any]:
     mandatory_properties = ('type', 'description', 'coordinates')
     copy_properties = {key: value for key, value in geodict.items() if key not in mandatory_properties}
+    fm = page.front_matter
+    desc = page_description(page)
     return {
         "type": "Feature",
         "geometry": {
@@ -32,23 +52,36 @@ def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], /, titl
             "coordinates": [lon, lat]
         },
         "properties": {
-            "name": title,
+            "name": fm.get('title'),
             "type": geodict.get('type', 'venue'),
-            "city": city,
-            "description": geodict.get('description'),
+            "city": fm.get('city'),
+            "description": eval_markdown(desc),
             **copy_properties
         }
     }
+
+def page_description(page) -> str:
+    fm = page.front_matter
+    path = str(page.path).replace('content/', '@/')
+    if 'description' in fm:
+        return fm['description']
+
+    return f"[{fm['title']}]({path})"
+
 
 def load_geojson_file(path: Path) -> List[Dict[str, Any]]:
     """Load features from a GeoJSON file"""
     with path.open('r') as f:
         data = json.load(f)
-        if 'features' in data:
-            return data['features']
-        elif 'type' in data and data['type'] == 'Feature':
-            return [data]
-        return []
+        match data:
+            case {'features': list(features)}:
+                return features
+            case {'type': 'Feature'}:
+                return [data]
+            case {'type': 'FeatureCollection'}:
+                return [data]
+            case _:
+                raise ValueError("GeoJSON data must contain either a list of Features or be a single Feature")
 
 def build_features_from(path: Path) -> List[Dict[str, Any]]:
     """
@@ -64,7 +97,13 @@ def build_features_from(path: Path) -> List[Dict[str, Any]]:
                 if not feature: continue
                 features.append(feature)
             case Path(suffix='.geojson'):
-                features.extend(load_geojson_file(file_path))
+                new_features = load_geojson_file(file_path)
+                for feature in new_features:
+                    props = feature.get('properties', {})
+                    desc = props.get('description')
+                    if not desc: continue
+                    props['description'] = eval_markdown(desc)
+                features.extend(new_features)
 
     return features
 
