@@ -5,9 +5,9 @@
         "coordinates": [22.004813, 50.016520]
     },
     "properties": {
-        "kind": "historical-venue",
+        "type": "historical-venue",
         "name": "Pod Palmą",
-        "description": "Pod Palmą",
+        "description": "Pod Palmą club, home of [DDW](@/o/ddw.md) until 2014.",
         "orgs": ["ddw"]
     }
 }

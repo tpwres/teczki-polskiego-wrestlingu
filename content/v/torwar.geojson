@@ -5,8 +5,8 @@
         "coordinates": [21.042198, 52.222474]
     },
     "properties": {
-        "kind": "historical-venue",
+        "type": "historical-venue",
         "name": "Torwar",
-        "description": "Torwar"
+        "description": "Torwar Hall arena, which held [World Wrestling Superstars](@/e/wws/1993-12-14-wws-world-wrestling-superstars.md) in 1993 and [WWE Live](@/e/wwe/2015-04-15-wwe-live.md) in 2015."
     }
 }

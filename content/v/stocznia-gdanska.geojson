@@ -7,17 +7,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/179834798",
-        "addr:city": "Gdańsk",
-        "addr:city:simc": "0933016",
-        "addr:housenumber": "4",
-        "addr:postcode": "80-864",
-        "addr:street": "Elektryków",
-        "building": "yes",
-        "name": "90B",
-        "note": "magazyn główny",
-        "source:addr": "gugik.gov.pl",
-        "start_date": "1940"
+        "name": "B90"
       },
       "geometry": {
         "type": "Polygon",
@@ -73,18 +63,18 @@
             ]
           ]
         ]
-      },
-      "id": "way/179834798"
+      }
     },
     {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [54.362198, 18.652512]
+            "coordinates": [18.652512, 54.362198]
         },
         "properties": {
-            "kind": "venue",
-            "name": "Mystic Festival Chill Zone"
+            "type": "venue",
+            "name": "Mystic Festival Chill Zone",
+            "description": "Mystic Festival Chill Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
             "orgs": ["ppw"]
         }
     }

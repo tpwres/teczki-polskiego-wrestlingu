@@ -44,6 +44,7 @@ build() {
   cp data/all_matches.json public/
   cp data/all_photos.json public/
   cp data/talent_photos.json public/
+  cp data/mapdata.json public/map_objects.json
 }
 
 lint
