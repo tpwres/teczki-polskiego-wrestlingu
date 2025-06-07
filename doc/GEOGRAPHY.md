@@ -8,7 +8,7 @@ To be represented on the map, the document only needs to include two things in i
 
 ```toml
 +++
-title = "Some Venue"
+title = "My Backyard"
 template = "venue_page.html"
 [extra]
 city = "Zakrzówek"
@@ -27,7 +27,7 @@ This document can now be represented on a map. It will use the default presentat
 
 ### Type and description
 
-The optional `type` key in the `[extra.geo]` section changes which pin type is displayed.
+An optional `type` key in the `[extra.geo]` section changes which pin type is displayed.
 Currently, the defined types are:
 
 * `venue` - default pin
@@ -74,3 +74,23 @@ Features may have a `properties` key, which is a map containing arbitrary key-va
 All other keys (possibly inherited from mapping software) are ignored.
 
 Note that in JSON documents, newlines are not permitted inside strings, and there is no alternative notation for long strings. Therefore, newlines must be represented with `\n` escapes.
+
+### Example
+
+Here's a GeoJSON document which collects all the mentioned features, and replicates the front-matter example.
+
+```json
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [22.37915, 50.94648]
+    },
+    "properties": {
+        "name": "My Backyard",
+        "type": "venue",
+        "description": "An example venue location",
+        "orgs": ["ptw", "mzw"]
+    }
+}
+```
