@@ -58,19 +58,18 @@ At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Pawłowski debuted 
 
 On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announcer for their show Summer Crush. [The post][rings-of-pawel], originally written in German, translated as:
 
-_New international ring announcer - Arkadiusz Pan Pawłowski!_
-
-_We welcome a new ring announcer for Summer Crush._
-
-_He's not only the creative brains and boss of PTW - Prime Time Wrestling, but also a "celebrity" in Poland with over 120.000 followers on his Instagram profile._
-
-_The pioneer of Polish wrestling scene and a pro wrestling enthusiast for over 30 years, he's already attracted many international superstars to Prime Time Wrestling._
-
-_In his career he's worked as promoter, ring announcer, manager, commentator and producer, AND he even stepped into the ring as a worker himself._
-
-_Thanks to his work in stand-up comedy and a range of entertainment, he can provide our product with significant input and advice._
-
-_Welcome Arek "Pan" Pawłowski!_
+> New international ring announcer - Arkadiusz Pan Pawłowski!
+> We welcome a new ring announcer for Summer Crush. 
+>
+> He's not only the creative brains and boss of PTW - Prime Time Wrestling, but also a "celebrity" in Poland with over 120.000 followers on his Instagram profile.
+>
+> The pioneer of Polish wrestling scene and a pro wrestling enthusiast for over 30 years, he's already attracted many international superstars to Prime Time Wrestling.
+>
+> In his career he's worked as promoter, ring announcer, manager, commentator and producer, AND he even stepped into the ring as a worker himself.
+>
+> Thanks to his work in stand-up comedy and a range of entertainment, he can provide our product with significant input and advice.
+>
+> Welcome Arek "Pan" Pawłowski!
 
 ## In wrestling
 
