@@ -17,6 +17,7 @@
     {% for row in data %}
       {% if row is object %}
         {% include "card/object_row.html" %}
+        {% set_global rownum = 1 %}
       {% else %}
         {% include "card/result_row.html" %}
         {% set_global rownum = rownum + 1 %}
