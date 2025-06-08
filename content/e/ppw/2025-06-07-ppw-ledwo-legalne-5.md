@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2025-06-07-ppw-ledwo-legalne-5-gallery.toml"
 +++
 
-Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw.md), set to take place on 7th of June 2025, at [Mińska 65](@/v/minska-65.md).
+Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement](@/o/ppw.md)'s major show of 2025, held on 7th of June 2025, at [Mińska 65](@/v/minska-65.md) in Warsaw, which is the same venue that held [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ## Build-up
 
@@ -33,35 +33,47 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 
 ## Card
 
-{% card(predicted=true) %}
-- - '[Sentinel](@/w/sentinel.md)'
-  - '[Robert Star](@/w/robert-star.md)'
+{% card() %}
+- - 'Atilla, Danny Roxx'
+  - '[Marcelito](@/w/marcelito.md), [Bartosz Plata](@/w/plata.md)'
+  - s: Pre-show Tag Team Match
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Sentinel](@/w/sentinel.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
   - s: 'Six Man #1 Contender Ladder Match'
-    nc: upcoming
-- - '[Axel Fox](@/w/axel-fox.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - nc: upcoming
-- - '[Mister Z](@/w/mister-z.md)'
-  - '[Biesiad Strong](@/w/biesiad.md)'
-  - s: 'Cieśla Match'
-    nc: upcoming
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
-  - '[Goblin](@/w/goblin.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: 'Three Stages Of Hell'
-    nc: upcoming
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
 - - '[Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Zombie! Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Undead Beerbath Match: Project Zero'
-    nc: upcoming
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - s: 'Cieśla Match'
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - nc: upcoming
+- - '[Goblin](@/w/goblin.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: Three Stages Of Hell
+- cast:
+    Hosts and ring announcers: '[Michael HT](@/w/michael-ht.md), [Joker](@/w/joker.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
+
+### Highlights
+
+* For the ladder match, Marco Hammers dyed and shaved his beard to copy Jeff Hardy's look, and also used his entrance routine including music.
+* However, in the actual match, it turned out he might have lied on his resumé, as he seemed to be afraid of heights, and needed a lot of time to scale any ladder.
+* In a comedic spot, Marco found the smallest ladder available, about a meter in size, and called two referees to hold it down for him as he climbed.
+* In the Undead Beerbath Match, Zombie Johnny was significantly slower and less resourceful than his usual self, but also quite more resilient, no-selling many of Dobroniak's attacks. However, he was finally tied down with a length of barbed wire, and carried to the beer-filled bathtub.
+* As Johnny woke up from his zombified state, he celebrated together with Dobroniak and the fans, both apparently forgetting about their rivalry for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
+* After an unfortunate ref bump, Gabriel pinned Vic but with no one to count. Moments later, Oskar Aleksander intervened unexpectedly, attacked Queen with a chair then handed it to Vic. Exiting the ring, he rolled the ref back in for a slow three-count on the badly beaten Queen.
+* The "Cieśla Match" involved many tables, and many creative ways to break them. In a dangerous spot, a ladder nearly missed some of the crowd after being thrown out of the ring.
+* In the main event's final No Holds Barred chapter, the wrestlers made a lot of callbacks to their previous matches and storylines. The barbed-wire crown from [Ledwo Legalne 4][ll4] made a return, as well as the chain with collars on both ends used in [Goblin vs Olgierd][teraz-albo-nigdy]. Gustav also lifted a section of the metal barriers into the ring, and used it on his opponent. Vicious belt strikes by Gustav called back to his [match against Samson][cozanoc].
+* In the final moments, opponents were brawling outside, and Goblin set up a table near the entrance, and climbed a steel structure for the final splash, after which the referee declared Gustav to be out.
 
 ## References
 
@@ -72,3 +84,6 @@ Ledwo Legalne 5 (_Barely Legal_) is an upcoming event by [PpW Ewenement](@/o/ppw
 [marco-dzwoni]: https://www.facebook.com/reel/1532002251118652
 [szalony-profesor]: https://www.facebook.com/reel/3307021946119896
 [le-protocole]: https://www.facebook.com/photo/?fbid=1257514683045588&set=a.499910772139320
+[ll4]: @/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md
+[cozanoc]: @/e/ppw/2024-10-26-ppw-co-za-noc.md
+[teraz-albo-nigdy]: @/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md
