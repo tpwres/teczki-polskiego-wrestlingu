@@ -63,9 +63,9 @@ At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Gustav te
 
 #### The Last Dance
 
-After the 20 Typa 20 Broni Rumble Match in the main event of Teraz Albo Nigdy, [Goblin](@/w/goblin.md) became #1 Contender for the PpW Championship at [Ledwo Legalne 5][ll5]. The match was named "The Last Dance" due to it being the third official match between Goblin and Gustav.
+After the 20 Typa 20 Broni Rumble Match in the main event of Teraz Albo Nigdy, [Goblin](@/w/goblin.md) became the #1 Contender for the PpW Championship at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match was named "The Last Dance" due to it being the third official match between Goblin and Gustav.
 
-At [Ostatnia Prosta][prosta], the run-up show to Ledwo Legalne 5, Gustav and Goblin sat down in the ring for a contract signing. Gustav selected the stipulation for their upcoming match: Three Stages of Hell, starting with a Classic Wrestling match, transitioning to a No Holds Barred match after the first pin or submission. The third stage could only be won by knocking out the opponent. Gustav won the first segment, becoming increasingly brutal in the following ones, but was knocked out with a table spot from a high vantage point over the entrance ramp, and lost his championship to Goblin after exactly one year.
+At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), the run-up show to Ledwo Legalne 5, Gustav and Goblin sat down in the ring for a contract signing. Gustav selected the stipulation for their upcoming match: Three Stages of Hell, starting with a Classic Wrestling Match, transitioning to a No Holds Barred Match after the first pin or submission. The third stage could only be won by knocking out the opponent. Gustav won the first segment, becoming increasingly brutal in the following ones, but was knocked out with a table spot from a high vantage point over the entrance ramp, and lost his Championship to Goblin after exactly one year.
 
 ### Maniac Zone Wrestling (2023-present)
 
@@ -114,6 +114,3 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29108)
-
-[prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
-[ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
