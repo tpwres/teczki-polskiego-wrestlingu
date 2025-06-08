@@ -62,8 +62,11 @@ At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) Goblin was able to
 
 #### The Last Dance
 
-Goblin returned to the ring the same night he was almost hanged by Olgierd, to enter the 20 Typa 20 Broni Match and become the #1 Contender for the PpW Championship at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
+Goblin returned to the ring the same night he was almost hanged by Olgierd, to enter the 20 Typa 20 Broni Match and become the #1 Contender for the PpW Championship at [Ledwo Legalne 5][ll5].
 The Acid Messiah did that by eliminating his Tag Team partner and friend Axel Fox. After his victory, the reigning champion and Goblin's old rival Gustav Gryffin came out and faced the new #1 Contender. The match was set to take place at Ledwo Legalne 5 and dubbed "The Last Dance", due to it being the third official match between Goblin and Gustav.
+
+At [Ostatnia Prosta][prosta], the run-up show to Ledwo Legalne 5, Gustav and Goblin sat down in the ring for a contract signing. Gustav selected the stipulation for their upcoming match: Three Stages of Hell, starting with a Classic Wrestling match, transitioning to a No Holds Barred match after the first pin or submission. The third stage could only be won by knocking out the opponent. Goblin lost the first segment, but managed to recover, and finished off his opponent with a daring table spot over the entrance ramp, rendering Gustav unconscious.
+This made him the new [PPW Champion](@/c/ppw-championship.md), ending Gustav's 1-year reign.
 
 ### Maniac Zone Wrestling
 
@@ -93,6 +96,7 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 
 * [PpW Ewenement](@/o/ppw.md):
   - 20 Typa 20 Broni Rumble Match (2025)
+  - [PPW Championship](@/c/ppw-championship.md): 1-time
 
 ## References
 
@@ -101,3 +105,5 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [tarot-goblina]: https://www.youtube.com/watch?v=AsEqQwh0idg
 [goblin-poker]: https://www.youtube.com/watch?v=2Fiyos4xT8g
+[prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
+[ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
