@@ -7,8 +7,9 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "pan-pawlowski.jpg", caption = "Promo shot of Arek Pawłowski", source = "Pawłowski's Facebook" }
-2 = { path = "pan-pawlowski-gold-rush.jpg", caption = "Pawłowski's entrance at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)", source = "Official PTW Facebook" }
+1 = { path = "pan-pawlowski.jpg", caption = "Promo shot of Arek Pawłowski.", source = "Pawłowski's Facebook" }
+2 = { path = "pan-pawlowski-gold-rush.jpg", caption = "Pawłowski's entrance at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).", source = "Official PTW Facebook" }
+3 = { path = "roe.png", caption = "Rings of Europe announces Pawłowski as their ring announcer for Summer Crush.", source = "Official RoE Facebook" }
 +++
 
 Arkadiusz "Pan" Pawłowski is a Polish wrestling announcer and promoter. Since 2021 he also became co-founder and owner of [Prime Time Wrestling](@/o/ptw.md). Prior to that he worked for [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md). Outside of his wrestling career, Pawłowski was also involved with several Polish freak-fight MMA organizations as their announcer, and performed stand-up comedy.
@@ -53,6 +54,24 @@ In addition to his on-screen heel turn, Pawłowski also increased his social med
 
 At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Pawłowski debuted a new heelish entrance, retiring the dynamic "Throne" and entering surrounded by security from the ever-loyal Grupa Wolf (_Wolf Group_), changing his entrance song to another Bring me the Horizon song, "Die4U". At the show he reaffirmed his heel-turn by laying out [Łukasz Okoński](@/w/lukasz-okonski.md) after the now-traditional charity T-shirt auction. He used the same chair as at the previous show, slowly making this item his signature weapon.
 
+### International ventures
+
+On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announcer for their show Summer Crush. [The post][rings-of-pawel], originally written in German, translated as:
+
+_New international ring announcer - Arkadiusz Pan Pawłowski!_
+
+_We welcome a new ring announcer for Summer Crush._
+
+_He's not only the creative brains and boss of PTW - Prime Time Wrestling, but also a "celebrity" in Poland with over 120.000 followers on his Instagram profile._
+
+_The pioneer of Polish wrestling scene and a pro wrestling enthusiast for over 30 years, he's already attracted many international superstars to Prime Time Wrestling._
+
+_In his career he's worked as promoter, ring announcer, manager, commentator and producer, AND he even stepped into the ring as a worker himself._
+
+_Thanks to his work in stand-up comedy and a range of entertainment, he can provide our product with significant input and advice._
+
+_Welcome Arek "Pan" Pawłowski!_
+
 ## In wrestling
 
 * Entrance music:
@@ -78,3 +97,4 @@ At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Pawłowski debuted 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6523)
 
 [yt-iw]:https://www.youtube.com/@IstotaWrestlingu
+[rings-of-pawel]:https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
