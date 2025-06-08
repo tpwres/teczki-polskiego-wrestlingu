@@ -227,7 +227,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - '[Goblin](@/w/goblin.md)'
   - en: '[Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
     ed: 2025-06-07
-    s: Three Stages of Hell
+    s: Three Stages of Hell Match
 {% end %}
 
 **TOTAL: 366 days**
@@ -238,7 +238,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - 'Gustav Gryffin (c)'
   - en: '[Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
     ed: 2025-06-07
-    s: Three Stages of Hell
+    s: Three Stages of Hell Match
 {% end %}
 
 ## References
