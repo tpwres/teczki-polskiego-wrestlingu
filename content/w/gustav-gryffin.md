@@ -99,11 +99,11 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
     {{ music(yt='cJuO985zF8E')}}
     {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
     {{ music(apple='1591104080?i=1591104084')}}
- 
+
 ## Championships and accomplishments
 
 * PpW Ewenement:
-  - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
+  - [PpW Championship](@/c/ppw-championship.md) (1 time; 2024-06-08 - 2025-06-07)
 
 ## Internet presence
 
