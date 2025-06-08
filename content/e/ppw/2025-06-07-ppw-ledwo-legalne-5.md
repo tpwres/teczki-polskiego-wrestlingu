@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2025-06-07-ppw-ledwo-legalne-5-gallery.toml"
 +++
 
-Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement](@/o/ppw.md)'s major show of 2025, held on 7th of June 2025, at [Mińska 65](@/v/minska-65.md) in Warsaw, which is the same venue that held [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement's](@/o/ppw.md) major show of 2025, held on the 7th of June 2025 at [Mińska 65](@/v/minska-65.md) in Warsaw, which is the same venue that held [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ## Build-up
 
@@ -63,18 +63,18 @@ Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement](@/o/ppw.md)'s major show of
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-## Highlights
+### Highlights
 
-* For the ladder match, Marco Hammers dyed and shaved his beard to copy Jeff Hardy's look, and also used his entrance routine including music.
-* However, in the actual match, it turned out he might have lied on his resumé, as he seemed to be afraid of heights, and needed a lot of time to scale any ladder.
-* In a comedic spot, Marco found the smallest ladder available, about a meter in size, and called two referees to hold it down for him as he climbed.
-* In the Undead Beerbath Match, Zombie Johnny was significantly slower and less resourceful than his usual self, but also quite more resilient, no-selling many of Dobroniak's attacks. However, he was finally tied down with a length of barbed wire, and carried to the non-alcoholic beer-filled bathtub.
+* For the ladder match, Marco Hammers dyed and shaved his beard to copy Jeff Hardy's look, and also used Jeff's entrance routine, including music.
+* In the actual match, however, it turned out Marco might have lied on his resumé as he seemed to be afraid of heights, and needed a lot of time to scale any ladder.
+* In a comedic spot, Marco found the smallest ladder available, about a metre high, and called two referees to hold it down for him as he climbed.
+* In the Undead Beerbath Match, Zombie Johnny was significantly slower and less resourceful than his usual self, but also quite more resilient, no-selling many of Dobroniak's attacks. However, he was finally tied down with a length of barbed wire, and carried to the bathtub filled with non-alcoholic beer.
 * As Johnny woke up from his zombified state, he celebrated together with Dobroniak and the fans, both apparently forgetting about their rivalry for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
-* After an unfortunate ref bump, Gabriel pinned Vic but with no one to count. Moments later, Oskar Aleksander intervened unexpectedly, attacked Queen with a chair then handed it to Vic. Exiting the ring, he rolled the ref back in for a slow three-count on the badly beaten Queen.
-* The "Cieśla Match" involved many tables, and many creative ways to break them. In a dangerous spot, a ladder nearly missed some of the crowd after being thrown out of the ring.
-* Goblin's entrance routine fooled fans not once but twice: when the music hit, a character wearing the Goblin mask and his ring gear entered but remained standing in the entryway. He was followed by another one, wearing Goblin's white-and-green trunks. That was also not the real Goblin, who entered third, in a golden-painted mask, fire-motif trunks and new jacket with Goblin's eye symbol.
-* In the main event's final No Holds Barred chapter, the wrestlers made a lot of callbacks to their previous matches and storylines. The barbed-wire crown from [Ledwo Legalne 4][ll4] made a return, as well as the chain with collars on both ends used in [Goblin vs Olgierd][teraz-albo-nigdy]. Gustav also lifted a section of the metal barriers into the ring, and used it on his opponent. Vicious belt strikes by Gustav called back to his [match against Samson][cozanoc].
-* In the final moments, opponents were brawling outside the ring, when Goblin set up a table near the entrance, and climbed a steel structure for the final splash.
+* After an unfortunate ref bump Gabriel pinned Vic, but there was no one to count. Moments later Oskar Aleksander intervened unexpectedly, attacked Queen with a chair and handed it to Vic. Exiting the ring, he rolled the ref back in for a slow three-count on the badly beaten Queen.
+* The "Cieśla Match" involved multiple tables, and many creative ways to break them. In a dangerous spot, a ladder barely missed some of the crowd after being thrown out of the ring.
+* Goblin's entrance routine fooled fans not once, but twice: when the music hit, a character wearing the Goblin mask and his ring gear entered but remained standing in the entryway. He was followed by another one, wearing Goblin's white-and-green trunks. That was also not the real Goblin, who entered third, in a gold-painted mask, fire-motif trunks and a new jacket with Goblin's eye symbol.
+* In the main event's final No Holds Barred chapter, the wrestlers made a lot of callbacks to their previous matches and storylines. The barbed-wire crown from [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) made a return, as did the chain with collars on both ends used in [Goblin vs Olgierd](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). Gustav also lifted a section of the metal barriers into the ring, and used it on his opponent. Vicious belt strikes by Gustav called back to his [match against Samson](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
+* In the final moments opponents were brawling outside the ring, when Goblin set up a table near the entrance, and climbed a steel structure for the final splash.
 
 ## References
 
@@ -85,6 +85,3 @@ Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement](@/o/ppw.md)'s major show of
 [marco-dzwoni]: https://www.facebook.com/reel/1532002251118652
 [szalony-profesor]: https://www.facebook.com/reel/3307021946119896
 [le-protocole]: https://www.facebook.com/photo/?fbid=1257514683045588&set=a.499910772139320
-[ll4]: @/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md
-[cozanoc]: @/e/ppw/2024-10-26-ppw-co-za-noc.md
-[teraz-albo-nigdy]: @/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md
