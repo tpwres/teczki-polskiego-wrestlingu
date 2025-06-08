@@ -199,11 +199,17 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Singles match
     en: '[KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md)'
     ed: 2025-01-24
-- - '[Chemik](@/w/chemik.md) (c)'
+- - 'Chemik (c)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - s: 'Street Fight'
     en: '[KPW Arena 28: Zły Omen](@/e/kpw/2025-04-11-kpw-arena-28.md)'
     ed: 2025-04-11
+- - 'Chemik (c)'
+  - 'Luca De Leone'
+  - s: 'Singles Match'
+    en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
+    ed: 2025-06-20
+    nc: upcoming
 {% end %}
 
 ## References
