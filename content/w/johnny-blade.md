@@ -45,34 +45,39 @@ During the backyard years of PpW, Johnny - as his numerous characters - managed 
 #### Going pro
 
 With PpW's transformation into a professional federation, Johnny Blade became one of the most important roster members.
-His main expertise were ultraviolent matches, with his No Rope Barbed Wire Death Match against Viking at [Bijatyka Dla Piesków](content/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md) being the first official ultraviolent match in PpW's professional history.
-At [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) Johnny faced Viking once again in a Chaos Gods Deathmatch, for both the VcV Ultraviolent Championship and the newly created [PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
-The Polish wrestler emerged victorious from that bout, becoming the first Polish Ultraviolent Champion. His reign as the PpW UV Champion lasted 112 days, before he lost it to [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a Three Way Match at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) in September 2022. He dropped the VcV Championship to Viking later the same night.
+His main expertise were ultraviolent matches, with his No Rope Barbed Wire Death Match against Viking at [Bijatyka Dla Piesków][pieski] being the first official ultraviolent match in PpW's professional history.
+At [Ledwo Legalne II][ll2] Johnny faced Viking once again in a Chaos Gods Deathmatch, for both the VcV Ultraviolent Championship and the newly created [PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
+The Polish wrestler emerged victorious from that bout, becoming the first Polish Ultraviolent Champion. His reign as the PpW UV Champion lasted 112 days, before he lost it to [Stanisław Van Dobroniak][dobroniak] in a Three Way Match at [Brak Mi Słów][bms] in September 2022. He dropped the VcV Championship to Viking later the same night.
 
 #### Feud with Mandecky and Mister Z
 
 When [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md) took over PpW in May 2022, after buying it from kayfabe owner [Sun Ju](@/w/rob-scaffold.md), [Mister Z](@/w/mister-z.md) - a long time friend of Johnny Blade - formed a partnership with the new owner.
 Johnny himself almost immediately got into a heated conflict with Mandecky, who despised Johnny for his anti-authoritarian stance.
 The opportunistic Mister Z gladly accepted any offer from Mandecky to secure his high position on the card, and matches with top-level wrestlers Mandecky could bring in to PpW.
-At [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md) in June 2023, Mister Z reluctantly agreed to Jerry's offer to face his old friend and fan-favourite Johnny Blade in a Singapore Cane Match. Following a brutal bout, Mister Z ultimately turned full-on heel after Mandecky's enforcer, [Kapitan Bazooka](@/w/kapitan-bazooka.md), handcuffed the beaten-up Blade to the ropes, in order to punish him for his disobedient behaviour against Mandecky.
+At [Ledwo Legalne III][ll3] in June 2023, Mister Z reluctantly agreed to Jerry's offer to face his old friend and fan-favourite Johnny Blade in a Singapore Cane Match. Following a brutal bout, Mister Z ultimately turned full-on heel after Mandecky's enforcer, [Kapitan Bazooka](@/w/kapitan-bazooka.md), handcuffed the beaten-up Blade to the ropes, in order to punish him for his disobedient behaviour against Mandecky.
 
 #### Championship pursuit
 
-After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md), occasionally teaming up with him for the rest of 2023 as The Hardcores. At [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) they lost a Tag Team Match against Stanisław Van Dobroniak and [Steve Kuningas](@/w/steve-kuningas.md). According to their agreement with PpW's producer - Mister Z - due to defeat both of The Hardcores were banned from earning any title shots in PpW. This defeat led to feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024, which Blade & Biesiad won.
-At the next show, [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md), Johnny made himself the special guest referee in an ultraviolent match between Dobroniak vs [Alex Arthur](@/w/alex-arthur.md), and forced Mister Z to lift his ban on competing for the UV Championship. Mister Z agreed and that led Johnny to be considered next in line for his long-lost PpW Ultraviolent Championship. The match took place at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). It was a Born to be Wired Four Way Elimination Match with Alex Arthur and Isnorr added to the mix, however it was Blade who managed to score the ultimate victory and regain the championship.
+After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md), occasionally teaming up with him for the rest of 2023 as The Hardcores. At [Czyste Intencje][intencje] they lost a Tag Team Match against Stanisław Van Dobroniak and [Steve Kuningas](@/w/steve-kuningas.md). According to their agreement with PpW's producer - Mister Z - due to defeat both of The Hardcores were banned from earning any title shots in PpW. This defeat led to feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia][miasto] in February 2024, which Blade & Biesiad won.
+At the next show, [Ewenement Haze][haze], Johnny made himself the special guest referee in an ultraviolent match between Dobroniak vs [Alex Arthur](@/w/alex-arthur.md), and forced Mister Z to lift his ban on competing for the UV Championship. Mister Z agreed and that led Johnny to be considered next in line for his long-lost PpW Ultraviolent Championship. The match took place at [Ledwo Legalne IV][ll4]. It was a Born to be Wired Four Way Elimination Match with Alex Arthur and Isnorr added to the mix, however it was Blade who managed to score the ultimate victory and regain the championship.
 
 #### Feud with Isnorr
 
-At [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) Johnny set up his first title defence against the Ultraviolent specialist of [Zmowa](@/tt/zmowa.md): Isnorr, who had been feuding with Blade in the past, citing his hatred towards "backyard guys" as the main reason to take Blade down. Johnny was able to score a victory over Isnorr. At [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) Johnny hosted an Insane Wheel of Fortune Gauntlet Invitational Match, where Isnorr reappeared and defeated the host.
-He later confirmed his ambitions for a rematch and scored another victory over Blade and his partner [Samson](@/w/samson.md) in a match where he partnered with [Gustav Gryffin](@/w/gustav-gryffin.md) at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). The official rematch took part at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), and this time Johnny Blade was unable to sucessfully defend his championship against Isnorr.
+At [Ale Grzeje][grzeje] Johnny set up his first title defence against the Ultraviolent specialist of [Zmowa](@/tt/zmowa.md): Isnorr, who had been feuding with Blade in the past, citing his hatred towards "backyard guys" as the main reason to take Blade down. Johnny was able to score a victory over Isnorr. At [Hardcore Friday X4][hfx4] Johnny hosted an Insane Wheel of Fortune Gauntlet Invitational Match, where Isnorr reappeared and defeated the host.
+He later confirmed his ambitions for a rematch and scored another victory over Blade and his partner [Samson](@/w/samson.md) in a match where he partnered with [Gustav Gryffin](@/w/gustav-gryffin.md) at [Hardcore Friday 2][hf2]. The official rematch took part at [Co Za Noc][cozanoc], and this time Johnny Blade was unable to sucessfully defend his championship against Isnorr.
 
 #### Feud with Mister Z
 
-After the villainous stable Zmowa lost to face stable Zmowa Przeciwko Zmowie led by Biesiad at Co Za Noc, Mister Z focused on taking revenge on Biesiad Strong and Johnny Blade - his former friends. He tried to suspend them from the federation during [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), but the duo bought regular tickets to get into the show, and were able to assist [Axel Fox](@/w/axel-fox.md) in a confrontation against Z and Legia Łysych.
+After the villainous stable Zmowa lost to face stable Zmowa Przeciwko Zmowie led by Biesiad at Co Za Noc, Mister Z focused on taking revenge on Biesiad Strong and Johnny Blade - his former friends. He tried to suspend them from the federation during [Gruba Przesada][przesada], but the duo bought regular tickets to get into the show, and were able to assist [Axel Fox](@/w/axel-fox.md) in a confrontation against Z and Legia Łysych.
 
-After Johnny took on [Marco Hammers](@/w/marco-hammers.md) in a Vodka Match at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md), Mister Z managed to capture him and set Johnny as a lure for Biesiad. This led to Mister Z vs Johnny Blade III which took place at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). In a brutal match Blade was defeated and beaten up to provoke Biesiad, but despite his injuries Blade made yet another appearance that night, when he took part in 20 Typa 20 Broni Match.
+After Johnny took on [Marco Hammers](@/w/marco-hammers.md) in a Vodka Match at [Hardcore Friday 21.000][hf21k], Mister Z managed to capture him and set Johnny as a lure for Biesiad. This led to Mister Z vs Johnny Blade III which took place at [Teraz Albo Nigdy][teraz]. In a brutal match Blade was defeated and beaten up to provoke Biesiad, but despite his injuries Blade made yet another appearance that night, when he took part in 20 Typa 20 Broni Match.
 
-The further involvement of PM shooter mercenaries, as decribed in a [separate article](@/a/pm-shooter-saga.md), led to Johnny's presumed death. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he rose from the grave and returned as a zombie-like persona, calling out [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
+The further involvement of PM shooter mercenaries, as decribed in a [separate article](@/a/pm-shooter-saga.md), led to Johnny's presumed death. At [Ostatnia Prosta][prosta] he rose from the grave and returned as a zombie-like persona, calling out [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
+
+Before [Ledwo Legalne 5][ll5] Dobroniak posted his promo on social media, where he assumed a persona of Professor Dobroniak. His scientific research was focused on getting rid of Zombie Johnny, preferably without killing him.
+The most humane way was to submerge the zombie in non-alcoholic beer, which, the Professor was certain, would restore Johnny to his normal state.
+
+In their match at the show, Zombie Johnny had a striking new look, and was also different from his regular persona, mostly shambling slowly towards Dobroniak trying to eat his brain. He was significantly less smart, but also much more resilient to damage, no-selling many of Dobroniak's attacks. Dobroniak was able to tie him down with a length of barbed wire, and dunk Johnny in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
 
 ### Dream Factory Wrestling (2017)
 
@@ -110,3 +115,21 @@ In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), wh
   - PPW Tag Team Championship (1 time; with [Automatico](@/w/rob-scaffold.md))
 
 [wola-wwa]: https://en.wikipedia.org/wiki/Wola
+[pieski]: @/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md
+[dobroniak]: @/w/stanislaw-van-dobroniak.md
+[ll2]: @/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md
+[bms]: @/e/ppw/2022-09-10-ppw-brak-mi-slow.md
+[ll3]: @/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md
+[intencje]: @/e/ppw/2023-09-09-ppw-czyste-intencje.md
+[miasto]: @/e/ppw/2024-02-10-ppw-miasto-bezprawia.md
+[haze]: @/e/ppw/2024-04-20-ppw-ewenement-haze.md
+[ll4]: @/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md
+[grzeje]: @/e/ppw/2024-07-13-ppw-ale-grzeje.md
+[hfx4]: @/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md
+[hf2]: @/e/ppw/2024-09-20-ppw-hardcore-friday-2.md
+[cozanoc]: @/e/ppw/2024-10-26-ppw-co-za-noc.md
+[przesada]: @/e/ppw/2025-01-25-ppw-gruba-przesada.md
+[hf21k]: @/e/ppw/2025-02-21-ppw-hardcore-friday.md
+[teraz]: @/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md
+[prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
+[ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
