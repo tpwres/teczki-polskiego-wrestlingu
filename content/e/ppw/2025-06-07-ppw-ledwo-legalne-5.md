@@ -63,17 +63,17 @@ Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement](@/o/ppw.md)'s major show of
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Highlights
+## Highlights
 
 * For the ladder match, Marco Hammers dyed and shaved his beard to copy Jeff Hardy's look, and also used his entrance routine including music.
 * However, in the actual match, it turned out he might have lied on his resumé, as he seemed to be afraid of heights, and needed a lot of time to scale any ladder.
 * In a comedic spot, Marco found the smallest ladder available, about a meter in size, and called two referees to hold it down for him as he climbed.
-* In the Undead Beerbath Match, Zombie Johnny was significantly slower and less resourceful than his usual self, but also quite more resilient, no-selling many of Dobroniak's attacks. However, he was finally tied down with a length of barbed wire, and carried to the beer-filled bathtub.
+* In the Undead Beerbath Match, Zombie Johnny was significantly slower and less resourceful than his usual self, but also quite more resilient, no-selling many of Dobroniak's attacks. However, he was finally tied down with a length of barbed wire, and carried to the non-alcoholic beer-filled bathtub.
 * As Johnny woke up from his zombified state, he celebrated together with Dobroniak and the fans, both apparently forgetting about their rivalry for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
 * After an unfortunate ref bump, Gabriel pinned Vic but with no one to count. Moments later, Oskar Aleksander intervened unexpectedly, attacked Queen with a chair then handed it to Vic. Exiting the ring, he rolled the ref back in for a slow three-count on the badly beaten Queen.
 * The "Cieśla Match" involved many tables, and many creative ways to break them. In a dangerous spot, a ladder nearly missed some of the crowd after being thrown out of the ring.
 * In the main event's final No Holds Barred chapter, the wrestlers made a lot of callbacks to their previous matches and storylines. The barbed-wire crown from [Ledwo Legalne 4][ll4] made a return, as well as the chain with collars on both ends used in [Goblin vs Olgierd][teraz-albo-nigdy]. Gustav also lifted a section of the metal barriers into the ring, and used it on his opponent. Vicious belt strikes by Gustav called back to his [match against Samson][cozanoc].
-* In the final moments, opponents were brawling outside, and Goblin set up a table near the entrance, and climbed a steel structure for the final splash, after which the referee declared Gustav to be out.
+* In the final moments, opponents were brawling outside the ring, when Goblin set up a table near the entrance, and climbed a steel structure for the final splash.
 
 ## References
 
