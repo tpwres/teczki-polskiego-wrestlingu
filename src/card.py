@@ -254,7 +254,7 @@ class Match:
          \s* # Eat whitespace
          (?P<people>.+) # Followed by list of participants
          \s* # Eat trailing space
-        ''', re.VERBOSE)
+        ''', re.VERBOSE|re.DOTALL) # NOTE: Dotall makes the dot in <people> regex match newlines
 
     def parse_maybe_team(self, text: str) -> Optional[Union[Participant, Team]]:
         m = Match.tag_team_re.match(text)
