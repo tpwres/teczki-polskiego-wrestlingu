@@ -116,7 +116,7 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 
 {% championship() %}
 - - '[PpW Championship](@/c/ppw-championship.md)'
-  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Goblin](@/w/goblin.md)'
   - >
     Won an additional title match immediately after [Biesiad](@/w/biesiad.md) defeated champion [Feager](@/w/feager.md) at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
