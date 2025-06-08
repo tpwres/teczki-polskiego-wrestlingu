@@ -102,6 +102,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "retard" or "loser". \
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
+* _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z. 🌶️
+* _Zjedz Mu Mózg_ - [Zombie! Johnny Blade](@/w/johnny-blade.md): "Eat His Brain", a variant of Eat His Head above.
 * _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
 * _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
