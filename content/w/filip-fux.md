@@ -53,7 +53,7 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy Of Wr
   - Flapjack (Michał) and Cutter (Filip) combination (2021-)
   - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
 * Tag Teams and stables:
-  - Bracia Fux (2021-)
+  - [Bracia Fux](@/tt/bracia-fux.md) (2021-)
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
     {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo)<br>
