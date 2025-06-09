@@ -7,7 +7,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "B90"
+        "name": "B90",
+        "description": "B90 club, where [KPW](@/o/kpw.md) held [Szlamfest](@/e/kpw/2017-02-04-kpw-szlamfest.md), [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md) and [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md).",
+        "orgs": ["kpw"]
       },
       "geometry": {
         "type": "Polygon",
