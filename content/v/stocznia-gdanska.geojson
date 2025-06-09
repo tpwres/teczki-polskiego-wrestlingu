@@ -1,82 +1,39 @@
 {
-  "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2025-06-04T22:42:32Z",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "B90"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              18.6483979,
-              54.3644178
-            ],
-            [
-              18.6488569,
-              54.3644349
-            ],
-            [
-              18.6491566,
-              54.3644492
-            ],
-            [
-              18.6491209,
-              54.3647574
-            ],
-            [
-              18.6490944,
-              54.3649863
-            ],
-            [
-              18.6486373,
-              54.3649683
-            ],
-            [
-              18.648332,
-              54.3649569
-            ],
-            [
-              18.6483243,
-              54.3649564
-            ],
-            [
-              18.6483516,
-              54.3647425
-            ],
-            [
-              18.6483761,
-              54.3645232
-            ],
-            [
-              18.6483876,
-              54.3644177
-            ],
-            [
-              18.6483979,
-              54.3644178
-            ]
-          ]
-        ]
-      }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [54.362442/18.651491]
     },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [18.652512, 54.362198]
-        },
-        "properties": {
-            "type": "venue",
-            "name": "Mystic Festival Chill Zone",
-            "description": "Mystic Festival Chill Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
-            "orgs": ["ppw"]
-        }
+    "properties": {
+        "type": "venue",
+        "name": "Mystic Festival's Chill Zone",
+        "description": "Mystic Festival's Chill Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
+        "orgs": ["ppw"]
     }
-  ]
+}
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [54.364557/18.648471]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "B90",
+        "description": "B90 club, where [KPW](@/o/kpw.md) held [Szlamfest](@/e/kpw/2017-02-04-kpw-szlamfest.md), [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md) and [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md).",
+        "orgs": ["kpw"]
+    }
+}
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [54.364721/18.648439]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Plenum",
+        "description": "Plenum Hall, where [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) was held (above Drizzly Grizzly club).",
+        "orgs": ["ppw"]
+    }
 }
