@@ -7,7 +7,7 @@
     "properties": {
         "type": "historical-venue",
         "name": "Klub Karuzela",
-        "description": "Klub Karuzela",
+        "description": "Klub Karuzela, where early [DDW](@/o/ddw.md) shows were held.",
         "orgs": ["ddw"]
     }
 }
