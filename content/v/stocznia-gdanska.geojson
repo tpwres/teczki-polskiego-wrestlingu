@@ -69,12 +69,12 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [18.652512, 54.362198]
+            "coordinates": [18.651491, 54.362442]
         },
         "properties": {
             "type": "venue",
-            "name": "Mystic Festival Chill Zone",
-            "description": "Mystic Festival Chill Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
+            "name": "Mystic Festival's Chill Zone",
+            "description": "Mystic Festival's Chill Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
             "orgs": ["ppw"]
         }
     }
