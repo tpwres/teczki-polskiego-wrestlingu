@@ -30,4 +30,4 @@ The official Polish name for this project is "Teczki Polskiego Wrestlingu", whic
 
 **[Artwall](//art.tpwres.pl)** displays a slideshow of random images found throughout the site.
 
-**[Map](//carto.tpwres.pl)** displays a map of Poland marked with venues, where wrestling events took place.
+**[Carto](//carto.tpwres.pl)** displays a map of Poland marked with venues, where wrestling events took place.
