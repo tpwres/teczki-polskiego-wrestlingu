@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [54.379703, 18.621266]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Hallera 16",
+        "description": "School at Hallera 16 street, where [Arena 4](@/e/kpw/2016-11-26-kpw-arena-4.md) was held.",
+        "orgs": ["kpw"]
+    }
+}
