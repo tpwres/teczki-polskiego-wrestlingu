@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set month = page.extra.month %}{# NOTE: 1-based #}
+{% set year = page.extra.year %}
+
+{% set month_lengths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] %}
+{% if year % 4 == 0 %}{% set is_leap = 1 %}{% else %}{% set is_leap = 0 %}{% endif %}
+{% set m0 = month - 1 %} {% set month_length = month_lengths[m0] %}
+{% if month == 2 %}
+  {% set month_length = month_length + is_leap %}
+{% endif %}
+{# Number of days from 2000-01-01 to start of each year, starting at 2020 #}
+{% set year_start_offsets = [7305, 7671, 8036, 8401, 8766, 9132, 9497, 9862, 10227, 10593, 10958, 11323, 11688, 12054, 12419, 12784, 13149, 13515, 13880] %}
+{% set y0 = year - 2020 %}{% set days_to_year = year_start_offsets[y0] %}
+{% for m in range(start=1, end=13) %}{# 1-based month number, range ends before 13 #}
+  {% if m < month %}
+    {% set m0 = m - 1 %}
+    {% set m_length = month_lengths[m0] %}
+    {% if m == 2 %}{% set m_length = m_length + is_leap %}{% endif %}
+    {% set_global days_to_year = days_to_year + m_length %}
+  {% endif %}
+{% endfor %}
+<pre style="white-space: pre-wrap">
+YEAR = {{ year }}
+MONTH = {{ month }}
+DTY {{ days_to_year }}
+</pre>
+
+{% set first_day_iso = (days_to_year + 5) % 7 + 1 %} {# ? #}
+{% set days_back = first_day_iso - 1 %}
+{% set monday_abs_days = days_to_year - days_back %}
+<pre style="white-space: pre-wrap">
+FDISO = {{ first_day_iso }}
+DB = {{ days_back }}
+M_A_D = {{ monday_abs_days }}
+</pre>
+
+{% set monday_year = year %}
+{% set monday_days = monday_abs_days %}
+<pre style="white-space: pre-wrap">
+M_Y = {{ monday_year }}
+M_D = {{ monday_days }}
+</pre>
+
+{% if monday_abs_days < days_to_year %}{# iso-week-Monday falls before start of year #}
+  {% set monday_year = year - 1 %}
+  {% set my0 = (monday_year - 2020) %} {% set prev_year_days = year_start_offsets[my0] %}
+  {% set monday_days = monday_abs_days - prev_year_days %}
+  <pre style="white-space: pre-wrap" >
+  YEAR START ADJUST
+  M_Y = {{ monday_year }}
+  M_D = {{ monday_days }}
+  </pre>
+{% else %}
+  <pre style="white-space: pre-wrap" >
+  NO ADJUST
+  M_Y = {{ monday_year }}
+  M_D = {{ monday_days }}
+  </pre>
+  {% set monday_days = monday_abs_days - days_to_year %}
+{% endif %}
+{% if monday_year % 4 == 0 %}
+  {% set monday_leap = 1 %}
+{% else %}
+  {% set monday_leap = 0 %}
+{% endif %}
+{% set monday_month = 1 %}
+{% set remaining_days =  monday_days %}
+<pre style="white-space: pre-wrap">
+M_LEAP = {{ monday_leap }}
+M_MONTH = {{ monday_month }}
+REM_DAYS = {{ remaining_days }}
+</pre>
+{% for m in range(start=1, end=13) %}
+  {% set m0 = m - 1 %} {% set m_length = month_lengths[m0] %}
+  {% if m == 2 %}{% set m_length = m_length + monday_leap %}{% endif %}
+  {% if remaining_days >= m_length %}
+    {% set_global remaining_days = remaining_days - m_length %}
+    {% set_global monday_month = monday_month + 1 %}
+    <pre>M = {{ m }} M_LEN = {{ m_length }} REM_DAYS = {{ remaining_days }}</pre>
+  {% else %}
+    {% set_global monday_month = m %}
+  {% endif %}
+{% endfor %}
+{% if remaining_days > 0 %}
+  {% set monday_year = monday_year + 1 %}
+  {% if monday_year % 4 == 0 %}
+    {% set monday_leap = 1 %}
+  {% else %}
+    {% set monday_leap = 0 %}
+  {% endif %}
+  {% set monday_month = 1 %}
+  {# And rerun the loop finding monday #}
+  {% for m in range(start=1, end=13) %}
+    {% set m0 = m - 1 %} {% set m_length = month_lengths[m0] %}
+    {% if m == 2 %}{% set m_length = m_length + monday_leap %}{% endif %}
+    {% if remaining_days >= m_length %}
+      {% set_global remaining_days = remaining_days - m_length %}
+      {% set_global monday_month = monday_month + 1 %}
+        <pre>! M = {{ m }} M_LEN = {{ m_length }} REM_DAYS = {{ remaining_days }}</pre>
+      {% else %}
+        {% set_global monday_month = m %}
+        {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+<pre style="white-space: pre-wrap">
+REM_DAYS = {{ remaining_days }}
+</pre>
+{% set monday_day = remaining_days + 1 %}
+{% set AAAA = [monday_day, monday_month, month_length] %}
+<pre style="white-space: pre-wrap">
+MONDAY_DAY = {{ monday_day }}
+MONDAY_MONTH = {{ monday_month }}
+MONTH_LENGTH = {{ month_length }}
+</pre>
+
+{# Rendering a calendar:
+We know what month and year this is.
+Check MONDAY_DAY. If it's not 1, then date belongs to previous month. Lookup how many days that month has.
+until the end of month, fill cells with dates from the previous month, then start current month.
+The cal is a grid of five rows, or maybe four if February that starts on Monday. Only start a new row
+if day isn't past end of month, but always draw the whole 7.
+{% endblock %}
