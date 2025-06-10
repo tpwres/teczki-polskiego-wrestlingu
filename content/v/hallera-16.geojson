@@ -2,7 +2,7 @@
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [54.379703, 18.621266]
+        "coordinates": [18.621266, 54.379703]
     },
     "properties": {
         "type": "historical-venue",
