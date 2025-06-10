@@ -63,6 +63,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=425355)
 * [Announcement post on Facebook](https://www.facebook.com/photo/?fbid=1096604642497925&set=a.548442050647523)
 
 [walizka]: https://www.facebook.com/photo/?fbid=1108274157997640&set=a.548442050647523
