@@ -24,6 +24,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md), in Oskar's MZW debut.
 * On 3.06.2025 MZW announced a non-tournament match between [Goblin](@/w/goblin.md) and [Erik Šlotíř](@/w/erik-slotir.md). It marks Šlotíř's MZW debut.
 * On 5.06.2025 the stipulation for the main event was revealed: a Fatal 4-Way Ladder Match, a first for MZW.
+* The fourth tournament match, revealed on 10.06.2025, was [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Febus 'The Wolf'](@/w/apollo-anderson.md).
 
 ## Card
 
@@ -41,6 +42,10 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
     nc: upcoming
 - - '[Shadow](@/w/shadow.md)'
   - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - n: Tournament qualifying match
+    nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - n: Tournament qualifying match
     nc: upcoming
 - - '???'
