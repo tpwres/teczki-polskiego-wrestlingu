@@ -51,7 +51,11 @@ Post-match, one of the PM Shooter members - apparently the leader - voiced his f
 
 ### Johnny's fate
 
-After the show, as [Michael HT](@/w/michael-ht.md) was about to deliver his parting words, the lights suddenly went out. The big screen showed a video package of necromantic rituals and a witch-like figure chanting "ćibaz Akainorbod" (_kill Dobroniak_, backwards), resulting in Johnny Blade rising from the grave. The lights came back on revealing Johnny Blade standing in the ring, looking like a zombie. He picked up the mic and called out [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md), seemingly challenging him for a match.
+After the show, as [Michael HT](@/w/michael-ht.md) was about to deliver his parting words, the lights suddenly went out. The big screen showed a video package of necromantic rituals and a witch-like figure chanting "ćibaz Akainorbod" (_kill Dobroniak_, backwards), resulting in Johnny Blade rising from the grave. The lights came back on revealing Johnny Blade standing in the ring, looking like a zombie. He picked up the mic and called out [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md), seemingly challenging him for a match. At Ledwo Legalne 5, Dobroniak won the Undead Beerbath Match by bathing Zombie Blade in non-alcoholic beer, which allowed him to exorcise the zombie and save Johnny Blade.
+
+### Aftermath
+
+In the interviews at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad and Mister Z declared truce to finish up their PM Shooter problem. However, this was not followed up in the build to [Ledwo Legalne 5](content/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) and the story was seemingly quietly finished.
 
 ## References
 
