@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [50.264453, 19.023380]
+    },
+    "properties": {
+        "name": "Klub Królestwo",
+        "description": "Klub Królestwo, where [Legacy](@/o/low.md) held their first couple of shows.",
+        "orgs": ["low"]
+    }
+}
