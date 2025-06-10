@@ -34,7 +34,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [18.648439, 54.364721]
+            "coordinates": [18.648866, 54.364814]
         },
         "properties": {
             "type": "venue",
