@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [16.772427, 51.031414]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Hala GOKiS",
+        "description": "GOKiS hall in Kąty Wrocławskie, where [DDW 5](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md) was held.",
+        "orgs": ["ddw"]
+    }
+}

@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["bwd"]
-venue = ["hala-lo2"]
+venue = ["2lo-chrzanow"]
 [extra]
 city = "Chrzanów"
 toclevel = 2

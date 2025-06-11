@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.426787, 50.494067]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Hala Widowiskowo-Sportowa OSiR II",
+        "description": "OSiR II Sports and Entertainment Hall, where [TBW 2](@/e/tbw/2010-06-05-tbw-2.md) was held.",
+        "orgs": ["tbw"]
+    }
+}

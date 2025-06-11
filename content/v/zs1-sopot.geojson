@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.569292, 54.439048]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "II Liceum Ogólnokształcące im. K.K. Baczyńskiego",
+        "description": "Schooling Complex No. 1 in Sopot, where [DDW @ Baltikon 2015](@/e/ddw/2015-07-24-ddw-baltikon.md) was held.",
+        "orgs": ["ddw"]
+    }
+}

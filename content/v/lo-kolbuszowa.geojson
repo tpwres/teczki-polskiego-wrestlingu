@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [21.769632, 50.246581]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Liceum Ogólnokształcące im. Janka Bytnara",
+        "description": "Janek Bytnar's High School in Kolbuszowa, where [DDW 7](@/e/ddw/2012-03-10-ddw-7.md) was held.",
+        "orgs": ["ddw"]
+    }
+}

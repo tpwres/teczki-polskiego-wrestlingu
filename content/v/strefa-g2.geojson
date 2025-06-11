@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [21.149092, 51.389147]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Strefa G2",
+        "description": "Strefa G2 music club, where [TBW 1](@/e/tbw/2010-02-27-tbw-1.md) was held.",
+        "orgs": ["tbw"]
+    }
+}
