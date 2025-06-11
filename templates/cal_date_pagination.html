@@ -1,0 +1,32 @@
+{% set month = page.extra.month %}
+{% set year = page.extra.year %}
+{% set prev_month = month - 1 %}
+{% if prev_month == 0 %}
+    {% set prev_month = 12 %}
+    {% set prev_year = year - 1 %}
+{% endif %}
+{% set next_month = month + 1 %}
+{% if next_month == 13 %}
+    {% set next_month = 1 %}
+    {% set next_year = year + 1 %}
+{% endif %}
+<div class="links">
+    <span>
+        {% if prev_month < 10 %}
+        {% set mm = '0' ~ prev_month %}
+        {% else %}
+        {% set mm = '' ~ prev_month %}
+        {% endif %}
+        {% set yy = prev_year | default(value=year) %}
+        <a href="/cal/{{ yy }}/{{ mm }}"> {{ month_names[prev_month] }} {{ prev_year|default(value=year) }}</a>
+    </span>
+    <span>
+        {% if next_month < 10 %}
+        {% set mm = '0' ~ next_month %}
+        {% else %}
+        {% set mm = '' ~ next_month %}
+        {% endif %}
+        {% set yy = next_year | default(value=year) %}
+        <a href="/cal/{{ yy }}/{{ mm }}"> {{ month_names[next_month] }} {{ next_year|default(value=year) }}</a>
+    </span>
+</div>
