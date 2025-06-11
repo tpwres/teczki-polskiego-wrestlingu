@@ -24,9 +24,9 @@
         {% break %}
     {% endfor %}
 {% endif %}
-<div class="day {% if other_month %}other-month{% endif %} {% if empty %}empty{% endif %}" >
-    <div class="date-num {% if cell_weekend %}weekend{% endif %}">
-        {{ cell_day }}
+<div class="day {% if other_month %}other-month{% endif %} {% if empty %}empty{% endif %} {% if cell_weekend %}weekend{% endif %}" >
+    <div class="date-num">
+        <span class="wdaynum" >{{ cell_day }}</span>
         <span class="month">{{ month_names[cell_month] }}, {{ weekday_names[weekday_num] }}</span>
     </div>
     {% for title, event_list in events %}

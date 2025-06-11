@@ -77,9 +77,19 @@ calendar {
         min-height: 5rem;
         padding: 5px;
 
-        .date-num.weekend {
+        &.weekend {
+            background: var(--accent-bg)
+        }
+
+        &.weekend .date-num {
             font-weight: bold;
         }
+
+        .wdaynum {
+            position: absolute;
+            line-height: 1.5;
+        }
+
         .month {
             display: none;
         }
@@ -107,6 +117,11 @@ calendar {
              .month {
                  display: inline;
              }
+             .wdaynum {
+                position: initial;
+                line-height: 1.5;
+             }
+        }
 
 
         }
