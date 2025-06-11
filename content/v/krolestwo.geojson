@@ -2,7 +2,7 @@
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [50.264453, 19.023380]
+        "coordinates": [19.023380, 50.264453]
     },
     "properties": {
         "name": "Klub Królestwo",

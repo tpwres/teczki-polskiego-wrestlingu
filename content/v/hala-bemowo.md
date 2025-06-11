@@ -3,6 +3,7 @@ title = "Hala Bemowo"
 template = "venue_page.html"
 [extra.geo]
 coordinates = '52.257764,20.930489'
+orgs = ['ptw']
 type = 'historical-venue'
 +++
 

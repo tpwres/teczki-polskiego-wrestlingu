@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.502438, 54.530703]
+    },
+    "properties": {
+        "name": "Okrzei 6",
+        "description": "School at Okrzei 6 street, where [KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) was held.",
+        "orgs": ["kpw"]
+    }
+}

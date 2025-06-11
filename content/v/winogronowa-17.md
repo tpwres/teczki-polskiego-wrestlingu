@@ -4,6 +4,8 @@ template = "venue_page.html"
 authors = ["M3n747"]
 [extra.geo]
 coordinates = '52.168118/21.062741'
+type = 'historical-venue'
+orgs = ['ppw']
 [extra.gallery]
 1 = { path = "winogronowa-17.jpg", caption = "The lot at Winogronowa 17 street as seen in 2024.", source = "Sewi The Referee" }
 +++
