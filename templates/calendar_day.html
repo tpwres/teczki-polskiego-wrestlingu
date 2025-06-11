@@ -24,11 +24,10 @@
         {% break %}
     {% endfor %}
 {% endif %}
-<!-- {{ colors_from_badge }} -->
 <div class="day {% if other_month %}other-month{% endif %} {% if empty %}empty{% endif %}" >
     <div class="date-num {% if cell_weekend %}weekend{% endif %}">
         {{ cell_day }}
-        <span class="month">{{ month_names[cell_month] }}</span>
+        <span class="month">{{ month_names[cell_month] }}, {{ weekday_names[weekday_num] }}</span>
     </div>
     {% for title, event_list in events %}
         {% set e = event_list[0] %}
