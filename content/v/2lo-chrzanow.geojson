@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.416549, 50.141635]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "II Liceum Ogólnokształcące im. K.K. Baczyńskiego",
+        "description": "High School No. 2 in Chrzanów, where [HWD Dzień Tortur](@/e/bwd/2003-02-01-bwd-dzien-tortur.md) was held.",
+        "orgs": ["bwd"]
+    }
+}

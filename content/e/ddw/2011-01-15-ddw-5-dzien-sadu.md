@@ -3,7 +3,7 @@ title = "DDW #5 Dzień Sądu"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ddw"]
-venue = ["gosir-katy-wroclawskie"]
+venue = ["gokis-katy-wroclawskie"]
 [extra]
 city = "Kąty Wrocławskie"
 toclevel = 2

@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.325871, 54.196725]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Zespół Szkół w Przywidzu",
+        "description": "School Complex in Przywidz, where [DDW Wrestling Art](@/e/ddw/2015-01-11-ddw-wrestling-art.md) was held.",
+        "orgs": ["ddw"]
+    }
+}

@@ -3,7 +3,7 @@ title = "DDW Wrestling Art"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ddw"]
-venue = ["przywidz"]
+venue = ["sp-przywidz"]
 [extra]
 city = "Przywidz"
 toclevel = 2

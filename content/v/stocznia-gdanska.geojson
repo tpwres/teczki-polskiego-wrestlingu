@@ -38,8 +38,8 @@
         },
         "properties": {
             "type": "venue",
-            "name": "Mystic Festival's Chill Zone",
-            "description": "Mystic Festival's Chill Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
+            "name": "Mystic Festival's Chill Out Zone",
+            "description": "Mystic Festival's Chill Out Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
             "orgs": ["ppw"]
         }
     }
