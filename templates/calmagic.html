@@ -1,10 +1,13 @@
 {% extends "base.html" %}
+{%- import "macros/career.html" as macros %}
 
 {% block content %}
 {% set month = page.extra.month %}{# NOTE: 1-based #}
 {% set year = page.extra.year %}
 
 {% set month_lengths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] %}
+{% set month_names = ["???", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] %}
+{# NOTE: Does not account for div by 100 and div by 400 #}
 {% if year % 4 == 0 %}{% set is_leap = 1 %}{% else %}{% set is_leap = 0 %}{% endif %}
 {% set m0 = month - 1 %} {% set month_length = month_lengths[m0] %}
 {% if month == 2 %}
@@ -21,105 +24,130 @@
     {% set_global days_to_year = days_to_year + m_length %}
   {% endif %}
 {% endfor %}
-<pre style="white-space: pre-wrap">
-YEAR = {{ year }}
-MONTH = {{ month }}
-DTY {{ days_to_year }}
-</pre>
 
 {% set first_day_iso = (days_to_year + 5) % 7 + 1 %} {# ? #}
-{% set days_back = first_day_iso - 1 %}
-{% set monday_abs_days = days_to_year - days_back %}
-<pre style="white-space: pre-wrap">
-FDISO = {{ first_day_iso }}
-DB = {{ days_back }}
-M_A_D = {{ monday_abs_days }}
-</pre>
-
-{% set monday_year = year %}
-{% set monday_days = monday_abs_days %}
-<pre style="white-space: pre-wrap">
-M_Y = {{ monday_year }}
-M_D = {{ monday_days }}
-</pre>
-
-{% if monday_abs_days < days_to_year %}{# iso-week-Monday falls before start of year #}
-  {% set monday_year = year - 1 %}
-  {% set my0 = (monday_year - 2020) %} {% set prev_year_days = year_start_offsets[my0] %}
-  {% set monday_days = monday_abs_days - prev_year_days %}
-  <pre style="white-space: pre-wrap" >
-  YEAR START ADJUST
-  M_Y = {{ monday_year }}
-  M_D = {{ monday_days }}
-  </pre>
+{% set days_to_fill =  first_day_iso - 1 %}
+{% set prev_month = month - 1 %}
+{% set prev_year = year %}
+{% if prev_month == 0 %}
+  {% set prev_month = 12 %}
+  {% set prev_year = prev_year - 1 %}
+{% endif %}
+{% set m0 = prev_month - 1 %}{% set prev_month_length = month_lengths[m0] %}
+{% if prev_month == 2 %}
+  {% if prev_year % 4 == 0 %}{% set is_leap = 1 %}{% else %}{% set is_leap = 0 %}{% endif %}
+  {% set prev_month_length = prev_month_length + is_leap %}
+{% endif %}
+{% if days_to_fill > 0 %}
+{% set monday_day = prev_month_length - days_to_fill + 1 %}
 {% else %}
-  <pre style="white-space: pre-wrap" >
-  NO ADJUST
-  M_Y = {{ monday_year }}
-  M_D = {{ monday_days }}
-  </pre>
-  {% set monday_days = monday_abs_days - days_to_year %}
+{% set monday_day = 1 %}
 {% endif %}
-{% if monday_year % 4 == 0 %}
-  {% set monday_leap = 1 %}
-{% else %}
-  {% set monday_leap = 0 %}
-{% endif %}
-{% set monday_month = 1 %}
-{% set remaining_days =  monday_days %}
-<pre style="white-space: pre-wrap">
-M_LEAP = {{ monday_leap }}
-M_MONTH = {{ monday_month }}
-REM_DAYS = {{ remaining_days }}
-</pre>
-{% for m in range(start=1, end=13) %}
-  {% set m0 = m - 1 %} {% set m_length = month_lengths[m0] %}
-  {% if m == 2 %}{% set m_length = m_length + monday_leap %}{% endif %}
-  {% if remaining_days >= m_length %}
-    {% set_global remaining_days = remaining_days - m_length %}
-    {% set_global monday_month = monday_month + 1 %}
-    <pre>M = {{ m }} M_LEN = {{ m_length }} REM_DAYS = {{ remaining_days }}</pre>
-  {% else %}
-    {% set_global monday_month = m %}
-  {% endif %}
-{% endfor %}
-{% if remaining_days > 0 %}
-  {% set monday_year = monday_year + 1 %}
-  {% if monday_year % 4 == 0 %}
-    {% set monday_leap = 1 %}
-  {% else %}
-    {% set monday_leap = 0 %}
-  {% endif %}
-  {% set monday_month = 1 %}
-  {# And rerun the loop finding monday #}
-  {% for m in range(start=1, end=13) %}
-    {% set m0 = m - 1 %} {% set m_length = month_lengths[m0] %}
-    {% if m == 2 %}{% set m_length = m_length + monday_leap %}{% endif %}
-    {% if remaining_days >= m_length %}
-      {% set_global remaining_days = remaining_days - m_length %}
-      {% set_global monday_month = monday_month + 1 %}
-        <pre>! M = {{ m }} M_LEN = {{ m_length }} REM_DAYS = {{ remaining_days }}</pre>
-      {% else %}
-        {% set_global monday_month = m %}
-        {% break %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-<pre style="white-space: pre-wrap">
-REM_DAYS = {{ remaining_days }}
-</pre>
-{% set monday_day = remaining_days + 1 %}
-{% set AAAA = [monday_day, monday_month, month_length] %}
-<pre style="white-space: pre-wrap">
-MONDAY_DAY = {{ monday_day }}
-MONDAY_MONTH = {{ monday_month }}
-MONTH_LENGTH = {{ month_length }}
-</pre>
 
 {# Rendering a calendar:
 We know what month and year this is.
 Check MONDAY_DAY. If it's not 1, then date belongs to previous month. Lookup how many days that month has.
 until the end of month, fill cells with dates from the previous month, then start current month.
 The cal is a grid of five rows, or maybe four if February that starts on Monday. Only start a new row
-if day isn't past end of month, but always draw the whole 7.
+if day isn't past end of month, but always draw the whole 7. #}
+
+{% set all_matches = load_data(path="data/all_matches.json") %}
+{% set matches_by_date = all_matches | group_by(attribute="d") %}
+{% set venues_section = get_section(path="v/_index.md") %}
+
+{% set fill_day = monday_day %}
+{% set day = 1 %}
+{% set next_month = month + 1 %}
+{% if next_month == 13 %}{% set next_month = 1 %}{% endif %}
+{% set nm_day = 1 %}
+<style>
+calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin: 1em auto;
+    border: 1px solid var(--light-gray);
+    font-size: 1rem;
+    line-height: 1.2;
+
+    .day {
+        display: flex;
+        flex-direction: column;
+        border: 1px dotted var(--dark-gray);
+        min-height: 5rem;
+        padding: 5px;
+
+        .date-num.weekend {
+            font-weight: bold;
+        }
+        .month {
+            visibility: hidden;
+        }
+
+        .event-badges {
+            text-align: center;
+            line-height: 1.5;
+        }
+        .event-details {
+            margin-bottom: 0.5rem;
+        }
+    }
+ }
+
+ @media only screen and (max-width: 720px) {
+     calendar {
+         grid-template-columns: 1fr;
+         gap: 8px;
+         padding: 8px;
+
+         .day {
+             padding: 10px;
+
+             .month {
+                 visibility: visible;
+             }
+
+
+        }
+        .day.other-month, .day.empty {
+                display: none;
+        }
+}
+</style>
+<h2>{{ month_names[month] }} {{ year }}</h2>
+<calendar>
+{% for row in range(end=5) %}
+  {%- for col in range(end=7) -%}
+    {% if col > 4 %}
+        {% set cell_weekend = true %}
+    {% else %}
+        {% set cell_weekend = false %}
+    {% endif %}
+    {% if days_to_fill > 0 %}
+      {% set cell_day = fill_day %}
+      {% set cell_month = prev_month %}
+      {% set other_month = true %}
+      {% set_global days_to_fill = days_to_fill - 1 %}
+      {% set_global fill_day = fill_day + 1 %}
+    {% else %}
+      {% if day <= month_length %}
+        {% set cell_day = day %}
+        {% set cell_month = month %}
+        {% set other_month = false %}
+        {% set_global day = day + 1 %}
+      {% else %}
+        {% set cell_day = nm_day %}
+        {% set cell_month = next_month %}
+        {% set other_month = true %}
+        {% set_global nm_day = nm_day + 1 %}
+      {% endif %}
+    {% endif %}
+    {% include "calendar_day.html" %}
+  {%- endfor -%}
+{% endfor %}
+</calendar>
+
+{% endblock %}
+
+{% block pagination %}
+  {% include "cal_date_pagination.html" %}
 {% endblock %}

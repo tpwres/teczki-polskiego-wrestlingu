@@ -1,0 +1,70 @@
+{% if cell_month < 10 %}
+  {% set mm = '0' ~ cell_month %}
+{% else %}
+  {% set mm = '' ~ cell_month %}
+{% endif %}
+{% if cell_day < 10 %}
+  {% set dd = '0' ~ cell_day %}
+{% else %}
+  {% set dd = '' ~ cell_day %}
+{% endif %}
+{% set ymd = '' ~ year ~ '-' ~ mm ~ '-' ~ dd %}
+{% set matches_this_day = matches_by_date | get(key=ymd, default=[]) %}
+{% set events = matches_this_day | group_by(attribute="n") %}
+{% set colors_from_badge = false %}
+{% set empty = false %}
+{% if events|length == 0 %}
+    {% set empty = true %}
+{% elif events|length == 1 %}
+    {% for title, event_list in events %}
+        {% set e = event_list[0] %}
+        {% if e.o | length == 1 %}
+            {% set_global colors_from_badge = e.o[0] %}
+        {% endif %}
+        {% break %}
+    {% endfor %}
+{% endif %}
+<!-- {{ colors_from_badge }} -->
+<div class="day {% if other_month %}other-month{% endif %} {% if empty %}empty{% endif %}" >
+    <div class="date-num {% if cell_weekend %}weekend{% endif %}">
+        {{ cell_day }}
+        <span class="month">{{ month_names[cell_month] }}</span>
+    </div>
+    {% for title, event_list in events %}
+        {% set e = event_list[0] %}
+        {% if e.o | length == 1 %}
+           {% set row_org = e.o[0] %}
+           {% if row_org in config.extra.org_styles %}
+              {% set style = config.extra.org_styles | get(key=row_org) %}
+              {% set badge_row_bg = 'background: ' ~ style.bg %}
+           {% else %}
+              {% set badge_row_bg = 'background: #000' %}
+           {% endif %}
+        {% endif %}
+        <div class="event-badges" style="{{ badge_row_bg | default(value='') }}">
+            {% for org in e.o %}
+                {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+            {% endfor %}
+        </div>
+        <div class="event-details">
+            {% set path = '@/' ~ e.p %}
+            {% set url = get_url(path=path) %}
+            {% set page = get_page(path=e.p) %}
+            <a href="{{ url }}">
+              {% if page.extra.city %}
+                {% if page.extra.city is iterable %}
+                  {% set cities = page.extra.city | join(sep=" / ") %}
+                {% elif page.extra.city is string %}
+                  {% set cities = page.extra.city %}
+                {% endif %}
+              {% endif %}
+              {%- if cities and page.taxonomies.venue -%}
+                {%- set venue = page.taxonomies.venue | first -%}
+                {%- include "events/alt_venue_name_nolink.html" -%}
+              {% elif cities %}
+                {{ cities }}
+              {% endif %}
+            </a>
+        </div>
+    {% endfor %}
+</div>
