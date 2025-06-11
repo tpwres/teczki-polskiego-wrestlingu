@@ -7,6 +7,7 @@
 
 {% set month_lengths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] %}
 {% set month_names = ["???", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] %}
+{% set weekday_names = ["???", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ] %}
 {# NOTE: Does not account for div by 100 and div by 400 #}
 {% if year % 4 == 0 %}{% set is_leap = 1 %}{% else %}{% set is_leap = 0 %}{% endif %}
 {% set m0 = month - 1 %} {% set month_length = month_lengths[m0] %}
@@ -80,7 +81,7 @@ calendar {
             font-weight: bold;
         }
         .month {
-            visibility: hidden;
+            display: none;
         }
 
         .event-badges {
@@ -97,13 +98,14 @@ calendar {
      calendar {
          grid-template-columns: 1fr;
          gap: 8px;
-         padding: 8px;
+         border: none;
 
          .day {
              padding: 10px;
+             border: none;
 
              .month {
-                 visibility: visible;
+                 display: inline;
              }
 
 
@@ -115,7 +117,8 @@ calendar {
 </style>
 <h2>{{ month_names[month] }} {{ year }}</h2>
 <calendar>
-{% for row in range(end=5) %}
+{% set skip_last_row = false %}
+{% for row in range(end=6) %}
   {%- for col in range(end=7) -%}
     {% if col > 4 %}
         {% set cell_weekend = true %}
@@ -139,10 +142,13 @@ calendar {
         {% set cell_month = next_month %}
         {% set other_month = true %}
         {% set_global nm_day = nm_day + 1 %}
+        {% set_global skip_last_row = true %}
       {% endif %}
     {% endif %}
+    {% set weekday_num = col + 1 %}
     {% include "calendar_day.html" %}
   {%- endfor -%}
+    {% if skip_last_row %}{% break %}{% endif %}
 {% endfor %}
 </calendar>
 
