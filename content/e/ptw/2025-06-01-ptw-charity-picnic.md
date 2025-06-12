@@ -45,5 +45,6 @@ toclevel = 2
 ## References
 
 * [Facebook post](post-fb)
+* [Event page of charity picnic](https://www.facebook.com/events/1890305431793906)
 
 [post-fb]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02x65gmmz8R9DrqZm7qkyY4hpiycLGRwkQud4jMgnethHA6Lo9QczKB7KK4MdUGm8El
