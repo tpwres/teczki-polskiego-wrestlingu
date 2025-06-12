@@ -35,6 +35,10 @@ The title was first mentioned in a December 2024 interview for the [MyWrestling 
   - 'Gulyás Öcsi'
   - en: '[Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
     ed: 2025-05-31
+- - '[Max Speed](@/w/max-speed.md)(c)'
+  - 'Ben Rodgers'
+  - en: '[PTW Charity Picnic](@/e/ptw/2025-06-01-ptw-charity-picnic.md)'
+    en: 2025-06-01
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
