@@ -8,6 +8,8 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+[extra.gallery]
+1 = { path = "hannah-taylor.jpg", caption = "Image announcing Hannah Taylor.", source = "Official PTW Facebook" }
 +++
 
 "Złoto Dla Zuchwałych" (_Gold for the Bold_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
@@ -17,6 +19,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 ## Build up
 
 * At the [previous show](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Pawłowski created his new faction, "Nietykalni" (_The Untouchables_), consisting of [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md) (known together as "Royal Rebels"), [Dawid "Puncher" Seńko](@/w/puncher.md) and himself. As part of the deal, he granted each of them a favour. For Alex Brave, it was the return of his discontinued talk show segment "The Brave Show" with Pawłowski as a guest, announced for PTW: Złoto Dla Zuchwałych.
+* On 12.06.2025 PTW announced Hannah Taylor from Liverpool, England, would take part in the show.
 
 ## Card
 
@@ -25,6 +28,9 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: 'The Brave Show'
     nc: upcoming
+- - 'Hannah Taylor'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ## References
