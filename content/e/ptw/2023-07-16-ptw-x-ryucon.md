@@ -21,7 +21,7 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 - ["[Marco Hammers](@/w/marco-hammers.md); [Karyna](@/w/karyna.md)", "[Boro](@/w/boro.md)"]
 - ['[Syriusz Dziedzic](@/w/dziedzic.md)', '[Marcelito](@/w/marcelito.md)']
 - ['[Diana Strong](@/w/diana-strong.md)', '[Vic Golden](@/w/vic-golden.md)']
-- ["[Krampus](@/w/krampus.md); [Sinister](@/w/sinister.md); [Syriusz Dziedzic](@/w/dziedzic.md)",
+- ["[Krampus](@/w/krampus.md) w/ [Sinister](@/w/sinister.md) & [Syriusz Dziedzic](@/w/dziedzic.md)",
   '[Samson](@/w/samson.md)']
 - ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', "[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)"]
 - - '[Puncher](@/w/puncher.md)'
