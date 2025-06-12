@@ -27,4 +27,8 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
     nc: upcoming
 {% end %}
 
+## References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=426947)
+
 [zloto]: https://en.wikipedia.org/wiki/Kelly%27s_Heroes
