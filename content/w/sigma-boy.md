@@ -1,7 +1,7 @@
 +++
 title = "Sigma Boy xD"
 template = "talent_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["Szymon Iwulski"]
 [extra]
 toclevel = 2
 [taxonomies]
