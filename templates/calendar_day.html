@@ -55,20 +55,25 @@
             {% set path = '@/' ~ e.p %}
             {% set url = get_url(path=path) %}
             {% set page = get_page(path=e.p) %}
-            <a href="{{ url }}">
-              {% if page.extra.city %}
-                {% if page.extra.city is iterable %}
-                  {% set cities = page.extra.city | join(sep=" / ") %}
-                {% elif page.extra.city is string %}
-                  {% set cities = page.extra.city %}
-                {% endif %}
+            {% if page.extra.city %}
+              {% if page.extra.city is iterable %}
+                {% set cities = page.extra.city | join(sep=" / ") %}
+              {% elif page.extra.city is string %}
+                {% set cities = page.extra.city %}
               {% endif %}
+            {% endif %}
+            <a href="{{ url }}">
+              <span class="city-venue">
               {%- if cities and page.taxonomies.venue -%}
                 {%- set venue = page.taxonomies.venue | first -%}
                 {%- include "events/alt_venue_name_nolink.html" -%}
               {% elif cities %}
                 {{ cities }}
               {% endif %}
+              </span>
+              <span class="name">
+                  {{ e.n }}
+              </span>
             </a>
         </div>
     {% endfor %}
