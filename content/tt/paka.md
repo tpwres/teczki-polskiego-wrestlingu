@@ -58,6 +58,9 @@ Despite not appearing since September 2023, Boro had not officialy [quit the pro
 #### Encore
 
 While Boro and Taras seemingly retired, Disco Pablo continued to compete on the Polish scene, in [Maniac Zone Wrestling](@/o/mzw.md) as well as [Legacy of Wrestling](@/o/low.md). At [Legacy #1](@/e/low/2024-12-01-low-1.md) Pablo held a musical chairs contest, but during the game a masked assailant barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking and revealing himself to be Taras, he finished off Pablo with a GTS and put Małecki through a table. Subsequently, Taras stated that he'd been abadoned by his partners almost eight months prior and declared that PAKA was officially disbanded.
+At [Legacy of Wrestling vol. 2](content/e/low/2025-04-06-low-2.md), Disco Pablo and Taras had a face-off in the ring. While Taras aired his grievances against former teammates and fans, Disco Pablo challenged Taras to a match for the 3rd show, giving him the choice of stipulation. Taras begrudgingly accepted.
+[MZW Green Madness](content/e/mzw/2025-06-28-mzw-green-madness.md) saw [PAKA](@/tt/paka.md)'s quasi-reunion, with [Disco Pablo](@/w/disco-pablo.md) enlisting [Boro](@/w/boro.md)'s help to take on [Legia Łysych](@/tt/legia-lysych.md).
+At [Legacy of Wrestling vol. 3](content/e/low/2025-07-11-low-3.md), Disco Pablo is set to face Taras in a Street Fight match, with Boro as special guest referee.
 
 ## Members
 
