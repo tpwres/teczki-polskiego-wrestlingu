@@ -30,7 +30,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 
 ## Card
 
-{% card () %}
+{% card() %}
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'

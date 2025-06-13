@@ -21,7 +21,7 @@ toclevel = 2
 
 ## Card
 
-{% card () %}
+{% card() %}
 - - 'Daniel Razor'
   - 'Sigma Boy xD'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
