@@ -8,6 +8,7 @@
 {% set month_lengths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] %}
 {% set month_names = ["???", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] %}
 {% set weekday_names = ["???", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ] %}
+{% set weekday_names_short = ["???", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun" ] %}
 {# NOTE: Does not account for div by 100 and div by 400 #}
 {% if year % 4 == 0 %}{% set is_leap = 1 %}{% else %}{% set is_leap = 0 %}{% endif %}
 {% set m0 = month - 1 %} {% set month_length = month_lengths[m0] %}
@@ -63,6 +64,9 @@ if day isn't past end of month, but always draw the whole 7. #}
 {% set nm_day = 1 %}
 <h2>{{ month_names[month] }} {{ year }}</h2>
 <calendar>
+    {% for i in range(start=1, end=8) %}
+    <div class="wday-header">{{ weekday_names_short[i] }}</div>
+    {% endfor %}
 {% set skip_last_row = false %}
 {% for row in range(end=6) %}
   {%- for col in range(end=7) -%}
@@ -92,7 +96,7 @@ if day isn't past end of month, but always draw the whole 7. #}
       {% endif %}
     {% endif %}
     {% set weekday_num = col + 1 %}
-    {% include "calendar_day.html" %}
+    {% include "cal/day.html" %}
   {%- endfor -%}
     {% if skip_last_row %}{% break %}{% endif %}
 {% endfor %}
@@ -101,5 +105,5 @@ if day isn't past end of month, but always draw the whole 7. #}
 {% endblock %}
 
 {% block pagination %}
-  {% include "cal_date_pagination.html" %}
+  {% include "cal/pagination.html" %}
 {% endblock %}
