@@ -1,0 +1,86 @@
+calendar
+  display: grid
+  grid-template-columns: repeat(7, 1fr)
+  margin: 1em auto
+  border: 1px solid var(--light-gray)
+  font-size: 1rem
+  line-height: 1.2
+
+  .day
+    display: flex
+    flex-direction: column
+    border: 1px dotted var(--dark-gray)
+    min-height: 5rem
+    padding: 0 5px 5px
+
+    &.other-month
+      color: var(--light-gray)
+
+    &.weekend
+      background: var(--accent-bg)
+      .date-num
+        font-weight: bold
+
+    .wdaynum
+      position: absolute
+      line-height: 1.5
+
+    .wdayname
+      display: none
+
+    .event-badges
+      text-align: center
+      line-height: 1.5
+      margin: 0 -5px
+
+    .event-details
+      display: flex
+      margin-bottom: .5rem
+
+      a span.name
+        display: none
+
+  @media only screen and (max-width: 720px)
+    grid-template-columns: 1fr
+    gap: 8px
+    border: none
+    font-size: inherit
+
+    .day
+      padding: 10px
+      border: none
+
+      &.other-month,
+      &.empty
+        display: none
+
+      .date-num
+        font-size: 1.44rem
+        display: flex
+        justify-content: space-between
+
+      .wdayname
+        display: inline
+
+      .wdaynum
+        color: var(--text) !important
+        position: initial
+        line-height: 1.5
+
+      .event-details
+        display: block
+        margin-bottom: 1rem
+
+        a
+          display: flex
+          justify-content: space-between
+
+        a span.name
+          order: 1
+          display: unset
+
+        a span.city-venue
+          order: 2
+
+      .event-badges
+        margin: 0
