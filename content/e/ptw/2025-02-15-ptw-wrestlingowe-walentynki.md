@@ -17,7 +17,7 @@ manifest = "@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki-gallery.toml"
 A tournament for the newly created [PTW Underground Championship](@/c/ptw-underground-championship.md) started at this show. It began with a round of four quarter-final matches followed by two semi-finals. Due to a (kayfabe) injury of one of the finalists, the finals were postponed until the next show, [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md), with the added stipulation of a _Ladder Match_.
 
 Team Turbulence, making their debut in the main PTW organization, are also the current PTW/WWA Tag Team Champions, but their titles were not at stake in the championship match.
-The [Underground Championship](@/c/ptw-underground-championship.md) tournament saw two debuts: Hungarian wrestler and stuntman with nine years of experience, Ken Pyro, as well as graduate of [PTW Academy](@/o/ptw-academy.md), Sigma Boy xD. The [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament continued with an unannounced match between Kiara and Betty Boa. It was never revealed, however, which round of the tournament this match was.
+The [Underground Championship](@/c/ptw-underground-championship.md) tournament saw two debuts: Hungarian wrestler and stuntman with nine years of experience, Ken Pyro, as well as graduate of [PTW Academy](@/o/ptw-academy.md), [Sigma Boy xD](@/w/sigma-boy.md). The [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament continued with an unannounced match between Kiara and Betty Boa. It was never revealed, however, which round of the tournament this match was.
 
 ## Build-up
 
@@ -36,7 +36,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: 'Pawłowski opens the show and hands Max Speed [PTW Awards trophies](@/a/ptw-awards-2024.md)'
 - - '[Max Speed](@/w/max-speed.md)'
-  - 'Sigma Boy xD'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
 - - '[Blaze](@/w/blaze.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
