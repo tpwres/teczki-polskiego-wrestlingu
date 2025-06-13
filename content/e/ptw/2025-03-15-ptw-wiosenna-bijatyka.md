@@ -25,7 +25,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Pawłowski opens the show
 - - '[Alex Brave](@/w/alex-brave.md)'
-  - 'Sigma Boy xD'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - r: DQ

@@ -19,7 +19,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 * On April Fools Day PTW announced Andrzej Supron as the Special Guest Referee for the Main Event. They reiterated that despite the date, it is not an April Fools joke.
 * Both Chairmen appeared live on the PTW YouTube channel on separate occassions during the feud. Rather than firing shots at one another, each of them focused on calling out the competition and "traitors", making only brief references to the opponent.
 * Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against Conte, an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
-* On April 10th, PTW [announced][bestia-pas] that [Dawid "Puncher" Seńko](@/w/puncher.md) will defend his Bestya Slam Championship against the up-and-coming Sigma Boy xD.
+* On April 10th, PTW [announced][bestia-pas] that [Dawid "Puncher" Seńko](@/w/puncher.md) will defend his Bestya Slam Championship against the up-and-coming [Sigma Boy xD](@/w/sigma-boy.md).
 * On April 11th, PTW hosted another YouTube livestream with appearances by both Chairmen. They talked various topics, mainly building up their upcoming fight.
 
 ## Card
@@ -43,11 +43,12 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: 'Pawłowski announces that Spartan is not allowed to compete and is suspended for two shows.'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
-  - 'Sigma Boy xD'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - c: 'Bestya Slam Championship'
 - - 'Lucia Lee'
   - '???'
   - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md) tournament match"
+    nc: Walkover
     n: "As Lucia's never-revealed opponent did't make it, Lee automatically qualifies for the next round."
 - - 'Lucia Lee'
   - 'El G'

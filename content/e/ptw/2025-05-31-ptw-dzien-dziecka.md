@@ -46,7 +46,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - g: 'Pawłowski announces his new faction: Nietykalni.'
-- - 'Sigma Boy xD'
+- - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - 'El G'
 - - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
