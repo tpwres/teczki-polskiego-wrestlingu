@@ -25,7 +25,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * On 3.06.2025 MZW announced a non-tournament match between [Goblin](@/w/goblin.md) and [Erik Šlotíř](@/w/erik-slotir.md). It marks Šlotíř's MZW debut.
 * On 5.06.2025 the stipulation for the main event was revealed: a Fatal 4-Way Ladder Match, a first for MZW.
 * The fourth tournament match, revealed on 10.06.2025, was [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Febus 'The Wolf'](@/w/apollo-anderson.md).
-* Another non-tournament match, revealed on 13.06.2025 was [PAKA](@/tt/paka.md)'s quasi-reunion, with [Disco Pablo](@/w/disco-pablo.md) enlisting [Boro](@/w/boro.md)'s help to take on [Legia Łysych](@/tt/legia-lysych.md)
+* Another non-tournament match, revealed on 13.06.2025, was [PAKA](@/tt/paka.md)'s quasi-reunion, with [Disco Pablo](@/w/disco-pablo.md) enlisting [Boro's](@/w/boro.md) help to take on [Legia Łysych](@/tt/legia-lysych.md)
 
 ## Card
 
