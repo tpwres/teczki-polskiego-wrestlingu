@@ -6,6 +6,10 @@ calendar
   font-size: 1rem
   line-height: 1.2
 
+  .wday-header
+    text-align: center
+    border: 1px dotted var(--dark-gray)
+
   .day
     display: flex
     flex-direction: column
@@ -46,6 +50,9 @@ calendar
     border: none
     font-size: inherit
 
+    .wday-header
+      display: none
+
     .day
       padding: 10px
       border: none
@@ -58,6 +65,11 @@ calendar
         font-size: 1.44rem
         display: flex
         justify-content: space-between
+
+      &.weekend
+        background: unset
+        .date-num
+          font-weight: unset
 
       .wdayname
         display: inline
