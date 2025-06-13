@@ -6,3 +6,4 @@
 0006 = { path = "cesky-goblinek.webp", caption = "Graphic announcing a non-tournament match - [Goblin](@/w/goblin.md) vs [Erik Šlotíř](@/w/erik-slotir.md).", source = "Official MZW Facebook" }
 0007 = { path = "fatal-4-way.webp", caption = "Graphic announcing the main event stipulation - a Fatal 4-Way Ladder Match.", source = "Official MZW Facebook" }
 0008 = { path = "nu-gryffin-pogodi.webp", caption = "Graphic announcing the fourth match - [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Febus 'The Wolf'](@/w/apollo-anderson.md).", source = "Official MZW Facebook" }
+0009 = { path = "borowanie-na-dyskotece.webp", caption = "Graphic announcing a non-tournament tag-team match - [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md) vs [Boro](@/w/boro.md) & [Disco Pablo](@/w/disco-pablo.md).", source = "Official MZW Facebook" }
