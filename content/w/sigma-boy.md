@@ -48,4 +48,4 @@ Additionally, as part of the new working relationship between PTW and the Austri
 
 ## References
 
-[International debut announcement](https://www.facebook.com/photo?fbid=1288715599378324&set=a.533801284869763)
+* [International debut announcement](https://www.facebook.com/photo?fbid=1288715599378324&set=a.533801284869763)
