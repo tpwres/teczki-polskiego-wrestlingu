@@ -11,22 +11,28 @@
 {% set ymd = '' ~ year ~ '-' ~ mm ~ '-' ~ dd %}
 {% set matches_this_day = matches_by_date | get(key=ymd, default=[]) %}
 {% set events = matches_this_day | group_by(attribute="n") %}
-{% set colors_from_badge = false %}
 {% set empty = false %}
+{% set first_badge_style = false %}
 {% if events|length == 0 %}
     {% set empty = true %}
-{% elif events|length == 1 %}
+{% else %}
     {% for title, event_list in events %}
         {% set e = event_list[0] %}
-        {% if e.o | length == 1 %}
-            {% set_global colors_from_badge = e.o[0] %}
+        {% set first_org = e.o[0] %}
+        {% set_global first_badge_style = config.extra.org_styles | get(key=first_org, default=false) %}
+        {% if not first_badge_style %}
+           {% set_global first_badge_style = config.extra.org_styles.default %}
         {% endif %}
         {% break %}
     {% endfor %}
 {% endif %}
 <div class="day {% if other_month %}other-month{% endif %} {% if empty %}empty{% endif %} {% if cell_weekend %}weekend{% endif %}" >
     <div class="date-num">
-        <span class="wdaynum" >{{ cell_day }}</span>
+        {% if first_badge_style %}
+            <span class="wdaynum" style="color: {{ first_badge_style.text_fg }}" >{{ cell_day }}</span>
+        {% else %}
+            <span class="wdaynum" >{{ cell_day }}</span>
+        {% endif %}
         <span class="month">{{ month_names[cell_month] }}, {{ weekday_names[weekday_num] }}</span>
     </div>
     {% for title, event_list in events %}
