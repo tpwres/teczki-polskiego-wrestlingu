@@ -9,14 +9,14 @@
 @legend,bjpw,Excursion to Japan,/w/jacob-crane#return-to-ppw-international-career-2022-2024
 @link,Sewi,/w/sedzia-seweryn
 @link,2018,/a/grand-timeline#2018
-@link,PPW Poznań Supershow,/e/ppw/2021-07-30-ppw-poznan-supershow
-@link,PPW Backyard Total War,/e/ppw/2016-07-18-ppw-backyard-total-war
+@link,PpW Poznań Supershow,/e/ppw/2021-07-30-ppw-poznan-supershow
+@link,PpW Backyard Total War,/e/ppw/2016-07-18-ppw-backyard-total-war
 @link,DFW Recent Dreams,/e/dfw/2017-04-23-dfw-recent-dreams
 @option,minor_ticks,3m
 # graph
 [w/Aron Wake],mzw,2018-08-26,2021-07
 -,mzw,2021-06,2021-07-31,1/2
--,ppw,2021-07,2021-07-31,2/2,,PPW Poznań Supershow
+-,ppw,2021-07,2021-07-31,2/2,,PpW Poznań Supershow
 -,mzw,2021-08,2021-10-27
 -,ptw,2022-01-08,2024-06-05
 -,ppw,2024-07-13,-,1/3
@@ -30,7 +30,7 @@
 [w/Boro],mzw,2017-12,2021-01
 -,ptw,2021-10,2024-06-05
 [w/Gabriel Queen],mzw,2018-08-26,2021-06
--,ppw,2021-07,2021-07,,,PPW Poznań Supershow
+-,ppw,2021-07,2021-07,,,PpW Poznań Supershow
 -,ptw,2021-05,2023-10-01
 -,ppw,2023-11-24,-,1/2
 -,low,2024-12-01,-,2/2
@@ -44,7 +44,7 @@
 -,ppw,2022-09-10,-
 -,bjpw,2024-03-31,-,2/2
 [w/Madman Charlie],dfw,2015-06,2017-09-30
--,ppw,2016-07,2016-07-31,2/2,,PPW Backyard Total War
+-,ppw,2016-07,2016-07-31,2/2,,PpW Backyard Total War
 -,mzw,2017-12,2021-07
 -,ppw,2021-06,2021-07,2/2
 -,mzw,2021-07,2021-10-27,1/2
@@ -55,7 +55,7 @@
 [w/Olgierd],ppw,2016-04,2016-09
 -,mzw,2018-08-26,2021-06-11
 -,mzw,2021-06-11,2021-07-31,1/2
--,ppw,2021-06-11,2021-07-31,2/2,,PPW Poznań Supershow
+-,ppw,2021-06-11,2021-07-31,2/2,,PpW Poznań Supershow
 -,mzw,2021-07-31,2021-10-27
 -,ptw,2021-11,2024-06-05
 -,ppw,2024-06-08,2024-12-01
