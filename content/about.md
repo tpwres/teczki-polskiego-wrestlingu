@@ -20,13 +20,13 @@ The official Polish name for this project is "Teczki Polskiego Wrestlingu", whic
 
 **[Teams](@/tt/_index.md)** lists tag teams and stables, both domestic and international, that worked in Poland. Unlike the list of people, this one only includes teams of certain notability.
 
-**[Articles](@/a/_index.md)** contains miscellaneous entries that don't fit into the above categories.
+**[Articles](@/a/_index.md)** contains miscellaneous entries that don't fit into other categories.
 
 **[Places](@/v/_index.md)** are secondary to Events, listing important venues that hosted them, also with bits of history included.
 
 **[Championships](@/c/_index.md)** lists and tracks Polish wrestling championships.
 
-**[Matchfinder](//mf.tpwres.pl)** is a search tool to find all the matches where a given talent or talents appeared. It's also useful for viewing match history for talent who doesn't have their own article in the People section.
+**[Matchfinder](//mf.tpwres.pl)** is a search tool to find all the matches where a given talent or talents appeared. It's also useful for viewing match history of talent who don't have their own article in the People section.
 
 **[Artwall](//art.tpwres.pl)** displays a slideshow of random images found throughout the site.
 
