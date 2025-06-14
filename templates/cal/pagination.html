@@ -1,0 +1,31 @@
+{% set calendar_start_year = 2024 %}
+{% set this_year = now() | date(format="%Y") | int %}
+{% set calendar_end_year = this_year + 1 %}
+{% set month = page.extra.month %}
+{% set year = page.extra.year %}
+<div class="org-header">
+    {{ year }} Calendar
+</div>
+<div class="links">
+    {% for mon in range(start=1, end=13) %}
+      {% if mon < 10 %}{% set mm = '0' ~ mon %}{% else %}{% set mm = '' ~ mon %}{% endif %}
+      {% if mon == month %}
+        <span>{{ month_names[mon] | truncate(length=3, end="") }} </span>
+      {% else %}
+        <a href="/cal/{{ year }}/{{ mm }}">{{ month_names[mon] | truncate(length=3, end="") }}</a>
+      {% endif %}
+    {% endfor %}
+</div>
+<div class="org-header">
+    All years
+</div>
+<div class="links">
+    {% if month < 10 %}{% set mm = '0' ~ month %}{% else %}{% set mm = '' ~ month %}{% endif %}
+    {% for yy in range(start=calendar_start_year, end=calendar_end_year) %}
+        {% if yy == year %}
+          <span>{{ yy }}</span>
+        {% else %}
+          <a href="/cal/{{ yy }}/{{ mm }}">{{ yy }}</a>
+        {% endif %}
+    {% endfor %}
+</div>
