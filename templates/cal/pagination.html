@@ -12,7 +12,7 @@
       {% if mon == month %}
         <span>{{ month_names[mon] | truncate(length=3, end="") }} </span>
       {% else %}
-        <a href="/cal/{{ year }}/{{ mm }}">{{ month_names[mon] | truncate(length=3, end="") }}</a>
+        <a href="/ec/{{ year }}/{{ mm }}">{{ month_names[mon] | truncate(length=3, end="") }}</a>
       {% endif %}
     {% endfor %}
 </div>
@@ -25,7 +25,7 @@
         {% if yy == year %}
           <span>{{ yy }}</span>
         {% else %}
-          <a href="/cal/{{ yy }}/{{ mm }}">{{ yy }}</a>
+          <a href="/ec/{{ yy }}/{{ mm }}">{{ yy }}</a>
         {% endif %}
     {% endfor %}
 </div>
