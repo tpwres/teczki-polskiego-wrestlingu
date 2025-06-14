@@ -22,7 +22,7 @@ country = ["PL"]
 
 ### Prime Time Wrestling (2025-present)
 
-On January 30th, PTW announced the first quarter-final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed was going to take on a debuting rookie. The rookie turned out to be Sigma Boy xD - a bright and playful character, inspired by generation Alpha Internet culture. He was acknowledged as Speed's real life pupil from the Academy and after a competitive match, he lost in the quarter finals. In addition to appearing in his own matches, he started to occasionally support Max Speed, evening the odds when his trainer was attacked.
+On January 30th, PTW announced the first quarter-final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed was going to take on a debuting rookie. The rookie turned out to be Sigma Boy xD - a bright and playful character, inspired by Generation Alpha Internet culture. He was acknowledged as Speed's real life pupil from the Academy and after a competitive match, he lost in the quarter finals. In addition to appearing in his own matches, he started to occasionally support Max Speed, evening the odds when his mentor was attacked.
 
 At [PTW: Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md) Sigma Boy faced [Alex Brave](@/w/alex-brave.md) in a losing effort. Later that night, he countered Brave's interference in a ladder match for the PTW Underground Championship, helping Speed become the inaugural champion.
 
