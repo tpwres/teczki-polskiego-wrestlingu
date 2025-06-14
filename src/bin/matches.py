@@ -31,35 +31,22 @@ def main():
     event_pages = events_dir.glob("**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
     global_match_num = 0
+
     for path in event_pages:
+        relative_path = path.relative_to(content_dir).as_posix()
         try:
             page = EventPage(path, verbose=False)
             card = page.card
-            if not card.matches: continue
+            if not card.matches:
+                all_bouts.append(placeholder_entry(page, relative_path, global_match_num))
+                global_match_num += 1
+                continue
         except CardParseError:
             num_errors += 1
             continue
 
-        relative_path = path.relative_to(content_dir).as_posix()
-        predicted = card.params.get('predicted', False)
-        incomplete = card.params.get('incomplete', False)
-        unofficial = card.params.get('unofficial', False)
-
         for bout in card.matches:
-            info = dict(
-                d=bout.date or page.event_date,
-                o=page.orgs,
-                n=page.title,
-                m=bout,
-                p=relative_path,
-                i=global_match_num
-            )
-            if predicted:
-                info['tt'] = 'predicted'
-            elif incomplete:
-                info['tt'] = 'incomplete'
-            elif unofficial:
-                info['tt'] = 'unofficial'
+            info = match_entry(page, bout, relative_path, global_match_num, params=card.params)
 
             all_bouts.append(info)
 
@@ -94,25 +81,52 @@ def main():
         stderr.write("Errors found, aborting\n")
         exit(1)
 
-    data_dir = cwd / 'data'
+    app_simple = {name: [apr[0] for apr in bouts] for name, bouts in appearances.items()}
+    save_json('appearances.json', app_simple)
+    save_json('appearances_v2.json', appearances)
+    save_json('crew_appearances.json', crew_appearances)
+    save_json('all_matches.json', all_bouts)
+
+def save_json(filename, obj, message=None):
+    data_dir = Path.cwd() / 'data'
     data_dir.mkdir(exist_ok=True)
 
-    with (data_dir / 'appearances.json').open('w') as f:
-        print("Saving appearance map to %s" % f.name)
-        app_simple = {name: [apr[0] for apr in bouts] for name, bouts in appearances.items()}
-        json.dump(app_simple, f)
+    with (data_dir / filename).open('w') as f:
+        if message:
+            print(message)
+        json.dump(obj, f, cls=MatchEncoder)
 
-    with (data_dir / 'appearances_v2.json').open('w') as f:
-        print("Saving appearance map v2 to %s" % f.name)
-        json.dump(appearances, f)
+def match_entry(page, bout, rel_path, num, params):
+    predicted = params.get('predicted', False)
+    incomplete = params.get('incomplete', False)
+    unofficial = params.get('unofficial', False)
+    info = dict(
+        d=bout.date or page.event_date,
+        o=page.orgs,
+        n=page.title,
+        m=bout,
+        p=rel_path,
+        i=num
+    )
+    if predicted:
+        info['tt'] = 'predicted'
+    elif incomplete:
+        info['tt'] = 'incomplete'
+    elif unofficial:
+        info['tt'] = 'unofficial'
 
-    with (data_dir / 'crew_appearances.json').open('w') as f:
-        print("Saving crew appearance map to %s" % f.name)
-        json.dump(crew_appearances, f, cls=MatchEncoder)
+    return info
 
-    with (data_dir / 'all_matches.json').open('w') as f:
-        print("Saving all matches to %s" % f.name)
-        json.dump(all_bouts, f, cls=MatchEncoder)
+
+def placeholder_entry(page: EventPage, rel_path, num) -> dict:
+    return dict(
+        d=page.event_date,
+        o=page.orgs,
+        n=page.title,
+        m=None,
+        p=rel_path,
+        i=num
+    )
 
 if __name__ == "__main__":
     main()
