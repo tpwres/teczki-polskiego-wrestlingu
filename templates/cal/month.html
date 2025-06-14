@@ -62,7 +62,7 @@ if day isn't past end of month, but always draw the whole 7. #}
 {% set next_month = month + 1 %}
 {% if next_month == 13 %}{% set next_month = 1 %}{% endif %}
 {% set nm_day = 1 %}
-<h2>{{ month_names[month] }} {{ year }}</h2>
+<h3>{{ month_names[month] }} {{ year }}</h3>
 <calendar>
     {% for i in range(start=1, end=8) %}
     <div class="wday-header">{{ weekday_names_short[i] }}</div>
