@@ -26,6 +26,10 @@ Skull Evil made a few appearances in [Maniac Zone Wrestling](@/o/mzw.md), made p
 
 Skull Evil made yet another appearance on the Polish wrestling scene when he was invited to perform at PpW's show [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) in May 2022. He fought against Asara, but got himself disqualified.
 
+### Kombat Pro Wrestling (2025)
+
+Skull Evil made his debut in [Kombat Pro Wrestling](@/o/kpw.md) at [Pyrkon 2025](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md), where he faced [Zefir](@/w/zefir.md) in a hardcore match. It was the first time Skull Evil wrestled in Poland under his real name, Lukáš Mottl.
+
 ## In wrestling
 
 * Finishers:
