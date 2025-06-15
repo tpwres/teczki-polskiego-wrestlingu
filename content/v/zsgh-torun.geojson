@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.649225, 53.025859]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "ZSGH Toruń",
+        "description": "Hotel & Gastronomic Schools Complex in Toruń, where [DFW @ ZSGH Open Days](@/e/dfw/2016-04-22-dfw-zsgh-open-days.md) and [Love Hurts, Wrestling Even More](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md) were held.",
+        "orgs": ["dfw"]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.687087, 53.021192]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "3 LO Toruń",
+        "description": "Samuel Bogumił Linde's High School No. 3 in Toruń, where [DFW Christmas Brawl 2016](@/e/dfw/2016-12-06-dfw-christmas-brawl.md) was held.",
+        "orgs": ["dfw"]
+    }
+}

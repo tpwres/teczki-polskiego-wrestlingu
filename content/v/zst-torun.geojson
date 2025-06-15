@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.601739, 53.019159]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "ZST Toruń",
+        "description": "Technical Schools Complex in Toruń, where [DFW Showcase @ ZST Toruń](@/e/dfw/2016-03-10-dfw-zst.md) and [Step Two](@/e/dfw/2016-10-10-dfw-step-two.md) were held.",
+        "orgs": ["dfw"]
+    }
+}
