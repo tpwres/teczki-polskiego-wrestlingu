@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [16.645124, 51.334171]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Ośrodek Sportu i Rekreacji w Wołowie",
+        "description": "Sports and Entertainment Centre hall, where [WKSW](@/o/wksw.md) held their shows.",
+        "orgs": ["wksw"]
+    }
+}

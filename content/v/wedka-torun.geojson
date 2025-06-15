@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.609737, 53.012698]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Stowarzyszenie Dzieciom i Młodzieży WĘDKA im. każdego Człowieka",
+        "description": "Childrens' and Teenagers' Society WĘDKA in Toruń, where [DFW Dream More and Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md) was held.",
+        "orgs": ["dfw"]
+    }
+}

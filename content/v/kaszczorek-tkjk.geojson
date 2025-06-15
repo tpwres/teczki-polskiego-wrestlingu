@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.682897, 53.014848]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Toruński Klub Jazdy Konnej",
+        "description": "Toruń Equestrian Club, where [DFW @ Kaszczorek](@/e/dfw/2015-09-20-dfw-showcase.md) was held.",
+        "orgs": ["dfw"]
+    }
+}

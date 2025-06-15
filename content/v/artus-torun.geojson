@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.604488, 53.009837]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Artus Court",
+        "description": "Artus Court in Toruń, where [DFW Lesson of Respect](@/e/dfw/2016-10-29-dfw-lesson-of-respect.md) was held.",
+        "orgs": ["dfw"]
+    }
+}
