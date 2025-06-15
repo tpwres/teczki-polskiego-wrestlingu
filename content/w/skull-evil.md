@@ -31,6 +31,10 @@ Skull Evil made yet another appearance on the Polish wrestling scene when he was
 * Finishers:
   - Cutter (2016-2018)
 
+## Internet presence
+
+* [@skullevil_ on Instagram](https://www.instagram.com/skullevil_/)
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24028)

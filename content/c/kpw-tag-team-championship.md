@@ -121,6 +121,11 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
     en: '[KPW Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)'
     ed: 2024-09-07
 - - "Bracia Fux: Filip Fux, Michał Fux (c)"
+  - 'Chemik, Hans Schulte'
+  - s: Tag-Team Match
+    en: [KPW @ Pyrkon 2025](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md)
+    ed: 2025-06-14
+- - "Bracia Fux: Filip Fux, Michał Fux (c)"
   - "Tribe of Wrath: Barbarossa, Curtis Black"
   - s: Tag-Team Match
     en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
