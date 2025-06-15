@@ -3,7 +3,7 @@
 0002 = { path = "greg-vs-lesak.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
 0003 = { path = "chemik-vs-filip.webp", caption = "Image announcing [Chemik](@/w/chemik.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
 0004 = { path = "oliwa-vs-st-john.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs Toby St. John.", source = "Official KPW Facebook" }
-0005 = { path = "latomczakefir.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs Tomczak vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
+0005 = { path = "latomczakefir.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Tomczak](@/w/tomczak.md) vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
 0006 = { path = "rosetti-zaprzysiezenie.webp", caption = "Image announcing the induction ceremony of the new KPW chairman, [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
 1001 = { path = "greg-wejscie.webp", caption = "[Greg's](@/w/greg.md) entrance. [Eryk Lesak](@/w/eryk-lesak.md) waits in the corner to the left, [Referee Kinga](@/w/kinga-miotke.md) to the right.", source = "M3n747" }
 1002 = { path = "lesaks-little-tank.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) presents his new ring gear.", source = "M.Fotografika" }
@@ -24,7 +24,7 @@
 3003 = { path = "oliwa-sie-rozlal.webp", caption = "[David Oliwa](@/w/david-oliwa.md) cowers in the corner.", source = "M3n747" }
 3004 = { path = "oliwa-beers-up.webp", caption = "[David Oliwa](@/w/david-oliwa.md) drinks a fan's beer.", source = "M3n747" }
 3005 = { path = "smile-for-the-camera.webp", caption = "[David Oliwa](@/w/david-oliwa.md) speaks his mind to the camera.", source = "M3n747" }
-4001 = { path = "rosettis-ceremony-1.webp", caption = "Induction ceremony. Left to right: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md), Tomczak, [Filip Fux](@/w/filip-fux.md), [Rosetti](@/w/rosetti.md), [Piotr Opolski](@/w/piotr-opolski.md), Leon Lato's knee, [Greg](@/w/greg.md) and [Zefir](@/w/zefir.md).", source = "M3n747" }
+4001 = { path = "rosettis-ceremony-1.webp", caption = "Induction ceremony. Left to right: [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md), [Tomczak](@/w/tomczak.md), [Filip Fux](@/w/filip-fux.md), [Rosetti](@/w/rosetti.md), [Piotr Opolski](@/w/piotr-opolski.md), Leon Lato's knee, [Greg](@/w/greg.md) and [Zefir](@/w/zefir.md).", source = "M3n747" }
 4002 = { path = "rosettis-ceremony-2.webp", caption = "[Rosetti](@/w/rosetti.md) being sworn in by [Piotr Opolski](@/w/piotr-opolski.md).", source = "M3n747" }
 4003 = { path = "suddenly-malinowski.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) appears out of nowhere, and has a few harsh words for [Rosetti](@/w/rosetti.md).", source = "M.Fotografika" }
 5001 = { path = "hansel-ohne-gretel.webp", caption = "[Hans Schulte's](@/w/hans-schulte.md) entrance.", source = "M3n747" }

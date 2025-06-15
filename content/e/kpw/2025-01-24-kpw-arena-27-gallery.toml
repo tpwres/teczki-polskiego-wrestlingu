@@ -30,13 +30,13 @@
 0307 = { path = "arena-27-dawid-podsiadl.jpg", caption = "[David Oliwa](@/w/david-oliwa.md) steals a fan's seat.", source = "KPW / Extreme Sports Channel" }
 0308 = { path = "arena-27-fuxy-4.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs [David Oliwa](@/w/david-oliwa.md).", source = "Krzysztof Zych" }
 0309 = { path = "arena-27-fuxy-5.webp", caption = "[Michał Fux](@/w/michal-fux.md) with his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) after the fight.", source = "Krzysztof Zych" }
-0402 = { path = "arena-27-tomczak-i-opol.webp", caption = "The towering debutant Tomczak announced by [Piotr Opolski](@/w/piotr-opolski.md).", source = "M3n747" }
-0403 = { path = "arena-27-tomczak-1.webp", caption = "Half Michael Myers, half Hannibal Lecter, all Tomczak!", source = "Krzysztof Zych" }
-0404 = { path = "arena-27-tomczak-2.webp", caption = "Tomczak makes a stop on his way to a Slipknot convention to read from Austin 3:16.", source = "Krzysztof Zych" }
+0402 = { path = "arena-27-tomczak-i-opol.webp", caption = "The towering debutant [Tomczak](@/w/tomczak.md) announced by [Piotr Opolski](@/w/piotr-opolski.md).", source = "M3n747" }
+0403 = { path = "arena-27-tomczak-1.webp", caption = "Half Michael Myers, half Hannibal Lecter, all [Tomczak](@/w/tomczak.md)!", source = "Krzysztof Zych" }
+0404 = { path = "arena-27-tomczak-2.webp", caption = "[Tomczak](@/w/tomczak.md) makes a stop on his way to a Slipknot convention to read from Austin 3:16.", source = "Krzysztof Zych" }
 0405 = { path = "arena-27-tomczak-3.webp", caption = "Tomczak about to drive [Greg](@/w/greg.md) into the ring.", source = "Krzysztof Zych" }
-0406 = { path = "arena-27-tomczak-4.webp", caption = "Greg delivers a neckbreaker to Tomczak.", source = "Krzysztof Zych" }
+0406 = { path = "arena-27-tomczak-4.webp", caption = "Greg delivers a neckbreaker to [Tomczak](@/w/tomczak.md).", source = "Krzysztof Zych" }
 0407 = { path = "arena-27-tomczak-5.webp", caption = "Tomczak attacks [Greg](@/w/greg.md) with a kendo stick.", source = "Krzysztof Zych" }
-0408 = { path = "arena-27-tomczak-6.webp", caption = "The Towering Terror Tomczak drops Greg to the ring, as referee [Kinga](@/w/kinga-miotke.md) and acting chairman [Rosetti](@/w/rosetti.md) observe.", source = "Krzysztof Zych" }
+0408 = { path = "arena-27-tomczak-6.webp", caption = "The Towering Terror [Tomczak](@/w/tomczak.md) drops Greg to the ring, as referee [Kinga](@/w/kinga-miotke.md) and acting chairman [Rosetti](@/w/rosetti.md) observe.", source = "Krzysztof Zych" }
 0409 = { path = "arena-27-greg-i-tomczak.webp", caption = "Tomczak and [Greg](@/w/greg.md) choke each other out outside of the ring.", source = "M3n747" }
 0501 = { path = "arena-27-chemik-is-ready.webp", caption = "[Chemik](@/w/chemik.md) presents his [KPW OldTown Championship](@/c/kpw-old-town-championship.md). In the corner stands Michael Schenkenberg.", source = "M3n747" }
 0502 = { path = "arena-27-arek-paterek-posrod-ludu.jpg", caption = "[Chemik](@/w/chemik.md) argues with [Arek Paterek](@/w/arek-paterek.md), sitting in the front row.", source = "KPW / Extreme Sports Channel" }
