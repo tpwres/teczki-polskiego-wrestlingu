@@ -65,7 +65,7 @@ The tube was signed by the following people:
 - [ShowOff](@/w/piotr-malecki.md)
 - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)
 - [Syriusz Dziedzic](@/w/dziedzic.md)
-- Tomczak
+- [Tomczak](@/w/tomczak.md)
 - [Wiktor Longman](@/w/wiktor-longman.md)
 
 When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't wish to unify with people who are beneath him. [Zefir](@/w/zefir.md) refused as well, but did not say why.
