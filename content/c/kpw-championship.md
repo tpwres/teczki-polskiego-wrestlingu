@@ -227,7 +227,8 @@ Both defenses took place during events held by Bologna Wrestling Team.
     ed: 2025-04-11
 - - 'Hans Schulte (c)'
   - 'Nathan Angel'
-  - en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
+  - s: Singles Match
+    en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
     ed: 2025-06-20
     nc: upcoming
 {% end %}
