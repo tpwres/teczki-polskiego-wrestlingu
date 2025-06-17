@@ -8,8 +8,12 @@ venue=["waldorffa25"]
 city = "Warszawa"
 toclevel = 2
 [extra.gallery.1]
-path = "2023-06-17-ppw-ledwo-legalne-3-plakat.jpg"
-caption = "Official poster, imitating the movie poster for Star Wars: Revenge of the Sith. Fighting with lightsabers are [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md). The ghostlike characters around them are: [Biesiad Strong](@/w/biesiad.md), [Steve Kuningas](@/w/steve-kuningas.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and Franz Schlederer, with [Ricardo Diesel](@/w/ricardo-diesel.md) below."
+path = "2023-06-17-ppw-ledwo-legalne-3-plakat.webp"
+caption = "Official poster, imitating the movie poster for Star Wars: Revenge of the Sith. Fighting with lightsabers are [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md). The ghostlike characters around them are: [Biesiad Strong](@/w/biesiad.md), [Steve Kuningas](@/w/steve-kuningas.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and Franz Schlederer, with [Ricardo Diesel](@/w/ricardo-diesel.md) below. At the top of the image is [Adam Wong](@/w/adam-wong.md)."
+source = "Official PpW Facebook"
+[extra.gallery.2]
+path = "smocza-gwiazda.webp"
+caption = "See? Told you."
 source = "Official PpW Facebook"
 +++
 
