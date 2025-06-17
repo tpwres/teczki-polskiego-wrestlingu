@@ -22,3 +22,10 @@ Turniej Typeshit (_Typeshit Tournament_) is an upcoming show by [PpW Ewenement W
 
 {{ skip_card() }}
 
+### Recap
+
+* TBD
+
+## References
+
+* TBD
