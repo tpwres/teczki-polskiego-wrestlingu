@@ -21,12 +21,12 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 
 * At the [previous show](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Pawłowski created his new faction, "Nietykalni" (_The Untouchables_), consisting of [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md) (known together as "Royal Rebels"), [Dawid "Puncher" Seńko](@/w/puncher.md) and himself. As part of the deal, he granted each of them a favour. For Alex Brave, it was the return of his discontinued talk show segment "The Brave Show" with Pawłowski as a guest, announced for PTW: Złoto Dla Zuchwałych.
 * On 12.06.2025 PTW announced Hannah Taylor from Liverpool, England, would take part in the show.
-* On 18.06.2025 PTW shared a Facebook post revealing more details of the show:
-  * Return of Gold Rush Rumble Match, this time as a #1 Contender match for the [PTW Underground Championship](@/c/ptw-underground-championship.md)
-  * Both [PTW Underground Championship](@/c/ptw-underground-championship.md) and [PTW Championship](@/c/ptw-championship.md) will be on the line
-  * As mentioned above, the return of _The Brave Show_
-  * A women's match that will include [Diana Strong](@/w/diana-strong.md)
-  * The conflict between Nietykalni and [Okoński](@/w/lukasz-okonski.md)'s crew continues
+* On 18.06.2025 PTW shared a Facebook post revealing further details of the show:
+  * Return of the Gold Rush Rumble Match, this time as a #1 Contender match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
+  * Both the [PTW Underground Championship](@/c/ptw-underground-championship.md) and the [PTW Championship](@/c/ptw-championship.md) will be on the line.
+  * As mentioned above, the return of _The Brave Show_.
+  * A women's match that will include [Diana Strong](@/w/diana-strong.md).
+  * The conflict between Nietykalni and [Okoński's](@/w/lukasz-okonski.md) crew continues.
 
 ## Card
 
@@ -44,7 +44,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 - - '???'
   - '???'
   - '???'
-  - s: 'Gold Rush Rumble Match for [PTW Underground Championship](@/c/ptw-underground-championship.md) no#1 contender'
+  - s: 'Gold Rush Rumble Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) #1 contender'
     nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
   - '???'
