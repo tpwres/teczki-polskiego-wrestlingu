@@ -42,6 +42,8 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
   - nc: upcoming
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
+- - '???'
+  - '???'
   - '???'
   - s: 'Gold Rush Rumble Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) #1 contender'
     nc: upcoming
