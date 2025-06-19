@@ -9,8 +9,7 @@ venue = ["szafirowy-dwor"]
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
-1 = { path = "plakat-dla-zuchwalych.webp", caption = "Official poster. Left to right, on top: [Łukasz Okoński](@/w/lukasz-okonski.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md); first chevron: [Spartan](@/w/spartan.md), [Sigma Boy xD](@/w/sigma-boy.md), Hannah Taylor, [Nano Lopez](@/w/nano-lopez.md), Daniel Razor; second chevron: [Miyagi Shida](@/w/miyagi-shida.md), [Max Speed](@/w/max-speed.md), [Diana Strong](@/w/diana-strong.md), [Puncher](@/w/puncher.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Alex Brave](@/w/alex-brave.md), [Serg Sullivan](@/w/serg-sullivan.md); bottom: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md).", source = "Official PTW Facebook" }
-2 = { path = "hannah-taylor.jpg", caption = "Image announcing Hannah Taylor.", source = "Official PTW Facebook" }
+manifest = "@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych-gallery.toml"
 +++
 
 "Złoto Dla Zuchwałych" (_Gold for the Bold_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
@@ -41,8 +40,8 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '???'
   - nc: upcoming
-- - '???'
-  - '???'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '???'
   - s: 'Gold Rush Rumble Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) #1 contender'
     nc: upcoming
