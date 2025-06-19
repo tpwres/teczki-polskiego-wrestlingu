@@ -37,6 +37,11 @@ paths_keep_dates = true
 # Put all your custom variables here
 new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new"
 
+# Display matchfinder links next to unlinked names in roster pages
+mf_links_in_roster = true
+# This will be used as the link to matchfinder for a specific talent, %s substituted with their name
+mf_link_format = "//mf.tpwres.pl?q=%s"
+
 list_pages = false
 default_theme = "dark"
 header_links = [

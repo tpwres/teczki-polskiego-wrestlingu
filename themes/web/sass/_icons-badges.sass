@@ -1,20 +1,28 @@
 .ipa-play-icon
   margin-right: 0.25rem
 
-.feather
-  width: 32px
-  height: 32px
+.feather-base
   stroke: currentColor
   stroke-width: 2
   stroke-linecap: round
   stroke-linejoin: round
   fill: none
+  vertical-align: middle
+
+.feather
+  @extend .feather-base
+  width: 32px
+  height: 32px
   vertical-align: text-bottom
 
 .feather-inline,.feather-nav
   @extend .feather
   width: 1.5rem
   height: 1.5rem
+
+.feather-tl
+  @extend .feather-base
+  height: 1.15rem
 
 .badge
   &.ib

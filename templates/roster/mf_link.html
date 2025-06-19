@@ -1,0 +1,9 @@
+{% if config.extra | get(key="mf_links_in_roster", default=false) and appearances_entry | length > 1 %}
+{% set escaped_name = person_name | urlencode %}
+{% set link = config.extra.mf_link_format | replace(from="%s", to=escaped_name) %}
+<a class="mf-link" href="{{ link }}">
+    <svg class="feather-tl" viewBox="0 0 24 24">
+      <use href="{{ sprite }}#crosshair"/>
+    </svg>
+</a>
+{% endif %}
