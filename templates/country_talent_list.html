@@ -6,6 +6,7 @@
 
 {{ page.content | safe }}
 
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) | safe %}
 {% set org_styles = config.extra.org_styles %}
 {% set country_names = load_data(path="const/country_names.yml") %}
 {% set flag_dict = load_data(path='const/flags-by-code.json') %}
@@ -82,6 +83,7 @@
           <li class="{% if my_aliases|length > 0 %}pwa{% endif %}">
             <span class="pwf">
               <span class="name">{{ person_name }}</span>
+              {% include "roster/mf_link.html" %}
               {% include "roster/person_orgs_matches.html" %}
             </span>
             {% if my_aliases|length > 0 %}
