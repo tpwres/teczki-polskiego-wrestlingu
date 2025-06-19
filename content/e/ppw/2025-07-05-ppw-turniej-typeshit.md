@@ -13,7 +13,7 @@ hide_results = true
 manifest = "@/e/ppw/2025-07-05-ppw-turniej-typeshit-gallery.toml"
 +++
 
-Turniej Typeshit (_Typeshit Tournament_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). The show is set to return to [2KOŁA Motorcycle Club](@/v/2kola.md), and will feature a tournament for the [PpW Championship](@/c/ppw-championship.md) #1 Contender.
+Turniej Typeshit (_Tournament-type Shit_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). Name of the show comes from [internet slang](name). The show is set to return to [2KOŁA Motorcycle Club](@/v/2kola.md), and will feature a tournament for the [PpW Championship](@/c/ppw-championship.md) #1 Contender.
 
 ## Build-up
 
@@ -28,3 +28,5 @@ Turniej Typeshit (_Typeshit Tournament_) is an upcoming show by [PpW Ewenement W
 ## References
 
 * TBD
+
+[name](https://context.reverso.net/translation/english-polish/type+shit)
