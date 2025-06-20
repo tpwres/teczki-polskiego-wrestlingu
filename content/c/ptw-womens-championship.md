@@ -2,7 +2,7 @@
 title = "PTW Women's Championship"
 weight = 5
 template = "article.html"
-authors = ["M3n747, Iwul"]
+authors = ["M3n747", "Szymon Iwulski"]
 [extra]
 toclevel=2
 +++
