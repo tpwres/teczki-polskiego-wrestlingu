@@ -18,8 +18,14 @@ Turniej Typeshit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 ## Build-up
 
 * The show was announced on 17.06.2025. No match-ups were unveiled, but according to the poster the event will feature [Goblin](@/w/goblin.md), [Mister Z](@/w/mister-z.md), [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Oskar Aleksander](@/w/oskar-aleksander.md) and others.
+* On 20.06.2025 PpW announced the first round of the tournament - [Biesiad Strong](@/w/biesiad.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) in an ECW Rules Match.
 
-{{ skip_card() }}
+{% card(predicted=true) %}
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - s: ECW Rules Match
+    nc: upcoming
+{% end %}
 
 ### Recap
 
