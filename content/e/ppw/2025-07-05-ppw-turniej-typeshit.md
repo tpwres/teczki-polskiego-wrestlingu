@@ -29,4 +29,4 @@ Turniej Typeshit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 
 * TBD
 
-[name](https://context.reverso.net/translation/english-polish/type+shit)
+name: https://context.reverso.net/translation/english-polish/type+shit
