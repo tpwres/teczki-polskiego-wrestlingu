@@ -58,7 +58,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
   - s: Ladder Match
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - credits:
-    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'e
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
     Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
 {% end %}
