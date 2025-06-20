@@ -130,7 +130,6 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
     ed: 2025-04-06
-    nc: upcoming
 {% end %}
 
 ## References
