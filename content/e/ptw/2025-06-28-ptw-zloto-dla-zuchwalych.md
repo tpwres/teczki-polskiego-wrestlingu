@@ -26,6 +26,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
   * As mentioned above, the return of _The Brave Show_.
   * A women's match that will include [Diana Strong](@/w/diana-strong.md).
   * The conflict between Nietykalni and [Okoński's](@/w/lukasz-okonski.md) crew continues.
+* On 20.06.2025 PTW announced [Sawicki](@/w/sawicki.md) as the first entrant in Gold Rush Rumble 2. He was last seen in the ring at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) in 2020.
 
 ## Card
 
@@ -43,7 +44,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - nc: upcoming
-- - '???'
+- - '[Sawicki](@/w/sawicki.md)'
   - '???'
   - '???'
   - s: 'Gold Rush Rumble Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) #1 contender'
