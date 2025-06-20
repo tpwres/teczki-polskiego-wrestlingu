@@ -2,15 +2,23 @@
 title = "PTW Women's Championship"
 weight = 5
 template = "article.html"
-authors = ["M3n747"]
+authors = ["M3n747, Iwul"]
 [extra]
 toclevel=2
 +++
 
-The PTW Women's Championship is a professional wrestling belt created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their women's division title.
+The PTW Women's Championship will be a professional wrestling belt created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their women's division title.
 
 <!-- more -->
 
+## Statistics
+
+* First champion: TBD
+* Most reigns: 0
+* Longest reign: TBD
+* Oldest Champion: TBD
+* Heaviest Champion: TBD
+  
 ## History
 
 The title was first mentioned at [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and officially announced by PTW's owner and General Manager, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), in a December 2024 interview for the [MyWrestling YouTube channel][pawłowski-my-wrestling-live]. Pawłowski stated that a tournament would be held over the course of several shows, to crown the inaugural champion. 
@@ -18,6 +26,10 @@ The title was first mentioned at [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)
 The tournament actually started at [PTW: Nowe Porządki](content/e/ptw/2025-01-11-ptw-nowe-porzadki.md) and continued in a pace of 1 match per show. There was little transparency and the bracket was never presented, so some assumptions have to be made. After all the first round matches, there are 4 contenders left: [Diana Strong](@/w/diana-strong.md), Betty Boa, Heidi Katrina and Lucia Lee. It is likely that the next round will be semi-finals, consisting of two matches between any chosen combination between the 4.
 
 Although there were no tournament matches since [PTW: Prezes vs Prezes](content/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), PTW keeps bringing the tournament up in the programming, reiterating it is still on.
+
+## Belt design
+
+The belt design has not been revealed as of 20.06.2025
 
 ## Title history
 
