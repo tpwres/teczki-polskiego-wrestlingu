@@ -70,7 +70,8 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
   - g: 'Max Speed wants to compete, Pawłowski postpones the finals and changes it to a Ladder Match'    
 - - 'Betty Boa'
   - 'Kiara'
-  - s: "[PTW Women's Championship](@/c/ptw-womens-championship.md)' tournament match"
+  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
+    s: 'Tournament First Round Match'
 - - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
