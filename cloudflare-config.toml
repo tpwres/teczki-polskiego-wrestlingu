@@ -70,6 +70,10 @@ cloudflare = true
 gallery_root = "https://i.tpwres.pl"
 tts_root = "//unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&sl=pl&ttsMode=sentence&speed=3&voiceId=Maja"
 
+[extra.org_styles.default]
+bg = '#000'
+text_fg = '#ffffff'
+
 [extra.org_styles.ppw]
 bg = '#5b007e'
 text_fg = '#c7c7c7'
