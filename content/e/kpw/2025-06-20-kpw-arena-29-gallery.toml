@@ -8,3 +8,30 @@
 0007 = { path = "chemik-vs-leone.webp", caption = "Image announcing [Chemik](@/w/chemik.md) vs Luca De Leone.", source = "Official KPW Facebook" }
 0008 = { path = "rachu-ciachu-i-po-niemiachu.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Veit Müller](@/w/veit-mueller.md).", source = "Official KPW Facebook" }
 0009 = { path = "teufel-vs-angel.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs Nathan Angel.", source = "Official KPW Facebook" }
+0100 = { path = "luca-de-leone.webp", caption = "Luca De Leone.", source = "M3n747" }
+0200 = { path = "see-everyone-thats-greg.webp", caption = "[David Oliwa](@/w/david-oliwa.md) points at [Greg](@/w/greg.md). Next to Greg stands referee [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+0300 = { path = "flexos-flexing.webp", caption = "[Flexos](@/w/flexos.md) flexing at Eryk Lesak.", source = "M3n747" }
+0301 = { path = "subtle-homoerotic-undertones.webp", caption = "Flexos holds Lesak somewhat suggestively.", source = "M3n747" }
+0302 = { path = "zdziwko.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) unpleasantly surprised by the result.", source = "M3n747" }
+0400 = { path = "fuksy.webp", caption = "[Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md). To the left stands Barbarossa.", source = "M3n747" }
+0401 = { path = "barbarossa.webp", caption = "Barbarossa's entrance. Behind him stand [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
+0402 = { path = "filip-duszony-1.webp", caption = "[Filip Fux](@/w/filip-fux.md) choked against a rope by Barbarossa, who's counted by referee Krystian Czekaj. In the corner stands Curtis Black.", source = "M3n747" }
+0403 = { path = "filip-duszony-2.webp", caption = "Close-up of [Filip Fux](@/w/filip-fux.md) getting choked by Barbarossa.", source = "M3n747" }
+0500 = { path = "raspberry-man.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md).", source = "M3n747" }
+0501 = { path = "no-hhhyba-ty.webp", caption = "Krystian Malinowski accuses Triple H.", source = "M3n747" }
+0600 = { path = "leon-czosklamowany.webp", caption = "Tomczak chokeslams [Leon Lato](@/w/leon-lato.md) against the side of the ring, as referee [Krystian Czekaj](@/w/krystian-czekaj.md) observes.", source = "M3n747" }
+0601 = { path = "reakcja-tomczakova.webp", caption = "[Leon Lato](@/w/leon-lato.md) chains [Tomczak](@/w/tomczak.md) to a ring post for an easy victory.", source = "M3n747" }
+0602 = { path = "gg-ez.webp", caption = "[Leon Lato](@/w/leon-lato.md) victorious.", source = "M3n747" }
+0700 = { path = "zefir-on-fire.webp", caption = "[Zefir's](@/w/zefir.md) signature entrance.", source = "M3n747" }
+0701 = { path = "veit-haelt-weiter.webp", caption = "[Veit Müller](@/w/veit-mueller.md) holds [Zefir](@/w/zefir.md) against the ropes.", source = "M3n747" }
+0702 = { path = "kein-grosser-stiefel-bitte.webp", caption = "[Zefir](@/w/zefir.md) inspects the German-ness of [Veit Müller's](@/w/veit-mueller.md) socks.", source = "M3n747" }
+0800 = { path = "angel.webp", caption = "Nathan Angel.", source = "M3n747" }
+0801 = { path = "angel-holds-schulte.webp", caption = "Nathan Angel holds Hans Schulte in a delayed vertical suplex.", source = "M3n747" }
+0802 = { path = "sedzia-sprawdza-angela.webp", caption = "Referee Krystian Czekaj checks if Nathan Angel is capable of continuing the fight, as he's choked by Hans Schulte.", source = "M3n747" }
+0803 = { path = "czekaj-zaslonie-sie-tylko.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) about to hide behind referee [Krystian Czekaj](@/w/krystian-czekaj.md), as Nathan Angel primes himself to jump from the top rope.", source = "M3n747" }
+0804 = { path = "the-evil-triumphs.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) triumphs over Nathan Angel. To the right stands referee [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+0900 = { path = "promocja-w-aldim.webp", caption = "Veit Müller pulls a plasma TV from under the ring.", source = "M3n747" }
+0901 = { path = "ale-tanio-kupiłem.webp", caption = "[Veit Müller](@/w/veit-mueller.md) throws the TV into the ring, where [Hans Schulte](@/w/hans-schulte.md) awaits.", source = "M3n747" }
+0902 = { path = "parcie-na-szklo.webp", caption = "Hans Schulte and [Veit Müller](@/w/veit-mueller.md) offer Zefir some TV time.", source = "M3n747" }
+1000 = { path = "i-see-a-little-silhouette-of-kinga.webp", caption = "The shadowy silhouette of [Kinga Miotke](@/w/kinga-miotke.md).", source = "M3n747" }
+1001 = { path = "chain-untomczaked.webp", caption = "The chain that held Tomczak.", source = "M3n747" }
