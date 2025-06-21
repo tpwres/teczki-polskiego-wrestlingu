@@ -45,4 +45,5 @@ source = "Official PpW Facebook"
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383400)
-* [Full show on YouTube](https://www.youtube.com/watch?v=O6_O1N69J4E)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ppw-mistrzowskie-rozdanie-full-show-definitive-hd) (requires paid subscription)
+* [Full show on YouTube](https://www.youtube.com/watch?v=O6_O1N69J4E) (set to private as of June 2025)

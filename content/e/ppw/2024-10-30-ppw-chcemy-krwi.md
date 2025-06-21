@@ -77,6 +77,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=410329)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-x-splat-film-fest-chcemy-krwi-24-rare) (requires paid subscription)
 * [Announcement at SplatFilmFest.com](https://splatfilmfest.com/program/wrestling-chcemy-krwi-ppw-x-splatfilmfest/)
 * Istota Wrestlingu's [fan cam, part 1](https://www.youtube.com/watch?v=M1EzMK4IGhk) - Gustav vs Mister Z
 * Istota Wrestlingu's [fan cam, part 2](https://www.youtube.com/watch?v=dpebVNTRiGo) - remaining matches
