@@ -1,7 +1,7 @@
 +++
 title = "Sawicki"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -33,7 +33,7 @@ After Sawicki & Rosetti's defeat at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01
 
 ### Prime Time Wrestling (2021)
 
-Sawicki was seen at training sessions in [PTW Academy](@/o/ptw-academy.md) back when [Prime Time Wrestling](@/o/ptw.md) was preparing to launch. He also advertised the federation on his social media channels, but never got the chance to debut in PTW's ring, and subsequently retired from pro wrestling.
+Sawicki was seen at training sessions in [PTW Academy](@/o/ptw-academy.md) back when [Prime Time Wrestling](@/o/ptw.md) was preparing to launch. He also advertised the federation on his social media channels, but didn't get a chance to debut in PTW's ring until 2025, when he was announced for the Gold Rush Rumble 2 at [PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Prior to this announcement, he was widely believed to have retired from pro wrestling.
 
 ## In wrestling
 
