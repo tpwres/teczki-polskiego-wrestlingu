@@ -75,7 +75,7 @@ He also worked as ring crew and timekeeper at [PpW Ale Grzeje](@/e/ppw/2024-07-1
 Marcelito made his official in-ring debut at [PpW Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) facing his ex-PTW colleague Axel Fox.
 About that time he developed his babyface persona, incorporating some humorous catchphrases such as "Kto zgasił światło?!" (_Who turned off the light?!_ - a reference to power failure during his match in PTW) as well as a new theme song.
 
-At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Marcelito formed an Tag Team with [Bartosz Plata](@/w/bartosz-plata.md) dubbed _Platelito_ to face and defeat Hungarian wrestlers Atilla and Danny Roxx.
+At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Marcelito formed an Tag Team with [Bartosz Plata](@/w/plata.md) dubbed _Platelito_ to face and defeat Hungarian wrestlers Atilla and Danny Roxx.
 
 ### Maniac Zone Wrestling (2024-present)
 
