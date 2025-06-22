@@ -114,7 +114,7 @@ At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-frida
 With Golden in his corner, Queen failed to capture the championship, due to time-out.
 
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and [Isnorr](@/w/isnorr.md). The match resulted in Gustav and Isnorr's defeat after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first loss during his title reign, and Gabriel challenged Gryffin for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the fight, just before Gabriel Queen went for the second pinfall and victory, Vic Golden struck him with a chair, allowing Gustav to retain. 
-This betrayal turned Vic into one of the most hated heels on the Polish wrestling scene. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he made an unannounced appearance, once again attacking Gabriel with a chair after his victory over [Oskar Aleksander](@/w/oskar-aleksander.md). After that he cut a short promo, blaming Queen for the break-up of Pure Gold and challenged him for a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
+This betrayal turned Vic into one of the most hated heels on the Polish wrestling scene. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he made an unannounced appearance, once again attacking Gabriel with a chair after his victory over [Oskar Aleksander](@/w/oskar-aleksander.md). After that he cut a short promo, blaming Queen for the break-up of Pure Gold and challenged him for a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During said match [referee](@/w/madman-charlie.md) was unfortunately knocked out, which prevented Queen from winning. This led to Queen grabing a chair to attack Golden, but the assault was stopped by Oskar Aleksander, who seemingly joined Vic's side and helped him defeat Queen.
 
 ### Legacy of Wrestling (2025)
 
@@ -128,7 +128,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
 * With [Gabriel Queen](@/w/gabriel-queen.md):
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
 * Tag Teams and stables:
-  - Pure Gold (2022-)
+  - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
 * Entrance music:
   - "Witness" by Mindless Self Indulgence
     {{ org_badge(orgs=['mzw', 'ddw']) }} (2015-2021) <br>
@@ -146,7 +146,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
     {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
     {{ music(apple='1440632617?i=1440633345')}}
   - "Hi Fi" by Wanda i Banda
-    {{ org_badge(orgs=['low']) }} (2025)
+    {{ org_badge(orgs=['low', 'ppw']) }} (2025-)
     {{ music(yt='INGAIJiMCnE')}}
     {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
 
