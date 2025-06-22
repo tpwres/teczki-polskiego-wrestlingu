@@ -70,6 +70,10 @@ Later that night, Gabriel attacked Gustav after his match with [Johnny Blade](@/
 
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and Isnorr. The match resulted in Gustav and Isnorr's defeat, after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first defeat during his title reign, and Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match, just before Gabriel Queen went for the second pinfall and victory, he was struck with a chair by long-time friend Vic Golden, which allowed Gustav to defeat Gabriel and end their feud.
 
+#### Feud with Vic Golden
+
+After his shocking betrayal, Gabriel desperately wanted to put his hands on Legend-Turned-Judas Golden. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he unfortunately lowered his guard after scoring a victory over [Oskar Aleksander](@/oskar-aleksander.md), which allowed Golden to vicously attack Queen once more, explaining his hatered towards Queen caused by the fact, that everyone looked at Gabriel as the "better one" of Pure Gold. Golden challenged Queen to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During said match [referee](@/w/madman-charlie.md) was unfortunately knocked out, which prevented Queen from winning. This led to Queen grabing a chair to attack Golden, but the assault was stopped by Oskar Aleksander, who seemingly joined Vic's side and helped him defeat Queen.
+
 ## In wrestling
 
 * Finishers:
@@ -80,7 +84,7 @@ At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold
 * With [Vic Golden](@/w/vic-golden.md)
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
 * Tag Teams and stables:
-  - Pure Gold (2022-2025)
+  - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
 * Managers:
   - [Isnorr](@/w/isnorr.md) (2021)
 * Entrance music:
