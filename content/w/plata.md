@@ -30,7 +30,7 @@ Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his ca
 
 #### Run as a rookie
 
-With _rookie_ still part of his billing, Bartosz continued to appear regularly, besides the [20 Typa 20 Broni Rumble Match](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), mostly in open challenge matches. This spawned a regular "O kurwa, to Bartek Plata!" (_Oh fuck, it's Bartek Plata!_) commentary reaction at his entrance. After losing in an open challenge against [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in an interview he emphasized his willingness to make a name for himself, not as a rookie anymore, but under his real name, Bartosz Plata. In the same interview, Plata requested a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
+With _rookie_ still part of his billing, Bartosz continued to appear regularly, besides the [20 Typa 20 Broni Rumble Match](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), mostly in open challenge matches. This spawned a regular "O kurwa, to Bartek Plata!" (_Oh fuck, it's Bartek Plata!_) commentary reaction at his entrance. After losing in an open challenge against [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in an interview he emphasized his willingness to make a name for himself, not as a rookie anymore, but under his real name, Bartosz Plata. In the same interview, Plata requested a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This request was granted, after he teamed himself with [Marcelito](@/w/marcelito.md) to defeat Hungarian wrestlers Danny Roxx and Atilla.
 
 ## In wrestling
 
