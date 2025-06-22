@@ -14,43 +14,10 @@
 {% endblock %}
 {% block content %}
 {{ section.content | safe }}
-{% set month_lengths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] %}
-{% set weekday_names = ["???", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ] %}
-{% set weekday_names_short = ["???", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun" ] %}
 
-{% set all_matches = load_data(path="data/all_matches.json") %}
-{% set matches_by_date = all_matches | group_by(attribute="d") %}
-{# Extract years and months #}
-{% set ymdates = [] %}
-{% for ymd, _ in matches_by_date %}
-  {% set yymm = ymd | truncate(length=7, end="") %}
-  {% set_global ymdates = ymdates | concat(with=yymm) %}
+{% set valid_months = load_data(path="data/valid_months.json") %}
+{% for year, months in valid_months %}
+  {% include "cal/year.html" %}
 {% endfor %}
-{% set ymdates = ymdates | sort | unique %}
-
-{% set yr = false %}
-{% set mms = [] %}
-{% for yymm in ymdates %}
-  {% set ym = yymm | split(pat="-") %}
-  {% set month = ym[1] | int %}
-  {% set thisyear = ym[0] %}
-  {% if thisyear != yr %}
-    {% if yr == false %}
-        {% set_global yr = thisyear %}
-        {% set_global mms = [] %}
-    {% else %}
-        {% set year = yr %}
-        {% set months = mms | sort %}
-        {% include "cal/year.html" %}
-        {% set_global yr = thisyear %}
-        {% set_global mms = [] %}
-    {% endif %}
-  {% endif %}
-  {% set_global mms = mms | concat(with=month) %}
-{% endfor %}
-{# Output final year #}
-{% set year = yr %}
-{% set months = mms | sort %}
-{% include "cal/year.html" %}
 
 {% endblock content %}
