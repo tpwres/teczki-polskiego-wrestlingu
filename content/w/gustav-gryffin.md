@@ -76,7 +76,7 @@ He later made another appearance over a year later at the next MZW show, [No Tim
 
 In November 2024 Gustav was set to face [Wiktor Longman](@/w/wiktor-longman.md) in a match for the PpW Championship at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). Following Wiktor's withdrawal due to personal reasons, Gustav's opponent was changed to [Axel Fox](@/w/axel-fox.md). Despite initially being ruled as Axel's victory via pinfall, the match was restarted after [Sinister](@/w/sinister.md) pointed out that Gustav's hand was outside of the ring, which went unnoticed by [Referee Sewi](@/w/sedzia-seweryn.md). Legacy's Chairman confirmed this and the match was restarted, with Gustav quickly submitting Axel with a chokehold.
 
-On 22.03.2025 it was announced that Gustav would face Polish-American wrestler Kubes in a "Road To Title Match" which will take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)
+On 22.03.2025 it was announced that Gustav would face Polish-American wrestler Kubes in a "Road To Title Match" which will take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Gustav emerged victorious, advancing further in a championship race.
 
 ## In wrestling
 
@@ -84,9 +84,9 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
   - Ripcord Lariat (2024-)
   - _Gryffin Bomb_ (2023-)
   - Rear Naked Choke (2024-)
-  - Texas Cloverleaf (2023-)
+  - Texas Cloverleaf (2023)
 * Tag Teams and Stables:
-  - [Zmowa](@/tt/zmowa.md)
+  - [Zmowa](@/tt/zmowa.md) (2024-)
 * Managers:
   - [Osamu](@/w/osamu.md) (2023)
   - [Jakub Linde](@/w/jakub-linde.md) (2024)
@@ -105,7 +105,7 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
 ## Championships and accomplishments
 
 * PpW Ewenement:
-  - [PpW Championship](@/c/ppw-championship.md) (1 time; 2024-06-08 - 2025-06-07)
+  - [PpW Championship](@/c/ppw-championship.md) (1 time)
 
 ## Internet presence
 
