@@ -75,14 +75,16 @@ He also worked as ring crew and timekeeper at [PpW Ale Grzeje](@/e/ppw/2024-07-1
 Marcelito made his official in-ring debut at [PpW Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) facing his ex-PTW colleague Axel Fox.
 About that time he developed his babyface persona, incorporating some humorous catchphrases such as "Kto zgasił światło?!" (_Who turned off the light?!_ - a reference to power failure during his match in PTW) as well as a new theme song.
 
-### Maniac Zone Wrestling (2024)
+At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Marcelito formed an Tag Team with [Bartosz Plata](@/w/bartosz-plata.md) dubbed _Platelito_ to face and defeat Hungarian wrestlers Atilla and Danny Roxx.
 
-In October 2024 Marcelito performed at [Maniac Zone Wrestling](@/o/mzw.md) show [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) where he faced Syriusz Dziedzic and [Biesiad Strong](@/w/biesiad.md).
+### Maniac Zone Wrestling (2024-present)
 
-### Legacy of Wrestling (2024)
+In October 2024 Marcelito performed at [Maniac Zone Wrestling](@/o/mzw.md) show [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) where he faced Syriusz Dziedzic and [Biesiad Strong](@/w/biesiad.md). At [Forever](@/e/mzw/2025-03-29-mzw-forever.md) in March 2025 he faced [The Wolf](@/w/apollo-anderson.md), who he managed to defeat.
+
+### Legacy of Wrestling (2024-present)
 
 On 14th of August 2024 Marcelito was one of the wrestlers starring in the trailer for a new Polish wrestling federation - [Legacy of Wrestling](@/o/low.md).
-In November it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer.
+In November it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) in another unsucessful bout.
 
 ## In wrestling
 
@@ -98,7 +100,7 @@ In November it was announced that he would face MZW owner and legend [Shadow](@/
     {{ music(spot='4gjycu7vNIP0A1KHNGS5N1')}}
     {{ music(apple='1536296291?i=1536296298')}}
   - "Kto zgasił światło?!" by Independent Contractor
-    {{ org_badge(org='ppw') }} (2024-present) <br>
+    {{ org_badge(orgs=['ppw', 'mzw']) }} (2024-present) <br>
 
 ## Internet presence
 
