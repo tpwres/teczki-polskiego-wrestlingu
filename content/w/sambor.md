@@ -35,11 +35,15 @@ Plans were cut short, however, as both Sambor and Rusałka decided to [leave the
 
 After an absence of five months, Sambor made his return to MZW, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) for the [PpW Championship](@/c/ppw-championship.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), resulting in a defeat by submission.
 
-### PpW Ewenement (2024-)
+### PpW Ewenement (2024-present)
 
 Sambor debuted in [PpW Ewenement](@/o/ppw.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) where, along with [Aron Wake](@/w/aron-wake.md) and [Marcelito](@/w/marcelito.md) - he lost to [Oskar Aleksander](@/w/oskar-aleksander.md). At PpW he adopted a more heelish persona, and appeared without his manager - Rusałka.
 
-### Legacy of Wrestling (2024)
+#### Rivalry with Feager
+
+At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he took part in Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Feager](@/w/feager.md) with a prize of being included in a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match resulted in a three-way tie between him and his opponents, with all of them besides Feager scoring a single point. At Ledwo Legalne 5 he took part in a Ladder Match for #1 Contender spot for [PpW Championship](@/c/ppw-championship.md). During the match he  attacked by Feager, preventing him from winning a Ladder Match for PpW Championship fight contract.
+
+### Legacy of Wrestling (2024-present)
 
 Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md), accepting [Chemik's](@/w/chemik.md) Open Challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md), in a match that also included [Dziedzic](@/w/dziedzic.md).
 
