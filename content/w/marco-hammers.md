@@ -33,7 +33,7 @@ Marco made his first steps in a wrestling ring in the [Kombat Pro Wrestling](@/o
 Marco Hammers debuted in [Prime Time Wrestling](@/o/ptw.md) at [PTW Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md), where he appeared in a PTW Contract Battle Royal Match.
 He rocked a heel persona obsessed with his masculinity and embracing his baldness.
 He was unsuccessful in winning his first match and securing the kayfabe contract, which went to [Rafi Rarytas](@/w/rafi.md) instead.
-At the [following Underground show](@/e/ptw/2023-01-28-ptw-underground-10.md), Marco appeared once again and managed to defeat [El Ogre](@/w/olgierd.md) to win the contract. He continued to make regular appearances in singles matches throughout his involvement in a feud with PAKA.
+At the [following Underground show](@/e/ptw/2023-01-28-ptw-underground-10.md), Marco appeared once again and managed to defeat [El Ogre](@/w/olgierd.md) to win the contract. He continued to make regular appearances in singles matches throughout his involvement in a feud with [PAKA](@/tt/paka.md).
 
 #### Formation of Legia Łysych
 
@@ -70,11 +70,11 @@ During the non-canon show [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-1
 
 #### Growing delusion
 
-Despite Zmowa defeat at Co Za Noc Marco remained in the stable, often facing PpW's babyfaces and helping out both Mister Z and Olgierd achieve their goals. Despite that he grew more and more delusional, trying to portray himself as hardcore wrestler & daredevil high-flyer (despite having a crippling fear of heights). At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he entered the Ladder Match for #1 Contender spot for [PpW Championship](@/c/ppw-championship.md) with a entrance and moveset inspired by Jeff Hardy. He was unsucessful in that match, but in a post-match interview he confessed to [Joker](@/w/joker.md), that he feels scared of himself due to fact, that in a match he performed a shocking Swanton Bomb on [Sambor](@/w/sambor.md) effecitvely murdering his opponent (in his own mind).
+Despite Zmowa's defeat at Co Za Noc, Marco remained in the stable, often facing PpW's babyfaces and helping out both Mister Z and Olgierd achieve their goals. Despite that he grew more and more delusional, trying to portray himself as a hardcore wrestler and a daredevil high-flyer (despite having a crippling fear of heights). At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he entered the [PpW Championship](@/c/ppw-championship.md) #1 Contender Ladder Match with an entrance and moveset inspired by Jeff Hardy. He was unsucessful in that match, but in a post-match interview he confessed to [Joker](@/w/joker.md) that he feels scared of himself due to the fact that during the match he performed a shocking Swanton Bomb onto [Sambor](@/w/sambor.md), effecitvely murdering his opponent (in his own mind).
 
 ### Maniac Zone Wrestling (2024-present)
 
-In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md). At [Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych took on [Syriusz Dziedzic](@/w/dziedzic.md) and MZW veteran - [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a victorious Tag Team Match.
+In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md). At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych took on [Syriusz Dziedzic](@/w/dziedzic.md) and an MZW veteran [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a victorious Tag Team Match.
 
 ### Legacy of Wrestling (2024-present)
 
@@ -85,7 +85,7 @@ In one of the episodes of his YouTube vlog series - "Łysy Vlog" - he got into a
 This Internet feud evolved into a match at Legacy's [first show](@/e/low/2024-12-01-low-1.md).
 Marco won this match after Olgierd's distraction, and in a post-match beatdown him and Olgierd managed to snatch Filip's [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) belt and pose with it, which strongly suggested Legia's intention to face the KPW champions for their titles.
 
-This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Marco and Olgierd faced the Fux Brothers for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) in the main event, but they were unable to defeat them in this bout.
+This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Marco and Olgierd faced the Fux Brothers for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) in the main event, but they were unable to defeat them.
 
 ## In wrestling
 
