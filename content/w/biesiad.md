@@ -79,7 +79,7 @@ At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Mister Z 
 
 This didn't end the feud with Mister Z, however, as prior to [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) the PpW producer kidnapped and tied up Biesiad's friend Johnny Blade. Further details of that angle can be seen in a [separate article](@/a/pm-shooter-saga.md).
 
-Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad is set to face Mister Z at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match.
+Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad was set to face Mister Z at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match. Despite proficiency in a matches involving tables, Biesiad was shockingly defeated by his arch-nemesis, seemingly ending their rivalry.
 
 ### Dream Factory Wrestling (2017)
 
