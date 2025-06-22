@@ -96,7 +96,7 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 
 * [PpW Ewenement](@/o/ppw.md):
   - 20 Typa 20 Broni Rumble Match (2025)
-  - [PpW Championship](@/c/ppw-championship.md): 1 time
+  - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
 
 ## References
 
