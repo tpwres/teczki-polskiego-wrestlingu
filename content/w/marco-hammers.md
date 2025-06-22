@@ -54,7 +54,7 @@ This championship was a DIY cardboard belt, nevertheless he claimed it to be an 
 This rivalry progressed into an Intergender Tag Team Match at [PTW #6: Total Blast To The Past](@/e/ptw/2024-05-11-ptw-6.md), where Diana Strong and British wrestler Heidi Katrina lost to the bald men again.
 Ultimately, this was Marco's final appearance in Prime Time Wrestling, as he was part of the [talent exodus](@/a/ptw-exits.md) in June 2024.
 
-### PpW Ewenement (2024-)
+### PpW Ewenement (2024-present)
 
 #### Zmowa
 
@@ -68,11 +68,15 @@ Marco was a part of the Zmowa team in an Ustawka Match at [PpW Co Za Noc](@/e/pp
 
 During the non-canon show [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), Hammers brought over his PTW Intergender Championship and briefly lost it to Istotna Martynka - co-host of the YouTube channel "Istota Wrestlingu" - but managed to regain it the same night.
 
-### Maniac Zone Wrestling (2024)
+#### Growing delusion
 
-In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md).
+Despite Zmowa defeat at Co Za Noc Marco remained in the stable, often facing PpW's babyfaces and helping out both Mister Z and Olgierd achieve their goals. Despite that he grew more and more delusional, trying to portray himself as hardcore wrestler & daredevil high-flyer (despite having a crippling fear of heights). At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he entered the Ladder Match for #1 Contender spot for [PpW Championship](@/c/ppw-championship.md) with a entrance and moveset inspired by Jeff Hardy. He was unsucessful in that match, but in a post-match interview he confessed to [Joker](@/w/joker.md), that he feels scared of himself due to fact, that in a match he performed a shocking Swanton Bomb on [Sambor](@/w/sambor.md) effecitvely murdering his opponent (in his own mind).
 
-### Legacy of Wrestling (2024)
+### Maniac Zone Wrestling (2024-present)
+
+In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md). At [Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych took on [Syriusz Dziedzic](@/w/dziedzic.md) and MZW veteran - [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a victorious Tag Team Match.
+
+### Legacy of Wrestling (2024-present)
 
 #### Feud with Filip Fux
 
@@ -81,7 +85,7 @@ In one of the episodes of his YouTube vlog series - "Łysy Vlog" - he got into a
 This Internet feud evolved into a match at Legacy's [first show](@/e/low/2024-12-01-low-1.md).
 Marco won this match after Olgierd's distraction, and in a post-match beatdown him and Olgierd managed to snatch Filip's [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) belt and pose with it, which strongly suggested Legia's intention to face the KPW champions for their titles.
 
-This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Marco and Olgierd faced the Fux Brothers for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) in the main event.
+This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Marco and Olgierd faced the Fux Brothers for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) in the main event, but they were unable to defeat them in this bout.
 
 ## In wrestling
 
@@ -89,7 +93,7 @@ This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Ma
   - _Testoslam_ (Falling slam) (2022-)
   - Fisherman Driver (2024-)
 * Tag Teams and stables:
-  - Legia Łysych (2023-)
+  - [Legia Łysych](@/tt/legia-lysych.md) (2023-)
   - [Zmowa](@/tt/zmowa.md) (2024-)
 * Entrance music:
   - "Now You're a Man" by DVDA
@@ -101,6 +105,10 @@ This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Ma
     {{ music(yt='jt_2gXNBlqU')}}
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
     {{ music(apple='1509575453?i=1509575457')}}
+  - "Dawaj na Ring" by Pudzian Band
+    {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
+    {{ music(yt='b5I4ql_XI24')}}
+    {{ music(spot='1pEycy236yvpnzWkfKjolm')}}
 
 ## Championships and accomplishments
 
