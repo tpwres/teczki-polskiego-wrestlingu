@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "antek.jpg", caption = "Istociarz in his trademark white lucha mask.", source = "MyWrestling.com.pl" }
 +++
 
-Istociarz is a professional wrestling commentator, interviever and internet personality active on YouTube, and working for [PpW Ewenement](@/o/ppw.md).
+Istociarz is a professional wrestling commentator, interviever and Internet personality active on YouTube, and working for [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 * Years active: 2011-present
