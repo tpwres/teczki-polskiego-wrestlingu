@@ -41,7 +41,7 @@ Sambor debuted in [PpW Ewenement](@/o/ppw.md) at [Co Za Noc](@/e/ppw/2024-10-26-
 
 #### Rivalry with Feager
 
-At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he took part in Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Feager](@/w/feager.md) with a prize of being included in a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match resulted in a three-way tie between him and his opponents, with all of them besides Feager scoring a single point. At Ledwo Legalne 5 he took part in a Ladder Match for #1 Contender spot for [PpW Championship](@/c/ppw-championship.md). During the match he  attacked by Feager, preventing him from winning a Ladder Match for PpW Championship fight contract.
+At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Sambor took part in the Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Feager](@/w/feager.md), whose prize was being included in a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match resulted in a three-way tie between him and his opponents, with all of them besides Feager scoring a single point. At Ledwo Legalne 5 he took part in a #1 Contender Ladder Match for the [PpW Championship](@/c/ppw-championship.md). During the match he was attacked by Feager, preventing him from winning the match for the title fight contract.
 
 ### Legacy of Wrestling (2024-present)
 
