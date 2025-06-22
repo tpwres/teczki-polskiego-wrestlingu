@@ -15,9 +15,10 @@
 {% if month == 2 %}
   {% set month_length = month_length + is_leap %}
 {% endif %}
-{# Number of days from 2000-01-01 to start of each year, starting at 2020 #}
-{% set year_start_offsets = [7305, 7671, 8036, 8401, 8766, 9132, 9497, 9862, 10227, 10593, 10958, 11323, 11688, 12054, 12419, 12784, 13149, 13515, 13880] %}
-{% set y0 = year - 2020 %}{% set days_to_year = year_start_offsets[y0] %}
+{# Number of days from 2000-01-01 to start of each year #}
+{% set year_start_offsets = load_data(path='const/year_start_offsets.json') %}
+{% set ys = year | as_str %}
+{% set days_to_year = year_start_offsets[year] %}
 {% for m in range(start=1, end=13) %}{# 1-based month number, range ends before 13 #}
   {% if m < month %}
     {% set m0 = m - 1 %}
