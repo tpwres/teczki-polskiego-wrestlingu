@@ -90,6 +90,10 @@ At the next show, [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), Mi
 
 Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declared himself as one of the competitors in 20 Typa 20 Broni Rumble Match to gain an opportunity for a Title Match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). He managed to get into final two, but his rival turned out to be Goblin. Ultimately Fox was eliminated by his tag team partner and friend.
 
+#### Feud with Olgierd
+
+During post-match interview after 20 Typa 20 Broni Match Axel was attacked by Olgierd, who managed to score a victory over Goblin in a brutal Dog Collar Match the same night. Fox held a grudge against victorious Goblin, not sure if he can trust his friend anymore, but nevertheless they faced [Legia Łysych](@/tt/legia-lysych.md) in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md). Despite that, Olgierd continued to torment Polish Fox in various ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, who was known to do it back, when they were both trainees in MZW. This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over defeated Fox.
+
 ### Legacy of Wrestling (2024-present)
 
 On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a minimal rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
@@ -98,7 +102,7 @@ On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox
 
 * Finishers:
   - _Code Red_ (Sunset Flip Powerbomb) - (2021-2022); used as signature move thereafter
-  - _Firefox DDT_ (Standing Shiranui) (2021-)
+  - _Firefox DDT_ (Standing Shiranui) (2021-2024)
   - _Firefox Elbow Drop_ (Diving Elbow Drop) (2023-); adopted from [Justin Joy](@/w/justin-joy.md)
 * Tag teams and stables:
   - FoxJoy (2023)
@@ -127,7 +131,7 @@ On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox
   - "Crazy Like a Fox" by Independent Contractor
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Goblin](@/w/goblin.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-present, both solo and in tag team with [Goblin](@/w/goblin.md)) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
