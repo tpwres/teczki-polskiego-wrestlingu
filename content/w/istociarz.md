@@ -1,15 +1,17 @@
 +++
 title = "Istociarz"
 template = "talent_page.html"
-authors = ["Iwul"]
+authors = ["Iwul", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
 1 = { path = "antek.jpg", caption = "Istociarz in his trademark white lucha mask.", source = "MyWrestling.com.pl" }
-
 +++
+
+Istociarz is a professional wrestling commentator, interviever and internet personality active on YouTube, and working for [PpW Ewenement](@/o/ppw.md).
+
 ## Basic info
 * Years active: 2011-present
 * Gimmicks/nicknames:
