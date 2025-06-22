@@ -1,18 +1,22 @@
-{% set calendar_start_year = 2024 %}
+{% set calendar_start_year = 2021 %}
 {% set this_year = now() | date(format="%Y") | int %}
 {% set calendar_end_year = this_year + 1 %}
 {% set month = page.extra.month %}
 {% set year = page.extra.year %}
+{% set valid_months = load_data(path="data/valid_months.json") %}
 <div class="org-header">
     {{ year }} Calendar
 </div>
 <div class="links">
+    {% set valid_entry = valid_months | get(key=year|as_str,default=[]) %}
     {% for mon in range(start=1, end=13) %}
       {% if mon < 10 %}{% set mm = '0' ~ mon %}{% else %}{% set mm = '' ~ mon %}{% endif %}
       {% if mon == month %}
-        <span>{{ month_names[mon] | truncate(length=3, end="") }} </span>
-      {% else %}
+        <strong>{{ month_names[mon] | truncate(length=3, end="") }} </strong>
+      {% elif mon in valid_entry %}
         <a href="/ec/{{ year }}/{{ mm }}">{{ month_names[mon] | truncate(length=3, end="") }}</a>
+      {% else%}
+        <span>{{ month_names[mon] | truncate(length=3, end="") }} </span>
       {% endif %}
     {% endfor %}
 </div>
@@ -22,10 +26,13 @@
 <div class="links">
     {% if month < 10 %}{% set mm = '0' ~ month %}{% else %}{% set mm = '' ~ month %}{% endif %}
     {% for yy in range(start=calendar_start_year, end=calendar_end_year) %}
+        {% set valid_entry = valid_months | get(key=yy|as_str,default=[]) %}
         {% if yy == year %}
-          <span>{{ yy }}</span>
-        {% else %}
+          <strong>{{ yy }}</strong>
+        {% elif month in valid_entry %}
           <a href="/ec/{{ yy }}/{{ mm }}">{{ yy }}</a>
+        {% else %}
+          <span>{{ yy }}</span>
         {% endif %}
     {% endfor %}
 </div>
