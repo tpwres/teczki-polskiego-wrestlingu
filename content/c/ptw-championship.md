@@ -105,4 +105,10 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
     ed: 2025-05-31
+- - 'Puncher(c)'
+  - '[Tamas "Nitro" Szabo](@/w/nitro.md)'
+  - s: Singles Match
+    en: [PTW Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)
+    ed: 2025-06-28
+    nc: upcoming
 {% end %}

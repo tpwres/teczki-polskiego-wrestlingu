@@ -52,8 +52,8 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 - - '[Max Speed](@/w/max-speed.md)'
   - '???'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '???'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - '[Tamas "Nitro" Szabo](@/w/nitro.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
 {% end %}

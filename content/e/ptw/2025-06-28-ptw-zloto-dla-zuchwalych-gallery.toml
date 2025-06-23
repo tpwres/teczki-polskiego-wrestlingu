@@ -2,3 +2,6 @@
 02 = { path = "hannah-taylor.jpg", caption = "Image announcing Hannah Taylor.", source = "Official PTW Facebook" }
 03 = { path = "vc-vs-sb-xd.webp", caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Sigma Boy xD](@/w/sigma-boy.md).", source = "Official PTW Facebook" }
 04 = { path = "sawicki-z-innej-parafii.webp", caption = "Image announcing [Sawicki](@/w/sawicki.md).", source = "Official PTW Facebook" }
+05 = { path = "nitro-w-lapie.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs [Nitro](@/w/nitro.md) for the [PTW Championship](@/c/ptw-championship.md).", source = "Official PTW Facebook" }
+98 = { path = "ulotka-1.webp", caption = "The show's flyer found in the wild (front).", source = "Ville Paananen" }
+99 = { path = "ulotka-2.webp", caption = "The show's flyer found in the wild (back).", source = "Ville Paananen" }
