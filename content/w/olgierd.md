@@ -76,21 +76,21 @@ Shortly after his return to PpW he joined ["Zmowa"](@/tt/zmowa.md), a villainous
 
 #### Feud with Goblin
 
-After Olgierd's humiliating defeat in the Ustawka Match at Co Za Noc, he started to hold a grudge against [Goblin](@/w/goblin.md). In a post-show interview he vowed to destroy Goblin and make him "his bitch". Goblin responded by publishing a promo, in which he likened it to a fictional scenario where Władysław Jagiełło and Ulrich von Jungingen face off for the Battle of Grunwald, only to be met with Genghis Khan interfering - in this case, the "stupid Mongolian" would be Olgierd. He dared Olgierd to make good on his promises to "end" Goblin.
+After Olgierd's humiliating defeat in the Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), he began to hold a grudge against [Goblin](@/w/goblin.md). In a post-show interview he vowed to destroy Goblin and make him "his bitch". Goblin responded by publishing a promo in which he likened it to a fictional scenario where Władysław Jagiełło and Ulrich von Jungingen face off for the [Battle of Grunwald][zielony-las], only to be met with Genghis Khan interfering - in this case, the "stupid Mongolian" would be Olgierd. He dared Olgierd to make good on his promises to "end" Goblin.
 
 At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) Goblin intervened in the Six-Man Tag Team Match of Mister Z and Legia Łysych against Axel Fox and The Hardcores (Johnny Blade and Biesiad Strong). Goblin attacked Olgierd and dragged him out of the arena on a dog leash. At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) a similar situation emerged, when Goblin attacked Olgierd, put him in a dog collar and chained him to a turnbuckle. This build-up led to their match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), with the stipulation being a Dog Collar Match - the first one in Polish wrestling's history. Goblin was, however, defeated by the Hooligan.
 
 #### Feud with Axel Fox
 
-Later the same night in a post-match interview after 20 Typa 20 Broni Match Axel was attacked by Olgierd, trying to finish off another babyface who opposed him and Zmowa. [Legia Łysych](@/tt/legia-lysych.md) faced GobLis in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in which Olgierd and Marco were defeated. Despite that, Olgierd continued to torment Polish Fox in various ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, who was known to do it back, when they were both trainees in MZW. This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over defeated Fox.
+During a post-match interview following the 20 Typa 20 Broni Match, Axel was attacked by Olgierd, trying to finish off another babyface who opposed him and Zmowa. [Legia Łysych](@/tt/legia-lysych.md) faced GobLis in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in which Olgierd and Marco were defeated. Despite that, Olgierd continued to torment Polish Fox in different ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, who was known to do that back when they were both trainees in MZW. This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over defeated Fox.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
-In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - had returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/tt/zieloni.md) made their appearance an an MZW show. At [Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych defeated [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a Tag Team Match.
+In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/tt/zieloni.md) made their appearance at an MZW show. At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych defeated [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a Tag Team Match.
 
 ### Legacy of Wrestling (2024-present)
 
-In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs Bracia Fux at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md).
+In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs Bracia Fux at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by the reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md).
 
 ## In wrestling
 
@@ -130,3 +130,5 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24693)
 * [Wayback Machine version of his PpW Wiki profile](https://web.archive.org/web/20230821192019/https://ppwofficial.fandom.com/pl/wiki/Hades)
 * [Profile on the restored PpW Wiki](http://ppw-fandom.tpwres.pl/hades)
+
+[zielony-las]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
