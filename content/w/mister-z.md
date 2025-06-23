@@ -72,7 +72,7 @@ At the next show - [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) - 
 Over the first half of 2025 Mister Z revisited his feud with Blade and Biesiad, this time involving mercenaries from PpW's sponsor - PM Shooter. Details can be seen in a [separate article](@/a/pm-shooter-saga.md).
 
 At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)), Mister Z competed in 20 Typa 20 Broni battle royal for the [PpW Championship](@c/ppw-championship.md) title shot, to no success.
-After the events of [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), he was set to face Biesiad at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match. Despite handicap caused by Biesiad's proficency in Tables Matches, Mister Z emerged victorious from their rivalry, seemingly ending their feud.
+After the events of [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), he was set to face Biesiad at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match. Despite a handicap caused by Biesiad's proficiency in Tables Matches, Mister Z emerged victorious from their rivalry, seemingly ending their feud.
 
 ### Dream Factory Wrestling (2017)
 
@@ -82,7 +82,7 @@ In September and December 2017 Mister Z - under his "Cade Bruce" alias - made ap
 
 In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md) during the joint MZW and PpW show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), which was held in Wrocław. Mister Z was defeated by Marcus Monere. 
 
-He made his return to MZW in March 2025, where he faced Kubes at [Forever](@/e/mzw/2025-03-29-mzw-forever.md). He lost the match due to disqualification after a low blow. Later that night he came to spectact the main event match for [MZW Championship](@/c/mzw-championship.md), confirming his aspirations to win that championship soon.
+He made his return to MZW in March 2025, where he faced Kubes at [Forever](@/e/mzw/2025-03-29-mzw-forever.md). He lost the match due to disqualification after a low blow. Later that night he returned to observe the main event match for [MZW Championship](@/c/mzw-championship.md), confirming his aspirations to win that championship soon.
 
 ## In wrestling
 
