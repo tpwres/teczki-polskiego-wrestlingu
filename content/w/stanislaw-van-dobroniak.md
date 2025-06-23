@@ -50,7 +50,7 @@ After losing the championship, Stanisław had been inactive in PpW up until Dece
 Before [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Dobroniak posted his promo on social media, where he assumed the persona of Professor Dobroniak. His scientific research was focused on getting rid of Zombie Johnny, preferably without killing him.
 The most humane way was to submerge the zombie in non-alcoholic beer, which, the Professor was certain, would restore Johnny to his normal state.
 
-In their match at the show, Zombie Johnny had a striking new look, and was also different from his regular persona, mostly shambling slowly towards Dobroniak trying to eat his brain. He was significantly less smart, but also much more resilient to damage, no-selling many of Dobroniak's attacks. Dobroniak was able to tie Johnny down with a length of barbed wire and dunk him in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
+In their match at the show, Zombie Johnny was different from his regular persona, mostly shambling slowly towards Dobroniak trying to eat his brain, and no-selling many of his attacks. Eventually, Dobroniak was able to tie Johnny down with a length of barbed wire and dunk him in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
 
 ## Other media
 

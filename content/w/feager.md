@@ -44,7 +44,7 @@ After losing his PpW Championship Feager held a grudge against Biesiad, which le
 
 #### Rivalry with Sambor
 
-At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he took part in Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Sambor](@/w/sambor.md) with a prize of being included in a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match resulted in a three-way tie between his opponents, with all of them besides him scoring a single point. Despite that je made an unannounced appearance at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) where he attacked [Sambor](@/w/sambor.md), preventing him from winning a Ladder Match for PpW Championship fight contract.
+At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he took part in Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Sambor](@/w/sambor.md) with a prize of being included in a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match resulted in a three-way tie between his opponents, every one of them except Feager scoring a single point. Despite that he made an unannounced appearance at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) where he attacked [Sambor](@/w/sambor.md), preventing him from winning a Ladder Match for a PpW Championship fight contract.
 
 ### Maniac Zone Wrestling (2024)
 

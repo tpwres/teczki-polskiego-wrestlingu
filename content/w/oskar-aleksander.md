@@ -34,11 +34,11 @@ Oskar made his debut as one of the contenders in Johnny Blade's Insane Wheel of 
 
 #### Becoming Oskar Aleksander
 
-After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) and [Aron Wake](@/w/aron-wake.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a post-match promo he declared that he earned the right to decide what his ringname would be, and he also aligned himself with [Agentka Agatka](@/w/agentka-agatka.md). Since then he's been billed as "Oskar Aleksander". At the same show, in a backstage interview, he became affiliated with an unnamed female "[Talent Agent](@/w/agentka-agatka.md)", who became his manager.
+After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) and [Aron Wake](@/w/aron-wake.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a post-match promo he declared that he earned the right to decide what his ringname would be. Since then he's been billed as "Oskar Aleksander". At the same show, in a backstage interview, he became affiliated with an unnamed female "[Talent Agent](@/w/agentka-agatka.md)", who became his manager.
 
 Besides his regular appearances as Oskar Aleksander he also performed as "Oskar Strong" - [Biesiad Strong's](@/w/biesiad.md) parody - at the non-canon [SplatFilmFest](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md) show.
 
-In January 2025 Oskar Aleksander faced a Polish scene legend - [Vic Golden](@/w/vic-golden.md) -  at [PpW Gruba Przesada](@c/e/ppw/2025-01-25-ppw-gruba-przesada.md), in probably the biggest match in his career up to that point. During the 20 Typa 20 Broni Rumble Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) he suffered an injury after recieving a Stallion Cutter from [Robert Star](@/w/robert-star.md) face-first onto a championship belt laying in the ring, which caused him to bleed severly. Despite that, he quickly recovered and managed to support Agentka Agatka in her first match against Madison Marley. 
+In January 2025 Oskar Aleksander faced a Polish scene legend - [Vic Golden](@/w/vic-golden.md) -  at [PpW Gruba Przesada](@c/e/ppw/2025-01-25-ppw-gruba-przesada.md), in probably the biggest match in his career up to that point. During the 20 Typa 20 Broni Rumble Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) he suffered an injury after receiving a Stallion Cutter from [Robert Star](@/w/robert-star.md) face-first onto a championship belt laying in the ring, which caused him to bleed severely. Despite that, he quickly recovered and managed to support Agentka Agatka in her first match against Madison Marley. 
 
 #### Joining Vic Golden
 
