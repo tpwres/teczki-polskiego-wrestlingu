@@ -24,11 +24,11 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 
 ## Statistics
 
-* First champions: PAKA ([Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md) and [Boro](@/w/boro.md))
+* First champions: [PAKA](@/tt/paka.md) ([Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md) and [Boro](@/w/boro.md))
 * Current champions: [L'Orda](@/tt/l-orda.md) ([Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md))
-* Longest reign: Budapest Bastards (308 days)
-* Oldest Champion: Renegade (39 years, 99 days)
-* Youngest Champion: Disco Pablo (25 years, 91 days)
+* Longest reign: [Budapest Bastards](@/tt/budapest-bastards.md) (308 days)
+* Oldest Champion: [Renegade](@/w/renegade.md) (39 years, 99 days)
+* Youngest Champion: [Disco Pablo](@/w/disco-pablo.md) (25 years, 91 days)
 * Heaviest Champions: PAKA - Disco Pablo & Taras (213&nbsp;kg)
 * Lightest Champions: L'Orda (165&nbsp;kg)
 
@@ -136,15 +136,15 @@ While Boro never defended the title, he was also recognized as a champion.
 
 **TOTAL:** 175 days
 
-### Champions #4: L'Orda
+### Champions #4: Royal Rebels
 
 {% free_card() %}
-- - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
   - s: Tornado Tag Team Match
     ed: 2025-05-31
-    en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+    en: '[PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

@@ -48,7 +48,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - g: 'Pawłowski announces his new faction: Nietykalni.'
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - 'El G'
-- - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
   - s: Tornado Tag Team match
@@ -70,7 +70,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Spartan](@/w/spartan.md)'
-  - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: 'Pawłowski attempts to fire the referees, Okoński returns and lays him out, brawl ensues and Okoński stands tall.'
 - credits:
     Referee: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'

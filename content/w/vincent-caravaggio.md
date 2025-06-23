@@ -53,6 +53,7 @@ Later on, Caravaggio took part in a Championship Tournament for the inaugural [P
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Awards 2024](@/a/ptw-awards-2024.md) (1 time):
     * Newcomer of the Year
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Alex Brave](@/w/alex-brave.md); current)
 
 ## Internet presence
 
