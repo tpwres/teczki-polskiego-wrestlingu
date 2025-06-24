@@ -43,7 +43,7 @@ Later on, Caravaggio took part in a Championship Tournament for the inaugural [P
   - Wine Mist (2024-)
 * Entrance music:
   - "Prelude" by Versailles
-    {{ org_badge(orgs=['mzw', 'ddw']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2023-) <br>
     {{ music(yt='2c3Uv88-3sI')}}
     {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
     {{ music(apple='284259361?i=284259442')}}
@@ -53,6 +53,7 @@ Later on, Caravaggio took part in a Championship Tournament for the inaugural [P
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Awards 2024](@/a/ptw-awards-2024.md) (1 time):
     * Newcomer of the Year
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Alex Brave](@/w/alex-brave.md); current)
 
 ## Internet presence
 

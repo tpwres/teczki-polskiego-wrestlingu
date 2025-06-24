@@ -11,4 +11,4 @@ L'Orda (_The Horde_) are a tag team composed of Italian wrestlers [Luca Bjorn](@
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time)

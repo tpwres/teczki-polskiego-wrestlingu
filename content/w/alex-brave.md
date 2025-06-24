@@ -64,3 +64,8 @@ Alex got involved in the main event of [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw
     {{ music(yt='Um8EEzl42PQ')}}
     {{ music(spot='6xwak2gJxMwbLBEJVier7X')}}
     {{ music(apple='494032236')}}
+
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Vincent Caravaggio](@/w/vincent-caravaggio.md); current)
