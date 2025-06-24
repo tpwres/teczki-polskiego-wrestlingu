@@ -43,14 +43,13 @@ After the COVID-19 pandemic, Dobroniak made his return to the Polish scene in [P
 
 Besides his championship defenses in Poland, Dobroniak also had a few PpW EU UV Championship defenses abroad, most notably in the Swedish federations STHLM Wrestling and Freedom Pro Wrestling where he makes frequent appearances.
 
-After losing the championship, Stanisław had been inactive in PpW up until December 2024, when he was announced for [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in January 2025. He immediately aimed for the now-reigning Ultraviolent Champion, [Isnorr](@/w/isnorr.md), but was defeated by him. Dobroniak also took part in the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+After losing the championship, Stanisław had been inactive in PpW up until December 2024, when he was announced for [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in January 2025. He immediately aimed for the now-reigning Ultraviolent Champion [Isnorr](@/w/isnorr.md), but was defeated by him. Dobroniak also took part in the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 #### Saving zombie Johnny
 
-Before [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Dobroniak posted his promo on social media, where he assumed the persona of Professor Dobroniak. His scientific research was focused on getting rid of Zombie Johnny, preferably without killing him.
-The most humane way was to submerge the zombie in non-alcoholic beer, which, the Professor was certain, would restore Johnny to his normal state.
+Before [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Dobroniak posted his promo on social media, where he assumed the persona of Professor Dobroniak. His scientific research was focused on getting rid of Zombie Johnny, preferably without killing him. The most humane way he was able to determine was to submerge the zombie in non-alcoholic beer, which, the Professor was certain, would restore Johnny to his normal state.
 
-In their match at the show, Zombie Johnny was different from his regular persona, mostly shambling slowly towards Dobroniak trying to eat his brain, and no-selling many of his attacks. Eventually, Dobroniak was able to tie Johnny down with a length of barbed wire and dunk him in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
+In their match at the show, Zombie Johnny was different from his regular persona, mostly shambling slowly towards Dobroniak, trying to eat his brain, and no-selling many of his attacks. Eventually, Dobroniak was able to tie Johnny down with a length of barbed wire and dunk him in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
 
 ## Other media
 
