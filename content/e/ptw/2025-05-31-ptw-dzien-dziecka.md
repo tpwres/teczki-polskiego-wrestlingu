@@ -25,7 +25,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 * Fed up with Pawłowski's bullying, referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md) stood up to him. In a pre-recorded announcement they refused to carry Puncher's belts around, but Pawłowski stepped in and bullied them further. He gave them an ultimatum&nbsp;- read an announcement prepared by Pawłowski, or be terminated. Referees had no choice but to comply and publicly pledge allegiance to Pawłowski.
 * On May 15th Klaudiusz uploaded a video of him and Okoński, in which the Chairman promised to help him resolve the issue.
 * Following up on their feud including arena brawls, Shida and Sullivan will compete in a Falls Count Anywhere match.
-* On May 23rd PTW confirmed the challenger for the [PTW Underground Championship](@/c/ptw-underground-championship.md) - the returning Gulyás Öcsi, making his PTW singles debut.
+* On May 23rd PTW confirmed the challenger for the [PTW Underground Championship](@/c/ptw-underground-championship.md) - the returning [Gulyás Öcsi](@/w/gulyas-ocsi.md), making his PTW singles debut.
 * In a [Facebook video](https://www.facebook.com/watch/?v=1056182143186831) on PTW  fanpage, Italian referee Daniele Specchiulli cuts a heelish promo, announcing his return to PTW, calling out [Sędzia Herno](@/w/sedzia-herno.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md).
 
 ## Card
@@ -55,7 +55,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     n: 'Mid-match, Pawłowski announced the addition of Royal Rebels and changes the rules to a Tornado Tag Team Match.'
 - - '[Max Speed](@/w/max-speed.md)(c)'
-  - 'Gulyás Öcsi'
+  - '[Gulyás Öcsi](@/w/gulyas-ocsi.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'

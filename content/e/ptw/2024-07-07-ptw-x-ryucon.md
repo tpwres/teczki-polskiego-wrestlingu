@@ -9,7 +9,7 @@ venue = ["tauron-arena"]
 city = "Kraków"
 toclevel = 2
 [extra.gallery]
-1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros vs Svedberg and [Carravaggio](@/w/vincent-caravaggio.md)", source = "Facebook PTW"}
+1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros ([Gulyás Öcsi](@/w/gulyas-ocsi.md) & Gulyás Vilmos) vs Svedberg and [Carravaggio](@/w/vincent-caravaggio.md)", source = "Facebook PTW"}
 2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing [Alex Brave](@/w/alex-brave.md) vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}
 3 = { path = "iva-vs-diana.webp", caption = "Match graphic announcing Iva Kolasky vs [Diana Strong](@/w/diana-strong.md)", source = "Facebook PTW"}
 4 = { path = "spartan-vs-conners.webp", caption = "Match graphic announcing [Spartan](@/w/spartan.md) vs Joseph Conners", source = "Facebook PTW"}
@@ -19,7 +19,7 @@ toclevel = 2
 [PTW](@/o/ptw.md) organized this show, for the third consecutive year, in collaboration with Ryucon, an anime/manga themed fan convention held annually in Kraków. The event was held at the [Tauron Arena](@/v/tauron-arena.md) on Sunday July 7th, 2024.
 
 For this show, a significant portion of the match card was filled by guest wrestlers from abroad, including five from Hungary. The guest performers were:
-* Hungarian tag team The Gulyas Brothers: Gulyás Öcsi and Gulyás Vilmos.
+* Hungarian tag team The Gulyas Brothers: [Gulyás Öcsi](@/w/gulyas-ocsi.md) and Gulyás Vilmos.
 * Hungarian wrestlers Blaze and Svedberg, both making their second appearance after [PTW Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md).
 * Hungarian wrestler Iva Kolasky, also in her second appearance after [PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md).
 * Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md).
@@ -87,7 +87,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md), Svedberg'
-  - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
+  - 'Gulyas Bros: [Gulyás Öcsi](@/w/gulyas-ocsi.md), Gulyás Vilmos'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)'
   - Joseph Conners

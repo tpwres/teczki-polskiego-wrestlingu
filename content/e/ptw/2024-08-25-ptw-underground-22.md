@@ -50,7 +50,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - '[Rust](@/w/rust.md)'
   - 'LaVonce'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
-  - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
+  - 'Gulyas Bros: [Gulyás Öcsi](@/w/gulyas-ocsi.md), Gulyás Vilmos'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Harley Hudson'
