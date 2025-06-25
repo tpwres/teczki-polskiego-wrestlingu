@@ -1,0 +1,14 @@
+{% set month_names = ["???", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] %}
+{% set mm_pad = ["??", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"] %}
+<div class="year-small">
+    <span class="y"> {{ year }}</span>
+    {% for mm in range(start=1, end=13) %}
+        <span class="m">
+            {% if mm in months %}
+                <a href="/ec/{{ year }}/{{ mm_pad[mm] }}">{{ month_names[mm] }}</a>
+            {% else %}
+                <span>{{ month_names[mm] }}</span>
+            {% endif %}
+        </span>
+    {% endfor %}
+</div>

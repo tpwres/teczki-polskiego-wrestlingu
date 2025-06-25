@@ -1,0 +1,20 @@
+#! /bin/bash
+
+jq '
+   [
+     # for each event object
+     .[]
+     # extract the date field
+     | .d
+     # split on dash to get yyyy, mm, dd
+     | split("-")
+     # pack as a year,month pair
+     | [.[0], .[1]]
+   ]
+   # Remove duplicates
+   | unique
+   # Group by year
+   | group_by(.[0])
+   # transform into an object
+   | map({ key: .[0][0], value: map(.[1]|tonumber) }) | from_entries
+  '

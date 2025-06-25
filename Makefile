@@ -14,7 +14,8 @@ METADATA=data/all_matches.json \
          data/team_careers.json \
          data/all_photos.json \
          data/photo_taggings.json \
-         data/mapdata.json
+         data/mapdata.json \
+         data/valid_months.json
 PLOTS=data/zieloni.svg data/chronology-2.svg
 CAL=static/calendar.ics \
     static/calendar-ptw.ics \
@@ -29,7 +30,7 @@ rosters: $(ROSTERS)
 aliases: data/aliases.json
 atr: data/all_time_roster.json
 meta: $(METADATA)
-calendar: $(CAL)
+calendar: $(CAL) calendar-pages
 plot: $(PLOTS)
 index: $(MINISEARCH_INDEX)
 
@@ -77,3 +78,9 @@ static/calendar-%.ics: content/e/%/*.md
 
 $(MINISEARCH_INDEX): content/**/*.md data/aliases.json
 	bin/build-index > $@
+
+calendar-pages: data/all_matches.json
+	bin/create-calendar-pages
+
+data/valid_months.json: data/all_matches.json
+	bin/create-calendar-bitmap < data/all_matches.json > $@
