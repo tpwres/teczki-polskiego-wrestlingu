@@ -1,0 +1,22 @@
+01 = { path = "pyrkon-2025-plakat.jpg", caption = "Official poster, featuring Greg and Fynn Freyhart.", source = "Official KPW Facebook" }
+02 = { path = "pyrkon-2025-sala.webp", caption = "View of the venue before the show.", source = "Ville Paananen" }
+10 = { path = "kinga-dobrze-sie-zapowiada.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md).", source = "M.Fotografika" }
+11 = { path = "pan-darek.webp", caption = "[Darius](@/w/darius.md).", source = "M.Fotografika" }
+12 = { path = "david-grozny.webp", caption = "[David Oliwa](@/w/david-oliwa.md).", source = "M.Fotografika" }
+13 = { path = "dariusz-frunie.webp", caption = "[David Oliwa](@/w/david-oliwa.md) vs [Darius](@/w/darius.md).", source = "M.Fotografika" }
+21 = { path = "callum-is-beck.webp", caption = "Callum Beck.", source = "M.Fotografika" }
+22 = { path = "lato-dla-leona.webp", caption = "[Leon Lato](@/w/leon-lato.md).", source = "M.Fotografika" }
+23 = { path = "callum-superpleksi.webp", caption = "Callum Beck vs Leon Lato. To the left stands referee [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M.Fotografika" }
+31 = { path = "eryk-le-suck.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md).", source = "M.Fotografika" }
+32 = { path = "niebianski-ryszard.webp", caption = "[Ricky Sky](@/w/ricky-sky.md).", source = "M.Fotografika" }
+33 = { path = "el-tomczako-grande.webp", caption = "[Tomczak](@/w/tomczak.md).", source = "M.Fotografika" }
+34 = { path = "no-daj-buzi.webp", caption = "Greg.", source = "M.Fotografika" }
+35 = { path = "that-spidermen-image.webp", caption = "[Tomczak](@/w/tomczak.md) vs [Eryk Lesak](@/w/eryk-lesak.md) vs Ricky Sky vs Greg.", source = "M.Fotografika" }
+41 = { path = "motylem-bylem-ale-sie-zlukaszylem.webp", caption = "[Lukáš Mottl](@/w/skull-evil.md).", source = "M.Fotografika" }
+42 = { path = "zefir-pali-sie-do-walki.webp", caption = "[Zefir](@/w/zefir.md).", source = "M.Fotografika" }
+43 = { path = "cepniecie-rosettim.webp", caption = "[Lukáš Mottl](@/w/skull-evil.md) vs Zefir (feat. [Rosetti](@/w/rosetti.md), sort of).", source = "M.Fotografika" }
+51 = { path = "chemik-cos-tam-plecie.webp", caption = "[Chemik](@/w/chemik.md).", source = "M.Fotografika" }
+52 = { path = "stylowi-bracia.webp", caption = "[Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md).", source = "M.Fotografika" }
+53 = { path = "hansel.webp", caption = "[Hans Schulte](@/w/hans-schulte.md).", source = "M.Fotografika" }
+61 = { path = "psze-pani-a-oni-sie-bija.webp", caption = "Left to right: Leon Lato, David Oliwa, Zefir, Lukáš Mottl, Ricky Sky, Michał Fux.", source = "M.Fotografika" }
+62 = { path = "leon-pozamiatal.webp", caption = "Left to right: Ricky Sky's leg, Lukáš Mottl, Zefir, David Oliwa (in the background), Callum Beck, Tomczak, Leon Lato (in the ring).", source = "M.Fotografika" }
