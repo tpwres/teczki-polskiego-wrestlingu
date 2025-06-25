@@ -55,7 +55,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
     nc: upcoming
 - - '[Spartan](@/w/spartan.md)'
   - '[Gulyás Öcsi](@/w/gulyas-ocsi.md)'
-    nc: upcoming
+  - nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '[Tamas "Nitro" Szabo](@/w/nitro.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
