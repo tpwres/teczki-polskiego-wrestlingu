@@ -1,0 +1,26 @@
+[01]
+path = "dfw-atomowki.webp"
+caption = """
+DFW wrestlers reimagined as characters from Powerpuff Girls.
+Top row: [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md);
+second row: [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), [Corin Mear](@/w/corin-mear.md);
+last row: [Rob Scaffold](@/w/rob-scaffold.md), [Charlie](@/w/madman-charlie.md), [Malmo Buruto](@/w/malmo-buruto.md).
+This was sold in DFW's online merch store as T&#8209;shirts and a cup, and the characters were used on social media for some events in 2017. Norris wore a T&#8209;shirt with his character, as part of his ring gear at some point.
+"""
+source = "dreamfactorywrestling.cupsell.pl"
+[02]
+path = "founding-fathers.jpg"
+caption = """
+DFW's first meeting. Five founders, from left to right:
+[Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md)
+"""
+source = "Pain Killer's private archive"
+[03]
+path = "rzuc-na-ring.webp"
+caption = "Screenshot from the crowdfunding website."
+source = "Zrzutka.pl"
+skip_art = true
+[04]
+path = "pomoz-biednemu-ringowi.jpg"
+caption = "Picture of the ring in need of repair."
+source = "Zrzutka.pl"

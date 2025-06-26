@@ -3,27 +3,12 @@ title = "Dream Factory Wrestling"
 weight = 0
 template = "org_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
-[taxonomies]
-chrono_root = ["dfw"]
 [extra]
 toclevel = 3
-[extra.gallery.atomowki]
-path = "dfw-atomowki.webp"
-caption = """
-DFW wrestlers reimagined as characters from Powerpuff Girls.
-Top row: [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md);
-second row: [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), [Corin Mear](@/w/corin-mear.md);
-last row: [Rob Scaffold](@/w/rob-scaffold.md), [Charlie](@/w/madman-charlie.md), [Malmo Buruto](@/w/malmo-buruto.md).
-This was sold in DFW's online merch store as T&#8209;shirts and a cup, and the characters were used on social media for some events in 2017. Norris wore a T&#8209;shirt with his character, as part of his ring gear at some point.
-"""
-source = "dreamfactorywrestling.cupsell.pl"
-[extra.gallery.founding-fathers]
-path = "founding-fathers.jpg"
-caption = """
-DFW's first meeting. Five founders, from left to right:
-[Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md)
-"""
-source = "Pain Killer's private archive"
+[taxonomies]
+chrono_root = ["dfw"]
+[extra.gallery]
+manifest = "@/o/dfw-gallery.toml"
 +++
 
 Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015 and founded by [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md).
@@ -66,6 +51,8 @@ The Facebook page was briefly active again between 2020 and 2021, reminiscing ab
 
 DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) which, as of August 2024, is still available and appears to be functional.
 
+On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration.
+
 ### Scene relations
 
 DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. 
@@ -89,10 +76,14 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 ### References
 
 * [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
-* [DFW's Facebook page](https://www.facebook.com/DreamFactoryWrestling]
+* [DFW's Facebook page](https://www.facebook.com/DreamFactoryWrestling)
 * [DFW's Instagram profile](https://www.instagram.com/dreamfactorywrestling/)
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
 * [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)
 * [MyCast #5 with Chris Hunter](https://www.youtube.com/watch?v=PNifwMjQZWE)
 * [Seth Donner vs Lygrys feud about backyard](https://www.wrestlefans.pl/forum/viewtopic.php?t=46017&p=424631)
+* [Crowdfunding campaign on zrzutka.pl][zrzutka-pl]
+
+[zrzutka-fb]: https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Kmkkkrr1ap2qSwMicVHr8N5nw4SgMPPnXzCgV34wRvct5k79ceXXvzVzsU1SKwvRl
+[zrzutka-pl]: https://zrzutka.pl/tjh3ex
