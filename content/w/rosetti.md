@@ -46,19 +46,25 @@ Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he
 
 At [KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Rosetti faced his old leader, Greg, in a [KPW Championship](@/c/kpw-championship.md) Number One Contender Qualifying Match. Their fight ended in a no-contest after both of them got involved in a brawl outside of the ring, leading to them being counted out by the [referee](@/w/krystian-czekaj.md). Despite this, they continued to brawl, now introducing foreign objects, which led to the KPW Chairman [Krystian Malinowski](@/w/krystian-malinowski.md) coming out of the backstage and officially disqualifying both from the tournament. Soon after, Malinowski was attacked by a mysterious masked figure and promptly moved to a hospital by the on-site medical crew. At the end of the show, Rosetti announced that he was supposedly named the "acting chairman" by Malinowski. The official poster for [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) features Rosetti in a suit and tie, emulating a cover of a business-focused magazine, to further promote his new role.
 
-Rosetti is one of the most experienced [KPW](@/o/kpw.md) wrestlers still on the active roster, next to [Greg](@/w/greg.md) and [David Oliwa](@/w/david-oliwa.md), with roots in [Do Or Die Wrestling](@/o/ddw.md).
+#### Demotion to commentary
+
+Following [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), Rosetti decided that KPW needs a proper, full-time chairman. He [announced][rosetti-zapowiada] that one would be inducted at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) - without stating a name, but strongly implying himself (which was later confirmed).
+
+At Arena 28 an induction ceremony was held, in which [Piotr Opolski](@/w/piotr-opolski.md) swore in Rosetti as the new chairman. Before Rosetti could finish his oath, however, [Krystian Malinowski](@/w/krystian-malinowski.md) made a surprise appearance. He stated that he'd never asked Rosetti to take over his duties as an acting chairman, and that he was disappointed in everyone for being so easily misled by one person. Malinowski then resumed his duties and one of his first decisions was to remove Rosetti from the active roster and move him over to commentary, to help [Krystian Czekaj](@/w/krystian-czekaj.md).
+
+Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md) wrestlers remaining on the active roster, next to [Greg](@/w/greg.md) and [David Oliwa](@/w/david-oliwa.md), with roots in [Do Or Die Wrestling](@/o/ddw.md).
 
 ## In wrestling
 
 * Finishers:
-  - Samoan Driver (2015-)
+  - Samoan Driver (2015-2025)
 * Tag Teams and stables:
   - Sawicki & Rosetti (2017-2020)
   - Kawaleria (2018-2019)
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Pieceful" by The World I Know
-    {{ org_badge(orgs=['kpw']) }} (2017-2020; 2023-), in tag team with [Sawicki](@/w/sawicki.md) and later solo) <br>
+    {{ org_badge(orgs=['kpw']) }} (2017-2020; 2023), in tag team with [Sawicki](@/w/sawicki.md) and later solo) <br>
     {{ music(yt='cHMlcuuqWG8')}}
     {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
     {{ music(apple='1447820618?i=1447820619')}}
@@ -68,7 +74,7 @@ Rosetti is one of the most experienced [KPW](@/o/kpw.md) wrestlers still on the 
     {{ music(spot='5M708qYwdT7xyQqO0WXnzm')}}
     {{ music(apple='1202463337?i=1202463431')}}
   - "Gangsters" by Alex Guz
-    {{ org_badge(orgs=['kpw']) }} (2024-present) <br>
+    {{ org_badge(orgs=['kpw']) }} (2024-2025) <br>
     {{ music(yt='aXil-eZeab4')}}
     {{ music(spot='0cC4EVBUPuR5B8eaHSf40G')}}
     {{ music(apple='1783463715?i=1783463716')}}
@@ -90,3 +96,4 @@ Rosetti is one of the most experienced [KPW](@/o/kpw.md) wrestlers still on the 
 * [Arena 20 - Rosetti's promo](https://www.youtube.com/watch?v=09uuL1EIZaw)
 
 [boat-city]: https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA
+[rosetti-zapowiada]: https://www.youtube.com/watch?v=sIOJf0CuMXk
