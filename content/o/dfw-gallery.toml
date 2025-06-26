@@ -19,6 +19,7 @@ source = "Pain Killer's private archive"
 path = "rzuc-na-ring.webp"
 caption = "Screenshot from the crowdfunding website."
 source = "Zrzutka.pl"
+skip_art = true
 [04]
 path = "pomoz-biednemu-ringowi.jpg"
 caption = "Picture of the ring in need of repair."
