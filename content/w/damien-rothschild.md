@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Damien Rothschild - also known Damian Lambert - is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Kombat Pro Wrestling](@/o/kpw.md) and [Do Or Die Wrestling](@/o/ddw.md).
+Damien Rothschild - also known Damian Lambert - is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Kombat Pro Wrestling](@/o/kpw.md) and [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 
@@ -45,7 +45,11 @@ Damian won his debut match for [Maniac Zone Wrestling](@/o/mzw.md), which was a 
 
 Damien managed to defeat Shadow to become the MZW Champion and defend his new title in Shadow's No Disqualification rematch at the [next show](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md). At [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md) he defeated another MZW top babyface, Justin Joy. Rotschild's reign came to an end at [Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), where he was defeated by [Asmund](@/w/asmund.md) ending Damien's run after 195 days. 
 
-Following his defeat, Rotschild has retired from professional wrestling.
+Following his defeat, Rotschild retired from professional wrestling.
+
+### Surprise return and Prime Time Wrestling (2025-)
+
+On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md).
 
 ## In wrestling 
 
