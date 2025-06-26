@@ -41,6 +41,6 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 
 ## References
 
-* TBD
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=428439)
 
 [name]: https://context.reverso.net/translation/english-polish/type+shit
