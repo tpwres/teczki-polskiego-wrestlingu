@@ -75,7 +75,7 @@ After his in-ring retirement Kawaler continued to run KPW Academy and the federa
 * [KawalerWrestling on Facebook](https://www.facebook.com/kawalerwrestling/)
 * [KawalerWrestling on YouTube](https://www.youtube.com/user/kawalerwrestling)
 
-### References
+## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15421)
 * [YouTube video: Kawaler's debut in June 2012, Bishopton](https://www.youtube.com/watch?v=Hw6T_xAz5SY)

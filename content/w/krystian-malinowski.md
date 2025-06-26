@@ -57,7 +57,7 @@ After the main event ended, Rosetti came out and informed the audience that Mali
 
 * [PrezesMalinowskiKPW on Facebook](https://www.facebook.com/PrezesMalinowskiKPW/)
 
-### References
+## References
 
 * [Malinowski's election spot](https://www.youtube.com/watch?v=gMZ7cTC5HLo)
 * [Electorial debate at Arena 12](https://www.youtube.com/watch?v=X55YrndRQeo)

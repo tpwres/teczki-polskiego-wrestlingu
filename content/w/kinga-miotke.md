@@ -44,6 +44,6 @@ Kinga was relieved of her ring announcing duties, and replaced by [Piotr Opolski
     {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
     {{ music(apple='1351853605?i=1351853946')}}
 
-### References
+## References
 
 - [Café Bianca - Odcinek #6](https://www.youtube.com/watch?v=khdgqlnAVPo) (an interview with Kinga, in Polish)

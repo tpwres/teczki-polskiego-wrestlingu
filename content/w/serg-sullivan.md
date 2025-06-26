@@ -40,7 +40,7 @@ This heated up their rivalry, leading to a huge brawl after Shida's match at [Pr
     {{ music(spot='1D11qBrbCj0kpxLID6VrFo')}}
     {{ music(apple='1440928179')}}
 
-### References
+## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=11741)
 

@@ -125,7 +125,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
   _Backyard Era Championships_:
   - PpW YouTube Championship (1 time; inaugural)
 
-### References
+## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24693)
 * [Wayback Machine version of his PpW Wiki profile](https://web.archive.org/web/20230821192019/https://ppwofficial.fandom.com/pl/wiki/Hades)

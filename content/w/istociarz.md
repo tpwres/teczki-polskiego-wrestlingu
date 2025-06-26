@@ -41,7 +41,7 @@ After Martyna became an [Ewenement Dojo](@/o/ewenement-dojo.md) trainee, the rel
 
 On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would be added to the PpW commentary team. Joining [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](content/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at every show since. He also works on various aspects of the events, such as preshow direction, video production and conducting interviews with fans.
 
-### References
+## References
 
 * [Istota Wrestlingu YouTube channel](https://www.youtube.com/@IstotaWrestlingu/)
 * [First show with video - lucha masks' debut](https://www.youtube.com/watch?v=8mK6DOEIucw&t=26s)
