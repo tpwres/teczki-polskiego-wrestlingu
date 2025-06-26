@@ -85,7 +85,7 @@ Since then, he had no wrestling matches, preferring to focus on his activities a
     * Moment of the Year - Fox and Joy reunion
     * Feud of the Year - against [Axel Fox](@/w/axel-fox.md)
 
-### References
+## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15278)
 * [Instagram post](https://www.instagram.com/p/CT0Ja9ZDD4l/) from Oskar's Ninja Warrior profile, showing him failing to qualify for Season 3

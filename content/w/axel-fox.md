@@ -144,7 +144,7 @@ On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox
 - Moment of the Year - reuniting with Justin Joy
 - Feud of the Year - vs Justin Joy
 
-### References
+## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24550)
 * [Video: First appearance at MZW](https://www.youtube.com/watch?v=h5cNADPzxUQ), then as a journalist for What is Wrestling, taking chops from [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Asmund](@/w/asmund.md).
