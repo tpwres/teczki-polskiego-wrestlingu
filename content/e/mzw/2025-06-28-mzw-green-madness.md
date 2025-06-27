@@ -51,7 +51,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - n: Tournament qualifying match
     nc: upcoming
 - - '[Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)'
-- - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+  - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Tag Team Match
     nc: upcoming
 - - '[Sambor](@/w/sambor.md)'
