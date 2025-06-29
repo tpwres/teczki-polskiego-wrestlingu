@@ -47,7 +47,7 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
   - nc: Ref stoppage
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md), Filip Cieśliński'
-    Referee: '[Sędzia Piotr](@/w/mr-b.md)'
+    Referee: '[Sędzia Piotr](@/w/mr-b.md), [Sędzia Gracjan](@/w/kripto.md)'
 {% end %}
 
 ## References
