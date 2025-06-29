@@ -41,7 +41,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - s: Tournament qualifying match
     r: DQ
-    n: [Mister Z](@/w/mister-z.md) assisted Wake to confuse the referee and get the DQ win.
+    n: '[Mister Z](@/w/mister-z.md) assisted Wake to confuse the referee and get the DQ win.'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - s: Tournament qualifying match
