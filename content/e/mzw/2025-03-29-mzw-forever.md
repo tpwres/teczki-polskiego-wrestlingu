@@ -64,7 +64,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
     s: Triple Threat Match
 - credits:
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Host, Ring Announcer: 'Adrian Zgórski'
+    Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
 ### Recap

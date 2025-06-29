@@ -61,7 +61,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
     n: '[Syriusz Dziedzic](@/w/dziedzic.md) interfered, tying Wake to a ringpost with a strap.'
 - credits:
     Referee: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Host, Ring Announcer: 'Adrian Zgórski'
+    Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
 ### Recap

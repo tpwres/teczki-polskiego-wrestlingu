@@ -68,7 +68,7 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
   -  c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Rafi](@/w/rafi.md)'
-    Host, Ring Announcer: Adrian Zgórski
+    Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
 ### Recap

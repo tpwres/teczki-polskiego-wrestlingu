@@ -37,7 +37,7 @@ source = "Official MZW Facebook"
 - - "Marcus Monere"
   - "[Mister Z](@/w/mister-z.md)"
 - credits:
-    Ring Announcer: Adi
+    Host, Ring Announcer: '[Adi](@/w/adrian-zgorski.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Tony Sheen](@/w/riverman.md)'
 {% end %}
 
