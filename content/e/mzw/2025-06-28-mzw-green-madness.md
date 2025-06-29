@@ -30,7 +30,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 ## Card
 
-{% card %}
+{% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - s: Tournament qualifying match
