@@ -57,8 +57,11 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - '[Aron Wake](@/w/aron-wake.md)'
   - '[Shadow](@/w/shadow.md)'
   - s: 'Fatal 4-Way Ladder Match'
-    c: Tournament Final for the [PpW](@/c/ppw-championship.md)/[MZW](@/c/mzw-championship.md) Championship opportunity briefcase.
+    c: 'Tournament Final for the [PpW](@/c/ppw-championship.md)/[MZW](@/c/mzw-championship.md) Championship opportunity briefcase.'
     n: '[Syriusz Dziedzic](@/w/dziedzic.md) interfered, tying Wake to a ringpost with a strap.'
+- credits:
+    Referee: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring Announcer: 'Adrian Zgórski'
 {% end %}
 
 ### Recap
