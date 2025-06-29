@@ -68,10 +68,9 @@ On 13th of June 2025 it was announced that Boro would make his return to MZW's r
 * Finishers:
   - _Dobry Podryw_ (Olimpic Slam) (2021-2023)
   - _Oil Check_ (2018-2020)
-
 * Tag Teams and Stables:
   - PAKA (2021-2024)
- * Entrance music:
+* Entrance music:
   - "Jessica" by Borys LBD
     {{ org_badge(orgs=['mzw', 'ptw']) }} (2018-2023) <br>
     {{ music(yt='s8Px2LI2Frs')}}
@@ -80,6 +79,11 @@ On 13th of June 2025 it was announced that Boro would make his return to MZW's r
   - "Bogurodzica - Metal Version" by Grzegorz Ptak
     {{ org_badge(orgs=['mzw']) }} (2017) <br>
     {{ music(yt='5rFzNDIyksY')}}
+  - "Kolorowe sny" by Just 5
+    {{ org_badge(orgs=['mzw']) }} (2025-) <br>
+    {{ music(yt='rxDR4SG_DCc')}}
+    {{ music(spot='2P1OLuJIL72VC1tzr5zTIK')}}
+    {{ music(apple='1759178051?i=1759178056')}}
 
 ## Championships and accomplishments
 
