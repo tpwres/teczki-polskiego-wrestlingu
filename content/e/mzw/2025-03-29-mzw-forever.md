@@ -47,7 +47,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
 - - 'Dieter Schwartz'
   - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
 - - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
-  - 'Adrian Zgórski'
+  - '[Adrian Zgórski](@/w/adrian-zgorski.md)'
   - g: Tomasz hosted a contest for a group of volunteers, who could win MZW T&#8209;shirts and gadgets by stepping into the role of Adrian and introducing the show.
 - - '[Tony "The Riverman" Sheen](@/w/riverman.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
@@ -64,7 +64,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
     s: Triple Threat Match
 - credits:
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Host, Ring Announcer: 'Adrian Zgórski'
+    Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
 ### Recap

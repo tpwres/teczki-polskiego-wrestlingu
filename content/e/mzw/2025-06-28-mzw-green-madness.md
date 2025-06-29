@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/mzw/2025-06-28-mzw-green-madness-gallery.toml"
 +++
 
-MZW Green Madness is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), set to return to the [Bakara Community Centre](@/v/bakara.md).
+MZW Green Madness was a show by [Maniac Zone Wrestling](@/o/mzw.md), held in [Bakara Community Centre](@/v/bakara.md).
 The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake.md), [Marcelito](@/w/marcelito.md) and [Goblin](@/w/goblin.md) - each of them having something to do with the titular "green".
 
 ## Build-up
@@ -30,40 +30,38 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 ## Card
 
-{% card(predicted=true) %}
-- - '[Aron Wake](@/w/aron-wake.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
-  - n: Tournament qualifying match
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md)'
-  - '[Erik Šlotíř](@/w/erik-slotir.md)'
-  - nc: upcoming
-- - '[Marcelito](@/w/marcelito.md)'
-  - '[Mister Z](@/w/mister-z.md)'
-  - n: Tournament qualifying match
-    nc: upcoming
-- - '[Shadow](@/w/shadow.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
-  - n: Tournament qualifying match
-    nc: upcoming
+{% card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
-  - n: Tournament qualifying match
-    nc: upcoming
-- - '[Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)'
-  - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+  - s: Tournament qualifying match
+- - '[Shadow](@/w/shadow.md)'
+  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - s: Tournament qualifying match
+- - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+  - s: Tournament qualifying match
+    r: DQ
+    n: '[Mister Z](@/w/mister-z.md) assisted Wake to confuse the referee and get the DQ win.'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - s: Tournament qualifying match
+- - '[Tony Sheen](@/w/riverman.md)'
+  - '[Sambor](@/w/sambor.md)'
+- - '[Goblin](@/w/goblin.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+- - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+  - '[Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)'
   - s: Tag Team Match
-    nc: upcoming
-- - '[Sambor](@/w/sambor.md)'
-  - '[Tony Sheen](@/w/riverman.md)'
-  - nc: upcoming
-- - '???'
-  - '???'
-  - '???'
-  - '???'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Shadow](@/w/shadow.md)'
   - s: 'Fatal 4-Way Ladder Match'
-    n: Tournament Final
-    nc: upcoming
+    c: 'Tournament Final for the [PpW](@/c/ppw-championship.md)/[MZW](@/c/mzw-championship.md) Championship opportunity briefcase.'
+    n: '[Syriusz Dziedzic](@/w/dziedzic.md) interfered, tying Wake to a ringpost with a strap.'
+- credits:
+    Referee: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
 ### Recap
@@ -74,5 +72,6 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=425355)
 * [Announcement post on Facebook](https://www.facebook.com/photo/?fbid=1096604642497925&set=a.548442050647523)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=UBdHNIIgj-I&ab_channel=IstotaWrestlingu)
 
 [walizka]: https://www.facebook.com/photo/?fbid=1108274157997640&set=a.548442050647523

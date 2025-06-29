@@ -31,7 +31,7 @@ Game ON was the first [Maniac Zone Wrestling](@/o/mzw.md) show after the COVID-1
 - - '[Zeritus](@/w/zeritus.md)'
   - '[Shadow](@/w/shadow.md)'
 - credits:
-    Ring Announcer: Adi
+    Host, Ring Announcer: '[Adi](@/w/adrian-zgorski.md)'
     Referee: '[Tony Sheen](@/w/riverman.md)'
 {% end %}
 
