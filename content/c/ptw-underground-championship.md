@@ -27,18 +27,26 @@ The title was first mentioned in a December 2024 interview for the [MyWrestling 
   - s: Ladder match
     en: '[PTW Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md)'
     ed: 2025-03-15
-- - '[Max Speed](@/w/max-speed.md)(c)'
+- - 'Max Speed(c)'
   - 'Conte'
-  - en: '[PTW Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
+  - s: Singles Match
+    en: '[PTW Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
     ed: 2025-04-12
-- - '[Max Speed](@/w/max-speed.md)(c)'
+- - 'Max Speed(c)'
   - 'Gulyás Öcsi'
-  - en: '[Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+  - s: Singles Match
+    en: '[Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
     ed: 2025-05-31
-- - '[Max Speed](@/w/max-speed.md)(c)'
+- - 'Max Speed(c)'
   - 'Ben Rodgers'
-  - en: '[PTW Charity Picnic](@/e/ptw/2025-06-01-ptw-charity-picnic.md)'
-    en: 2025-06-01
+  - s: Singles Match
+    en: '[PTW Charity Picnic](@/e/ptw/2025-06-01-ptw-charity-picnic.md)'
+    ed: 2025-06-01
+- - 'Max Speed(c)'
+  - 'El G'
+  - s: Singles Match
+    en: '[PTW Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+    ed: 2025-06-28
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
