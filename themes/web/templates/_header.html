@@ -1,5 +1,12 @@
 {% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
 <nav class="toplevel">
+  <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Toggle menu">
+
+  <label for="menu-toggle" class="hamburger-menu" aria-label="Open menu">
+    <span></span>
+    <span></span>
+    <span></span>
+  </label>
   <nav class="menu">
     <div class="nav-left">
       <ul class="nav-left-list">
@@ -14,9 +21,9 @@
                autocomplete="off"
                tabIndex="1" />
         <button class="search-button" type="submit">
-          <svg class="feather-inline search-icon" title="Search"> 
-            <use href="{{ sprite }}#search"/> 
-          </svg> 
+          <svg class="feather-inline search-icon" title="Search">
+            <use href="{{ sprite }}#search"/>
+          </svg>
         </button>
       </form>
       <div class="search-results">
@@ -25,7 +32,7 @@
           <a class="search-result">
             <svg class="feather-inline" id="result-type-icon">
               <use href="{{ sprite }}"/>
-            </svg> 
+            </svg>
             <span id="result"></span>
             <span id="info"></span>
           </a>

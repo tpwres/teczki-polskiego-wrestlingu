@@ -1,0 +1,81 @@
+// Hamburger menu styles
+.hamburger-menu
+  display: none
+  cursor: pointer
+  flex-direction: column
+  width: 36px
+  height: 24px
+  justify-content: space-between
+  position: absolute
+  top: 36px
+  z-index: 20
+
+  span
+    display: block
+    width: 100%
+    height: 3px
+    background-color: var(--text)
+    transition: all 0.3s ease
+
+  @media only screen and (max-width: 720px)
+    // Hamburger menu display
+    display: flex
+    align-self: center
+
+// Hide checkbox visually but keep it accessible
+.menu-toggle
+  display: none
+  position: absolute
+  opacity: 0
+  cursor: pointer
+
+@media only screen and (max-width: 720px)
+  // Navigation container modifications
+  nav.toplevel
+    position: relative
+
+    // Hamburger icon positioning
+    .menu
+      position: relative
+
+    // Secondary navigation (nav.level2)
+    .level2 .nav-right
+      position: fixed
+      top: 0
+      left: -100%
+      width: 100%
+      height: 100vh
+      background: var(--bg)
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center
+      transition: left 0.3s ease
+      z-index: 10
+
+      ul.nav-right-list
+        flex-direction: column
+        align-items: center
+        gap: 2rem
+
+        li
+          margin: 1rem 0
+          font-size: 1.5rem
+
+    // Checked state styles
+    .menu-toggle:checked
+      ~ .hamburger-menu
+        span:nth-child(1)
+          transform: rotate(45deg) translate(5px, 5px)
+        span:nth-child(2)
+          opacity: 0
+        span:nth-child(3)
+          transform: rotate(-45deg) translate(5px, -5px)
+
+      // Open primary navigation
+      ~ .menu .nav-left
+        left: 0
+
+      // Open secondary navigation
+      ~ .level2 .nav-right
+        left: 0
