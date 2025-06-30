@@ -73,6 +73,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * Referee Seweryn carried the unconscious Sambor backstage on his own back.
 * During the main event, Aron Wake jumped from a ladder onto Mr Z and [Gustav Gryffin](@/w/gustav-gryffin.md) outside of the ring. However, despite being held by [Sędzia Seweryn](@/w/sedzia-seweryn.md), the ladder didn't remain stable during the execution of the move, causing Aron to fall onto the ring apron and breaking his arm.
 * Despite the injury, Wake returned to the ring and proceeded to climb the ladder to get the briefcase. He was, however, stopped by Dziedzic, who pulled him back down and tied his legs to a ring post apparently stealing the victory from him, and allowing him to receive medical attention without breaking kayfabe.
+* The day after the show, MZW officially [confirmed][arona-polamalo] Aron Wake's injury, stating that he was taken to a hospital.
 
 ## References
 
@@ -82,3 +83,4 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 [walizka]: https://www.facebook.com/photo/?fbid=1108274157997640&set=a.548442050647523
 [kiepoty]: https://en.wikipedia.org/wiki/Team_Rocket
+[arona-polamalo]: https://www.facebook.com/photo?fbid=1145295870962135&set=a.548442050647523
