@@ -49,7 +49,7 @@
       display: flex
       flex-direction: column
       justify-content: center
-      align-items: flex-start
+      align-items: center
       transition: left 0.3s ease
       z-index: 10
 
@@ -58,12 +58,14 @@
         align-items: flex-start
 
         li
-          margin: 1rem 0
+          margin: 0.5rem 0
           font-size: 1.5rem
 
     // Checked state styles
     .menu-toggle:checked
       ~ .hamburger-menu
+        position: fixed
+
         span:nth-child(1)
           transform: rotate(45deg) translate(5px, 5px)
         span:nth-child(2)
