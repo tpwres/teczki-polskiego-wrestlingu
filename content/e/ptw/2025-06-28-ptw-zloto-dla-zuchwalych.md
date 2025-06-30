@@ -47,7 +47,6 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: 'The Brave Show'
-    n: Position on the card unknown.
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
   - 'Hannah Taylor'
   - 'Betty Boa'
