@@ -3,73 +3,24 @@ nav
   padding: 1rem 0
   line-height: 1
 
-nav a,
-nav a:visited
-  margin: 0 1rem 0 0
-  border: 1px solid var(--border)
-  border-radius: 5px
-  color: var(--text)
-  display: inline-block
-  padding: 0.1rem 1rem
-  text-decoration: none
+  a, a:visited
+    margin: 0 1rem 0 0
+    color: var(--text)
+    display: inline-block
+    text-decoration: none
 
-// Reduce nav side on mobile
-@media only screen and (max-width: 750px)
-  nav a
-    border: none
-    padding: 0
+  a:hover
     color: var(--accent)
-    text-decoration: underline
-    line-height: 1
-
-nav a:hover
-  color: var(--accent)
-  border-color: var(--accent)
+    border-color: var(--accent)
 
 nav.toplevel
   border-bottom: .2rem solid var(--dark-blue)
 
 nav.menu
   padding: 0
-
-nav.level2
-  padding: 0
-
-  a
-    border: none
-    margin: 0
-    padding: 0
-    color: var(--text)
-
-  .nav-right
-    display: block
-
-    ul.nav-right-list
-      margin: 0
-      padding: 0
-      list-style-type: none
-      display: flex
-      justify-content: space-evenly
-      @media only screen and (max-width: 720px)
-          flex-wrap: wrap
-          justify-content: flex-start
-
-      li
-        padding: 0.15rem
-        white-space: nowrap
-        @media only screen and (max-width: 720px)
-          flex-basis: 29vw
-
-        @media only screen and (max-width: 540px)
-          flex-basis: 40vw
-
-
-
-nav.menu
   display: flex
   align-items: center
   justify-content: space-between
-  gap: 0 0.25rem
 
   a
     border: none
@@ -85,35 +36,37 @@ nav.menu
     color: var(--dark-aqua)
     text-decoration: underline
 
-  .nav-left
-    ul.nav-left-list
-      display: flex
-      align-items: center
-      gap: 0 0.25em
-      margin: 0
-      padding: 0
-      list-style-type: none
-      li
-        display: inline-block
-
-  .nav-right
+  .nav-left-list
+    list-style-type: none
+    padding: 0
+    margin: 0
     display: flex
     gap: 0 0.25rem
+    li
+      display: inline-block
+
+  .nav-right-list
+    list-style-type: none
+    padding: 0
+
+  @media only screen and (max-width: 720px)
+    margin-left: 48px
+
+nav.level2
+  padding: 0
+
+  .nav-right
+    display: block
 
     ul.nav-right-list
       margin: 0
-      padding-left: 0
+      padding: 0
       list-style-type: none
       display: flex
-      align-items: center
-      gap: 0.25rem
-
+      flex-wrap: wrap
+      justify-content: flex-start
       li
-        text-align: center
-        flex-grow: 0
-
-      li.grow
-        flex-grow: 1
+        white-space: nowrap
 
 .logo
   display: inline-block
@@ -131,9 +84,12 @@ nav.menu
   font-size: 1.8em
   font-weight: bold
   color: var(--text-light)
+  line-height: 48px
+  display: inline
 
-  @media only screen and (max-width: 360px)
-    display: inline
+  @media only screen and (max-width: 540px)
+    display: none
+
 
 footer
   border-top: .2rem solid var(--dark-blue)
