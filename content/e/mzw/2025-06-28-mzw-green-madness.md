@@ -66,7 +66,14 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 ### Recap
 
-* TBD
+* Present in the audience was [Vic Golden](@/w/vic-golden.md).
+* [Oskar Aleksander](@/w/oskar-aleksander.md) delivered a long-winded promo dissing [Shadow](@/w/shadow.md) and the city of Wrocław. When the bell rang, Shadow went straight for a roll-up followed by an immediate three-count, ending the match in just a few seconds.
+* [Syriusz Dziedzic](@/w/dziedzic.md) came out wearing a white T-shirt emblazoned with a large red letter R - a clear reference to [Team Rocket][kiepoty] from the Pokémon series, of which [Aron Wake](@/w/aron-wake.md) is a fan.
+* When [Sędzia Seweryn](@/w/sedzia-seweryn.md) wasn't looking, [Mister Z](@/w/mister-z.md) came into the ring and loudly smashed a chair against the canvas, while Aron Wake fell down a few paces away, pretending to be hurt. This led the referee to disqualify Dziedzic on the grounds of collaborating with Mr Z to gain an unfair advantage over Wake.
+* Referee Seweryn carried the unconscious Sambor backstage on his own back.
+* During the main event, Aron Wake jumped from a ladder onto Mr Z and [Gustav Gryffin](@/w/gustav-gryffin.md) outside of the ring. However, despite being held by [Sędzia Seweryn](@/w/sedzia-seweryn.md), the ladder didn't remain stable during the execution of the move, causing Aron to fall onto the ring apron and breaking his arm.
+* Despite the injury, Wake returned to the ring and proceeded to climb the ladder to get the briefcase. He was, however, stopped by Dziedzic, who pulled him back down and tied his legs to a ring post apparently stealing the victory from him, and allowing him to receive medical attention without breaking kayfabe.
+* The day after the show, MZW officially [confirmed][arona-polamalo] Aron Wake's injury, stating that he was taken to a hospital.
 
 ## References
 
@@ -75,3 +82,5 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=UBdHNIIgj-I)
 
 [walizka]: https://www.facebook.com/photo/?fbid=1108274157997640&set=a.548442050647523
+[kiepoty]: https://en.wikipedia.org/wiki/Team_Rocket
+[arona-polamalo]: https://www.facebook.com/photo?fbid=1145295870962135&set=a.548442050647523
