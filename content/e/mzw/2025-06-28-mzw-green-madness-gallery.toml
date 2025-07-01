@@ -15,7 +15,8 @@
 3001 = { path = "rakietowy-dziedzic.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md), the fourth member of Team Rocket. To the right stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Kawczun" }
 5001 = { path = "sheen-dusi-sambora-jak-pstraga-w-sosie-wlasnym.webp", caption = "[Tony Sheen](@/w/riverman.md) chokes [Sambor](@/w/sambor.md) against the ropes, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) counts him out.", source = "M3n747" }
 5002 = { path = "sambor-trzyma-sheena-jak-okonia-nad-rusztem.webp", caption = "Sambor sets Tony Sheen for a Piledriver; [Sędzia Seweryn](@/w/sedzia-seweryn.md) observes.", source = "M3n747" }
-5003 = { path = "sambor-lezy-jak-plastuga-na-mieliznie.webp", caption = "[Tony Sheen](@/w/riverman.md) boasts, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) carries the unconscious Sambor away.", source = "M3n747" }
+5003 = { path = "sambor-lezy-jak-plastuga-na-mieliznie.webp", caption = "[Tony Sheen](@/w/riverman.md) boasts in front of defeated Sambor.", source = "M3n747" }
+5004 = { path = "sewi-chwyta-sambora-jak-karpia-podbierakiem.webp", caption = "[Tony Sheen](@/w/riverman.md) boasts some more, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) carries the unconscious Sambor away.", source = "M3n747" }
 6001 = { path = "oh-hello-ladies.webp", caption = "[Goblin](@/w/goblin.md) dazed and confused.", source = "M3n747" }
 6002 = { path = "zasadowy-mesjasz.webp", caption = "Goblin's close encounter with the floor.", source = "Kawczun" }
 6003 = { path = "legenda-kwasnego-krecika.webp", caption = "[Erik Šlotíř](@/w/erik-slotir.md) throws Goblin at [Vic Golden](@/w/vic-golden.md).", source = "M3n747" }
