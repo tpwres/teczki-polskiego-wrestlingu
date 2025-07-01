@@ -8,3 +8,37 @@
 0008 = { path = "nu-gryffin-pogodi.webp", caption = "Graphic announcing the fourth match - [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Febus 'The Wolf'](@/w/apollo-anderson.md).", source = "Official MZW Facebook" }
 0009 = { path = "borowanie-na-dyskotece.webp", caption = "Graphic announcing a non-tournament tag-team match - [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md) vs [Boro](@/w/boro.md) & [Disco Pablo](@/w/disco-pablo.md).", source = "Official MZW Facebook" }
 0010 = { path = "samboreen.webp", caption = "Graphic announcing a non-tournament tag-team match - [Sambor](@/w/sambor.md) vs [Tony Sheen](@/w/riverman.md).", source = "Official MZW Facebook" }
+1001 = { path = "nosil-febus-razy-kilka.webp", caption = "[Febus 'The Wolf'](@/w/apollo-anderson.md) holds [Gustav Gryffin](@/w/gustav-gryffin.md) in a Fireman Carry.", source = "M3n747" }
+2001 = { path = "cien-shadowa.webp", caption = "[Shadow's](@/w/shadow.md) shadowy silhouette. In the background stands [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+2002 = { path = "oskar-gada-i-gada-i-gada.webp", caption = "[Shadow](@/w/shadow.md) listens as Oskar Aleksander delivers his promo before the match.", source = "M3n747" }
+2003 = { path = "oskar-juz-sobie-idzie.webp", caption = "[Shadow](@/w/shadow.md) points to the briefcase, as Oskar Aleksander leaves the ring in record time. Note the hour on the clock.", source = "M3n747" }
+3001 = { path = "rakietowy-dziedzic.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md), the fourth member of Team Rocket. To the right stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Kawczun" }
+5001 = { path = "sheen-dusi-sambora-jak-pstraga-w-sosie-wlasnym.webp", caption = "[Tony Sheen](@/w/riverman.md) chokes [Sambor](@/w/sambor.md) against the ropes, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) counts him out.", source = "M3n747" }
+5002 = { path = "sambor-trzyma-sheena-jak-okonia-nad-rusztem.webp", caption = "Sambor sets Tony Sheen for a Piledriver; [Sędzia Seweryn](@/w/sedzia-seweryn.md) observes.", source = "M3n747" }
+5003 = { path = "sambor-lezy-jak-plastuga-na-mieliznie.webp", caption = "[Tony Sheen](@/w/riverman.md) boasts in front of defeated Sambor.", source = "M3n747" }
+5004 = { path = "sewi-chwyta-sambora-jak-karpia-podbierakiem.webp", caption = "[Tony Sheen](@/w/riverman.md) boasts some more, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) carries the unconscious Sambor away.", source = "M3n747" }
+6001 = { path = "oh-hello-ladies.webp", caption = "[Goblin](@/w/goblin.md) dazed and confused.", source = "M3n747" }
+6002 = { path = "zasadowy-mesjasz.webp", caption = "Goblin's close encounter with the floor.", source = "Kawczun" }
+6003 = { path = "legenda-kwasnego-krecika.webp", caption = "[Erik Šlotíř](@/w/erik-slotir.md) throws Goblin at [Vic Golden](@/w/vic-golden.md).", source = "M3n747" }
+6004 = { path = "goblin-zakopal-krecika.webp", caption = "[Sędzia Kornel](@/w/sedzia-kornel.md) declares [Goblin's](@/w/goblin.md) victory over [Erik Šlotíř](@/w/erik-slotir.md).", source = "M3n747" }
+7001 = { path = "dance-off.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) and [Disco Pablo](@/w/disco-pablo.md) have a dance-off before the match.", source = "M3n747" }
+7002 = { path = "boro-na-narozniku.webp", caption = "[Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md) ready to face their opponents.", source = "M3n747" }
+7003 = { path = "marco-dusi-bora.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) chokes [Boro](@/w/boro.md) with a [Legia](@/tt/legia-lysych.md) scarf…", source = "M3n747" }
+7004 = { path = "i-jeszcze-czapke-zaloz.webp", caption = "…and caps it off with a matching balaclava.", source = "M3n747" }
+7005 = { path = "marco-na-olgierdzie-nad-borem-obok-sewiego-przed-pablem.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) points out to referee Seweryn that [Marco Hammers](@/w/marco-hammers.md) stands on [Olgierd's](@/w/olgierd.md) back, about to jump onto [Boro](@/w/boro.md).", source = "M3n747" }
+7006 = { path = "bedzie-padac-marco-nisko-lata.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) did not see this coming. Literally.", source = "M3n747" }
+7007 = { path = "two-thumbs-up.webp", caption = "Olgierd and [Marco Hammers](@/w/marco-hammers.md) writhe in pain against the ropes, as Disco Pablo and Boro put on gloves…", source = "M3n747" }
+7008 = { path = "and-inside.webp", caption = "…and deliver a Double Rectal Poke to the [Bald](@/w/olgierd.md) [Hooligans](@/w/marco-hammers.md) so hard, even [Sędzia Seweryn](@/w/sedzia-seweryn.md) can feel it.", source = "M3n747" }
+8001 = { path = "shadow-flies-1.webp", caption = "[Shadow](@/w/shadow.md) launches himself at Mister Z and Aron Wake, while [Gustav Gryffin](@/w/gustav-gryffin.md) takes the opportunity to grab a ladder. On the right stands [Sędzia Kornel](@/w/sedzia-kornel.md).", source = "M3n747" }
+8002 = { path = "shadow-flies-2.webp", caption = "Shadow jump-kicks at [Mister Z](@/w/mister-z.md).", source = "M3n747" }
+8003 = { path = "kajze-ma-drabina.webp", caption = "Aron Wake realising the set the ladder too far from the briefcase.", source = "M3n747" }
+8004 = { path = "aron-wypadek-1.webp", caption = "[Aron Wake](@/w/aron-wake.md) on top of the ladder held by Sędzia Seweryn. Mister Z and Gustav Gryffin stand in front of the ring, [Sędzia Kornel](@/w/sedzia-kornel.md) to the right.", source = "M3n747" }
+8005 = { path = "aron-wypadek-2.webp", caption = "Mister Z and Gustav Gryffin try to catch the falling Aron, whose legs caught on the top rope. Note the position of the ladder.", source = "M3n747" }
+8006 = { path = "aron-wypadek-1-alt.webp", caption = "Alternate angle of [Aron Wake](@/w/aron-wake.md) about to jump onto Mister Z and Gustav Gryffin.", source = "Kawczun" }
+8007 = { path = "aron-wypadek-2-alt.webp", caption = "The exact moment things went wrong.", source = "Kawczun" }
+8008 = { path = "like-yeah-i-tied-the-guy-you-know.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md), after tying Aron Wake to a ring post.", source = "Kawczun" }
+8009 = { path = "mister-z-walizką.webp", caption = "[Mister Z](@/w/mister-z.md) wins the briefcase; [Adrian Zgórski](@/w/adrian-zgorski.md) stands in the background.", source = "M3n747" }
+8010 = { path = "arona-odwiazuja.webp", caption = "Referees Seweryn and Kornel untie Aron Wake, who's being attended to by a medical staff member.", source = "M3n747" }
+9001 = { path = "walizka.webp", caption = "The championship contract hanging above the ring, waiting for the show to start.", source = "M3n747" }
+9002 = { path = "oskar-i-martyna.webp", caption = "[Oskar Aleksander](@/w/oskar-aleksander.md) and Istotna Martynka after the show.", source = "Istotna Martynka" }
+9003 = { path = "auuuu.webp", caption = "[Goblin](@/w/goblin.md) with a fan.", source = "A random fan who happened to be around." }
