@@ -13,7 +13,7 @@ toclevel = 2
 
 The second Godzina Zero (_Zero Hour_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.
 
-The challenger to [Greg](@/w/greg.md)'s OldTown Championship was [Fynn Freyhart](@/w/fynn-freyhart.md) in his first appearance for KPW. Fynn is a German wrestler from Lubeck, who has Polish origins (and a respectable command of the language). At the time, Fynn was appearing in wXw Academy, as well as several organizations in northern Germany.
+The challenger to [Greg's](@/w/greg.md) OldTown Championship was [Fynn Freyhart](@/w/fynn-freyhart.md) in his first appearance for KPW. Fynn is a German wrestler from Lubeck, who has Polish origins (and a respectable command of the language). At the time, Fynn was appearing in wXw Academy, as well as several organizations in northern Germany.
 
 The other challenger was Welsh wrestler Wild Boar, by then already a veteran of the British scene, including matches in RevPro, Progress, ICW and many, many others. In 2018 Boar would be signed by WWE, and start appearing in its NXT UK programs.
 
