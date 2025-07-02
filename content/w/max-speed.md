@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "ptw-zwalnia-speeda.png", caption = "PTW's post announcing Max Speed was fired from the promotion.", source = "Official PTW Facebook" }
 +++
 
 Max Speed is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md).
