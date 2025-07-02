@@ -41,6 +41,10 @@ Speed won his match against Brave at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-r
 
 Later on, Max Speed earned his opportunity to face Puncher for the PTW Championship in the first main event of his career. He was defeated by the reigning champion.
 
+#### Leaving PTW
+
+On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the promotion. No official reason was given.
+
 ## In wrestling
 
 * Finishers:
@@ -58,7 +62,7 @@ Later on, Max Speed earned his opportunity to face Puncher for the PTW Champions
   - [PTW Awards 2024](@/a/ptw-awards-2024.md) (2 times):
     * Hero of the Year
     * Progress of the Year
-  - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time, current):
+  - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time)
 
 ## Internet presence
 
@@ -67,3 +71,5 @@ Later on, Max Speed earned his opportunity to face Puncher for the PTW Champions
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=28366)
+
+[speed-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl
