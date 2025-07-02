@@ -62,7 +62,7 @@
           {% set link_class = link | get(key='class', default='') -%}
           {% set link_icon = '' %}
           {% if link.icon -%}
-            {% set link_icon = '<svg class="feather feather-nav"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
+            {% set link_icon = '<svg class="feather-nav" viewBox="0 0 24 24"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
           {% endif -%}
           {% if link.path -%}
             <a href="{{ get_url(path=link.path) }}"
