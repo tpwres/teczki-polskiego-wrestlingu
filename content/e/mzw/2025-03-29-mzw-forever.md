@@ -30,7 +30,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
 * On 15.03, Marcus Monere revealed via Insta-stories that he's going to miss the show due to being hospitalized. This left [Sambor](@/w/sambor.md) without an opponent, effectively cancelling their previously announced match.
 * On 16.03 MZW announced [resuming their cooperation with MyWrestling portal][mywrestling], and published a photo with MyWrestling's logo added to the ring turnbuckles.
 * On 17.03, [Syriusz Dziedzic](@/w/dziedzic.md) was [announced][dziedzic] for the show. In the promo, he emphasized that he wants to become a legend.
-* On 27.03 MZW announced Dieter Schwartz, last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
+* On 27.03 MZW announced [Dieter Schwartz](@/w/dieter-schwartz.md), last seen at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), as the new opponent for Sambor.
 
 ## Card
 
@@ -44,7 +44,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
   - '[Syriusz Dziedzic](@/w/dziedzic.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - n: Legia's open challenge
     s: Tag-Team Match
-- - 'Dieter Schwartz'
+- - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
 - - '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
   - '[Adrian Zgórski](@/w/adrian-zgorski.md)'

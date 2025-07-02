@@ -22,7 +22,7 @@ source = "Official MZW Facebook"
 - - '[Aron Wake](@/w/aron-wake.md)'
   - Nick Schreier
   - s: "MZW Championship Tournament Semi Final Match"
-- - Deti Black
+- - '[Deti Black](@/w/dieter-schwartz.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
   - s: Three Way Match

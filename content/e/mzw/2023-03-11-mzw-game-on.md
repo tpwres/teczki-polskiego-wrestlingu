@@ -9,7 +9,7 @@ city = "Wrocław"
 toclevel = 2
 [extra.gallery.1]
 path = "2023-03-11-mzw-game-on-plakat.jpg"
-caption = "Official poster. Wrestlers pictured, top to bottom: Rubix, Dieter Schwartz, [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), Denim Adams."
+caption = "Official poster. Wrestlers pictured, top to bottom: Rubix, [Dieter Schwartz](@/w/dieter-schwartz.md), [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), Denim Adams."
 source = "Official MZW Facebook"
 +++
 
@@ -20,7 +20,7 @@ Game ON was the first [Maniac Zone Wrestling](@/o/mzw.md) show after the COVID-1
 {% card() %}
 - - '[Chris X](@/w/chris-x.md)'
   - Rubix
-- - Dieter Schwartz
+- - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - Denim Adams
 - - '[Matt Buckna](@/w/matt-buckna.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
