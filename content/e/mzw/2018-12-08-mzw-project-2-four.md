@@ -16,7 +16,7 @@ source = "Official MZW Facebook"
 ## Card
 
 {% card() %}
-- ["Deti Black", "[Apollo Anderson](@/w/apollo-anderson.md)"]
+- ["[Deti Black](@/w/dieter-schwartz.md)", "[Apollo Anderson](@/w/apollo-anderson.md)"]
 - ["[Lady Killer](@/w/boro.md)", "[Asmund](@/w/asmund.md)", {nc: "No Contest"}]
 - ["[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Axel Fox](@/w/axel-fox.md)"]
 - ["[Asmund](@/w/asmund.md)", "[Christopher Anthony](@/w/christopher-anthony.md)",
