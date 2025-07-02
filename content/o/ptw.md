@@ -235,6 +235,7 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
     Defeated Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) at [PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
   - 'vacated since 2.07.2025'
+  - PTW announced that Max Speed was fired and his Championship vacated.
 {% end %}
 
 ## Other media
