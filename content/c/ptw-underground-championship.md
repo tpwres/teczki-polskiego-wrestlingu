@@ -49,4 +49,9 @@ The title was first mentioned in a December 2024 interview for the [MyWrestling 
     ed: 2025-06-28
 {% end %}
 
+**TOTAL:** 109 days.
+
+On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the promotion and the Underground belt was vacated.
+
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
+[speed-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl
