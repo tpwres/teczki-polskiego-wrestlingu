@@ -2,7 +2,7 @@
 title = "Prime Time Wrestling"
 weight = 4
 template = "org_page.html"
-authors = ["Szymon Iwulski", "Sewi The Referee"]
+authors = ["Szymon Iwulski", "Sewi The Referee", "M3n747"]
 [taxonomies]
 chrono_root = ["ptw"]
 [extra]
@@ -251,6 +251,8 @@ Featured in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), 
 * [YouTube channel](https://www.youtube.com/@PrimeTimeWrestlingpl)
 * [FITE/TrillerTV listing](https://www.trillertv.com/vl/p/prime-time-wrestling/)
 * [Official website](https://primetimewrestling.pl/)
+
+On 2.07.2025 fans noticed that the official PTW website was replaced with a generic placeholder site as early as on 17.06.2025 (according to dates of posts in the Blog section), suggesting that the domain was taken over by cybersquatters after not being renewed by the promotion.
 
 ## References
 

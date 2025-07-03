@@ -135,3 +135,15 @@ path = "debt.webp"
 caption = "Screenshot from a January 2025 post. In the highlighted comment, the producers of [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) ask about the money they're owed. "
 source = "Official PTW Facebook"
 skip_art = true
+
+[26]
+path = "nowa-strona-1.webp"
+caption = "The &quot;new&quot;, generic cybersquatted website. Note the topmost two paragraphs containing variable-like texts: [Miasto] (_[City]_) and [Nazwa Szkoły] (_[Name of School]_)."
+source = "primetimewrestling.pl"
+skip_art = true
+
+[27]
+path = "nowa-strona-2.webp"
+caption = "The &quot;new&quot;, generic cybersquatted website's Blog section. Note the extremely low-quality ad for online casino games."
+source = "primetimewrestling.pl"
+skip_art = true
