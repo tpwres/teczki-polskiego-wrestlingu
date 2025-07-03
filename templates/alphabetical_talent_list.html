@@ -96,13 +96,15 @@
                   {% set name = alias[1] %}
                   {% set flavor = alias[2] %}
                   {% set flag = false %}
-                  {% set_global person_name = '<em>' ~ name ~ '</em>' %}
+                  {% set_global displayed_name = '<em>' ~ name ~ '</em>' %}
                   {% set_global appearances_entry = appearances | get(key=name, default=[]) %}
                   {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
                   {% set_global display_match_links = true %}
                   <li>
                     <span class="pwf">
-                      <span class="name">{{ person_name | safe }}</span>
+                      <span class="name">{{ displayed_name | safe }}</span>
+                      {% set person_name = name %}
+                      {% include "roster/mf_link.html" %}
                       {% include "roster/person_orgs_matches.html" %}
                     </span>
                   </li>
