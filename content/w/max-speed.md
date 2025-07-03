@@ -41,11 +41,13 @@ Speed won his match against Brave at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-r
 
 #### Championship pursuits
 
-Later on, Max Speed earned his opportunity to face Puncher for the PTW Championship in the first main event of his career. He was defeated by the reigning champion.
+Later on, Max Speed earned his opportunity to face Puncher for the PTW Championship in the first main event of his career. He was, however, defeated by the reigning champion.
+
+Two months later, Speed faced [Vincent Caravaggio](@/w/vincent-caravaggio.md) in a Ladder Match at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md), winning the newly-created [PTW Underground Championship](@/c/ptw-underground-championship.md). He held the title for 109 days, with his final defence being at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) against El G.
 
 #### Leaving PTW
 
-On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the promotion. No official reason was given.
+On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the promotion, and his title belt was vacated. No official reason was given.
 
 ## In wrestling
 
