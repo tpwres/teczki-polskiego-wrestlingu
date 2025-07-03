@@ -1,7 +1,7 @@
 +++
 title = "Max Speed"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
