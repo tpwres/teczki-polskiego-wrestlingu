@@ -252,7 +252,7 @@ Featured in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), 
 * [FITE/TrillerTV listing](https://www.trillertv.com/vl/p/prime-time-wrestling/)
 * [Official website](https://primetimewrestling.pl/)
 
-On 2.07.2025 fans noticed that the official PTW website was replaced with a generic placeholder site as early as on 17.06.2025 (according to dates of posts in the Blog section), suggesting that the domain was taken over by cybersquatters after not being renewed by the promotion. (See the screenshots in Gallery below.)
+On 2.07.2025 fans noticed that the official PTW website was replaced with a generic placeholder site no later than on 17.06.2025 (according to dates of posts in the Blog section), suggesting that the domain was taken over by cybersquatters after not being renewed by the promotion. (See the screenshots in Gallery below.)
 
 ## References
 
