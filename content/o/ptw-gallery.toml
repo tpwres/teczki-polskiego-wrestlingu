@@ -138,7 +138,7 @@ skip_art = true
 
 [26]
 path = "nowa-strona-1.webp"
-caption = "The &quot;new&quot;, generic cybersquatted website. Note the topmost two paragraphs containing variable-like texts: [Miasto] (_[City]_) and [Nazwa Szkoły] (_[Name of School]_)."
+caption = "The &quot;new&quot;, generic cybersquatted website. Note the topmost two paragraphs containing variable-like texts: [Miasto] (_City_) and [Nazwa Szkoły] (_Name of School_)."
 source = "primetimewrestling.pl"
 skip_art = true
 
