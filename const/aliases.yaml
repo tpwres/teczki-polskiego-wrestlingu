@@ -2,10 +2,8 @@
 # May repeat with different aliases. It is an error if a name is used both as name and as alias.
 # Alternatively: "main name": [list, of, aliases] (or in block form with dashes)
 # Think of this as formatted the same way you see it on the name list: main name first, then list of aliases.
-Adrian Zgórski: Adi
 Blue Thunder: Szymon Kolanus
 Damien Sandow: Damien Mizdow
-Dieter Schwartz: Deti Black
 Faust XIII: Faust
 Istotna Martynka: Siostra Kimono
 Kermit: Froggy
@@ -17,8 +15,5 @@ Red Dorada:
   - RoodWood
 Rambo: Salsakid Rambo
 Scorpio: Scorpion # PIWG
-Tomczak:
-  - Bodyguard
-#  - TOMCZAK # Usunąć komentarz w razie potrzeby; na razie nie ma wpisanego żadnego wystąpienia wielkimi
 Vamp: Vampirro
 Wade Barrett: Bad News Barrett
