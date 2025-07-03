@@ -1,5 +1,5 @@
 +++
-title = "PTW: Apocalipsa"
+title = "PTW: Apokalipsa"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
@@ -10,7 +10,7 @@ city = "Kozłów"
 toclevel = 2
 +++
 
-"Nietykalni" (_The Apocalypse_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Apokalipsa" (_The Apocalypse_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build up
 
