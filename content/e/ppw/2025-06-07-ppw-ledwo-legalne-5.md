@@ -58,9 +58,10 @@ Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement's](@/o/ppw.md) major show of
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Three Stages Of Hell
-- cast:
-    Hosts and ring announcers: '[Michael HT](@/w/michael-ht.md), [Joker](@/w/joker.md)'
+- credits:
+    Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Joker](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Joker](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Highlights
