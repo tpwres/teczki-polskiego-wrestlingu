@@ -54,7 +54,7 @@ header_links = [
   { path = "@/c/_index.md", name = "Championships", icon = "trophy" },
   { url = "//mf.tpwres.pl", name = "Matchfinder", icon = "crosshair" },
   { url = "//art.tpwres.pl", name = "Artwall", icon = "image-play" },
-  # { url = "//carto.tpwres.pl", name = "Carto", icon = "map" }
+  { url = "//carto.tpwres.pl", name = "Carto", icon = "map" }
 ]
 
 footer_links = [
