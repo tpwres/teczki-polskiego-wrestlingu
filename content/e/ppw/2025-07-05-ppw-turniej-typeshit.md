@@ -44,6 +44,9 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Bring Your Weapons
     c: Typeshit Round 1 match
+- - '[Goblin](@/w/goblin.md)'
+  - '[Bartosz Plata](@/w/plata.md.md)'
+  - n: Non-title match
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: ECW Rules Match
