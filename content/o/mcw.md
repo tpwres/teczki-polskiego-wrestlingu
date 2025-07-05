@@ -1,4 +1,3 @@
-
 +++
 title = "Mine City Wrestling"
 weight = 0
