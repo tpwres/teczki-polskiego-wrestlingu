@@ -27,7 +27,7 @@ Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestli
 
 ### Kombat Pro Wrestling (2017-2021)
 
-Diana started her career in professional wrestling by training in KPW Academy some time around 2017. She made her early on-screen appearances for [Kombat Pro Wrestling](@/o/kpw.md) as an interviewer from [Arena 8](@/e/kpw/2017-11-18-kpw-arena-8.md) onwards. Later on, she - along with another KPW female adept Laura - appeared as [Moloch's](@/w/moloch.md) valets.
+Diana started her career in professional wrestling by training in KPW Academy some time around 2017. She made her early on-screen appearances for [Kombat Pro Wrestling](@/o/kpw.md) as an interviewer from [Arena 8](@/e/kpw/2017-11-18-kpw-arena-8.md) onwards. Later on, she - along with another KPW female rookie Laura - appeared as [Moloch's](@/w/moloch.md) valets.
 
 Diana made her official in-ring debut at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where she faced other female Polish wrestlers, [Bianca](@/w/bianca.md) and [Alisa](@/w/alisa.md), and Swedish worker Sixt. During her debut she was known simply as "Diana", performing as a obvious underdog rookie. At [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) she faced Bianca, now working under the ringname "Diana Rega". This, however, marked Diana's last appearance at KPW.
 
