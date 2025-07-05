@@ -33,7 +33,7 @@ Because their first two events were sideshows on other attractions like various 
 Since 2018, MZW held most of their events in Wrocław, either in [Bakara](@/v/bakara.md) or [Czasoprzestrzeń](@/v/czasoprzestrzen.md), with the latter becoming their main venue.
 Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), a town near the Polish-Czech border where many of their events took place, and where they trained new rookies. Prior to that, events were held in various small towns in the region, like Opawa, Smolec and Niedźwiedzica.
 
-In September 2019 persons unknown broke into the building where MZW held trainings and stole elements of the ring as well as lighting, thus forcing them to put their trainings and shows on hold. MZW then held a [crowdfunding campaign][mzw-zbiorka] to raise money to replace the stolen equipment and managed to collect 3566 PLN out of the 3000 PLN goal.
+In September 2019 persons unknown broke into the building where MZW held trainings and stole elements of the ring as well as lighting, thus forcing the promotion to put their trainings and shows on hold. MZW then held a [crowdfunding campaign][mzw-zbiorka] to raise money to replace the stolen equipment, and managed to collect 3566 PLN out of the 3000 PLN goal.
 
 ### 2020: Post-COVID and losing talent to PTW
 

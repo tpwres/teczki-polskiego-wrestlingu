@@ -1,3 +1,4 @@
+
 +++
 title = "Mine City Wrestling"
 weight = 0
@@ -14,7 +15,7 @@ Mine City Wrestling is a small backyard promotion operating in Silesia.
 
 ## History
 
-MCW was established in 2011 in Siemianowice Śląskie by Johny Vegas, but not unveiled until December 2013, aiming to be an alternative to Polish backyards.
+MCW was established in 2011 in Siemianowice Śląskie by [Johny Vegas](@/w/johny-vegas.md), but not unveiled until December 2013, aiming to be an alternative to Polish backyards.
 The working name of the promotion had been NoN ("Now or Never"), until "Mine City Wrestling" was chosen in reference to the coal mining industry of Siemianowice.
 At a later time the federation moved to Brzeziny and then Tarnowskie Góry, before settling in Świerklaniec.
 
