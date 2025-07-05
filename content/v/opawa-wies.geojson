@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [15.89500, 50.70000]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Opawa",
+        "description": "A village where [MZW](@/o/mzw.md) held [Wakacyjny Slam](@/e/mzw/2014-08-30-mzw-wakacyjny-slam.md), [Bieg WOP-isty](@/e/mzw/2015-09-05-mzw-bieg-wopisty.md) and [its sequel](@/e/mzw/2016-09-03-mzw-zajebisty-bieg-wopisty.md).",
+        "orgs": ["mzw"]
+    }
+}
