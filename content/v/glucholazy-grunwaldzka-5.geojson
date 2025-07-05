@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [17.387667, 50.319837]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Grunwaldzka 5",
+        "description": "Grunwaldzka 5 street, where [PXW](@/o/pxw.md) held their shows.",
+        "orgs": ["pxw"]
+    }
+}

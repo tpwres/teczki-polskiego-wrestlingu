@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.23228, 52.79182]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Park Solankowy",
+        "description": "A park where [MZW Lucha Show](@/e/mzw/2016-09-10-mzw-lucha-show.md) was held.",
+        "orgs": ["mzw"]
+    }
+}

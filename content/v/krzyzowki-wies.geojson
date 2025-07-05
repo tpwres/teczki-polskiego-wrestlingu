@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.11806, 52.79015]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Krzyżówki",
+        "description": "A village where [DFW Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md) and [Crosswords City&nbsp;2](@/e/dfw/2018-06-09-dfw-crosswords-city-2.md) were held.",
+        "orgs": ["dfw"]
+    }
+}
