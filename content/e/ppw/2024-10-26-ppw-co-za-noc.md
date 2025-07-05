@@ -48,7 +48,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Strap Match
     r: Technical Knock-Out
-- - '[_rookie_ Aleksander](@/w/oskar-aleksander.md)'
+- - '[_rookie_ Oskar](@/w/oskar-aleksander.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
