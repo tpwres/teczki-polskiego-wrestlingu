@@ -39,7 +39,7 @@ It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-1
 - ['[Max Speed](@/w/max-speed.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
 - - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[S. Rafał](@/w/alex-brave.md)'
-  - g: true
+  - g: "S. Rafał reveals his new name"
 - - '[Marco "Łysy" Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md) (unsanctioned)'
