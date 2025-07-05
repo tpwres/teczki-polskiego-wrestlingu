@@ -48,7 +48,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Strap Match
     r: Technical Knock-Out
-- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+- - '[_rookie_ Aleksander](@/w/oskar-aleksander.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
@@ -114,7 +114,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * After the victory, Gustav celebrates in the ring for awhile, listening to the crowd's "Get the fuck out!" chants and booing.
 * During a short brake between matches the ring is cleared by PpW's referees and staff to get rid of the leather belts.
 
-#### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v Adept Oskar
+#### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v Rookie Oskar
 
 * Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/madman-charlie.md) already waits in the ring.
 * Timestamp: `2:11:32`

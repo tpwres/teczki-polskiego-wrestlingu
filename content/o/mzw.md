@@ -19,9 +19,9 @@ MZW was estabilished in 2014, which currently makes it the oldest active profess
 ### 2013: DDW's hiatus
 
 Maniac Zone Wrestling started quietly in 2013, created by then-DDW wrestlers [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Straceniec](https://tpwres.pl/w/shadow.md).
-After [DDW#9](@/e/ddw/2013-10-25-ddw-9.md), there was a significant hiatus when they held no events.
-On April 1st 2014, Jędruś Bułecka's Facebook profile posted that he has signed up with a new Polish wrestling federation.
-His post linked to a newly created fanpage for MZW, and a short video of their wrestlers and adepts in action.
+After [DDW #9](@/e/ddw/2013-10-25-ddw-9.md), there was a significant hiatus when they held no events.
+On April 1st, 2014, Jędruś Bułecka's posted on his Facebook profile that he had signed up with a new Polish wrestling federation.
+His post linked to a newly created fanpage for MZW, and a short video of their wrestlers and rookies in action.
 The new organization promised regular monthly shows, bigger events including foreign stars, and training sessions.
 
 Initially, the roster featured Jędruś Bułecka, Shadow (a new, masked gimmick of the former Straceniec), and several ex-backyard wrestlers trained by Bułecka.
@@ -31,7 +31,7 @@ Because their first two events were sideshows on other attractions like various 
 ### 2018: Moving to Wrocław
 
 Since 2018, MZW held most of their events in Wrocław, either in [Bakara](@/v/bakara.md) or [Czasoprzestrzeń](@/v/czasoprzestrzen.md), with the latter becoming their main venue.
-Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), a town near the Polish-Czech border where many of their events took place, and where they trained new adepts. Prior to that, events were held in various small towns in the region, like Opawa, Smolec and Niedźwiedzica.
+Before that, it was the [sports hall in Głuchołazy](@/v/gosir-glucholazy.md), a town near the Polish-Czech border where many of their events took place, and where they trained new rookies. Prior to that, events were held in various small towns in the region, like Opawa, Smolec and Niedźwiedzica.
 
 In September 2019 persons unknown broke into the building where MZW held trainings and stole elements of the ring as well as lighting, thus forcing them to put their trainings and shows on hold. MZW then held a [crowdfunding campaign][mzw-zbiorka] to raise money to replace the stolen equipment and managed to collect 3566 PLN out of the 3000 PLN goal.
 
