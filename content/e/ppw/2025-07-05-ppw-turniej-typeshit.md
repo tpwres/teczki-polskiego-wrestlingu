@@ -40,14 +40,13 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
   - '[Sambor](@/w/sambor.md)'
   - s: Gauntlet Match for the tournament spot, continued
     n: Agatka interevenes, helping Oskar secure the win.
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - s: Bring Your Weapons
+    c: Typeshit Round 1 match
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: ECW Rules Match
-    c: Typeshit Round 1 match
-    nc: upcoming
-- - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - s: Bring Your Weapons
     c: Typeshit Round 1 match
     nc: upcoming
 {% end %}
