@@ -32,13 +32,13 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
   - s: Gauntlet Match for the tournament spot
 - - '[Sambor](@/w/sambor.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
-  - s: Gauntlet Match for the tournament spot
+  - s: Gauntlet Match for the tournament spot, continued
 - - '[Sambor](@/w/sambor.md)'
   - '[Marcelito](@/w/marcelito.md)'
-  - s: Gauntlet Match for the tournament spot
+  - s: Gauntlet Match for the tournament spot, continued
 - - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Sambor](@/w/sambor.md)'
-  - s: Gauntlet Match for the tournament spot
+  - s: Gauntlet Match for the tournament spot, continued
     n: Agatka interevenes, helping Oskar secure the win.
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
