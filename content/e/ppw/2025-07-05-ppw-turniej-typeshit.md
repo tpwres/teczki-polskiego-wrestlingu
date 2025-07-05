@@ -23,6 +23,23 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 * On 25.06.2025 PpW announced the debut of a new wrestler, straight from the [Ewenement Dojo](@/o/ewenement-dojo.md).
 
 {% card(predicted=true) %}
+- - '[Mister Z](@/w/mister-z.md)'
+  - g: Mister Z opens the show
+- - '[Mister Z](@/w/mister-z.md)'
+  - '_rookie_ Antek'
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - s: Gauntlet Match for the tournament spot
+- - '[Sambor](@/w/sambor.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - s: Gauntlet Match for the tournament spot
+- - '[Sambor](@/w/sambor.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - s: Gauntlet Match for the tournament spot
+- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - s: Gauntlet Match for the tournament spot
+    n: Agatka interevenes, helping Oskar secure the win.
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: ECW Rules Match
