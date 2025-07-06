@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "kpt-bazooka-i-mandec.jpg", caption = "Kapitan Bazooka and [Jerry Mandecky](@/w/jerry-mandecky.md) saluting each other, seconds before Bazooka's turn.", source = "M3n747" }
 +++
 
-Kapitan Bazooka is a retired wrestler, competing for [PpW](@/o/ppw.md) between 2022 and 2024.
+Kapitan Bazooka is a retired wrestler, who competed for [PpW](@/o/ppw.md) between 2022 and 2024.
 
 ## Basic info
 
@@ -57,7 +57,7 @@ His next and final appearance was at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewe
 Mandecky entered the ring, followed by Bazooka in urban camo and a black vest with a "SECURITY" badge on his chest, wearing a black skull cap and a face mask with a skull motif. Their entrance music wasn't Mandecky's or Bazooka's usual themes, but Iron Maiden's "The Trooper".
 Initially still appearing to work for Mandecky, Bazooka helped him enter the ring, and saluted Mandecky after both of them took a look at the beaten [Mister Z](@/w/mister-z.md) in the corner.
 However, while the two were saluting each other, Bazooka turned his salute into a middle finger gesture to Mandecky. With the crowd reacting wildly, he then delivered a gut kick and stunner to his now former boss and removed his cap, mask and vest, revealing a new set of gear underneath.
-On the front, his longsleeve featured a giant half-skull, with KAPITAN BAZOOKA above and below it, and on the back was his new slogan "Uderzeniowa Fala od morza do Podhala" (roughly: _Shock Wave, from the (Baltic) sea to Podhale highlands_). His facepaint was also updated, still a white skull, but on black rather than green.
+On the front, his longsleeve featured a giant half-skull, with KAPITAN BAZOOKA above and below it, and on the back was his new slogan "Uderzeniowa Fala od morza do Podhala" (roughly: _A Shock Wave from the [Baltic] sea to Podhale [highlands]_). His facepaint was also updated, still a white skull, but on black rather than green.
 Bazooka then proceeded to further punish Mandecky by landing a chairshot followed by an elbow drop to the chair on the laid out authority figure.
 He then produced a black cloth bag and put it on Mandecky's head, tying it with a piece of string.
 After rolling him out of the ring and dragging his body over the barriers, he left the ringside area.
@@ -65,7 +65,7 @@ The audience was later told that he put Mandecky in a body bag, then in a car's 
 
 This new angle however, didn't go anywhere. Later that year in August, Bazooka announced his retirement from wrestling due to unspecified joint condition, preventing him from strenuous physical activity.
 
-## In wrestling:
+## In wrestling
 
 * Finishers:
   - Stunner (2022-2024)
