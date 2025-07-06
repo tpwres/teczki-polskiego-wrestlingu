@@ -62,8 +62,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Reparacje_ - "Reparations": aimed at German heels, referring to [World War II reparations][reparacje]. \
   {% ipa(tts="Reparacje") %}rˌɛparˈat͡sjɛ{% end %}
-* _Świniobicie_ - "Pig Slaughter": crowd is enjoying a hoss fight and wants more. \
-  TODO IPA
+* _Świniobicie_ - "Pig slaughter": crowd is enjoying a hoss fight and wants more. \
+  {% ipa(tts="Świniobicie") %}ɕfˌiɲʲɔbʲˈit͡ɕɛ{% end %}
 
 ## Referee
 
@@ -103,9 +103,9 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 ## Visibility issues
 
 * _Nic nie widać!_ - "We can't see anything": action has spilled outside the ring, and a section of the audience cannot see it. \
-  TODO IPA
+  {% ipa(tts="Nic nie widać") %}ɲˈit͡s ɲʲɛ vˈidat͡ɕ!{% end %}
 * _Wszystko widać!_ - "We see everything": counter-chant to the above, by a section that has no visibility issues. \
-  TODO IPA
+  {% ipa(tts="Świniobicie") %}fʃˈɨstkɔ vˈidat͡ɕ!{% end %}
 
 ## Wrestler-specific
 
