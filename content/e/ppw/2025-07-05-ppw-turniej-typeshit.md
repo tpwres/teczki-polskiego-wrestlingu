@@ -40,7 +40,7 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 - - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Sambor](@/w/sambor.md)'
   - s: Gauntlet Match for the tournament spot, continued
-    n: Agatka intervenes to distract the referee, helping Oskar secure the win.
+    n: Agatka intervenes to distract the referee, helping Oskar secure the win
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Bring Your Weapons Match
@@ -60,20 +60,20 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 
 ### Highlights
 
-- Zmowa entered with Mister Z proudly brandishing the briefcase he won at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) one week earlier.
-- Olgierd announced in his promo that he is now aiming for the [PpW Championship](@/c/ppw-championship.md), while Gustav was to "step into the shadows" for now.
-- After defeating Rookie Antek, Mister Z told Olgierd and Marco to hold him down, and decked the rookie with his briefcase. Then he handed it over to Gustav to do the same, which he did but with visible hesitation and slight discomfort.
-- Michael HT came out with Marco to announce that his tournament opportunity is a gauntlet match.
-- During his match with Agentka Agatka, fans ribbed the ultra-masculine, misogynist Marco with "Baba cię bije" (_A woman is beating you_), to which he responded that her place is in the kitchen. Picking up on this, Agatka declared mid-maneouver that her place is not in the kitchen, but on the third rope, to great audience pop.
-- Later in the match, Agatka hit Marco with a running hip attack. In a comedic spot, Marco seemed to actually be aroused by that, and requested more, to her disgusted reaction.
-- Goblin cut a brief promo, stating that his championship reign, since he won the title at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) almost exactly a month prior, started the Unhinged Era and that he'd love to celebrate it with a championship defense. Unfortunately, he was not allowed to do that by Mister Z. Instead, he will let an ambitious upcoming wrestler prove himself. With that, the match become one of Bartosz Plata's self-imposed Trials, and a rare face vs face bout.
-- For his match, Gustav entered wearing street clothes instead of his signature singlet. While fans waited for Biesiad's entrance theme to hit, "Enter Sandman" by Metallica played instead. Then, Biesiad entered, not through the entrance ramp, but through the front door and the audience, ladder in hand. Smoking cigarettes, popping a couple of beers while standing on the ladder - the full Sandman entrace routine, as known from ECW.
-- Finally, Biesiad entered the ring, set up the ladder, and popped one more beer at the top. At that moment, Gustav attacked him, pushing the ladder from underneath - but Biesiad managed to hang on to metal beams high above the ring. That started the match, music still playing.
-- Gustav and Biesiad brawled at the bar, in the audience, and finally also outside the venue. One spot had Biesiad push a large rolling garbage container at Gustav with high speed, causing him to painfully hit and roll on the ground. Plenty of headshots were exchanged using various items, many unprotected.
-
+- Zmowa entered with Mister Z proudly brandishing the briefcase he won at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) one week prior.
+- Olgierd announced in his promo that he is now aiming for the [PpW Championship](@/c/ppw-championship.md), while Gustav has to "step into the shadows" for now.
+- After defeating Rookie Antek, Mister Z told Olgierd and Marco to hold him down, and decked the rookie with his briefcase. Then he handed it over to Gustav to do the same, which he did, but with visible hesitation and slight discomfort.
+- Michael HT came out with Marco Hammers to announce that Marco's tournament opportunity is a gauntlet match.
+- During his match with Agentka Agatka, fans ribbed the ultra-masculine, misogynist Marco with "Baba cię bije" (_A woman is beating you up_), to which he responded that her place is in the kitchen. Picking up on this, Agatka declared mid-maneouver that her place is not in the kitchen, but on the third rope, to great audience pop.
+- Later in the match, Agatka hit Marco with a running hip attack. In a comedic spot, Marco seemed to actually be aroused by it and requested more, to her disgusted reaction.
+- Goblin cut a brief promo, stating that his championship reign, since he won the title at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) almost exactly a month prior, started the Unhinged Era and that he'd love to celebrate it with a championship defense. Unfortunately, Mister Z did not allow him to do that. Instead, he will let an ambitious upcoming wrestler prove himself. With that, the match became one of Bartosz Plata's self-imposed Trials, and a rare face vs face bout.
+- For his match, Gustav entered wearing street clothes instead of his signature singlet. While fans waited for Biesiad's entrance theme to hit, "Enter Sandman" by Metallica played instead. Then Biesiad entered, not through the entrance ramp, but through the front door and the audience, ladder in hand, smoking cigarettes, popping a couple of beers while standing on the ladder - the full Sandman entrace routine, as known from ECW.
+- Finally, Biesiad entered the ring, set up the ladder, and popped one more beer on top of it. At that moment Gustav attacked him, pushing the ladder from underneath him - but Biesiad managed to hang on to metal beams high above the ring. That started the match, music still playing.
+- Gustav and Biesiad brawled at the bar, in the audience, and finally also outside the venue. One spot had Biesiad push a large rolling garbage container at Gustav at high speed, causing him to painfully hit and roll on the ground. Plenty of headshots were exchanged using various items, many unprotected.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=428439)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-type-shit-cup-05-07-25-07-05-2025-20-31-52) (requires paid subscription)
 
 [name]: https://context.reverso.net/translation/english-polish/type+shit
