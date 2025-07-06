@@ -62,6 +62,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Reparacje_ - "Reparations": aimed at German heels, referring to [World War II reparations][reparacje]. \
   {% ipa(tts="Reparacje") %}rˌɛparˈat͡sjɛ{% end %}
+* _Świniobicie_ - "Pig Slaughter": crowd is enjoying a hoss fight and wants more. \
+  TODO IPA
 
 ## Referee
 
@@ -98,6 +100,13 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Mam tak samo jak ty_: [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI) by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin.
 * _Nie rzucim ziemi skąd nasz ród_: [Rota][rota], a 1908 patriotic poem by Maria Konopnicka. Sometimes heard in matches involving German heels.
 
+## Visibility issues
+
+* _Nic nie widać!_ - "We can't see anything": action has spilled outside the ring, and a section of the audience cannot see it. \
+  TODO IPA
+* _Wszystko widać!_ - "We see everything": counter-chant to the above, by a section that has no visibility issues. \
+  TODO IPA
+
 ## Wrestler-specific
 
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "retard" or "loser". \
@@ -112,15 +121,17 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Wiedźmin cztery") %}vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ{% end %}
 * _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
   {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
-* _Siła przyjaźni_ - "Power of friendship": [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). \
+* _Siła przyjaźni_ - "Power of friendship": originally [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). Later used more widely, to cheer on any displays of friendship in the ring. \
   {% ipa(tts="Siła przyjaźni") %}ɕˈiwa pʃɨjˈaʑɲi{% end %}
 * _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. \
   {% ipa(tts="Bóg jest łysy") %}bˈuk jˈɛst wˈɨsɨ{% end %} \
   Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one. \
   {% ipa(tts="Bóg ma wąsa") %}bˈuk mˈa vˈɔ̃sa{% end %}
+* _Zgaś mu światło!_ - "Turn off his lights": an encouragement to [Marcelito](@/w/marcelito.md), referring to his catchphrase. \
+  TODO IPA
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3 . Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
-* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland and the hometown of [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). A stadium chant against their football clubs. \
+* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. \
   {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
   {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️️
