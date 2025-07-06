@@ -8,7 +8,6 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-hide_results = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-07-05-ppw-turniej-typeshit-gallery.toml"
 +++
@@ -19,16 +18,18 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 
 * The show was announced on 17.06.2025. No match-ups were unveiled, but according to the poster the event will feature [Goblin](@/w/goblin.md), [Mister Z](@/w/mister-z.md), [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Oskar Aleksander](@/w/oskar-aleksander.md) and others.
 * On 20.06.2025 PpW announced the first round of the tournament - [Biesiad Strong](@/w/biesiad.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) in an ECW Rules Match.
-* On 23.06.2025 PpW announced another first round of the tournament - [Johnny Blade](@/w/johnny-blade.md) vs [Olgierd](@/w/olgierd.md) in a Bring Your Weapons Match.
+* On 23.06.2025 PpW announced another first round match of the tournament - [Johnny Blade](@/w/johnny-blade.md) vs [Olgierd](@/w/olgierd.md) in a Bring Your Weapons Match.
 * On 25.06.2025 PpW announced the debut of a new wrestler, straight from the [Ewenement Dojo](@/o/ewenement-dojo.md).
 
-{% card(predicted=true) %}
-- - '[Mister Z](@/w/mister-z.md)'
-  - g: Mister Z opens the show
+## Card
+
+{% card() %}
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
+  - g: Zmowa opens the show, Mister Z introduces the newest rookie to join PpW
 - - '[Mister Z](@/w/mister-z.md)'
   - '_rookie_ Antek'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
   - s: Gauntlet Match for the tournament spot
 - - '[Sambor](@/w/sambor.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
@@ -39,24 +40,37 @@ Turniej TypeShit (_Tournament-Type Shit_) is an upcoming show by [PpW Ewenement 
 - - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
   - '[Sambor](@/w/sambor.md)'
   - s: Gauntlet Match for the tournament spot, continued
-    n: Agatka interevenes, helping Oskar secure the win.
+    n: Agatka intervenes to distract the referee, helping Oskar secure the win.
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - s: Bring Your Weapons
-    c: Typeshit Round 1 match
+  - s: Bring Your Weapons Match
+    c: Tournament Type-shit Round 1
 - - '[Goblin](@/w/goblin.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - n: Non-title match
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: ECW Rules Match
-    c: Typeshit Round 1 match
-    nc: upcoming
+    c: Tournament Type-shit Round 1
+- credits:
+    Referees: "[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)"
+    Host, Ring Announcer: "[Michael HT](@/w/michael-ht.md)"
+    Commentary: "[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)"
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+- Zmowa entered with Mister Z proudly brandishing the briefcase he won at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) one week earlier.
+- Olgierd announced in his promo that he is now aiming for the [PpW Championship](@/c/ppw-championship.md), while Gustav was to "step into the shadows" for now.
+- After defeating Rookie Antek, Mister Z told Olgierd and Marco to hold him down, and decked the rookie with his briefcase. Then he handed it over to Gustav to do the same, which he did but with visible hesitation and slight discomfort.
+- Michael HT came out with Marco to announce that his tournament opportunity is a gauntlet match.
+- During his match with Agentka Agatka, fans ribbed the ultra-masculine, misogynist Marco with "Baba cię bije" (_A woman is beating you_), to which he responded that her place is in the kitchen. Picking up on this, Agatka declared mid-maneouver that her place is not in the kitchen, but on the third rope, to great audience pop.
+- Later in the match, Agatka hit Marco with a running hip attack. In a comedic spot, Marco seemed to actually be aroused by that, and requested more, to her disgusted reaction.
+- Goblin cut a brief promo, stating that his championship reign, since he won the title at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) almost exactly a month prior, started the Unhinged Era and that he'd love to celebrate it with a championship defense. Unfortunately, he was not allowed to do that by Mister Z. Instead, he will let an ambitious upcoming wrestler prove himself. With that, the match become one of Bartosz Plata's self-imposed Trials, and a rare face vs face bout.
+- For his match, Gustav entered wearing street clothes instead of his signature singlet. While fans waited for Biesiad's entrance theme to hit, "Enter Sandman" by Metallica played instead. Then, Biesiad entered, not through the entrance ramp, but through the front door and the audience, ladder in hand. Smoking cigarettes, popping a couple of beers while standing on the ladder - the full Sandman entrace routine, as known from ECW.
+- Finally, Biesiad entered the ring, set up the ladder, and popped one more beer at the top. At that moment, Gustav attacked him, pushing the ladder from underneath - but Biesiad managed to hang on to metal beams high above the ring. That started the match, music still playing.
+- Gustav and Biesiad brawled at the bar, in the audience, and finally also outside the venue. One spot had Biesiad push a large rolling garbage container at Gustav with high speed, causing him to painfully hit and roll on the ground. Plenty of headshots were exchanged using various items, many unprotected.
+
 
 ## References
 
