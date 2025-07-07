@@ -34,7 +34,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 * _Zajebiste_ - "This is awesome", although more vulgar. \
   {% ipa(tts="Zajebiste") %}zˌajɛbʲˈistɛ{% end %} 🌶️
-* _[Wrestler] jest zajebisty_ - "[Wrestler] is awesome": most often to the tune of "Seven Nation Army". \
+* _[Wrestler] jest zajebisty_ - "[Wrestler] is awesome": most often to the tune of ["Seven Nation Army"][7-nation]. \
   {% ipa(tts="[Wrestler] jest zajebisty") %}&#91;vrˈɛstlɛr&#93; jˈɛst zˌajɛbʲˈistɨ{% end %} 🌶️
 
 ## Calls to action
@@ -47,7 +47,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Zabij go") %}zˈabʲij ɡˈɔ{% end %}
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
   {% ipa(tts="Zajeb go") %}zˈajɛp ɡˈɔ{% end %} 🌶️
-* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop. \
+* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop (and later picked up by some other wrestlers as well). \
   {% ipa(tts="Zjedz mu łeb") %}zjˈɛt͡s mˈu wˈɛp{% end %}
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
   {% ipa(tts="Urwij mu łeb") %}ˈurvij mˈu wˈɛp{% end %}
@@ -58,16 +58,16 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
-* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to show topless (no performer obliged so far) 🌶️
-IPA GOES HERE
+* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself (no performer obliged so far) 🌶️
+  {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %}
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Reparacje_ - "Reparations": aimed at German heels, referring to [World War II reparations][reparacje]. \
   {% ipa(tts="Reparacje") %}rˌɛparˈat͡sjɛ{% end %}
-* _Świniobicie_ - "Pig slaughter": crowd is enjoying a hoss fight and wants more. \
+* _Świniobicie_ - "Pig slaughter": the crowd enjoys a hoss fight and wants more. \
   {% ipa(tts="Świniobicie") %}ɕfˌiɲʲɔbʲˈit͡ɕɛ{% end %}
-* _Baba cię bije_ - "Woman is beating you" - intergender matches when female competitor gains the upper hand
-IPA GOES HERE
+* _Baba cię bije_ - "A woman is beating you up" - during intergender matches, when a female competitor gains the upper hand \
+  {% ipa(tts="Baba cię bije") %}bˈaba t͡ɕˈɛ bʲˈijɛ{% end %}
 
 ## Referee
 
@@ -89,7 +89,7 @@ IPA GOES HERE
 
 * _Kim ty jesteś?_ - "Who are you?": the crowd is unfamiliar with the character (or pretends not to be). \
   {% ipa(tts="Kim ty jesteś?") %}kˈim tˈɨ jˈɛstɛɕ?{% end %}
-* _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One Fall!" after the announcer. \
+* _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One fall!" after the announcer. \
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is: \
   &ndash; Announcer: _Pochodzący z [miasta], ważący [ilość] kilogramów_ ("Hailing from [city], weighing in at [amount] kilograms.") \
   &ndash; Crowd: _Mało!_ \
@@ -109,16 +109,19 @@ IPA GOES HERE
 * _Nic nie widać!_ - "We can't see anything": action has spilled outside the ring, and a section of the audience cannot see it. \
   {% ipa(tts="Nic nie widać") %}ɲˈit͡s ɲʲɛ vˈidat͡ɕ!{% end %}
 * _Wszystko widać!_ - "We see everything": counter-chant to the above, by a section that has no visibility issues. \
-  {% ipa(tts="Świniobicie") %}fʃˈɨstkɔ vˈidat͡ɕ!{% end %}
+  {% ipa(tts="Wszystko widać") %}fʃˈɨstkɔ vˈidat͡ɕ!{% end %}
 
 ## Wrestler-specific
 
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "retard" or "loser". \
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
-* _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z. 🌶️
-* _Z jak idiota_, _Z jak debil_ and so on [Mister Z](@/w/mister-z.md): creative extension of Z's one letter name, none of them actually starting with Z. Exclusive to Mister Z's [MZW](@/o/mzw.md) 🌶️
-IPA GOES HERE
-* _Zjedz Mu Mózg_ - [Zombie! Johnny Blade](@/w/johnny-blade.md): "Eat His Brain", a variant of Eat His Head above.
+* _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z.
+  {% ipa(tts="Zjeb ci na imię") %}zjˈɛp t͡ɕi na ˈimjɛ{% end %} 🌶️
+* _Z jak idiota_, _Z jak debil_ etc.: a creative extension of [Z's](@/w/mister-z.md) one letter name, none of them actually starting with Z. Exclusive to Mister Z's [MZW](@/o/mzw.md).
+  {% ipa(tts="Zet jak idiota") %}zˈɛt jˈak idjˈɔta{% end %} \
+  {% ipa(tts="Zet jak debil") %}zˈɛt jˈaɡ dˈɛbʲil{% end %}
+* _Zjedz mu mózg_ - [Zombie! Johnny Blade](@/w/johnny-blade.md): "eat his brain", a variant of "eat his head" above.
+  {% ipa(tts="Zjedz mu mózg") %}zjˈɛt͡s mu mˈusk{% end %}
 * _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
 * _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
@@ -131,14 +134,14 @@ IPA GOES HERE
   {% ipa(tts="Siła przyjaźni") %}ɕˈiwa pʃɨjˈaʑɲi{% end %}
 * _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. \
   {% ipa(tts="Bóg jest łysy") %}bˈuk jˈɛst wˈɨsɨ{% end %} \
-  Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one. \
+  Also _Bóg ma wąsa_ - "God has a moustache", when he grew one. \
   {% ipa(tts="Bóg ma wąsa") %}bˈuk mˈa vˈɔ̃sa{% end %}
 * _Zgaś mu światło!_ - "Turn off his lights": an encouragement to [Marcelito](@/w/marcelito.md), referring to his catchphrase. \
   {% ipa(tts="Zgaś mu światło") %}zɡˈaɕ mu ɕfʲˈatwɔ{% end %}
-* _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3 . Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
+* _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3. Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
-* _Tony Skin, chuj ci w ryj_ roughly: "Tony Skin should (forcefully) suck dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. 🌶️🌶️🌶️/
-IPA GOES HERE
+* _Tony Sk1n, chuj ci w ryj_ roughly: "Tony Sk1n, suck a dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. /
+  {% ipa(tts="Tony Skin, chuj ci w ryj") %}tˈɔnɨ skˈin, xˈuj t͡ɕi w rˈɨj{% end %} 🌶️🌶️🌶️
 * _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. \
   {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
@@ -147,3 +150,4 @@ IPA GOES HERE
 [wyp3]: https://www.youtube.com/watch?v=7dphuF6RHMw
 [reparacje]: https://en.wikipedia.org/wiki/World_War_II_reparations#Poland
 [rota]: https://en.wikipedia.org/wiki/Rota_(poem)
+[7-nation]: https://www.youtube.com/watch?v=0J2QdDbelmY
