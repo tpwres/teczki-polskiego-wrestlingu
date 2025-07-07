@@ -35,4 +35,4 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 
 ## References
 
-* TBD
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=429370)
