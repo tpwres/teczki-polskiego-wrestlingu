@@ -128,7 +128,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   Also _Bóg ma wąsa_ - "God has a 'stache", when he grew one. \
   {% ipa(tts="Bóg ma wąsa") %}bˈuk mˈa vˈɔ̃sa{% end %}
 * _Zgaś mu światło!_ - "Turn off his lights": an encouragement to [Marcelito](@/w/marcelito.md), referring to his catchphrase. \
-  TODO IPA
+  {% ipa(tts="Zgaś mu światło") %}zɡˈaɕ mu ɕfʲˈatwɔ{% end %}
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3 . Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
 * _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. \
