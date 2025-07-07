@@ -59,7 +59,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
 * _Pokaż cycki_ - "Show your tits": when the crowd is too drunk to tell this is a wrestling show, not a strip club. \
-  {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 🌶️
+  {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Reparacje_ - "Reparations": aimed at German heels, referring to [World War II reparations][reparacje]. \
