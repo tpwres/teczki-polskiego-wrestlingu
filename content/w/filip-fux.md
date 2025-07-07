@@ -42,7 +42,7 @@ After his defeat at Arena 27 Filip challenged [Chemik](@/w/chemik.md) for his [K
 
 Filip Fux was the first KPW wrestler to be announced as the member of [Legacy of Wrestling](@/o/low.md) roster, thus becoming the first worker KPW allowed to perform in another Polish federation. A few months before the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md) Filip got involved in a feud with his old friend from KPW Academy and a member of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md). In one of the episodes of Marco's YouTube vlog series "Łysy Vlog" (_Bald Vlog_) he got into an argument with Filip over some muscle-enhancing creatine, which Filip supposedly stole from Marco during their joint trip to Hungary for an HCW show. This Internet feud evolved into a match at Legacy's first show. Marco won this match after a distraction by [Olgierd](@/w/olgierd.md), and in a post-match beatdown him and Olgierd managed to snatch Filip's KPW Tag Team Championship belt and pose with it, which strongly suggested Legia's intention to face the KPW champions for their titles.
 
-The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy Of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych.
+The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych.
 
 ## In wrestling
 

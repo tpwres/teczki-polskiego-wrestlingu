@@ -28,7 +28,7 @@ At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Jakub made his 
 
 ### Legacy of Wrestling (2024)
 
-In December 2024 Jakub Linde made his debut in the newly-created federation [Legacy Of Wrestling](@/o/low.md), as Gustav Gryffin's manager and personal announcer during the main event of [LoW's first show](@/e/low/2024-12-01-low-1.md).
+In December 2024 Jakub Linde made his debut in the newly-created federation [Legacy of Wrestling](@/o/low.md), as Gustav Gryffin's manager and personal announcer during the main event of [LoW's first show](@/e/low/2024-12-01-low-1.md).
 
 ## In wrestling
 

@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "showoff.jpg", caption = "ShowOff commenting an unknown event", source = "Official PTW Facebook" }
 +++
 
-Piotr "ShowOff" Małecki is a Polish wrestling commentator, content creator and one of the co-founders of [Legacy Of Wrestling](@/o/low.md).
+Piotr "ShowOff" Małecki is a Polish wrestling commentator, content creator and one of the co-founders of [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
