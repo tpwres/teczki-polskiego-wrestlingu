@@ -58,7 +58,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
-* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself (no performer obliged so far) 🌶️
+* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself (no performer has obliged so far) 🌶️ \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %}
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
@@ -117,10 +117,10 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
 * _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z.
   {% ipa(tts="Zjeb ci na imię") %}zjˈɛp t͡ɕi na ˈimjɛ{% end %} 🌶️
-* _Z jak idiota_, _Z jak debil_ etc.: a creative extension of [Z's](@/w/mister-z.md) one letter name, none of them actually starting with Z. Exclusive to Mister Z's [MZW](@/o/mzw.md).
+* _Z jak idiota_, _Z jak debil_ etc.: a creative extension of [Z's](@/w/mister-z.md) one-letter name, none of them actually starting with Z. Exclusive to Mister Z's [MZW](@/o/mzw.md). \
   {% ipa(tts="Zet jak idiota") %}zˈɛt jˈak idjˈɔta{% end %} \
   {% ipa(tts="Zet jak debil") %}zˈɛt jˈaɡ dˈɛbʲil{% end %}
-* _Zjedz mu mózg_ - [Zombie! Johnny Blade](@/w/johnny-blade.md): "eat his brain", a variant of "eat his head" above.
+* _Zjedz mu mózg_ - [Zombie! Johnny Blade](@/w/johnny-blade.md): "eat his brain", a variant of "eat his head" above. \
   {% ipa(tts="Zjedz mu mózg") %}zjˈɛt͡s mu mˈusk{% end %}
 * _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
