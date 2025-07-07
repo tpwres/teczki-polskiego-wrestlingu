@@ -58,8 +58,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
-* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself (no performer has obliged so far) 🌶️ \
-  {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %}
+* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself (no performer has obliged so far) \
+  {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 🌶️
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Reparacje_ - "Reparations": aimed at German heels, referring to [World War II reparations][reparacje]. \
@@ -115,7 +115,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "retard" or "loser". \
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
-* _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z.
+* _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z. \
   {% ipa(tts="Zjeb ci na imię") %}zjˈɛp t͡ɕi na ˈimjɛ{% end %} 🌶️
 * _Z jak idiota_, _Z jak debil_ etc.: a creative extension of [Z's](@/w/mister-z.md) one-letter name, none of them actually starting with Z. Exclusive to Mister Z's [MZW](@/o/mzw.md). \
   {% ipa(tts="Zet jak idiota") %}zˈɛt jˈak idjˈɔta{% end %} \
@@ -140,7 +140,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Zgaś mu światło") %}zɡˈaɕ mu ɕfʲˈatwɔ{% end %}
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3. Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
-* _Tony Sk1n, chuj ci w ryj_ roughly: "Tony Sk1n, suck a dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. /
+* _Tony Sk1n, chuj ci w ryj_ roughly: "Tony Sk1n, suck a dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. \
   {% ipa(tts="Tony Skin, chuj ci w ryj") %}tˈɔnɨ skˈin, xˈuj t͡ɕi w rˈɨj{% end %} 🌶️🌶️🌶️
 * _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. \
   {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
