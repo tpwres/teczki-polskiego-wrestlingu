@@ -58,7 +58,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
-* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself (no performer has obliged so far) \
+* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 🌶️
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
