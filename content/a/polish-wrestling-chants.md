@@ -117,7 +117,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
 * _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z. \
   {% ipa(tts="Zjeb ci na imię") %}zjˈɛp t͡ɕi na ˈimjɛ{% end %} 🌶️
-* _Z jak idiota_, _Z jak debil_ etc.: a creative extension of [Z's](@/w/mister-z.md) one-letter name, none of them actually starting with Z. Exclusive to Mister Z's [MZW](@/o/mzw.md). \
+* _Z jak idiota_, _Z jak debil_ etc.: a creative extension of [Z's](@/w/mister-z.md) one-letter name, none of them actually starting with Z. Exclusive to Mister Z at [MZW](@/o/mzw.md). \
   {% ipa(tts="Zet jak idiota") %}zˈɛt jˈak idjˈɔta{% end %} \
   {% ipa(tts="Zet jak debil") %}zˈɛt jˈaɡ dˈɛbʲil{% end %}
 * _Zjedz mu mózg_ - [Zombie! Johnny Blade](@/w/johnny-blade.md): "eat his brain", a variant of "eat his head" above. \
