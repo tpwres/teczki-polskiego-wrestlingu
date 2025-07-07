@@ -58,13 +58,13 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
 * _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
-* _Pokaż cycki_* - "Show your tits": when the crowd wants a female performer to expose herself (no performer has obliged so far) \
+* _Pokaż cycki_ - "Show your tits": when the crowd is too drunk to tell this is a wrestling show, not a strip club. \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 🌶️
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Reparacje_ - "Reparations": aimed at German heels, referring to [World War II reparations][reparacje]. \
   {% ipa(tts="Reparacje") %}rˌɛparˈat͡sjɛ{% end %}
-* _Świniobicie_ - "Pig slaughter": the crowd enjoys a hoss fight and wants more. \
+* _Świniobicie_ - "Pig slaughter": the crowd is enjoying a hoss fight, or a particularly nasty exchange of chops, and wants more. \
   {% ipa(tts="Świniobicie") %}ɕfˌiɲʲɔbʲˈit͡ɕɛ{% end %}
 * _Baba cię bije_ - "A woman is beating you up" - during intergender matches, when a female competitor gains the upper hand \
   {% ipa(tts="Baba cię bije") %}bˈaba t͡ɕˈɛ bʲˈijɛ{% end %}
@@ -77,7 +77,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Sędzia cipa") %}sˈɛɲd͡ʑa t͡ɕˈipa{% end %} 🌶️
 * _Sędzia jest super_ - "Referee is awesome": counter-chant to the above, but also when ref prevents further damage or throws a heel out. \
   {% ipa(tts="Sędzia jest super") %}sˈɛɲd͡ʑa jˈɛst sˈupɛr{% end %}
-* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. Or whenever the crowd wanted the babyface to win already, sometimes the calls are not even close to 2,5.\
+* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. Or whenever the crowd wanted the babyface to win already, often the calls are not even close to 2,5.\
   {% ipa(tts="Było trzy") %}bˈɨwɔ tʃˈɨ{% end %}
 
 ## Weapons
@@ -101,10 +101,10 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 * _Pan kiedyś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by the Polish Pope John Paul&nbsp;II. Fans may start to randomly sing it at 21:37 (9:37&nbsp;PM), the exact hour of his death. It is not in the Pope's memory, however, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
   Sometimes also sang for [Greg](@/w/greg.md) of [Kombat Pro Wrestling](@/o/kpw.md) in his Pope of Polish Wrestling gimmick - which he seemed to enjoy.
-* _Mam tak samo jak ty_: [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI) by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin. Also o hymn of Legia Warszawa, so used by extension for babyface reception of [Legia Łysych](@/tt/legia-lysych.md).
+* _Mam tak samo jak ty_: [Sen o Warszawie](https://www.youtube.com/watch?v=ePNUSmH3dMI) by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin. Also a hymn of Legia Warszawa, so used by extension for babyface reception of [Legia Łysych](@/tt/legia-lysych.md).
 * _Nie rzucim ziemi skąd nasz ród_: [Rota][rota], a 1908 patriotic poem by Maria Konopnicka. Sometimes heard in matches involving German heels.
 
-## Visibility issues
+## Production issues
 
 * _Nic nie widać!_ - "We can't see anything": action has spilled outside the ring, and a section of the audience cannot see it. \
   {% ipa(tts="Nic nie widać") %}ɲˈit͡s ɲʲɛ vˈidat͡ɕ!{% end %}
@@ -117,7 +117,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
 * _Zjeb ci na imię..._: a variant of _Chuj ci na imię_, specifically targeted at Mister Z. \
   {% ipa(tts="Zjeb ci na imię") %}zjˈɛp t͡ɕi na ˈimjɛ{% end %} 🌶️
-* _Z jak idiota_, _Z jak debil_ etc.: a creative extension of [Z's](@/w/mister-z.md) one-letter name, none of them actually starting with Z. Exclusive to Mister Z at [MZW](@/o/mzw.md). \
+* _Z jak idiota_, _Z jak debil_ etc.: a creative expansion of [Z's](@/w/mister-z.md) one-letter name, none of them actually starting with Z. Exclusive to Mister Z at [MZW](@/o/mzw.md). \
   {% ipa(tts="Zet jak idiota") %}zˈɛt jˈak idjˈɔta{% end %} \
   {% ipa(tts="Zet jak debil") %}zˈɛt jˈaɡ dˈɛbʲil{% end %}
 * _Zjedz mu mózg_ - [Zombie! Johnny Blade](@/w/johnny-blade.md): "eat his brain", a variant of "eat his head" above. \
