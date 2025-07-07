@@ -60,7 +60,7 @@ After spending the first half of 2023 in midcard, David seemingly started gettin
 
 ### Legacy of Wrestling (2025)
 
-In April 2025 David made his debut for [Legacy Of Wrestling](@/o/low.md) at their [second show](@/e/low/2025-04-06-low-2.md), where he faced - and defeated - [Marcelito](@/w/marcelito.md) in a Singles Match. 
+In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at their [second show](@/e/low/2025-04-06-low-2.md), where he faced - and defeated - [Marcelito](@/w/marcelito.md) in a Singles Match. 
 
 ## In wrestling
 
