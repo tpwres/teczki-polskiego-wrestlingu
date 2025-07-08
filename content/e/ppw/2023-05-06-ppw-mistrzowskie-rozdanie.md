@@ -13,6 +13,8 @@ caption = "Official poster. The four aces are [Bill Feager](@/w/feager.md), [Mis
 source = "Official PpW Facebook"
 +++
 
+Mistrzowskie Rozdanie (roughly _A Champion's Hand_, as in a hand of cards) was a show by [PpW Ewenement Wrestling](@/o/ppw.md).
+
 ## Card
 
 {% card() %}

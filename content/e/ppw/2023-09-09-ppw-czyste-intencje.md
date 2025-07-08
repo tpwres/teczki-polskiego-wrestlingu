@@ -13,6 +13,8 @@ caption = 'Official poster. The top five characters are [Ricardo Diesel](@/w/ric
 source = "Official PpW Facebook"
 +++
 
+Czyste Intencje (_Pure Intentions_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md).
+
 ## Card
 
 {% card() %}
