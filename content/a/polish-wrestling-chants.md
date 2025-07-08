@@ -56,9 +56,9 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]") %}zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;{% end %} 🌶️🌶️
 * _Jedziesz z tą kurwą, hej [wrestler], jedziesz z tą kurwą_ - "Fuck this bitch up, [wrestler]": encouraging offense and insulting the opponent at the same time. \
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
-* _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. \
+* _Pokaż dupę_ - "Show your ass": against a male performers it's rather a _What_ chant signifying the persona is boring. Also something of a running joke targeted at [Adrian Zgórski](@/w/adrian-zgorski.md). \
   {% ipa(tts="Pokaż dupę") %}pˈɔkaʃ dˈupɛ{% end %} 🌶️
-* _Pokaż cycki_ - "Show your tits": when the crowd is too drunk to tell this is a wrestling show, not a strip club. \
+* _Pokaż cycki_ - "Show your tits": a raunchy chant targeted at female performers (usually when the crowd gets noticeably intoxicated). \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 
 * _Trzecia lina_ - "Third rope": calling for a wrestler to perform a top-rope move. \
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
