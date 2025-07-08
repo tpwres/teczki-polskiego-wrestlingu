@@ -1,11 +1,19 @@
 #! /bin/bash
 # set -x
 
+install_zola() {
+	asdf plugin add zola https://github.com/salasrod/asdf-zola
+	asdf install zola 0.20.0
+	asdf global zola 0.20.0
+}
+
 lint() {
     bin/lint || true
 }
 
 create_config() {
+  # This env setup step is useless now - these variables aren't exposed to workers,
+  # and there is no replacement. base_url should be set to '/' always
   case $CF_PAGES_BRANCH in
       main)
           export BASE_URL=$PRODUCTION_URL
@@ -48,6 +56,7 @@ build() {
 }
 
 lint
+install_zola
 create_config
 setup_seo
 build
