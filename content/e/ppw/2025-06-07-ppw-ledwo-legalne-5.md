@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2025-06-07-ppw-ledwo-legalne-5-gallery.toml"
 +++
 
-Ledwo Legalne 5 (_Barely Legal_) was [PpW Ewenement's](@/o/ppw.md) major show of 2025, held on the 7th of June 2025 at [Mińska 65](@/v/minska-65.md) in Warsaw, which is the same venue that held [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show of 2025, held on the 7th of June 2025 at [Mińska 65](@/v/minska-65.md) in Warsaw, which is the same venue that held [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ## Build-up
 

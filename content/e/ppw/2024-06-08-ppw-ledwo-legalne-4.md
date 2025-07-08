@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2024-06-08-ppw-ledwo-legalne-4-gallery.toml"
 +++
 
-Ledwo Legalne IV (_Barely Legal_) was an event by [PpW Ewenement](@/o/ppw.md), that took place on Saturday, June 8th 2024. The stage was Praga Centrum, a music and event venue in Warsaw's east-side Praga district. This is the same venue that hosted [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
+Ledwo Legalne IV (_Barely Legal IV_) was an event by [PpW Ewenement](@/o/ppw.md), that took place on Saturday, June 8th 2024. The stage was Praga Centrum, a music and event venue in Warsaw's east-side Praga district. This is the same venue that hosted [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
 
 Unlike several previous events, this show was not streamed live. PpW stated in a [Facebook post][facebook-too-violent] this was due to excessive violence and insanity that would not be accepted by any streaming portal. However, they also promised to upload select matches after the show's conclusion.
 

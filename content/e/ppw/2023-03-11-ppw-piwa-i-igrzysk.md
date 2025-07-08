@@ -13,7 +13,7 @@ caption = "Official poster, showing [Biesiad Strong](@/w/biesiad.md) in front of
 source = "Official PpW Facebook"
 +++
 
-Piwa I Igrzysk ("Beer and Games") was an event that took place at [Waldorffa 25](@/v/waldorffa25.md) on March 11 2023.
+Piwa I Igrzysk (_Beer and Games_) was an event that took place at [Waldorffa 25](@/v/waldorffa25.md) on March 11 2023.
 Originally, [Rafael Kid](@/w/rafael-kid.md) was scheduled for a match against Aytac Bahar, but was replaced by [Adam Wong](@/w/adam-wong.md).
 In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Championship](@/o/ppw.md#championships) belt and the Freedom Pro Wrestling Championship belt that he held at the time. None of the titles were contended for, however.
 

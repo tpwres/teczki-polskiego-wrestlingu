@@ -13,6 +13,8 @@ caption = "Official poster, showing [Mister Z](@/w/mister-z.md) with the [PpW Ch
 source = "Official PpW Facebook"
 +++
 
+Ledwo Legalne (_Barely Legal_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) considered the official beginning of PpW's professional era. It was also the first in the annual Ledwo Legalne series of supershows, focusing on payoffs to major storylines.
+
 ## Card
 
 {% card() %}

@@ -17,6 +17,8 @@ caption = "See? Told you."
 source = "Official PpW Facebook"
 +++
 
+Ledwo Legalne III (_Barely Legal III_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) and the third in the annual series of supershows.
+
 ## Card
 
 {% card() %}

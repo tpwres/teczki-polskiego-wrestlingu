@@ -13,6 +13,8 @@ caption = "Official poster, showing joined faces of a masked [Mister Z](@/w/mist
 source = "Official PpW Facebook"
 +++
 
+Mistrz Jest Tylko Jeden (_There Is Only One Champion_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md).
+
 ## Card
 
 {% card() %}
