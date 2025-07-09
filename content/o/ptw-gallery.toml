@@ -35,7 +35,7 @@ skip_art = true
 
 [07]
 path = "ppw_wrestlers_stonoga.jpg"
-caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PpW merchandise. Except one, these fans are PpW wrestlers and personnel.'
+caption = 'Zbigniew Stonoga posing outside of a McDonalds kids playground, with "fans" wearing PpW merchandise. Except one, these fans are [PpW](@/o/ppw.md) wrestlers and personnel.'
 source = "Gazeta Stonoga's Facebook page"
 
 [08]
@@ -53,6 +53,7 @@ source = "Instagram profile @ludwiczek_top"
 path = "dziedzic-sinister-marcelito-facebook.png"
 caption = "Anonymous post on the PTW Fan group, mockingly asking for at least 3 matches on the upcoming Ryucon show, and wishing well to Dziedzic, Marcelito and Sinister."
 source = "Facebook PTW Grupa Fanów"
+skip_art = true
 
 [11]
 path = "puncher-chapter-closed.jpg"
@@ -80,6 +81,7 @@ skip_art = true
 [15]
 path = "sambor-insta-thanks.jpg"
 caption = '[Sambor](@/w/sambor.md) thanking the fans, organization and Pawłowski for support. The text states that his time in wrestling is not over, and his story will be told in many taverns.'
+source = "Instagram profile @sambor_wrestler"
 
 [16]
 path = "hammers-vs-caravaggio.png"
@@ -107,11 +109,13 @@ skip_art = true
 [20]
 path = "ludwiczek-insta-3.png"
 caption = "Further discussion under Ludwiczek's instagram post. Pawłowski is called a manipulator who keeps pretending he's the victim of circumstances. Former PTW wrestler [Justin Joy](@/w/justin-joy.md) (as oski_ninja) praises Ludwiczek for talking sense, while [Samson](@/w/samson.md) wants a match against Pawłowski."
+source = "Instagram profile @ludwiczek_top"
 skip_art = true
 
 [21]
 path = "botte-da-bestya.webp"
 caption = "ICW's poster advertising Botte da Bestya 2. Near the bottom are Iva Kolasky and [Puncher](@/w/puncher.md). Luca Bjorn, who also appeared for PTW is first in the second row."
+source = "Official PTW Facebook"
 
 [22]
 path = "piekny-fakolec.webp"
@@ -129,6 +133,7 @@ skip_art = true
 path = "roster-2024-05-09.webp"
 caption = "PTW's roster page prior to being taken down."
 source = "Archive.org"
+skip_art = true
 
 [25]
 path = "debt.webp"

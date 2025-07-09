@@ -33,11 +33,11 @@ d_horror-03 = { path = "hh_3.jpg", caption = "Househorror.<br/>Vamp holds up ???
 d_horror-04 = { path = "hh_4.jpg", caption = "Househorror.<br/>Vamp and Kid Crusher share a bottle.", source = "Official BWD page / Archive.org" }
 d_horror-05 = { path = "hh_5.jpg", caption = "Househorror.<br/>Kid Crusher and Vamp.", source = "Official BWD page / Archive.org" }
 d_horror-06 = { path = "hh_6.jpg", caption = "Househorror.<br/>Vamp carries KAT.", source = "Official BWD page / Archive.org" }
-e_trening-021 = { path = "trening021.jpg", caption = "November training session.<br/>Close-up of Kid Crusher's T-shirt.", source = "Official BWD page / Archive.org" }
-e_trening-022 = { path = "trening022.jpg", caption = "November training session.<br/>Detail of ManowaR's T-shirt.", source = "Official BWD page / Archive.org" }
-e_trening-023 = { path = "trening023.jpg", caption = "November training session.<br/>Close-up of ManowaR's T-shirt.", source = "Official BWD page / Archive.org" }
-e_trening-025 = { path = "trening025.jpg", caption = "November training session.<br/>Close-up of Vamp's T-shirt.", source = "Official BWD page / Archive.org" }
-e_trening-026 = { path = "trening026.jpg", caption = "November training session.<br/>Close-up of Vamp's other T-shirt.", source = "Official BWD page / Archive.org" }
+e_trening-021 = { path = "trening021.jpg", caption = "November training session.<br/>Close-up of Kid Crusher's T-shirt.", source = "Official BWD page / Archive.org", skip_art = true }
+e_trening-022 = { path = "trening022.jpg", caption = "November training session.<br/>Detail of ManowaR's T-shirt.", source = "Official BWD page / Archive.org", skip_art = true }
+e_trening-023 = { path = "trening023.jpg", caption = "November training session.<br/>Close-up of ManowaR's T-shirt.", source = "Official BWD page / Archive.org", skip_art = true }
+e_trening-025 = { path = "trening025.jpg", caption = "November training session.<br/>Close-up of Vamp's T-shirt.", source = "Official BWD page / Archive.org", skip_art = true }
+e_trening-026 = { path = "trening026.jpg", caption = "November training session.<br/>Close-up of Vamp's other T-shirt.", source = "Official BWD page / Archive.org", skip_art = true }
 e_trening-028 = { path = "trening028.jpg", caption = "November training session.<br/>Vamp and ???.", source = "Official BWD page / Archive.org" }
 e_trening-049 = { path = "trening049.jpg", caption = "November training session.<br/>ManowaR and Kid Crusher.", source = "Official BWD page / Archive.org" }
 e_trening-051 = { path = "trening051.jpg", caption = "November training session.<br/>??? and Vamp.", source = "Official BWD page / Archive.org" }
@@ -51,4 +51,4 @@ e_trening-132 = { path = "trening132.jpg", caption = "November training session.
 e_trening-134 = { path = "trening134.jpg", caption = "November training session.<br/>Vamp vs ManowaR.", source = "Official BWD page / Archive.org" }
 e_trening-135 = { path = "trening135.jpg", caption = "November training session.<br/>Vamp vs ???.", source = "Official BWD page / Archive.org" }
 e_trening-157 = { path = "trening157.jpg", caption = "November training session.<br/>Left to righ: Vamp, ManowaR, ???, ???.", source = "Official BWD page / Archive.org" }
-e_trening-166 = { path = "trening166.jpg", caption = "November training session.<br/>A random artificial flower.", source = "Official BWD page / Archive.org" }
+e_trening-166 = { path = "trening166.jpg", caption = "November training session.<br/>A random artificial flower.", source = "Official BWD page / Archive.org", skip_art = true }

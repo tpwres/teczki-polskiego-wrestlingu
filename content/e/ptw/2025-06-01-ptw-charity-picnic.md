@@ -9,7 +9,7 @@ venue = ["szafirowy-dwor"]
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
-1 = { path = "piknikszafirowy.webp", caption = "Full show report given by Okoński and [PTW](@/o/ptw.md) profile", source = "Official PTW Facebook" }
+1 = { path = "piknikszafirowy.webp", caption = "Full show report given by Okoński and [PTW](@/o/ptw.md) profile", source = "Official PTW Facebook", skip_art = true }
 +++
 
 "Piknik Charytatywny Fundacji Nadzieja Dzieci" (_Charity Picnic of the Children's Hope Foundation_) was a charity showcase by [Prime Time Wrestling](@/o/ptw.md), serving as an encore to [PTW: Dzień Dziecka](content/e/ptw/2025-05-31-ptw-dzien-dziecka.md) from the previous day. As the local charity foundation holds numerous events at [Szafirowy Dwór](@/v/dworek-kozlow.md), PTW sometimes chooses to accompany the festivities. For this show, only the (incomplete) list of results was given by PTW in the comment section underneath the results of the main Dzień Dziecka show. Therefore, the details are scarce - an incomplete list of battle royal entrants, and no credits for referees or the ring announcer.
