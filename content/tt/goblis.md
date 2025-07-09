@@ -59,7 +59,7 @@ With the team not on the same page, they were put in a Tornado Tag Team match ag
   - Stereo suicide dives (Goblin & Fox to the opponents outside the ring) 
 * Entrance music:
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-present,) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-present) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}

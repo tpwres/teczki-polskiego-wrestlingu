@@ -26,7 +26,7 @@ At the next show [Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md), Krampus faced S
 At [PTW 5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), Sinister Kingdom faced three other teams for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), to no avail. Later in the show Krampus competed in the Gold Rush Rumble eliminating [Marcelito](@/w/marcelito.md), before Nano Lopez came out to the ringside with a bound Sinister, forcing Krampus to chase him and abandon the match.
 This angle was left unresolved as at the next show, [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md), Sinister and Dziedzic appeared only to celebrate the demise of PAKA, after which they were chased out by [Spartan](@/w/spartan.md), seeking revenge on Dziedzic.
 
-The group's final appearance came at [PTW 6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where they interfered with the main event, laying out both [Puncher](@/w/puncher.md) and Babathunder, leaving the match without a winner.
+The group's final appearance came at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where they interfered with the main event, laying out both [Puncher](@/w/puncher.md) and Babathunder, leaving the match without a winner.
 
 Both Sinister and Dziedzic [left the federation](@/a/ptw-exits.md) soon after. Krampus remained, but has since made only one appearance at [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md).
 

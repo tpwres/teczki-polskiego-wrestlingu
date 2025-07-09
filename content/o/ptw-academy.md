@@ -34,7 +34,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
   * Seminary hosts:
     - [Santino Marella](@/w/santino.md) (2021 - 2022)
     - Chris Masters (Feb 2022)
-    - '[Nick Aldis](@/w/nick-aldis.md)' (Feb 2022)
+    - [Nick Aldis](@/w/nick-aldis.md) (Feb 2022)
     - Axel Tischer (Feb 2022)
     - Tucker (2023)
     - Dirty Dango (2023)
@@ -56,11 +56,11 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
 * [Spartan](@/w/spartan.md)
 * [El Ogre](@/w/olgierd.md)
 * [Karyna](@/w/karyna.md)
-* Alex Brave
+* [Alex Brave](@/w/alex-brave.md)
 * [Max Speed](@/w/max-speed.md)
-* Referee Klaudiusz
-* Vincent Caravaggio
-* Miyagi Shida
+* [Referee Klaudiusz](@/w/sedzia-klaudiusz.md)
+* [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+* [Miyagi Shida](@/w/miyagi-shida.md)
 * [TAXI Złotówa](@/w/taxi-zlotowa.md)
 * [Remo](@/w/remo.md)
 

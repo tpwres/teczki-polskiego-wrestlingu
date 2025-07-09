@@ -89,7 +89,7 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
  {{ org_badge(orgs=['ptw','ppw','mzw','low']) }} (2023-) <br>
  {{ music(yt='jt_2gXNBlqU')}}
  {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
- {{ music(apple='1509575453?i=1509575457')}}'
+ {{ music(apple='1509575453?i=1509575457')}}
 
 ## Championships and accomplishments 
 
