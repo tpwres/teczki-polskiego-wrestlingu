@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.021631, 50.294758]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Szkoła Podstawowa nr 20",
+        "description": "Primary School no. 20, where [MCW Damage Control](@/e/mcw/2023-12-16-mcw-damage-control.md) was held.",
+        "orgs": ["mcw"]
+    }
+}

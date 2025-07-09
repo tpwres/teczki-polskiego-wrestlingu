@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.998290, 50.316851]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Szkoła Podstawowa nr 4",
+        "description": "Primary School no. 4, where [MCW #2](@/e/mcw/2019-06-01-mcw-show-2.md) was held.",
+        "orgs": ["mcw"]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.008566, 50.320506]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Kompleks Sportowy &quot;Michał&quot;",
+        "description": "&quot;Michał&quot; Sports Complex, where [MCW #3](@/e/mcw/2019-09-14-mcw-show-3.md) and [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md) were held.",
+        "orgs": ["mcw"]
+    }
+}

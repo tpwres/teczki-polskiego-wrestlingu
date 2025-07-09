@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.997126, 50.322354]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Zespół Szkół Ogólnokształcących i Zawodowych",
+        "description": "School complex where [MCW #1](@/e/mcw/2018-12-08-mcw-show-1.md) was held.",
+        "orgs": ["mcw"]
+    }
+}

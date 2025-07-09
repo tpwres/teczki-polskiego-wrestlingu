@@ -4,7 +4,6 @@ template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["mcw"]
-venue = ["kompleks-michal"]
 [extra]
 city = "Siemianowice Śląskie"
 toclevel = 2
