@@ -65,13 +65,13 @@ The belt design has not yet been revealed as of 9.07.2025.
 #### Round 2
 
 {% free_card() %}
-- - '[Diana Strong](@/w/diana-strong.md)(c)'
-   - 'Hannah Taylor'
-   - 'Betty Boa'
-   - c: 'Glam! Championship'
-     n: 'The match was both for the Glam! title, as well as advancing in the tournament.'
-     en: '[PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
-     ed: 2025-06-28
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Hannah Taylor'
+  - 'Betty Boa'
+  - s: 'Tournament Second Round Match'
+    n: 'The match was both for the Glam! title, as well as advancing in the tournament.'
+    en: '[PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+    ed: 2025-06-28
 {% end %}
 
 #### Semi-finals
