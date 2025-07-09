@@ -38,3 +38,4 @@ source = "zrzutka.pl"
 path = "strona.webp"
 caption = "A screenshot of the crowdfunding website. The update beneath the picture announces the passing of the furry fella."
 source = "zrzutka.pl"
+skip_art = true
