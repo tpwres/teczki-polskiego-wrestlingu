@@ -63,7 +63,7 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
 Their rivalry with Legia Łysych - especially [Olgierd](@/w/olgierd.md) - continued, and Gabriel faced him at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a No Weapons Hooligan Street Fight, which ended in Olgierd's disqualification for using a weapon.
 This led to Gabriel and Vic going against the villainous stable [Zmowa](@/tt/zmowa.md) in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), which they won as part of a coalition against Zmowa, led by [Biesiad](@/w/biesiad.md).
 
-At non-canon show, [Piwo Przyjacielem wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), Queen brought back his Poznań-exclusive persona of street hooligan Bonus CBD (a nod to Bonus BGC, also from Poznań). Bonus entered the Royal Rumble match and eventually revealed himself as Queen, winning a Golden Goad Trophy - his only singles award as of now.
+At [Piwo Przyjacielem wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) non-canon show Queen brought back his Poznań-exclusive persona of street hooligan Bonus CBD (a nod to Bonus BGC, a Polish rapper and MMA freak-fighter who, like Queen, is also from Poznań). Bonus entered the Royal Rumble match and eventually revealed himself as Queen, winning the Golden Goat Trophy - his only singles award so far.
 
 #### Championship pursuit
 
@@ -71,7 +71,6 @@ At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-frida
 Later that night, Gabriel attacked Gustav after his match with [Johnny Blade](@/w/johnny-blade.md), and introduced his gloved thumb into Gustav's rectum. The humiliated champion accepted the fact that he would have to face Gabriel at Gruba Przesada. At that show, just before the match started, he stipulated a 15 minute time limit, stating that he values his time. Due to a referee knock-out, Queen was unable to win the Championship.
 
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and Isnorr. The match resulted in Gustav and Isnorr's defeat, after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first defeat during his title reign, and Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match, just before Gabriel Queen went for the second pinfall and victory, he was struck with a chair by long-time friend Vic Golden, which allowed Gustav to defeat Gabriel and end their feud.
-
 
 #### Feud with Vic Golden
 
