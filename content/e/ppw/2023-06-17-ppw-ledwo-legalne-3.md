@@ -15,6 +15,7 @@ source = "Official PpW Facebook"
 path = "smocza-gwiazda.webp"
 caption = "See? Told you."
 source = "Official PpW Facebook"
+skip_art = true
 +++
 
 Ledwo Legalne III (_Barely Legal III_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) and the third in the annual series of supershows.

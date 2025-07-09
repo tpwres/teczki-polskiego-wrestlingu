@@ -1,5 +1,5 @@
 01 = { path = "spontaneity.webp", caption = "&quot;Fans&quot; &quot;spontaneously&quot; cheering for NQW.", source = "Private archives" }
-02 = { path = "widac-nie-widac.webp", caption = "The Bush Position.", source = "Private archives" }
+02 = { path = "widac-nie-widac.webp", caption = "The Bush Position.", source = "Private archives", skip_art = true }
 03 = { path = "lj-blade-wejscie.webp", caption = "LJ Blade.", source = "Private archives" }
 04 = { path = "ring-announcer.webp", caption = "Kaja, the ring announcer.", source = "Private archives" }
 05 = { path = "barry-1.webp", caption = "LJ Blade's tag-team partner, Barry Matt.", source = "Private archives" }
@@ -14,7 +14,7 @@
 14 = { path = "barry-2.webp", caption = "Barry Matt's second entrance.", source = "Private archives" }
 15 = { path = "froggy.webp", caption = "Froggy's second entrance.", source = "Private archives" }
 16 = { path = "nie-ma.webp", caption = "Barry Matt launches himself at the empty mattress.", source = "Private archives" }
-17 = { path = "best-view-in-the-house.webp", caption = "A new fan from the neighbourhood.", source = "Private archives" }
+17 = { path = "best-view-in-the-house.webp", caption = "A new fan from the neighbourhood.", source = "Private archives", skip_art = true }
 18 = { path = "suplex-village.webp", caption = "LJ Blade holds Suicide in a Delayed Vertical Suplex.", source = "Private archives" }
 19 = { path = "prog-flash.webp", caption = "LJ Blade in a Frog Splash from the ladder.", source = "Private archives" }
 20 = { path = "knife-mcstabberson.webp", caption = "LJ Blade approves of the stabbing maniac.", source = "Private archives" }

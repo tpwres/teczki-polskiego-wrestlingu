@@ -2,6 +2,7 @@
 path = "angora-wfw.webp"
 caption = "Newspaper column from ANGORA, titled \"Hulk Hogan's Successors from Wołów\""
 source = "angora.pl, issue 14/2011"
+skip_art = true
 [02]
 path = "wksw-unknown-event-01.webp"
 caption = "Photo from an uknown WKSW event."
