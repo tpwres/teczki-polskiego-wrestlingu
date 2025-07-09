@@ -1,5 +1,5 @@
-1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official YouTube channel" }
-2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "ShowOff's Instagram" }
+1 = { path = "low-logo.png", caption = "Legacy of Wrestling logo", source = "Official LOW YouTube channel" }
+2 = { path = "showoff-ig-legacy.png", caption = "Screenshot from an Instagram post by Piotr &quot;ShowOff&quot; Małecki teasing upcoming news", source = "Instagram @ShowOffer", skip_art = true }
 3 = { path = "low-qa-post.jpg", caption = "An official-looking document announcing a live Q&A session.", source = "Official LOW Facebook" }
 4 = { path = "legacy-1st-show-date.jpg", caption = "The date and location of the [first show](@/e/low/2024-12-01-low-1.md) revealed.", source = "Official LOW Facebook" }
 5 = { path = "low-2-teaser.webp", caption = "Teaser image for Legacy Vol. 2.", source = "Official LOW Facebook" }

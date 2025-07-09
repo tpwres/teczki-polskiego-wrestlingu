@@ -32,10 +32,10 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
 * [Mister Z](@/w/mister-z.md) (PpW Dojo)
 * Biesiad Strong (PpW Dojo)
 * [Oskar Aleksander](@/w/oskar-aleksander.md)
-* (_[Rookie Bartek](@/w/plata.md)_)
-* (_Rookie Andrzej_)
+* [Bartosz Plata](@/w/plata.md)
+* Rookie Andrzej
 * Istotna Martynka
-* (_Alvaro_)
+* Alvaro
 
 ## History
 
