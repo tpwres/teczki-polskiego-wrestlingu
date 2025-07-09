@@ -60,6 +60,11 @@ The belt design has not yet been revealed as of 9.07.2025.
     n: "As Lucia's never-revealed opponent did't make it, Lee automatically qualifies for the next round."
     en: '[PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
     ed: 2025-04-12
+{% end %}
+
+#### Round 2
+
+{% free_card() %}
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
    - 'Hannah Taylor'
    - 'Betty Boa'
