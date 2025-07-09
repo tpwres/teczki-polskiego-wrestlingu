@@ -14,7 +14,7 @@ The team's name refers to [Carpathian highwaymen][wiki-zbojnicy], robber bands w
 
 * Entrance music:
   - "W Murowanej Piwnicy" by Kapela Pieczarki
- {{ org_badge(orgs=['mzw']) }}
+ {{ org_badge(orgs=['mzw']) }} <br>
  {{ music(yt='a1vi2GmjJYo')}}
  {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
 
