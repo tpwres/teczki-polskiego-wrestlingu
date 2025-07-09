@@ -9,7 +9,7 @@ venue=["2kola"]
 city = "Warszawa"
 toclevel = 2
 [extra.gallery]
-1 = { path = "hardcore-friday-turniej-typeshit-plakat.webp", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Biesiad Strong](@/w/biesiad.md) and [Michael HT](@/w/michael-ht.md).", source = "Official PpW Facebook" }
+manifest = "@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit-gallery.toml"
 +++
 
 Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), and a direct follow-up to [the previous show](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md).

@@ -123,6 +123,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - s: Royal Rumble
     c: Golden Goat Trophy
+    n: Bonus CBD unmasked mid-match to reveal he was Gabriel Queen all along
 - credits:
     Ring Announcer, Host: '[Michael HT](@/w/michael-ht.md), [Rysiu Benzynka](@/w/joker.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'

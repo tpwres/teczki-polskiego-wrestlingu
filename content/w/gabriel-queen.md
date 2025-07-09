@@ -63,6 +63,8 @@ The reunited tag team issued an open challenge at [Ledwo Legalne IV](@/e/ppw/202
 Their rivalry with Legia Łysych - especially [Olgierd](@/w/olgierd.md) - continued, and Gabriel faced him at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a No Weapons Hooligan Street Fight, which ended in Olgierd's disqualification for using a weapon.
 This led to Gabriel and Vic going against the villainous stable [Zmowa](@/tt/zmowa.md) in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), which they won as part of a coalition against Zmowa, led by [Biesiad](@/w/biesiad.md).
 
+At [Piwo Przyjacielem wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) non-canon show Queen brought back his Poznań-exclusive persona of street hooligan Bonus CBD (a nod to Bonus BGC, a Polish rapper and MMA freak-fighter who, like Queen, is also from Poznań). Bonus entered the Royal Rumble match and eventually revealed himself as Queen, winning the Golden Goat Trophy - his only singles award so far.
+
 #### Championship pursuit
 
 At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) in December 2024 Gabriel won a Gauntlet Match, which resulted in Biesiad - dressed as Santa Biesiad - gifting him a contract to face the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md) at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md).
