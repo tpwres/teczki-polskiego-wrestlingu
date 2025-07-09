@@ -29,7 +29,7 @@ Although there were no tournament matches since [PTW: Prezes vs Prezes](@/e/ptw/
 
 ## Belt design
 
-The belt design has not yet been revealed as of 20.06.2025.
+The belt design has not yet been revealed as of 9.07.2025.
 
 ## Title history
 
@@ -60,6 +60,13 @@ The belt design has not yet been revealed as of 20.06.2025.
     n: "As Lucia's never-revealed opponent did't make it, Lee automatically qualifies for the next round."
     en: '[PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
     ed: 2025-04-12
+- - '[Diana Strong](@/w/diana-strong.md)(c)'
+   - 'Hannah Taylor'
+   - 'Betty Boa'
+   - c: 'Glam! Championship'
+     n: 'The match was both for the Glam! title, as well as advancing in the tournament.'
+     en: '[PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+     ed: 2025-06-28
 {% end %}
 
 #### Semi-finals
