@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.044175, 50.297194]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Szkoła Podstawowa nr 11",
+        "description": "Primary School no. 11, where [MCW Charity Show](@/e/mcw/2022-10-15-mcw-charity-show.md) was held.",
+        "orgs": ["mcw"]
+    }
+}
