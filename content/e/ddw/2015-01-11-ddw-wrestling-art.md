@@ -19,9 +19,9 @@ It was held in a gymnastics hall in Przywidz, a Kashubian village about 30&nbsp;
     [Robert Star](@/w/robert-star.md)"]
 - ['[GREG](@/w/greg.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', '[Don Roid](@/w/don-roid.md)',
-  {c: "DDW International Championship", nc: "Time Limit Draw"}]
+  {c: "[DDW International Championship](@/c/ddw-international-championship.md)", nc: "Time Limit Draw"}]
 - ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', '[Don Roid](@/w/don-roid.md)',
-  {c: "DDW International Championship"}]
+  {c: "[DDW International Championship](@/c/ddw-international-championship.md)"}]
 {% end %}
 
 ## References

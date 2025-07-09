@@ -1,5 +1,5 @@
 +++
-title = "DDW #5 Dzień Sądu"
+title = "DDW #5: Dzień Sądu"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ddw"]
@@ -10,6 +10,8 @@ toclevel = 2
 [extra.gallery]
 manifest = "@/e/ddw/2011-01-15-ddw-5-dzien-sadu-gallery.toml"
 +++
+
+Dzień Sądu (_Judgement Day_) was a show by [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Card
 
