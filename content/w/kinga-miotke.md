@@ -33,7 +33,7 @@ At first, she appeared under the ring name "Kinga Różańska", but beginning wi
 She is the first and, as of 2025, only female announcer on the Polish wrestling scene.
 
 After [Rosetti](@/w/rosetti.md) took over KPW as "acting chairman", he enforced numerous changes starting from [KPW Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md).
-Kinga was relieved of her ring announcing duties, and replaced by [Piotr Opolski](@/w/piotr-opolski.md). Instead, she was appointed the referee for the show, while [Krystian Czekaj](@/w/krystian-czekaj.md) (KPW's usual official) was demoted to the role of technical referee and timekeeper.
+Kinga was relieved of her ring announcing duties, and replaced by [Piotr Opolski](@/w/piotr-opolski.md). Instead, she was appointed the referee for the show, while [Krystian Czekaj](@/w/krystian-czekaj.md) (KPW's usual official) was demoted to the role of technical referee and timekeeper. This was a brief stint, however, as Kinga returned to her usual role with [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
 
 ## In wrestling
 
