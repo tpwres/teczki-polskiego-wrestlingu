@@ -20,7 +20,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 
 ## Card
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: Hardcore Match
