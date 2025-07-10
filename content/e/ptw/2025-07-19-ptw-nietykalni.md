@@ -9,18 +9,23 @@ venue = ["szafirowy-dwor"]
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
-1 = { path = "nietykalni-poster.webp", caption = "Official poster. Left to right, on top: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (sitting), [Alex Brave](@/w/alex-brave.md) (standing behind Pawłowski) and [Puncher](@/w/puncher.md); the portraits below, top row: [Krampus](@/w/krampus.md), [Nano Lopez](@/w/nano-lopez.md), [Sigma Boy xD](@/w/sigma-boy.md), [Łukasz Okoński](@/w/lukasz-okonski.md), [Spartan](@/w/spartan.md), [Diana Strong](@/w/diana-strong.md), Daniel Razor; bottom row: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md), [Miyagi Shida](@/w/miyagi-shida.md), [Serg Sullivan](@/w/serg-sullivan.md), Polski Niedźwiedź, Resivny, Adam Goldschmidt. On the right side of the banner are .", source = "Official PTW Facebook" }
+manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 +++
 
 "Nietykalni" (_The Untouchables_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
 
 ## Build up
 
-* TBD
+* On 10.07.2025 PTW announced a Hardcore Match between [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) and [Alex Brave](@/w/alex-brave.md).
 
 ## Card
 
-{{ skip_card() }}
+{% card() %}
+- - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - s: Hardcore Match
+    nc: upcoming
+{% end %}
 
 ## References
 
