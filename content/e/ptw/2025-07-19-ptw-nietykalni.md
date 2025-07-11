@@ -18,7 +18,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 
 * On 10.07.2025 PTW announced a Hardcore Match between [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) and [Alex Brave](@/w/alex-brave.md).
 
-## Card
+## Predicted card
 
 {% card(predicted=true) %}
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
