@@ -59,4 +59,5 @@ lint
 install_zola
 create_config
 setup_seo
+env | sort
 build
