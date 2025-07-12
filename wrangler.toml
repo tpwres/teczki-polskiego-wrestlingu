@@ -1,0 +1,8 @@
+name = 'tpw2025'
+compatibility_date = '2025-06-18'
+preview_urls = true
+
+[assets]
+directory = './public'
+not_found_handling = '404-page'
+html_handling = 'auto-trailing-slash'

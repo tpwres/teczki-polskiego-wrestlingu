@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "${BASE_URL}"
+base_url = "/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -35,7 +35,7 @@ paths_keep_dates = true
 
 [extra]
 # Put all your custom variables here
-new_issue_url = "https://github.com/k3rni/teczki-polskiego-wrestlingu/issues/new"
+new_issue_url = "https://github.com/tpwres/teczki-polskiego-wrestlingu/issues/new"
 
 # Display matchfinder links next to unlinked names in roster pages
 mf_links_in_roster = true
