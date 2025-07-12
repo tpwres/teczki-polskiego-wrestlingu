@@ -16,14 +16,18 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
 
 ## Build-up
 
-* TBD
+* On 11.07.2025 PpW announced [Oskar Aleksander](@/w/oskar-aleksander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) in a Bullrope Match, where the wrestlers are tied wrist-to-wrist with a thick rope, with a cowbell in the middle.
 
 ## Card
 
 {% card(predicted=true) %}
 - - 'The Hardcores: [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)'
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
-  - s: Tag Team match
+  - s: Tag Team Match
+    nc: upcoming
+- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - s: Bullrope Match
     nc: upcoming
 {% end %}
 
