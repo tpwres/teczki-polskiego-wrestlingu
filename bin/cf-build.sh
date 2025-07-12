@@ -12,14 +12,16 @@ lint() {
 }
 
 create_config() {
-  # This env setup step is useless now - these variables aren't exposed to workers,
-  # and there is no replacement. base_url should be set to '/' always
-  case $CF_PAGES_BRANCH in
+  # In CF Workers, the base url in previews is either
+  # <sha-prefix>-<workername>.<domain>.workers.dev or <branchname>-<workername>.<domain>.workers.dev
+  # where the prefix is usually 8 hexdigits long. The branch name is found in $WORKERS_CI_BRANCH,
+  # and the worker name in $WRANGLER_CI_OVERRIDE_NAME, both provided by Workers Builds env.
+  case $WORKERS_CI_BRANCH in
       main)
-          export BASE_URL=$PRODUCTION_URL
+          export BASE_URL=https://$PRODUCTION_URL
           ;;
       *)
-          export BASE_URL=$CF_PAGES_URL
+          export BASE_URL=https://$WORKERS_CI_BRANCH-$WRANGLER_CI_OVERRIDE_NAME.$WORKERS_DOMAIN
           ;;
   esac
 
@@ -38,7 +40,7 @@ setup_seo() {
       sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
   done
 
-  export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$CF_PAGES_URL}
+  export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$BASE_URL}
   envsubst < templates/sitemap_template.xml > templates/sitemap.xml
   envsubst < templates/robots_template.txt > templates/robots.txt
 }
