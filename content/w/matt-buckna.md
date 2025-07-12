@@ -36,6 +36,11 @@ Matt Buckna made his return to Poland shortly after MZW fully got back on track 
 
 * Finishers:
   - Spear (2016-)
+* Entrance music:
+  - "Layla" by DJ Robin & Schürze & le Shuuk
+    {{ org_badge(org='low') }} (2025) <br>
+    {{ music(yt='rPhnEmJairQ') }}
+    {{ music(spot='44FYSBVXoe7FTzYY7yvTzj') }}
 
 ## Championships and accomplishments
 
