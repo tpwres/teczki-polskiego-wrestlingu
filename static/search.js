@@ -2,7 +2,8 @@ class SearchController {
     options = {
         boost: { 'title': 1.8, 'info': 1.2 },
         combineWith: 'AND',
-        prefix: true
+        prefix: true,
+        fuzzy: true
     }
 
     minisearch_ready = false
