@@ -32,6 +32,10 @@ Matt Buckna made his debut in [Maniac Zone Wrestling](@/o/mzw.md) back in Novemb
 
 Matt Buckna made his return to Poland shortly after MZW fully got back on track following the COVID-19 pandemic, now no longer a heavyweight, but significantly slimmer. At [MZW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) he defeated Michael Payne in an [MZW Championship](@/c/mzw-championship.md) #1 Contenders Match for the vacant title. His challenger in the final match for the Championship was [Aron Wake](@/w/aron-wake.md), who was unsuccessful against the German wrestler. Thus, Matt Buckna became the new MZW Champion, turning babyface along the way.
 
+### Legacy of Wrestling (2025)
+
+In July 2025, Matt Buckna was a surprise contender at the [third Legacy show](@/e/low/2025-07-11-low-3.md). When [Erik Šlotíř](@/w/erik-slotir.md)'s manager [Arek Paterek](@/w/arek-paterek.md) demanded for a more challenging opponent for his client, Bahraini wrestler Yaqoob entered. After Paterek confronted acting CEO [Wiktor](@/w/wiktor-longman.md), he revealed Matt as a second opponent for Erik, in a Triple Threat Match. Buckna then put his championship on the line for this match, which he managed to retain with his trademark spear.
+
 ## In wrestling
 
 * Finishers:
