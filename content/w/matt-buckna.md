@@ -34,17 +34,18 @@ Matt Buckna made his return to Poland shortly after MZW fully got back on track 
 
 ### Legacy of Wrestling (2025)
 
-In July 2025, Matt Buckna was a surprise contender at the [third Legacy show](@/e/low/2025-07-11-low-3.md). When [Erik Šlotíř](@/w/erik-slotir.md)'s manager [Arek Paterek](@/w/arek-paterek.md) demanded for a more challenging opponent for his client, Bahraini wrestler Yaqoob entered. After Paterek confronted acting CEO [Wiktor](@/w/wiktor-longman.md), he revealed Matt as a second opponent for Erik, in a Triple Threat Match. Buckna then put his championship on the line for this match, which he managed to retain with his trademark spear.
+In July 2025, Matt Buckna was a surprise contender at the [third Legacy show](@/e/low/2025-07-11-low-3.md). When [Erik Šlotíř's](@/w/erik-slotir.md) manager [Arek Paterek](@/w/arek-paterek.md) demanded a more challenging opponent for his client, Bahraini wrestler Yaqoob entered. After Paterek confronted acting chairman [Wiktor](@/w/wiktor-longman.md), he revealed Matt as a second opponent for Erik, making it a Triple Threat Match. Buckna then put his [MZW Championship](@/c/mzw-championship.md) on the line for this match, which he managed to retain with his trademark spear.
 
 ## In wrestling
 
 * Finishers:
   - Spear (2016-)
 * Entrance music:
-  - "Layla" by DJ Robin & Schürze & le Shuuk
+  - "Layla" by DJ Robin, Schürze & le Shuuk
     {{ org_badge(org='low') }} (2025) <br>
     {{ music(yt='rPhnEmJairQ') }}
     {{ music(spot='44FYSBVXoe7FTzYY7yvTzj') }}
+    {{ music(apple='1632531255?i=1632531502') }}
 
 ## Championships and accomplishments
 
