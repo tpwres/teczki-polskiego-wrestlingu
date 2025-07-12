@@ -23,7 +23,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)(c)'
   - '[Robert Star](@/w/robert-star.md)'
-    nc: upcoming
+  - nc: upcoming
 - - '???'
   - '???'
   - '???'
