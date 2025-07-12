@@ -206,10 +206,16 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - s: Singles match
     en: '[MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)'
     ed: 2024-10-12
-- - '[Matt Buckna](@/w/matt-buckna.md) (c)'
-  - '[Aron Wake](@/w/aron-wake.md)'
+- - 'Matt Buckna (c)'
+  - 'Aron Wake'
   - '[Shadow](@/w/shadow.md)'
   - s: Triple Threat Match
     en: '[MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md)'
     ed: 2025-03-29
+- - 'Matt Buckna (c)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - 'Yaqoob'
+  - s: Triple Threat Match
+    en: [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md)
+    ed: 2025-07-11
 {% end %}
