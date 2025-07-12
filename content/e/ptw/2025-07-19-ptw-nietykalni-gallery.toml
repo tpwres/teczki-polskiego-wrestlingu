@@ -5,5 +5,11 @@ source = "Official PTW Facebook"
 
 [0002]
 path = "okon-vs-brave.webp"
-caption = 'Image announding [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) vs [Alex Brave](@/w/alex-brave.md).'
+caption = 'Image announcing [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) vs [Alex Brave](@/w/alex-brave.md).'
 source = "Official PTW Facebook"
+
+[0003]
+path = "zack-vs-xd.webp"
+caption = 'Image announcing Andi Zick Zack vs [Sigma Boy xD](@/w/sigma-boy.md).'
+source = "Official PTW Facebook"
+

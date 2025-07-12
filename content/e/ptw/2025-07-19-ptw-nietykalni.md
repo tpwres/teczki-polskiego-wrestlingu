@@ -17,6 +17,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 ## Build up
 
 * On 10.07.2025 PTW announced a Hardcore Match between [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) and [Alex Brave](@/w/alex-brave.md).
+* The next day PTW announced [Sigma Boy xD](@/w/sigma-boy.md) vs Andi ZickZack from Austria, making his debut in Poland.
 
 ## Predicted card
 
@@ -25,6 +26,9 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: Hardcore Match
     nc: upcoming
+- - 'Andi ZickZack'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - nc: upcoming
 {% end %}
 
 ## References
