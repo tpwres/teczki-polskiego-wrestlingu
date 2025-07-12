@@ -47,7 +47,13 @@ Two months later, Speed faced [Vincent Caravaggio](@/w/vincent-caravaggio.md) in
 
 #### Leaving PTW
 
-On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the promotion, and his title belt was vacated. No official reason was given.
+On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the promotion, and his Underground title belt was vacated. Initially, official reason was given. However, given that [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) happened just four days before, and that the event included both a title defense and a Gold Rush Rumble for #1 contandership match, it's likely that the decision was reached earlier.
+
+The following week, Max posted a farewell message on his social media, thanking several ex- and current- PTW personalities, starting with [Wiktor Longman](@/w/wiktor-longman.md) but also including [Łukasz Okoński](@/w/lukasz-okonski.md) and [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). He wrote that he left the organization to seek further development as a wrestler, and that "exploring the entire Polish wrestling scene can give me so much more". However, Max also wrote that he valued time spent there, recalled his debut match, mentioned his first mentors, and the first people he trained - [Sigma Boy xD](@/w/sigma-boy.md) and [Herno](@/w/sedzia-herno.md).
+
+### Legacy of Wrestling
+
+Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), against [Marco Hammers](@/w/marco-hammers.md). Introduced by Wiktor (Longman) as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win this match by DQ, when Marco hit him with a chair in full view of the referee.
 
 ## In wrestling
 
