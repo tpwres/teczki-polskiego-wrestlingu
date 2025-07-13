@@ -32,6 +32,16 @@ Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his ca
 
 With _rookie_ still part of his billing Bartosz continued to appear regularly, besides the [20 Typa 20 Broni Rumble Match](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), mostly in open challenge matches. This spawned a regular "O kurwa, to Bartek Plata!" (_Oh fuck, it's Bartek Plata!_) commentary reaction at his entrance. After losing in an open challenge against [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in an interview he emphasized his willingness to make a name for himself, not as a rookie anymore, but under his real name: Bartosz Plata. In the same interview, Plata requested a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This request was granted, after he teamed up with [Marcelito](@/w/marcelito.md) to defeat Hungarian wrestlers Danny Roxx and Atilla.
 
+#### Beginnings of a proper singles run
+
+Starting at [PpW Turniej TypeShit](content/e/ppw/2025-07-05-ppw-turniej-typeshit.md), Plata began a series of challenges dubbed _Wielkie Testy Platy_ (Plata's Grand Tests), demanding challenging matches against strong opponents. In Chapter 1 of the series, he faced a new [PpW Champion](@/c/ppw-championship.md), [Goblin](@/w/goblin.md) in a non-title match. Despite losing, he showed fighting spirit, pushing the champion to his limits.
+
+### Legacy of Wrestling (2025-)
+
+#### First appearance
+
+Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy of Wrestling vol.3](content/e/low/2025-07-11-low-3.md) teaming up with [Syriusz Dziedzic](@/w/dziedzic.md) and [Sambor](@/w/sambor.md) in a losing effort against the team of [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Thus he became a second [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to make his debut outside [PpW](@/o/ppw.md).
+
 ## In wrestling
 
 * Entrance music:
@@ -39,3 +49,5 @@ With _rookie_ still part of his billing Bartosz continued to appear regularly, b
     {{ org_badge(orgs=['ppw']) }} (2024-) <br>
     {{ music(yt='zxrXgtSL2Rk')}}
   
+## References
+[Wielkie Testy Platy](https://www.facebook.com/photo/?fbid=1287017913428598&set=a.499910772139320)
