@@ -2,6 +2,11 @@
 title = "Mińska 65"
 template = "venue_page.html"
 authors = ["Sewi The Referee"]
+[taxonomies]
+same-venue = ["pod-platanem", "szafirowy-dwor"]
+[extra.venue_names]
+minska-65 = "Mińska 65"
+hala-labo = "Hala Labo"
 [extra]
 year_list_start = 2024
 [extra.geo]

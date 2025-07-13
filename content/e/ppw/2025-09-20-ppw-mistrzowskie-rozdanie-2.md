@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
-venue=["minska-65"]
+venue=["hala-labo"]
 [extra]
 city = "Warszawa"
 toclevel = 2
