@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2-gallery.toml"
 +++
 
-Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), and an apparent "sequel" to [a show from 2023](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
+Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), and an apparent "sequel" to [a show from 2023](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md). It'll be set in [Mińska&nbsp;65's](@/v/minska-65.md) _Hala Labo_.
 
 ## Build-up
 
