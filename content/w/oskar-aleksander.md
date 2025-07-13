@@ -44,6 +44,20 @@ In January 2025 Oskar Aleksander faced a Polish scene legend - [Vic Golden](@/w/
 
 At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Oskar took part in a [PpW Championship](@/c/ppw-championship.md) #1 Contender Ladder Match, but he was unsucessful in winning it. Later that same night he surprisingly intervened in a match between [Gabriel Queen](@/w/gabriel-queen.md) and Vic Golden, helping the Polish wrestling legend to secure a victory over Queen. In a post-match interview he confirmed that he and Agentka Agatka would join Golden, forming an alliance. 
 
+### MZW (2025-)
+
+#### Debut
+
+Aleksander made his [MZW](@/o/mzw.md) at [MZW Green Madness](content/e/mzw/2025-06-28-mzw-green-madness.md), thus becoming a first [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to make his non-PpW debut.
+As a part of tournament to the briefcase, he was set to face [Shadow](@/w/shadow.md). He cut a lengthy promo on his way to the ring, insulting Wrocław, audience and Shadow himself. Before managing to get any offense, he was rolled up to lose a match in a matter of seconds.
+
+### Legacy of Wrestling (2025-)
+
+#### Road to the Title
+
+Aleksander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestling vol.3](content/e/low/2025-07-11-low-3.md) in a _Road to the Title_ triple threat match against [Gabriel Queen](@/w/gabriel-queen.md) and
+[Filip Fux](@/w/filip-fux.md). Ultimately he failed to qualify in the tournament, with Queen emerging as a winner.
+
 ## In wrestling
 
 * Finishers:
