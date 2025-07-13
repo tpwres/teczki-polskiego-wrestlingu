@@ -5,7 +5,6 @@ authors = ["Sewi The Referee"]
 [taxonomies]
 same-venue = ["hala-labo"]
 [extra.venue_names]
-minska-65 = "Mińska 65"
 hala-labo = "Hala Labo"
 [extra]
 year_list_start = 2024
