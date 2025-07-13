@@ -239,6 +239,12 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - en: '[Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
     ed: 2025-06-07
     s: Three Stages of Hell Match
+- - 'Goblin (c)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: Singles Match
+    en: '[Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md)'
+    ed: 2025-09-20
+    nc: upcoming
 {% end %}
 
 ## References
