@@ -48,6 +48,7 @@ Turniej TypeShit (_Tournament-Type Shit_) was a show by [PpW Ewenement Wrestling
 - - '[Goblin](@/w/goblin.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - n: Non-title match
+    s: Wielkie Testy Platy #1
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: ECW Rules Match
