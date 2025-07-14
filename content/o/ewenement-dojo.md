@@ -34,7 +34,7 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
 * [Oskar Aleksander](@/w/oskar-aleksander.md)
 * [Bartosz Plata](@/w/plata.md)
 * _rookie_ Antek
-* Rookie Andrzej (non-canon debut)
+* _rookie_ Andrzej (non-canon debut)
 * Istotna Martynka (non-canon debut)
 * Alvaro (non-canon debut)
 
@@ -49,9 +49,9 @@ Preceding it was the Summer Wrestling Camp organised by PpW with Jacob Crane as 
 For the first time in the Polish wrestling history, it was announced that the training sessions will be held mainly on a weekly basis instead of weekend-only two day training regimes.
 This change was inspired by German dojos such as wXw Academy, as well as martial arts dojos.
 
-The first fully Ewenement-grown talent who got a chance to debut at the Polish scene was [Oskar Aleksander](@/w/oskar-aleksander.md), who debuted as Adept (_rookie_) Oskar before "earning" his ringname. Succeeding him were [Bartosz Plata](@/w/plata.md) and _rookie_ Antek.
+The first fully Ewenement-grown talent who got a chance to debut at the Polish scene was [Oskar Aleksander](@/w/oskar-aleksander.md), who debuted as Adept Oskar (_rookie_ Oskar) before "earning" his ringname. Following him were [Bartosz Plata](@/w/plata.md) and _rookie_ Antek.
 
-Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a quick succession. [Oskar Aleksander](@/w/oskar-aleksander.md) made his [MZW](@/o/mzw.md) debut in a losing effort against [Shadow](@/w/shadow.md) at [MZW Green Madness](content/e/mzw/2025-06-28-mzw-green-madness.md), while [Bartosz Plata](@/w/plata.md) made his [Legacy of Wrestling](@/o/low.md) debut as part of a losing team in a six-man tag team main event of [Legacy of Wrestling vol.3](content/e/low/2025-07-11-low-3.md).
+Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a quick succession. [Oskar Aleksander](@/w/oskar-aleksander.md) made his [MZW](@/o/mzw.md) debut in a losing effort against [Shadow](@/w/shadow.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), while [Bartosz Plata](@/w/plata.md) debuted in [Legacy of Wrestling](@/o/low.md) as a part of a losing team in a six-man tag team main event of [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 
 ## References
 
