@@ -34,13 +34,13 @@ With _rookie_ still part of his billing Bartosz continued to appear regularly, b
 
 #### Beginnings of a proper singles run
 
-Starting at [PpW Turniej TypeShit](content/e/ppw/2025-07-05-ppw-turniej-typeshit.md), Plata began a series of challenges dubbed _Wielkie Testy Platy_ (Plata's Grand Tests), demanding challenging matches against strong opponents. In Chapter 1 of the series, he faced a new [PpW Champion](@/c/ppw-championship.md), [Goblin](@/w/goblin.md) in a non-title match. Despite losing, he showed fighting spirit, pushing the champion to his limits.
+Starting at [PpW Turniej TypeShit](content/e/ppw/2025-07-05-ppw-turniej-typeshit.md), Plata began a series of challenges dubbed "Wielkie Testy Platy" (_Plata's Grand Trials_), demanding challenging matches against strong opponents. In Chapter 1 of the series he faced the new [PpW Champion](@/c/ppw-championship.md), [Goblin](@/w/goblin.md), in a non-title match. Despite losing, he showed his fighting spirit, pushing the champion to his limits.
 
 ### Legacy of Wrestling (2025-)
 
 #### First appearance
 
-Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy of Wrestling vol.3](content/e/low/2025-07-11-low-3.md) teaming up with [Syriusz Dziedzic](@/w/dziedzic.md) and [Sambor](@/w/sambor.md) in a losing effort against the team of [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Thus he became a second [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to make his debut outside [PpW](@/o/ppw.md).
+Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md), teaming up with [Syriusz Dziedzic](@/w/dziedzic.md) and [Sambor](@/w/sambor.md) in a losing effort against the team of [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). He thus became the second [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to debut outside of [PpW](@/o/ppw.md).
 
 ## In wrestling
 
@@ -50,4 +50,4 @@ Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy
     {{ music(yt='zxrXgtSL2Rk')}}
   
 ## References
-[Wielkie Testy Platy](https://www.facebook.com/photo/?fbid=1287017913428598&set=a.499910772139320)
+* [Wielkie Testy Platy](https://www.facebook.com/photo/?fbid=1287017913428598&set=a.499910772139320)
