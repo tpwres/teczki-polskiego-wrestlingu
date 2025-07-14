@@ -74,7 +74,7 @@ At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold
 
 #### Feud with Vic Golden
 
-After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Legend-turned-Judas, Golden. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Queen unfortunately lowered his guard after scoring a victory over [Oskar Aleksander](@/w/oskar-aleksander.md), which allowed Golden to vicously attack Queen once more, explaining his hatered towards Queen caused by the fact that everyone saw Gabriel as "the better one" in Pure Gold. Golden challenged Queen to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During that match [the referee](@/w/madman-charlie.md) was knocked out, which prevented Queen from winning. This led to Queen grabing a chair to attack Golden, but the assault was stopped by Oskar Aleksander who seemingly joined Vic's side and helped him defeat Queen.
+After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Legend-turned-Judas, Golden. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Queen unfortunately lowered his guard after scoring a victory over [Oskar Alexander](@/w/oskar-alexander.md), which allowed Golden to vicously attack Queen once more, explaining his hatered towards Queen caused by the fact that everyone saw Gabriel as "the better one" in Pure Gold. Golden challenged Queen to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During that match [the referee](@/w/madman-charlie.md) was knocked out, which prevented Queen from winning. This led to Queen grabing a chair to attack Golden, but the assault was stopped by Oskar Alexander who seemingly joined Vic's side and helped him defeat Queen.
 
 ## In wrestling
 

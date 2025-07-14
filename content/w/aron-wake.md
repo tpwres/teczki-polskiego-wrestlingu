@@ -52,7 +52,7 @@ He continued to appear in the crowd during PTW shows, but ultimately [left the f
 During an [interview][wywiad-istota] with Istota Wrestlingu, Aron confirmed that his injury is almost impossible to rehabilitate as the surgery would be life-threatening.
 
 Despite his injury Wake slowly returned to part-time training at [Ewenement Dojo](@/o/ewenement-dojo.md), preparing for his in-ring return.
-He surprised fans by making his first in-ring appearance in over two years at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), facing [Bill Feager](@/w/feager.md) in a chairs match. At [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) he was defeated by [Oskar Aleksander](@/w/oskar-aleksander.md) in a Fatal Four Way Match. He also faced and lost to [Goblin](@/w/goblin.md) in a Gauntlet Survivor Challenge at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), as well as in the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+He surprised fans by making his first in-ring appearance in over two years at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), facing [Bill Feager](@/w/feager.md) in a chairs match. At [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) he was defeated by [Oskar Alexander](@/w/oskar-alexander.md) in a Fatal Four Way Match. He also faced and lost to [Goblin](@/w/goblin.md) in a Gauntlet Survivor Challenge at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), as well as in the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
 ### Return to Maniac Zone Wrestling (2024-present)
 

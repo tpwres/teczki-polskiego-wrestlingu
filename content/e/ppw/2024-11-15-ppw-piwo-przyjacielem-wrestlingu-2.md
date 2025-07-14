@@ -20,7 +20,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 
 {% card() %}
 - d: 'Friday, 17:00'
-- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[_rookie_ Bartek](@/w/plata.md)'
   - s: Singles Match
 - - '[Aron Wake](@/w/aron-wake.md)'
@@ -58,7 +58,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Goblin](@/w/goblin.md)'
   - s: ECW Rules Match
 - - '[Sambor](@/w/sambor.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Singles Match
 - - '[Isnorr](@/w/isnorr.md), [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Marcelito](@/w/marcelito.md), [Aron Wake](@/w/aron-wake.md)'
@@ -81,10 +81,10 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Bonus CBD](@/w/gabriel-queen.md)'
   - s: Triple Threat Match
 - - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
-  - '[Isnorr](@/w/isnorr.md), [Prince Striker](@/w/royal-striker.md), [Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Isnorr](@/w/isnorr.md), [Prince Striker](@/w/royal-striker.md), [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Six-Man Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Singles Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[_rookie_ Bartek](@/w/plata.md)'
@@ -112,7 +112,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Larwa](@/w/goblin.md)'
   - '[Agentka](@/w/agentka-agatka.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Goblin](@/w/goblin.md)'

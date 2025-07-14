@@ -60,7 +60,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
   - '[Bill Feager](@/w/feager.md)'
   - s: Gauntlet Survivor Challenge
 - - '[Vic Golden](@/w/vic-golden.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'

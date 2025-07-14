@@ -44,7 +44,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
     n: "Mister Z's special challenge"
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[_rookie_ Bartosz](@/w/plata.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Triple Threat Match'
     n: '[Michael HT](@/w/michael-ht.md) announced an open challenge on behalf of Axel Fox.'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -80,7 +80,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 * Mister Z introduced a big clock for the Beat the Clock challenge between Biesiad and himself. If Biesiad failed to beat the time set by Mister Z, he would be forced to serve as Z's bodyguard. Additionally, if either Sambor or Marcelito won their respective matches, they would earn a number 20 entry in the 20 person match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 * Mister Z defeated Marcelito in 2:47 after hitting his Spinning Sit-Out Powerbomb, thus setting a time limit for Biesiad to defeat Sambor.
 * Biesiad furiously assaulted Sambor with multiple chairshots and managed to pin Sambor, beating Mister Z's time and thus securing his freedom.
-* _Rookie_ Bartosz was the one to accept Fox's open challenge, but before they engaged, Oskar's music started playing to the surprise of both. Axel then eagerly made the match a Triple Threat, which was won by him after he managed to hit a _Firefox Elbow Drop_ on Oskar Aleksander while he was pinning Bartosz.
+* _Rookie_ Bartosz was the one to accept Fox's open challenge, but before they engaged, Oskar's music started playing to the surprise of both. Axel then eagerly made the match a Triple Threat, which was won by him after he managed to hit a _Firefox Elbow Drop_ on Oskar Alexander while he was pinning Bartosz.
 * The Vodka Match ended in a no contest, since neither contestant managed to get up to his feet before the referee counted to ten. Johnny Blade appeared to stand up just in time, but the [official results][hcf21k-wyniki] posted by PpW state there was no winner.
 * Even Referee Kornel had to down a shot of vodka, after carelessly touching the ropes when motioning for the crew to pour one for Marco. He was careful to not touch the ropes afterwards.
 * Tornado Tag Team Match ended after Vic Golden managed to secure a pinfall victory over Isnorr after hitting him with _Slayswitch_. Confronting Gustav after the match, Gabriel noted that it was Gustav's first defeat in 14 months. Gustav initially dismissed it, as it was Isnorr who ate the pin, but later agreed to a rematch (from [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)).

@@ -22,9 +22,9 @@ Agentka Agatka is a Polish female manager and wrestler best known for her time i
 
 ### PpW Ewenement (2024-present)
 
-#### Managing Oskar Aleksander
+#### Managing Oskar Alexander
 
-Agentka Agatka made her debut in [PpW Ewenement](@/o/ppw.md), during [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) where she joined _rookie_ Oskar after his post-match victorious promo, when he named himself as [Oskar Aleksander](@/w/oskar-aleksander.md).
+Agentka Agatka made her debut in [PpW Ewenement](@/o/ppw.md), during [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) where she joined _rookie_ Oskar after his post-match victorious promo, when he named himself as [Oskar Alexander](@/w/oskar-alexander.md).
 She was portrayed as an independent girlboss who is running a "talent agency" managing prospecting wrestlers, such as Oskar himself.
 From her debut onwards she started making rather regular appearances by Oskar's side, often helping him gain advantage by any means necessary.
 She was also responsible for setting him up in matches against PpW's top performers, such as [Gabriel Queen](@/w/gabriel-queen.md) or The Legend [Vic Golden](@/w/vic-golden.md), thanks to her ability to cut good deals with PpW's producer [Mister Z](@/w/mister-z.md).
@@ -40,9 +40,9 @@ Later on Agatka posted a video of her calling Mister Z on the phone. She voiced 
 ## In wrestling
 
 * Wrestlers managed:
-    - [Oskar Aleksander](@/w/oskar-aleksander.md) (2024-)
+    - [Oskar Alexander](@/w/oskar-alexander.md) (2024-)
  * Managers:
-    - [Oskar Aleksander](@/w/oskar-aleksander.md) (2025)
+    - [Oskar Alexander](@/w/oskar-alexander.md) (2025)
  * Entrance music:
     - "Co Mi Panie Dasz" by Bajm
     {{ org_badge(orgs=['ppw']) }} (2025-) <br>
@@ -50,7 +50,7 @@ Later on Agatka posted a video of her calling Mister Z on the phone. She voiced 
     {{ music(spot='45ghTMKvWtMCX9tHJCT1Zo')}}
     {{ music(apple='1433949584')}}
     - "Zacznij od Bacha" by Zbigniew Wodecki
-    {{ org_badge(orgs=['ppw']) }} (2024-, when managing [Oskar Aleksander](@/w/oskar-aleksander.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-, when managing [Oskar Alexander](@/w/oskar-alexander.md)) <br>
     {{ music(yt='rDQHzGpwQNk')}}
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}

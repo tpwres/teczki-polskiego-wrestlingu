@@ -37,7 +37,7 @@ After an absence of five months, Sambor made his return to MZW, where he faced [
 
 ### PpW Ewenement (2024-present)
 
-Sambor debuted in [PpW Ewenement](@/o/ppw.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) where, along with [Aron Wake](@/w/aron-wake.md) and [Marcelito](@/w/marcelito.md) - he lost to [Oskar Aleksander](@/w/oskar-aleksander.md). At PpW he adopted a more heelish persona, and appeared without his manager - Rusałka.
+Sambor debuted in [PpW Ewenement](@/o/ppw.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) where, along with [Aron Wake](@/w/aron-wake.md) and [Marcelito](@/w/marcelito.md) - he lost to [Oskar Alexander](@/w/oskar-alexander.md). At PpW he adopted a more heelish persona, and appeared without his manager - Rusałka.
 
 #### Rivalry with Feager
 

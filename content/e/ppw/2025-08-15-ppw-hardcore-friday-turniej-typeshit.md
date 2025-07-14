@@ -17,7 +17,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
 ## Build-up
 
 * On 9.07.2025 PpW announced [Legia Łysych](@/tt/legia-lysych.md) ([Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)) vs The Hardcores ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) in a Warszawski Brawl (_Warsaw Brawl_)
-* On 11.07.2025 PpW announced [Oskar Aleksander](@/w/oskar-aleksander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) in a Bullrope Match, where the wrestlers are tied wrist-to-wrist with a thick rope, with a cowbell in the middle.
+* On 11.07.2025 PpW announced [Oskar Alexander](@/w/oskar-alexander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) in a Bullrope Match, where the wrestlers are tied wrist-to-wrist with a thick rope, with a cowbell in the middle.
 
 ## Card
 
@@ -26,7 +26,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
   - s: Warszawski Brawl Tag Team Match
     nc: upcoming
-- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Bullrope Match
     nc: upcoming
