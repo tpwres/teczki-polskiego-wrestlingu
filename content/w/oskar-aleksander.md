@@ -48,15 +48,14 @@ At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Oskar took part 
 
 #### Debut
 
-Aleksander made his [MZW](@/o/mzw.md) at [MZW Green Madness](content/e/mzw/2025-06-28-mzw-green-madness.md), thus becoming a first [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to make his non-PpW debut.
-As a part of tournament to the briefcase, he was set to face [Shadow](@/w/shadow.md). He cut a lengthy promo on his way to the ring, insulting Wrocław, audience and Shadow himself. Before managing to get any offense, he was rolled up to lose a match in a matter of seconds.
+Aleksander made his [MZW](@/o/mzw.md) debut at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), thus becoming the first [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to debut outside of PpW.
+Taking part in a tournament for a championship contract briefcase, he was set to face [Shadow](@/w/shadow.md). He cut a lengthy promo on his way to the ring, insulting the city of Wrocław, the audience and Shadow himself. Before managing to go on the offensive, however, he was quickly rolled up for a pin and lost the match in a matter of seconds.
 
 ### Legacy of Wrestling (2025-)
 
-#### Road to the Title
+#### Road to the title
 
-Aleksander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestling vol.3](content/e/low/2025-07-11-low-3.md) in a _Road to the Title_ triple threat match against [Gabriel Queen](@/w/gabriel-queen.md) and
-[Filip Fux](@/w/filip-fux.md). Ultimately he failed to qualify in the tournament, with Queen emerging as a winner.
+Aleksander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md) in a _Road to the Title_ triple threat match against [Gabriel Queen](@/w/gabriel-queen.md) and [Filip Fux](@/w/filip-fux.md). Ultimately, he failed to qualify in the tournament, with Queen emerging the winner.
 
 ## In wrestling
 
