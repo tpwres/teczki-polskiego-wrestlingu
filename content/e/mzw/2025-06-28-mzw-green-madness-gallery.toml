@@ -2,7 +2,7 @@
 0002 = { path = "turniej-o-walizke.webp", caption = "Graphic announcing the eight-man tournament for the Championship contract.", source = "Official MZW Facebook" }
 0003 = { path = "wake-up-dziedzic.webp", caption = "Graphic announcing the first match - [Aron Wake](@/w/aron-wake.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official MZW Facebook" }
 0004 = { path = "marceli-z-misterem.webp", caption = "Graphic announcing the second match - [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md).", source = "Official MZW Facebook" }
-0005 = { path = "oskar-w-cieniu-aleksandra.webp", caption = "Graphic announcing the third match - [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md).", source = "Official MZW Facebook" }
+0005 = { path = "oskar-w-cieniu-aleksandra.webp", caption = "Graphic announcing the third match - [Shadow](@/w/shadow.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official MZW Facebook" }
 0006 = { path = "cesky-goblinek.webp", caption = "Graphic announcing a non-tournament match - [Goblin](@/w/goblin.md) vs [Erik Šlotíř](@/w/erik-slotir.md).", source = "Official MZW Facebook" }
 0007 = { path = "fatal-4-way.webp", caption = "Graphic announcing the main event stipulation - a Fatal 4-Way Ladder Match.", source = "Official MZW Facebook" }
 0008 = { path = "nu-gryffin-pogodi.webp", caption = "Graphic announcing the fourth match - [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Febus 'The Wolf'](@/w/apollo-anderson.md).", source = "Official MZW Facebook" }
@@ -10,8 +10,8 @@
 0010 = { path = "samboreen.webp", caption = "Graphic announcing a non-tournament tag-team match - [Sambor](@/w/sambor.md) vs [Tony Sheen](@/w/riverman.md).", source = "Official MZW Facebook" }
 1001 = { path = "nosil-febus-razy-kilka.webp", caption = "[Febus 'The Wolf'](@/w/apollo-anderson.md) holds [Gustav Gryffin](@/w/gustav-gryffin.md) in a Fireman Carry.", source = "M3n747" }
 2001 = { path = "cien-shadowa.webp", caption = "[Shadow's](@/w/shadow.md) shadowy silhouette. In the background stands [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
-2002 = { path = "oskar-gada-i-gada-i-gada.webp", caption = "[Shadow](@/w/shadow.md) listens as Oskar Aleksander delivers his promo before the match.", source = "M3n747" }
-2003 = { path = "oskar-juz-sobie-idzie.webp", caption = "[Shadow](@/w/shadow.md) points to the briefcase, as Oskar Aleksander leaves the ring in record time. Note the hour on the clock.", source = "M3n747" }
+2002 = { path = "oskar-gada-i-gada-i-gada.webp", caption = "[Shadow](@/w/shadow.md) listens as Oskar Alexander delivers his promo before the match.", source = "M3n747" }
+2003 = { path = "oskar-juz-sobie-idzie.webp", caption = "[Shadow](@/w/shadow.md) points to the briefcase, as Oskar Alexander leaves the ring in record time. Note the hour on the clock.", source = "M3n747" }
 3001 = { path = "rakietowy-dziedzic.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md), the fourth member of Team Rocket. To the right stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Kawczun" }
 5001 = { path = "sheen-dusi-sambora-jak-pstraga-w-sosie-wlasnym.webp", caption = "[Tony Sheen](@/w/riverman.md) chokes [Sambor](@/w/sambor.md) against the ropes, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) counts him out.", source = "M3n747" }
 5002 = { path = "sambor-trzyma-sheena-jak-okonia-nad-rusztem.webp", caption = "Sambor sets Tony Sheen for a Piledriver; [Sędzia Seweryn](@/w/sedzia-seweryn.md) observes.", source = "M3n747" }
@@ -40,5 +40,5 @@
 8009 = { path = "mister-z-walizką.webp", caption = "[Mister Z](@/w/mister-z.md) wins the briefcase; [Adrian Zgórski](@/w/adrian-zgorski.md) stands in the background.", source = "M3n747" }
 8010 = { path = "arona-odwiazuja.webp", caption = "Referees Seweryn and Kornel untie Aron Wake, who's being attended to by a medical staff member.", source = "M3n747" }
 9001 = { path = "walizka.webp", caption = "The championship contract hanging above the ring, waiting for the show to start.", source = "M3n747" }
-9002 = { path = "oskar-i-martyna.webp", caption = "Istotna Martynka and [Oskar Aleksander](@/w/oskar-aleksander.md) after the show.", source = "Istotna Martynka" }
+9002 = { path = "oskar-i-martyna.webp", caption = "Istotna Martynka and [Oskar Alexander](@/w/oskar-alexander.md) after the show.", source = "Istotna Martynka" }
 9003 = { path = "auuuu.webp", caption = "[Goblin](@/w/goblin.md) with a fan.", source = "Istotna Martynka." }

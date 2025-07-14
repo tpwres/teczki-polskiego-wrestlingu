@@ -27,7 +27,7 @@ The show was quickly sold out, so the attendance can be approximated at about 22
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Goblin](@/w/goblin.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
   - s: Four-way Match
 - - '[Santa Biesiad](@/w/biesiad.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -63,18 +63,18 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * [Sędzia Karol Górski](@/w/madman-charlie.md) enters the ring as HT introduces him, and crowd is chants his name.
 * After a while Michael HT announces the first fight - a Fatal Four Way Match - and remarks that the winner would be given a special gift from Santa.
 
-#### Fatal Four Way Match: Olgierd vs Oskar Aleksander vs Gabriel Queen vs Goblin 
+#### Fatal Four Way Match: Olgierd vs Oskar Alexander vs Gabriel Queen vs Goblin 
 
 * Timestamp: `0:06:02`
 * The head of masked [Goblin](@/w/goblin.md) peeks from behind a curtain, but as he makes his entrance it becames clear that the Acid Messiah is in fact portrayed by [Olgierd](@/w/olgierd.md) who stole his ring gear. Olgierd takes off Goblin's outfit and hits it with a couple of headbutts.
 * [Gabriel Queen](@/w/gabriel-queen.md) makes his babyface entrance next.
-* [Oskar Aleksander](@/w/oskar-aleksander.md) is the third one in this match. He makes his way to the ring supported by Agentka Agatka - his manager - who sips her vodka martini, standing on the stage throughout the match.
+* [Oskar Alexander](@/w/oskar-alexander.md) is the third one in this match. He makes his way to the ring supported by Agentka Agatka - his manager - who sips her vodka martini, standing on the stage throughout the match.
 * Goblin finally makes his entrance wearing one of the Olgierd's merchandise shirts with many invectives written on it. He immediatly takes on the charging Olgierd and the two brawl backstage.
 * The match is filled with many spots and continous change of initiative every few moments. Olgierd is mostly focused on fighting Goblin, while Oskar fights Gabriel Queen.
 * Queen and Goblin ocassionaly team up to fend off Oskar and Olgierd, but have some opportunites to exchange blows with each other.
-* One of most memorable spots from the fight would be the chaotic exchange of powerful moves between wrestlers started by Goblin performing a Top-Rope Sunset Flip Powerbomb on Olgierd and finished by Oskar Aleksander powerbombing Gabriel onto Goblin and Olgierd laying in the middle of the ring.
+* One of most memorable spots from the fight would be the chaotic exchange of powerful moves between wrestlers started by Goblin performing a Top-Rope Sunset Flip Powerbomb on Olgierd and finished by Oskar Alexander powerbombing Gabriel onto Goblin and Olgierd laying in the middle of the ring.
 * The second memorable spot was the simultaneous four-way submission with wrestlers submitting each other at the same time.
-* Finally, Gabriel Queen wins the fight after hitting his new finisher - a Running Lariat - on Oskar Aleksander.
+* Finally, Gabriel Queen wins the fight after hitting his new finisher - a Running Lariat - on Oskar Alexander.
 * Winner: Gabriel Queen by pinfall.
 
 #### Segment: Gifts from Santa

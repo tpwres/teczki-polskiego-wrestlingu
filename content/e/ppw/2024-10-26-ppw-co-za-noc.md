@@ -48,7 +48,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Strap Match
     r: Technical Knock-Out
-- - '[_rookie_ Oskar](@/w/oskar-aleksander.md)'
+- - '[_rookie_ Oskar](@/w/oskar-alexander.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
@@ -121,7 +121,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * [Marcelito](@/w/marcelito.md) makes his face entrance first.
 * Second of the babyfaces - [Aron Wake](@/w/aron-wake.md) - makes his entrance shortly after Marcelito.
 * [Sambor](@/w/sambor.md) makes his mysterious heel entrance, and also his PpW debiut.
-* The final spot in the Fatal-Four Way match belongs to [_rookie_ Oskar](@/w/oskar-aleksander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW's](@/o/ptw.md) co-owners.
+* The final spot in the Fatal-Four Way match belongs to [_rookie_ Oskar](@/w/oskar-alexander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW's](@/o/ptw.md) co-owners.
 * The match starts with a beatdown of babyfaces perpetrated by Oskar and Sambor. The two soon after begin their own strike exchange, which is won by the Slavic warrior, Sambor.
 * Oskar then leaves the ring after a running knee strike, just to be accompanied by Sambor seconds later after he recieves a double dropkick from the babyfaces.
 * After Marcelito joins the heels at the ringside, Aron stands tall after a top rope dive. Wake then proceeds to score a pin on Marcelito, who quickly kicks out.
@@ -132,8 +132,8 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Another exchange of nearly match-ending moves with pinfalls narrowly kicked out of, or broken by other competitors, ends after Oskar counters Aron's finisher with a clothesline and another powerbomb to end the fight.
 * Winner: rookie Oskar by pinfall.
 * Oskar is joined in his celebration by an unnamed female figure (presumably a new manager/valet), wearing fancy black clothes, white sneakers and sunglasses.
-* After his victory, rookie Oskar announces that henceforth he shall be known as [Oskar Aleksander](@/w/oskar-aleksander.md).
-* Oskar Aleksander and his valet leave the ring while crowd boos them.
+* After his victory, rookie Oskar announces that henceforth he shall be known as [Oskar Alexander](@/w/oskar-alexander.md).
+* Oskar Alexander and his valet leave the ring while crowd boos them.
 
 #### Alex Arthur vs Bill Feager
 
@@ -159,10 +159,10 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * The transmission cuts to the backstage, where [Mateusz Czarnecki](@/w/mateusz-czarnecki.md) interviews Gustav Gryffin.
 * [Gustav Gryffin](@/w/gustav-gryffin.md) admits that Samson is one of the toughest opponents in his career, but he was confident that he would defeat the Beast of Będzin. Gustav invites Samson to join ["Zmowa"](@/tt/zmowa.md). He also issues an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
 * [Samson](@/w/samson.md) admits that Gutsav indeed "whooped his ass" without any shenanigans, so he feels lost and is unsure about his future in the ring, as "aapart of him died in the ring tonight". He apologies to all of his fans for failing in tonight's bout, and can't promise that he will be on the next show.
-* [Marcelito](@/w/marcelito.md) admits that Oskar Aleksander did a good job, but due to the fact that he wasn't pinned he would like a singles match against him in the future.
-* [Aron Wake](@/w/aron-wake.md) says that [Ewenement Dojo](@/o/ewenement-dojo.md) is currently the best pro wrestling school in Poland, and Oskar Aleksander is a good example of that. Despite his loss in the match, Aron says that he's still got it, and wants to prove more in the future.
+* [Marcelito](@/w/marcelito.md) admits that Oskar Alexander did a good job, but due to the fact that he wasn't pinned he would like a singles match against him in the future.
+* [Aron Wake](@/w/aron-wake.md) says that [Ewenement Dojo](@/o/ewenement-dojo.md) is currently the best pro wrestling school in Poland, and Oskar Alexander is a good example of that. Despite his loss in the match, Aron says that he's still got it, and wants to prove more in the future.
 * [Sambor](@/w/sambor.md) simply states that he is here to stay despite losing in his PpW debut. He congratulates Oskar on his win, but claims that he would win if it weren't for Aron Wake, who became his target after that Four-Way Match.
-* [Oskar Aleksander](@/w/oskar-aleksander.md) arrives with his "Talent Agent", but her name was not stated. He disses the PpW Fanatics for not cheering during the maiden vicory of career. His agent states that Oskar has bright future before him, and she is in talks with [PpW's promotor](@/w/mister-z.md) to provide the best offers for her client.
+* [Oskar Alexander](@/w/oskar-alexander.md) arrives with his "Talent Agent", but her name was not stated. He disses the PpW Fanatics for not cheering during the maiden vicory of career. His agent states that Oskar has bright future before him, and she is in talks with [PpW's promotor](@/w/mister-z.md) to provide the best offers for her client.
 * Beer-drinking [Bill Feager](@/w/feager.md) denies that the fight with Alex was a "long awaited challenge". Then he shoots on "Mister Zjeb" and his booking decisions, as well as on Alex Arthur who "bolted out from his fight" at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). He also shoots on his critiques who say that he can't wrestle, as he claims that their opinion does not matter since he was a PpW Champion for over 130 days.
 * Interview time ends as Matuesz invites everyone on to the second part of the show.
 

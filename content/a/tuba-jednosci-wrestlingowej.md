@@ -48,7 +48,7 @@ The tube was signed by the following people:
 - [Mister Z](@/w/mister-z.md)
 - [OG Michael HT](@/w/michael-ht.md)
 - [Olgierd](@/w/olgierd.md) (signed twice, as Olgierd and as El Ogre)
-- [Oskar Aleksander](@/w/oskar-aleksander.md)
+- [Oskar Alexander](@/w/oskar-alexander.md)
 - [Piotr Opolski](@/w/piotr-opolski.md)
 - Pan Prezes ("Mister Chairman" from [Legacy of Wrestling](@/o/low.md))
 - [Piękny Kawaler](@/w/piekny-kawaler.md)

@@ -21,13 +21,13 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
 - d: Day 1
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Sambor](@/w/sambor.md)'
-- - '[Oskar Aleksander](@/w/oskar-aleksander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
+- - '[Oskar Alexander](@/w/oskar-alexander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
   - '[El Ogre](@/w/olgierd.md)'
   - s: 'Six Man Ladder Qualifying Match'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - 'Atilla'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
 - - '[Zmowa](@/tt/zmowa.md): [Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md)'
   - '[Goblis](@/tt/goblis.md): [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
   - s: Tag Team Match
@@ -40,7 +40,7 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
-- - '[Agentka Agatka](@/w/agentka-agatka.md), [Oskar Aleksander](@/w/oskar-aleksander.md)'
+- - '[Agentka Agatka](@/w/agentka-agatka.md), [Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Sambor](@/w/sambor.md), Atilla'
   - s: 'Tag-Team Match'
 - - '[Sentinel](@/w/sentinel.md)'
@@ -64,7 +64,7 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
 * Cagematch event pages - [day 1](https://www.cagematch.net/?id=1&nr=428136), [day 2](https://www.cagematch.net/?id=1&nr=428741)
 * [Announcement post](https://www.facebook.com/photo/?fbid=1246774540140902&set=a.734451078039920)
 * [Facebook reel: Biesiad vs Sambor](https://www.facebook.com/reel/731351469459974)
-* [Facebook reel: El Ogre vs Oskar Aleksander](https://www.facebook.com/reel/504039896128850)
+* [Facebook reel: El Ogre vs Oskar Alexander](https://www.facebook.com/reel/504039896128850)
 * [Facebook reel: Agentka Agatka vs Gabriel Queen](https://www.facebook.com/reel/1374293023779154)
 * Live streams by Istota Wrestlingu: [day 1 part 1](https://www.youtube.com/watch?v=0hYiC4hGeK4), [day 1 part 2](https://www.youtube.com/watch?v=iajUof-W6kk&t=912s), [day 2 part 1](https://www.youtube.com/watch?v=AZaOqNBoV8c), [day 2 part 2](https://www.youtube.com/watch?v=a2g6ZoWaiBA) and [day 2 part 3](https://www.youtube.com/watch?v=N_l8vCw6FWs).
 

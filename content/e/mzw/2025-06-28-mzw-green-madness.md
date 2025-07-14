@@ -21,7 +21,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 * Over the next weeks, MZW continued to reveal the matches at their Facebook.
 * The first tournament match, revealed on 17.05.2025, was [Aron Wake](@/w/aron-wake.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).
 * The second tournament match, revealed on 25.05.2025, was [Marcelito](@/w/marcelito.md) vs [Mister Z](@/w/mister-z.md).
-* The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Aleksander](@/w/oskar-aleksander.md), in Oskar's MZW debut.
+* The third tournament match, revealed on 30.05.2025, was [Shadow](@/w/shadow.md) vs [Oskar Alexander](@/w/oskar-alexander.md), in Oskar's MZW debut.
 * On 3.06.2025 MZW announced a non-tournament match between [Goblin](@/w/goblin.md) and [Erik Šlotíř](@/w/erik-slotir.md). It marks Šlotíř's MZW debut.
 * On 5.06.2025 the stipulation for the main event was revealed: a Fatal 4-Way Ladder Match, a first for MZW.
 * The fourth tournament match, revealed on 10.06.2025, was [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Febus 'The Wolf'](@/w/apollo-anderson.md).
@@ -35,7 +35,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - s: Tournament qualifying match
 - - '[Shadow](@/w/shadow.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Tournament qualifying match
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
@@ -67,7 +67,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 ### Recap
 
 * Present in the audience was [Vic Golden](@/w/vic-golden.md).
-* [Oskar Aleksander](@/w/oskar-aleksander.md) delivered a long-winded promo dissing [Shadow](@/w/shadow.md) and the city of Wrocław. When the bell rang, Shadow went straight for a roll-up followed by an immediate three-count, ending the match in just a few seconds.
+* [Oskar Alexander](@/w/oskar-alexander.md) delivered a long-winded promo dissing [Shadow](@/w/shadow.md) and the city of Wrocław. When the bell rang, Shadow went straight for a roll-up followed by an immediate three-count, ending the match in just a few seconds.
 * [Syriusz Dziedzic](@/w/dziedzic.md) came out wearing a white T-shirt emblazoned with a large red letter R - a clear reference to [Team Rocket][kiepoty] from the Pokémon series, of which [Aron Wake](@/w/aron-wake.md) is a fan.
 * When [Sędzia Seweryn](@/w/sedzia-seweryn.md) wasn't looking, [Mister Z](@/w/mister-z.md) came into the ring and loudly smashed a chair against the canvas, while Aron Wake fell down a few paces away, pretending to be hurt. This led the referee to disqualify Dziedzic on the grounds of collaborating with Mr Z to gain an unfair advantage over Wake.
 * Referee Seweryn carried the unconscious Sambor backstage on his own back.

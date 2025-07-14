@@ -29,7 +29,7 @@ Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show 
 * On 25.05.2025 PpW posted a [video][marco-dzwoni] of [Marco Hammers](@/w/marco-hammers.md) phoning [Mister Z](@/w/mister-z.md). He runs down all the matches that [Zmowa](@/tt/zmowa.md) has at the show and requests one for himself. Following up on his ladder spot from [Ostatnia Prosta](content/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Marco calls himself a "ladder specialist", likening himself to Jeff Hardy. He requests being added to the Six Man #1 Contender Ladder Match. While the voice on the phone is never heard, Marco's reaction as well as the video's description confirm that the deal was made.
 * On 26.05.2025 PpW posted a [video][szalony-profesor] containing lab diary of [Professor Dobroniak](@/w/stanislaw-van-dobroniak.md). In it, he lists various ways to get rid of [Johnny Zombie Blade](@/w/johnny-blade.md). One way is to kill the zombie, but that would also kill Johnny Blade. However, Dobroniak's research allowed him to discover a more humane way to beat Zombie Johnny - bathe him in non-alcoholic beer, which should cure his zombie affliction. Thus, Johnny Blade vs Stanisław van Dobroniak has been set up as an Undead Beerbath Match: Project Zero. Dobroniak vows to save Johnny Blade and become a hero of Polish wrestling.
 * On the following day PpW officially announced the match. The [Facebook post][le-protocole] referred to the stipulation as "Protocole Zero" (note the misspelling of "protocol"), but the accompanying image kept "Project Zero".
-* On 5.06.2025 PpW announced the full line-up for the Six-Man Ladder Match: Sentinel, [Robert Star](@/w/robert-star.md), [Oskar Aleksander](@/w/oskar-aleksander.md), [Marco Hammers](@/w/marco-hammers.md), [Sambor](@/w/sambor.md) and Wonder Haze.
+* On 5.06.2025 PpW announced the full line-up for the Six-Man Ladder Match: Sentinel, [Robert Star](@/w/robert-star.md), [Oskar Alexander](@/w/oskar-alexander.md), [Marco Hammers](@/w/marco-hammers.md), [Sambor](@/w/sambor.md) and Wonder Haze.
 
 ## Card
 
@@ -39,7 +39,7 @@ Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show 
   - s: Pre-show Tag Team Match
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Sentinel](@/w/sentinel.md)'
-  - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
@@ -71,7 +71,7 @@ Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show 
 * In a comedic spot, Marco found the smallest ladder available, about a metre high, and called two referees to hold it down for him as he climbed.
 * In the Undead Beerbath Match, Zombie Johnny was significantly slower and less resourceful than his usual self, but also quite more resilient, no-selling many of Dobroniak's attacks. However, he was finally tied down with a length of barbed wire, and carried to the bathtub filled with non-alcoholic beer.
 * As Johnny woke up from his zombified state, he celebrated together with Dobroniak and the fans, both apparently forgetting about their rivalry for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
-* After an unfortunate ref bump Gabriel pinned Vic, but there was no one to count. Moments later Oskar Aleksander intervened unexpectedly, attacked Queen with a chair and handed it to Vic. Exiting the ring, he rolled the ref back in for a slow three-count on the badly beaten Queen.
+* After an unfortunate ref bump Gabriel pinned Vic, but there was no one to count. Moments later Oskar Alexander intervened unexpectedly, attacked Queen with a chair and handed it to Vic. Exiting the ring, he rolled the ref back in for a slow three-count on the badly beaten Queen.
 * The "Cieśla Match" involved multiple tables, and many creative ways to break them. In a dangerous spot, a ladder barely missed some of the crowd after being thrown out of the ring.
 * Goblin's entrance routine fooled fans not once, but twice: when the music hit, a character wearing the Goblin mask and his ring gear entered but remained standing in the entryway. He was followed by another one, wearing Goblin's white-and-green trunks. That was also not the real Goblin, who entered third, in a gold-painted mask, fire-motif trunks and a new jacket with Goblin's eye symbol.
 * In the main event's final No Holds Barred chapter, the wrestlers made a lot of callbacks to their previous matches and storylines. The barbed-wire crown from [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) made a return, as did the chain with collars on both ends used in [Goblin vs Olgierd](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). Gustav also lifted a section of the metal barriers into the ring, and used it on his opponent. Vicious belt strikes by Gustav called back to his [match against Samson](@/e/ppw/2024-10-26-ppw-co-za-noc.md).

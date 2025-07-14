@@ -16,7 +16,7 @@ Turniej TypeShit (_Tournament-Type Shit_) was a show by [PpW Ewenement Wrestling
 
 ## Build-up
 
-* The show was announced on 17.06.2025. No match-ups were unveiled, but according to the poster the event will feature [Goblin](@/w/goblin.md), [Mister Z](@/w/mister-z.md), [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Oskar Aleksander](@/w/oskar-aleksander.md) and others.
+* The show was announced on 17.06.2025. No match-ups were unveiled, but according to the poster the event will feature [Goblin](@/w/goblin.md), [Mister Z](@/w/mister-z.md), [Biesiad Strong](@/w/biesiad.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Oskar Alexander](@/w/oskar-alexander.md) and others.
 * On 20.06.2025 PpW announced the first round of the tournament - [Biesiad Strong](@/w/biesiad.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) in an ECW Rules Match.
 * On 23.06.2025 PpW announced another first round match of the tournament - [Johnny Blade](@/w/johnny-blade.md) vs [Olgierd](@/w/olgierd.md) in a Bring Your Weapons Match.
 * On 25.06.2025 PpW announced the debut of a new wrestler, straight from the [Ewenement Dojo](@/o/ewenement-dojo.md).
@@ -29,7 +29,7 @@ Turniej TypeShit (_Tournament-Type Shit_) was a show by [PpW Ewenement Wrestling
 - - '[Mister Z](@/w/mister-z.md)'
   - '_rookie_ Antek'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Aleksander](@/w/oskar-aleksander.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Gauntlet Match for the tournament spot
 - - '[Sambor](@/w/sambor.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
@@ -37,7 +37,7 @@ Turniej TypeShit (_Tournament-Type Shit_) was a show by [PpW Ewenement Wrestling
 - - '[Sambor](@/w/sambor.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - s: Gauntlet Match for the tournament spot, continued
-- - '[Oskar Aleksander](@/w/oskar-aleksander.md)'
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Sambor](@/w/sambor.md)'
   - s: Gauntlet Match for the tournament spot, continued
     n: Agatka intervenes to distract the referee, helping Oskar secure the win
