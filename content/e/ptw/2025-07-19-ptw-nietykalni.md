@@ -18,6 +18,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 
 * On 10.07.2025 PTW announced a Hardcore Match between [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) and [Alex Brave](@/w/alex-brave.md).
 * The next day PTW announced [Sigma Boy xD](@/w/sigma-boy.md) vs Andi ZickZack from Austria, making his debut in Poland.
+* On 15.07.2025 PTW announced Daniel Razor vs ["Starboy" Nano Lopez](@/w/nano-lopez.md) for the vacated [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
 ## Predicted card
 
@@ -29,6 +30,10 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 - - 'Andi ZickZack'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - nc: upcoming
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - 'Daniel Razor'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    nc: upcoming
 {% end %}
 
 ## References
