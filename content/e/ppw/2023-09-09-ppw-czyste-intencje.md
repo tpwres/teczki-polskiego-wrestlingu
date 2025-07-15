@@ -35,4 +35,5 @@ Czyste Intencje (_Pure Intentions_) was a show by [PpW Ewenement Wrestling](@/o/
 
 ## References
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=382968)
-* [Full show on YouTube](https://www.youtube.com/watch?v=jG6U4LfnJuk)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/czyste-intencje-23-full-show-hd-definitive) (requires paid subscription)
+* [Full show on YouTube](https://www.youtube.com/watch?v=jG6U4LfnJuk) (set to private as of July 2025)
