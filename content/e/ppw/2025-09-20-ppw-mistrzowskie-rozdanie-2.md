@@ -39,6 +39,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=429937)
 * [Facebook post announcing the event][mr2]
 
 [mr2]: https://www.facebook.com/OficjalnePPW/posts/pfbid0taRW9fXjs7ofV4zixySEMYGQ9VfZZXPdemaSjGDpAWzoPNFjnqpo7J7WzS84B4mTl

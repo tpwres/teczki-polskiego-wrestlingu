@@ -38,6 +38,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=429796)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1292111242919265&set=a.499910772139320)
 
 [name]: https://context.reverso.net/translation/english-polish/type+shit
