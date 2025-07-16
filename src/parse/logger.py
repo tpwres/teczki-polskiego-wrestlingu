@@ -43,7 +43,7 @@ class ParseContext:
 
     @property
     def current_component(self) -> str:
-        return getattr(self._local, 'component', '???')
+        return getattr(self._local, 'component', '[root]')
 
     @current_component.setter
     def current_component(self, value: str):
@@ -98,7 +98,7 @@ class RichDocLogger:
 
         handler = logging.StreamHandler()
         formatter = logging.Formatter(
-            "[%(asctime)s] %(name)s | %(levelname)s | %{message)s"
+            "[%(asctime)s] %(levelname)s | %(name)s | %(message)s"
         )
         handler.setFormatter(formatter)
         self.logger.addHandler(handler)

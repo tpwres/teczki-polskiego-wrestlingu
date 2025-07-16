@@ -2,6 +2,7 @@ from functools import partial
 from typing import ClassVar, Any, Optional
 import yaml
 import tomllib
+from textwrap import shorten
 
 class BlockRegistry:
     block_classes: ClassVar[dict[Optional[str], type]] = {}
@@ -47,7 +48,9 @@ class Block:
         self.body.append(line)
 
 class TextBlock(Block):
-    pass
+    def __repr__(self):
+        full_text = ''.join(self.body)
+        return f'<TextBlock@{self.starting_line} {shorten(full_text, 40)}>'
 
 
 
