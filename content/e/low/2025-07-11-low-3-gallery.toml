@@ -5,3 +5,47 @@
 00005 = { path = "marco-vs-unknown-ale-nie-tamta-z-tekkena.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs mystery opponent.", source = "Official Legacy Facebook" }
 00006 = { path = "main-event.webp", caption = "Image announcing the main event: [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Syriusz Dziedzic](@/w/dziedzic.md), [Sambor](@/w/sambor.md) & [Bartosz Plata](@/w/plata.md).", source = "Official Legacy Facebook" }
 00007 = { path = "oskar-vs-gabrys-vs-filip.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official Legacy Facebook" }
+00008 = { path = "widok-z-gory-trybun.webp", caption = "A view of the ring from the top of the stands, before the start of the show.", source = "M3n747" }
+10001 = { path = "zeteney-vs-oliwa.webp", caption = "Zétény launches himself at David Oliwa. To the left stands Sędzia Kornel.", source = "M3n747" }
+
+20001 = { path = "mareczek.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) makes his entrance.", source = "M3n747" }
+20002 = { path = "doberek-wiktor-jestem.webp", caption = "&quot;[Max](@/w/max-speed.md)… welcome home!&quot;<br/>&mdash;&nbsp;[Wiktor Długaj](@/w/wiktor-longman.md), Kraków, 11.07.2025.", source = "M3n747" }
+20003 = { path = "hair-envy.webp", caption = "Marco Hammers decreases [Max Speed's](@/w/max-speed.md) escape velocity by applying drag. [Sędzia Kornel](@/w/sedzia-kornel.md) exemplifies uncertainy.", source = "M3n747" }
+20004 = { path = "o-tym-go-trzaslem.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) proudly displays the chair he just used to halt [Max Speed's](@/w/max-speed.md) momentum.", source = "M3n747" }
+20005 = { path = "patrzcie-tak-wyglada-reka.webp", caption = "[Sędzia Kornel](@/w/sedzia-kornel.md) declares [Max Speed](@/w/max-speed.md) the winner.", source = "M3n747" }
+
+30001 = { path = "kuba-i-krecik.webp", caption = "Yaqoob and Erik Šlotíř.", source = "M3n747" }
+30002 = { path = "matt-buckna-z-pasem-mzw.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) with his [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+30003 = { path = "buenos-dias-senorita.webp", caption = "[Boro's](@/w/boro.md) entrance. On the right stands acting chairman [Wiktor](@/w/wiktor-longman.md).", source = "M3n747" }
+30004 = { path = "znako-pablo.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) with a [level crossing indicator bar](https://en.wikipedia.org/wiki/Road_signs_in_Poland#Additional_signs_before_level_crossing).", source = "M3n747" }
+30005 = { path = "taras-z-torba.webp", caption = "[Taras](@/w/taras.md), carrying a bag with weapons, argues with the audience.", source = "M3n747" }
+30006 = { path = "stol-dla-tarasa.webp", caption = "Disco Pablo sets a table in the corner, while Taras is down on his knees.", source = "M3n747" }
+30007 = { path = "zarazaboli.webp", caption = "Taras about to suplex Disco Pablo outside of the ring.", source = "M3n747" }
+30008 = { path = "klocki-ale-nie-lego-kolego.webp", caption = "[Taras](@/w/taras.md) flips off the audience after slamming Disco Pablo. To the right stands Special Guest Referee [Boro](@/w/boro.md). Note a pile of non-LEGO bricks on the ring.", source = "M3n747" }
+30009 = { path = "nie-tarasuj-stolu.webp", caption = "Boro just slapped [Taras](@/w/taras.md) and is about to put him through the table with the help of [Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
+30010 = { path = "klocki-rzucili.webp", caption = "Kids rush to grab the bricks from the ring. Wearing the Legacy T-shirt and black cap is Chris&nbsp;X.", source = "M3n747" }
+
+40001 = { path = "peace-love-and-alex.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) poses for the audience.", source = "M3n747" }
+40002 = { path = "filip-przyszedl.webp", caption = "Left to right: [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), Sędzia Kornel and Gabriel Queen.", source = "M3n747" }
+40003 = { path = "siema-no-co-tam.webp", caption = "[Filip Fux](@/w/filip-fux.md) shakes hands with [Gabriel Queen](@/w/gabriel-queen.md).", source = "M3n747" }
+40004 = { path = "uuu-pan-wielki-zly-schab-prosze-nie-bij-mnie.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md), however, doesn't.", source = "M3n747" }
+40005 = { path = "cho-no-tu-bo-bez-ciebie-zaczniemy.webp", caption = "[Filip Fux](@/w/filip-fux.md) and [Gabriel Queen](@/w/gabriel-queen.md) display friendship while [Oskar Alexander](@/w/oskar-alexander.md) stalls, much to [Sędzia Kornel's](@/w/sedzia-kornel.md) apparent annoyance.", source = "M3n747" }
+40006 = { path = "z-keczupem-bylaby-lepsza.webp", caption = "Filip Fux [eats the head](@/a/polish-wrestling-chants.md) of Oskar Alexander. [Sędzia Kornel](@/w/sedzia-kornel.md) looks hungry.", source = "M3n747" }
+40007 = { path = "aaa-kto-znaaa-hep-mi-nie-wyyypiiii-hep-jeeee.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) lands on the commentators' table. Sitting at the table, left to right, are: [ShowOff](@/w/piotr-malecki.md), [Chris&nbsp;X](@/w/chris-x.md), [Wiktor](@/w/wiktor-longman.md) and [Joker](@/w/joker.md). Obscured by Chris&nbsp;X is Balik.", source = "M3n747" }
+40008 = { path = "dobra-gdzie-ja-ich-mam-teraz-polozyc.webp", caption = "[Filip Fux](@/w/filip-fux.md) with Oskar Alexander and Gabriel Queen in a Double Fireman Carry.", source = "M3n747" }
+40009 = { path = "killer-queen.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) celebrates his victory.", source = "M3n747" }
+40010 = { path = "farewell-turtle.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) and [Filip Fux](@/w/filip-fux.md) show each other respect with a goodbye fist bump.", source = "M3n747" }
+
+
+50001 = { path = "", caption = ".", source = "M3n747" }
+50002 = { path = "", caption = ".", source = "M3n747" }
+50003 = { path = "", caption = ".", source = "M3n747" }
+50004 = { path = "", caption = ".", source = "M3n747" }
+50005 = { path = "", caption = ".", source = "M3n747" }
+
+
+
+60001 = { path = "", caption = ".", source = "M3n747" }
+70001 = { path = "", caption = ".", source = "M3n747" }
+80001 = { path = "", caption = ".", source = "M3n747" }
+90001 = { path = "", caption = ".", source = "M3n747" }
