@@ -4,21 +4,8 @@ template = "article.html"
 aliases = ["/a/tv"]
 weight = 0
 authors = ["Krzysztof Zych"]
-[extra.gallery.1]
-path = "teletydzien-19990118-tnt.webp"
-caption = "TV listing for TNT on Friday Jan 22, 1999, poorly cropped. The wrestler shown is Big Van Vader."
-source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archive.org/details/tele-tydzien-nr-4-18.01.1999-skan_20220929), page 17/63"
-skip_art = true
-[extra.gallery.2]
-path = "teletydzien-19990118-dsf.webp"
-caption = "TV listing for DSF on Saturday, Jan 23, 1999."
-source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archive.org/details/tele-tydzien-nr-4-18.01.1999-skan_20220929), page 23/63"
-skip_art = true
-[extra.gallery.3]
-path = "supertv-19940114-dsf.webp"
-caption = "TV listing for DSF on Friday, Jan 14 1994."
-source = "archive.org [super-tv-3-94](https://archive.org/details/super-tv-3-94)"
-skip_art = true
+[extra.gallery]
+manifest = "@/a/wrestling-on-tv-gallery.toml"
 +++
 
 Polish wrestling has only very recently gained any media attention and coverage. It has never been very popular
@@ -45,7 +32,7 @@ Also around 1998, general purpose channel Polsat&nbsp;2 aired WCW, though not th
 ## 2003-2019
 
 After the boom and flop of wrestling on general-purpose channels, they moved to sports-oriented channels instead.
-The first one was Extreme Sports Channel, which started airing WWE Raw episodes on tape delay. They were soon joined by Eurosport, which aired TNA Wrestling on Fridays.
+The first one was Extreme Sports Channel, which started airing [WWE](@/o/wwe.md) Raw episodes on tape delay. They were soon joined by Eurosport, which aired TNA Wrestling on Fridays.
 Starting in 2009, Eurosport replaced TNA with WWE recaps and their Vintage Collection show, on Mondays.
 
 In the long run, Extreme Sports became the only place for wrestling on TV, later gaining rights to show WWE Raw and Smackdown on tape delay, with Supron and [Borkowski](@/w/pawel-borkowski.md) on commentary.
@@ -68,7 +55,7 @@ The newly created [Prime Time Wrestling](@/o/ptw.md) streamed their first ever s
 
 ## 2022
 
-In March 2022, Warner TV (previously known in Poland as TNT) started airing AEW Dynamite and Rampage, marking the official Polish TV debut for the promotion. The shows featured commentary from [Arek Paterek](@/w/arek-paterek.md) and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md), a duo of commentators associated with [Prime Time Wrestling](@/o/ptw.md). The shows aired from March 2022 to August 2022, when the TV deal expired and was not renewed.
+In March 2022, Warner TV (previously known in Poland as TNT) started airing AEW Dynamite and Rampage, marking the official Polish TV debut for the promotion. The shows featured commentary from [Arek Paterek](@/w/arek-paterek.md) and [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md), a duo of commentators associated with [Prime Time Wrestling](@/o/ptw.md). The shows aired from March 2022 to August 2022, when the TV deal expired and was not renewed until mid-2025.
 
 ## 2023
 
@@ -101,9 +88,11 @@ In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadc
 
 On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Kombat TV, would make a return in a new format, airing twice a month on Extreme Sports Channel.
 
+Following the cancellation of airing of WWE shows, Extreme returned to broadcasting AEW shows and also began airing NJPW events. The latter were shown with machine-translated subtitles using speech-to-text technology, resulting in very low-quality translation.
+
 ## References
 
-* [Article by SixKiller of Attitude Forum](https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time
+* [Article by SixKiller of Attitude Forum](https://web.archive.org/web/20210804014112/https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time (on Archive.org)
 * [Undisputed Polska](https://www.youtube.com/@Undisputed-Polska/playlists) YouTube channel with video archives of various Polish wrestling broadcasts.
 * [Old Polish TV Wikia][staratelewizja-2007] page for Friday, Jul 6 2007, lists TNA wrestling on Eurosport
 * [Article on WirtualneMedia from 2009][wmedia-eurosport] advertising wrestling on Eurosport
