@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "ptw-zwalnia-speeda.png", caption = "PTW's post announcing Max Speed was fired from the promotion.", source = "Official PTW Facebook" }
+1 = { path = "ptw-zwalnia-speeda.png", caption = "PTW's post announcing Max Speed was fired from the promotion.", source = "Official PTW Facebook", skip_art = true }
 2 = { path = "max-farewell.webp", caption = "Max's farewell Instagram post, where he thanks several current and former PTW personalities. Later edited to mention Legacy of Wrestling.", source = "Instagram @max.speed.wrestler", skip_art = true}
 +++
 
