@@ -1,12 +1,12 @@
 0001 = { path = "2025-03-15-ppw-teraz-albo-nigdy-plakat.jpg", caption = "Official poster. Skulls contain Easter eggs referencing various PpW competitors, but not all of them can be clearly identified.", source = "Official PpW Facebook" }
 0002 = { path = "czachy-opisane.webp", caption = "The skulls captioned.", source = "Official PpW Facebook/M3n747" }
-0003 = { path = "ppw-teraz-albo-nigdy-tickets.webp", caption = "Screenshot of the ticketing website, showing three tiers of available tickets.", source = "Stage24.pl" }
+0003 = { path = "ppw-teraz-albo-nigdy-tickets.webp", caption = "Screenshot of the ticketing website, showing three tiers of available tickets.", source = "Stage24.pl", skip_art = true }
 0004 = { path = "dog-collar-match.jpg", caption = "[Goblin](@/w/goblin.md) vs [Olgierd](@/w/olgierd.md) Dog Collar Match.", source = "Official PpW Facebook" }
-0005 = { path = "20-chopa.jpg", caption = "Graphic with the details of the 20-Man Battle Royal.", source = "Official PpW Facebook" }
+0005 = { path = "20-chopa.jpg", caption = "Graphic with the details of the 20-Man Battle Royal.", source = "Official PpW Facebook", skip_art = true }
 0006 = { path = "gryffeen.jpg", caption = "Announcement of [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Gabriel Queen](@/w/gabriel-queen.md) - 2 Out Of 3 Falls Match.", source = "Official PpW Facebook" }
 0007 = { path = "biesiadammers.jpg", caption = "Announcement of [Biesiad Strong](@/w/biesiad.md) vs [Marco Hammers](@/w/marco-hammers.md).", source = "Official PpW Facebook" }
 0008 = { path = "mrzlade.jpg", caption = "Announcement of [Mister Z](@/w/mister-z.md) vs [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
-0009 = { path = "sold-out.jpg", caption = "800 tickets sold. No tickets at the gate!", source = "mistertherealdeal @ Instagram" }
+0009 = { path = "sold-out.jpg", caption = "800 tickets sold. No tickets at the gate!", source = "mistertherealdeal @ Instagram", skip_art = true }
 0100 = { path = "elegancki-michael-ht.webp", caption = "[Michael HT](@/w/michael-ht.md) opens the show.", source = "M. Gołębiewski" }
 1001 = { path = "queen-vs-gryffin-01.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) grabs a rope, while [Gabriel Queen](@/w/gabriel-queen.md) stands with his back exposed to the chair-weilding [Vic Golden](@/w/vic-golden.md).", source = "M3n747" }
 1002 = { path = "queen-vs-gryffin-02.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) wins, [Vic Golden](@/w/vic-golden.md) stands, [Gabriel Queen](@/w/gabriel-queen.md) lies.", source = "M3n747" }

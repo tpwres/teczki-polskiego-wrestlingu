@@ -9,7 +9,7 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "pan-pawlowski.jpg", caption = "Promo shot of Arek Pawłowski.", source = "Pawłowski's Facebook" }
 2 = { path = "pan-pawlowski-gold-rush.jpg", caption = "Pawłowski's entrance at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).", source = "Official PTW Facebook" }
-3 = { path = "roe.png", caption = "Rings of Europe announces Pawłowski as their ring announcer for Summer Crush.", source = "Official RoE Facebook" }
+3 = { path = "roe.png", caption = "Rings of Europe announces Pawłowski as their ring announcer for Summer Crush.", source = "Official RoE Facebook", skip_art = true }
 +++
 
 Arkadiusz "Pan" Pawłowski is a Polish wrestling announcer and promoter. Since 2021 he also became co-founder and owner of [Prime Time Wrestling](@/o/ptw.md). Prior to that he worked for [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md). Outside of his wrestling career, Pawłowski was also involved with several Polish freak-fight MMA organizations as their announcer, and performed stand-up comedy.

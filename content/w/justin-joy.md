@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-manifest = "@/w/justin-gallery.toml"
+manifest = "@/w/justin-joy-gallery.toml"
 +++
 
 Justin Joy is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md).
@@ -38,11 +38,11 @@ Later on, Justin also fought against [Damien Rothschild](@/w/damien-rothschild.m
 
 During his time in MZW Joy was also one of the main coaches in MZW's school, [Polska Akademia Wrestlingu](@/o/paw.md). A huge portion of the wrestlers trained under him in 2018-2019 formed an informal group called ["Zieloni"](@/tt/zieloni.md), with Justin Joy being credited as one of them.
 
-## First retirement and Ninja Warrior Poland (2020-2022)
+#### First retirement and Ninja Warrior Poland (2020-2022)
 
 Using his real name Oskar Haracz, Justin Joy entered Ninja Warrior Poland, a sports reality show where contestants face a difficult obstacle course. Starting in season 3, he entered the elimination round but failed to complete the course. Later in season 6, he was one of the finalists and completed the first final stage. In 2023 he also entered the 8th edition, but failed to qualify.
 
-## Prime Time Wrestling (2022-2023)
+### Prime Time Wrestling (2022-2023)
 
 Justin was one of the MZW wrestlers who chose to join the new [Prime Time Wrestling](@/o/ptw.md), debuting at [PTW Underground 3](@/e/ptw/2022-03-27-ptw-underground-3.md). He had a heated feud with his protégé [Axel Fox](@/w/axel-fox.md), which culminated with the two clashing in a No Disqualification Match at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). After the match - which was won by Justin - two real-life friends mended fences and joined forces to take part in the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) tournament, with Justin reverting back to his babyface persona. His rivalry with Axel Fox allowed him to win multiple [PTW Awards](@/a/ptw-awards-2022.md) at the end of 2022.
 
