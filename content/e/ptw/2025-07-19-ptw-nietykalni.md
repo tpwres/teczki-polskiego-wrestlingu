@@ -20,6 +20,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * The next day PTW announced [Sigma Boy xD](@/w/sigma-boy.md) vs Andi ZickZack from Austria, making his debut in Poland.
 * On 15.07.2025 PTW announced Daniel Razor vs ["Starboy" Nano Lopez](@/w/nano-lopez.md) for the vacated [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * On 16.06.2025 PTW announced the debut of Austrian Flex Skywalker in a match with [Spartan](@/w/spartan.md).
+* The day after, PTW announced another Polish debut: Lucy Couture from England, set to challenge [Diana Strong](@/w/diana-strong.md) for her GLAM! Championship.
 
 ## Predicted card
 
@@ -38,6 +39,10 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 - - '[Spartan](@/w/spartan.md)'
   - 'Flex Skywalker'
   - nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Lucy Couture'
+  - c: 'GLAM! Championship Match'
+    nc: upcoming
 {% end %}
 
 ## References
