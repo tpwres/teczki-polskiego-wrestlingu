@@ -22,3 +22,8 @@ source = "Official PTW Facebook"
 path = "flex-skywalker-ale-nie-flexos-ani-luke-vs-spartan.webp"
 caption = 'Image announcing Flex Skywalker vs [Spartan](@/w/spartan.md).'
 source = "Official PTW Facebook"
+
+[0006]
+path = "diana-vs-lucy.webp"
+caption = 'Image announcing [Diana Strong](@/w/diana-strong.md) vs Lucy Couture.'
+source = "Official PTW Facebook"
