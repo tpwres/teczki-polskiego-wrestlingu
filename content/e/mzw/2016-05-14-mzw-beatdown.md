@@ -19,6 +19,7 @@ source = "Showoff @ Twitter"
 path = "2016-05-14-mzw-beatdown-dvd-back.jpg"
 caption = "Back cover of the offical DVD, listing the commentator."
 source = "Showoff @ Twitter"
+skip_art = true 
 +++
 
 ## Card
