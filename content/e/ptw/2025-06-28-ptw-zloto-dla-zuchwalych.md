@@ -46,6 +46,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
     r: DQ
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - g: 'The Brave Show'
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
   - 'Hannah Taylor'
@@ -56,6 +57,9 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
   - '[Damian Lambert](@/w/damien-rothschild.md)'
   - '???'
   - s: 'Gold Rush Rumble Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) #1 contender'
+- credits:
+    Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referee: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
 {% end %}
 
 ## References
