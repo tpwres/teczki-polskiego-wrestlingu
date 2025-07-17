@@ -36,12 +36,11 @@
 40009 = { path = "killer-queen.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) celebrates his victory.", source = "M3n747" }
 40010 = { path = "farewell-turtle.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) and [Filip Fux](@/w/filip-fux.md) show each other respect with a goodbye fist bump.", source = "M3n747" }
 
-
-50001 = { path = "", caption = ".", source = "M3n747" }
-50002 = { path = "", caption = ".", source = "M3n747" }
-50003 = { path = "", caption = ".", source = "M3n747" }
-50004 = { path = "", caption = ".", source = "M3n747" }
-50005 = { path = "", caption = ".", source = "M3n747" }
+50001 = { path = "aaaaa-mam-zeby-aaaa.webp", caption = "[Dieter Schwartz](@/w/dieter-schwartz.md).", source = "M3n747" }
+50002 = { path = "samiec-lisa-polskiego.webp", caption = "[Axel Fox](@/w/axel-fox.md).", source = "M3n747" }
+50003 = { path = "pacz-pan-jak-go-chycil.webp", caption = "[Axel](@/w/axel-fox.md) pulling [Dieter's](@/w/dieter-schwartz.md) leg, much to [Seweryn's](@/w/sedzia-seweryn.md) amusement.", source = "M3n747" }
+50004 = { path = "nowy-gatunek-lisa-latajacego.webp", caption = "[Axel Fox](@/w/axel-fox.md) flies from the top rope, onto Dieter Schwartz. Sędzia Seweryn observes the action.", source = "M3n747" }
+50005 = { path = "lis-znaczy-teren.webp", caption = "[Axel Fox](@/w/axel-fox.md) asserts his dominance.", source = "M3n747" }
 
 
 
