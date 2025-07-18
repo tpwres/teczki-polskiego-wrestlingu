@@ -15,6 +15,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 
 * At [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md) [Zefir](@/w/zefir.md) defeated [Veit Müller](@/w/veit-mueller.md), earning a title shot for the [KPW Championship](@/c/kpw-championship.md) at Godzina Zero 2025.
 * Likewise, at the same show, [Leon Lato](@/w/leon-lato.md) earned his title shot for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) by defeating [Tomczak](@/w/tomczak.md).
+* On 18.07.2025 KPW released a [video][młodzi-wilcy] in which a group of 13 rookies addressed [chairman Malinowski](@/w/krystian-malinowski.md), stating they're fed up with being bullied by [Tomczak](@/w/tomczak.md) and demanding a match against him. The group included [Adam Wong](@/w/adam-wong.md), the rookie manhandled by Tomczak at [Arena 29](@/e/kpw/e/kpw/2025-06-20-kpw-arena-29.md), and three women, hinting at the first match to include female talent in [five years](@/e/kpw/2020-02-01-kpw-arena-16.md).
 
 ## Predicted card
 
@@ -27,6 +28,11 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
   - '[Hans Schulte](@/w/hans-schulte.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
     nc: upcoming
+- - '[Tomczak](@/w/tomczak.md)'
+  - '_rookie_ [Adam Wong](@/w/adam-wong.md)'
+  - '???'
+  - s: 14-Man Intergender Match
+    nc: upcoming
 {% end %}
 
 ### Recap
@@ -36,3 +42,6 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429370)
+* [Video: rookies address Krystian Malinowski][młodzi-wilcy]
+
+[młodzi-wilcy]: https://www.youtube.com/watch?v=tQcR5wAvGOY
