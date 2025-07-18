@@ -1,10 +1,23 @@
 {% macro cover(article) %}
   <div class="cover-image">
-    {% if article.extra.gallery %}
+    {% if article.extra.gallery is defined %}
       {% if article.extra.gallery.manifest %}
-        {% set gallery_items = load_data(path=article.extra.gallery.manifest) %}
-      {% else %}
-        {% set gallery_items = article.extra.gallery %}
+        {% set manifest_location = article.extra.gallery.manifest %}
+        {% set gallery_items = load_data(path=manifest_location) %}
+      {% else %}{# Manifest unset, try autodiscovering it. #}
+        {% set manifest_location = '@/' ~ article.relative_path | replace(from='.md', to='.toml') %}
+        {% set manifest_items = load_data(path=manifest_location, required=false) %}
+        {% if manifest_items %}
+            {% set gallery_items = manifest_items %}
+        {% endif %}
+        {% set manifest_location = '@/' ~ article.relative_path | replace(from='.md', to='-gallery.toml') %}
+        {% set manifest_items = load_data(path=manifest_location, required=false) %}
+        {% if manifest_items %}
+            {% set gallery_items = manifest_items %}
+        {% endif %}
+        {% if not gallery_items %}
+            {% set gallery_items = article.extra.gallery %}
+        {% endif %}
       {% endif %}
       {% set root = config.extra.gallery_root ~ article.path ~ "tn/" %}
       {% for key, item in gallery_items %}
