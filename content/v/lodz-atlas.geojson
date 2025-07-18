@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.425105, 51.757162]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Atlas Arena",
+        "description": "Atlas Arena in Łodź, where [2013 WWE RAW House Show](@/e/wwe/2013-04-27-wwe-raw-house-show.md) was held.",
+        "orgs": ["wwe"]
+    }
+}
