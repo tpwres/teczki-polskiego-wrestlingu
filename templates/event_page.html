@@ -19,7 +19,7 @@
 
 {{ page.content | safe }}
 
-{% if page.extra.gallery -%}
+{% if page.extra.gallery is defined -%}
   {% include "shared/auto_lightbox_dialog.html" -%}
 {% endif -%}
 

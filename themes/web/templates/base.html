@@ -31,7 +31,7 @@
       {% elif page.summary -%}
         <meta property="og:description" content="{{ page.summary | striptags }}" />
       {% endif -%}
-      {% if page.extra.gallery -%}
+      {% if page.extra.gallery is defined -%}
         {% include "shared/og_gallery_extractor.html" -%}
       {% else %}
         <meta property="og:image" content="{{ get_url(path='og-default.png') }}" />
