@@ -13,7 +13,7 @@
 <h2>Events</h2>
 {% include "venue/events_from_taxonomy.html" %}
 
-{% if page.extra.gallery -%}
+{% if page.extra.gallery is defined -%}
   {% include "shared/auto_lightbox_dialog.html" -%}
 {% endif -%}
 

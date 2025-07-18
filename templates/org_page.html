@@ -3,7 +3,7 @@
 
 {% block content %}
 {# NOTE: must be in block content #}
-{% if page.extra.gallery -%}{% set has_gallery = true %}{% endif %}
+{% if page.extra.gallery is defined -%}{% set has_gallery = true %}{% endif %}
 {% if not page.extra.hide_events -%}{% set has_events = true %}{% endif %}
 {% if not page.extra.hide_roster -%}{% set has_roster = true %}{% endif %}
 
