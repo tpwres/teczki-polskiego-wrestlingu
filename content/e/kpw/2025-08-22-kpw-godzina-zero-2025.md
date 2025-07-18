@@ -31,7 +31,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 - - '[Tomczak](@/w/tomczak.md)'
   - '[_rookie_ Adam Wong](@/w/adam-wong.md)'
   - '???'
-  - s: 14-Man Intergender Match
+  - s: 14-Man Intergender Handicap Match
     nc: upcoming
 {% end %}
 
