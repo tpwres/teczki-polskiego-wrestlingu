@@ -1,11 +1,27 @@
 {% set root = config.extra.gallery_root ~ page.path %}
 {% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
 {% set empty_obj = []|group_by(attribute='0') %}
+{# NOTE: This logic is repeated in articles.html macro, and in og_gallery_extractor.html #}
 {% if page.extra.gallery.manifest %}
-  {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}
-{% else %}
-  {% set gallery_items = page.extra | get(key='gallery', default=empty_obj) %}
+  {% set manifest_location = page.extra.gallery.manifest %}
+  {% set gallery_items = load_data(path=manifest_location) %}
+{% else %}{# Manifest unset. Try autodiscovering it. #}
+    {% set manifest_location = '@/' ~ page.relative_path | replace(from='.md', to='.toml') %}
+    {% set manifest_items = load_data(path=manifest_location, required=false) %}
+    {% if manifest_items %}
+        {% set gallery_items = manifest_items %}
+    {% endif %}
+    {% set manifest_location = '@/' ~ page.relative_path | replace(from='.md', to='-gallery.toml') %}
+    {% set manifest_items = load_data(path=manifest_location, required=false) %}
+    {% if manifest_items %}
+        {% set gallery_items = manifest_items %}
+    {% endif %}
 {% endif %}
+
+{% if not gallery_items %}
+    {% set gallery_items = page.extra | get(key='gallery', default=empty_obj) %}
+{% endif %}
+
 {% if use_extra_gallery %}
   {% set all_photos = load_data(path='data/all_photos.json') %}
   {% set photo_taggings = load_data(path='data/photo_taggings.json') %}

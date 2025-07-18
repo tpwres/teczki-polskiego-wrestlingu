@@ -1,6 +1,18 @@
 {% if page.extra.gallery.manifest %}
   {% set gallery_items = load_data(path=page.extra.gallery.manifest) %}
-{% else %}
+{% else %}{# Manifest unset. Try autodiscovering it. #}
+    {% set manifest_location = '@/' ~ page.relative_path | replace(from='.md', to='.toml') %}
+    {% set manifest_items = load_data(path=manifest_location, required=false) %}
+    {% if manifest_items %}
+        {% set gallery_items = manifest_items %}
+    {% endif %}
+    {% set manifest_location = '@/' ~ page.relative_path | replace(from='.md', to='-gallery.toml') %}
+    {% set manifest_items = load_data(path=manifest_location, required=false) %}
+    {% if manifest_items %}
+        {% set gallery_items = manifest_items %}
+    {% endif %}
+{% endif %}
+{% if not gallery_items %}
   {% set gallery_items = page.extra.gallery %}
 {% endif %}
 {% set root = config.extra.gallery_root ~ page.path %}
