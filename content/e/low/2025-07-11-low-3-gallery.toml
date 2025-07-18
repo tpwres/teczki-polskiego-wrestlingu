@@ -44,16 +44,18 @@
 60004 = { path = "nowy-gatunek-lisa-latajacego.webp", caption = "[Axel Fox](@/w/axel-fox.md) flies from the top rope, onto Dieter Schwartz. Sędzia Seweryn observes the action.", source = "M3n747" }
 60005 = { path = "lis-znaczy-teren.webp", caption = "[Axel Fox](@/w/axel-fox.md) asserts his dominance.", source = "M3n747" }
 
+70001 = { path = "sewiero-paczyngo-jak-olgierito-drinkiewito.webp", caption = "Olgierd downs an energy drink, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) waits in the ring.", source = "M3n747" }
+70002 = { path = "zaloz-szalik-skinie.webp", caption = "[Olgierd](@/w/olgierd.md) with his [Legia Łysych](@/tt/legia-lysych.md) scarf.", source = "M3n747" }
+70003 = { path = "bartoszyc-man.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md).", source = "M3n747" }
+70004 = { path = "przylazly-takie-i-sewiego-zaslaniajo-pani-somsiadko.webp", caption = "[Chemik](@/w/chemik.md), Referee Seweryn blocked by [Gustav Gryffin's](@/w/gustav-gryffin.md) knee, and [Olgierd](@/w/olgierd.md).", source = "M3n747" }
+
+70005 = { path = "beznikogopierwiastek5.webp", caption = "[Sambor](@/w/sambor.md).", source = "M3n747" }
+70006 = { path = "wiedzmin-czeka-na-questa.webp", caption = "[Sambor](@/w/sambor.md) in the ring, Referee Seweryn, Chemik and Gustav Gryffin outside the ring.", source = "M3n747" }
+70007 = { path = "wtf-just-happened-here.webp", caption = "Tonight.", source = "M3n747" }
+70008 = { path = "wiedzminski-znak.webp", caption = "A fan holding up a sign saying:<br/>_The Witcher<br/>-&nbsp;vol.&nbsp;4&nbsp;-</br/>Sambor_(<br/>)(mirror-flipped).", source = "M3n747" }
 
 
-70001 = { path = "", caption = ".", source = "M3n747" }
-70002 = { path = "", caption = ".", source = "M3n747" }
-70003 = { path = "", caption = ".", source = "M3n747" }
-70004 = { path = "", caption = ".", source = "M3n747" }
-70005 = { path = "", caption = ".", source = "M3n747" }
-70006 = { path = "", caption = ".", source = "M3n747" }
-70007 = { path = "", caption = ".", source = "M3n747" }
-70008 = { path = "", caption = ".", source = "M3n747" }
+
 70009 = { path = "", caption = ".", source = "M3n747" }
 70010 = { path = "", caption = ".", source = "M3n747" }
 70011 = { path = "", caption = ".", source = "M3n747" }
