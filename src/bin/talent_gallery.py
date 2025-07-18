@@ -11,26 +11,36 @@ class GalleryItem(TypedDict):
     caption: str
     source: Optional[str]
 
-def load_manifest(manifest_path, verbose = True) -> dict[str, GalleryItem]:
+def load_manifest(manifest_path, zola_path = True, verbose = True) -> dict[str, GalleryItem]:
     """Given a manifest path, resolve it and load content as TOML."""
     content_path = Path.cwd() / 'content'
-    resolved_path = Path(manifest_path.replace('@', str(content_path)))
+    resolved_path = Path(manifest_path.replace('@', str(content_path))) if zola_path else manifest_path
     if verbose:
         print(f"Loading manifest from {resolved_path}")
 
     # Should support other formats, but TOML is the de-facto standard
     return tomllib.load(resolved_path.open('rb'))
 
-def load_gallery(fm: dict[str, Any], verbose = True) -> Optional[dict[str, GalleryItem]]:
+def load_gallery(fm: dict[str, Any], path: Path, verbose = True) -> Optional[dict[str, GalleryItem]]:
     """Load gallery from the provided front matter. Accepts galleries with manifests."""
     extra = cast(dict[str, Any], fm.get('extra', None))
     if not extra: return None
 
     gallery = cast(dict[str, GalleryItem], extra.get('gallery'))
-    if not gallery: return None
+    if gallery is None:
+        # Pass through empty dict
+        return None
 
     if (manifest := gallery.get('manifest')):
         return load_manifest(manifest, verbose=verbose)
+    else:
+        default_manifest_locations = (
+            path.with_suffix('.toml'),
+            path.with_name(path.stem + '-gallery').with_suffix('.toml')
+        )
+        manifest = next((loc for loc in default_manifest_locations if loc.exists()), None)
+        if manifest:
+            return load_manifest(manifest, zola_path=False, verbose=verbose)
 
     return gallery
 
@@ -96,7 +106,7 @@ def build_event_photos():
 
     for page in all_event_pages():
         fm = page.front_matter
-        gallery = load_gallery(fm, verbose=False)
+        gallery = load_gallery(fm, page.path, verbose=False)
         if not gallery: continue
 
         for _, entry in gallery.items():
@@ -143,7 +153,7 @@ def build_other_photos():
     all_pages = chain(talent_pages, org_pages, venue_pages, champ_pages, article_pages)
 
     for page in all_pages:
-        gallery = load_gallery(page.front_matter, verbose=False)
+        gallery = load_gallery(page.front_matter, path=page.path, verbose=False)
         if not gallery: continue
 
         for _, entry in gallery.items():
