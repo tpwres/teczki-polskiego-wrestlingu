@@ -24,7 +24,7 @@ CAL=static/calendar.ics \
 		static/calendar-low.ics
 MINISEARCH_INDEX=static/minisearch_index.json
 
-all: rosters meta aliases atr calendar index plot
+all: rosters meta aliases atr calendar index plot recent
 rosters: $(ROSTERS)
 aliases: data/aliases.json
 atr: data/all_time_roster.json
@@ -74,6 +74,10 @@ static/calendar-%.ics: content/e/%/*.md
 	bin/build-calendar \
 		-t $(shell grep -Po 'title = \K(.*)' content/e/${ORG}/_index.md) \
 		content/e/${ORG} > $@
+
+recent:
+	git restore content/recent-changes.md
+	python src/commit_summarizer.py >> content/recent-changes.md
 
 $(MINISEARCH_INDEX): content/**/*.md data/aliases.json
 	bin/build-index > $@
