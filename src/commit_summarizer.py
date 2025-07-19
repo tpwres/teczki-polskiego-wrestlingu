@@ -108,50 +108,43 @@ def get_gallery_title(filename):
 
     return f"Gallery ({filename})"
 
-def get_geojson_title(filename):
+def get_geojson_title(filename: str) -> str:
     """Extract properties.name from GeoJSON files"""
     with git_file_content(filename) as content:
         if not content:
             return filename
 
-        # Parse JSON
         try:
             geojson_data = json.loads(content)
-
-            # Look for properties.name in various GeoJSON structures
-            name = None
-
-            # Single feature
-            if geojson_data.get('type') == 'Feature':
-                properties = geojson_data.get('properties', {})
-                name = properties.get('name')
-
-            # Feature collection - use first feature's name
-            elif geojson_data.get('type') == 'FeatureCollection':
-                features = geojson_data.get('features', [])
-                if features and len(features) > 0:
-                    properties = features[0].get('properties', {})
-                    name = properties.get('name')
-                    if len(features) > 1:
-                        name = f"{name} (+{len(features)-1} more features)" if name else f"{len(features)} features"
-
-            if name:
-                return f"{name} ({filename})"
-
         except json.JSONDecodeError:
-            pass
-    
+            return filename
+
+        match geojson_data:
+            case { 'type': 'Feature', 'properties': dict(properties) }:
+                name = properties.get('name')
+            case { 'type': 'FeatureCollection', 'features': list(features) } if len(features) > 0:
+                name = features[0].get('properties', {}).get('name', None)
+                if len(features) > 1:
+                    name = f"{name} (+{len(features)-1} more features)" if name else f"{len(features)} features"
+            case _:
+                breakpoint()
+
+        if name:
+            return f"{name} ({filename})"
+
     return filename
 
 def get_md_title(filename):
     """Extract title from TOML frontmatter in .md files"""
     with git_file_content(filename) as content:
         frontmatter_data = extract_toml_frontmatter(content)
-        if frontmatter_data:
-            title = frontmatter_data.get('title')
-            if title:
-                return f"{title} ({filename})"
-    
+        if not frontmatter_data:
+            return filename
+
+        title = frontmatter_data.get('title')
+        if title:
+            return f"{title} ({filename})"
+
     return filename
 
 # Filename to title mapping for files without title extraction logic
@@ -222,11 +215,9 @@ def get_commits_last_7_days():
 
     commits = []
     for line in output.split('\n'):
-        if line.strip():
-            parts = line.split('|', 3)
-            if len(parts) == 4:
-                hash_val, date, author, message = parts
-
+        parts = line.strip().split('|', 3)
+        match parts:
+            case [hash_val, date, author, message]:
                 # Skip merge pull request commits
                 if is_merge_pr_commit(message):
                     continue
