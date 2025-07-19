@@ -19,8 +19,9 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * On 10.07.2025 PTW announced a Hardcore Match between [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) and [Alex Brave](@/w/alex-brave.md).
 * The next day PTW announced [Sigma Boy xD](@/w/sigma-boy.md) vs Andi ZickZack from Austria, making his debut in Poland.
 * On 15.07.2025 PTW announced Daniel Razor vs ["Starboy" Nano Lopez](@/w/nano-lopez.md) for the vacated [PTW Underground Championship](@/c/ptw-underground-championship.md).
-* On 16.06.2025 PTW announced the debut of Austrian Flex Skywalker in a match with [Spartan](@/w/spartan.md).
+* On 16.07.2025 PTW announced the debut of Austrian Flex Skywalker in a match with [Spartan](@/w/spartan.md).
 * The day after, PTW announced another Polish debut: Lucy Couture from England, set to challenge [Diana Strong](@/w/diana-strong.md) for her GLAM! Championship.
+* On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs Polski Niedźwiedź.
 
 ## Predicted card
 
@@ -43,6 +44,9 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - 'Lucy Couture'
   - c: 'GLAM! Championship Match'
     nc: upcoming
+- - '[Serg Sullivan](@/w/serg-sullivan.md)'
+  - 'Polski Niedźwiedź'
+  - nc: upcoming
 {% end %}
 
 ## References
