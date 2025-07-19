@@ -52,7 +52,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
     Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
 {% end %}
 
-## Recap
+### Recap
 
 * The show started with a new "PTW Anthem" by a little-known rapper Buntownik (_The Rebel_).
 * In the opening promo by Nietykalni, Pawłowski rambled on about their achievements, berating Okoński and the referees. He announced an additional PTW show for the next Sunday (27.07), including an appearance by, and a meet'n'greet with, the AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The show's name was not revealed.
