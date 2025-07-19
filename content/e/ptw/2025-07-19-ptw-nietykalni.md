@@ -45,7 +45,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - 'Polski Niedźwiedź'
-- - credits:
+- credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
