@@ -14,7 +14,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 
 "Nietykalni" (_The Untouchables_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
 
-## Build up
+## Build-up
 
 * On 10.07.2025 PTW announced a Hardcore Match between [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) and [Alex Brave](@/w/alex-brave.md).
 * The next day PTW announced [Sigma Boy xD](@/w/sigma-boy.md) vs Andi ZickZack from Austria, making his debut in Poland.
