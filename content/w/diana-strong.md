@@ -55,6 +55,11 @@ After PTW's reboot, which was forced by multiple controversies and [talent exodu
     {{ music(yt='EcpAfOZlMnk')}}
     {{ music(spot='75sYImCjS4sB3Xrdrae1OZ')}}
     {{ music(apple='1366486807?i=1366487205')}}
+  - "Mother's Daughter" by Miley Cyrus
+    {{ org_badge(orgs=['ptw']) }} (2025-) <br>
+    {{ music(yt='7T2RonyJ_Ts')}}
+    {{ music(spot='4tc97Wa8SP5f9gaaOar8Kq')}}
+    {{ music(apple='1689672048?i=1689672049')}}
 
 ## Championships and accomplishments
 
