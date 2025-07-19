@@ -14,16 +14,53 @@ from pathlib import Path
 from contextlib import contextmanager
 import tomllib
 
+def find_renamed_file(original_filename):
+    """Find the current name of a file that may have been renamed"""
+    # Get rename history from git log
+    command = 'git log -m --first-parent --diff-filter=R --name-status'
+    output = run_git_command(command)
+
+    if not output:
+        return original_filename
+
+    # Parse the output to find renames
+    lines = output.split('\n')
+    current_name = original_filename
+
+    for line in lines:
+        line = line.strip()
+        # Look for rename entries (format: R<similarity>\told_name\tnew_name)
+        if line.startswith('R') and '\t' in line:
+            # Split on tabs to get old and new names
+            parts = line.split('\t')
+            if len(parts) >= 3:
+                old_name = parts[1]
+                new_name = parts[2]
+
+                # If we found a rename from our current tracked name
+                if old_name == current_name:
+                    current_name = new_name
+                    break
+
+    return current_name
+
+
 @contextmanager
 def git_file_content(filename):
-    """Context manager to safely read file content from git HEAD"""
+    """Context manager to safely read file content from git HEAD, handling renames"""
     try:
+        # First try to read the file directly
         command = f'git show HEAD:{filename}'
         content = run_git_command(command)
-        if content:
-            yield content
-        else:
-            yield None
+
+        # If that failed, try to find if the file was renamed
+        if content is None:
+            renamed_file = find_renamed_file(filename)
+            if renamed_file != filename:
+                command = f'git show HEAD:{renamed_file}'
+                content = run_git_command(command)
+
+        yield content
     except Exception:
         yield None
 
@@ -142,9 +179,9 @@ def run_git_command(command):
         )
         return result.stdout.strip()
     except subprocess.CalledProcessError as e:
-        print(f"Error running git command: {e}")
-        print(f"Command: {command}")
-        print(f"Error output: {e.stderr}")
+        #print(f"Error running git command: {e}")
+        #print(f"Command: {command}")
+        #print(f"Error output: {e.stderr}")
         return None
 
 def get_display_name(filename):
