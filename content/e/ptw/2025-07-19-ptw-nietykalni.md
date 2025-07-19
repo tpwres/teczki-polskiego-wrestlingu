@@ -55,7 +55,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 ## Recap
 
 * The show started with a new "PTW Anthem" by a little-known rapper Buntownik (_The Rebel_).
-* In the opening promo by Nietykalni, Pawłowski rambled on about Nietykalni's achievement, berating Okoński and the referees. Pawłowski announced an additional PTW show for the next Sunday (27.06), including a meet'n'greet and an appearance by the AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The show's name was not revealed.
+* In the opening promo by Nietykalni, Pawłowski rambled on about their achievements, berating Okoński and the referees. He announced an additional PTW show for the next Sunday (27.07), including an appearance by, and a meet'n'greet with, the AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The show's name was not revealed.
 * Diana defeated Lucy Couture in a fairly short match, retaining her GLAM! Women's Championship.
 * Spartan defeated Flex Skywalker in a short match.
 * Sigma Boy xD defeated Andi ZickZack in a competitive, fast-paced match.
