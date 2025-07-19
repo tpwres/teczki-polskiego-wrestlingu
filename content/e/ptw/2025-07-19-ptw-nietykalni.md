@@ -1,7 +1,7 @@
 +++
 title = "PTW: Nietykalni"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 +++
 
-"Nietykalni" (_The Untouchables_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
+"Nietykalni" (_The Untouchables_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
 
 ## Build up
 
@@ -23,11 +23,11 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * The day after, PTW announced another Polish debut: Lucy Couture from England, set to challenge [Diana Strong](@/w/diana-strong.md) for her GLAM! Championship.
 * On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs Polski Niedźwiedź.
 
-## Predicted card
+## Card
 
-{% card %}
-- - 'Nietykalni: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md),[Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - g: Nietykalni open the show with heel promo
+{% card () %}
+- - 'Nietykalni: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: Nietykalni open the show with a heel promo
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Lucy Couture'
   - c: 'GLAM! Championship Match'
@@ -36,38 +36,31 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Andi ZickZack'
 - - 'El G'
-  - 
+  - '???'
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: Hardcore Match
-    nc: upcoming
-
-  - nc: upcoming
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Daniel Razor'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
-
-
 - - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - 'Polski Niedźwiedź'
-  - nc: upcoming
 - - credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referee: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
 {% end %}
 
-## Recap:
+## Recap
 
-* The show starts with new "PTW Anthem" by fairly unknown rapper Buntownik (eng. Rebel)
-* In opening promo by Nietykalni, Pawłowski rambled on about Nietykalni's achievement, berating Okoński and referees. Pawłowski additional PTW show for next Sunday (27.06), including meet'n'greet and appearance by AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The show's name was not revealed.
-* Diana defeated Lucy Couture in fairly short match, retaining GLAM! Women's Championship.
+* The show started with a new "PTW Anthem" by a little-known rapper Buntownik (_The Rebel_).
+* In the opening promo by Nietykalni, Pawłowski rambled on about Nietykalni's achievement, berating Okoński and the referees. Pawłowski announced an additional PTW show for the next Sunday (27.06), including a meet'n'greet and an appearance by the AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The show's name was not revealed.
+* Diana defeated Lucy Couture in a fairly short match, retaining her GLAM! Women's Championship.
 * Spartan defeated Flex Skywalker in a short match.
 * Sigma Boy xD defeated Andi ZickZack in a competitive, fast-paced match.
-* Skwarczyński announces a Fatal 5-Way International Showcase Match including 4 Italian competitors
-* 
+* Skwarczyński announced a Fatal 5-Way International Showcase Match including four Italian competitors.
+
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429198)
