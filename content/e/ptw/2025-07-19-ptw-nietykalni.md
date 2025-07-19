@@ -25,31 +25,51 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 
 ## Predicted card
 
-{% card(predicted=true) %}
+{% card %}
+- - 'Nietykalni: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md),[Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: Nietykalni open the show with heel promo
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Lucy Couture'
+  - c: 'GLAM! Championship Match'
+- - '[Spartan](@/w/spartan.md)'
+  - 'Flex Skywalker'
+- - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - 'Andi ZickZack'
+- - 'El G'
+  - 
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: Hardcore Match
     nc: upcoming
-- - 'Andi ZickZack'
-  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+
   - nc: upcoming
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Daniel Razor'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
-- - '[Spartan](@/w/spartan.md)'
-  - 'Flex Skywalker'
-  - nc: upcoming
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - 'Lucy Couture'
-  - c: 'GLAM! Championship Match'
-    nc: upcoming
+
+
 - - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - 'Polski Niedźwiedź'
   - nc: upcoming
+- - credits:
+    General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referee: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
 {% end %}
 
+## Recap:
+
+* The show starts with new "PTW Anthem" by fairly unknown rapper Buntownik (eng. Rebel)
+* In opening promo by Nietykalni, Pawłowski rambled on about Nietykalni's achievement, berating Okoński and referees. Pawłowski additional PTW show for next Sunday (27.06), including meet'n'greet and appearance by AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The show's name was not revealed.
+* Diana defeated Lucy Couture in fairly short match, retaining GLAM! Women's Championship.
+* Spartan defeated Flex Skywalker in a short match.
+* Sigma Boy xD defeated Andi ZickZack in a competitive, fast-paced match.
+* Skwarczyński announces a Fatal 5-Way International Showcase Match including 4 Italian competitors
+* 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429198)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
+* [Buntownik's Spotify profile](https://open.spotify.com/artist/40VhhnpQ57hG3eoiRxxPdl?si=1LMFd2azS4-1-DJEFUnsmw)
