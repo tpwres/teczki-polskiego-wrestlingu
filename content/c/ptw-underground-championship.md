@@ -58,7 +58,7 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
 {% free_card() %}
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-   - s: Singles Match
+  - s: Singles Match
     en: '[PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md)'
     ed: 2025-07-19
 {% end %}
