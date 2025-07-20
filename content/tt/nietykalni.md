@@ -1,0 +1,54 @@
++++
+title = "Nietykalni"
+template = "team_page.html"
+authors = ["M3n747"]
+[extra]
+orgs = ["ptw"]
++++
+
+Nietykalni (eng. Untouchables) is a villainous faction, consisting of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [PTW Champion](@/c/ptw-championship.md) [Dawid "Puncher" Seńko](@/w/puncher.md) and [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Royal Rebels](@/tt/royal-rebels.md) - a team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
+
+## History
+
+### Prime Time Wrestling
+
+#### Pre-formation (2024-2025)
+
+At [PTW Underground 2025](content/e/ptw/2024-12-07-ptw-underground-25.md), Pawłowski turned heel for the first time in his PTW career, aligning himself with [Dawid "Puncher" Seńko](@/w/puncher.md) and helping him retain PTW Championship against [Spartan](@/w/spartan.md). Over the next months, Pawłowski went on a power trip, stacking the odds against babyfaces and playing favorites with the villains. Besides Puncher, he quickly associated with Brave and Caravaggio, exchanging various favors and giving them praise whenever possible. All three wrestlers got involved in Pawłowski's feud against [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md), eventually becoming an official faction.
+
+#### Nietykalni become official (May 2025-)
+
+At [PTW: Dzień Dziecka](content/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Pawłowski brought out Alex Brave and Vincent Caravaggio. He gave them a new tag team name: Royal Rebels. Then he introduced Puncher. Pawłowski praised all three and granted each of them a favour. Alex Brave was allowed to host The Brave Show once again - at the next show, with the best guest ever, Pawłowski himself. Puncher's gift was a harder opponent: Ben Rodgers. Vincent didn't get his wish, because even Pawłowski can't resurrect Caravaggio's late grandmother. However, he offered him and Brave a chance to become champions. He announced the formation of a new faction - "Nietykalni" (The Untouchables), consisting of all three competitors and Pawłowski.
+
+Later that same night, Pawłowski inserted Royal Rebels mid-match into [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) bout between [L'Orda](@/tt/l-orda.md) and a makeshift team of ["Starboy" Nano Lopez](@/w/nano-lopez.md) and debuting [Daniel Razor](@/w/daniel-razor.md). The rules were changed to _Tornado Tag Team match_ which, combined with two original teams being already spent, allowed Royal Rebels to easily capture the Championship.
+
+The feud betwen Nietykalni and Okoński continued throughout the next shows. At [Złoto dla Zuchwałych](content/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Okoński made a gentlemen's bet with Caravaggio. If Okoński throws out any member of the team from Gold Rush Rumble match, Caravaggio will get his logo tattooed. If the opposite happened, Okoński would apologize for insulting Caravaggio's late grandmother Matylda. Despite Okoński winning the bet, Caravaggio refused to comply.
+On 19.07.2025 PTW promoted a show named after the faction - [PTW: Nietykalni](content/e/ptw/2025-07-19-ptw-nietykalni.md) where Okoński and Spartan officially formed the alliance against Pawłowski's faction.
+
+## Members
+
+### Current
+
+* [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - leader, PTW owner
+* [Dawid "Puncher" Seńko](@/w/puncher.md) - stable's prizefighter
+* [Royal Rebels](@/tt/royal-rebels.md), a tag team of
+ * [Alex Brave](@/w/alex-brave.md) and
+ * [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+
+### Associates
+
+* Daniele Specchiulli - referee from Italy, often replacing Polish referees on Pawłowski's behest
+ 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time; current)
+  - [PTW Championship](@/c/ptw-championship.md) - Dawid "Puncher" Seńko (1 time; current)
+  - PTW WWA Championship - Dawid "Puncher" Seńko (1 time; current)
+  - Bestya Slam Championship - Dawid "Puncher" Seńko (1 time; current)
+  - PTW Awards 2024: Speaker of the year - Pawłowski (1 time)
+  - PTW Awards 2024: Newcomer of the Year - Vincent Caravaggio (1 time)
+
+## References 
+
+[PTW event named after the faction](https://www.facebook.com/events/967015402116667)
