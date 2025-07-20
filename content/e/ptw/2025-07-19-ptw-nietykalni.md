@@ -103,6 +103,6 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
 * [Buntownik's Spotify profile](https://open.spotify.com/artist/40VhhnpQ57hG3eoiRxxPdl?si=1LMFd2azS4-1-DJEFUnsmw)
 * [CJ Klakson's Instagram profile](https://www.instagram.com/cjklaksonpl/)
-* [Official YouTube livestream - requires paid subscription](https://www.youtube.com/watch?v=CnhiLoDF1xw&ab_channel=PTW-PrimeTimeWrestling)
+* [Official YouTube livestream - requires paid subscription](https://www.youtube.com/watch?v=CnhiLoDF1xw)
 * [Nic Wesker Instagram](https://www.instagram.com/nic_wskr/)
 * [Ricky Eagle Instagram[(https://www.instagram.com/ricky_eagle_wrestling_/)
