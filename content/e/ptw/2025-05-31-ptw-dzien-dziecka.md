@@ -41,11 +41,8 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: "Lopez announces he's ready for a match. Pawłowski comes out offering him a title shot for the PTW Tag Team Championship with a mystery partner."
-- - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
-  - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - g: 'Pawłowski announces his new faction: Nietykalni.'
+- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: 'Pawłowski announces creation of his new faction: Nietykalni.'
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - 'El G'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
