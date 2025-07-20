@@ -8,7 +8,7 @@
 00008 = { path = "widok-z-gory-trybun.webp", caption = "A view of the ring from the top of the stands, before the start of the show.", source = "M3n747" }
 10001 = { path = "zeteney-vs-oliwa.webp", caption = "Zétény launches himself at David Oliwa. To the left stands Sędzia Kornel.", source = "M3n747" }
 20001 = { path = "mareczek.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) makes his entrance.", source = "M3n747" }
-20002 = { path = "doberek-wiktor-jestem.webp", caption = "&quot;[Max](@/w/max-speed.md)… welcome home!&quot;<br/>&mdash;&nbsp;[Wiktor Długaj](@/w/wiktor-longman.md), Kraków, 11.07.2025.", source = "M3n747" }
+20002 = { path = "doberek-wiktor-jestem.webp", caption = "&quot;[Max](@/w/max-speed.md)… welcome home!&quot;<br/>&mdash;&nbsp;[Wiktor Longman](@/w/wiktor-longman.md), Kraków, 11.07.2025.", source = "M3n747" }
 20003 = { path = "hair-envy.webp", caption = "Marco Hammers decreases [Max Speed's](@/w/max-speed.md) escape velocity by applying drag. [Sędzia Kornel](@/w/sedzia-kornel.md) exemplifies uncertainy.", source = "M3n747" }
 20004 = { path = "o-tym-go-trzaslem.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) proudly displays the chair he just used to halt [Max Speed's](@/w/max-speed.md) momentum.", source = "M3n747" }
 20005 = { path = "patrzcie-tak-wyglada-reka.webp", caption = "[Sędzia Kornel](@/w/sedzia-kornel.md) declares [Max Speed](@/w/max-speed.md) the winner.", source = "M3n747" }
