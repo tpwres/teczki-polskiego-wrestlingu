@@ -38,7 +38,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - 'Andi ZickZack'
 - - 'El G'
   - '[Luca Bjorn](@/w/luca-bjorn.md)'
-  - 'Nick Wesker' # spelling to be confirmed 
+  - 'Nic Wesker'
   - 'Pedro'
   - 'Ricky Eagle'
   - s: Fatal 5-way International Showcase Match
@@ -84,7 +84,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * Diana defeated Lucy Couture in a fairly short match, retaining her GLAM! Women's Championship.
 * Spartan defeated Flex Skywalker in a short match.
 * Sigma Boy xD defeated Andi ZickZack in a competitive, fast-paced match.
-* Skwarczyński proceeded to announce a Fatal 5-Way International Showcase Match including four Italian competitors and one from Austria - not revealed before the show. It featured two debuting stars: Nick Wesker from Austria and Rick Eagle from Italy (mistakenly announced as Ricky Eagle). El G won, stealing a victory from Luca Bjorn once again.
+* Skwarczyński proceeded to announce a Fatal 5-Way International Showcase Match including four Italian competitors and one from Austria - not revealed before the show. It featured two debuting stars: Nic Wesker from Austria and Ricky Eagle from Italy (mistakenly announced as Rick Eagle). El G won, stealing a victory from Luca Bjorn once again.
 * In an impromptu match-up, Puncher retained his PTW Championship against Flamingo.
 * Okoński made his entrance for te usual charity auction of a commemorative T-shirt with signatures of PTW personnel. The winning bid was 500&nbsp;PLN. Okoński called out Caravaggio due to the result of the bet from the previous show - depending on the performance of Nietykalni or Okoński, either Caravaggio gets Okoński's logo tattooed, or Łukasz Okoński apologizes for insulting Caravaggio's late grandmother. Vincent proudly revealed that no tattoo was made. As punishment, Okoński brought out the returning Krampus as his opponent.
 * After unsuccessful comebacks, Caravaggio got squashed by Krampus.
@@ -104,3 +104,5 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * [Buntownik's Spotify profile](https://open.spotify.com/artist/40VhhnpQ57hG3eoiRxxPdl?si=1LMFd2azS4-1-DJEFUnsmw)
 * [CJ Klakson's Instagram profile](https://www.instagram.com/cjklaksonpl/)
 * [Official YouTube livestream - requires paid subscription](https://www.youtube.com/watch?v=CnhiLoDF1xw&ab_channel=PTW-PrimeTimeWrestling)
+* [Nic Wesker Instagram](https://www.instagram.com/nic_wskr/)
+* [Ricky Eagle Instagram[(https://www.instagram.com/ricky_eagle_wrestling_/)
