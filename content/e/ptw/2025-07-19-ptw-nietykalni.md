@@ -73,7 +73,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 - credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
-    Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
 {% end %}
 
