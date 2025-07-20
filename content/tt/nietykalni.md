@@ -4,6 +4,8 @@ template = "team_page.html"
 authors = ["Szymon Iwulski"]
 [extra]
 orgs = ["ptw"]
+[extra.gallery]
+1 = { path = "nietykalni.webp", caption = "Nietykalni at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Left to right: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Puncher](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md). At their feet lies Spartan.", source = "Official PTW Facebook" }
 +++
 
 Nietykalni (_The Untouchables_) is a villainous faction, active in [Prime Time Wrestling](@/o/ptw.md). It consists of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [PTW Champion](@/c/ptw-championship.md) [Dawid "Puncher" Seńko](@/w/puncher.md) and [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Royal Rebels](@/tt/royal-rebels.md), [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
