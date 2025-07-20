@@ -16,7 +16,7 @@ toclevel = 2
 
 * During the [previous show](content/e/ptw/2025-07-19-ptw-nietykalni.md), two matches were confirmed:
   * [Miyagi Shida](@/w/miyagi-shida.md) vs [Serg Sullivan](@/w/serg-sullivan.md) in a Casket Match, and
-  * [Referee Herno](@/w/sedzia-herno.md) and [Referee Klaudiusz](@/sedzia-klaudiusz.md) vs [Royal Rebels](@/tt/royal-rebels.md) (Alex Brave & Vincent Caravaggio).
+  * [Referee Herno](@/w/sedzia-herno.md) and [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) vs [Royal Rebels](@/tt/royal-rebels.md) (Alex Brave & Vincent Caravaggio).
 
 ## Predicted card
 
