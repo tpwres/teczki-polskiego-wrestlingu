@@ -56,7 +56,7 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
 ### Champion #2: Daniel Razor
 
 {% free_card() %}
-- - 'Daniel Razor'
+- - '[Daniel Razor](@/w/daniel-razor.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
    - s: Singles Match
     en: '[PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md)'
