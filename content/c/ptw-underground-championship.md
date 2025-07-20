@@ -53,12 +53,12 @@ The title was first mentioned in a December 2024 interview for the [MyWrestling 
 
 On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the promotion and the Underground belt was vacated.
 
-### Champion #2: "Starboy" Nano Lopez
+### Champion #2: Daniel Razor
 
 {% free_card() %}
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - 'Daniel Razor'
-  - s: Singles Match
+- - 'Daniel Razor'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+   - s: Singles Match
     en: '[PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md)'
     ed: 2025-07-19
 {% end %}
