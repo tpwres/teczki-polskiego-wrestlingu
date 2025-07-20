@@ -38,7 +38,7 @@ As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the 
     {{ org_badge(orgs=['ptw']) }} (2025-) <br>
     {{ music(yt='KvCYTZHbotg')}}
     {{ music(spot='7pDHM9huHHpRc9CrxZElsW')}}
-    {{ music(apple='1440809507')}}
+    {{ music(apple='1440809386?i=1440809507')}}
 
 ## Championships and accomplishments
 
