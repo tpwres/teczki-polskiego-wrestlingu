@@ -1,7 +1,7 @@
 +++
 title = "PTW: Nowe Porządki"
 template = "event_page.html"
-authors = ["M3n747", "Krzysztof Zych"]
+authors = ["M3n747", "Krzysztof Zych", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -62,6 +62,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
 {% end %}
 
 ## References
