@@ -66,7 +66,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - g: 'CJ Klakson cuts a promo, declaring himself a newest PTW roster member'
 - - 'Daniel Razor'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - c:'[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - g: 'PTW referees tease retirement. Pawłowski interrupts and puts them in a match against Royal Rebels.'
