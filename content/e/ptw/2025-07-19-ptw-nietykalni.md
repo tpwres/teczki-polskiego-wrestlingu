@@ -25,7 +25,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 
 ## Card
 
-{% card () %}
+{% card() %}
 - - 'Nietykalni: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: Nietykalni open the show with a heel promo
 - - '[Diana Strong](@/w/diana-strong.md)'
