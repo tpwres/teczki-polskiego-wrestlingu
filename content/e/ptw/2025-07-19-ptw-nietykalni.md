@@ -44,32 +44,32 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - s: Fatal 5-way International Showcase Match
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Flamingo'
-  - c: '[PTW Championship](@/c/ptw-championship.md)
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - g: Okoński's charity auction, Caravaggio to reveal his Okoński logo tattoo
+  - g: 'Okoński's charity auction, Caravaggio to reveal his Okoński logo tattoo'
 - - '[Krampus](@/w/krampus.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
   - 'Polski Niedźwiedź'
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
-  - g: Sullivan injures Bear, Shida makes a save. Pawłowski announces a Casket match between Shida and Sullivan
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: 'Sullivan injures Bear, Shida makes a save. Pawłowski announces a Casket match between Shida and Sullivan'
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - "[Alex Brave](@/w/alex-brave.md) w/Brave's valet"
   - s: Hardcore Match
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Spartan](@/w/spartan.md)'
-  - g: Formation of an alliance against Nietykalni
+  - g: 'Formation of an alliance against Nietykalni'
 - - 'CJ Klakson'
   - g: 'CJ Klakson cuts a promo, declaring himself a newest PTW roster member'
 - - 'Daniel Razor'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - c: 'vacant [PTW Underground Championship](@/c/ptw-underground-championship.md)'
+  - c:'vacant [PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
-  - g: PTW referees tease retirement. Pawłowski interrupts and puts them in a match against Royal Rebels
+  - g: 'PTW referees tease retirement. Pawłowski interrupts and puts them in a match against Royal Rebels'
 - credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
@@ -103,3 +103,4 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
 * [Buntownik's Spotify profile](https://open.spotify.com/artist/40VhhnpQ57hG3eoiRxxPdl?si=1LMFd2azS4-1-DJEFUnsmw)
 * [CJ Klakson's Instagram profile](https://www.instagram.com/cjklaksonpl/)
+* [Official YouTube livestream - requires paid subscription](https://www.youtube.com/watch?v=CnhiLoDF1xw&ab_channel=PTW-PrimeTimeWrestling)
