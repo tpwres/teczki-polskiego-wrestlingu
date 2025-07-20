@@ -12,17 +12,15 @@ toclevel = 2
 
 "Apokalipsa" (_The Apocalypse_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
 
-
 ## Build up
 
-* During the previous show [PTW: Nietykalni](content/e/ptw/2025-07-19-ptw-nietykalni.md), various matches were confirmed, including
- * Miyagi Shida vs Serg Sullivan in a Casket Match and
- * Referee Herno and Referee Klaudiusz vs Royal Rebels (Alex Brave & Vincent Caravaggio)
+* During the [previous show](content/e/ptw/2025-07-19-ptw-nietykalni.md), two matches were confirmed:
+  * [Miyagi Shida](@/w/miyagi-shida.md) vs [Serg Sullivan](@/w/serg-sullivan.md) in a Casket Match, and
+  * [Referee Herno](@/w/sedzia-herno.md) and [Referee Klaudiusz](@/sedzia-klaudiusz.md) vs [Royal Rebels](@/tt/royal-rebels.md) (Alex Brave & Vincent Caravaggio).
 
 ## Predicted card
 
 {% card(predicted=true) %}
-
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - s: 'Casket match'
@@ -31,7 +29,6 @@ toclevel = 2
   - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - s: 'Tag Team match'
     nc: upcoming
-
 {% end %}
 
 ## References
