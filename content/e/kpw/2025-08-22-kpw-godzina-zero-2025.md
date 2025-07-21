@@ -7,6 +7,7 @@ venue=["nowy-harem"]
 [extra]
 city = "Gdynia"
 toclevel = 2
+[extra.gallery]
 +++
 
 Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, held since 2016. Like most previous editions, GZ'25 will be held in August, and it will return to [Nowy Harem](@/v/atlantic-nh-gdynia.md) after the [last year's edition](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) took place at a gym hall at Stefana Okrzei 6 street.
@@ -32,6 +33,11 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
   - '[_rookie_ Adam Wong](@/w/adam-wong.md)'
   - '???'
   - s: 14-Man Intergender Handicap Match
+    nc: upcoming
+- - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
+  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md)'
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+    s: Tag Team Match
     nc: upcoming
 {% end %}
 
