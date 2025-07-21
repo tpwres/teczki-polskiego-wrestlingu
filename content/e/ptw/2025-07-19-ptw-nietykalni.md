@@ -63,7 +63,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - '[Spartan](@/w/spartan.md)'
   - g: 'Formation of an alliance against Nietykalni'
 - - 'CJ Klakson'
-  - g: 'CJ Klakson cuts a promo, declaring himself a newest PTW roster member'
+  - g: 'CJ Klakson cuts a promo, declaring himself the newest PTW roster member'
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
