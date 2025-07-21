@@ -19,7 +19,7 @@ toclevel = 2
 
 * The show was first announced at [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) in a heel promo by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). This raised doubt about the sincerity of the announcement, as the new show was supposed to take place only a week later and feature the AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The Internet fans were called out for doubting Pawłowski in the next segment where he reiterated the announcement.
 * Late night on 20.07.2025 Moné posted an Instagram story about the event, followed by PTW's official [Facebook post][mercedes-przyjedzie] confirming that Mercedes would have a match, as well as a meet-and-greet.
-* The next day, as ticket sales commenced, PTW announced that Moné would face [Diana Strong](@/w/diana-strong.md).
+* The next day, ticket sales commenced on Going
 * As per the announcement on ticket platform Going, the show is set to include:
   * Mercedes Moné in action
   * an appearance by [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) faction, [Nietykalni](@/tt/nietykalni.md)
