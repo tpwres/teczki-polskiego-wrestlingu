@@ -25,7 +25,7 @@ toclevel = 2
   * an appearance by [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) faction, [Nietykalni](@/tt/nietykalni.md)
   * championship matches
   * and more
-* After first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the show tickets do not include meet-and-greet, which will be a separate event.
+* After first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the show tickets do not include the meet-and-greet, which will be a separate event.
 * The poster for the show includes [Diana Strong](@/w/diana-strong.md) and Moné side by side, suggesting their match might be for the GLAM! Championship, currently held by Diana.
 
 ## Predicted card
