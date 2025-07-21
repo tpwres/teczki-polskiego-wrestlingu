@@ -19,7 +19,6 @@ template = "index.html"
 | 2022- | {{ org_badge(org='ppw') }} [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) |
 | 2023- | {{ org_badge(org='ptw') }} [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) |
 | 2024- | {{ org_badge(org='ptw') }} [PTW Championship](@/c/ptw-championship.md) |
-| 2024- | {{ org_badge(org='ptw') }} [PTW Intergender Championship](@/c/ptw-intergender-championship.md) |
 | 2025- | {{ org_badge(org='ptw') }} [PTW Underground Championship](@/c/ptw-underground-championship.md) |
 | 2025- | {{ org_badge(org='ptw') }} [PTW Women's Championship](@/c/ptw-womens-championship.md) |
 
@@ -30,3 +29,4 @@ template = "index.html"
 | 2010-2015 | {{ org_badge(org='ddw') }} [DDW International Championship](@/c/ddw-international-championship.md) |
 | 2016-2018 | {{ org_badge(org='dfw') }} [DFW Championship](@/c/dfw-championship.md) |
 | 2016-2018 | {{ org_badge(org='mzw') }} [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) |
+| 2024- | {{ org_badge(org='ptw') }} [PTW Intergender Championship](@/c/ptw-intergender-championship.md) |
