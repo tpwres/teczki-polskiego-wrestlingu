@@ -15,6 +15,7 @@ Marco Hammers is a Polish wrestler best known for his time in [Prime Time Wrestl
 * Years active: 2022-present
 * Gimmicks/nicknames:
   - Marco "Łysy" Hammers {{ org_badge(orgs=['ptw', 'ppw', 'low', 'mzw']) }}
+  - Marco Hardy {{ org_badge(orgs=['ppw']) }}  (2025-)
 * Trained by:
   - KPW Academy (201?-2022)
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
@@ -70,7 +71,7 @@ During the non-canon show [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-1
 
 #### Growing delusion
 
-Despite Zmowa's defeat at Co Za Noc, Marco remained in the stable, often facing PpW's babyfaces and helping out both Mister Z and Olgierd achieve their goals. Despite that he grew more and more delusional, trying to portray himself as a hardcore wrestler and a daredevil high-flyer (despite having a crippling fear of heights). At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he entered the [PpW Championship](@/c/ppw-championship.md) #1 Contender Ladder Match with an entrance and moveset inspired by Jeff Hardy. He was unsucessful in that match, but in a post-match interview he confessed to [Joker](@/w/joker.md) that he feels scared of himself due to the fact that during the match he performed a shocking Swanton Bomb onto [Sambor](@/w/sambor.md), effecitvely murdering his opponent (in his own mind).
+Despite Zmowa's defeat at Co Za Noc, Marco remained in the stable, often facing PpW's babyfaces and helping out both Mister Z and Olgierd achieve their goals. Despite that he grew more and more delusional, trying to portray himself as a hardcore wrestler and a daredevil high-flyer (despite having a crippling fear of heights). At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he entered the [PpW Championship](@/c/ppw-championship.md) #1 Contender Ladder Match with an entrance and moveset inspired by Jeff Hardy. He was unsucessful in that match, but in a post-match interview he confessed to [Joker](@/w/joker.md) that he feels scared of himself due to the fact that during the match he performed a shocking Swanton Bomb onto [Sambor](@/w/sambor.md), effecitvely murdering his opponent (in his own mind). This angle led to Marco adopting the nickname "Marco Hardy" as a tribute to his idol. Occasionally PpW honors that nickname, though in a tongue-in-cheek manner.
 
 ### Maniac Zone Wrestling (2024-present)
 
@@ -109,14 +110,21 @@ This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Ma
     {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
     {{ music(yt='b5I4ql_XI24')}}
     {{ music(spot='1pEycy236yvpnzWkfKjolm')}}
+    {{ music(apple='1129943880?i=1129944200')}}
+  - "No More Words" by Endeverafter
+    {{ org_badge(orgs=['ppw']) }} (2025, occasionally as part of "Marco Hardy" persona)<br>
+    {{ music(yt='cquQmv0OD08')}}
+    {{ music(spot='0p9YTj9YGtBSWg1z6DxKNm')}}
+    {{ music(apple='621624800?i=621624895')}}
 
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; current)
+  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times, inaugural, current)
 
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26808)
+* [Interview with "Marco Hardy"](https://www.instagram.com/reel/DMYA9Z0oWrW/)
 
 [legia-warszawa]: https://en.wikipedia.org/wiki/Legia_Warsaw
