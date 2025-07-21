@@ -10,6 +10,7 @@ city = "Kozłów"
 toclevel = 2
 [extra.gallery]
 1 = { path = "all-about-the-mone-banner.jpg", caption = "Official banner, featuring [Diana Strong](@/w/diana-strong.md) and Mercedes Moné.", source = "Official PTW Facebook" }
+2 = { path = "mercedes-pasi-do-lustra.webp", caption = "Image announcing Mercedes Moné.", source = "Official PTW Facebook" }
 +++
 
 "All About the Moné" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
@@ -24,8 +25,8 @@ toclevel = 2
   * an appearance by [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) faction, [Nietykalni](@/tt/nietykalni.md)
   * championship matches
   * and more
-* After first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the show tickets do not include meet n greet, which is a separate event
-* The poster for the show includes [Diana Strong](@/w/diana-strong.md) and Moné side by side which suggests their match at the show, presumably for the GLAM! Championship that Diana currently holds.
+* After first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the show tickets do not include meet-and-greet, which will be a separate event.
+* The poster for the show includes [Diana Strong](@/w/diana-strong.md) and Moné side by side, suggesting their match might be for the GLAM! Championship, currently held by Diana.
 
 ## Predicted card
 
@@ -34,9 +35,8 @@ toclevel = 2
   - 'Mercedes Moné'
   - nc: upcoming
  - - '[Nietykalni](@/tt/nietykalni.md)'
-  - ???
-  - nc: upcoming    
-
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Recap
