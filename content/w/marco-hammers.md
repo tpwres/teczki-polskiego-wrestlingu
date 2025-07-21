@@ -15,7 +15,7 @@ Marco Hammers is a Polish wrestler best known for his time in [Prime Time Wrestl
 * Years active: 2022-present
 * Gimmicks/nicknames:
   - Marco "Łysy" Hammers {{ org_badge(orgs=['ptw', 'ppw', 'low', 'mzw']) }}
-  - Marco Hardy {{ org_badge(org=['ppw']) }}  (2025)
+  - Marco Hardy {{ org_badge(orgs=['ppw']) }}  (2025-)
 * Trained by:
   - KPW Academy (201?-2022)
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
