@@ -1,7 +1,7 @@
 +++
 title = "PTW: All About the Moné"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -16,9 +16,14 @@ toclevel = 2
 
 ## Build-up
 
-* At the [previous show](@/e/ptw/2025-07-19-ptw-nietykalni.md) [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) announced a new show, only a week away, which would feature the AEW TBS Champion and AEW Women's World Champion, Mercedes Moné.
-* On 20.07.2025 PTW stated in a [Facebook post][mercedes-przyjedzie] that Mercedes would have a match and a meet-and-greet.
-* The next day PTW announced that Moné would face [Diana Strong](@/w/diana-strong.md) for the GLAM! Championship.
+* The show was first announced at [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) in a heel promo by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). This raised doubt about the sincerity of the announcement, as the new show was supposed to take place only a week later and feature the AEW TBS Champion and AEW Women's World Champion, Mercedes Moné. The Internet fans were called out for doubting Pawłowski in the next segment where he reiterated the announcement.
+* Late night on 20.07.2025 Moné posted an Instagram story about the event, followed by PTW's official [Facebook post][mercedes-przyjedzie] confirming that Mercedes would have a match, as well as a meet-and-greet.
+* The next day, as ticket sales commenced, PTW announced that Moné would face [Diana Strong](@/w/diana-strong.md) for the GLAM! Championship.
+* As per the announcement on ticket platform Going, the show is set to include:
+  * Mercedes Moné in action
+  * an appearance by [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) faction, [Nietykalni](@/tt/nietykalni.md)
+  * championship matches
+  * and more
 
 ## Predicted card
 
@@ -37,5 +42,6 @@ toclevel = 2
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=430504)
 * [Facebook post announcing the event](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02w5MCtCqiTGbjCEJj71AsdMdrXt39R5LeWX7kdXKSTJs5MPuWdMkutZgn7pp4Lurbl)
+* [Show description on ticketing website](https://goingapp.pl/wydarzenie/mercedes-mone-w-polsce-gala-pro-wrestlingu-all-about-the-mone/kozlow-lipiec-2025?queryID=d9957271cd738fc4cddea7babc9cacbc)
 
 [mercedes-przyjedzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid035nmpW9kgwtyj6hvmq4JPZwm7CQSYEbARkuQbnDNtuyprhHmhLXBjWgFLnQNg2or4l
