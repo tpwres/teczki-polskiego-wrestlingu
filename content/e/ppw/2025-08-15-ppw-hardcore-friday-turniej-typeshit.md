@@ -1,7 +1,7 @@
 +++
 title = "PpW Hardcore Friday Turniej TypeShit"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
@@ -18,7 +18,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
 
 * On 9.07.2025 PpW announced [Legia Łysych](@/tt/legia-lysych.md) ([Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)) vs The Hardcores ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) in a Warszawski Brawl (_Warsaw Brawl_)
 * On 11.07.2025 PpW announced [Oskar Alexander](@/w/oskar-alexander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) in a Bullrope Match, where the wrestlers are tied wrist-to-wrist with a thick rope, with a cowbell in the middle.
-* PpW's social media released [_The Acid Messiah's First Sermon_][goblin-kazanie] on 15.07.2025. [Goblin](@/w/goblin.md) addressed Mister Z, stating that he is a self-reliant [PpW Champion](@/c/ppw-championship.md) and doesn't need Z to book his matches. He will find an opponent himself, in a non-title match at the show.
+* PpW's social media released [_The Acid Messiah's First Sermon_][goblin-kazanie] on 15.07.2025. In it, [Goblin](@/w/goblin.md) addresses Mister Z, stating that he is a self-reliant [PpW Champion](@/c/ppw-championship.md) and doesn't need Z to book his matches. He will find an opponent himself, and face him in a non-title match.
 * On 19.07.2025 PpW announced [Axel Fox](@/w/axel-fox.md) vs [Vic Golden](@/w/vic-golden.md) in a Chairs Match.
 
 ## Card
