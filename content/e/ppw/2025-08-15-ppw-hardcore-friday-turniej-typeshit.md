@@ -41,6 +41,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
 - - '[Goblin](@/w/goblin.md)'
   - '???'
   - s: Non-Title Match
+    nc: upcoming
 {% end %}
 
 ### Recap
