@@ -51,7 +51,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429370)
 * [Video: rookies address Krystian Malinowski][młodzi-wilcy]
-* [Vide: Malinowski's response][malinowski-odpowiada]
+* [Video: Malinowski's response][malinowski-odpowiada]
 
 [młodzi-wilcy]: https://www.youtube.com/watch?v=tQcR5wAvGOY
 [malinowski-odpowiada]: https://www.youtube.com/watch?v=YjEbYfgRcM0
