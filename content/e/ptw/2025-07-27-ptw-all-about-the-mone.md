@@ -9,7 +9,7 @@ venue = ["szafirowy-dwor"]
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
-1 = { path = "all-about-the-mone-banner.jpg", caption = "Official banner, featuring [Diana Strong](@/w/diana-strong.md) and Mercedes Moné.", source = "Official PTW Facebook" }
+1 = { path = "all-about-the-mone-poster.jpg", caption = "Official poster, featuring [Diana Strong](@/w/diana-strong.md) and Mercedes Moné.", source = "Official PTW Facebook" }
 2 = { path = "mercedes-pasi-do-lustra.webp", caption = "Image announcing Mercedes Moné.", source = "Official PTW Facebook" }
 +++
 
@@ -27,16 +27,23 @@ toclevel = 2
   * and more
 * After first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the show tickets do not include the meet-and-greet, which will be a separate event.
 * The poster for the show includes [Diana Strong](@/w/diana-strong.md) and Moné side by side, suggesting their match might be for the GLAM! Championship, currently held by Diana.
+* On 23.07.2025 PTW [announced][wiela-pasow-bydzie] that the stakes of Diana vs Mercedes will be "more than one championship belt", although no further details were given.
 
 ## Predicted card
 
 {% card(predicted=true) %}
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - 'Mercedes Moné'
-  - nc: upcoming
 - - '[Nietykalni](@/tt/nietykalni.md): ???, ???'
   - '???'
   - nc: upcoming
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - ???'
+  - nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Mercedes Moné'
+  -  c: |
+       TBA Championship 1,
+       TBA Championship 2
+    nc: upcoming
 {% end %}
 
 ### Recap
@@ -50,3 +57,4 @@ toclevel = 2
 * [Show description on ticketing website](https://goingapp.pl/wydarzenie/mercedes-mone-w-polsce-gala-pro-wrestlingu-all-about-the-mone/kozlow-lipiec-2025?queryID=d9957271cd738fc4cddea7babc9cacbc)
 
 [mercedes-przyjedzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid035nmpW9kgwtyj6hvmq4JPZwm7CQSYEbARkuQbnDNtuyprhHmhLXBjWgFLnQNg2or4l
+[wiela-pasow-bydzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02N75gHCMJDbg3qBv4s4xUnjC121aWfjS1nUui7ejTH3PQGk2g9Zs68yuXrDtPGsV1l
