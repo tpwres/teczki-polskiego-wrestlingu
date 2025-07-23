@@ -40,7 +40,7 @@ toclevel = 2
   - nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Mercedes Moné'
-  -  c: |
+  - c: |
        TBA Championship 1,
        TBA Championship 2
     nc: upcoming
