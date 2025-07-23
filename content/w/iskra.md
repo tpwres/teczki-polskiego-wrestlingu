@@ -30,7 +30,7 @@ Karol Górski made his debut as a referee back in 2016, where he was a referee f
 
 Karol "Iskra" Górski made his debut in [Prime Time Wrestling](@/o/ptw.md) in 2021 at their first show [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). It was possible thanks to his victory in a public fan vote on PTW's social media, where the fans could pick which of the four contenders will earn their spot in a Battle Royal at said show. Iskra won a contest and made his debut in a Battle Royal, but he was eliminated fairly early in the match. 
 
-After that Iskra continued his career in PTW by making rather irregural appearances at Underground shows in a role of enhancement talent, losing all of his matches against wrestlers such as [Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md) and [Wiktor Longman](@/w/wiktor-longman.md). In Mid-2022 he alligned himself with another enhancement talent [Marcelito](@/w/marcelito.md) and formed a Tag Team called "The Bright Lights". However, losing streak has continued up until Bright Lights defeat over Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)), after which Iskra turned on Marcelito. This led to his only victory over Marcelito at [Underground 13](@/e/ptw/2023-03-26-ptw-underground-13.md). In the meantime he also formed a rivalry with his & Marcelito's friend [Diana Strong](@/w/diana-strong.md), which resulted in their match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md). Besides the victory over Marcelito, Iskra continued to serve as heel enhancement talent for babyfaces up until [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) after which he seemingly [left PTW](@/a/ptw-exits.md) and ended his career.
+After that Iskra continued his career in PTW by making rather irregural appearances at Underground shows in the role of an enhancement talent, losing all of his matches to wrestlers such as [Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md) and [Wiktor Longman](@/w/wiktor-longman.md). In mid-2022 he aligned himself with another enhancement talent, [Marcelito](@/w/marcelito.md), and formed a tag team called The Bright Lights. However, their losing streak had continued up until The Bright Lights' loss to Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)), after which Iskra turned on Marcelito. This led to his only victory at [Underground 13](@/e/ptw/2023-03-26-ptw-underground-13.md). In the meantime he also formed a rivalry with his and Marcelito's friend, [Diana Strong](@/w/diana-strong.md), which resulted in their match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md). Besides the victory over Marcelito, Iskra continued to serve as a heel enhancement talent for babyfaces up until [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md). Afterwards, he quietly [left PTW](@/a/ptw-exits.md) and seemingly ended his career, as he never made another wrestling appearance and his wrestling social media have remained inactive since.
 
 ## In wrestling
 
@@ -44,3 +44,7 @@ After that Iskra continued his career in PTW by making rather irregural appearan
        {{ music(yt='-VF4ObZEM8w')}}
        {{ music(spot='2mvi7qtDNLuh25oOcHVEOk')}}
        {{ music(apple='1485045627?i=1485045877')}}
+
+## Internet presence
+
+* [Instagram](https://www.instagram.com/iskra_wrestling/)
