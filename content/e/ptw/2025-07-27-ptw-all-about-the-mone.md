@@ -9,7 +9,7 @@ venue = ["szafirowy-dwor"]
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
-1 = { path = "all-about-the-mone-poster.jpg", caption = "Official poster, featuring [Diana Strong](@/w/diana-strong.md) and Mercedes Moné.", source = "Official PTW Facebook" }
+1 = { path = "all-about-the-mone-poster.webp", caption = "Official poster, featuring [Diana Strong](@/w/diana-strong.md) and Mercedes Moné.", source = "Official PTW Facebook" }
 2 = { path = "mercedes-pasi-do-lustra.webp", caption = "Image announcing Mercedes Moné.", source = "Official PTW Facebook" }
 +++
 
