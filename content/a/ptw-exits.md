@@ -19,10 +19,11 @@ Notably absent from the list and still on the roster:
 [Diana Strong](@/w/diana-strong.md),
 [Puncher](@/w/puncher.md),
 [Nano Lopez](@/w/nano-lopez.md),
-[Iskra](@/w/iskra.md),
+[Iskra](@/w/iskra.md) (left later, without announcement),
 [Max Speed](@/w/max-speed.md).
 
 Others still on the roster as of July 2024: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md), Arczi Czajka, [Alex Brave](@/w/alex-brave.md).
+Despite never bidding farewell to PTW, Iskra appears to have quietly left as well at some point in mid-2024.
 
 The table below is sorted chronologically by the estimated exit date.
 
