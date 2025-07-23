@@ -15,15 +15,16 @@ This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happen
 
 ## Wrestlers
 
-Notably absent from the list and still on the roster:
+Notably absent from the list are
 [Diana Strong](@/w/diana-strong.md),
 [Puncher](@/w/puncher.md),
 [Nano Lopez](@/w/nano-lopez.md),
-[Iskra](@/w/iskra.md) (left later, without announcement),
+[Iskra](@/w/iskra.md) and
 [Max Speed](@/w/max-speed.md).
 
-Others still on the roster as of July 2024: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md), Arczi Czajka, [Alex Brave](@/w/alex-brave.md).
-Despite never bidding farewell to PTW, Iskra appears to have quietly left as well at some point in mid-2024.
+Iskra, despite never bidding farewell to PTW, appears to have quietly left as well at some point in mid-2024, whereas Max Speed was fired from the promotion in July 2025. Arczi Czajka also seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
+
+Others still on the roster as of July 2025: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md).
 
 The table below is sorted chronologically by the estimated exit date.
 
