@@ -147,6 +147,7 @@ While Boro never defended the title, he was also recognized as a champion.
     en: '[PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
 - - 'Royal Rebels: Alex Brave, Vincent Caravaggio(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
+  - s: Tag Team Match
     en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-05-31
     nc: upcoming
