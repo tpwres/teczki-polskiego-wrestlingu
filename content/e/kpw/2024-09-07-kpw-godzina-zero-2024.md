@@ -51,7 +51,7 @@ There were a significant number of foreign talent at this event, including some 
 ## Card
 
 {% card() %}
-- - 'Bracia Fux: [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
+- - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
   - 'The 87: Alexander Roth, Roy Johnson'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'
