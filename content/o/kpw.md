@@ -102,7 +102,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 - - '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
   - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
   - >
-    Defeated Die Ordnung ([Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)
+    Defeated [Die Ordnung](@/tt/die-ordnung.md) ([Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)
 {% end %}
 
 ### References
