@@ -230,12 +230,12 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
   - '[Puncher](@/w/puncher.md)'
   - Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-  - "L'Orda: [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md)"
+  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md)"
   - >
     Defeated Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) at [PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-  - 'vacated since 2.07.2025'
-  - PTW announced that previous champion [Max Speed](@/w/max-speed.md) was fired and his Championship vacated.
+  - '[Daniel Razor](@/w/daniel-razor.md)'
+  - 'Defeated ["Starboy" Nano Lopez](@/w/nano-lopez.md) at [PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) for the vacated title.'
 {% end %}
 
 ## Other media

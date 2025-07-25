@@ -72,7 +72,7 @@ MZW has one singles championship, with Shadow having the longest combined reigns
   - >
     Defeated [Aron Wake](@/w/aron-wake.md) at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)
 - - '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
-  - 'Final Champions: Wataha (Apollo Anderson & [Justin Joy](@/w/justin-joy.md))'
+  - 'Final Champions: [Wataha](@/tt/wataha.md) ([Apollo Anderson](@/w/apollo-anderson.md) & [Justin Joy](@/w/justin-joy.md))'
   - '**INACTIVE** since 2019-03-23'
 {% end %}
 
