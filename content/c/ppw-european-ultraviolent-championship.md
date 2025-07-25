@@ -137,10 +137,8 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
   - s: Donky Kong Weaponmaster Match
     en: '[PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md)'
     ed: 2025-01-25
-- - Isnorr(c)
-  - g: Isnorr vacates the belt, citing an upcoming long-term recovery from his broken arm, and an unspecified but career-threatening heart condition
-    en: '[PpW Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md)'
-    ed: 2025-04-30
 {% end %}
 
-Total: 186 days
+Isnorr vacated the belt at [PpW Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), citing an upcoming long-term recovery from his broken arm, and an unspecified but career-threatening heart condition.
+
+**TOTAL:** 186 days
