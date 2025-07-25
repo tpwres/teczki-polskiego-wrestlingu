@@ -19,7 +19,12 @@
     <span class="n">{{rownum}}</span>
     <span class="p">
       {% if segment %}
-        <strong>Segment:</strong> {{ talent | join(sep=", ") | markdown(inline=true) | safe }}
+        <strong>Segment</strong>
+        <ul class="seg">
+            {% for person in talent %}
+            <li>{{ person | markdown(inline=true) | safe }}</li>
+            {% endfor %}
+        </ul>
       {% else %}
         {{ talent | join(sep=sep) | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
       {% endif %}

@@ -27,7 +27,13 @@
     <span class="n">{{rownum}}</span>
     <span class="p">
         {% if segment %}
-          <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others -%}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
+          <strong>Segment</strong>
+          <ul class="seg">
+             <li>{{ winner | markdown(inline=true) | safe }}</li>
+             {% for person in others %}
+             <li>{{ person | markdown(inline=true) | safe }}</li>
+             {% endfor %}
+          </ul>
         {% else %}
           {% if bodies == 0 %}
             Winner:
