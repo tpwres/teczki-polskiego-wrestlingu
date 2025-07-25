@@ -3,7 +3,7 @@ title = "KPW Godzina Zero 2019"
 template = "event_page.html"
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
-venue=["gdynia-sports-center"]
+venue=["gdynskie-centrum-sportu"]
 [extra]
 city = "Gdynia"
 toclevel = 2

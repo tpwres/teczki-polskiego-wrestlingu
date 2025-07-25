@@ -14,13 +14,13 @@ template = "index.html"
 ### Tricity area
 
 * [Atlantic / Nowy Harem](@/v/atlantic-nh-gdynia.md) {{ org_badge(org='kpw') }}
-* [Gdynia Sports Center](@/v/gdynia-sports-center.md) {{ org_badge(org='kpw') }}
+* [Gdyńskie Centrum Sportu](@/v/gdynskie-centrum-sportu.md) {{ org_badge(org='kpw') }}
 * [Gimnazjum nr 8](@/v/gimnazjum-8-gdansk.md) {{ org_badge(orgs=['ddw', 'kpw']) }}
 * [Stocznia Gdańska](@/v/stocznia-gdanska.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
 
 ### Warsaw
 
-* [2KOŁA Motorcycle Club](@/v/2kola.md) {{ org_badge(org='ppw') }}
+* [2KOŁA Pub Motocyklowy](@/v/2kola.md) {{ org_badge(org='ppw') }}
 * [Hala Bemowo](@/v/hala-bemowo.md) {{ org_badge(org='ptw') }}
 * [Mińska 65](@/v/minska-65.md) {{ org_badge(org='ppw') }}
 * [Praga Centrum](@/v/praga-centrum.md) {{ org_badge(org='ppw') }}
@@ -37,5 +37,5 @@ template = "index.html"
 
 ### Others
 
-* [Poznań International Fair](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
+* [Międzynarodowe Targi Poznańskie](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
 * [Tauron Arena Kraków](@/v/tauron-arena.md) {{ org_badge(orgs=['ptw', 'low']) }}

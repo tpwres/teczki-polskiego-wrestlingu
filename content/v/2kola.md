@@ -1,5 +1,5 @@
 +++
-title = "2KOŁA Motorcycle Club"
+title = "2KOŁA Pub Motocyklowy"
 template = "venue_page.html"
 [extra]
 year_list_start = 2019
@@ -8,7 +8,7 @@ coordinates = '52.221859,20.969030'
 orgs = ['ppw']
 +++
 
-2KOŁA (_2WHEELS_) is a motorcycle bar and event venue in Warsaw. It's the first venue to host events by [PpW Ewenement](@/o/ppw.md).
+2KOŁA (_2WHEELS_) is a motorcycle pub and event venue in Warsaw. It's the first venue to host events by [PpW Ewenement](@/o/ppw.md).
 
 The bar opened in 1998. It is dedicated to biker culture, and decorated in an American biker bar style. A prominent feature is the wall of death: a wooden, curved wall with a horizontally mounted motorcycle, replicating this classic sideshow attraction. Below this wall is a small stage, often used for music performances, chiefly - but not exclusively - rock, hard rock and metal.
 
