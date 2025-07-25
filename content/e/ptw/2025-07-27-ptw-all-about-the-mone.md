@@ -9,8 +9,6 @@ venue = ["szafirowy-dwor"]
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
-1 = { path = "all-about-the-mone-poster.webp", caption = "Official poster, featuring [Diana Strong](@/w/diana-strong.md) and Mercedes Moné.", source = "Official PTW Facebook" }
-2 = { path = "mercedes-pasi-do-lustra.webp", caption = "Image announcing Mercedes Moné.", source = "Official PTW Facebook" }
 +++
 
 "All About the Moné" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
@@ -37,7 +35,7 @@ toclevel = 2
   - '???'
   - nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - ???'
+  - '???'
   - nc: upcoming
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
