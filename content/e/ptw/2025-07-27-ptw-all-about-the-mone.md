@@ -34,7 +34,7 @@ toclevel = 2
   - '???'
   - nc: upcoming
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - ???'
+  - '???'
   - nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Mercedes Moné'
