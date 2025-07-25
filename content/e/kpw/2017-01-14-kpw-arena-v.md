@@ -1,6 +1,7 @@
 +++
 title = "KPW Arena V: Atlantic City"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["kpw", "arena"]
 venue=["atlantic"]

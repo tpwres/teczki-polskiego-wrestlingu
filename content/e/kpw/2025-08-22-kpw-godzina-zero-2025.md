@@ -1,6 +1,7 @@
 +++
 title = "KPW Godzina Zero 2025"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
 venue=["nowy-harem"]

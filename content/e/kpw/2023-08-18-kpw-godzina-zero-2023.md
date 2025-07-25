@@ -1,6 +1,7 @@
 +++
 title = "KPW Godzina Zero 2023"
 template = "event_page.html"
+authors = ["M3n747", "Krzysztof Zych"]
 aliases = ["/e/2023-08-18-kpw-godzina-zero-2023"]
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]

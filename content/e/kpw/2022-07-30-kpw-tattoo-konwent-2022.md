@@ -1,6 +1,7 @@
 +++
 title = "KPW @ Gdańsk Tattoo Konwent"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["kpw"]
 venue = ["amber-expo"]

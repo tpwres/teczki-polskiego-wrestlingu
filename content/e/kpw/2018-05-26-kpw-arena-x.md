@@ -1,6 +1,7 @@
 +++
 title = "KPW Arena X: Kawaleria vs Sojusz"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 aliases = ["/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz"]
 [taxonomies]
 chronology = ["kpw", "arena"]

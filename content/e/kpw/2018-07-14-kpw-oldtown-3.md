@@ -1,6 +1,7 @@
 +++
 title = "KPW OldTown 3"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]

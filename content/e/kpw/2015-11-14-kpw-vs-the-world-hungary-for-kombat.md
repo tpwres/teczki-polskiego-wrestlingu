@@ -1,6 +1,7 @@
 +++
 title = "KPW vs the World: Hung(a)ry for Kombat"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 venue = ["gimnazjum-8-gdansk"]
 chronology = ["kpw"]

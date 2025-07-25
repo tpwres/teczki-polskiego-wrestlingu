@@ -1,6 +1,7 @@
 +++
 title = "KPW @ World Travel Show"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 venue = ["ptak-expo-nadarzyn"]
 chronology = ["kpw"]
