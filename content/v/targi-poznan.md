@@ -1,5 +1,5 @@
 +++
-title = "Targi Poznań"
+title = "Międzynarodowe Targi Poznańskie"
 template = "venue_page.html"
 [taxonomies]
 chrono_root = ["targi-poznan"]

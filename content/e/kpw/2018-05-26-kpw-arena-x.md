@@ -4,7 +4,7 @@ template = "event_page.html"
 aliases = ["/e/kpw/2018-05-26-kpw-arena-x-kawaleria-vs-sojusz"]
 [taxonomies]
 chronology = ["kpw", "arena"]
-venue=["gdynia-sports-center"]
+venue=["gdynskie-centrum-sportu"]
 [extra]
 city = "Gdynia"
 toclevel = 2

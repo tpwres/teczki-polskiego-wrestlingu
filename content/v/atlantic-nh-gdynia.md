@@ -41,7 +41,7 @@ However, after a few months they decided to lease the building to a new tenant, 
 
 #### KPW's return
 
-Between 2018 and 2021 KPW did not use the location, as they had a bigger venue to host their shows: the [Hall Of Games](@/v/gdynia-sports-center.md). In 2022 they returned to the club and since then held most events in there, starting from [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18.md)
+Between 2018 and 2021 KPW did not use the location, as they had a bigger venue to host their shows: the [Hall Of Games](@/v/gdynskie-centrum-sportu.md). In 2022 they returned to the club and since then held most events in there, starting from [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18.md)
 (excluding shows in other cities, such as [Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) in Poznań).
 
 ### References
