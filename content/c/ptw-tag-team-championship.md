@@ -85,30 +85,30 @@ While Boro never defended the title, he was also recognized as a champion.
 - - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
   - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
   - 'Sinister Kingdom: [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
-  - "MxM Collection: Mansoor, Mason Madden"
+  - 'MxM Collection: Mansoor, Mason Madden'
   - s: Four Way Tag Team Match
-    ed: 2024-02-03
     en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
+    ed: 2024-02-03
 - - 'Budapest Bastards: Nitro, Renegade(c)'
   - "[Marcelito](@/w/marcelito.md), [Axel Fox](@/w/axel-fox.md)"
   - s: Open Challenge
-    ed: 2024-04-13
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
+    ed: 2024-04-13
 - - 'Budapest Bastards: Nitro, Renegade(c)'
   - 'Lucha Squad: Lince Dorado, Samuray del Sol'
   - s: Tag Team Match
-    ed: 2024-05-11
     en: '[PTW #6: Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md)'
+    ed: 2024-05-11
 - - 'Budapest Bastards: Nitro, Renegade(c)'
   - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
   - s: Tag Team Match
-    ed: 2024-08-25
     en: '[PTW Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md)'
+    ed: 2024-08-25
 - - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
   - 'Budapest Bastards: Nitro, Renegade(c)'
   - s: Hardcore Tornado Tag Team Match
-    ed: 2024-12-07
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
+    ed: 2024-12-07
 {% end %}
 
 **TOTAL:** 308 days
@@ -119,19 +119,19 @@ While Boro never defended the title, he was also recognized as a champion.
 - - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
   - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
   - s: Hardcore Tornado Tag Team Match
-    ed: 2024-12-07
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
+    ed: 2024-12-07
 - - "L'Orda: Luca Bjorn, Rust(c)"
   - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
   - s: Tag Team Match
-    ed: 2025-02-15
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
+    ed: 2025-02-15
 - - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - "L'Orda: Luca Bjorn, Rust(c)"
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
   - s: Tornado Tag Team Match
-    ed: 2025-05-31
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+    ed: 2025-05-31
 {% end %}
 
 **TOTAL:** 175 days
@@ -145,6 +145,12 @@ While Boro never defended the title, he was also recognized as a champion.
   - s: Tornado Tag Team Match
     ed: 2025-05-31
     en: '[PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+- - 'Royal Rebels: Alex Brave, Vincent Caravaggio(c)'
+  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
+  - s: Tag Team Match
+    en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+    ed: 2025-05-31
+    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

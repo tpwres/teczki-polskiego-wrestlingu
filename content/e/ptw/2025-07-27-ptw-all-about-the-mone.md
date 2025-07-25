@@ -28,6 +28,7 @@ toclevel = 2
 * After first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the show tickets do not include the meet-and-greet, which will be a separate event.
 * The poster for the show includes [Diana Strong](@/w/diana-strong.md) and Moné side by side, suggesting their match might be for the GLAM! Championship, currently held by Diana.
 * On 23.07.2025 PTW [announced][wiela-pasow-bydzie] that the stakes of Diana vs Mercedes will be "more than one championship belt", although no further details were given.
+* On 25.07.2025 PTW announced a new tag team to compete for the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md): Miyagi Sigma, consisting of [Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md), taking on the current champions, [Royal Rebels](@/tt/royal-rebels.md).
 
 ## Predicted card
 
@@ -38,6 +39,11 @@ toclevel = 2
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - ???'
   - nc: upcoming
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
+  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
+  - s: Tag Team Match
+    c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Mercedes Moné'
   - c: |
