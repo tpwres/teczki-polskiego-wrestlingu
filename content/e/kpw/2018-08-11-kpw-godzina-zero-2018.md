@@ -1,6 +1,7 @@
 +++
 title = "KPW Godzina Zero 2018"
 template = "event_page.html"
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
 venue=["gdynskie-centrum-sportu"]

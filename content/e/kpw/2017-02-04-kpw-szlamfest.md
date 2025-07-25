@@ -1,6 +1,7 @@
 +++
 title = "KPW Szlamfest"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["kpw", "stocznia-gdanska"]
 venue = ["b90"]

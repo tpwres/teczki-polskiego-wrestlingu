@@ -1,6 +1,7 @@
 +++
 title = "KPW Godzina Zero 2024"
 template = "event_page.html"
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
 venue = ["okrzei-6-gdynia"]
