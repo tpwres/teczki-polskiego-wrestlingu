@@ -86,7 +86,7 @@ No further KPW shows aired on FightBox.
 
 In January 2025, Extreme stopped airing Raw and Smackdown, with the final broadcast of both shows on Sunday January 5th. From now on, the only WWE programming on the channel would be WWE Classic Gold. In exchange, the channel added two more British wrestling organizations to its schedule: Newcastle-based North Wrestling, and Wolverhampton-based Burning Hearts Pro Wrestling, both to air on Thursday evenings. The first episode of Burning Hearts aired on January 16th with commentary by [Pawłowski](@/w/pan-pawlowski.md) and Supron.
 
-On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Kombat TV, would make a return in a new format, airing twice a month on Extreme Sports Channel.
+On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Kombat TV, would make a return in a new format, airing twice a month on Extreme Sports Channel. Instead of full shows, Kombat TV features two or three matches per episode, along with wrestler interviews and in-studio segments.
 
 Following the cancellation of airing of WWE shows, Extreme returned to broadcasting AEW shows and also began airing NJPW events. The latter were shown with machine-translated subtitles using speech-to-text technology, resulting in very low-quality translation.
 
