@@ -49,10 +49,10 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
     [Johnny Blade](@/w/johnny-blade.md)
   - >
     Team Mister Z:
-    [Mister Z](@/w/mister-z.md)
-    [Isnorr](@/w/isnorr.md)
-    [Gustav Gryffin](@/w/gustav-gryffin.md)
-    [Kapitan Bazooka](@/w/kapitan-bazooka.md)
+    [Mister Z](@/w/mister-z.md),
+    [Isnorr](@/w/isnorr.md),
+    [Gustav Gryffin](@/w/gustav-gryffin.md),
+    [Kapitan Bazooka](@/w/kapitan-bazooka.md),
   - s: "4 vs 4 Elimination Match"
     nc: '?'
 - - '[Mister Z](@/w/mister-z.md)'

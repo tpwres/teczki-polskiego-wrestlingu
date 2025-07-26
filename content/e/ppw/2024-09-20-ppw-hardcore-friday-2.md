@@ -39,7 +39,7 @@ toclevel = 2
   - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Mister Z](@/w/johnny-blade.md)'
+  - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Samson](@/w/samson.md)'
   - g: '[Zmowa](@/tt/zmowa.md) vs Zmowa przeciwko zmowie face-off'
