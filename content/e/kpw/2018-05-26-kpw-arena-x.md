@@ -47,7 +47,7 @@ toclevel = 2
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
 
-Attendance: about 300 \
+Attendance: about 300
 
 ### Recap
 
