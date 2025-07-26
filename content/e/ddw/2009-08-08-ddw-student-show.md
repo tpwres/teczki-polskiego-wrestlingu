@@ -15,13 +15,13 @@ toclevel = 2
 - - '[Kamil Manuszewski](@/w/kamil-aleksander.md)'
   - '[Klarys](@/w/klarys.md)'
 - - '[Don Roid](@/w/don-roid.md)'
-  - '[Marcin Wilkowski](@/w/jedrus-bulecka.md)"'
+  - '[Marcin Wilkowski](@/w/jedrus-bulecka.md)'
   - r: 'DQ'
 - - '[Don Roid](@/w/don-roid.md) & [Klarys](@/w/klarys.md)'
-  - '[Kamil Manuszewski](@/w/kamil-aleksander.md) & [Marcin Wilkowski](@/w/jedrus-bulecka.md)"'
+  - '[Kamil Manuszewski](@/w/kamil-aleksander.md) & [Marcin Wilkowski](@/w/jedrus-bulecka.md)'
   - r: 'DQ'
 - - '[Don Roid](@/w/don-roid.md) & [Klarys](@/w/klarys.md)'
-  - '[Kamil Manuszewski](@/w/kamil-aleksander.md) & [Marcin Wilkowski](@/w/jedrus-bulecka.md)"
+  - '[Kamil Manuszewski](@/w/kamil-aleksander.md) & [Marcin Wilkowski](@/w/jedrus-bulecka.md)'
   - nc: 'Double DQ'
 {% end %}
 
