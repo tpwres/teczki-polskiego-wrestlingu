@@ -22,7 +22,7 @@ It was held in a gymnastics hall in Przywidz, a Kashubian village about 30&nbsp;
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)(c)'
   - '[Don Roid](@/w/don-roid.md)'
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
-  - nc: 'Time Limit Draw'
+    nc: 'Time Limit Draw'
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)(c)'
   - '[Don Roid](@/w/don-roid.md)'
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
