@@ -17,8 +17,8 @@ manifest = "@/e/ddw/2013-08-25-ddw-charity-event-gallery.toml"
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
 - - '[Aurora](@/w/kasandra.md)'
   - '[Mira](@/w/mira.md)'
-- - "[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)"
-  - "[Mateusz Kowalski](@/w/mateusz-kakareko.md), [Robert Star](@/w/robert-star.md)"
+- - '[Luxus](@/w/luxus.md) & [Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - '[Mateusz Kowalski](@/w/mateusz-kakareko.md) & [Robert Star](@/w/robert-star.md)'
   - s: Tag Team Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

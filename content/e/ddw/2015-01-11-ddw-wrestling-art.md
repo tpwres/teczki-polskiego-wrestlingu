@@ -15,13 +15,17 @@ It was held in a gymnastics hall in Przywidz, a Kashubian village about 30&nbsp;
 ## Card
 
 {% card() %}
-- ["[Luxus](@/w/luxus.md), [Piękny Kawaler](@/w/piekny-kawaler.md)", "[Kaszub](@/w/kaszub.md),
-    [Robert Star](@/w/robert-star.md)"]
-- ['[GREG](@/w/greg.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', '[Don Roid](@/w/don-roid.md)',
-  {c: "[DDW International Championship](@/c/ddw-international-championship.md)", nc: "Time Limit Draw"}]
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)(c)', '[Don Roid](@/w/don-roid.md)',
-  {c: "[DDW International Championship](@/c/ddw-international-championship.md)"}]
+- - '[Luxus](@/w/luxus.md) & [Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - '[Kaszub](@/w/kaszub.md) & [Robert Star](@/w/robert-star.md)'
+- - '[GREG](@/w/greg.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)(c)'
+  - '[Don Roid](@/w/don-roid.md)'
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
+  - nc: 'Time Limit Draw'
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)(c)'
+  - '[Don Roid](@/w/don-roid.md)'
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
 {% end %}
 
 ## References
