@@ -41,7 +41,7 @@ toclevel = 2
   - c: '[KPW Championship](@/c/kpw-championship.md)'
     s: 'Lumberjack Match'
 - - '[Ron Corvus](@/w/ron-corvus.md)'
-  - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)',
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
