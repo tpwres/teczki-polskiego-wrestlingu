@@ -28,8 +28,8 @@ This event saw the DFW debuts of [Rob Scaffold](@/w/rob-scaffold.md) and [Direk]
 - - '[Chris Hunter](@/w/chris-hunter.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
   - s: Tournament Semifinal Match
-- - '[Rob Scaffold](@/w/rob-scaffold.md), [Norris](@/w/isnorr.md)'
-  - '[Pain Killer](@/w/pain-killer.md), [Malmo Buruto](@/w/malmo-buruto.md)'
+- - '[Rob Scaffold](@/w/rob-scaffold.md) & [Norris](@/w/isnorr.md)'
+  - '[Pain Killer](@/w/pain-killer.md) & [Malmo Buruto](@/w/malmo-buruto.md)'
   - s: Tag Team Match
 - - '[Direk](@/w/direk.md)'
   - '[Revage](@/w/rafael-kid.md)'
