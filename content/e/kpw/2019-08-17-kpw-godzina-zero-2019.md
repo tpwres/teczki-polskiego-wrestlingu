@@ -34,12 +34,14 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
 ## Card
 
 {% card() %}
-- [Reinbakh, '[Kamil Aleksander](@/w/kamil-aleksander.md)']
-- - "[Sawicki](@/w/sawicki.md), [Rosetti](@/w/rosetti.md)"
-  - "Carlos Zamora, Steinbolt"
+- - 'Reinbakh'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+- - '[Sawicki](@/w/sawicki.md) & [Rosetti](@/w/rosetti.md)'
+  - 'Carlos Zamora & Steinbolt'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag Team Match
-- ['[Primate](@/w/primate.md)', '[Greg](@/w/greg.md)']
+- - '[Primate](@/w/primate.md)'
+  - '[Greg](@/w/greg.md)'
 - - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Chemik](@/w/chemik.md)'
   - '[Daniel Boza](@/w/mutant.md)'
@@ -48,8 +50,12 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
   - '[Greg](@/w/greg.md)'
   - '[Mateusz Kakareko](@/w/mateusz-kakareko.md)'
   - s: Magnificent Seven Elimination Ladder Match
-- [Sixt, '[Alisa](@/w/alisa.md)', '[Bianca](@/w/bianca.md)', '[Diana](@/w/diana-strong.md)']
-- - "[David Oliwa](@/w/david-oliwa.md)(c)"
+- - 'Sixt'
+  - '[Alisa](@/w/alisa.md)'
+  - '[Bianca](@/w/bianca.md)'
+  - '[Diana](@/w/diana-strong.md)'
+  - s: Four Way Match
+- - '[David Oliwa](@/w/david-oliwa.md)(c)'
   - '[Moloch](@/w/moloch.md)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Robert Star](@/w/robert-star.md)(c)'

@@ -27,18 +27,22 @@ toclevel = 2
 ## Card
 
 {% card() %}
-- ['[Moloch](@/w/moloch.md)', '[Boski Ostrowski](@/w/ostrowski.md)']
-- ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)']
-- ['[Mateusz Kakareko](@/w/mateusz-kakareko.md)', '[Gracjan Korpo](@/w/gracjan-korpo.md)']
-- - "Team Aleksander: [David Oliwa](@/w/david-oliwa.md), [Kamil Aleksander](@/w/kamil-aleksander.md),
-    [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Peter Pannache](@/w/peter-pannache.md)"
-  - "Team Greg: [Adam Bravo](@/w/adam-bravo.md), [Greg](@/w/greg.md), [Sawicki](@/w/sawicki.md),
-    [Victor Rosetti](@/w/rosetti.md)"
+- - '[Moloch](@/w/moloch.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md)'
+- - '[Alisa](@/w/alisa.md)'
+  - '[Mira](@/w/mira.md)'
+- - '[Mateusz Kakareko](@/w/mateusz-kakareko.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
+- - 'Team Aleksander: [David Oliwa](@/w/david-oliwa.md) & [Kamil Aleksander](@/w/kamil-aleksander.md) & [Krzysztof Zasada](@/w/krzysztof-zasada.md) & [Peter Pannache](@/w/peter-pannache.md)'
+  - 'Team Greg: [Adam Bravo](@/w/adam-bravo.md) & [Greg](@/w/greg.md) & [Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)'
   - s: Eight Man Tag Team Elimination Match
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)(c)', '[Robert Star](@/w/robert-star.md)',
-  {c: "[KPW Championship](@/c/kpw-championship.md)", s: "Lumberjack Match"}]
-- ['[Ron Corvus](@/w/ron-corvus.md)', '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)',
-  {c: "[KPW Championship](@/c/kpw-championship.md)"}]
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
+    s: 'Lumberjack Match'
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)',
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}

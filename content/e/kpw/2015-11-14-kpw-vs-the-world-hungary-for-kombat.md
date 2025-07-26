@@ -19,8 +19,8 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
 ## Card
 
 {% card() %}
-- - '[GREG](@/w/greg.md), [Luxus](@/w/luxus.md)'
-  - '[Boski Ostrowski](@/w/ostrowski.md), [Victor Rosetti](@/w/rosetti.md)'
+- - '[GREG](@/w/greg.md) & [Luxus](@/w/luxus.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md) & [Victor Rosetti](@/w/rosetti.md)'
   - s: 'Tag Team Match'
 - - '[Mira](@/w/mira.md)'
   - '[Kasandra](@/w/kasandra.md)'

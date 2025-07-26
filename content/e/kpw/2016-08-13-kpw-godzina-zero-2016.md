@@ -29,20 +29,27 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 ## Card
 
 {% card() %}
-- [Mika The Polish Punisher, '[Victor Rosetti](@/w/rosetti.md)']
-- ['[Kaszub](@/w/kaszub.md)', '[Damian Lambert](@/w/damien-rothschild.md)', '[Peter
-    Pannache](@/w/peter-pannache.md)', {s: Three Way Match}]
-- ['[Sawicki](@/w/sawicki.md)', '[Elliott Jordan](@/w/elliott-jordan.md)']
-- ['[Ron Corvus](@/w/ron-corvus.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
-    Zasada](@/w/krzysztof-zasada.md)"]
-- ["[Kawaleria](@/tt/kawaleria.md): [Greg](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),
-    [David Oliwa](@/w/david-oliwa.md)", {s: Tag Team Match}]
-- [Jon Ryan, '[Robert Star](@/w/robert-star.md)']
-- ['[Bianca](@/w/bianca.md)', Aurora Flame]
+- - 'Mika The Polish Punisher'
+  - '[Victor Rosetti](@/w/rosetti.md)'
+- - '[Kaszub](@/w/kaszub.md)'
+  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Peter Pannache](@/w/peter-pannache.md)'
+  - s: Three Way Match
+- - '[Sawicki](@/w/sawicki.md)'
+  - '[Elliott Jordan](@/w/elliott-jordan.md)'
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
+- - '[Kawaleria](@/tt/kawaleria.md): [Greg](@/w/greg.md) & [Luxus](@/w/luxus.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md)'
+  - s: Tag Team Match
+- - 'Jon Ryan'
+  - '[Robert Star](@/w/robert-star.md)'
+- - '[Bianca](@/w/bianca.md)'
+  - 'Aurora Flame'
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - c: "[KPW Championship](@/c/kpw-championship.md)"
-    s: "2 out of 3 Falls Match"
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
+    s: '2 out of 3 Falls Match'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
