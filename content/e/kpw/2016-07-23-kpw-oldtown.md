@@ -27,10 +27,10 @@ KPW held a wrestling exhibition during the event on the penultimate day. Wrestli
   - '[David Oliwa](@/w/david-oliwa.md)'
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
-- - "[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md)"
+- - '[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md) & [Greg](@/w/greg.md)'
   - >
-    [Robert Star](@/w/robert-star.md),
-    [Bianca](@/w/bianca.md),
+    [Robert Star](@/w/robert-star.md) &
+    [Bianca](@/w/bianca.md) &
     [David Oliwa](@/w/david-oliwa.md)
   - s: 3 vs 2 Handicap Match
 - credits:

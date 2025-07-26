@@ -27,11 +27,9 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
 ## Card
 
 {% card() %}
-- - "[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md),
-    [Rosetti](@/w/rosetti.md)"
-  - "Sojusz: [Boski Ostrowski](@/w/ostrowski.md), [David Oliwa](@/w/david-oliwa.md),
-    [Kamil Aleksander](@/w/kamil-aleksander.md)"
-  - s: "Six Man Tag Team Match"
+- - '[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md) & [Robert Star](@/w/robert-star.md) & [Rosetti](@/w/rosetti.md)'
+  - 'Sojusz: [Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md) & [Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - s: 'Six Man Tag Team Match'
 - - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - '[Adam Bravo](@/w/adam-bravo.md)'
 - - '[Greg](@/w/greg.md)(c)'

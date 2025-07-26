@@ -26,8 +26,8 @@ Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) 
   - 'Hekate'
   - '[PJ Blake](@/w/pj-blake.md)'
   - s: Gauntlet Match
-- - 'Faust, [Direk](@/w/direk.md)'
-  - '[Rob Scaffold](@/w/rob-scaffold.md), [Norris](@/w/isnorr.md)'
+- - 'Faust & [Direk](@/w/direk.md)'
+  - '[Rob Scaffold](@/w/rob-scaffold.md) & [Norris](@/w/isnorr.md)'
   - s: Tag Team Match
 - - '[Chris Hunter](@/w/chris-hunter.md)(c)'
   - '[Charlie](@/w/madman-charlie.md)'

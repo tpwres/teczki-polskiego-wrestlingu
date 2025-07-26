@@ -19,8 +19,8 @@ Lesson of Respect was an event by [Dream Factory Wrestling](@/o/dfw.md), that to
   - nc: 'Draw by audience vote'
 - - '[Charlie](@/w/madman-charlie.md)'
   - '[Malmo Buruto](@/w/malmo-buruto.md)'
-- - '[Direk](@/w/direk.md), [Corin Mear](@/w/corin-mear.md)'
-  - '[Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md)'
+- - '[Direk](@/w/direk.md) & [Corin Mear](@/w/corin-mear.md)'
+  - '[Chris Hunter](@/w/chris-hunter.md) & [PJ Blake](@/w/pj-blake.md)'
   - s: Tag Team Match
 {% end %}
 

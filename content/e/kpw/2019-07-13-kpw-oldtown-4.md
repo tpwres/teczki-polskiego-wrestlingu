@@ -40,7 +40,7 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
 - - '[Greg](@/w/greg.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
 - - '[Moloch](@/w/moloch.md)'
-  - 'Kordon: ???, ???, ???, ???'
+  - 'Kordon: ??? & ??? & ??? & ???'
   - s: Four on One Handicap Match
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'

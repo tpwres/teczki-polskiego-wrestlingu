@@ -7,7 +7,6 @@ venue = ["zs1-sopot"]
 [extra]
 city = "Sopot"
 toclevel = 2
-hide_results = true
 [extra.gallery]
 manifest = "@/e/ddw/2015-07-24-ddw-baltikon-gallery.toml"
 
@@ -28,9 +27,8 @@ Match card unofficial, based on available photos.
   - nc: '?'
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Luxus](@/w/luxus.md)'
-- - '[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md), [Bianca](@/w/bianca.md),
-    [Greg](@/w/greg.md)'
-  - '[Boski Ostrowski](@/w/ostrowski.md), [Mira](@/w/mira.md), [Kaszub](@/w/kaszub.md)'
+- - '[Kawaleria](@/tt/kawaleria.md): [Piękny Kawaler](@/w/piekny-kawaler.md) & [Bianca](@/w/bianca.md) & [Greg](@/w/greg.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md) & [Mira](@/w/mira.md) & [Kaszub](@/w/kaszub.md)'
   - s: Mixed Six-Man Tag Team Match
     nc: '?'
 {% end %}
