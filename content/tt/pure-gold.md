@@ -55,7 +55,7 @@ Besides their PTW run, in 2023 Pure Gold made appearances outside of Poland, for
 
 Gabriel Queen made his official debut for [PpW Ewenement](@/o/ppw.md) at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), where he faced [Jacob Crane](@/w/jacob-crane.md) as a babyface.
 After securing a victory he was attacked by his defeated opponent, however Queen's tag team partner - [Vic Golden](@/w/vic-golden.md) - made his surprise debut, saving Gabriel from the beatdown. They celebrated together and hugged, marking the team's reunion, now under PpW's banner.
-They quickly made their official PpW tag team debut, defeating Baklava Club's Aytac Bahar and Joshua Amaru at [Ewenement Haze](content/e/ppw/2024-04-20-ppw-ewenement-haze.md).
+They quickly made their official PpW tag team debut, defeating Baklava Club's Aytac Bahar and Joshua Amaru at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
 
 At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), Pure Gold issued an open challenge, which was unexpectedly accepted by [Legia Łysych](@/tt/legia-lysych.md), at that time still thought to be associated with PTW. The two teams reignited their feud from PTW, delivering a well-received match.
 The rivalry with Legia Łysych - especially with [Olgierd](@/w/olgierd.md) - continued, and Gabriel faced him at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) in a No Weapons Hooligan Street Fight, which ended in Olgierd's disqualification for using a weapon.

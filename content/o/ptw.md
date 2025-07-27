@@ -184,11 +184,11 @@ In another argument in the comment section of the [PTW Facebook page][kasa-okoni
 
 On 11.01.2025 PTW posted a reminder about the upcoming [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md). In one of the comments below this post a company called Event Production, responsible for the production of [Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md), wrote "As a part of the new order, can we count on settling the old debts?", suggesting that PTW still owes them money for their last big show. A fan responded to their post saying that PTW is penniless and sells very few tickets. In the ensuing discussion, Pawłowski and Okoński declared that PTW is in a good condition financially. The event company confirmed that they produced [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) as well.
 
-Over the following months, PTW continued to hold the shows regularly, staying in Kozłów as their base of operations. Since Okoński's December in-ring debut, he kept being presented as the face chairman, protecting babyfaces from Pawłowski's bullying. "Chairman vs chairman" became a focal point of the storylines, set to culminate at the [appropriately named show](content/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) in April. The match between two chairmen turned out to be a set-up from Pawłowski, so the story continued.
+Over the following months, PTW continued to hold the shows regularly, staying in Kozłów as their base of operations. Since Okoński's December in-ring debut, he kept being presented as the face chairman, protecting babyfaces from Pawłowski's bullying. "Chairman vs chairman" became a focal point of the storylines, set to culminate at the [appropriately named show](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) in April. The match between two chairmen turned out to be a set-up from Pawłowski, so the story continued.
 
 PTW increased the number of their championships: [Max Speed](@/w/max-speed.md) was crowned the inaugural [PTW Underground Champion](@/c/ptw-underground-championship.md), and a tournament was started to crown the inaugural [PTW Women's Champion](@/c/ptw-womens-championship.md).
 
-In multiple Q&A sessions Pawłowski alluded that their next non-domestic show would be at Ryucon 2025. However, Ryucon eventually decided to host another federation and the supposed PTW show became [Legacy of Wrestling vol.3](content/e/low/2025-07-11-low-3.md).
+In multiple Q&A sessions Pawłowski alluded that their next non-domestic show would be at Ryucon 2025. However, Ryucon eventually decided to host another federation and the supposed PTW show became [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 
 ## Polish wrestling scene
 
