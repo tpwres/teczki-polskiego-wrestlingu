@@ -27,6 +27,8 @@ The tournament actually started at [PTW: Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 
 Although there were no tournament matches since [PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), PTW keeps bringing the tournament up in their programming, reiterating it is still on.
 
+Right before [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Bestya Slam posted on their social media an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong, talking about the match with Moné. They mention the championships that are going to be contested, which are visible hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped - as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
+
 ## Belt design
 
 The belt design has not yet been revealed as of 9.07.2025.
@@ -62,7 +64,7 @@ The belt design has not yet been revealed as of 9.07.2025.
     ed: 2025-04-12
 {% end %}
 
-#### Round 2
+#### Semi-finals
 
 {% free_card() %}
 - - '[Diana Strong](@/w/diana-strong.md)'
@@ -74,7 +76,7 @@ The belt design has not yet been revealed as of 9.07.2025.
     ed: 2025-06-28
 {% end %}
 
-#### Semi-finals
+#### Finals
 
 TBD
 
