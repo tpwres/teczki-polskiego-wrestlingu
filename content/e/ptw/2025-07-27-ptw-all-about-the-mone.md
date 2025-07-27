@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-"All About the Moné" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"All About the Moné" was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
 
@@ -33,24 +33,45 @@ toclevel = 2
 
 ## Predicted card
 
-{% card(predicted=true) %}
-- - '[Nietykalni](@/tt/nietykalni.md): ???, ???'
-  - '???'
-  - nc: upcoming
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '???'
-  - nc: upcoming
+{% card %}
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+  - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+  - g: Okoński and Pawłowski bickering which Chairman to open the show. Pawłowski confirms Women's Championship Tournament is off
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: Tag Team Match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    nc: upcoming
-- - '[Diana Strong](@/w/diana-strong.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '_rookie_Bumper, _rookie_ Dropper, _rookie_ Boguś'
+  - s: Handicap match
+- - '[Spartan](@/w/spartan.md)'
+  - 'Daz Black'
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Bat Lesya Sullivan'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    s: 'Triple Threat Match'
+- - 'Love Vonce'
+  - 'Polski Niedźwiedź'
+- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - 'Mercedes Moné'
+  - '[Diana Strong](@/w/diana-strong.md)'
+  - g: Nietykalni try to steal the spotlight, women and babyfaces get rid of them
+- - 'Mercedes Moné' 
+  - '[Diana Strong](@/w/diana-strong.md)'
   - c: |
        Bestya Women's Championship,
        [PTW Women's Championship](@/c/ptw-womens-championship.md)
-    nc: upcoming
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Diana Strong](@/w/diana-strong.md)'
+  - g: Pawłowski berates Diana and announces match against Puncher as a punishment for next show. 
+- credits:
+    General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
+    Bestya Wrestling promotor: 'Alessandro Maria Bosio'
 {% end %}
 
 ### Recap
@@ -62,6 +83,7 @@ toclevel = 2
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=430504)
 * [Facebook post announcing the event](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02w5MCtCqiTGbjCEJj71AsdMdrXt39R5LeWX7kdXKSTJs5MPuWdMkutZgn7pp4Lurbl)
 * [Show description on ticketing website](https://goingapp.pl/wydarzenie/mercedes-mone-w-polsce-gala-pro-wrestlingu-all-about-the-mone/kozlow-lipiec-2025?queryID=d9957271cd738fc4cddea7babc9cacbc)
+* [Full show on YouTube - requires paid subscription](https://www.youtube.com/watch?v=Qbq5Tgk3QZA&ab_channel=PTW-PrimeTimeWrestling)
 
 [mercedes-przyjedzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid035nmpW9kgwtyj6hvmq4JPZwm7CQSYEbARkuQbnDNtuyprhHmhLXBjWgFLnQNg2or4l
 [wiela-pasow-bydzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02N75gHCMJDbg3qBv4s4xUnjC121aWfjS1nUui7ejTH3PQGk2g9Zs68yuXrDtPGsV1l
