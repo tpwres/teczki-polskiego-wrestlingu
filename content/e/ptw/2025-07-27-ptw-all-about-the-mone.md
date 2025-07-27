@@ -37,7 +37,7 @@ toclevel = 2
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - g: 'Okoński and Pawłowski bicker which Chairman should open the show. Pawłowski confirms Women's Championship Tournament is off.'
+  - g: "Okoński and Pawłowski bicker about which Chairman should open the show. Pawłowski confirms Women's Championship Tournament is off."
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: 'Tag Team Match'
