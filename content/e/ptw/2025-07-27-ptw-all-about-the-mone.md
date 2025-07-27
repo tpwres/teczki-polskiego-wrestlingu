@@ -15,11 +15,11 @@ toclevel = 2
 
 ## Build-up
 
-* The show was first announced at [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) in a heel promo by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). This raised doubt about the sincerity of the announcement, as the new show was supposed to take place only a week later and feature the AEW TBS Champion, Mercedes Moné. The Internet fans were called out for doubting Pawłowski in the next segment where he reiterated the announcement.
+* The show was first announced at [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) in a heel promo by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). This raised doubt about the sincerity of the announcement, as the new show was supposed to take place only a week later and feature the AEW TBS Champion, [Mercedes Moné](@/w/mercedes-mone.md). The Internet fans were called out for doubting Pawłowski in the next segment where he reiterated the announcement.
 * Late night on 20.07.2025 Moné posted an Instagram story about the event, followed by PTW's official [Facebook post][mercedes-przyjedzie] confirming that Mercedes would have a match, as well as a meet-and-greet.
 * The next day, as ticket sales commenced on Going, PTW announced that Moné would face [Diana Strong](@/w/diana-strong.md).
 * As per the announcement on ticket platform Going, the show is set to include:
-  * Mercedes Moné in action
+  * [Mercedes Moné](@/w/mercedes-mone.md) in action
   * an appearance by [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) faction, [Nietykalni](@/tt/nietykalni.md)
   * championship matches
   * and more
@@ -37,14 +37,14 @@ toclevel = 2
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - g: Okoński and Pawłowski bickering which Chairman to open the show. Pawłowski confirms Women's Championship Tournament is off
+  - g: 'Okoński and Pawłowski bickering which Chairman to open the show. Pawłowski confirms Women's Championship Tournament is off'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
-  - s: Tag Team Match
+  - s: 'Tag Team Match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '_rookie_Bumper, _rookie_ Dropper, _rookie_ Boguś'
-  - s: Handicap match
+  - s: 'Handicap match'
 - - '[Spartan](@/w/spartan.md)'
   - 'Daz Black'
 - - '[Daniel Razor](@/w/daniel-razor.md)'
@@ -58,7 +58,7 @@ toclevel = 2
   - 'Mercedes Moné'
   - '[Diana Strong](@/w/diana-strong.md)'
   - g: Nietykalni try to steal the spotlight, women and babyfaces get rid of them
-- - 'Mercedes Moné' 
+- - '[Mercedes Moné](@/w/mercedes-mone.md)' 
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: |
        Bestya Women's Championship,
