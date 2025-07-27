@@ -1,5 +1,6 @@
 from pathlib import Path
 from parse import blocks
+from parse.logger import RichDocLogger
 
 class Base:
     # A Guard is a class inheriting from Base.
@@ -8,8 +9,10 @@ class Base:
     # During operation, a Guard emits Issues which signal a problem with a block.
     # An issue may also come with a Fix, which is a callable to be ran against the block text to fix the issue.
 
+    logger: RichDocLogger
+
     def __init__(self):
-        self.issues = []
+        pass
 
     @classmethod
     def accept_frontmatter(cls, frontmatter: blocks.FrontMatterBlock):
@@ -39,3 +42,13 @@ class Base:
     def validate_block(self, block: blocks.Block):
         """Invoked for blocks of other types (free_card, timeline and any others)."""
         pass
+
+    def finalize(self):
+        """Invoked after passing all blocks, for validators that need to keep state
+        and report only after the whole file was consumed.
+        """
+        pass
+
+    # Logging through RichDocLogger
+    def log_error(self, message, **kwargs):
+        self.logger.log_error(message, **kwargs)

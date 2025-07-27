@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from ..main.base import Base
+from guards.main.base import Base
 from parse import blocks
 from card import Card
 import yaml
@@ -14,11 +14,15 @@ class CreditsCorrect(Base):
 
     def validate_card(self, card: blocks.CardBlock):
         raw_card = card.raw_card
+        if not raw_card:
+            return
+
         credits_seen = False
 
         for i, row in enumerate(raw_card, 1):
             if credits_seen:
-                self.log_error("Credits must be the last element in the card")
+                # TODO: Message points to start of card block, not actual line number
+                self.log_error("Credits must be the last element in the card", line_number=card.starting_line)
                 return
 
             match row:

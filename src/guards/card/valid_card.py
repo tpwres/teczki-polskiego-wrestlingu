@@ -1,9 +1,8 @@
 from pathlib import Path
 
-from ..main.base import Base
+from guards.main.base import Base
 from parse import blocks
 from card import Card
-import yaml
 
 class ValidCard(Base):
     @classmethod
@@ -22,18 +21,15 @@ class ValidCard(Base):
         # - card is a list, each item of that either a list or a dict
         # - if a list, must not be empty, and of the correct shape: [opponent, opponent, {options}]
         # - each opponent is a string, and options only contains supported ones
-        # - Handled elsewhere: if a dict, must be either delim or credits. Credits must be the last element
-        # serialized = yaml.dump(raw_card, width=999, allow_unicode=True)
-        # print(serialized)
 
         match raw_card:
+            case [] | None:
+                self.log_error('Card is empty. Use a {{ skip_card() }} shortcode instead.', line_number=card.starting_line)
+                return
             case [*rows, dict(unused_credits_row)]:
                 self.check_matches(rows)
             case [*rows]:
                 self.check_matches(rows)
-            case []:
-                self.log_error('Card is empty. Use a {{ skip_card() }} shortcode instead.')
-                return
 
     def check_matches(self, rows):
         for i, row in enumerate(rows, 1):
@@ -61,6 +57,7 @@ class ValidCard(Base):
             if row_options:
                 self.check_valid_options(f"Match {i}", row_options)
 
+    # TODO: think about extracting to a separate guard
     def check_valid_options(self, location, row_options: dict):
         accepted_options = {
             'nc': str,
@@ -80,17 +77,3 @@ class ValidCard(Base):
 
         if 'r' in row_options and 'nc' in row_options:
             self.log_error(f"{location}: Cannot have both r: and nc: in a single match")
-
-    def check_delimiter(self, location, delim_options):
-        text = delim_options.get('d')
-        if not text:
-            self.log_error(f"{location}: Delimiter row must have a title set with the d: field")
-
-        date = delim_options.get('date', None)
-        if date:
-            if self.last_date_seen and date < self.last_date_seen:
-                self.log_error(f"{location}: Date {date} is before the previous date header seen {self.last_date_seen}")
-            self.last_date_seen = date
-
-    def check_credits(self, credits_options):
-        pass

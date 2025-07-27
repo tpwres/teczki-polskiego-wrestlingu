@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from ..main.base import Base
+from guards.main.base import Base
 from parse import blocks
 from card import Card
 import yaml
@@ -14,6 +14,9 @@ class SegmentDescription(Base):
 
     def validate_card(self, card: blocks.CardBlock):
         raw_card = card.raw_card
+        if not raw_card:
+            return
+
 
         for i, row in enumerate(raw_card, 1):
             match row:

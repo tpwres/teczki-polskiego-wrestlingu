@@ -1,9 +1,8 @@
 from pathlib import Path
 
-from ..main.base import Base
+from guards.main.base import Base
 from parse import blocks
 from card import Card
-import yaml
 
 class CardOptionsCorrect(Base):
     @classmethod
@@ -13,6 +12,9 @@ class CardOptionsCorrect(Base):
         return is_event_article
 
     def validate_card(self, card: blocks.CardBlock):
+        if not card.params:
+            return
+
         params = {
             key: value
             for key, value in (

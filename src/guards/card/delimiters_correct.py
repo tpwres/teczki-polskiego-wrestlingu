@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from ..main.base import Base
+from guards.main.base import Base
 from parse import blocks
 from card import Card
 import yaml
@@ -14,6 +14,9 @@ class DelimitersCorrect(Base):
 
     def validate_card(self, card: blocks.CardBlock):
         raw_card = card.raw_card
+        if not raw_card:
+            return
+
         last_date_seen = None
 
         for i, row in enumerate(raw_card, 1):
@@ -23,5 +26,7 @@ class DelimitersCorrect(Base):
                         self.log_error(f"Delimiter row {i}: date {date} is before previous delimiter date {last_date_seen}")
                 case {"d": str(text)}:
                     pass
+                case {"d": _}:
+                    self.log_error(f"Delimiter row {i}: title must be a string")
                 case _:
                     continue

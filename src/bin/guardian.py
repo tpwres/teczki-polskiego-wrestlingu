@@ -2,9 +2,12 @@ from argparse import ArgumentParser
 from pathlib import Path
 from sys import exit
 from typing import Iterable
+import logging
 
-from guards import card as card_guards
+from guards.main.base import Base
+from guards.main.registry import ClassRegistry
 from parse.parser import RichDocParser, Section
+from parse.logger import RichDocLogger, ParseIssue
 from parse import blocks
 
 def expand_targets(args):
@@ -26,18 +29,24 @@ def expand_targets(args):
         else:
             yield path
 
-def load_guard_classes():
-    guard_classes = [
-        card_guards.ValidCard,
-        card_guards.CardOptionsCorrect,
-        card_guards.CreditsCorrect,
-        card_guards.DelimitersCorrect,
-        card_guards.SegmentDescription
-    ]
-    return guard_classes
+class GuardLogger(RichDocLogger):
+    def __init__(self):
+        super().__init__("Guard")
+
+    def format_message(self, message: str, issue: ParseIssue):
+        match issue:
+            case ParseIssue(location=str(location), line_number=int(line_number), column_number=int(column_number)):
+                return f"{location}:{line_number}:{column_number} {message}"
+            case ParseIssue(location=str(location), line_number=int(line_number)):
+                return f"{location}:{line_number} {message}"
+            case ParseIssue(location=str(location)):
+                return f"{location} {message}"
+
+        return message
 
 def run_guards(guards: list, targets: Iterable[Path]):
     issues = []
+    logger = GuardLogger()
     for target in targets:
         guards_to_run = [guard for guard in guards if guard.accept_path(target)]
         if not guards_to_run:
@@ -53,20 +62,24 @@ def run_guards(guards: list, targets: Iterable[Path]):
             continue
 
         print(f"Checking {target}")
+
         for guard_cls in guards_to_run:
             guard = guard_cls()
+            guard.logger = logger
 
-            guard.validate_frontmatter(doc.front_matter)
+            with logger.parsing_context(guard_cls.__name__, target.as_posix()):
+                guard.validate_frontmatter(doc.front_matter)
 
-            for section in doc.sections:
-                match section:
-                    # NOTE: Maybe Guard.Base should do this dispatch?
-                    case Section(start=start, id=ident, block=blocks.CardBlock() as block):
-                        guard.validate_card(block)
-                    case Section(start=start, id=ident, block=blocks.TextBlock() as block):
-                        guard.validate_text(block)
-                    case _:
-                        breakpoint()
+                for section in doc.sections:
+                    match section:
+                        # NOTE: Maybe Guard.Base should do this dispatch?
+                        case Section(start=start, id=ident, block=blocks.CardBlock() as block):
+                            guard.validate_card(block)
+                        case Section(start=start, id=ident, block=blocks.TextBlock() as block):
+                            guard.validate_text(block)
+
+                guard.finalize()
+        breakpoint()
         break
 
 def build_argparser():
@@ -85,11 +98,15 @@ def build_argparser():
     return parser
 
 def main():
+    plugins = ClassRegistry()
+    plugins.load_from_path('src/guards/card', package_name = 'card_guards')
+    plugins.load_from_path('src/guards/doc', package_name = 'doc_guards')
+
     parser = build_argparser()
     args = parser.parse_args()
     # TODO: Filter mode
     targets = expand_targets(args.event_files)
-    guards = load_guard_classes()
+    guards = list(plugins.registry.values())
 
     success = run_guards(guards, targets)
     exit(0 if success else 1)
