@@ -7,17 +7,17 @@ authors = ["M3n747", "Szymon Iwulski"]
 toclevel=2
 +++
 
-The PTW Women's Championship is an announced professional wrestling belt created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their women's division title.
+The PTW Women's Championship is a professional wrestling belt created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their women's division title.
 
 <!-- more -->
 
 ## Statistics
 
-* First champion: TBD
-* Most reigns: 0
-* Longest reign: TBD
-* Oldest Champion: TBD
-* Heaviest Champion: TBD
+* First champion: [Mercedes Moné](@/w/mercedes-mone.md)
+* Most reigns: 1
+* Longest reign: [Mercedes Moné](@/w/mercedes-mone.md)
+* Oldest Champion: [Mercedes Moné](@/w/mercedes-mone.md)
+* Heaviest Champion: [Mercedes Moné](@/w/mercedes-mone.md)
   
 ## History
 
@@ -28,6 +28,9 @@ The tournament actually started at [PTW: Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 Although there were no tournament matches since [PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), PTW keeps bringing the tournament up in their programming, reiterating it is still on.
 
 Right before [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Bestya Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, talking about the match with Moné. They mention the championships that are going to be contested, which are shown hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped, as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
+
+In her PTW debut, [Mercedes Moné](@/w/mercedes-mone.md) was set to challenge [Diana Strong](@/w/diana-strong.md) for inaugural Bestya Women's Championship. At the same show, it was announced that [PTW Women's Championship](content/c/ptw-womens-championship.md) tournament is off the books due to undisclosed competitor (possibly either of semi-finalists: Heidi Katrina, Lucia Lee or both) being injured and unavailable.
+Thus, the title was added on the line for Moné vs Strong. The wrestlers who got removed from the tournament are set to receive the titleshots down the line. Moné won in a competitive main event to capture both championships and become an inaugural PTW Women's Champion.
 
 ## Belt design
 
@@ -78,6 +81,15 @@ On 27.07.2025, the belt design was revealed in an [Instagram posts](https://www.
 
 #### Finals
 
-TBD
+Never happened, as the tournament was canceled.
+
+### Champion #1: Mercedes Moné
+
+{% free_card() %}
+- - 'Mercedes Moné' 
+  - '[Diana Strong](@/w/diana-strong.md)'
+  - en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+    ed: 2025-07-27
+{% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
