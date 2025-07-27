@@ -31,7 +31,7 @@ Those events, though seemingly a promotional stunt, were quickly recognized as c
 
 ### Arrest angle
 
-At Teraz Albo Nigdy, Mister Z revealed that the court granted him a restraining order and now Biesiad is not allowed to come near him. After Biesiad got eliminated from the _20 Typa 20 Broni Rumble Match_, he continued to brawl with Mister Z until a band of uniformed henchmen, carrying rifles and wearing PM Shooter colors, captured Biesiad and escorted him outside the venue. It was later revealed that at a future show, [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad would face a "serviceman" to regain his freedom. [Legacy of Wrestling](@/o/low.md) provided a follow-up on the angle, announcing Biesiad for a five-way match at [Legacy vol. 2](content/e/low/2025-04-06-low-2.md), with a caveat that Biesiad might not make it due to his arrest.
+At Teraz Albo Nigdy, Mister Z revealed that the court granted him a restraining order and now Biesiad is not allowed to come near him. After Biesiad got eliminated from the _20 Typa 20 Broni Rumble Match_, he continued to brawl with Mister Z until a band of uniformed henchmen, carrying rifles and wearing PM Shooter colors, captured Biesiad and escorted him outside the venue. It was later revealed that at a future show, [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad would face a "serviceman" to regain his freedom. [Legacy of Wrestling](@/o/low.md) provided a follow-up on the angle, announcing Biesiad for a five-way match at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md), with a caveat that Biesiad might not make it due to his arrest.
 
 The storyline continued with Biesiad's Instagram account taken over (in kayfabe) by PM Shooter, and all the posts and stories on it written from their point of view. Via Insta-stories, they announced that Biesiad was granted a leave for the Legacy show.
 
@@ -47,7 +47,7 @@ On 23.04.2025 PpW announced that at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ost
 
 Once again, Biesiad made his entrance chained and escorted by the PM Shooter crew. With both competitors getting hyped up for the upcoming fight, a recap of Biesiad's escape attempt and Mister Z's deals was shown on the venue's big screen. The PM Shooter crew remained at ringside. Mister Z as referee played favorites for Mr Power Up, ignoring his obvious breaking of the rules. Against all odds Biesiad won the match, despite Mister Z's best efforts to count slowly.
 
-Post-match, one of the PM Shooter members - apparently the leader - voiced his frustration with Mr Power Up's performance and demanded compensation for the job. Mister Z said that due to the job's failure the deal was off and they wouldn't get the amulet. The PM Shooter leader reminds Z that they would get their compensation one way or the other. They surrounded the ring and attacked Mister Z, while Biesiad suddenly made the save. The two bitter opponents fought side by side just for a minute as crowd chanted "Power of friendship". Coming from each side of the ring, they suddenly bumped their backs and realized what'd just happened. They quickly broke contact and faced off. Biesiad grabbed the mic and gave Z an ultimatum - either he gives Biesiad a match at [Ledwo Legalne 5](content/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), or gets beaten up there and then. Mister Z begrudgingly accepted and gave Biesiad the choice of stipulation, immediately announced as a "Cieśla Match" (_Carpenter Match_).
+Post-match, one of the PM Shooter members - apparently the leader - voiced his frustration with Mr Power Up's performance and demanded compensation for the job. Mister Z said that due to the job's failure the deal was off and they wouldn't get the amulet. The PM Shooter leader reminds Z that they would get their compensation one way or the other. They surrounded the ring and attacked Mister Z, while Biesiad suddenly made the save. The two bitter opponents fought side by side just for a minute as crowd chanted "Power of friendship". Coming from each side of the ring, they suddenly bumped their backs and realized what'd just happened. They quickly broke contact and faced off. Biesiad grabbed the mic and gave Z an ultimatum - either he gives Biesiad a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), or gets beaten up there and then. Mister Z begrudgingly accepted and gave Biesiad the choice of stipulation, immediately announced as a "Cieśla Match" (_Carpenter Match_).
 
 ### Johnny's fate
 
@@ -55,7 +55,7 @@ After the show, as [Michael HT](@/w/michael-ht.md) was about to deliver his part
 
 ### Aftermath
 
-In the interviews at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad and Mister Z declared truce to deal with their PM Shooter problem. However, this was not followed up in the build-up to [Ledwo Legalne 5](content/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) and the story was seemingly quietly dropped.
+In the interviews at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad and Mister Z declared truce to deal with their PM Shooter problem. However, this was not followed up in the build-up to [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) and the story was seemingly quietly dropped.
 
 ## References
 

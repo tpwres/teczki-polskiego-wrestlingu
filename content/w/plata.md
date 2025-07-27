@@ -34,7 +34,7 @@ With _rookie_ still part of his billing Bartosz continued to appear regularly, b
 
 #### Beginnings of a proper singles run
 
-Starting at [PpW Turniej TypeShit](content/e/ppw/2025-07-05-ppw-turniej-typeshit.md), Plata began a series of challenges dubbed "Wielkie Testy Platy" (_Plata's Grand Trials_), demanding challenging matches against strong opponents. In Chapter 1 of the series he faced the new [PpW Champion](@/c/ppw-championship.md), [Goblin](@/w/goblin.md), in a non-title match. Despite losing, he showed his fighting spirit, pushing the champion to his limits.
+Starting at [PpW Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), Plata began a series of challenges dubbed "Wielkie Testy Platy" (_Plata's Grand Trials_), demanding challenging matches against strong opponents. In Chapter 1 of the series he faced the new [PpW Champion](@/c/ppw-championship.md), [Goblin](@/w/goblin.md), in a non-title match. Despite losing, he showed his fighting spirit, pushing the champion to his limits.
 
 ### Legacy of Wrestling (2025-)
 

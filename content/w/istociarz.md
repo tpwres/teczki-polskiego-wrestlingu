@@ -39,7 +39,7 @@ Along with moving to the live formula, their style also changed. Istociarz (then
 
 After Martyna became an [Ewenement Dojo](@/o/ewenement-dojo.md) trainee, the relationship between Istota Wrestlingu and [PpW](@/o/ppw.md) gradually started growing. The channel featured PpW angles (notably - [Gustav Gryffin ](@/w/gustav-gryffin.md) [attacking][flecizm-stosowany] [Goblin](@/w/goblin.md) during his interview, in a build-up to their match) and more PpW wrestlers (both live and in exclusive interviews). [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) called the channel biased and a "PpW's propaganda machine", rejecting an interview invitation (alternatively claiming he'd never heard of the channel and never received an invitation).
 
-On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would be added to the PpW commentary team. Joining [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](content/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at every show since. He also works on various aspects of the events, such as preshow direction, video production and conducting interviews with fans.
+On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would be added to the PpW commentary team. Joining [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at every show since. He also works on various aspects of the events, such as preshow direction, video production and conducting interviews with fans.
 
 ## References
 

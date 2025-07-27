@@ -81,7 +81,7 @@ In their match at the show, Zombie Johnny had a striking new look, and was also 
 
 ### Dream Factory Wrestling (2017)
 
-In September 2017 Johnny, under his masked alias Black Orion, made a one-off [DFW](@/o/dfw.md) appearance when he took part in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](content/e/dfw/2017-09-30-dfw-anniversary.md).
+In September 2017 Johnny, under his masked alias Black Orion, made a one-off [DFW](@/o/dfw.md) appearance when he took part in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md).
 
 ### Maniac Zone Wrestling (2024)
 

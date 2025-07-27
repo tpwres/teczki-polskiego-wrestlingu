@@ -29,7 +29,7 @@ She was portrayed as an independent girlboss who is running a "talent agency" ma
 From her debut onwards she started making rather regular appearances by Oskar's side, often helping him gain advantage by any means necessary.
 She was also responsible for setting him up in matches against PpW's top performers, such as [Gabriel Queen](@/w/gabriel-queen.md) or The Legend [Vic Golden](@/w/vic-golden.md), thanks to her ability to cut good deals with PpW's producer [Mister Z](@/w/mister-z.md).
 
-During the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](content/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) she was at Oskar's side during his entrance. When it turned out that she hadn't prepared a weapon for Oskar, she was used as a weapon herself, delivering multiple groin kicks to Oskar's opponents.
+During the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) she was at Oskar's side during his entrance. When it turned out that she hadn't prepared a weapon for Oskar, she was used as a weapon herself, delivering multiple groin kicks to Oskar's opponents.
 
 #### In-ring debut
 
