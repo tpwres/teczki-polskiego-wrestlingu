@@ -55,7 +55,7 @@ toclevel = 2
 - - 'Love Vonce'
   - 'Polski Niedźwiedź'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Dawid "Puncher" Seńko](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - 'Mercedes Moné'
+  - '[Mercedes Moné](@/w/mercedes-mone.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - g: 'Nietykalni try to steal the spotlight, women and babyfaces get rid of them.'
 - - '[Mercedes Moné](@/w/mercedes-mone.md)' 
