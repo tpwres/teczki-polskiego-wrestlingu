@@ -27,11 +27,11 @@ The tournament actually started at [PTW: Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 
 Although there were no tournament matches since [PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), PTW keeps bringing the tournament up in their programming, reiterating it is still on.
 
-Right before [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Bestya Slam posted on their social media an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong, talking about the match with Moné. They mention the championships that are going to be contested, which are visible hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped - as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
+Right before [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Bestya Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, talking about the match with Moné. They mention the championships that are going to be contested, which are shown hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped, as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
 
 ## Belt design
 
-On 27.05, the belt design was [revealed in Instagram posts](https://www.instagram.com/p/DMm8yPStGKb/?img_index=1) by Bestya Slam. It includes the eliptic plate with PTW logo, mainly in black with pink accents and pink crown on top. Visible is the octagonal strap, possibly repurposed from initial [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
+On 27.07.2025, the belt design was revealed in an [Instagram posts](https://www.instagram.com/p/DMm8yPStGKb/) by Bestya Slam. It includes an elliptic plate with PTW logo, mainly in black with pink accents and a pink crown on top. Visible is the octagonal strap, possibly repurposed from the initial [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
 
 ## Title history
 
