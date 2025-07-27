@@ -31,7 +31,7 @@ Right before [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mon
 
 ## Belt design
 
-On 27.05, the belt design was [revealed in Instagram posts](https://www.instagram.com/p/DMm8yPStGKb/?img_index=1) by Bestya Slam. It includes the eliptic plate with PTW logo, mainly in black with pink accents and pink crown on top. Visible is the octagonal strap, possibly repurposed from initial [PTW Tag Team Championship](@/w/ptw-tag-team-championship.md) belts.
+On 27.05, the belt design was [revealed in Instagram posts](https://www.instagram.com/p/DMm8yPStGKb/?img_index=1) by Bestya Slam. It includes the eliptic plate with PTW logo, mainly in black with pink accents and pink crown on top. Visible is the octagonal strap, possibly repurposed from initial [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
 
 ## Title history
 
