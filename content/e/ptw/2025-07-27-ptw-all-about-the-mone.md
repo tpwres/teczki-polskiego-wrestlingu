@@ -31,20 +31,20 @@ toclevel = 2
 * On 26.07 2025 PTW [confirmed][meet-n-greet] the prices for the meet'n'greet with Mercedes Moné: $50 or 180&nbsp;PLN, paid on entry.
 * Right before the show, Bestya Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, talking about the match with Moné. They mention the championships that are going to be contested, which are shown hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped - as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
 
-## Predicted card
+## Card
 
 {% card %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - g: 'Okoński and Pawłowski bickering which Chairman to open the show. Pawłowski confirms Women's Championship Tournament is off'
-- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
-  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
+  - g: 'Okoński and Pawłowski bicker which Chairman should open the show. Pawłowski confirms Women's Championship Tournament is off.'
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
+  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: 'Tag Team Match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '_rookie_Bumper, _rookie_ Dropper, _rookie_ Boguś'
-  - s: 'Handicap match'
+  - s: 'Three-On-One Handicap match'
 - - '[Spartan](@/w/spartan.md)'
   - 'Daz Black'
 - - '[Daniel Razor](@/w/daniel-razor.md)'
@@ -54,10 +54,10 @@ toclevel = 2
     s: 'Triple Threat Match'
 - - 'Love Vonce'
   - 'Polski Niedźwiedź'
-- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Dawid "Puncher" Seńko](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - 'Mercedes Moné'
   - '[Diana Strong](@/w/diana-strong.md)'
-  - g: Nietykalni try to steal the spotlight, women and babyfaces get rid of them
+  - g: 'Nietykalni try to steal the spotlight, women and babyfaces get rid of them'
 - - '[Mercedes Moné](@/w/mercedes-mone.md)' 
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: |
@@ -65,7 +65,7 @@ toclevel = 2
        [PTW Women's Championship](@/c/ptw-womens-championship.md)
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
-  - g: Pawłowski berates Diana and announces match against Puncher as a punishment for next show. 
+  - g: 'Pawłowski berates Diana and announces a match against Puncher at the next show as punishment.'
 - credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
