@@ -26,7 +26,10 @@ toclevel = 2
 * After first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the show tickets do not include the meet-and-greet, which will be a separate event.
 * The poster for the show includes [Diana Strong](@/w/diana-strong.md) and Moné side by side, suggesting their match might be for the GLAM! Championship, currently held by Diana.
 * On 23.07.2025 PTW [announced][wiela-pasow-bydzie] that the stakes of Diana vs Mercedes will be "more than one championship belt", although no further details were given.
+* On 24.07.2025, Italian partner federation Bestya Slam [confirmed][pas-wloski] that their new Women's Championship will be on the line
 * On 25.07.2025 PTW announced a new tag team to compete for the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md): Miyagi Sigma, consisting of [Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md), taking on the current champions, [Royal Rebels](@/tt/royal-rebels.md).
+* On 26.07 2025 PTW [confirmed][meet-n-greet] the prices for meet'n'greet with Mercedes Moné: $50 or 180 PLN, paid on entry.
+* Right before the show, Bestya Slam posted on their social media an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong, talking about the match with Moné. They mention the championships that are going to be contested, which are visible hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped - as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
 
 ## Predicted card
 
@@ -45,8 +48,8 @@ toclevel = 2
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Mercedes Moné'
   - c: |
-       TBA Championship 1,
-       TBA Championship 2
+       Bestya Women's Championship,
+       [PTW Women's Championship](@/c/ptw-womens-championship.md)
     nc: upcoming
 {% end %}
 
@@ -62,3 +65,6 @@ toclevel = 2
 
 [mercedes-przyjedzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid035nmpW9kgwtyj6hvmq4JPZwm7CQSYEbARkuQbnDNtuyprhHmhLXBjWgFLnQNg2or4l
 [wiela-pasow-bydzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02N75gHCMJDbg3qBv4s4xUnjC121aWfjS1nUui7ejTH3PQGk2g9Zs68yuXrDtPGsV1l
+[meet-n-greet]: https://www.facebook.com/photo?fbid=791768616509116&set=a.136592412026743
+[pas-wloski]: https://www.instagram.com/p/DMddLGltn2a/
+[pasy-ziemi-wloskiej-i-wolski]: https://www.instagram.com/p/DMm1vhntZQn/
