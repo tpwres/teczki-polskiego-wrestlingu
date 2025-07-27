@@ -65,7 +65,7 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
   - '"Starboy" Nano Lopez'
   - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Bat Lesya Sullivan'
   - s: 'Triple Threat Match'
-    en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)
+    en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-07-27
 {% end %}
 
