@@ -8,7 +8,10 @@ toclevel = 2
 country = ["US"]
 +++
 
+Mercedes Moné is an American professional wrestler, best known for her time in [WWE](@/o/wwe.md) as Sasha Banks between 2012 and 2022. Later she also competed in New Japan Pro Wrestling, World Wonder Ring Stardom, and All Elite Wrestling, as well as several smaller independent promotions worldwide.
+
 ## Basic info
+
 * Years active: 2010-present
 * Gimmicks/nicknames:
   - Mercedes Moné {{ org_badge(org='ptw') }}
@@ -17,9 +20,9 @@ country = ["US"]
 
 ### Prime Time Wrestling (2025-)
 
-At [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) it was first announced that Moné was coming to PTW the following week. Initially met with disbelief, this was quickly confirmed by both parties and [PTW: All About the Moné](content/e/ptw/2025-07-27-ptw-all-about-the-mone.md) was announced.
+At [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) it was first announced that Moné was coming to PTW the following week. Initially met with disbelief, the news was quickly confirmed by both parties and [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) was announced.
 
-In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md) for the inaugural Bestya Women's Championship. At the same show, it was announced that [PTW Women's Championship](content/c/ptw-womens-championship.md) tournament is off the books and the title was added as to the stakes of Moné vs Strong. Moné won in a competitive main event to capture both championships.
+In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md) for the inaugural Bestya Women's Championship. At the same show, it was announced that [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament is off the books, and the title was added to the stakes of Moné vs Strong. Moné won in a competitive main event to capture both championships.
 
 ## In wrestling
 
@@ -39,11 +42,11 @@ In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md)
 ## Internet presence
 
 * [Official website](https://mercedesmone.com/)
-* [Instagram](https://www.instagram.com/mercedesmone/)
+* [mercedesmone](https://www.instagram.com/mercedesmone/) on Instagram
 * [YouTube](https://www.youtube.com/@CEOMercedesMone)
 * [ProWrestlingTees](https://www.prowrestlingtees.com/mercedesmone)
-* [Twitter/x]([https://mercedesmone.com/](https://x.com/MercedesVarnado))
+* [@MercedesVarnado](https://x.com/MercedesVarnado) on Twitter/X
 
 ## References
 
-* [Cagematch](https://www.cagematch.net/?id=2&nr=10962)
+* [Cagematch profile](https://www.cagematch.net/?id=2&nr=10962)
