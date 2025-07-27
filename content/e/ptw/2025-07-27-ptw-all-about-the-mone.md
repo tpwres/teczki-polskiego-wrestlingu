@@ -33,7 +33,7 @@ toclevel = 2
 
 ## Card
 
-{% card %}
+{% card() %}
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
@@ -43,7 +43,7 @@ toclevel = 2
   - s: 'Tag Team Match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '_rookie_Bumper, _rookie_ Dropper, _rookie_ Boguś'
+  - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ Boguś'
   - s: 'Three-On-One Handicap match'
 - - '[Spartan](@/w/spartan.md)'
   - 'Daz Black'
