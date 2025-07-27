@@ -28,8 +28,8 @@ toclevel = 2
 * On 23.07.2025 PTW [announced][wiela-pasow-bydzie] that the stakes of Diana vs Mercedes will be "more than one championship belt", although no further details were given.
 * On 24.07.2025, Italian partner federation Bestya Slam [confirmed][pas-wloski] that their new Women's Championship will be on the line
 * On 25.07.2025 PTW announced a new tag team to compete for the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md): Miyagi Sigma, consisting of [Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md), taking on the current champions, [Royal Rebels](@/tt/royal-rebels.md).
-* On 26.07 2025 PTW [confirmed][meet-n-greet] the prices for meet'n'greet with Mercedes Moné: $50 or 180 PLN, paid on entry.
-* Right before the show, Bestya Slam posted on their social media an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong, talking about the match with Moné. They mention the championships that are going to be contested, which are visible hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped - as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
+* On 26.07 2025 PTW [confirmed][meet-n-greet] the prices for the meet'n'greet with Mercedes Moné: $50 or 180&nbsp;PLN, paid on entry.
+* Right before the show, Bestya Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, talking about the match with Moné. They mention the championships that are going to be contested, which are shown hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md). This suggests that the tournament was heavily changed or even effectively scrapped - as Diana is the only one qualified to the finals and the other semi-final did not happen yet.
 
 ## Predicted card
 
