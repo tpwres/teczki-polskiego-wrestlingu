@@ -83,7 +83,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
 ## References

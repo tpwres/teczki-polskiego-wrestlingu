@@ -70,7 +70,7 @@ toclevel = 2
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
     Bestya Wrestling promotor: 'Alessandro Maria Bosio'
 {% end %}
 

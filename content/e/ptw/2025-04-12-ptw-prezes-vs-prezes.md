@@ -61,7 +61,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
     Special Guest Referee: '[Andrzej Supron](@/w/andrzej-supron.md)'
     Special Referee: 'Daniele Specchiulli'
     Referee: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-    Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
 {% end %}
 

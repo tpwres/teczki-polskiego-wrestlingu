@@ -60,7 +60,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-    Commentary: 'Krystian "Resivny" Smoleń, Adam Goldschmidt'    
+    Commentary: '[Krystian "Resivny" Smoleń](@/w/resivny.md), [Adam Goldschmidt](@/w/adam-goldschmidt.md)'
 {% end %}
 
 ### Recap

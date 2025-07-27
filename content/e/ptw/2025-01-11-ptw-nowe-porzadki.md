@@ -62,7 +62,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
-    Commentary: 'Adam Goldschmidt, Krystian "Resivny" Smoleń'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
 ## References
