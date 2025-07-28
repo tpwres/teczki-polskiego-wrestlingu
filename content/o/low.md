@@ -85,7 +85,9 @@ In October 2024 Legacy started unveiling the wrestlers booked for the [first sho
 
 On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channel website - a long-time home to wrestling in Poland, which recently entered a partnership with [Prime Time Wrestling](@/o/ptw.md) to air their shows. The following day Legacy [officially confirmed][extreme-low-2] the deal, announcing that the channel became their official media partner and their [first show](@/e/low/2024-12-01-low-1.md) would air on Extreme Sports Channel a week after the event, on the 8th of December.
 
-### 2025: The second show
+### 2025
+
+#### The second show
 
 On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2". A [trailer][low-2-trailer] for the show was published on 18.02.2025, along with an announcement of [another live Q&A][live-qa-3], which took place on 19.02.2025. Again, the Q&A was hosted by [ShowOff](@/w/piotr-malecki.md).
 
@@ -117,7 +119,7 @@ On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wre
 * There might be another live Q&A before the show.
 * (There wasn't.)
 
-### Excursion to Kraków
+#### Excursion to Kraków
 
 The [third show](@/e/low/2025-07-11-low-3.md) was officially announced in the early May. Instead of taking place in Katowice on a Sunday, this time the event was held on a Friday, the first day of the anime/manga convention Ryucon. Notably, Ryucon had previously seen shows by [Prime Time Wrestling](@/o/ptw.md) on [three](@/e/ptw/2022-07-31-ptw-x-ryucon.md) [consecutive](@/e/ptw/2023-07-16-ptw-x-ryucon.md) [years](@/e/ptw/2024-07-07-ptw-x-ryucon.md). However, following [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), PTW has seemingly fallen out of favour with the organisers of the convention, and Legacy was chosen in its stead. As it was with the PTW shows, Legacy attracted random con attendees in addition to the usual wrestling fans.
 
