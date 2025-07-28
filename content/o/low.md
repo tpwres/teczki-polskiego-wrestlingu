@@ -115,6 +115,13 @@ On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wre
 * There will be matches between wrestlers from different promotions.
 * [Sinister](@/w/sinister.md) won't be the host again. There's a possibility that each show will feature a different host.
 * There might be another live Q&A before the show.
+* (There wasn't.)
+
+### Excursion to Kraków
+
+The [third show](@/e/low/2025-07-11-low-3.md) was officially announced in the early May. Instead of taking place in Katowice on a Sunday, this time the event was held on a Friday, the first day of the anime/manga convention Ryucon. Notably, Ryucon had previously seen shows by [Prime Time Wrestling](@/o/ptw.md) on [three](@/e/ptw/2022-07-31-ptw-x-ryucon.md) [consecutive](@/e/ptw/2023-07-16-ptw-x-ryucon.md) [years](@/e/ptw/2024-07-07-ptw-x-ryucon.md). However, following [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), PTW has seemingly fallen out of favour with the organisers of the convention, and Legacy was chosen in its stead. As it was with the PTW shows, Legacy attracted random con attendees in addition to the usual wrestling fans.
+
+Legacy of Wrestling vol. 3 was a proper LOW event counting towards the promotion's timeline, unlike eg. [PpW's](@/o/ppw.md) non-canonical shows such as [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md). The show featured the continuation of the Road to the Title series of matches started at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md), and the Legacy Championship was announced to be the main prize at the fourth show.
 
 ## References
 
