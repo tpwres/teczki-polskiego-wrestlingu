@@ -22,7 +22,7 @@ Mercedes Moné is an American professional wrestler, best known for her time in 
 
 At [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) it was first announced that Moné was coming to PTW the following week. Initially met with disbelief, the news was quickly confirmed by both parties and [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) was announced.
 
-In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md) for the inaugural Bestya Women's Championship. At the same show, it was announced that [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament is off the books, and the title was added to the stakes of Moné vs Strong. Moné won in a competitive main event to capture both championships.
+In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md) for the inaugural BestYa Women's Championship. At the same show, it was announced that [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament is off the books, and the title was added to the stakes of Moné vs Strong. Moné won in a competitive main event to capture both championships.
 
 ## In wrestling
 
@@ -36,7 +36,7 @@ In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md)
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - Bestya Women's Championship (1 time)
+  - BestYa Women's Championship (1 time)
   - [PTW Women's Championship](@/c/ptw-womens-championship.md) (1 time, current)
 
 ## Internet presence

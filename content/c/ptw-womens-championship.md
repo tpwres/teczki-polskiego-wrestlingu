@@ -26,10 +26,10 @@ The title was first mentioned at [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)
 The tournament actually started at [PTW: Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) and continued at the pace of one match per show. There was little transparency and no official bracket was ever presented, requiring some assumptions to be made.
 Following the first round matches, there were four contenders left: [Diana Strong](@/w/diana-strong.md), Betty Boa, Heidi Katrina and Lucia Lee. As of July 2025, only one semi-final was held, between Diana Strong, Betty Boa and Hannah Taylor at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md).
 
-In the lead to [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Italian promotion Bestya Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, in which she talked about her upcoming match with [Mercedes Moné](@/w/mercedes-mone.md).
-They mentioned the championships that were going to be contested, shown hanging on the ring ropes in the background: Bestya Women's Championship and the PTW Women's Championship. This suggested that the tournament was heavily changed or even effectively scrapped, as Diana was the only one qualified for the finals till that point.
+In the lead to [PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Italian promotion BestYa Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, in which she talked about her upcoming match with [Mercedes Moné](@/w/mercedes-mone.md).
+They mentioned the championships that were going to be contested, shown hanging on the ring ropes in the background: BestYa Women's Championship and the PTW Women's Championship. This suggested that the tournament was heavily changed or even effectively scrapped, as Diana was the only one qualified for the finals till that point.
 
-At that show, in her PTW debut, Mercedes Moné was set to challenge Diana Strong for the inaugural Bestya Women's Championship.
+At that show, in her PTW debut, Mercedes Moné was set to challenge Diana Strong for the inaugural BestYa Women's Championship.
 During the show, GM Pawłowski announced that the Women's Tournament is off the books due to an undisclosed competitor (either or both of the remaining semi-finalists: Heidi Katrina or Lucia Lee) being injured and unavailable.
 Thus, the title was put on the line for Moné vs Strong. Participants removed from the tournament were to receive their title shots later down the line.
 
@@ -37,7 +37,7 @@ Moné won in a competitive main event to capture both championships and become t
 
 ## Belt design
 
-On 27.07.2025, the belt design was revealed in an [Instagram post][pas-kobiet] by Bestya Slam. It includes an elliptic plate with the PTW logo, mainly in black with pink accents and a pink crown on top. The strap itself is black and octagonal, possibly repurposed from the initial version of the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
+On 27.07.2025, the belt design was revealed in an [Instagram post][pas-kobiet] by BestYa Slam. It includes an elliptic plate with the PTW logo, mainly in black with pink accents and a pink crown on top. The strap itself is black and octagonal, possibly repurposed from the initial version of the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
 
 ## Title history
 

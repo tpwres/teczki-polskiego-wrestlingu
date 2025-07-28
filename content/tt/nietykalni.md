@@ -46,7 +46,7 @@ On 19.07.2025 PTW promoted a show named after the faction - [PTW: Nietykalni](@/
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time; current)
   - [PTW Championship](@/c/ptw-championship.md) - Dawid "Puncher" Seńko (1 time; current)
   - PTW WWA Championship - Dawid "Puncher" Seńko (1 time; current)
-  - Bestya Slam Championship - Dawid "Puncher" Seńko (1 time; current)
+  - BestYa Slam Championship - Dawid "Puncher" Seńko (1 time; current)
   - PTW Awards 2024: Speaker of the year - Pawłowski (1 time)
   - PTW Awards 2024: Newcomer of the Year - Vincent Caravaggio (1 time)
 
