@@ -9,16 +9,19 @@ city = "Wrocław"
 toclevel = 2
 +++
 
-Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free.
+Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions cancelled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free.
 
 ## Card
 
 {% card() %}
-- ["[Rafael Kid](@/w/rafael-kid.md)", "[Nathan Cross](@/w/gabriel-queen.md)", "[Shadow](@/w/shadow.md)
-    + [Isnorr](@/w/isnorr.md)"]
-- ["[Isnorr](@/w/isnorr.md)", "[Aron Wake](@/w/aron-wake.md)"]
-- ["[Madman Charlie](@/w/madman-charlie.md)", "[Jacob Crane](@/w/jacob-crane.md)",
-  {s: "Loser Leaves MZW Best Two Out Of Three Falls"}]
+- - '[Rafael Kid](@/w/rafael-kid.md)'
+  - '[Nathan Cross](@/w/gabriel-queen.md) w/ [Isnorr](@/w/isnorr.md)'
+  - '[Shadow](@/w/shadow.md)'
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+- - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - s: 'Loser Leaves MZW Best Two Out Of Three Falls'
 - credits:
     Host: '[Konrad von Koch](@/w/konrad-von-koch.md)'
     Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'

@@ -22,15 +22,15 @@ Attendance: estimated about 300
 ## Card
 
 {% card() %}
-- - '[Asmund](@/w/asmund.md), [Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)'
-  - '[Shadow](@/w/shadow.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Szymon Siwiec](@/w/szymon-siwiec.md)'
+- - '[Asmund](@/w/asmund.md) & [Hexia](@/w/hexia.md) & [Mr B.](@/w/mr-b.md)'
+  - '[Shadow](@/w/shadow.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Szymon Siwiec](@/w/szymon-siwiec.md)'
   - s: 'Six Man Tag Team Elimination Match'
 - - '[Lider](@/w/lider.md)'
   - '???'
   - '???'
   - s: 'Two On One Handicap Match'
-- - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md); Columbus'
-  - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+- - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md) & [Blue Thunder](@/w/blue-thunder.md); Columbus'
+  - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'

@@ -9,16 +9,20 @@ city = "Wrocław"
 toclevel = 2
 +++
 
-Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.
+Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions cancelled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.
 
 ## Card
 
 {% card() %}
-- ["[Aron Wake](@/w/aron-wake.md)", "[Madman Charlie](@/w/madman-charlie.md)", {nc: "Double
-      Count-out"}]
-- ["[Krueger](@/w/olgierd.md)", "[Isnorr](@/w/isnorr.md)", "[Rafael Kid](@/w/rafael-kid.md)",
-  {s: "Three Way Match"}]
-- ["[Prince Victor](@/w/vic-golden.md)", "[Shadow](@/w/shadow.md)"]
+- - '[Aron Wake](@/w/aron-wake.md)'
+  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - nc: 'Double Count-out'
+- - '[Krueger](@/w/olgierd.md)'
+  - '[Isnorr](@/w/isnorr.md)'
+  - '[Rafael Kid](@/w/rafael-kid.md)'
+  - s: 'Three Way Match'
+- - '[Prince Victor](@/w/vic-golden.md)'
+  - '[Shadow](@/w/shadow.md)'
 - credits:
     Host: '[Konrad von Koch](@/w/konrad-von-koch.md)'
     Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'

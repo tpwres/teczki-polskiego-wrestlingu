@@ -20,10 +20,15 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
 ## Card
 
 {% card() %}
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Kowboj Luke](@/w/red-thunder.md)"]
-- ["[Hexia](@/w/hexia.md)", "Mario Rodriguez"]
-- ["[Polish Hammer](@/w/jedrus-bulecka.md)", "[Asmund](@/w/asmund.md)"]
-- ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)", {r: "DQ"}]
+- - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
+  - '[Kowboj Luke](@/w/red-thunder.md)'
+- - '[Hexia](@/w/hexia.md)'
+  - 'Mario Rodriguez'
+- - 'Polish Hammer](@/w/jedrus-bulecka.md)'
+  - '[Asmund](@/w/asmund.md)'
+- - 'Shadow](@/w/shadow.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
+  - r: 'DQ'
 - credits:
     Referee: '[Sędzia Piotr](@/w/mr-b.md)'
 {% end %}

@@ -16,20 +16,28 @@ source = "Official MZW Facebook"
 ## Card
 
 {% card() %}
-- ["[Deti Black](@/w/dieter-schwartz.md)", "[Apollo Anderson](@/w/apollo-anderson.md)"]
-- ["[Lady Killer](@/w/boro.md)", "[Asmund](@/w/asmund.md)", {nc: "No Contest"}]
-- ["[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)", "[Axel Fox](@/w/axel-fox.md)"]
-- ["[Asmund](@/w/asmund.md)", "[Christopher Anthony](@/w/christopher-anthony.md)",
-  "[Justin Joy](@/w/justin-joy.md)", {s: "Three Way Match"}]
-- - "[Matt Buckna](@/w/matt-buckna.md)"
-  - "[Jacob Crane](@/w/jacob-crane.md)"
+- - '[Deti Black](@/w/dieter-schwartz.md)'
+  - '[Apollo Anderson](@/w/apollo-anderson.md)'
+- - '[Lady Killer](@/w/boro.md)'
+  - '[Asmund](@/w/asmund.md)'
+  - nc: 'No Contest'
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Asmund](@/w/asmund.md)'
+  - '[Christopher Anthony](@/w/christopher-anthony.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
+  - s: 'Three Way Match'
+- - '[Matt Buckna](@/w/matt-buckna.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
   - s: Falls Count Anywhere Match
-- ["Shane Baker", "Gabriel Magic"]
-- - "[Shadow](@/w/shadow.md)"
-  - "[Damien Rothschild](@/w/damien-rothschild.md)"
-  - "[Madman Charlie](@/w/madman-charlie.md)"
-  - "[Rafael Kid](@/w/rafael-kid.md)"
-  - {c: "MZW Championship", s: "Tournament Final Four Way Match"}
+- - 'Shane Baker'
+  - 'Gabriel Magic'
+- - '[Shadow](@/w/shadow.md)'
+  - '[Damien Rothschild](@/w/damien-rothschild.md)'
+  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Rafael Kid](@/w/rafael-kid.md)'
+  - c: '[MZW Championship](@/c/mzw-championship.md)'
+    s: 'Tournament Final Four Way Match'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Referee: '[Sędzia Matt2Hot](@/w/matt2hot.md)'
