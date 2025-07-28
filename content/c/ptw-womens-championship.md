@@ -91,9 +91,10 @@ Never took place, as the tournament was cancelled.
 ### Champion #1: Mercedes Moné
 
 {% free_card() %}
-- - 'Mercedes Moné'
+- - '[Mercedes Moné](@/w/mercedes-mone.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
-  - en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+  - s: Singles Match
+    en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-07-27
 {% end %}
 
