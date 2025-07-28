@@ -52,6 +52,9 @@ class TextBlock(Block):
         full_text = ''.join(self.body)
         return f'<TextBlock@{self.starting_line} {shorten(full_text, 40)}>'
 
+    @property
+    def title(self):
+        return self.params
 
 
 @register_block('card')

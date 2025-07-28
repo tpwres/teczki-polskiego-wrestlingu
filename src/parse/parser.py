@@ -20,7 +20,6 @@ class RichDocParser:
     def parse_file(self, path: Path|PurePath) -> Optional[RichDoc]:
         with self.logger.parsing_context("parse_file", path.as_posix()):
             if not path.exists():
-                breakpoint()
                 self.logger.log_error(f"File {path} not found")
                 return None
 
@@ -28,9 +27,9 @@ class RichDocParser:
                 with path.open('r') as fp:
                     result = self.parse_stream(fp, path.as_posix())
 
-                    if self.logger.has_errors():
-                        self.logger.log_warning("Parsed with errors")
-                        self.logger.print_report(sys.stderr)
+                    # if self.logger.has_errors():
+                    #     self.logger.log_warning("Parsed with errors")
+                    #     self.logger.print_report(sys.stderr)
 
                     return result
             except Exception as e:
@@ -127,7 +126,7 @@ class RichDocParser:
 
     def block_closed(self, line_num: int):
         if not self.current_block:
-            self.logger.log_error("Block close found before block was opened", line_num=line_num)
+            self.logger.log_error("Block close found before block was opened", line_number=line_num)
             return
 
         self.sections.append(Section(
@@ -140,7 +139,7 @@ class RichDocParser:
             self.current_block.close()
         except Exception as e:
             # TODO: This may have precise location information
-            self.logger.exception(e, "Could not parse block body", line_num=self.current_block.starting_line)
+            self.logger.exception(e, "Could not parse block body", line_number=self.current_block.starting_line)
         finally:
             self.current_block = None
             self.last_section_title = None
@@ -157,7 +156,7 @@ class RichDocParser:
 
         if self.current_block:
             block_str = "{block}({params})" if params else block
-            self.logger.error(f"Opening new block {block_str} before closing previous one", line_num=line_num)
+            self.logger.log_error(f"Opening new block {block_str} before closing previous one", line_number=line_num)
         self.current_block = self.create_block(block, params, line_num)
 
     def section_header(self, title, line, line_num):
@@ -183,7 +182,7 @@ class RichDocParser:
     def frontmatter_delimiter(self, line_num):
         if self.current_block:
             if not isinstance(self.current_block, FrontMatterBlock): # Unlikely
-                self.logger.log_error("Encountered front matter delimiter outside of a FrontMatterBlock", line_num=line_num)
+                self.logger.log_error("Encountered front matter delimiter outside of a FrontMatterBlock", line_number=line_num)
 
             # Closing a block adds it to sections
             self.block_closed(line_num)

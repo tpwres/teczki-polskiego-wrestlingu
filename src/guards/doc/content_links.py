@@ -24,11 +24,9 @@ class ContentLinks(Base):
                 if link.dest_type != 'uri':
                     continue
 
-                breakpoint()
                 formatted_link = "".join(renderer.render(link)).rstrip()
 
                 if link.target.startswith('content/'):
-                    breakpoint()
                     self.report_content_link(formatted_link, linenum, block.starting_line)
                 elif link.target.startswith('@') and self.destination_file_missing(link.target):
                     self.report_missing_target(formatted_link, linenum, block.starting_line)

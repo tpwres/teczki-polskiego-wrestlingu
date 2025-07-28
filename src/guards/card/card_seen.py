@@ -5,6 +5,12 @@ from parse import blocks
 from card import Card
 
 class CardSeen(Base):
+    @classmethod
+    def accept_path(cls, path: Path):
+        is_event_article = path.is_relative_to('content/e')
+
+        return is_event_article
+
     def __init__(self):
         super().__init__()
         self.card_seen = False

@@ -3,11 +3,14 @@ from pathlib import Path
 from sys import exit
 from typing import Iterable
 import logging
+import tempfile
+import json
+import os
 
 from guards.main.base import Base
 from guards.main.registry import ClassRegistry
 from parse.parser import RichDocParser, Section
-from parse.logger import RichDocLogger, ParseIssue
+from parse.logger import RichDocLogger, ParseIssue, IssueLevel
 from parse import blocks
 
 def expand_targets(args):
@@ -45,7 +48,6 @@ class GuardLogger(RichDocLogger):
         return message
 
 def run_guards(guards: list, targets: Iterable[Path]):
-    issues = []
     logger = GuardLogger()
     for target in targets:
         guards_to_run = [guard for guard in guards if guard.accept_path(target)]
@@ -79,8 +81,9 @@ def run_guards(guards: list, targets: Iterable[Path]):
                             guard.validate_text(block)
 
                 guard.finalize()
-        breakpoint()
-        break
+
+    success = any(issue.level == IssueLevel.ERROR or issue.level == IssueLevel.FATAL for issue in logger.issues)
+    return success, logger.issues
 
 def build_argparser():
     parser = ArgumentParser(
@@ -108,8 +111,34 @@ def main():
     targets = expand_targets(args.event_files)
     guards = list(plugins.registry.values())
 
-    success = run_guards(guards, targets)
-    exit(0 if success else 1)
+    success, issues = run_guards(guards, targets)
+    if running_github_actions():
+       fd, tmpname = tempfile.mkstemp(suffix='.json', prefix='guardian_lint')
+       with os.fdopen(fd, 'w') as fp:
+           fp.write(json.dumps(ci_format_issues(issues)))
+       print_github_output('report_file', tmpname)
+    else:
+        exit(0 if success else 1)
+
+def running_github_actions():
+    return os.getenv('GITHUB_OUTPUT')
+
+def ci_format_issues(issues: list[ParseIssue]):
+    return [
+        {
+            "path": issue.location,
+            "message": issue.message
+        } | ({ "line": issue.line_number } if issue.line_number else {})
+        for issue in issues
+    ]
+
+def print_github_output(key: str, value: str):
+    gh_output_filename = os.getenv('GITHUB_OUTPUT')
+    if not gh_output_filename: return
+
+    with open(gh_output_filename, 'a') as fp:
+        fp.write(f"{key}={value}\n")
+
 
 if __name__ == "__main__":
     main()
