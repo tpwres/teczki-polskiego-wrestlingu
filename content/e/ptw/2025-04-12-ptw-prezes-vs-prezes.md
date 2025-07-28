@@ -28,7 +28,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: 'Caravaggio quits PTW'
 - - '[Alex Brave](@/w/alex-brave.md)'
-  - 'LaVonce'
+  - '[LaVonce](@/w/lavonce.md)'
 - - 'Mikk Vainula'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - n: Vainula won due to Serg Sullivan's distraction
