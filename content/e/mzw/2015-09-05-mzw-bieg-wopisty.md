@@ -18,16 +18,18 @@ This event was a sideshow accompanying III Bieg WOP-isty (a cross-country half-m
 ## Card
 
 {% card() %}
-- ["[Red Thunder](@/w/red-thunder.md)", "[Kripto](@/w/kripto.md)"]
-- ["Ronzen", "The Black Phantom"]
-- - "[Szymon Siwiec](@/w/szymon-siwiec.md)"
-  - "[Mr B.](@/w/mr-b.md); [Hexia](@/w/hexia.md)"
-  - r: "DQ"
-- ["[Robert Kaiser](@/w/robert-kaiser.md)", "[Dynamite Dave](@/w/dynamite-dave.md)"]
-- - "[Franz Engel](@/w/franz-engel.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Shadow](@/w/shadow.md)"
-  - "[Justin Joy](@/w/justin-joy.md) + Posse In Effect: [Rick Baxxter](@/w/rick-baxxter.md),
-    [The Grannatic](@/w/the-grannatic.md)"
-  - s: "Six Man Tag Team Match"
+- - '[Red Thunder](@/w/red-thunder.md)'
+  - '[Kripto](@/w/kripto.md)'
+- - 'Ronzen'
+  - 'The Black Phantom'
+- - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
+  - '[Mr B.](@/w/mr-b.md); [Hexia](@/w/hexia.md)'
+  - r: 'DQ'
+- - '[Robert Kaiser](@/w/robert-kaiser.md)'
+  - '[Dynamite Dave](@/w/dynamite-dave.md)'
+- - '[Franz Engel](@/w/franz-engel.md) & [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Shadow](@/w/shadow.md)'
+  - '[Justin Joy](@/w/justin-joy.md) + Posse In Effect: [Rick Baxxter](@/w/rick-baxxter.md) & [The Grannatic](@/w/the-grannatic.md)'
+  - s: 'Six Man Tag Team Match'
 {% end %}
 
 ## References

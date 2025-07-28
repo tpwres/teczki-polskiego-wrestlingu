@@ -9,6 +9,10 @@ city = "Legnica"
 toclevel = 2
 +++
 
+Podziemny Krąg (_The Underground Circle_) was a show by [Maniac Zone Wrestling](@/o/mzw.md).
+
+The event's name refers to David Fincher's 1999 film [Fight Club][walka-o-mydlo], whose Polish title is _Podziemny krąg_.
+
 ## Card
 
 {% card() %}
@@ -28,3 +32,5 @@ toclevel = 2
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=362830)
 * [Youtube recap video](https://www.youtube.com/watch?v=KVnSKos72hs)
+
+[walka-o-mydlo]: https://en.wikipedia.org/wiki/Fight_Club

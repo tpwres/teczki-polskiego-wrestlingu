@@ -11,7 +11,7 @@ toclevel = 2
 1 = { path = "wyciskanie-sztangi-banner.jpg", caption = "Official banner.", source = "Jędruś Bułecka @ Facebook" }
 +++
 
-This event was a sideshow accompanying Wyciskanie Sztangi (_Pressing the Barbell_), a weight-lifting bench press competition held in [Głuchołazy](@/v/gosir-glucholazy.md).
+This event was a sideshow accompanying Wyciskanie Sztangi (lit. _Pressing the Barbell_, or roughly _Pumping Iron_), a weight-lifting bench press competition held in [Głuchołazy](@/v/gosir-glucholazy.md).
 
 ## Card
 

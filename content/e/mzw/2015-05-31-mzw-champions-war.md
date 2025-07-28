@@ -28,22 +28,25 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
 ## Card
 
 {% card() %}
-- ["[Kevin Williams](@/w/kevin-williams.md)", "[Asmund](@/w/asmund.md)"]
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", "[Mr B.](@/w/mr-b.md)"]
-- ["[Red Thunder](@/w/red-thunder.md)", "[Kripto](@/w/kripto.md)"]
-- - "Projekt Gold: Nickolas von Rijk, [Robert Kaiser](@/w/robert-kaiser.md)"
-  - "[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)"
-  - c: "Belgium Pro Wrestling Federation Championship"
-    s: "Tag Team Match"
+- - '[Kevin Williams](@/w/kevin-williams.md)'
+  - '[Asmund](@/w/asmund.md)'
+- - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
+  - '[Mr B.](@/w/mr-b.md)'
+- - '[Red Thunder](@/w/red-thunder.md)'
+  - '[Kripto](@/w/kripto.md)'
+- - 'Projekt Gold: Nickolas von Rijk & [Robert Kaiser](@/w/robert-kaiser.md)'
+  - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - c: 'Belgium Pro Wrestling Federation Championship'
+    s: 'Tag Team Match'
 - - >
-    Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md), Laurance Roman
-    + Catch Connection: [Alexander Reich](@/w/alex-ace.md), [Ronny Kessler](@/w/ronny-kessler.md)
+    Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md) & Laurance Roman
+    + Catch Connection: [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)
   - >
-    Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)
+    Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md) & [The Grannatic](@/w/the-grannatic.md)
     + [Dynamite Dave](@/w/dynamite-dave.md) + Ilja Dragunov
-  - s: "Eight Man Tag Team Match"
-- - "[Hexia](@/w/hexia.md)"
-  - "Akira"
+  - s: 'Eight Man Tag Team Match'
+- - '[Hexia](@/w/hexia.md)'
+  - 'Akira'
   - nc: Ref stoppage
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md), Filip Cieśliński'
