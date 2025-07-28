@@ -28,11 +28,11 @@ toclevel = 2
 * After the first pool of tickets sold out, PTW [confirmed](https://www.facebook.com/photo?fbid=787985673554077&set=a.136592408693410) that the tickets do not include the meet-and-greet, which will be a separate event.
 * The poster for the show included [Diana Strong](@/w/diana-strong.md) and Moné side by side, suggesting their match might be for the GLAM! Championship, currently held by Diana.
 * On 23.07.2025 PTW [announced][wiela-pasow-bydzie] that the stakes of Diana vs Mercedes will be "more than one championship belt", although no further details were given.
-* On 24.07.2025, Italian partner federation Bestya Slam [confirmed][pas-wloski] that their new Women's Championship will be on the line.
+* On 24.07.2025, Italian partner federation BestYa Slam [confirmed][pas-wloski] that their new Women's Championship will be on the line.
 * On 25.07.2025 PTW announced a new tag team to compete for the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md): Miyagi Sigma, consisting of [Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md), taking on the current champions, [Royal Rebels](@/tt/royal-rebels.md).
 * On 26.07.2025 PTW [confirmed the prices][meet-n-greet] for the meet'n'greet with Mercedes Moné: $50 or 180&nbsp;PLN, paid on entry.
-* Right before the show, Bestya Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, where she talked about the match with Moné.
-  They mentioned the championships that are going to be contested, which are shown hanging on the ring ropes in the background: Bestya Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md).
+* Right before the show, BestYa Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, where she talked about the match with Moné.
+  They mentioned the championships that are going to be contested, which are shown hanging on the ring ropes in the background: BestYa Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md).
   This suggested that the tournament for the latter championship was heavily changed or even effectively scrapped - as Diana is the only one qualified to the finals, and the other semi-final did not happen yet.
 
 ## Card
@@ -65,7 +65,7 @@ toclevel = 2
 - - '[Mercedes Moné](@/w/mercedes-mone.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: |
-       Bestya Women's Championship,
+       BestYa Women's Championship,
        [PTW Women's Championship](@/c/ptw-womens-championship.md)
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
@@ -75,7 +75,7 @@ toclevel = 2
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
-    Bestya Wrestling promotor: 'Alessandro Maria Bosio'
+    BestYa Wrestling promotor: 'Alessandro Maria Bosio'
 {% end %}
 
 ## References
