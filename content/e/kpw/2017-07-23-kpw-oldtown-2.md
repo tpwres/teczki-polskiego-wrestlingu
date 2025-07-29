@@ -22,7 +22,7 @@ KPW would return to following editions of OldTown until 2019.
 ## Card
 
 {% card() %}
-- - '[Greg](@/w/greg.md) & [Peter Pannache](@/w/peter-pannache.md)'
+- - '[Greg](@/w/greg.md) + [Peter Pannache](@/w/peter-pannache.md)'
   - '[Adam Bravo](@/w/adam-bravo.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
