@@ -36,7 +36,7 @@ source = "Official MZW Facebook"
   -  'Lio Zayde'
   -  '[Chris X](@/w/chris-x.md)'
   -  '???'
-  -  s: 'Seven Man Rookie Battle Royal'
+  -  s: 'Seven Man Rookies Battle Royal'
 - - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
