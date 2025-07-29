@@ -1,7 +1,7 @@
 +++
 title = "PTW #3: Legends"
 template = "event_page.html"
-authors = ["Szymon Iwulski", "Krzysztof Zych"]
+authors = ["Szymon Iwulski", "Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ptw"]
 venue=["hala-bemowo"]
@@ -50,7 +50,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 - - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Spartan](@/w/spartan.md)'
-  - g: true
+  - g: Dziedzic declares himself the winner of the cancelled match.
 - [Samuray Del Sol, Matt Sydal]
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
@@ -69,7 +69,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 * Santino was named the new co-owner of Prime Time Wrestling by Pawłowski. Bad Bones, officially released on the previous show, entered the ring to attack Santino, but was quickly escorted out by security.
 * After Hendry vs Seven, the Kinguin mascot, previously wading among the audience and posing for photos, entered the ring area and started to circle it erraticaly. Hendry inspected it, and revealed that it was Taxi Złotówa wearing it. Złotówa prostrated and begged Pawłowski to reinstate him. Pawłowski refused, and Złotówa was dragged out by security.
 * [Krampus](@/w/krampus.md) interfered against Nano Lopez, to align himself with Sinister.
-* Samson was not medically cleared, which resulted in their scheduled match being cancelled. Dziedzic and Longman made their entrance, and cut a promo bragging about injuring samson. Then they declare Dziedzic the winner by countout. Samson appeared, for a staredown with Longman. After Longman left, Spartan appeared, and laid Dziedzic out with a Spartan Bomb.
+* Samson was not medically cleared, which resulted in their scheduled match being cancelled. Dziedzic and Longman made their entrance, and cut a promo bragging about injuring Samson. Then they declare Dziedzic the winner and force [Sędzia Seweryn](@/w/sedzia-seweryn.md) to start counting Samson out. Spartan then appeared mid-count and berated Dziedzic, but was prevented from attacking him by Longman. However, Longman then stated that Dziedzic paid him for Samson, but could not afford his services against Spartan. Longman left, leaving Dziedzic alone in the ring with Spartan, who laid Dziedzic out with a Spartan Bomb. Finally, Dziedzic starts arguing with Samson outside of the ring, only to be hit by him with his injured hand in a cast.
 
 ## References
 

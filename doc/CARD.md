@@ -4,10 +4,10 @@
 2. These start and end symbols must be on separate lines.
 3. Between these symbols, the card is a [YAML](https://yaml.org) document, which must be a list.
 4. Each element of that list, is itself a list of participants. The final element may be a map of options, which are useful if the match is not a simple singles match. See relevant section below.
-5. The first element of that list must be the winner (or winners, if a tag team) of the match
+5. The first element of that list must be the winner (or winners, if a tag team) of the match.
 6. Talent names in the list may be specified as either plain names like `"John Doe"`, or Markdown links to talent pages like `"[John Doe](@/w/john-doe.md)"`.
 7. Linking to a non-existent page is an error, which is caught during the build process. The talent page must be created first.
-8. In the rare event that an event intentionally has no card (mostly for upcoming events), replace the card block with `{{ skip_card() }}`
+8. In the rare event that an event intentionally has no card (mostly for upcoming events), replace the card block with `{{ skip_card() }}`.
 
 `{% card() %}` may also indicate that the card is unofficial, predicted or incomplete. This is done by passing exactly one of `predicted=true`, `unofficial=true`, `incomplete=true`, for example:
 
@@ -57,40 +57,42 @@ However, nested block-style is most readable, and the recommended way to note al
 
 ## Tag teams and groupings of people
 
-In tag-team matches, we may want to list the participants as a team. To do this, separate the tag member names with commas and spaces, and prefix them with the tag team name and a colon. Because we use a colon, quotes are mandatory in both notations here.
+In tag-team matches, we may want to list the participants as a team. To do this, separate the tag member names with ampersands (`&`), and prefix them with the tag team name and a colon. Because we use a colon, quotes are mandatory in both notations here.
 
 ```
-"Maki Death Kill: Maki Itoh, Nick Gage"
+"Maki Death Kill: Maki Itoh & Nick Gage"
 ```
 
 If a single side of the match contains more than one tag team, separate them with plus signs `+`:
 
 ```
-"Best Friends: Chuck Taylor, Trent Beretta + Dark Order: Alex Reynolds, Evil Uno, John Silver"
+"Best Friends: Chuck Taylor & Trent Beretta + Dark Order: Alex Reynolds, Evil Uno, John Silver"
 ```
 
 The same notation can be used for single people added to the team
 
 ```
-"FTR: Cash Wheeler, Dax Harwood + Mark Briscoe"
+"FTR: Cash Wheeler & Dax Harwood + Mark Briscoe"
 ```
 
-But when it's an ad-hoc team, it's fine to use commas:
+When it's an ad-hoc team without the name, also use ampersands:
 
 ```
-"Hikaru Shida, Skye Blue, Willow Nightingale"
+"Hikaru Shida & Skye Blue & Willow Nightingale"
 ```
+
+Note: The same notation should be applied in entries for the [Tag Team Championships](https://tpwres.pl/c/).
 
 ## Roles in the match
 
-Except for segments, each side has at least one fighter in the match. Often, additional people should not be counted as fighters, but rather as valets or managers. To denote a manager, use a semicolon `;` or `w/` before their name. For example, here's  two equivalent ways to note a team of two plus a manager.
+Except for segments, each side has at least one fighter in the match. Often, additional people should not be counted as fighters, but rather as valets or managers. To denote a manager, use a semicolon `;` or `w/` before their name. For example, here are two equivalent ways to note a team of two plus a manager.
 
 ```
 Cash Wheeler, Dax Harwood; Tully Blanchard
 Cash Wheeler, Dax Harwood w/ Tully Blanchard
 ```
 
-When multiple people have the same role, ampersands (`&`) can be used instead of repeating the other symbols. A person that is listed **after** an ampersand will have the **same role** as the person listed **before**. For example:
+When multiple people have the same role, ampersands can be used instead of repeating the other symbols. A person that is listed **after** an ampersand will have the **same role** as the person listed **before**. For example:
 
 All three fighters:
 
@@ -99,6 +101,7 @@ Matt Hardy, Jeff Hardy, Johnny Hardy
 Matt Hardy, Jeff Hardy & Johnny Hardy
 Matt Hardy & Jeff Hardy & Johnny Hardy
 ```
+(Note: this might clash with the tag team notation using ampersands, as outlined above. Use with caution.)
 
 Multiple managers:
 
@@ -142,10 +145,10 @@ Examples:
 # A win by disqualification
 - ["Abyss", "Sting", r: "DQ"]
 # A big ladder match for the tag team titles
-- - "The Hardy Boyz: Jeff Hardy, Matt Hardy"
+- - "The Hardy Boyz: Jeff Hardy & Matt Hardy"
   - "Big Cass + Enzo Amore"
   - "Cesaro + Sheamus"
-  - "The Club: Karl Anderson, Luke Gallows"
+  - "The Club: Karl Anderson & Luke Gallows"
   - s: "Fatal Four Way Ladder Match"
     c: "WWE Raw Tag Team Title"
 # A future event
