@@ -52,7 +52,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 ## Title history
 
-### Champions #1: PAKA: Disco Pablo, Taras & Boro
+### Champions #1: PAKA: Disco Pablo & Taras & Boro
 
 {% free_card() %}
 - - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
@@ -150,7 +150,6 @@ While Boro never defended the title, he was also recognized as a champion per th
   - s: Tag Team Match
     en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-05-31
-    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
