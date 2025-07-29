@@ -58,7 +58,7 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
   - s: Tag Team Match
     en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
     ed: 2019-08-17
-- - "[Die Ordnung](@/w/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)"
+- - "[Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)"
   - "Primate & Tommy Freeman"
   - "[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md) & [Eryk Lesak](@/w/eryk-lesak.md)"
@@ -76,7 +76,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 ### Champions #3: Die Ordnung: Hans Schulte & Veit Müller
 
 {% free_card() %}
-- - "[Die Ordnung](@/w/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)"
+- - "[Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)"
   - "[Primate](@/w/primate.md) & Tommy Freeman"
   - "[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)"
   - "[Chemik](@/w/chemik.md) & [Eryk Lesak](@/w/eryk-lesak.md)"
@@ -106,7 +106,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 
 {% free_card() %}
 - - "[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)"
-  - "[Die Ordnung](@/w/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md) (c)"
+  - "[Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md) (c)"
   - s: Tag Team Match
     en: '[KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)'
     ed: 2023-08-18
