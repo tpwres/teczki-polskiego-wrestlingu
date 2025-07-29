@@ -8,7 +8,7 @@ toclevel = 2
 country = ["RU"]
 +++
 
-Serg Sullivan is a Russian wrestler known for his time in [Prime Time Wrestling](@/o/ptw.md). Before joining PTW, he worked for Moscow-based [НРФ][wrestling-moscow] (NRF).
+Serg Sullivan is a Russian wrestler known for his time in [Prime Time Wrestling](@/o/ptw.md). Before joining PTW, he worked for Moscow-based [НФР][wrestling-moscow] (NFR).
 
 ## Basic info
 
