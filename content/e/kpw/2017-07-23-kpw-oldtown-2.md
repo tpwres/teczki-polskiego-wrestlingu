@@ -22,12 +22,11 @@ KPW would return to following editions of OldTown until 2019.
 ## Card
 
 {% card() %}
-- - "[Greg](@/w/greg.md) & [Peter Pannache](@/w/peter-pannache.md)"
-  - >
-    [Adam Bravo](@/w/adam-bravo.md),
-    [David Oliwa](@/w/david-oliwa.md),
-    [Kamil Aleksander](@/w/kamil-aleksander.md),
-    [Robert Star](@/w/robert-star.md)
+- - '[Greg](@/w/greg.md) & [Peter Pannache](@/w/peter-pannache.md)'
+  - '[Adam Bravo](@/w/adam-bravo.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Robert Star](@/w/robert-star.md)'
   - s: Elimination Battle Royal
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Kaszub](@/w/kaszub.md)'

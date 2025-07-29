@@ -19,7 +19,7 @@ The 2016 event featured Finnish female wrestler Aurora Flame in one of her last 
 
 The venue for this event was the Hall of Sports in Gdynia, which would become the primary venue for KPW between 2017 and 2021. While later events would have steel barriers between the ring area and audience, none are present here.
 
-## Build-up to the event
+## Build-up
 
 * This was Mika's first KPW appearance. The original plan was for him to make his debut at [KPW OldTown](@/e/kpw/2016-07-23-kpw-oldtown.md) in the tournament brackets.
 * [Kamil Aleksander](@/w/kamil-aleksander.md) defeated [Piękny Kawaler](@/w/piekny-kawaler.md) for the #1 Contendership at the first [Arena show](@/e/kpw/2016-02-27-kpw-arena-1.md) in February
