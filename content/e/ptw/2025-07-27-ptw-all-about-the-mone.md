@@ -56,7 +56,7 @@ toclevel = 2
   - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Bat Lesya Sullivan'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     s: 'Triple Threat Match'
-- - 'Love Vonce'
+- - '[Love Vonce](@/w/lavonce.md)'
   - 'Polski Niedźwiedź'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Dawid "Puncher" Seńko](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Mercedes Moné](@/w/mercedes-mone.md)'

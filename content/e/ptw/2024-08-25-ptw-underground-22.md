@@ -48,7 +48,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
 - - '[Rust](@/w/rust.md)'
-  - 'LaVonce'
+  - '[LaVonce](@/w/lavonce.md)'
 - - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
   - 'Gulyas Bros: [Gulyás Öcsi](@/w/gulyas-ocsi.md), Gulyás Vilmos'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'

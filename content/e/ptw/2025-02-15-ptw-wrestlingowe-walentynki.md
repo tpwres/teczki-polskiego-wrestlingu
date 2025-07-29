@@ -41,7 +41,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 - - '[Blaze](@/w/blaze.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
-- - 'LaVonce'
+- - '[LaVonce](@/w/lavonce.md)'
   - g: Alex Brave beats down Blaze. LaVonce makes a save and cuts a promo
 - - '[Spartan](@/w/spartan.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
