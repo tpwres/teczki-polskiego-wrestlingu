@@ -71,7 +71,7 @@ The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/20
 ### Champions #2: Storm Riders: Red Thunder & Blue Thunder
 
 {% free_card() %}
-- - '[Storm Riders]: [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md)'
+- - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md), [Blue Thunder](@/w/blue-thunder.md)'
   - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (c)'
   - s: Tag Team Match
     en: '[MZW Charity Show 2017](@/e/mzw/2017-01-15-mzw-charity-show-2017.md)'
@@ -89,7 +89,7 @@ The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/20
 
 {% free_card() %}
 - - '[Catch Connection](@/tt/catch-connection.md): [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)'
-  - '[Storm Riders]: [Red Thunder](@/w/red-thunder.md) & [Blue Thunder](@/w/blue-thunder.md) (c)'
+  - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md) & [Blue Thunder](@/w/blue-thunder.md) (c)'
   - s: Tag Team Match
     en: '[MZW Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md)'
     ed: 2017-06-03
@@ -106,7 +106,7 @@ The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/20
 
 {% free_card() %}
 - - '[Wataha](@/tt/wataha.md): [Justin Joy](@/w/justin-joy.md) & [Apollo Anderson](@/w/apollo-anderson.md)'
-  - '[Catch Connection]: [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md) (c)'
+  - '[Catch Connection](@/tt/catch-connection.md): [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md) (c)'
   - s: Tag Team Match
     en: '[MZW Project 1: New Beginning](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md)'
     ed: 2018-10-13
