@@ -52,60 +52,60 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 ## Title history
 
-### Champions #1: PAKA
+### Champions #1: PAKA: Disco Pablo, Taras & Boro
 
 {% free_card() %}
-- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
-  - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
+- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
+  - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
   - s: Tag Team Match
     en: '[PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
     ed: 2023-06-25
-- - 'PAKA: Disco Pablo, Taras(c)'
-  - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
+- - 'PAKA: Disco Pablo & Taras(c)'
+  - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md)'
   - s: Tag Team Match
     nc: No Contest
     ed: 2023-07-16
     en: '[PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
-- - 'Budapest Bastards: Renegade, Nitro'
-  - 'PAKA: Disco Pablo, Taras(c)'
-  - '[Sinister Kingdom](@/tt/sinister-kingdom.md): [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
-  - 'MxM Collection: Mansoor, Mason Madden'
+- - 'Budapest Bastards: Renegade & Nitro'
+  - 'PAKA: Disco Pablo & Taras(c)'
+  - '[Sinister Kingdom](@/tt/sinister-kingdom.md): [Syriusz Dziedzic](@/w/dziedzic.md) & [Sinister](@/w/sinister.md)'
+  - 'MxM Collection: Mansoor & Mason Madden'
   - s: Four Way Tag Team Match
     ed: 2024-02-03
     en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
 {% end %}
 
-**TOTAL:** 223 days
+**TOTAL:** 223 days.
 
-While Boro never defended the title, he was also recognized as a champion.
+While Boro never defended the title, he was also recognized as a champion per the [Freebird Rule][freebird-rule.
 
-### Champions #2: Budapest Bastards
+### Champions #2: Budapest Bastards: Renegade & Nitro
 
 {% free_card() %}
-- - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)'
-  - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)'
-  - 'Sinister Kingdom: [Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
-  - 'MxM Collection: Mansoor, Mason Madden'
+- - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md)'
+  - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)(c)'
+  - '[Sinister Kingdom](@/tt/sinister-kingdom.md): [Syriusz Dziedzic](@/w/dziedzic.md) & [Sinister](@/w/sinister.md)'
+  - 'MxM Collection: Mansoor & Mason Madden'
   - s: Four Way Tag Team Match
     en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
     ed: 2024-02-03
-- - 'Budapest Bastards: Nitro, Renegade(c)'
-  - "[Marcelito](@/w/marcelito.md), [Axel Fox](@/w/axel-fox.md)"
+- - 'Budapest Bastards: Nitro & Renegade(c)'
+  - "[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/axel-fox.md)"
   - s: Open Challenge
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13
-- - 'Budapest Bastards: Nitro, Renegade(c)'
-  - 'Lucha Squad: Lince Dorado, Samuray del Sol'
+- - 'Budapest Bastards: Nitro & Renegade(c)'
+  - 'Lucha Squad: Lince Dorado & Samuray del Sol'
   - s: Tag Team Match
     en: '[PTW #6: Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md)'
     ed: 2024-05-11
-- - 'Budapest Bastards: Nitro, Renegade(c)'
-  - 'Gulyas Bros: Gulyás Öcsi, Gulyás Vilmos'
+- - 'Budapest Bastards: Nitro & Renegade(c)'
+  - 'Gulyas Bros: [Gulyás Öcsi](@/w/gulyas-ocsi.md) & Gulyás Vilmos'
   - s: Tag Team Match
     en: '[PTW Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md)'
     ed: 2024-08-25
-- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
-  - 'Budapest Bastards: Nitro, Renegade(c)'
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)"
+  - 'Budapest Bastards: Nitro & Renegade(c)'
   - s: Hardcore Tornado Tag Team Match
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
     ed: 2024-12-07
@@ -113,22 +113,22 @@ While Boro never defended the title, he was also recognized as a champion.
 
 **TOTAL:** 308 days
 
-### Champions #3: L'Orda
+### Champions #3: L'Orda: Luca Bjorn & Rust
 
 {% free_card() %}
-- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)"
-  - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)(c)'
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)"
+  - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)(c)'
   - s: Hardcore Tornado Tag Team Match
     en: '[PTW Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md)'
     ed: 2024-12-07
-- - "L'Orda: Luca Bjorn, Rust(c)"
-  - 'Team Turbulence: Tommy Tornado, Tommy Torpedo'
+- - "L'Orda: Luca Bjorn & Rust(c)"
+  - 'Team Turbulence: Tommy Tornado & Tommy Torpedo'
   - s: Tag Team Match
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
     ed: 2025-02-15
-- - 'Royal Rebels: [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - "L'Orda: Luca Bjorn, Rust(c)"
-  - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - "L'Orda: Luca Bjorn & Rust(c)"
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md) & Daniel Razor'
   - s: Tornado Tag Team Match
     en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
     ed: 2025-05-31
@@ -136,17 +136,17 @@ While Boro never defended the title, he was also recognized as a champion.
 
 **TOTAL:** 175 days
 
-### Champions #4: Royal Rebels
+### Champions #4: Royal Rebels: Alex Brave & Vincent Caravaggio
 
 {% free_card() %}
-- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
-  - '["Starboy" Nano Lopez](@/w/nano-lopez.md), Daniel Razor'
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)(c)"
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md) & Daniel Razor'
   - s: Tornado Tag Team Match
     ed: 2025-05-31
     en: '[PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
-- - 'Royal Rebels: Alex Brave, Vincent Caravaggio(c)'
-  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md)'
+- - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
+  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: Tag Team Match
     en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-05-31
