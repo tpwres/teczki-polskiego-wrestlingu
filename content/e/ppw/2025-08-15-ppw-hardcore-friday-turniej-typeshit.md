@@ -21,6 +21,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
 * PpW's social media released [_The Acid Messiah's First Sermon_][goblin-kazanie] on 15.07.2025. In it, [Goblin](@/w/goblin.md) addresses Mister Z, stating that he is a self-reliant [PpW Champion](@/c/ppw-championship.md) and doesn't need Z to book his matches. He will find an opponent himself, and face him in a non-title match.
 * On 19.07.2025 PpW announced [Axel Fox](@/w/axel-fox.md) vs [Vic Golden](@/w/vic-golden.md) in a Chairs Match.
 * On 22.07.2025 PpW [announced](https://www.facebook.com/share/p/1ZQiQT5gcz/) that [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md) would be Goblin's opponent of choice for the non-title match.
+* On 29.07.2025 PpW announced the return of [Sentinel](@/w/sentinel.md) and [Wonder Haze](@/w/wonder-haze.md), last seen at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
 
 ## Card
 
