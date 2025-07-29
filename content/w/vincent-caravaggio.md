@@ -14,7 +14,7 @@ Vincent Caravaggio is a Polish pro-wrestler performing for [Prime Time Wrestling
 
 * Years active: 2023-present
 * Gimmicks/nicknames:
-  - _rookie_Kornel  {{ org_badge(orgs=['ptw']) }}, (2023, cameo appearance)
+  - _rookie_ Kornel  {{ org_badge(orgs=['ptw']) }}, (2023, cameo appearance)
   - Vincent Caravaggio {{ org_badge(orgs=['ptw']) }} (2023-present)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-present)
