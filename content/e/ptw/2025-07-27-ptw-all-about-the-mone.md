@@ -49,7 +49,7 @@ toclevel = 2
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ Boguś'
   - s: 'Three-On-One Handicap match'
-- c: |
+    c: |
        BestYa Championship,
        [PTW Championship](@/c/ptw-championship.md)
        PTW/WWA Championship
