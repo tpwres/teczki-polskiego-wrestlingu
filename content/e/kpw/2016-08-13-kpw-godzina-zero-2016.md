@@ -19,7 +19,7 @@ The 2016 event featured Finnish female wrestler Aurora Flame in one of her last 
 
 The venue for this event was the Hall of Sports in Gdynia, which would become the primary venue for KPW between 2017 and 2021. While later events would have steel barriers between the ring area and audience, none are present here.
 
-## Build-up to the event
+## Build-up
 
 * This was Mika's first KPW appearance. The original plan was for him to make his debut at [KPW OldTown](@/e/kpw/2016-07-23-kpw-oldtown.md) in the tournament brackets.
 * [Kamil Aleksander](@/w/kamil-aleksander.md) defeated [Piękny Kawaler](@/w/piekny-kawaler.md) for the #1 Contendership at the first [Arena show](@/e/kpw/2016-02-27-kpw-arena-1.md) in February
@@ -29,20 +29,27 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 ## Card
 
 {% card() %}
-- [Mika The Polish Punisher, '[Victor Rosetti](@/w/rosetti.md)']
-- ['[Kaszub](@/w/kaszub.md)', '[Damian Lambert](@/w/damien-rothschild.md)', '[Peter
-    Pannache](@/w/peter-pannache.md)', {s: Three Way Match}]
-- ['[Sawicki](@/w/sawicki.md)', '[Elliott Jordan](@/w/elliott-jordan.md)']
-- ['[Ron Corvus](@/w/ron-corvus.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
-    Zasada](@/w/krzysztof-zasada.md)"]
-- ["[Kawaleria](@/tt/kawaleria.md): [Greg](@/w/greg.md), [Luxus](@/w/luxus.md)", "[Boski Ostrowski](@/w/ostrowski.md),
-    [David Oliwa](@/w/david-oliwa.md)", {s: Tag Team Match}]
-- [Jon Ryan, '[Robert Star](@/w/robert-star.md)']
-- ['[Bianca](@/w/bianca.md)', Aurora Flame]
+- - 'Mika The Polish Punisher'
+  - '[Victor Rosetti](@/w/rosetti.md)'
+- - '[Kaszub](@/w/kaszub.md)'
+  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Peter Pannache](@/w/peter-pannache.md)'
+  - s: Three Way Match
+- - '[Sawicki](@/w/sawicki.md)'
+  - '[Elliott Jordan](@/w/elliott-jordan.md)'
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md) w/ [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
+- - '[Kawaleria](@/tt/kawaleria.md): [Greg](@/w/greg.md) & [Luxus](@/w/luxus.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md)'
+  - s: Tag Team Match
+- - 'Jon Ryan'
+  - '[Robert Star](@/w/robert-star.md)'
+- - '[Bianca](@/w/bianca.md)'
+  - 'Aurora Flame'
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - c: "[KPW Championship](@/c/kpw-championship.md)"
-    s: "2 out of 3 Falls Match"
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
+    s: '2 out of 3 Falls Match'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'

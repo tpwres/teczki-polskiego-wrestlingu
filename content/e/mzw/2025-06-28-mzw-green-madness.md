@@ -49,7 +49,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
   - '[Sambor](@/w/sambor.md)'
 - - '[Goblin](@/w/goblin.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
-- - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+- - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - '[Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md)'
   - s: Tag Team Match
 - - '[Mister Z](@/w/mister-z.md)'

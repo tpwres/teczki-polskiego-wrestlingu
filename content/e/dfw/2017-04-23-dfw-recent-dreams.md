@@ -29,8 +29,8 @@ With five matches on the card, this was a big event by DFW's standards. In the m
 - - '[Direk](@/w/direk.md)'
   - '[Charlie](@/w/madman-charlie.md)'
   - s: No Holds Barred Match
-- - '[Norris](@/w/isnorr.md), [Corin Mear](@/w/corin-mear.md)'
-  - '[Malmo Buruto](@/w/malmo-buruto.md), Hekate'
+- - '[Norris](@/w/isnorr.md) & [Corin Mear](@/w/corin-mear.md)'
+  - '[Malmo Buruto](@/w/malmo-buruto.md) & Hekate'
   - s: Tag Team Match
 - - '[PJ Blake](@/w/pj-blake.md)'
   - '[Amisz](@/w/axel-fox.md)'

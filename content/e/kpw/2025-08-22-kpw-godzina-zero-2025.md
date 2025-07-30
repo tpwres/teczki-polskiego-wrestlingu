@@ -38,8 +38,8 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
   - '???'
   - s: 4-Man Handicap Match
     nc: upcoming
-- - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)(c)'
-  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md)'
+- - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)(c)'
+  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming

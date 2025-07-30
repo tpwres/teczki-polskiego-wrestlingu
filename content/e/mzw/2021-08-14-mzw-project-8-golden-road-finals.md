@@ -18,10 +18,10 @@ source = "Official MZW Facebook"
 {% card() %}
 - - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
-  - s: "MZW Championship Tournament Semi Final Match"
+  - s: 'MZW Championship Tournament Semi Final Match'
 - - '[Aron Wake](@/w/aron-wake.md)'
   - Nick Schreier
-  - s: "MZW Championship Tournament Semi Final Match"
+  - s: 'MZW Championship Tournament Semi Final Match'
 - - '[Deti Black](@/w/dieter-schwartz.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
@@ -36,10 +36,10 @@ source = "Official MZW Facebook"
   -  'Lio Zayde'
   -  '[Chris X](@/w/chris-x.md)'
   -  '???'
-  -  s: "Seven Man Rookie Battle Royal"
+  -  s: 'Seven Man Rookies Battle Royal'
 - - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
-  - c: "[MZW Championship](@/c/mzw-championship.md)"
+  - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: Tournament Final Match
 - credits:
     Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'

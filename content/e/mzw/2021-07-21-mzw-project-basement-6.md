@@ -9,19 +9,19 @@ city = "Wrocław"
 toclevel = 2
 +++
 
-Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions canceled almost all public events in Poland. Unable to hold shows with audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.
+Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions cancelled almost all public events in Poland. Unable to hold shows with a live audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.
 
 ## Card
 
 {% card() %}
 - - '[Aron Wake](@/w/aron-wake.md)'
-  - "[Isnorr](@/w/isnorr.md)"
+  - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
   - '[Madman Charlie](@/w/madman-charlie.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Shadow](@/w/shadow.md)'
-  - s: "Seven Man Gauntlet Match"
+  - s: 'Seven Man Gauntlet Match'
 - credits:
     Host: '[Konrad von Koch](@/w/konrad-von-koch.md)'
     Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'

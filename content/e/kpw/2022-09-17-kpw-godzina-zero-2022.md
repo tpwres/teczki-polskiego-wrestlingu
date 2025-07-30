@@ -46,10 +46,10 @@ The foreign guests for the event were:
       Krystian Malinowski draws the match types for the main event, assisted by Kinga Miotke and Krystian Czekaj.
 - - '[Zefir](@/w/zefir.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
-- - '[Die Ordnung](@/tt/die-ordnung.md): [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)'
-  - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)'
-  - '[Primate](@/w/primate.md), Tommy Freeman'
-  - '[Gałąź Gregoriańska](@/tt/galaz-gregorianska.md): [Chemik](@/w/chemik.md), [Eryk Lesak](@/w/eryk-lesak.md)'
+- - '[Die Ordnung](@/tt/die-ordnung.md): [Veit Müller](@/w/veit-mueller.md) & [Hans Schulte](@/w/hans-schulte.md)'
+  - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)'
+  - '[Primate](@/w/primate.md) & Tommy Freeman'
+  - '[Gałąź Gregoriańska](@/tt/galaz-gregorianska.md): [Chemik](@/w/chemik.md) & [Eryk Lesak](@/w/eryk-lesak.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: 4-way Elimination Match
 - - '[Rosetti](@/w/rosetti.md)'

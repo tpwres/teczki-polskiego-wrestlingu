@@ -12,15 +12,20 @@ toclevel = 2
 2 = { path = "rookies-battle-royale.jpg", caption = "Rookies Battle Royale, with [Szymon Siwiec](@/w/szymon-siwiec.md) in the center.", source = "Facebook @ManiacZoneWrestling"}
 +++
 
+Wakacyjny Slam (_Holiday Slam_) was a show by [Maniac Zone Wrestling](@/o/mzw.md).
+
 ## Card
 
 {% card() %}
-- ["[Szymon Siwiec](@/w/szymon-siwiec.md)", {s: "MZW Rookies Battle Royale"}]
-- ["[Justin Joy](@/w/justin-joy.md)", "[Kowboj Luke](@/w/red-thunder.md)", "[Shadow](@/w/shadow.md)",
-  {s: "Triple Threat Match"}]
-- - "Posse In Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)"
-  - "[Jędruś Bułecka](@/w/jedrus-bulecka.md), [ZERO](@/w/franz-engel.md)"
-  - c: "Next Step Wrestling Tag Team Championship"
+- - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
+  - s: 'MZW Rookies Battle Royale'
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - '[Kowboj Luke](@/w/red-thunder.md)'
+  - '[Shadow](@/w/shadow.md)'
+  - s: 'Triple Threat Match'
+- - 'Posse In Effect: [Rick Baxxter](@/w/rick-baxxter.md) & [The Grannatic](@/w/the-grannatic.md)'
+  - '[Jędruś Bułecka](@/w/jedrus-bulecka.md) & [ZERO](@/w/franz-engel.md)'
+  - c: 'Next Step Wrestling Tag Team Championship'
 - credits:
     Host, Ring Announcer: Filip Cieśliński
     Referees: '[Sędzia Piotr](@/w/mr-b.md), ???'

@@ -33,7 +33,7 @@ source = "Official MZW Facebook"
 - - "[Matt Buckna](@/w/matt-buckna.md)"
   - "Michael Payne"
   - c: "[MZW Championship](@/c/mzw-championship.md)"
-    s: "#1 Contenders Match"
+    s: "#1 Contender Match"
 - - "Marcus Monere"
   - "[Mister Z](@/w/mister-z.md)"
 - credits:

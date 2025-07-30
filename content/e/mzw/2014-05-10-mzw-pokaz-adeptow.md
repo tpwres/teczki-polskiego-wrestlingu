@@ -17,9 +17,12 @@ Pokaz Adeptów (_Rookies Showcase_) was a show by [Maniac Zone Wrestling](@/o/mz
 ## Card
 
 {% card() %}
-- ["[Patriota](@/w/jedrus-bulecka.md)", "[Kowboj Luke](@/w/red-thunder.md)"]
-- ["El Dorado", "Maniak"]
-- ["[Shadow](@/w/shadow.md)", "[Justin Joy](@/w/justin-joy.md)"]
+- - '[Patriota](@/w/jedrus-bulecka.md)'
+  - '[Kowboj Luke](@/w/red-thunder.md)'
+- - 'El Dorado'
+  - 'Maniak'
+- - '[Shadow](@/w/shadow.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
 - credits:
     Host, Ring Announcer: Filip Cieśliński
     Commentary: '[Tomasz Warchoł](@/w/tomasz-warchol.md), Piotr Walkowiak'

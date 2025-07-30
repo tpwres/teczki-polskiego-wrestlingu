@@ -16,7 +16,7 @@ manifest = "@/e/mzw/2015-08-22-mzw-podziemny-krag-2015-gallery.toml"
 
 The second Podziemny Krąg (_The Underground Circle_) was a private, closed event held on Saturday, Aug 22, 2015. According to the organizer's page, the event was produced for employees of the mining equipment manufacturer KGHM Zanam.
 
-The event's name refers to David Fincher's 1999 movie _Fight Club_, whose Polish title is _Podziemny krąg_.
+The event's name refers to David Fincher's 1999 film [Fight Club][walka-o-mydlo], whose Polish title is _Podziemny krąg_.
 
 There is no confirmed card for this event. Based on the photos from the organizer's page, the following talent were involved:
 
@@ -49,3 +49,4 @@ The only known match-up is [Shadow](@/w/shadow.md) vs [Szymon "Siwy" Siwiec](@/w
 
 [siwy-szedou]: https://www.wrestlefans.pl/forum/viewtopic.php?f=302&t=44710
 [mzw-fb-post]: https://www.facebook.com/photo/?fbid=684204345057128&set=a.422497321227833
+[walka-o-mydlo]: https://en.wikipedia.org/wiki/Fight_Club

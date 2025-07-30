@@ -19,15 +19,22 @@ The event, and festival, were held in B90, a music and event venue located in a 
 ## Card
 
 {% card() %}
-- ['[Robert Star](@/w/robert-star.md)', "[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof
-    Zasada](@/w/krzysztof-zasada.md)"]
-- ['[Peter Pannache](@/w/peter-pannache.md)', '[Kamil Aleksander](@/w/kamil-aleksander.md)',
-  '[Mateusz Kowalski](@/w/mateusz-kakareko.md)', '[Victor Rosetti](@/w/rosetti.md)',
-  {s: Fatal Four Way Match}]
-- ['[Ron Corvus](@/w/ron-corvus.md)', '[Greg](@/w/greg.md)', {s: Hardcore Match}]
-- ['[Bianca](@/w/bianca.md)', '[Mira](@/w/mira.md)', {s: Pillow Fight Match}]
-- ["[Kaszub](@/w/kaszub.md), [Piękny Kawaler](@/w/piekny-kawaler.md)", "[Boski Ostrowski](@/w/ostrowski.md),
-    [David Oliwa](@/w/david-oliwa.md)", {s: Tag Team Match}]
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md) w/ [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
+- - '[Peter Pannache](@/w/peter-pannache.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
+  - '[Victor Rosetti](@/w/rosetti.md)'
+  - s: Fatal Four Way Match
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Greg](@/w/greg.md)'
+  - s: Hardcore Match
+- - '[Bianca](@/w/bianca.md)'
+  - '[Mira](@/w/mira.md)'
+  - s: Pillow Fight Match
+- - '[Kaszub](@/w/kaszub.md) & [Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md)'
+  - s: Tag Team Match
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
