@@ -20,7 +20,7 @@ The event, and festival, were held in B90, a music and event venue located in a 
 
 {% card() %}
 - - '[Robert Star](@/w/robert-star.md)'
-  - '[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md) w/ [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
 - - '[Peter Pannache](@/w/peter-pannache.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'

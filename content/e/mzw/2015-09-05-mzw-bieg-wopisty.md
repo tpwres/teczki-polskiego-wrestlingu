@@ -23,7 +23,7 @@ This event was a sideshow accompanying III Bieg WOP-isty (a cross-country half-m
 - - 'Ronzen'
   - 'The Black Phantom'
 - - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
-  - '[Mr B.](@/w/mr-b.md); [Hexia](@/w/hexia.md)'
+  - '[Mr B.](@/w/mr-b.md) w/ [Hexia](@/w/hexia.md)'
   - r: 'DQ'
 - - '[Robert Kaiser](@/w/robert-kaiser.md)'
   - '[Dynamite Dave](@/w/dynamite-dave.md)'

@@ -38,7 +38,7 @@ The venue for this event was the Hall of Sports in Gdynia, which would become th
 - - '[Sawicki](@/w/sawicki.md)'
   - '[Elliott Jordan](@/w/elliott-jordan.md)'
 - - '[Ron Corvus](@/w/ron-corvus.md)'
-  - '[Gracjan Korpo](@/w/gracjan-korpo.md); [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
+  - '[Gracjan Korpo](@/w/gracjan-korpo.md) w/ [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
 - - '[Kawaleria](@/tt/kawaleria.md): [Greg](@/w/greg.md) & [Luxus](@/w/luxus.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md)'
   - s: Tag Team Match

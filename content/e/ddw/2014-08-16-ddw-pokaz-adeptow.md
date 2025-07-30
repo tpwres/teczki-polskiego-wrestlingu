@@ -16,7 +16,7 @@ Pokaz Adeptów (_Rookies Showcase_) was a showcase of DDW's newest trainees, and
 {% card() %}
 - - 'Ivan Bolkov'
   - s: Battle Royale
-- - 'Kamil Leśny & [Luxus](@/w/luxus.md); [Piękny Kawaler](@/w/piekny-kawaler.md)'
+- - 'Kamil Leśny & [Luxus](@/w/luxus.md) w/ [Piękny Kawaler](@/w/piekny-kawaler.md)'
   - 'Double G: [GREG](@/w/greg.md) & Wielki G'
   - s: Tag Team Match
 - - '[Mira](@/w/mira.md)'

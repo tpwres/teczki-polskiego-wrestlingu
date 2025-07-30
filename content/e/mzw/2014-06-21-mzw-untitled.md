@@ -33,7 +33,7 @@ source = "Official MZW Facebook"
   - s: '#1 Contendership Battle Royal'
     c: '[MZW Championship](@/c/mzw-championship.md)'
 - - '[ZERO](@/w/franz-engel.md)(c)'
-  - '[Rick Baxxter](@/w/rick-baxxter.md); [The Grannatic](@/w/the-grannatic.md)'
+  - '[Rick Baxxter](@/w/rick-baxxter.md) w/ [The Grannatic](@/w/the-grannatic.md)'
   - r: DQ
     c: Next Step Wrestling Championship
 - credits:

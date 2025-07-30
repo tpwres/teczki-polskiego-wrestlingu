@@ -27,7 +27,7 @@ skip_art = true
 {% card() %}
 - - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - '[Alexander Reich](@/w/alex-ace.md)'
-- - '[Zeritus](@/w/zeritus.md); [Hexia](@/w/hexia.md)'
+- - '[Zeritus](@/w/zeritus.md) w/ [Hexia](@/w/hexia.md)'
   - '[Ronny Kessler](@/w/ronny-kessler.md)'
 - - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
   - '??? & [Mr B.](@/w/mr-b.md)'
