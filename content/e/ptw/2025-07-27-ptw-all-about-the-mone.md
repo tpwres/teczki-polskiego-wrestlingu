@@ -49,6 +49,10 @@ toclevel = 2
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ Boguś'
   - s: 'Three-On-One Handicap match'
+  - c: - c: |
+       BestYa Championship,
+       [PTW Championship](@/c/ptw-championship.md)
+       WWA Championship
 - - '[Spartan](@/w/spartan.md)'
   - 'Daz Black'
 - - '[Daniel Razor](@/w/daniel-razor.md)'
@@ -84,6 +88,7 @@ toclevel = 2
 * [Full show on YouTube](https://www.youtube.com/watch?v=Qbq5Tgk3QZA&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02w5MCtCqiTGbjCEJj71AsdMdrXt39R5LeWX7kdXKSTJs5MPuWdMkutZgn7pp4Lurbl)
 * [Show description on ticketing website](https://goingapp.pl/wydarzenie/mercedes-mone-w-polsce-gala-pro-wrestlingu-all-about-the-mone/kozlow-lipiec-2025?queryID=d9957271cd738fc4cddea7babc9cacbc)
+* [Official Facebook post with results](https://www.facebook.com/photo/?fbid=794126089606702&set=a.136592408693410)
 
 [mercedes-przyjedzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid035nmpW9kgwtyj6hvmq4JPZwm7CQSYEbARkuQbnDNtuyprhHmhLXBjWgFLnQNg2or4l
 [wiela-pasow-bydzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02N75gHCMJDbg3qBv4s4xUnjC121aWfjS1nUui7ejTH3PQGk2g9Zs68yuXrDtPGsV1l
