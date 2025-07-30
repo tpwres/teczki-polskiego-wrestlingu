@@ -51,7 +51,7 @@ toclevel = 2
   - s: 'Three-On-One Handicap match'
     c: |
        BestYa Championship,
-       [PTW Championship](@/c/ptw-championship.md)
+       [PTW Championship](@/c/ptw-championship.md),
        PTW/WWA Championship
 - - '[Spartan](@/w/spartan.md)'
   - 'Daz Black'
