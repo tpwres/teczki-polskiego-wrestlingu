@@ -46,13 +46,10 @@ toclevel = 2
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: 'Tag Team Match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ Boguś'
   - s: 'Three-On-One Handicap match'
-  - c: |
-       BestYa Championship,
-       [PTW Championship](@/c/ptw-championship.md)
-       WWA Championship
+    c: '[PTW Championship](@/c/ptw-championship.md), PTW/WWA World Championship, BestYa Championship'
 - - '[Spartan](@/w/spartan.md)'
   - 'Daz Black'
 - - '[Daniel Razor](@/w/daniel-razor.md)'
