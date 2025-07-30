@@ -48,7 +48,7 @@ During the event, fans saw new and returning international wrestlers in the ring
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - g: Contract signing for Goblin vs Gustav at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
+  - g: Contract signing for Goblin vs Gustav at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
 - - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
   - 'Madison Marley'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -62,19 +62,19 @@ During the event, fans saw new and returning international wrestlers in the ring
   - '[Sentinel](@/w/sentinel.md)'
   - '[Feager](@/w/feager.md)'
   - s: 'Enigma Scramble Match'
-    nc: 3-way tie
+    nc: 3&#8209;way tie
     n: Every competitor scored a point, except for Feager
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - 'Mr Power Up'
 - - '[Isnorr](@/w/isnorr.md)'
-  - g: Isnorr vacates the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)
+  - g: Isnorr vacates the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[_rookie_ Bartosz](@/w/plata.md)'
-- - 'GobLis: [Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md)'
-  - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+- - '[GobLis](@/tt/goblis.md): [Goblin](@/w/goblin.md) & [Axel Fox](@/w/axel-fox.md)'
+  - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Tornado Tag Team Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - g: Johnny Blade, thought to be [shot dead by PM Shooter guards](@/a/pm-shooter-saga.md), rises from the grave and returns as a zombie
+  - g: Johnny Blade, thought to be [shot dead by PM Shooter guards](@/a/pm-shooter-saga.md), rises from the grave and returns as a zombie.
 - credits:
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
     Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
@@ -89,7 +89,7 @@ During the event, fans saw new and returning international wrestlers in the ring
 * [Mr. Power Up's Cagematch profile](https://www.cagematch.net/?id=2&nr=29033&gimmick=Flex+Powers)
 * [Mr. Power Up's Instagram](https://www.instagram.com/mrpowerup_flexpowers/)
 * [Video 1: PM Shooter custody](https://www.instagram.com/p/DIZE3pEKw7o/)
-* [Video 2: PM shooter escape attempt](https://www.instagram.com/p/DIbwspSqOSP/)
-* [Video 3: Mister Z negotiates with PM shooter](https://www.instagram.com/p/DIwbHBYqVCl/)
+* [Video 2: PM Shooter escape attempt](https://www.instagram.com/p/DIbwspSqOSP/)
+* [Video 3: Mister Z negotiates with PM Shooter](https://www.instagram.com/p/DIwbHBYqVCl/)
 * [Agatka calls Mister Z](https://www.instagram.com/p/DIuPb6kuN2h/)
 * [Start time + pre-show announcement](https://www.facebook.com/OficjalnePPW/posts/pfbid0GtrDvpyb9AgFA8buq4Wyt7TCyPcN4W8muj6sfypicCKRbNo2BjLARzL9PVtDvJJml)

@@ -17,8 +17,8 @@ Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an un
 ## Card
 
 {% card() %}
-- - '[Angel Guerrero](@/w/johnny-blade.md), RoodWood'
-  - 'Rey Mysterio (knock-off), [Sin Cara](@/w/sin-cara.md)'
+- - '[Angel Guerrero](@/w/johnny-blade.md) & RoodWood'
+  - 'Rey Mysterio (knock-off) & [Sin Cara](@/w/sin-cara.md)'
   - s: No-DQ Tag Team Match
     nc: '?'
 - - 'Red Dorada'

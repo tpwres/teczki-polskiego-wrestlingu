@@ -26,11 +26,11 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Sambor](@/w/sambor.md)'
   - s: Singles Match
-- - 'Rodzina Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md) w/ Siostra Kimono'
-  - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md) w/ [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
+- - 'Rodzina Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ Siostra Kimono'
+  - 'Tourists: Alvaro & [Ignacio](@/w/sedzia-kornel.md) w/ [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
   - s: Tag Team Match
-- - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md), [Steven Kimono](@/w/biesiad.md) w/ Siostra Kimono'
-  - 'The Feagers: [Bill Feager](@/w/feager.md), Phil Feager'
+- - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ Siostra Kimono'
+  - 'The Feagers: [Bill Feager](@/w/feager.md) & Phil Feager'
   - s: Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)(c)'
   - '[Prince Striker](@/w/royal-striker.md)'
@@ -51,8 +51,8 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 - - '[Marcelito](@/w/marcelito.md)'
   - '[_rookie_ Bartek](@/w/plata.md)'
   - s: Singles Match
-- - 'The Feagers: [Bill Feager](@/w/feager.md), Phil Feager'
-  - '[Kapitan Kornel](@/w/sedzia-kornel.md), [Prince Striker](@/w/royal-striker.md)'
+- - 'The Feagers: [Bill Feager](@/w/feager.md) & Phil Feager'
+  - '[Kapitan Kornel](@/w/sedzia-kornel.md) & [Prince Striker](@/w/royal-striker.md)'
   - s: Tag Team Match
 - - '[Scarecrow](@/w/mister-z.md)'
   - '[Goblin](@/w/goblin.md)'
@@ -60,8 +60,8 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 - - '[Sambor](@/w/sambor.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Singles Match
-- - '[Isnorr](@/w/isnorr.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Marcelito](@/w/marcelito.md), [Aron Wake](@/w/aron-wake.md)'
+- - '[Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Marcelito](@/w/marcelito.md) & [Aron Wake](@/w/aron-wake.md)'
   - s: Tag Team Match
 
 - d: 'Saturday, 18:00'
@@ -80,8 +80,8 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Mikey Beerman](@/w/goblin.md)'
   - '[Bonus CBD](@/w/gabriel-queen.md)'
   - s: Triple Threat Match
-- - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md), [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
-  - '[Isnorr](@/w/isnorr.md), [Prince Striker](@/w/royal-striker.md), [Oskar Alexander](@/w/oskar-alexander.md)'
+- - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md) & [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
+  - '[Isnorr](@/w/isnorr.md), [Prince Striker](@/w/royal-striker.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Six-Man Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'

@@ -35,17 +35,27 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 ## Card
 
 {% card() %}
-- ['[Goblin](@/w/goblin.md)', "MBM", {s: "El Paso Outlaw Match"}]
-- ['[Samson](@/w/samson.md)', Asara, '[Shadow](@/w/shadow.md)', {s: "3-Way Dance"}]
-- ["[Gabriel Queen](@/w/gabriel-queen.md)", "[Jacob Crane](@/w/jacob-crane.md)"]
-- ['[Gustav Gryffin](@/w/gustav-gryffin.md)', TJ Charles, {s: Classic Wrestling Match}]
-- ['[Mister Z](@/w/mister-z.md)', '[Ricardo Diesel](@/w/ricardo-diesel.md)', {s: "No.
-      1 Contender Match"}]
-- - "[Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md)"
-  - "[Chris X](@/w/chris-x.md), [Isnorr](@/w/isnorr.md)"
-  - {s: "Tornado Tag Team Match"}
-- ["[Bill Feager](@/w/feager.md)", "[Steve Kuningas](@/w/steve-kuningas.md)", {c: "[PpW
-      Championship](@/o/ppw.md#championships)"}]
+- - '[Goblin](@/w/goblin.md)'
+  - 'MBM'
+  - s: 'El Paso Outlaw Match
+- - '[Samson](@/w/samson.md)'
+  - 'Asara'
+  - '[Shadow](@/w/shadow.md)'
+  - s: 3-Way Dance
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - 'TJ Charles'
+  - s: Classic Wrestling Match
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
+  - s: No. 1 Contender Match
+- - '[Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
+  - '[Chris X](@/w/chris-x.md) & [Isnorr](@/w/isnorr.md)'
+  - s: 'Tornado Tag Team Match'
+- - '[Bill Feager](@/w/feager.md)'
+  - '[Steve Kuningas](@/w/steve-kuningas.md)'
+  - c: '[PpW Championship](@/o/ppw.md#championships)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), Yawara'
