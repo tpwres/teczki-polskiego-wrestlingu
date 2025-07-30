@@ -37,7 +37,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 {% card() %}
 - - '[Goblin](@/w/goblin.md)'
   - 'MBM'
-  - s: 'El Paso Outlaw Match
+  - s: 'El Paso Outlaw Match'
 - - '[Samson](@/w/samson.md)'
   - 'Asara'
   - '[Shadow](@/w/shadow.md)'
