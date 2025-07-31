@@ -7,8 +7,8 @@ from .rich_doc import RichDoc, Section
 from .blocks import Block, TextBlock, FrontMatterBlock, BlockRegistry
 
 class RichDocParser:
-    def __init__(self):
-        self.logger = RichDocLogger()
+    def __init__(self, logger: Optional[RichDocLogger] = None):
+        self.logger = logger or RichDocLogger()
         self.sections: list[Section] = []
 
         self.current_block: Optional[Block] = None
