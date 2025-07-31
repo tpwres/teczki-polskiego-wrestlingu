@@ -1,6 +1,7 @@
 from typing import Optional, Any, TextIO
 from pathlib import Path, PurePath
 import re
+from yaml.parser import ParserError
 
 from .logger import RichDocLogger
 from .rich_doc import RichDoc, Section
@@ -76,7 +77,7 @@ class RichDocParser:
     ALL_BLANKS = re.compile(r'^\s+$')
 
     def parse_stream(self, stream: TextIO, path_or_ident: str):
-        with self.logger.parsing_context("parse_stream"):
+        with self.logger.parsing_context("parse_stream", path_or_ident):
             for line_num, line in enumerate(stream, start=1):
                 if self.FRONTMATTER_DELIMITER.match(line):
                     self.frontmatter_delimiter(line_num)
@@ -129,17 +130,21 @@ class RichDocParser:
             self.logger.log_error("Block close found before block was opened", line_number=line_num)
             return
 
+        blocktype = type(self.current_block).__name__
         self.sections.append(Section(
             self.current_block.starting_line,
-            f'<{self.current_block.__class__.__name__}>',
+            f'<{blocktype}>',
             self.current_block
         ))
 
         try:
-            self.current_block.close()
+            with self.logger.parsing_context(blocktype):
+                self.current_block.close()
+        except ParserError as pe:
+            self.log_yaml_error(pe)
         except Exception as e:
             # TODO: This may have precise location information
-            self.logger.exception(e, "Could not parse block body", line_number=self.current_block.starting_line)
+            self.logger.log_exception(f"Could not parse block {blocktype} body", e, line_number=self.current_block.starting_line)
         finally:
             self.current_block = None
             self.last_section_title = None
@@ -207,3 +212,17 @@ class RichDocParser:
 
     def create_block(self, block, params, line_num) -> Block:
         return BlockRegistry.create_block(block, params, line_num)
+
+    def log_yaml_error(self, err: ParserError, starting_line: Optional[int] = None):
+        starting_line = starting_line or self.current_block.starting_line
+        blocktype = type(self.current_block).__name__
+
+        context, problem = err.context, err.problem
+        context_mark, problem_mark = err.context_mark, err.problem_mark
+
+        message = f"In block {blocktype} {context} at {context_mark.line + starting_line} {problem}"
+
+        self.logger.log_fatal(message,
+                              line_number=problem_mark.line + starting_line,
+                              column_number=problem_mark.column,
+                              context=dict(snippet=problem_mark.get_snippet()))
