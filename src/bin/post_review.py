@@ -5,73 +5,13 @@ post_review.py - Posts automated review comments to GitHub PR
 
 import json
 import os
-import re
 import requests
 import sys
-from typing import List, Dict
+from typing import cast
+from difftools import get_pr_diff, parse_diff_positions
 
-def get_pr_diff(owner: str, repo: str, pr_number: int, token: str) -> str:
-    """Get the unified diff for the PR"""
-    url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}"
-    headers = {
-        "Authorization": f"token {token}",
-        "Accept": "application/vnd.github.v3.diff"
-    }
 
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-
-    return response.text
-
-def parse_diff_positions(diff_content: str) -> Dict[str, Dict[int, int]]:
-    """
-    Parse diff content and create a mapping from file paths to line number -> position
-
-    Returns:
-        Dict with structure: {
-            "path/to/file.py": {
-                line_number: diff_position,
-                ...
-            }
-        }
-    """
-    file_positions = {}
-    current_file = None
-    position = 0
-    current_new_line = None
-
-    for line in diff_content.split('\n'):
-        if line.startswith('diff --git'):
-            # Extract file path from "diff --git a/path/file.py b/path/file.py"
-            match = re.search(r'diff --git a/(.*?) b/', line)
-            if match:
-                current_file = match.group(1)
-                file_positions[current_file] = {}
-            position = 0
-
-        elif line.startswith('@@'):
-            # Parse hunk header: @@ -old_start,old_count +new_start,new_count @@
-            match = re.search(r'@@ -\d+(?:,\d+)? \+(\d+)(?:,\d+)? @@', line)
-            if match and current_file:
-                new_line_start = int(match.group(1))
-                current_new_line = new_line_start
-                position = 0  # Reset position for this hunk
-
-        elif current_file and current_new_line is not None and (line.startswith(' ') or line.startswith('+') or line.startswith('-')):
-            position += 1
-
-            # Only map lines that are added or unchanged (not deleted)
-            if line.startswith(' ') or line.startswith('+'):
-                file_positions[current_file][current_new_line] = position
-                current_new_line += 1
-            # For deleted lines, don't increment new_line but still increment position
-            elif line.startswith('-'):
-                # Don't increment current_new_line for deleted lines
-                pass
-
-    return file_positions
-
-def convert_line_to_position(comments: List[Dict], file_positions: Dict[str, Dict[int, int]]) -> List[Dict]:
+def convert_line_to_position(comments: list[dict], file_positions: dict[str, dict[int, int]]) -> list[dict]:
     """Convert line-based comments to position-based comments"""
     positioned_comments = []
 
@@ -100,48 +40,70 @@ def convert_line_to_position(comments: List[Dict], file_positions: Dict[str, Dic
         print(f"✅ Mapped {path}:{line} -> position {position}")
 
     return positioned_comments
-    """Get the latest commit SHA for the PR"""
-    url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}/commits"
+
+def get_latest_commit_sha(repo_path: str, pr_number: int, token: str) -> str:
+    """
+    Get the latest commit SHA for the PR by efficiently fetching the last page of commits
+
+    Args:
+        repo_path (str): Repository path in format 'owner/repo'
+        pr_number (int): Pull request number
+        token (str): GitHub authentication token
+
+    Returns:
+        str: SHA of the latest commit in the PR
+    """
+    base_url = f"https://api.github.com/repos/{repo_path}/pulls/{pr_number}/commits"
     headers = {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json"
     }
 
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
+    # First, fetch the first page to check pagination
+    initial_response = requests.get(base_url, headers=headers)
+    initial_response.raise_for_status()
 
-    commits = response.json()
+    # If Link header exists, extract the last page URL
+    link_header = initial_response.headers.get('Link', '')
+
+    if link_header:
+        # Parse the Link header to find the last page URL
+        last_page_url = None
+        for link in link_header.split(', '):
+            target, _semi, relname = link.partition(';')
+            if 'rel="last"' in relname:
+                last_page_url = target.strip('<>')
+                break
+
+        # If last page URL found, fetch commits from the last page
+        if last_page_url:
+            last_page_response = requests.get(last_page_url, headers=headers)
+            last_page_response.raise_for_status()
+            commits = last_page_response.json()
+        else:
+            # Fallback to initial response if no last page found
+            commits = initial_response.json()
+    else:
+        # No pagination, use initial response
+        commits = initial_response.json()
+
+    # Validate commit list
     if not commits:
         raise ValueError("No commits found in PR")
 
+    # Return SHA of the last commit
     return commits[-1]["sha"]
 
-def get_latest_commit_sha(owner: str, repo: str, pr_number: int, token: str) -> str:
-    """Get the latest commit SHA for the PR"""
-    url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}/commits"
-    headers = {
-        "Authorization": f"token {token}",
-        "Accept": "application/vnd.github.v3+json"
-    }
 
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-
-    commits = response.json()
-    if not commits:
-        raise ValueError("No commits found in PR")
-
-    return commits[-1]["sha"]
-
-def post_review_with_comments(owner: str, repo: str, pr_number: int, 
-                            commit_sha: str, comments: List[Dict], token: str) -> None:
+def post_review_with_comments(repo_path: str, pr_number: int,
+                            commit_sha: str, comments: list[dict], token: str) -> None:
     """Post a review with multiple comments using positions"""
-    url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}/reviews"
+    url = f"https://api.github.com/repos/{repo_path}/pulls/{pr_number}/reviews"
     headers = {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json"
     }
-    
+
     # Comments should already have position instead of line
     review_data = {
         "commit_id": commit_sha,
@@ -149,9 +111,10 @@ def post_review_with_comments(owner: str, repo: str, pr_number: int,
         "event": "COMMENT",
         "comments": comments  # Comments already formatted with position
     }
-    
+    print(review_data)
+
     response = requests.post(url, headers=headers, json=review_data)
-    
+
     if response.status_code == 200:
         print(f"✅ Successfully posted review with {len(comments)} comments")
     else:
@@ -162,14 +125,16 @@ def post_review_with_comments(owner: str, repo: str, pr_number: int,
 def main():
     # Get environment variables
     token = os.getenv("GITHUB_TOKEN")
-    pr_number = int(os.getenv("PR_NUMBER"))
-    owner = os.getenv("REPO_OWNER")
-    repo = os.getenv("REPO_NAME")
+    pr_number = int(cast(str, os.getenv("PR_NUMBER")))
+    repo_path = os.getenv("REPO_PATH")
     report_file = os.getenv("REPORT_FILE", "analysis.json")  # Default fallback
 
-    if not all([token, pr_number, owner, repo]):
+    if not all([token, pr_number, repo_path]):
         print("❌ Missing required environment variables")
         sys.exit(1)
+
+    repo_path = cast(str, repo_path)
+    token = cast(str, token)
 
     print(f"📄 Reading report from: {report_file}")
 
@@ -192,12 +157,12 @@ def main():
 
     try:
         # Get the latest commit SHA
-        commit_sha = get_latest_commit_sha(owner, repo, pr_number, token)
+        commit_sha = get_latest_commit_sha(repo_path, pr_number, token)
         print(f"Latest commit SHA: {commit_sha}")
 
         # Get PR diff and parse positions
         print("📄 Fetching PR diff...")
-        diff_content = get_pr_diff(owner, repo, pr_number, token)
+        diff_content = get_pr_diff(repo_path, pr_number, token)
         file_positions = parse_diff_positions(diff_content)
 
         print(f"📊 Found diff positions for {len(file_positions)} files")
@@ -214,9 +179,8 @@ def main():
 
         print(f"✅ Successfully mapped {len(positioned_comments)}/{len(comments)} comments to diff positions")
 
-        # Post 
-
-        post_review_with_comments(owner, repo, pr_number, commit_sha, positioned_comments, token)
+        # Post
+        post_review_with_comments(repo_path, pr_number, commit_sha, positioned_comments, token)
 
     except requests.exceptions.RequestException as e:
         print(f"❌ API request failed: {e}")

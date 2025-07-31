@@ -15,14 +15,14 @@ class Base:
         pass
 
     @classmethod
-    def accept_frontmatter(cls, frontmatter: blocks.FrontMatterBlock):
+    def accept_frontmatter(cls, frontmatter: blocks.FrontMatterBlock) -> bool:
         """Returns false if, based on the front matter block, this Guard should not process the file.
            Otherwise, returns True.
         """
         return True
 
     @classmethod
-    def accept_path(cls, path: Path):
+    def accept_path(cls, path: Path) -> bool:
         """Returns False, if based on the filename, this Guard should not process the file.
            Otherwise, returns True.
            Is usually called before accept_frontmatter.

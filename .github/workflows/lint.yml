@@ -16,19 +16,19 @@ jobs:
         name: Install UV and Python
         with:
           version: latest
-          python-version: '3.13.3'
+          python-version: "3.13.3"
           activate-environment: true
           enable-cache: true
       - name: Run guardians
         id: analysis
         run: |
+          uv run make meta aliases
           uv run bin/guardian
       - name: Post review comments
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-          REPO_OWNER: ${{ github.repository_owner }}
-          REPO_NAME: ${{ github.event.repository.name }}
+          REPO_PATH: ${{ github.repository }}
           REPORT_FILE: ${{ steps.analysis.outputs.report_file }}
         run: |
-          python src/bin/post_review.py
+          PYTHONPATH=src uv run python src/bin/post_review.py

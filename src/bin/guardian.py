@@ -2,12 +2,10 @@ from argparse import ArgumentParser
 from pathlib import Path
 from sys import exit
 from typing import Iterable
-import logging
 import tempfile
 import json
 import os
 
-from guards.main.base import Base
 from guards.main.registry import ClassRegistry
 from parse.parser import RichDocParser, Section
 from parse.logger import RichDocLogger, ParseIssue, IssueLevel
@@ -57,6 +55,9 @@ def run_guards(guards: list, targets: Iterable[Path]):
 
         # TODO: RichDocParser may have raised some issues here, gather them
         doc = RichDocParser(logger).parse_file(target)
+        if not doc:
+            logger.log_fatal(f"Failed to parse file {target}")
+            continue
 
         guards_to_run = [guard for guard in guards_to_run if guard.accept_frontmatter(doc.front_matter)]
         if not guards_to_run:
