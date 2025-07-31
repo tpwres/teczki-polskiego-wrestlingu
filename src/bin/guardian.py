@@ -77,6 +77,8 @@ def run_guards(guards: list, targets: Iterable[Path]):
                         # NOTE: Maybe Guard.Base should do this dispatch?
                         case Section(start=start, id=ident, block=blocks.CardBlock() as block):
                             guard.validate_card(block)
+                            if block.ast:
+                                guard.validate_card_ast(block.ast, block)
                         case Section(start=start, id=ident, block=blocks.TextBlock() as block):
                             guard.validate_text(block)
 
@@ -122,7 +124,6 @@ def main():
         exit(0 if success else 1)
 
 def running_github_actions(args):
-    breakpoint()
     return os.getenv('GITHUB_OUTPUT') or args.ci
 
 def ci_format_issues(issues: list[ParseIssue]):

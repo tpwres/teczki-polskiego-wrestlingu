@@ -13,14 +13,14 @@ toclevel = 2
 
 On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again invited to Poznańskie Targi Piwne (_Poznań Beer Expo_). The wrestlers staged two performances on Friday, and a single, longer one on Saturday.
 
-Like the previous two shows at the Beer Expo, this one was mostly non-canon and did not continue prior storylines. 
-The only exceptions were Isnorr's title defense against Prince Striker, and Aron Wake vs [Sambor](content/w/sambor.md).
+Like the previous two shows at the Beer Expo, this one was mostly non-canon and did not continue prior storylines.
+The only exceptions were Isnorr's title defense against Prince Striker, and Aron Wake vs Sambor.
 
 ## Card
 
-{% card() %}
+{% card(predicted=true) %}
 - d: 'Friday, 17:00'
-- - '[Oskar Alexander](@/w/oskar-alexander.md)'
+- - 'Oskar Alexander'
   - '[_rookie_ Bartek](@/w/plata.md)'
   - s: Singles Match
 - - '[Aron Wake](@/w/aron-wake.md)'

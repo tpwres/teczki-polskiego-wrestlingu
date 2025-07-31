@@ -68,7 +68,8 @@ class ParseContext:
     def push_context(self, component: str, location: Optional[str] = None):
         self.context_stack.append(f"{self.current_component}:{self.current_location or 'unknown'}")
         self.current_component = component
-        self.current_location = location
+        if location:
+            self.current_location = location
 
     def pop_context(self):
         if not self.context_stack:

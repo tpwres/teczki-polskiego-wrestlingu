@@ -34,6 +34,10 @@ class Base:
         pass
 
     def validate_card(self, card: blocks.CardBlock):
+        """Validate"""
+        pass
+
+    def validate_card_ast(self, ast: list['yaml.tokens.Token'], card: blocks.CardBlock):
         pass
 
     def validate_text(self, text: blocks.TextBlock):
