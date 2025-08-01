@@ -6,6 +6,8 @@ authors = ["Szymon Iwulski"]
 toclevel = 2
 [taxonomies]
 country = ["US"]
+[extra.gallery]
+1 = { path = "mercedes-w-aew-z-pasem-ptw.webp", caption = "Mercedes Moné with the [PTW Women's Championship](@/c/ptw-womens-championship.md) in a promotional image for the 6.08.2025 episode of AEW Dynamite.", source = "Official AEW Facebook" }
 +++
 
 Mercedes Moné is an American professional wrestler, best known for her time in [WWE](@/o/wwe.md) as Sasha Banks between 2012 and 2022. Later she also competed in New Japan Pro Wrestling, World Wonder Ring Stardom, and All Elite Wrestling, as well as several smaller independent promotions worldwide.
