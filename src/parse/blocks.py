@@ -58,6 +58,15 @@ class Block:
     def text(self, line, line_num):
         self.body.append(line)
 
+    def __getitem__(self, n: int) -> str:
+        lines_count = 0
+        for line in self.body:
+            new_lines = line.count('\n')
+            if lines_count + new_lines >= n:
+                return line.splitlines()[n - lines_count - 1]
+            lines_count += new_lines
+        return ''
+
 class TextBlock(Block):
     def __repr__(self):
         full_text = ''.join(self.body)
@@ -79,7 +88,6 @@ class CardBlock(Block, AstContent):
 
     def close(self):
         card_text = ''.join(self.body)
-        self.body = []
         self.raw_card = yaml.safe_load(card_text)
         self.tokenize(StringIO(card_text))
 

@@ -46,7 +46,7 @@ class CardStateMachine:
                 state = S.MatchList
             case (S.MatchList, t.BlockEndToken()):
                 state = S.Empty
-            case (S.MatchList, t.BlockSequenceStartToken()):
+            case (S.MatchList, t.BlockSequenceStartToken() | t.FlowSequenceStartToken()):
                 state = S.MatchLine
             case (S.MatchLine | S.MatchOptions, token):
                 state, replacement = self.advance_matchline_state(token, state)
@@ -69,8 +69,6 @@ class CardStateMachine:
                 pass
             case (_, t.BlockEntryToken()): # another element in a list or mapping
                 pass
-            case _:
-                breakpoint()
 
         return state, replacement
 
@@ -82,7 +80,7 @@ class CardStateMachine:
             case (S.MatchLine, t.ScalarToken(value=value)):
                 # This is a single opponent or team
                 replacement = self.handle('match_opponent', token, value)
-            case (S.MatchLine, t.BlockMappingStartToken()):
+            case (S.MatchLine, t.BlockMappingStartToken() | t.FlowMappingStartToken()):
                 state = S.MatchOptions
             case (S.MatchOptions, t.BlockEndToken()):
                 state = S.MatchLine

@@ -1,6 +1,8 @@
 from pathlib import Path
 from parse import blocks
 from parse.logger import RichDocLogger
+from typing import Any
+import re
 
 class Base:
     # A Guard is a class inheriting from Base.
@@ -15,7 +17,7 @@ class Base:
         pass
 
     @classmethod
-    def accept_frontmatter(cls, frontmatter: blocks.FrontMatterBlock) -> bool:
+    def accept_frontmatter(cls, frontmatter: dict[str, Any]) -> bool:
         """Returns false if, based on the front matter block, this Guard should not process the file.
            Otherwise, returns True.
         """
@@ -56,3 +58,19 @@ class Base:
     # Logging through RichDocLogger
     def log_error(self, message, **kwargs):
         self.logger.log_error(message, **kwargs)
+
+    def log_warning(self, message, **kwargs):
+        self.logger.log_warning(message, **kwargs)
+
+
+    def skip_lint_instruction(self, line: str) -> bool:
+        """If line contains a trailing comment of the form:
+           # skip: GuardName (followed by any content)
+           return True, otherwise False.
+        """
+        # Extract the current guard name
+        current_guard_name = self.__class__.__name__
+
+        # Check if the line contains a skip instruction for this guard
+        skip_pattern = rf"#\s*skip:\s*{current_guard_name}\b"
+        return bool(re.search(skip_pattern, line))

@@ -1,6 +1,7 @@
 from pathlib import Path
 from collections import namedtuple
 from itertools import pairwise
+from typing import Any
 
 from parse import blocks
 from guards.main.base import Base
@@ -15,23 +16,26 @@ class EventHeaders(Base):
 
     @classmethod
     def accept_path(cls, path: Path):
-        is_event_article = path.is_relative_to('content/e')
+        return path.is_relative_to('content/e')
 
-        return is_event_article
+    @classmethod
+    def accept_frontmatter(cls, frontmatter: dict[str, Any]) -> bool:
+        template = frontmatter.get('template')
+        return template == 'event_page.html'
 
     def __init__(self):
         super().__init__()
         self.headers: list[Header] = []
         self.predicted_card = False
 
-    def validate_text(self, block: blocks.TextBlock):
+    def validate_text(self, text: blocks.TextBlock):
         # In text blocks, .params contains the extracted title
-        title = block.params
+        title = text.params
         if not title:
             return
 
-        level = self.extract_level(block.body)
-        self.headers.append(Header(title, level, block.starting_line))
+        level = self.extract_level(text.body)
+        self.headers.append(Header(title, level, text.starting_line))
 
     def validate_card(self, card: blocks.CardBlock):
         if not card.params:

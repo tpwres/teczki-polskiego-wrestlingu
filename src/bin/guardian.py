@@ -36,14 +36,18 @@ class GuardLogger(RichDocLogger):
 
     def format_message(self, message: str, issue: ParseIssue):
         match issue:
-            case ParseIssue(location=str(location), line_number=int(line_number), column_number=int(column_number)):
-                return f"{location}:{line_number}:{column_number} {message}"
-            case ParseIssue(location=str(location), line_number=int(line_number)):
-                return f"{location}:{line_number} {message}"
-            case ParseIssue(location=str(location)):
-                return f"{location} {message}"
+            case ParseIssue(component=component, location=str(location),
+                line_number=int(line_number), column_number=int(column_number)):
+                return f"{location}:{line_number}:{column_number} [{component}] {message}"
+            case ParseIssue(component=component, location=str(location), line_number=int(line_number)):
+                return f"{location}:{line_number} [{component}] {message}"
+            case ParseIssue(component=component, location=str(location)):
+                return f"{location} [{component}] {message}"
 
         return message
+
+def guard_names(guards: list):
+    return ", ".join(guard.__name__ for guard in guards)
 
 def run_guards(guards: list, targets: Iterable[Path]):
     logger = GuardLogger()
@@ -64,7 +68,7 @@ def run_guards(guards: list, targets: Iterable[Path]):
             # Skip if no guards accept this path after loading frontmatter
             continue
 
-        print(f"Checking {target}")
+        print(f"Checking {target} with {guard_names(guards_to_run)}")
 
         for guard_cls in guards_to_run:
             guard = guard_cls()
@@ -94,13 +98,12 @@ def build_argparser():
         description="Run guards (linters) on a file or directory")
 
     parser.add_argument(dest='event_files', nargs='*', metavar='filename.md',
-                        help='Filename to check. If not specified, run on all files.')
-    parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
-    parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
-    parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
+                        help='Filename or directory to check. If not specified, run on all files.')
+    # parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
+    # parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
+    # parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
     parser.add_argument('--ci', action='store_const', dest='ci', const=True, help='Simulate CI mode')
     #parser.add_argument('-L', metavar='LINTER', action='extend', dest='linters', nargs='+', help='Use the specified linters')
-    #parser.add_argument('-r', '--relative', action='store_const', dest='relative', const=True, help='Show error file paths relative to cwd')
     #parser.add_argument('-E', '--emacs', action='store_const', dest='emacs', const=True, help='Disable some checks that are not suitable for Flycheck.')
     return parser
 
@@ -108,6 +111,7 @@ def main():
     plugins = ClassRegistry()
     plugins.load_from_path('src/guards/card', package_name = 'card_guards')
     plugins.load_from_path('src/guards/doc', package_name = 'doc_guards')
+    plugins.load_from_path('src/guards/markup', package_name = 'markup_guards')
 
     parser = build_argparser()
     args = parser.parse_args()

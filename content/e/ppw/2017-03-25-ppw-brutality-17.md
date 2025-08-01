@@ -31,12 +31,13 @@ This was the final PpW show to use the old DIY ring.
 - - '[Steven Strong](@/w/biesiad.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - s: Hardcore Match
+    c: PpW European Ultraviolent Championship
 - - 'Hardcore Icon(c)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Hardcore Match
     c: H.P.W. Hardcore Championship
 - credits:
-    Referees: '???, [Miłosz](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
+    Referees: '???, [Miłosz](@/w/mister-z.md), Olgierd'
 {% end %}
 
 ### Recap
