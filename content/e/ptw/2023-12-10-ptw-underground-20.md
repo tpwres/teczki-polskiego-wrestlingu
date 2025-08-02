@@ -24,7 +24,7 @@ toclevel = 2
   - s: Triple Threat Match
 - - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - 'Samsonito: [Marcelito](@/w/marcelito.md) & [Samson](@/w/samson.md)'
-  - s: "Tag Team Match'
+  - s: 'Tag Team Match'
 - - '[King Kaiden](@/w/king-kaiden.md)'
   - '[Sędzia Rafał](@/w/alex-brave.md)'
 - - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
