@@ -25,6 +25,7 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Intergender Match
 - - '[Krampus](@/w/krampus.md) w/ [Sinister](@/w/sinister.md) & [Syriusz Dziedzic](@/w/dziedzic.md)'
   - '[Samson](@/w/samson.md)'
   - s: Handicap Match

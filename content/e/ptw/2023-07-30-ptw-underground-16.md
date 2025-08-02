@@ -17,21 +17,29 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 ## Card
 
 {% card() %}
-- - "[PAKA](@/tt/paka.md): [Boro](@/w/boro.md), [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)"
-  - "[Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md), [Gabriel Queen](@/w/gabriel-queen.md)"
-  - s: "Six-Man Tag Team Match"
-- ["[Rafi Rarytas](@/w/rafi.md)", "[Erik Šlotíř](@/w/erik-slotir.md)"]
-- ["[Wiktor Longman](@/w/wiktor-longman.md)", "[Max Speed](@/w/max-speed.md)", {r: "DQ"}]
-- ["[Diana Strong](@/w/diana-strong.md)", "[Iskra](@/w/iskra.md)", {s: "Intergender
-      Match"}]
+- - '[PAKA](@/tt/paka.md): [Boro](@/w/boro.md) & [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - s: 'Six-Man Tag Team Match'
+- - '[Rafi Rarytas](@/w/rafi.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - r: 'DQ'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - '[Iskra](@/w/iskra.md)'
+  - s: 'Intergender Match'
 - - '[Sinister](@/w/sinister.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - g: "Syriusz's Dark Baptism"
-- ["[Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md)", "[Marcelito](@/w/marcelito.md),
-    [Samson](@/w/samson.md)", {s: "Tag Team Match"}]
-- ["[Puncher](@/w/puncher.md)", "[El Ogre](@/w/olgierd.md)"]
-- ["[Nano Lopez](@/w/nano-lopez.md)", "Jarek Nowak"]
-- ["Peter Tihanyi", "[Axel Fox](@/w/axel-fox.md)"]
+- - '[Sinister](@/w/sinister.md) & [Dziedzic](@/w/dziedzic.md)'
+  - '[Marcelito](@/w/marcelito.md) & [Samson](@/w/samson.md)'
+  - s: 'Tag Team Match'
+- - '[Puncher](@/w/puncher.md)'
+  - '[El Ogre](@/w/olgierd.md)'
+- - '[Nano Lopez](@/w/nano-lopez.md)'
+  - 'Jarek Nowak'
+- - 'Peter Tihanyi'
+  - '[Axel Fox](@/w/axel-fox.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'

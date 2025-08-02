@@ -36,7 +36,8 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
   - '[Boro](@/w/boro.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - r: Countout
+  - s: Intergender Match
+    r: Countout
 - - '[Krampus](@/w/krampus.md)'
   - '[El Ogre](@/w/olgierd.md)'
 - - '[Justin Joy](@/w/justin-joy.md)'

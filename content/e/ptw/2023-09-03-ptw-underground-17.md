@@ -21,7 +21,7 @@ toclevel = 2
   - '[Boro](@/w/boro.md)'
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Sinister](@/w/sinister.md)'
-- - '[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)'
+- - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: 'Underground Street Fight'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
@@ -30,7 +30,7 @@ toclevel = 2
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Rafi Rarytas](@/w/rafi.md)'
-  - s: 'impromptu match'
+  - s: 'Impromptu match'
 - - '[Dziedzic](@/w/dziedzic.md)'
   - '["Top Gun" Samson](@/w/samson.md)'
 - credits:
