@@ -12,6 +12,7 @@ class Base:
     # An issue may also come with a Fix, which is a callable to be ran against the block text to fix the issue.
 
     logger: RichDocLogger
+    path: Path
 
     def __init__(self):
         pass
