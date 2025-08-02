@@ -32,7 +32,7 @@ class Base:
         """
         return True
 
-    def validate_frontmatter(self, frontmatter: blocks.FrontMatterBlock):
+    def validate_frontmatter(self, frontmatter: dict[str, Any], block: blocks.FrontMatterBlock):
         """Validate the front matter block."""
         pass
 
