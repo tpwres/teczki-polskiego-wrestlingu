@@ -1,6 +1,7 @@
 from argparse import ArgumentParser
 from pathlib import Path
 from sys import exit
+from types import SimpleNamespace
 from typing import Iterable
 import tempfile
 import json
@@ -46,11 +47,27 @@ class GuardLogger(RichDocLogger):
 
         return message
 
+class PrettyLogger(RichDocLogger):
+    def __init__(self):
+        super().__init__("Guard")
+
+    def format_message(self, message: str, issue: ParseIssue):
+        match issue:
+            case ParseIssue(component=component, location=str(location),
+                line_number=int(line_number), column_number=int(column_number)):
+                return f"{location}:{line_number}:{column_number} [{component}]\n\t{message}\n"
+            case ParseIssue(component=component, location=str(location), line_number=int(line_number)):
+                return f"{location}:{line_number} [{component}]\n\t{message}\n"
+            case ParseIssue(component=component, location=str(location)):
+                return f"{location} [{component}]\n\t{message}\n"
+
+        return message
+
 def guard_names(guards: list):
     return ", ".join(guard.__name__ for guard in guards)
 
-def run_guards(guards: list, targets: Iterable[Path]):
-    logger = GuardLogger()
+def run_guards(guards: list, targets: Iterable[Path], args: SimpleNamespace):
+    logger = PrettyLogger() if args.pretty else GuardLogger()
     for target in targets:
         guards_to_run = [guard for guard in guards if guard.accept_path(target)]
         if not guards_to_run:
@@ -68,7 +85,8 @@ def run_guards(guards: list, targets: Iterable[Path]):
             # Skip if no guards accept this path after loading frontmatter
             continue
 
-        print(f"Checking {target} with {guard_names(guards_to_run)}")
+        if args.verbose:
+            print(f"Checking {target} with {guard_names(guards_to_run)}")
 
         for guard_cls in guards_to_run:
             guard = guard_cls()
@@ -99,6 +117,8 @@ def build_argparser():
 
     parser.add_argument(dest='event_files', nargs='*', metavar='filename.md',
                         help='Filename or directory to check. If not specified, run on all files.')
+    parser.add_argument('-v', '--verbose', help='Output info about each file and the guards that are run on it')
+    parser.add_argument('--pretty', dest='pretty', action='store_true', help='Show diagnostic messages in a nicer, less cramped way')
     # parser.add_argument('-A', action='store_const', const=True, dest='auto', help="Fix errors automatically")
     # parser.add_argument('-a', action='store_const', const=True, dest='auto_dryrun', help="Like -A, but display changes, don't edit the files.")
     # parser.add_argument('-f', action='store_const', const=True, dest='filter_mode', help='Run in filter mode. Read stdin, write to stdout, never modify files')
@@ -119,7 +139,7 @@ def main():
     targets = expand_targets(args.event_files)
     guards = list(plugins.registry.values())
 
-    success, issues = run_guards(guards, targets)
+    success, issues = run_guards(guards, targets, args)
     if running_github_actions(args):
        fd, tmpname = tempfile.mkstemp(suffix='.json', prefix='guardian_lint')
        with os.fdopen(fd, 'w') as fp:

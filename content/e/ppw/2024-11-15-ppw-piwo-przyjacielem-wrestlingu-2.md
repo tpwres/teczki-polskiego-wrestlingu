@@ -20,7 +20,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 
 {% card() %}
 - d: 'Friday, 17:00'
-- - '[Oskar Alexander](@/w/rookie-oskar.md)'
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[_rookie_ Bartek](@/w/plata.md)'
   - s: Singles Match
 - - '[Aron Wake](@/w/aron-wake.md)'
