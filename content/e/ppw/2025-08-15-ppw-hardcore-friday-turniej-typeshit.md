@@ -26,8 +26,8 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) is an u
 ## Card
 
 {% card(predicted=true) %}
-- - 'The Hardcores: [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md)'
-  - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
+- - 'The Hardcores: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Warszawski Brawl Tag Team Match
     nc: upcoming
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'

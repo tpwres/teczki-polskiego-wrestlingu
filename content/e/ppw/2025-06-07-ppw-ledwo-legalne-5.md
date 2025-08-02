@@ -34,8 +34,8 @@ Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show 
 ## Card
 
 {% card() %}
-- - '[Marcelito](@/w/marcelito.md), [Bartosz Plata](@/w/plata.md)'
-  - 'Atilla, Danny Roxx'
+- - '[Marcelito](@/w/marcelito.md) & [Bartosz Plata](@/w/plata.md)'
+  - 'Atilla & Danny Roxx'
   - s: Pre-show Tag Team Match
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Sentinel](@/w/sentinel.md)'

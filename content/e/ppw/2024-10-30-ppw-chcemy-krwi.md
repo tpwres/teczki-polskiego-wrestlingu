@@ -68,7 +68,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
   However, the creature who snatched the beer was someone else.
   In comes Goblin, but with red facepaint - Michael announces him as Gremlin. He carries with him a black bag in the shape of a body, with Goblin's signature mask on it, and proceeds to piledrive it, followed by a couple of elbow drops and a legdrop.
 * This new Gremlin character is more feral, walks hunched, and communicates only in grunts and shrieks. Apparently he's also afraid of loud noises, because Johnny scares him with a small bicycle horn. He offers candy to the audience and to Johnny, who initially refuses to accept them. When he does, he immediately starts choking.
-* The fight sees creative use of pumpkins: Johnny plants one on Gremlin's head, turning him into a Jack'o'lantern. Later, Gremlin uses a small pumpkin as a weapon.
+* The fight sees creative use of pumpkins: Johnny plants one on Gremlin's head, turning him into a Jack-o'-lantern. Later, Gremlin uses a small pumpkin as a weapon.
 * Johnny introduces a wizard's hat to the ring and pulls out something from it, which scares Gremlin, causing him to comically flip around. This turned out to be a decorative spider, and Johnny later spills a number of them from the hat and into the ring.
 * Gremlin lifts Johnny into a powerbomb position to hurl him into a table in the corner, but Johnny manages to counter into a headscissors takedown onto the same table. Johnny follows with his signature splash holding a [T-3 road sign plate](https://en.wikipedia.org/wiki/Road_signs_in_Poland#Complementary_plates) that says "End".
 * Winner: Johnny Blade by pinfall.

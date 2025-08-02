@@ -51,8 +51,8 @@ Shortly before the show, they were trading insults and challeneges online with L
 ## Card
 
 {% card() %}
-- - 'Legia Łysych: [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md)'
-  - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
+- - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
+  - '[Pure Gold](@/tt/pure-gold.md): [Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Open Challenge Tag Team Match
 - - '[Jakob Sigmarsson](@/w/jakub-linde.md)'
   - Mef the Death
@@ -61,16 +61,15 @@ Shortly before the show, they were trading insults and challeneges online with L
   - '[Robert Star](@/w/robert-star.md)'
   - r: DQ
     c: UEWA Heavyweight Championship
-    note: Robert attacked the referee to retain
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md); [Jakob Sigmarsson](@/w/jakub-linde.md), [Rafi](@/w/rafi.md)'
+    n: Robert attacked the referee to retain
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md) w/ [Jakob Sigmarsson](@/w/jakub-linde.md), [Rafi](@/w/rafi.md)'
   - '[Goblin](@/w/goblin.md)'
-  - s: "No Holds Barred #1 Contender Match"
+  - s: 'No Holds Barred #1 Contender Match'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    n: 'Immediately after the match, Mr Z granted #1 Contender [Gustav Gryffin](@/w/gustav-gryffin.md)
-      his championship opportunity.'
+    n: 'Immediately after the match, Mr Z granted #1 Contender [Gustav Gryffin](@/w/gustav-gryffin.md) his championship opportunity.'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -78,9 +77,9 @@ Shortly before the show, they were trading insults and challeneges online with L
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
-  - c: "[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
+  - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
     s: Born To Be Wired Four Way Elimination Match
-    n: Originally a 1-1 match, the other two opponents added themselves.
+    n: Originally a 1-on-1 match; the other two opponents added themselves.
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'

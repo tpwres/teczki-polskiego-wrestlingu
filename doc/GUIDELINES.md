@@ -1,4 +1,3 @@
-
 # General guidelines
 
 - Write in English. While the site is about Polish wrestling only, it's more useful that way. If there's demand, we may allow articles in Polish to accompany English-language ones.

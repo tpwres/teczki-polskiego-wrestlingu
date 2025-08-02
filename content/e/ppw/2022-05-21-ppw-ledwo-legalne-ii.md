@@ -34,7 +34,7 @@ Several international wrestlers debuted for PpW at this event, most of them from
 ## Card
 
 {% card() %}
-- - '[Mister Z](@/w/mister-z.md); Ms. XXX'
+- - '[Mister Z](@/w/mister-z.md) w/ Ms. XXX'
   - '[Steve Kuningas](@/w/steve-kuningas.md)'
 - - '[Tony Sk1n](@/w/tony-sk1n.md)'
   - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
@@ -48,7 +48,7 @@ Several international wrestlers debuted for PpW at this event, most of them from
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     r: 'Submission'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - 'Viking; Jarl'
+  - 'Viking w/ Jarl'
   - s: 'Chaos Gods Deathmatch'
     c: |
       [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md),

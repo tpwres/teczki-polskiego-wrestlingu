@@ -23,7 +23,7 @@ toclevel = 2
   - '[_rookie_ Oskar](@/w/oskar-alexander.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - s: Ustawka bez sprzętu (_no weapons hooligan street fight_)
+  - s: Ustawka bez sprzętu (_No weapons hooligan street fight_)
     r: DQ - Olgierd used a kendo stick
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Bill Feager](@/w/feager.md)'
@@ -32,8 +32,8 @@ toclevel = 2
     n: Michael HT declared Biesiad the winner, but an [official Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0GvoYdEwBwUSNJ3H5WPmwUcP7sFXjA5ECQ84eXkWXbKwpHfPGzcxzE9MhWkEPSRJAl) later called the fight a no contest.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Marcelito](@/w/marcelito.md)'
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
-  - '[Samson](@/w/samson.md), [Johnny Blade](@/w/johnny-blade.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Isnorr](@/w/isnorr.md)'
+  - '[Samson](@/w/samson.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - s: Anarchy Cyclone Tag Team Match
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
@@ -42,7 +42,7 @@ toclevel = 2
   - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Samson](@/w/samson.md)'
-  - g: '[Zmowa](@/tt/zmowa.md) vs Zmowa przeciwko zmowie face-off'
+  - g: '[Zmowa](@/tt/zmowa.md) vs Zmowa Przeciwko Zmowie face-off'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'

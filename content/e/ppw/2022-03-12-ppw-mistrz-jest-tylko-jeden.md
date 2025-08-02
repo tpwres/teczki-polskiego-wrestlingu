@@ -19,17 +19,17 @@ Mistrz Jest Tylko Jeden (_There Is Only One Champion_) was a show by [PpW Ewenem
 
 {% card() %}
 - - "[Isnorr](@/w/isnorr.md)"
-  - "[Royal Striker](@/w/royal-striker.md); [Direk](@/w/direk.md)"
+  - "[Royal Striker](@/w/royal-striker.md) w/ [Direk](@/w/direk.md)"
   - n: Direk forced Isnorr to fight Striker as a condition of facing him later in the evening.
 - - "[Adam Wong](@/w/adam-wong.md)"
   - "[Ricardo Diesel](@/w/ricardo-diesel.md)"
 - - "[Bill Feager](@/w/feager.md)"
   - "[Tony Sk1n](@/w/tony-sk1n.md)"
   - s: Hardcore Match
-- - "[Direk](@/w/direk.md); [Royal Striker](@/w/royal-striker.md)"
+- - "[Direk](@/w/direk.md) w/ [Royal Striker](@/w/royal-striker.md)"
   - "[Isnorr](@/w/isnorr.md)"
   - s: Best Two Out Of Three Falls Match
-    n: Direk used the [DFW](@/o/dfw.md) Championship belt to strike Isnorr and win.
+    n: Direk used the [DFW Championship](@/c/dfw-championship.md) belt to strike Isnorr and win.
 - - "[Biesiad Strong](@/w/biesiad.md)"
   - "[Johnny Blade](@/w/johnny-blade.md)"
   - "[Mister Z](@/w/mister-z.md)"

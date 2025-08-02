@@ -42,12 +42,12 @@ The foreign guests for this event were:
 ## Card
 
 {% card() %}
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md); [Jakob Sigmarsson](@/w/jakub-linde.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md) w/ [Jakob Sigmarsson](@/w/jakub-linde.md)'
   - Nick Schreier
   - '[Samson](@/w/samson.md)'
   - s: Three Way Dance
-- - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
-  - "Baklava Club: Aytac Bahar, Joshua Amaru"
+- - "[Pure Gold](@/tt/pure-gold.md): [Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)"
+  - 'Baklava Club: Aytac Bahar & Joshua Amaru'
   - s: Tag Team Match
 - - '[Goblin](@/w/goblin.md)'
   - Benny Bacchus
@@ -58,13 +58,13 @@ The foreign guests for this event were:
   - Rambo
 - - '[Bill Feager](@/w/feager.md)(c)'
   - '[Mister Z](@/w/mister-z.md)'
-  - c: "[PpW Championship](@/c/ppw-championship.md)"
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Kapitan Bazooka](@/w/kapitan-bazooka.md), [Jerry "Rich" Mandecky](@/w/jerry-mandecky.md)'
   - g: Bazooka turns on Mandecky
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
-  - c: "[PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
-    n: "[Johnny Blade](@/w/johnny-blade.md) was the special guest referee."
+  - c: '[PpW Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+    n: '[Johnny Blade](@/w/johnny-blade.md) was the special guest referee.'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
@@ -119,11 +119,11 @@ Winners: Pure Gold
 Show of respect between two teams, they shake hands, Baklava raise the victors' hands... only to lay them out with low-blows.
 They beat Pure Gold down and celebrate their "victory" in the ring.
 
-#### Critical 420 Ladder Match for 20g of marijuana: Benny Bacchus v Isnorr v Rafi v Goblin
+#### Critical 420 Ladder Match for 20&nbsp;g of marijuana: Benny Bacchus v Isnorr v Rafi v Goblin
 
 Timestamp: `1:45:36`
 
-The trophy (20g of marijuana, declared to be CBD) is hung high above the ring.
+The trophy (20&nbsp;g of marijuana, declared to be CBD) is hung high above the ring.
 
 All 4 men square off, Rafi taunts everyone else. They beat him down.
 Isnorr stays in the ring with Rafi, while Goblin and Bacchus bring a ladder from the entrance ramp.

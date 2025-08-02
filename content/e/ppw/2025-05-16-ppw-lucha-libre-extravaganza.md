@@ -33,13 +33,13 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
   - nc: No contest due to interference, changed to a Trios match
 - - >
     Team Técnicos:
-      [El Señor Cerveza](@/w/goblin.md),
-      [Martinez Grabollo](@/w/gustav-gryffin.md),
+      [El Señor Cerveza](@/w/goblin.md) &
+      [Martinez Grabollo](@/w/gustav-gryffin.md) &
       [La Gatita](@/w/agentka-agatka.md)
   - >
     Team Rudos:
-      [_Real Tijuana Deal_ Mister Z](@/w/mister-z.md),
-      [Hirinus de Exsantus](@/w/biesiad.md),
+      [_Real Tijuana Deal_ Mister Z](@/w/mister-z.md) &
+      [Hirinus de Exsantus](@/w/biesiad.md) &
       [Czacha](@/w/johnny-blade.md)
   - s: Trios match
 - credits:

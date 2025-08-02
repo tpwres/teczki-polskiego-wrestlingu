@@ -20,11 +20,8 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
 ## Card
 
 {% card() %}
-- - >
-    2 Chamy:
-    [Automatico](@/w/rob-scaffold.md),
-    [Black Orion](@/w/johnny-blade.md)(c)
-  - '[Hirinus](@/w/mister-z.md), [Feager](@/w/feager.md)'
+- - '2 Chamy: [Automatico](@/w/rob-scaffold.md) & [Black Orion](@/w/johnny-blade.md)(c)'
+  - '[Hirinus](@/w/mister-z.md) & [Feager](@/w/feager.md)'
   - s: Tag Team Match
     c: PpW Tag Team Championship
 - - '[Hades](@/w/olgierd.md)'
@@ -35,13 +32,13 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
   - s: Non-Title Champions Match
 - - >
     Team Lucha:
-    [Rob Scaffold](@/w/rob-scaffold.md),
-    [Steven Strong](@/w/biesiad.md),
+    [Rob Scaffold](@/w/rob-scaffold.md) &
+    [Steven Strong](@/w/biesiad.md) &
     [Black Orion](@/w/johnny-blade.md)
   - >
     Team Hardcore:
-    [Hades](@/w/olgierd.md),
-    [Jim Enerico](@/w/mister-z.md),
+    [Hades](@/w/olgierd.md) &
+    [Jim Enerico](@/w/mister-z.md) &
     [Feager](@/w/feager.md)
   - s: 3 vs 3 Elimination Tag Team Match
 - credits:
