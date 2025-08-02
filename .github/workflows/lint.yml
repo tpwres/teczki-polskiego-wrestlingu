@@ -26,7 +26,6 @@ jobs:
           R2_ENDPOINT: ${{ vars.R2_ENDPOINT }}
         run: |
           aws s3api --endpoint-url $R2_ENDPOINT list-objects --output json --bucket tpw-images --query 'Contents[?Size>`0`].[Key,LastModified,Size,ETag]' > r2_bucket_index.json
-          cat r2_bucket_index.json
       - name: Run guardians
         id: analysis
         run: |
