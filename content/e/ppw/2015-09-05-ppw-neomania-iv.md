@@ -61,7 +61,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
 * The commentators kept mispronouncing "Feager" as /ˈfiː.dʒər/ instead of /ˈfeɪ.dʒər/ during his fight (but not later on).
 * When put in a Tombstone Piledriver by Feager, Johnny Blade protected his head with his hand, much a commentator's great amusement.
 * At one point during his match, Feager attacked Blade with a plastic vuvuzela.
-* During Extreme Floorfiller vs KAT, the commentator gave shoutouts to wrestlers from other groups: Lion and CMD from DWN, Patryk and Daniel from [DDW](@/o/ddw.md); [Krzysztof Jabłoński](@/w/chris-hunter.md) and [Rafał Orszak](@/w/rafael-kid.md) from [DFW](@/o/dfw.md); and Michał Wójtowicz from "WDW" (said to be an in-joke). They refer to DFW as a professional federation.
+* During Extreme Floorfiller vs KAT, the commentator gave shoutouts to wrestlers from other groups: [Lion](@/w/vic-golden.md) and CMD from DWN, Patryk and Daniel from [DDW](@/o/ddw.md); [Krzysztof Jabłoński](@/w/chris-hunter.md) and [Rafał Orszak](@/w/rafael-kid.md) from [DFW](@/o/dfw.md); and Michał Wójtowicz from "WDW" (said to be an in-joke). They refer to DFW as a professional federation.
 * Automatico won the first round by very conspicuously putting both of his legs on the ropes, which the referee didn't seem to notice (or care about).
 * Around 3.5 minutes before the end of the show, a woman can be heard greeting the commentators, who respond in kind.
 * Several seconds later the camera's battery died and the show cut to a second camera, this one using 4:3 aspect ratio (as opposed to the first one's 16:9).
