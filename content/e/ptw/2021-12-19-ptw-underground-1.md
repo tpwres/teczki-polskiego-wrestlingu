@@ -19,11 +19,16 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 ## Card
 
 {% card() %}
-- ['[Renegade](@/w/renegade.md)', '[Axel Fox](@/w/axel-fox.md)']
-- ['[Sinister](@/w/sinister.md)', '[Disco Pablo](@/w/disco-pablo.md)']
-- ['[Remo](@/w/remo.md)', '[Joe E. Legend](@/w/joe-legend.md)']
-- [Arczi Czajka, '[Gabriel Queen](@/w/gabriel-queen.md)']
-- ['[Nano Lopez](@/w/nano-lopez.md)', '[Tamas "Nitro" Szabo](@/w/nitro.md)']
+- - '[Renegade](@/w/renegade.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Sinister](@/w/sinister.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
+- - '[Remo](@/w/remo.md)'
+  - '[Joe E. Legend](@/w/joe-legend.md)'
+- - Arczi Czajka
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+- - '[Nano Lopez](@/w/nano-lopez.md)'
+  - '[Tamas "Nitro" Szabo](@/w/nitro.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >

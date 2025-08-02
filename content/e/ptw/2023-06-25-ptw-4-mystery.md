@@ -28,19 +28,26 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 ## Card
 
 {% card() %}
-- - "Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)"
-  - "[Axel Fox](@/w/axel-fox.md), [Jonny Storm](@/w/jonny-storm.md)"
-  - s: "PTW Tag Team Championship #1 Contender"
-- ["[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)", '[Boro](@/w/boro.md)']
-- ['[Diana Strong](@/w/diana-strong.md)', Amale]
-- ["[Krampus](@/w/krampus.md); [Sinister](@/w/sinister.md)", Peter Tihanyi]
-- ['[Samson](@/w/samson.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Rafi Rarytas](@/w/rafi.md)']
-- ['[Robert Star](@/w/robert-star.md)(c)', '[Dawid "Puncher" Seńko](@/w/puncher.md)',
-  {c: "Dansk Pro Wrestling Worlds Championship"}]
-- - "PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)"
-  - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
-  - {c: PTW Tag Team Championship, s: Tables Match}
+- - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)'
+  - '[Axel Fox](@/w/axel-fox.md) & [Jonny Storm](@/w/jonny-storm.md)'
+  - s: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) #1 Contender'
+- - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
+  - '[Boro](@/w/boro.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - Amale
+- - '[Krampus](@/w/krampus.md) w/ [Sinister](@/w/sinister.md)'
+  - Peter Tihanyi
+- - '[Samson](@/w/samson.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[Rafi Rarytas](@/w/rafi.md)'
+- - '[Robert Star](@/w/robert-star.md)(c)'
+  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - c: 'Dansk Pro Wrestling Worlds Championship'
+- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
+  - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: Tables Match
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[John "Bad Bones" Klinger](@/w/bad-bones.md)'
   - g: Kidnapping Rzeźniczek

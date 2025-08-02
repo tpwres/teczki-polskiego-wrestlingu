@@ -15,18 +15,23 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
 ## Card
 
 {% card() %}
-- ['["Top Gun" Samson](@/w/samson.md)', '[Jacob Crane](@/w/jacob-crane.md)']
+- - '["Top Gun" Samson](@/w/samson.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Minion](@/w/sedzia-klaudiusz.md)'
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Aron Wake](@/w/aron-wake.md)']
-- ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '[Boro](@/w/boro.md)']
-- ['[Axel Fox](@/w/axel-fox.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- ['[Diana Strong](@/w/diana-strong.md)', Sixt]
-- - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
-  - 'The Bright Lights: [Karol "Iskra" Górski](@/w/iskra.md), [Marcel "Marcelito"
-    Budzianowski](@/w/marcelito.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+- - '[John "Bad Bones" Klinger](@/w/bad-bones.md)'
+  - '[Boro](@/w/boro.md)'
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - Sixt
+- - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'The Bright Lights: [Karol "Iskra" Górski](@/w/iskra.md) & [Marcel "Marcelito" Budzianowski](@/w/marcelito.md)'
   - s: Tag Team Match
-- ['[Justin Joy](@/w/justin-joy.md)', Senza Volto]
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - Senza Volto
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'

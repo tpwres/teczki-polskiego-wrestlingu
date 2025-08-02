@@ -19,22 +19,22 @@ This was the first appearance of Aigle Blanc for PTW, and the second for Senza V
 ## Card
 
 {% card() %}
-- - 'Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)'
-  - 'The Bright Lights: [Marcelito](@/w/marcelito.md), [Karol "Iskra" Górski](@/w/iskra.md)'
+- - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'The Bright Lights: [Marcelito](@/w/marcelito.md) & [Karol "Iskra" Górski](@/w/iskra.md)'
   - s: 'First Round Tag Team Match for the inaugurual [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament'
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Emilian Lewis'
 - - '[Rafi Rarytas](@/w/rafi.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
-- - 'Arrows of Hungary: [Dover](@/w/dover.md), Icarus'
-  - '[Robert Star](@/w/robert-star.md), [Dawid "Puncher" Seńko](@/w/puncher.md)'
+- - 'Arrows of Hungary: [Dover](@/w/dover.md) & Icarus'
+  - '[Robert Star](@/w/robert-star.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - s: 'First Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament'
 - - '["Top Gun" Samson](@/w/samson.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
 - - '[Sinister](@/w/sinister.md)'
   - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
-- - '[Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md)'
-  - 'The Frenchadors: Aigle Blanc, Senza Volto'
+- - '[Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+  - 'The Frenchadors: Aigle Blanc & Senza Volto'
   - s: 'First Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

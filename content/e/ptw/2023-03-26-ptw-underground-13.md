@@ -17,18 +17,24 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
 ## Card
 
 {% card() %}
-- ['["Top Gun" Samson](@/w/samson.md)', '[Justin Joy](@/w/justin-joy.md)']
-- ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Boro](@/w/boro.md)']
-- ['[Karol "Iskra" Górski](@/w/iskra.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Axel Fox](@/w/axel-fox.md)', '[Vic Golden](@/w/vic-golden.md)']
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Diana Strong](@/w/diana-strong.md)',
-  {s: Intergender Match}]
-- ['[Robert Star](@/w/robert-star.md)', '[Olgierd](@/w/olgierd.md)']
-- ['[Hunyadi Tamas](@/w/hunyadi-tamas.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- - 'PAKA: [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)'
-  - 'Arrows of Hungary: [Dover](@/w/dover.md), Icarus'
-  - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship
-      Tournament
+- - '["Top Gun" Samson](@/w/samson.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Boro](@/w/boro.md)'
+- - '[Karol "Iskra" Górski](@/w/iskra.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Diana Strong](@/w/diana-strong.md)'
+  - s: Intergender Match
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+- - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
+  - 'Arrows of Hungary: [Dover](@/w/dover.md) & Icarus'
+  - s: Semi Final Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'

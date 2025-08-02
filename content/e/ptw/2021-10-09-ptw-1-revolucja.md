@@ -44,8 +44,8 @@ toclevel = 2
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - g: 'Pawłowski welcomes Trybson to PTW. When asked about his first opponent, he gets challenged by Puncher, whom he throws over the top rope'
-- - 'Marius Al-Ani, [Syriusz Dziedzic](@/w/dziedzic.md)'
-  - '[Disco Pablo](@/w/disco-pablo.md), [Santino](@/w/santino.md)'
+- - 'Marius Al-Ani & [Syriusz Dziedzic](@/w/dziedzic.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md) & [Santino](@/w/santino.md)'
   - s: Tag Team Match
 - - 'Chris Masters'
   - '[Robert Star](@/w/robert-star.md)'
