@@ -19,6 +19,12 @@ jobs:
           python-version: "3.13.3"
           activate-environment: true
           enable-cache: true
+      - name: Fetch images index
+        run: |
+          export AWS_ACCESS_KEY_ID=$S3_ACCESS_KEY_ID
+          export AWS_SECRET_ACCESS_KEY=$S3_SECRET_ACCESS_KEY
+          aws s3api --endpoint-url $R2_ENDPOINT list-objects --output json list-objects --bucket tpw-images --query  'Contents[?Size>`0`].[Key,LastModified,Size,ETag]' > r2_bucket_index.json
+          cat r2_bucket_index.json
       - name: Run guardians
         id: analysis
         run: |
