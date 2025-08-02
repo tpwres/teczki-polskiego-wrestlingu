@@ -232,8 +232,9 @@ class Match:
                     raise MatchParseError(message)
 
 
-    def parse_partners(self, partners: list[str]) -> Iterable[Union[Participant, Team]]:
-        return [t for p in partners if (t := self.parse_maybe_team(p))]
+    @classmethod
+    def parse_partners(cls, partners: list[str]) -> Iterable[Union[Participant, Team]]:
+        return [t for p in partners if (t := cls.parse_maybe_team(p))]
 
     plain_name_re = r"[-'\w\s]+"
     team_link_re = rf'''
@@ -256,8 +257,9 @@ class Match:
          \s* # Eat trailing space
         ''', re.VERBOSE|re.DOTALL) # NOTE: Dotall makes the dot in <people> regex match newlines
 
-    def parse_maybe_team(self, text: str) -> Optional[Union[Participant, Team]]:
-        m = Match.tag_team_re.match(text)
+    @classmethod
+    def parse_maybe_team(cls, text: str) -> Optional[Union[Participant, Team]]:
+        m = cls.tag_team_re.match(text)
         if not m:
             raise ValueError(f"Couldn't match {text}")
 

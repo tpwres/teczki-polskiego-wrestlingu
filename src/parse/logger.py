@@ -1,4 +1,5 @@
 from contextlib import contextmanager
+import sys
 import logging
 import threading
 import traceback
@@ -67,7 +68,8 @@ class ParseContext:
     def push_context(self, component: str, location: Optional[str] = None):
         self.context_stack.append(f"{self.current_component}:{self.current_location or 'unknown'}")
         self.current_component = component
-        self.current_location = location
+        if location:
+            self.current_location = location
 
     def pop_context(self):
         if not self.context_stack:
@@ -81,28 +83,16 @@ class ParseContext:
     def get_full_context(self) -> str:
         full_path = [
             entry.split(':', 1)[0]
-            for entry in self.context_stack
+            for entry in self.context_stack[1:]
         ]
         full_path.append(self.current_component)
         return " > ".join(full_path)
 
 class RichDocLogger:
-    def __init__(self, logger_name: str = "RichDocParser"):
-        self.logger = logging.getLogger(logger_name)
+    def __init__(self, logger_name: str = "RichDocParser", stream = None):
         self.issues: List[ParseIssue] = []
         self.context = ParseContext()
-        self._setup_logger()
-
-    def _setup_logger(self):
-        if self.logger.handlers: return
-
-        handler = logging.StreamHandler()
-        formatter = logging.Formatter(
-            "[%(asctime)s] %(levelname)s | %(name)s | %(message)s"
-        )
-        handler.setFormatter(formatter)
-        self.logger.addHandler(handler)
-        self.logger.setLevel(logging.INFO)
+        self.stream = stream or sys.stderr
 
     def log_warning(self, message: str, **kwargs):
         self._log_issue(IssueLevel.WARNING, message, **kwargs)
@@ -117,6 +107,9 @@ class RichDocLogger:
         kwargs.update(exception=exc, traceback=traceback.format_exception(exc))
         self._log_issue(IssueLevel.ERROR, message, **kwargs)
 
+    def format_message(self, message: str, issue: ParseIssue):
+        return message
+
     def _log_issue(self, level, message: str, **kwargs):
         issue = ParseIssue(
             level=level,
@@ -127,9 +120,8 @@ class RichDocLogger:
         )
         self.issues.append(issue)
 
-        log_method = getattr(self.logger, level.value)
-        context = f"({self.context.get_full_context()}) {message}"
-        log_method(context)
+        msg = self.format_message(message, issue)
+        print(msg, file=self.stream)
 
     @contextmanager
     def parsing_context(self, component: str, location: Optional[str] = None):

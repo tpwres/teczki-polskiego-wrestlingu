@@ -1,8 +1,10 @@
 from functools import partial
 from typing import ClassVar, Any, Optional
 import yaml
+from yaml import cyaml
 import tomllib
 from textwrap import shorten
+from io import StringIO
 
 class BlockRegistry:
     block_classes: ClassVar[dict[Optional[str], type]] = {}
@@ -29,6 +31,15 @@ class BlockRegistry:
 
 register_block = BlockRegistry.register_block
 
+class AstContent:
+    ast: list[yaml.Token]
+
+    def tokenize(self, stream):
+        loader = cyaml.CLoader(stream)
+        self.ast = []
+        while token := loader.get_token():
+            self.ast.append(token)
+
 class Block:
     "Basic block that collects text without processing it."
     starting_line: int
@@ -47,28 +58,38 @@ class Block:
     def text(self, line, line_num):
         self.body.append(line)
 
+    def __getitem__(self, n: int) -> str:
+        lines_count = 0
+        for line in self.body:
+            new_lines = line.count('\n')
+            if lines_count + new_lines >= n:
+                return line.splitlines()[n - lines_count - 1]
+            lines_count += new_lines
+        return ''
+
 class TextBlock(Block):
     def __repr__(self):
         full_text = ''.join(self.body)
         return f'<TextBlock@{self.starting_line} {shorten(full_text, 40)}>'
 
+    @property
+    def title(self):
+        return self.params
 
 
 @register_block('card')
-class CardBlock(Block):
+class CardBlock(Block, AstContent):
     raw_card: list[Any]
 
     def __init__(self, params, line_num):
         super().__init__(params, line_num)
         self.raw_card = []
+        self.ast = []
 
     def close(self):
         card_text = ''.join(self.body)
-        self.body = []
-        try:
-            self.raw_card = yaml.safe_load(card_text)
-        except yaml.YAMLError as e:
-            raise ParseError(e)
+        self.raw_card = yaml.safe_load(card_text)
+        self.tokenize(StringIO(card_text))
 
 @register_block('free_card')
 class FreeCardBlock(Block):
