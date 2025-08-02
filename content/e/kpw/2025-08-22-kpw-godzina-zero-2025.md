@@ -20,6 +20,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 * On 18.07.2025 KPW released a [video][młodzi-wilcy] in which a group of 13 rookies addressed [chairman Malinowski](@/w/krystian-malinowski.md), stating they're fed up with being bullied by [Tomczak](@/w/tomczak.md) and demanding a match against him. The group included [Adam Wong](@/w/adam-wong.md), the rookie manhandled by Tomczak at [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), and three women, hinting at the first match to include female talent in [five years](@/e/kpw/2020-02-01-kpw-arena-16.md).
 * On 23.07.2025 [Krystian Malinowski](@/w/krystian-malinowski.md) [replied][malinowski-odpowiada], saying that the idea of rookies facing Tomczak is so absurd he's willing to agree. However, he stated that only three of the "rebels" will get to do the honours and that the lucky ones will be decided in a battle royal to be held "in a moment".
 * Two days later KPW posted a [video][zwyciezka-trojka] of the battle royal, with the three winners being congratulated - but also warned - by [Krystian Malinowski](@/w/krystian-malinowski.md).
+* On 2.08.2025 [Chemik](@/w/chemik.md) vs Lato for the KPW OldTown Championship was officially confirmed.
 
 ## Predicted card
 
