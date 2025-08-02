@@ -26,7 +26,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - '[PAKA](@/tt/paka.md): [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md) w/ [Boro](@/w/boro.md)'
   - s: Tag Team Match
 - - '[Marty Scurll](@/w/marty-scurll.md)'
-  - '[Primate](@/w/primate.md)']
+  - '[Primate](@/w/primate.md)'
 - - '[Myla Grace](@/w/myla-grace.md)'
   - Xia Brookside
   - '[Diana Strong](@/w/diana-strong.md)'

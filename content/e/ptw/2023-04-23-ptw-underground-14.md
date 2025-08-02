@@ -21,7 +21,7 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
-  - g: 'Dr Fox examines Marco's baldness'
+  - g: "Dr Fox examines Marco's baldness"
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
