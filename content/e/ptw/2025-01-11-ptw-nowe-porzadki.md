@@ -36,7 +36,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - '[Newt Nova](@/w/newt-nova.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Amy Heartbeat'
-  - c: '[PTW Women's Championship](@/c/ptw-womens-championship.md)'
+  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     s: 'Tournament First Round Match'
 - - '[Alex Brave](@/w/alex-brave.md)'
   - g: Alex mocks and challenges Spartan
