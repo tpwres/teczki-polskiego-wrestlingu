@@ -17,25 +17,25 @@ toclevel = 2
 ## Card
 
 {% card() %}
-- - Daniel Bryan
-  - Justin Gabriel
-  - Tyson Kidd
+- - 'Daniel Bryan'
+  - 'Justin Gabriel'
+  - 'Tyson Kidd'
   - s: Triple Threat Match
-- - Brodus Clay
-  - Ted DiBiase
-- - Ezekiel Jackson
-  - Jinder Mahal
-- - Hunico
-  - Yoshi Tatsu
+- - 'Brodus Clay'
+  - 'Ted DiBiase'
+- - 'Ezekiel Jackson'
+  - 'Jinder Mahal'
+- - 'Hunico'
+  - 'Yoshi Tatsu'
 - - '[Sheamus](@/w/sheamus.md)'
-  - Wade Barrett
-- - Alicia Fox
-  - Natalya
-- - Randy Orton
-  - Cody Rhodes
+  - 'Wade Barrett'
+- - 'Alicia Fox'
+  - 'Natalya'
+- - 'Randy Orton'
+  - 'Cody Rhodes'
   - s: Street Fight
-- - The Big Show
-  - Mark Henry (c)
+- - 'The Big Show'
+  - 'Mark Henry (c)'
   - c: WWE World Heavyweight Championship
     r: DQ
 {% end %}

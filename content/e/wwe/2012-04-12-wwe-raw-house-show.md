@@ -17,28 +17,28 @@ This was the second [WWE](@/o/wwe.md) show in Poland, and the first RAW. Like th
 ## Card
 
 {% card() %}
-- - Lord Tensai
-  - Alex Riley
-- - Kofi Kingsto & R-Truth
-  - Epico & Primo
+- - 'Lord Tensai'
+  - 'Alex Riley'
+- - 'Kofi Kingsto & R-Truth'
+  - 'Epico & Primo'
   - s: Tag Team Match
-- - Zack Ryder
-  - The Miz
-- - Brodus Clay
-  - JTG
+- - 'Zack Ryder'
+  - 'The Miz'
+- - 'Brodus Clay'
+  - 'JTG'
 - - '[Santino Marella](@/w/santino.md)(c)'
-  - David Otunga
-  - Jack Swagger
+  - 'David Otunga'
+  - 'Jack Swagger'
   - s: Triple Threat Match
     c: WWE United States Championship
-- - Beth Phoenix (c)
-  - Kelly Kelly
+- - 'Beth Phoenix (c)'
+  - 'Kelly Kelly'
   - c: WWE Divas Championship
-- - John Cena
-  - Kane
+- - 'John Cena'
+  - 'Kane'
   - s: Last Man Standing Match
-- - CM Punk (c)
-  - Dolph Ziggler
+- - 'CM Punk (c)'
+  - 'Dolph Ziggler'
   - c: WWE Heavyweight Championship
 {% end %}
 
