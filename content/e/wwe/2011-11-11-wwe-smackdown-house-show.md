@@ -17,12 +17,20 @@ toclevel = 2
 ## Card
 
 {% card() %}
-- [Daniel Bryan, Justin Gabriel, Tyson Kidd, {s: Triple Threat Match}]
-- [Brodus Clay, Ted DiBiase]
-- [Ezekiel Jackson, Jinder Mahal]
-- [Hunico, Yoshi Tatsu]
-- ['[Sheamus](@/w/sheamus.md)', Wade Barrett]
-- [Alicia Fox, Natalya]
+- - Daniel Bryan
+  - Justin Gabriel
+  - Tyson Kidd
+  - s: Triple Threat Match
+- - Brodus Clay
+  - Ted DiBiase
+- - Ezekiel Jackson
+  - Jinder Mahal
+- - Hunico
+  - Yoshi Tatsu
+- - '[Sheamus](@/w/sheamus.md)'
+  - Wade Barrett
+- - Alicia Fox
+  - Natalya
 - - Randy Orton
   - Cody Rhodes
   - s: Street Fight

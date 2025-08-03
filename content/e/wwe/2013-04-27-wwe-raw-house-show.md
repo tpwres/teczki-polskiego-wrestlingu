@@ -22,18 +22,21 @@ The third [WWE](@/o/wwe.md) and the second RAW house show in Poland, this time h
   - Tamina Snuka
   - s: Triple Threat Match
     c: WWE Divas Championship
-- [Michael McGillicutty, Brad Maddox]
-- [R-Truth, Heath Slater]
+- - Michael McGillicutty
+  - Brad Maddox
+- - R-Truth
+  - Heath Slater
 - - Daniel Bryan
   - Dolph Ziggler (c)
   - c: World Heavyweight Championship
     r: DQ
-- [Zack Ryder, Antonio Cesaro]
-- - 'Tons of Funk: Brodus Clay, Tensai'
-  - 'Team Rhodes Scholars: Cody Rhodes, Damien Sandow'
+- - Zack Ryder
+  - Antonio Cesaro
+- - Tons of Funk: Brodus Clay & Tensai
+  - Team Rhodes Scholars: Cody Rhodes & Damien Sandow
   - s: Tag Team Match
-- - 'John Cena + Team Hell No: Daniel Bryan, Kane'
-  - 'Big E. Langston, Dolph Ziggler, Ryback'
+- - John Cena + Team Hell No: Daniel Bryan & Kane
+  - Big E. Langston & Dolph Ziggler & Ryback
   - s: Six Man Tag Team Match
 {% end %}
 

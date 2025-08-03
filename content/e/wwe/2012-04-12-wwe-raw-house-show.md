@@ -17,10 +17,15 @@ This was the second [WWE](@/o/wwe.md) show in Poland, and the first RAW. Like th
 ## Card
 
 {% card() %}
-- [Lord Tensai, Alex Riley]
-- ['Kofi Kingston, R-Truth', 'Epico, Primo', {s: Tag Team Match}]
-- [Zack Ryder, The Miz]
-- [Brodus Clay, JTG]
+- - Lord Tensai
+  - Alex Riley
+- - Kofi Kingsto & R-Truth
+  - Epico & Primo
+  - s: Tag Team Match
+- - Zack Ryder
+  - The Miz
+- - Brodus Clay
+  - JTG
 - - '[Santino Marella](@/w/santino.md)(c)'
   - David Otunga
   - Jack Swagger
