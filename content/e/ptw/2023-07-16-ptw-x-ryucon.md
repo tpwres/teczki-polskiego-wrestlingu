@@ -68,5 +68,5 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365969)
 * [Full event on YouTube](https://www.youtube.com/watch?v=jOr7PhKb7xY&t=6971s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-ryucon/2pddh/), requires paid subscription
-* [Sinister's singing Radiohead's "Creep"](https://www.youtube.com/watch?v=WU5OTqZDUtY&pp=ygUOc2luaXN0ZXIgY3JlZXA%3D%22%3E) to captive [Syriusz Dziedzic](@/w/dziedzic.md)
-* [Puncher's burning manga segment](https://www.youtube.com/watch?v=VZT7COlYlkI)
+* [Sinister's singing Radiohead's "Creep"](https://www.youtube.com/watch?v=WU5OTqZDUtY) to captive [Syriusz Dziedzic](@/w/dziedzic.md) (unavailable as of August 2025)
+* [Puncher's manga burning segment](https://www.youtube.com/watch?v=VZT7COlYlkI)
