@@ -47,7 +47,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Zabij go") %}zˈabʲij ɡˈɔ{% end %}
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
   {% ipa(tts="Zajeb go") %}zˈajɛp ɡˈɔ{% end %} 🌶️
-* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop (and later picked up by some other wrestlers as well) In 2025, MZW [named a show](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) after this chant. \
+* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop (and later picked up by some other wrestlers as well). In 2025, MZW [named a show](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) after this chant. \
   {% ipa(tts="Zjedz mu łeb") %}zjˈɛt͡s mˈu wˈɛp{% end %}
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
   {% ipa(tts="Urwij mu łeb") %}ˈurvij mˈu wˈɛp{% end %}
