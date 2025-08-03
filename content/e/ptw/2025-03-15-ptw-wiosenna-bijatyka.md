@@ -40,7 +40,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - g: Charity auction; Okoński gifts referees with a new set of T&#8209;shirts
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - 'Polski Niedźwiedź'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - n: Puncher Challenge
 - - '[Newt Nova](@/w/newt-nova.md)'
   - 'Alex Sixxx'

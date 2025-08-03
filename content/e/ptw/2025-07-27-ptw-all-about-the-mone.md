@@ -57,7 +57,7 @@ toclevel = 2
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     s: 'Triple Threat Match'
 - - '[Love Vonce](@/w/lavonce.md)'
-  - 'Polski Niedźwiedź'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Dawid "Puncher" Seńko](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Mercedes Moné](@/w/mercedes-mone.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
