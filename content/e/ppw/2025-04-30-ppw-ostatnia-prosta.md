@@ -62,7 +62,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - '[Sentinel](@/w/sentinel.md)'
   - '[Feager](@/w/feager.md)'
   - s: 'Enigma Scramble Match'
-    nc: Three-way tie
+    nc: 3&#8288;&#8209;&#8288;way tie
     n: Every competitor scored a point, except for Feager
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - 'Mr Power Up'
