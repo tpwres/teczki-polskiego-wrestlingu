@@ -54,9 +54,9 @@
     {% endfor %}
   {% endif %}
   {% if final.r %}
-      via {{ final.r }}
+      via {{ final.r | markdown(inline=true) | safe }}
   {% elif final.nc and final.nc != "upcoming" %}
-      - {{ final.nc }}
+      - {{ final.nc | markdown(inline=true) | safe }}
   {% endif %}
   <strong>
 {% endif %}

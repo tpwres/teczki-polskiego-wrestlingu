@@ -38,9 +38,9 @@
               {{ others | join(sep=" and ") | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
           {% endif %}
           {% if result %}
-              via {{ final.r }}
+              via {{ final.r | markdown(inline=true) | safe }}
           {% elif nc %}
-              - {{ final.nc }}
+              - {{ final.nc | markdown(inline=true) | safe }}
           {% endif %}
         {% endif %}
     </span>
