@@ -17,7 +17,7 @@ def convert_line_to_position(comments: list[dict], file_positions: dict[str, dic
 
     for comment in comments:
         path = comment["path"]
-        line = comment.get("line", 1)
+        line = comment.get("line", None)
         message = comment["message"]
 
         # Check if we have position mapping for this file
@@ -26,18 +26,25 @@ def convert_line_to_position(comments: list[dict], file_positions: dict[str, dic
             continue
 
         # Check if this line has a position in the diff
-        if line not in file_positions[path]:
+        if line is not None and line not in file_positions[path]:
             print(f"⚠️ Skipping comment on '{path}:{line}': line not in diff")
             continue
 
-        position = file_positions[path][line]
-        positioned_comments.append({
-            "path": path,
-            "position": position,
-            "body": message
-        })
+        if line is None:
+            positioned_comments.append({
+                "path": path,
+                "body": message
+                # No position = file-level comment
+            })
+        else:
+            position = file_positions[path][line]
+            positioned_comments.append({
+                "path": path,
+                "position": position,
+                "body": message
+            })
 
-        print(f"✅ Mapped {path}:{line} -> position {position}")
+        # print(f"✅ Mapped {path}:{line} -> position {position}")
 
     return positioned_comments
 
