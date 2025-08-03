@@ -74,6 +74,7 @@ class RichDocParser:
     ''', re.X)
     BLOCK_END = re.compile(r'\s*{%\s+end\s+%}\s*')
     HEADER_LINE = re.compile(r'^[#]{2,5}\s+(?P<title>.*)$')
+    INSIDE_BLOCK = re.compile(r'%\}(.*)\{%')
     ALL_BLANKS = re.compile(r'^\s+$')
 
     def parse_stream(self, stream: TextIO, path_or_ident: str):
@@ -83,6 +84,8 @@ class RichDocParser:
                     self.frontmatter_delimiter(line_num)
                 elif self.MORE_REGEX.match(line):
                     self.summary_closed(line_num)
+                elif self.BLOCK_START.search(line) and self.BLOCK_END.search(line):
+                    self.instant_block(line, line_num)
                 elif self.BLOCK_END.match(line):
                     self.block_closed(line_num)
                 elif mm := self.HEADER_LINE.match(line):
@@ -160,9 +163,14 @@ class RichDocParser:
             self.sections.append(Section(start_line, self.last_section_title, text_block))
 
         if self.current_block:
-            block_str = "{block}({params})" if params else block
+            block_str = f"{block}({params})" if params else block
             self.logger.log_error(f"Opening new block {block_str} before closing previous one", line_number=line_num)
         self.current_block = self.create_block(block, params, line_num)
+
+    def instant_block(self, line, line_num):
+        # An inline block, one that opened and closed on the same line. For example, the ipa block.
+        # Treat it as text, and just feed as line. The current model doesn't handle spans which this is.
+        self.raw_text(line, line_num)
 
     def section_header(self, title, line, line_num):
         # If we're in a block, don't create sections
