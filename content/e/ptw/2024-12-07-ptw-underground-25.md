@@ -54,7 +54,7 @@ For this event, PTW invited several debuting wrestlers:
   - s: 'Career Threatening Match'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Newt Nova](@/w/newt-nova.md)'
-  - - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)"
+- - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)"
   - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)(c)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: 'Hardcore Tornado Tag Team Match'
