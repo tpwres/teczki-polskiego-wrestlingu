@@ -64,17 +64,17 @@ class ValidGallery(Base):
         if not gallery:
             return
 
-        # TODO: push context with content_path as location
-        for key, entry in gallery.items():
-            self.validate_gallery_entry(key, entry)
+        with self.logger.parsing_context('ValidGallery', content_path.as_posix()):
+            for key, entry in gallery.items():
+                self.validate_gallery_entry(key, entry)
 
     def validate_gallery_entry(self, key: str, entry: dict):
         match entry:
             case {'path': str(path), 'caption': str(caption), 'source': str(_)}:
                 # TODO: Caption needs to go through a ContentLinks validation process
-                img_path = (self.path.parent / self.path.stem / path).relative_to('content').as_posix()
-                if img_path not in self.image_index:
-                    self.report_missing_entry(key, entry)
+                img_path = (self.path.parent / self.path.stem / path).relative_to('content')
+                if img_path.as_posix() not in self.image_index:
+                    self.report_missing_entry(key, entry, img_path.parent.as_posix())
             case {'path': str(_), 'caption': str(_)}:
                 self.logger.log_error(f"Missing source for gallery item {key}")
             case {'path': str(_), 'source': str(_)}:
@@ -82,6 +82,9 @@ class ValidGallery(Base):
             case {'path': str(_)}:
                 self.logger.log_error(f"Missing source and caption for gallery item {key}")
 
+    def report_missing_entry(self, key, entry, parent):
+        filename = entry['path']
+        self.logger.log_error(f"File `{filename}` not found under `{parent}`. Ensure the file has been uploaded, and the extension is correct.")
 
     def find_and_load_default_manifest(self) -> tuple[Optional[Path], Optional[dict]]:
         # TODO: I need my path, and guardian doesn't provide it yet
