@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2025-04-30-ppw-ostatnia-prosta-gallery.toml"
 +++
 
-Ostatnia Prosta (_The Run-Up_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held in [Teatr Komuna](@/v/teatr-komuna.md) on April 30th, 2025. This show was the run-up to Ledwo Legalne 5, hence the name.
+Ostatnia Prosta (_The Run-Up_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held in [Teatr Komuna](@/v/teatr-komuna.md) on April 30th, 2025. This show was the run-up to [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), hence the name.
 
 ## Build-up
 
