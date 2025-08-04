@@ -21,7 +21,7 @@ caption = "[Biesiad Strong](@/w/biesiad.md) about to jump from the rafters."
 source = "Official PpW VOD"
 +++
 
-Ledwo Legalne II (_Barely Legal II_) was [PpW's](@/o/ppw.md) sixth major event, held on Saturday, May 21, 2022. It was a follow-up to the first [Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) event from 2021. The name of the show was a reference to a common trope in pornography, but also to the fact that back in 2021 COVID-19 restrictions were barely lifted enough so that holding a wrestling event became legal again.
+Ledwo Legalne II (_Barely Legal II_) was [PpW's](@/o/ppw.md) sixth major event, held on Saturday, May 21, 2022. It was a follow-up to the first [Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) event from 2021. The name of the show calls back to ECW's Barely Legal, their first event broadcast live. It may also relate to the fact that back in 2021 COVID-19 restrictions were barely lifted enough so that holding a wrestling event became legal again.
 
 The show is notable for being the first PpW event not to be held at the [2Koła motorcycle club](@/v/2kola.md), and for introducing the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). The event was held at [Waldorffa 25](@/v/waldorffa25.md), a dedicated event venue in Bemowo that would later become the main arena for PpW.
 
