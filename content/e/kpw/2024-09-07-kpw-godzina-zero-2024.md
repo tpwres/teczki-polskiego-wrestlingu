@@ -8,18 +8,7 @@ venue = ["okrzei-6-gdynia"]
 [extra]
 city = "Gdynia"
 toclevel = 2
-[extra.gallery.1]
-path = "2024-09-07-kpw-godzina-zero-2024-plakat.jpg"
-caption = "Official poster. In the top row are [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md), Red Scorpion with the [KPW Championship](@/c/kpw-championship.md) belt, and The 87. Next to the event name are smaller figures of [David Oliwa](@/w/david-oliwa.md), [Rosetti](@/w/rosetti.md), [Flexos](@/w/flexos.md) and [Ron Corvus](@/w/ron-corvus.md). At the bottom, we see Carlos Zamora, Reece Alexios, [Greg](@/w/greg.md), Jack Jester, [Hans Schulte](@/w/hans-schulte.md), [Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Darius](@/w/darius.md) and [Eryk Lesak](@/w/eryk-lesak.md)."
-source = "kpwrestling.pl / Official KPW Facebook"
-[extra.gallery.2]
-path = "2024-09-07-kpw-godzina-zero-2024-zefir-microphone.jpg"
-caption = "Left to right: [Eryk Lesak](@/w/eryk-lesak.md), [Darius](@/w/darius.md), [Flexos](@/w/flexos.md), [Rosetti](@/w/rosetti.md), [Hans Schulte](@/w/hans-schulte.md) and [Zefir](@/w/zefir.md) with a microphone."
-source = "M3n747"
-[extra.gallery.3]
-path = "2024-09-07-kpw-godzina-zero-2024-zefir-unmasked.jpg"
-caption = "Zefir unmasked."
-source = "M3n747"
+[extra.gallery]
 +++
 
 Godzina Zero (_Zero Hour_) 2024 was the seventh annual KPW supershow, held since 2016.
