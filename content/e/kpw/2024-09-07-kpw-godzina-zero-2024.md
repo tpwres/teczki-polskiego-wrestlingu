@@ -78,7 +78,7 @@ There were a significant number of foreign talent at this event, including some 
 ### Recap
 
 * Before the Magnificent Seven match began, the wrestlers took turns on the microphone, starting with Rosetti, for whom the mic didn't work and his promo couldn't be heard.
-  After Hans Schulte insulted Zefir, he grabbed the mic and for a moment it seemed like he was going to say something, but he drop-kicked Schulte instead.
+  After Hans Schulte insulted Zefir, the masked luchador grabbed the mic and for a moment it seemed like he was going to say something, but he drop-kicked Schulte instead.
 * During the Magnificent Seven match, Rosetti, who was aiming for Zefir, accidentally hit Eryk Lesak in the head with a steel chair. Moments later, when both opponents were on the ground, Rosetti raised the chair to hit Zefir, but then turned on Lesak and attacked him, eliminating him from the fight.
 * Towards the end of the Magnificent Seven match, Zefir and Hans Schulte were trading blows on top of a ladder, when Schulte grabbed Zefir by the head and pulled off his mask. Zefir covered his features with his hands, thus retaining his anonymity, but losing the fight in the process. After the bell rang, one of the ring crew members offered Zefir a towel to hide his visage and led him backstage.
 * After Greg lost to Ron Corvus, he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the [KPW Old Town Championship](@/c/kpw-old-town-championship.md) to Chemik.
