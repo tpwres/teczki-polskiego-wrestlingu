@@ -1,6 +1,6 @@
 [0001]
 path = "nietykalni-poster.webp"
-caption = "Official poster. Left to right, on top: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (sitting), [Alex Brave](@/w/alex-brave.md) (standing behind Pawłowski) and [Puncher](@/w/puncher.md); the portraits below, top row: [Krampus](@/w/krampus.md), [Nano Lopez](@/w/nano-lopez.md), [Sigma Boy xD](@/w/sigma-boy.md), [Łukasz Okoński](@/w/lukasz-okonski.md), [Spartan](@/w/spartan.md), [Diana Strong](@/w/diana-strong.md), Daniel Razor; bottom row: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md), [Miyagi Shida](@/w/miyagi-shida.md), [Serg Sullivan](@/w/serg-sullivan.md), Polski Niedźwiedź, Resivny, Adam Goldschmidt."
+caption = "Official poster. Left to right, on top: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (sitting), [Alex Brave](@/w/alex-brave.md) (standing behind Pawłowski) and [Puncher](@/w/puncher.md); the portraits below, top row: [Krampus](@/w/krampus.md), [Nano Lopez](@/w/nano-lopez.md), [Sigma Boy xD](@/w/sigma-boy.md), [Łukasz Okoński](@/w/lukasz-okonski.md), [Spartan](@/w/spartan.md), [Diana Strong](@/w/diana-strong.md), Daniel Razor; bottom row: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md), [Miyagi Shida](@/w/miyagi-shida.md), [Serg Sullivan](@/w/serg-sullivan.md), [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Resivny](@/w/resivny.md), [Adam Goldschmidt](@/w/adam-goldschmidt.md)."
 source = "Official PTW Facebook"
 
 [0002]
@@ -30,5 +30,5 @@ source = "Official PTW Facebook"
 
 [0007]
 path = "serg-vs-niezdziedz.webp"
-caption = 'Image announcing [Serg Sullivan](@/w/serg-sullivan.md) vs Polski Niedźwiedź.'
+caption = 'Image announcing [Serg Sullivan](@/w/serg-sullivan.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).'
 source = "Official PTW Facebook"

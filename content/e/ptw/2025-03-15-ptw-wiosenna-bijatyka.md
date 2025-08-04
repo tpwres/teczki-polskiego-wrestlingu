@@ -34,14 +34,14 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
   - 'Martyrium'
   - 'Mikk Vainula'
   - s: Triple Threat Match
-    n: Spartan Challenge
+    n: Spartan's challenge
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - g: Charity auction; Okoński gifts referees with a new set of T&#8209;shirts
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - 'Polski Niedźwiedź'
-  - n: Puncher Challenge
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - n: Puncher's challenge
 - - '[Newt Nova](@/w/newt-nova.md)'
   - 'Alex Sixxx'
   - 'Mike Solaris'

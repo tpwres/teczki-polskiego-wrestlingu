@@ -21,15 +21,15 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * On 15.07.2025 PTW announced Daniel Razor vs ["Starboy" Nano Lopez](@/w/nano-lopez.md) for the vacated [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * On 16.07.2025 PTW announced the debut of Austrian Flex Skywalker in a match with [Spartan](@/w/spartan.md).
 * The day after, PTW announced another Polish debut: Lucy Couture from England, set to challenge [Diana Strong](@/w/diana-strong.md) for her GLAM! Championship.
-* On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs Polski Niedźwiedź.
+* On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * "Hottest free agent" CJ Klakson teased a PTW debut over the prior week with multiple vignettes on his social media.
 
 ## Card
 
 {% card() %}
-- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Dawid "Puncher" Seńko](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md)  [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: Nietykalni open the show with a heel promo
-- - '[Diana Strong](@/w/diana-strong.md)'
+- - '[Diana Strong](@/w/diana-strong.md)(c)'
   - 'Lucy Couture'
   - c: 'GLAM! Championship Match'
 - - '[Spartan](@/w/spartan.md)'
@@ -51,7 +51,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 - - '[Krampus](@/w/krampus.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
-  - 'Polski Niedźwiedź'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
@@ -90,7 +90,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * After unsuccessful comebacks, Caravaggio got squashed by Krampus.
 * Sullivan's real-life partner Lesya slowly transitioned to a managerial role. In his match against Polski Niedźwiedź, she made numerous referee distractions, allowing for the introduction of multiple foreign objects. The match ended when Niedźwiedź incapacitated himself with a cannonball outside the ring onto the railing. Sullivan brought him back to the ring, with a diving elbow drop for a win.
 * Post-match, Sullivan injured Niedźwiedź's neck, trapping it in a chair and hitting it with another one. Miyagi Shida appeared and chased Sullivan off. Livid Pawłowski entered with a mic, saying he wanted to get rid of one of the performers before they destroy that show. To make it possible, he announced Shida vs Sullivan in a Casket Match for the next show.
-* Alex Brave made an entrance with his still-unnamed valet. After a hard hitting match including multiple items, Okoński beat him using _The Brave Show_ sign as weapon.
+* Alex Brave made an entrance with his still-unnamed valet. After a hard hitting match including multiple items, Okoński beat him using "The Brave Show" sign as weapon.
 * Post-match, Okoński said Pawłowski was right - their feud is not a game and needs to be taken seriously. He vowed to be a leader that Pawłowski failed to be. He brought out Spartan and they made a deal to form an alliance against Pawłowski. Spartan shook his hand and teased adding more members to even the odds against the four of Nietykalni.
 * Skwarczyński announced the introduction of multi-show passes.
 * Up next, CJ Klakson, the "hottest free agent" who'd teased a PTW appearance over previous weeks, made his entrance. He cuts a promo declaring that despite the offers from all over the world, he'd decided to sign with PTW. He put over the PTW roster and declared his readiness to take on any and all challengers. As per commentary, 'CJ' stands for 'Kacper Jeremiasz' spelled in English and despite never making an official debut, he'd already trained in Germany and other places.
