@@ -21,28 +21,29 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 * On 23.07.2025 [Krystian Malinowski](@/w/krystian-malinowski.md) [replied][malinowski-odpowiada], saying that the idea of rookies facing Tomczak is so absurd he's willing to agree. However, he stated that only three of the "rebels" will get to do the honours and that the lucky ones will be decided in a battle royal to be held "in a moment".
 * Two days later KPW posted a [video][zwyciezka-trojka] of the battle royal, with the three winners being congratulated - but also warned - by [Krystian Malinowski](@/w/krystian-malinowski.md).
 * On 2.08.2025 [Chemik](@/w/chemik.md) vs Lato for the KPW OldTown Championship was officially confirmed.
+* The next day KPW confirmed the match between [Bracia Fux](@/tt/bracia-fux.md) ([Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)) and Team Visegrad ([Ricky Sky](@/w/ricky-sky.md) & [David Oliwa](@/w/david-oliwa.md)) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). This match was brought about by a situation at [Pyrkon 2025](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md), where Team Visegrad attacked Filip and Michał after the brothers won their bout against [Chemik](@/w/chemik.md) and [Hans Schulte](@/w/hans-schulte.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
-- - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Chemik](@/w/chemik.md)(c)'
-  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-    nc: upcoming
-- - '[Zefir](@/w/zefir.md)'
-  - '[Hans Schulte](@/w/hans-schulte.md)(c)'
-  - c: '[KPW Championship](@/c/kpw-championship.md)'
-    nc: upcoming
 - - '[Tomczak](@/w/tomczak.md)'
   - '???'
   - '???'
   - '???'
-  - s: 4-Man Handicap Match
+  - s: 3-on-1 Handicap Match
+    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Chemik](@/w/chemik.md)(c)'
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
     nc: upcoming
 - - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)(c)'
   - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag Team Match
+    nc: upcoming
+- - '[Zefir](@/w/zefir.md)'
+  - '[Hans Schulte](@/w/hans-schulte.md)(c)'
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
     nc: upcoming
 {% end %}
 
