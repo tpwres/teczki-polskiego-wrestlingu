@@ -13,7 +13,7 @@ manifest = "@/o/ppw-gallery.toml"
 +++
 
 PpW is a wrestling promotion from Warsaw. It styles itself as a fully independent, self-sufficient organization with no commercial affiliations.
-Their wrestling style used to rely heavily on hardcore and deathmatches, but it has since been toned down and other styles of wrestling are prominently featured. However, no-DQ is assumed for most matches, and its main events are still often hardcore bouts. Only the rare Classic Wrestling Match stipulation prohibits any weapons and interventions. PpW is definitely inspired by ECW, both in wrestling style, frequent use of chairs, tables and other weapons, relying on local talent and in revolving about adult-themed storylines.
+Their wrestling style used to rely heavily on hardcore and deathmatches, but it has since been toned down and other styles of wrestling are prominently featured. However, no-DQ is assumed for most matches, and its main events are still often hardcore bouts. Only the rare Classic Wrestling Match stipulation prohibits any weapons and interventions. PpW is visibly inspired by ECW, both in wrestling style, frequent use of chairs, tables and other weapons, relying on local talent and in revolving around adult-themed storylines.
 
 ### Name
 
