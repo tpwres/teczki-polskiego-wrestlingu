@@ -27,8 +27,8 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
 - - '[Spartan](@/w/spartan.md)'
   - 'Aaron Williams'
   - s: '[PTW Championship](@/c/ptw-championship.md) #1 Contendership Match'
-- - '[Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[Max Speed](@/w/max-speed.md), [Miyagi Shida](@/w/miyagi-shida.md)'
+- - '[Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Max Speed](@/w/max-speed.md) & [Miyagi Shida](@/w/miyagi-shida.md)'
   - s: Tag Team Match
 - - '[Rust](@/w/rust.md)'
   - '[Newt Nova](@/w/newt-nova.md)'
@@ -40,7 +40,7 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
     Referees: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
 {% end %}
 
-### Outcomes and aftermath
+### Aftermath
 
 * Post-show, the current champion Puncher, and new #1 contender Spartan faced off. This ended with Puncher attacking PTW's co-owner [Łukasz Okoński](@/w/lukasz-okonski.md) and putting him through a table.
 

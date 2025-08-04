@@ -18,17 +18,22 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 ## Card
 
 {% card() %}
-- ['[Axel Fox](@/w/axel-fox.md)', '[Marcelito](@/w/marcelito.md)']
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Marcelito](@/w/marcelito.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[El Ogre](@/w/olgierd.md)'
-  - s: '[Marco Hammers](@/w/marco-hammers.md) to receive a PTW contract upon winning'
-- ['["Top Gun" Samson](@/w/samson.md)', Emilian Lewis]
-- - 'PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md)'
-  - s: First Round Tag Team Match for the inaugural PTW Tag Team Championship Tournament
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
-- ['[Vic Golden](@/w/vic-golden.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
-- ['[Justin Joy](@/w/justin-joy.md)', '[Gabriel Queen](@/w/gabriel-queen.md)']
+  - s: 'Marco Hammers to receive a PTW contract upon winning'
+- - '["Top Gun" Samson](@/w/samson.md)'
+  - Emilian Lewis
+- - '[PAKA](@/tt/paka.md): [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md) & [Wiktor Longman](@/w/wiktor-longman.md)'
+  - s: First Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Rafał](@/w/alex-brave.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'

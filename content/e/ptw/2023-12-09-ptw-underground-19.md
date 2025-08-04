@@ -17,19 +17,27 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 ## Card
 
 {% card() %}
-- ['[Axel Fox](@/w/axel-fox.md)', '[Olgierd](@/w/olgierd.md)', {s: St Nicholas Day
-      Street Fight}]
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Max Speed](@/w/max-speed.md)']
-- ['[Diana Strong](@/w/diana-strong.md)', Violet Nyte]
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - s: St. Nicholas Day Street Fight
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - Violet Nyte
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: true
-- ['[Erik Šlotíř](@/w/erik-slotir.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Dziedzic](@/w/dziedzic.md)', '[King Kaiden](@/w/king-kaiden.md)']
-- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Renegade](@/w/renegade.md)']
-- - "[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)"
+- - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Dziedzic](@/w/dziedzic.md)'
+  - '[King Kaiden](@/w/king-kaiden.md)'
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Renegade](@/w/renegade.md)'
+- - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
-- ['[Nitro](@/w/nitro.md)', '[Sinister](@/w/sinister.md)', '[Taras](@/w/taras.md)',
-  {s: Triple Threat Match}]
+- - '[Nitro](@/w/nitro.md)'
+  - '[Sinister](@/w/sinister.md)'
+  - '[Taras](@/w/taras.md)'
+  - s: Triple Threat Match
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'

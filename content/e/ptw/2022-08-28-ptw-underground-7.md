@@ -17,16 +17,22 @@ This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour 
 ## Card
 
 {% card() %}
-- ['[Taras](@/w/taras.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Marcelito](@/w/marcelito.md)']
-- ['["Top Gun" Samson](@/w/samson.md)', '[Disco Pablo](@/w/disco-pablo.md)', {nc: "No
-      contest due to Longman run-in"}]
-- ['[Sinister](@/w/sinister.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
-- - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
+- - '[Taras](@/w/taras.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '["Top Gun" Samson](@/w/samson.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
+  - nc: 'No contest due to Longman run-in'
+- - '[Sinister](@/w/sinister.md)'
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
+- - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: Handicap Match
-- ['[Axel Fox](@/w/axel-fox.md)', Herco Wisky]
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Jonny Storm](@/w/jonny-storm.md)']
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - Herco Wisky
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Jonny Storm](@/w/jonny-storm.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Rafał](@/w/alex-brave.md)'

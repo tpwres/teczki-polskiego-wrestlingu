@@ -31,20 +31,25 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 - - '[Scotty Rawk](@/w/scotty-rawk.md)(c)'
   - Speedball Mike Bailey
   - c: British Wrestling Revolution Championship
-- ['[Diana Strong](@/w/diana-strong.md)', Nina Samuels]
-- ['[Krampus](@/w/krampus.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: No
-      DQ Match}]
-- [PJ Black, Lince Dorado]
-- - "[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)"
-  - "[PAKA](@/tt/paka.md): [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)"
-  - "[Sinister Kingdom](@/tt/sinister-kingdom.md): [Sinister](@/w/sinister.md), [Dziedzic](@/w/dziedzic.md)"
-  - "MxM Collection: Mansoor, Mason Madden"
-  - {c: "[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)"}
-- [Marius Al-Ani, '[Sam Della Vale](@/w/sam-rogers.md)', {c: "PTW:WWA Championship"}]
-- - 'Legia Łysych: [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - Nina Samuels
+- - '[Krampus](@/w/krampus.md)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - s: No DQ Match
+- - PJ Black
+  - Lince Dorado
+- - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md)'
+  - '[PAKA](@/tt/paka.md): [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md)(c)'
+  - '[Sinister Kingdom](@/tt/sinister-kingdom.md): [Sinister](@/w/sinister.md) & [Dziedzic](@/w/dziedzic.md)'
+  - 'MxM Collection: Mansoor & Mason Madden'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+- - Marius Al-Ani
+  - '[Sam Della Vale](@/w/sam-rogers.md)'
+  - c: 'PTW:WWA Championship'
+- - '[Legia Łysych](@/tt/legia-lysych.md): [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)'
   - '[Karyna](@/w/karyna.md)'
   - Marcin Najman
-  - g: Shaving [Karyna's](@/w/karyna.md) head, Najman's MMA promo
+  - g: "Shaving [Karyna's](@/w/karyna.md) head, Najman's MMA promo"
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marcelito](@/w/marcelito.md)'
@@ -66,9 +71,10 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
   - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
-  - {s: "Gold Rush Rumble", c: "[PTW Championship](@/c/ptw-championship.md)"}
+  - s: 'Gold Rush Rumble'
+    c: '[PTW Championship](@/c/ptw-championship.md)'
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - Karolina (Pawłowski's real-life partner)
+  - "Karolina (Pawłowski's real-life partner)"
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Bad Bones](@/w/bad-bones.md), Marcin "Rzeźnik" Rzeźniczek'
   - g: "Pawłowski's in-ring proposal"

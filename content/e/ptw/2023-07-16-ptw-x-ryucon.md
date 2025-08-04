@@ -17,18 +17,28 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 ## Card
 
 {% card() %}
-- ['[Jonny Storm](@/w/jonny-storm.md)', '[Axel Fox](@/w/axel-fox.md)']
-- ["[Marco Hammers](@/w/marco-hammers.md); [Karyna](@/w/karyna.md)", "[Boro](@/w/boro.md)"]
-- ['[Syriusz Dziedzic](@/w/dziedzic.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Diana Strong](@/w/diana-strong.md)', '[Vic Golden](@/w/vic-golden.md)']
-- ["[Krampus](@/w/krampus.md) w/ [Sinister](@/w/sinister.md) & [Syriusz Dziedzic](@/w/dziedzic.md)",
-  '[Samson](@/w/samson.md)']
-- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', "[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)"]
+- - '[Jonny Storm](@/w/jonny-storm.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Marco Hammers](@/w/marco-hammers.md) w/ [Karyna](@/w/karyna.md)'
+  - '[Boro](@/w/boro.md)'
+- - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Intergender Match
+- - '[Krampus](@/w/krampus.md) w/ [Sinister](@/w/sinister.md) & [Syriusz Dziedzic](@/w/dziedzic.md)'
+  - '[Samson](@/w/samson.md)'
+  - s: Handicap Match
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
 - - '[Puncher](@/w/puncher.md)'
   - g: Burning manga
-- ['[Puncher](@/w/puncher.md)', '[Sam Rogers](@/w/sam-rogers.md)']
-- ["Budapest Bastards: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md)", "[PAKA](@/tt/paka.md):
-    [Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md)(c)", {c: "[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)", nc: No Contest}]
+- - '[Puncher](@/w/puncher.md)'
+  - '[Sam Rogers](@/w/sam-rogers.md)'
+- - '[Budapest Bastards](@/tt/budapest-bastards.md): [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md)'
+  - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)(c)'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    nc: No Contest
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -50,13 +60,13 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fo
 ### One-time entrance themes
 
 - Jonny Storm: _Techno Syndrome_ by The Immortals (commonly known as the _Mortal Kombat theme_)
-- [Boro](@/w/boro.md): _Deja Vu_ from Initial D
-- [PAKA](@/tt/paka.md): _Shinzo wo Sasageyo!_ from Attack on Titan
+- - Boro](@/w/boro.md): _Deja Vu_ from Initial D
+- - PAKA](@/tt/paka.md): _Shinzo wo Sasageyo!_ from Attack on Titan
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=365969)
 * [Full event on YouTube](https://www.youtube.com/watch?v=jOr7PhKb7xY&t=6971s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-ryucon/2pddh/), requires paid subscription
-* [Sinister's singing Radiohead's "Creep"](https://www.youtube.com/watch?v=WU5OTqZDUtY&pp=ygUOc2luaXN0ZXIgY3JlZXA%3D%22%3E) to captive [Syriusz Dziedzic](@/w/dziedzic.md)
-* [Puncher's burning manga segment](https://www.youtube.com/watch?v=VZT7COlYlkI)
+* [Sinister's singing Radiohead's "Creep"](https://www.youtube.com/watch?v=WU5OTqZDUtY) to captive [Syriusz Dziedzic](@/w/dziedzic.md) (unavailable as of August 2025)
+* [Puncher's manga burning segment](https://www.youtube.com/watch?v=VZT7COlYlkI)

@@ -11,7 +11,7 @@ In 2024, [Prime Time Wrestling](@/o/ptw.md) faced a major crisis stemming from t
 
 ## The Stonoga controversy
 
-On May 8th, in a move mocked by fans and PTW wrestlers alike, notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he'd bought 1500 tickets for [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) and wanted to distribute them for free to his supporters (who sent him money and received a numbered membership card).
+On May 8th, in a move mocked by fans and PTW wrestlers alike, a notorious Polish businessman and whistleblower Zbigniew Stonoga announced that he'd bought 1500 tickets for [PTW #6](@/e/ptw/2024-05-11-ptw-6.md) and wanted to distribute them for free to his supporters (who sent him money and received a numbered membership card).
 The next day, Stonoga posted photos of himself and the Nissan GTR that was the main prize in the [PTW lottery](@/o/ptw.md#the-lottery), as well as short clips of himself in the car's passenger seat.
 Ludwiczek also posted a photo of himself and the controversial Stonoga in front of the car.
 Later, Stonoga announced we would hand out 50 free tickets to anyone who approached him in person at a McDonald's in Legionowo.
@@ -25,7 +25,7 @@ Some fans also alleged that Taras's current frustration was a result of losing t
 
 The two wrestlers' criticism of PTW was also met with backlash. On PTW's public Facebook group, an account named Jakub Tyczyński (presumably a PTW personality, current or former) accused them of using their good relations with Pawłowski against other wrestlers in the past, and trying to play martyrs now.
 
-This string of PR flops, and the apparent lack of interest from PTW, prompted WrestleFans to pull out of promoting them with immediate effect, only 3 days before the show. And in another unexpected turn of events, some of the fans who received tickets from Stonoga turned out to be [PpW](@/o/ppw.md) wrestlers and personnel. This got them both free tickets for the show and some social media exposure, through photos and live video which Stonoga, unfamiliar with the wrestling scene, shared.
+This string of PR flops, and the apparent lack of interest from PTW, prompted WrestleFans to pull out of promoting them with immediate effect, only three days before the show. In another unexpected turn of events, some of the fans who received tickets from Stonoga turned out to be [PpW](@/o/ppw.md) wrestlers and personnel. This got them both free tickets for the show and some social media exposure, through photos and live video which Stonoga, unfamiliar with the wrestling scene, shared.
 
 During this time PTW remained silent, attempted to control the situation by deleting comments pertaining to the Stonoga situation from the fan group, and continued to promote the lottery.
 

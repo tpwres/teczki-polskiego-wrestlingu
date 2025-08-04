@@ -41,7 +41,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Spartan](@/w/spartan.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: 'Pawłowski announces that Spartan is not allowed to compete and is suspended for two shows.'
+  - g: 'Pawłowski announces that Spartan is not allowed to compete and is suspended for two shows'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - c: 'BestYa Slam Championship'
@@ -54,7 +54,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 - - 'Lucia Lee'
   - 'El G'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
-  - s: "International Showcase Triple Threat Match"
+  - s: 'International Showcase Triple Threat Match'
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 - credits:

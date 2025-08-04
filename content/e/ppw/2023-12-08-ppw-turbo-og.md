@@ -10,7 +10,7 @@ toclevel = 2
 [extra.gallery.1]
 path = "2023-12-08-ppw-turbo-og-plakat_.jpg"
 caption = """\
-Official poster, imitating the character selection grid from Mortal Kombat games.
+Official poster, imitating the character selection grid from fighting games.
 The selectable characters are: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md);
 [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md);
 [Adam Wong](@/w/adam-wong.md), [Isnorr](@/w/isnorr.md), [Bill Feager](@/w/feager.md);
@@ -19,7 +19,7 @@ Asara, [Chris X](@/w/chris-x.md), [Rafi](@/w/rafi.md); and finally Jack Harrop.
 source = "Official PpW Facebook"
 [extra.gallery.2]
 path = "2023-12-08-ppw-turbo-og-bilety.jpg"
-caption = "Tickets on sale announcement (notice the similarity to the official poster of [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md))"
+caption = "Tickets on sale announcement (notice the similarity to the official poster of [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md))."
 source = "Official PpW Facebook"
 +++
 

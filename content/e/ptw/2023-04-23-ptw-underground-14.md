@@ -17,20 +17,32 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 ## Card
 
 {% card() %}
-- ['[Marcelito](@/w/marcelito.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
+- - '[Marcelito](@/w/marcelito.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - g: "Dr Fox examines Marco's baldness"
-- ['[Axel Fox](@/w/axel-fox.md)', '[Marco Hammers](@/w/marco-hammers.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Rafi Rarytas](@/w/rafi.md)']
-- ["[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)", Salomon Strid, Noah Charon,
-  {s: Triple Threat Match}]
-- ['[Taras](@/w/taras.md)', '["Top Gun" Samson](@/w/samson.md)']
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Boro](@/w/boro.md)']
-- ['[Diana Strong](@/w/diana-strong.md)', '[Gabriel Queen](@/w/gabriel-queen.md)',
-  {r: Countout}]
-- ["[Krampus](@/w/krampus.md)", "[El Ogre](@/w/olgierd.md)"]
-- ['[Justin Joy](@/w/justin-joy.md)', '[Vic Golden](@/w/vic-golden.md)', {r: DQ}]
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[Rafi Rarytas](@/w/rafi.md)'
+- - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
+  - Salomon Strid
+  - Noah Charon
+  - s: Triple Threat Match
+- - '[Taras](@/w/taras.md)'
+  - '["Top Gun" Samson](@/w/samson.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Boro](@/w/boro.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - s: Intergender Match
+    r: Countout
+- - '[Krampus](@/w/krampus.md)'
+  - '[El Ogre](@/w/olgierd.md)'
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - r: DQ
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >

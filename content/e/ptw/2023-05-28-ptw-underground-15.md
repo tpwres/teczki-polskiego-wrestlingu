@@ -19,16 +19,32 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 ## Card
 
 {% card() %}
-- ['[Vic Golden](@/w/vic-golden.md)', '[Boro](@/w/boro.md)']
-- ['[Rafi Rarytas](@/w/rafi.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
-- ['[Disco Pablo](@/w/disco-pablo.md)', "[Olgierd](@/w/olgierd.md); [Karyna](@/w/karyna.md)"]
-- ['[Diana Strong](@/w/diana-strong.md)', Devlyn Macabre]
-- ['["Top Gun" Samson](@/w/samson.md)', '[Marcelito](@/w/marcelito.md)', {r: DQ}]
-- ['[_rookie_ Kornel](@/w/vincent-caravaggio.md)', '_rookie_ Przemek', '[Disco Pablo](@/w/disco-pablo.md)', '[Nano Lopez](@/w/nano-lopez.md)', '[Axel Fox](@/w/axel-fox.md)', '[Taras](@/w/taras.md)', {g: "PTW trainers and rookies hype [PTW Academy](@/o/ptw-academy.md)"}]
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
-- ['[Taras](@/w/taras.md)', '[Marco Hammers](@/w/marco-hammers.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[El Ogre](@/w/olgierd.md)']
-- ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Boro](@/w/boro.md)'
+- - '[Rafi Rarytas](@/w/rafi.md)'
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - Devlyn Macabre
+- - '["Top Gun" Samson](@/w/samson.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - r: DQ
+- - '[_rookie_ Kornel](@/w/vincent-caravaggio.md)'
+  - '_rookie_ Przemek'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Nano Lopez](@/w/nano-lopez.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Taras](@/w/taras.md)'
+  - g: 'PTW trainers and rookies hype [PTW Academy](@/o/ptw-academy.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
+- - '[Taras](@/w/taras.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[El Ogre](@/w/olgierd.md)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Arek Paterek](@/w/arek-paterek.md)'

@@ -43,17 +43,17 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
   - nc: '?'
 - - >
     Team Biesiad:
-    [Biesiad Strong](@/w/biesiad.md),
-    [Adam Wong](@/w/adam-wong.md),
-    [Goblin](@/w/goblin.md),
+    [Biesiad Strong](@/w/biesiad.md) &
+    [Adam Wong](@/w/adam-wong.md) &
+    [Goblin](@/w/goblin.md) &
     [Johnny Blade](@/w/johnny-blade.md)
   - >
     Team Mister Z:
-    [Mister Z](@/w/mister-z.md),
-    [Isnorr](@/w/isnorr.md),
-    [Gustav Gryffin](@/w/gustav-gryffin.md),
-    [Kapitan Bazooka](@/w/kapitan-bazooka.md),
-  - s: "4 vs 4 Elimination Match"
+    [Mister Z](@/w/mister-z.md) &
+    [Isnorr](@/w/isnorr.md) &
+    [Gustav Gryffin](@/w/gustav-gryffin.md) &
+    [Kapitan Bazooka](@/w/kapitan-bazooka.md)
+  - s: '4 vs 4 Elimination Match'
     nc: '?'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Isnorr](@/w/isnorr.md)'
@@ -62,14 +62,14 @@ Because the event was an exhibition show held for a mostly non-wrestling audienc
 - - '[Czesław Pierdolec](@/w/kapitan-bazooka.md)'
   - "[Steven Kimono](@/w/biesiad.md)"
   - nc: '?'
-- - "[Isnorr](@/w/isnorr.md)"
-  - "[Mister Z](@/w/mister-z.md)"
-  - "[Striker](@/w/royal-striker.md)"
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - '[Striker](@/w/royal-striker.md)'
   - 'Matt Walker'
-  - s: "New Jack Tribute Match"
+  - s: 'New Jack Tribute Match'
     nc: '?'
-- - 'Bracia Pierdolec: [Czesław Pierdolec](@/w/kapitan-bazooka.md), [Gustav Pierdolec](@/w/gustav-gryffin.md)'
-  - "Bracia Kimono: [Steven Kimono](@/w/biesiad.md), Konnan Kimono"
+- - 'Bracia Pierdolec: [Czesław Pierdolec](@/w/kapitan-bazooka.md) & [Gustav Pierdolec](@/w/gustav-gryffin.md)'
+  - 'Bracia Kimono: [Steven Kimono](@/w/biesiad.md), Konnan Kimono'
   - s: Tag Team Match
     nc: '?'
 - - '[Hardcore Gustav](@/w/gustav-gryffin.md)'

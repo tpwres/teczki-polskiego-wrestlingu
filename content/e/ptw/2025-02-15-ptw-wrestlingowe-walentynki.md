@@ -34,7 +34,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 {% card() %}
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
-  - g: 'Pawłowski opens the show and hands Max Speed [PTW Awards trophies](@/a/ptw-awards-2024.md)'
+  - g: 'Pawłowski opens the show and hands Max Speed [PTW Awards trophies](@/a/ptw-awards-2024.md).'
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
@@ -42,7 +42,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
 - - '[LaVonce](@/w/lavonce.md)'
-  - g: Alex Brave beats down Blaze. LaVonce makes a save and cuts a promo
+  - g: Alex Brave beats down Blaze. LaVonce makes a save and cuts a promo.
 - - '[Spartan](@/w/spartan.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'
@@ -67,7 +67,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
     r: DQ
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
-  - g: 'Max Speed wants to compete, Pawłowski postpones the finals and changes it to a Ladder Match'    
+  - g: 'Max Speed wants to compete, Pawłowski postpones the finals and changes it to a Ladder Match.'    
 - - 'Betty Boa'
   - 'Kiara'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"

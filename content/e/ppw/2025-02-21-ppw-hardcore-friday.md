@@ -51,19 +51,18 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: 'Gra w melanż - Vodka Match'
     nc: Double drunk-out
-- - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Gustav Gryffin](@/w/gustav-gryffin.md), [Isnorr](@/w/isnorr.md)'
+- - '[Pure Gold](@/tt/pure-gold.md): [Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Isnorr](@/w/isnorr.md)'
   - s: 'Tornado Tag-Team Match'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - g: Gabriel demands a rematch
 - - '[Olgierd](@/w/olgierd.md) w/ [Marco Hammers](@/w/marco-hammers.md)'
   - >
-    [Sędzia Seweryn](@/w/sedzia-seweryn.md),
-    [Sędzia Kornel](@/w/sedzia-kornel.md),
+    [Sędzia Seweryn](@/w/sedzia-seweryn.md) &
+    [Sędzia Kornel](@/w/sedzia-kornel.md) &
     [Sędzia Karol Górski](@/w/madman-charlie.md)
   - s: Referee Gauntlet Match
-    n: Kornel went against Olgierd first, Karol second and Sewi third.
 - credits:
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Special Guest Referee: '[Marco Hammers](@/w/marco-hammers.md)'

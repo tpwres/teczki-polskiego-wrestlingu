@@ -22,19 +22,22 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 ## Card
 
 {% card() %}
-- - "Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)"
-  - "PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md); [Boro](@/w/boro.md)"
+- - '[Pure Gold](@/tt/pure-gold.md): [Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[PAKA](@/tt/paka.md): [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md) w/ [Boro](@/w/boro.md)'
   - s: Tag Team Match
-- ['[Marty Scurll](@/w/marty-scurll.md)', '[Primate](@/w/primate.md)']
+- - '[Marty Scurll](@/w/marty-scurll.md)'
+  - '[Primate](@/w/primate.md)'
 - - '[Myla Grace](@/w/myla-grace.md)'
   - Xia Brookside
   - '[Diana Strong](@/w/diana-strong.md)'
   - s: Triple Threat Match
-- ['[Justin Joy](@/w/justin-joy.md)', '[Axel Fox](@/w/axel-fox.md)', {s: No Disqualification
-      Match}]
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+  - s: No Disqualification Match
 - - '[Santino](@/w/santino.md)'
   - g: Santino named new co-owner of PTW
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Robert Star](@/w/robert-star.md)']
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Robert Star](@/w/robert-star.md)'
 - - '[Joe Hendry](@/w/joe-hendry.md)(c)'
   - Trent Seven
   - c: IMPACT Digital Media Championship
@@ -42,8 +45,9 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - '[Joe Hendry](@/w/joe-hendry.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Misbehaving Kinguin mascot
-- ['[Sinister](@/w/sinister.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)', {s: Last
-      Man Standing Match}]
+- - '[Sinister](@/w/sinister.md)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - s: Last Man Standing Match
 - - '[Samson](@/w/samson.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - nc: Samson was not medically cleared
@@ -51,7 +55,8 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Spartan](@/w/spartan.md)'
   - g: Dziedzic declares himself the winner of the cancelled match.
-- [Samuray Del Sol, Matt Sydal]
+- - Samuray Del Sol
+  - Matt Sydal
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/alex-brave.md)'

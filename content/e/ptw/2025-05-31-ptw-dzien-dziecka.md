@@ -41,13 +41,13 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: "Lopez announces he's ready for a match. Pawłowski comes out offering him a title shot for the PTW Tag Team Championship with a mystery partner."
-- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Dawid "Puncher" Seńko](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: 'Pawłowski announces the creation of his new faction: Nietykalni.'
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - 'El G'
-- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md)(c)"
-  - '["Starboy" Nano Lopez](@/w/nano-lopez.md), [Daniel Razor](@/w/daniel-razor.md)'
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)(c)"
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Daniel Razor](@/w/daniel-razor.md)'
   - s: Tornado Tag Team match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     n: 'Mid-match, Pawłowski announced the addition of Royal Rebels and changes the rules to a Tornado Tag Team Match.'
@@ -67,7 +67,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Spartan](@/w/spartan.md)'
-  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: 'Pawłowski attempts to fire the referees, Okoński returns and lays him out, brawl ensues and Okoński stands tall.'
 - credits:
     Referee: '[Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'

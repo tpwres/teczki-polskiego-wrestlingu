@@ -23,7 +23,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 * On 18.06.2025 PTW shared a Facebook post revealing further details of the show:
   * Return of the Gold Rush Rumble Match, this time as a #1 Contender match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
   * Both the [PTW Underground Championship](@/c/ptw-underground-championship.md) and the [PTW Championship](@/c/ptw-championship.md) will be on the line.
-  * As mentioned above, the return of _The Brave Show_.
+  * As mentioned above, the return of "The Brave Show".
   * A women's match that will include [Diana Strong](@/w/diana-strong.md).
   * The conflict between Nietykalni and [Okoński's](@/w/lukasz-okonski.md) crew continues.
 * On 20.06.2025 PTW announced [Sawicki](@/w/sawicki.md) as the first entrant in Gold Rush Rumble 2. He was last seen in the ring at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) in 2020.
@@ -51,6 +51,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
   - 'Hannah Taylor'
   - 'Betty Boa'
   - c: 'Glam! Championship'
+    s: Triple Threat Match
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Adam Goldschmidt](@/w/adam-goldschmidt.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
@@ -75,7 +76,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 - - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Sędzia Herno](@/w/sedzia-herno.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Spartan](@/w/spartan.md)'
   - '[Puncher](@/w/puncher.md)'
   - g: Pawłowski attempts to fire the referees, who stand up to him. Other wrestlers join and take sides in a brawl.

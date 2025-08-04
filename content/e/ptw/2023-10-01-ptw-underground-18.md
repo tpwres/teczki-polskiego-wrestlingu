@@ -13,15 +13,22 @@ toclevel = 2
 ## Card
 
 {% card() %}
-- ['[Olgierd](@/w/olgierd.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Axel Fox](@/w/axel-fox.md)', '[Erik Šlotíř](@/w/erik-slotir.md)']
-- ['[Disco Pablo](@/w/disco-pablo.md)', '[Max Speed](@/w/max-speed.md)']
-- ['[Dziedzic](@/w/dziedzic.md)', '[Taras](@/w/taras.md)']
-- ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Marco Hammers](@/w/marco-hammers.md)']
-- ['["Top Gun" Samson](@/w/samson.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+- - '[Dziedzic](@/w/dziedzic.md)'
+  - '[Taras](@/w/taras.md)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+- - '["Top Gun" Samson](@/w/samson.md)'
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
 - - '[Nano Lopez](@/w/nano-lopez.md)'
-  - g: "Injured Nano Lopez talks about a possible retirement"
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', Peter Tihanyi]
+  - g: 'Injured Nano Lopez talks about a possible retirement'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - Peter Tihanyi
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
