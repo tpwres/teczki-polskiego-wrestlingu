@@ -48,7 +48,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - 'Falco'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
-  - s: Four-way Match
+  - s: Four-Way Match
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 - - '[Luca Bjorn](@/w/luca-bjorn.md)'

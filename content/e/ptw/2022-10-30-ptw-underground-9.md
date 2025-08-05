@@ -17,8 +17,10 @@ This was the go-home show for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends
 ## Card
 
 {% card() %}
-- ['[Taras](@/w/taras.md)', '[Vic Golden](@/w/vic-golden.md)']
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
+- - '[Taras](@/w/taras.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
 - - '[Rafi Rarytas](@/w/rafi.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - Matt Miric
@@ -29,13 +31,18 @@ This was the go-home show for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends
   - '[Blaze](@/w/blaze.md)'
   - Electra
   - s: PTW Contract Battle Royale
-- ['[Marcelito](@/w/marcelito.md)', '[Dawid "Puncher" Seńko](@/w/puncher.md)']
+- - '[Marcelito](@/w/marcelito.md)'
+  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: GM Pawłowski reinstates Nano Lopez to the roster
-- ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Disco Pablo](@/w/disco-pablo.md)']
-- ['[Spartan](@/w/spartan.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- ['[John "Bad Bones" Klinger](@/w/bad-bones.md)', '["Top Gun" Samson](@/w/samson.md)']
-- ['[Justin Joy](@/w/justin-joy.md)', Sam Gradwell]
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
+- - '[Spartan](@/w/spartan.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+- - '[John "Bad Bones" Klinger](@/w/bad-bones.md)'
+  - '["Top Gun" Samson](@/w/samson.md)'
+- - '[Justin Joy](@/w/justin-joy.md)'
+  - Sam Gradwell
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Rafał](@/w/alex-brave.md)'

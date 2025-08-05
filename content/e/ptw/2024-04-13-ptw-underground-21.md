@@ -24,19 +24,23 @@ It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-1
 ## Card
 
 {% card() %}
-- - 'Budapest Bastards: [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md)'
-  - "[Marcelito](@/w/marcelito.md), [Axel Fox](@/w/axel-fox.md)"
+- - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)'
+  - '[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/axel-fox.md)'
   - s: Open Challenge
-    c: PTW Tag Team Championship
-- ['[Vincent Caravaggio](@/w/vincent-caravaggio.md)', '[El Ogre](@/w/olgierd.md)']
+    c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[El Ogre](@/w/olgierd.md)'
 - - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
-- ['[King Kaiden](@/w/king-kaiden.md)', '[Olgierd](@/w/olgierd.md)']
+- - '[King Kaiden](@/w/king-kaiden.md)'
+  - '[Olgierd](@/w/olgierd.md)'
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Longman's confession
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '[Taras](@/w/taras.md)']
-- ['[Max Speed](@/w/max-speed.md)', '[Karol "Iskra" Górski](@/w/iskra.md)']
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '[Taras](@/w/taras.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
 - - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[S. Rafał](@/w/alex-brave.md)'
   - g: true
@@ -45,12 +49,12 @@ It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-1
   - c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md) (unsanctioned)'
 - - '[Puncher](@/w/puncher.md)(c)'
   - Marius Al-Ani(c)
-  - c: "[PTW Championship](@/c/ptw-championship.md) & WWA Championship"
+  - c: '[PTW Championship](@/c/ptw-championship.md) & WWA Championship'
 - credits:
     Host, Ring Announcer, General Manager, Guest Commentary: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
-    Guest commentary: Olgierd, Marco Hammers
+    Guest commentary: '[Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
     Sponsor representative: '[Łukasz Okoński](@/w/lukasz-okonski.md)'
 {% end %}
 
@@ -116,7 +120,7 @@ They issue a warning to Nano Lopez, King Kaiden as well as the rest of PTW roste
 He reminds the fans who he is and that he wants revenge for an injury, one that Dziedzic was a part of. He quickly dispatches both Sinister Kingdom members and celebrates in the ring, to a pop from audience.
 As Sinister Kingdom make their exit, Spartan chases them to the backstage area.
 
-Puncher cuts his usual pre-match promo. After a competitive match-up he defeats Marius Al-Ani with _Wylew_ (Superman punch). He defends his title and wins WWA Championship to become double champion - although there was no mention of unifying both titles.
+Puncher cuts his usual pre-match promo. After a competitive match-up he defeats Marius Al-Ani with _Wylew_ (Superman Punch). He defends his title and wins WWA Championship to become double champion - although there was no mention of unifying both titles.
 Post-match, Puncher brags about his win and makes shots at Baba-Thunder. He mocks him for losing his job in WWE and promises to do the same here in PTW, supposedly in a match at [PTW 6: Total Blast From the Past](@/e/ptw/2024-05-11-ptw-6.md).
 
 Marius Al-Ani gets pop for his effort and leaves the arena, upset about his loss.

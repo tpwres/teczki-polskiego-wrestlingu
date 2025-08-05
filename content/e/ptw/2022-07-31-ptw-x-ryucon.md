@@ -23,19 +23,24 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
 ## Card
 
 {% card() %}
-- ['[Axel Fox](@/w/axel-fox.md)', '[Justin Joy](@/w/justin-joy.md)']
-- ['[Robert Star](@/w/robert-star.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
 - - '[Sinister](@/w/sinister.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: 'Submission Match'
-- [Mike D. Vecchio, '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)']
-- - "Pure Gold: [Gabriel Queen](@/w/gabriel-queen.md), [Vic Golden](@/w/vic-golden.md)"
-  - "[Disco Pablo](@/w/disco-pablo.md), [Diana Strong](@/w/diana-strong.md)"
+- - Mike D. Vecchio
+  - '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)'
+- - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md) & [Diana Strong](@/w/diana-strong.md)'
   - s: Tag Team Match
 - - '[Puncher](@/w/puncher.md)'
-  - g: Destroying manga
-- ['[Puncher](@/w/puncher.md)', '[Samson](@/w/samson.md)']
-- ['[Bad Bones](@/w/bad-bones.md)', '[Taras](@/w/taras.md)']
+  - g: Puncher destroys manga
+- - '[Puncher](@/w/puncher.md)'
+  - '[Samson](@/w/samson.md)'
+- - '[Bad Bones](@/w/bad-bones.md)'
+  - '[Taras](@/w/taras.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'

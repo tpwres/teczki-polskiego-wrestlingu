@@ -15,15 +15,22 @@ The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2
 ## Card
 
 {% card() %}
-- ['[Gabriel Queen](@/w/gabriel-queen.md)', '[Axel Fox](@/w/axel-fox.md)']
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)']
-- ['[Diana Strong](@/w/diana-strong.md)', Gaya Glass]
-- ['[TAXI Złotówa](@/w/taxi-zlotowa.md)', Arczi Czajka]
-- ['[Krampus](@/w/krampus.md)', '[Jacob Crane](@/w/jacob-crane.md)']
-- ['["Starboy" Nano Lopez](@/w/nano-lopez.md)', '[Remo](@/w/remo.md)']
-- - 'PAKA: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md)'
-  - '[Syriusz Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md)'
-  - {r: DQ, s: Tag Team Match}
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - Gaya Glass
+- - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
+  - Arczi Czajka
+- - '[Krampus](@/w/krampus.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Remo](@/w/remo.md)'
+- - '[PAKA](@/tt/paka.md): [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md) & [Sinister](@/w/sinister.md)'
+  - r: DQ
+    s: Tag Team Match
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: >

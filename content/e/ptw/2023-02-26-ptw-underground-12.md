@@ -19,19 +19,26 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
 ## Card
 
 {% card() %}
-- ['[Boro](@/w/boro.md)', '[Syriusz Dziedzic](@/w/dziedzic.md)']
-- ['[Diana Strong](@/w/diana-strong.md)', Iva Kolasky]
-- ['[Marco "Łysy" Hammers](@/w/marco-hammers.md)', '["Starboy" Nano Lopez](@/w/nano-lopez.md)',
-  {nc: Match not started}]
-- ['[Wiktor Longman](@/w/wiktor-longman.md)', '["Top Gun" Samson](@/w/samson.md)']
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Sędzia Rafał](@/w/alex-brave.md)']
-- ['[Dawid "Puncher" Seńko](@/w/puncher.md)', '[Rafi Rarytas](@/w/rafi.md)']
-- ['[Sinister](@/w/sinister.md)', '[Marcelito](@/w/marcelito.md)']
-- ['[Robert Star](@/w/robert-star.md)', '[Hunyadi Tamas](@/w/hunyadi-tamas.md)']
-- - 'Pure Gold: [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md)'
-  - 'FoxJoy: [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md)'
-  - s: Semi Final Round Tag Team Match for the inaugural PTW Tag Team Championship
-      Tournament
+- - '[Boro](@/w/boro.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - Iva Kolasky
+- - '[Marco "Łysy" Hammers](@/w/marco-hammers.md)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - nc: Match not started
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - '["Top Gun" Samson](@/w/samson.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Sędzia Rafał](@/w/alex-brave.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Rafi Rarytas](@/w/rafi.md)'
+- - '[Sinister](@/w/sinister.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
+- - '[Pure Gold](@/tt/pure-gold.md): [Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+  - s: Semi Final Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'

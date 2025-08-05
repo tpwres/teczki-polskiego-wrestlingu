@@ -67,7 +67,6 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
   They exchanged trash talk and started a brawl. Brave bumps Speed's head on the table a few times.
   Later, Max tried to sneak in a superkick but Brave countered with a back suplex through the table.
   GM Pawłowski announced that if they are so eager to break tables, then they will get the chance to do so at the show, as their match is now a Tables Match.
-
 {% end %}
 
 ## Card
@@ -86,8 +85,8 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
   - s: Puncher's open challenge
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
-- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md), Svedberg'
-  - 'Gulyas Bros: [Gulyás Öcsi](@/w/gulyas-ocsi.md), Gulyás Vilmos'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md) & Svedberg'
+  - 'Gulyas Bros: [Gulyás Öcsi](@/w/gulyas-ocsi.md) & Gulyás Vilmos'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)'
   - Joseph Conners

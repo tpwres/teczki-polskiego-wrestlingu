@@ -22,8 +22,8 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
 - - '[Jim Enerico](@/w/mister-z.md)'
   - '[Snake](@/w/snake.md)'
   - s: Hardcore Match
-- - 'Koteł, Krasso'
-  - '[Psychodela](@/w/psychodela.md), [KAT](@/w/biesiad.md)'
+- - 'Koteł & Krasso'
+  - '[Psychodela](@/w/psychodela.md) & [KAT](@/w/biesiad.md)'
   - s: Hardcore Tag-Team Match
 - - 'Jake Young'
   - '[Hades](@/w/olgierd.md)'

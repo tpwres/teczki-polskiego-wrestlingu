@@ -18,8 +18,8 @@ toclevel = 2
 - - '[Nightmare](@/w/nightmare.md)'
   - '[Blazer](@/w/blazer.md)'
   - nc: '?'
-- - 'Nathan Flame, ???'
-  - '???, ???'
+- - 'Nathan Flame & ???'
+  - '??? & ???'
   - s: Tag-Team Match
     nc: '?'
 - - '[Black Joker](@/w/lider.md)'

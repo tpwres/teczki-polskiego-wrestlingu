@@ -17,7 +17,7 @@ caption = "Official poster, depicting [Johnny Blade](@/w/johnny-blade.md)."
 source = "Official PpW Facebook"
 +++
 
-Back to the OG was a show by [PpW Ewenement Wrestling](@/o/ppw.md). The name references the return to [2KOŁA Motorcycle Club][@/v/2kola.md], which was PpW's original venue upon going pro.
+Back to the OG was a show by [PpW Ewenement Wrestling](@/o/ppw.md). The name references the return to [2KOŁA Motorcycle Club](@/v/2kola.md), which was PpW's original venue upon going pro.
 
 ## Card
 
