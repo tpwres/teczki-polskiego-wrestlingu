@@ -80,7 +80,7 @@ After voicing their frustrations on social media, [Rafi Rarytas](@/w/rafi.md), [
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024.
 
-On February 12th, 2024, PTW commentary team member Piotr "ShowOff" Małecki announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
+On February 12th, 2024, PTW commentary team member [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
 
 #### Expansion into Austria
 
@@ -170,7 +170,7 @@ On August 14, 2024, PTW launched their new show, "Czas na Wrestling" (_Time for 
 PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) show also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in [Kozłów](@/v/dworek-kozlow.md), which now appeared to be PTW's new base of operations.
 
 In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled, although the shows are not aired live as previously, but rather taped with a promise of later release.
-Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw Krystian "Resivny" Smoleń replacing ShowOff as the host. Resivny was also confirmed to be the third member of the new commentary team.
+Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw [Krystian "Resivny" Smoleń](@/w/resivny.md) replacing ShowOff as the host. Resivny was also confirmed to be the third member of the new commentary team.
 
 On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on television, on Extreme Sports Channel. The first show to air would be [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), set to broadcast on 27.10.2024.
 
