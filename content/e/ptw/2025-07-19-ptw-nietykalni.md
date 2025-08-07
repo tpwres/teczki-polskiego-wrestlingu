@@ -21,7 +21,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * On 15.07.2025 PTW announced Daniel Razor vs ["Starboy" Nano Lopez](@/w/nano-lopez.md) for the vacated [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * On 16.07.2025 PTW announced the debut of Austrian Flex Skywalker in a match with [Spartan](@/w/spartan.md).
 * The day after, PTW announced another Polish debut: Lucy Couture from England, set to challenge [Diana Strong](@/w/diana-strong.md) for her GLAM! Championship.
-* On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs Polski Niedźwiedź.
+* On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * "Hottest free agent" CJ Klakson teased a PTW debut over the prior week with multiple vignettes on his social media.
 
 ## Card
@@ -51,7 +51,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 - - '[Krampus](@/w/krampus.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
-  - 'Polski Niedźwiedź'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
 - - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Lesya'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
