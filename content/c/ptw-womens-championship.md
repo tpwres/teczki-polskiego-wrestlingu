@@ -5,6 +5,8 @@ template = "article.html"
 authors = ["M3n747", "Szymon Iwulski"]
 [extra]
 toclevel=2
+[extra.gallery]
+1 = { path = "ptw-womens-championship-and-bestya-womens-championship.webp", caption = "PTW Women's Championship (right), next to the BestYa Women's Championship (left).", source = "Dawid Kucharski, MyWrestling.com.pl" }
 +++
 
 The PTW Women's Championship is a professional wrestling belt created and promoted by [Prime Time Wrestling](@/o/ptw.md) as their women's division title.
