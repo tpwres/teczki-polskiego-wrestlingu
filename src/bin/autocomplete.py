@@ -16,12 +16,27 @@
 import json
 import pickle
 import zlib
+import sys
 from pathlib import Path
-from typing import Dict, List
+from typing import List, Any, Optional
+from dataclasses import dataclass, asdict, is_dataclass
+from functools import cache
+from argparse import ArgumentParser
 
 from parse.parser import RichDocParser
 
-def build_autocomplete_cache(content_dir: Path) -> Dict[str, str]:
+@dataclass
+class CompletionItem:
+    path: str
+    cat: str # Category
+    rel: Optional[str] = None
+
+@cache
+def get_title(path: Path) -> str:
+    doc = RichDocParser().parse_file(path)
+    return doc.front_matter.get('title')
+
+def build_autocomplete_cache(content_dir: Path) -> dict[str, str]:
     """
     Build a mapping of names to paths for autocomplete functionality.
     Reads frontmatter from markdown files in various subdirectories.
@@ -34,21 +49,21 @@ def build_autocomplete_cache(content_dir: Path) -> Dict[str, str]:
         with open(aliases_path, 'r') as f:
             aliases = json.load(f)
             for name, path in aliases.items():
-                autocomplete_map[name.lower()] = path
+                original = get_title(content_dir / path)
+                autocomplete_map[name] = CompletionItem(path, 'a', original)
 
     # Scan different content directories
-    for category in ['w', 'tt', 'v', 'c', 'o']:
+    for category in ['w', 'tt', 'v', 'c', 'o', 'e']:
         category_dir = content_dir / category
         if not category_dir.exists():
             continue
 
         for file_path in category_dir.glob('**/*.md'):
-            # Parse file using RichDocParser
-            doc = RichDocParser().parse_file(file_path)
-            if not doc: continue
-
-            name = doc.front_matter.get('title')
-            autocomplete_map[name] = to_at_path(file_path)
+            name = get_title(file_path)
+            autocomplete_map[name] = CompletionItem(
+                to_at_path(file_path),
+                category
+            )
 
     return autocomplete_map
 
@@ -56,19 +71,19 @@ def to_at_path(path, content_dir=Path.cwd() / 'content'):
     rel = path.relative_to(content_dir)
     return f"@/{rel}"
 
-def save_autocomplete_cache(cache: Dict[str, str], cache_file: Path):
+def save_autocomplete_cache(cache: dict[str, str], cache_file: Path):
     """Save autocomplete cache as a compressed pickle"""
     with open(cache_file, 'wb') as f:
         compressed_cache = zlib.compress(pickle.dumps(cache))
         f.write(compressed_cache)
 
-def load_autocomplete_cache(cache_file: Path, content_dir: Path) -> Dict[str, str]:
+def load_autocomplete_cache(cache_file: Path, content_dir: Path) -> tuple[bool, dict[str, str]]:
     """
     Load autocomplete cache, rebuilding if absent or stale
     Stale means cache is older than the newest markdown file
     """
     if not cache_file.exists():
-        return build_autocomplete_cache(content_dir)
+        return True, build_autocomplete_cache(content_dir)
 
     # Check if cache is stale
     latest_md_time = max(
@@ -77,37 +92,58 @@ def load_autocomplete_cache(cache_file: Path, content_dir: Path) -> Dict[str, st
     )
 
     if cache_file.stat().st_mtime < latest_md_time:
-        return build_autocomplete_cache(content_dir)
+        return True, build_autocomplete_cache(content_dir)
 
     # Load compressed cache
     with open(cache_file, 'rb') as f:
-        return pickle.loads(zlib.decompress(f.read()))
+        return False, pickle.loads(zlib.decompress(f.read()))
 
-def autocomplete(prefix: str, cache: Dict[str, str]) -> List[str]:
+def autocomplete(prefix: str, cache: dict[str, str]) -> List[str]:
     """
     Find and format autocomplete matches for a given prefix
     """
+    lower_prefix = prefix.lower()
     matches = sorted(
-        (name for name, path in cache.items() if name.startswith(prefix)),
-        key=lambda x: len(x)  # Shorter matches first
+        ((name, entry) for name, entry in cache.items() if name.lower().startswith(lower_prefix)),
+        key=lambda n: len(n[0])  # Shorter matches first
     )
 
-    return [f"[{name}]({cache[name]})" for name in matches]
+    return matches
 
-def main():
+def encode_item(item: Any):
+    match item:
+        case dc if is_dataclass(dc):
+            return asdict(dc)
+        case value:
+            return value
+
+def format_link(item):
+    match item:
+        case (str(name), CompletionItem(path=path)):
+            return f"[{name}]({path})"
+
+def main(options):
     """Main autocomplete script"""
     content_dir = Path.cwd() / 'content'
     cache_file = Path.cwd() / '.autocomplete_cache'
 
     # Load or build cache
-    autocomplete_cache = load_autocomplete_cache(cache_file, content_dir)
-    save_autocomplete_cache(autocomplete_cache, cache_file)
+    stale, autocomplete_cache = load_autocomplete_cache(cache_file, content_dir)
+    if stale:
+        save_autocomplete_cache(autocomplete_cache, cache_file)
 
     # Read input prefix
     prefix = input().strip(' []')
+    matches = autocomplete(prefix, autocomplete_cache)
 
     # Output matches
-    print('\n'.join(autocomplete(prefix, autocomplete_cache)))
+    if options.json:
+        json.dump(matches, sys.stdout, default=encode_item)
+    else:
+        print('\n'.join(format_link(entry) for entry in matches))
 
 if __name__ == '__main__':
-    main()
+    parser = ArgumentParser(prog=sys.argv[0], description='Autocomplete markdown links')
+    parser.add_argument('--json', action='store_true', help='Output JSON')
+    options = parser.parse_args()
+    main(options)

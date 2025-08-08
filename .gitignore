@@ -5,3 +5,4 @@ ppw_wiki/pages/public/
 /static/minisearch_index.json
 node_modules/
 uv.lock
+.autocomplete_cache
