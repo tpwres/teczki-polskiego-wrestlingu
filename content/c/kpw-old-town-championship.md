@@ -209,6 +209,12 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: 'Singles Match'
     en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
     ed: 2025-06-20
+- - 'Chemik (c)'
+  - 'Leon Lato'
+  - s: Singles Match
+    en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
+    ed: 2025-08-22
+    nc: upcoming
 {% end %}
 
 ## References
