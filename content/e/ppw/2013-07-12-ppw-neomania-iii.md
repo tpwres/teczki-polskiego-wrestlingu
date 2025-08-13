@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2013-07-12-ppw-neomania-iii-gallery.toml"
 +++
 
-Neomania III was PpW's early backyard show that took place on multiple dates over the summer holidays of 2013. The exact dates are unknown, however not earlier than 5.07.2013, as this was the day when [Jeff](@/w/michael-ht.md) and [Mister Z](@/w/mister-z.md) signed a contract for a fight at this event during an episode of FightDown. The date of 12.07 was chosen arbitrarily for the purposes of this entry and does not accurately reflect the acutual date(s) of the event.
+Neomania III was PpW's early backyard show that took place on multiple dates over the summer holidays of 2013. The exact dates are unknown, however not earlier than 5.07.2013, as this was the day when [Jeff](@/w/michael-ht.md) and [Mister Z](@/w/mister-z.md) signed a contract for a fight at this event during an episode of FightDown. The date of 12.07 was chosen arbitrarily for the purposes of this entry and does not accurately reflect the actual date(s) of the event.
 
 The show was held outdoors at three different locations: a local playground, a "steel cage" (actually a chain link fence) surrounding a basketball court outside of Mati's house, and [Helit's](@/w/johnny-blade.md) garden. The fights in the first two locations took place on the grass (and, in the case of the playground, utilised slides, jungle gyms and other available equipment), whereas the garden featured a small makeshift ring made out of cardboard and an ordinary jute fibre rope tied to a metal post, a wooden beam and two trees.
 
