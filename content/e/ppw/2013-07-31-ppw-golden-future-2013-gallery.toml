@@ -1,0 +1,14 @@
+01 = { path = "01-title-screen.webp", caption = "The show's title screen, with a PEGI 3 rating and a Parental Advisory sign.", source = "Official PpW YouTube" }
+02 = { path = "02-mystic-tiger.webp.webp", caption = "Mystic Tiger. The caption says: &quot;Okay, we know this story, he turned hell&quot;.", source = "Official PpW YouTube" }
+03 = { path = "03-mister-z-(albo-kto-tam)-gada-do-kamery.webp", caption = "[[Mister Z](@/w/mister-z.md) (or not) talks to the camera.", source = "Official PpW YouTube" }
+04 = { path = "04-a-teraz-walka.webp", caption = "&quot;And now the fight!&quot;", source = "Official PpW YouTube" }
+05 = { path = "05-red-power.webp", caption = "[Red Power](@/w/rob-scaffold.md).", source = "Official PpW YouTube" }
+06 = { path = "06-mike-ative.webp.webp", caption = "Mike Ativ.", source = "Official PpW YouTube" }
+07 = { path = "07-pas-teksasu-na-scianie.webp", caption = "Texas Belt on the wall. Take it down, pass it around - no Texas Belt on the wall.", source = "Official PpW YouTube" }
+08 = { path = "08-cepniecie-krzeslem.webp", caption = "A chair gets destroyed on Mike Ativ's head.", source = "Official PpW YouTube" }
+09 = { path = "09-red-power-na-zepsutym-krzesle.webp", caption = "[Red Power](@/w/rob-scaffold.md) climbs onto the broken chair.", source = "Official PpW YouTube" }
+10 = { path = "10-red-powers-stare.webp", caption = "[Red Power](@/w/rob-scaffold.md) stares into your soul.", source = "Official PpW YouTube" }
+11 = { path = "11-mike-ativ-z-bliska.webp", caption = "Close-up of Mike Ativ.", source = "Official PpW YouTube" }
+12 = { path = "12-angel-guerrero.webp", caption = "[Angel Guerrero](@/w/angel-guerrero.md) reaches for the future.", source = "Official PpW YouTube" }
+13 = { path = "13-filipet.webp", caption = "[Filipet](@/w/rob-scaffold.md) just swam in from a local construction site.", source = "Official PpW YouTube" }
+14 = { path = "14-nikt-nic-nie-wie.webp", caption = "&quot;Nobody knows what happened to the contestants&quot;.", source = "Official PpW YouTube" }
