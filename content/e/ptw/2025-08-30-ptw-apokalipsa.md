@@ -9,7 +9,7 @@ venue = ["szafirowy-dwor"]
 city = "Kozłów"
 toclevel = 2
 [extra.gallery]
-1 = { path = "ptw-apokalipsa-plakat.webp", caption = "Official poster.", source = "Official PTW Facebook" }
+1 = { path = "ptw-apokalipsa-plakat.webp", caption = "Official poster. At the top, looming over the others is [Krampus](@/w/krampus.md); left to right, top row: ???, [Sigma Boy xD](@/w/sigma-boy.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Nano Lopez](@/w/nano-lopez.md), [Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Daniel Razor](@/w/daniel-razor.md), [Polski Niedźwiedź](@/w/polski-niedzwiedz.md); bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Puncher](@/w/puncher.md), [Miyagi Shida](@/w/miyagi-shida.md), [Diana Strong](@/w/diana-strong.md), [Serg Sullivan](@/w/serg-sullivan.md), [Spartan](@/w/spartan.md), [Łukasz Okoński](@/w/lukasz-okonski.md).", source = "Official PTW Facebook" }
 +++
 
 "Apokalipsa" (_The Apocalypse_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
