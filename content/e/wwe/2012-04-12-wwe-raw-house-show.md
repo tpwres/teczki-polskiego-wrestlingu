@@ -19,7 +19,7 @@ This was the second [WWE](@/o/wwe.md) show in Poland, and the first RAW. Like th
 {% card() %}
 - - 'Lord Tensai'
   - 'Alex Riley'
-- - 'Kofi Kingsto & R-Truth'
+- - 'Kofi Kingston & R-Truth'
   - 'Epico & Primo'
   - s: Tag Team Match
 - - 'Zack Ryder'
