@@ -26,7 +26,7 @@ def convert_line_to_position(comments: list[dict], file_positions: dict[str, dic
             continue
 
         # Check if this line has a position in the diff
-        if line not in file_positions[path]:
+        if line is not None and line not in file_positions[path]:
             print(f"⚠️ Skipping comment on '{path}:{line}': line not in diff")
             continue
 
@@ -37,7 +37,7 @@ def convert_line_to_position(comments: list[dict], file_positions: dict[str, dic
             "body": message
         })
 
-        print(f"✅ Mapped {path}:{line} -> position {position}")
+        # print(f"✅ Mapped {path}:{line} -> position {position}")
 
     return positioned_comments
 
