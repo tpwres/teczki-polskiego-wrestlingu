@@ -14,7 +14,7 @@ manifest = "@/e/ppw/2016-04-09-ppw-open-fight-night-2016-gallery.toml"
 
 Open Fight Night 2016 was the second and last of two events in the Open Fight Night series. It took place at the vacant lot at Winogronowa 17. The idea of the OFN series was that anyone could challange anyone else.
 
-The exact date of the event isn't known. The videos were uploaded on 9.04, 14.05 and 21.05.2016; the first date was chosen for the purposes of this entry, but may not accurately reflect the acutual date(s) of the event.
+The exact date of the event isn't known. The videos were uploaded on 9.04, 14.05 and 21.05.2016; the first date was chosen for the purposes of this entry, but may not accurately reflect the actual date(s) of the event.
 
 ## Card
 
