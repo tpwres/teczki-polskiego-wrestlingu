@@ -24,9 +24,10 @@ CAL=static/calendar.ics \
 		static/calendar-low.ics
 MINISEARCH_INDEX=static/minisearch_index.json
 
-all: rosters meta aliases atr calendar index plot recent
+all: rosters meta aliases full-flags atr calendar index plot recent
 rosters: $(ROSTERS)
 aliases: data/aliases.json
+full-flags: data/full_flags.json
 atr: data/all_time_roster.json
 meta: $(METADATA)
 calendar: $(CAL)
@@ -44,6 +45,9 @@ data/career.json data/career_v2.json data/team_careers.json &: content/e/**/*.md
 
 data/aliases.json: content/w/*.md
 	bin/build-aliases
+
+data/full_flags.json: const/name-to-flag.yaml const/aliases.yaml
+	bin/build-fullflags
 
 data/mapdata.json: content/v/
 	bin/build-geojson $@

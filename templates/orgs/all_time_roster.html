@@ -1,7 +1,7 @@
 {% set org_styles = config.extra.org_styles -%}
 {% set appearances = load_data(path="data/appearances.json") -%}
 {% set all_matches = load_data(path="data/all_matches.json") -%}
-{% set name_to_flag = load_data(path="const/name-to-flag.yaml") -%}
+{% set name_to_flag = load_data(path="data/full_flags.json") -%}
 {% set flag_dict = load_data(path="const/flags-by-code.json") -%}
 {% set all_emojis = load_data(path="const/emojis.yaml") %}
 {% set empty_obj = []|group_by(attribute=0) %}
