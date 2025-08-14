@@ -29,9 +29,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 
 {% card(predicted=true) %}
 - - '[Tomczak](@/w/tomczak.md)'
-  - '???'
-  - '???'
-  - '???'
+  - 'The Rookies: ??? & ??? & ???'
   - s: 3-on-1 Handicap Match
     nc: upcoming
 - - '[Leon Lato](@/w/leon-lato.md)'
