@@ -5,7 +5,7 @@
 {% endblock %}
 
 {% block content %}
-{% if page.extra.gallery -%}{% set has_gallery = true %}{% endif %}
+{% if page.extra.gallery is defined -%}{% set has_gallery = true %}{% endif %}
 
 <span class="event-date-location">
   <time class="event-date">{{ page.date }}</time>
