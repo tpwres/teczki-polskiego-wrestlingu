@@ -2,6 +2,7 @@
 {%- import "macros/career.html" as macros %}
 
 {% block content %}
+{% if page.extra.gallery is defined -%}{% set has_gallery = true %}{% endif %}
 {% if not page.extra.omit_career -%}{% set has_career = true %}{% endif %}
 
 {% include "team/h1_with_orgs.html"%}
