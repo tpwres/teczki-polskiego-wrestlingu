@@ -24,6 +24,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 * The next day KPW confirmed the match between [Bracia Fux](@/tt/bracia-fux.md) ([Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)) and Team Visegrad ([Ricky Sky](@/w/ricky-sky.md) & [David Oliwa](@/w/david-oliwa.md)) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). This match was brought about by a situation at [Pyrkon 2025](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md), where Team Visegrad attacked Filip and Michał after the brothers won their bout against [Chemik](@/w/chemik.md) and [Hans Schulte](@/w/hans-schulte.md).
 * The main event - [Hans Schulte](@/w/hans-schulte.md) vs [Zefir](@/w/zefir.md) for the [KPW Championship](@/c/kpw-championship.md) - was officially confirmed on 11.08.2025.
 * The Handicap Match between [Tomczak](@/w/tomczak.md) and three as-yet unnamed rookies was confirmed two days later.
+* On 15.08.2025 KPW announced [Eryk Lesak](@/w/eryk-lesak.md) vs Crowchester, who was last seen at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).
 
 ## Predicted card
 
@@ -36,6 +37,9 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
   - '[Chemik](@/w/chemik.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
     nc: upcoming
+- - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - 'Crowchester'
+  - nc: upcoming
 - - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)(c)'
   - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
