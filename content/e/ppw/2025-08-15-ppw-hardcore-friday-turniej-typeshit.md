@@ -49,7 +49,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
     c: Tournament Type-shit Round 2
 - - '[Goblin](@/w/goblin.md)'
   - '[Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - s: Non-Title Match
+  - s: Hardcore Match
 - - 'The Hardcores: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Warsaw Brawl Tag Team Match
@@ -68,6 +68,8 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 * After their match, Zmowa came out in full force, and started punishing Plata with kendo stick hits. However, after a few hits, Gustav defied and stopped Mister Z by grabbing the stick. The situation was de-escalated by by Olgierd and Marco. The crowd reacted wildly to this, cheering on Gustav and inverting the chant usually adressed against him to "Bartoszyce, my wiemy gdzie to jest" ([Bartoszyce, we know where that is](@/a/polish-wrestling-chants.md#general-expletives)). This hinted at a possible upcoming face turn for Gustav.
 * The signed T-shirt's final price was 1500PLN (about 350 EUR or 410 USD at the time). Joker's cause later gained more support on his and PpW's social media.
 * During the Bullrope match Gabriel pulled a hobby horse toy from under the ring, and used it to punish Oskar. Later, he used the cowbell in the rope's middle creatively, delivering a jumping blow with a double axe cowbell handle from three corners and an elbow drop from the fourth. Towards the end of the match, Vic Golden tried interfering, his Golden Chair in hand, only to get dropped onto Oskar with a Death Valley Driver.
+* Dobroniak entered the ring wearing his STHLM Wrestling Swedish Heavyweight Championship, although neither his nor Goblin's title were at stake.
+* Goblin vs Dobroniak started with a quick test of strength, followed by both diving outside the ring and digging underneath for weapons. The match saw weird weapons in use - Goblin wielding a green plastick bucket, and Dobroniak a metal Pepsi sign.
 
 ## References
 
