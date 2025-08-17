@@ -40,8 +40,8 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
   - g: 'Post match beatdown'
 - - '[Joker](@/w/joker.md)'
   - g: Joker auctions off a signed t-shirt to financially aid his family
-- - '[Wonder Haze](@/w/wonder-haze.md)'
-  - '[Sambor](@/w/sambor.md)'
+- - '[Sambor](@/w/sambor.md)'
+  - '[Wonder Haze](@/w/wonder-haze.md)'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Bullrope Match
