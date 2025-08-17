@@ -57,7 +57,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Before the show started, host [Michael HT](@/w/michael-ht.md) reminded the audience that Poland celebrates [Armed Forces Day][armed-forces-day] on the date, and wished for PpW's soldier [Kapitan Bazooka](@/w/kapitan-bazooka.md)'s good health and a return to the ring. Next, he encouraged the audience to sing [Do Boju Polsko][do-boju-polsko], a patriotic song by Marek Torzewski which was Poland's official song for the 2002 FIFA World Cup in Korea-Japan.
 * During Gustav vs Sentinel, fans invented two new chants. Once Gustav pulled down the top of his singlet, fans chanted "Hej Gustav, ubierz się kurwo" (_Hey Gustav, dress up, you bitch_, a variant of [Jedziesz z tą kurwą](@/a/polish-wrestling-chants.md#calls-to-action)) and "Schowaj Cyce" (_Hide your tits_, an inversion of "Pokaż cycki").
