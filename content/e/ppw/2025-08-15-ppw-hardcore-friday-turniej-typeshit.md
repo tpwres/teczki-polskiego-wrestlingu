@@ -25,7 +25,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 
 ## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Sentinel](@/w/sentinel.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
 - - '[Vic Golden](@/w/vic-golden.md)'
@@ -39,12 +39,13 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
   - '[Bartosz Plata](@/w/plata.md)'
   - g: 'Post match beatdown'
 - - '[Joker](@/w/joker.md)'
-  - g: Joker auctions off a signed t-shirt to financially aid his family
+  - g: Joker auctions off a signed t-shirt
 - - '[Sambor](@/w/sambor.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Bullrope Match
+    r: Submission
     c: Tournament Type-shit Round 2
 - - '[Goblin](@/w/goblin.md)'
   - '[Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
@@ -55,6 +56,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 - credits:
     Commentary: '[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
 ### Highlights
@@ -64,7 +66,8 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 * Marco Hammers appeared at ringside and offered Gustav a kendo stick, which he visibly and angrily rejected, preferring to fight on his own terms with no outside help. Unfortunately, this distraction allowed Sentinel to attack and roll up Gustav for a surprise win.
 * In his match with Mister Z, Bartosz Plata was prevented from using his signature chops. However, his opponent was not.
 * After their match, Zmowa came out in full force, and started punishing Plata with kendo stick hits. However, after a few hits, Gustav defied and stopped Mister Z by grabbing the stick. The situation was de-escalated by by Olgierd and Marco. The crowd reacted wildly to this, cheering on Gustav and inverting the chant usually adressed against him to "Bartoszyce, my wiemy gdzie to jest" ([Bartoszyce, we know where that is](@/a/polish-wrestling-chants.md#general-expletives)). This hinted at a possible upcoming face turn for Gustav.
-* The signed T-shirt's final price was 1500PLN (about 350 EUR or 410 USD at the time). Joker's cause later gained more support on PpW's social media.
+* The signed T-shirt's final price was 1500PLN (about 350 EUR or 410 USD at the time). Joker's cause later gained more support on his and PpW's social media.
+* During the Bullrope match Gabriel pulled a hobby horse toy from under the ring, and used it to punish Oskar. Later, he used the cowbell in the rope's middle creatively, delivering a jumping blow with a double axe cowbell handle from three corners and an elbow drop from the fourth. Towards the end of the match, Vic Golden tried interfering, his Golden Chair in hand, only to get dropped onto Oskar with a Death Valley Driver.
 
 ## References
 
