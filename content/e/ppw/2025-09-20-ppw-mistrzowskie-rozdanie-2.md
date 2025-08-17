@@ -17,6 +17,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 
 * The show was announced on 12.07.2025 in a [Facebook post][mr2] accompanied by the official poster. Keeping with the card theme of the [first Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md), this show's poster features [Goblin](@/w/goblin.md) and a number of tarot cards (modelled after the [Rider–Waite Tarot][rwt]) with the Major Arcana replaced with portraits of wrestlers. In Goblin's dexter is VIII - Strength ([Biesiad Strong](@/w/biesiad.md)) and in his sinister is XIII - Death ([Olgierd](@/w/olgierd.md)), while behind him is XVII - The Star ([Robert Star](@/w/robert-star.md)). Goblin also holds two blank cards, numbered III and IV - The Empress and The Emperor, respectively. (Tarot cards with character portraits taking place of the Major Arcana are an important element in the fantasy book series [The Chronicles of Amber][amber] by Roger Zelazny, however whether this was an inspiration or a coincidence, is not known.)
 * On 18.07.2025 PpW confirmed [Goblin](@/w/goblin.md) vs [Robert Star](@/w/robert-star.md) for the [PpW Championship](@/c/ppw-championship.md). Star was portrayed as XVII - The Star, and Goblin as 0 - The Fool.
+* On 17.09.2025 PpW announced the main event - a Total Elimination Fatal 4-Way Match between [Gabriel Queen](@/w/gabriel-queen.md) (VI - The Lovers), [Biesiad Strong](@/w/biesiad.md) (VIII - Strength), [Olgierd](@/w/olgierd.md) (XIII - Death) and [Vic Golden](@/w/vic-golden.md) (XV - The Devil).
 
 ## Card
 
@@ -25,11 +26,11 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   - '[Robert Star](@/w/robert-star.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
-- - '???'
-  - '???'
-  - '???'
-  - '???'
-  - s: Total Elimination Fatal Four-Way Match
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Total Elimination Fatal 4-Way Match
     nc: upcoming
 {% end %}
 
