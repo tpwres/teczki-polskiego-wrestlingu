@@ -75,7 +75,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
     {{ org_badge(org='ppw') }} (2025) <br>
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
-    {{ music(apple='1065976566') }}
+    {{ music(apple='1065976549?i=1065976566') }}
 
 ## Internet presence
 
