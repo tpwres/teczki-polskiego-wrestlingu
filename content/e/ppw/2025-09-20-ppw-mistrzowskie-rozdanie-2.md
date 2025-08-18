@@ -22,14 +22,14 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 ## Card
 
 {% card(predicted=true) %}
-- - '[Goblin](@/w/goblin.md)(c)'
-  - '[Robert Star](@/w/robert-star.md)'
+- - '[_The Fool_ Goblin](@/w/goblin.md)(c)'
+  - '[_The Star_ Robert Star](@/w/robert-star.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
-- - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - '[Vic Golden](@/w/vic-golden.md)'
+- - '[_The Lover_ Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[_Strength_ Biesiad Strong](@/w/biesiad.md)'
+  - '[_Death_ Olgierd](@/w/olgierd.md)'
+  - '[_The Devil_ Vic Golden](@/w/vic-golden.md)'
   - s: Total Elimination Fatal 4-Way Match
     nc: upcoming
 {% end %}
