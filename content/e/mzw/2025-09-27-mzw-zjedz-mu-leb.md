@@ -16,12 +16,19 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 ## Build-up
 
 * On 13.08.2025, MZW announced the first match - [Disco Pablo](@/w/disco-pablo.md) vs [Oskar Alexander](@/w/oskar-alexander.md).
+* On 18.08 two matches were announced, splitting [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) vs [Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) vs [Olgierd](@/w/olgierd.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - nc: upcoming
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Shadow](@/w/shadow.md)'
+  - nc: upcoming
+- - '[Marcelito](@/w/marcelito.md)'
+  - '[Olgierd](@/w/olgierd.md)'
   - nc: upcoming
 {% end %}
 
