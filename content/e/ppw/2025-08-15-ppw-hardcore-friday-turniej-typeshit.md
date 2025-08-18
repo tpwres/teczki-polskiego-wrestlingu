@@ -37,9 +37,9 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
   - s: Wielkie Testy Platy #2 (_Plata's Grand Trials #2_) No Chops Match
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-  - g: 'Post match beatdown'
+  - g: 'Post-match beatdown'
 - - '[Joker](@/w/joker.md)'
-  - g: Joker auctions off a signed t-shirt
+  - g: Joker auctions off a signed T-shirt
 - - '[Sambor](@/w/sambor.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
@@ -56,26 +56,26 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 - credits:
     Commentary: '[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Host, Ring announcer: '[Michael HT](@/w/michael-ht.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
 ### Highlights
 
-* Before the show started, host [Michael HT](@/w/michael-ht.md) reminded the audience that Poland celebrates [Armed Forces Day][armed-forces-day] on the date, and wished for PpW's soldier [Kapitan Bazooka](@/w/kapitan-bazooka.md)'s good health and a return to the ring. Next, he encouraged the audience to sing [Do Boju Polsko][do-boju-polsko], a patriotic song by Marek Torzewski which was Poland's official song for the 2002 FIFA World Cup in Korea-Japan.
-* During Gustav vs Sentinel, fans invented two new chants. Once Gustav pulled down the top of his singlet, fans chanted "Hej Gustav, ubierz się kurwo" (_Hey Gustav, dress up, you bitch_, a variant of [Jedziesz z tą kurwą](@/a/polish-wrestling-chants.md#calls-to-action)) and "Schowaj Cyce" (_Hide your tits_, an inversion of "Pokaż cycki").
+* Before the show started, host [Michael HT](@/w/michael-ht.md) reminded the audience that Poland celebrates [Armed Forces Day][armed-forces-day] on the date, and wished for PpW's soldier [Kapitan Bazooka's](@/w/kapitan-bazooka.md) good health and return to the ring. Next, he encouraged the audience to sing [Do Boju Polsko][do-boju-polsko], a patriotic song by Marek Torzewski which was Poland's official song for the 2002 FIFA World Cup in Korea-Japan.
+* During Gustav vs Sentinel, fans invented two new chants. Once Gustav pulled down the top of his singlet, fans chanted "Hej Gustav, ubierz się, kurwo" (_Hey Gustav, dress up, you bitch_, a variant of [Jedziesz z tą kurwą](@/a/polish-wrestling-chants.md#calls-to-action)) and "Schowaj Cyce" (_Hide your tits_, an inversion of "Pokaż cycki").
 * Marco Hammers appeared at ringside and offered Gustav a kendo stick, which he visibly and angrily rejected, preferring to fight on his own terms with no outside help. Unfortunately, this distraction allowed Sentinel to attack and roll up Gustav for a surprise win.
 * In his match with Mister Z, Bartosz Plata was prevented from using his signature chops. However, his opponent was not.
-* After their match, Zmowa came out in full force, and started punishing Plata with kendo stick hits. However, after a few hits, Gustav defied and stopped Mister Z by grabbing the stick. The situation was de-escalated by by Olgierd and Marco. The crowd reacted wildly to this, cheering on Gustav and inverting the chant usually adressed against him to "Bartoszyce, my wiemy gdzie to jest" ([Bartoszyce, we know where that is](@/a/polish-wrestling-chants.md#general-expletives)). This hinted at a possible upcoming face turn for Gustav.
-* The signed T-shirt's final price was 1500PLN (about 350 EUR or 410 USD at the time). Joker's cause later gained more support on his and PpW's social media.
-* During the Bullrope match Gabriel pulled a hobby horse toy from under the ring, and used it to punish Oskar. Later, he used the cowbell in the rope's middle creatively, delivering a jumping blow with a double axe cowbell handle from three corners and an elbow drop from the fourth. Towards the end of the match, Vic Golden tried interfering, his Golden Chair in hand, only to get dropped onto Oskar with a Death Valley Driver.
+* After their match, Zmowa came out in full force, and started punishing Plata with kendo stick hits. However, after a few hits, Gustav defied and stopped Mister Z by grabbing the stick. The situation was de-escalated by by Olgierd and Marco. The crowd reacted wildly to this, cheering for Gustav and inverting the chant usually adressed against him to "Bartoszyce, my wiemy gdzie to jest" (_[Bartoszyce, we know where that is](@/a/polish-wrestling-chants.md#general-expletives)_). This hinted at a possible upcoming face turn for Gustav.
+* The signed T-shirt's final price was 1500&nbsp;PLN (about 350&nbsp;EUR or 410&nbsp;USD at the time). Joker's cause later gained more support on his and PpW's social media.
+* During the Bullrope Match, Gabriel pulled a hobby horse toy from under the ring and used it to punish Oskar. Later, he used the cowbell in the middle of the rope creatively, delivering a jumping blow with a double axe cowbell handle from three corners, and an elbow drop from the fourth. Towards the end of the match, Vic Golden tried interfering, his Golden Chair in hand, only to get dropped onto Oskar with a Death Valley Driver.
 * Dobroniak entered the ring wearing his STHLM Wrestling Swedish Heavyweight Championship, although neither his nor Goblin's title were at stake.
 * Goblin vs Dobroniak started with a quick test of strength, followed by both diving outside the ring and digging underneath for weapons. The match saw weird weapons in use - Goblin wielding a green plastick bucket, and Dobroniak a metal Pepsi sign.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429796)
-* [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1292111242919265&set=a.499910772139320)
 * [Full event on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-hardcore-friday-type-shit-cup-15-08-2025-08-15-2025-21-15-33) (requires paid subscription)
+* [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1292111242919265&set=a.499910772139320)
 
 [name]: https://context.reverso.net/translation/english-polish/type+shit
 [goblin-kazanie]: https://www.instagram.com/reel/DMIr7CtqXZg
