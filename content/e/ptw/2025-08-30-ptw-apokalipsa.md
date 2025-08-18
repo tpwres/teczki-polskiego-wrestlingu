@@ -24,7 +24,7 @@ toclevel = 2
 ## Predicted card
 
 {% card(predicted=true) %}
-- - '"The Enygma" [Serg Sullivan](@/w/serg-sullivan.md) w/ "The Bat" Lesya Sullivan'
+- - '["The Enygma" Serg Sullivan](@/w/serg-sullivan.md) w/ "The Bat" Lesya Sullivan'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - s: 'Casket match'
     nc: upcoming
