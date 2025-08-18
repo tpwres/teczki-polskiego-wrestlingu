@@ -34,7 +34,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
     c: Tournament Type-shit Round 2
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-  - s: Wielkie Testy Platy #2 (_Plata's Grand Trials #2_) No Chops Match
+  - s: "Wielkie Testy Platy #2 (_Plata's Grand Trials #2_) No Chops Match"
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - g: 'Post-match beatdown'
