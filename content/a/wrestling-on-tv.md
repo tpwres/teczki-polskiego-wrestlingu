@@ -33,7 +33,7 @@ Also around 1998, general purpose channel Polsat&nbsp;2 aired WCW, though not th
 
 After the boom and flop of wrestling on general-purpose channels, they moved to sports-oriented channels instead.
 The first one was Extreme Sports Channel, which started airing [WWE](@/o/wwe.md) Raw episodes on tape delay. They were soon joined by Eurosport, which aired TNA Wrestling on Fridays.
-Starting in 2009, Eurosport replaced TNA with WWE recaps and their Vintage Collection show, on Mondays.
+Starting in 2009, Eurosport replaced TNA with WWE recaps and their Vintage Collection show, on Mondays. Also, Polish MTV aired the short-lived Wrestling Society X in 2007.
 
 In the long run, Extreme Sports became the only place for wrestling on TV, later gaining rights to show WWE Raw and Smackdown on tape delay, with Supron and [Borkowski](@/w/pawel-borkowski.md) on commentary.
 
