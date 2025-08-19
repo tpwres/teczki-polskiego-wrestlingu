@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "pawel-borkowski.jpg", caption = "Paweł Borkowski at [PTW #6: Total Blast form the Past](@/e/ptw/2024-05-11-ptw-6.md).", source = "Official PTW Facebook" }
 +++
 
-Paweł "Boryss" Borkowski is a wrestling commentator best known from Extreme Sports Channel. He is also a former wrestling promoter, and one of the pioneers of bringing pro wrestling to Poland.
+Paweł "Boryss" Borkowski was a wrestling commentator best known from Extreme Sports Channel. He was also a former wrestling promoter, and one of the pioneers of bringing pro wrestling to Poland.
 <!-- more -->
 
 Borkowski founded [Total Blast Wrestling](@/o/tbw.md) together with [Andrzej Supron](@/w/andrzej-supron.md), and was involved in the first attempts to create a homegrown wrestling organization - Polish Pro Wrestling Federation.
@@ -18,7 +18,7 @@ In recent years he resurfaced, attached to [Prime Time Wrestling](@/o/ptw.md), d
 
 ## Basic info
 
-* Years Active: 1990s-present
+* Years Active: 1990s-2025
 * Gimmicks/nicknames:
   - Paweł "Boryss" Borkowski {{ org_badge(orgs=['tbw', 'ptw']) }}
  
@@ -48,10 +48,12 @@ Paweł Borkowski served as the commentator and organiser for both events produce
 
 Borkowski made a few special guest appearances for [Prime Time Wrestling](@/o/ptw.md). He commentated the main event of [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) and provided commentary for other big shows such as [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md). He even opened the latter show along with [Pan Pawłowski](@/w/pan-pawlowski.md), as the show's name was a tribute to the defunct federation, which "Boryss" used to run.
 
-### Professional wrestling commentator (2007-present)
+### Professional wrestling commentator (2007-2025)
 
 Paweł Borkowski started his career as a professional wrestling commentator in 2007, when he joined Extreme Sports Channel. He used to cover all of WWE shows from 2007 to 2024, when Extreme Sports's deal with WWE ended due to Netflix taking over the WWE broadcast.
 Besides that "Boryss" also worked as a commentator for numerous other TV stations, such as Orange Sport, Eurosport and Telewizja Puls.
+
+On 19.08.2025 Marek Pielecki posted to Facebook stating that Paweł Borkowski had passed away, an information that was soon confirmed by [Andrzej Supron](@/w/andrzej-supron.md). No details of the cause of death were given.
 
 ## Internet presence
 
