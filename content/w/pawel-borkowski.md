@@ -53,8 +53,13 @@ Borkowski made a few special guest appearances for [Prime Time Wrestling](@/o/pt
 Paweł Borkowski started his career as a professional wrestling commentator in 2007, when he joined Extreme Sports Channel. He used to cover all of WWE shows from 2007 to 2024, when Extreme Sports's deal with WWE ended due to Netflix taking over the WWE broadcast.
 Besides that "Boryss" also worked as a commentator for numerous other TV stations, such as Orange Sport, Eurosport and Telewizja Puls.
 
-On 19.08.2025 Marek Pielecki posted to Facebook stating that Paweł Borkowski had passed away, an information that was soon confirmed by [Andrzej Supron](@/w/andrzej-supron.md). No details of the cause of death were given.
+On 18.08.2025 a [Facebook post by Marek Pielecki][pielecki] stated that Paweł Borkowski had passed away, an information that was [confirmed][supron] the next day by [Andrzej Supron](@/w/andrzej-supron.md), as well as [Eurosport][eurosport], [Onet][onet] and other news outlets. No details of the cause of death were given.
 
 ## Internet presence
 
 - [Paweł "Boryss" Borkowski Linkedin profile](https://pl.linkedin.com/in/pawe%C5%82-borkowski-7bba6511a)
+
+[pielecki]: https://www.facebook.com/erefere.iueksa/posts/pfbid02HuEL974BPuTSakLtL42K4mRUhsQUMAgBMcsEjYXFdZ9RpFcW7UXUYCgGUqNCvpoEl
+[supron]: https://www.facebook.com/andrzej.supron.16/posts/pfbid02zbNQVizYYs6EeiSXQFhiazzD1L513gyvKgzvzD1ySHinbKYXT5dAkkAzfJjxvzDhl
+[eurosport]: https://www.facebook.com/EurosportPL/posts/pfbid02bZczr8UBW18upgCsZdgY3QWX1noxp7knCWfjGemR7VXkRUbhuyz7HA7LhZVtpYAJl
+[onet]: https://przegladsportowy.onet.pl/inne-sporty/nie-zyje-polski-komentator-mial-45-lat/zrrzq90
