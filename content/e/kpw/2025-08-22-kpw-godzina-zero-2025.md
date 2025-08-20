@@ -27,6 +27,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 * On 15.08.2025 KPW announced [Eryk Lesak](@/w/eryk-lesak.md) vs Crowchester, who was last seen at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).
 * On 18.08.2025 [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/skull-evil.md) was announced. Mottl made his KPW debut at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md) earlier that year, but this will be his first mainline KPW show. Previously, he'd made a number of appearances (as Skull Evil) for [Maniac Zone Wrestling](@/o/mzw.md) and one for [PpW Ewenement Wrestling](@/o/ppw.md).
 * The following day saw the announcement of debutant Markus Paskal, a graduate of the KPW Academy, vs [Veit Müller](@/w/veit-mueller.md).
+* Lastly, on 20.08.2025, KPW announced a 13-Man Championship Contract Battle Royal.
 
 ## Predicted card
 
@@ -52,6 +53,21 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
   - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag Team Match
+    nc: upcoming
+- - 'Markus Paskal'
+  - '[Ricky Sky](@/w/ricky-sky.md)'
+  - 'Crowchester'
+  - '[David Oliwa](@/w/david-oliwa.md)'
+  - '[Veit Müller](@/w/veit-mueller.md)'
+  - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - '[Michał Fux](@/w/michal-fux.md)'
+  - '[Chemik](@/w/chemik.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Tomczak](@/w/tomczak.md)'
+  - '[Greg](@/w/greg.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - c: '13-Man Championship Contract Battle Royal'
     nc: upcoming
 - - '[Zefir](@/w/zefir.md)'
   - '[Hans Schulte](@/w/hans-schulte.md)(c)'
