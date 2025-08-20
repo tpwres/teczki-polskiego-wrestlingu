@@ -67,7 +67,7 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
   - '[Tomczak](@/w/tomczak.md)'
   - '[Greg](@/w/greg.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
-  - c: '13-Man Championship Contract Battle Royal'
+  - s: '13-Man Championship Contract Battle Royal'
     nc: upcoming
 - - '[Zefir](@/w/zefir.md)'
   - '[Hans Schulte](@/w/hans-schulte.md)(c)'
