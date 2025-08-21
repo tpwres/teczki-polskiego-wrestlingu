@@ -152,6 +152,7 @@ While Boro never defended the title, he was also recognized as a champion per th
     ed: 2025-05-31
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
   - 'Śląskie Zebry: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+  - s: Tag Team Match
     en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
     nc: upcoming
