@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [17.065718, 51.090521]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Zaklęte Rewiry",
+        "description": "Zaklęte Rewiry in Wrocław, the location of [PpW's](@/o/ppw.md) [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)].",
+        "orgs": ["ppw"]
+    }
+}
