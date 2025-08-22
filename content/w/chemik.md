@@ -88,7 +88,7 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened durin
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time; current)
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
 
 ## Internet presence
 

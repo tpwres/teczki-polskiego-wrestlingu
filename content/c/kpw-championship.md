@@ -230,12 +230,23 @@ Both defenses took place during events held by Bologna Wrestling Team.
   - s: Singles Match
     en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
     ed: 2025-06-20
-- - 'Hans Schulte (c)'
-  - '[Zefir](@/w/zefir.md)'
+- - '[Zefir](@/w/zefir.md)'
+  - 'Hans Schulte (c)'
   - s: Singles Match
     en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
     ed: 2025-08-22
-    nc: upcoming
+{% end %}
+
+**TOTAL:** 349 days.
+
+### Champion #8: Zefir
+
+{% free_card() %}
+- - '[Zefir](@/w/zefir.md)'
+  - '[Hans Schulte](@/w/hans-schulte.md) (c)'
+  - s: Singles Match
+    en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
+    ed: 2025-08-22
 {% end %}
 
 ## References

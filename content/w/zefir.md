@@ -31,6 +31,8 @@ Zefir usually fights solo, although a few times he formed a tag team with [Leon 
 
 Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [Michał Fux](@/w/michal-fux.md) were the only two KPW wrestlers who never missed a show since their debuts, but this streak was broken when Zefir sustained an injury that forced him to sit out [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). During his few years in KPW he managed to achieve a solid midcard position within the company.
 
+At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Zefir defeated [Hans Schulte](@/w/hans-schulte.md), becoming the new [KPW Champion](@/c/kpw-championship.md). After his victory he took a microphone and spoke for the very first time, declaring simply "I did it!"
+
 ## In wrestling
 
 * Finishers:
@@ -58,6 +60,11 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
     {{ music(yt='4R8EDBkjcZQ')}}
     {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
     {{ music(apple='1690724986?i=1690725170')}}
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Championship](@/c/kpw-championship.md) (1 time, current)
 
 ## Internet presence
 

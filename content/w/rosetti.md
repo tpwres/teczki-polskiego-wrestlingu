@@ -83,6 +83,7 @@ Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md)
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Sawicki](@/w/sawicki.md)
+  - Championship Contract Battle Royal (2022)
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
 
 ## Internet presence

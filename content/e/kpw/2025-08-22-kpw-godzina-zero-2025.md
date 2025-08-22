@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, held since 2016. Like most previous editions, GZ'25 will be held in August, and it will return to [Nowy Harem](@/v/atlantic-nh-gdynia.md) after the [last year's edition](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) took place at a gym hall at Stefana Okrzei 6 street.
+Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 2016. Like most previous editions, GZ'25 was be held in August, and returned to [Nowy Harem](@/v/atlantic-nh-gdynia.md) after the [last year's edition](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) took place at a gym hall at Stefana Okrzei 6 street.
 
 ## Build-up
 
@@ -30,50 +30,42 @@ Godzina Zero (_Zero Hour_) 2025 is the upcoming eighth annual KPW supershow, hel
 * Lastly, on 20.08.2025, KPW announced a 13-Man Championship Contract Battle Royal. This replaces the Magnificent Seven Ladder Match, a staple of most Godzina Zero shows held in previous years.
 * On the day before the show, KPW released a [video][motywacja-oliwy] in which David Oliwa addressed [Filip & Michał Fux](@/tt/bracia-fux.md), stating that because they took away his chance at the [KPW Championship](@/c/kpw-championship.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), he will now take what's most important to them: their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md). [Ricky Sky](@/w/ricky-sky.md) then added (in Slovak) that it won't be just their titles, but also their fans, their joy and their name: they'll no longer be (in English) "Fux Brothers", but rather (in Polish) "Shit Brothers".
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Tomczak](@/w/tomczak.md)'
-  - 'The Rookies: ??? & ??? & ???'
-  - s: 3-on-1 Handicap Match
-    nc: upcoming
+{% card() %}
+- - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
+  - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)(c)'
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+    s: Tag Team Match
+- - '[Veit Müller](@/w/veit-mueller.md)'
+  - 'Markus Paskal'
+- - 'Crowchester'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Chemik](@/w/chemik.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-    nc: upcoming
-- - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - 'Crowchester'
-  - nc: upcoming
+- - '[Tomczak](@/w/tomczak.md)'
+  - 'The Rookies: ??? & ??? & ???'
+  - s: 3-on-1 Handicap Match
 - - '[Greg](@/w/greg.md)'
   - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
-  - nc: upcoming
-- - 'Markus Paskal'
-  - '[Veit Müller](@/w/veit-mueller.md)'
-  - nc: upcoming
-- - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)(c)'
-  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
-  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-    s: Tag Team Match
-    nc: upcoming
-- - 'Markus Paskal'
-  - '[Ricky Sky](@/w/ricky-sky.md)'
+- - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - '[Chemik](@/w/chemik.md)'
   - 'Crowchester'
   - '[David Oliwa](@/w/david-oliwa.md)'
-  - '[Veit Müller](@/w/veit-mueller.md)'
-  - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
-  - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - '[Michał Fux](@/w/michal-fux.md)'
-  - '[Chemik](@/w/chemik.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Tomczak](@/w/tomczak.md)'
-  - '[Greg](@/w/greg.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Greg](@/w/greg.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - 'Markus Paskal'
+  - '[Michał Fux](@/w/michal-fux.md)'
+  - '[Ricky Sky](@/w/ricky-sky.md)'
+  - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
+  - '[Tomczak](@/w/tomczak.md)'
+  - '[Veit Müller](@/w/veit-mueller.md)'
   - s: '13-Man Championship Contract Battle Royal'
-    nc: upcoming
 - - '[Zefir](@/w/zefir.md)'
   - '[Hans Schulte](@/w/hans-schulte.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
-    nc: upcoming
 {% end %}
 
 ### Recap

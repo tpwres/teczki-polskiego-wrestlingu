@@ -28,6 +28,8 @@ Leon Lato made his in-ring debut in July 2022 on the first day of [Tattoo Konwen
 
 Lato usually works solo, although on a few occasions, he formed a tag team with another high flyer, [Zefir](@/w/zefir.md).
 
+At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon faced and defeated the reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) [Chemik](@/w/chemik.md), thus winning his first title.
+
 ## In wrestling
 
 * Finishers:
@@ -48,6 +50,12 @@ Lato usually works solo, although on a few occasions, he formed a tag team with 
   - "Jody Summer" by INTL.CMD
     {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
     {{ music(yt='7pvqp9VFxhM')}}
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - Championship Contract Battle Royal (2023)
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time, current)
 
 ## References
 

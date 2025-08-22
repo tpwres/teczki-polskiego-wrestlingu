@@ -71,7 +71,7 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wr
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) - with [Michał Fux](@/w/michal-fux.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Michał Fux](@/w/michal-fux.md)
 
 ## Internet presence
 

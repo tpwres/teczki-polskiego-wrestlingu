@@ -135,7 +135,18 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
     ed: 2025-08-22
-    nc: upcoming
+{% end %}
+
+**TOTAL:** 735 days.
+
+### Champions #5: Team Visegrad: David Oliwa & Ricky Sky
+
+{% free_card() %}
+- - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md) (c)'
+  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
+  - s: Tag-Team Match
+    en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
+    ed: 2025-08-22
 {% end %}
 
 ## References
