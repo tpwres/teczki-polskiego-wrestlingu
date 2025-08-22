@@ -56,7 +56,11 @@ From that point on Oliwa made numerous appearances as the champion, managing to 
 
 #### Heel turn
 
-After spending the first half of 2023 in midcard, David seemingly started getting more frustrated. This frustration erupted after his defeat in a match against Iestyn Rees at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md). From that point on Oliwa stayed in midcard, working against wrestlers such as [Filip Fux](@/w/filip-fux.md) and [Leon Lato](@/w/leon-lato.md). At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) he defeated Lato in a Qualifier Match for the KPW Championship, but in the final match for the contendership he was defeated by [Michał Fux](@/w/michal-fux.md) in a Triple Threat Match. 
+After spending the first half of 2023 in midcard, David seemingly started getting more frustrated. This frustration erupted after his defeat in a match against Iestyn Rees at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md). From that point on Oliwa stayed in midcard, working against wrestlers such as [Filip Fux](@/w/filip-fux.md) and [Leon Lato](@/w/leon-lato.md). At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) he defeated Lato in a Qualifier Match for the KPW Championship, but in the final match for the contendership he was defeated by [Michał Fux](@/w/michal-fux.md) in a Triple Threat Match.
+
+#### Tag Team Champion
+
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as Team Visegrad), he won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md).
 
 ### Legacy of Wrestling (2025)
 
@@ -95,6 +99,7 @@ In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at thei
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Ricky Sky](@/w/ricky-sky.md)
 
 ## Internet presence
 

@@ -58,7 +58,7 @@ Michał debuted at Legacy of Wrestling's [second show](@/e/low/2025-04-06-low-2.
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; current) - with [Filip Fux](@/w/filip-fux.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Filip Fux](@/w/filip-fux.md)
 
 ## Internet presence
 

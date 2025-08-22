@@ -92,17 +92,17 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 
 {% championship() %}
 - - '[KPW Championship](@/c/kpw-championship.md)'
-  - '[Hans Schulte](@/w/hans-schulte.md)'
+  - '[Zefir](@/w/zefir.md)'
   - >
-    Defeated [Red Scorpion](@/w/red-scorpion.md) at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md)
+    Defeated [Hans Schulte](@/w/hans-schulte.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)
 - - '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-  - '[Chemik](@/w/chemik.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
   - >
-    Defeated [Rosetti](@/w/rosetti.md) at [Arena 25: Odkupienie](@/e/kpw/2024-05-17-kpw-arena-25.md)
+    Defeated [Chemik](@/w/chemik.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)
 - - '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-  - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md)'
+  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md)'
   - >
-    Defeated [Die Ordnung](@/tt/die-ordnung.md) ([Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md)) at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md)
+    Defeated [Bracia Fux](@/tt/bracia-fux.md) ([Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)
 {% end %}
 
 ### References

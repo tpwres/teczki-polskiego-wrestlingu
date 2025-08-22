@@ -69,6 +69,11 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took pa
     {{ music(spot='60Pt3GwqOMl5sE3LXeHBxu')}}
     {{ music(apple='1761432224?i=1761432679')}}
 
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - Championship Contract Battle Royal (2025)
+
 ## Internet presence
 
 * [@heelesak on Instagram](https://instagram.com/heelesak/) (previously @faceryk, prior to his heel turn)

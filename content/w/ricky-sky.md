@@ -30,6 +30,10 @@ Ricky Sky made a one-off appearance at the [PpW Ewenement](@/o/ppw.md) show [Bra
 
 After his brief stint in PpW, Ricky Sky made a few appearances in [Kombat Pro Wrestling](@/o/kpw.md), where he fought the total of four matches at three shows. Most likely it was possible due to Ricky Sky and [David Oliwa](@/w/david-oliwa.md)'s partnership as Team Visegrad at the European independent scene. He made appearances at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md), [KPW @ Pyrkon 2022](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) and finally at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md).
 
+#### Tag Team Championship (2025-)
+
+Ricky Sky returned to KPW in 2025 and along with [David Oliwa](@/w/david-oliwa.md), as Team Visegrad, challenged [Bracia Fux](@/tt/bracia-fux.md) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md). Team Visegrad emerged victorious from the bout, becoming the new Tag Team Champions.
+
 ## In wrestling
 
 * Finishers:
@@ -37,6 +41,11 @@ After his brief stint in PpW, Ricky Sky made a few appearances in [Kombat Pro Wr
 * Entrance music:
   - "Ricky Sky Theme Song" by Independent Contractor
     {{ org_badge(orgs=['ppw', 'kpw']) }} (2020-2022)
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [David Oliwa](@/w/david-oliwa.md)
 
 ## References
 
