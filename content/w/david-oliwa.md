@@ -56,7 +56,7 @@ From that point on Oliwa made numerous appearances as the champion, managing to 
 
 #### Heel turn
 
-After spending the first half of 2023 in midcard, David seemingly started getting more frustrated. This frustration erupted after his defeat in a match against Iestyn Rees at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md). From that point on Oliwa stayed in midcard, working against wrestlers such as [Filip Fux](@/w/filip-fux.md) and [Leon Lato](@/w/leon-lato.md). At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) he defeated Lato in a Qualifier Match for the KPW Championship, but in the final match for the contendership he was defeated by [Michał Fux](@/w/michal-fux.md) in a Triple Threat Match.
+After spending the first half of 2023 in the midcard, David seemingly started getting more and more frustrated. This frustration erupted after his defeat in a match against Iestyn Rees at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md). From that point on Oliwa stayed in the midcard, working against wrestlers such as [Filip Fux](@/w/filip-fux.md) and [Leon Lato](@/w/leon-lato.md). At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) he defeated Lato in a Qualifier Match for the KPW Championship, but in the final match for the contendership he was defeated by [Michał Fux](@/w/michal-fux.md) in a Triple Threat Match.
 
 #### Tag Team Champion
 
