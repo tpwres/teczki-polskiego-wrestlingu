@@ -1,7 +1,7 @@
 +++
 title = "PpW Mistrzowskie Rozdanie 2"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["hala-labo"]
@@ -20,8 +20,8 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   Goblin also holds two blank cards, numbered III and IV - The Empress and The Emperor, respectively.
 * Tarot cards with character portraits taking place of the Major Arcana are an important element in the fantasy book series [The Chronicles of Amber][amber] by Roger Zelazny, however whether this was an inspiration or a coincidence, is not known.
 * On 18.07.2025 PpW confirmed [Goblin](@/w/goblin.md) vs [Robert Star](@/w/robert-star.md) for the [PpW Championship](@/c/ppw-championship.md). Star was portrayed as XVII - The Star, and Goblin as 0 - The Fool.
-* On 17.09.2025 PpW announced the main event - a Total Elimination Fatal 4-Way Match between [Gabriel Queen](@/w/gabriel-queen.md) (VI - The Lovers), [Biesiad Strong](@/w/biesiad.md) (VIII - Strength), [Olgierd](@/w/olgierd.md) (XIII - Death) and [Vic Golden](@/w/vic-golden.md) (XV - The Devil).
-* On Friday, Aug 22nd 2025, PpW posted a new graphic announcing "[Zmowa's](@/tt/zmowa.md) show of force", this time with [Mister Z](@/w/mister-z.md) as IV - The Emperor, flanked on the left by [Gustav Gryffin](@/w/gustav-gryffin.md) as XX - The Judgemenent, and on the right by Olgierd (XIII - Death) and [Marco Hammers](@/w/marco-hammers.md) as XVI - The Tower.
+* On 17.08.2025 PpW announced the main event - a Total Elimination Fatal 4-Way Match between [Gabriel Queen](@/w/gabriel-queen.md) (VI - The Lovers), [Biesiad Strong](@/w/biesiad.md) (VIII - Strength), [Olgierd](@/w/olgierd.md) (XIII - Death) and [Vic Golden](@/w/vic-golden.md) (XV - The Devil).
+* On 22.08.2025 PpW posted a new graphic announcing "[Zmowa's](@/tt/zmowa.md) show of force", this time with [Mister Z](@/w/mister-z.md) as IV - The Emperor, flanked on the left by [Gustav Gryffin](@/w/gustav-gryffin.md) as XX - The Judgemenent, and on the right by Olgierd as XIII - Death, and [Marco Hammers](@/w/marco-hammers.md) as XVI - The Tower.
 
 ## Card
 
