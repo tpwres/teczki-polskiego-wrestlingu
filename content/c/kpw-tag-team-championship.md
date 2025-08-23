@@ -131,7 +131,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
     en: '[KPW Arena 29: Czas Antenowy](@/e/kpw/2025-06-20-kpw-arena-29.md)'
     ed: 2025-04-06
 - - "Bracia Fux: Filip Fux & Michał Fux (c)"
-  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
+  - '[Team Visegrad](@/tt/team-visegrad.md): [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
   - s: Tag-Team Match
     en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
     ed: 2025-08-22

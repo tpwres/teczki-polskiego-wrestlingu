@@ -60,7 +60,7 @@ After spending the first half of 2023 in midcard, David seemingly started gettin
 
 #### Tag Team Champion
 
-At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as Team Visegrad), he won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md).
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as [Team Visegrad](@/tt/team-visegrad.md)), he won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md).
 
 ### Legacy of Wrestling (2025)
 

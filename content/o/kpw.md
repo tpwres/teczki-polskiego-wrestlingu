@@ -100,7 +100,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
   - >
     Defeated [Chemik](@/w/chemik.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)
 - - '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-  - 'Team Visegrad: [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md)'
+  - '[Team Visegrad](@/tt/team-visegrad.md): [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md)'
   - >
     Defeated [Bracia Fux](@/tt/bracia-fux.md) ([Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)
 {% end %}
