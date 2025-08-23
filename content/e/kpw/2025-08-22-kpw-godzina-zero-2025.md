@@ -96,7 +96,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   - [Lukáš Mottl](@/w/skull-evil.md)
   - [Michał Fux](@/w/michal-fux.md)
   - [Veit Müller](@/w/veit-mueller.md)
-  - [Eryk Lesak](@/w/eryk-lesak.md) (niepewne; nie nad trzecią liną chyba, bo wrócił i wyrzucił Paskala)
+  - [Eryk Lesak](@/w/eryk-lesak.md)
   - Leon Lato
   - [David Oliwa](@/w/david-oliwa.md)
   - Markus Paskal
