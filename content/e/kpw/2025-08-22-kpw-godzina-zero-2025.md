@@ -1,7 +1,7 @@
 +++
 title = "KPW Godzina Zero 2025"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["kpw", "godzina-zero"]
 venue=["nowy-harem"]
@@ -81,7 +81,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
 * Present in the audience were Markus Paskal's mother and friends, who prepared a large banner to cheer him on. After the fight, Paskal cut a brief promo thanking the fans for giving him a chance to prove himself and apologising for wasting that chance. He ended by thanking his mother, prompting the crowd to chant "Mum!"
 * Upon entering the ring, [Eryk Lesak](@/w/eryk-lesak.md) insulted and tore down Paskal's banner.
 * Crowchester came out to heel heat, unlike during his previous appearance at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). During the course of the match, however, he managed to get the audience on his side.
-* The fight between [Chemik](@/w/chemik.md) and [Leon Lato](@/w/leon-lato.md) briefly moved out of the ring and near the merch stand. Leon took the opportunity to grab a handful of Chemik's postcards and whack him on the head with them, before giving the cards to the fans. The postcards depict Chemik replacing [Jakub Wejher](https://pl.wikipedia.org/wiki/Jakub_Weiher) on a statue located in Wejherowo's historical market square.
+* The fight between [Chemik](@/w/chemik.md) and [Leon Lato](@/w/leon-lato.md) briefly moved out of the ring and near the merch stand. Leon took the opportunity to grab a handful of Chemik's postcards and whack him on the head with them, before giving the cards to the fans. The postcards depict Chemik replacing [Jakub Wejher][wejher] on a statue located in Wejherowo's historical market square.
 * The three rookies facing [Tomczak](@/w/tomczak.md) weren't given individual introductions or names. The crowd quickly took to calling them "Rookie One", "Rookie Two" and "Rookie Three" (_Adept Jeden_, _Adept Dwa_ and _Adept Trzy_), numbering them after the order in which they went against Tomczak.
 * Before the match started, [Krystian Malinowski](@/w/krystian-malinowski.md) came out and cut a brief promo berating the rookies for rebelling against Tomczak, which in Malinowski's eyes means rebelling against himself and KPW. He then told Tomczak to teach the rookies a lesson they wouldn't forget.
 * Lukáš Mottl tried cheating by removing the padding from a turnbuckle, only to hit it head-first himself.
@@ -96,7 +96,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   8. [Lukáš Mottl](@/w/skull-evil.md)
   9. [Michał Fux](@/w/michal-fux.md)
   10. [Veit Müller](@/w/veit-mueller.md)
-  11. [Eryk Lesak](@/w/eryk-lesak.md)
+  11. [Eryk Lesak](@/w/eryk-lesak.md) (see explanation below)
   12. Leon Lato (see explanation below)
   13. [David Oliwa](@/w/david-oliwa.md)
   14. Markus Paskal
@@ -111,7 +111,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   Finally, he said he'd find and destroy the person responsible even if he had to enter a pact with "reptile people, reptilians, the Masons, or the Devil himself" (to which a couple of fans responded "with [PTW](@/o/ptw.md)!" and "with [Pawłowski](@/w/pan-pawlowski.md)!").
 * Zefir faced some technical issues during his entrance, as his fire-breathing mixture wouldn't ignite until the third attempt.
 * Zefir came out with a Polish flag. [Hans Schulte](@/w/hans-schulte.md) later used it to blow his nose and floss his posterior, to great audience heat.
-* After winning the match and the Championship, Zefir gestured for a microphone and spoke for the very first time: "Hej Gdynia, zrobiłem to!" (_Hey Gdynia, I did it_!).
+* After winning the match and the Championship, Zefir gestured for a microphone and spoke for the very first time: "Hej Gdynia, zrobiłem to!" (_Hey Gdynia, I did it!_).
 
 ## References
 
@@ -125,3 +125,4 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
 [zwyciezka-trojka]:https://www.youtube.com/watch?v=lKJR4Py2ADM
 [motywacja-oliwy]: https://www.youtube.com/watch?v=wPzMUfxMym8
 [tryplak]: https://en.wikipedia.org/wiki/Triple_H
+[wejher]: https://pl.wikipedia.org/wiki/Jakub_Weiher
