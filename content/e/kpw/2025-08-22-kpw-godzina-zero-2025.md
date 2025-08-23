@@ -75,39 +75,43 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
 
 ### Highlights
 
-* [Michał Fux](@/w/michal-fux.md) sustained an injury during the match, which forced him to leave [Filip Fux](@/w/filip-fux.md) to fend for himself. Later in the match he came back with bandaged left hand to aid his brother in the fight.
-* When Michał pinned [Ricky Sky](@/w/ricky-sky.md), [Lukáš Mottl](@/w/skull-evil.md) came out of the backstage and placed Ricky's leg on the bottom rope, forcing a break.
-* After winning the second match, [Veit Müller](@/w/veit-mueller.md) extended his hand to Markus Paskal and hugged him, only to then attack him.
+* [Michał Fux](@/w/michal-fux.md) sustained an injury during the match, which forced him to leave [Filip Fux](@/w/filip-fux.md) to fend for himself for a long while. Later in the match, he came back with a bandaged left hand to aid his brother in the fight.
+* When Michał pinned [Ricky Sky](@/w/ricky-sky.md), [Lukáš Mottl](@/w/skull-evil.md) came out of the backstage and placed Ricky's leg on the bottom rope, forcing a rope break. The local crowd, unfamiliar with the character (though he did appear earlier that year at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md)), chanted "[Kim ty jesteś](@/a/polish-wrestling-chants.md#intros)" (_Who are you?_).
+* After winning the second match, [Veit Müller](@/w/veit-mueller.md) extended his hand to Markus Paskal and hugged him, only to then deliver a surprise attack.
 * Present in the audience were Markus Paskal's mother and friends, who prepared a large banner to cheer him on. After the fight, Paskal cut a brief promo thanking the fans for giving him a chance to prove himself and apologising for wasting that chance. He ended by thanking his mother, prompting the crowd to chant "Mum!"
-* Upon entering the ring, [Eryk Lesak](@/w/eryk-lesak.md) tore down Paskal's banner.
-* Crowchester came out to heel heat, unlike during his previous appearance at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). During the course of the match, however, the audience began to cheer for him.
-* The fight between [Chemik](@/w/chemik.md) and [Leon Lato](@/w/leon-lato.md) briefly moved out of the ring and near the merch stand. Leon took the opportunity to grab a handful of Chemik's postcards and whack him on the head with them, before giving the cards to the fans.
-* The three rookies facing [Tomczak](@/w/tomczak.md) weren't named. The crowd quickly took to calling them "Rookie One", "Rookie Two" and "Rookie Three" (_Adept Jeden_, _Adept Dwa_ and _Adept Trzy_).
+* Upon entering the ring, [Eryk Lesak](@/w/eryk-lesak.md) insulted and tore down Paskal's banner.
+* Crowchester came out to heel heat, unlike during his previous appearance at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). During the course of the match, however, he managed to get the audience on his side.
+* The fight between [Chemik](@/w/chemik.md) and [Leon Lato](@/w/leon-lato.md) briefly moved out of the ring and near the merch stand. Leon took the opportunity to grab a handful of Chemik's postcards and whack him on the head with them, before giving the cards to the fans. The postcards depict Chemik replacing [Jakub Wejher](https://pl.wikipedia.org/wiki/Jakub_Weiher) on a statue located in Wejherowo's historical market square.
+* The three rookies facing [Tomczak](@/w/tomczak.md) weren't given individual introductions or names. The crowd quickly took to calling them "Rookie One", "Rookie Two" and "Rookie Three" (_Adept Jeden_, _Adept Dwa_ and _Adept Trzy_), numbering them after the order in which they went against Tomczak.
 * Before the match started, [Krystian Malinowski](@/w/krystian-malinowski.md) came out and cut a brief promo berating the rookies for rebelling against Tomczak, which in Malinowski's eyes means rebelling against himself and KPW. He then told Tomczak to teach the rookies a lesson they wouldn't forget.
 * Lukáš Mottl tried cheating by removing the padding from a turnbuckle, only to hit it head-first himself.
 * The elimination order during the Battle Royal was as follows:
-  - Crowchester
-  - [Tomczak](@/w/tomczak.md)
-  - [Leon Lato](@/w/leon-lato.md)
-  - [Chemik](@/w/chemik.md)
-  - [Greg](@/w/greg.md)
-  - [Ricky Sky](@/w/ricky-sky.md)
-  - [Filip Fux](@/w/filip-fux.md)
-  - [Lukáš Mottl](@/w/skull-evil.md)
-  - [Michał Fux](@/w/michal-fux.md)
-  - [Veit Müller](@/w/veit-mueller.md)
-  - [Eryk Lesak](@/w/eryk-lesak.md)
-  - Leon Lato
-  - [David Oliwa](@/w/david-oliwa.md)
-  - Markus Paskal
-* After being eliminated, Tomczak returned to the ring and threw Leon Lato out; the referee declared Leon's elimination null and void, and Lato soon returned to the ring to continue the match.
+  1. Crowchester
+  2. [Tomczak](@/w/tomczak.md)
+  3. [Leon Lato](@/w/leon-lato.md)
+  4. [Chemik](@/w/chemik.md)
+  5. [Greg](@/w/greg.md)
+  6. [Ricky Sky](@/w/ricky-sky.md)
+  7. [Filip Fux](@/w/filip-fux.md)
+  8. [Lukáš Mottl](@/w/skull-evil.md)
+  9. [Michał Fux](@/w/michal-fux.md)
+  10. [Veit Müller](@/w/veit-mueller.md)
+  11. [Eryk Lesak](@/w/eryk-lesak.md)
+  12. Leon Lato (see explanation below)
+  13. [David Oliwa](@/w/david-oliwa.md)
+  14. Markus Paskal
+* After his elimination, Tomczak returned to the ring and threw Leon Lato out; the referee declared Leon's elimination null and void, and Lato soon returned to the ring to continue the match.
 * After being thrown out and landing next to some fans, [Ricky Sky](@/w/ricky-sky.md) untied their shoelaces.
 * At one point near the end of the match [Eryk Lesak](@/w/eryk-lesak.md) landed outside the ring. He was not declared eliminated by ring announcer [Kinga](@/w/kinga-miotke.md), however, suggesting he didn't go over the top rope. As Markus Paskal was celebrating his apparent victory, Lesak came back to the ring and threw him out, winning the Battle Royal himself.
-* Some of the eliminated wrestlers were offered beer by Istotna Martynka from Istota Wrestlingu podcast.
-* Prior to the main event, Krystian Malinowski came out again and cut a promo in which he claimed to have received an anonymous letter in the mail, whose author threatened him to leave [Zefir](@/w/zefir.md) and [Rosetti](@/w/rosetti.md) alone, lest he bitterly regrets it. Malinowski stated that although he didn't know who wrote it, he suspected it was Zefir, whom he then called a disease to which he himself was the cure. He also made a callback to [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), saying he doesn't care if the letter was written by Zefir, Rosetti, Greg, [Kamil Aleksander](@/w/kamil-aleksander.md) or [Triple H][tryplak]. Lastly, he said he'd find and destroy the person responsible even if he had to enter a pact with "reptile people, reptilians, the Masons, or the Devil himself" (to which a couple of fans called "with [PTW](@/o/ptw.md)!" and "with [Pawłowski](@/w/pan-pawlowski.md)!").
+* Some of the eliminated wrestlers were offered beer by Istotna Martynka from Istota Wrestlingu podcast, sitting in the front row.
+* Prior to the main event, Krystian Malinowski came out again and cut a long promo in which he claimed to have received an anonymous letter in the mail.
+  The sender threatened him, insitsting that he leaves [Zefir](@/w/zefir.md) and [Rosetti](@/w/rosetti.md) alone, lest he bitterly regrets it.
+  Malinowski stated that, although he didn't know who wrote it, he suspected it was Zefir, whom he then called a disease to which he himself was the cure.
+  The Chairman also made a callback to [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), saying he doesn't care if the letter was written by Zefir, Rosetti, Greg, [Kamil Aleksander](@/w/kamil-aleksander.md) or [Triple H][tryplak].
+  Finally, he said he'd find and destroy the person responsible even if he had to enter a pact with "reptile people, reptilians, the Masons, or the Devil himself" (to which a couple of fans responded "with [PTW](@/o/ptw.md)!" and "with [Pawłowski](@/w/pan-pawlowski.md)!").
 * Zefir faced some technical issues during his entrance, as his fire-breathing mixture wouldn't ignite until the third attempt.
 * Zefir came out with a Polish flag. [Hans Schulte](@/w/hans-schulte.md) later used it to blow his nose and floss his posterior, to great audience heat.
-* After winnig the match and the Championship, Zefir gestured for a microphone and spoke for the very first time: "Hej Gdynia, zrobiłem to!" (_Hey Gdynia, I did it_!).
+* After winning the match and the Championship, Zefir gestured for a microphone and spoke for the very first time: "Hej Gdynia, zrobiłem to!" (_Hey Gdynia, I did it_!).
 
 ## References
 
