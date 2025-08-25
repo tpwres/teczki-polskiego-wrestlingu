@@ -169,5 +169,5 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PpW announces the first women's match in the history of their promotion, set to take place at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
 * Bartosz Mateńko's photo of Johnny Blade vs Isnorr from the main event of [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) wins second prize in [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/), in the Sports category. 
 * [Legacy of Wrestling](@/o/low.md) hold their [third show](@/e/low/2025-07-11-low-3.md) at Ryucon, which hosted PTW shows for the past three years.
-* [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) is declared dead on 19.08.2025. No cause of death is given.
+* [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 {% end %}
