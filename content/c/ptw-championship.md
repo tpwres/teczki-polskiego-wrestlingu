@@ -113,6 +113,10 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 - - 'Puncher(c)'
   - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ Boguś'
   - s: Three-On-One Handicap match
-    en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+    en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-07-27
+- - 'Puncher(c)'
+  - 'Diana Strong'
+    en: '[PTW Apokalipsa](@/e/ppw/2025-08-30-ptw-apokalipsa.md)'
+    ed: 2025-08-30
 {% end %}

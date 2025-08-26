@@ -21,6 +21,7 @@ toclevel = 2
 * After her loss in the main event of [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) berated [Diana Strong](@/w/diana-strong.md). He announced that she will have a match, "possibly her last one", against [Dawid "Puncher" Seńko](@/w/puncher.md).
 * The Casket Match between Shida and Sullivan was officially confirmed on 18.08.2025.
 * On 21.08.2025 PTW officially confirmed the match between Royal Rebels and the two referees, billed as "Śląskie Zebry" (_Silesian Zebras_). Additionally, the match was announced as a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) bout.
+* The match between [Dawid "Puncher" Seńko](@/w/puncher.md) and [Diana Strong](@/w/diana-strong.md) was confirmed on 26.08.2025. It too was made a championship match, with Puncher's [PTW Championship](@/c/ptw-championship.md) on the line.
 
 ## Predicted card
 
@@ -35,8 +36,9 @@ toclevel = 2
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
-  - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - nc: upcoming
+  - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
 {% end %}
 
 ## References
