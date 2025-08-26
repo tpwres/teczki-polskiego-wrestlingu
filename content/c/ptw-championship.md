@@ -117,6 +117,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
     ed: 2025-07-27
 - - 'Puncher(c)'
   - 'Diana Strong'
-    en: '[PTW Apokalipsa](@/e/ppw/2025-08-30-ptw-apokalipsa.md)'
+  - en: '[PTW Apokalipsa](@/e/ppw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
+    nc: upcoming
 {% end %}
