@@ -16,7 +16,9 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 ## Build-up
 
 * On 13.08.2025, MZW announced the first match - [Disco Pablo](@/w/disco-pablo.md) vs [Oskar Alexander](@/w/oskar-alexander.md).
-* On 18.08 two matches were announced, splitting [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) vs [Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) vs [Olgierd](@/w/olgierd.md).
+* On 18.08.2025 two matches were announced, splitting [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) vs [Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) vs [Olgierd](@/w/olgierd.md).
+* On 22.08.2025 MZW published a [promo][promo-dziedzic] by [Syriusz Dziedzic](@/w/dziedzic.md), in which he challenged [Mister Z](@/w/mister-z.md) for a match at the upcoming show. In the video, Dziedzic stated that he's been hungry for success ever since he [escaped the cage][@/a/ptw-exits.md].
+* On 27.08.2025 Mister Z issued a [reply][promo-z] refusing the challenge, on the grounds of him being on high enough level that he should only come to MZW to fight in title matches.
 
 ## Predicted card
 
@@ -39,3 +41,6 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=431688)
+
+[promo-dziedzic]: https://www.facebook.com/reel/1952443468659232/
+[promo-z]: https://www.facebook.com/reel/2210556449383947/
