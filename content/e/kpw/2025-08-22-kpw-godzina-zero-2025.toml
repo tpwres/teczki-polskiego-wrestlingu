@@ -7,7 +7,7 @@
 0006 = { path = "greg-vs-mottl.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/skull-evil.md).", source = "Official KPW Facebook" }
 0007 = { path = "1N-na-m2.webp", caption = "Image announcing Markus Paskal vs [Veit Müller](@/w/veit-mueller.md).", source = "Official KPW Facebook" }
 0008 = { path = "battle-royal.webp", caption = "Image announcing the 13-Man Battle Royal. Left to right, top row: Markus Paskal, [Ricky Sky](@/w/ricky-sky.md), Crowchester, [David Oliwa](@/w/david-oliwa.md), [Veit Müller](@/w/veit-mueller.md), [Lukáš Mottl](@/w/skull-evil.md), [Eryk Lesak](@/w/eryk-lesak.md); bottom row: [Michał Fux](@/w/michal-fux.md), [Chemik](@/w/chemik.md), [Leon Lato](@/w/leon-lato.md), [Tomczak](@/w/tomczak.md), [Greg](@/w/greg.md), [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
-1001 = { path = "fux-slucha.webp", caption = "[Filip Fux](@/w/filip-fux.md):<br />&quot;Who's the best?&quot;", source = "M3n747" }
+1001 = { path = "filip-slucha.webp", caption = "[Filip Fux](@/w/filip-fux.md):<br />&quot;Who's the best?&quot;", source = "M3n747" }
 1002 = { path = "michal-pokazuje.webp", caption = "[Michał Fux](@/w/michal-fux.md):<br />&quot;You're the best!&quot;", source = "M3n747" }
 1003 = { path = "ricky-pali-sie-do-ringu.webp", caption = "Ricky Sky rushes into the ring to give David Oliwa a hand, but is stopped by [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
 1004 = { path = "michal-kontuzjowany.webp", caption = "[Michał Fux](@/w/michal-fux.md) returns to the ring, having sustained an injury.", source = "M3n747" }
@@ -40,7 +40,7 @@
 6007 = { path = "rece-ktore-pinuja.webp", caption = "[Greg](@/w/greg.md) triumphs over Lukáš Mottl.", source = "M3n747" }
 7001 = { path = "bitwa-o-papierek.webp", caption = "Battle Royal about to commence. Left to right: Veit Müller, Eryk Lesak, Chemik, [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md), [Leon Lato](@/w/leon-lato.md), Markus Paskal, [Krystian Czekaj](@/w/krystian-czekaj.md) (holding a Championship contract), Greg, Lukáš Mottl, David Oliwa, Ricky Sky. Behind the latter two are visible Tomczak's legs; Crowchester is not seen in this photo.", source = "M3n747" }
 7002 = { path = "leon-piwo.webp", caption = "Leon Lato graciously accepts a beer.", source = "M3n747" }
-7003 = { path = "warke-swoja-pozostawiam-przy-barze.webp", caption = "Pijus I [Greg](@/w/greg.md) lives up to his name. [Krystian Czekaj](@/w/krystian-czekaj.md) lookds thirsty.", source = "M3n747" }
+7003 = { path = "warke-swoja-pozostawiam-przy-barze.webp", caption = "[Pijus I](@/w/greg.md) lives up to his name. [Krystian Czekaj](@/w/krystian-czekaj.md) lookds thirsty.", source = "M3n747" }
 7004 = { path = "imigrant-sabotuje-polskie-obuwie.webp", caption = "[Ricky Sky](@/w/ricky-sky.md) unties a fan's shoelace.", source = "M3n747" }
 7005 = { path = "najlepsie-polske-pivo.webp", caption = "[Ricky Sky](@/w/ricky-sky.md) happy to see a bottle of Polish beer.", source = "M3n747" }
 7006 = { path = "filip-gul.webp", caption = "Filip Fux takes a sip while resting against fans' knees.", source = "M3n747" }
@@ -49,7 +49,7 @@
 7009 = { path = "stworzenie-markusa.webp", caption = "The Creation of Markus.", source = "M3n747" }
 7010 = { path = "gratuluje-panu-wygral-pan-papierek.webp", caption = "Referee [Krystian Czekaj](@/w/krystian-czekaj.md) declares [Eryk Lesak](@/w/eryk-lesak.md) the winner of the Battle Royal and presents him with the Championship contract.", source = "M3n747" }
 8001 = { path = "zaklad-szwalniczy-slepy-krawiec.webp", caption = "The two Krystians: [one](@/w/krystian-czekaj.md) wearing back and white, [the other](@/w/krystian-malinowski.md) every other colour.", source = "M3n747" }
-9001 = { path = "zefir-bezoktanowy.webp", caption = "Zefir's inflammable mixture fails to ignite…", source = "M3n747" }
+9001 = { path = "zefir-bezoktanowy.webp", caption = "Zefir's inflammable mixture initially fails to ignite…", source = "M3n747" }
 9002 = { path = "szybko-dawaj-kielbaski.webp", caption = "…but third time's the charm.", source = "Ville Paananen" }
 9003 = { path = "zagrabione-mienie.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) with his [KPW Championship](@/c/kpw-championship.md).", source = "M3n747" }
 9004 = { path = "szybka-poprawka.webp", caption = "[Zefir](@/w/zefir.md) makes a quick adjustment to his mask.", source = "M3n747" }
