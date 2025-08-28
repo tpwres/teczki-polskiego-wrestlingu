@@ -7,4 +7,59 @@
 0006 = { path = "greg-vs-mottl.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/skull-evil.md).", source = "Official KPW Facebook" }
 0007 = { path = "1N-na-m2.webp", caption = "Image announcing Markus Paskal vs [Veit Müller](@/w/veit-mueller.md).", source = "Official KPW Facebook" }
 0008 = { path = "battle-royal.webp", caption = "Image announcing the 13-Man Battle Royal. Left to right, top row: Markus Paskal, [Ricky Sky](@/w/ricky-sky.md), Crowchester, [David Oliwa](@/w/david-oliwa.md), [Veit Müller](@/w/veit-mueller.md), [Lukáš Mottl](@/w/skull-evil.md), [Eryk Lesak](@/w/eryk-lesak.md); bottom row: [Michał Fux](@/w/michal-fux.md), [Chemik](@/w/chemik.md), [Leon Lato](@/w/leon-lato.md), [Tomczak](@/w/tomczak.md), [Greg](@/w/greg.md), [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
+1001 = { path = "filip-slucha.webp", caption = "[Filip Fux](@/w/filip-fux.md):<br />&quot;Who's the best?&quot;", source = "M3n747" }
+1002 = { path = "michal-pokazuje.webp", caption = "[Michał Fux](@/w/michal-fux.md):<br />&quot;You're the best!&quot;", source = "M3n747" }
+1003 = { path = "ricky-pali-sie-do-ringu.webp", caption = "Ricky Sky rushes into the ring to give David Oliwa a hand, but is stopped by [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+1004 = { path = "michal-kontuzjowany.webp", caption = "[Michał Fux](@/w/michal-fux.md) returns to the ring, having sustained an injury.", source = "M3n747" }
+1005 = { path = "mottl-przyfrunal-oszukac.webp", caption = "Lukáš Mottl cheats by placing Ricky Sky's leg on the bottom rope.", source = "M3n747" }
+1006 = { path = "wyszechrady-wygraly.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) win the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md).", source = "M3n747" }
+2001 = { path = "pierwsze-powitanie-paskala.webp", caption = "Markus Paskal's debut.", source = "M3n747" }
+2002 = { path = "przyjazn-polsko-niemiecka.webp", caption = "[Veit Müller](@/w/veit-mueller.md) hugs Markus Paskal after the fight.", source = "M3n747" }
+3001 = { path = "lesak-psuje.webp", caption = "Eryk Lesak tears down a banner depicting Markus Paskal, much to the annoyance of the debutant's fans.", source = "M3n747" }
+3002 = { path = "fan-approves-of-crowchester.webp", caption = "A fan approves of Crowchester's victory over Lesak.", source = "M3n747" }
+3003 = { path = "crowchester-responds-in-kind.webp", caption = "Crowchester shows his appreciation to the audience.", source = "M3n747" }
+4001 = { path = "ostatnie-chemicze-wzniesienie-pasa.webp", caption = "[Chemik](@/w/chemik.md) shows off his [KPW OldTown Championship](@/c/kpw-old-town-championship.md). To the left stands [Krystian Czekaj](@/w/krystian-czekaj.md), to the right is [Leon Lato](@/w/leon-lato.md).", source = "M3n747" }
+4002 = { path = "ideal-siegnal-parkietu.webp", caption = "[Chemik](@/w/chemik.md) on the club floor.", source = "M3n747" }
+4003 = { path = "chodz-zobaczymy-stragan.webp", caption = "Chemik and Leon Lato brawl next to the merch stand. The blonde hair in the foreground belongs to Istotna Martynka.", source = "M3n747" }
+4004 = { path = "podbierak.webp", caption = "[Chemik](@/w/chemik.md) emulates [The Undertaker's](https://en.wikipedia.org/wiki/The_Undertaker) characteristic pose…", source = "M3n747" }
+4005 = { path = "w-innym-kontekscie-to-by-bylo-niestosowne.webp", caption = "…as well as his trademark finishing move, the Tombstone Piledriver.", source = "M3n747" }
+4006 = { path = "wlasciwy-leon-na-wlasciwym-miejscu.webp", caption = "[Leon Lato](@/w/leon-lato.md) wins the Championship.", source = "M3n747" }
+5001 = { path = "los-trios-adeptos.webp", caption = "Left to right: _Rookie One_, _Rookie Three_ and _Rookie Two_. Note that Paskal's banner has been restored to its rightful place.", source = "M3n747" }
+5002 = { path = "adept-trzy-dusi-tomczaka.webp", caption = "_Rookie Three_ attempts to choke [Tomczak](@/w/tomczak.md).", source = "M3n747" }
+5003 = { path = "adept-dwa-tez-probuje-szczescia.webp", caption = "_Rookie Two_ does as well.", source = "M3n747" }
+5004 = { path = "adept-trzy-zaraz-pofrunie.webp", caption = "_Rookie Three_ about to attack Tomczak from the top rope.", source = "M3n747" }
+5005 = { path = "no-i-w-pizdu-wyladowal.webp", caption = "_Rookie Three_ seconds later.", source = "M3n747" }
+5006 = { path = "raz-dwa-i-po-karkach.webp", caption = "Tomczak prepares to suplex _Rookie Two_ and _Rookie One_.", source = "M3n747" }
+5007 = { path = "od-pucybuta-do-wrestlera.webp", caption = "When it comes to _Rookie One_, [Tomczak](@/w/tomczak.md) puts his foot down. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) counts him out.", source = "M3n747" }
+6001 = { path = "o-taaaka-na-motylka-zlowilem.webp", caption = "[Greg's](@/w/greg.md) entrance. [Krystian Czekaj](@/w/krystian-czekaj.md) to the left, [Lukáš Mottl](@/w/skull-evil.md) to the right.", source = "M3n747" }
+6002 = { path = "zastrzele-cie-wlosami.webp", caption = "Greg and [Lukáš Mottl](@/w/skull-evil.md) test their might.", source = "M3n747" }
+6003 = { path = "profesjonalna-ocena-sytuacji.webp", caption = "Piękny Kawaler checks on the camera operator; in the background Greg attacks Lukáš Mottl.", source = "M3n747" }
+6004 = { path = "ach-jak-ja-cierpie-miejze-litosc.webp", caption = "[Greg](@/w/greg.md) being choked by Lukáš Mottl.", source = "M3n747" }
+6005 = { path = "zostaw-juz-grzesia-lukaszku.webp", caption = "Krystian Czekaj pulls Lukáš Mottl away from Greg.", source = "M3n747" }
+6006 = { path = "proste-rozwiazanie.webp", caption = "[Lukáš Mottl](@/w/skull-evil.md) unties padding from a turnbuckle.", source = "M3n747" }
+6007 = { path = "rece-ktore-pinuja.webp", caption = "[Greg](@/w/greg.md) triumphs over Lukáš Mottl.", source = "M3n747" }
+7001 = { path = "bitwa-o-papierek.webp", caption = "Battle Royal about to commence. Left to right: Veit Müller, Eryk Lesak, Chemik, [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md), [Leon Lato](@/w/leon-lato.md), Markus Paskal, [Krystian Czekaj](@/w/krystian-czekaj.md) (holding a Championship contract), Greg, Lukáš Mottl, David Oliwa, Ricky Sky. Behind the latter two are visible Tomczak's legs; Crowchester is not seen in this photo.", source = "M3n747" }
+7002 = { path = "leon-piwo.webp", caption = "Leon Lato graciously accepts a beer.", source = "M3n747" }
+7003 = { path = "warke-swoja-pozostawiam-przy-barze.webp", caption = "[Pijus I](@/w/greg.md) lives up to his name. [Krystian Czekaj](@/w/krystian-czekaj.md) looks thirsty.", source = "M3n747" }
+7004 = { path = "imigrant-sabotuje-polskie-obuwie.webp", caption = "[Ricky Sky](@/w/ricky-sky.md) unties a fan's shoelace.", source = "M3n747" }
+7005 = { path = "najlepsie-polske-pivo.webp", caption = "[Ricky Sky](@/w/ricky-sky.md) happy to see a bottle of Polish beer.", source = "M3n747" }
+7006 = { path = "filip-gul.webp", caption = "Filip Fux takes a sip while resting against fans' knees.", source = "M3n747" }
+7007 = { path = "heinrich-frosch-tak-z-lekka.webp", caption = "[Veit Müller](@/w/veit-mueller.md) very nearly eliminated.", source = "M3n747" }
+7008 = { path = "kein-bier-fuer-die-deutsche.webp", caption = "Veit Müller didn't accept the beer.", source = "M3n747" }
+7009 = { path = "stworzenie-markusa.webp", caption = "The Creation of Markus.", source = "M3n747" }
+7010 = { path = "gratuluje-panu-wygral-pan-papierek.webp", caption = "Referee [Krystian Czekaj](@/w/krystian-czekaj.md) declares [Eryk Lesak](@/w/eryk-lesak.md) the winner of the Battle Royal and presents him with the Championship contract.", source = "M3n747" }
+8001 = { path = "zaklad-szwalniczy-slepy-krawiec.webp", caption = "The two Krystians: [one](@/w/krystian-czekaj.md) wearing back and white, [the other](@/w/krystian-malinowski.md) every other colour.", source = "M3n747" }
+9001 = { path = "zefir-bezoktanowy.webp", caption = "Zefir's inflammable mixture initially fails to ignite…", source = "M3n747" }
+9002 = { path = "szybko-dawaj-kielbaski.webp", caption = "…but third time's the charm.", source = "Ville Paananen" }
+9003 = { path = "zagrabione-mienie.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) with his [KPW Championship](@/c/kpw-championship.md).", source = "M3n747" }
+9004 = { path = "szybka-poprawka.webp", caption = "[Zefir](@/w/zefir.md) makes a quick adjustment to his mask.", source = "M3n747" }
+9005 = { path = "arschseide.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) flosses his posterior with the Polish flag. [Krystian Czekaj](@/w/krystian-czekaj.md) seems unsure how to react.", source = "M3n747" }
+9006 = { path = "schawn-michaels-na-miare-naszych-mozliwosci.webp", caption = "Hans Schulte uses the flag to blow his nose. [Krystian Czekaj](@/w/krystian-czekaj.md) appears mildly annoyed.", source = "M3n747" }
+9007 = { path = "nie-miesnie-pokonaja-zefira-ale-zapach.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) applies a leg lock to [Zefir](@/w/zefir.md).", source = "M3n747" }
+9008 = { path = "gest-zefirowicza.webp", caption = "New times, new [Kozakiewicz](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Kozakiewicz#Olympic_gold_and_Kozakiewicz's_gesture).", source = "M3n747" }
+9009 = { path = "i-tak-juz-moze-zostac.webp", caption = "[Zefir](@/w/zefir.md) wins the [KPW Championship](@/c/kpw-championship.md).", source = "M3n747" }
+9010 = { path = "zefir-przemowil.webp", caption = "&quot;I DID IT!&quot;", source = "M3n747" }
+9011 = { path = "zefir-dzwigany.webp", caption = "The victorious [Zefir](@/w/zefir.md) carried on their shoulders by Filip Fux and [Michał Fux](@/w/michal-fux.md), while Leon Lato, [Greg](@/w/greg.md), Markus Paskal and Crowchester applaud the new champion.", source = "M3n747" }
+9012 = { path = "poza-zwyciestwa.webp", caption = "[Greg](@/w/greg.md), [Filip Fux](@/w/filip-fux.md), Crowchester, [Zefir](@/w/zefir.md), Markus Paskal, Michał Fux and [Leon Lato](@/w/leon-lato.md) in their victory poses.", source = "M3n747" }
+9998 = { path = "banner-paskala.webp", caption = "_Markus Paskal - The ring is yours_.", source = "M3n747" }
 9999 = { path = "zwyciezcy-adepci.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) declares the victorious trio of rookies, who will have the distinct honour… and pleasure… to face Tomczak. In the background stands [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "Official KPW YouTube" }
