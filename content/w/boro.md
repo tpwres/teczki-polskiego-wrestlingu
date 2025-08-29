@@ -84,6 +84,11 @@ On 13th of June 2025 it was announced that Boro would make his return to MZW's r
     {{ music(yt='rxDR4SG_DCc')}}
     {{ music(spot='2P1OLuJIL72VC1tzr5zTIK')}}
     {{ music(apple='1759178051?i=1759178056')}}
+  - "King Bruce Lee karate mistrz" by Franek Kimono
+    {{ org_badge(orgs=['low']) }} (2025-) <br>
+    {{ music(yt='h_QNYTrHZ2c')}}
+    {{ music(spot='5eNnuKhQMh9jieIYzWutgR')}}
+    {{ music(apple='339040556?i=339040578')}}
 
 ## Championships and accomplishments
 

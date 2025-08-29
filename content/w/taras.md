@@ -69,6 +69,11 @@ In his Instagram stories, Taras stated that he was supposedly abadoned by his pa
     {{ music(yt='XcQdJyo1B-8')}}
     {{ music(spot='3mvtAnOK9CoHvVCsqrixj5')}}
     {{ music(apple='619262718?i=619262888')}}
+  - "Treachery (From &quot;Bleach&quot;) - Metal Version" by Rocco Minichiello
+    {{ org_badge(orgs=['low']) }} (2025-) <br>
+    {{ music(yt='ODiQqVC1b9o')}}
+    {{ music(spot='6DedcdH8ri4pgtllVhPbLx')}}
+    {{ music(apple='1780533525?i=1780533526')}}
 
 ## Championships and accomplishments
 
