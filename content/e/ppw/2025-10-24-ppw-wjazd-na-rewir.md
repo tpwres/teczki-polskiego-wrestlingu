@@ -15,7 +15,8 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 
 ## Build-up
 
-* TBA
+* The event was announced on 21.08.2025 in a [Facebook post][w-breslau-bedziem], which also named a few of the workers: [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), and unspecified "local contenders" from [Maniac Zone Wrestling](@/o/mzw.md).
+* The ticket sale commenced on 29.08.2025 on the usual Stage24 website. At the same time, PpW teased a "mighty surprise", to be unveiled in a few days.
 
 ## Card
 
@@ -27,4 +28,6 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 
 ## References
 
-* [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1331239525673103&set=a.499910772139320)
+* [Facebook post announcing the event][w-breslau-bedziem]
+
+[w-breslau-bedziem]: https://www.facebook.com/photo/?fbid=1331239525673103&set=a.499910772139320
