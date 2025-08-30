@@ -45,7 +45,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   - '[Chemik](@/w/chemik.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Tomczak](@/w/tomczak.md)'
-  - 'The Rookies: _Rookie 1_ & _Rookie 2_ & _Rookie 3_'
+  - 'The Rookies: Rookie One & Rookie Two & Rookie Three'
   - s: 3-on-1 Handicap Match
 - - '[Greg](@/w/greg.md)'
   - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
