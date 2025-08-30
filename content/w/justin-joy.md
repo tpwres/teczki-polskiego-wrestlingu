@@ -1,7 +1,7 @@
 +++
 title = "Justin Joy"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -14,9 +14,9 @@ Justin Joy is a retired Polish wrestler best known for his time in [Maniac Zone 
 
 ## Basic info
 
-* Years active: 2014-2023
+* Years active: 2014-2023; 2025-
 * Gimmicks/nicknames:
-  - Justin Joy {{ org_badge(orgs=['mzw', 'ptw']) }}
+  - Justin Joy {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * Trained by:
   - DDW Academy (201?-2014)
   - Travis Banks
@@ -51,6 +51,10 @@ Later in 2023, when PTW held [a show in Wrocław](@/e/ptw/2023-06-25-ptw-4-myste
 Justin organized a Q&A on his Instagram profile and posted a number of instastories, answering fans' questions and explaining his departure and sour relations with the organization.
 
 Since then, he had no wrestling matches, preferring to focus on his activities as a fitness trainer, sports influencer and returning to Ninja Warrior once more.
+
+### PpW Ewenement Wrestling and return to the ring (2025-)
+
+On 30.08.2025 [PpW Ewenement Wrestling](@/o/ppw.md) published a [post][joy-is-ewenement] on their official Facebook, stating that Justin Joy is returning to wrestling and would make his PpW debut at their first tour show, [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). This marked not only Joy's first wrestling match since [PTW Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md) in April 2023, but also his return to Wrocław, where he last worked in 2020 at [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
 
 ## In wrestling
 
@@ -91,3 +95,5 @@ Since then, he had no wrestling matches, preferring to focus on his activities a
 * [Instagram post](https://www.instagram.com/p/CT0Ja9ZDD4l/) from Oskar's Ninja Warrior profile, showing him failing to qualify for Season 3
 * [Facebook video](https://www.facebook.com/watch/?v=806575264020450) of Oskar qualifying for the 6th edition of Ninja Warrior Poland
 * [Launching the 6th edition of Ninja Warrior](https://www.polsat.pl/news/2022-08-30/brawurowy-poczatek-szostej-edycji-ninja-warrior-polska/), an article from the Polsat TV station
+
+[joy-is-ewenement]: https://www.facebook.com/photo?fbid=1339223128208076&set=a.499910772139320
