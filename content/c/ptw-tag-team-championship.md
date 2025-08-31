@@ -155,7 +155,6 @@ While Boro never defended the title, he was also recognized as a champion per th
   - s: Tag Team Match
     en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
-    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
