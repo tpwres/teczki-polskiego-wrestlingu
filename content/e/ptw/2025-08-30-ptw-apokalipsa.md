@@ -33,6 +33,7 @@ toclevel = 2
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - s: Triple Threat Match
 - - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '[PTW Championship](@/c/ptw-championship.md) #1 Contendership Match'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Śląskie Zebry: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
