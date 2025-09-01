@@ -28,7 +28,7 @@ toclevel = 2
 {% card() %}
 - - '[Krampus](@/w/krampus.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-- - 'Blaze Skywalker'
+- - 'Flex Skywalker'
   - 'Andi ZickZack'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - s: Triple Threat Match
