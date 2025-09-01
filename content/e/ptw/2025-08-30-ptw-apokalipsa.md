@@ -56,6 +56,10 @@ toclevel = 2
   - s: 'Casket match'
 {% end %}
 
+### Highlights
+
+* At the end of the show, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) stated he uncovered information that [Sigma Boy xD](@/w/sigma-boy.md) is a bastard son of [Łukasz Okoński](@/w/lukasz-okonski.md).
+
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=431153)
