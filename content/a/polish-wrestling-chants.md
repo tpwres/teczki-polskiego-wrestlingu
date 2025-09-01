@@ -126,6 +126,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
 * _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
   {% ipa(tts="Polski lis") %}pˈɔlski lˈis{% end %}
+* _On jest pod ochroną_ - "He is protected": when Axel Fox is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
+  {% ipa(tts="On jest pod ochroną") %}ɔn jɛst pɔt ɔxrˈɔnɔ̃{% end %}
 * _Wiedźmin 4_ - "Witcher 4": [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior. \
   {% ipa(tts="Wiedźmin cztery") %}vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ{% end %}
 * _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
@@ -151,3 +153,4 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 [reparacje]: https://en.wikipedia.org/wiki/World_War_II_reparations#Poland
 [rota]: https://en.wikipedia.org/wiki/Rota_(poem)
 [7-nation]: https://www.youtube.com/watch?v=0J2QdDbelmY
+[zagrozone-gatunki]: https://en.wikipedia.org/wiki/IUCN_Red_List
