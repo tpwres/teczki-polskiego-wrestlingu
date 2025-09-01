@@ -60,6 +60,11 @@ Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024
     {{ music(yt='uF-arRQVJiI')}}
     {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
     {{ music(apple='640336030?i=640336040')}}
+  - "Silver For Monsters..." by Percival & Marcin Przybyłowicz
+    {{ org_badge(orgs=['low']) }} (2025-) <br>
+    {{ music(yt='jRG0gyVFP60')}}
+    {{ music(spot='2Rq9drbvJsmyucs7d9x04g')}}
+    {{ music(apple='1333501415?i=1333502475')}}
 
 ## Internet presence
 

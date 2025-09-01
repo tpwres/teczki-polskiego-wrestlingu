@@ -103,20 +103,25 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
   - [Zmowa](@/tt/zmowa.md) (2024-)
 * Entrance music:
   - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
-    {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger) <br>
+    {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger)<br>
     {{ music(yt='S3UMz_OK3mg')}}
     {{ music(spot='02JLJi7sryFu44hhNWOv1c')}}
     {{ music(apple='1509932137?i=1509932139')}}
   - "Sicario" by Słoń feat. Szpaku
-    {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-present) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-present)<br>
     {{ music(yt='pE0DdJf-tSo')}}
     {{ music(spot='7Lys2P5pmqfrF3sKivfB6q')}}
     {{ music(apple='1437914014?i=1437914180')}}
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
-    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Marco Hammers](@/w/marco-hammers.md)) <br>
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Marco Hammers](@/w/marco-hammers.md))<br>
     {{ music(yt='jt_2gXNBlqU')}}
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
     {{ music(apple='1509575453?i=1509575457')}}
+  - "Slasher" by Słoń/Mikser
+    {{ org_badge(orgs=['low']) }} (2025-present)<br>
+    {{ music(yt='spq7KCQWCO4')}}
+    {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
+    {{ music(apple='750848937?i=750848967')}}
 
 ## Championships and accomplishments
 
