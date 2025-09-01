@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-"Apokalipsa" (_The Apocalypse_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
+"Apokalipsa" (_The Apocalypse_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
 
 ## Build up
 
@@ -23,23 +23,42 @@ toclevel = 2
 * On 21.08.2025 PTW officially confirmed the match between Royal Rebels and the two referees, billed as "Śląskie Zebry" (_Silesian Zebras_). Additionally, the match was announced as a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) bout.
 * The match between [Dawid "Puncher" Seńko](@/w/puncher.md) and [Diana Strong](@/w/diana-strong.md) was confirmed on 26.08.2025. It too was made a championship match, with Puncher's [PTW Championship](@/c/ptw-championship.md) on the line.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '["The Enygma" Serg Sullivan](@/w/serg-sullivan.md) w/ "The Bat" Lesya Sullivan'
-  - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - s: 'Casket match'
-    nc: upcoming
+{% card() %}
+- - '[Krampus](@/w/krampus.md)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+- - 'Flex Skywalker'
+  - 'Andi ZickZack'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - s: Triple Threat Match
+- - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - s: '[PTW Championship](@/c/ptw-championship.md) #1 Contendership Match'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Śląskie Zebry: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
   - s: 'Tag Team match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    nc: upcoming
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+- - '[Spartan](@/w/spartan.md)'
+  - 'El G & Conte McStevenson'
+  - s: Handicap Match
+- - '[Daniel Razor](@/w/daniel-razor.md)(c)'
+  - 'Duxx'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    s: 'Open Challenge'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - '[Diana Strong](@/w/diana-strong.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
+- - 'CJ Klakson'
+  - 'Nick Wesker'
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '["The Enygma" Serg Sullivan](@/w/serg-sullivan.md) w/ "The Bat" Lesya Sullivan'
+  - s: 'Casket match'
 {% end %}
+
+### Highlights
+
+* At the end of the show, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) stated he uncovered information that [Sigma Boy xD](@/w/sigma-boy.md) is a bastard son of [Łukasz Okoński](@/w/lukasz-okonski.md).
 
 ## References
 
