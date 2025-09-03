@@ -101,7 +101,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2015
 
-* WWE holds their [last show](@/e/wwe/2015-04-15-wwe-live.md) in Poland to date.
+* WWE holds what is for a decade thought to be their [last show](@/e/wwe/2015-04-15-wwe-live.md) in Poland.
 * Don Roid is forced to travel hundreds of kilometers from Rzeszów to Gdańsk to oversee the organization. He quickly gets tired of it, sells the ring and closes down DDW.
 * The buyers of that ring are a group of his wrestlers, including Pawłowski. They start a new organization called [Kombat Pro Wrestling](@/o/kpw.md), and recruit nearly the entire former roster of DDW.
 * Two backyards in Kuyavia, one from Toruń and one from Grudziądz, join forces. They become [Dream Factory Wrestling](@/o/dfw.md) and obtain a proper ring.
@@ -171,3 +171,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Legacy of Wrestling](@/o/low.md) hold their [third show](@/e/low/2025-07-11-low-3.md) at Ryucon, which hosted PTW shows for the past three years.
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 {% end %}
+
+#### 2026
+
+* [WWE](@/o/wwe.md) holds the first show in Poland since [2015](@/e/wwe/2015-04-15-wwe-live.md).
