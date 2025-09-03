@@ -15,7 +15,7 @@ caption = '[Marco Hammers](@/w/marco-hammers.md) holding the PTW Intergender Cha
 source = "Instagram @vjp666"
 [extra.gallery.3]
 path = "siostra-kimono-iwul-pas-intergender.jpg"
-caption = '[Istotna Martynka](@/w/istotna-martynka.md) and Szymon Iwulski from Tales of Polish Wrestling with the Intergender Championship at [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md).'
+caption = 'Istotna Martynka (Martyna from Istota Wrestlingu) and Szymon Iwulski from Tales of Polish Wrestling with the Intergender Championship at [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md).'
 source = "Instagram @iwulbrand"
 +++
 
@@ -41,7 +41,7 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
   - s: Singles Match
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13
-- - '[Istotna Martynka](@/w/istotna-martynka.md)'
+- - 'Istotna Martynka'
   - 'Marco Hammers(c)'
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
@@ -53,7 +53,7 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
 ### Champion #2: Istotna Martynka
 
 {% free_card() %}
-- - '[Istotna Martynka](@/w/istotna-martynka.md)'
+- - 'Istotna Martynka'
   - '[Marco Hammers](@/w/marco-hammers.md)(c)'
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
@@ -71,10 +71,8 @@ The belt is made out of cardboard and black duct tape, with text and graphical e
 
 {% free_card() %}
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Istotna Martynka](@/w/istotna-martynka.md)(c)'
+  - 'Istotna Martynka(c)'
   - s: Singles Match
     en: '[PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md)'
     ed: 2024-11-16
 {% end %}
-
-Following Piwo Przyjacielem Wrestlingu 2, the Championship was seemingly dropped.
