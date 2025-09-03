@@ -22,6 +22,8 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * On 18.07.2025 PpW confirmed [Goblin](@/w/goblin.md) vs [Robert Star](@/w/robert-star.md) for the [PpW Championship](@/c/ppw-championship.md). Star was portrayed as XVII - The Star, and Goblin as 0 - The Fool.
 * On 17.08.2025 PpW announced the main event - a Total Elimination Fatal 4-Way Match between [Gabriel Queen](@/w/gabriel-queen.md) (VI - The Lovers), [Biesiad Strong](@/w/biesiad.md) (VIII - Strength), [Olgierd](@/w/olgierd.md) (XIII - Death) and [Vic Golden](@/w/vic-golden.md) (XV - The Devil).
 * On 22.08.2025 PpW posted a new graphic announcing "[Zmowa's](@/tt/zmowa.md) show of force", this time with [Mister Z](@/w/mister-z.md) as IV - The Emperor, flanked on the left by [Gustav Gryffin](@/w/gustav-gryffin.md) as XX - The Judgemenent, and on the right by Olgierd as XIII - Death, and [Marco Hammers](@/w/marco-hammers.md) as XVI - The Tower.
+* On 26.08.2025 PpW posted a [video][kabanosy-sa-na-podlodze] in which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) tries to cheer up [Oskar Alexander](@/w/oskar-alexander.md), who lost his match at the [previous show](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), by offering him some [kabanosy][kabanosy-sa-na-wikipedii]. Angry and bitter, Oskar throws the sausages to the floor angering Dobroniak, who promises to "speak to Oskar's mother" at the upcoming show.
+* On 3.09.2025 PpW announced a match between [Dobroniak](@/w/stanislaw-van-dobroniak.md) (XXI - The World; billed as Wujek - _Uncle_ - Dobroniak) and [Agentka Agatka](@/w/agentka-agatka.md) (III - The Empress), for the custody of Oskar Alexander.
 
 ## Card
 
@@ -35,6 +37,10 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   - '[_Death_ Olgierd](@/w/olgierd.md)'
   - '[_The Devil_ Vic Golden](@/w/vic-golden.md)'
   - s: Total Elimination Fatal 4-Way Match
+    nc: upcoming
+- - '[_The World_ Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[_The Empress_ Agentka Agatka](@/w/agentka-agatka.md)'
+  - s: 'Custody of [Oskar](@/w/oskar-alexander.md) match.'
     nc: upcoming
 {% end %}
 
@@ -50,3 +56,5 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 [mr2]: https://www.facebook.com/OficjalnePPW/posts/pfbid0taRW9fXjs7ofV4zixySEMYGQ9VfZZXPdemaSjGDpAWzoPNFjnqpo7J7WzS84B4mTl
 [rwt]: https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot
 [amber]: https://en.wikipedia.org/wiki/The_Chronicles_of_Amber
+[kabanosy-sa-na-podlodze]: https://www.facebook.com/reel/1019415226812638
+[kabanosy-sa-na-wikipedii]: https://en.wikipedia.org/wiki/Kabanos
