@@ -18,7 +18,7 @@ Road to Royal Rumble will be a 2026 European tour by [WWE](@/o/wwe.md), consisti
 
 {{ skip_card() }}
 
-While no card was made available in advance of the show, the official graphic announcing the tour featured Randy Orton, Jade Cargil, CM Punk, Cody Rhodes, Seth Rollins, Tiffany Stratton, Rhea Ripley and Jey Uso, suggesting their presence on the show cards. Orton, Punk and Rhodes were present at some of the past shows, whereas for the rest it'd be their Polish debut.
+While no card was made available in advance of the show, the official graphic announcing the tour featured Randy Orton, Jade Cargill, CM Punk, Cody Rhodes, Seth Rollins, Tiffany Stratton, Rhea Ripley and Jey Uso, suggesting their presence on the show cards. Orton, Punk and Rhodes were present at some of the past shows, whereas for the rest it'd be their Polish debut.
 
 ## References
 
