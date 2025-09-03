@@ -3,6 +3,8 @@ title = "Chronology of Polish wrestling"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[extra.gallery]
+1 = { path = "psv-infografika-quarter.webp", caption = "The illustrated version (simplified).", source = "M3n747" }
 +++
 
 Throughout the history of the Polish wrestling there have been a number of promotions, both professional and backyard. This is a timeline showing most of the known ones.
