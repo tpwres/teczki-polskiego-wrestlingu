@@ -62,6 +62,8 @@ After spending the first half of 2023 in the midcard, David seemingly started ge
 
 At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as [Team Visegrad](@/tt/team-visegrad.md)), he won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md).
 
+Although Team Visegrad had been active in Austria since 2021, Godzina Zero 2025 was their official Polish debut.
+
 ### Legacy of Wrestling (2025)
 
 In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at their [second show](@/e/low/2025-04-06-low-2.md), where he faced - and defeated - [Marcelito](@/w/marcelito.md) in a Singles Match. 
@@ -73,6 +75,7 @@ In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at thei
 * Tag Teams and stables:
   - Boska Oliwa (2016-2018)
   - [Sojusz](@/tt/kawaleria.md#kawaleria-vs-sojusz) (2018)
+  - [Team Visegrad](@/tt/team-visegrad.md) (2025-)
 * Entrance music:
   - "Escape (The Piña Colada Song)" by Rupert Holmes
     {{ org_badge(orgs=['kpw']) }} (2015-2023) <br>
