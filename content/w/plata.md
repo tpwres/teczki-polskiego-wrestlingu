@@ -46,7 +46,7 @@ Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy
 
 * Entrance music:
   - "Yakuza 0 Intro" by Yakuza Sound Team
-    {{ org_badge(orgs=['ppw']) }} (2024-) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2024-) <br>
     {{ music(yt='zxrXgtSL2Rk')}}
   
 ## References

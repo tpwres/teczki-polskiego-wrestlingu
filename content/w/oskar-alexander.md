@@ -67,12 +67,12 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
   - [Agentka Agatka](@/w/agentka-agatka.md) (2024-2025)
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
-    {{ org_badge(org='ppw') }} (2024-present) <br>
+    {{ org_badge(org='ppw') }} (2024-2025) <br>
     {{ music(yt='rDQHzGpwQNk')}}
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}
   - "What Do You Want From Me" by Pink Floyd
-    {{ org_badge(org='ppw') }} (2025) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
