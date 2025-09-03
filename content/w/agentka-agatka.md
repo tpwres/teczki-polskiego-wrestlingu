@@ -41,16 +41,21 @@ Later on Agatka posted a video of her calling Mister Z on the phone. She voiced 
 
 * Wrestlers managed:
     - [Oskar Alexander](@/w/oskar-alexander.md) (2024-)
- * Managers:
+* Managers:
     - [Oskar Alexander](@/w/oskar-alexander.md) (2025)
- * Entrance music:
-    - "Co Mi Panie Dasz" by Bajm
+* Entrance music:
+  - "Co Mi Panie Dasz" by Bajm
     {{ org_badge(orgs=['ppw']) }} (2025-) <br>
     {{ music(yt='RrAn5pGqu_w')}}
     {{ music(spot='45ghTMKvWtMCX9tHJCT1Zo')}}
     {{ music(apple='1433949584')}}
-    - "Zacznij od Bacha" by Zbigniew Wodecki
-    {{ org_badge(orgs=['ppw']) }} (2024-, when managing [Oskar Alexander](@/w/oskar-alexander.md)) <br>
+  - "Zacznij od Bacha" by Zbigniew Wodecki
+    {{ org_badge(orgs=['ppw']) }} (2024-2025, when managing [Oskar Alexander](@/w/oskar-alexander.md)) <br>
     {{ music(yt='rDQHzGpwQNk')}}
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}
+  - "What Do You Want From Me" by Pink Floyd
+    {{ org_badge(orgs=['ppw'']) }} (2025-, when managing [Oskar Alexander](@/w/oskar-alexander.md)) <br>
+    {{ music(yt='A8i7248HqEY') }}
+    {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
+    {{ music(apple='1065976549?i=1065976566') }}
