@@ -72,7 +72,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}
   - "What Do You Want From Me" by Pink Floyd
-    {{ org_badge(orgs=]'ppw', 'low']) }} (2025-) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
