@@ -52,7 +52,7 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
 
 The following week Max posted a farewell message on his social media, thanking several former and current PTW personalities, starting with [Wiktor Longman](@/w/wiktor-longman.md) but also including [Łukasz Okoński](@/w/lukasz-okonski.md) and [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). He wrote that he left the organization to seek further progress as a wrestler, and that "exploring the entire Polish wrestling scene can give me so much more". However, Max also wrote that he valued time spent there, recalled his debut match, his first mentors, and the people he trained himself - [Sigma Boy xD](@/w/sigma-boy.md) and [Herno](@/w/sedzia-herno.md).
 
-### Legacy of Wrestling (2025)
+### Legacy of Wrestling (2025-)
 
 Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by Wiktor Longman as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee.
 
@@ -62,7 +62,7 @@ Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2
   - _I am speed_ (Codebreaker) (2023-)
 * Entrance music:
   - "Bangarang (Remix)" by Skrillex
-    {{ org_badge(orgs=['ptw']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'low']) }} (2023-) <br>
     {{ music(yt='YJVmu6yttiw')}}
     {{ music(spot='6VRhkROS2SZHGlp0pxndbJ')}}
     {{ music(apple='491596645?i=491596647')}}

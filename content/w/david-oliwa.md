@@ -70,7 +70,7 @@ In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at thei
 
 * Finishers:
   - _Fall From Paradise_ (Spinebuster) (2015-)
- * Tag Teams and stables:
+* Tag Teams and stables:
   - Boska Oliwa (2016-2018)
   - [Sojusz](@/tt/kawaleria.md#kawaleria-vs-sojusz) (2018)
 * Entrance music:
