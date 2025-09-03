@@ -26,7 +26,7 @@ In 2023, Martyna and her husband [Istociarz](@/w/istociarz.md) started a YouTube
 
 ### PpW Ewenement Wrestling trainee (2024-present)
 
-Istotna Martynka joined [Ewenement Dojo](@/o/ewenement-dojo.md) at some point in 2024. She made her first - albeit unofficial - appearance in the ring at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md). On the first day of the show she accompanied other wrestlers as Siostra Kimono (_Sister Kimono_), and on the third day she fought in three matches - first winning the [PTW Intergender Championship](@/c/ptw-intergender-championship.md) from [Marco Hammers](@/w/marco-hammers.md), then losing it back to him, and finally taking part in a Battle Royal.
+Istotna Martynka joined [Ewenement Dojo](@/o/ewenement-dojo.md) at some point in 2024. She made her first - albeit unofficial - appearance in the ring at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md). On the first day of the show she accompanied other wrestlers as Siostra Kimono (_Sister Kimono_), and on the third day she fought in three matches - first winning the [PTW Intergender Championship](@/c/ptw-intergender-championship.md) from [Marco Hammers](@/w/marco-hammers.md), then losing it back to him, and finally taking part in a Royal Rumble.
 
 ## Championships and accomplishments
 
