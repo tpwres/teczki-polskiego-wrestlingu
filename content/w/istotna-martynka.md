@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu] podcast, a trainee of PpW Dojo and the wife of [Istociarz](@/w/istociarz.md). 
+Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, a trainee of PpW Dojo and the wife of [Istociarz](@/w/istociarz.md). 
 
 ## Basic info
 * Years active: N/A
