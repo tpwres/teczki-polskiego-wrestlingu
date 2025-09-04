@@ -66,7 +66,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
 * Wrestlers managed:
   - [Agentka Agatka](@/w/agentka-agatka.md) (2024-2025)
 * Managed by:
-  - [Agentka Agatka](@/w/agentka-agatka.md) (2024-)
+  - [Agentka Agatka](@/w/agentka-agatka.md) (2025-)
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
     {{ org_badge(org='ppw') }} (2024-2025) <br>
