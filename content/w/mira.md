@@ -65,7 +65,8 @@ Since then, Mira is still active in the wrestling industry as a ring-gear tailor
 
 ## Internet presence
 
-* [mira.wrestlin](https://www.instagram.com/mira.wrestlin/) on Instagram
+* [mira.wrestling](https://www.instagram.com/mira.wrestling/) on Instagram (inactive as of September 2025)
+* [mira.wrestling](https://www.facebook.com/mira.wrestling) on Facebook
 
 ## References
 

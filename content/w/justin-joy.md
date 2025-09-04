@@ -25,15 +25,20 @@ Justin Joy is a retired Polish wrestler best known for his time in [Maniac Zone 
  
 ## Professional wrestling career
 
+### Do or Die Wrestling (2013)
+
+Justin Joy trained in the [Do Or Die Wrestling](@/o/ddw.md) academy and took part in a Battle Royal match at [DDW #9](@/e/ddw/2013-10-25-ddw-9.md) in 2013. However, very little is known about his time in that promotion.
+
 ### Maniac Zone Wrestling (2014-2020)
 
 #### Debut and first run
 
-Justin Joy made his debut in a wrestling ring in [Maniac Zone Wrestling](@/o/mzw.md) after being trained in [Do Or Die Wrestling](@/o/ddw.md) academy. Along with [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) he was one of the first members of the roster in the Głuchołazy-based federation. He quickly became one of most prominent members of the roster working mostly as a villainous pretty boy. His popularity resulted in him being crowned the inaugural [MZW Champion](@/c/mzw-championship.md, after he defeated [Shadow](@/w/shadow.md) at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md) in January 2016. His reign lasted until May of the same year, when he lost the title to Shadow in a Loser Leaves MZW Match.
+Justin Joy made his official debut in a wrestling ring in [Maniac Zone Wrestling](@/o/mzw.md). Along with [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) he was one of the first members of the roster in the Głuchołazy-based federation. He quickly became one of most prominent members of the roster working mostly as a villainous pretty boy. His popularity resulted in him being crowned the inaugural [MZW Champion](@/c/mzw-championship.md, after he defeated [Shadow](@/w/shadow.md) at [Champions War II](@/e/mzw/2016-01-10-mzw-champions-war-2.md) in January 2016. His reign lasted until May of the same year, when he lost the title to Shadow in a Loser Leaves MZW Match.
 
 #### Return and second run
 
 After his defeat in a match against Shadow, Justin Joy went on a hiatus and emigrated to UK to train wrestling there, gaining more experience. He made his return at [MZW Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md) in December 2017 and remained in the federation as a worker, coach and - since 2018 - a member of the booking team. During his second stint in MZW he was one of the most popular wrestlers, working mainly as a fan-favourite. He won the [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) alongside [Apollo Anderson](@/w/apollo-anderson.md) as WATAHA, but after a disagreement between them, and Apollo's heel turn, they were stripped of the title.
+
 Later on, Justin also fought against [Damien Rothschild](@/w/damien-rothschild.md) for the MZW Championship at [Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md), but was unable to score a victory. His last match took place at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md) where he was defeated by [Zeritus](@/w/zeritus.md) and appeared to turn heel by joining [Jacob Crane](@/w/jacob-crane.md) and [Madman Charlie](@/w/madman-charlie.md), but due to his departure from MZW this angle was cut short.
 
 During his time in MZW Joy was also one of the main coaches in MZW's school, [Polska Akademia Wrestlingu](@/o/paw.md). A huge portion of the wrestlers trained under him in 2018-2019 formed an informal group called ["Zieloni"](@/tt/zieloni.md), with Justin Joy being credited as one of them.
