@@ -42,7 +42,7 @@ Later on Agatka posted a video of her calling Mister Z on the phone. She voiced 
 * Wrestlers managed:
     - [Oskar Alexander](@/w/oskar-alexander.md) (2024-)
 * Managed by:
-    - [Oskar Alexander](@/w/oskar-alexander.md) (2024-2025)
+    - [Oskar Alexander](@/w/oskar-alexander.md) (2025-)
 * Entrance music:
   - "Co Mi Panie Dasz" by Bajm
     {{ org_badge(orgs=['ppw']) }} (2025-) <br>

@@ -64,7 +64,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
   - Powerbomb (2024-)
   - Boston Crab (2024-)
 * Wrestlers managed:
-  - [Agentka Agatka](@/w/agentka-agatka.md) (2024-2025)
+  - [Agentka Agatka](@/w/agentka-agatka.md) (2024-)
 * Managed by:
   - [Agentka Agatka](@/w/agentka-agatka.md) (2025-)
 * Entrance Music:
