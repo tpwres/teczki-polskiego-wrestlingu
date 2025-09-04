@@ -11,17 +11,21 @@
 20002 = { path = "doberek-wiktor-jestem.webp", caption = "&quot;[Max](@/w/max-speed.md)… welcome home!&quot;<br/>&mdash;&nbsp;[Wiktor Longman](@/w/wiktor-longman.md), Kraków, 11.07.2025.", source = "M3n747" }
 20003 = { path = "hair-envy.webp", caption = "Marco Hammers decreases [Max Speed's](@/w/max-speed.md) escape velocity by applying drag. [Sędzia Kornel](@/w/sedzia-kornel.md) exemplifies uncertainy.", source = "M3n747" }
 20004 = { path = "o-tym-go-trzaslem.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) proudly displays the chair he just used to halt [Max Speed's](@/w/max-speed.md) momentum.", source = "M3n747" }
-20005 = { path = "patrzcie-tak-wyglada-reka.webp", caption = "[Sędzia Kornel](@/w/sedzia-kornel.md) declares [Max Speed](@/w/max-speed.md) the winner.", source = "M3n747" }
+20005 = { path = "marco-z-wysoka.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) launches himself at Max Speed from a &quot;great height&quot;.", source = "Official Legacy Youtube" }
+20006 = { path = "patrzcie-tak-wyglada-reka.webp", caption = "[Sędzia Kornel](@/w/sedzia-kornel.md) declares [Max Speed](@/w/max-speed.md) the winner.", source = "M3n747" }
 30001 = { path = "kuba-i-krecik.webp", caption = "Yaqoob and Erik Šlotíř.", source = "M3n747" }
 30002 = { path = "matt-buckna-z-pasem-mzw.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) with his [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+30003 = { path = "wrong-way-dude.webp", caption = "˙uoı̣dɯɐɥƆ MZW ǝɥʇ ʅʅᴉʇs sᴉ [ɐuʞɔnꓭ ʇʇɐW](@/w/matt-buckna.md)", source = "Official Legacy Youtube" }
 40001 = { path = "buenos-dias-senorita.webp", caption = "[Boro's](@/w/boro.md) entrance. On the right stands acting chairman [Wiktor](@/w/wiktor-longman.md).", source = "M3n747" }
 40002 = { path = "znako-pablo.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) with a [level crossing indicator bar](https://en.wikipedia.org/wiki/Road_signs_in_Poland#Additional_signs_before_level_crossing).", source = "M3n747" }
 40003 = { path = "taras-z-torba.webp", caption = "[Taras](@/w/taras.md), carrying a bag with weapons, argues with the audience.", source = "M3n747" }
 40004 = { path = "stol-dla-tarasa.webp", caption = "Disco Pablo sets a table in the corner, while Taras is down on his knees.", source = "M3n747" }
 40005 = { path = "zarazaboli.webp", caption = "Taras about to suplex Disco Pablo outside of the ring.", source = "M3n747" }
-40006 = { path = "klocki-ale-nie-lego-kolego.webp", caption = "[Taras](@/w/taras.md) flips off the audience after slamming Disco Pablo. To the right stands Special Guest Referee [Boro](@/w/boro.md). Note a pile of non-LEGO bricks on the ring.", source = "M3n747" }
-40007 = { path = "nie-tarasuj-stolu.webp", caption = "Boro just slapped [Taras](@/w/taras.md) and is about to put him through the table with the help of [Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
-40008 = { path = "klocki-rzucili.webp", caption = "Kids rush to grab the bricks from the ring. Wearing the Legacy T-shirt and black cap is Chris&nbsp;X.", source = "M3n747" }
+40006 = { path = "spotify.webp", caption = "Screenshot of PAKA's former theme song on Spotify.", source = "Official Legacy Youtube" }
+40007 = { path = "klocki-ale-nie-lego-kolego.webp", caption = "[Taras](@/w/taras.md) flips off the audience after slamming Disco Pablo. To the right stands Special Guest Referee [Boro](@/w/boro.md). Note a pile of non-LEGO bricks on the ring.", source = "M3n747" }
+40008 = { path = "nie-tarasuj-stolu.webp", caption = "Boro just slapped [Taras](@/w/taras.md) and is about to put him through the table with the help of [Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
+40009 = { path = "klocki-rzucili.webp", caption = "Kids rush to grab the bricks from the ring. Wearing the Legacy T-shirt and black cap is Chris&nbsp;X.", source = "M3n747" }
+40010 = { path = "bricks.webp", caption = "Close-up of the off-brand bricks, alongside a broken table.", source = "Official Legacy Youtube" }
 50001 = { path = "peace-love-and-alex.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) poses for the audience.", source = "M3n747" }
 50002 = { path = "filip-przyszedl.webp", caption = "Left to right: [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), Sędzia Kornel and Gabriel Queen.", source = "M3n747" }
 50003 = { path = "siema-no-co-tam.webp", caption = "[Filip Fux](@/w/filip-fux.md) shakes hands with [Gabriel Queen](@/w/gabriel-queen.md).", source = "M3n747" }
@@ -46,12 +50,14 @@
 70007 = { path = "wtf-just-happened-here.webp", caption = "Your tonight's nightmare.", source = "M3n747" }
 70008 = { path = "wiedzminski-znak.webp", caption = "A fan holding up a sign saying:<br/>_The Witcher_<br/>_-&nbsp;vol.&nbsp;4&nbsp;-_<br/>_Sambor_<br/>(mirror-flipped).", source = "M3n747" }
 70009 = { path = "sajajowy-dziedzic.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) wearing a shirt with a crossed-out &quot;Saja Boys&quot;. Behind him, left to right, are [Bartosz Plata](@/w/plata.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md) and [Sambor](@/w/sambor.md).", source = "M3n747" }
-70010 = { path = "chemikambodziplatawi.webp", caption = "[Chemik](@/w/chemik.md) gets hit in the corner by [Sambor](@/w/sambor.md), [Syriusz Dziedzic](@/w/dziedzic.md) and Bartosz Plata wait their turn to attack, and [Sędzia Seweryn](@/w/sedzia-seweryn.md) makes sure the rules are followed.", source = "M3n747" }
-70011 = { path = "platosz-supleksi.webp", caption = "Gustav Gryffin and Syriusz Dziedzic are in the corner, Bartosz Plata suplexes Marco Hammers, Sambor lies down and [Sędzia Seweryn](@/w/sedzia-seweryn.md) is losing hope of getting things under control.", source = "M3n747" }
-70012 = { path = "chemik-bierze-plate-na-klate.webp", caption = "[Chemik](@/w/chemik.md) performs his trademark Cartwheel Death Valley Driver on Bartosz Plata.", source = "M3n747" }
-70013 = { path = "syriusz-frunie.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) attacks Gustav Gryffin from the top rope in full view of [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
-70014 = { path = "loza-milosnikow-tomasza-knapika.webp", caption = "Commentators' table, left to right: [Arek Paterek](@/w/arek-paterek.md), [Łukasz Baliński](@/w/lukasz-balinski.md), [Chris-X](@/w/chris-x.md), [Wiktor](@/w/wiktor-longman.md), [Joker](@/w/joker.md).", source = "M3n747" }
-70015 = { path = "zmowa-lysych.webp", caption = "[Zmowa](@/tt/zmowa.md) [Łysych](@/tt/legia-lysych.md): [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Chemik](@/w/chemik.md). To the right stands [Sędzia Seweryn](@/w/sedzia-seweryn.md), in the background is [Bartosz Plata](@/w/plata.md).", source = "M3n747" }
-70016 = { path = "lewa-ciupaga.webp", caption = "Sinister urges [Syriusz Dziedzic](@/w/dziedzic.md) to use his cane against Gustav Gryffin.", source = "M3n747" }
+70010 = { path = "milosc-od-pierwszej-lysosci.webp", caption = "[Chemik](@/w/chemik.md) being pat on his bald head by the equally bald [Olgierd](@/w/olgierd.md).", source = "Official Legacy Youtube" }
+70011 = { path = "chemikambodziplatawi.webp", caption = "[Chemik](@/w/chemik.md) gets hit in the corner by [Sambor](@/w/sambor.md), [Syriusz Dziedzic](@/w/dziedzic.md) and Bartosz Plata wait their turn to attack, and [Sędzia Seweryn](@/w/sedzia-seweryn.md) makes sure the rules are followed.", source = "M3n747" }
+70012 = { path = "platosz-supleksi.webp", caption = "Gustav Gryffin and Syriusz Dziedzic are in the corner, Bartosz Plata suplexes Marco Hammers, Sambor lies down and [Sędzia Seweryn](@/w/sedzia-seweryn.md) is losing hope of getting things under control.", source = "M3n747" }
+70013 = { path = "chemik-bierze-plate-na-klate.webp", caption = "[Chemik](@/w/chemik.md) performs his trademark Cartwheel Death Valley Driver on Bartosz Plata.", source = "M3n747" }
+70014 = { path = "syriusz-frunie.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) attacks Gustav Gryffin from the top rope in full view of [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+70015 = { path = "loza-milosnikow-tomasza-knapika.webp", caption = "Commentators' table, left to right: [Arek Paterek](@/w/arek-paterek.md), [Łukasz Baliński](@/w/lukasz-balinski.md), [Chris-X](@/w/chris-x.md), [Wiktor](@/w/wiktor-longman.md), [Joker](@/w/joker.md).", source = "M3n747" }
+70016 = { path = "zmowa-lysych.webp", caption = "[Zmowa](@/tt/zmowa.md) [Łysych](@/tt/legia-lysych.md): [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Chemik](@/w/chemik.md). To the right stands [Sędzia Seweryn](@/w/sedzia-seweryn.md), in the background is [Bartosz Plata](@/w/plata.md).", source = "M3n747" }
+70017 = { path = "lewa-ciupaga.webp", caption = "Sinister urges [Syriusz Dziedzic](@/w/dziedzic.md) to use his cane against Gustav Gryffin.", source = "M3n747" }
 80001 = { path = "lis-i-gryf.webp", caption = "[Axel Fox](@/w/axel-fox.md) confronts Gustav Gryffin.", source = "M3n747" }
 80002 = { path = "oliwa-i-speed.webp", caption = "[Max Speed](@/w/max-speed.md) confronts David Oliwa.", source = "M3n747" }
+90001 = { path = "paluszki-na-stole.webp", caption = "[ShowOff](@/w/piotr-malecki.md), CJ Miami, [Chris X](@/w/chris-x.md) saddened by the unfortunate spilling of pretzel sticks all over the commentators' table.", source = "Official Legacy Youtube" }
