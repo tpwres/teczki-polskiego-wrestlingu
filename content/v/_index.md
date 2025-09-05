@@ -23,6 +23,7 @@ template = "index.html"
 
 * [2KOŁA Pub Motocyklowy](@/v/2kola.md) {{ org_badge(org='ppw') }}
 * [Hala Bemowo](@/v/hala-bemowo.md) {{ org_badge(org='ptw') }}
+* [Klub Studencki Karuzela](@/v/karuzela.md) {{ org_badge(org='ddw') }}
 * [Mińska 65](@/v/minska-65.md) {{ org_badge(org='ppw') }}
 * [Praga Centrum](@/v/praga-centrum.md) {{ org_badge(org='ppw') }}
 * [Teatr Komuna](@/v/teatr-komuna.md) {{ org_badge(org='ppw') }}
@@ -38,5 +39,6 @@ template = "index.html"
 
 ### Others
 
+* [Klub Pod Palmą](@/v/pod-palma.md) {{ org_badge(org='ddw') }}
 * [Międzynarodowe Targi Poznańskie](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
 * [Tauron Arena Kraków](@/v/tauron-arena.md) {{ org_badge(orgs=['ptw', 'low']) }}

@@ -24,7 +24,7 @@ Robert Star is a Polish wrestler best known from his time in [Kombat Pro Wrestli
 
 ### Do Or Die Wrestling (2013-2015)
 
-Robert Star debuted at [DDW#8](@/e/ddw/2013-08-17-ddw-8.md) in a tag team match with a Hungarian wrestler [Dover](@/w/dover.md) against [Nitro](@/w/nitro.md) and [Ron Corvus](@/w/ron-corvus.md), also Hungarians. Prior to his debut, Robert trained at [Don Roid](@/w/don-roid.md)'s wrestling school.
+Robert Star debuted at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) in a tag team match with a Hungarian wrestler [Dover](@/w/dover.md) against [Nitro](@/w/nitro.md) and [Ron Corvus](@/w/ron-corvus.md), also Hungarians. Prior to his debut, Robert trained at [Don Roid](@/w/don-roid.md)'s wrestling school.
 
 ### Kombat Pro Wrestling (2015-2019)
 
