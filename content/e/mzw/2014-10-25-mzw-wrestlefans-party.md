@@ -18,7 +18,7 @@ toclevel = 2
 - - '[Kowboj Luke](@/w/red-thunder.md)'
   - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
 - - '[Justin Joy](@/w/justin-joy.md)'
-  - 'Gracjan & Wiktor (MZW)'
+  - '[Gracjan](@/w/kripto.md) & Wiktor (MZW)'
   - s: 'Two On One Handicap Match'
 - - '[Shadow](@/w/shadow.md)'
   - '[Patriota](@/w/jedrus-bulecka.md)'
