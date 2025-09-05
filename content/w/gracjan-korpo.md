@@ -23,7 +23,7 @@ Gracjan Korpo is a retired Polish wrestler known for his appearances in [Kombat 
 
 ### Do Or Die Wrestling (2014-2015)
 
-Gracjan Korpo made his in-ring debut for [Do Or Die Wrestling](@/o/ddw.md) in December 2014 at an [event held in Gdańsk](@/e/ddw/2014-12-13-ddw-12.md). In his first match he defeated [Fatman](@/w/pan-pawlowski.md). He was portraying a villainous character of an angry, ruthless corporate worker fighting in a white shirt and tie, and often utilising his briefcase as a weapon. He also worked with his manager [Krzysztof Zasada](@/w/krzysztof-zasada.md), whom he often abused verbally. In total, Gracjan made three appearances in DDW before it folded, with the last one taking place at [Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md).
+Gracjan Korpo made his official in-ring debut for [Do Or Die Wrestling](@/o/ddw.md) in December 2014 at an [event held in Gdańsk](@/e/ddw/2014-12-13-ddw-12.md) (although he'd appeared as a rookie in a Battle Royal at [DDW #9](@/e/ddw/2013-10-25-ddw-9.md)). In his first match he defeated [Fatman](@/w/pan-pawlowski.md). He was portraying a villainous character of an angry, ruthless corporate worker fighting in a white shirt and tie, and often utilising his briefcase as a weapon. He also worked with his manager [Krzysztof Zasada](@/w/krzysztof-zasada.md), whom he often abused verbally. In total, Gracjan made three appearances in DDW before it folded, with the last one taking place at [Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md).
 
 ### Kombat Pro Wrestling (2015-2019)
 

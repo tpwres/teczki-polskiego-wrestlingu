@@ -25,7 +25,7 @@ Greg is a Polish wrestler best known for his appearances in [Kombat Pro Wrestlin
 
 ### Do Or Die Wrestling (2014-2015)
 
-GREG debuted in [Do Or Die Wrestling](@/o/ddw.md) in August 2014 during [Rookie Showcase](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) event in a Tag Team Match, where he teamed up with Wielki G as "Double G" to face - and lose to - [Piękny Kawaler](@/w/piekny-kawaler.md) and Kamil Leśny. Initially he worked as babyface with a rappear gimmick. This can be seen in a promo video, where he [challenges Robert Star][greg-rap] for their fight at [DDW House Show #2](@/e/ddw/2015-05-02-ddw-house-show-2.md). He made a total of six appearances. At DDW's [final show at Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) he officially joined Kawaleria - a villainous stable led by Piękny Kawaler.
+GREG debuted in [Do Or Die Wrestling](@/o/ddw.md) in October 2013 at [DDW #9](@/e/ddw/2013-10-25-ddw-9.md) in a Battle Royal. Later, in August 2014 during [Rookie Showcase](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) event, he teamed up with Wielki G as "Double G" to face - and lose to - [Piękny Kawaler](@/w/piekny-kawaler.md) and Kamil Leśny. Initially he worked as babyface with a rapper gimmick. This can be seen in a promo video, where he [challenges Robert Star][greg-rap] for their fight at [DDW House Show #2](@/e/ddw/2015-05-02-ddw-house-show-2.md). He made a total of six appearances. At DDW's [final show at Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) he officially joined Kawaleria - a villainous stable led by Piękny Kawaler.
 
 ### Kombat Pro Wrestling (2015-present)
 

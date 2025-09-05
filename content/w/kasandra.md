@@ -18,7 +18,7 @@ Kasandra, also known as Aurora, is a retired Poish wrestler best known for her t
 * Years active: 2013-2015
 * Gimmicks/nicknames:
   - Aurora {{ org_badge(orgs=['dfw']) }} (2013)
-  - Kasandra {{ org_badge(orgs=['ddw', 'kpw']) } (2014-2015)
+  - Kasandra {{ org_badge(orgs=['ddw', 'kpw']) }} (2014-2015)
 * Trained by:
   - DDW Academy (201?-2015)
 
