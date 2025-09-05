@@ -1,7 +1,7 @@
 +++
 title = "Kripto"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Krzysztof Zych"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -23,7 +23,7 @@ Kripto is a retired Polish wrestler best known for his time in [Maniac Zone Wres
 
 ### Maniac Zone Wrestling (2015-2016)
 
-Under his real name Gracjan, his debut in the ring happened at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md) in 2014.
+Appearing under his real name, Gracjan, he debuted in the ring at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md) in 2014.
 In January 2015, he portrayed a bandana-wearing masked bandit at [Charity Show](@/e/mzw/2015-01-11-mzw-charity-show-2015.md), billed as Mario Rodriguez.
 Later in May 2015, he estabilished the character of Kripto, in a match against [Mr B.](@/w/mr-b.md) at [MZW Pre-War](@/e/mzw/2015-05-24-mzw-pre-war.md).
 This new character was a generic masked wrestler. For the better part of his short career he was booked as an enhancement talent, losing his every official match in MZW.
