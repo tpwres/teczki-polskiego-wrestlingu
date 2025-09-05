@@ -32,7 +32,7 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 
 The event was later released on DVD, in very limited numbers. Fans could purchase the disc by e-mailing [Don Roid](@/w/don-roid.md).
 
-I was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
+It was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
 
 ## References
 
