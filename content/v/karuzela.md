@@ -1,8 +1,6 @@
 +++
 title = "Klub Studencki Karuzela"
 template = "venue_page.html"
-[extra]
-year_list_start = 2019
 [extra.geo]
 coordinates = '52.236622,20.919313'
 type = 'historical-venue'
