@@ -13,9 +13,9 @@ toclevel = 2
 3 = { path = "kasandra-4.png", caption = "[Kasandra](@/w/kasandra.md) holds Audrey Bride in a fireman carry. In the background, [Mira](@/w/mira.md) waits to tag in.", source = "WrestlingJunkies.wixsite.com" }
 +++
 
-All Or Nothing II was held in DDW's usual venue, klub Pod Palmą on August 17 2014. The event was built around a tournament for the vacant [DDW International Championship](@/c/ddw-international-championship.md) of which [Kamil Aleksander](@/w/kamil-aleksander.md) was the previous holder. DDW also held a [smaller show](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) the previous day, featuring their trainees.
+All Or Nothing II was the last show to be held in DDW's usual venue, [klub Pod Palmą](@/v/pod-palma.md), on August 17 2014. The event was built around a tournament for the vacant [DDW International Championship](@/c/ddw-international-championship.md) of which [Kamil Aleksander](@/w/kamil-aleksander.md) was the previous holder. DDW also held a [smaller show](@/e/ddw/2014-08-16-ddw-pokaz-adeptow.md) the previous day, featuring their trainees.
 
-Another big (literally) feature of the event was Polish Giant, an up-and-coming wrestler of Polish origin and extra large stature (210 cm tall, weighing 140 kg), who trained in the UK for several years and did tryouts with both WWE and TNA at the time.
+Another big (literally) feature of the event was Polish Giant, an up-and-coming wrestler of Polish origin and extra large stature (210&nbsp;cm tall, weighing 140&nbsp;kg), who trained in the UK for several years and did tryouts with both [WWE](@/o/wwe.md) and TNA at the time.
 
 ## Card
 
