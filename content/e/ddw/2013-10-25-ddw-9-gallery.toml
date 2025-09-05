@@ -7,7 +7,7 @@
 301 = { path = "niby-rumble-ale-battle.webp", caption = "Title card of the Battle Royal, mistakenly describing it as a Royal Rumble. [Justin Joy](@/w/justin-joy.md) on the left, [Aurora](@/w/kasandra.md) in the middle.", source = "Jędruś Bułecka's private archives" }
 302 = { path = "battle-royal-in-progress.webp", caption = "Battle Royal. Left to right: Straceniec, Greg, [Justin Joy](@/w/justin-joy.md), Mateusz Kowalski.", source = "Jędruś Bułecka's private archives" }
 303 = { path = "kowalski-y.webp", caption = "[Mateusz Kowalski](@/w/mateusz-kakareko.md) and [Greg](@/w/greg.md).", source = "Official DDW Facebook" }
-305 = { path = "justin-bije-korpo.webp", caption = "[Justin Joy](@/w/justin-joy.md) attacks Gracjan Korpo.", source = "Official DDW Facebook" }
+304 = { path = "justin-bije-korpo.webp", caption = "[Justin Joy](@/w/justin-joy.md) attacks Gracjan Korpo.", source = "Official DDW Facebook" }
 401 = { path = "dunne.webp", caption = "Damian Dunne (front).", source = "Official DDW Facebook" }
 402 = { path = "and-dunne.webp", caption = "Damian Dunne (back).", source = "Official DDW Facebook" }
 403 = { path = "what-have-you-dunne.webp", caption = "[Klarys](@/w/klarys.md) holds Dunne.", source = "Official DDW Facebook" }
@@ -19,7 +19,7 @@
 504 = { path = "aplikacja-piachopiryny.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) attacks Pacjent. In the opposite corner waits [Bianca](@/w/bianca.md).", source = "Official DDW Facebook" }
 505 = { path = "pawlowski-przeszkadza.webp", caption = "Pawłowski pulls Aurora's leg. In the left corner stands Kamil Aleksander, in the right is Pacjent.", source = "Jędruś Bułecka's private archives" }
 506 = { path = "aurora-ddt.webp", caption = "Aurora sets up Bianca for a modified DDT.", source = "Official DDW Facebook" }
-506 = { path = "aurora-pin.webp", caption = "Aurora sets up [Bianca](@/w/bianca.md).", source = "Official DDW Facebook" }
+507 = { path = "aurora-pin.webp", caption = "Aurora sets up [Bianca](@/w/bianca.md).", source = "Official DDW Facebook" }
 601 = { path = "janusz-wojnarowicz-1.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) and six-time European judo champion Janusz Wojnarowicz.", source = "Jędruś Bułecka @ Facebook" }
 602 = { path = "janusz-wojnarowicz-2.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) and six-time European judo champion Janusz Wojnarowicz.", source = "Jędruś Bułecka @ Facebook" }
 603 = { path = "janusz-wojnarowicz-3.webp", caption = "Close-up shot of Janusz Wojnarowicz.", source = "Official DDW Facebook" }
