@@ -17,7 +17,7 @@ toclevel = 2
 
 This was one of the final shows to be held under the [DDW](@/o/ddw.md) banner. After moving the organization from Rzeszów to Gdańsk, the local wrestlers (which at that time were the majority) started to run things without the owner's input.
 
-Disappointed by the poor audience numbers of [DDW#9](@/e/ddw/2013-10-25-ddw-9.md), and the need to travel the entire country to run the school and shows now in Gdańsk, [Don Roid](@/w/don-roid.md) would soon close down DDW, selling the ring to a new organization which took over the entire roster. That organization would reveal itself later in October that year as [KPW](@/o/kpw.md), and hold their [first show](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md) later in November.
+Disappointed by the poor audience numbers of [DDW #9](@/e/ddw/2013-10-25-ddw-9.md), and the need to travel the entire country to run the school and shows now in Gdańsk, [Don Roid](@/w/don-roid.md) would soon close down DDW, selling the ring to a new organization which took over the entire roster. That organization would reveal itself later in October that year as [KPW](@/o/kpw.md), and hold their [first show](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md) later in November.
 
 ## Card
 
