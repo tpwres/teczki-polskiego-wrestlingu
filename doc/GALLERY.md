@@ -142,7 +142,7 @@ The `path`, `caption` and `source` fields work exactly as described under [Galle
 Many social media platforms and messaging apps try to show rich previews of links shared through them. This is done by the pages providing specific metadata, which includes a thumbnail.
 Any page with a gallery will have such a thumbnail, **taken from the first photo listed** in the gallery or manifest, regardless of its key.
 
-* For event pages. the show poster should always be placed first.
+* For event pages, the show poster should always be placed first.
 * For talent pages, the first photo should be a usable portrait of the person, preferably showing their face.
 * Venue pages can use a photo of the front entrance, or a recognizable sign or logo.
 * Other pages, such as articles, have no specific requirements, but should select at least an interesting and relevant photo.

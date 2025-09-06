@@ -3,11 +3,11 @@
 101 = { path = "krystian-czeka-na-kaszuba.webp", caption = "Unknown referee, [Krystian Czekaj](@/w/krystian-czekaj.md) and [Kaszub](@/w/kaszub.md).", source = "Jędruś Bułecka's private archives" }
 102 = { path = "solidarni-z-kawalerem.webp", caption = "[Piękny Kawaler](@/w/piekny-kawaler.md) gives his opponents two choices.", source = "Jędruś Bułecka's private archives" }
 201 = { path = "spadkop.webp", caption = "Piękny Kawaler drop-kicks Robert Star.", source = "Jędruś Bułecka's private archives" }
-202 = { path = "pasja-roberta.webp", caption = "[Robert Star](@/w/robert-star.md) entangled in the ring ropes.", source = "Jędruś Bułecka's private archives" }
+202 = { path = "pasja-roberta.webp", caption = "Robert Star entangled in the ring ropes.", source = "Jędruś Bułecka's private archives" }
 301 = { path = "niby-rumble-ale-battle.webp", caption = "Title card of the Battle Royal, mistakenly describing it as a Royal Rumble. [Justin Joy](@/w/justin-joy.md) on the left, [Aurora](@/w/kasandra.md) in the middle.", source = "Jędruś Bułecka's private archives" }
 302 = { path = "battle-royal-in-progress.webp", caption = "Battle Royal. Left to right: Straceniec, Greg, [Justin Joy](@/w/justin-joy.md), Mateusz Kowalski.", source = "Jędruś Bułecka's private archives" }
 303 = { path = "kowalski-y.webp", caption = "[Mateusz Kowalski](@/w/mateusz-kakareko.md) and [Greg](@/w/greg.md).", source = "Official DDW Facebook" }
-304 = { path = "justin-bije-korpo.webp", caption = "[Justin Joy](@/w/justin-joy.md) attacks Gracjan Korpo.", source = "Official DDW Facebook" }
+304 = { path = "justin-bije-korpo.webp", caption = "Justin Joy attacks Gracjan Korpo.", source = "Official DDW Facebook" }
 401 = { path = "dunne.webp", caption = "Damian Dunne (front).", source = "Official DDW Facebook" }
 402 = { path = "and-dunne.webp", caption = "Damian Dunne (back).", source = "Official DDW Facebook" }
 403 = { path = "what-have-you-dunne.webp", caption = "[Klarys](@/w/klarys.md) holds Dunne.", source = "Official DDW Facebook" }
@@ -26,14 +26,14 @@
 604 = { path = "hanyskie-promo.webp", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) delivers a promo.", source = "Official DDW Facebook" }
 701 = { path = "straceniec-vs-jędrus.webp", caption = "Title card of [Straceniec](@/w/shadow.md) vs [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "Jędruś Bułecka's private archives" }
 702 = { path = "lusmienijta-sie-panocku.webp", caption = "&quot;That's better!&quot;", source = "Jędruś Bułecka's private archives" }
-703 = { path = "jedrus-bulecka-vs-straceniec-fight-1.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-704 = { path = "jedrus-bulecka-vs-straceniec-fight-2.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-705 = { path = "jedrus-bulecka-vs-straceniec-fight-3.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-706 = { path = "jedrus-bulecka-vs-straceniec-fight-4.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-707 = { path = "jedrus-bulecka-vs-straceniec-fight-5.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-708 = { path = "jedrus-bulecka-vs-straceniec-fight-6.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-709 = { path = "jedrus-bulecka-vs-straceniec-fight-7.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-710 = { path = "jedrus-bulecka-vs-straceniec-fight-8.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
-711 = { path = "jedrus-bulecka-vs-straceniec-fight-9.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs [Straceniec](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
+703 = { path = "jedrus-bulecka-vs-straceniec-fight-1.jpg", caption = "Jędruś Bułecka vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+704 = { path = "jedrus-bulecka-vs-straceniec-fight-2.jpg", caption = "Jędruś Bułecka vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+705 = { path = "jedrus-bulecka-vs-straceniec-fight-3.jpg", caption = "Jędruś Bułecka vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+706 = { path = "jedrus-bulecka-vs-straceniec-fight-4.jpg", caption = "Jędruś Bułecka vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+707 = { path = "jedrus-bulecka-vs-straceniec-fight-5.jpg", caption = "Jędruś Bułecka vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+708 = { path = "jedrus-bulecka-vs-straceniec-fight-6.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+709 = { path = "jedrus-bulecka-vs-straceniec-fight-7.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+710 = { path = "jedrus-bulecka-vs-straceniec-fight-8.jpg", caption = "Jędruś Bułecka vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
+711 = { path = "jedrus-bulecka-vs-straceniec-fight-9.jpg", caption = "Jędruś Bułecka vs Straceniec.", source = "Jędruś Bułecka @ Facebook" }
 712 = { path = "straceniec-stracil-orientacje.webp", caption = "[Straceniec](@/w/shadow.md) on the ropes.", source = "Official DDW Facebook" }
 801 = { path = "don-incoming.webp", caption = "[Don Roid](@/w/don-roid.md) about to hit Mateusz Kowalski with a top rope Splash.", source = "Jędruś Bułecka's private archives" }
