@@ -14,12 +14,12 @@
 0105 = { path = "arena-27-sexy-lesak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) embodies the Polish proverb &quot;Hungry man thinks of bread&quot;.", source = "M3n747" }
 0106 = { path = "arena-27-lesak-wins-i-guess.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) awards the win to [Eryk Lesak](@/w/eryk-lesak.md).", source = "Krzysztof Zych" }
 0201 = { path = "arena-27-its-gonna-rain-zefirs-are-flying-low-to-the-ground.webp", caption = "[Zefir](@/w/zefir.md) flies into the ring.", source = "Krzysztof Zych" }
-0202 = { path = "arena-27-beck-to-the-ring.webp", caption = "Callum Beck sentons onto [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
+0202 = { path = "arena-27-beck-to-the-ring.webp", caption = "[Callum Beck](@/w/callum-beck.md) sentons onto [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
 0203 = { path = "arena-27-zefir-and-callums-beckside.webp", caption = "[Zefir](@/w/zefir.md) strikes Beck.", source = "Krzysztof Zych" }
-0204 = { path = "arena-27-oh-snap.webp", caption = "Callum Beck about to seemingly snap [Zefir's](@/w/zefir.md) fingers.", source = "M3n747" }
-0205 = { path = "arena-27-rifez.webp", caption = "[Zefir](@/w/zefir.md) with his mask turned back-to-front.", source = "m.fotografika" }
-0206 = { path = "arena-27-zefir-back-to-front.webp", caption = "Callum Beck blindsides [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
-0207 = { path = "arena-27-sexy-beck.webp", caption = "Callum Beck thrown out of the ring by Zefir.", source = "M3n747" }
+0204 = { path = "arena-27-oh-snap.webp", caption = "[Callum Beck](@/w/callum-beck.md) about to seemingly snap [Zefir's](@/w/zefir.md) fingers.", source = "M3n747" }
+0205 = { path = "arena-27-rifez.webp", caption = "[Zefir](@/w/zefir.md) with his mask turned back-to-front by [Callum Beck](@/w/callum-beck.md).", source = "m.fotografika" }
+0206 = { path = "arena-27-zefir-back-to-front.webp", caption = "[Callum Beck](@/w/callum-beck.md) blindsides [Zefir](@/w/zefir.md).", source = "Krzysztof Zych" }
+0207 = { path = "arena-27-sexy-beck.webp", caption = "[Callum Beck](@/w/callum-beck.md) thrown out of the ring by Zefir.", source = "M3n747" }
 0208 = { path = "arena-27-zefir-wins.webp", caption = "[Kinga](@/w/kinga-miotke.md) announces [Zefir's](@/w/zefir.md) victory over Callum Beck.", source = "M3n747" }
 0301 = { path = "arena-27-oliwa-sky.webp", caption = "[David Oliwa](@/w/david-oliwa.md) wearing Ricky Sky's shirt.", source = "Krzysztof Zych" }
 0302 = { path = "arena-27-triple-threat-1.webp", caption = "[Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md) and [David Oliwa](@/w/david-oliwa.md).", source = "M3n747" }
