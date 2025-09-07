@@ -4,7 +4,7 @@
 11 = { path = "pan-darek.webp", caption = "[Darius](@/w/darius.md).", source = "M.Fotografika" }
 12 = { path = "david-grozny.webp", caption = "[David Oliwa](@/w/david-oliwa.md).", source = "M.Fotografika" }
 13 = { path = "dariusz-frunie.webp", caption = "[David Oliwa](@/w/david-oliwa.md) vs [Darius](@/w/darius.md).", source = "M.Fotografika" }
-21 = { path = "callum-is-beck.webp", caption = "Callum Beck.", source = "M.Fotografika" }
+21 = { path = "callum-is-beck.webp", caption = "[Callum Beck](@/w/callum-beck.md).", source = "M.Fotografika" }
 22 = { path = "lato-dla-leona.webp", caption = "[Leon Lato](@/w/leon-lato.md).", source = "M.Fotografika" }
 23 = { path = "callum-superpleksi.webp", caption = "Callum Beck vs Leon Lato. To the left stands referee [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M.Fotografika" }
 31 = { path = "eryk-le-suck.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md).", source = "M.Fotografika" }
