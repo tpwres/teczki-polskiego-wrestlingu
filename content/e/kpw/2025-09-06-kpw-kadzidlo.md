@@ -1,7 +1,7 @@
 +++
 title = "KPW in Kadzidło"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["kpw"]
 venue=["kadzidlo-hala-sportowa"]
@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-On 6.09.2025 KPW held an event in the village of [Kadzidło][kadzidlo], as part of the local [harvest festival][dozynki].
+On 6.09.2025 KPW held an event in the village of [Kadzidło][kadzidlo], as part of the local [harvest festival][dozynki]. The event was not promoted on their usual social media channels. It was also the first time since [OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md) back in 2019 that the organization held a show outside of the Tricity area, other than at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md).
 
 Match card unofficial, based on available pictures and videos.
 
