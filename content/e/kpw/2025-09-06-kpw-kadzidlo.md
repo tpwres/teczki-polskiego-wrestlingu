@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["kpw"]
-venue=["kadzidlo-hala-sportowa"]
+venue=["kadzidlo-sp"]
 [extra]
 city = "Kadzidło"
 toclevel = 2
