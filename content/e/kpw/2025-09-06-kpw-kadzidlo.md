@@ -61,17 +61,8 @@ Match card unofficial, based on available pictures and videos.
 ## References
 
 * [Video: show highlights](https://www.facebook.com/watch/?v=1287056859467636&rdid=hvaA8BxVkOWhGrRe) by Gmina Kadzidło
-* [Video: show highlights](https://www.facebook.com/centrumkurpiowskie/videos/1845809102983427) by Centrum Kultury Kurpiowskiej im. Ks. Mieczysława Mieszki w Kadzidle
 * [Video: show highlights](https://www.youtube.com/watch?v=7rQ8tL32KT4) by eOstrołęka
-* [Video: show highlights](https://www.youtube.com/watch?v=65TFbJetGFA) by eOstrołęka
-* [Video: Zefir vs Lesak](https://www.youtube.com/watch?v=FNcuBsymYu8) (fragments) by eOstrołęka
 * [Video: Zefir vs Lesak](https://www.youtube.com/watch?v=2P1hfkxDOSY) (ending) by eOstrołęka
-* [Video: Tomczak vs The Rookies](https://www.youtube.com/watch?v=FlWUYD79iuc) (fragments) by eOstrołęka
-* [Video: Tomczak vs The Rookies](https://www.youtube.com/watch?v=qYxCG-s-cro) (fragments) by eOstrołęka
-* [Video: Chemik vs Lato](https://www.youtube.com/watch?v=KqjPHDjCPME) (fragments) by eOstrołęka
-* [Video: Chemik vs Lato](https://www.youtube.com/watch?v=bFwnfD6Dpbc) (fragments) by eOstrołęka
-* [Video: Tag-Team Match](https://www.youtube.com/watch?v=2yOt9BZuQaw) by eOstrołęka
-* [Video: Battle Royal](https://www.youtube.com/watch?v=StnCO7_5UUA) by (fragments) eOstrołęka
 * [Article](https://www.eostroleka.pl/to-nie-usa-to-kadzidlo-wrestling-zadebiutowal-na-kurpiach-wideo-zdjecia,art121514.html) at eOstrołęka.pl (in Polish)
 * [Article](https://www.moja-ostroleka.pl/art/1757184566/tego-jeszcze-na-kurpiach-nie-bylo-gala-wrestlingu-w-kadzidle-zdjecia) at Moja Ostrołęka (in Polish)
 * [Photos from the show](https://zdjecia.moja-ostroleka.pl/a/27282/gala-wrestlingu-kpw-kombat-pro-wrestling) at Moja Ostrołęka
