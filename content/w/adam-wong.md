@@ -15,6 +15,7 @@ Adam Wong is a Polish wrestler best known for his time in [PpW Ewenement](@/o/pp
 * Years active: 2021-present
 * Gimmicks/nicknames:
   - "Polish Dragon" Adam Wong {{ org_badge(org='ppw') }}
+  - _Rookie_ Adam {{ org_badge(org='kpw') }} (September 2025-)
 * Trained by:
   - PpW Dojo (2021-2023)
   - KPW Academy (2024-present)
@@ -31,7 +32,7 @@ Due to the quick development of PpW and ongoing professionalisation of the roste
 
 #### Training
 
-Adam Wong quickly joined [Kombat Pro Wrestling](@/o/kpw.md) shortly after leaving PpW. He attended their training weekends and the 2024 summer camp, and was spotted by fans working as part of the ring crew at numerous KPW shows the same year.
+Adam Wong quickly joined [Kombat Pro Wrestling](@/o/kpw.md) shortly after leaving PpW. He attended their training weekends and the 2024 summer camp, and was spotted by fans working as part of the ring crew at numerous KPW shows the same year. In 2025, at [KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md), he made his first in-ring appearance, albeit still as a rookie (announced as "Adam").
 
 ## In wrestling
 
