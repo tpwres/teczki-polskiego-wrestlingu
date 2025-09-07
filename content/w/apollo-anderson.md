@@ -8,14 +8,15 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Apollo Anderson, also known as The Wolf, is a Polish wrestler best known for his appearances for [Maniac Zone Wrestling](@/o/mzw.md).
+Apollo Anderson, also known as The Wolf or Febus 'The Wolf', is a Polish wrestler best known for his appearances for [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
 * Years active: 2017-2019, 2025-present
 * Gimmicks/nicknames:
   - Apollo Anderson {{ org_badge(orgs=['mzw']) }} (2017-2019)
-  - The Wolf {{ org_badge(orgs=['mzw']) }} (2025-)
+  - The Wolf {{ org_badge(orgs=['mzw']) }} (2025)
+  - Febus 'The Wolf' {{ org_badge(orgs=['mzw']) }} (2025-)
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2016-2019; 2024-)
 
@@ -32,7 +33,7 @@ Wataha officially broke up at [Project 4](@/e/mzw/2019-03-23-mzw-project-4-open-
 
 #### Return as The Wolf
 
-Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), where he lost to [Marcelito](@/w/marcelito.md).
+Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), where he lost to [Marcelito](@/w/marcelito.md). Beginning with [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), he started going by Febus 'The Wolf'.
 
 ## In wrestling
 

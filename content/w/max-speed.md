@@ -56,6 +56,10 @@ The following week Max posted a farewell message on his social media, thanking s
 
 Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by Wiktor Longman as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee.
 
+### Maniac Zone Wrestling (2025-)
+
+Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announced Max Speed would debut for their federation at [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md), facing [Febus 'The Wolf'](@/w/apollo-anderson.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) in a Triple Threat Match.
+
 ## In wrestling
 
 * Finishers:
