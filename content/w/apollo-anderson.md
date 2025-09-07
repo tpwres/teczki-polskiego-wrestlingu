@@ -33,7 +33,7 @@ Wataha officially broke up at [Project 4](@/e/mzw/2019-03-23-mzw-project-4-open-
 
 #### Return as The Wolf
 
-Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), where he lost to [Marcelito](@/w/marcelito.md). Starting with [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), he started going by Febus 'The Wolf'.
+Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), where he lost to [Marcelito](@/w/marcelito.md). Beginning with [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), he started going by Febus 'The Wolf'.
 
 ## In wrestling
 
