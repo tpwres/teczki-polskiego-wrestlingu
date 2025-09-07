@@ -19,6 +19,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 * On 18.08.2025 two matches were announced, splitting [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) vs [Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) vs [Olgierd](@/w/olgierd.md).
 * On 22.08.2025 MZW published a [promo][promo-dziedzic] by [Syriusz Dziedzic](@/w/dziedzic.md), in which he challenged [Mister Z](@/w/mister-z.md) for a match at the upcoming show. In the video, Dziedzic stated that he's been hungry for success ever since he [escaped the cage][@/a/ptw-exits.md].
 * On 27.08.2025 Mister Z issued a [reply][promo-z] refusing the challenge, on the grounds of him being on high enough level that he should only come to MZW to fight in title matches.
+* On 7.09.2025 MZW announced a Triple Threat Match between [Febus 'The Wolf'](@/w/apollo-anderson.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Max Speed](@/w/max-speed.md).
 
 ## Predicted card
 
@@ -32,6 +33,11 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 - - '[Marcelito](@/w/marcelito.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - nc: upcoming
+- - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - s: Triple Threat Match
+    nc: upcoming
 {% end %}
 
 ### Recap
