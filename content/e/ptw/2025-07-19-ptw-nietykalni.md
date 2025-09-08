@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 +++
 
-"Nietykalni" (_The Untouchables_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) and [Ból Istnienia](@/e/ptw/2025-09-27-ptw-bol-istnienia.md).
+"Nietykalni" (_The Untouchables_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) and [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md).
 
 ## Build-up
 

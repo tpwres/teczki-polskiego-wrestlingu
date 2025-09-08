@@ -1,6 +1,7 @@
 +++
 title = "PTW: Ból Istnienia"
 template = "event_page.html"
+aliases = ["/e/ptw/2025-09-27-ptw-bol-istnienia"]
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["ptw"]
