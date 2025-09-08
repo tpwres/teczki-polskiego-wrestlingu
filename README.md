@@ -40,7 +40,7 @@ The official, Polish name for this project is "Teczki Polskiego Wrestlingu", whi
 
 #### Better than Cagematch
 
-While Cagematch is a great resource, it can take a long time to accept a lesser known promotion, or a new wrestler fresh out of the backyard. It also does too much - wants to have all the world's wrestling, allows reviews. It also does too little - just a match list, basic info and social links (which often degrade), but has no place for bios and articles.
+While Cagematch is a great resource, it can take a long time to accept a lesser known promotion, or a new wrestler fresh out of the backyard. It does too much - wants to have all the world's wrestling, allows reviews. It also does too little - just a match list, basic info and social links (which often degrade), but has no place for bios and articles.
 
 #### More focused than Wikipedia
 
@@ -57,4 +57,4 @@ TPW doesn't cover events that happened outside of Poland.
 
 If you're familiar with GitHub, the preferred workflow is to create branches and pull requests. If you're not, submitting issues with corrections to existing pages, or with new content is also accepted. Create an account on GitHub and come help!
 
-See `GUIDELINES.md` for how we write, and what we don't want to write. See `CARD.md` to understand the match card blocks in event articles.
+See `doc/GUIDELINES.md` for how we write, and what we don't want to write. See `doc/CARD.md` to understand the match card blocks in event articles.
