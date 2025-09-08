@@ -24,6 +24,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * On 22.08.2025 PpW posted a new graphic announcing "[Zmowa's](@/tt/zmowa.md) show of force", this time with [Mister Z](@/w/mister-z.md) as IV - The Emperor, flanked on the left by [Gustav Gryffin](@/w/gustav-gryffin.md) as XX - The Judgemenent, and on the right by Olgierd as XIII - Death, and [Marco Hammers](@/w/marco-hammers.md) as XVI - The Tower.
 * On 26.08.2025 PpW posted a [video][kabanosy-sa-na-podlodze] in which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) tries to cheer up [Oskar Alexander](@/w/oskar-alexander.md), who lost his match at the [previous show](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), by offering him some [kabanosy][kabanosy-sa-na-wikipedii]. Angry and bitter, Oskar throws the sausages to the floor angering Dobroniak, who promises to "speak to Oskar's mother" at the upcoming show.
 * On 3.09.2025 PpW announced a match between [Dobroniak](@/w/stanislaw-van-dobroniak.md) (XXI - The World; billed as Wujek - _Uncle_ - Dobroniak) and [Agentka Agatka](@/w/agentka-agatka.md) (III - The Empress), for the custody of Oskar Alexander.
+* On 8.09.2025 PpW announced [Marco Hammers](@/w/marco-hammers.md) (XVI - The Tower) vs [Axel Fox](@/w/axel-fox.md) (XI - Justice).
 
 ## Card
 
@@ -42,6 +43,9 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   - '[_The Empress_ Agentka Agatka](@/w/agentka-agatka.md)'
   - s: 'Custody of [Oskar](@/w/oskar-alexander.md) match.'
     nc: upcoming
+- - '[_The Tower_ Marco Hammers](@/w/marco-hammers.md)'
+  - '[_Justice_ Axel Fox](@/w/axel-fox.md)'
+  - nc: upcoming
 {% end %}
 
 ### Recap
