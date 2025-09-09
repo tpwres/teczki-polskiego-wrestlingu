@@ -29,6 +29,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=433050)
 * [Facebook post announcing the event][w-breslau-bedziem]
 
 [w-breslau-bedziem]: https://www.facebook.com/photo/?fbid=1331239525673103&set=a.499910772139320

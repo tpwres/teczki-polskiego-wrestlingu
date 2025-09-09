@@ -25,5 +25,6 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=433783)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
 * [Facebook post announcing the new date](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1396361291461288)
