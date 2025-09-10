@@ -26,7 +26,7 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
   - '[Gracjan "Mario Rodriguez"](@/w/kripto.md)'
 - - '[Shadow](@/w/shadow.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
-  - g: 'Shadow confronts Justin, how wanted to leave early.'
+  - g: 'Shadow confronts Justin, who wanted to leave early.'
 - - '[Polish Hammer](@/w/jedrus-bulecka.md)'
   - '[Asmund](@/w/asmund.md)'
 - - '[Shadow](@/w/shadow.md)'
