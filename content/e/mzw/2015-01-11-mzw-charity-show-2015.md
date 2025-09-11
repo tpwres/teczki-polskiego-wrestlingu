@@ -29,6 +29,7 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
   - g: 'Shadow confronts Justin, who wanted to leave early.'
 - - '[Polish Hammer](@/w/jedrus-bulecka.md)'
   - '[Asmund](@/w/asmund.md)'
+  - r: 'Submission'
 - - '[Shadow](@/w/shadow.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
   - r: 'DQ'
@@ -44,7 +45,9 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
 * Mario Rodriguez did a Super Mario-like jump into the air from Hexia's back, complete with a raised hand.
 * During [Justin Joy's](@/w/justin-joy.md) entrance, the camera operator briefly but prominently focused on Joy's buttocks.
 * Justin cut a promo saying he'd "like to have a chat with [Shadow](@/w/shadow.md) and to kick his ass", but unfortunately he had no time and had to split. Before he could leave, however, Shadow appeared and said that "none of these people came here to listen to you talk, they came to see you get the biggest beating in your life".
-* 
+* During the main event, fans threw a several items, mostly into the ring and at Justin Joy, including an egg and a few plastic bottles. While every foreign object missed its mark, an item thrown from the mezzanine hit the crowd below.
+* Justin hit Shadow with a chair, getting disqualified. He was about to use the chair on the referee, but instead attacked Shadow, who immediately punished him.
+* Following the above exchange, the camera operator can be heard asking the referee "Piotrek, żyjesz?" (_You alive, Pete?_).
 
 ## References
 
