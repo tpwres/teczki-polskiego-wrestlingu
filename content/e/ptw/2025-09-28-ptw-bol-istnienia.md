@@ -9,6 +9,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+[extra.gallery]
 +++
 
 "Ból Istnienia" (_The Pain of Existence_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) and [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md).
