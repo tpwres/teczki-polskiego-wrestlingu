@@ -1,0 +1,9 @@
+01 = { path = "plakat.webp", caption = "Official poster, showing [Hexia](@/w/hexia.md), [Kowboj Luke](@/w/red-thunder.md), [Shadow](@/w/shadow.md), [Polish Hammer](@/w/jedrus-bulecka.md) and [Justin Joy](@/w/justin-joy.md).", source = "Facebook @GosirGlucholazy" }
+02 = { path = "luke-vs-szymon.webp", caption = "[Kowboj Luke](@/w/red-thunder.md) vs [Szymon Siwiec](@/w/szymon-siwiec.md).", source = "Jędruś Bułecka's private archives" }
+03 = { path = "hexia-vs-noob-saibot.webp", caption = '[Hexia](@/w/hexia.md) vs Gracjan "Mario Rodriguez".', source = "Jędruś Bułecka's private archives" }
+04 = { path = "asmund-vs-hammer.webp", caption = "[Asmund](@/w/asmund.md) vs [Polish Hammer](@/w/jedrus-bulecka.md).", source = "Jędruś Bułecka's private archives" }
+05 = { path = "shadow-vs-joy.webp", caption = "[Shadow](@/w/shadow.md) vs [Justin Joy](@/w/justin-joy.md).", source = "Jędruś Bułecka's private archives" }
+06 = { path = "super-mario-jump.webp", caption = "Mario Rodriguez does a Super Mario-style jump from Hexia's back.", source = "Jędruś Bułecka's private archives" }
+07 = { path = "this-ones-for-the-ladies.webp", caption = "Justin's back!", source = "Jędruś Bułecka's private archives" }
+08 = { path = "krzeslo-dla-sedziego.webp", caption = "Justin Joy about to swing a chair at the referee, as [Shadow](@/w/shadow.md) beckons him over.", source = "Jędruś Bułecka's private archives" }
+09 = { path = "dizzy-is-dead.webp", caption = "Justin Joy, Shadow and the remains of a cracked egg.", source = "Jędruś Bułecka's private archives" }
