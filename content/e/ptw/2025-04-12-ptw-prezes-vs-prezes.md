@@ -52,7 +52,7 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
     nc: Walkover
     n: "As Lucia's never-revealed opponent did't make it, Lee automatically qualifies for the next round."
 - - 'Lucia Lee'
-  - 'El G'
+  - '[El G](@/w/el-g.md)'
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - s: 'International Showcase Triple Threat Match'
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
