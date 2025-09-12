@@ -194,13 +194,13 @@ In multiple Q&A sessions Pawłowski alluded that their next non-domestic show wo
 
 Following the upheaval of 2024, things have largely settled down in the following year. The promotion commited to the scaled-down format of smaller monthly shows, all in the same location of [Szafirowy Dwór](@/v/dworek-kozlow.md) in Kozłów.
 
-The year saw the debuts of many international wrestlers, such as El G and Ricky Eagle from Italy, Team Turbulence (Tommy Tornado & Tommy Torpedo), Andi ZickZack, Flex Skywalker and Nic Wesker from Austria, Lucy Couture from England, and most prominently, [Mercedes Moné](@/w/mercedes-mone.md) from the USA. Mercedes made an appearance at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), a show that was announced only eight days in advance. She faced [Diana Strong](@/w/diana-strong.md) in the main event, a match for the BestYa Women's Championship and the [PTW Women's Championship](@/c/ptw-womens-championship.md). Moné won the match, becoming the first PTW Women's Champion.
+The year saw the debuts of many international wrestlers, such as [El G](@/w/el-g.md) and Ricky Eagle from Italy, Team Turbulence (Tommy Tornado & Tommy Torpedo), Andi ZickZack, Flex Skywalker and Nic Wesker from Austria, Lucy Couture from England, and most prominently, [Mercedes Moné](@/w/mercedes-mone.md) from the USA. Mercedes made an appearance at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), a show that was announced only eight days in advance. She faced [Diana Strong](@/w/diana-strong.md) in the main event, a match for the BestYa Women's Championship and the [PTW Women's Championship](@/c/ptw-womens-championship.md). Moné won the match, becoming the first PTW Women's Champion. She later appeared with the belts at AEW Forbidden Door in London, as well as on AEW weekly TV back in the US.
 
-There were also the debuts of new Polish wrestlers: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md), [Daniel Razor](@/w/daniel-razor.md) and CJ Klakson (a former [KPW](@/o/kpw.md) trainee), in addition to a new commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) and [Krystian Smoleń](@/w/resivny.md). Additionally, [Sawicki](@/w/sawicki.md) made his first appearance in the PTW ring at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md), five years after joining the federation.
+A number of new Polish wrestlers made their debuts: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md), [Daniel Razor](@/w/daniel-razor.md) and CJ Klakson (a former [KPW](@/o/kpw.md) trainee), in addition to a new commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) and [Krystian Smoleń](@/w/resivny.md). Additionally, [Sawicki](@/w/sawicki.md) made his first appearance in the PTW ring at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md), five years after joining the federation.
 
 On the other hand, the reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) [Max Speed](@/w/max-speed.md) was fired from PTW for choosing to appear at [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), and his title was vacated. The [next event](@/e/ptw/2025-07-19-ptw-nietykalni.md) saw [Daniel Razor](@/w/daniel-razor.md) become the new Underground Champion.
 
-On the international front, the Austrian sister promotion PTW:WWA closed down. [Krampus](@/w/krampus.md), WWA's owner, remained on good terms with PTW and appeared at a couple shows. At the same time, PTW established cooperation with the Italian promotion BestYa Slam.
+On the international front, the Austrian sister promotion PTW:WWA closed down. [Krampus](@/w/krampus.md), WWA's owner, remained on good terms with PTW and appeared at a couple of shows. At the same time, PTW established cooperation with the Italian promotion BestYa Slam.
 
 ## Polish wrestling scene
 
@@ -224,14 +224,14 @@ One of the main selling points of PTW, differentiating them from their competiti
 At [PTW 3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) it was announced that [Santino Marella](@/w/santino.md), former long-time WWE star, would become one of the organization's co-owners.
 This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW 5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator, and suprise entrant in the Gold Rush Rumble.
 
-Later, PTW entered into collaboration with Austrian wrestler Krampus and his new organization, World Wrestling Austria.
+In 2022, PTW entered into collaboration with Austrian wrestler Krampus and his new organization, World Wrestling Austria.
 It was quickly renamed to _PTW: WWA_ and became a de facto "sister federation" ran by Krampus with assistance from Pawłowski.
 This cooperation allowed PTW talent to be booked at the PTW: WWA show on 2024-01-05.
 See the [Expansion into Austria](#expansion-into-austria) section above.
 
 PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion [Scotty Rawk](@/w/scotty-rawk.md) to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed, on a [livestream][live-istota-puncher] by Istota Wrestlingu, that the deal is still on.
 
-In the early September 2024, PTW announced they'd be sending a team of wrestlers to _Botte da BestYa 2_, an event by the Italian organization ICW happening on September 15, 2024. This team consisted of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent: [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who defended his championship.
+In the early September 2024, PTW announced they'd be sending a team of wrestlers to _Botte da BestYa 2_, an event by the Italian organization ICW happening on September 15, 2024. This team consisted of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent: [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who defended his championship. Later in 2025, this turned into a tighter cooperation with a new Italian promotion named BestYa Slam.
 
 One remarkable deal between PTW and a bigger promotion was an agreement with Impact Wrestling, for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md).
 
@@ -242,9 +242,9 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
   - '[Puncher](@/w/puncher.md)'
   - Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-  - "[L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md)"
+  - "[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md)"
   - >
-    Defeated Budapest Bastards: [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md) at [PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md).
+    Defeated [L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md) at  [PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - 'Defeated ["Starboy" Nano Lopez](@/w/nano-lopez.md) at [PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) for the vacated title.'
