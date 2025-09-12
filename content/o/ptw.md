@@ -190,6 +190,18 @@ PTW increased the number of their championships: [Max Speed](@/w/max-speed.md) w
 
 In multiple Q&A sessions Pawłowski alluded that their next non-domestic show would be at Ryucon 2025. However, Ryucon eventually decided to host another federation and the supposed PTW show became [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 
+### 2025
+
+Following the upheaval of 2024, things have largely settled down in the following year. The promotion commited to the scaled-down format of smaller monthly shows, all in the same location of [Szafirowy Dwór](@/v/dworek-kozlow.md) in Kozłów.
+
+The year saw the debuts of many international wrestlers, such as El G and Ricky Eagle from Italy, Team Turbulence (Tommy Tornado & Tommy Torpedo), Andi ZickZack, Flex Skywalker and Nic Wesker from Austria, Lucy Couture from England, and most prominently, [Mercedes Moné](@/w/mercedes-mone.md) from the USA. Mercedes made an appearance at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), a show that was announced only eight days in advance. She faced [Diana Strong](@/w/diana-strong.md) in the main event, a match for the BestYa Women's Championship and the [PTW Women's Championship](@/c/ptw-womens-championship.md). Moné won the match, becoming the first PTW Women's Champion.
+
+There were also the debuts of new Polish wrestlers: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md), [Daniel Razor](@/w/daniel-razor.md) and CJ Klakson (a former [KPW](@/o/kpw.md) trainee), in addition to a new commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) and [Krystian Smoleń](@/w/resivny.md). Additionally, [Sawicki](@/w/sawicki.md) made his first appearance in the PTW ring at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md), five years after joining the federation.
+
+On the other hand, the reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) [Max Speed](@/w/max-speed.md) was fired from PTW for choosing to appear at [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), and his title was vacated. The [next event](@/e/ptw/2025-07-19-ptw-nietykalni.md) saw [Daniel Razor](@/w/daniel-razor.md) become the new Underground Champion.
+
+On the international front, the Austrian sister promotion PTW:WWA closed down. [Krampus](@/w/krampus.md), WWA's owner, remained on good terms with PTW and appeared at a couple shows. At the same time, PTW established cooperation with the Italian promotion BestYa Slam.
+
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) and [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
