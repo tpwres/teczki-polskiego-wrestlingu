@@ -77,7 +77,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 **TOTAL:** 223 days.
 
-While Boro never defended the title, he was also recognized as a champion per the [Freebird Rule][freebird-rule.
+While Boro never defended the title, he was also recognized as a champion per the [Freebird Rule][freebird-rule].
 
 ### Champions #2: Budapest Bastards: Renegade & Nitro
 
