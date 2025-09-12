@@ -75,7 +75,7 @@ All these issues caused a lot of controversy, angering the fans who were demandi
 
 _See also: [PTW Exits: 2023](@/a/ptw-exits.md#2023-mystery)._
 
-After voicing their frustrations on social media, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a [series of screenshots](@/w/justin-joy.md#Gallery) from his social media where he addressed the situation).
+After voicing their frustrations on social media, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
 
 In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024.
