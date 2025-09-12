@@ -13,11 +13,10 @@ country = ["PL"]
 * Years active: 2025-present
 * Gimmicks/nicknames:
   - Sigma Boy xD {{ org_badge(org='ptw') }}
-  
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md)
   - [Max Speed](@/w/max-speed.md)
- 
+
 ## Professional wrestling career
 
 ### Prime Time Wrestling (2025-present)
@@ -34,7 +33,7 @@ Additionally, as part of the new working relationship between PTW and the Austri
 ## In wrestling
 
 * Finishers:
-  - _Sigma Destroyer_(Canadian destroyer) (2025-)
+  - _Sigma Destroyer_ (Canadian destroyer) (2025-)
 * Entrance music:
   - "Sigma Boy" by Betsy & Maria Yankovskaya
     {{ org_badge(org='ptw') }} (2025-) <br>
