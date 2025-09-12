@@ -1,1 +1,8 @@
-01 = { path = "bol-istnienia-plakat.webp", caption = "Official poster. Clockwise, from the top: [Puncher](@/w/puncher.md), [Miyagi Shida](@/w/miyagi-shida.md), [Daniel Razor](@/w/daniel-razor.md), El G, [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md), [Spartan](@/w/spartan.md), [Sigma Boy xD](@/w/sigma-boy.md), [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook" }
+[01]
+path = "bol-istnienia-plakat.webp"
+caption = """\
+    Official poster. Clockwise, from the top: [Puncher](@/w/puncher.md), [Miyagi Shida](@/w/miyagi-shida.md), [Daniel Razor](@/w/daniel-razor.md),
+    [El G](@/w/el-g.md), [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md),
+    [Spartan](@/w/spartan.md), [Sigma Boy xD](@/w/sigma-boy.md), [Alex Brave](@/w/alex-brave.md).
+"""
+source = "Official PTW Facebook"

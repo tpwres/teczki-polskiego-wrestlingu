@@ -36,7 +36,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
   - 'Flex Skywalker'
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Andi ZickZack'
-- - 'El G'
+- - '[El G](@/w/el-g.md)'
   - '[Luca Bjorn](@/w/luca-bjorn.md)'
   - 'Nic Wesker'
   - 'Pedro'

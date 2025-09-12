@@ -43,7 +43,7 @@ The title was first mentioned in a December 2024 interview for the [MyWrestling 
     en: '[PTW Charity Picnic](@/e/ptw/2025-06-01-ptw-charity-picnic.md)'
     ed: 2025-06-01
 - - 'Max Speed(c)'
-  - 'El G'
+  - '[El G](@/w/el-g.md)'
   - s: Singles Match
     en: '[PTW Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
     ed: 2025-06-28

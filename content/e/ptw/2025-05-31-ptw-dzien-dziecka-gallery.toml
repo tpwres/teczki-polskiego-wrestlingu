@@ -1,7 +1,7 @@
 001 = { path = "dzien-dziecka-plakat.webp", caption = "Official poster featuring, top: [Prezes Okoński](@/w/lukasz-okonski.md), [Max Speed](@/w/max-speed.md), [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md), [Miyagi Shida](@/w/miyagi-shida.md); middle: [Sigma Boy xD](@/w/sigma-boy.md), [Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md); bottom: [Alex Brave](@/w/alex-brave.md), [Serg Sullivan](@/w/serg-sullivan.md), [Puncher](@/w/puncher.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }
 002 = { path = "nano-lopez-juz-leci.webp", caption = "Image announcing the return of [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
 003 = { path = "puncher-vs-rodgers.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs Ben Rodgers.", source = "Official PTW Facebook" }
-004 = { path = "sigma-g.webp", caption = "Image announcing [Sigma Boy xD](@/w/sigma-boy.md) vs El G.", source = "Official PTW Facebook" }
+004 = { path = "sigma-g.webp", caption = "Image announcing [Sigma Boy xD](@/w/sigma-boy.md) vs [El G](@/w/el-g.md).", source = "Official PTW Facebook" }
 005 = { path = "shidallivan.webp", caption = "Image announcing [Miyagi Shida](@/w/miyagi-shida.md) vs [Serg Sullivan](@/w/serg-sullivan.md).", source = "Official PTW Facebook" }
 006 = { path = "szybki-gulasz.webp", caption = "Image announcing Gulyás Öcsi vs [Max Speed](@/w/max-speed.md).", source = "Official PTW Facebook" }
 007 = { path = "diara.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Kiara.", source = "Official PTW Facebook" }

@@ -40,7 +40,7 @@ toclevel = 2
   - s: 'Tag Team match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Spartan](@/w/spartan.md)'
-  - 'El G & Conte McStevenson'
+  - '[El G](@/w/el-g.md) & Conte McStevenson'
   - s: Handicap Match
 - - '[Daniel Razor](@/w/daniel-razor.md)(c)'
   - 'Duxx'
