@@ -26,6 +26,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * On 3.09.2025 PpW announced a match between [Dobroniak](@/w/stanislaw-van-dobroniak.md) (XXI - The World; billed as Wujek - _Uncle_ - Dobroniak) and [Agentka Agatka](@/w/agentka-agatka.md) (III - The Empress), for the custody of Oskar Alexander.
 * On 6.09.2025 PpW announced [Oskar Alexander](@/w/oskar-alexander.md) (X - Wheel of Fortune) vs [Johnny Blade](@/w/johnny-blade.md) (V - Hierophant) in a Hardcore match.
 * On 8.09.2025 PpW announced [Marco Hammers](@/w/marco-hammers.md) (XVI - The Tower) vs [Axel Fox](@/w/axel-fox.md) (XI - Justice).
+* On 12.09.2025 PpW announced [Marcelito](@/w/marcelito.md) (XVIII - The Moon) & [Sambor](@/w/sambor.md) (IX - The Hermit) vs [Sentinel](@/w/sentinel.md) (I - The Magician) & [Wonder Haze](@/w/wonder-haze.md) (XII - The Hanged Man).
 
 ## Card
 
@@ -33,12 +34,6 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 - - '[_The Fool_ Goblin](@/w/goblin.md)(c)'
   - '[_The Star_ Robert Star](@/w/robert-star.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
-- - '[_The Lover_ Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[_Strength_ Biesiad Strong](@/w/biesiad.md)'
-  - '[_Death_ Olgierd](@/w/olgierd.md)'
-  - '[_The Devil_ Vic Golden](@/w/vic-golden.md)'
-  - s: Total Elimination Fatal 4-Way Match
     nc: upcoming
 - - '[_The World_ Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[_The Empress_ Agentka Agatka](@/w/agentka-agatka.md)'
@@ -51,6 +46,16 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 - - '[_The Tower_ Marco Hammers](@/w/marco-hammers.md)'
   - '[_Justice_ Axel Fox](@/w/axel-fox.md)'
   - nc: upcoming
+- - '[_The Moon_ Marcelito](@/w/marcelito.md) & [_The Hermit_ Sambor](@/w/sambor.md)'
+  - '[_The Magician_ Sentinel](@/w/sentinel.md) & [_The Hanged Man_ Wonder Haze](@/w/wonder-haze.md)'
+  - s: Tag Team Match 
+    nc: upcoming
+- - '[_The Lover_ Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[_Strength_ Biesiad Strong](@/w/biesiad.md)'
+  - '[_Death_ Olgierd](@/w/olgierd.md)'
+  - '[_The Devil_ Vic Golden](@/w/vic-golden.md)'
+  - s: Total Elimination Fatal 4-Way Match
+    nc: upcoming
 {% end %}
 
 ### Recap
