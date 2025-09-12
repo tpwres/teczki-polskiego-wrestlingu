@@ -152,3 +152,8 @@ path = "nowa-strona-2.webp"
 caption = "The &quot;new&quot;, generic cybersquatted website's Blog section. Note the extremely low-quality ad for online casino games."
 source = "primetimewrestling.pl"
 skip_art = true
+
+[28]
+path = "loteria-ptw-banner.webp"
+caption = "The PTW lottery banner, featuring [Spartan](@/w/spartan.md), [Longman](@/w/wiktor-longman.md) and [Puncher](@/w/puncher.md) next to the main prize, the Nissan GTR."
+source = "nofsza.pl"
