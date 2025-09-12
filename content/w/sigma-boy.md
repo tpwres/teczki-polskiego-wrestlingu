@@ -28,7 +28,7 @@ At [PTW: Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md) Sigma B
 
 [Pan Pawłowski](@/w/pan-pawlowski.md) started to set his sights on Sigma, trying to provide him with unsolicited "guidance". As part of that storyline, he gave Sigma a match for the BestYa Slam Championship against [Dawid "Puncher" Seńko](@/w/puncher.md) at [PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). Still in the infancy stage of his career, Sigma Boy xD failed to defeat the reigning champion. 
 
-At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Boy scored his first victory against El G.
+At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Boy scored his first victory against [El G](@/w/el-g.md).
 Additionally, as part of the new working relationship between PTW and the Austrian promotion Rings of Europe, he was announced to compete at the promotion's SummerCrush show on 25.07.2025, marking his international debut.
 
 ## In wrestling
