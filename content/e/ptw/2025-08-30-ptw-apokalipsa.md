@@ -50,7 +50,7 @@ toclevel = 2
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - - 'CJ Klakson'
-  - 'Nick Wesker'
+  - 'Nic Wesker'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '["The Enygma" Serg Sullivan](@/w/serg-sullivan.md) w/ "The Bat" Lesya Sullivan'
   - s: 'Casket match'
