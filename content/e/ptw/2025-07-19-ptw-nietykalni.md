@@ -105,4 +105,4 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * [CJ Klakson's Instagram profile](https://www.instagram.com/cjklaksonpl/)
 * [Official YouTube livestream - requires paid subscription](https://www.youtube.com/watch?v=CnhiLoDF1xw)
 * [Nic Wesker Instagram](https://www.instagram.com/nic_wskr/)
-* [Ricky Eagle Instagram[(https://www.instagram.com/ricky_eagle_wrestling_/)
+* [Ricky Eagle Instagram](https://www.instagram.com/ricky_eagle_wrestling_/)
