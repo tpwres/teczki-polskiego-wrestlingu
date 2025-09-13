@@ -13,19 +13,18 @@ toclevel = 2
 
 On 6.09.2025 KPW held an event in the village of [Kadzidło][kadzidlo], as part of the local [harvest festival][dozynki]. The event was not promoted on their usual social media channels. It was also the first time since [OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md) back in 2019 that the organization held a show outside of the Tricity area, other than at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md).
 
-Match card unofficial, based on available pictures and videos.
-
 ## Card
 
-{% card(incomplete=true) %}
-- - '[Zefir](@/w/zefir.md)'
+{% card() %}
+- - '[Zefir](@/w/zefir.md)(c)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - s: '[KPW Championship](@/c/kpw-championship.md)'
 - - '[Tomczak](@/w/tomczak.md)'
   - 'The Rookies: [_rookie_ Adam](@/w/adam-wong.md) & Rookie Two & Rookie Three'
   - s: 3-on-1 Handicap Match
-    nc: '?'
-- - '[Leon Lato](@/w/leon-lato.md)'
+- - '[Leon Lato](@/w/leon-lato.md)(c)'
   - '[Chemik](@/w/chemik.md)'
+  - s: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Callum Beck](@/w/callum-beck.md) & [Louis Basham](@/w/louis-basham.md)'
   - '[Filip Fux](@/w/filip-fux.md) & Oskar Fux'
   - s: Tag-Team Match
@@ -50,9 +49,8 @@ Match card unofficial, based on available pictures and videos.
 {% end %}
 
 ### Highlights
-* [Zefir](@/w/zefir.md) came out wearing his [KPW Championship](@/c/kpw-championship.md), but it is unknown whether or not the match was for the title and if [Eryk Lesak](@/w/eryk-lesak.md) cashed in his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
+* It is unknown whether or not [Eryk Lesak](@/w/eryk-lesak.md) cashed in his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
 * For [Tomczak](@/w/tomczak.md) vs The Rookies, which harkened back to their match from GZ'25, Rookie One was replaced by [Adam](@/w/adam-wong.md). He was the first to be eliminated by Tomczak.
-* Like Zefir, [Leon Lato](@/w/leon-lato.md) also came out wearing his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) but again, it is unknown if the title was at stake.
 * [Michał Fux](@/w/michal-fux.md) did not appear at this show; instead, Filip teamed up with an Oskar Fux (repackaged Rookie One from GZ'25), wearing the same Fux trousers.
 * [Callum Beck](@/w/callum-beck.md) hit Oskar Fux with a chair while the referee was distracted by Louis Basham, securing a victory.
 * The three rookies managed to get their revenge on Tomczak by eliminating him with combined forces during the Battle Royal.
