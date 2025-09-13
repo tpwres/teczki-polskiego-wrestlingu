@@ -250,7 +250,7 @@ Both defenses took place during events held by Bologna Wrestling Team.
 - - 'Zefir (c)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - s: Singles Match
-    en: '[KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md)
+    en: '[KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md)'
     ed: 2025-09-06
 {% end %}
 
