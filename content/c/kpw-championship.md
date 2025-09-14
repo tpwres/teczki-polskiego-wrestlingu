@@ -247,6 +247,11 @@ Both defenses took place during events held by Bologna Wrestling Team.
   - s: Singles Match
     en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
     ed: 2025-08-22
+- - 'Zefir (c)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - s: Singles Match
+    en: '[KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md)'
+    ed: 2025-09-06
 {% end %}
 
 ## References
