@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [15.57173, 51.39407]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Baza wojskowa w Trzebieniu",
+        "description": "Military base in Trzebień where [KPW](@/o/kpw.md) held [a show](@/e/kpw/2025-09-13-kpw-trzebien.md) in 2025.",
+        "orgs": ["kpw"]
+    }
+}

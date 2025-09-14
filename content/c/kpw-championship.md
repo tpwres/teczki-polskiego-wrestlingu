@@ -252,6 +252,11 @@ Both defenses took place during events held by Bologna Wrestling Team.
   - s: Singles Match
     en: '[KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md)'
     ed: 2025-09-06
+- - 'Zefir (c)'
+  - 'Hans Schulte'
+  - s: Singles Match
+    en: '[KPW in Trzebień](@/e/kpw/2025-09-13-kpw-trzebien.md)'
+    ed: 2025-09-13
 {% end %}
 
 ## References
