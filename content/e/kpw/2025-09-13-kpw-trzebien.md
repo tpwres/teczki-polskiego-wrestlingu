@@ -12,6 +12,8 @@ toclevel = 2
 
 On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a local military base. The event was not promoted on their usual social media channels.
 
+Card incomplete, based on available sources.
+
 ## Card
 
 {% card(incomplete=true) %}
