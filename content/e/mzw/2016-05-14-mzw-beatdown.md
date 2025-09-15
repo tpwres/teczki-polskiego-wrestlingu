@@ -26,12 +26,16 @@ skip_art = true
 
 {% card() %}
 - - '[Dynamite Dave](@/w/dynamite-dave.md)'
-  - '[Alexander Reich](@/w/alex-ace.md)'
-- - '[Zeritus](@/w/zeritus.md) w/ [Hexia](@/w/hexia.md)'
-  - '[Ronny Kessler](@/w/ronny-kessler.md)'
+  - 'Black Phantom'
 - - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
-  - '??? & [Mr B.](@/w/mr-b.md)'
+  - '[Szymon Kolanus](@/w/blue-thunder.md) & [Mr B.](@/w/mr-b.md)'
   - s: 'Two on One Handicap Match'
+    n: 'Szymon's Open Challenge'
+
+- - '[Zeritus](@/w/zeritus.md) w/ [Hexia](@/w/hexia.md)'
+  - '[Ronzen](@/w/ronny-kessler.md)'
+
+
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Red Thunder](@/w/red-thunder.md)'
   - r: 'DQ'
@@ -45,9 +49,16 @@ skip_art = true
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: Loser Leaves Town Match
 - credits:
+    Referee: '[Manny](@/w/manny.md)'
+    Ring announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Commentary (DVD): '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), Marcel Koniecki'
     Commentary (YouTube): 'Adam "Omega" Sekuła, Wojciech "Vice" Baranowski'
 {% end %}
+
+### Highlights
+
+* [Mr B.](@/w/mr-b.md) spent the final moments of the match strolling outside the ring, blowing up balloons.
+* 
 
 ## References
 
