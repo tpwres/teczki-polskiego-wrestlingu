@@ -27,6 +27,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * On 6.09.2025 PpW announced [Oskar Alexander](@/w/oskar-alexander.md) (X - Wheel of Fortune) vs [Johnny Blade](@/w/johnny-blade.md) (V - Hierophant) in a Hardcore match.
 * On 8.09.2025 PpW announced [Marco Hammers](@/w/marco-hammers.md) (XVI - The Tower) vs [Axel Fox](@/w/axel-fox.md) (XI - Justice).
 * On 12.09.2025 PpW announced [Marcelito](@/w/marcelito.md) (XVIII - The Moon) & [Sambor](@/w/sambor.md) (IX - The Hermit) vs [Sentinel](@/w/sentinel.md) (I - The Magician) & [Wonder Haze](@/w/wonder-haze.md) (XII - The Hanged Man).
+* On 15.08.2025 PpW announced the continuation of "Plata's Grand Trials" (_Wielkie Testy Platy_), with [Bartosz Plata](@/w/plata.md) as XIV - Temperance (misspelled as "Temprance").
 
 ## Card
 
