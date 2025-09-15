@@ -18,7 +18,12 @@ They feuded over the titles with Bracia Fux, defending them successfully on the 
 
 As a team, they employed straightforward, classic foreign heel gimmicks, especially playing up the "evil German" stereotype.
 
+The 2025 [house show at Trzebień](@/e/kpw/2025-09-13-kpw-trzebien.md) saw the debut of "Die Ordnung 2.0", consisting of Einer Amussen and Friedrich Pohlmann (according to [CageMatch][cm-trzebien-wyniki]) or Franz & Friedrich (according to [KPW's Facebook post][kpw-trzebien-wyniki]).
+
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time)
+
+[cm-trzebien-wyniki]: https://www.cagematch.net/?id=1&nr=434839
+[kpw-trzebien-wyniki]: https://www.facebook.com/kpwrestling/posts/pfbid07wCQeqXmMLpXYmRBarHohJA9dKzLUcKpuGa6nHcGEUjdmZXRYU95yiTDcuiAdMn4l

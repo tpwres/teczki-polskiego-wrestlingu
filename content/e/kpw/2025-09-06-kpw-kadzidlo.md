@@ -26,7 +26,7 @@ On 6.09.2025 KPW held an event in the village of [Kadzidło][kadzidlo], as part 
   - '[Chemik](@/w/chemik.md)'
   - s: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Callum Beck](@/w/callum-beck.md) & [Louis Basham](@/w/louis-basham.md)'
-  - '[Filip Fux](@/w/filip-fux.md) & Oskar Fux'
+  - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & Oskar Fux'
   - s: Tag-Team Match
 - - '[Filip Fux](@/w/filip-fux.md)'
   - '[Callum Beck](@/w/callum-beck.md)'
