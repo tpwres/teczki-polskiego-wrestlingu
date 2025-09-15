@@ -22,7 +22,7 @@ Bracia Fux are a Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) 
 
 [Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md) made their debuts at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). Working as a tag team called Bracia Fux (_the Fux Brothers_), the two kayfabe siblings faced a one-off team of [Eryk Lesak](@/w/eryk-lesak.md) and [Piotr Opolski](@/w/piotr-opolski.md), whom they defeated. The [next show](@/e/kpw/2022-03-18-kpw-arena-18.md) saw them in another tag match, but the two Fuxes quickly branched off into singles competition starting with [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md). Since then they have appeared solo as well as together in roughly equal measure.
 
-In 2025, when KPW held house shows in various locations in Poland (such as [Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md) and [Trzebień](@/e/kpw/2025-09-13-kpw-trzebien.md)), a third brother joined the tag team: Oskar Fux.
+In 2025, when KPW held house shows in various locations in Poland (such as [Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md) and [Trzebień](@/e/kpw/2025-09-13-kpw-talon-smackdown.md)), a third brother joined the tag team: Oskar Fux.
 
 #### Championship pursuits
 

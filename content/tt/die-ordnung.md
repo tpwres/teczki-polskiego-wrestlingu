@@ -18,7 +18,7 @@ They feuded over the titles with Bracia Fux, defending them successfully on the 
 
 As a team, they employed straightforward, classic foreign heel gimmicks, especially playing up the "evil German" stereotype.
 
-The 2025 [house show at Trzebień](@/e/kpw/2025-09-13-kpw-trzebien.md) saw the debut of "Die Ordnung 2.0", consisting of Einar Asmussen & Friedrich Pohlmann and Friedrich Pohlmann (according to [Cagematch][cm-trzebien-wyniki]) or Franz & Friedrich (according to [KPW's Facebook post][kpw-trzebien-wyniki]).
+The 2025 [Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md) event saw the debut of "Die Ordnung 2.0", consisting of Einar Asmussen & Friedrich Pohlmann and Friedrich Pohlmann (according to [Cagematch][cm-trzebien-wyniki]) or Franz & Friedrich (according to [KPW's Facebook post][kpw-trzebien-wyniki]).
 
 ## Championships and accomplishments
 
