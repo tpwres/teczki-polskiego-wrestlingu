@@ -14,7 +14,7 @@ On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a lo
 
 ## Card
 
-{% card() %}
+{% card(unofficial=true) %}
 - - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md) & Oskar Fux'
   - '[Die Ordnung 2.0](@/tt/die-ordnung.md): Einar Asmussen & Friedrich Pohlmann'
   - s: Tag-Team Match
@@ -41,6 +41,8 @@ On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a lo
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
+
+Note: there are discrepancied between Cagematch and the official KPW Facebook with regards to some names, therefore the above card should be considered unofficial and is subject to change.
 
 ## References
 
