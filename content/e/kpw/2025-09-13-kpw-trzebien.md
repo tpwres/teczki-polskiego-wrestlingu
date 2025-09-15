@@ -42,7 +42,7 @@ On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a lo
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
-Note: there are discrepancied between Cagematch and the official KPW Facebook with regards to some names, therefore the above card should be considered unofficial and is subject to change.
+Note: there are discrepancies between Cagematch and the official KPW Facebook with regards to some names, therefore the above card should be considered unofficial and is subject to change.
 
 ## References
 
