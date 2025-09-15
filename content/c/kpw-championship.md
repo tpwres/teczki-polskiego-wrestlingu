@@ -254,7 +254,7 @@ Both defenses took place during events held by Bologna Wrestling Team.
     ed: 2025-09-06
 - - 'Zefir (c)'
   - 'Hans Schulte'
-  - s: Singles Match
+  - s: 'No-DQ Match'
     en: '[KPW in Trzebień](@/e/kpw/2025-09-13-kpw-trzebien.md)'
     ed: 2025-09-13
 {% end %}
