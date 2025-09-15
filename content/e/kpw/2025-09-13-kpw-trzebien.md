@@ -29,7 +29,7 @@ On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a lo
     s: 'No-DQ Match'
 - - '[Michał Fux](@/w/michal-fux.md)'
   - '[Chemik](@/w/chemik.md)'
-  - 'Einar Amussen'
+  - 'Einar Asmussen'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - 'Friedrich Pohlmann'
   - '[Hans Schulte](@/w/hans-schulte.md)'
