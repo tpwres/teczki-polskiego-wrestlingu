@@ -16,7 +16,7 @@ On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a lo
 
 {% card() %}
 - - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md) & Oskar Fux'
-  - '[Die Ordnung 2.0](@/tt/die-ordnung.md): Einer Amussen & Friedrich Pohlmann'
+  - '[Die Ordnung 2.0](@/tt/die-ordnung.md): Einar Asmussen & Friedrich Pohlmann'
   - s: Tag-Team Match
 - - '[Chemik](@/w/chemik.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
