@@ -51,6 +51,10 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   - '[_The Magician_ Sentinel](@/w/sentinel.md) & [_The Hanged Man_ Wonder Haze](@/w/wonder-haze.md)'
   - s: Tag Team Match 
     nc: upcoming
+- - '[_Temperance_ Bartosz Plata](@/w/plata.md)'
+  - '???'
+  - s: 'Wielkie Testy Platy'
+    nc: upcoming
 - - '[_The Lover_ Gabriel Queen](@/w/gabriel-queen.md)'
   - '[_Strength_ Biesiad Strong](@/w/biesiad.md)'
   - '[_Death_ Olgierd](@/w/olgierd.md)'
