@@ -255,7 +255,7 @@ Both defenses took place during events held by Bologna Wrestling Team.
 - - 'Zefir (c)'
   - 'Hans Schulte'
   - s: 'No-DQ Match'
-    en: '[KPW in Trzebień](@/e/kpw/2025-09-13-kpw-trzebien.md)'
+    en: '[KPW Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md)'
     ed: 2025-09-13
 {% end %}
 
