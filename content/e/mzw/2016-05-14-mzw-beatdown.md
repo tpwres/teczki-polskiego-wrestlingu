@@ -30,7 +30,7 @@ skip_art = true
 - - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
   - '[Szymon Kolanus](@/w/blue-thunder.md) & [Mr B.](@/w/mr-b.md)'
   - s: 'Two on One Handicap Match'
-    n: 'Szymon's Open Challenge'
+    n: "Szymon's Open Challenge"
 
 - - '[Zeritus](@/w/zeritus.md) w/ [Hexia](@/w/hexia.md)'
   - '[Ronzen](@/w/ronny-kessler.md)'
