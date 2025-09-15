@@ -1,7 +1,8 @@
 +++
-title = "KPW in Trzebień"
+title = "KPW Talon Smackdown"
 template = "event_page.html"
 authors = ["M3n747"]
+aliases = ["/e/kpw/2025-09-13-kpw-trzebien"]
 [taxonomies]
 chronology = ["kpw"]
 venue=["trzebien-baza"]
