@@ -2,7 +2,7 @@
 title = "PTW: Ból Istnienia"
 template = "event_page.html"
 aliases = ["/e/ptw/2025-09-27-ptw-bol-istnienia"]
-authors = ["M3n747"]
+authors = ["M3n747, Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -18,14 +18,27 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 
 ## Build up
 
-* TBD
+* A new character Vangör Ragnarök continues to tease his arrival in PTW over previous month, with cryptic videos on his Instagram profile. On 14.09 he posted a [cryptic video](https://www.instagram.com/p/DOlxb9BDOvR/), depicting a chair standing in the middle of PTW arena and still frames referencing next show, hinting that his debut will take place at Ból istnienia. The character teases strongly reference Nordic mythology, presenting a hooded bearded figure, covered in rune tattoos. Most of the videos are kept in black and purple color palette, including effects such as: distorted audio and video, viking-style singing and crow caws.
+* On 15.09 it was [confirmed](https://www.facebook.com/photo?fbid=831922392493738&set=a.136592408693410) that after the revelation from [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), [Łukasz Okoński](@/w/lukasz-okonski.md) will address the allegations that he is a father of [Sigma Boy xD](@/w/sigma-boy.md)
+* After the contender's match against [Spartan](@/w/spartan.md) did not come to fruition, [Damian Lambert](@/w/damian-lambert.md) was awarded with number one contendership to [PTW Championship](@/c/ptw-championship.md). On 16.09 it was confirmed he will face [Dawid "Puncher" Seńko](@/w/puncher.md) at Ból Istnienia
 
 ## Card
 
-{{ skip_card() }}
+{% card(predicted=true) %}
+
+- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - g: 'Okoński addresses the situation with his illegitimate son'
+    nc: upcoming
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - '[Damian Lambert](@/w/damian-lambert.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
+
+{% end %}
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=433783)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
 * [Facebook post announcing the new date](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1396361291461288)
+* [Vangör Ragnarök Instagram](https://www.instagram.com/vangor_ragnarok/)
