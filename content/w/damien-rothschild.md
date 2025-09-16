@@ -49,7 +49,7 @@ Following his defeat, Rotschild retired from professional wrestling.
 
 ### Surprise return and Prime Time Wrestling (2025-)
 
-On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). He continued to appear for the promotion over next months, earning a shot for [PTW Championship](@/c/ptw-championship.md).
+On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). He continued to appear for the promotion over the following months, earning a shot for the [PTW Championship](@/c/ptw-championship.md).
 
 ## In wrestling 
 
