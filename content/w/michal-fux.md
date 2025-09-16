@@ -30,7 +30,7 @@ As the Fux Brothers, Michał and Filip won the [KPW Tag Team Championship](@/c/k
 
 In October 2024 KPW's chairman [Krystian Malinowski](@/w/krystian-malinowski.md) announced a new tournament for #1 Contendership for the [KPW Championship](@/c/kpw-championship.md), called ["Wyścig"](@/e/kpw/2024-11-15-kpw-arena-26.md) (_The Race_). Both of the Fux Brothers entered the tournament and won their matches in the quarter finals, with Michał scoring a victory against [Chemik](@/w/chemik.md). In the finals - which were merged into a single Triple Threat Match - Michał and Filip stood against one another and [David Oliwa](@/w/david-oliwa.md). Michał won the match, which would lead him into a match with the reigning champion - [Hans Schulte](@/w/hans-schulte.md).
 
-As of February 2025, Michał is the only active KPW wrestler who's never missed a single show since his debut.
+Up until August 2025 Michał was the only active KPW wrestler who'd never missed a single show since his debut. This streak, however, was broken in September, when he didn't appear at the [house show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md).
 
 ### Legacy of Wrestling (2025)
 
