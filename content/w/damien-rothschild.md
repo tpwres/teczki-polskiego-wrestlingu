@@ -14,7 +14,7 @@ Damian Lambert - also known as Damien Rothschild - is a Polish wrestler currentl
 
 * Years active: 2015-2019, 2025-
 * Gimmicks/nicknames:
-  - Damian Lambert {{ org_badge(orgs=['ddw', 'kpw']) }}
+  - Damian Lambert {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
   - Damien Rotschild {{ org_badge(orgs=['mzw']) }}
 * Trained by:
   - DDW Academy (201?-2015)
