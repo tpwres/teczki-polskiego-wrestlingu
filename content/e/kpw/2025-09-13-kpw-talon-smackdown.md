@@ -11,13 +11,15 @@ city = "Trzebień"
 toclevel = 2
 +++
 
-On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a local military base. The event was not promoted on their usual social media channels.
+On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a local US Army military base in front of an audience of American soldiers. As a result, the show was entirely in English.
+
+The event was not promoted on KPW's usual social media channels.
 
 ## Card
 
-{% card(unofficial=true) %}
+{% card() %}
 - - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md) & Oskar Fux'
-  - '[Die Ordnung 2.0](@/tt/die-ordnung.md): Einar Asmussen & Friedrich Pohlmann'
+  - '[Die Ordnung 2.0](@/tt/die-ordnung.md): Franz & Friedrich'
   - s: Tag-Team Match
 - - '[Chemik](@/w/chemik.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
@@ -30,9 +32,9 @@ On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a lo
     s: 'No-DQ Match'
 - - '[Michał Fux](@/w/michal-fux.md)'
   - '[Chemik](@/w/chemik.md)'
-  - 'Einar Asmussen'
+  - 'Franz'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - 'Friedrich Pohlmann'
+  - 'Friedrich'
   - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - 'Oskar Fux'
@@ -42,8 +44,6 @@ On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a lo
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
-
-Note: there are discrepancies between Cagematch and the official KPW Facebook with regards to some names, therefore the above card should be considered unofficial and is subject to change.
 
 ## References
 
