@@ -1,5 +1,5 @@
 +++
-title = "Damien Rothschild"
+title = "Damian Lambert"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [extra]
@@ -8,13 +8,13 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Damien Rothschild - also known Damian Lambert - is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Kombat Pro Wrestling](@/o/kpw.md) and [Do Or Die Wrestling](@/o/ddw.md).
+Damian Lambert - also known as Damien Rothschild - is a Polish wrestler currently working for [Prime Time Wrestling](@/o/ptw.md). He also worked for [Kombat Pro Wrestling](@/o/kpw.md), [Do Or Die Wrestling](@/o/ddw.md) and [Maniac Zone Wrestling](@/o/mzw.md) (as Damien Rothschild).
 
 ## Basic info
 
-* Years active: 2015-2019
+* Years active: 2015-2019, 2025-
 * Gimmicks/nicknames:
-  - Damian Lambert {{ org_badge(orgs=['ddw', 'kpw']) }}
+  - Damian Lambert {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
   - Damien Rotschild {{ org_badge(orgs=['mzw']) }}
 * Trained by:
   - DDW Academy (201?-2015)
@@ -49,7 +49,7 @@ Following his defeat, Rotschild retired from professional wrestling.
 
 ### Surprise return and Prime Time Wrestling (2025-)
 
-On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md).
+On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). He continued to appear for the promotion over the following months, earning a shot for the [PTW Championship](@/c/ptw-championship.md).
 
 ## In wrestling 
 
