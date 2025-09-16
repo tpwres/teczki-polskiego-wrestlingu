@@ -120,4 +120,9 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
+- - 'Puncher(c)'
+  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - s: Singles Match
+    en: '[Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
+    ed: 2025-09-28
 {% end %}

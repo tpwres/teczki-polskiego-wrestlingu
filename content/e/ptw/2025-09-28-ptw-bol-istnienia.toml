@@ -6,3 +6,8 @@ caption = """\
     [Spartan](@/w/spartan.md), [Sigma Boy xD](@/w/sigma-boy.md), [Alex Brave](@/w/alex-brave.md).
 """
 source = "Official PTW Facebook"
+
+[02]
+path = "puncher-vs-lambert.webp"
+caption = "Image announcing [Dawid "Puncher" Seńko](@/w/puncher.md) vs [Damian Lambert](@/w/damien-rothschild)."
+source = "Official PTW Facebook"
