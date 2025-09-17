@@ -221,6 +221,6 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
 - - 'Matt Buckna (c)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - s: Singles Match
-    en: '[MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md)
-    ed: '2025-09-27'
+    en: '[MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md)'
+    ed: 2025-09-27
 {% end %}
