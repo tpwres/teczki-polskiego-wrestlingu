@@ -47,7 +47,7 @@ skip_art = true
 - - 'Aleksandra Osowska'
   - 'Sandra Michalak'
   - nc: 'Referee stoppage'
-  - s: "Women's Beatdown K-1 Rules Kickboxing Match"
+    s: "Women's Beatdown K-1 Rules Kickboxing Match"
 
 - - '[Shadow](@/w/shadow.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
