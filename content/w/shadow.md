@@ -61,9 +61,9 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 
 In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
 
-### Legacy of Wrestling (2024)
+### Legacy of Wrestling (2024-)
 
-In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and faced [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md).
+In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and faced [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md). He returned for the [second show](@/e/low/2025-04-06-low-2.md) to take part in the Fatal Five-Way Match, albeit unsuccessfully.
 
 ## In wrestling
 
