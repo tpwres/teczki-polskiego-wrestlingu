@@ -11,3 +11,8 @@ source = "Official PTW Facebook"
 path = "puncher-vs-lambert.webp"
 caption = 'Image announcing [Dawid "Puncher" Seńko](@/w/puncher.md) vs [Damian Lambert](@/w/damien-rothschild.md).'
 source = "Official PTW Facebook"
+
+[03]
+path = "nano-bedzie.webp"
+caption = 'Image announcing ["Starboy" Nano Lopez](@/w/nano-lopez.md) in action.'
+source = "Official PTW Facebook"
