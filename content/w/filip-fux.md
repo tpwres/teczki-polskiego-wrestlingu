@@ -28,7 +28,7 @@ Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wr
 #### Debut and KPW Tag Team Champions
 
 Filip Fux is one half of the Fux Brothers tag team, along with his kayfabe sibling [Michał](@/w/michal-fux.md). Filip started training in the [Kombat Pro Wrestling](@/o/kpw.md) school in January 2018 and made his in-ring debut at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). He's best known for his tag team work alongside Michał, but he's also had a number of solo matches.
-The Fux Brothers won their [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md) from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)) at [Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). In 2023 they also made an appearance at an European Wrestling Association show in Austria. 
+The Fux Brothers won their [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md) from Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)) at [Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md) and held them for two years, before losing it at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) to [Team Visegrad](@/tt/team-visegrad.md) ([David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)).
 
 #### Solo championship pursuits
 
