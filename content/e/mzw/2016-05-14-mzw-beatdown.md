@@ -36,13 +36,19 @@ skip_art = true
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) w/ [Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - '[Red Thunder](@/w/red-thunder.md)'
   - r: 'DQ'
-
 - - '[Asmund](@/w/asmund.md)'
   - '[Skull Evil](@/w/skull-evil.md)'
-
+  - s: Submission Match
 - - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Kripto](@/w/kripto.md) & [Red Thunder](@/w/red-thunder.md)'
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
+
+
+- - 'Aleksandra Osowska'
+  - 'Sandra Michalak'
+  - nc: 'Referee stoppage'
+  - s: "Women's Beatdown K-1 Rules Kickboxing Match"
+
 - - '[Shadow](@/w/shadow.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
@@ -59,10 +65,21 @@ skip_art = true
 * [Mr B.](@/w/mr-b.md) spent the final moments of the match strolling outside the ring, blowing up balloons.
 * [Ronzen](@/w/ronny-kessler.md) attempted a top-rope move but he slipped and fell to the ring, which [Zeritus](@/w/zeritus.md) w/ [Hexia](@/w/hexia.md) promptly took advantage of.
 * Zeritus won the match after [Hexia](@/w/hexia.md) prevented Ronzen from performing another top-rope move. The two of them then proceeded to attack Ronzen after the bell.
-* [Jędruś Bułecka](@/w/jedrus-bulecka.md) came out with his left arm in a cast - according to the commentary, he was attached by [Red Thunder](@/w/red-thunder.md) at a [show in March](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md). He cut a promo saying that [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) would fight in his stead.
+* [Jędruś Bułecka](@/w/jedrus-bulecka.md) came out with his left arm wrapped in a bandage - according to the commentary, he was attached by [Red Thunder](@/w/red-thunder.md) at a [show in March](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md). He cut a promo saying that [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) would fight in his stead.
 * Dobroniak was attacked by [Kripto](@/w/kripto.md), causing the match to end with a DQ in Dobroniak's favour.
 * After the match, Dobroniak cut a short promo calling Red Thunder a "red monkey" (_czerwona małpa_) - perhaps in reference to a 2006 incident in which the [Polish president][kaczor] called a journalist a "monkey in red" (_małpa w czerwonym_) during a press conference in Brussels, unaware that his words were picked up by microphones.
 * In the promo, Bułecka & Dobroniak formed a tag team and challenged Kripto & Red Thunder to a match. [Tomasz Warchoł](@/w/tomasz-warchol.md) approved, and then presented the [MZW Tag Team Championship belts](@/c/mzw-tag-team-championship.md), which he announced as the stakes of that match.
+* [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/skull-evil.md) was the first Submission Match in MZW's history.
+* This was Skull Evil's Polish debut. According to the commentary, he was the first Czech wrestler to fight in Poland.
+* When announcing the match, [Tomasz Warchoł](@/w/tomasz-warchol.md) said "The fight is a Submission Match, in which the winner is the contender who gives up" (_Pojedynek to Submission Match, w którym wygrywa zawodnik, który się podda_). There were a few chuckles from the audience, but Tomasz didn't correct himself.
+* Jędruś and Dobroniak played rock-paper-scissors to determine who'd go first, with Bułecka winning the privilege.
+* Jędruś Bułecka still had his arm bandaged up throughout a large portion of the fight. At one point during the match the bandage started to unwrap, and later on Red Thunder removed it completely.
+* The referee didn't notice Jędruś tagging in Stanisław and proceeded to force Dobroniak out of the ring once he entered. Kripto and Red Thunder used the distraction to apply the titular beatdown to the downed Jędruś.
+* Red Thunder jumped from a turnbuckle aiming to hit Jędruś with Diving Double Axe Handle, but Bułecka stepped aside, pulling Kripto into the trajectory of Red Thunder's attack.
+* Red Thunder attacked his tag team partner by slamming his head against the apron while out of the ring. He then threw him back in to face Dobroniak, while he himself stayed outside, seemingly uninterested in continuing the fight, or its result.
+* After the match a young girl approached the ring and handed Jędruś what appeared to be a drawing she'd made. Afterwards, a few other children came up to the ring to high-five Jędruś and Stanisław.
+* Before the main event there was a non-wrestling [K-1 rules kickboxing][k-1] match between Aleksandra Osowska and Sandra Michalak (substituting for Dominika Janus). It was stopped by the referee in the third round.
+* 
 * 
 
 ## References
@@ -75,3 +92,4 @@ skip_art = true
 * [WrestleFans video coverage](https://youtu.be/4LgYjxWLvFs)
 
 [kaczor]: https://en.wikipedia.org/wiki/Lech_Kaczy%C5%84ski
+[k-1]: https://en.wikipedia.org/wiki/K-1
