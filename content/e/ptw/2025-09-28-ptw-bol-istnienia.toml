@@ -16,3 +16,8 @@ source = "Official PTW Facebook"
 path = "nano-bedzie.webp"
 caption = 'Image announcing ["Starboy" Nano Lopez](@/w/nano-lopez.md) in action.'
 source = "Official PTW Facebook"
+
+[04]
+path = "el-g-vs-cj.webp"
+caption = 'Image announcing [El G](@/w/) vs CJ Klakson.'
+source = "Official PTW Facebook"

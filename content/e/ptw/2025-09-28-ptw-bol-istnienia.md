@@ -22,6 +22,7 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 * On 15.09.2025 it was [confirmed][konfjurmejszyn] that after the revelation from [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), [Łukasz Okoński](@/w/lukasz-okonski.md) will address the allegations that he is a father of [Sigma Boy xD](@/w/sigma-boy.md).
 * After the contender's match against [Spartan](@/w/spartan.md) did not come to fruition, [Damian Lambert](@/w/damien-rothschild.md) was awarded with number one contendership for the [PTW Championship](@/c/ptw-championship.md). On 16.09.2025 it was confirmed that he will face [Dawid "Puncher" Seńko](@/w/puncher.md) at Ból Istnienia.
 * ["Starboy" Nano Lopez](@/w/nano-lopez.md) was confirmed to appear at the show on 17.09.2025, although no match-up was announced.
+* 18.09.2025 saw the announcement of [El G](@/w/el-g.md) vs CJ Klakson.
 
 ## Predicted card
 
@@ -36,6 +37,9 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '??'
   - nc: upcoming
+- - '[El G](@/w/el-g.md)'
+  - 'CJ Klakson'
+    nc: upcoming
 {% end %}
 
 ## References
