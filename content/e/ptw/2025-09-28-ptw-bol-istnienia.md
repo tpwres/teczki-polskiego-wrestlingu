@@ -39,7 +39,7 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
   - nc: upcoming
 - - '[El G](@/w/el-g.md)'
   - 'CJ Klakson'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ## References
