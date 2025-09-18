@@ -52,7 +52,7 @@ The event was not promoted on KPW's usual social media channels.
 ### Highlights
 
 * Multiple times throughout the show the crowd chanted "USA", despite all of the contestants being either Polish or German.
-* [Chemik](@/w/chemik.md) cut a heel promo insulting the crowd, which caused an audience member to throw a plastic bottle at him which hit hit on the hand. After his victory some more rubbish was aimed in his general direction.
+* [Chemik](@/w/chemik.md) cut a heel promo insulting the crowd, causing an audience member to throw a plastic bottle at him which hit him on the hand. After his victory some more rubbish was aimed in his general direction.
 * [Chairman Malinowski](@/w/krystian-malinowski.md) returned to his pre-[Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) babyface persona when talking to the crowd.
 * [Eryk Lesak](@/w/eryk-lesak.md) came out with a cigar and a beer, getting babyface pop for the first time since [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md).
 * [Hans Schulte](@/w/hans-schulte.md) hit [Zefir](@/w/zefir.md) on the head with a can of someone's beer.
