@@ -19,5 +19,5 @@ source = "Official PTW Facebook"
 
 [04]
 path = "el-g-vs-cj.webp"
-caption = 'Image announcing [El G](@/w/) vs CJ Klakson.'
+caption = "Image announcing [El G](@/w/el-g.md) vs CJ Klakson."
 source = "Official PTW Facebook"
