@@ -6,3 +6,18 @@ caption = """\
     [Spartan](@/w/spartan.md), [Sigma Boy xD](@/w/sigma-boy.md), [Alex Brave](@/w/alex-brave.md).
 """
 source = "Official PTW Facebook"
+
+[02]
+path = "puncher-vs-lambert.webp"
+caption = 'Image announcing [Dawid "Puncher" Seńko](@/w/puncher.md) vs [Damian Lambert](@/w/damien-rothschild.md).'
+source = "Official PTW Facebook"
+
+[03]
+path = "nano-bedzie.webp"
+caption = 'Image announcing ["Starboy" Nano Lopez](@/w/nano-lopez.md) in action.'
+source = "Official PTW Facebook"
+
+[04]
+path = "el-g-vs-cj.webp"
+caption = "Image announcing [El G](@/w/el-g.md) vs CJ Klakson."
+source = "Official PTW Facebook"
