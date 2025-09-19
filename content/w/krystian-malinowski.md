@@ -8,6 +8,7 @@ toclevel = 2
 country = ["PL"]
 [extra.gallery]
 1 = { path = "krystian-malinowski-teczka.jpg", caption = 'Krystian Malinowski with his briefcase at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).', source = "Migawki z Puszki" }
+2 = { path = "krystian-malinowski-na-heelowo.webp", caption = "Promo shot of Krystian Malinowski's heel incarnation.", source = "PrezesMalinowskiKPW @ Facebook" }
 +++
 
 Krystian Malinowski is a Polish on-screen personality, best known for his role of kayfabe chairman of [Kombat Pro Wrestling](@/o/kpw.md). He had also previously worked in [Do Or Die Wrestling](@/o/ddw.md).
@@ -36,8 +37,7 @@ After DDW folded and [Kombat Pro Wrestling](@/o/kpw.md) took its place, Malinows
 Ahead of [Arena 12](@/e/kpw/2019-01-19-kpw-arena-12.md), KPW announced that a new Chairman would be elected, and Malinowski threw his name in the hat as a candidate, alongside [Krzysztof Zasada](@/w/krzysztof-zasada.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).
 Eventually he secured the new position at [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md) and his previous duties as a referee were taken over by Dariusz Łępicki.
 
-At [Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Malinowski disqualified [Rosetti](@/w/rosetti.md) and [Chemik](@/w/chemik.md) from their [KPW Championship](@/c/kpw-championship.md) Contender Match. Following that, Malinowski said that he had a very important announcement regarding the future of KPW. Before he could elaborate, however, he was suddenly attacked with a glass bottle by a mysterious figure who promptly ran away, leaving the Chairman in need of medical assistance. He was carried out on a stretcher by medical personnel and, as stated by [Kinga](@/w/kinga-miotke.md) after the break, he was transported to a hospital.
-After the main event ended, Rosetti came out and informed the audience that Malinowski's condition is stable, but his exact state is currently unknown. He then stated that given the situation, Malinowski officially made Rosetti the acting chairman of KPW.
+At [Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Malinowski was attacked with a glass bottle by a mysterious figure and transported to a hospital by medical staff. Rosetti soon informed that  Malinowski had officially made him the acting chairman of KPW. Barely [two shows later](@/e/kpw/2025-04-11-kpw-arena-28.md) Malinowski reappeared and took back his position, but the turn of events pushed him into a heel turn, which he fully embraced starting with [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
 
 ## In wrestling
 
