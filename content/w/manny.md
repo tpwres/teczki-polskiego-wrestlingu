@@ -1,7 +1,7 @@
 +++
 title = "Manny"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -22,6 +22,10 @@ Manny is a retired Polish backyard wrestler known for his time in [Polish Xtreme
 
 Manny made his debut in Głuchołazy-based backyard federation [Polish Xtreme Wrestling](@/o/pxw.md) in mid-2011. Not much information survives to this day, but it is known that during his time in PXW he made at least 13 appearances and won multiple championships. He held the PXW Championship, ECW Championship and PXW Hardcore Championship at least one time each. He most likely retired after PXW folded its operations in the second half of 2013.
 
+### Maniac Zone Wrestling (2016)
+
+Manny appeared at [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) as the referee.
+
 ## In wrestling
 
 * Finishers:
@@ -33,7 +37,7 @@ Manny made his debut in Głuchołazy-based backyard federation [Polish Xtreme Wr
     {{ music(spot='56sk7jBpZV0CD31G9hEU3b')}}
     {{ music(apple='1308586562?i=1308586995')}}
 
- ## Championships and accomplishments
+## Championships and accomplishments
 
  * [Polish Xtreme Wrestling](@/o/pxw.md):
    - PXW Championship (1 time)
