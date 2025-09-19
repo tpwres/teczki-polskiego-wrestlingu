@@ -223,4 +223,5 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - s: Singles Match
     en: '[MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md)'
     ed: 2025-09-27
+    nc: Upcoming
 {% end %}
