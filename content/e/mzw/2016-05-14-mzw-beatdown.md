@@ -42,11 +42,9 @@ skip_art = true
 - - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Kripto](@/w/kripto.md) & [Red Thunder](@/w/red-thunder.md)'
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
-
-
 - - 'Aleksandra Osowska'
   - 'Sandra Michalak'
-  - nc: 'Referee stoppage'
+  - r: 'Referee decision'
     s: "Women's Beatdown K-1 Rules Kickboxing Match"
 
 - - '[Shadow](@/w/shadow.md)'
@@ -78,7 +76,8 @@ skip_art = true
 * Red Thunder jumped from a turnbuckle aiming to hit Jędruś with Diving Double Axe Handle, but Bułecka stepped aside, pulling Kripto into the trajectory of Red Thunder's attack.
 * Red Thunder attacked his tag team partner by slamming his head against the apron while out of the ring. He then threw him back in to face Dobroniak, while he himself stayed outside, seemingly uninterested in continuing the fight, or its result.
 * After the match a young girl approached the ring and handed Jędruś what appeared to be a drawing she'd made. Afterwards, a few other children came up to the ring to high-five Jędruś and Stanisław.
-* Before the main event there was a non-wrestling [K-1 rules kickboxing][k-1] match between Aleksandra Osowska and Sandra Michalak (substituting for Dominika Janus). It was stopped by the referee in the third round.
+* Before the main event there was a non-wrestling [K-1 rules kickboxing][k-1] match between Aleksandra Osowska and Sandra Michalak (substituting for Dominika Janus), set for three two-minute rounds.
+* 
 * 
 * 
 
