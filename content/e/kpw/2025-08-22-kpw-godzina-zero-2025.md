@@ -103,7 +103,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
 * After his elimination, Tomczak returned to the ring and threw Leon Lato out; the referee declared Leon's elimination null and void, and Lato soon returned to the ring to continue the match.
 * After being thrown out and landing next to some fans, [Ricky Sky](@/w/ricky-sky.md) untied their shoelaces.
 * At one point near the end of the match [Eryk Lesak](@/w/eryk-lesak.md) landed outside the ring. He was not declared eliminated by ring announcer [Kinga](@/w/kinga-miotke.md), however, suggesting he didn't go over the top rope. As Markus Paskal was celebrating his apparent victory, Lesak came back to the ring and threw him out, winning the Battle Royal himself.
-* Some of the eliminated wrestlers were offered beer by Istotna Martynka from Istota Wrestlingu podcast, sitting in the front row.
+* Some of the eliminated wrestlers were offered beer by [Istotna Martynka](@/w/istotna-martynka.md) from Istota Wrestlingu podcast, sitting in the front row.
 * Prior to the main event, Krystian Malinowski came out again and cut a long promo in which he claimed to have received an anonymous letter in the mail.
   The sender threatened him, insitsting that he leaves [Zefir](@/w/zefir.md) and [Rosetti](@/w/rosetti.md) alone, lest he bitterly regrets it.
   Malinowski stated that, although he didn't know who wrote it, he suspected it was Zefir, whom he then called a disease to which he himself was the cure.

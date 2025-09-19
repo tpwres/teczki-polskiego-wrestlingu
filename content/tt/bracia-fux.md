@@ -26,13 +26,13 @@ In 2025, when KPW held house shows in various locations in Poland (such as [Kadz
 
 #### Championship pursuits
 
-At [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) the Brothers took part in a [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) 4-Way Elimination Match against three other teams, but lost. At the following show, [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md), they faced the new Tag Team Champions, [Die Ordnung](@/tt/die-ordnung.md), but with no success. Their moment came a year later at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) when they clashed with the German team once again, this time stripping them of their titles. This victory was followed by a series of defences against the likes of [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) ([Chemik](@/w/chemik.md)&nbsp;& [Eryk Lesak](@/w/eryk-lesak.md)) and The 87 (Alexander Roth & Roy Johnson).
+At [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) the Brothers took part in a [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) 4-Way Elimination Match against three other teams, but lost. At the following show, [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md), they faced the new Tag Team Champions, [Die Ordnung](@/tt/die-ordnung.md), but with no success. Their moment came a year later at [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) when they clashed with the German team once again, this time stripping them of their titles. This victory was followed by a series of defences against the likes of [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) ([Chemik](@/w/chemik.md) & [Eryk Lesak](@/w/eryk-lesak.md)) and The 87 (Alexander Roth & Roy Johnson). Eventually, at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), the Brothers lost their titles to [Team Visegrad](@/tt/team-visegrad.md) ([David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)).
 
 At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) the Brothers took part in a tournament for the [KPW Championship](@/c/kpw-championship.md) Contendership and at the [next show](@/e/kpw/2025-01-24-kpw-arena-27.md) they faced [David Oliwa](@/w/david-oliwa.md) as well as one another in a Three Way Match - a bout that was won by Michał Fux. Then at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) Michał took on [Hans Schulte](@/w/hans-schulte.md) in a match for KPW's main title, while Filip squared off against Chemik for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md); however, both Fuxes lost their matches.
 
 ### International venture (2023)
 
-In addition to working in Poland, the Fux Brothers made an appearance in 2023 for the Austrian promotion European Wrestling Association. They went against Team Energy (Chris Colen & Damon Brix) for their EWA Tag Team championship, but failed to win the belts. 
+In addition to working in Poland, the Fux Brothers made an appearance in 2023 for the Austrian promotion European Wrestling Association. They went against Team Energy (Chris Colen & Damon Brix) for their EWA Tag Team championship, but failed to win the belts.
 
 ### Legacy of Wrestling (2025-)
 
