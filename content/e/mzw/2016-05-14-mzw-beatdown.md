@@ -7,19 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
-[extra.gallery.1]
-path = "plakat.webp"
-caption = "[Justin Joy](@/w/justin-joy.md) on the offical poster."
-source = "Official MZW Facebook"
-[extra.gallery.2]
-path = "2016-05-14-mzw-beatdown-dvd-front.jpg"
-caption = "Front cover of the official DVD with the event, featuring [Justin Joy](@/w/justin-joy.md)."
-source = "Showoff @ Twitter"
-[extra.gallery.3]
-path = "2016-05-14-mzw-beatdown-dvd-back.jpg"
-caption = "Back cover of the offical DVD, listing the commentator."
-source = "Showoff @ Twitter"
-skip_art = true 
+[extra.gallery]
 +++
 
 ## Card
@@ -45,12 +33,11 @@ skip_art = true
 - - 'Aleksandra Osowska'
   - 'Sandra Michalak'
   - r: 'Referee decision'
-    s: "Women's Beatdown K-1 Rules Kickboxing Match"
-
+    s: "Women's Beatdown MMA Match"
 - - '[Shadow](@/w/shadow.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
-    s: Loser Leaves Town Match
+    s: 'Last Man Standing Match'
 - credits:
     Referee: '[Manny](@/w/manny.md)'
     Ring announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
@@ -77,9 +64,11 @@ skip_art = true
 * Red Thunder attacked his tag team partner by slamming his head against the apron while out of the ring. He then threw him back in to face Dobroniak, while he himself stayed outside, seemingly uninterested in continuing the fight, or its result.
 * After the match a young girl approached the ring and handed Jędruś what appeared to be a drawing she'd made. Afterwards, a few other children came up to the ring to high-five Jędruś and Stanisław.
 * Before the main event there was a non-wrestling [K-1 rules kickboxing][k-1] match between Aleksandra Osowska and Sandra Michalak (substituting for Dominika Janus), set for three two-minute rounds.
-* 
-* 
-* 
+* Per Tomasz Warchoł's introduction, the main event was a no-DQ match that could take place anywhere in the venue, and the loser had to be counted to 10.
+* As the referee counted the downed [Shadow](@/w/shadow.md), somebody threw a green plastic bottle into the ring. When the referee kicked it off the same person threw another one, causing Tomasz Warchoł to mistakenly give a piece of his mind to somebody else.
+* Justin Joy threw Shadow at some fans, much to their amusement. Moments later, Shadow repaid him in kind.
+* Shadow laid Justin on a table and climbed onto a basketball hoop, from which he jumped onto his opponent, winning the match.
+* After the main event, Asmund came out and indicated his interest in the Championship. He would face Shadow for the title six months later, at [Revolution](@/e/mzw/2016-11-05-mzw-revolution.md).
 
 ## References
 

@@ -38,9 +38,10 @@ toclevel = 2
 - - '[Hexia](@/w/hexia.md) & [Mr B.](@/w/mr-b.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
   - s: 'Two On One Handicap Match'
-- - '[Shadow](@/w/shadow.md)'
+- - '[Shadow](@/w/shadow.md)(c)'
   - '[Asmund](@/w/asmund.md)'
   - s: 'Two Out Of Three Falls'
+    c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Commentary: 'Adam "Omega" Sekuła, Wojciech "Vice" Baranowski'

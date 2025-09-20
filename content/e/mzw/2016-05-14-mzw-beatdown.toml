@@ -1,0 +1,23 @@
+0000 = { path = "plakat.webp", caption = "[Justin Joy](@/w/justin-joy.md) on the offical poster.", source = "Official MZW Facebook" }
+
+1001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+2001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+3001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+4001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+5001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+6001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+7001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+8001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+
+9999 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+9001 = { path = "2016-05-14-mzw-beatdown-dvd-front.jpg", caption = "Front cover of the official DVD with the event, featuring [Justin Joy](@/w/justin-joy.md).", source = "Showoff @ Twitter" }
+9002 = { path = "2016-05-14-mzw-beatdown-dvd-back.jpg", caption = "Back cover of the offical DVD, listing the commentators.", source = "Showoff @ Twitter", skip_art = true  }
