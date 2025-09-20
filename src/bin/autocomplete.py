@@ -49,7 +49,12 @@ def build_autocomplete_cache(content_dir: Path) -> dict[str, str]:
         with open(aliases_path, 'r') as f:
             aliases = json.load(f)
             for name, path in aliases.items():
-                original = get_title(content_dir / path)
+                full_path = content_dir / path
+                # Be tolerant: aliases.json may be out of date especially after switching code branches
+                if not full_path.exists():
+                    continue
+                original = get_title(full_path)
+
                 autocomplete_map[name] = CompletionItem(path, 'a', original)
 
     # Scan different content directories
