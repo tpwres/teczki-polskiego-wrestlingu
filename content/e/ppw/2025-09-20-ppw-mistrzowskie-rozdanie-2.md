@@ -32,6 +32,12 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 ## Card
 
 {% card(predicted=true) %}
+- - '_rookie_ Antek'
+  - '[Max Speed](@/w/max-speed.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - s: 'Pre-show Triple Threat Match'
+
+
 - - '[_The Fool_ Goblin](@/w/goblin.md)(c)'
   - '[_The Star_ Robert Star](@/w/robert-star.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
