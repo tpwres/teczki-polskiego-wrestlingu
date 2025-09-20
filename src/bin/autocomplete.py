@@ -15,7 +15,7 @@
 # then a search for `go` should produce, in that order [Gordon](@/w/gordon.md), [Gotham](@/v/gotham.md), [Gotham City Police Dept](/tt/gotham-police.md)
 import json
 import pickle
-import zlib
+import zlib # NOTE: Python 3.14 adds compression.zstd
 import sys
 from pathlib import Path
 from typing import List, Any, Optional
@@ -76,10 +76,16 @@ def to_at_path(path, content_dir=Path.cwd() / 'content'):
     rel = path.relative_to(content_dir)
     return f"@/{rel}"
 
+def compress(buf: bytes) -> bytes:
+    return zlib.compress(buf)
+
+def decompress(buf: bytes) -> bytes:
+    return zlib.decompress(buf)
+
 def save_autocomplete_cache(cache: dict[str, str], cache_file: Path):
     """Save autocomplete cache as a compressed pickle"""
     with open(cache_file, 'wb') as f:
-        compressed_cache = zlib.compress(pickle.dumps(cache))
+        compressed_cache = compress(pickle.dumps(cache))
         f.write(compressed_cache)
 
 def load_autocomplete_cache(cache_file: Path, content_dir: Path) -> tuple[bool, dict[str, str]]:
@@ -101,7 +107,7 @@ def load_autocomplete_cache(cache_file: Path, content_dir: Path) -> tuple[bool, 
 
     # Load compressed cache
     with open(cache_file, 'rb') as f:
-        return False, pickle.loads(zlib.decompress(f.read()))
+        return False, pickle.loads(decompress(f.read()))
 
 def autocomplete(prefix: str, cache: dict[str, str]) -> List[str]:
     """
