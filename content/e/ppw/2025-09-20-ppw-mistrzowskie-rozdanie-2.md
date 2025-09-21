@@ -54,6 +54,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 - - '[Goblin](@/w/goblin.md)(c)'
   - '[Robert Star](@/w/robert-star.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: PpW Rules Match
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
@@ -69,7 +70,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 
 ### Recap
 
-* Present in the audience was [Isnorr](@/w/isnorr.md), proudly wearing his [ZLN GNG Championship](@/tt/zieloni.md). He was also invited to the commentary booth for Oskar & Agatka vs Dobroniak & Blade.
+* Present in the audience was [Isnorr](@/w/isnorr.md), proudly wearing his [ZLN GNG Championship](@/tt/zieloni.md#trivia). He was also invited to the commentary booth for Oskar & Agatka vs Dobroniak & Blade.
 * After Rookie Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.
   Enter [Max Speed](@/w/max-speed.md) in his unannounced PpW debut.
 * Somewhat unusually, Marco Hammers entered the ring without Olgierd, nor did the match see any interference.
@@ -78,8 +79,12 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * Dobroniak comically no-sold much of Agatka's early offense. At one moment as Agatka was choking out Dobroniak, Johnny Blade walked into ringside, holding a plush Brainrot Tung Tung Sahur toy tied to the end of a stick, and used it to distract Oskar.
 * Johnny then gave up the toy to Oskar, and proceeded to choke Agatka. Oskar soon joined, grabbing Johnny's leg but putting himself in Dobroniak's chokehold.
 * Referee Kornel then grabbed a microphone and brought it to Dobroniak, who suggested the match should be replaced with a Tornado Tag Team, to which all present agreed. This replaced the advertised Oskar vs Johnny Hardcore match.
-* Agatka countered Dobroniak by bringing in a pack of Dobroniak's favourite kabanosy, also tied to a string at the end of a pole. While a successful distraction, ultimately she angered him by throwing them on the floor, and ended up having them brutally shoved in her face.
+* Agatka countered Dobroniak by bringing in a pack of Dobroniak's favourite kabanosy, also tied to a string at the end of a pole. While a successful distraction, ultimately she angered him by throwing them on the floor, and ended up receiving them shoved brutally in her face.
 * When Johnny was setting up the ending, planning to drop on Oskar holding his trademark ["Koniec"][koniec] (_End_) road sign plate, a hooded figure walked into the ring and shoved him off the top rope, then proceeded to deliver a cutter to Dobroniak, and helped Agatka pin him. He later revealed himself to be Robert Star, who thus became the newest member of their "Family" stable.
+* An intermission followed that match, during which Joker interviewed wrestlers backstage, starting with the Hungarian luchadors, in English. Sentinel expressed interest in becoming PpW's tag team champions.
+* In is interview, Rookie Antek revealed his wrestler name: Antoni Ocean, and expressed pride as the first PpW rookie to win in his second match. He was quickly approached by Mister Z, who invited him to join Zmowa.
+* Originally booked as a Classic Wrestling match, Goblin vs Robert was declared a PpW Rules match by commentary, after Goblin took the microphone and used some foul language to describe Robert's dishonourable deeds earlier that night. The match started with both wielding kendo sticks, and many other weapons followed soon.
+* Goblin's pin attempt on Robert was interrupted by Oskar & Agatka, who run into the ring, with Oskar pulling Robert out of the pinning predicament and to the outside. However, they were soon countered by Dobroniak and Blade who also ran out to intervene.
 
 ## References
 
