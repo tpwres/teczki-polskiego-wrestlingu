@@ -36,6 +36,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   - '[Max Speed](@/w/max-speed.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: 'Pre-show Triple Threat Match'
+    n: Plata's Grand Trial
 - - '[Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
   - '[Marcelito](@/w/marcelito.md) & [Sambor](@/w/sambor.md)'
   - s: Tag Team Match
@@ -51,20 +52,17 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 - - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Tornado Tag-Team Hardcore Match'
-- - '[_Wheel of Fortune_ Oskar Alexander](@/w/oskar-alexander.md)'
-  - '[_Hierophant_ Johnny Blade](@/w/johnny-blade.md)'
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Hardcore match'
-    nc: upcoming
 - - '[Goblin](@/w/goblin.md)(c)'
   - '[Robert Star](@/w/robert-star.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
-- - '[_Strength_ Biesiad Strong](@/w/biesiad.md)'
-  - '[_The Lover_ Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[_Death_ Olgierd](@/w/olgierd.md)'
-  - '[_The Devil_ Vic Golden](@/w/vic-golden.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
   - s: Total Elimination Fatal 4-Way Match
-    nc: upcoming
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Pre-show Host: '[Joker](@/w/joker.md)'
@@ -77,9 +75,9 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * After Rookie Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.
   Enter [Max Speed](@/w/max-speed.md) in his unannounced PpW debut.
 * Somewhat unusually, Marco Hammers entered the ring without Olgierd, nor did the match see any interference.
-* Gustav delivered a massive Spinebuster to Mister Z, and later an 11-200 (Angels Wings) to Marco. 11-200 is the postal code for Bartoszyce, his hometown and the target of a [popular chant](@/a/polish-wrestling-chants.md#wrestler-specific).
-* After his turn, Gustav exited not through the ramp but the audience.
-* Dobroniak comically no-sold much of Agatka's early offense. At one moment as Agatka was choking out Dobroniak, Johnny Blade walked into ringside, holding a plush Brainrot Tung Tung Sahur toy tied to the end of a stick, using it to distract Oskar.
+* Gustav delivered a massive Spinebuster to Mister Z, and later an 11-200 (Angel's Wings) to Marco. 11-200 is the postal code for Bartoszyce, his hometown and the target of a [popular chant](@/a/polish-wrestling-chants.md#wrestler-specific).
+* After his turn, Gustav exited through the audience rather than the ramp.
+* Dobroniak comically no-sold much of Agatka's early offense. At one moment as Agatka was choking Dobroniak, Johnny Blade walked into ringside holding a plush Brainrot Tung Tung Sahur toy tied to the end of a stick, and used it to distract Oskar.
 
 ## References
 
