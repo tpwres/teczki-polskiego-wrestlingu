@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "tomasz-warchol.webp", caption = "Tomasz Warchoł at [MZW Beatdown 2016](@/e/mzw/2016-05-14-mzw-beatdown.md).", source = "TV Pogranicza" }
 +++
 
 Tomasz Warchoł is a pro wrestling host, announcer, commentator and ring crew member, most notably aligned with [Maniac Zone Wrestling](@/o/mzw.md) from its inception in 2014 up until 2019.
