@@ -6,26 +6,38 @@
 2001 = { path = "szymon-kolanus.webp", caption = "[Szymon Kolanus](@/w/blue-thunder.md).", source = "Jędruś Bułecka's private archives" }
 2002 = { path = "mr-b.webp", caption = "[Mr B].(@/w/mr-b.md).", source = "Jędruś Bułecka's private archives" }
 
-3001 = { path = "zeritus-i-hexia.webp", caption = "[Zeritus](@/w/zeritus.md) with [Hexia](@/w/hexia.webp).", source = "Jędruś Bułecka's private archives" }
+3001 = { path = "zeritus-i-hexia.webp", caption = "[Zeritus](@/w/zeritus.md) with [Hexia](@/w/hexia.md).", source = "Jędruś Bułecka's private archives" }
 3002 = { path = "ronzen.webp", caption = "[Ronzen](@/w/ronny-kessler.md).", source = "Jędruś Bułecka's private archives" }
 3003 = { path = "ronzen-spada.webp", caption = "Ronzen falls from the top rope.", source = "Jędruś Bułecka's private archives" }
 3004 = { path = "nie-patrz-dziecie-na-niemca.webp", caption = "A fan covers his little daughter's eyes to keep her from looking at Zeritus.", source = "Jędruś Bułecka's private archives" }
 
 4001 = { path = "bo-bulecka-byla-za-czerstwa.webp", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md), seemingly injured.", source = "Jędruś Bułecka's private archives" }
-4001 = { path = "stani.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Jędruś Bułecka's private archives" }
-4001 = { path = "czerwony-grom-z-zielonego-nieba.webp", caption = "[Red Thunder](@/w/red-thunder.md).", source = "Jędruś Bułecka's private archives" }
-4001 = { path = "dobroniak-szkaluje-red-thundera.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) shows [Red Thunder](@/w/red-thunder.md) what he thinks of him. To the far right, [Jędruś Bułecka](@/w/jedrus-bulecka.md) observes the action.", source = "Jędruś Bułecka's private archives" }
-4001 = { path = "gips-syntetyczny.webp", caption = "Jędruś Bułecka attacks Kripto with his bandaged hand.", source = "Jędruś Bułecka's private archives" }
-4001 = { path = "kowal-za-pasem.webp", caption = "[Tomasz Warchoł](@/w/tomasz-warchol.md) presents the brand-new [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md), to the left stands referee [Manny](@/w/manny.md). In the background behind them, wearing a red-and-white shirt, sits Kowal from Attitude Forum, at one point a trainee of [MCW](@/o/mcw.md).", source = "Jędruś Bułecka's private archives" }
-4001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+4002 = { path = "stani.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Jędruś Bułecka's private archives" }
+4003 = { path = "czerwony-grom-z-zielonego-nieba.webp", caption = "[Red Thunder](@/w/red-thunder.md).", source = "Jędruś Bułecka's private archives" }
+4004 = { path = "dobroniak-szkaluje-red-thundera.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) shows [Red Thunder](@/w/red-thunder.md) what he thinks of him. To the far right, [Jędruś Bułecka](@/w/jedrus-bulecka.md) observes the action.", source = "Jędruś Bułecka's private archives" }
+4005 = { path = "gips-syntetyczny.webp", caption = "Jędruś Bułecka attacks Kripto with his bandaged hand.", source = "Jędruś Bułecka's private archives" }
+4006 = { path = "kowal-za-pasem.webp", caption = "[Tomasz Warchoł](@/w/tomasz-warchol.md) presents the brand-new [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md), to the left stands referee [Manny](@/w/manny.md). In the background behind them, wearing a red-and-white shirt, sits Kowal from Attitude Forum, at one point a trainee of [MCW](@/o/mcw.md).", source = "Jędruś Bułecka's private archives" }
+
+5001 = { path = "czeska-czaszeczka.webp", caption = "[Skull Evil](@/w/skull-evil.md).", source = "Jędruś Bułecka's private archives" }
+5002 = { path = "asmund.webp", caption = "[Asmund](@/w/asmund.md).", source = "Jędruś Bułecka's private archives" }
+
+6001 = { path = "mloda-nigdy-tej-reki-juz-nie-umyje.webp", caption = "Stanisław Van Dobroniak high-fives the same girl who'd distained the German.", source = "Jędruś Bułecka's private archives" }
+6002 = { path = "tance-hulanki....webp", caption = "♪ In a stone cellar… ♪", source = "Jędruś Bułecka's private archives" }
+6003 = { path = "...swawola.webp", caption = "♪ …danced the highwaymen. ♪", source = "Jędruś Bułecka's private archives" }
+6004 = { path = "roll-credits.webp", caption = "Kripto and Red Thunder apply the titular beatdown to Jędruś Bułecka.", source = "Jędruś Bułecka's private archives" }
+6005 = { path = "klotnia-miedzy-partnerami.webp", caption = "Red Thunder attacks Kripto.", source = "Jędruś Bułecka's private archives" }
+6006 = { path = "thunder-doesnt-care.webp", caption = "[Red Thunder](@/w/red-thunder.md) walks away as Manny counts Kripto pinned by Stanisław Van Dobroniak.", source = "Jędruś Bułecka's private archives" }
+6007 = { path = "pierwsi-mistrzowie-tt-polski.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md), Poland's first tag team champions.", source = "Jędruś Bułecka's private archives" }
+6008 = { path = "zbojnicy-z-pasami.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) show off their titles.", source = "Jędruś Bułecka's private archives" }
+6009 = { path = "zbojecka-piatka.webp", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) high-fives young fans. Behind him are Kripto and referee Manny.", source = "Jędruś Bułecka's private archives" }
+
+7001 = { path = "a-tera-bedzie-na-powaznie.webp", caption = "Aleksandra Osowska vs Sandra Michalak.", source = "Jędruś Bułecka's private archives" }
+7002 = { path = "aleksandra-osowska.webp", caption = "Aleksandra Osowska has her protective helmet adjusted before the fight.", source = "Jędruś Bułecka's private archives" }
+7003 = { path = "high-kick.webp", caption = "Sandra Michalak hits Aleksandra Osowska with a high kick.", source = "Jędruś Bułecka's private archives" }
+7004 = { path = "right-jab.webp", caption = "Aleksandra Osowska retaliates with a right jab to the jaw.", source = "Jędruś Bułecka's private archives" }
+7005 = { path = "ola-wins.webp", caption = "Manny declares Aleksandra Osowska the winner.", source = "Jędruś Bułecka's private archives" }
 
 
-
-5001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-
-6001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-
-7001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
 
 8001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
 
