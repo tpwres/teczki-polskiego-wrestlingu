@@ -89,6 +89,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429937)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-mistrzowskie-rozdanie-2-20-09-25-09-20-2025-21-09-41) (requires paid subscription)
 * [Facebook post announcing the event][mr2]
 
 [mr2]: https://www.facebook.com/OficjalnePPW/posts/pfbid0taRW9fXjs7ofV4zixySEMYGQ9VfZZXPdemaSjGDpAWzoPNFjnqpo7J7WzS84B4mTl
