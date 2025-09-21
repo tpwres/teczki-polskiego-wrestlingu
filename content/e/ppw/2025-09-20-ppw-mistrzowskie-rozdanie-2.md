@@ -44,7 +44,6 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   - '[Axel Fox](@/w/axel-fox.md)'
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Marco Hammers](@/w/marco-hammers.md)'
   - g: Mister Z asserts Zmowa's dominance, but Gustav finally snaps and turns on his boss.
-    n: Mister Z called out to the locker room to come out and face him, including "maybe even [Jacob Crane from Japan](@/w/jacob-crane.md)". Jacob was not booked for the show, but indeed present backstage.
 - - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Custody of [Oskar](@/w/oskar-alexander.md) match.'
@@ -72,6 +71,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 
 ### Recap
 
+* Present in the audience was [Isnorr](@/w/isnorr.md), proudly wearing his [ZLN GNG Championship](@/tt/zieloni.md). He was also invited to the commentary booth for Oskar & Agatka vs Dobroniak & Blade.
 * After Rookie Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.
   Enter [Max Speed](@/w/max-speed.md) in his unannounced PpW debut.
 * Somewhat unusually, Marco Hammers entered the ring without Olgierd, nor did the match see any interference.
