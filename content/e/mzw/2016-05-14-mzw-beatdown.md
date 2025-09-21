@@ -48,7 +48,7 @@ toclevel = 2
 ### Highlights
 
 * [Mr B.](@/w/mr-b.md) spent the final moments of the match strolling outside the ring, blowing up balloons.
-* [Ronzen](@/w/ronny-kessler.md) attempted a top-rope move but he slipped and fell to the ring, which [Zeritus](@/w/zeritus.md) w/ [Hexia](@/w/hexia.md) promptly took advantage of.
+* [Ronzen](@/w/ronny-kessler.md) attempted a top-rope move but he slipped and fell to the ring, which [Zeritus](@/w/zeritus.md) promptly took advantage of.
 * Zeritus won the match after [Hexia](@/w/hexia.md) prevented Ronzen from performing another top-rope move. The two of them then proceeded to attack Ronzen after the bell.
 * [Jędruś Bułecka](@/w/jedrus-bulecka.md) came out with his left arm wrapped in a bandage - according to the commentary, he was attached by [Red Thunder](@/w/red-thunder.md) at a [show in March](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md). He cut a promo saying that [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) would fight in his stead.
 * Dobroniak was attacked by [Kripto](@/w/kripto.md), causing the match to end with a DQ in Dobroniak's favour.

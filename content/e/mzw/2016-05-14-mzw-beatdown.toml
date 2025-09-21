@@ -1,12 +1,25 @@
 0000 = { path = "plakat.webp", caption = "[Justin Joy](@/w/justin-joy.md) on the offical poster.", source = "Official MZW Facebook" }
 
-1001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+1001 = { path = "black-phantom.webp", caption = "Black Phantom.", source = "Jędruś Bułecka's private archives" }
+1002 = { path = "szymon-siwiec.webp", caption = "[Szymon Siwiec](@/w/szymon-siwiec.md).", source = "Jędruś Bułecka's private archives" }
+1003 = { path = "szymon-i-manny.webp", caption = "Szymon Siwiec delivers a promo. In the back stands referee [Manny](@/w/manny.md).", source = "Jędruś Bułecka's private archives" }
+2001 = { path = "szymon-kolanus.webp", caption = "[Szymon Kolanus](@/w/blue-thunder.md).", source = "Jędruś Bułecka's private archives" }
+2002 = { path = "mr-b.webp", caption = "[Mr B].(@/w/mr-b.md).", source = "Jędruś Bułecka's private archives" }
 
-2001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+3001 = { path = "zeritus-i-hexia.webp", caption = "[Zeritus](@/w/zeritus.md) with [Hexia](@/w/hexia.webp).", source = "Jędruś Bułecka's private archives" }
+3002 = { path = "ronzen.webp", caption = "[Ronzen](@/w/ronny-kessler.md).", source = "Jędruś Bułecka's private archives" }
+3003 = { path = "ronzen-spada.webp", caption = "Ronzen falls from the top rope.", source = "Jędruś Bułecka's private archives" }
+3004 = { path = "nie-patrz-dziecie-na-niemca.webp", caption = "A fan covers his little daughter's eyes to keep her from looking at Zeritus.", source = "Jędruś Bułecka's private archives" }
 
-3001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-
+4001 = { path = "bo-bulecka-byla-za-czerstwa.webp", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md), seemingly injured.", source = "Jędruś Bułecka's private archives" }
+4001 = { path = "stani.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Jędruś Bułecka's private archives" }
+4001 = { path = "czerwony-grom-z-zielonego-nieba.webp", caption = "[Red Thunder](@/w/red-thunder.md).", source = "Jędruś Bułecka's private archives" }
+4001 = { path = "dobroniak-szkaluje-red-thundera.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) shows [Red Thunder](@/w/red-thunder.md) what he thinks of him. To the far right, [Jędruś Bułecka](@/w/jedrus-bulecka.md) observes the action.", source = "Jędruś Bułecka's private archives" }
+4001 = { path = "gips-syntetyczny.webp", caption = "Jędruś Bułecka attacks Kripto with his bandaged hand.", source = "Jędruś Bułecka's private archives" }
+4001 = { path = "kowal-za-pasem.webp", caption = "[Tomasz Warchoł](@/w/tomasz-warchol.md) presents the brand-new [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md), to the left stands referee [Manny](@/w/manny.md). In the background behind them, wearing a red-and-white shirt, sits Kowal from Attitude Forum, at one point a trainee of [MCW](@/o/mcw.md).", source = "Jędruś Bułecka's private archives" }
 4001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
+
 
 5001 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
 
