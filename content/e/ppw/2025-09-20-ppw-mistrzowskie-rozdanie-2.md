@@ -51,9 +51,6 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 - - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Tornado Tag-Team Hardcore Match'
-- - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
-  - s: 'Hardcore match'
 - - '[Goblin](@/w/goblin.md)(c)'
   - '[Robert Star](@/w/robert-star.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -75,9 +72,13 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * After Rookie Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.
   Enter [Max Speed](@/w/max-speed.md) in his unannounced PpW debut.
 * Somewhat unusually, Marco Hammers entered the ring without Olgierd, nor did the match see any interference.
-* Gustav delivered a massive Spinebuster to Mister Z, and later an 11-200 (Angel's Wings) to Marco. 11-200 is the postal code for Bartoszyce, his hometown and the target of a [popular chant](@/a/polish-wrestling-chants.md#wrestler-specific).
-* After his turn, Gustav exited through the audience rather than the ramp.
-* Dobroniak comically no-sold much of Agatka's early offense. At one moment as Agatka was choking Dobroniak, Johnny Blade walked into ringside holding a plush Brainrot Tung Tung Sahur toy tied to the end of a stick, and used it to distract Oskar.
+* Gustav delivered a massive Spinebuster to Mister Z, and later an 11-200 (Angels Wings) to Marco. 11-200 is the postal code for Bartoszyce, his hometown and the target of a [popular chant](@/a/polish-wrestling-chants.md#wrestler-specific).
+* After his turn, Gustav exited not through the ramp but the audience.
+* Dobroniak comically no-sold much of Agatka's early offense. At one moment as Agatka was choking out Dobroniak, Johnny Blade walked into ringside, holding a plush Brainrot Tung Tung Sahur toy tied to the end of a stick, and used it to distract Oskar.
+* Johnny then gave up the toy to Oskar, and proceeded to choke Agatka. Oskar soon joined, grabbing Johnny's leg but putting himself in Dobroniak's chokehold.
+* Referee Kornel then grabbed a microphone and brought it to Dobroniak, who suggested the match should be replaced with a Tornado Tag Team, to which all present agreed. This replaced the advertised Oskar vs Johnny Hardcore match.
+* Agatka countered Dobroniak by bringing in a pack of Dobroniak's favourite kabanosy, also tied to a string at the end of a pole. While a successful distraction, ultimately she angered him by throwing them on the floor, and ended up receiving them shoved brutally in her face.
+* When Johnny was setting up the ending, planning to drop on Oskar holding his trademark "Koniec" road sign plate, a hooded figure walked into the ring and shoved him off the top rope, then proceeded to deliver a cutter to Dobroniak, and helped Agatka pin him. He later revealed himself to be Robert Star, who thus became the newest member of their "Family" stable.
 
 ## References
 
