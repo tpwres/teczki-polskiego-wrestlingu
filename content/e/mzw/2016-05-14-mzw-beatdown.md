@@ -68,7 +68,7 @@ toclevel = 2
 * As the referee counted the downed [Shadow](@/w/shadow.md), somebody threw a green plastic bottle into the ring. When the referee kicked it off the same person threw another one, causing Tomasz Warchoł to mistakenly give a piece of his mind to somebody else.
 * Justin Joy threw Shadow at some fans, much to their amusement. Moments later, Shadow repaid him in kind.
 * Shadow laid Justin on a table and climbed onto a basketball hoop, from which he jumped onto his opponent, winning the match.
-* After the main event, Asmund came out and indicated his interest in the Championship. He would face Shadow for the title six months later, at [Revolution](@/e/mzw/2016-11-05-mzw-revolution.md).
+* After the main event, Asmund came out and indicated his interest in the Championship. He would face Shadow for the title six months later, at [MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md).
 
 ## References
 
