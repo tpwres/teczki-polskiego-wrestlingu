@@ -48,8 +48,8 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
   - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Custody of [Oskar](@/w/oskar-alexander.md) match.'
     nc: Mid-match stipulation change
-- - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md)'
-  - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+- - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Tornado Tag-Team Hardcore Match'
 - - '[Goblin](@/w/goblin.md)(c)'
   - '[Robert Star](@/w/robert-star.md)'
