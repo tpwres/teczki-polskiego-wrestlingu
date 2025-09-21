@@ -64,6 +64,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
     Pre-show Host: '[Joker](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)'
+    Guest commentary: '[Isnorr](@/w/isnorr.md)'
 {% end %}
 
 ### Recap
