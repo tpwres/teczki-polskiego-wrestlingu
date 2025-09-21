@@ -77,8 +77,8 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 * Dobroniak comically no-sold much of Agatka's early offense. At one moment as Agatka was choking out Dobroniak, Johnny Blade walked into ringside, holding a plush Brainrot Tung Tung Sahur toy tied to the end of a stick, and used it to distract Oskar.
 * Johnny then gave up the toy to Oskar, and proceeded to choke Agatka. Oskar soon joined, grabbing Johnny's leg but putting himself in Dobroniak's chokehold.
 * Referee Kornel then grabbed a microphone and brought it to Dobroniak, who suggested the match should be replaced with a Tornado Tag Team, to which all present agreed. This replaced the advertised Oskar vs Johnny Hardcore match.
-* Agatka countered Dobroniak by bringing in a pack of Dobroniak's favourite kabanosy, also tied to a string at the end of a pole. While a successful distraction, ultimately she angered him by throwing them on the floor, and ended up receiving them shoved brutally in her face.
-* When Johnny was setting up the ending, planning to drop on Oskar holding his trademark "Koniec" road sign plate, a hooded figure walked into the ring and shoved him off the top rope, then proceeded to deliver a cutter to Dobroniak, and helped Agatka pin him. He later revealed himself to be Robert Star, who thus became the newest member of their "Family" stable.
+* Agatka countered Dobroniak by bringing in a pack of Dobroniak's favourite kabanosy, also tied to a string at the end of a pole. While a successful distraction, ultimately she angered him by throwing them on the floor, and ended up having them brutally shoved in her face.
+* When Johnny was setting up the ending, planning to drop on Oskar holding his trademark ["Koniec"][koniec] (_End_) road sign plate, a hooded figure walked into the ring and shoved him off the top rope, then proceeded to deliver a cutter to Dobroniak, and helped Agatka pin him. He later revealed himself to be Robert Star, who thus became the newest member of their "Family" stable.
 
 ## References
 
@@ -90,3 +90,4 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 [amber]: https://en.wikipedia.org/wiki/The_Chronicles_of_Amber
 [kabanosy-sa-na-podlodze]: https://www.facebook.com/reel/1019415226812638
 [kabanosy-sa-na-wikipedii]: https://en.wikipedia.org/wiki/Kabanos
+[koniec]: https://en.wikipedia.org/wiki/Road_signs_in_Poland#Complementary_plates
