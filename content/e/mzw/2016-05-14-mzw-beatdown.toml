@@ -3,7 +3,7 @@
 1002 = { path = "szymon-siwiec.webp", caption = "[Szymon Siwiec](@/w/szymon-siwiec.md).", source = "Jędruś Bułecka's private archives" }
 1003 = { path = "szymon-i-manny.webp", caption = "Szymon Siwiec delivers a promo. In the back stands referee [Manny](@/w/manny.md).", source = "Jędruś Bułecka's private archives" }
 2001 = { path = "szymon-kolanus.webp", caption = "[Szymon Kolanus](@/w/blue-thunder.md).", source = "Jędruś Bułecka's private archives" }
-2002 = { path = "mr-b.webp", caption = "[Mr B].(@/w/mr-b.md).", source = "Jędruś Bułecka's private archives" }
+2002 = { path = "mr-b.webp", caption = "[Mr B.](@/w/mr-b.md).", source = "Jędruś Bułecka's private archives" }
 3001 = { path = "zeritus-i-hexia.webp", caption = "[Zeritus](@/w/zeritus.md) with [Hexia](@/w/hexia.md).", source = "Jędruś Bułecka's private archives" }
 3002 = { path = "ronzen.webp", caption = "[Ronzen](@/w/ronny-kessler.md).", source = "Jędruś Bułecka's private archives" }
 3003 = { path = "ronzen-spada.webp", caption = "Ronzen falls from the top rope.", source = "Jędruś Bułecka's private archives" }
@@ -17,8 +17,8 @@
 5001 = { path = "czeska-czaszeczka.webp", caption = "[Skull Evil](@/w/skull-evil.md).", source = "Jędruś Bułecka's private archives" }
 5002 = { path = "asmund.webp", caption = "[Asmund](@/w/asmund.md).", source = "Jędruś Bułecka's private archives" }
 6001 = { path = "mloda-nigdy-tej-reki-juz-nie-umyje.webp", caption = "Stanisław Van Dobroniak high-fives the same girl who'd distained the German.", source = "Jędruś Bułecka's private archives" }
-6002 = { path = "tance-hulanki....webp", caption = "♪ In a stone cellar… ♪", source = "Jędruś Bułecka's private archives" }
-6003 = { path = "...swawola.webp", caption = "♪ …danced the highwaymen. ♪", source = "Jędruś Bułecka's private archives" }
+6002 = { path = "tance-hulanki....webp", caption = "♪ _In a stone cellar…_ ♪", source = "Jędruś Bułecka's private archives" }
+6003 = { path = "...swawola.webp", caption = "♪ _…danced the highwaymen._ ♪", source = "Jędruś Bułecka's private archives" }
 6004 = { path = "roll-credits.webp", caption = "Kripto and Red Thunder apply the titular beatdown to Jędruś Bułecka.", source = "Jędruś Bułecka's private archives" }
 6005 = { path = "klotnia-miedzy-partnerami.webp", caption = "Red Thunder attacks Kripto.", source = "Jędruś Bułecka's private archives" }
 6006 = { path = "thunder-doesnt-care.webp", caption = "[Red Thunder](@/w/red-thunder.md) walks away as Manny counts Kripto pinned by Stanisław Van Dobroniak.", source = "Jędruś Bułecka's private archives" }
