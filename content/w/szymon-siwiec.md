@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "szymon-siwiec.webp", caption = "Szymon Siwiec at [MZW Beatdown 2016](@/e/mzw/2016-05-14-mzw-beatdown.md).", source = "TV Pogranicza" }
 +++
 
 Szymon "Siwy" Siwiec is a retired Polish wrestler most notable for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also performed in [Polish Xtreme Wrestling](@/o/pxw.md).
