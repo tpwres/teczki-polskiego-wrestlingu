@@ -246,7 +246,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     ed: 2025-09-20
 - - 'Goblin (c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-    en: '[Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)'
+  - en: '[Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)'
     ed: 2025-10-24
     nc: Upcoming
 {% end %}
