@@ -30,8 +30,8 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: 'PpW Rules Match'
     nc: Upcoming
-- - '[Gabriel Queen](@/w/gabriel-queen.md)', '???'
-  - '[Vic Golden](@/w/vic-golden.md)', '???'
+- - '[Gabriel Queen](@/w/gabriel-queen.md) & ???'
+  - '[Vic Golden](@/w/vic-golden.md)' & ???'
   - s: Tag-team Match
     nc: upcoming
 - - '[Bartosz Plata](@/w/plata.md)'
