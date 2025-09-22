@@ -121,4 +121,4 @@ Both forms can be used inline with other text. Styling is added so that the brow
 
 The text may be plaintext or Markdown, including links. However, reference style links where targets are defined in the footer, will not work correctly here. Any links must specify their target directly inline, e.g. `[Title](http://example.com)`.
 
-Note also that when using links, the user experience is not ideal: the icon leads to one location, and the link text to another. It is best to avoid this situation, and only use plaintext.
+Both the icon and any text given will become a link. However, note that when the Markdown contains a link, the user experience is not ideal: the icon leads to one location, and the link text to another. It is best to avoid this situation, and only use plaintext.
