@@ -35,8 +35,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
 - - '_rookie_ Antek'
   - '[Max Speed](@/w/max-speed.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-  - s: 'Pre-show Triple Threat Match'
-    n: Wielkie Testy Platy
+  - s: 'Wielkie Testy Platy - Pre-show Triple Threat Match'
 - - '[Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
   - '[Marcelito](@/w/marcelito.md) & [Sambor](@/w/sambor.md)'
   - s: Tag Team Match
