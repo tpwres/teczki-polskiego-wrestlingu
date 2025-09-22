@@ -60,7 +60,7 @@ After spending the first half of 2023 in the midcard, David seemingly started ge
 
 #### Tag Team Champion
 
-At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as [Team Visegrad](@/tt/team-visegrad.md)), he won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md).
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as [Team Visegrad](@/tt/team-visegrad.md)), Oliwa won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md).
 
 Although Team Visegrad had been active in Austria since 2021, Godzina Zero 2025 was their official Polish debut.
 
