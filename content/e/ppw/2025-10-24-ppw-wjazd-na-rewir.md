@@ -18,6 +18,8 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 * The event was announced on 21.08.2025 in a [Facebook post][w-breslau-bedziem], which also named a few of the workers: [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), and unspecified "local contenders" from [Maniac Zone Wrestling](@/o/mzw.md).
 * The ticket sale commenced on 29.08.2025 on the usual Stage24 website. At the same time, PpW teased a "mighty surprise", to be unveiled in a few days.
 * On the next day the promotion announced the return to wrestling and the PpW debut of one of the most experienced Polish workers - [Justin Joy](@/w/justin-joy.md).
+* At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), [Gabriel Queen](@/w/gabriel-queen.md) challenged [Vic Golden](@/w/vic-golden.md) to a tag team match with any member of Rodzina against Queen and mystery partner at the Wrocław's show. Golden accepted.
+* At the same show, [Bartosz Plata](@/w/plata.md) confirmed in an interview he would be present at Wrocław's show.
 * 22.09.2025 saw the announcement of the first match-up - [Biesiad Strong](@/w/biesiad.md) vs [Goblin](@/w/goblin.md) for the [PpW Championship](@/c/ppw-championship.md).
 
 ## Predicted card
@@ -28,6 +30,13 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: 'PpW Rules Match'
     nc: Upcoming
+- - '[Gabriel Queen](@/w/gabriel-queen.md)', '???'
+  - '[Vic Golden](@/w/vic-golden.md)', '???'
+  - s: Tag-team Match
+    nc: upcoming
+- - '[Bartosz Plata](@/w/plata.md)'
+  - '???'
+  - nc: upcoming    
 {% end %}
 
 ### Recap
