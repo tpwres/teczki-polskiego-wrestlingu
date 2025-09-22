@@ -51,7 +51,7 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost hi
 
 #### Singles competition
 
-After this defection from Greg, Chemik focused on defending his OldTown Championship. He defeated Michael Schenkenberg at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), but after his victory he was confronted by [Filip Fux](@/w/filip-fux.md), which led to their Street Fight at [the next show](@/e/kpw/2025-04-11-kpw-arena-28.md). Chemik managed to emerge victorious from that bout, however a few months later he lost the Championship to [Leon Lato](@/w/leon-lato.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
+After this defection from Greg, Chemik focused on defending his OldTown Championship. He defeated Michael Schenkenberg at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), but after his victory he was confronted by [Filip Fux](@/w/filip-fux.md), which led to their Street Fight at [the next show](@/e/kpw/2025-04-11-kpw-arena-28.md). Chemik managed to emerge victorious from that bout, and defended the title again at the [next show](@/e/kpw/2025-06-20-kpw-czas-antenowy.md] versus Luca De Leone. However, two months later he lost the Championship to [Leon Lato](@/w/leon-lato.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
 
 ### Legacy of Wrestling (2024-present)
 
