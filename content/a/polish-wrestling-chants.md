@@ -24,9 +24,6 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chuj ci w dupę") %}xˈuj t͡ɕˈi vˈɨ dˈupɛ{% end %} 🌶️🌶️
 * _Kurwy i śmiecie, z [miasta] nie wyjedziecie_ - "Motherfuckers, you ain't leaving [city] alive": used against heels, especially billed from out of town. \
   {% ipa(tts="Kurwy i śmiecie, z miasta nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
-* _Bartoszyce, a gdzie to kurwa jest?_ - "Bartoszyce, where the fuck is that?": used to insult a [Gustav Gryffin's](@/w/gustav-gryffin.md) hometown. \
-  Sometimes used for other heel wrestlers' cities, in which case it may need extra words to match the rhythm. For [Chemik's](@/w/chemik.md) four-syllable hometown of Wejherowo no padding is needed, but for [Isnorr's](@/w/isnorr.md) Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
-  {% ipa(tts="Bartoszyce a gdzie to kurwa jest") %}bˌartɔʃˈɨt͡sɛ, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?{% end %} 🌶️🌶️
 * _Chuj ci na imię, hej [wrestler], chuj ci na imię_ - roughly equivalent to the British "[Wrestler] is a wanker" chant, although the expletive is stronger (lit. "Dick's your name"). \
   {% ipa(tts="Chuj ci na imię, hej [wrestler], chuj ci na imię") %}xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;vrˈɛstlɛr&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ{% end %} 🌶️️🌶️
 
@@ -134,6 +131,11 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
 * _Siła przyjaźni_ - "Power of friendship": originally [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). Later used more widely, to cheer on any displays of friendship in the ring. \
   {% ipa(tts="Siła przyjaźni") %}ɕˈiwa pʃɨjˈaʑɲi{% end %}
+* _Bartoszyce, a gdzie to kurwa jest?_ - "Bartoszyce, where the fuck is that?": used to insult a [Gustav Gryffin's](@/w/gustav-gryffin.md) hometown. \
+  Sometimes used for other heel wrestlers' cities, in which case it may need extra words to match the rhythm. For [Chemik's](@/w/chemik.md) four-syllable hometown of Wejherowo no padding is needed, but for [Isnorr's](@/w/isnorr.md) Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
+  {% ipa(tts="Bartoszyce, a gdzie to kurwa jest") %}bˌartɔʃˈɨt͡sɛ, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?{% end %} 🌶️🌶️
+* _Bartoszyce, my wiemy gdzie to jest_ - "Bartoszyce, we know where it is": used after Gustav's face-turn.
+  {% ipa(tts="Bartoszyce, my wiemy gdzie to jest") %}bˌartɔʃˈɨt͡sɛ, mɨ vʲˈɛmɨ ɡd͡ʑˈɛ tɔ jˈɛst.{% end %}
 * _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. \
   {% ipa(tts="Bóg jest łysy") %}bˈuk jˈɛst wˈɨsɨ{% end %} \
   Also _Bóg ma wąsa_ - "God has a moustache", when he grew one. \
