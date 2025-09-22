@@ -35,7 +35,7 @@ After the initial losing streak, for some of which he blamed Opol, Lesak agreed 
 
 #### Betraying Greg
 
-At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took part in a segment, when himself - along with Chemik and [Rosetti](@/w/rosetti.md) - turned on Greg. Ater a beatdown they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but after his losing streak, he was no longer worth following. After that Lesak went separate way and focused on solo career. He lost to [Filip Fux](@/w/filip-fux.md) in a Contender Match Qualifier for [KPW Championship](@/c/kpw-championship.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) and won a Singles Match against [Leon Lato](@/w/leon-lato.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md).
+At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took part in a segment, when himself - along with Chemik and [Rosetti](@/w/rosetti.md) - turned on Greg. Ater a beatdown they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but after his losing streak, he was no longer worth following. After that Lesak went separate way and focused on solo career. He lost to [Filip Fux](@/w/filip-fux.md) in a Contender Match Qualifier for [KPW Championship](@/c/kpw-championship.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) and won a Singles Match against [Leon Lato](@/w/leon-lato.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Later, at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), Lesak emerged victorious from the Battle Royal, winning a Championship contract.
 
 ## In wrestling
 
