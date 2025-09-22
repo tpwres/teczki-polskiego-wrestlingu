@@ -18,7 +18,7 @@
 5002 = { path = "asmund.webp", caption = "[Asmund](@/w/asmund.md).", source = "Jędruś Bułecka's private archives" }
 6001 = { path = "mloda-nigdy-tej-reki-juz-nie-umyje.webp", caption = "Stanisław Van Dobroniak high-fives the same girl who'd distained the German.", source = "Jędruś Bułecka's private archives" }
 6002 = { path = "tance-hulanki....webp", caption = "♪ _In a stone cellar…_ ♪", source = "Jędruś Bułecka's private archives" }
-6003 = { path = "...swawola.webp", caption = "♪ _…danced the highwaymen._ ♪", source = "Jędruś Bułecka's private archives" }
+6003 = { path = "swawola.webp", caption = "♪ _…danced the highwaymen._ ♪", source = "Jędruś Bułecka's private archives" }
 6004 = { path = "roll-credits.webp", caption = "Kripto and Red Thunder apply the titular beatdown to Jędruś Bułecka.", source = "Jędruś Bułecka's private archives" }
 6005 = { path = "klotnia-miedzy-partnerami.webp", caption = "Red Thunder attacks Kripto.", source = "Jędruś Bułecka's private archives" }
 6006 = { path = "thunder-doesnt-care.webp", caption = "[Red Thunder](@/w/red-thunder.md) walks away as Manny counts Kripto pinned by Stanisław Van Dobroniak.", source = "Jędruś Bułecka's private archives" }
