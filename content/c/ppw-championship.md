@@ -244,7 +244,6 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles Match
     en: '[Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md)'
     ed: 2025-09-20
-    nc: upcoming
 {% end %}
 
 ## References

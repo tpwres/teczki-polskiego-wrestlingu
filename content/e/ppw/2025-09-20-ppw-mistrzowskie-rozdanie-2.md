@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), and an apparent "sequel" to [a show from 2023](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md). It'll be set in [Mińska&nbsp;65's](@/v/minska-65.md) _Hala Labo_.
+Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), billed as a sequel to [a show from 2023](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md). It was held in [Mińska&nbsp;65's](@/v/minska-65.md) _Hala Labo_.
 
 ## Build-up
 
@@ -31,45 +31,65 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 
 ## Card
 
-{% card(predicted=true) %}
-- - '[_The Fool_ Goblin](@/w/goblin.md)(c)'
-  - '[_The Star_ Robert Star](@/w/robert-star.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
-- - '[_The World_ Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[_The Empress_ Agentka Agatka](@/w/agentka-agatka.md)'
+{% card() %}
+- - '_rookie_ Antek'
+  - '[Max Speed](@/w/max-speed.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - s: 'Pre-show Triple Threat Match'
+    n: Wielkie Testy Platy
+- - '[Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
+  - '[Marcelito](@/w/marcelito.md) & [Sambor](@/w/sambor.md)'
+  - s: Tag Team Match
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Marco Hammers](@/w/marco-hammers.md)'
+  - g: Mister Z asserts Zmowa's dominance, but Gustav finally snaps and turns on his boss.
+- - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Custody of [Oskar](@/w/oskar-alexander.md) match.'
-    nc: upcoming
-- - '[_Wheel of Fortune_ Oskar Alexander](@/w/oskar-alexander.md)'
-  - '[_Hierophant_ Johnny Blade](@/w/johnny-blade.md)'
-  - s: 'Hardcore match'
-    nc: upcoming
-- - '[_The Tower_ Marco Hammers](@/w/marco-hammers.md)'
-  - '[_Justice_ Axel Fox](@/w/axel-fox.md)'
-  - nc: upcoming
-- - '[_The Moon_ Marcelito](@/w/marcelito.md) & [_The Hermit_ Sambor](@/w/sambor.md)'
-  - '[_The Magician_ Sentinel](@/w/sentinel.md) & [_The Hanged Man_ Wonder Haze](@/w/wonder-haze.md)'
-  - s: Tag Team Match 
-    nc: upcoming
-- - '[_Temperance_ Bartosz Plata](@/w/plata.md)'
-  - '???'
-  - s: 'Wielkie Testy Platy'
-    nc: upcoming
-- - '[_The Lover_ Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[_Strength_ Biesiad Strong](@/w/biesiad.md)'
-  - '[_Death_ Olgierd](@/w/olgierd.md)'
-  - '[_The Devil_ Vic Golden](@/w/vic-golden.md)'
+    nc: Mid-match stipulation change
+- - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - s: 'Tornado Tag-Team Hardcore Match'
+- - '[Goblin](@/w/goblin.md)(c)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: PpW Rules Match
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
   - s: Total Elimination Fatal 4-Way Match
-    nc: upcoming
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Pre-show Host: '[Joker](@/w/joker.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)'
+    Guest commentary: '[Isnorr](@/w/isnorr.md)'
 {% end %}
 
 ### Recap
 
-* TBD
+* Present in the audience was [Isnorr](@/w/isnorr.md), proudly wearing his [ZLN GNG Championship](@/tt/zieloni.md#trivia). He was also invited to the commentary booth for Oskar & Agatka vs Dobroniak & Blade.
+* After Rookie Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.
+  Enter [Max Speed](@/w/max-speed.md) in his unannounced PpW debut.
+* Somewhat unusually, Marco Hammers entered the ring without Olgierd, nor did the match see any interference.
+* Gustav delivered a massive Spinebuster to Mister Z, and later an 11-200 (Angels Wings) to Marco. 11-200 is the postal code for Bartoszyce, his hometown and the target of a [popular chant](@/a/polish-wrestling-chants.md#wrestler-specific).
+* After his turn, Gustav exited not through the ramp but the audience.
+* Dobroniak comically no-sold much of Agatka's early offense. At one moment as Agatka was choking out Dobroniak, Johnny Blade walked into ringside, holding a plush Brainrot Tung Tung Sahur toy tied to the end of a stick, and used it to distract Oskar.
+* Johnny then gave up the toy to Oskar, and proceeded to choke Agatka. Oskar soon joined, grabbing Johnny's leg but putting himself in Dobroniak's chokehold.
+* Referee Kornel then grabbed a microphone and brought it to Dobroniak, who suggested the match should be replaced with a Tornado Tag Team, to which all present agreed. This replaced the advertised Oskar vs Johnny Hardcore match.
+* Agatka countered Dobroniak by bringing in a pack of Dobroniak's favourite kabanosy, also tied to a string at the end of a pole. While a successful distraction, ultimately she angered him by throwing them on the floor, and ended up receiving them brutally shoved in her face.
+* When Johnny was setting up the ending, planning to drop on Oskar holding his trademark ["Koniec"][koniec] (_End_) road sign plate, a hooded figure walked into the ring and shoved him off the top rope, then proceeded to deliver a cutter to Dobroniak, and helped Agatka pin him. He later revealed himself to be Robert Star, who thus became the newest member of their "Family" stable.
+* An intermission followed that match, during which Joker interviewed wrestlers backstage, starting with the Hungarian luchadors, in English. Sentinel expressed interest in becoming PpW's tag team champions along with Wonder Haze.
+* In his interview, rookie Antek revealed his ring name: Antoni Ocean, and expressed pride as the first PpW rookie to win his second match. He was quickly approached by Mister Z, who invited him to join Zmowa.
+* Originally booked as a Classic Wrestling match, Goblin vs Robert was declared a PpW Rules match by the commentary team, after Goblin took the microphone and used some foul language to describe Robert's dishonourable deeds earlier that night. The match started with both wielding kendo sticks, and many other weapons followed soon.
+* Goblin's pin attempt on Robert was interrupted by Oskar & Agatka who ran into the ring, with Oskar pulling Robert out of the pinning predicament and to the outside. However, they were soon countered by Dobroniak and Blade who also ran out to intervene.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429937)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-mistrzowskie-rozdanie-2-20-09-25-09-20-2025-21-09-41) (requires paid subscription)
 * [Facebook post announcing the event][mr2]
 
 [mr2]: https://www.facebook.com/OficjalnePPW/posts/pfbid0taRW9fXjs7ofV4zixySEMYGQ9VfZZXPdemaSjGDpAWzoPNFjnqpo7J7WzS84B4mTl
@@ -77,3 +97,4 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) is an upcoming show by [
 [amber]: https://en.wikipedia.org/wiki/The_Chronicles_of_Amber
 [kabanosy-sa-na-podlodze]: https://www.facebook.com/reel/1019415226812638
 [kabanosy-sa-na-wikipedii]: https://en.wikipedia.org/wiki/Kabanos
+[koniec]: https://en.wikipedia.org/wiki/Road_signs_in_Poland#Complementary_plates
