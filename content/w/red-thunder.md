@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Red Thunder, also known as "Kowboj Luke", is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
+Red Thunder, also known as Kowboj Luke, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -26,7 +26,7 @@ Red Thunder, also known as "Kowboj Luke", is a retired Polish wrestler best know
 
 #### Kowboj Luke
 
-Red Thunder started his career in MZW in a cowboy gimmick, named "Kowboj Luke" (_Cowboy Luke_). He was one of the first trainees of the MZW Academy who managed to score his debut at the first official MZW showcase, [Pokaz Adeptów](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) in May 2014. As Kowboj Luke he managed to make a total of five appearances, winning in only one match - against [Szymon Siwiec](@/w/szymon-siwiec.md) at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md).
+Red Thunder started his career in MZW in a cowboy gimmick, named Kowboj Luke (_Cowboy Luke_). He was one of the first trainees of the MZW Academy who managed to score his debut at the first official MZW showcase, [Pokaz Adeptów](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) in May 2014. As Kowboj Luke he managed to make a total of five appearances, winning in only one match - against [Szymon Siwiec](@/w/szymon-siwiec.md) at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md).
 
 #### Red Thunder
 

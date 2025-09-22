@@ -22,24 +22,24 @@ MZW Tag Team Championship is a defunct professional wrestling championship, whic
 ## Statistics
 
 * First Champions: [Zbójnicy](@/tt/zbojnicy.md) ([Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md))
-* Last Champions: Wataha ([Justin Joy](@/w/justin-joy.md) & Apollo Anderson)
-* Longest reign: Catch Connection ([Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)) (497 days)
+* Last Champions: [Wataha](@/tt/wataha.md) ([Justin Joy](@/w/justin-joy.md) & [Apollo Anderson](@/w/apollo-anderson.md))
+* Longest reign: [Catch Connection](@/tt/catch-connection.md) ([Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)) (497 days)
 * Oldest Champion: Jędruś Bułecka (31 years)
 * Youngest Champion: Apollo Anderson (18 years)
 * Lightest Champions: [Red Thunder](@/w/red-thunder.md) (77kg)
 
 ## History
 
-MZW introduced this title at the first [Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md), where Zbójnicy (Jędruś Bułecka & Stanisław Van Dobroniak) contested for the title against a team of Red Thunder and Kripto, with the former team becoming inaugural champions.
-The last champions were Wataha (Justin Joy and Apollo Anderson), however at [MZW Project 3: Black & White](@/e/mzw/2019-02-09-mzw-project-3-black-white.md), the team members turned on each other, with Apollo beating up Justin and taking both of the championship belts with him.
+MZW introduced this title at the first [Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md), where [Zbójnicy](@/tt/zbojnicy.md) (Jędruś Bułecka & Stanisław Van Dobroniak) contested for the belts against a team of [Red Thunder](@/w/red-thunder.md) and [Kripto](@/w/kripto.md), with the former team becoming inaugural champions.
+The last champions were [Wataha](@/tt/wataha.md) ([Justin Joy](@/w/justin-joy.md) and [Apollo Anderson](@/w/apollo-anderson.md)), however at [MZW Project 3: Black & White](@/e/mzw/2019-02-09-mzw-project-3-black-white.md), the team members turned on each other, with Apollo beating up Justin and taking both of the championship belts with him.
 The championship was subsequently vacated by Jędruś Bułecka at [MZW Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md).
 
 ## Belt design
 
 Compared to the [MZW Championship](@/c/mzw-championship.md) belt, it was rather simple and modest.
 The main plate was elliptical and grey-coloured, with a simple "MZW" logo, then "Tag Team" and "Championship" placed respectively above and below the logo.
-Triangle-shaped sideplates showed the Polish flag, with an eagle (from the Polish coat of arms) overlaid on top.
-Plates were affixed to plain black leather. There was no engravings or detailed design, as all of the logos, text and decorations were simply glued onto the plates.
+Triangle-shaped sideplates showed the Polish flag, with an eagle (from the [Polish coat of arms][orzeł-biały]) overlaid on top.
+The plates were affixed to plain black leather. There were no engravings or detailed designs, as all of the logos, text and decorations were simply glued onto the plates.
 
 The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/2017-06-03-mzw-champions-war-3.md).
 
@@ -115,3 +115,5 @@ The belts are featured in the show poster for [MZW Champions War III](@/e/mzw/20
 **TOTAL:** 161 days.
 
 The team broke up at [MZW Project 4: Open Your Eyes](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md), resulting in the title being vacated and subsequently retired by Jędruś Bułecka, acting as MZW's authority figure.
+
+[orzeł-biały]: https://en.wikipedia.org/wiki/Coat_of_arms_of_Poland
