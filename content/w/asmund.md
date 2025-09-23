@@ -39,6 +39,10 @@ For most of 2015 and 2016 Asmund worked as a midcard tweener talent, portraying 
 
 During the "Project Era" Asmund became one of the top stars on the roster, managing to score a decent victory streak. At [Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md) he defeated [Matt Buckna](@/w/matt-buckna.md) winning the #1 Contender Spot for the MZW Championship. He faced [Damien Rothschild](@/w/damien-rothschild.md) - who managed to defeat Shadow and [Justin Joy](@/w/justin-joy.md) beforehand - at [Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) in August 2019. Asmund defeated Rothschild, winning the MZW Championship for the second time in his career, but immedietaly after his victory he cut a promo in which he announced his retirement from professional wrestling. This marked Asmund's final appearance on the Polish wrestling scene.
 
+## International wrestling appearances
+
+Between 2017 and 2019 Asmund made a few appearances for Hungarian Pro Wrestling Magyarország and Germany-based Next Step Wrestling.
+
 ## In wrestling
 
 * Finishers:
