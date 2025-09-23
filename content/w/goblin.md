@@ -68,14 +68,18 @@ The Acid Messiah did that by eliminating his Tag Team partner and friend Axel Fo
 At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), the run-up show to Ledwo Legalne 5, Gustav and Goblin sat down in the ring for a contract signing. Gustav selected the stipulation for their upcoming match: Three Stages of Hell, starting with a Classic Wrestling Match, transitioning to a No Holds Barred Match after the first pin or submission. The third stage could only be won by knocking out the opponent. Goblin lost the first segment but managed to recover, and finished off his opponent with a daring table spot over the entrance ramp, rendering Gustav unconscious.
 This made him the new [PpW Champion](@/c/ppw-championship.md), ending Gustav's one-year reign.
 
-### Maniac Zone Wrestling
+### Maniac Zone Wrestling (2025-present)
 
 In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing German wrestler Robert Kaiser at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
+
+## International wrestling appearances
+
+From 2023 onwards Goblin took a few international bookings. He made one appearance in Hungarian Passion Pro Wrestling in 2023, and he also worked in a couple of matches in Germany and Sweden.
 
 ## In wrestling
 
 * Finishers:
-  - Swinging Reverse STO (2023-)
+  - _MK-ULTRA_ (Swinging Reverse STO) (2023-)
   - Green Mist (2023-)
   - _Kabacki Krztusiec_ (Modified Muta Lock) (2025-)
 * Tag Teams and stables:
@@ -97,6 +101,10 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 * [PpW Ewenement](@/o/ppw.md):
   - 20 Typa 20 Broni Rumble Match (2025)
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
+
+## Internet presence
+
+* [Goblin's Instagram](https://www.instagram.com/acid_messiah_goblin)
 
 ## References
 
