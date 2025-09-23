@@ -84,7 +84,7 @@ In November 2024 Gustav was set to face [Wiktor Longman](@/w/wiktor-longman.md) 
 
 On 22.03.2025 it was announced that Gustav would face Polish-American wrestler Kubes in a "Road to the Title Match" which would take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Gustav emerged victorious, advancing further in the championship race.
 
-At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd and [Chemik](@/w/chemik.md) to defeat [Syriusz Dziedzic](@/w/dziedzic.md), Sambor and [Bartosz Plata](@/bartosz-plata.md) in a Six-Man Tag Team Match.
+At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd and [Chemik](@/w/chemik.md) to defeat [Syriusz Dziedzic](@/w/dziedzic.md), Sambor and [Bartosz Plata](@/w/bartosz-plata.md) in a Six-Man Tag Team Match.
 
 ## International wrestling appearances
 
