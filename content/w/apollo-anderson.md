@@ -35,6 +35,10 @@ Wataha officially broke up at [Project 4](@/e/mzw/2019-03-23-mzw-project-4-open-
 
 Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), where he lost to [Marcelito](@/w/marcelito.md). Beginning with [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), he started going by Febus 'The Wolf'.
 
+## International wrestling appearances
+
+Between 2017 and 2019 Apollo Anderson made a few international appearances. In 2017 he worked one match for Pro Wrestling Magyarország in Hungary, and another one for Next Step Wrestling in 2019. He was scheduled to work for Czech federation VcV in 2019, but due to personal reasons his career was halted.
+
 ## In wrestling
 
 * Finishers:
@@ -52,6 +56,10 @@ Apollo made his re-debut as "The Wolf" at [MZW Forever](@/e/mzw/2025-03-29-mzw-f
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; final) - with [Justin Joy](@/w/justin-joy.md)
+
+## Internet presence
+
+* [Febus's Instagram](https://www.instagram.com/febus_the_wolf)
 
 ## References
 
