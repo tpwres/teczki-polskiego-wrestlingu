@@ -8,7 +8,7 @@ hide_roster = true
 hide_events = true
 +++
 
-PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/ptw.md).
+PTW Academy is a wrestling school associated with [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 

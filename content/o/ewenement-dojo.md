@@ -13,7 +13,7 @@ hide_events = true
 4 = { path = "trener-fox-ewenement-dojo.webp", caption = "Facebook post announcing [Axel Fox](@/w/axel-fox.md) joining the dojo. The photo was taken at WxW Academy, whose logo is visible on the back wall.", source = "Facebook Ewenement Dojo" }
 +++
 
-Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.md).
+Ewenement Dojo is a wrestling school associated with [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
