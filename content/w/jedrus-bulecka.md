@@ -40,6 +40,10 @@ Bułecka began his MZW chapter as Patriota (_The Patriot_), a Polish-themed mask
 
 Jędruś made regular appearances at most MZW shows until June 2019. Following [Project 5](@/e/mzw/2019-06-01-mzw-project-5-hero.md) he retired from wrestling. Years later, he made a surprising return to the ring at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024, however, where he was the final contestant in the Battle Royal.
 
+## International wrestling appearances
+
+From 2011 to 2013 Jędruś made a handful of appearances outside of Poland. Most notably he worked at least one official match in Scottish Wrestling Entertainment in 2011, as well as some appearances on the German independent scene.
+
 ## Other media
 
 Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wrestlera](@/a/marzenie-wrestlera.md), a documentary film about the conflict of his passion for wrestling with his academic pursuits. He is also featured in another documentary titled [Amerykański Sen](@/a/amerykanski-sen.md), where he's portrayed as a wrestler and a coach, tutoring several rookies including [Szymon](@/w/szymon-siwiec.md).
@@ -47,8 +51,8 @@ Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wre
 ## In wrestling
 
 * Finishers:
-- _Flaming Valask_ (Leg Drop Bulldog)
-- _Flaga Na Maszt_ (Headlock Driver)
+  - _Flaming Valask_ (Leg Drop Bulldog)
+  - _Flaga Na Maszt_ (Headlock Driver)
 * Tag teams and stables:
   - [Zbójnicy](@/tt/zbojnicy.md) (2015-2017)
 * Entrance music:
