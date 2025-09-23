@@ -5,7 +5,7 @@ weight = 0
 authors = ["Krzysztof Zych", "M3n747"]
 +++
 
-This is a short guide to Polish wrestling crowd chants.
+This is a short guide to Polish wrestling crowd chants, in alphabetical order.
 
 <!-- more -->
 
