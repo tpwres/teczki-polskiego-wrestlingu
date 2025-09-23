@@ -53,11 +53,21 @@ Brave was also one of the contenders for the inaugural [PTW Underground Champion
 
 Alex got involved in the main event of [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), where he and Vincent ambushed chairman Okoński before his match and put him through the commentary table. They were, however, chased off by [Andrzej Supron](@/w/andrzej-supron.md) - the special guest referee for the match - who headbutted both of the attackers.
 
+#### Royal Rebels and Nietykalni
+
+At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Pawłowski expressed his gratitude for both Brave and Caravaggio, praising them for their actions at Prezes vs Prezes. He formed a tag team of Brave and Caravaggio - [Royal Rebels](@/tt/royal-rebels.md) - and introduced them into a new Pawłowski-centered faction called [Nietyklani](@/tt/nietykalni.md) (_The Untouchables_), consisting of all of them and Puncher. They were given the opportunity to face [L'Orda](@/tt/l-orda.md) at the same show. Brave and Vincent managed to score a victory, becoming the new [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md). From that point onwards Nietykalni ruled over PTW, constantly feuding with Łukasz Okoński and his allies: [Spartan](@/w/spartan.md) and referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md), who tried to stand their ground at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), but were bullied into submission by Royal Rebels.
+
+## International wrestling appearances
+
+In January 2024 Alex Brave (then named S. Rafał) made his international debut at a PTW/WWA show. He also made one more appearance in PTW-affiliated federation BestYa Wrestling in Italy, which took place in January 2025.
+
 ## In wrestling
 
 * Finishers:
   - Moonsault (2024-)
-
+* Tag Teams and stables:
+  - [Royal Rebels](@/tt/royal-rebels.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
   - "White Rabbit" by Egypt Central
     {{ org_badge(orgs=['ptw']) }} (2023-) <br>
@@ -69,3 +79,8 @@ Alex got involved in the main event of [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Vincent Caravaggio](@/w/vincent-caravaggio.md); current)
+
+## Internet presence
+
+* [Brave's Facebook profile](https://www.facebook.com/alexbraveptw)
+* [Brave's Instagram](https://www.instagram.com/alex_brave_ptw)
