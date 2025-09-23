@@ -61,6 +61,10 @@ Since then, he had no wrestling matches, preferring to focus on his activities a
 
 On 30.08.2025 [PpW Ewenement Wrestling](@/o/ppw.md) published a [post][joy-is-ewenement] on their official Facebook, stating that Justin Joy is returning to wrestling and would make his PpW debut at their first tour show, [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). This marked not only Joy's first wrestling match since [PTW Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md) in April 2023, but also his return to Wrocław, where he last worked in 2020 at [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
 
+## International wrestling appearances 
+
+Justin made his first international appearance in 2014 during a Next Step Wrestling show in Dresden. After his excrusion to the UK he started gaining increasingly more experience working internationally: first in the UK federations such as Coventry Pro Wrestling, and later, after his return to Poland, in German federations such as Next Step Wrestling, Pro Wrestling Deutschland and Unlimited Wrestling.
+
 ## In wrestling
 
 * Finishers:
