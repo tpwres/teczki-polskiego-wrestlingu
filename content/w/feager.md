@@ -28,7 +28,7 @@ Bill Feager, also known simply as Feager, is a Polish wrestler known for his app
 
 #### Backyard era
 
-Feager joined [PpW Ewenement](@/o/ppw.md) back in their backyard days, some time around mid-2015. In his early days - unlike many other PpW wrestlers - he worked only under his main alias "Feager", a character strongly influenced by wrestlers such as the Undertaker, Brock Lesnar and Roman Reigns. At the time he also teamed up with [Steven Strong](@/w/biesiad.md) and [Hirinus](@/w/mister-z.md). Feager made his last appearance for the backyard-era PpW in his promo announcing his appearance at [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md), where he no-showed the Tornado Hardcore Match. 
+Feager joined [PpW Ewenement](@/o/ppw.md) back in their backyard days, some time around mid-2015. In his early days - unlike many other PpW wrestlers - he worked only under his main alias "Feager" (pronounced like "pager"), a character strongly influenced by wrestlers such as the Undertaker, Brock Lesnar and Roman Reigns. At the time he also teamed up with [Steven Strong](@/w/biesiad.md) and [Hirinus](@/w/mister-z.md). Feager made his last appearance for the backyard-era PpW in his promo announcing his appearance at [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md), where he no-showed the Tornado Hardcore Match. 
 
 #### Return and early feuds
 
@@ -44,7 +44,7 @@ After losing his PpW Championship Feager held a grudge against Biesiad, leading 
 
 #### Rivalry with Sambor
 
-At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Feager took part in the Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Sambor](@/w/sambor.md), where the stake was a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This match resulted in a three-way tie between his opponents, every one of them except Feager scoring a single point. Despite that, Feager made an unannounced appearance at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) where he attacked [Sambor](@/w/sambor.md), preventing him from winning the Ladder Match for a PpW Championship fight contract.
+At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Feager took part in the Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Sambor](@/w/sambor.md), where the stake was a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This match resulted in a three-way tie between his opponents, every one of them except Feager scoring a single point. Despite that, Feager made an unannounced appearance at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) where he attacked [Sambor](@/w/sambor.md), preventing him from winning the Ladder Match for a PpW Championship fight contract. This, however didn't led to anything, as he quietly vanished from PpW's programming.
 
 ### Maniac Zone Wrestling (2024)
 
