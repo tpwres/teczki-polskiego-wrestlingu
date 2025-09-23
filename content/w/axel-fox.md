@@ -47,12 +47,10 @@ Some time after his appearance in DFW, Amisz started regular pro wrestling train
 
 Amisz, now renamed and repackaged as "Axel Fox", quickly became one of MZW's most regular wrestlers, appearing on every show since the organization moved permanently to Wrocław. Since late 2018-early 2019 he was one of the founding members of ["Zieloni"](@/tt/zieloni.md) (_The Greens_) social group, which later evolved into a backstage group active on the Polish pro wrestling scene.
 
-Fox made a couple of appearances on the German indy scene, in Next Step Wrestling and Unlimited Wrestling (who often cooperated with MZW back then).
-
 His final appearance for MZW was at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
 Axel left MZW in early 2021, having not appeared at the tapings for [Project Basement](@/e/project-basement.md).
 
-### Prime Time Wrestling and European expansion (2021-2024)
+### Prime Time Wrestling (2021-2024)
 
 #### Debut and storyline with Justin Joy
 
@@ -69,8 +67,6 @@ At that time also became a part-time coach, training others at the PTW Performan
 In early 2024, Axel Fox was involved as one of the contenders at the [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Royal Rumble match, where he was one of the final two competitors with [Puncher](@/w/puncher.md), the final winner. Later on he was trying to win [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) from Budapest Bastards while teaming with [Marcelito](@/w/marcelito.md). It was unsucessful, same as his title fight against Marcelito and Scotty Rawk for British Wrestling Revolution Championship. After the end of the fight Axel teased a possible heelturn or at least rivarly with Marcelito, but due to his departure from PTW it led to nothing.
 
 Axel was one of the few wrestlers who kept his [PTW exit](@/a/ptw-exits.md) to himself. His departure was however confirmed by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on one of his livestreams.
-
-During his tenure in PTW, Axel become one of the most active Polish pro wrestlers on the European indy scene, making regular appearances in Germany for wXw Academy, wXw itself and That's Awesome Wrestling; in Austria for Rings of Europe and the PTW-associated WWA; and in Hungary for HCW and Passion Pro Wrestling.
 
 ### PpW Ewenement (2024-present)
 
@@ -94,9 +90,23 @@ Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declar
 
 During a post-match interview following the 20 Typa 20 Broni Match, Axel was attacked by Olgierd who'd managed to score a victory over Goblin in a brutal Dog Collar Match earlier the same night. Fox held a grudge against the victorious Goblin, not sure if he could trust his friend any more, but nevertheless they faced [Legia Łysych](@/tt/legia-lysych.md) in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md). Olgierd continued to torment Polish Fox in different ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, who was known to do that back when they were both trainees in MZW. This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over the defeated Fox.
 
+#### Losing streak
+
+After a defeat against Olgierd, Axel's frustration constantly grew. During his post-match interviews he began to question his abilities. He was defeated by [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), as well as by Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+
 ### Legacy of Wrestling (2024-present)
 
-On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a minimal rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
+On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair. 
+
+#### Championship pursuit
+
+At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning with Gabriel Queen in a Road to the Tile Match, putting him in a contender position for the LOW Championship. At [Legacy's next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md).
+
+## International wrestling career
+
+In 2019 Fox made a couple of appearances on the German indy scene, in Next Step Wrestling and Unlimited Wrestling (who often cooperated with MZW at the time).
+
+From around 2022 onwards Axel become one of the most active Polish pro wrestlers on the European indy scene, making regular appearances in Germany for wXw Academy, wXw itself, That's Awesome Wrestling and Project Nova; in Austria for Rings of Europe and the PTW-associated WWA; and in Hungary for HCW and Passion Pro Wrestling, as well as numerous other federations across Central Europe.
 
 ## In wrestling
 
@@ -129,9 +139,9 @@ On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox
     {{ music(spot='12yHvSYFXI7PGzNecUvIDu')}}
     {{ music(apple='1440863013?i=1440863140&l=pl')}}
   - "Crazy Like a Fox" by Independent Contractor
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-2024) <br>
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-present, both solo and in tag team with [Goblin](@/w/goblin.md)) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2024-present, both solo and in tag team with [Goblin](@/w/goblin.md)) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
@@ -143,6 +153,10 @@ On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox
 - Match of the Year - vs Justin Joy at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)
 - Moment of the Year - reuniting with Justin Joy
 - Feud of the Year - vs Justin Joy
+
+## Internet presence
+
+* [Axel's Instagram](https://www.instagram.com/axelfox.jakub)
 
 ## References
 
