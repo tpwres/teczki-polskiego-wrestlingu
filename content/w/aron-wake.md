@@ -45,7 +45,7 @@ During his second match at [Underground #6](@/e/ptw/2022-06-26-ptw-underground-6
 Since that moment he made only one official appearance at [PTW x Ryucon 2022](@/e/ptw/2022-07-31-ptw-x-ryucon.md), cutting a short promo.
 He continued to appear in the crowd during PTW shows, but ultimately [left the federation](@/a/ptw-exits.md) shortly after [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 
-### PpW Ewenement (2024-present)
+### PpW Ewenement (2024-2025)
 
 #### Surprise comeback
 
@@ -56,9 +56,11 @@ He surprised fans by making his first in-ring appearance in over two years at [A
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
-#### Championship pursuit
+#### Championship pursuit and injury
 
-In October 2024 Aron officially worked a match in MZW at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his first federation after more than three years. He started working as a heel, trying to win the [MZW Championship](@/c/mzw-championship.md), but was defeated by [Matt Buckna](@/w/matt-buckna.md). At the next show - [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) - Matt initially planned to fight [Shadow](@/w/shadow.md) in a Singles Match, but Aron inserted himself into the card, transforming the match into a Triple Threat. Once again, Aron was unable to secure a win over Matt and Shadow.
+In October 2024 Aron worked at [MZW No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to his original federation after more than three years. He started working as a heel, trying to win the [MZW Championship](@/c/mzw-championship.md), but was defeated by [Matt Buckna](@/w/matt-buckna.md). At the next show - [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) - Matt initially planned to fight [Shadow](@/w/shadow.md) in a Singles Match, but Aron inserted himself into the card, transforming the match into a Triple Threat. Once again, Aron was unable to secure a win over Matt or Shadow. 
+
+At [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) in June 2025 Aron suffered another serious injury in his career, breaking his left arm by landing on the apron in a failed ladder dive spot. The injury benched him for the forseeable future.
 
 ### Legacy of Wrestling (2024-present)
 
@@ -86,8 +88,7 @@ At [LoW vol.2](@/e/low/2025-04-06-low-2.md) Aron took part in Fatal Five-Way Mat
 
 ## Internet presence
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24640)
-* [aron_wake](https://www.instagram.com/aron_wake/) on Instagram
+* [Aron's Instagram](https://www.instagram.com/aron_wake/)
 
 ## References
 
