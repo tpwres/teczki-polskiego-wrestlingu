@@ -52,13 +52,21 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
 
 The following week Max posted a farewell message on his social media, thanking several former and current PTW personalities, starting with [Wiktor Longman](@/w/wiktor-longman.md) but also including [Łukasz Okoński](@/w/lukasz-okonski.md) and [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). He wrote that he left the organization to seek further progress as a wrestler, and that "exploring the entire Polish wrestling scene can give me so much more". However, Max also wrote that he valued time spent there, recalled his debut match, his first mentors, and the people he trained himself - [Sigma Boy xD](@/w/sigma-boy.md) and [Herno](@/w/sedzia-herno.md).
 
-### Legacy of Wrestling (2025-)
+### Legacy of Wrestling (2025-present)
 
 Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by Wiktor Longman as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee.
 
-### Maniac Zone Wrestling (2025-)
+### Maniac Zone Wrestling (2025-present)
 
 Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announced Max Speed would debut for their federation at [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md), facing [Febus 'The Wolf'](@/w/apollo-anderson.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) in a Triple Threat Match.
+
+### PpW Ewenement Wrestling (2025-present)
+
+Max Speed made his unannounced debut for [PpW](@/o/ppw.md) in the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where he faced [Bartosz Plata](@/w/plata.md) and rookie Antek in a Triple Threat Match.
+
+## International wrestling appearances
+
+From 2024 onwards Max started taking international bookings. His debut outside of Poland took place in World Wrestling Austria in January 2024, and he also debuted in Hungary later that year. In 2025 he appeared in a few federations across the Europe, including Ukraine, Austria and Italy.
 
 ## In wrestling
 
@@ -66,7 +74,7 @@ Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announc
   - _I am speed_ (Codebreaker) (2023-)
 * Entrance music:
   - "Bangarang (Remix)" by Skrillex
-    {{ org_badge(orgs=['ptw', 'low']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'low', 'ppw', 'mzw']) }} (2023-) <br>
     {{ music(yt='YJVmu6yttiw')}}
     {{ music(spot='6VRhkROS2SZHGlp0pxndbJ')}}
     {{ music(apple='491596645?i=491596647')}}
@@ -81,7 +89,7 @@ Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announc
 
 ## Internet presence
 
-* [max.speed.wrestler](https://www.instagram.com/max.speed.wrestler/) on Instagram
+* [Speed's Instagram](https://www.instagram.com/max.speed.wrestler/)
 
 ## References
 
