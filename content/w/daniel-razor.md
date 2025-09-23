@@ -1,12 +1,14 @@
 +++
 title = "Daniel Razor"
 template = "talent_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
+
+Daniel Razor is a Polish wrestler known for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -46,7 +48,7 @@ As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the 
 
 ## Internet presence
 
-* [Instagram](https://www.instagram.com/real.razor.ptw/)
+* [Razor's Instagram](https://www.instagram.com/real.razor.ptw/)
 
 ## References
 
