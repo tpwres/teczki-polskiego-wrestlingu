@@ -75,7 +75,7 @@ He also worked as ring crew and timekeeper at [PpW Ale Grzeje](@/e/ppw/2024-07-1
 Marcelito made his official in-ring debut at [PpW Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) facing his ex-PTW colleague Axel Fox.
 About that time he developed his babyface persona, incorporating some humorous catchphrases such as "Kto zgasił światło?!" (_Who turned off the light?!_ - a reference to power failure during his match in PTW) as well as a new theme song.
 
-At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Marcelito formed a Tag Team with [Bartosz Plata](@/w/plata.md), dubbed _Platelito_, to face and defeat Hungarian wrestlers Atilla and Danny Roxx.
+At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Marcelito formed a tag team with [Bartosz Plata](@/w/plata.md), dubbed _Platelito_, to face and defeat Hungarian wrestlers Atilla and Danny Roxx. At [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) he was eliminated by [Sambor](@/w/sambor.md) in a Gauntlet Match. After that he teamed up with the Slavic Warrior against another Hungarian Team consisting of [Wonder Haze](@/w/wonder-haze.md) and [Sentinel](@/w/sentinel.md) at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), but they were defeated by the masked hungarians.
 
 ### Maniac Zone Wrestling (2024-present)
 
@@ -86,6 +86,10 @@ In October 2024 Marcelito performed at [Maniac Zone Wrestling](@/o/mzw.md) show 
 On 14th of August 2024 Marcelito was one of the wrestlers starring in the trailer for a new Polish wrestling federation - [Legacy of Wrestling](@/o/low.md).
 
 In November 2024 it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) - in another unsuccessful bout.
+
+## International wrestling appearances
+
+In 2022 and 2023 Marcelito made a handful of appearances for Austiran promotions Rings of Europe and PTW:WWA, which was owned by the fellow PTW wrestler [Krampus](@/w/krampus.md).
 
 ## In wrestling
 
