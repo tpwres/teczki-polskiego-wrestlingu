@@ -12,7 +12,7 @@ Jakub Linde is a Polish part-time wrestler and manager best known for his time i
 
 ## Basic info
 
-* Years active: 2024-
+* Years active: 2024
 * Gimmicks/nicknames:
   - Jakub Linde {{ org_badge(orgs=['ppw', 'low']) }}
   - Jakob Sigmarrson {{ org_badge(orgs=['ppw']) }} (April-June 2024)
@@ -35,9 +35,9 @@ In December 2024 Jakub Linde made his debut in the newly-created federation [Leg
 * Finishers:
   - Powerbomb (2024-)
 * Tag Teams and stables:
-  - [Zmowa](@/tt/zmowa.md) (2024-)
+  - [Zmowa](@/tt/zmowa.md) (2024)
 * Wrestlers managed:
-  - [Gustav Gryffin](@/w/gustav-gryffin.md) (2024-)
+  - [Gustav Gryffin](@/w/gustav-gryffin.md) (2024)
   - [Bochen](@/w/bochen.md)
 
 ## Internet presence
