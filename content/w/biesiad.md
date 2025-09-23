@@ -81,6 +81,10 @@ This didn't end the feud with Mister Z, however, as prior to [Teraz Albo Nigdy](
 
 Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), Biesiad was set to face Mister Z at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match. Despite his proficiency in matches involving tables, Biesiad was shockingly defeated by his arch-nemesis, seemingly ending their rivalry.
 
+#### TypeShit Tournament
+
+After defeating the leader of Zmowa, Biesiad took on Gustav Gryffin in an ECW Rules Match at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), which qualified him to take part in the final match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). In the meantime he also managed to defeat [Legia Łysych](@/tt/legia-lysych.md) in a Warsaw Brawl Tag Team Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). At Mistrzowskie Rozdanie 2 he faced Vic Golden, Gabriel Queen and Olgierd in a Total Elimination Fatal Four Way. His victory granted him a title match against Goblin at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
+
 ### Dream Factory Wrestling (2017)
 
 In February 2017 Biesiad, then working under the alias "Steven Strong", took part in [Dream Factory Wrestling's](@/o/dfw.md) Valentines Day show [Love Hurts, Wrestling Even More](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md). He worked in a Gauntlet Match, which was ultimately won by [Revage](@/w/rafael-kid.md).
@@ -100,7 +104,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 * Finishers:
   - Swanton Bomb (2015-present)
 * Tag Teams and stables:
-  - The Hardcores (2023-2024)
+  - The Hardcores (2023-)
 * Entrance music:
   - "Floorfiller" by A*Teens
     {{ org_badge(orgs=['ppw']) }} (as Red Floorfiller) <br>
@@ -123,7 +127,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
     {{ music(spot='57bgtoPSgt236HzfBOd8kj')}}
     {{ music(apple='574049507?i=574051407')}}
   - "Enter Sandman" by Metallica
-    {{ org_badge(orgs=['ppw']) }} (2025-) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025-; used ocassionally) <br>
     {{ music(yt='CD-E-LDc384')}}
     {{ music(spot='2T5q7qhJVN4m2hMSIAsOlC')}}
     {{ music(apple='1571968136?i=1571968519')}}
@@ -135,3 +139,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
   _Backyard Era Championships:_
   - Pas Hardcore'u (1 time; as KAT)
+ 
+## Internet presence
+
+* [Biesiad's Instagram](https://www.instagram.com/biesiad_strong)
