@@ -51,14 +51,20 @@ Only a year later, almost to the day, on August 12, 2022, PTW's Facebook account
 
 After this dismissal, Crane posted about [relocating to Germany][aschaffenburg], and focused on his development at the WxW Academy in Gelsenkirchen. He appeared, in minor roles, at several WxW shows, including at World Tag Team Festival 2023, and 16 Carat Gold in 2024 where he challenged for the WxW Shotgun Championship. 
 
-### Return to PpW & International Career (2022-2024)
+### Return to PpW Ewenement Wrestling (2022-2024)
 
 Jacob made a comeback to PpW after over five years of absence, re-debuting in a match against [Steve Kuningas](@/w/steve-kuningas.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) in September 2022.
 Since then, he made regular appearances for PpW, and took up the role of head coach in the [PpW Dojo](@/o/ewenement-dojo.md), training a new generation of wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md), as well as improving PpW Orginal wrestlers' in-ring abilities.
 
-In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], joining the BJPW (Big Japan Pro Wrestling) roster.
-
 After his 3-month stint in Japan, Jacob Crane returned at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in a rematch against [Gabriel Queen](@/w/gabriel-queen.md). In addition, PpW ran a summer wrestling course under their dojo's brand with Jacob as head coach. After several months in Poland, Jacob returned to Japan for another run with BJPW.
+
+## International wrestling appearances
+
+Jacob started working internationally fairly early after his debut for MZW. He made his first appearance in Germany in 2018 at a Next Step Wrestling event. From that point on he made regular appearances in Germany, focusing mainly on wXw and wXw Academy, but also taking booking in smaller German promotions. 
+
+In 2023 Jacob moved to Germany for a total of eight months to pursue his career abroad with even more dedication.
+
+In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], joining the Big Japan Pro Wrestling roster. His first stint in BJPW lasted for three months, from March until June. After staying in Poland for a couple of months he went back to Japan on a much longer contract, departing in October 2024.
 
 ## In wrestling
 
@@ -78,6 +84,12 @@ After his 3-month stint in Japan, Jacob Crane returned at [Ale Grzeje](@/e/ppw/2
     {{ music(yt='3oFTHxkOzjE')}}
     {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
     {{ music(apple='1064406932?i=1064406939')}}
+
+## Internet presence
+
+* [Crane's Facebook profile](https://www.facebook.com/thejacobcrane)
+* [Crane's Instagram](https://www.instagram.com/thejacobcrane)
+* [Crane's X profile](https://x.com/TheJacobCrane/)
 
 ## References
 
