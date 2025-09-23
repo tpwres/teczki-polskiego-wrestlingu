@@ -76,7 +76,7 @@ After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Le
 
 ## Legacy of Wrestling (2024-present)
 
-Gabriel joined [Legacy of Wrestling](@/o/low.md) since their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md). At their second show he challenged Axel Fox in a Road To The Title Match, but he was defeated by Polish Fox. This resulted in him asking LoW's management for one more chance to pursuit the upcoming Legacy Championship. Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [LoW vol.3](@/e/low/2025-07-11-low-3.md).
+Gabriel joined [Legacy of Wrestling](@/o/low.md) since their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md). At their second show he challenged Axel Fox in a Road To The Title Match, but he was defeated by Polish Fox. This resulted in him asking LoW's management for one more chance to pursue the upcoming Legacy Championship. Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
 
 ## International wrestling appearances
 
