@@ -88,5 +88,9 @@ Beginning with the [inaugural Legacy show](@/e/low/2024-12-01-low-1.md), Dziedzi
 * [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) - **R**. A nod to Team Rocket from the [Pokémon][kiepoty] series, of which his opponent in this match - [Aron Wake](@/w/aron-wake.md) - is a fan.
 * [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md) - ~**SAJA BOYS**~. A reference to a villain boy band from the 2025 animated film [KPop Demon Hunters][kpop], likening [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) to the fictional group (underscored by his theme song for that show coming from that film).
 
+## Internet presence
+
+* [Dziedzic's Instagram](https://www.instagram.com/dziedzicwrestling)
+
 [kiepoty]: https://en.wikipedia.org/wiki/Team_Rocket
 [kpop]: https://en.wikipedia.org/wiki/KPop_Demon_Hunters
