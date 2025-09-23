@@ -64,7 +64,7 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in 
 
 ## Internet presence
 
-* [hansschultepro on Instagram](https://www.instagram.com/hansschultepro/)
+* [Hans's Instagram](https://www.instagram.com/hansschultepro/)
 
 ## References
 
