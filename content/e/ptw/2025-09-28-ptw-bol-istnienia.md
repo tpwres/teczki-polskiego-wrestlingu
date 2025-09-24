@@ -23,6 +23,8 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 * After the contender's match against [Spartan](@/w/spartan.md) did not come to fruition, [Damian Lambert](@/w/damien-rothschild.md) was awarded with number one contendership for the [PTW Championship](@/c/ptw-championship.md). On 16.09.2025 it was confirmed that he will face [Dawid "Puncher" Seńko](@/w/puncher.md) at Ból Istnienia.
 * ["Starboy" Nano Lopez](@/w/nano-lopez.md) was confirmed to appear at the show on 17.09.2025, although no match-up was announced.
 * 18.09.2025 saw the announcement of [El G](@/w/el-g.md) vs CJ Klakson.
+* [Spartan](@/w/spartan.md) was confirmed on 20.09.2025.
+* On 23.09.2025 PTW published an image of [Daniel Razor](@/w/daniel-razor.md) issuing an open challenge for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
 ## Predicted card
 
@@ -40,6 +42,14 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 - - '[El G](@/w/el-g.md)'
   - 'CJ Klakson'
   - nc: upcoming
+- - '[Spartan](@/w/spartan.md)'
+  - '???'
+  - nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)(c)'
+  - '???'
+  - s: 'Open Challenge'
+    c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    nc: upcoming
 {% end %}
 
 ## References
