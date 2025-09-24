@@ -38,7 +38,7 @@ Piotr Małecki made his debut as a [Prime Time Wrestling](@/o/ptw.md) commentato
 
 After some time ShowOff's relations with the federation began to sour, as he felt burnt out. He mentioned that fact in an Instagram post shortly after [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), the last PTW show he commentated. In the same post he announced his [departure](@/a/ptw-exits.md) from Prime Time Wrestling.
 
-### Legacy of Wrestling (2024)
+### Legacy of Wrestling (2024-present)
 
 On the 14th of August 2024 a reveal trailer was posted to a new YouTube channel named [Legacy of Wrestling](@/o/low.md). A couple of days later LOW held a live Q&A on YouTube with ShowOff as the "spokesman" of the federation, and it became clear that he is involved in the creative team of the federation, to some degree.
 
@@ -46,4 +46,4 @@ Piotr was present in person at the [first Legacy show](@/e/low/2024-12-01-low-1.
 
 ## Internet presence
 
-* [Piotr Małecki on Instagram](https://www.instagram.com/show0ffer/)
+* [Piotr's Instagram](https://www.instagram.com/show0ffer/)
