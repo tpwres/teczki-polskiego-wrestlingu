@@ -12,7 +12,7 @@ Mira is a retired Polish wrestler and manager best known for her time in [Kombat
 
 ## Basic info
 
-* Years active: 2013-2018
+* Years active: 2013-2019
 * Gimmicks/nicknames:
   - Mira {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
@@ -41,6 +41,10 @@ In January 2019, she danced into the ring for the final time at [KPW Arena 12: G
 
 Since then, Mira is still active in the wrestling industry as a ring-gear tailor and designer, working with multiple wrestlers on the Polish and international wrestling scenes.
 
+## International wrestling appearances
+
+In 2012 and 2014 Mira wrestled two matches for Hungarian Championship Wrestling - a federation which, at that time, cooperated with DDW.
+
 ## In wrestling
 
 * Finishers:
@@ -65,8 +69,8 @@ Since then, Mira is still active in the wrestling industry as a ring-gear tailor
 
 ## Internet presence
 
-* [mira.wrestling](https://www.instagram.com/mira.wrestling/) on Instagram (inactive as of September 2025)
-* [mira.wrestling](https://www.facebook.com/mira.wrestling) on Facebook
+* [Mira's Instagram](https://www.instagram.com/mira.wrestling/) (inactive as of September 2025)
+* [Mira's Facebook profile](https://www.facebook.com/mira.wrestling)
 
 ## References
 
