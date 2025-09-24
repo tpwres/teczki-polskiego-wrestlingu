@@ -35,8 +35,8 @@ Myla Grace made her debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 
 
 ## Internet presence
 
-* [Myla Grace - Pro Wrestler on Facebook](https://www.facebook.com/MylaGraceProWrestler)
-* [mylagrace_x on Instagram](https://www.instagram.com/mylagrace_x)
+* [Myla's Facebook profile](https://www.facebook.com/MylaGraceProWrestler)
+* [Myla's Instagram](https://www.instagram.com/mylagrace_x)
 
 ## References
 
