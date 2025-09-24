@@ -66,11 +66,11 @@ After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zm
 
 While maintaining PpW as his main promotion, Sewi continued his sporadic appearances on the international circuit.
 
-### Return to Maniac Zone Wrestling (2024)
+### Return to Maniac Zone Wrestling (2024-present)
 
 On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years.
 
-### Legacy of Wrestling (2024)
+### Legacy of Wrestling (2024-present)
 
 During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/madman-charlie.md).
 
