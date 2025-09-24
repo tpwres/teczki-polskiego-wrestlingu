@@ -8,11 +8,11 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Samson is a Polish wrestler best known from his appearances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).
+Samson is a retired Polish wrestler best known for his appearances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
-* Years active: 2022-present
+* Years active: 2022-2024
 * Gimmicks/nicknames:
   - "Top Gun" Samson {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }}
   - "Bestia z Będzina" (_The Beast of Będzin_, a fan-given nickname referring to his hometown)
@@ -33,7 +33,7 @@ In 2023 Samson maintained his position in the midcard of most PTW shows. A brief
 
 Shortly after that last appearance, Samson [left PTW](@/a/ptw-exits.md). In an interview published on the "Wrestling Polska" YouTube channel, Samson stated that his departure was caused by a dispute with PTW's owner [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) over finances and overall poor talent treatment from Pawłowski's side. The interview has since been taken down.
 
-### PpW Ewenement (2024-present)
+### PpW Ewenement (2024)
 
 #### Debut
 
@@ -49,14 +49,14 @@ This led to the final match in their trilogy at [Co Za Noc](@/e/ppw/2024-10-26-p
 
 Samson made a one-off appearance in [Maniac Zone Wrestling](@/o/mzw.md), where he faced [Marco Hammers](@/w/marco-hammers.md) at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) in October 2024.
 
-### Other appearances
+## International appearances
 
-In 2024, Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent, trained at WxW Academy in Gelsenkirchen, and worked as ringcrew during their major "16 Carat Gold" event in March in Oberhausen.
+In 2024 Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent, trained at WxW Academy in Gelsenkirchen, and worked as ring crew during their major 16 Carat Gold event in March in Oberhausen.
 
 ## In wrestling
 
 * Finishers:
-  - Frog Splash (2023-)
+  - Frog Splash (2023-2024)
   - Powerbomb (2024)
   - _Fly High_ (Over the shoulder Cutter) (2022-2023)
 * Tag Teams and stables:
@@ -68,12 +68,12 @@ In 2024, Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent,
     {{ music(spot='32SckiFOYb8bwYewY51WA7')}}
     {{ music(apple='387193895?i=387193971')}}
   - "We've Got Hostiles" by morch kovalsky
-    {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-2024) <br>
     {{ music(yt='8KswYyylKD4')}}
     {{ music(spot='4fXCCzN6GfawQ2s1V2sRca')}}
     {{ music(apple='1475678330?i=1475678609')}}
 
 ## Internet presence
 
-* ["Top Gun" Samson](https://www.facebook.com/Samsontgg/) on Facebook
-* [tg.samson](https://instagram.com/tg.samson) on Instagram
+* [Samson's Facebook profile](https://www.facebook.com/Samsontgg/) 
+* [Samson's Instagram](https://instagram.com/tg.samson) 
