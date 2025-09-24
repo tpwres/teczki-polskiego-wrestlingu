@@ -26,7 +26,7 @@ Nitro made his debut on Polish soil in August 2013 at the [eight official show](
 
 After DDW rebranded into [Kombat Pro Wrestling](@/o/kpw.md), Nitro made a single appearance at their first official show - [KPW vs the World: Hung(a)ry for Kombat](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), where he faced [Piękny Kawaler](@/w/piekny-kawaler.md) in a KPW vs Hungary Nations Cup Round 4 Falls Count Anywhere Match. He lost his match against the Polish villain.
 
-### Prime Time Wrestling (2021-2024)
+### Prime Time Wrestling (2021-present)
 
 #### Debut and early appearances
 
@@ -39,6 +39,10 @@ At [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) Nitro faced Axel F
 Budapest Bastards managed to secure another opportunity to fight for the PTW Tag Team Championship at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where they scored victories against PAKA, Sinister Kingdom and MxM Collection, becoming the second PTW Tag Team Champions in history. Their reign lasted 308 days, and included victories over teams such as Axel Fox & [Marcelito](@/w/marcelito.md), Lucha Squad and Gulyas Bros. Their reign came to an end at [PTW Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), where they were defeated by [L'Orda](@/tt/l-orda.md).
 
 After their loss Nitro and his tag team partner seemingly bid farewell to [Prime Time Wrestling](@/o/ptw.md), claiming that it might be uncertain when - if ever - they return.
+
+#### Return
+
+Nitro returned to PTW about half a year after losing his Tag Team Championship. He faced [Puncher](@/w/puncher.md) for the [PTW Championship](@/c/ptw-championship.md) at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md), where he lost after a DQ. Later that night he also took part in the Gold Rush Rumble.
 
 ## In wrestling
 
