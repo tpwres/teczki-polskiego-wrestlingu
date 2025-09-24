@@ -20,7 +20,7 @@ Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler 
   - Krueger {{ org_badge(org='mzw') }}
   - Hades {{ org_badge(org='ppw') }} (later also as Olgierd)
   - Olgierd {{ org_badge(orgs=['ptw', 'low']) }}
-  - El Ogre {{ org_badge(org='ptw') }} (masked)
+  - El Ogre {{ org_badge(org='ptw', 'ppw') }} (masked)
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
@@ -84,6 +84,10 @@ At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) Goblin intervened 
 
 During a post-match interview following the 20 Typa 20 Broni Match, Axel was attacked by Olgierd, trying to finish off another babyface who opposed him and Zmowa. [Legia Łysych](@/tt/legia-lysych.md) faced GobLis in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in which Olgierd and Marco were defeated. Despite that, Olgierd continued to torment Polish Fox in different ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, who was known to do that back when they were both trainees in MZW. This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over defeated Fox.
 
+#### Cracks in Zmowa
+
+After Gustav Gryffin failed to defend his [PpW Championship](@/c/ppw-championship.md) against the "Acid Messiah" Goblin at Ledwo Legalne 5, Zmowa was furious. Gustav's downfall spiralled, resulting in Mister Z losing all of his respect for him. During that time Gustav suffered constant bullying from all of Zmowa members, especially when Olgierd leapt over him in Z's hierarchy, making himself the new Zmowa prospect. At [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) Olgierd defeated Johnny Blade and secured his spot in Total Elimination Fatal 4-Way Match to determine the new contender for the PpW Championship. The match took place at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where Olgierd managed to be a runner-up, but after Biesiad's kamikadze dive onto a pyramid of tables, Olgierd was pinned and lost his opportunity to face Goblin. In a post-match interview, the furious Olgierd seemed to care more about Gustav's betrayal of Zmowa, which took place earlier at that show. He vowed to take everything from the ex-Zmowa member in the nearest future.
+
 ### Return to Maniac Zone Wrestling (2024-present)
 
 In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/tt/zieloni.md) made their appearance at an MZW show. At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych defeated [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a Tag Team Match.
@@ -92,14 +96,18 @@ In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w
 
 In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs Bracia Fux at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by the reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md).
 
+## International wrestling appearances
+
+From 2024 onwards Olgierd began to take bookings at the European independent circuit. He started making rather regular appearances in Austria, Hungary and Germany, sometimes working with his Legia Łysych partner, Marco Hammers.
+
 ## In wrestling
 
 * Finishers:
-  - "Żyleta" / Tombstone Piledriver (2016; 2025-)
   - Swinging Reverse STO (2016-2020)
+  - "Żyleta" / Tombstone Piledriver (2016; 2025-)
   - _Braindead_ (Running Cartwheel Headbutt) (2021-)
 * Tag Teams and stables:
-  - Legia Łysych (2023-)
+  - [Legia Łysych](@/tt/legia-lysych.md) (2023-)
   - [Zmowa](@/tt/zmowa.md) (2024-)
 * Entrance music:
   - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
@@ -108,7 +116,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
     {{ music(spot='02JLJi7sryFu44hhNWOv1c')}}
     {{ music(apple='1509932137?i=1509932139')}}
   - "Sicario" by Słoń feat. Szpaku
-    {{ org_badge(orgs=['ptw', 'ppw', 'mzw']) }} (2023-present)<br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2023-)<br>
     {{ music(yt='pE0DdJf-tSo')}}
     {{ music(spot='7Lys2P5pmqfrF3sKivfB6q')}}
     {{ music(apple='1437914014?i=1437914180')}}
@@ -118,7 +126,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
     {{ music(apple='1509575453?i=1509575457')}}
   - "Slasher" by Słoń/Mikser
-    {{ org_badge(orgs=['low']) }} (2025-present)<br>
+    {{ org_badge(orgs=['low', 'ppw']) }} (2025-present)<br>
     {{ music(yt='spq7KCQWCO4')}}
     {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
     {{ music(apple='750848937?i=750848967')}}
@@ -129,6 +137,11 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
 
   _Backyard Era Championships_:
   - PpW YouTube Championship (1 time; inaugural)
+
+## Internet presence 
+
+* [Olgierd's Instagram](https://www.instagram.com/olgierdogthewrestler)
+* [Olgierd's Facebook profile](https://www.facebook.com/p/Olgierd-OG-Wrestler-100091558981931)
 
 ## References
 
