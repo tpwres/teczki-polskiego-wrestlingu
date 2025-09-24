@@ -39,7 +39,7 @@ After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) an
 
 Besides his regular appearances as Oskar Alexander he also performed as "Oskar Strong" - [Biesiad Strong's](@/w/biesiad.md) parody - at the non-canon [SplatFilmFest](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md) show.
 
-In January 2025 Oskar Alexander faced a Polish scene legend - [Vic Golden](@/w/vic-golden.md) - at [PpW Gruba Przesada](@c/e/ppw/2025-01-25-ppw-gruba-przesada.md), in probably the biggest match in his career up to that point. During the 20 Typa 20 Broni Rumble Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Oskar suffered an injury after receiving a Stallion Cutter from [Robert Star](@/w/robert-star.md) face-first onto a championship belt laying in the ring, which caused him to bleed severely. Despite that, he quickly recovered and managed to support Agentka Agatka in her first match against Madison Marley. 
+In January 2025 Oskar Alexander faced a Polish scene legend - [Vic Golden](@/w/vic-golden.md) - at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), in probably the biggest match in his career up to that point. During the 20 Typa 20 Broni Rumble Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Oskar suffered an injury after receiving a Stallion Cutter from [Robert Star](@/w/robert-star.md) face-first onto a championship belt laying in the ring, which caused him to bleed severely. Despite that, he quickly recovered and managed to support Agentka Agatka in her first match against Madison Marley. 
 
 #### Joining Rodzina
 
