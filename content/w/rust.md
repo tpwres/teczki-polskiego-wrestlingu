@@ -24,7 +24,7 @@ Rust is an Italian wrestler best known for his appearances in [Prime Time Wrestl
 
 Rust made his debut in [Prime Time Wrestling](@/o/ptw.md) at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md) where he faced Maverick, Blaze and his tag team partner [Luca Bjorn](@/w/luca-bjorn.md) in a Fatal Four Way Match for a PTW contract. He was defeated in that bout, but despite that he made further appearances in the federation. He started his regular appearances from Ryucon, scoring numerous victories over wrestlers such as LaVonce, [Max Speed](@/w/max-speed.md) and Newt Nova. During his stint in PTW he adapted a villainous Viking persona.
 
-In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) he and Luca Bjorn, his tag team partner from [L'Orda](@/tt/l-orda.md), fought Budapest Bastards for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They managed to score a victory over [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md), thus becoming the third PTW Tag Team Champions in history.
+In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) he and Luca Bjorn, his tag team partner from [L'Orda](@/tt/l-orda.md), fought Budapest Bastards for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). They managed to score a victory over [Renegade](@/w/renegade.md) and [Nitro](@/w/nitro.md), thus becoming the third PTW Tag Team Champions in history. They lost their Championship to [Royal Rebels](@/tt/royal-rebels.md) at [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md).
 
 ## In wrestling
 
@@ -51,8 +51,8 @@ In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) h
 
 ## Internet presence
 
-* [Rust.ICW.Official](https://www.facebook.com/Rust.ICW.Official) on Facebook
-* [rustwrestler](https://www.instagram.com/rustwrestler) on Instagram
+* [Rust's Facebook proflie](https://www.facebook.com/Rust.ICW.Official) 
+* [Rust's Instagram](https://www.instagram.com/rustwrestler) 
 
 ## References
 
