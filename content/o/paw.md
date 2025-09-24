@@ -10,7 +10,7 @@ hide_events = true
 1 = { path = "paw-lokacje.webp", caption = "Poster for the summer course in August 2024, showing distances between Kępno and other major cities in the area.", source = "Facebook @PolskaAkademiaWrestlingu"}
 +++
 
-Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is a wrestling school associated with [MZW](@/o/mzw.md).
+Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling school associated with [MZW](@/o/mzw.md).
 
 ## Basic info
 
