@@ -1,7 +1,7 @@
 +++
 title = "Mercedes Moné"
 template = "talent_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -10,15 +10,20 @@ country = ["US"]
 1 = { path = "mercedes-w-aew-z-pasem-ptw.webp", caption = "Mercedes Moné with the [PTW Women's Championship](@/c/ptw-womens-championship.md) in a promotional image for the 6.08.2025 episode of AEW Dynamite.", source = "Official AEW Facebook" }
 +++
 
-Mercedes Moné is an American professional wrestler, best known for her time in [WWE](@/o/wwe.md) as Sasha Banks between 2012 and 2022. Later she also competed in New Japan Pro Wrestling, World Wonder Ring Stardom, and All Elite Wrestling, as well as several smaller independent promotions worldwide.
+Mercedes Moné is an American professional wrestler, best known for her time in [WWE](@/o/wwe.md) as Sasha Banks between 2012 and 2022. Later she also competed in New Japan Pro Wrestling, World Wonder Ring Stardom, and All Elite Wrestling, as well as several smaller independent promotions worldwide. In Poland she made one appearance for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
 * Years active: 2010-present
 * Gimmicks/nicknames:
   - Mercedes Moné {{ org_badge(org='ptw') }}
+* Trained by:
+  -	Brian Fury
+  -	Brian Milonas
+  -	Handsome Johnny
+  -	WWE Performance Center
 
-## Professional wrestling career in Poland
+## Professional wrestling career
 
 ### Prime Time Wrestling (2025-)
 
@@ -44,10 +49,10 @@ In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md)
 ## Internet presence
 
 * [Official website](https://mercedesmone.com/)
-* [mercedesmone](https://www.instagram.com/mercedesmone/) on Instagram
-* [YouTube](https://www.youtube.com/@CEOMercedesMone)
+* [Mercedes's Instagram](https://www.instagram.com/mercedesmone/)
+* [Mercedes's YouTube](https://www.youtube.com/@CEOMercedesMone)
 * [ProWrestlingTees](https://www.prowrestlingtees.com/mercedesmone)
-* [@MercedesVarnado](https://x.com/MercedesVarnado) on Twitter/X
+* [Mercedes's Twitter/X](https://x.com/MercedesVarnado) 
 
 ## References
 
