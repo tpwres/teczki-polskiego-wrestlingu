@@ -85,6 +85,10 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time)
 
+## Internet presence 
+
+* [Stanisław's Instagram](https://www.instagram.com/stanimania)
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14513)
