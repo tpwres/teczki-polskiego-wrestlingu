@@ -41,7 +41,7 @@ BlackOut marked the last appearance of Nick Aldis in Prime Time Wrestling. When 
 
 ## Internet presence
 
-* [nickaldis on Instagram](https://www.instagram.com/nickaldis/)
+* [Nick's Instagram](https://www.instagram.com/nickaldis/)
 
 ## References
 

@@ -45,6 +45,10 @@ At [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) Piękny 
 
 After his in-ring retirement Kawaler continued to run KPW Academy and the federation itself as the main coach, booker and owner.
 
+## International wrestling appearances
+
+Besides his work in Source Wrestling School in Glasgow during the early stages of his career, Piękny Kawaler also made a few confirmed wrestling appearances in 2019 when he worked a few matches in Romanian Wrestling Alliance and Union of European Wrestling Alliances.
+
 ## In wrestling
 
 * Finishers:
@@ -71,9 +75,9 @@ After his in-ring retirement Kawaler continued to run KPW Academy and the federa
 
 ## Internet presence
 
-* [@trenerwrestlingu on Instagram](https://www.instagram.com/trenerwrestlingu/)
-* [KawalerWrestling on Facebook](https://www.facebook.com/kawalerwrestling/)
-* [KawalerWrestling on YouTube](https://www.youtube.com/user/kawalerwrestling)
+* [Kawaler's Instagram](https://www.instagram.com/trenerwrestlingu/)
+* [Kawaler's Facebook profile](https://www.facebook.com/kawalerwrestling/)
+* [Kawaler's YouTube](https://www.youtube.com/user/kawalerwrestling)
 
 ## References
 

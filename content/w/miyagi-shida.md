@@ -42,6 +42,10 @@ Nevertheless, PTW's owner [Pan Pawłowski](@/w/pan-pawlowski.md) still offered h
 Shida's segment was interrupted by [Alex Brave](@/w/alex-brave.md), which led to their impromptu match right off the bat. Shida lost this match and continued to feud with both of PTW's main midcard heels, Brave and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 He even allied himself with [Max Speed](@/w/max-speed.md), but they were unable to defeat the villains up until Alex Brave challenged Miyagi for a Career Threatening Match at [Underground 25: Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md). This time, Miyagi was able to secure a win over Brave, save his own career and score his first victory in Prime Time Wrestling.
 
+#### Feud with Serg Sullivan
+
+Having saved his career, Miyagi clashed with Russian wrestler [Serg Sullivan](@/w/serg-sullivan.md). After winning in the Four-Way Match at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) which Serg was a part of, they got into a heated rivalry. At [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md) Shida won by DQ after Serg attacked him with a briefcase. At the [next show](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) Miyagi lost his match due to Sullivan's distraction, which resulted in a brawl lasting throughout the whole show. At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Shida lost a Last Man Standing Match against Serg, but it didn't end their rivalry. The feud concluded at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), where Shida won in a Casket Match.
+
 ## In wrestling
 
 * Finishers:
@@ -52,3 +56,7 @@ He even allied himself with [Max Speed](@/w/max-speed.md), but they were unable 
     {{ music(yt='YYpZGiKySMw')}}
     {{ music(spot='4w1WMmMdtXPHMcP18q9I3r')}}
     {{ music(apple='1248033477?i=1248033970')}}
+
+## Internet presence
+
+* [Shida's Instagram](https://www.instagram.com/shida_ptw)

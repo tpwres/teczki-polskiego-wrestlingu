@@ -16,7 +16,7 @@ Gustav Gryffin is a Polish wrestler from Bartoszyce, best known for his appearan
 
 * Years active: 2022-present
 * Nicknames/Gimmicks:
-  - Gustav Gryffin {{ org_badge(orgs=['ppw', 'low']) }}
+  - Gustav Gryffin {{ org_badge(orgs=['ppw', 'mzw', 'low']) }}
   - Hardcore Gustav {{ org_badge(org='ppw') }} (non-canon shows)
   - Gustav Pierdolec {{ org_badge(org='ppw') }} (non-canon shows)
   - Martinez Grabollo {{ org_badge(org='ppw') }} (non-canon shows)
@@ -67,10 +67,16 @@ After the 20 Typa 20 Broni Rumble Match in the main event of Teraz Albo Nigdy, [
 
 At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), the run-up show to Ledwo Legalne 5, Gustav and Goblin sat down in the ring for a contract signing. Gustav selected the stipulation for their upcoming match: Three Stages of Hell, starting with a Classic Wrestling Match, transitioning to a No Holds Barred Match after the first pin or submission. The third stage could only be won by knocking out the opponent. Gustav won the first segment, becoming increasingly brutal in the following ones, but was knocked out with a table spot from a high vantage point over the entrance ramp, and lost his Championship to Goblin after exactly one year.
 
+#### Face Turn
+
+After his devastating loss Gustav went into a downfall spiral, losing all of his confidence. He grew tired of the constant abuse from fellow Zmowa members, which was hinted at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), where he tried to stop Zmowa's attack on the defeated Bartosz Plata. Despite Mister Z assuring everyone that Zmowa is fine, the whole story concluded at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), when Gustav finally broke down and attacked Marco and Mister Z, turning face for the first time in his PpW career.
+
 ### Maniac Zone Wrestling (2023-present)
 
 Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the joint show [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he defeated Chris Cage in a Singles Match.
 He later made another appearance over a year later at the next MZW show, [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he successfully defended his PpW Championship against [Sambor](@/w/sambor.md). In contrast to his PpW reception, in MZW he is portrayed as a babyface persona without any dramatic changes to his gimmick.
+
+At [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) Gustav advanced to the tournament finals by defeating [Febus "The Wolf"](@/w/apollo-anderson.md). In the main event of the show he took part in said Tournament Final Ladder Match for the PpW/MZW Championship opportunity briefcase. However, he was unable to win due to Mister Z's opportunistic attack.
 
 ### Legacy of Wrestling (2024-present)
 
@@ -78,15 +84,22 @@ In November 2024 Gustav was set to face [Wiktor Longman](@/w/wiktor-longman.md) 
 
 On 22.03.2025 it was announced that Gustav would face Polish-American wrestler Kubes in a "Road to the Title Match" which would take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Gustav emerged victorious, advancing further in the championship race.
 
+At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd and [Chemik](@/w/chemik.md) to defeat [Syriusz Dziedzic](@/w/dziedzic.md), Sambor and [Bartosz Plata](@/w/plata.md) in a Six-Man Tag Team Match.
+
+## International wrestling appearances
+
+From 2023 onwards Gustav started making numerous appearances at international wrestling scene. He made numerous appearances in Hungary, Sweden and Germany. 
+
 ## In wrestling
 
 * Finishers:
   - Ripcord Lariat (2024-)
   - _Gryffin Bomb_ (2023-)
+  - 11-200 (Angel's Wings) (2025-)
   - Rear Naked Choke (2024-)
   - Texas Cloverleaf (2023)
 * Tag Teams and Stables:
-  - [Zmowa](@/tt/zmowa.md) (2024-)
+  - [Zmowa](@/tt/zmowa.md) (2024-2025)
 * Managers:
   - [Osamu](@/w/osamu.md) (2023)
   - [Jakub Linde](@/w/jakub-linde.md) (2024)
@@ -109,7 +122,7 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
 
 ## Internet presence
 
-* [gustav.gryffin](https://www.instagram.com/gustav.gryffin/) on Instagram
+* [Gustav's Instagram](https://www.instagram.com/gustav.gryffin/)
 
 ## References
 

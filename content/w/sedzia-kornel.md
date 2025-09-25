@@ -12,13 +12,13 @@ country = ["PL"]
 3 = { path = "hardcore-referee-koszulka.jpg", caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).", source = "Kornel's Facebook profile" }
 +++
 
-Sędzia Kornel is a Polish wrestling referee best known for his time in [PpW Ewenement](@/o/ppw.md). He also appeared in [Maniac Zone Wrestling](@/o/mzw.md).
+Sędzia Kornel is a Polish wrestling referee best known for his time in [PpW Ewenement](@/o/ppw.md). He also appeared in [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
 * Years active: 2022-present
 * Gimmicks/nicknames:
-  - Sędzia Kornel {{ org_badge(orgs=['ppw', 'mzw']) }}
+  - Sędzia Kornel {{ org_badge(orgs=['ppw', 'mzw', 'low']) }}
   - Kapitan Kornel {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Ignacio {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
@@ -49,9 +49,13 @@ This experience in hardcore and deathmatches, as well as a history of taking ref
 
 After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zmowa](@/tt/zmowa.md) - [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md) - blamed Kornel for their defeat at said show. In a post-match interview, Olgierd verbally and physically assaulted Kornel, and vowed that he would put all of PpW's referees back in line, as they were constantly interrupting him in his matches by enforcing rules. On February 2nd, 2025, it was officially announced that Olgierd would face each referee in a Gauntlet Match at [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md). Referee Kornel was the first one to go against the Polish hooligan.
 
-### Maniac Zone Wrestling (2023)
+### Maniac Zone Wrestling (2023, 2025-present)
 
-At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made his debut in [Maniac Zone Wrestling](@/o/mzw.md), and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and [Chris X](@/w/chris-x.md).
+At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made his debut in [Maniac Zone Wrestling](@/o/mzw.md), and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and [Chris X](@/w/chris-x.md). He made his return at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), where he worked alongside Sędzia Seweryn.
+
+### Legacy of Wrestling (2025-present)
+
+Kornel made his debut for [Legacy of Wrestling](@/o/low.md) working as a referee for their [third show](@/e/low/2025-07-11-low-3.md) in July 2025.
 
 ## In wrestling
 

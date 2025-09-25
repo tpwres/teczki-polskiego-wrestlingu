@@ -48,9 +48,13 @@ However, no action from Sinister Kingdom was required - with [Boro](@/w/boro.md)
 
 At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), two members of Sinister Kingdom were involved in a surprise attack on Babathunder and Puncher in the main event of the show. Dziedzic an Krampus laid out both competitors, causing a no-contest ending. Standing tall alongside Krampus over the beaten-up Puncher and Babathunder, Dziedzic exclaimed "For his is the power, the kingdom and the glory, for ever" (Sinister's catchphrase, albeit slightly out of order), presumably challenging for the title on Sinister's behalf. The main event's finish was widely criticised by fans and never amounted to any storyline developments. Sinister and Dziedzic both [left the federation](@/a/ptw-exits.md) not long after, seemingly on bad terms with Arkadiusz Pawłowski.
 
-### Legacy of Wrestling (2024)
+### Legacy of Wrestling (2024-present)
 
 Sinister made his return to wrestling at [Legacy of Wrestling's](@/o/low.md) [first event](@/e/low/2024-12-01-low-1.md). He was introduced as the show's host, interrupting [Arkadiusz Paterek](@/w/arek-paterek.md), who kicked off the event. Later on he prevented his old subject Dziedzic from scoring a win in the show's opener. He also got involved in restarting the main event - after [Axel Fox](@/w/axel-fox.md) seemingly won the [PpW Championship](@/c/ppw-championship.md) from [Gustav Gryffin](@/w/gustav-gryffin.md), the referee decision got reverted by Sinister who pointed out that Fox's winning pin should have been interrupted due to a rope break.
+
+#### Feud with Dziedzic
+
+At the [next Legacy's show](@/e/low/2025-04-06-low-2.md) Dziedzic faced Sinister in a Singles Match which determined contendership for the upcoming Legacy Championship. Sinister refused to fight Dziedzic and vowed that Dziedzic would win that match no matter what. The old mentor of Syriusz tanked the whole match first by avoiding the fight, then by allowing Dziedzic to beat him without any defence, just to perform a "Judas kiss" and hit Dziedzic in the groin to cause a disqualification and allow Dziedzic to win. At the [third show](@/e/low/2025-07-11-low-3.md) he once again tried to torment Dziedzic by interfering in his Six-Man Tag Team Match and handing him a weapon, but Dziedzic declined his offer, which resulted in him being defeated by his opponents.
 
 ## In wrestling
 

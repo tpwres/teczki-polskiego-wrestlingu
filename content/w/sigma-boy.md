@@ -1,12 +1,14 @@
 +++
 title = "Sigma Boy xD"
 template = "talent_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
+
+Sigma Boy XD is a Polish wrestler known for his appearances in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -21,6 +23,8 @@ country = ["PL"]
 
 ### Prime Time Wrestling (2025-present)
 
+#### Debut and early rivalries
+
 On January 30th, PTW announced the first quarter-final match for the [PTW Underground Championship](@/c/ptw-underground-championship.md), in which Max Speed was going to take on a debuting rookie. The rookie turned out to be Sigma Boy xD - a bright and playful character, inspired by Generation Alpha Internet culture. He was acknowledged as Speed's real life pupil from the Academy and after a competitive match, he lost in the quarter finals. In addition to appearing in his own matches, he started to occasionally support Max Speed, evening the odds when his mentor was attacked.
 
 At [PTW: Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md) Sigma Boy faced [Alex Brave](@/w/alex-brave.md) in a losing effort. Later that night, he countered Brave's interference in a ladder match for the PTW Underground Championship, helping Speed become the inaugural champion.
@@ -28,7 +32,14 @@ At [PTW: Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md) Sigma B
 [Pan Pawłowski](@/w/pan-pawlowski.md) started to set his sights on Sigma, trying to provide him with unsolicited "guidance". As part of that storyline, he gave Sigma a match for the BestYa Slam Championship against [Dawid "Puncher" Seńko](@/w/puncher.md) at [PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). Still in the infancy stage of his career, Sigma Boy xD failed to defeat the reigning champion. 
 
 At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Boy scored his first victory against [El G](@/w/el-g.md).
-Additionally, as part of the new working relationship between PTW and the Austrian promotion Rings of Europe, he was announced to compete at the promotion's SummerCrush show on 25.07.2025, marking his international debut.
+
+#### Meeting the father
+
+During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) Pawłowski adressed the public with another devastating announcement. Pawłowski revealed that Sigma Boy xD is in fact the bastard son of [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md). This caused Sigma Boy xD's meltdown, and seemingly him joining Pawłowski, who comforted him after this revalation. At Instagram promos Łukasz admitted, that he is in fact a father of Sigma Boy XD and tried to relieve the bond between them, but he was pushed away by his son.
+
+## International wrestling appearances
+
+As part of the new working relationship between PTW and the Austrian promotion Rings of Europe, he was announced to compete at the promotion's SummerCrush show on 25.07.2025, marking his international debut.
 
 ## In wrestling
 

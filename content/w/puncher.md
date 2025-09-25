@@ -73,11 +73,21 @@ After Pan Pawłowski announced that a soft reboot would take place at [PTW x Ryu
 
 At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.md) Puncher put Łukasz Okoński, PTW's new co-owner, through a table, forcing GM Pawłowski to discipline him with a fine, announced at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md). At the same show, Puncher barged into the ring and confronted Pawłowski in a work-shoot promo, where he called the PTW owner a liar and "no messiah of Polish wrestling" that Pawłowski claims to be. Arkadiusz responded by calling Puncher an "ungrateful son of a bitch" and claiming that he regrets making him the face of Prime Time Wrestling. In the main event, when Puncher defended his championship against [Spartan](@/w/spartan.md), Pawłowski interrupted and turned heel by hitting Spartan with a chair, ultimately aligning with Puncher and helping him retain the title.
 
+#### Nietykalni
+
+After Pawłowski turned into a villain, Puncher joined his ranks as his top protégé. He continued his undefeated streak while feuding with [Spartan](@/w/spartan.md), as well as with other members of Pawłowski's oppositon. Along with [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md)) he joined a faction led by Pawłowski called [Nietykalni](@/tt/nietykalni.md).
+
+## International wrestling appearances
+
+From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promotions such as Austrian Wrestling World Austria, Italian BestYa Wrestling (where he won their Championship) and in Rings of Europe.
+
 ## In wrestling
 
 * Finishers:
   - _Wylew_ (Superman Punch) (2021-)
   - Fireman's Carry Cutter (2024-)
+* Tag Teams and stables:
+  - [Nietykalni](@/tt/nietykalni.md)
 * Entrance music:
   - "Eye of the Tiger" by Survivor
     {{ org_badge(orgs=['ptw']) }} (2021-) <br>

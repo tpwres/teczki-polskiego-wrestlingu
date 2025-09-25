@@ -30,6 +30,10 @@ Lato usually works solo, although on a few occasions, he formed a tag team with 
 
 At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon faced and defeated the reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) [Chemik](@/w/chemik.md), thus winning his first title.
 
+## International wrestling appearances 
+
+In 2024 Leon made his first handful of appearances outside of Poland. He worked for Passion Pro Wrestling in Hungary, as well as for Bologna-based Italian promotion Wrestling Megastars.
+
 ## In wrestling
 
 * Finishers:

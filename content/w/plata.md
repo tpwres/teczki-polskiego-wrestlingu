@@ -8,15 +8,14 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/ewenement-dojo.md).
+Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/ewenement-dojo.md). He also works for [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
 * Years active: 2024-present
 * Gimmicks/nicknames:
   - _Rookie_ Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
-  - Bartosz Plata {{ org_badge(orgs=['ppw']) }} (April 2025-)
-
+  - Bartosz Plata {{ org_badge(orgs=['ppw', 'low']) }} (April 2025-)
 * Trained by:
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
  
@@ -34,9 +33,11 @@ With _rookie_ still part of his billing Bartosz continued to appear regularly, b
 
 #### Beginnings of a proper singles run
 
-Starting at [PpW Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), Plata began a series of challenges dubbed "Wielkie Testy Platy" (_Plata's Grand Trials_), demanding challenging matches against strong opponents. In Chapter 1 of the series he faced the new [PpW Champion](@/c/ppw-championship.md), [Goblin](@/w/goblin.md), in a non-title match. Despite losing, he showed his fighting spirit, pushing the champion to his limits.
+Starting with [PpW Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), Plata began a series of challenges dubbed "Wielkie Testy Platy" (_Plata's Grand Trials_), demanding challenging matches against strong opponents. In Chapter 1 of the series he faced the new [PpW Champion](@/c/ppw-championship.md), [Goblin](@/w/goblin.md), in a non-title match. Despite losing, he showed his fighting spirit, pushing the champion to his limits. 
+His second challenge was an No-Chops Match against the PpW Producer [Mister Z](@/w/mister-z.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). Unable to utilize his trademark attack he was defeated by the [Zmowa](@/tt/zmowa.md) leader. After the match he additionally suffered a devastating beatdown at the hands of Zmowa.
+The third challenge took place during [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) where he faced rookie Antek and the debuting [Max Speed](@/w/max-speed.md), but was unable to secure a victory as Antek rolled him up for a pin.
 
-### Legacy of Wrestling (2025-)
+### Legacy of Wrestling (2025-present)
 
 #### First appearance
 
@@ -48,6 +49,10 @@ Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy
   - "Yakuza 0 Intro" by Yakuza Sound Team
     {{ org_badge(orgs=['ppw', 'low']) }} (2024-) <br>
     {{ music(yt='zxrXgtSL2Rk')}}
-  
+
+## Internet presence
+
+* [Plata's Instagram](https://www.instagram.com/bartoszplata07)
+
 ## References
 * [Wielkie Testy Platy](https://www.facebook.com/photo/?fbid=1287017913428598&set=a.499910772139320)

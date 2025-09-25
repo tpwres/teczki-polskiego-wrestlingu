@@ -54,7 +54,17 @@ In addition to his on-screen heel turn, Pawłowski also increased his social med
 
 At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Pawłowski debuted a new heelish entrance, retiring the dynamic "Throne" and entering surrounded by security from the ever-loyal Grupa Wolf (_Wolf Group_), changing his entrance song to another Bring me the Horizon song, "Die4U". At the show he reaffirmed his heel-turn by laying out [Łukasz Okoński](@/w/lukasz-okonski.md) after the now-traditional charity T-shirt auction. He used the same chair as at the previous show, slowly making this item his signature weapon.
 
-### International ventures
+#### Nietykalni
+
+Pawłowski stepped away from his Host/Announcer duties to become a full time on-screen persona. He kept up his heated rivalry with Okoński, trying to gather as much power over PTW as possible. To achieve his goal he formed a new villainous stable called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_). The stable consisted of him as a leader, as well as Puncher and [Royal Rebels](@/tt/royal-rebels.md) - a tag team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md). 
+
+During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) Pawłowski adressed the public with another devastating blow towards Łukasz Okoński. Pawłowski revealed that [Sigma Boy xD](@/w/sigma-boy.md) is in fact the bastard son of Łukasz. This caused Sigma Boy xD's meltdown, and seemingly him joining Pawłowski, who comforted him after this revalation.
+
+## International wrestling appearances
+
+In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working in PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024. 
+
+After PTW managed to secure a partnership with BestYa Slam in 2025, Pawłowski made a few appearances there by promoting a show and managing his talent Puncher.
 
 On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announcer for their show Summer Crush. [The post][rings-of-pawel], originally written in German, translated as:
 
@@ -71,8 +81,11 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 >
 > Welcome Arek "Pan" Pawłowski!
 
+
 ## In wrestling
 
+* Tag Teams and stables:
+  - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
   - "Throne" by Bring Me the Horizon
     {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>

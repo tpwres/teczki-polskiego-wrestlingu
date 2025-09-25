@@ -17,7 +17,7 @@ Vic Golden is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.
 * Years active: 2012-present
 * Gimmicks/Nicknames:
   - Prince Victor {{ org_badge(orgs=['ddw', 'mzw', 'dfw']) }}
-  - Vic Golden {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
+  - "The Legend of Polish Wrestling" Vic Golden {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
   - Joey Riddic {{ org_badge(orgs=['dfw']) }}
   - Lion (BWN)
 * Trained by:
@@ -117,6 +117,10 @@ At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold
 
 This betrayal turned Vic into one of the most hated heels on the Polish wrestling scene. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) he made an unannounced appearance, once again attacking Gabriel with a chair after his victory over [Oskar Alexander](@/w/oskar-alexander.md). After that he cut a short promo, blaming Queen for the break-up of Pure Gold and challenged him to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During that match [the referee](@/w/madman-charlie.md) was knocked out, which prevented Queen from winning. This led to Queen grabing a chair to attack Golden, but the assault was stopped by Oskar Alexander, who seemingly joined Vic's side and helped him defeat Queen.
 
+#### Founding Rodzina
+
+Oskar's and Agatka's newly formed alliance called "Rodzina" (_The Family_) remained in conflict with Vic's nemesis Gabriel. While Vic managed to secure a spot in Total Elimination Fatal 4-Way Match for #1 Contender spot against [PpW Champion](@/c/ppw-championship.md) in a Chairs Match against Axel Fox at [Hardcore Friday: Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), his new protigee Oskar was defeated by Queen in a Bullrope Match later that night to qualify to the same match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During said match Vic's again got upper hand over Queen with a huge help from Agatka and Oskar. Despite that, he was eliminated from the match by [Biesiad Strong](@/w/biesiad.md). Earlier that night, during Agatka and Oskar match against [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md) an masked person helped Rodzina to score a victory. It was revealed to be Robert Star, who officially confirmed to join Golden's stable. 
+
 ### Legacy of Wrestling (2025)
 
 Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md). What was announced as a singles match between him and [Greg](@/w/greg.md) turned into a tag team match when the unannounced [Chemik](@/w/chemik.md) jumped Greg, who was then aided by [Robert Star](@/w/robert-star.md). The babyface duo won, with Greg pinning Vic.
@@ -130,6 +134,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
 * Tag Teams and stables:
   - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
+  - Rodzina (2025-)
 * Entrance music:
   - "Witness" by Mindless Self Indulgence
     {{ org_badge(orgs=['mzw', 'ddw']) }} (2015-2021) <br>

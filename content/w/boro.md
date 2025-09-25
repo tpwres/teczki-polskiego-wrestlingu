@@ -57,9 +57,9 @@ Boro had not officialy [left the federation](@/a/ptw-exits.md) until June 2024, 
 
 #### PAKA's breakup
 
-Boro made his official return to Polish wrestling by publishing a promo on [Legacy of Wrestling's](@/o/low.md) Instagram in June 2025. In a short statement he resented both Pablo and Taras, who were set to face each other in a Street Fight at [LoW's third show](@/e/low/2025-07-11-low-3.md), calling them out for leaving him when he needed them most and recalling his long-term injury and banishment from Poland after Longman's attack back in 2023. 
+Boro made his official return to Polish wrestling by publishing a promo on [Legacy of Wrestling's](@/o/low.md) Instagram in June 2025. In a short statement he resented both Pablo and Taras, who were set to face each other in a Street Fight at [LOW's third show](@/e/low/2025-07-11-low-3.md), calling them out for leaving him when he needed them the most, and recalling his long-term injury and banishment from Poland after Longman's attack back in 2023. During the match itself, Boro got his hands on Taras in revenge for his abuse, which allowed Pablo to score a victory.
 
-### Return to Maniac Zone Wrestling 
+### Return to Maniac Zone Wrestling (2025-present)
 
 On 13th of June 2025 it was announced that Boro would make his return to MZW's ring after over five years to team up with his ex-PAKA member Disco Pablo and take on [Legia Łysych](@/tt/legia-lysych.md) in a Tag Team Match at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
 
@@ -94,6 +94,11 @@ On 13th of June 2025 it was announced that Boro would make his return to MZW's r
 
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md)
+
+## Internet presence
+
+* [Boro's Facebook profile](https://www.facebook.com/boro.wrestling)
+* [Boro's Instagram](https://www.instagram.com/borogng)
 
 ## References
 

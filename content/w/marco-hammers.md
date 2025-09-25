@@ -88,6 +88,10 @@ Marco won this match after Olgierd's distraction, and in a post-match beatdown h
 
 This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Marco and Olgierd faced the Fux Brothers for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) in the main event, but they were unable to defeat them.
 
+## International wrestling appearances 
+
+Marco started taking international bookings in 2022. That year he made a few appearances for Austrian Rings of Europe, as well as for BODYSLAM! Pro Wrestling in Denmark. From 2023 onwards he, along with his tag team partner [Olgierd](@/w/olgierd.md), took more bookings, most notably for German and Hungarian federations such as Eastside Revolution Wrestling and Passion Pro Wrestling.
+
 ## In wrestling
 
 * Finishers:
@@ -121,6 +125,10 @@ This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Ma
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times, inaugural, current)
+
+## Internet presence
+
+* [Marco's Instagram](https://www.instagram.com/marco.wrestling)
 
 ## References
 

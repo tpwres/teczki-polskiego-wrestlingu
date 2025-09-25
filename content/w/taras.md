@@ -8,11 +8,11 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Taras is a Polish wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024. He also appeared in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Taras is a retired Polish wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024. He also appeared in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
-* Years active: 2021-present
+* Years active: 2021-2025
 * Gimmicks/nicknames:
   - Taras {{ org_badge(orgs=['ptw', 'low', 'mzw']) }}
 * Trained by:
@@ -46,19 +46,23 @@ PAKA made their first title defence at [PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x
 
 After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Taras almost two years prior, Longman announced that he would destroy Pawłowski and his allies from PAKA. Since Boro was already seriously injured by him previously, his next target was Taras. At [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) the member of PAKA eventually lost and got injured by Wiktor Longman to such a degree, that he had to be carried out on a stretcher. It was Taras' final appearance in the PTW ring.
 
-### Legacy of Wrestling (2024-present)
+### Legacy of Wrestling (2024-2025)
 
 #### Surprise debut and finishing the PAKA
 
 Taras made his debut during [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). During a music chairs contest held by Disco Pablo, the masked Taras barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking himself he finished off Pablo with a GTS and put Piotr through a table.
 
-In his Instagram stories, Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded. Taras met Pablo face-to-face at [Legacy's next show](@/e/low/2025-04-06-low-2.md) where, after a brief but heated argument followed by a brawl, they were announced to face each other at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
+In his Instagram stories, Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded. Taras met Pablo face-to-face at [Legacy's next show](@/e/low/2025-04-06-low-2.md) where, after a brief but heated argument followed by a brawl, they were announced to face each other at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md). Taras lost a match - which was officiated by another ex-PAKA member Boro - which seemingly led to his retirement from professional wrestling.
+
+## International wrestling appearances 
+
+In 2021 Taras made his only international appearance in career, where he worked for Baltic Championship Wrestling in Germany.
 
 ## In wrestling
 
 * Finishers:
   - _Dzida_ (Spear) (2021-2024)
-  - GTS (2024-)
+  - GTS (2024-2025)
 * With [Disco Pablo](@/w/disco-pablo.md):
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
 * Tag Teams and stables:
@@ -70,7 +74,7 @@ In his Instagram stories, Taras stated that he was supposedly abadoned by his pa
     {{ music(spot='3mvtAnOK9CoHvVCsqrixj5')}}
     {{ music(apple='619262718?i=619262888')}}
   - "Treachery (From &quot;Bleach&quot;) - Metal Version" by Rocco Minichiello
-    {{ org_badge(orgs=['low']) }} (2025-) <br>
+    {{ org_badge(orgs=['low']) }} (2025) <br>
     {{ music(yt='ODiQqVC1b9o')}}
     {{ music(spot='6DedcdH8ri4pgtllVhPbLx')}}
     {{ music(apple='1780533525?i=1780533526')}}
@@ -79,6 +83,10 @@ In his Instagram stories, Taras stated that he was supposedly abadoned by his pa
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md)
+
+## Internet presence
+
+* [Taras's Instagram](https://www.instagram.com/taras.wrestling)
 
 ## References
 

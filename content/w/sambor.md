@@ -41,17 +41,25 @@ Sambor debuted in [PpW Ewenement](@/o/ppw.md) at [Co Za Noc](@/e/ppw/2024-10-26-
 
 #### Rivalry with Feager
 
-At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Sambor took part in the Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Feager](@/w/feager.md), whose prize was being included in a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match resulted in a three-way tie between him and his opponents, with all of them besides Feager scoring a single point. At Ledwo Legalne 5 he took part in a #1 Contender Ladder Match for the [PpW Championship](@/c/ppw-championship.md). During the match he was attacked by Feager, preventing him from winning the match for the title fight contract.
+At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Sambor took part in the Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Feager](@/w/feager.md), for the inclusion in a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). The match resulted in a three-way tie between him and his opponents, with all of them besides Feager scoring a single point. At Ledwo Legalne 5 Sambor took part in a #1 Contender Ladder Match for the [PpW Championship](@/c/ppw-championship.md). During the match he was attacked by Feager, preventing him from winning the match. This however didn't lead to any matches, as Feager vanished from PpW programming soon after.
+
+#### Rivalry with luchadors and injury
+
+At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Sambor took on Hungarian luchador Wonder Haze in a Singles Match. He managed to win that bout, but after the show it was revealed that their rivalry was not yet finished. He alligned himself with Marcelito to face Wonder Haze and [Sentinel](@/w/sentinel.md) in a Lucha Rules Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During said match Sambor suffered a serious knee injury, which sidelined him from competing for some time.
 
 ### Legacy of Wrestling (2024-present)
 
-Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md), accepting [Chemik's](@/w/chemik.md) Open Challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md), in a match that also included [Dziedzic](@/w/dziedzic.md).
+Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md), accepting [Chemik's](@/w/chemik.md) Open Challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md), in a match that also included [Dziedzic](@/w/dziedzic.md). At both [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-low-3.md) Legacy shows he was a part of multi-men matches, but he failed to win either of them.
+
+## International wrestling appearances 
+
+From 2024 onwards Sambor started making appearances at the European independent scene. He made his international debut in Wrestling World Austria, and later on he started appearing in Hungary - most notably for Passion Pro and XWP Pankracio, where he faced [Ron Corvus](@/w/ron-corvus.md) in a hardcore match for the XPW Hardcore Championship in June 2025.
 
 ## In wrestling
 
 * Finishers:
   - _Szczerbiec_ (Claymore Kick) (2023-)
-  - _Słowiański Pal_ (Piledriver) (2025-)
+  - _Słowiański Pal_ (Piledriver) (2025)
 * Managers:
   - Rusałka (2023-)
 * Entrance music:

@@ -50,8 +50,6 @@ Shortly after that loss Vic Golden suffered an injury, and was sidelined for a c
 Over that time Gabriel Queen aligned for a short while with Legia Łysych ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md) and Karyna), but the alliance was quickly turned into a feud, which resulted in a loss against Olgierd in a [Street Fight](@/e/ptw/2023-09-03-ptw-underground-17.md), and a victory against Marco Hammers at [PTW Underground 18](@/e/ptw/2023-10-01-ptw-underground-18.md).
 That show marks his last appearance in the PTW ring.
 
-In those months he also started taking bookings from abroad, making appearances in Austria, Germany and Denmark.
-
 ### PpW Ewenement (2024-)
 
 #### Debut and feud with Zmowa
@@ -74,7 +72,15 @@ At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold
 
 #### Feud with Vic Golden
 
-After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Legend-turned-Judas, Golden. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Queen unfortunately lowered his guard after scoring a victory over [Oskar Alexander](@/w/oskar-alexander.md), which allowed Golden to vicously attack Queen once more, explaining his hatered towards Queen caused by the fact that everyone saw Gabriel as "the better one" in Pure Gold. Golden challenged Queen to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During that match [the referee](@/w/madman-charlie.md) was knocked out, which prevented Queen from winning. This led to Queen grabing a chair to attack Golden, but the assault was stopped by Oskar Alexander who seemingly joined Vic's side and helped him defeat Queen.
+After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Legend-turned-Judas, Golden. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Queen unfortunately lowered his guard after scoring a victory over [Oskar Alexander](@/w/oskar-alexander.md), which allowed Golden to vicously attack Queen once more, explaining his hatered towards Queen caused by the fact that everyone saw Gabriel as "the better one" in Pure Gold. Golden challenged Queen to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During that match [the referee](@/w/madman-charlie.md) was knocked out, which prevented Queen from winning. This led to Queen grabing a chair to attack Golden, but the assault was stopped by Oskar Alexander who seemingly joined Vic's side and helped him defeat Queen. The feud continued throughout Mid-2025, with Gabriel defeating Vic's protigee Oskar in a Bullrope Match at [Hardcore Friday: Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) which allowed him to qualify for Total Elimination Fourway Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). In that match he was again outsmarted by Vic Golden, who used [Agentka Agatka](@/w/agentka-agatka.md) - member of Rodzina - to get an upper hand over Queen. After the match Queen once again challenged Vic for a tag team match, which is set up to take place at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
+
+## Legacy of Wrestling (2024-present)
+
+Gabriel joined [Legacy of Wrestling](@/o/low.md) since their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md). At their second show he challenged Axel Fox in a Road To The Title Match, but he was defeated by Polish Fox. This resulted in him asking LoW's management for one more chance to pursue the upcoming Legacy Championship. Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
+
+## International wrestling appearances
+
+In 2023 Queen started taking bookings from abroad, making regular appearances in Austria, Germany and Denmark and Hungary from that point onwards.
 
 ## In wrestling
 
@@ -96,7 +102,7 @@ After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Le
     {{ music(spot='30nwxUmOXvcwA1U84BqowT')}}
     {{ music(apple='1490598362?i=1490598731')}}
   - "Best of Both Worlds" by Hannah Montana
-    {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-, solo and formerly in tag team with [Vic Golden](@/w/vic-golden.md)) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-, solo and formerly in tag team with [Vic Golden](@/w/vic-golden.md)) <br>
     {{ music(yt='ZSGC3g-EWbw')}}
     {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
     {{ music(apple='1440632617?i=1440633345')}}
@@ -111,8 +117,8 @@ After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Le
 
 ## Internet presence
 
-* [Facebook profile](https://www.facebook.com/profile.php?id=100077204831290)
-* [gabrielqn01 on Instagram](https://www.instagram.com/gabrielqn01/)
+* [Gabriel's Facebook profile](https://www.facebook.com/profile.php?id=100077204831290)
+* [Gabriel's Instagram](https://www.instagram.com/gabrielqn01/)
 
 ## References
 

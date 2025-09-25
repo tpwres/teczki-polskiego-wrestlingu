@@ -34,6 +34,12 @@ This was caused by Puncher's attack on Okoński at [Underground 24](@/e/ptw/2024
 In the main event of Underground 25 Puncher was set to defend his championship against [Spartan](@/w/spartan.md), but shockingly, Pawłowski turned heel and attacked Spartan with a chair, leading to a conflict between the two owners.
 During the build-up for the [next show](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md), Łukasz was trying to reach out to Pawłowski, but to no avail. They finally faced off at the show, where Pawłowski officially turned not only on the fans, but also on his business partner by kicking him in the groin, followed by a chair to the back.
 
+The growing rivalry over PTW ownership caused a bit of split inside of PTW's lockerroom. Pawłowski gathered a villainous stable called [Nietyklani](@/tt/nietykalni.md) (_The Untouchables_), which consisted of himself as a leader, Puncher and [Royal Rebels](@/tt/royal-rebels.md) - [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) Tag Team. Łukasz focused on fighting them with a help of another Nietykalni's rival - Spartan - as well as by swaying bullied refeerees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md). At [Nietyklani](@/e/ptw/2025-07-19-ptw-nietykalni.md) he managed to defeat Pawłowski's minion - Brave - in a Hardcore Match.
+
+#### Parenthood arc
+
+During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) Pawłowski adressed the public with another devastating announcement. Arkadiusz revealed that [Sigma Boy xD](@/w/sigma-boy.md) is in fact the bastard son of Łukasz "Prezes" Okoński. This caused Sigma Boy xD's meltdown, and seemingly him joining Pawłowski, who comforted him after this revalation. At Instagram promos Łukasz admitted, that he is in fact a father of Sigma Boy XD and tried to relieve the bond between them, but he was pushed away by his son.
+
 ## In wrestling
 
 * Entrance music:

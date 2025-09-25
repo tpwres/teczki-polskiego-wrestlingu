@@ -71,8 +71,13 @@ At the next show - [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) - 
 
 Over the first half of 2025 Mister Z revisited his feud with Blade and Biesiad, this time involving mercenaries from PpW's sponsor - PM Shooter. Details can be seen in a [separate article](@/a/pm-shooter-saga.md).
 
-At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)), Mister Z competed in 20 Typa 20 Broni battle royal for the [PpW Championship](@c/ppw-championship.md) title shot, to no success.
+At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), Mister Z competed in 20 Typa 20 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) title shot, to no success.
+
 After the events of [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), he was set to face Biesiad at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match. Despite a handicap caused by Biesiad's proficiency in Tables Matches, Mister Z emerged victorious from their rivalry, seemingly ending their feud.
+
+#### Cracks in Zmowa
+
+After Gustav Gryffin failed to defend his PpW Championship against the "Acid Messiah" Goblin at Ledwo Legalne 5 Mister Z went furious. His protigee went into downfall spiral, losing all of his confidence as well as couple of matches which were a chance to redeem himself in Mister Z's eyes. During that time Gustav suffered a constant bullying from all of Zmowa members, especially when Olgierd leaped over him in Z's hierarchy, making himself the new Zmowa prospect. After Mister Z defeated young [Bartosz Plata](@/w/plata.md) at [Hardcore Friday: Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) he began a vicious assault on cocky puroresu enjoyer, which was relucantly stopped by Gustav. This showed the first glimpse of change in Gryffin's mind. The final straw broke the camel's back at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), when Gustav finally broke loose and attacked both Marco Hammers and Zmowa's leader, finally turning his back on Mister Z.
 
 ### Dream Factory Wrestling (2017)
 
@@ -80,9 +85,13 @@ In September and December 2017 Mister Z - under his "Cade Bruce" alias - made ap
 
 ### Maniac Zone Wrestling (2023-present)
 
-In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md) during the joint MZW and PpW show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), which was held in Wrocław. Mister Z was defeated by Marcus Monere. 
+In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md) during the joint MZW and PpW show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), which was held in Wrocław. Mister Z was defeated by Marcus Monere.
 
-He made his return to MZW in March 2025, where he faced Kubes at [Forever](@/e/mzw/2025-03-29-mzw-forever.md). He lost the match due to disqualification after a low blow. Later that night he returned to observe the main event match for [MZW Championship](@/c/mzw-championship.md), confirming his aspirations to win that championship soon.
+He made his return to MZW in March 2025, where he faced Kubes at [Forever](@/e/mzw/2025-03-29-mzw-forever.md). He lost the match due to disqualification after a low blow. Later that night he returned to observe the main event match for [MZW Championship](@/c/mzw-championship.md), confirming his aspirations to win that championship soon. He confirmed that by winning a Fatal 4-Way Ladder Tournament Final Match for the PpW/MZW Championship opportunity briefcase, which happened at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
+
+## International wrestling appearances
+
+In August 2023 Mister Z made a singular international appearance during Passion Pro Wreslting show in Hungary.
 
 ## In wrestling
 
@@ -93,6 +102,7 @@ He made his return to MZW in March 2025, where he faced Kubes at [Forever](@/e/m
   - Curb stomp (2022)
   - Single Leg Dropkick (2023)
   - Moonsault (2023-)
+  - Powerbomb (2024-)
 * Tag Teams and stables:
   - [Zmowa](@/tt/zmowa.md) (2024-)
 * Entrance music:
@@ -136,3 +146,13 @@ He made his return to MZW in March 2025, where he faced Kubes at [Forever](@/e/m
   - PPW Light Heavyweight Championship (1 time)
   - PPW Heavyweight Championship (1 time)
   - PPW Tag Team Championship (1 time; with [Snake](@/w/snake.md))
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - MZW/PpW Opportunity Briefcase (1 time)
+
+## Internet presence
+
+* [Mister Z's Instagram](https://www.instagram.com/mistertherealdeal)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=31484&gimmick=Mister+Z)

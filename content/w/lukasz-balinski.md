@@ -26,8 +26,8 @@ country = ["PL"]
 
 In 2021 Łukasz joined [Arkadiusz Paterek](@/w/arek-paterek.md) as an official commentator for the new wrestling project in Poland, called [Prime Time Wrestling](@/o/ptw.md). He debuted as a color commentator at PTW's first show: [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). From that point on he continued his tenure in PTW working alongside Arek Paterek and [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) at multiple PTW shows. He eventually [left the federation](@/a/ptw-exits.md) along with numerous talent after the fiasco of PTW's sixth major show, [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 
-### Legacy of Wrestling (2024)
+### Legacy of Wrestling (2024-present)
 
-After the start of [Legacy of Wrestling](@/o/low.md), a new organisation created by numerous ex-PTW workers, Balik joined the federation as a commentator for their [frist show](@/e/low/2024-12-01-low-1.md).
+After the start of [Legacy of Wrestling](@/o/low.md), a new organisation created by [numerous ex-PTW workers](@/a/ptw-exits.md), Balik joined the federation as a commentator from their [frist show](@/e/low/2024-12-01-low-1.md) onwards.
 
 [balowytypik]: https://www.youtube.com/@TypowyBalik/

@@ -32,7 +32,7 @@ After Arena 16, the COVID-19 pandemic forced a nation-wide lockdown, during whic
 
 After his departure from KPW, Boza joined [Prime Time Wrestling](@/o/ptw.md), started by ex-KPW announcer [Pan Pawłowski](@/w/pan-pawlowski.md). Boza made his debut as a heel, using the ringname Michał "Mutant" Świątkowski in a Battle Royal Match at [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md). The match was won by [Nano Lopez](@/w/nano-lopez.md).
 
-At or after REVOLUCJA, Mutant seemingly suffered an undisclosed injury and disappeared from PTW for nearly 3 years before making his return in February 2024 at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where he took part in the Gold Rush Rumble Match for the [PTW Championship](@/c/ptw-championship.md). He managed to eliminate [Max Speed](@/w/max-speed.md) before being eliminated by [Wiktor Longman](@/w/wiktor-longman.md) shortly after. He later revealed that he suffered another shoulder injury during his return.
+At or after REVOLUCJA, Mutant seemingly suffered an undisclosed injury and disappeared from PTW for nearly three years before making his return in February 2024 at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where he took part in the Gold Rush Rumble Match for the [PTW Championship](@/c/ptw-championship.md). He managed to eliminate [Max Speed](@/w/max-speed.md) before being eliminated by [Wiktor Longman](@/w/wiktor-longman.md) shortly after. He later revealed that he suffered another shoulder injury during his return.
 
 This marked his last appearance in PTW, as he publicly [announced his departure](@/a/ptw-exits.md) from the federation in June 2024. From then on he was often active on social media, teasing a return to either KPW or [PpW](@/o/ppw.md), but that never came to be.
 
@@ -53,4 +53,4 @@ This marked his last appearance in PTW, as he publicly [announced his departure]
     {{ music(apple='1440836832?i=1440836838')}}
 
 ## Internet presence
-  - Instagram [@mutant_wrestler](https://www.instagram.com/mutant_wrestler)
+  - [Mutant's Instagram](https://www.instagram.com/mutant_wrestler)

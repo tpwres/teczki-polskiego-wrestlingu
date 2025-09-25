@@ -34,7 +34,13 @@ Spartan made his debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 8](
 
 Spartan returned over a year later during [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) where he was one of the entrants in the Gold Rush Rumble Match for the [PTW Championship](@/c/ptw-championship.md). He eliminated Wiktor Longman and was able to make it to the final four, before being eliminated by James Storm. After a wave of[wrestler exits](@/a/ptw-exits.md) he was one of the few wrestlers who remained in the federation, and became one of the most pushed babyfaces in the company. He managed to keep his undefeated streak, which included defeating Aaron Williams for the #1 contender spot for the PTW Championship. He faced [Puncher](@/w/puncher.md) for said championship, but during the match he was betrayed by GM [Pawłowski](@/w/pan-pawlowski.md) who, as part of a heel turn, struck him with a chair to secure Puncher's win.
 
-Besides his appearances in Polish wrestling, Spartan also made a few appearances on the Hungarian wrestling scene, most notably in HCW.
+#### Alliance against Pawłowski
+
+Pawłowski's heel turn caused Spartan to step into a war path with villainous General Manager. He alligned himself with second PTW owner - [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) to fend off both Arkadiusz, and members of his new stable called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_) which consisted of Pawłowski, Puncher and [Royal Rebels](@/tt/royal-rebels.md) - the team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
+
+## International wrestling appearances
+
+Besides his appearances in Polish wrestling, Spartan also made a few appearances on the Hungarian wrestling scene, most notably in HCW. He also worked a few shows in Austria and Italy, for PTW-affiliated Wrestling World Austria and BestYa Wrestling.
 
 ## In wrestling
 

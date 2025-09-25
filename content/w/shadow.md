@@ -12,6 +12,8 @@ country = ["PL"]
 3 = { path = "shadow-piekny-i-mlody.webp", caption = "Terry Shadow after his fight at [PXW Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md).", source = "AttitudePL @ YouTube" }
 +++
 
+Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) where he is also a owner and head booker. Besides that, he ocassionaly works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). He also worked for [Polish Xtreme Wrestling](@/o/pxw.md), [PpW Ewenement Wrestling](@/o/ppw.md) and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+
 ## Basic info
 * Years active: 2011-present
 * Gimmicks/nicknames:
@@ -55,15 +57,17 @@ Due to COVID-19 restrictions, MZW was forced to temporarily halt their operation
 
 After the COVID pandemic, Shadow continued to run Maniac Zone Wrestling events as both the promoter and an in-ring performer, albeit with a rather irregular schedule. He also continued as the head coach of PAW, which moved operations to Kępno.
 
-In addition to performing in Poland, Shadow has also wrestled for several international promotions, particularly for Germany-based Eastside Revolution Wrestling.
-
 ### PpW Ewenement  (2023-2024)
 
 In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
 
-### Legacy of Wrestling (2024-)
+### Legacy of Wrestling (2024-present)
 
 In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and faced [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md). He returned for the [second show](@/e/low/2025-04-06-low-2.md) to take part in the Fatal Five-Way Match, albeit unsuccessfully.
+
+## International wrestling appearances
+
+In addition to performing in Poland, Shadow has also wrestled for several international promotions, particularly for Germany-based Eastside Revolution Wrestling, Next Step Wrestling and few others, including Czech promotion VcV and Hungarian Pro Wrestling Magyarorszag.
 
 ## In wrestling
 
@@ -94,8 +98,8 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
 
 ## Internet presence
 
-* [shadowiseverywhere](https://www.instagram.com/shadowiseverywhere/) on Instagram
-* [Shadow Official](https://www.facebook.com/SHADOWmaniac) on Facebook
+* [Shadow's Instagram](https://www.instagram.com/shadowiseverywhere/) 
+* [Shadow's Facebook profile](https://www.facebook.com/SHADOWmaniac) 
 
 ## References
 

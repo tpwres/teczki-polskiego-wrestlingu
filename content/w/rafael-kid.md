@@ -37,6 +37,10 @@ For the better part of 2018 and 2019, Kid performed mostly in multi-man and midc
 
 Rafael Kid made his debut in [PpW Ewenement](@/o/ppw.md) at [PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md), losing to his fellow ex-DFW and MZW collegue [Isnorr](@/w/isnorr.md). Kid was scheduled to face Aytac Bahar, however he was unexpectedly pulled off from the card. After that, Kid retired from wrestling.
 
+## International wrestling appearances
+
+In 2019 Rafael made a one-off appearance for Next Step Wrestling in Germany, where he worked in a tag team match alongside [Axel Fox](@/w/axel-fox.md).
+
 ## In wrestling
 
 * Finishers:

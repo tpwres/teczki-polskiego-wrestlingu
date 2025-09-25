@@ -60,16 +60,31 @@ In December 2023, Robert's Facebook page posted a graphic saying "BYE BYE", whic
 
 In January 2021 Robert was slated to debut at a Danish BODYSLAM! Pro-Wrestling's event against Carlos Zamora. This did not pan out, as the event was cancelled due to the COVID restrictions. The debut was postponed util May 2021, when Star defeated Danish wrestler Hype Boy. Since then, he regularly appeared at Dansk Pro Wrestling and BODYSLAM!'s events, and occasionally for other Danish and Nordic promotions. In 2023, Robert started tagging with [Hunyadi Tamas](@/w/hunyadi-tamas.md) and won the BODYSLAM! tag team title, in addition to continuing his run as champion for DPW. He also made appearances in Scotland and Germany.
 
-### PpW Ewenement (2024)
+### PpW Ewenement (2024-present)
+
+#### Early appearances
 
 On May 11th, 2024, [PpW Ewenement](@/o/ppw.md) announced booking Robert Star for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) the following month.
 This surprised fans, but was well received both by fans and wrestling YouTubers. PpW wrestlers shared this to their Instagram stories, with comments like "One Polish Stallion, worth more than 1200 horsepower" (referring to the [PTW Lottery](@/o/ptw.md#the-lottery) and its main prize, a 1200HP Nissan GTR). The date was by no means accidental, as PTW's event [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) was held on that day.
 
-Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified so as not to lose the match. In 2025, he returned once more during the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
+Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the UEWA Championship. During the match Robert turned heel after getting himself disqualified so as not to lose the match. 
+
+#### Championship pursuit and joining Rodzina
+
+In 2025 Robert returned once more during the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). 
+At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he managed to win the Six-Man #1 Contender Ladder Match for the [PpW Championship](@/c/ppw-championship.md). The match was set up to take place at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), however before it took place, Star intervened in a Tornado Tag Team Match between Rodzina members ([Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md). He helped Oskar and Agatka win, revealing himself as the newest member of Rodzina which was teased by the faction leader, [Vic Golden](@/w/vic-golden.md), during the build-up to the show.
+
+Robert himself was unable to win his match against the defending champion [Goblin](@/w/goblin.md), even though Rodzina once again tried to help their fellow member to gain advantage.
 
 ### Legacy of Wrestling (2025)
 
 Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show](@/e/low/2025-04-06-low-2.md). He observed the first few matches sitting at the bar, close to the ring. In the fourth match, [Greg](@/w/greg.md) was scheduled to face [Vic Golden](@/w/vic-golden.md), but [Chemik](@/w/chemik.md) jumped Greg during his entrance routine. When Acting Chairman [Longman](@/w/wiktor-longman.md) forced Chemik to return to the backstage, Robert came out, in full ring gear and helped Greg, by attacking Chemik. The singles match was quickly turned into a Tag Team Match, where Robert joined his longtime KPW rival Greg against Chemik and Vic.
+
+## International wrestling appearances
+
+Robert Star made his first confirmed wrestling appearance outside of Poland in 2018, when he worked for French federation League Nationale de Catch. From 2021 onwards Robert moved to Denmark and started taking regular bookings across the Europe, most notably in Denmark, Scotland, Austria and Germany. 
+
+During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas](@/w/hunyadi-tamas.md) and Phoenix Fonden), as well as DPW Worlds Champion and European Heavyweight Champion. 
 
 ## In wrestling
 
@@ -78,6 +93,7 @@ Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show]
 * Tag Teams and stables:
   - Sojusz (2018)
   - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
+  - Rodzina (2025-)
 * Entrance music:
   - "Party All Day" by Steel Panther
     {{ org_badge(orgs=['kpw']) }} (2015-2019) <br>
@@ -105,8 +121,8 @@ Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show]
 
 ## Internet presence
 
-* [realrobertstar on Instagram](https://www.instagram.com/realrobertstar/)
-* [Robert Star](https://www.facebook.com/RobertStar) on Facebook
+* [Robert's Instagram](https://www.instagram.com/realrobertstar/)
+* [Robert's Facebook profile](https://www.facebook.com/RobertStar) 
 
 ## References
 

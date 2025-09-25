@@ -40,6 +40,10 @@ After that victory Kamil spent most of 2018 and 2019 in championship pursuits, t
 
 Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where he was defeated by Reinbakh. After that he seemingly retired from in-ring activites and focused solely on coaching.
 
+## International wrestling appearances 
+
+Between 2010 and 2014 Kamil made a handful of appearances in federations in the UK (Scottish Wrestling Entertainment and Great Bear Promotions) and in Hunagary (Hungarian Championship Wrestling). 
+
 ## In wrestling
 
 * Finishers:

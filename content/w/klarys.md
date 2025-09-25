@@ -27,6 +27,10 @@ Klarys officially started his wrestling career in 2009, when he debuted for [Do 
 At [All Or Nothing](@/e/ddw/2010-05-08-ddw-all-or-nothing.md) he was one of the contestants in a Ten Man Gauntlet Match for the [DDW International Championship](@/c/ddw-international-championship.md), which was eventually won by [Joe Legend](@/w/joe-legend.md). In total, Klarys worked fourteen matches in DDW in his career, with a defeat in a Handicap Match against Kamil Aleksander at [DDW's Second House Show](@/e/ddw/2015-05-02-ddw-house-show-2.md) being his last match.
 Not long afterwards, DDW closed down and most of the roster left to form [Kombat Pro Wrestling](@/o/kpw.md) in the Tricity area. Klarys, however, didn't join the new federation and retired from in-ring activities.
 
+## International wrestling appearances
+
+In 2012 and 2014 Klarys made two trips to Hungarian Championship Wrestling (HCW). He managed to work a total of three matches in said federation.
+
 ## In wrestling
 
 * Finishers:

@@ -54,7 +54,7 @@ After Pablo's departure from PTW, he returned to the ring after a five-month hia
 
 Disco Pablo joined [Legacy of Wrestling](@/o/low.md) - a federation created mostly by ex-PTW wrestlers and staff - shortly after they formed in mid-2024. At their [first show](@/e/low/2024-12-01-low-1.md) Pablo held a musical chairs contest, but during the game the masked Taras barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking himself he finished off Pablo with a GTS and put Piotr through a table. In his Instagram stories, Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declared that PAKA had been officially disbanded.
 
-At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo faced each other in a promo segment, where Taras reiterated that it was Pablo who abadoned him first, thus destroying PAKA. After an exchange of blows, Pablo oficially challenged Taras to a match at Legacy's next show. 
+At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo faced each other in a promo segment, where Taras reiterated that it was Pablo who abadoned him first, thus destroying PAKA. After an exchange of blows, Pablo oficially challenged Taras to a match at Legacy's next show. The feud concluded at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md) where he finally defeated his ex-brother with Boro serving as a special guest referee.
 
 ## In wrestling
 

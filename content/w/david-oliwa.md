@@ -12,8 +12,6 @@ country = ["PL"]
 
 David Oliwa is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md). He also worked for [Do Or Die Wrestling](@/o/ddw.md) and [Legacy of Wrestling](@/o/low.md).
 
-Additionally, David also works abroad in such promotions as Austria-based European Wrestling Association (in a tag team with [Ricky Sky](@/w/ricky-sky.md) and [Skull Evil](@/w/skull-evil.md)) and Pro Wrestling Österreich, Germany's Power Of Wrestling (where he won the Tag Team Championship with Sky) and others.
-
 ## Basic info
 
 * Years active: 2015-present
@@ -67,6 +65,10 @@ Although Team Visegrad had been active in Austria since 2021, Godzina Zero 2025 
 ### Legacy of Wrestling (2025)
 
 In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at their [second show](@/e/low/2025-04-06-low-2.md), where he faced - and defeated - [Marcelito](@/w/marcelito.md) in a Singles Match. 
+
+## International wrestling appearances 
+
+David also works abroad in such promotions as Austria-based European Wrestling Association (in a tag team with [Ricky Sky](@/w/ricky-sky.md) and [Skull Evil](@/w/skull-evil.md)) and Pro Wrestling Österreich, Germany's Power Of Wrestling (where he won the Tag Team Championship with Sky) and others.
 
 ## In wrestling
 

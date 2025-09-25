@@ -34,15 +34,19 @@ The Fux Brothers won their [KPW Tag Team Champions](@/c/kpw-tag-team-championshi
 
 In November 2024 [Krystian Maliowski](@/w/krystian-malinowski.md), the chairman of KPW, announced that at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Filip Fux would be one of the contestants in "The Race" for the [KPW Championship](@/c/kpw-championship.md). Filip managed to win his qualifier match against [Eryk Lesak](@/w/eryk-lesak.md). At [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) he entered the final match facing [David Oliwa](@/w/david-oliwa.md) and his brother Michał in a Triple Threat Match. He was unable to secure a victory, as the match was won by Michał Fux.
 
-After his defeat at Arena 27 Filip challenged [Chemik](@/w/chemik.md) for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md). During the build-up for [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) it was officially announced, that the match would be a Street Fight Match.
+After his defeat at Arena 27 Filip challenged [Chemik](@/w/chemik.md) for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md). During the build-up for [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) it was officially announced that the match would be a Street Fight Match. However, Filip was defeated by the reigning champion. At [Godzina Zero 2025](@/e/low/2025-07-11-low-3.md) the Fux Brothers were challenged by [Team Visegrad](@/tt/team-visegrad.md) for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md). Shockingly, the challangers were able to defeat the Champions, ending their reign after 735 days.
 
 ### Legacy of Wrestling (2024-present)
 
 #### Feud with Legia Łysych
 
-Filip Fux was the first KPW wrestler to be announced as the member of [Legacy of Wrestling](@/o/low.md) roster, thus becoming the first worker KPW allowed to perform in another Polish federation. A few months before the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md) Filip got involved in a feud with his old friend from KPW Academy and a member of Legia Łysych: [Marco Hammers](@/w/marco-hammers.md). In one of the episodes of Marco's YouTube vlog series "Łysy Vlog" (_Bald Vlog_) he got into an argument with Filip over some muscle-enhancing creatine, which Filip supposedly stole from Marco during their joint trip to Hungary for an HCW show. This Internet feud evolved into a match at Legacy's first show. Marco won this match after a distraction by [Olgierd](@/w/olgierd.md), and in a post-match beatdown him and Olgierd managed to snatch Filip's KPW Tag Team Championship belt and pose with it, which strongly suggested Legia's intention to face the KPW champions for their titles.
+Filip Fux was the first KPW wrestler to be announced as the member of [Legacy of Wrestling](@/o/low.md) roster, thus becoming the first worker KPW allowed to perform in another Polish federation. A few months before the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md) Filip got involved in a feud with his old friend from KPW Academy and a member of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md). In one of the episodes of Marco's YouTube vlog series "Łysy Vlog" (_Bald Vlog_) he got into an argument with Filip over some muscle-enhancing creatine, which Filip supposedly stole from Marco during their joint trip to Hungary for an HCW show. This Internet feud evolved into a match at Legacy's first show. Marco won this match after a distraction by [Olgierd](@/w/olgierd.md) and, in a post-match beatdown, him and Olgierd managed to snatch Filip's [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) belt and pose with it, which strongly suggested Legia's intention to face the KPW Champions for their titles.
 
-The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych.
+The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych. At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsucessfully challenged [Gabriel Queen](@/w/gabriel-queen.md) and [Oskar Alexander](@/w/oskar-alexander.md) in a Road to the Title Triple Threat Match.
+
+## International wrestling appearances 
+
+From 2023 onwards Filip started to secure international bookings for himself. He managed to made a few appearances for European Wrestling Association, Passion Pro and in SLAM Wrestling Entertainment.
 
 ## In wrestling
 
@@ -80,7 +84,7 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wr
 
 ## Internet presence
 
-* [@fuxwrestling on Instagram](https://www.instagram.com/fuxwrestling/)
+* [Filip's Instagram](https://www.instagram.com/fuxwrestling/)
 
 ## References
 

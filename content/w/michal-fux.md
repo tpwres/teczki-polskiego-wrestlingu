@@ -30,11 +30,17 @@ As the Fux Brothers, Michał and Filip won the [KPW Tag Team Championship](@/c/k
 
 In October 2024 KPW's chairman [Krystian Malinowski](@/w/krystian-malinowski.md) announced a new tournament for #1 Contendership for the [KPW Championship](@/c/kpw-championship.md), called ["Wyścig"](@/e/kpw/2024-11-15-kpw-arena-26.md) (_The Race_). Both of the Fux Brothers entered the tournament and won their matches in the quarter finals, with Michał scoring a victory against [Chemik](@/w/chemik.md). In the finals - which were merged into a single Triple Threat Match - Michał and Filip stood against one another and [David Oliwa](@/w/david-oliwa.md). Michał won the match, which would lead him into a match with the reigning champion - [Hans Schulte](@/w/hans-schulte.md).
 
-Up until August 2025 Michał was the only active KPW wrestler who'd never missed a single show since his debut. This streak, however, was broken in September, when he didn't appear at the [house show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md).
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) the Fux Brothers faced David Oliwa and [Ricky Sky](@/w/ricky-sky.md) in a Tag Team Match for the KPW Tag Team Championship. That time their title defence was unsucessful, which resulted in the Brothers losing their Championships after a 735-days long reign.
+
+Up until August 2025 Michał was the only active KPW wrestler who'd never missed a single show since his debut. This streak, however, was broken in September, when he didn't appear at the [house show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md). 
 
 ### Legacy of Wrestling (2025)
 
 Michał debuted at Legacy of Wrestling's [second show](@/e/low/2025-04-06-low-2.md), where together with Filip he defended their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) against Legia Łysych.
+
+## International wrestling appearances
+
+In 2023 Michał made his first appearance outside of Poland, when he worked one match for Austrian European Wrestling Assosciation. Two years later, in 2025, Michał returned to EWA and added a handful of matches for Scandinavian promotion SLAM Wrestling Entertainment over the span of the year.
 
 ## In wrestling
 
@@ -62,7 +68,7 @@ Michał debuted at Legacy of Wrestling's [second show](@/e/low/2025-04-06-low-2.
 
 ## Internet presence
 
-* [@michalfuxkpw on Instagram](https://www.instagram.com/michalfuxkpw/)
+* [Michał's Instagram](https://www.instagram.com/michalfuxkpw/)
 
 ## References
 

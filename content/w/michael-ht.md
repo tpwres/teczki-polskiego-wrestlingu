@@ -56,4 +56,4 @@ During [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) he mad
 
 ## Internet presence
 
-* [michaelheelt](https://www.instagram.com/michaelheelt/) on Instagram
+* [HT's Instagram](https://www.instagram.com/michaelheelt/)
