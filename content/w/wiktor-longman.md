@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "winner-lenghty-person.webp", caption = "Longman [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
-Wiktor Longman is a wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md), and later also [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md).
+Wiktor Longman is a Polish retired wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md), and later also [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md) in a announcer and on-screen role.
 
 ## Basic info
 
@@ -54,7 +54,9 @@ At the [second Legacy show](@/e/low/2025-04-06-low-2.md), [Arkadiusz Paterek](@/
 ## In wrestling
 
 * Finishers:
-  - _At Your Service_ (F5) (2022-)
+  - _At Your Service_ (F5) (2022-2024)
+* Tag Teams and stables:
+  - [Zmowa](@/tt/zmowa.md) (2024) - associate
 * Entrance music:
   - Such a Whore (Stellular Remix) by JVLA
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-) <br>
