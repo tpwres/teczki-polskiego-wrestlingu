@@ -14,7 +14,7 @@ toclevel = 2
 Godzina Zero (_Zero Hour_) 2024 was the seventh annual KPW supershow, held since 2016.
 Unlike most previous editions, GZ'24 was held in September.
 It also marked the first time a main KPW event was not held in the [Nowy Harem club](@/v/atlantic-nh-gdynia.md), since the promotion returned there with [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18.md).
-The change of venue to a larger gym hall of a school at Stefana Okrzei 6 street was dictated by the increased interest in recent events, with Arenas [21](@/e/kpw/2023-02-24-kpw-arena-21.md), [23](@/e/kpw/2023-11-24-kpw-arena-23.md), [24](@/e/kpw/2024-02-16-kpw-arena-24.md), [25](@/e/kpw/2024-05-17-kpw-arena-25.md) and [GZ'23](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) selling out and additional tickets being made available.
+The change of venue to a larger gym hall of a {% map_pin(v="Okrzei 6") %}school at Stefana Okrzei 6 street{% end %} was dictated by the increased interest in recent events, with Arenas [21](@/e/kpw/2023-02-24-kpw-arena-21.md), [23](@/e/kpw/2023-11-24-kpw-arena-23.md), [24](@/e/kpw/2024-02-16-kpw-arena-24.md), [25](@/e/kpw/2024-05-17-kpw-arena-25.md) and [GZ'23](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) selling out and additional tickets being made available.
 The move, according to Chairman Malinowski, was temporary and the promotion still does business with Nowy Harem.
 
 There were a significant number of foreign talent at this event, including some new guests:
