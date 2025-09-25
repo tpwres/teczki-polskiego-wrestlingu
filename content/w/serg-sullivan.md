@@ -33,6 +33,8 @@ This heated up their rivalry, leading to a huge brawl after Shida's match at [Pr
 
 * Finishers:
   - Frog Splash (2024-)
+* Managers:
+  - "The Bat" Lesya Sullivan (2025-)
 * Entrance music:
   - "Callout" by Atilla
     {{ org_badge(orgs=['ptw']) }} (2024-) <br>
