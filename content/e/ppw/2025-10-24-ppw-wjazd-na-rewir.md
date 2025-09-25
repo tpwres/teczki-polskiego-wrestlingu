@@ -21,6 +21,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 * At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), [Gabriel Queen](@/w/gabriel-queen.md) challenged [Vic Golden](@/w/vic-golden.md) to a tag team match with any member of Rodzina (_Family_) against Queen and a mystery partner at the Wrocław show. Golden accepted.
 * At the same show, [Bartosz Plata](@/w/plata.md) confirmed in an interview that he would be present at the show in Wrocław.
 * 22.09.2025 saw the announcement of the first match-up - [Biesiad Strong](@/w/biesiad.md) vs [Goblin](@/w/goblin.md) for the [PpW Championship](@/c/ppw-championship.md).
+* On 25.09.2025 it was revealed that Bartosz Plata would team up with [Axel Fox](@/w/axel-fox.md) to take on the tag team of [Shadow](@/w/shadow.md) and the newcomer Antoni Ocean.
 
 ## Predicted card
 
@@ -32,11 +33,12 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
     nc: Upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md) & ???'
   - '[Vic Golden](@/w/vic-golden.md) & ???'
-  - s: Tag-team Match
+  - s: Tag Team Match
     nc: upcoming
-- - '[Bartosz Plata](@/w/plata.md)'
-  - '???'
-  - nc: upcoming    
+- - 'Antoni Ocean & [Shadow](@/w/shadow.md)"
+  - '[Bartosz Plata](@/w/plata.md) & [Axel Fox](@/w/axel-fox.md)'
+  - s: Tag Team Match
+    nc: upcoming
 {% end %}
 
 ### Recap
