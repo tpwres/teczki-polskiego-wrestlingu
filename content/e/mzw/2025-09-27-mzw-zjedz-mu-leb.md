@@ -21,6 +21,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 * On 27.08.2025 Mister Z issued a [reply][promo-z] refusing the challenge, on the grounds of him being on high enough level that he should only come to MZW to fight in title matches.
 * On 7.09.2025 MZW announced a Triple Threat Match between [Febus 'The Wolf'](@/w/apollo-anderson.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Max Speed](@/w/max-speed.md). This is Max's debut in MZW.
 * On 17.09.2025 MZW released a [video][promo-matt] in which [Matt Buckna](@/w/matt-buckna.md) called [Mister Z](@/w/mister-z.md) a nobody for winning the Ladder Match at the [last show](@/e/mzw/2025-06-28-mzw-green-madness.md) by playing dirty. He then addressed [Syriusz Dziedzic](@/w/dziedzic.md), whom he applauded for his perseverance and self-improvement, and in his appreciation of these traits he offered Dziedzic a match for his [MZW Championship](@/c/mzw-championship.md). The match was officially confirmed two days later.
+* On 24.09.2025 MZW published a [video][riverman-challenge] by [Tony Sheen](@/w/riverman.md), in which he issued an open challenge.
 
 ## Predicted card
 
@@ -39,6 +40,10 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
   - '[Max Speed](@/w/max-speed.md)'
   - s: Triple Threat Match
     nc: upcoming
+- - '[Tony Sheen](@/w/riverman.md)'
+  - '???'
+  - s: Open Challenge
+    nc: upcoming
 - - '[Matt Buckna](@/w/matt-buckna.md)(c)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
@@ -56,3 +61,4 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 [promo-dziedzic]: https://www.facebook.com/reel/1952443468659232/
 [promo-z]: https://www.facebook.com/reel/2210556449383947/
 [promo-matt]: https://www.facebook.com/ManiacZoneWrestling/videos/655104714312240
+[riverman-challenge]: https://www.facebook.com/watch/?v=1115122563935121
