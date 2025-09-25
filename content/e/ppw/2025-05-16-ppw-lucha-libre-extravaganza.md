@@ -14,7 +14,7 @@ toclevel = 2
 3 = { path = "4029232-festiwal-tequili-w-plenum-w-gdansku.webp", caption = "[Czacha](@/w/johnny-blade.md).", source = "Trójmiasto.pl" }
 +++
 
-PpW Lucha Libre Extravaganza was a showcase accompanying [Tequila Mezcal Festival][tequila] in Gdańsk, taking place in the Plenum hall of the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md). This was the first time PpW appeared in northern Poland.
+PpW Lucha Libre Extravaganza was a showcase accompanying [Tequila Mezcal Festival][tequila] in Gdańsk, taking place in the {{ map_pin(v="Plenum") }}Plenum hall of the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md). This was the first time PpW appeared in northern Poland.
 
 ## Build-up
 

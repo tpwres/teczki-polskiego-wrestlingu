@@ -14,7 +14,7 @@ manifest = "@/e/kpw/2017-02-04-kpw-szlamfest-gallery.toml"
 
 Szlamfest (roughly _Slimefest_) billed itself as a celebration of low culture: comics, retro games, B-class movies, meetings with authors, YouTubers and bloggers. And a wrestling show. Three editions were held between 2017 and 2019. The fourth edition in 2020 was cancelled due to the COVID-19 pandemic, and the festival never returned. KPW would hold events on all editions, but only the first one would be named after the event - the others were billed as regular Arena shows.
 
-The event, and festival, were held in B90, a music and event venue located in a former industrial building belonging to [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
+The event, and festival, were held in {{ map_pin(v="B90") }}B90, a music and event venue located in a former industrial building belonging to [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
 
 ## Card
 

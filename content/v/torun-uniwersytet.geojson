@@ -7,7 +7,7 @@
     "properties": {
         "type": "historical-venue",
         "name": "Copernicus University sports hall",
-        "description": "Nicolaus Copernicus University's sports hall, where [DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md), [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) and [Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md) were held.",
+        "description": "Nicolaus Copernicus University's sports hall, where [DFW](@/o/dfw.md) held [Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md), [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) and [Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md).",
         "orgs": ["dfw"]
     }
 }
