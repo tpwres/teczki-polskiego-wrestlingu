@@ -35,7 +35,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
   - '[Vic Golden](@/w/vic-golden.md) & ???'
   - s: Tag Team Match
     nc: upcoming
-- - 'Antoni Ocean & [Shadow](@/w/shadow.md)"
+- - 'Antoni Ocean & [Shadow](@/w/shadow.md)'
   - '[Bartosz Plata](@/w/plata.md) & [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match
     nc: upcoming
