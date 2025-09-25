@@ -12,7 +12,7 @@ caption = "Official poster featuring [Direk](@/w/direk.md), [Pain Killer](@/w/pa
 source = "Facebook @DreamFactoryWrestling"
 +++
 
-The final event from [DFW](@/o/dfw.md) was held almost three years after their first one, on Saturday, June 9th, 2018. The venue and occasion was once more a community festival in Krzyżówki, where the previous [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md) took place.
+The final event from [DFW](@/o/dfw.md) was held almost three years after their first one, on Saturday, June 9th, 2018. The venue and occasion was once more a community festival in {{ map_pin(v="Krzyżówki") }}Krzyżówki, where the previous [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md) took place.
 
 Only two matches were held, with the main event seeing Norris defend his championship against former tag team partner Rob Scaffold. It's also the only match that has been released online. Some members of the roster were present at ringside.
 
