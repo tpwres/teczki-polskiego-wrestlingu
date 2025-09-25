@@ -18,4 +18,9 @@ The team's name refers to [Carpathian highwaymen][wiki-zbojnicy], robber bands w
  {{ music(yt='a1vi2GmjJYo')}}
  {{ music(spot='4zkrJbrKwlFJxRxm9FPd5i')}}
 
+## Championships and accomplishments:
+
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; inaugural)
+
 [wiki-zbojnicy]: https://pl.wikipedia.org/wiki/Zb%C3%B3jnicy
