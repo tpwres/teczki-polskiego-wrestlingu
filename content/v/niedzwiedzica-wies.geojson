@@ -7,7 +7,7 @@
     "properties": {
         "type": "historical-venue",
         "name": "Niedźwiedzica",
-        "description": "A village where [MZW](@/o/mzw.md) held [Pokaz Adeptow](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) and [Wrestlefans party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md). Featured in [Amerykański Sen](@/a/amerykanski-sen.md).",
+        "description": "A village where [MZW](@/o/mzw.md) held [Pokaz Adeptow](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) and [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md). Featured in [Amerykański Sen](@/a/amerykanski-sen.md).",
         "orgs": ["mzw"]
     }
 }

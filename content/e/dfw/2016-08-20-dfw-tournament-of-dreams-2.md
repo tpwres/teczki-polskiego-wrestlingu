@@ -15,7 +15,7 @@ source = "Facebook @DreamFactoryWrestling"
 
 The Tournament of Dreams was a two-part event to crown the first ever [DFW](@/o/dfw.md) champion. The first round of matches was held in [June](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md), and the finals (this event) on Saturday August 20, 2016.
 
-For this event, the venue was a sports hall belonging to local Nicolaus Copernicus University in Toruń, located on the university campus in the western part of the city.
+For this event, the venue was a sports hall belonging to local {{ map_pin(v="Copernicus University sports hall") }}Nicolaus Copernicus University in Toruń, located on the university campus in the western part of the city.
 
 This event saw the DFW debuts of [Rob Scaffold](@/w/rob-scaffold.md) and [Direk](@/w/direk.md). More importantly, the [DFW Championship](@/c/dfw-championship.md) belt was introduced and awarded. The first two matches were semi-finals, and the main event a finals match for the championship.
 

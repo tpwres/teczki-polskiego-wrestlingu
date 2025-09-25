@@ -13,7 +13,7 @@ caption = "Official poster. Pictured from left to right are: Chris Steeler, [RAV
 source = "Official MCW Facebook"
 +++
 
-This was a charity event held at Primary School no. 20 in Siemianowice Śląskie, raising money for a new wheelchair for a girl named Sylwia.
+This was a charity event held at {{ map_pin(v="Szkoła Podstawowa nr 20") }}Primary School no. 20 in Siemianowice Śląskie, raising money for a new wheelchair for a girl named Sylwia.
 
 ## Card
 

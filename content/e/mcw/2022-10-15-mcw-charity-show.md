@@ -13,7 +13,7 @@ caption = "Official poster. Pictured from left to right are: Chris Steeler, [Joh
 source = "Official MCW Facebook"
 +++
 
-This was a charity event held at Primary School no. 11 in Siemianowice Śląskie, raising money for a boy named Gabryś.
+This was a charity event held at {{ map_pin(v="Szkoła Podstawowa nr 11") }}Primary School no. 11 in Siemianowice Śląskie, raising money for a boy named Gabryś.
 
 The show featured two fights. The first one was a singles match between the two debutants, Sigurd and Chris Steeler, and the main event was a no-DQ match between RAV and the MCW Champion Johny Vegas for the title belt.
 

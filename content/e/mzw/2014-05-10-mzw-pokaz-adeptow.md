@@ -12,7 +12,7 @@ toclevel = 2
 2 = { path = "host-referee-photo.jpg", caption = "Show host Filip Cieśliński and referee [Matt2Hot](@/w/matt2hot.md),", source = "Official MZW Facebook"}
 +++
 
-Pokaz Adeptów (_Rookies Showcase_) was a show by [Maniac Zone Wrestling](@/o/mzw.md).
+Pokaz Adeptów (_Rookies Showcase_) was a show by [Maniac Zone Wrestling](@/o/mzw.md) held in {{ map_pin(v="Niedźwiedzica") }}Niedźwiedzica.
 
 ## Card
 

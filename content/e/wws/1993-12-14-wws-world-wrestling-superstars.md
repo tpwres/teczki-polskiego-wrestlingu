@@ -11,7 +11,7 @@ toclevel = 2
 
 World Wrestling Superstars was a group of American wrestlers, doing a tour of Europe in 1993.
 When [Andrzej Supron](@/w/andrzej-supron.md) learned about their shows, he contacted them, which led to the group making a single appearance in Poland.
-The show was held in Torwar, a sports and music venue in Warsaw.
+The show was held in {{ map_pin(v="Torwar") }}Torwar, a sports and music venue in Warsaw.
 
 This was the only international wrestling event held in Poland before WWE arrived in the mid-2010s,
 and aside from Supron's efforts in the 90s and early 2000s, the only professionally produced wrestling
