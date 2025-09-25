@@ -63,7 +63,7 @@ On 9.09.2024 LOW held a [live Q&A][live-qa-1] on YouTube hosted by [Piotr "ShowO
 
 #### The road to the first show
 
-On 25.09.2024 Legacy [posted to Facebook][fb-1st-show-date] revealing the date and location of the fist show: 1.12.2024, in the {% map_pin(v="Klub Królestwo") %}Królestwo music club{% end %} in Katowice. In addition, a [short trailer][yt-1st-show-trailer] was posted to their YouTube channel, shot in the same location and starring the same people as the [reveal trailer][reveal-trailer].
+On 25.09.2024 Legacy [posted to Facebook][fb-1st-show-date] revealing the date and location of the fist show: 1.12.2024, in the {{ map_pin(v="Klub Królestwo") }}Królestwo music club in Katowice. In addition, a [short trailer][yt-1st-show-trailer] was posted to their YouTube channel, shot in the same location and starring the same people as the [reveal trailer][reveal-trailer].
 
 The next day there was [another live Q&A][live-qa-2], once again hosted by [ShowOff](@/w/piotr-malecki.md).
 
