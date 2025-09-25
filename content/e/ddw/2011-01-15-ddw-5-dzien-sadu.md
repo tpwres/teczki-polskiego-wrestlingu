@@ -11,15 +11,20 @@ toclevel = 2
 manifest = "@/e/ddw/2011-01-15-ddw-5-dzien-sadu-gallery.toml"
 +++
 
-Dzień Sądu (_Judgement Day_) was a show by [Do Or Die Wrestling](@/o/ddw.md).
+Dzień Sądu (_Judgement Day_) was a show by [Do Or Die Wrestling](@/o/ddw.md) held in {{ map_pin(v="Hala GOKiS") }}Kąty Wrocławskie.
 
 ## Card
 
 {% card() %}
-- ['[Rider](@/w/asmund.md)', '[Klarys](@/w/klarys.md)']
-- ['[Don Roid](@/w/don-roid.md)', Rob Cage]
-- ['[Jędruś Bułecka](@/w/jedrus-bulecka.md)', '[Kevin Williams](@/w/kevin-williams.md)', {r: DQ, s: Grudge Match}]
-- - "Chris Botherway + [Kamil Aleksander](@/w/kamil-aleksander.md)"
+- - '[Rider](@/w/asmund.md)'
+  - '[Klarys](@/w/klarys.md)'
+- - '[Don Roid](@/w/don-roid.md)'
+  - Rob Cage
+- - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
+  - '[Kevin Williams](@/w/kevin-williams.md)'
+  - r: DQ
+    s: Grudge Match
+- - 'Chris Botherway + [Kamil Aleksander](@/w/kamil-aleksander.md)'
   - Claymore
   - '[Don Roid](@/w/don-roid.md)'
   - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
@@ -28,9 +33,13 @@ Dzień Sądu (_Judgement Day_) was a show by [Do Or Die Wrestling](@/o/ddw.md).
   - '[Rider](@/w/asmund.md)'
   - Rob Cage
   - s: Nine Man Battle Royal
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Chris Botherway, {s: "DDW International
-      Championship #1 Contender Lumberjack Match"}]
-- ["[Joe Legend](@/w/joe-legend.md)(c)", Omen, {c: "DDW International Championship"}]
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - Chris Botherway
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
+    s: #1 Contender Lumberjack Match'
+- - '[Joe Legend](@/w/joe-legend.md)(c)'
+  - Omen
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
 {% end %}
 
 Attendance: about 300
