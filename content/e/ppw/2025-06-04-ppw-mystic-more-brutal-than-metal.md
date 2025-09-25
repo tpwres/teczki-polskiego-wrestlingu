@@ -13,7 +13,7 @@ toclevel = 2
 manifest = "@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.toml"
 +++
 
-More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][mystic] in Gdańsk that took place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's Chill Out Zone. This is PpW's second appearance in Gdańsk, following [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) in May.
+More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][mystic] in Gdańsk that took place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's {{ map_pin(v="Mystic Festival's Chill Out Zone") }}Chill Out Zone. This is PpW's second appearance in Gdańsk, following [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) in May.
 
 ## Card
 

@@ -12,7 +12,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a local US Army military base in front of an audience of American soldiers from Task Force Talon. As a result, the show was entirely in English.
+On 13.09.2025 KPW held an event in the village of [Trzebień][trzebien], in a local {{ map_pin(v="Baza wojskowa w Trzebieniu") }}US Army military base in front of an audience of American soldiers from Task Force Talon. As a result, the show was entirely in English.
 
 The event was not promoted on KPW's usual social media channels.
 

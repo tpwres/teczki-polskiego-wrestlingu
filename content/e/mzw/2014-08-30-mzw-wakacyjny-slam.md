@@ -12,7 +12,7 @@ toclevel = 2
 2 = { path = "rookies-battle-royale.jpg", caption = "Rookies Battle Royale, with [Szymon Siwiec](@/w/szymon-siwiec.md) in the center.", source = "Facebook @ManiacZoneWrestling"}
 +++
 
-Wakacyjny Slam (_Holiday Slam_) was a show by [Maniac Zone Wrestling](@/o/mzw.md).
+Wakacyjny Slam (_Holiday Slam_) was a show by [Maniac Zone Wrestling](@/o/mzw.md) held in {{ map_pin(v="Opawa") }}Opawa.
 
 ## Card
 

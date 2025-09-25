@@ -24,7 +24,7 @@ The group attracted more media attention than other backyards: newspaper publica
 The group folded at some point in 2014, and later deleted all their videos uploaded to YouTube.
 
 In March 2017 WKSW announced a comeback, which included a crowdfunding campaign aiming to purchase a professional wrestling ring and stage equipment, and to fund professional wrestling gear for their talent.
-Somewhat confusingly, the campaign description has a photo of Supron's ring in their regular venue, a sports hall located at Panieńska street in Wołów, and mentions that the media visited them both "before and after the ring".
+Somewhat confusingly, the campaign description has a photo of Supron's ring in their regular venue, a sports hall located at {{ map_pin(v="Ośrodek Sportu i Rekreacji w Wołowie") }}Panieńska street in Wołów, and mentions that the media visited them both "before and after the ring".
 The campaign offered rewards like a one-time GM position, wrestling merch, advertising opportunities.
 It was unsuccessful, not even raising 1% of the stated goal of 30,000&nbsp;PLN.
 

@@ -94,3 +94,31 @@ Here's a GeoJSON document which collects all the mentioned features, and replica
     }
 }
 ```
+
+## Linking to maps
+
+Venue files that include `[extra.geo]` in the front matter will display a pin icon to the right of the page title. Clicking it opens Carto in a new page/tab, centered on the relevant pin and with its popup opened.
+
+Text in all documents can also link to map locations. To do so, use the `map_pin` shortcode, which can be used in two ways - icon-only, and with text (recommended).
+
+### Icon-only
+
+```
+{{ map_pin(v="Bartoszyce") }}
+```
+
+This places a standalone icon, sized to match normal paragraph text (but not headings).
+
+### With text or Markdown
+
+```
+{% map_pin(v="Bartoszyce") %}Bartoszyce, my wiemy gdzie to jest {% end %}
+```
+
+In this form, the text passed will follow the icon. It is also sized to match normal paragraph text.
+
+Both forms can be used inline with other text. Styling is added so that the browser will avoid breaking lines in the middle of the link, including between the icon and text start.
+
+The text may be plaintext or Markdown, including links. However, reference style links where targets are defined in the footer, will not work correctly here. Any links must specify their target directly inline, e.g. `[Title](http://example.com)`.
+
+Both the icon and any text given will become a link. However, note that when the Markdown contains a link, the user experience is not ideal: the icon leads to one location, and the link text to another. It is best to avoid this situation, and only use plaintext.

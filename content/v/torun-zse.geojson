@@ -7,7 +7,7 @@
     "properties": {
         "type": "historical-venue",
         "name": "ZSE Toruń",
-        "description": "Economic Schools Complex in Toruń, where [DFW Last Dance](@/e/dfw/2016-11-10-dfw-last-chance.md) was held.",
+        "description": "Economic Schools Complex in Toruń, where [DFW Last Chance](@/e/dfw/2016-11-10-dfw-last-chance.md) was held.",
         "orgs": ["dfw"]
     }
 }

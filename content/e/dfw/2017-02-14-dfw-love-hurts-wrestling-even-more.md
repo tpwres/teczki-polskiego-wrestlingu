@@ -12,7 +12,7 @@ caption = "Official poster featuring [Chris Hunter](@/w/chris-hunter.md), [PJ Bl
 source = "Facebook @DreamFactoryWrestling"
 +++
 
-This was the DFW Valentine's day event of 2017. Held once again in ZSGH which previously saw wrestling during its [Open Days](@/e/dfw/2016-04-22-dfw-zsgh-open-days.md), this event is notable for being the debut of [DFW's](@/o/dfw.md) first and only female wrestler Hekate.
+This was the DFW Valentine's day event of 2017. Held once again in {{ map_pin(v="ZSGH Toruń") }}ZSGH which previously saw wrestling during its [Open Days](@/e/dfw/2016-04-22-dfw-zsgh-open-days.md), this event is notable for being the debut of [DFW's](@/o/dfw.md) first and only female wrestler Hekate.
 Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) Steven Strong. In the main event, #1 contender Charlie faced Chris Hunter for the DFW Championship.
 
 ## Card

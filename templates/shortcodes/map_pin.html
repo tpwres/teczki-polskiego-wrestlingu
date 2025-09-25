@@ -1,0 +1,13 @@
+{# Params:
+  v="Some text" must name a map object. Same as page title for venue pages with map pins, otherwise must be same as geojson name.
+  Optional body: markdown to place next to the pin
+#}
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
+{% set fmt = config.extra.carto_link_format %}
+{% set title = v %}{# From params #}
+{%- if fmt -%}
+  {%- set link_icon = '<svg class="feather feather-nav" viewBox="0 0 24 24"><use href="' ~ sprite ~ '#map-pin"/></svg>' -%}
+  {%- set target = fmt | replace(from="%s", to=title) -%}
+  <a href="{{ target }}" target="_blank"
+     style="white-space: nowrap" title="Open map with {{ title }}">{{ link_icon | safe }}{{ body|default(value='')|markdown(inline=true)|safe }}</a>
+{%- endif -%}

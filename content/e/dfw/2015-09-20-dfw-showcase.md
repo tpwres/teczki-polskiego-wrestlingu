@@ -10,7 +10,7 @@ toclevel = 2
 1 = { path = "plakat-dfw-kaszczorek.jpg", caption = "Community festival poster, including a wrestling show by DFW", source = "Facebook @DreamFactoryWrestling", skip_art = true}
 +++
 
-This event was the second ever [DFW](@/o/dfw.md) showcase before a live audience, held on Sunday, September 20, 2015. The ring was set outdoors, at the riding grounds of Toruński Klub Jazdy Konnej (_Toruń Equestrian Club_) in Kaszczorek, which is a south-eastern district of Toruń. Wrestiling was one of the attractions of a community festival, which also featured a vocal talent show, live music and bouncy castles for kids.
+This event was the second ever [DFW](@/o/dfw.md) showcase before a live audience, held on Sunday, September 20, 2015. The ring was set outdoors, at the riding grounds of {{ map_pin(v="Toruński Klub Jazdy Konnej") }}Toruński Klub Jazdy Konnej (_Toruń Equestrian Club_) in Kaszczorek, which is a south-eastern district of Toruń. Wrestiling was one of the attractions of a community festival, which also featured a vocal talent show, live music and bouncy castles for kids.
 
 In the main event, Revage faced Chris Hunter in a rematch from the [previous show](@/e/dfw/2015-06-20-dfw-showcase.md).
 

@@ -13,7 +13,7 @@ toclevel = 2
 2 = { path = "notice.jpg", caption = "_Attention! Do not touch the toy devices until the protective elements are removed (Sunday, 12.05 of current year). Usage of newly installed toys poses a danger._ ", source = "Official PpW YouTube" }
 +++
 
-Dark Show was PpW's penultimate backyard event and the last one to be held in the open air. It took place late in the afternoon, shortly before and after sunset, hence the name. It was held in the same small forest clearing as [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).
+Dark Show was PpW's penultimate backyard event and the last one to be held in the open air. It took place late in the afternoon, shortly before and after sunset, hence the name. It was held in the same {{ map_pin(v="Ognicho") }}small forest clearing as [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).
 
 ## Card
 

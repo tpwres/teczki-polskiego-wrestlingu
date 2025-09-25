@@ -13,7 +13,7 @@ hide_results = true
 manifest = "@/e/bwd/2003-02-01-bwd-dzien-tortur-gallery.toml"
 +++
 
-Dzień Tortur (_Torture Day_) was the first show by [Backyard Wrestling Division](@/o/bwd.md), then known as Hardcore Wrestling Division. The event took place on 1.02.2003, around a month before the group was officially created. It was held in the gym hall of high school no. 2 in Chrzanów.
+Dzień Tortur (_Torture Day_) was the first show by [Backyard Wrestling Division](@/o/bwd.md), then known as Hardcore Wrestling Division. The event took place on 1.02.2003, around a month before the group was officially created. It was held in the gym hall of {{ map_pin(v="II Liceum Ogólnokształcące im. K.K. Baczyńskiego") }}high school no. 2 in Chrzanów.
 
 ## Card
 

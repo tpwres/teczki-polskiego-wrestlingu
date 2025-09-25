@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), and the promotion's first tour show (not counting previous events attached to various festivals). It is set to take place in Zaklęte Rewiry culture and entertainment centre in Wrocław.
+Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), and the promotion's first tour show (not counting previous events attached to various festivals). It is set to take place in {{ map_pin(v="Zaklęte Rewiry") }}Zaklęte Rewiry culture and entertainment centre in Wrocław.
 
 ## Build-up
 

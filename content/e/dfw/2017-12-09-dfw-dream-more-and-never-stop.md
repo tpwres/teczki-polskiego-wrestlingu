@@ -9,7 +9,7 @@ city = "Toruń"
 toclevel = 2
 +++
 
-Dream More And Never Stop was [DFW's](@/o/dfw.md) last big event. Taking place on Tuesday, December 9th 2017, it was held in Stowarzyszenie Wędka, a nonprofit organization located in Toruń's historical old town. The venue is quite unusual, a large hall below the ground level, with windows high up on the wall but barely higher than the pavement when viewed from outside. The hall also contains an indoor climbing wall.
+Dream More And Never Stop was [DFW's](@/o/dfw.md) last big event. Taking place on Tuesday, December 9th 2017, it was held in {{ map_pin(v="Stowarzyszenie Dzieciom i Młodzieży WĘDKA im. każdego Człowieka") }}Stowarzyszenie Wędka, a nonprofit organization located in Toruń's historical old town. The venue is quite unusual, a large hall below the ground level, with windows high up on the wall but barely higher than the pavement when viewed from outside. The hall also contains an indoor climbing wall.
 
 The nonprofit focuses on helping parents and schools fill children's time with engaging activities, and the audience was, appriopriately, mostly children.
 

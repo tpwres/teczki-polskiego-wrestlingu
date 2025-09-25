@@ -17,7 +17,7 @@ caption = "Social media graphic announcing the event"
 source = "Facebook @DreamFactoryWrestling"
 +++
 
-[DFW's](@/o/dfw.md) Recent Dreams was held on Sunday, April 23 2017, once again in the sports hall of Toruń's university campus. The previous event to be held there was the second half of [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).
+[DFW's](@/o/dfw.md) Recent Dreams was held on Sunday, April 23 2017, once again in the sports hall of Toruń's {{ map_pin(v="Copernicus University sports hall") }}university campus. The previous event to be held there was the second half of [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).
 
 With five matches on the card, this was a big event by DFW's standards. In the main event Revage, who won the gauntlet match at the [previous show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md), challenged Hunter for the DFW championship.
 

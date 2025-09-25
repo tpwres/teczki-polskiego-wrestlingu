@@ -12,6 +12,8 @@ toclevel = 2
 2 = { path = "shadow-vs-patriota-2.jpg", caption = "[Shadow](@/w/shadow.md) vs [Patriota](@/w/jedrus-bulecka.md).", source = "Jędruś Bułecka @ Facebook" }
 +++
 
+Wrestlefans Party was a show by [Maniac Zone Wrestling](@/o/mzw.md) held in {{ map_pin(v="Niedźwiedzica") }}Niedźwiedzica for the users of [Wrestlefans Forum][wf].
+
 ## Card
 
 {% card() %}
@@ -30,3 +32,5 @@ toclevel = 2
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322458)
 * [Full show on Youtube](https://www.youtube.com/watch?v=kvemG5gWOUo)
+
+[wf]: https://wrestlefans.pl/forum/index.php
