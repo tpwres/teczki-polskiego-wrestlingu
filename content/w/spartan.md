@@ -36,11 +36,11 @@ Spartan returned over a year later during [Gold Rush](@/e/ptw/2024-02-03-ptw-5-g
 
 #### Alliance against Pawłowski
 
-Pawłowski's heel turn caused Spartan to step into a war path with villainous General Manager. He alligned himself with second PTW owner - [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) to fend off both Arkadiusz, and members of his new stable called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_) which consisted of Pawłowski, Puncher and [Royal Rebels](@/tt/royal-rebels.md) - the team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
+Pawłowski's heel turn caused Spartan to step into a war path with the villainous General Manager. He alligned himself with the second PTW co-owner, [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md), to fend off both Arkadiusz, and the members of his new stable, [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of Pawłowski, Puncher and [Royal Rebels](@/tt/royal-rebels.md) - a team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 
 ## International wrestling appearances
 
-Besides his appearances in Polish wrestling, Spartan also made a few appearances on the Hungarian wrestling scene, most notably in HCW. He also worked a few shows in Austria and Italy, for PTW-affiliated Wrestling World Austria and BestYa Wrestling.
+In addition to his work in Poland, Spartan also made a few appearances on the Hungarian wrestling scene, most notably in HCW. He also worked a few shows in Austria and Italy, for PTW-affiliated Wrestling World Austria and BestYa Wrestling.
 
 ## In wrestling
 

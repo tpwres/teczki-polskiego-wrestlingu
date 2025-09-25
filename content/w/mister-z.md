@@ -71,7 +71,7 @@ At the next show - [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) - 
 
 Over the first half of 2025 Mister Z revisited his feud with Blade and Biesiad, this time involving mercenaries from PpW's sponsor - PM Shooter. Details can be seen in a [separate article](@/a/pm-shooter-saga.md).
 
-At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), Mister Z competed in 20 Typa 20 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) title shot, to no success.
+At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Mister Z competed in 20 Typa 20 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) title shot, to no success.
 
 After the events of [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), he was set to face Biesiad at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) in a Cieśla Match. Despite a handicap caused by Biesiad's proficiency in Tables Matches, Mister Z emerged victorious from their rivalry, seemingly ending their feud.
 

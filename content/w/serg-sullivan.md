@@ -27,7 +27,7 @@ Serg Sullivan joined [Prime Time Wrestling](@/o/ptw.md), working as a villainous
 #### Feud with Miyagi Shida
 
 At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Serg lost in a Triple Threat Match, won by [Miyagi Shida](@/w/miyagi-shida.md). This led to their Singles Match at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md), which resulted in Serge's disqualification, for attacking Shida with a solid steel briefcase.
-This heated up their rivalry, leading to a huge brawl after Shida's match at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), which lasted throughout the whole show. The heated rivalry lasted up until [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) where Serg was finally defeated by Shida in a Casket Match.
+This heated up their rivalry, leading to a huge brawl after Shida's match at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md), which lasted throughout the whole show. This rivalry lasted until [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), where Serg was finally defeated by Shida in a Casket Match.
 
 ## In wrestling
 
