@@ -36,7 +36,7 @@ Dzień Sądu (_Judgement Day_) was a show by [Do Or Die Wrestling](@/o/ddw.md) h
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - Chris Botherway
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
-    s: #1 Contender Lumberjack Match'
+    s: '#1 Contender Lumberjack Match'
 - - '[Joe Legend](@/w/joe-legend.md)(c)'
   - Omen
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
