@@ -16,7 +16,7 @@ caption = "[Revage](@/w/rafael-kid.md) and [Patriota](@/w/jedrus-bulecka.md) bac
 source = "Facebook profiles of Revage/Rafał and Jędruś"
 +++
 
-This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which was a cultural and entertainment festival showcasing Mexican culture: mariachi music, fencing, painting, Mexican cuisine, and of course masked Lucha Libre-style wrestling. It was held at {% map_pin(v="Park Solankowy") %}text{% end %} in Inowrocław.
+This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which was a cultural and entertainment festival showcasing Mexican culture: mariachi music, fencing, painting, Mexican cuisine, and of course masked Lucha Libre-style wrestling. It was held at {% map_pin(v="Park Solankowy") %}Park Solankowy{% end %} in Inowrocław.
 
 ## Card
 
