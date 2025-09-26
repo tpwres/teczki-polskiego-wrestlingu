@@ -44,7 +44,7 @@ At [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) [Gustav Gryf
 
 {% free_card() %}
 - - '[Mister Z](@/w/mister-z.md)(c)'
-  - 'Sakal'
+  - 'Šakal'
   - s: Singles match
     en: '[PpW Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md)'
     ed: 2020-02-15
@@ -230,7 +230,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     s: Three Stages of Hell Match
 {% end %}
 
-**TOTAL: 366 days**
+**TOTAL: 364 days**
 
 ### Champion #8: Goblin
 {% free_card() %}
