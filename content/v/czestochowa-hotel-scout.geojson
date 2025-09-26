@@ -8,6 +8,6 @@
         "type": "historical-venue",
         "name": "Hotel Scout",
         "description": "Hotel in Częstochowa, where [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) was held.",
-        "orgs": ["bwd"]
+        "orgs": ["ptw"]
     }
 }
