@@ -12,7 +12,7 @@ country = ["PL"]
 3 = { path = "shadow-piekny-i-mlody.webp", caption = "Terry Shadow after his fight at [PXW Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md).", source = "AttitudePL @ YouTube" }
 +++
 
-Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) where he is also a owner and head booker. Besides that, he ocassionaly works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). He also worked for [Polish Xtreme Wrestling](@/o/pxw.md), [PpW Ewenement Wrestling](@/o/ppw.md) and [Do Or Die Wrestling](@/o/ddw.md) beforehand.
+Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he ocassionaly works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 * Years active: 2011-present
@@ -33,7 +33,7 @@ Shadow started out as a backyard wrestler for [Polish Xtreme Wrestling](@/o/pxw.
 ### Do Or Die Wrestling (2013)
 
 2013 was the year when Terry Shadow left PXW to start professional training with [Do or Die Wrestling](@/o/ddw.md) in Rzeszów, joining their roster as Straceniec (_The Condemned_). However, he only had two fights: at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) and [DDW #9](@/e/ddw/2013-10-25-ddw-9.md).
-Dissatisfied with [Don Roid](@/w/don-roid.md)'s way of running the promotion, Shadow left along with [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md) and [Rider](@/w/asmund.md) in order to start a new federation on his own terms.
+Dissatisfied with [Don Roid's](@/w/don-roid.md) way of running the promotion, Shadow left along with [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md) and [Rider](@/w/asmund.md) in order to start a new federation on his own terms.
 
 ### Maniac Zone Wrestling (2013-present)
 
@@ -67,7 +67,7 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
 
 ## International wrestling appearances
 
-In addition to performing in Poland, Shadow has also wrestled for several international promotions, particularly for Germany-based Eastside Revolution Wrestling, Next Step Wrestling and few others, including Czech promotion VcV and Hungarian Pro Wrestling Magyarorszag.
+In addition to performing in Poland, Shadow has also wrestled for several international promotions - particularly for Germany-based Eastside Revolution Wrestling, Next Step Wrestling and a few others, including Czech promotion VcV and Hungarian Pro Wrestling Magyarország.
 
 ## In wrestling
 
