@@ -4,5 +4,4 @@
 4 = { path = "tjw-04.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
 5 = { path = "tjw-05.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
 6 = { path = "tjw-06.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-7 = { path = "tjw-07.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-8 = { path = "tjw-99-lesak.webp", caption = "Lesak's signature, before being crossed out.", source = "M3n747", skip_art = true }
+9 = { path = "tjw-99-lesak.webp", caption = "Lesak's signature, before being crossed out.", source = "M3n747", skip_art = true }
