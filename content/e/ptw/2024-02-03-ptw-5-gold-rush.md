@@ -13,7 +13,7 @@ toclevel = 2
 2 = { path = "gold-rush-pre-show.jpg", caption = "Before the start of the show.", source = "Ville Paananen" }
 +++
 
-Gold Rush was an event by [PTW](@/o/ptw.md). It was announced as a "Season Finale", which suggested it's going to close some kind of chapter in PTW's history.
+Gold Rush was an event by [PTW](@/o/ptw.md) held in {{ map_pin(v="Hotel Scout") }}Hotel Scout in Częstochowa, about 50&nbsp;km north of Chorzów. It was announced as a "Season Finale", which suggested it's going to close some kind of chapter in PTW's history.
 The event featured PTW's cast alongside foreign wrestlers from UK, USA, Germany and Italy, including former WWE performers Justin Gabriel (now as PJ Black), Evan Bourne (Matt Sydal, later canceled) and NXT UK's Nina Samuels. Heavily promoted was also the involvement of the former Maximum Male Models tag team, consisting of Mason Madden and Mansoor, who as of 2024 were touring the independent wrestling scene. Another name advertised was James Storm, known for his long tenure in TNA/Impact.
 
 Polish celebrity and former boxer Marcin Najman was also expected to appear in some capacity, as the event was held in his hometown.
