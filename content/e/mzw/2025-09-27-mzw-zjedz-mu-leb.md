@@ -26,8 +26,8 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
 ## Card
 
 {% card() %}
-- - '[Tony Sheen](@/w/riverman.md)'
-  - 'Schweizer'
+- - "[Tony Sheen 'The Riverman'](@/w/riverman.md)"
+  - 'Felix Schweizer'
   - s: Open Challenge
 - - '[Shadow](@/w/shadow.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
