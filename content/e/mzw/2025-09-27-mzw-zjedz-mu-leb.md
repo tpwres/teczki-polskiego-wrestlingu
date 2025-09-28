@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), to be held in [Bakara Community Centre](@/v/bakara.md). The name of the show is a reference to a [popular chant](@/a/polish-wrestling-chants.md#calls-to-action).
+MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw.md), held in [Bakara Community Centre](@/v/bakara.md). The name of the show is a reference to a [popular chant](@/a/polish-wrestling-chants.md#calls-to-action).
 
 ## Build-up
 
@@ -23,31 +23,29 @@ MZW Zjedz Mu Łeb (_Eat His Head_) is an upcoming show by [Maniac Zone Wrestling
 * On 17.09.2025 MZW released a [video][promo-matt] in which [Matt Buckna](@/w/matt-buckna.md) called [Mister Z](@/w/mister-z.md) a nobody for winning the Ladder Match at the [last show](@/e/mzw/2025-06-28-mzw-green-madness.md) by playing dirty. He then addressed [Syriusz Dziedzic](@/w/dziedzic.md), whom he applauded for his perseverance and self-improvement, and in his appreciation of these traits he offered Dziedzic a match for his [MZW Championship](@/c/mzw-championship.md). The match was officially confirmed two days later.
 * On 24.09.2025 MZW published a [video][riverman-challenge] by [Tony Sheen](@/w/riverman.md), in which he issued an open challenge. The next day it was officially confirmed.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - nc: upcoming
-- - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Shadow](@/w/shadow.md)'
-  - nc: upcoming
-- - '[Marcelito](@/w/marcelito.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - nc: upcoming
-- - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
+{% card() %}
+- - '[Tony Sheen](@/w/riverman.md)'
+  - 'Schweizer'
+  - s: Open Challenge
+- - '[Shadow](@/w/shadow.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
+ - - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - s: Triple Threat Match
-    nc: upcoming
-- - '[Tony Sheen](@/w/riverman.md)'
-  - '???'
-  - s: Open Challenge
-    nc: upcoming
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - s: No-DQ Match
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Marcelito](@/w/marcelito.md)'
 - - '[Matt Buckna](@/w/matt-buckna.md)(c)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
-    nc: upcoming
+- credits:
+    Referee: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Michał'
+    Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
 ### Recap
