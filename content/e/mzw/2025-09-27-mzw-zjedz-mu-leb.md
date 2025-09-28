@@ -31,7 +31,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
   - s: Open Challenge
 - - '[Shadow](@/w/shadow.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
- - - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
+- - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - s: Triple Threat Match
