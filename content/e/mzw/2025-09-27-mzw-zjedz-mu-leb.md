@@ -30,7 +30,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
   - 'Felix Schweizer'
   - s: Open Challenge
 - - '[Shadow](@/w/shadow.md)'
-  - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md) w/ [Olgierd](@/w/olgierd.md)'
 - - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Max Speed](@/w/max-speed.md)'
@@ -38,7 +38,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: No-DQ Match
-- - '[Olgierd](@/w/olgierd.md)'
+- - '[Olgierd](@/w/olgierd.md) w/ [Marco Hammers](@/w/marco-hammers.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Matt Buckna](@/w/matt-buckna.md)(c)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
@@ -48,9 +48,17 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
     Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+* [Tony Sheen](@/w/riverman.md) came out and cut a promo, repeating his challenge. [Matt Buckna](@/w/matt-buckna.md) then came out and Riverman challenged him to a fight for Matt's [MZW Championship](@/c/mzw-championship.md). The Champion denied, saying that Sheen would face a newcomer to the Polish scene, Felix Schweizer, instead.
+* [Olgierd](@/w/olgierd.md) had a large dressing on the back of his head, where he was injured in a table spot at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) a week prior.
+* A fan in the audience had [Ricardo Diesel's](@/w/ricardo-diesel.md) scarf saying [Bóg jest łysy](@/a/polish-wrestling-chants.md#Wrestler-specific).
+* [Oskar Alexander](@/w/oskar-alexander.md) cut a promo, saying he's used to [PpW](@/o/ppw.md) fights always being no-DQ matches and that having to fight in regular stipulations feels off to him. [Disco Pablo](@/w/disco-pablo.md) replied that a good wrestler can do well regardless of stipulation, but he agreed to a no-DQ fight.
+* As Oskar grabbed a kendo stick from under the ring, Pablo looked for a weapon himself and found a short metal rod, which he then pointed at Alexander like a wand, Harry Potter-style. Although he failed to hex his opponent, he did succeed in entertaining the audience.
+* Later in the match Pablo took a plastic bucket and put on over Oskar's head, drumming on it with his hands to confuse the younger contender. 
+* Pablo found a garbage bag full of squashed beer cans, which he spilled over the ring and threw Oskar onto, winning the match.
+* 
+* 
 
 ## References
 
