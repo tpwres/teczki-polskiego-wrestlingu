@@ -3,7 +3,7 @@ title = "Mińska 65"
 template = "venue_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
-same-venue = ["hala-labo"]
+same-venue = ["hala-labo", "nowa-minska"]
 [extra.venue_names]
 hala-labo = "Hala Labo"
 nowa-minska = "Nowa Hala"

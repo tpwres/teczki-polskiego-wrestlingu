@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Surowy Klimat (roughly _Rough Place_ or _Rough Aura_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). It is set to take place in a new, smaller hall of [Mińska 65](@/v/minska-65.md).
+Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). It is set to take place in a new, smaller hall of [Mińska 65](@/v/minska-65.md).
 
 ## Build-up
 
@@ -19,7 +19,7 @@ Surowy Klimat (roughly _Rough Place_ or _Rough Aura_) is an upcoming show by [Pp
 
 ## Predicted card
 
-`{{ skip_card() }}`
+{{ skip_card() }}
 
 ### Recap
 
