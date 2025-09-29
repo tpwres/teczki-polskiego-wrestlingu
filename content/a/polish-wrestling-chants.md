@@ -86,7 +86,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 * _Kim ty jesteś?_ - "Who are you?": the crowd is unfamiliar with the character (or pretends not to be). \
   {% ipa(tts="Kim ty jesteś?") %}kˈim tˈɨ jˈɛstɛɕ?{% end %}
-* _Mało!_ - "Not enough!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One fall!" after the announcer. \
+* _Mało!_ - "Not much!": a response to the ring announcer calling a wrestler's weight. Somewhat equivalent to repeating "One fall!" after the announcer. \
   Popularized by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) in KPW and later PTW, the typical dialogue is: \
   &ndash; Announcer: _Pochodzący z [miasta], ważący [ilość] kilogramów_ ("Hailing from [city], weighing in at [amount] kilograms.") \
   &ndash; Crowd: _Mało!_ \
