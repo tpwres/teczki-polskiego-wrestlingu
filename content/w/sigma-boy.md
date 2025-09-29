@@ -35,7 +35,7 @@ At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Boy scored hi
 
 #### Meeting the father
 
-During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) Pawłowski addressed the audience with another devastating announcement: Arkadiusz revealed that Sigma Boy xD is in fact the bastard son of [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md). This caused Sigma Boy xD's meltdown, and seemingly him joining Pawłowski, who comforted him after this revalation. Łukasz later admitted in Instagram promos that he is in fact the father of Sigma Boy xD and tried to mend fences with him, but he was pushed away by his son.
+During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) Pawłowski addressed the audience with another devastating announcement: Arkadiusz revealed that Sigma Boy xD is in fact the bastard son of [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md). This caused Sigma Boy xD's meltdown, and seemingly him joining Pawłowski, who comforted him after this revelation. Łukasz later admitted in Instagram promos that he is in fact the father of Sigma Boy xD and tried to mend fences with him, but he was pushed away by his son.
 
 ## International wrestling appearances
 

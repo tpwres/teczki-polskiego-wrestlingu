@@ -12,7 +12,7 @@ country = ["PL"]
 3 = { path = "shadow-piekny-i-mlody.webp", caption = "Terry Shadow after his fight at [PXW Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md).", source = "AttitudePL @ YouTube" }
 +++
 
-Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he ocassionaly works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
+Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he occasionally works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 * Years active: 2011-present

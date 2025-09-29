@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "winner-lenghty-person.webp", caption = "Longman [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
-Wiktor Longman is a retired Polish wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md), and later also [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md) as an announcer and in an on-screen role.
+Wiktor Longman is a retired Polish wrestler best known for his tenure in [Prime Time Wrestling](@/o/ptw.md), later also briefly in [PpW Ewenement](@/o/ppw.md), and [Legacy of Wrestling](@/o/low.md) as an announcer and in an on-screen role.
 
 ## Basic info
 

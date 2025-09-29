@@ -36,7 +36,7 @@ Spartan returned over a year later during [Gold Rush](@/e/ptw/2024-02-03-ptw-5-g
 
 #### Alliance against Pawłowski
 
-Pawłowski's heel turn caused Spartan to step into a war path with the villainous General Manager. He alligned himself with the second PTW co-owner, [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md), to fend off both Arkadiusz, and the members of his new stable, [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of Pawłowski, Puncher and [Royal Rebels](@/tt/royal-rebels.md) - a team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
+Pawłowski's heel turn caused Spartan to step onto a war path with the villainous General Manager. He allied himself with PTW's co-owner, [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md), to fend off both Arkadiusz, and the members of his new stable, [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of Pawłowski, Puncher and [Royal Rebels](@/tt/royal-rebels.md) - a team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 
 ## International wrestling appearances
 
