@@ -33,7 +33,7 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 {% card() %}
 - - '[Spartan](@/w/spartan.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-- - '"The Voice" [Daniel Razor](@/w/daniel-razor.md)(c)'
+- - '["The Voice" Daniel Razor](@/w/daniel-razor.md)(c)'
   - 'Davide Adami'
   - s: 'Open Challenge'
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
