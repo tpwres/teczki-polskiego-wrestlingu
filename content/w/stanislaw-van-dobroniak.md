@@ -45,20 +45,20 @@ Besides his championship defenses in Poland, Dobroniak also had a few PpW EU UV 
 
 After losing the championship, Stanisław had been inactive in PpW up until December 2024, when he was announced for [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in January 2025. He immediately aimed for the now-reigning Ultraviolent Champion [Isnorr](@/w/isnorr.md), but was defeated by him. Dobroniak also took part in the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).
 
-#### Saving zombie Johnny
+#### Saving Zombie Johnny
 
-Before [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Dobroniak posted his promo on social media, where he assumed the persona of Professor Dobroniak. His scientific research was focused on getting rid of Zombie Johnny, preferably without killing him. The most humane way he was able to determine was to submerge the zombie in non-alcoholic beer, which, the Professor was certain, would restore Johnny to his normal state.
+Before [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Dobroniak posted his promo on social media, where he assumed the persona of Professor Dobroniak. His scientific research was focused on getting rid of [Zombie Johnny](@/w/johnny-blade.md), preferably without killing him. The most humane way he was able to determine was to submerge the zombie in non-alcoholic beer, which the Professor was certain would restore Johnny to his normal state.
 
 In their match at the show, Zombie Johnny was different from his regular persona, mostly shambling slowly towards Dobroniak, trying to eat his brain, and no-selling many of his attacks. Eventually, Dobroniak was able to tie Johnny down with a length of barbed wire and dunk him in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
 
 ## Other media
 
-Stockholm Life, a Swedish YouTube channel, produced a short documentary about Dobroniak, titled "[The Polish Adonis](https://youtu.be/ywh7FwyQCEw)". In it, Dobroniak talks (in Swedish, with English subtitles) about "combining his private and wrestling life by prioritizing wrestling in almost every aspect".
+Stockholm Life, a Swedish YouTube channel, produced a short documentary about Dobroniak, titled "[The Polish Adonis][adonis-youtube]". In it, Dobroniak talks (in Swedish, with English subtitles) about "combining his private and wrestling life by prioritizing wrestling in almost every aspect".
 
 ### Botchamania
 
 Dobroniak was featured in [Botchamania 493][bm-493]. On April 6th, 2024, he took part in a six-man match at Freedom Pro Wrestling's "Öl och Bröl" (_Beer and Roar_) event in Västerhaninge near Stockholm.
-The clip shows him trying to climb back into the ring from the outside. One of his partners (Jack the Strangler or Strangler Jr) then bounces on the ropes, which causes Dobroniak to comically fall down to the outside again.
+The clip shows him trying to climb back into the ring from the outside. One of his partners (Jack the Strangler or Strangler Jr.) then bounces on the ropes, which causes Dobroniak to comically fall down to the outside again.
 
 ## In wrestling
 
@@ -95,3 +95,4 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 
 [bm-493]: https://www.youtube.com/watch?v=2azqxchwafo
 [wiki-gorale]: https://en.wikipedia.org/wiki/Gorals
+[adonis-youtube]: https://youtu.be/ywh7FwyQCEw

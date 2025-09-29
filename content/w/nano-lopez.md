@@ -43,7 +43,7 @@ After BlackOut, Nano started a feud with one of the PTW's top villains at the ti
 
 In February 2023 at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md) Lopez was scheduled to face [Marco Hammers](@/w/marco-hammers.md), but he was attacked by the returning [Remo](@/w/remo.md) before the match started. This caused Nano to be sidelined for almost half a year until he returned to PTW at [PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) where he defeated [Olgierd](@/w/olgierd.md).
 
-In October "Starboy" appeared at [Underground 18](@/e/ptw/2023-10-01-ptw-underground-18.md) where he adressed his another arm injury, but he promised that he would return to defeat [Sinister Kingdom](@/tt/sinister-kingdom.md).
+In October "Starboy" appeared at [Underground 18](@/e/ptw/2023-10-01-ptw-underground-18.md) where he addressed another arm injury, but promised that he would return to defeat [Sinister Kingdom](@/tt/sinister-kingdom.md).
 
 #### Feud with Sinister Kingdom
 
@@ -57,7 +57,8 @@ Starboy was one of the few wrestlers who stayed loyal to Arkadiusz Pawłowski du
 
 After PTW's soft reboot Nano continued to make regular appearances in the federation, working mostly in singles matches against international wrestlers such as [Blaze](@/w/blaze.md), Jake Omen and Newt Nova. At [PTW: Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md) he failed to win the [PTW Championship](@/c/ptw-championship.md) from [Puncher](@/w/puncher.md).
 
-At [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Nano managed to emerge victorious from the Gold Rush Rumble Match, which granted him an oportunity to face the reigning champion [Max Speed](@/w/max-speed.md). This plan was however scrapped, after [Max's release from PTW][speed-zwolniony]. Nano faced the runner-up from the Gold Rush Match, [Daniel Razor](@/w/daniel-razor.md), but it was Daniel who won that fight. Lopez got one more shot at the Championship at [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) in a Triple Threat Match, but once again was unsucessful.
+At [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Nano managed to emerge victorious from the Gold Rush Rumble Match, which granted him an opportunity to face the reigning [PTW Underground champion](@/c/ptw-underground-championship.md) [Max Speed](@/w/max-speed.md).
+This plan was however scrapped, after [Max's release from PTW][speed-zwolniony]. Nano faced the runner-up from the Gold Rush Match, [Daniel Razor](@/w/daniel-razor.md), but it was Daniel who won that fight. Lopez got one more shot at the Championship at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) in a Triple Threat Match, but once again was unsuccessful.
 
 ## International wrestling appearances
 

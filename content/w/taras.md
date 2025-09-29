@@ -52,7 +52,9 @@ After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Tar
 
 Taras made his debut during [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). During a music chairs contest held by Disco Pablo, the masked Taras barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking himself he finished off Pablo with a GTS and put Piotr through a table.
 
-In his Instagram stories, Taras stated that he was supposedly abadoned by his partners almost eight months ago - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded. Taras met Pablo face-to-face at [Legacy's next show](@/e/low/2025-04-06-low-2.md) where, after a brief but heated argument followed by a brawl, they were announced to face each other at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md). Taras lost a match - which was officiated by another ex-PAKA member Boro - which seemingly led to his retirement from professional wrestling.
+In his Instagram stories, Taras stated that he'd supposedly been abandoned by his partners almost eight months prior - possibly referring to him being attacked at Underground 21 - and declaring that PAKA had been officially disbanded.
+Taras met Pablo face-to-face at [Legacy's next show](@/e/low/2025-04-06-low-2.md) where, after a brief but heated argument followed by a brawl, they were announced to face each other at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
+Taras lost the match - which was officiated by another ex-PAKA member, Boro - which seemingly led to his retirement from professional wrestling.
 
 ## International wrestling appearances 
 

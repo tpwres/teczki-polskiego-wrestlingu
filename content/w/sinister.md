@@ -54,7 +54,11 @@ Sinister made his return to wrestling at [Legacy of Wrestling's](@/o/low.md) [fi
 
 #### Feud with Dziedzic
 
-At the [next Legacy's show](@/e/low/2025-04-06-low-2.md) Dziedzic faced Sinister in a Singles Match which determined contendership for the upcoming Legacy Championship. Sinister refused to fight Dziedzic and vowed that Dziedzic would win that match no matter what. The old mentor of Syriusz tanked the whole match first by avoiding the fight, then by allowing Dziedzic to beat him without any defence, just to perform a "Judas kiss" and hit Dziedzic in the groin to cause a disqualification and allow Dziedzic to win. At the [third show](@/e/low/2025-07-11-low-3.md) he once again tried to torment Dziedzic by interfering in his Six-Man Tag Team Match and handing him a weapon, but Dziedzic declined his offer, which resulted in him being defeated by his opponents.
+At the [next Legacy show](@/e/low/2025-04-06-low-2.md) Dziedzic faced Sinister in a Singles Match, which determined the contendership for the upcoming Legacy Championship.
+Sinister refused to fight Dziedzic and vowed that Syriusz would win that match no matter what.
+The former mentor of Syriusz tanked the whole match, first by avoiding the fight, then by allowing Dziedzic to beat him without defending himself.
+Finally Sinister performed a "Judas kiss" and hit Dziedzic in the groin, thus getting himself disqualified and handing Syriusz the win.
+At the [third show](@/e/low/2025-07-11-low-3.md) Sinister once again tried to torment Dziedzic by interfering in his Six-Man Tag Team Match and handing him a weapon, but Dziedzic declined his offer, which resulted in him being defeated by his opponents.
 
 ## In wrestling
 
