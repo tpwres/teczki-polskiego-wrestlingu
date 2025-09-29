@@ -12,7 +12,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-"Ból Istnienia" (_The Pain of Existence_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) and [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md).
+"Ból Istnienia" (_The Pain of Existence_) was a show by [Prime Time Wrestling](@/o/ptw.md). The event was announced in a Facebook post alongside [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) and [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md).
 
 Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 
@@ -28,39 +28,29 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 * On 24.09.2025 PTW announced a match between [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) and [Sigma Boy xD](@/w/sigma-boy.md) & [Łukasz Okoński](@/w/lukasz-okonski.md) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). According to the [Facebook post][sigmonski], [Miyagi Shida](@/w/miyagi-shida.md) was supposed to team up with Sigma, but agreed to let Okoński take his place to allow him to mend fences with his son.
 * The next a match between [Diana Strong](@/w/diana-strong.md) and Angel Hayze for the Glam! Championship was announced.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
-  - g: 'Okoński addresses the situation with his illegitimate son.'
-    nc: upcoming
-- - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '[Damian Lambert](@/w/damien-rothschild.md)'
-  - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - '??'
-  - nc: upcoming
-- - '[El G](@/w/el-g.md)'
-  - 'CJ Klakson'
-  - nc: upcoming
+{% card() %}
 - - '[Spartan](@/w/spartan.md)'
-  - '???'
-  - nc: upcoming
-- - '[Daniel Razor](@/w/daniel-razor.md)(c)'
-  - '???'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+- - '"The Voice" [Daniel Razor](@/w/daniel-razor.md)(c)'
+  - 'Davide Adami'
   - s: 'Open Challenge'
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
+- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - g: 'Okoński addresses the situation with his illegitimate son.'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md)(c)'
   - '[Sigma Boy xD](@/w/sigma-boy.md) & [Łukasz Okoński](@/w/lukasz-okonski.md)'
   - s: Tag Team Match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
   - 'Angel Hayze'
   - c: 'Glam! Championship'
-    nc: upcoming
+- - 'CJ Klakson'
+  - '[El G](@/w/el-g.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
 {% end %}
 
 ## References

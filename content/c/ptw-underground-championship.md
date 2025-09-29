@@ -72,8 +72,8 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
   - s: 'Open Challenge'
     en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
-- - 'Daniel Razor(c)'
-  - '???'
+- - '"The Voice" Daniel Razor(c)'
+  - 'Davide Adami'
   - s: 'Open Challenge'
     en: '[PTW Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
