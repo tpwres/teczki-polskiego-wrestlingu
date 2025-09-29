@@ -127,7 +127,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️️
 * _Lis jest pod ochroną_ - "Fox is protected": when Axel Fox is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
   {% ipa(tts="Lis jest pod ochroną") %}lˈis jɛst pɔt ɔxrˈɔnɔ̃{% end %}
-* _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "retard" or "loser". \
+* _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "fucktard" or "loser". \
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
 * _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
