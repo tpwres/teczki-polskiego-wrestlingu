@@ -52,7 +52,7 @@ As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the 
 
 ## Other media
 
-In late September 2025, Bytom's official website posted a short [news piece][wrestler-from-bytom] about Daniel (in Polish), simply titled "Wrestler from Bytom".
+In late September 2025, Bytom's official city website posted a short [news piece][wrestler-from-bytom] about Daniel (in Polish), simply titled "Wrestler from Bytom".
 The article focuses on Daniel's wrestling journey, from a kid fascinated with pro wrestling and playing video games, to training with PTW and debuting on [TV](@/a/wrestling-on-tv.md). PTW was quick to share it on their social media channels.
 
 ## References
