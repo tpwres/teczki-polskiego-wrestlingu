@@ -51,7 +51,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
 ### Highlights
 
 * Present in the audience were [ShowOff](@/w/piotr-malecki.md) and [Agentka Agatka](@/w/agentka-agatka.md).
-* Whenever [Adrian Zgórski](@/w/adrian-zgorski.md) gave the wrestlers' weight while announcing them, the crowd would shout ["Mało!"](@/a/polish-wrestling-chants.md#intros). He soon started to encourage people by raising his microphone.
+* Whenever [Adrian Zgórski](@/w/adrian-zgorski.md) gave the wrestlers' weight while announcing them, the crowd would shout ["Mało!"](@/a/polish-wrestling-chants.md#intros) He soon started to encourage people by raising his microphone.
 * [Tony Sheen](@/w/riverman.md) came out and cut a promo, repeating his challenge. [Matt Buckna](@/w/matt-buckna.md) then came out and Riverman challenged him to a fight for Matt's [MZW Championship](@/c/mzw-championship.md). The Champion denied, saying that Sheen would face a newcomer to the Polish scene, Felix Schweizer, instead.
 * Felix Schweizer, unknown to the Polish audience, came out to a somewhat lukewarm reception. Over the course of the match, however, he pretty quickly gained the crowd's approval.
 * [Olgierd](@/w/olgierd.md) had a large dressing on the back of his head, where he was injured in a table spot at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) a week prior.
