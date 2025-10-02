@@ -27,7 +27,12 @@
 4006 = { path = "o-prosze-jakie-ladne.webp", caption = "A fan offers a chair to Disco Pablo.", source = "M3n747" }
 4007 = { path = "piwo-przyjacielem-pabla.webp", caption = "Empty beer cans awaiting Oskar Alexander.", source = "M3n747" }
 
+5001 = { path = "witajcie-ziemianie-przybywam-w-pokoju.webp", caption = "[Marcelito's](@/w/marcelito.md) entrance.", source = "M3n747" }
+5002 = { path = "wystrzelil-jak-z-bajkonuru.webp", caption = "Marcelito does a Suicide Dive at Marco Hammers.", source = "M3n747" }
+5003 = { path = "jezeli-chodzi-o-buty-to-tak-mowia-ludzie-z-malymi-butami.webp", caption = "[Marcelito](@/w/marcelito.md) intercepts Olgierd's Big Boot; in the ring stands [Sędzia Michał](@/w/sedzia-michal.md). Note the dressing on the back of Olgierd's head.", source = "M3n747" }
+5004 = { path = "prosze-ten-pan-tez-wygral.webp", caption = "[Olgierd](@/w/olgierd.md) wins, as indicated by [Sędzia Michał](@/w/sedzia-michal.md).", source = "M3n747" }
+5005 = { path = "drugie-wyjscie-z-cienia.webp", caption = "Marco Hammers and Olgierd attack the already defeated Marcelito. In the background, Shadow emerges from the backstage.", source = "M3n747" }
+5006 = { path = "oj-olgierdzie-bo-kijaszkiem-dostaniesz.webp", caption = "Adrian Zgórski with a kendo stick, ready to fend off the approaching Olgierd. In the foreground Marco Hammers writesh in agony after, courtesy of Shadow.", source = "M3n747" }
+5007 = { path = "zyczy-pan-skrzydelko-czy-nozke.webp", caption = "Marcelito and [Shadow](@/w/shadow.md) exchange knowing looks…", source = "M3n747" }
 
-5001 = { path = "", caption = ".", source = "M3n747" }
-
-6001 = { path = "", caption = ".", source = "M3n747" }
+6001 = { path = ".webp", caption = ".", source = "M3n747" }
