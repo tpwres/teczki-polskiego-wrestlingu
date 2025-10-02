@@ -125,6 +125,27 @@ The [third show](@/e/low/2025-07-11-low-3.md) was officially announced in the ea
 
 Legacy of Wrestling vol. 3 was a proper LOW event counting towards the promotion's timeline, unlike eg. [PpW's](@/o/ppw.md) non-canonical shows such as [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md). The show featured the continuation of the Road to the Title series of matches started at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md), and the Legacy Championship was announced to be the main prize at the fourth show.
 
+#### The fourth show and Championship title
+
+The fourth show was announced on 30.09.2025 in a [Facebook post][low-4-fb], which also revealed the name of the event - [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md).
+
+On 2.10.2025 [ShowOff](@/w/piotr-malecki.md) and [Wiktor D.](@/w/wiktor-longman.md) held a [live Q&A][live-qa-4] in which they answered some of the fan questions and gave some details of the upcoming show.
+
+* Legacy 4 will take place on Saturday, 20.12.2025, once again in the [Królestwo music club](@/v/krolestwo-katowice.md).
+* The show will take around 2.5 hours, plus a break.
+* For the time being Legacy will hold their shows in Katowice due to financial reasons (although they'd like to visit other places as well).
+* The goal for 2026 is to have four events per year.
+* Currently there are no plans for additional championship titles beyond the main one.
+* The LOW Championship could be defended in other promotions.
+* There'll be [Marco Hammers](@/w/marco-hammers.md).
+* There could be somebody who hasn't appeared at a Legacy show before.
+* There's a chance for [Boro](@/w/boro.md) to have a match.
+* The Championship fight will have all six contenders in the ring, but no stipulation was given.
+* There are chances for non-standard stipulations.
+* Special limited T-shirts with "Legacy of Wrestling √16" logo are available through the ticketing website KupBilecik.pl only.
+* They would want to return to Ryucon in 2026.
+* There'll be another live Q&A.
+
 ## References
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
@@ -132,6 +153,7 @@ Legacy of Wrestling vol. 3 was a proper LOW event counting towards the promotion
 * [Live Q&A #1][live-qa-1], hosted by ShowOff
 * [Live Q&A #2][live-qa-2], hosted by ShowOff
 * [Live Q&A #3][live-qa-3], hosted by ShowOff
+* [Live Q&A #4][live-qa-4], hosted by ShowOff and Wiktor D.
 
 [reveal-trailer]: https://www.youtube.com/watch?v=_CvfCaElDK4
 [solidarnosc]: https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)
@@ -158,3 +180,5 @@ Legacy of Wrestling vol. 3 was a proper LOW event counting towards the promotion
 [live-qa-3]:https://www.youtube.com/watch?v=4urhjLJHEtA
 [galaktyczni-2]:https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2
 [krzesla-balora]:https://www.youtube.com/watch?v=LTOFAovAKAU
+[live-qa-4]:https://www.youtube.com/watch?v=SBj0L6zR8mM
+[low-4-fb]:https://www.facebook.com/legacyofwrestlingpl/posts/122168438318468820:2024573695040934
