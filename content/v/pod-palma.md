@@ -1,6 +1,7 @@
 +++
 title = "Klub Pod Palmą"
 template = "venue_page.html"
+authors = ["M3n747"]
 [extra.geo]
 coordinates = '50.016522,22.004813'
 type = 'historical-venue'
