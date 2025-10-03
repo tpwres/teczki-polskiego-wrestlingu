@@ -17,7 +17,7 @@ path = "las_atomicas.webp"
 caption = "Screenshot of Las Atomicas' short-lived Instagram account. They were announced as a dance group to perform on the show in addition to the wrestling."
 +++
 
-Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was Dworek Pod Platanem in Kozłów, recently [refurbished](@/o/ptw.md##Post-Ryucon-New-venue-PTW-back-on-track) as a wrestling event and training facility.
+Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów, recently [refurbished](@/o/ptw.md#post-ryucon-new-venue-ptw-back-on-track) as a wrestling event and training facility.
 
 This Underground show was the first one to have an individual title, not just a number.
 It was announced during [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), when GM/owner [Pan Pawłowski](@/w/pan-pawlowski.md) announced a summer training camp to be held in August,
