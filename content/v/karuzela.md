@@ -1,6 +1,7 @@
 +++
 title = "Klub Studencki Karuzela"
 template = "venue_page.html"
+authors = ["M3n747"]
 [extra]
 year_list_start = 2009
 [extra.geo]
