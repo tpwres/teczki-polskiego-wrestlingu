@@ -36,4 +36,16 @@
 5007 = { path = "zyczy-pan-skrzydelko-czy-nozke.webp", caption = "Marcelito and [Shadow](@/w/shadow.md) exchange knowing looks…", source = "M3n747" }
 5008 = { path = "omnomnomnom.webp", caption = "…and eat Marco's head.", source = "M3n747" }
 
-6001 = { path = ".webp", caption = ".", source = "M3n747" }
+6001 = { path = "dziedzic-chwyta-dzien.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) makes his entrance. Behind him stand Adrian Zgórski and Sędzia Seweryn.", source = "M3n747" }
+6002 = { path = "drobny-przedsiebiorca-z-berlina-wschodniego.webp", caption = "[Matt Buckna](@/w/matt-buckna.md).", source = "M3n747" }
+6003 = { path = "polamany-aron.webp", caption = "[Aron Wake](@/w/aron-wake.md) observes the action from the sidelines.", source = "M3n747" }
+6004 = { path = "tez-byscie-chcieli-pewnie.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) presents the [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+6005 = { path = "dziedzic-frunie.webp", caption = "Syriusz Dziedzic attacks Matt Buckna from the top rope.", source = "M3n747" }
+6006 = { path = "der-speer.webp", caption = "Matt Buckna hits Sędzia Seweryn with a Spear, as Dziedzic ducks out of the way.", source = "M3n747" }
+6007 = { path = "co-ma-wisiec-nie-utonie.webp", caption = "Sędzia Seweryn spills out of the ring.", source = "M3n747" }
+6008 = { path = "rope-break.webp", caption = "Matt Buckna breaks the count, much to the astonishment of [Syriusz Dziedzic](@/w/dziedzic.md).", source = "M3n747" }
+6009 = { path = "its-clobberin-time.webp", caption = "Aron Wake takes off his casts to attack [Matt Buckna](@/w/matt-buckna.md) with it.", source = "M3n747" }
+6010 = { path = "mistrzostwa-przeciez-leza-na-ulicy-tylko-schyl-sie-i-zbieraj.webp", caption = "Aron Wake steals the [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+6011 = { path = "przyjazn-i-szacunek.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) shows respect to [Syriusz Dziedzic](@/w/dziedzic.md).", source = "M3n747" }
+
+7001 = { path = "koszulka-zwyciezcy.webp", caption = "_Dziedzic, get up... you've won_.", source = "M3n747" }
