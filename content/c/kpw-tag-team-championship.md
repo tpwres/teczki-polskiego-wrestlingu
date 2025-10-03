@@ -44,8 +44,8 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 - - "[The Hunt](@/tt/the-hunt.md): [Primate](@/w/primate.md) & [Wild Boar](@/w/wild-boar.md)"
   - "Sawicki & Victor Rosetti (c)"
   - s: Tag Team Match
-    en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
-    ed: 2019-08-17
+    en: '[Godzina Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md)'
+    ed: 2020-02-01
 {% end %}
 
 **TOTAL:** 455 days.
@@ -56,8 +56,8 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 - - "[The Hunt](@/tt/the-hunt.md): [Primate](@/w/primate.md) & [Wild Boar](@/w/wild-boar.md)"
   - "[Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md) (c)"
   - s: Tag Team Match
-    en: '[Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md)'
-    ed: 2019-08-17
+    en: '[Godzina Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md)'
+    ed: 2020-02-01
 - - "[Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)"
   - "Primate & Tommy Freeman"
   - "[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md)"
