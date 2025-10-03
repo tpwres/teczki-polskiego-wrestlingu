@@ -34,5 +34,6 @@
 5005 = { path = "drugie-wyjscie-z-cienia.webp", caption = "Marco Hammers and Olgierd attack the already defeated Marcelito. In the background, Shadow emerges from the backstage.", source = "M3n747" }
 5006 = { path = "oj-olgierdzie-bo-kijaszkiem-dostaniesz.webp", caption = "Adrian Zgórski with a kendo stick, ready to fend off the approaching Olgierd. In the foreground Marco Hammers writesh in agony after, courtesy of Shadow.", source = "M3n747" }
 5007 = { path = "zyczy-pan-skrzydelko-czy-nozke.webp", caption = "Marcelito and [Shadow](@/w/shadow.md) exchange knowing looks…", source = "M3n747" }
+5008 = { path = "omnomnomnom.webp", caption = "…and eat Marco's head.", source = "M3n747" }
 
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
