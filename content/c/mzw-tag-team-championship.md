@@ -7,7 +7,7 @@ authors = ["Sewi The Referee"]
 toclevel=2
 [extra.gallery.1]
 path = "wataha-justin-apollo-championship.jpg"
-caption = "Final champions: [Justin Joy](@/w/justin-joy.md) and Apollo Anderson."
+caption = "Final champions: [Justin Joy](@/w/justin-joy.md) and [Apollo Anderson](@/w/apollo-anderson.md)."
 source = "Facebook"
 [extra.gallery.2]
 path = "svd-mzw-tt.jpg"
