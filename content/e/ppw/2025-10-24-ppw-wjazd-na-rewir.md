@@ -22,6 +22,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 * At the same show, [Bartosz Plata](@/w/plata.md) confirmed in an interview that he would be present at the show in Wrocław.
 * 22.09.2025 saw the announcement of the first match-up - [Biesiad Strong](@/w/biesiad.md) vs [Goblin](@/w/goblin.md) for the [PpW Championship](@/c/ppw-championship.md).
 * On 25.09.2025 it was revealed that Bartosz Plata would team up with [Axel Fox](@/w/axel-fox.md) to take on the tag team of [Shadow](@/w/shadow.md) and the newcomer Antoni Ocean.
+* On 2.10.2025 [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to take part in a Zmowa Recruitment Gauntlet Match, in which he'll have to face an unspecified number of opponents looking to join  [Zmowa](@/tt/zmowa.md) by defeating the former [PpW Champion](@/c/ppw-championship.md).
 
 ## Predicted card
 
@@ -38,6 +39,11 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 - - 'Antoni Ocean & [Shadow](@/w/shadow.md)'
   - '[Bartosz Plata](@/w/plata.md) & [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match
+    nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '???'
+  - '???'
+  - s: 'Zmowa Recruitment Gauntlet Match'
     nc: upcoming
 {% end %}
 
