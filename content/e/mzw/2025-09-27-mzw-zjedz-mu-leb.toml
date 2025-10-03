@@ -4,3 +4,48 @@
 0004 = { path = "wilk-szybko-zje-gryfa.webp", caption = "Image announcing [Febus 'The Wolf'](@/w/apollo-anderson.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Max Speed](@/w/max-speed.md).", source = "Official MZW Facebook" }
 0005 = { path = "dziebuckna.webp", caption = "Image announcing [Syriusz Dziedzic](@/w/dziedzic.md) vs [Matt Buckna](@/w/matt-buckna.md).", source = "Official MZW Facebook" }
 0006 = { path = "chodz-polowimy-razem-kraby.webp", caption = "Image announcing [Tony Sheen](@/w/riverman.md).", source = "Official MZW Facebook" }
+
+1000 = { path = "uprzejmie-prosze-panstwa-przyszykowac-sie-do-rumblania.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) opens the show.", source = "M3n747" }
+1001 = { path = "felix-szwajcar.webp", caption = "Felix Schweizer's entrance.", source = "M3n747" }
+1002 = { path = "o-ten-pan-wygral.webp", caption = "Tony Sheen wins, as declared by Sędzia Michał.", source = "M3n747" }
+
+2001 = { path = "lysosc-legionu.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) enters accompanied by [Olgierd](@/w/olgierd.md).", source = "M3n747" }
+2002 = { path = "bog-jest-szalikiem.webp", caption = "_God is bald_.", source = "M3n747" }
+2003 = { path = "marco-lize-powietrze.webp", caption = "A photo of [Marco Hammers](@/w/marco-hammers.md) posing for a photo.", source = "M3n747" }
+2004 = { path = "marco-trzyma-shadowa.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) applies a chokehold to [Shadow](@/w/shadow.md).", source = "M3n747" }
+2005 = { path = "marco-dusi-shadowa.webp", caption = "Marco Hammers chokes [Shadow](@/w/shadow.md).", source = "M3n747" }
+
+3001 = { path = "max-speed-whoop-whoop.webp", caption = "[Max Speed](@/w/max-speed.md) stands on the ropes; in the ring are [Gustav Gryffin](@/w/gustav-gryffin.md), [Febus 'The Wolf'](@/w/apollo-anderson.md) and [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+3002 = { path = "gustava-antyspidowa.webp", caption = "Gustav Gryffin powerbombs Max Speed, who suplexes Febus. In the background stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+3003 = { path = "ale-nim-rzucilo.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) does a 180 Spinning Two-Count Break as [Max Speed](@/w/max-speed.md) kicks out.", source = "M3n747" }
+
+4001 = { path = "tradycyjne-tance-wrestlingowe.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) dancing with [Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
+4002 = { path = "henryk-garncarz-zapasniczy.webp", caption = "Disco Pablo casts _Expelliarmus_ on [Oskar Alexander](@/w/oskar-alexander.md).", source = "M3n747" }
+4003 = { path = "darth-wiader.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) puts a bucket on Oskar Alexander's head.", source = "M3n747" }
+4004 = { path = "buckethead.webp", caption = "Oskar Alexander tries in vain to find Disco Pablo.", source = "M3n747" }
+4005 = { path = "kijem-i-wiadrem.webp", caption = "Official MZW kendo stick and a bucket in a matching colour.", source = "M3n747" }
+4006 = { path = "o-prosze-jakie-ladne.webp", caption = "A fan offers a chair to Disco Pablo.", source = "M3n747" }
+4007 = { path = "piwo-przyjacielem-pabla.webp", caption = "Empty beer cans awaiting Oskar Alexander.", source = "M3n747" }
+
+5001 = { path = "witajcie-ziemianie-przybywam-w-pokoju.webp", caption = "[Marcelito's](@/w/marcelito.md) entrance.", source = "M3n747" }
+5002 = { path = "wystrzelil-jak-z-bajkonuru.webp", caption = "Marcelito does a Suicide Dive at Marco Hammers.", source = "M3n747" }
+5003 = { path = "jezeli-chodzi-o-buty-to-tak-mowia-ludzie-z-malymi-butami.webp", caption = "[Marcelito](@/w/marcelito.md) intercepts Olgierd's Big Boot; in the ring stands [Sędzia Michał](@/w/sedzia-michal.md). Note the dressing on the back of Olgierd's head.", source = "M3n747" }
+5004 = { path = "prosze-ten-pan-tez-wygral.webp", caption = "[Olgierd](@/w/olgierd.md) wins, as indicated by [Sędzia Michał](@/w/sedzia-michal.md).", source = "M3n747" }
+5005 = { path = "drugie-wyjscie-z-cienia.webp", caption = "Marco Hammers and Olgierd attack the already defeated Marcelito. In the background, Shadow emerges from the backstage.", source = "M3n747" }
+5006 = { path = "oj-olgierdzie-bo-kijaszkiem-dostaniesz.webp", caption = "Adrian Zgórski with a kendo stick, ready to fend off the approaching Olgierd. In the foreground Marco Hammers writesh in agony after, courtesy of Shadow.", source = "M3n747" }
+5007 = { path = "zyczy-pan-skrzydelko-czy-nozke.webp", caption = "Marcelito and [Shadow](@/w/shadow.md) exchange knowing looks…", source = "M3n747" }
+5008 = { path = "omnomnomnom.webp", caption = "…and eat Marco's head.", source = "M3n747" }
+
+6001 = { path = "dziedzic-chwyta-dzien.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) makes his entrance. Behind him stand Adrian Zgórski and Sędzia Seweryn.", source = "M3n747" }
+6002 = { path = "drobny-przedsiebiorca-z-berlina-wschodniego.webp", caption = "[Matt Buckna](@/w/matt-buckna.md).", source = "M3n747" }
+6003 = { path = "polamany-aron.webp", caption = "[Aron Wake](@/w/aron-wake.md) observes the action from the sidelines.", source = "M3n747" }
+6004 = { path = "tez-byscie-chcieli-pewnie.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) presents the [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+6005 = { path = "dziedzic-frunie.webp", caption = "Syriusz Dziedzic attacks Matt Buckna from the top rope.", source = "M3n747" }
+6006 = { path = "der-speer.webp", caption = "Matt Buckna hits Sędzia Seweryn with a Spear, as Dziedzic ducks out of the way.", source = "M3n747" }
+6007 = { path = "co-ma-wisiec-nie-utonie.webp", caption = "Sędzia Seweryn spills out of the ring.", source = "M3n747" }
+6008 = { path = "rope-break.webp", caption = "Matt Buckna breaks the count, much to the astonishment of [Syriusz Dziedzic](@/w/dziedzic.md).", source = "M3n747" }
+6009 = { path = "its-clobberin-time.webp", caption = "Aron Wake takes off his casts to attack [Matt Buckna](@/w/matt-buckna.md) with it.", source = "M3n747" }
+6010 = { path = "mistrzostwa-przeciez-leza-na-ulicy-tylko-schyl-sie-i-zbieraj.webp", caption = "Aron Wake steals the [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+6011 = { path = "przyjazn-i-szacunek.webp", caption = "[Matt Buckna](@/w/matt-buckna.md) shows respect to [Syriusz Dziedzic](@/w/dziedzic.md).", source = "M3n747" }
+
+7001 = { path = "koszulka-zwyciezcy.webp", caption = "_Dziedzic, get up... you've won_.", source = "M3n747" }
