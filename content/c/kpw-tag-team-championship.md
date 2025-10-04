@@ -56,7 +56,7 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 - - "[The Hunt](@/tt/the-hunt.md): [Primate](@/w/primate.md) & [Wild Boar](@/w/wild-boar.md)"
   - "[Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md) (c)"
   - s: Tag Team Match
-    en: '[Godzina Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md)'
+    en: '[KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md)'
     ed: 2020-02-01
 - - "[Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md)"
   - "Primate & Tommy Freeman"
