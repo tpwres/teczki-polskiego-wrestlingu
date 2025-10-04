@@ -1,7 +1,9 @@
-1 = { path = "tjw-01.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-2 = { path = "tjw-02.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-3 = { path = "tjw-03.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-4 = { path = "tjw-04.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-5 = { path = "tjw-05.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-6 = { path = "tjw-06.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
-9 = { path = "tjw-99-lesak.webp", caption = "Lesak's signature, before being crossed out.", source = "M3n747", skip_art = true }
+11 = { path = "tjw-01.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
+12 = { path = "tjw-02.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
+13 = { path = "tjw-03.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
+14 = { path = "tjw-04.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
+15 = { path = "tjw-05.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
+16 = { path = "tjw-06.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
+19 = { path = "tjw-99-lesak.webp", caption = "Lesak's signature, before being crossed out.", source = "M3n747", skip_art = true }
+21 = { path = "tjw-ii-01.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
+22 = { path = "tjw-ii-02.webp", caption = "Signatures.", source = "M3n747", skip_art = true }
