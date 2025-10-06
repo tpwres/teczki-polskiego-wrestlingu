@@ -14,6 +14,8 @@ Zmowa (_The Collusion_) is a villainous professional wrestling stable that perfo
 
 ## History
 
+### PpW Ewenement Wrestling (2023-present)
+
 #### Assembling the team
 
 The beggining of Zmowa dates back to late 2023/early 2024, when the villainous PpW's producer Mister Z formed an alliance with [Gustav Gryffin](@/w/gustav-gryffin.md) and Jakub Linde, Gustav's enforcer. Later on [Rafi](@/w/rafi.md) began cooperating with the group. [Legia Łysych](@/tt/legia-lysych.md) joined Zmowa shortly after their debut at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) where they defeated Pure Gold. In mid-2024 [Isnorr](@/w/isnorr.md) joined Zmowa as their ultraviolent specialist.
