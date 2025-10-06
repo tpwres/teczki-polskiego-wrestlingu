@@ -55,7 +55,7 @@ From that point on a tag team efforts were put on hold, since Goblin focused on 
   - Double Powerbomb (2025-)
 * Team signature moves:
   - Stereo suicide dives (Goblin & Fox to the opponents outside the ring)
-* Stables:
+* Affiliations:
   - [Zmowa przeciwko Zmowie](@/tt/zmowa.md) (2024)
 * Entrance music:
   - "Punk Tactics" by Joey Valence & Brae
