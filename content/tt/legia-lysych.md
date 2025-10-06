@@ -45,7 +45,7 @@ As a self-proclaimed misogynist and narcissistic hyper-masculine heel, he taunte
 
 At the same show, Olgierd lost the match against [King Kaiden](@/w/king-kaiden.md). As him and Hammers attempted to beat Kaiden down, ["Starboy" Nano Lopez](/w/nano-lopez.md) made a save. The feud with [Diana Strong](@/w/diana-strong.md) eventually led to her enlisting the help of British wrestler Heidi Katrina. The teams co-main evented [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) in an Intergender Tag Team Match. Legia scored a win, leading Katrina to blame Strong and turn on her.
 
-After the show's universal criticism, the [talent exodus](@/a/ptw-exits.md) started. With workers either announcing they quit PTW or that they stay, Legia gave the impression that they were staying. Marco kept feuding on social media against [Vincent Caravaggio](@/w/vincent-caravaggio.md), presumably building up a match at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), while Olgierd re-confirmed the team's intent to capture the PTW Tag Team Championship.
+After the show's universal criticism, the [talent exodus](@/a/ptw-exits.md) started. With workers either announcing they quit PTW or that they stay, Legia gave the impression that they were staying. Marco kept feuding on social media with [Vincent Caravaggio](@/w/vincent-caravaggio.md), presumably building up a match at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), while Olgierd re-confirmed the team's intent to capture the PTW Tag Team Championship.
 
 ### PpW Ewenement Wrestling (2024-present)
 
@@ -53,7 +53,7 @@ After the show's universal criticism, the [talent exodus](@/a/ptw-exits.md) star
 
 [Pure Gold](@/tt/pure-gold.md) issued an open challenge for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). Among the speculation on opponents' identity, Pure Gold continously taunted Legia on their social media channels before the event. Fans didn't take this as anything but a provocation against PTW. Legia, up until the very last moment, appeared to remain committed to PTW, feuding with [Vincent Caravaggio](@/w/vincent-caravaggio.md) and defending the legitimacy of the [PTW Intergender Championship](@/c/ptw-intergender-championship.md).
 
-Olgierd and Hammers, teaming together as Legia Łysych, answered Pure Gold's challenge to everybody's surprise. With microphones in hand, they cut a heel promo crediting PpW's top villain [Gustav Gryffin](@/w/gustav-gryffin.md) as the person who convinced them to jump ship. This quickly established them as villains. Legia were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
+Olgierd and Hammers, teaming together as Legia Łysych, answered Pure Gold's challenge to everybody's surprise. With microphones in hands, they cut a heel promo crediting PpW's top villain [Gustav Gryffin](@/w/gustav-gryffin.md) as the person who convinced them to jump ship. This quickly established them as villains. Legia were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
 
 Shortly thereafter, Legia Łysych joined ["Zmowa"](@/tt/zmowa.md), a villanous faction led by [Mister Z](@/w/mister-z.md), feuding against PpW's top babyfaces both in tag team and solo matches.
 Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a losing effort. 
