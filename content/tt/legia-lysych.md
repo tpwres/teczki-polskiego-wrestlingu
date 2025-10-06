@@ -1,7 +1,7 @@
 +++
 title = "Legia Łysych"
 template = "team_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ptw", "ppw", "mzw", "low"]
@@ -10,10 +10,6 @@ orgs = ["ptw", "ppw", "mzw", "low"]
 +++
 
 Legia Łysych (_Legion of the Bald_) are a Polish wrestling tag team consisting of [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md). They are known for their work in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md), [Maniac Zone Wrestling](@/o/mzw.md) and formerly in [Prime Time Wrestling](@/o/ptw.md).
-
-## Basic info
-
-* Years active: 2023-present
 
 ## History
 
@@ -51,7 +47,7 @@ At the same show, Olgierd lost the match against [King Kaiden](@/w/king-kaiden.m
 
 After the show's universal criticism, the [talent exodus](@/a/ptw-exits.md) started. With workers either announcing they quit PTW or that they stay, Legia gave the impression that they were staying. Marco kept feuding on social media against [Vincent Caravaggio](@/w/vincent-caravaggio.md), presumably building up a match at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), while Olgierd re-confirmed the team's intent to capture the PTW Tag Team Championship.
 
-### PpW Ewenement (2024-)
+### PpW Ewenement Wrestling (2024-present)
 
 #### Zmowa
 
@@ -60,7 +56,7 @@ After the show's universal criticism, the [talent exodus](@/a/ptw-exits.md) star
 Olgierd and Hammers, teaming together as Legia Łysych, answered Pure Gold's challenge to everybody's surprise. With microphones in hand, they cut a heel promo crediting PpW's top villain [Gustav Gryffin](@/w/gustav-gryffin.md) as the person who convinced them to jump ship. This quickly established them as villains. Legia were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
 
 Shortly thereafter, Legia Łysych joined ["Zmowa"](@/tt/zmowa.md), a villanous faction led by [Mister Z](@/w/mister-z.md), feuding against PpW's top babyfaces both in tag team and solo matches.
-Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a losing effort.
+Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a losing effort. 
 
 ### Legacy of Wrestling (2024-)
 
