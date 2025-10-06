@@ -58,12 +58,16 @@ Olgierd and Hammers, teaming together as Legia Łysych, answered Pure Gold's cha
 Shortly thereafter, Legia Łysych joined ["Zmowa"](@/tt/zmowa.md), a villanous faction led by [Mister Z](@/w/mister-z.md), feuding against PpW's top babyfaces both in tag team and solo matches.
 Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a losing effort. 
 
-### Legacy of Wrestling (2024-)
+#### Growth in power
+
+Despite that setback, Legia commited to Zmowa efforts, becoming a valuable asset of Mister Z's stable. Throughout 2025 they continued to feud with stable's opponents, such as team of [GobLis](@/tt/goblis.md) and The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md). During that time both Olgierd and Marco became more and more violent, disilusioned and powerful in Zmowa's ranks. After Gustav's lost of [PpW Championship](@/c/ppw-championship.md) it was Olgierd, who seemingly became Z's top guy, especially after he earned himself a spot in a contender match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+
+### Legacy of Wrestling (2024-present)
 
 At [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md), each member of Legia had a single match; Olgierd lost to [Biesiad](@/w/biesiad.md), while Marco defeated [Filip Fux](@/w/filip-fux.md). Post-match, they both beat Fux down and posed with his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md).
 This led to a championship match between Legia Łysych and Bracia Fux at [Legacy of Wrestling vol. 2](e/low/2025-04-06-low-2.md), which Legia lost.
 
-### Maniac Zone Wrestling (2024-)
+### Maniac Zone Wrestling (2024-present)
 
 At [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), Marco made his debut and Olgierd his return to [MZW](@/o/mzw.md). While they both competed in singles matches, they were present in each other's corners and also worked as a tag team in an impromptu battle royal.
 
@@ -73,7 +77,7 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
 
 * [Marco Hammers](@/w/marco-hammers.md) - 2023-
 * [Olgierd](@/w/olgierd.md) - 2023-
-* [Karyna](@/w/karyna.md) - 2023-2024 (valet)
+* [Karyna](@/w/karyna.md) - valet ([Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) - [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md))
 
 ## In wrestling:
 
@@ -90,6 +94,6 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
 ## Championships and accomplishments 
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; current) - [Marco Hammers](@/w/marco-hammers.md) (2)
+  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final) - [Marco Hammers](@/w/marco-hammers.md) (2)
 
 [legia-warszawa]:https://en.wikipedia.org/wiki/Legia_Warsaw
