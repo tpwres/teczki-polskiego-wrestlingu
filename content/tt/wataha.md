@@ -12,7 +12,7 @@ Wataha (_The Wolfpack_) were a short-lived tag team of [Apollo Anderson](@/w/apo
 
 ### Maniac Zone Wrestling (2018-2019)
 
-Wataha debuted uring the "Project Era" At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) they won the [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md) from Catch Connection ([Alexander Reich](@/w/alex-ace.md) and [Ronny Kessler](@/w/ronny-kessler.md)). As champions, they never defended their title as the atmosphere in their team quickly began to sour.
+Wataha debuted during the "Project Era". At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) they won the [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md) from Catch Connection ([Alexander Reich](@/w/alex-ace.md) and [Ronny Kessler](@/w/ronny-kessler.md)). As champions, they never defended their title as the atmosphere in their team quickly began to sour.
 Wataha officially broke up at [Project 4](@/e/mzw/2019-03-23-mzw-project-4-open-your-eyes.md) with Apollo turning heel on Justin. Soon after [Jędruś Bułecka](@/w/jedrus-bulecka.md), acting as the authority figure, stripped Apollo and Justin of their Tag Team Championship, retiring the title.
 
 ## Members
