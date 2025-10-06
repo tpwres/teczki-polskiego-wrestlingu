@@ -1,7 +1,7 @@
 +++
 title = "Sawicki & Rosetti"
 template = "team_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "Sewi The Referee"]
 [extra]
 orgs = ["kpw"]
 team_career_keys = ["rosetti&sawicki"]
@@ -14,12 +14,19 @@ team_career_keys = ["rosetti&sawicki"]
 
 ## History
 
+### Kombat Pro Wrestling (2016-2020)
+
 The two wrestlers initially started in solos competition, and were first paired in 2017, winning a match against [Adam Bravo](@/w/adam-bravo.md) and [Mateusz Kowalski](@/w/mateusz-kakareko.md).
 At [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md) they took part in the inaugural Tag Team Championship tournament. In the second round, they were scheduled to face a team of fellow [Kawaleria](@/tt/kawaleria.md) members, [Piękny Kawaler](@/w/piekny-kawaler.md) and [Robert Star](@/w/robert-star.md), but their opponents were disqualified for being under the influence, effectively granting them a bye into the finals.
 
 As Tag Team Champions, they defended the belts at Arenas [13](@/e/kpw/2019-04-05-kpw-arena-13.md) and [14](@/e/kpw/2019-06-15-kpw-arena-14.md), and at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), before losing the titles to [The Hunt](@/tt/the-hunt.md) at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
 
 After their defeat Rosetti turned on his partner, ending the team. While Rosetti remained with KPW, Sawicki later associated himself with [Prime Time Wrestling](@/o/ptw.md), training and promoting them on social media, but did not make even a single appearance before retiring.
+
+## In wrestling
+
+* Affiliations:
+  - [Kawaleria](@/tt/kawaleria.md) (2016-2019)
 
 ## Championships and accomplishments
 

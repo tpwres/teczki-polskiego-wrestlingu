@@ -1,7 +1,7 @@
 +++
 title = "Legia Łysych"
 template = "team_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ptw", "ppw", "mzw", "low"]
@@ -10,10 +10,6 @@ orgs = ["ptw", "ppw", "mzw", "low"]
 +++
 
 Legia Łysych (_Legion of the Bald_) are a Polish wrestling tag team consisting of [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md). They are known for their work in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md), [Maniac Zone Wrestling](@/o/mzw.md) and formerly in [Prime Time Wrestling](@/o/ptw.md).
-
-## Basic info
-
-* Years active: 2023-present
 
 ## History
 
@@ -49,25 +45,29 @@ As a self-proclaimed misogynist and narcissistic hyper-masculine heel, he taunte
 
 At the same show, Olgierd lost the match against [King Kaiden](@/w/king-kaiden.md). As him and Hammers attempted to beat Kaiden down, ["Starboy" Nano Lopez](/w/nano-lopez.md) made a save. The feud with [Diana Strong](@/w/diana-strong.md) eventually led to her enlisting the help of British wrestler Heidi Katrina. The teams co-main evented [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) in an Intergender Tag Team Match. Legia scored a win, leading Katrina to blame Strong and turn on her.
 
-After the show's universal criticism, the [talent exodus](@/a/ptw-exits.md) started. With workers either announcing they quit PTW or that they stay, Legia gave the impression that they were staying. Marco kept feuding on social media against [Vincent Caravaggio](@/w/vincent-caravaggio.md), presumably building up a match at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), while Olgierd re-confirmed the team's intent to capture the PTW Tag Team Championship.
+After the show's universal criticism, the [talent exodus](@/a/ptw-exits.md) started. With workers either announcing they quit PTW or that they stay, Legia gave the impression that they were staying. Marco kept feuding on social media with [Vincent Caravaggio](@/w/vincent-caravaggio.md), presumably building up a match at [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md), while Olgierd re-confirmed the team's intent to capture the PTW Tag Team Championship.
 
-### PpW Ewenement (2024-)
+### PpW Ewenement Wrestling (2024-present)
 
 #### Zmowa
 
 [Pure Gold](@/tt/pure-gold.md) issued an open challenge for [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md). Among the speculation on opponents' identity, Pure Gold continously taunted Legia on their social media channels before the event. Fans didn't take this as anything but a provocation against PTW. Legia, up until the very last moment, appeared to remain committed to PTW, feuding with [Vincent Caravaggio](@/w/vincent-caravaggio.md) and defending the legitimacy of the [PTW Intergender Championship](@/c/ptw-intergender-championship.md).
 
-Olgierd and Hammers, teaming together as Legia Łysych, answered Pure Gold's challenge to everybody's surprise. With microphones in hand, they cut a heel promo crediting PpW's top villain [Gustav Gryffin](@/w/gustav-gryffin.md) as the person who convinced them to jump ship. This quickly established them as villains. Legia were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
+Olgierd and Hammers, teaming together as Legia Łysych, answered Pure Gold's challenge to everybody's surprise. With microphones in hands, they cut a heel promo crediting PpW's top villain [Gustav Gryffin](@/w/gustav-gryffin.md) as the person who convinced them to jump ship. This quickly established them as villains. Legia were victorious in their unexpected debut, and an official confirmation of joining the PpW roster followed soon.
 
 Shortly thereafter, Legia Łysych joined ["Zmowa"](@/tt/zmowa.md), a villanous faction led by [Mister Z](@/w/mister-z.md), feuding against PpW's top babyfaces both in tag team and solo matches.
-Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a losing effort.
+Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a losing effort. 
 
-### Legacy of Wrestling (2024-)
+#### Gaining importance
+
+Despite that setback, Legia committed to Zmowa's efforts, becoming a valuable asset of Mister Z's stable. Throughout 2025 they continued to feud with the stable's opponents, including teams like [GobLis](@/tt/goblis.md) and The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md). During that time, both Olgierd and Marco became more and more violent, disillusioned and important in Zmowa's ranks. After Gustav's loss of the [PpW Championship](@/c/ppw-championship.md) it was Olgierd, who seemingly became Z's top guy, especially after earning himself a spot in a contender match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+
+### Legacy of Wrestling (2024-present)
 
 At [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md), each member of Legia had a single match; Olgierd lost to [Biesiad](@/w/biesiad.md), while Marco defeated [Filip Fux](@/w/filip-fux.md). Post-match, they both beat Fux down and posed with his [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md).
 This led to a championship match between Legia Łysych and Bracia Fux at [Legacy of Wrestling vol. 2](e/low/2025-04-06-low-2.md), which Legia lost.
 
-### Maniac Zone Wrestling (2024-)
+### Maniac Zone Wrestling (2024-present)
 
 At [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), Marco made his debut and Olgierd his return to [MZW](@/o/mzw.md). While they both competed in singles matches, they were present in each other's corners and also worked as a tag team in an impromptu battle royal.
 
@@ -77,7 +77,7 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
 
 * [Marco Hammers](@/w/marco-hammers.md) - 2023-
 * [Olgierd](@/w/olgierd.md) - 2023-
-* [Karyna](@/w/karyna.md) - 2023-2024 (valet)
+* [Karyna](@/w/karyna.md) - valet ([Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) - [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md))
 
 ## In wrestling:
 
@@ -94,6 +94,6 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
 ## Championships and accomplishments 
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; current) - [Marco Hammers](@/w/marco-hammers.md) (2)
+  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final) - [Marco Hammers](@/w/marco-hammers.md) (2)
 
 [legia-warszawa]:https://en.wikipedia.org/wiki/Legia_Warsaw

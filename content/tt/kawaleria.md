@@ -1,28 +1,13 @@
 +++
 title = "Kawaleria"
 template = "team_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ddw", "kpw"]
 +++
 
 Kawaleria (_The Cavalry_) was a professional wrestling stable, active in [Do Or Die Wrestling](@/o/ddw.md) and later [Kombat Pro Wrestling](@/o/kpw.md), between 2015 and 2019. The group distinguished itself by their signature facepaint, using the same entrance music as Piękny Kawaler, and dressing in black. The group's members held all of KPW's championship titles between them at various points in the federation's history.
-
-## Group members
-
-* [Piękny Kawaler](@/w/piekny-kawaler.md), founder and leader (2013-2019)
-* [Greg](@/w/greg.md) (2013-2019)
-* [Luxus](@/w/luxus.md) (2013-2015)
-* [Bianca](@/w/bianca.md) (2013-2015)
-* Leśny (2013-2017)
-* [Kaszub](@/w/kaszub.md) (2017-2018)
-* [Alisa](@/w/alisa.md) (2018-2019)
-* [Sawicki](@/w/sawicki.md) (2016-2019)
-* [Rosetti](@/w/rosetti.md) (2016-2019)
-* [Robert Star](@/w/robert-star.md) (2018-2019, as part of a storyline)
-* [Adam Bravo](@/w/adam-bravo.md) (2018, single storyline appearance)
-* [Chemik](@/w/chemik.md) (2018-2019)
 
 ## History
 
@@ -55,6 +40,21 @@ The resolution came at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2
 Greg did aid Kawaler, preventing further beatdowns. However, instead of helping him exit the ring, he delivered a surprise attack, betraying his now-former leader. This was the definite end of the faction, and Kawaler himself retired from in-ring competition from then on, remaining in coaching and backstage roles.
 
 In the show's closing moments, Chemik appeared behind a pulpit, and, speaking in Latin, announced a new Pope. Then Greg entered, no longer using Kawaleria's entrance music, but to a new theme, wearing long monasterial robes. He stood behind the pulpit and announced himself as the new Pope of Polish wrestling, under the name _Pijus I Greg_. This angle later lead to the creation of a new faction: [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md).
+
+## Members
+
+* [Piękny Kawaler](@/w/piekny-kawaler.md), founder and leader (2013-2019)
+* [Greg](@/w/greg.md) (2013-2019)
+* [Luxus](@/w/luxus.md) (2013-2015)
+* [Bianca](@/w/bianca.md) (2013-2015)
+* Leśny (2013-2017)
+* [Kaszub](@/w/kaszub.md) (2017-2018)
+* [Alisa](@/w/alisa.md) (2018-2019)
+* [Sawicki](@/w/sawicki.md), [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2016-2019)
+* [Rosetti](@/w/rosetti.md), [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2016-2019)
+* [Robert Star](@/w/robert-star.md) (2018-2019, as part of a storyline)
+* [Adam Bravo](@/w/adam-bravo.md) (2018, single storyline appearance)
+* [Chemik](@/w/chemik.md) (2018-2019)
 
 ## In wrestling
 
