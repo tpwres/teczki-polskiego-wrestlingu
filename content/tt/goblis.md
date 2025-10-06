@@ -42,7 +42,7 @@ At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), Goblin finall
 Fox himself participated as one of the competitors in 20 Typa 20 Broni Rumble Match to gain an opportunity for a Title Match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). He started the match first, promising to win it as an _Iron Man_. Fox lasted until the final two, but the last opponent turned out to be Goblin, miraculously recovered after his near-death from Olgierd's hands. Goblin threw Fox over the top rope, securing the title shot and putting another strain on their friendship. During post-show interviews Legia Łysych attacked Fox, while Goblin was celebrating his victory in other parts of the arena. This led Fox to question Goblin's loyalty, reiterating the question he once asked Justin Joy: _Can Axel trust Goblin?_ 
 With the team not on the same page, they were put in a Tornado Tag Team match against Legia Łysych set for the [next show](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md). The differences were settled, the match was won, but their celebration was cut short by a rampaging Gustav Gryffin.
 
-From that point on a tag team efforts were put on hold, since Goblin focused on his war with Gryffin and - after winning it - defending his [PpW Championship](@/c/ppw-championship.md), and Fox still continued his war against [Legia Łysych](@/tt/legia-lysych.md).
+From that point on tag team efforts were put on hold, since Goblin focused on his war with Gryffin and - after winning it - defending his [PpW Championship](@/c/ppw-championship.md), while Fox continued his feud with [Legia Łysych](@/tt/legia-lysych.md).
 
 ## Members
 
