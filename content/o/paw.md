@@ -46,7 +46,7 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 * [Chris X](@/w/chris-x.md)
 * Leo Zayde
 * [Prince Striker](@/w/royal-striker.md)
-* [Ref Seweryn](@/w/sedzia-seweryn.md)
+* [Sędzia Seweryn](@/w/sedzia-seweryn.md)
 * [Isnorr](@/w/isnorr.md)
 * [Tony "The Riverman" Sheen](@/w/riverman.md)
 

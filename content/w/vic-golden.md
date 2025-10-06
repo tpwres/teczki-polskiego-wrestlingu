@@ -47,7 +47,7 @@ He made his in-ring debut as Prince Victor in March, when he fought in a Battle 
 Then, he made yet another appearance at [DDW House Show #2](@/e/ddw/2015-05-02-ddw-house-show-2.md) - also in a Battle Royal.
 
 In August 2015 DDW went on hiatus, and was effectively transformed into [Kombat Pro Wrestling](@/o/kpw.md).
-Vic Golden attended their training sessions but never made an official appearance there, leaving the federation on bad terms - especially with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+Vic Golden attended their training sessions but never made an official appearance there, leaving the federation on bad terms - especially with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 
 #### First return to backyard (2015-2016)
 

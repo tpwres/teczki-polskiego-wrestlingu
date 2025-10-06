@@ -13,7 +13,7 @@ manifest = "@/o/dfw-gallery.toml"
 
 Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015 and founded by [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md).
 Widely considered to be just another backyard, they nevertheless managed to hold multiple showcases and events in 2016, before fizzling out at the end of 2017.
-DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
+DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them, such as [Amisz](@/w/axel-fox.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md), later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
 Dream Factory, unlike other backyards, did not do any sort of ultraviolent matches. They did dabble in hardcore wrestling, as several Street Fight-style matches were held, with kendo sticks, chairs, ladders and Legos.
 
 ### History
@@ -51,7 +51,7 @@ The Facebook page was briefly active again between 2020 and 2021, reminiscing ab
 
 DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) which, as of August 2024, is still available and appears to be functional.
 
-On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration.
+On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration. As of the early October, the campaign has reached 1691&nbsp;PLN out of the 5000&nbsp;PLN goal, with the total of 16 pledges.
 
 ### Scene relations
 
@@ -71,7 +71,7 @@ DFW had one singles championship, introduced and awarded at [Tournament of Dream
     Won a gauntlet match for the vacated belt at [DFW Charity Gauntlet Match](@/e/dfw/2018-03-08-dfw-charity-gauntlet-match.md)
 {% end %}
 
-Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for another belt.
+Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for another belt, and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
 ### References
 
