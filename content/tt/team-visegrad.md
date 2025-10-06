@@ -11,10 +11,6 @@ orgs = ["kpw"]
 Team Visegrad are a Polish-Czech-Slovakian tag team consisting of [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md) and [Lukáš Mottl](@/w/skull-evil.md).
 Although they mostly work in the Austrian promotion European Wrestling Association, they also appeared in [Kombat Pro Wrestling](@/o/kpw.md).
 
-## Basic info
-
-* Years active: 2025-present
-
 ## History
 
 ### Kombat Pro Wrestling (2025-)
