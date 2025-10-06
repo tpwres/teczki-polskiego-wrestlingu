@@ -15,11 +15,16 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 
 ## Build-up
 
-* TBD
+* In 6.10.2025 PpW announced that Antoni Ocean is going to prove his worth as a hardcore wreslter in a Trial by [Blade](@/w/johnny-blade.md) Match against the former [PpW European Ultraviolent Champion](@/c/ppw-european-ultraviolent-championship.md).
 
 ## Predicted card
 
-{{ skip_card() }}
+{% card(predicted=true) %}
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Antoni Ocean'
+  - s: Trial by Blade
+    nc: upcoming
+{% end %}
 
 ### Recap
 
