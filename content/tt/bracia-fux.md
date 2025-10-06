@@ -12,10 +12,6 @@ orgs = ["kpw", "low"]
 
 Bracia Fux are a Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md). They are best known for their work in [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
 
-## Basic info
-
-* Years active: 2021-present
-
 ## History
 
 ### Kombat Pro Wrestling (2021-present)
