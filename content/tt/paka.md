@@ -1,7 +1,7 @@
 +++
 title = "PAKA"
 template = "team_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ptw"]
@@ -9,13 +9,11 @@ orgs = ["ptw"]
 1 = { path = "paka.webp", caption = "[Taras](@/w/taras.md), [Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md), with their [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md).", source = "Official PTW Facebook" }
 +++
 
-PAKA (roughly _The PACK_) were a babyface tag team, active in [Prime Time Wrestling](@/o/ptw.md). As a three-man team, the members saw success both in tag-team and singles competition.
-
-## Basic info
-
-* Years active: 2021-2024
+PAKA (roughly _The PACK_) were a babyface tag team, active in [Prime Time Wrestling](@/o/ptw.md), and later recognized both in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). As a three-man team, the members saw success both in tag-team and singles competition.
 
 ## History
+
+#### Prime Time Wrestling (2021-2024)
 
 ### Debut and initial storylines.
 
@@ -55,15 +53,19 @@ With Pablo failing to save Taras from Longman in time, he became the last PAKA m
 
 Despite not appearing since September 2023, Boro had not officialy [quit the promotion](@/a/ptw-exits.md) until June 2024, when he posted his "Last Dance Story" in which he clearly supported wrestlers leaving PTW, such as his teammates from PAKA and the members of his ["Green Gang"](@/tt/zieloni.md).
 
+### Legacy of Wrestling (2024-2025)
+
 #### Encore
 
 While Boro and Taras seemingly retired, Disco Pablo continued to compete on the Polish scene, in [Maniac Zone Wrestling](@/o/mzw.md) as well as [Legacy of Wrestling](@/o/low.md). At [Legacy #1](@/e/low/2024-12-01-low-1.md) Pablo held a musical chairs contest, but during the game a masked assailant barged into the ring and viciously attacked both Pablo and [Piotr Małecki](@/w/piotr-malecki.md). After unmasking and revealing himself to be Taras, he finished off Pablo with a GTS and put Małecki through a table. Subsequently, Taras stated that he'd been abadoned by his partners almost eight months prior and declared that PAKA was officially disbanded.
 
 At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md), Disco Pablo and Taras had a face-off in the ring. While Taras aired his grievances against former teammates and fans, Disco Pablo challenged Taras to a match for the [third show](@/e/low/2025-07-11-low-3.md), giving him the choice of stipulation. Taras begrudgingly accepted.
 
-[MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) saw [PAKA's](@/tt/paka.md) quasi-reunion, with [Disco Pablo](@/w/disco-pablo.md) enlisting [Boro's](@/w/boro.md) help to take on [Legia Łysych](@/tt/legia-lysych.md).
+At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo is set to face Taras in a Street Fight match, with Boro as a special guest referee. Eventually, Pablo managed to win that match. Seemingly retiring Taras from in-ring competition and finishing PAKA once and for all.
 
-At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo is set to face Taras in a Street Fight match, with Boro as a special guest referee.
+### Maniac Zone Wrestling (2025)
+
+[MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) in June 2025 saw [PAKA's](@/tt/paka.md) quasi-reunion, with [Disco Pablo](@/w/disco-pablo.md) enlisting [Boro's](@/w/boro.md) help to take on [Legia Łysych](@/tt/legia-lysych.md). They were defeated by villainous tag team.
 
 ## Members
 
@@ -98,7 +100,7 @@ At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo is set
 
 ## Championships and accomplishments
 
-* [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time) - Taras and Disco Pablo won the titles; Boro was considered the third champion in accordance with the [Freebird Rule][freebird-rule], but never defended the titles.
+* [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - Taras and Disco Pablo won the titles; Boro was considered the third champion in accordance with the [Freebird Rule][freebird-rule], but never defended the titles.
 
 ## References
 
