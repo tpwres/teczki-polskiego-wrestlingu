@@ -24,7 +24,7 @@ At [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) the Brothers
 
 At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) the Brothers took part in a tournament for the [KPW Championship](@/c/kpw-championship.md) Contendership and at the [next show](@/e/kpw/2025-01-24-kpw-arena-27.md) they faced [David Oliwa](@/w/david-oliwa.md) as well as one another in a Three Way Match - a bout that was won by Michał Fux. Then at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) Michał took on [Hans Schulte](@/w/hans-schulte.md) in a match for KPW's main title, while Filip squared off against Chemik for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md); however, both Fuxes lost their matches.
 
-At [Godzina Zero 2025](@/e/low/2025-07-11-low-3.md) the Fux Brothers were challenged by [Team Visegrad](@/tt/team-visegrad.md) for their KPW Tag Team Championships. Shockingly, the challangers were able to defeat the Champions, ending their reign after 735 days. Soon after, at [KPW's Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md) Fux Brothers introduced a third brother - Oskar Fux - a worker who made his debut as a unnamed rookie during a match against [Tomczak](@/w/tomczak.md) at Godzina Zero. Currently, it is unknown if Oskar Fux character will be utilised in regular KPW's programming, which leaves him as a non-canon character.
+At [Godzina Zero 2025](@/e/low/2025-07-11-low-3.md) the Fux Brothers were challenged by [Team Visegrad](@/tt/team-visegrad.md) for their KPW Tag Team Championships. Shockingly, the challangers were able to defeat the Champions, ending their reign after 735 days. Soon after, at [KPW's Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md), they introduced a third brother, Oskar Fux, a worker who made his debut as an unnamed rookie during a match against [Tomczak](@/w/tomczak.md) at Godzina Zero. As of the early October 2025, it is unknown if the Oskar Fux character will be utilised in regular KPW's programming, which leaves him as a non-canon character.
 
 ### Legacy of Wrestling (2025-)
 
@@ -37,7 +37,7 @@ In addition to working in Poland, the Fux Brothers made an appearance in 2023 fo
 ## Members
 * [Filip Fux](@/w/filip-fux.md)
 * [Michał Fux](@/w/michal-fux.md)
-* Oskar Fux (non-canon shows) ([KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md) - )
+* Oskar Fux (non-canon shows) ([KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md), [Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md))
 
 ## In wrestling
 
