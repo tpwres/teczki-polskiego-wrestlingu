@@ -14,7 +14,7 @@ team_career_keys = ["rosetti&sawicki"]
 
 ## History
 
-### Kombat Pro Wrestling (2016-2019)
+### Kombat Pro Wrestling (2016-2020)
 
 The two wrestlers initially started in solos competition, and were first paired in 2017, winning a match against [Adam Bravo](@/w/adam-bravo.md) and [Mateusz Kowalski](@/w/mateusz-kakareko.md).
 At [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md) they took part in the inaugural Tag Team Championship tournament. In the second round, they were scheduled to face a team of fellow [Kawaleria](@/tt/kawaleria.md) members, [Piękny Kawaler](@/w/piekny-kawaler.md) and [Robert Star](@/w/robert-star.md), but their opponents were disqualified for being under the influence, effectively granting them a bye into the finals.

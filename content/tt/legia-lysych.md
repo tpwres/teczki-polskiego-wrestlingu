@@ -58,9 +58,9 @@ Olgierd and Hammers, teaming together as Legia Łysych, answered Pure Gold's cha
 Shortly thereafter, Legia Łysych joined ["Zmowa"](@/tt/zmowa.md), a villanous faction led by [Mister Z](@/w/mister-z.md), feuding against PpW's top babyfaces both in tag team and solo matches.
 Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a losing effort. 
 
-#### Growth in power
+#### Gaining importance
 
-Despite that setback, Legia commited to Zmowa efforts, becoming a valuable asset of Mister Z's stable. Throughout 2025 they continued to feud with stable's opponents, such as team of [GobLis](@/tt/goblis.md) and The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md). During that time both Olgierd and Marco became more and more violent, disilusioned and powerful in Zmowa's ranks. After Gustav's lost of [PpW Championship](@/c/ppw-championship.md) it was Olgierd, who seemingly became Z's top guy, especially after he earned himself a spot in a contender match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+Despite that setback, Legia committed to Zmowa's efforts, becoming a valuable asset of Mister Z's stable. Throughout 2025 they continued to feud with the stable's opponents, including teams like [GobLis](@/tt/goblis.md) and The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md). During that time, both Olgierd and Marco became more and more violent, disillusioned and important in Zmowa's ranks. After Gustav's loss of the [PpW Championship](@/c/ppw-championship.md) it was Olgierd, who seemingly became Z's top guy, especially after earning himself a spot in a contender match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
 
 ### Legacy of Wrestling (2024-present)
 

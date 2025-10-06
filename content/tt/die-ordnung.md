@@ -20,7 +20,7 @@ They feuded over the titles with Bracia Fux, defending them successfully on the 
 
 As a team, they employed straightforward, classic foreign heel gimmicks, especially playing up the "evil German" stereotype.
 
-The 2025 [Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md) event saw the debut of "Die Ordnung 2.0", consisting of Franz & Friedrich from Nordisch Fight Club.
+The 2025 [Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md) event saw the debut of "Die Ordnung 2.0", consisting of Franz & Friedrich from Nordisch Fight Club, a Hamburg-based martial arts dojo that also trains pro-wrestlers.
 
 ## Members
 

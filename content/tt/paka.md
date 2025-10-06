@@ -61,11 +61,11 @@ While Boro and Taras seemingly retired, Disco Pablo continued to compete on the 
 
 At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md), Disco Pablo and Taras had a face-off in the ring. While Taras aired his grievances against former teammates and fans, Disco Pablo challenged Taras to a match for the [third show](@/e/low/2025-07-11-low-3.md), giving him the choice of stipulation. Taras begrudgingly accepted.
 
-At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo is set to face Taras in a Street Fight match, with Boro as a special guest referee. Eventually, Pablo managed to win that match. Seemingly retiring Taras from in-ring competition and finishing PAKA once and for all.
+At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo was set to face Taras in a Street Fight match, with Boro as a special guest referee. Eventually, Pablo managed to win that match, seemingly retiring Taras from in-ring competition and finishing PAKA once and for all.
 
 ### Maniac Zone Wrestling (2025)
 
-[MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) in June 2025 saw [PAKA's](@/tt/paka.md) quasi-reunion, with [Disco Pablo](@/w/disco-pablo.md) enlisting [Boro's](@/w/boro.md) help to take on [Legia Łysych](@/tt/legia-lysych.md). They were defeated by villainous tag team.
+[MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) in June 2025 saw [PAKA's](@/tt/paka.md) quasi-reunion, with [Disco Pablo](@/w/disco-pablo.md) enlisting [Boro's](@/w/boro.md) help to take on [Legia Łysych](@/tt/legia-lysych.md). They were defeated by the villainous tag team.
 
 ## Members
 
