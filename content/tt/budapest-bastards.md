@@ -29,6 +29,11 @@ Their next bout against PAKA was successful: they faced the champions, and two o
 
 Bastards then defended their titles three more times, including once against another Hungarian team of The Gulyas Bros (Gulyás Öcsi and Gulyás Vilmos). However, at the end of 2024, at the [final Underground show](@/e/ptw/2024-12-07-ptw-underground-25.md), they dropped the belts to [L'Orda](@/tt/l-orda.md), a team of [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md), and in a closing promo parted ways with the organization. Later on, in 2025 Nitro made his return to PTW, but without Renegade.
 
+## Members
+
+- [Renegade](@/w/renegade.md)
+- [Nitro](@/w/nitro.md)
+
 ## In wrestling 
 
 * Finishers:
