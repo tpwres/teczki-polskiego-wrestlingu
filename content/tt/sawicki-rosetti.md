@@ -10,7 +10,7 @@ team_career_keys = ["rosetti&sawicki"]
 2 = { path = "sawicki-rosetti-2.webp", caption = "[Rosetti](@/w/rosetti.md) hits [Sawicki](@/w/sawicki.md) with a steel chair, putting an end to their tag team after losing at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).", source = "Lens Blog" }
 +++
 
-[Sawicki](@/w/sawicki.md) and [Rosetti](@/w/rosetti.md) were a tag team active in [Kombat Pro Wrestling](@/o/kpw.md) between 2016 and 2019. In 2018 they became the first [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), their reign lasting a total of 455 days.
+[Sawicki](@/w/sawicki.md) and [Rosetti](@/w/rosetti.md) were a tag team active in [Kombat Pro Wrestling](@/o/kpw.md) between 2016 and 2020. In 2018 they became the first [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md), their reign lasting a total of 455 days.
 
 ## History
 
