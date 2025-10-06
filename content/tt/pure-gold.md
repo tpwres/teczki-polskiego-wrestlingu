@@ -7,7 +7,7 @@ toclevel = 3
 orgs = ["ptw", "ppw"]
 +++
 
-Pure Gold was a Polish tag team consisting of [Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md) active from 2022 to 2025. They are best known for their work in [PpW Ewenement](@/o/ppw.md) and [Prime Time Wrestling](@/o/ptw.md).
+Pure Gold were a Polish tag team consisting of [Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md), active from 2022 to 2025. They are best known for their work in [PpW Ewenement](@/o/ppw.md) and [Prime Time Wrestling](@/o/ptw.md).
 
 ## History
 
