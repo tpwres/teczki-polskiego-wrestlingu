@@ -7,7 +7,7 @@ toclevel = 3
 orgs = ["ptw"]
 +++
 
-Sinister Kingdom was a stable active in [Prime Time Wrestling](@/o/ptw.md) between 2022 and 2024. While they did not hold any titles in the federation, they were nevertheless important in several storylines during that time. Later on, the stable's legacy moved into [Legacy of Wrestling](@/o/low.md).
+Sinister Kingdom was a stable active in [Prime Time Wrestling](@/o/ptw.md) between 2022 and 2024. While they did not hold any titles in the federation, they were nevertheless important in several storylines during that time. Later on, the stable moved into [Legacy of Wrestling](@/o/low.md).
 
 ## History
 
@@ -42,8 +42,8 @@ At the [next show](@/e/low/2025-04-06-low-2.md) Dziedzic faced Sinister in a Sin
 
 ## Members
 
-- [Sinister](@/w/sinister.md) - Leader - ([Legends](content/e/ptw/2022-11-26-ptw-3-legends.md) - [LoW vol. 1](@/e/low/2024-12-01-low-1.md)
-- [Krampus](@/w/krampus.md) - ([Legends](content/e/ptw/2022-11-26-ptw-3-legends.md) - [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md))
+- [Sinister](@/w/sinister.md) - Leader - ([Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - [LoW vol. 1](@/e/low/2024-12-01-low-1.md)
+- [Krampus](@/w/krampus.md) - ([Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md))
 - [Syriusz Dziedzic](@/w/dziedzic.md) - ([The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md) - [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md))
 - [Minion](@/w/sedzia-klaudiusz.md) - ([Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md))
 
