@@ -7,15 +7,11 @@ toclevel = 3
 orgs = ["ptw", "ppw"]
 +++
 
-Pure Gold was a Polish tag team consisting of [Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md). They are best known for their work in [PpW Ewenement](@/o/ppw.md) and [Prime Time Wrestling](@/o/ptw.md).
-
-## Basic info
-
-Years active: 2022-2025
+Pure Gold was a Polish tag team consisting of [Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md) active from 2022 to 2025. They are best known for their work in [PpW Ewenement](@/o/ppw.md) and [Prime Time Wrestling](@/o/ptw.md).
 
 ## History
 
-### PTW (2022-2023)
+### Prime Time Wrestling (2022-2023)
 
 #### Formation and first matches
 
@@ -49,7 +45,7 @@ Golden never returned from his injury hiatus and was quietly removed from PTW's 
 
 Besides their PTW run, in 2023 Pure Gold made appearances outside of Poland, for Austrian Rings of Europe and Danish Nordic Elite Wrestling.
 
-### PpW Ewenement (2024-)
+### PpW Ewenement Wrestling (2024-2025)
 
 #### Reunion
 
@@ -80,6 +76,9 @@ Just before Queen went for the second pinfall and victory, Vic Golden turned on 
 
 * Finishing move:
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
+* Affiliations:
+  - [Zieloni](@/tt/zieloni.md) 
+  - [Zmowa przeciwko Zmowie](@/tt/zmowa.md) (2024)
 * Entrance music:
   - "Best of Both Worlds" by Hannah Montana
  {{ org_badge(orgs=['ptw', 'ppw']) }} (2022-2025, both in tag team and solo entrances)<br>
@@ -93,7 +92,3 @@ Just before Queen went for the second pinfall and victory, Vic Golden turned on 
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
     * Tag Team of the Year
   
-## Affiliations
-
-* [Zieloni](@/tt/zieloni.md)
-* [Zmowa przeciwko Zmowie](@/tt/zmowa.md) (2024)
