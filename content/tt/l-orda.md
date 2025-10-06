@@ -12,7 +12,7 @@ L'Orda (_The Horde_) are a tag team composed of Italian wrestlers [Luca Bjorn](@
 
 ### Prime Time Wrestling (2024-present)
 
-L'Orda debuted in [Prime Time Wrestling](@/o/ptw.md) in 2024, both solo and as a team. In December of that year L'Orda defeated the [Budapest Bastards](@/tt/budapest-bastards.md) to become the third [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) in the organization's history. They managed to make one sucessful defence against Team Turbulence at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), but at [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) they lost their championship to [Royal Rebels](@/tt/royal-rebels.md).
+L'Orda debuted in [Prime Time Wrestling](@/o/ptw.md) in 2024, both solo and as a team. In December of that year L'Orda defeated the [Budapest Bastards](@/tt/budapest-bastards.md) to become the third [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) in the organization's history. They managed to make one sucessful defence against Team Turbulence at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), but at [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) they lost their Championship to [Royal Rebels](@/tt/royal-rebels.md).
 
 ## Members
 
