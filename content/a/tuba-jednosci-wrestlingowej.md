@@ -10,9 +10,11 @@ authors = ["M3n747"]
 
 <!-- more -->
 
-A fan looking to buy the show's poster at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) took the tube as a means of protecting the poster in transport. However, since no posters were available at the merch stand, he asked the wrestlers to sign the tube instead. Later on he would take the tube to shows by [Kombat Pro Wrestling](@/o/kpw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md), asking for autographs.
+A fan looking to buy the show's poster at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) took the tube as a means of protecting the poster in transport. However, since no posters were available at the merch stand, he asked the wrestlers to sign the tube instead. Later on he would take it to shows by [Kombat Pro Wrestling](@/o/kpw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md), asking for autographs.
 
-## Signatures
+Nearly 1.5 years later, as the space on the original tube was becoming increasingly sparse, the fan took a new one to [MZW Zjedz mu łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) to continue collecting autographs. He also asked some of the people who'd already signed the first tube to sign the new one again, as several of the final autographs on the original cylinder were barely visible.
+
+## Signatures on the original tube
 
 The tube was signed by the following people:
 - [Adam Wong](@/w/adam-wong.md)
@@ -21,7 +23,7 @@ The tube was signed by the following people:
 - [Axel Fox](@/w/axel-fox.md)
 - [Balik](@/w/lukasz-balinski.md)
 - [Bianca](@/w/bianca.md)
-- [Biesiad Strong](@/w/biesiad.md)
+- [Biesiad Strong](@/w/biesiad.md) (first to sign the original tube)
 - [Bill Feager](@/w/feager.md)
 - [Chris X](@/w/chris-x.md)
 - [David Oliwa](@/w/david-oliwa.md)
@@ -72,3 +74,13 @@ The tube was signed by the following people:
 - [Wiktor Longman](@/w/wiktor-longman.md)
 
 When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't wish to unify with people who are beneath him. [Zefir](@/w/zefir.md) refused as well, but did not say why.
+
+## Signatures on the second tube
+
+- [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
+- [Adrian Zgórski](@/w/adrian-zgorski.md)
+- [Hexia](@/w/hexia.md)
+- [Istociarz](@/w/istociarz.md)
+- [Marcelito](@/w/marcelito.md)
+- [Max Speed](@/w/max-speed.md)
+- [ShowOff](@/w/piotr-malecki.md)
