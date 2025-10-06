@@ -1,7 +1,7 @@
 +++
 title = "Budapest Bastards"
 template = "team_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ptw"]
