@@ -12,7 +12,7 @@ Storm Riders were a short-lived tag team competing in [Maniac Zone Wrestling](@/
 
 ### Maniac Zone Wrestling (2016-2017)
 
-The team was composed of two masked luchadors: [Red Thunder](@/w/red-thunder.md) and [Blue Thunder](@/w/blue-thunder.md), and a manager named Columbus. The team enjoyed a brief run with the [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md) which they won from [Zbójnicy](@/tt/zbojnicy.md), before losing them to [Catch Connection](@/tt/catch-connection.md) in 2017. Shortly afterwards the team disbanded, and both members only did one more appearance each, in multi-man matches.
+The team was composed of two masked luchadors: [Red Thunder](@/w/red-thunder.md) and [Blue Thunder](@/w/blue-thunder.md), as well as a manager named Columbus. The team enjoyed a brief run with the [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md) which they won from [Zbójnicy](@/tt/zbojnicy.md), before losing them to [Catch Connection](@/tt/catch-connection.md) in 2017. The team disbanded shortly afterwards, and both members only made one more appearance each, in multi-man matches.
 
 ## Members
 
