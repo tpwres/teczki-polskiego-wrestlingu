@@ -58,7 +58,7 @@ On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating 
 DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. 
 DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth Donner" Varanovich introduced [Amisz](@/w/axel-fox.md) to the promotion, as well as provided commentary for various shows, alongside WiW's Marcel Koniecki. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality (also from _What is Wrestling_) still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
 
-After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school.
+After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school; it later became known that they included [Amisz](@/w/axel-fox.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md). All four then joined MZW, and later PpW. While Revage and Norris have since retired, Amisz and Charlie are still active - the former wrestles for PpW and [Legacy of Wrestling](@/o/low.md), while the latter is one of PpW's referees (and recently, also Legacy's).
 
 ### Championships
 
