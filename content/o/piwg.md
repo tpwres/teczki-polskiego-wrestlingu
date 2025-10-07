@@ -25,7 +25,7 @@ In addition to the people listed in the Roster section below, there were also: A
 
 ## Championships 
 
-It is known, that at [Storm Over Pomerania](@/e/piwg/2008-08-10-piwg-storm-over-pomerania.md) federation introduced PIWG Pomerania Championship, which was won by Seraphim. He is the only known champion in federation history.
+It is known that at [Storm Over Pomerania](@/e/piwg/2008-08-10-piwg-storm-over-pomerania.md) the federation introduced the PIWG Pomerania Championship, which was won by Seraphim. He is the only known champion in the federation's history.
 
 ### References
 
