@@ -30,7 +30,7 @@ BWD's motto, as seen on their webstite, was "We got bigger balls than brain" (la
 
 ## Championships
 
-From information salvaged from Archive.org, it is known that the federation promoted at least one championship called HWD Championship, which later was renamed to BWD Championship. The inaugural and sole archived champion was Vampirro (AKA Vamp).
+From information salvaged from Archive.org, it is known that the federation promoted at least one championship called HWD Championship, which later was renamed to BWD Championship. The inaugural and sole archived champion was Vampirro (AKA Vamp). It is known that he won it at [Dzień Tortur](@/e/bwd/2003-02-01-bwd-dzien-tortur.md) and sucessfully defended it at [BWD unnamed show](@/e/bwd/2003-07-25-bwd-1.md).
 
 ### References
 
