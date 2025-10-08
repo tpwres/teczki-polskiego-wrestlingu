@@ -19,7 +19,11 @@ source = "Official ŁSW YouTube"
 skip_art = true
 +++
 
-Łazieniec Superstar Wrestling was a short-lived backyard group from the village of Łazieniec. Little is known about them, as all that can be found is their YouTube channel with only four videos, 4.5 to 5.5 minutes in length, in which they demonstrate a variety of popular wrestling moves.
+Łazieniec Superstar Wrestling was a short-lived backyard group from the village of Łazieniec. It was possibly active around 2009-2010.
+
+## History
+
+Little is known about Łazaniec Superstar Wrestling, as all that can be found is their YouTube channel with only four videos, 4.5 to 5.5 minutes in length, in which they demonstrate a variety of popular wrestling moves.
 
 According to what can be seen in the videos, the group was very small, consisting only of a handful of teenagers and even pre-teens. All the moves were performed outdoors on mattresses or even a pile of foam fillings from discarded furniture. The moves range from fairly simple, like the Clothesline, to dangerous, such as the Tombstone Piledriver. Moves like the Frog Splash, that typically require climbing onto a turnbuckle, were performed from a wood chopping block instead. Since the videos were all made in the rural environment, the common background are fields and farm buildings, and a few times a man can be seen pushing a wheelbarrow.
 
