@@ -2,7 +2,7 @@
 title = "Mine City Wrestling"
 weight = 0
 template = "org_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 3
 compact_event_list = true
