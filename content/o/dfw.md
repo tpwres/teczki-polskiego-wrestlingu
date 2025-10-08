@@ -71,7 +71,7 @@ DFW had one singles championship, introduced and awarded at [Tournament of Dream
     Won a gauntlet match for the vacated belt at [DFW Charity Gauntlet Match](@/e/dfw/2018-03-08-dfw-charity-gauntlet-match.md)
 {% end %}
 
-Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for [Zieloni GNG Championship](@/tt/zieloni.md), and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
+Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for the [Zieloni GNG Championship](@/tt/zieloni.md), and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
 ### References
 
