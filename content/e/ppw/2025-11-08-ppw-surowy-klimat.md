@@ -32,6 +32,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=435854)
 * [Facebook post announcing the event][w-nowej-hali]
 
 [w-nowej-hali]: https://www.facebook.com/OficjalnePPW/posts/pfbid0eNNLC2TyYL8uceonCDXNdkUgwxjwjKtAVJ7aCZfhHdN6ihhWdVFVUjRNq3XbwBaWl
