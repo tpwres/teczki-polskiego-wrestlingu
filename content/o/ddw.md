@@ -23,11 +23,11 @@ One character in that history, although a non-wrestler, was Arkadiusz Pawłowski
 
 ## Foregin relations
 
-DDW held a couple of shows cooperating with Hungarian wrestling scene. Most notably it was Hungarian Championship Wrestling. Federations held some type of wrestlers exchange, with Hungarian wrestlers such as [Renegade](@/w/renegade.md) and [Ron Corvus](@/w/ron-corvus.md) making their appearances in DDW, and Polish workers such as [Kamil Aleksander](@/w/kamil-aleksander.md), [Mira](@/w/mira.md) and [Don Roid](@/w/don-roid.md) working at handful of HCW shows.
+DDW held a couple of shows cooperating with the Hungarian wrestling scene, most notably Hungarian Championship Wrestling. Federations held some type of wrestlers exchange, with Hungarian wrestlers such as [Renegade](@/w/renegade.md) and [Ron Corvus](@/w/ron-corvus.md) making their appearances in DDW, and Polish workers such as [Kamil Aleksander](@/w/kamil-aleksander.md), [Mira](@/w/mira.md) and [Don Roid](@/w/don-roid.md) working at a handful of HCW shows.
 
 ## Polish wrestling scene
 
-When Do Or Die Wrestling became the first professional wrestling federation in Poland with his own school, it created some ground rules. Due to fact, that previously there were only backyard federations Don Roid adapted a very conservative regime for his workers. Don Roid absolutely banned any type of wrestling involvement in Poland outside of DDW. Exclusivity clauses weren't lifted even after creation of another professional federations such as [Maniac Zone Wrestling](@/o/mzw.md). It set up a precedent at Polish wrestling scene, which was followed by every professional federations in Poland up until 2023, when [PpW](@/o/ppw.md) and MZW co-created their show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
+When Do Or Die Wrestling became the first professional wrestling promotion in Poland with its own school, it set some ground rules. Due to the fact that previously there were only backyard federations in the country, Don Roid adapted a very conservative regime for his workers, absolutely banning any type of wrestling involvement in Poland outside of DDW. Exclusivity clauses weren't lifted even after the creation of another professional federations, such as [Maniac Zone Wrestling](@/o/mzw.md). This set up a precedent at the Polish wrestling scene, which was followed by every professional promotion in Poland up until 2023, when [PpW](@/o/ppw.md) and MZW co-created their show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
 
 ## Championships
 
