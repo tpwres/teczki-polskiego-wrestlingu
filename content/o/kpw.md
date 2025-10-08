@@ -17,7 +17,7 @@ caption = "Photo from a training session. Wearing a black shirt with a red drago
 source = "Official KPW Facebook"
 +++
 
-### History
+## History
 
 #### 2015: The end of DDW
 
