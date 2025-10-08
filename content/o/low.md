@@ -152,6 +152,10 @@ On 2.10.2025 [ShowOff](@/w/piotr-malecki.md) and [Wiktor D.](@/w/wiktor-longman.
 
 Legacy of Wrestling became the first professional wrestling promotion openly admitting to not have a plan for creating their own talent. The federation's whole plan revolves around making a supercard-style shows with wrestlers from [PpW](@/o/ppw.md), [KPW](@/o/kpw.md) and [MZW](@/o/mzw.md), with some addition of workers, who left [PTW](@/o/ptw.md) and don't make appearances anywhere else. The plan succeded, with LoW being the first place in Polish wrestling scene history where KPW wrestlers worked against wrestlers from another Polish federations, while first cooperations between MZW and PpW took place in 2023.
 
+## Championships
+
+Legacy's hinted that the federation will promote their own championship at multiple Q&A's, with a build-up for the final title match starting at LoW vol. 2. As of October 2025 it is known, that first "Legacy Champion" will be crowned at Legacy's fourth show.
+
 ## References
 
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
