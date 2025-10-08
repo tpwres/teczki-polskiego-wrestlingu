@@ -16,7 +16,7 @@ Widely considered to be just another backyard, they nevertheless managed to hold
 DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them, such as [Amisz](@/w/axel-fox.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md), later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
 Dream Factory, unlike other backyards, did not do any sort of ultraviolent matches. They did dabble in hardcore wrestling, as several Street Fight-style matches were held, with kendo sticks, chairs, ladders and Legos.
 
-### History
+## History
 
 #### Before 2015: Local backyard
 
@@ -53,7 +53,7 @@ DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) w
 
 On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration. As of the early October, the campaign has reached 1691&nbsp;PLN out of the 5000&nbsp;PLN goal, with the total of 16 pledges.
 
-### Scene relations
+## Polish wrestling scene
 
 DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. 
 DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth Donner" Varanovich introduced [Amisz](@/w/axel-fox.md) to the promotion, as well as provided commentary for various shows, alongside WiW's Marcel Koniecki. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/axel-fox.md), at that time merely an Internet personality (also from _What is Wrestling_) still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
@@ -71,7 +71,7 @@ DFW had one singles championship, introduced and awarded at [Tournament of Dream
     Won a gauntlet match for the vacated belt at [DFW Charity Gauntlet Match](@/e/dfw/2018-03-08-dfw-charity-gauntlet-match.md)
 {% end %}
 
-Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for another belt, and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
+Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for [Zieloni GNG Championship](@/tt/zieloni.md), and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
 ### References
 
