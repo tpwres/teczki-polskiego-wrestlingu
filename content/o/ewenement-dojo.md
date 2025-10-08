@@ -33,10 +33,12 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
 * Biesiad Strong (PpW Dojo)
 * [Oskar Alexander](@/w/oskar-alexander.md)
 * [Bartosz Plata](@/w/plata.md)
+* Antoni Ocean
 * _rookie_ Antek
 * _rookie_ Andrzej (non-canon debut)
 * Istotna Martynka (non-canon debut)
 * Alvaro (non-canon debut)
+
 
 ## History
 
