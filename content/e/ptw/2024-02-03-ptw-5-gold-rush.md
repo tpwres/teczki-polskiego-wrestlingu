@@ -104,7 +104,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   Najman took offense to this, referred to himself not as bald, but close cut and decked them with punches. Announced his upcoming fight against Murański at Clout MMA 4 on March 9.
 * Pawłowski explained the Gold Rush Rumble rules: typical over-the-top rope elimination, but the final four can only eliminate  by pinfall or submission.
 * After the rumble, [Puncher](@/w/puncher.md) cut a promo, to be interrupted by Babatunde, an ex-WWE wrestler of Polish origin, now as Babathunder. Pawłowski announced him as signed to PTW.
-* Pawłowski invited his fiancee Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
+* Pawłowski invited his fiancée Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
 * The screen showed a video recalling Rzeźniczak's kidnapping from [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and revealing it was an elaborate ruse by Bones, Rzeżniczak and Longman who are scheming against Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, hit his boss with _At Your Service_, and closed the show by plugging the lottery.
 
 ### Gold Rush Rumble entrances and eliminations
@@ -157,7 +157,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 46. [Axel Fox](@/w/axel-fox.md) eliminates James Storm
 47. Puncher pins Axel Fox to win
 
-Mutant was last seen in PTW on their [very first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in 2021.
+Mutant was last seen in PTW at their [very first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in 2021.
 Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character who made his debut at the first event, then showed up on first two Underground events and disappeared.
 
 ## References
