@@ -36,6 +36,10 @@ Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disc
 
 In addition to the events listed below, MCW also held two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie.
 
+## Polish wrestling scene
+
+MCW is not involved in any cooperations at Polish wrestling scene. The only MCW influence on scene were that some of ex-MCW wrestlers and trainees joined PTW - and later on other federations - and information revealed by one of [Legacy of Wrestling](@/o/low.md) owners - [Piotr Małecki](@/w/piotr-malecki.md) - about failed ring rental negotiations. None of current MCW talent is known to train in any of wrestling schools in Poland, and federation is seemingly isolated from the rest of the scene.
+
 ## Championships
 
 MCW has one singles championship, which was introduced in late 2019.
