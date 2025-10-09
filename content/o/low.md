@@ -150,7 +150,7 @@ On 2.10.2025 [ShowOff](@/w/piotr-malecki.md) and [Wiktor D.](@/w/wiktor-longman.
 
 ## Polish wrestling scene
 
-Legacy of Wrestling became the first professional wrestling promotion openly admitting to not intending on having their own talent. The federation's whole plan revolves around making a supercard-style shows with wrestlers from [PpW](@/o/ppw.md), [KPW](@/o/kpw.md) and [MZW](@/o/mzw.md), with some addition of workers who left [PTW](@/o/ptw.md) and don't make appearances anywhere else. The plan succeded, with LOW being the first place on the Polish wrestling scene history where KPW wrestlers worked against wrestlers from another Polish promotions, whereas the first cooperation between MZW and PpW took place [in 2023](@/e/2023-09-23-mzw_ppw-zadnych-granic.md).
+Legacy of Wrestling became the first professional wrestling promotion openly admitting to not intending on having their own talent. The federation's whole plan revolves around making a supercard-style shows with wrestlers from [PpW](@/o/ppw.md), [KPW](@/o/kpw.md) and [MZW](@/o/mzw.md), with some addition of workers who left [PTW](@/o/ptw.md) and don't make appearances anywhere else. The plan succeded, with LOW being the first place on the Polish wrestling scene history where KPW wrestlers worked against wrestlers from another Polish promotions, whereas the first cooperation between MZW and PpW took place [in 2023](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
 
 ## Championships
 
