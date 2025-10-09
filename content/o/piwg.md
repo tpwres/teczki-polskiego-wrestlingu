@@ -27,7 +27,7 @@ In addition to the people listed in the Roster section below, there were also: A
 
 It is known that at [Storm Over Pomerania](@/e/piwg/2008-08-10-piwg-storm-over-pomerania.md) the federation introduced the PIWG Pomerania Championship, which was won by Seraphim. He is the only known champion in the federation's history.
 
-### References
+## References
 
 * [Video: PIWG highlights](https://www.youtube.com/watch?v=Y_nbqih-e_U). According to the description, [Don Roid](@/w/don-roid.md) appeared in PIWG.
 * [Post by Kamil on Attitude Forum](https://forum.wrestling.pl/topic/11265-piwg-historia-przed-attitudepl/) about the early days of PIWG
