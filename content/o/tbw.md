@@ -14,7 +14,7 @@ manifest = "@/o/tbw-gallery.toml"
 
 Total Blast Wrestling was a short-lived organization created by [Andrzej Supron](@/w/andrzej-supron.md) and Paweł Borkowski, after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
 
-### History
+## History
 
 #### Before 2006: PPWF
 
