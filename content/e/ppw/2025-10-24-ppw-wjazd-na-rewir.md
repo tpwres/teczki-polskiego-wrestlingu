@@ -24,7 +24,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) is an upcoming show by [PpW Ewenem
 * On 25.09.2025 it was revealed that Bartosz Plata would team up with [Axel Fox](@/w/axel-fox.md) to take on the tag team of [Shadow](@/w/shadow.md) and the newcomer Antoni Ocean.
 * On 2.10.2025 [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to take part in a Zmowa Recruitment Gauntlet Match, in which he'll have to face an unspecified number of opponents looking to join  [Zmowa](@/tt/zmowa.md) by defeating the former [PpW Champion](@/c/ppw-championship.md).
 * On 4.10.2025 PpW announced an intergender match between [Agentka Agatka](@/w/agentka-agatka.md) and [Johnny Blade](@/w/johnny-blade.md), in a First Blood stipulation.
-* On 8.10.2025 PpW posted a [vide][smierdzace-gacie-joya] in which [Justin Joy](@/w/justin-joy.md) addressed [Vic Golden](@/w/vic-golden.md), making him an offer he can't refuse: Joy ("plus his stinking undies") and [Gabriel Queen](@/w/gabriel-queen.md) vs Vic and "anyone from his family: his momma, his old man, his auntie, his momma's auntie - or [Oskar](@/w/oskar-alexander.md)".
+* On 8.10.2025 PpW posted a [video][smierdzace-gacie-joya] in which [Justin Joy](@/w/justin-joy.md) addressed [Vic Golden](@/w/vic-golden.md), making him an offer he can't refuse: Joy ("plus his stinking undies") and [Gabriel Queen](@/w/gabriel-queen.md) vs Vic and "anyone from his family: his momma, his old man, his auntie, his momma's auntie - or [Oskar](@/w/oskar-alexander.md)".
 
 ## Predicted card
 
