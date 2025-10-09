@@ -12,11 +12,11 @@ compact_event_list = false
 manifest = "@/o/low-gallery.toml"
 +++
 
-Legacy of Wrestling is a Polish wrestling federation funded in 2024, based mainly in Katowice-area.
+Legacy of Wrestling is a Polish wrestling federation founded in 2024, based mainly in the Katowice area.
 
 ## History
 
-#### 2024: A new chapter
+### 2024: A new chapter
 
 _See also: [PTW Exits](@/a/ptw-exits.md)_
 
@@ -30,7 +30,7 @@ It then showed the Legacy logo and closed with [Sinister](@/w/sinister.md) singi
 
 On the 5th of September LOW [posted to Facebook][qa-post] stating that a live Q&A session would be held on YouTube in a few days, in order to answer people's questions, confirm certain theories and deny others. The document was signed "Pan Prezes" (_Mister Chairman_), harkening back (albeit unintentionally) to the early days of [KPW](@/o/kpw.md) when a mysterious "Mister Chairman" was often mentioned, but never actually seen.
 
-##### The live Q&A
+#### The live Q&A
 
 On 9.09.2024 LOW held a [live Q&A][live-qa-1] on YouTube hosted by [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), who anwsered questions asked by fans on Legacy's social media. The stream lasted around 75 minutes, during which ShowOff shared the following information:
 
@@ -63,7 +63,7 @@ On 9.09.2024 LOW held a [live Q&A][live-qa-1] on YouTube hosted by [Piotr "ShowO
 * The idea for Legacy of Wrestling began to take shape when first people [started leaving PTW](@/a/ptw-exits.md).
 * The abbreviation "LOW" will rarely be used, with "Legacy" being the official short name. "Legacy of Wrestling" was chosen in part jokingly, as they wanted people to have rather "LOW" expectations (unlike when PTW took off).
 
-##### The road to the first show
+#### The road to the first show
 
 On 25.09.2024 Legacy [posted to Facebook][fb-1st-show-date] revealing the date and location of the fist show: 1.12.2024, in the [Królestwo music club](@/v/krolestwo-katowice.md) in Katowice. In addition, a [short trailer][yt-1st-show-trailer] was posted to their YouTube channel, shot in the same location and starring the same people as the [reveal trailer][reveal-trailer].
 
@@ -87,9 +87,9 @@ In October 2024 Legacy started unveiling the wrestlers booked for the [first sho
 
 On November 11th, fans [spotted LOW][extreme-low-1] at the Extreme Sports Channel website - a long-time home to wrestling in Poland, which recently entered a partnership with [Prime Time Wrestling](@/o/ptw.md) to air their shows. The following day Legacy [officially confirmed][extreme-low-2] the deal, announcing that the channel became their official media partner and their [first show](@/e/low/2024-12-01-low-1.md) would air on Extreme Sports Channel a week after the event, on the 8th of December.
 
-#### 2025
+### 2025
 
-##### The second show
+#### The second show
 
 On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wrestling Vol. 2". A [trailer][low-2-trailer] for the show was published on 18.02.2025, along with an announcement of [another live Q&A][live-qa-3], which took place on 19.02.2025. Again, the Q&A was hosted by [ShowOff](@/w/piotr-malecki.md).
 
@@ -121,13 +121,13 @@ On 27.01.2025 Legacy [published a teaser image][low-2-teaser] for "Legacy of Wre
 * There might be another live Q&A before the show.
 * (There wasn't.)
 
-##### Excursion to Kraków
+#### Excursion to Kraków
 
 The [third show](@/e/low/2025-07-11-low-3.md) was officially announced in the early May. Instead of taking place in Katowice on a Sunday, this time the event was held on a Friday, the first day of the anime/manga convention Ryucon. Notably, Ryucon had previously seen shows by [Prime Time Wrestling](@/o/ptw.md) on [three](@/e/ptw/2022-07-31-ptw-x-ryucon.md) [consecutive](@/e/ptw/2023-07-16-ptw-x-ryucon.md) [years](@/e/ptw/2024-07-07-ptw-x-ryucon.md). However, following [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), PTW has seemingly fallen out of favour with the organisers of the convention, and Legacy was chosen in its stead. As it was with the PTW shows, Legacy attracted random con attendees in addition to the usual wrestling fans.
 
 Legacy of Wrestling vol. 3 was a proper LOW event counting towards the promotion's timeline, unlike eg. [PpW's](@/o/ppw.md) non-canonical shows such as [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md). The show featured the continuation of the Road to the Title series of matches started at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md), and the Legacy Championship was announced to be the main prize at the fourth show.
 
-##### The fourth show and Championship title
+#### The fourth show and Championship title
 
 The fourth show was announced on 30.09.2025 in a [Facebook post][low-4-fb], which also revealed the name of the event - [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md).
 
@@ -150,11 +150,11 @@ On 2.10.2025 [ShowOff](@/w/piotr-malecki.md) and [Wiktor D.](@/w/wiktor-longman.
 
 ## Polish wrestling scene
 
-Legacy of Wrestling became the first professional wrestling promotion openly admitting to not have a plan for creating their own talent. The federation's whole plan revolves around making a supercard-style shows with wrestlers from [PpW](@/o/ppw.md), [KPW](@/o/kpw.md) and [MZW](@/o/mzw.md), with some addition of workers, who left [PTW](@/o/ptw.md) and don't make appearances anywhere else. The plan succeded, with LoW being the first place in Polish wrestling scene history where KPW wrestlers worked against wrestlers from another Polish federations, while first cooperations between MZW and PpW took place in 2023.
+Legacy of Wrestling became the first professional wrestling promotion openly admitting to not intending on having their own talent. The federation's whole plan revolves around making a supercard-style shows with wrestlers from [PpW](@/o/ppw.md), [KPW](@/o/kpw.md) and [MZW](@/o/mzw.md), with some addition of workers who left [PTW](@/o/ptw.md) and don't make appearances anywhere else. The plan succeded, with LOW being the first place on the Polish wrestling scene history where KPW wrestlers worked against wrestlers from another Polish promotions, whereas the first cooperation between MZW and PpW took place [in 2023](@/e/2023-09-23-mzw_ppw-zadnych-granic.md).
 
 ## Championships
 
-Legacy's hinted that the federation will promote their own championship at multiple Q&A's, with a build-up for the final title match starting at LoW vol. 2. As of October 2025 it is known, that first "Legacy Champion" will be crowned at Legacy's fourth show.
+Legacy hinted that they will promote their own championship during multiple live Q&A videos, with a build-up for the final title match starting at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md). As of October 2025 it is known that the first Legacy champion will be crowned at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md).
 
 ## References
 
