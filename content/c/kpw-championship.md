@@ -261,4 +261,5 @@ Both defenses took place during events held by Bologna Wrestling Team.
 
 ## References
 
+* [Title history](https://kpwrestling.pl/kpw-championship/) on KPW's website
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
