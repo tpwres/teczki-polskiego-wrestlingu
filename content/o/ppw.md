@@ -15,14 +15,14 @@ manifest = "@/o/ppw-gallery.toml"
 PpW is a wrestling promotion from Warsaw. It styles itself as a fully independent, self-sufficient organization with no commercial affiliations.
 Their wrestling style used to rely heavily on hardcore and deathmatches, but it has since been toned down and other styles of wrestling are prominently featured. However, no-DQ is assumed for most matches, and its main events are still often hardcore bouts. Only the rare Classic Wrestling Match stipulation prohibits any weapons and interventions. PpW is visibly inspired by ECW, both in wrestling style, frequent use of chairs, tables and other weapons, relying on local talent and in revolving around adult-themed storylines.
 
-### Name
+## Name
 
 There was no canonical meaning of the PpW acronym, however recently it was repurposed to match "Piwo Przyjacielem Wrestlingu" (_Beer is Wrestling's Friend_).
 The official name is just "PpW Ewenement". The word _ewenement_ means something unique, special and not easily replicated, and could be translated as "phenomenon" or "anomaly".
 
 PpW initially used the terms "Hardcore Wrestling" or "Hybrid Wrestling", but began to use "Ewenement" in the late 2020. On 27.04.2022 they [introduced a new logo][ewenement-logo], which officially marks the beginning of "Ewenement Wrestling" as a part of the promotion's name.
 
-### History
+## History
 
 #### 2010: The backyard years
 
@@ -65,13 +65,13 @@ On the 28th December 2024 PpW launched their [official subscription-based VOD][p
 
 At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, further described in a [separate article](@/a/pm-shooter-saga.md).
 
-### Lost lore
+## Lost lore
 
 PpW used to have a Wikia page with detailed internal lore and history, including storied feuds, rankings, character backgrounds, past events and videos from the backyard era. This went defunct in 2023. The Internet Archive's Wayback Machine only had an [incomplete version](https://web.archive.org/web/20230422172700/https://ppwofficial.fandom.com/pl/wiki/PPW) available. Snippets could be found in cached results on Google when searching for certain related terms, but most of it was lost.
 
 That wiki was located at `ppwofficial.fandom.com` (and `ppwofficial.wikia.com` earlier before the renaming).
 
-#### Restored!
+### Restored!
 
 In March 2024 it has been restored from a backup, in a text-only form, and can be found at [ppw-fandom.tpwres.pl](https://ppw-fandom.tpwres.pl/). It's preserved as-is, with no editing capability, using a basic Wikipedia-like template. While a part of Teczki, since both share a domain, it's treated as an archived publication, made available on the Internet once again.
 
@@ -100,9 +100,9 @@ However, since the Prime Time Transfers era, PpW has enough roster members, and 
 
 ## Polish wrestling scene
 
-In their backyard era, PpW were always well connected with the other organizations, and appearing on each other's events. The best documented example on hand is [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), which featured three PpW wrestlers.
+In their backyard era, PpW were always well connected with the other non-professional organizations, and appearing on each other's events. The best documented example on hand is [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), which featured three PpW wrestlers.
 
-As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization.
+As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization. 
 After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
 
 ## Mainstream media
@@ -125,6 +125,8 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
   - >
     [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
 {% end %}
+
+Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes with PpW Championship, which was created in those era, but it does not share its history into the backyard era, thus meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
 
 ## Internet presence
 
