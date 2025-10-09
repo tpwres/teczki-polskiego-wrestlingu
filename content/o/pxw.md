@@ -9,12 +9,26 @@ chrono_root = ["pxw"]
 1 = { path = "pxw-logo.png", caption = "PXW logo.", source = "Polish Backyard Archives @ YouTube" }
 +++
 
-Polish Xtreme Wrestling was a backyard group (later registered as a sports club) from Głuchołazy, where wrestlers such as [Szymon Siwiec](@/w/szymon-siwiec.md) and especially [Shadow](@/w/shadow.md) got their start.
+Polish Xtreme Wrestling was a backyard group (later registered as a sports club) from Głuchołazy. It was active between 2011 and 2013.
 
-The group was active between 2011 and 2013, and could only hold events in spring and summer, due to using a makeshift, outdoors ring.
+## History
+
+The group was active between 2011 and 2013, and could only hold events in spring and summer, due to using a makeshift, outdoors ring. It was a federation where wrestlers such as [Szymon Siwiec](@/w/szymon-siwiec.md) and especially [Shadow](@/w/shadow.md) got their start.
 Most, if not all, PXW shows were held in the {{ map_pin(v="Grunwaldzka 5") }}back yard of Terry Shadow's home at the time. According to the article by Nowa Trybuna Opolska, their ring was built following instructions found online, and used old tires to add spring to the floor, while the ring ropes were made of cheap manila rope.
 
 The biggest event held by PXW was [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow which featured wrestlers from many other backyard organizations active in Poland at the time.
+
+## Championships 
+
+PXW promoted a number of championships. All of them were a toy replicas of WWE Championships
+
+The championships promoted by PXW were:
+- PXW Championship
+- PXW Tag Team Championship
+- ECW Championship
+- PXW Hardcore Championship
+
+## Other Media
 
 In early 2013, a popular Polish hip-hop artist O.S.T.R. released a [music video][ostry] featuring PXW wrestlers, such as [Manny](@/w/manny.md), [Black Joker](@/w/lider.md), [Terry Shadow](@/w/shadow.md), [Mr. Fitness](@/w/szymon-siwiec.md) and others.
 
