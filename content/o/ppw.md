@@ -126,7 +126,7 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
     [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
 {% end %}
 
-Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes with PpW Championship, which was created in those era, but it does not share its history into the backyard era, thus meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
+Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
 
 ## Internet presence
 
