@@ -13,6 +13,9 @@ manifest = "@/o/wksw-gallery.toml"
 +++
 
 WKSW was a backyard group active between 2010 and 2014, from a town named Wołów, located about 50&nbsp;km northwest of Wrocław.
+
+## History
+
 Starting out as WFW (Wołowska Federacja Wrestlingu, _Wołów Wrestling Federaion_), the group was formed by three friends fascinated by wrestling, staging fights on mattresses, initially without any training.
 As the group grew, drawing in other teenagers sharing their love for wrestling, they were able to pool their resources to book time in a sports hall to train and stage their shows.
 Later, after fulfilling some legal requirements, the group registered as a sports club, prompting the name change to Wrestlingowy Klub Sportowy Wołów (_Wrestling Sports Club Wołów_).

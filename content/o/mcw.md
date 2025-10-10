@@ -2,7 +2,7 @@
 title = "Mine City Wrestling"
 weight = 0
 template = "org_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 3
 compact_event_list = true
@@ -35,6 +35,10 @@ The roster was never big, but some of their former trainees and wrestlers were r
 Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md), [Marcelito](@/w/marcelito.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Sinister](@/w/sinister.md), who wrestled for MCW as David Sirch.
 
 In addition to the events listed below, MCW also held two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie.
+
+## Polish wrestling scene
+
+MCW is not involved in any cooperations on the Polish wrestling scene. Their only influence on the scene were a few ex-MCW wrestlers and trainees who joined PTW (and later moved to other federations), and information revealed by [Piotr Małecki](@/w/piotr-malecki.md), one of the owners of [Legacy of Wrestling](@/o/low.md), about failed ring rental negotiations. None of the current MCW talent is known to train in any of the wrestling schools in Poland, and the federation is seemingly isolated from the rest of the scene.
 
 ## Championships
 

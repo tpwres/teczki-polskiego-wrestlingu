@@ -11,6 +11,8 @@ toclevel = 3
 manifest = "@/o/ptw-gallery.toml"
 +++
 
+Prime Time Wrestling is a Polish wrestling organisation founded in 2021 in Silesia. Initially operating at Chorzów, PTW later moved to a nearby village of Kozłów.
+
 ## History
 
 ### The 2021 launch
@@ -208,7 +210,7 @@ PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/
 Talent were strictly prohibited from appearing in any other Polish rings, and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-exits.md), where the talent wanted to have more freedom and be able to take bookings from other Polish organizations.
-This is similar to KPW's pre-[2024](@/e/low/2024-12-01-low-1.md) approach. Fans theorize that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and DDW.
+This is similar to KPW's pre-[2024](@/e/low/2024-12-01-low-1.md) approach. Fans theorise that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and MZW.
 
 Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled ["The Whole Truth About Polish Wrestling"][pawłowski-najman-zero], which prompted further controversy on the Polish scene. Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he is the only professional one, acknowledging the competition but calling them "more or less amateur projects". This prompted an impassioned response from the ex-wrestler and current [KPW](@/o/kpw.md) promoter [Piękny Kawaler](@/w/piekny-kawaler.md), who made a lengthy Facebook post addressing the remarks. Kawaler claimed that Pawłowski was fired from KPW due to being a self-centered mark, focusing on promoting his own persona instead of team effort. He said that the current state of PTW is more resembling of a backyard than a professional wrestling federation. The post got a lot of agreeing comments and reactions from Polish wrestlers and wrestling personnel, current and former, from all sides of the Polish scene: [David Oliwa](@/w/david-oliwa.md), [Bianca](@/w/bianca.md), [Olgierd](@/w/olgierd.md), [Boro](@/w/boro.md), [Eryk Lesak](@/w/eryk-lesak.md), [Referee Seweryn](@/w/sedzia-seweryn.md), [Michał Fux](@/w/michal-fux.md), [Chris Hunter](@/w/chris-hunter.md), [Rafael Kid](@/w/rafael-kid.md), [Osamu](@/w/osamu.md), [Samson](@/w/samson.md), [Rob Scaffold](@/w/rob-scaffold.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Taras](@/w/taras.md), [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Bartosz Plata](@/w/plata.md), [Iskra](@/w/iskra.md), [Zefir](@/w/zefir.md), [Arek Paterek](@/w/arek-paterek.md), [ShowOff](@/w/piotr-malecki.md), [Shadow](@/w/shadow.md), [Jacob Crane](@/w/jacob-crane.md), [Rosetti](@/w/rosetti.md), [Marco Hammers](@/w/marco-hammers.md), [Vic Golden](@/w/vic-golden.md), [Goblin](@/w/goblin.md), [Ron Corvus](@/w/ron-corvus.md), [Jakub Linde](@/w/jakub-linde.md), [Łukasz Baliński](@/w/lukasz-balinski.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Klarys](@/w/klarys.md), [Piotr Opolski](@/w/piotr-opolski.md), [Tomczak](@/w/tomczak.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md) and [Kamil Aleksander](@/w/kamil-aleksander.md).
 
@@ -226,7 +228,7 @@ This, however, was only a short-lived storyline angle lacking any real payoff, l
 
 In 2022, PTW entered into collaboration with Austrian wrestler [Krampus](@/w/krampus.md) and his new organization, World Wrestling Austria.
 It was quickly renamed to _PTW:WWA_ and became a de facto "sister federation" ran by Krampus with assistance from Pawłowski.
-This cooperation allowed PTW talent to be booked at the PTW:WWA show on 2024-01-05.
+This cooperation allowed PTW talent to be booked at the two PTW:WWA shows in late 2023 and early 2024, before the Austrian federation folded.
 See the [Expansion into Austria](#expansion-into-austria) section above.
 
 PTW also entered a deal with British Revolution Wrestling (BWR), which allowed BWR Champion [Scotty Rawk](@/w/scotty-rawk.md) to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed, on a [livestream][live-istota-puncher] by Istota Wrestlingu, that the deal is still on.
@@ -248,6 +250,9 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - 'Defeated ["Starboy" Nano Lopez](@/w/nano-lopez.md) at [PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) for the vacated title.'
+- - "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
+  - '[Mercedes Moné](@/w/mercedes-mone.md)'
+  - Defeated [Diana Strong](@/w/diana-strong.md) at [PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) to become inagural champion.
 {% end %}
 
 ## Other media

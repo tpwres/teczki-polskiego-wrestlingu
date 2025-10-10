@@ -20,8 +20,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
   * Active:
     - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - Owner, Head and Promo Coach (2021-)
     - [Nano Lopez](@/w/nano-lopez.md) - Coach (2021-)
-    - [Renegade](@/w/renegade.md) - Guest Coach (2022-)
-    - [Krampus](@/w/krampus.md) - Guest Coach (2022-)
+    - [Diana Strong](@/w/diana-strong.md) - Coach (2024-)
   * Former:
     - [Taras](@/w/taras.md) - Coach (2022 - 2024)
     - [Disco Pablo](@/w/disco-pablo.md) - Assistant Coach (2022 - 2024)
@@ -31,6 +30,8 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
     - [Gracjan Korpo](@/w/gracjan-korpo.md) - Coach (2021)
     - [Joe E. Legend](@/w/joe-legend.md) - Guest Coach (2021 - 2022)
     - [John Klinger](@/w/bad-bones.md) - Guest Coach (2022 - 2023)
+    - [Renegade](@/w/renegade.md) - Guest Coach (2022-2024)
+    - [Krampus](@/w/krampus.md) - Guest Coach (2022-2024)
   * Seminary hosts:
     - [Santino Marella](@/w/santino.md) (2021 - 2022)
     - Chris Masters (Feb 2022)
@@ -45,13 +46,13 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
 
 * [Puncher](@/w/puncher.md)
 * [Marcelito](@/w/marcelito.md)
+* Arczi Czajka
 * [Marco Hammers](@/w/marco-hammers.md)
 * [Disco Pablo](@/w/disco-pablo.md)
 * [Taras](@/w/taras.md)
 * [Syriusz Dziedzic](@/w/dziedzic.md)
 * [Sinister](@/w/sinister.md)
 * [Samson](@/w/samson.md)
-* Arczi Czajka
 * [Wiktor Longman](@/w/wiktor-longman.md)
 * [Spartan](@/w/spartan.md)
 * [El Ogre](@/w/olgierd.md)
@@ -63,6 +64,10 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
 * [Miyagi Shida](@/w/miyagi-shida.md)
 * [TAXI Złotówa](@/w/taxi-zlotowa.md)
 * [Remo](@/w/remo.md)
+* [Referee Herno](@/w/sedzia-herno.md)
+* [Sigma Boy XD](@/w/sigma-boy.md)
+* [Daniel Razor](@/w/daniel-razor.md)
+* [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)
 
 ## History
 

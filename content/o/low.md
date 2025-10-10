@@ -1,7 +1,7 @@
 +++
 title = "Legacy of Wrestling"
 weight = 1
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Sewi The Referee"]
 template = "org_page.html"
 [taxonomies]
 chrono_root = ["low"]
@@ -11,6 +11,8 @@ compact_event_list = false
 [extra.gallery]
 manifest = "@/o/low-gallery.toml"
 +++
+
+Legacy of Wrestling is a Polish wrestling federation founded in 2024, based mainly in the Katowice area.
 
 ## History
 
@@ -145,6 +147,14 @@ On 2.10.2025 [ShowOff](@/w/piotr-malecki.md) and [Wiktor D.](@/w/wiktor-longman.
 * Special limited T-shirts with "Legacy of Wrestling √16" logo are available through the ticketing website KupBilecik.pl only.
 * They would want to return to Ryucon in 2026.
 * There'll be another live Q&A.
+
+## Polish wrestling scene
+
+Legacy of Wrestling became the first professional wrestling promotion openly admitting to not intending on having their own talent. The federation's whole plan revolves around making a supercard-style shows with wrestlers from [PpW](@/o/ppw.md), [KPW](@/o/kpw.md) and [MZW](@/o/mzw.md), with some addition of workers who left [PTW](@/o/ptw.md) and don't make appearances anywhere else. The plan succeded, with LOW being the first place on the Polish wrestling scene history where KPW wrestlers worked against wrestlers from another Polish promotions, whereas the first cooperation between MZW and PpW took place [in 2023](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
+
+## Championships
+
+Legacy hinted that they will promote their own championship during multiple live Q&A videos, with a build-up for the final title match starting at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md). As of October 2025 it is known that the first Legacy champion will be crowned at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md).
 
 ## References
 

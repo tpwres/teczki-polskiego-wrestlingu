@@ -11,7 +11,11 @@ chrono_root = ["bwd"]
 manifest = "@/o/bwd-gallery.toml"
 +++
 
-Backyard Wrestling Division was a backyard group from Chrzanów, founded in March 2003 by Vamp, Lef and Kidmanek (A.K.A. Kid Crusher). At first it was called Hardcore Wrestling Division, but changed its name to BWD at some point between April and July 2003, according to surviving snapshots on Archive.org. The same source also suggests that BWD quietly shut down at some point in mid-2004. Despite the official starting date being given as March 2003, two events are known to have taken place at an earlier time. BWD planned to hold monthly shows, but this didn't pan out.
+Backyard Wrestling Division was a backyard group from Chrzanów, active from around 2003 to mid-2004. Initially, it was also called Hardcore Wrestling Division.
+
+## History
+
+Backyard Wrestling Division was founded in March 2003 in Chrzanów by Vamp, Lef and Kidmanek (A.K.A. Kid Crusher). At first it was called Hardcore Wrestling Division, but changed its name to BWD at some point between April and July 2003, according to surviving snapshots on Archive.org. The same source also suggests that BWD quietly shut down at some point in mid-2004. Despite the official starting date being given as March 2003, two events are known to have taken place at an earlier time. BWD planned to hold monthly shows, but this didn't pan out.
 
 According to a comment posted to the WrestleFans forum by user Przemk0, BWD recorded four shows, of which two were made public. This appears to only include the BWD shows, not the earlier HWD ones.
 As of May 2025, only the first event is known to have survived and be available online.
@@ -23,6 +27,10 @@ There was supposed to be a series of shows called "Househorror". They were meant
 One more event was tentatively announced - a "different" show called "GNIEW" (_Anger_, or _Wrath_), but no further details are known.
 
 BWD's motto, as seen on their webstite, was "We got bigger balls than brain" (later changed to Polish "Mamy większe jaja niż mózgi", meaning the same thing). After the group disbanded, everyone involved seemingly retired from wrestling.
+
+## Championships
+
+From information salvaged from Archive.org, it is known that the federation promoted at least one championship called HWD Championship, which later was renamed to BWD Championship. The inaugural and sole archived champion was Vampirro (AKA Vamp). It is known that he won it at [Dzień Tortur](@/e/bwd/2003-02-01-bwd-dzien-tortur.md) and sucessfully defended it at [BWD unnamed show](@/e/bwd/2003-07-25-bwd-1.md).
 
 ### References
 

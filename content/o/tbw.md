@@ -14,7 +14,7 @@ manifest = "@/o/tbw-gallery.toml"
 
 Total Blast Wrestling was a short-lived organization created by [Andrzej Supron](@/w/andrzej-supron.md) and Paweł Borkowski, after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
 
-### History
+## History
 
 #### Before 2006: PPWF
 
@@ -60,7 +60,7 @@ The ticket prices alone weren't enough to cover both production costs and inviti
 On MyWrestling's MyCast podcast, Borkowski later revealed the organization's unfulfilled plans: signing a deal with Orange Sport, which was a general sports-themed TV channel whose programming also included wrestling. The channel was to sponsor and broadcast future events.
 Nothing came out of this, because the deal fell through due to the channel changing hands. Orange Sport went defunct in 2016.
 
-### References
+## References
 
 * [Mywrestling's History of Polish Wrestling, part 1](https://mywrestling.com.pl/historia-polskiego-wrestlingu-1-supronstars-gala-w-torwarze-ppwf/)
 * [Mywrestling's History of Polish Wrestling, part 3](https://mywrestling.com.pl/historia-polskiego-wrestlingu-3-total-blast-wrestling/)
