@@ -19,7 +19,7 @@ PIWG officially started in August 2007, however they held trainings as early as 
 
 According to Kamil, PIWG had guest performers from other Polish cities, such as Kraków and Szczecin, and even got some positive feedback from Germany and USA. PIWG is probably best known for being the place where people like Kamil Aleksander or [Asmund](@/w/asmund.md) first tried wrestling.
 
-PIWG have since deleted their videos from YouTube, so the only few surviving materials are reuploads by other people. According to a [list of published videos][atti-wydane-filmiki] posted to Attitude Forum by Kamil, the earliest PIWG shows (held on unknown dates) were called PIWG Without Fear and PIWG Goes Hardcore. In 2009, PIWG was eventually shut down after owner and coach left to join [Do Or Die Wrestling](@/o/ddw.md).
+PIWG have since deleted their videos from YouTube, so the only few surviving materials are reuploads by other people. According to a [list of published videos][atti-wydane-filmiki] posted to Attitude Forum by Kamil, the earliest PIWG shows (held on unknown dates) were called PIWG Without Fear and PIWG Goes Hardcore. In 2009, PIWG was eventually shut down after the owner and coach left to join [Do Or Die Wrestling](@/o/ddw.md).
 
 In addition to the people listed in the Roster section below, there were also: Andrzej, Dominguezz, Evolution, Hellraiser, Scizor, Shogun and Soldat. One source claims that [Don Roid](@/w/don-roid.md) also used to fight in PIWG, however this information could not be corroborated and is likely a mistake. 
 
