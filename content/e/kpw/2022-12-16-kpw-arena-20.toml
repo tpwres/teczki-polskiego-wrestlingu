@@ -1,0 +1,7 @@
+0 = { path = "2022-12-16-kpw-arena-20-plakat.jpg", caption = "Official poster, prominently featuring announcer [Kinga Miotke](@/w/kinga-miotke.md). The large window panels contain [Rosetti](@/w/rosetti.md) and [Greg](@/w/greg.md), and the smaller figures below them are [Veit Müller](@/w/veit-mueller.md) and [Hans Schulte](@/w/hans-schulte.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+1 = { path = "zefir-vs-eryk-lesak.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
+2 = { path = "rosetti-vs-darius.webp", caption = "Image announcing [Rosetti](@/w/rosetti.md) vs [Darius](@/w/darius.md).", source = "Official KPW Facebook" }
+3 = { path = "greg-vs-leon-lato.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
+4 = { path = "chemik-vs-david-oliwa.webp", caption = "Image announcing [Chemik](@/w/chemik.md) vs [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+5 = { path = "die-ordnung-vs-bracia-fux.webp", caption = "Image announcing [Veit Müller](@/w/veit-mueller.md) & [Hans Schulte](@/w/hans-schulte.md) vs [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md).", source = "Official KPW Facebook" }
+6 = { path = "krystian-malinowski.webp", caption = "Image announcing a Christmas lottery with [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "Official KPW Facebook" }
