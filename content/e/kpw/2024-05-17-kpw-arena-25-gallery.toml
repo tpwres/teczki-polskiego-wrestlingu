@@ -1,11 +1,6 @@
-01 = { path = "2024-05-17-kpw-arena-25-plakat.jpg", caption = "Official poster, showing [Chemik](@/w/chemik.md)'s bald head with a barcode.", source = "kpwrestling.pl / Official KPW Facebook" }
-02 = { path = "michał-fux-vs-martn-pain.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs Martn Pain.", source = "Official KPW Facebook" }
-03 = { path = "eryk-lesak-vs-gulyas-ocsi.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Gulyás Öcsi](@/w/gulyas-ocsi.md).", source = "Official KPW Facebook" }
-04 = { path = "filip-fux-vs-greg.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs [Greg](@/w/greg.md).", source = "Official KPW Facebook" }
-05 = { path = "david-oliwa-vs-louis-basham.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs Louis Basham.", source = "Official KPW Facebook" }
-06 = { path = "rosetti-vs-chemik-vs-zefir-vs-leon-lato.webp", caption = "Image announcing [Rosetti](@/w/rosetti.md) vs [Chemik](@/w/chemik.md) vs [Zefir](@/w/zefir.md) vs [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
-11 = { path = "chemik_hitman.jpg", caption = "[Chemik](@/w/chemik.md) opening the show in his Hitman-like suit.", source = "Krzysztof Zych"}
-12 = { path = "gulyas-lesak.jpg", caption = "[Gulyás Öcsi](@/w/gulyas-ocsi.md) taunting [Lesak](@/w/eryk-lesak.md).", source = "Krzysztof Zych" }
-13 = { path = "louis-basham.jpg", caption = "English wrestler [Louis Basham](@/w/louis-basham.md).", source = "Krzysztof Zych" }
-14 = { path = "martn_pain.jpg", caption = "Austrian wrestler Martn Pain.", source = "Krzysztof Zych" }
-15 = { path = "outside.jpg", caption = "[Chemik](@/w/chemik.md), [Leon Lato](@/w/leon-lato.md), [Rosetti](@/w/rosetti.md) laid out at ringside, [Zefir](@/w/zefir.md) getting up.", source = "Krzysztof Zych"}
+1 = { path = "2024-05-17-kpw-arena-25-plakat.jpg", caption = "Official poster, showing [Chemik](@/w/chemik.md)'s bald head with a barcode.", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "chemik_hitman.jpg", caption = "[Chemik](@/w/chemik.md) opening the show in his Hitman-like suit.", source = "Krzysztof Zych"}
+3 = { path = "gulyas-lesak.jpg", caption = "[Gulyás Öcsi](@/w/gulyas-ocsi.md) taunting [Lesak](@/w/eryk-lesak.md).", source = "Krzysztof Zych" }
+4 = { path = "louis-basham.jpg", caption = "English wrestler [Louis Basham](@/w/louis-basham.md).", source = "Krzysztof Zych" }
+5 = { path = "martn_pain.jpg", caption = "Austrian wrestler Martn Pain.", source = "Krzysztof Zych" }
+6 = { path = "outside.jpg", caption = "[Chemik](@/w/chemik.md), [Leon Lato](@/w/leon-lato.md), [Rosetti](@/w/rosetti.md) laid out at ringside, [Zefir](@/w/zefir.md) getting up.", source = "Krzysztof Zych"}
