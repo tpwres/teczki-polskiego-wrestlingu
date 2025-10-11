@@ -1,8 +1,13 @@
 1 = { path = "2024-11-15-kpw-arena-26-plakat.jpg", caption = "Official poster. Pictured left to right, top to bottom: [Hans Schulte](@/w/hans-schulte.md) & [Filip Fux](@/w/filip-fux.md); [Michał Fux](@/w/michal-fux.md); [Chemik](@/w/chemik.md) & [Rosetti](@/w/rosetti.md); [Eryk Lesak](@/w/eryk-lesak.md); [Red Scorpion](@/w/red-scorpion.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-2 = { path = "2024-11-15-kpw-arena-26-photo-0.jpg", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opening the event.", source = "Ville Paananen" }
-3 = { path = "2024-11-15-kpw-arena-26-photo-1.jpg", caption = "[Filip Fux](@/w/filip-fux.md) makes his entrance, while a fan displays the Fux Brothers flag, last seen at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)", source = "M3n747" }
-4 = { path = "2024-11-15-kpw-arena-26-photo-2.jpg", caption = "[David Oliwa](@/w/david-oliwa.md) in his new outfit, reminiscent of [Masaki Sumitani](https://en.wikipedia.org/wiki/Masaki_Sumitani).", source = "M3n747" }
-5 = { path = "2024-11-15-kpw-arena-26-photo-3.jpg", caption = "Fork found by referee Krystian Czekaj in David Oliwa's boot.", source = "M3n747" }
-6 = { path = "2024-11-15-kpw-arena-26-photo-4.jpg", caption = "[Rosetti](@/w/rosetti.md) attacks Greg as he was disrobing, before [Krystian Czekaj](@/w/krystian-czekaj.md) called for the opening bell.", source = "M3n747" }
-7 = { path = "2024-11-15-kpw-arena-26-photo-5.jpg", caption = "Krystian Malinowski carried out on a stretcher by medical staff.", source = "M3n747" }
-8 = { path = "2024-11-15-kpw-arena-26-photo-6.jpg", caption = "[Hans Schulte](@/w/hans-schulte.md) holding up Red Scorpion's mask and his [KPW Championship](@/c/kpw-championship.md).", source = "M3n747" }
+2 = { path = "filip-fux-vs-eryk-lesak.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
+3 = { path = "rosetti-vs-greg.webp", caption = "Image announcing [Rosetti](@/w/rosetti.md) vs [Greg](@/w/greg.md).", source = "Official KPW Facebook" }
+4 = { path = "leon-lato-vs-david-oliwa.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+5 = { path = "michał-fux-vs-chemik.webp", caption = "Image announcing [Chemik](@/w/chemik.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Official KPW Facebook" }
+6 = { path = "hans-schulte-vs-red-scorpion.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs [Red Scorpion](@/w/red-scorpion.md).", source = "Official KPW Facebook" }
+11 = { path = "2024-11-15-kpw-arena-26-photo-0.jpg", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opening the event.", source = "Ville Paananen" }
+12 = { path = "2024-11-15-kpw-arena-26-photo-1.jpg", caption = "[Filip Fux](@/w/filip-fux.md) makes his entrance, while a fan displays the Fux Brothers flag, last seen at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)", source = "M3n747" }
+13 = { path = "2024-11-15-kpw-arena-26-photo-2.jpg", caption = "[David Oliwa](@/w/david-oliwa.md) in his new outfit, reminiscent of [Masaki Sumitani](https://en.wikipedia.org/wiki/Masaki_Sumitani).", source = "M3n747" }
+14 = { path = "2024-11-15-kpw-arena-26-photo-3.jpg", caption = "Fork found by referee Krystian Czekaj in David Oliwa's boot.", source = "M3n747" }
+15 = { path = "2024-11-15-kpw-arena-26-photo-4.jpg", caption = "[Rosetti](@/w/rosetti.md) attacks Greg as he was disrobing, before [Krystian Czekaj](@/w/krystian-czekaj.md) called for the opening bell.", source = "M3n747" }
+16 = { path = "2024-11-15-kpw-arena-26-photo-5.jpg", caption = "Krystian Malinowski carried out on a stretcher by medical staff.", source = "M3n747" }
+17 = { path = "2024-11-15-kpw-arena-26-photo-6.jpg", caption = "[Hans Schulte](@/w/hans-schulte.md) holding up Red Scorpion's mask and his [KPW Championship](@/c/kpw-championship.md).", source = "M3n747" }
