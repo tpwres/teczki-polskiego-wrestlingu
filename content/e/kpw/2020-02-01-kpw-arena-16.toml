@@ -1,0 +1,6 @@
+1 = { path = "2020-02-01-kpw-arena-16-polowanie-plakat.jpg", caption = "Official poster, showing [Primate](@/w/primate.md) and [Wild Boar](@/w/wild-boar.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "the-hunt-vs-rosetti-sawicki.webp", caption = "Image announcing [Primate](@/w/primate.md) & [Wild Boar](@/w/wild-boar.md) vs [Rosetti](@/w/rosetti.md) & [Sawicki](@/w/sawicki.md).", source = "Official KPW Facebook" }
+3 = { path = "bianca-vs-diana-rega.webp", caption = "Image announcing [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md).", source = "Official KPW Facebook" }
+4 = { path = "eryk-lesak-vs-daniel-boza.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Daniel Boza](@/w/mutant.md).", source = "Official KPW Facebook" }
+5 = { path = "david-oliwa-vs-martn-pain.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs Martn Pain.", source = "Official KPW Facebook" }
+6 = { path = "greg-vs-opol.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Piotr Opolski](@/w/piotr-opolski.md).", source = "Official KPW Facebook" }
