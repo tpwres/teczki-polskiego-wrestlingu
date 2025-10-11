@@ -10,7 +10,6 @@ venue=["nowy-harem"]
 city = "Gdynia"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2023-08-18-kpw-godzina-zero-2023-plakat.jpg", caption = "Official poster, featuring Iestyn Rees with a clock.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 Godzina Zero (_Zero Hour_) 2023 was KPW's sixth annual supershow, held since 2016. It also returned the show to its usual date in the middle of August, rather than September like the 2022 edition. The event took place in [Klub Nowy Harem](@/v/atlantic-nh-gdynia.md), like all recent KPW shows.
