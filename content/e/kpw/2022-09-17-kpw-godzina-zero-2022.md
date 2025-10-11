@@ -8,10 +8,7 @@ venue=["nowy-harem"]
 [extra]
 city = "Gdynia"
 toclevel = 2
-[extra.gallery.1]
-path = "2022-09-17-kpw-godzina-zero-2022-plakat.jpg"
-caption = "Official poster. With [Greg](@/w/greg.md) in the background, the characters from left to right, top to bottom are: [David Oliwa](@/w/david-oliwa.md), Primate, Wild Boar, [Darius](@/w/darius.md), [Chemik](@/w/chemik.md), [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), and the masked [Zefir](@/w/zefir.md)."
-source = "kpwrestling.pl / Official KPW Facebook"
+[extra.gallery]
 +++
 
 2022's Godzina Zero (_Zero Hour_), the flagship supershow of the year, was unusually held in September, not August. It was the first Godzina Zero to be held since 2019, due to the COVID-19 pandemic. As was now the tradition, the show had multiple foreign guests, and featured all current champions defending their titles. This year, the Magnificent Seven Ladder Match was replaced with a 15-man battle royal, for the same contract to challenge for any of the titles.
@@ -27,7 +24,8 @@ The foreign guests for the event were:
 ## Build-up
 
 * The KPW Championship belt was vacated in 2021 when current champion [Robert Star](@/w/robert-star.md) left KPW to join PTW. Arenas 18 and 19 held matches between four wrestlers selected by Chairman Krystian Malinowski. The final 2 would face each other on this event.
-* In a [Facebook post](https://www.facebook.com/events/393729466203534/?post_id=412536367656177), KPW announced that Wild Boar, one half of current KPW Tag Team Champions, is unable to attend due to injury. As a result, the championship was officially vacated, and his replacement was to be revealed soon.
+* In a [Facebook post][dzika-nie-bedzie], KPW announced that Wild Boar, one half of current KPW Tag Team Champions, is unable to attend due to injury. As a result, the championship was officially vacated, and his replacement was to be revealed soon.
+* [David Oliwa](@/w/david-oliwa.md) vs [Greg](@/w/greg.md) was initially announced as a Singles Match. Later it was upgraded to a Three Stages of Hell stipulation.
 
 ## Card
 
@@ -92,3 +90,5 @@ The foreign guests for the event were:
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=350960)
 * [Full event on YouTube](https://www.youtube.com/watch?v=H3LgDQxFTZg)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2022/)
+
+[dzika-nie-bedzie]: https://www.facebook.com/events/393729466203534/?post_id=412536367656177

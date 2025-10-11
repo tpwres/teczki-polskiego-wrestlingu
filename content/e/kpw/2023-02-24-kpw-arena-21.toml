@@ -1,0 +1,6 @@
+1 = { path = "2023-02-24-kpw-arena-21-plakat.jpg", caption = "Official poster. Left to right: [Michał Fux](@/w/michal-fux.md), [Zefir](@/w/zefir.md) and [Filip Fux](@/w/filip-fux.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "die-ordnung-vs-leon-lato-zefir.webp", caption = "Image announcing [Veit Müller](@/w/veit-mueller.md) & [Hans Schulte](@/w/hans-schulte.md) vs [Leon Lato](@/w/leon-lato.md) & [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
+3 = { path = "david-oliwa-vs-eryk-lesak.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
+4 = { path = "michał-fux-vs-chemik.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Chemik](@/w/chemik.md).", source = "Official KPW Facebook" }
+5 = { path = "dom-taylor-vs-rosetti.webp", caption = "Image announcing Dom Taylor vs [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
+6 = { path = "greg-vs-shigehiro-irie.webp", caption = "Image announcing [Greg](@/w/greg.md) vs Shigehiro Irie.", source = "Official KPW Facebook" }
