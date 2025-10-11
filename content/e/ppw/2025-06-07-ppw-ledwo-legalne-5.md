@@ -3,7 +3,7 @@ title = "PpW Ledwo Legalne 5"
 template = "event_page.html"
 authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "ledwo-legalne"]
 venue=["minska-65"]
 [extra]
 city = "Warszawa"
