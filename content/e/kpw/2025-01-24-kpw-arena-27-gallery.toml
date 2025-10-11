@@ -1,12 +1,17 @@
 0000 = { path = "2025-01-24-kpw-arena-27-plakat.jpg", caption = "Official poster, featuring [Rosetti](@/w/rosetti.md).", source = "m.fotografika" }
-0001 = { path = "arena-27-rosetti-entrance.webp", caption = "[Rosetti's](@/w/rosetti.md) entrance.", source = "m.fotografika" }
-0002 = { path = "arena-27-kinga-entrance.webp", caption = "[Kinga's](@/w/kinga-miotke.md) entrance.", source = "m.fotografika" }
-0003 = { path = "arena-27-acting-chairman-rosetti.webp", caption = "Acting chairman [Rosetti](@/w/rosetti.md) opens the show.", source = "M3n747" }
-0004 = { path = "arena-27-kinga-1.webp", caption = "The new referee, [Kinga](@/w/kinga-miotke.md).", source = "Krzysztof Zych" }
-0005 = { path = "arena-27-guess-whos-back.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) is back and looking sharp.", source = "m.fotografika" }
-0006 = { path = "arena-27-opol.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) steps back into the ring after a long break.", source = "Krzysztof Zych" }
-0007 = { path = "arena-27-rosetti-kinga-opol.webp", caption = "[Rosetti](@/w/rosetti.md) talks to the crowd, while referee [Kinga](@/w/kinga-miotke.md) and [Piotr Opolski](@/w/piotr-opolski.md) wait to the side.", source = "M3n747" }
-0008 = { path = "arena-27-kinga-2.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) at the ready.", source = "Krzysztof Zych" }
+0001 = { path = "filip-fux-vs-david-oliwa-vs-michał-fux.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs [David Oliwa](@/w/david-oliwa.md) vs [Michał Fux](@/w/michal-fux.md).", source = "Official KPW Facebook" }
+0002 = { path = "eryk-lesak-vs-leon-lato.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
+0003 = { path = "zefir-vs-callum-beck.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Callum Beck](@/w/callum-beck.md).", source = "Official KPW Facebook" }
+0004 = { path = "greg-vs-rosetti-tomczak.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Rosetti](@/w/rosetti.md) & [Tomczak](@/w/tomczak.md).", source = "Official KPW Facebook" }
+0005 = { path = "chemik-vs-michael-schenkenberg.webp", caption = "Image announcing [Chemik](@/w/chemik.md) vs Michael Schenkenberg.", source = "Official KPW Facebook" }
+0010 = { path = "arena-27-rosetti-entrance.webp", caption = "[Rosetti's](@/w/rosetti.md) entrance.", source = "m.fotografika" }
+0011 = { path = "arena-27-kinga-entrance.webp", caption = "[Kinga's](@/w/kinga-miotke.md) entrance.", source = "m.fotografika" }
+0012 = { path = "arena-27-acting-chairman-rosetti.webp", caption = "Acting chairman [Rosetti](@/w/rosetti.md) opens the show.", source = "M3n747" }
+0013 = { path = "arena-27-kinga-1.webp", caption = "The new referee, [Kinga](@/w/kinga-miotke.md).", source = "Krzysztof Zych" }
+0014 = { path = "arena-27-guess-whos-back.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) is back and looking sharp.", source = "m.fotografika" }
+0015 = { path = "arena-27-opol.webp", caption = "[Piotr Opolski](@/w/piotr-opolski.md) steps back into the ring after a long break.", source = "Krzysztof Zych" }
+0016 = { path = "arena-27-rosetti-kinga-opol.webp", caption = "[Rosetti](@/w/rosetti.md) talks to the crowd, while referee [Kinga](@/w/kinga-miotke.md) and [Piotr Opolski](@/w/piotr-opolski.md) wait to the side.", source = "M3n747" }
+0017 = { path = "arena-27-kinga-2.webp", caption = "Referee [Kinga](@/w/kinga-miotke.md) at the ready.", source = "Krzysztof Zych" }
 0101 = { path = "arena-27-lesaaaaaak.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) before his match.", source = "Krzysztof Zych" }
 0102 = { path = "arena-27-one-finger-salute.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) salutes the fans in his typical manner.", source = "m.fotografika" }
 0103 = { path = "arena-27-lesak-vs-lato-1.webp", caption = "[Leon Lato](@/w/leon-lato.md) about to be thrown at the ring apron.", source = "Krzysztof Zych" }
