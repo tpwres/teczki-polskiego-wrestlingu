@@ -3,7 +3,7 @@ title = "PpW Clash of the Creeps"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "splatfilmfest"]
 venue=["kinoteka"]
 [extra]
 city = "Warszawa"
