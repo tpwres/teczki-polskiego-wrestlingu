@@ -31,7 +31,7 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
   - s: Three Way Match
 - - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Rosetti](@/w/rosetti.md)'
-- - "[David Oliwa](@/w/david-oliwa.md)(c)"
+- - "[David Oliwa](@/w/david-oliwa.md)(c) /w [Bianca](@/w/bianca.md)"
   - '[Greg](@/w/greg.md)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - d: Day 2
