@@ -3,6 +3,8 @@ title = "Splat!FilmFest"
 weight = 0
 template = "org_page.html"
 authors = ["Krzysztof Zych"]
+[taxonomies]
+chrono_root = ["splat"]
 [extra]
 compact_event_list = true
 hide_roster = true

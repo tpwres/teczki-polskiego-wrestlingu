@@ -120,7 +120,7 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
 - - 'Isnorr(c)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - s: Singles match
-    en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md)'
+    en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md)'
     ed: 2024-10-30
 - - 'Isnorr(c)'
   - '[Prince Striker](@/w/royal-striker.md)'

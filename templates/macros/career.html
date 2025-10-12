@@ -26,7 +26,7 @@
     {% include "badges/pxw.html" %}
   {% elif code == "piwg" %}
     {% include "badges/piwg.html" %}
-  {% elif code == "~splat" %}
+  {% elif code == "splat" %}
     {% include "badges/splat.html" %}
   {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
@@ -72,7 +72,7 @@
     {% include "badges/pxw.html" %}
   {% elif code == "piwg" %}
     {% include "badges/piwg.html" %}
-  {% elif code == "~splat" %}
+  {% elif code == "splat" %}
     {% include "badges/splat.html" %}
   {% else %}
     {% set org_slug = slug | default(value=code) %}
@@ -125,7 +125,7 @@
       {% include "badges/pxw.html" %}
     {% elif org == "piwg" %}
       {% include "badges/piwg.html" %}
-    {% elif org == "~splat" %}
+    {% elif org == "splat" %}
       {% include "badges/splat.html" %}
     {% else %}
       <div class="badge stretchy"
