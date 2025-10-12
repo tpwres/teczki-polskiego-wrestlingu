@@ -3,7 +3,7 @@ title = "PpW Chcemy Krwi!"
 template = "event_page.html"
 authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
-chronology = ["ppw", "splatfilmfest"]
+chronology = ["ppw", "splatfilmfest", "~splat"]
 venue=["kinoteka"]
 [extra]
 city = "Warszawa"

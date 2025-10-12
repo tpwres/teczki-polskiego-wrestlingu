@@ -1,0 +1,9 @@
+<div title="{{ hint_text }}" class="badge {% if ib %}ib{% endif %}{% if cnt is defined %}stretchy{% endif %}"
+     {% if cnt is defined %} style="flex-grow: {{ cnt/total }}; background: {{ bg }};" {% endif %}>
+  <a href='{{ get_url(path="@/o/splat.md") }}' class="org-badge nu"
+     style="background: url({{ get_url(path='splat-badge.svg') }}) no-repeat 0 0 / cover, #fff; background-position: center;"
+     title="{{ hint_text }}">
+     <span style="font-size: 0.7rem">SPLAT!</span>
+  </a>
+  <small style="color: {{ text_fg }}">{{ cnt|default(value="") }}</small>
+</div>

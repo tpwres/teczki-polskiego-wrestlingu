@@ -3,11 +3,12 @@ title = "PpW Clash of the Creeps"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["ppw", "splatfilmfest"]
+chronology = ["ppw", "splatfilmfest", "~splat"]
 venue=["kinoteka"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+orgs = ["ppw", "~splat"]
 [extra.gallery]
 1 = { path = "ppw-clash-of-the-creeps-plakat.webp", caption = "Official poster featuring [Johnny Blade](@/w/johnny-blade.md) and [Gremlin](@/w/goblin.md).", source = "Official PpW Facebook"}
 +++

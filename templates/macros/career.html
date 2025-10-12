@@ -26,6 +26,8 @@
     {% include "badges/pxw.html" %}
   {% elif code == "piwg" %}
     {% include "badges/piwg.html" %}
+  {% elif code == "~splat" %}
+    {% include "badges/splat.html" %}
   {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge">
@@ -43,6 +45,9 @@
   {% set ib = true %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
   {% set text_fg = style|get(key='text_fg', default='#fff') %}
+  {% if code is starting_with("~") %}
+    {% set slug = code | replace(from="~", to="") %}
+  {% endif %}
   {% if code == "mcw" %}
     {% include "badges/mcw.html" %}
   {% elif code == "ddw" %}
@@ -67,10 +72,14 @@
     {% include "badges/pxw.html" %}
   {% elif code == "piwg" %}
     {% include "badges/piwg.html" %}
+  {% elif code == "~splat" %}
+    {% include "badges/splat.html" %}
   {% else %}
-    {% set org_path = "@/o/" ~ code ~ ".md" -%}
+    {% set org_slug = slug | default(value=code) %}
+    {% set org_path = "@/o/" ~ org_slug ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge ib">
-      <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
+      <a
+        href="{{ get_url(path=org_path) }}" class="nu org-badge"
         style="background: {{ style|get(key='bg', default='#000') }};
                color: {{ style|get(key='fg', default='#fff') }};
         ">
@@ -116,6 +125,8 @@
       {% include "badges/pxw.html" %}
     {% elif org == "piwg" %}
       {% include "badges/piwg.html" %}
+    {% elif org == "~splat" %}
+      {% include "badges/splat.html" %}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};
