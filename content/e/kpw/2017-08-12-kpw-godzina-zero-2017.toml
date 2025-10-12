@@ -1,5 +1,5 @@
 01 = { path = "2017-08-12-kpw-godzina-zero-2017-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), Joey Ozbourne, [Fynn Freyhard](@/w/fynn-freyhart.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md), [Wild Boar](@/w/wild-boar.md), Kat Von Kaige, Mika The Polish Punisher, [David Oliwa](@/w/david-oliwa.md), [Peter Pannache](@/w/peter-pannache.md) and [Robert Star](@/w/robert-star.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-02 = { path = "wild-boar-vs-piekny-kawaler.webp", caption = "Image announcing [Wild Boar](@/w/wild-boad.md) vs [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official KPW Facebook" }
+02 = { path = "wild-boar-vs-piekny-kawaler.webp", caption = "Image announcing [Wild Boar](@/w/wild-boar.md) vs [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official KPW Facebook" }
 03 = { path = "mira-vs-alisa.webp", caption = "Image announcing [Mira](@/w/mira.md) vs [Alisa](@/w/alisa.md).", source = "Official KPW Facebook" }
 04 = { path = "kaszub-vs-peter-pannache.webp", caption = "Image announcing .", source = "Official KPW Facebook" }
 05 = { path = "robert-star-vs-joey-osbourne.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md) vs Joey Osbourne.", source = "Official KPW Facebook" }
