@@ -1,0 +1,7 @@
+1 = { path = "2019-06-15-kpw-arena-14-nastepny-poziom-plakat.png", caption = "Official poster", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "kawaler-vs-haskins.webp", caption = "Image announcing [Piękny Kawaler](@/w/piekny-kawaler.md) vs Mark Haskins.", source = "Official KPW Facebook" }
+3 = { path = "greg-vs-oliwa.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+4 = { path = "chakara-vs-alisa.webp", caption = "Image announcing Chakara vs [Alisa](@/w/alisa.md).", source = "Official KPW Facebook" }
+5 = { path = "rosetti.webp", caption = "Image announcing [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }
+6 = { path = "moloch-vs-gracjan-korpo.webp", caption = "Image announcing [Moloch](@/w/moloch.md) vs [Gracjan Korpo](@/w/gracjan-korpo.md).", source = "Official KPW Facebook" }
+7 = { path = "elimination-match.webp", caption = "Image announcing [Dom Taylor](@/w/dom-taylor.md) vs [Peter Pannache](@/w/peter-pannache.md) vs [Ron Corvus](@/w/ron-corvus.md) vs [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Sawicki](@/w/sawicki.md).", source = "Official KPW Facebook" }
