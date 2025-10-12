@@ -9,7 +9,6 @@ chronology = ["kpw", "oldtown"]
 city = "Stargard"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2017-07-23-kpw-oldtown-2-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Robert Star](@/w/robert-star.md) and [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 [OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held since 2005 at the grounds of former Soviet era [military airfield in Kluczewo](@/v/stargard-lotnisko-kluczewo.md), near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
