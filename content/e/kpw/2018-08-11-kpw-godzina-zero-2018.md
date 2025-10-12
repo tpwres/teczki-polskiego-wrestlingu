@@ -9,7 +9,6 @@ venue=["gdynskie-centrum-sportu"]
 city = "Gdynia"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2018-08-11-kpw-godzina-zero-2018-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md), Tom LaRuffa, [Greg](@/w/greg.md), [Robert Star](@/w/robert-star.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Bianca](@/w/bianca.md) and Tristan Archer.", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The third Godzina Zero (_Zero Hour_) event featured three new foreign guests. One was French wrestler Tom LaRuffa, who spent a couple of years in NXT, then briefly in TNA. Another was Swedish female wrestler Sixt, then primarily appearing in Scandinavia. Finally, Tristan Archer, another French, very experienced wrestler, by that time already well known on the European scene. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned in his second match for KPW, after appearing in the previous year's Godzina Zero event.
@@ -23,21 +22,29 @@ The event was held on the same day as a footbal match between Arka Gdynia and G�
 ## Card
 
 {% card() %}
-- ['[Robert Star](@/w/robert-star.md); [Rosetti](@/w/rosetti.md)', '[Fynn Freyhart](@/w/fynn-freyhart.md)']
-- ['[David Oliwa](@/w/david-oliwa.md)', '[Sawicki](@/w/sawicki.md)']
-- ['[Piękny Kawaler](@/w/piekny-kawaler.md)', '[Adam Bravo](@/w/adam-bravo.md)', {
-    s: Street Fight}]
-- ['[Greg](@/w/greg.md)(c)', Tristan Archer, {c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'}]
+- - '[Robert Star](@/w/robert-star.md) w/ [Rosetti](@/w/rosetti.md)'
+  - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
+- - '[David Oliwa](@/w/david-oliwa.md)'
+  - '[Sawicki](@/w/sawicki.md)'
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
+  - '[Adam Bravo](@/w/adam-bravo.md)'
+  - s: Street Fight
+- - '[Greg](@/w/greg.md)(c)'
+  - Tristan Archer
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Peter Pannache](@/w/peter-pannache.md)'
-  - '[Boski Ostrowski](@/w/ostrowski.md); [Mira](@/w/mira.md)'
+  - '[Boski Ostrowski](@/w/ostrowski.md) w/ [Mira](@/w/mira.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
   - '[Rosetti](@/w/rosetti.md)'
   - '[Moloch](@/w/moloch.md)'
   - '[Mateusz Kakareko](@/w/mateusz-kakareko.md)'
   - s: Magnificent Seven No-DQ Elimination Ladder Match for a Championship contract
-- ['[Bianca](@/w/bianca.md)', Sixt]
-- ['[Ron Corvus](@/w/ron-corvus.md)(c)', Tom LaRuffa, {c: '[KPW Championship](@/c/kpw-championship.md)'}]
+- - '[Bianca](@/w/bianca.md)'
+  - Sixt
+- - '[Ron Corvus](@/w/ron-corvus.md)(c)'
+  - Tom LaRuffa
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
 {% end %}
