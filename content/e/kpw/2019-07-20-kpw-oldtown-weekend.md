@@ -19,7 +19,7 @@ Following [OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md) a week prior, KPW ret
 - - '[Greg](@/w/greg.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
 - - '[Moloch](@/w/moloch.md)'
-  - 'Kordon: [_rookie_ Eryk Lesak](@/w/eryk-lesak.md) & [Karol Górski](@/w/iskra.md) & ??? & ???'
+  - 'Kordon: _rookie_ Sebastian & _rookie_ Artur Dzwończak & [_rookie_ Eryk Lesak](@/w/eryk-lesak.md) & [Karol Górski](@/w/iskra.md)'
   - s: Four on One Handicap Match
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
