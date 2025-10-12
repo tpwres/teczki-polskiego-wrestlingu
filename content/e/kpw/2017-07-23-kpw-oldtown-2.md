@@ -12,7 +12,7 @@ toclevel = 2
 1 = { path = "2017-07-23-kpw-oldtown-2-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Robert Star](@/w/robert-star.md) and [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-[OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
+[OldTown Festival][oldtown] is an annual LARP event, that bills itself as the largest post-apocalyptica LARP in Europe. It was held since 2005 at the grounds of former Soviet era [military airfield in Kluczewo](@/v/stargard-lotnisko-kluczewo.md), near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 The event's name is derived from the town of Stargard, which literally translates as Old Town.
 
 KPW held a wrestling exhibition during the event's last day. Wrestling fits the post-apocalyptic theme of OldTown. The second OldTown is also where KPW's midcard belt, appropriately named "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)", was created and the inaugural championship crowned. The OldTown Championship belt had a unique look, matching the event's post-apocalyptic theme. The original strap was retired at [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) and replaced with a more traditionally designed version.
@@ -63,7 +63,6 @@ KPW would return to following editions of OldTown until 2019.
 * [Facebook post announcing the tournament ladder](https://www.facebook.com/kpwrestling/photos/a.1506540256329828/1854149808235536/)
 
 [oldtown]: https://oldtownfestival.net/
-[airfield-wiki]: https://en.wikipedia.org/wiki/Kluczewo_Airfield
 [cancel-2022-facebook]: https://www.facebook.com/OldTownPL/posts/7628871287138919
 [oldtown-meetup]: https://www.facebook.com/events/563804182505079/
 [pyrkon]: https://pyrkon.pl/
