@@ -31,4 +31,3 @@ TFW: Turning Point! was a show produced by [Toruń Wrestling Federation](@/o/twf
 ## References
 
 * [WrestleFans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=59&t=27911)
-{% end %}
