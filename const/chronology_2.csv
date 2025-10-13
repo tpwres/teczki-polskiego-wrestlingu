@@ -1,26 +1,26 @@
-@color,backyard,!grey
-@color,supron,#ffff00
-@color,ppwf,#bfccff
-@color,ddw,#ff9e23
-@color,tbw,#ff0000
-@color,ppw,#770077
-@color,mzw,#00b200
-@color,kpw,#0066cc
-@color,ptw,!black
-@color,low,#b24c4c
-@option,rotate_xticks,on
-@option,legend,off
-@option,major_ticks,2y
-@option,layout,tight
-@option,figsize,10/7
-@option,org_in_tooltip,off
-@option,hide_spines,top+right
-@option,padding,0
+@color,backyard,!grey,
+@color,supron,#ffff00,
+@color,ppwf,#bfccff,
+@color,ddw,#ff9e23,
+@color,tbw,#ff0000,
+@color,ppw,#770077,
+@color,mzw,#00b200,
+@color,kpw,#0066cc,
+@color,ptw,!black,
+@color,low,#b24c4c,
+@option,rotate_xticks,on,
+@option,legend,off,
+@option,major_ticks,2y,
+@option,layout,tight,
+@option,figsize,10/7,
+@option,org_in_tooltip,off,
+@option,hide_spines,top+right,
+@option,padding,0,
 SupronStars,supron,1990-01,1992-12
 Polish Pro-Wrestling Federation,ppwf,2000-01,2003-12
 [o/Do Or Die Wrestling],ddw,2009-01,2015-07
 [o/Total Blast Wrestling],tbw,2010-01,2011-01
-# Backyard years of PpW, then pro years. Use same date as the start of pro to make the bars touch.,,,
+# Backyard years of PpW, then pro years. Use same date as the start of pro to make the bars touch.,,
 [o/PpW Ewenement],backyard,2010-01,2020-01
 -,ppw,2020-01,-
 [o/Maniac Zone Wrestling],mzw,2013-10,-
@@ -42,7 +42,7 @@ Halemba Power Wrestling,backyard,2010-03,2020-03
 PWE,backyard,2010-06,2010-12
 [o/Polish Xtreme Wrestling],backyard,2011-01,2013-01
 Dolnośląska Scena Wrestlingu,backyard,2011-02,2011-12
-Toruń Wrestling Federation,backyard,2011-04,2014-04
+[o/Toruń Wrestling Federation],backyard,2011-04,2014-04
 Polish Wrestling Federation,backyard,2013-01,2013-05
 North Polish Wrestlers Organization,backyard,2013-01,2021-07
 [o/Mine City Wrestling],backyard,2013-09,-

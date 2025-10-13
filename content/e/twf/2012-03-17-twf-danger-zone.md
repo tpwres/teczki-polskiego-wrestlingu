@@ -9,9 +9,9 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 17th 2012. 
+TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 17th, 2012. 
 
-It was a first "weekly" show produced by TWF to have a official name. It was named "Danger Zone".
+This was the first "weekly" show produced by TWF to have an official name.
 
 ## Card 
 
