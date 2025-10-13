@@ -14,14 +14,14 @@ PJ Blake is a retired Polish wrestler best known for his time in [Dream Factory 
 
 * Years active: 2012; 2015-2017
 * Gimmicks/nickanems:
-  - Monster {{ org_badge(orgs=['pxw']) }}
+  - Hero {{ org_badge(orgs=['pxw']) }}
   - PJ Blake {{ org_badge(orgs=['dfw']) }}
 
 ## Professional wrestling career
 
 ### Polish Xtreme Wrestling (2012)
 
-PJ Blake - then known as "Monster", was an active backyard wrestler. One event he participated in was [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow held by [Polish Xtreme Wrestling](@/o/pxw.md).
+PJ Blake - then known as "Hero", was an active backyard wrestler. One event he participated in was [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow held by [Polish Xtreme Wrestling](@/o/pxw.md).
 
 ### Dream Factory Wrestling (2015-2017)
 

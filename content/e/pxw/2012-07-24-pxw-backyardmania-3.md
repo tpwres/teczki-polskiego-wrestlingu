@@ -31,7 +31,7 @@ toclevel = 2
   - '[Hero](@/w/pj-blake.md)'
   - c: Toruń Championship
     nc: '?'
-- - 'Billi Rox'
+- - '[Billi Rox](@/w/corin-mear.md)'
   - '[Monster](@/w/chris-hunter.md)'
   - c: TWF Championship
     nc: '?'
