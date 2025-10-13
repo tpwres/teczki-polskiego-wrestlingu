@@ -17,8 +17,8 @@ TFW: Turning Point! was a show produced by [Toruń Wrestling Federation](@/o/twf
 - - 'Flash'
   - g: Flash cuts a promo + "Surprise"
 - - '[Monster](@/w/chris-hunter.md)'
-  - 'Mr. Black'
-  - 'Mistico'
+  - '[Mr. Black](@/w/mr-black.md)'
+  - '[Mistico](@/w/mistico.md)'
   - s: Triple Threat Match
     nc: '?'
 - - '[Billi Rox](@/w/corin-mear.md)'
