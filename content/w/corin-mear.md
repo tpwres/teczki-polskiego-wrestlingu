@@ -36,5 +36,5 @@ In total, Corin made 16 appearances for DFW, with his last one taking place at [
 
 ## Championships and accomplishments
 
-* [Toruń Wrestling Federation](@/w/twf.md):
+* [Toruń Wrestling Federation](@/o/twf.md):
   - TWF Championship (1 time)
