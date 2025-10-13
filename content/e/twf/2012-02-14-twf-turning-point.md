@@ -15,7 +15,7 @@ TFW: Turning Point! was a show produced by [Toruń Wrestling Federation](@/o/twf
 
 {% card() %}
 - - 'Flash'
-  - g: "Flash's promo + "Surprise""
+  - `g: "Flash's promo + "Surprise""`
 - - '[Monster](@/w/chris-hunter.md)'
   - 'Mr. Black'
   - 'Mistico'
