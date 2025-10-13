@@ -30,4 +30,3 @@ Toruń Wrestling Federation promoted three championships in their history. The f
 * [TWF website](https://web.archive.org/web/20111002095507/http://www.twf.npx.pl/news.php) on Archive.org (from 2011)
 * [TWF website](https://web.archive.org/web/20120814065916/http://www.twf.npx.pl/news.php) on Archive.org (from August 2012)
 * [TWF Facebook fanpage](https://www.facebook.com/TorunWrestlingFederation/?locale=pl_PL)
-TWF promoted two championships in their roster. One of them was a 
