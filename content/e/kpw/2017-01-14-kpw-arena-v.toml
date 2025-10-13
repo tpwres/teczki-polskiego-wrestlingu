@@ -1,0 +1,6 @@
+1 = { path = "2017-01-14-kpw-arena-v-plakat.jpg", caption = "Official poster, featuring [Robert Star](@/w/robert-star.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Bianca](@/w/bianca.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "robert-star-vs-kaszub.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md).", source = "Official KPW Facebook" }
+3 = { path = "boski-ostrowski-david-oliwa-vs-victor-rosetti-unknown.webp", caption = "Image announcing [Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md) vs [Victor Rosetti](@/w/rosetti.md) & ???.", source = "Official KPW Facebook" }
+4 = { path = "peter-pannache-vs-greg.webp", caption = "Image announcing .", source = "Official KPW Facebook" }
+5 = { path = "piekny-kawaler-vs-pastor-william-eaver.webp", caption = "Image announcing [Piękny Kawaler](@/w/piekny-kawaler.md) vs Pastor William Eaver.", source = "Official KPW Facebook" }
+6 = { path = "kamil-aleksander-vs-gracjan-korpo.webp", caption = "Image announcing [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Gracjan Korpo](@/w/gracjan-korpo.md).", source = "Official KPW Facebook" }
