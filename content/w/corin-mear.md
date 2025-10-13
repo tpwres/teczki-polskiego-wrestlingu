@@ -14,7 +14,7 @@ Corin Mear is a Polish wrestler known for his time in [Dream Factory Wrestling](
 
 * Years active: 2015-2017
 * Gimmicks/nicknames:
-  - Billi Rox {{ org_badge(orgs=['tfw']) }}
+  - Billi Rox
   - Corin Mear {{ org_badge(orgs=['dfw']) }}
 
 ## Professional wrestling career
