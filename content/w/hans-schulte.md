@@ -54,7 +54,6 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in 
     {{ music(yt='NeQM1c-XCDc')}}
     {{ music(spot='2bPGTMB5sFfFYQ2YvSmup0')}}
     {{ music(apple='1456789831?i=1456789852')}}
-* Entrance music:
   - "Blitz und Donner" by Jimmy Hamadaine
     {{ org_badge(orgs=['kpw']) }} (2024-) <br>
     {{ music(yt='ckENeh811C0')}}
