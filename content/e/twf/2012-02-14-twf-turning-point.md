@@ -22,7 +22,7 @@ TFW: Turning Point! was a show produced by [Toruń Wrestling Federation](@/o/twf
   - s: Triple Threat Match
     nc: '?'
 - - '[Bili Rox](@/w/corin-mear.md)'
-  - '[Hero](@/w/pj-blake.md)'
+  - '[Hero](@/w/pj-blake.md)(c)'
   - '???'
   - s: TWF Championship No Holds Barred Triple Threat Match
 {% end %}
