@@ -40,7 +40,7 @@ After losing their Tag Team Championship, Die Ordnung seemingly split to focus o
 
 At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in a rematch, and after [Michał Fux](@/w/michal-fux.md) won the #1 Contendership tournament, the two faced each other in a Singles Match at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md), with Schulte emerging victorious. Two events later, at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), Hans faced [Zefir](@/w/zefir.md), losing the title to the masked luchador.
 
-## In Wrestling
+## In wrestling
 
 * Finishers:
   - Package Piledriver (2022-)
@@ -54,6 +54,9 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in 
     {{ music(yt='NeQM1c-XCDc')}}
     {{ music(spot='2bPGTMB5sFfFYQ2YvSmup0')}}
     {{ music(apple='1456789831?i=1456789852')}}
+  - "Blitz und Donner" by Jimmy Hamadaine
+    {{ org_badge(orgs=['kpw']) }} (2024-) <br>
+    {{ music(yt='ckENeh811C0')}}
 
 ## Championships and accomplishments
 

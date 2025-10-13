@@ -34,7 +34,7 @@ He made yet another appearance in a segment at [PTW #3: Legends](@/e/ptw/2022-11
 
 Złotówa made his last appearance over a year later at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) where he entered the Gold Rush Rumble Match for the [PTW Championship](@/c/ptw-championship.md), but was eliminated by Marcelito - the very same man whom he had defeated in his debut.
 
-## In Wrestling
+## In wrestling
 
 * Finishers:
   - _Taxi Driver_ (Samoan Driver) (2021-2024)

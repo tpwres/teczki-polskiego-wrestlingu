@@ -24,7 +24,7 @@ Veit Müller is a German wrestler. He is best known in the Polish wrestling scen
 
 Veit made his debut at [KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md), where he and his tag team partner [Hans Schulte](@/w/hans-schulte.md) won the Four-Way Elimination Tag Team Match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). They managed to hold the title for 335 days, defending them against such teams as the Fux Brothers and [Leon Lato](@/w/leon-lato.md) & [Zefir](@/w/zefir.md). They finally lost the championship at [KPW Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) in their second bout against the Fux Brothers.
 
-## In Wrestling
+## In wrestling
 
 * Finishers:
   - Sleeper Hold (2023)
