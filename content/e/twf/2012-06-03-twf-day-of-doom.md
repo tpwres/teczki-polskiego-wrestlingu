@@ -20,7 +20,7 @@ TWF: Day of DOOM! was a show produced by [Toruń Wrestling Federation](@/o/twf.m
     s: Last Chance Match
 - - 'Młodzi Gniewni: [Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
   - '[Billi Rox](@/w/corin-mear.md) & Bull'
-  - '[Gangsta](@/w/gangsta.md) & [Mr. Black](@/w/mr-black.md)'
+  - '[Gangsta](@/w/jay-revolt.md) & [Mr. Black](@/w/mr-black.md)'
   - c: TFW Tag Team Championship
     s: Triple Threat Tag Team Match
 - - '???'
@@ -36,7 +36,7 @@ TWF: Day of DOOM! was a show produced by [Toruń Wrestling Federation](@/o/twf.m
     s: Three Stages Of Hell Match
 - - '[Billi Rox](@/w/corin-mear.md)'
   - '[Mr. Black](@/w/mr-black.md)(c)'
-  - '[Gangsta](@/w/gangsta.md)'
+  - '[Gangsta](@/w/jay-revolt.md)'
   - c: TFW Championship
     s: 20 Minute Iron Man Triple Threat Match
 {% end %}

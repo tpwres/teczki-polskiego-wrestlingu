@@ -27,7 +27,7 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
   - s: Tag Team Match
     nc: '?'
 - - '[Hero](@/w/pj-blake.md)'
-  - '[Gangsta](@/w/gangsta.md)'
+  - '[Gangsta](@/w/jay-revolt.md)'
   - nc: '?'
 - - '[Small Jumper](@/w/small-jumper.md)'
   - '[Żmija](@/w/zmija.md)'
@@ -35,7 +35,7 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
   - '???'
   - c: Wrzosy Championship
     s: Fatal Four Way Match
-- - '[Gangsta](@/w/gangsta.md)'
+- - '[Gangsta](@/w/jay-revolt.md)'
   - '[Billi Rox](@/w/corin-mear.md)(c)' 
   - '[Monster](@/w/chris-hunter.md)'
   - c: TWF Championship

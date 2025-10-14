@@ -19,7 +19,7 @@ Posts on wrestling forums mention that the show took place on April Fools' Day, 
 - - '[Monster](@/w/chris-hunter.md)'
   - '[Billi Rox](@/w/corin-mear.md)'
   - '[Small Jumper](@/w/small-jumper.md)'
-  - '[Gangsta](@/w/gangsta.md)'
+  - '[Gangsta](@/w/jay-revolt.md)'
   - s: Elimination Fatal Four Way Match
     nc: '?'
 {% end %}

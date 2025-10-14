@@ -17,7 +17,7 @@ Chris Hunter did double duty, as Malmo Buruto who was supposed to face Corin Mea
 {% card() %}
 - - '[Chris Hunter](@/w/chris-hunter.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
-- - 'Jay Revolt'
+- - '[Jay Revolt](@/w/jay-revolt.md)'
   - '[Pain Killer](@/w/pain-killer.md)'
   - '[PJ Blake](@/w/pj-blake.md)'
   - s: Triple Threat Match

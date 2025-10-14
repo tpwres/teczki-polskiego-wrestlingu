@@ -25,12 +25,12 @@ TWF Showcase was a event promoted by [Toruń Wrestling Federation](@/o/twf.md). 
   - '[Small Jumper](@/w/small-jumper.md)'
   - nc: '?'
 - - '[Billi Rox](@/w/corin-mear.md)'
-  - '[Gangsta](@/w/gangsta.md)'
+  - '[Gangsta](@/w/jay-revolt.md)'
   - '[Monster](@/w/chris-hunter.md)'
   - s: Triple Threat Match
     nc: '?'
 - d: Part 2
-- - '[Gangsta](@/w/gangsta.md)'
+- - '[Gangsta](@/w/jay-revolt.md)'
   - '[Hero](@/w/pj-blake.md)'
   - nc: '?'
 - - '[Żmija](@/w/zmija.md)'

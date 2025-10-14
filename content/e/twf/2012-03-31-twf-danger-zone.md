@@ -29,7 +29,7 @@ The original post published on wrestling forums declares the show's date to be M
   - s: Triple Threat Match
     nc: '?'
 - - '[Small Jumper](@/w/small-jumper.md)(c)'
-  - '[Gangsta](@/w/gangsta.md)(c)'
+  - '[Gangsta](@/w/jay-revolt.md)(c)'
   - s: Champion vs Champion Match
     nc: '?'
 {% end %}
