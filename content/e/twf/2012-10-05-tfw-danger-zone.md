@@ -14,7 +14,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 ## Card
 
 {% card() %}
-- - 'Młodzi Gniewni ([Thunder](@/w/thunder.md) & [Twister](@/w/twister.md))'
+- - 'Młodzi Gniewni: [Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
   - 'Sharky & [Hero](@/w/pj-blake.md)'
   - s: Tag Team Match
     nc: '?'
