@@ -21,7 +21,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Mr. Black](@/w/mr-black.md)'
   - '[Billi Rox](@/w/corin-mear.md)'
   - s: Singles Match
-  - nc: '?'
+    nc: '?'
 - - '[Gangsta](@/w/gangsta.md)(c)'
   - '[Monster](@/w/chris-hunter.md)'
   - s: Non-Title Singles Match
