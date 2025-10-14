@@ -16,15 +16,18 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 {% card() %}
 - - '[Small Jumper](@/w/small-jumper.md)(c)'
   - '[Żmija](@/w/zmija.md)'
-  - s: 2 Of 3 Match for Wrzosy Championship
+  - s: 2 Out Of 3 Falls Match
+    c: Wrzosy Championship
 - - '[Monster](@/w/chris-hunter.md)'
   - 'Thunder'
   - 'Twister'
-  - s: Toruń Championship Three Way Match
+  - c: Toruń Championship
+    s: Three Way Match
 - - '[Mr. Black](@/w/mr-black.md)'
   - '[Gangsta](@/w/gangsta.md)(c)'
   - '[Billi Rox](@/w/corin-mear.md)'
-  - s: TWF Championship Three Way Match
+  - c: TWF Championship
+    s: Three Way Match
 {% end %}
 
 ## References
