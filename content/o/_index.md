@@ -38,5 +38,5 @@ template = "index.html"
 | 2009-2011 | {{ org_badge(org='tbw') }} [Total Blast Wrestling](@/o/tbw.md) | Zawiercie, Radom |
 | 2010-2014 | [Wrestlingowy Klub Sportowy Wołów](@/o/wksw.md) | Wołów |
 | 2011-2013 | {{ org_badge(org='pxw') }} [Polish Xtreme Wrestling](@/o/pxw.md) | Głuchołazy |
-| 2011-2014 | [Toruń Wrestling Federation](@/o/twf.md) | Toruń |
+| 2011-2014 | {{ org_badge(org='twf') }} [Toruń Wrestling Federation](@/o/twf.md) | Toruń |
 | 2015-2018 | {{ org_badge(org='dfw') }} [Dream Factory Wrestling](@/o/dfw.md) | Toruń |

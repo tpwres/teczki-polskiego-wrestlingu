@@ -14,8 +14,8 @@ Chris Hunter is a retired Polish backyard wrestler, best known for creating and 
 
 * Years active: 2012-2018
 * Gimmicks/nicknames:
+  - Monster {{ org_badge(orgs=['twf', 'pxw']) }}
   - Chris Hunter {{ org_badge(orgs=['dfw']) }}
-  - Monster {{ org_badge(orgs=['pxw']) }}
 
 ## Professional wrestling career
 
@@ -23,9 +23,13 @@ Chris Hunter is a retired Polish backyard wrestler, best known for creating and 
 
 According to Chris, he was introduced to wrestling arout 2008, watching a clip of Jeff Hardy and Randy Orton. This piqued his interest, and he started to follow wrestling. Not long afterwards he bought the videogame Smackdown vs Raw 2008, which is where he learned about wrestling moves and finishers. Chris discovered the Polish backyard wrestling scene through a newspaper, reading about [WKSW](@/o/wksw.md) in the weekly magazine "Angora". He read an article about "Hulk Hogan's successors from Wołów", which was published in 2011.
 
+### Toruń Wrestling Federation (2011-2012)
+
+Chris first started wrestling in [Toruń Wrestling Federation](@/w/twf.md), where he worked over 20 matches under the ring name "Monster".
+
 ### Polish Xtreme Wrestling (2012)
 
-Chris Hunter - then working under his ringname "Monster" - made his appearance for Głuchołazy-based federation [Polish Xtreme Wrestling](@/o/pxw.md) at their supercard show [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md) in July 2012, where he faced [Billi Rox](@/w/corin-mear.md).
+In July 2012 Monster made an appearance for Głuchołazy-based federation [Polish Xtreme Wrestling](@/o/pxw.md) at their supercard show [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), where he faced [Billi Rox](@/w/corin-mear.md).
 
 ### Dream Factory Wrestling (2015-2018)
 

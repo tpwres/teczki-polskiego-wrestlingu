@@ -4,6 +4,7 @@ weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [extra]
+toclevel = 3
 compact_event_list = true
 [taxonomies]
 chrono_root = ["twf"]
