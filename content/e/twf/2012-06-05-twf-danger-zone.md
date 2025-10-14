@@ -27,6 +27,7 @@ The original post published at wrestling forums declares the show's date to be M
   - '[Billi Rox](@/w/corin-mear.md)'
   - s: Non-Title Match
     nc: '?'
+{% end %}
 
 ## References 
 
