@@ -22,7 +22,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - 'El Patataj'
   - nc: '?'
 - - '[Billi Rox](@/w/corin-mear.md)'
-  - '[Gangsta](@/jay-revolt.md)'
+  - '[Gangsta](@/w/jay-revolt.md)'
   - s: Street Fight Match
     nc: '?'
 {% end %}
