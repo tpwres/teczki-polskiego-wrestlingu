@@ -9,9 +9,9 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped at June 9th 2012 and published on June 16th, 2012. 
+TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped at June 9th, 2012, and published on June 16th, 2012. 
 
-The whole show was concentrated around revealing new TWF Champion, as [Billi Rox](@/w/corin-mear.md) was kayfabe fired from federation, thus his championship was vacated.
+The whole show was centred around revealing new TWF Champion, as [Billi Rox](@/w/corin-mear.md) was kayfabe fired from the federation, and thus his championship was vacated.
 
 ## Card
 
@@ -24,7 +24,7 @@ The whole show was concentrated around revealing new TWF Champion, as [Billi Rox
   - '[Mistico](@/w/mistico.md)'
   - s: TFW Championship First Round Match
     nc: '?'
-- - 'Shadow'
+- - 'Shadow (TWF)'
   - '[Thunder](@/w/thunder.md)'
   - s: TFW Championship First Round Match
     nc: '?'
@@ -48,5 +48,5 @@ The whole show was concentrated around revealing new TWF Champion, as [Billi Rox
 
 ## References
 
-* [WrestleFans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=59&t=30010)
+* [WrestleFans forum post]()
   
