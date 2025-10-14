@@ -21,7 +21,7 @@ PJ Blake is a retired Polish wrestler best known for his time in [Dream Factory 
 
 ### Toruń Wrestling Federation (2011-2012)
 
-PJ Blake - then known as "Hero" - was an active backyard wrestler who got his start in [Toruń Wrestling Federation](@/w/twf.md).
+PJ Blake - then known as "Hero" - was an active backyard wrestler who got his start in [Toruń Wrestling Federation](@/o/twf.md).
 
 
 ### Polish Xtreme Wrestling (2012)

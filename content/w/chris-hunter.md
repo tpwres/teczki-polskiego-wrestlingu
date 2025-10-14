@@ -25,7 +25,7 @@ According to Chris, he was introduced to wrestling arout 2008, watching a clip o
 
 ### Toruń Wrestling Federation (2011-2012)
 
-Chris first started wrestling in [Toruń Wrestling Federation](@/w/twf.md), where he worked over 20 matches under the ring name "Monster".
+Chris first started wrestling in [Toruń Wrestling Federation](@/o/twf.md), where he worked over 20 matches under the ring name "Monster".
 
 ### Polish Xtreme Wrestling (2012)
 
