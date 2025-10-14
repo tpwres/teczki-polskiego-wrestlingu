@@ -24,12 +24,10 @@ This was the first "weekly" show produced by TWF to have an official name.
     nc: '?'
 - - '[Hero](@/w/pj-blake.md)'
   - '[Small Jumper](@/w/small-jumper.md)'
-  - s: Singles Match
-    nc: '?'
+  - nc: '?'
 - - '[Mr. Black](@/w/mr-black.md)'
   - '[Monster](@/w/chris-hunter.md)'
-  - s: Singles Match
-    nc: '?'
+  - nc: '?'
 {% end %}
 
 ## References
