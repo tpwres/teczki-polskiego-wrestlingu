@@ -9,9 +9,9 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 31st 2012. 
+TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 31st, 2012. 
 
-Original posts published at wrestling forums declares the show's date to be March 24th, but due to fact, that [TWF: Fight For The Freedom!](@/e/twf/2012-03-28-twf-fight-for-freedom.md) was released at March 28th and the following show continues storylines from it, it is probably some kind of error in chronology made by posting TWF member.
+The original post published at wrestling forums declares the show's date to be March 24th, but due to the fact that [TWF: Fight For The Freedom!](@/e/twf/2012-03-28-twf-fight-for-freedom.md) was released on March 28th and this show continues storylines from it, it is probably some kind of error in chronology made by the posting TWF member.
 
 ## Card
 
@@ -33,7 +33,6 @@ Original posts published at wrestling forums declares the show's date to be Marc
   - s: Champion vs Champion Match
     nc: '?'
 {% end %}
-
 
 ## References
 
