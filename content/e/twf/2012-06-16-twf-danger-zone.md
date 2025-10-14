@@ -16,7 +16,7 @@ The whole show was concentrated around revealing new TWF Champion, as [Billi Rox
 ## Card
 
 {% card() %}
-- - '[Gangsta](@/w/gangsta.md)'
+- - '[Gangsta](@/w/jay-revolt.md)'
   - 'Over'
   - s: TFW Championship First Round Match
     nc: '?'
