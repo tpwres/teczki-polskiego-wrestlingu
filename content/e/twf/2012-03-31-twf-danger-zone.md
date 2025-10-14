@@ -16,8 +16,8 @@ The original post published on wrestling forums declares the show's date to be M
 ## Card
 
 {% card() %}
-- - 'Thunder & Twister'
-  - g: Thunder & Twister cuts a promo + surprise
+- - '[Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
+  - g: Thunder & Twister cut a promo + surprise
 - - '[Billi Rox](@/w/corin-mear.md)'
   - 'Hard Boy'
   - '[Monster](@/w/chris-hunter.md)'

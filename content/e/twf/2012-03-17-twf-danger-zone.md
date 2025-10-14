@@ -18,7 +18,7 @@ This was the first "weekly" show produced by TWF to have an official name.
 {% card() %}
 - - '[Hero](@/w/pj-blake.md)'
   - g: Hero cuts a promo
-- - 'Twister & Thunder'
+- - '[Twister](@/w/twister.md) & [Thunder](@/w/thunder.md)'
   - '[Billi Rox](@/w/corin-mear.md)'
   - s: Two-On-One Handicap Match
     nc: '?'

@@ -19,8 +19,8 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - s: 2 Out Of 3 Falls Match
     c: Wrzosy Championship
 - - '[Monster](@/w/chris-hunter.md)'
-  - 'Thunder'
-  - 'Twister'
+  - '[Thunder](@/w/thunder.md)'
+  - '[Twister](@/w/twister.md)'
   - c: Toruń Championship
     s: Three Way Match
 - - '[Mr. Black](@/w/mr-black.md)'

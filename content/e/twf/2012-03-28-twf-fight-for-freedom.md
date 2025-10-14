@@ -23,7 +23,7 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
 - - '[Mr. Black](@/w/mr-black.md)'
   - g: Mr. Black cuts a promo
 - - '[Small Jumper](@/w/small-jumper.md) & Matt Yang'
-  - 'Thunder & Twister'
+  - '[Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
   - s: Tag Team Match
     nc: '?'
 - - '[Hero](@/w/pj-blake.md)'

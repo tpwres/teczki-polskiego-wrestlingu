@@ -16,7 +16,7 @@ The original post published at wrestling forums declares the show's date to be M
 ## Card
 
 {% card() %}
-- - 'Młodzi Gniewni (Thunder & Twister)'
+- - 'Młodzi Gniewni: [Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
   - '[Billi Rox](@/w/corin-mear.md) & [Mistico](@/w/mistico.md)'
   - s: Non-Title Tag Team Match
     nc: '?'

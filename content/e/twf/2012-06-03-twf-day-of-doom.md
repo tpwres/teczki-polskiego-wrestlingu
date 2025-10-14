@@ -18,7 +18,7 @@ TWF: Day of DOOM! was a show produced by [Toruń Wrestling Federation](@/o/twf.m
   - '[Small Jumper](@/w/small-jumper.md)(c)'
   - c: Wrzosy Championship
     s: Last Chance Match
-- - 'Młodzi Gniewni (Thunder & Twister)'
+- - 'Młodzi Gniewni: [Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
   - '[Billi Rox](@/w/corin-mear.md) & Bull'
   - '[Gangsta](@/w/gangsta.md) & [Mr. Black](@/w/mr-black.md)'
   - c: TFW Tag Team Championship
