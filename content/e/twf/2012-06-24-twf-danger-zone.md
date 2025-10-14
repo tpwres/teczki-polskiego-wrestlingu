@@ -17,7 +17,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Billi Rox](@/w/corin-mear.md)'
   - '[Żmija](@/w/zmija.md)'
   - nc: '?'
-- - '[Hero](@/pj-blake.md)'
+- - '[Hero](@/w/pj-blake.md)'
   - 'Over'
   - nc: '?'
 - - '[Monster](@/w/chris-hunter.md)'
