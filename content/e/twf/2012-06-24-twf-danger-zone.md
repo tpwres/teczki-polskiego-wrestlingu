@@ -9,7 +9,7 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped on June 17th, and published on June 24th, 2012. 
+TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped on June 17th and published on June 24th, 2012. 
 
 ## Card 
 
@@ -17,7 +17,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Billi Rox](@/w/corin-mear.md)'
   - '[Żmija](@/w/zmija.md)'
   - nc: '?'
-- - '[Hero](@/pj-blake.md)'
+- - '[Hero](@/w/pj-blake.md)'
   - 'Over'
   - nc: '?'
 - - '[Monster](@/w/chris-hunter.md)'
