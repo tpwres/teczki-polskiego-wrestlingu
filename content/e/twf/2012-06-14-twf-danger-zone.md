@@ -14,7 +14,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 ## Card
 
 {% card() %}
-- - '[Gangsta](@/w/gangsta.md)'
+- - '[Gangsta](@/w/jay-revolt.md)'
   - '[Billi Rox](@/w/corin-mear.md)'
   - s: Last Chance Match for Gangsta
     nc: '?'

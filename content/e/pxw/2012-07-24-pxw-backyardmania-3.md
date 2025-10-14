@@ -27,7 +27,7 @@ toclevel = 2
   - 'Learson'
   - c: BWN Championship
     nc: '?'
-- - '[Gangsta](@/w/gangsta.md)'
+- - '[Gangsta](@/w/jay-revolt.md)'
   - '[Hero](@/w/pj-blake.md)'
   - c: Toruń Championship
     nc: '?'
