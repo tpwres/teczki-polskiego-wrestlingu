@@ -19,7 +19,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - s: 2 On 1 Handicap Match
     nc: '?'
 - - '[Billi Rox](@/w/corin-mear.md)'
-  - '[Gangsta](@/w/gangsta.md)(c)'
+  - '[Gangsta](@/w/gangsta.md)'
     nc: '?'
 - - '[Mistico](@/w/mistico.md)'
   - '[Mr. Black](@/w/mr-black.md)'
