@@ -24,7 +24,7 @@ The original post published at wrestling forums declares the show's date to be M
   - s: Triple Threat Match
     nc: '?'
 - - '[Mistico](@/w/mistico.md)'
-  - 'Żmija'
+  - '[Żmija](@/w/zmija.md)'
   - '[Hero](@/w/pj-blake.md)'
   - s: Triple Threat Match
     nc: '?'

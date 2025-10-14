@@ -15,7 +15,7 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
 
 {% card() %}
 - - '[Mistico](@/w/mistico.md)'
-  - 'Żmija'
+  - '[Żmija](@/w/zmija.md)'
   - nc: '?'
 - - '[Monster](@/w/chris-hunter.md)'
   - '[Mr. Black](@/w/mr-black.md)'
@@ -30,7 +30,7 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
   - '[Gangsta](@/w/gangsta.md)'
   - nc: '?'
 - - '[Small Jumper](@/w/small-jumper.md)'
-  - 'Żmija'
+  - '[Żmija](@/w/zmija.md)'
   - '[Hero](@/w/pj-blake.md)'
   - '???'
   - c: Wrzosy Championship
