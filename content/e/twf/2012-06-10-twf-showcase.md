@@ -19,7 +19,7 @@ TWF Showcase was a event promoted by [Toruń Wrestling Federation](@/o/twf.md). 
   - '[Mr. Black](@/w/mr-black.md)'
   - nc: '?'
 - - '[Żmija](@/w/zmija.md)'
-  - '[Hero](@/w/pj-black.md)'
+  - '[Hero](@/w/pj-blake.md)'
   - nc: '?'
 - - 'Twister'
   - '[Small Jumper](@/w/small-jumper.md)'
@@ -31,7 +31,7 @@ TWF Showcase was a event promoted by [Toruń Wrestling Federation](@/o/twf.md). 
     nc: '?'
 - d: Part 2
 - - '[Gangsta](@/w/gangsta.md)'
-  - '[Hero](@/w/pj-black.md)'
+  - '[Hero](@/w/pj-blake.md)'
   - nc: '?'
 - - '[Żmija](@/w/zmija.md)'
   - '[Small Jumper](@/w/small-jumper.md)'
