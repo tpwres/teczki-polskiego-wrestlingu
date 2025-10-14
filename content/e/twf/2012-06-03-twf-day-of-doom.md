@@ -21,14 +21,14 @@ TWF: Day of DOOM! was a show produced by [Toruń Wrestling Federation](@/o/twf.m
 - - 'Młodzi Gniewni: [Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
   - '[Billi Rox](@/w/corin-mear.md) & Bull'
   - '[Gangsta](@/w/jay-revolt.md) & [Mr. Black](@/w/mr-black.md)'
-  - c: TFW Tag Team Championship
+  - c: TWF Tag Team Championship
     s: Triple Threat Tag Team Match
 - - '???'
   - '???'
   - '???'
   - '???'
   - '???'
-  - s: TFW Championship Contender Gauntlet Match
+  - s: TWF Championship Contender Gauntlet Match
     nc: '?'
 - - '[Monster](@/w/chris-hunter.md)(c)'
   - '[Mistico](@/w/mistico.md)'
@@ -37,7 +37,7 @@ TWF: Day of DOOM! was a show produced by [Toruń Wrestling Federation](@/o/twf.m
 - - '[Billi Rox](@/w/corin-mear.md)'
   - '[Mr. Black](@/w/mr-black.md)(c)'
   - '[Gangsta](@/w/jay-revolt.md)'
-  - c: TFW Championship
+  - c: TWF Championship
     s: 20 Minute Iron Man Triple Threat Match
 {% end %}
 

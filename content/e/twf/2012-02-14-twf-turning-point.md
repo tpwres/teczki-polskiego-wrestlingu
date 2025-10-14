@@ -9,7 +9,7 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TFW: Turning Point! was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on February 14th 2012.
+TWF: Turning Point! was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on February 14th 2012.
 
 ## Card
 

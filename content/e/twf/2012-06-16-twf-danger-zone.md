@@ -18,31 +18,31 @@ The whole show was centred around revealing new TWF Champion, as [Billi Rox](@/w
 {% card() %}
 - - '[Gangsta](@/w/jay-revolt.md)'
   - 'Over'
-  - s: TFW Championship First Round Match
+  - s: TWF Championship First Round Match
     nc: '?'
 - - '[Small Jumper](@/w/small-jumper.md)'
   - '[Mistico](@/w/mistico.md)'
-  - s: TFW Championship First Round Match
+  - s: TWF Championship First Round Match
     nc: '?'
 - - 'Shadow (TWF)'
   - '[Thunder](@/w/thunder.md)'
-  - s: TFW Championship First Round Match
+  - s: TWF Championship First Round Match
     nc: '?'
 - - '[Twister](@/w/twister.md)'
   - '[Monster](@/w/chris-hunter.md)'
-  - s: TFW Championship First Round Match
+  - s: TWF Championship First Round Match
     nc: '?'
 - - '???'
   - '???'
-  - s: TFW Championship Semi-Final Match
+  - s: TWF Championship Semi-Final Match
     nc: '?'
 - - '???'
   - '???'
-  - s: TFW Championship Semi-Final Match
+  - s: TWF Championship Semi-Final Match
     nc: '?'
 - - '[Mistico](@/w/mistico.md)'
   - '???'
-  - s: TFW Championship Final Match
+  - s: TWF Championship Final Match
 {% end %}
 
 ## References
