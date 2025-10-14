@@ -21,8 +21,8 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Żmija](@/w/zmija.md)'
   - '[Hero](@/w/pj-blake.md)'
   - nc: '?'
-- - '[Mistico](@/w/mistico.md)'
-  - '[Billi Rox](@/w/corin-mear.md)'
+- - '[Billi Rox](@/w/corin-mear.md)' 
+  - '[Mistico](@/w/mistico.md)(c)'
   - c: TWF Championship
     nc: '?'
 {% end %}
