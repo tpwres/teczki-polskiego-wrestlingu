@@ -48,5 +48,5 @@ The whole show was centred around revealing new TWF Champion, as [Billi Rox](@/w
 
 ## References
 
-* [WrestleFans forum post]()
+* [WrestleFans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=59&t=30010)
   
