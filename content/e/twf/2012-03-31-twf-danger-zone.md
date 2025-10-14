@@ -19,7 +19,7 @@ The original post published at wrestling forums declares the show's date to be M
 - - 'Thunder & Twister'
   - g: Thunder & Twister cuts a promo + surprise
 - - '[Billi Rox](@/w/corin-mear.md)'
-  - 'Hardboy'
+  - 'Hard Boy'
   - '[Monster](@/w/chris-hunter.md)'
   - s: Triple Threat Match
     nc: '?'
