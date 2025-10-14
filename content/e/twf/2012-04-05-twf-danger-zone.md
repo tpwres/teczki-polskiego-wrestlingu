@@ -9,22 +9,21 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on April 5th 2012.
+TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on April 5th, 2012.
 
 ## Card
 
 {% card() %}
 - - '[Small Jumper](@/w/small-jumper.md)(c)'
   - '[Hero](@/w/pj-blake.md)'
-  - s: Non-Title Singles Match
+  - s: Non-Title Match
     nc: '?'
 - - '[Mr. Black](@/w/mr-black.md)'
   - '[Billi Rox](@/w/corin-mear.md)'
-  - s: Singles Match
-    nc: '?'
+  - nc: '?'
 - - '[Gangsta](@/w/gangsta.md)(c)'
   - '[Monster](@/w/chris-hunter.md)'
-  - s: Non-Title Singles Match
+  - s: Non-Title Match
     nc: '?'
 {% end %}
 
