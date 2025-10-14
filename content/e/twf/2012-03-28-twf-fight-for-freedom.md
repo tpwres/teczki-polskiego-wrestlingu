@@ -20,7 +20,7 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
     nc: '?'
 - - '[Mr. Black](@/w/mr-black.md)'
   - '[Monster](@/w/chris-hunter.md)'
-  - s: "I Quit" Match
+  - s: I Quit Match
     nc: '?'
 - - '[Mr. Black](@/w/mr-black.md)'
   - g: Mr. Black cuts a promo
