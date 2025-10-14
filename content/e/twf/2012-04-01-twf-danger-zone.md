@@ -1,7 +1,7 @@
 +++
 title = "TWF: Danger Zone"
 template = "event_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [taxonomies]
 chronology = ["twf"]
 [extra]
@@ -9,9 +9,9 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on April 1st 2012. 
+TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on April 1st, 2012. 
 
-Posts on wrestling forums mentions that the show took place during April Fools day, but lack of footage from the show to reviev prevents from deciding if TWF pulled any hoaxes at that show.
+Posts on wrestling forums mention that the show took place on April Fools' Day, but since there is no footage from the show to review, it is unclear whether the event actually happened, or if it was a hoax.
 
 ## Card
 
