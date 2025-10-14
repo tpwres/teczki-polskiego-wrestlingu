@@ -24,7 +24,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - 'Thunder'
   - 'Twister'
   - s: Toruń Championship Three Way Match
-- - '[Mr. Black](@/w/mr-black.md)
+- - '[Mr. Black](@/w/mr-black.md);
   - '[Gangsta](@/w/gangsta.md)(c)'
   - '[Billi Rox](@/w/corin-mear.md)'
   - s: TWF Championship Three Way Match
