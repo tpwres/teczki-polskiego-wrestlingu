@@ -15,11 +15,16 @@ toclevel = 2
 
 ## Build up
 
-* TBD
+* On 13.10.2025 PTW announced [Daniel Razor's](@/w/daniel-razor.md) Open Challenge.
 
 ## Card
 
-{{ skip_card() }}
+{% card() %}
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '???'
+  - s: Daniel Razor's Open Challenge
+    nc: upcoming
+{% end %}
 
 ## References
 

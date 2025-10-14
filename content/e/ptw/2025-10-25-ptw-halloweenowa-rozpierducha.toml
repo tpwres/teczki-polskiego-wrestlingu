@@ -7,3 +7,8 @@ caption = """\
     [Sigma Boy xD](@/w/sigma-boy.md), [Spartan](@/w/spartan.md), [Alex Brave](@/w/alex-brave.md), [Puncher](@/w/puncher.md).
 """
 source = "Official PTW Facebook"
+
+[02]
+path = "daniel-razor-open-challenge.webp"
+caption = "Image announcing [Daniel Razor's](@/w/daniel-razor.md) Open Challenge."
+source = "Official PTW Facebook"
