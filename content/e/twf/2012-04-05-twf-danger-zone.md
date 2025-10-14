@@ -25,7 +25,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Gangsta](@/w/gangsta.md)(c)'
   - '[Monster](@/w/chris-hunter.md)'
   - s: Non-Title Singles Match
-    nc: '?'
+  - nc: '?'
 {% end %}
 
 ## References 
