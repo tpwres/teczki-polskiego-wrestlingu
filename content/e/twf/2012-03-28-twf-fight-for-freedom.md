@@ -9,19 +9,17 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was released on March 28th 2012.
+TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was released on March 28th, 2012.
 
 ## Card
 
 {% card() %}
 - - '[Mistico](@/w/mistico.md)'
   - 'Żmija'
-  - s: Singles Match
-    nc: '?'
-- - '[Mr. Black](@/w/mr-black.md)'
-  - '[Monster](@/w/chris-hunter.md)'
+  - nc: '?'
+- - '[Monster](@/w/chris-hunter.md)'
+  - '[Mr. Black](@/w/mr-black.md)'
   - s: I Quit Match
-    nc: '?'
 - - '[Mr. Black](@/w/mr-black.md)'
   - g: Mr. Black cuts a promo
 - - '[Small Jumper](@/w/small-jumper.md) & Matt Yang'
@@ -30,17 +28,18 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
     nc: '?'
 - - '[Hero](@/w/pj-blake.md)'
   - '[Gangsta](@/w/gangsta.md)'
-  - s: Singles Match
-    nc: '?'
+  - nc: '?'
 - - '[Small Jumper](@/w/small-jumper.md)'
   - 'Żmija'
   - '[Hero](@/w/pj-blake.md)'
   - '???'
-  - s: Wrzosy Championship Fatal Four Way Match
+  - c: Wrzosy Championship
+    s: Fatal Four Way Match
 - - '[Gangsta](@/w/gangsta.md)'
   - '[Billi Rox](@/w/corin-mear.md)(c)' 
   - '[Monster](@/w/chris-hunter.md)'
-  - s: TWF Championship Three Way Match
+  - c: TWF Championship
+    s: Three Way Match
 {% end %}
 
 ## References
