@@ -28,8 +28,8 @@ The whole show was concentrated around revealing new TWF Champion, as [Billi Rox
   - '[Thunder](@/w/thunder.md)'
   - s: TFW Championship First Round Match
     nc: '?'
-- - [Twister](@/w/twister.md)
-  - [Monster](@/w/chris-hunter.md)
+- - '[Twister](@/w/twister.md)'
+  - '[Monster](@/w/chris-hunter.md)'
   - s: TFW Championship First Round Match
     nc: '?'
 - - '???'
