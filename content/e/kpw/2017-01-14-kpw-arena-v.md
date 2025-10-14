@@ -33,7 +33,7 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
-    SPecial Referee: '[Bianca](@/w/bianca.md)'
+    Special Referee: '[Bianca](@/w/bianca.md)'
 {% end %}
 
 ### Recap
