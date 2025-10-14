@@ -9,7 +9,7 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: No One Survive was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on September 3rd 2012.
+TWF: No One Survive was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on September 3rd, 2012.
 
 ## Card
 
