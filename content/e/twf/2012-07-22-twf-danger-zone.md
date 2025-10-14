@@ -24,7 +24,6 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Billi Rox](@/w/corin-mear.md)' 
   - '[Mistico](@/w/mistico.md)(c)'
   - c: TWF Championship
-    nc: '?'
 {% end %}
 
 ## References
