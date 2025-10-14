@@ -11,7 +11,7 @@ toclevel = 2
 
 TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped at June 9th, 2012, and published on June 16th, 2012. 
 
-The whole show was centred around revealing new TWF Champion, as [Billi Rox](@/w/corin-mear.md) was kayfabe fired from the federation, and thus his championship was vacated.
+The whole show was centred around revealing new TWF Champion, as [Billi Rox](@/w/corin-mear.md) was kayfabe fired from the federation, and thus his Championship was vacated.
 
 ## Card
 

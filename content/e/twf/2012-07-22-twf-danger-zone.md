@@ -9,7 +9,7 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped on June 15th, and published on June 22nd 2012.
+TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped on June 15th, and published on June 22nd, 2012.
 
 ## Card 
 
