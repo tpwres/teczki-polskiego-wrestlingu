@@ -40,10 +40,9 @@ The whole show was centred around revealing new TWF Champion, as [Billi Rox](@/w
   - '???'
   - s: TFW Championship Semi-Final Match
     nc: '?'
-- - '???'
+- - '[Mistico](@/w/mistico.md)'
   - '???'
   - s: TFW Championship Final Match
-    nc: '?'
 {% end %}
 
 ## References
