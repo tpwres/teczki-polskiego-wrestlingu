@@ -14,10 +14,10 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 ## Card
 
 {% card() %}
-- - 'Młodzi Gniewni'
+- - 'Młodzi Gniewni: ??? & ???'
   - '[Small Jumper](@/w/small-jumper.md)'
   - s: 2 On 1 Handicap Match
-  - nc: '?'
+    nc: '?'
 - - '[Billi Rox](@/w/corin-mear.md)'
   - '[Gangsta](@/w/gangsta.md)'
   - nc: '?'
