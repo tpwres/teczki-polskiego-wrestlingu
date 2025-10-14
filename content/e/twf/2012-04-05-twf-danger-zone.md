@@ -16,7 +16,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 {% card() %}
 - - '[Small Jumper](@/w/small-jumper.md)(c)'
   - '[Hero](@/w/pj-blake.md)'
-  - s: Non-Title Singles Match
+  - s: "Non-Title Singles Match"
   - nc: '?'
 - - '[Mr. Black](@/w/mr-black.md)'
   - '[Billi Rox](@/w/corin-mear.md)'
@@ -24,7 +24,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - nc: '?'
 - - '[Gangsta](@/w/gangsta.md)(c)'
   - '[Monster](@/w/chris-hunter.md)'
-  - s: Non-Title Singles Match
+  - s: "Non-Title Singles Match"
   - nc: '?'
 {% end %}
 
