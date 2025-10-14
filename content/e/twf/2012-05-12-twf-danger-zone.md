@@ -17,16 +17,16 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - 'Młodzi Gniewni'
   - '[Small Jumper](@/w/small-jumper.md)'
   - s: 2 On 1 Handicap Match
-    nc: '?'
+  - nc: '?'
 - - '[Billi Rox](@/w/corin-mear.md)'
   - '[Gangsta](@/w/gangsta.md)'
-    nc: '?'
+  - nc: '?'
 - - '[Mistico](@/w/mistico.md)'
   - '[Mr. Black](@/w/mr-black.md)'
-    nc: '?'
+  - nc: '?'
 - - '[Hero](@/w/pj-blake.md)'
   - '[Żmija](@/w/zmija.md)'
-    nc: '?'
+  - nc: '?'
 {% end %}
 
 ## References
