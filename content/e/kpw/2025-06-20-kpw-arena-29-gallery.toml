@@ -1,5 +1,4 @@
-0000 = { path = "arena-29-plakat.webp", caption = "Official poster. Visible in the TV screens, top to bottom and left to right, are: Hans Schulte; Leon Lato chokeslammed by Tomczak; Referee Kinga looking at Filip Fux caught in a hold by David Oliwa; Eryk Lesak; and Chemik with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-0001 = { path = "wiecej-mocniej-lepiej.webp", caption = "&quot;More, stronger, better! Both at live events, and on TV!&quot;", source = "Official KPW Facebook" }
+0001 = { path = "arena-29-plakat.webp", caption = "Official poster. Visible in the TV screens, top to bottom and left to right, are: Hans Schulte; Leon Lato chokeslammed by Tomczak; Referee Kinga looking at Filip Fux caught in a hold by David Oliwa; Eryk Lesak; and Chemik with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 0002 = { path = "latomczak.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Tomczak](@/w/tomczak.md).", source = "Official KPW Facebook" }
 0003 = { path = "gregoliwa.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
 0004 = { path = "rozciagliwy-lesak.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Flexos](@/w/flexos.md).", source = "Official KPW Facebook" }
@@ -35,3 +34,4 @@
 0902 = { path = "parcie-na-szklo.webp", caption = "Hans Schulte and [Veit Müller](@/w/veit-mueller.md) offer Zefir some TV time.", source = "M3n747" }
 1000 = { path = "i-see-a-little-silhouette-of-kinga.webp", caption = "The shadowy silhouette of [Kinga Miotke](@/w/kinga-miotke.md).", source = "M3n747" }
 1001 = { path = "chain-untomczaked.webp", caption = "The chain that held Tomczak.", source = "M3n747" }
+1002 = { path = "wiecej-mocniej-lepiej.webp", caption = "&quot;More, stronger, better! Both at live events, and on TV!&quot;", source = "Official KPW Facebook" }

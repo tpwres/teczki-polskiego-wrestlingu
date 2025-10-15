@@ -19,7 +19,7 @@ The move, according to Chairman Malinowski, was temporary and the promotion stil
 
 There were a significant number of foreign talent at this event, including some new guests:
 
-* Hungarian wrestler and former [KPW champion](@/c/kpw-championship.md) [Ron Corvus](@/w/ron-corvus.md), last seen two years prior, at [Powrót do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18.md).
+* Hungarian wrestler and former [KPW champion](@/c/kpw-championship.md) [Ron Corvus](@/w/ron-corvus.md), last seen two years prior, at [Arena 18](@/e/kpw/2022-03-18-kpw-arena-18.md).
 * From England, "Multiversal" Alexander Roth and "Big Wavy" Roy Johnson, competing as "The 87".
 * One half of Die Ordnung, former [KPW Tag Team champions](@/c/kpw-tag-team-championship.md): German wrestler Hans Schulte.
 * The reigning KPW Champion, Italian wrestler Red Scorpion, in only his second defense of the title since winning it at [last year's event](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).

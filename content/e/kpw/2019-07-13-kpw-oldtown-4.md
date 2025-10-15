@@ -9,19 +9,17 @@ venue = ["airport-kluczewo"]
 city = "Stargard"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2019-07-13-kpw-oldtown-4-plakat.jpg", caption = "Official poster, showing [Ron Corvus](@/w/ron-corvus.md) with the [KPW Championship](@/c/kpw-championship.md) belt, likely at last year's [OldTown 3](@/e/kpw/2018-07-14-kpw-oldtown-3.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
-[OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held since 2005 at the grounds of former Soviet era [military airfield][airfield-wiki] in Kluczewo, near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
+[OldTown Festival][oldtown] was an annual LARP event, that billed itself as the largest post-apocalyptica LARP in Europe. It was held since 2005 at the grounds of former Soviet era [military airfield in Kluczewo](@/v/stargard-lotnisko-kluczewo.md), near Stargard in West Pomerania. While the community is still active, the 2022 and 2023 editions were cancelled. Instead of the latter one, a [meetup][oldtown-meetup] was held during [Pyrkon][pyrkon] 2023, and since 2024, Pyrkon's post-apocalyptic cosplay event largely replaced it.
 
 In 2019, the event was held between July 8 and 13. Additionally, on the following weekend, July 20-21, non-participants could enter the airport grounds, for an open event with many attractions (including wrestling). KPW held two shows: one on the final day of the LARP part, and one during this open weekend. This page covers both days.
 
-The foreign guests for this event were all from Germany: the experienced Lucas Robinson and two relatively new but estabilished wrestlers Crowchester and Matthias Bernstein. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned to take on one half of the KPW Tag Team Champions.
+The foreign guests for this event were all from Germany: the experienced Lucas Robinson and two relatively new but estabilished wrestlers Crowchester and Matthias Bernstein. [Fynn Freyhart](@/w/fynn-freyhart.md) also returned to take on one half of the [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md).
 
 ## Card
 
 {% card() %}
-- d: Day 1
 - - '[Moloch](@/w/moloch.md)'
   - Crowchester
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)'
@@ -32,31 +30,21 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
   - s: Three Way Match
 - - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Rosetti](@/w/rosetti.md)'
-- - "[David Oliwa](@/w/david-oliwa.md)(c)"
+- - "[David Oliwa](@/w/david-oliwa.md)(c) /w [Bianca](@/w/bianca.md)"
   - '[Greg](@/w/greg.md)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-- d: Day 2
-  date: 2019-07-20
-- - '[Greg](@/w/greg.md)'
-  - '[Boski Ostrowski](@/w/ostrowski.md)'
-- - '[Moloch](@/w/moloch.md)'
-  - 'Kordon: ??? & ??? & ??? & ???'
-  - s: Four on One Handicap Match
-- - '[Robert Star](@/w/robert-star.md)'
-  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
 - credits:
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
 ## References
 
-* Cagematch event pages: [day 1](https://www.cagematch.net/?id=1&nr=319861), [day 2](https://www.cagematch.net/?id=1&nr=319862)
-* [KPW's event page, day 1](https://kpwrestling.pl/events/kpw-oldtown-4/)
-* [KPW's event page, day 2](https://kpwrestling.pl/events/OldTown-Weekend/)
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=319861)
+* [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown-4/)
 * [Coverage by local newssite GS24](https://gs24.pl/stargard-na-bylym-lotnisku-w-kluczewie-rozpoczal-sie-oldtown-festival-2019-zdjecia/ar/c13-14259589)
+* [Results on KPW's Facebook](https://www.facebook.com/kpwrestling/posts/pfbid02Pdogfve4tVWRXz8tYjRPLTrpsJoMc7c2qSCxybKAJWWfkPCxKufEpDjak25JTCVZl)
 
 [oldtown]: https://oldtownfestival.net/
-[airfield-wiki]: https://en.wikipedia.org/wiki/Kluczewo_Airfield
 [cancel-2022-facebook]: https://www.facebook.com/OldTownPL/posts/7628871287138919
 [oldtown-meetup]: https://www.facebook.com/events/563804182505079/
 [pyrkon]: https://pyrkon.pl/

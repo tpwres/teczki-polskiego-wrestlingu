@@ -10,7 +10,6 @@ venue=["gdynskie-centrum-sportu"]
 city = "Gdynia"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2018-05-26-kpw-arena-x-kawaleria-vs-sojusz-plakat.jpg", caption = "Official poster, with [Piękny Kawaler](@/w/piekny-kawaler.md) and [Robert Star](@/w/robert-star.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 ## Build-up
@@ -51,7 +50,7 @@ Attendance: about 300
 
 ### Recap
 
-- Two new girls in catsuits accompany [Moloch](@/w/moloch.md) to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md). The other one is Laura, who later trained with [PTW](@/o/ptw.md) but never debuted.
+- Two new girls in catsuits accompany the debuting [Moloch](@/w/moloch.md) to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md). The other one is Laura, who later trained with [PTW](@/o/ptw.md) but never debuted.
 - Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kakareko.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
 - Greg "christened" members of the Kawaleria stable by spitting water on them. This would later become part of his character.
 - [Kamil Aleksander](@/w/kamil-aleksander.md)'s mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)

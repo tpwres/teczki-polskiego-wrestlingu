@@ -1,0 +1,6 @@
+1 = { path = "2017-06-10-kpw-arena-7-wysoka-stawka-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md) and [Greg](@/w/greg.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "boski-ostrowski-vs-piekny-kawaler.webp", caption = "Image announcing [Boski Ostrowski](@/w/ostrowski.md) vs [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official KPW Facebook" }
+3 = { path = "kamil-aleksander-vs-adam-bravo.webp", caption = "Image announcing [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Adam Bravo](@/w/adam-bravo.md).", source = "Official KPW Facebook" }
+4 = { path = "kaszub-greg-vs-peter-pannache-david-oliwa.webp", caption = "Image announcing [Kaszub](@/w/kaszub.md) & [Greg](@/w/greg.md) vs [Peter Pannache](@/w/peter-pannache.md) & [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+5 = { path = "mateusz-kowalski-vs-gracjan-korpo.webp", caption = "Image announcing [Mateusz Kowalski](@/w/mateusz-kakareko.md) vs [Gracjan Korpo](@/w/gracjan-korpo.md).", source = "Official KPW Facebook" }
+6 = { path = "robert-star-vs-rosetti.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md) vs [Rosetti](@/w/rosetti.md).", source = "Official KPW Facebook" }

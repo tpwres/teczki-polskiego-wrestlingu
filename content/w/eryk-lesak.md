@@ -27,7 +27,7 @@ Eryk Lesak is a Polish wrestler best known for his time in [Kombat Pro Wrestling
 #### Debut and early appearances
 
 Eryk Lesak is one of two finalists of [Kombat Pro Wrestling](@/o/kpw.md)'s 2019 internal competition "Serce do walki" (_Heart for combat_).
-Intended as the original butler for the heel stable Kawaleria (which didn't pan out; the position went to [Chemik](@/w/chemik.md) instead), he made his debut at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) and started off as a babyface, first working solo and then in a short-lived tag team with the other _Heart for combat_ finalist, [Piotr Opolski](@/w/piotr-opolski.md).
+Intended as the original butler for the heel stable [Kawaleria](@/tt/kawaleria.md) (which didn't pan out; the position went to [Chemik](@/w/chemik.md) instead), he made his debut at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) and started off as a babyface, first working solo and then in a short-lived tag team with the other _Heart for combat_ finalist, [Piotr Opolski](@/w/piotr-opolski.md).
 
 #### The Gregorian Branch
 

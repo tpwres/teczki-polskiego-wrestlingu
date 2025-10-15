@@ -9,7 +9,6 @@ venue=["gdynskie-centrum-sportu"]
 city = "Gdynia"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2017-08-12-kpw-godzina-zero-2017-plakat.jpg", caption = "Official poster, showing [Bianca](@/w/bianca.md), Joey Ozbourne, [Fynn Freyhard](@/w/fynn-freyhart.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Greg](@/w/greg.md), [Wild Boar](@/w/wild-boar.md), Kat Von Kaige, Mika The Polish Punisher, [David Oliwa](@/w/david-oliwa.md), [Peter Pannache](@/w/peter-pannache.md) and [Robert Star](@/w/robert-star.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The second Godzina Zero (_Zero Hour_) was a massive event by KPW standards. Both championships were defended against foreign opponents. Not one but two women's matches were held, and a huge 8-man elimination ladder match led the second half.
@@ -23,12 +22,21 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 ## Card
 
 {% card() %}
-- ['[Peter Pannache](@/w/peter-pannache.md)', '[Kaszub](@/w/kaszub.md)']
-- ['[Alisa](@/w/alisa.md)', '[Mira](@/w/mira.md)', {nc: No Contest}]
-- ['[Kamil Aleksander](@/w/kamil-aleksander.md)', Mika The Polish Punisher]
-- ['[Gracjan Korpo](@/w/gracjan-korpo.md)', '[Krzysztof Zasada](@/w/krzysztof-zasada.md)']
-- ['[Greg](@/w/greg.md)(c)', '[Fynn Freyhart](@/w/fynn-freyhart.md)', {c: "[KPW OldTown Championship](@/c/kpw-old-town-championship.md)"}]
-- ['[Robert Star](@/w/robert-star.md)', Joey Ozbourne, {s: "No Disqualification Match"}]
+- - '[Peter Pannache](@/w/peter-pannache.md)'
+  - '[Kaszub](@/w/kaszub.md)'
+- - '[Alisa](@/w/alisa.md)'
+  - '[Mira](@/w/mira.md)'
+  - nc: No Contest
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - Mika The Polish Punisher
+- - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
+  - '[Krzysztof Zasada](@/w/krzysztof-zasada.md)'
+- - '[Greg](@/w/greg.md)(c)'
+  - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+- - '[Robert Star](@/w/robert-star.md)'
+  - Joey Ozbourne
+  - s: No Disqualification Match
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Adam Bravo](@/w/adam-bravo.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
@@ -37,11 +45,12 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
   - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - '[Victor Rosetti](@/w/rosetti.md)'
-  - s: "Magnificent Seven No Disqualification Elimination Ladder Match for a [KPW Championship](@/c/kpw-championship.md) Title Match"
-- [Kat Von Kaige, '[Bianca](@/w/bianca.md)']
+  - s: 'Magnificent Seven No Disqualification Elimination Ladder Match for a [KPW Championship](@/c/kpw-championship.md) Title Match'
+- - Kat Von Kaige
+  - '[Bianca](@/w/bianca.md)'
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)'
   - '[Wild Boar](@/w/wild-boar.md)'
-  - c: "[KPW Championship](@/c/kpw-championship.md)"
+  - c: '[KPW Championship](@/c/kpw-championship.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'

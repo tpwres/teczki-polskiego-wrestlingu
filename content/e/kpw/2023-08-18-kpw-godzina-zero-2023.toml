@@ -1,0 +1,8 @@
+1 = { path = "2023-08-18-kpw-godzina-zero-2023-plakat.jpg", caption = "Official poster, featuring Iestyn Rees with a clock.", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "david-oliwa-vs-iestyn-rees.webp", caption = "Image announcing [David Oliwa](@/w/david-oliwa.md) vs Iestyn Rees.", source = "Official KPW Facebook" }
+3 = { path = "die-ordnung-vs-bracia-fux.webp", caption = "Image announcing [Veit Müller](@/w/veit-mueller.md) & [Hans Schulte](@/w/hans-schulte.md) vs [Filip Fux](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md).", source = "Official KPW Facebook" }
+4 = { path = "chemik-vs-leon-lato.webp", caption = "Image announcing [Chemik](@/w/chemik.md) vs [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
+5 = { path = "fynn-freyhart-vs-zefir.webp", caption = "Image announcing [Fynn Freyhart](@/w/fynn-freyhart.md) vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
+6 = { path = "rosetti-vs-ludy-lohan.webp", caption = "Image announcing [Rosetti](@/w/rosetti.md) vs Ludy Lohan.", source = "Official KPW Facebook" }
+7 = { path = "battle-royal.webp", caption = "Image announcing the Battle Royal. Left to right, top: [Veit Müller](@/w/veit-mueller.md), [Hans Schulte](@/w/hans-schulte.md), [Rosetti](@/w/rosetti.md), Ludy Lohan, [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md); bottom: [David Oliwa](@/w/david-oliwa.md), [Fynn Freyhart](@/w/fynn-freyhart.md), Iestyn Rees, [Zefir](@/w/zefir.md), [Chemik](@/w/chemik.md), [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
+8 = { path = "greg-vs-red-scorpion.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Red Scorpion](@/w/red-scorpion.md).", source = "Official KPW Facebook" }

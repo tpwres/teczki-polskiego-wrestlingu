@@ -1,0 +1,6 @@
+1 = { path = "2019-01-19-kpw-arena-12-gwiazda-polnocy-plakat.jpg", caption = "Official poster, showing [Peter Pannache](@/w/peter-pannache.md) and [Ron Corvus](@/w/ron-corvus.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+2 = { path = "ron-corvus-vs-peter-pannache.webp", caption = "Image announcing [Ron Corvus](@/w/ron-corvus.md) vs [Peter Pannache](@/w/peter-pannache.md).", source = "Official KPW Facebook" }
+3 = { path = "kamil-aleksander-vs-gracjan-korpo.webp", caption = "Image announcing [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Gracjan Korpo](@/w/gracjan-korpo.md).", source = "Official KPW Facebook" }
+4 = { path = "bianca-vs-yuu-vs-alisa.webp", caption = "Image announcing [Bianca](@/w/bianca.md) vs Yuu vs [Alisa](@/w/alisa.md).", source = "Official KPW Facebook" }
+5 = { path = "moloch-vs-mateusz-kakareko.webp", caption = "Image announcing [Moloch](@/w/moloch.md) vs [Mateusz Kakareko](@/w/mateusz-kakareko.md).", source = "Official KPW Facebook" }
+6 = { path = "boski-ostrowski-vs-david-oliwa.webp", caption = "Image announcing [Boski Ostrowski](@/w/ostrowski.md) vs [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }

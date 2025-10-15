@@ -9,7 +9,6 @@ chronology = ["kpw"]
 city = "Gdańsk"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2015-11-14-vs-the-world-hungary-for-kombat-plakat.jpg", caption = "Official poster. Left to right: [Renegade](@/w/renegade.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Ron Corvus](@/w/ron-corvus.md), [Bianca](@/w/bianca.md) and [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 KPW vs the World was the first event held by the newly created KPW, on November 14, 2015, in the gymnastics hall of Gimnazjum 8 in Gdańsk. This was the same venue that hosted [DDW](@/o/ddw.md)'s [final event](@/e/ddw/2015-05-02-ddw-house-show-2.md). The show's poster also advertised showcases of judo and capoeira to accompany wrestling.

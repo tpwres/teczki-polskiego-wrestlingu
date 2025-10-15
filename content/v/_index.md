@@ -40,5 +40,6 @@ template = "index.html"
 ### Others
 
 * [Klub Pod Palmą](@/v/pod-palma.md) {{ org_badge(org='ddw') }}
+* [Lotnisko Kluczewo](@/v/stargard-lotnisko-kluczewo.md)  {{ org_badge(orgs=['kpw']) }}
 * [Międzynarodowe Targi Poznańskie](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
 * [Tauron Arena Kraków](@/v/tauron-arena.md) {{ org_badge(orgs=['ptw', 'low']) }}

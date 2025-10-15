@@ -9,7 +9,6 @@ venue=["atlantic"]
 city = "Gdynia"
 toclevel = 2
 [extra.gallery]
-1 = { path = "2017-01-14-kpw-arena-v-plakat.jpg", caption = "Official poster, featuring [Robert Star](@/w/robert-star.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Bianca](@/w/bianca.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 +++
 
 The fifth Arena show, this time numbered with a Roman V instead of an Arabic 5, was the first event to be held in [Atlantic](@/v/atlantic-nh-gdynia.md), a music club and bar located in the very center of Gdynia.
@@ -34,6 +33,7 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
+    Special Referee: '[Bianca](@/w/bianca.md)'
 {% end %}
 
 ### Recap
