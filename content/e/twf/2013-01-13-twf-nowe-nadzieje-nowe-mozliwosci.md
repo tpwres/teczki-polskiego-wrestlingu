@@ -17,8 +17,6 @@ TWF: Nowe Nadzieje, Nowe Możliwości! (_New Hopes, New Opportunities!_) was a s
 
 Card unavailable, as the show was removed from YouTube and no other sources are known to exist.
 
-{{ skip_card() }}
-
 ## References
 
 * [Attitude forum post](https://forum.wrestling.pl/topic/31939-twf-nowe-nadzieje-nowe-możliwości)
