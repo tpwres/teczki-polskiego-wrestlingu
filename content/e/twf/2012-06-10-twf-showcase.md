@@ -9,7 +9,7 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF Showcase was a event promoted by [Toruń Wrestling Federation](@/o/twf.md). The showcase took place in a common room of Saint Anthony's nun congregation on May 31st, 2012. The second half of the exhibition was published on June 10th, but the first half wasn't taped. According to a TWF staff member, the show wasn't considered canon by the federation.
+TWF Showcase was a event promoted by [Toruń Wrestling Federation](@/o/twf.md). The showcase took place in a common room of {{ map_pin(v="Świetlica &quot;Antoninek&quot;") }}Saint Anthony's nun congregation on May 31st, 2012. The second half of the exhibition was published on June 10th, but the first half wasn't taped. According to a TWF staff member, the show wasn't considered canon by the federation.
 
 ## Card
 
