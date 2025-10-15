@@ -25,7 +25,7 @@ According to Chris, he was introduced to wrestling arout 2008, watching a clip o
 
 ### Toruń Wrestling Federation (2011-2014)
 
-Chris first started wrestling in [Toruń Wrestling Federation](@/o/twf.md), which he co-founded with his real-life brother [PJ Blake](@/w/pj-blake.md) (FKA as "Hero"). He worked over 20 matches under the ring name "Monster" and won TWF Championship on at least one occasion.
+Chris first started wrestling in [Toruń Wrestling Federation](@/o/twf.md), which he co-founded with his real-life brother [PJ Blake](@/w/pj-blake.md) (AKA "Hero"). He worked over 20 matches under the ring name "Monster" and won the TWF Championship on at least one occasion.
 
 ### Polish Xtreme Wrestling (2012)
 
