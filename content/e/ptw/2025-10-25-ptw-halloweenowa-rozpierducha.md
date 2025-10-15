@@ -27,7 +27,7 @@ toclevel = 2
     nc: upcoming
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ## References
