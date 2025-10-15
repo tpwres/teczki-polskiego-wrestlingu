@@ -19,7 +19,7 @@ TWF: Pokaz w Zespole Szkół nr. 9 w Toruniu (_Showcase in School Complex Number
   - s: Tag Team Match
     nc: '?'
 - credits:
-    Special Guest Referee: ([Mr. Black](@/w/mr-black.md))
+    Special Guest Referee: [Mr. Black](@/w/mr-black.md)
 {% end %}
 
 ## References
