@@ -16,7 +16,7 @@ Road to Royal Rumble will be a 2026 European tour by [WWE](@/o/wwe.md), consisti
 
 ## Build-up
 
-* On 16.10.2025 Live Nation Polska, Ticketmaster Polska and Ergo Arena created a joint [Facebook event][fb-event] for the show. The description stated that tickets pre-sale would begin on 29.10 (for people [registered on WWE.com][pre-sale]) and 30.10 (via Ticketmaster), whereas the general sale would open on 31.10 (all three dates on 10:00 AM). Ticket prices weren't made known, but the Ticketmaster mobile application made mention of VIP tickets, suggesting at least two categories.
+* On 16.10.2025 Live Nation Polska, Ticketmaster Polska and Ergo Arena created a joint [Facebook event][fb-event] for the show. The description stated that tickets pre-sale would begin on 29.10 (for people registered on WWE.com) and 30.10 (via Ticketmaster), whereas the general sale would open on 31.10 (all three dates on 10:00 AM). Ticket prices weren't made known, but the Ticketmaster mobile application made mention of VIP tickets, suggesting at least two categories.
 * While no details were given with regards to the card, the post said that fans would have a chance to see such stars as Cody Rhodes, Seth Rollins, Tiffany Stratton, Jey Uso, Rhea Ripley, LA Knight, Drew McIntyre, Jacob Fatu and more\* (\*list of participants subject to change).
 
 ## Card
@@ -31,4 +31,3 @@ While no card was made available in advance of the show, the official graphic an
 * [Announcement on WWE.com](https://www.wwe.com/event/road-to-royal-rumble-5)
 
 [fb-event]: https://www.facebook.com/events/1378162937301722/
-[pre-sale]: https://www.wwe.com/presale-registration-road-to-royal-rumble-2026
