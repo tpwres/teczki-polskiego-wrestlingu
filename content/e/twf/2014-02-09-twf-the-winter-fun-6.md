@@ -26,4 +26,4 @@ TWF: The Winter Fun #6 was a show produced by [Toruń Wrestling Federation](@/o/
 ## References
 
 * [Attitude forum post](https://forum.wrestling.pl/topic/34960-twf-the-winter-fun-6/#comment-343245)
-* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/pfbid02RfkhqkK4tLPCg8LX1YqGadvipjpByH749ybossoj7VFMbaC6kpLVxDTv6xRyg3cFl) with revealed card
+* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/pfbid02RfkhqkK4tLPCg8LX1YqGadvipjpByH749ybossoj7VFMbaC6kpLVxDTv6xRyg3cFl) with the card
