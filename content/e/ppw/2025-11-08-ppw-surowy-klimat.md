@@ -16,6 +16,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 ## Build-up
 
 * On 6.10.2025 PpW announced that Antoni Ocean is going to prove his worth as a hardcore wrestler in a Trial by [Blade](@/w/johnny-blade.md) Match against the former [PpW European Ultraviolent Champion](@/c/ppw-european-ultraviolent-championship.md).
+* On 15.10.2025 PpW announced a Tag Team Match between [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) representing Rodzina, and the masked Hungarian wrestlers, [Sentinel](@/w/sentinel.md) & Wonder Haze](@/w/wonder-haze.md).
 
 ## Predicted card
 
@@ -23,6 +24,10 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Antoni Ocean'
   - s: Trial by Blade
+    nc: upcoming
+- - 'Rodzina: [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & Wonder Haze](@/w/wonder-haze.md)'
+  - s: Tag Team Match
     nc: upcoming
 {% end %}
 
