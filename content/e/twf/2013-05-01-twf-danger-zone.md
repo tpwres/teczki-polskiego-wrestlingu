@@ -30,5 +30,5 @@ Hero was the Special Guest Referee for Sharky vs Gangsta.
 
 ## References
 
-* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/pfbid05jYjZKqFfp1zCPkrkL4Tw2rFiSQs8DMUr4ScMaHtW3NN27WuAMwK4EamUhkERgayl) announcing card
-* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/558434084196206) with published show. (with now privatized YouTube video)
+* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/pfbid05jYjZKqFfp1zCPkrkL4Tw2rFiSQs8DMUr4ScMaHtW3NN27WuAMwK4EamUhkERgayl) announcing the card
+* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/558434084196206) with published show (YouTube video set to private).
