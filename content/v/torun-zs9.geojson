@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.578519, 53.045810]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Zespół Szkół nr. 9 w Toruniu",
+        "description": "A school complex where [TWF](@/o/twf.md) held a [show in May 2013](@/e/twf/2013-05-31-twf-showcase.md).",
+        "orgs": ["twf"]
+    }
+}
