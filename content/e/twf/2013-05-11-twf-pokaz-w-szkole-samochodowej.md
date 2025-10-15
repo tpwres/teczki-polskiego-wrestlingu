@@ -18,5 +18,5 @@ Card unavailable, as the show was removed from YouTube and no other sources are 
 
 ## References
 
-* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/561846173854997) with a inactive link to a highlights video
+* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/561846173854997) with an inactive link to a highlights video
 * [Attitude forum post](https://forum.wrestling.pl/topic/32850-pokaz-twf-w-szkole-samochodowej-w-toruniu)
