@@ -24,7 +24,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Monster](@/w/chris-hunter.md)(c)'
   - '[Billi Rox](@/w/corin-mear.md)'
   - c: TWF Championship
-  - s: Falls Count Anywhere Match
+    s: Falls Count Anywhere Match
 {% end %}
 
 ## References
