@@ -6,6 +6,8 @@ authors = ["M3n747", "Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "niedzwiedz-uznaje-chrisa-huntera-i-dirka.jpg", caption = "Polski Niedźwiedź name-drops [Chris Hunter](@/w/chris-hunter.md) and [Direk](@/w/direk.md).", source = "bear_ptw @ Instagram" }
 +++
 
 Polski Niedźwiedź (_Polish Bear_) is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
