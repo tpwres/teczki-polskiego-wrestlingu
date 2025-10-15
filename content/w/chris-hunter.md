@@ -8,11 +8,11 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Chris Hunter is a retired Polish backyard wrestler, best known for creating and competing in [Dream Factory Wrestling](@/o/dfw.md). He was also active in other backyard groups, such as EKW from Elbląg, TWF from Toruń, and [Polish Xtreme Wrestling](@/o/pxw.md) from Głuchołazy.
+Chris Hunter is a retired Polish backyard wrestler, best known for creating and competing in [Dream Factory Wrestling](@/o/dfw.md). He was also active in other backyard groups, such as EKW from Elbląg, [TWF](@/o/twf.md) from Toruń, and [Polish Xtreme Wrestling](@/o/pxw.md) from Głuchołazy.
 
 ## Basic info
 
-* Years active: 2012-2018
+* Years active: 2011-2018
 * Gimmicks/nicknames:
   - Monster {{ org_badge(orgs=['twf', 'pxw']) }}
   - Chris Hunter {{ org_badge(orgs=['dfw']) }}
@@ -23,9 +23,9 @@ Chris Hunter is a retired Polish backyard wrestler, best known for creating and 
 
 According to Chris, he was introduced to wrestling arout 2008, watching a clip of Jeff Hardy and Randy Orton. This piqued his interest, and he started to follow wrestling. Not long afterwards he bought the videogame Smackdown vs Raw 2008, which is where he learned about wrestling moves and finishers. Chris discovered the Polish backyard wrestling scene through a newspaper, reading about [WKSW](@/o/wksw.md) in the weekly magazine "Angora". He read an article about "Hulk Hogan's successors from Wołów", which was published in 2011.
 
-### Toruń Wrestling Federation (2011-2012)
+### Toruń Wrestling Federation (2011-2014)
 
-Chris first started wrestling in [Toruń Wrestling Federation](@/o/twf.md), where he worked over 20 matches under the ring name "Monster".
+Chris first started wrestling in [Toruń Wrestling Federation](@/o/twf.md), which he co-founded with his real-life brother [PJ Blake](@/w/pj-blake.md) (FKA as "Hero"). He worked over 20 matches under the ring name "Monster" and won TWF Championship on at least one occasion.
 
 ### Polish Xtreme Wrestling (2012)
 
@@ -61,6 +61,9 @@ Since then Chris retired from wrestling, closing down Dream Factory Wrestling no
 
 * [Dream Factory Wrestling](@/o/dfw.md):
   - [DFW Championship](@/c/dfw-championship.md) (1 time; inaugural)
+ 
+* [Toruń Wrestling Federation](@/o/twf.md):
+  - TWF Championship (1 time; final)
 
 ## References
 
