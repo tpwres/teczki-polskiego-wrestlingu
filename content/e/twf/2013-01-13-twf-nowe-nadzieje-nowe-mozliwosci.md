@@ -15,6 +15,8 @@ TWF: Nowe Nadzieje, Nowe Możliwości! (_New Hopes, New Opportunities!_) was a s
 
 Due to show's removal from YouTube, where it was originally posted there is no known sources depicting the show's card.
 
+{{ skip_card() }}
+
 ## References
 
 * [Attitude forum post](https://forum.wrestling.pl/topic/31939-twf-nowe-nadzieje-nowe-możliwości)
