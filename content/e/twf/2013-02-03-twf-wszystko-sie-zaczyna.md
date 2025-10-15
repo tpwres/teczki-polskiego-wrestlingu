@@ -15,6 +15,8 @@ TWF: Wszystko Się Zaczyna! (_It All Starts!_) was a show produced by [Toruń Wr
 
 Card unavailable, as the show was removed from YouTube and no other sources are known to exist.
 
+{{ skip_card() }}
+
 ## References
 
 * [Attitude forum post](https://forum.wrestling.pl/topic/32097-twf-wszystko-się-zaczyna)
