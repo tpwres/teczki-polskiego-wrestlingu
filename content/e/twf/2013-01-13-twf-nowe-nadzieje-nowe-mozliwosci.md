@@ -13,7 +13,9 @@ TWF: Nowe Nadzieje, Nowe Możliwości! (_New Hopes, New Opportunities!_) was a s
 
 ## Card
 
-Due to show's removal from YouTube, where it was originally posted there is no known sources depicting the show's card.
+{{ skip_card() }}
+
+Card unavailable, as the show was removed from YouTube and no other sources are known to exist.
 
 ## References
 

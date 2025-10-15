@@ -11,9 +11,9 @@ toclevel = 2
 
 TWF: Wszystko Się Zaczyna! (_It All Starts!_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on February 3rd, 2013.  
 
-## Card
+{{ skip_card() }}
 
-Due to show's removal from YouTube, where it was originally posted there is no known sources depicting the show's card.
+Card unavailable, as the show was removed from YouTube and no other sources are known to exist.
 
 ## References
 
