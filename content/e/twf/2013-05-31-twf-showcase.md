@@ -23,3 +23,4 @@ TWF: Pokaz w Zespole Szkół nr. 9 w Toruniu (_Showcase in School Complex Number
 ## References
 
 * [Attitude forum post](https://forum.wrestling.pl/topic/33019-twf-pokaz-w-zespole-szkół-nr-9-po-raz-drugi)
+* [TWF Facebook post](https://www.facebook.com/photo/?fbid=570530556319892&set=a.570530486319899) with photos from the event
