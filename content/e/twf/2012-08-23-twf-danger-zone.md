@@ -14,7 +14,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 ## Card
 
 {% card() %}
-- - 'Over'
+- - '[Over](@/w/over.md)'
   - 'El Patataj'
   - nc: '?'
 - - '[Hero](@/w/pj-blake.md)'

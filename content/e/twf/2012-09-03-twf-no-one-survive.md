@@ -22,7 +22,7 @@ TWF: No One Survive was a show produced by [Toruń Wrestling Federation](@/o/twf
   - s: Qualifying Match
     nc: '?'
 - - '[Sharky](@/w/sharky.md)'
-  - 'Over'
+  - '[Over](@/w/over.md)'
   - s: Qualifying Match
     nc: '?'
 - - '[Hero](@/w/pj-blake.md)'

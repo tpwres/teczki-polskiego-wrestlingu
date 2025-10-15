@@ -18,7 +18,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - '[Żmija](@/w/zmija.md)'
   - nc: '?'
 - - '[Hero](@/w/pj-blake.md)'
-  - 'Over'
+  - '[Over](@/w/over.md)'
   - nc: '?'
 - - '[Monster](@/w/chris-hunter.md)'
   - '[Gangsta](@/w/jay-revolt.md)'
