@@ -19,7 +19,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - nc: '?'
 - - 'Sharky'
   - '[Gangsta](@/w/jay-revolt.md)'
-  - s: [Hero](@/w/pj-blake.md) as Special Guest Referee Match
+  - s: Special Guest Referee Match ([Hero](@/w/pj-blake.md))
     nc: '?'
 {% end %}
 
