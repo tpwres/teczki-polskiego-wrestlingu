@@ -1,0 +1,35 @@
++++
+title = "TWF Ignition 2013"
+template = "event_page.html"
+authors = ["Sewi The Referee"]
+[taxonomies]
+chronology = ["twf"]
+[extra]
+city = "Toruń"
+toclevel = 2
++++
+
+TWF Ignition 2013 was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped on June 13th 2013, and published the following day.
+
+## Card
+
+{% card() %}
+- - '[Monster](@/w/chris-hunter.md)'
+  - '[Mr. Black](@/w/mr-black.md)'
+  - s: Toruń Championship #1 Contender Match
+    nc: '?'
+- - '[Hero](@/w/pj-blake.md)'
+  - '[Gangsta](@/w/jay-revolt.md)'
+  - c: Toruń Championship
+    s: Hardcore Falls Count Anywhere Match
+- - '[Monster](@/w/chris-hunter.md)'
+  - '[Billi Rox](@/w/corin-mear.md)(c)'
+  - '[Sharky](@/w/sharky.md)'
+  - c: TWF Championship
+    s: No DQ Triple Threat Match
+{% end %}
+
+## References
+
+* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/pfbid0hTovGwvoV2RK1WQp6EVSpzcjTN4Neo6GQo7JEupc7BJgQtSUGZoHWVXjiJZP7yufl) with revealed card
+* [TWF Facebook post](https://www.facebook.com/TorunWrestlingFederation/posts/576886735684274) with a inactive link to YouTube video
