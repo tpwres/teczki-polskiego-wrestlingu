@@ -8,20 +8,24 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Corin Mear is a Polish wrestler known for his time in [Dream Factory Wrestling](@/o/dfw.md).
+Corin Mear is a Polish wrestler known for his time in [Dream Factory Wrestling](@/o/dfw.md), [Polish Xtreme Wrestling](@/o/pxw.md) and [Toruń Wrestling Federation](@/o/twf.md) beforehand.
 
 ## Basic info
 
-* Years active: 2015-2017
+* Years active: 2011-2017
 * Gimmicks/nicknames:
-  - Billi Rox {{ org_badge(orgs=['twf']) }}
+  - Billi Rox {{ org_badge(orgs=['twf', 'pxw']) }}
   - Corin Mear {{ org_badge(orgs=['dfw']) }}
 
 ## Professional wrestling career
 
 ### Toruń Wrestling Federation (2011-2014)
 
-Corin Mear, then known as Billi Rox (sometimes also spelled "Billy", "Bili", or even "Bilii"), worked for a few years for [Toruń Wrestling Federation](@/o/twf.md) where he won the TWF Championship. He also took part in a cross-promotion supershow, [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md).
+Corin Mear, then known as Billi Rox (sometimes also spelled "Billy", "Bili", or even "Bilii"), worked for a few years for [Toruń Wrestling Federation](@/o/twf.md) where he won the TWF Championship.
+
+### Polish Xtreme Wrestling (2012)
+
+In July 2012 Billi took part in a cross-promotion supershow, [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), which was hosted by [Polish Xtreme Wrestling](@/o/pxw.md) in Głuchołazy.
 
 ### Dream Factory Wrestling (2015-2017)
 
