@@ -226,7 +226,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 #### Ending & final interviews
 
 * Timestamp: `5:03:57`
-* Michael HT thanks the fans for attending the event. He also promotes the upcoming PpW shows: [PpW x SplatFestival: Chcemy Krwi!](@/e/ppw/2024-10-30-ppw-chcemy-krwi.md), [PpW x Poznan Beer Expo](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) and [the third Hardcore Friday show in December](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md).
+* Michael HT thanks the fans for attending the event. He also promotes the upcoming PpW shows: [PpW x SplatFestival: Chcemy Krwi!](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md), [PpW x Poznan Beer Expo](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) and [the third Hardcore Friday show in December](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md).
 * HT also invites the fans to the merch stand, where they can buy tickets for Hardcore Friday and various merchandise. He also thanks all of the people who helped make this show happen.
 {% end %}
 

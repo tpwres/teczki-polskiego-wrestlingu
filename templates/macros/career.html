@@ -26,6 +26,8 @@
     {% include "badges/pxw.html" %}
   {% elif code == "piwg" %}
     {% include "badges/piwg.html" %}
+  {% elif code == "splat" %}
+    {% include "badges/splat.html" %}
   {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge">
@@ -43,6 +45,9 @@
   {% set ib = true %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
   {% set text_fg = style|get(key='text_fg', default='#fff') %}
+  {% if code is starting_with("~") %}
+    {% set slug = code | replace(from="~", to="") %}
+  {% endif %}
   {% if code == "mcw" %}
     {% include "badges/mcw.html" %}
   {% elif code == "ddw" %}
@@ -67,10 +72,14 @@
     {% include "badges/pxw.html" %}
   {% elif code == "piwg" %}
     {% include "badges/piwg.html" %}
+  {% elif code == "splat" %}
+    {% include "badges/splat.html" %}
   {% else %}
-    {% set org_path = "@/o/" ~ code ~ ".md" -%}
+    {% set org_slug = slug | default(value=code) %}
+    {% set org_path = "@/o/" ~ org_slug ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge ib">
-      <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
+      <a
+        href="{{ get_url(path=org_path) }}" class="nu org-badge"
         style="background: {{ style|get(key='bg', default='#000') }};
                color: {{ style|get(key='fg', default='#fff') }};
         ">
@@ -80,13 +89,20 @@
   {% endif %}
 {% endmacro %}
 
+{# Draws stretchy bars used in the career/appearances section for people and teams #}
+{# [ppw 12] [mzw 1] #}
+{# Stretchy refers to flex-grow settings, which are set proportionally to the fraction of match count for given org #}
+{# Params: career=dict(year => [[org, count], [org, count]]), year=int, styles=extra.styles #}
+{# Omits special orgs in two ways: excludes them from total and does not draw them. Not even the branch dispatch to badge templates should include special orgs. #}
 {% macro orgs_stretchy(career, year, styles) %}
   {% set thisyear = career | get(key=year|as_str, default=[]|group_by(key=0)) %}
   {% set_global total = 0 %}
   {% for org, cnt in thisyear %}
+    {% if config.extra.special_orgs is containing(org) %}{% continue %}{% endif %}
     {% set_global total = total + cnt %}
   {% endfor %}
   {% for org, cnt in thisyear %}
+    {% if config.extra.special_orgs is containing(org) %}{% continue %}{% endif %}
     {% set style = styles|get(key=org, default=[]|group_by(key=0)) %}
     {% set hint_text = '' %}
     {% set bg = style|get(key='bg', default='#000') %}

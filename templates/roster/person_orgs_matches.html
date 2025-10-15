@@ -37,6 +37,7 @@
     {% for mm in all_appearances %}
       {% if mm.o is containing(o) %}{% set_global valid_org = true %}{% break %}{% endif %}
     {% endfor %}
+    {% if config.extra.special_orgs is containing(o) %}{% set_global valid_org = false %}{% endif %}
     {% if not valid_org %}{% continue %}{% endif %}
     {{ macros::promolink_color_span(code=o, styles=org_styles) }}
     {% if display_match_links and all_appearances|length < 5 %}
