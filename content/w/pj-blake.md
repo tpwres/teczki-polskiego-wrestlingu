@@ -21,7 +21,7 @@ PJ Blake is a retired Polish wrestler best known for his time in [Dream Factory 
 
 ### Toruń Wrestling Federation (2011-2014)
 
-PJ Blake - then known as "Hero" - was an active backyard wrestler who got his start in [Toruń Wrestling Federation](@/o/twf.md), which he founded along with his real-life brother [Chris Hunter](@/w/chris-hunter.md) (FKA Monster). He was an inaugural TWF Champion, as well as Toruń Champion for most of his career in TWF.
+PJ Blake - then known as "Hero" - was an active backyard wrestler who got his start in [Toruń Wrestling Federation](@/o/twf.md), which he founded together with his real-life brother [Chris Hunter](@/w/chris-hunter.md) (AKA Monster). He was the inaugural TWF Champion, as well as the Toruń Champion for most of his career in TWF.
 
 ### Polish Xtreme Wrestling (2012)
 
