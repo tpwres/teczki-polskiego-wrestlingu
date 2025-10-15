@@ -16,6 +16,7 @@ toclevel = 2
 ## Build up
 
 * On 13.10.2025 PTW announced [Daniel Razor's](@/w/daniel-razor.md) Open Challenge.
+* On 15.10.2025 PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 
 ## Card
 
@@ -23,6 +24,9 @@ toclevel = 2
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '???'
   - s: Daniel Razor's Open Challenge
+    nc: upcoming
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
     nc: upcoming
 {% end %}
 
