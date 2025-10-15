@@ -17,13 +17,13 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 - - '[Monster](@/w/chris-hunter.md)'
   - '[Mr. Black](@/w/mr-black.md)'
   - nc: '?'
-- - 'Sharky'
+- - '[Sharky](@/w/sharky.md)'
   - '[Gangsta](@/w/jay-revolt.md)'
   - s: Special Guest Referee Match ([Hero](@/w/pj-blake.md))
     nc: '?'
 {% end %}
 
-Show's announcement post also mentions two promos, but due to lack full show footage it is unknown whose these promos were.
+The show's announcement post also mentions two promos, but due to the lack of full show footage it is unknown whose promos they were.
 
 ## References
 

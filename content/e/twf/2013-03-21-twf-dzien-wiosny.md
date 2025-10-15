@@ -15,7 +15,7 @@ TWF: Dzień Wiosny (_Spring Day_) was a show produced by [Toruń Wrestling Feder
 
 {% card() %}
 - - '[Monster](@/w/chris-hunter.md)'
-  - 'Sharky'
+  - '[Sharky](@/w/sharky.md)'
 - - '[Gangsta](@/w/jay-revolt.md)'
   - '[Mr. Black](@/w/mr-black.md)'
 - - '[Billi Rox](@/w/corin-mear.md)'

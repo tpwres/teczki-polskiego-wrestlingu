@@ -22,7 +22,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
   - s: Non-Title Match
     nc: '?'
 - - '[Monster](@/w/chris-hunter.md)'
-  - 'Sharky'
+  - '[Sharky](@/w/sharky.md)'
   - nc: '?'
 - - '[Billi Rox](@/w/corin-mear.md)'
   - '[Gangsta](@/w/jay-revolt.md)'
