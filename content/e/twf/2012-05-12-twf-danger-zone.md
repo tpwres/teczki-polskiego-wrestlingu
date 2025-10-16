@@ -14,7 +14,7 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 ## Card
 
 {% card() %}
-- - 'Młodzi Gniewni: ??? & ???'
+- - 'Młodzi Gniewni: [Thunder](@/w/thunder.md) & [Twister](@/w/twister.md)'
   - '[Small Jumper](@/w/small-jumper.md)'
   - s: 2 On 1 Handicap Match
     nc: '?'
