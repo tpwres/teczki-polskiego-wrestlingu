@@ -7,6 +7,6 @@
     "properties": {
         "type": "venue",
         "name": "Kinoteka",
-        "description": "An arthouse cinema, the location of [Splat!](@/o/splat.md) series of [PpW](@/o/ppw.md) shows."
+        "description": "An arthouse cinema, the location of the [Splat!](@/o/splat.md) series of [PpW](@/o/ppw.md) shows."
     }
 }
