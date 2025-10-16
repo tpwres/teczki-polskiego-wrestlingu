@@ -105,12 +105,18 @@ In their backyard era, PpW were always well connected with the other non-profess
 As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization. 
 After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
 
-## Mainstream media
+## In media
+
+### Mainstream
 
 On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured [a brief segment][halo-tu-ppw] with PpW's wrestlers [Biesiad](@/w/biesiad.md), [Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). Gustav brought his custom [PpW Championship](@/c/ppw-championship.md) belt, which was prominently displayed on a coffee table, with PpW's logo clearly legible.
 The hosts asked the wrestlers several questions, including about the nature of kayfabe and their roles and characters. Biesiad was portrayed as a pure fighter, while Gustav promoted himself as a man of culture and means, deserving the championship he carried. Crane was referred to mostly as "coach".
 The segment ended with Gustav standing up and getting into Biesiad's face, at which point Biesiad removed his T-shirt and threw his opponent across the studio couch. They then ran out into the studio, brawled for a short while, while Crane was trying to separate them.
 Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the show host explained to the camera that it's all a show, and there's no need to be alarmed.
+
+### Independent and other
+
+In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The short depicts PpW wrestlers in their daily lives, and their metamorphosis into seemingly indestructible fighters once they step into the ring and become their true selves. The documentary premiered on 28.10.2025 in {{ map_pin(v="Kinoteka") }}Kinoteka, two days before [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md).
 
 ## Championships
 
