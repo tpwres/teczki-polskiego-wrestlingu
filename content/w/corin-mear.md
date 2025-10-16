@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Corin Mear is a Polish wrestler known for his time in [Dream Factory Wrestling](@/o/dfw.md), [Polish Xtreme Wrestling](@/o/pxw.md) and [Toruń Wrestling Federation](@/o/twf.md) beforehand.
+Corin Mear is a retired Polish backyard wrestler known for his time in [Dream Factory Wrestling](@/o/dfw.md), [Polish Xtreme Wrestling](@/o/pxw.md) and [Toruń Wrestling Federation](@/o/twf.md) beforehand.
 
 ## Basic info
 
