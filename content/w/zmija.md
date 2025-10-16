@@ -10,6 +10,12 @@ country = ["PL"]
 
 Żmija is a retired backyard wrestler who worked for [Toruń Wrestling Federation](@/o/twf.md).
 
+## Basic info
+
+* Years active: 2011-2013
+* Gimmicks/nicknames:
+  - Żmija {{ org_badge(orgs=['dfw']) }}
+
 ## Professional wrestling career
 
 ### Toruń Wrestling Federation (2011-2013)
