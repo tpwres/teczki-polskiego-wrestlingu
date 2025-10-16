@@ -13,7 +13,7 @@ toclevel = 2
 +++
 
 "Chcemy Krwi!" (_We Want Blood!_) was a PpW event held in collaboration with horror film festival [Splat!FilmFest](@/o/splat.md), on October 30th, 2024.
-The venue was Kinoteka, an arthouse cinema located in Warsaw's [Palace of Culture and Science][pkin-wikipedia], specifically its lounge/bar area.
+The venue was {{ map_pin(v="Kinoteka") }}Kinoteka, an arthouse cinema located in Warsaw's [Palace of Culture and Science][pkin-wikipedia], specifically its lounge/bar area.
 The event was free and open to the public, so while the festival moviegoers made a sizable chunk of the audience, fans not interested in the movies
 also attended the show.
 

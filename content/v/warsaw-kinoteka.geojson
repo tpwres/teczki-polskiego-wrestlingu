@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [21.006460, 52.231323]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Kinoteka",
+        "description": "An arthouse cinema, the location of [Splat!](@/o/splat.md) series of [PpW](@/o/ppw.md) shows."
+    }
+}

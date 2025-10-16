@@ -12,7 +12,7 @@ toclevel = 2
 1 = { path = "ppw-clash-of-the-creeps-plakat.webp", caption = "Official poster featuring [Johnny Blade](@/w/johnny-blade.md) and [Gremlin](@/w/goblin.md).", source = "Official PpW Facebook"}
 +++
 
-Clash of the Creeps is an upcoming Halloween-themed PpW event. It is the second show in collaboration with horror film festival [Splat!FilmFest](@/o/splat.md), following 2024's [Chcemy Krwi!](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md) Like before, it's to be held in Kinoteka, an arthouse cinema located in Warsaw's [Palace of Culture and Science][pkin-wikipedia]. The event will free and open to the public.
+Clash of the Creeps is an upcoming Halloween-themed PpW event. It is the second show in collaboration with horror film festival [Splat!FilmFest](@/o/splat.md), following 2024's [Chcemy Krwi!](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md) Like before, it's to be held in {{ map_pin(v="Kinoteka") }}Kinoteka, an arthouse cinema located in Warsaw's [Palace of Culture and Science][pkin-wikipedia]. The event will free and open to the public.
 
 ## Card
 
