@@ -64,7 +64,7 @@ Since then Chris retired from wrestling, closing down Dream Factory Wrestling no
  
 * [Toruń Wrestling Federation](@/o/twf.md):
   - TWF Championship (1 time; final)
-  - Toruń Championship
+  - Toruń Championship (1 time)
 
 ## References
 
