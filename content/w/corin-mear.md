@@ -21,7 +21,7 @@ Corin Mear is a Polish wrestler known for his time in [Dream Factory Wrestling](
 
 ### Toruń Wrestling Federation (2011-2014)
 
-Corin Mear, then known as Billi Rox (sometimes also spelled "Billy", "Bili", or even "Bilii"), worked for a few years for [Toruń Wrestling Federation](@/o/twf.md) where he won the TWF Championship.
+Corin Mear, then known as Billi Rox (sometimes also spelled "Billy", "Bili", or even "Bilii"), worked for a few years for [Toruń Wrestling Federation](@/o/twf.md) where he won the TWF Championship, most probably on numerous ocassions.
 
 ### Polish Xtreme Wrestling (2012)
 
@@ -41,4 +41,4 @@ In total, Corin made 16 appearances for DFW, with his last one taking place at [
 ## Championships and accomplishments
 
 * [Toruń Wrestling Federation](@/o/twf.md):
-  - TWF Championship (1 time)
+  - TWF Championship (3 times)
