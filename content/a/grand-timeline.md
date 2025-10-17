@@ -104,7 +104,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * WWE holds what is for a decade thought to be their [last show](@/e/wwe/2015-04-15-wwe-live.md) in Poland.
 * Don Roid is forced to travel hundreds of kilometers from Rzeszów to Gdańsk to oversee the organization. He quickly gets tired of it, sells the ring and closes down DDW.
 * The buyers of that ring are a group of his wrestlers, including Pawłowski. They start a new organization called [Kombat Pro Wrestling](@/o/kpw.md), and recruit nearly the entire former roster of DDW.
-* Two backyards in Kuyavia, one from Toruń and one from Grudziądz, join forces. They become [Dream Factory Wrestling](@/o/dfw.md) and obtain a proper ring.
+* Two backyards in Kuyavia, [Toruń Wrestling Federation](@/o/twf.md) and a group from Grudziądz, join forces. They become [Dream Factory Wrestling](@/o/dfw.md) and obtain a proper ring.
 
 #### 2016
 

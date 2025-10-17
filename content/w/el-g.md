@@ -26,7 +26,7 @@ El G is an Italian wrestler best known for his appearances in [Prime Time Wrestl
 
 ### Prime Time Wrestling (2025-present)
 
-El G made his first appearance in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their show [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). El G took part in the International Showcase Match which was won by Lucia Lee. From that point on he started making ocassional appearances for the federation, mostly working as a villainous enhancement talent.
+El G made his first appearance in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their show [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). El G took part in the International Showcase Match which was won by Lucia Lee. From that point on he started making occasional appearances for the federation, mostly working as a villainous enhancement talent.
 
 ## Internet presence
 

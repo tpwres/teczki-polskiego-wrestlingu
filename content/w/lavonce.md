@@ -20,7 +20,7 @@ LaVonce is an American wrestler best known to Polish audiences from his work for
 
 ### Prime Time Wrestling (2024-present)
 
-LaVonce made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their show [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md), where he was defeated by [Rust](@/w/rust.md). From that point on he started making ocassional appearances for PTW, working mostly as a babyface enhancement talent.
+LaVonce made his debut in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their show [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md), where he was defeated by [Rust](@/w/rust.md). From that point on he started making occasional appearances for PTW, working mostly as a babyface enhancement talent.
 
 ## Internet presence
 

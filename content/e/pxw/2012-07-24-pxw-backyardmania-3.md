@@ -27,12 +27,12 @@ toclevel = 2
   - 'Learson'
   - c: BWN Championship
     nc: '?'
-- - 'Gangsta'
-  - '[Hero](@/w/chris-hunter.md)'
+- - '[Gangsta](@/w/jay-revolt.md)'
+  - '[Hero](@/w/pj-blake.md)'
   - c: Toruń Championship
     nc: '?'
-- - 'Billi Rox'
-  - '[Monster](@/w/pj-blake.md)'
+- - '[Billi Rox](@/w/corin-mear.md)'
+  - '[Monster](@/w/chris-hunter.md)'
   - c: TWF Championship
     nc: '?'
 - - 'Dirty Devil'

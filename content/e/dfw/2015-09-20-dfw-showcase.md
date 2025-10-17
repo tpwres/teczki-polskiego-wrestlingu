@@ -17,7 +17,7 @@ In the main event, Revage faced Chris Hunter in a rematch from the [previous sho
 ## Card
 
 {% card() %}
-- - 'Jay Revolt'
+- - '[Jay Revolt](@/w/jay-revolt.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
 - - '[Malmo Buruto](@/w/malmo-buruto.md)'
   - '[Charlie Grayson](@/w/madman-charlie.md)'

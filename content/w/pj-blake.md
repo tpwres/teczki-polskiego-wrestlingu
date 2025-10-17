@@ -12,16 +12,20 @@ PJ Blake is a retired Polish wrestler best known for his time in [Dream Factory 
 
 ## Basic info
 
-* Years active: 2012; 2015-2017
+* Years active: 2011-2017
 * Gimmicks/nickanems:
-  - Monster {{ org_badge(orgs=['pxw']) }}
+  - Hero {{ org_badge(orgs=['twf', pxw']) }}
   - PJ Blake {{ org_badge(orgs=['dfw']) }}
 
 ## Professional wrestling career
 
+### Toruń Wrestling Federation (2011-2014)
+
+PJ Blake - then known as "Hero" - was an active backyard wrestler who got his start in [Toruń Wrestling Federation](@/o/twf.md), which he founded together with his real-life brother [Chris Hunter](@/w/chris-hunter.md) (AKA Monster). He was the inaugural TWF Champion, as well as the Toruń Champion for most of his career in TWF.
+
 ### Polish Xtreme Wrestling (2012)
 
-PJ Blake - then known as "Monster", was an active backyard wrestler. One event he participated in was [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow held by [Polish Xtreme Wrestling](@/o/pxw.md).
+Hero participated in [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md), a backyard supershow held by [Polish Xtreme Wrestling](@/o/pxw.md).
 
 ### Dream Factory Wrestling (2015-2017)
 
@@ -40,3 +44,9 @@ After DFW folded its operations, PJ Blake eventually retired from professional w
     {{ music(yt='I0-lENIRHaM')}}
     {{ music(spot='575Sz3R4xOhueUstPObylF')}}
     {{ music(apple='1450664881?i=1450664882')}}
+
+## Championships and accomplishments
+
+* [Toruń Wrestling Federation](@/o/twf.md):
+  - TWF Championship (1 time; inaugural)
+  - Toruń Championship (1 time; final)
