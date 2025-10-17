@@ -127,7 +127,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
     {{ music(spot='57bgtoPSgt236HzfBOd8kj')}}
     {{ music(apple='574049507?i=574051407')}}
   - "Enter Sandman" by Metallica
-    {{ org_badge(orgs=['ppw']) }} (2025-; used ocassionally) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025-; used occasionally) <br>
     {{ music(yt='CD-E-LDc384')}}
     {{ music(spot='2T5q7qhJVN4m2hMSIAsOlC')}}
     {{ music(apple='1571968136?i=1571968519')}}

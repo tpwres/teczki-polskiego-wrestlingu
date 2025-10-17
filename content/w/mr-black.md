@@ -21,11 +21,11 @@ Mr. Black is a retired backyard wrestler who worked for [Toruń Wrestling Federa
 
 ### Toruń Wrestling Federation (2011-2014)
 
-Mr. Black started his wrestling career by joining [Toruń Wrestling Federation](@/o/twf.md) when it was created. During his tenure in federation he managed to win TWF Championship on one ocassion. Eventually, after TWF folded he retired from in-ring action.
+Mr. Black started his wrestling career by joining [Toruń Wrestling Federation](@/o/twf.md) when it was created. During his tenure in the federation he managed to win the TWF Championship on one occasion. Eventually, after TWF folded, he retired from in-ring action.
 
 ### Dream Factory Wrestling (2016)
 
-Mr. Black - known under his real-life name Radek - made one appearance in [Dream Factory Wrestling](@/o/dfw.md), where he worked as an announcer for their [show in ZST](@/e/dfw/2016-03-10-dfw-zst.md) which he was student of.
+Mr. Black - known under his real-life name Radek - made one appearance in [Dream Factory Wrestling](@/o/dfw.md), where he worked as an announcer for their [show in ZST](@/e/dfw/2016-03-10-dfw-zst.md), held in the school he was a student of.
 
 ## Championships and accomplishments
 

@@ -62,7 +62,7 @@ This plan was however scrapped, after [Max's release from PTW][speed-zwolniony].
 
 ## International wrestling appearances
 
-From 2021 onwards Nano started making ocassional appearances in independent federations across the Europe. This included Italian Wrestling Association, Nordic Elite Wrestling and multiple promotions from his homeland of Spain.
+From 2021 onwards Nano started making occasional appearances in independent federations across the Europe. This included Italian Wrestling Association, Nordic Elite Wrestling and multiple promotions from his homeland of Spain.
 
 ## In wrestling
 

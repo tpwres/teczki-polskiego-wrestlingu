@@ -71,7 +71,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * [Oskar Alexander](@/w/oskar-alexander.md) is the third one in this match. He makes his way to the ring supported by Agentka Agatka - his manager - who sips her vodka martini, standing on the stage throughout the match.
 * Goblin finally makes his entrance wearing one of the Olgierd's merchandise shirts with many invectives written on it. He immediatly takes on the charging Olgierd and the two brawl backstage.
 * The match is filled with many spots and continous change of initiative every few moments. Olgierd is mostly focused on fighting Goblin, while Oskar fights Gabriel Queen.
-* Queen and Goblin ocassionaly team up to fend off Oskar and Olgierd, but have some opportunites to exchange blows with each other.
+* Queen and Goblin occasionaly team up to fend off Oskar and Olgierd, but have some opportunites to exchange blows with each other.
 * One of most memorable spots from the fight would be the chaotic exchange of powerful moves between wrestlers started by Goblin performing a Top-Rope Sunset Flip Powerbomb on Olgierd and finished by Oskar Alexander powerbombing Gabriel onto Goblin and Olgierd laying in the middle of the ring.
 * The second memorable spot was the simultaneous four-way submission with wrestlers submitting each other at the same time.
 * Finally, Gabriel Queen wins the fight after hitting his new finisher - a Running Lariat - on Oskar Alexander.
