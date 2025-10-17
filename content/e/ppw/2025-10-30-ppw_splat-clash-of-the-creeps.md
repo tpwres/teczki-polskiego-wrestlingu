@@ -14,9 +14,17 @@ toclevel = 2
 
 Clash of the Creeps is an upcoming Halloween-themed PpW event. It is the second show in collaboration with horror film festival [Splat!FilmFest](@/o/splat.md), following 2024's [Chcemy Krwi!](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md) Like before, it's to be held in {{ map_pin(v="Kinoteka") }}Kinoteka, an arthouse cinema located in Warsaw's [Palace of Culture and Science][pkin-wikipedia]. The event will be free and open to the public.
 
-## Card
+## Build-up
+* As per the show's announcement, PpW wrestlers will not face each other at the show. Instead, they will face the monsters from horror movies (presumably cosplay-clad wrestlers).
+* On 13.10 PpW confirmed that [Ppw Champion](@/c/ppw-championship.md)[Goblin](@/w/goblin.md) will make an appearance, "taking wrestlers' side" against one of the monsters.
 
-{{ skip_card() }}
+## Card
+{% card(predicted=true) %}
+- - '[Goblin](@/w/goblin.md)'
+  - '???'
+    nc: Upcoming
+
+{% end %}
 
 ### Recap
 
