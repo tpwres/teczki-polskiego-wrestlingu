@@ -6,7 +6,7 @@
     },
     "properties": {
         "type": "venue",
-        "name": "Kompleks Sportowy &quot;Michał&quot;",
+        "name": "Kompleks Sportowy 'Michał'",
         "description": "&quot;Michał&quot; Sports Complex, where [MCW #3](@/e/mcw/2019-09-14-mcw-show-3.md) and [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md) were held.",
         "orgs": ["mcw"]
     }

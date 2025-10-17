@@ -6,7 +6,7 @@
     },
     "properties": {
         "type": "historical-venue",
-        "name": "Świetlica &quot;Antoninek&quot;",
+        "name": "Świetlica 'Antoninek'",
         "description": "St. Anthony's clergy house in Toruń, where [TWF](@/o/twf.md) held a [2012 showcase](@/e/twf/2012-06-10-twf-showcase.md).",
         "orgs": ["twf"]
     }
