@@ -19,11 +19,11 @@ Clash of the Creeps is an upcoming Halloween-themed PpW event. It is the second 
 * On 13.10 PpW confirmed that [Ppw Champion](@/c/ppw-championship.md)[Goblin](@/w/goblin.md) will make an appearance, "taking wrestlers' side" against one of the monsters.
 
 ## Card
+
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md)'
   - '???'
-    nc: Upcoming
-
+  - nc: Upcoming
 {% end %}
 
 ### Recap
