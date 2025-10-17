@@ -8,19 +8,19 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Żmija is a retired backyard wrestler who worked for [Toruń Wrestling Federation](@/o/twf.md).
+Żmija (_Viper_) is a retired backyard wrestler who worked for [Toruń Wrestling Federation](@/o/twf.md).
 
 ## Basic info
 
 * Years active: 2011-2013
 * Gimmicks/nicknames:
-  - Żmija {{ org_badge(orgs=['dfw']) }}
+  - Żmija {{ org_badge(orgs=['twf']) }}
 
 ## Professional wrestling career
 
 ### Toruń Wrestling Federation (2011-2013)
 
-Żmija worked for [Toruń Wrestling Federation](@/o/twf.md) from the very start in late 2011. At [Day of DOOM!](@/e/twf/2012-06-03-twf-day-of-doom.md) he won the Wrzosy Championship in a Last Chance Match against [Small Jumper](@/w/small-jumper.md), eventually losing it or retiring the title some time later in the second half of 2012. He officially left TWF on February 18th, 2013, along with El Patataj.
+Żmija worked for [Toruń Wrestling Federation](@/o/twf.md) from the very start in the late 2011. At [Day of DOOM!](@/e/twf/2012-06-03-twf-day-of-doom.md) he won the Wrzosy Championship in a Last Chance Match against [Small Jumper](@/w/small-jumper.md), eventually losing it or retiring the title some time later in the second half of 2012. He officially left TWF on February 18th, 2013, along with El Patataj.
 
 ## Championships and accomplishments
 

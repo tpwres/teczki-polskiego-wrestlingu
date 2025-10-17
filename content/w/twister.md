@@ -20,7 +20,7 @@ Twister is a retired backyard wrestler who worked for [Toruń Wrestling Federati
 
 ### Toruń Wrestling Federation (2012-2013)
 
-Twister joined [Toruń Wrestling Federation](@/o/twf.md) sometime in early 2012. He worked mostly with his tag team partner [Thunder](@/w/thunder.md) as tag team called "Młodzi Gniewni". They managed to win TWF Tag Team Championship, being the only tag team champions in federation's history. He eventually left the federation sometime in early 2013.
+Twister joined [Toruń Wrestling Federation](@/o/twf.md) some time in the early 2012. He worked mostly with his tag team partner [Thunder](@/w/thunder.md) as tag team called "Młodzi Gniewni" (roughly _The Young and the Furious_). They managed to win the TWF Tag Team Championship, and were the only Tag Team Champions in federation's history. Twister eventually left the federation some time in the early 2013.
 
 ## In wrestling
 

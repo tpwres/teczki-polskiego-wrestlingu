@@ -20,11 +20,9 @@ Small Jumper is a retired backyard wrestler who worked for [Toruń Wrestling Fed
 
 ### Toruń Wrestling Federation (2011-2012)
 
-Small Jumper joined [Toruń Wrestling Federation](@/o/twf.md) in federation's early days back in 2011. He remained active in federation until 2012, after which he retired from backyard wrestling. During his tenure in the federation he managed to win Wrzosy Championship
+Small Jumper joined [Toruń Wrestling Federation](@/o/twf.md) in the federation's early days, back in 2011. He remained active there until 2012, when he retired from backyard wrestling. During his tenure in TWF he managed to win the Wrzosy Championship.
 
 ## Championships and accomplishments
 
 * [Toruń Wrestling Federation](@/o/twf.md):
   - Wrzosy Championship (1 time; inaugural)
-
-* 
