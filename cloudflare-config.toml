@@ -107,6 +107,11 @@ text_fg = '#fbf1c7'
 bg = '#000'
 text_fg = '#ffffff'
 
+[extra.org_styles.twf]
+bg = '#a9100b'
+text_fg = '#ffffff'
+
+
 [extra.chronology]
 arena = "KPW Arena"
 beer-expo = "Poznań Beer Expo"
