@@ -107,7 +107,7 @@ bg = '#000'
 text_fg = '#ffffff'
 
 [extra.org_styles.twf]
-bg = '#a9100b'
+bg = '#4f8ebf'
 text_fg = '#ffffff'
 
 [extra.chronology]
