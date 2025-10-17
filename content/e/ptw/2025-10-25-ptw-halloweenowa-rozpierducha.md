@@ -39,8 +39,8 @@ toclevel = 2
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Match'
-  - c: 'Championship opportunity vs Championship ban for Team Okoński'
-  - nc: upcoming
+    c: 'Championship opportunity vs Championship ban for Team Okoński'
+    nc: upcoming
 {% end %}
 
 ## References
