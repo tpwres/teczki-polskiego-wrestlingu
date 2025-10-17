@@ -58,4 +58,4 @@ On 17.10.2025, he was [announced][seminar] for a seminar on November 3th, mainly
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=3689)
 
-seminar:(https://www.facebook.com/events/4026337867610745/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D)
+[seminar]: https://www.facebook.com/events/4026337867610745/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D
