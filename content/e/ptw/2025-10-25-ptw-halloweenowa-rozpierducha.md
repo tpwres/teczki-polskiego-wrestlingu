@@ -19,11 +19,11 @@ toclevel = 2
 * On 13.10.2025 PTW announced [Daniel Razor's](@/w/daniel-razor.md) Open Challenge for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * On 14.10.2025, Pawłowski [confirmed][konfirmacja] the stakes for the 4 on 4 match. If Team Okoński wins, all the members earn title shots. If they lose, however, they will be forever banned from competing for gold. It is unclear whether the stakes extend to all PTW titles, or only the ones that each of Team Okoński's members is recently going after.
 * On 15.10.2025 PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
-* On 16.10.2025 PTW announced CJ Klakson is going to host an open challenge, where he's going to deliver his signature _manto_(roughly "beatdown").
+* On 16.10.2025 PTW announced CJ Klakson is going to host an open challenge, where he's going to deliver his signature _manto_ (roughly "beatdown").
 
-## Card
+## Predicted card
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '???'
   - s: Daniel Razor's Open Challenge
