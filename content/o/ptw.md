@@ -225,18 +225,18 @@ Asked about [Legacy of Wrestling](@/o/low.md), he claimed there were no attempts
 One of the main selling points of PTW, differentiating them from their competition, were sponsors, an actual budget and the ability to bring in a lot of pro wrestlers from abroad.
 
 At [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) it was announced that [Santino Marella](@/w/santino.md), former long-time WWE star, would become one of the organization's co-owners.
-This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator, and suprise entrant in the Gold Rush Rumble. On 17.10.2025, PTW's "third owner", was [announced](https://www.facebook.com/events/4026337867610745/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D) for a seminar on November 3th, mainly targeted toward PTW wrestlers and trainees, but also open to public (with minimum of in-ring training required).
+This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator, and suprise entrant in the Gold Rush Rumble. On 17.10.2025, PTW's "third owner", was [announced][santino-seminar] for a seminar on November 3th, mainly targeted towards PTW wrestlers and trainees, but also open to the public (with a minimum of in-ring training required).
 
 In 2022, PTW entered into collaboration with Austrian wrestler [Krampus](@/w/krampus.md) and his new organization, World Wrestling Austria.
 It was quickly renamed to _PTW:WWA_ and became a de facto "sister federation" ran by Krampus with assistance from Pawłowski.
-This cooperation allowed PTW talent to be booked at the two PTW: WWA shows in late 2023 and early 2024, before the Austrian federation folded. In 2025, Krampus made his return to the promotion, bringing in some Austrian talent, but this time without WWA banner.
-See the [Expansion into Austria](#expansion-into-austria) section above.
+This cooperation allowed PTW talent to be booked at the two PTW: WWA shows in late 2023 and early 2024, before the Austrian federation folded. In 2025 Krampus returned to the promotion, bringing in some Austrian talent, but this time without WWA banner.
+(See the [Expansion into Austria](#expansion-into-austria) section above.)
 
-PTW also entered a deal with British Wrestling Revolution (BWR), which allowed BWR Champion [Scotty Rawk](@/w/scotty-rawk.md) to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked at one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed, on a [livestream][live-istota-puncher] by Istota Wrestlingu, that the deal is still on.
+PTW also struck a deal with British Wrestling Revolution (BWR), which allowed BWR Champion [Scotty Rawk](@/w/scotty-rawk.md) to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked for one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed in a [livestream][live-istota-puncher] by Istota Wrestlingu that the deal was still on.
 
-In the early September 2024, PTW announced they'd be sending a team of wrestlers to _Botte da BestYa 2_, an event by the Italian organization ICW happening on September 15, 2024. This team consisted of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who defended his championship. Later in 2025, this turned into a tighter cooperation with a new Italian promotion named BestYa Wrestling, with talent continuing to appear in Poland.
+In the early September 2024, PTW announced they'd be sending a team of wrestlers to _Botte da BestYa 2_, an event by the Italian organization ICW happening on September 15, 2024. This team consisted of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who defended his championship. Later in 2025 this turned into a tighter cooperation with a new Italian promotion named BestYa Wrestling, with talent continuing to appear in Poland.
 
-One remarkable deal between PTW and a bigger promotion was an agreement with Impact Wrestling, for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in 2022.
+One remarkable deal between PTW and a bigger promotion was an agreement with Impact Wrestling for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in 2022.
 
 ## Championships
 
@@ -300,3 +300,4 @@ On 2.07.2025 fans noticed that the official PTW website was replaced with a gene
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
 [czas-na-wrestling]: https://telewizjatvt.pl/?s=czas+na+wrestling
 [kasa-okonia]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0iFqn83h3b4kKVnnR5RcDMLf1aPgsgKMXp4h3xVRw5PdZ9cqHYHWPdLPMXh1qvjfkl?comment_id=562428546715279&reply_comment_id=995528549068105&__cft__[0]=AZU-ng20dgCTd4R68-RE0tWxjAqUCkQQXtMgnqZYDZ79CNiykw--ebu8H72faUFBHMD-l4TSQpypqQa79nmMzI8u5dfdmOzthKmkv8LpJ9sLJkNNK6NeIZU97lU3GAaEQyGcMUqaDhbudKdN0PcJi1L_vhgzdaE_OUKb1hmCpfstwc0yocNcrVO_5rz_RSMYM9U&__tn__=R]-R
+[santino-seminar]: https://www.facebook.com/events/4026337867610745/
