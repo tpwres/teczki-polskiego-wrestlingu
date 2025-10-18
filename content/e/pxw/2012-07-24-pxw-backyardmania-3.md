@@ -12,6 +12,8 @@ toclevel = 2
 
 Backyardmania III was a cross-promotion supershow, hosted by PXW in their {{ map_pin(v="glucholazy-grunwaldzka-5") }}usual spot in Głuchołazy.
 
+In early Spring 2010 someone known as Chudy from Wołów had the idea for a major backyard event, drawing the attention of a lot of people on wrestling forums. Following the inception of [Do Or Die Wrestling](@/o/ddw.md) just the year before, plenty of backyard wrestlers left the amateur scene to train with Poland's first professional promotion.
+
 ## Card
 
 {% card() %}
