@@ -17,11 +17,11 @@ Adrian Zgórski, also known as Adi, is a host and ring announcer working for [Ma
   - Dirty Devil {{ org_badge(orgs=['pxw']) }}
   - Adrian "Adi" Zgórski {{ org_badge(orgs=['mzw']) }}
 
-## Backyard wrestling
+## Professional wrestling career
+
+### Polish Xtreme Wrestling (2012)
 
 Adi competed in [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md) (as Dirty Devil), where he want against Nick Violent in a Hardcore Match.
-
-## Professional wrestling career
 
 ### Maniac Zone Wrestling (2023-present)
 

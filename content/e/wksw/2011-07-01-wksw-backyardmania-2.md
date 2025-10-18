@@ -18,12 +18,11 @@ The event lasted for four days, 1-4 July. Day 1 (Friday, 1.07) was for getting e
 No match card is known. According to the [source][atti], there were such people as TLK, VebVe or Lays, and backyard groups BWA and DSW. Briefly present was also [Matt2Hott](@/w/matt2hot.md), but he "apparently mistook the show for a pizzeria and quickly went home with Elvis and Mike".
 
 {% card() %}
-- d: 'Day 1'
 - - '???'
   - '???'
   - nc: '?'
 - - 'VebVe'
-  - TLK'
+  - 'TLK'
   - '???'
   - s: 16-Man Royal Rumble Match
     nc: '?'
@@ -50,7 +49,7 @@ No match card is known. According to the [source][atti], there were such people 
 - - 'TLK'
   - '???'
   - nc: '?'
-    n: "TLK's opponent is only known as a &quot;guy in a CM Punk shirt&quot;"
+    n: "The [source][podsumowanie] only lists TLK's opponent as a &quot;guy in a CM Punk shirt&quot;"
 - - 'TLK'
   - 'Lays'
   - nc: '?'
@@ -58,9 +57,8 @@ No match card is known. According to the [source][atti], there were such people 
   - 'Stomp'
   - '???'
   - s: 'Browar in the Bank Match'
-
 - credits:
-    Referees: 'Virus'
+    Referees: 'Virus, ???'
 {% end %}
 
 ## References
