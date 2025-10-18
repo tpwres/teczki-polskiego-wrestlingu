@@ -112,6 +112,7 @@ text_fg = '#ffffff'
 
 [extra.chronology]
 arena = "KPW Arena"
+backyardmania = "Backyardmania"
 beer-expo = "Poznań Beer Expo"
 godzina-zero = "KPW Godzina Zero"
 international = "International"

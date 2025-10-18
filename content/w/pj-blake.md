@@ -14,7 +14,7 @@ PJ Blake is a retired Polish wrestler best known for his time in [Dream Factory 
 
 * Years active: 2011-2017
 * Gimmicks/nickanems:
-  - Hero {{ org_badge(orgs=['twf', pxw']) }}
+  - Hero {{ org_badge(orgs=['twf', 'pxw']) }}
   - PJ Blake {{ org_badge(orgs=['dfw']) }}
 
 ## Professional wrestling career

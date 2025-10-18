@@ -8,6 +8,7 @@ toclevel = 3
 compact_event_list = true
 [taxonomies]
 chrono_root = ["twf"]
+[extra.gallery]
 +++
 
 Toruń Wrestling Federation was a backyard wrestling organisation from Toruń, active between 2011 and 2014.
