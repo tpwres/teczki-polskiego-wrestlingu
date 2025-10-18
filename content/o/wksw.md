@@ -5,9 +5,6 @@ template = "org_page.html"
 authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chrono_root = ["wksw"]
-[extra]
-hide_roster = true
-hide_events = true
 [extra.gallery]
 manifest = "@/o/wksw-gallery.toml"
 +++
@@ -23,6 +20,8 @@ Later, after fulfilling some legal requirements, the group registered as a sport
 WKSW often took part in local festivals and charity events, even appearing at the 22nd Grand Finale of the [Great Orchestra of Christmas Charity][wosp] in January 2014. The group was also actively supported by [Andrzej Supron](@/w/andrzej-supron.md), which included lending them his ring, previously used by [Total Blast Wrestling](@/o/tbw.md).
 
 The group attracted more media attention than other backyards: newspaper publication Angora printed a short column in 2011, and according to their crowdfunding page (see below), regional broadcaster TVP Wrocław took interest, as well as the commercial Polsat (on their flagship news show Wydarzenia, on 2014-03-22) and TVN networks.
+
+In 2010 and 2011 WKSW - then still known as WKW - organised two cross-promotion shows: [Backyardmania](@/e/wksw/2010-07-27-wksw-backyardmania-1.md) and [Backyardmania II](@/e/wksw/2011-07-01-wksw-backyardmania-2.md).
 
 The group folded at some point in 2014, and later deleted all their videos uploaded to YouTube.
 

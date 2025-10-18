@@ -1,18 +1,18 @@
 +++
 title = "PXW Backyardmania III"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
-chronology = ["pxw"]
+chronology = ["backyardmania", "pxw"]
 [extra]
-hide_results = true
 city = "Głuchołazy"
 toclevel = 2
 [extra.gallery]
 +++
 
-Backyardmania III was a cross-promotion supershow, hosted by PXW in their {{ map_pin(v="glucholazy-grunwaldzka-5") }}usual spot in Głuchołazy.
+Backyardmania III was a cross-promotion supershow, hosted by PXW in their {{ map_pin(v="glucholazy-grunwaldzka-5") }}usual spot in Głuchołazy. The previous two Backyardmanias were organised by [WFW](@/o/wksw.md), but since the group obtained a professional ring, they were busy with their own preparations and didn't want to get involved in such events. PXW was the only federation with the means and the will to put the show together; as a result of the change in organisers, the third show took place in PXW'w ring instead of on mattresses.
 
-In early Spring 2010 someone known as Chudy from Wołów had the idea for a major backyard event, drawing the attention of a lot of people on wrestling forums. Following the inception of [Do Or Die Wrestling](@/o/ddw.md) just the year before, plenty of backyard wrestlers left the amateur scene to train with Poland's first professional promotion.
+Similarly to [Backyardmania II](@/e/wksw/2012-07-01-ppw-neomania-ii.md), this also was a multi-day event. N!ko ("with a group of experts") from Attitude Forum recorded a commentary, which was available as a separate download. The file, however, is no longer publicly available.
 
 ## Card
 
@@ -39,7 +39,7 @@ In early Spring 2010 someone known as Chudy from Wołów had the idea for a majo
   - '[Monster](@/w/chris-hunter.md)'
   - c: TWF Championship
     nc: '?'
-- - 'Dirty Devil'
+- - '[Dirty Devil](@/w/adrian-zgorski.md)'
   - 'Nick Violent'
   - s: Hardcore Match
     nc: '?'
@@ -68,6 +68,7 @@ In early Spring 2010 someone known as Chudy from Wołów had the idea for a majo
     nc: '?'
 - credits:
     Referee: '???'
+    Commentary: 'N!ko, ???, ???'
 {% end %}
 
 ## References
