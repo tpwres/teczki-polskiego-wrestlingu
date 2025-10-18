@@ -9,7 +9,7 @@ city = "Wołów"
 toclevel = 2
 +++
 
-Backyardmania II was the second cross-promotion backyard supershow, and the follow-up to [Backyardmania I](@/e/wksw/2010-07-11-none-backyardmania-1.md). Set in the {{ map_pin(v="wolow-osir") }}OSiR hall in Wołów, it attracted 20 people from various backyard groups.
+Backyardmania II was the second cross-promotion backyard supershow, and the follow-up to [Backyardmania I](@/e/wksw/2010-07-27-wksw-backyardmania-1.md). Set in the {{ map_pin(v="wolow-osir") }}OSiR hall in Wołów, it attracted 20 people from various backyard groups.
 
 The event lasted for four days, 1-4 July. Day 1 (Friday, 1.07) was for getting everybody in place (and painting a fence for the OSiR director, who let the group use the rent for cheap); days 2 and 3 (Saturday-Sunday, 2-3 July) were planned for training, and day 4 (Monday, 4.07) for the actual show. According to a [recap post][podsumowanie] the fights were spread over three days, but details are sparse.
 
