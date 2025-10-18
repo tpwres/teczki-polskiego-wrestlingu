@@ -7,7 +7,10 @@ chronology = ["pxw"]
 hide_results = true
 city = "Głuchołazy"
 toclevel = 2
+[extra.gallery]
 +++
+
+Backyardmania III was a cross-promotion supershow, hosted by PXW in their {{ map_pin(v="glucholazy-grunwaldzka-5") }}usual spot in Głuchołazy.
 
 ## Card
 
@@ -27,11 +30,10 @@ toclevel = 2
   - 'Learson'
   - c: BWN Championship
     nc: '?'
-- - '[Gangsta](@/w/jay-revolt.md)'
-  - '[Hero](@/w/pj-blake.md)'
+- - '[Hero](@/w/pj-blake.md)'
+  - '[Gangsta](@/w/jay-revolt.md)(c)'
   - c: Toruń Championship
-    nc: '?'
-- - '[Billi Rox](@/w/corin-mear.md)'
+- - '[Billi Rox](@/w/corin-mear.md)(c)'
   - '[Monster](@/w/chris-hunter.md)'
   - c: TWF Championship
     nc: '?'
@@ -56,10 +58,14 @@ toclevel = 2
   - '[Terry Shadow](@/w/shadow.md)'
   - c: PXW Championship
     nc: '?'
-- - ???
+- - '[Hero](@/w/pj-blake.md)'
+  - '[Gangsta](@/w/jay-revolt.md)'
+  - '[Black Joker](@/w/lider.md)'
   - ???
   - s: Big Battle Royal Match
     nc: '?'
+- credits:
+    Referee: '???'
 {% end %}
 
 ## References
