@@ -20,6 +20,7 @@ toclevel = 2
 * On 14.10.2025, Pawłowski [confirmed][konfirmacja] the stakes for the 4 on 4 match. If Team Okoński wins, all the members earn title shots. If they lose, however, they will be forever banned from competing for gold. It is unclear whether the stakes extend to all PTW titles, or only the ones that each of Team Okoński's members is recently going after.
 * On 15.10.2025 PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * On 16.10.2025 PTW announced CJ Klakson is going to host an open challenge, where he's going to deliver his signature _manto_ (roughly "beatdown").
+* On 19.10.2025 PTW announced Andi ZickZack vs Nic Wesker in a Halloween Hardcore Match.
 
 ## Predicted card
 
@@ -40,6 +41,10 @@ toclevel = 2
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Match'
     c: 'Championship opportunity vs Championship ban for Team Okoński'
+    nc: upcoming
+- - 'Andi ZickZack'
+  - 'Nic Wesker'
+  - s: Halloween Hardcore Match
     nc: upcoming
 {% end %}
 
