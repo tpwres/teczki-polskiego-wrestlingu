@@ -25,7 +25,7 @@ The date of the show wasn't explicitly stated in the available source. The date 
 
 Also present was Kreweta, who hit Chudy with a belt.
 
-According to the source, this was the final show before [WołówMania](@/e/wksw/xxx.md).
+According to the source, this was the final show before [WołówMania](@/e/wksw/2013-07-20-wksw-wolowmania.md).
 
 ## References
 
