@@ -1,0 +1,33 @@
++++
+title = "WKSW Episode ??"
+template = "event_page.html"
+authors = ["M3n747"]
+[taxonomies]
+chronology = ["wksw"]
+[extra]
+city = "Wołów"
++++
+
+{% card(incomplete=true) %}
+- - 'David Master'
+  - 'Chudy'
+  - nc: '?'
+- - 'Steven'
+  - g: "Steven's promo"
+- - 'Grzesiu'
+  - '???'
+  - nc: '?'
+- - 'Chudy'
+  - g: "Chudy's promo"
+- - 'Raven'
+  - 'Steven'
+  - nc: '?'
+- credits:
+    Commentary: '???'
+{% end %}
+
+According to the source, this was the final show before [Last Chance](@/e/wksw/2013-06-14-wksw-last-chance.md).
+
+## References
+
+* [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=36141)
