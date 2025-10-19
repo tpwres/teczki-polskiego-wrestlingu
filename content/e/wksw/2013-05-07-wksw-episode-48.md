@@ -15,7 +15,7 @@ city = "Wołów"
   - 'Steven'
 - - 'David Master(c)'
   - 'Casey Collins'
-  - c: '?'
+  - c: '??? Championship'
     nc: '?'
 - credits:
     Commentary: 'Pitero, P'
