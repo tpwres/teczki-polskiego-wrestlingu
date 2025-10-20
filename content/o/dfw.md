@@ -20,7 +20,7 @@ Dream Factory, unlike other backyards, did not do any sort of ultraviolent match
 
 #### Before 2015: Local backyard
 
-Dream Factory Wrestling came to be as a result of two backyard organizations merging: Toruń Wrestling Federation (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence. According to Chris Hunter, the idea to start his own wrestling project came to him while he was returning home from Elbląg, where he participated in the backyard group EKW.
+Dream Factory Wrestling came to be as a result of two backyard organizations merging: [Toruń Wrestling Federation](@/o/twf.md) (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence. According to Chris Hunter, the idea to start his own wrestling project came to him while he was returning home from Elbląg, where he participated in the backyard group EKW.
 
 #### 2015: The first shows
 
