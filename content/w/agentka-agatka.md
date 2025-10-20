@@ -47,7 +47,7 @@ After Oskar was defeated by Gabriel Queen in the second round of [Turniej TypeSh
 
 * Tag Teams and stables:
   - Agencja (2024-)
-  - Rodzina (2025-)
+  - [Rodzina](@/tt/rodzina.md) (2025-)
 * Wrestlers managed:
     - [Oskar Alexander](@/w/oskar-alexander.md) (2024-)
     - [Vic Golden](@/w/vic-golden.md) (2025-)
