@@ -27,3 +27,8 @@ source = "Official PTW Facebook"
 path = "andi-zickzack-vs-nic-wesker.webp"
 caption = "Image announcing Andi ZickZack vs Nic Wesker."
 source = "Official PTW Facebook"
+
+[06]
+path = "sawicki-wraca.webp"
+caption = "Image announcing [Sawicki](@/w/sawicki.md)."
+source = "Official PTW Facebook"
