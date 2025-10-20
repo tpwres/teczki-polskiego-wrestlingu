@@ -1,5 +1,5 @@
 +++
-title = "PXW Backyardmania"
+title = "WKSW Backyardmania"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
