@@ -10,7 +10,7 @@ city = "Wołów"
 
 {{ skip_card() }}
 
-According to the source, there were three matches and the retrun of someone called Kreweta. No further details are known.
+According to the source, there were three matches and the return of a person called Kreweta. No further details are known.
 
 ## References
 
