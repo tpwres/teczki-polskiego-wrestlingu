@@ -36,7 +36,7 @@ TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o
   - c: Wrzosy Championship
     s: Fatal Four Way Match
 - - '[Gangsta](@/w/jay-revolt.md)'
-  - '[Billi Rox](@/w/corin-mear.md)(c)' 
+  - '[Billi Rox](@/w/corin-mear.md)(c)'
   - '[Monster](@/w/chris-hunter.md)'
   - c: TWF Championship
     s: Three Way Match

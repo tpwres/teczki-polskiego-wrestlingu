@@ -26,7 +26,7 @@ Twister joined [Toruń Wrestling Federation](@/o/twf.md) some time in the early 
 
 * Tag Teams and stables:
   - Młodzi Gniewni (2012-2013)
- 
+
 ## Championships and accomplishments
 
 * [Toruń Wrestling Federation](@/o/twf.md):

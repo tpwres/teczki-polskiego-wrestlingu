@@ -9,7 +9,7 @@ city = "Toruń"
 toclevel = 2
 +++
 
-TWF: Dzień Wiosny (_Spring Day_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 21st, 2013. It took place in a sports hall of one of Toruń's {{ map_pin(v="Zespół Szkół nr. 9 w Toruniu") }}middle schools. 
+TWF: Dzień Wiosny (_Spring Day_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 21st, 2013. It took place in a sports hall of one of Toruń's {{ map_pin(v="Zespół Szkół nr. 9 w Toruniu") }}middle schools.
 
 ## Card
 
