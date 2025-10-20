@@ -68,7 +68,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
   - _Północne Bałuty_ (Chokeslam) (2025-)
 * Tag Teams and stables:
   - Agencja (2024-)
-  - Rodzina (2025-)
+  - [Rodzina](@/tt/rodzina.md) (2025-)
 * Wrestlers managed:
   - [Agentka Agatka](@/w/agentka-agatka.md) (2025-)
 * Managed by:
