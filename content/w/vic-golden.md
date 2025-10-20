@@ -119,7 +119,7 @@ This betrayal turned Vic into one of the most hated heels on the Polish wrestlin
 
 #### Founding Rodzina
 
-Oskar and Agatka's newly formed alliance called "Rodzina" (_The Family_) remained in conflict with Vic's nemesis Gabriel. At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Vic faced [Axel Fox](@/w/axel-fox.md) in a Chairs Match, securing a spot in the Total Elimination Fatal 4-Way Match for the #1 Contender spot against the [PpW Champion](@/c/ppw-championship.md). Later that night his new protégé Oskar lost in a Bullrope Match to Queen, who thus qualified for the same match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+Oskar and Agatka's newly formed alliance called ["Rodzina"](@/tt/rodzina.md) (_The Family_) remained in conflict with Vic's nemesis Gabriel. At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Vic faced [Axel Fox](@/w/axel-fox.md) in a Chairs Match, securing a spot in the Total Elimination Fatal 4-Way Match for the #1 Contender spot against the [PpW Champion](@/c/ppw-championship.md). Later that night his new protégé Oskar lost in a Bullrope Match to Queen, who thus qualified for the same match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
 
 During that match Vic once again got the upper hand over Queen, with significant help from Agatka and Oskar. Despite that, he was eliminated from the match by [Biesiad Strong](@/w/biesiad.md). Earlier that night, during Agatka and Oskar's match against [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md), a masked person had helped Rodzina to score a victory. It was revealed to be Robert Star, who officially confirmed joining Golden's stable.
 
@@ -136,7 +136,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
 * Tag Teams and stables:
   - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
-  - Rodzina (2025-)
+  - [Rodzina](@/tt/rodzina.md) (2025-)
 * Entrance music:
   - "Witness" by Mindless Self Indulgence
     {{ org_badge(orgs=['mzw', 'ddw']) }} (2015-2021) <br>
