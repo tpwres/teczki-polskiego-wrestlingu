@@ -9,13 +9,13 @@ city = "Rybnik"
 toclevel = 2
 +++
 
-LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro](@/o/lop.md) on April 27th 2014. It was first streamed live on platform justin.tv, and later published in parts on both YouTube and Dailymotion.
+LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro](@/o/lop.md) on April 27th, 2014. It was first streamed live on platform justin.tv, and later published in parts on both YouTube and Dailymotion.
 
 ## Card
 
 {% card() %}
-- - 'Metal Gear Solid'
-  - 'Team Madness'
+- - 'Metal Gear Solid: ??? & ???'
+  - 'Team Madness: ??? & ???'
   - s: Tag Team Match
 - - 'SmallMan(c)'
   - 'Indians Warrior'
@@ -25,7 +25,7 @@ LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro
   - 'Mat Del Brind'
   - 'El Gigante'
   - 'Rex Montereiro'
-  - s: Money In The Bank Ladder Match
+  - s: Money in the Bank Ladder Match
 - - 'Jame Adams'
   - 'Paul Hay'
   - s: Texas Items Match
@@ -48,14 +48,13 @@ LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro
   - s: Fate Of The Federation Match
 {% end %}    
 
-
 ## References
 
 * [Attitude forum post](https://forum.wrestling.pl/topic/35467-backyard-lop-wrestlemania-live-stream)
-* [Show on YouTube](https://www.youtube.com/watch?v=Je0pg28Plpk) - Part 1
-* [Show on YouTube](https://www.youtube.com/watch?v=TQi7a5ge5Ko) - Part 2
-* [Show on YouTube](https://www.youtube.com/watch?v=W9LqIA4ccn0) - Part 3
-* [Show on YouTube](https://www.youtube.com/watch?v=E33VEJ_5IVs) - Part 4
-* [Show on YouTube](https://www.youtube.com/watch?v=sFZINpbX0yE) - Part 5
-* [Show on YouTube](https://www.youtube.com/watch?v=F5bMyQzxFTM&t=451s) - Part 6
-* [LOP's Dailymotion](https://www.dailymotion.com/wwelop/videos)
+* [Full show on YouTube](https://www.youtube.com/watch?v=Je0pg28Plpk), part 1
+* [Full show on YouTube](https://www.youtube.com/watch?v=TQi7a5ge5Ko), part 2
+* [Full show on YouTube](https://www.youtube.com/watch?v=W9LqIA4ccn0), part 3
+* [Full show on YouTube](https://www.youtube.com/watch?v=E33VEJ_5IVs), part 4
+* [Full show on YouTube](https://www.youtube.com/watch?v=sFZINpbX0yE), part 5
+* [Full show on YouTube](https://www.youtube.com/watch?v=F5bMyQzxFTM), part 6
+* [LOP's Dailymotion channel](https://www.dailymotion.com/wwelop/videos)
