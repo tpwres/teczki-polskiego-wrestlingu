@@ -33,7 +33,7 @@ LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro
 - - 'SHS Supris Strong'
   - 'The Niue(c)' 
   - c: World Heavyweight Championship
-  - s: No Holds Barred
+    s: No Holds Barred
 - - 'The Ghost'
   - 'Ben Moki'
 - - 'Max Straitnng'
