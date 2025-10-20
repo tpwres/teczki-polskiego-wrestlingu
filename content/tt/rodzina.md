@@ -15,7 +15,7 @@ Rodzina (_The Family_) is a villainous stable active in [PpW Ewenement](@/o/ppw.
 
 #### Formation
 
-At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) [Agentka Agatka](@/w/agentka-agatka.md) - who was a manager of [Oskar Alexander](@/w/oskar-alexadner.md) and formed an team called "Agencja" (_The Agency_) - set him a match against "The Legend of PSV" [Vic Golden](@/w/vic-golden.md), who at that time was still a member of [Pure Gold](@/tt/pure-gold.md). The match pitch was accepted by Oskar a)s a chance to prove himself against wrestler he respected a lot. 
+At [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) [Agentka Agatka](@/w/agentka-agatka.md) - who was a manager of [Oskar Alexander](@/w/oskar-alexander.md) and formed an team called "Agencja" (_The Agency_) - set him a match against "The Legend of PSV" [Vic Golden](@/w/vic-golden.md), who at that time was still a member of [Pure Gold](@/tt/pure-gold.md). The match pitch was accepted by Oskar a)s a chance to prove himself against wrestler he respected a lot. 
 At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Vic finally turned his back on [Gabriel Queen](@/w/gabriel-queen.md) becoming one of the most hated wrestlers in [PpW](@/o/ppw.md). This started a feud between them, leading to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) during which Vic defeated Gabriel thanks to the assistance from masked person, who attacked Queen with a chair. It was quickly revealed that the person was Oskar himself.
 
 In a post-match interview it was confirmed that Oskar and Agentka Agatka would join Golden, forming an alliance later to be named "Rodzina", with Vic becoming a Patriarch of the group.
