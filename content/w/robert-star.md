@@ -93,7 +93,7 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 * Tag Teams and stables:
   - Sojusz (2018)
   - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
-  - Rodzina (2025-)
+  - [Rodzina](@/tt/rodzina.md) (2025-)
 * Entrance music:
   - "Party All Day" by Steel Panther
     {{ org_badge(orgs=['kpw']) }} (2015-2019) <br>
