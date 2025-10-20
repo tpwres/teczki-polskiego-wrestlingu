@@ -10,7 +10,7 @@ toclevel = 2
 hide_pagination = true
 +++
 
-LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro](@/o/lop.md) on April 27th, 2014. It was first streamed live on platform justin.tv, and later published in parts on both YouTube and Dailymotion.
+LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro](@/o/lop.md), held on April 27th, 2014. It was first streamed live on platform justin.tv, and later published in parts on both YouTube and Dailymotion.
 
 ## Card
 
@@ -32,7 +32,7 @@ LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro
   - s: Texas Items Match
     nc: Double KO
 - - 'SHS Supris Strong'
-  - 'The Niue(c)' 
+  - 'The Niue(c)'
   - c: World Heavyweight Championship
     s: No Holds Barred
 - - 'The Ghost'
@@ -47,7 +47,7 @@ LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro
 - - 'BlackeR'
   - 'Speed Maniels'
   - s: Fate Of The Federation Match
-{% end %}    
+{% end %}
 
 ## References
 
