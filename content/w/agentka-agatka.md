@@ -39,7 +39,7 @@ Later on Agatka posted a video of her calling Mister Z on the phone. She voiced 
 
 #### Joining Rodzina
 
-After Oskar's interference in [Vic Golden](@/w/vic-golden.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) it was revealed that both Oskar and Agentka Agatka would join the legend of Polish wrestling to form new stable called "Rodzina" (_The Family_), with Vic presented as "The Patriarch". Agencja (_The Agency_) was then incorporated into Rodzina as part-time tag team/partnership of Oskar and Agatka, with them still having each other's backs; for example, during the Gauntlet Match at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) Agatka helped Oskar to secure a win over [Sambor](@/w/sambor.md), herself having been defeated by [Marco Hammers](@/w/marco-hammers.md) a couple of matches prior.
+After Oskar's interference in [Vic Golden](@/w/vic-golden.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) it was revealed that both Oskar and Agentka Agatka would join the legend of Polish wrestling to form new stable called ["Rodzina"](@/tt/rodzina.md) (_The Family_), with Vic presented as "The Patriarch". Agencja (_The Agency_) was then incorporated into Rodzina as part-time tag team/partnership of Oskar and Agatka, with them still having each other's backs; for example, during the Gauntlet Match at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) Agatka helped Oskar to secure a win over [Sambor](@/w/sambor.md), herself having been defeated by [Marco Hammers](@/w/marco-hammers.md) a couple of matches prior.
 
 After Oskar was defeated by Gabriel Queen in the second round of [Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), he got into conflict with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) by disrespecting him. Dobroniak wanted to teach Oskar a lesson by facing his "mother" Agatka in a Custodity of Oskar Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). This match however quickly evolved into a Tornado Tag Team Match between Agencja and Stanisław & [Johnny Blade](@/w/johnny-blade.md). Thanks to the intervention of newest Rodzina member - [Robert Star](@/w/robert-star.md) - they managed to score a victory. Later that night Agatka and Oskar also intervened in both Robert and Vic's matches to help them achieve victory, but they were unsucessful on both occasions. 
 
@@ -47,7 +47,7 @@ After Oskar was defeated by Gabriel Queen in the second round of [Turniej TypeSh
 
 * Tag Teams and stables:
   - Agencja (2024-)
-  - Rodzina (2025-)
+  - [Rodzina](@/tt/rodzina.md) (2025-)
 * Wrestlers managed:
     - [Oskar Alexander](@/w/oskar-alexander.md) (2024-)
     - [Vic Golden](@/w/vic-golden.md) (2025-)

@@ -43,7 +43,7 @@ In January 2025 Oskar Alexander faced a Polish scene legend - [Vic Golden](@/w/v
 
 #### Joining Rodzina
 
-At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Oskar took part in a [PpW Championship](@/c/ppw-championship.md) #1 Contender Ladder Match, but he was unsucessful in winning it. Later that same night he surprisingly intervened in a match between [Gabriel Queen](@/w/gabriel-queen.md) and Vic Golden, helping the Polish wrestling legend to secure a victory over Queen. In a post-match interview he confirmed that he and Agentka Agatka would join Golden, forming an alliance later to be named "Rodzina" (_The Family_). 
+At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Oskar took part in a [PpW Championship](@/c/ppw-championship.md) #1 Contender Ladder Match, but he was unsucessful in winning it. Later that same night he surprisingly intervened in a match between [Gabriel Queen](@/w/gabriel-queen.md) and Vic Golden, helping the Polish wrestling legend to secure a victory over Queen. In a post-match interview he confirmed that he and Agentka Agatka would join Golden, forming an alliance later to be named ["Rodzina"](@/tt/rodzina.md) (_The Family_). 
 
 After his defeat in Qualifying Match against Vic's nemesis - Gabriel Queen - at [Hardcore Friday: Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), he got into conflict with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) by disrespecting him. Dobroniak wanted to teach Oskar a lesson by facing his "mother" Agatka in a Custodity of Oskar Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). This match however quickly evolved into a Tornado Tag Team Match between Agencja and Stanisław & [Johnny Blade](@/w/johnny-blade.md). Thanks to the intervention of newest Rodzina member - [Robert Star](@/w/robert-star.md) - they managed to score a victory. Later that night Agatka and Oskar also intervened in both Robert and Vic's matches to help them achieve victory, but they were unsucessful on both occasions. 
 
@@ -68,7 +68,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
   - _Północne Bałuty_ (Chokeslam) (2025-)
 * Tag Teams and stables:
   - Agencja (2024-)
-  - Rodzina (2025-)
+  - [Rodzina](@/tt/rodzina.md) (2025-)
 * Wrestlers managed:
   - [Agentka Agatka](@/w/agentka-agatka.md) (2025-)
 * Managed by:
