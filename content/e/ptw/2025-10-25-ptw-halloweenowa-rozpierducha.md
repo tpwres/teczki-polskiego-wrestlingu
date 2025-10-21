@@ -21,6 +21,8 @@ toclevel = 2
 * On 15.10.2025 PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * On 16.10.2025 PTW announced CJ Klakson is going to host an open challenge, where he's going to deliver his signature _manto_ (roughly "beatdown").
 * On 19.10.2025 PTW announced Andi ZickZack vs Nic Wesker in a Halloween Hardcore Match.
+* On 20.10.2025 PTW announced the return of [Sawicki](@/w/sawicki.md), who made his PTW debut at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md).
+* On 21.10.2025 PTW announced an International Showcase Tag Team Match between the British team The Lancadores (Kenny B. & M.R.D.) vs Italians Ivan Sanzio & Davide Adami of Street Creed.
 
 ## Predicted card
 
@@ -45,6 +47,13 @@ toclevel = 2
 - - 'Andi ZickZack'
   - 'Nic Wesker'
   - s: Halloween Hardcore Match
+    nc: upcoming
+- - '[Sawicki](@/w/sawicki.md)'
+  - '???'
+  - nc: upcoming
+- - 'The Lancadores: Kenny B. & M.R.D. w/ Tori Fox'
+  - 'Street Creed: Ivan Sanzio & Davide Adami'
+  - s: International Showcase Tag Team Match
     nc: upcoming
 {% end %}
 
