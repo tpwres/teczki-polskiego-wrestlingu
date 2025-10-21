@@ -6,6 +6,8 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+[extra.gallery]
+1 = { path = "main-event.jpg", caption = "Main event: Steven vs Raven.", source = "Steven's Facebook" }
 +++
 
 ## Card

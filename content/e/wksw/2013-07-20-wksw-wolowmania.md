@@ -7,7 +7,7 @@ chronology = ["wksw"]
 [extra]
 city = "Wołów"
 [extra.gallery]
-1 = { path = "main-event.jpg", caption = "Main event: Steven, Raven and David Master (presumably left to right).", source = "M3n747" }
+1 = { path = "main-event.jpg", caption = "Steven vs Raven vs David Master.", source = "Steven's Facebook" }
 +++
 
 ## Card

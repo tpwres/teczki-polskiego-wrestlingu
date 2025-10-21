@@ -15,7 +15,7 @@ city = "Wołów"
   - 'Steven'
   - g: "PLKDamian's promo."
 - - 'David Master'
-  - 'Collins'
+  - 'Casey Collins'
   - nc: '?'
 - - 'Raven'
   - 'Chudy Ed'
