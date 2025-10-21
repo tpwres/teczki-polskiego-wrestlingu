@@ -8,7 +8,9 @@ chronology = ["wksw"]
 city = "Wołów"
 +++
 
-The date of the show wasn't explicitly stated in the available source. The date of the post on WrestleFans forum was used instead, as the author's track record suggests he posted to the forum on the same days the previous shows took place.
+The date of the show wasn't explicitly stated in the available source. The date of the post on WrestleFans forum was used instead, as the author's track record suggests he posted about the previous shows on the same days they took place.
+
+## Card
 
 {% card() %}
 - - 'Casey Collins(c)'

@@ -6,7 +6,11 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+[extra.gallery]
+1 = { path = "main-event.jpg", caption = "Main event: Steven, Raven and David Master (presumably left to right).", source = "M3n747" }
 +++
+
+## Card
 
 {% card() %}
 - - 'Doubt'
