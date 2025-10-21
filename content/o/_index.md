@@ -42,4 +42,5 @@ template = "index.html"
 | 2011-2013 | {{ org_badge(org='pxw') }} [Polish Xtreme Wrestling](@/o/pxw.md) | Głuchołazy |
 | 2011-2014 | {{ org_badge(org='twf') }} [Toruń Wrestling Federation](@/o/twf.md) | Toruń |
 | 2013-2013 | [Polish Wrestling Federation (2013)](@/o/pwf13.md) | Żyrardów |
+| 2014-2014 | [Slavic Wrestling Federation](@/o/swf.md) | Warsaw |
 | 2015-2018 | {{ org_badge(org='dfw') }} [Dream Factory Wrestling](@/o/dfw.md) | Toruń |

@@ -3,6 +3,8 @@ title = "Line of Pro"
 weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
+[extra]
+compact_event_list = true
 [taxonomies]
 +++
 
