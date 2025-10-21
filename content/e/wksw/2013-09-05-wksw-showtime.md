@@ -19,7 +19,7 @@ city = "Wołów"
   - s: Tag Team Match
     nc: '?'
 - - '???'
-  - 'Steven'
+  - '[Steven](@/w/steven.md)'
 {% end %}
 
 ## References

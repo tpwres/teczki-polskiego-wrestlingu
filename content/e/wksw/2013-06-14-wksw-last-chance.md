@@ -13,12 +13,12 @@ The date of the show wasn't explicitly stated in the available source. The date 
 ## Card
 
 {% card() %}
-- - 'Casey Collins(c)'
-  - 'Pan Chudalewski'
+- - '[Casey Collins](@/w/casey-collins.md)(c)'
+  - '[Pan Chudalewski](@/w/chudy.md)'
   - c: Wołów Championship
     nc: '?'
-- - 'David Master'
-  - 'Raven'
+- - '[David Master](@/w/david-master.md)'
+  - '[Raven](@/w/raven.md)'
   - c: WKSW Championship
     nc: '?'
 - credits:

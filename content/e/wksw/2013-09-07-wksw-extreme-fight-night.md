@@ -13,7 +13,7 @@ city = "Wołów"
 ## Card
 
 {% card(incomplete=true) %}
-- - 'Chudy'
+- - '[Chudy](@/w/chudy.md)'
   - 'Kamil'
   - '???'
   - s: 'Multi-Man Match'
@@ -23,11 +23,11 @@ city = "Wołów"
   - s: Falls Count Anywhere Match
     nc: '?'
 - - 'PLKDamian'
-  - 'David Master'
-  - s: Cash-In  Match
+  - '[David Master](@/w/david-master.md)'
+  - s: Cash-In Match
     nc: '?'
-- - 'Steven'
-  - 'Raven'
+- - '[Steven](@/w/steven.md)'
+  - '[Raven](@/w/raven.md)'
   - nc: '?'
 {% end %}
 

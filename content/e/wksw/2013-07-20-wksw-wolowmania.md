@@ -21,13 +21,13 @@ city = "Wołów"
 - - 'Axon'
   - 'Hardcore Icon(c)'
   - c: HPW Championship
-- - 'Casey Collins(c)'
-  - 'Michał Chudalewski'
+- - '[Casey Collins](@/w/casey-collins.md)(c)'
+  - '[Michał Chudalewski](@/w/chudy.md)'
   - c: Wołów Championship
     nc: '?'
-- - 'Steven'
-  - 'Raven (c)'
-  - 'David Master'
+- - '[Steven](@/w/steven.md)'
+  - '[Raven](@/w/raven.md)(c)'
+  - '[David Master](@/w/david-master.md)'
   - s: Triple Threat Match
     c: WKSW Championship
 - credits:

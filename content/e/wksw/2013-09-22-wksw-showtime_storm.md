@@ -17,11 +17,11 @@ Two episodes were released in one video, described as the end of the "season".
 - - 'PLKDamian'
   - '???'
   - g: "Somebody's promo about the Wołów Championship"
-- - 'Steven'
-  - 'Chudy'
+- - '[Steven](@/w/steven.md)'
+  - '[Chudy](@/w/chudy.md)'
   - nc: '?'
 - - 'PLKDamian'
-  - ???'
+  - '???'
   - nc: '?'
 
 - d: 'WKSW Storm'

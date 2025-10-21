@@ -12,13 +12,13 @@ city = "Wołów"
 
 {% card(incomplete=true) %}
 - - 'PLKDamian'
-  - 'Steven'
+  - '[Steven](@/w/steven.md)'
   - g: "PLKDamian's promo."
-- - 'David Master'
-  - 'Casey Collins'
+- - '[David Master](@/w/david-master.md)'
+  - '[Casey Collins](@/w/casey-collins.md)'
   - nc: '?'
-- - 'Raven'
-  - 'Chudy Ed'
+- - '[Raven](@/w/raven.md)'
+  - '[Chudy Ed](@/w/chudy.md)'
   - nc: '?'
 - - '???(c)'
   - '???(c)'
