@@ -3,6 +3,9 @@ title = "Polish Wrestling Federation (2013)"
 weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
+[extra]
+hide_roster = true
+hide_events = true
 [taxonomies]
 chronology = ["pwf13"]
 +++
