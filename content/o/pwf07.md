@@ -1,5 +1,5 @@
 +++
-title = "Polish Wrestling Federation"
+title = "Polish Wrestling Federation (2007)"
 weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
