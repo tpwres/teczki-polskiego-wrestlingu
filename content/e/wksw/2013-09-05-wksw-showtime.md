@@ -13,7 +13,7 @@ city = "Wołów"
 {% card(incomplete=true) %}
 - - 'Scott Collins'
   - '???'
-  - g: true
+  - g: 'A segment incolving Scott Collins opening a door.'
 - - 'Kamil & ???'
   - '??? & ???'
   - s: Tag Team Match
