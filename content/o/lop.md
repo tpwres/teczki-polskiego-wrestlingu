@@ -3,9 +3,10 @@ title = "Line of Pro"
 weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
+[taxonomies]
+chrono_root = ["lop"]
 [extra]
 compact_event_list = true
-[taxonomies]
 +++
 
 Line of Pro was a backyard federation active between 2010 and 2014. It was located in Rybnik, a city in the Silesian region.

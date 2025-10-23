@@ -7,7 +7,7 @@ template = "org_page.html"
 hide_roster = true
 hide_events = true
 [taxonomies]
-chronology = ["swf"]
+chrono_root = ["swf"]
 +++
 
 Slavic Wrestling Federation was a short-lived backyard project aiming to become a federation. It was active around May to June 2014 in Warsaw.

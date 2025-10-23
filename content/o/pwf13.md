@@ -7,7 +7,7 @@ authors = ["Sewi The Referee", "M3n747"]
 hide_roster = true
 hide_events = true
 [taxonomies]
-chronology = ["pwf13"]
+chrono_root = ["pwf13"]
 +++
 
 Polish Wrestling Federation was a short-lived backyard federation active from January to May 2013. It was most likely active in a town of Żyrardów.

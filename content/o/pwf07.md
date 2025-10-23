@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 [extra]
 compact_event_list = true
 [taxonomies]
-chronology = ["pwf07"]
+chrono_root = ["pwf07"]
 +++
 
 Polish Wrestling Federation was a backyard federation active around August 2007 in Świebodzin.
