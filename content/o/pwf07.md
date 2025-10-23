@@ -3,6 +3,8 @@ title = "Polish Wrestling Federation (2007)"
 weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
+[extra]
+compact_event_list = true
 [taxonomies]
 chronology = ["pwf07"]
 +++
