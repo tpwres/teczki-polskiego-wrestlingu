@@ -56,8 +56,8 @@ toclevel = 2
   - 'Street Creed: Ivan Sanzio & Davide Adami'
   - s: International Showcase Tag Team Match
     nc: upcoming
-- - 'Team Okoński: ([Łukasz Okoński](@/w/lukasz-okonski.md) & [Nano Lopez](@/w/nano-lopez.md) & [Spartan](@/w/spartan.md) & [Sigma Boy xD](@/w/sigma-boy.md))'
-  - '[Nietykalni](@/tt/nietykalni.md) ([Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Puncher](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md))'
+- - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Nano Lopez](@/w/nano-lopez.md) & [Spartan](@/w/spartan.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Puncher](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md)'
   - s:  '4 vs 4 Elimination Match'
     nc: upcoming
 {% end %}
