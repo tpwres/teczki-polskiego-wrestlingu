@@ -22,8 +22,8 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 ## Predicted card
 
 {% card() %}
-- - ''
-  - ''
+- - '???'
+  - '???'
   - nc: upcoming
 {% end %}
 
