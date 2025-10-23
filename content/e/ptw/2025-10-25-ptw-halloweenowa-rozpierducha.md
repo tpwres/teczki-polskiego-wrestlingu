@@ -23,6 +23,7 @@ toclevel = 2
 * On 19.10.2025 PTW announced Andi ZickZack vs Nic Wesker in a Halloween Hardcore Match.
 * On 20.10.2025 PTW announced the return of [Sawicki](@/w/sawicki.md), who made his PTW debut at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md).
 * On 21.10.2025 PTW announced an International Showcase Tag Team Match between the British team The Lancadores (Kenny B. & M.R.D.) vs Italians Ivan Sanzio & Davide Adami of Street Creed.
+* On 23.10.2025 PTW announced the main event: Team Okoński ([Łukasz Okoński](@/w/lukasz-okonski.md), [Nano Lopez](@/w/nano-lopez.md), [Spartan](@/w/spartan.md) & [Sigma Boy xD](@/w/sigma-boy.md)) vs [Nietykalni](@/tt/nietykalni.md) ([Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Puncher](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md)) in a 4 vs 4 Elimination Match.
 
 ## Predicted card
 
@@ -54,6 +55,10 @@ toclevel = 2
 - - 'The Lancadores: Kenny B. & M.R.D. w/ Tori Fox'
   - 'Street Creed: Ivan Sanzio & Davide Adami'
   - s: International Showcase Tag Team Match
+    nc: upcoming
+- - 'Team Okoński: ([Łukasz Okoński](@/w/lukasz-okonski.md) & [Nano Lopez](@/w/nano-lopez.md) & [Spartan](@/w/spartan.md) & [Sigma Boy xD](@/w/sigma-boy.md))'
+  - '[Nietykalni](@/tt/nietykalni.md) ([Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Puncher](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md))'
+  - s:  '4 vs 4 Elimination Match'
     nc: upcoming
 {% end %}
 
