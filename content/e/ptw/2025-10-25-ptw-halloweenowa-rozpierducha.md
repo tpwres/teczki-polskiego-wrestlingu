@@ -40,11 +40,6 @@ toclevel = 2
   - '???'
   - s: Manto challenge
     nc: upcoming
-- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - s: '4 on 4 Tag Team Match'
-    c: 'Championship opportunity vs Championship ban for Team Okoński'
-    nc: upcoming
 - - 'Andi ZickZack'
   - 'Nic Wesker'
   - s: Halloween Hardcore Match
@@ -56,9 +51,10 @@ toclevel = 2
   - 'Street Creed: Ivan Sanzio & Davide Adami'
   - s: International Showcase Tag Team Match
     nc: upcoming
-- - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Nano Lopez](@/w/nano-lopez.md) & [Spartan](@/w/spartan.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Puncher](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md)'
-  - s:  '4 vs 4 Elimination Match'
+- - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
+  - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - s: '4 on 4 Tag Team Elimination Match'
+    c: 'Championship opportunity vs Championship ban for Team Okoński'
     nc: upcoming
 {% end %}
 
