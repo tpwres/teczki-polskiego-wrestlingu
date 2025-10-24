@@ -231,6 +231,12 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Singles Match
     en: '[KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md)'
     ed: 2025-09-06
+- - '[Zefir](@/w/zefir.md)'
+  - 'Leon Lato(c)'
+  - s: Winner Takes All Match
+    en: '[KPW Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md)'
+    ed: 2025-11-14
+    nc: upcoming
 {% end %}
 
 ## References
