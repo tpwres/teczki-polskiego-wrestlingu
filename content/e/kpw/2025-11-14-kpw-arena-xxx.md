@@ -26,7 +26,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 - - '[Zefir](@/w/zefir.md)(c)'
   - '[Leon Lato](@/w/leon-lato.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md) & [KPW OldTown Championship](@/c/kpw-oldtowt-championship.md)'
-  - s: Winner Takes All Match
+    s: Winner Takes All Match
     nc: upcoming
 {% end %}
 
