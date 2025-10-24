@@ -73,7 +73,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
-Attendance: ca. 300
+Attendance: ca. 300 (source: Cagematch)
 
 ### Highlights
 

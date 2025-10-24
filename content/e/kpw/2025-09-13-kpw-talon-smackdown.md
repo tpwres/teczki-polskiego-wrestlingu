@@ -49,7 +49,7 @@ The event was not promoted on KPW's usual social media channels.
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
-Attendance: ca. 350
+Attendance: ca. 350 (source: Cagematch)
 
 ### Highlights
 
