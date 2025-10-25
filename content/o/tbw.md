@@ -27,7 +27,7 @@ Due to poor ticket sales, no events were actually held. A second attempt in 2003
 
 This marked the end of PPWF. In 2006, Borkowski tried to revive interest by offering to hold a wrestling school using the ring purchased for the organization. However, it was discovered to be too costly to repair.
 
-Years later, in 2024, PpW [purchased](@/o/ppw.md#2023-prime-time-transfers-professional-ring) this ring in order to upgrade from their undersized ring they had used before.
+Years later, in 2024, PpW [purchased](@/o/ppw.md#2023-prime-time-transfers-professional-ring-and-expansion) this ring in order to upgrade from their undersized ring they had used before.
 
 Also in 2024, in a pre-show interview with Pawłowski during [PTW #6](@/e/ptw/2024-05-11-ptw-6.md), Borkowski claimed that PPWF came about in 1999, and that they struggled to gain sponsorship.
 

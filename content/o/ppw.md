@@ -48,7 +48,7 @@ In 2023 PpW was recognized by Cagematch, and most of its events and wrestlers ha
 
 In early December 2024, YouTube channel Newonce uploaded an [interview][newonce-pt-1] with some of the PpW talent, recorded around the time of [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) and in the same location. In it, [Mister Z](@/w/mister-z.md) recalled that he had damaged [Rob Scaffold's](@/w/rob-scaffold.md) spine by performing a Piledriver on him. This prompted Z to realise that the backyard iteration of PpW needed to be destroyed and rebuilt as a professional promotion in order for the group to be able to carry on.
 
-#### 2023: Prime Time Transfers, professional ring
+#### 2023: Prime Time Transfers, professional ring and expansion
 
 In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeared on PpW shows, quitting their promotion openly and criticizing [its owner](@/w/pan-pawlowski.md) on social media. This further boosted PpW's image on the Polish scene as a place dedicated to the joy of wrestling and not commercial endeavors. Later, PpW named this event and the wrestlers "Prime Time Transfers". The first one to appear was [Rafi](@/w/rafi.md), followed by [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and later his tag team partner [Vic Golden](@/w/vic-golden.md).
 
@@ -64,6 +64,8 @@ Over the course of 2024 and further into 2025, PpW increased the frequency of th
 On the 28th December 2024 PpW launched their [official subscription-based VOD][ppw-vod] with uncensored versions of their shows (including ones previously not available on YouTube), as well as exclusive bonus materials.
 
 At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, further described in a [separate article](@/a/pm-shooter-saga.md).
+
+In Autumn 2025 PpW began a tour of Poland, starting with [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) in Wrocław. At this show the promotion introduced the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 
 ## Lost lore
 
@@ -130,6 +132,10 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - Vacant
   - >
     [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
+- - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+  - Vacant
+  - >
+    Introduced, not yet awarded.
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
