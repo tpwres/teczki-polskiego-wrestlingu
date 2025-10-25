@@ -32,7 +32,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 {% card() %}
 - - '[Michael HT](@/w/michael-ht.md)'
   - '[Joker](@/w/joker.md)'
-  - g: 'HT and Joker unveil the [PpW Tag Team Championship](@/c/ppw-tag-team championship.md)'
+  - g: 'HT and Joker unveil the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
 - - 'Antoni Ocean & [Shadow](@/w/shadow.md)'
   - '[Bartosz Plata](@/w/plata.md) & [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match
@@ -62,7 +62,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 
 ### Recap
 
-* There was a table set in the middle of the ring with something on in, covered in black cloth. [Michael HT](@/w/michael-ht.md) opened the show, making no comment on the fact. After a few minutes he was joined by [Joker](@/w/joker.md) and together they unveiled a new title: the [PpW Tag Team Championship](@/c/ppw-tag-team championship.md). Michael then announced a tournament to crown the inaugural Champions, starting with [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
+* There was a table set in the middle of the ring with something on in, covered in black cloth. [Michael HT](@/w/michael-ht.md) opened the show, making no comment on the fact. After a few minutes he was joined by [Joker](@/w/joker.md) and together they unveiled a new title: the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). Michael then announced a tournament to crown the inaugural Champions, starting with [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 * [Oskar Alexander](@/w/oskar-alexander.md) assisted [Agentka Agatka](@/w/agentka-agatka.md) by pulling her out of the way of [Johnny Blade](@/w/johnny-blade.md), jumping from the top rope.
 * Agatka won her match by hitting Blade with a Back-to-Belly Piledriver and then stapling a photo of another wrestler to his face before ripping it off, thus drawing first blood. Afterwards, Agatka literally poured salt over Blade's wounds.
 * One of the staples stayed in Blade's forehead throughout the show, as he couldn't remove it easily by himself. He also decided it would make for a good argument in case anyone claimed the spot was faked.
