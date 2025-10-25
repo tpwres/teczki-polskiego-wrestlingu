@@ -130,6 +130,10 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - Vacant
   - >
     [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
+- - '[PpW Tag Team Championship](@/c/ppw-tag-team championship.md)'
+  - Vacant
+  - >
+    Introduced, not yet awarded.
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
