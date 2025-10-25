@@ -22,7 +22,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 
 ## Predicted card
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[Zefir](@/w/zefir.md)(c)'
   - '[Leon Lato](@/w/leon-lato.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md) & [KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
