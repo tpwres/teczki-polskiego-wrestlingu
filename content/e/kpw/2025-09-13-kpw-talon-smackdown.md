@@ -49,6 +49,8 @@ The event was not promoted on KPW's usual social media channels.
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
+Attendance: ca. 350 (source: Cagematch)
+
 ### Highlights
 
 * Multiple times throughout the show the crowd chanted "USA", despite all of the contestants being either Polish or German.

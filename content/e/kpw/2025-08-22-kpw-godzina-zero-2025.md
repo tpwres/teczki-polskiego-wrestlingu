@@ -73,6 +73,8 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
+Attendance: ca. 300 (source: Cagematch)
+
 ### Highlights
 
 * [Michał Fux](@/w/michal-fux.md) sustained an injury during the match, which forced him to leave [Filip Fux](@/w/filip-fux.md) to fend for himself for a long while. Later in the match, he came back with a bandaged left hand to aid his brother in the fight.
