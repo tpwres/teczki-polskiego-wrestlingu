@@ -64,7 +64,7 @@ $(ROSTERS) &: content/e/**/*.md
 clean-plot:
 	rm -rf $(PLOTS)
 
-data/chronology-2.svg: const/chronology_2.csv
+data/chronology-2.svg: const/chronology_2.csv src/timelines/*
 	bin/build-mg  $< $@
 
 data/zieloni.svg: const/zieloni.csv

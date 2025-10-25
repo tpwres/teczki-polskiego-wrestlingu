@@ -188,6 +188,8 @@ class SVGFilter:
                 return (title, f"/{candidate_path.relative_to(content_root).with_suffix('')}")
 
     def edit_style(self, elem, *replacements):
+        if not hasattr(elem, 'attrib'):
+            return
         style = elem.attrib.get('style', '')
         for before, after in replacements:
             style = style.replace(before, after)
