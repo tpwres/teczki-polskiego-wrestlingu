@@ -34,7 +34,7 @@ Line of Pro also promoted their own Money in the Bank briefcase.
 * [Line of Pro on YouTube](https://www.youtube.com/@WWELOP/)
 * [Line of Pro on Dailymotion](https://www.dailymotion.com/wwelop/videos)
 * Former website `wrestlinglop.vgh.pl` (inactive)
-* Former website ``wrestlinglop.czo.pl` (inactive)
+* Former website `wrestlinglop.czo.pl` (inactive)
 
 ## References
 
