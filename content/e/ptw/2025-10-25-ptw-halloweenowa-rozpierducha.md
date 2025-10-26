@@ -42,7 +42,6 @@ toclevel = 2
   - s: Halloween Hardcore Match
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - nc: upcoming
 - - 'CJ Klakson'
   - 'Dylan Thorn'
   - s: Manto challenge
@@ -55,7 +54,7 @@ toclevel = 2
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Elimination Match'
     c: 'Championship opportunity vs Championship ban for Team Okoński'
-    n: Nano Lopez eliminated himself via DQ when he turned on his team
+    n: 'Nano Lopez eliminated himself via DQ when he turned on his team'
 - credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
@@ -80,7 +79,7 @@ toclevel = 2
 * Damian Lambert makes an entrance for unannounced segment. He laments the turn from predator to victim after the previous show. Because of this he can't even looks people in the eyes.
 * Pawłowski comes out to choose Lambert's opponent. After once again teasing Boguś with an opportunity, he introduces a fellow rookie, Dropper. Lambert with a quick statement win. Afterwards, Lambert makes an exit, visibly avoiding any eye contact with the audience.
 * Nietykalni make an entrance first as a unit. Members of Team Okoński make their entrances in succession.
-* In a slightly comedic fashion, Caravaggio uses the ring of his Granny Matylda. The only effect it achieves is breaking down a set of chairs placed close to the stage
+* In a slightly comedic fashion, Caravaggio uses the ring of his _Granny Matylda_. The only effect it achieves is breaking down a set of chairs placed close to the stage
 * Order of eliminations:
 *   Pawłowski eliminates Sigma Boy xD after a Wylew from Puncher and some offense of his own
 *   Puncher eliminates Okoński after _Wylew_ and a _Curb Stomp_
