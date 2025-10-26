@@ -15,7 +15,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 
 ## Build-up
 
-* The event was announced on 21.08.2025 in a [Facebook post][w-breslau-bedziem], which also named a few of the workers: [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), and unspecified "local contenders" from [Maniac Zone Wrestling](@/o/mzw.md). They turned out to be [Shadow](@/w/shadow.md) and [Tony Sheen](@/w/riverman.md).
+* The event was announced on 21.08.2025 in a [Facebook post][w-breslau-bedziem], which also named a few of the workers: [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), and unspecified "local contenders" from [Maniac Zone Wrestling](@/o/mzw.md).
 * The ticket sale commenced on 29.08.2025 on the usual Stage24 website. At the same time, PpW teased a "mighty surprise", to be unveiled in a few days.
 * On the next day the promotion announced the return to wrestling and the PpW debut of one of the most experienced Polish workers - [Justin Joy](@/w/justin-joy.md).
 * At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), [Gabriel Queen](@/w/gabriel-queen.md) challenged [Vic Golden](@/w/vic-golden.md) to a tag team match with any member of Rodzina (_Family_) against Queen and a mystery partner at the Wrocław show. Golden accepted.
@@ -40,7 +40,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: 'First Blood Match'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - 'Emil Voller'
+  - 'Emil Völler'
   - s: 'Zmowa Recruitment Gauntlet Match'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Tony Sheen](@/w/riverman.md)'
@@ -61,7 +61,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
   - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    n: Mister Z inserted himself into the match
+    n: Mister Z inserted himself into the match.
     s: 'PpW Rules Three-Way Match'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
@@ -74,7 +74,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 * [Oskar Alexander](@/w/oskar-alexander.md) assisted [Agentka Agatka](@/w/agentka-agatka.md) by pulling her out of the way of [Johnny Blade](@/w/johnny-blade.md), jumping from the top rope.
 * Agatka won her match by hitting Blade with a Back-to-Belly Piledriver and then stapling a photo of another wrestler to his face before ripping it off, thus drawing first blood. Afterwards, Agatka literally poured salt over Blade's wounds.
 * One of the staples stayed in Blade's forehead throughout the show, as he couldn't remove it easily by himself. He also decided it would make for a good argument in case anyone claimed the spot was faked.
-* [Gustav Gryffin](@/w/gustav-gryffin.md) cut a promo saying that him being in [Zmowa](@/tt/zmowa.md) was a mistake. He then faced, in this order: Emil Voller (from Germany; debuting in PpW); [Tony Sheen](@/w/riverman.md) from [MZW](@/o/mzw.md)(whom he defeated in about a minute), [Max Speed](@/w/max-speed.md), Asara, and finally [Mister Z](@/w/mister-z.md), whom he lost to. As Zmowa's leader himself won the match, nobody earned their spot as a new member.
+* [Gustav Gryffin](@/w/gustav-gryffin.md) cut a promo saying that him being in [Zmowa](@/tt/zmowa.md) was a mistake. He then faced, in this order: Emil Völler (from Germany; debuting in PpW); [Tony Sheen](@/w/riverman.md) from [MZW](@/o/mzw.md)(whom he defeated in about a minute), [Max Speed](@/w/max-speed.md), Asara, and finally [Mister Z](@/w/mister-z.md), whom he lost to. As Zmowa's leader himself won the match, nobody earned their spot as a new member.
 * [Gabriel Queen](@/w/gabriel-queen.md) and [Justin Joy](@/w/justin-joy.md) hit [Vic Golden](@/w/vic-golden.md) with a Golden Shower - [Pure Gold's](@/tt/pure-gold.md) signature finisher. Justin did the Running Drop Toe Hold, formerly performed by Vic.
 * Before the main event started, Mister Z came out of the backstage and said that he's going to abuse his executive power by inserting himself and making it a Three-Way Match.
 * [Biesiad Strong](@/w/biesiad.md) picked a section of the barriers to attack Mister Z with.
