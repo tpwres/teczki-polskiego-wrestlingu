@@ -27,7 +27,7 @@ Rodzina continued to feud with Gabriel Queen. While Vic managed to advance in a 
 
 During the build-up for [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), Queen vowed to strike down "the Cuckold Father of Oskar" for good. At the same time Oskar got into a conflict with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) by disrespecting him and his [kabanosy][kabanosy]. This led to Stanisław facing his "Mother" Agatka in a Custody of Oskar Match at the same show. The match quickly evolved into a Tornado Tag Team Match between Agencja and Stanisław & [Johnny Blade](@/w/johnny-blade.md). During the match the victory of Agencja was granted thanks to an intervention of Rodzina's new member, [Robert Star](@/w/robert-star.md).
 
-After Mistrzowskie Rozdanie 2 the feud between Rodzina and Queen continued, with Oskar and Vic being challenged for a Tag Team Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). To help him in the fight, Gabriel recruited his old mentor and another Polish wrestling legend: [Justin Joy](@/w/justin-joy.md), making his wrestling return. Rodzina came out on top.
+After Mistrzowskie Rozdanie 2 the feud between Rodzina and Queen continued, with Oskar and Vic being challenged for a Tag Team Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). To help him in the fight, Gabriel recruited his old mentor and another Polish wrestling legend: [Justin Joy](@/w/justin-joy.md), making his return to wrestling. Rodzina came out on top.
 
 ## Members
 
