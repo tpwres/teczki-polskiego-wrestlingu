@@ -44,7 +44,7 @@ According to the information on the PWF website, the federation planned on hosti
 ## References
 
 * [WrestleFans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=59&t=35583), announcing the creation of the federation
-* [PWF's website](https://polishwrestling.weebly.com/index.html)
+* [PWF's website on weebly.com](https://polishwrestling.weebly.com/index.html)
 * [PWF's YouTube](https://www.youtube.com/user/OfficialPwf), without any videos available (as of October 2025)
 
 [show-01]: https://polishwrestling.weebly.com/time-of-honor.html
