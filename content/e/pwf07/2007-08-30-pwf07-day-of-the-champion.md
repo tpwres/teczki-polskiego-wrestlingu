@@ -10,7 +10,7 @@ toclevel = 2
 hide_pagination = true
 +++
 
-PWF Day of the Champion was an event produced by [Polish Wrestling Federation](@/o/pwf07.md) on August 30th, 2007. The only avaliable info about the show is a Championship match announcement. The video footage from the show hasn't been archived.
+PWF Day of the Champion was an event produced by [Polish Wrestling Federation](@/o/pwf07.md) on August 30th, 2007. The only available info about the show is a Championship match announcement. The video footage from the show hasn't been archived.
 
 {{ skip_card() }}
 
