@@ -24,15 +24,15 @@ Public activity of the federation lasted less than a month, as it went silent af
 
 PWF's website lists 10 shows, but the only information given are the names, dates (months only) and the stipulation (as "speciality"). The events were:
 
-* [Time of Honor][show-01] / January / Iron Man
-* [Public Vote][show-02] / February / Fans choose stipulation
-* [Give Up][show-03] / March / I Quit Match, with weapons
-* [Falls Count Anywhere][show-04] / April / Falls Count Anywhere
-* [Stay of the Ring][show-05] / May / Battle Royal
-* [Best of the Best][show-06] / June / Single elimination tournament
-* [Go to Exit][show-07] / July / Put the opponent into the boot of a nearby car to win the main event
-* [Last Stand][show-08] / August / Last Man Standing
-* [Unreservdly][show-09] / No-DQ / 
+* [Time of Honor][show-01] / January / Mostly Iron Man Matches
+* [Public Vote][show-02] / February / Fans choose stipulations
+* [Give Up][show-03] / March / Mostly I Quit Matches, with weapons
+* [Falls Count Anywhere][show-04] / April / Falls Count Anywhere Matches ("in the ring, next to it, among the crowd, on the roof, anywhere!")
+* [Stay of the Ring][show-05] / May / Battle Royal Matches
+* [Best of the Best][show-06] / June / Single elimination tournament(s)
+* [Go to Exit][show-07] / July / Put the opponent into the boot of a nearby car to win the main event (all other fights to be Singles Matches)
+* [Last Stand][show-08] / August / Plenty of Last Man Standing Matches
+* [Unreservdly][show-09] / No-DQ / No Disqualification Matches
 * [Champion Is One!][show-10] / December / WrestleMania equivalent, with "fireworks, interesting matches, different entrances, music and plenty of fun!"
 
 ## Championships
