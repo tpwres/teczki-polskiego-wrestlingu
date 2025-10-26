@@ -54,7 +54,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: 'Zmowa Recruitment Gauntlet Match'  
-- - '[Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+- - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md) & [Justin Joy](@/w/justin-joy.md)'
   - s: Tag Team Match
 - - '[Goblin](@/w/goblin.md)(c)'
