@@ -27,7 +27,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
   - 'Antoni Ocean'
   - s: Trial by Blade
     nc: upcoming
-- - 'Rodzina: [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+- - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
   - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
   - s: Tag Team Match
     nc: upcoming
