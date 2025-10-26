@@ -92,6 +92,7 @@ toclevel = 2
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=435850)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=827086732977304&set=a.136592405360077)
+* [Official YouTube stream - requires paid subscription](https://www.youtube.com/watch?v=QNGM1wLsqvg&t=6364s)
 
 [konfirmacja]: https://www.facebook.com/reel/1184868053698977
 [Aruba]: https://pl.wikipedia.org/wiki/Aruba
