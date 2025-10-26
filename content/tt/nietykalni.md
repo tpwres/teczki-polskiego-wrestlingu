@@ -28,8 +28,8 @@ The feud betwen Nietykalni and Okoński continued throughout the following shows
 
 On 19.07.2025 PTW promoted a show named after the faction - [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md), where Okoński and Spartan officially formed an alliance against Pawłowski's faction.
 
-Over next months, Nietykalni continued to haunt Okoński and babyfaces. Eventually _Team Okoński_ formed to face them.
-At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) the teams faced off in a 4 on 4 Elimination Match with future titleshots for babyfaces hanging in the balance. ["Starboy" Nano Lopez](@/w/nano-lopez.md) turned on Team Okoński, attacking [Spartan](@/w/spartan.md) and thus eliminating himself from the match. His further beatdown of Spartan secured the win for Nietykalni. Post-match he celebrated together, while commentary confirmed he is indeed the 5th member of Nietykalni.
+Over the following months, Nietykalni continued to haunt Okoński and the babyfaces. Eventually, Team Okoński formed to face them.
+At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) the teams faced off in a 4 on 4 Elimination Match with future titleshots for the babyfaces hanging in the balance. ["Starboy" Nano Lopez](@/w/nano-lopez.md) turned on Team Okoński, attacking [Spartan](@/w/spartan.md) and thus eliminating himself from the match. His further beatdown of Spartan secured the win for Nietykalni. Post-match he celebrated together, while commentary confirmed he is indeed the 5th member of Nietykalni.
 
 ## Members
 

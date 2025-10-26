@@ -1,7 +1,7 @@
 +++
 title = "PTW: Halloweenowa Rozpierducha"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -27,7 +27,7 @@ toclevel = 2
 
 ## Card
 
-{% card %}
+{% card() %}
 - - 'Street Creed: Ivan Sanzio & Davide Adami'
   - 'The Lancadores: Kenny B. & M.R.D. w/ Tori Fox'
   - s: International Showcase Tag Team Match
@@ -44,17 +44,17 @@ toclevel = 2
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
 - - 'CJ Klakson'
   - 'Dylan Thorn'
-  - s: Manto challenge
+  - s: Triple Threat Match Manto Challenge
 - - '[Damian Lambert](@/w/damien-rothschild.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
-  - g: Lambert promises changes after recent loss. Pawłowski gives him a match
+  - g: Lambert promises changes after his recent loss. Pawłowski gives him a match.
 - - '[Damian Lambert](@/w/damien-rothschild.md)'
   - 'Dropper'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Elimination Match'
     c: 'Championship opportunity vs Championship ban for Team Okoński'
-    n: 'Nano Lopez eliminated himself via DQ when he turned on his team'
+    n: 'Nano Lopez eliminated himself via DQ when he turned on his team.'
 - credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
@@ -63,30 +63,29 @@ toclevel = 2
     Timekeeper: 'Boguś'
 {% end %}
 
-## Recap
+### Recap
 
-* Street Creed worked the match as heels, whereas The Lancadores (with their manager Tori Fox) played babyfaces
-* Post-match, the heels tried to put an exclamation mark on their victory, continuing the beatdown on The Lancadores. Tori Fox thwarted their attempts, disposing of both Street Creed members
-* Damian Adler, a Polish competitor trained in Germany, made his debut as Pawłowski's handpicked opponent for Razor's Open Challenge. Adler worked the match as a heel, working a blend of powerhouse style and agility. Razor won with a crucifix pin to retain
-* Sawicki made his entrance wearing a skull mask with facepaint underneath, playing up the Halloween theme of the show. His entrance mimicked La Parka.
-* Pawłowski entered to pick his opponent, teasing Boguś (working as timekeeper) that this is his chance. However, the one to debut was a fellow PTW rookie, Bumper. Sawicki disposed of him in a quick fashion
-* Andi Zick Zack won a Halloween Hardcore Match
-* The show goes to a break
-* After the break, Okoński (accompanied by a scantily-clad woman introduced as Dominika) enters to host a traditional charity auction
-* Shida makes an entrance wearing a mask from _Scream_. Polski Niedźwiedź made his entrance as usual. Shida wins in a fairly short match, focusing on mutual respect. Him and Bear embrace afterwards
-* Klakson's Manto Challenge turns out to be a Triple Threat Match against two debuting international wrestlers: Dylan Thorn from Scotland and Shawn Aster from [Aruba island][https://pl.wikipedia.org/wiki/Aruba]
-* Klakson wins in a fairly short fashion hitting a _Polski Przekręt_(roughly: Polish Swindle, a _Twist of Fate_ variation) on Thorn for a pinfall.
-* Damian Lambert makes an entrance for unannounced segment. He laments the turn from predator to victim after the previous show. Because of this he can't even looks people in the eyes.
-* Pawłowski comes out to choose Lambert's opponent. After once again teasing Boguś with an opportunity, he introduces a fellow rookie, Dropper. Lambert with a quick statement win. Afterwards, Lambert makes an exit, visibly avoiding any eye contact with the audience.
-* Nietykalni make an entrance first as a unit. Members of Team Okoński make their entrances in succession.
-* In a slightly comedic fashion, Caravaggio uses the ring of his _Granny Matylda_. The only effect it achieves is breaking down a set of chairs placed close to the stage
+* Street Creed worked the match as heels, whereas The Lancadores (with their manager Tori Fox) played babyfaces.
+* Post-match, the heels tried to put an exclamation mark on their victory, continuing the beatdown on The Lancadores. Tori Fox thwarted their attempts, disposing of both Street Creed members.
+* Damian Adler, a Polish competitor trained in Germany, made his debut as Pawłowski's hand-picked opponent for Razor's Open Challenge. Adler worked the match as a heel, presenting a blend of powerhouse style and agility. Razor won with a crucifix pin to retain.
+* Sawicki made his entrance wearing a skull mask with facepaint underneath, playing up the Halloween theme of the show. His entrance mimicked [La Parka][pa-larka].
+* Pawłowski entered to pick his opponent, teasing Boguś (working as timekeeper) that this was his chance. However, the one to debut was a fellow PTW rookie, Bumper. Sawicki disposed of him in a quick fashion.
+* Andi Zick Zack won a Halloween Hardcore Match, followed by a break.
+* After the break, Okoński (accompanied by a scantily-clad woman, introduced as Dominika) enters to host a traditional charity auction.
+* Just like [a year ago](@/e/ptw/2024-10-19-ptw-underground-23.md), Shida entered wearing a [Ghostface][duchomordy] mask from _Scream_. Polski Niedźwiedź made his entrance as usual. Shida won in a fairly short match, focusing on mutual respect. Him and Bear embraced afterwards.
+* Klakson's Manto Challenge turned out to be a Triple Threat Match against two debuting international wrestlers: Dylan Thorn from Scotland and Shawn Aster from the [Country of Aruba][https://pl.wikipedia.org/wiki/Aruba].
+* Klakson won fairly quickly, hitting a _Polski Przekręt_(roughly "the Polish Swindle", a Twist of Fate variation) on Thorn for a pinfall.
+* Damian Lambert entered for an unannounced segment. He lamented the turn from the predator to a victim after the previous show. Because of this he couldn't even look people in the eyes.
+* Pawłowski came out to choose Lambert's opponent. After once again teasing Boguś with an opportunity, he introduced a fellow rookie, Dropper. Lambert defeated him quickly, making a statement with his victory, and left visibly avoiding any eye contact with the audience.
+* Nietykalni made an entrance first, coming as a unit. Members of Team Okoński enter in succession.
+* In a slightly comedic fashion, Caravaggio uses the ring of his grandmother Matylda. The only effect it achieved was breaking down a set of chairs placed close to the stage.
 * Order of eliminations:
-*   Pawłowski eliminates Sigma Boy xD after a Wylew from Puncher and some offense of his own
-*   Puncher eliminates Okoński after _Wylew_ and a _Curb Stomp_
-*   Spartan eliminates Alex Brave after a _Spartan Bomb_
-*   Lopez turns on Spartan, hitting him with a chair. Thus, Starboy is eliminated by DQ
-*   Puncher eliminates Spartan picking up a win for his team
-* After Nietykalni win, Nano Lopez embraces them and celebrates together, thus joining the faction.
+*   Pawłowski eliminated Sigma Boy xD after a Wylew from Puncher and some offense of his own.
+*   Puncher eliminated Okoński after a Wylew and a Curb Stomp.
+*   Spartan eliminated Alex Brave after a Spartan Bomb.
+*   Lopez turned on Spartan, hitting him with a chair. Thus, Starboy was eliminated by DQ.
+*   Puncher eliminated Spartan, picking up a win for his team.
+* After Nietykalni won, Nano Lopez embraced them and celebrated together, thus joining the faction.
 
 ## References
 
@@ -95,4 +94,6 @@ toclevel = 2
 * [Official YouTube stream - requires paid subscription](https://www.youtube.com/watch?v=QNGM1wLsqvg&t=6364s)
 
 [konfirmacja]: https://www.facebook.com/reel/1184868053698977
+[pa-larka]: https://en.wikipedia.org/wiki/L._A._Park
+[duchomordy]: https://en.wikipedia.org/wiki/Ghostface_(Scream)
 [Aruba]: https://pl.wikipedia.org/wiki/Aruba
