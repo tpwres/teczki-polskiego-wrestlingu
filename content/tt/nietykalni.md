@@ -24,9 +24,12 @@ At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), Pawłowski br
 
 Later that same night, Pawłowski inserted Royal Rebels mid-match into the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) bout between [L'Orda](@/tt/l-orda.md) and a makeshift team of ["Starboy" Nano Lopez](@/w/nano-lopez.md) and debuting [Daniel Razor](@/w/daniel-razor.md). The rules were changed to a Tornado Tag Team Match which, combined with two original teams being already spent, allowed Royal Rebels to easily capture the Championship.
 
-The feud betwen Nietykalni and Okoński continued throughout the following shows. At [Złoto dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Okoński made a gentlemen's bet with Caravaggio. If Okoński throws out any member of the team from the Gold Rush Rumble match, Caravaggio will get his logo tattooed. If the opposite happenes, Okoński will apologize for insulting Caravaggio's late grandmother Matylda. Despite Okoński winning the bet, Caravaggio refused to comply.
+The feud betwen Nietykalni and Okoński continued throughout the following shows. At [Złoto dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Okoński made a gentlemen's bet with Caravaggio. If Okoński throws out any member of the team from the Gold Rush Rumble match, Caravaggio will get his logo tattooed. If the opposite happens, Okoński will apologize for insulting Caravaggio's late grandmother Matylda. Despite Okoński winning the bet, Caravaggio refused to comply.
 
 On 19.07.2025 PTW promoted a show named after the faction - [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md), where Okoński and Spartan officially formed an alliance against Pawłowski's faction.
+
+Over next months, Nietykalni continued to haunt Okoński and babyfaces. Eventually _Team Okoński_ formed to face them.
+At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) the teams faced off in a 4 on 4 Elimination Match with future titleshots for babyfaces hanging in the balance. ["Starboy" Nano Lopez](@/w/nano-lopez.md) turned on Team Okoński, attacking [Spartan](@/w/spartan.md) and thus eliminating himself from the match. His further beatdown of Spartan secured the win for Nietykalni. Post-match he celebrated together, while commentary confirmed he is indeed the 5th member of Nietykalni.
 
 ## Members
 
@@ -35,6 +38,7 @@ On 19.07.2025 PTW promoted a show named after the faction - [PTW: Nietykalni](@/
 * [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - leader, PTW owner
 * [Dawid "Puncher" Seńko](@/w/puncher.md) - stable's prizefighter
 * [Royal Rebels](@/tt/royal-rebels.md) - a tag team of [Alex Brave](@/w/alex-brave.md) [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+* ["Starboy" Nano Lopez](@/w/nano-lopez.md) - turncoat
 
 ### Associates
 
