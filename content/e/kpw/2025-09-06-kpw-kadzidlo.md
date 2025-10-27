@@ -48,6 +48,8 @@ On 6.09.2025 KPW held an event in the village of {{ map_pin(v="Szkoła Podstawow
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
+Attendance: ca. 100 (source: Cagematch)
+
 ### Highlights
 * It is unknown whether or not [Eryk Lesak](@/w/eryk-lesak.md) cashed in his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
 * For [Tomczak](@/w/tomczak.md) vs The Rookies, which harkened back to their match from GZ'25, Rookie One was replaced by [Adam](@/w/adam-wong.md). He was the first to be eliminated by Tomczak.

@@ -29,7 +29,7 @@ Hero participated in [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.
 
 ### Dream Factory Wrestling (2015-2017)
 
-PJ Blake's career gained a lot more momentum in 2015, when he became one of the founders and core members of Toruń-based backyard federation [Dream Factory Wrestling](@/o/dfw.md). He wrestled there from the very [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June 2015 up until his last appearance at [Dream More And Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md) in December 2017. Due to his heavyweight build he won many of the matches in his career, but he was never able to win the [DFW Championship](@/c/dfw-championship.md).
+PJ Blake's career gained a lot more momentum in 2015, when he became one of the founders and core members of Toruń-based backyard federation [Dream Factory Wrestling](@/o/dfw.md). He wrestled there from the very [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June 2015 up until his last appearance at [Dream More And Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md) in December 2017. Due to his heavyweight build, he won many of the matches in his career, but was never able to capture the [DFW Championship](@/c/dfw-championship.md).
 
 After DFW folded its operations, PJ Blake eventually retired from professional wrestling.
 

@@ -66,7 +66,7 @@ Source: Facebook @kpwrestling.
 
 On 18.11.2024 KPW [announced][kpw-on-extreme] a deal with Extreme Sports Channel. The TV station would air KPW shows beginning with [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) which, unlike its counterpart on FightBox, was shown with a commentary by [Krystian Czekaj](@/w/krystian-czekaj.md). The events shown on television were considerably cut down: the running times were only around 1:30&nbsp;h for Arenas and 2:30&nbsp;h for [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md). As a result many of the promos and other non-wrestling segments were shortened or even omitted entirely.
 
-On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Kombat TV, would make a return in a new format, airing twice a month on Extreme Sports Channel.
+On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Kombat TV, would make a return in a new format, airing twice a month on Extreme Sports Channel. Six months later, on 23.10.2025, [Krystian Malinowski](@/w/krystian-malinowski.md) [announced][malinowski-xxx] that the first Kombat TV episodes would be uploaded to the promotion's YouTube channel.
 
 ### Foreign relations
 
@@ -116,3 +116,4 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 [low-fux]:https://www.facebook.com/photo/?fbid=122119129010468820&set=pb.61564064601704.-2207520000
 [kpw-on-extreme]:https://www.facebook.com/kpwrestling/posts/pfbid0YGB2msLrahPdbVHb9YfF7YeXqQLacmtHD5c3Swuk4KzK4qFatZhkTsDLtvR5DSYDl
 [kombat-tv]: https://www.facebook.com/photo/?fbid=1003326585259914&set=a.517136233878954
+[malinowski-xxx]: https://www.youtube.com/watch?v=_wDJOaQ6d0s

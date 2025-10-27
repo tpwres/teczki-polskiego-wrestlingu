@@ -257,6 +257,12 @@ Both defenses took place during events held by Bologna Wrestling Team.
   - s: 'No-DQ Match'
     en: '[KPW Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md)'
     ed: 2025-09-13
+- - 'Zefir (c)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - s: Winner Takes All Match
+    en: '[KPW Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md)'
+    ed: 2025-11-14
+    nc: upcoming
 {% end %}
 
 ## References

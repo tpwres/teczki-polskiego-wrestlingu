@@ -15,7 +15,7 @@ Small Jumper is a retired backyard wrestler who worked for [Toruń Wrestling Fed
 * Years active: 2011-2012
 * Gimmicks/nicknames:
   - Small Jumper {{ org_badge(orgs=['twf']) }}
- 
+
 ## Professional wrestling career
 
 ### Toruń Wrestling Federation (2011-2012)
