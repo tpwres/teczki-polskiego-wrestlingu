@@ -1,5 +1,5 @@
 +++
-title = "KPW Academy"
+title = "Szkoła Wrestlingu KPW"
 weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
@@ -8,7 +8,7 @@ hide_roster = true
 hide_events = true
 +++
 
-KPW Academy is the wrestling school associated with [Kombat Pro Wrestling](@/o/kpw.md).
+Szkoła Wrestlingu KPW (_KPW Wrestling School_) is the wrestling school associated with [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## Basic info
 
@@ -42,8 +42,8 @@ KPW Academy is the wrestling school associated with [Kombat Pro Wrestling](@/o/k
 
 ## History
 
-KPW Academy was created alongside [Kombat Pro Wrestling](@/o/kpw.md) in 2015, shortly after the federation and its wrestling school was transformed from [Do Or Die Wrestling](@/o/ddw.md). From that point on it ran regular training sessions in Gdynia, operating on weekends. The school offers wrestling training for wrestlers, referees, managers, commentators, announcers and virtually every other position in the professional wrestling business. Every July the KPW Academy also hosts an annual two-week summer camp.
+KPW Wrestling School was created alongside [Kombat Pro Wrestling](@/o/kpw.md) in 2015, shortly after the federation and its wrestling school was transformed from [Do Or Die Wrestling](@/o/ddw.md). From that point on it ran regular training sessions in Gdynia, operating on weekends. The school offers wrestling training for wrestlers, referees, managers, commentators, announcers and virtually every other position in the professional wrestling business. Every July the KPW School also hosts an annual two-week summer camp.
 
 ## References 
 
-* [KPW Academy website](https://kpwrestling.pl/szkola)
+* [KPW Wrestling School](https://kpwrestling.pl/szkola)
