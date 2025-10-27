@@ -14,7 +14,7 @@ KPW Academy is the wrestling school associated with [Kombat Pro Wrestling](@/o/k
 
 * Years active: 2015-present
 * Locations:
-  - Gdynia (2015-present) - gym hall of primary school no. 52
+  - Gdynia (2015-present) - gym hall of Primary School no. 52
 * Coaching staff:
   * Active:
     - [Piękny Kawaler](@/w/piekny-kawaler.md) - Owner, Head Coach (2015-)
