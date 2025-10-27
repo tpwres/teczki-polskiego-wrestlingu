@@ -1,11 +1,13 @@
 import csv
-from datetime import datetime
+from dataclasses import dataclass
+from datetime import datetime, date
 from pathlib import Path
 import sys
 from typing import Tuple, Any
 import matplotlib as mpl
 from matplotlib import pyplot as plt, patches as pat, transforms
 from matplotlib.dates import YearLocator, MonthLocator
+import numpy as np
 
 from page import page
 from utils import SkipComments
@@ -15,6 +17,13 @@ from .stripe import Stripe
 from .org_colors import OrgColors
 from .annotator import Annotator
 from .legend_builder import LegendBuilder
+
+@dataclass
+class ArrowAnnotation:
+    start: date
+    row_a: int
+    end: date
+    row_b: int
 
 def layers(stripes: list[Stripe]):
     # Group the list of stripes by layers, and yield them in-order
@@ -56,6 +65,7 @@ class Grapher:
         self.annotator = Annotator()
         self.legend_builder = LegendBuilder(self.colors, make_org_entry)
         self.extra_metadata = {}
+        self.arrow_annotations = []
         self.options: dict[str, Any] = {
             'bar_height': 0.8,
             'figsize': '10/5',
@@ -150,6 +160,7 @@ class Grapher:
 
         labels = self.draw_stripes(data, ax)
         self.add_bg_stripes(ax, len(labels))
+        self.add_arrows(_fig, ax)
 
         if self.display_legend:
             legend_keys, patches = self.legend_builder.legend()
@@ -198,6 +209,11 @@ class Grapher:
                 self.add_explicit_link(key, target)
             case Directive(keyword='@option', params=[str(key), str(value)]):
                 self.options[key] = value
+            case Directive(keyword='@arrow', params=[str(start), str(row_a), str(end), str(row_b)]):
+                start = datetime.strptime(start, '%Y-%m')
+                end = datetime.strptime(end, '%Y-%m')
+                row_a, row_b = int(row_a), int(row_b)
+                self.arrow_annotations.append(ArrowAnnotation(start, row_a, end, row_b))
 
     def draw_stripes(self, data, ax) -> dict[str, str]:
         labels = {}
@@ -278,6 +294,31 @@ class Grapher:
             )
             rr.set_zorder(-1)
             fig.add_artist(rr)
+
+    def add_arrows(self, fig, ax):
+        for arrow in self.arrow_annotations:
+            startx, starty = arrow.start, arrow.row_a - 1
+            endx, endy = arrow.end, arrow.row_b - 1
+            midx = startx + (endx - startx) / 2
+            # Segments
+            ax.annotate(
+                "",
+                xy=(midx,starty),
+                xytext=(startx, starty),
+                arrowprops=dict(facecolor='black', width=0.2, headwidth=0)
+            )
+            ax.annotate(
+                "",
+                xy=(midx,endy),
+                xytext=(midx,starty),
+                arrowprops=dict(facecolor='black', width=0.2, headwidth=0)
+            )
+            ax.annotate(
+                "",
+                xy=(endx, endy),
+                xytext=(midx,endy),
+                arrowprops=dict(facecolor='black', width=0.2, headwidth=4.0, headlength=2.0)
+            )
 
     def add_explicit_link(self, key, target):
         links = self.extra_metadata.setdefault('links', {})
