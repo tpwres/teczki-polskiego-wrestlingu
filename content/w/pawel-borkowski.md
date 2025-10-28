@@ -26,7 +26,7 @@ In recent years he resurfaced, attached to [Prime Time Wrestling](@/o/ptw.md), d
 
 ### Polish Pro-Wrestling Federation (1999-2003)
 
-Around 1999 Paweł Borkowski came to Andrzej Supron with a plan to create the first pro wrestling federation in the country, to be named simply "Polish Pro-Wrestling Federation", or PPWF. Unable to secure international names, the organization had to rely only on home-grown talent. While they did manage to secure sponsorship and a deal to buy a professional wrestling ring, no events were actually held due to low interest and poor ticket sales. A second attempt in 2003 secured support from Belgian wrestler and promoter Bernard Vandamme, but once again the event was cancelled, just three weeks before the scheduled date.
+Around 1999 Paweł Borkowski came to Andrzej Supron with a plan to create the first pro wrestling federation in the country, to be named simply [Polish Pro-Wrestling Federation](@/o/ppwf.md), or PPWF. Unable to secure international names, the organization had to rely only on home-grown talent. While they did manage to secure sponsorship and a deal to buy a professional wrestling ring, no events were actually held due to low interest and poor ticket sales. A second attempt in 2003 secured support from Belgian wrestler and promoter Bernard Vandamme, but once again the event was cancelled, just three weeks before the scheduled date.
 
 ### Total Blast Wrestling (2009-2011)
 

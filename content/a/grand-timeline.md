@@ -2,7 +2,7 @@
 title = "Grand Timeline"
 template = "article.html"
 weight = 0
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "M3n747"]
 description = """\
   A timeline of key events in Polish wrestling history, from the 1800s to modern day.
 """
@@ -44,13 +44,17 @@ An even more condensed version, in the form of a timeline graph covering the mod
 * Supron wins silver medal in classical wrestling in the Moscow Olympics of 1980.
 Later, assembles a team of athletes, trains them (despite having no pro wrestling training himself), and stages a couple of events in Warsaw and Poznań in the early '90s.
 
+#### 1990
+
+* Andrzej Supron starts [SupronStars](@/o/supronstars.md). The group tours poland and ex-Soviet republics.
+
 #### 1993
 
 * Supron contacts a wrestler group touring Europe at the time, and manages to draw them to Poland for a single show. [World Wrestling Superstars](@/e/wws/1993-12-14-wws-world-wrestling-superstars.md) is held in Warsaw, with names like Bob Orton, The Iron Sheik, Koko B. Ware and Greg Valentine on the card.
 
 #### 1999
 
-* [Paweł Borkowski](@/w/pawel-borkowski.md) contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They create PPWF (Polish Pro-Wrestling Federation), which only manages to hold training sessions, but no shows due to lack of interest.
+* [Paweł Borkowski](@/w/pawel-borkowski.md) contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They create [Polish Pro-Wrestling Federation](@/o/ppwf.md), which only manages to hold training sessions, but no shows due to lack of interest.
 * Andrzej Supron buys a ring for PPWF.
 
 #### 2000-2005

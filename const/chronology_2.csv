@@ -16,8 +16,8 @@
 @option,org_in_tooltip,off
 @option,hide_spines,top+right
 @option,padding,0
-SupronStars,supron,1990-01,1992-12
-Polish Pro-Wrestling Federation,ppwf,2000-01,2003-12
+[o/SupronStars],supron,1990-01,1992-12
+[o/Polish Pro-Wrestling Federation],ppwf,2000-01,2003-12
 [o/Do Or Die Wrestling],ddw,2009-01,2015-07
 [o/Total Blast Wrestling],tbw,2010-01,2011-01
 # Backyard years of PpW, then pro years. Use same date as the start of pro to make the bars touch.,,,
