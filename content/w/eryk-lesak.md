@@ -18,7 +18,7 @@ Eryk Lesak is a Polish wrestler best known for his time in [Kombat Pro Wrestling
 * Gimmicks/nicknames:
   - Eryk Lesak {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy (201?-)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-)
 
 ## Professional wrestling career
 

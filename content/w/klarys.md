@@ -16,7 +16,7 @@ Klarys is a retired Polish wrestler best known for his time in [Do Or Die Wrestl
 * Gimmicks/nicknames:
   - Klarys {{ org_badge(orgs=['ddw']) }}
 * Trained by:
-  - DDW Academy (2009-2015)
+  - [DDW Academy](@/o/ddw-academy.md) (2009-2015)
 
 ## Professional wrestling career
 

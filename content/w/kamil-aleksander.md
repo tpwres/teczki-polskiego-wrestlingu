@@ -18,7 +18,7 @@ Kamil Aleksander is a retired Polish wrestler best known for his time in [Do Or 
   - Kamil Manuszewski {{ org_badge(orgs=['ddw']) }}
   - Kamil Aleksander {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
-  - DDW Academy (2009-2015)
+  - [DDW Academy](@/o/ddw-academy.md) (2009-2015)
 
 ## Professional wrestling career
 

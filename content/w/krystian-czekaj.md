@@ -18,8 +18,8 @@ Krystian Czekaj is a Polish wrestling referee and commentator currently working 
 * Gimmicks/nicknames:
   - Krystian Czekaj {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
-  - DDW Academy (2013-2015)
-  - KPW Academy (2015-present)
+  - [DDW Academy](@/o/ddw-academy.md) (2013-2015)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-present)
 
 ## Professional wrestling career
 

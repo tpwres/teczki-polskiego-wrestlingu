@@ -18,7 +18,7 @@ David Oliwa is a Polish wrestler best known for his appearances for [Kombat Pro 
 * Gimmicks/nicknames:
   - David Oliwa {{ org_badge(orgs=['ddw', 'kpw', 'low']) }}
 * Trained by:
-  - DDW Academy (201?-2015)
+  - [DDW Academy](@/o/ddw-academy.md) (201?-2015)
 
 ## Professional wrestling career
 

@@ -16,8 +16,8 @@ Kaszub is a retired Polish wrestler best known for his time in [Kombat Pro Wrest
 * Gimmicks/nicknames:
   - Kaszub {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
-  - DDW Academy (201?-2015)
-  - KPW Academy (2015-2018)
+  - [DDW Academy](@/o/ddw-academy.md) (201?-2015)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2018)
 
 ## Professional wrestling career
 

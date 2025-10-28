@@ -18,7 +18,7 @@ Leon Lato is a Polish wrestler best known for his time in [Kombat Pro Wrestling]
 * Gimmicks/nicknames:
   - Leon Lato {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy (202?-present)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-present)
 
 ## Professional wrestling career
 
