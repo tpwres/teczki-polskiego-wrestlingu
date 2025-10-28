@@ -18,7 +18,7 @@ Piotr "Opol" Opolski is a semi-retired Polish wrestler best known for his time i
 * Gimmicks/nicknames:
   - Piotr Opolski {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md)
 
 ## Professional wrestling career
 

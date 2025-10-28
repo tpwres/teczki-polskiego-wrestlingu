@@ -43,7 +43,7 @@ At [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) Piękny 
 
 #### Owner and Head Coach
 
-After his in-ring retirement Kawaler continued to run KPW Academy and the federation itself as the main coach, booker and owner.
+After his in-ring retirement Kawaler continued to run [KPW Wrestling School](@/o/szkola-kpw.md) and the federation itself as the main coach, booker and owner.
 
 ## International wrestling appearances
 

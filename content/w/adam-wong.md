@@ -18,7 +18,7 @@ Adam Wong is a Polish wrestler best known for his time in [PpW Ewenement](@/o/pp
   - _Rookie_ Adam {{ org_badge(org='kpw') }} (September 2025-)
 * Trained by:
   - PpW Dojo (2021-2023)
-  - KPW Academy (2024-present)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2024-present)
 
 ## Professional wrestling career
 

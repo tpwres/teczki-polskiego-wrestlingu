@@ -20,7 +20,7 @@ Chemik is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/
 * Gimmicks/nicknames:
   - Chemik {{ org_badge(orgs=['kpw', 'low']) }}
 * Trained by:
-  - KPW Academy (2017-present)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-present)
 
 ## Professional wrestling career
 

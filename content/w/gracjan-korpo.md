@@ -17,7 +17,7 @@ Gracjan Korpo is a retired Polish wrestler known for his appearances in [Kombat 
   - Gracjan Korpo {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
 * Trained by:
   - DDW Academy (201?-2015)
-  - KPW Academy (2015-2019)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2019)
 
 ## Professional wrestling career
 

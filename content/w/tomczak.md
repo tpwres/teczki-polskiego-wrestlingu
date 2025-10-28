@@ -16,7 +16,7 @@ Tomczak is a Polish wrestler working for [Kombat Pro Wrestling](@/o/kpw.md).
 * Gimmicks/Nicknames:
   - Tomczak {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md)
 
 ## Professional wrestling career
 
