@@ -32,6 +32,10 @@ Footage from more recent events is also used, showing action from events held in
 - Olgierd shares that he enjoys how his originally simple, brute character has developed since debut, and that he's an introvert by nature, despite what wrestling requires of him. Later he mentions how fans support him and other wrestlers by buying merchandise, and shows a few examples including his signature hand-painted baseball bats.
 - Biesiad mostly provides history, explaining how he became a wrestler. He also shares his first ringname, from the backyard era, which was ["Kakałko"][wiki-steven] (_small cocoa drink_).
 
+## Where to watch
+
+As of October 2025 the movie was not available to stream. During SplatFilmFest!, in a panel with directors of the other short features screened together, Bartosz Mateńko suggested that it will be made available sometime in 2026, with no further details as to when or where.
+
 
 ## References
 
