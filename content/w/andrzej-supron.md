@@ -18,7 +18,7 @@ Andrzej Supron is a Polish Greco-Roman wrestler, Olympian and wrestling commenta
 
 ## Professional wrestling career
 
-### Supron Stars (1990-1992)
+### SupronStars (1990-1992)
 
 In early 1990s Andrzej Supron organised a [group](@/o/supron-stars.md) of bodybuilders, sportsmen and actors trained loosely by himself, to perform in Poland and ex-Soviet republics, such as Georgia, Armenia, Lithuania etc. However, not much information or media is available from that time.
 
