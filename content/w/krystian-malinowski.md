@@ -20,7 +20,7 @@ Krystian Malinowski is a Polish on-screen personality, best known for his role o
   - Rex Torpeda {{ org_badge(orgs=['ddw']) }}
   - Krystian Malinowski {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
-  - [DDW Academy](@/w/ddw-academy.md) (2014-2015)
+  - [DDW Academy](@/o/ddw-academy.md) (2014-2015)
 
 ## Professional wrestling career
 

@@ -18,7 +18,7 @@ Greg is a Polish wrestler best known for his appearances in [Kombat Pro Wrestlin
 * Gimmicks/nicknames:
   - Greg / GREG {{ org_badge(orgs=['ddw', 'kpw', 'low']) }}
 * Trained by:
-  - [DDW Academy](@/w/ddw-academy.md) (2014-2015)
+  - [DDW Academy](@/o/ddw-academy.md) (2014-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2024)
 
 ## Professional wrestling career

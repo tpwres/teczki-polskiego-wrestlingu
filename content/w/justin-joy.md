@@ -18,7 +18,7 @@ Justin Joy is a retired Polish wrestler best known for his time in [Maniac Zone 
 * Gimmicks/nicknames:
   - Justin Joy {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
 * Trained by:
-  - [DDW Academy](@/w/ddw-academy.md) (201?-2014)
+  - [DDW Academy](@/o/ddw-academy.md) (201?-2014)
   - Travis Banks
   - Lee Hunter
   - Jim Hunter

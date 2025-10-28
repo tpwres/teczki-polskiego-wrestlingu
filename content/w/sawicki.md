@@ -16,7 +16,7 @@ Sawicki is a Polish wrestler best known for his tenure in [Kombat Pro Wrestling]
 * Gimmicks/nicknames:
   - Sawicki {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
-  - [DDW Academy](@/w/ddw-academy.md) (2014-2015)
+  - [DDW Academy](@/o/ddw-academy.md) (2014-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2020)
 
 ## Professional wrestling career
