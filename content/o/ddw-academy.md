@@ -52,8 +52,8 @@ DDW Academy was the wrestling school associated with [Do Or Die Wrestling](@/o/d
 
 ## History
 
-DDW Academy started alongside [Do Or Die Wrestling](@/o/ddw.md) itself. In 2009 [Don Roid](@/w/don-roid.md) founded the first professional wrestling federation in Poland, focused on training homegrown talent instead of bringing wrestlers from abroad. Don Roid became the owner and head coach of DDW Academy, which hosted their initial training sessions in Warsaw, before moving to Rzeszów in 2011. DDW stayed in Rzeszów up until the second half of 2014, when they moved to the Tricity area and started hosting their training sessions in Gdańsk. The Academy remained active up until 2015, when it closed down and was reopened as the [KPW Academy](@/o/kpw-academy.md) in 2015.
+DDW Academy started alongside [Do Or Die Wrestling](@/o/ddw.md) itself. In 2009 [Don Roid](@/w/don-roid.md) founded the first professional wrestling federation in Poland, focused on training homegrown talent instead of bringing wrestlers from abroad. Don Roid became the owner and head coach of DDW Academy, which hosted their initial training sessions in Warsaw, before moving to Rzeszów in 2011. DDW stayed in Rzeszów up until the second half of 2014, when they moved to the Tricity area and started hosting their training sessions in Gdańsk. The Academy remained active up until 2015, when it closed down and was reopened as the [KPW Wrestling School](@/o/szkola-kpw.md) in 2015.
 
 ## References
 
-* [DDW's Academy Facebook](https://www.facebook.com/SzkolaWrestlingu/?locale=pl_PL)
+* [DDW Academy's Facebook](https://www.facebook.com/SzkolaWrestlingu/?locale=pl_PL)
