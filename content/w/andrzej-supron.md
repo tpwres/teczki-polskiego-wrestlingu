@@ -28,7 +28,7 @@ In 1993 Supron contacted a group of American wrestlers touring Europe, called [W
 
 ### Polish Pro-Wrestling Federation (1999-2003)
 
-Around 1999 [Paweł Borkowski](@/w/pawel-borkowski.md) and Andrzej Supron tried to start the first pro wrestling federation in the country, to be named simply ["Polish Pro-Wrestling Federation"](@/o/ppwf.md), or PPWF. Unable to secure international names, the organization had to rely only on home-grown talent. They managed to find sponsors and purchase a professional wrestling ring, but weren't able to actually organize events, due to low interest and poor ticket sales. A second attempt in 2003 secured support from Belgian wrestler and promoter Bernard Vandamme, but once again, their scheduled event had to be cancelled.
+Around 1999 [Paweł Borkowski](@/w/pawel-borkowski.md) and Andrzej Supron tried to start the first pro wrestling federation in the country, to be named simply [Polish Pro-Wrestling Federation](@/o/ppwf.md), or PPWF. Unable to secure international names, the organization had to rely only on home-grown talent. They managed to find sponsors and purchase a professional wrestling ring, but weren't able to actually organize events, due to low interest and poor ticket sales. A second attempt in 2003 secured support from Belgian wrestler and promoter Bernard Vandamme, but once again, their scheduled event had to be cancelled.
 
 ### Total Blast Wrestling (2009-2011)
 
