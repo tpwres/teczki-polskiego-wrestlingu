@@ -8,14 +8,14 @@ template = "index.html"
 <!-- NOTE: The tables below need to be sorted manually. Sort them by creation date, and if two or more entries have the same year, do a secondary sort by name. So for instance MZW comes before MCW, and they both come before KPW. -->
 ## Active
 
-| Years active | Name | Location |
+| Founded | Name | Location |
 |--:|---|---|
-| 2013- | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
-| 2013- | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
-| 2015- | {{ org_badge(org='kpw') }} [Kombat Pro Wrestling](@/o/kpw.md) | Gdańsk, Gdynia |
-| 2020- | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
-| 2021- | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów, Kozłów |
-| 2024- | {{ org_badge(org='low') }} [Legacy of Wrestling](@/o/low.md) | Katowice |
+| 2013 | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, Wrocław |
+| 2013 | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, Świerklaniec |
+| 2015 | {{ org_badge(org='kpw') }} [Kombat Pro Wrestling](@/o/kpw.md) | Gdańsk, Gdynia |
+| 2020 | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
+| 2021 | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów, Kozłów |
+| 2024 | {{ org_badge(org='low') }} [Legacy of Wrestling](@/o/low.md) | Katowice |
 
 
 ### Wrestling schools
