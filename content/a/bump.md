@@ -15,7 +15,7 @@ BUMP is a short (16 minutes) documentary, directed by photographer Bartosz Mate≈
 
 The movie focuses on five [PpW](@/o/ppw.md) wrestlers: [Goblin](@/w/goblin.md), [Axel Fox](@/w/axel-fox.md), [Mister Z](@/w/mister-z.md), [Biesiad](@/w/biesiad.md) and [Olgierd](@/w/olgierd.md). Another minor character is [Istociarz](@/w/istociarz.md), seen in his signature white lucha mask several times, either providing commentary or interviewing people.
 Each of the wrestlers introduces themselves by their real name, and tells the story of how they got into wrestling, what keeps them interested, how they see and express themselves through their characters.
-The interviews are shot in very tight framing, and intercut with footage of various PpW events as relevant.
+The interviews are shot in very tight framing, mostly filmed in the wrestlers' homes, and intercut with footage of various PpW events as relevant.
 
 ## Depiction of wrestling
 
