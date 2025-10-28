@@ -16,7 +16,7 @@
 - Real-life events, if related, are also allowed.
 - List matches in the `{{ card() }}` block. A separate document describes how it works.
 - An event needs more than one link to prove it happened - something other than Cagematch.
-- List references in the following order: Cagematch event page, paid video, free video, other links. See [PpW Miasto Bezprawia](https://tpwres.pl/e/ppw/2024-02-10-ppw-miasto-bezprawia/) for an example.
+- List references in the following order: Cagematch event page, paid video, free video, other links. See [PpW Miasto Bezprawia](https://tpwres.pl/e/ppw/2024-02-10-ppw-miasto-bezprawia/#references) for an example.
 
 # Describing wrestlers and other talent
 
