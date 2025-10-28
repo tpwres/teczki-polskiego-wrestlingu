@@ -23,7 +23,7 @@ template = "index.html"
 | Years active | Name | Location |
 |--:|---|---|
 | 2009-2015 | [DDW Academy](@/o/ddw-academy.md) | Warsaw, Rzeszów, Gdańsk |
-| 2015- | [Szkoła Wrestlingu KPW](@/o/kpw-academy.md) | Gdynia |
+| 2015- | [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) | Gdynia |
 | 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń |
 | 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, Kozłów |
 | 2024- | [Ewenement Dojo](@/o/ewenement-dojo.md) | Warsaw |
