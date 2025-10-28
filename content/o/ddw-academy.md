@@ -24,6 +24,8 @@ DDW Academy was the wrestling school associated with [Do Or Die Wrestling](@/o/d
  
 ## Notable alumni
 
+_listed in alphabetical order:_
+
   - [Asmund](@/w/asmund.md)
   - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
   - [Bianca](@/w/bianca.md)
