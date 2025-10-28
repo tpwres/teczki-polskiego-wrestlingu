@@ -10,7 +10,7 @@ hide_events = true
 1 = { path = "paw-lokacje.webp", caption = "Poster for the summer course in August 2024, showing distances between Kępno and other major cities in the area.", source = "Facebook @PolskaAkademiaWrestlingu"}
 +++
 
-Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling school associated with [MZW](@/o/mzw.md).
+Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling school associated with [MZW](@/o/mzw.md). Before that it was known simply as "MZW Academy".
 
 ## Basic info
 
@@ -31,23 +31,49 @@ Polska Akademia Wrestlingu (_Polish Wrestling Academy_, PAW) is the wrestling sc
 
 ## Notable alumni
 
-* [Jacob Crane](@/w/jacob-crane.md)
-* [Axel Fox](@/w/axel-fox.md)
-* [Aron Wake](@/w/aron-wake.md)
-* [Gabriel Queen](@/w/gabriel-queen.md)
-* [Madman Charlie](@/w/madman-charlie.md)
-* [Rafael Kid](@/w/rafael-kid.md)
+_Listed in alphabetical order:_
+
+MZW Academy:
+
+* Akira
+* [Blue Thunder](@/w/blue-thunder.md)
+* Columbus
+* El Dorado
+* [Hexia](@/w/hexia.md)
+* Kamil Kwiecień
+* [Kripto](@/w/kripto.md)
+* [Lider](@/w/lider.md)
+* Maniak
+* [Mr B.](@/w/mr-b.md)
+* [Red Thunder](@/w/red-thunder.md)
+* [Szymon Siwiec](@/w/szymon-siwiec.md)
+* Tony Steel
+* Wiktor
+  
+
+Polska Akademia Wrestlingu:
+
+* Anatolii
 * [Apollo Anderson](@/w/apollo-anderson.md)
-* [Olgierd](@/w/olgierd.md)
+* [Aron Wake](@/w/aron-wake.md)
+* [Axel Fox](@/w/axel-fox.md)
 * [Boro](@/w/boro.md)
+* [Chris X](@/w/chris-x.md)
+* [Gabriel Queen](@/w/gabriel-queen.md)
+* [Isnorr](@/w/isnorr.md)
+* [Jacob Crane](@/w/jacob-crane.md)
+* [Konrad Von Koch](@/w/konrad-von-koch.md)
+* Leo Zayde
+* [Madman Charlie](@/w/madman-charlie.md)
+* [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
+* Michael Payne
+* [Olgierd](@/w/olgierd.md)
+* [Prince Striker](@/w/royal-striker.md)
+* [Rafael Kid](@/w/rafael-kid.md)
 * [Rafi Rarytas](@/w/rafi.md)
 * [Sambor](@/w/sambor.md)
-* Michael Payne
-* [Chris X](@/w/chris-x.md)
-* Leo Zayde
-* [Prince Striker](@/w/royal-striker.md)
 * [Sędzia Seweryn](@/w/sedzia-seweryn.md)
-* [Isnorr](@/w/isnorr.md)
+* [Sędzia Michał](@/w/sedzia-michal.md)
 * [Tony "The Riverman" Sheen](@/w/riverman.md)
 
 ## History
