@@ -17,7 +17,7 @@ Mateusz Kakareko, also known as Mateusz Kowalski, is a retired Polish wrestler f
   - Mateusz Kakareko {{ org_badge(orgs=['kpw']) }}
   - Mateusz Kowalski {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
-  - DDW Academy (2013-2015)
+  - [DDW Academy](@/w/ddw-academy.md) (2013-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2019)
 
 ## Professional wrestling career

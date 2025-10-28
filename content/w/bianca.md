@@ -16,7 +16,7 @@ Bianca is a retired Polish wrestler best known for her time in [Kombat Pro Wrest
 * Gimmicks/nicknames:
   - Bianca {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
-  - DDW Academy (201?-2015)
+  - [DDW Academy](@/w/ddw-academy.md) (201?-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2020)
 
 ## Professional wrestling career

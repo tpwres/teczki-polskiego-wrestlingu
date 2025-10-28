@@ -19,7 +19,7 @@ Rosetti, previously known as "Victor Rosetti", is a Polish wrestler best known f
   - Victor Rosetti {{ org_badge(orgs=['ddw', 'kpw']) }} (2015-2017)
   - Rosetti {{ org_badge(orgs=['kpw']) }} (2017-)
 * Trained by:
-  - DDW Academy (201?-2016)
+  - [DDW Academy](@/w/ddw-academy.md) (201?-2016)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2016-)
  
 ## Professional wrestling career
@@ -36,7 +36,7 @@ Initially performing as a solo wrestler, Rosetti debuted at [KPW Arena 1](@/e/kp
 
 #### Teaming with Sawicki and KPW Tag Team Champion
 
-Rosetti later teamed up with [Sawicki](@/w/sawicki.md), while at the same time joining [Piękny Kawaler](@/w/piekny-kawaler.md) in his stable called "Kawaleria" (_The Cavalry_). In November 2018 Sawicki and Rosetti won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md). Eventually, however, they lost the title at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) to The Hunt ([Primate](@/w/primate.md) & Wild Boar). Rosetti blamed Sawicki for the loss and, in a fit or anger, attacked him with a chair after the match. The onslaught was so brutal that Sawicki was never seen in KPW again (in reality, he left for [Prime Time Wrestling](@/o/ptw.md) where he trained, but never performed). This incident would end up earning him the nickname "Sadysta z Łodzi" (_The Sadist from [Łódź][boat-city]_), first heard in his promo for [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md).
+Rosetti later teamed up with [Sawicki](@/w/sawicki.md), while at the same time joining [Piękny Kawaler](@/w/piekny-kawaler.md) in his stable called [Kawaleria](@/tt/kawaleria.md). In November 2018 Sawicki and Rosetti won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md). Eventually, however, they lost the title at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) to The Hunt ([Primate](@/w/primate.md) & Wild Boar). Rosetti blamed Sawicki for the loss and, in a fit or anger, attacked him with a chair after the match. The onslaught was so brutal that Sawicki was never seen in KPW again (in reality, he left for [Prime Time Wrestling](@/o/ptw.md) where he trained, but never performed). This incident would end up earning him the nickname "Sadysta z Łodzi" (_The Sadist from [Łódź][boat-city]_), first heard in his promo for [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md).
 
 #### Joining Gałąź Gregoriańska and KPW OldTown Champion
 

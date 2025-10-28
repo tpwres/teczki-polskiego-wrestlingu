@@ -18,7 +18,7 @@ Asmund is a retired Polish wrestler best known for his time in [Maniac Zone Wres
   - Rider {{ org_badge(orgs=['piwg', 'ddw']) }}
   - El Diamante {{ org_badge(orgs=['mzw']) }} (masked)
 * Trained by:
-  - DDW Academy (2010-2011)
+  - [DDW Academy](@/w/ddw-academy.md) (2010-2011)
   - MZW Academy (2014-2016)
 
 ## Professional wrestling career

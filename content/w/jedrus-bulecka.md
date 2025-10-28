@@ -25,7 +25,7 @@ Jędruś Bułecka is a semi-retired Polish wrestler best known for co-founding a
   - Polish Hammer {{ org_badge(orgs=['mzw']) }}
 * Trained by:
   - Kevin Williams (prior to 2009)
-  - DDW Academy (2009-2013)
+  - [DDW Academy](@/w/ddw-academy.md) (2009-2013)
   - MZW Academy / [Polska Akademia Wrestlingu](@/o/paw.md) (2014-2018)
 
 ## Professional wrestling career

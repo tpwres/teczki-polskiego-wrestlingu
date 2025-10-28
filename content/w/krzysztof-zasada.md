@@ -18,7 +18,7 @@ Krzysztof Zasada, also known as Bogdan and Krzysztof Foryst, is a Polish pro wre
   - Krzysztof Zasada {{ org_badge(orgs=['ddw', 'kpw']) }}
   - Krzysztof Foryst {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - DDW Academy (201?-2015)
+  - [DDW Academy](@/w/ddw-academy.md) (201?-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2018)
 
 ## Professional wrestling career
