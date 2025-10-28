@@ -44,30 +44,32 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
 
 ## Notable alumni
 
-* [Puncher](@/w/puncher.md)
-* [Marcelito](@/w/marcelito.md)
-* Arczi Czajka
-* [Marco Hammers](@/w/marco-hammers.md)
-* [Disco Pablo](@/w/disco-pablo.md)
-* [Taras](@/w/taras.md)
-* [Syriusz Dziedzic](@/w/dziedzic.md)
-* [Sinister](@/w/sinister.md)
-* [Samson](@/w/samson.md)
-* [Wiktor Longman](@/w/wiktor-longman.md)
-* [Spartan](@/w/spartan.md)
-* [El Ogre](@/w/olgierd.md)
-* [Karyna](@/w/karyna.md)
+_Listed in alphabetical order:_
+
 * [Alex Brave](@/w/alex-brave.md)
-* [Max Speed](@/w/max-speed.md)
-* [Referee Klaudiusz](@/w/sedzia-klaudiusz.md)
-* [Vincent Caravaggio](@/w/vincent-caravaggio.md)
-* [Miyagi Shida](@/w/miyagi-shida.md)
-* [TAXI Złotówa](@/w/taxi-zlotowa.md)
-* [Remo](@/w/remo.md)
-* [Referee Herno](@/w/sedzia-herno.md)
-* [Sigma Boy XD](@/w/sigma-boy.md)
+* Arczi Czajka
 * [Daniel Razor](@/w/daniel-razor.md)
+* [Disco Pablo](@/w/disco-pablo.md)
+* [Karyna](@/w/karyna.md)
+* [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)
+* [Marcelito](@/w/marcelito.md)
+* [Marco Hammers](@/w/marco-hammers.md)
+* [Max Speed](@/w/max-speed.md)
+* [Miyagi Shida](@/w/miyagi-shida.md)
 * [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)
+* [Puncher](@/w/puncher.md)
+* [Remo](@/w/remo.md)
+* [Samson](@/w/samson.md)
+* [Sędzia Herno](@/w/sedzia-herno.md)
+* [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)
+* [Sigma Boy XD](@/w/sigma-boy.md)
+* [Sinister](@/w/sinister.md)
+* [Spartan](@/w/spartan.md)
+* [Syriusz Dziedzic](@/w/dziedzic.md)
+* [Taras](@/w/taras.md)
+* [TAXI Złotówa](@/w/taxi-zlotowa.md)
+* [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+* [Wiktor Longman](@/w/wiktor-longman.md)
 
 ## History
 
