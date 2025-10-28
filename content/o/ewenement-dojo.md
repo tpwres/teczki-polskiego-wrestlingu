@@ -27,18 +27,24 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
 
 ## Alumni
 
-* Gustav Gryffin (PpW Dojo)
-* Goblin (PpW Dojo)
-* [Mister Z](@/w/mister-z.md) (PpW Dojo)
-* Biesiad Strong (PpW Dojo)
-* [Oskar Alexander](@/w/oskar-alexander.md)
-* [Bartosz Plata](@/w/plata.md)
-* Antoni Ocean
-* _rookie_ Antek
-* _rookie_ Andrzej (non-canon debut)
-* Istotna Martynka (non-canon debut)
-* Alvaro (non-canon debut)
+_Listed in alphabetical order:_
 
+PpW Dojo:
+* [Biesiad Strong](@/w/biesiad.md)
+* [Goblin](@/w/goblin.md)
+* [Gustav Gryffin](@/w/gustav-gryffin.md)
+* [Mister Z](@/w/mister-z.md)
+
+Ewenement Dojo:
+
+* [Agentka Agatka](@/w/agentka-agatka.md)
+* Alvaro (non-canon debut)
+* _rookie_ Andrzej (non-canon debut)
+* Antoni Ocean
+* [Bartosz Plata](@/w/plata.md)
+* [Istotna Martynka](@/w/istotna-martynka.md) (non-canon debut)
+* [Oskar Alexander](@/w/oskar-alexander.md)
+* [Sędzia Kornel](@/w/sedzia-kornel.md)
 
 ## History
 
