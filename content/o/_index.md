@@ -30,7 +30,7 @@ template = "index.html"
 
 | Years active | Name | Location |
 |--:|---|---|
-| 1990-1992 | [SupronStars](@/o/supron-stars.md) | Warsaw |
+| 1990-1992 | [SupronStars](@/o/supronstars.md) | Warsaw |
 | 2000-2003 | [Polish Pro-Wrestling Federation](@/o/ppwf.md) | ??? |
 | 2003-2004 | [Backyard Wrestling Division](@/o/bwd.md) | Chrzanów |
 | 2005-2009 | {{ org_badge(org='piwg') }} [Pomerania Indy Wrestling Group](@/o/piwg.md) | Skórcz, Starogard Gdański, Gdańsk |
