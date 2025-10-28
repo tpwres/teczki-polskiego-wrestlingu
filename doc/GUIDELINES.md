@@ -7,7 +7,7 @@
 
 - Event page is always named `YYYY-MM-DD-org-event-name.md`
 - If there's more than one org, separate them by underscores: `YYYY-MM-DD-org1_org2-event-name.md`
-- If possible, link to social media pages linked to the event. Link to cagematch if listed there.
+- If possible, link to social media pages linked to the event. Link to Cagematch if listed there.
 - If available, link to press coverage of the event, and notable references (e.g. Wikipedia, WrestleMap).
 - If available as VOD, link to wherever it can be found currently. Free and paid options. Not just the streaming service, but a link to the relevant video page. This may mean a youtube link, but also a Fite, Dazn, or other more obscure video sites. They will get stale, but there's not much we can do here.
 - Intro text should reference time and date, and if relevant, any circumstances which may have caused such a date or event.
@@ -16,6 +16,7 @@
 - Real-life events, if related, are also allowed.
 - List matches in the `{{ card() }}` block. A separate document describes how it works.
 - An event needs more than one link to prove it happened - something other than Cagematch.
+- List references in the following order: Cagematch event page, paid video, free video, other links. See [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) for an example.
 
 # Describing wrestlers and other talent
 
@@ -29,7 +30,7 @@
   - referees
 - In general, if someone steps into the ring and either talks or takes bumps, they are considered talent.
 - Provide basic information: billed height and weight, place billed from, current and past gimmicks.
-- Link to social media accounts they may have as wrestlers. Link to notable references (Wikipedia is notable). Link to cagematch if they have a profile.
+- Link to social media accounts they may have as wrestlers. Link to notable references (Wikipedia is notable). Link to Cagematch if they have a profile.
 - If known, describe their way into wrestling - where they debuted, who trained them. If they have other sports background or achievements, it's good to list them. All sport disciplines are allowed - not only combat sports.
 - If they have a wrestling career outside Poland - briefly describe it (e.g. "trained in WxW Academy, and performed on a number of WxW shows in 2023").
 - Describe any long-term storytelling related to their character.
