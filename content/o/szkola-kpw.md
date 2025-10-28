@@ -22,8 +22,11 @@ Szkoła Wrestlingu KPW (_KPW Wrestling School_) is the wrestling school associat
    
 ## Notable alumni
 
+_Listed in alphabetical order:_ 
+
 - [Adam Bravo](@/w/adam-bravo.md)
 - [Alisa](@/w/alisa.md)
+- [Chemik](@/w/chemik.md)
 - [Daniel Boza](@/w/mutant.md)
 - [Diana Strong](@/w/diana-strong.md)
 - [Eryk Lesak](@/w/eryk-lesak.md)
