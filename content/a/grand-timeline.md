@@ -46,7 +46,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 1990
 
-Andrzej Supron starts [SupronStars](@/o/supronstars.md). The group tours poland and ex-Soviet republics.
+* Andrzej Supron starts [SupronStars](@/o/supronstars.md). The group tours poland and ex-Soviet republics.
 
 #### 1993
 
