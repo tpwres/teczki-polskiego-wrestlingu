@@ -20,7 +20,7 @@ Rosetti, previously known as "Victor Rosetti", is a Polish wrestler best known f
   - Rosetti {{ org_badge(orgs=['kpw']) }} (2017-)
 * Trained by:
   - DDW Academy (201?-2016)
-  - KPW Academy (2016-)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2016-)
  
 ## Professional wrestling career
 

@@ -17,7 +17,7 @@ Karol "Iskra" Górski is a retired Polish wrestler and referee best known for hi
   - Karol "Iskra" Górski {{ org_badge(orgs=['ptw']) }}
   - Sędzia Karol Górski {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy (2016-2020)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2016-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
  
 ## Professional wrestling career

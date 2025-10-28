@@ -18,7 +18,7 @@ Adam Bravo is a retired Polish wrestler best known for his time in [Kombat Pro W
 * Gimmicks/nicknames:
   - Adam Bravo {{ org_badge(orgs=['kpw', 'ptw']) }}
 * Trained by:
-  - KPW Academy (201?-2019)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-2019)
   - [PTW Academy](@/o/ptw-academy.md) (2021)
 
 ## Professional wrestling career

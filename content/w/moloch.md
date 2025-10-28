@@ -16,7 +16,7 @@ Moloch is a retired Polish wrestler best known for his time in [Kombat Pro Wrest
 * Gimmicks/nicknames:
   - Moloch {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy (201?-2019)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-2019)
 
 ## Professional wrestling career
 

@@ -18,7 +18,7 @@ Robert Star is a Polish wrestler best known from his time in [Kombat Pro Wrestli
   - "The Rockstar of Polish Wrestling" {{ org_badge(orgs=['kpw']) }}
 * Trained by:
   - [Don Roid](@/w/don-roid.md), DDW Academy (201?-2015)
-  - KPW Academy (2015-2019)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2019)
 
 ## Professional wrestling career
 

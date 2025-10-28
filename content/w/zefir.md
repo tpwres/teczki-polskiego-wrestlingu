@@ -18,7 +18,7 @@ Zefir is a high-flying masked luchador, working for [Kombat Pro Wrestling](@/o/k
 * Gimmicks/nicknames:
   - Zefir {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy (201?-present)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-present)
 
 ## Professional wrestling career
 

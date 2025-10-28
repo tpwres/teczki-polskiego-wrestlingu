@@ -18,7 +18,7 @@ Damian Lambert - also known as Damien Rothschild - is a Polish wrestler currentl
   - Damien Rotschild {{ org_badge(orgs=['mzw']) }}
 * Trained by:
   - DDW Academy (201?-2015)
-  - KPW Academy (2015-2016)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2016)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2019)
  
 ## Professional wrestling career

@@ -17,7 +17,7 @@ Michał "Mutant" Świątkowski, previously known as Daniel Boza, is a Polish wre
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
 * Trained by:
-  - KPW Academy (2017-2020)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
 
 ## Professional wrestling career

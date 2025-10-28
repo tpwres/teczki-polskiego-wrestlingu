@@ -16,7 +16,7 @@ Alisa is a retired Polish female wrestler known for her appearances in [Kombat P
 * Gimmicks/nicknames:
   - Alisa {{ org_badge(orgs=['kpw']) }}
 * Trained by:
-  - KPW Academy (201?-2019)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-2019)
 
 ## Professional wrestling career
 
