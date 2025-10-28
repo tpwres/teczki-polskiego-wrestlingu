@@ -18,6 +18,8 @@ The DFW Championship was the main and only title of [Dream Factory Wrestling](@/
 * Last champion: [Norris](@/w/isnorr.md)
 * Longest reign: Chris Hunter (246 days)
 * Shortest reign: Norris (approx. 90 days)
+* Oldest champion: Norris (22 years, 53 days)
+* Youngest champion: Chris Hunter (19 years, 93 days)
 
 ## Belt design
 
