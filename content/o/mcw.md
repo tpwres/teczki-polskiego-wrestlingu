@@ -25,7 +25,7 @@ Vegas himself denies such an offer ever being made, but agrees he'd refuse anywa
 
 MCW shows are rare, and most of them are intended to raise funds for charities.
 Even though they don't have a budget for international stars, MCW nonetheless managed to attract the attention of wrestlers from such countries are Ireland or Scotland,
-who expressed interest in exchanging experiences and appearing on their shows.
+who expressed interest in exchanging experiences and appearing at their shows.
 
 Their wrestlers are self-taught, which caused them to be written off multiple times by other organizations.
 Nonetheless, the promotion ran a series of instructional videos on their YouTube channel demonstrating some wrestling moves, both basic and more advanced.
