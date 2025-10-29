@@ -8,6 +8,7 @@ toclevel=2
 [extra.gallery]
 1 = { path = "ppw-tt-belts-fb.webp", caption = "Official announcement of the Championship.", source = "Official PpW Facebook" }
 2 = { path = "pasy-na-dywanie.jpg", caption = "Closer look at the belt.", source = "Mister Z" }
+3 = { path = "zetowi-pasuja-pasy.jpg", caption = "[Mister Z](@/w/mister-z.md) with the belts.", source = "Mister Z" }
 +++
 
 The PpW Tag Team Championship is the tag team division title introduced by [PpW Ewenement Wrestling](@/o/ppw.md) in 2025 at [Wjazd na rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). A tournament to crown the inaugural Champions is set to begin at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
