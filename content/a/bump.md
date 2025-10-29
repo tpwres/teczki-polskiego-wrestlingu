@@ -22,13 +22,13 @@ The interviews are shot in very tight framing, mostly filmed in the wrestlers' h
 Opening with the final moments of [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), we see the action spill to the outside, and the crowds follow them, the wrestlers dramatically lit by flares.
 When Biesiad talks about starting wrestling as kids holding shoot fights in the playground, fragments from [Neomania II](@/e/ppw/2012-07-01-ppw-neomania-ii.md) are shown. When he moves on to how they built their first makeshift ring, it's illustrated by footage from [Kiedyś Będzie Lepiej](@/e/ppw/2019-07-13-ppw-kiedys-bedzie-lepiej.md).
 
-Footage from more recent events is also used, showing action from events held in [2 Koła](@/v/2kola.md), [Waldorffa 25](@/v/waldorffa25.md), [Praga Centrum](@/v/praga-centrum.md), [Teatr Komuna](@/v/teatr-komuna.md) and [Hala Labo](@/v/minska-65.md).
+Video from more recent events is also used, showing action from events held in [2 Koła](@/v/2kola.md), [Waldorffa 25](@/v/waldorffa25.md), [Praga Centrum](@/v/praga-centrum.md), [Teatr Komuna](@/v/teatr-komuna.md) and [Hala Labo](@/v/minska-65.md).
 
 ## Depiction of wrestlers
 
 - Goblin talks about his immediate fascination with wrestling, showing up at the training sessions as soon as he possibly could. Later he also discusses how a wrestler's character is an exaggerated version of their real persona, and what that persona must be like to connect with the audience.
-- Fox mentions how his health condition stopped him from participating in sports, and being lucky that a medical procedure allowed him to become a wrestler. He also talks of wrestling as showing a story, which not all viewers may be interested in, preferring to see him getting kicked in the face instead.
-- Mister Z tells the viewers how his character emphasizes all the things he himself hates, in order to be an effective heel. In another segment, he shares how their [Dojo](@/o/ewenement-dojo.md) operates, during which we see the exterior and interior of the facility, and footage from their training sessions with more PpW wrestlers and personnel.
+- Fox mentions how his health condition stopped him from participating in sports, and being lucky that a medical procedure allowed him to become a wrestler. He also talks of wrestling as portraying a story, which not all viewers may be interested in, preferring to see people getting kicked in the face instead.
+- Mister Z tells the viewers how his character emphasizes all the things he himself hates, in order to be an effective heel. In another segment, he shares how their [Dojo](@/o/ewenement-dojo.md) operates, during which we see the exterior and interior of the facility, and footage from their training sessions with brief cameos of other PpW wrestlers and personnel.
 - Olgierd shares that he enjoys how his originally simple, brute character has developed since debut, and that he's an introvert by nature, despite what wrestling requires of him. Later he mentions how fans support him and other wrestlers by buying merchandise, and shows a few examples including his signature hand-painted baseball bats.
 - Biesiad mostly provides history, explaining how he became a wrestler. He also shares his first ringname, from the backyard era, which was ["Kakałko"][wiki-steven] (_small cocoa drink_).
 
