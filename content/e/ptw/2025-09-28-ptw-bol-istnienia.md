@@ -33,6 +33,9 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 {% card() %}
 - - '[Spartan](@/w/spartan.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+- - '_Rookie_ Boguś'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: Pawłowski denies Boguś his debut and chooses an opponent for Razor himself
 - - '["The Voice" Daniel Razor](@/w/daniel-razor.md)(c)'
   - 'Davide Adami'
   - s: 'Open Challenge'
@@ -51,6 +54,12 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '[Damian Lambert](@/w/damien-rothschild.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
+- credits:
+    General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
+   
 {% end %}
 
 ## References
