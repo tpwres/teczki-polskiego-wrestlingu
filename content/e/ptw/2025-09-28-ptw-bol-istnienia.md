@@ -26,7 +26,7 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 * [Spartan](@/w/spartan.md) was confirmed on 20.09.2025.
 * On 23.09.2025 PTW published an image of [Daniel Razor](@/w/daniel-razor.md) issuing an open challenge for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * On 24.09.2025 PTW announced a match between [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) and [Sigma Boy xD](@/w/sigma-boy.md) & [Łukasz Okoński](@/w/lukasz-okonski.md) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). According to the [Facebook post][sigmonski], [Miyagi Shida](@/w/miyagi-shida.md) was supposed to team up with Sigma, but agreed to let Okoński take his place to allow him to mend fences with his son.
-* The next a match between [Diana Strong](@/w/diana-strong.md) and Angel Hayze for the Glam! Championship was announced.
+* On 25.09.2025, the match between [Diana Strong](@/w/diana-strong.md) and Angel Hayze for the Glam! Championship was announced.
 
 ## Card
 
