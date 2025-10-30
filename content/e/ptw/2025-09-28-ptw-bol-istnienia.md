@@ -26,19 +26,22 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 * [Spartan](@/w/spartan.md) was confirmed on 20.09.2025.
 * On 23.09.2025 PTW published an image of [Daniel Razor](@/w/daniel-razor.md) issuing an open challenge for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * On 24.09.2025 PTW announced a match between [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) and [Sigma Boy xD](@/w/sigma-boy.md) & [Łukasz Okoński](@/w/lukasz-okonski.md) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). According to the [Facebook post][sigmonski], [Miyagi Shida](@/w/miyagi-shida.md) was supposed to team up with Sigma, but agreed to let Okoński take his place to allow him to mend fences with his son.
-* The next a match between [Diana Strong](@/w/diana-strong.md) and Angel Hayze for the Glam! Championship was announced.
+* The next day, a match between [Diana Strong](@/w/diana-strong.md) and Angel Hayze for the Glam! Championship was announced.
 
 ## Card
 
 {% card() %}
 - - '[Spartan](@/w/spartan.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+- - '_Rookie_ Boguś'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: Pawłowski denies Boguś his debut and chooses an opponent for Razor himself
 - - '["The Voice" Daniel Razor](@/w/daniel-razor.md)(c)'
   - 'Davide Adami'
   - s: 'Open Challenge'
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
-  - g: 'Okoński addresses the situation with his illegitimate son.'
+  - g: 'Okoński addresses the situation with his illegitimate son'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md)(c)'
   - '[Sigma Boy xD](@/w/sigma-boy.md) & [Łukasz Okoński](@/w/lukasz-okonski.md)'
   - s: Tag Team Match
@@ -51,6 +54,12 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '[Damian Lambert](@/w/damien-rothschild.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
+- credits:
+    General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
+   
 {% end %}
 
 ## References
