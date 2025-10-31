@@ -1,7 +1,7 @@
 +++
 title = "PpW Clash of the Creeps"
 template = "event_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych", "Sewi The Ref"]
 [taxonomies]
 chronology = ["ppw", "splat"]
 venue=["kinoteka"]
@@ -24,10 +24,10 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 
 {% card() %}
 - - '[Mister Z](@/w/mister-z.md)'
-  - '[Michael Myers](@/w/olgierd.md)'
+  - '[Michael Myers](@/w/gabriel-queen.md)'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
-  - '[Pennywise](@/w/gustav-gryffin.md)'
+  - '[Pennywise](@/w/olgierd.md)'
   - s: Triple Threat Match
 - - '[Biesiad](@/w/biesiad.md)'
   - 'The Zombie Horde: [Zombie 1](@/w/johnny-blade.md) & [Zombie 2](@/w/sedzia-kornel.md) & [Zombie 3](@/w/boro.md) & Necromancer'
@@ -35,15 +35,18 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 - - '[Goblin](@/w/goblin.md)'
   - '[Art The Clown](@/w/gustav-gryffin.md)'
   - s: Casket Match
+- credits:
+   Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+   Host, Ring Announcer: '[OG Michael HT](@/w/michael-ht.md)'
 {% end %}
 
 ### Cosplay and characters
 
-- Michael Myers
-- Axel Fox was portraying Freddy Kruger from the Nightmare on Elm Street film franchise. He was wearing the character's trademark red-and-green striped sweater, brown fedora and metal-clawed leather glove.
+- Michael Myers, the antagonist of the Halloween film series, was played by Gabriel Queen.
+- Axel Fox was portraying Freddy Kruger from the Nightmare on Elm Street film franchise. He was wearing the character's trademark red-and-green striped sweater, brown fedora and metal-clawed leather glove. However, he was not introduced as Freddy, unlike the other named characters.
 - Oskar Alexander's costume referenced both Cactus Jack (as portrayed by American wrestler Mick Foley), and [Isnorr](@/w/isnorr.md). Oskar wore the same red-and black lumberjack shirt as both of them.
-- Pennywise, the antagonist from Stephen King's _It_, was played by [Gustav Gryffin](@/w/gustav-gryffin.md).
-- Art The Clown from the Terrifier series of movies, was also Gustav, easier to recognize as he didn't have a full-face mask like the other clown. The crowd quickly recognized him, and a brief [Bartoszyce](@/a/polish-wrestling-chants.md#wrestler-specific) chant was heard.
+- Pennywise, the antagonist from Stephen King's _It_, was played by [Olgierd](@/w/olgierd.md).
+- Art The Clown from the Terrifier series of movies, was represented by Gustav, who didn't have a full-face mask like the other clown, bur only facepaint. The crowd quickly recognized him, and a brief [Bartoszyce](@/a/polish-wrestling-chants.md#wrestler-specific) chant was heard.
 - The Necromancer was played by makeup artist Val Moren.
 
 ## Recap
