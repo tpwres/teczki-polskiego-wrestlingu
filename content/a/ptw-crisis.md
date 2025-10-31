@@ -88,9 +88,9 @@ He spoke about how reading fans' criticism was very painful, because he felt exa
 He then declared that the organization plans to recover from the crisis starting with the next show, [PTW x Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
 Pawłowski confirmed that the reason for people leaving were disagreements about finances, booking and exclusivity. All the while, his words were countered by [Puncher](@/w/puncher.md) aggressively trolling the chat, even insulting the same ex-wrestlers Pawłowski was complimenting on-screen.
 
-When Pawłowski agreed that he was the main culprit of the downfall, Krzan pried harder, asking him about the organization's near-bankrupcy. A visibly upset Pawłowski declared he will make amends, but needs some time.
+When Pawłowski agreed that he was the main culprit of the downfall, Krzan pried harder, asking him about the organization's near-bankrupcy. Visibly upset, Pawłowski declared he would make amends, but he needed some time.
 The hosts cut him off with a joke, that the show's previous guest (a Mr Małecki, public officer in charge of bankrupcy and property claims) may be able to help.
-Pawłowski joins in on the joke, but is still visibly shaken. WuWunio inquires about Rzeźniczek's (PTW's cofounder) departure, which Pawłowski confirms but declines to reveal the reasons in his absence.
+Pawłowski joined in on the joke, but was still visibly shaken. WuWunio inquired about Rzeźniczek's (PTW's cofounder) departure, which Pawłowski confirmed but declined to reveal the reasons in his absence.
 In the wrap-up, Diana was asked why she stayed after so many others left. She answered that she had always believed in the project, still does and has no problems working with Arek, therefore she chooses to stay.
 More questions about wrestling's technicalities followed, but the live chat was pressing questions about the lottery and the subject was brought up again.
 Once again, Pawłowski confirmed it was a spectacular fiasco, with the ticket money not even close to covering the prizes. He called it a crucial error that started a domino effect for PTW and confirmed that no lottery will be held ever again.
