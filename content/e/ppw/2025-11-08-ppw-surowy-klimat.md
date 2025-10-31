@@ -20,6 +20,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 * On 19.10.2025 a [short video][oskar-ma-przewalone] published by PpW saw [Oskar Alexander](@/w/oskar-alexander.md) confronting [Gabriel Queen](@/w/gabriel-queen.md) in defense of [Agentka Agatka](@/w/agentka-agatka.md). Oskar tells Queen that Agatka would beat him "any day, any time: Singles Match, Hardcore Match, Punjabi Prison, even in a Deathmatch", which Queen takes for a proposition and readily accepts, leaving Oskar beaming and Agatka fuming. The match was confirmed the next day.
 * After [Gustav Gryffin's](@/w/gustav-gryffin.md) involvement in the main event of the [previous show](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), "severe consequences" [were announced][komzegwendzje]. This is supposed to happen at Surowy Klimat.
 * On 29.10.2025 PpW announced [Biesiad Strong](@/w/biesiad.md) vs [Robert Star](@/w/robert-star.md) in an Anything Goes match.
+* On 31.10.2025 PpW announced a One For All Tag Team Match, with [Gustav Gryffin](@/w/gustav-gryffin.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) taking on [Zmowa](@/tt/zmowa.md) represented by [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md).
 
 ## Predicted card
 
@@ -39,6 +40,10 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Anything Goes Match
+    nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Axel Fox](@/w/axel-fox.md) & [Goblin](@/w/goblin.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
+  - s: One For All Tag Team Match
     nc: upcoming
 {% end %}
 
