@@ -46,7 +46,7 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 - Axel Fox was portraying [Freddy Kruger][fredek] from the _Nightmare on Elm Street_ film franchise. He was wearing the character's trademark red-and-green striped sweater, brown fedora and metal-clawed leather glove. However, he was not introduced as Freddy, unlike the other named characters.
 - Oskar Alexander's costume referenced both Cactus Jack (as portrayed by American wrestler [Mick Foley][szpiczasty-jacek]), and [Isnorr](@/w/isnorr.md). Oskar wore the same red-and black lumberjack shirt as both of them.
 - [Pennywise][tim-curry-bez-charakteryzacji], the antagonist of Stephen King's _It_, was played by [Olgierd](@/w/olgierd.md).
-- [Art the Clown][artur-pajacewicz] from the _Terrifier_ series of slashers, was represented by Gustav, who didn't have a full-face mask like the other clown, but only a facepaint. The crowd quickly recognized him, and a brief [Bartoszyce](@/a/polish-wrestling-chants.md#wrestler-specific) chant was heard.
+- [Art the Clown][artur-pajacewicz] from the _Terrifier_ series of slashers, was represented by Gustav, who didn't have a full-face mask like the other clown, but wore only facepaint. The crowd quickly recognized him, and a brief [Bartoszyce](@/a/polish-wrestling-chants.md#wrestler-specific) chant was heard.
 - The Necromancer was played by makeup artist Val Moren.
 
 ### Recap
