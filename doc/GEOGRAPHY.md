@@ -33,6 +33,7 @@ Currently, the defined types are:
 * `venue` - default pin
 * `historical-venue` - pin representing a no-longer used venue
 * `important-venue` - pin representing a significant venue, which may be the main or home venue.
+* `city` - a generic building or group of such, not for venues but places like cities.
 * (unspecified) - same as `venue`, default pin
 
 More types may be added in the future.
