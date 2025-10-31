@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [20.8143702, 54.2523708]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Bartoszyce",
+        "description": "A historical town in the Warmian-Masurian voivodeship, hometown of [Gustav Gryffin](@/w/gustav-gryffin.md), often referenced in [chants](@/a/polish-wrestling-chants.md).",
+        "orgs": []
+    }
+}
