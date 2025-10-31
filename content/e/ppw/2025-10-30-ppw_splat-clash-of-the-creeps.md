@@ -33,7 +33,7 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
   - 'The Zombie Horde: [Zombie 1](@/w/johnny-blade.md) & [Zombie 2](@/w/sedzia-kornel.md) & [Zombie 3](@/w/boro.md) & Necromancer'
   - s: Handicap Zombie Horde Match
 - - '[Goblin](@/w/goblin.md)'
-  - '[Art The Clown](@/w/gustav-gryffin.md)
+  - '[Art The Clown](@/w/gustav-gryffin.md)'
   - s: Casket Match
 {% end %}
 
