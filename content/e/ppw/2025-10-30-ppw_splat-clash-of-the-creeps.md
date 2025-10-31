@@ -42,11 +42,11 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 
 ### Cosplay and characters
 
-- Michael Myers, the antagonist of the Halloween film series, was played by Gabriel Queen, wearing the signature featureless white mask and coveralls, wielding a chef's knife.
-- Axel Fox was portraying Freddy Kruger from the Nightmare on Elm Street film franchise. He was wearing the character's trademark red-and-green striped sweater, brown fedora and metal-clawed leather glove. However, he was not introduced as Freddy, unlike the other named characters.
+- Michael Myers, the antagonist of the _Halloween_ film series, was played by Gabriel Queen, wearing the signature featureless white mask and coveralls, wielding a chef's knife.
+- Axel Fox was portraying Freddy Kruger from the _Nightmare on Elm Street_ film franchise. He was wearing the character's trademark red-and-green striped sweater, brown fedora and metal-clawed leather glove. However, he was not introduced as Freddy, unlike the other named characters.
 - Oskar Alexander's costume referenced both Cactus Jack (as portrayed by American wrestler Mick Foley), and [Isnorr](@/w/isnorr.md). Oskar wore the same red-and black lumberjack shirt as both of them.
 - Pennywise, the antagonist from Stephen King's _It_, was played by [Olgierd](@/w/olgierd.md).
-- Art The Clown from the Terrifier series of movies, was represented by Gustav, who didn't have a full-face mask like the other clown, bur only facepaint. The crowd quickly recognized him, and a brief [Bartoszyce](@/a/polish-wrestling-chants.md#wrestler-specific) chant was heard.
+- Art The Clown from the _Terrifier_ series of movies, was represented by Gustav, who didn't have a full-face mask like the other clown, bur only facepaint. The crowd quickly recognized him, and a brief [Bartoszyce](@/a/polish-wrestling-chants.md#wrestler-specific) chant was heard.
 - The Necromancer was played by makeup artist Val Moren.
 
 ### Recap
