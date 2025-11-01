@@ -113,7 +113,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Bartoszyce, a gdzie to kurwa jest?_ - "Bartoszyce, where the fuck is that?": used to insult [Gustav Gryffin's](@/w/gustav-gryffin.md) hometown. \
   Sometimes used for other heel wrestlers' cities, in which case it may need extra words to match the rhythm. For [Chemik's](@/w/chemik.md) four-syllable hometown of Wejherowo no padding is needed, but for [Isnorr's](@/w/isnorr.md) Poznań the chant starts with _Miasto Poznań_ ("Poznań city"). \
   {% ipa(tts="Bartoszyce, a gdzie to kurwa jest") %}bˌartɔʃˈɨt͡sɛ, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?{% end %} 🌶️🌶️
-* _Bartoszyce, my wiemy gdzie to jest_ - "Bartoszyce, we know where it is": used after Gustav's face-turn. \
+* _Bartoszyce, my wiemy gdzie to jest_ - "{% map_pin(v="Bartoszyce") %}Bartoszyce{% end %}, we know where it is": used after Gustav's face-turn. \
   {% ipa(tts="Bartoszyce, my wiemy gdzie to jest") %}bˌartɔʃˈɨt͡sɛ, mɨ vʲˈɛmɨ ɡd͡ʑˈɛ tɔ jˈɛst.{% end %}
 * _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. \
   {% ipa(tts="Bóg jest łysy") %}bˈuk jˈɛst wˈɨsɨ{% end %} \
