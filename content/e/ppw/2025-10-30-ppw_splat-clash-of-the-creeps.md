@@ -49,10 +49,6 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 - [Art the Clown][artur-pajacewicz] from the _Terrifier_ series of slashers, was represented by Gustav, who didn't have a full-face mask like the other clown, but wore only facepaint. The crowd quickly recognized him, and a brief [Bartoszyce](@/a/polish-wrestling-chants.md#wrestler-specific) chant was heard.
 - The Necromancer was played by makeup artist Val Moren.
 
-### Recap
-
-* TBD
-
 ## References
 
 * [Announcement at SplatFilmFest.com](https://splatfilmfest.com/wydarzenia_specjalne/wrestling-ppw-x-splatfilmfest-clash-of-the-creeps/)
