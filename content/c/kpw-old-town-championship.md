@@ -21,8 +21,8 @@ The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling
 * Most reigns: N/A
 * Longest reign: [David Oliwa](@/w/david-oliwa.md) (1190 days)
 * Shortest reign: [Leon Lato](@/w/leon-lato.md) (60+ days)
-* Heaviest champion: David Oliwa (101kg)
-* Lightest champion: Greg (83kg)
+* Heaviest champion: David Oliwa (101&nbsp;kg)
+* Lightest champion: Greg (83&nbsp;kg)
 
 ## Belt design
 

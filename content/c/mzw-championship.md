@@ -29,8 +29,8 @@ MZW Championship is a professional wrestling championship, created and promoted 
 * Most reigns: [Asmund](@/w/asmund.md) and [Shadow](@/w/shadow.md) (2)
 * Longest reign: [Rafael Kid](@/w/rafael-kid.md) (574 days)
 * Shortest reign: Asmund (second reign, <1 day)
-* Heaviest champion: Asmund (100kg)
-* Lightest champion: Shadow (75kg)
+* Heaviest champion: Asmund (100&nbsp;kg)
+* Lightest champion: Shadow (75&nbsp;kg)
 
 ## History
 

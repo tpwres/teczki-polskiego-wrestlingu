@@ -30,7 +30,7 @@ The PTW Intergender Championship is a joke DIY professional wrestling championsh
 * Longest reign: Marco Hammers 216 days
 * Shortest reign: [Istotna Martynka](@/w/istotna-martynka.md)
 * Youngest champion: Marco Hammers (27 years, 42 days)
-* Heaviest champion: Marco Hammers (94kg)
+* Heaviest champion: Marco Hammers (94&nbsp;kg)
 
 ## History
 

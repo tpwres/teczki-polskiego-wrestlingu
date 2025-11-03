@@ -20,7 +20,7 @@ The PTW Championship is a professional wrestling championship created and promot
 * Most reigns: Puncher (1)
 * Longest reign: Puncher (170+ days)
 * Oldest champion: Puncher (27 years, 298 days)
-* Heaviest champion: Puncher (102 kg)
+* Heaviest champion: Puncher (102&nbsp;kg)
 
 ## History
 
