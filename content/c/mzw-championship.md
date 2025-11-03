@@ -27,7 +27,7 @@ MZW Championship is a professional wrestling championship, created and promoted 
 
 * First Champion: [Justin Joy](@/w/justin-joy.md)
 * Most reigns: [Asmund](@/w/asmund.md) and [Shadow](@/w/shadow.md) (2)
-* Longest reign: [Rafael Kid](@/w/rafael-kid.md)
+* Longest reign: [Rafael Kid](@/w/rafael-kid.md) (574 days)
 * Shortest reign: Asmund (second reign, <1 day)
 * Heaviest Champion: Asmund (100kg)
 * Lightest Champion: Shadow (75kg)
