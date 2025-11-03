@@ -15,18 +15,19 @@ Introduced in 2022, the PpW European Ultraviolent Championship is the title used
 
 <!-- more -->
 
+## Statistics
+
+* First champion: [Johnny Blade](@/w/johnny-blade.md)
+* Most reigns: Johnny Blade (2)
+* Longest reign: [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (637 days)
+* Shortest reign: Johnny Blade (1st) (112 days)
+
 ## Belt design
 
 The championship belt is bulky and sturdy. Its main plate is big and circular, and sports a large "PpW" logo in the middle, the letters coloured red and blue to match the organization's old logo.
 Underneath, "European Ultraviolent Championship" is engraved in bold, large lettering.
 The centre plate is based on a brown leather strap, but the rest of the belt itself is black-coloured.
 Sideplates are simply two small circular sawblades, and instead of a classic pin buckle, the belt can be strapped together with bolts and screws, to emphasize the ultraviolent character of this championship.
-
-## Statistics
-
-* First champion: [Johnny Blade](@/w/johnny-blade.md)
-* Most reigns: Johnny Blade (2)
-* Longest reign: [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (637 days)
 
 ## Title history
 
