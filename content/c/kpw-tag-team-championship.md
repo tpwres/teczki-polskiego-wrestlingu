@@ -20,6 +20,9 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 * First champions: [Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)
 * Most reigns: N/A
 * Longest reign: The Hunt: Primate & Wild Boar (959 days)
+* Shortest reign: [Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md) (335 days)
+* Heaviest champion: [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (216&nbsp;kg combined)
+* Lightest champion: [The Hunt](@/tt/the-hunt.md) (188&nbsp;kg combined)
 
 ## Title history
 

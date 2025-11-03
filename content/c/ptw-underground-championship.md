@@ -13,6 +13,15 @@ The PTW Underground Championship is a professional wrestling belt created and pr
 
 <!-- more -->
 
+## Statistics
+
+* First champion: [Max Speed](@/w/max-speed.md)
+* Most reigns: N/A
+* Longest reign: [Daniel Razor](@/w/daniel-razor.md) (120+ days)
+* Shortest reign: Max Speed (109 days)
+* Oldest champion: Daniel Razor (25 years, 25 days)
+* Youngest champion: Max Speed (23 years, 190 days)
+
 ## History
 
 The title was first mentioned in a December 2024 interview for the [MyWrestling YouTube channel][pawłowski-my-wrestling-live]. Pawłowski stated that a tournament would be held to crown the inaugural champion. Unlike the [PTW Women's Championship](@/c/ptw-womens-championship.md) title tournament, this one would happen entirely at [one show](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md).
