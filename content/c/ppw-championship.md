@@ -21,7 +21,7 @@ The PpW Championship is the main title of [PpW Ewenement Wrestling](@/o/ppw.md).
 * Longest reign: Mister Z (483 days)
 * Oldest champion: [Steve Kuningas](@/w/steve-kuningas.md) (33 years, 327 days)
 * Youngest champion: Mister Z (19 years, 279 dni)
-* Heaviest champion: Steve Kuningas) (120&nbsp;kg)
+* Heaviest champion: Steve Kuningas (120&nbsp;kg)
 * Lightest champion: [Osamu](@/w/osamu.md) / [Mister Z](@/w/mister-z.md) (85&nbsp;kg)
 
 ## Belt design
