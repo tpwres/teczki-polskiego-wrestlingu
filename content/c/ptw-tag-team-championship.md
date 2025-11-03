@@ -25,12 +25,12 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 ## Statistics
 
 * First champions: [PAKA](@/tt/paka.md) ([Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md) and [Boro](@/w/boro.md))
-* Current champions: [L'Orda](@/tt/l-orda.md) ([Luca Bjorn](@/w/luca-bjorn.md), [Rust](@/w/rust.md))
 * Longest reign: [Budapest Bastards](@/tt/budapest-bastards.md) (308 days)
+* Shortest reign: [L'Orda](@/tt/l-orda.md) (175 days)
 * Oldest Champion: [Renegade](@/w/renegade.md) (39 years, 99 days)
 * Youngest Champion: [Disco Pablo](@/w/disco-pablo.md) (25 years, 91 days)
-* Heaviest Champions: PAKA - Disco Pablo & Taras (213&nbsp;kg)
-* Lightest Champions: L'Orda (165&nbsp;kg)
+* Heaviest Champions: PAKA - Disco Pablo & Taras (213&nbsp;kg combined)
+* Lightest Champions: L'Orda (165&nbsp;kg combined)
 
 ## History
 
