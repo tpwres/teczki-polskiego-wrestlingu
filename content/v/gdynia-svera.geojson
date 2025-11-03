@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.528641, 54.522002]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Klub Svera",
+        "description": "The location of [PpW Najlepsza Gala w Mieście - Hardcore Edition](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md).",
+        "orgs": ["ppw"]
+    }
+}
