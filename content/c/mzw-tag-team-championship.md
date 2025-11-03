@@ -21,8 +21,8 @@ MZW Tag Team Championship is a defunct professional wrestling championship, whic
 
 ## Statistics
 
-* First Champions: [Zbójnicy](@/tt/zbojnicy.md) ([Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md))
-* Last Champions: [Wataha](@/tt/wataha.md) ([Justin Joy](@/w/justin-joy.md) & [Apollo Anderson](@/w/apollo-anderson.md))
+* First champion: [Zbójnicy](@/tt/zbojnicy.md) ([Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md))
+* Last champion: [Wataha](@/tt/wataha.md) ([Justin Joy](@/w/justin-joy.md) & [Apollo Anderson](@/w/apollo-anderson.md))
 * Longest reign: [Catch Connection](@/tt/catch-connection.md) ([Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)) (497 days)
 * Shortest reign: [Storm Riders](@/tt/storm-riders.md) (139 days)
 * Oldest champion: Jędruś Bułecka (31 years)
