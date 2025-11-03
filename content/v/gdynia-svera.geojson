@@ -7,7 +7,7 @@
     "properties": {
         "type": "venue",
         "name": "Klub Svera",
-        "description": "The location of [PpW Najlepsza Gala w Mieście - Hardcore Edition](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md).",
+        "description": "Klub Svera, the location of [PpW Najlepsza Gala w Mieście - Hardcore Edition](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md).",
         "orgs": ["ppw"]
     }
 }
