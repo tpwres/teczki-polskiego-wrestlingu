@@ -19,8 +19,8 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 * Most reigns: N/A
 * Shortest reign: N/A
 * Longest reign: N/A
-* Heaviest Champion: N/A
-* Lightest Champion: N/A
+* Heaviest champion: N/A
+* Lightest champion: N/A
 
 ## Belt design
 
