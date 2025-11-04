@@ -6,7 +6,7 @@ authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery]
-1 = { path = "ptw-underground-championship.webp", caption = "Full view of the Championship.", source = "Dawid Kucharski, MyWrestling.com.pl" }
+1 = { path = "ptw-underground-championship.webp", caption = "Full concept art of the Championship.", source = "Dawid Kucharski, MyWrestling.com.pl" }
 +++
 
 The PTW Underground Championship is a professional wrestling belt created and promoted by [Prime Time Wrestling](@/o/ptw.md) to commemorate the [Underground](@/e/underground.md) series.
