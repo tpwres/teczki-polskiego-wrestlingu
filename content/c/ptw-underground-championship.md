@@ -26,7 +26,7 @@ The PTW Underground Championship is a professional wrestling belt created and pr
 
 The title was first mentioned in a December 2024 interview for the [MyWrestling YouTube channel][pawłowski-my-wrestling-live]. Pawłowski stated that a tournament would be held to crown the inaugural champion. Unlike the [PTW Women's Championship](@/c/ptw-womens-championship.md) title tournament, this one would happen entirely at [one show](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md). 
 
-The initial champion was [Max Speed](@/w/max-speed.md), who won it in a Ladder Match against [Vincent Caravaggio](@/w/vincent-caravaggio.md). His reign was however cut short due to his unexpeted firing from PTW. Scheduled #1 Contender who won [Gold Rush Rumble](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) - [Nano Lopez](@/w/nano-lopez.md) - faced [Daniel Razor](@/w/daniel-razor.md) for vacated championship, with latter winning it to become second champion.
+The initial champion was [Max Speed](@/w/max-speed.md), who won it in a Ladder Match against [Vincent Caravaggio](@/w/vincent-caravaggio.md). His reign was however cut short due to his unexpeted firing from PTW. Following his departure, the #1 Contender who won [Gold Rush Rumble](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) - [Nano Lopez](@/w/nano-lopez.md) - faced [Daniel Razor](@/w/daniel-razor.md) for the vacated championship, with the latter winning it to become the second champion.
 
 ## Belt design
 
