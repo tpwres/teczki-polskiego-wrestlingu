@@ -102,6 +102,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
   - s: Tag Team Tables Match
     en: '[PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
     ed: 2023-06-25
+{% end %}
     
 ### Champions #1: PAKA: Disco Pablo & Taras & Boro
 
