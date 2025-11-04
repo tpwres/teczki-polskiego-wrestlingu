@@ -2,7 +2,7 @@
 title = "PTW Underground Championship"
 weight = 5
 template = "article.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery]
@@ -24,7 +24,15 @@ The PTW Underground Championship is a professional wrestling belt created and pr
 
 ## History
 
-The title was first mentioned in a December 2024 interview for the [MyWrestling YouTube channel][pawłowski-my-wrestling-live]. Pawłowski stated that a tournament would be held to crown the inaugural champion. Unlike the [PTW Women's Championship](@/c/ptw-womens-championship.md) title tournament, this one would happen entirely at [one show](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md).
+The title was first mentioned in a December 2024 interview for the [MyWrestling YouTube channel][pawłowski-my-wrestling-live]. Pawłowski stated that a tournament would be held to crown the inaugural champion. Unlike the [PTW Women's Championship](@/c/ptw-womens-championship.md) title tournament, this one would happen entirely at [one show](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md). 
+
+The initial champion was [Max Speed](@/w/max-speed.md), who won it in a Ladder Match against [Vincent Caravaggio](@/w/vincent-caravaggio.md). His reign was however cut short due to his unexpeted firing from PTW. Following his departure, the #1 Contender who won [Gold Rush Rumble](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) - [Nano Lopez](@/w/nano-lopez.md) - faced [Daniel Razor](@/w/daniel-razor.md) for the vacated championship, with the latter winning it to become the second champion.
+
+## Belt design
+
+The championship belt is rather bulky in its shape and size. The main plate's background is made of grey-coloured metal with a huge orange ellipse, bearing the Prime Time Wrestling logo in the centre. Above and beneath this ellipse "UNDERGROUND" and "CHAMPION" are written in red, deliberately obliterated to look a bit worn. The side plates are rather simple, depicting a clenched black fist on an orange circular background.
+
+The strap itself is black and octagonal, which indicates that it was repurposed from the initial version of the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
 
 ## Title history
 
