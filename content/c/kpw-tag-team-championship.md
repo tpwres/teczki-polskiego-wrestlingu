@@ -24,6 +24,12 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 * Heaviest champion: [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (216&nbsp;kg combined)
 * Lightest champion: [The Hunt](@/tt/the-hunt.md) (188&nbsp;kg combined)
 
+## Belt design
+
+KPW Tag Team Championship belts have big main plate in silver hue. In the very centre of main plate there is black eliptical background with KPW logo on it. Main plate is completed with "Tag Team" and "Champion" presented both above and below logo. Besides that, main plate also have multiple black ornaments and a few blue gem-like points, most probably masking screws. Pair of sideplates is much smaller than the main plate itself, and it consists of KPW logo with "Tag Team Champion" below it. 
+
+The plates themself are made of acrylic with silver and black laminate giving the plates colour. The strap itself is made from black material.
+
 ## Title history
 
 ### Champions #1: Sawicki & Victor Rosetti
