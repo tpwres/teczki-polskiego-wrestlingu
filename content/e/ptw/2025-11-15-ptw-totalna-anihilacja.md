@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+[extra.gallery]
 +++
 
 "Totalna Anihilacja" (_Total Annihilation_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md).
