@@ -44,6 +44,7 @@ The overall shape of PpW Tag Team Championship is heavily influenced in shape by
 - - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
   - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
   - s: Tag Team Match
+    en: '[PpW Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md)'
     nc: upcoming
 {% end %}
 
