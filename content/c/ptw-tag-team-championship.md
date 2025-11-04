@@ -52,6 +52,58 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 ## Title history
 
+### Tournament to crown the inaugural champions
+
+#### Quarter-finals
+
+{% free_card() %}
+- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
+  - '[Wiktor Longman](@/w/wiktor-longman.md) & [Syriusz Dziedzic](@/w/dziedzic.md)'
+  - s: Tag Team Match
+    en: '[PTW Underground 10](@/e/ptw/2023-01-28-ptw-underground-10.md)'
+    ed: 2023-01-28
+- - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'The Bright Lights: [Karol "Iskra" Górski](@/w/iskra.md) & [Marcelito](@/w/marcelito.md)'
+  - s: Tag Team Match
+    en: '[PTW Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md)'
+    ed: 2023-01-29
+- - 'Arrows of Hungary: Icarus & [Dover](@/w/dover.md)'
+  - '[Robert Star](@/w/robert-star.md) & [Puncher](@/w/puncher.md)'
+  - s: Tag Team Match
+    en: '[PTW Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md)'
+    ed: 2023-01-29
+- - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+  - 'The Frenchadors: Senza Volto & Aigle Blanc'
+  - s: Tag Team Match
+    en: '[PTW Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md)'
+    ed: 2023-01-29
+{% end %}
+
+#### Semi-finals
+
+{% free_card() %}
+- - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+  - s: Tag Team Match
+    en: '[PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md)'
+    ed: 2023-02-26
+- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
+  - 'Arrows of Hungary: Icarus & [Dover](@/w/dover.md)'
+  - s: Tag Team Match
+    en: '[PTW Underground 13](@e/ptw/2023-03-26-ptw-underground-13.md)'
+    ed: 2023-03-26
+{% end %}
+
+#### Final
+
+{% free_card() %}
+- - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
+  - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
+  - s: Tag Team Tables Match
+    en: '[PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
+    ed: 2023-06-25
+{% end %}
+    
 ### Champions #1: PAKA: Disco Pablo & Taras & Boro
 
 {% free_card() %}
