@@ -30,7 +30,7 @@ The initial champion was [Max Speed](@/w/max-speed.md), who won it in a Ladder M
 
 ## Belt design
 
-The championship belt is rather bulky in its shape and size. Main plate's background is made with metal in grey colour with a huge orange elipse with Prime Time Wrestling logo in the centre. Above and beneath this elipse there is "UNDERGROUND" and "CHAMPION" written in red, which were deliberately obliterated to look a bit worn. Side plates are rather simple, and they depict a clenched black fist on a orange circular blackground.
+The championship belt is rather bulky in its shape and size. The main plate's background is made of grey-coloured metal with a huge orange ellipse, bearing the Prime Time Wrestling logo in the centre. Above and beneath this ellipse "UNDERGROUND" and "CHAMPION" are written in red, deliberately obliterated to look a bit worn. The side plates are rather simple, depicting a clenched black fist on an orange circular background.
 
 The strap itself is black and octagonal, which indicates that it was repurposed from the initial version of the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
 
