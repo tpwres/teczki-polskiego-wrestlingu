@@ -2,7 +2,7 @@
 title = "KPW Tag Team Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery]
@@ -26,9 +26,9 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 
 ## Belt design
 
-KPW Tag Team Championship belts have big main plate in silver hue. In the very centre of main plate there is black eliptical background with KPW logo on it. Main plate is completed with "Tag Team" and "Champion" presented both above and below logo. Besides that, main plate also have multiple black ornaments and a few blue gem-like points, most probably masking screws. Pair of sideplates is much smaller than the main plate itself, and it consists of KPW logo with "Tag Team Champion" below it. 
+Each KPW Tag Team Championship belt has a big main plate in silver hue. In the very centre of the main plate there is black eliptical background with the KPW logo on it. The main plate is completed by "Tag Team" and "Champion" presented above and below the logo, respectively. Additionally, the main plate also has multiple black ornaments and a few blue gem-like points, most likely masking screws. The side plates are much smaller than the main plate itself, and each consists of the KPW logo with "Tag Team Champion" below it. 
 
-The plates themself are made of acrylic with silver and black laminate giving the plates colour. The strap itself is made from black material.
+The plates are made of acrylic, with silver and black laminate giving the plates colour. The strap itself is made from black leather.
 
 ## Title history
 
