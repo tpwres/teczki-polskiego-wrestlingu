@@ -27,8 +27,8 @@
 402 = { path = "pelny-emil.webp", caption = "[Michael HT](@/w/michael-ht.md) and Emil Völler.", source = "M3n747" }
 403 = { path = "riverman.webp", caption = "Tony Sheen came…", source = "M3n747" }
 404 = { path = "manriver.webp", caption = "…and went.", source = "M3n747" }
-405 = { path = "asara.webp", caption = "Asara.", source = "M3n747" }
-406 = { path = "krzesling.webp", caption = "Asara chokes [Gustav Gryffin](@/w/gustav-gryffin.md) with a steel chair.", source = "M3n747" }
+405 = { path = "asara.webp", caption = "[Asara](@/w/asara.md).", source = "M3n747" }
+406 = { path = "krzesling.webp", caption = "[Asara](@/w/asara.md) chokes [Gustav Gryffin](@/w/gustav-gryffin.md) with a steel chair.", source = "M3n747" }
 407 = { path = "czlowiek-patyk.webp", caption = "[Mister Z](@/w/mister-z.md) with a kendo stick over the kneeling Gustav Gryffin.", source = "M3n747" }
 408 = { path = "oh-no-anyway.webp", caption = "[Sędzia Kornel](@/w/sedzia-kornel.md) wails in despair at the sight of Gustav Gryffin beaten by Mister Z.", source = "M3n747" }
 501 = { path = "dzustyn-dzojski.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) holds Sędzia Karol Górski by the head, while [Justin Joy](@/w/justin-joy.md) shows off his impressive physique.", source = "M3n747" }
@@ -49,8 +49,8 @@
 609 = { path = "polski-wrestling-ponad-barierkami.webp", caption = "Biesiad takes a section of the guard rails to use against Mister Z.", source = "M3n747" }
 610 = { path = "prosimy-nie-karmic-goblinow.webp", caption = "[Biesiad Strong](@/w/biesiad.md) feeds Goblin some beer.", source = "M3n747" }
 611 = { path = "stol-jaki-jest-kazdy-widzi.webp", caption = "Close-up of one of Biesiad's tables.", source = "M3n747" }
-612 = { path = "3maj-powerupa", caption = "A fan offers Biesiad his beer…", source = "M3n747" }
+612 = { path = "3maj-powerupa.webp", caption = "A fan offers Biesiad his beer…", source = "M3n747" }
 613 = { path = "piwo-albo-zet-oto-jest-pytanie.webp", caption = "…which he accepts. In the background, Gustav Gryffin is about to hit [Mister Z](@/w/mister-z.md) with a kendo stick while Goblin reels from a vicious attack by the latter.", source = "M3n747" }
 701 = { path = "piwo-do-biesiadowania-1.webp", caption = "Close-up of Biesiad's own _Carpenter_ brand of beer.", source = "M3n747" }
 702 = { path = "piwo-do-biesiadowania-2.webp", caption = "Likewise.", source = "M3n747" }
-703 = { path = "zszywka.webp", caption = "A staple still stuck in [Johnny Blade's](@/w/johnny-blade.md) forehead.", source = "M3n747" }
+703 = { path = "zszywka.webp", caption = "A staple still stuck in [Johnny Blade's](@/w/johnny-blade.md) forehead after the show.", source = "M3n747" }
