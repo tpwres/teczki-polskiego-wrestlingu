@@ -26,7 +26,7 @@ Ledwo Legalne II (_Barely Legal II_) was [PpW's](@/o/ppw.md) sixth major event, 
 The show is notable for being the first PpW event not to be held at the [2Koła motorcycle club](@/v/2kola.md), and for introducing the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). The event was held at [Waldorffa 25](@/v/waldorffa25.md), a dedicated event venue in Bemowo that would later become the main arena for PpW.
 
 Several international wrestlers debuted for PpW at this event, most of them from Czechia:
-* Czech wrestler Asara
+* Czech wrestler [Asara](@/w/asara.md)
 * Czech wrestler Viking, Hardcore Champion of Prague-based VcV Original Wrestling
 * Czech wrestler Skull Evil, who previously worked several matches for MZW between 2016 and 2018
 * Belgian wrestler Steve Kuningas
@@ -40,7 +40,7 @@ Several international wrestlers debuted for PpW at this event, most of them from
   - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
 - - '[Adam Wong](@/w/adam-wong.md)'
   - '[Bill Feager](@/w/feager.md)'
-- - 'Asara'
+- - '[Asara](@/w/asara.md)'
   - '[Skull Evil](@/w/skull-evil.md)'
   - r: 'DQ'
 - - '[Biesiad Strong](@/w/biesiad.md)(c)'
