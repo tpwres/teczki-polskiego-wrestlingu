@@ -21,10 +21,14 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 * After [Gustav Gryffin's](@/w/gustav-gryffin.md) involvement in the main event of the [previous show](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), "severe consequences" [were announced][komzegwendzje]. This is supposed to happen at Surowy Klimat.
 * On 29.10.2025 PpW announced [Biesiad Strong](@/w/biesiad.md) vs [Robert Star](@/w/robert-star.md) in an Anything Goes match.
 * On 31.10.2025 PpW announced a One For All Tag Team Match, with [Gustav Gryffin](@/w/gustav-gryffin.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) taking on [Zmowa](@/tt/zmowa.md) represented by [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md).
+* Three days before the show, on 05.11.2025, PpW' added a match between [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), in a [Facebook post][speed-samurai-fb]. Both of them previously faced Gustav Gryffin in his Gauntlet Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and now they are set to face each other.
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[Asara](@/w/asara.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Antoni Ocean'
   - s: Trial by Blade
@@ -59,3 +63,4 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 [w-nowej-hali]: https://www.facebook.com/OficjalnePPW/posts/pfbid0eNNLC2TyYL8uceonCDXNdkUgwxjwjKtAVJ7aCZfhHdN6ihhWdVFVUjRNq3XbwBaWl
 [oskar-ma-przewalone]: https://www.facebook.com/reel/1364296448498041
 [komzegwendzje]: https://www.facebook.com/reel/774546015624966
+[speed-samurai-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid0oAqWJufBF38htbr5enJ1HCXFDez2GSQ5dqTCFxaEzBfP83kguCJaGsikuj41iRCpl
