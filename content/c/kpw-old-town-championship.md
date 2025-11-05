@@ -15,6 +15,15 @@ The KPW OldTown Championship is the mid-card title belt of [Kombat Pro Wrestling
 
 <!-- more -->
 
+## Statistics
+
+* First champion: [Greg](@/w/greg.md)
+* Most reigns: N/A
+* Longest reign: [David Oliwa](@/w/david-oliwa.md) (1190 days)
+* Shortest reign: [Leon Lato](@/w/leon-lato.md) (60+ days)
+* Heaviest champion: David Oliwa (101&nbsp;kg)
+* Lightest champion: Greg (83&nbsp;kg)
+
 ## Belt design
 
 The original version of the belt was heavily influenced by the post-apocalyptic theme of the OldTown Festival.
@@ -30,13 +39,6 @@ The centre part of the main plate features an image of a skull with post-apocali
 Above and below the main plate there are two banners, with "KPW" written at the top of the belt and "Oldtown Champion" underneath the skull.
 It is also decorated with many engravings resembling barbed wire.
 The championship belt also contains two pairs of sideplates with the KPW logo on the larger pair, attached closer to the main plate. The plates are attached to a regular black strap.
-
-
-## Statistics
-
-* First champion: [Greg](@/w/greg.md)
-* Most reigns: N/A
-* Longest reign: [David Oliwa](@/w/david-oliwa.md) (1190 days)
 
 ## Title history
 

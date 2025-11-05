@@ -15,8 +15,9 @@ MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW 
 ## Statistics
 
 * First champion: [Johny Vegas](@/w/johny-vegas.md)
-* Shortest reign: Jack Kalom (1+ days)
+* Most reigns: N/A
 * Longest reign: Johny Vegas (1127 days)
+* Shortest reign: Jack Kalom (1+ days)
 
 ## Belt design
 

@@ -2,7 +2,7 @@
 title = "KPW Tag Team Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery]
@@ -20,6 +20,15 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 * First champions: [Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)
 * Most reigns: N/A
 * Longest reign: The Hunt: Primate & Wild Boar (959 days)
+* Shortest reign: [Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md) (335 days)
+* Heaviest champion: [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (216&nbsp;kg combined)
+* Lightest champion: [The Hunt](@/tt/the-hunt.md) (188&nbsp;kg combined)
+
+## Belt design
+
+Each KPW Tag Team Championship belt has a big main plate in silver hue. In the very centre of the main plate there is black eliptical background with the KPW logo on it. The main plate is completed by "Tag Team" and "Champion" presented above and below the logo, respectively. Additionally, the main plate also has multiple black ornaments and a few blue gem-like points, most likely masking screws. The side plates are much smaller than the main plate itself, and each consists of the KPW logo with "Tag Team Champion" below it. 
+
+The plates are made of acrylic, with silver and black laminate giving the plates colour. The strap itself is made from black leather.
 
 ## Title history
 

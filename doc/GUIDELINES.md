@@ -36,6 +36,7 @@
 - Describe any long-term storytelling related to their character.
 - If they moved organizations, you can divide their article into sections marked with org name and years active.
 - Talent will have their career section and matches list auto-generated from events. Don't try to create one manually. For non-wrestlers, an option in the front matter disables that section.
+- A talent should make five appearances to be eligible for an entry. This is more of a guideline rather than a hard-and-fast rule, however, and people with fewer appearances could be given their entries as well, if there's a reason to do so. For instance, champions always need to have their entries, even if they only ever had a single match (e.g. [Mercedes Moné](https://tpwres.pl/w/mercedes-mone/) or [The Hunt](https://tpwres.pl/tt/the-hunt/)).
 
 # Describing titles and championships
 

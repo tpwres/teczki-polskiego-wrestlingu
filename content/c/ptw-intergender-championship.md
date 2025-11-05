@@ -23,6 +23,15 @@ The PTW Intergender Championship is a joke DIY professional wrestling championsh
 
 <!-- more -->
 
+## Statistics
+
+* First champion: [Marco Hammers](@/w/marco-hammers.md)
+* Most reigns: Marco Hammers (2)
+* Longest reign: Marco Hammers 216 days
+* Shortest reign: [Istotna Martynka](@/w/istotna-martynka.md) (<1 day)
+* Youngest champion: Marco Hammers (27 years, 42 days)
+* Heaviest champion: Marco Hammers (94&nbsp;kg)
+
 ## History
 
 The title was hand-made by [Marco Hammers](@/w/marco-hammers.md) for his fight with [Diana Strong](@/w/diana-strong.md) at [PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md). Although it was introduced as a joke title, Marco defended it as if it were a proper Championship and boasted about his victory afterwards. PTW only vaguely recognised the title and after Marco Hammers left the promotion, he took the title belt with him. It was displayed during PpW's non-canon shows, including [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), where Marco unsucesfully defended it against [Istotna Martynka](@/w/istotna-martynka.md). Later the same night he won it back. After that appearance the Championship seemingly got deactivated, vanishing from PpW's programming.

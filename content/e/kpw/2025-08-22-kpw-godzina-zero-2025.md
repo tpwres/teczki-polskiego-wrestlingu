@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 2016. Like most previous editions, GZ'25 was be held in August, and returned to [Nowy Harem](@/v/atlantic-nh-gdynia.md) after the [last year's edition](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) took place at a gym hall at Stefana Okrzei 6 street.
+Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 2016. Like most previous editions, GZ'25 was held in August, and returned to [Nowy Harem](@/v/atlantic-nh-gdynia.md) after the [last year's edition](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) took place at a gym hall at Stefana Okrzei 6 street.
 
 ## Build-up
 

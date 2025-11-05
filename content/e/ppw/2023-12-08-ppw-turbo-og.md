@@ -14,7 +14,7 @@ Official poster, imitating the character selection grid from fighting games.
 The selectable characters are: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md);
 [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md);
 [Adam Wong](@/w/adam-wong.md), [Isnorr](@/w/isnorr.md), [Bill Feager](@/w/feager.md);
-Asara, [Chris X](@/w/chris-x.md), [Rafi](@/w/rafi.md); and finally Jack Harrop.
+[Asara](@/w/asara.md), [Chris X](@/w/chris-x.md), [Rafi](@/w/rafi.md); and finally Jack Harrop.
 """
 source = "Official PpW Facebook"
 [extra.gallery.2]
@@ -34,7 +34,8 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 {% card() %}
 - ["[Bill Feager](@/w/feager.md)", "[Jacob Crane](@/w/jacob-crane.md)", {s: "#1 Contender Match", c: "[PpW Championship](@/o/ppw.md#championships)"}]
 - ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Adam Wong](@/w/adam-wong.md)", "[Rafi](@/w/rafi.md)", s: "3-way match"]
-- ["[Mister Z](@/w/mister-z.md)", "Asara"]
+- - "[Mister Z](@/w/mister-z.md)"
+  - "[Asara](@/w/asara.md)"
 - ["[Goblin](@/w/goblin.md)", "[Gustav Gryffin](@/w/gustav-gryffin.md)", s: "Classic Wrestling Match"]
 - - "[Isnorr](@/w/isnorr.md)"
   - "[Biesiad Strong](@/w/biesiad.md)"
@@ -51,7 +52,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 
 * [Feager](@/w/feager.md) won the right to face [Steve Kuningas](@/w/steve-kuningas.md) for the [PpW Championship](@/o/ppw.md#championships).
 * [Goblin](@/w/goblin.md) won by using Green Mist on Gustav, while [Osamu](@/w/osamu.md) unsuccessfully tried to interfere in their match. After the bell, the angry Gustav accosted referee Borys. Once again [Osamu](@/w/osamu.md) interfered, this time defending the referee, but that ended his alliance with Gustav, and he received a beatdown for it. [Jakob Sigmarsson](@/w/jakub-linde.md) appeared, revealing himself as Gustav's trainer and new ally.
-* [Mister Z](@/w/mister-z.md) defeated Asara with a kick to his privates and some well-placed chairs.
+* [Mister Z](@/w/mister-z.md) defeated [Asara](@/w/asara.md) with a kick to his privates and some well-placed chairs.
 * Biesiad and [Isnorr](@/w/isnorr.md) took the fight outside and shot fireworks at each other, among other weapons. Chris X interfered against Biesiad, following their rivalry from [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
 * The Christmas Massacre featured light tubes, Christmas glass baubles, and most importantly, a heavily padded and helmeted cameraman in the ring, hired by [Mandecki](@/w/jerry-mandecky.md) to record Johnny's defeat in high detail up close. At one point, he blinded Johnny with a camera flash to the face. [Isnorr](@/w/isnorr.md) and Biesiad also interfered in the fight.
 
