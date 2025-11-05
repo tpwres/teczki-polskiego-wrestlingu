@@ -178,6 +178,6 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2026
 
-* PpW and KPW hold [their](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) [shows](@/e/kpw/2026-01-16-kpw-arena-31.md) on the same day, in the same city, partly at the same time and 700&nbsp;m from each other - both to capitalise on the upcoming WWE event.
+* PpW and KPW hold [their](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) [shows](@/e/kpw/2026-01-16-kpw-arena-31.md) on the same day, in the same city (700&nbsp;m from each other), and at partly conflicting times (KPW at 6&nbsp;PM and PpW at 8&nbsp;PM) - both to capitalise on the upcoming WWE event.
 * [WWE](@/o/wwe.md) hold their first [show](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md) in Poland since [2015](@/e/wwe/2015-04-15-wwe-live.md).
 {% end %}
