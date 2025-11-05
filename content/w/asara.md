@@ -28,7 +28,7 @@ Since then, Asara returned once each following year, facing wrestlers like [Mist
 
 * Entrance music:
   - "HOMELAND" by NiNi Music feat. Jayant of Bloodywood
-    {{ org_badge(orgs=["ppw"]) }} (2023-) <br>
+    {{ org_badge(orgs=["ppw"]) }} (2022-) <br>
     {{ music(yt='vopMx1_7Ojg') }}
     {{ music(spot='5J3uQ31QzGR8A17oKjZp4e') }}
 
