@@ -21,17 +21,38 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 * Most reigns: N/A
 * Shortest reign: N/A
 * Longest reign: N/A
-* Heaviest Champion: N/A
-* Lightest Champion: N/A
+* Oldest champion: N/A
+* Youngest champion: N/A
+* Heaviest champion: N/A
+* Lightest champion: N/A
+
+## History
+
+On 17.10.2025 - during the buid-up to [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) - PpW shared an image of [Mister Z](@/w/mister-z.md) teasing a "Very Huge and Very Important Announcement" to be made at the show, which was supposed to change the course of PpW forever. During the opening moments of the show [Michael HT](@/w/michael-ht.md) and [Joker](@/w/joker.md), on Z's behalf, introduced the newly-created PpW Tag Team Championship, along with the tournament to crown the inaugural champions, starting with the [next show](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 
 ## Belt design
 
-TBD
+The overall shape of the PpW Tag Team Championship is heavily influenced by the [WWE Tag Team Championship][pas-wwe-tag-team] belt used from 2024 onwards. The main plate is made with silver metal with ornaments and black details. At top-centre of the main plate there is a purple-coloured PpW logo with iconic "eyes" over it. At both sides of the logo there are two skulls facing outwards, representing two persons being tag team champions. The bottom half of the centre plate is decorated with two banners, the first one with "Tag Team" engraved in silver, and the second one with "Wrestling Champions" engraved in purple. Looking from the front there is a left sideplate with two skulls on it, and at the right a sideplate decorated with stylised "Tag Team" written on it. All of plates are attached to a black leather belt.
 
 ## Title history
 
-### Champion #1: TBD
+### Tournament to crown the inaugural champions
+
+#### Round 1
+
+{% free_card() %}
+- - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
+  - s: Tag Team Match
+    en: '[PpW Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md)'
+    ed: 2025-11-08
+    nc: upcoming
+{% end %}
+
+### Champions #1: TBD
 
 ## References
 
 * [Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0aGQyrQeVAfVGX1ChMCPPSyB8LutLZLXounLRgywvMae7GPb1K4waewSwinNzBHY9l) introducing the title
+
+[pas-wwe-tag-team]: https://en.wikipedia.org/wiki/WWE_Tag_Team_Championship

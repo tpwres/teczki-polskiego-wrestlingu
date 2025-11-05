@@ -49,7 +49,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
   - '[Max Speed](@/w/max-speed.md)'
   - s: 'Zmowa Recruitment Gauntlet Match'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - 'Asara'
+  - '[Asara](@/w/asara.md)'
   - s: 'Zmowa Recruitment Gauntlet Match'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
@@ -74,9 +74,9 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 * [Oskar Alexander](@/w/oskar-alexander.md) assisted [Agentka Agatka](@/w/agentka-agatka.md) by pulling her out of the way of [Johnny Blade](@/w/johnny-blade.md), jumping from the top rope.
 * Agatka won her match by hitting Blade with a Back-to-Belly Piledriver and then stapling a photo of another [Robert Star](@/w/robert-star.md) to his face before ripping it off, thus drawing first blood. Afterwards, Agatka literally poured salt over Blade's wounds.
 * One of the staples stayed in Blade's forehead throughout the show, as he couldn't remove it easily by himself. He also decided it would make for a good argument in case anyone claimed the spot was faked.
-* [Gustav Gryffin](@/w/gustav-gryffin.md) cut a promo saying that him being in [Zmowa](@/tt/zmowa.md) was a mistake. He then faced, in this order: Emil Völler (from wXw in Germany; debuting in PpW); [Tony Sheen](@/w/riverman.md) from [MZW](@/o/mzw.md)(whom he defeated in about a minute), [Max Speed](@/w/max-speed.md), Asara, and finally [Mister Z](@/w/mister-z.md), whom he lost to. As Zmowa's leader himself won the match, nobody earned their spot as a new member.
+* [Gustav Gryffin](@/w/gustav-gryffin.md) cut a promo saying that him being in [Zmowa](@/tt/zmowa.md) was a mistake. He then faced, in this order: Emil Völler (from wXw in Germany; debuting in PpW); [Tony Sheen](@/w/riverman.md) from [MZW](@/o/mzw.md)(whom he defeated in about a minute), [Max Speed](@/w/max-speed.md), [Asara](@/w/asara.md), and finally [Mister Z](@/w/mister-z.md), whom he lost to. As Zmowa's leader himself won the match, nobody earned their spot as a new member.
 * [Gabriel Queen](@/w/gabriel-queen.md) and [Justin Joy](@/w/justin-joy.md) hit [Vic Golden](@/w/vic-golden.md) with a Golden Shower - [Pure Gold's](@/tt/pure-gold.md) signature finisher. Justin did the Running Drop Toe Hold, formerly performed by Vic.
-* Before the main event started, Mister Z came out of the backstage and said that he's going to abuse his executive power by inserting himself and making it a Three-Way Match.
+* Before the main event started, Mister Z came out of the backstage and said that he's going to abuse his executive power by inserting himself and making it a Three-Way Match. Also in the same promo he mentioned that PpW would continue their tour of Poland, with the [next show](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) being in Tricity.
 * [Biesiad Strong](@/w/biesiad.md) picked a section of the barriers to attack Mister Z with.
 * At one point Biesiad pinned Goblin and Mister Z at the same time - the former with his hands, the latter with his legs.
 * When Mister Z kicked out from Goblin's pin, the Acid Messiah shouted "Kurwa, ogarnij się!" (roughly _Get your fucking shit together!_), much to the crowd's amusement.

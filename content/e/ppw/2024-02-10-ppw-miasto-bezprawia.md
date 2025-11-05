@@ -12,7 +12,7 @@ path = "2024-02-10-ppw-miasto-bezprawia-plakat.jpg"
 caption = """\
 Official poster, highly stylized to resemble a Sergio Leone western movie poster.
 The top two characters are [Bill Feager](@/w/feager.md) and [Steve Kuningas](@/w/steve-kuningas.md).
-Below them, [Jacob Crane](@/w/jacob-crane.md), Asara, [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md) and [Shadow](@/w/shadow.md).
+Below them, [Jacob Crane](@/w/jacob-crane.md), [Asara](@/w/asara.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md) and [Shadow](@/w/shadow.md).
 In the next row: TJ Charles, MBM, [Ricardo Diesel](@/w/ricardo-diesel.md), [Samson](@/w/samson.md), [Gustav Gryffin](@/w/gustav-gryffin.md).
 Last row: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Gabriel Queen](@/w/gabriel-queen.md), [Chris X](@/w/chris-x.md), [Isnorr](@/w/isnorr.md).
 """
@@ -28,7 +28,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 * On social media, PpW posted that former MZW and PTW wrestler [Gabriel Queen](@/w/gabriel-queen.md) has joined their ranks and is likely to appear in some capacity. This was confirmed with the release of the official poster. Later, another post announced PTW wrestler [Samson](@/w/samson.md).
 * In a [facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid02zU3wXTw4DstxtdtphsXJQB3Q7wifMUxgXaYxsAiHfPzxMazGQPtTWYzTCUCfXe3Bl), PpW announced the number of participating wrestlers to beat any of their previous shows.
 * Following the success of the joint MZW+PpW event [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), [Shadow](@/w/shadow.md) will make his first appearance in PpW, in a three-person match that also includes [Samson](@/w/samson.md).
-* Based on the poster, the show would also feature [Jacob Crane](@/w/jacob-crane.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad](@/w/biesiad.md), [Chris X](@/w/chris-x.md), [Isnorr](@/w/isnorr.md), Asara, [Gabriel Queen](@/w/gabriel-queen.md) and [Samson](@/w/samson.md) as noted above
+* Based on the poster, the show would also feature [Jacob Crane](@/w/jacob-crane.md), [Mister Z](@/w/mister-z.md), [Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad](@/w/biesiad.md), [Chris X](@/w/chris-x.md), [Isnorr](@/w/isnorr.md), [Asara](@/w/asara.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Samson](@/w/samson.md) as noted above
 * In a [Facebook video](https://www.facebook.com/OficjalnePPW/videos/263013170024297/), acting boss [Mister Z](@/w/mister-z.md) congratulated Gryffin on his show-stealing performance at Turbo OG, and rewarded him with a match against Irish wrestler TJ Charles, with a stipulation of his choosing.
 * In that same video, [Goblin](@/w/goblin.md), who was Gustav's opponent, is announced to get a match against an unspecified opponent who would be making his debut for PpW, also with a stipulation of his choosing. This was later revealed to be Belgian wrestler MBM "Sweetboy", who competes all over the European scene, and the stipulation to be an _El Paso Outlaw Match_.
 
@@ -39,7 +39,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
   - 'MBM'
   - s: 'El Paso Outlaw Match'
 - - '[Samson](@/w/samson.md)'
-  - 'Asara'
+  - '[Asara](@/w/asara.md)'
   - '[Shadow](@/w/shadow.md)'
   - s: 3-Way Dance
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'

@@ -22,8 +22,8 @@ DDW International Championship was the the only belt of [Do Or Die Wrestling](@/
 * Shortest reign: [Kamil Aleksander](@/w/kamil-aleksander.md) (341 days)
 * Oldest champion: Joe E. Legend (41 years, 33 days)
 * Youngest champion: Kamil Aleksander (24 years, 118 days)
-* Heaviest champion: Joe E. Legend (121 kg)
-* Lightest champion: Kamil Aleksander (87 kg)
+* Heaviest champion: Joe E. Legend (121&nbsp;kg)
+* Lightest champion: Kamil Aleksander (87&nbsp;kg)
 
 ## Belt design
 
