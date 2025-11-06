@@ -26,5 +26,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 ## References
 
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0wV7KeMr8bsikonrJTy6KUBzqE3r4koaDFJFS5U4BCaz9HC3rYHSeXJraeSavQm7gl)
+* [Akane Fujita](https://www.cagematch.net/?id=2&nr=13375) on Cagematch
+* [Shigehiro Irie](https://www.cagematch.net/?id=2&nr=7831) on Cagematch
 
 [st-nicholas-day]: https://en.wikipedia.org/wiki/Saint_Nicholas_Day
