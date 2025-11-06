@@ -27,9 +27,10 @@ The show is notable for being the first PpW event not to be held at the [2Koła 
 
 Several international wrestlers debuted for PpW at this event, most of them from Czechia:
 * Czech wrestler [Asara](@/w/asara.md)
-* Czech wrestler Viking, Hardcore Champion of Prague-based VcV Original Wrestling
 * Czech wrestler Skull Evil, who previously worked several matches for MZW between 2016 and 2018
 * Belgian wrestler Steve Kuningas
+
+Returning was also Czech wrestler Viking, Hardcore Champion of Prague-based VcV Original Wrestling, previously seen at [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md).
 
 ## Card
 
