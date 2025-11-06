@@ -30,7 +30,7 @@ Several international wrestlers debuted for PpW at this event, most of them from
 * Czech wrestler Skull Evil, who previously worked several matches for MZW between 2016 and 2018
 * Belgian wrestler Steve Kuningas
 
-Returning was also Czech wrestler Viking, Hardcore Champion of Prague-based VcV Original Wrestling, previously seen at [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md).
+Returning was also Czech wrestler Viking, Hardcore Champion of Prague-based VcV Original Wrestling, previously seen at [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md).
 
 ## Card
 
