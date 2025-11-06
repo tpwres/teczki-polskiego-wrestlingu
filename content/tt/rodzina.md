@@ -34,6 +34,6 @@ After Mistrzowskie Rozdanie 2 the feud between Rodzina and Queen continued, with
 * [Vic Golden](@/w/vic-golden.md) - the Patriarch ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
 * [Agentka Agatka](@/w/agentka-agatka.md) - the Mother ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
 * [Oskar Alexander](@/w/oskar-alexander.md) - the Protégé ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
-* [Robert Star](@/w/robert-star.md) - the Uncle ([Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) - present)
+* [Robert Star](@/w/robert-star.md) - the Son ([Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) - present)
 
 [kabanosy]: https://en.wikipedia.org/wiki/Kabanos
