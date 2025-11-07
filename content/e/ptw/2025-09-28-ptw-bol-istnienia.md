@@ -22,7 +22,7 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 * On 15.09.2025 it was [confirmed][konfjurmejszyn] that after the revelation from [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), [Łukasz Okoński](@/w/lukasz-okonski.md) will address the allegations that he is a father of [Sigma Boy xD](@/w/sigma-boy.md).
 * After the contender's match against [Spartan](@/w/spartan.md) did not come to fruition, [Damian Lambert](@/w/damien-rothschild.md) was awarded with number one contendership for the [PTW Championship](@/c/ptw-championship.md). On 16.09.2025 it was confirmed that he will face [Dawid "Puncher" Seńko](@/w/puncher.md) at Ból Istnienia.
 * ["Starboy" Nano Lopez](@/w/nano-lopez.md) was confirmed to appear at the show on 17.09.2025, although no match-up was announced.
-* 18.09.2025 saw the announcement of [El G](@/w/el-g.md) vs CJ Klakson.
+* 18.09.2025 saw the announcement of [El G](@/w/el-g.md) vs [CJ Klakson](@/w/cj-klakson.md).
 * [Spartan](@/w/spartan.md) was confirmed on 20.09.2025.
 * On 23.09.2025 PTW published an image of [Daniel Razor](@/w/daniel-razor.md) issuing an open challenge for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * On 24.09.2025 PTW announced a match between [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) and [Sigma Boy xD](@/w/sigma-boy.md) & [Łukasz Okoński](@/w/lukasz-okonski.md) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). According to the [Facebook post][sigmonski], [Miyagi Shida](@/w/miyagi-shida.md) was supposed to team up with Sigma, but agreed to let Okoński take his place to allow him to mend fences with his son.
@@ -49,7 +49,7 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
   - 'Angel Hayze'
   - c: 'Glam! Championship'
-- - 'CJ Klakson'
+- - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[El G](@/w/el-g.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '[Damian Lambert](@/w/damien-rothschild.md)'

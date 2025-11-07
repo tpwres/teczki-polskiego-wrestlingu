@@ -16,11 +16,14 @@ toclevel = 2
 ## Build up
 
 * On 7.11.2025 PTW released a [video][3-stages-of-arek] of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) addressing [Łukasz Okoński](@/w/lukasz-okonski.md), in which he laid out the details of their upcoming fight: a Three Stages of Hell Match with a boxing bout against [Puncher](@/w/puncher.md), a 2-on-1 Handicap Match against Puncher and Pawłowski, and lastly a 1-on-1 match against Pawłowski.
+* Later that same day PTW announced [CJ Klakson](@/w/cj-klakson.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
-
+- - '[CJ Klakson](@/w/cj-klakson.md)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - nc: upcoming
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - '[Puncher](@/w/puncher.md)'
   - s: Three Stages of Hell - Boxing Match
