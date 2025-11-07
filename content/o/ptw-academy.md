@@ -48,7 +48,7 @@ _Listed in alphabetical order:_
 
 * [Alex Brave](@/w/alex-brave.md)
 * Arczi Czajka
-* [CJ Klaxon](@/w/cj-klaxon.md)
+* [CJ Klakson](@/w/cj-klakson.md)
 * [Daniel Razor](@/w/daniel-razor.md)
 * [Disco Pablo](@/w/disco-pablo.md)
 * [Karyna](@/w/karyna.md)
