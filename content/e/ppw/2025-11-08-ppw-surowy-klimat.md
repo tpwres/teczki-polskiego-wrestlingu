@@ -34,15 +34,14 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - s: Deathmatch
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: Anything Goes Match
 
 
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Antoni Ocean'
   - s: Trial by Blade
-    nc: upcoming
-- - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Robert Star](@/w/robert-star.md)'
-  - s: Anything Goes Match
     nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Axel Fox](@/w/axel-fox.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
@@ -61,9 +60,15 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 * Asara kicked out out Max's pin extremely late, causing Sędzia Kornel to strike the ring for the third time a fraction of a second after. This prompted some heated ["było trzy!"](@/a/polish-wrestling-chants.md#referee) chants.
 * After the second match, Michael OG plugged the [upcoming show](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) and its Japanese guests, referring to it as "real wresting above borders" - a jab at [PTW's](@/o/ptw.md) infamous slogan. Later, when announcing the Agatka vs Queen deathmatch, he called it a "total annihilation" - once again, poking fun at an upcoming [PTW show of the same name](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 * Instead of their usual ring gear, [Agentka Agatka](@/w/agentka-agatka.md) came out wearing a white shirt and shorts, while [Gabriel Queen](@/w/gabriel-queen.md) had camo-patterned overalls.
-* The weapons included a kendo stick, a garbage can, a light tube, a hubcap, a steel chair wrapped in barbed wire, a pizza cutter, Agatka's trouser belt, a table covered in roses, 
+* The weapons included a kendo stick, a garbage can, a light tube, a hubcap, a steel chair wrapped in barbed wire, a pizza cutter, Agatka's trouser belt and a table covered in roses,.
 * Queen dragged Sędzia Seweryn under the ring, took his shirt and threw him onto the ring. Agatka, mistaking Seweryn for Queen, attacked and pinned him; then Queen - wearing Seweryn's referee shirt - ran in for the three-count, briefly making Agatka believe she won the match.
 * Oskar Alexander ran in to Agatka's aid before Queen could throw her at the table, only to be quickly disposed of by Queen. Then Vic Golden ran in with a steel chair, but Queen dodged his attack, which accidentally hit Agatka instead. After getting rid of Golden, Queen put Agatka through the rosey table to score a victory.
+* After the match, Queen cut a promo challenging Vic for one last match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) - the loser of which "forever gets the fuck out of PpW".
+* As the crew was cleaning the ring of debris, the camera unexpectedly tiled and fell to the side.
+* Robert Star got some "Polska kobyła" (_Polish mare_) chants, referring to his "Polish Stallion" gimmick.
+* Biesiad came out through the crowd with a ladder a couple of beers.
+* Biesiad threw the ladder to Star, who threw it back. A brief back-and-forth followed, before Star threw the ladder to Referee Karol Górski.
+* Star grabbed a section of the guard rails and suplexed Biesiad onto it.
 
 
 ## References
