@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It tok place in a new, smaller hall of [Mińska 65](@/v/minska-65.md).
+Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It took place in a new, smaller hall of [Mińska 65](@/v/minska-65.md).
 
 ## Build-up
 
