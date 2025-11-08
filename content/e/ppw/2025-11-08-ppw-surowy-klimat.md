@@ -26,16 +26,18 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 ## Card
 
 {% card() %}
+- - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
+  - s: Tag Team Match
+
+
+
 - - '[Asara](@/w/asara.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Antoni Ocean'
   - s: Trial by Blade
-    nc: upcoming
-- - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
-  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
-  - s: Tag Team Match
     nc: upcoming
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -49,11 +51,15 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: One For All Tag Team Match
     nc: upcoming
+
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md)'
 {% end %}
 
 ### Recap
 
-* TBD
+* [Agentka Agatka](@/w/agentka-agatka.md) ran out of the backstage and distracted the Hungarian Luchadores long enough to allow Vic Golden to score a pic.
 
 ## References
 

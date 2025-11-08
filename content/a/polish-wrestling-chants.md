@@ -125,6 +125,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
 * _Golden to pała, wygląda mi na pedała_ - "Golden's a jackass, looks to me like a faggot": used against [Vic Golden](@/w/vic-golden.md). \
   {% ipa(tts="Golden to pała, wygląda mi na pedała") %}ɡˈɔldɛn tɔ pˈawa, vɨɡlˈɔnda mi na pɛdˈawa{% end %}
+* _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). \
+  {% ipa(tts="Goldenowi liże jaja, Oskar to faja") %}ɡˌɔldɛnˈɔvi lˈiʒɛ jˈaja, ˈɔskar tɔ fˈaja{% end %}
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
   {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️️
 * _Lis jest pod ochroną_ - "Fox is protected": when Axel Fox is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
