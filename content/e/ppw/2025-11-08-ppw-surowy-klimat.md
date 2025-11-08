@@ -28,13 +28,11 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 {% card() %}
 - - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
   - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
-  - s: Tag Team Match
+  - s: First Round Tag Team Match for the inaugurual [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament 
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Asara](@/w/asara.md)'
 
 
-
-- - '[Asara](@/w/asara.md)'
-  - '[Max Speed](@/w/max-speed.md)'
-  - nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Antoni Ocean'
   - s: Trial by Blade
@@ -54,12 +52,13 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
 ### Recap
 
 * [Agentka Agatka](@/w/agentka-agatka.md) ran out of the backstage and distracted the Hungarian Luchadores long enough to allow Vic Golden to score a pic.
+* Asara kicked out out Max's pin extremely late, causing Sędzia Kornel to strike the ring for the third time a fraction of a second after. This prompted some heated ["było trzy!"](@/a/polish-wrestling-chants.md#referee) chants.
 
 ## References
 
