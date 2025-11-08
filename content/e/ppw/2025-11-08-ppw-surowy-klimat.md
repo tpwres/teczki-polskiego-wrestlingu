@@ -37,12 +37,11 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Anything Goes Match
-
-
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Antoni Ocean'
   - s: Trial by Blade
-    nc: upcoming
+
+
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Axel Fox](@/w/axel-fox.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: One For All Tag Team Match
@@ -53,9 +52,9 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Recap
+### Highlights
 
-* The entire show was live streamed from a single camera.
+* The entire show was live streamed from one vantage point using a single camera.
 * [Agentka Agatka](@/w/agentka-agatka.md) ran out of the backstage and distracted the Hungarian Luchadores long enough to allow Vic Golden to score a pic.
 * Asara kicked out out Max's pin extremely late, causing Sędzia Kornel to strike the ring for the third time a fraction of a second after. This prompted some heated ["było trzy!"](@/a/polish-wrestling-chants.md#referee) chants.
 * After the second match, Michael OG plugged the [upcoming show](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) and its Japanese guests, referring to it as "real wresting above borders" - a jab at [PTW's](@/o/ptw.md) infamous slogan. Later, when announcing the Agatka vs Queen deathmatch, he called it a "total annihilation" - once again, poking fun at an upcoming [PTW show of the same name](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
@@ -69,7 +68,9 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 * Biesiad came out through the crowd with a ladder a couple of beers.
 * Biesiad threw the ladder to Star, who threw it back. A brief back-and-forth followed, before Star threw the ladder to Referee Karol Górski.
 * Star grabbed a section of the guard rails and suplexed Biesiad onto it.
-
+* After the match Michael HT asked the crowd to sing ["Sto lat"][prawie-marquez] for his sister, who had her birthday that day. The crowd happily obliged.
+* Antoni Ocean came out carrying a DIY surfing board covered in coils of barbed wire. He lost the match after being thrown onto it by Johnny Blade.
+* 
 
 ## References
 
@@ -80,3 +81,4 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 [oskar-ma-przewalone]: https://www.facebook.com/reel/1364296448498041
 [komzegwendzje]: https://www.facebook.com/reel/774546015624966
 [speed-samurai-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid0oAqWJufBF38htbr5enJ1HCXFDez2GSQ5dqTCFxaEzBfP83kguCJaGsikuj41iRCpl
+[prawie-marquez]: https://en.wikipedia.org/wiki/Sto_lat
