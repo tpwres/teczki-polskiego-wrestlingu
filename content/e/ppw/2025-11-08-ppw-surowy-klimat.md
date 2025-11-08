@@ -31,15 +31,14 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
   - s: First Round Tag Team Match for the inaugurual [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament 
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Asara](@/w/asara.md)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - s: Deathmatch
 
 
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Antoni Ocean'
   - s: Trial by Blade
-    nc: upcoming
-- - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - s: Deathmatch
     nc: upcoming
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Robert Star](@/w/robert-star.md)'
@@ -52,13 +51,20 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Recap
 
+* The entire show was live streamed from a single camera.
 * [Agentka Agatka](@/w/agentka-agatka.md) ran out of the backstage and distracted the Hungarian Luchadores long enough to allow Vic Golden to score a pic.
 * Asara kicked out out Max's pin extremely late, causing Sędzia Kornel to strike the ring for the third time a fraction of a second after. This prompted some heated ["było trzy!"](@/a/polish-wrestling-chants.md#referee) chants.
+* After the second match, Michael OG plugged the [upcoming show](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) and its Japanese guests, referring to it as "real wresting above borders" - a jab at [PTW's](@/o/ptw.md) infamous slogan. Later, when announcing the Agatka vs Queen deathmatch, he called it a "total annihilation" - once again, poking fun at an upcoming [PTW show of the same name](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
+* Instead of their usual ring gear, [Agentka Agatka](@/w/agentka-agatka.md) came out wearing a white shirt and shorts, while [Gabriel Queen](@/w/gabriel-queen.md) had camo-patterned overalls.
+* The weapons included a kendo stick, a garbage can, a light tube, a hubcap, a steel chair wrapped in barbed wire, a pizza cutter, Agatka's trouser belt, a table covered in roses, 
+* Queen dragged Sędzia Seweryn under the ring, took his shirt and threw him onto the ring. Agatka, mistaking Seweryn for Queen, attacked and pinned him; then Queen - wearing Seweryn's referee shirt - ran in for the three-count, briefly making Agatka believe she won the match.
+* Oskar Alexander ran in to Agatka's aid before Queen could throw her at the table, only to be quickly disposed of by Queen. Then Vic Golden ran in with a steel chair, but Queen dodged his attack, which accidentally hit Agatka instead. After getting rid of Golden, Queen put Agatka through the rosey table to score a victory.
+
 
 ## References
 
