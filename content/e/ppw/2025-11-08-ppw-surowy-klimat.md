@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). It is set to take place in a new, smaller hall of [Mińska 65](@/v/minska-65.md).
+Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It tok place in a new, smaller hall of [Mińska 65](@/v/minska-65.md).
 
 ## Build-up
 
@@ -23,9 +23,9 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) is an upcoming show by [PpW 
 * On 31.10.2025 PpW announced a One For All Tag Team Match, with [Gustav Gryffin](@/w/gustav-gryffin.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) taking on [Zmowa](@/tt/zmowa.md) represented by [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md).
 * Three days before the show, on 05.11.2025, PpW added a match between [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced via a [Facebook post][speed-samurai-fb]. Both of them previously faced Gustav Gryffin in a Gauntlet Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and now they are set to face each other.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Asara](@/w/asara.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - nc: upcoming
