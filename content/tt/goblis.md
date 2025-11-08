@@ -7,7 +7,7 @@ toclevel = 3
 orgs = ["ppw"]
 +++
 
-GobLis are a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md) active in [PpW Ewenement](@/o/ppw.md).
+GobLis were a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md) active in [PpW Ewenement](@/o/ppw.md).
 
 ## History
 
@@ -44,6 +44,8 @@ With the team not on the same page, they were put in a Tornado Tag Team match ag
 
 From that point on tag team efforts were put on hold, since Goblin focused on his war with Gryffin and - after winning it - defending his [PpW Championship](@/c/ppw-championship.md), while Fox continued his feud with [Legia Łysych](@/tt/legia-lysych.md).
 
+As [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel Fox betrayed Goblin by refusing to tag in which allowed [Zmowa](@/tt/zmowa.md) to win, thus putting an end to GobLis.
+
 ## Members
 
 * [Axel Fox](@/w/axel-fox.md) 
@@ -52,7 +54,7 @@ From that point on tag team efforts were put on hold, since Goblin focused on hi
 ## In wrestling
 
 * Finishers:
-  - Double Powerbomb (2025-)
+  - Double Powerbomb (2025)
 * Team signature moves:
   - Stereo suicide dives (Goblin & Fox to the opponents outside the ring)
 * Affiliations:

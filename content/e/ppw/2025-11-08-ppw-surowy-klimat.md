@@ -43,8 +43,6 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Axel Fox](@/w/axel-fox.md) & [Goblin](@/w/goblin.md)'
   - s: One For All Tag Team Match
-
-
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -68,7 +66,8 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 * Star grabbed a section of the guard rails and suplexed Biesiad onto it.
 * After the match Michael HT asked the crowd to sing ["Sto lat"][prawie-marquez] for his sister, who had her birthday that day. The crowd happily obliged.
 * Antoni Ocean came out carrying a DIY surfing board covered in coils of barbed wire. He lost the match after being thrown onto it by Johnny Blade.
-* Axel Fox denied Goblin a tag allowing Zmowa to win, thus apparently turning heel in the process.
+* Axel Fox denied Goblin a tag allowing Zmowa to win. Mister Z then offered Fox his hand which Axel shook, thus turning heel and apparently joining Zmowa.
+* Mister Z cut a promo after the fight and stated that Goblin would face Olgierd for the [PpW Championship](@/c/ppw-championship.md) at a future show.
 
 ## References
 
