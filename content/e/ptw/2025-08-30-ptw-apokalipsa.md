@@ -49,7 +49,7 @@ toclevel = 2
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-- - 'CJ Klakson'
+- - '[CJ Klakson](@/w/cj-klakson.md)'
   - 'Nic Wesker'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '["The Enygma" Serg Sullivan](@/w/serg-sullivan.md) w/ "The Bat" Lesya Sullivan'

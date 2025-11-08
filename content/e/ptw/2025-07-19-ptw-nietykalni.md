@@ -22,7 +22,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 * On 16.07.2025 PTW announced the debut of Austrian Flex Skywalker in a match with [Spartan](@/w/spartan.md).
 * The day after, PTW announced another Polish debut: Lucy Couture from England, set to challenge [Diana Strong](@/w/diana-strong.md) for her GLAM! Championship.
 * On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
-* "Hottest free agent" CJ Klakson teased a PTW debut over the prior week with multiple vignettes on his social media.
+* "Hottest free agent" [CJ Klakson](@/w/cj-klakson.md) teased a PTW debut over the prior week with multiple vignettes on his social media.
 
 ## Card
 
@@ -62,7 +62,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - '[Spartan](@/w/spartan.md)'
   - g: 'Formation of an alliance against Nietykalni'
-- - 'CJ Klakson'
+- - '[CJ Klakson](@/w/cj-klakson.md)'
   - g: 'CJ Klakson cuts a promo, declaring himself the newest PTW roster member'
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
