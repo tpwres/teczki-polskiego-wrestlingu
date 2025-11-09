@@ -11,7 +11,7 @@ city = "Wołów"
 ## Card
 
 {% card(incomplete=true) %}
-- - 'Scott Collins'
+- - '[Scott Collins](@/w/scott-collins.md)'
   - '???'
   - g: 'A segment incolving Scott Collins opening a door.'
 - - '[Kamil](@/w/kamil.md) & ???'

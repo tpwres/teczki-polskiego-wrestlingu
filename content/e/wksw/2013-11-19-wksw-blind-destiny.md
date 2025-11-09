@@ -12,10 +12,10 @@ The date of the show wasn't explicitly stated in the available source. The date 
 
 ## Card
 
-{% card() %}
+{% card(incomplete=true) %}
 - - 'KL'
   - g: "KL's promo"
-- - 'Scott Collins'
+- - '[Scott Collins](@/w/scott-collins.md)'
   - '???'
   - s: Battle Royal
 - - '[Kamil](@/w/kamil.md)'
@@ -25,6 +25,7 @@ The date of the show wasn't explicitly stated in the available source. The date 
   - '???'
   - '???'
   - c: '??? Championship'
+    nc: '?'
 {% end %}
 
 According to the source, the Wołów Champion had sustained an injury, but no further details were given. Present at the show was [Tony "Aparycja" Sheen](@/w/riverman.md) who started a feud with Scott Collins.
