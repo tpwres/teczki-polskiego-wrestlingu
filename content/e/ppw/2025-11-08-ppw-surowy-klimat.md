@@ -72,6 +72,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=435854)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-surowy-klimat-08-11-2025-11-08-2025-22-06-25) (requires paid subscription)
 * [Facebook post announcing the event][w-nowej-hali]
 
 [w-nowej-hali]: https://www.facebook.com/OficjalnePPW/posts/pfbid0eNNLC2TyYL8uceonCDXNdkUgwxjwjKtAVJ7aCZfhHdN6ihhWdVFVUjRNq3XbwBaWl
