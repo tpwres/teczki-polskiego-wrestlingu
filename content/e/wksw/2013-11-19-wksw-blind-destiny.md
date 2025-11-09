@@ -19,7 +19,7 @@ The date of the show wasn't explicitly stated in the available source. The date 
   - '???'
   - s: Battle Royal
 - - '[Kamil](@/w/kamil.md)'
-  - '[Chudy Ed])@/w/chudy.md)'
+  - '[Chudy Ed](@/w/chudy.md)'
   - nc: '?'
 - - '[Kamil](@/w/kamil.md)'
   - '???'
