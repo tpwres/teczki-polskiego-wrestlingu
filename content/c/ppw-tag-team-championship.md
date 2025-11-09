@@ -46,7 +46,6 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
   - s: Tag Team Match
     en: '[PpW Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md)'
     ed: 2025-11-08
-    nc: upcoming
 {% end %}
 
 ### Champions #1: TBD
