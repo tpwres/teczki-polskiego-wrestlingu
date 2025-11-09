@@ -44,6 +44,7 @@ toclevel = 2
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - 'Dylan Thorn'
+  - 'Shawn Aster'
   - s: Triple Threat Match Manto Challenge
 - - '[Damian Lambert](@/w/damien-rothschild.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
