@@ -4,14 +4,14 @@ template = "event_page.html"
 authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
-venue=["nowa-minska"]
+venue=["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
 [extra.gallery]
 +++
 
-Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It took place in a new, smaller hall of [Mińska 65](@/v/minska-65.md).
+Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It took place in the Column Hall of [Mińska 65](@/v/minska-65.md), where [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) was held a year prior.
 
 ## Build-up
 
