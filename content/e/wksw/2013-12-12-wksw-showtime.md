@@ -15,11 +15,11 @@ city = "Wołów"
   - g: "Chudy's promo"
 - - '[Scott Collins](@/w/scott-collins.md)'
   - g: "Scott's promo"
-- - 'Grzesiu'
+- - '[Grzesiu](@/w/grzesiu.md)'
   - '???'
   - nc: '?'
 - - '[Scott Collins](@/w/scott-collins.md)'
-- - '[Kamil](@/w/kamil.md)'
+  - '[Kamil](@/w/kamil.md)'
 - - '[Chudy](@/w/chudy.md)'
   - '???'
   - nc: '?'

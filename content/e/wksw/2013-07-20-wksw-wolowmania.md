@@ -16,7 +16,7 @@ city = "Wołów"
 - - 'Doubt'
   - 'Rydzyk'
   - '[Kamil](@/w/kamil.md)'
-  - 'Grzesiu'
+  - '[Grzesiu](@/w/grzesiu.md)'
   - s: Fatal 4-Way Elimination Match
 - - 'Axon'
   - 'Hardcore Icon(c)'
