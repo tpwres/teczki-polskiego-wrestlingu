@@ -1,5 +1,5 @@
 +++
-title = "WKSW Slammy"
+title = "WKSW Slammy!"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
