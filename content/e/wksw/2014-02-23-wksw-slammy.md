@@ -22,7 +22,7 @@ The date of the show wasn't explicitly stated in the available source. The date 
   - ???'
 - - '[Kamil](@/w/kamil.md)'
   - 'Stasiu'
-    nc: '?'
+  - nc: '?'
 - - '[Aparycja](@/w/riverman.md)'
   - '[Scott Collins](@/w/scott-collins.md)'
   - nc: '?'
@@ -31,13 +31,10 @@ The date of the show wasn't explicitly stated in the available source. The date 
   - c: 'Wołów Championship'
     s: Open Challenge
     nc: '?'
-
 - - '[Chudalewski](@/w/chudy.md)(c)'
   - '[Raven](@/w/raven.md)'
   - c: 'WKSW Championship'
     nc: '?'
-
-
 {% end %}
 
 ## References
