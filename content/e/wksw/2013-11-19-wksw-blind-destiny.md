@@ -16,11 +16,12 @@ The date of the show wasn't explicitly stated in the available source. The date 
 - - 'KL'
   - g: "KL's promo"
 - - '[Scott Collins](@/w/scott-collins.md)'
-  - '???'
-  - s: Battle Royal
+  - '[Steven](@/w/steven.md)'
+  - s: WKSW Championship Contender Battle Royal
 - - '[Kamil](@/w/kamil.md)'
-  - '[Chudy Ed](@/w/chudy.md)'
-  - nc: '?'
+  - '[Michał Chudalewski](@/w/chudy.md)'
+  - s: WKSW Championship Contender Match
+    nc: '?'
 - - '[Kamil](@/w/kamil.md)'
   - '???'
   - '???'
@@ -35,3 +36,4 @@ KL is a user of the WrestleFans forum who commented in threads about the WKSW sh
 ## References
 
 * [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=38772)
+* [Highlights video](https://www.youtube.com/watch?v=ky6XT0n2Ahw)
