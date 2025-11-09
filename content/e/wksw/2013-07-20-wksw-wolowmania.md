@@ -15,7 +15,7 @@ city = "Wołów"
 {% card() %}
 - - 'Doubt'
   - 'Rydzyk'
-  - 'Kamil'
+  - '[Kamil](@/w/kamil.md)'
   - 'Grzesiu'
   - s: Fatal 4-Way Elimination Match
 - - 'Axon'

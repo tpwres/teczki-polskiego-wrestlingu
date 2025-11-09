@@ -14,7 +14,7 @@ city = "Wołów"
 - - 'Scott Collins'
   - '???'
   - g: 'A segment incolving Scott Collins opening a door.'
-- - 'Kamil & ???'
+- - '[Kamil](@/w/kamil.md) & ???'
   - '??? & ???'
   - s: Tag Team Match
     nc: '?'

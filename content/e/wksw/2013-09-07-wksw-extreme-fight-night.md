@@ -14,7 +14,7 @@ city = "Wołów"
 
 {% card(incomplete=true) %}
 - - '[Chudy](@/w/chudy.md)'
-  - 'Kamil'
+  - '[Kamil](@/w/kamil.md)'
   - '???'
   - s: 'Multi-Man Match'
     nc: '?'
