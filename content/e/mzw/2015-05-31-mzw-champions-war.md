@@ -18,7 +18,7 @@ caption = """\
 
 The first Champions War by MZW was held in Głuchołazy on May 31, 2015. The matches featured MZW trainees, experienced wrestlers like [Asmund](@/w/asmund.md) or [Dobroniak](@/w/stanislaw-van-dobroniak.md), a number of German wrestlers, and MZW's first and last women's match.
 
-The event is infamous on the Polish wrestling scene for having female performer Akira collapse during the show, then die a few days later in a hospital. While initially the media claimed severe damage to the spine due to a chokeslam, an autopsy later confirmed that the actual cause of death was an undiscovered brain aneurysm.
+The event is infamous on the Polish wrestling scene for having female performer Akira collapse during the show, then die a few days later in a hospital at the age of 16. While initially the media claimed severe damage to the spine due to a chokeslam, an autopsy later confirmed that the actual cause of death was an undiscovered brain aneurysm.
 [Hexia](@/w/hexia.md) (Akira's opponent) and the organisation were ultimately cleared of all charges. However, the press slammed MZW and wrestling in general for being dangerous, and the organisation's future become uncertain.
 Some fans in the Internet wrestling community now mockingly referred to the organisation as "Maniac Zgon Wrestling" (_zgon_ being the Polish word for death or demise).
 
