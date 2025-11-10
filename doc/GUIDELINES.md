@@ -17,6 +17,9 @@
 - List matches in the `{{ card() }}` block. A separate document describes how it works.
 - An event needs more than one link to prove it happened - something other than Cagematch.
 - List references in the following order: Cagematch event page, paid video, free video, other links. See [PpW Miasto Bezprawia](https://tpwres.pl/e/ppw/2024-02-10-ppw-miasto-bezprawia/#references) for an example.
+- Build-up should be written from the perspective of the present looking towards the future event ("Wrestler X challenged Wrestler Y to a Winner Takes All Match. If Wrestler X loses, he will lose the title and leave the promotion").
+- Any notes/segement descriptions in the card should be written entirely in the present ("Wrestler X talks about his career path, shows respect to Wresler Y").
+- Recap/highlights should be written from the perspective of the present looking at the past ("After losing the match to Wrestler Y, Wrestler X said that he would honour his word and leave the promotion").
 
 # Describing wrestlers and other talent
 
