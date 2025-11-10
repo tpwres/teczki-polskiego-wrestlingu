@@ -35,6 +35,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=439260)
 * [Facebook event](https://www.facebook.com/events/2238817879916078/?active_tab=about)
 * [Facebook post](https://www.facebook.com/100067477449984/posts/pfbid066JW5RGYJB7Zf9W3jfTVXaMAqv59BxuqsPoNdo7pgrEHKSrY9HHKASm3DztgJiyJl) announcing Zefir vs Leon Lato.
 
