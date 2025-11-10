@@ -17,7 +17,7 @@ CJ Klakson is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
   - CJ Klakson {{ org_badge(org='ptw') }} (2025-)
   - "Hottest Free Agent"
 * Trained by:
-  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (unknown date)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2019-2023)
   - [PTW Academy](@/o/ptw-academy.md) (2025-present)
 
 ## Professional wrestling career 
