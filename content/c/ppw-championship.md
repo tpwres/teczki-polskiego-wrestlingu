@@ -235,6 +235,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 **TOTAL: 364 days**
 
 ### Champion #8: Goblin
+
 {% free_card() %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md) (c)'
