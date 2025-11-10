@@ -1,5 +1,5 @@
 +++
-title = "PpW: Duch Świąt, Smak Krwi"
+title = "PpW Duch Świąt, Smak Krwi"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
@@ -16,8 +16,16 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 ## Build-up
 
 * The show was announced on 6.11.2025, alongside two Japanese wrestlers: Akane Fujita in her Polish debut, and Shigehiro Irie, previously seen at [KPW Arena 21](@/e/kpw/2023-02-24-kpw-arena-21.md).
+* On 10.11.2025 PpW released a [video][lysa-pala] in which [Goblin](@/w/goblin.md) challenged [Olgierd](@/w/olgierd.md) for his title, leaving his opponent the choice of stipulation.
 
-{{ skip_card() }}
+## Card
+
+{% card(predicted=true) %}
+- - '[Goblin](@/w/goblin.md)(c)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: TBD
+{% end %}
 
 ### Recap
 
@@ -30,3 +38,4 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 * [Shigehiro Irie](https://www.cagematch.net/?id=2&nr=7831) on Cagematch
 
 [st-nicholas-day]: https://en.wikipedia.org/wiki/Saint_Nicholas_Day
+[lysa-pala]: https://www.facebook.com/reel/827053873376334

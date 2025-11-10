@@ -238,9 +238,9 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 {% free_card() %}
 - - '[Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md) (c)'
-  - en: '[Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
+  - s: Three Stages of Hell Match
+    en: '[Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
     ed: 2025-06-07
-    s: Three Stages of Hell Match
 - - 'Goblin (c)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Singles Match
@@ -248,9 +248,15 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     ed: 2025-09-20
 - - 'Goblin (c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
-  - en: '[Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)'
+  - s: Singles Match
+    en: '[Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)'
     ed: 2025-10-24
-    nc: Upcoming
+- - 'Goblin (c)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - s: TBD
+    en: [PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)
+    ed: 2025-12-06
+    nc: upcoming
 {% end %}
 
 ## References
