@@ -9,3 +9,8 @@ country = ["PL"]
 +++
 
 Steven is a retired backyard wrestler who worked for [WKSW](@/o/wksw.md).
+
+
+## Internet presence
+
+* [StevenWKSW on Facebook](https://www.facebook.com/StevenWKSW)

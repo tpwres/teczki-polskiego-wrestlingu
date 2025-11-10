@@ -1,3 +1,7 @@
+[00]
+path = "ekipa.jpg"
+caption = "The team with the WKSW Championship.""
+source = "StevenWKSW @ Facebook"
 [01]
 path = "angora-wfw.webp"
 caption = "Newspaper column from ANGORA, titled \"Hulk Hogan's Successors from Wołów\""
@@ -51,6 +55,3 @@ source = "Onet.pl"
 path = "wksw-unknown-event-12.webp"
 caption = "Photo from an uknown WKSW event."
 source = "Onet.pl"
-[14]
-path = "unknown-matchup.jpg"
-caption = "Unknown matchup from Xtreme Fight Night for the WKSW Championship."
