@@ -94,6 +94,12 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
   - s: 'Open Challenge'
     en: '[PTW Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
+- - 'Daniel Razor(c)'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - s: Singles Match
+    en: '[PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md)'
+    ed: 2025-11-15
+    nc: Upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
