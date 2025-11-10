@@ -92,7 +92,7 @@ During a post-match interview following the 20 Typa 20 Broni Match, Axel was att
 
 #### Losing streak
 
-After a defeat against Olgierd, Axel's frustration constantly grew. During his post-match interviews he began to question his abilities. He was defeated by [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), as well as by Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+After a defeat against Olgierd, Axel's frustration constantly grew. During his post-match interviews he began to question his abilities. He was defeated by [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), as well as by Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). Eventually at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Fox betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md).
 
 ### Legacy of Wrestling (2024-present)
 

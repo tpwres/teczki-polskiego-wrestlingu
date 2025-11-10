@@ -38,6 +38,8 @@ This devastating blow caused Gustav to lose all of his confidence, which he was 
 
 At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) came the final straw. During the planned "Zmowa show of dominance" Gustav snapped and attacked both Mister Z and Marco, finally turning on Zmowa.
 
+Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/axel-fox.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md).
+
 ## Members
 
 #### Current
@@ -45,6 +47,7 @@ At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) 
 * [Mister Z](@/w/mister-z.md) - the leader of Zmowa
 * [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
 * [Marco Hammers](@/w/marco-hammers.md) - [Legia Łysych](@/tt/legia-lysych.md)
+* [Axel Fox](@/w/axel-fox.md)
 
 #### Former and part-time
 
