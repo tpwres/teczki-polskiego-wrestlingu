@@ -254,7 +254,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 - - 'Goblin (c)'
   - '[Olgierd](@/w/olgierd.md)'
   - s: TBD
-    en: [PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)
+    en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
     ed: 2025-12-06
     nc: upcoming
 {% end %}
