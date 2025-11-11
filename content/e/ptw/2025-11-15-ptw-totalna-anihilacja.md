@@ -18,10 +18,14 @@ toclevel = 2
 * On 7.11.2025 PTW released a [video][3-stages-of-arek] of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) addressing [Łukasz Okoński](@/w/lukasz-okonski.md), in which he laid out the details of their upcoming fight: a Three Stages of Hell Match with a boxing bout against [Puncher](@/w/puncher.md), a 2-on-1 Handicap Match against Puncher and Pawłowski, and lastly a 1-on-1 match against Pawłowski.
 * Later that same day PTW announced [CJ Klakson](@/w/cj-klakson.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 * On 10.11.2025 PTW announced ["Starboy" Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
+* The next day PTW announced the return of The Brave Show, set to open the event.
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[Alex Brave](@/w/alex-brave.md)'
+  - g: 'The Brave Show'
+  - nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - nc: upcoming
