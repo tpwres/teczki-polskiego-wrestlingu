@@ -46,7 +46,7 @@ LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro
   - c: WWELOP Championship
 - - 'BlackeR'
   - 'Speed Maniels'
-  - s: Fate Of The Federation Match
+  - s: Fate of the Federation Match
 {% end %}
 
 ## References
