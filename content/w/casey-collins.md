@@ -10,4 +10,4 @@ country = ["PL"]
 
 Casey Collins is a retired backyard wrestler who worked for [WKSW](@/o/wksw.md).
 
-There was also a Scott Collins, but it is unclear whether it was a different name for Casey, or a separate person.
+There was also a [Scott Collins](@/w/scott-collins.md), but it is unclear whether it was a different name for Casey, or a distinct person.
