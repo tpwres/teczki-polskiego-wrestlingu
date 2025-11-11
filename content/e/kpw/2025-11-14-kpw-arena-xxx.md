@@ -19,6 +19,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 
 * On 23.10.2025 KPW released a [video][malinowski-xxx] in which [Krystian Malinowski](@/w/krystian-malinowski.md) talked about the upcoming show. He started by saying that the 10th anniversary of KPW will be celebrated by the promotion's full roster and the fans. Next, he stated that this time around the match card will not be announced in advance of the event, as he himself doesn't know it. Instead, the federation decided to bet on "absolute freedom and spontaneity" - the match-ups will be decided by the wrestlers themselves during the show. There was only one fight Malinowski decided to announce the next day, as he deemed it worthy of the 10th anniversary.
 * The next day saw the announcement of [Zefir](@/w/zefir.md) vs [Leon Lato](@/w/leon-lato.md) in a [belt](@/c/kpw-championship.md) vs [belt](@/c/kpw-old-town-championship.md) Winner Takes All Match.
+* On 11.11.2025 KPW published a [video][smutny-chemik] in which miserable-looking [Chemik](@/w/chemik.md) said that "something sad" is going to happen at the show.
 
 ## Predicted card
 
@@ -40,3 +41,4 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 * [Facebook post](https://www.facebook.com/100067477449984/posts/pfbid066JW5RGYJB7Zf9W3jfTVXaMAqv59BxuqsPoNdo7pgrEHKSrY9HHKASm3DztgJiyJl) announcing Zefir vs Leon Lato.
 
 [malinowski-xxx]: https://www.youtube.com/watch?v=_wDJOaQ6d0s
+[smutny-chemik]: https://www.youtube.com/watch?v=TqnAe3GOfTY
