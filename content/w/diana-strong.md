@@ -9,7 +9,7 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "diana-strong.jpg", caption = "Diana Strong at one of the PTW Underground shows.", source = "Official PTW Facebook" }
 2 = { path = "diana-rega.jpg", caption = "Diana Rega at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).", source = "Lens Blog" }
-3 = { path = "diana-pwi.webp", caption = "A page from The 2025 Women's 250 issue of Pro Wrestling Illustrated with Diana Strong at #205.", source = "Pro Wrestling Illustrated" }
+3 = { path = "diana-pwi.webp", caption = "A page from The 2025 Women's 250 issue of Pro Wrestling Illustrated with Diana Strong at #205. Next to her name, _(6, NL)_ describes her pro tenure in years, and rank in the previous edition, in this case NL for _not listed_.", source = "Pro Wrestling Illustrated" }
 +++
 
 Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
