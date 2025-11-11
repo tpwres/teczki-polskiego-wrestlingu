@@ -176,7 +176,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Legacy of Wrestling](@/o/low.md) hold their [third show](@/e/low/2025-07-11-low-3.md) at Ryucon, which hosted PTW shows for the past three years.
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 * PpW introduce the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
-* [Pro Wrestling Illustrated](https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated) ranked [Diana Strong](@/w/diana-strong.md) #205 on their 2025 PWI Women's 250 list.
+* [Pro Wrestling Illustrated](https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated) ranks [Diana Strong](@/w/diana-strong.md) #205 on their 2025 PWI Women's 250 list.
 
 #### 2026
 
