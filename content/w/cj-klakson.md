@@ -40,7 +40,7 @@ Over the following months, Klakson worked exclusively against international comp
   - _Rondo w Fordonie_ (spinning side slam)
 * Entrance music:
   - "Polska" by KULT
-    {{ org_badge(orgs=['ptw']) }} (2021-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2025-) <br>
     {{ music(yt='K0NHY7wNDuM')}}
     {{ music(spot='1ngjjSd73Fgkcf3uOCGnxZ')}}
     {{ music(apple='1098856767?i=1098856826')}}
