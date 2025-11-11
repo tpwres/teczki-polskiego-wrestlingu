@@ -51,7 +51,7 @@ Greg also became the leader of a new heel faction named [Gałąź Gregoriańska]
 
 At [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) Greg defeated David Oliwa to win the [KPW Championship](@/c/kpw-championship.md), vacated when [Robert Star](@/w/robert-star.md) left KPW to join [Prime Time Wrestling](@/o/ptw.md). Eleven months later he lost the title to [Red Scorpion](@/w/red-scorpion.md).
 
-#### End of the Gregorian Branch
+#### The end of the Gregorian Branch
 
 At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost his match against [Ron Corvus](@/w/ron-corvus.md). After the match, he was attacked with a chair to the back by Rosetti, who was angry with Greg for the way he dismissed Rosetti's loss of the KPW Old Town Championship to Chemik at [Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md). A few moments later, Chemik and Eryk Lesak rushed into the ring and chased Rosetti away, only to unexpectedly turn on Greg themselves, thus ending the Gregorian Branch. With Greg out of the ring, they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but now, after his losing streak, he was no longer worth following.
 
@@ -96,6 +96,6 @@ On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19626)
 * [Video: 10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning Greg's promos (in Polish)
-* [Video: Umarł król, niech żyje król](https://www.youtube.com/watch?v=D3v7UD5DE_E) - fragments of Godzina Zero 2019 highlighting Greg's betrayal of Piękny Kawaler and his ascension to self-proclaimed papacy (in Polish). The [recap](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#aftermath) explains what happened.
+* [Video: Umarł król, niech żyje król](https://www.youtube.com/watch?v=D3v7UD5DE_E) - fragments of Godzina Zero 2019 highlighting Greg's betrayal of Piękny Kawaler and his ascension to self-proclaimed papacy (in Polish). See the [recap](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#aftermath) for details.
 
 [greg-rap]: https://www.youtube.com/watch?v=P7m2nsHC6eA
