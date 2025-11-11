@@ -46,7 +46,7 @@ After PTW's reboot, which was forced by multiple controversies and [talent exodu
 
 Besides her appearances at the Polish wrestling scene Diana also works international bookings in Europe, the British Isles and even North America (e.g. SLAM Wrestling Finland, 1CW Pro Wrestling and Westside Xtreme Wrestling).
 
-In November 2025 [Pro Wrestling Illustrated][pwi-250] voted Diana #205 on their 2025 PWI Women's 250 list.
+In November 2025 [Pro Wrestling Illustrated][pwi-250] ranked Diana #205 on their 2025 PWI Women's 250 list, quoting her successful defenses of the GLAM! title and facing that year's #1 [Mercedes Moné](@/w/mercedes-mone.md).
 
 ## In wrestling
 
