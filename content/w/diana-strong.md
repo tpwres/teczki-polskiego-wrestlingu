@@ -7,8 +7,9 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "diana-strong.jpg", caption = "Diana Strong at one of the PTW Underground shows", source = "Official PTW Facebook" }
-2 = { path = "diana-rega.jpg", caption = "Diana Rega at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md)", source = "Lens Blog" }
+1 = { path = "diana-strong.jpg", caption = "Diana Strong at one of the PTW Underground shows.", source = "Official PTW Facebook" }
+2 = { path = "diana-rega.jpg", caption = "Diana Rega at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).", source = "Lens Blog" }
+3 = { path = "diana-pwi.webp", caption = "A page from The 2025 Women's 250 issue of Pro Wrestling Illustrated with Diana Strong at #205.", source = "Pro Wrestling Illustrated" }
 +++
 
 Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
@@ -45,6 +46,8 @@ After PTW's reboot, which was forced by multiple controversies and [talent exodu
 
 Besides her appearances at the Polish wrestling scene Diana also works international bookings in Europe, the British Isles and even North America (e.g. SLAM Wrestling Finland, 1CW Pro Wrestling and Westside Xtreme Wrestling).
 
+In November 2025 [Pro Wrestling Illustrated][pwi-250] voted Diana #205 on their 2025 PWI Women's 250 list.
+
 ## In wrestling
 
 * Finishers:
@@ -68,8 +71,12 @@ Besides her appearances at the Polish wrestling scene Diana also works internati
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
     * Female Wrestler of the Year
+* Pro Wrestling Illustrated:
+  - #205 on 2025 PWI Women's 250 list
 
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25783)
 * [Diana's biography by Szymon Magdij on mywrestling](https://mywrestling.com.pl/diana-strong-krolowa-polskiego-wrestlingu/)
+
+[pwi-250]: https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated
