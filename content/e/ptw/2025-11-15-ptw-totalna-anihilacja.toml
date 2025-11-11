@@ -10,5 +10,10 @@ source = "Official PTW Facebook"
 
 [02]
 path = "klakson-vs-caravaggio.webp"
-caption = "Image announcing [CJ Klakson](@/w/cj-klakson.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md)"
+caption = "Image announcing [CJ Klakson](@/w/cj-klakson.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md)."
+source = "Official PTW Facebook"
+
+[03]
+path = "lopez-vs-razor.webp"
+caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md)."
 source = "Official PTW Facebook"
