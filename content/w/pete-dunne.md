@@ -5,7 +5,7 @@ authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
-country = ["GB"]
+country = ["ENGLAND"]
 +++
 
 Pete Dunne is an English wrestler from Birmingham, best known for his runs in NXT and its UK sister promotion, plus multiple British and Irish organizations. Dunne was one of the British guest wrestlers performing for [Do Or Die Wrestling](@/o/ddw.md) in 2012.
