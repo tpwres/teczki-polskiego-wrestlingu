@@ -25,7 +25,7 @@ toclevel = 2
 {% card(predicted=true) %}
 - - '[Alex Brave](@/w/alex-brave.md)'
   - g: 'The Brave Show'
-  - nc: upcoming
+    nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - nc: upcoming
