@@ -17,6 +17,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 
 * The show was announced on 6.11.2025, alongside two Japanese wrestlers: Akane Fujita in her Polish debut, and Shigehiro Irie, previously seen at [KPW Arena 21](@/e/kpw/2023-02-24-kpw-arena-21.md).
 * On 10.11.2025 PpW released a [video][lysa-pala] in which [Goblin](@/w/goblin.md) challenged [Olgierd](@/w/olgierd.md) for his title, leaving his opponent the choice of stipulation.
+* On 12.11.2025 PpW published another [video][dila-przerwali], in which [Mister Z](@/w/mister-z.md) put [Vic Golden](@/w/vic-golden.md) in a match with [Gabriel Queen](@/w/gabriel-queen.md), forcing him to accept Queen's Loser Leaves Town challenge from [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 
 ## Predicted card
 
@@ -25,6 +26,10 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
   - '[Olgierd](@/w/olgierd.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: TBD
+    nc: upcoming
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Loser Leaves Town
     nc: upcoming
 {% end %}
 
@@ -40,3 +45,4 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 
 [st-nicholas-day]: https://en.wikipedia.org/wiki/Saint_Nicholas_Day
 [lysa-pala]: https://www.facebook.com/reel/827053873376334
+[dila-przerwali]: https://www.facebook.com/reel/2365035843937671
