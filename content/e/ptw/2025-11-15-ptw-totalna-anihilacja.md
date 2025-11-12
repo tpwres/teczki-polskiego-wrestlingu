@@ -19,6 +19,7 @@ toclevel = 2
 * Later that same day PTW announced [CJ Klakson](@/w/cj-klakson.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 * On 10.11.2025 PTW announced ["Starboy" Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * The next day PTW announced the return of The Brave Show, set to open the event.
+* The day after that PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs Italian wrestler Fabio Romano in his Polish debut.
 
 ## Predicted card
 
@@ -45,6 +46,9 @@ toclevel = 2
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - 'Fabio Romano'
+  - nc: upcoming
 {% end %}
 
 ## References

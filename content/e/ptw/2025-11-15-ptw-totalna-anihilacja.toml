@@ -22,3 +22,8 @@ source = "Official PTW Facebook"
 path = "alex-brave-show.webp"
 caption = "Image announcing The [Brave](@/w/alex-brave.md) Show."
 source = "Official PTW Facebook"
+
+[05]
+path = "shida-vs-fabio.webp"
+caption = "Image announcing [Miyagi Shida](@/w/miyagi-shida.md) vs Fabio Romano"
+source = "Official PTW Facebook"
