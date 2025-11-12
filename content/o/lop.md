@@ -13,7 +13,7 @@ Line of Pro was a backyard federation active between 2010 and 2014. It was locat
 
 ## History
 
-According to the person responsible for promoting the backyard, - forum user _MF_ - Line of Pro first started in the early 2010. All of its structure was directly based on WWE programming. It had its own history and feuds, and according to _MF_, over 20 backyard performers passed through the federation since its creation.
+According to the person responsible for promoting the backyard - forum user _MF_ - Line of Pro first started in the early 2010. Its entire structure was directly based on WWE programming. It had its own history and feuds, and according to _MF_, over 20 backyard performers passed through the federation since its creation.
 
 As of 2025, virtually no information about LOP prior to 2014 can be found. It is most likely caused by the fact that LOP distributed their shows only among their peers, and most footage was never openly published. The only show publicly available is [LOP's Wrestlemania III](@/e/lop/2014-04-27-lop-wrestlemania-iii.md). Uniquely for a backyard, the show was streamed live - possibly one of the first live streams on the Polish wrestling scene.
 
