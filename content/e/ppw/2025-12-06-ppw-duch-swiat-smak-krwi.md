@@ -29,7 +29,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
     nc: upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
-  - s: Loser Leaves Town
+  - s: Loser Leaves PpW
     nc: upcoming
 {% end %}
 
