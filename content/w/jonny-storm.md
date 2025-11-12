@@ -5,7 +5,7 @@ authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
-country = ["GB"]
+country = ["ENGLAND"]
 +++
 
 Jonny Storm is a British wrestler best known in Poland for his time in [Prime Time Wrestling](@/o/ptw.md).
