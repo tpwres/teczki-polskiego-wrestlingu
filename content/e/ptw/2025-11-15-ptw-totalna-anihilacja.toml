@@ -17,3 +17,8 @@ source = "Official PTW Facebook"
 path = "lopez-vs-razor.webp"
 caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md)."
 source = "Official PTW Facebook"
+
+[04]
+path = "alex-brave-show.webp"
+caption = "Image announcing The [Brave](@/w/alex-brave.md) Show."
+source = "Official PTW Facebook"
