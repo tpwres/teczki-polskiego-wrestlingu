@@ -58,7 +58,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 * The weapons included a kendo stick, a garbage can, a light tube, a hubcap, a steel chair wrapped in barbed wire, a pizza cutter, Agatka's trouser belt and a table covered in roses.
 * Queen dragged Sędzia Seweryn under the ring, took his shirt and threw him onto the ring. Agatka, mistaking Seweryn for Queen, attacked and pinned him; then Queen - wearing Seweryn's referee shirt - ran in for the three-count, briefly making Agatka believe she won the match.
 * Oskar Alexander ran in to Agatka's aid before Queen could throw her at the table, only to be quickly disposed of by Queen. Then Vic Golden ran in with a steel chair, but Queen dodged his attack, which accidentally hit Agatka instead. After getting rid of Golden, Queen put Agatka through the rosy table to score a victory.
-* After the match, Queen cut a promo challenging Vic for one last match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) - the loser of which "forever gets the fuck out of PpW".
+* After the match, Queen cut a promo challenging Vic for one last match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) - the loser of which "gets the fuck out of PpW forever".
 * As the crew was cleaning the ring of debris, the camera unexpectedly tiled and fell to the side.
 * Robert Star got some "Polska kobyła" (_Polish mare_) chants, referring to his "Polish Stallion" gimmick.
 * Biesiad came out through the crowd with a ladder a couple of beers.
