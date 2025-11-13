@@ -52,7 +52,7 @@ toclevel = 2
   - nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - g: true
-  - nc: upcoming
+    nc: upcoming
 {% end %}
 
 ## References
