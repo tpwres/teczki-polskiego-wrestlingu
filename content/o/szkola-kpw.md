@@ -47,6 +47,7 @@ _Listed in alphabetical order:_
 
 KPW Wrestling School was created alongside [Kombat Pro Wrestling](@/o/kpw.md) in 2015, shortly after the federation and its wrestling school was transformed from [Do Or Die Wrestling](@/o/ddw.md). From that point on it ran regular training sessions in Gdynia, operating on weekends. The school offers wrestling training for wrestlers, referees, managers, commentators, announcers and virtually every other position in the professional wrestling business. Every July the KPW School also hosts an annual two-week summer camp.
 
-## References 
+## Internet presence 
 
-* [KPW Wrestling School](https://kpwrestling.pl/szkola)
+* [Official website](https://kpwrestling.pl/szkola)
+* [Instagram profile](https://www.instagram.com/kpw.szkola/) (inactive)

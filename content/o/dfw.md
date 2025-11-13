@@ -18,27 +18,27 @@ Dream Factory, unlike other backyards, did not do any sort of ultraviolent match
 
 ## History
 
-#### Before 2015: Local backyard
+### Before 2015: Local backyard
 
 Dream Factory Wrestling came to be as a result of two backyard organizations merging: [Toruń Wrestling Federation](@/o/twf.md) (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence. According to Chris Hunter, the idea to start his own wrestling project came to him while he was returning home from Elbląg, where he participated in the backyard group EKW.
 
-#### 2015: The first shows
+### 2015: The first shows
 
 The new organization named itself after its members' shared dream to be wrestlers, hence "Dream Factory". In May 2015, [Chris Hunter](@/w/chris-hunter.md) posted about getting their own ring and holding a total of 10 training sessions before their [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June that year. According to Hunter, the first ring they built tended to collapse after bumps. Their second, improved ring was Chris's birthday gift from his father.
 
-#### 2016: The peak year
+### 2016: The peak year
 
 DFW held 10 shows in 2016, some of them sideshows to community festivals in smaller towns and villages around Toruń. Others were held at various local high schools, often to an indifferent audience. In June, [Norris](@/w/isnorr.md) joined their roster, appearing in every event since then. [Rob Scaffold](@/w/rob-scaffold.md) debuted in August, then Faust in November - all coming from the backyard-era [PpW](@/o/ppw.md).
 
 An interesting event was [Lesson of Respect](@/e/dfw/2016-10-29-dfw-lesson-of-respect.md), with an audience of mostly schoolchildren, held in Toruń's historical Artus Court. Norris, a teacher in real life, was clearly the kids' favorite in his superhero character.
 
-#### 2017: Slower but bolder
+### 2017: Slower but bolder
 
 The next year only saw six DFW shows, some with as many as five matches on the card (whereas in the previous years three matches were typical). DFW gained its first female wrestler, who debuted in the ring on their [Valentine's day show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md). More characters from the Polish scene appeared: PpW's [Steven Strong](@/w/biesiad.md) at that same show, later joined by [Cade Bruce](@/w/mister-z.md).
 
 However, later in the year, two important characters left to subsequently appear in [MZW](@/o/mzw.md): [Charlie](@/w/madman-charlie.md) and [Revage](@/w/rafael-kid.md), the DFW Champion at the time. On October 29th, Hunter posted about the organization suspending its activity.
 
-#### 2018: Final shows, on-line activity
+### 2018: Final shows, on-line activity
 
 Despite the suspension, there were two small events held in 2018. One was a gauntlet match for the vacant [DFW Championship](@/c/dfw-championship.md), and the other, with only two matches, was a sideshow to a community festival.
 
