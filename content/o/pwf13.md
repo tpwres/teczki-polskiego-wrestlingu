@@ -41,11 +41,14 @@ PWF's website lists 10 shows, but the only information given are the names, date
 
 According to the information on the PWF website, the federation planned on hosting two tournaments for their PWF Championship at "Best of the Best" show. They also planned on promoting the Żyrardów Championship, named after their hometown.
 
+## Internet presence
+
+* [Official website](https://polishwrestling.weebly.com/index.html)
+* YouTube: [OfficialPwf](https://www.youtube.com/user/OfficialPwf), without any videos available (as of October 2025)
+
 ## References
 
 * [WrestleFans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=59&t=35583), announcing the creation of the federation
-* [PWF's website on weebly.com](https://polishwrestling.weebly.com/index.html)
-* [PWF's YouTube](https://www.youtube.com/user/OfficialPwf), without any videos available (as of October 2025)
 
 [show-01]: https://polishwrestling.weebly.com/time-of-honor.html
 [show-02]: https://polishwrestling.weebly.com/public-vote.html
