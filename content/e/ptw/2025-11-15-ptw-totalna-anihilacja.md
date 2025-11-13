@@ -21,6 +21,7 @@ toclevel = 2
 * The next day PTW announced the return of The Brave Show, set to open the event.
 * The day after that PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs Italian wrestler Fabio Romano in his Polish debut.
 * On 13.11.2025 PTW published a [post][diana-bedzie] stating that [Diana Strong](@/w/diana-strong.md) will appear at the show with "an important message regarding her future".
+* Later the same day PTW announced [Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md) for the XWP Championship.
 
 ## Predicted card
 
@@ -52,6 +53,10 @@ toclevel = 2
   - nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - g: true
+    nc: upcoming
+- - '[Blaze](@/w/blaze.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - c: XWP Championship
     nc: upcoming
 {% end %}
 

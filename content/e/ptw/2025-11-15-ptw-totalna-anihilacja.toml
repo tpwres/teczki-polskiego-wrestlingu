@@ -32,3 +32,8 @@ source = "Official PTW Facebook"
 path = "diana-strong-in-action.webp"
 caption = "Image announcing [Diana Strong](@/w/diana-strong.md)."
 source = "Official PTW Facebook"
+
+[07]
+path = "blaze-vs-brave.webp"
+caption = "Image announcing [Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md)."
+source = "Official PTW Facebook"
