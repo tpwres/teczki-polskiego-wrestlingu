@@ -24,7 +24,7 @@ The reception of SWF's announcement was rather cold. Attitude forum members poin
 ## Internet presence
 
 * [Official website](https://slavic-wrestling-federation.blogspot.com)
-* Facebook: [SlavicWrestlingFederation](www.facebook.com/slavicwrestlingfederation) (deleted)
+* Facebook: [SlavicWrestlingFederation](https://facebook.com/slavicwrestlingfederation) (deleted)
 
 ## References
 
