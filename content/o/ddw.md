@@ -29,6 +29,11 @@ DDW held a couple of shows cooperating with the Hungarian wrestling scene, most 
 
 When Do Or Die Wrestling became the first professional wrestling promotion in Poland with its own school, it set some ground rules. Due to the fact that previously there were only backyard federations in the country, Don Roid adapted a very conservative regime for his workers, absolutely banning any type of wrestling involvement in Poland outside of DDW. Exclusivity clauses weren't lifted even after the creation of another professional federations, such as [Maniac Zone Wrestling](@/o/mzw.md). This set up a precedent at the Polish wrestling scene, which was followed by every professional promotion in Poland up until 2023, when [PpW](@/o/ppw.md) and MZW co-created their show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
 
+## Internet presence
+
+* Facebook: [DoOrDieWrestling](https://www.facebook.com/DoOrDieWrestling)
+* YouTube: [DDWwrestlingPL](http://www.youtube.com/user/DDWwrestlingPL)
+
 ## Championships
 
 {% championship() %}
@@ -40,6 +45,7 @@ When Do Or Die Wrestling became the first professional wrestling promotion in Po
 
 ### References
 
+* [DDW on CageMatch](https://www.cagematch.net/?id=8&nr=585)
 * [Polish Wrestling History Part 2 on mywrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) (in Polish)
 * [Don Roid's first post on Attitude Forum](https://forum.wrestling.pl/topic/9692-wrestling-in-poland/#comment-87887)
 * [DDW at Mam Talent](https://tvn.pl/programy/mam-talent/ostry-wrestling-czy-teatrzyk-dla-dzieci-ls5895467), a Polish version of the _Got Talent_ format

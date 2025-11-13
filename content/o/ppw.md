@@ -149,6 +149,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 
 ## References
 
+* [PpW on CageMatch](https://www.cagematch.net/?id=8&nr=3787)
 * [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
 * [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
