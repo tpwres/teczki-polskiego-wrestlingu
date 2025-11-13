@@ -1,8 +1,10 @@
 +++
 title = "Polish Wrestling Federation (2013)"
 weight = 0
-template = "org_page.html"
 authors = ["Sewi The Referee", "M3n747"]
+template = "org_page.html"
+[extra]
+toclevel = 3
 [extra]
 hide_roster = true
 hide_events = true
