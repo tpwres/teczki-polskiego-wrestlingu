@@ -2,9 +2,9 @@
 0001 = { path = "justin-joy-vs-shadow.webp", caption = "Image announcing [Justin Joy](@/w/justin-joy.md) vs [Shadow](@/w/shadow.md).", source = "Official MZW Facebook" }
 0002 = { path = "asmund-vs-skullevil.webp", caption = "Image announcing [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/skull-evil.md).", source = "Official MZW Facebook" }
 0003 = { path = "szymon-siwiec-challenge.webp", caption = "Image announcing Szymon Siwiec.", source = "Official MZW Facebook" }
-0004 = { path = "svd-vs-red-thunder.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (w/ [Jędruś Bułecka](@/w/jedrus-bulecka.md)) vs [Red Thunder](@/w/red-thunder.md).", source = "Official MZW Facebook" }
+0004 = { path = "svd-vs-red-thunder.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) vs [Red Thunder](@/w/red-thunder.md).", source = "Official MZW Facebook" }
 0005 = { path = "aleksandra-osowska-vs-dominika-janus.webp", caption = "Image announcing Aleksandra Osowska  vs Dominika Janus.", source = "Official MZW Facebook" }
-0006 = { path = "zeritus.webp", caption = "Image announcing [Zeritus](@/w/zeritus.md) (w/ [Hexia](@/w/hexia.md)) vs ???.", source = "Official MZW Facebook" }
+0006 = { path = "zeritus.webp", caption = "Image announcing [Zeritus](@/w/zeritus.md) (with [Hexia](@/w/hexia.md)) vs ???.", source = "Official MZW Facebook" }
 0007 = { path = "dynamite-dave.webp", caption = "Image announcing [Dynamite Dave](@/w/dynamite-dave.md) vs ???.", source = "Official MZW Facebook" }
 1001 = { path = "black-phantom.webp", caption = "Black Phantom.", source = "Jędruś Bułecka's private archives" }
 1002 = { path = "szymon-siwiec.webp", caption = "[Szymon Siwiec](@/w/szymon-siwiec.md).", source = "Jędruś Bułecka's private archives" }
