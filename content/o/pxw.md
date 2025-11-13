@@ -1,10 +1,8 @@
 +++
 title = "Polish Xtreme Wrestling"
 weight = 0
-authors = ["M3n747", "Krzysztof Zych"]
 template = "org_page.html"
-[extra]
-toclevel = 3
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chrono_root = ["pxw"]
 [extra.gallery]

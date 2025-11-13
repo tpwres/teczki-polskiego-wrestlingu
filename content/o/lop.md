@@ -1,10 +1,8 @@
 +++
 title = "Line of Pro"
 weight = 0
-authors = ["Sewi The Referee"]
 template = "org_page.html"
-[extra]
-toclevel = 3
+authors = ["Sewi The Referee"]
 [taxonomies]
 chrono_root = ["lop"]
 [extra]
