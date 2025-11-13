@@ -25,5 +25,10 @@ source = "Official PTW Facebook"
 
 [05]
 path = "shida-vs-fabio.webp"
-caption = "Image announcing [Miyagi Shida](@/w/miyagi-shida.md) vs Fabio Romano"
+caption = "Image announcing [Miyagi Shida](@/w/miyagi-shida.md) vs Fabio Romano."
+source = "Official PTW Facebook"
+
+[06]
+path = "diana-strong-in-action.webp"
+caption = "Image announcing [Diana Strong](@/w/diana-strong.md)."
 source = "Official PTW Facebook"

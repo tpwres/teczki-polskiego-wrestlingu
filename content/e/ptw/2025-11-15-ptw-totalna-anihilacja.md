@@ -20,6 +20,7 @@ toclevel = 2
 * On 10.11.2025 PTW announced ["Starboy" Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * The next day PTW announced the return of The Brave Show, set to open the event.
 * The day after that PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs Italian wrestler Fabio Romano in his Polish debut.
+* On 13.11.2025 PTW published a [post][diana-bedzie] stating that [Diana Strong](@/w/diana-strong.md) will appear at the show with "an important message regarding her future".
 
 ## Predicted card
 
@@ -49,6 +50,9 @@ toclevel = 2
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - 'Fabio Romano'
   - nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - g: true
+    nc: upcoming
 {% end %}
 
 ## References
@@ -57,3 +61,4 @@ toclevel = 2
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=827086732977304&set=a.136592405360077)
 
 [3-stages-of-arek]: https://www.facebook.com/reel/812902744863234
+[diana-bedzie]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02RFAyguivAfnDKrGQp3miDpVNDBY8C92bkd7jcpcgbzCRdB9MWwHubpcPvfkghKPl
