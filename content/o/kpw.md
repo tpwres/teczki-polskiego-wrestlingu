@@ -105,8 +105,16 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
     Defeated [Bracia Fux](@/tt/bracia-fux.md) ([Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md)) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)
 {% end %}
 
+## Internet presence
+
+* [Official website](https://www.kpwrestling.pl)
+* Facebook: [KPWrestling](https://www.facebook.com/kpwrestling)
+* Instagram: [kpwrestlingpl](https://www.instagram.com/kpwrestlingpl)
+* YouTube: [KombatProWrestling](https://www.youtube.com/@KombatProWrestling)
+
 ### References
 
+* [KPW on CageMatch](https://www.cagematch.net/?id=8&nr=1747)
 * [Video: Top 10 moments of KPW](https://www.youtube.com/watch?v=NeyUetRatMU) by What Is Wrestling
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning White Eagle Wrestling (in Polish)

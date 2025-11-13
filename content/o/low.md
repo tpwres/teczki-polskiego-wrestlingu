@@ -158,6 +158,7 @@ Legacy hinted that they will promote their own championship during multiple live
 
 ## References
 
+* [Legacy on CageMatch](https://www.cagematch.net/?id=8&nr=4159)
 * [Video: Interview with Marco Hammers for Istota Wrestlingu](https://www.youtube.com/watch?v=B7FdcemONxk), where the new wrestling project is first mentioned
 * [Video: LOW reveal trailer][reveal-trailer]
 * [Live Q&A #1][live-qa-1], hosted by ShowOff
