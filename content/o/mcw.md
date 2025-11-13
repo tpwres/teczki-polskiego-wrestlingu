@@ -50,6 +50,12 @@ MCW has one singles championship, which was introduced in late 2019.
   - Defeated [RAV](@/w/rav.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)
 {% end %}
 
+## Internet presence
+
+* Facebook: [MineCityWrestling](https://www.facebook.com/minecitywrestling/)
+* Instagram: [mcwpolska](https://www.instagram.com/mcwpolska/)
+* YouTube: [MCWPolska](https://www.youtube.com/@MCWPolska/featured)
+
 ## References
 
 - [Czas na Polski WRESTLING!](https://web.archive.org/web/20160527112136/http://natlok.pl/czas-na-polski-wrestling/), archived article from natlok.pl
