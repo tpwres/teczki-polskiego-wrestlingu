@@ -4,6 +4,7 @@ weight = 4
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [extra]
+toclevel = 3
 hide_roster = true
 hide_events = true
 [extra.gallery]
