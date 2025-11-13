@@ -73,11 +73,14 @@ DFW had one singles championship, introduced and awarded at [Tournament of Dream
 
 Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for the [Zieloni GNG Championship](@/tt/zieloni.md), and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
+## Internet presence
+
+* Facebook: [DreamFactoryWrestling](https://www.facebook.com/DreamFactoryWrestling)
+* Instagram: [dreamfactorywrestling](https://www.instagram.com/dreamfactorywrestling/)
+* YouTube: [DreamFactoryWrestling](https://www.youtube.com/@DreamFactoryWrestling)
+
 ## References
 
-* [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
-* [DFW's Facebook page](https://www.facebook.com/DreamFactoryWrestling)
-* [DFW's Instagram profile](https://www.instagram.com/dreamfactorywrestling/)
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
 * [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)

@@ -44,8 +44,11 @@ Toruń Wrestling Federation promoted four Championships in their history:
 - Wrzosy Championship - active some time around March to June 2012, with [Small Jumper](@/w/small-jumper.md) being the sole recognized Champion. Named after Toruń's northernmost district.
 - TWF Tag Team Championship - active in June 2012. Won by "Młodzi Gniewni" ([Thunder](@/w/thunder.md) and [Twister](@/w/twister.md)) and never officialy defended.
 
+## Internet presence
+
+* Facebook: [TorunWrestlingFederation](https://www.facebook.com/TorunWrestlingFederation/)
+
 ## References
 
 * [TWF website](https://web.archive.org/web/20111002095507/http://www.twf.npx.pl/news.php) on Archive.org (from 2011)
 * [TWF website](https://web.archive.org/web/20120814065916/http://www.twf.npx.pl/news.php) on Archive.org (from August 2012)
-* [TWF Facebook fanpage](https://www.facebook.com/TorunWrestlingFederation/?locale=pl_PL)
