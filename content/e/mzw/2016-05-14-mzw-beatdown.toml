@@ -1,4 +1,11 @@
 0000 = { path = "plakat.webp", caption = "[Justin Joy](@/w/justin-joy.md) on the offical poster.", source = "Official MZW Facebook" }
+0001 = { path = "justin-joy-vs-shadow.webp", caption = "Image announcing [Justin Joy](@/w/justin-joy.md) vs [Shadow](@/w/shadow.md).", source = "Official MZW Facebook" }
+0002 = { path = "asmund-vs-skullevil.webp", caption = "Image announcing [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/skull-evil.md).", source = "Official MZW Facebook" }
+0003 = { path = "szymon-siwiec-challenge.webp", caption = "Image announcing Szymon Siwiec.", source = "Official MZW Facebook" }
+0004 = { path = "svd-vs-red-thunder.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (w/ [Jędruś Bułecka](@/w/jedrus-bulecka.md)) vs [Red Thunder](@/w/red-thunder.md).", source = "Official MZW Facebook" }
+0005 = { path = "aleksandra-osowska-vs-dominika-janus.webp", caption = "Image announcing Aleksandra Osowska  vs Dominika Janus.", source = "Official MZW Facebook" }
+0006 = { path = "zeritus.webp", caption = "Image announcing [Zeritus](@/w/zeritus.md) (w/ [Hexia](@/w/hexia.md)) vs ???.", source = "Official MZW Facebook" }
+0007 = { path = "dynamite-dave.webp", caption = "Image announcing [Dynamite Dave](@/w/dynamite-dave.md) vs ???.", source = "Official MZW Facebook" }
 1001 = { path = "black-phantom.webp", caption = "Black Phantom.", source = "Jędruś Bułecka's private archives" }
 1002 = { path = "szymon-siwiec.webp", caption = "[Szymon Siwiec](@/w/szymon-siwiec.md).", source = "Jędruś Bułecka's private archives" }
 1003 = { path = "szymon-i-manny.webp", caption = "Szymon Siwiec delivers a promo. In the back stands referee [Manny](@/w/manny.md).", source = "Jędruś Bułecka's private archives" }
@@ -25,11 +32,12 @@
 6007 = { path = "pierwsi-mistrzowie-tt-polski.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md), Poland's first tag team champions.", source = "Jędruś Bułecka's private archives" }
 6008 = { path = "zbojnicy-z-pasami.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) show off their titles.", source = "Jędruś Bułecka's private archives" }
 6009 = { path = "zbojecka-piatka.webp", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) high-fives young fans. Behind him are Kripto and referee Manny.", source = "Jędruś Bułecka's private archives" }
-7001 = { path = "a-tera-bedzie-na-powaznie.webp", caption = "Aleksandra Osowska vs Sandra Michalak.", source = "Jędruś Bułecka's private archives" }
+7001 = { path = "a-tera-bedzie-na-powaznie.webp", caption = "Aleksandra Osowska vs ~Dominika Janus~ Sandra Michalak.", source = "Jędruś Bułecka's private archives" }
 7002 = { path = "aleksandra-osowska.webp", caption = "Aleksandra Osowska has her protective helmet adjusted before the fight.", source = "Jędruś Bułecka's private archives" }
-7003 = { path = "high-kick.webp", caption = "Sandra Michalak hits Aleksandra Osowska with a high kick.", source = "Jędruś Bułecka's private archives" }
-7004 = { path = "right-jab.webp", caption = "Aleksandra Osowska retaliates with a right jab to the jaw.", source = "Jędruś Bułecka's private archives" }
-7005 = { path = "ola-wins.webp", caption = "Manny declares Aleksandra Osowska the winner.", source = "Jędruś Bułecka's private archives" }
+7003 = { path = "sandra-michalak.webp", caption = "Sadra Michalak puts on the gloves.", source = "Official MZW Facebook" }
+7004 = { path = "high-kick.webp", caption = "Sandra Michalak hits Aleksandra Osowska with a high kick.", source = "Jędruś Bułecka's private archives" }
+7005 = { path = "right-jab.webp", caption = "Aleksandra Osowska retaliates with a right jab to the jaw.", source = "Jędruś Bułecka's private archives" }
+7006 = { path = "ola-wins.webp", caption = "Manny declares Aleksandra Osowska the winner.", source = "Jędruś Bułecka's private archives" }
 8001 = { path = "czas-ludzi-cienia.webp", caption = "[Shadow's](@/w/shadow.md) entrance.", source = "Jędruś Bułecka's private archives" }
 8002 = { path = "pas-wiekszy-niz-gacie.webp", caption = "[Justin Joy](@/w/justin-joy.md) shows off his [MZW Championship](@/c/mzw-championship.md).", source = "Jędruś Bułecka's private archives" }
 8003 = { path = "maniek.webp", caption = "Referee [Manny](@/w/manny.md) with the belt before the match.", source = "Jędruś Bułecka's private archives" }
@@ -41,5 +49,6 @@
 8009 = { path = "slysze-was-ale-nie-widze.webp", caption = "Shadow standing on a basketball hoop.", source = "Jędruś Bułecka's private archives" }
 8010 = { path = "i-za-trzy-punkty.webp", caption = "[Shadow](@/w/shadow.md) jumps from the hoop.", source = "Jędruś Bułecka's private archives" }
 8011 = { path = "pasi-mu-ten-pas.webp", caption = "[Shadow](@/w/shadow.md) with the newly-won [MZW Championship](@/c/mzw-championship.md).", source = "Jędruś Bułecka's private archives" }
-9001 = { path = "2016-05-14-mzw-beatdown-dvd-front.jpg", caption = "Front cover of the official DVD with the event, featuring [Justin Joy](@/w/justin-joy.md).", source = "Showoff @ Twitter" }
-9002 = { path = "2016-05-14-mzw-beatdown-dvd-back.jpg", caption = "Back cover of the offical DVD, listing the commentators.", source = "Showoff @ Twitter", skip_art = true  }
+9001 = { path = "om-nom-nom.webp", caption = "[Hexia](@/w/hexia.md) after the show, eyeing a tasty-looking girl. Gretel, probably.", source = "Official MZW Facebook" }
+9002 = { path = "2016-05-14-mzw-beatdown-dvd-front.jpg", caption = "Front cover of the official DVD with the event, featuring [Justin Joy](@/w/justin-joy.md).", source = "Showoff @ Twitter" }
+9003 = { path = "2016-05-14-mzw-beatdown-dvd-back.jpg", caption = "Back cover of the offical DVD, listing the commentators.", source = "Showoff @ Twitter", skip_art = true  }
