@@ -33,7 +33,7 @@ The championships promoted by PXW were:
 
 In early 2013, a popular Polish hip-hop artist O.S.T.R. released a [music video][ostry] featuring PXW wrestlers, such as [Manny](@/w/manny.md), [Black Joker](@/w/lider.md), [Terry Shadow](@/w/shadow.md), [Mr. Fitness](@/w/szymon-siwiec.md) and others.
 
-### References
+## References
 
 * [PXW at Wrestlefans forum](https://wrestlefans.pl/forum/viewforum.php?f=247)
 * [Video: PXW in TVP Info](https://www.youtube.com/watch?v=gupd6EZHKTE) (in Polish)

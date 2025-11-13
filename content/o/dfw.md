@@ -60,7 +60,7 @@ DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth D
 
 After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school; it later became known that they included [Amisz](@/w/axel-fox.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md). All four then joined MZW, and later PpW. While Revage and Norris have since retired, Amisz and Charlie are still active - the former wrestles for PpW and [Legacy of Wrestling](@/o/low.md), while the latter is one of PpW's referees (and recently, also Legacy's).
 
-### Championships
+## Championships
 
 DFW had one singles championship, introduced and awarded at [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was Chris Hunter.
 
@@ -73,7 +73,7 @@ DFW had one singles championship, introduced and awarded at [Tournament of Dream
 
 Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for the [Zieloni GNG Championship](@/tt/zieloni.md), and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
-### References
+## References
 
 * [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
 * [DFW's Facebook page](https://www.facebook.com/DreamFactoryWrestling)

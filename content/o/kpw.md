@@ -112,7 +112,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 * Instagram: [kpwrestlingpl](https://www.instagram.com/kpwrestlingpl)
 * YouTube: [KombatProWrestling](https://www.youtube.com/@KombatProWrestling)
 
-### References
+## References
 
 * [KPW on CageMatch](https://www.cagematch.net/?id=8&nr=1747)
 * [Video: Top 10 moments of KPW](https://www.youtube.com/watch?v=NeyUetRatMU) by What Is Wrestling
