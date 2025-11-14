@@ -39,7 +39,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - '[Lady Killer](@/w/boro.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Damien Rothschild](@/w/damien-rothschild.md)'
-  - Demon
+  - Démon
   - Denim
   - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - Ezeny
