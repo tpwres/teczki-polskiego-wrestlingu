@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-KPW Arena XXX: Dekada (_The Decade_) is an upcoming show by [Kombat Pro Wrestling](@/o/kpw.md). It marks the 10th anniversary of the promotion - KPW's [first event](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md) took place exactly 10 years prior, to the day.
+KPW Arena XXX: Dekada (_The Decade_) was a show by [Kombat Pro Wrestling](@/o/kpw.md). It marks the 10th anniversary of the promotion - KPW's [first event](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md) took place exactly 10 years prior, to the day.
 
 This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.md) and [Arena X](@/e/kpw/2018-05-26-kpw-arena-x.md), to use a Roman numeral.
 
@@ -26,18 +26,34 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
   - 11.11: Miserable-looking [Chemik](@/w/chemik.md) said that "something sad" is going to happen at the show.
   - 12.11: [Hans Schulte](@/w/hans-schulte.md) [advised][nieoczekiwany-hans] the fans to "expect the unexpected".
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Zefir](@/w/zefir.md)(c)'
-  - '[Leon Lato](@/w/leon-lato.md)(c)'
+{% card() %}
+- - '[Leon Lato](@/w/leon-lato.md)(c)'
+  - '[Zefir](@/w/zefir.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md) & [KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
     s: Winner Takes All Match
-    nc: upcoming
+    r: DQ
+- - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - 'Rookie Three'
+- - '[Filip Fux](@/w/filip-fux.md)'
+  - 'Friedrich Pohlmann'
+- - '[Tomczak](@/w/tomczak.md)'
+  - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
+- - '[Michał Fux](@/w/michal-fux.md)'
+  - 'Erik Asmus'
+- - 'Rookie One'
+  - '[Chemik](@/w/chemik.md)'
+- - '[Team Visegrad](@/tt/team-visegrad.md): [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)(c)'
+  - '[Greg](@/w/greg.md) & [Ron Corvus](@/w/ron-corvus.md)'
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+- - '[Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Fynn Freyhart](@/w/fynn-freyhart.md)'
+  - g: '10th anniversary celebration'
 {% end %}
 
 ### Recap
-* TBD
+* Present in the audience was [Marco Hammers](@/w/marco-hammers.md) with [Legacy's](@/o/low.md) Merch Stand Ania.
+* There was a ladder stashed under the ring, but it wasn't used during the show.
 
 ## References
 

@@ -156,6 +156,10 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)'
     ed: 2025-08-22
+- - 'Team Visegrad: David Oliwa & Ricky Sky (c)'
+  - '[Greg](@/w/greg.md) & [Ron Corvus](@/w/ron-corvus.md)'
+    en: '[KPW Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md)'
+    ed: 2025-11-14
 {% end %}
 
 ## References
