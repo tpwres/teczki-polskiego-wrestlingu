@@ -30,7 +30,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Triple Threat Match'
 - - 'Sebastien'
-  - 'Demon'
+  - 'Démon'
 - - '[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)'
   - '[Amisz](@/w/axel-fox.md)'
 - - '[Asmund](@/w/asmund.md)'
