@@ -46,7 +46,8 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
   - '[Chemik](@/w/chemik.md)'
 - - '[Team Visegrad](@/tt/team-visegrad.md): [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)(c)'
   - '[Greg](@/w/greg.md) & [Ron Corvus](@/w/ron-corvus.md)'
-  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+  - s: Tag Team Match
+    c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - '[Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Fynn Freyhart](@/w/fynn-freyhart.md)'
   - g: '10th anniversary celebration'
 {% end %}
