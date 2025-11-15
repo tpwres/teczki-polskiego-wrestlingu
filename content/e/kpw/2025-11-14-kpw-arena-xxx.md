@@ -57,7 +57,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 - - '[David Oliwa](@/w/david-oliwa.md)'
   - '[Ricky Sky](@/w/ricky-sky.md)'
   - '[Greg](@/w/greg.md)'
-  - g: Oliwa want to celebrate his own self, Greg interrupts him and challanges for the Tag Team title.
+  - g: Oliwa wants to celebrate his own story, Greg interrupts him and challenges for the Tag Team title.
 - - '[Team Visegrad](@/tt/team-visegrad.md): [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)(c)'
   - '[Greg](@/w/greg.md) & [Ron Corvus](@/w/ron-corvus.md)'
   - s: Tag Team Match
