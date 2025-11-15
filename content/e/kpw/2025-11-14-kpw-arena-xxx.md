@@ -65,9 +65,9 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
   - '[Ricky Sky](@/w/ricky-sky.md)'
   - '[Zefir](@/w/zefir.md)'
   - '[Chemik](@/w/chemik.md)'
-  - '[Leon Lato](@/w/leon-lato.md)
+  - '[Leon Lato](@/w/leon-lato.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
-  - '[Filip Fux](@/w/filip-fux.md)
+  - '[Filip Fux](@/w/filip-fux.md)'
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
