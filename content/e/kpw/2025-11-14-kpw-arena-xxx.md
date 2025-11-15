@@ -29,6 +29,9 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 ## Card
 
 {% card() %}
+- - '[Zefir](@/w/zefir.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - g: Zefir's cuts his first promo, Leon agrees to fight him without delay.
 - - '[Leon Lato](@/w/leon-lato.md)(c)'
   - '[Zefir](@/w/zefir.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md) & [KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
@@ -36,6 +39,8 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
     r: DQ
 - - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - 'Rookie Three'
+- - '[Chemik](@/w/chemik.md)'
+  - g: Chemik retires from in-ring competition.
 - - '[Filip Fux](@/w/filip-fux.md)'
   - 'Friedrich Pohlmann'
 - - '[Tomczak](@/w/tomczak.md)'
@@ -50,9 +55,23 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
     c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
 - - '[Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Fynn Freyhart](@/w/fynn-freyhart.md)'
   - g: '10th anniversary celebration'
+- credits:
+    Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
+    Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
 ### Recap
+* [Kinga Miotke](@/w/kinga-miotke.md) opened the show and introduced [Zefir](@/w/zefir.md), who came out and cut a lengthy promo stating that after proving himself and winning the [KPW Championship](@/c/kpw-championship.md), he now has something to say and that he intends for his name to be forever associated with the title.
+* [Leon Lato](@/w/leon-lato.md) then came out to the ring and told Zefir "to his face… or rather, to his mask" that their fight had nothing to do with their friendship, but rather it was about proving who's the best. He then told Zefir to be ready for him, to which Zefir answered that he was - and since Leon was as well, the two agreed to fight right away.
+* [Krystian Czekaj](@/w/krystian-czekaj.md) was greeted with ["sędzia chuj"](@/a/polish-wrestling-chants.md#referee) chants as soon as Zefir asked him into the ring.
+* During the match, Erik Asmus and Friedrich Pohlmann ([Die Ordnung 2.0](@/w/die-ordnung.md) ran into the ring and attacked the contenders, causing the match to end in a DQ in Leon's favour. They were soon chased off by [Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md). Afterwards, [Hans Schulte](@/w/hans-schulte.md) appeared on the screen and congratulated his countrymen for a job well done.
+* [Eryk Lesak](@/w/eryk-lesak.md) then came into the ring carrying his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) and said that had it not been for the Germans, he would be the next owner of both titles. Rookie Three (standing outside the ring but told by Lesak to come inside because so that he could hear him better), corrected him by pointing out that the contract is only valid for one championship title. He then added that Lesak had missed his chance by taking too long, which angered Eryk and prompted him to challenge Rookie Three to a fight. Victorious, Lesak left the arena carrying unconscious Rookie Three over his shoulder.
+* Next, [Chemik](@/w/chemik.md) came out and cut a promo (constantly interrupted by fans) saying that as long as Zefir and Leon Lato are Champions, his foot won't stand in the KPW ring. He punctuated his words by leaving his wrestling boots in the ring upon leaving it.
+* 
+* 
+
+
+
 * Present in the audience was [Marco Hammers](@/w/marco-hammers.md) with [Legacy's](@/o/low.md) Merch Stand Ania.
 * There was a ladder stashed under the ring, but it wasn't used during the show.
 
