@@ -1,2 +1,38 @@
 0000 = { path = "kpw-arena-xxx-plakat.webp", caption = "Official poster. Top: [David Oliwa](@/w/david-oliwa.md); middle: [Krystian Malinowski](@/w/krystian-malinowski.md), [Eryk Lesak](@/w/eryk-lesak.md); bottom: [Michał Fux](@/w/michal-fux.md), [Zefir](@/w/zefir.md), [Tomczak](@/w/tomczak.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 0001 = { path = "czemu-mistrze-pas-w-tornistrze.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
+
+0101 = { path = "prawilny-mistrz-kpw.webp", caption = "[Zefir's](@/w/zefir.md) entrance. Behind him stands Kinga Miotke.", source = "M.E.G." }
+0102 = { path = "krystian-czekaj-obojga-pasow.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) presents the [KPW Championship](@/c/kpw-championship.md) and the [KPW OldTown Championship](@/c/kpw-old-town-championship.md).", source = "M3n747" }
+0103 = { path = "twarza-w-maske.webp", caption = "Zefir and Leon Lato face each other…", source = "M3n747" }
+0104 = { path = "die-ordnung-zwei-komma-null.webp", caption = "…but are attacked by Friedrich Pohlmann and Erik Asmus…", source = "M3n747" }
+0105 = { path = "cant-spell-niemiec-without-nie.webp", caption = "…who in turn are chased off by Filip Fux and Michał Fux.", source = "M3n747" }
+
+0201 = { path = "4-kilogramy-obywatela-mniej.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) misses his chance to use the championship contract.", source = "M3n747" }
+0202 = { path = "eryk-lesak-gnebi-przyszlosc-federacji-oraz-narodu.webp", caption = "Lesak vents his frustration on Rookie Three.", source = "M3n747" }
+0203 = { path = "adept-leci-na-lesaka.webp", caption = "Rookie Three launches himself at Eryk Lesak.", source = "M3n747" }
+0204 = { path = "i-usmiech-do-kamery-poprosze.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) emerges victorious.", source = "M3n747" }
+
+0301 = { path = "blue-collar-worker.webp", caption = "[Chemik](@/w/chemik.md) cuts a promo. To the right stands Kinga Miotke.", source = "M.E.G." }
+0302 = { path = "kozaczki-z-zalando.webp", caption = "Chemik's boots left in the ring.", source = "M3n747" }
+
+0401 = { path = "panie-a-za-czym-ta-kolejka.webp", caption = "Friedrich Pohlmann taunts the crowd. Behind him stands Kinga Miotke, behind her Krystian Czekaj enters the ring.", source = "M.E.G." }
+0402 = { path = "mensch-aber-nicht-ins-watroba", caption = "Filip Fux pushes his foot into Friedrich Pohlmann's stomach, eliciting a stoic reaction from Krystian Czekaj.", source = "M3n747" }
+0403 = { path = "kazdy-tani-horror-ever.webp", caption = "[Filip Fux](@/w/filip-fux.md) celebrated his victory, while [Tomczak](@/w/tomczak.md) silently emerges behind him from out of nowhere.", source = "M3n747" }
+
+0501 = { path = ".webp", caption = ".", source = "M3n747" }
+0502 = { path = ".webp", caption = ".", source = "M3n747" }
+0503 = { path = ".webp", caption = ".", source = "M3n747" }
+0504 = { path = ".webp", caption = ".", source = "M3n747" }
+0505 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+0601 = { path = ".webp", caption = ".", source = "M3n747" }
+0701 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0901 = { path = ".webp", caption = ".", source = "M3n747" }
+1001 = { path = ".webp", caption = ".", source = "M3n747" }
+1101 = { path = ".webp", caption = ".", source = "M3n747" }
+1201 = { path = ".webp", caption = ".", source = "M3n747" }
+1301 = { path = ".webp", caption = ".", source = "M3n747" }
