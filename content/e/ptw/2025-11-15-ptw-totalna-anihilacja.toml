@@ -37,3 +37,8 @@ source = "Official PTW Facebook"
 path = "blaze-vs-brave.webp"
 caption = "Image announcing [Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md)."
 source = "Official PTW Facebook"
+
+[08]
+path = "duze-ilosci-naraz-okoniow.webp"
+caption = 'Image announcing [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).'
+source = "Official PTW Facebook"
