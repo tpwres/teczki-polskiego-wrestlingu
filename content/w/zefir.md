@@ -66,7 +66,7 @@ During the closing segment of Arena XXX - the celebration of KPW's 10th annivers
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Championship](@/c/kpw-championship.md) (1 time, current)
+  - [KPW Championship](@/c/kpw-championship.md) (1 time)
 
 ## Internet presence
 

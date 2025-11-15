@@ -268,6 +268,10 @@ Both defenses took place during events held by Bologna Wrestling Team.
     r: DQ
 {% end %}
 
+**TOTAL:** 84 days.
+
+At Arena XXX, [Krystian Malinowski](@/w/krystian-malinowski.md) stripped [Zefir](@/w/zefir.md) of his title and fired him from KPW for the alleged attack on his person at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md).
+
 ## References
 
 * [Title history](https://kpwrestling.pl/kpw-championship/) on KPW's website
