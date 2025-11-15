@@ -69,7 +69,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
   - '[Michał Fux](@/w/michal-fux.md)'
   - '[Filip Fux](@/w/filip-fux.md)
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - '[Fynn Freyhart](@/w/fynn-freyhart.md)
+  - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
   - g: '10th anniversary celebration; Malinowski fires Zefir.'
 - credits:
