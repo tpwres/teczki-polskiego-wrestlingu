@@ -48,10 +48,15 @@ At [Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Malinowski was attack
     {{ music(spot='1hlveB9M6ijHZRbzZ2teyh')}}
     {{ music(apple='1093420230?i=1093420483')}}
   - "Retro Funky (Sundance Remix)" by Perséphone
-    {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
+    {{ org_badge(orgs=['kpw']) }} (2023-2025) <br>
     {{ music(yt='0-c7kXpRVIQ')}}
     {{ music(spot='1eEqg0aPf3BoaBl0I4Tuln')}}
     {{ music(apple='1438527375?i=1438527378')}}
+  - "Skynet" by Karl Casey
+    {{ org_badge(orgs=['kpw']) }} (2025-present) <br>
+    {{ music(yt='wr8EDJrxtpw')}}
+    {{ music(spot='0yabVh1g4Oq577nO89jve3')}}
+    {{ music(apple='1538394591?i=1538394598')}}
 
 ## Internet presence
 
