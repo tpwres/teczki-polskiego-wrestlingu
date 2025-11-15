@@ -4,6 +4,7 @@ weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [extra]
+toclevel = 3
 hide_roster = true
 hide_events = true
 [extra.gallery]
@@ -61,7 +62,10 @@ The first fully Ewenement-grown talent who got a chance to debut at the Polish s
 
 Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a quick succession. [Oskar Alexander](@/w/oskar-alexander.md) made his [MZW](@/o/mzw.md) debut in a losing effort against [Shadow](@/w/shadow.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), while [Bartosz Plata](@/w/plata.md) debuted in [Legacy of Wrestling](@/o/low.md) as a part of a losing team in a six-man tag team main event of [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 
-## References
+## Internet presence
 
 * [Facebook Page](https://www.facebook.com/profile.php?id=61560762345187)
+
+## References
+
 * [Facebook post announcing Axel Fox as the newest coach](https://www.facebook.com/share/p/TsfNb5VYKubju7pE/)

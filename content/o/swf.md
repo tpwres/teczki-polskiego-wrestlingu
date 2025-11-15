@@ -21,8 +21,11 @@ SWF wanted to promote a new style of "Eastern, Slavic wrestling". They were look
 
 The reception of SWF's announcement was rather cold. Attitude forum members pointed out the lack of basic information about the group or recruitment, and many other flaws. User celticconon never responded to many questions asked by the public, as the project eventually folded after just over a month.
 
+## Internet presence
+
+* [Official website](https://slavic-wrestling-federation.blogspot.com)
+* Facebook: [SlavicWrestlingFederation](https://facebook.com/slavicwrestlingfederation) (deleted)
+
 ## References
 
 * [Attitude forum post](https://forum.wrestling.pl/topic/35747-federacja-w-warszawie)
-* [SWF's Facebook profile](www.facebook.com/slavicwrestlingfederation) (deleted)
-* [SWF's website](https://slavic-wrestling-federation.blogspot.com)

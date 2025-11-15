@@ -15,9 +15,8 @@ Splat!FilmFest is an annual genre film festival, which focuses on horrors, thril
 In 2024 and 2025 Splat!FilmFest included wrestling in its programme. 2024 saw a non-canon [PpW](@/o/ppw.md) show accompany the screenings, held directly in the lounge area between screening rooms.
 In 2025, two wrestling-related documentaries were screened: [Lunatic][imdb-lunatic], about wrestler Luna Vachon, and a short titled ["BUMP"](@/a/bump.md) by photographer Bartosz Mateńko. For both films this was their Polish premiere. PpW once again held a Halloween-themed wrestling showcase in the same location.
 
-## References
+## Internet presence
 
 * [Splat!FilmFest site](//splatfilmfest.com)
-
 
 [imdb-lunatic]: https://www.imdb.com/title/tt19729990/

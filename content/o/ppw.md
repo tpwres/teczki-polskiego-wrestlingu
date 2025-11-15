@@ -24,7 +24,7 @@ PpW initially used the terms "Hardcore Wrestling" or "Hybrid Wrestling", but beg
 
 ## History
 
-#### 2010: The backyard years
+### 2010: The backyard years
 
 PpW dates its origins back to 2010, when a group of teenage friends and classmates started emulating their favourite wrestlers. The original arena for their matches was a public playground, and later a common yard which gave the organization its first name: Polski Podwórkowy Wrestling (_Polish Yard Wrestling_ - note that backyards, in the Anglo-Saxon world defined as private enclosed outdoor areas behind terraced houses, are not common in Poland).
 Until about 2014 the primary location was placed next to the intersection of Kuratowskiego and Arbuzowa streets in Warsaw. The name for this venue was [Placyk PPW](http://ppw-fandom.tpwres.pl/placyk-ppw), and it had no proper ring.
@@ -37,7 +37,7 @@ An actual ring, though undersized, was created in 2017, designed by [Rob Scaffol
 
 Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, many of which can be traced back to [DDW](@/o/ddw.md).
 
-#### 2019: Going pro
+### 2019: Going pro
 
 Probably the first event that PpW held for an open audience (as opposed to just friends and insiders to the backyard scene) was 2019's [2Koła to my nie zarobimy](@/e/ppw/2019-12-07-ppw-2kola-to-my-nie-zarobimy.md), followed by [Brawl For The Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md).
 The latter event began PpW's pro era. It was the first one to invite foreign guests, and PpW's wrestlers started receiving professional training: first from [Jacob Crane](@/w/jacob-crane.md) and later also by the invited guests who would hold training sessions.
@@ -48,7 +48,7 @@ In 2023 PpW was recognized by Cagematch, and most of its events and wrestlers ha
 
 In early December 2024, YouTube channel Newonce uploaded an [interview][newonce-pt-1] with some of the PpW talent, recorded around the time of [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) and in the same location. In it, [Mister Z](@/w/mister-z.md) recalled that he had damaged [Rob Scaffold's](@/w/rob-scaffold.md) spine by performing a Piledriver on him. This prompted Z to realise that the backyard iteration of PpW needed to be destroyed and rebuilt as a professional promotion in order for the group to be able to carry on.
 
-#### 2023: Prime Time Transfers, professional ring and expansion
+### 2023: Prime Time Transfers, professional ring and expansion
 
 In 2023, due to tensions in [PTW](@/o/ptw.md), a number of its wrestlers appeared on PpW shows, quitting their promotion openly and criticizing [its owner](@/w/pan-pawlowski.md) on social media. This further boosted PpW's image on the Polish scene as a place dedicated to the joy of wrestling and not commercial endeavors. Later, PpW named this event and the wrestlers "Prime Time Transfers". The first one to appear was [Rafi](@/w/rafi.md), followed by [Samson](@/w/samson.md), [Gabriel Queen](@/w/gabriel-queen.md) and later his tag team partner [Vic Golden](@/w/vic-golden.md).
 
@@ -79,18 +79,18 @@ In March 2024 it has been restored from a backup, in a text-only form, and can b
 
 ## Botchamania
 
-#### Biesiad vs Osamu
+### Biesiad vs Osamu
 
 During a match at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
 
-#### Goblin vs MBM
+### Goblin vs MBM
 
 The second botch to make it was the table spot from [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), from the El Paso Outlaw Match between [Goblin](@/w/goblin.md) and Belgian wrestler MBM.
 With Goblin lying on a table, MBM climbed the second turnbuckle, put on a pink cowboy hat, straddled a toy hobby horse and jumped onto the table, which failed to break.
 After the fight, both agreed to redo the spot, to the audience's great applause.
 This failed spot, and the second attempt were featured in [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516), at the 8:36 mark.
 
-#### Critical 420 Ladder Match
+### Critical 420 Ladder Match
 
 PpW's third Botchamania entry was from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). In the four-man ladder match, just after the opening sequence, Benny Bachhus accidentally grabs the trophy as he falls to the ground when his ladder was knocked. The faces then signal the referee to hang it up again and the match is restarted.
 This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwafo&t=730s), at the 12:10 mark. In another botch, this time on Botchamania's end, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [similarly-named event](@/e/ptw/2024-05-11-ptw-6.md).
