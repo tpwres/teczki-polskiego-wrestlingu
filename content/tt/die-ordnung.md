@@ -20,7 +20,7 @@ They feuded over the titles with Bracia Fux, defending them successfully on the 
 
 As a team, they employed straightforward, classic foreign heel gimmicks, especially playing up the "evil German" stereotype.
 
-The 2025 [Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md) event saw the debut of "Die Ordnung 2.0", consisting of Franz & Friedrich from Nordisch Fight Club, a Hamburg-based martial arts dojo that also trains pro-wrestlers.
+The 2025 [Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md) event saw the debut of "Die Ordnung 2.0", consisting of Franz & Friedrich from Nordisch Fight Club, a Hamburg-based martial arts dojo that also trains pro-wrestlers. Later at [KPW Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md) Die Ordnung 2.0, this time made up of Friedrich Pohlmann and Erik Asmus, interfered in a match between [Zefir](@/w/zefir.md) and [Leon Lato](@/w/leon-lato.md).
 
 ## Members
 

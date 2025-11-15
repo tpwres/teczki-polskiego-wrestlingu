@@ -31,7 +31,9 @@ Zefir usually fights solo, although a few times he formed a tag team with [Leon 
 
 Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [Michał Fux](@/w/michal-fux.md) were the only two KPW wrestlers who never missed a show since their debuts, but this streak was broken when Zefir sustained an injury that forced him to sit out [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). During his few years in KPW he managed to achieve a solid midcard position within the company.
 
-At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Zefir defeated [Hans Schulte](@/w/hans-schulte.md), becoming the new [KPW Champion](@/c/kpw-championship.md). After his victory he took a microphone and spoke for the very first time, declaring simply "I did it!"
+At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Zefir defeated [Hans Schulte](@/w/hans-schulte.md), becoming the new [KPW Champion](@/c/kpw-championship.md). After his victory he took a microphone and spoke for the very first time, declaring simply "I did it!" Later, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md), Zefir cut a couple of lengthy promos.
+
+During the closing segment of Arena XXX - the celebration of KPW's 10th anniversary - [Krystian Malinowski](@/w/krystian-malinowski.md), who'd made himself sure that it was the masked luchador who'd attacked him at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), fired Zefir from KPW and stripped him of his title.
 
 ## In wrestling
 
@@ -64,7 +66,7 @@ At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Zefir de
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Championship](@/c/kpw-championship.md) (1 time, current)
+  - [KPW Championship](@/c/kpw-championship.md) (1 time)
 
 ## Internet presence
 
