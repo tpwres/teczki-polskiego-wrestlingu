@@ -61,7 +61,16 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
   - '[Greg](@/w/greg.md) & [Ron Corvus](@/w/ron-corvus.md)'
   - s: Tag Team Match
     c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-- - '[Zefir](@/w/zefir.md), [Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Filip Fux](@/w/filip-fux.md), [Fynn Freyhart](@/w/fynn-freyhart.md), [Krystian Malinowski](@/w/krystian-malinowski.md)'
+- - '[David Oliwa](@/w/david-oliwa.md)'
+  - '[Ricky Sky](@/w/ricky-sky.md)'
+  - '[Zefir](@/w/zefir.md)'
+  - '[Chemik](@/w/chemik.md)'
+  - '[Leon Lato](@/w/leon-lato.md)
+  - '[Michał Fux](@/w/michal-fux.md)'
+  - '[Filip Fux](@/w/filip-fux.md)
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - '[Fynn Freyhart](@/w/fynn-freyhart.md)
+  - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
   - g: '10th anniversary celebration; Malinowski fires Zefir.'
 - credits:
     Referee: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
@@ -81,14 +90,18 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 * As Kinga was heading into the ring following the last match, she was stopped by Rookie One who took her microphone and, alongside Rookie Two, cut a promo accusing Chairman Malinowski of continuing to look the other way as they are still bullied by Tomczak. Malinowski then came out and told them they had their go at Tomczak at Godzina Zero 2025, a chance that they wasted by losing, and he considers the matter closed. However, he decided to play along and asked if there's anyone in the locker room who'd like to fight one of the rookies. Met with silence, Malinowski then offered a monetary bonus to anyone interested in having the match - this time, Chemik came out of the backstage and agreed to come out of retirement (saying that his grandma had died a week prior) and show the rookie his place. After a brief deliberation, Rookie One stayed in the ring and Rookie Two left to observe the action from the outside.
 * Unexpectedly, Chemik lost. After the match he asked Malinowski for the promised money, angering the Chairman who replied that the bonus was meant for winning the fight, not merely stepping into the ring, and that he should cut Chemik's pay by half for such impertinence.
 * [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) came out to the ring with the intention of celebrating Oliwa's person and career. David asked the producer to play a video package of his, but instead [Greg's](@/w/greg.md) music hit and the Pope of Polish Wrestling appeared. An exchange between the two led to Greg challenging [Team Visegrad](@/tt/team-visegrad.md), however Oliwa pointed out that Greg has no friends left in KPW. Greg answered that there is one person, somebody who for a long time had been his enemy: [Ron Corvus](@/w/ron-corvus.md).
-* Following Team Visegrad's victory, Oliwa wanted to get back to playing his video - only to be interrupted again, this time by Zefir. The masked luchador entered the ring carrying a cake with two candles spelling out "10", in honour of KPW's 10th anniversary.
-* 
-* 
-
-
-* [Rosetti](@/w/rosetti.md) and Markus Paskal didn't appear at the show.
+* Following Team Visegrad's victory, Oliwa wanted to get back to playing his video - only to be interrupted again, this time by Zefir. The masked luchador entered the ring carrying a self-made cake with two candles spelling out "10", in honour of KPW's 10th anniversary. Oliwa protested, but Zefir told him to can it and that he, as the most important person in KPW, would conduct the anniversary ceremony.
+* Before he could do anything, Chemik came out, insulted Zefir's confectionery skills and said that if anyone should be celebrated, it's people who are in KPW since the very beginning - such as his own self.
+* At that moment Leon Lato appeared and said that it had been great 10 years, but now Zefir, Leon Lato and the [Fux Brothers](@/tt/bracia-fux.md) would usher in the next 10 years of KPW greatness.
+* This caused the Fux Brothers to come out of the backstage. Michał Fux said that it should be pointed out on the account of the anniversary that it had been them who reigned as Tag Team Champions for over 700 days (much to Oliwa's annoyance), and that he didn't foresee Team Visegrad to carry the belts for long.
+* Next came out Eryk Lesak and said some unfavourable words with regards to Zefir's cake, Zefir himself, Leon's mic skill and the Fux Brothers' title reign, calling Team Visegrad "a real tag team".
+* The next person to appear was Chairman Krystian Malinowski (prompting the audience to chant for [Rosetti](@/w/rosetti.md)) and also briefly spoke ill of Zefir's cake, before getting to the more pressing matter of the anniversary celebration. He said that KPW is a federation with great history and traditions, but most of all with great wrestlers. He then thanked them for what they'd done for KPW over the past 10 years and honoured the past KPW Champions: [Piękny Kawaler](@/w/piekny-kawaler.md), [Ron Corvus](@/w/ron-corvus.md), [Robert Star](@/w/robert-star.md), [Greg](@/w/greg.md), [Red Scorpion](@/w/red-scorpion.md) and [Hans Schulte](@/w/hans-schulte.md) - calling Hans the last Champion to be worthy of the title. He denounced the fact that such times have come when would-be murderer Zefir is the KPW Champion and firmly said that no celebration would take place until "that animal left his ring". Lesak expressed his sycophantic support, and Chemik added that for making a cake like that Zefir should be disciplinarily dismissed. Urged by Malinowski to take the cake and get out, Zefir did indeed take his cake, after which he promptly threw it into the Chairman's face. Shocked, Malinowski just stood there for a long moment before leaving without a word, as the crowd sang ["Sto lat"][sto-lat].
+* With the cake destroyed, Zefir decided to go with "plan B" - he and the Fux Brothers dove under the ring to produce a bottle of champagne and a couple of confetti cannons, while Fynn Freyhart came out of the backstage carrying a couple of boxes. The Brothers fired the confetti over the crowd, while Zefir threw KPW-branded [krówki][krowki] from Fynn's boxes into the audience, and Freyhart sprayed everyone with the champagne.
+* A commemorative video then played on the screen, showing people who had been part of KPW over the past 10 years: [Kamil Aleksander](@/w/kamil-aleksander.md), [Bianca](@/w/bianca.md), [Piękny Kawaler](@/w/piekny-kawaler.md), [Mira](@/w/mira.md), [Boski Ostrowski](@/w/ostrowski.md), [Kaszub](@/w/kaszub.md), [Luxus](@/w/luxus.md), [Robert Star](@/w/robert-star.md), [Krystian Malinowski](@/w/krystian-malinowski.md), [Ron Corvus](@/w/ron-corvus.md), Marek Łojek, [Greg](@/w/greg.md), [Mateusz Kakareko](@/w/mateusz-kakareko.md), [Gracjan Korpo](@/w/gracjan-korpo.md), [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Victor Rosetti](@/w/rosetti.md), [Peter Pannache](@/w/peter-pannache.md), Kamil Leśny, [Sawicki](@/w/sawicki.md), [David Oliwa](@/w/david-oliwa.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Kinga Miotke](@/w/kinga-miotke.md), [Chemik](@/w/chemik.md), [Primate](@/w/primate.md) & [Wild Boar](@/w/wild-boar.md), [Filip ](@/w/filip-fux.md) & [Michał Fux](@/w/michal-fux.md), [Zefir](@/w/zefir.md), [Eryk Lesak](@/w/eryk-lesak.md), [Leon Lato](@/w/leon-lato.md), [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md), [Krystian Czekaj](@/w/krystian-czekaj.md), [Red Scorpion](@/w/red-scorpion.md), [Tomczak](@/w/tomczak.md), [Ricky Sky](@/w/ricky-sky.md), Markus Paskal, and others.
+* Once the video ended, Malinowski returned (having cleaned himself of most of the cake) and confronted Zefir, saying nobody had ever humiliated him like that and that he wouldn't forget this for the rest of his days. As punishment, Malinowski then fired Zefir from KPW (earning him "prezes chuj" - _chairman's a dick_ - chants from the audience) and told the remaining wrestlers to get lost. He then ordered Zefir to give back his KPW Championship, which he very reluctantly did. Malinowski then posed with the Championship for a while, booed by the audience, before calling out "Long live KPW!", slapping his posterior at the crowd and leaving.
+* Rosetti and Markus Paskal didn't appear at the show.
+* There was a ladder stashed under the ring, but it wasn't used at any point.
 * Present in the audience was [Marco Hammers](@/w/marco-hammers.md) with [Legacy's](@/o/low.md) Merch Stand Ania.
-* There was a ladder stashed under the ring, but it wasn't used during the show.
 
 ## References
 
@@ -102,3 +115,5 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 [filip-chce-pasa]: https://www.youtube.com/watch?v=n53ATvTJ2do
 [smutny-chemik]: https://www.youtube.com/watch?v=TqnAe3GOfTY
 [nieoczekiwany-hans]: https://www.youtube.com/watch?v=FH8R0NVCQiM
+[sto-lat]: https://en.wikipedia.org/wiki/Sto_lat
+[krowki]: https://en.wikipedia.org/wiki/Kr%C3%B3wki
