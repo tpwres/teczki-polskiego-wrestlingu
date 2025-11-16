@@ -18,7 +18,7 @@
 
 0501 = { path = "panie-a-za-czym-ta-kolejka.webp", caption = "Friedrich Pohlmann taunts the crowd. Behind him stands Kinga Miotke, behind her Krystian Czekaj enters the ring.", source = "M.E.G." }
 0502 = { path = "mensch-aber-nicht-ins-watroba.webp", caption = "Filip Fux pushes his foot into Friedrich Pohlmann's stomach, eliciting a stoic reaction from Krystian Czekaj.", source = "M3n747" }
-0503 = { path = "pan-zyczy-nozke-czy-karczek", caption = "[Filip Fux](@/w/filip-fux.md) aims to introduce his leg to Friedrich Pohlmann's neck. To the left [Krystian Czekaj](@/w/krystian-czekaj.md) evaluates the situation.", source = "M3n747" }
+0503 = { path = "pan-zyczy-nozke-czy-karczek.webp", caption = "[Filip Fux](@/w/filip-fux.md) aims to introduce his leg to Friedrich Pohlmann's neck. To the left [Krystian Czekaj](@/w/krystian-czekaj.md) evaluates the situation.", source = "M3n747" }
 0504 = { path = "kazdy-tani-horror-ever.webp", caption = "[Filip Fux](@/w/filip-fux.md) celebrated his victory, while [Tomczak](@/w/tomczak.md) silently emerges behind him from out of nowhere.", source = "M3n747" }
 
 0601 = { path = "na-misia.webp", caption = "Tomczak bear-hugs [Fynn Freyhart](@/w/fynn-freyhart.md).", source = "M3n747" }
