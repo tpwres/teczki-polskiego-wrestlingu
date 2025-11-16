@@ -39,7 +39,7 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took pa
 
 ## International wrestling appearances 
 
-From 2025 onwards Eryk made numerous appearances for Finnish federation SLAM Wresltling Entertaiment.
+From 2025 onwards Eryk made numerous appearances for Finnish federation SLAM Wrestling Entertaiment.
 
 ## In wrestling
 
