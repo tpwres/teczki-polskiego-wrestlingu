@@ -19,6 +19,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 * On 10.11.2025 PpW released a [video][lysa-pala] in which [Goblin](@/w/goblin.md) challenged [Olgierd](@/w/olgierd.md) for his title, leaving his opponent the choice of stipulation.
 * On 12.11.2025 PpW published another [video][dila-przerwali], in which [Mister Z](@/w/mister-z.md) put [Vic Golden](@/w/vic-golden.md) in a match with [Gabriel Queen](@/w/gabriel-queen.md), forcing him to accept Queen's Loser Leaves PpW challenge from [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 * Queen vs Golden was officially confirmed on 13.11.2025, with the stipulation expanded to a Loser Leaves PpW Bullrope & Chairs Match.
+* On 14.11.2025 PpW released a [video][lancuchy-szczescia] in which Olgierd, interviewed by [Joker](@/w/joker.md), made his choice of stipulation for his fight against Goblin: a Chains Match. There will be "chains, everything metal, only metal, zero wooden tables, zero kendo sticks". The match was officially confirmed the next day.
 
 ## Predicted card
 
@@ -26,7 +27,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 - - '[Goblin](@/w/goblin.md)(c)'
   - '[Olgierd](@/w/olgierd.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: TBD
+    s: Chains Match
     nc: upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
@@ -47,3 +48,4 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 [st-nicholas-day]: https://en.wikipedia.org/wiki/Saint_Nicholas_Day
 [lysa-pala]: https://www.facebook.com/reel/827053873376334
 [dila-przerwali]: https://www.facebook.com/reel/2365035843937671
+[lancuchy-szczescia]: https://www.facebook.com/reel/1369230331262999
