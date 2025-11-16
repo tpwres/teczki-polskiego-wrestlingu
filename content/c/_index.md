@@ -19,6 +19,7 @@ template = "index.html"
 | 2022 | {{ org_badge(org='ppw') }} [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) |
 | 2023 | {{ org_badge(org='ptw') }} [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) |
 | 2024 | {{ org_badge(org='ptw') }} [PTW Championship](@/c/ptw-championship.md) |
+| 2025 | {{ org_badge(org='low') }} [Legacy of Wrestling European Championship](@/c/kpw-tag-team-championship.md) |
 | 2025 | {{ org_badge(org='ppw') }} [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) |
 | 2025 | {{ org_badge(org='ptw') }} [PTW Underground Championship](@/c/ptw-underground-championship.md) |
 | 2025 | {{ org_badge(org='ptw') }} [PTW Women's Championship](@/c/ptw-womens-championship.md) |
