@@ -3,4 +3,4 @@
 00003 = { path = "gulasz-is-legacy.webp", caption = "Image announcing [Gulyás Öcsi](@/w/gulyas-ocsi.md).", source = "Official Legacy Facebook" }
 00004 = { path = "rosetti-tez-jest-legacy.webp", caption = "Image announcing [Rosetti](@/w/rosetti.md).", source = "Official Legacy Facebook" }
 00005 = { path = "disco-krecik.webp", caption = "Image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Erik Šlotíř](@/w/erik-slotir.md).", source = "Official Legacy Facebook" }
-00006 = { path = "main-event.webp", caption = "Image announcing the main event. Left to right, top: [Gustav Gryffin](@/w/gustav-gryffin.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Gabriel Queen](@/w/gabriel-queen.md); bottom: [Max Speed](@/w/max-speed.md), [Axel Fox](@/w/axel-fox.md), [David Oliwa](@/w/david-oliwa.md).", source = "Official Legacy Facebook" }
+00006 = { path = "main-event.webp", caption = "Image announcing the main event.", source = "Official Legacy Facebook" }
