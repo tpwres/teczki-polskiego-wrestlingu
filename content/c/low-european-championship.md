@@ -12,7 +12,7 @@ The Legacy of Wrestling European Championship is the title belt of [Legacy of Wr
 
 <!-- more -->
 
-Legacy's [first](@/e/low/2024-12-01-low-1.md) and [second](@/e/low/2025-04-06-low-2.md) events saw a Road to the Title series of matches, from which emerged six finalists set to compete for the title at the promotion's [fourth show](@/e/low/2025-12-20-low-4.md).
+Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-low-3.md) events saw a Road to the Title series of matches, from which emerged six finalists set to compete for the title at the promotion's [fourth show](@/e/low/2025-12-20-low-4.md).
 
 ## Statistics
 
