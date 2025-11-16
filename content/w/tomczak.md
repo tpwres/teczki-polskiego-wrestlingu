@@ -28,7 +28,7 @@ Initially working security detail, he made his first in-ring appearance as [Chem
 
 ## International wrestling appearances 
 
-In November 2025 Finnish federation SLAM Wresltling Entertaiment [announced][suomi] Tomczak would debut in Finland later that month.
+In November 2025 Finnish federation SLAM Wrestling Entertainment [announced][suomi] Tomczak would debut in Finland later that month.
 
 ## In wrestling
 
