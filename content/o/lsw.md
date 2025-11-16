@@ -29,6 +29,6 @@ According to what can be seen in the videos, the group was very small, consistin
 
 Because the four YouTube videos are the only evidence of the group's existence, the exact timeframe cannot be established. The upload dates of the videos, however, suggest 2009-2010.
 
-## References
+## Internet presence
 
 * [Official YouTube channel](https://www.youtube.com/@1SuperStarWrestling1/videos)

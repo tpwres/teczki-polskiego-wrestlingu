@@ -156,6 +156,13 @@ Legacy of Wrestling became the first professional wrestling promotion openly adm
 
 Legacy hinted that they will promote their own championship during multiple live Q&A videos, with a build-up for the final title match starting at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md). As of October 2025 it is known that the first Legacy champion will be crowned at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md).
 
+## Internet presence
+
+* Facebook: [LegacyOfWrestlingPL](https://www.facebook.com/legacyofwrestlingpl)
+* X/Twitter: [WrestleLegacyPL](https://x.com/WrestleLegacyPL)
+* Instagram: [legacyofwrestling.pl](https://www.instagram.com/legacyofwrestling.pl)
+* YouTube: [LegacyofWrestlingPL](https://www.youtube.com/@LegacyofWrestlingPL)
+
 ## References
 
 * [Legacy on CageMatch](https://www.cagematch.net/?id=8&nr=4159)

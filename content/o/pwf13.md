@@ -4,6 +4,7 @@ weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee", "M3n747"]
 [extra]
+toclevel = 3
 hide_roster = true
 hide_events = true
 [taxonomies]
@@ -22,7 +23,7 @@ The federation had a website where they published information about their group.
 
 Public activity of the federation lasted less than a month, as it went silent after publishing the last update on their website on May 24th, 2014. PWF either never released any shows to the public, or deleted them after some time.
 
-### Events
+## Events
 
 PWF's website lists 10 shows, but the only information given are the names, dates (months only) and the stipulation (as "speciality"). The events were:
 
@@ -41,11 +42,14 @@ PWF's website lists 10 shows, but the only information given are the names, date
 
 According to the information on the PWF website, the federation planned on hosting two tournaments for their PWF Championship at "Best of the Best" show. They also planned on promoting the Żyrardów Championship, named after their hometown.
 
+## Internet presence
+
+* [Official website](https://polishwrestling.weebly.com/index.html)
+* YouTube: [OfficialPwf](https://www.youtube.com/user/OfficialPwf), without any videos available (as of October 2025)
+
 ## References
 
 * [WrestleFans forum post](https://wrestlefans.pl/forum/viewtopic.php?f=59&t=35583), announcing the creation of the federation
-* [PWF's website on weebly.com](https://polishwrestling.weebly.com/index.html)
-* [PWF's YouTube](https://www.youtube.com/user/OfficialPwf), without any videos available (as of October 2025)
 
 [show-01]: https://polishwrestling.weebly.com/time-of-honor.html
 [show-02]: https://polishwrestling.weebly.com/public-vote.html

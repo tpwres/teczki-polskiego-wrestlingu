@@ -18,27 +18,27 @@ Dream Factory, unlike other backyards, did not do any sort of ultraviolent match
 
 ## History
 
-#### Before 2015: Local backyard
+### Before 2015: Local backyard
 
 Dream Factory Wrestling came to be as a result of two backyard organizations merging: [Toruń Wrestling Federation](@/o/twf.md) (TWF) from Toruń, and BGW from Grudziądz. TWF started in 2011 and had some presence on the wrestling forums at the time. Facebook still has some relics of their [fanpage](https://www.facebook.com/TorunWrestlingFederation/), but none of their videos are available anymore. BGW is more obscure, and probably had no online presence. According to Chris Hunter, the idea to start his own wrestling project came to him while he was returning home from Elbląg, where he participated in the backyard group EKW.
 
-#### 2015: The first shows
+### 2015: The first shows
 
 The new organization named itself after its members' shared dream to be wrestlers, hence "Dream Factory". In May 2015, [Chris Hunter](@/w/chris-hunter.md) posted about getting their own ring and holding a total of 10 training sessions before their [first show](@/e/dfw/2015-06-20-dfw-showcase.md) in June that year. According to Hunter, the first ring they built tended to collapse after bumps. Their second, improved ring was Chris's birthday gift from his father.
 
-#### 2016: The peak year
+### 2016: The peak year
 
 DFW held 10 shows in 2016, some of them sideshows to community festivals in smaller towns and villages around Toruń. Others were held at various local high schools, often to an indifferent audience. In June, [Norris](@/w/isnorr.md) joined their roster, appearing in every event since then. [Rob Scaffold](@/w/rob-scaffold.md) debuted in August, then Faust in November - all coming from the backyard-era [PpW](@/o/ppw.md).
 
 An interesting event was [Lesson of Respect](@/e/dfw/2016-10-29-dfw-lesson-of-respect.md), with an audience of mostly schoolchildren, held in Toruń's historical Artus Court. Norris, a teacher in real life, was clearly the kids' favorite in his superhero character.
 
-#### 2017: Slower but bolder
+### 2017: Slower but bolder
 
 The next year only saw six DFW shows, some with as many as five matches on the card (whereas in the previous years three matches were typical). DFW gained its first female wrestler, who debuted in the ring on their [Valentine's day show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md). More characters from the Polish scene appeared: PpW's [Steven Strong](@/w/biesiad.md) at that same show, later joined by [Cade Bruce](@/w/mister-z.md).
 
 However, later in the year, two important characters left to subsequently appear in [MZW](@/o/mzw.md): [Charlie](@/w/madman-charlie.md) and [Revage](@/w/rafael-kid.md), the DFW Champion at the time. On October 29th, Hunter posted about the organization suspending its activity.
 
-#### 2018: Final shows, on-line activity
+### 2018: Final shows, on-line activity
 
 Despite the suspension, there were two small events held in 2018. One was a gauntlet match for the vacant [DFW Championship](@/c/dfw-championship.md), and the other, with only two matches, was a sideshow to a community festival.
 
@@ -60,7 +60,7 @@ DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth D
 
 After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school; it later became known that they included [Amisz](@/w/axel-fox.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md). All four then joined MZW, and later PpW. While Revage and Norris have since retired, Amisz and Charlie are still active - the former wrestles for PpW and [Legacy of Wrestling](@/o/low.md), while the latter is one of PpW's referees (and recently, also Legacy's).
 
-### Championships
+## Championships
 
 DFW had one singles championship, introduced and awarded at [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was Chris Hunter.
 
@@ -73,11 +73,14 @@ DFW had one singles championship, introduced and awarded at [Tournament of Dream
 
 Norris brought the belt to PpW, although it was never defended there. At some point the belt's faceplate was damaged, showing a large fracture line down the middle. The plate was also removed from the leather strap, which was reused for the [Zieloni GNG Championship](@/tt/zieloni.md), and made a surprise return at [PpW Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md). Decorated with a banana, it was one of the weapons brought by _Donky Kong_ into a match between the final DFW champion [Isnorr](@/w/isnorr.md) and [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 
-### References
+## Internet presence
 
-* [DFW's YouTube channel](https://www.youtube.com/@DreamFactoryWrestling)
-* [DFW's Facebook page](https://www.facebook.com/DreamFactoryWrestling)
-* [DFW's Instagram profile](https://www.instagram.com/dreamfactorywrestling/)
+* Facebook: [DreamFactoryWrestling](https://www.facebook.com/DreamFactoryWrestling)
+* Instagram: [dreamfactorywrestling](https://www.instagram.com/dreamfactorywrestling/)
+* YouTube: [DreamFactoryWrestling](https://www.youtube.com/@DreamFactoryWrestling)
+
+## References
+
 * [Announcing a hiatus](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0bEfHU1jhbDvawiWF6M9XooNe39iazhUa3Qp9Nv8fF1HrZc42kY65SzNpK5XnvW87l)
 * [DFW's origin story](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Xx66SNTuzYY6a8pNH5D9pR1SoXTNrXXs9ikn5ZddsENcHat1CYdFCTf7avSKq94Sl)
 * [Comeback teaser post](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02zjPFW9hY2sMeQ39DGDJC2MQNtXHm1nApALJQNBs6T5EzPLM1VZaSSYxBe7TKBRr9l)

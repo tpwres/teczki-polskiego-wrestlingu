@@ -4,6 +4,7 @@ weight = 4
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [extra]
+toclevel = 3
 hide_roster = true
 hide_events = true
 [extra.gallery]
@@ -50,7 +51,6 @@ MZW Academy:
 * Tony Steel
 * Wiktor
   
-
 Polska Akademia Wrestlingu:
 
 * Anatolii
@@ -121,6 +121,6 @@ The text reads "Another weekend. Another training session with "new" faces. And 
 Besides PAW trainees, multiple ex-PTW/MZW wrestlers can be seen: [Samson](@/w/samson.md), [Marco Hammers](@/w/marco-hammers.md), [Disco Pablo](@/w/disco-pablo.md), [Dziedzic](@/w/dziedzic.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Rafi Rarytas](@/w/rafi.md).
 {% end %}
 
-## References
+## Internet presence
 
 * [PAW's Facebook Page](https://www.facebook.com/PolskaAkademiaWrestlingu)
