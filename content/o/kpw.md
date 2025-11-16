@@ -100,7 +100,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 - - '[KPW Championship](@/c/kpw-championship.md)'
   - 'Vacant'
   - >
-    '[Krystian Malinowski](@/w/krystian-malinowski.md) stripped [Zefir](@/w/zefir.md) of his title and fired him from KPW for the alleged attack on his person at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md)'
+    [Krystian Malinowski](@/w/krystian-malinowski.md) stripped [Zefir](@/w/zefir.md) of his title and fired him from KPW for the alleged attack on his person at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md)
 - - '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - >
