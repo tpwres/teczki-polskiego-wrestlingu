@@ -153,8 +153,8 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 #### First break & interviews
 
-* Zuzia, one of the ring crew members, has her birthday on the day of the event. [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang "Sto lat" (the Polish equivalent to "Happy Birthday").
-* After the birthday celebratio,n HT announces the intermission, which is scheduled to take about 20 minutes.
+* Zuzia, one of the ring crew members, has her birthday on the day of the event. [Michael HT](@/w/michael-ht.md) asked her into the ring where she received a birthday gift, while the crowd sang ["Sto lat"](@/a/polish-wrestling-chants.md#songs).
+* After the birthday celebration, HT announces the intermission, which is scheduled to take about 20 minutes.
 * Timestamp: `2:55:28`
 * The transmission cuts to the backstage, where [Mateusz Czarnecki](@/w/mateusz-czarnecki.md) interviews Gustav Gryffin.
 * [Gustav Gryffin](@/w/gustav-gryffin.md) admits that Samson is one of the toughest opponents in his career, but he was confident that he would defeat the Beast of Będzin. Gustav invites Samson to join ["Zmowa"](@/tt/zmowa.md). He also issues an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
