@@ -11,13 +11,13 @@ country = ["PL"]
 2 = { path = "max-farewell.webp", caption = "Max's farewell Instagram post, where he thanks several current and former PTW personalities. Later edited to mention Legacy of Wrestling.", source = "Instagram @max.speed.wrestler", skip_art = true}
 +++
 
-Max Speed is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He currently works for [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md)
+Max Speed is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He currently works for [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
 * Years active: 2023-present
 * Gimmicks/nicknames:
-  - Max Speed {{ org_badge(org='ptw', 'low', 'ppw' 'mzw') }}
+  - Max Speed {{ org_badge(orgs='ptw', 'low', 'ppw', 'mzw') }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-2025)
 
