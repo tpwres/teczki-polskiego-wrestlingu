@@ -47,7 +47,7 @@ After Oskar was defeated by Gabriel Queen in the second round of [Turniej TypeSh
 ## In wrestling
 
 * Finishers:
-  - Back To Belly Piledriver (2025-)
+  - Back-To-Belly Piledriver (2025-)
 * Tag Teams and stables:
   - Agencja (2024-)
   - [Rodzina](@/tt/rodzina.md) (2025-)
