@@ -73,7 +73,7 @@ Axel was one of the few wrestlers who kept his [PTW exit](@/a/ptw-exits.md) to h
 #### GobLis and facing Zmowa
 
 During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made his PpW debut as the surprise tag team partner of [Goblin](@/w/goblin.md), who was booked for a match against Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)).
-Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
+Fans quickly named this new tag team of Goblin and Axel ["Goblis"](@/tt/goblis.md) (a portmanteau of "Goblin" and "Lis").
 They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/tt/zmowa.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation, and viciously attacked him with a kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's producer.
 
 Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
@@ -116,7 +116,8 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - _Firefox Elbow Drop_ (Diving Elbow Drop) (2023-); adopted from [Justin Joy](@/w/justin-joy.md)
 * Tag teams and stables:
   - FoxJoy (2023)
-  - GobLis (2024-)
+  - [GobLis](@/tt/goblis.md) (2024-2025)
+  - [Zmowa](@/tt/zmowa.md) (2025-)
 * Entrance music:
   - "Nowhere to Hide" by Chrobot
     {{ org_badge(orgs=['dfw']) }} (2017) <br>
