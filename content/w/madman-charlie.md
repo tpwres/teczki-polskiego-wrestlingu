@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Madman Charlie, also known as Charlie Grayson, and as of 2024, as Sędzia Karol Górski, is a Polish wrestler and referee currently working in [PpW Ewenement](@/o/ppw.md). He was also one of the original roster members of [Dream Factory Wrestling](@/o/dfw.md), later moving to [Maniac Zone Wrestling](@/o/mzw.md) when the Toruń-based backyard folded.
+Madman Charlie, also known as Charlie Grayson, and as of 2024, as Sędzia Karol Górski, is a Polish wrestler and referee currently working in [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). He was also one of the original roster members of [Dream Factory Wrestling](@/o/dfw.md), later moving to [Maniac Zone Wrestling](@/o/mzw.md) when the Toruń-based backyard folded.
 
 ## Basic info
 
