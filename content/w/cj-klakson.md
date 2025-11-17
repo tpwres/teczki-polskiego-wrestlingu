@@ -26,7 +26,7 @@ CJ Klakson is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ### Before Debut (2019-2025)
 
-CJ Klakson was initially a [KPW](@/o/kpw.md) trainee, but never debuted for the organization. After leaving the KPW school, he spent 2024-2025 training in wXw Academy's begginers group. In July 2025, Klakson created his Instagram profile and started uploading pre-taped promo vignettes. According to them, he is a "simple boy from Fordon, Bydgoszcz" who is chasing his dream of becoming a wrestler. Further vignettes emphasised Klakson's "hottest free agent" status, seeing him answer multiple phone calls from all over the world. 
+CJ Klakson was initially a [KPW](@/o/kpw.md) trainee, but never debuted for the organization. After leaving the KPW school, he spent 2024-2025 training in wXw Academy's beginners group. In July 2025, Klakson created his Instagram profile and started uploading pre-taped promo vignettes. According to them, he is a "simple boy from Fordon, Bydgoszcz" who is chasing his dream of becoming a wrestler. Further vignettes emphasised Klakson's "hottest free agent" status, seeing him answer multiple phone calls from all over the world. 
 
 ### Prime Time Wrestling (2025-present)
 
