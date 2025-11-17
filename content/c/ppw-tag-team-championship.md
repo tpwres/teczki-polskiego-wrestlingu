@@ -36,7 +36,7 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
 
 ## Title history
 
-### Tournament to crown the inaugural champions
+### Inaugural tournament
 
 #### Round 1
 
