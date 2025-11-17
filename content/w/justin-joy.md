@@ -63,7 +63,7 @@ On 30.08.2025 [PpW Ewenement Wrestling](@/o/ppw.md) published a [post][joy-is-ew
 
 ## International wrestling appearances 
 
-Justin made his first international appearance in 2014 during a Next Step Wrestling show in Dresden. After his excrusion to the UK he started gaining increasingly more experience working internationally: first in the UK federations such as Coventry Pro Wrestling, and later, after his return to Poland, in German federations such as Next Step Wrestling, Pro Wrestling Deutschland and Unlimited Wrestling.
+Justin made his first international appearance in 2014 during a Next Step Wrestling show in Dresden. After his excursion to the UK he started gaining increasingly more experience working internationally: first in the UK federations such as Coventry Pro Wrestling, and later, after his return to Poland, in German federations such as Next Step Wrestling, Pro Wrestling Deutschland and Unlimited Wrestling.
 
 ## In wrestling
 
