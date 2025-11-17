@@ -57,9 +57,9 @@ Due to COVID-19 restrictions, MZW was forced to temporarily halt their operation
 
 After the COVID pandemic, Shadow continued to run Maniac Zone Wrestling events as both the promoter and an in-ring performer, albeit with a rather irregular schedule. He also continued as the head coach of PAW, which moved operations to Kępno.
 
-### PpW Ewenement  (2023-2024)
+### PpW Ewenement  (2023-2024; 2025)
 
-In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
+In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) In 2025 he also made another appearance in Wrocław during [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 
 ### Legacy of Wrestling (2024-present)
 
