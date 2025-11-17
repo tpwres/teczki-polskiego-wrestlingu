@@ -74,15 +74,21 @@ At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold
 
 After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Legend-turned-Judas, Golden. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Queen unfortunately lowered his guard after scoring a victory over [Oskar Alexander](@/w/oskar-alexander.md), which allowed Golden to vicously attack Queen once more, explaining his hatered towards Queen caused by the fact that everyone saw Gabriel as "the better one" in Pure Gold. Golden challenged Queen to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During that match [the referee](@/w/madman-charlie.md) was knocked out, which prevented Queen from winning. This led to Queen granbing a chair to attack Golden, but the assault was stopped by Oskar Alexander who seemingly joined Vic's side and helped him defeat Queen.
 
-The feud continued throughout mid-2025 with Gabriel defeating Vic's protégé Oskar in a Bullrope Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), which allowed him to qualify for the Total Elimination Fourway Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). In that match he was again outsmarted by Vic Golden, who used [Agentka Agatka](@/w/agentka-agatka.md) - a member of [Rodzina](@/tt/rodzina.md) - to get an upper hand over Queen. After the match Queen once again challenged Vic for a tag team match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). While Vic teamed up with Oskar, Gabriel got in touch with his old coach and mentor [Justin Joy](@/w/justin-joy.md). Despite their best efforts, Rodzina once again prevailed. Queen managed to get back at them at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) where he defeated Agentka Agatka in a Deathmatch.
+The feud continued throughout mid-2025 with Gabriel defeating Vic's protégé Oskar in a Bullrope Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), which allowed him to qualify for the Total Elimination Four-way Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+In that match, he was again outsmarted by Vic Golden, who used [Agentka Agatka](@/w/agentka-agatka.md), another member of his [Rodzina](@/tt/rodzina.md) stable, to get the upper hand over Queen.
+After the match Queen once again challenged Vic for a tag team match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). While Vic teamed up with Oskar, Gabriel got in touch with his old coach and mentor [Justin Joy](@/w/justin-joy.md).
+Despite their best efforts, Rodzina once again prevailed. Queen managed to get back at them at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), besting Agentka Agatka in a Deathmatch.
 
 ### Legacy of Wrestling (2024-present)
 
-Gabriel joined [Legacy of Wrestling](@/o/low.md) since their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md). At their second show he challenged Axel Fox in a Road To The Title Match, but he was defeated by Polish Fox. This resulted in him asking LoW's management for one more chance to pursue the upcoming Legacy Championship. Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
+Gabriel joined [Legacy of Wrestling](@/o/low.md), appearing at their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md).
+At their second show he challenged Axel Fox in a Road To The Title Match, but lost. This forced him to plea with LoW's management for one more chance to pursue the upcoming Legacy Championship.
+Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
 
 ## International wrestling appearances
 
-In 2023 Queen started taking bookings from abroad, making regular appearances in Austria, Germany and Denmark and Hungary from that point onwards.
+In 2023 Queen started taking bookings from abroad, making regular appearances in Hungary for HCW and Budapest Dojo, Austria for Rings of Europe, Germany for wXw, Thats Awesome Wrestling, Eastside Revolution Wrestling, Catch Factory and Project Nova.
+He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jacob Crane in TAW, and partnered in mixed tag team matches with Iva Kolasky and Sultan Suzu also for TAW.
 
 ## In wrestling
 

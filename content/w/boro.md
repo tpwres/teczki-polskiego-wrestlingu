@@ -21,7 +21,7 @@ Boro, also known as Lady Killer, is a Polish wrestler best known for his time in
   - MZW Academy (2016-2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2023)
- 
+
 ## Professional wrestling career
 
 ### Maniac Zone Wrestling (2017-2021)

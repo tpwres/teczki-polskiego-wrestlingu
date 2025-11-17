@@ -22,19 +22,22 @@ CJ Klakson is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
   - wXw Academy (2024-2025)
   - [PTW Academy](@/o/ptw-academy.md) (2025-present)
 
-## Professional wrestling career 
+## Professional wrestling career
 
 ### Before Debut (2019-2025)
 
-CJ Klakson was initially a [KPW](@/o/kpw.md) trainee, but never debuted for the organization. After leaving the KPW school, he spent 2024-2025 training in wXw Academy's beginners group. In July 2025, Klakson created his Instagram profile and started uploading pre-taped promo vignettes. According to them, he is a "simple boy from Fordon, Bydgoszcz" who is chasing his dream of becoming a wrestler. Further vignettes emphasised Klakson's "hottest free agent" status, seeing him answer multiple phone calls from all over the world. 
+CJ Klakson was initially a [KPW](@/o/kpw.md) trainee, but never debuted for the organization. After leaving the KPW school, he spent 2024-2025 training in wXw Academy's beginner group.
+In July 2025, Klakson created his Instagram profile and started uploading pre-taped promo vignettes. According to them, he was a "simple boy from Fordon, Bydgoszcz", chasing his dream of becoming a wrestler.
+Further vignettes emphasised Klakson's "hottest free agent" status, seeing him answer multiple phone calls from all over the world.
 
 ### Prime Time Wrestling (2025-present)
 
 #### Debut and first matches
 
-In another vignette, Klakson received a call from PTW commentator and wannabe talent agent [Adam Goldschmidt](@/w/adam-goldschmidt.md), who put him in contact with both PTW chairmen. He promised to make his decision at [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md).
+In another vignette, Klakson received a call from PTW commentator and wannabe talent agent [Adam Goldschmidt](@/w/adam-goldschmidt.md), who put him in contact with both PTW chairmen.
+He promised to make his decision at [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md).
 
-At [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) Klakson made his debut in an in-ring promo segment. Donning the Polish national colours, he declared that despite lucrative offers from around the world he chose his home country of Poland as a place to further develop his wrestling career and that he signed with PTW.
+At that show, Klakson debuted in an in-ring promo segment. Donning the Polish national colours, he declared that despite multiple lucrative offers from around the world, he chose his home country of Poland as a place to further develop his wrestling career, and that he has signed with PTW.
 
 Over the following months, Klakson worked exclusively against international competitors, establishing a short winning streak and highlighting his patriotic gimmick.
 
@@ -51,7 +54,7 @@ Over the following months, Klakson worked exclusively against international comp
     {{ music(yt='K0NHY7wNDuM')}}
     {{ music(spot='1ngjjSd73Fgkcf3uOCGnxZ')}}
     {{ music(apple='1098856767?i=1098856826')}}
- 
+
 ## References
 
 * [Instagram profile](https://www.instagram.com/cjklaksonpl/)

@@ -62,7 +62,10 @@ This plan was however scrapped, after [Max's release from PTW][speed-zwolniony].
 
 #### Heel turn and joining Nietykalni
 
-At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) Nano joined Team [Okoński](@/w/lukasz-okonski.md) in a 4-vs-4 Tag Team Elimination Match against [Nietykalni](@/tt/nietykalni.md), a villainous stable led by Pawłowski. During the match he unexpectedly turned on his allies by striking [Spartan's](@/w/spartan.md) back with a chair, thus eliminating himself by disqualification, as well as allowing the villains to get the upper hand over Team Okoński's MVP. Soon after he joined Nietykalni, and Pawłowski paid him back for his treason with an opportunity to face Daniel Razor for the PTW Underground Championship at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md). During that match he managed to win the first championship in his career thanks to Pawłowski's interference.
+At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) Nano joined Team [Okoński](@/w/lukasz-okonski.md) in a 4-vs-4 Tag Team Elimination Match against [Nietykalni](@/tt/nietykalni.md), a villainous stable led by Pawłowski.
+During the match he unexpectedly turned on his allies by striking [Spartan's](@/w/spartan.md) back with a chair, thus eliminating himself by disqualification, as well as allowing the villains to get the upper hand over Team Okoński's MVP.
+Soon after, he joined Nietykalni, and Pawłowski rewarded his treason with an opportunity to face Daniel Razor for the PTW Underground Championship at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
+Nano managed to win the first championship in his career thanks to Pawłowski's interference.
 
 ## International wrestling appearances
 

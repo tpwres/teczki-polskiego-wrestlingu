@@ -59,7 +59,8 @@ After the COVID pandemic, Shadow continued to run Maniac Zone Wrestling events a
 
 ### PpW Ewenement  (2023-2024; 2025)
 
-In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation. He later cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md). In 2025 he also made another appearance in Wrocław during [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
+In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation.
+He cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md). In 2025 he also made another appearance in Wrocław during [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 
 ### Legacy of Wrestling (2024-present)
 
