@@ -87,7 +87,7 @@ From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promot
   - _Wylew_ (Superman Punch) (2021-)
   - Fireman's Carry Cutter (2024-)
 * Tag Teams and stables:
-  - [Nietykalni](@/tt/nietykalni.md)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
   - "Eye of the Tiger" by Survivor
     {{ org_badge(orgs=['ptw']) }} (2021-) <br>
