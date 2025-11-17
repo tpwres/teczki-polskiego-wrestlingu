@@ -65,7 +65,7 @@ On 13th of June 2025 it was announced that Boro would make his return to MZW's r
 
 ### PpW Ewenement (2025-present)
 
-In 2025 Boro joined [PpW](@/o/ppw.md), where he made an in-ring debut during their non-canon show [Clash of the creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md).
+In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-canon show [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md).
 
 ## In wrestling
 
