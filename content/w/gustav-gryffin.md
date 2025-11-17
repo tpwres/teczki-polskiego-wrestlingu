@@ -94,7 +94,7 @@ From 2023 onwards Gustav started making numerous appearances at international wr
 
 * Finishers:
   - Ripcord Lariat (2024-)
-  - _Gryffin Bomb_ (2023-)
+  - _Gryffin Bomb_ (2023-2025)
   - 11-200 (Angel's Wings) (2025-)
   - Rear Naked Choke (2024-)
   - Texas Cloverleaf (2023)
