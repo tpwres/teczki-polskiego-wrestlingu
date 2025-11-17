@@ -64,7 +64,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 * Biesiad came out through the crowd with a ladder a couple of beers.
 * Biesiad threw the ladder to Star, who threw it back. A brief back-and-forth followed, before Star threw the ladder to Referee Karol Górski.
 * Star grabbed a section of the guard rails and suplexed Biesiad onto it.
-* After the match Michael HT asked the crowd to sing ["Sto lat"][prawie-marquez] for his sister, who had her birthday that day. The crowd happily obliged.
+* After the match Michael HT asked the crowd to sing ["Sto lat"](@/a/polish-wrestling-chants.md#songs) for his sister, who had her birthday that day. The crowd happily obliged.
 * Antoni Ocean came out carrying a DIY surfing board covered in coils of barbed wire. He lost the match after being thrown onto it by Johnny Blade.
 * Axel Fox denied Goblin a tag allowing Zmowa to win. Mister Z then offered Fox his hand which Axel shook, thus turning heel and apparently joining Zmowa.
 * Mister Z cut a promo after the fight and stated that Goblin would face Olgierd for the [PpW Championship](@/c/ppw-championship.md) at a future show.
@@ -79,4 +79,3 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 [oskar-ma-przewalone]: https://www.facebook.com/reel/1364296448498041
 [komzegwendzje]: https://www.facebook.com/reel/774546015624966
 [speed-samurai-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid0oAqWJufBF38htbr5enJ1HCXFDez2GSQ5dqTCFxaEzBfP83kguCJaGsikuj41iRCpl
-[prawie-marquez]: https://en.wikipedia.org/wiki/Sto_lat
