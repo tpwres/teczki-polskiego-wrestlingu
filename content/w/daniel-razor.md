@@ -29,7 +29,7 @@ To deflect the accusations of being Pawłowski's favorite, Razor posted a video 
 
 At the [next show](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Razor joined the Gold Rush Rumble for the opportunity at [PTW Underground Championship](@/c/ptw-underground-championship.md) and reached final two, once again crossing paths with [Nano Lopez](@/w/nano-lopez.md) who won the match and title shot by eliminating Razor last. 
 
-As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the planned title match between himself and Nano Lopez was cancelled. Instead, as a runner up of the Rumble, Razor faced Nano for the vacant Championship, winning it in his third match.
+As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the planned title match between himself and Nano Lopez was cancelled. Instead, as a runner up of the Rumble, Razor faced Nano for the vacant Championship, winning it in his third match. In the meantime he started naming himself as "The Voice", as he is the voice of PTW fans thanks to the fact, that he himself was a regular fan not that long ago. After sucessfully defending his championsip in open challanges three times, his reign came to an end after he was defeated by villainous Nano Lopez, who defeated him thanks to help from his new ally [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 
 ## In wrestling
 
@@ -44,7 +44,7 @@ As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the 
 
 ## Championships and accomplishments
 
-* [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time, current)
+* [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time)
 
 ## Internet presence
 
