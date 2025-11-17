@@ -68,6 +68,12 @@ The Acid Messiah did that by eliminating his Tag Team partner and friend Axel Fo
 At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), the run-up show to Ledwo Legalne 5, Gustav and Goblin sat down in the ring for a contract signing. Gustav selected the stipulation for their upcoming match: Three Stages of Hell, starting with a Classic Wrestling Match, transitioning to a No Holds Barred Match after the first pin or submission. The third stage could only be won by knocking out the opponent. Goblin lost the first segment but managed to recover, and finished off his opponent with a daring table spot over the entrance ramp, rendering Gustav unconscious.
 This made him the new [PpW Champion](@/c/ppw-championship.md), ending Gustav's one-year reign.
 
+#### "The Unhinged Era"
+
+Goblin's victory over Gustav started new era in PpW's history called "Era Odklei" (_Unhinged Era_). Despite the fact that Goblin was willing to defend his championship as soon as possible, he was restricted by Mister Z, who allowed him to fight only in non-championship matches for the duration of both [Turniej Type Shit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) and its [Sequel](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). He made his first championship defence at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) against [Rodzina's](@/tt/rodzina.md) member [Robert Star](@/w/robert-star.md), who lost despite his stable's assistance. At the same show Biesiad managed to win TypeShit Tournament to become next #1 Contender for PpW Championship. The match was set to take place at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), but seconds before the bell Mister Z added himself to a match, but he was attacked by Gustav, who betrayed Zmowa before. 
+
+Gustav's intervention allowed Goblin to retain his championship, but he was furious over both Zmowa and Gryffin constantly intervening in his life. At the same time Mister Z declared, that he want to put both GG and Goblin down. He booked a Three-on-Three Tag Team Match between himself and [Legia Łysych](@/tt/legia-lysych.md) against old enemies: Gustav, Goblin and his friend [Axel Fox](@/w/axel-fox.md). All of them were visibly unhappy with the obligation to team with each other, but it was Axel, who was the most upset, arguing that [GobLis](@/tt/goblis.md) should focus on becoming the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) and not helping Goblin's old rival. During the said match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel's no-showed which led to Goblin and Gustav to fight without third man. In the final moments of the match, the well needed Axel finally came over to seemingly save his friend, but it was not what happened. Instead, Axel turned his back on Goblin and Gustav and allowed [Olgierd](@/w/olgierd.md) to pin The Acid Messiah, which granted Zmowa's member opportunity to challenge Goblin for a PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+
 ### Maniac Zone Wrestling (2025-present)
 
 In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing German wrestler Robert Kaiser at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
@@ -83,7 +89,7 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
   - Green Mist (2023-)
   - _Kabacki Krztusiec_ (Modified Muta Lock) (2025-)
 * Tag Teams and stables:
-  - GobLis (2024-)
+  - [GobLis](@/tt/goblis.md) (2024-2025)
 * Entrance music:
   - "Get Got" by Death Grips
     {{ org_badge(orgs=['ppw', 'mzw']) }} (2023-present) <br>
@@ -91,7 +97,7 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
     {{ music(spot='781V2Y5LPtcpgONEOadadE')}}
     {{ music(apple='515449028?i=515449215')}}
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Axel Fox](@/w/axel-fox.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-2025, in tag team with [Axel Fox](@/w/axel-fox.md)) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
