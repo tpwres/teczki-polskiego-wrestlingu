@@ -43,7 +43,7 @@ On 27.07.2025, the belt design was revealed in an [Instagram post][pas-kobiet] b
 
 ## Title history
 
-### Tournament to crown the inaugural champion
+### Inaugural tournament
 
 #### Round 1
 

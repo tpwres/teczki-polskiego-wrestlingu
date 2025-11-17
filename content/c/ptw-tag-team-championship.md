@@ -52,7 +52,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 ## Title history
 
-### Tournament to crown the inaugural champions
+### Inaugural tournament
 
 #### Quarter-finals
 
