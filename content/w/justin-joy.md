@@ -57,9 +57,9 @@ Justin organized a Q&A on his Instagram profile and posted a number of instastor
 
 Since then, he had no wrestling matches, preferring to focus on his activities as a fitness trainer, sports influencer and returning to Ninja Warrior once more.
 
-### PpW Ewenement Wrestling and return to the ring (2025-)
+### PpW Ewenement (2025)
 
-On 30.08.2025 [PpW Ewenement Wrestling](@/o/ppw.md) published a [post][joy-is-ewenement] on their official Facebook, stating that Justin Joy is returning to wrestling and would make his PpW debut at their first tour show, [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). This marked not only Joy's first wrestling match since [PTW Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md) in April 2023, but also his return to Wrocław, where he last worked in 2020 at [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md).
+On 30.08.2025 [PpW Ewenement Wrestling](@/o/ppw.md) published a [post][joy-is-ewenement] on their official Facebook, stating that Justin Joy is returning to wrestling and would make his PpW debut at their first tour show, [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). This marked not only Joy's first wrestling match since [PTW Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md) in April 2023, but also his return to Wrocław, where he last worked in 2020 at [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md). He teamed up with his former trainee [Gabriel Queen](@/w/gabriel-queen.md) to take on [Rodzina](@/tt/rodzina.md) members [Oskar Aleksander](@/w/oskar-aleksander.md) and [Vic Golden](@/w/vic-golden.md) in a Tag Team Match.
 
 ## International wrestling appearances 
 
@@ -72,11 +72,11 @@ Justin made his first international appearance in 2014 during a Next Step Wrestl
   - Running Knee Strike
   - Blue Thunder Bomb
 * Tag Teams and stables:
-  - WATAHA (2018-2019), with [Apollo Anderson](@/w/apollo-anderson.md)
+  - [WATAHA](@/tt/wataha.md) (2018-2019), with [Apollo Anderson](@/w/apollo-anderson.md)
   - FoxJoy (2023), with [Axel Fox](@/w/axel-fox.md)
 * Entrance music:
   - "Boyfriend" by ISSUES
-    {{ org_badge(orgs=['mzw', 'ptw']) }} (2014-2023) <br>
+    {{ org_badge(orgs=['mzw', 'ptw']) }} (2014-2023; 2025) <br>
     {{ music(yt='xB0I-FuXRwA')}}
     {{ music(spot='0lFAOPungtUxEmEG4l6uoU')}}
     {{ music(apple='1526164995?i=1526165004')}}
