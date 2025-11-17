@@ -249,8 +249,8 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
   - >
     Defeated [L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md) at  [PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-  - '[Daniel Razor](@/w/daniel-razor.md)'
-  - 'Defeated ["Starboy" Nano Lopez](@/w/nano-lopez.md) at [PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) for the vacated title.'
+  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - 'Defeated [Daniel Razor](@/w/daniel-razor.md) at [PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).'
 - - "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
   - '[Mercedes Moné](@/w/mercedes-mone.md)'
   - Defeated [Diana Strong](@/w/diana-strong.md) at [PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) to become inagural champion.
