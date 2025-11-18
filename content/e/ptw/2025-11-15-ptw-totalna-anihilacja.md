@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-"Totalna Anihilacja" (_Total Annihilation_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md).
+"Totalna Anihilacja" (_Total Annihilation_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md).
 
 ## Build up
 
@@ -23,42 +23,41 @@ toclevel = 2
 * On 13.11.2025 PTW published a [post][diana-bedzie] stating that [Diana Strong](@/w/diana-strong.md) will appear at the show with "an important message regarding her future".
 * Later the same day PTW announced [Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md) for the XWP Championship.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Alex Brave](@/w/alex-brave.md)'
   - g: 'The Brave Show'
-    nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - nc: upcoming
-- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
-  - '[Puncher](@/w/puncher.md)'
-  - s: Three Stages of Hell - Boxing Match
-    nc: upcoming
-- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
-  - '[Puncher](@/w/puncher.md) & [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - s: Three Stages of Hell - 2-on-1 Handicap Match
-    nc: upcoming
-- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
-  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - s: Three Stages of Hell - 1-on-1 Match
-    nc: upcoming
-- - '[Daniel Razor](@/w/daniel-razor.md)(c)'
-  - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
+- - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - 'Jordan Sweet'
+  - 'Three-Way Match'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - 'Fabio Romano'
-  - nc: upcoming
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - g: true
-    nc: upcoming
+  - 'Stanislas Cartier'
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Daniel Razor](@/w/daniel-razor.md)(c)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Blaze](@/w/blaze.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - c: XWP Championship
-    nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - 'Bumper'
+- - '[Puncher](@/w/puncher.md)'
+  - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - s: Three Stages of Hell - Boxing Match
+- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - '[Puncher](@/w/puncher.md) & [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - s: Three Stages of Hell - 2-on-1 Handicap Match
+- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - s: Three Stages of Hell - 1-on-1 Match
+- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - g: 'Okoński announces the main event for the next show.'
 {% end %}
+
+Shida's opponent was changed at the last minute to the French wrestler Stanislas Cartier.
 
 ## References
 
