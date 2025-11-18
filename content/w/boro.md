@@ -12,7 +12,7 @@ Boro, also known as Lady Killer, is a Polish wrestler best known for his time in
 
 ## Basic info
 
-* Years active: 2017-2023
+* Years active: 2017-2023; 2025-present
 * Gimmicks/Nicknames:
   - Bartosz Borowsky {{ org_badge(org='mzw') }}
   - Lady Killer {{ org_badge(org='mzw') }}
@@ -21,7 +21,7 @@ Boro, also known as Lady Killer, is a Polish wrestler best known for his time in
   - MZW Academy (2016-2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2023)
- 
+
 ## Professional wrestling career
 
 ### Maniac Zone Wrestling (2017-2021)
@@ -62,6 +62,10 @@ Boro made his official return to Polish wrestling by publishing a promo on [Lega
 ### Return to Maniac Zone Wrestling (2025-present)
 
 On 13th of June 2025 it was announced that Boro would make his return to MZW's ring after over five years to team up with his ex-PAKA member Disco Pablo and take on [Legia Łysych](@/tt/legia-lysych.md) in a Tag Team Match at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
+
+### PpW Ewenement (2025-present)
+
+In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-canon show [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md).
 
 ## In wrestling
 

@@ -73,8 +73,11 @@ Axel was one of the few wrestlers who kept his [PTW exit](@/a/ptw-exits.md) to h
 #### GobLis and facing Zmowa
 
 During [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July 2024, Fox made his PpW debut as the surprise tag team partner of [Goblin](@/w/goblin.md), who was booked for a match against Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)).
-Fans quickly named this new tag team of Goblin and Axel "Goblis" (a portmanteau of "Goblin" and "Lis").
-They were however defeated, after an intervention by [Mister Z](@/w/mister-z.md). Axel quickly joined "Zmowa Przeciwko Zmowie" led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/tt/zmowa.md). Axel developed personal rivarly against Mister Z, who frequently avoided confrontation, and viciously attacked him with a kendo stick. At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in Ustawka Match, but Axel continued his rivarly with PpW's producer.
+Fans quickly named this new tag team of Goblin and Axel ["Goblis"](@/tt/goblis.md) (a portmanteau of "Goblin" and "Lis").
+The new team was however defeated, after an intervention by [Mister Z](@/w/mister-z.md).
+Axel quickly joined the "Zmowa Przeciwko Zmowie" faction led by [Biesiad](@/w/biesiad.md) in their conflict with ["Zmowa"](@/tt/zmowa.md).
+During this period, Axel developed a personal rivalry against Mister Z, who frequently avoided direct confrontation, and viciously attacked him with a kendo stick.
+At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in an Ustawka Match, but Axel continued his rivarly with PpW's producer.
 
 Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
 
@@ -88,19 +91,25 @@ Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declar
 
 #### Feud with Olgierd
 
-During a post-match interview following the 20 Typa 20 Broni Match, Axel was attacked by Olgierd who'd managed to score a victory over Goblin in a brutal Dog Collar Match earlier the same night. Fox held a grudge against the victorious Goblin, not sure if he could trust his friend any more, but nevertheless they faced [Legia Łysych](@/tt/legia-lysych.md) in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md). Olgierd continued to torment Polish Fox in different ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, who was known to do that back when they were both trainees in MZW. This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over the defeated Fox.
+During a post-match interview following the 20 Typa 20 Broni Match, Axel was attacked by Olgierd who'd managed to score a victory over Goblin in a brutal Dog Collar Match earlier the same night.
+Fox held a grudge against Goblin, victorious in the main event, not sure if he could trust his friend any more, but nevertheless they faced [Legia Łysych](@/tt/legia-lysych.md) once more in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
+Olgierd continued to torment the Polish Fox in different ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, known to do the same back when they were both trainees in MZW.
+This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over the defeated Fox.
 
 #### Losing streak
 
-After a defeat against Olgierd, Axel's frustration constantly grew. During his post-match interviews he began to question his abilities. He was defeated by [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), as well as by Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). Eventually at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Fox betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md).
+After a defeat against Olgierd, Axel's frustration kept growing. During his post-match interviews he began to question his abilities.
+He lost to [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), and to Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+Eventually, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Fox betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md).
 
 ### Legacy of Wrestling (2024-present)
 
-On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md). During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair. 
+On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
+During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
 
 #### Championship pursuit
 
-At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning with Gabriel Queen in a Road to the Tile Match, putting him in a contender position for the LOW Championship. At [Legacy's next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md).
+At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning against Gabriel Queen in a Road to the Tile Match, putting him in a contender position for the upcoming Legacy Championship. At [the next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md).
 
 ## International wrestling career
 
@@ -116,7 +125,8 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - _Firefox Elbow Drop_ (Diving Elbow Drop) (2023-); adopted from [Justin Joy](@/w/justin-joy.md)
 * Tag teams and stables:
   - FoxJoy (2023)
-  - GobLis (2024-)
+  - [GobLis](@/tt/goblis.md) (2024-2025)
+  - [Zmowa](@/tt/zmowa.md) (2025-)
 * Entrance music:
   - "Nowhere to Hide" by Chrobot
     {{ org_badge(orgs=['dfw']) }} (2017) <br>
@@ -129,7 +139,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
     {{ music(spot='2IvetNzSZMH5gwjInoyr18')}}
     {{ music(apple='273400100?i=273400238')}}
   - "Fox On The Run" by Sweet
-    {{ org_badge(orgs=['mzw']) }} (2019-2020) <br> 
+    {{ org_badge(orgs=['mzw']) }} (2019-2020) <br>
     {{ music(yt='kRv7EjjwYBI')}}
     {{ music(spot='4uip0lLkMKl1nwchsdXs1r')}}
     {{ music(apple='1440629897?i=1440629905')}}

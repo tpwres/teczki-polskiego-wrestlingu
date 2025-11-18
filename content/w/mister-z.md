@@ -77,7 +77,19 @@ After the events of [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md)
 
 #### Cracks in Zmowa
 
-After Gustav Gryffin failed to defend his PpW Championship against the "Acid Messiah" Goblin at Ledwo Legalne 5 Mister Z went furious. His protégé went into downfall spiral, losing all of his confidence as well as couple of matches which were a chance to redeem himself in Mister Z's eyes. During that time Gustav suffered a constant bullying from all of Zmowa members, especially when Olgierd leaped over him in Z's hierarchy, making himself the new Zmowa prospect. After Mister Z defeated young [Bartosz Plata](@/w/plata.md) at [Hardcore Friday: Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) he began a vicious assault on cocky puroresu enjoyer, which was relucantly stopped by Gustav. This showed the first glimpse of change in Gryffin's mind. The final straw broke the camel's back at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), when Gustav finally broke loose and attacked both Marco Hammers and Zmowa's leader, finally turning his back on Mister Z.
+After Gustav Gryffin failed to defend his PpW Championship against the "Acid Messiah" Goblin at Ledwo Legalne 5, Mister Z got furious.
+His protégé went into a downward spiral, losing all his confidence, as well as a series of matches which were his chance to redeem himself in Mister Z's eyes.
+During that period Gustav suffered constant bullying from all of Zmowa, especially when Olgierd leapt over him in Z's hierarchy, making himself the new top name in the faction.
+After Mister Z defeated young [Bartosz Plata](@/w/plata.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), he began a vicious assault on the cocky _puroresu_ fan, which was reluctantly stopped by Gustav.
+This event indicated the first glimpses of Gryffin's upcoming change of mind.
+
+The final straw came at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), when Gustav finally broke loose and attacked both Marco Hammers and Zmowa's leader, finally turning his back on Mister Z.
+This led to a new feud between the leader and the traitor. At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Mister Z organised a Zmowa Recruitment Gauntlet Match meant to punish Gustav.
+When Gryffin managed to defeat all of Zmowa's prospects, Mister Z appeared as his final opponent, and finished off the former PpW Champion.
+Later that same night he tried to snatch the Championship from Goblin and Biesiad by adding himself into their match, but just as he was about to pin Goblin, he was stopped by Gustav.
+In retaliation, Mister Z arranged the main event of [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) as a six-man tag team match, where he and [Legia Łysych](@/tt/legia-lysych.md) took on a team of former enemies: Gustav and Goblin, along with [Axel Fox](@/w/axel-fox.md).
+Fox was bitter over having to stick his neck out for Goblin's nemesis instead of going for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). Axel no-showed at the beginning of the match, which granted a huge advantage to Zmowa.
+Later, during a critical moment of the match, he was seemingly about to tag in for the beaten-up Goblin, only to betray his old friend which granted Zmowa another victory, as well as a new member.
 
 ### Dream Factory Wrestling (2017)
 
@@ -101,7 +113,7 @@ In August 2023 Mister Z made a singular international appearance during Passion 
   - Electric chair driver (2020-2021)
   - Curb stomp (2022)
   - Single Leg Dropkick (2023)
-  - Moonsault (2023-)
+  - Disrespect Moonsault (2023-)
   - Powerbomb (2024-)
 * Tag Teams and stables:
   - [Zmowa](@/tt/zmowa.md) (2024-)

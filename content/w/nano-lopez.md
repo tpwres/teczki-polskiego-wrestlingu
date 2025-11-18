@@ -60,6 +60,13 @@ After PTW's soft reboot Nano continued to make regular appearances in the federa
 At [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Nano managed to emerge victorious from the Gold Rush Rumble Match, which granted him an opportunity to face the reigning [PTW Underground champion](@/c/ptw-underground-championship.md) [Max Speed](@/w/max-speed.md).
 This plan was however scrapped, after [Max's release from PTW][speed-zwolniony]. Nano faced the runner-up from the Gold Rush Match, [Daniel Razor](@/w/daniel-razor.md), but it was Daniel who won that fight. Lopez got one more shot at the Championship at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) in a Triple Threat Match, but once again was unsuccessful.
 
+#### Heel turn and joining Nietykalni
+
+At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) Nano joined Team [Okoński](@/w/lukasz-okonski.md) in a 4-vs-4 Tag Team Elimination Match against [Nietykalni](@/tt/nietykalni.md), a villainous stable led by Pawłowski.
+During the match he unexpectedly turned on his allies by striking [Spartan's](@/w/spartan.md) back with a chair, thus eliminating himself by disqualification, as well as allowing the villains to get the upper hand over Team Okoński's MVP.
+Soon after, he joined Nietykalni, and Pawłowski rewarded his treason with an opportunity to face Daniel Razor for the PTW Underground Championship at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
+Nano managed to win the first championship in his career thanks to Pawłowski's interference.
+
 ## International wrestling appearances
 
 From 2021 onwards Nano started making occasional appearances in independent federations across the Europe. This included Italian Wrestling Association, Nordic Elite Wrestling and multiple promotions from his homeland of Spain.
@@ -68,16 +75,24 @@ From 2021 onwards Nano started making occasional appearances in independent fede
 
 * Finishers:
   - _Last Plane To Spain_ (Side Slam) (2021-)
+* Tag Teams and stables:
+  - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
   - "Written In The Stars" by Tinie Tempah
-    {{ org_badge(orgs=['ptw']) }} (2021-)  <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2025)  <br>
     {{ music(yt='YgFyi74DVjc')}}
     {{ music(spot='5e0dZqrrTaoj6AIL7VjnBM')}}
     {{ music(apple='699868752?i=699869750')}}
+  - "Princes of the Universe" by Queen
+    {{ org_badge(orgs=['ptw']) }} (2025-)  <br>
+    {{ music(yt='VEJ8lpCQbyw')}}
+    {{ music(spot='5jNn9QeC5PCZl3t27eusXg')}}
+    {{ music(apple='1699654853')}}
 
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time; current)
   - Gold Rush Rumble (2025)
 
 ## Internet presence

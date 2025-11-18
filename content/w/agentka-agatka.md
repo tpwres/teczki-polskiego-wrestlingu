@@ -15,6 +15,7 @@ Agentka Agatka is a Polish female manager and wrestler best known for her time i
 * Years active: 2024-present
 * Gimmicks/nicknames:
   - Agentka Agatka (_Agent Agata_) {{ org_badge(org='ppw') }}
+  - La Gatita {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
 
@@ -45,6 +46,8 @@ After Oskar was defeated by Gabriel Queen in the second round of [Turniej TypeSh
 
 ## In wrestling
 
+* Finishers:
+  - Back-To-Belly Piledriver (2025-)
 * Tag Teams and stables:
   - Agencja (2024-)
   - [Rodzina](@/tt/rodzina.md) (2025-)

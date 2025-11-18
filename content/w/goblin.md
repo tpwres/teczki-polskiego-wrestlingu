@@ -68,6 +68,21 @@ The Acid Messiah did that by eliminating his Tag Team partner and friend Axel Fo
 At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), the run-up show to Ledwo Legalne 5, Gustav and Goblin sat down in the ring for a contract signing. Gustav selected the stipulation for their upcoming match: Three Stages of Hell, starting with a Classic Wrestling Match, transitioning to a No Holds Barred Match after the first pin or submission. The third stage could only be won by knocking out the opponent. Goblin lost the first segment but managed to recover, and finished off his opponent with a daring table spot over the entrance ramp, rendering Gustav unconscious.
 This made him the new [PpW Champion](@/c/ppw-championship.md), ending Gustav's one-year reign.
 
+#### "The Unhinged Era"
+
+After Goblin's victory over Gustav, the Acid Messiah proclaimed the beginning of a new era in PpW's history, called "Era Odklei" (_The Unhinged Era_).
+Despite the fact that Goblin was ready and willing to defend his Championship as soon as possible, he was initially prevented from doing so by Mister Z, who only allowed him to fight in non-title matches for the duration of both [Turniej Type Shit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) and its [sequel](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md).
+Goblin made his first Championship defence at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) against a member of [Rodzina](@/tt/rodzina.md), [Robert Star](@/w/robert-star.md), who lost despite his stable's assistance.
+At the same show Biesiad managed to win the TypeShit Tournament, becoming the next #1 Contender for the PpW Championship.
+The title match was set to take place at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), but seconds before the bell rang, Mister Z inserted himself into the match, making it a three-way in order to mess with both contestants.
+Unexpectedly, Mister Z was attacked by former ally Gustav, who had bitterly and violently quit Zmowa at the previous show.
+
+This intervention allowed Goblin to retain his Championship, but he became angry at both Zmowa and Gryffin for constantly intervening in his title run.
+At the same time, Mister Z declared that he wanted to put both Gustav and Goblin down. He booked a Three-on-Three Tag Team Match, placing himself and [Legia Łysych](@/tt/legia-lysych.md) against old enemies: Gustav, Goblin, and his friend [Axel Fox](@/w/axel-fox.md).
+All of them were visibly discontent at having to team with each other, but it was Axel who was the most upset, arguing that [GobLis](@/tt/goblis.md) should focus on becoming the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) instead of helping Goblin's old rival.
+During this six-man match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel was a no-show, forcing Goblin and Gustav to fight at a handicap.
+In the final moments, the much-needed Axel finally came to seemingly save his friend, but that was not what happened. Instead, Axel turned his back on Goblin and Gustav by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to pin the Acid Messiah, which granted Zmowa's Hooligan an opportunity to challenge Goblin for the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+
 ### Maniac Zone Wrestling (2025-present)
 
 In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing German wrestler Robert Kaiser at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
@@ -83,7 +98,7 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
   - Green Mist (2023-)
   - _Kabacki Krztusiec_ (Modified Muta Lock) (2025-)
 * Tag Teams and stables:
-  - GobLis (2024-)
+  - [GobLis](@/tt/goblis.md) (2024-2025)
 * Entrance music:
   - "Get Got" by Death Grips
     {{ org_badge(orgs=['ppw', 'mzw']) }} (2023-present) <br>
@@ -91,10 +106,10 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
     {{ music(spot='781V2Y5LPtcpgONEOadadE')}}
     {{ music(apple='515449028?i=515449215')}}
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-present, in tag team with [Axel Fox](@/w/axel-fox.md)) <br>
-    {{ music(yt='OklSZmIx9-o')}} 
-    {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
-    {{ music(apple='1697553064?i=1697553067&l=pl')}}
+    {{ org_badge(orgs=['ppw']) }} (2024-2025, in tag team with [Axel Fox](@/w/axel-fox.md)) <br>
+    {{ music(yt='OklSZmIx9-o') }}
+    {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9') }}
+    {{ music(apple='1697553064?i=1697553067&l=pl') }}
 
 ## Championships and accomplishments
 

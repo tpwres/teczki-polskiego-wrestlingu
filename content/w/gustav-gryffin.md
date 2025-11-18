@@ -20,6 +20,7 @@ Gustav Gryffin is a Polish wrestler from Bartoszyce, best known for his appearan
   - Hardcore Gustav {{ org_badge(org='ppw') }} (non-canon shows)
   - Gustav Pierdolec {{ org_badge(org='ppw') }} (non-canon shows)
   - Martinez Grabollo {{ org_badge(org='ppw') }} (non-canon shows)
+  - Art the Clown {{ org_badge(org='ppw') }} (Halloween special, non-canon show)
 * Trained by:
   - PpW Dojo (2022-June 2024)
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (June 2024-present)
@@ -94,7 +95,7 @@ From 2023 onwards Gustav started making numerous appearances at international wr
 
 * Finishers:
   - Ripcord Lariat (2024-)
-  - _Gryffin Bomb_ (2023-)
+  - _Gryffin Bomb_ (2023-2025)
   - 11-200 (Angel's Wings) (2025-)
   - Rear Naked Choke (2024-)
   - Texas Cloverleaf (2023)

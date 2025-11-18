@@ -122,7 +122,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
     {{ music(spot='3ZOEytgrvLwQaqXreDs2Jx')}}
     {{ music(apple='945578420?i=945578427')}}
   - "Thunderstruck" by AC/DC
-    {{ org_badge(orgs=['ppw', 'low']) }} (2021-) <br>
+    {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2021-) <br>
     {{ music(yt='v2AC41dglnM')}}
     {{ music(spot='57bgtoPSgt236HzfBOd8kj')}}
     {{ music(apple='574049507?i=574051407')}}

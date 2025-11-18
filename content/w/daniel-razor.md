@@ -15,10 +15,9 @@ Daniel Razor is a Polish wrestler known for his time in [Prime Time Wrestling](@
 * Years active: 2025-present
 * Gimmicks/nicknames:
   - Daniel Razor {{ org_badge(org='ptw') }}
-  
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md)
- 
+
 ## Professional wrestling career
 
 ### Prime Time Wrestling (2025-present)
@@ -27,9 +26,12 @@ At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), ["Starboy" Na
 
 To deflect the accusations of being Pawłowski's favorite, Razor posted a video where he clearly explained his allegiance, stating that he's grateful that Pawłowski has given him a chance, but now he is going to carve his own path.
 
-At the [next show](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Razor joined the Gold Rush Rumble for the opportunity at [PTW Underground Championship](@/c/ptw-underground-championship.md) and reached final two, once again crossing paths with [Nano Lopez](@/w/nano-lopez.md) who won the match and title shot by eliminating Razor last. 
+At the [next show](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Razor joined the Gold Rush Rumble for a shot at the [PTW Underground Championship](@/c/ptw-underground-championship.md), and managed to remain in the ring until the end, once again crossing paths with [Nano Lopez](@/w/nano-lopez.md). But it was the Spanish wrestler who won the match and title shot by eliminating Razor.
 
-As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the planned title match between himself and Nano Lopez was cancelled. Instead, as a runner up of the Rumble, Razor faced Nano for the vacant Championship, winning it in his third match.
+When [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the planned title match between him and Nano Lopez was cancelled.
+Instead, as a runner up of the Rumble, Razor faced Nano for the vacant Championship, winning it in his third match.
+In the meantime, he started calling himself "The Voice" of PTW fans, owing to the fact that he had been a regular fan not that long ago.
+After successfully defending his Championship in three open challenges, his reign came to an end when he was defeated by now-villainous Nano Lopez, who bested him with the help of his new ally [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 
 ## In wrestling
 
@@ -44,7 +46,7 @@ As [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, the 
 
 ## Championships and accomplishments
 
-* [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time, current)
+* [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time)
 
 ## Internet presence
 
