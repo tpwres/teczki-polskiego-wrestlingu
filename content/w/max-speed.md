@@ -17,7 +17,7 @@ Max Speed is a Polish wrestler best known for his time in [Prime Time Wrestling]
 
 * Years active: 2023-present
 * Gimmicks/nicknames:
-  - Max Speed {{ org_badge(orgs='ptw', 'low', 'ppw', 'mzw') }}
+  - Max Speed {{ org_badge(orgs=['ptw', 'low', 'ppw', 'mzw']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-2025)
 
