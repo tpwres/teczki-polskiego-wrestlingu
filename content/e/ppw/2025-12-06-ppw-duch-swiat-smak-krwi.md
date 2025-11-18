@@ -20,6 +20,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 * On 12.11.2025 PpW published another [video][dila-przerwali], in which [Mister Z](@/w/mister-z.md) put [Vic Golden](@/w/vic-golden.md) in a match with [Gabriel Queen](@/w/gabriel-queen.md), forcing him to accept Queen's Loser Leaves PpW challenge from [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 * Queen vs Golden was officially confirmed on 13.11.2025, with the stipulation expanded to a Loser Leaves PpW Bullrope & Chairs Match.
 * On 14.11.2025 PpW released a [video][lancuchy-szczescia] in which Olgierd, interviewed by [Joker](@/w/joker.md), made his choice of stipulation for his fight against Goblin: a Chains Match. There will be "chains, everything metal, only metal, zero wooden tables, zero kendo sticks". The match was officially confirmed the next day.
+* On 18.11.2025 PpW announced that Shigehiro Irie will face [Gustav Gryffin](@/w/gustav-gryffin.md).
 
 ## Predicted card
 
@@ -33,6 +34,9 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
   - '[Vic Golden](@/w/vic-golden.md)'
   - s: Loser Leaves PpW Bullrope & Chairs Match
     nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - 'Shigehiro Irie'
+  - nc: upcoming
 {% end %}
 
 ### Recap
