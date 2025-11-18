@@ -72,9 +72,9 @@ On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mz
 
 During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/madman-charlie.md).
 
-## International wrestling appearances
+### International wrestling appearances
 
-In August 2023 Referee Seweryn made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show "WrestleClash 25" in August 2023. Later on he also worked for PTW/WWA Show in January 2024, and in Budapest working for BP Dojo show later that year.
+In August 2023 Referee Seweryn made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show, WrestleClash 25, in August 2023. Later on he also worked at a PTW:WWA show in January 2024, and in Budapest for BP Dojo show later that year.
 
 ## In wrestling
 
@@ -90,7 +90,7 @@ In August 2023 Referee Seweryn made history as the first Polish referee to work 
     {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
     {{ music(yt='LMayWdD7Oac?t=42')}}
 
-## Championships and achievments:
+## Championships and achievments
 
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
