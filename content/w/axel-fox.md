@@ -92,7 +92,7 @@ Before [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Fox declar
 #### Feud with Olgierd
 
 During a post-match interview following the 20 Typa 20 Broni Match, Axel was attacked by Olgierd who'd managed to score a victory over Goblin in a brutal Dog Collar Match earlier the same night.
-Fox held a grudge against the victorious Goblin, not sure if he could trust his friend any more, but nevertheless they faced [Legia Łysych](@/tt/legia-lysych.md) once more in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
+Fox held a grudge against Goblin, victorious in the main event, not sure if he could trust his friend any more, but nevertheless they faced [Legia Łysych](@/tt/legia-lysych.md) once more in a Tornado Tag Team Match at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
 Olgierd continued to torment the Polish Fox in different ways, such as coming into Ewenement Dojo to bully various rookies before Axel made a save, stating that he is not scared of bullies such as Olgierd, known to do the same back when they were both trainees in MZW.
 This led to their match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), which ended with Olgierd once again standing tall over the defeated Fox.
 
