@@ -33,7 +33,7 @@ toclevel = 2
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - 'Jordan Sweet'
-  - 'Three-Way Match'
+  - s: 'Three-Way Match'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - 'Stanislas Cartier'
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
