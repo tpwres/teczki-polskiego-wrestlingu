@@ -50,8 +50,6 @@ After Rafał's suspension due to the ["Asian Scandal" controversy](@/a/ptw-award
 For most of 2023 and 2024 he maintained his position as the main referee, working many of the main events and matches with high-profile international wrestlers.
 He was also awarded the [PTW's "Referee of the Year" Award](@/a/ptw-awards-2022.md) for 2022.
 
-During his tenure in Prime Time Wrestling, Referee Seweryn also made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show "WrestleClash 25" in August 2023.
-Later he made yet another appearance at a PTW/WWA show in January 2024.
 Sewi continued his run in the company, being present at every PTW event (except [Underground 7](@/e/ptw/2022-08-28-ptw-underground-7.md)) up until [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 After that show he, along with many other talent, [left PTW](@/a/ptw-exits.md).
 
@@ -74,6 +72,10 @@ On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mz
 
 During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/madman-charlie.md).
 
+### International wrestling appearances
+
+In August 2023 Referee Seweryn made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show, WrestleClash 25, in August 2023. Later on he also worked at a PTW:WWA show in January 2024, and in Budapest for BP Dojo show later that year.
+
 ## In wrestling
 
 * Finishers:
@@ -88,7 +90,7 @@ During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was uno
     {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
     {{ music(yt='LMayWdD7Oac?t=42')}}
 
-## Championships and achievments:
+## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
