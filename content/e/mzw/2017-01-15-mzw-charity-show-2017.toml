@@ -1,0 +1,4 @@
+1 = { path = "plakat.webp", caption = "Show poster, featuring the team of [Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Official MZW Facebook" }
+2 = { path = "storm-riders-vs-zbojnicy.webp", caption = "Image announcing [Blue Thunder](@/w/blue-thunder.md) & [Red Thunder](@/w/red-thunder.md) (w/ Columbus) vs [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Official MZW Facebook" }
+3 = { path = "elimination-tt-match.webp", caption = "Image announcing [Szymon Siwiec](@/w/szymon-siwiec.md) & [Prince Victor](@/w/vic-golden.md) vs [Hexia](@/w/hexia.md) & [Mr B.](@/w/mr-b.md) & [Asmund](@/w/asmund.md).", source = "Official MZW Facebook" }
+4 = { path = "dzien-dobry-zastalem-platona.jpg", caption = "Shadow's shadow.", source = "Official MZW Facebook" }
