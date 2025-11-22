@@ -6,6 +6,7 @@ authors = ["M3n747"]
 [extra]
 toclevel=2
 [extra.gallery]
+1 = { path = "low-european-championship.webp", caption = 'Close-up of the Legacy European Championship title belt.', source = "Official Legacy Facebook" }
 +++
 
 The Legacy of Wrestling European Championship is the title belt of [Legacy of Wrestling](@/o/low.md). It was introduced in 2025 and the first champion is to be crowned at [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md).
