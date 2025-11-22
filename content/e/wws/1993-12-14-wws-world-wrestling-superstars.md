@@ -14,7 +14,7 @@ When [Andrzej Supron](@/w/andrzej-supron.md) learned about their shows, he conta
 The show was held in {{ map_pin(v="Torwar") }}Torwar, a sports and music venue in Warsaw.
 
 This was the only international wrestling event held in Poland before WWE arrived in the mid-2010s,
-and aside from Supron's efforts in the 90s and early 2000s, the only professionally produced wrestling
+and aside from Supron's efforts in the '90s and early 2000s, the only professionally produced wrestling
 until [DDW](@/o/ddw.md) and [TBW](@/o/tbw.md) held their first shows in 2009-2010.
 
 The [Prehistory of wrestling](@/a/prehistory.md) article covers this era in more detail.
