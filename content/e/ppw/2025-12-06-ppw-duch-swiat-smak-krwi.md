@@ -21,6 +21,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 * Queen vs Golden was officially confirmed on 13.11.2025, with the stipulation expanded to a Loser Leaves PpW Bullrope & Chairs Match.
 * On 14.11.2025 PpW released a [video][lancuchy-szczescia] in which Olgierd, interviewed by [Joker](@/w/joker.md), made his choice of stipulation for his fight against Goblin: a Chains Match. There will be "chains, everything metal, only metal, zero wooden tables, zero kendo sticks". The match was officially confirmed the next day.
 * On 18.11.2025 PpW announced that Shigehiro Irie will face [Gustav Gryffin](@/w/gustav-gryffin.md).
+* On 24.11.2025 PpW announced [Agentka Agatka](@/w/agentka-agatka.md) vs Akane Fujita.
 
 ## Predicted card
 
@@ -36,6 +37,9 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
     nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - 'Shigehiro Irie'
+  - nc: upcoming
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - 'Akane Fujita'
   - nc: upcoming
 {% end %}
 
