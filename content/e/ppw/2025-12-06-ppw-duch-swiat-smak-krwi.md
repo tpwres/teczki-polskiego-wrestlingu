@@ -23,6 +23,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 * On 18.11.2025 PpW announced that Shigehiro Irie will face [Gustav Gryffin](@/w/gustav-gryffin.md).
 * On 24.11.2025 PpW announced [Agentka Agatka](@/w/agentka-agatka.md) vs Akane Fujita.
 * On 27.11.2025 PpW announced [Marco Hammers](@/w/marco-hammers.md) vs [Johnny Blade](@/w/johnny-blade.md) in an Ojcowski Hardcore Match (_Fatherly Hardcore Match_), with Marco possibly becoming a new patriarch of PpW should he defeat Blade (the father of hardcore).
+* On 30.11.2025 PpW announced a Battle Royal for the prize of a 10.000&nbsp;PLN Christmas bonus (approximately 2360&nbsp;EUR, 2070&nbsp;GBP, 2740&nbsp;USD or 427.550&nbsp;JPY).
 
 ## Predicted card
 
@@ -45,6 +46,10 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Ojcowski Hardcore Match
+    nc: upcoming
+- - '???'
+  - '???'
+  - s: Battle Royal
     nc: upcoming
 {% end %}
 
