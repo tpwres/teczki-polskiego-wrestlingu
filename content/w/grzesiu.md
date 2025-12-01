@@ -20,4 +20,4 @@ Grzesiu is a retired backyard wrestler who worked for [WKSW](@/o/wksw.md).
 
 ### Wrestlingowy Klub Sportowy Wołów (2013-2014)
 
-Due to fact that most of federation lores is now considered a lost media, not much is known about Grzesiu's backyard career in [WKSW](@/o/wksw.md). He made at least five archivised appearances for federation from June 2013 until February 2015.
+Due to the fact that most of federation's lore is now considered lost media, not much is known about Grzesiu's backyard career in [WKSW](@/o/wksw.md). He made at least five known appearances for the federation, from June 2013 until February 2015.
