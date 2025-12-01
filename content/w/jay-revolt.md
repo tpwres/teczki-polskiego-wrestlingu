@@ -27,7 +27,7 @@ During his tenure in the federation, he was one of the most regularly appearing 
 
 ### Polish Xtreme Wrestling (2012)
 
-In 2012 Jay along with some of his TWF collegues went to make guest appearance at [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md) which was hosted by Głuchołazy-based federation [Polish Xtreme Wrestling](@/o/pxw.md).
+In 2012 Jay, along with some of his TWF collegues, went to make a guest appearance at [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md) which was hosted by Głuchołazy-based federation [Polish Xtreme Wrestling](@/o/pxw.md).
 
 ### Dream Factory Wrestling (2015-2016)
 
