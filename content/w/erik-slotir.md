@@ -45,6 +45,12 @@ Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslo
 
 Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he was the fifth mystery competitor in a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md), which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) - Legacy's on-screen personality - who signed him to his stable called "Biuro Prasowe" (_Press Office_).
 
+Arek Paterek quickly organised Erik a championship opportunity at [LoW vol. 3 Show](@/e/low/2025-07-11-low-3.md) where he faced [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) and Yaqoob in a Triple Threat Match, which was won by defending champion.
+
+### Maniac Zone Wrestling (2025)
+
+In June 2025 Erik made his debut for [Maniac Zone Wrestling](@/o/mzw.md), where he lost to [Goblin](@/w/goblin.md) in a Singles Match at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
+
 ## In wrestling
 
 * Finishers:
