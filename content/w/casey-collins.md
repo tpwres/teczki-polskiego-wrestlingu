@@ -11,3 +11,20 @@ country = ["PL"]
 Casey Collins is a retired backyard wrestler who worked for [WKSW](@/o/wksw.md).
 
 There was also a [Scott Collins](@/w/scott-collins.md), but it is unclear whether it was a different name for Casey, or a distinct person.
+
+## Basic info
+
+* Years active: 2013
+* Gimmicks/nicknames:
+  - Casey Collins {{ org_badge(org='wksw') }}
+
+## Professional wrestling career
+
+### Wrestlingowy Klub Sportowy Wołów (2013)
+
+Casey Collins is known to make at least five appearances in [WKSW](@/o/wksw.md) from May to September 2013. However, due to lack of avaliable sources these information are most likely incomplete. It is known that he most likely won Wołów Championship from [David Master](@/w/david-master.md) at one of [WKSW Shows](@/e/wksw/2013-05-07-wksw.md), and later on he defended it at two ocassions against [Pan/Michał Chudelewski](@/w/chudy.md). He made his last recognized appearance for WKSW in September 2013, where he faced David Master.
+
+## Championships and accomplishments
+
+* [Wrestlingowy Klub Sportowy Wołów](@/o/wksw.md):
+  - Wołów Championship (1 time)
