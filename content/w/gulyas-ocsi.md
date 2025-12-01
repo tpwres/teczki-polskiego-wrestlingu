@@ -10,7 +10,7 @@ country = ["HU"]
 1 = { path = "gulasz.webp", caption = "Gulyás makes his entrance at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).", source = "M.Fotografika" }
 +++
 
-Gulyás Öcsi is a Hungarian wrestler known for his appearances for [Legacy of Wrestling](@/o/low.md), [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
+Gulyás Öcsi is a Hungarian wrestler known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
@@ -30,7 +30,7 @@ Less than two months after his appearance for KPW he was booked by [Prime Time W
 
 ### Legacy of Wrestling (2025)
 
-On November 7th 2025 [Legacy](@/o/low.md) announced that Gulyás will make his debut for the federation during their [fourth show](@/e/low/2025-12-20-low-4.md)
+On November 7th, 2025, [Legacy](@/o/low.md) announced that Gulyás would make his debut for the federation during their [fourth show](@/e/low/2025-12-20-low-4.md).
 
 ## Internet presence
 
