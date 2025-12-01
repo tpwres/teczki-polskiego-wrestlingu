@@ -60,7 +60,7 @@ During the ending, Mister Z intervened and attempted to prevent Biesiad from win
 Later that night, his intervention in a championship match between [Feager](@/w/feager.md) and Mister Z resulted in Feager's victory. This led to Mister Z setting up a Triple Threat Match for Ledwo Legalne IV, with Feager vs Mister Z vs Biesiad for the PpW Championship.
 
 At Ledwo Legalne IV, Biesiad managed to win his match, becoming the PpW Champion for the second time. 
-However, his title reign was cut short. The defeated Mister Z initiated his "plan B", as he introduced the winner of #1 Contender Match and his protégé [Gustav Gryffin],(@/w/gustav-gryffin.md) who immediately proceeded to cash-in his opportunity to face the champion. Gustav managed to defeat the weakened Biesiad, making this second PpW Championship reign last only a few minutes.
+However, his title reign was cut short. The defeated Mister Z initiated his "plan B", as he introduced the winner of #1 Contender Match and his protégé [Gustav Gryffin](@/w/gustav-gryffin.md) who immediately proceeded to cash-in his opportunity to face the champion. Gustav managed to defeat the weakened Biesiad, making this second PpW Championship reign last only a few minutes.
 
 #### Zmowa Przeciwko Zmowie
 
@@ -83,7 +83,7 @@ Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prost
 
 #### TypeShit Tournament
 
-After defeating the leader of Zmowa, Biesiad took on Gustav Gryffin in an ECW Rules Match at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), which qualified him to take part in the final match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). In the meantime he also managed to defeat [Legia Łysych](@/tt/legia-lysych.md) in a Warsaw Brawl Tag Team Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). At Mistrzowskie Rozdanie 2 he faced Vic Golden, Gabriel Queen and Olgierd in a Total Elimination Fatal Four Way. His victory granted him a title match against Goblin at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
+After defeating the leader of Zmowa, Biesiad took on Gustav Gryffin in an ECW Rules Match at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), which qualified him to take part in the final match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). In the meantime he also managed to defeat [Legia Łysych](@/tt/legia-lysych.md) in a Warsaw Brawl Tag Team Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). At Mistrzowskie Rozdanie 2 he faced Vic Golden, Gabriel Queen and Olgierd in a Total Elimination Fatal Four Way. His victory granted him a title match against Goblin at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). However, just before the match was scheduled to start Biesiad's old rival Mister Z added himself to the match, thus making it into a Triple Threat Match. Ultimately Goblin won by pinning Mister Z, which enraged Biesiad and resulted in his backstage offensive on PpW's producer, but he was stopped under the threat of being fired from federation. Instead, Z managed to set up a match between Biesiad and [Robert Star](@/w/robert-star.md) at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), which was won by Biesiad.
 
 ### Dream Factory Wrestling (2017)
 
@@ -93,7 +93,7 @@ In February 2017 Biesiad, then working under the alias "Steven Strong", took par
 
 In 2023 Biesiad made his debut for [Maniac Zone Wrestling](@/o/mzw.md) at their joint show [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he defeated Chris X in a hardcore match. He returned at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he took part in a Triple Threat Match along with [Marcelito](@/w/marcelito.md) and the victorious [Syriusz Dziedzic](@/w/dziedzic.md).
 
-### Legacy of Wrestling (2024-)
+### Legacy of Wrestling (2024-2025)
 
 In December 2024 Biesiad took part in [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md), where he defeated Olgierd in a PpW Rules Match.
 
