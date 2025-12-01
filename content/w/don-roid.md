@@ -11,7 +11,7 @@ country = ["US"]
 2 = { path = "the-k-team-summer-camp-2023.jpg", caption = "Left to right: [Kamil Aleksander](@/w/kamil-aleksander.md), Don Roid, [Piękny Kawaler](@/w/piekny-kawaler.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md) at KPW Summer Camp 2023.", source = "Official KPW Facebook" }
 +++
 
-Don Roid is an retired American wrestler best known as the founder and owner of [Do Or Die Wrestling](@/o/ddw.md) - the first professional wrestling federation in Poland.
+Don Roid is a retired American wrestler best known as the founder and owner of [Do Or Die Wrestling](@/o/ddw.md) - the first professional wrestling federation in Poland.
 
 ## Basic info
 
