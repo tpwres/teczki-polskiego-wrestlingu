@@ -1,7 +1,7 @@
 +++
 title = "Chudy"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -23,7 +23,7 @@ Chudy is a retired backyard wrestler who worked for [WKSW](@/o/wksw.md). He some
 
 ### Wrestlingowy Klub Sportowy Wołów (2013-2014)
 
-Not much is known about Chudy's career due to lack of avaliable information about [WKSW](@/o/wksw.md) itself. It is known that he made appearances there from May 2013 until February 2014. During his stint in backyard federation he unsucesfully challenged [Casey Collins](@/w/casey-collins.md) for Wołów Championship. Later on he won WKSW Championship from [Raven](@/w/raven.md) but not much is known about his reign afterwards.
+Not much is known about Chudy's career due to lack of avaliable information about [WKSW](@/o/wksw.md) itself. It is known that he made appearances there from May 2013 until February 2014. During his stint in backyard federation he unsucesfully challenged [Casey Collins](@/w/casey-collins.md) for the Wołów Championship. Later on he won the WKSW Championship from [Raven](@/w/raven.md), but not much is known about his reign afterwards.
 
 ## Championships and accomplishments
 
