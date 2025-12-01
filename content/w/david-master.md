@@ -1,7 +1,7 @@
 +++
 title = "David Master"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -19,7 +19,7 @@ David Master is a retired backyard wrestler who worked for [WKSW](@/o/wksw.md).
 
 ### Wrestlingowy Klub Sportowy Wołów (2013-2014)
 
-Not much is known about David's backyard career. It is caused by the fact, that most of information and media about [WKSW](@/o/wksw.md) is now concidered lost in time. It is known that he worked for WKSW between at least May 2013 until February 2014. During that time he most probably managed to win Wołów Championship twice.
+Not much is known about David's backyard career, because most of the information and media about [WKSW](@/o/wksw.md) is now concidered lost to time. It is known that he worked for WKSW between at least May 2013 and February 2014. During that time he most probably managed to win the Wołów Championship twice.
 
 ## Championships and accomplishments
 
