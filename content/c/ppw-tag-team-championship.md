@@ -48,6 +48,17 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
     ed: 2025-11-08
 {% end %}
 
+#### Final
+
+{% free_card() %}
+- - '??? & ???'
+  - '??? & ???'
+  - s: Tag Team Match
+    en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
+    ed: 2026-02-28
+    nc: upcoming
+{% end %}
+
 ### Champions #1: TBD
 
 ## References
