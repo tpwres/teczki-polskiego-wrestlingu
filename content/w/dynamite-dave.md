@@ -8,7 +8,7 @@ toclevel = 2
 country = ["DE"]
 +++
 
-Dynamite Dave is a German wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
+Dynamite Dave is a retired German wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
