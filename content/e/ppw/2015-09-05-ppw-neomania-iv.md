@@ -19,7 +19,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
 
 {% card() %}
 - - '[Steven Strong](@/w/biesiad.md)'
-  - '[Superior](@/w/superior.md)'
+  - '[Superior](@/w/rob-scaffold.md)'
   - '[Ultimo Combo](@/w/johnny-blade.md)'
   - '[Hirinus de Exsantus](@/w/mister-z.md)'
   - s: 'Elimination Fatal 4 Way Match'
