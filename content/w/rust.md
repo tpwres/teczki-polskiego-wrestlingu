@@ -47,7 +47,7 @@ In December 2024 at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) h
 ## Championships and accomplishments:
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current) - with [Luca Bjorn](@/w/luca-bjorn.md)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time) - with [Luca Bjorn](@/w/luca-bjorn.md)
 
 ## Internet presence
 
