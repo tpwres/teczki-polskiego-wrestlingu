@@ -12,3 +12,8 @@ caption = """\
     [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Damian Adler.
 """
 source = "Official PTW Facebook"
+
+[02]
+path = "oh-baby-baby-how-was-i-supposed-to-know.webp"
+caption = "Image announcing [Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md)."
+source = "Official PTW Facebook"
