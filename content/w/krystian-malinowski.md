@@ -39,6 +39,8 @@ Eventually he secured the new position at [Arena 13](@/e/kpw/2019-04-05-kpw-aren
 
 At [Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Malinowski was attacked with a glass bottle by a mysterious figure and transported to a hospital by medical staff. Rosetti soon informed that  Malinowski had officially made him the acting chairman of KPW. Barely [two shows later](@/e/kpw/2025-04-11-kpw-arena-28.md) Malinowski reappeared and took back his position, but the turn of events pushed him into a heel turn, which he fully embraced starting with [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
 
+At [Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md) during in-ring celebration of KPW's 10th anniversary Krystian confronted reigning [KPW Champion](@/c/kpw-championship.md) [Zefir](@/w/zefir.md) whom he accoused of attempted murder a few shows back. He firmly said that no celebration would take place until Zefir will leave the ring. The Champion instead took his self-made cake and threw it onto Krystian's face. After a while of celebration The Chairman returned to the ring and fired Zefir in response to his hateful actions. He also stripped him from his KPW Championship.
+
 ## In wrestling
 
 * Entrance music:
