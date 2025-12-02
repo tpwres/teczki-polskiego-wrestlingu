@@ -54,5 +54,7 @@ Rob Scaffold appeared in [Dream Factory Wrestling](@/o/dfw.md) at [Tournament of
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - PpW Light Heavyweight Championship (1 time) - backyard era championship
-  - PpW Tag Team Championship (1 time) - with [Black Orion](@/w/johnny-blade.md) - backyard era championship
+
+_Backyard Era Championships:_
+  - PpW Light Heavyweight Championship (1 time) 
+  - PpW Tag Team Championship (1 time) - with [Black Orion](@/w/johnny-blade.md) 
