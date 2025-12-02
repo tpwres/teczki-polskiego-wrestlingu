@@ -117,7 +117,7 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md)
+* [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time)
     * Tag Team of the Year (as Pure Gold)
 * [PpW Ewenement Wrestling](@/o/ppw.md):

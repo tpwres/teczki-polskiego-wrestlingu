@@ -25,6 +25,10 @@ Jay - then known as "Gangsta" - made his debut on the Polish wrestling scene in 
 At one point, he even defeated [Billi Rox](@/w/corin-mear.md) and [Monster](@/w/chris-hunter.md) to become the TWF Champion, in a match at [Fight For Freedom](@/e/twf/2012-03-28-twf-fight-for-freedom.md).
 During his tenure in the federation, he was one of the most regularly appearing workers on the roster. He remained in the federation from the start up until its closure in early 2014.
 
+### Polish Xtreme Wrestling (2012)
+
+In 2012 Jay, along with some of his TWF collegues, went to make a guest appearance at [Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md) which was hosted by Głuchołazy-based federation [Polish Xtreme Wrestling](@/o/pxw.md).
+
 ### Dream Factory Wrestling (2015-2016)
 
 After TWF folded, Jay joined the new group started by his colleagues [Chris Hunter](@/w/chris-hunter.md) and [PJ Blake](@/w/pj-blake.md), called [Dream Factory Wrestling](@/o/dfw.md). His stint, however, didn't last long. He made a total of three official appearances for DFW at their early shows, until he eventually left DFW and wrestling all together.

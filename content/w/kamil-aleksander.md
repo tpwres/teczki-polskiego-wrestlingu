@@ -52,7 +52,7 @@ Between 2010 and 2014 Kamil made a handful of appearances in federations in the 
 * Tag Teams and stables:
   - Sojusz (2018)
 * Entrance music:
-  "Hymn" by Luxtorpeda
+  - "Hymn" by Luxtorpeda
     {{ org_badge(orgs=['ddw', 'kpw']) }} (2014-2019) <br>
     {{ music(yt='jbjbfUlX2Vc')}}
     {{ music(spot='3lsX4zFUwBbTrGpzx8NhTp')}}

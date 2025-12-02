@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Konrad von Koch is a Polish on-screen wrestling personality, best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
+Konrad von Koch is a retired Polish on-screen wrestling personality, best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 

@@ -79,6 +79,10 @@ The most humane way was to submerge the zombie in non-alcoholic beer, which, the
 
 In their match at the show, Zombie Johnny had a striking new look, and was also different from his regular persona, mostly shambling slowly towards Dobroniak trying to eat his brain. He was significantly less smart, but also much more resilient to damage, no-selling many of Dobroniak's attacks. Dobroniak was able to tie him down with a length of barbed wire, and dunk Johnny in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
 
+#### The Father of Polish Ultraviolent
+
+After his de-zombification Johnny spent the latter half of 2025 being partialy involved in some of the storylines. He often teamed up with his friends, such as Biesiad and Stanisław Van Dobroniak, facing villainous teams, such as [Legia Łysych](@/tt/legia-lysych.md) and [Rodzina](@/tt/rodzina.md). Around that time he become known as "the Father of Polish Ultraviolent", or simply as "the Father" (_Ojciec_). His first attempt at parenting took place at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he faced a newcomer to PpW, Antoni Ocean, in Trial By Blood Match. It was won by the Father, but proved that Antoni belonged in PpW.
+
 ### Dream Factory Wrestling (2017)
 
 In September 2017 Johnny, under his masked alias Black Orion, made a one-off [DFW](@/o/dfw.md) appearance when he took part in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md).

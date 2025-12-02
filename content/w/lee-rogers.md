@@ -29,7 +29,7 @@ he participated in a tournament for the [KPW Tag Team Championship](@/c/kpw-tag-
 The team advanced to the the semi-finals by defeating [Adam Bravo](@/w/adam-bravo.md) and [Mateusz Kakareko](@/w/mateusz-kakareko.md), but were ultimately
 defeated by Boska Oliwa ([David Oliwa](@/w/david-oliwa.md) and [Boski Ostrowski](@/w/ostrowski.md)).
 
-Rogers returned to KPW in May 2022 at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md), where he took on [Filip Fux](@/w/filip-fux.md) in a Singles Match, losing to the Polish wrestler.
+Rogers returned to KPW in May 2023 at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md), where he took on [Filip Fux](@/w/filip-fux.md) in a Singles Match, losing to the Polish wrestler.
 
 ## In wrestling
 

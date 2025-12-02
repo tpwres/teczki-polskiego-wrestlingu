@@ -58,11 +58,13 @@ At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) Pawłowski debuted 
 
 Pawłowski stepped away from his Host/Announcer duties to become a full time on-screen persona. He kept up his heated rivalry with Okoński, trying to gather as much power over PTW as possible. To achieve his goal he formed a new villainous stable called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_). The stable consisted of him as a leader, as well as Puncher and [Royal Rebels](@/tt/royal-rebels.md) - a tag team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md). 
 
-During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) Pawłowski adressed the public with another devastating blow towards Łukasz Okoński. Pawłowski revealed that [Sigma Boy xD](@/w/sigma-boy.md) is in fact the bastard son of Łukasz. This caused Sigma Boy xD's meltdown, and seemingly him joining Pawłowski, who comforted him after this revalation.
+During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), Pawłowski adressed the public with another devastating blow against Łukasz Okoński: he revealed that [Sigma Boy xD](@/w/sigma-boy.md) is in fact the bastard son of Łukasz. This caused Sigma Boy xD's meltdown and seemingly him joining Pawłowski, who comforted him after this revalation. Their alliance didn't last very long, as Sigma Boy xD mended fences with his father at the [next show](@/e/ptw/2025-09-28-ptw-bol-istnienia.md). 
+
+Despite this setback,  Nietykalni managed to hold a strong position in PTW and win the Team Okoński vs Team Pawłowski Elimination Match at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) thanks to [Nano Lopez's](@/w/nano-lopez.md) betrayal of Team Okoński. At the [next show](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Pawłowski returned to in-ring competition, teaming up with his champion Puncher in a Three Stages of Hell Match against Okoński. In it, he was pinned by Okoński twice, costing Pawłowski's team the victory. Nietykalni's defeat meant that Spartan would be once again eligible to face Puncher for the PTW title, which enraged the reigning Champion. 
 
 ## International wrestling appearances
 
-In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working in PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024. 
+In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working for PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024. 
 
 After PTW managed to secure a partnership with BestYa Slam in 2025, Pawłowski made a few appearances there by promoting a show and managing his talent Puncher.
 

@@ -12,7 +12,7 @@ Sędzia Matek is a retired Polish wrestling referee best known for his time in [
 
 ## Basic info
 
-* Years active: 2019-2023
+* Years active: 2019-2022
 * Gimmicks/nicknames:
   - Sędzia Matek {{ org_badge(orgs=['ppw', 'ptw']) }}
 * Trained by:

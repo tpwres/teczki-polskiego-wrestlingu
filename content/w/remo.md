@@ -12,7 +12,7 @@ Remo is a retired Polish wrestler best known for his time in [Prime Time Wrestli
 
 ## Basic info
 
-* Years active: 2021-2022
+* Years active: 2021-2022; 2025
 * Gimmicks/nicknames:
   - Remo {{ org_badge(orgs=['ptw']) }}
 * Trained by:
@@ -27,6 +27,8 @@ Remo joined [Prime Time Wrestling](@/o/ptw.md) very early in its development and
 Remo made his return at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md) where he attacked [Nano Lopez](@/w/nano-lopez.md) before his match against [Marco Hammers](@/w/marco-hammers.md), possibly teasing their feud. Unfortunately for him, he was injured once again.
 
 In June 2024 Remo officialy [left Prime Time Wrestling](@/a/ptw-exits.md), which he announced via his social media.
+
+In November 2025, after over a year of silence, Remo published a post on his Instagram account teasing his return to in-ring competition.
 
 ## In wrestling
 

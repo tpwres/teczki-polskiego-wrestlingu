@@ -48,6 +48,8 @@ After the post-Gold Rush reveal that Wiktor Longman was the one who attacked Tar
 
 After Pablo's departure from PTW, he returned to the ring after a five-month hiatus in [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he lost to Olgierd. He also participated in a Battle Royal, won by the newcomer [Tony "The Riverman" Sheen](@/w/riverman.md). At MZW's [next show](@/e/mzw/2025-03-29-mzw-forever.md) Pablo faced Tony Sheen one-on-one, but his fight was interrupted by Taras who distracted him to allow Sheen to hit his finisher and score a victory. After the match Taras attempted to beat down Pablo with a kendo stick, but he was quickly chased off by babyfaces.
 
+Later on he continued to make appearances in MZW, working as a babyface. At [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) he reunited with his ex-PAKA teammate Boro to face [Legia Łysych](@/tt/legia-lysych.md) in a Tag Team Match.
+
 ### Legacy of Wrestling (2024-)
 
 #### Feud with Taras

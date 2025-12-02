@@ -10,13 +10,13 @@ country = ["HU"]
 1 = { path = "gulasz.webp", caption = "Gulyás makes his entrance at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md).", source = "M.Fotografika" }
 +++
 
-Gulyás Öcsi is a Hungarian wrestler known for his appearances for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
+Gulyás Öcsi is a Hungarian wrestler known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
 * Years active: 2018-present
 * Gimmicks/nicknames:
-  - Gulyás Öcsi {{ org_badge(orgs=['kpw', 'ptw']) }}
+  - Gulyás Öcsi {{ org_badge(orgs=['kpw', 'ptw', 'low']) }}
 
 ## Professional wrestling career
 
@@ -24,9 +24,13 @@ Gulyás Öcsi is a Hungarian wrestler known for his appearances for [Prime Time 
 
 Gulyás debuted in Poland at [KPW Arena 25](@/e/kpw/2024-05-17-kpw-arena-25.md) where he was defeated by fellow heavyweight [Eryk Lesak](@/w/eryk-lesak.md).
 
-### Prime Time Wrestling (2024-present)
+### Prime Time Wrestling (2024-2025)
 
 Less than two months after his appearance for KPW he was booked by [Prime Time Wrestling](@/o/ptw.md), where he's been making exclusive, semi-regular appearances beginning with [Ryucon 3](@/e/ptw/2024-07-07-ptw-x-ryucon.md). He also wrestles in a tag team with Gulyás Vilmos, as the Gulyás Bros. During that time he unsuccesfully challenged fellow Hungarians [Budapest Bastards](@/tt/budapest-bastards.md) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) at [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md). He also challenged [Max Speed](@/w/max-speed.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md), but he failed in that bout.
+
+### Legacy of Wrestling (2025)
+
+On November 7th, 2025, [Legacy](@/o/low.md) announced that Gulyás would make his debut for the federation during their [fourth show](@/e/low/2025-12-20-low-4.md).
 
 ## Internet presence
 

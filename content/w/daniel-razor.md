@@ -46,7 +46,8 @@ After successfully defending his Championship in three open challenges, his reig
 
 ## Championships and accomplishments
 
-* [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time)
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time)
 
 ## Internet presence
 

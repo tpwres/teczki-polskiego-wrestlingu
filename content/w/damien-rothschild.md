@@ -43,9 +43,9 @@ Damien managed to defeat Shadow to become the MZW Champion and defended his new 
 
 Following his defeat, Rotschild retired from professional wrestling.
 
-### Surprise return and Prime Time Wrestling (2025-)
+### Prime Time Wrestling (2025-)
 
-On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). He continued to appear for the promotion over the following months, earning a shot for the [PTW Championship](@/c/ptw-championship.md).
+On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md), making it his return to professional wrestling after a hiatus which lasted for nearly six years. He continued to appear for the promotion over the following months, earning a shot for the [PTW Championship](@/c/ptw-championship.md), which he wasted by being defeated by the reigning champion, [Puncher](@/w/puncher.md).
 
 ## International wrestling appearances
 
