@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "rosetti.jpg", caption = "Rosetti's entrance, [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).", source = "M3n747" }
 +++
 
-Rosetti, previously known as "Victor Rosetti", is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
+Rosetti, previously known as "Victor Rosetti", is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also worked for [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
@@ -53,6 +53,10 @@ Following [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), Rosetti decided that K
 At [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) an induction ceremony was held, in which [Piotr Opolski](@/w/piotr-opolski.md) swore in Rosetti as the new chairman. Before Rosetti could finish his oath, however, [Krystian Malinowski](@/w/krystian-malinowski.md) made a surprise appearance. He stated that he'd never asked Rosetti to take over his duties as an acting chairman, and that he was disappointed in everyone for being so easily misled by one person. Malinowski then resumed his duties and one of his first decisions was to remove Rosetti from the active roster and move him over to commentary, to help [Krystian Czekaj](@/w/krystian-czekaj.md).
 
 Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md) wrestlers remaining on the active roster, next to [Greg](@/w/greg.md) and [David Oliwa](@/w/david-oliwa.md), with roots in [Do Or Die Wrestling](@/o/ddw.md).
+
+### Legacy of Wrestling (2025)
+
+On 10.11.2025 [Legacy](@/o/low.md) announced that Rosetti will be the guest commentator for the show.
 
 ## In wrestling
 
