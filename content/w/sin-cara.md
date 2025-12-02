@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Sin Cara was a masked luchador character from [PpW](@/o/ppw.md). It was portrayed by numerous workers.
+Sin Cara was a masked luchador character from [PpW](@/o/ppw.md). He was portrayed by numerous workers.
 
 ## Basic info 
 
@@ -20,4 +20,4 @@ Sin Cara was a masked luchador character from [PpW](@/o/ppw.md). It was portraye
 
 ### PpW Ewenement (2012-2013)
 
-According to [Michael HT](@/w/michael-ht.md), he was portrayed by [Rob Scaffold](@/w/rob-scaffold.md) at [Neomania II](@/e/ppw/2012-07-01-ppw-neomania-ii.md) and [Neomania III](@/e/ppw/2013-07-12-ppw-neomania-iii.md), but at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md) it was probably Tymon.
+According to [Michael HT](@/w/michael-ht.md), Sin Cara was portrayed by [Rob Scaffold](@/w/rob-scaffold.md) at [Neomania II](@/e/ppw/2012-07-01-ppw-neomania-ii.md) and [Neomania III](@/e/ppw/2013-07-12-ppw-neomania-iii.md), but at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md) it was probably Tymon.
