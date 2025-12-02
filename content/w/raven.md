@@ -20,7 +20,7 @@ Raven is a retired backyard wrestler who worked for [WKSW](@/o/wksw.md).
 
 ### Wrestlingowy Klub Sportowy Wołów (2013-2014)
 
-Due to fact that most of [WKSW](@/o/wksw.md) history is now considered a lost media, not much is known about Raven's career. It is known that he worked at least 9 matches between May 2013 and February 2014, and during his stint in Wołów-based backyard he won WKSW Championship on two separate occasions.
+Due to the fact that most of [WKSW](@/o/wksw.md) history is now considered lost media, not much is known about Raven's career. It is known that he worked at least nine matches between May 2013 and February 2014, and during his stint in the Wołów-based backyard he won the WKSW Championship on two separate occasions.
 
 ## Championships and accomplishments
 
