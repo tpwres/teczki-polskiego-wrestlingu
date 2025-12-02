@@ -12,7 +12,7 @@ Sędzia Michał is a semi-retired Polish wrestling referee best known from his t
 
 ## Basic info
 
-* Years active: 2019-2021
+* Years active: 2019-2021; 2025
 * Gimmicks/nicknames:
   - Sędzia Michał {{ org_badge(orgs=['mzw']) }}
 * Trained by:
