@@ -81,7 +81,7 @@ In their match at the show, Zombie Johnny had a striking new look, and was also 
 
 #### The Father of Polish Ultraviolent
 
-After his de-zombification Johnny spent the latter half of 2025 being partialy involved in some of the storylines. He often teamed up with his friends such as Biesiad and Stanisław Van Dobroniak facing villainous teams such as [Legia Łysych](@/tt/legia-lysych.md) and [Rodzina](@/tt/rodzina.md). Around that time he become known as "The Father of Polish Ultraviolent" or simply as "The Father" (_Ojciec_). His first attempt in parenting took place at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) where he faced PpW newcomer Antoni Ocean in Trial By Blood Match, which was won by The Father, but proved that Antoni belongs in PpW.
+After his de-zombification Johnny spent the latter half of 2025 being partialy involved in some of the storylines. He often teamed up with his friends, such as Biesiad and Stanisław Van Dobroniak, facing villainous teams, such as [Legia Łysych](@/tt/legia-lysych.md) and [Rodzina](@/tt/rodzina.md). Around that time he become known as "the Father of Polish Ultraviolent", or simply as "the Father" (_Ojciec_). His first attempt at parenting took place at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he faced a newcomer to PpW, Antoni Ocean, in Trial By Blood Match. It was won by the Father, but proved that Antoni belonged in PpW.
 
 ### Dream Factory Wrestling (2017)
 
