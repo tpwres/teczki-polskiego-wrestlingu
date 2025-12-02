@@ -20,11 +20,13 @@ TAXI Złotówa is a micro-influencer and freakfighter-turned-wrestler, who was m
 
 ## Professional wrestling career
 
-### Microinfluencer in training
+### Prime Time Wrestling (2021-2024
+
+#### Microinfluencer in training
 
 TAXI Złotówa is one of the Polish microinfluencers who became best known for his career in freak fights in MMA federations where [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) was doing the duties of ring announcer and host, and where he met Złotówa. He was one of the project-wrestlers of Pan Pawłowski. During the early days of [Prime Time Wrestling](@/o/ptw.md) Arkadiusz tried to attract many niche influencers to wrestling in order to grow both their careers, help PTW's media presence and build audience interest. Złotówa was one of the influencers who managed to continue his pro-wrestling training for some time.
 
-### Feud with Pawłowski
+###3 Feud with Pawłowski
 
 TAXI Złotówa made his debut at PTW's first official show, [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), where he quickly defeated Marcel Budzianowski, who would be later called [Marcelito](@/w/marcelito.md). Złotówa was portrayed as a comedy heel character who demanded a fight with well-known influencers such as [Mariusz Pudzianowski][pudzian], and called Pawłowski a con man for constantly tricking him. He then tried to attack Pawłowski at [Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), but his offensive was repelled by PTW's owner. Złotówa was subsequently suspended from PTW, which led him to make desperate attempts to get his job back. Shortly after that Złotówa had stopped making regular appearances at [PTW Academy](@/o/ptw-academy.md).
 
