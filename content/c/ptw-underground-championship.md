@@ -17,9 +17,9 @@ The PTW Underground Championship is a professional wrestling belt created and pr
 
 * First champion: [Max Speed](@/w/max-speed.md)
 * Most reigns: N/A
-* Longest reign: [Daniel Razor](@/w/daniel-razor.md) (120+ days)
+* Longest reign: [Daniel Razor](@/w/daniel-razor.md) (119 days)
 * Shortest reign: Max Speed (109 days)
-* Oldest champion: Daniel Razor (25 years, 25 days)
+* Oldest champion: [Nano Lopez](@/w/nano-lopez.md) (35 years, 261 days)
 * Youngest champion: Max Speed (23 years, 190 days)
 
 ## History
