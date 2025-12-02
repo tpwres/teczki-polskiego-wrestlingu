@@ -37,7 +37,7 @@ At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), Sheen faced [Disco Pablo](@
 
 ### PpW Ewenement (2025)
 
-At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Tony made his PpW debut as one of the competitors in Zmowa Recruitment Gauntlet Match where he faced - and was quickly defeated by - [Gustav Gryffin](@/w/gustav-gryffin.md).
+At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Tony made his PpW debut as one of the competitors in a Zmowa Recruitment Gauntlet Match, where he faced - and was quickly defeated by - [Gustav Gryffin](@/w/gustav-gryffin.md).
 
 ## In wrestling
 
