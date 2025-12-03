@@ -111,6 +111,12 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
   - s: Singles Match
     en: '[PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md)'
     ed: 2025-11-15
+- - '"Starboy" Nano Lopez(c)'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
+  - s: Singles Match
+    en: '[PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    ed: 2025-12-13
+    nc: upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
