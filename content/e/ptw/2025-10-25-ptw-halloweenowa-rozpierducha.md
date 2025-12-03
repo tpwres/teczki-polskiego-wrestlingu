@@ -75,7 +75,7 @@ toclevel = 2
 * After the break, Okoński (accompanied by a scantily-clad woman, introduced as Dominika) enters to host a traditional charity auction.
 * Just like [a year ago](@/e/ptw/2024-10-19-ptw-underground-23.md), Shida entered wearing a [Ghostface][duchomordy] mask from _Scream_. Polski Niedźwiedź made his entrance as usual. Shida won in a fairly short match, focusing on mutual respect. Him and Bear embraced afterwards.
 * Klakson's Manto Challenge turned out to be a Triple Threat Match against two debuting international wrestlers: Dylan Thorn from Scotland and Shawn Aster from the [Country of Aruba][aruba].
-* Klakson won fairly quickly, hitting a _Polski Przekręt_ (roughly "the Polish Swindle", a Twist of Fate variation) on Thorn for a pinfall.
+* Klakson won fairly quickly, hitting a _Polski Przekręt_ (roughly "the Polish Swindle", a modified Stunner) on Thorn for a pinfall.
 * Damian Lambert entered for an unannounced segment. He lamented the turn from the predator to a victim after the previous show. Because of this he couldn't even look people in the eyes.
 * Pawłowski came out to choose Lambert's opponent. After once again teasing Boguś with an opportunity, he introduced a fellow rookie, Dropper. Lambert defeated him quickly, making a statement with his victory, and left visibly avoiding any eye contact with the audience.
 * Nietykalni made an entrance first, coming as a unit. Members of Team Okoński enter in succession.
