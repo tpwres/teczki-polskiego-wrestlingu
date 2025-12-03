@@ -7,10 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
-[extra.gallery.1]
-path = "plakat.webp"
-caption = "Show poster, showing the team of Storm Riders: [Red Thunder](@/w/red-thunder.md) and Blue Thunder, with [Shadow](@/w/shadow.md) in the middle, and [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) belts above."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 The third Champions War event was held again in [Głuchołazy](@/v/gosir-glucholazy.md), even though the previous event [Beatdown II](@/e/mzw/2017-02-18-mzw-beatdown-2.md) was held at [Bakara](@/v/bakara.md) in Wrocław. Matches featured Czech and German wrestlers alongside MZW regulars.

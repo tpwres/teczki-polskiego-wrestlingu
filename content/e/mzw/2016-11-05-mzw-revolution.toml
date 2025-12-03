@@ -1,0 +1,9 @@
+1 = { path = "plakat.webp", caption = "Show poster with [Asmund](@/w/asmund.md).", source = "Official MZW Facebook" }
+2 = { path = "omega-vice.webp", caption = 'Image announcing new commentators, Adam "Omega" Sekuła, Wojciech "Vice" Baranowski.', source = "Official MZW Facebook"}
+3 = { path = "lider-vs-szymon-siwiec.webp", caption = "Image announcing [Lider](@/w/lider.md) vs [Szymon Siwiec](@/w/szymon-siwiec.md).", source = "Official MZW Facebook"}
+4 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event.", source = "Official MZW Facebook"}
+5 = { path = "zbojnicy-vs-catch-connection.webp", caption = "Image announcing [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md).", source = "Official MZW Facebook"}
+6 = { path = "skullevil-vs-unknown-vs-dobroniak.webp", caption = "Image announcing [Skull Evil](@/w/skull-evil.md) vs ??? vs [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Official MZW Facebook"}
+7 = { path = "shadow-vs-asmund.webp", caption = "Image announcing [Shadow](@/w/shadow.md) vs [Asmund](@/w/asmund.md).", source = "Official MZW Facebook"}
+8 = { path = "demon-vs-kolda.webp", caption = "Image announcing Démon vs R.J. Kolda.", source = "Official MZW Facebook"}
+9 = { path = "mr-b-hexia-vs-alex-arthur.webp", caption = "Image announcing [Mr B.](@/w/mr-b.md) & [Hexia](@/w/hexia.md) vs [Alex Arthur](@/w/alex-arthur.md).", source = "Official MZW Facebook"}

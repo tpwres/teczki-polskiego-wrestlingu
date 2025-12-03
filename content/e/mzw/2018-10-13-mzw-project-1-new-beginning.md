@@ -7,14 +7,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2018-10-13-mzw-project-1-new-beginning-plakat.jpg"
-caption = "Official poster. The four wrestlers are [Asmund](@/w/asmund.md), [Damien Rothschild](@/w/damien-rothschild.md), [Justin Joy](@/w/justin-joy.md) and [Shadow](@/w/shadow.md)."
-source = "Official MZW Facebook"
-[extra.gallery.2]
-path = "2018-10-13-mzw-project-1-new-beginning-plakat-z-autografami.jpg"
-caption = "Autographed poster, given to fans who bought VIP tickets."
-source = "MZW / Krzysztof Zych"
+[extra.gallery]
 +++
 
 ## Card
@@ -54,5 +47,5 @@ source = "MZW / Krzysztof Zych"
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322460)
-* [Recap video](https://youtu.be/2pkg3X3kyY0)
+* [Recap video](https://www.youtube.com/watch?v=2pkg3X3kyY0)
 * [Facebook photo album](https://www.facebook.com/media/set/?set=a.1436496766494545&type=3)

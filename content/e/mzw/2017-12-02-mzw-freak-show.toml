@@ -1,0 +1,5 @@
+1 = { path = "plakat.webp", caption = "Show poster. Wrestlers pictured are: [Justin Joy](@/w/justin-joy.md), Laurance Roman, [Shadow](@/w/shadow.md), [Hexia](@/w/hexia.md), [Asmund](@/w/asmund.md) and [Rick Baxxter](@/w/rick-baxxter.md).", source = "Official MZW Facebook" }
+2 = { path = "laurance-roman-vs-shadow.webp", caption = "Image announcing Laurance Roman vs [Shadow](@/w/shadow.md).", source = "Official MZW Facebook" }
+3 = { path = "buckna-baxxter-vs-apollo-borowsky.webp", caption = "Image announcing [Matt Buckna](@/w/matt-buckna.md) & [Rick Baxxter](@/w/rick-baxxter.md) vs [Apollo](@/w/apollo-anderson.md) & [Bartosz Borowsky](@/w/boro.md).", source = "Official MZW Facebook" }
+4 = { path = "joy-vs-asmund-vs-engel.webp", caption = "Image announcing [Justin Joy](@/w/justin-joy.md) vs [Asmund](@/w/asmund.md) vs [Franz Engel](@/w/franz-engel.md).", source = "Official MZW Facebook" }
+5 = { path = "anthony-vs-skullevil-vs-dobroniak.jpg", caption = "Image announcing [Christopher Anthony](@/w/christopher-anthony.md) vs [Skull Evil](@/w/skull-evil.md) vs [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Official MZW Facebook" }
