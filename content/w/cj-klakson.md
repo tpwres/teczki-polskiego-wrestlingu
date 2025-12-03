@@ -24,10 +24,10 @@ CJ Klakson is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Professional wrestling career
 
-### Before Debut (2019-2025)
+### Before debut (2019-2025)
 
-CJ Klakson was initially a [KPW](@/o/kpw.md) trainee, but never debuted for the organization. After leaving the KPW school, he spent 2024-2025 training in wXw Academy's beginner group.
-In July 2025, Klakson created his Instagram profile and started uploading pre-taped promo vignettes. According to them, he was a "simple boy from Fordon, Bydgoszcz", chasing his dream of becoming a wrestler.
+CJ Klakson was initially a [KPW](@/o/kpw.md) trainee, but never debuted for the organization. After leaving the [KPW School](@/o/szkola-kpw.md), he spent 2024-2025 training in wXw Academy's beginner group.
+In July 2025, Klakson created his Instagram profile and started uploading pre-taped promo vignettes. According to them, he was a "simple boy from [Fordon, Bydgoszcz][fordon]", chasing his dream of becoming a wrestler.
 Further vignettes emphasised Klakson's "hottest free agent" status, seeing him answer multiple phone calls from all over the world.
 
 ### Prime Time Wrestling (2025-present)
@@ -50,7 +50,7 @@ Over the following months, Klakson worked exclusively against international comp
   - _Rondo w Fordonie_ (Spinning Side Slam)
 * Entrance music:
   - "Polska" by KULT
-    {{ org_badge(orgs=['ptw']) }} (2025-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2025-)<br>
     {{ music(yt='K0NHY7wNDuM')}}
     {{ music(spot='1ngjjSd73Fgkcf3uOCGnxZ')}}
     {{ music(apple='1098856767?i=1098856826')}}
@@ -59,3 +59,5 @@ Over the following months, Klakson worked exclusively against international comp
 
 * [Instagram profile](https://www.instagram.com/cjklaksonpl/)
 * [X profile](https://x.com/CJKlaksonPL)
+
+[fordon]: https://en.wikipedia.org/wiki/Fordon,_Bydgoszcz

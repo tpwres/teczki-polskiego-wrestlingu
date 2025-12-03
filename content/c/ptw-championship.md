@@ -30,7 +30,7 @@ The match was won by Dawid "Puncher" Seńko, who then became the inaugural PTW C
 
 ## Belt design
 
-The championship belt design is inspired by WWE's World Heavyweight Championship, both the modern variation, and the classic Big Gold Belt dating back to the National Wrestling Alliance (NWA).
+The championship belt design is inspired by WWE's World Heavyweight Championship, both the modern variation, and the classic [Big Gold Belt][duży-złoty-pas] dating back to the [National Wrestling Alliance][nwa] (NWA).
 Like the historic Big Gold Belt, the title has three large black and gold plates on a black leather strap.
 All three plates include gold filigree, and each plate is outlined with a rope trim to represent the three ropes of a wrestling ring.
 The central plate shows a large globe, with a black rim and "Prime Time Wrestling" and "Champion" engravings. Next to it, on both sides, are engravings of a wrestling ring.
@@ -127,8 +127,11 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
     ed: 2025-09-28
 - - 'Puncher(c)'
   - '[Spartan](@/w/spartan.md)'
-  - s: Singles Match
+  - s: All or Nothing Match
     en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
     nc: upcoming
 {% end %}
+
+[duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt
+[nwa]: https://en.wikipedia.org/wiki/National_Wrestling_Alliance

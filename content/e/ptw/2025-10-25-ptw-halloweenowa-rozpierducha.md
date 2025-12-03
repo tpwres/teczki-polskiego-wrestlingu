@@ -68,14 +68,14 @@ toclevel = 2
 
 * Street Creed worked the match as heels, whereas The Lancadores (with their manager Tori Fox) played babyfaces.
 * Post-match, the heels tried to put an exclamation mark on their victory, continuing the beatdown on The Lancadores. Tori Fox thwarted their attempts, disposing of both Street Creed members.
-* Damian Adler, a Polish competitor trained in Germany and a former student of the [KPW school]@/o/szkola-kpw.md), made his debut as Pawłowski's hand-picked opponent for Razor's Open Challenge. Adler worked the match as a heel, presenting a blend of powerhouse style and agility. Razor won with a crucifix pin to retain.
-* Sawicki made his entrance wearing a skull mask with facepaint underneath, playing up the Halloween theme of the show. His entrance mimicked [La Parka][pa-larka].
+* Damian Adler, a Polish competitor trained in Germany and a former student of the [KPW school](@/o/szkola-kpw.md), made his debut as Pawłowski's hand-picked opponent for Razor's Open Challenge. Adler worked the match as a heel, presenting a blend of powerhouse style and agility. Razor won with a crucifix pin to retain.
+* Sawicki made his entrance wearing a skull mask with facepaint underneath, playing up the Halloween theme of the show. His entrance mimicked [La Parka's][pa-larka].
 * Pawłowski entered to pick his opponent, teasing Boguś (working as timekeeper) that this was his chance. However, the one to debut was a fellow PTW rookie, Bumper. Sawicki disposed of him in a quick fashion.
 * Andi Zick Zack won a Halloween Hardcore Match, followed by a break.
 * After the break, Okoński (accompanied by a scantily-clad woman, introduced as Dominika) enters to host a traditional charity auction.
 * Just like [a year ago](@/e/ptw/2024-10-19-ptw-underground-23.md), Shida entered wearing a [Ghostface][duchomordy] mask from _Scream_. Polski Niedźwiedź made his entrance as usual. Shida won in a fairly short match, focusing on mutual respect. Him and Bear embraced afterwards.
-* Klakson's Manto Challenge turned out to be a Triple Threat Match against two debuting international wrestlers: Dylan Thorn from Scotland and Shawn Aster from the [Country of Aruba][https://pl.wikipedia.org/wiki/Aruba].
-* Klakson won fairly quickly, hitting a _Polski Przekręt_(roughly "the Polish Swindle", a Twist of Fate variation) on Thorn for a pinfall.
+* Klakson's Manto Challenge turned out to be a Triple Threat Match against two debuting international wrestlers: Dylan Thorn from Scotland and Shawn Aster from the [Country of Aruba][aruba].
+* Klakson won fairly quickly, hitting a _Polski Przekręt_ (roughly "the Polish Swindle", a modified Stunner) on Thorn for a pinfall.
 * Damian Lambert entered for an unannounced segment. He lamented the turn from the predator to a victim after the previous show. Because of this he couldn't even look people in the eyes.
 * Pawłowski came out to choose Lambert's opponent. After once again teasing Boguś with an opportunity, he introduced a fellow rookie, Dropper. Lambert defeated him quickly, making a statement with his victory, and left visibly avoiding any eye contact with the audience.
 * Nietykalni made an entrance first, coming as a unit. Members of Team Okoński enter in succession.
@@ -97,4 +97,4 @@ toclevel = 2
 [konfirmacja]: https://www.facebook.com/reel/1184868053698977
 [pa-larka]: https://en.wikipedia.org/wiki/L._A._Park
 [duchomordy]: https://en.wikipedia.org/wiki/Ghostface_(Scream)
-[Aruba]: https://pl.wikipedia.org/wiki/Aruba
+[aruba]: https://pl.wikipedia.org/wiki/Aruba
