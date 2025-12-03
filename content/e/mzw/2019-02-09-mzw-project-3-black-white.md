@@ -7,10 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2019-02-09-mzw-project-3-black-white-plakat.jpg"
-caption = "Official poster, showing [Damien Rothschild](@/w/damien-rothschild.md) and [Shadow](@/w/shadow.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 ## Card
