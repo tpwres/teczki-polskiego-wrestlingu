@@ -208,7 +208,7 @@ A number of new Polish wrestlers made their debuts: [Polski Niedźwiedź](@/w/po
 
 On the other hand, the reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) [Max Speed](@/w/max-speed.md) was fired from PTW for choosing to appear at [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), and his title was vacated. The [next event](@/e/ptw/2025-07-19-ptw-nietykalni.md) saw [Daniel Razor](@/w/daniel-razor.md) become the new Underground Champion.
 
-On the international front, the Austrian sister promotion PTW:WWA has effectively closed down. [Krampus](@/w/krampus.md), WWA's owner, remained on good terms with PTW and appeared at a couple of shows, bringing some Austrian talent with him. At the same time, PTW established cooperation with the Italian promotion BestYa Slam.
+On the international front, the Austrian sister promotion PTW:WWA has effectively closed down. [Krampus](@/w/krampus.md), WWA's owner, remained on good terms with PTW and appeared at a couple of shows, bringing some Austrian talent with him. At the same time, PTW established cooperation with the Italian promotion BestYa Wrestling.
 
 ## Polish wrestling scene
 
