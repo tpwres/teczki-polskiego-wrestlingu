@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Łukasz "Prezes" Okoński is the owner of [Szafirowy Dwór](@/v/dworek-kozlow.md) and the co-owner of [Prime Time Wrestling](@/o/ptw.md).
+Łukasz "Prezes" Okoński is the owner of [Szafirowy Dwór](@/v/dworek-kozlow.md) and the co-owner-turned-wrestler of [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
