@@ -24,7 +24,7 @@ toclevel = 2
 {% card(predicted=true) %}
 - - '[Puncher](@/w/puncher.md)(c)'
   - '[Spartan](@/w/spartan.md)'
-  - c: '[PTW Championship](@/c/ptw-championship.md), PTW:WWA Championship'
+  - c: '[PTW Championship](@/c/ptw-championship.md) & PTW:WWA Championship'
     s: All or Nothing Match
     nc: upcoming
 - - '[Nano Lopez](@/w/nano-lopez.md)(c)'
