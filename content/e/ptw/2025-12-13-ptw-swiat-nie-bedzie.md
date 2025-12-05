@@ -19,6 +19,7 @@ toclevel = 2
 * As per the [reel][rolka] posted by PTW on 1.12.2025, the stakes were increased with the addition of the PTW:WWA Championship. Depending on the match result, the Chairman whose competitor loses will have to leave PTW.
 * On 2.12.2025 PTW [announced][nie-rolka] that [Nano Lopez](@/w/nano-lopez.md) is going to defend his newly-won [PTW Underground Championship](@/c/ptw-underground-championship.md) against up-and-comer [CJ Klakson](@/w/cj-klakson.md).
 * On 4.12.2025 PTW announced [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) in action.
+* The next day saw the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 
 ## Predicted card
 
@@ -35,6 +36,11 @@ toclevel = 2
 - - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '???'
   - nc: upcoming
+- - '[Royal Rebels](@/tt/royal-rebels.md]: [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md)(c)'
+  - 'Davide Adami & Luke Astaroth'
+  - s: Tag Team Match
+    c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    nc: upcoming
  {% end %}
 
 ## References
