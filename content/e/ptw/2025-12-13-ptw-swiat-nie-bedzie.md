@@ -36,7 +36,7 @@ toclevel = 2
 - - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '???'
   - nc: upcoming
-- - '[Royal Rebels](@/tt/royal-rebels.md]: [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md)(c)'
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Davide Adami & Luke Astaroth'
   - s: Tag Team Match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
