@@ -42,7 +42,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 10,000 PLN Battle Royal
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: Ojcowski Hardcore Match
 - - '[Michael HT](@/w/michael-ht.md)'
   - g: Auction of a [Waldorff-era](@/v/waldorffa25.md) PpW baseball jacket.
