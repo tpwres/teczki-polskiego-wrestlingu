@@ -20,6 +20,7 @@ toclevel = 2
 * On 2.12.2025 PTW [announced][nie-rolka] that [Nano Lopez](@/w/nano-lopez.md) is going to defend his newly-won [PTW Underground Championship](@/c/ptw-underground-championship.md) against up-and-comer [CJ Klakson](@/w/cj-klakson.md).
 * On 4.12.2025 PTW announced [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) in action.
 * The next day saw the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
+* On 6.12.2025 PTW posted an image teasing the "spectacular return" of someone, who was with PTW "from the very beginning".
 
 ## Predicted card
 
