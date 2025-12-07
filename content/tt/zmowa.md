@@ -40,7 +40,7 @@ At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) 
 
 #### New Better Zmowa
 
-Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/axel-fox.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) climbed on top of PpW hierarchy once again after Olgierd's victory over Goblin for PpW Championship. Mister Z also announced Zmowa's intent to become inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably on the [Freebird Rule][freebird-rule]), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match.
+Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/axel-fox.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered to him by [Mister Z](@/w/mister-z.md), thus joining [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) he climbed on top of PpW's hierarchy once again after Olgierd won the PpW Championship from Goblin. Mister Z also announced Zmowa's intent to become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably in accordance with the [Freebird Rule][freebird-rule]), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match.
 
 ## Members
 
@@ -64,6 +64,5 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
 * [PpW Championship](@/c/ppw-championship.md) (2 times) - [Gustav Gryffin](@/w/gustav-gryffin.md) (1), [Olgierd](@/w/olgierd.md) (1; current)
 * [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - [Isnorr](@/w/isnorr.md)
 * [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times) - [Marco Hammers](@/w/marco-hammers.md)
-
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
