@@ -135,11 +135,11 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(yt='spq7KCQWCO4')}}
     {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
     {{ music(apple='750848937?i=750848967')}}
-  - "Fopa i Nietakt" by Słoń/Mikser, feat WSRH intro mixed with "Slasher" by Słoń/Mikser (mixed by [Referee Kornel](@/w/sedzia-kornel.md))
+  - Mix: "Fopa i Nietakt" by Słoń/Mikser, feat WSRH // "Slasher" by Słoń/Mikser (mix by [Referee Kornel](@/w/sedzia-kornel.md))
     {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
     {{ music(yt='jt_2gXNBlqU')}}
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
-    {{ music(apple='1509575453?i=1509575457')}}<br>
+    {{ music(apple='1509575453?i=1509575457')}} <br>
     {{ music(yt='spq7KCQWCO4')}}
     {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
     {{ music(apple='750848937?i=750848967')}}
