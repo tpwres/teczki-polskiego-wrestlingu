@@ -100,12 +100,13 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
 * Tag Teams and stables:
   - [GobLis](@/tt/goblis.md) (2024-2025)
 * Entrance music:
-  - "Get Got" by Death Grips intro mixed with "Dumbest Girl Alive (Instrumental) by 100 gecs
+  - "Get Got" by Death Grips intro mixed with "Dumbest Girl Alive (Instrumental)" by 100 gecs
     {{ org_badge(orgs=['ppw', 'mzw']) }} (2023-present) <br>
     {{ music(yt='HIrKSqb4H4A')}}
     {{ music(spot='781V2Y5LPtcpgONEOadadE')}}
-    {{ music(apple='515449028?i=515449215')}}
+    {{ music(apple='515449028?i=515449215')}} <br>
     {{ music(yt='SRVhG4Cv4hA')}}
+    {{ music(spot='0qMZXgcLfkl5RI3q50KHMH')}}
   - "Punk Tactics" by Joey Valence & Brae
     {{ org_badge(orgs=['ppw']) }} (2024-2025, as part of [GobLis](@/tt/goblis.md)) <br>
     {{ music(yt='OklSZmIx9-o') }}
