@@ -81,7 +81,7 @@ This intervention allowed Goblin to retain his Championship, but he became angry
 At the same time, Mister Z declared that he wanted to put both Gustav and Goblin down. He booked a Three-on-Three Tag Team Match, placing himself and [Legia Łysych](@/tt/legia-lysych.md) against old enemies: Gustav, Goblin, and his friend [Axel Fox](@/w/axel-fox.md).
 All of them were visibly discontent at having to team with each other, but it was Axel who was the most upset, arguing that [GobLis](@/tt/goblis.md) should focus on becoming the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) instead of helping Goblin's old rival.
 During this six-man match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel was a no-show, forcing Goblin and Gustav to fight at a handicap.
-In the final moments, the much-needed Axel finally came to seemingly save his friend, but that was not what happened. Instead, Axel turned his back on Goblin and Gustav by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to pin the Acid Messiah, which granted Zmowa's Hooligan an opportunity to challenge Goblin for the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+In the final moments, the much-needed Axel finally came to seemingly save his friend, but that was not what happened. Instead, Axel turned his back on Goblin and Gustav by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to pin the Acid Messiah, which granted Zmowa's Hooligan an opportunity to challenge Goblin for the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). At that show, Goblin's championship reign ended after a brutal match.
 
 ### Maniac Zone Wrestling (2025-present)
 
