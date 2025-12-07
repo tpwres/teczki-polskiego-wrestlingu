@@ -19,7 +19,7 @@ toclevel = 2
   - '[Snake](@/w/snake.md)'
   - nc: '?'
 - - '[Mazi](@/w/mazi.md)'
-  - '[Sirreks](@/w/sirreks.md)'
+  - '[Sirreks](@/w/red-thunder.md)'
   - s: ECW Championship #1 Contendership Match
     nc: '?'
 - - '[Terry Shadow](@/w/shadow.md)(c)'

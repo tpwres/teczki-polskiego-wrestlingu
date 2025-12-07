@@ -16,7 +16,7 @@ toclevel = 2
   - 'The Viper'
   - nc: '?'
 - - '[Sundance Slate](@/w/slate.md)'
-  - '[Sirreks](@/w/sirreks.md)'
+  - '[Sirreks](@/w/red-thunder.md)'
   - s: Extreme Championship Weekly
     nc: '?'
 - - 'Nathan Flame'

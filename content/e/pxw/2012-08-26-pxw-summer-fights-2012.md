@@ -21,7 +21,7 @@ toclevel = 2
     s: Hardcore Match
     nc: '?'
 - - 'Nathan Flame'
-  - '[Sirreks](@/w/sirreks.md)'
+  - '[Sirreks](@/w/red-thunder.md)'
   - nc: '?'
 - - '???'
   - '[Black Joker](@/w/lider.md)'

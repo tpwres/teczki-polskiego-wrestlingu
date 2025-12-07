@@ -27,7 +27,7 @@ toclevel = 2
   - s: PXW championship #1 Contendership No Holds Barred Match
     nc: '?'
 - - '[Slate](@/w/slate.md)(c)'
-  - '[Sirreks](@/w/sirreks.md)'
+  - '[Sirreks](@/w/red-thunder.md)'
   - s: Submision Match
     c: PXW Championship
     nc: '?'

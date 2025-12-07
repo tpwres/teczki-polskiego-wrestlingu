@@ -24,7 +24,7 @@ Similarly to [Backyardmania II](@/e/wksw/2011-07-01-wksw-backyardmania-2.md), th
 - - 'Resh'
   - 'Vairen'
   - nc: '?'
-- - '[Snake](@/w/snake.md) & [Reks](@/w/sirreks.md)'
+- - '[Snake](@/w/snake.md) & [Reks](@/w/red-thunder.md)'
   - '[Demente](@/w/demente.md) & Vandal'
   - c: PXW Tag Team Championship
     nc: '?'
@@ -56,7 +56,7 @@ Similarly to [Backyardmania II](@/e/wksw/2011-07-01-wksw-backyardmania-2.md), th
   - '[Black Joker](@/w/lider.md)'
   - s: PXW Championship #1 Contendership Match
     nc: '?'
-- - '[Sirreks](@/w/sirreks.md)'
+- - '[Sirreks](@/w/red-thunder.md)'
   - '[Terry Shadow](@/w/shadow.md)'
   - c: PXW Championship
     nc: '?'
