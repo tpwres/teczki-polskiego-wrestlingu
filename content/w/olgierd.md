@@ -140,6 +140,8 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 
 * [PpW Ewenement](@/o/ppw.md):
 
+- [PPW Championship](@/c/ppw-championship.md) (1 time; current)
+
   _Backyard Era Championships_:
   - PpW YouTube Championship (1 time; inaugural)
 
