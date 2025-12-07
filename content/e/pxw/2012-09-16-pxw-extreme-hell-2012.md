@@ -19,7 +19,7 @@ toclevel = 2
     nc: '?'
 - - '[Nightmare](@/w/nightmare.md)'
   - '[Manny](@/w/manny.md)'
-  - '[Sirreks](@/w/sirreks.md)'
+  - '[Sirreks](@/w/red-thunder.md)'
   - c: PXW Hardcore Championship
     s: No Holds Barred Match
     nc: '?'

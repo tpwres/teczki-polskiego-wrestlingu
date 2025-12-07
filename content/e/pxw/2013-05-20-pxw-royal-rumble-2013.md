@@ -19,7 +19,7 @@ toclevel = 2
   - '[Nightmare](@/w/nightmare.md)'
   - nc: '?'
 - - '[Black Joker](@/w/lider.md)(c)'
-  - '[Luke Sirreks](@/w/sirreks.md)'
+  - '[Luke Sirreks](@/w/red-thunder.md)'
   - c: PXW Championship
     nc: '?'
 - - ???
