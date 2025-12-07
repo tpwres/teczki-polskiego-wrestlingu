@@ -1,7 +1,7 @@
 +++
 title = "Olgierd"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Krzysztof Zych"]
 [extra]
 toclevel = 2
 [taxonomies]
