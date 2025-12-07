@@ -252,12 +252,23 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles Match
     en: '[Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)'
     ed: 2025-10-24
-- - 'Goblin (c)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - s: TBD
+- - '[Olgierd](@/w/olgierd.md)'
+  - 'Goblin (c)'
+  - s: Chain God Realm Match
     en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
     ed: 2025-12-06
-    nc: upcoming
+{% end %}
+
+**Total: 182 days**
+
+### Champion #9: Olgierd
+
+{% free_card() %}
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Goblin](@/w/goblin.md) (c)'
+  - s: Chain God Realm Match
+    en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
+    ed: 2025-12-06
 {% end %}
 
 ## References
