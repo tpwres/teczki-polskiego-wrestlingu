@@ -75,7 +75,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Championship](@/c/ppw-championship.md) - Olgierd
+  - [PpW Championship](@/c/ppw-championship.md) (1 time) - Olgierd
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - Isnorr
   - Golden Goat Trophy (2023) - Gabriel Queen (as Bonus CBD)
 * [Prime Time Wrestling](@/o/ptw.md):
