@@ -35,9 +35,9 @@ After his departure from KPW, Boza joined [Prime Time Wrestling](@/o/ptw.md), st
 
 At or after REVOLUCJA, Mutant seemingly suffered an undisclosed injury and disappeared from PTW for nearly three years before making his return in February 2024 at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where he took part in the Gold Rush Rumble Match for the [PTW Championship](@/c/ptw-championship.md). He managed to eliminate [Max Speed](@/w/max-speed.md) before being eliminated by [Wiktor Longman](@/w/wiktor-longman.md) shortly after. He later revealed that he suffered another shoulder injury during his return.
 
-This marked his last appearance in PTW, as he publicly [announced his departure](@/a/ptw-exits.md) from the federation in June 2024. From then on he was often active on social media, teasing a return to either KPW or [PpW](@/o/ppw.md), but that never came to be.
+This marked his last appearance in PTW, as he publicly [announced his departure](@/a/ptw-exits.md) from the federation in June 2024. From then on he was often active on social media, teasing either a return to KPW, or debuting for [PpW](@/o/ppw.md). The former never came to be, and the latter not until the end of the following year.
 
-### PpW Ewenement Wrestling (2005-)
+### PpW Ewenement Wrestling (2025-)
 
 Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal, but lost.
 
