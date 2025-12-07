@@ -15,6 +15,8 @@ toclevel = 2
 
 Road to Royal Rumble will be a 2026 European tour by [WWE](@/o/wwe.md), consisting of 11 shows in Germany, Scotland, Denmark, England, Northern Ireland and Poland. The Polish show is set to take place in [Ergo Arena](@/v/ergo-arena.md), at the border between Gdańsk and Sopot. It will be the first WWE show in the Tricity area since [2012](@/e/wwe/2012-04-12-wwe-raw-house-show.md), and the first one in Poland overall since [2015](@/e/wwe/2015-04-15-wwe-live.md).
 
+Independently, but driven by the bigger show's influence and fan interest, two Polish federations are holding shows one day before, on Friday January 16th. The local [KPW](@/o/kpw.md) is holding [Made In Poland](@/e/kpw/2026-01-16-made-in-poland.md), and Warsaw-based [PpW](@/o/ppw.md) is coming to Gdynia with [Najlepsza Gala w Mieście](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), with a mere 10 minutes walk between the two venues.
+
 ## Build-up
 
 * On 16.10.2025 Live Nation Polska, Ticketmaster Polska and Ergo Arena created a joint [Facebook event][fb-event] for the show. The description stated that tickets pre-sale would begin on 29.10 (for people registered on WWE.com) and 30.10 (via Ticketmaster), whereas the general sale would open on 31.10 (all three dates on 10:00 AM). Ticket prices weren't made known, but the Ticketmaster mobile application made mention of VIP tickets, suggesting at least two categories.
