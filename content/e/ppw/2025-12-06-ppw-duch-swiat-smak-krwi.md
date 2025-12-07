@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). It is set to return to [Teatr Komuna](@/v/teatr-komuna.md) on [St. Nicholas Day][st-nicholas-day].
+Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) on [St. Nicholas Day][st-nicholas-day], December 6th 2025.
 
 ## Build-up
 
@@ -25,38 +25,54 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) is an up
 * On 27.11.2025 PpW announced [Marco Hammers](@/w/marco-hammers.md) vs [Johnny Blade](@/w/johnny-blade.md) in an Ojcowski Hardcore Match (_Fatherly Hardcore Match_), with Marco possibly becoming a new patriarch of PpW should he defeat Blade (the father of hardcore).
 * On 30.11.2025 PpW announced a Battle Royal for the prize of a 10.000&nbsp;PLN Christmas bonus (approximately 2360&nbsp;EUR, 2070&nbsp;GBP, 2740&nbsp;USD or 427.550&nbsp;JPY).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Goblin](@/w/goblin.md)(c)'
-  - '[Olgierd](@/w/olgierd.md)'
+{% card() %}
+- - '[Santa Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md), [Axel Fox](@/w/axel-fox.md)'
+  - g: Gifts from Santa
+- - 'Akane Fujita'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Antoni Ocean'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - '[Lady Killer](@/w/boro.md)'
+  - '["Riverman" Tony Sheen](@/w/riverman.md)'
+  - '[Mutant](@/w/mutant.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - s: 10,000 PLN Battle Royal
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - s: Ojcowski Hardcore Match
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Loser Leaves PpW Bullrope & Chairs Match
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - g: The Patriarch Vic Golden forces Gabriel Queen to join [Rodzina](@/tt/rodzina.md)
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Axel Fox](@/w/axel-fox.md)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Biesiad](@/w/biesiad.md)'
+  - s: Tag Team Match
+- - 'Shigehiro Irie'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Goblin](@/w/goblin.md)(c)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Chains Match
-    nc: upcoming
-- - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Vic Golden](@/w/vic-golden.md)'
-  - s: Loser Leaves PpW Bullrope & Chairs Match
-    nc: upcoming
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - 'Shigehiro Irie'
-  - nc: upcoming
-- - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - 'Akane Fujita'
-  - nc: upcoming
-- - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
-  - s: Ojcowski Hardcore Match
-    nc: upcoming
-- - '???'
-  - '???'
-  - s: Battle Royal
-    nc: upcoming
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
-
+* Zmowa opened the show with a promo asserting their dominance, and ambitions to capture both the [PpW Championship](@/c/ppw-championship.md) and the upcoming [Tag Team Championship](@/c/ppw-tag-team-championship.md).
+* Soon after, Dobroniak entered the ring, wearing a Santa Claus jacket, and a supermarket-brand plastic bag in hand, and started to dispense gifts to the wrestlers present
+  - Dobroniak pointed out that he has bigger pectorals than Marco, likening them to pepperoni, which the audience quickly caught and chanted at Marco. Next, he addressed the fact that Marco likes to shoot testosterone, but that makes "the guy in his pants" not work. The gift for Marco was a blister packet of blue lozenges, presumably Viagra. Marco initially accepted, trying to hide the packet in his pants, but angrily threw them away later.
+  - According to Santa, Olgierd spent too much time online, especially on Facebook group _Typowe WWE_. His recommendation for Olgierd was that he should get himself a girlfriend, and his gift was a lightly used ("had to test it myself", said Santa) porn magazine. Olgierd was quite happy about his gift, browsing it mid-ring with Marco joining in, until Dobroniak told him that "the girl on page 12 reminds me of your mother".
+* The 10,000 PLN Battle Royal had some surprise debuts and returns:
+  - Announced as Lady Killer, in a pink singlet he hasn't used since his days at MZW, [Boro](@/w/boro.md). This was not strictly his debut, as he played one of the zombies at [Clash Of The Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md), but in heavy makeup.
+  - [Mutant](@/w/mutant.md), a former [KPW](@/o/kpw.md) and two-time [PTW](@/o/ptw.md) wrestler, in his debut for PpW.
+  - [Tony Sheen](@/w/riverman.md). While Tony wrestled for PpW at the [Wrocław show](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), this was his debut in Warsaw.
+* In the Fatherly Hardcore Match, Marco brought an unidentified plastic jar, while Johnny carried a plastic bucket into the ring. One spot had him call Marco a "bałwan" (_snowman_, but also a light derogatory term, akin to _moron_), paint his face white with some shaving foam and attempt to stuck a carrot in his mouth. Later, after receiving a solid beating, Marco opened his mysterious jar, and consumed a spoonful of the contents to regain energy. However, he received a severe beating with Johnny's trouser belt, and was lost by passing out due to Johnny choking him with another belt. As a further punishment, Johnny shaved a piece of Marco's beard, and planted the hairs on Marco's head, giving him something new: a head of hair.
 ## References
 
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0wV7KeMr8bsikonrJTy6KUBzqE3r4koaDFJFS5U4BCaz9HC3rYHSeXJraeSavQm7gl)
