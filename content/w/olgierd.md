@@ -126,7 +126,7 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(spot='7Lys2P5pmqfrF3sKivfB6q')}}
     {{ music(apple='1437914014?i=1437914180')}}
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-present, in tag team with [Marco Hammers](@/w/marco-hammers.md))<br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-present, as part of [Legia Łysych](@/tt/legia-lysych.md))<br>
     {{ music(yt='jt_2gXNBlqU')}}
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
     {{ music(apple='1509575453?i=1509575457')}}
