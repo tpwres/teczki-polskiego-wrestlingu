@@ -100,13 +100,15 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
 * Tag Teams and stables:
   - [GobLis](@/tt/goblis.md) (2024-2025)
 * Entrance music:
-  - "Get Got" by Death Grips
+  - Mix: "Get Got" by Death Grips / "Dumbest Girl Alive (Instrumental)" by 100 gecs
     {{ org_badge(orgs=['ppw', 'mzw']) }} (2023-present) <br>
     {{ music(yt='HIrKSqb4H4A')}}
     {{ music(spot='781V2Y5LPtcpgONEOadadE')}}
-    {{ music(apple='515449028?i=515449215')}}
+    {{ music(apple='515449028?i=515449215')}} <br>
+    {{ music(yt='SRVhG4Cv4hA')}}
+    {{ music(spot='0qMZXgcLfkl5RI3q50KHMH')}}
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-2025, in tag team with [Axel Fox](@/w/axel-fox.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-2025, as part of [GobLis](@/tt/goblis.md)) <br>
     {{ music(yt='OklSZmIx9-o') }}
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9') }}
     {{ music(apple='1697553064?i=1697553067&l=pl') }}
@@ -114,8 +116,8 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
+  - [PpW Championship](@/c/ppw-championship.md) (1 time)
   - 20 Typa 20 Broni Rumble Match (2025)
-  - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
 
 ## Internet presence
 

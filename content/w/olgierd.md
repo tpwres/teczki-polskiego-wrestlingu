@@ -121,12 +121,12 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(spot='02JLJi7sryFu44hhNWOv1c')}}
     {{ music(apple='1509932137?i=1509932139')}}
   - "Sicario" by Słoń feat. Szpaku
-    {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2023-)<br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2023-2025)<br>
     {{ music(yt='pE0DdJf-tSo')}}
     {{ music(spot='7Lys2P5pmqfrF3sKivfB6q')}}
     {{ music(apple='1437914014?i=1437914180')}}
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
-    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Marco Hammers](@/w/marco-hammers.md))<br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-present, as part of [Legia Łysych](@/tt/legia-lysych.md))<br>
     {{ music(yt='jt_2gXNBlqU')}}
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
     {{ music(apple='1509575453?i=1509575457')}}
@@ -135,10 +135,20 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(yt='spq7KCQWCO4')}}
     {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
     {{ music(apple='750848937?i=750848967')}}
+  - Mix: "Fopa i Nietakt" by Słoń/Mikser, feat WSRH / "Slasher" by Słoń/Mikser
+    {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
+    (mixed by [Referee Kornel](@/w/sedzia-kornel.md))<br>
+    {{ music(yt='jt_2gXNBlqU')}}
+    {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
+    {{ music(apple='1509575453?i=1509575457')}} <br>
+    {{ music(yt='spq7KCQWCO4')}}
+    {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
+    {{ music(apple='750848937?i=750848967')}}
 
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
+  - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
 
   _Backyard Era Championships_:
   - PpW YouTube Championship (1 time; inaugural)
