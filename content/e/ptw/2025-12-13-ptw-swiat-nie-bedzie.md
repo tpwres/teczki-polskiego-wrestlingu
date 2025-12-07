@@ -20,8 +20,8 @@ toclevel = 2
 * On 2.12.2025 PTW [announced][nie-rolka] that [Nano Lopez](@/w/nano-lopez.md) is going to defend his newly-won [PTW Underground Championship](@/c/ptw-underground-championship.md) against up-and-comer [CJ Klakson](@/w/cj-klakson.md).
 * On 4.12.2025 PTW announced [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) in action.
 * The next day saw the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
-* On 6.12.2025 PTW posted an image teasing the "spectacular return" of someone, who was with PTW "from the very beginning". Inactive ex-PTW wrestler [Remo](@/w/remo.md) who recently started [teasing][remo] his return to wrestling fits the bill.
-* On 7.12 PTW announced Jay vs [Daniel Razor](@/w/daniel-razor.md) in a Christmas Hardcore Match. Jay, making his Polish debut in PTW, is an Irish wrestler, mainly associated with [OTT][over-the-top].
+* On 6.12.2025 PTW posted an image teasing the "spectacular return" of someone, who was with PTW "from the very beginning".
+* On 7.12.2025 PTW announced a Christmas Hardcore Match between [Daniel Razor](@/w/daniel-razor.md) vs Jay, an Irish wrestler mainly associated with [OTT][over-the-top]. This will be his Polish debut.
 
 ## Predicted card
 
@@ -54,5 +54,4 @@ toclevel = 2
 
 [rolka]:https://www.facebook.com/reel/1180952684015552
 [nie-rolka]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0UAhp9HYNCaGixbArmjm7TQjTm81bLQV5WTx6bKj16nDGATCHJycisQtyftUJc24ol
-[remo]: https://www.instagram.com/p/DRckwbgCFLc/
 [over-the-top]: https://www.cagematch.net/?id=8&nr=1481
