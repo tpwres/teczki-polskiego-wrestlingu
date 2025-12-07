@@ -254,11 +254,10 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     ed: 2025-10-24
 - - '[Olgierd](@/w/olgierd.md)'
   - 'Goblin (c)'
-  - s: Chains Match
+  - s: Chain God Realm Match
     en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
     ed: 2025-12-06
 {% end %}
-
 
 **Total: 182 days**
 
@@ -266,8 +265,8 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 
 {% free_card() %}
 - - '[Olgierd](@/w/olgierd.md)'
-  - 'Goblin (c)'
-  - s: Chains Match
+  - '[Goblin](@/w/goblin.md) (c)'
+  - s: Chain God Realm Match
     en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
     ed: 2025-12-06
 {% end %}
