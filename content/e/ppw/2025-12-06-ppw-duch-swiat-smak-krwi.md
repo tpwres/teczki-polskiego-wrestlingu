@@ -47,6 +47,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 - - '[Michael HT](@/w/michael-ht.md)'
   - g: Auction of a [Waldorff-era](@/v/waldorffa25.md) PpW baseball jacket.
 - - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Loser Leaves PpW Bullrope & Chairs Match
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
