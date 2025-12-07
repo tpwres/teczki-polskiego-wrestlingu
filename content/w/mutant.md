@@ -16,6 +16,7 @@ Michał "Mutant" Świątkowski, previously known as Daniel Boza, is a Polish wre
 * Gimmicks/nicknames:
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
+  - Mutant {{ org_badge(org='ppw')}}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
@@ -36,18 +37,22 @@ At or after REVOLUCJA, Mutant seemingly suffered an undisclosed injury and disap
 
 This marked his last appearance in PTW, as he publicly [announced his departure](@/a/ptw-exits.md) from the federation in June 2024. From then on he was often active on social media, teasing a return to either KPW or [PpW](@/o/ppw.md), but that never came to be.
 
+### PpW Ewenement Wrestling (2005-)
+
+Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal, but lost.
+
 ## In wrestling
 
 * Finishers:
   - Spinning Kick To Kneeling Opponent (2021-2024)
 * Entrance music:
   - "Wilki Dwa" by Luxtorpeda
-    {{ org_badge(orgs=['kpw']) }} (2019-2020)  <br>
+    {{ org_badge(orgs=['kpw']) }} (2019-2020)<br>
     {{ music(yt='SV0IPygRsW4')}}
     {{ music(spot='6HtFpYx3yZo9nJNumfn7Ts')}}
     {{ music(apple='1543261324?i=1543261748')}}
   - "Beast" by The Hustle Standard
-    {{ org_badge(orgs=['ptw']) }} (2021-2024)  <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2024)<br>
     {{ music(yt='p2ZljzdGPUg')}}
     {{ music(spot='0WKY4nRJgz3GUG7IqkTgUH')}}
     {{ music(apple='1440836832?i=1440836838')}}
