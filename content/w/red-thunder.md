@@ -2,6 +2,7 @@
 title = "Red Thunder"
 template = "talent_page.html"
 authors = ["Sewi The Referee", "M3n747"]
+aliases = ["/w/sirreks"]
 [extra]
 toclevel = 2
 [taxonomies]
