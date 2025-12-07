@@ -75,8 +75,9 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - [Mutant](@/w/mutant.md), a former [KPW](@/o/kpw.md) and two-time [PTW](@/o/ptw.md) wrestler, in his debut for PpW.
   - [Tony Sheen](@/w/riverman.md). While Tony wrestled for PpW at the [Wrocław show](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), this was his debut in Warsaw.
 * In the Fatherly Hardcore Match, Marco brought an unidentified plastic jar, while Johnny carried a plastic bucket into the ring. One spot had him call Marco a "bałwan" (_snowman_, but also a light derogatory term, akin to _moron_), paint his face white with some shaving foam and attempt to stuck a carrot in his mouth. Later, after receiving a solid beating, Marco opened his mysterious jar, and consumed a spoonful of the contents to regain energy. However, he received a severe beating with Johnny's trouser belt, and was lost by passing out due to Johnny choking him with another belt. As a further punishment, Johnny shaved a piece of Marco's beard, and planted the hairs on Marco's head, giving him something new: a head of hair.
-* For the Tag Team Match, Biesiad entered through the audience, beer and ladder in hand. However, Mister Z prevented him from using it, declaring the fight a Normal Match, a rare non-hardcore stipulation in PpW.
+* For the Tag Team Match, Biesiad entered through the audience, beer and ladder in hand. However, Mister Z prevented him from using it, declaring the fight a Normal Match, a rare non-hardcore stipulation in PpW. However, the ending saw Dobroniak attempt to use a kendo stick, prevented by the referee. Dobroniak was pinned by Fox after getting struck down with brass knuckles, behind the referee's back.
 * Before the Chains Match, a brief intermission was held during which the crew replaced ring-ropes with steel chains.
+* Olgierd entered in new ring gear - switching from green and white to new red and white, with [ZLN GNG](@/tt/zieloni.md) on his left thigh, and "OG" on his right. As he entered, he dragged behind a chained, leashed PpW Crew member in a green Goblin mask, on all-fours.
 
 ## References
 
