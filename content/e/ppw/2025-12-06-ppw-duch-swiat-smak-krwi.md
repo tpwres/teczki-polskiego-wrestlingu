@@ -36,7 +36,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 - - '[Max Speed](@/w/max-speed.md)'
   - 'Antoni Ocean'
   - '[Bartosz Plata](@/w/plata.md)'
-  - '[Lady Killer](@/w/boro.md)'
+  - '["Lady Killer" Boro](@/w/boro.md)'
   - '["Riverman" Tony Sheen](@/w/riverman.md)'
   - '[Mutant](@/w/mutant.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
