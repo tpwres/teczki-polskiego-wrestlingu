@@ -44,6 +44,8 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 - - '[Johnny Blade](@/w/johnny-blade.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: Ojcowski Hardcore Match
+- - '[Michael HT](@/w/michael-ht.md)'
+  - g: Auction of a [Waldorff-era](@/v/waldorffa-25.md) PpW baseball jacket.
 - - '[Vic Golden](@/w/vic-golden.md)'
   - s: Loser Leaves PpW Bullrope & Chairs Match
 - - '[Vic Golden](@/w/vic-golden.md)'
@@ -69,10 +71,13 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - Dobroniak pointed out that he has bigger pectorals than Marco, likening them to pepperoni, which the audience quickly caught and chanted at Marco. Next, he addressed the fact that Marco likes to shoot testosterone, but that makes "the guy in his pants" not work. The gift for Marco was a blister packet of blue lozenges, presumably Viagra. Marco initially accepted, trying to hide the packet in his pants, but angrily threw them away later.
   - According to Santa, Olgierd spent too much time online, especially on Facebook group _Typowe WWE_. His recommendation for Olgierd was that he should get himself a girlfriend, and his gift was a lightly used ("had to test it myself", said Santa) porn magazine. Olgierd was quite happy about his gift, browsing it mid-ring with Marco joining in, until Dobroniak told him that "the girl on page 12 reminds me of your mother".
 * The 10,000 PLN Battle Royal had some surprise debuts and returns:
-  - Announced as Lady Killer, in a pink singlet he hasn't used since his days at MZW, [Boro](@/w/boro.md). This was not strictly his debut, as he played one of the zombies at [Clash Of The Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md), but in heavy makeup.
+  - Announced as Lady Killer, in a pink singlet he hasn't used since his days at MZW, [Boro](@/w/boro.md). This was not strictly his debut, as he played one of the zombies at [Clash Of The Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md), but in heavy makeup. The match included his signature spot, donning a rubber glove and poking his thumb into the opponent's butt.
   - [Mutant](@/w/mutant.md), a former [KPW](@/o/kpw.md) and two-time [PTW](@/o/ptw.md) wrestler, in his debut for PpW.
   - [Tony Sheen](@/w/riverman.md). While Tony wrestled for PpW at the [Wrocław show](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), this was his debut in Warsaw.
 * In the Fatherly Hardcore Match, Marco brought an unidentified plastic jar, while Johnny carried a plastic bucket into the ring. One spot had him call Marco a "bałwan" (_snowman_, but also a light derogatory term, akin to _moron_), paint his face white with some shaving foam and attempt to stuck a carrot in his mouth. Later, after receiving a solid beating, Marco opened his mysterious jar, and consumed a spoonful of the contents to regain energy. However, he received a severe beating with Johnny's trouser belt, and was lost by passing out due to Johnny choking him with another belt. As a further punishment, Johnny shaved a piece of Marco's beard, and planted the hairs on Marco's head, giving him something new: a head of hair.
+* For the Tag Team Match, Biesiad entered through the audience, beer and ladder in hand. However, Mister Z prevented him from using it, declaring the fight a Normal Match, a rare non-hardcore stipulation in PpW.
+* Before the Chains Match, a brief intermission was held during which the crew replaced ring-ropes with steel chains.
+
 ## References
 
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0wV7KeMr8bsikonrJTy6KUBzqE3r4koaDFJFS5U4BCaz9HC3rYHSeXJraeSavQm7gl)
