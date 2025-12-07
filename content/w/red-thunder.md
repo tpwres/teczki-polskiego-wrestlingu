@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Red Thunder, also known as Kowboj Luke, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). Prior to MZW he worked for its backyard predecessor, [Polish Xtreme Wrestling](@/o/pxw.md)
+Red Thunder, also known as Kowboj Luke, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). Prior to MZW he worked for its backyard predecessor, [Polish Xtreme Wrestling](@/o/pxw.md).
 
 ## Basic info
 
@@ -33,11 +33,11 @@ Little information is available from that time, however it is confirmed that dur
 
 ### Maniac Zone Wrestling (2014-2018)
 
-#### Kowboj Luke
+#### As Kowboj Luke
 
 In 2014 Sirreks joined the newly-formed MZW, wrestling in a cowboy gimmick under the name Kowboj Luke (_Cowboy Luke_). He was one of the first trainees of the MZW Academy who managed to score his debut at the first official MZW showcase, [Pokaz Adeptów](@/e/mzw/2014-05-10-mzw-pokaz-adeptow.md) in May 2014. As Kowboj Luke he managed to make the total of five appearances, winning in only one match - against [Szymon Siwiec](@/w/szymon-siwiec.md) at [Wrestlefans Party](@/e/mzw/2014-10-25-mzw-wrestlefans-party.md).
 
-#### Red Thunder
+#### As Red Thunder
 
 In early 2015, Kowboj Luke changed his gimmick to Red Thunder, a villainous luchador clad in red. This change improved his position on the card, and he began to win some of his matches, even against established wrestlers such as [Shadow](@/w/shadow.md). In 2016 briefly became involved in a feud with [Jędruś Bułecka](@/w/jedrus-bulecka.md) after he attacked him backstage at [MZW @ Wyciskanie Sztangi 2016](@/e/mzw/2016-03-12-mzw-wyciskanie-sztangi-2016.md). Red Thunder briefly aligned himself with [Kripto](@/w/kripto.md) trying to win the [MZW Tag Team Chmapionship](@/c/mzw-tag-team-championship.md) in a match against [Zbójnicy](@/tt/zbojnicy.md) (Jędruś Bułecka & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). They were, however, defeated.
 
