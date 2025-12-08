@@ -91,7 +91,7 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 
 From 2023 onwards Goblin took a few international bookings. He made one appearance in Hungarian Passion Pro Wrestling in 2023, and he also worked in a couple of matches in Germany and Sweden. 
 
-Goblin also made history as the first Polish wrestler to made an appearance in Mexico. On September 15th, 2024, he worked a show for a local promotion, Arena Pepe Cisnero.
+Goblin also made history as the first Polish wrestler to make an appearance in Mexico. On September 15th, 2024, he worked a show for a local promotion, Arena Pepe Cisneros.
 
 ## In wrestling
 
