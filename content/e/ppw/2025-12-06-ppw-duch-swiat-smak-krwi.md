@@ -83,6 +83,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=441130)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-duch-swiat-smak-krwi-hardcore-wrestling-12-06-2025-22-57-43) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0wV7KeMr8bsikonrJTy6KUBzqE3r4koaDFJFS5U4BCaz9HC3rYHSeXJraeSavQm7gl)
 * [Akane Fujita](https://www.cagematch.net/?id=2&nr=13375) on Cagematch
 * [Shigehiro Irie](https://www.cagematch.net/?id=2&nr=7831) on Cagematch
