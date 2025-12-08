@@ -16,6 +16,7 @@ Michał "Mutant" Świątkowski, previously known as Daniel Boza, is a Polish wre
 * Gimmicks/nicknames:
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
+  - Mutant {{ org_badge(org='ppw')}}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
@@ -34,7 +35,11 @@ After his departure from KPW, Boza joined [Prime Time Wrestling](@/o/ptw.md), st
 
 At or after REVOLUCJA, Mutant seemingly suffered an undisclosed injury and disappeared from PTW for nearly three years before making his return in February 2024 at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where he took part in the Gold Rush Rumble Match for the [PTW Championship](@/c/ptw-championship.md). He managed to eliminate [Max Speed](@/w/max-speed.md) before being eliminated by [Wiktor Longman](@/w/wiktor-longman.md) shortly after. He later revealed that he suffered another shoulder injury during his return.
 
-This marked his last appearance in PTW, as he publicly [announced his departure](@/a/ptw-exits.md) from the federation in June 2024. From then on he was often active on social media, teasing a return to either KPW or [PpW](@/o/ppw.md), but that never came to be.
+This marked his last appearance in PTW, as he publicly [announced his departure](@/a/ptw-exits.md) from the federation in June 2024. From then on he was often active on social media, teasing either a return to KPW, or debuting for [PpW](@/o/ppw.md). The former never came to be, and the latter not until the end of the following year.
+
+### PpW Ewenement Wrestling (2025-)
+
+Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal, but lost.
 
 ## In wrestling
 
@@ -42,12 +47,12 @@ This marked his last appearance in PTW, as he publicly [announced his departure]
   - Spinning Kick To Kneeling Opponent (2021-2024)
 * Entrance music:
   - "Wilki Dwa" by Luxtorpeda
-    {{ org_badge(orgs=['kpw']) }} (2019-2020)  <br>
+    {{ org_badge(orgs=['kpw']) }} (2019-2020)<br>
     {{ music(yt='SV0IPygRsW4')}}
     {{ music(spot='6HtFpYx3yZo9nJNumfn7Ts')}}
     {{ music(apple='1543261324?i=1543261748')}}
   - "Beast" by The Hustle Standard
-    {{ org_badge(orgs=['ptw']) }} (2021-2024)  <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2024)<br>
     {{ music(yt='p2ZljzdGPUg')}}
     {{ music(spot='0WKY4nRJgz3GUG7IqkTgUH')}}
     {{ music(apple='1440836832?i=1440836838')}}
