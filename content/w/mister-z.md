@@ -148,7 +148,7 @@ In August 2023 Mister Z made a singular international appearance during Passion 
     {{ org_badge(orgs=['ppw']) }} (2025-, as part of [Zmowa](@/tt/zmowa.md)) <br>
     {{ music(yt='NXX3mxDA26s')}}
     {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
-    {{ music(apple='1440826489')}}
+    {{ music(apple='1440826084?i=1440826489')}}
     
 ## Championships and accomplishments
 
