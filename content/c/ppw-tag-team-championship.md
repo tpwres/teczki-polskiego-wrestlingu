@@ -2,7 +2,7 @@
 title = "PpW Tag Team Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel=2
 [extra.gallery]
@@ -46,6 +46,11 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
   - s: Tag Team Match
     en: '[PpW Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md)'
     ed: 2025-11-08
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
+  - '[Biesiad Strong](@/w/biesiad.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - s: Tag Team Match
+    en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
+    ed: 2025-12-06
 {% end %}
 
 #### Final
