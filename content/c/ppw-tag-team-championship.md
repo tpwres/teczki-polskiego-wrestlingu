@@ -53,7 +53,7 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
     ed: 2025-12-06
 {% end %}
 
-#### Final
+#### Finals
 
 {% free_card() %}
 - - '??? & ???'
