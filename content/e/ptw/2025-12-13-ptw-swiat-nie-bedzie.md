@@ -50,7 +50,7 @@ toclevel = 2
     nc: upcoming
 - - '[Sawicki](@/w/sawicki.md)'
   - '[Damian Lambert](@/w/damien-rothschild.md)'
-    nc: upcoming
+  - nc: upcoming
  {% end %}
 
 ## References
