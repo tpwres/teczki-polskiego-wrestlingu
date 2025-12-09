@@ -1,0 +1,26 @@
+[01]
+path = "ad-astra-per-lokalna-podstawowka.webp"
+caption = "Preparations for the show."
+source = "Kosmiczna Droga do Gwiazd on Facebook"
+
+[02]
+path = "wrestling-z-gwiazdami-1.jpg"
+caption = "[Chris X](@/w/chris-x.md) vs ???."
+source = "???"
+
+[03]
+path = "wrestling-z-gwiazdami-2.webp"
+caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) vs ???."
+source = "???"
+
+[04]
+path = "live-ish-stream.jpg"
+caption = "Live stream of the event."
+source = "Kosmiczna Droga do Gwiazd on Facebook"
+skip_art = true
+
+[05]
+path = "dwa-slowa-od-jedrusia.jpg"
+caption = "Jędruś Bułecka's post after the show."
+source = "Jędruś Bułecka @ Facebook"
+skip_art = true

@@ -1,22 +1,24 @@
 +++
 title = "MZW I Kosmiczny Wrestling Show"
 template = "event_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+[extra.gallery]
 +++
 
-MZW I Kosmiczny Wrestling Show (_I Cosmic Wrestling Show_) was an non-canon event produced by [Maniac Zone Wrestling](@/o/mzw.md) during their short-lived excrusion to Toruń. It took place at 18th of December, 2021. Show was created in cooperation with "Kosmiczna Droga Do Gwiazd im. Damiana Laskowskiego" Foundation - an foundation focused od helping people with disabilities. According to [Jędruś Bułecka](@/w/jedrus-bulecka.md) - one of MZW's co-owners at time - the project was supposed to start a new family friendly charity federation, but due to COVID restrictions the plan was abadoned for foreseeable future. 
+MZW I Kosmiczny Wrestling Show (_1st Cosmic Wrestling Show_) was a non-canon event produced by [Maniac Zone Wrestling](@/o/mzw.md) during their short-lived excursion to Toruń. It took place on the 18th of December 2021. The show was created in cooperation with a charity foundation "Kosmiczna Droga Do Gwiazd im. Damiana Laskowskiego" (_Damian Laskowski's Cosmic Road to the Stars_), which focuses on helping people with disabilities. According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), one of MZW's co-owners at the time, the project was supposed to start a new family-friendly charity federation, but due to COVID-19 restrictions, the plan was abandoned for the foreseeable future.
 
-It is known that during that show their appearance made performers such as [Deti Black](@/w/dieter-schwartz.md), [Chris X](@/w/chris-x.md), Nick Schreier, Rogers, Lio Zayde, [Zeritus](@/w/zeritus.md), [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md) and Jędruś Bułecka.
+It is known that performers to appear at the show included [Deti Black](@/w/dieter-schwartz.md), [Chris X](@/w/chris-x.md), Nick Schreier, Rogers, Lio Zayde, [Zeritus](@/w/zeritus.md), [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md) and Jędruś Bułecka. The show was streamed live on the Foundation's Facebook page.
 
 {{ skip_card() }}
 
-Card unavailable, as the show was removed from Facebook and no other sources are known to exist for the time being.
+No card is available, as the show was removed from Facebook due to poor audio/video quality, and no other sources are known to exist.
 
 ## References
 
-* [Event teaser published of Foundation's Facebook page](https://www.facebook.com/watch/?v=650488676080110&ref=sharing)
+* [Event on the Foundation's Facebook page](https://www.facebook.com/events/1062212711231798?active_tab=about)
+* [Teaser video](https://www.facebook.com/watch/?v=650488676080110&ref=sharing)
