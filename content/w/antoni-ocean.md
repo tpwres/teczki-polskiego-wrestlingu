@@ -17,7 +17,7 @@ Antoni Ocean is a wrestler known for his time in [PpW Ewenement](@/o/ppw.md).
   - _rookie_ Antek {{ org_badge(orgs=['ppw']) }} (August-September 2025)
   - Antoni Ocean {{ org_badge(orgs=['ppw']) }} (September 2025-)
 * Trained by:
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2025-)
  
 ## Professional wrestling career
 
@@ -25,7 +25,7 @@ Antoni Ocean is a wrestler known for his time in [PpW Ewenement](@/o/ppw.md).
 
 #### Training and debut
 
-Antek - traditionally billed as _rookie_ Antek at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as, [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md), he made his first appearance at [Turniej TypeShit](@/e/e/ppw/2025-07-05-ppw-turniej-typeshit.md) where he faced - and lost to - [PpW's](@/o/ppw.md) producer [Mister Z](@/w/mister-z.md). During [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) pre-show he faced fellow young lion [Bartosz Plata](@/w/plata.md) and debuting [Max Speed](@/w/max-speed.md) in a Triple Threat Match, which he won. In a post-match interview he announced, that from this point on he would be named "Antoni Ocean". 
+Antek - traditionally billed as _rookie_ Antek at the first stages of his career - started his in-ring career in 2025 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as, [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md), he made his first appearance at [Turniej TypeShit](@/e/e/ppw/2025-07-05-ppw-turniej-typeshit.md) where he faced - and lost to - [PpW's](@/o/ppw.md) producer [Mister Z](@/w/mister-z.md). During [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) pre-show he faced fellow young lion [Bartosz Plata](@/w/plata.md) and debuting [Max Speed](@/w/max-speed.md) in a Triple Threat Match, which he won. In a post-match interview he announced, that from this point on he would be named "Antoni Ocean". 
 
 #### Antoni Ocean early appearances
 
