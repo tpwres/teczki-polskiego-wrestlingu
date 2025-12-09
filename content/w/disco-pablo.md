@@ -76,8 +76,8 @@ At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo fac
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md)
-  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Taras](@/w/taras.md) and [Boro](@/w/boro.md)
   - PTW Tag Team Championship Tournament (2023) - with [Taras](@/w/taras.md) and [Boro](@/w/boro.md)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Taras](@/w/taras.md) and [Boro](@/w/boro.md)
 
 ## References
 
