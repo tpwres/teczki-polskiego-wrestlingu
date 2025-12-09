@@ -21,6 +21,7 @@ toclevel = 2
 * On 4.12.2025 PTW announced [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) in action.
 * The next day saw the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 * On 6.12.2025 PTW posted an image teasing the "spectacular return" of someone, who was with PTW "from the very beginning".
+* On 7.12.2025 PTW announced a Christmas Hardcore Match between [Daniel Razor](@/w/daniel-razor.md) vs Jay, an Irish wrestler mainly associated with [Over The Top Wrestling][over-the-top]. This will be his Polish debut.
 
 ## Predicted card
 
@@ -42,6 +43,9 @@ toclevel = 2
   - s: Tag Team Match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     nc: upcoming
+- - 'Jay'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
+  - s: Christmas Hardcore Match
  {% end %}
 
 ## References
@@ -50,3 +54,4 @@ toclevel = 2
 
 [rolka]:https://www.facebook.com/reel/1180952684015552
 [nie-rolka]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0UAhp9HYNCaGixbArmjm7TQjTm81bLQV5WTx6bKj16nDGATCHJycisQtyftUJc24ol
+[over-the-top]: https://www.cagematch.net/?id=8&nr=1481
