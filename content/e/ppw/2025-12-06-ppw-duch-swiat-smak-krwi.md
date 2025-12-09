@@ -38,6 +38,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - '[Bartosz Plata](@/w/plata.md)'
   - '["Lady Killer" Boro](@/w/boro.md)'
   - '["Riverman" Tony Sheen](@/w/riverman.md)'
+  - '[Marcelito](@/w/marcelito.md)'
   - '[Mutant](@/w/mutant.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 10,000&nbsp;PLN Battle Royal
