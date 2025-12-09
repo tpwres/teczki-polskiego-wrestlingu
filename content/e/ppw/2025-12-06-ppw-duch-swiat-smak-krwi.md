@@ -64,6 +64,11 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - '[Goblin](@/w/goblin.md)(c)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Chain God Realm Match
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)'
+    Guest commentary: '[Isnorr](@/w/isnorr.md)
 {% end %}
 
 ### Highlights
