@@ -61,6 +61,7 @@ The strap itself is black and octagonal, which indicates that it was repurposed 
 
 #### Semi-finals
 
+{% free_card() %}
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Blaze](@/w/blaze.md)'
   - en: [PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)
