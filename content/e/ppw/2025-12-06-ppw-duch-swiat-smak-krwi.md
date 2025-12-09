@@ -38,9 +38,10 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - '[Bartosz Plata](@/w/plata.md)'
   - '["Lady Killer" Boro](@/w/boro.md)'
   - '["Riverman" Tony Sheen](@/w/riverman.md)'
+  - '[Marcelito](@/w/marcelito.md)'
   - '[Mutant](@/w/mutant.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - s: 10,000&nbsp;PLN Battle Royal
+  - s: '10,000&nbsp;PLN Battle Royal'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: Ojcowski Hardcore Match
@@ -63,6 +64,11 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - '[Goblin](@/w/goblin.md)(c)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Chain God Realm Match
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)'
+    Guest commentary: '[Isnorr](@/w/isnorr.md)'
 {% end %}
 
 ### Highlights
