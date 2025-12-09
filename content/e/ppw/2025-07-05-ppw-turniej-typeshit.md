@@ -27,7 +27,7 @@ Turniej TypeShit (_Tournament-Type Shit_) was a show by [PpW Ewenement Wrestling
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md)'
   - g: Zmowa opens the show, Mister Z introduces the newest rookie to join PpW
 - - '[Mister Z](@/w/mister-z.md)'
-  - '_rookie_ Antek'
+  - '[_rookie_ Antek](@/w/antoni-ocean.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Gauntlet Match for the tournament spot
