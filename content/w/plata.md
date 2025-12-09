@@ -45,6 +45,9 @@ Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy
 
 ## In wrestling
 
+* Finishers:
+  - Burning Lariat (2025-)
+
 * Entrance music:
   - "Yakuza 0 Intro" by Yakuza Sound Team
     {{ org_badge(orgs=['ppw', 'low']) }} (2024-) <br>
