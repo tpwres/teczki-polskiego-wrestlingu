@@ -33,7 +33,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 - - '[Michael HT](@/w/michael-ht.md)'
   - '[Joker](@/w/joker.md)'
   - g: 'HT and Joker unveil the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-- - 'Antoni Ocean & [Shadow](@/w/shadow.md)'
+- - '[Antoni Ocean](@/w/antoni-ocean.md) & [Shadow](@/w/shadow.md)'
   - '[Bartosz Plata](@/w/plata.md) & [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
