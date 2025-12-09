@@ -94,7 +94,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
     ed: 2023-03-26
 {% end %}
 
-#### Final
+#### Finals
 
 {% free_card() %}
 - - '[PAKA](@/tt/paka.md): [Disco Pablo](@/w/disco-pablo.md) & [Taras](@/w/taras.md)'
