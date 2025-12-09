@@ -34,7 +34,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 - - 'Akane Fujita'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
 - - '[Max Speed](@/w/max-speed.md)'
-  - 'Antoni Ocean'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - '["Lady Killer" Boro](@/w/boro.md)'
   - '["Riverman" Tony Sheen](@/w/riverman.md)'
