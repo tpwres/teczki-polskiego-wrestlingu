@@ -76,7 +76,7 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
     ed: 2016-08-20
 {% end %}
 
-#### Final
+#### Finals
 
 {% free_card() %}
 - - '[Chris Hunter](@/w/chris-hunter.md)'
