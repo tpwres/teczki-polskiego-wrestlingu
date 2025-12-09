@@ -63,6 +63,7 @@ Since then Chris retired from wrestling, closing down Dream Factory Wrestling no
 
 * [Dream Factory Wrestling](@/o/dfw.md):
   - [DFW Championship](@/c/dfw-championship.md) (1 time; inaugural)
+  - Tournament of Dreams (2016)
 * [Toruń Wrestling Federation](@/o/twf.md):
   - TWF Championship (1 time; final)
   - Toruń Championship (1 time)
