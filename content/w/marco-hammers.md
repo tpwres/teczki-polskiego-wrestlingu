@@ -120,6 +120,11 @@ Marco started taking international bookings in 2022. That year he made a few app
     {{ music(yt='cquQmv0OD08')}}
     {{ music(spot='0p9YTj9YGtBSWg1z6DxKNm')}}
     {{ music(apple='621624800?i=621624895')}}
+  - "100 joints" by 2 Chainz
+    {{ org_badge(orgs=['ppw']) }} (2025-, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ music(yt='NXX3mxDA26s')}}
+    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
+    {{ music(apple='1440826489')}}
 
 ## Championships and accomplishments
 
