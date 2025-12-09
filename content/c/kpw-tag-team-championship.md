@@ -59,7 +59,7 @@ The plates are made of acrylic, with silver and black laminate giving the plates
     ed: 2018-11-03
 {% end %}
 
-#### Semi-final
+#### Semi-finals
 
 {% free_card() %}
 - - 'Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md) w/ [Mira](@/w/mira.md)'
@@ -75,7 +75,7 @@ The plates are made of acrylic, with silver and black laminate giving the plates
     ed: 2018-11-03
 {% end %}
 
-#### Final
+#### Finals
 
 {% free_card() %}
 - - "[Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)"
