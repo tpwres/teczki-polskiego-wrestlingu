@@ -85,6 +85,7 @@ In 2021 Taras made his only international appearance in career, where he worked 
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md)
+  - PTW Tag Team Championship Tournament (2023) - with [Boro](@/w/boro.md) and [Disco Pablo](@/w/disco-pablo.md)
 
 ## Internet presence
 
