@@ -73,7 +73,7 @@ The strap itself is black and octagonal, which indicates that it was repurposed 
     ed: 2025-02-15
 {% end %}
 
-#### Finals
+#### Final
 
 {% free_card() %}
 - - '[Max Speed](@/w/max-speed.md)'
