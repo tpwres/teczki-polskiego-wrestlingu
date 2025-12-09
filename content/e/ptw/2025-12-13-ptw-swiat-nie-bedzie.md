@@ -46,12 +46,12 @@ toclevel = 2
 - - 'Jay'
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - s: Christmas Hardcore Match
- {% end %}
+{% end %}
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=439757)
 
-[rolka]:https://www.facebook.com/reel/1180952684015552
+[rolka]: https://www.facebook.com/reel/1180952684015552
 [nie-rolka]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0UAhp9HYNCaGixbArmjm7TQjTm81bLQV5WTx6bKj16nDGATCHJycisQtyftUJc24ol
 [over-the-top]: https://www.cagematch.net/?id=8&nr=1481
