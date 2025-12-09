@@ -36,6 +36,52 @@ The strap itself is black and octagonal, which indicates that it was repurposed 
 
 ## Title history
 
+### Inaugural tournament
+
+#### Quarter-finals
+
+{% free_card() %}
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - en: [PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)
+    ed: 2025-02-15
+- - '[Blaze](@/w/blaze.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - en: [PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)
+    ed: 2025-02-15
+- - '[Spartan](@/w/spartan.md)'
+  - '[Erik Šlotíř](@/w/erik-slotir.md)'
+  - en: [PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)
+    ed: 2025-02-15
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Ken Pyro'
+  - en: [PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)
+    ed: 2025-02-15
+{% end %}
+
+#### Semi-finals
+
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - en: [PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)
+    ed: 2025-02-15
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Spartan](@/w/spartan.md)'
+  - r: DQ
+    en: [PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)
+    ed: 2025-02-15
+{% end %}
+
+#### Finals
+
+{% free_card() %}
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - s: Ladder match
+    en: '[PTW Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md)'
+    ed: 2025-03-15
+{% end %}
+
 ### Champion #1: Max Speed
 
 {% free_card() %}
