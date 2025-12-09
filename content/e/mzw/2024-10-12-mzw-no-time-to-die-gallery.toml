@@ -1,69 +1,104 @@
-[01]
+[00]
 path = "2024-10-12-mzw-no-time-to-die.jpg"
-caption = """\
-    Official poster. Left to right: [Johnny Blade](@/w/johnny-blade.md) (top), [Shadow](@/w/shadow.md) (bottom),
-    [Dziedzic](@/w/dziedzic.md), [Matt Buckna](@/w/matt-buckna.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)."""
+caption = "Official poster. Left to right: [Johnny Blade](@/w/johnny-blade.md) (top), [Shadow](@/w/shadow.md) (bottom), [Dziedzic](@/w/dziedzic.md), [Matt Buckna](@/w/matt-buckna.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)."
 source = "Official MZW Facebook"
+
+[01]
+path = "marco-hammers-vs-samson.webp"
+caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs [Samson](@/w/samson.md)."
+source = "Official MZW Facebook"
+
 [02]
-path = "rafi-promo.jpg"
-caption = """\
-    [Rafi](@/w/rafi.md) announces the end of his career as an active wrestler."""
-source = "M3n747"
+path = "disco-pablo-vs-goblin.webp"
+caption = "Image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Goblin](@/w/goblin.md)."
+source = "Official MZW Facebook"
+
 [03]
-path = "biesiad-wooden-chair.jpg"
-caption = """\
-    [Biesiad](@/w/biesiad.md) holding a wooden chair, [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md)
-    with typical steel ones. On the right, [Rafi](@/w/rafi.md) serves as a referee."""
-source = "M3n747"
+path = "disco-pablo-vs-olgierd.webp"
+caption = "Updated image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Olgierd](@/w/olgierd.md)."
+source = "Official MZW Facebook"
+
 [04]
-path = "legia-entrance.jpg"
-caption = """\
-    Legia Łysych: [Olgierd](@/w/olgierd.md) in front of the ring, [Marco Hammers](@/w/marco-hammers.md) standing on the apron.
-    [Rafi](@/w/rafi.md) waits in the corner."""
-source = "M. Gołębiewski"
+path = "alex-ace-vs-shadow.webp"
+caption = "Image announcing [Alex Ace](@/w/alex-ace.md) vs [Shadow](@/w/shadow.md)."
+source = "Official MZW Facebook"
+
 [05]
-path = "synchronised-bleeding.jpg"
-caption = """\
-    [Gustav Gryffin](@/w/gustav-gryffin.md) holds [Sambor](@/w/sambor.md) in a Sharpshooter, while [Rusałka](@/w/rusalka.md) faints outside the ring.
-    [Rafi](@/w/rafi.md) is the guest referee."""
-source = "M. Gołębiewski"
+path = "aron-wake-vs-matt-buckna.webp"
+caption = "Image announcing [Aron Wake](@/w/aron-wake.md) vs [Matt Buckna](@/w/matt-buckna.md)."
+source = "Official MZW Facebook"
+
 [06]
-path = "polish-hammer-oh-yeah.jpg"
-caption = """\
-    [Polish Hammer](@/w/jedrus-bulecka.md) making his surprise appearance."""
-source = "Shadowsmoonlight Photography"
+path = "biesiad-strong-vs-syriusz-dziedzic.webp"
+caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) vs [Syriusz Dziedzic](@/w/dziedzic.md)."
+source = "Official MZW Facebook"
+
 [07]
-path = "bulecking-with-jedrus.jpg"
-caption = """\
-    Left to right: [Marco Hammers](@/w/marco-hammers.md), [Syriusz Dziedzic](@/w/dziedzic.md),
-    [Polish Hammer](@/w/jedrus-bulecka.md), [Disco Pablo](@/w/disco-pablo.md), [Marcelito](@/w/marcelito.md),
-    [Samson](@/w/samson.md). In the foreground is [referee Seweryn](@/w/sedzia-seweryn.md)."""
-source = "M. Gołębiewski"
+path = "marcelito-vs-rafi.webp"
+caption = "Image announcing [Marcelito](@/w/marcelito.md) vs [Rafi](@/w/rafi.md)."
+source = "Official MZW Facebook"
+
 [08]
-path = "the-joy-of-olgierd.jpg"
-caption = """\
-    [Vic Golden](@/w/vic-golden.md), [Olgierd](@/w/olgierd.md) and [Justin Joy](@/w/justin-joy.md) during the Battle Royal."""
-source = "Istota Wrestlingu"
+path = "gustav-gryffin-vs-sambor.webp"
+caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Sambor](@/w/sambor.md) (w/ [Rusałka](@/w/rusalka.md))."
+source = "Official MZW Facebook"
+
 [09]
-path = "hammer-time.jpg"
-caption = """\
-    Left to right: [Disco Pablo](@/w/disco-pablo.md), Tony Sheen, [Marco Hammers](@/w/marco-hammers.md)
-    and [Polish Hammer](@/w/jedrus-bulecka.md). In the background is [Samson](@/w/samson.md)."""
-source = "M3n747"
+path = "bill-feager-vs-johnny-blade.webp"
+caption = "Image announcing [Bill Feager](@/w/feager.md) vs [Johnny Blade](@/w/johnny-blade.md)."
+source = "Official MZW Facebook"
+
 [10]
-path = "war-bottle.jpg"
-caption = """\
-    [Johnny Blade](@/w/johnny-blade.md) swings his war water bottle at [Feager](@/w/feager.md)."""
-source = "M. Gołębiewski"
+path = "rafi-promo.jpg"
+caption = "[Rafi](@/w/rafi.md) announces the end of his career as an active wrestler."
+source = "M3n747"
+
 [11]
-path = "the-end-is-nigh.jpg"
-caption = """\
-    [Johnny Blade](@/w/johnny-blade.md) holding up the
-    [T-3 road sign plate](https://en.wikipedia.org/wiki/Road_signs_in_Poland#Complementary_plates)
-    _END_, about to apply it to [Feager](@/w/feager.md)."""
-source = "M. Gołębiewski"
+path = "biesiad-wooden-chair.jpg"
+caption = "[Biesiad](@/w/biesiad.md) holding a wooden chair, [Dziedzic](@/w/dziedzic.md) and [Marcelito](@/w/marcelito.md) with typical steel ones. On the right, [Rafi](@/w/rafi.md) serves as a referee."
+source = "M3n747"
+
 [12]
+path = "legia-entrance.jpg"
+caption = "Legia Łysych: [Olgierd](@/w/olgierd.md) in front of the ring, [Marco Hammers](@/w/marco-hammers.md) standing on the apron. [Rafi](@/w/rafi.md) waits in the corner."
+source = "M. Gołębiewski"
+
+[13]
+path = "synchronised-bleeding.jpg"
+caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) holds [Sambor](@/w/sambor.md) in a Sharpshooter, while [Rusałka](@/w/rusalka.md) faints outside the ring. [Rafi](@/w/rafi.md) is the guest referee."
+source = "M. Gołębiewski"
+
+[14]
+path = "polish-hammer-oh-yeah.jpg"
+caption = "[Polish Hammer](@/w/jedrus-bulecka.md) making his surprise appearance."
+source = "Shadowsmoonlight Photography"
+
+[15]
+path = "bulecking-with-jedrus.jpg"
+caption = "Left to right: [Marco Hammers](@/w/marco-hammers.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Polish Hammer](@/w/jedrus-bulecka.md), [Disco Pablo](@/w/disco-pablo.md), [Marcelito](@/w/marcelito.md), [Samson](@/w/samson.md). In the foreground is [referee Seweryn](@/w/sedzia-seweryn.md)."
+source = "M. Gołębiewski"
+
+[16]
+path = "the-joy-of-olgierd.jpg"
+caption = "[Vic Golden](@/w/vic-golden.md), [Olgierd](@/w/olgierd.md) and [Justin Joy](@/w/justin-joy.md) during the Battle Royal."
+source = "Istota Wrestlingu"
+
+[17]
+path = "hammer-time.jpg"
+caption = "Left to right: [Disco Pablo](@/w/disco-pablo.md), Tony Sheen, [Marco Hammers](@/w/marco-hammers.md) and [Polish Hammer](@/w/jedrus-bulecka.md). In the background is [Samson](@/w/samson.md)."
+source = "M3n747"
+
+[18]
+path = "war-bottle.jpg"
+caption = "[Johnny Blade](@/w/johnny-blade.md) swings his war water bottle at [Feager](@/w/feager.md)."
+source = "M. Gołębiewski"
+
+[19]
+path = "the-end-is-nigh.jpg"
+caption = "[Johnny Blade](@/w/johnny-blade.md) holding up the [T-3 road sign plate](https://en.wikipedia.org/wiki/Road_signs_in_Poland#Complementary_plates) _END_, about to apply it to [Feager](@/w/feager.md)."
+source = "M. Gołębiewski"
+
+[20]
 path = "matt-buckna-wins.jpg"
-caption = """\
-    [Matt Buckna](@/w/matt-buckna.md) after winning the [MZW Championship](@/c/mzw-championship.md)."""
+caption = "[Matt Buckna](@/w/matt-buckna.md) after winning the [MZW Championship](@/c/mzw-championship.md)."
 source = "M3n747"
