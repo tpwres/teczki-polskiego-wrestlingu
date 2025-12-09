@@ -151,10 +151,15 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - "Crazy Like a Fox" by Independent Contractor
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-2024) <br>
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw', 'low']) }} (2024-present, both solo and in tag team with [Goblin](@/w/goblin.md)) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2024-present, both solo and as part of [GobLis](@/tt/goblis.md)) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
+  - "100 joints" by 2 Chainz
+    {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ music(yt='NXX3mxDA26s')}}
+    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
+    {{ music(apple='1440826084?i=1440826489')}}
 
 ## Championships and accomplishments
 

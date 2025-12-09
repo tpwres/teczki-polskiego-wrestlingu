@@ -38,7 +38,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
   - '[Robert Star](@/w/robert-star.md)'
   - s: Anything Goes Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - 'Antoni Ocean'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Trial by Blade
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Axel Fox](@/w/axel-fox.md) & [Goblin](@/w/goblin.md)'

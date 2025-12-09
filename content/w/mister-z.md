@@ -144,7 +144,12 @@ In August 2023 Mister Z made a singular international appearance during Passion 
     {{ music(yt='kPeRVlK8YWI')}}
     {{ music(spot='6CnNh8EX2Rbu3647wu9CG7')}}
     {{ music(apple='1577219021?i=1577219022')}}
-
+  - "100 joints" by 2 Chainz
+    {{ org_badge(orgs=['ppw']) }} (2025-, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ music(yt='NXX3mxDA26s')}}
+    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
+    {{ music(apple='1440826084?i=1440826489')}}
+    
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):

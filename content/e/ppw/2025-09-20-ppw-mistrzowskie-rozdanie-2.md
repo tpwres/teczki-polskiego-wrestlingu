@@ -32,7 +32,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
 ## Card
 
 {% card() %}
-- - '_rookie_ Antek'
+- - '[_rookie_ Antek](@/w/antoni-ocean.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: 'Wielkie Testy Platy - Pre-show Triple Threat Match'

@@ -11,7 +11,7 @@ GobLis were a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fo
 
 ## History
 
-### PpW Ewenement Wrestling (2024-present)
+### PpW Ewenement Wrestling (2024-2025)
 
 #### Formation
 
@@ -44,6 +44,8 @@ With the team not on the same page, they were put in a Tornado Tag Team match ag
 
 From that point on tag team efforts were put on hold, since Goblin focused on his war with Gryffin and - after winning it - defending his [PpW Championship](@/c/ppw-championship.md), while Fox continued his feud with [Legia Łysych](@/tt/legia-lysych.md).
 
+#### End of GobLis
+
 As [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel Fox betrayed Goblin by refusing to tag in which allowed [Zmowa](@/tt/zmowa.md) to win, thus putting an end to GobLis.
 
 ## Members
@@ -61,7 +63,7 @@ As [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel Fox betrayed Go
   - [Zmowa przeciwko Zmowie](@/tt/zmowa.md) (2024)
 * Entrance music:
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw']) }} (2024-present) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-2025) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}

@@ -144,6 +144,11 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(yt='spq7KCQWCO4')}}
     {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
     {{ music(apple='750848937?i=750848967')}}
+  - "100 joints" by 2 Chainz
+    {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ music(yt='NXX3mxDA26s')}}
+    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
+    {{ music(apple='1440826084?i=1440826489')}}
 
 ## Championships and accomplishments
 
