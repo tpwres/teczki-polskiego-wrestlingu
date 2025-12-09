@@ -40,6 +40,51 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
 
 ## Title history
 
+### Inaugural tournament
+
+#### Quarter-finals
+
+{% free_card() %}
+- - '[Charlie](@/w/madman-charlie.md)'
+  - '[Norris](@/w/isnorr.md)'
+  - en: '[DFW Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md)'
+    ed: 2016-06-11
+- - '[PJ Blake](@/w/pj-blake.md)'
+  - '[Pain Killer](@/w/pain-killer.md)'
+  - en: '[DFW Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md)'
+    ed: 2016-06-11
+- - '[Corin Mear](@/w/corin-mear.md)'
+  - '[Malmo Buruto](@/w/malmo-buruto.md)'
+  - en: '[DFW Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md)'
+    ed: 2016-06-11
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Revage](@/w/rafael-kid.md)'
+  - en: '[DFW Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md)'
+    ed: 2016-06-11
+{% end %}
+
+#### Semi-finals
+
+{% free_card() %}
+- - '[Charlie](@/w/madman-charlie.md)'
+  - '[PJ Blake](@/w/pj-blake.md)'
+  - en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)'
+    ed: 2016-08-20
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Corin Mear](@/w/corin-mear.md)'
+  - en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)'
+    ed: 2016-08-20
+{% end %}
+
+#### Final
+
+{% free_card() %}
+- - '[Chris Hunter](@/w/chris-hunter.md)'
+  - '[Charlie](@/w/madman-charlie.md)'
+  - en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)'
+    ed: 2016-08-20
+{% end %}
+
 ### Champion #1: Chris Hunter
 
 {% free_card() %}
