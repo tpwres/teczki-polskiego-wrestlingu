@@ -98,6 +98,7 @@ In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-c
 
 * [Prime Time Wrestling](@/o/ptw.md)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; inaugural) - with [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md)
+  - PTW Tag Team Championship Tournament (2023) - with [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md)
 
 ## Internet presence
 
