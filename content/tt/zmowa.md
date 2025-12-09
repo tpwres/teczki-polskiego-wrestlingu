@@ -38,7 +38,7 @@ This devastating blow caused Gustav to lose all his confidence, which he was una
 
 At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) came the final straw. During the planned "Zmowa show of dominance" Gustav snapped and attacked both Mister Z and Marco, finally turning on Zmowa.
 
-#### New Better Zmowa
+#### New and better Zmowa
 
 Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/axel-fox.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered to him by [Mister Z](@/w/mister-z.md), thus joining [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) he climbed on top of PpW's hierarchy once again after Olgierd won the PpW Championship from Goblin. Mister Z also announced Zmowa's intent to become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably in accordance with the [Freebird Rule][freebird-rule]), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match.
 
@@ -67,7 +67,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
     {{ org_badge(orgs=['ppw']) }} (2025-) <br>
     {{ music(yt='NXX3mxDA26s')}}
     {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
-    {{ music(apple='1440826489')}}
+    {{ music(apple='1440826084?i=1440826489')}}
 
 ## Championships and accomplishments
 
