@@ -82,10 +82,11 @@ From 2024 onwards Max started taking international bookings. His debut outside o
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time; inaugural)
+  - PTW Underground Championship Tournament (2025)
   - [PTW Awards 2024](@/a/ptw-awards-2024.md) (2 times):
     * Hero of the Year
     * Progress of the Year
-  - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time; inaugural)
 
 ## Internet presence
 
