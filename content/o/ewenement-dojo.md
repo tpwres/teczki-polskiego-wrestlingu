@@ -41,7 +41,7 @@ Ewenement Dojo:
 * [Agentka Agatka](@/w/agentka-agatka.md)
 * Alvaro (non-canon debut)
 * _rookie_ Andrzej (non-canon debut)
-* Antoni Ocean
+* [Antoni Ocean](@/w/antoni-ocean.md)
 * [Bartosz Plata](@/w/plata.md)
 * [Istotna Martynka](@/w/istotna-martynka.md) (non-canon debut)
 * [Oskar Alexander](@/w/oskar-alexander.md)
