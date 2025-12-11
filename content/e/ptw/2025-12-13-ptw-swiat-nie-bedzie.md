@@ -22,6 +22,7 @@ toclevel = 2
 * The next day saw the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 * On 6.12.2025 PTW posted an image teasing the "spectacular return" of someone, who was with PTW "from the very beginning".
 * On 7.12.2025 PTW announced a Christmas Hardcore Match between [Daniel Razor](@/w/daniel-razor.md) vs Jay, an Irish wrestler mainly associated with [Over The Top Wrestling][over-the-top]. This will be his Polish debut.
+* On 9.12.2025 PTW announced [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damien-rothschild.md).
 
 ## Predicted card
 
@@ -46,7 +47,11 @@ toclevel = 2
 - - 'Jay'
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - s: Christmas Hardcore Match
-{% end %}
+    nc: upcoming
+- - '[Sawicki](@/w/sawicki.md)'
+  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - nc: upcoming
+ {% end %}
 
 ## References
 

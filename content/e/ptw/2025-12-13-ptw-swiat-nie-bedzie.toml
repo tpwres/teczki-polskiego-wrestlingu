@@ -40,5 +40,10 @@ source = "Official PTW Facebook"
 
 [07]
 path = "mecz.webp"
-caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs Jay in a Christmas Hardcore Match"
+caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs Jay in a Christmas Hardcore Match."
+source = "Official PTW Facebook"
+
+[08]
+path = "lambert-chcesz-uslyszec-fraszke.webp"
+caption = "Image announcing [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damien-rothschild.md)."
 source = "Official PTW Facebook"
