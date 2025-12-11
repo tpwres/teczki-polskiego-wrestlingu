@@ -7,10 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2019-08-24-mzw-project-6-death-and-glory-plakat.jpg"
-caption = "Official poster, featuring [Asmund](@/w/asmund.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 ## Card
@@ -37,7 +34,7 @@ source = "Official MZW Facebook"
   - '[Ring Rat](@/w/sedzia-seweryn.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
-  - s: 'Rookies Battle Royal'
+  - s: "Talents' Battle Royale"
     n: Nathan Cross finished runner-up
 - - '[Asmund](@/w/asmund.md)'
   - '[Damien Rothschild](@/w/damien-rothschild.md)(c)'
