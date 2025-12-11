@@ -1,3 +1,4 @@
 0000 = { path = "kpw-arena-31-plakat.webp", caption = "Official poster, original version featuring [Zefir](@/w/zefir.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 0001 = { path = "kpw-arena-31-plakat-alt.webp", caption = "Alternative poster, featuring [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 0002 = { path = "kpw-arena-31-plakat-alt-2.jpg", caption = "Alternative-er poster, featuring [Eryk Lesak](@/w/eryk-lesak.md).", source = "ErykLesak @ Facebook" }
+0003 = { path = "lom-ra-tuffa.webp", caption = "Image announcing Tom LaRuffa.", source = "Official KPW Facebook" }
