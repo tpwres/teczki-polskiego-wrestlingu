@@ -34,7 +34,7 @@ toclevel = 2
   - '[Ring Rat](@/w/sedzia-seweryn.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
-  - s: "Talents' Battle Royale"
+  - s: "Talent's Battle Royale"
     n: Nathan Cross finished runner-up
 - - '[Asmund](@/w/asmund.md)'
   - '[Damien Rothschild](@/w/damien-rothschild.md)(c)'
