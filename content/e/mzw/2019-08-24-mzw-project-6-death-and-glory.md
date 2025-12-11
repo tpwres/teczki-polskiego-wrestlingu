@@ -17,7 +17,7 @@ toclevel = 2
   - '[Madman Charlie](@/w/madman-charlie.md)'
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - s: 'Four Way Match'
+  - s: 'Open Challenge Four Way Match'
 - - '[Matt Buckna](@/w/matt-buckna.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - s: 'No Disqualification Match'
