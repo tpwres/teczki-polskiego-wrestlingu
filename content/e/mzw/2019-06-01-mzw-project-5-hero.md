@@ -7,10 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2019-06-01-mzw-project-5-hero-plakat.jpg"
-caption = "Official poster, featuring [Justin Joy](@/w/justin-joy.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 ## Card
@@ -41,6 +38,8 @@ source = "Official MZW Facebook"
     Host, Ring Announcer: '[Tomasz Warchoł](@/w/tomasz-warchol.md)'
     Referees: '[Sędzia Matt2Hot](@/w/matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
+
+This was the final show to be hosted by Tomasz Warchoł.
 
 ## References
 

@@ -26,7 +26,7 @@ Tomasz Warchoł was a pro wrestling enthusiast, who the joined newly-created [Ma
 
 Since then, Tomasz Warchoł became the main host and ring announcer for most MZW shows. He became known for wearing a ship captain's suit as his ring attire for some of the shows, as well as for his distinct style of announcing. On a few occasions, he also did the double duty serving as an assisstant referee, most notably during [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md).
 
-Tomasz Warchoł officially retired from his ring announcing role at [MZW Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md). Afterwards, his role was taken over by [Mateusz Czarnecki](@/w/mateusz-czarnecki.md) and later by Adrian Zgórski.
+Tomasz Warchoł officially retired from his ring announcing role at [MZW Project 5: Hero](@/e/mzw/2019-06-01-mzw-project-5-hero.md). Afterwards, his role was taken over by [Mateusz Czarnecki](@/w/mateusz-czarnecki.md) and later by [Adrian Zgórski](@/w/adrian-zgorski.md).
 
 ### Retirement (2019-2024)
 
