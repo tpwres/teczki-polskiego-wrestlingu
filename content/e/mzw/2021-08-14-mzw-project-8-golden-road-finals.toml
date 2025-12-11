@@ -1,0 +1,14 @@
+01 = { path = "2021-08-14-mzw-project-8-golden-road-finals-plakat-nowy.webp", caption = "Official poster. Pictured top to bottom, left: [Rafael Kid](@/w/rafael-kid.md), [Madman Charlie](@/w/madman-charlie.md), [Shadow](@/w/shadow.md); right: [Matt Buckna](@/w/matt-buckna.md), ???, [Zeritus](@/w/zeritus.md).", source = "Official MZW Facebook" }
+02 = { path = "rafael-kid-vs-matt-buckna.webp", caption = "Image announcing [Rafael Kid](@/w/rafael-kid.md) vs [Matt Buckna](@/w/matt-buckna.md).", source = "Official MZW Facebook" }
+03 = { path = "chris-tyson-vs-garreth-noah.webp", caption = "Image announcing Chris Tyson vs Garreth Noah.", source = "Official MZW Facebook" }
+04 = { path = "madman-charlie-vs-unknown.webp", caption = "Image announcing [Madman Charlie](@/w/madman-charlie.md) vs ???.", source = "Official MZW Facebook" }
+05 = { path = "krueger-vs-deti-black-vs-aron-wake-vs-isnorr.webp", caption = "Image announcing [Krueger](@/w/olgierd.md) vs [Deti Black](@/w/dieter-schwartz.md) vs [Aron Wake](@/w/aron-wake.md) vs [Isnorr](@/w/isnorr.md).", source = "Official MZW Facebook" }
+06 = { path = "shadow-vs-prince-victor.webp", caption = "Image announcing [Shadow](@/w/shadow.md) vs [Prince Victor](@/w/vic-golden.md).", source = "Official MZW Facebook" }
+07 = { path = "aron-wake.webp", caption = "Image honouring [Aron Wake](@/w/aron-wake.md) as the winner of [Project Basement](@/e/project-basement.md).", source = "Official MZW Facebook" }
+11 = { path = "2021-08-14-mzw-project-8-golden-road-finals-plakat.jpg", caption = "Pre-COVID official poster. Pictured top to bottom, left: [Rafael Kid](@/w/rafael-kid.md), [Madman Charlie](@/w/madman-charlie.md), [Jacob Crane](@/w/jacob-crane.md); right: [Matt Buckna](@/w/matt-buckna.md), [Axel Fox](@/w/axel-fox.md), [Zeritus](@/w/zeritus.md).", source = "Official MZW Facebook" }
+12 = { path = "old-jacob-crane-vs-zeritus", caption = "Pre-COVID image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Zeritus](@/w/zeritus.md).", source = "Official MZW Facebook" }
+13 = { path = "old-axel-fox-vs-madman-charlie.webp", caption = "Pre-COVID image announcing [Axel Fox](@/w/axel-fox.md) vs [Madman Charlie](@/w/madman-charlie.md).", source = "Official MZW Facebook" }
+14 = { path = "old-rafael-kid-vs-matt-buckna.webp", caption = "Pre-COVID image announcing [Rafael Kid](@/w/rafael-kid.md) vs [Matt Buckna](@/w/matt-buckna.md).", source = "Official MZW Facebook" }
+15 = { path = "old-nathan-cross-vs-aron-wake", caption = "Pre-COVID image announcing [Nathan Cross](@/w/gabriel-queen.md) vs [Aron Wake](@/w/aron-wake.md).", source = "Official MZW Facebook" }
+16 = { path = "old-drabinka.webp", caption = "Pre-COVID image of the semi-finals tournament ladder.", source = "Official MZW Facebook" }
+17 = { path = "2021-08-14-mzw-project-19-plakat.webp", caption = "Project 8 is cancelled due to COVID-19.", source = "Official MZW Facebook" }
