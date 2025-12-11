@@ -80,6 +80,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
   - Golden Goat Trophy (2023) - Gabriel Queen (as Bonus CBD)
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time) - Boro
+  - PTW Tag Team Championship Tournament (2023) - Boro
   - [PTW Awards 2022](@/a/ptw-awards-2022.md) (7 times):
     * Hero of the Year - Axel Fox
     * Match of the Year - Axel Fox and Justin Joy

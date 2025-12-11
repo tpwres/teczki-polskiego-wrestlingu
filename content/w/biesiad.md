@@ -136,6 +136,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times)
+  - Turniej TypeShit (2025)
 
   _Backyard Era Championships:_
   - Pas Hardcore'u (1 time; as KAT)

@@ -86,10 +86,11 @@ On 10.11.2025 [Legacy](@/o/low.md) announced that Rosetti will be the guest comm
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Sawicki](@/w/sawicki.md)
-  - Championship Contract Battle Royal (2022)
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
-
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Sawicki](@/w/sawicki.md)
+  - KPW Tag Team Championship Tournament (2018) - with [Sawicki](@/w/sawicki.md)
+  - Championship Contract Battle Royal (2022)
+  
 ## Internet presence
 
 * [@rosettikpw on Instagram](https://www.instagram.com/rosettikpw/)

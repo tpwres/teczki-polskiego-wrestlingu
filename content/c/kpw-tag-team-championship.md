@@ -32,6 +32,59 @@ The plates are made of acrylic, with silver and black laminate giving the plates
 
 ## Title history
 
+### Inaugural tournament
+
+#### First round
+
+{% free_card() %}
+- - '[Rosetti](@/w/rosetti.md) & [Sawicki](@/w/sawicki.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md) & [Peter Pannache](@/w/peter-pannache.md)'
+  - s: Tag Team Match
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
+    ed: 2018-11-03
+- - 'Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md) w/ [Mira](@/w/mira.md)'
+  - '[Chemik](@/w/chemik.md) & [Greg](@/w/greg.md)'
+  - s: Tag Team Match
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
+    ed: 2018-11-03
+- - '[Piękny Kawaler](@/w/piekny-kawaler.md) & [Robert Star](@/w/robert-star.md)'
+  - '[Moloch](@/w/moloch.md)'
+  - s: Two On One Handicap Match
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
+    ed: 2018-11-03
+- - 'British Bouncer Club: [Dom Taylor](@/w/dom-taylor.md) & [Lee Rogers](@/w/lee-rogers.md)'
+  - '[Adam Bravo](@/w/adam-bravo.md) & [Mateusz Kakareko](@/w/mateusz-kakareko.md)'
+  - s: Tag Team Match
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
+    ed: 2018-11-03
+{% end %}
+
+#### Semi-finals
+
+{% free_card() %}
+- - 'Boska Oliwa: [Boski Ostrowski](@/w/ostrowski.md) & [David Oliwa](@/w/david-oliwa.md) w/ [Mira](@/w/mira.md)'
+  - 'British Bouncer Club: [Dom Taylor](@/w/dom-taylor.md) & [Lee Rogers](@/w/lee-rogers.md)'
+  - s: Tag Team Match
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
+    ed: 2018-11-03
+- - '[Rosetti](@/w/rosetti.md) & [Sawicki](@/w/sawicki.md)'
+  - '[Piękny Kawaler](@/w/piekny-kawaler.md) & [Robert Star](@/w/robert-star.md)'
+  - s: Tag Team Match
+    r: DQ
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
+    ed: 2018-11-03
+{% end %}
+
+#### Finals
+
+{% free_card() %}
+- - "[Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)"
+  - "Boska Oliwa: [David Oliwa](@/w/david-oliwa.md) & [Boski Ostrowski](@/w/ostrowski.md)"
+  - s: Tag Team Match
+    en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
+    ed: 2018-11-03
+{% end %}
+
 ### Champions #1: Sawicki & Victor Rosetti
 
 {% free_card() %}
