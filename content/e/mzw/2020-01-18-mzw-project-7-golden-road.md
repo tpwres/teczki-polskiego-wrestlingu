@@ -7,10 +7,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2020-01-18-mzw-project-7-golden-road-plakat.jpg"
-caption = "Official poster, featuring [Shadow](@/w/shadow.md) and [Zeritus](@/w/zeritus.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 ## Card
