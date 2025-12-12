@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.691942, 53.026723]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "2 LO Toruń",
+        "description": "Queen Jadwiga's High School No. 2 in Toruń, where MZW held [I Kosmiczny Wrestling Show](@/e/mzw/2021-12-18-mzw-i-kosmiczny-wrestling-show).",
+        "orgs": ["mzw"]
+    }
+}
