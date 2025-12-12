@@ -76,19 +76,23 @@ Following DDW #7 the title was vacated and the promotion had no champion for 890
 {% free_card() %}
 - - 'Polish Giant'
   - 'Eddie Rage'
-  - en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 - - '[Renegade](@/w/renegade.md)'
   - '[Robert Star](@/w/robert-star.md)'
-  - en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Klarys](@/w/klarys.md)'
-  - en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
-  - en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 {% end %}
 
@@ -97,11 +101,13 @@ Following DDW #7 the title was vacated and the promotion had no champion for 890
 {% free_card() %}
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Ron Corvus](@/w/ron-corvus.md)'
-  - en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 - - '[Renegade](@/w/renegade.md)'
   - 'Polish Giant'
-  - en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
     ed: 2014-08-17
 {% end %}
 
