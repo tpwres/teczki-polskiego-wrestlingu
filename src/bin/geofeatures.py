@@ -2,11 +2,35 @@ import argparse
 import json
 import sys
 from pathlib import Path
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any, Optional, TypedDict, Literal
 from page import page, Page
 import html
 from urllib.parse import quote
 from mistletoe import Document, HtmlRenderer
+
+
+class Geometry(TypedDict):
+    """GeoJSON geometry - supports all geometry types"""
+    type: Literal["Point", "LineString", "Polygon", "MultiPoint", "MultiLineString", "MultiPolygon", "GeometryCollection"]
+    coordinates: Any  # Different structure for different geometry types
+
+
+class FeatureProperties(TypedDict, total=False):
+    """Properties for a GeoJSON Feature"""
+    slug: str
+    name: Optional[str]
+    type: str
+    description: str
+    city: Optional[str]
+    # Additional properties from geodict can be added dynamically
+
+
+class GeoJSONFeature(TypedDict):
+    """GeoJSON Feature structure returned by create_feature_dict"""
+    type: Literal["Feature"]
+    geometry: Geometry
+    properties: FeatureProperties
+
 
 class ZolaLinkingRenderer(HtmlRenderer):
     @staticmethod
@@ -23,7 +47,7 @@ def eval_markdown(text: str) -> str:
         doc = Document(text)
         return renderer.render(doc)
 
-def create_geojson(page: Page) -> Optional[Dict[str, Any]]:
+def create_geojson(page: Page) -> Optional[GeoJSONFeature]:
     """Convert a venue page into a GeoJSON feature"""
     fm = page.front_matter
     match fm:
@@ -40,25 +64,29 @@ def create_geojson(page: Page) -> Optional[Dict[str, Any]]:
 
     return create_feature_dict(lon, lat, geodict, page)
 
-def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], page: Page) -> Dict[str, Any]:
+def create_feature_dict(lon: float, lat: float, geodict: Dict[str, Any], page: Page) -> GeoJSONFeature:
     mandatory_properties = ('type', 'description', 'coordinates')
     copy_properties = {key: value for key, value in geodict.items() if key not in mandatory_properties}
     fm = page.front_matter
     desc = page_description(page)
-    return {
+    doc: GeoJSONFeature = {
         "type": "Feature",
         "geometry": {
             "type": "Point",
             "coordinates": [lon, lat]
         },
         "properties": {
+            "slug": page.path.stem,
             "name": fm.get('title'),
             "type": geodict.get('type', 'venue'),
-            "city": fm.get('city'),
             "description": eval_markdown(desc),
             **copy_properties
         }
     }
+    if city := fm.get('city'):
+        doc['properties']['city'] = city
+
+    return doc
 
 def page_description(page) -> str:
     fm = page.front_matter
@@ -69,7 +97,7 @@ def page_description(page) -> str:
     return f"[{fm['title']}]({path})"
 
 
-def load_geojson_file(path: Path) -> List[Dict[str, Any]]:
+def load_geojson_file(path: Path) -> List[GeoJSONFeature]:
     """Load features from a GeoJSON file"""
     with path.open('r') as f:
         data = json.load(f)
@@ -83,7 +111,7 @@ def load_geojson_file(path: Path) -> List[Dict[str, Any]]:
             case _:
                 raise ValueError("GeoJSON data must contain either a list of Features or be a single Feature")
 
-def build_features_from(path: Path) -> List[Dict[str, Any]]:
+def build_features_from(path: Path) -> List[GeoJSONFeature]:
     """
     Scan directory for .md and .geojson files and return a list of GeoJSON features
     """
@@ -98,11 +126,13 @@ def build_features_from(path: Path) -> List[Dict[str, Any]]:
                 features.append(feature)
             case Path(suffix='.geojson'):
                 new_features = load_geojson_file(file_path)
-                for feature in new_features:
+                for i, feature in enumerate(new_features, start=1):
                     props = feature.get('properties', {})
                     desc = props.get('description')
-                    if not desc: continue
-                    props['description'] = eval_markdown(desc)
+                    if desc:
+                        props['description'] = eval_markdown(desc)
+                    if 'slug' not in props:
+                        props['slug'] = file_path.stem if i == 1 else f'{file_path.stem}-{i}'
                 features.extend(new_features)
 
     return features
