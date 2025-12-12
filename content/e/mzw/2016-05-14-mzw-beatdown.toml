@@ -49,6 +49,6 @@
 8009 = { path = "slysze-was-ale-nie-widze.webp", caption = "Shadow standing on a basketball hoop.", source = "Jędruś Bułecka's private archives" }
 8010 = { path = "i-za-trzy-punkty.webp", caption = "[Shadow](@/w/shadow.md) jumps from the hoop.", source = "Jędruś Bułecka's private archives" }
 8011 = { path = "pasi-mu-ten-pas.webp", caption = "[Shadow](@/w/shadow.md) with the newly-won [MZW Championship](@/c/mzw-championship.md).", source = "Jędruś Bułecka's private archives" }
-9001 = { path = "om-nom-nom.webp", caption = "[Hexia](@/w/hexia.md) after the show, eyeing a tasty-looking girl. [Gretel, probably](british-babcie-clapping.webp).", source = "Official MZW Facebook" }
+9001 = { path = "om-nom-nom.webp", caption = "[Hexia](@/w/hexia.md) after the show, eyeing a tasty-looking girl. [Gretel, probably](https://i.tpwres.pl/e/mzw/2016-05-14-mzw-beatdown/british-babcie-clapping.webp).", source = "Official MZW Facebook" }
 9002 = { path = "2016-05-14-mzw-beatdown-dvd-front.jpg", caption = "Front cover of the official DVD with the event, featuring [Justin Joy](@/w/justin-joy.md).", source = "Showoff @ Twitter" }
 9003 = { path = "2016-05-14-mzw-beatdown-dvd-back.jpg", caption = "Back cover of the offical DVD, listing the commentators.", source = "Showoff @ Twitter", skip_art = true  }
