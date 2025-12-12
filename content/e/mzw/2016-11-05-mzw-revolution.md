@@ -8,14 +8,12 @@ venue = ["gosir-glucholazy"]
 city = "Głuchołazy"
 toclevel = 2
 [extra.gallery]
-1 = { path = "plakat.webp", caption = "Show poster with [Asmund](@/w/asmund.md).", source = "Official MZW Facebook" }
-2 = { path = "mzw-revolution-kral-slova-kuba.jpg", caption = "Facebook graphic announcing Czech referee Král Slova Kuba for the event.", source = "Official MZW Facebook"}
 +++
 
 ## Card
 
 {% card() %}
-- - 'Demon'
+- - 'Démon'
   - 'RJ Kolda'
   - c: 'VcV Championship'
 - - '[Prince Victor](@/w/vic-golden.md)'
@@ -55,3 +53,6 @@ toclevel = 2
 * [Recap by Wrestlingowym Szlakiem](https://www.youtube.com/live/PCDYlxWbNQA)
 * [Recap and ratings by Arkao on wrestling.pl](https://www.wrestling.pl/news-recenzja-vod-mzw-revolution.html)
 * [Facebook post with photos](https://www.facebook.com/photo?fbid=914011792076381&set=a.911106232366937)
+* [Photos from the show, part 1](https://www.facebook.com/photo/?fbid=911106405700253)
+* [Photos from the show, part 2](https://www.facebook.com/photo/?fbid=911139455696948)
+* [Photos from the show, part 3](https://www.facebook.com/photo/?fbid=914011792076381)

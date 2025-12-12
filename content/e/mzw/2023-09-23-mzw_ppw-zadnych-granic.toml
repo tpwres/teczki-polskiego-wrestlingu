@@ -1,0 +1,32 @@
+[01]
+path = "2023-09-23-ppw-mzw-zadnych-granic-plakat.jpg"
+caption = """\
+Official poster, featuring [Mister Z](@/w/mister-z.md), [Shadow](@/w/shadow.md),
+Marcus Monere, [Chris X](@/w/chris-x.md) and [Biesiad](@/w/biesiad.md).
+"""
+source = "Official MZW Facebook"
+
+[02]
+path = "chris-x-vs-biesiad-strong.webp"
+caption = "Image announcing [Chris X](@/w/chris-x.md) vs [Biesiad Strong](@/w/biesiad.md)."
+source = "Official MZW Facebook"
+
+[03]
+path = "matt-buckna-vs-michael-payne.webp"
+caption = "Image announcing [Matt Buckna](@/w/matt-buckna.md) vs Michael Payne."
+source = "Official MZW Facebook"
+
+[04]
+path = "mister-z-vs-marcus-monere.webp"
+caption = "Image announcing [Mister Z](@/w/mister-z.md) vs Marcus Monere."
+source = "Official MZW Facebook"
+
+[05]
+path = "rubix-vs-shadow.webp"
+caption = "Image announcing Rubix vs [Shadow](@/w/shadow.md)."
+source = "Official MZW Facebook"
+
+[06]
+path = "gustav-gryffin-vs-chris-cage.webp"
+caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs Chris Cage."
+source = "Official MZW Facebook"

@@ -7,11 +7,10 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2021-08-14-mzw-project-8-golden-road-finals-plakat.jpg"
-caption = "Official poster. Pictured top to bottom, left: [Rafael Kid](@/w/rafael-kid.md), [Madman Charlie](@/w/madman-charlie.md), [Jacob Crane](@/w/jacob-crane.md); right: [Matt Buckna](@/w/matt-buckna.md), [Axel Fox](@/w/axel-fox.md), [Zeritus](@/w/zeritus.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
+
+MZW Project 8 was announced on 29.02.2020, set to take place on 25.04.2020. A few matches were announced in the following days, but on 7.04.2020 the COVID-19 restrictions forced MZW to postpone the event indefinitely. The [Project Basement](@/e/project-basement.md) web series ran from March to July 2021 to keep the fans engaged during lockdown, and on 4.07.2021 Project 8 was announced again.
 
 ## Card
 
@@ -31,10 +30,12 @@ source = "Official MZW Facebook"
   - s: No Disqualification Match
 - - Garett Noah
   - Chris Tyson
-- -  'Michael Payne'
-  -  '[Prince Striker](@/w/royal-striker.md)'
-  -  'Lio Zayde'
-  -  '[Chris X](@/w/chris-x.md)'
+- -  '_rookie_ Michael Payne'
+  -  '[_rookie_ Prince Striker](@/w/royal-striker.md)'
+  -  '_rookie_ Lio Zayde'
+  -  '[_rookie_ Chris X](@/w/chris-x.md)'
+  -  '[_rookie_ Rafi Rarytas](@/w/rafi.md)'
+  -  '???'
   -  '???'
   -  s: 'Seven Man Rookies Battle Royal'
 - - '[Rafael Kid](@/w/rafael-kid.md)'
@@ -45,6 +46,10 @@ source = "Official MZW Facebook"
     Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
     Referees: '[Sędzia Michał](@/w/sedzia-michal.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
+
+### Highlights
+
+* [Konrad von Koch](@/w/konrad-von-koch.md), who hosted the Project Basement series, intervened in the tournament. He ejected [Madman Charlie](@/w/madman-charlie.md) from the second match and replaced him with Aron Wake, the winner of Project Basement. As a result, the planned Four Way Match (Wake vs Krueger vs Isnorr vs Black) became a Three Way Match.
 
 ## References
 

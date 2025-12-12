@@ -1,0 +1,29 @@
+[01]
+path = "2018-01-14-mzw-big-rumble-plakat.jpg"
+caption = """\
+  Official poster. Top-down, left to right:<br>
+  [Mr B.](@/w/mr-b.md), Valeria;<br>
+  [Christopher Anthony](@/w/christopher-anthony.md), [Hexia](@/w/hexia.md);<br>
+  [Apollo Anderson](@/w/apollo-anderson.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), Eddie Rage;<br>
+  [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);<br>
+  [Lady Killer](@/w/boro.md), [Rick Baxxter](@/w/rick-baxxter.md), Kent;<br>
+  [Jędruś Bułecka](@/w/jedrus-bulecka.md), Laurance Roman;<br>
+  [Ronny Kessler](@/w/ronny-kessler.md), [Dynamite Dave](@/w/dynamite-dave.md); <br>
+  [Alexander Reich](@/w/alex-ace.md).
+"""
+source = "Official MZW Facebook"
+
+[02]
+path = "royal-rumble.webp"
+caption = "Image announcing the Royal Rumble."
+source = "Official MZW Facebook"
+
+[03]
+path = "asmund-vs-unknown.webp"
+caption = "Image announcing [Asmund](@/w/asmund.md) vs the winner of the Royal Rumble."
+source = "Official MZW Facebook"
+
+[04]
+path = "shadow-z-mlodym-fanem.webp"
+caption = "[Shadow](@/w/shadow.md) with a young fan."
+source = "Official MZW Facebook"

@@ -38,3 +38,4 @@ This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which 
 * [Coverage by inowroclaw.naszemiasto.pl](https://inowroclaw.naszemiasto.pl/klimat-meksykanski-zagoscil-w-solankach/ar/c2-3853156), with photos of wrestlers
 * [Coverage by inowroclaw.pl](https://www.inowroclaw.pl/aktualnosc-336-meksyk_w_parku_solankowym.html), with photos of wrestlers
 * [Coverage by Gazeta Pomorska](https://pomorska.pl/meksykanski-festiwal-smakow-w-inowroclawiu-zdjecia/ar/10613970), with photos
+* [Photos from the show](https://www.facebook.com/photo/?fbid=873012462842981)

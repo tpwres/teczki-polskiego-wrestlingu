@@ -8,20 +8,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
-[extra.gallery.1]
-path = "2018-01-14-mzw-big-rumble-plakat.jpg"
-caption = """\
-  Official poster. Top-down, left to right:<br>
-  [Mr B.](@/w/mr-b.md), Valeria;<br>
-  ???, [Hexia](@/w/hexia.md);<br>
-  ???, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), ???;<br>
-  [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md);<br>
-  ???, [Rick Baxxter](@/w/rick-baxxter.md), Kent;<br>
-  [Jędruś Bułecka](@/w/jedrus-bulecka.md), Laurance Roman;<br>
-  [Ronny Kessler](@/w/ronny-kessler.md), [Dynamite Dave](@/w/dynamite-dave.md); <br>
-  [Alexander Reich](@/w/alex-ace.md).
-"""
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 This was the last [MZW](@/o/mzw.md) event to be held in [Głuchołazy](@/v/gosir-glucholazy.md), and also another charity event with donations going to WOŚP, coinciding with their 26th annual Grand Finale event. Listings of this event elsewhere on the Internet sometimes add "26th Anniversary", but do not explain what it refers to. It does not refer to MZW's Anniversary, at this time about four years old, but to the Grand Finale.
@@ -39,7 +26,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - '[Lady Killer](@/w/boro.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Damien Rothschild](@/w/damien-rothschild.md)'
-  - Demon
+  - Démon
   - Denim
   - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - Ezeny
