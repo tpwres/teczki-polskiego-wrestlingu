@@ -3,7 +3,7 @@
 0002 = { path = "asmund-vs-skullevil.webp", caption = "Image announcing [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/skull-evil.md).", source = "Official MZW Facebook" }
 0003 = { path = "szymon-siwiec-challenge.webp", caption = "Image announcing Szymon Siwiec.", source = "Official MZW Facebook" }
 0004 = { path = "svd-vs-red-thunder.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) vs [Red Thunder](@/w/red-thunder.md).", source = "Official MZW Facebook" }
-0005 = { path = "aleksandra-osowska-vs-dominika-janus.webp", caption = "Image announcing Aleksandra Osowska  vs Dominika Janus.", source = "Official MZW Facebook" }
+0005 = { path = "aleksandra-osowska-vs-dominika-janus.webp", caption = "Image announcing kickboxers Aleksandra Osowska vs Dominika Janus.", source = "Official MZW Facebook" }
 0006 = { path = "zeritus.webp", caption = "Image announcing [Zeritus](@/w/zeritus.md) (with [Hexia](@/w/hexia.md)) vs ???.", source = "Official MZW Facebook" }
 0007 = { path = "dynamite-dave.webp", caption = "Image announcing [Dynamite Dave](@/w/dynamite-dave.md) vs ???.", source = "Official MZW Facebook" }
 1001 = { path = "black-phantom.webp", caption = "Black Phantom.", source = "Jędruś Bułecka's private archives" }
@@ -49,6 +49,6 @@
 8009 = { path = "slysze-was-ale-nie-widze.webp", caption = "Shadow standing on a basketball hoop.", source = "Jędruś Bułecka's private archives" }
 8010 = { path = "i-za-trzy-punkty.webp", caption = "[Shadow](@/w/shadow.md) jumps from the hoop.", source = "Jędruś Bułecka's private archives" }
 8011 = { path = "pasi-mu-ten-pas.webp", caption = "[Shadow](@/w/shadow.md) with the newly-won [MZW Championship](@/c/mzw-championship.md).", source = "Jędruś Bułecka's private archives" }
-9001 = { path = "om-nom-nom.webp", caption = "[Hexia](@/w/hexia.md) after the show, eyeing a tasty-looking girl. Gretel, probably.", source = "Official MZW Facebook" }
+9001 = { path = "om-nom-nom.webp", caption = "[Hexia](@/w/hexia.md) after the show, eyeing a tasty-looking girl. [Gretel, probably](british-babcie-clapping.webp).", source = "Official MZW Facebook" }
 9002 = { path = "2016-05-14-mzw-beatdown-dvd-front.jpg", caption = "Front cover of the official DVD with the event, featuring [Justin Joy](@/w/justin-joy.md).", source = "Showoff @ Twitter" }
 9003 = { path = "2016-05-14-mzw-beatdown-dvd-back.jpg", caption = "Back cover of the offical DVD, listing the commentators.", source = "Showoff @ Twitter", skip_art = true  }

@@ -26,7 +26,7 @@ toclevel = 2
   - '[Lady Killer](@/w/boro.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - 'Otto Stahl'
-  - s: Four Way Match
+  - s: Mystery Fatal 4-Way Match
 - - '[Damien Rothschild](@/w/damien-rothschild.md)'
   - '[Shadow](@/w/shadow.md)(c)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
