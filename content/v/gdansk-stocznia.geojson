@@ -12,6 +12,7 @@
       },
       "properties": {
           "type": "venue",
+          "slug": "b90",
           "name": "B90",
           "description": "B90 club, where [KPW](@/o/kpw.md) held [Szlamfest](@/e/kpw/2017-02-04-kpw-szlamfest.md), [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md) and [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md).",
           "orgs": ["kpw"]
@@ -25,6 +26,7 @@
         },
         "properties": {
             "type": "venue",
+            "slug": "plenum",
             "name": "Plenum",
             "description": "Plenum Hall, where [Lucha Libre Extravaganza](@/e/ppw/2025-05-16-ppw-lucha-libre-extravaganza.md) was held (above Drizzly Grizzly club).",
             "orgs": ["ppw"]
@@ -38,6 +40,7 @@
         },
         "properties": {
             "type": "venue",
+            "slug": "chill-out-zone",
             "name": "Mystic Festival's Chill Out Zone",
             "description": "Mystic Festival's Chill Out Zone, where [More Brutal Than Metal](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md) was held.",
             "orgs": ["ppw"]
