@@ -61,9 +61,10 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in 
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Veit Müller](@/w/veit-mueller.md)
-  - Magnificent Seven No-DQ Elimination Championship Contract Ladder Match (2024)
   - [KPW Championship](@/c/kpw-championship.md) (1 time)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Veit Müller](@/w/veit-mueller.md)
+  - Magnificent Seven Contract Ladder Match (2024)
+
 
 ## Internet presence
 

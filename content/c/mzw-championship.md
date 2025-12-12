@@ -184,6 +184,33 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 
 Asmund vacated the title immediately after winning it, due to his retirement from wrestling. This resulted in the title being vacant for 721 days.
 
+### Championship Tournament
+
+#### Semi-finals
+
+{% free_card() %}
+- - '[Rafael Kid](@/w/rafael-kid.md)'
+  - '[Matt Buckna](@/w/matt-buckna.md)'
+  - s: Singles Match
+    en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
+    ed: 2021-08-14
+- - '[Aron Wake](@/w/aron-wake.md)'
+  - Nick Schreier
+  - s: Singles Match
+    en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
+    ed: 2021-08-14
+{% end %}
+
+#### Finals
+
+{% free_card() %}
+- - '[Rafael Kid](@/w/rafael-kid.md)'
+  - '[Aron Wake](@/w/aron-wake.md)'
+  - s: Singles Match
+    en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
+    ed: 2021-08-14
+{% end %}
+
 ### Champion #6: Rafael Kid
 
 {% free_card() %}
