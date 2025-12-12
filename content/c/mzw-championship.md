@@ -191,11 +191,13 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
 {% free_card() %}
 - - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
-  - en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
+  - s: Singles Match
+    en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
     ed: 2021-08-14
 - - '[Aron Wake](@/w/aron-wake.md)'
   - Nick Schreier
-   - en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
+  - s: Singles Match
+    en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
     ed: 2021-08-14
 {% end %}
 
@@ -204,7 +206,8 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
 {% free_card() %}
 - - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
-  - en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
+  - s: Singles Match
+    en: '[MZW Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md)'
     ed: 2021-08-14
 {% end %}
 
