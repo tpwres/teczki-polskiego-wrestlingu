@@ -3,7 +3,7 @@ import html
 import json
 import sys
 from pathlib import Path
-from typing import Any, Literal, TypedDict, cast, override
+from typing import Any, Literal, TypedDict, cast
 from urllib.parse import quote
 
 from mistletoe import Document, HtmlRenderer  # pyright: ignore[reportMissingTypeStubs]
@@ -48,7 +48,6 @@ class GeoJSONFeature(TypedDict):
 
 class ZolaLinkingRenderer(HtmlRenderer):
     @staticmethod
-    @override
     def escape_url(raw: str) -> str:
         if raw.startswith("@") and raw.endswith(".md"):
             # Strip @ and suffix to make it a relative path,
