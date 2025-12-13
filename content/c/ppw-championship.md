@@ -269,6 +269,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Chain God Realm Match
     en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
     ed: 2025-12-06
+- - 'Olgierd (c)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - s: Legendary Unsanctioned Match
+    en: [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)
+    ed: 2026-01-16
 {% end %}
 
 ## References
