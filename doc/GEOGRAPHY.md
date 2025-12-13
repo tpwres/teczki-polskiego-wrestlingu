@@ -69,12 +69,15 @@ Features may have a `properties` key, which is a map containing arbitrary key-va
 
 * `type`: defines pin types
 * `name`: hover text, equivalent to `title`. Plain-text only, no Markdown.
+* `slug`: optional short alphanumeric identifier.
 * `description`: popup text, handles Markdown.
 * `orgs`: Orgs list
 
 All other keys (possibly inherited from mapping software) are ignored.
 
 Note that in JSON documents, newlines are not permitted inside strings, and there is no alternative notation for long strings. Therefore, newlines must be represented with `\n` escapes.
+
+If a GeoJSON feature does not define a slug, a fallback value is used which is the filename with the `.md` suffix removed. If the file contains more than one feature, the first one will have a filename slug as described. All other features in the file will use the same slug with an increasing numeric index, starting from `-2`.
 
 ### Example
 
@@ -91,6 +94,7 @@ Here's a GeoJSON document which collects all the mentioned features, and replica
         "name": "My Backyard",
         "type": "venue",
         "description": "An example venue location",
+        "slug": "my-backyard",
         "orgs": ["ptw", "mzw"]
     }
 }
@@ -123,3 +127,14 @@ Both forms can be used inline with other text. Styling is added so that the brow
 The text may be plaintext or Markdown, including links. However, reference style links where targets are defined in the footer, will not work correctly here. Any links must specify their target directly inline, e.g. `[Title](http://example.com)`.
 
 Both the icon and any text given will become a link. However, note that when the Markdown contains a link, the user experience is not ideal: the icon leads to one location, and the link text to another. It is best to avoid this situation, and only use plaintext.
+
+### Addressing markers
+
+The value passed with `v=` is used to find a map marker. It must match either of the following:
+
+1. for GeoJSON-defined features, value of the feature's `slug` field, if defined
+2. for map-ready documents, the final component of its filename, without the `.md` suffix
+3. for GeoJSON features without a `slug` field, the fallback slug which is the GeoJSON filename without the `.geojson` suffix
+4. for GeoJSON files with multiple features but no slug, the fallback slug and a number, separated by a dash.
+5. for GeoJSON files, the feature's `name`
+6. for documents, the page title
