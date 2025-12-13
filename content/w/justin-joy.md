@@ -20,8 +20,11 @@ Justin Joy is a retired Polish wrestler best known for his time in [Maniac Zone 
 * Trained by:
   - [DDW Academy](@/o/ddw-academy.md) (201?-2014)
   - Travis Banks
+  - Pete Dunne
+  - Rockstar Spud
   - Lee Hunter
   - Jim Hunter
+  - Eddie Edwards
 
 ## Professional wrestling career
 
