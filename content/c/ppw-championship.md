@@ -272,7 +272,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 - - 'Olgierd (c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Legendary Unsanctioned Match
-    en: [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)
+    en: '[Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16
 {% end %}
 
