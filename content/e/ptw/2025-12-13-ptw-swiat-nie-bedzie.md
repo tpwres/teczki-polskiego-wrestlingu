@@ -48,7 +48,7 @@ toclevel = 2
   - 'Davide Adami & Luke Astaroth'
   - s: Tag Team Match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-- - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)
+- - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - 'Baron Wolfgang Storm'
 - - '[Spartan](@/w/spartan.md)'
   - '[Puncher](@/w/puncher.md)(c) /w [Arkadiusz Pan Pawłowski](@/w/pan-pawlowski.md)'
