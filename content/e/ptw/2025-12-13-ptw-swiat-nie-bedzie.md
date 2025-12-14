@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-"Świąt Nie Będzie" (roughly _Christmas is Cancelled_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced at the end of [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
+"Świąt Nie Będzie" (roughly _Christmas is Cancelled_) was a show by [Prime Time Wrestling](@/o/ptw.md). It was announced at the end of [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 
 ## Build up
 
@@ -24,7 +24,7 @@ toclevel = 2
 * On 7.12.2025 PTW announced a Christmas Hardcore Match between [Daniel Razor](@/w/daniel-razor.md) vs Jay, an Irish wrestler mainly associated with [Over The Top Wrestling][over-the-top]. This will be his Polish debut.
 * On 9.12.2025 PTW announced [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damien-rothschild.md).
 
-## Predicted card
+## Card
 
 {% card() %}
 - - '[Nano Lopez](@/w/nano-lopez.md)(c)'
@@ -54,6 +54,12 @@ toclevel = 2
   - '[Puncher](@/w/puncher.md)(c) /w [Arkadiusz Pan Pawłowski](@/w/pan-pawlowski.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md) & PTW:WWA Championship'
     s: All or Nothing Match
+  - credits:
+    General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
+    Timekeeper: 'Boguś'
  {% end %}
 
 ## Recap
