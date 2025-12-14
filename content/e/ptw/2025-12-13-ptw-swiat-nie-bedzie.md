@@ -35,10 +35,10 @@ toclevel = 2
   - s: Christmas Hardcore Match
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - '[Miyagi Shida](@/w/shida.md)'
-  - '[Sigma Boy XD](@/w/sigma-boy.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: Łukasz Okoński announces MiyagiSigma #1 Tag Team Contenders Match. Gets interrpunted by Pawłowski.
-- - 'Miyagi Sigma: [Miyagi Shida](@/w/shida.md) & [Sigma Boy XD](@/w/sigma-boy.md)'
+  - g: Łukasz Okoński announces Miyagi Sigma #1 Tag Team Contenders Match, gets interrpunted by Pawłowski.
+- - 'Miyagi Sigma: [Miyagi Shida](@/w/shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Drop & Bump: Dropper & Bumper'
   - '[Blaze](@/w/blaze.md) & Bart Petro'
   - s: Triple Threat Tag Team Match
@@ -54,7 +54,7 @@ toclevel = 2
   - '[Puncher](@/w/puncher.md)(c) /w [Arkadiusz Pan Pawłowski](@/w/pan-pawlowski.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md) & PTW:WWA Championship'
     s: All or Nothing Match
-  - credits:
+- credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
