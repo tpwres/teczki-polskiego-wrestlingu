@@ -130,7 +130,18 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: All or Nothing Match
     en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
-    nc: upcoming
+{% end %}
+
+**TOTAL:** 679 days.
+
+### Champion #2: Spartan
+
+{% free_card() %}
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - '[Spartan](@/w/spartan.md)'
+  - s: All or Nothing Match
+    en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    ed: 2025-12-13
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt
