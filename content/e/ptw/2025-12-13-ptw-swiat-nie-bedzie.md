@@ -34,11 +34,11 @@ toclevel = 2
   - '"The Kingslayer" Jay'
   - s: Christmas Hardcore Match
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
-  - '[Miyagi Shida](@/w/shida.md)'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Łukasz Okoński announces Miyagi Sigma #1 Tag Team Contenders Match, gets interrpunted by Pawłowski.
-- - 'Miyagi Sigma: [Miyagi Shida](@/w/shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+- - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Drop & Bump: Dropper & Bumper'
   - '[Blaze](@/w/blaze.md) & Bart Petro'
   - s: Triple Threat Tag Team Match
