@@ -248,8 +248,8 @@ One remarkable deal between PTW and a bigger promotion was an agreement with Imp
 
 {% championship() %}
 - - '[PTW Championship](@/c/ptw-championship.md)'
-  - '[Puncher](@/w/puncher.md)'
-  - Inaugural champion, won the championship rumble match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
+  - '[Spartan](@/w/spartan.md)'
+  - Defeated [Puncher](@/w/puncher.md) at [PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
   - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - >
