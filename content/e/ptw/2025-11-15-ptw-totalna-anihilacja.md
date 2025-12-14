@@ -55,7 +55,7 @@ toclevel = 2
   - s: Three Stages of Hell - 1-on-1 Match
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - g: 'Okoński announces the main event for the next show.'
-  - credits:
+- credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
