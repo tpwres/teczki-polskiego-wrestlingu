@@ -100,6 +100,10 @@ This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwa
 Since going pro in 2019/2020, PpW invited foreign wrestlers to several of their shows, but never aimed for internationally recognized names. Guests from Czechia, Germany, Belgium, Austria, Sweden, Spain and even Israel performed on their shows, with Belgian [Steve Kuningas](@/w/steve-kuningas.md) even becoming [PpW Champion](@/c/ppw-championship.md) for over six months.
 However, since the Prime Time Transfers era, PpW has enough roster members, and foreign guests have been more rare, and the last event to feature them in significant numbers was [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) in April 2024.
 
+### Excursion to Japan
+
+On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi".
+
 ## Polish wrestling scene
 
 In their backyard era, PpW were always well connected with the other non-professional organizations, and appearing on each other's events. The best documented example on hand is [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), which featured three PpW wrestlers.
