@@ -7,7 +7,7 @@ authors = ["Sewi The Referee"]
 toclevel=2
 +++
 
-Gold Rush Rumble is a professional wrestling match based on the clasic [Royal Rumble][royal-rumble]. This match is promoted by [Prime Time Wrestling](@/o/ptw.md).
+Gold Rush Rumble is a professional wrestling match based on the classic [Royal Rumble][royal-rumble]. This match is promoted by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Concept
 
