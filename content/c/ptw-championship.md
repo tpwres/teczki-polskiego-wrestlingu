@@ -125,8 +125,8 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
-- - 'Puncher(c)'
-  - '[Spartan](@/w/spartan.md)'
+- - '[Spartan](@/w/spartan.md)'
+  - 'Puncher(c)'
   - s: All or Nothing Match
     en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
@@ -137,8 +137,8 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 ### Champion #2: Spartan
 
 {% free_card() %}
+- - '[Spartan](@/w/spartan.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
-  - '[Spartan](@/w/spartan.md)'
   - s: All or Nothing Match
     en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
