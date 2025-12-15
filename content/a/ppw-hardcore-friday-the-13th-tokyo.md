@@ -14,9 +14,16 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 ## Build-up
 
-* TBD
+* The first match to be announced was a Deathmatch between Abdullah Kobayashi and [Johnny Blade](@/w/johnny-blade.md).
 
-{{ skip_card() }}
+## Card
+
+{% card() %}
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Abdullah Kobayashi'
+  - s: Deathmatch
+    nc: upcoming
+{% end %}
 
 ### Recap
 

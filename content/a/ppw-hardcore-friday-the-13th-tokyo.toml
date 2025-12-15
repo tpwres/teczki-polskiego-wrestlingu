@@ -1,5 +1,6 @@
-1 = { path = "ppw-hardcore-friday-the-13th-plakat.webp", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook"}
-2 = { path = "tokyo-square-1.webp", caption = "Outside view of the venue.", source = "ts_initabashi @ Twitter"}
-3 = { path = "tokyo-square-2.webp", caption = "A look at the ring.", source = "ts_initabashi @ Twitter"}
-4 = { path = "tokyo-square-3.webp", caption = "[DIE Extra ~ No Restriction](https://www.cagematch.net/?id=1&nr=418140) show held at the venue.", source = "ts_initabashi @ Twitter"}
-5 = { path = "tokyo-square-4.webp", caption = "[DIE Extra ~ No Restriction](https://www.cagematch.net/?id=1&nr=418140) show held at the venue.", source = "ts_initabashi @ Twitter"}
+01 = { path = "ppw-hardcore-friday-the-13th-plakat.webp", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook"}
+02 = { path = "abdullah-kobayashi-vs-joni-bureeido.webp", caption = "Image announcing Abdullah Kobayashi vs [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook"}
+96 = { path = "tokyo-square-1.webp", caption = "Outside view of the venue.", source = "ts_initabashi @ Twitter"}
+97 = { path = "tokyo-square-2.webp", caption = "A look at the ring.", source = "ts_initabashi @ Twitter"}
+98 = { path = "tokyo-square-3.webp", caption = "[DIE Extra ~ No Restriction](https://www.cagematch.net/?id=1&nr=418140) show held at the venue.", source = "ts_initabashi @ Twitter"}
+99 = { path = "tokyo-square-4.webp", caption = "[DIE Extra ~ No Restriction](https://www.cagematch.net/?id=1&nr=418140) show held at the venue.", source = "ts_initabashi @ Twitter"}
