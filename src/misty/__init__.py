@@ -1,30 +1,11 @@
-import re
 import mistletoe, mistletoe.ast_renderer
 from mistletoe.ast_renderer import AstRenderer
 from mistletoe.base_renderer import BaseRenderer
 from mistletoe import span_token, block_token
 
-from misty.frontmatter import Frontmatter
-from misty.liquid import LiquidExpr, LiquidBlock, LiquidSpan
-
-
-
-class RichRenderer(BaseRenderer):
-    def __init__(self):
-        super().__init__(LiquidBlock, Frontmatter, LiquidExpr, LiquidSpan)
-
-    # These just need to exist, not necessarily do anything
-    def render_liquid_expr(self, token):
-        pass
-
-    def render_liquid_span(self, token):
-        pass
-
-    def render_liquid_block(self, token):
-        pass
-
-    def render_frontmatter(self, token):
-        pass
+from .frontmatter import Frontmatter
+from .liquid import LiquidExpr, LiquidBlock, LiquidSpan
+from .renderer import NoopRenderer
 
 def walk_nested(elem, line_num):
     row, col = line_num, 1
@@ -92,7 +73,7 @@ def walk_toplevel(elem, line_num):
 
 def emit_tokens_with_lines(stream):
     with stream as fp:
-        with RichRenderer() as renderer:
+        with NoopRenderer() as renderer:
             doc = mistletoe.Document(fp)
 
             # Starting from doc which is an element by itself, walk recursively through children.
