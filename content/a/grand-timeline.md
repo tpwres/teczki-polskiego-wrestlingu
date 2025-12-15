@@ -182,5 +182,5 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * PpW and KPW hold [their](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) [shows](@/e/kpw/2026-01-16-kpw-arena-31.md) on the same day, in the same city (700&nbsp;m from each other), and at partly conflicting times (KPW at 6&nbsp;PM and PpW at 8&nbsp;PM) - both to capitalise on the upcoming WWE event.
 * [WWE](@/o/wwe.md) hold their first [show](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md) in Poland since [2015](@/e/wwe/2015-04-15-wwe-live.md).
-* PpW [holds a show in Tokio](@/a/ppw-hardcore-friday-the-13th-tokio.md), in cooperation with Big Japan Pro Wrestling and other local promotions.
+* PpW [holds a show in Tokyo](@/a/ppw-hardcore-friday-the-13th-tokyo.md), in cooperation with Big Japan Pro Wrestling and other local promotions.
 {% end %}

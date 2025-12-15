@@ -102,7 +102,7 @@ However, since the Prime Time Transfers era, PpW has enough roster members, and 
 
 ### Excursion to Japan
 
-On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokio.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokio_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi".
+On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi".
 
 ## Polish wrestling scene
 
