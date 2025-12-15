@@ -51,7 +51,7 @@ toclevel = 2
 - - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - 'Baron Wolfgang Storm'
 - - '[Spartan](@/w/spartan.md)'
-  - '[Puncher](@/w/puncher.md)(c) /w [Arkadiusz Pan Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Puncher](@/w/puncher.md)(c) w/ [Arkadiusz Pan Pawłowski](@/w/pan-pawlowski.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md) & PTW:WWA Championship'
     s: All or Nothing Match
 - credits:
