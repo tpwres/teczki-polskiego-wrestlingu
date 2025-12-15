@@ -16,10 +16,12 @@ Gold Rush Rumble match closely resembles Royal Rumble known from World Wrestling
 
 As of 2025 the main prize of Gold Rush Rumble varies. During first edition of Gold Rush Rumble the winner was crowned as inaugural [PTW Champion](@/c/ptw-championship.md) while on the second edition the winner of a match was awarded a #1 Contender spot for [PTW Underground Championship](@/c/ptw-underground-championship.md) - PTW's secondary title. 
 
-## Dates, shows, and winners
+## Editions, shows, and winners
 
-* Gold Rush Rumble (2024) - [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) - [Puncher](@/w/puncher.md)
-* Gold Rush Rumble (2025) - [PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) - [Nano Lopez](@/w/nano-lopez.md)
+| Edition | Date | Show | Winner |
+|---|---|---|---|
+| Gold Rush Rumble (2024) | 2024-02-03 | [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) | [Puncher](@/w/puncher.md) |
+| Gold Rush Rumble (2025) | 2025-06-28 | [PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) | [Nano Lopez](@/w/nano-lopez.md) |
 
 
 [royal-rumble]: https://en.wikipedia.org/wiki/Royal_Rumble_match
