@@ -1,5 +1,5 @@
 import re
-from mistletoe.block_token import BlockToken
+from mistletoe.block_token import BlockToken, tokenize
 from mistletoe.span_token import RawText, SpanToken
 
 class LiquidExpr(SpanToken):
@@ -51,10 +51,6 @@ class LiquidSpan(SpanToken):
         self.head = matchobj.group(2)
 
 class LiquidBlock(BlockToken):
-    """
-    Block zola/liquid function/macro call {% macro() %}...content...{% end %}, where head and end
-    are on standalone lines. Cannot be used in a paragraph.
-    """
     head_pattern = re.compile(r'''
       \{%
       (
@@ -72,11 +68,6 @@ class LiquidBlock(BlockToken):
         lines, (expr, head) = matched_lines
         self.expr = expr
         self.head = head
-        self.children = (RawText('\n'.join(lines)),)
-
-    @property
-    def content(self):
-        return self.children[0].content
 
     @classmethod
     def start(cls, line):
@@ -89,6 +80,8 @@ class LiquidBlock(BlockToken):
 
         expr = matchobj.group(1)
         head = matchobj.group(2)
+        if head not in cls.allowed_heads:
+            return False
         cls._block_info = (expr, head)
         return True
 
@@ -103,3 +96,33 @@ class LiquidBlock(BlockToken):
             buf.append(line.strip())
 
         return buf, cls._block_info
+
+class DataBlock(LiquidBlock):
+    """
+    Block zola/liquid function/macro call {% macro() %}...content...{% end %}, where head and end
+    are on standalone lines. Cannot be used in a paragraph. Content is NOT parsed.
+    """
+    allowed_heads = ('card',)
+
+    def __init__(self, matched_lines):
+        super().__init__(matched_lines)
+        self.children = (RawText('\n'.join(lines)),)
+
+    @property
+    def content(self):
+        return self.children[0].content
+
+
+class LiquidContentBlock(LiquidBlock):
+    """
+    Block zola/liquid function/macro call {% macro() %}...content...{% end %}, where head and end
+    are on standalone lines. Cannot be used in a paragraph. Content is parsed as Markdown.
+    """
+    allowed_heads = ('timeline',)
+
+    def __init__(self, matched_lines):
+        super().__init__(matched_lines)
+        lines, _ = matched_lines
+        # Necessary for tokenize() to work correctly
+        lines = [line if line.endswith('\n') else '{}\n'.format(line) for line in lines]
+        self.children = tokenize(lines)
