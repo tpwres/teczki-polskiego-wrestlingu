@@ -5,10 +5,6 @@ template = "article.html"
 aliases = ["/a/ptw-awards-2022", "/a/ptw-awards-2024"]
 authors = ["Sewi The Referee"]
 [extra.gallery]
-manifest = "@/a/ptw-awards-2024-gallery.toml"
-1 = { path = "hero-of-the-year.webp", caption = "Nominees for the Hero of the Year category.", source = "Facebook PTW"}
-2 = { path = "ptw-awards-statues.webp", caption = "Awards statues made of acrylic glass, set on the ring in [PTW Performance Center](@/v/ptw-targowa.md)", source = "Facebook PTW"}
-3 = { path = "ptw-awards-results.png", caption = "Facebook post announcing winners in each category.", source = "Facebook PTW", skip_art = true}
 +++
 
 The PTW Awards ("Nagrody podsumowujące rok", loosely translated as _End-of-the-Year Awards_) are a [PTW](@/o/ptw.md) initiative where awards, similar to the Academy Awards or WWE-estabilished Slammy Awards, are given to professional wrestlers and other individuals within PTW, such as commentators and referees, for notable achievements during the year.
