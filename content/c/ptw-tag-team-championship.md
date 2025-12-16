@@ -217,7 +217,6 @@ While Boro never defended the title, he was also recognized as a champion per th
   - s: Tag Team Match
     en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
-    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
