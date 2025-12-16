@@ -167,7 +167,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - [PTW Awards](@/a/ptw-awards.md) (4 times):
     * Hero of the Year (2022)
     * Match of the Year - vs Justin Joy at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) (2022)
-    * Moment of the Year - reuniting with Justin Joy (2022)
+    * Moment of the Year - reunion with Justin Joy (2022)
     * Feud of the Year - vs Justin Joy (2022)
 
 ## Internet presence
