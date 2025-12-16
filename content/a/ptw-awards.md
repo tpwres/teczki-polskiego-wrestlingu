@@ -233,7 +233,7 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 3. [Rust](@/w/rust.md) - 11 votes
 5. [Alex Brave](@/w/alex-brave.md) - 7 votes
 
-### References
+## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
 * [Pawłowski awards himself Speaker of the year](https://www.facebook.com/MrPawlowski/posts/pfbid02SXkH48k3WGpoghdzs8v46dQQh1tAbrU6GimkmKrZG77USZ2DvW1GDdc6qEYTRcThl)
