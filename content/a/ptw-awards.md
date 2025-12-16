@@ -36,8 +36,6 @@ His reputation among PTW's fans and other workers also suffered dramatically.
 
 Later it turned out that the entire thing was orchestrated as a prank by Szymon "Modzel" Modzelewski - a wrestling fan who wanted to tease PTW and Pawłowski by interfering with the poll results.
 
-There was a follow-up [two years later](@/a/ptw-awards-2024.md).
-
 ### Categories awarded
 
 - Wrestler Roku (_Wrestler of the Year_)
