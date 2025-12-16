@@ -26,7 +26,7 @@ Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-lo
 
 ## History
 
-The first mention of a "Legacy Championship" dates back to the [live Q&A][qna-legacy] hosted by [Legacy's](@/o/low.md) before their [second show](@/e/low/2025-04-06-low-2.md). The build-up, called "Road to the Title", started at that event with a series of matches which were continued at [Ryucon](@/e/low/2025-07-11-low-3.md) later that year. Wrestlers who advanced to the finals were [Max Speed](@/w/max-speed.md), [David Oliwa](@/w/david-oliwa.md), [Axel Fox](@/w/axel-fox.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). During the build-up to [Four the Glory](@/e/low/2025-12-20-low-4.md), the title was finally revealed and named "Legacy of Wrestling European Championship".
+The first mention of a "Legacy Championship" dates back to the [live Q&A][qna-legacy] hosted by [Legacy's](@/o/low.md) before their [second show](@/e/low/2025-04-06-low-2.md). The build-up, called "Road to the Title", started at that event with a series of matches which were continued at [Ryucon](@/e/low/2025-07-11-low-3.md) later that year. Wrestlers who advanced to the finals were [Max Speed](@/w/max-speed.md), [David Oliwa](@/w/david-oliwa.md), [Axel Fox](@/w/axel-fox.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Syriusz Dziedzic](@/w/dziedzic.md) and [Gabriel Queen](@/w/gabriel-queen.md). During the build-up to [Four the Glory](@/e/low/2025-12-20-low-4.md), the title was finally revealed and named "Legacy of Wrestling European Championship".
 
 ## Belt design
 
