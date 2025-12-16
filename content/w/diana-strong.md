@@ -53,7 +53,7 @@ In November 2025 [Pro Wrestling Illustrated][pwi-250] ranked Diana #205 on their
 * Finishers:
   - _Power Play_ (Samoan Drop) (2021-)
 * Wrestlers managed:
-  - Moloch (2018)
+  - [Moloch](@/w/moloch.md) (2018)
 * Entrance music:
   - "Iconic" by Ledger
     {{ org_badge(orgs=['ptw']) }} (2021-) <br>
