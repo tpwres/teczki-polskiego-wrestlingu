@@ -100,7 +100,7 @@ From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promot
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Championship](@/c/ptw-championship.md) (1 time; inaugural; current)
   - Gold Rush Rumble (2023)
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (3 times):
-    * Wrestler of the Year
-    * Speaker of the Year
-    * Finisher of the Year
+  - [PTW Awards](@/a/ptw-awards.md) (3 times):
+    * Wrestler of the Year (2022)
+    * Speaker of the Year (2022)
+    * Finisher of the Year (2022)
