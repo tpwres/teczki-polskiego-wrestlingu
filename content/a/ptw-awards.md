@@ -163,7 +163,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 ### PTW Awards 2024
 
-PTW Awards 2024 were a follow-up to the 2022 edition, as the 2023 one didn't take place. 
+PTW Awards 2024 were the follow-up to the 2022 edition, as the 2023 one didn't take place. 
 
 Like previously, the winners were to be decided by fans on the official PTW Facebook fanpage, by voting with FB reactions for the nominees. The voting started in mid-December 2024 and was set to comprise ten categories.
 
@@ -171,9 +171,9 @@ On 30.12.2024 fans noticed a sudden influx of votes for Spartan in the "Wrestler
 
 Although initially presented as a genuine fan-voted popularity contest, the 2024 PTW Awards turned out to be largely influenced by Pawłowski's "power trip" storyline, with poll results ignored multiple times. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) [Alex Brave](@/w/alex-brave.md) cut a promo on [Spartan](@/w/spartan.md) accusing him of buying votes (a repetition of the "Asian Scandal" from 2022).
 
-Instead of publicly announcing the winners for all categories, the announcements were inconsistent and fragmented - some at social media and some at PTW shows:
+Instead of publicly announcing the winners for all categories, the announcements were inconsistent and fragmented - some on social media and some at PTW shows:
 
-* [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) announced himself the Speaker of the Year winner (online, from a personal Facebook account).
+* [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) announced himself the Speaker of the Year (online, on his personal Facebook account).
 * Pawłowski overruled fan votes, allowing [Vincent Caravaggio](@/w/vincent-caravaggio.md) to become the Newcomer of the Year, despite [Miyagi Shida](@/w/miyagi-shida.md) having the majority. Łukasz Okoński handed him the award at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md).
 * [Max Speed](@/w/max-speed.md) was awarded in two categories, Hero and Progress of the Year. Despite [Spartan](@/w/spartan.md) winning the popular vote for Hero of the Year, it seems like Alex Brave's doubts were taken into consideration. Pawłowski handed both awards to Speed at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md).
 
