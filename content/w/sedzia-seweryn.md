@@ -92,9 +92,9 @@ In August 2023 Referee Seweryn made history as the first Polish referee to work 
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md)
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
-    * Referee of the Year
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Referee of the Year (2022)
 
 ## Internet presence
 
