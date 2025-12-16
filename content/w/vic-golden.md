@@ -86,7 +86,7 @@ Along with a new ringname - Vic Golden - he also adopted a new gimmick of a flam
 At the [sixth Underground](@/e/ptw/2022-06-26-ptw-underground-6.md), Vic and [Gabriel Queen](@/w/gabriel-queen.md) formed a tag team called Pure Gold.
 They feuded with PAKA and other teams, and were strong candidates to win the Tag Team tournament, defeating such candidates as FoxJoy - [Justin Joy](@/w/justin-joy.md) and [Axel Fox](@/w/axel-fox.md). 
 
-During his time in PTW, Vic managed to win in two categories of fan-voted [PTW Awards 2022](@/a/ptw-awards-2022.md) - for a Tag Team of the Year as part of Pure Gold, and for a Newcomer of the Year.
+During his time in PTW, Vic managed to win in two categories of fan-voted [PTW Awards](@/a/ptw-awards.md) - for a Tag Team of the Year as part of Pure Gold, and for a Newcomer of the Year.
 
 Their final match as a team for PTW was during [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), in the tournament final Tables Match for the newly created [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), which they however lost to PAKA.
 Later, they briefly joined forces with Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)), feuding against PAKA. Their failure to get rid of PAKA and shifting the blame away from them later transitioned into a feud between Pure Gold and Legia themselves, with the pay-off only happening nearly a year later in [PpW](@/o/ppw.md).
