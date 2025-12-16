@@ -38,6 +38,7 @@ Overall, the Legacy of Wrestling European Championship is heavy inspired in shap
 
 #### Qualifiers
 
+
 {% free_card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - 'Kubes'
@@ -70,7 +71,9 @@ Overall, the Legacy of Wrestling European Championship is heavy inspired in shap
     ed: 2025-07-11
 {% end %}
 
+
 #### Finals
+
 
 {% free_card() %}
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
@@ -84,6 +87,7 @@ Overall, the Legacy of Wrestling European Championship is heavy inspired in shap
     ed: 2015-12-20
     nc: upcoming
 {% end %}
+
 
 ### Champion #1: TBD
 
@@ -99,6 +103,7 @@ Overall, the Legacy of Wrestling European Championship is heavy inspired in shap
     ed: 2015-12-20
     nc: upcoming
 {% end %}
+
 
 [qna-legacy]: https://www.youtube.com/watch?v=4urhjLJHEtA
 [never-openweight]: https://en.wikipedia.org/wiki/NEVER_Openweight_Championship
