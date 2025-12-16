@@ -71,7 +71,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
   - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
-  - s: 'Gold Rush Rumble'
+  - s: '[Gold Rush Rumble](@/c/ptw-gold-rush-rumble.md)'
     c: '[PTW Championship](@/c/ptw-championship.md)'
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - "Karolina (Pawłowski's real-life partner)"
