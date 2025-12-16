@@ -30,5 +30,3 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 * [Video: interview with Arek Pawłowski][smutny-arek]
 
 [smutny-arek]: https://www.youtube.com/watch?v=zQyUTKm4Uvg
-
-https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02YhFamWYDgRDHaZd7YBd58ZCenoUyqYNUXk2xTePzSAUrTrs41cLx1baWPJwc3Pxcl
