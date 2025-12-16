@@ -30,7 +30,8 @@ Kinga Miotke is a Polish ring announcer and on-screen personality currently work
 Kinga started out as a trainee in KPW's wrestling school, but had to abandon her trainings due to a neck injury.
 Instead of becoming a wrestler, she would conduct backstage interviews and with fans after shows, and eventually she'd take on her role as the ring announcer, starting with [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md), taking over from [Arek Pawłowski](@/w/pan-pawlowski.md) who left after [Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md).
 At first, she appeared under the ring name "Kinga Różańska", but beginning with [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md) she started using her real name, Kinga Miotke.
-She is the first and, as of 2025, the only female announcer on the Polish wrestling scene.
+
+Although she was preempted by Edyta at [DDW All or Nothing](@/e/ddw/2010-05-08-ddw-all-or-nothing.md) and Karolina Wensierska at [KPW Arena 4](@/e/kpw/2016-11-26-kpw-arena-4.md), Kinga is the first and, as of 2025, the only full-time female announcer on the Polish wrestling scene.
 
 After [Rosetti](@/w/rosetti.md) took over KPW as "acting chairman", he enforced numerous changes starting from [KPW Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md).
 Kinga was relieved of her ring announcing duties, and replaced by [Piotr Opolski](@/w/piotr-opolski.md). Instead, she was appointed the referee for the show, while [Krystian Czekaj](@/w/krystian-czekaj.md) (KPW's usual official) was demoted to the role of technical referee and timekeeper. This was a brief stint, however, as Kinga returned to her usual role with [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
