@@ -90,14 +90,14 @@ Justin made his first international appearance in 2014 during a Next Step Wrestl
 ## Championships and accomplishments
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
-  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; final) - with [Apollo Anderson](@/w/apollo-anderson.md)
   - [MZW Championship](@/c/mzw-championship.md) (1 time; inaugural)
+  - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; final) - with [Apollo Anderson](@/w/apollo-anderson.md)
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (3 times):
-    * Match of the Year - against [Axel Fox](@/w/axel-fox.md) at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)
-    * Moment of the Year - Fox and Joy reunion
-    * Feud of the Year - against [Axel Fox](@/w/axel-fox.md)
+  - [PTW Awards](@/a/ptw-awards.md) (3 times):
+    * Match of the Year - against [Axel Fox](@/w/axel-fox.md) at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) (2022)
+    * Moment of the Year - Fox and Joy reunion (2022)
+    * Feud of the Year - against [Axel Fox](@/w/axel-fox.md) (2022)
 
 ## References
 
