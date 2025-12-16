@@ -31,7 +31,7 @@ At [Underground 6](@/e/ptw/2022-06-26-ptw-underground-6.md) Klaudiusz made his d
 
 #### Referee Klaudiusz
 
-Klaudiusz returned to PTW's ring as a referee making his re-debut at [Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md), to fill in as a second referee working with Senior [Referee Seweryn](@/w/sedzia-seweryn.md), after the suspention of [Referee Rafał](@/w/alex-brave.md) after the ["Asian Scandal"](@/a/ptw-awards-2022.md). He continued to make regular appearances in PTW from this point onward. After Sewi's [departure from PTW](@/a/ptw-exits.md) following [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), in June 2024 he became Senior Referee of PTW, and has been joined by Referee Herno soon after.
+Klaudiusz returned to PTW's ring as a referee making his re-debut at [Underground 14](@/e/ptw/2023-04-23-ptw-underground-14.md), to fill in as a second referee working with Senior [Referee Seweryn](@/w/sedzia-seweryn.md), after the suspention of [Referee Rafał](@/w/alex-brave.md) after the ["Asian Scandal"](@/a/ptw-awards.md). He continued to make regular appearances in PTW from this point onward. After Sewi's [departure from PTW](@/a/ptw-exits.md) following [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), in June 2024 he became Senior Referee of PTW, and has been joined by Referee Herno soon after.
 
 #### Feud with Pawłowski
 
