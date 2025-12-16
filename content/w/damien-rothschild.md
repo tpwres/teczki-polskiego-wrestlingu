@@ -57,7 +57,7 @@ During his British excursion Lambert made appearances in two matches for Coventr
   - _Lambert Lock_ (Armbar) (2015-2019)
 * Entrance music:
   - "Shut Your Mouth" by Pain
-    {{ org_badge(orgs=['kpw']) }} (2015-2016) <br>
+    {{ org_badge(orgs=['kpw', 'ptw']) }} (2015-2016; 2025-) <br>
     {{ music(yt='067YF8KHdTM')}}
     {{ music(spot='5sLRiOznZn6SglsszMDP1w')}}
     {{ music(apple='1779479116?i=1779479216')}}

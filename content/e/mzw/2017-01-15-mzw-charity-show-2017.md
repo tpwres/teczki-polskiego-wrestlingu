@@ -7,10 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
-[extra.gallery.1]
-path = "plakat.webp"
-caption = "Show poster, featuring the team of [Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 This was a short event held by MZW in [Głuchołazy](@/v/gosir-glucholazy.md). It was the third annual charity show, with donations going to [WOŚP][wosp], and coinciding with their 25th annual Grand Finale event.

@@ -7,10 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2019-03-23-mzw-project-4-open-your-eyes-plakat.jpg"
-caption = "Official poster featuring [Damien Rothschild](@/w/damien-rothschild.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 ## Card

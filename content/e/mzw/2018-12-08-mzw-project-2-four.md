@@ -7,10 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2018-12-08-mzw-project-2-four-plakat.jpg"
-caption = "Official poster. Pictured left to right, top: ???, ???; bottom: [Damien Rothschild](@/w/damien-rothschild.md), [Shadow](@/w/shadow.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 ## Card
@@ -45,6 +42,7 @@ source = "Official MZW Facebook"
 
 ### Recap
 
+* Wilfried Dietrich was announced to face [Apollo Anderson](@/w/apollo-anderson.md), but was replaced by [Deti Black](@/w/dieter-schwartz.md).
 * [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md), leading to the match declared a no-contest.
 * Dobroniak won by a Gentleman Jarvis-style sleeper hold on Axel, and a very quiet three count
 * [Justin Joy](@/w/justin-joy.md) vs Christopher Anthony was to be a singles match, but Justin invited Asmund to participate

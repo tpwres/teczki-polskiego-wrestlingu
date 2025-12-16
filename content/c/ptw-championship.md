@@ -18,9 +18,11 @@ The PTW Championship is a professional wrestling championship created and promot
 
 * First champion: [Puncher](@/w/puncher.md)
 * Most reigns: Puncher (1)
-* Longest reign: Puncher (170+ days)
-* Oldest champion: Puncher (27 years, 298 days)
+* Longest reign: Puncher (679 days)
+* Shortest reign: [Spartan](@/w/spartan.md) (1+ days)
+* Youngest champion: Puncher (27 years, 298 days)
 * Heaviest champion: Puncher (102&nbsp;kg)
+* Lightest champion: Spartan (98&nbsp;kg)
 
 ## History
 
@@ -125,12 +127,23 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
-- - 'Puncher(c)'
-  - '[Spartan](@/w/spartan.md)'
+- - '[Spartan](@/w/spartan.md)'
+  - 'Puncher(c)'
   - s: All or Nothing Match
     en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
-    nc: upcoming
+{% end %}
+
+**TOTAL:** 679 days.
+
+### Champion #2: Spartan
+
+{% free_card() %}
+- - '[Spartan](@/w/spartan.md)'
+- - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
+  - s: All or Nothing Match
+    en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    ed: 2025-12-13
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

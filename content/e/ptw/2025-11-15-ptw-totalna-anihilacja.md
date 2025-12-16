@@ -55,6 +55,11 @@ toclevel = 2
   - s: Three Stages of Hell - 1-on-1 Match
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - g: 'Okoński announces the main event for the next show.'
+- credits:
+    General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
 Shida's opponent was changed at the last minute to the French wrestler Stanislas Cartier.

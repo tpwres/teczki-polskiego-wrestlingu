@@ -7,10 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "2019-02-09-mzw-project-3-black-white-plakat.jpg"
-caption = "Official poster, showing [Damien Rothschild](@/w/damien-rothschild.md) and [Shadow](@/w/shadow.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 ## Card
@@ -29,7 +26,7 @@ source = "Official MZW Facebook"
   - '[Lady Killer](@/w/boro.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - 'Otto Stahl'
-  - s: Four Way Match
+  - s: Mystery Fatal 4-Way Match
 - - '[Damien Rothschild](@/w/damien-rothschild.md)'
   - '[Shadow](@/w/shadow.md)(c)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'

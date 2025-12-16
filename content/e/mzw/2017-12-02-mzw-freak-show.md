@@ -7,10 +7,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-[extra.gallery.1]
-path = "plakat.webp"
-caption = "Show poster. Wrestlers pictured are: [Justin Joy](@/w/justin-joy.md), Laurance Roman, [Shadow](@/w/shadow.md), [Hexia](@/w/hexia.md), [Asmund](@/w/asmund.md) and [Rick Baxxter](@/w/rick-baxxter.md)."
-source = "Official MZW Facebook"
+[extra.gallery]
 +++
 
 Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:
@@ -30,7 +27,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Triple Threat Match'
 - - 'Sebastien'
-  - 'Demon'
+  - 'Démon'
 - - '[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)'
   - '[Amisz](@/w/axel-fox.md)'
 - - '[Asmund](@/w/asmund.md)'

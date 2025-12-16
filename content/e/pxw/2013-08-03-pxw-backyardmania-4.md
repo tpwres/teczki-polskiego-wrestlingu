@@ -10,7 +10,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Backyardmania IV was a cross-promotion supershow, again hosted by PXW in their {{ map_pin(v="glucholazy-grunwaldzka-5") }}usual spot in Głuchołazy. The event was planned by the organisers for two days beginning on of 3.08, with the first day reserved for training.
+Backyardmania IV was a cross-promotion supershow, again hosted by PXW in their {{ map_pin(v="Grunwaldzka 5") }}usual spot in Głuchołazy. The event was planned by the organisers for two days beginning on of 3.08, with the first day reserved for training.
 
 No information about the match card survives, and the only known two videos are no longer available.
 
