@@ -165,7 +165,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Awards](@/a/ptw-awards.md) (2 times):
-    * Tag Team of the Year - with [Gabriel Queen](@/w/gabriel-queen.md) (2022)
+    * Tag Team of the Year - (as [Pure Gold](@/tt/pure-gold.md)) (2022)
     * Newcomer of the Year (2022)
 
 ## Internet presence
