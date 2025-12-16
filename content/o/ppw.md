@@ -147,7 +147,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 
 * Facebook: [OficjalnePPW](https://www.facebook.com/OficjalnePPW)
 * Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/) (domestic)
-* Instagram: [ppw_global][ppw-globalnie] (global)
+* Instagram: [ppw_global][ppw-globalnie] (international)
 * YouTube: [OficjalnePPW](https://www.youtube.com/@OficjalnePPW)
 * [Official VOD][ppw-vod]
 
