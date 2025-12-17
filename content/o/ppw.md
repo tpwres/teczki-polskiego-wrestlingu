@@ -102,7 +102,7 @@ However, since the Prime Time Transfers era, PpW has enough roster members, and 
 
 ### Excursion to Japan
 
-On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi".
+On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi". Coinciding with the announcement of the Tokyo show was the creation of a new Instagram account: [ppw_global][ppw-globalnie].
 
 ## Polish wrestling scene
 
@@ -146,7 +146,8 @@ Back in the backyard years PpW promoted a great number of championships, which w
 ## Internet presence
 
 * Facebook: [OficjalnePPW](https://www.facebook.com/OficjalnePPW)
-* Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/)
+* Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/) (domestic)
+* Instagram: [ppw_global][ppw-globalnie] (international)
 * YouTube: [OficjalnePPW](https://www.youtube.com/@OficjalnePPW)
 * [Official VOD][ppw-vod]
 
@@ -163,3 +164,4 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [newonce-pt-1]: https://www.youtube.com/watch?v=KT8PHRlnSxI
 [ppw-vod]: https://ppw-ewenementpl.vhx.tv
 [ewenement-logo]: https://www.facebook.com/photo/?fbid=2150678838439647&set=a.158941800946704
+[ppw-globalnie]: https://www.instagram.com/ppw_global/
