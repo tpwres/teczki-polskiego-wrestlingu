@@ -44,6 +44,8 @@ toclevel = 2
   - s: Triple Threat Tag Team Match
 - - '[Remo](@/w/remo.md)'
   - g: "Remo's promo."
+- - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Sawicki](@/w/sawicki.md)'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Davide Adami & Luke Astaroth'
   - s: Tag Team Match
