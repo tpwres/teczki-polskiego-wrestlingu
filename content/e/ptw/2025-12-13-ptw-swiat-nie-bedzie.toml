@@ -1,59 +1,34 @@
-[01]
-path = "swiat-nie-bedzie-plakat.webp"
-caption = """\
-    Official poster. Top to bottom, left to right: 
-    [Łukasz Okoński](@/w/lukasz-okonski.md), [CJ Klakson](@/w/cj-klakson.md), [Diana Strong](@/w/diana-strong.md);
-    [Daniel Razor](@/w/daniel-razor.md), [Miyagi Shida](@/w/miyagi-shida.md);
-    [Spartan](@/w/spartan.md);
-    [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md);
-    [Nano Lopez](@/w/nano-lopez.md);
-    [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Damian Lambert](damien-rothschild.md);
-    [Alex Brave](@/w/alex-brave.md), [Puncher](@/w/puncher.md);
-    [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Damian Adler.
-"""
-source = "Official PTW Facebook"
+01 = { path = "swiat-nie-bedzie-plakat.webp", caption = " Official poster. Top to bottom, left to right:  [Łukasz Okoński](@/w/lukasz-okonski.md), [CJ Klakson](@/w/cj-klakson.md), [Diana Strong](@/w/diana-strong.md); [Daniel Razor](@/w/daniel-razor.md), [Miyagi Shida](@/w/miyagi-shida.md); [Spartan](@/w/spartan.md); [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md); [Nano Lopez](@/w/nano-lopez.md); [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Damian Lambert](damien-rothschild.md); [Alex Brave](@/w/alex-brave.md), [Puncher](@/w/puncher.md); [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Damian Adler.", source = "Official PTW Facebook" }
+02 = { path = "oh-baby-baby-how-was-i-supposed-to-know.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md).", source = "Official PTW Facebook"
+03 = { path = "podziemny-nacjonalizm.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [CJ Klakson](@/w/cj-klakson.md).", source = "Official PTW Facebook"
+04 = { path = "swiat-nie-bedzie-ale-bedzie-niedzwiedz.webp", caption = "Image announcing [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).", source = "Official PTW Facebook"
+05 = { path = "luke-i-rebelianci.webp", caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth.", source = "Official PTW Facebook"
+06 = { path = "wielki-powrot.webp", caption = "Image announcing the comeback of a mysterious PTW original.", source = "Official PTW Facebook"
+07 = { path = "mecz.webp", caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs Jay in a Christmas Hardcore Match.", source = "Official PTW Facebook"
+08 = { path = "lambert-chcesz-uslyszec-fraszke.webp", caption = "Image announcing [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damien-rothschild.md).", source = "Official PTW Facebook"
+10 = { path = "tlumy-na-widowni.webp", caption = "View from the audience, shortly before the start of the show.", source = "Ville Paananen"
 
-[02]
-path = "oh-baby-baby-how-was-i-supposed-to-know.webp"
-caption = "Image announcing [Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md)."
-source = "Official PTW Facebook"
-
-[03]
-path = "podziemny-nacjonalizm.webp"
-caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [CJ Klakson](@/w/cj-klakson.md)."
-source = "Official PTW Facebook"
-
-[04]
-path = "swiat-nie-bedzie-ale-bedzie-niedzwiedz.webp"
-caption = "Image announcing [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)."
-source = "Official PTW Facebook"
-
-[05]
-path = "luke-i-rebelianci.webp"
-caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth."
-source = "Official PTW Facebook"
-
-[06]
-path = "wielki-powrot.webp"
-caption = "Image announcing the comeback of a mysterious PTW original."
-source = "Official PTW Facebook"
-
-[07]
-path = "mecz.webp"
-caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs Jay in a Christmas Hardcore Match."
-source = "Official PTW Facebook"
-
-[08]
-path = "lambert-chcesz-uslyszec-fraszke.webp"
-caption = "Image announcing [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damien-rothschild.md)."
-source = "Official PTW Facebook"
-
-[10]
-path = "tlumy-na-widowni.webp"
-caption = "View from the audience, shortly before the start of the show."
-source = "Ville Paananen"
-
-[11]
-path = "spartan-obojga-pasow.webp"
-caption = "[Spartan](@/w/spartan.md) after the show, with the spoils of war."
-source = "Official PTW Facebook"
+11 = { path = "zawodnik.webp", caption = "Jay.", source = "Ville Paananen"
+12 = { path = "daniel-sie-scial.webp", caption = "[Daniel Razor's](@/w/daniel-razor.md) new look.", source = "Ville Paananen"
+13 = { path = "pizama-party.webp", caption = "[Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md). Behind them stands [Łukasz Okoński](@/w/lukasz-okonski.md).", source = "Ville Paananen"
+14 = { path = "zielonego-pojecia-nie-mam-kto-to.webp", caption = "???.", source = "Ville Paananen"
+15 = { path = "blaze.webp", caption = "[Blaze](@/w/blaze.md) presents his XPW Championship.", source = "Ville Paananen"
+16 = { path = "przepraszam-tego-pana-tez-nie-znam.webp", caption = "???.", source = "Ville Paananen"
+17 = { path = "sawicki-makes-an-entrance.webp", caption = "[Sawicki](@/w/sawicki.md) enters.", source = "Ville Paananen"
+18 = { path = "alienated-working-man-chained-by-the-bourgeoisie.webp", caption = "[Sawicki](@/w/sawicki.md) poses for the audience.", source = "Ville Paananen"
+19 = { path = "ej-patrzcie-okon-ma-rozpiety-rozporek.webp", caption = "[Łukasz Okoński](@/w/lukasz-okonski.md) auctions a signed T-shirt for charity.", source = "Ville Paananen"
+20 = { path = "more-remo.webp", caption = "[Remo](@/w/remo.md) returns to PTW.", source = "Ville Paananen"
+21 = { path = "pan-i-wladca-skrzyzowania-fordonskiej-z-wislana.webp", caption = "Remo's back.", source = "Ville Paananen"
+22 = { path = "pan-w-czapce-vs-panowie-bez-czapek.webp", caption = "Luke Astaroth and Davide Adami enter the ring, Alex Brave and [Vincent Caravaggio](@/w/vincent-caravaggio.md) wait patiently in the background.", source = "Ville Paananen"
+23 = { path = "nikt-nie-ma-czapki-wiec-nie-wiem-komu-kibicowac.webp", caption = "Luke Astaroth about to do something unpleasant to Alex Brave and Vincent Caravaggio.", source = "Ville Paananen"
+24 = { path = "panowie-bez-czapek-dali-w-czape-panu-w-czapce.webp", caption = "Sędzia Klaudiusz awards the victory to Alex Brave and Vincent Caravaggio.", source = "Ville Paananen"
+25 = { path = "tu-wstawic-odglos-niedzwiedzia-gryzacego-line.webp", caption = "Polski Niedźwiedź.", source = "Ville Paananen"
+26 = { path = "zaraz-sie-dolores-umbridge-wbije.webp", caption = "[Spartan](@/w/spartan.md) with his &quot;Spartan Army&quot;, including [Łukasz Okoński](@/w/lukasz-okonski.md) (in red jacket) and [Sigma Boy xD](@/w/sigma-boy.md) (far right). In the ring stand [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md).", source = "Ville Paananen"
+27 = { path = "powazny-pawlowski.webp", caption = "[Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Ville Paananen"
+28 = { path = "a-ja-mam-w-szafie-cztery-i-sie-nie-chwale.webp", caption = "[Pan Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md) present the PTW:WWA Championship and [PTW Championship](@/c/ptw-championship.md) respectively. In the background stand Sędzia Klaudiusz and Spartan.", source = "Ville Paananen"
+29 = { path = "puncher-vs-spartan.webp", caption = "[Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md), with [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md) caught in the middle.", source = "Ville Paananen"
+30 = { path = "spartanie-czy-wyjdziesz-za-mnie.webp", caption = "[Pan Pawłowski](@/w/pan-pawlowski.md) proposes to [Spartan](@/w/spartan.md) that he stops punching Puncher.", source = "Ville Paananen"
+31 = { path = "ale-by-byly-jaja-gdyby-sie-teraz-odsuneli.webp", caption = "[Sigma Boy xD](@/w/sigma-boy.md) jumps onto a group of guys by the ring.", source = "Ville Paananen"
+32 = { path = "swietlowki-na-miare-xxi-wieku.webp", caption = "Darth Pawłowski and Master Okoński.", source = "Ville Paananen"
+33 = { path = "i-zara-bydzie-po-wszystkiem.webp", caption = "Spartan hits Puncher with his Spartan Bomb. To the left stands [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)", source = "Ville Paananen"
+99 = { path = "spartan-obojga-pasow.webp", caption = "[Spartan](@/w/spartan.md) after the show, with the spoils of war.", source = "Official PTW Facebook"
