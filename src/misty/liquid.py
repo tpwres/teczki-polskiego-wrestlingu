@@ -106,6 +106,7 @@ class DataBlock(LiquidBlock):
 
     def __init__(self, matched_lines):
         super().__init__(matched_lines)
+        lines, _ = matched_lines
         self.children = (RawText('\n'.join(lines)),)
 
     @property
