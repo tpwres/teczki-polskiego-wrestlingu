@@ -46,5 +46,5 @@ At the [second show](@/e/low/2025-04-06-low-2.md), in addition to providing comm
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 times):
-    * Commentator of the Year
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Commentator of the Year (2022)

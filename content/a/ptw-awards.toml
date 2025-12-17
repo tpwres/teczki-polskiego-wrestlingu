@@ -1,0 +1,11 @@
+11 = { path = "hero-of-the-year.webp", caption = "Nominees for the Hero of the Year category.", source = "Facebook PTW"}
+12 = { path = "ptw-awards-statues.webp", caption = "Awards statues made of acrylic glass, set on the ring in [PTW Performance Center](@/v/ptw-targowa.md)", source = "Facebook PTW"}
+13 = { path = "ptw-awards-results.png", caption = "Facebook post announcing winners in each category.", source = "Facebook PTW", skip_art = true}
+21 = { path = "awards-2024-wrestler-roku.webp", caption = "Nominees for the Wrestler of the Year category.", source = "Official PTW Facebook"}
+22 = { path = "awards-2024-debiutant-roku.webp", caption = "Nominees for the Newcomer of the Year category.", source = "Official PTW Facebook"}
+23 = { path = "awards-2024-progres-roku.webp", caption = "Nominees for the Progress of the Year category.", source = "Official PTW Facebook"}
+24 = { path = "awards-2024-mowca-roku.webp", caption = "Nominees for the Speaker of the Year category.", source = "Official PTW Facebook"}
+25 = { path = "awards-2024-bohater-roku.webp", caption = "Nominees for the Hero of the Year category.", source = "Official PTW Facebook"}
+26 = { path = "awards-2024-zloczynca-roku.webp", caption = "Nominees for the Villain of the Year category.", source = "Official PTW Facebook"}
+27 = { path = "wietnamski-wrestler.png", caption = "Vietnamese votes for Spartan - Wrestler of the Year category.", source = "Official PTW Facebook"}
+28 = { path = "wietnamski-bohater.png", caption = "Vietnamese votes for Spartan - Hero of the Year category.", source = "Official PTW Facebook"}

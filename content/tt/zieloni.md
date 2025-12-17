@@ -38,7 +38,7 @@ The next Green to part ways with PTW was the group's mentor Justin Joy, who left
 
 During their time in PTW, many of the Zieloni often assumed important roles on the card and managed to reinvent their characters. [Seweryn](@/w/sedzia-seweryn.md) managed to become a senior referee in the federation. Vic Golden revamped his career and sealed his legend status thanks to the success of his tag team with Gabriel Queen. Olgierd also remade his persona and became a [Legia Łysych](@/tt/legia-lysych.md) hooligan with his partner [Marco Hammers](@/w/marco-hammers.md). [Boro](@/w/boro.md) was paired with two Originals, forming [PAKA](@/tt/paka.md) with [Taras](@/w/taras.md) and [Disco Pablo](@/w/disco-pablo.md), which allowed him to become a [PTW Tag Team Champion](@/c/ptw-tag-team-championship.md) thanks to the [Freebird Rule][freebirds]. Axel Fox bacame a fan-favourite and one of the top underdogs in PTW. Despite the Green wrestlers' popularity among the fans, however, Zieloni were often lower-priority workers when it came to push, often being overlooked by Originals-focused Pawłowski who prefered to promote wrestlers he shaped himself.
 
-Besides the PTW Tag Team Championship won by Boro - who never defended it in a match - Zieloni managed to won multiple [PTW Awards](@/a/ptw-awards-2022.md), which were voted for by fans on the official PTW Facebook page.
+Besides the PTW Tag Team Championship won by Boro - who never defended it in a match - Zieloni managed to won multiple [PTW Awards](@/a/ptw-awards.md), which were voted for by fans on the official PTW Facebook page.
 
 #### Zieloni after Prime Time Wrestling
 
@@ -81,14 +81,14 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time) - Boro
   - PTW Tag Team Championship Tournament (2023) - Boro
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (7 times):
-    * Hero of the Year - Axel Fox
-    * Match of the Year - Axel Fox and Justin Joy
-    * Moment of the Year - Axel Fox and Justin Joy
-    * Feud of the Year - Axel Fox and Justin Joy
-    * Tag Team of the Year - Gabriel Queen and Vic Golden
-    * Referee of the Year - Sewi The Ref
-    * Newcomer of the Year - Vic Golden
+  - [PTW Awards](@/a/ptw-awards.md) (7 times):
+    * Hero of the Year - Axel Fox (2022)
+    * Match of the Year - Axel Fox and Justin Joy (2022)
+    * Moment of the Year - Axel Fox and Justin Joy (2022)
+    * Feud of the Year - Axel Fox and Justin Joy (2022)
+    * Tag Team of the Year - Gabriel Queen and Vic Golden (2022)
+    * Referee of the Year - Sewi The Ref (2022)
+    * Newcomer of the Year - Vic Golden (2022)
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (1 time) - Rafael Kid
   - Rookie's Battle Royal (2019) - Aron Wake

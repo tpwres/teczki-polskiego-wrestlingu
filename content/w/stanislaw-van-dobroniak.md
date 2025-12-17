@@ -81,6 +81,7 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Tag Team Championship](@/c/mzw-tag-team-championship.md) (1 time; inaugural) - with [Jędruś Bułecka](@/w/jedrus-bulecka.md)
+  - Big Rumble (2018)
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time)

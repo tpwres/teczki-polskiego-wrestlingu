@@ -63,6 +63,7 @@ Between 2010 and 2014 Kamil made a handful of appearances in federations in the 
   - PIWG Pomerania Championship (1 time)
 * [Do Or Die Wrestling](@/o/ddw.md)
   - [DDW International Championship](@/c/ddw-international-championship.md) (1 time; final)
+  - DDW International Championship Tournament (2024)
 
 ## References
 

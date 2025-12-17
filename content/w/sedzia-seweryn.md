@@ -46,9 +46,9 @@ Many of them either suspended their wrestling career, or transferred to Prime Ti
 
 Sewi the Ref debuted at [PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md), which marked the start of his 2-year tenure as referee in the federation.
 He worked along [Sędzia Matek](@/w/sedzia-matek.md), with [Sędzia Rafał](@/w/alex-brave.md) joining in the second half of 2022.
-After Rafał's suspension due to the ["Asian Scandal" controversy](@/a/ptw-awards-2022.md), and Matek's quiet departure from the company, he became the _de facto_ Senior Referee, briefly working as the sole referee for [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) & [12](@/e/ptw/2023-02-26-ptw-underground-12.md), before being joined by [Klaudiusz](@/w/sedzia-klaudiusz.md).
+After Rafał's suspension due to the ["Asian Scandal" controversy](@/a/ptw-awards.md), and Matek's quiet departure from the company, he became the _de facto_ Senior Referee, briefly working as the sole referee for [Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md) & [12](@/e/ptw/2023-02-26-ptw-underground-12.md), before being joined by [Klaudiusz](@/w/sedzia-klaudiusz.md).
 For most of 2023 and 2024 he maintained his position as the main referee, working many of the main events and matches with high-profile international wrestlers.
-He was also awarded the [PTW's "Referee of the Year" Award](@/a/ptw-awards-2022.md) for 2022.
+He was also awarded the PTW's "Referee of the Year" Award for 2022.
 
 Sewi continued his run in the company, being present at every PTW event (except [Underground 7](@/e/ptw/2022-08-28-ptw-underground-7.md)) up until [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 After that show he, along with many other talent, [left PTW](@/a/ptw-exits.md).
@@ -92,9 +92,9 @@ In August 2023 Referee Seweryn made history as the first Polish referee to work 
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md)
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
-    * Referee of the Year
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Referee of the Year (2022)
 
 ## Internet presence
 
