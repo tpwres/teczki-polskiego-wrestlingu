@@ -9,6 +9,8 @@ toclevel=2
 
 Gold Rush Rumble is a professional wrestling match based on the classic [Royal Rumble][royal-rumble]. This match is promoted by [Prime Time Wrestling](@/o/ptw.md).
 
+<!-- more -->
+
 ## Concept
 
 Gold Rush Rumble match closely resembles Royal Rumble made famous by [World Wrestling Entertaiment](@/o/wwe.md). The match begins with two wrestlers in the ring, with the remaining contenders entering the ring at timed, although often irregular, intervals (around 1:30 minutes, but it may vary). The match traditionally involves 20 wrestlers. The original twist in the first edition of the Gold Rush Rumble was to turn the match into an Elimination Fatal Four Way Match, with wins being allowed only by pinfall or submission instead of throwing an oponent above the top rope. This idea was seemingly scrapped during the second edition, as the rules of the Gold Rush Rumble remained the same until the end of the match.
