@@ -30,7 +30,7 @@ The first mention of a "Legacy Championship" dates back to the [live Q&A][qna-le
 
 ## Belt design
 
-Overall, the Legacy of Wrestling European Championship is heavily inspired in shape and design by the [NEVER Openweight Championship][never-openweight], a championship promoted by [New Japan Pro-Wrestling][njpw]. The main gold centre plate with silver details is decorated with various ornaments, with big "LEGACY" written in black and gold. Over and under the main logo there are two banners with "EUROPEAN" and "CHAMPION" engraved on it. Two identical sideplates are also made in gold, with black cut-out of the European continent on it. The plates are attached to black leather belt.
+Overall, the Legacy of Wrestling European Championship is heavily inspired in shape and design by the [NEVER Openweight Championship][never-openweight], a championship promoted by [New Japan Pro-Wrestling][njpw]. The main gold centre plate with silver details is decorated with various ornaments, with big "LEGACY" written in black and gold. Over and under the main logo there are two banners with "EUROPEAN" and "CHAMPION" engraved on it. Two identical sideplates are also made in gold, with black cut-out of the European continent on it. The plates are attached to a black leather belt.
 
 ## Title history
 
