@@ -22,6 +22,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 * The show was first mentioned by [Mister Z](@/w/mister-z.md) in his promo at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and officially confirmed on 3.11.2025.
 * The first fight to be announced - on 4.12.2025 - was [Max Speed](@/w/max-speed.md) vs [Robert Star](@/w/robert-star.md) in a No Disqualification Match.
 * On 13.12.2025 PpW announced [Olgierd](@/w/olgierd.md) vs [Biesiad Strong](@/w/biesiad.md) for the [PpW Championship](@/c/ppw-championship.md).
+* On 17.12.2025 PpW announced [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Mister Z](@/w/mister-z.md) in a Szwedzki Hardcore Match (_Swedish Hardcore Match_).
 
 ## Predicted card
 
@@ -34,6 +35,10 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
   - '[Biesiad Strong](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'    
     s: Legendary Unsanctioned Match
+    nc: upcoming
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - s: Szwedzki Hardcore Match
     nc: upcoming
 {% end %}
 
