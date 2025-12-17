@@ -49,10 +49,15 @@ After fixing his relationship with his bastard son, Okoński continued his feud 
 
 * Entrance music:
   - "Rich Bitch" by Die Antwoord
-    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2024) <br>
     {{ music(yt='8bdeizHM9OU')}}
     {{ music(spot='7Ma1k2O1MQzMqJYBaEXDpx')}}
     {{ music(apple='1442783930?i=1442784133')}}
+  - "I'm Too Sexy" by Right Said Fred
+    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
+    {{ music(yt='u49L-Nu0gGo')}}
+    {{ music(spot='76gbXfMpFoZJGkPgxgzvFt')}}
+    {{ music(apple='1667458717?i=1667458879')}}
 
 ## Internet presence
 
