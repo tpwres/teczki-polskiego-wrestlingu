@@ -1,7 +1,7 @@
 [01]
 path = "supertv-19940114-dsf.webp"
 caption = "TV listing for DSF on Friday, 14.01.1994."
-source = "archive.org [super-tv-3-94](https://archive.org/details/super-tv-3-94)."
+source = "archive.org [super-tv-3-94](https://archive.org/details/super-tv-3-94), page 8/36."
 skip_art = true
 
 [02]
@@ -17,12 +17,18 @@ source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archi
 skip_art = true
 
 [04]
+path = "teletydzien-19990118-wizja1.webp"
+caption = "TV listing for Wizja 1 on Saturday, 23.01.1999."
+source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archive.org/details/tele-tydzien-nr-4-18.01.1999-skan_20220929), page 21/63."
+skip_art = true
+
+[05]
 path = "teletydzien-19990118-dsf.webp"
 caption = "TV listing for DSF on Saturday, 23.01.1999."
 source = "archive.org [tele-tydzien-nr-5-18.01.1999-skan_20220929](https://archive.org/details/tele-tydzien-nr-4-18.01.1999-skan_20220929), page 23/63."
 skip_art = true
 
-[05]
+[06]
 path = "nazi-spine.jpg"
 caption = "Example of machine-translated subtitles in an NJPW show, aired on 25.05.2025:<br/>_Oh no no no no_<br/>_Did not take this Nazi spine_"
 source = "Extreme Sports Channel"
