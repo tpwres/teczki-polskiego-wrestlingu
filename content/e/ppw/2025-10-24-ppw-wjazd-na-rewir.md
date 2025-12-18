@@ -39,21 +39,27 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: 'First Blood Match'
+- group: 4 # Proposal 1
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - 'Emil Völler'
   - s: 'Zmowa Recruitment Gauntlet Match'
+    b: gauntlet # Proposal 2
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Tony Sheen](@/w/riverman.md)'
   - s: 'Zmowa Recruitment Gauntlet Match'
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'  
+    b: gauntlet
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - s: 'Zmowa Recruitment Gauntlet Match'
+    b: gauntlet
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Asara](@/w/asara.md)'
   - s: 'Zmowa Recruitment Gauntlet Match'
+    b: gauntlet
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - s: 'Zmowa Recruitment Gauntlet Match'  
+  - s: 'Zmowa Recruitment Gauntlet Match'
+    b: gauntlet
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md) & [Justin Joy](@/w/justin-joy.md)'
   - s: Tag Team Match
