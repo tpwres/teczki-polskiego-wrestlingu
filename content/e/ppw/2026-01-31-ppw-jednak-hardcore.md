@@ -15,9 +15,16 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 
 ## Build-up
 
-* TBD
+* The first match to be unveiled, on. 19.12.2025, was [Johnny Blade](@/w/johnny-blade.md) vs [Robert Star](@/w/robert-star.md) in an Ultraviolent Match.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted = true) %}
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: Ultraviolent Match
+    nc: upcoming
+{% end %}
 
 ### Recap
 
