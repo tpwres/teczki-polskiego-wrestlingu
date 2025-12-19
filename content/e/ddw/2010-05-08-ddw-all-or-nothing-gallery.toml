@@ -12,17 +12,26 @@
 12 = { path = "ddw-aon-12.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) with fans after the show.", source = "Jędruś Bułecka @ Facebook" }
 13 = { path = "ddw-aon-13.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) signing an autograph after the show.", source = "Jędruś Bułecka @ Facebook" }
 
-
 20 = { path = "10-man-battle-royal-rules.webp", caption = "The rules of the 10 Man Battle Royal.", source = "Jędruś Bułecka's private archives" }
-21 = { path = "the-road-devils-with-pawłowski.webp", caption = "The Road Devils w/ Pan Pawłowski.", source = "Jędruś Bułecka's private archives" }
+21 = { path = "the-road-devils-with-pawlowski.webp", caption = "The Road Devils w/ Pan Pawłowski.", source = "Jędruś Bułecka's private archives" }
 22 = { path = "the-greatest.webp", caption = "The Greatest.", source = "Jędruś Bułecka's private archives" }
 23 = { path = "rob-cage.webp", caption = "Rob Cage.", source = "Jędruś Bułecka's private archives" }
+24 = { path = "john-hammer.webp", caption = "John Hammer.", source = "Jędruś Bułecka's private archives" }
+25 = { path = "klarys.webp", caption = "Klarys.", source = "Jędruś Bułecka's private archives" }
+26 = { path = "don-roid.webp", caption = "Don Roid.", source = "Jędruś Bułecka's private archives" }
+27 = { path = "kamil-aleksander.webp", caption = "Kamil Aleksander.", source = "Jędruś Bułecka's private archives" }
+28 = { path = "joe-legend.webp", caption = "Joe Legend.", source = "Jędruś Bułecka's private archives" }
 
-
-24 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-25 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-26 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-27 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-28 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
 29 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
 30 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+31 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+32 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+33 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+34 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+35 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+36 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+37 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+38 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+39 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+40 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
