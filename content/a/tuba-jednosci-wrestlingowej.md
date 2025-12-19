@@ -79,7 +79,7 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 
 - [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
 - [Adrian Zgórski](@/w/adrian-zgorski.md)
-- Antoni Ocean
+- [Antoni Ocean](@/w/antoni-ocean.md)
 - [Hexia](@/w/hexia.md)
 - [Istociarz](@/w/istociarz.md)
 - [Joker](@/w/joker.md)
