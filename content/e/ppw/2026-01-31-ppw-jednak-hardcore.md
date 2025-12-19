@@ -19,7 +19,7 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 
 ## Predicted card
 
-{% card(predicted = true) %}
+{% card(predicted=true) %}
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Ultraviolent Match
