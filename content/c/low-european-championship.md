@@ -18,11 +18,10 @@ Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-lo
 ## Statistics
 
 * First champion: [Axel Fox](@/w/axel-fox.md)
-* Most reigns: Axel Fox
-* Longest reign: Axel Fox
-* Shortest reign: Axel Fox
-* Heaviest champion: Axel Fox
-* Lightest champion: Axel Fox
+* Most reigns: Axel Fox (1)
+* Longest reign: Axel Fox (1+ days)
+* Oldest champion: Axel Fox (27 years, 177 days)
+* Heaviest champion: Axel Fox (80kg)
 
 ## History
 
