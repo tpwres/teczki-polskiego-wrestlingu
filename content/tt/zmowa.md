@@ -78,5 +78,9 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
  
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - MZW/PpW Opportunity Briefcase (1 time) - [Mister Z](@/w/mister-z.md)
+ 
+* [Legacy of Wrestling](@/o/low.md):
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - [Axel Fox](@/w/axel-fox.md)
+  - Road To The Title Tournament (2025) - Axel Fox
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
