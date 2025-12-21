@@ -93,6 +93,9 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
   - [MZW Championship](@/c/mzw-championship.md) (1 time) - Rafael Kid
   - Rookie's Battle Royal (2019) - Aron Wake
   - Project Basement Trophy (2021) - Aron Wake
+* [Legacy of Wrestling](@/o/low.md):
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time) - Axel Fox
+  - Road To The Title Tournament (2025) - Axel Fox
 
 ## Trivia
 
