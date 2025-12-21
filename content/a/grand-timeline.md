@@ -177,6 +177,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 * PpW introduce the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 * [Pro Wrestling Illustrated](https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated) ranks [Diana Strong](@/w/diana-strong.md) #205 on their 2025 PWI Women's 250 list.
+* Legacy of Wrestling introduce the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). The first Champions is [Axel Fox](@/w/axel-fox.md).
 
 #### 2026
 
