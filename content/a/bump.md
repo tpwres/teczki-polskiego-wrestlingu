@@ -3,6 +3,8 @@ title = "Bump"
 weight = 0
 template = "article.html"
 authors = ["Krzysztof Zych"]
+[taxonomies]
+category = ["Media"]
 [extra.gallery.00]
 path = "bump-plakat-fdb.webp"
 caption = "Official movie poster, depicting [Feager](@/w/feager.md), who is not a major character in the film."

@@ -4,6 +4,8 @@ weight = 0
 template = "article.html"
 aliases = ["/a/ptw-awards-2022", "/a/ptw-awards-2024"]
 authors = ["Sewi The Referee"]
+[taxonomies]
+category = ["Achievements"]
 [extra]
 toclevel = 3
 [extra.gallery]

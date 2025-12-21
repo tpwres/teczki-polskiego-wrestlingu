@@ -2,6 +2,8 @@
 title = "Contributing"
 authors = ["Krzysztof Zych"]
 weight = 0
+[taxonomies]
+category = ["Misc"]
 +++
 
 TPW would not exist if not for the wealth of mostly unorganized information out there.

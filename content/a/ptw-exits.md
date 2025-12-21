@@ -3,6 +3,8 @@ title = "PTW Exits"
 weight = 0
 template = "article.html"
  authors = ["Sewi The Referee", "Szymon Iwulski"]
+[taxonomies]
+category = ["Meta"]
 [extra]
 toclevel = 3
 [extra.gallery]

@@ -3,6 +3,8 @@ title = "PM Shooter Saga"
 template = "article.html"
 weight = 0
 authors = ["Szymon Iwulski"]
+[taxonomies]
+category = ["Meta"]
 [extra]
 toclevel = 3
 [extra.gallery]

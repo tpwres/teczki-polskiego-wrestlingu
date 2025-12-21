@@ -6,6 +6,8 @@ authors = ["Krzysztof Zych", "M3n747"]
 description = """\
   A timeline of key events in Polish wrestling history, from the 1800s to modern day.
 """
+[taxonomies]
+category = ["History"]
 +++
 
 This article presents a timeline view of key events in Polish wrestling history. It is a condensed version of the [Prehistory article](@/a/prehistory.md) and expands on the modern era not covered by that article.

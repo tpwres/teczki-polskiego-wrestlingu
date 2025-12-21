@@ -4,6 +4,8 @@ template = "article.html"
 aliases = ["/a/tv"]
 weight = 0
 authors = ["Krzysztof Zych"]
+[taxonomies]
+category = ["History"]
 [extra]
 toclevel = 3
 [extra.gallery]

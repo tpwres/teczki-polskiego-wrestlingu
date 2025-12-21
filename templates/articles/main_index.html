@@ -2,7 +2,9 @@
 {% import "macros/articles.html" as articles %}
 
 {% block content %}
-  <h1>{{ section.title }}</h1>
+  {% set categories = get_taxonomy(kind="category") %}
+  {% include "articles/category_list.html" %}
+  <h2>All articles</h2>
 
   <section class="article-list">
     {% for page in section.pages %}
