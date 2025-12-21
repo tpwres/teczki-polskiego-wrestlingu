@@ -15,7 +15,7 @@
                 {% if cat.name == current_cat %}
                     <strong>{{ cat.name }}</strong>
                 {% else %}
-                    <a href="{{ section.path }}">{{ cat.name }}</a>
+                    <a href="{{ section.path }}">{{ cat.name }}</a> ({{ cat.pages | length }})
                 {% endif %}
             </li>
         {% endfor %}
