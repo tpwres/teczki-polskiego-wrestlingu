@@ -48,6 +48,6 @@ When Do Or Die Wrestling became the first professional wrestling promotion in Po
 * [DDW on CageMatch](https://www.cagematch.net/?id=8&nr=585)
 * [Polish Wrestling History Part 2 on mywrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) (in Polish)
 * [Don Roid's first post on Attitude Forum](https://forum.wrestling.pl/topic/9692-wrestling-in-poland/#comment-87887)
-* [DDW at Mam Talent](https://tvn.pl/programy/mam-talent/ostry-wrestling-czy-teatrzyk-dla-dzieci-ls5895467), a Polish version of the _Got Talent_ format
+* [DDW at Mam Talent](https://www.youtube.com/watch?v=Mr5LOHqdBBQ), a Polish version of the _Got Talent_ format
 * [Olga Mickiewicz's article in Polityka](https://www.polityka.pl/tygodnikpolityka/ludzieistyle/1508108,1,wrestling-po-polsku.read) (in Polish)
 * [DDW Wrestling School](https://www.facebook.com/SzkolaWrestlingu/) on Facebook
