@@ -75,10 +75,8 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
   - [PpW Championship](@/c/ppw-championship.md) (2 times) - [Gustav Gryffin](@/w/gustav-gryffin.md) (1), [Olgierd](@/w/olgierd.md) (1; current)
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - [Isnorr](@/w/isnorr.md)
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times) - [Marco Hammers](@/w/marco-hammers.md)
- 
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - MZW/PpW Opportunity Briefcase (1 time) - [Mister Z](@/w/mister-z.md)
- 
 * [Legacy of Wrestling](@/o/low.md):
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - [Axel Fox](@/w/axel-fox.md)
   - Road to the Title Tournament (2025) - Axel Fox
