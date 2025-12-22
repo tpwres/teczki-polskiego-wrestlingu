@@ -17,12 +17,11 @@ Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-lo
 
 ## Statistics
 
-* First champion: TBD
-* Most reigns: TBD
-* Longest reign: TBD
-* Shortest reign: TBD
-* Heaviest champion: TBD
-* Lightest champion: TBD
+* First champion: [Axel Fox](@/w/axel-fox.md)
+* Most reigns: Axel Fox (1)
+* Longest reign: Axel Fox (1+ days)
+* Oldest champion: Axel Fox (27 years, 177 days)
+* Heaviest champion: Axel Fox (80kg)
 
 ## History
 
@@ -90,19 +89,18 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
     nc: upcoming
 {% end %}
 
-### Champion #1: TBD
+### Champion #1: Axel Fox
 
 {% free_card() %}
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Max Speed](@/w/max-speed.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - s: Six-Way Elimination Match
     en: '[Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md)'
     ed: 2015-12-20
-    nc: upcoming
 {% end %}
 
 [qna-legacy]: https://www.youtube.com/watch?v=4urhjLJHEtA
