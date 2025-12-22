@@ -176,7 +176,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
     * Feud of the Year - vs Justin Joy (2022)
 * [Legacy of Wrestling](@/o/low.md):
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, inaugural, current)
-  - Road To The Title Tournament (2025)
+  - Road to the Title Tournament (2025)
 
 ## Internet presence
 
