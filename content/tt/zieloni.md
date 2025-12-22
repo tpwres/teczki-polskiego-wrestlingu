@@ -94,7 +94,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
   - Rookie's Battle Royal (2019) - Aron Wake
   - Project Basement Trophy (2021) - Aron Wake
 * [Legacy of Wrestling](@/o/low.md):
-  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time) - Axel Fox
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - Axel Fox
   - Road to the Title Tournament (2025) - Axel Fox
 
 ## Trivia
