@@ -81,6 +81,6 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
  
 * [Legacy of Wrestling](@/o/low.md):
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - [Axel Fox](@/w/axel-fox.md)
-  - Road To The Title Tournament (2025) - Axel Fox
+  - Road to the Title Tournament (2025) - Axel Fox
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
