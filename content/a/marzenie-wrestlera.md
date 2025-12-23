@@ -1,5 +1,5 @@
 +++
-title = "Marzenie wrestlera"
+title = "Marzenie Wrestlera"
 template = "article.html"
 weight = 0
 aliases = ["/a/wrestlers-dream"]
