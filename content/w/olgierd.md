@@ -9,6 +9,7 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "olgierd-ptw6.jpg", caption = "Olgierd's entrance, [Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md).", source = "Official PTW YouTube" }
 2 = { path = "sedzia-olgierd.jpg", caption = "Olgierd acting as a referee at [Brutality '17](@/e/ppw/2017-03-25-ppw-brutality-17.md).", source = "Official PpW YouTube" }
+3 = { path = "olgierd-z-pasem-na-low4.webp", caption = "Olgierd with the [PpW Championship](@/c/ppw-championship.md) at [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md).", source = "M3n747" }
 +++
 
 Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md).
