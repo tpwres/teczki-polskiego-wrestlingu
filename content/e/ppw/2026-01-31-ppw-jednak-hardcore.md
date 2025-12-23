@@ -16,6 +16,7 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 ## Build-up
 
 * The first match to be unveiled, on. 19.12.2025, was [Johnny Blade](@/w/johnny-blade.md) vs [Robert Star](@/w/robert-star.md) in an Ultraviolent Match.
+* Two days later it was followed by an announcement of an intergender match between [Agentka Agatka](@/w/agentka-agatka.md) and [Lady Killer](@/w/boro.md).
 
 ## Predicted card
 
@@ -24,6 +25,9 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
   - '[Robert Star](@/w/robert-star.md)'
   - s: Ultraviolent Match
     nc: upcoming
+- - '[Lady Killer](@/w/boro.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - nc: upcoming
 {% end %}
 
 ### Recap
