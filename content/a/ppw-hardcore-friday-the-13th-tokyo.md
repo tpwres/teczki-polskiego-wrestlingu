@@ -14,7 +14,8 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 ## Build-up
 
-* The first match to be announced was a Deathmatch between Abdullah Kobayashi and [Johnny Blade](@/w/johnny-blade.md).
+* The first match to be announced - on 15.12.2025, the day after the announcement of the show - was a Deathmatch between Abdullah Kobayashi and [Johnny Blade](@/w/johnny-blade.md).
+* Next, on 22.12.2025, came the announcement of Chris Brookes vs [Gabriel Queen](@/w/gabriel-queen.md).
 
 ## Card
 
@@ -23,6 +24,9 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - 'Abdullah Kobayashi'
   - s: Deathmatch
     nc: upcoming
+- - 'Chris Brookes'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - nc: upcoming
 {% end %}
 
 ### Recap
