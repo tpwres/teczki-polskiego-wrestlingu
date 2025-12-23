@@ -3,8 +3,6 @@ title = "Złote Ewenementy"
 weight = 0
 template = "article.html"
 authors = ["M3n747"]
-[taxonomies]
-category = ["Achievements"]
 [extra]
 toclevel = 3
 [extra.gallery]
