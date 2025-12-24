@@ -4,7 +4,7 @@ weight = 0
 template = "article.html"
  authors = ["Sewi The Referee", "Szymon Iwulski"]
 [taxonomies]
-category = ["Meta"]
+category = ["Polish wrestling scene"]
 [extra]
 toclevel = 3
 [extra.gallery]

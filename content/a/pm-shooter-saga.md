@@ -4,7 +4,7 @@ template = "article.html"
 weight = 0
 authors = ["Szymon Iwulski"]
 [taxonomies]
-category = ["Meta"]
+category = ["Polish wrestling scene"]
 [extra]
 toclevel = 3
 [extra.gallery]
