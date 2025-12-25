@@ -22,10 +22,9 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): ??? & ???'
-  - c: [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
-  - nc: upcoming
 {% end %}
 
 ### Recap
