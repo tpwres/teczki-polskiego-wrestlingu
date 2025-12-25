@@ -13,12 +13,20 @@ toclevel = 2
 
 Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to the {{ map_pin(v="Zaklęte Rewiry") }}Zaklęte Rewiry culture and entertainment centre in Wrocław.
 
-
 ## Build-up
 
-* TBD
+* A [video][gobliffin] published by PpW on Christmas Day 2025 saw [Gustav Gryffin](@/w/gustav-gryffin.md) convince [Goblin](@/w/goblin.md) to join him against [Rodzina](@/tt/rodzina.md) in a fight for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Rodzina](@/tt/rodzina.md): ??? & ???'
+  - c: [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)
+    s: Tag Team Match
+    nc: upcoming
+  - nc: upcoming
+{% end %}
 
 ### Recap
 
@@ -29,3 +37,4 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 * [Facebook post announcing the event][zurueck-nach-breslau]
 
 [zurueck-nach-breslau]: https://www.facebook.com/photo/?fbid=1425053469625041&set=a.499910772139320
+[gobliffin]: https://www.facebook.com/reel/762445460199074
