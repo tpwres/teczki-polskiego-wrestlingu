@@ -233,9 +233,18 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 3. [Rust](@/w/rust.md) - 11 votes
 5. [Alex Brave](@/w/alex-brave.md) - 7 votes
 
+### PTW Awards 2025
+
+The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas Day 2025, becoming a yearly PTW tradition. Once again, fans could vote with Facebook reactions in several categories, unveiled individually over time.
+
+#### Categories awarded
+
+- Wrestler Roku (_Wrestler of the Year_)
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
 * [Pawłowski awards himself Speaker of the year](https://www.facebook.com/MrPawlowski/posts/pfbid02SXkH48k3WGpoghdzs8v46dQQh1tAbrU6GimkmKrZG77USZ2DvW1GDdc6qEYTRcThl)
 
 [10-categories]: https://www.facebook.com/photo/?fbid=629516462734333&set=a.136592408693410
+[nagrody-2025]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0J34GtYs1zUAevsuNUqZdftAXKrYMjfcLaEVku5Bwc3zjx7S6Vy9yHd3oiMCmz6mbl
