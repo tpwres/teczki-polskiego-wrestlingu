@@ -3,6 +3,8 @@ title = "PpW Hardcore Friday the 13th 東京"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[taxonomies]
+category = ["Polish wrestling scene"]
 [extra.gallery]
 +++
 

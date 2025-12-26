@@ -3,6 +3,8 @@ title = "Tuba Jedności Wrestlingowej"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[taxonomies]
+category = ["Misc"]
 [extra.gallery]
 +++
 

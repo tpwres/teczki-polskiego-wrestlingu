@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% import "macros/articles.html" as articles %}
+
+{% block content %}
+{% set categories = get_taxonomy(kind="category") %}
+
+{% set term = section.title %}
+{% set category = get_taxonomy_term(kind="category", term=term) %}
+{% set pages = category.pages %}
+
+{% include "articles/category_list.html" %}
+
+<h2>Articles in category {{ term }}</h2>
+<section class="article-list">
+    {% for page in pages | slice(end=5) %}
+    <article>
+        {{ articles::cover(article=page) | safe }}
+        <div class="blurb">
+            <a class="title" href="{{ page.permalink }}">{{ page.title }}</a>
+            {{ page.summary | safe }}
+            <a class="continue" href="{{ page.permalink }}">Continue reading</a>
+        </div>
+    </article>
+    {% endfor %}
+</section>
+{% endblock %}

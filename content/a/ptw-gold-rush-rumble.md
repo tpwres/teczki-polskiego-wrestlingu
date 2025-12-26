@@ -3,6 +3,8 @@ title = "PTW Gold Rush Rumble"
 template = "article.html"
 weight = 0
 authors = ["Sewi The Referee"]
+[taxonomies]
+category = ["Achievements"]
 [extra]
 toclevel=2
 +++

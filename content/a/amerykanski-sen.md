@@ -4,6 +4,8 @@ weight = 0
 template = "article.html"
 aliases = ["/a/american-dream"]
 authors = ["Krzysztof Zych"]
+[taxonomies]
+category = ["Media"]
 [extra.gallery]
 1 = { path = "amerykanski-sen-plakat.jpg", caption = "Official film poster, featuring [Szymon Siwiec](@/w/szymon-siwiec.md).", source = "IMDb" }
 +++

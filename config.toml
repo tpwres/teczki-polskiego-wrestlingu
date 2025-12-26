@@ -20,6 +20,7 @@ taxonomies = [
   { name = "same-venue", render = false },
   { name = "chrono_root", render = false },
   { name = "country", render = false },
+  { name = "category", render = false },
 ]
 
 [search]

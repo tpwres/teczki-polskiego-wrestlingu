@@ -3,6 +3,8 @@ title = "Polish wrestling chants"
 template = "article.html"
 weight = 0
 authors = ["Krzysztof Zych", "M3n747"]
+[taxonomies]
+category = ["Polish wrestling scene"]
 +++
 
 This is a short guide to Polish wrestling crowd chants, in alphabetical order.

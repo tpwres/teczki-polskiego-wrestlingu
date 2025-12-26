@@ -3,6 +3,8 @@ title = "Chronology of Polish wrestling"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[taxonomies]
+category = ["History"]
 [extra.gallery]
 1 = { path = "psv-infografika-quarter.webp", caption = "The illustrated version (simplified).", source = "M3n747" }
 +++
