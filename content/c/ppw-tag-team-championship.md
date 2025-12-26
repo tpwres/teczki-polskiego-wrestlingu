@@ -56,8 +56,8 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
 #### Finals
 
 {% free_card() %}
-- - '??? & ???'
-  - '??? & ???'
+- - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Rodzina](@/tt/rodzina.md): ??? & ???'
   - s: Tag Team Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
     ed: 2026-02-28
