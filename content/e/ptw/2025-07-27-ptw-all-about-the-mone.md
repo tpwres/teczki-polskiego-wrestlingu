@@ -86,7 +86,7 @@ toclevel = 2
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=430504)
 * [Full show on YouTube](https://www.youtube.com/watch?v=Qbq5Tgk3QZA&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
-* [Full Match: Diana Strong vs Mercedes Moné](https://www.youtube.com/watch?v=KfASU6U6P6k)
+* [Full match: Diana Strong vs Mercedes Moné](https://www.youtube.com/watch?v=KfASU6U6P6k)
 * [Facebook post announcing the event](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02w5MCtCqiTGbjCEJj71AsdMdrXt39R5LeWX7kdXKSTJs5MPuWdMkutZgn7pp4Lurbl)
 * [Show description on ticketing website](https://goingapp.pl/wydarzenie/mercedes-mone-w-polsce-gala-pro-wrestlingu-all-about-the-mone/kozlow-lipiec-2025?queryID=d9957271cd738fc4cddea7babc9cacbc)
 * [Official Facebook post with results](https://www.facebook.com/photo/?fbid=794126089606702&set=a.136592408693410)
