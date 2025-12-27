@@ -23,6 +23,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 * The first fight to be announced - on 4.12.2025 - was [Max Speed](@/w/max-speed.md) vs [Robert Star](@/w/robert-star.md) in a No Disqualification Match.
 * On 13.12.2025 PpW announced [Olgierd](@/w/olgierd.md) vs [Biesiad Strong](@/w/biesiad.md) for the [PpW Championship](@/c/ppw-championship.md).
 * On 16.12.2025 PpW posted a [video][z-w-kibelku] of [Mister Z](@/w/mister-z.md) running into [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), who confronts him and brutally forces him to agree to a match at the upcoming show. The next day it was officially announced as a Szwedzki Hardcore Match (_Swedish Hardcore Match_).
+* On 27.12.2025 [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md) were announced in a Tag Team Match against [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md), with the stipulation being that their victory will allow Gustav & Goblin to compete for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) against [Zmowa](@/tt/zmowa.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 
 ## Predicted card
 
@@ -39,6 +40,10 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: Szwedzki Hardcore Match
+    nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)"
+  - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md)
+  - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
     nc: upcoming
 {% end %}
 
