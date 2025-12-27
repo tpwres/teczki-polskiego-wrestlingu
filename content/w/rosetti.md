@@ -17,7 +17,7 @@ Rosetti, previously known as "Victor Rosetti", is a Polish wrestler best known f
 * Years active: 2015-present
 * Gimmicks/nicknames:
   - Victor Rosetti {{ org_badge(orgs=['ddw', 'kpw']) }} (2015-2017)
-  - Rosetti {{ org_badge(orgs=['kpw']) }} (2017-)
+  - Rosetti {{ org_badge(orgs=['kpw', 'low']) }} (2017-)
 * Trained by:
   - [DDW Academy](@/o/ddw-academy.md) (201?-2016)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2016-)
@@ -44,7 +44,7 @@ Following the loss of the Tag Team title, Rosetti returned to wrestling solo; he
 
 #### Acting chairman of KPW
 
-At [KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Rosetti faced his old leader, Greg, in a [KPW Championship](@/c/kpw-championship.md) Number One Contender Qualifying Match. Their fight ended in a no-contest after both of them got involved in a brawl outside of the ring, leading to them being counted out by the [referee](@/w/krystian-czekaj.md). Despite this, they continued to brawl, now introducing foreign objects, which led to the KPW Chairman [Krystian Malinowski](@/w/krystian-malinowski.md) coming out of the backstage and officially disqualifying both from the tournament. Soon after, Malinowski was attacked by a mysterious masked figure and promptly moved to a hospital by the on-site medical crew. At the end of the show, Rosetti announced that he was supposedly named the "acting chairman" by Malinowski. The official poster for [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) features Rosetti in a suit and tie, emulating a cover of a business-focused magazine, to further promote his new role.
+At [KPW Arena 26: Wyścig](@/e/kpw/2024-11-15-kpw-arena-26.md) Rosetti faced his old leader, Greg, in a [KPW Championship](@/c/kpw-championship.md) Number One Contender Qualifying Match. Their fight ended in a no-contest after both of them got involved in a brawl outside of the ring, leading to them being counted out by the [referee](@/w/krystian-czekaj.md). Despite this, they continued to brawl, now introducing foreign objects, which led to the KPW Chairman [Krystian Malinowski](@/w/krystian-malinowski.md) coming out of the backstage and officially disqualifying both from the tournament. Soon after, Malinowski was attacked by a mysterious masked figure and promptly moved to a hospital by the on-site medical crew. At the end of the show, Rosetti announced that he was supposedly named the "acting chairman" by Malinowski. The official poster for [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) features Rosetti in a suit and tie, emulating a cover of a business magazine, to further promote his new role.
 
 #### Demotion to commentary
 
@@ -52,11 +52,11 @@ Following [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), Rosetti decided that K
 
 At [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) an induction ceremony was held, in which [Piotr Opolski](@/w/piotr-opolski.md) swore in Rosetti as the new chairman. Before Rosetti could finish his oath, however, [Krystian Malinowski](@/w/krystian-malinowski.md) made a surprise appearance. He stated that he'd never asked Rosetti to take over his duties as an acting chairman, and that he was disappointed in everyone for being so easily misled by one person. Malinowski then resumed his duties and one of his first decisions was to remove Rosetti from the active roster and move him over to commentary, to help [Krystian Czekaj](@/w/krystian-czekaj.md).
 
-Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md) wrestlers remaining on the active roster, next to [Greg](@/w/greg.md) and [David Oliwa](@/w/david-oliwa.md), with roots in [Do Or Die Wrestling](@/o/ddw.md).
+Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md) wrestlers remaining on the active roster, next to [Greg](@/w/greg.md) and [David Oliwa](@/w/david-oliwa.md), with roots in [Do Or Die Wrestling](@/o/ddw.md). Outside of storyline, Rosetti's move away from ring action was caused by an injury sustained a few shows prior.
 
 ### Legacy of Wrestling (2025)
 
-On 10.11.2025 [Legacy](@/o/low.md) announced that Rosetti will be the guest commentator for the show.
+On 10.11.2025 [Legacy](@/o/low.md) announced Rosetti as a guest commentator at their [fourth](@/e/low/2025-12-20-low-4.md) show.
 
 ## In wrestling
 
