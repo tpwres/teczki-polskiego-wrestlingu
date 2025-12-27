@@ -41,8 +41,8 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
   - '[Mister Z](@/w/mister-z.md)'
   - s: Szwedzki Hardcore Match
     nc: upcoming
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)"
-  - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md)
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
     nc: upcoming
 {% end %}
