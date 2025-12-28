@@ -10,3 +10,4 @@
 27 = { path = "wietnamski-wrestler.png", caption = "PTW Awards 2024.<br />Vietnamese votes for Spartan - Wrestler of the Year category.", source = "Official PTW Facebook", skip_art = true }
 28 = { path = "wietnamski-bohater.png", caption = "PTW Awards 2024.<br />Vietnamese votes for Spartan - Hero of the Year category.", source = "Official PTW Facebook", skip_art = true }
 31 = { path = "awards-2025-wrestler-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Wrestler of the Year category.", source = "Official PTW Facebook" }
+32 = { path = "awards-2025-zagraniczna-gwiazda-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Foreign Star of the Year category.", source = "Official PTW Facebook" }
