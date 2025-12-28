@@ -127,3 +127,7 @@ pyrkon = "Pyrkon"
 ryucon = "Ryucon"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"
+
+[extra.articles]
+sort_by = "updated"
+reverse = true
