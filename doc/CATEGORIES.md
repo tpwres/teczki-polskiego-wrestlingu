@@ -51,3 +51,14 @@ Article files may be located either in the top level articles folder `a/`, or in
 
 Placing an article in a category folder DOES NOT automatically make it belong to that category, a taxonomy entry is still needed. It is not an error (but may be confusing) if an article declares a different section than the folder it is placed in.
 
+## Sorting
+
+In the main list and each category, articles are sorted by their last-updated date, newest first. This is normally provided in the article's front matter, but that field is unused and discouraged.
+Instead, a script running as part of the build process fills this info from the version control system.
+
+This is controlled by two entries in the relevant `config.toml`, in the `[extra.articles]` section.
+
+1. `sort_by = "FIELD"`, where FIELD is any page field that can be used for sorting. The most useful values are `title`, `slug` (to sort ignoring case) and `updated`.
+2. `reverse = false`, but when set to true, reverses the sorted order. This is necessary when sorting by last-updated.
+
+The two settings are however different between the live site and running a dev server locally. As described above, the articles do not provide the last updated date. Sorting by `updated` will cause an error and prevent running the server. To remedy that, the local dev config file specifies sorting alphabetically by title, which will never cause an error.
