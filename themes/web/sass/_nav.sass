@@ -65,8 +65,12 @@ nav.level2
       display: flex
       flex-wrap: wrap
       justify-content: flex-start
+
       li
         white-space: nowrap
+        flex-basis: 20%
+        @media only screen and (max-width: 896px)
+          flex-basis: 25%
 
 .logo
   display: inline-block
