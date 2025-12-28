@@ -29,8 +29,8 @@ The first edition took place in December 2025, with fans casting votes via a Goo
 #### Results of fan-voting in each category
 
 1. Wrestler of the Year - [Gustav Gryffin](@/w/gustav-gryffin.md)
-2. Match of the Year - Gustav Gryffin vs [Goblin](@/w/goblin.md), [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)
-3. Moment of the Year - Gustav Gryffin turns his back on [Zmowa](@/tt/zmowa.md), [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md)
+2. Match of the Year - Gustav Gryffin vs [Goblin](@/w/goblin.md) ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md))
+3. Moment of the Year - Gustav Gryffin turns his back on [Zmowa](@/tt/zmowa.md) ([Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md))
 4. Newcomer of the Year - [Agentka Agatka](@/w/agentka-agatka.md)
 5. Best Show Poster - [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)
 
