@@ -15,7 +15,7 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 
 ## Build-up
 
-* A [video][gobliffin] published by PpW on Christmas Day 2025 saw [Gustav Gryffin](@/w/gustav-gryffin.md) convince [Goblin](@/w/goblin.md) to join him against [Rodzina](@/tt/rodzina.md) in a fight for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
+* A [video][gobliffin] published by PpW on Christmas Day 2025 saw [Gustav Gryffin](@/w/gustav-gryffin.md) convince [Goblin](@/w/goblin.md) to join him against [Rodzina](@/tt/rodzina.md) in a fight for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 
 ## Predicted card
 
