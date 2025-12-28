@@ -8,4 +8,39 @@
 00008 = { path = "curtis-hammers.webp", caption = "Image announcing Curtis Black vs [Marco Hammers](@/w/marco-hammers.md).", source = "Official Legacy Facebook" }
 00009 = { path = "widzialam-wlosow-cien.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Shadow](@/w/shadow.md).", source = "Official Legacy Facebook" }
 00010 = { path = "niech-mu-gwiazda-gulasznosci-fuksem-nie-zagasnie.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs [Gulyás Öcsi](@/w/gulyas-ocsi.md) vs [Robert Star](@/w/robert-star.md).", source = "Official Legacy Facebook" }
+
+00100 = { path = "adi.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) opens the show.", source = "M3n747" }
+00102 = { path = "marco-nie-dostanie-kielbasy.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) argues with a fan.", source = "M3n747" }
+00103 = { path = "czarno-to-widze.webp", caption = "Curtis Black enters the ring. To the right stands [Sędzia Karol Górski](@/w/madman-charlie.md), [Marco Hammers](@/w/marco-hammers.md) peeks from the bottom.", source = "M3n747" }
+
+00201 = { path = "wy-macie-mikolaja-my-mamy-sewiego.webp", caption = "Sędzia Seweryn puts hardcore gift bags in the ring while [Adrian Zgórski](@/w/adrian-zgorski.md) announces the match. In the background sits [Istotna Martynka](@/w/istotna-martynka.md).", source = "M3n747" }
+00202 = { path = "patrzcie-kto-przyplynal.webp", caption = "[Tony Sheen](@/w/riverman.md), arriving straight from the Bering Strait.", source = "M3n747" }
+00203 = { path = "paging-doctor-freud.webp", caption = "Tony Sheen and [Disco Pablo](@/w/disco-pablo.md) with their gifts.", source = "M3n747" }
+00204 = { path = "na-allegro-takich-nie-znajdziesz.webp", caption = "[Tony Sheen](@/w/riverman.md) tripping the light fantastic to Disco Pablo's magic headphones.", source = "M3n747" }
+00205 = { path = "pif-paf-w-jajca-traf.webp", caption = "Disco Pablo aims at [Tony Sheen](@/w/riverman.md) with a toy gun.", source = "M3n747" }
+00206 = { path = "nie-ten-taping.webp", caption = "[Tony Sheen](@/w/riverman.md) tapes Disco Pablo's hands to the ropes, apparently confusing [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+00207 = { path = "tonemu-to-pasuje.webp", caption = "[Tony Sheen](@/w/riverman.md) about to hit Disco Pablo with a leather belt, much to [Sędzia Seweryn's](@/w/sedzia-seweryn.md) discomfort.", source = "M3n747" }
+00208 = { path = "bombowe-ozdoby-choinkowe.webp", caption = "Disco Pablo with a box of Christmas ornaments.", source = "M3n747" }
+00209 = { path = "to-chyba-tak-nie-dziala.webp", caption = "Disco Pablo applies the ornaments to Tony Sheen's posterior.", source = "M3n747" }
+00210 = { path = "get-a-room.webp", caption = "[Tony Sheen](@/w/riverman.md) chokes [Disco Pablo](@/w/disco-pablo.md) with a steel chain. To the right kneels [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+00211 = { path = "rzecznik-prasowy.webp", caption = "[Tony Sheen](@/w/riverman.md) joins Biuro Prasowe.", source = "M3n747" }
+00212 = { path = "marceli-mu-przypierdzieli.webp", caption = "[Marcelito](@/w/marcelito.md) appears out of nowhere to attack [Tony Sheen](@/w/riverman.md).", source = "M3n747" }
+
+00301 = { path = ".webp", caption = ".", source = "M3n747" }
+
+00302 = { path = ".webp", caption = ".", source = "M3n747" }
+
+00303 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+00401 = { path = ".webp", caption = ".", source = "M3n747" }
+00501 = { path = ".webp", caption = ".", source = "M3n747" }
+00601 = { path = ".webp", caption = ".", source = "M3n747" }
+00701 = { path = ".webp", caption = ".", source = "M3n747" }
+00801 = { path = ".webp", caption = ".", source = "M3n747" }
+00901 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
 99999 = { path = "pierwiosnek.jpg", caption = "Legacy of Wrestling vol. √16.", source = "Szymon Czuj, via Robert Niesłuchowski" }
