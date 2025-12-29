@@ -38,15 +38,17 @@
 00405 = { path = "swoja-mother-to-ty-sobie-mozesz-cutter.webp", caption = "Gulyás Öcsi blocks Filip's Mother Cutter.", source = "M3n747" }
 00406 = { path = "filip-zwycieski.webp", caption = "[Filip Fux](@/w/filip-fux.md) declared the winner by [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
 
-00501 = { path = ".webp", caption = ".", source = "M3n747" }
-00502 = { path = ".webp", caption = ".", source = "M3n747" }
-00503 = { path = ".webp", caption = ".", source = "M3n747" }
-00504 = { path = ".webp", caption = ".", source = "M3n747" }
+00501 = { path = "szalik-niewygodny-ale-modny.webp", caption = "Olgierd's entrance.", source = "M3n747" }
+00502 = { path = "mam-pewne-domysly-co-olgierd-mogl-zobaczyc.webp", caption = "[Olgierd](@/w/olgierd.md) hit by Shadow with a Spinning Hurricanrana. To the right stands [Sędzia Karol Górski](@/w/madman-charlie.md).", source = "M3n747" }
+00503 = { path = "tyle-w-glowie-ile-na-glowie.webp", caption = "Maco Hammers distracts referee Karol Górski, [Shadow](@/w/shadow.md) catches his breath, Olgierd gets slapped by Shadow's girlfriend.", source = "M3n747" }
+00504 = { path = "legia-szalikowcow.webp", caption = "A fan brandishing his [Legia Łysych](@/tt/legia-lysych.md) scarf.", source = "M3n747" }
 
-00601 = { path = ".webp", caption = ".", source = "M3n747" }
-00602 = { path = ".webp", caption = ".", source = "M3n747" }
+00601 = { path = "prezes-krzeslinski.webp", caption = "Literal Mister Chairman.", source = "M3n747" }
+00602 = { path = "apoteoza-przyjazni-kapitalizmu-z-klasa-robotnicza.webp", caption = "Mister Chairman with Merch Stand Ania.", source = "M3n747" }
 
 00701 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
 00702 = { path = ".webp", caption = ".", source = "M3n747" }
 00703 = { path = ".webp", caption = ".", source = "M3n747" }
 00704 = { path = ".webp", caption = ".", source = "M3n747" }
