@@ -53,7 +53,7 @@
 00704 = { path = "david-oliwa.webp", caption = "[David Oliwa's](@/w/david-oliwa.md) entrance.", source = "M3n747" }
 00705 = { path = "oliwa-posrod-ludu.webp", caption = "[David Oliwa](@/w/david-oliwa.md) among the common people.", source = "M3n747" }
 00706 = { path = "fajerstarter.webp", caption = "[Axel Fox](@/w/axel-fox.md) ready to start a fire.", source = "M3n747" }
-00707 = { path = "paczaj-pan-foksa-nie-lubio.webp", caption = "Fans express their dissatisfaction with the apparent [Axel Fox's](@/w/axel-fox.md) moral lapses.", source = "M3n747" }
+00707 = { path = "paczaj-pan-foksa-nie-lubio.webp", caption = "Fans express their dissatisfaction with apparent moral lapses of [Axel Fox](@/w/axel-fox.md).", source = "M3n747" }
 00708 = { path = "gryffin-wszedl-rakiem.webp", caption = "Gustav Gryffin's entrance.", source = "M3n747" }
 
 00709 = { path = ".webp", caption = ".", source = "M3n747" }
