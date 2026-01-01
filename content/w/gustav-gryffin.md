@@ -122,7 +122,7 @@ From 2023 onwards Gustav started making numerous appearances at international wr
 
 * PpW Ewenement:
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
-  - [Złoty Ewenement 2025](@/a/zlote-ewenementy.md) - Wrestler of the Year
+  - [Złoty Ewenement 2025](@/a/zlote-ewenementy.md) - Wrestler of the Year, Match of the Year, Moment of the Year
 
 ## Internet presence
 

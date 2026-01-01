@@ -119,6 +119,7 @@ Goblin also made history as the first Polish wrestler to make an appearance in M
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
+  - [Złoty Ewenement 2025](@/a/zlote-ewenementy.md) - Match of the Year
   - 20 Typa 20 Broni Rumble Match (2025)
 
 ## Internet presence
