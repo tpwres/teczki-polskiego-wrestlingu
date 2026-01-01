@@ -78,7 +78,8 @@ After Mistrzowskie Rozdanie 2 Rodzina's feud with the babyfaces continued. Agatk
 ## Championships and accomplishments
 
 * PpW Ewenement:
-  - [Złoty Ewenement 2025](@/a/zlote-ewenementy.md) - Newcomer of the Year
+  - [Złoty Ewenement](@/a/zlote-ewenementy.md) (1 time):
+    - Newcomer of the Year (2025)
 
 ## Internet presence
 
