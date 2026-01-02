@@ -42,12 +42,12 @@ toclevel = 2
   - 'Drop & Bump: Dropper & Bumper'
   - '[Blaze](@/w/blaze.md) & Bart Petro'
   - s: Triple Threat Tag Team Match
+- - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Sawicki](@/w/sawicki.md)'
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: 'Charity T-shirt auction'
 - - '[Remo](@/w/remo.md)'
   - g: "Remo's promo."
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
-  - '[Sawicki](@/w/sawicki.md)'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Davide Adami & Luke Astaroth'
   - s: Tag Team Match
