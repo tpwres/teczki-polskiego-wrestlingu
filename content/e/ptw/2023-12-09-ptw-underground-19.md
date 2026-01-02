@@ -46,7 +46,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=372457)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=372457)
 * [Full event on YouTube](https://www.youtube.com/watch?v=kGthAqsT1VY&t=1671s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-underground-19/2pdq5//), requires paid subscription
 * [Facebook post with results for Underground 19 and 20](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T3MV6XC4WwhVkEe1Au1btrAhdu2i7j9imzZTDRpbFqYXs4fw4g1pvnGLiVzgk3ubl)

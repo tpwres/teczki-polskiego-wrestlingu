@@ -88,7 +88,7 @@ Shortly before the show, they were trading insults and challeneges online with L
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=394861)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=394861)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ledwo-legalne-4-24-definitive-edition) (requires paid subscription)
 * [Video: Legia Łysych vs Pure Gold](https://www.youtube.com/watch?v=zySx2QXuNFQ)
 * [Facebook post announcing Gustav vs Goblin II](https://www.facebook.com/OficjalnePPW/posts/pfbid02iGFhFNmgVNxhonkm9tESeyEbatpvufnCvHeezjcAa9xU3A8G7dnToAQcUDcd9vWYl)

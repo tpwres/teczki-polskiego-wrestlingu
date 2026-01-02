@@ -39,5 +39,5 @@ Game ON was the first [Maniac Zone Wrestling](@/o/mzw.md) show after the COVID-1
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=362402)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=362402)
 * [Event highlights on YouTube](https://www.youtube.com/watch?v=up-mNH_iWT0)

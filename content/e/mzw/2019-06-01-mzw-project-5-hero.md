@@ -43,4 +43,4 @@ This was the final show to be hosted by Tomasz Warchoł.
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322464)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322464)

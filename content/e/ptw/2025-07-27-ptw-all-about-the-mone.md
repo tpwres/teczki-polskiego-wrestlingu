@@ -84,7 +84,7 @@ toclevel = 2
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=430504)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=430504)
 * [Full show on YouTube](https://www.youtube.com/watch?v=Qbq5Tgk3QZA&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
 * [Full match: Diana Strong vs Mercedes Moné](https://www.youtube.com/watch?v=KfASU6U6P6k)
 * [Facebook post announcing the event](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02w5MCtCqiTGbjCEJj71AsdMdrXt39R5LeWX7kdXKSTJs5MPuWdMkutZgn7pp4Lurbl)

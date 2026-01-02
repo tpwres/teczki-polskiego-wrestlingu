@@ -39,5 +39,5 @@ True to the name, all the gate profits (910&nbsp;PLN) were donated to "Psi Raj" 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383224)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=383224)
 * [YouTube video of the full event](https://www.youtube.com/watch?v=anNMdjJa8xM)

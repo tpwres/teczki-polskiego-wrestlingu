@@ -67,9 +67,9 @@ manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=421930)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=421930)
 * [Full show on YouTube](https://www.youtube.com/watch?v=ClI5xGRxnhg&t=8567s) (requires paid subscription)
-* [Conte's CageMatch profile](https://www.cagematch.net/?id=2&nr=31103&page=20)
+* [Conte's CageMatch profile](https://www.cagematch.net/r/?id=2&nr=31103&page=20)
 * [Video: Chairmen's live confrontation](https://www.youtube.com/watch?v=Mm8MzWkLXxo&ab_channel=PTW-PrimeTimeWrestling) (requires paid subscription)
 * [Italian referee's Instagram profile](https://www.instagram.com/refspeck/)
 

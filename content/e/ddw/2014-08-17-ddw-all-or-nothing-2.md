@@ -69,7 +69,7 @@ Attendance: about 120
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=115942)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=115942)
 * [Full event on YouTube](https://www.youtube.com/watch?v=gsW9gQdWysU)
 * [Teaser video](https://www.youtube.com/watch?v=kOoraLZT5B4) briefly showing Polish Giant
 * [Article on MyWrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-5-powstanie-maniac-zone-wrestling-afera-z-polish-giantem-przeprowadzka-ddw-do-gdanska/) (in Polish), discusses Polish Giant debacle extensively.

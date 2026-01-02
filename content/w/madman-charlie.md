@@ -83,7 +83,7 @@ In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przes
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24865)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24865)
 * [Charlie on PpW Wikia](https://ppw-fandom.tpwres.pl/charlie)
 
 [szkoda]: https://www.youtube.com/watch?v=sYOI3S-LVjg

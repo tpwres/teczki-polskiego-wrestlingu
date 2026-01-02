@@ -36,5 +36,5 @@ His fellow KPW alumni [Sawicki](@/w/sawicki.md) also shared the same fate - init
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19681&name=Adam+Bravo)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19681&name=Adam+Bravo)
 * [Adam Bravo's Facebook page](https://www.facebook.com/BravoAdamPL)

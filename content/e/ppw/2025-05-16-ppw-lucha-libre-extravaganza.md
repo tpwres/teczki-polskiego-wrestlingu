@@ -59,7 +59,7 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=426038)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=426038)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:4/videos/lucha-libre-extravaganza-tequila-mezcal-festival-gdansk-25) (requires paid subscription)
 * [Announcement video](https://www.facebook.com/reel/1707539943197636)
 * [Show details on Facebook](https://www.facebook.com/photo/?fbid=1245911024205954&set=a.499910772139320)

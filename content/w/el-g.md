@@ -34,4 +34,4 @@ El G made his first appearance in Poland working for [Prime Time Wrestling](@/o/
 
 ## References
 
-* [El G's cagematch profile](https://www.cagematch.net/?id=2&nr=24082&gimmick=El+G)
+* [El G's cagematch profile](https://www.cagematch.net/r/?id=2&nr=24082&gimmick=El+G)

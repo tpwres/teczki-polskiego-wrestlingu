@@ -46,4 +46,4 @@ Besides his appearances in Poland, he also makes numerous appearances on the Eur
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15608)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=15608)

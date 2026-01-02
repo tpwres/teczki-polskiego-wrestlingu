@@ -43,7 +43,7 @@ Mistrz Jest Tylko Jeden (_There Is Only One Champion_) was a show by [PpW Ewenem
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383440)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=383440)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/mistrz-jest-tylko-jeden-22-full-show) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=tN_R7MRMeys)
 * [Facebook event page](https://www.facebook.com/events/469423497960404)

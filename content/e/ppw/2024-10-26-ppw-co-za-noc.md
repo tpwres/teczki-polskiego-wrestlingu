@@ -232,7 +232,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=406689)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=406689)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/co-za-noc-24-definitive-edition) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=zlkssoMxSaE)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)

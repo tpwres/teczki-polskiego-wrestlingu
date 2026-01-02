@@ -72,4 +72,4 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=8281)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=8281)

@@ -50,4 +50,4 @@ He returned over a year later and gained a title shot on a [KPW Championship](@/
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=17493)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=17493)

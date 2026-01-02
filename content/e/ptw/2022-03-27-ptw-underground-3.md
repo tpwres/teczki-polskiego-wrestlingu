@@ -37,5 +37,5 @@ The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=331122)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=331122)
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02XZU16Pi5Z2vocppgdCcvGRnuzNb2Z1MPmYtnBdrHqoYdsA4RWiDWxcZTGC1DCyCyl)

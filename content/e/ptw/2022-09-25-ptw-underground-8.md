@@ -47,6 +47,6 @@ For this event, PTW invited Northern Irish wrestler Myla Grace, who was briefly 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=348784)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=348784)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-8-pl/2pbyr/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid034SQGqUKzD2Nn7U4jBNY5EEbjGWYBaqT4tnSKy5hKi764QDvSUUFjvwovjSf6PgBEl)

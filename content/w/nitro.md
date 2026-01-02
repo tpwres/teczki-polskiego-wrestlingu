@@ -75,4 +75,4 @@ Nitro returned to PTW about half a year after losing his Tag Team Championship. 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=16959)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=16959)

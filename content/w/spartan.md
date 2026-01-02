@@ -64,4 +64,4 @@ In addition to his work in Poland, Spartan also made a few appearances on the Hu
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=28680)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=28680)

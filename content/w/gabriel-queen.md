@@ -130,4 +130,4 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24919)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24919)

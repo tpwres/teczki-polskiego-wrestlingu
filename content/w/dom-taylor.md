@@ -33,4 +33,4 @@ After a break forced by the COVID-19 pandemic, Dom returned to KPW in 2023 at [A
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=23306)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=23306)

@@ -41,6 +41,6 @@ This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=348785)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=348785)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-7-pl/2pbtx/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02ZMKmGfBYkiCfbPRYzKqfidLMK8FqMwJSWMyjW41u28DmQGBDhKBXVcWMZ6kRWRLVl)

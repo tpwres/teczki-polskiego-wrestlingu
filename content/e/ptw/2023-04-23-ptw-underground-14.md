@@ -66,4 +66,4 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=365968)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=365968)

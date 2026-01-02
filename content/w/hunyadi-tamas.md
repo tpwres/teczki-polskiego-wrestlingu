@@ -29,4 +29,4 @@ At his final show - Underground 15 - he was a part of a storyline between [Punch
 
 ## References
 
-[Cagematch profile page](https://www.cagematch.net/?id=2&nr=23926)
+[Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=23926)

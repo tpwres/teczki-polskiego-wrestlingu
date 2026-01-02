@@ -126,6 +126,6 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15651)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=15651)
 * [Facebook post saying BYE BYE](https://www.facebook.com/photo/?fbid=839973208139393&set=pb.100063801633257.-2207520000) from December 2023
 * [PpW's Facebook post announcing Robert](https://www.facebook.com/OficjalnePPW/posts/pfbid02GSspE1SNetocUY2kWnC9LhDdsKYSGgh17G4h2bV4Q3CaRgLkziMrC6JDPkCYWBVnl)

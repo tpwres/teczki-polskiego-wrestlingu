@@ -87,7 +87,7 @@ The foreign guests for the event were:
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=350960)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=350960)
 * [Full event on YouTube](https://www.youtube.com/watch?v=H3LgDQxFTZg)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2022/)
 

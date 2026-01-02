@@ -24,6 +24,6 @@ The event featured a single, 30 minute long match, and was mostly aimed at promo
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=43394)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=43394)
 
 [ecw-arena]: https://en.wikipedia.org/wiki/2300_Arena

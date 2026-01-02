@@ -53,6 +53,6 @@ toclevel = 2
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322461)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322461)
 * [Full match: Tournament Final 4-way](https://www.youtube.com/watch?v=31_PIi22v6o)
 * [Recap video](https://www.youtube.com/watch?v=8LKMTYPzaIU)

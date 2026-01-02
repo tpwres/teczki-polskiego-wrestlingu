@@ -28,4 +28,4 @@ Elliott Jordan made his debut in Poland in August 2016 working for [Kombat Pro W
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=21619)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=21619)

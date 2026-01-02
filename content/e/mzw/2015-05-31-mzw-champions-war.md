@@ -49,7 +49,7 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=128358)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=128358)
 * [Local news portal](https://nowinynyskie.com.pl/artykul/16-latka-zginela-na/629807) reporting on the death of Akira (in Polish)
 * [National tabloid Super Ekspress](https://www.se.pl/wiadomosci/polska/tragedia-na-zawodach-sportowych-nie-zyje-piekna-16-latka-aa-e3Eb-WGbB-uRLR.html) reporting on the death (in Polish)
 * [MZW's Facebook photo set](https://www.facebook.com/media/set/?set=a.680536285423934.1073741842.378963568914542&type=3)

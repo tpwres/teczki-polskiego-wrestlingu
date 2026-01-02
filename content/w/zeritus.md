@@ -43,4 +43,4 @@ Besides his ventures in Poland, Zeritus is mostly known for his appearances in G
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=21016)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=21016)

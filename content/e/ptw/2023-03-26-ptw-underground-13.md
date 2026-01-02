@@ -42,4 +42,4 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
 {% end %}
 
 ## References
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=363652)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=363652)

@@ -43,4 +43,4 @@ Jonny Storm returned to Poland at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=467)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=467)

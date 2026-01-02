@@ -85,5 +85,5 @@ From 2025 onwards Eryk made numerous appearances for Finnish federation SLAM Wre
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25631)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25631)
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning Lesak as the first choice for Kawaleria's butler (in Polish)

@@ -94,6 +94,6 @@ From 2024 onwards Max started taking international bookings. His debut outside o
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=28366)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=28366)
 
 [speed-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl

@@ -33,7 +33,7 @@ This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322459)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322459)
 * [YouTube highlights](https://www.youtube.com/watch?v=Wucpm6M5WEQ)
 * [Coverage by inowroclaw.naszemiasto.pl](https://inowroclaw.naszemiasto.pl/klimat-meksykanski-zagoscil-w-solankach/ar/c2-3853156), with photos of wrestlers
 * [Coverage by inowroclaw.pl](https://www.inowroclaw.pl/aktualnosc-336-meksyk_w_parku_solankowym.html), with photos of wrestlers

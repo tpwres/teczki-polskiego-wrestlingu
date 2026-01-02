@@ -63,4 +63,4 @@ Between 2017 and 2019 Apollo Anderson made a few international appearances. In 2
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24667)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24667)

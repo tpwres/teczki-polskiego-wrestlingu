@@ -67,7 +67,7 @@ On 7.01.2025 the promotion published a [Facebook post][fb-womens-tournament], an
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=417136)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=417136)
 
 [fb-puncher]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02T2fMPjNH9X8iiJ4WMjxaSAQKw6WH6AYBw8Cn6NfxaGqiPbPppdRgqDqF7NktsqFml
 [going]: https://goingapp.pl/wydarzenie/gala-pro-wrestlingu-ptw-nowe-porzadki

@@ -50,4 +50,4 @@ Veit made his debut at [KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-ze
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=13769)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=13769)

@@ -38,4 +38,4 @@ On November 7th, 2025, [Legacy](@/o/low.md) announced that Gulyás would make hi
 
 ## References
 
-* [Gulyás Cagematch Page](https://www.cagematch.net/?id=2&nr=23783)
+* [Gulyás Cagematch Page](https://www.cagematch.net/r/?id=2&nr=23783)

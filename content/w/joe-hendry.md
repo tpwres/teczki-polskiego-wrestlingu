@@ -48,6 +48,6 @@ At that show he defeated up-and-coming Polish wrestler [Gabriel Queen](@/w/gabri
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14930)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14930)
 
 [impact-dgc]: https://en.wikipedia.org/wiki/TNA_Digital_Media_Championship

@@ -39,6 +39,6 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=331120)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=331120)
 * [Facebook result post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0rwtqvHMoUfpVnE4X3Ze3azUqfRkcixuFgh4Zi99qqPvvHh3aUPtUCbVP4o8XhLCrl)
 * [Facebook announcement](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0hSvsfpiorVKks7mrB3bMd4WehT8PxZ9rCR3U3mUw24W3wCk4nkP9DQ5WY4CBMxe8l)

@@ -46,4 +46,4 @@ After that Krzysztof quietly retired from on-screen activities, focusing solely 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19772)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19772)

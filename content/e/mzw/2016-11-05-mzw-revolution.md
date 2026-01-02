@@ -48,7 +48,7 @@ toclevel = 2
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=164685)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=164685)
 * [Full match: Shadow vs Asmund](https://youtu.be/lzLRJC9qII0)
 * [Recap by Wrestlingowym Szlakiem](https://www.youtube.com/live/PCDYlxWbNQA)
 * [Recap and ratings by Arkao on wrestling.pl](https://www.wrestling.pl/news-recenzja-vod-mzw-revolution.html)

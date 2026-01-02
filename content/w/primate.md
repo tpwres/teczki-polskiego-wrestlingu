@@ -50,4 +50,4 @@ Shortly after Godzina Zero 2022, Primate made an appearance at [Prime Time Wrest
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=17236)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=17236)

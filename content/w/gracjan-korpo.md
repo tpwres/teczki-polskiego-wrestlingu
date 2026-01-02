@@ -47,4 +47,4 @@ After leaving KPW, Gracjan joined [Prime Time Wrestling](@/o/ptw.md) - a new Sil
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19771)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19771)

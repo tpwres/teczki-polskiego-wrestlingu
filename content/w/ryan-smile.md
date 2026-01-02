@@ -29,4 +29,4 @@ Ryan Smile's single stint in Poland happened in 2012, when he made an appearance
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14039)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14039)

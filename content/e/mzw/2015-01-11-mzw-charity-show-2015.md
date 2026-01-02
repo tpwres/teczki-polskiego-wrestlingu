@@ -48,7 +48,7 @@ In another corner of the country, DDW also held a [charity event](@/e/ddw/2015-0
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=153092)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=153092)
 * [Full show on YouTube](https://www.youtube.com/watch?v=2IaA9_sT6Fo)
 * [YouTube recap video](https://youtu.be/R_abTj1_mGc)
 * [Facebook photo gallery](https://www.facebook.com/share/xm7GoztcP3nvCT24/)

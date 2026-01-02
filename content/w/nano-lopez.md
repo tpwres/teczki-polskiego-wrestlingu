@@ -101,6 +101,6 @@ From 2021 onwards Nano started making occasional appearances in independent fede
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24543)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24543)
 
 [speed-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl

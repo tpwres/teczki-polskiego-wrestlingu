@@ -77,7 +77,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=367306)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=367306)
 * [Full event on YouTube - original version](https://www.youtube.com/watch?v=bjeXfDhVFJY), requires paid subscription
 * [Full event on YouTube - fixed Final Cut version](https://www.youtube.com/watch?v=q8k7UEDEXxI), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-4-the-mystery/2pd8e/), requires paid subscription

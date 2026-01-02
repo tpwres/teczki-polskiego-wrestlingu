@@ -30,4 +30,4 @@ Pokaz Adeptów (_Rookies Showcase_) was a showcase of DDW's newest trainees, and
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=114968)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=114968)

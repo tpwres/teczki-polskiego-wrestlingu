@@ -39,4 +39,4 @@ From late 2017 to early 2018 Rick Baxxter stopped appearing in MZW with his tag 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14009)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14009)

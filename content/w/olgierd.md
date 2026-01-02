@@ -166,7 +166,7 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24693)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24693)
 * [Wayback Machine version of his PpW Wiki profile](https://web.archive.org/web/20230821192019/https://ppwofficial.fandom.com/pl/wiki/Hades)
 * [Profile on the restored PpW Wiki](http://ppw-fandom.tpwres.pl/hades)
 

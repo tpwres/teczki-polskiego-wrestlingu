@@ -92,7 +92,7 @@ The clip shows him trying to climb back into the ring from the outside. One of h
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14513)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14513)
 
 [bm-493]: https://www.youtube.com/watch?v=2azqxchwafo
 [wiki-gorale]: https://en.wikipedia.org/wiki/Gorals

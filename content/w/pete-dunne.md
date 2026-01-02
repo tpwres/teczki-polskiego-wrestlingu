@@ -38,4 +38,4 @@ Pete Dunne made his one-off appearance in Poland at [Do Or Die Wrestling's](@/o/
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=10529)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=10529)

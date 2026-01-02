@@ -66,7 +66,7 @@ Shida's opponent was changed at the last minute to the French wrestler Stanislas
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=438259)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=438259)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=827086732977304&set=a.136592405360077)
 
 [3-stages-of-arek]: https://www.facebook.com/reel/812902744863234

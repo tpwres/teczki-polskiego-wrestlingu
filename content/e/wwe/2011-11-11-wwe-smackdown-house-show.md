@@ -44,4 +44,4 @@ Attendance: ca. 10.500
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=71026)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=71026)

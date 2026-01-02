@@ -45,7 +45,7 @@ In 2018 the event lasted an entire week, between July 13 and 19. KPW held a wres
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=319859)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=319859)
 * [Euronews](https://www.euronews.com/2018/07/18/poland-s-post-apocalyptic-old-town-festival) article and video about the third OldTown
 * [OldTown's Facebook event](https://www.facebook.com/events/571284919882434/)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown-3/)

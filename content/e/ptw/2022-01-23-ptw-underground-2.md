@@ -41,5 +41,5 @@ The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=331121)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=331121)
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid036By99f9h7LX94QSj7KHKqcThEZ4J7TfZgjPqwLZXtCw3gxJuUJBfQ1d6T94qggAxl)

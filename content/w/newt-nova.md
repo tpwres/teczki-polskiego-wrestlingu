@@ -31,4 +31,4 @@ Nova debuted at [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fund
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26415)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=26415)

@@ -92,7 +92,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=418109)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=418109)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-21000-21-02-2025-02-21-2025-21-57-11) (requires paid subscription)
 * [Hammers challenges Blade](https://www.instagram.com/p/DF51JqMMH89/)
 * [Hammers vs Blade Confirmed](https://www.facebook.com/photo/?fbid=1163483015782089&set=a.499910772139320)

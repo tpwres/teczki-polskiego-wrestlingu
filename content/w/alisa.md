@@ -36,4 +36,4 @@ Following the feud with her sister, Alisa started making rather irregular appear
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19781)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19781)

@@ -81,7 +81,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=418717)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=418717)
 * Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=YjfpMc5lpU0), [part 2](https://www.youtube.com/watch?v=XvbIG1wle6E)
 
 [announcement-post]: https://www.facebook.com/photo/?fbid=999843182174072&set=a.548442050647523

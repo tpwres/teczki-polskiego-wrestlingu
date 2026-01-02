@@ -85,7 +85,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=418110)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=418110)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-teraz-albo-nigdy-1) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1137639111699813&set=a.499910772139320)
 * [Tickets for the event](https://stage24.pl/events/ppw-ewenement-teraz-albo-nigdy-4054)

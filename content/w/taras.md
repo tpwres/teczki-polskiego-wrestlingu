@@ -93,4 +93,4 @@ In 2021 Taras made his only international appearance in career, where he worked 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27194)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=27194)

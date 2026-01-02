@@ -46,5 +46,5 @@ The event saw the return of [LaVonce](@/w/lavonce.md) and the PTW debut of Briti
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=403967)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=403967)
 * [Facebook announcement and poster](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0A8DxWMbks5aKMceWdq2kVsNcauAGxL56iSqdtVCdthHCEcQfNocuM5mzRBvz78bul)

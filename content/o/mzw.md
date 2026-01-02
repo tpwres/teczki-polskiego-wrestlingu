@@ -86,7 +86,7 @@ MZW has one singles championship, with Shadow having the longest combined reigns
 
 ## References
 
-* [MZW on CageMatch](https://www.cagematch.net/?id=8&nr=1343)
+* [MZW on CageMatch](https://www.cagematch.net/r/?id=8&nr=1343)
 * [Historia Polskiego Wrestlingu #5](https://mywrestling.com.pl/historia-polskiego-wrestlingu-5-powstanie-maniac-zone-wrestling-afera-z-polish-giantem-przeprowadzka-ddw-do-gdanska/) on mywrestling.com.pl (in Polish)
 * [Historia Polskiego Wrestlingu #6](https://mywrestling.com.pl/historia-polskiego-wrestlingu-6-pierwsza-biletowana-gala-mzw-powstanie-kpw-obecna-sytuacja/) on mywrestling.com.pl (in Polish)
 * [Facebook post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0FM2QRdQsdQr2yXnK4iQgqqye1kRaEZ1iL1Bh89kSdfUtaMfg5kWuTbQTfMXkaTHnl) announcing the finals of Project Basement and several wrestlers' departures

@@ -90,7 +90,7 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=402888)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=402888)
 * [Announcement post](https://www.facebook.com/photo/?fbid=893308346160890&set=a.548442050647523) on MZW's official Facebook page.
 * [Official results post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0xvscovNeQy1cRGucusxTL5gQ5dPAYbgRJLs1apxgY9VQ7CxwdR4C9yNFPbiQWYjkl)
 * Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=U--dGDexkHc), [part 2](https://www.youtube.com/watch?v=BYCeNP2lDDo)

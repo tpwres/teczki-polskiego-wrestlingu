@@ -172,4 +172,4 @@ In August 2023 Mister Z made a singular international appearance during Passion 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=31484&gimmick=Mister+Z)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=31484&gimmick=Mister+Z)

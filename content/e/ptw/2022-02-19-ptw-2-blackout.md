@@ -224,7 +224,7 @@ He continues the usual clapping for each sponsor routine, and when WrestleFans i
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=333047)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=333047)
 * [Full event on YouTube](https://www.youtube.com/watch?v=HYkTJlRNHAw)
 * [Contract signing event on YouTube](https://www.youtube.com/watch?v=SPd2OXsk9cM)
 * [Sydal tweeting about his knee injury](https://twitter.com/MattSydal/status/1505234895110651913)

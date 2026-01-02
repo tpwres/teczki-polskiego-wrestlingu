@@ -68,6 +68,6 @@ Jędruś (or rather Marcin, his real first name) is the subject of [Marzenie Wre
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=10441)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=10441)
 
 [gorol]: https://en.wikipedia.org/wiki/Gorals

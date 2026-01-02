@@ -46,4 +46,4 @@ After that, Storm Riders disbanded and Blue Thunder only managed to make one mor
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24641)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24641)

@@ -99,11 +99,11 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=398192)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=398192)
 * [Facebook post announcing the first match](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid025CUsTP2nwpJkbHDNQFaCNFcWabnQ2Dm8xjbq13nZ6iAU9BRPL7e5zw8vgePgE7rEl)
 * [Facebook post announcing Diana vs Iva](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0Dn9v76pLKG3bMaA1F8pds2oMFNbxD5MQoP9zLg3fTPQNQu7mCpM5Ed5tw7Cxk1u1l)
 * [Facebook post announcing Gulyas Bros vs Svedberg & Caravaggio](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02ofPdwpvzFjqsHvesqrHvLoac8iQuCk5eu25SAoHEg6N7MAB6RCNKWmSCtJ7NVDC4l)
-* [Gulyas Bros on Cagematch](https://www.cagematch.net/?id=28&nr=9957)
+* [Gulyas Bros on Cagematch](https://www.cagematch.net/r/?id=28&nr=9957)
 * [PTW's Facebook video of Alex interrupting Speed's training](https://www.facebook.com/PrimeTimeWrestlingPL/videos/442203918694225/)
 * [Mywrestling's recap and results](https://mywrestling.com.pl/ptw-ryucon-3-wyniki/)
 * [Ryucon's info page](https://ryucon.pl/ptw-x-ryucon/)

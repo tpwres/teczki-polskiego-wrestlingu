@@ -66,6 +66,6 @@ Attendance: about 300
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=205652)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=205652)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-arena-x/), includes a trailer and highlights video
 * [Facebook event page](https://www.facebook.com/events/346317699213398/)

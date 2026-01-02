@@ -46,6 +46,6 @@ After DDW ceased operations and [Kombat Pro Wrestling](@/o/kpw.md) was created, 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15408)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=15408)
 
 [cafe-bianca]: https://www.youtube.com/watch?v=bzTNhK0G478

@@ -113,7 +113,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=418108)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=418108)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/gruba-przesada-25-full-show) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=7BqcLexnnFI) (set to private as of February 2025)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02anoMmnN9g8ziEqr7t1jXhipXyGJzCvY3aHfZRyWHvsDfscrBkNh3i8SFXZPWMVMRl)

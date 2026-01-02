@@ -81,4 +81,4 @@ From 2024 onwards Sambor started making appearances at the European independent 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29622)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=29622)

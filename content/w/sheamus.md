@@ -47,4 +47,4 @@ Sheamus made his Polish debut back in November 2011 during the [WWE Smackdown Ho
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=2641)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=2641)

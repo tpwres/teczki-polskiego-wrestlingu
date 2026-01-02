@@ -36,4 +36,4 @@ It was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=62759)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=62759)

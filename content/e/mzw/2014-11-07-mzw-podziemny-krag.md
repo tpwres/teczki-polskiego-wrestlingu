@@ -33,7 +33,7 @@ The event's name refers to David Fincher's 1999 film [Fight Club][walka-o-mydlo]
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=362830)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=362830)
 * [Youtube recap video](https://www.youtube.com/watch?v=KVnSKos72hs)
 
 [walka-o-mydlo]: https://en.wikipedia.org/wiki/Fight_Club

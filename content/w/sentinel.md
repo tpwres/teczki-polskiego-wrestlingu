@@ -47,4 +47,4 @@ Sentinel made his debut in Poland working for [PpW Ewenement Wrestling](@/o/ppw.
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=32075)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=32075)

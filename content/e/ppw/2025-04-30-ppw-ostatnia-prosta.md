@@ -84,9 +84,9 @@ During the event, fans saw new and returning international wrestlers in the ring
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=424531)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=424531)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-ostatnia-prosta-30-04-25-04-30-2025-21-55-25) (requires paid subscription)
-* [Mr. Power Up's Cagematch profile](https://www.cagematch.net/?id=2&nr=29033&gimmick=Flex+Powers)
+* [Mr. Power Up's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=29033&gimmick=Flex+Powers)
 * [Mr. Power Up's Instagram](https://www.instagram.com/mrpowerup_flexpowers/)
 * [Video 1: PM Shooter custody](https://www.instagram.com/p/DIZE3pEKw7o/)
 * [Video 2: PM Shooter escape attempt](https://www.instagram.com/p/DIbwspSqOSP/)

@@ -57,4 +57,4 @@ Rafi was scheduled to face his fellow ex-PTW colleague [Marcelito](@/w/marcelito
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27249)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=27249)

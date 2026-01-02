@@ -47,7 +47,7 @@ The event, and festival, were held in {{ map_pin(v="B90") }}B90, a music and eve
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=175305)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=175305)
 * [KPW Kombat TV S2E2](https://www.youtube.com/watch?v=u3fl_RbZFCo), longer recap of the main event
 * [KPW Kombat TV S2E3](https://www.youtube.com/watch?v=sn3EEhQvsY4), covers the hardcore match
 * [KPW's event page](https://kpwrestling.pl/events/kpw-szlamfest/), with a recap video

@@ -37,4 +37,4 @@ Besides PTW, King Kaiden mostly works at independent wrestling scene, in particu
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/en?id=2&nr=30119)
+* [Cagematch profile page](https://www.cagematch.net/r/en?id=2&nr=30119)

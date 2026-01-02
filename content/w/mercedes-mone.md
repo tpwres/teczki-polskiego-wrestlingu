@@ -56,4 +56,4 @@ In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md)
 
 ## References
 
-* [Cagematch profile](https://www.cagematch.net/?id=2&nr=10962)
+* [Cagematch profile](https://www.cagematch.net/r/?id=2&nr=10962)

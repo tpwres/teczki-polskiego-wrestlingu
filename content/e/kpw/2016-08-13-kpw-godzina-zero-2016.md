@@ -62,7 +62,7 @@ The venue for this event was the [Hall of Sports](@/v/gdynskie-centrum-sportu.md
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=161729)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=161729)
 * [KPW Kombat TV #8](https://www.youtube.com/watch?v=sFsT2ZRhugw), with an hour-long recap of all matches
 * [Video: Youngest KPW fan](https://www.youtube.com/watch?v=wmAyKa51clM)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2016/)

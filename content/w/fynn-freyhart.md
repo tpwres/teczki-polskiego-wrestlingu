@@ -40,4 +40,4 @@ Fynn's character is a bandana and leather-wearing rebel rockman babyface persona
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=18296)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=18296)

@@ -67,7 +67,7 @@ Returning was also Czech wrestler Viking, Hardcore Champion of Prague-based VcV 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383968)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=383968)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-2-22-definitive-edition-hd) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=sU2hHukUCn0) (set to private as of April 2025)
 * [Facebook event](https://www.facebook.com/events/1117782402125287/)

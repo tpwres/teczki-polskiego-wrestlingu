@@ -38,4 +38,4 @@ During his time in MZW he and his tag-team partner were able to win the [MZW Tag
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=18987)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=18987)

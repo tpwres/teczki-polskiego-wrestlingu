@@ -29,4 +29,4 @@ Mark Andrews made his debut on Polish soil back in 2012, where he made an appear
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6092)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=6092)

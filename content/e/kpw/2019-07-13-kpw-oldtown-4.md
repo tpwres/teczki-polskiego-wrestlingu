@@ -39,7 +39,7 @@ The foreign guests for this event were all from Germany: the experienced Lucas R
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=319861)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=319861)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown-4/)
 * [Coverage by local newssite GS24](https://gs24.pl/stargard-na-bylym-lotnisku-w-kluczewie-rozpoczal-sie-oldtown-festival-2019-zdjecia/ar/c13-14259589)
 * [Results on KPW's Facebook](https://www.facebook.com/kpwrestling/posts/pfbid02Pdogfve4tVWRXz8tYjRPLTrpsJoMc7c2qSCxybKAJWWfkPCxKufEpDjak25JTCVZl)

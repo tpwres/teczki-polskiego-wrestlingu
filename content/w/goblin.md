@@ -129,7 +129,7 @@ Goblin also made history as the first Polish wrestler to make an appearance in M
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=28746)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=28746)
 
 [bitwa-pod-grunwaldem]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
 [tarot-goblina]: https://www.youtube.com/watch?v=AsEqQwh0idg

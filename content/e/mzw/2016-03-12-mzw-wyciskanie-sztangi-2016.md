@@ -31,4 +31,4 @@ This event was the second edition of a sideshow accompanying Wyciskanie Sztangi 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=153086)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=153086)

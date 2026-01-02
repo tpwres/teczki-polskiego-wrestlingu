@@ -40,4 +40,4 @@ Marty Scurll made his debut on Polish soil in February 2022, where he faced, and
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=4255)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=4255)

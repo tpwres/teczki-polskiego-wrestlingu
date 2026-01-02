@@ -66,7 +66,7 @@ toclevel = 2
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=326348)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=326348)
 * [Full event on TVP Sport][ptwrevolucja-tvp-sport]
 * [Full event on Youtube](https://www.youtube.com/watch?v=lwNDsuU3HVw&t=5s&ab_channel=PTW-PrimeTimeWrestling)
 

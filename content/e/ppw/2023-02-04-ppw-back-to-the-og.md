@@ -44,7 +44,7 @@ Back to the OG was a show by [PpW Ewenement Wrestling](@/o/ppw.md). The name ref
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=388621)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=388621)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/back-2-the-og-23-rare-edition) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=5Puisr-qsF0) (set to private as of April 2025)
 * [Facebook event](https://www.facebook.com/events/671650544511110/)

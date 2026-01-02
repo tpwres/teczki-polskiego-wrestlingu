@@ -49,4 +49,4 @@ Ricky Sky returned to KPW in 2025 and along with [David Oliwa](@/w/david-oliwa.m
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24379)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24379)

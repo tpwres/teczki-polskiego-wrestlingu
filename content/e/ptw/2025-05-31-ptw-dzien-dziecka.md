@@ -98,7 +98,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=423576)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=423576)
 * [Official stream on YouTube](https://www.youtube.com/watch?v=G0_KsMe6aQc) (requires paid subscription)
 * [Event page on Facebook](https://www.facebook.com/events/1864407861025971/)
 * [Nano Lopez returns - Facebook post](https://www.facebook.com/photo?fbid=737172635302048&set=a.136592408693410)

@@ -27,5 +27,5 @@ manifest = "@/e/ddw/2013-08-25-ddw-charity-event-gallery.toml"
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=100076)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=100076)
 * [DDW's Facebook post](https://www.facebook.com/DoOrDieWrestling/posts/pfbid02vLzgMQrWFzdRQY9hGL1ysh71w69QSCwZAqU6ZYr9u6ZmPdkPeyJCvUXZ48mVAK9Bl)

@@ -52,6 +52,6 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
 
 ## References
 
-* Cagematch event pages: [day 1](https://www.cagematch.net/?id=1&nr=348387), [day 2](https://www.cagematch.net/?id=1&nr=348388)
+* Cagematch event pages: [day 1](https://www.cagematch.net/r/?id=1&nr=348387), [day 2](https://www.cagematch.net/r/?id=1&nr=348388)
 * [Facebook announcement](https://www.facebook.com/TattooKonwent/posts/pfbid02gSGuoY1rmy3iHyzg9CDVLakhqShm8T4iH3Ys9sDzBxEqNjcubNKuQu2pnq29mY1Tl) on the event's page, lists timeslots.
 * [KPW's event page](https://kpwrestling.pl/events/gdansk-tattoo-konwent-2023/) for both days

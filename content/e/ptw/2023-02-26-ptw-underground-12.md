@@ -51,6 +51,6 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=358863)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=358863)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-12/2pceo/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0kFyjthd2PbGBvzF8V5szNcW5zNMsKTogAF8wYWM7jfMWg9rQVoQhd43HP4rUSjxSl)

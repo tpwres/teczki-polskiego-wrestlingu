@@ -50,6 +50,6 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=153079)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=153079)
 * [Highlights video on YouTube](https://www.youtube.com/watch?v=yRUcvds5OnI)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-vs-the-world/)

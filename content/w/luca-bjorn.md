@@ -61,4 +61,4 @@ In December 2024, at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md),
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25726)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25726)

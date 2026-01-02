@@ -84,7 +84,7 @@ Sideplates are simply two small circular sawblades, and instead of a classic pin
 
 **TOTAL:** 637 days.
 
-In addition to the above, Dobroniak also defended the title abroad: twice in STHLM Wrestling, in [November 2022](https://www.cagematch.net/?id=1&nr=355802) against Jack Jones and [December 2023](https://www.cagematch.net/?id=1&nr=381560) against Lexi Luxx, and once in Freedom Pro Wrestling against Mange Mörbult, in [January 2024](https://www.cagematch.net/?id=1&nr=389324).
+In addition to the above, Dobroniak also defended the title abroad: twice in STHLM Wrestling, in [November 2022](https://www.cagematch.net/r/?id=1&nr=355802) against Jack Jones and [December 2023](https://www.cagematch.net/r/?id=1&nr=381560) against Lexi Luxx, and once in Freedom Pro Wrestling against Mange Mörbult, in [January 2024](https://www.cagematch.net/r/?id=1&nr=389324).
 
 ### Champion #3: Johnny Blade (2nd run)
 

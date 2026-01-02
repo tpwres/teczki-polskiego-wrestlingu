@@ -43,7 +43,7 @@ Champions War II was an event held by MZW in [Głuchołazy](@/v/gosir-glucholazy
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=145950)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=145950)
 * [Video: full show on YouTube](https://www.youtube.com/watch?v=rv6oSYBykMo) (part 1)
 * [Video: full show on YouTube](https://www.youtube.com/watch?v=fr5CZxel6wg) (part 2)
 * [Video: full show on YouTube](https://www.youtube.com/watch?v=dPMNY9TW7eY) (part 3)

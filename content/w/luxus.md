@@ -39,4 +39,4 @@ After DDW's closure and transformation into [Kombat Pro Wrestling](@/o/kpw.md), 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=18207)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=18207)

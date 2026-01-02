@@ -47,5 +47,5 @@ Attendance: estimated about 140
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=169774)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=169774)
 * [Recap video on YouTube](https://www.youtube.com/watch?v=lXoy7eRsZ88)

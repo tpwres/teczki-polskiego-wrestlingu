@@ -55,7 +55,7 @@ Brak Mi Słów (_I Have No Words_) was a show by [PpW Ewenement Wrestling](@/o/p
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383860)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=383860)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ppw-brak-mi-slow-22-full-show-hd) (requires paid subscription)
 * [Facebook event](https://www.facebook.com/events/5539714666051167/)
 

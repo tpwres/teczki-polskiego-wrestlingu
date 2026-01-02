@@ -40,4 +40,4 @@ Myla Grace made her debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25051)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25051)

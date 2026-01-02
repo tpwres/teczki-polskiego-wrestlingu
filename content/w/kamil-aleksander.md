@@ -67,4 +67,4 @@ Between 2010 and 2014 Kamil made a handful of appearances in federations in the 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=10426)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=10426)

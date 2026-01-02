@@ -30,7 +30,7 @@ Wrestlefans Party was a show by [Maniac Zone Wrestling](@/o/mzw.md) held in {{ m
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322458)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322458)
 * [Full show on Youtube](https://www.youtube.com/watch?v=kvemG5gWOUo)
 
 [wf]: https://wrestlefans.pl/forum/index.php

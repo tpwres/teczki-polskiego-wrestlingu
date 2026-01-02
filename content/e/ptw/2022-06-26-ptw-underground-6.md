@@ -44,6 +44,6 @@ This was [Jacob Crane](@/w/jacob-crane.md)'s last PTW appearance. He was later o
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=339571)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=339571)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-6-pl/2pbio/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0hBe3CynACjJbxyZdXZ1k2QW54F5h3RaUqMHVorDupVrZEZVTVBE5GpoTUsbFvmqdl)

@@ -30,6 +30,6 @@ It was held in a {{ map_pin(v="Zespół Szkół w Przywidzu") }}gymnastics hall 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=123193)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=123193)
 * [DDW's recap video](https://www.youtube.com/watch?v=MXT32x52Wdw)
 * [Vttitude's video](https://www.youtube.com/watch?v=SHVqgJsIROk)

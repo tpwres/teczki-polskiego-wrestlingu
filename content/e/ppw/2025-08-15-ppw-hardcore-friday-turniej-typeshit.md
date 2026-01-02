@@ -81,7 +81,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=429796)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=429796)
 * [Full event on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-hardcore-friday-type-shit-cup-15-08-2025-08-15-2025-21-15-33) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=1292111242919265&set=a.499910772139320)
 

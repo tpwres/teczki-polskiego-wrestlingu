@@ -27,4 +27,4 @@ Dynamite Dave made his debut in Poland in June 2014 working at a [Maniac Zone Wr
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14033)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14033)

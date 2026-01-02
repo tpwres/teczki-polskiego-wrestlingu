@@ -28,6 +28,6 @@ Project Basement 4 is the fourth episode of [MZW's](@/o/mzw.md) taped wrestling 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322476)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322476)
 * [Full episode on YouTube](https://youtu.be/5IBmj08K8SE)
 * [Playlist of all episodes](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8gOYpibA7twIBHV7w3iyLB2)

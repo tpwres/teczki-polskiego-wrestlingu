@@ -101,7 +101,7 @@ From 2024 onwards Chemik made a few appearances for Finland-based federation SLA
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25615)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25615)
 * [KPW's Bianca interviewing Chemik](https://www.youtube.com/watch?v=K7J0zvAK264) (in Polish)
 * [A fragment of Godzina Zero 2016](https://youtu.be/wmAyKa51clM?si=2YCEPHWYSpdoTR3a&t=65), with young Chemik in the audience (1:05 mark, next to Robert on the right side)
 * [Interview with Chemik][radio-gdansk] by Radio Gdańsk (in Polish)

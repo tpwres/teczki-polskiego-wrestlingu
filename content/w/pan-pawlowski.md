@@ -108,7 +108,7 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6523)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=6523)
 
 [yt-iw]:https://www.youtube.com/@IstotaWrestlingu
 [rings-of-pawel]:https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl

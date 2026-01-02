@@ -46,7 +46,7 @@ The Underground Street Fight match set the record of the longest match in PTW hi
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=365971)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=365971)
 * [Full event on YouTube](https://www.youtube.com/watch?v=rzPx_GS5NeQ&t=9458s), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-underground-17/2pdlp/), requires paid subscription
 * [Facebook post confirming the record match duration](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0xpBiuZbjAbaBX1ryEpSXgTMa4EaMsgxJiyzCARq6D51ec5C9FRgiCrs3UYS6i7bBl)

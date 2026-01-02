@@ -114,6 +114,6 @@ In 2022 and 2023 Marcelito made a handful of appearances for Austiran promotions
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27414)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=27414)
 
 [pudzian]: //pl.wikipedia.org/wiki/Mariusz_Pudzianowski

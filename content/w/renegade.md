@@ -65,4 +65,4 @@ After their loss Renegade and his tag team partner Nitro seemingly bid farewell 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=16217)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=16217)

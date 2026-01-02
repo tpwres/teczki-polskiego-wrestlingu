@@ -113,4 +113,4 @@ David also works abroad in such promotions as Austria-based European Wrestling A
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19692)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19692)

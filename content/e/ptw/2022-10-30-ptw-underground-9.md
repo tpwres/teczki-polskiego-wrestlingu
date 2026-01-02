@@ -55,6 +55,6 @@ This was the go-home show for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=348783)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=348783)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-9-pl/2pc7e/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid037CWAbM8VMpZiAPhmgBWmPpqmEiygdi9S4sj3GtmVzqrH6zUhyDhUmjgpQDjCo6Zkl)

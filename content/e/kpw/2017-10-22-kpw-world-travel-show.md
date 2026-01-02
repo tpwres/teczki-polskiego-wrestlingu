@@ -28,7 +28,7 @@ Rojas faced KPW's [Mira](@/w/mira.md) in a mostly unplanned match, consisting of
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=188297)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=188297)
 * [KPW's event page](https://kpwrestling.pl/events/world-travel-show/)
 * [Video by iTurek.net](https://www.youtube.com/watch?v=2ysJJVT4B90), shows a quick recap of the match at about 2:40
 * [Video by Podróże Kasi i Tomka](https://www.youtube.com/watch?v=roqqL8ru1ko), shows fragments the match at about 4:30

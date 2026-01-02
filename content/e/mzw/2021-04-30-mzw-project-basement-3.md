@@ -31,6 +31,6 @@ Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling s
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322475)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322475)
 * [Full episode on YouTube](https://www.youtube.com/watch?v=t6J0znuqfLM)
 * [Playlist of all episodes](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8gOYpibA7twIBHV7w3iyLB2)

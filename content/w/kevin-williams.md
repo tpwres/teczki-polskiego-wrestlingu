@@ -33,4 +33,4 @@ Two years later Kevin Williams returned to Poland, this time to [Maniac Zone Wre
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6639)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=6639)

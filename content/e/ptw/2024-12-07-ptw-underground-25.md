@@ -214,7 +214,7 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=414093)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=414093)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)
 * [Fancam by Istota Wrestlingu, part 1](https://www.youtube.com/watch?v=8FV4WYGKM3A)
 * [Fancam by Istota Wrestlingu, part 2](https://www.youtube.com/watch?v=S7V_J6D7TcI)

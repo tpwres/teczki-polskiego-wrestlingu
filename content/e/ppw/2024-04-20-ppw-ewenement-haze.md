@@ -332,7 +332,7 @@ Additional interviews, once again conducted by Joker:
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=391568)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=391568)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ewenement-haze-4-20-24-full-show-hd) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=8u292TzKREA) (set to private as of April 2025)
 * [Facebook event page](https://www.facebook.com/events/330377740015358)

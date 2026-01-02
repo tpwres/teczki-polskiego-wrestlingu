@@ -39,7 +39,7 @@ Before the emergence of DDW in 2009, however, there was also a transitional peri
 
 #### References
 * [The History of Polish Wrestling](https://mywrestling.com.pl/historia-polskiego-wrestlingu-podsumowanie/) (in Polish)
-* [List of pre-DDW shows on CageMatch](https://www.cagematch.net/?id=1&view=search&sEventName=&sPromotion=&sDateFromDay=01&sDateFromMonth=01&sDateFromYear=1887&sDateTillDay=31&sDateTillMonth=12&sDateTillYear=2008&sRegion=&sEventType=&sLocation=Polen&sArena=&sAny=)
+* [List of pre-DDW shows on CageMatch](https://www.cagematch.net/r/?id=1&view=search&sEventName=&sPromotion=&sDateFromDay=01&sDateFromMonth=01&sDateFromYear=1887&sDateTillDay=31&sDateTillMonth=12&sDateTillYear=2008&sRegion=&sEventType=&sLocation=Polen&sArena=&sAny=)
 * [Retrospektiva wrestlingu: Peter Jankowski – Ursus](https://www.muscle-fitness.cz/retrospektiva-wrestlingu-peter-jankowski-ursus/) (in Czech)
 * [Z silnych najsilniejsi](https://zsilnychnajsilniejsi.pl/) (in Polish)
 

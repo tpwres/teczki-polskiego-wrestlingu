@@ -38,6 +38,6 @@ Kaszub was one of the first wrestlers to join the new federation - [Kombat Pro W
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14936)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14936)
 
 [kaszebe]: https://en.wikipedia.org/wiki/Kashubians

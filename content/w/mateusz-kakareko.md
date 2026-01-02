@@ -46,4 +46,4 @@ Mateusz Kakareko made his last appearance as one of the contenders in the Magnif
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14995)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14995)

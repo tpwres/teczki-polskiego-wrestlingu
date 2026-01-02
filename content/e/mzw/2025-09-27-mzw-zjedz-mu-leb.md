@@ -75,7 +75,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=431688)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=431688)
 * [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=XDET0mzLEoc)
 
 [promo-dziedzic]: https://www.facebook.com/reel/1952443468659232/

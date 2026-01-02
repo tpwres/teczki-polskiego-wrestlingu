@@ -106,6 +106,6 @@ In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-c
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24643)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24643)
  
 [freebird-rule]: https://en.wikipedia.org/wiki/Fabulous_Freebirds#Freebird_Rule

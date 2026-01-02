@@ -98,7 +98,7 @@ On 10.11.2025 [Legacy](@/o/low.md) announced Rosetti as a guest commentator at t
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19710)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19710)
 * [Arena 20 - Rosetti's promo](https://www.youtube.com/watch?v=09uuL1EIZaw)
 
 [boat-city]: https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA

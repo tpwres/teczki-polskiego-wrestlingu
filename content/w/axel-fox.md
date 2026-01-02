@@ -184,7 +184,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24550)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24550)
 * [Video: First appearance at MZW](https://www.youtube.com/watch?v=h5cNADPzxUQ), then as a journalist for What is Wrestling, taking chops from [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Asmund](@/w/asmund.md).
 * [Video: What Is Wrestling vs PJ Blake](https://www.youtube.com/watch?v=roRtTpXireo), promo for Amisz's first wrestling match
 * [Old YouTube channel "KGWrestlingPodcast"](https://www.youtube.com/@amisz98), now with his name changed and all uploads hidden

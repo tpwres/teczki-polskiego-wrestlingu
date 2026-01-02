@@ -52,4 +52,4 @@ Wild Boar made his debut on Polish soil back in August 2017, where he faced the 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=9762)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=9762)

@@ -69,7 +69,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=365970)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=365970)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-15/2pd2r/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02zW39JQDqEZH4ZCNkniLyQRTPJ2p4kwK7D5cZCWn1Xj1MPoUpbczbdTgqc63Xj35Ql)
 * [Facebook event page](https://www.facebook.com/events/3059253077717322)

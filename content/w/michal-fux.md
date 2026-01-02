@@ -73,4 +73,4 @@ In 2023 Michał made his first appearance outside of Poland, when he worked one 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25534)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25534)

@@ -38,4 +38,4 @@ Finishers:
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=23323)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=23323)

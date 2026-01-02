@@ -280,7 +280,7 @@ On 2.07.2025 fans noticed that the official PTW website was replaced with a gene
 
 ## References
 
-* [PTW on CageMatch](https://www.cagematch.net/?id=8&nr=3149)
+* [PTW on CageMatch](https://www.cagematch.net/r/?id=8&nr=3149)
 * [YouTube video of the lottery prize draw](https://www.youtube.com/watch?v=DOgcwDhd53k) (unavailable, set to private)
 * https://primetimewrestling.pl/roster/, taken down on 13.06.2024
 * [Roster page](https://web.archive.org/web/20240509113619/https://primetimewrestling.pl/roster/) on Archive.org (latest snapshot, from 9.05.2024)

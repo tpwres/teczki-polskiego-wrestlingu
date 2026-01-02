@@ -78,4 +78,4 @@ During his British excursion Lambert made appearances in two matches for Coventr
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24642)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24642)

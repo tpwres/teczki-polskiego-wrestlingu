@@ -55,7 +55,7 @@ KPW would return to following editions of OldTown until 2019.
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=182537)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=182537)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-oldtown-2/)
 * [10 Best Moments of KPW video](https://www.youtube.com/watch?v=NeyUetRatMU), mentions the first KPW OldTown Champion at 7:16
 * [Facebook post announcing the new belt](https://www.facebook.com/photo/?fbid=1845191942464656)

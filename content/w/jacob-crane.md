@@ -94,7 +94,7 @@ In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], jo
 ## References
 
 * [Video interview by AttitudePolska](https://www.youtube.com/watch?v=XviEUzkPFJQ) before [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), about leaving for Japan
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=20559)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=20559)
 
 [ptw-20220812]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02FiF1R8GSRqAD2DDGiquoSzQnDipgbNmqyTXhg3vd5pT8zD37qS8itgs5SM7dw4XHl
 [aschaffenburg]: https://www.facebook.com/thejacobcrane/posts/pfbid0355yoXbfmsjR8Pmtpijv2FQKvwiGMBzsPvD2vgfttWziF7PGHZkLZoywyiDtKgAfdl

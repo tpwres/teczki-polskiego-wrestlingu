@@ -61,7 +61,7 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
 
 ## References
 
-* Cagematch event pages - [day 1](https://www.cagematch.net/?id=1&nr=428136), [day 2](https://www.cagematch.net/?id=1&nr=428741)
+* Cagematch event pages - [day 1](https://www.cagematch.net/r/?id=1&nr=428136), [day 2](https://www.cagematch.net/r/?id=1&nr=428741)
 * [Announcement post](https://www.facebook.com/photo/?fbid=1246774540140902&set=a.734451078039920)
 * [Facebook reel: Biesiad vs Sambor](https://www.facebook.com/reel/731351469459974)
 * [Facebook reel: El Ogre vs Oskar Alexander](https://www.facebook.com/reel/504039896128850)

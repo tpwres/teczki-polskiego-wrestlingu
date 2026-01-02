@@ -39,4 +39,4 @@ Sam Rogers made his debut in [Prime Time Wrestling](@/o/ptw.md) in July 2023 whe
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27918&name=Sam+Della+Valle)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=27918&name=Sam+Della+Valle)

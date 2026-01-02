@@ -58,6 +58,6 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=383977)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=383977)
 * [Facebook event page](https://www.facebook.com/events/1375270156727790)
 * [PpW's Facebook summary](https://www.facebook.com/OficjalnePPW/posts/pfbid0yBtcocDLLf2mU2ox3FyYjXK7Qem9hws3rW58juZudTEEXjyJG2vCDrQTrWKkywKZl)

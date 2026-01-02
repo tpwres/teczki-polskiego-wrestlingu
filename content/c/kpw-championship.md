@@ -207,7 +207,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) (where the title wasn't
 
 **TOTAL:** 386 days.
 
-Red Scorpion also defended the title outside of Poland: in [October 2023](https://www.cagematch.net/?id=1&nr=377603) against James Mason, and in [March 2024](https://www.cagematch.net/?id=1&nr=391319) against Liam Slater.
+Red Scorpion also defended the title outside of Poland: in [October 2023](https://www.cagematch.net/r/?id=1&nr=377603) against James Mason, and in [March 2024](https://www.cagematch.net/r/?id=1&nr=391319) against Liam Slater.
 Both defenses took place during events held by Bologna Wrestling Team.
 
 ### Champion #7: Hans Schulte

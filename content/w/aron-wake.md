@@ -92,6 +92,6 @@ At [LoW vol.2](@/e/low/2025-04-06-low-2.md) Aron took part in Fatal Five-Way Mat
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24640)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24640)
 
 [wywiad-istota]: https://www.youtube.com/watch?v=PfHPG9FUr7Y

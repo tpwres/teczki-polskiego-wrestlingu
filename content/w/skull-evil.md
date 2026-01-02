@@ -41,4 +41,4 @@ Skull Evil made his debut in [Kombat Pro Wrestling](@/o/kpw.md) at [Pyrkon 2025]
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24028)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24028)

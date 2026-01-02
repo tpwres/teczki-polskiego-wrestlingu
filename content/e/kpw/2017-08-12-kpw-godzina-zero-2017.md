@@ -70,7 +70,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=179976)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=179976)
 * [KPW Kombat TV S2E7](https://www.youtube.com/watch?v=I_7z9YYUPho), covers Greg vs Fynn
 * [Facebook event page](https://www.facebook.com/events/130827730847337/)
 * [Coverage by trojmiasto.pl](https://rozrywka.trojmiasto.pl/Niesamowity-klimat-na-gali-wrestlingu-w-Gdyni-n115600.html)

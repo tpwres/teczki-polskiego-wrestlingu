@@ -78,7 +78,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=354592)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=354592)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-12/2pceo/), requires paid subscription
 * [Full event on YouTube](https://www.youtube.com/watch?v=wuatGAUUfPI&t=2682s), free to watch
 * [Facebook event page](https://www.facebook.com/events/642316950792598)

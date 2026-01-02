@@ -58,4 +58,4 @@ In July 2025, Matt Buckna was a surprise contender at the [third Legacy show](@/
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=22061)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=22061)

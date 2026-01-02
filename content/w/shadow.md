@@ -105,5 +105,5 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14724)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14724)
 * [Video: Extreme Hell 2011 - Terry Shadow vs Black Joker](https://www.youtube.com/watch?v=5uRpO2Viqlk), a PXW match

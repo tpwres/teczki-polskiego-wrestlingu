@@ -42,5 +42,5 @@ In 2023 Don Roid appeared at the KPW summer training camp, and [talked to the ca
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=1902)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=1902)
 * [The history of Polish wrestling, part 2](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) (in Polish)

@@ -96,7 +96,7 @@ On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19626)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19626)
 * [Video: 10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning Greg's promos (in Polish)
 * [Video: Umarł król, niech żyje król](https://www.youtube.com/watch?v=D3v7UD5DE_E) - fragments of Godzina Zero 2019 highlighting Greg's betrayal of Piękny Kawaler and his ascension to self-proclaimed papacy (in Polish). See the [recap](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#aftermath) for details.
 

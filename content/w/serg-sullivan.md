@@ -48,6 +48,6 @@ This heated up their rivalry, leading to a huge brawl after Shida's match at [Pr
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=11741)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=11741)
 
 [wrestling-moscow]: https://wrestling.moscow

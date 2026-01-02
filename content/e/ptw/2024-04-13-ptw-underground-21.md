@@ -128,7 +128,7 @@ Pawłowski closes the show, announcing next shows, plugging the lottery and ment
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=392737)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=392737)
 * [Full event on YouTube](https://www.youtube.com/watch?v=C0bImqUq3HA), requires paid subscription
 * [Facebook announcement post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02XT8mW3mkkJEtQQm4EkU2Z6f2dBv9RsXGfcKtQNGVFUzqW7NtY2DMxnT1PyxUyXqTl)
 * [Full card posted](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0vTbN3aRNucJBWmRFLS1fYmSNr5qKHuU1rqbp7h3Mav7dhiD72uxsQTpXuybbkH2Wl)

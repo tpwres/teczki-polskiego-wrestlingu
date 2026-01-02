@@ -54,4 +54,4 @@ This marked Joe E. Legend's last appearance in PTW (and Poland) to date.
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=226)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=226)

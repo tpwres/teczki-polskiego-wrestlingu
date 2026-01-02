@@ -49,4 +49,4 @@ At [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) he returned once m
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19035)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19035)

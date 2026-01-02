@@ -65,7 +65,7 @@ In June 2025 Erik made his debut for [Maniac Zone Wrestling](@/o/mzw.md), where 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=27518)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=27518)
 * [PTW confirms Šlotíř's departure in a Facebook comment](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0EtinH8uSMwm67BR4ji5Pr3VmFzpK9e2txKTuda6QqyEmQcxYd1o29SzUAABnowQJl?comment_id=2058644111321986&reply_comment_id=635351272208635)
 * [Erik Šlotíř's debut in VcV, March 2023](https://www.instagram.com/p/CqYiAFzsVf2/?img_index=1)
 

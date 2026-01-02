@@ -56,5 +56,5 @@ Ledwo Legalne III (_Barely Legal III_) was a show by [PpW Ewenement Wrestling](@
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=382939)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=382939)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/ledwo-legalne-3-23-full-show-definitive-edition) (requires paid subscription)

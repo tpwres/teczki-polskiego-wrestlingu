@@ -55,7 +55,7 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=367305)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=367305)
 * [Full event on YouTube](https://www.youtube.com/watch?v=vFknTT_bV4o), requires paid subscription
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/ptw-underground-16/2pdk9/), requires paid subscription
 * [The baptism segment on YouTube](https://www.youtube.com/watch?v=5wJm0wZJoko)

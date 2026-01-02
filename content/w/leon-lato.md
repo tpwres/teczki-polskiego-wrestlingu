@@ -63,4 +63,4 @@ In 2024 Leon made his first handful of appearances outside of Poland. He worked 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26065)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=26065)

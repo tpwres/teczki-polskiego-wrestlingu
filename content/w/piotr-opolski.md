@@ -69,4 +69,4 @@ For 2.5 years Piotr Opolski wasn't seen at KPW in any capacity, until he made a 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25655&name=Piotr+Opolski)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25655&name=Piotr+Opolski)

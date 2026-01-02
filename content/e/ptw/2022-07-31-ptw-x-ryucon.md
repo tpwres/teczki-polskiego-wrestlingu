@@ -54,7 +54,7 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=346589)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=346589)
 * [Video recap by Kto Pytał?](https://www.youtube.com/watch?v=cnhTKPqQHg4)
 * [PTW's highlights video](https://www.youtube.com/watch?v=dHyPlu3scNs)
 * [PTW's Facebook post with results](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02LqWm9jDNp18Bb4rMED5fpwZuQQXeRoWpDFC9vXVSa4BsbEGoBGY12Zd1xy6yHfq2l)

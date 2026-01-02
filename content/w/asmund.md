@@ -58,4 +58,4 @@ Between 2017 and 2019 Asmund made a few appearances for Hungarian Pro Wrestling 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6264)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=6264)

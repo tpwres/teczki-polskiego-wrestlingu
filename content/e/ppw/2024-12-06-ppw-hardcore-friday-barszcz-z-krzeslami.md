@@ -142,7 +142,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=410896)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=410896)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-hardcore-friday-barszcz-z-krzeslami-24-full-show) (requires paid subscription)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
 * [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=z__9iGCKsJE)

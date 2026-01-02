@@ -31,6 +31,6 @@ Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling s
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322477)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322477)
 * [Full episode on YouTube](https://youtu.be/nNkw2gdrWa4)
 * [Playlist of all episodes](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8gOYpibA7twIBHV7w3iyLB2)

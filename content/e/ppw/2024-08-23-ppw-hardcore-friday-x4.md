@@ -51,7 +51,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=402615)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=402615)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-x4-full-show-23-08-24) (requires paid subscription)
 * [Facebook post announcing the new date](https://www.facebook.com/share/p/Gh8cCdYZaMrbfqy4/)
 

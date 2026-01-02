@@ -133,4 +133,4 @@ From 2023 onwards Gustav started making numerous appearances at international wr
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29108)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=29108)

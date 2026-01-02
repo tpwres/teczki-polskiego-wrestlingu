@@ -46,4 +46,4 @@ toclevel = 2
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=252578)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=252578)

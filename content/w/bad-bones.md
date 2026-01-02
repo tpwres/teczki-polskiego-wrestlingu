@@ -63,4 +63,4 @@ This marked Bad Bones's final appearance for PTW. Not long after, on May 20th, J
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=2432)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=2432)

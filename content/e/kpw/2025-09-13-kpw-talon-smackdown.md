@@ -63,7 +63,7 @@ Attendance: ca. 350 (source: Cagematch)
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=434839)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=434839)
 * [Video: event highlights](https://www.youtube.com/watch?v=uHPCL1g5nL0)
 * [Post on KPW's Facebook](https://www.facebook.com/kpwrestling/videos/2546203972402910)
 * [Results on KPW's Facebook](https://www.facebook.com/kpwrestling/posts/pfbid07wCQeqXmMLpXYmRBarHohJA9dKzLUcKpuGa6nHcGEUjdmZXRYU95yiTDcuiAdMn4l)

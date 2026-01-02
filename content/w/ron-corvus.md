@@ -52,4 +52,4 @@ Corvus held his title for less than a year before losing it to [Robert Star](@/w
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15074)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=15074)

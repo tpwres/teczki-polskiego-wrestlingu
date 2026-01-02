@@ -75,7 +75,7 @@ Turniej TypeShit (_Tournament-Type Shit_) was a show by [PpW Ewenement Wrestling
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=428439)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=428439)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-type-shit-cup-05-07-25-07-05-2025-20-31-52) (requires paid subscription)
 
 [name]: https://context.reverso.net/translation/english-polish/type+shit

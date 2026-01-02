@@ -61,4 +61,4 @@ Sawicki was seen at training sessions in [PTW Academy](@/o/ptw-academy.md) back 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19711)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19711)

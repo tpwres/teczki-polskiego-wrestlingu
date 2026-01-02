@@ -74,4 +74,4 @@ In 2019 Rafael made a one-off appearance for Next Step Wrestling in Germany, whe
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24692)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24692)

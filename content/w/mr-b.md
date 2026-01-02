@@ -31,4 +31,4 @@ Mr B. started his career in Głuchołazy-based [Maniac Zone Wrestling](@/o/mzw.m
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24691)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24691)

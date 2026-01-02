@@ -44,5 +44,5 @@ After that show Hexia retired from in-ring competition, but remained with the or
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24689)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24689)
 * [Super Express article about Akira's in-ring incident](https://www.se.pl/wiadomosci/polska/tragedia-na-zawodach-sportowych-nie-zyje-piekna-16-latka-aa-e3Eb-WGbB-uRLR.html)

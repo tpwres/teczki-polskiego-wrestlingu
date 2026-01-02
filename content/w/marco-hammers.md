@@ -137,7 +137,7 @@ Marco started taking international bookings in 2022. That year he made a few app
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26808)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=26808)
 * [Interview with "Marco Hardy"](https://www.instagram.com/reel/DMYA9Z0oWrW/)
 
 [legia-warszawa]: https://en.wikipedia.org/wiki/Legia_Warsaw

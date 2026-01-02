@@ -35,7 +35,7 @@ Attendance: estimated about 300
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=168203)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=168203)
 * [Promo video by Columbus](https://youtu.be/appRB3SR-f0)
 
 [wosp]: https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity

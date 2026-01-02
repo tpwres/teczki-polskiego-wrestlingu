@@ -31,4 +31,4 @@ This marked his last appearance for Maniac Zone Wrestling, as he retired from pr
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=20384)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=20384)

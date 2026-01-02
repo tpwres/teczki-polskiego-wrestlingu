@@ -42,7 +42,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=339569)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=339569)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-4-pl/2pb6t/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0LjWVSGt8rsJv7KKzP7P2zQicyy1F7J7QPPHNUm4GPJTkG1jazu6rBru5xrPJVJfHl)
 * [Facebook post with live streaming details](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid098SuDET7KXPW8Qnvtu5FXroWzBERabJMPT5mnXKcfaaM3kJ32tbA5HQVJ8ETYgS2l)

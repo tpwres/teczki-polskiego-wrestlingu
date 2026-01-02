@@ -84,7 +84,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=433050)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=433050)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-wjazd-na-rewir-24-10-2025-10-24-2025-20-50-38) (requires paid subscription)
 * [Facebook post announcing the event][w-breslau-bedziem]
 

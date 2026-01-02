@@ -83,7 +83,7 @@ Boski 2.0, along with numerous other ex-KPW wrestlers, joined a new federation c
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19737)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=19737)
 
 [arena-1]: @/e/kpw/2016-02-27-kpw-arena-1.md
 [gz16]: @/e/kpw/2016-08-13-kpw-godzina-zero-2016.md

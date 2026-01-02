@@ -46,4 +46,4 @@ Rogers returned to KPW in May 2023 at [Arena 22](@/e/kpw/2023-05-19-kpw-arena-22
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29957)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=29957)

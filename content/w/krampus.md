@@ -61,6 +61,6 @@ They even promoted their own PTW:WWA Championship and PTW:WWA Tag Team Champions
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=11489)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=11489)
 
 [wiki-krampus]: https://en.wikipedia.org/wiki/Krampus

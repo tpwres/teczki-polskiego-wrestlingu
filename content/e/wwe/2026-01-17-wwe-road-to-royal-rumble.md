@@ -43,7 +43,7 @@ Independently, but driven by the bigger show's influence and fan interest, two P
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=434489)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=434489)
 * [Announcement on WWE.com](https://www.wwe.com/event/road-to-royal-rumble-5)
 * [Event card as per LiveNation](https://www.facebook.com/reel/2076026209880438)
 

@@ -117,7 +117,7 @@ Attendance: ca. 300 (source: Cagematch)
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=429370)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=429370)
 * [Video: rookies address Krystian Malinowski][młodzi-wilcy]
 * [Video: Malinowski's response][malinowski-odpowiada]
 * [Video: David Oliwa and Ricky Sky address Bracia Fux][motywacja-oliwy]

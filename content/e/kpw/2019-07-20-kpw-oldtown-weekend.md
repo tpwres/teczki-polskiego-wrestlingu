@@ -29,6 +29,6 @@ Following [OldTown 4](@/e/kpw/2019-07-13-kpw-oldtown-4.md) a week prior, KPW ret
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=319862)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=319862)
 * [KPW's event page](https://kpwrestling.pl/events/OldTown-Weekend/)
 * [Results on KPW's Facebook](https://www.facebook.com/kpwrestling/posts/pfbid028GyhhXdLLYLKPEUWeFYWtA6bx8ZPDH8LssxwCYhUK1ir7dBPCjpMvCsR66tSxqwXl)

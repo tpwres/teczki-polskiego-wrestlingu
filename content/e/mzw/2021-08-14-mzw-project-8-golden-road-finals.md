@@ -53,4 +53,4 @@ MZW Project 8 was announced on 29.02.2020, set to take place on 25.04.2020. A fe
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=322479)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=322479)

@@ -120,7 +120,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 
 ## References
 
-* [KPW on CageMatch](https://www.cagematch.net/?id=8&nr=1747)
+* [KPW on CageMatch](https://www.cagematch.net/r/?id=8&nr=1747)
 * [Video: Top 10 moments of KPW](https://www.youtube.com/watch?v=NeyUetRatMU) by What Is Wrestling
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
 * [10 behind-the-scenes interesting facts about KPW](https://www.youtube.com/watch?v=sb831M7cs4I), a video by [Piękny Kawaler](@/w/piekny-kawaler.md) mentioning White Eagle Wrestling (in Polish)

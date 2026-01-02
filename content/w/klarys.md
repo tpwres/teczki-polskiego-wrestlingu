@@ -38,4 +38,4 @@ In 2012 and 2014 Klarys made two trips to Hungarian Championship Wrestling (HCW)
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=10430)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=10430)

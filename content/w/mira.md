@@ -74,5 +74,5 @@ In 2012 and 2014 Mira wrestled two matches for Hungarian Championship Wrestling 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=16119)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=16119)
 * [Interview by trojmiasto.pl](https://rozrywka.trojmiasto.pl/Dziewczyna-z-ringu-o-golebim-sercu-n110167.html), in Polish

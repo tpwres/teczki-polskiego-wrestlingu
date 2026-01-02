@@ -46,5 +46,5 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=412026)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=412026)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)

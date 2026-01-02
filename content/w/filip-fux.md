@@ -88,5 +88,5 @@ From 2023 onwards Filip started to secure international bookings for himself. He
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25696)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25696)
 * [Filip's talk at the University of Gdańsk Film Centre](https://www.youtube.com/watch?v=FcJ_OQbmbUw), following a screening of [The Iron Claw](https://en.wikipedia.org/wiki/The_Iron_Claw_(film)) on 17.01.2025 (in Polish).

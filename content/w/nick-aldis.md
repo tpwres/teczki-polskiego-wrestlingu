@@ -45,4 +45,4 @@ BlackOut marked the last appearance of Nick Aldis in Prime Time Wrestling. When 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=5123)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=5123)

@@ -78,7 +78,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=385513)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=385513)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/miasto-bezprawia-24-lawless-edition) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=U6YINKeich4)
 * [Facebook event page](https://www.facebook.com/events/1379486012929934)

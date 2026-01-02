@@ -46,4 +46,4 @@ After over eight years of inactivity on the Polish wrestling scene, Dover - alon
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=13965)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=13965)

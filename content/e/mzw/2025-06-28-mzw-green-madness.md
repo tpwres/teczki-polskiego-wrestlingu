@@ -77,7 +77,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=425355)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=425355)
 * [Announcement post on Facebook](https://www.facebook.com/photo/?fbid=1096604642497925&set=a.548442050647523)
 * [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=UBdHNIIgj-I)
 

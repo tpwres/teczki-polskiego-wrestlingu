@@ -58,7 +58,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=192262). Note that the rumble participants list is different. This version is based on the video linked below.
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=192262). Note that the rumble participants list is different. This version is based on the video linked below.
 * Full Royal Rumble match, [part 1](https://www.youtube.com/watch?v=KLp-Ub3MGDo) and [part 2](https://www.youtube.com/watch?v=DS118G4KnhM)
 * [Facebook post with photos](https://www.facebook.com/ManiacZoneWrestling/posts/1204544136356477/)
 * [Triple Threat match finale](https://www.instagram.com/stanimania/p/Bd-AHC1B1Ia/) on Dobroniak's Instagram

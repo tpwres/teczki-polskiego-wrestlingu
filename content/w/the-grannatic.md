@@ -41,4 +41,4 @@ The Grannatic was able to perform for MZW mostly due to friendly relations betwe
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=7551)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=7551)

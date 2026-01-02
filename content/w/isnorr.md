@@ -90,4 +90,4 @@ At [Teraz Albo Nigdy](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Isnorr entered 
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24690)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24690)

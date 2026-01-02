@@ -45,4 +45,4 @@ Kovac returned to the Polish wrestling scene once more, after over a decade in A
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=146)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=146)

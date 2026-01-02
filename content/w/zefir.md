@@ -75,4 +75,4 @@ During the closing segment of Arena XXX - the celebration of KPW's 10th annivers
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25587)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=25587)

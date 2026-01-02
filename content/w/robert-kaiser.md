@@ -37,6 +37,6 @@ On 15.02.2025 [MZW announced][robert-kaiser-returns] that Robert Kaiser would re
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=12250)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=12250)
 
 [robert-kaiser-returns]:https://www.facebook.com/photo/?fbid=1039386298219760&set=a.548442053980856

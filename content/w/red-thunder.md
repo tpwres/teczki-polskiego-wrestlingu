@@ -63,4 +63,4 @@ Shortly thereafter, Red Thunder aligned himself with a mysterious manager - Colu
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14968)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=14968)

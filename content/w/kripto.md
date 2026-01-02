@@ -32,4 +32,4 @@ His most important match was also his last one in Maniac Zone Wrestling. As a te
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24868)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=24868)

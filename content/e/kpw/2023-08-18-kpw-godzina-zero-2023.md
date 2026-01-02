@@ -75,7 +75,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=373499)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=373499)
 * [Facebook event page](https://www.facebook.com/events/204635299214755/)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2023/)
 * [Full event on YouTube](https://www.youtube.com/watch?v=8N2t_SQcBGY)

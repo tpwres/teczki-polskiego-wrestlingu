@@ -56,6 +56,6 @@ On 17.10.2025 he was [announced][seminar] for a seminar on November 3th, mainly 
   
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=3689)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=3689)
 
 [seminar]: https://www.facebook.com/events/4026337867610745/

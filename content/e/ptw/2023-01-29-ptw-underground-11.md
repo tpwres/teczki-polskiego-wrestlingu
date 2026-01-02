@@ -44,6 +44,6 @@ This was the first appearance of Aigle Blanc for PTW, and the second for Senza V
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=358862)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=358862)
 * [Full event on FITE/Triller](https://www.trillertv.com/watch/kinguin-ptw-underground-11/2pcen/), requires paid subscription
 * [Facebook results post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid01ExvLYwtrpoPcbmqFNt1Tr8ZK8dbzftAzSCn6KBzVPjNkDsTrkJEnpFKBmT5gEPWl)

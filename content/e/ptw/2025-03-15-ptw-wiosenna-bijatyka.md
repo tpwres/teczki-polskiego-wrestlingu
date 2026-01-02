@@ -69,7 +69,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=421707)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=421707)
 
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/
 [fb-results]: https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410

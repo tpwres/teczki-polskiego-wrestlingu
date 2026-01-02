@@ -89,7 +89,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=426947)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=426947)
 * [Facebook post hyping the show](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1237806764590970)
 
 [zloto]: https://en.wikipedia.org/wiki/Kelly%27s_Heroes

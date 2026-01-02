@@ -39,4 +39,4 @@ Since then, Asara's been returning approximately once every following year, faci
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29872)
+* [Cagematch profile page](https://www.cagematch.net/r/?id=2&nr=29872)

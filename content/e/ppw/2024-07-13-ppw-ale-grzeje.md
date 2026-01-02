@@ -72,7 +72,7 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
 
 ## References
 
-* [Cagematch event page](https://www.cagematch.net/?id=1&nr=397548)
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=397548)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ale-grzeje-24-full-show-defenitive) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=UEQkSKMekCs&t=14480s) (at the 4:01:18 mark Michael HT announces the next show)
 * [Facebook announcement post](https://www.facebook.com/photo/?fbid=976634991133560&set=a.499910772139320)
