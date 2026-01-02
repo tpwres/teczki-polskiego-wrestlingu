@@ -83,7 +83,7 @@ Despite their best efforts, Rodzina once again prevailed. Queen managed to get b
 
 Gabriel joined [Legacy of Wrestling](@/o/low.md), appearing at their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md).
 At their second show he challenged Axel Fox in a Road To The Title Match, but lost. This forced him to plea with LoW's management for one more chance to pursue the upcoming Legacy Championship.
-Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
+Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md). At the [fourth show](@/e/low/2025-12-20-low-4.md) he took part in the Six-Man Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md), but was eliminated halfway through the fight.
 
 ## International wrestling appearances
 
@@ -105,7 +105,7 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
   - [Isnorr](@/w/isnorr.md) (2021)
 * Entrance music:
   - "Absolutely Anything" by CG5 & OR3O
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
     {{ music(yt='XsnWgZggi-4')}}
     {{ music(spot='30nwxUmOXvcwA1U84BqowT')}}
     {{ music(apple='1490598362?i=1490598731')}}
