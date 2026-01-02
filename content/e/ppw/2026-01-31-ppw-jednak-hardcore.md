@@ -36,6 +36,7 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=442799)
 * [Facebook post announcing the event][lysy-hardcore]
 
 [lysy-hardcore]: https://www.facebook.com/OficjalnePPW/posts/pfbid035oyuE5bB6yqUx3XwrKjjRaYrZayFxPv1QMYWgvxjVX62Fe5Axpd4mHifWTYx9Lgl
