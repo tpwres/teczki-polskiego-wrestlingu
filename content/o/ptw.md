@@ -11,7 +11,7 @@ toclevel = 3
 manifest = "@/o/ptw-gallery.toml"
 +++
 
-Prime Time Wrestling is a Polish wrestling organisation founded in 2021 in Silesia. Initially operating at Chorzów, PTW later moved to a nearby village of Kozłów.
+Prime Time Wrestling is a Polish wrestling organisation founded in 2021 in Silesia. Initially operating in Chorzów, PTW later moved to a nearby village of Kozłów.
 
 ## History
 
