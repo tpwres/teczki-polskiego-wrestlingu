@@ -39,7 +39,7 @@ toclevel = 2
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Łukasz Okoński announces Miyagi Sigma #1 Tag Team Contenders Match, gets interrpunted by Pawłowski.
 - - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - 'Drop &amp; Bump: Dropper & Bumper'
+  - 'Drop \u0026 Bump: Dropper & Bumper'
   - '[Blaze](@/w/blaze.md) & Bart Petro'
   - s: Triple Threat Tag Team Match
 - - '[Damian Lambert](@/w/damien-rothschild.md)'
