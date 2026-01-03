@@ -39,7 +39,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
   - 'Jarek Nowak'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - '[King Kaiden](@/w/king-kaiden.md)'
-  - g: Brave complains about everything, Nowak agrees with him, Pawłowski promises Nowak a chance to become contracted wrestler by defeating King Kaiden, Kaiden disposes of Nowak with a single Powerbomb.
+  - g: Brave complains about the fans; Pawłowski promises Nowak a chance to become contracted wrestler.
 - - '[Dziedzic](@/w/dziedzic.md)'
   - '[King Kaiden](@/w/king-kaiden.md)'
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
