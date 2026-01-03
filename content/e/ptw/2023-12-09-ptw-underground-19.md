@@ -34,6 +34,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)' 
   - 'Ville'
   - g: Pawłowski gives a birthday gift to a fan from Finland.
+    x: [2] # Exclude Ville from talent list (sorry, dude!)
 - - '[Alex Brave](@/w/alex-brave.md)'
   - 'Jarek Nowak'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
