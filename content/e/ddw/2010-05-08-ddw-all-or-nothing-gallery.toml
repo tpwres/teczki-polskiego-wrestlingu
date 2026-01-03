@@ -22,10 +22,10 @@
 27 = { path = "kamil-aleksander.webp", caption = "Kamil Aleksander.", source = "Jędruś Bułecka's private archives" }
 28 = { path = "joe-legend.webp", caption = "Joe Legend.", source = "Jędruś Bułecka's private archives" }
 29 = { path = "jedrus-bulecka.webp", caption = "Jędruś Bułecka.", source = "Jędruś Bułecka's private archives" }
-
-30 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+30 = { path = "double-elimination.webp", caption = "Jon Hammer eliminates The Greatest and himself.", source = "Jędruś Bułecka's private archives" }
 
 31 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+
 32 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
 33 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
 34 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
