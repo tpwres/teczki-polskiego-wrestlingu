@@ -8,6 +8,9 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+[extra.gallery]
+1 = { path = "underground-19-poster.webp", caption = "Official poster. Left to right: [Gabriel Queen](@/w/gabriel-queen.md), [Sinister](@/w/sinister.md), [Krampus](@/w/krampus.md), ??? & ???.", source = "Official PTW Facebook" }
+2 = { path = "ville.webp", caption = "A fan receives a birthday gift from [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW YouTube" }
 +++
 
 PTW Underground 19 was part of a two-show weekend, held on December 9-10 in PTW Performance Center in Chorzów. Fans saw the debut of new character Sambor, while [Diana Strong](@/w/diana-strong.md) faced 18-year old British wrestler Violet Nyte.
@@ -28,6 +31,15 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
   - g: true
 - - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Marcelito](@/w/marcelito.md)'
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)' 
+  - 'Ville'
+  - g: Pawłowski gives a birthday gift to a fan from Finland.
+    x: [2] # Exclude Ville from talent list (sorry, dude!)
+- - '[Alex Brave](@/w/alex-brave.md)'
+  - 'Jarek Nowak'
+  - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - '[King Kaiden](@/w/king-kaiden.md)'
+  - g: Brave complains about the fans; Pawłowski promises Nowak a chance to become contracted wrestler.
 - - '[Dziedzic](@/w/dziedzic.md)'
   - '[King Kaiden](@/w/king-kaiden.md)'
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
