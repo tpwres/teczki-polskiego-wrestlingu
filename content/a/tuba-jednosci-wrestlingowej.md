@@ -77,8 +77,8 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 
 ## Signatures on the second tube
 
-- [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
 - [Adrian Zgórski](@/w/adrian-zgorski.md)
+- [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
 - [Antoni Ocean](@/w/antoni-ocean.md)
 - [Boro](@/w/boro.md)
 - [Hexia](@/w/hexia.md)
@@ -86,7 +86,7 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Joker](@/w/joker.md)
 - [Marcelito](@/w/marcelito.md)
 - [Max Speed](@/w/max-speed.md)
-- [Tony Sheen](@/w/riverman.md) (signed as "Riverman")
 - [ShowOff](@/w/piotr-malecki.md)
 - [Taras](@/w/taras.md)
+- [Tony Sheen](@/w/riverman.md) (signed as "Riverman")
 - [Vic Golden](@/w/vic-golden.md)
