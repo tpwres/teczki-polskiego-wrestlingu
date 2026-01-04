@@ -58,6 +58,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=442798)
 * [Facebook post announcing the event][w-gdyni-bydziem]
 
 [w-gdyni-bydziem]: https://www.facebook.com/OficjalnePPW/posts/pfbid0AomeiWwNtZ3ozaPyWCfyYyviuFPjm7Z8ZxnXrwyGgaX4i9q2qHnze4thAUeCz8Y6l
