@@ -16,7 +16,7 @@ toclevel = 2
 
 ## Build up
 
-* TDD
+* TBD
 
 {{ skip_card() }}
 
