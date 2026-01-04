@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-"Nowa Fala" (_New Wave_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced in a [Facebook post][nowe-gale], alongside [World Cup](@/e/2026-02-21-ptw-world-cup.md).
+"Nowa Fala" (_New Wave_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced in a [Facebook post][nowe-gale], alongside [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md).
 
 
 ## Build up
