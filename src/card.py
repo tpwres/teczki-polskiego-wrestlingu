@@ -236,7 +236,7 @@ class Match:
     def parse_partners(cls, partners: list[str]) -> Iterable[Union[Participant, Team]]:
         return [t for p in partners if (t := cls.parse_maybe_team(p))]
 
-    plain_name_re = r"[-.'\w\s]+"
+    plain_name_re = r"[-.'&\w\s]+"
     team_link_re = rf'''
         \[(?P<label>{plain_name_re})\] # Square brackets surround link text
         \((?P<target>.*?)\) # Then, parentheses surround link target
