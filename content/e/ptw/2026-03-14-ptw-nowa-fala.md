@@ -1,5 +1,5 @@
 +++
-title = "PTW: New Wave"
+title = "PTW: Nowa Fala"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
