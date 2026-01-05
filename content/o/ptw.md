@@ -102,7 +102,7 @@ That event was followed by [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.
 
 #### Pawłowski's solo run
 
-On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole owner. Breaking kayfabe (a recent storyline from [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind [Bad Bones](@/w/bad-bones.md) and [Longman](@/w/wiktor-longman.md) shenanigans), he wished his former partner, and everyone in PTW, the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
+On Monday, March 11th, 2024, PTW's co-owner Marcin "Rzeźnik" Rzeźniczek officially confirmed on his social media that he'd left PTW and Pawłowski remains the sole owner. Breaking kayfabe (a recent storyline from [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind [Bad Bones](@/w/bad-bones.md) and [Longman](@/w/wiktor-longman.md) shenanigans), he wished his former partner, and everyone in PTW, the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
 
 #### New YouTube show: "Gruby temat"
 
@@ -113,7 +113,7 @@ The format of this show was mostly an interview with the guest, including questi
 
 #### The lottery
 
-At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2012 Nissan GTR car, the grand prize to be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase e-books, which came with a free ticket. These e-books were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 17 pages), including results from PTW shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets. The car was claimed to be worth 600.000&nbsp;PLN, or about 140.000&nbsp;EUR, 166.000&nbsp;USD or 123.000&nbsp;GBP at the time.
+At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2012 Nissan GTR car, the grand prize to be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase e-books, which came with free tickets. These e-books were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 17 pages), including results from PTW shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets. The car was claimed to be worth 600.000&nbsp;PLN, or about 140.000&nbsp;EUR, 166.000&nbsp;USD or 123.000&nbsp;GBP at the time.
 
 In the following months leading to [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), Pawłowski promoted the lottery heavily on social media and in collaboration with various online personalities, most of whom had no prior connection with wrestling; one such personality was Ludwiczek, the co-host of Gruby Temat at that time.
 Immediately after Underground 21, PTW's social media accounts continued to focus solely on the lottery, while promoting the next major show took a distant second place, restricted to revealing the card in a series of posts.
