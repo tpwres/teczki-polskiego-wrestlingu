@@ -46,9 +46,9 @@ This show had even more starpower than Revolucja, featuring debuts of well-known
 Over the course of the year, PTW continued its steady pace, presenting the monthly Underground shows, and debuting at [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), a manga-themed fan convention in Kraków.
 The third major show, [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), was the first one to be held outside Chorzów, in Warsaw.
 Among other notable moments, it featured the first PTW women's match (outside the exclusive Underground shows), where [Diana Strong](@/w/diana-strong.md) competed against two former NXT-UK wrestlers, Xia Brookside and Myla Grace.
-Also at this show, the IMPACT Digital Media Championship was defended, and [Santino](@/w/santino.md) was named the kayfabe co-owner of PTW, leading to a long-standing feud between Bad Bones & Longman vs Pawłowski.
+Also at this show, the IMPACT Digital Media Championship was defended, and [Santino](@/w/santino.md) was named the kayfabe co-owner of PTW, leading to a long-standing feud between Bad Bones & [Longman](@/w/wiktor-longman.md) vs Pawłowski.
 This show became part of a double-header weekend: on the day before, Warsaw's [PpW Ewenement](@/o/ppw.md) hosted their own event,
-named [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) (_The Best Event In Town_). This was seen as PpW playfully taking potshots at the rival organization.
+named [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) (_The Best Show in Town_). This was seen as PpW playfully taking potshots at the rival organization.
 _Legends_ closed 2022 as PTW's last show of such ambition and scale, until 2024's [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 
 ### 2023
