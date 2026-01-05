@@ -159,13 +159,13 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawł
 
 #### Soft reboot: Ryucon, new co-owner
 
-Breaking the silence, Pawłowski promised that the [Ryucon show](@/e/ptw/2024-07-07-ptw-x-ryucon.md) would be a new opening for PTW.
+Breaking the silence, Pawłowski promised that the [Ryucon show](@/e/ptw/2024-07-07-ptw-x-ryucon.md) would be a new beginning for PTW.
 The non-televised event included many new faces, both from [PTW Academy](@/o/ptw-academy.md) and foreign free agents.
 During the show, [Łukasz Okoński](@/w/lukasz-okonski.md), the owner of [Dworek Pod Platanem](@/v/dworek-kozlow.md) where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) was held, was announced as PTW's new co-owner.
 This change was not reflected in official registration documents (as of August 21, 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
 Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media. Renamed Łukasz "Prezes" Okoński, he gradually increased his presence, appearing on virtually every show and taking part in segments.
 
-On August 14, 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [web page][czas-na-wrestling]. The first episode featured a panel where Pawłowski led the discussion with two guests: Łukasz Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
+On August 14, 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW-related topics and plugging future shows. Some of the episodes are hosted by TVT on their [web page][czas-na-wrestling]. The first episode featured a panel where Pawłowski led the discussion with two guests: Łukasz Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
 
 #### Post-Ryucon: New venue, PTW back on track
 
