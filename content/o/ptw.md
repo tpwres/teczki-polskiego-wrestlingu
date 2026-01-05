@@ -69,7 +69,7 @@ After closing 2022 with Legends, PTW continued to hold Underground shows.
 Throughout the first half of the year, they continued at a monthly pace (except for January, which saw a double-header Underground weekend).
 On June 25th in Wrocław, PTW held their 4th major show overall and the only one for 2023 - [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md).
 This event saw the crowning of [PAKA](@/tt/paka.md) as the inaugural PTW Tag Team Champions, a storyline involving [Bad Bones](@/w/bad-bones.md) kidnapping Marcin Rzeźniczek, and the formation of what would later become [The Sinister Kingdom](@/tt/sinister-kingdom.md).
-Foreign starpower was significantly lower than in previous major shows, presumably due to titular sponsor dropping out.
+Foreign starpower was significantly lower than at previous major shows, presumably due to the titular sponsor dropping out.
 This was also the first major PTW show to be put behind a paywall (the supporter functionality of YouTube; the first fight was available for free), with the live stream dropping out so often that it rendered the show unwatchable.
 All these issues caused a lot of controversy, angering the fans who were demanding refunds - which PTW later granted in the form of free tickets and discounts for PTW's merchandise.
 
@@ -79,7 +79,7 @@ _See also: [PTW Exits: 2023](@/a/ptw-exits.md#2023-mystery)._
 
 After voicing their frustrations on social media, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
 
-In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
+At the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024.
 
 On February 12th, 2024, PTW commentary team member [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
