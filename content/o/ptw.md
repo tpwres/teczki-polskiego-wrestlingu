@@ -123,12 +123,12 @@ The leak was accidentally posted by a WrestleFans newsman Piotr "Sabinq" Gilewsk
 #### The prize draw
 
 On Sunday, May 12th, PTW held the lottery's prize draw on a YouTube live stream.
-Despite PTW's stated goal of providing entertainment for the whole family, this show included controversial guests: Stonoga (a notorious Polish businessman and whistleblower) and the cast of _Królowe Życia_ ("The Queens of Life") reality show, spouting distasteful, sexually-charged jokes.
-The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who called them and why, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet (eventually including the lottery website).
+Despite PTW's stated goal of providing entertainment for the whole family, this show included controversial guests: Zbigniew Stonoga (a notorious Polish businessman and whistleblower) and the cast of _Królowe Życia_ ("The Queens of Life") reality show, spouting distasteful, sexually-charged jokes.
+The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who called them and why, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw live stream quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet, eventually including the lottery website.
 
 #### Crisis following Total Blast From The Past
 
-_Main article: [PTW's 2024 crisis](@/a/ptw-crisis.md)_
+_Main article: [PTW's 2024 crisis](@/a/ptw-crisis.md)._
 
 Between the two major shows in 2024, PTW lost a lot of credibility among wrestling fans, and saw many of its talent leave, dissatisfied with the organization and losing faith in the product.
 This was caused by the failures of their new marketing strategy, seemingly distancing itself from wrestling as the core product, and betting heavily on influencer appeal instead.
@@ -142,8 +142,8 @@ Two weeks later, on a YouTube live stream, commentator [Łukasz Baliński](@/w/l
 
 On May 31st, PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", discussing various backstage topics in a shoot-style interview. This led to rumors of his release just two days later, which was confirmed by Dziedzic announcing his departure from PTW that same week.
 
-After some teasing on his Instagram Stories, Sinister confirmed the speculations as well. On Wednesday, June 5th 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
-Shortly after that, referee Seweryn also confirmed his departure in his Instagram story.
+After some teasing on his Instagram stories, [Sinister](@/w/sinister.md) confirmed the speculations as well. On Wednesday, June 5th, 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
+Shortly after that, [referee Seweryn](@/w/sedzia-seweryn.md) also confirmed his departure in his Instagram story.
 
 On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance", which was an obvious farewell.
 
