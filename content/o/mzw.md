@@ -57,7 +57,7 @@ In September 2023 the two organizations ran a [co-branded event](@/e/mzw/2023-09
 
 This collaboration was unique, as the other two active organizations (KPW and PTW) preferred to be standalone, and saw no value in letting others use their talent. This was true of MZW as well, but the COVID-induced hiatus, followed by the talent drain, may have forced them to reconcider. The cooperation between PpW and MZW opened the Polish forbidden door for good after over a decade of [DDW's](@/o/ddw.md) "exclusivity clause" mentality, and as of 2025, MZW is fully open for booking talent from PpW and [Legacy of Wrestling](@/o/low.md).
 
-According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), plenty of people from PpW and from Toruń trained with MZW. The one condition MZW had was that wrestlers who wanted to work for them could not perform in backyard, but they weren't stopped from appearing in other pro federations. 
+According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), plenty of people from PpW and [DFW](@/o/dfw.md) trained with MZW. The one condition MZW had was that wrestlers who wanted to work for them could not perform in backyard, but they weren't stopped from appearing in other pro federations. 
 
 ## Mainstream media
 
