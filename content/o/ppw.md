@@ -111,6 +111,8 @@ In their backyard era, PpW were always well connected with the other non-profess
 As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization. 
 After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
 
+According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), plenty of people from PpW and [DFW](@/o/dfw.md) trained with MZW. The one condition MZW had was that wrestlers who wanted to work for them could not perform in backyard, but they weren't stopped from appearing in other pro federations. 
+
 ## In media
 
 ### Mainstream
