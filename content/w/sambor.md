@@ -45,7 +45,7 @@ At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Sambor took part
 
 #### Rivalry with luchadors and injury
 
-At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Sambor took on Hungarian luchador Wonder Haze in a Singles Match. He managed to win that bout, but after the show it was revealed that their rivalry was not yet finished. He alligned himself with Marcelito to face Wonder Haze and [Sentinel](@/w/sentinel.md) in a Lucha Rules Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During said match Sambor suffered a serious knee injury, which sidelined him from competing for some time.
+At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Sambor took on Hungarian luchador Wonder Haze in a Singles Match. He managed to win that bout, but after the show it was revealed that their rivalry was not yet finished. He alligned himself with Marcelito to face Wonder Haze and [Sentinel](@/w/sentinel.md) in a Lucha Rules Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During said match Sambor suffered a serious knee injury, which sidelined him from competing until January 2026, when he returned at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md).
 
 ### Legacy of Wrestling (2024-present)
 

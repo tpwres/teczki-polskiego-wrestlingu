@@ -65,7 +65,7 @@ On the 28th December 2024 PpW launched their [official subscription-based VOD][p
 
 At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, further described in a [separate article](@/a/pm-shooter-saga.md).
 
-In Autumn 2025 PpW began a tour of Poland, starting with [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) in Wrocław. At this show the promotion introduced the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
+In Autumn 2025 PpW began a tour of Poland, starting with [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) in Wrocław. At this show the promotion introduced the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). The tour continued with [a show in Gdynia](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), held at the same time as [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) and very close by.
 
 ## Lost lore
 
