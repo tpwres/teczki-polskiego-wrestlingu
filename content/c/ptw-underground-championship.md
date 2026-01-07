@@ -150,7 +150,7 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
 
 **TOTAL:** 119 days.
 
-### Champion #3: "Starboy" Nano Lopez"
+### Champion #3: "Starboy" Nano Lopez
 
 {% free_card() %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
