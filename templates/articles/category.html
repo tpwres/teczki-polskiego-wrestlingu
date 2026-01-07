@@ -6,13 +6,16 @@
 
 {% set term = section.title %}
 {% set category = get_taxonomy_term(kind="category", term=term) %}
-{% set pages = category.pages %}
+{% set sort_by = config.extra.articles.sort_by %}
+{% set sort_reversed = config.extra.articles.reverse %}
+{% set pages = category.pages | sort(attribute=sort_by) %}
+{% if sort_reversed %}{% set pages = pages | reverse %} {% endif %}
 
 {% include "articles/category_list.html" %}
 
 <h2>Articles in category {{ term }}</h2>
 <section class="article-list">
-    {% for page in pages | slice(end=5) %}
+    {% for page in pages %}
     <article>
         {{ articles::cover(article=page) | safe }}
         <div class="blurb">

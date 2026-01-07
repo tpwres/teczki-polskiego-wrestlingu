@@ -2,12 +2,17 @@
 {% import "macros/articles.html" as articles %}
 
 {% block content %}
+  {% set sort_by = config.extra.articles.sort_by %}
+  {% set sort_reversed = config.extra.articles.reverse %}
   {% set categories = get_taxonomy(kind="category") %}
   {% include "articles/category_list.html" %}
   <h2>All articles</h2>
 
   <section class="article-list">
-    {% for page in section.pages %}
+    {% set pages = section.pages %}
+    {% set pages = pages | sort(attribute=sort_by) %}
+    {% if sort_reversed %}{% set pages = pages | reverse %} {% endif %}
+    {% for page in pages %}
       <article>
         {{ articles::cover(article=page) | safe }}
         <div class="blurb">
