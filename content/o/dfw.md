@@ -60,6 +60,8 @@ DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth D
 
 After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school; it later became known that they included [Amisz](@/w/axel-fox.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md). All four then joined MZW, and later PpW. While Revage and Norris have since retired, Amisz and Charlie are still active - the former wrestles for PpW and [Legacy of Wrestling](@/o/low.md), while the latter is one of PpW's referees (and recently, also Legacy's).
 
+According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), multiple people from PpW and DFW trained with MZW. Under one condition: MZW insisted that wrestlers who wanted to work for them could not perform in backyards, but were not stopped from appearing in other pro federations. 
+
 ## Championships
 
 DFW had one singles championship, introduced and awarded at [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md). The inaugural champion was Chris Hunter.

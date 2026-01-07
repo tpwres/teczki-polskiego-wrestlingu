@@ -46,9 +46,9 @@ This show had even more starpower than Revolucja, featuring debuts of well-known
 Over the course of the year, PTW continued its steady pace, presenting the monthly Underground shows, and debuting at [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), a manga-themed fan convention in Kraków.
 The third major show, [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md), was the first one to be held outside Chorzów, in Warsaw.
 Among other notable moments, it featured the first PTW women's match (outside the exclusive Underground shows), where [Diana Strong](@/w/diana-strong.md) competed against two former NXT-UK wrestlers, Xia Brookside and Myla Grace.
-Also at this show, the IMPACT Digital Media Championship was defended, and [Santino](@/w/santino.md) was named the kayfabe co-owner of PTW, leading to a long-standing feud between Bad Bones & Longman vs Pawłowski.
+Also at this show, the IMPACT Digital Media Championship was defended, and [Santino](@/w/santino.md) was named the kayfabe co-owner of PTW, leading to a long-standing feud between Bad Bones & [Longman](@/w/wiktor-longman.md) vs Pawłowski.
 This show became part of a double-header weekend: on the day before, Warsaw's [PpW Ewenement](@/o/ppw.md) hosted their own event,
-named [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) (_The Best Event In Town_). This was seen as PpW playfully taking potshots at the rival organization.
+named [Najlepsza Gala w Mieście](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) (_The Best Show in Town_). This was seen as PpW playfully taking potshots at the rival organization.
 _Legends_ closed 2022 as PTW's last show of such ambition and scale, until 2024's [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
 
 ### 2023
@@ -69,7 +69,7 @@ After closing 2022 with Legends, PTW continued to hold Underground shows.
 Throughout the first half of the year, they continued at a monthly pace (except for January, which saw a double-header Underground weekend).
 On June 25th in Wrocław, PTW held their 4th major show overall and the only one for 2023 - [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md).
 This event saw the crowning of [PAKA](@/tt/paka.md) as the inaugural PTW Tag Team Champions, a storyline involving [Bad Bones](@/w/bad-bones.md) kidnapping Marcin Rzeźniczek, and the formation of what would later become [The Sinister Kingdom](@/tt/sinister-kingdom.md).
-Foreign starpower was significantly lower than in previous major shows, presumably due to titular sponsor dropping out.
+Foreign starpower was significantly lower than at previous major shows, presumably due to the titular sponsor dropping out.
 This was also the first major PTW show to be put behind a paywall (the supporter functionality of YouTube; the first fight was available for free), with the live stream dropping out so often that it rendered the show unwatchable.
 All these issues caused a lot of controversy, angering the fans who were demanding refunds - which PTW later granted in the form of free tickets and discounts for PTW's merchandise.
 
@@ -79,7 +79,7 @@ _See also: [PTW Exits: 2023](@/a/ptw-exits.md#2023-mystery)._
 
 After voicing their frustrations on social media, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
 
-In the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
+At the beginning of 2024, [Vic Golden](@/w/vic-golden.md) was also quietly removed from the roster page.
 [Robert Star's](@/w/robert-star.md) departure went unannounced by the promotion, with his profile removed at some point between January and March 2024.
 
 On February 12th, 2024, PTW commentary team member [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) announced an indefinite leave from PTW, citing burnout as a reason. Gradually, he severed his ties with the organization, first changing his Twitter/X bio entry to "ex-PTW commentator", and becoming increasingly critical towards the promotion.
@@ -102,7 +102,7 @@ That event was followed by [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.
 
 #### Pawłowski's solo run
 
-On Monday, March 11th 2024, Marcin "Rzeźnik" Rzeźniczek, co-owner of PTW, officially confirmed on his social media that he left PTW and Pawłowski remains the sole owner. Breaking kayfabe (a recent storyline from [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind [Bad Bones](@/w/bad-bones.md) and [Longman](@/w/wiktor-longman.md) shenanigans), he wished his former partner, and everyone in PTW, the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
+On Monday, March 11th, 2024, PTW's co-owner Marcin "Rzeźnik" Rzeźniczek officially confirmed on his social media that he'd left PTW and Pawłowski remains the sole owner. Breaking kayfabe (a recent storyline from [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) revealed him as the mastermind behind [Bad Bones](@/w/bad-bones.md) and [Longman](@/w/wiktor-longman.md) shenanigans), he wished his former partner, and everyone in PTW, the best of luck conquering the Polish and world wrestling scenes, and fondly recalled his time in PTW.
 
 #### New YouTube show: "Gruby temat"
 
@@ -113,7 +113,7 @@ The format of this show was mostly an interview with the guest, including questi
 
 #### The lottery
 
-At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2012 Nissan GTR car, the grand prize to be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase e-books, which came with a free ticket. These e-books were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 17 pages), including results from PTW shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets. The car was claimed to be worth 600.000&nbsp;PLN, or about 140.000&nbsp;EUR, 166.000&nbsp;USD or 123.000&nbsp;GBP at the time.
+At the Gold Rush event, Pawłowski revealed a new promotional scheme for PTW: a 2012 Nissan GTR car, the grand prize to be won in a lottery. To circumvent the legal age requirement, lottery tickets were not sold directly. Instead, fans were encouraged to purchase e-books, which came with free tickets. These e-books were short PDF documents (e.g. "[PTW Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md)" at 17 pages), including results from PTW shows, photos and a short narrative. It was apparent that they were not supposed to provide any useful content, but rather serve as a legal means for distributing lottery tickets. The car was claimed to be worth 600.000&nbsp;PLN, or about 140.000&nbsp;EUR, 166.000&nbsp;USD or 123.000&nbsp;GBP at the time.
 
 In the following months leading to [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) and [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), Pawłowski promoted the lottery heavily on social media and in collaboration with various online personalities, most of whom had no prior connection with wrestling; one such personality was Ludwiczek, the co-host of Gruby Temat at that time.
 Immediately after Underground 21, PTW's social media accounts continued to focus solely on the lottery, while promoting the next major show took a distant second place, restricted to revealing the card in a series of posts.
@@ -123,12 +123,12 @@ The leak was accidentally posted by a WrestleFans newsman Piotr "Sabinq" Gilewsk
 #### The prize draw
 
 On Sunday, May 12th, PTW held the lottery's prize draw on a YouTube live stream.
-Despite PTW's stated goal of providing entertainment for the whole family, this show included controversial guests: Stonoga (a notorious Polish businessman and whistleblower) and the cast of _Królowe Życia_ ("The Queens of Life") reality show, spouting distasteful, sexually-charged jokes.
-The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who called them and why, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw show quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet (eventually including the lottery website).
+Despite PTW's stated goal of providing entertainment for the whole family, this show included controversial guests: Zbigniew Stonoga (a notorious Polish businessman and whistleblower) and the cast of _Królowe Życia_ ("The Queens of Life") reality show, spouting distasteful, sexually-charged jokes.
+The lottery's overseeing committee was never shown by the cameras. The lottery failed to achieve its desired goal of popularising PTW - some prize winners, who were called on the phone live as per the lottery's regulations, had no idea who called them and why, and did not recognize the names Pawłowski or PTW. After it was finished, the prize draw live stream quickly went private on YouTube, and other lottery-related materials started to disappear from the Internet, eventually including the lottery website.
 
 #### Crisis following Total Blast From The Past
 
-_Main article: [PTW's 2024 crisis](@/a/ptw-crisis.md)_
+_Main article: [PTW's 2024 crisis](@/a/ptw-crisis.md)._
 
 Between the two major shows in 2024, PTW lost a lot of credibility among wrestling fans, and saw many of its talent leave, dissatisfied with the organization and losing faith in the product.
 This was caused by the failures of their new marketing strategy, seemingly distancing itself from wrestling as the core product, and betting heavily on influencer appeal instead.
@@ -142,8 +142,8 @@ Two weeks later, on a YouTube live stream, commentator [Łukasz Baliński](@/w/l
 
 On May 31st, PTW wrestler [Dziedzic](@/w/dziedzic.md) appeared on the [first episode][dziedzic-ngz] of "No Gimmick Zone", discussing various backstage topics in a shoot-style interview. This led to rumors of his release just two days later, which was confirmed by Dziedzic announcing his departure from PTW that same week.
 
-After some teasing on his Instagram Stories, Sinister confirmed the speculations as well. On Wednesday, June 5th 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
-Shortly after that, referee Seweryn also confirmed his departure in his Instagram story.
+After some teasing on his Instagram stories, [Sinister](@/w/sinister.md) confirmed the speculations as well. On Wednesday, June 5th, 2024, he shared a [farewell post][sinister-farewell-insta] of his own.
+Shortly after that, [referee Seweryn](@/w/sedzia-seweryn.md) also confirmed his departure in his Instagram story.
 
 On June 6th [Boro](@/w/boro.md) added a set of stories on Instagram, titled "PTW Last Dance", which was an obvious farewell.
 
@@ -159,17 +159,17 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawł
 
 #### Soft reboot: Ryucon, new co-owner
 
-Breaking the silence, Pawłowski promised that the [Ryucon show](@/e/ptw/2024-07-07-ptw-x-ryucon.md) would be a new opening for PTW.
+Breaking the silence, Pawłowski promised that the [Ryucon show](@/e/ptw/2024-07-07-ptw-x-ryucon.md) would be a new beginning for PTW.
 The non-televised event included many new faces, both from [PTW Academy](@/o/ptw-academy.md) and foreign free agents.
 During the show, [Łukasz Okoński](@/w/lukasz-okonski.md), the owner of [Dworek Pod Platanem](@/v/dworek-kozlow.md) where [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md) was held, was announced as PTW's new co-owner.
 This change was not reflected in official registration documents (as of August 21, 2024), where Pawłowski remains the sole shareholder and director of PTW's commercial entity, and the sole board member of PTW's other legal entity, a non-profit association.
 Nevertheless, Okoński's increased involvement was noticeable, as he was actively promoting PTW on social media. Renamed Łukasz "Prezes" Okoński, he gradually increased his presence, appearing on virtually every show and taking part in segments.
 
-On August 14, 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW related topics and plugging future shows. Some of the episodes are hosted by TVT on their [web page][czas-na-wrestling]. The first episode featured a panel where Pawłowski led the discussion with two guests: Łukasz Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
+On August 14, 2024, PTW launched their new show, "Czas na Wrestling" (_Time for Wrestling_) on a local Silesian TV station, TVT. It is hosted by Pawłowski, who typically interviews a single PTW roster/personnel member, talking various wrestling/PTW-related topics and plugging future shows. Some of the episodes are hosted by TVT on their [web page][czas-na-wrestling]. The first episode featured a panel where Pawłowski led the discussion with two guests: Łukasz Okoński, who commented on his increased involvement, and [Spartan](@/w/spartan.md) who was asked mostly about the technical aspects of wrestling.
 
 #### Post-Ryucon: New venue, PTW back on track
 
-PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) also saw the announcement of PTW Summer Camp, culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in [Kozłów](@/v/dworek-kozlow.md), which now appeared to be PTW's new base of operations.
+PTW's third [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md) also saw the announcement of PTW Summer Camp culminating with [another show](@/e/ptw/2024-08-25-ptw-underground-22.md), once again held in [Kozłów](@/v/dworek-kozlow.md), which now appeared to be PTW's new base of operations.
 
 In September, PTW held their first ever charity show, [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji.md). More Undergrounds for every remaining month of 2024 have been scheduled, although the shows are not aired live as previously, but rather taped with a promise of later release.
 Once again, PTW returned the format of [live Q&A](https://www.youtube.com/watch?v=J1vSrWODqfM) for YouTube supporters. The revamped show saw [Krystian "Resivny" Smoleń](@/w/resivny.md) replacing ShowOff as the host. Resivny was also confirmed to be the third member of the new commentary team.
@@ -182,9 +182,9 @@ On 17.10.2024 PTW [announced][fb-extreme-sports] that their shows would air on t
 
 In the main event, featuring [Puncher](@/w/puncher.md) defending his [PTW Championship](@/c/ptw-championship.md) against [Spartan](@/w/spartan.md), Pawłowski shocked the audience by attacking Spartan with a chair, which allowed Puncher to retain - thus turning heel for the first time since his [DDW](@/o/ddw.md) run. Ever since, Pawłowski has dropped his gracious persona and heavily increased his social media presence, going into arguments with "haters", whom he refers to as "basement-dwellers" (_piwniczaki_).
 
-In another argument in the comment section of the [PTW Facebook page][kasa-okonia], Okoński clarified the extent of his involvement in the promotion, declaring he "put 350&nbsp;000 PLN (roughly 82&nbsp;000 EUR, 68&nbsp;000 GBP or 85&nbsp;000 USD) into PTW".
+In another argument in the comment section of the [PTW Facebook page][kasa-okonia], Okoński clarified the extent of his involvement in the promotion, declaring he "put 350&nbsp;000 PLN [roughly 82&nbsp;000 EUR, 68&nbsp;000 GBP or 85&nbsp;000 USD] into PTW".
 
-On 11.01.2025 PTW posted a reminder about the upcoming [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md). In one of the comments below this post a company called Event Production, responsible for the production of [Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md), wrote "As a part of the new order, can we count on settling the old debts?", suggesting that PTW still owes them money for their last big show. A fan responded to their post saying that PTW is penniless and sells very few tickets. In the ensuing discussion, Pawłowski and Okoński declared that PTW is in a good condition financially. The event company confirmed that they produced [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) as well. This topic was presumably settled in private, as the callouts from the event company eventually stopped.
+On 11.01.2025 PTW posted a reminder about the upcoming [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md). In one of the comments below this post a company called Event Production, responsible for the production of [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), wrote "As a part of the new order, can we count on settling the old debts?", suggesting that PTW still owed them money for their last big show. A fan responded to their post saying that PTW is penniless and sells very few tickets. In the ensuing discussion Pawłowski and Okoński countered, saying that PTW is in a good condition financially. The event company confirmed that they'd produced [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) as well. This topic was presumably settled in private, as the callouts from the event company eventually stopped.
 
 ### 2025
 
@@ -193,7 +193,7 @@ In multiple Q&A sessions Pawłowski alluded that their next non-domestic show wo
 
 #### Storylines summary
 
-Since Okoński's December in-ring debut, he kept being presented as the face chairman, protecting babyfaces from Pawłowski's bullying - both as an authority figure and in in-ring competition. "Chairman vs chairman" became the focal point of the storylines, set to culminate at the [appropriately named show](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) in April. The match between the two chairmen turned out to be a set-up from Pawłowski, so the story continued. The feud between Pawłowski's faction [Nietykalni](@/tt/nietykalni.md) and Okoński (later creating _Team Okoński_, and ad-hoc alliance) continued throughout the year. [Spartan](@/w/spartan.md) continued to pursue the [PTW Championship](@/c/ptw-championship.md) and [Sigma Boy xD](@/w/sigma-boy.md) became Okoński's kayfabe illegitimate son. Over the year, Okoński and Pawłowski, as well as the members of their teams, clashed in multiple high-stakes matches. [Nano Lopez](@/w/nano-lopez.md) turned heel for the first time in his PTW career, turning on Team Okoński and joining Nietykalni. As a reward, he got a title shot for the [PTW Underground Champion](@/c/ptw-underground-championship.md) and won it, after an unsuccesful pursuit throughout the year.
+Since Okoński's December in-ring debut, he kept being presented as the face chairman, protecting babyfaces from Pawłowski's bullying - both as an authority figure and in in-ring competition. "Chairman vs chairman" became the focal point of the storylines, set to culminate at the [appropriately named show](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) in April. The match between the two chairmen turned out to be a set-up from Pawłowski, so the story continued. The feud between Pawłowski's faction [Nietykalni](@/tt/nietykalni.md) and Okoński (later creating _Team Okoński_, an ad-hoc alliance) continued throughout the year. [Spartan](@/w/spartan.md) continued to pursue the [PTW Championship](@/c/ptw-championship.md) and [Sigma Boy xD](@/w/sigma-boy.md) became Okoński's kayfabe illegitimate son. Over the year, Okoński and Pawłowski, as well as the members of their teams, clashed in multiple high-stakes matches. [Nano Lopez](@/w/nano-lopez.md) turned heel for the first time in his PTW career, turning on Team Okoński and joining Nietykalni. As a reward, he got a title shot for the [PTW Underground Championship](@/c/ptw-underground-championship.md) and won it, after an unsuccesful pursuit throughout the year.
 After denying Spartan his championship opportunity, he was eventually set to challenge [Puncher](@/w/puncher.md) for the PTW Championship at [Świąt Nie Będzie](e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md). With the later increase of the stakes (the PTW:WWA Championship, as well as Pawłowski's and Okoński's respective Chairman positions) this match was dubbed ["the biggest in PTW history"][biggest-match].
 
 #### New Championships
@@ -213,16 +213,16 @@ On the international front, the Austrian sister promotion PTW:WWA has effectivel
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) and [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
-Talent were strictly prohibited from appearing in any other Polish rings, and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
+Talent were strictly prohibited from appearing in any other Polish rings and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-exits.md), where the talent wanted to have more freedom and be able to take bookings from other Polish organizations.
-This is similar to KPW's pre-[2024](@/e/low/2024-12-01-low-1.md) approach. Fans theorise that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW and MZW.
+This is similar to KPW's pre-[2024](@/e/low/2024-12-01-low-1.md) approach. Fans theorise that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their negative attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW (who seem to have relaxed their rigid stance slightly ever since their [first show with Legacy](@/e/low/2024-12-01-low-1.md)).
 
-Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled ["The Whole Truth About Polish Wrestling"][pawłowski-najman-zero], which prompted further controversy on the Polish scene. Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he is the only professional one, acknowledging the competition but calling them "more or less amateur projects". This prompted an impassioned response from the ex-wrestler and current [KPW](@/o/kpw.md) promoter [Piękny Kawaler](@/w/piekny-kawaler.md), who made a lengthy Facebook post addressing the remarks. Kawaler claimed that Pawłowski was fired from KPW due to being a self-centered mark, focusing on promoting his own persona instead of team effort. He said that the current state of PTW is more resembling of a backyard than a professional wrestling federation. The post got a lot of agreeing comments and reactions from Polish wrestlers and wrestling personnel, current and former, from all sides of the Polish scene: [David Oliwa](@/w/david-oliwa.md), [Bianca](@/w/bianca.md), [Olgierd](@/w/olgierd.md), [Boro](@/w/boro.md), [Eryk Lesak](@/w/eryk-lesak.md), [Referee Seweryn](@/w/sedzia-seweryn.md), [Michał Fux](@/w/michal-fux.md), [Chris Hunter](@/w/chris-hunter.md), [Rafael Kid](@/w/rafael-kid.md), [Osamu](@/w/osamu.md), [Samson](@/w/samson.md), [Rob Scaffold](@/w/rob-scaffold.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Taras](@/w/taras.md), [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Bartosz Plata](@/w/plata.md), [Iskra](@/w/iskra.md), [Zefir](@/w/zefir.md), [Arek Paterek](@/w/arek-paterek.md), [ShowOff](@/w/piotr-malecki.md), [Shadow](@/w/shadow.md), [Jacob Crane](@/w/jacob-crane.md), [Rosetti](@/w/rosetti.md), [Marco Hammers](@/w/marco-hammers.md), [Vic Golden](@/w/vic-golden.md), [Goblin](@/w/goblin.md), [Ron Corvus](@/w/ron-corvus.md), [Jakub Linde](@/w/jakub-linde.md), [Łukasz Baliński](@/w/lukasz-balinski.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Klarys](@/w/klarys.md), [Piotr Opolski](@/w/piotr-opolski.md), [Tomczak](@/w/tomczak.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md) and [Kamil Aleksander](@/w/kamil-aleksander.md).
+Pawłowski made an appearance on Marcin Najman's "Oryginalne Zero" YouTube channel in a video titled ["The Whole Truth About Polish Wrestling"][pawłowski-najman-zero], which prompted further controversy on the Polish scene. Asked if he's the only wrestling promoter in Poland, Pawłowski claimed that he is the only professional one, acknowledging the competition but calling them "more or less amateur projects". This prompted an impassioned response from the ex-wrestler and current [KPW](@/o/kpw.md) promoter [Piękny Kawaler](@/w/piekny-kawaler.md), who made a lengthy Facebook post addressing the remarks. Kawaler claimed that Pawłowski was fired from KPW due to being a self-centered mark, focusing on promoting his own persona instead of team effort. He said that the current state of PTW is more resembling of a backyard than a professional wrestling federation. The post got a lot of agreeing comments and reactions from Polish wrestlers and wrestling personnel, current and former, from all sides of the Polish scene: [David Oliwa](@/w/david-oliwa.md), [Bianca](@/w/bianca.md), [Tomasz Warchoł](@/w/tomasz-warchol.md), [Olgierd](@/w/olgierd.md), [Boro](@/w/boro.md), [Eryk Lesak](@/w/eryk-lesak.md), [Referee Seweryn](@/w/sedzia-seweryn.md), [Michał Fux](@/w/michal-fux.md), [Chris Hunter](@/w/chris-hunter.md), [Rafael Kid](@/w/rafael-kid.md), [Osamu](@/w/osamu.md), [Samson](@/w/samson.md), [Rob Scaffold](@/w/rob-scaffold.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Taras](@/w/taras.md), [Krzysztof Zasada](@/w/krzysztof-zasada.md), [Bartosz Plata](@/w/plata.md), [Iskra](@/w/iskra.md), [Zefir](@/w/zefir.md), [Arek Paterek](@/w/arek-paterek.md), [ShowOff](@/w/piotr-malecki.md), [Shadow](@/w/shadow.md), [Jacob Crane](@/w/jacob-crane.md), [Rosetti](@/w/rosetti.md), [Marco Hammers](@/w/marco-hammers.md), [Vic Golden](@/w/vic-golden.md), [Goblin](@/w/goblin.md), [Ron Corvus](@/w/ron-corvus.md), [Jakub Linde](@/w/jakub-linde.md), [Łukasz Baliński](@/w/lukasz-balinski.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Klarys](@/w/klarys.md), [Piotr Opolski](@/w/piotr-opolski.md), [Tomczak](@/w/tomczak.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and Markus Paskal.
 
 In a [live interview][pawłowski-my-wrestling-live] for MyWrestling, Pawłowski doubled down on his statements. He responded to Piękny Kawaler, revealing some dirt on him, calling him a pussy, ridiculing his height and lack of courage. According to Pawłowski, Kawaler had always wanted to downsize KPW, because larger shows would equal more work. He also accused Kawaler of being unstable and carrying a gun to fend off imaginary goons sent by Pawłowski. Pawłowski stated that Kawaler minimised Pawłowski's involvement in the promotion by reducing his role to just hosting shows and announcing fights. This led to an increasing disagreement between Pawłowski and Kawaler, so Pawłowski tried to sever ties with KPW as amicably as possible, however Kawaler blindsided him by firing Pawłowski just a day before his scheduled appearance at [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md). Despite this, Pawłowski started his new promotion in Silesia to avoid directly competing with KPW. He reiterated his belief that PTW is the first Polish professional promotion and their competition is more or less amateurish. In hindsight he also does not see KPW and DDW as pro, though he admitted that he'd seen these projects as professional at the time he was involved.
 
-Asked about overdue payments for [Total Blast From the Past](@/e/ptw/2024-05-11-ptw-6.md), which saw many competitors leave soon thereafter, Pawłowski changed his narrative about PTW's debts. In his prior appearance for Kanał Zero he'd promised to pay off all the debts that PTW has. Now he alleged there were never any debts, except for PTW ex-wrestlers owing the promotion money for trainings. However, he chose to graciously absolve them of these debts to avoid any further contact with them.
+Asked about overdue payments for [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), which saw many competitors leave soon thereafter, Pawłowski changed his narrative about PTW's debts. In his prior appearance for Kanał Zero he'd promised to pay off all the debts that PTW had. Now he alleged there were never any debts, except for PTW ex-wrestlers owing the promotion money for trainings. However, he chose to graciously absolve them of these debts to avoid any further contact with them.
 
 Asked about [Legacy of Wrestling](@/o/low.md), he claimed there were no attempts to invite PTW competitors. Multiple insiders in the chat confirmed otherwise, so Pawłowski proceeded to explain that the only way to invite a PTW wrestler to other show is through the promoter, as they are contracted performers. When asked by a person in the chat whether "El Homo" led on a chain by a half-naked woman at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md) was in line with the family friendly approach chosen by PTW, he responded that this was entirely [Prezes Okoński's](@/w/lukasz-okonski.md) idea, which Pawłowski didn't fully like, but it did achieve the goal of getting people talking. He promptly followed this by stating that he'd wish PTW fans weren't idiots (_debile_), because then they'd be able to "make cool, intelligent content for cool, intelligent people".
 
@@ -231,18 +231,18 @@ Asked about [Legacy of Wrestling](@/o/low.md), he claimed there were no attempts
 One of the main selling points of PTW, differentiating them from their competition, were sponsors, an actual budget and the ability to bring in a lot of pro wrestlers from abroad.
 
 At [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) it was announced that [Santino Marella](@/w/santino.md), former long-time WWE star, would become one of the organization's co-owners.
-This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator, and suprise entrant in the Gold Rush Rumble. On 17.10.2025, PTW's "third owner", was [announced][santino-seminar] for a seminar on November 3th, mainly targeted towards PTW wrestlers and trainees, but also open to the public (with a minimum of in-ring training required).
+This, however, was only a short-lived storyline angle lacking any real payoff, leaving fans confused when Santino made his return at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) only as an English-language commentator and a suprise entrant in the Gold Rush Rumble. On 17.10.2025, PTW's "third owner" was [announced][santino-seminar] for a seminar on November 3th, mainly targeted towards PTW wrestlers and trainees, but also open to the public (with a minimum of in-ring training required).
 
 In 2022, PTW entered into collaboration with Austrian wrestler [Krampus](@/w/krampus.md) and his new organization, World Wrestling Austria.
-It was quickly renamed to _PTW:WWA_ and became a de facto "sister federation" ran by Krampus with assistance from Pawłowski.
-This cooperation allowed PTW talent to be booked at the two PTW: WWA shows in late 2023 and early 2024, before the Austrian federation folded. In 2025 Krampus returned to the promotion, bringing in some Austrian talent, but this time without WWA banner.
+It was quickly renamed to PTW:WWA and became a de facto "sister federation" ran by Krampus with assistance from Pawłowski.
+This cooperation allowed PTW talent to be booked at the two PTW:WWA shows in late 2023 and early 2024, before the Austrian federation folded. In 2025 Krampus returned to the promotion, bringing in some Austrian talent, but this time without the WWA banner.
 (See the [Expansion into Austria](#expansion-into-austria) section above.)
 
 PTW also struck a deal with British Wrestling Revolution (BWR), which allowed BWR Champion [Scotty Rawk](@/w/scotty-rawk.md) to defend his championship in PTW. In return, [Diana Strong](@/w/diana-strong.md) and [Puncher](@/w/puncher.md) were booked for one of BWR's shows in the UK. These appearances never came to fruition, however Puncher confirmed in a [livestream][live-istota-puncher] by Istota Wrestlingu that the deal was still on.
 
 In the early September 2024, PTW announced they'd be sending a team of wrestlers to _Botte da BestYa 2_, an event by the Italian organization ICW happening on September 15, 2024. This team consisted of foreign wrestlers Iva Kolasky and Luca Bjorn, plus Polish PTW talent [Pawłowski](@/w/pan-pawlowski.md) and [Puncher](@/w/puncher.md), who defended his championship. Later in 2025 this turned into a tighter cooperation with a new Italian promotion named BestYa Wrestling, with talent continuing to appear in Poland.
 
-One remarkable deal between PTW and a bigger promotion was an agreement with Impact Wrestling for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in 2022.
+One noteworthy deal between PTW and a bigger promotion was an agreement with Impact Wrestling for Joe Hendry to defend his Digital Media Championship against Trent Seven at [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) in 2022.
 
 ## Championships
 
@@ -274,7 +274,7 @@ Featured in the video are [Puncher](@/w/puncher.md), [Spartan](@/w/spartan.md), 
 * [Official Facebook fanpage](https://www.facebook.com/PrimeTimeWrestlingPL)
 * [YouTube channel](https://www.youtube.com/@PrimeTimeWrestlingpl)
 * [FITE/TrillerTV listing](https://www.trillertv.com/vl/p/prime-time-wrestling/)
-* https://primetimewrestling.pl (deliberately not linking to the site, see below)
+* https://primetimewrestling.pl (deliberately disabled; see below)
 
 On 2.07.2025 fans noticed that the official PTW website was replaced with a generic placeholder site no later than on 17.06.2025 (according to dates of posts in the Blog section), suggesting that the domain was taken over by cybersquatters after not being renewed by the promotion. (See the screenshots in Gallery below.)
 
@@ -300,7 +300,7 @@ On 2.07.2025 fans noticed that the official PTW website was replaced with a gene
 [ptw-ryucon-3]: https://www.instagram.com/p/C7ju1yYI5UF/
 [followup-puncher]: https://www.youtube.com/watch?v=m2kZZBAqmuo
 [followup-pawlowski]: https://www.youtube.com/watch?v=F4PknaxqojM&t=73s
-[live-istota-puncher]: https://www.youtube.com/watch?v=dq3qmzdzLYc&t=81s
+[live-istota-puncher]: https://www.youtube.com/watch?v=dq3qmzdzLYc
 [young-multi-ak47]: https://www.youtube.com/watch?v=BXamVDoOSAw
 [fb-extreme-sports]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0DwHGQai69fPD3yYBa58LBvcCPFFLNsVShRaq8fru5VuiHaT9jhviRnyjk3X3rYqFl
 [pawłowski-najman-zero]: https://www.youtube.com/watch?v=KhZxEHCEqHo
