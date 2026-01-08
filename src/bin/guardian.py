@@ -91,9 +91,10 @@ def run_guards(guards: list, targets: Iterable[Path], args: SimpleNamespace):
         for guard_cls in guards_to_run:
             guard = guard_cls()
             guard.logger = logger
+            guard.path = target
 
             with logger.parsing_context(guard_cls.__name__, target.as_posix()):
-                guard.validate_frontmatter(doc.front_matter)
+                guard.validate_frontmatter(doc.front_matter, None)
 
                 for section in doc.sections:
                     match section:
