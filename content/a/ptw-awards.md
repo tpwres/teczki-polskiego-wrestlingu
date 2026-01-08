@@ -46,12 +46,12 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 - Tag Team Roku (_Tag Team of the Year_)
 - Komentator Roku (_Commentator of the Year_)
 - Wrestlerka Roku (_Female Wrestler of the Year_)
+- Gala Roku (_Show of the Year_)
 - Walka Roku (_Match of the Year_)
 - Finisher Roku (_Finisher of the Year_)
 - Moment Roku (_Moment of the Year_)
 - Sędzia Roku (_Referee of the Year_)
 - Konflikt Roku (_Feud of the Year_)
-- Gala Roku (_Show of the Year_)
 
 #### Results of fan-voting in each category
 

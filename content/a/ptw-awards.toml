@@ -1,16 +1,31 @@
-11 = { path = "hero-of-the-year.webp", caption = "PTW Awards 2022.<br />Nominees for the Hero of the Year category.", source = "Facebook PTW" }
-12 = { path = "ptw-awards-statues.webp", caption = "PTW Awards 2022.<br />Awards statues made of acrylic glass, set on the ring in [PTW Performance Center](@/v/ptw-targowa.md)", source = "Facebook PTW" }
-13 = { path = "ptw-awards-results.png", caption = "PTW Awards 2022.<br />Facebook post announcing winners in each category.", source = "Facebook PTW", skip_art = true }
-21 = { path = "awards-2024-wrestler-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Wrestler of the Year category.", source = "Official PTW Facebook" }
-22 = { path = "awards-2024-debiutant-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Newcomer of the Year category.", source = "Official PTW Facebook" }
-23 = { path = "awards-2024-progres-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Progress of the Year category.", source = "Official PTW Facebook" }
-24 = { path = "awards-2024-mowca-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Speaker of the Year category.", source = "Official PTW Facebook" }
-25 = { path = "awards-2024-bohater-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Hero of the Year category.", source = "Official PTW Facebook" }
-26 = { path = "awards-2024-zloczynca-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Villain of the Year category.", source = "Official PTW Facebook" }
-27 = { path = "wietnamski-wrestler.png", caption = "PTW Awards 2024.<br />Vietnamese votes for Spartan - Wrestler of the Year category.", source = "Official PTW Facebook", skip_art = true }
-28 = { path = "wietnamski-bohater.png", caption = "PTW Awards 2024.<br />Vietnamese votes for Spartan - Hero of the Year category.", source = "Official PTW Facebook", skip_art = true }
-31 = { path = "awards-2025-wrestler-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Wrestler of the Year category.", source = "Official PTW Facebook" }
-32 = { path = "awards-2025-zagraniczna-gwiazda-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Foreign Star of the Year category.", source = "Official PTW Facebook" }
-33 = { path = "awards-2025-debiutant-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Newcomer of the Year category.", source = "Official PTW Facebook" }
-34 = { path = "awards-2025-progres-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Progress of the Year category.", source = "Official PTW Facebook" }
-35 = { path = "awards-2025-glos-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Voice of the Year category.", source = "Official PTW Facebook" }
+101 = { path = "awards-2022-wrestler-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Wrestler of the Year category.", source = "Official PTW Facebook" }
+102 = { path = "awards-2022-bohater-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Hero of the Year category.", source = "Official PTW Facebook" }
+103 = { path = "awards-2022-zloczynca-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Villain of the Year category.", source = "Official PTW Facebook" }
+104 = { path = "awards-2022-debiutant-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Newcomer of the Year category.", source = "Official PTW Facebook" }
+105 = { path = "awards-2022-mowca-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Speaker of the Year category.", source = "Official PTW Facebook" }
+106 = { path = "awards-2022-tag-team-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Tag Team of the Year category.", source = "Official PTW Facebook" }
+107 = { path = "awards-2022-komentator-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Commentator of the Year category.", source = "Official PTW Facebook" }
+108 = { path = "awards-2022-wrestlerka-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Female Wrestler of the Year category.", source = "Official PTW Facebook" }
+109 = { path = "awards-2022-gala-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Show of the Year category.", source = "Official PTW Facebook" }
+110 = { path = "awards-2022-walka-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Match of the Year category.", source = "Official PTW Facebook" }
+111 = { path = "awards-2022-finisher-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Finisher of the Year category.", source = "Official PTW Facebook" }
+112 = { path = "awards-2022-moment-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Moment of the Year category.", source = "Official PTW Facebook" }
+113 = { path = "awards-2022-sedzia-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Referee of the Year category.", source = "Official PTW Facebook" }
+114 = { path = "awards-2022-konflikt-roku.webp", caption = "PTW Awards 2022.<br />Nominees for the Feud of the Year category.", source = "Official PTW Facebook" }
+115 = { path = "awards-2022-ptw-awards-statues.webp", caption = "PTW Awards 2022.<br />Awards statues made of acrylic glass, set on the ring in [PTW Performance Center](@/v/ptw-targowa.md)", source = "Official PTW Facebook" }
+116 = { path = "awards-2022-ptw-awards-results.png", caption = "PTW Awards 2022.<br />Facebook post announcing winners in each category.", source = "Official PTW Facebook", skip_art = true }
+
+201 = { path = "awards-2024-wrestler-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Wrestler of the Year category.", source = "Official PTW Facebook" }
+202 = { path = "awards-2024-debiutant-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Newcomer of the Year category.", source = "Official PTW Facebook" }
+203 = { path = "awards-2024-progres-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Progress of the Year category.", source = "Official PTW Facebook" }
+204 = { path = "awards-2024-mowca-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Speaker of the Year category.", source = "Official PTW Facebook" }
+205 = { path = "awards-2024-bohater-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Hero of the Year category.", source = "Official PTW Facebook" }
+206 = { path = "awards-2024-zloczynca-roku.webp", caption = "PTW Awards 2024.<br />Nominees for the Villain of the Year category.", source = "Official PTW Facebook" }
+207 = { path = "awards-2024-wietnamski-wrestler.webp", caption = "PTW Awards 2024.<br />Vietnamese votes for Spartan - Wrestler of the Year category.", source = "Official PTW Facebook", skip_art = true }
+208 = { path = "awards-2024-wietnamski-bohater.webp", caption = "PTW Awards 2024.<br />Vietnamese votes for Spartan - Hero of the Year category.", source = "Official PTW Facebook", skip_art = true }
+
+301 = { path = "awards-2025-wrestler-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Wrestler of the Year category.", source = "Official PTW Facebook" }
+302 = { path = "awards-2025-zagraniczna-gwiazda-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Foreign Star of the Year category.", source = "Official PTW Facebook" }
+303 = { path = "awards-2025-debiutant-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Newcomer of the Year category.", source = "Official PTW Facebook" }
+304 = { path = "awards-2025-progres-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Progress of the Year category.", source = "Official PTW Facebook" }
+305 = { path = "awards-2025-glos-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Voice of the Year category.", source = "Official PTW Facebook" }
