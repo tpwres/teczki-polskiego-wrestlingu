@@ -1,37 +1,43 @@
-01 = { path = "ddw-aon-01.jpg", caption = "Jędruś Bułecka's theme performed live.", source = "Jędruś Bułecka @ Facebook", skip_art = true }
-02 = { path = "ddw-aon-02.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
-03 = { path = "ddw-aon-03.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
-04 = { path = "ddw-aon-04.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
-05 = { path = "ddw-aon-05.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
-06 = { path = "ddw-aon-06.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
-07 = { path = "ddw-aon-07.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
-08 = { path = "ddw-aon-08.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) outside of the ring.", source = "Jędruś Bułecka @ Facebook" }
-09 = { path = "ddw-aon-09.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
-10 = { path = "ddw-aon-10.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
-11 = { path = "ddw-aon-11.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) with fans after the show.", source = "Jędruś Bułecka @ Facebook" }
-12 = { path = "ddw-aon-12.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) with fans after the show.", source = "Jędruś Bułecka @ Facebook" }
-13 = { path = "ddw-aon-13.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) signing an autograph after the show.", source = "Jędruś Bułecka @ Facebook" }
+001 = { path = "ddw-aon-01.jpg", caption = "Jędruś Bułecka's theme performed live.", source = "Jędruś Bułecka @ Facebook", skip_art = true }
+002 = { path = "ddw-aon-02.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
+003 = { path = "ddw-aon-03.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
+004 = { path = "ddw-aon-04.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
+005 = { path = "ddw-aon-05.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
+006 = { path = "ddw-aon-06.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
+007 = { path = "ddw-aon-07.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
+008 = { path = "ddw-aon-08.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) outside of the ring.", source = "Jędruś Bułecka @ Facebook" }
+009 = { path = "ddw-aon-09.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
+010 = { path = "ddw-aon-10.jpg", caption = "Battle royal.", source = "Jędruś Bułecka @ Facebook" }
+011 = { path = "ddw-aon-11.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) with fans after the show.", source = "Jędruś Bułecka @ Facebook" }
+012 = { path = "ddw-aon-12.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) with fans after the show.", source = "Jędruś Bułecka @ Facebook" }
+013 = { path = "ddw-aon-13.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) signing an autograph after the show.", source = "Jędruś Bułecka @ Facebook" }
 
-20 = { path = "10-man-battle-royal-rules.webp", caption = "The rules of the 10 Man Battle Royal.", source = "Jędruś Bułecka's private archives" }
-21 = { path = "the-road-devils-with-pawlowski.webp", caption = "The Road Devils w/ Pan Pawłowski.", source = "Jędruś Bułecka's private archives" }
-22 = { path = "the-greatest.webp", caption = "The Greatest.", source = "Jędruś Bułecka's private archives" }
-23 = { path = "rob-cage.webp", caption = "Rob Cage.", source = "Jędruś Bułecka's private archives" }
-24 = { path = "john-hammer.webp", caption = "John Hammer.", source = "Jędruś Bułecka's private archives" }
-25 = { path = "klarys.webp", caption = "Klarys.", source = "Jędruś Bułecka's private archives" }
-26 = { path = "don-roid.webp", caption = "Don Roid.", source = "Jędruś Bułecka's private archives" }
-27 = { path = "kamil-aleksander.webp", caption = "Kamil Aleksander.", source = "Jędruś Bułecka's private archives" }
-28 = { path = "joe-legend.webp", caption = "Joe Legend.", source = "Jędruś Bułecka's private archives" }
-29 = { path = "jedrus-bulecka.webp", caption = "Jędruś Bułecka.", source = "Jędruś Bułecka's private archives" }
-30 = { path = "double-elimination.webp", caption = "Jon Hammer eliminates The Greatest and himself.", source = "Jędruś Bułecka's private archives" }
+101 = { path = "10-man-battle-royal-rules.webp", caption = "The rules of the 10 Man Battle Royal.", source = "Jędruś Bułecka's private archives" }
+102 = { path = "br-the-road-devils-with-pawlowski.webp", caption = "Battle Royal.<br />The Road Devils w/ Pan Pawłowski.", source = "Jędruś Bułecka's private archives" }
+103 = { path = "br-the-greatest.webp", caption = "Battle Royal.<br />The Greatest.", source = "Jędruś Bułecka's private archives" }
+104 = { path = "br-rob-cage.webp", caption = "Battle Royal.<br />Rob Cage.", source = "Jędruś Bułecka's private archives" }
+105 = { path = "br-john-hammer.webp", caption = "Battle Royal.<br />John Hammer.", source = "Jędruś Bułecka's private archives" }
+106 = { path = "br-klarys.webp", caption = "Battle Royal.<br />Klarys.", source = "Jędruś Bułecka's private archives" }
+107 = { path = "br-don-roid.webp", caption = "Battle Royal.<br />Don Roid.", source = "Jędruś Bułecka's private archives" }
+108 = { path = "br-kamil-aleksander.webp", caption = "Battle Royal.<br />Kamil Aleksander.", source = "Jędruś Bułecka's private archives" }
+109 = { path = "br-joe-legend.webp", caption = "Battle Royal.<br />Joe Legend.", source = "Jędruś Bułecka's private archives" }
+110 = { path = "br-jedrus-bulecka.webp", caption = "JBattle Royal.<br />ędruś Bułecka.", source = "Jędruś Bułecka's private archives" }
+111 = { path = "br-double-elimination.webp", caption = "Battle Royal.<br />Jon Hammer eliminates The Greatest and himself.", source = "Jędruś Bułecka's private archives" }
 
-31 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+201 = { path = "pan-pawlowski.webp", caption = "Arkadiusz Pawłowski.", source = "Jędruś Bułecka's private archives" }
 
-32 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-33 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-34 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-35 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-36 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-37 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-38 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-39 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
-40 = { path = ".webp", caption = ".", source = "Jędruś Bułecka's private archives" }
+301 = { path = "gm-klarys.webp", caption = "Gauntlet Match<br />Klarys.", source = "Jędruś Bułecka's private archives" }
+302 = { path = "gm-edyta.webp", caption = "Gauntlet Match<br />Ring announcer Edyta Świerczyńska.", source = "Jędruś Bułecka's private archives" }
+303 = { path = "gm-dirtbag-vs-klarys.webp", caption = "Gauntlet Match<br />Dirtbag vs Klarys.", source = "Jędruś Bułecka's private archives" }
+
+
+304 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+305 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+306 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+307 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+308 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+309 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+
+
+901 = { path = "jtv-01.webp", caption = "DDW on Japanese television.", source = "DonRoid @ YouTube" }
+902 = { path = "jtv-02.webp", caption = "DDW on Japanese television.", source = "DonRoid @ YouTube" }
