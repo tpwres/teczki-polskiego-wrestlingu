@@ -26,6 +26,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 * On 27.12.2025 [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md) were announced in a Tag Team Match against [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md), with the stipulation being that their victory will allow Gustav & Goblin to compete for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) against [Zmowa](@/tt/zmowa.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 * A [video][ale-sie-bartek-zaplatal] published on 2.01.2026 saw [Bartosz Plata](@/w/plata.md) request a Grand Fatherly Trial Match from [Johnny Blade](@/w/johnny-blade.md).
 * On 6.01.2026 PpW posted to Facebook announcing a pre-show match between [Sambor](@/w/sambor.md), [Lady Killer](@/w/boro.md), [Mutant](@/w/mutant.md), [Antoni Ocean](@/w/antoni-ocean.md) and [Marcelito](@/w/marcelito.md), in a Bring Your Weapons stipulation. This marks Sambor's return to the ring following an injury at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
+* A 8.01.2026 post announced that [Zmowa](@/tt/zmowa.md) ([Axel Fox](@/w/axel-fox.md), [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)) will appear at the show, although no further details were given.
 
 ## Predicted card
 
