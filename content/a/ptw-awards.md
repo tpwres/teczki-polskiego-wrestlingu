@@ -245,6 +245,7 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 - Zagraniczna Gwiazda Roku (_Foreign Star of the Year_)
 - Debiutant Roku (_Newcomer of the Year_)
 - Progres Roku (_Progress of the Year_)
+- Głos Roku (_Voice of the Year_)
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
