@@ -201,7 +201,7 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
 
 **TOTAL:** 735 days.
 
-### Champions #5: Team Visegrad: David Oliwa & Ricky Sky
+### Champions #5: Team Visegrad: David Oliwa & Ricky Sky & Lukáš Mottl
 
 {% free_card() %}
 - - '[Team Visegrad](@/tt/team-visegrad.md): [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)'
@@ -216,6 +216,10 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
     ed: 2025-11-14
 {% end %}
 
+While the titles were won by David Oliwa & Ricky Sky, Lukáš Mottl was also recognised as a champion in accordance with the [Freebird Rule][freebird-rule].
+
 ## References
 
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
+
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
