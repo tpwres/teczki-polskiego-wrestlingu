@@ -41,12 +41,18 @@
   {% if page.extra.hide_events or page.extra.compact_event_list -%}
   {% else %}
     <script defer type="module">
-      import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
+      import { extractEvents, sameDate, createSection, cleanEmptyYears } from '/events.js'
       document.addEventListener('DOMContentLoaded', () => {
-        const events = extractUpcoming()
-        if (!events.length) return
+        const now = new Date()
+        const todayEvents = extractEvents('ul.event-list', (el) => sameDate(new Date(el.dataset.date), now))
+        const upcomingEvents = extractEvents('ul.event-list', (el) => (new Date(el.dataset.date) >= now))
         const list = document.querySelector('ul.event-list')
-        createSection(events, list, 'h3')
+        if (todayEvents) {
+          const [_, today] = createSection(todayEvents, 'Today', list, 'h3')
+          if (today)
+            today.classList.add('events-today')
+        }
+        createSection(upcomingEvents, 'Upcoming', list, 'h3')
         cleanEmptyYears('h3')
       })
     </script>
