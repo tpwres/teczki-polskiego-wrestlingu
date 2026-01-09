@@ -43,7 +43,7 @@
     <script defer type="module">
       import { extractEvents, sameDate, createSection, cleanEmptyYears } from '/events.js'
       document.addEventListener('DOMContentLoaded', () => {
-        const now = new Date(2026, 0, 16)
+        const now = new Date()
         const todayEvents = extractEvents('ul.event-list', (el) => sameDate(new Date(el.dataset.date), now))
         const upcomingEvents = extractEvents('ul.event-list', (el) => (new Date(el.dataset.date) >= now))
         const list = document.querySelector('ul.event-list')

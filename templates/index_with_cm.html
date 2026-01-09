@@ -23,7 +23,7 @@ import { extractEvents, createSection, cleanEmptyYears, sameDate } from '/events
 
 document.addEventListener('DOMContentLoaded', () => {
   const events = document.querySelector('ul.event-list-cm')
-  const now = new Date(2026, 0, 16) //new Date()
+  const now = new Date()
   const todayEvents = extractEvents('ul.event-list-cm', (el) => sameDate(new Date(el.dataset.date), now))
   const upcomingEvents = extractEvents('ul.event-list-cm', (el) => (new Date(el.dataset.date) >= now))
   if (todayEvents) {
