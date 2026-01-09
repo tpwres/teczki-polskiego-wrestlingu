@@ -21,7 +21,7 @@ Team Visegrad debuted in KPW at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzi
 
 * [David Oliwa](@/w/david-oliwa.md)
 * [Ricky Sky](@/w/ricky-sky.md)
-* [Lukáš Mottl](@/w/skull-evil.md) (associating with, but not recognized as part of the team in KPW)
+* [Lukáš Mottl](@/w/skull-evil.md)
 
 ## Championships and accomplishments
 
