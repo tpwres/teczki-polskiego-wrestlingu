@@ -38,34 +38,39 @@
     </li>
     {% set lastyr = "-" %}
     {% for match in matches_by_date | reverse %}
-    {% set yr = match.d | date(format="%Y") %}
-    {% if lastyr != yr %}
-      {% set_global lastyr = yr %}
-      {% set anchor = "matchlist-" ~ yr %}
-    {% else %}
-      {% set anchor = false %}
-    {% endif %}
-    <li class="entry {{ match.tt | default(value='') }}" {% if anchor %}id="{{ anchor }}"{% endif %}>
-        <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
-        <span class="o">
-            {% for org in match.o %}
-              {{ macros::promolink_color(code=org, styles=org_styles) }}
-            {% endfor %}
-        </span>
-        {% set row = match.m %}
-        {# It may happen that the same match.i happens more than once #}
-        {# This means more than one appearance in that match (think rumbles, entering under different names) #}
-        {# These matches were filtered out by unique above, so we have only one. #}
-        {% set positions = my_match_pos[match.i] | map(attribute='1') %}
-        <span class="r">
-            {% include "career/result_row.html" %}
-            {% set event_path = "@/" ~ match.p %}
-            <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
-            {% if match.tt %}
-              ({{ match.tt }})
-            {% endif %}
-        </span>
-    </li>
+      {% set yr = match.d | date(format="%Y") %}
+      {% if lastyr != yr %}
+        {% set_global lastyr = yr %}
+        {# XXX Prematurely closes ul and starts a new one #}
+        </ul>
+        <ul class="career">
+          <li class="header yearhead" id="matchlist-{{ yr }}">
+              <details class="y" open>
+                <summary>{{ yr }}</summary>
+              </details>
+          </li>
+      {% endif %}
+      <li class="entry {{ match.tt | default(value='') }}">
+          <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
+          <span class="o">
+              {% for org in match.o %}
+                {{- macros::promolink_color(code=org, styles=org_styles) -}}
+              {% endfor %}
+          </span>
+          {% set row = match.m %}
+          {# It may happen that the same match.i happens more than once #}
+          {# This means more than one appearance in that match (think rumbles, entering under different names) #}
+          {# These matches were filtered out by unique above, so we have only one. #}
+          {% set positions = my_match_pos[match.i] | map(attribute='1') %}
+          <span class="r">
+              {% include "career/result_row.html" %}
+              {% set event_path = "@/" ~ match.p %}
+              <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
+              {% if match.tt %}
+                ({{ match.tt }})
+              {% endif %}
+          </span>
+      </li>
     {% endfor %}
 </ul>
 
