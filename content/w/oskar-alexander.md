@@ -15,7 +15,7 @@ Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](
 
 * Years active: 2024-present
 * Nicknames/Gimmicks:
-  - Oskar Alexander {{ org_badge(orgs='ppw', 'mzw', 'low') }} (October 2024-)
+  - Oskar Alexander {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (October 2024-)
   - Adept Oskar {{ org_badge(org='ppw') }} (August 2024-October 2024)
   - Oskar Strong {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
