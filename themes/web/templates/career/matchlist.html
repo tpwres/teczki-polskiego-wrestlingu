@@ -1,15 +1,15 @@
-{%- import "macros/career.html" as macros %}
-{% set org_styles = config.extra.org_styles %}
-{% set alias_map = load_data(path="data/aliases.json") %}
-{% set all_my_names = [] %}
-{% if team_career_keys %}
+{% import "macros/career.html" as macros -%}
+{% set org_styles = config.extra.org_styles -%}
+{% set alias_map = load_data(path="data/aliases.json") -%}
+{% set all_my_names = [] -%}
+{% if team_career_keys -%}
   {% set all_my_names = [team_career_keys] %}
-{% else %}
-  {% set all_my_names = [page.relative_path, page.title] %}
-{% endif %}
-{% for alias, path in alias_map %}
+{% else -%}
+  {% set all_my_names = [page.relative_path, page.title] -%}
+{% endif -%}
+{% for alias, path in alias_map -%}
   {% if path == page.relative_path %}{% set_global all_my_names = all_my_names | concat(with=alias) %}{% endif %}
-{% endfor %}
+{% endfor -%}
 {% set all_matches = load_data(path="data/all_matches.json") %}
 {% set appearances = load_data(path="data/appearances_v2.json") %}
 {% set my_appearances = [] %}
@@ -27,6 +27,9 @@
 {% set appearances = [] %}
 {% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') %}
 {% set my_match_pos = my_appearances | group_by(attribute='0') %}
+{% set mml = my_matches | length %}
+{% set collapse_at = config.extra.career_collapse_list_at | default(value=60) %}
+{% if mml > collapse_at %}{% set enable_year_headers = true %}{% endif %}
 
 {% if my_matches %}
 <h3>Matches and segments</h3>
@@ -42,15 +45,23 @@
       {% if lastyr != yr %}
         {% set_global lastyr = yr %}
         {# XXX Prematurely closes ul and starts a new one #}
-        </ul>
-        <ul class="career">
-          <li class="header yearhead" id="matchlist-{{ yr }}">
-              <details class="y" open>
-                <summary>{{ yr }}</summary>
-              </details>
-          </li>
+        {% if enable_year_headers %}
+          </ul>
+          <ul class="career">
+            <li class="header yearhead" id="matchlist-{{ yr }}">
+                <details class="y" open>
+                  <summary role="heading">{{ yr }}</summary>
+                </details>
+            </li>
+        {% else %}
+          {# If not using year headers, attach anchor to first match in the year #}
+          {% set year_anchor = "matchlist-" ~ yr %}
+        {% endif %}
+      {% else %}
+         {% set year_anchor = false %}
       {% endif %}
-      <li class="entry {{ match.tt | default(value='') }}">
+      <li class="entry {{ match.tt | default(value='') }}"
+          {% if year_anchor %} id="{{ year_anchor }}" {% endif %}>
           <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
           <span class="o">
               {% for org in match.o %}
@@ -63,12 +74,12 @@
           {# These matches were filtered out by unique above, so we have only one. #}
           {% set positions = my_match_pos[match.i] | map(attribute='1') %}
           <span class="r">
-              {% include "career/result_row.html" %}
-              {% set event_path = "@/" ~ match.p %}
+              {% include "career/result_row.html" -%}
+              {% set event_path = "@/" ~ match.p -%}
               <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
-              {% if match.tt %}
+              {% if match.tt -%}
                 ({{ match.tt }})
-              {% endif %}
+              {% endif -%}
           </span>
       </li>
     {% endfor %}
