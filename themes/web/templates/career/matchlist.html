@@ -27,7 +27,7 @@
 {% set appearances = [] %}
 {% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') %}
 {% set my_match_pos = my_appearances | group_by(attribute='0') %}
-{% set mml = my_matches | length %}
+{% set mml = matches_by_date | length %}
 {% set collapse_at = config.extra.career_collapse_list_at | default(value=60) %}
 {% if mml > collapse_at %}{% set enable_year_headers = true %}{% endif %}
 
