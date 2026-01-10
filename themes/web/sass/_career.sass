@@ -8,6 +8,10 @@
   .d, .o, .r
     padding: 0.1em 0.3em
 
+  .y
+    grid-column: span 3
+    text-align: center
+
   .header
     font-weight: bold
     background: var(--accent-bg)
@@ -24,6 +28,13 @@
 
   .entry:nth-child(odd)
     background: var(--accent-bg)
+
+
+  .yearhead
+    summary
+      padding: 0 0.5rem
+    &:not(:has(details[open])) ~ li.entry
+      display: none
 
 @media only screen and (max-width: 720px)
   .career
