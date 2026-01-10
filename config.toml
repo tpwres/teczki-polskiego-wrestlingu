@@ -74,6 +74,10 @@ special_orgs = [
   "splat"
 ]
 
+# If a person has more than this number of matches and segments TOTAL, their career section
+# will show collapsible per-year headers
+career_collapse_list_at = 60
+
 [extra.org_styles.ppw]
 bg = '#5b007e'
 text_fg = '#c7c7c7'
