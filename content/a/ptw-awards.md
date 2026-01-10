@@ -27,7 +27,7 @@ Fans nominated their candidates by voting with reactions on PTW's Facebook page,
 This award ceremony was held during [PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md).
 Each of the winners was awarded a physical trophy, crafted out of acrylic plastic, depicting a wrestler figure flexing his muscles against the "Kinguin PTW" logo, with individual signatures on the base.
 
-Although most of the fan-voting went uninterrupted, there was one category which caused controversy.
+Although most of the fan voting went uninterrupted, there was one category which caused controversy.
 While [Sędzia Seweryn](@/w/sedzia-seweryn.md) and Sędzia Matek fought a close battle for the prize, Sędzia Rafał unexpectedly and rapidly gained over 250 reactions.
 Until that moment he had just around 40, compared to his opponents' 150 reactions.
 After a short investigation, it was found that somebody decided to buy around 200 reactions from well-known Vietnamese social media bot farms.
@@ -53,7 +53,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 - Sędzia Roku (_Referee of the Year_)
 - Konflikt Roku (_Feud of the Year_)
 
-#### Results of fan-voting in each category
+#### Voting results
 
 ##### Wrestler of the Year
 
@@ -190,7 +190,7 @@ The [initial post][10-categories] stated fans could vote in ten categories, but 
 - Bohater Roku (_Hero of the Year_)
 - Złoczyńca Roku (_Villain of the Year_)
 
-#### Results of fan-voting in each category
+#### Voting results
 
 ##### Wrestler of the Year (not awarded)
 
@@ -247,6 +247,7 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 - Progres Roku (_Progress of the Year_)
 - Finisher Roku (_Finisher of the Year_)
 - Głos Roku (_Voice of the Year_)
+- Bohater Roku (_Hero of the Year_)
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
