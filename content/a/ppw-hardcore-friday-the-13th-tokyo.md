@@ -18,6 +18,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 * The first match to be announced - on 15.12.2025, the day after the announcement of the show - was a Deathmatch between Abdullah Kobayashi and [Johnny Blade](@/w/johnny-blade.md).
 * Next, on 22.12.2025, came the announcement of Chris Brookes vs [Gabriel Queen](@/w/gabriel-queen.md).
+* 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of Yosomono stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
 
 ## Card
 
@@ -29,6 +30,10 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 - - 'Chris Brookes'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - nc: upcoming
+- - 'Team PpW: [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Robert Star](@/w/robert-star.md) & Shigehiro Irie'
+  - 'Team BJW: Minoru Fujita & So Daimonji & [Jacob Crane](@/w/jacob-crane.md)'
+  - s: 3-vs-3 Tag Team Match
+    nc: upcoming
 {% end %}
 
 ### Recap

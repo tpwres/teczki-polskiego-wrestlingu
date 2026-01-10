@@ -26,11 +26,6 @@ taxonomies = [
 [search]
 index_format = "elasticlunr_json"
 
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
-
 [slugify]
 paths_keep_dates = true
 
