@@ -8,3 +8,4 @@
 0007 = { path = "leon-lato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
 0008 = { path = "paskalesak.webp", caption = "Image announcing Markus Paskal vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
 0009 = { path = "wyszechrady.webp", caption = "Image announcing [Lukáš Mottl](@/w/skull-evil.md) & [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+0010 = { path = "michal-fux-vs-ron-corvus.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Ron Corvus](@/w/ron-corvus.md).", source = "Official KPW Facebook" }
