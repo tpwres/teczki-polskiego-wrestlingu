@@ -9,8 +9,10 @@
   {% set napps = appearances | get(key=name, default=[]) %}
   {% set_global my_appearances = my_appearances | concat(with=napps) %}
 {% endfor %}
-
 {% set appearances_by_date = my_appearances | sort(attribute='d') %}
+{% set abdl = appearances_by_date | length %}
+{% set collapse_at = config.extra.crew_show_year_headers_at | default(value=50) %}
+{% if abdl > collapse_at %}{% set enable_year_headers = true %}{% endif %}
 
 {% if my_appearances %}
 <h3>Crew appearances</h3>
@@ -20,19 +22,36 @@
         <span class="o">Org</span>
         <span class="r">Role</span>
     </li>
+    {% set lastyr = "-" %}
     {% for app in appearances_by_date | reverse %}
-    <li class="entry">
-        <time class="d" style="white-space: nowrap" datetime="{{ app.d }}">{{ app.d }}</time>
-        <span class="o">
-            {% for org in app.o %}
-              {{ macros::promolink_color(code=org, styles=org_styles) }}
-            {% endfor %}
-        </span>
-        <span class="r">
-            {{ app.r }}<br/>
-            {% set event_path = "@/" ~ app.p %}
-            <small>at <a href="{{ get_url(path=event_path) }}">{{ app.n }}</a></small>
-        </span>
+        {% set yr = app.d | date(format="%Y") %}
+        {% if lastyr != yr %}
+            {% set_global lastyr = yr %}
+            {# Prematurely closes ul and starts a new one #}
+            {% if enable_year_headers %}
+                </ul>
+                <ul class="career crew-career">
+                    <li class="header yearhead">
+                        <details class="y" open>
+                            <summary role="heading">{{ yr }}</summary>
+                        </details>
+                    </li>
+             {% endif %}
+        {% endif %}
+
+        <li class="entry">
+            <time class="d" style="white-space: nowrap" datetime="{{ app.d }}">{{ app.d }}</time>
+            <span class="o">
+                {% for org in app.o %}
+                {{ macros::promolink_color(code=org, styles=org_styles) }}
+                {% endfor %}
+            </span>
+            <span class="r">
+                {{ app.r }}<br/>
+                {% set event_path = "@/" ~ app.p %}
+                <small>at <a href="{{ get_url(path=event_path) }}">{{ app.n }}</a></small>
+            </span>
+        </li>
     {% endfor %}
 </ul>
 {% endif %}
