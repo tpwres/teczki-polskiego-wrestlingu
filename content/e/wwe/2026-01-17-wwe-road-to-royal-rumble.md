@@ -25,7 +25,43 @@ Independently, but driven by the bigger show's influence and fan interest, two P
 
 ## Predicted card
 
+This card is speculative, and based on preceding shows in Leipzig, Glasgow and Copenhagen.
+
 {% card(predicted=true) %}
+- - "AJ Styles & Dragon Lee"
+  - "The New Day: Kofi Kingston & Xavier Woods"
+  - s: Tag Team Match
+    nc: upcoming
+- - "The Wyatt Sicks: Dexter Lumis & Erick Rowan & Joe Gacy & Uncle Howdy w/ Nikki Cross"
+  - "MFT: JC Mateo & Talla Tonga & Tama Tonga & Tonga Loa w/ Solo Sikoa"
+  - s: Eight Man Tag Team Match
+    nc: upcoming
+- - Gunther
+  - Sami Zayn
+  - nc: upcoming
+- - Liv Morgan w/ Raquel Rodriguez
+  - Lyra Valkyria
+  - nc: upcoming
+- - Alexa Bliss
+  - Kairi Sane
+  - nc: upcoming
+- - Jey Uso
+  - Finn Balor
+  - nc: upcoming
+- - "Drew McIntyre(c)"
+  - Shinsuke Nakamura
+  - c: Undisputed WWE Title
+    nc: upcoming
+- - "CM Punk(c)"
+  - Bronson Reed
+  - c: WWE World Heavyweight Championship
+    nc: upcoming
+{% end %}
+
+Live Nation's Facebook post originally listed the following matches, however neither Jade Cargill nor Tiffany Stratton were featured on any of the tour shows so far.
+
+{% card(predicted=true) %}
+# NOTE: Both cards will be displayed, but only the first card is processed. Talent listed here will not have their appearances counted.
 - - Cody Rhodes (c)
   - Drew McIntyre
   - c: Undisputed WWE Championship
