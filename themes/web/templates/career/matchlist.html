@@ -28,7 +28,7 @@
 {% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') %}
 {% set my_match_pos = my_appearances | group_by(attribute='0') %}
 {% set mml = matches_by_date | length %}
-{% set collapse_at = config.extra.career_collapse_list_at | default(value=60) %}
+{% set collapse_at = config.extra | get(key="career_show_year_headers_at") | default(value=50) %}
 {% if mml > collapse_at %}{% set enable_year_headers = true %}{% endif %}
 
 {% if my_matches %}
