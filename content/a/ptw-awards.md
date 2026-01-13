@@ -248,6 +248,7 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 - Finisher Roku (_Finisher of the Year_)
 - Głos Roku (_Voice of the Year_)
 - Bohater Roku (_Hero of the Year_)
+- Złoczyńca Roku (_Villain of the Year_)
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
