@@ -16,6 +16,7 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 ## Build-up
 
 * A [video][gobliffin] published by PpW on Christmas Day 2025 saw [Gustav Gryffin](@/w/gustav-gryffin.md) convince [Goblin](@/w/goblin.md) to join him against [Rodzina](@/tt/rodzina.md) in a fight for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
+* The first officially announced match, revealed on 13.01.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Justin Joy](@/w/justin-joy.md). The two previously teamed up at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 
 ## Predicted card
 
@@ -25,6 +26,9 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
+  - nc: upcoming
 {% end %}
 
 ### Recap
