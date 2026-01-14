@@ -45,7 +45,6 @@ Certain entries are mandatory for all files, and not including them is an error.
 * `extra.fold_matchlist`: if present and set to `"always"`, initially collapse the matchlist section, requiring a click on the header disclosure control.
    If absent or set to `"auto"`, collapse if the number of matches is above a configurable value.
    Finally if set to `"never"`, show matchlist in full.
-* `extra.fold_crew_appearances`: similar to `extra.fold_matchlist` but for crew appearances
 
 ## Org page
 
