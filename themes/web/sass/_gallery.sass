@@ -44,11 +44,9 @@ ul.gallery
       align-items: center
       gap: 0.2rem
 
-details > summary.h2-like
-  font-size: 2.6rem
+details > summary.header
   margin-top: 3rem
   margin-bottom: .25rem
-  color: var(--dark-green)
   display: flex
   align-items: flex-start
   text-align: left
@@ -59,12 +57,27 @@ details > summary.h2-like
   &:after
     content: ''
     flex-grow: 1
-    height: 0.26rem
-    background: var(--dark-green)
     min-width: 2rem
     margin: auto
     margin-left: 1rem
 
-details[open] > summary.h2-like
+details[open] > summary.header
   &:before
     content: '▾ '
+
+details > summary.h2-like
+  font-size: 2.6rem
+  color: var(--dark-green)
+  &:after
+    height: 0.26rem
+    background: var(--dark-green)
+  @media only screen and (max-width: 720px)
+    font-size: 2.1rem
+
+
+details > summary.h3-like
+  font-size: 2rem
+  color: var(--dark-blue)
+  &:after
+    height: 0.2rem
+    background: var(--dark-blue)

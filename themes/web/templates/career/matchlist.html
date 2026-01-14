@@ -29,36 +29,15 @@
 {% set my_match_pos = my_appearances | group_by(attribute='0') %}
 
 {% if my_matches %}
-<h3>Matches and segments</h3>
-<ul class="career">
-    <li class="header">
-        <span class="d">Date</span>
-        <span class="o">Org</span>
-        <span class="r">Details</span>
-    </li>
-    {% for match in matches_by_date | reverse %}
-    <li class="entry {{ match.tt | default(value="") }}">
-        <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
-        <span class="o">
-            {% for org in match.o %}
-              {{ macros::promolink_color(code=org, styles=org_styles) }}
-            {% endfor %}
-        </span>
-        {% set row = match.m %}
-        {# It may happen that the same match.i happens more than once #}
-        {# This means more than one appearance in that match (think rumbles, entering under different names) #}
-        {# These matches were filtered out by unique above, so we have only one. #}
-        {% set positions = my_match_pos[match.i] | map(attribute='1') %}
-        <span class="r">
-            {% include "career/result_row.html" %}
-            {% set event_path = "@/" ~ match.p %}
-            <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
-            {% if match.tt %}
-              ({{ match.tt }})
-            {% endif %}
-        </span>
-    </li>
-    {% endfor %}
-</ul>
+  {% set mml = matches_by_date | length %}
 
+  {% if fold_matchlist == "always" or (fold_matchlist == "auto" and mml > fold_matchlist_at) %}
+    <details>
+      <summary class="header h3-like">Matches and segments</summary>
+      {% include "career/match_table.html" %}
+    </details>
+  {% else %}
+    <h3>Matches and segments</h3>
+    {% include "career/match_table.html" %}
+  {% endif %}
 {% endif %}
