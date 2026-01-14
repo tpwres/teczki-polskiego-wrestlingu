@@ -1,4 +1,13 @@
-01 = { path = "2026-01-17-wwe-road-to-royal-rumble.jpg", caption = "Graphic announcing the tour dates.", source = "WWE.com" }
-02 = { path = "wwe-registration.webp", caption = "Registration form.", source = "WWE.com" }
-03 = { path = "kodymil-rodewski.webp", caption = "Cody Rhodes's tour dates.", source = "CodyRhodes @ Twitter" }
-04 = { path = "ciekawe-czy-umie-stroic-wiolonczele.jpg", caption = "Bronson Reed's tour dates.", source = "BRONSONISHERE @ Twitter" }
+001 = { path = "2026-01-17-wwe-road-to-royal-rumble.jpg", caption = "Graphic announcing the tour dates.", source = "WWE.com" }
+002 = { path = "wwe-registration.webp", caption = "Registration form.", source = "WWE.com" }
+003 = { path = "kodymil-rodewski.webp", caption = "Cody Rhodes's tour dates.", source = "CodyRhodes @ Twitter" }
+004 = { path = "ciekawe-czy-umie-stroic-wiolonczele.jpg", caption = "Bronson Reed's tour dates.", source = "BRONSONISHERE @ Twitter" }
+011 = { path = "zapowiedz-bayley.webp", caption = "Image announcing Bayley.", source = "WWE.com" }
+012 = { path = "zapowiedz-becky-lynch.webp", caption = "Image announcing Becky Lynch.", source = "WWE.com" }
+013 = { path = "zapowiedz-bron-breakker.webp", caption = "Image announcing Bron Breakker.", source = "WWE.com" }
+014 = { path = "zapowiedz-bronson-reed.webp", caption = "Image announcing Bronson Reed.", source = "WWE.com" }
+015 = { path = "zapowiedz-cm-punk.webp", caption = "Image announcing CM Punk.", source = "WWE.com" }
+016 = { path = "zapowiedz-cody-rhodes.webp", caption = "Image announcing Cody Rhodes.", source = "WWE.com" }
+017 = { path = "zapowiedz-drew-mcintyre.webp", caption = "Image announcing Drew McIntyre.", source = "WWE.com" }
+018 = { path = "zapowiedz-ilja-dragunov.webp", caption = "Image announcing Ilja Dragunov.", source = "WWE.com" }
+019 = { path = "zapowiedz-maxxine-dupri.webp", caption = "Image announcing Maxxine Dupri.", source = "WWE.com" }

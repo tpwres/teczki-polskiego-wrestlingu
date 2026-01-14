@@ -21,6 +21,7 @@ Independently, but driven by the bigger show's influence and fan interest, two P
 * While no details were given with regards to the card, the post said that fans would have a chance to see such stars as Cody Rhodes, Seth Rollins, Tiffany Stratton, Jey Uso, Rhea Ripley, LA Knight, Drew McIntyre, Jacob Fatu and more\* (\*list of participants subject to change). Orton, Punk and Rhodes were present at some of the past shows, whereas for the rest it'd be their Polish debut.
 * The card was made available on 22.11.2025, though some errors were easy to be spotted. Cody Rhodes has been erronuously announced as World Heavyweight Champion instead of WWE Undisputed Champion. Becky Lynch was announced as Women's Intercontinental Champion despite Maxxine Dupri holding the title at the time.
 * Among other talent officially announced were: Jey Uso, Women’s World Champion Stephanie Vaquer, Women’s Intercontinental Champion [_sic_] Becky Lynch, LA Knight, Finn Balor (who would be making his return to Poland), WWE Women’s Tag Team Champions The Kabuki Warriors (Asuka & Kairi Sane), Charlotte Flair and Alexa Bliss.
+* About a week prior to the show, the [event details on WWE.com][wwe-info] listed the featured wrestler for the event: Cody Rhodes, CM Punk, Drew McIntyre, Becky Lynch, Bron Breakker, Bronson Reed, Maxxine Dupri, Ilja Dragunov and Bayley.
 
 ## Predicted card
 
@@ -42,7 +43,8 @@ Independently, but driven by the bigger show's influence and fan interest, two P
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=434489)
-* [Announcement on WWE.com](https://www.wwe.com/event/road-to-royal-rumble-5)
+* [Announcement on WWE.com][wwe-info]
 * [Event card as per LiveNation](https://www.facebook.com/reel/2076026209880438)
 
 [fb-event]: https://www.facebook.com/events/1378162937301722/
+[wwe-info]: https://www.wwe.com/event/road-to-royal-rumble-5
