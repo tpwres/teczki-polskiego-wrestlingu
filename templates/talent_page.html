@@ -20,12 +20,4 @@
   <h2 id="career">Career</h2>
   {% include "career/section.html" %}
 {% endif %}
-
-<p class="tagsData">
-    {% if page.taxonomies.tags %}
-    {% for tag in page.taxonomies.tags %}
-    <a href="/tags/{{ tag | slugify }}">&#47;{{ tag }}&#47;</a>
-    {% endfor %}
-    {% endif %}
-</p>
 {% endblock content %}
