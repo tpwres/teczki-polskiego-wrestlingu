@@ -26,6 +26,6 @@ toclevel = 2
 
 ## References
 
-* TBD
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=443639)
 
 [nowe-gale]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1440651250960393:1440651250960393
