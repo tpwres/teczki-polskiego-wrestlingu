@@ -31,10 +31,6 @@ Independently, but driven by the bigger show's influence and fan interest, two P
   - c: Undisputed WWE Championship
     s: No Disqualification Match
     nc: upcoming
-- - Jade Cargill (c)
-  - Tiffany Stratton
-  - c: "WWE Women's Championship Match"
-    nc: upcoming
 - - CM Punk (c)
   - Bronson Reed w/ Bron Breakker
   - c: WWE World Heavyweight Championship
