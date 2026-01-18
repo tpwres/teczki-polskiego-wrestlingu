@@ -19,7 +19,7 @@ The event was not promoted on KPW's usual social media channels.
 ## Card
 
 {% card() %}
-- - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md) & Oskar Fux'
+- - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md) & [Oskar Fux](@/w/rookie-one.md)'
   - '[Die Ordnung 2.0](@/tt/die-ordnung.md): Franz & Friedrich'
   - s: Tag-Team Match
 - - '[Chemik](@/w/chemik.md)'
@@ -40,7 +40,7 @@ The event was not promoted on KPW's usual social media channels.
   - 'Friedrich'
   - '[Hans Schulte](@/w/hans-schulte.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
-  - 'Oskar Fux'
+  - '[Oskar Fux](@/w/rookie-one.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - '[Zefir](@/w/zefir.md)'
   - s: 'Battle Royal'
@@ -58,7 +58,7 @@ Attendance: ca. 350 (source: Cagematch)
 * [Chairman Malinowski](@/w/krystian-malinowski.md) returned to his pre-[Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) babyface persona when talking to the crowd.
 * [Eryk Lesak](@/w/eryk-lesak.md) came out with a cigar and a beer, getting babyface pop for the first time since [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md).
 * [Hans Schulte](@/w/hans-schulte.md) hit [Zefir](@/w/zefir.md) on the head with a can of someone's beer.
-* After his victory Zefir was attacked by Franz and Friedrich, promptly joined by Hans Schulte in their endeavour. [Michał Fux](@/w/michal-fux.md) and Oskar Fux came to Zefir's aid moments later, prompting other wrestlers to thrown down as well. Eventually Krystian Malinowski came to the ring and announced a Battle Royal.
+* After his victory Zefir was attacked by Franz and Friedrich, promptly joined by Hans Schulte in their endeavour. [Michał Fux](@/w/michal-fux.md) and [Oskar Fux](@/w/rookie-one.md) came to Zefir's aid moments later, prompting other wrestlers to thrown down as well. Eventually Krystian Malinowski came to the ring and announced a Battle Royal.
 * During the Battle Royal, [Leon Lato](@/w/leon-lato.md) pulled off Chemik's boot and hit him on the head with it.
 
 ## References

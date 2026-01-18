@@ -9,3 +9,19 @@
 0008 = { path = "paskalesak.webp", caption = "Image announcing Markus Paskal vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
 0009 = { path = "wyszechrady.webp", caption = "Image announcing [Lukáš Mottl](@/w/skull-evil.md) & [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
 0010 = { path = "michal-fux-vs-ron-corvus.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Ron Corvus](@/w/ron-corvus.md).", source = "Official KPW Facebook" }
+
+0101 = { path = "kinga.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+0102 = { path = "suddenly-krzeslo.webp", caption = "Filip Fux emerges from underneath the ring to strike Tomczack in the back with a chair.", source = "M3n747" }
+0103 = { path = "suddenly-malinowski.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) changes the plans.", source = "M3n747" }
+0104 = { path = "suddenly-adepci.webp.webp", caption = "Tomczak gets back on his feet, while Rookies Two, Three and One are instructed by Krystian Malinowski to remove Filip Fux from the ring.", source = "M3n747" }
+
+
+1001 = { path = ".webp", caption = ".", source = "M3n747" }
+1001 = { path = ".webp", caption = ".", source = "M3n747" }
+1001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+1001 = { path = ".webp", caption = ".", source = "Tomek" }
