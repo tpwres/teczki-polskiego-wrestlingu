@@ -16,12 +16,16 @@
 0104 = { path = "suddenly-adepci.webp.webp", caption = "Tomczak gets back on his feet, while Rookies Two, Three and One are instructed by Krystian Malinowski to remove Filip Fux from the ring.", source = "M3n747" }
 
 
-1001 = { path = ".webp", caption = ".", source = "M3n747" }
-1001 = { path = ".webp", caption = ".", source = "M3n747" }
-1001 = { path = ".webp", caption = ".", source = "M3n747" }
+2001 = { path = ".webp", caption = ".", source = "M3n747" }
+3001 = { path = ".webp", caption = ".", source = "M3n747" }
+4001 = { path = ".webp", caption = ".", source = "M3n747" }
+5001 = { path = ".webp", caption = ".", source = "M3n747" }
+6001 = { path = ".webp", caption = ".", source = "M3n747" }
+7001 = { path = ".webp", caption = ".", source = "M3n747" }
+8001 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 
 
 
-1001 = { path = ".webp", caption = ".", source = "Tomek" }
+9001 = { path = ".webp", caption = ".", source = "Tomek" }
