@@ -33,7 +33,7 @@ Independently, but driven by the bigger show's influence and fan interest, two P
 - - 'Raquel Rodriguez w/ Roxanne Perez'
   - 'Bayley w/ Lyra Valkyria'
 - - 'The Wyatt Sicks: Dexter Lumis & Joe Gacy & Uncle Howdy w/ Nikki Cross'
-  - 'MFT: JC Mateo & Solo Sikoa & Tonga Loa w/ Talla Tonga w/ Tama Tonga'
+  - 'MFT: JC Mateo & Solo Sikoa & Tonga Loa w/ Talla Tonga & Tama Tonga'
   - s: Six Man Tag Team Match
 - - 'Lyra Valkyria w/ Bayley'
   - 'Roxanne Perez w/ Raquel Rodriguez'
@@ -42,7 +42,7 @@ Independently, but driven by the bigger show's influence and fan interest, two P
   - c: WWE Women's Intercontinental Championship
 - - 'Cody Rhodes'
   - 'Drew McIntyre (c)'
-  - c: 
+  - c: Undisputed WWE Championship
     r: DQ
 {% end %}
 
