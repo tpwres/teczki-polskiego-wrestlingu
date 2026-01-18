@@ -14,7 +14,7 @@ Rookie Two is a rookie wrestler training in the [KPW School](@/o/szkola-kpw.md).
 
 * Years active: 2025-
 * Gimmicks/nicknames:
-  - Rookie Two {{ org_badge(orgs=['kpw') }}
+  - Rookie Two {{ org_badge(orgs=['kpw']) }}
 
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
