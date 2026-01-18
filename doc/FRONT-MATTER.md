@@ -32,12 +32,19 @@ Certain entries are mandatory for all files, and not including them is an error.
 
 * `template`: must be `talent_page.html`.
 * `extra.omit_career`: if present and set to `true`, skips the career match listing. Useful for non-wrestler talent.
+* `extra.fold_matchlist`: if present and set to `"always"`, initially collapse the matchlist section, requiring a click on the header disclosure control.
+   If absent or set to `"auto"`, collapse if the number of matches is above a configurable value.
+   Finally if set to `"never"`, show matchlist in full.
+* `extra.fold_crew_appearances`: similar to `extra.fold_matchlist` but for crew appearances
 
 ## Team page
 
 * `template`: must be `team_page.html`.
 * `extra.omit_career`: if present and set to `true`, skips the career match listing.
 * `extra.orgs`: an array of organization abbreviations. If present, their logos are displayed in the page's header, similar to how a country flag may be displayed on a talent page.
+* `extra.fold_matchlist`: if present and set to `"always"`, initially collapse the matchlist section, requiring a click on the header disclosure control.
+   If absent or set to `"auto"`, collapse if the number of matches is above a configurable value.
+   Finally if set to `"never"`, show matchlist in full.
 
 ## Org page
 

@@ -79,6 +79,12 @@ special_orgs = [
   "splat"
 ]
 
+fold_matchlist = "auto"
+fold_matchlist_at = 25 # Collapse the matchlist section on a talent or team page if has more than that many entries.
+
+fold_crew_appearances = "auto"
+fold_crew_appearances_at = 25 # Collapse the crew appearances section of a talent page if has more than that many entries.
+
 [extra.org_styles.ppw]
 bg = '#5b007e'
 text_fg = '#c7c7c7'

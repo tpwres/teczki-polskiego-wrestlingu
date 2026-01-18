@@ -74,6 +74,12 @@ special_orgs = [
   "splat"
 ]
 
+fold_matchlist = "auto"
+fold_matchlist_at = 20
+
+fold_crew_appearances = "auto"
+fold_crew_appearances_at = 20
+
 [extra.org_styles.ppw]
 bg = '#5b007e'
 text_fg = '#c7c7c7'
