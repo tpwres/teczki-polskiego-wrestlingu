@@ -22,39 +22,28 @@ Independently, but driven by the bigger show's influence and fan interest, two P
 * The card was made available on 22.11.2025, though some errors were easy to be spotted. Cody Rhodes has been erronuously announced as World Heavyweight Champion instead of WWE Undisputed Champion. Becky Lynch was announced as Women's Intercontinental Champion despite Maxxine Dupri holding the title at the time.
 * Among other talent officially announced were: Jey Uso, Women’s World Champion Stephanie Vaquer, Women’s Intercontinental Champion [_sic_] Becky Lynch, LA Knight, Finn Balor (who would be making his return to Poland), WWE Women’s Tag Team Champions The Kabuki Warriors (Asuka & Kairi Sane), Charlotte Flair and Alexa Bliss.
 
-## Predicted card
+## Card
 
-This card is speculative, and based on preceding shows in Leipzig, Glasgow and Copenhagen.
-
-{% card(predicted=true) %}
-- - "AJ Styles & Dragon Lee"
-  - "The New Day: Kofi Kingston & Xavier Woods"
+{% card() %}
+- - 'Bron Breakker'
+  - "Je'Von Evans"
+- - "CM Punk & Je'Von Evans"
+  - 'The Vision: Bron Breakker & Bronson Reed'
   - s: Tag Team Match
-    nc: upcoming
-- - "The Wyatt Sicks: Dexter Lumis & Erick Rowan & Joe Gacy & Uncle Howdy w/ Nikki Cross"
-  - "MFT: JC Mateo & Talla Tonga & Tama Tonga & Tonga Loa w/ Solo Sikoa"
-  - s: Eight Man Tag Team Match
-    nc: upcoming
-- - Gunther
-  - Sami Zayn
-  - nc: upcoming
-- - Liv Morgan w/ Raquel Rodriguez
-  - Lyra Valkyria
-  - nc: upcoming
-- - Alexa Bliss
-  - Kairi Sane
-  - nc: upcoming
-- - Jey Uso
-  - Finn Balor
-  - nc: upcoming
-- - "Drew McIntyre(c)"
-  - Shinsuke Nakamura
-  - c: Undisputed WWE Title
-    nc: upcoming
-- - "CM Punk(c)"
-  - Bronson Reed
-  - c: WWE World Heavyweight Championship
-    nc: upcoming
+- - 'Raquel Rodriguez w/ Roxanne Perez'
+  - 'Bayley w/ Lyra Valkyria'
+- - 'The Wyatt Sicks: Dexter Lumis & Joe Gacy & Uncle Howdy w/ Nikki Cross'
+  - 'MFT: JC Mateo & Solo Sikoa & Tonga Loa w/ Talla Tonga & Tama Tonga'
+  - s: Six Man Tag Team Match
+- - 'Lyra Valkyria w/ Bayley'
+  - 'Roxanne Perez w/ Raquel Rodriguez'
+- - 'Becky Lynch (c)'
+  - 'Maxxine Dupri'
+  - c: WWE Women's Intercontinental Championship
+- - 'Cody Rhodes'
+  - 'Drew McIntyre (c)'
+  - c: 
+    r: DQ
 {% end %}
 
 Live Nation's Facebook post originally listed the following matches, however neither Jade Cargill nor Tiffany Stratton were featured on any of the tour shows so far.
