@@ -18,9 +18,15 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 ## Build up
 
 * In the [video interview][smutny-arek] posted on 16.12.2025 [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) said that he'd be quitting PTW, citing his age, corpulence and poor physical and mental condition, following the turn of events of Świąt Nie Będzie. Pawłowski then chastised rookie Boguś for betraying him and his team, thus taking away the dream Arek had worked for his entire life. He followed this by stating that he wants to say goodbye to the fans and to PTW (in his own, uncensored way), which will likely be the last wrestling-related thing he does.
+* The first match of the event, announced on 17.01.2026, was Damian Adler vs [CJ Klakson](@/w/cj-klakson.md).
 
-{{ skip_card() }}
+## Predicted card
 
+{% card(predicted=true) %}
+- - '[CJ Klakson](@/w/cj-klakson.md)'
+  - 'Damian Adler'
+  - nc: upcoming
+{% end %}
 ### Recap
 
 * TBD
