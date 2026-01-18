@@ -16,7 +16,7 @@ toclevel = 2
 
 Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 
-## Build up
+## Build-up
 
 * A new character, Vangör Ragnarök, continued to tease his arrival in PTW over the previous month, with cryptic videos on his Instagram profile. On 14.09.2025 he posted a [video][viking-video] of a chair standing in the middle of the PTW arena, and still frames referencing the next show, hinting that his debut will take place at Ból Istnienia. The character teases strongly reference Nordic mythology, presenting a hooded bearded figure covered in rune tattoos. Most of the videos are kept in black and purple color palette, including effects such as distorted audio and video, Viking-style singing and crows cawing.
 * On 15.09.2025 it was [confirmed][konfjurmejszyn] that after the revelation from [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), [Łukasz Okoński](@/w/lukasz-okonski.md) will address the allegations that he is a father of [Sigma Boy xD](@/w/sigma-boy.md).

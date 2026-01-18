@@ -13,7 +13,7 @@ toclevel = 2
 
 "Halloweenowa Rozpierducha" (roughly _Halloween Havoc_, or _Halloween Eff-Up_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md). It was the second Halloween-themed show, following 2024's [Underground 23](@/e/ptw/2024-10-19-ptw-underground-23.md).
 
-## Build up
+## Build-up
 
 * Over the previous months PTW was building towards the match between the teams led by the two Chairmen. While [Pawłowski](@/w/pan-pawlowski.md) already had his team of [Nietykalni](@/tt/nietykalni.md), [Łukasz Okoński](@/w/lukasz-okonski.md) was busy recruiting his men. After [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md), Team Okoński was finally completed with the addition of [Nano Lopez](@/w/nano-lopez.md) and [Sigma Boy xD](@/w/sigma-boy.md). Thus, a 4 on 4 match was confirmed for the next show.
 * On 13.10.2025 PTW announced [Daniel Razor's](@/w/daniel-razor.md) Open Challenge for the [PTW Underground Championship](@/c/ptw-underground-championship.md).

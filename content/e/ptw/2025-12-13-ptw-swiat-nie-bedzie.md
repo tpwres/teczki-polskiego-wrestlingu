@@ -13,7 +13,7 @@ toclevel = 2
 
 "Świąt Nie Będzie" (roughly _Christmas is Cancelled_) was a show by [Prime Time Wrestling](@/o/ptw.md). It was announced at the end of [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 
-## Build up
+## Build-up
 
 * The main event of the show - [Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md) for the [PTW Championship](@/c/ptw-championship.md) - was announced at the end of the [previous event](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 * As per the [reel][rolka] posted by PTW on 1.12.2025, the stakes were increased with the addition of the PTW:WWA Championship. Depending on the match result, the Chairman whose competitor loses will have to leave PTW.
