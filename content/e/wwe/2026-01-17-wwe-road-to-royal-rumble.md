@@ -45,26 +45,11 @@ Independently, but driven by the bigger show's influence and fan interest, two P
   - 'Drew McIntyre (c)'
   - c: Undisputed WWE Championship
     r: DQ
+- - Cody Rhodes
+  - s: Cody thanks the audience, and gifts a signed piece of a broken table from his match with Drew to a young fan.
 {% end %}
 
-Live Nation's Facebook post originally listed the following matches, however neither Jade Cargill nor Tiffany Stratton were featured on any of the tour shows so far.
-
-{% card(predicted=true) %}
-# NOTE: Both cards will be displayed, but only the first card is processed. Talent listed here will not have their appearances counted.
-- - Cody Rhodes (c)
-  - Drew McIntyre
-  - c: Undisputed WWE Championship
-    s: No Disqualification Match
-    nc: upcoming
-- - CM Punk (c)
-  - Bronson Reed w/ Bron Breakker
-  - c: WWE World Heavyweight Championship
-    nc: upcoming
-- - 'Maxxine Dupri'
-  - 'Becky Lynch'
-  - c: "WWE Women's Intercontinental Championship"
-    nc: upcoming
-{% end %}
+Attendance: est. 10,015 (per WrestleTix)
 
 ## References
 
@@ -72,6 +57,7 @@ Live Nation's Facebook post originally listed the following matches, however nei
 * [Announcement on WWE.com](https://www.wwe.com/event/road-to-royal-rumble-5)
 * [Event card as per LiveNation](https://www.facebook.com/reel/2076026209880438) (in the description)
 * [Updated card][fb-ln-post] with a different women's match
+* [WrestleTix ticket data](https://xcancel.com/WrestleTix/status/2012495296312254834#m) via XCancel
 
 [fb-event]: https://www.facebook.com/events/1378162937301722/
 [fb-ln-post]: https://www.facebook.com/events/1378162937301722?post_id=1448928706891811&view=permalink
