@@ -45,7 +45,7 @@ Ricky Sky returned to KPW in 2025 and along with [David Oliwa](@/w/david-oliwa.m
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [David Oliwa](@/w/david-oliwa.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [David Oliwa](@/w/david-oliwa.md) & [Lukáš Mottl](@/w/skull-evil.md)
 
 ## References
 
