@@ -11,11 +11,11 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Najlepsza Gala W Mieście [Hardcore Edition] (_The Best Show in Town_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). It is the second show on PpW's tour of Poland, following [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and their first show in Gdynia. It will be held in {{ map_pin(v="Klub Svera") }}Klub Svera.
+Najlepsza Gala W Mieście [Hardcore Edition] (_The Best Show in Town_) was a upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). It was the second show on PpW's tour of Poland, following [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and their first show in Gdynia. The event was held in {{ map_pin(v="Klub Svera") }}Klub Svera, right next to Gdynia's railway station, merely 700m from [Nowy Harem](@/v/atlantic-nh-gdynia.md).
 
-Much like the [first show of the same name](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) poked fun at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) being held in Warsaw the next day, this one is a jab at [WWE Road to Royal Rumble](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md), also taking place the next day (albeit not exactly in the same city).
+Much like the [first show of the same name](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) poked fun at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) being held in Warsaw the next day, this show's name was a jab at [WWE Road to Royal Rumble](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md), also taking place the next day (albeit not exactly in the same city).
 
-Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Facebook announcing [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), also set for 16.01.2026.
+Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Facebook announcing [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), also set for 16.01.2026. The two shows competed with each other for fans, although KPW started their show about 1 hour and 30 minutes earlier.
 
 ## Build-up
 
