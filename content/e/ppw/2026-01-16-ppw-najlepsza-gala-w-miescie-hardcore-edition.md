@@ -41,7 +41,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
     n: Pre-show match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
+  - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Golden Opportunity Contendership Match'
 - - 'Zmowa: [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Axel Fox](@/w/axel-fox.md)'
   - g: Zmowa assert their dominance, Mister Z denies Gustav and Goblin their Tag Team finals spot unless they also defeat Zmowa
 - - '[Sentinel](@/w/sentinel.md)'
@@ -72,7 +72,11 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 
 ### Recap
 
-* TBD
+* Upon his entrance, and also later after winning the match, Mutant received "Bóg Jest Łysy" (_God Is Bald_) [chants](@/a/polish-wrestling-chants.md#wrestler-specific), previously used to praise [Ricardo Diesel](@/w/ricardo-diesel.md).
+* Michael HT announced Mutant as "Jebany Kurwa Mutant" (roughly _Bloody Fucking Mutant_), also on both occasions. In the video, the text just says Mutant.
+* For the multi-man match, Antoni's weapon was his skimboard, Sambor brought in a sceptre, and Marcelito carried a very flashy, green glowing chair. Ladykiller initially brought in a bouquet of flowers with him, but later unwrapped it to reveal a wrench inside. Mutant's weapon was a huge snow shovel, which he put to good use.
+* Gabriel Queen was visibly unhappy about being forced to join Rodzina, and especially being bossed around by Oskar. At one point in the match, Queen was holding Gustav in a front facelock, and Oskar was urging him to tag in. Instead, Gabriel let Gusvav go, and slapped Oskar hard in the face. This led to them getting physical in the ring, and almost granted Gustav a win by roll-up.
+* Later in the match, after receiving a Green Mist from Goblin, a blinded Oskar grabbed and chokeslammed Queen, putting him out of competition and allowing Goblin and Gustav to grab the win.
 
 ## References
 
