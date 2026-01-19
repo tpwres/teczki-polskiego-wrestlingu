@@ -75,6 +75,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=442798)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-najlepza-gala-w-miescie-16-01-26-01-16-2026-22-00-24) (requires paid subscription)
+* [Re-edited show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-najlepsza-gala-w-miescie-hardcore-edition-new-version) (requires paid subscription)
 * [Facebook post announcing the event][w-gdyni-bydziem]
 
 [w-gdyni-bydziem]: https://www.facebook.com/OficjalnePPW/posts/pfbid0AomeiWwNtZ3ozaPyWCfyYyviuFPjm7Z8ZxnXrwyGgaX4i9q2qHnze4thAUeCz8Y6l
