@@ -55,9 +55,9 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
   - s: Szwedzki Hardcore Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Axel Fox](@/w/axel-fox.md)'
-  - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Robert Star](@/w/robert-star.md)'
+  - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Golden Opportunity Contendership Match'
+- - '[Robert Star](@/w/robert-star.md) w/ [Oskar Alexander](@/w/oskar-alexander.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Max Speed](@/w/max-speed.md)'
   - s: No Disqualification Match
 - - '[Olgierd](@/w/olgierd.md)(c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
