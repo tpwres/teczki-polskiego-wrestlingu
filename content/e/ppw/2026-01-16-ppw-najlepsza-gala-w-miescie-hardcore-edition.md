@@ -15,7 +15,7 @@ Najlepsza Gala W Mieście [Hardcore Edition] (_The Best Show in Town_) was a upc
 
 Much like the [first show of the same name](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) poked fun at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) being held in Warsaw the next day, this show's name was a jab at [WWE Road to Royal Rumble](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md), also taking place the next day (albeit not exactly in the same city).
 
-Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Facebook announcing [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), also set for 16.01.2026. The two shows competed with each other for fans, although KPW started their show about 1 hour and 30 minutes earlier.
+Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Facebook announcing [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), also set for 16.01.2026. The two shows competed with each other for fans, although the KPW show started about 90 minutes earlier.
 
 ## Build-up
 
