@@ -32,9 +32,9 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 ## Card
 
 {% card() %}
-- - '[Sambor](@/w/sambor.md)'
+- - '[Mutant](@/w/mutant.md)'
+  - '[Sambor](@/w/sambor.md)'
   - '[Lady Killer](@/w/boro.md)'
-  - '[Mutant](@/w/mutant.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - s: Bring Your Weapons Match
