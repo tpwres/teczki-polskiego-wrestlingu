@@ -29,9 +29,9 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 * A 8.01.2026 post announced that [Zmowa](@/tt/zmowa.md) ([Axel Fox](@/w/axel-fox.md), [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)) will appear at the show, although no further details were given.
 * Two Hungarian luchadores, [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md), were announced on 11.01.2026.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Sambor](@/w/sambor.md)'
   - '[Lady Killer](@/w/boro.md)'
   - '[Mutant](@/w/mutant.md)'
@@ -39,32 +39,34 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
   - '[Marcelito](@/w/marcelito.md)'
   - s: Bring Your Weapons Match
     n: Pre-show match
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Robert Star](@/w/robert-star.md)'
-  - s: No Disqualification  Match
-    nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)(c)'
-  - '[Biesiad Strong](@/w/biesiad.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'    
-    s: Legendary Unsanctioned Match
-    nc: upcoming
-- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[Mister Z](@/w/mister-z.md)'
-  - s: Szwedzki Hardcore Match
-    nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
-    nc: upcoming
+- - 'Zmowa: [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Axel Fox](@/w/axel-fox.md)'
+  - g: Zmowa assert their dominance, Mister Z denies Gustav and Goblin their Tag Team finals spot unless they also defeat Zmowa
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: No Disqualification Match
+- - '[Sentinel](@/w/sentinel.md)'
+  - '[Wonder Haze](@/w/wonder-haze.md)'
+  - s: Tag Team Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Wielkie Ojcowskie Testy Platy (_Plata's Grand Fatherly Trials_)
-    nc: upcoming
-- - '[Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
-  - '???'
-  - s: Tag Team Match
-    nc: upcoming
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - s: Szwedzki Hardcore Match
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Axel Fox](@/w/axel-fox.md)'
+  - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
+- - '[Olgierd](@/w/olgierd.md)(c)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: Legendary Unsanctioned Match
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md), [Isnorr](@/w/isnorr.md)'
 {% end %}
 
 ### Recap
