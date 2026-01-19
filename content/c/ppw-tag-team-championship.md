@@ -9,11 +9,11 @@ toclevel=2
 1 = { path = "ppw-tt-belts-fb.webp", caption = "Official announcement of the Championship.", source = "Official PpW Facebook" }
 2 = { path = "pasy-na-dywanie.jpg", caption = "Closer look at the belt.", source = "Mister Z" }
 3 = { path = "zetowi-pasuja-pasy.jpg", caption = "[Mister Z](@/w/mister-z.md) with the belts.", source = "Mister Z" }
-4 = { path = "http://drabinka-durniejowa.webp", caption = Full tournament brackets including _Golden Opportunity_.", source = "Official PpW Facebook" }
+4 = { path = "drabinka-durniejowa.webp", caption = "Full tournament brackets including the _Golden Opportunity_.", source = "Official PpW Facebook" }
 
 +++
 
-The PpW Tag Team Championship is the tag team division title introduced by [PpW Ewenement Wrestling](@/o/ppw.md) in 2025 at [Wjazd na rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). A tournament to crown the inaugural Champions began at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and is set to conclude at Dwa na Dwa.
+The PpW Tag Team Championship is the tag team division title introduced by [PpW Ewenement Wrestling](@/o/ppw.md) in 2025 at [Wjazd na rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). A tournament to crown the inaugural Champions began at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and is set to conclude at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 
 <!-- more -->
 
