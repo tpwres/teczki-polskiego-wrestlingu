@@ -9,7 +9,7 @@ toclevel=2
 1 = { path = "ppw-tt-belts-fb.webp", caption = "Official announcement of the Championship.", source = "Official PpW Facebook" }
 2 = { path = "pasy-na-dywanie.jpg", caption = "Closer look at the belt.", source = "Mister Z" }
 3 = { path = "zetowi-pasuja-pasy.jpg", caption = "[Mister Z](@/w/mister-z.md) with the belts.", source = "Mister Z" }
-4 = { path = "drabinka-durniejowa.webp", caption = "Full tournament brackets including the _Golden Opportunity_.", source = "Official PpW Facebook" }
+4 = { path = "drabinka-durniejowa.webp", caption = "Full tournament brackets, including the _Golden Opportunity_.", source = "Official PpW Facebook" }
 
 +++
 
