@@ -32,13 +32,15 @@ Once Kamil made his transfer to DDW, he quickly debuted in the federation at the
 
 After a short series of defeats in 2013, Kamil got back on track during the tournament for the vacated DDW International Championship at [All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md) in August 2014, where he defeated Klarys, [Ron Corvus](@/w/ron-corvus.md), and finally [Renegade](@/w/renegade.md) to become the second DDW International Champion in history. Kamil Aleksander held the title up until DDW's closure after [Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) in July 2015, which marks the end of his reign, lasting about 341 days.
 
-### Kombat Pro Wrestling (2015-2019)
+### Kombat Pro Wrestling (2015-2019; 2026-)
 
 After DDW's closure and rebranding into [Kombat Pro Wrestling](@/o/kpw.md), Kamil joined the federation as a worker and coach in their academy. He retained his high status in the card, being one of the main babyfaces in the federation. He feuded with top heels such as [Piękny Kawaler](@/w/piekny-kawaler.md), but was unable to defeat him for the [KPW Championship](@/c/kpw-championship.md) at [KPW Godzina Zero 2016](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md). Later on he led "Team Aleksander" against members of Kawaler's faction - Kawaleria - in an Eight Man Elimination Match at [KPW Arena X](@/e/kpw/2018-05-26-kpw-arena-x.md).
 
 After that victory Kamil spent most of 2018 and 2019 in championship pursuits, trying to earn #1 Contender spot in multiple matches for the KPW Championship, [KPW OldTown Championship](@/c/kpw-old-town-championship.md) and the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), but was unsuccessful in all of these ventures.
 
 Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where he was defeated by Reinbakh. After that he seemingly retired from in-ring activites and focused solely on coaching.
+
+Six years later Kamil Aleksander made a surpise appearance at [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) where he announced his return to the ring. Markus Paskal, KPW's newest debutant at the time, introduced Kamil as his mentor and tag team partner in a match against [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md) at Arena 32.
 
 ## International wrestling appearances 
 
@@ -64,6 +66,10 @@ Between 2010 and 2014 Kamil made a handful of appearances in federations in the 
 * [Do Or Die Wrestling](@/o/ddw.md)
   - [DDW International Championship](@/c/ddw-international-championship.md) (1 time; final)
   - DDW International Championship Tournament (2024)
+
+## Internet presence
+
+* [Kamil Aleksander's Facebook profile](https://www.facebook.com/KamilAleksanderWrestler) 
 
 ## References
 
