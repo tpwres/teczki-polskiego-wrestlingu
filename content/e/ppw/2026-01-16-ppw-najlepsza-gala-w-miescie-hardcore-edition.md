@@ -42,7 +42,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Golden Opportunity Contendership Match'
-- - 'Zmowa: [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Axel Fox](@/w/axel-fox.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Axel Fox](@/w/axel-fox.md)'
   - g: Zmowa assert their dominance, Mister Z denies Gustav and Goblin their Tag Team finals spot unless they also defeat Zmowa
 - - '[Sentinel](@/w/sentinel.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
