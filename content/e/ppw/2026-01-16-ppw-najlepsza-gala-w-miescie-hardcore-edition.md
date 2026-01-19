@@ -44,25 +44,26 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
   - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
 - - 'Zmowa: [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Axel Fox](@/w/axel-fox.md)'
   - g: Zmowa assert their dominance, Mister Z denies Gustav and Goblin their Tag Team finals spot unless they also defeat Zmowa
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Robert Star](@/w/robert-star.md)'
-  - s: No Disqualification Match
 - - '[Sentinel](@/w/sentinel.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
   - s: Tag Team Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Wielkie Ojcowskie Testy Platy (_Plata's Grand Fatherly Trials_)
-- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[Mister Z](@/w/mister-z.md)'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: Szwedzki Hardcore Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Axel Fox](@/w/axel-fox.md)'
   - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Contendership Match'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: No Disqualification Match
 - - '[Olgierd](@/w/olgierd.md)(c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Legendary Unsanctioned Match
+    nc: Double Count-Out
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
