@@ -31,7 +31,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 - - 'クリス・ブルックス (Chris Brookes)'
   - '[ゲーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - nc: upcoming
-- - 'Team PpW: [スタニスロ・バン・ドブロニアク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & Shigehiro Irie'
+- - 'Team PpW: [スタニスラス・バン・ドブロニアク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & Shigehiro Irie'
   - 'Team BJW: Minoru Fujita & So Daimonji & [ジェーコブ・クレーン](@/w/jacob-crane.md) (Jacob Crane)'
   - s: 3-vs-3 Tag Team Match
     nc: upcoming
