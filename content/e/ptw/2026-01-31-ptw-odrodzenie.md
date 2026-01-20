@@ -40,7 +40,7 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
     nc: upcoming
 - - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '???'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Recap
