@@ -19,20 +19,25 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * The first match to be announced - on 15.12.2025, the day after the announcement of the show - was a Deathmatch between Abdullah Kobayashi and [Johnny Blade](@/w/johnny-blade.md).
 * Next, on 22.12.2025, came the announcement of Chris Brookes vs [Gabriel Queen](@/w/gabriel-queen.md).
 * 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of Yosomono stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
+* On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
 
 ## Card
 
 {% card() %}
-- - '[Johnny Blade](@/w/johnny-blade.md)'
+- - '[ジョニー・ブレード](@/w/johnny-blade.md)' (Johnny Blade)
   - 'Abdullah Kobayashi'
   - s: Deathmatch
     nc: upcoming
-- - 'Chris Brookes'
-  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+- - 'クリス・ブルックス (Chris Brookes)'
+  - '[ゲーブリーエル・クィーン](@/w/gabriel-queen.md)' (Gabriel Queen)
   - nc: upcoming
-- - 'Team PpW: [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Robert Star](@/w/robert-star.md) & Shigehiro Irie'
-  - 'Team BJW: Minoru Fujita & So Daimonji & [Jacob Crane](@/w/jacob-crane.md)'
+- - 'Team PpW: [スタニスロ・バン・ドブロニアク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & Shigehiro Irie'
+  - 'Team BJW: Minoru Fujita & So Daimonji & [ジェーコブ・クレーン](@/w/jacob-crane.md) (Jacob Crane)'
   - s: 3-vs-3 Tag Team Match
+    nc: upcoming
+- - '[ミスター・ゼッド](@/w/mister-z.md)' (Mister Z)
+  - 'Ryuji Ito'
+  - s: Singapore Cane Match
     nc: upcoming
 {% end %}
 
