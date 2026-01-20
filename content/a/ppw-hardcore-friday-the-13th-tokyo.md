@@ -24,18 +24,18 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 ## Card
 
 {% card() %}
-- - '[ジョニー・ブレード](@/w/johnny-blade.md)' (Johnny Blade)
+- - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - 'Abdullah Kobayashi'
   - s: Deathmatch
     nc: upcoming
 - - 'クリス・ブルックス (Chris Brookes)'
-  - '[ゲーブリーエル・クィーン](@/w/gabriel-queen.md)' (Gabriel Queen)
+  - '[ゲーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - nc: upcoming
 - - 'Team PpW: [スタニスロ・バン・ドブロニアク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & Shigehiro Irie'
   - 'Team BJW: Minoru Fujita & So Daimonji & [ジェーコブ・クレーン](@/w/jacob-crane.md) (Jacob Crane)'
   - s: 3-vs-3 Tag Team Match
     nc: upcoming
-- - '[ミスター・ゼッド](@/w/mister-z.md)' (Mister Z)
+- - '[ミスター・ゼッド](@/w/mister-z.md) (Mister Z)'
   - 'Ryuji Ito'
   - s: Singapore Cane Match
     nc: upcoming
