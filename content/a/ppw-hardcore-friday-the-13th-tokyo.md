@@ -21,9 +21,9 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of Yosomono stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
 * On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
 
-## Card
+## Predicted card
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - 'Abdullah Kobayashi'
   - s: Deathmatch
