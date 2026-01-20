@@ -32,8 +32,10 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 
 On 17.10.2025 - during the buid-up to [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) - PpW shared an image of [Mister Z](@/w/mister-z.md) teasing a "Very Huge and Very Important Announcement" to be made at the show, which was supposed to change the course of PpW forever. During the opening moments of the show [Michael HT](@/w/michael-ht.md) and [Joker](@/w/joker.md), on Z's behalf, introduced the newly-created PpW Tag Team Championship, along with the tournament to crown the inaugural champions, starting with the [next show](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 The tournament consisted of semi-finals with both [Rodzina](@/tt/rodzina.md) and [Zmowa](@/tt/zmowa.md) quickly advancing to the finals, with their wins at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
-In addition, [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were forced to become a tag team and at [PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) they fought Rodzina's representation for the opportunity to join the finals. After their win, Gustav & Goblin were denied an opportunity by [Mister Z](@/w/mister-z.md) and forced to fight another match for the same opportunity the same night, this time against Zmowa's other representation of [Axel Fox](@/w/axel-fox.md) & [Marco Hammers](@/w/marco-hammers.md). After succesfully defeating the next team, Gustav & Goblin have officially been added to the finals.
-Seemingly, the tournament involved _Freebird Rule_. Oskar Alexander advanced to the finals with Vic Golden and later fought Gustav & Goblin together with [Gabriel Queen](@/w/gabriel-queen.md). This was supposedly Rodzina's designed representation for the finals, but later it was [confirmed](https://www.instagram.com/p/DTs_vmZignE/) that due to Queen's obstruction, he will not be joining Alexander in the finals. Instead, a new member of Rodzina will be fighting.
+
+In addition, [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were forced to become a tag team and at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) they fought Rodzina's representation for the opportunity to join the finals. After their win, Gustav & Goblin were denied their opportunity by [Mister Z](@/w/mister-z.md) and forced to fight another match for the same chance the same night, this time against Zmowa's other representation of [Axel Fox](@/w/axel-fox.md) & [Marco Hammers](@/w/marco-hammers.md). After succesfully defeating the next team, Gustav & Goblin have officially been added to the finals.
+
+Seemingly, the tournament involved the [Freebird Rule][freebird-rule]. Oskar Alexander advanced to the finals with Vic Golden and later fought Gustav & Goblin together with [Gabriel Queen](@/w/gabriel-queen.md). This was supposedly Rodzina's designed representation for the finals, but later it was [confirmed](https://www.instagram.com/p/DTs_vmZignE/) that due to Queen's obstruction, he would not be joining Alexander in the finals. Instead, a new member of Rodzina would fight for the title.
 
 ## Belt design
 
@@ -60,7 +62,7 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
 
 #### Golden opportunity
 
-[Mister Z](@/w/mister-z.md) has given [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) an opportunity to join the finals after beating the teams of his choosing. Later on, this was reflected in official bracket as _Złoty Strzał_ (roughly _Golden Opportunity_). 
+[Mister Z](@/w/mister-z.md) gave [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) an opportunity to join the finals after beating the teams of his choosing. Later on, this was reflected in official bracket as "Złoty Strzał" (roughly _Golden Opportunity_). 
 
 {% free_card() %}
 - - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
@@ -96,3 +98,4 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 * [Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0aGQyrQeVAfVGX1ChMCPPSyB8LutLZLXounLRgywvMae7GPb1K4waewSwinNzBHY9l) introducing the title
 
 [pas-wwe-tag-team]: https://en.wikipedia.org/wiki/WWE_Tag_Team_Championship
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
