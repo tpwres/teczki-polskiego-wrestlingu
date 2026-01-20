@@ -31,7 +31,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 - - 'クリス・ブルックス (Chris Brookes)'
   - '[ゲーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - nc: 近日公開 (upcoming)
-- - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & (入江茂弘) Shigehiro Irie'
+- - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
   - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
   - s: 6人タッグマッチ (3-vs-3 Tag Team Match)
     nc: 近日公開 (upcoming)
