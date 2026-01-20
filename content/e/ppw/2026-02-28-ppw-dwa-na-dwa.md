@@ -17,12 +17,14 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 
 * A [video][gobliffin] published by PpW on Christmas Day 2025 saw [Gustav Gryffin](@/w/gustav-gryffin.md) convince [Goblin](@/w/goblin.md) to join him against [Rodzina](@/tt/rodzina.md) in a fight for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 * The first officially announced match, revealed on 13.01.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Justin Joy](@/w/justin-joy.md). The two previously teamed up at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
-
+* At [PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) earned their _Golden Opportunity_ to be added into the tournament finals.
+* In [Rodzina's](@/tt/rodzina.md) [promo](https://www.instagram.com/p/DTs_vmZignE/) recorded for social media, it was confirmed that [Oskar Alexander](@/w/oskar-alexander.md) would be representing Rodzina in the finals, along with a new, not yet revealed family member. As it was [Vic Golden](@/w/vic-golden.md) who advanced to the finals, it seems that the tournament involves the classic [Freebird Rule][freebird-rule] in some form.
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - '[Rodzina](@/tt/rodzina.md): ??? & ???'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & ???'
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
@@ -42,3 +44,4 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 
 [zurueck-nach-breslau]: https://www.facebook.com/photo/?fbid=1425053469625041&set=a.499910772139320
 [gobliffin]: https://www.facebook.com/reel/762445460199074
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
