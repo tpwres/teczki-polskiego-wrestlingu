@@ -3,6 +3,7 @@
 {% set empty_obj = [] | group_by(attribute='0') %}
 {% set career_key = "@/" ~ page.relative_path %}
 {% set mycareer = careers | get(key=career_key, default=empty_obj) %}
+{% set enable_matchlist_links = true %}
 
 {% if mycareer %}
   {% set_global years = [] -%}
