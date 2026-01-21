@@ -24,11 +24,20 @@
 2007 = { path = "sneaky-oliwa.webp", caption = "David Oliwa sneaks up on Leon Lato.", source = "M3n747" }
 2008 = { path = "wyszechrady-wygraly.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md) celebrate their victory. In the background, referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears to be contemplating his life choices.", source = "M3n747" }
 
+3001 = { path = "sedzia-w-cieniu-lesaka.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
+3002 = { path = "alan-ale-nie-delon.webp", caption = "Sędzia Alan.", source = "M3n747" }
+3003 = { path = "markus-paskal.webp", caption = "Markus Paskal's entrance.", source = "M3n747" }
+3004 = { path = "lesak-po-weekendowym-kursie-chiropraktyki.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) holds Markus Paskal's head in an iron grip, as Sędzia Alan oversees the action.", source = "M3n747" }
+3005 = { path = "bardzo-duzo-niutonow-na-metr-kwadratowy.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Markus Paskal, while [Chemik](@/w/chemik.md) delivers a promo. In front of the ring stands Paskal's mother.", source = "M3n747" }
+3006 = { path = "z-ta-pania-lepiej-nie-zadzierac.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) and [Chemik](@/w/chemik.md) attempt to intimidate Paskal's mother, without much success.", source = "M3n747" }
 
-3001 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 4001 = { path = ".webp", caption = ".", source = "M3n747" }
+4002 = { path = ".webp", caption = ".", source = "M3n747" }
+4003 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
 5001 = { path = ".webp", caption = ".", source = "M3n747" }
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
