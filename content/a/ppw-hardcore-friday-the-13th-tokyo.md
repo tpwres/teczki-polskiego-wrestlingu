@@ -4,6 +4,7 @@ template = "article.html"
 weight = 0
 authors = ["M3n747"]
 [taxonomies]
+chronology = ["ppw"]
 category = ["Polish wrestling scene"]
 [extra.gallery]
 +++
