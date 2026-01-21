@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Najlepsza Gala W Mieście [Hardcore Edition] (_The Best Show in Town_) was a upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md). It was the second show on PpW's tour of Poland, following [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and their first show in Gdynia. The event was held in {{ map_pin(v="Klub Svera") }}Klub Svera, right next to Gdynia's railway station, merely 700m from [Nowy Harem](@/v/atlantic-nh-gdynia.md).
+Najlepsza Gala W Mieście [Hardcore Edition] (_The Best Show in Town_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md). It was the second show on PpW's tour of Poland, following [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and their first show in Gdynia. The event was held in {{ map_pin(v="Klub Svera") }}Klub Svera, right next to Gdynia's railway station, and just 700m from [Nowy Harem](@/v/atlantic-nh-gdynia.md).
 
 Much like the [first show of the same name](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md) poked fun at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) being held in Warsaw the next day, this show's name was a jab at [WWE Road to Royal Rumble](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md), also taking place the next day (albeit not exactly in the same city).
 
@@ -46,7 +46,6 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
   - g: Zmowa assert their dominance, Mister Z denies Gustav and Goblin their Tag Team finals spot unless they also defeat Zmowa
 - - '[Sentinel](@/w/sentinel.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
-  - s: Tag Team Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Wielkie Ojcowskie Testy Platy (_Plata's Grand Fatherly Trials_)
