@@ -4,9 +4,9 @@ template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
-venue=["zaklete-rewiry"]
+venue=["2kola"]
 [extra]
-city = "Wrocław"
+city = "Warszawa"
 toclevel = 2
 [extra.gallery]
 +++
