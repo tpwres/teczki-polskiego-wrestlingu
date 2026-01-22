@@ -1,0 +1,21 @@
+<ul class="career crew-career">
+    <li class="header">
+        <span class="d">Date</span>
+        <span class="o">Org</span>
+        <span class="r">Role</span>
+    </li>
+    {% for app in appearances_by_date | reverse %}
+    <li class="entry">
+        <time class="d" style="white-space: nowrap" datetime="{{ app.d }}">{{ app.d }}</time>
+        <span class="o">
+            {% for org in app.o %}
+              {{ macros::promolink_color(code=org, styles=org_styles) }}
+            {% endfor %}
+        </span>
+        <span class="r">
+            {{ app.r }}<br/>
+            {% set event_path = "@/" ~ app.p %}
+            <small>at <a href="{{ get_url(path=event_path) }}">{{ app.n }}</a></small>
+        </span>
+    {% endfor %}
+</ul>

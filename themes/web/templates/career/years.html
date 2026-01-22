@@ -5,7 +5,11 @@
   </li>
   {% for year in years | sort | reverse %}
     <li class="year">
-      <span class="y">{{ year }}</span>
+      {% if enable_matchlist_links -%}
+        <a class="y" href="#career-{{ year }}">{{ year }}</a>
+      {%- else -%}
+        <span class="y">{{ year }}</span>
+      {%- endif %}
       <div class="o">
         {{ macros::orgs_stretchy(career=mycareer, year=year, styles=org_styles) }}
       </div>

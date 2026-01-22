@@ -32,5 +32,9 @@
   {% include "career/years.html" %}
 {% endif %}
 
-{% include "career/matchlist.html" %}
+{% set fold_matchlist_config = config.extra | get(key="fold_matchlist", default="auto") %}
+{% set fold_matchlist_at = config.extra | get(key="fold_matchlist_at") %}
+{% set fold_matchlist = page.extra | get(key="fold_matchlist", default=fold_matchlist_config) %}
+{% include "career/matchlist.html" -%}
+
 {# Unlike individual career, this omits crew section which makes no sense for teams #}
