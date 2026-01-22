@@ -32,6 +32,7 @@
   {% set mml = matches_by_date | length %}
 
   {% if fold_matchlist == "always" or (fold_matchlist == "auto" and mml > fold_matchlist_at) %}
+    {% set enable_year_headers = true %}
     <details>
       <summary class="header h3-like">Matches and segments</summary>
       {% include "career/match_table.html" %}

@@ -8,13 +8,24 @@
     {% for match in matches_by_date | reverse %}
         {% set yr = match.d | date(format="%Y") %}
         {% if lastyr != yr %}
-            {% set_global lastyr = yr %}
-            {% set yrtarget = "career-" ~ yr %}
+            {% if enable_year_headers %}
+                {% set_global lastyr = yr %}
+                {# Terminate current list and start a new one #}
+                </ul>
+                <ul class="career">
+                    <li class="header yearhead" id="career-{{ yr }}">
+                        <details class="y" open>
+                            <summary role="heading">{{ yr }}</summary>
+                        </details>
+                    </li>
+                {% else %}
+                {% set yrtarget = "career-" ~ yr %}
+            {% endif %}
         {% else %}
             {% set yrtarget = false %}
         {% endif %}
         <li class="entry {{ match.tt | default(value="") }}"
-        {% if enable_matchlist_links and yrtarget %}id="{{ yrtarget }}"{% endif %}>
+        {% if yrtarget %}id="{{ yrtarget }}"{% endif %}>
             <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
             <span class="o">
                 {% for org in match.o %}
