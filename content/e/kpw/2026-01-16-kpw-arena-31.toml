@@ -31,14 +31,16 @@
 3005 = { path = "bardzo-duzo-niutonow-na-metr-kwadratowy.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Markus Paskal, while [Chemik](@/w/chemik.md) delivers a promo. In front of the ring stands Paskal's mother.", source = "M3n747" }
 3006 = { path = "z-ta-pania-lepiej-nie-zadzierac.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) and [Chemik](@/w/chemik.md) attempt to intimidate Paskal's mother, without much success.", source = "M3n747" }
 
+4001 = { path = "aleksander-the-awesome.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) returns to KPW.", source = "M3n747" }
+
+5001 = { path = "tomczak-wchodzi.webp", caption = "Tomczak's entrance.", source = "Tomek O." }
+5002 = { path = "filip-siedzi.webp", caption = "[Filip Fux](@/w/filip-fux.md) relaxes in a chair, while downed Tomczak wraps a length of steel chain around his fist. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
 
 
-4001 = { path = ".webp", caption = ".", source = "M3n747" }
-4002 = { path = ".webp", caption = ".", source = "M3n747" }
-4003 = { path = ".webp", caption = ".", source = "M3n747" }
+5003 = { path = ".webp", caption = ".", source = "M3n747" }
+5004 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
-5001 = { path = ".webp", caption = ".", source = "M3n747" }
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
 8001 = { path = ".webp", caption = ".", source = "M3n747" }
