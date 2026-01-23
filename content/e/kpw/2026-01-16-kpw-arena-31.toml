@@ -35,10 +35,12 @@
 
 5001 = { path = "tomczak-wchodzi.webp", caption = "Tomczak's entrance.", source = "Tomek O." }
 5002 = { path = "filip-siedzi.webp", caption = "[Filip Fux](@/w/filip-fux.md) relaxes in a chair, while downed Tomczak wraps a length of steel chain around his fist. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+5003 = { path = "bez-tego-bedzie-bolalo.webp", caption = "Protective padding removed from a turnbuckle by Tomczak.", source = "M3n747" }
+5004 = { path = "nie-ma-tego-wiec-boli.webp", caption = "Tomczak pushes [Filip Fux](@/w/filip-fux.md) into the exposed turnbuckle. Note David Oliwa's hat on the corner post.", source = "M3n747" }
+5005 = { path = "przylancuszyl-mu-jak-jolop-aleksowi.webp", caption = "Tomczak, moments after felling Filip Fux with a chain-assisted punch.", source = "M3n747" }
+5006 = { path = "two-metres-of-victory.webp", caption = "Tomczak victorious.", source = "Tomek O." }
+5007 = { path = "fewer-metres-of-defeat.webp", caption = "Bloodied [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
 
-
-5003 = { path = ".webp", caption = ".", source = "M3n747" }
-5004 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
