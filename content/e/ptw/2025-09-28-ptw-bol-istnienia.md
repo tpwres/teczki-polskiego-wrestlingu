@@ -33,7 +33,7 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
 {% card() %}
 - - '[Spartan](@/w/spartan.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-- - '_Rookie_ Boguś'
+- - '_rookie_ [Boguś](@/w/bogus.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Pawłowski denies Boguś his debut and chooses an opponent for Razor himself
 - - '["The Voice" Daniel Razor](@/w/daniel-razor.md)(c)'

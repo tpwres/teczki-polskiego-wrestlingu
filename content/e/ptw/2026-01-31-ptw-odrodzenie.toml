@@ -3,3 +3,5 @@
 03 = { path = "nano-challenge.webp", caption = 'Image announcing ["Starboy" Nano Lopez](@/w/nano-lopez.md).', source = "Official PTW Facebook" }
 04 = { path = "brzydcy-vs-nudni.webp", caption = 'Image announcing [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md).', source = "Official PTW Facebook" }
 05 = { path = "polski-niedzwiedz-juz-nie-spi.webp", caption = 'Image announcing [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).', source = "Official PTW Facebook" }
+06 = { path = "bogus.webp", caption = 'Image announcing [Boguś](@/w/bogus.md).', source = "Official PTW Facebook" }
+07 = { path = "gorzko.webp", caption = 'Image announcing [Spartan](@/w/spartan.md) vs Bittersweet Josh.', source = "Official PTW Facebook" }

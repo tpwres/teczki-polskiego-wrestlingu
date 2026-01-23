@@ -125,12 +125,12 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 - - 'Puncher(c)'
   - '[Damian Lambert](@/w/damien-rothschild.md)'
   - s: Singles Match
-    en: '[Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
+    en: '[PTW Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
 - - '[Spartan](@/w/spartan.md)'
   - 'Puncher(c)'
   - s: All or Nothing Match
-    en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    en: '[PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
 {% end %}
 
@@ -142,8 +142,14 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 - - '[Spartan](@/w/spartan.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - s: All or Nothing Match
-    en: '[Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    en: '[PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
+- - 'Spartan(c)'
+  - 'Bittersweet Josh'
+  - s: Singles Match
+    en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
+    ed: 2026-01-31
+    nc: upcoming  
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

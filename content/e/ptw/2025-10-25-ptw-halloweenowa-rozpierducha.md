@@ -61,7 +61,7 @@ toclevel = 2
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
-    Timekeeper: 'Boguś'
+    Timekeeper: '[Boguś](@/w/bogus.md)'
 {% end %}
 
 ### Recap
@@ -70,7 +70,7 @@ toclevel = 2
 * Post-match, the heels tried to put an exclamation mark on their victory, continuing the beatdown on The Lancadores. Tori Fox thwarted their attempts, disposing of both Street Creed members.
 * Damian Adler, a Polish competitor trained in Germany and a former student of the [KPW school](@/o/szkola-kpw.md), made his debut as Pawłowski's hand-picked opponent for Razor's Open Challenge. Adler worked the match as a heel, presenting a blend of powerhouse style and agility. Razor won with a crucifix pin to retain.
 * Sawicki made his entrance wearing a skull mask with facepaint underneath, playing up the Halloween theme of the show. His entrance mimicked [La Parka's][pa-larka].
-* Pawłowski entered to pick his opponent, teasing Boguś (working as timekeeper) that this was his chance. However, the one to debut was a fellow PTW rookie, Bumper. Sawicki disposed of him in a quick fashion.
+* Pawłowski entered to pick his opponent, teasing [Boguś](@/w/bogus.md) (working as timekeeper) that this was his chance. However, the one to debut was a fellow PTW rookie, Bumper. Sawicki disposed of him in a quick fashion.
 * Andi Zick Zack won a Halloween Hardcore Match, followed by a break.
 * After the break, Okoński (accompanied by a scantily-clad woman, introduced as Dominika) enters to host a traditional charity auction.
 * Just like [a year ago](@/e/ptw/2024-10-19-ptw-underground-23.md), Shida entered wearing a [Ghostface][duchomordy] mask from _Scream_. Polski Niedźwiedź made his entrance as usual. Shida won in a fairly short match, focusing on mutual respect. Him and Bear embraced afterwards.

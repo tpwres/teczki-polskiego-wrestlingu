@@ -63,7 +63,7 @@ toclevel = 2
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
-    Timekeeper: 'Boguś'
+    Timekeeper: '[Boguś](@/w/bogus.md)'
  {% end %}
 
 ### Recap
@@ -83,7 +83,7 @@ toclevel = 2
 * Much of the main event falls to shenanigans of Pan Pawłowski, who at some point grabs a microphone to distract Spartan. After [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) accidentaly gets knocked out, [Referee Herno](@/w/sedzia-herno.md) is stopped from entering the ring by Pawłowski who deems Herno "too fat, slow, and biased". Instead, he calls out Sędzia Rafał - Alex Brave's old persona before his in-ring debut - who then tries to sabotage Spartan's match. Shortly after, furious Herno comes to the ring and throws S.Rafał out, regaining his position. Pawłowski enters the ring to angrily berate Herno once again, but the referee tells his boss to "shut his mouth" and orders him out of the arena. The intimidation check ultimately fails, as Herno gets knocked out with a single slap from Pawłowski.
 * Spartan meets another obstacle on his path, as Nano also intervenes by hitting him with a chair, but the scales are evened as Daniel Razor comes out to avenge Spartan and draw Nano away from the title contender.
 * Another run-in is by Caravaggio, who is stopped by Sigma Boy xD right before he tries to put down Spartan.
-* Desperate Pawłowski, who lost all his [Nietykalni](@/tt/nietykalni.md) assets, calls out adept Boguś - PTW's timekeeper and rookie - to give his dream debut if only he turns on Spartan and attacks him. Boguś enters the ring but stops just before hitting Spartan with a Spear, just to attack Puncher with the same move, proving that he won't turn on Spartan.
+* Desperate Pawłowski, who lost all his [Nietykalni](@/tt/nietykalni.md) assets, calls out [Boguś](@/w/bogus.md) - PTW's timekeeper and rookie - to give his dream debut if only he turns on Spartan and attacks him. Boguś enters the ring but stops just before hitting Spartan with a Spear, just to attack Puncher with the same move, proving that he won't turn on Spartan.
 * Pawłowski enters the ring by himself, wielding a toy lightsaber. He is interrupted by Łukasz Okoński with a lightsaber on its own. After an intense toy-lightsaber duel Master Okoński finally defeats his nemesis, allowing Spartan to put Pawłowski down.
 * The endgame is done as Spartan successfully pins Puncher and emerges victorious from this battle, becoming the new [PTW Champion](@/c/ptw-championship.md). 
 
