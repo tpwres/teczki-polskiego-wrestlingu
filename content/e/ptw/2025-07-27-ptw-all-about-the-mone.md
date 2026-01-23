@@ -47,7 +47,7 @@ toclevel = 2
   - s: 'Tag Team Match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
-  - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ [Boguś](@/w/bogus.md)'
+  - '_rookie_ Bumper, _rookie_ Dropper, [_rookie_ Boguś](@/w/bogus.md)'
   - s: 'Three-On-One Handicap match'
     c: |
        BestYa Championship,

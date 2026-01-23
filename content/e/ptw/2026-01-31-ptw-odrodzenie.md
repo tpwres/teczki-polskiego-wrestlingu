@@ -44,7 +44,7 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
   - '???'
   - nc: upcoming
 - - '[Boguś](@/w/bogus.md)'
-  - '???"
+  - '???'
   - nc: upcoming
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
