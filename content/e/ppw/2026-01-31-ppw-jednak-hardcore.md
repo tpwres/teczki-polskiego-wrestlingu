@@ -19,7 +19,7 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 * Two days later it was followed by an announcement of an intergender match between [Agentka Agatka](@/w/agentka-agatka.md) and [Lady Killer](@/w/boro.md).
 * The third match - [Axel Fox](@/w/axel-fox.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md), announced on 4.01.2026 - will have its stipulation chosen by fans, who will cast their electronic votes for one of four hardcore options during the show.
 * A Triple Threat Match between [Marco Hammers](@/w/marco-hammers.md), [Goblin](@/w/goblin.md) and [Oskar Alexander](@/w/oskar-alexander.md) was announced on 22.01.2026.
-* The next day saw the announcement of [Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md) vs Hungarian Luchadores ([Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)) in a Tag Team match.
+* The next day saw the announcement of [Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md) vs Hungarian Luchadores ([Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)) in a Tag Team match. It was preceeded with [a video][ocean-samborskosci] of Ocean proposing that he and Sambor should team up against the Hungarians, with whom Sambor has unfinished business.
 
 ## Predicted card
 
@@ -56,3 +56,4 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 * [Facebook post announcing the event][lysy-hardcore]
 
 [lysy-hardcore]: https://www.facebook.com/OficjalnePPW/posts/pfbid035oyuE5bB6yqUx3XwrKjjRaYrZayFxPv1QMYWgvxjVX62Fe5Axpd4mHifWTYx9Lgl
+[ocean-samborskosci]: https://www.facebook.com/reel/974841392374683
