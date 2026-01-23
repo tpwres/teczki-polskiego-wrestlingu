@@ -19,6 +19,7 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 * Two days later it was followed by an announcement of an intergender match between [Agentka Agatka](@/w/agentka-agatka.md) and [Lady Killer](@/w/boro.md).
 * The third match - [Axel Fox](@/w/axel-fox.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md), announced on 4.01.2026 - will have its stipulation chosen by fans, who will cast their electronic votes for one of four hardcore options during the show.
 * A Triple Threat Match between [Marco Hammers](@/w/marco-hammers.md), [Goblin](@/w/goblin.md) and [Oskar Alexander](@/w/oskar-alexander.md) was announced on 22.01.2026.
+* The next day saw the announcement of [Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md) vs Hungarian Luchadores ([Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)) in a Tag Team match.
 
 ## Predicted card
 
@@ -38,6 +39,10 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
   - '[Goblin](@/w/goblin.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Triple Threat Match
+    nc: upcoming
+- - '[Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
+  - s: Tag Team Match
     nc: upcoming
 {% end %}
 
