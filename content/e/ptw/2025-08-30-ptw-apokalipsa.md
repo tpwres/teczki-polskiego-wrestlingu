@@ -56,7 +56,7 @@ toclevel = 2
   - s: 'Casket match'
 - credits:
     General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md), Sędzia Boguś'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md), [Sędzia Boguś](@/w/bogus.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}

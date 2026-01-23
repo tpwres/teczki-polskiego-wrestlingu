@@ -22,6 +22,8 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 * Two days later PTW announced that ["Starboy" Nano Lopez](@/w/nano-lopez.md) will defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) in an Open Challenge.
 * On 20.01.2025 PTW announced a match between the reigning champions [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) and Miyagi Sigma ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 * A few hours later [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was confirmed to make an appearance at the show.
+* 22.01.2026 saw the announcement of a new debutant: [Boguś](@/w/bogus.md), who previously wrestled a few matches as a rookie and also worked as a referee at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md).
+* The final match to be announced (on 23.01.2026) was a [PTW Championship](@/c/ptw-championship.md) match between the reigning champion [Spartan](@/w/spartan.md) and Italian wrestler Bittersweet Josh, last seen at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md).
 
 ## Predicted card
 
@@ -41,6 +43,13 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 - - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '???'
   - nc: upcoming
+- - '[Boguś](@/w/bogus.md)'
+  - '???'
+  - nc: upcoming
+- - '[Spartan](@/w/spartan.md)(c)'
+  - 'Bittersweet Josh'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
 {% end %}
 
 ### Recap
