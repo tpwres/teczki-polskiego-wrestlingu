@@ -20,6 +20,7 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 * The third match - [Axel Fox](@/w/axel-fox.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md), announced on 4.01.2026 - will have its stipulation chosen by fans, who will cast their electronic votes for one of four hardcore options during the show.
 * A Triple Threat Match between [Marco Hammers](@/w/marco-hammers.md), [Goblin](@/w/goblin.md) and [Oskar Alexander](@/w/oskar-alexander.md) was announced on 22.01.2026.
 * The next day saw the announcement of [Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md) vs Hungarian Luchadores ([Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)) in a Tag Team match. It was preceeded with [a video][ocean-samborskosci] of Ocean proposing that he and Sambor should team up against the Hungarians, with whom Sambor has unfinished business.
+* [Gabriel Queen](@/w/gabriel-queen.md) was announced on 25.01.2025, although without an opponent specified.
 
 ## Predicted card
 
@@ -44,6 +45,9 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
   - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
   - s: Tag Team Match
     nc: upcoming
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Recap
