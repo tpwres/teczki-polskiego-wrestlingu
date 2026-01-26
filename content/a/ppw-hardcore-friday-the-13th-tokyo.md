@@ -55,4 +55,4 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 [bjw]: https://en.wikipedia.org/wiki/Big_Japan_Pro_Wrestling
 [ppw-w-tokyo-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid02cR3qT3LUn7PyuMBzjQThGFabsUGgrzSjiozvVCjEXzEzYC8y7MqzvMLyTZyaAioXl
 [ppw-w-tokyo-ig]: https://www.instagram.com/ppw_hw/p/DSQO4rcCkes/
-    [are-wa-tokyo-square-desu]: https://www.google.co.jp/maps/place/6-ch%C5%8Dme-8-10+Maenoch%C5%8D,+Itabashi+City,+Tokyo+174-0063,+Japonia/@35.7654889,139.6860555,20z
+[are-wa-tokyo-square-desu]: https://www.google.co.jp/maps/place/6-ch%C5%8Dme-8-10+Maenoch%C5%8D,+Itabashi+City,+Tokyo+174-0063,+Japonia/@35.7654889,139.6860555,20z
