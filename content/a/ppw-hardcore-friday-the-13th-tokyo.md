@@ -26,12 +26,12 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 {% card(predicted=true) %}
 - - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - 'アブドーラ・小林 (Abdullah Kobayashi)'
-  - s: デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)
+  - s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
     nc: 近日公開 (upcoming)
 - - 'クリス・ブルックス (Chris Brookes)'
   - '[ガーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - s: シングルマッチ (Single Match)
-  - nc: 近日公開 (upcoming)
+    nc: 近日公開 (upcoming)
 - - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
   - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
   - s: 6 人タッグマッチ ノー・ホルズ・バード／フォルズ・カウント・エニウェア  (3-vs-3 Tag Team Match No Holds Barred Falls Count Anywhere)
