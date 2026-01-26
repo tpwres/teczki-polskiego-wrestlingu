@@ -26,14 +26,15 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 {% card(predicted=true) %}
 - - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - 'アブドーラ・小林 (Abdullah Kobayashi)'
-  - s: デスマッチ (Deathmatch)
+  - s: デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)
     nc: 近日公開 (upcoming)
 - - 'クリス・ブルックス (Chris Brookes)'
-  - '[ゲーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
+  - '[ガーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
+  - s: シングルマッチ (Single Match)
   - nc: 近日公開 (upcoming)
 - - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
   - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
-  - s: 6人タッグマッチ (3-vs-3 Tag Team Match)
+  - s: 6 人タッグマッチ ノー・ホルズ・バード／フォルズ・カウント・エニウェア  (3-vs-3 Tag Team Match No Holds Barred Falls Count Anywhere)
     nc: 近日公開 (upcoming)
 - - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'
   - '伊東竜二 (Ryuji Ito)'
@@ -54,4 +55,4 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 [bjw]: https://en.wikipedia.org/wiki/Big_Japan_Pro_Wrestling
 [ppw-w-tokyo-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid02cR3qT3LUn7PyuMBzjQThGFabsUGgrzSjiozvVCjEXzEzYC8y7MqzvMLyTZyaAioXl
 [ppw-w-tokyo-ig]: https://www.instagram.com/ppw_hw/p/DSQO4rcCkes/
-[are-wa-tokyo-square-desu]: https://www.google.co.jp/maps/place/6-ch%C5%8Dme-8-10+Maenoch%C5%8D,+Itabashi+City,+Tokyo+174-0063,+Japonia/@35.7654889,139.6860555,20z
+    [are-wa-tokyo-square-desu]: https://www.google.co.jp/maps/place/6-ch%C5%8Dme-8-10+Maenoch%C5%8D,+Itabashi+City,+Tokyo+174-0063,+Japonia/@35.7654889,139.6860555,20z
