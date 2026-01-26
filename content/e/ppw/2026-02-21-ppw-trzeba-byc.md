@@ -21,7 +21,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 
 ## Predicted card
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - c: OG PpW Hardcore Match
