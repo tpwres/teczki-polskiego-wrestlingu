@@ -17,14 +17,15 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 
 ## Build-up
 
-* TBD
+* The main evend dark match was revealed on 26.01.2026 to be an OG PpW Hardcore Match between [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md).
 
 ## Predicted card
 
 {% card() %}
-- - '???'
-  - '???'
-  - s: Dark Match
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - c: OG PpW Hardcore Match
+    n: Dark Match
     nc: upcoming
 {% end %}
 
