@@ -275,6 +275,12 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16
     nc: upcoming
+- - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd)'
+  - 'デイル・パトリックス (Dale Patricks)'
+  - s: ドッグカラー・マッチは (Dog Collar Match)
+    en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md)'
+    ed: 2026-03-13
+    nc: 近日公開 (upcoming)  
 {% end %}
 
 ## References
