@@ -46,7 +46,7 @@ Independently, but driven by the bigger show's influence and fan interest, two P
   - c: Undisputed WWE Championship
     r: DQ
 - - Cody Rhodes
-  - s: Cody thanks the audience, and gifts a signed piece of a broken table from his match with Drew to a young fan.
+  - g: Cody thanks the audience, and gifts a signed piece of a broken table from his match with Drew to a young fan.
 {% end %}
 
 Attendance: est. 9808 (per Cagematch) to 10,015 (per WrestleTix)
