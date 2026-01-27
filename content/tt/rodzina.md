@@ -27,7 +27,11 @@ Rodzina continued to feud with Gabriel Queen. While Vic managed to advance in a 
 
 During the build-up for [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), Queen vowed to strike down "the Cuckold Father of Oskar" for good. At the same time Oskar got into a conflict with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) by disrespecting him and his [kabanosy][kabanosy]. This led to Stanisław facing his "Mother" Agatka in a Custody of Oskar Match at the same show. The match quickly evolved into a Tornado Tag Team Match between Agencja and Stanisław & [Johnny Blade](@/w/johnny-blade.md). During the match the victory of Agencja was granted thanks to an intervention of Rodzina's new member, [Robert Star](@/w/robert-star.md).
 
-After Mistrzowskie Rozdanie 2 the feud between Rodzina and Queen continued, with Oskar and Vic being challenged for a Tag Team Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). To help him in the fight, Gabriel recruited his old mentor and another Polish wrestling legend: [Justin Joy](@/w/justin-joy.md), making his return to wrestling. Rodzina came out on top.
+After Mistrzowskie Rozdanie 2 the feud between Rodzina and Queen continued, with Oskar and Vic being challenged for a Tag Team Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). To help him in the fight, Gabriel recruited his old mentor and another Polish wrestling legend: [Justin Joy](@/w/justin-joy.md), making his return to wrestling. Rodzina came out on top. Soon after at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
+
+#### Tag Team Championship pursuit
+
+Rodzina managed to secure their spot in the tournament finals for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) by defeating [Sentinel](@/w/sentinel.md) and [Wonder Haze](@/w/wonder-haze.md) at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md). At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) they were however unsucessful in denying the team of [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) a spot in the match thanks to Gabriel and Oskar's animosities during the Golden Opportunity Contendership Match. After the show, Oskar announced that Vic managed to [recruit one more member into Rodzina][rodzina-kolejny] to grant them PpW Tag Team Championship victory at [Dwa na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 
 ## Members
 
@@ -35,5 +39,7 @@ After Mistrzowskie Rozdanie 2 the feud between Rodzina and Queen continued, with
 * [Agentka Agatka](@/w/agentka-agatka.md) - the Mother ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
 * [Oskar Alexander](@/w/oskar-alexander.md) - the Protégé ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
 * [Robert Star](@/w/robert-star.md) - the Son ([Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) - present)
+* [Gabriel Queen](@/w/gabriel-queen.md) - the Dog ([Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) - present)
 
 [kabanosy]: https://en.wikipedia.org/wiki/Kabanos
+[rodzina-kolejny]: https://www.instagram.com/p/DTs_vmZignE/

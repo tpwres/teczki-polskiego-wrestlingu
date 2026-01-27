@@ -123,6 +123,8 @@ Oskar and Agatka's newly formed alliance called ["Rodzina"](@/tt/rodzina.md) (_T
 
 During that match Vic once again got the upper hand over Queen, with significant help from Agatka and Oskar. Despite that, he was eliminated from the match by [Biesiad Strong](@/w/biesiad.md). Earlier that night, during Agatka and Oskar's match against [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md), a masked person had helped Rodzina to score a victory. It was revealed to be Robert Star, who officially confirmed joining Golden's stable.
 
+At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
+
 ### Legacy of Wrestling (2025)
 
 Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md). What was announced as a singles match between him and [Greg](@/w/greg.md) turned into a tag team match when the unannounced [Chemik](@/w/chemik.md) jumped Greg, who was then aided by [Robert Star](@/w/robert-star.md). The babyface duo won, with Greg pinning Vic.
