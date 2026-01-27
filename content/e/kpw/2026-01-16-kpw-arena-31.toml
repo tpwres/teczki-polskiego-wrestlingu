@@ -18,75 +18,60 @@
 1001 = { path = "lukaszowi-skapnelo-mistrzostwo.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md).", source = "M3n747" }
 1002 = { path = "i-point-at-rookie-two-is-my-finger-not-rookie-two-himself.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md) mock Rookie Two.", source = "Tomek O." }
 1003 = { path = "od-stop-po-piety-wszedl-napiety-mordercze-na-nim-instrumenty.webp", caption = "More guys, more undies!", source = "M3n747" }
-1004 = { path = "miecz-swietny.webp", caption = "[Rookie One](@/w/rookie-one.md) fends off David Oliwa and [Lukáš Mottl](@/w/skull-evil.md) with a kendo stick.", source = "M3n747" }
-1005 = { path = "lato-z-jedynka.webp", caption = "[Leon Lato](@/w/leon-lato.md) takes the side of [Rookie One](@/w/rookie-one.md). In the background is [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
-1006 = { path = "technicznie-rzecz-biorac-liczy-sie-jako-pin.webp", caption = "[David Oliwa](@/w/david-oliwa.md) pins [Rookie One](@/w/rookie-one.md), counted by Krystian Czekaj. In the corners stand Leon Lato and [Lukáš Mottl](@/w/skull-evil.md).", source = "M3n747" }
-1007 = { path = "sneaky-oliwa.webp", caption = "David Oliwa sneaks up on Leon Lato.", source = "M3n747" }
-1008 = { path = "wyszechrady-wygraly.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md) celebrate their victory. In the background, referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears to be contemplating his life choices.", source = "M3n747" }
+ 
+2001 = { path = "miecz-swietny.webp", caption = "[Rookie One](@/w/rookie-one.md) fends off David Oliwa and [Lukáš Mottl](@/w/skull-evil.md) with a kendo stick.", source = "M3n747" }
+2002 = { path = "lato-z-jedynka.webp", caption = "[Leon Lato](@/w/leon-lato.md) takes the side of [Rookie One](@/w/rookie-one.md). In the background is [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+2003 = { path = "technicznie-rzecz-biorac-liczy-sie-jako-pin.webp", caption = "[David Oliwa](@/w/david-oliwa.md) pins [Rookie One](@/w/rookie-one.md), counted by Krystian Czekaj. In the corners stand Leon Lato and [Lukáš Mottl](@/w/skull-evil.md).", source = "M3n747" }
+2004 = { path = "sneaky-oliwa.webp", caption = "David Oliwa sneaks up on Leon Lato.", source = "M3n747" }
+2005 = { path = "wyszechrady-wygraly.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md) celebrate their victory. In the background, referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears to be contemplating his life choices.", source = "M3n747" }
 
-2001 = { path = "sedzia-w-cieniu-lesaka.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
-2002 = { path = "alan-ale-nie-delon.webp", caption = "Sędzia Alan.", source = "M3n747" }
-2003 = { path = "markus-paskal.webp", caption = "Markus Paskal's entrance.", source = "M3n747" }
-2004 = { path = "lesak-po-weekendowym-kursie-chiropraktyki.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) holds Markus Paskal's head in an iron grip, as Sędzia Alan oversees the action.", source = "M3n747" }
-2005 = { path = "bardzo-duzo-niutonow-na-metr-kwadratowy.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Markus Paskal, while [Chemik](@/w/chemik.md) delivers a promo. In front of the ring stands Paskal's mother.", source = "M3n747" }
-2006 = { path = "z-ta-pania-lepiej-nie-zadzierac.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) and [Chemik](@/w/chemik.md) attempt to intimidate Paskal's mother, without much success.", source = "M3n747" }
+3001 = { path = "sedzia-w-cieniu-lesaka.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
+3002 = { path = "alan-ale-nie-delon.webp", caption = "Sędzia Alan.", source = "M3n747" }
+3003 = { path = "markus-paskal.webp", caption = "Markus Paskal's entrance.", source = "M3n747" }
+3004 = { path = "lesak-po-weekendowym-kursie-chiropraktyki.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) holds Markus Paskal's head in an iron grip, as Sędzia Alan oversees the action.", source = "M3n747" }
+3005 = { path = "bardzo-duzo-niutonow-na-metr-kwadratowy.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Markus Paskal, while [Chemik](@/w/chemik.md) delivers a promo. In front of the ring stands Paskal's mother.", source = "M3n747" }
+3006 = { path = "z-ta-pania-lepiej-nie-zadzierac.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) and [Chemik](@/w/chemik.md) attempt to intimidate Paskal's mother, without much success.", source = "M3n747" }
 
-3001 = { path = "aleksander-the-awesome.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) returns to KPW.", source = "M3n747" }
+4001 = { path = "aleksander-the-awesome.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) returns to KPW.", source = "M3n747" }
 
-4001 = { path = "tomczak-wchodzi.webp", caption = "Tomczak's entrance.", source = "Tomek O." }
-4002 = { path = "filip-siedzi.webp", caption = "[Filip Fux](@/w/filip-fux.md) relaxes in a chair, while downed Tomczak wraps a length of steel chain around his fist. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
-4003 = { path = "bez-tego-bedzie-bolalo.webp", caption = "Protective padding removed from a turnbuckle by Tomczak.", source = "M3n747" }
-4004 = { path = "nie-ma-tego-wiec-boli.webp", caption = "Tomczak pushes [Filip Fux](@/w/filip-fux.md) into the exposed turnbuckle. Note David Oliwa's hat on the corner post.", source = "M3n747" }
-4005 = { path = "przylancuszyl-mu-jak-jolop-aleksowi.webp", caption = "Tomczak, moments after felling Filip Fux with a chain-assisted punch.", source = "M3n747" }
-4006 = { path = "two-metres-of-victory.webp", caption = "[Tomczak](@/w/tomczak.md) victorious.", source = "Tomek O." }
-4007 = { path = "fewer-metres-of-defeat.webp", caption = "Bloodied [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
+5001 = { path = "tomczak-wchodzi.webp", caption = "Tomczak's entrance.", source = "Tomek O." }
+5002 = { path = "filip-siedzi.webp", caption = "[Filip Fux](@/w/filip-fux.md) relaxes in a chair, while downed Tomczak wraps a length of steel chain around his fist. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+5003 = { path = "bez-tego-bedzie-bolalo.webp", caption = "Protective padding removed from a turnbuckle by Tomczak.", source = "M3n747" }
+5004 = { path = "nie-ma-tego-wiec-boli.webp", caption = "Tomczak pushes [Filip Fux](@/w/filip-fux.md) into the exposed turnbuckle. Note David Oliwa's hat on the corner post.", source = "M3n747" }
+5005 = { path = "przylancuszyl-mu-jak-jolop-aleksowi.webp", caption = "Tomczak, moments after felling Filip Fux with a chain-assisted punch.", source = "M3n747" }
+5006 = { path = "two-metres-of-victory.webp", caption = "[Tomczak](@/w/tomczak.md) victorious.", source = "Tomek O." }
+5007 = { path = "fewer-metres-of-defeat.webp", caption = "Bloodied [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
 
-5001 = { path = "chemik-bardzo-chcial.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "M3n747" }
-5002 = { path = "ale-to-gregowi-wyszlo.webp", caption = "[Greg's](@/w/greg.md) victory.", source = "M3n747" }
+6001 = { path = "chemik-bardzo-chcial.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "M3n747" }
+6002 = { path = "ale-to-gregowi-wyszlo.webp", caption = "[Greg's](@/w/greg.md) victory.", source = "M3n747" }
 
-6001 = { path = "prezes-pewnie-ma-sedziego-w-kieszeni.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) cuts a promo. To the left stands Sędzia Alan.", source = "M3n747" }
+7001 = { path = "prezes-pewnie-ma-sedziego-w-kieszeni.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) cuts a promo. To the left stands Sędzia Alan.", source = "M3n747" }
 
-7001 = { path = "zarzad-cznia-epistolografie.webp", caption = "[Michał Fux](@/w/michal-fux.md) enters carrying a guitar. In the foreground lies a letter torn by Krystian Malinowski, purportedly written to him by Zefir.", source = "M3n747" }
-7002 = { path = "mi-chal-i-jemu-tez-chal.webp", caption = "[Michał Fux](@/w/michal-fux.md) with a wink and a smile, and new ring gear. In the back stands Sędzia Alan.", source = "M3n747" }
-7003 = { path = "nie-mam-zielonego-pojecia-kto-to-moze-byc.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) makes his entrance.", source = "M3n747" }
-7004 = { path = "drabiny-rzucili.webp", caption = "Ron Corvus looks for a weapon under the ring.", source = "Tomek O." }
-7005 = { path = "magyar-boleny.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) cracks open a can of Polish beer.", source = "M3n747" }
-7006 = { path = "and-now-for-something-completely-different-a-man-with-two-beers.webp", caption = "A fan drinks from the can handed to him by Ron Corvus.", source = "M3n747" }
-7007 = { path = "kra-kra-dwa.webp", caption = "Ron Corvus's characteristic back tattoo from [The Crow: City of Angels](https://en.wikipedia.org/wiki/The_Crow:_City_of_Angels) .", source = "M3n747" }
-7008 = { path = "i-tylko-piwa-zal.webp", caption = "Ron Corvus smashes the beer can over Michał Fux's head.", source = "M3n747" }
-7009 = { path = "zakaz-ruchu-osob-wrestlujacych.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) emulates the symbol on the road sign he holds.", source = "M3n747" }
-7010 = { path = "kto-pod-kim-pinezki-rozsypuje.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) with a paper bag full of thumb tacks…", source = "M3n747" }
-7011 = { path = "ten-sam-na-nie-pada.webp", caption = "…only to be thrown onto them himself.", source = "M3n747" }
-7012 = { path = "wbij-to-sobie-do-glowy.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) applies a baseball bat wrapped in barbed wire to [Michał Fux's](@/w/michal-fux.md) forehead.", source = "M3n747" }
-7013 = { path = "polak-wegier-dwa-bratanki.webp", caption = "Ron Corvus shows his respect to [Michał Fux](@/w/michal-fux.md).", source = "M3n747" }
-7014 = { path = "gitarra-bez-lipskiego.webp", caption = "The guitar Michał Fux broke on the head of Ron Corvus.", source = "M3n747" }
-7015 = { path = "zakaz-wstepu.webp", caption = "_No entry for pedestrians_.", source = "M3n747" }
-7017 = { path = "o-tam-jest-polnocny-wschod.webp", caption = "[Hans Schulte's](@/w/hans-schulte.md) entrance.", source = "M3n747" }
-7018 = { path = "tom-laruffa.webp", caption = "Tom LaRuffa's entrance.", source = "M3n747" }
-7019 = { path = "podaj-mi-reke-nikt-tu-nie-zginie-podaj-mi-reke-moze-tam-ktos-zginie-ale-nie-tu.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) offers a handshake to Tom LaRuffa, who remains sceptical. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
-7020 = { path = "alegoria-kampanii-francuskiej-1940.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) oversees Tom LaRuffa going out of the ring after Hans Schulte.", source = "Tomek O." }
-7021 = { path = "litosci-obiecuje-ze-bede-panu-przynosil-codziennie-swieze-bagietki.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) pleads for mercy with Tom LaRuffa.", source = "M3n747" }
+8001 = { path = "zarzad-cznia-epistolografie.webp", caption = "[Michał Fux](@/w/michal-fux.md) enters carrying a guitar. In the foreground lies a letter torn by Krystian Malinowski, purportedly written to him by Zefir.", source = "M3n747" }
+8002 = { path = "mi-chal-i-jemu-tez-chal.webp", caption = "[Michał Fux](@/w/michal-fux.md) with a wink and a smile, and new ring gear. In the back stands Sędzia Alan.", source = "M3n747" }
+8003 = { path = "nie-mam-zielonego-pojecia-kto-to-moze-byc.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) makes his entrance.", source = "M3n747" }
+8004 = { path = "drabiny-rzucili.webp", caption = "Ron Corvus looks for a weapon under the ring.", source = "Tomek O." }
+8005 = { path = "magyar-boleny.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) cracks open a can of Polish beer.", source = "M3n747" }
+8006 = { path = "and-now-for-something-completely-different-a-man-with-two-beers.webp", caption = "A fan drinks from the can handed to him by Ron Corvus.", source = "M3n747" }
+8007 = { path = "kra-kra-dwa.webp", caption = "Ron Corvus's characteristic back tattoo from [The Crow: City of Angels](https://en.wikipedia.org/wiki/The_Crow:_City_of_Angels) .", source = "M3n747" }
+8008 = { path = "i-tylko-piwa-zal.webp", caption = "Ron Corvus smashes the beer can over Michał Fux's head.", source = "M3n747" }
+8009 = { path = "zakaz-ruchu-osob-wrestlujacych.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) emulates the symbol on the road sign he holds.", source = "M3n747" }
+8010 = { path = "kto-pod-kim-pinezki-rozsypuje.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) with a paper bag full of thumb tacks…", source = "M3n747" }
+8011 = { path = "ten-sam-na-nie-pada.webp", caption = "…only to be thrown onto them himself.", source = "M3n747" }
+8012 = { path = "wbij-to-sobie-do-glowy.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) applies a baseball bat wrapped in barbed wire to [Michał Fux's](@/w/michal-fux.md) forehead.", source = "M3n747" }
+8013 = { path = "polak-wegier-dwa-bratanki.webp", caption = "Ron Corvus shows his respect to [Michał Fux](@/w/michal-fux.md).", source = "M3n747" }
+8014 = { path = "gitarra-bez-lipskiego.webp", caption = "The guitar Michał Fux broke on the head of Ron Corvus.", source = "M3n747" }
+8015 = { path = "zakaz-wstepu.webp", caption = "_No entry for pedestrians_.", source = "M3n747" }
 
+9001 = { path = "o-tam-jest-polnocny-wschod.webp", caption = "[Hans Schulte's](@/w/hans-schulte.md) entrance.", source = "M3n747" }
+9002 = { path = "tom-laruffa.webp", caption = "Tom LaRuffa's entrance.", source = "M3n747" }
+9003 = { path = "podaj-mi-reke-nikt-tu-nie-zginie-podaj-mi-reke-moze-tam-ktos-zginie-ale-nie-tu.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) offers a handshake to Tom LaRuffa, who remains sceptical. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+9004 = { path = "alegoria-kampanii-francuskiej-1940.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) oversees Tom LaRuffa going out of the ring after Hans Schulte.", source = "Tomek O." }
+9005 = { path = "litosci-obiecuje-ze-bede-panu-przynosil-codziennie-swieze-bagietki.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) pleads for mercy with Tom LaRuffa.", source = "M3n747" }
+9006 = { path = "laruffa-video.webp", caption = "Seemingly self-deprecating video of Tom LaRuffa.", source = "M3n747" }
+9007 = { path = "zamorduje-was-podbrodkiem.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) victorious.", source = "M3n747" }
+9008 = { path = "nie-bedzie-niemiec-chuchal-nam-w-twarz.webp", caption = "Hans Schulte tries to intimidate Kinga Miotke, who appears unimpressed.", source = "M3n747" }
 
-7022 = { path = ".webp", caption = ".", source = "M3n747" }
-7023 = { path = ".webp", caption = ".", source = "M3n747" }
-7024 = { path = ".webp", caption = ".", source = "M3n747" }
-7025 = { path = ".webp", caption = ".", source = "M3n747" }
-7026 = { path = ".webp", caption = ".", source = "M3n747" }
-7027 = { path = ".webp", caption = ".", source = "M3n747" }
-7028 = { path = ".webp", caption = ".", source = "M3n747" }
-7029 = { path = ".webp", caption = ".", source = "M3n747" }
-7030 = { path = ".webp", caption = ".", source = "M3n747" }
-7031 = { path = ".webp", caption = ".", source = "M3n747" }
-7032 = { path = ".webp", caption = ".", source = "M3n747" }
-7033 = { path = ".webp", caption = ".", source = "M3n747" }
-7034 = { path = ".webp", caption = ".", source = "M3n747" }
-7035 = { path = ".webp", caption = ".", source = "M3n747" }
-7036 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-8001 = { path = ".webp", caption = ".", source = "Tomek O." }
-9001 = { path = ".webp", caption = ".", source = "Tomek O." }
+9901 = { path = "siehst-du-mein-finger.webp", caption = "[Greg](@/w/greg.md) confronts Hans Schulte.", source = "M3n747" }
+9902 = { path = "schau-mal-hier.webp", caption = "[Michał Fux](@/w/michal-fux.md) confronts [Greg](@/w/greg.md), while [Hans Schulte](@/w/hans-schulte.md) tries to stay relevant in the conversation.", source = "M3n747" }
+9903 = { path = "zobacz-mam-reke.webp", caption = "Michał Fux offers a handshake to [Greg](@/w/greg.md).", source = "M3n747" }
