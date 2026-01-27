@@ -79,7 +79,7 @@ In that match, he was again outsmarted by Vic Golden, who used [Agentka Agatka](
 After the match Queen once again challenged Vic for a tag team match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). While Vic teamed up with Oskar, Gabriel got in touch with his old coach and mentor [Justin Joy](@/w/justin-joy.md).
 Despite their best efforts, Rodzina once again prevailed. Queen managed to get back at them at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), besting Agentka Agatka in a Deathmatch. 
 
-Soon after - at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) Queen v Golden conflict finally concluded, as Gabriel lost Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md) Vic graciously offered Gabriel to stay in the federation under one condition: GQ has to become Rodzina's member. Having no other choice he reluctantly agreed, thus being forced into being one of Vic's puppets.
+Soon after at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
 
 ### Legacy of Wrestling (2024-present)
 
