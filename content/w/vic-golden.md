@@ -123,7 +123,7 @@ Oskar and Agatka's newly formed alliance called ["Rodzina"](@/tt/rodzina.md) (_T
 
 During that match Vic once again got the upper hand over Queen, with significant help from Agatka and Oskar. Despite that, he was eliminated from the match by [Biesiad Strong](@/w/biesiad.md). Earlier that night, during Agatka and Oskar's match against [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md), a masked person had helped Rodzina to score a victory. It was revealed to be Robert Star, who officially confirmed joining Golden's stable.
 
-At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) Queen v Golden conflict finally concluded, as Gabriel lost Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md) Vic graciously offered Gabriel to stay in the federation under one condition: GQ has to become Rodzina's member. Having no other choice he reluctantly agreed, thus being forced into being one of Vic's puppets.
+At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
 
 ### Legacy of Wrestling (2025)
 
