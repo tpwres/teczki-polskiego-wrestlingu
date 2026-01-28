@@ -251,6 +251,7 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 - Złoczyńca Roku (_Villain of the Year_)
 - Sędzia Roku (_Referee of the Year_)
 - Konflikt Roku (_Feud of the Year_)
+- Mówca Roku (_Speaker of the Year_)
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
