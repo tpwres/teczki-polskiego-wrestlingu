@@ -274,8 +274,10 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Legendary Unsanctioned Match
     en: '[Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16
-    nc: upcoming
+    nc: upcoming 
 {% end %}
+
+Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md), against Dale Patricks.
 
 ## References
 

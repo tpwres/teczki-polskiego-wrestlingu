@@ -21,6 +21,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * Next, on 22.12.2025, came the announcement of Chris Brookes vs [Gabriel Queen](@/w/gabriel-queen.md).
 * 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of The Outsiders (余所者) stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
 * On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
+* In a [Facebook reel][orugieedo] published on 27.01.2026 [Olgierd](@/w/olgierd.md) announced that he will defend his [PpW Championship](@/c/ppw-championship.md) at the Tokyo show. His choice of stipulation was a Dog Collar Match, and he challenged former BJW Champion Dale Patricks as his opponent. The match was officially confirmed the next day.
 
 ## Predicted card
 
@@ -41,6 +42,11 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - '伊東竜二 (Ryuji Ito)'
   - s: シンガポール・ケーン・マッチ (Singapore Cane Match)
     nc: 近日公開 (upcoming)
+- - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd)'
+  - 'デイル・パトリックス (Dale Patricks)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: ドッグカラー・マッチ (Dog Collar Match)
+    nc: 近日公開 (upcoming)  
 {% end %}
 
 ### Recap
@@ -57,3 +63,4 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 [ppw-w-tokyo-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid02cR3qT3LUn7PyuMBzjQThGFabsUGgrzSjiozvVCjEXzEzYC8y7MqzvMLyTZyaAioXl
 [ppw-w-tokyo-ig]: https://www.instagram.com/ppw_hw/p/DSQO4rcCkes/
 [are-wa-tokyo-square-desu]: https://www.google.co.jp/maps/place/6-ch%C5%8Dme-8-10+Maenoch%C5%8D,+Itabashi+City,+Tokyo+174-0063,+Japonia/@35.7654889,139.6860555,20z
+[orugieedo]: https://www.facebook.com/reel/1416639646528567
