@@ -20,7 +20,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * Next, on 22.12.2025, came the announcement of Chris Brookes vs [Gabriel Queen](@/w/gabriel-queen.md).
 * 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of The Outsiders (余所者) stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
 * On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
-* In a [Facebook reel][orugieedo] published on 27.01.2026 [Olgierd](@/w/olgierd.md) announced that he will defend his [PpW Championship](@/c/ppw-championship.md) at the Tokyo show. His choice of stipulation was a Dog Collar Match, and he challenged former BJW Champion Dale Patricks as his opponent.
+* In a [Facebook reel][orugieedo] published on 27.01.2026 [Olgierd](@/w/olgierd.md) announced that he will defend his [PpW Championship](@/c/ppw-championship.md) at the Tokyo show. His choice of stipulation was a Dog Collar Match, and he challenged former BJW Champion Dale Patricks as his opponent. The match was officially confirmed the next day.
 
 ## Predicted card
 
