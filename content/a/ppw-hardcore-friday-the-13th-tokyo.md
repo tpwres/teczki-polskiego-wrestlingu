@@ -44,7 +44,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 - - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd)'
   - 'デイル・パトリックス (Dale Patricks)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: ドッグカラー・マッチは (Dog Collar Match)
+    s: ドッグカラー・マッチ (Dog Collar Match)
     nc: 近日公開 (upcoming)  
 {% end %}
 
