@@ -52,6 +52,7 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 ### Recap
 
 * Initially the show was planned for 17.04.2010, however the date was pushed to May due to a period of national mourning following the [Smoleńsk disaster][smolensk-wiki] on 10.04.2010.
+* The official poster featured Chris Botherway and Adam Polak, who didn't appear at the show - possibly due to the changed date.
 * Ring announcer Edyta can be seen swaying to the theme songs of some of the wrestlers, like John Hammer, Don Roid and Kamil Aleksander. She also received some chants 
 * Jon Hammer unintentionally eliminated himself while eliminating The Greatest.
 * Battle Royal order of eliminations:

@@ -1,3 +1,4 @@
+000 = { path = "all-or-nothing-plakat.jpg", caption = "Official poster featuring left to right, top to bottom:: Chris Botherway, Adam Polak; [Kamil Aleksander](@/w/kamil-aleksander.md), [Joe Legend](@/w/joe-legend.md); [Kevin Williams](@/w/kevin-williams.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md); [Don Roid](@/w/don-roid.md), [Rider](@/w/asmund.md).", source = "Official DDW Facebook" }
 001 = { path = "ddw-aon-01.jpg", caption = "Jędruś Bułecka's theme performed live.", source = "Jędruś Bułecka @ Facebook", skip_art = true }
 002 = { path = "ddw-aon-02.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
 003 = { path = "ddw-aon-03.jpg", caption = "[Jędruś Bułecka's](@/w/jedrus-bulecka.md) entrance.", source = "Jędruś Bułecka @ Facebook" }
@@ -12,7 +13,14 @@
 012 = { path = "ddw-aon-12.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) with fans after the show.", source = "Jędruś Bułecka @ Facebook" }
 013 = { path = "ddw-aon-13.jpg", caption = "[Jędruś Bułecka](@/w/jedrus-bulecka.md) signing an autograph after the show.", source = "Jędruś Bułecka @ Facebook" }
 
-101 = { path = "10-man-battle-royal-rules.webp", caption = "The rules of the 10 Man Battle Royal.", source = "Jędruś Bułecka's private archives" }
+014 = { path = "ddw-aon-14.jpg", caption = "Don Roid jumps onto Joe Legend.", source = "Official DDW Facebook" }
+015 = { path = "ddw-aon-15.jpg", caption = "Bloodied Don Roid.", source = "Official DDW Facebook" }
+016 = { path = "ddw-aon-16.jpg", caption = "[Don Roid](@/w/don-roid.md) cuts a promo, while Joe Legend listens.", source = "Official DDW Facebook" }
+017 = { path = "ddw-aon-17.jpg", caption = "[Joe Legend](@/w/joe-legend.md) with the [DDW International Championship](@/c/ddw-international-championship.md). To the left stands [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "Official DDW Facebook" }
+018 = { path = "ddw-aon-18.jpg", caption = "[Joe Legend](@/w/joe-legend.md) with the [DDW International Championship](@/c/ddw-international-championship.md).", source = "Official DDW Facebook" }
+019 = { path = "ddw-aon-19.jpg", caption = "[Joe Legend](@/w/joe-legend.md) with the [DDW International Championship](@/c/ddw-international-championship.md).", source = "Official DDW Facebook" }
+
+101 = { path = "br-10-man-battle-royal-rules.webp", caption = "The rules of the 10 Man Battle Royal.", source = "Jędruś Bułecka's private archives" }
 102 = { path = "br-the-road-devils-with-pawlowski.webp", caption = "Battle Royal.<br />The Road Devils w/ Pan Pawłowski.", source = "Jędruś Bułecka's private archives" }
 103 = { path = "br-the-greatest.webp", caption = "Battle Royal.<br />The Greatest.", source = "Jędruś Bułecka's private archives" }
 104 = { path = "br-rob-cage.webp", caption = "Battle Royal.<br />Rob Cage.", source = "Jędruś Bułecka's private archives" }
