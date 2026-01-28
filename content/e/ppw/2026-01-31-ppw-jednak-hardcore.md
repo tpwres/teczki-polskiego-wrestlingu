@@ -22,6 +22,7 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 * The next day saw the announcement of [Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md) vs Hungarian Luchadores ([Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)) in a Tag Team match. It was preceeded with [a video][ocean-samborskosci] of Ocean proposing that he and Sambor should team up against the Hungarians, with whom Sambor has unfinished business.
 * [Gabriel Queen](@/w/gabriel-queen.md) was announced on 25.01.2025, although without an opponent specified.
 * A post published on 27.01.2028 announced [Mister Z](@/w/mister-z.md), who'll address the issue of the [PpW Championship](@/c/ppw-championship.md) and its current holder [Olgierd's](@/w/olgierd.md) plans to not defend it until the [show in Tokyo](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in March.
+* The next day PpW announced [Biesiad Strong](@/w/biesiad.md) vs [Mutant](@/w/mutant.md).
 
 ## Predicted card
 
@@ -51,6 +52,9 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
   - nc: upcoming
 - - '[Mister Z](@/w/mister-z.md)'
   - g: 'Mister Z talks about the future of the PpW Championship.'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Mutant](@/w/mutant.md)'
+  - nc: upcoming
 {% end %}
 
 ### Recap
