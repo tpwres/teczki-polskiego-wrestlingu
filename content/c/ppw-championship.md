@@ -277,6 +277,8 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     nc: upcoming 
 {% end %}
 
+Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md), against Dale Patricks.
+
 ## References
 
 * [PpW Wiki's entry on the PpW Championship](https://ppw-fandom.tpwres.pl/ppw-championship)
