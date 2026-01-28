@@ -67,8 +67,10 @@ In 2019 Rafael made a one-off appearance for Next Step Wrestling in Germany, whe
 
 * [Dream Factory Wrestling](@/o/dfw.md):
   - [DFW Championship](@/c/dfw-championship.md) (1 time)
+  
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (1 time)
+  - MZW Championship Tournament (2021)
 
 ## References
 

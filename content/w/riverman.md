@@ -16,7 +16,7 @@ Tony "The Riverman" Sheen is a Polish wrestler best known for his time in [Mania
 * Years active: 2011-2014; 2023-present
 * Gimmicks/nicknames:
   - "Aparycja" Tony Sheen (backyard)
-  - Tony "The Riverman" Sheen {{ org_badge(orgs=['mzw']) }}
+  - Tony "The Riverman" Sheen {{ org_badge(orgs=['mzw', 'low']) }}
 * Trained by:
   - [Shadow](@/w/shadow.md)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2022-2024)

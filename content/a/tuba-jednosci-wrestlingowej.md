@@ -3,6 +3,8 @@ title = "Tuba Jedności Wrestlingowej"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[taxonomies]
+category = ["Misc"]
 [extra.gallery]
 +++
 
@@ -12,7 +14,7 @@ authors = ["M3n747"]
 
 A fan looking to buy the show's poster at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) took the tube as a means of protecting the poster in transport. However, since no posters were available at the merch stand, he asked the wrestlers to sign the tube instead. Later on he would take it to shows by [Kombat Pro Wrestling](@/o/kpw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md), asking for autographs.
 
-Nearly 1.5 years later, as the space on the original tube was becoming increasingly sparse, the fan took a new one to [MZW Zjedz mu łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) to continue collecting autographs. He also asked some of the people who'd already signed the first tube to sign the new one again, as several of the final autographs on the original cylinder were barely visible.
+Nearly 1.5 years later, as the space on the original tube was becoming increasingly sparse, the fan took a new one to [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) to continue collecting autographs. He also asked some of the people who'd already signed the first tube to sign the new one again, as several of the final autographs on the original cylinder were barely visible.
 
 ## Signatures on the original tube
 
@@ -77,13 +79,16 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 
 ## Signatures on the second tube
 
-- [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
 - [Adrian Zgórski](@/w/adrian-zgorski.md)
-- Antoni Ocean
+- [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
+- [Antoni Ocean](@/w/antoni-ocean.md)
+- [Boro](@/w/boro.md)
 - [Hexia](@/w/hexia.md)
 - [Istociarz](@/w/istociarz.md)
 - [Joker](@/w/joker.md)
 - [Marcelito](@/w/marcelito.md)
 - [Max Speed](@/w/max-speed.md)
 - [ShowOff](@/w/piotr-malecki.md)
+- [Taras](@/w/taras.md)
+- [Tony Sheen](@/w/riverman.md) (signed as "Riverman")
 - [Vic Golden](@/w/vic-golden.md)

@@ -86,7 +86,7 @@ Along with a new ringname - Vic Golden - he also adopted a new gimmick of a flam
 At the [sixth Underground](@/e/ptw/2022-06-26-ptw-underground-6.md), Vic and [Gabriel Queen](@/w/gabriel-queen.md) formed a tag team called Pure Gold.
 They feuded with PAKA and other teams, and were strong candidates to win the Tag Team tournament, defeating such candidates as FoxJoy - [Justin Joy](@/w/justin-joy.md) and [Axel Fox](@/w/axel-fox.md). 
 
-During his time in PTW, Vic managed to win in two categories of fan-voted [PTW Awards 2022](@/a/ptw-awards-2022.md) - for a Tag Team of the Year as part of Pure Gold, and for a Newcomer of the Year.
+During his time in PTW, Vic managed to win in two categories of fan-voted [PTW Awards](@/a/ptw-awards.md) - for a Tag Team of the Year as part of Pure Gold, and for a Newcomer of the Year.
 
 Their final match as a team for PTW was during [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), in the tournament final Tables Match for the newly created [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), which they however lost to PAKA.
 Later, they briefly joined forces with Legia Łysych ([Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)), feuding against PAKA. Their failure to get rid of PAKA and shifting the blame away from them later transitioned into a feud between Pure Gold and Legia themselves, with the pay-off only happening nearly a year later in [PpW](@/o/ppw.md).
@@ -122,6 +122,8 @@ This betrayal turned Vic into one of the most hated heels on the Polish wrestlin
 Oskar and Agatka's newly formed alliance called ["Rodzina"](@/tt/rodzina.md) (_The Family_) remained in conflict with Vic's nemesis Gabriel. At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Vic faced [Axel Fox](@/w/axel-fox.md) in a Chairs Match, securing a spot in the Total Elimination Fatal 4-Way Match for the #1 Contender spot against the [PpW Champion](@/c/ppw-championship.md). Later that night his new protégé Oskar lost in a Bullrope Match to Queen, who thus qualified for the same match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
 
 During that match Vic once again got the upper hand over Queen, with significant help from Agatka and Oskar. Despite that, he was eliminated from the match by [Biesiad Strong](@/w/biesiad.md). Earlier that night, during Agatka and Oskar's match against [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md), a masked person had helped Rodzina to score a victory. It was revealed to be Robert Star, who officially confirmed joining Golden's stable.
+
+At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
 
 ### Legacy of Wrestling (2025)
 
@@ -164,9 +166,9 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
   - BWN Championship (1 time)
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (2 times):
-    * Tag Team of the Year - with [Gabriel Queen](@/w/gabriel-queen.md)
-    * Newcomer of the Year
+  - [PTW Awards](@/a/ptw-awards.md) (2 times):
+    * Tag Team of the Year - (as [Pure Gold](@/tt/pure-gold.md)) (2022)
+    * Newcomer of the Year (2022)
 
 ## Internet presence
 

@@ -160,14 +160,23 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
     {{ music(yt='NXX3mxDA26s')}}
     {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
     {{ music(apple='1440826084?i=1440826489')}}
+  - "Firestarter" by The Prodigy 
+    {{ org_badge(orgs=['low']) }} (2025-present) <br>
+    {{ music(yt='wmin5WkOuPw')}}
+    {{ music(spot='79CUrU5o2KAVDTNm4x3eGU')}}
+    {{ music(apple='1450123945?i=1450124083')}}
 
 ## Championships and accomplishments
 
-[PTW Awards 2022](@/a/ptw-awards-2022.md) (4 times):
-- Hero of the Year
-- Match of the Year - vs Justin Joy at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md)
-- Moment of the Year - reuniting with Justin Joy
-- Feud of the Year - vs Justin Joy
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (4 times):
+    * Hero of the Year (2022)
+    * Match of the Year - vs Justin Joy at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) (2022)
+    * Moment of the Year - reunion with Justin Joy (2022)
+    * Feud of the Year - vs Justin Joy (2022)
+* [Legacy of Wrestling](@/o/low.md):
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, inaugural, current)
+  - Road to the Title Tournament (2025)
 
 ## Internet presence
 

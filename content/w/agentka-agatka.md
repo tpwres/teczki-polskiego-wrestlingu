@@ -75,6 +75,12 @@ After Mistrzowskie Rozdanie 2 Rodzina's feud with the babyfaces continued. Agatk
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
 
+## Championships and accomplishments
+
+* PpW Ewenement:
+  - [Złoty Ewenement](@/a/zlote-ewenementy.md) (1 time):
+    - Newcomer of the Year (2025)
+
 ## Internet presence
 
 * [Agatka's Instagram](https://www.instagram.com/agentka_agatka)

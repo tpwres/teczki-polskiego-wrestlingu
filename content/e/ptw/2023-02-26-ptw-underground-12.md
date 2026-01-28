@@ -12,7 +12,7 @@ toclevel = 2
 
 The 12th [PTW](@/o/ptw.md) Underground show was held on Sunday, February 26, 2023, in [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
 
-The show had one new foreign guest: Hungarian wrestler Iva Kolasky, former WxW Women's Champion, facing Diana Strong. This was her only appearance for PTW so far, but not her first match against Diana - the two faced in WxW Academy in March 2022, and would meet each other again in Finland and Budapest later in 2023.
+The show had one new foreign guest: Hungarian wrestler Iva Kolasky, former WxW Women's Champion, facing Diana Strong. This was her first appearance for PTW, but not her first match against Diana - the two faced in WxW Academy in March 2022, and would meet each other again in Finland and Budapest later in 2023.
 
 In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02GPtR7do2nZYvFzc4jbRLnvhSRDkD9Z1rg7kAxAp3X8YPiEoWnLKqzV2wWiqjP9GSl) for the PTW Tag Team Championship, fans saw the first team advance to the finals.
 

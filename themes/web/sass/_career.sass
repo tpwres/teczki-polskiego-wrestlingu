@@ -4,9 +4,15 @@
   grid-template-rows: auto
   grid-template-columns: 6em 1fr 8fr
   gap: 0.3em
+  margin-top: 0.25rem
+  margin-bottom: 0
 
   .d, .o, .r
     padding: 0.1em 0.3em
+
+  .y
+    grid-column: span 3
+    background: var(--accent-bg)
 
   .header
     font-weight: bold
@@ -24,6 +30,12 @@
 
   .entry:nth-child(odd)
     background: var(--accent-bg)
+
+  .yearhead
+    summary
+      padding: 0 0.5rem
+    &:not(:has(details[open])) ~ li.entry
+      display: none
 
 @media only screen and (max-width: 720px)
   .career

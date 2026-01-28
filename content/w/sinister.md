@@ -76,8 +76,8 @@ At the [third show](@/e/low/2025-07-11-low-3.md) Sinister once again tried to to
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
-    * Villain of the Year
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Villain of the Year (2022)
 
 ## Internet presence
 

@@ -52,6 +52,11 @@ Szymon is also the main character of a short documentary titled [Amerykański Se
     {{ music(spot='6mZNpAqkM0anYXgHWEtIOn')}}
     {{ music(apple='338870616?i=338871140')}}
 
+## Championships and accomplishments
+
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - Rookies Battle Royal (2014)
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24750)

@@ -34,7 +34,7 @@ The [Underground Championship](@/c/ptw-underground-championship.md) tournament s
 {% card() %}
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
-  - g: 'Pawłowski opens the show and hands Max Speed [PTW Awards trophies](@/a/ptw-awards-2024.md).'
+  - g: 'Pawłowski opens the show and hands Max Speed [PTW Awards trophies](@/a/ptw-awards.md).'
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '[PTW Underground Championship](@/c/ptw-underground-championship.md) tournament quarter final match'

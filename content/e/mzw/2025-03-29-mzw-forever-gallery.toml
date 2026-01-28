@@ -8,7 +8,7 @@
 0008 = { path = "dietambor.webp", caption = "Image announcing [Dieter Schwartz](@/w/dieter-schwartz.md) as the new opponent for [Sambor](@/w/sambor.md).", source = "Official MZW Facebook" }
 1001 = { path = "m3-goblin-vs-kaiser-1.webp", caption = "[Goblin](@/w/goblin.md) [eats the head](@/a/polish-wrestling-chants.md) of Robert Kaiser.", source = "M3n747" }
 3001 = { path = "m3-lysi-vs-wlosy-01.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md).", source = "M3n747" }
-3002 = { path = "m3-lysi-vs-wlosy-02.webp", caption = "[Marco Hammers](@/w/marco-hammers.md). Behind him stands the show's host, [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+3002 = { path = "m3-lysi-vs-wlosy-02.webp", caption = "[Marco Hammers](@/w/marco-hammers.md). Behind him stands the show's host, Adrian Zgórski.", source = "M3n747" }
 3003 = { path = "mk-open-challenge-01.webp", caption = "[Dziedzic](@/w/dziedzic.md) wearing a shirt that says &quot;Włosy&quot; (_Hair_).", source = "Kawczun" }
 3004 = { path = "m3-lysi-vs-wlosy-03.webp", caption = "The tag team of [Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "M3n747" }
 3005 = { path = "m3-lysi-vs-wlosy-04.webp", caption = "Olgierd pins Jędruś Bułecka, wearing Marco Hammers's balaclava.", source = "M3n747" }
@@ -23,7 +23,7 @@
 5002 = { path = "m3-sheen-vs-pablo-2.webp", caption = "Tony Sheen's fisherman's raincoat.", source = "M3n747" }
 5003 = { path = "m3-sheen-vs-pablo-3.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) dancing with a fan.", source = "M3n747" }
 5004 = { path = "mk-riverman-disco.webp", caption = "[Tony Sheen](@/w/riverman.md) gives a Big Boot to [Disco Pablo](@/w/disco-pablo.md), as [Sędzia Seweryn](@/w/sedzia-seweryn.md) observes the action.", source = "Kawczun" }
-6001 = { path = "m3-pablo-receives-medical-help.webp", caption = "Disco Pablo receives medical attention from a medical staff member. Around them stand [Dziedzic](@/w/dziedzic.md), Marcelito, [Jędruś Bułecka](@/w/jedrus-bulecka.md) and [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+6001 = { path = "m3-pablo-receives-medical-help.webp", caption = "Disco Pablo receives medical attention from a medical staff member. Around them stand Dziedzic, Marcelito, Jędruś Bułecka and Adrian Zgórski.", source = "M3n747" }
 7001 = { path = "m3-z-vs-kubes-1.webp", caption = "[Mister Z's](@/w/mister-z.md) entrance.", source = "M3n747" }
 7002 = { path = "mk-z-among-the-people.webp", caption = "Mister Z after being thrown out of the ring by Kubes.", source = "Kawczun" }
 8001 = { path = "m3-main-event-1.webp", caption = "[Mister Z](@/w/mister-z.md) watches the main event from the audience.", source = "M3n747" }

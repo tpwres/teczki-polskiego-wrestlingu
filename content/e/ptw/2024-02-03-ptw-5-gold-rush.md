@@ -47,9 +47,9 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[Sam Della Vale](@/w/sam-rogers.md)'
   - c: 'PTW:WWA Championship'
 - - '[Legia Łysych](@/tt/legia-lysych.md): [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)'
-  - '[Karyna](@/w/karyna.md)'
+  - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - Marcin Najman
-  - g: "Shaving [Karyna's](@/w/karyna.md) head, Najman's MMA promo"
+  - g: "Failed attempt at shaving [Karyna's](@/w/karyna.md) head, Najman's MMA promo"
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Marcelito](@/w/marcelito.md)'
@@ -71,7 +71,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - '[TAXI Złotówa](@/w/taxi-zlotowa.md)'
   - '[Krampus](@/w/krampus.md)'
   - Arczi Czajka
-  - s: 'Gold Rush Rumble'
+  - s: '[Gold Rush Rumble](@/a/ptw-gold-rush-rumble.md)'
     c: '[PTW Championship](@/c/ptw-championship.md)'
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - "Karolina (Pawłowski's real-life partner)"
@@ -99,13 +99,13 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 * PAKA entered to Bonnie Tyler's _Holding out for a hero_. Coincidentally, the actual Bonnie Tyler was giving a concert in Poland the next day, Sunday Feb 4.
 * MxM grabbed the win by Mason pinning Mansoor. However, Pawłowski was furious and ordered the match to continue.
 * Marius Al-Ani retained the belt by submission.
-* Legia Łysych (Marco hammers & [Olgierd](@/w/olgierd.md)) entered the ring, Hammers holding an electric shaver. They summoned Karyna, their valet to the ring. Previously in a segment on PTW Underground, they declared that she'd have to shave bald to remain in Legia Łysych. Karyna was nowhere to be seen. \
+* Legia Łysych (Marco hammers & [Olgierd](@/w/olgierd.md)) entered the ring, Hammers holding an electric shaver. They summoned their valet Karyna to the ring. Previously in a segment on PTW Underground, they declared that she'd have to shave bald to remain in Legia Łysych. Karyna, however, was nowhere to be seen. \
   Looking for someone else to shave, they started calling out people in the audience, then grabbed a hapless referee to the crowd's disappointment. Then, Marcin Najman appeared and entered the ring. Excited, Legia invited him to join the faction, as he's already bald, and is known by _El Testosteron_. However, in order to join, he must start winning fights in MMA, a reference to his losing streak. \
   Najman took offense to this, referred to himself not as bald, but close cut and decked them with punches. Announced his upcoming fight against Murański at Clout MMA 4 on March 9.
 * Pawłowski explained the Gold Rush Rumble rules: typical over-the-top rope elimination, but the final four can only eliminate  by pinfall or submission.
 * After the rumble, [Puncher](@/w/puncher.md) cut a promo, to be interrupted by Babatunde, an ex-WWE wrestler of Polish origin, now as Babathunder. Pawłowski announced him as signed to PTW.
-* Pawłowski invited his fiancée Karolina, to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
-* The screen showed a video recalling Rzeźniczak's kidnapping from [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and revealing it was an elaborate ruse by Bones, Rzeżniczak and Longman who are scheming against Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, hit his boss with _At Your Service_, and closed the show by plugging the lottery.
+* Pawłowski invited his fiancée Karolina to do a proposal segment. Before he got his chance to bend the knee, Longman interrupted him.
+* The screen showed a video recalling Rzeźniczek's kidnapping from [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), and revealing it was an elaborate ruse by Bones, Rzeźniczek and Longman who are scheming against Pawłowski. The surprised Arkadiusz confronted Longman calling him an idiot. Longman took offense, hit his boss with _At Your Service_, and closed the show by plugging the lottery.
 
 ### Gold Rush Rumble entrances and eliminations
 

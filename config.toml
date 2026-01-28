@@ -20,15 +20,11 @@ taxonomies = [
   { name = "same-venue", render = false },
   { name = "chrono_root", render = false },
   { name = "country", render = false },
+  { name = "category", render = false },
 ]
 
 [search]
 index_format = "elasticlunr_json"
-
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
 
 [slugify]
 paths_keep_dates = true
@@ -77,6 +73,12 @@ tts_root = "//unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&sl=pl&ttsMode=se
 special_orgs = [
   "splat"
 ]
+
+fold_matchlist = "auto"
+fold_matchlist_at = 20
+
+fold_crew_appearances = "auto"
+fold_crew_appearances_at = 20
 
 [extra.org_styles.ppw]
 bg = '#5b007e'

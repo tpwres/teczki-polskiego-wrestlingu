@@ -3,6 +3,8 @@ title = "PM Shooter Saga"
 template = "article.html"
 weight = 0
 authors = ["Szymon Iwulski"]
+[taxonomies]
+category = ["Polish wrestling scene"]
 [extra]
 toclevel = 3
 [extra.gallery]
@@ -39,7 +41,7 @@ Biesiad made his entrance handcuffed and shackled, and escorted to the ring by t
 
 On 13.04 PpW posted a video of Biesiad held in custody and tortured by PM Shooter mercenaries. It was followed up the next day with a video of Jonny Blade infiltrating the PM Shooter complex. He frees Biesiad and they try to run away. Just when they are about to jump the fence, Blade gets shot. Biesiad is taken back into custody, while the mercenaries dig a grave to bury the wounded Blade. Not long after that Biesiad's phone was found by [Red Floorfiller](@/w/biesiad.md), who continued to post content via Insta-stories - a callback to PpW's backyard lore.
 
-On 22.04.2025 PpW posted yet another video in the PM Shooter saga. In this one, Mister Z can be seen honoring his deal with the PM Shooter mercenaries. He pays them in Peruvian artifacts, and offers additional bounty in the form of the talisman of King Cápac if they finish Biesiad once and for all. This would mean humiliating him in the ring by sending the strongest mercenary to beat him. Mr Z would be the special referee.
+On 22.04.2025 PpW posted yet another video in the PM Shooter saga. In this one, Mister Z can be seen honoring his deal with the PM Shooter mercenaries. He pays them in Peruvian artifacts, and offers additional bounty in the form of the talisman of [King Cápac][krol-inkow] if they finish Biesiad once and for all. This would mean humiliating him in the ring by sending the strongest mercenary to beat him. Mr Z would be the special referee.
 
 ### Fight for freedom
 
@@ -73,3 +75,5 @@ In the interviews at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
 * [Mister Z gives a bounty to the PM Shooter crew and offers the next job](https://www.instagram.com/p/DIwbHBYqVCl/)
 * [Mr Power Up revealed as PM Shooter's henchman - Instagram](https://www.instagram.com/p/DIy7OumKVGo/)
 * [Blade resurrected - Instagram](https://www.instagram.com/p/DJM2Mo3Cy0h/)
+
+[krol-inkow]: https://en.wikipedia.org/wiki/C%C3%A1pac_Yupanqui

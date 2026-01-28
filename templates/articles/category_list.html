@@ -1,0 +1,23 @@
+{# param categories = a list of taxonomy items to render #}
+{% if section %}
+  {% set current_cat = section.title %}
+{% else %}
+  {% set current_cat = false %}
+{% endif %}
+<details>
+<summary>Categories</summary>
+    <ul class="category-list">
+        {% for cat in categories.items %}
+            {% set slug = cat.slug %}
+            {% set path = "a/" ~ slug ~ "/_index.md" %}
+            {% set section = get_section(path=path) %}
+            <li>
+                {% if cat.name == current_cat %}
+                    <strong>{{ cat.name }}</strong>
+                {% else %}
+                    <a href="{{ section.path }}">{{ cat.name }}</a> ({{ cat.pages | length }})
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</details>

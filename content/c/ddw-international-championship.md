@@ -69,6 +69,57 @@ Both sides of the Championship also feature sideplates - one with a big Polish f
 
 Following DDW #7 the title was vacated and the promotion had no champion for 890 days.
 
+### Championship tournament
+
+#### First round
+
+{% free_card() %}
+- - 'Polish Giant'
+  - 'Eddie Rage'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    ed: 2014-08-17
+- - '[Renegade](@/w/renegade.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    ed: 2014-08-17
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Klarys](@/w/klarys.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    ed: 2014-08-17
+- - '[Ron Corvus](@/w/ron-corvus.md)'
+  - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    ed: 2014-08-17
+{% end %}
+
+#### Semi-finals
+
+{% free_card() %}
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Ron Corvus](@/w/ron-corvus.md)'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    ed: 2014-08-17
+- - '[Renegade](@/w/renegade.md)'
+  - 'Polish Giant'
+  - s: Singles match
+    en: '[DDW All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    ed: 2014-08-17
+{% end %}
+
+#### Finals
+
+{% free_card() %}
+- - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - '[Renegade](@/w/renegade.md)'
+  - s: Singles match
+    en: '[DDW All or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md)'
+    ed: 2014-08-17
+{% end %}
 
 ### Champion #2: Kamil Aleksander
 

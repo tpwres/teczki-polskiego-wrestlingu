@@ -47,12 +47,14 @@ At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Championship](@/c/ptw-championship.md) - Dawid "Puncher" Seńko (1 time)
+  - [PTW Underground Championship](@/c/ptw-underground-championship.md) - Nano Lopez (1 time; current)
+  - PTW WWA Championship - Dawid "Puncher" Seńko (1 time)
+  - BestYa Slam Championship - Dawid "Puncher" Seńko (1 time)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time; current)
-  - [PTW Championship](@/c/ptw-championship.md) - Dawid "Puncher" Seńko (1 time; current)
-  - PTW WWA Championship - Dawid "Puncher" Seńko (1 time; current)
-  - BestYa Slam Championship - Dawid "Puncher" Seńko (1 time; current)
-  - PTW Awards 2024: Speaker of the year - Pawłowski (1 time)
-  - PTW Awards 2024: Newcomer of the Year - Vincent Caravaggio (1 time)
+  - [PTW Awards](@/a/ptw-awards.md) (2 times):
+    * Speaker of the year - Pan Pawłowski (2024)
+    * Newcomer of the Year - Vincent Caravaggio (2024)
 
 ## References 
 

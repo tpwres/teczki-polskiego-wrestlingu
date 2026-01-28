@@ -6,6 +6,8 @@ authors = ["M3n747", "Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "adi.webp", caption = "Adrian Zgórski at [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md).", source = "Julacia / Official Legacy Facebook" }
 +++
 
 Adrian Zgórski, also known as Adi, is a host and ring announcer working for [Maniac Zone Wrestling](@/o/mzw.md).

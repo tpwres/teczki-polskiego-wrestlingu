@@ -65,7 +65,7 @@ On the 28th December 2024 PpW launched their [official subscription-based VOD][p
 
 At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, further described in a [separate article](@/a/pm-shooter-saga.md).
 
-In Autumn 2025 PpW began a tour of Poland, starting with [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) in Wrocław. At this show the promotion introduced the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
+In Autumn 2025 PpW began a tour of Poland, starting with [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) in Wrocław. At this show the promotion introduced the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). The tour continued with [a show in Gdynia](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), held at the same time as [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) and very close by.
 
 ## Lost lore
 
@@ -102,7 +102,7 @@ However, since the Prime Time Transfers era, PpW has enough roster members, and 
 
 ### Excursion to Japan
 
-On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi".
+On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi". Coinciding with the announcement of the Tokyo show was the creation of a new Instagram account: [ppw_global][ppw-globalnie].
 
 ## Polish wrestling scene
 
@@ -110,6 +110,8 @@ In their backyard era, PpW were always well connected with the other non-profess
 
 As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization. 
 After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
+
+According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), multiple people from PpW and [DFW](@/o/dfw.md) trained with MZW. Under one condition: MZW insisted that wrestlers who wanted to work for them could not perform in backyards, but were not stopped from appearing in other pro federations. 
 
 ## In media
 
@@ -145,8 +147,10 @@ Back in the backyard years PpW promoted a great number of championships, which w
 
 ## Internet presence
 
+* [Official website](https://ppw-ewenement.pl)
 * Facebook: [OficjalnePPW](https://www.facebook.com/OficjalnePPW)
-* Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/)
+* Instagram: [ppw_hw](https://www.instagram.com/ppw_hw/) (domestic)
+* Instagram: [ppw_global][ppw-globalnie] (international)
 * YouTube: [OficjalnePPW](https://www.youtube.com/@OficjalnePPW)
 * [Official VOD][ppw-vod]
 
@@ -163,3 +167,4 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [newonce-pt-1]: https://www.youtube.com/watch?v=KT8PHRlnSxI
 [ppw-vod]: https://ppw-ewenementpl.vhx.tv
 [ewenement-logo]: https://www.facebook.com/photo/?fbid=2150678838439647&set=a.158941800946704
+[ppw-globalnie]: https://www.instagram.com/ppw_global/

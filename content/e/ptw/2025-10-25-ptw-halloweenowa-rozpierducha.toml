@@ -42,3 +42,18 @@ source = "Official PTW Facebook"
 path = "main-event.webp"
 caption = "Image announcing Team Okoński vs Nietykalni. Clockwise from top, left: [Łukasz Okoński](@/w/lukasz-okonski.md), [Nano Lopez](@/w/nano-lopez.md), [Spartan](@/w/spartan.md), [Sigma Boy xD](@/w/sigma-boy.md); right: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Puncher](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md)."
 source = "Official PTW Facebook"
+
+[09]
+path = "sawicki-1.webp"
+caption = "[Sawicki](@/w/sawicki.md)."
+source = "SawickiWrestler @ Facebook"
+
+[10]
+path = "sawicki-2.webp"
+caption = "[Sawicki](@/w/sawicki.md)."
+source = "SawickiWrestler @ Facebook"
+
+[11]
+path = "sawicki-3.webp"
+caption = "[Sawicki](@/w/sawicki.md)."
+source = "SawickiWrestler @ Facebook"

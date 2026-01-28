@@ -3,6 +3,8 @@ title = "Prehistory of wrestling on Polish soil"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[taxonomies]
+category = ["History"]
 [extra.gallery]
 1 = { path = "supronstars.jpg", caption = "The only surviving photo of a [SupronStars](@/o/supronstars.md) show ([Andrzej Supron](@/w/andrzej-supron.md) standing on the left, in black clothes).", source = "Wikipedia" }
 +++

@@ -1,0 +1,50 @@
+<ul class="career">
+    <li class="header">
+        <span class="d">Date</span>
+        <span class="o">Org</span>
+        <span class="r">Details</span>
+    </li>
+    {% set lastyr = "-" %}
+    {% for match in matches_by_date | reverse %}
+        {% set yr = match.d | date(format="%Y") %}
+        {% if lastyr != yr %}
+            {% if enable_year_headers %}
+                {% set_global lastyr = yr %}
+                {# Terminate current list and start a new one #}
+                </ul>
+                <ul class="career">
+                    <li class="header yearhead" id="career-{{ yr }}">
+                        <details class="y" open>
+                            <summary role="heading">{{ yr }}</summary>
+                        </details>
+                    </li>
+                {% else %}
+                {% set yrtarget = "career-" ~ yr %}
+            {% endif %}
+        {% else %}
+            {% set yrtarget = false %}
+        {% endif %}
+        <li class="entry {{ match.tt | default(value="") }}"
+        {% if yrtarget %}id="{{ yrtarget }}"{% endif %}>
+            <time class="d" style="white-space: nowrap" datetime="{{ match.d }}">{{ match.d }}</time>
+            <span class="o">
+                {% for org in match.o %}
+                {{ macros::promolink_color(code=org, styles=org_styles) }}
+                {% endfor %}
+            </span>
+            {% set row = match.m %}
+            {# It may happen that the same match.i happens more than once #}
+            {# This means more than one appearance in that match (think rumbles, entering under different names) #}
+            {# These matches were filtered out by unique above, so we have only one. #}
+            {% set positions = my_match_pos[match.i] | map(attribute='1') %}
+            <span class="r">
+                {% include "career/result_row.html" %}
+                {% set event_path = "@/" ~ match.p %}
+                <small>at <a href="{{ get_url(path=event_path) }}">{{ match.n }}</a></small>
+                {% if match.tt %}
+                ({{ match.tt }})
+                {% endif %}
+            </span>
+        </li>
+    {% endfor %}
+</ul>

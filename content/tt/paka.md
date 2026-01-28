@@ -89,14 +89,19 @@ At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo was se
  {{ music(yt='s8Px2LI2Frs')}}
  {{ music(spot='5lznttrwsPNSLSnvAK9uL3')}}
  {{ music(apple='1376455080?i=1376455089')}}
-  - Disco Pablo: "Nazar - Misia Bela (trąf, trąf Misia A, Misia B) (Original Club Mix)"
-  - {{ music(yt='mtcSILM1gHQ')}}
+  - Disco Pablo: "Misia Bela (trąf, trąf Misia A, Misia B) (Original Club Mix)" by Nazar
+ {{ music(yt='mtcSILM1gHQ')}}
  {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
   - "To my!" by 52 Dębiec (Taras)
  {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
  {{ music(yt='XcQdJyo1B-8')}}
  {{ music(spot='3mvtAnOK9CoHvVCsqrixj5')}}
  {{ music(apple='619262718?i=619262888')}}
+  - "Holding out for a hero" by Bonnie Tyler (Taras & Disco Pablo at [PTW #5](@/e/ptw/2024-02-03-ptw-5-gold-rush.md))
+ {{ org_badge(orgs=['ptw']) }} (2024) <br>
+ {{ music(yt='bWcASV2sey0')}}
+ {{ music(spot='5Hyr47BBGpvOfcykSCcaw9')}}
+ {{ music(apple='1504111352?i=1504111731')}}
 
 ## Championships and accomplishments
 
@@ -105,7 +110,6 @@ At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo was se
   - PTW Tag Team Championship Tournament (2023)
 
 ## References
-
-[Introductory post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02KALKsjfGkS12T7Ad6VJvJKw6rTv87UB7JMBAiZrsLZNqjDLt9s3pKZxoksuCgGRnl)
+* [Introductory post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02KALKsjfGkS12T7Ad6VJvJKw6rTv87UB7JMBAiZrsLZNqjDLt9s3pKZxoksuCgGRnl)
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

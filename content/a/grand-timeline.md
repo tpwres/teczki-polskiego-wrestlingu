@@ -6,6 +6,8 @@ authors = ["Krzysztof Zych", "M3n747"]
 description = """\
   A timeline of key events in Polish wrestling history, from the 1800s to modern day.
 """
+[taxonomies]
+category = ["History"]
 +++
 
 This article presents a timeline view of key events in Polish wrestling history. It is a condensed version of the [Prehistory article](@/a/prehistory.md) and expands on the modern era not covered by that article.
@@ -177,6 +179,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 * PpW introduce the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 * [Pro Wrestling Illustrated](https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated) ranks [Diana Strong](@/w/diana-strong.md) #205 on their 2025 PWI Women's 250 list.
+* Legacy of Wrestling introduce the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). The first Champions is [Axel Fox](@/w/axel-fox.md).
 
 #### 2026
 

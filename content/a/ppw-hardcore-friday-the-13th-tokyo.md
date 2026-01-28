@@ -3,6 +3,8 @@ title = "PpW Hardcore Friday the 13th 東京"
 template = "article.html"
 weight = 0
 authors = ["M3n747"]
+[taxonomies]
+category = ["Polish wrestling scene"]
 [extra.gallery]
 +++
 
@@ -14,9 +16,31 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 ## Build-up
 
-* TBD
+* The first match to be announced - on 15.12.2025, the day after the announcement of the show - was a Deathmatch between Abdullah Kobayashi and [Johnny Blade](@/w/johnny-blade.md).
+* Next, on 22.12.2025, came the announcement of Chris Brookes vs [Gabriel Queen](@/w/gabriel-queen.md).
+* 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of The Outsiders (余所者) stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
+* On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
+  - 'アブドーラ・小林 (Abdullah Kobayashi)'
+  - s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
+    nc: 近日公開 (upcoming)
+- - 'クリス・ブルックス (Chris Brookes)'
+  - '[ガーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
+  - s: シングルマッチ (Single Match)
+    nc: 近日公開 (upcoming)
+- - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
+  - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
+  - s: 6 人タッグマッチ ノー・ホルズ・バード・フォルズ・カウント・エニウェア  (3-vs-3 Tag Team Match No Holds Barred Falls Count Anywhere)
+    nc: 近日公開 (upcoming)
+- - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'
+  - '伊東竜二 (Ryuji Ito)'
+  - s: シンガポール・ケーン・マッチ (Singapore Cane Match)
+    nc: 近日公開 (upcoming)
+{% end %}
 
 ### Recap
 
@@ -26,6 +50,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 * [Facebook post announcing the event][ppw-w-tokyo-fb]
 * [Instagram post announcing the event][ppw-w-tokyo-ig]
+* [PpW Global](https://www.instagram.com/ppw_global/) on Instagram
 
 [bjw]: https://en.wikipedia.org/wiki/Big_Japan_Pro_Wrestling
 [ppw-w-tokyo-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid02cR3qT3LUn7PyuMBzjQThGFabsUGgrzSjiozvVCjEXzEzYC8y7MqzvMLyTZyaAioXl

@@ -1,5 +1,5 @@
 +++
 title = "Articles"
-template = "article_index.html"
+template = "articles/main_index.html"
 sort_by = "weight"
 +++

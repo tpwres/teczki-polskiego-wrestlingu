@@ -3,6 +3,8 @@ title = "Polish wrestling chants"
 template = "article.html"
 weight = 0
 authors = ["Krzysztof Zych", "M3n747"]
+[taxonomies]
+category = ["Polish wrestling scene"]
 +++
 
 This is a short guide to Polish wrestling crowd chants, in alphabetical order.
@@ -70,7 +72,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 * _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. Or whenever the crowd wanted the babyface to win already, often the calls are not even close to 2,5.\
   {% ipa(tts="Było trzy") %}bˈɨwɔ tʃˈɨ{% end %}
-* _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. \
+* _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. During [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) a half-French variant _sędzia putain_ was also heard. \
   {% ipa(tts="Sędzia chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️🌶️
 * _Sędzia cipa_ - "Referee is a pussy": same as above, but targeted at [Referee Kinga](@/w/kinga-miotke.md) after she took over the duties from [Krystian Czekaj](@/w/krystian-czekaj.md). \
   {% ipa(tts="Sędzia cipa") %}sˈɛɲd͡ʑa t͡ɕˈipa{% end %} 🌶️
@@ -128,8 +130,10 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Golden to pała, wygląda mi na pedała") %}ɡˈɔldɛn tɔ pˈawa, vɨɡlˈɔnda mi na pɛdˈawa{% end %}
 * _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). \
   {% ipa(tts="Goldenowi liże jaja, Oskar to faja") %}ɡˌɔldɛnˈɔvi lˈiʒɛ jˈaja, ˈɔskar tɔ fˈaja{% end %}
+* _Karasie jedzą gówno_ - "[Crucian carps][carassius-carassius] eat shit": used against ["The Riverman" Tony Sheen](@/w/riverman.md), matching his fisherman gimmick. The chant comes from a Polish copypasta. \
+  {% ipa(tts="Karasie jedzą gówno") %}karˈaɕɛ jˈɛd͡ʑɔ̃ ɡˈuvnɔ{% end %} 🌶️
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
-  {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️️
+  {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️
 * _Lis jest pod ochroną_ - "Fox is protected": when Axel Fox is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
   {% ipa(tts="Lis jest pod ochroną") %}lˈis jɛst pɔt ɔxrˈɔnɔ̃{% end %}
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "fucktard" or "loser". \
@@ -163,3 +167,4 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 [zagrozone-gatunki]: https://en.wikipedia.org/wiki/IUCN_Red_List
 [warszawa]: https://www.youtube.com/watch?v=ePNUSmH3dMI
 [sto-lat]: https://en.wikipedia.org/wiki/Sto_lat
+[carassius-carassius]: https://en.wikipedia.org/wiki/Crucian_carp

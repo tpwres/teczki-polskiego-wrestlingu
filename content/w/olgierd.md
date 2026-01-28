@@ -9,6 +9,7 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "olgierd-ptw6.jpg", caption = "Olgierd's entrance, [Total Blast from the Past](@/e/ptw/2024-05-11-ptw-6.md).", source = "Official PTW YouTube" }
 2 = { path = "sedzia-olgierd.jpg", caption = "Olgierd acting as a referee at [Brutality '17](@/e/ppw/2017-03-25-ppw-brutality-17.md).", source = "Official PpW YouTube" }
+3 = { path = "olgierd-z-pasem-na-low4.webp", caption = "Olgierd with the [PpW Championship](@/c/ppw-championship.md) at [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md).", source = "M3n747" }
 +++
 
 Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md).
@@ -138,12 +139,6 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
   - Mix: "Fopa i Nietakt" by Słoń/Mikser, feat WSRH / "Slasher" by Słoń/Mikser
     {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
     (mixed by [Referee Kornel](@/w/sedzia-kornel.md))<br>
-    {{ music(yt='jt_2gXNBlqU')}}
-    {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
-    {{ music(apple='1509575453?i=1509575457')}} <br>
-    {{ music(yt='spq7KCQWCO4')}}
-    {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
-    {{ music(apple='750848937?i=750848967')}}
   - "100 joints" by 2 Chainz
     {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
     {{ music(yt='NXX3mxDA26s')}}

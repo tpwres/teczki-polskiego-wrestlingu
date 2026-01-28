@@ -89,6 +89,8 @@ Beginning with the [inaugural Legacy show](@/e/low/2024-12-01-low-1.md), Dziedzi
 * [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md) - ~**SAJA BOYS**~. A reference to a villain boy band from the 2025 animated film [KPop Demon Hunters][kpop], likening [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) to the fictional group (underscored by his theme song for that show coming from that film).
 * [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) - **Dziedzic wstawaj... wygrałeś** (_Dziedzic, get up... you've won_). A paraphrase of [Pan Pawłowski's](@/w/pan-pawlowski.md) words from [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) ("Syriusz, obudź się, wygrałeś" - _Syriusz, wake up, you've won_), said to Dziedzic after he was brutally beaten by [PAKA](@/tt/paka.md) and [Santino](@/w/santino.md) following his victory. The text on the shirt was accompanied by a silhouette of Dziedzic lying unconscious in the ring.
 
+At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) Dziedzic returned to his black attire.
+
 ## Internet presence
 
 * [Dziedzic's Instagram](https://www.instagram.com/dziedzicwrestling)

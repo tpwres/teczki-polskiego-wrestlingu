@@ -77,13 +77,15 @@ After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Le
 The feud continued throughout mid-2025 with Gabriel defeating Vic's protégé Oskar in a Bullrope Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), which allowed him to qualify for the Total Elimination Four-way Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
 In that match, he was again outsmarted by Vic Golden, who used [Agentka Agatka](@/w/agentka-agatka.md), another member of his [Rodzina](@/tt/rodzina.md) stable, to get the upper hand over Queen.
 After the match Queen once again challenged Vic for a tag team match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). While Vic teamed up with Oskar, Gabriel got in touch with his old coach and mentor [Justin Joy](@/w/justin-joy.md).
-Despite their best efforts, Rodzina once again prevailed. Queen managed to get back at them at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), besting Agentka Agatka in a Deathmatch.
+Despite their best efforts, Rodzina once again prevailed. Queen managed to get back at them at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), besting Agentka Agatka in a Deathmatch. 
+
+Soon after at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
 
 ### Legacy of Wrestling (2024-present)
 
 Gabriel joined [Legacy of Wrestling](@/o/low.md), appearing at their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md).
 At their second show he challenged Axel Fox in a Road To The Title Match, but lost. This forced him to plea with LoW's management for one more chance to pursue the upcoming Legacy Championship.
-Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
+Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md). At the [fourth show](@/e/low/2025-12-20-low-4.md) he took part in the Six-Man Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md), but was eliminated halfway through the fight.
 
 ## International wrestling appearances
 
@@ -101,11 +103,12 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
 * Tag Teams and stables:
   - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
+  - [Rodzina](@/tt/rodzina.md) (2025-)
 * Managers:
   - [Isnorr](@/w/isnorr.md) (2021)
 * Entrance music:
   - "Absolutely Anything" by CG5 & OR3O
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2021-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
     {{ music(yt='XsnWgZggi-4')}}
     {{ music(spot='30nwxUmOXvcwA1U84BqowT')}}
     {{ music(apple='1490598362?i=1490598731')}}
@@ -118,8 +121,8 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time)
-    * Tag Team of the Year (as Pure Gold)
+  - [PTW Awards](@/a/ptw-awards.md) (1 time)
+    * Tag Team of the Year (as [Pure Gold](@/tt/pure-gold.md)) (2022)
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - Golden Goat Trophy (1 time)
 

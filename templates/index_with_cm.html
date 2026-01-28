@@ -19,11 +19,19 @@
 
 {% block extra_head %}
 <script defer type="module">
-import { extractUpcoming, createSection, cleanEmptyYears } from '/events.js'
+import { extractEvents, createSection, cleanEmptyYears, sameDate } from '/events.js'
+
 document.addEventListener('DOMContentLoaded', () => {
-  const events = extractUpcoming('ul.event-list-cm')
-  const list = document.querySelector('ul.event-list-cm')
-  createSection(events, list, 'h2')
+  const events = document.querySelector('ul.event-list-cm')
+  const now = new Date()
+  const todayEvents = extractEvents('ul.event-list-cm', (el) => sameDate(new Date(el.dataset.date), now))
+  const upcomingEvents = extractEvents('ul.event-list-cm', (el) => (new Date(el.dataset.date) >= now))
+  if (todayEvents) {
+    const [head, today] = createSection(todayEvents, 'Today', events, 'h2')
+    if (head) head.classList.add('events-today')
+    if (today) today.classList.add('events-today')
+  }
+  createSection(upcomingEvents, 'Upcoming',events, 'h2')
   cleanEmptyYears('h2', 'ul.event-list-cm')
 })
 </script>

@@ -31,7 +31,7 @@ He joined Referees [Matek](@/w/sedzia-matek.md) and [Sewi](@/w/sedzia-seweryn.md
 
 #### The Asian Scandal and becoming S.Rafał
 
-In the late 2024 Rafał was nominated for the [PTW Awards 2022](@/a/ptw-awards-2022.md), in the "Referee of the Year" category. During the popular vote he was initially outvoted by Matek and Sewi, but unexpectedly gained a couple hundred votes. These turned out to be illegitimate, coming from Vietnamese accounts, so the incident was later dubbed the "Asian Scandal".
+In the late 2024 Rafał was nominated for the [PTW Awards](@/a/ptw-awards.md), in the "Referee of the Year" category. During the popular vote he was initially outvoted by Matek and Sewi, but unexpectedly gained a couple hundred votes. These turned out to be illegitimate, coming from Vietnamese accounts, so the incident was later dubbed the "Asian Scandal".
 
 This real-life controversy was turned into a storyline, where the main prosecutors in Rafał's trial were Sewi The Referee and [Puncher](@/w/puncher.md), who named Rafał "Srafał" ("Rafał" with the "sra-" prefix - meaning "Shit-fał").
 Even though it was later revealed that it was a fan - Szymon "Modzel" Modzelewski - who was behind the entire situation, Rafał was still suspended from his refereeing duties.

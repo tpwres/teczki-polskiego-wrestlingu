@@ -1,9 +1,11 @@
 +++
-title = "Marzenie wrestlera"
+title = "Marzenie Wrestlera"
 template = "article.html"
 weight = 0
 aliases = ["/a/wrestlers-dream"]
 authors = ["Szymon Iwulski", "M3n747"]
+[taxonomies]
+category = ["Media"]
 [extra.gallery.1]
 path = "marzenie-wrestlera.jpg"
 caption = "Official film poster, featuring [Jędruś Bułecka](@/w/jedrus-bulecka.md)."

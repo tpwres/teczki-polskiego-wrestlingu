@@ -13,7 +13,7 @@ toclevel = 2
 
 "Totalna Anihilacja" (_Total Annihilation_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md).
 
-## Build up
+## Build-up
 
 * On 7.11.2025 PTW released a [video][3-stages-of-arek] of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) addressing [Łukasz Okoński](@/w/lukasz-okonski.md), in which he laid out the details of their upcoming fight: a Three Stages of Hell Match with a boxing bout against [Puncher](@/w/puncher.md), a 2-on-1 Handicap Match against Puncher and Pawłowski, and lastly a 1-on-1 match against Pawłowski.
 * Later that same day PTW announced [CJ Klakson](@/w/cj-klakson.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).
@@ -55,6 +55,11 @@ toclevel = 2
   - s: Three Stages of Hell - 1-on-1 Match
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - g: 'Okoński announces the main event for the next show.'
+- credits:
+    General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
 Shida's opponent was changed at the last minute to the French wrestler Stanislas Cartier.

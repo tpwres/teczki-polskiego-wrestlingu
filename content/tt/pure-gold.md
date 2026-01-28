@@ -89,6 +89,7 @@ Just before Queen went for the second pinfall and victory, Vic Golden turned on 
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards 2022](@/a/ptw-awards-2022.md) (1 time):
-    * Tag Team of the Year
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Tag Team of the Year (2022)
+    * Newcomer of the Year (2022) - [Vic Golden](@/w/vic-golden.md)
   

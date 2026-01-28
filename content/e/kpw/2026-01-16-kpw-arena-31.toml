@@ -1,4 +1,11 @@
-0000 = { path = "kpw-arena-31-plakat.webp", caption = "Official poster, original version featuring [Zefir](@/w/zefir.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-0001 = { path = "kpw-arena-31-plakat-alt.webp", caption = "Alternative poster, featuring [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-0002 = { path = "kpw-arena-31-plakat-alt-2.jpg", caption = "Alternative-er poster, featuring [Eryk Lesak](@/w/eryk-lesak.md).", source = "ErykLesak @ Facebook" }
+0000 = { path = "kpw-arena-31-plakat-alt.webp", caption = "Official poster, featuring [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+0001 = { path = "kpw-arena-31-plakat.webp", caption = "Original version of the poster, featuring [Zefir](@/w/zefir.md) prior to his firing from KPW.", source = "kpwrestling.pl / Official KPW Facebook" }
+0002 = { path = "kpw-arena-31-plakat-alt-2.jpg", caption = "Alternative poster, featuring [Eryk Lesak](@/w/eryk-lesak.md).", source = "ErykLesak @ Facebook" }
 0003 = { path = "lom-ratuffa.webp", caption = "Image announcing Tom LaRuffa.", source = "Official KPW Facebook" }
+0004 = { path = "filip-fux-vs-tomczak.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs [Tomczak](@/w/tomczak.md).", source = "Official KPW Facebook" }
+0005 = { path = "greg-vs-chemik.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Chemik](@/w/chemik.md).", source = "Official KPW Facebook" }
+0006 = { path = "hans-vs-tom.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs Tom LaRuffa.", source = "Official KPW Facebook" }
+0007 = { path = "leon-lato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
+0008 = { path = "paskalesak.webp", caption = "Image announcing Markus Paskal vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
+0009 = { path = "wyszechrady.webp", caption = "Image announcing [Lukáš Mottl](@/w/skull-evil.md) & [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+0010 = { path = "michal-fux-vs-ron-corvus.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Ron Corvus](@/w/ron-corvus.md).", source = "Official KPW Facebook" }
