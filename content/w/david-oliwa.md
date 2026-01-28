@@ -104,7 +104,7 @@ David also works abroad in such promotions as Austria-based European Wrestling A
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Ricky Sky](@/w/ricky-sky.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Ricky Sky](@/w/ricky-sky.md) & [Lukáš Mottl](@/w/skull-evil.md)
 
 ## Internet presence
 

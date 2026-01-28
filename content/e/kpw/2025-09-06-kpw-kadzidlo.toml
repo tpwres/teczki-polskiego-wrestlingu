@@ -6,19 +6,19 @@
 1004 = { path = "macu-macu.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) checks Eryk Lesak for illegal items.", source = "eostroleka.pl" }
 1005 = { path = "uprzemie-prosze-zaprzestac-czynnosci-kopalniczych.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) counts out Eryk Lesak, who's kicking the downed [Zefir](@/w/zefir.md).", source = "eostroleka.pl" }
 1006 = { path = "zefir-zwycieski.webp", caption = "[Zefir](@/w/zefir.md) wins.", source = "moja-ostroleka.pl" }
-2001 = { path = "adepci-ida-do-boju.webp", caption = "_Rookie_ Adam, Rookie Three and Rookie Two head for the ring. Sitting at the table smiling is [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "eostroleka.pl" }
+2001 = { path = "adepci-ida-do-boju.webp", caption = "_Rookie_ Adam, [Rookie Three](@/w/rookie-three.md) and [Rookie Two](@/w/rookie-two.md) head for the ring. Sitting at the table smiling is [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "eostroleka.pl" }
 2002 = { path = "tomczak.webp", caption = "[Tomczak](@/w/tomczak.md), next to referee Krystian Czekaj.", source = "eostroleka.pl" }
-2003 = { path = "wyzwanie-smoka.webp", caption = "[_Rookie_ Adam](@/w/adam-wong.md) challenges Tomczak. Behind him stand Rookie Three and Rookie Two.", source = "eostroleka.pl" }
+2003 = { path = "wyzwanie-smoka.webp", caption = "[_Rookie_ Adam](@/w/adam-wong.md) challenges Tomczak. Behind him stand [Rookie Three](@/w/rookie-three.md) and [Rookie Two](@/w/rookie-two.md).", source = "eostroleka.pl" }
 2004 = { path = "na-baranie.webp", caption = "Rookie Two chokes Tomczak.", source = "eostroleka.pl" }
 2005 = { path = "polezym-odpocznim.webp", caption = "Rookie Three.", source = "eostroleka.pl" }
 2006 = { path = "i-wespol-spolecznymi-silami.webp", caption = "Rookie Three and Rookie Two fell Tomczak with a coordinated attack.", source = "eostroleka.pl" }
 3001 = { path = "lato-dropkick.webp", caption = "Leon Lato dropkicks Chemik through the ropes.", source = "eostroleka.pl" }
 3002 = { path = "lysy-krokodyl.webp", caption = "[Chemik](@/w/chemik.md) holds Leon Lato in a tight grip.", source = "eostroleka.pl" }
 4001 = { path = "callum-beck.webp", caption = "[Callum Beck](@/w/callum-beck.md).", source = "eostroleka.pl" }
-4002 = { path = "michal-fux-z-temu.webp", caption = "Oskar Fux and [Filip Fux](@/w/filip-fux.md).", source = "eostroleka.pl" }
+4002 = { path = "michal-fux-z-temu.webp", caption = "[Oskar Fux](@/w/rookie-one.md) and [Filip Fux](@/w/filip-fux.md).", source = "eostroleka.pl" }
 4003 = { path = "louis-basham.webp", caption = "[Louis Basham](@/w/louis-basham.md).", source = "eostroleka.pl" }
 4004 = { path = "aaaaand-iiiiiiiiiiiiiiiiiiiiiiiii-will-aaaaalwaaaaays-ahem-przepraszam.webp", caption = "[Louis Basham](@/w/louis-basham.md) manhandles [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "eostroleka.pl" }
 4005 = { path = "filip-i-krzeslo.webp", caption = "Filip Fux outside the ring, next to the chair that knocked out Oskar Fux.", source = "eostroleka.pl" }
-5001 = { path = "battle-royal-about-to-start.webp", caption = "Battle Royal. Left to right: Krysian Czekaj, Oskar Fux, Rookie Two and Rookie Three (behind Oskar Fux), [Leon Lato](@/w/leon-lato.md), [_rookie_ Adam Wong](@/w/adam-wong.md), [Zefir](@/w/zefir.md), Tomczak, Filip Fux, Eryk Lesak, Chemik (behind Lesak), Callum Beck.", source = "eostroleka.pl" }
+5001 = { path = "battle-royal-about-to-start.webp", caption = "Battle Royal. Left to right: Krystian Czekaj, [Oskar Fux](@/w/rookie-one.md), Rookie Two and Rookie Three (behind Oskar Fux), [Leon Lato](@/w/leon-lato.md), [_rookie_ Adam Wong](@/w/adam-wong.md), [Zefir](@/w/zefir.md), Tomczak, Filip Fux, Eryk Lesak, Chemik (behind Lesak), Callum Beck.", source = "eostroleka.pl" }
 5002 = { path = "tomczak-wylatuje.webp", caption = "_Rookie_ Adam, Rookie Two and Rookie Three eliminate Tomczak.", source = "gminakadzidlo @ Facebook" }
 5003 = { path = "wypad-z-ringu.webp", caption = "Rookie Three throws [Chemik](@/w/chemik.md) over the top rope.", source = "eostroleka.pl" }

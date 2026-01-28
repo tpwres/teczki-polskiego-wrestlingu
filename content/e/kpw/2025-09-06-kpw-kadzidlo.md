@@ -20,13 +20,13 @@ On 6.09.2025 KPW held an event in the village of {{ map_pin(v="Szkoła Podstawow
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - s: '[KPW Championship](@/c/kpw-championship.md)'
 - - '[Tomczak](@/w/tomczak.md)'
-  - 'The Rookies: [_rookie_ Adam](@/w/adam-wong.md) & Rookie Two & Rookie Three'
+  - 'The Rookies: [_rookie_ Adam](@/w/adam-wong.md) & [Rookie Two](@/w/rookie-two.md) & [Rookie Three](@/w/rookie-three.md)'
   - s: 3-on-1 Handicap Match
 - - '[Leon Lato](@/w/leon-lato.md)(c)'
   - '[Chemik](@/w/chemik.md)'
   - s: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Callum Beck](@/w/callum-beck.md) & [Louis Basham](@/w/louis-basham.md)'
-  - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & Oskar Fux'
+  - '[Bracia Fux](@/tt/bracia-fux.md): [Filip Fux](@/w/filip-fux.md) & [Oskar Fux](@/w/rookie-one.md)'
   - s: Tag-Team Match
 - - '[Filip Fux](@/w/filip-fux.md)'
   - '[Callum Beck](@/w/callum-beck.md)'
@@ -34,10 +34,10 @@ On 6.09.2025 KPW held an event in the village of {{ map_pin(v="Szkoła Podstawow
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
-  - 'Oskar Fux'
+  - '[Oskar Fux](@/w/rookie-one.md)'
   - '[_rookie_ Adam](@/w/adam-wong.md)'
-  - 'Rookie Two'
-  - 'Rookie Three'
+  - '[Rookie Two](@/w/rookie-two.md)'
+  - '[Rookie Three](@/w/rookie-three.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - '[Zefir](@/w/zefir.md)'
   - '[Louis Basham](@/w/louis-basham.md)'
@@ -53,7 +53,7 @@ Attendance: ca. 100 (source: Cagematch)
 ### Highlights
 * It is unknown whether or not [Eryk Lesak](@/w/eryk-lesak.md) cashed in his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
 * For [Tomczak](@/w/tomczak.md) vs The Rookies, which harkened back to their match from GZ'25, Rookie One was replaced by [Adam](@/w/adam-wong.md). He was the first to be eliminated by Tomczak.
-* [Michał Fux](@/w/michal-fux.md) did not appear at this show; instead, Filip teamed up with an Oskar Fux (repackaged Rookie One from GZ'25), wearing the same Fux trousers.
+* [Michał Fux](@/w/michal-fux.md) did not appear at this show; instead, Filip teamed up with an [Oskar Fux](@/w/rookie-one.md) (repackaged Rookie One from GZ'25), wearing the same Fux trousers.
 * [Callum Beck](@/w/callum-beck.md) hit Oskar Fux with a chair while the referee was distracted by Louis Basham, securing a victory.
 * The three rookies managed to get their revenge on Tomczak by eliminating him with combined forces during the Battle Royal.
 * While the audience seemed largely unfamiliar with pro wrestling, there were nonetheless some ["trzecia lina" chants](@/a/polish-wrestling-chants.md#calls-to-action).

@@ -38,7 +38,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
     s: Winner Takes All Match
     r: DQ
 - - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - 'Rookie Three'
+  - '[Rookie Three](@/w/rookie-three.md)'
 - - '[Chemik](@/w/chemik.md)'
   - g: Chemik retires from in-ring competition.
 - - '[Filip Fux](@/w/filip-fux.md)'
@@ -47,11 +47,11 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
   - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
 - - '[Michał Fux](@/w/michal-fux.md)'
   - 'Erik Asmus'
-- - 'Rookie One'
-  - 'Rookie Two'
+- - '[Rookie One](@/w/rookie-one.md)'
+  - '[Rookie Two](@/w/rookie-two.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
   - g: The rookies speak against Malinowski, who calls for a challenger to face one of them. 
-- - 'Rookie One'
+- - '[Rookie One](@/w/rookie-one.md)'
   - '[Chemik](@/w/chemik.md)'
   - s: Chemik's Un-retirement Match
 - - '[David Oliwa](@/w/david-oliwa.md)'
@@ -83,12 +83,12 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 * [Leon Lato](@/w/leon-lato.md) then came out to the ring and told Zefir "to his face… or rather, to his mask" that their fight had nothing to do with their friendship, but rather it was about proving who's the best. He then told Zefir to be ready for him, to which Zefir answered that he was - and since Leon was as well, the two agreed to fight right away.
 * [Krystian Czekaj](@/w/krystian-czekaj.md) was greeted with ["sędzia chuj"](@/a/polish-wrestling-chants.md#referee) chants as soon as Zefir asked him into the ring.
 * During the match, Erik Asmus and Friedrich Pohlmann ([Die Ordnung 2.0](@/tt/die-ordnung.md), who had been sitting among the audience members) ran into the ring and attacked the contenders, causing the match to end in a DQ in Leon's favour. They were soon chased off by [Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md). Afterwards, [Hans Schulte](@/w/hans-schulte.md) appeared on the screen and congratulated his countrymen for a job well done, calling them "my sons" (_meine Söhne_).
-* [Eryk Lesak](@/w/eryk-lesak.md) then came into the ring carrying his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) and said that had it not been for the Germans, he would be the next owner of both titles. Rookie Three (standing outside the ring but summoned inside by Lesak to come inside so that he could hear him better) corrected him by pointing out that the contract is only valid for one championship title. He then added that Lesak had missed his chance by taking too long, which angered Eryk and prompted him to challenge Rookie Three to a fight. Victorious, Lesak left the arena carrying unconscious Rookie Three over his shoulder.
+* [Eryk Lesak](@/w/eryk-lesak.md) then came into the ring carrying his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) and said that had it not been for the Germans, he would be the next owner of both titles. [Rookie Three](@/w/rookie-three.md) (standing outside the ring but summoned inside by Lesak to come inside so that he could hear him better) corrected him by pointing out that the contract is only valid for one championship title. He then added that Lesak had missed his chance by taking too long, which angered Eryk and prompted him to challenge Rookie Three to a fight. Victorious, Lesak left the arena carrying unconscious Rookie Three over his shoulder.
 * Next, [Chemik](@/w/chemik.md) came out and cut a promo (constantly heckled and interrupted by fans) saying - and swearing on his grandma's health - that as long as Zefir and Leon Lato are Champions, and the audience is full of loosers, his foot won't ever stand in the KPW ring again. He punctuated his words by leaving his wrestling boots in the ring upon leaving it.
 * A video package summarising Chemik's in-ring career then played.
 * Soon after Filip Fux defeated Friedrich Pohlmann, [Tomczak](@/w/tomczak.md) suddenly appeared and attacked him, prompting [Fynn Freyhart](@/w/fynn-freyhart.md) to come to Filip's aid, which led to the next match.
 * During [Michał Fux](@/w/michal-fux.md) vs Erik Asmus one of Microsoft Windows system sound could be heard over the speakers, much to the audience's amusement.
-* As Kinga was heading into the ring following the last match, she was stopped by Rookie One who took her microphone and, alongside Rookie Two, cut a promo accusing Chairman Malinowski of continuing to look the other way as they are still bullied by Tomczak. Malinowski then came out and told them they had their go at Tomczak at Godzina Zero 2025, a chance that they wasted by losing, and he considers the matter closed. However, he decided to play along and asked if there's anyone in the locker room who'd like to fight one of the rookies. Met with silence, Malinowski then offered a monetary bonus to anyone interested in having the match - this time, Chemik came out of the backstage and agreed to come out of retirement (saying that his grandma had died a week prior) and show the rookie his place. After a brief deliberation, Rookie One stayed in the ring and Rookie Two left to observe the action from the outside.
+* As Kinga was heading into the ring following the last match, she was stopped by [Rookie One](@/w/rookie-one.md) who took her microphone and, alongside [Rookie Two](@/w/rookie-two.md), cut a promo accusing Chairman Malinowski of continuing to look the other way as they are still bullied by Tomczak. Malinowski then came out and told them they had their go at Tomczak at Godzina Zero 2025, a chance that they wasted by losing, and he considers the matter closed. However, he decided to play along and asked if there's anyone in the locker room who'd like to fight one of the rookies. Met with silence, Malinowski then offered a monetary bonus to anyone interested in having the match - this time, Chemik came out of the backstage and agreed to come out of retirement (saying that his grandma had died a week prior) and show the rookie his place. After a brief deliberation, Rookie One stayed in the ring and Rookie Two left to observe the action from the outside.
 * Unexpectedly, Chemik lost. After the match he asked Malinowski for the promised money, angering the Chairman who replied that the bonus was meant for winning the fight, not merely stepping into the ring, and that he should cut Chemik's pay by half for such impertinence.
 * [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) came out to the ring with the intention of celebrating Oliwa's person and career. David asked the producer to play a video package of his, but instead [Greg's](@/w/greg.md) music hit and the Pope of Polish Wrestling appeared. An exchange between the two led to Greg challenging [Team Visegrad](@/tt/team-visegrad.md), however Oliwa pointed out that Greg has no friends left in KPW. Greg answered that there is one person, somebody who for a long time had been his enemy: [Ron Corvus](@/w/ron-corvus.md).
 * Following Team Visegrad's victory, Oliwa wanted to get back to playing his video - only to be interrupted again, this time by Zefir. The masked luchador entered the ring carrying a self-made cake with two candles spelling out "10", in honour of KPW's 10th anniversary. Oliwa protested, but Zefir told him to can it and that he, as the most important person in KPW, would conduct the anniversary ceremony.

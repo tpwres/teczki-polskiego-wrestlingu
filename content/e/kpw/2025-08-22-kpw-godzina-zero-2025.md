@@ -45,7 +45,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   - '[Chemik](@/w/chemik.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Tomczak](@/w/tomczak.md)'
-  - 'The Rookies: Rookie One & Rookie Two & Rookie Three'
+  - 'The Rookies: [Rookie One](@/w/rookie-one.md) & [Rookie Two](@/w/rookie-two.md) & [Rookie Three](@/w/rookie-three.md)'
   - s: 3-on-1 Handicap Match
 - - '[Greg](@/w/greg.md)'
   - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
@@ -84,7 +84,7 @@ Attendance: ca. 300 (source: Cagematch)
 * Upon entering the ring, [Eryk Lesak](@/w/eryk-lesak.md) insulted and tore down Paskal's banner.
 * Crowchester came out to heel heat, unlike during his previous appearance at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). During the course of the match, however, he managed to get the audience on his side.
 * The fight between [Chemik](@/w/chemik.md) and [Leon Lato](@/w/leon-lato.md) briefly moved out of the ring and near the merch stand. Leon took the opportunity to grab a handful of Chemik's postcards and whack him on the head with them, before giving the cards to the fans. The postcards depict Chemik replacing [Jakub Wejher][wejher] on a statue located in Wejherowo's historical market square.
-* The three rookies facing [Tomczak](@/w/tomczak.md) weren't given individual introductions or names. The crowd quickly took to calling them "Rookie One", "Rookie Two" and "Rookie Three" (_Adept Jeden_, _Adept Dwa_ and _Adept Trzy_), numbering them after the order in which they went against Tomczak.
+* The three rookies facing [Tomczak](@/w/tomczak.md) weren't given individual introductions or names. The crowd quickly took to calling them "[Rookie One](@/w/rookie-one.md)", "[Rookie Two](@/w/rookie-two.md)" and "[Rookie Three](@/w/rookie-three.md)" (_Adept Jeden_, _Adept Dwa_ and _Adept Trzy_), numbering them after the order in which they went against Tomczak.
 * Before the match started, [Krystian Malinowski](@/w/krystian-malinowski.md) came out and cut a brief promo berating the rookies for rebelling against Tomczak, which in Malinowski's eyes means rebelling against himself and KPW. He then told Tomczak to teach the rookies a lesson they wouldn't forget.
 * Lukáš Mottl tried cheating by removing the padding from a turnbuckle, only to hit it head-first himself.
 * The elimination order during the Battle Royal was as follows:

@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "kpw-arena-22-filip-fux.jpg", caption = "Filip carries [Lee Rogers](@/w/lee-rogers.md), KPW Arena 22.", source = "M3n747" }
+1 = { path = "kpw-arena-22-filip-fux.jpg", caption = "Filip carries [Lee Rogers](@/w/lee-rogers.md), [KPW Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).", source = "M3n747" }
 2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
