@@ -26,6 +26,7 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 * The final match-up to be announced (on 23.01.2026) was a [PTW Championship](@/c/ptw-championship.md) match between the reigning champion [Spartan](@/w/spartan.md) and Italian wrestler Bittersweet Josh, last seen at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md).
 * [Remo](@/w/remo.md), who returned at the [previous show](e/ptw/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) after a long recovery period following an injury, was announced to return to in-ring action on 25.01.2026.
 * On 28.01.2026 PTW announced [Daniel Razor](@/w/daniel-razor.md) vs Ukrainian wrestler Baron Wolfgang Storm, who debuted in Poland at the [previous show](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
+* 29.01.2026 saw the announcement of [Damian Lambert](@/w/damien-rothschild.md) vs [Blaze](@/w/blaze.md) in a Singles Match.
 
 ## Predicted card
 
@@ -57,6 +58,9 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
   - nc: upcoming
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - 'Baron Wolfgang Storm'
+  - nc: upcoming
+- - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Blaze](@/w/blaze.md)'
   - nc: upcoming
 {% end %}
 
