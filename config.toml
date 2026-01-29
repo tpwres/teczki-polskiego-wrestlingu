@@ -69,6 +69,7 @@ gallery_root = "/i"
 
 tts_root = "//unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&sl=pl&ttsMode=sentence&speed=3&voiceId=Maja"
 
+
 # These orgs are excluded from the talentlists
 special_orgs = [
   "splat"
@@ -126,3 +127,7 @@ pyrkon = "Pyrkon"
 ryucon = "Ryucon"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"
+
+[extra.articles]
+sort_by = "title"
+reverse = false
