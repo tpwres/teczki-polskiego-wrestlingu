@@ -132,7 +132,7 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
 - - '[PpW Championship](@/c/ppw-championship.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - >
-    Defeated [Gobblin](@/w/goblin.md) in a Chain God Realm Match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+    Defeated [Goblin](@/w/goblin.md) in a Chain God Realm Match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
   - Vacant
   - >
