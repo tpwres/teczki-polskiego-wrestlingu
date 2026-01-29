@@ -23,10 +23,15 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 * [Gabriel Queen](@/w/gabriel-queen.md) was announced on 25.01.2025, although without an opponent specified.
 * A post published on 27.01.2028 announced [Mister Z](@/w/mister-z.md), who'll address the issue of the [PpW Championship](@/c/ppw-championship.md) and its current holder [Olgierd's](@/w/olgierd.md) plans to not defend it until the [show in Tokyo](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in March.
 * The next day PpW announced [Biesiad Strong](@/w/biesiad.md) vs [Mutant](@/w/mutant.md).
+* The last match to be announced - on 29.01.2026 - was a pre-show fight between [Tony Sheen](@/w/riverman.md) and [Filip Fux](@/w/filip-fux.md) from [Kombat Pro Wrestling](@/o/kpw.md), debuting in PpW.
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Tony Sheen](@/w/riverman.md)'
+  - n: Pre-show match
+    nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Ultraviolent Match

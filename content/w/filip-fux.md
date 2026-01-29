@@ -17,7 +17,7 @@ Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wr
 
 * Years active: 2018-present
 * Gimmicks/nicknames:
-  - Filip Fux {{ org_badge(orgs=['kpw', 'low']) }}
+  - Filip Fux {{ org_badge(orgs=['kpw', 'low', 'ppw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2018-present)
 
@@ -43,6 +43,10 @@ After his defeat at Arena 27 Filip challenged [Chemik](@/w/chemik.md) for his [K
 Filip Fux was the first KPW wrestler to be announced as the member of [Legacy of Wrestling](@/o/low.md) roster, thus becoming the first worker KPW allowed to perform in another Polish federation. A few months before the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md) Filip got involved in a feud with his old friend from [KPW Wrestling School](@/o/szkola-kpw.md) and a member of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md). In one of the episodes of Marco's YouTube vlog series "Łysy Vlog" (_Bald Vlog_) he got into an argument with Filip over some muscle-enhancing creatine, which Filip supposedly stole from Marco during their joint trip to Hungary for an HCW show. This Internet feud evolved into a match at Legacy's first show. Marco won this match after a distraction by [Olgierd](@/w/olgierd.md) and, in a post-match beatdown, him and Olgierd managed to snatch Filip's [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) belt and pose with it, which strongly suggested Legia's intention to face the KPW Champions for their titles.
 
 The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych. At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsucessfully challenged [Gabriel Queen](@/w/gabriel-queen.md) and [Oskar Alexander](@/w/oskar-alexander.md) in a Road to the Title Triple Threat Match.
+
+### PpW Ewenement Wrestling (2026-present)
+
+Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring.
 
 ## International wrestling appearances 
 
