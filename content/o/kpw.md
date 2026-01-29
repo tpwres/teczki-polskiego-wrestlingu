@@ -90,6 +90,8 @@ Present at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) was [Arek Paterek](@/w
 
 The Polish Internet wrestling community reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with merchandise of international provenance, such as AEW or nWo T-shirts.
 
+In January 2026 [Filip Fux](@/w/filip-fux.md) debuted for [PpW Ewenement Wrestling](@/o/ppw.md), in a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) against [MZW's](@/o/mzw.md) [Tony Sheen](@/w/riverman.md), thus becoming the first active KPW wrestler to fight in the PpW ring.
+
 ## Championships
 
 As of 2024, KPW has one tag team championship and two singles championships. The main title, [KPW Championship](@/c/kpw-championship.md), was created in 2016 and won at the [first Godzina Zero](@/e/kpw/2016-08-13-kpw-godzina-zero-2016.md) event. [KPW OldTown Championship](@/c/kpw-old-town-championship.md) was created and won at the [OldTown Festival 2017](@/e/kpw/2017-07-23-kpw-oldtown-2.md), which was a post-apocalyptic themed LARP event to which KPW was invited to perform. This belt had an unique look befitting its origin, until [2023](@/e/kpw/2023-11-24-kpw-arena-23.md) when it was replaced with a more conventional style belt.

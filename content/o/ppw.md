@@ -113,6 +113,8 @@ After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join th
 
 According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), multiple people from PpW and [DFW](@/o/dfw.md) trained with MZW. Under one condition: MZW insisted that wrestlers who wanted to work for them could not perform in backyards, but were not stopped from appearing in other pro federations. 
 
+In January 2026 [Filip Fux](@/w/filip-fux.md) from [Kombat Pro Wrestling](@/o/kpw.md) became the first active KPW wrestler to fight in the PpW ring - at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he faced [Tony Sheen](@/w/riverman.md) in a pre-show match.
+
 ## In media
 
 ### Mainstream
