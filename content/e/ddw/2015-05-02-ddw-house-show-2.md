@@ -31,7 +31,7 @@ Disappointed by the poor audience numbers of [DDW #9](@/e/ddw/2013-10-25-ddw-9.m
   - '_rookie_ Bestia'
   - '[_rookie_ Victor Rosetti](@/w/rosetti.md)'
   - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
-  - '[_rookie_ Damian Lambert](@/w/damien-rothschild.md)'
+  - '[_rookie_ Damian Lambert](@/w/damian-lambert.md)'
   - '???'
   - s: Battle Royal
 - - '[Mira](@/w/mira.md)'
@@ -78,7 +78,7 @@ unknown (behind Luxus) \
 _rookie_ Rex Torpeda \
 referee Artur Dzwończak (outside of the ring) \
 _rookie_ [David Oliwa](@/w/david-oliwa.md) (in gaudy undies) \
-_rookie_ [Damian Lambert](@/w/damien-rothschild.md) (behind _rookie_ David Oliwa) \
+_rookie_ [Damian Lambert](@/w/damian-lambert.md) (behind _rookie_ David Oliwa) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 

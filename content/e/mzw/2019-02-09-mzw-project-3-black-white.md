@@ -27,7 +27,7 @@ toclevel = 2
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - 'Otto Stahl'
   - s: Mystery Fatal 4-Way Match
-- - '[Damien Rothschild](@/w/damien-rothschild.md)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Shadow](@/w/shadow.md)(c)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:

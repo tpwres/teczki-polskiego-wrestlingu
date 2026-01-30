@@ -31,7 +31,7 @@ toclevel = 2
   - r: 'DQ'
 - - '[Apollo Anderson](@/w/apollo-anderson.md)'
   - '[Dynamite Dave](@/w/dynamite-dave.md)'
-- - '[Damien Rothschild](@/w/damien-rothschild.md)(c)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)(c)'
   - '[Justin Joy](@/w/justin-joy.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:

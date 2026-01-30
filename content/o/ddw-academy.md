@@ -31,7 +31,7 @@ _Listed in alphabetical order:_
 - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 - [Bianca](@/w/bianca.md)
 - [Boski Ostrowski](@/w/ostrowski.md)
-- [Damian Labmert](@/w/damien-rothschild.md)
+- [Damian Labmert](@/w/damian-lambert.md)
 - [David Oliwa](@/w/david-oliwa.md)
 - [Gracjan Korpo](@/w/gracjan-korpo.md)
 - [Greg](@/w/greg.md)

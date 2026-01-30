@@ -140,7 +140,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
     en: '[MZW Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md)'
     ed: 2018-01-14
 - - Shadow (c)
-  - '[Damien Rothschild](@/w/damien-rothschild.md)'
+  - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Madman Charlie](@/w/madman-charlie.md)'
   - s: Fatal Four Way Match
@@ -158,7 +158,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 ### Champion #5: Damien Rothschild
 
 {% free_card() %}
-- - '[Damien Rothschild](@/w/damien-rothschild.md)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Shadow](@/w/shadow.md) (c)'
   - s: Singles Match
     en: '[MZW Project 3: Black & White](@/e/mzw/2019-02-09-mzw-project-3-black-white.md)'

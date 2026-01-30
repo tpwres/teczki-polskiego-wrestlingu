@@ -20,7 +20,7 @@ KPW held a wrestling exhibition during the event on the penultimate day. Wrestli
 {% card() %}
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Greg](@/w/greg.md)'
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Kaszub](@/w/kaszub.md)'
   - s: Hardcore Match
 - - '[Peter Pannache](@/w/peter-pannache.md)'
