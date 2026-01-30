@@ -37,7 +37,7 @@ toclevel = 2
   - s: "Talent's Battle Royale"
     n: Nathan Cross finished runner-up
 - - '[Asmund](@/w/asmund.md)'
-  - '[Damien Rothschild](@/w/damien-rothschild.md)(c)'
+  - '[Damien Rothschild](@/w/damian-lambert.md)(c)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:
     Host, Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'

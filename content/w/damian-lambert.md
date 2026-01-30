@@ -2,6 +2,7 @@
 title = "Damian Lambert"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
+aliases = ["/w/damien-rothschild"]
 [extra]
 toclevel = 2
 [taxonomies]

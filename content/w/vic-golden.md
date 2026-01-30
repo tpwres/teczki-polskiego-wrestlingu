@@ -67,7 +67,7 @@ In September 2017 Prince Victor made his return and therefore his official debut
 After his departure from Dream Factory Wrestling, Prince Victor found himself in an unfortunate situation where either his past wrestling federations in Poland folded, or he was barred from performing there due to his backyard activity.
 His relations with Pawłowski and KPW overall ended sourly, so his only option was to return to Maniac Zone Wrestling.
 He attended MZW's summer camps and training weekends irregularly, while he was rebuilding his reputation among promoters.
-During that time he made a one-off appearance in the Czech backyard federation VcV in 2019, where he faced then-MZW wrestlers [Damien Rothschild](@/w/damien-rothschild.md) and [Rafael Kid](@/w/rafael-kid.md), when he was a replacement for [Apollo Anderson](@/w/apollo-anderson.md) who was involved in a car accident.
+During that time he made a one-off appearance in the Czech backyard federation VcV in 2019, where he faced then-MZW wrestlers [Damien Rothschild](@/w/damian-lambert.md) and [Rafael Kid](@/w/rafael-kid.md), when he was a replacement for [Apollo Anderson](@/w/apollo-anderson.md) who was involved in a car accident.
 During that time Prince Victor also grew closer to [The Greens](@/tt/zieloni.md), becoming one of the members of this faction.
 
 ### Return to full-time wrestling (2021-2023)

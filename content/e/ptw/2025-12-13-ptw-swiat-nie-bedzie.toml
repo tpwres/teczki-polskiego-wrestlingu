@@ -1,18 +1,18 @@
-01 = { path = "swiat-nie-bedzie-plakat.webp", caption = " Official poster. Top to bottom, left to right:  [Łukasz Okoński](@/w/lukasz-okonski.md), [CJ Klakson](@/w/cj-klakson.md), [Diana Strong](@/w/diana-strong.md); [Daniel Razor](@/w/daniel-razor.md), [Miyagi Shida](@/w/miyagi-shida.md); [Spartan](@/w/spartan.md); [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md); [Nano Lopez](@/w/nano-lopez.md); [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Damian Lambert](damien-rothschild.md); [Alex Brave](@/w/alex-brave.md), [Puncher](@/w/puncher.md); [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Damian Adler.", source = "Official PTW Facebook" }
+01 = { path = "swiat-nie-bedzie-plakat.webp", caption = " Official poster. Top to bottom, left to right:  [Łukasz Okoński](@/w/lukasz-okonski.md), [CJ Klakson](@/w/cj-klakson.md), [Diana Strong](@/w/diana-strong.md); [Daniel Razor](@/w/daniel-razor.md), [Miyagi Shida](@/w/miyagi-shida.md); [Spartan](@/w/spartan.md); [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md); [Nano Lopez](@/w/nano-lopez.md); [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Damian Lambert](damian-lambert.md); [Alex Brave](@/w/alex-brave.md), [Puncher](@/w/puncher.md); [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Damian Adler.", source = "Official PTW Facebook" }
 02 = { path = "oh-baby-baby-how-was-i-supposed-to-know.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md).", source = "Official PTW Facebook" }
 03 = { path = "podziemny-nacjonalizm.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [CJ Klakson](@/w/cj-klakson.md).", source = "Official PTW Facebook" }
 04 = { path = "swiat-nie-bedzie-ale-bedzie-niedzwiedz.webp", caption = "Image announcing [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).", source = "Official PTW Facebook" }
 05 = { path = "luke-i-rebelianci.webp", caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth.", source = "Official PTW Facebook" }
 06 = { path = "wielki-powrot.webp", caption = "Image announcing the comeback of a mysterious PTW original.", source = "Official PTW Facebook" }
 07 = { path = "mecz.webp", caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs Jay in a Christmas Hardcore Match.", source = "Official PTW Facebook" }
-08 = { path = "lambert-chcesz-uslyszec-fraszke.webp", caption = "Image announcing [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damien-rothschild.md).", source = "Official PTW Facebook" }
+08 = { path = "lambert-chcesz-uslyszec-fraszke.webp", caption = "Image announcing [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damian-lambert.md).", source = "Official PTW Facebook" }
 10 = { path = "tlumy-na-widowni.webp", caption = "View from the audience, shortly before the start of the show.", source = "Ville Paananen" }
 11 = { path = "zawodnik.webp", caption = "Jay.", source = "Ville Paananen" }
 12 = { path = "daniel-sie-scial.webp", caption = "[Daniel Razor's](@/w/daniel-razor.md) new look.", source = "Ville Paananen" }
 13 = { path = "pizama-party.webp", caption = "[Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md). Behind them stands [Łukasz Okoński](@/w/lukasz-okonski.md).", source = "Ville Paananen" }
 14 = { path = "zielonego-pojecia-nie-mam-kto-to.webp", caption = "Bart Petro.", source = "Ville Paananen" }
 15 = { path = "blaze.webp", caption = "[Blaze](@/w/blaze.md) presents his XPW Championship.", source = "Ville Paananen" }
-16 = { path = "przepraszam-tego-pana-tez-nie-znam.webp", caption = "[Damian Lambert](@/w/damien-rothschild.md).", source = "Ville Paananen" }
+16 = { path = "przepraszam-tego-pana-tez-nie-znam.webp", caption = "[Damian Lambert](@/w/damian-lambert.md).", source = "Ville Paananen" }
 17 = { path = "sawicki-makes-an-entrance.webp", caption = "[Sawicki](@/w/sawicki.md) enters.", source = "Ville Paananen" }
 18 = { path = "alienated-working-man-chained-by-the-bourgeoisie.webp", caption = "[Sawicki](@/w/sawicki.md) poses for the audience.", source = "Ville Paananen" }
 19 = { path = "ej-patrzcie-okon-ma-rozpiety-rozporek.webp", caption = "[Łukasz Okoński](@/w/lukasz-okonski.md) auctions a signed T-shirt for charity.", source = "Ville Paananen" }

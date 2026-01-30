@@ -17,7 +17,7 @@ toclevel = 2
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: 'Tournament Semi Final Match'
-- - '[Damien Rothschild](@/w/damien-rothschild.md)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: 'Tournament Semi Final Match'

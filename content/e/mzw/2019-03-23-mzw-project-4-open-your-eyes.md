@@ -29,7 +29,7 @@ toclevel = 2
   - s: 'Four Way Elimination Match'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - 'Otto Stahl'
-- - '[Damien Rothschild](@/w/damien-rothschild.md)(c)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)(c)'
   - '[Shadow](@/w/shadow.md)'
   - s: 'No Disqualification Match'
     c: '[MZW Championship](@/c/mzw-championship.md)'

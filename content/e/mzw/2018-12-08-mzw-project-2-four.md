@@ -30,7 +30,7 @@ toclevel = 2
 - - 'Shane Baker'
   - 'Gabriel Magic'
 - - '[Shadow](@/w/shadow.md)'
-  - '[Damien Rothschild](@/w/damien-rothschild.md)'
+  - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Madman Charlie](@/w/madman-charlie.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
