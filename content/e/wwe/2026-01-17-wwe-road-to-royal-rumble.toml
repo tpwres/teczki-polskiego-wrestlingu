@@ -1,4 +1,23 @@
-01 = { path = "2026-01-17-wwe-road-to-royal-rumble.jpg", caption = "Graphic announcing the tour dates.", source = "WWE.com" }
-02 = { path = "wwe-registration.webp", caption = "Registration form.", source = "WWE.com" }
-03 = { path = "kodymil-rodewski.webp", caption = "Cody Rhodes's tour dates.", source = "CodyRhodes @ Twitter" }
-04 = { path = "ciekawe-czy-umie-stroic-wiolonczele.jpg", caption = "Bronson Reed's tour dates.", source = "BRONSONISHERE @ Twitter" }
+001 = { path = "2026-01-17-wwe-road-to-royal-rumble.jpg", caption = "Graphic announcing the tour dates.", source = "WWE.com" }
+002 = { path = "wwe-registration.webp", caption = "Registration form.", source = "WWE.com" }
+003 = { path = "kodymil-rodewski.webp", caption = "Cody Rhodes's tour dates.", source = "CodyRhodes @ Twitter" }
+004 = { path = "ciekawe-czy-umie-stroic-wiolonczele.jpg", caption = "Bronson Reed's tour dates.", source = "BRONSONISHERE @ Twitter" }
+
+101 = { path = "luctor-ergo-sum.webp", caption = "Outside view of the venue.", source = "M3n747" }
+102 = { path = "sum-ergo-tak-zwany-olimpijczyk.webp", caption = "Inside the venue.", source = "M3n747" }
+
+201 = { path = "jevon-evans.webp", caption = "Je'Von Evans.", source = "M3n747" }
+202 = { path = "cm-punk.webp", caption = "CM Punk.", source = "M3n747" }
+203 = { path = "bayley.webp", caption = "Bayley with Lyra Valkyria.", source = "M3n747" }
+204 = { path = "raquel-rodriguez.webp", caption = "Raquel Rodriguez.", source = "M3n747" }
+205 = { path = "mft.webp", caption = "MFT.", source = "M3n747" }
+206 = { path = "wyatt-sicks-lights.webp", caption = "Lights for the Wyatt Sicks.", source = "M3n747" }
+207 = { path = "lyra-valkyria-polish-flag.webp", caption = " Lyra Valkyria and Bayley with the Polish flag.", source = "M3n747" }
+208 = { path = "maxxine-dupri.webp", caption = "Maxxine Dupri.", source = "M3n747" }
+209 = { path = "becky-lynch.webp", caption = "Becky Lynch.", source = "M3n747" }
+210 = { path = "cody-rhodes.webp", caption = "Cody Rhodes.", source = "M3n747" }
+211 = { path = "drew-mcintyre.webp", caption = "Drew McIntyre.", source = "M3n747" }
+212 = { path = "main-event.webp", caption = "Cody Rhodes vs Drew McIntyre.", source = "M3n747" }
+213 = { path = "cody-rhodes-wins.webp", caption = "Cody Rhodes wins.", source = "M3n747" }
+214 = { path = "cody-rhodes-promo.webp", caption = "Cody Rhodes cuts a promo, implying WWE's return to Poland.", source = "M3n747" }
+215 = { path = "american-table.webp", caption = "Cody Rhodes signs a piece of a broken table for a young fan.", source = "M3n747" }
