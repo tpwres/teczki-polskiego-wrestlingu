@@ -14,10 +14,10 @@ Adrian Zgórski, also known as Adi, is a host and ring announcer working for [Ma
 
 ## Basic info 
 
-* Years active: 2023-present
+* Years active: 2012; 2023-present
 * Gimmicks/nicknames:
   - Dirty Devil {{ org_badge(orgs=['pxw']) }}
-  - Adrian "Adi" Zgórski {{ org_badge(orgs=['mzw']) }}
+  - Adrian "Adi" Zgórski {{ org_badge(orgs=['mzw', 'low']) }}
 
 ## Professional wrestling career
 
