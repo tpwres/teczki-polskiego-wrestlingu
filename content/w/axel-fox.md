@@ -109,7 +109,7 @@ During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gry
 
 #### Championship pursuit
 
-At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning against Gabriel Queen in a Road to the Tile Match, putting him in a contender position for the upcoming Legacy Championship. At [the next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md). His long fight for first title came to an end at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md), when he won Six-Way Elimination Match to become inaugural [LoW European Champion](@/c/low-european-championship.md)
+At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning against Gabriel Queen in a Road to the Tile Match, putting him in a contender position for the upcoming Legacy Championship. At [the next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md). His long fight for his first title came to an end at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md), when he won a Six-Way Elimination Match to become the inaugural [Legacy European Champion](@/c/low-european-championship.md).
 
 ## International wrestling career
 
