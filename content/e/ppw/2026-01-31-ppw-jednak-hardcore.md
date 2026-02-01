@@ -1,7 +1,7 @@
 +++
 title = "PpW Jednak Hardcore"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["hala-labo"]
@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), held in [Hala Labo at Mińska 65](@/v/minska-65.md). While full attendance of the show was not revealed, PpW declared the arena sold out.
+Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), held in [Hala Labo at Mińska 65](@/v/minska-65.md). Although the exact attendance of the show was not revealed, PpW declared the arena sold out.
 
 ## Build-up
 
@@ -54,30 +54,31 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Ultraviolent Match
-Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
-Commentary: '[Istociarz](@/w/istociarz.md)'
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Recap
 
-* This time, Istociarz handled commentary solo.
-* Before the show, PpW started the poll for Fox vs Gryffin stipulation. It was possible to vote after scanning one of the QR code posted on the arena walls.
-* In a pre-show match, Filip Fux, an active KPW wrestler, beat a MZW wrestler Tony Sheen. This is first such a crossover on Polish scene. Fux portrayed a strong babyface and quickly dispatched of Sheen. Riverman inherited insulting chants previously reserved for ex-PpW star [Tony Sk1n](@/e/tony-sk1n.md): _Tony Sheen, chuj ci w ryj_ (roughly: _Tony Sheen, suck a dick_).
-* In the opening of the show, Michael HT revealed the result of fan vote. Fox and Gryffin would face off in a _Falls Count Anywhere_ match.
-* In the opening match, Hungarian Luchadores faced the newly-formed tag team of Antoni Ocean and Sambor.
-* Sentinel scored the fall for his team after hitting Sambor with a _Super-Frankensteiner_.
-* In the next match, Mutant faced Biesiad Strong. Mutant made an entrance carrying a snow shovel. He was announced as _Jebany, kurwa, mutant_ (_Motherfucking Mutant_) Biesiad made his customary entrance from the crowd, with a ladder and his custom _Cieślowe_ (_Carpenter's_) beer). Crowd called Mutant _Olgierd z Temu_ (_Olgierd from Temu_), probably due to physical resemblance to Biesiad's current nemesis. Biesiad won with his usual _Swanton bomb_ from the ladder onto the table laid Mutant.
-* In next match, members of all teams competing at [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) tournament finals faced off. Marco Hammers entered first, after him Oskar Alexander. Goblin, making his entrance last, quickly jumpstarted the match. AFter some comedic shenanigans between Marco and Oskar, Oskar won by scoring a pin on Goblin.
-* Injured Olgierd made his entrance on crutches, accompanied by Mister Z, and declared that he will not defend his PpW Championship until the [Japan show](@/a/ppw-hardcore-friday-the-13th-tokyo.md). Mister Z suggested becoming an interim champion, an idea which Olgierd laughed off, laying his hands on his boss. Quickly collecting himself, Olgierd laughed off the tension, declared his loyalty and listed the Polish wrestlers who will not compete for the championship. Prompted by his name dropped, Biesiad made his entrance, quickly chasing off Mister Z to the stage, putting Olgierd's leg in a chair and threatening to reinjure Olgierd, unless he is given a titleshot. Z threatened Biesiad with suspension if he does the deed, then Biesiad reinjured Olgierd anyway. Thus, he was suspended and Mister Z sent the members of _Ewenement Crew_, referees and wrestlers to escort him out of the arena.
-* Gabriel Queen ran into the ring, holding Referee Seweryn's hand, as if attempting to cash in a Money in the Bank Contract (he does not have any). AFter a back-and-forth match, Queen won with a wheelbarrow pinning combination. Fellow member of [Rodzina](@/tt/rodzina.md) made an entrance to congratulate him, thus transitioning into the break. The duo was available for customary _Instax_ photoshoot with fans.
-* After the break, we move to Agatka vs Ladykiller. Representing Rodzina, Agent Agatka made her entrance first. Ladykiller, announced as "Ladykiller" Boro, made his entrance wearing a leopard print bathrobe. Underneath the robe, Boro carried a bouquet of roses. Agatka accepted the gift, right before using it as a weapon. After a back and forth, Agatka beat Boro with a _Satellite DDT_.
-* Afterwards, there was an in-ring auction held, with a banner of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) at stake. It was sold for 1500 PLN.
-* Match between Gryffin and Fox became a _Falls count anywhere_ as per previously mentioned fan poll. After some action in the ring, they moved into the crowd, fighting with various weapons including trash can and its lid. Afterwards, in the ring, Gustav got busted open and Fox dominated him using a short rope. After Gustav thwarted a brass knucles attack from Fox, he hit Fox with _11-200_ and attempted to hit it again, only to be laid out with a chair by black-clad hooded figure. Fox, now succesfully, hit Gryffin with the knuckles to get a win, with mystery attacker standing still in the corner.
-* After the match, Fox and mystery attacker stared each other down, until Marco Hammers ran in to support Fox. After brief confusion if the attacker was related to Zmowa, Oskar Alexander ran in with the chair and facing Zmowa. Mystery man joined him, revealing himself as Filip Fux. Agatka quickly joined Alexander and Fux, making Zmowa back down as Rodzina celebrated welcoming its new member.
-* Time for Main Event. Johnny Blade made his entrance for the match wearing a _Bullson_ brand motorcycle jacket. This prompted HT to announce him as Johnny "Bullson" Blade. Blade brought in some lighttube contraptions that he put under the ring for later use. Robert Star made his entrance along with other Rodzina members (everyone, minus the Patriarch), to the stable's theme song.
-* Outmatched in strength, Blade quickly got dominated by Star, who used various weapons. Johnny's experience in hardcore quickly allowed him to reverse the tide, getting the opportunity to hit Star with a lighttube. They brawled on the stage and Star hit Blade with a _Stallion Cutter_ onto the (quickly emptied beforehand) audience seats. Going back to the ring, Star continued to punish Blade with weapons, trying to finish the match. Star placed a board in the turnbuckle and attempted to powerbomb Johnny through it. Johnny reversed the move and hit Star with a [bang snaps][strzelajace-diabelki] covered hubcap, managing to incapacitate Star. Johnny set up two chairs and laid his lighttube contraption on their seats, however the plan backfired when Robert Star powerbombed him straight through the lighttubes. Star prepared some thumbtacks and attempted to _Stallion Cutter_ Blade onto them, but the move was countered and Star took all of the tacks. This allowed Blade to make a comeback and finish him with a _Koniec_ sign supported splash.
-* After the match, HT revealed that it's Blade's birthday, prompting the crowd to sing _Sto lat_ and other birthday songs.
+* This time, [Istociarz](@/w/istociarz.md) handled commentary solo.
+* Before the show, PpW started a poll for the [Axel Fox](@/w/axel-fox.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) stipulation. It was possible to vote by scanning one of the QR codes posted around the arena.
+* In the pre-show match, [Filip Fux](@/w/filip-fux.md) - an active [KPW](@/o/kpw.md) wrestler - beat an [MZW](@/o/mzw.md) wrestler, [Tony Sheen](@/w/riverman.md). This was the first such crossover on the Polish scene. Fux portrayed a strong babyface and quickly disposed of Sheen. Riverman inherited insulting chants previously reserved for ex-PpW star [Tony Sk1n](@/e/tony-sk1n.md): [_Tony Sheen, chuj ci w ryj_](@/a/polish-wrestling-chants.md#wrestler-specific) (roughly: _Tony Sheen, suck a dick_).
+* At the start of the show, Michael HT revealed the result of the fan vote. Fox and Gryffin would face off in a Falls Count Anywhere Match.
+* In the opening match, Hungarian Luchadores faced the newly-formed tag team of [Antoni Ocean](@/w/antoni-ocean.md) and [Sambor](@/w/sambor.md).
+* [Sentinel](@/w/sentinel.md) scored the fall for his team after hitting Sambor with a Super-Frankensteiner.
+* In the next match, [Mutant](@/w/mutant.md) faced [Biesiad Strong](@/w/biesiad.md). Mutant made his entrance carrying a snow shovel. He was announced as "Jebany kurwa mutant" (roughly _Motherfucking Mutant_). Biesiad made his customary entrance through the crowd, with a ladder and his custom "Cieśla" (_Carpenter_) beer. Crowd called Mutant "Olgierd z [Temu][tamtemu]" (_Olgierd from Temu_), probably due to his physical resemblance to Biesiad's current nemesis. Biesiad won with his usual Swanton Bomb from the ladder onto the table-laid Mutant.
+* In next match, members of all the teams competing in the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) tournament finals faced off. [Marco Hammers](@/w/marco-hammers.md) entered first, followed by [Oskar Alexander](@/w/oskar-alexander.md). [Goblin](@/w/goblin.md), making his entrance last, quickly jumpstarted the match. After some comedic shenanigans between Marco and Oskar, Oskar won by scoring a pin on Goblin.
+* Injured [Olgierd](@/w/olgierd.md) made his entrance on crutches, accompanied by [Mister Z](@/w/mister-z.md), and declared that he would not defend his [PpW Championship](@/c/ppw-championship.md) until the [Tokyo show](@/a/ppw-hardcore-friday-the-13th-tokyo.md). Mister Z suggested becoming an interim champion, an idea which Olgierd laughed off, laying his hands on his boss. Quickly collecting himself, Olgierd laughed off the tension, declared his loyalty and listed the Polish wrestlers who would not compete for the championship. Prompted by his name being dropped, Biesiad made his entrance, quickly chasing off Mister Z out of the ring, putting Olgierd's leg in a chair and threatening to re-injure him, unless he were given a titleshot. Mister Z threatened Biesiad with suspension if he did the deed, then Biesiad re-injured Olgierd anyway. Thus, Biesiad was suspended and Mister Z sent the members of the Ewenement Crew, referees, and wrestlers to escort him out of the arena.
+* [Gabriel Queen](@/w/gabriel-queen.md) ran into the ring, grabbing [Sędzia Seweryn's](@/w/sedzia-seweryn.md) hand, as if attempting to cash in a Money in the Bank Contract (which he didn't have). After a back-and-forth match, Queen won with a Wheelbarrow pinning combination. Fellow members of [Rodzina](@/tt/rodzina.md) made their entrance to congratulate him, thus transitioning into the break. The duo was available for customary [Instax][fotoszut] photoshoot with fans.
+* After the break the show resumed with [Agentka Agatka](@/w/agentka-agatka.md) vs [Ladykiller](@/w/boro.md). Representing Rodzina, Agentka Agatka made her entrance first. Ladykiller, announced as "Ladykiller" Boro, made his entrance wearing a leopard print bathrobe. Underneath the robe, Boro carried a bouquet of roses. Agatka accepted the gift, right before using it as a weapon. After some back-and-forth, Agatka beat Boro with a Satellite DDT.
+* Next, there was an in-ring auction held, with a banner of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) at stake. It was sold for 1500&nbsp;PLN (approx. 357&nbsp;EUR, 308&nbsp;GBP, 65,290&nbsp;JPY or 422&nbsp;USD).
+* The match between Gustav Gryffin and Axel Fox became a Falls Count Anywhere as per the previously mentioned fan poll. After some action in the ring, they moved into the crowd, fighting with various weapons including a trash can and its lid. Afterwards, in the ring, Gustav got busted open and Fox dominated him using a short rope. After Gustav thwarted a brass knucles attack from Fox, he hit Fox with an 11-200 (a postal code for Gustav's home town of Bartoszyce) and attempted to hit it again, only to be laid out with a chair by a black-clad hooded figure. Fox now succesfully hit Gryffin with the knuckles to score the win, with the mystery attacker standing still in the corner.
+* After the match, Fox and the mystery attacker stared each other down, until Marco Hammers ran in to support Fox. After a brief confusion if the attacker was related to Zmowa, Oskar Alexander ran in with a chair and faced Zmowa. The mystery man joined him, revealing himself as Filip Fux. Agatka quickly joined Alexander and Fux, making Zmowa back down as Rodzina celebrated, welcoming their newest member.
+* Lastly came the Main Event. [Johnny Blade](@/w/johnny-blade.md) made his entrance wearing a Bullson brand motorcycle jacket. This prompted Michael HT to announce him as Johnny "Bullson" Blade. Blade brought in some light tube contraptions that he hid under the ring for later use. [Robert Star](@/w/robert-star.md) made his entrance along with other Rodzina members (everyone minus the Patriarch, [Vic Golden](@/w/vic-golden.md)), to the stable's theme song.
+* Outmatched in strength, Blade quickly got dominated by Star, who used various weapons. Johnny's experience in hardcore quickly allowed him to turn the tables, getting the opportunity to hit Star with a light tube. They brawled on the stage and Star hit Blade with the Stallion Cutter onto (hastily emptied) audience seats. Going back into the ring, Star continued to punish Blade with weapons, trying to finish the match. Star placed a board in the turnbuckle and attempted to powerbomb Johnny through it. Johnny reversed the move and hit Star with a [bang snaps][strzelajace-diabelki]-covered hubcap, managing to incapacitate Star. Johnny set up two chairs and laid his light tube contraption on their seats, however the plan backfired when Robert Star powerbombed him straight through the light tubes. Star prepared some thumb tacks and attempted to hit Blade with the Stallion Cutter onto them, but the move was countered and Star took all of the tacks instead. This allowed Blade to make a comeback and finish him with a ["Koniec"][t-3] sign-supported splash.
+* After the match, HT revealed that it was Blade's birthday, prompting the crowd to sing the customary [_Sto lat_][100], and other birthday songs.
 
 ## References
 
@@ -86,4 +87,8 @@ Commentary: '[Istociarz](@/w/istociarz.md)'
 
 [lysy-hardcore]: https://www.facebook.com/OficjalnePPW/posts/pfbid035oyuE5bB6yqUx3XwrKjjRaYrZayFxPv1QMYWgvxjVX62Fe5Axpd4mHifWTYx9Lgl
 [ocean-samborskosci]: https://www.facebook.com/reel/974841392374683
-[strzelajace-diabelki]: https://pl.wikipedia.org/wiki/Strzelaj%C4%85ce_diabe%C5%82ki
+[tamtemu]: https://en.wikipedia.org/wiki/Temu
+[fotoszut]: https://en.wikipedia.org/wiki/Instax
+[strzelajace-diabelki]: https://en.wikipedia.org/wiki/Bang_snaps
+[t-3]: https://en.wikipedia.org/wiki/Road_signs_in_Poland#Complementary_plates
+[100]: https://en.wikipedia.org/wiki/Sto_lat
