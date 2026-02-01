@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Hala Labo at Mińska 65](@/v/minska-65.md).
+Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), held in [Hala Labo at Mińska 65](@/v/minska-65.md). While full attendance of the show was not revealed, PpW declared the arena sold out.
 
 ## Build-up
 
@@ -25,18 +25,22 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
 * The next day PpW announced [Biesiad Strong](@/w/biesiad.md) vs [Mutant](@/w/mutant.md).
 * The last match to be announced - on 29.01.2026 - was a pre-show fight between [Tony Sheen](@/w/riverman.md) and [Filip Fux](@/w/filip-fux.md) from [Kombat Pro Wrestling](@/o/kpw.md), debuting in PpW.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Filip Fux](@/w/filip-fux.md)'
-  - '[Tony Sheen](@/w/riverman.md)'
-  - n: Pre-show match
-    nc: upcoming
-- - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Robert Star](@/w/robert-star.md)'
-  - s: Ultraviolent Match
-    nc: upcoming
-- - '[Lady Killer](@/w/boro.md)'
+{% card() %}
+- - '[Tony Sheen](@/w/riverman.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - s: Pre-show match
+- - '[Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
+  - s: Tag Team Match
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Mutant](@/w/mutant.md)'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - g: 'State of [PpW Championship](@/c/ppw-championship.md) address, Biesiad suspended'
+- - '["Ladykiller" Boro](@/w/boro.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - nc: upcoming
 - - '[Axel Fox](@/w/axel-fox.md)'
@@ -48,23 +52,33 @@ Jednak Hardcore (_Hardcore After All_) is an upcoming show by [PpW Ewenement Wre
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Triple Threat Match
     nc: upcoming
-- - '[Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
-  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
-  - s: Tag Team Match
-    nc: upcoming
+
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '???'
   - nc: upcoming
-- - '[Mister Z](@/w/mister-z.md)'
-  - g: 'Mister Z talks about the future of the PpW Championship.'
-- - '[Biesiad Strong](@/w/biesiad.md)'
-  - '[Mutant](@/w/mutant.md)'
-  - nc: upcoming
+
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: Ultraviolent Match
+Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Recap
 
-* TBD
+* This time, Istociarz handled commentary solo.
+* Before the show, PpW started the poll for Fox vs Gryffin stipulation. It was possible to vote after scanning one of the QR code posted on the arena walls.
+* In a pre-show match, Filip Fux, an active KPW wrestler, beat a MZW wrestler Tony Sheen. This is first such a crossover on Polish scene. Fux portrayed a strong babyface and quickly dispatched of Sheen. Riverman inherited insulting chants previously reserved for ex-PpW star [Tony Sk1n](@/e/tony-sk1n.md): _Tony Sheen, chuj ci w ryj_ (roughly: _Tony Sheen, suck a dick_).
+* In the opening of the show, Michael HT revealed the result of fan vote. Fox and Gryffin would face off in a _Falls Count Anywhere_ match.
+* In the opening match, Hungarian Luchadores faced the newly-formed tag team of Antoni Ocean and Sambor.
+* Sentinel scored the fall for his team after hitting Sambor with a _Super-Frankensteiner_.
+* In the next match, Mutant faced Biesiad Strong. Mutant made an entrance carrying a snow shovel. He was announced as _Jebany, kurwa, mutant_ (_Motherfucking Mutant_) Biesiad made his customary entrance from the crowd, with a ladder and his custom _Cieślowe_ (_Carpenter's_) beer). Crowd called Mutant _Olgierd z Temu_ (_Olgierd from Temu_), probably due to physical resemblance to Biesiad's current nemesis. Biesiad won with his usual _Swanton bomb_ from the ladder onto the table laid Mutant.
+* In next match, members of all teams competing at [PpW Tag Team Championship] tournament finals faced off. Marco Hammers entered first, after him Oskar Alexander. Goblin, making his entrance last, quickly jumpstarted the match. AFter some comedic shenanigans between Marco and Oskar, Oskar won by scoring a pin on Goblin.
+* Injured Olgierd made his entrance on crutches, accompanied by Mister Z, and declared that he will not defend his PpW Championship until the [Japan show](@/a/ppw-hardcore-friday-the-13th-tokyo.md). Mister Z suggested becoming an interim champion, an idea which Olgierd laughed off, laying his hands on his boss. Quickly collecting himself, Olgierd laughed off the tension, declared his loyalty and listed the Polish wrestlers who will not compete for the championship. Prompted by his name dropped, Biesiad made his entrance, quickly chasing off Mister Z to the stage, putting Olgierd's leg in a chair and threatening to reinjure Olgierd, unless he is given a titleshot. Z threatened Biesiad with suspension if he does the deed, then Biesiad reinjured Olgierd anyway. Thus, he was suspended and Mister Z sent the members of _Ewenement Crew_, referees and wrestlers to escort him out of the arena.
+* Gabriel Queen ran into the ring, holding Referee Seweryn's hand, as if attempting to cash in a Money in the Bank Contract (he does not have any). AFter a back-and-forth match, Queen won with a wheelbarrow pinning combination. Fellow member of [Rodzina](@/tt/rodzina.md) made an entrance to congratulate him, thus transitioning into the break. The duo was available for customary _Instax_ photoshoot with fans.
+* After the break, we move to Agatka vs Ladykiller. Representing Rodzina, Agent Agatka made her entrance first. Ladykiller, announced as "Ladykiller" Boro, made his entrance wearing a leopard print bathrobe. Underneath the robe, Boro carried a bouquet of roses. Agatka accepted the gift, right before using it as a weapon. After a back and forth, Agatka beat Boro with a _Satellite DDT_.
+* Afterwards, there was an in-ring auction held, with a banner of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) at stake. It was sold for 1500 PLN.
 
 ## References
 
