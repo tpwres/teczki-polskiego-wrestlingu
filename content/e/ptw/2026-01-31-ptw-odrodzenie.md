@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-"Odrodzenie" (_The Rebirth_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in a post-show interview with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
+"Odrodzenie" (_The Rebirth_) was a show by [Prime Time Wrestling](@/o/ptw.md). It was announced at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in a post-show interview with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 
 This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) - to share a name with a [KPW event](@/e/kpw/2021-08-21-kpw-arena-17.md).
 
@@ -28,45 +28,36 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
 * On 28.01.2026 PTW announced [Daniel Razor](@/w/daniel-razor.md) vs Ukrainian wrestler Baron Wolfgang Storm, who debuted in Poland at the [previous show](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
 * 29.01.2026 saw the announcement of [Damian Lambert](@/w/damian-lambert.md) vs [Blaze](@/w/blaze.md) in a Singles Match.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - 'Baron Wolfgang Storm'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - '[Boguś](@/w/bogus.md)'
+  - 'Fashion Gabriel'
+  - s: Four-Way Match
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - 'Damian Adler'
-  - nc: upcoming
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - '???'
-  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
-    nc: upcoming
-- - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - '???'
-  - nc: upcoming
-- - '[Boguś](@/w/bogus.md)'
-  - '???'
-  - nc: upcoming
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - 'Bart Petro'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+- - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
+  - '[Bumper](@/w/bumper.md) & Dropper'
+  - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
-- - '[Remo](@/w/remo.md)'
-  - '???'
-  - nc: upcoming
-- - '[Daniel Razor](@/w/daniel-razor.md)'
-  - 'Baron Wolfgang Storm'
-  - nc: upcoming
-- - '[Damian Lambert](@/w/damian-lambert.md)'
-  - '[Blaze](@/w/blaze.md)'
-  - nc: upcoming
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+* Despite being announced, [Remo](@/w/remo.md) did not appear at the show.
 
 ## References
 
