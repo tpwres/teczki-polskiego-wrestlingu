@@ -16,7 +16,7 @@ Boguś is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 * Gimmicks/nicknames:
   - Boguś {{ org_badge(orgs=['ptw']) }}
 * Trained by:
-  - [PTW Academy](@/o/ptw-academy.md) (2022-)
+  - [PTW Academy](@/o/ptw-academy.md) (202?-)
 
 ## Professional wrestling career
 

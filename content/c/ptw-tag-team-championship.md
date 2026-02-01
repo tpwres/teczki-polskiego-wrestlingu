@@ -221,7 +221,6 @@ While Boro never defended the title, he was also recognized as a champion per th
   - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD'
   - en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
     ed: 2026-01-31
-    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
