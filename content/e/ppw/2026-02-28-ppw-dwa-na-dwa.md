@@ -28,7 +28,7 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 - - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
-  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)' Tournament Finals
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
     s: Triple Threat Tag Team Tables Elimination Match
     nc: upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
