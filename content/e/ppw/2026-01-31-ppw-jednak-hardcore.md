@@ -64,7 +64,7 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
 
 * This time, [Istociarz](@/w/istociarz.md) handled commentary solo.
 * Before the show, PpW started a poll for the [Axel Fox](@/w/axel-fox.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) stipulation. It was possible to vote by scanning one of the QR codes posted around the arena.
-* In the pre-show match, [Filip Fux](@/w/filip-fux.md) - an active [KPW](@/o/kpw.md) wrestler - beat an [MZW](@/o/mzw.md) wrestler, [Tony Sheen](@/w/riverman.md). This was the first such crossover on the Polish scene. Fux portrayed a strong babyface and quickly disposed of Sheen. Riverman inherited insulting chants previously reserved for ex-PpW star [Tony Sk1n](@/e/tony-sk1n.md): [_Tony Sheen, chuj ci w ryj_](@/a/polish-wrestling-chants.md#wrestler-specific) (roughly: _Tony Sheen, suck a dick_).
+* In the pre-show match, [Filip Fux](@/w/filip-fux.md) - an active [KPW](@/o/kpw.md) wrestler - beat an [MZW](@/o/mzw.md) wrestler, [Tony Sheen](@/w/riverman.md). This was the first such crossover on the Polish scene. Fux portrayed a strong babyface and quickly disposed of Sheen. Riverman inherited insulting chants previously reserved for ex-PpW star [Tony Sk1n](@/w/tony-sk1n.md): [_Tony Sheen, chuj ci w ryj_](@/a/polish-wrestling-chants.md#wrestler-specific) (roughly: _Tony Sheen, suck a dick_).
 * At the start of the show, Michael HT revealed the result of the fan vote. Fox and Gryffin would face off in a Falls Count Anywhere Match.
 * In the opening match, Hungarian Luchadores faced the newly-formed tag team of [Antoni Ocean](@/w/antoni-ocean.md) and [Sambor](@/w/sambor.md).
 * [Sentinel](@/w/sentinel.md) scored the fall for his team after hitting Sambor with a Super-Frankensteiner.
