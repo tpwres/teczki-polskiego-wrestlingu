@@ -29,7 +29,7 @@ The venue for this event was the [Hall of Sports](@/v/gdynskie-centrum-sportu.md
 - - 'Mika The Polish Punisher'
   - '[Victor Rosetti](@/w/rosetti.md)'
 - - '[Kaszub](@/w/kaszub.md)'
-  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - s: Three Way Match
 - - '[Sawicki](@/w/sawicki.md)'

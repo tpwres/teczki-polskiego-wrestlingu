@@ -46,10 +46,10 @@ toclevel = 2
   - 'Dylan Thorn'
   - 'Shawn Aster'
   - s: Triple Threat Match Manto Challenge
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: Lambert promises changes after his recent loss. Pawłowski gives him a match.
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - 'Dropper'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
