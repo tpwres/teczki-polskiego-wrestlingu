@@ -1,7 +1,7 @@
 +++
 title = "PpW Dwa Na Dwa"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["zaklete-rewiry"]
@@ -20,7 +20,7 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 * At [PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) earned their _Golden Opportunity_ to be added into the tournament finals.
 * In [Rodzina's](@/tt/rodzina.md) [promo](https://www.instagram.com/p/DTs_vmZignE/) recorded for social media, it was confirmed that [Oskar Alexander](@/w/oskar-alexander.md) would be representing Rodzina in the finals, along with a new, not yet revealed family member. As it was [Vic Golden](@/w/vic-golden.md) who advanced to the finals, it seems that the tournament involves the classic [Freebird Rule][freebird-rule] in some form.
 * At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Filip Fux](@/w/filip-fux.md) - still an active [KPW](@/o/kpw.md) wrestler - joined Rodzina, seemingly making him the "new member" to fight for the Tag Team titles.
-* On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. In addition they added the stipulation - Tables Elimination Match. The rules are as follows: _Tornado rules_ (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
+* On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. They also disclosed the stipulation: a Tables Elimination Match with Tornado rules (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
 
 ## Predicted card
 
