@@ -28,17 +28,17 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
 ## Card
 
 {% card() %}
-- - '[Tony Sheen](@/w/riverman.md)'
-  - '[Filip Fux](@/w/filip-fux.md)'
+- - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Tony Sheen](@/w/riverman.md)'
   - s: Pre-show match
-- - '[Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
-  - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
+- - 'Hungarian Luchadores: [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)'
+  - '[Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Tag Team Match
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Mutant](@/w/mutant.md)'
-- - '[Marco Hammers](@/w/marco-hammers.md)'
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Goblin](@/w/goblin.md)'
-  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Marco Hammers](@/w/marco-hammers.md)'
   - s: Triple Threat Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
@@ -46,8 +46,9 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
   - g: 'State of [PpW Championship](@/c/ppw-championship.md) address, Biesiad suspended'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Mister Z](@/w/mister-z.md)'
-- - '["Ladykiller" Boro](@/w/boro.md)'
-  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '["Ladykiller" Boro](@/w/boro.md)'
+  - s: Intergender Match
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: Fans Choose Match - Falls Count Anywhere
