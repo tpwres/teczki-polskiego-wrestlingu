@@ -39,13 +39,19 @@
 302 = { path = "gm-edyta.webp", caption = "Gauntlet Match<br />Ring announcer Edyta Świerczyńska.", source = "Jędruś Bułecka's private archives" }
 303 = { path = "gm-dirtbag-vs-klarys.webp", caption = "Gauntlet Match<br />Dirtbag vs Klarys.", source = "Jędruś Bułecka's private archives" }
 304 = { path = "gm-klarys-vs-rob-cage.webp", caption = "Gauntlet Match<br />Klarys vs Rob Cage.", source = "Jędruś Bułecka's private archives" }
+305 = { path = "gm-the-greatest.webp", caption = "Gauntlet Match<br />The Greatest.", source = "Jędruś Bułecka's private archives" }
+306 = { path = "gm-rob-cage-vs-the-greatest.webp", caption = "Gauntlet Match<br />Rob Cage vs The Greatest.", source = "Jędruś Bułecka's private archives" }
 
 
-305 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
-306 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 307 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 308 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 309 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+310 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+311 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+312 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+313 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+314 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+315 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 
 
 901 = { path = "jtv-01.webp", caption = "DDW on Japanese television.", source = "DonRoid @ YouTube" }
