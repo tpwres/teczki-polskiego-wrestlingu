@@ -12,7 +12,7 @@ toclevel = 2
 manifest = "@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
 +++
 
-Teraz Albo Nigdy (_Now Or Never_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska&nbsp;65](@/v/minska-65.md). This time, the show took place in a different part of the venue complex, _Hala Labo_.
+Teraz Albo Nigdy (_Now Or Never_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md) held at [Mińska&nbsp;65](@/v/minska-65.md). This time, the show took place in a different part of the venue complex, _Hala Labo_.
 
 PpW launched the ticket sales exactly two months before the event date. It is the first PpW event to introduce three tiers of tickets, with varying pricing:
 
