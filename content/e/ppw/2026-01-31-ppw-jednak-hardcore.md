@@ -84,6 +84,7 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=442799)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-jednak-hardcore-01-31-2026-22-24-27) (requires paid subscription)
 * [Facebook post announcing the event][lysy-hardcore]
 
 [lysy-hardcore]: https://www.facebook.com/OficjalnePPW/posts/pfbid035oyuE5bB6yqUx3XwrKjjRaYrZayFxPv1QMYWgvxjVX62Fe5Axpd4mHifWTYx9Lgl
