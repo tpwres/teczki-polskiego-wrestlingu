@@ -31,13 +31,16 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
   - s: 'Ten Man Gauntlet Match'
     c: '[DDW International Championship](@/c/ddw-international-championship.md)'
     r: Submission
-
-
-- - '[Klarys](@/w/klarys.md)'
-  - 'Rob Cage'
+- - 'Rob Cage'
+  - '[Klarys](@/w/klarys.md)'
   - s: 'Ten Man Gauntlet Match'
     c: '[DDW International Championship](@/c/ddw-international-championship.md)'
 
+
+- - 'Rob Cage'
+  - 'The Greatest'
+  - s: 'Ten Man Gauntlet Match'
+    c: '[DDW International Championship](@/c/ddw-international-championship.md)'
 
 
 
@@ -82,7 +85,7 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 * 
 * 
 * 
-* 65041
+* 67509 // audio delay +900
 * 
 * It was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
 * The event was later released as a two-disc DVD set, in very limited numbers. In addition to the show, the set also contained bonus materials (mostly promos). Fans could purchase it for 35&nbsp;PLN by e-mailing [Don Roid](@/w/don-roid.md).
