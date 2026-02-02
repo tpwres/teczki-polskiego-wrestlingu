@@ -4,14 +4,14 @@ template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
-venue=["hala-labo"]
+venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
 [extra.gallery]
 +++
 
-Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place at [Mińska&nbsp;65](@/v/minska-65.md) and billed as a sequel to [a show](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) from a year prior.
+Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in the Pillar Hall at [Mińska&nbsp;65](@/v/minska-65.md), and billed as a sequel to [a show](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) from a year prior.
 
 ## Build-up
 

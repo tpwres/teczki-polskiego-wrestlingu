@@ -28,7 +28,7 @@ Mińska&nbsp;65 is located in Praga Północ disctrict in Warsaw, at its eastern
 
 ### Venue
 
-The first event hosted by Mińska&nbsp;65 was held in one of three available halls called "Sala Kolumnowa" (_Pillared Hall_). Its area is about 880 square meters and in its raw condition the hall is able to accommodate around 800 standing spectators. The distinguishing feature of this hall are large skylights which give the place a unique atmosphere. At Co Za Noc the size of the hall allowed to dedicate a huge part of the hall to catering, merch stands and a tattoo parlour. Another hall used by PpW for some of their events is "Hala Labo" (_Labo Hall_), located in a separate, adjacent building.
+The first event hosted by Mińska&nbsp;65 was held in one of three available halls called "Sala Kolumnowa" (_Pillar Hall_). Its area is about 880 square meters and in its raw condition the hall is able to accommodate around 800 standing spectators. The distinguishing feature of this hall are large skylights which give the place a unique atmosphere. At Co Za Noc the size of the hall allowed to dedicate a huge part of the hall to catering, merch stands and a tattoo parlour. Another hall used by PpW for some of their events is "Hala Labo" (_Labo Hall_), located in a separate, adjacent building.
 
 ### References
 
