@@ -22,6 +22,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of The Outsiders (余所者) stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
 * On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
 * In a [Facebook reel][orugieedo] published on 27.01.2026 [Olgierd](@/w/olgierd.md) announced that he will defend his [PpW Championship](@/c/ppw-championship.md) at the Tokyo show. His choice of stipulation was a Dog Collar Match, and he challenged former BJW Champion Dale Patricks as his opponent. The match was officially confirmed the next day.
+* Another Tag Team Match was announced on 3.02.2026: Hideyoshi Kamitani & Daichi Hashimoto vs [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
 
 ## Predicted card
 
@@ -46,7 +47,11 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - 'デイル・パトリックス (Dale Patricks)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: ドッグカラー・マッチ (Dog Collar Match)
-    nc: 近日公開 (upcoming)  
+    nc: 近日公開 (upcoming)
+- - '神谷英慶  (Hideyoshi Kamitani) & 橋本大地 (Daichi Hashimoto)'
+  - '[ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
+  - s: タッグマッチ (Tag Team Match)
+    nc: 近日公開 (upcoming)
 {% end %}
 
 ### Recap
