@@ -35,6 +35,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=445711)
 * [Facebook post announcing the event][byc-albo-nie-byc]
 
 [byc-albo-nie-byc]: https://www.facebook.com/OficjalnePPW/posts/pfbid0gBGrxBpUux2zcMTGorUNQ3wjWGHnx8iUzpgMMQKXgMRgaZJRdWqfuJnFV5macrCWl
