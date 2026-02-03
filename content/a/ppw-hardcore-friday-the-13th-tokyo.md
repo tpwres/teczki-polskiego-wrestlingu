@@ -22,6 +22,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of The Outsiders (余所者) stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
 * On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
 * In a [Facebook reel][orugieedo] published on 27.01.2026 [Olgierd](@/w/olgierd.md) announced that he will defend his [PpW Championship](@/c/ppw-championship.md) at the Tokyo show. His choice of stipulation was a Dog Collar Match, and he challenged former BJW Champion Dale Patricks as his opponent. The match was officially confirmed the next day.
+* Another Tag Team Match was announced on 3.02.2026: Hideyoshi Kamitani & Daichi Hashimoto vs [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
 
 ## Predicted card
 
@@ -36,7 +37,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
     nc: 近日公開 (upcoming)
 - - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
   - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
-  - s: 6 人タッグマッチ ノー・ホルズ・バード・フォルズ・カウント・エニウェア  (3-vs-3 Tag Team Match No Holds Barred Falls Count Anywhere)
+  - s: 6 人タッグマッチ ノー・ホルズ・バード・フォルズ・カウント・エニウェア  (6 Man Tag Team Match No Holds Barred Falls Count Anywhere)
     nc: 近日公開 (upcoming)
 - - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'
   - '伊東竜二 (Ryuji Ito)'
@@ -46,7 +47,11 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - 'デイル・パトリックス (Dale Patricks)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: ドッグカラー・マッチ (Dog Collar Match)
-    nc: 近日公開 (upcoming)  
+    nc: 近日公開 (upcoming)
+- - '神谷英慶  (Hideyoshi Kamitani) & 橋本大地 (Daichi Hashimoto)'
+  - '[ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
+  - s: タッグマッチ (Tag Team Match)
+    nc: 近日公開 (upcoming)
 {% end %}
 
 ### Recap
@@ -58,6 +63,14 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * [Facebook post announcing the event][ppw-w-tokyo-fb]
 * [Instagram post announcing the event][ppw-w-tokyo-ig]
 * [PpW Global](https://www.instagram.com/ppw_global/) on Instagram
+* [Abdullah Kobayashi's Cagematch profile](https://www.cagematch.net/?id=2&nr=4573)
+* [Chris Brookes's Cagematch profile](https://www.cagematch.net/?id=2&nr=12878)
+* [So Daimonji's Cagematch profile](https://www.cagematch.net/?id=2&nr=22287)
+* [Ryuji Ito's Cagematch profile](https://www.cagematch.net/?id=2&nr=1603)
+* [Daichi Hashimoto's Cagematch profile](https://www.cagematch.net/?id=2&nr=10196)
+* [Dale Patricks's Cagematch profile](https://www.cagematch.net/?id=2&nr=12887)
+* [Hideyoshi Kamitani's Cagematch profile](https://www.cagematch.net/?id=2&nr=12055)
+* [Minoru Fujita's Cagematch profile](https://www.cagematch.net/?id=2&nr=1219)
 
 [bjw]: https://en.wikipedia.org/wiki/Big_Japan_Pro_Wrestling
 [ppw-w-tokyo-fb]: https://www.facebook.com/OficjalnePPW/posts/pfbid02cR3qT3LUn7PyuMBzjQThGFabsUGgrzSjiozvVCjEXzEzYC8y7MqzvMLyTZyaAioXl
