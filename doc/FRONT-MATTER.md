@@ -27,6 +27,7 @@ Certain entries are mandatory for all files, and not including them is an error.
 * `extra.city`: If present, describes the city or cities where the event venue is located. Displayed on the homepage listing (e.g. 'Warszawa, Mińska 65'), and in an event's header above its date and name. May be a single quoted string, like `"Warszawa"`, or an array of these, for example `["Gdańsk", "Sopot"]`. If the latter form is used, they will be displayed joined by slash characters: 'Gdańsk / Sopot'.
 * `extra.hide_results`: Optional. If present and set to `true`, the card block will not display results. Useful for upcoming events, and past events where the match outcomes are unknown. If the card block has a predicted flag (`card(predicted=true)`), this setting has no effect and results are **always hidden**. For any other definition of card, hiding results is still controlled by this setting.
 * `extra.hide_pagination`: Optional. If present and set to `true`, it disables the chronology section at the bottom of the event page. Useful in cases when there's only one known event (eg. a short-lived backyard group).
+* `extra.has_video`: Optional. If present and set to `true`, listings of the event may indicate visually (with an icon) that the event page links to video content. These links are usually added in a _References_ section.
 
 ## Talent page
 
