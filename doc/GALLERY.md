@@ -42,6 +42,10 @@ The value is always a map (another list of key-value pairs), which **must contai
 * `source` is the attribution. While currently it's not displayed, we still want to collect it to have a grasp on where the images came from.
 * `skip_art` (optional). If present and set to true, this image will be excluded from Artwall. Recommended to set for photos that are low-resolution, or screenshots containing mostly text.
 
+### Events
+
+If an event file has an `extra.gallery` section as indicated, lists of events may add visual clues such as icons to indicate that an event has a gallery. This is exclusive to events, and automatic. The indicator may appear even if the gallery section is empty.
+
 ### Collapsing
 
 The extra section may contain a key named `collapse_gallery`. Depending on its value, the gallery may be collapsed:
@@ -153,6 +157,8 @@ Currently, there is no provision to host or display videos on the site. While em
 
 Another reason for not hosting videos is to avoid copyright issues, especially with organizations that are still active.
 This is not a site to host videos of recent events, but an archive/time capsule of the scene.
+
+If an event page links to video content, it's useful to indicate it in the front matter with an `extra.has_video` entry. Lists where that event appears may add a visual clue such as an icon to indicate that. Check the front matter docs for details.
 
 ## Other files like PDFs?
 
