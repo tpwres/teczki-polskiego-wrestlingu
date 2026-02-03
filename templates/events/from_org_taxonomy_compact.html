@@ -6,7 +6,12 @@
       <li data-date="{{ event_page.date }}">
         {% set dt = event_page.date | date(format="%Y-%m-%d") -%}
         <time datetime="{{ dt }}">{{ dt }}</time>
-        <a class="nu" href="{{ get_url(path=event_page.path) }}">{{ event_page.title }}</a>
+        {%- set has_photos = event_page.extra is containing("gallery") -%}
+        {%- set has_video = event_page.extra | get(key="has_video", default=false) -%}
+        {%- include "events/av_icons.html" -%}
+        <a class="nu" href="{{ get_url(path=event_page.path) }}" {% include "events/link_aria.html" %}>
+          {{ event_page.title }}
+        </a>
       </li>
      {% endfor %}
   </ul>
