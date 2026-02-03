@@ -2,8 +2,8 @@
 title = "PpW Ledwo Legalne"
 template = "event_page.html"
 [taxonomies]
-chronology = ["ppw'  - 'ledwo-legalne'
-venue=["2kola'
+chronology = ["ppw", ledwo-legalne"]
+venue = ["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
