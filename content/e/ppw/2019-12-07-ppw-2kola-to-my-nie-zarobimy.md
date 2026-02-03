@@ -42,7 +42,7 @@ This was likely the first PpW event open for general public, as opposed to frien
     s: Hardcore Match
 - - '[Mister Z](@/w/mister-z.md)(c)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-    c: '[PpW Championship](@/c/ppw-championship.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
 - credits:
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
