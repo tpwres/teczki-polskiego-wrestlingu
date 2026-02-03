@@ -64,11 +64,11 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * [Instagram post announcing the event][ppw-w-tokyo-ig]
 * [PpW Global](https://www.instagram.com/ppw_global/) on Instagram
 * [Abdullah Kobayashi's Cagematch profile](https://www.cagematch.net/?id=2&nr=4573)
-* [Chris Brookes' Cagematch Profile](https://www.cagematch.net/?id=2&nr=12878)
+* [Chris Brookes's Cagematch profile](https://www.cagematch.net/?id=2&nr=12878)
 * [So Daimonji's Cagematch profile](https://www.cagematch.net/?id=2&nr=22287)
 * [Ryuji Ito's Cagematch profile](https://www.cagematch.net/?id=2&nr=1603)
 * [Daichi Hashimoto's Cagematch profile](https://www.cagematch.net/?id=2&nr=10196)
-* [Dale Patricks' Cagematch profile](https://www.cagematch.net/?id=2&nr=12887)
+* [Dale Patricks's Cagematch profile](https://www.cagematch.net/?id=2&nr=12887)
 * [Hideyoshi Kamitani's Cagematch profile](https://www.cagematch.net/?id=2&nr=12055)
 * [Minoru Fujita's Cagematch profile](https://www.cagematch.net/?id=2&nr=1219)
 
