@@ -8,6 +8,7 @@ venue = ["placyk-ppw"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2012-07-01-ppw-neomania-ii-gallery.toml"
 +++

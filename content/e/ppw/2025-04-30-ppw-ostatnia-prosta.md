@@ -8,6 +8,7 @@ venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-04-30-ppw-ostatnia-prosta-gallery.toml"
 +++

@@ -8,6 +8,7 @@ venue = ["placyk-ppw"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "leg-drop.webp", caption = "La Parka (etc.) hits [Ultimo Combo](@/w/johnny-blade.md) with a leg drop.", source = "Official PpW YouTube" }
 2 = { path = "la-parka-etc.webp", caption = "La Parka (etc.) stalks Ultimo Combo.", source = "Official PpW YouTube" }

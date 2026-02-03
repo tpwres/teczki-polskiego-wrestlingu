@@ -8,6 +8,7 @@ venue = ["ogrodek-helita"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2013-07-31-ppw-golden-future-2013-gallery.toml"
 +++

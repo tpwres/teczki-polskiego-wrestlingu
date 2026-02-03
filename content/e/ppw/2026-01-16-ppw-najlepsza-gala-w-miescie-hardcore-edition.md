@@ -8,6 +8,7 @@ venue=["gdynia-svera"]
 [extra]
 city = "Gdynia"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 

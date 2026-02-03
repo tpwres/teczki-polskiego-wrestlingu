@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "brutality-2017-banner.jpg", caption = "Official banner.", source = "Official PpW Facebook" }
 2 = { path = "brutality-2017-pic-1.jpg", caption = "[Rob Scaffold](@/w/rob-scaffold.md) vs [Steven Strong](@/w/biesiad.md)", source = "Official PpW Facebook" }

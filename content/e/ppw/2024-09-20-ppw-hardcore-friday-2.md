@@ -8,6 +8,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "2024-09-20-ppw-hardcore-friday-2.jpg", caption = "Official poster, featuring [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook"}
 +++

@@ -8,6 +8,7 @@ venue=["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-06-07-ppw-ledwo-legalne-5-gallery.toml"
 +++

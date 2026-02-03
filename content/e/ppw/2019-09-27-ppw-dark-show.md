@@ -8,6 +8,7 @@ venue = ["ognicho"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "hello-yeah-sure-i-can-talk.jpg", caption = "[Automatico](@/w/rob-scaffold.md) answering the phone", source = "Official PpW YouTube" }
 2 = { path = "notice.jpg", caption = "_Attention! Do not touch the toy devices until the protective elements are removed (Sunday, 12.05 of current year). Usage of newly installed toys poses a danger._ ", source = "Official PpW YouTube" }

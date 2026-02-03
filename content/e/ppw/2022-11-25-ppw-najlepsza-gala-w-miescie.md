@@ -7,6 +7,7 @@ venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2022-11-25-ppw-najlepsza-gala-w-miescie-plakat.jpg"
 caption = "Official poster, showing [Steve Kuningas](@/w/steve-kuningas.md) and [Biesiad Strong](@/w/biesiad.md), who's holding the spire of Warsaw's [Palace of Culture and Science](https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science)."

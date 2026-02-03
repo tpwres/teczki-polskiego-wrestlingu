@@ -8,6 +8,7 @@ venue=["kinoteka"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "ppw-chcemy-krwi-plakat.jpg", caption = "Official poster.", source = "SplatFilmFest.com"}
 +++

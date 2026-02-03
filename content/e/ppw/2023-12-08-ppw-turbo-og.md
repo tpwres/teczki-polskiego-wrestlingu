@@ -7,6 +7,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = false
 [extra.gallery.1]
 path = "2023-12-08-ppw-turbo-og-plakat_.jpg"
 caption = """\
@@ -32,17 +33,25 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 ## Card
 
 {% card() %}
-- ["[Bill Feager](@/w/feager.md)", "[Jacob Crane](@/w/jacob-crane.md)", {s: "#1 Contender Match", c: "[PpW Championship](@/o/ppw.md#championships)"}]
-- ["[Ricardo Diesel](@/w/ricardo-diesel.md)", "[Adam Wong](@/w/adam-wong.md)", "[Rafi](@/w/rafi.md)", s: "3-way match"]
-- - "[Mister Z](@/w/mister-z.md)"
-  - "[Asara](@/w/asara.md)"
-- ["[Goblin](@/w/goblin.md)", "[Gustav Gryffin](@/w/gustav-gryffin.md)", s: "Classic Wrestling Match"]
-- - "[Isnorr](@/w/isnorr.md)"
-  - "[Biesiad Strong](@/w/biesiad.md)"
-  - s: "Street Fight"
-- - "[Johnny Blade](@/w/johnny-blade.md)"
-  - "[Chris X](@/w/chris-x.md)"
-  - s: "Christmas Massacre"
+- - '[Bill Feager](@/w/feager.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - s: '#1 Contender Match'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+- - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
+  - '[Adam Wong](@/w/adam-wong.md)'
+  - '[Rafi](@/w/rafi.md)'
+  - s: '3-way match'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Asara](@/w/asara.md)'
+- - '[Goblin](@/w/goblin.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - s: 'Classic Wrestling Match'
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - s: 'Street Fight'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Chris X](@/w/chris-x.md)'
+  - s: 'Christmas Massacre'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'

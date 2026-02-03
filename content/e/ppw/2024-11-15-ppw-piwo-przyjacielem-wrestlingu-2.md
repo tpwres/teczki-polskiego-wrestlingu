@@ -7,6 +7,7 @@ venue = ["targi-poznan"]
 [extra]
 city = "Poznań"
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2-plakat.jpg", caption = "Official poster, featuring [Goblin](@/w/goblin.md).", source = "Official PpW Facebook" }
 +++

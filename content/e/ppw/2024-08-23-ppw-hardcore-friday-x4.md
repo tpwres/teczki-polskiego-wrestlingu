@@ -9,6 +9,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "hardcore-friday-x4.jpg", caption = "Facebook graphic announcing the new date, featuring [Olgierd](@/w/olgierd.md).", source = "Facebook @oficjalneppw"}
 3 = { path = "olgierd-biesiad.webp", caption = "Facebook graphic announcing an unsanctioned match between [Olgierd](@/w/olgierd.md) and [Biesiad](@/w/biesiad.md)", source = "Facebook @oficjalneppw"}

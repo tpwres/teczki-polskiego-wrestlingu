@@ -7,6 +7,7 @@ venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2022-05-21-ppw-ledwo-legalne-ii-plakat.jpg"
 caption = "Official poster. Wrestlers drawn are [Mister Z](@/w/mister-z.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md) wearing the [PpW Championship](@/c/ppw-championship.md) belt, Viking and [Steve Kuningas](@/w/steve-kuningas.md)."

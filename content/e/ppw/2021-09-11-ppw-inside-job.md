@@ -7,6 +7,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2021-09-11-ppw-inside-job-plakat.jpg"
 caption = "Official poster. Pictured are [Osamu](@/w/osamu.md) with the [PpW Championship](@/c/ppw-championship.md), [Mister Z](@/w/mister-z.md), [Rob Scaffold](@/w/rob-scaffold.md) doing a swanton dive, plus [Johnny Blade](@/w/johnny-blade.md) and [Tony Sk1n](@/w/tony-sk1n.md) next to the logo."

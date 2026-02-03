@@ -9,6 +9,7 @@ venue = ["stocznia-gdanska"]
 [extra]
 city = "Gdańsk"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.toml"
 +++
