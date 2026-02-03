@@ -22,19 +22,12 @@
         <li data-date="{{ page.date }}">
           {% set dt = page.date | date(format="%Y-%m-%d") -%}
           <time datetime="{{ dt }}">{{ dt }}</time>
-          <a href="{{ get_url(path=page.path) }}">
+          {%- set has_photos = page.extra is containing("gallery") -%}
+          {%- set has_video = page.extra | get(key="has_video", default=false) -%}
+          {%- include "events/av_icons.html" -%}
+          <a href="{{ get_url(path=page.path) }}" {% include "events/link_aria.html" %}>
             {{ page.title }}
           </a>
-          {% if page.extra is containing("gallery") %}
-            <svg class="feather-inline" title="Has photos">
-              <use href="{{ sprite }}#image"/>
-            </svg>
-          {% endif %}
-          {% if page.extra.has_video %}
-            <svg class="feather-inline" title="Has video">
-              <use href="{{ sprite }}#film" />
-            </svg>
-          {% endif %}
         </li>
         {% endfor %}
     </ul>
