@@ -36,7 +36,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 - - '[Bill Feager](@/w/feager.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - s: '#1 Contender Match'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
   - '[Rafi](@/w/rafi.md)'
