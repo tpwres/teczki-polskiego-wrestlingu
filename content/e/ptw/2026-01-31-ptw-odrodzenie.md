@@ -39,8 +39,8 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
   - '[Boguś](@/w/bogus.md)'
   - 'Fashion Gabriel'
   - s: Four-Way Match
-- - '[CJ Klakson](@/w/cj-klakson.md)'
-  - 'Damian Adler'
+- - 'Damian Adler'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
@@ -49,11 +49,13 @@ This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-
   - 'Bart Petro'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
-  - '[Bumper](@/w/bumper.md) & Dropper'
+  - 'Drop and Bump: [Bumper](@/w/bumper.md) & Dropper'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: Pawłowski says goodbye to PTW, its roster and the fans.
 {% end %}
 
 ### Highlights
