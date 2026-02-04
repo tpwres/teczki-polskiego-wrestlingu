@@ -8,6 +8,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/mzw/2025-03-29-mzw-forever-gallery.toml"
 +++

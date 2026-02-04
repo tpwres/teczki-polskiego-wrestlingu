@@ -7,6 +7,7 @@ venue = ["ostrowskiego-wroclaw"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 +++
 
 Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions cancelled almost all public events in Poland. Unable to hold shows with a live audience, MZW instead recorded them and released on YouTube for free.
