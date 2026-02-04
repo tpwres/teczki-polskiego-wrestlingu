@@ -7,6 +7,7 @@ chronology = ["mcw"]
 [extra]
 city = "Siemianowice Śląskie"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2024-11-16-mcw-charytatywnie-plakat.jpg"
 caption = "Official poster. Pictured from left to right, top: Doomfist, Phantom; middle: Chris Steeler, [Johny Vegas](@/w/johny-vegas.md); bottom: [RAV](@/w/rav.md), Jack Kalom."
