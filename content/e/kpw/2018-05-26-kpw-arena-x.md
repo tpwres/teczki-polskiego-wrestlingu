@@ -9,6 +9,7 @@ venue=["gdynskie-centrum-sportu"]
 [extra]
 city = "Gdynia"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -67,5 +68,6 @@ Attendance: about 300
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=205652)
-* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-x/), includes a trailer and highlights video
+* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-x/)
+* [Highlights video](https://www.youtube.com/watch?v=ndgYJ7JqwR8)
 * [Facebook event page](https://www.facebook.com/events/346317699213398/)

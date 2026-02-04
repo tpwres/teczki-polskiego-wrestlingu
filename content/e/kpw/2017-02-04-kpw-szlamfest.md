@@ -8,6 +8,7 @@ venue = ["b90"]
 [extra]
 city = "Gdańsk"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/kpw/2017-02-04-kpw-szlamfest-gallery.toml"
 +++

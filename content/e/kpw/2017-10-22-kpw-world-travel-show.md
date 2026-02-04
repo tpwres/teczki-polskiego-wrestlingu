@@ -8,6 +8,7 @@ chronology = ["kpw"]
 [extra]
 city = "Nadarzyn"
 toclevel = 2
+has_video = true
 +++
 
 World Travel Show is an annual, mostly commercial fair hosting everything related to travel.
@@ -20,10 +21,13 @@ Rojas faced KPW's [Mira](@/w/mira.md) in a mostly unplanned match, consisting of
 ## Card
 
 {% card() %}
-- ['[Mira](@/w/mira.md)', Carmen Rojas]
-- ['[Robert Star](@/w/robert-star.md)', '[Greg](@/w/greg.md)']
+- - '[Mira](@/w/mira.md)'
+  -  Carmen Rojas
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Greg](@/w/greg.md)'
 - credits:
     Ring announcer: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+    Referee: '???'
 {% end %}
 
 ## References
