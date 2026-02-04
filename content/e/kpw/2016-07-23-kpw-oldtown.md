@@ -5,6 +5,7 @@ authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["kpw", "oldtown"]
 venue = ["airport-kluczewo"]
+has_video = true
 [extra]
 city = "Stargard"
 toclevel = 2
