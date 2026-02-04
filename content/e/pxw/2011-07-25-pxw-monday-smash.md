@@ -6,6 +6,7 @@ chronology = ["pxw"]
 [extra]
 hide_results = true
 city = "Głuchołazy"
+has_video = false
 +++
 
 {{ skip_card() }}
