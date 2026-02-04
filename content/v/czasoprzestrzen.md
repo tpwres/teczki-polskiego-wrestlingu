@@ -3,6 +3,7 @@ title = "Czasoprzestrzeń"
 template = "venue_page.html"
 [extra.geo]
 coordinates = '51.105153/17.087245'
+type = 'historical-venue'
 orgs = ['mzw', 'ptw']
 [extra.gallery]
 1 = { path = "czasoprzestrzen-outside.jpg", caption = "An outside view of Czasoprzestrzeń.", source = "wrestling.pl" }
