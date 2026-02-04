@@ -8,6 +8,7 @@ venue = ["atlas-arena"]
 [extra]
 city = ["Łódź"]
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "2013-04-27-wwe-raw-house-show.jpg", caption = "WWE in Łódź", source = "MyWrestling.com.pl" }
 +++

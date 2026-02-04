@@ -8,6 +8,7 @@ venue = ["ergo-arena"]
 [extra]
 city = ["Gdańsk", "Sopot"]
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 
