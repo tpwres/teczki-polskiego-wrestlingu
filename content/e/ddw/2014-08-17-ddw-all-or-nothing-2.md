@@ -7,6 +7,7 @@ venue = ["pod-palma"]
 [extra]
 city = "Rzeszów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "2014-08-17-ddw-all-or-nothing-2-banner.jpg", caption = "Official banner", source = "[Official DDW Facebook]" }
 2 = { path = "kasandra-3.png", caption = "[Kasandra's](@/w/kasandra.md) entrance.", source = "WrestlingJunkies.wixsite.com" }

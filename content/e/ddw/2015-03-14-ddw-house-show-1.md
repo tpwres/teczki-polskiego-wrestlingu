@@ -7,6 +7,7 @@ venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
 +++
@@ -75,5 +76,5 @@ Greg \
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=129059)
-* [Full Match: Kasandra vs Mira](https://www.youtube.com/watch?v=XCgBTAGddOg)
+* [Full match: Kasandra vs Mira](https://www.youtube.com/watch?v=XCgBTAGddOg)
 * [Vttitude's video](https://www.youtube.com/watch?v=s0qnr_fL1xI)
