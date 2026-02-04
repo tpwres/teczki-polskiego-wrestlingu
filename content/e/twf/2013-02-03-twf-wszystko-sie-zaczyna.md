@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: Wszystko Się Zaczyna! (_It All Begins!_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on February 3rd, 2013.  

@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: Fight For Freedom! was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was released on March 28th, 2012.

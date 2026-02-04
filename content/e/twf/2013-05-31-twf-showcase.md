@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: Pokaz w Zespole Szkół nr. 9 w Toruniu (_Showcase in School Complex Number 9 in Toruń_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on May 31st, 2013. It took place in one of Toruń's {{ map_pin(v="Zespół Szkół nr. 9 w Toruniu") }}middle schools - the same as [TWF's Spring Day's Showcase](@/e/twf/2013-03-21-twf-dzien-wiosny.md).
