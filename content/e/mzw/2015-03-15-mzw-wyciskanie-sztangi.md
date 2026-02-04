@@ -7,6 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "wyciskanie-sztangi-banner.jpg", caption = "Official banner.", source = "Jędruś Bułecka @ Facebook" }
 +++

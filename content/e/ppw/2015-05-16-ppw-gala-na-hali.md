@@ -8,6 +8,7 @@ venue = ["gubin"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "mystic-tiger-vs-johnny-blade.jpg", caption = "[Mystic Tiger](@/w/rob-scaffold.md) vs [Johnny Blade](@/w/johnny-blade.md)", source = "Official PpW YouTube" }
 2 = { path = "ultimo-combo-vs-the-hardyz.jpg", caption = "[Ultimo Combo](@/w/johnny-blade.md) vs [The](@/w/mister-z.md) [Hardyz](@/w/rob-scaffold.md)", source = "Official PpW YouTube" }

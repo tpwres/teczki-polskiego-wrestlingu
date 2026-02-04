@@ -7,6 +7,7 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = false
 +++
 
 The 13th monthly Underground show was held on Sunday March 26, 2023 at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

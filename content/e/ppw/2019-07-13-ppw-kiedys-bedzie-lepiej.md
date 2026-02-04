@@ -8,6 +8,7 @@ venue = ["ognicho"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 +++
 
 "Kiedyś będzie lepiej" (_One Day It's Gonna Be Better_) was one of PpW's last backyard shows. Unlike multiple previous events, which were held at a lot at [Winogronowa 17](@/v/winogronowa-17.md) street, this show took place at a {{ map_pin(v="Ognicho") }}small clearing in a forest.

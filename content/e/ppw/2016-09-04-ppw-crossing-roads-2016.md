@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "crossing-roads-2016-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
 2 = { path = "literal-rope-break.jpg", caption = "[Black Orion](@/w/johnny-blade.md) caught in a rope, next to referee [Steven Strong](@/w/biesiad.md). Inside the ring, [Hirinus](@/w/mister-z.md) puts a hold on [Automatico](@/w/rob-scaffold.md).", source = "Official PpW YouTube." }

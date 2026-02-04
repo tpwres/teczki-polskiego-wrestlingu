@@ -7,6 +7,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2023-02-04-ppw-back-to-the-og-plakat.jpg"
 caption = "Official banner, showing a scene from [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md), with Rob Scaffold (left) and Biesiad (right) perched on turnbuckles, ready to jump onto Mister Z and Johnny Blade laid out on tables."

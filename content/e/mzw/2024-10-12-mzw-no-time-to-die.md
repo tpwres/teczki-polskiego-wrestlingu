@@ -8,6 +8,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/mzw/2024-10-12-mzw-no-time-to-die-gallery.toml"
 +++

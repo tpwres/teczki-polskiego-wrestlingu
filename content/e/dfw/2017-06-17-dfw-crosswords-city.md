@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Krzyżówki"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-crosswords-city-plakat.webp"
 caption = "Official poster, featuring [Revage](@/w/rafael-kid.md) and [Direk](@/w/direk.md)."

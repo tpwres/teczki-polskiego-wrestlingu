@@ -8,6 +8,7 @@ venue = ["fenix-gniezno"]
 city = "Gniezno"
 toclevel = 2
 hide_results = true
+has_video = false
 [extra.gallery]
 1 = { path = "fenix-poster.jpg", caption = "Official poster.", source = "Jędruś Bułecka @ Facebook" }
 2 = { path = "fenix-triple-threat.jpg", caption = "Image announcing the match. Left to right: [Shadow](@/w/shadow.md), [Patriota](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md).", source = "Jędruś Bułecka @ Facebook" }

@@ -9,6 +9,7 @@ venue = ["wroclaw"]
 city = "Wrocław"
 toclevel = 2
 hide_results = true
+has_video = false
 [extra.gallery]
 manifest = "@/e/mzw/2015-08-22-mzw-podziemny-krag-2015-gallery.toml"
 

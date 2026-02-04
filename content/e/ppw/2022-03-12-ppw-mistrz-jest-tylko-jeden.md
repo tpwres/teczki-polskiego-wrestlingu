@@ -7,6 +7,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2022-03-12-ppw-mistrz-jest-tylko-jeden-plakat.jpg"
 caption = "Official poster, showing joined faces of a masked [Mister Z](@/w/mister-z.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md) and [Rob Scaffold](@/w/rob-scaffold.md)."

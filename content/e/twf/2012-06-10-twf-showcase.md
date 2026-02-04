@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF Showcase was a event promoted by [Toruń Wrestling Federation](@/o/twf.md). The showcase took place in the common room of {{ map_pin(v="Świetlica &quot;Antoninek&quot;") }}Saint Anthony's parish church community center, on May 31st, 2012.

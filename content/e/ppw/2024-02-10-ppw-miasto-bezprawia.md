@@ -7,6 +7,7 @@ venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2024-02-10-ppw-miasto-bezprawia-plakat.jpg"
 caption = """\

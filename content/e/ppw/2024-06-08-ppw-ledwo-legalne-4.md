@@ -8,6 +8,7 @@ venue=["praga-centrum"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2024-06-08-ppw-ledwo-legalne-4-gallery.toml"
 +++

@@ -7,6 +7,7 @@ venue = ["smolec"]
 [extra]
 city = "Smolec"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "plakat.webp"
 caption = """\

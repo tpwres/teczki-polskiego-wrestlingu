@@ -1,0 +1,9 @@
+{# Not a HTML template: just provides the aria-label attribute for event links in the main list #}
+{%- set addons = [] %}
+{%- if has_photos -%}
+  {% set addons = addons | concat(with="(has photos)") %}
+{%- endif -%}
+{%- if has_video -%}
+  {%- set addons = addons | concat(with="(has video)") -%}
+{%- endif -%}
+aria-label="{{ page.title }} {{ addons | join(sep=" ") }}"

@@ -8,6 +8,7 @@ chronology = ["piwg"]
 toclevel = 2
 hide_results = true
 city = "Skórcz"
+has_video = false
 +++
 
 This was an early backyard show by [Pomerania Indy Wrestling Group](@/o/piwg.md), held in Skórcz.

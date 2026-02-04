@@ -8,6 +8,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "2023-06-25-ptw-4-mystery-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 2 = { path = "the-mystery-opener.jpg", caption = "Budapest Bastards vs Fox & Storm from the perspective of the audience.", source = "Ville Paananen" }

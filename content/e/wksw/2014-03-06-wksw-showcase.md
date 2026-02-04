@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 +++
 
 ## Card

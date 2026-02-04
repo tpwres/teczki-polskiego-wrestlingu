@@ -8,6 +8,7 @@ venue = ["targi-poznan"]
 hide_results = true
 city = "Poznań"
 toclevel = 2
+has_video = true
 +++
 
 This event was a sideshow held as part of Poznań Beer Expo 2021. The event featured wrestlers from [PpW](@/o/ppw.md) competing against former backyard wrestlers, and several [MZW](@/o/mzw.md) regulars in their first, historic collaboration. PpW would return to that event two years later at [Piwo Przyjacielem Wrestlingu](@/e/ppw/2023-11-24-ppw-piwo-przyjacielem-wrestlingu.md), following another co-branded show in September the same year ([Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md)).

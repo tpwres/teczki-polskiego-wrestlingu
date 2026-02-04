@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was taped on August 10th, and published on August 16th, 2013. The show marked TWF's second anniversary.

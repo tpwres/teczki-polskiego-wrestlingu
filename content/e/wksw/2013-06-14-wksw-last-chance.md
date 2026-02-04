@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 +++
 
 The date of the show wasn't explicitly stated in the available source. The date of the post on WrestleFans forum was used instead, as the author's track record suggests he posted about the previous shows on the same days they took place.

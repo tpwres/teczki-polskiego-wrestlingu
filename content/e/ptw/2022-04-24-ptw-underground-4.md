@@ -8,6 +8,7 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "2022-04-24-ptw-underground-4-plakat.jpg", caption = "Official poster. Pictured left to right: Marius Al-Ani, [Bad Bones](@/w/bad-bones.md), [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official PTW Facebook" }
 +++

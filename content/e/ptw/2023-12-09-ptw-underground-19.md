@@ -8,6 +8,7 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "underground-19-poster.webp", caption = "Official poster. Left to right: [Gabriel Queen](@/w/gabriel-queen.md), [Sinister](@/w/sinister.md), [Krampus](@/w/krampus.md), ??? & ???.", source = "Official PTW Facebook" }
 2 = { path = "ville.webp", caption = "A fan receives a birthday gift from [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW YouTube" }

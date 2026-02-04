@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2015-09-05-ppw-neomania-iv-gallery.toml"
 

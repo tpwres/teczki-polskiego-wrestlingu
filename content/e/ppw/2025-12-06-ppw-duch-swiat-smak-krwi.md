@@ -8,6 +8,7 @@ venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 

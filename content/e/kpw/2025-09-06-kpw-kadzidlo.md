@@ -8,6 +8,7 @@ venue=["kadzidlo-sp"]
 [extra]
 city = "Kadzidło"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 

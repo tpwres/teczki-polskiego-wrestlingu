@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 01 = { path = "2024-12-07-ptw-underground-25-plakat.jpg", caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).', source = "Official PTW Facebook." }
 02 = { path = "martina.webp", caption = "Facebook promotional graphic announcing Session Moth Martina.", source = "Official PTW Facebook." }

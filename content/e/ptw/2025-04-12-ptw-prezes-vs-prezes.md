@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 +++

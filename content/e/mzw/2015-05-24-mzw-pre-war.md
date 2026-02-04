@@ -7,6 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "plakat.webp", caption = "Official poster. Pictured are: [Justin Joy](@/w/justin-joy.md), [Szymon Siwiec](@/w/szymon-siwiec.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Asmund](@/w/asmund.md), [Red Thunder](@/w/red-thunder.md) and [Shadow](@/w/shadow.md).", source = "?" }
 +++

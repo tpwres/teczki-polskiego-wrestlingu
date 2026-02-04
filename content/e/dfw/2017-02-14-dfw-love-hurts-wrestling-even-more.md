@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-love-hurts-poster.webp"
 caption = "Official poster featuring [Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md) and [Corin Maer](@/w/corin-mear.md)."

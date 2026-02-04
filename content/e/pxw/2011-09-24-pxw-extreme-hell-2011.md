@@ -6,6 +6,7 @@ chronology = ["pxw"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "terry-jump-1.webp", caption = "[Terry Shadow](@/w/shadow.md)…", source = "Polish Backyard Archives @ YouTube" }
 2 = { path = "terry-jump-2.webp", caption = "…jumps from the roof of a shed…", source = "Polish Backyard Archives @ YouTube" }

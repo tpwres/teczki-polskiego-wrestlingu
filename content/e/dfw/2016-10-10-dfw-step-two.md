@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 +++
 
 This was [DFW's](@/o/dfw.md) second event held in {{ map_pin(v="ZST Toruń") }}ZST. The first one was held back [in March](@/e/dfw/2016-03-10-dfw-zst.md). This time, it's not an auditorium, but a gymnastics hall that sees the action.

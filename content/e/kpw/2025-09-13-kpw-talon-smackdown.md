@@ -9,6 +9,7 @@ venue=["trzebien-baza"]
 [extra]
 city = "Trzebień"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 

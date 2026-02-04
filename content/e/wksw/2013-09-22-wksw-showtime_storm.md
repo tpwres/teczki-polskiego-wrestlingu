@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 +++
 
 Two episodes were released in one video, described as the end of the "season".

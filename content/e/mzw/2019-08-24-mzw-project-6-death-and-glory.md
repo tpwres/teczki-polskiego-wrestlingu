@@ -7,6 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 

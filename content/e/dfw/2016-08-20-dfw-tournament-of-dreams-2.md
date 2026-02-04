@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-tournament-of-dreams-poster.webp"
 caption = "Official poster. Top to bottom: [Corin Maer](@/w/corin-mear.md), [Pain Killer](@/w/pain-killer.md), [Chris Hunter](@/w/chris-hunter.md)."

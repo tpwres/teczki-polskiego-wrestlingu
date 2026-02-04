@@ -7,6 +7,7 @@ chronology = ["mzw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 

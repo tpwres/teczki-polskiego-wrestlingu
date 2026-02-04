@@ -8,6 +8,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit-gallery.toml"
 +++

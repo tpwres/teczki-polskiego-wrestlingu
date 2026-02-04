@@ -7,6 +7,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "wyciskanie-sztangi-2016.webp", caption = "Official poster, featuring [Asmund](@/w/asmund.md).", source = "Official MZW Facebook" }
 2 = { path = "karta.webp", caption = "Show's card. Left to right, top: [Asmund](@/w/asmund.md), [Shadow](@/w/shadow.md); middle: [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Kripto](@/w/kripto.md); bottom: [Justin Joy](@/w/justin-joy.md), [Red Thunder](@/w/red-thunder.md).", source = "Official MZW Facebook" }

@@ -7,6 +7,7 @@ chronology = ["mcw"]
 [extra]
 city = "Siemianowice Śląskie"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2022-10-15-mcw-charity-show-plakat.jpg"
 caption = "Official poster. Pictured from left to right are: Chris Steeler, [Johny Vegas](@/w/johny-vegas.md), [RAV](@/w/rav.md) and Sigurd. The bearded man in the middle is the ring announcer."

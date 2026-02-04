@@ -6,6 +6,7 @@ chronology = ["ddw"]
 [extra]
 city = "Rzeszów"
 toclevel = 2
+has_video = false
 [extra.gallery]
 manifest = "@/e/ddw/2013-08-25-ddw-charity-event-gallery.toml"
 +++

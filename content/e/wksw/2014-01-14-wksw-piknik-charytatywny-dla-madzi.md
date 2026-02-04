@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 +++
 
 Piknik Charytatywny dla Madzi (_Charity Picnic for Maggie_) was a charity showcase intended to depict the fight of doctors against cancer.

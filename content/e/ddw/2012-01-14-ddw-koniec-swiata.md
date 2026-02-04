@@ -8,6 +8,7 @@ venue = ["hala-twardogora"]
 [extra]
 city = "Twardogóra"
 toclevel = 2
+has_video = false
 [extra.gallery.00]
 path = "ddw-koniecswiata-poster.webp"
 caption = "Official show poster. In the top row: [Don Roid](@/w/don-roid.md), Omen, Big Van Walter. Between Roid and Omen in the middle row: Rob Cage. Bottom row: [Kamil Aleksander](@/w/kamil-aleksander.md), [Kevin Williams](@/w/kevin-williams.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)."
@@ -28,7 +29,7 @@ According to a statement posted just a day prior on Attitude Forum, DDW was not 
 
 * [Attitude Forum post](https://www.wrestling.pl/news-oswiadczenie-orgazniatora-dotyczace-odwolania.html) by Marcin Koprowski containing the organizer's statement
 * [Twardogóra's official website calendar](http://pl.twardogora.pl/index.php/kalendarzwydarzen?task=view_detail&agid=207&year=2012&month=1&day=14) listing the event as cancelled
-* [Video announcing the eveng](https://www.youtube.com/watch?v=jvTuqWK1veM)
+* [Video announcing the event](https://www.youtube.com/watch?v=jvTuqWK1veM)
 * [Promos by Kamil and Jędruś](https://www.youtube.com/watch?v=2W_QXUet2kE)
 * [Don Roid's reply](https://www.youtube.com/watch?v=2W_QXUet2kE)
 * [Kevin William's reply and Rob Cage's promo](https://www.youtube.com/watch?v=xx9rO02IcaY)

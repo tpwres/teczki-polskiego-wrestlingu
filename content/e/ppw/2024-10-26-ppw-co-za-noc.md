@@ -8,6 +8,7 @@ venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 0000 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
 0001 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }

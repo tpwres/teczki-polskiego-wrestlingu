@@ -8,6 +8,7 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-07-05-ppw-turniej-typeshit-gallery.toml"
 +++

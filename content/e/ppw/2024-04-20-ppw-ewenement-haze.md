@@ -8,6 +8,7 @@ venue=["praga-centrum"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "PpW's Facebook page"}
 2 = { path = "ewenement-haze-420-match.jpg", caption = "Critical 4/20 Ladder Match - [Goblin](@/w/goblin.md) elbow drops onto [Rafi](@/w/rafi.md), held on a table by Benny Bacchus.", source = "Ville Paananen"}

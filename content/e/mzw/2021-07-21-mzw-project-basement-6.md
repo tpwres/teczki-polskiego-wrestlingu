@@ -7,6 +7,7 @@ venue = ["ostrowskiego-wroclaw"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 +++
 
 Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped wrestling shows. The episodes were produced and released during 2021, when COVID-19 pandemic restrictions cancelled almost all public events in Poland. Unable to hold shows with a live audience, MZW instead recorded them and released on YouTube for free. Episodes 5 and 6 were combined and released together on the same day.

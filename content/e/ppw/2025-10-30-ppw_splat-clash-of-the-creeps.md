@@ -8,6 +8,7 @@ venue=["kinoteka"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "ppw-clash-of-the-creeps-plakat.webp", caption = "Official poster featuring [Johnny Blade](@/w/johnny-blade.md) and [Gremlin](@/w/goblin.md).", source = "Official PpW Facebook"}
 2 = { path = "masowy-kwesjasz.webp", caption = "Image announcing [Goblin](@/w/goblin.md).", source = "Official PpW Facebook"}

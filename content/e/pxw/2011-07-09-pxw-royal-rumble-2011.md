@@ -7,6 +7,7 @@ chronology = ["pxw"]
 hide_results = true
 city = "Głuchołazy"
 toclevel = 2
+has_video = false
 +++
 
 ## Card

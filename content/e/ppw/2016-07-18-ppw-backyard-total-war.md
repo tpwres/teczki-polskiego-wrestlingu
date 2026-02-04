@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2016-07-18-ppw-backyard-total-war-gallery.toml"
 +++

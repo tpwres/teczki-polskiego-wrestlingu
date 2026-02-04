@@ -6,6 +6,7 @@ chronology = ["mzw"]
 [extra]
 city = "Inowrocław"
 toclevel = 2
+has_video = true
 [extra.gallery.00]
 path = "plakat.webp"
 caption = "Official show poster, with [Red Thunder](@/w/red-thunder.md), [Patriota](@/w/jedrus-bulecka.md) and [Shadow](@/w/shadow.md)."

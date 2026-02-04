@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: No One Survive was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on September 3rd, 2012.

@@ -9,6 +9,7 @@ venue = ["opawa"]
 hide_results = true
 city = "Opawa"
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "2016-09-03-mzw-zajebisty-bieg-wopisty.jpg", caption = "Official poster, featuring [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "Official MZW Facebook" }
 +++
