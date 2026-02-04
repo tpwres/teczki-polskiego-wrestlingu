@@ -7,6 +7,7 @@ chronology = ["wksw", "backyardmania"]
 [extra]
 city = "Wołów"
 toclevel = 2
+has_video = true
 +++
 
 Backyardmania was the first cross-promotion backyard supershow.

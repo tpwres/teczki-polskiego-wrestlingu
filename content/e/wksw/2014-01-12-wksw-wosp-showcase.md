@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 +++
 
 WKSW held a showcase at the 22nd Grand Finale of [WOŚP][wosp]. No further details are known.

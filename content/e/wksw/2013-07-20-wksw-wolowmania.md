@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 [extra.gallery]
 1 = { path = "main-event.jpg", caption = "[Steven](@/w/steven.md) vs [Raven](@/w/raven.md) vs [David Master](@/w/david-master.md).", source = "Steven's Facebook" }
 +++
@@ -39,4 +40,4 @@ Attendance: 6
 ## References
 
 * [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=36970) with the card
-* [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=36982), with a comment on the show
+* [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=36982) with a comment on the show
