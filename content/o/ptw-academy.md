@@ -2,7 +2,7 @@
 title = "PTW Academy"
 weight = 0
 template = "org_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski"]
 [extra]
 toclevel = 3
 hide_roster = true
@@ -104,3 +104,13 @@ Overall, the attendance at training weekends went slightly down due to circumsta
 
 PTW Academy, along with the federation, changed its location in April 2024, when they moved from [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów to [Pod Platanem](@/v/dworek-kozlow.md) in Kozłów, a village bordering Gliwice.
 During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), a significant part of coaching staff, talent and rookies left the federation.
+
+### 2025-present: Rebuild
+
+Slowly but surely, PTW Academy rebuilt itself in te new place. Over the course of 2025 various rookies got called up to PTW programming. Referee Herno was dubbed the "Custodian of Academy" - a role of unknown meaning, possibly organizational. In addition, a wave of experienced rookies from elsewhere joined the Academy, such as Bart Petro, [CJ Klakson](@/w/cj-klakson.md) and Damian Adler.
+
+In 2026 the Academy launched its own Instagram channel. The contents consist predominantly of rookie Marta interviewing various personalities: fellow rookies, PTW wrestlers and trainers.
+
+## References
+
+* [PTW Academy on Instagram](https://www.instagram.com/p/DUUERNdDDamUoC-MJOd3hSzkpEsvS8f2jb4Hes0/?igsh=MXRpZ2c0ZHY0YzFuNw==)
