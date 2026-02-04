@@ -8,6 +8,7 @@ venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ptw/2022-07-31-ptw-x-ryucon-gallery.toml"
 +++

@@ -8,6 +8,7 @@ venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "gulyas-bros-vs-vincent-svedberg.webp", caption = "Match graphic announcing Gulyas Bros ([Gulyás Öcsi](@/w/gulyas-ocsi.md) & Gulyás Vilmos) vs Svedberg and [Carravaggio](@/w/vincent-caravaggio.md)", source = "Facebook PTW"}
 2 = { path = "brave-vs-speed.webp", caption = "Match graphic announcing [Alex Brave](@/w/alex-brave.md) vs [Max Speed](@/w/max-speed.md)", source = "Facebook PTW"}

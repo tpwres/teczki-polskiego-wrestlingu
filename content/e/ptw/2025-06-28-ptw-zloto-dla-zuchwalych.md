@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = false
 [extra.gallery]
 manifest = "@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych-gallery.toml"
 +++

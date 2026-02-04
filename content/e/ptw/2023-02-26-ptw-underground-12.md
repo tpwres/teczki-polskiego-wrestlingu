@@ -8,6 +8,7 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
 +++
 
 The 12th [PTW](@/o/ptw.md) Underground show was held on Sunday, February 26, 2023, in [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

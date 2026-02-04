@@ -8,6 +8,7 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = false
 [extra.gallery]
 manifest = "@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji-gallery.toml"
 +++

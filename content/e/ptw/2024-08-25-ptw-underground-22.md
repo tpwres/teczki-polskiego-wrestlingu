@@ -8,6 +8,7 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = false
 [extra.gallery.poster]
 path = "ptwu22-poster.webp"
 caption = "Official poster for the show. Pictured are: Maverick, [Puncher](@/w/puncher.md), [Nitro](@/w/nitro.md), [Spartan](@/w/spartan.md), [Renegade](@/w/renegade.md), [Diana Strong](@/w/diana-strong.md), [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md)."

@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -91,8 +92,8 @@ toclevel = 2
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=435850)
+* [Full show on YouTube](https://www.youtube.com/watch?v=QNGM1wLsqvg&t=6364s) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=827086732977304&set=a.136592405360077)
-* [Official YouTube stream - requires paid subscription](https://www.youtube.com/watch?v=QNGM1wLsqvg&t=6364s)
 
 [konfirmacja]: https://www.facebook.com/reel/1184868053698977
 [pa-larka]: https://en.wikipedia.org/wiki/L._A._Park

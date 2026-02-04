@@ -8,6 +8,7 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "2023-05-28-ptw-underground-15-plakat.jpg", caption = "Official poster. Pictured left to right: [Vic Golden](@/w/vic-golden.md), [Sinister](@/w/sinister.md), [Gabriel Queen](@/w/gabriel-queen.md), [Disco Pablo](@/w/disco-pablo.md).", source = "Official PTW Facebook" }
 +++

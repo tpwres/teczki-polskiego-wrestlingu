@@ -7,6 +7,7 @@ venue = ["moris-chorzow"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "2022-02-19-ptw-2-blackout-plakat.jpg", caption = "Official poster. Left to right: [Santino](@/w/santino.md), Tristan Archer, Matt Sydal, Chris Masters, [Nick Aldis](@/w/nick-aldis.md), [Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md), [Justin Joy](@/w/justin-joy.md), [Krampus](@/w/krampus.md).", source = "Official PTW Facebook" }
 2 = { path = "blackout-pre-show.jpg", caption = "View from the audience, before the show.", source = "Ville Paananen" }

@@ -7,6 +7,7 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ptw/2024-10-19-ptw-underground-23-gallery.toml"
 +++

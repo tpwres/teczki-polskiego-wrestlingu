@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 +++
@@ -70,7 +71,7 @@ manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=421707)
+* [Facebook post with results](https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410)
+* [Full show on YouTUbe](https://www.youtube.com/watch?v=-2w0SyTzH8Y&t=10057s) (requires paid subscription)
 
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/
-[fb-results]: https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410
-[show-paywalled]: https://www.youtube.com/watch?v=-2w0SyTzH8Y&t=10057s&ab_channel=PTW-PrimeTimeWrestling

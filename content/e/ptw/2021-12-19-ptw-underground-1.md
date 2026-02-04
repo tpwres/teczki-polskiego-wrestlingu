@@ -8,6 +8,7 @@ venue=["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = false
 +++
 
 The first [PTW](@/o/ptw.md) Underground was held on Sunday, December 19th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
