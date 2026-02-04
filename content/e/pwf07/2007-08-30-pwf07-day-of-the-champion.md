@@ -8,6 +8,7 @@ chronology = ["pwf07"]
 city = "Świebodzin"
 toclevel = 2
 hide_pagination = true
+has_video = false
 +++
 
 PWF Day of the Champion was an event produced by [Polish Wrestling Federation](@/o/pwf07.md) on August 30th, 2007. The only available info about the show is a Championship match announcement. The video footage from the show hasn't been archived.
