@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "plakat-dfw-kaszczorek.jpg", caption = "Community festival poster, including a wrestling show by DFW", source = "Facebook @DreamFactoryWrestling", skip_art = true}
 +++

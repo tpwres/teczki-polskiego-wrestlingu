@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-anniversary-poster.webp"
 caption = "Official poster, featuring [Charlie](@/w/madman-charlie.md), [Revage](@/w/rafael-kid.md), [Chris Hunter](@/w/chris-hunter.md), [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), Faust XIII, [Prince Victor](@/w/vic-golden.md), [Rob Scaffold](@/w/rob-scaffold.md)."

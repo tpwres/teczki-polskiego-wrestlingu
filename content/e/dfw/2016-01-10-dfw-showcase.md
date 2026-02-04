@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 +++
 
 [DFW's](@/o/dfw.md) third event was held on Sunday January 10, 2016 in the gymnastics hall of an unspecified school in Toruń. There is no information available about the exact venue. Invited to the show were only friends and family, hence the name - a closed showcase.

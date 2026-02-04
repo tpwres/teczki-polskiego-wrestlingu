@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions.", source = "Facebook @DreamFactoryWrestling", skip_art = true}
 +++

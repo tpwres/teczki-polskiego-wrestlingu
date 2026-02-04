@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 +++
 
 Christmas Brawl was held on December 6th, 2016, which was a Tuesday. December 6th in Poland is celebrated as Saint Nicholas Day, so the name is a bit misleading. The event took place, as was now tradition for DFW, in one of Toruń's schools - this time in {{ map_pin(v="3 LO Toruń") }}3 LO, an academic-oriented high school.

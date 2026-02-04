@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-recent-dreams-poster-2.webp"
 caption = "Official poster, with [Revage](@/w/rafael-kid.md) and [Chris Hunter](@/w/chris-hunter.md)"

@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 +++
 
 Lesson of Respect was an event by [Dream Factory Wrestling](@/o/dfw.md), that took place on Saturday, October 29th 2016, in Toruń's {{ map_pin(v="Artus Court") }}Artus Court. The show was performed for Academy of the Future, a charity organization helping schoolchildren, which made up most of the audience.
