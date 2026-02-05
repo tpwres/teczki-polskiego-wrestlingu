@@ -19,6 +19,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 ## Build-up
 
 * The main evend dark match was revealed on 26.01.2026 to be an OG PpW Hardcore Match between [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md).
+* On 5.02.2026 PpW announced that [Rodzina](@/tt/rodzina.md) - [Oskar Alexander](@/w/oskar-alexander.md), [Gabriel Queen](@/w/gabriel-queen.md), [Filip Fux](@/w/filip-fux.md) and [Agentka Agatka](@/w/agentka-agatka.md) - will fight at the show, but no matches were listed yet.
 
 ## Predicted card
 

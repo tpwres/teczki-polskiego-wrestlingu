@@ -1,2 +1,3 @@
-001 = { path = "trzeba-byc-plakat.webp", caption = "Official poster.", source = "Official PpW Facebook" }
+001 = { path = "trzeba-byc-plakatem.webp", caption = "Official poster.", source = "Official PpW Facebook" }
 002 = { path = "trzeba-byc-po-ciemku-z-johnnym.webp", caption = "Image announcing [Mister Z](@/w/mister-z.md) vs [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
+003 = { path = "trzeba-byc-rodzina.webp", caption = "Image announcing Rodzina, left to right: [Oskar Alexander](@/w/oskar-alexander.md), [Gabriel Queen](@/w/gabriel-queen.md) (captioned _This one too!_), [Filip Fux](@/w/filip-fux.md) and [Agentka Agatka](@/w/agentka-agatka.md).", source = "Official PpW Facebook" }
