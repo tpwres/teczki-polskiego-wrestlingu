@@ -143,3 +143,7 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
 Isnorr vacated the belt at [PpW Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), citing an upcoming long-term recovery from his broken arm, and an unspecified but career-threatening heart condition.
 
 **TOTAL:** 186 days
+
+### Champion #5: TBD
+
+The Ultraviolent Championship was reactivated in early February 2026. The first match for the vacated title was set to be a Deathmatch between Johnny Blade vs Abdullah Kobayashi at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md), held in Tokyo.
