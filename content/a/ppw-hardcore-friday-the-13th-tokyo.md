@@ -23,13 +23,15 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
 * In a [Facebook reel][orugieedo] published on 27.01.2026 [Olgierd](@/w/olgierd.md) announced that he will defend his [PpW Championship](@/c/ppw-championship.md) at the Tokyo show. His choice of stipulation was a Dog Collar Match, and he challenged former BJW Champion Dale Patricks as his opponent. The match was officially confirmed the next day.
 * Another Tag Team Match was announced on 3.02.2026: Hideyoshi Kamitani & Daichi Hashimoto vs [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
+* Lastly, at 5.02.2026, the match between Abdullah Kobayashi and Johnny Blade was updated to be for the reactivated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - 'アブドーラ・小林 (Abdullah Kobayashi)'
-  - s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
+  - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+    s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
     nc: 近日公開 (upcoming)
 - - 'クリス・ブルックス (Chris Brookes)'
   - '[ガーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
