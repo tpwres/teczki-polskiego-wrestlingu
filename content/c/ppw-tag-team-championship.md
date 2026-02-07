@@ -83,7 +83,7 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 
 {% free_card() %}
 - - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & ???'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
   - s: Tag Team Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
