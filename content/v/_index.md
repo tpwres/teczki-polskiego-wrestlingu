@@ -7,6 +7,7 @@ template = "index.html"
 <!-- Please sort alphabetically. -->
 ### Silesian metropolis
 
+* [Klub Królestwo](@/v/krolestwo-katowice.md) {{ org_badge(org='low') }}
 * [MORIS Chorzów](@/v/moris-chorzow.md) {{ org_badge(org='ptw') }}
 * [Pod Platanem / Szafirowy Dwór](@/v/dworek-kozlow.md) {{ org_badge(org='ptw') }}
 * [PTW Performance Center](@/v/ptw-targowa.md) {{ org_badge(org='ptw') }}
