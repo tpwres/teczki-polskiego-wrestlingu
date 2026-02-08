@@ -29,7 +29,7 @@ Markus Paskal made his debut at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzi
 
 * Entrance music:
   - "Zen Garden II: Apocalypse" by Punch Deck
-    {{ org_badge(org='pxw') }} (2011) <br>
+    {{ org_badge(org='kpw') }} (2025-) <br>
     {{ music(yt='5HvWmvqbWpg')}}
     {{ music(spot='3H8absHPKSfNeQRAYscQ7o')}}
     {{ music(apple='1641439941?i=1641439942')}}
