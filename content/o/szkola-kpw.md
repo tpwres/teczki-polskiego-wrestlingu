@@ -35,7 +35,7 @@ _Listed in alphabetical order:_
 - [Kinga Miotke](@/w/kinga-miotke.md)
 - [Leon Lato](@/w/leon-lato.md)
 - Leśny
-- Markus Paskal
+- [Markus Paskal](@/w/markus-paskal.md)
 - [Marco Hammers](@/w/marco-hammers.md)
 - [Michał Fux](@/w/michal-fux.md)
 - [Moloch](@/w/moloch.md)
