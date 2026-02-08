@@ -6,7 +6,7 @@
 0005 = { path = "greg-vs-chemik.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Chemik](@/w/chemik.md).", source = "Official KPW Facebook" }
 0006 = { path = "hans-vs-tom.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs Tom LaRuffa.", source = "Official KPW Facebook" }
 0007 = { path = "leon-lato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
-0008 = { path = "paskalesak.webp", caption = "Image announcing Markus Paskal vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
+0008 = { path = "paskalesak.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
 0009 = { path = "wyszechrady.webp", caption = "Image announcing [Lukáš Mottl](@/w/skull-evil.md) & [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
 0010 = { path = "michal-fux-vs-ron-corvus.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Ron Corvus](@/w/ron-corvus.md).", source = "Official KPW Facebook" }
 
@@ -27,9 +27,9 @@
 
 3001 = { path = "sedzia-w-cieniu-lesaka.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
 3002 = { path = "alan-ale-nie-delon.webp", caption = "Sędzia Alan.", source = "M3n747" }
-3003 = { path = "markus-paskal.webp", caption = "Markus Paskal's entrance.", source = "M3n747" }
-3004 = { path = "lesak-po-weekendowym-kursie-chiropraktyki.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) holds Markus Paskal's head in an iron grip, as Sędzia Alan oversees the action.", source = "M3n747" }
-3005 = { path = "bardzo-duzo-niutonow-na-metr-kwadratowy.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Markus Paskal, while [Chemik](@/w/chemik.md) delivers a promo. In front of the ring stands Paskal's mother.", source = "M3n747" }
+3003 = { path = "markus-paskal.webp", caption = "[Markus Paskal's](@/w/markus-paskal.md) entrance.", source = "M3n747" }
+3004 = { path = "lesak-po-weekendowym-kursie-chiropraktyki.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) holds [Markus Paskal's](@/w/markus-paskal.md) head in an iron grip, as Sędzia Alan oversees the action.", source = "M3n747" }
+3005 = { path = "bardzo-duzo-niutonow-na-metr-kwadratowy.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments [Markus Paskal](@/w/markus-paskal.md), while [Chemik](@/w/chemik.md) delivers a promo. In front of the ring stands Paskal's mother.", source = "M3n747" }
 3006 = { path = "z-ta-pania-lepiej-nie-zadzierac.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) and [Chemik](@/w/chemik.md) attempt to intimidate Paskal's mother, without much success.", source = "M3n747" }
 
 4001 = { path = "aleksander-the-awesome.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) returns to KPW.", source = "M3n747" }
