@@ -86,9 +86,11 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Hexia](@/w/hexia.md)
 - [Istociarz](@/w/istociarz.md)
 - [Joker](@/w/joker.md)
+- [Kamil Aleksander](@/w/kamil-aleksander.md)
 - [Marcelito](@/w/marcelito.md)
 - [Max Speed](@/w/max-speed.md)
 - [ShowOff](@/w/piotr-malecki.md)
+- Sędzia Alan Bieńkowski
 - [Taras](@/w/taras.md)
 - [Tony Sheen](@/w/riverman.md) (signed as "Riverman")
 - [Vic Golden](@/w/vic-golden.md)
