@@ -20,14 +20,19 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 
 * The main evend dark match was revealed on 26.01.2026 to be an OG PpW Hardcore Match between [Mister Z](@/w/mister-z.md) and [Johnny Blade](@/w/johnny-blade.md).
 * On 5.02.2026 PpW announced that [Rodzina](@/tt/rodzina.md) - [Oskar Alexander](@/w/oskar-alexander.md), [Gabriel Queen](@/w/gabriel-queen.md), [Filip Fux](@/w/filip-fux.md) and [Agentka Agatka](@/w/agentka-agatka.md) - will fight at the show, but no matches were listed yet.
+* The first match involving a Rodzina member was unveiled on 8.02.2026 - it was a Kiss My Foot Match between [Agentka Agatka](@/w/agentka-agatka.md) and [Bartosz Plata](@/w/plata.md), where the victory is achieved by forcing the opponent to kiss the winner's foot.
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - c: OG PpW Hardcore Match
+  - s: OG PpW Hardcore Match
     n: Dark Match
+    nc: upcoming
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - s: Kiss My Foot Match
     nc: upcoming
 {% end %}
 
