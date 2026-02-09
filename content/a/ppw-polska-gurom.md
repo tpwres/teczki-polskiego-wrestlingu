@@ -1,5 +1,6 @@
 +++
 title = "PpW x 上野: Polska Gurom!"
+date = "2026-03-11"
 template = "event_page.html"
 weight = 0
 authors = ["M3n747"]

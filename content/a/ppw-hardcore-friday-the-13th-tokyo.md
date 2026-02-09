@@ -1,5 +1,6 @@
 +++
 title = "PpW Hardcore Friday the 13th 東京"
+date = "2026-03-13"
 template = "event_page.html"
 weight = 0
 authors = ["M3n747"]
