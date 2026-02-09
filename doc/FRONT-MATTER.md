@@ -62,4 +62,5 @@ Certain entries are mandatory for all files, and not including them is an error.
 
 ## Article
 
-Template should be `article.html`.
+* `template`: usually `article.html`, but can make use of other templates, especially `event_page.html`
+* `date`: only relevant for articles using the event template. Required if the article is part of a chronology but the event's date is not included in the filename (as done for events). In this case, must specify a valid date, e.g. `date = "2026-03-11"`.

@@ -12,7 +12,7 @@
 {% set_global term_higher_lower_triplets = [] %}
 {% for taxonomy_org in taxonomy_orgs %}
   {% set relevant_chrono = get_taxonomy_term(kind="chronology", term=taxonomy_org) %}
-  {% set sorted_chrono_pages = relevant_chrono.pages | sort(attribute="slug") | reverse %}
+  {% set sorted_chrono_pages = relevant_chrono.pages | sort(attribute="date") | reverse %}
   {% set_global lower_index = -1 %}
   {% set_global higher_index = 1 %}
   {% for rel_chrono_page in sorted_chrono_pages %}
