@@ -7,6 +7,8 @@ authors = ["M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 category = ["Polish wrestling scene"]
+[extra]
+city = "板橋区 (Itabashi City)"
 [extra.gallery]
 +++
 
