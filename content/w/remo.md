@@ -28,7 +28,7 @@ Remo made his return at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.m
 
 In June 2024 Remo officially [left Prime Time Wrestling](@/a/ptw-exits.md), which he announced via his social media.
 
-In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition.
+In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition. Then the next month he came back at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), where he cut a promo chastised the fans for forgetting about him during his absence.
 
 ## In wrestling
 
