@@ -77,7 +77,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Sędzia Kornel](@/w/sedzia-kornel.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
-  - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 5'
+  - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
