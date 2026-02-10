@@ -40,7 +40,7 @@ has_video = false
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Łukasz Okoński announces Miyagi Sigma #1 Tag Team Contenders Match, gets interrpunted by Pawłowski.
 - - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - 'Drop & Bump: Dropper & [Bumper](@/w/bumper.md)'
+  - 'Drop & Bump: [Dropper](@/w/dropper.md) & [Bumper](@/w/bumper.md)'
   - '[Blaze](@/w/blaze.md) & Bart Petro'
   - s: Triple Threat Tag Team Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
@@ -72,7 +72,7 @@ has_video = false
 * Nano Lopez retains his championship after distracting the referee, illegally poking Klakson's eyes and hitting him with his Last Plane to Spain.
 * After the match, Nano cuts a short promo and is attacked by a masked character. After hitting Nano with his own Last Plane to Spain, he reveals himself to be Daniel Razor, now with short hair, who wants to reclaim the Underground Championship back from "Starboy". Pan Pawłowski intervenes and moves Razor's hardcore match up the card, as the next fight.
 * Daniel Razor wins his Christmas Hardcore Match after hitting Jay with his finishing move "Razor's Blade" onto some crushed Christmas baubles.
-* Łukasz Okoński comes into the ring with Miyagi Sigma (team of Miyagi Shida and Sigma Boy xD) and grants them an opportunity to become #1 Contenders for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). Pawłowski interrupts and states that he is still a co-owner of PTW, so he can decide who Miyagi and Sigma's opponents are going to be. He chooses two [PTW Academy](@/o/ptw-academy.md) rookies, [Bumper](@/w/bumper.md) and Dropper, announced as "Drop and Bump". He also introduces a third team consisting of debuting Bart Petro and Hungarian wrestler [Blaze](@/w/blaze.md).
+* Łukasz Okoński comes into the ring with Miyagi Sigma (team of Miyagi Shida and Sigma Boy xD) and grants them an opportunity to become #1 Contenders for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). Pawłowski interrupts and states that he is still a co-owner of PTW, so he can decide who Miyagi and Sigma's opponents are going to be. He chooses two [PTW Academy](@/o/ptw-academy.md) rookies, [Bumper](@/w/bumper.md) and [Dropper](@/w/dropper.md), announced as "Drop and Bump". He also introduces a third team consisting of debuting Bart Petro and Hungarian wrestler [Blaze](@/w/blaze.md).
 * The Triple Threat Tag Team Match is won by Miyagi Sigma. They celebrate by helping themselves to some "Wojanek" - a non-alcoholic beverage popular among Polish Gen-Alpha youth.
 * Damian Lambert wins his match against the fellow ex-[KPW](@/o/kpw.md) wrestler Sawicki by submission.
 * After an intermission, an artistic performance is presented by Domix, a Polish beatboxer. Łukasz Okoński also hosts a charity T-shirt auction.
