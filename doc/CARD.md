@@ -126,6 +126,7 @@ Available options are:
 - `g: true` - marks this entry as a se`g`ment, not a match. Useful to mark someone's participation that was not a match, because it gets counted towards their years active and the organization's all time roster. When this is present, `nc` and `r` are ignored, but `c` and `s` will still be displayed.
 - `g: SEGMENT DESCRIPTION` - same as above, but text is displayed in the details column. Both this text and stipulation will be displayed, although stipulation should be left empty.
 - `n: TEXT` or `n: [list, of, texts]` - adds notes, which are displayed in a smaller font below the participants. Notes are only visible on event pages, and only when "toggle results" was clicked.
+- `x: [n]` - e`x`cludes person number `n` from the talent list. Useful when a non-worker makes a one-off appearance, eg. as a guest in a promo segment. Can take more than one number, e.g. `x: [1,3]` to exclude first and third.
 
 ## Special rows
 
@@ -170,6 +171,14 @@ Examples:
 - d: 'Day 3'
   date: 2024-11-19
 - { d: 'Day 3', date: 2024-11-19 }
+# Excluding a person from the talent list
+- - 'Leonardo'
+  - 'Rafaello'
+  - 'Donatello'
+  - 'Michaelangelo'
+  - 'Picasso'
+  - g: Cowabunga dude!
+    x: [5] # Excludes Picasso
 # Cast credits for a show
 - credits:
     Referees: Aubrey Edwards, Red Shoes
