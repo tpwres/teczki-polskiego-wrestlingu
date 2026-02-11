@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"World Cup" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced in a [Facebook post][nowe-gale], alongside [Nowa Fala](@/e/ptw/2026-03-14-ptw-nowa-fala.md).
+"World Cup" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced in a [Facebook post][nowe-gale], alongside [Nowa Fala](@/e/ptw/2026-03-14-ptw-nowa-fala.md). The post also announced that the event will host the first PTW World Cup, featuring wrestlers from seven foreign countries.
 
 ## Build-up
 
