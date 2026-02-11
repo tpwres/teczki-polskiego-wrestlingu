@@ -8,7 +8,7 @@ authors = ["M3n747"]
 chronology = ["ppw"]
 category = ["Polish wrestling scene"]
 [extra]
-city = "上野 (Ueno)"
+city = "上野、東京 (Ueno, Tokyo)"
 [extra.gallery]
 +++
 
