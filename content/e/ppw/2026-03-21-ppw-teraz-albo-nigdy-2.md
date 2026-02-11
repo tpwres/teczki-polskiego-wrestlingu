@@ -16,9 +16,40 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 
 ## Build-up
 
-* The [announcement post][teraziej-albo-nigdywiej] recalled the "20 typa, 20 broni" (_20 dudes, 20 weapons_) match from the first show and, this being a sequel, promised "even more dudes, even more weapons".
+* The [announcement post][teraziej-albo-nigdywiej] recalled the "20 typa, 20 broni" (_20 dudes, 20 weapons_) match from Teraz Albo Nigdy and, this being a sequel, promised "even more dudes, even more weapons".
+* The first match, announced on 10.02.2026, was a "25 typa, 25 broni" (_25 dudes, 25 weapons_). Like previously, the winner gets a title shot for the [PpW Championship](@/c/ppw-championship.md) at Ledwo Legalne 6.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - s: '25 Typa, 25 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 6'
+    nc: upcoming
+ {% end %}
 
 ### Recap
 
