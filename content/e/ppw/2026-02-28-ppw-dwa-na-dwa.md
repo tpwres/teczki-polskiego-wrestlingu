@@ -23,6 +23,7 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 * At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Filip Fux](@/w/filip-fux.md) - still an active [KPW](@/o/kpw.md) wrestler - joined Rodzina, seemingly making him the "new member" to fight for the Tag Team titles.
 * On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. They also disclosed the stipulation: a Tables Elimination Match with Tornado rules (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.07.2026.
+* Next came a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced on 11.02.2026.
 
 ## Predicted card
 
@@ -39,6 +40,11 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Ladykiller](@/w/boro.md)'
   - nc: upcoming
+- - '[Bartosz Plata](@/w/plata.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - '[Asara](@/w/asara.md)'
+  - s: Triple Threat Match
+    nc: upcoming
 {% end %}
 
 ### Recap
