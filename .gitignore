@@ -4,4 +4,3 @@ ppw_wiki/pages/content/
 ppw_wiki/pages/public/
 /static/minisearch_index.json
 node_modules/
-uv.lock
