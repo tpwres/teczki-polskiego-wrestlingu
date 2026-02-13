@@ -26,7 +26,7 @@ has_video = false
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '???'
   - nc: upcoming
-- - '[Spartan](@/w/spartan.md) (c)'
+- - '[Spartan](@/w/spartan.md)(c)'
   - '[Renegade](@/w/renegade.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
