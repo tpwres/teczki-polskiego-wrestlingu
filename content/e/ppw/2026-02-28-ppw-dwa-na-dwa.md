@@ -24,6 +24,7 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 * On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. They also disclosed the stipulation: a Tables Elimination Match with Tornado rules (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.07.2026.
 * Next came a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced on 11.02.2026.
+* Emil Völler, who debuted at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), was announced on 13.02.2026 as the opponent of [Johnny Blade](@/w/johnny-blade.md) in an International Hardcore Match.
 
 ## Predicted card
 
@@ -44,6 +45,10 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
   - '[Max Speed](@/w/max-speed.md)'
   - '[Asara](@/w/asara.md)'
   - s: Triple Threat Match
+    nc: upcoming
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Emil Völler'
+  - s: International Hardcore Match
     nc: upcoming
 {% end %}
 
