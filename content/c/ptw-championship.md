@@ -17,7 +17,7 @@ The PTW Championship is a professional wrestling championship created and promot
 ## Statistics
 
 * First champion: [Puncher](@/w/puncher.md)
-* Most reigns: Puncher (1)
+* Most reigns: Puncher (1) / Spartan (1)
 * Longest reign: Puncher (679 days)
 * Shortest reign: [Spartan](@/w/spartan.md) (1+ days)
 * Youngest champion: Puncher (27 years, 298 days)
@@ -149,6 +149,12 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
     ed: 2026-01-31
+- - 'Spartan(c)'
+  - '[Renegade](@/w/renegade.md)'
+  - s: Singles Match
+    en: '[PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md)'
+    ed: 2026-02-21
+    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt
