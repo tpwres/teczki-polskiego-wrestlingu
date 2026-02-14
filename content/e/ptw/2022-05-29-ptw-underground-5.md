@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md).

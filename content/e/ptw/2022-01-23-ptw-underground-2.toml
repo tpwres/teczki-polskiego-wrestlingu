@@ -1,0 +1,7 @@
+01 = { path = "axel-fox-vs-gabriel-queen.webp", caption = "Image announcing [Axel Fox](@/w/axel-fox.md) vs [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PTW Facebook" }
+02 = { path = "puncher-vs-marcelito.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs [Marcelito](@/w/marcelito.md).", source = "Official PTW Facebook" }
+03 = { path = "krampus-vs-jacob-crane.webp", caption = "Image announcing [Krampus](@/w/krampus.md) vs [Jacob Crane](@/w/jacob-crane.md).", source = "Official PTW Facebook" }
+04 = { path = "gaya-glass-vs-diana-strong.webp", caption = "Image announcing Gaya Glass vs [Diana Strong](@/w/diana-strong.md).", source = "Official PTW Facebook" }
+05 = { path = "arczi-czajka-vs-taxi-zlotowa.webp", caption = "Image announcing Arczi Czajka vs Taxi Złotówa.", source = "Official PTW Facebook" }
+06 = { path = "nano-lopez-vs-remo.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Remo](@/w/remo.md).", source = "Official PTW Facebook" }
+07 = { path = "taras-disco-pablo-vs-dziedzic-sinister.webp", caption = "Image announcing [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md) vs [Syriusz Dziedzic](@/w/dziedzic.md) & [Sinister](@/w/sinister.md).", source = "Official PTW Facebook" }

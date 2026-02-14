@@ -1,0 +1,13 @@
+01 = { path = "2022-02-19-ptw-2-blackout-plakat.jpg", caption = "Official poster. Left to right: [Santino](@/w/santino.md), Tristan Archer, Matt Sydal, Chris Masters, [Nick Aldis](@/w/nick-aldis.md), [Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md), [Justin Joy](@/w/justin-joy.md), [Krampus](@/w/krampus.md).", source = "Official PTW Facebook" }
+02 = { path = "matt-sydal-vs-nano-lopez.webp", caption = "Image announcing Matt Sydal vs [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
+03 = { path = "jonny-storm-vs-axel-fox.webp", caption = "Image announcing [Jonny Storm](@/w/jonny-storm.md) vs [Axel Fox](@/w/axel-fox.md).", source = "Official PTW Facebook" }
+04 = { path = "3-vs-3.webp", caption = "Image announcing [Sinister](@/w/sinister.md) & [Syriusz Dziedzic](@/w/dziedzic.md) & [Puncher](@/w/puncher.md) vs [Disco Pablo](@/w/disco-pablo.md) & [Boro](@/w/boro.md) & [Taras](@/w/taras.md).", source = "Official PTW Facebook" }
+05 = { path = "chris-masters-vs-nick-aldis.webp", caption = "Image announcing Chris Masters vs [Nick Aldis](@/w/nick-aldis.md).", source = "Official PTW Facebook" }
+06 = { path = "tristan-archer-vs-jacob-crane.webp", caption = "Image announcing Tristan Archer vs [Jacob Crane](@/w/jacob-crane.md).", source = "Official PTW Facebook" }
+07 = { path = "axel-tischer-vs-bad-bones.webp", caption = "Image announcing Axel Tischer vs [Bad Bones](@/w/bad-bones.md).", source = "Official PTW Facebook" }
+08 = { path = "piotr-piechowiak.webp", caption = "Image announcing special guest, Piotr &quot;Bestia&quot; Piechowiak.", source = "Official PTW Facebook" }
+09 = { path = "jonny-storm-vs-axel-fox-vs-justin-joy.webp", caption = "Updated image announcing [Jonny Storm](@/w/jonny-storm.md) vs [Axel Fox](@/w/axel-fox.md) vs [Justin Joy](@/w/justin-joy.md).", source = "Official PTW Facebook" }
+10 = { path = "santino-dave-bradshaw.webp", caption = "Image announcing the English commentary team of [Santino](@/w/santino.md) & Dave Bradshaw.", source = "Official PTW Facebook" }
+11 = { path = "joe-hendry-vs-gabriel-queen-w-zlotowa.webp", caption = "Image announcing [Joe Hendry](@/w/joe-hendry.md) vs [Gabriel Queen](@/w/gabriel-queen.md) w/ Taxi Złotówa.", source = "Official PTW Facebook" }
+12 = { path = "krampus-vs-marty scurll.webp", caption = "Image announcing [Krampus](@/w/krampus.md) vs [Marty Scurll](@/w/marty-scurll.md).", source = "Official PTW Facebook" }
+99 = { path = "blackout-pre-show.jpg", caption = "View from the audience, before the show.", source = "Ville Paananen" }
