@@ -1,2 +1,4 @@
 01 = { path = "world-cup-plakat.webp", caption = "Official poster. Left to right in the background, top to bottom: [Krampus](@/w/krampus.md); Andi ZickZack, Damian Adler; [Vincent Caravaggio](@/w/vincent-caravaggio.md), Baron Wolfgang Storm; Ben Rodgers, [Nano Lopez](@/w/nano-lopez.md); [El G](@/w/el-g.md), [Blaze](@/w/blaze.md). In front, carrying two belts, is [Spartan](@/w/spartan.md).", source = "Official PTW Facebook" }
 02 = { path = "wincenty-karawadzyjski.webp", caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
+03 = { path = "spartan-vs-renegade.webp", caption = "Image announcing [Spartan](@/w/spartan.md) vs [Renegade](@/w/renegade.md).", source = "Official PTW Facebook" }
+04 = { path = "andi-zickzack.webp", caption = "Image announcing Andi ZickZack.", source = "Official PTW Facebook" }
