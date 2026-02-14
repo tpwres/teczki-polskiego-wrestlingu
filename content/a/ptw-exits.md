@@ -234,7 +234,7 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw≈
 
 ## Timeline
 
-{% embed_svg(path="data/ptw-exits.svg") %}
+{% embed_svg(path="const/ptw-exits.svg") %}
 Timeline of the exits.
 {% end %}
 
