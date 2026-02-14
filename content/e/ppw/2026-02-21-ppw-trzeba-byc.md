@@ -23,6 +23,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * The first match involving a Rodzina member was unveiled on 8.02.2026 - it was a Kiss My Foot Match between [Agentka Agatka](@/w/agentka-agatka.md) and [Bartosz Plata](@/w/plata.md), a classic rules match where the loser must publicly kiss the winner's foot.
 * On 9.02.2026 [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) were confirmed to appear at the show, in order to "get some answers from the losers".
 * According to a post made on 12.02.2026, [Zmowa](@/tt/zmowa.md) will appear at the show in an unspecified capacity.
+* [Sentinel](@/w/sentinel.md) vs [Mutant](@/w/mutant.md) was announced on 14.02.2026.
 
 ## Predicted card
 
@@ -39,6 +40,9 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '??? & ???'
   - s: Tag Team Match
+    nc: upcoming
+- - '[Mutant](@/w/mutant.md)'
+  - '[Sentinel](@/w/sentinel.md)'
     nc: upcoming
 {% end %}
 
