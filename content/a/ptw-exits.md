@@ -232,6 +232,12 @@ On Thursday June 13th, PTW have taken down the roster section of their page.
 
 In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
 
+## Timeline
+
+{% embed_svg(path="data/ptw-exits.svg") %}
+Timeline of the exits.
+{% end %}
+
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
 [dziedzic-ngz]: https://www.youtube.com/live/-mveTz3FApQ
