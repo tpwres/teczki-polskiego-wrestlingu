@@ -43,7 +43,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
     nc: upcoming
 - - '[Mutant](@/w/mutant.md)'
   - '[Sentinel](@/w/sentinel.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Recap
