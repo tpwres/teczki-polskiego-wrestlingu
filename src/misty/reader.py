@@ -43,10 +43,12 @@ class Reader:
     def handle_link(self, subnode, depth):
         match subnode:
             case span_token.Link(target=target, children=[span_token.RawText(content=content)]):
-                yield 'Link', self.pos, (target, content)
+                elem = 'ZolaLink' if target.startswith('@/') else 'Link'
+                yield elem, self.pos, (target, content)
                 self.advance(cols=len(target) + len(content) + 4)
             case span_token.Link(target=target, children=children):
-                yield from self.wrap_block('Link', subnode, depth+1, target)
+                elem = 'ZolaLink' if target.startswith('@/') else 'Link'
+                yield from self.wrap_block(elem, subnode, depth+1, target)
 
     def handle_liquid_content(self, subnode, head, depth):
         yield 'ContentBlockStart', self.bol, (head,)

@@ -93,7 +93,7 @@ class LiquidBlock(BlockToken):
             if line.startswith('{% end %}'):
                 break
 
-            buf.append(line.strip())
+            buf.append(line.strip('\n'))
 
         return buf, cls._block_info
 
