@@ -34,7 +34,7 @@ has_video = false
 - - 'Andi ZickZack'
   - '???'
   - nc: upcoming
-- - '[El G](@/w/el-g.md)
+- - '[El G](@/w/el-g.md)'
   - '???'
   - nc: upcoming
 {% end %}
