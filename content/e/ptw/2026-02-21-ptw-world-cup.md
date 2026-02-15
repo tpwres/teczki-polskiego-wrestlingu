@@ -19,6 +19,7 @@ has_video = false
 * [Vincent Caravaggio](@/w/vincent-caravaggio.md) was the first worker to be announced, on 9.02.2026.
 * In addition to the World Cup tournament, on 12.02.2026 PTW announced a match for the [PTW Championship](@/c/ptw-championship.md) between the reigning  Champion [Spartan](@/w/spartan.md) and former [PTW Tag Team Champion](@/c/ptw-tag-team-championship.md), [Renegade](@/w/renegade.md).
 * The second wrestler to take part in the tournament, unveiled on 13.02.2026, was Andi ZickZack.
+* On 15.02.2026, [El G](@/w/el-g.md) was added to the tournament.
 
 ## Predicted card
 
@@ -31,6 +32,9 @@ has_video = false
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
 - - 'Andi ZickZack'
+  - '???'
+  - nc: upcoming
+- - '[El G](@/w/el-g.md)
   - '???'
   - nc: upcoming
 {% end %}
