@@ -111,12 +111,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
-- - '**[Remo](@/w/remo.md)**'
-  - 2020
-  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
-  - '[2022-05-29](@/e/ptw/2022-05-29-ptw-underground-5.md)'
-  - 2024?
-- - '**[Michał "Mutant" Świątkowski](@/w/_index.md#M)**'
+- - '**[Michał "Mutant" Świątkowski](@/w/mutant.md)**'
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
