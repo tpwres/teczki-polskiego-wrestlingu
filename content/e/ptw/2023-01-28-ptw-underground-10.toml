@@ -1,0 +1,13 @@
+01 = { path = "underground-10-plakat.webp", caption = "Official poster featuring, top: [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md); middle: [Puncher](@/w/puncher.md), [Hunyadi Tamas](@/w/hunyadi-tamas.md), [Spartan](@/w/spartan.md), [Vic Golden](@/w/vic-golden.md); bottom: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Wiktor Longman](@/w/wiktor-longman.md).", source = "Official PTW Facebook" }
+11 = { path = "axel-fox.webp", caption = "Image announcing [Axel Fox](@/w/axel-fox.md) (old date).", source = "Official PTW Facebook" }
+12 = { path = "spartan-vs-vic-golden.webp", caption = "Image announcing [Spartan](@/w/spartan.md) vs [Vic Golden](@/w/vic-golden.md) (old date).", source = "Official PTW Facebook" }
+13 = { path = "rafi-rarytas.webp", caption = "Image announcing [Rafi Rarytas](@/w/rafi.md) (old date).", source = "Official PTW Facebook" }
+14 = { path = "puncher-vs-hunyadi-tamas.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs Hunyadi Tamas (old date).", source = "Official PTW Facebook" }
+15 = { path = "diana-strong-vs-iva-kolasky.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Iva Kolasky (old date).", source = "Official PTW Facebook" }
+16 = { path = "taras-disco-pablo-vs-syriusz-dziedzic-wiktor-longman.webp", caption = "Image announcing [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md) vs [Syriusz Dziedzic](@/w/dziedzic.md) & [Wiktor Longman](@/w/wiktor-longman.md) (old date).", source = "Official PTW Facebook" }
+17 = { path = "luke-jacobs-vs-justin-joy.webp", caption = "Image announcing Luke Jacobs vs [Justin Joy](@/w/justin-joy.md) (old date).", source = "Official PTW Facebook" }
+21 = { path = "rafi-rarytas-axel-fox.webp", caption = "Image announcing [Rafi Rarytas](@/w/rafi.md) & [Axel Fox](@/w/axel-fox.md) (new date).", source = "Official PTW Facebook" }
+22 = { path = "pure-gold.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md) (new date).", source = "Official PTW Facebook" }
+23 = { path = "arrows-of-hungary.webp", caption = "Image announcing [Dover](@/w/dover.md) & Icarus (new date).", source = "Official PTW Facebook" }
+24 = { path = "the-frenchadores.webp", caption = "Image announcing Aigle Blanc & Senza Volto (new date).", source = "Official PTW Facebook" }
+25 = { path = "samson-vs-syriusz-dziedzic.webp", caption = "Image announcing [Samson](@/w/samson.md) vs [Syriusz Dziedzic](@/w/dziedzic.md) (new date).", source = "Official PTW Facebook" }
