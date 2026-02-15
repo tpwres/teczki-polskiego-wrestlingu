@@ -2,6 +2,7 @@
 title = "Rookie Three"
 template = "talent_page.html"
 authors = ["M3n747"]
+aliases = ["/w/rookie-three"]
 [extra]
 toclevel = 2
 [taxonomies]
