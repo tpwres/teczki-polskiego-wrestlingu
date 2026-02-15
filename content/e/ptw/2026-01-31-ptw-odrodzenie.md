@@ -51,7 +51,7 @@ This event marked a change in PTW's policy. The live stream was available to You
   - 'Bart Petro'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
-  - 'Drop and Bump: [Bumper](@/w/bumper.md) & Dropper'
+  - 'Drop and Bump: [Bumper](@/w/bumper.md) & [Dropper](@/w/dropper.md)'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
