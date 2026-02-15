@@ -1,8 +1,19 @@
-# name,org,start,end,band,layer
-# graph,,,,,
-[w/Jacob Crane],mzw,2021-05,2022-08,,
-[w/Justin Joy],mzw,2021-10,2023-04,,
-[w/Robert Star],mzw,2019-09,2023-07,,
-[w/Gabriel Queen],mzw,2021-08,2023-11,,
-[w/Rafi],mzw,2022-09,2023-10,,
-[w/Samson],mzw,2022-03,2024-01,,
+# name,org,start,end
+# graph,,,
+[w/Jacob Crane],mzw,2021-05,2022-08
+[w/Justin Joy],mzw,2021-10,2023-04
+[w/Robert Star],kpw,2019-09,2023-07
+[w/Gabriel Queen],mzw,2021-08,2023-11
+[w/Rafi],mzw,2022-09,2023-10
+[w/Samson],ptw,2022-03,2024-01
+[w/Vic Golden],mzw,2021-09,2023-08
+[w/Taras],ptw,2021-09,2024-05
+[w/Disco Pablo],mcw,2021-09,2024-06
+[w/Dziedzic],mcw,2021-09,2024-06
+[w/Marcelito],ptw,2021-09,2024-06
+[w/Sinister],mcw,2021-09,2024-06
+[w/Wiktor Longman],ptw,2022-08,2024-06
+[w/Boro],mzw,2021-09,2023-10
+[w/Olgierd],ppw,2021-11,2024-06
+[w/Marco Hammers],ptw,2022-09,2024-06
+[w/Remo],,,
