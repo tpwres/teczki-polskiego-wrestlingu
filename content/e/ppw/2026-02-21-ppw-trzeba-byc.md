@@ -24,6 +24,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * On 9.02.2026 [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) were confirmed to appear at the show, in order to "get some answers from the losers".
 * According to a post made on 12.02.2026, [Zmowa](@/tt/zmowa.md) will appear at the show in an unspecified capacity.
 * [Sentinel](@/w/sentinel.md) vs [Mutant](@/w/mutant.md) was announced on 14.02.2026.
+* Two days later, following up from the [previous show](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to fight [Filip Fux](@/w/filip-fux.md) who'd attacked him with a chair at Jednak Hardcore.
 
 ## Predicted card
 
@@ -37,12 +38,14 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
     nc: upcoming
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
-  - '??? & ???'
-  - s: Tag Team Match
-    nc: upcoming
+- - '[Goblin](@/w/goblin.md)'
+  - '???'
+  - nc: upcoming
 - - '[Mutant](@/w/mutant.md)'
   - '[Sentinel](@/w/sentinel.md)'
+  - nc: upcoming
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
   - nc: upcoming
 {% end %}
 
