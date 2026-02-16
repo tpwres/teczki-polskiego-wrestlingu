@@ -51,7 +51,7 @@ has_video = true
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: Lambert promises changes after his recent loss. Pawłowski gives him a match.
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - 'Dropper'
+  - '[Dropper](@/w/dropper.md)'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Elimination Match'
@@ -82,11 +82,11 @@ has_video = true
 * Nietykalni made an entrance first, coming as a unit. Members of Team Okoński enter in succession.
 * In a slightly comedic fashion, Caravaggio uses the ring of his grandmother Matylda. The only effect it achieved was breaking down a set of chairs placed close to the stage.
 * Order of eliminations:
-*   Pawłowski eliminated Sigma Boy xD after a Wylew from Puncher and some offense of his own.
-*   Puncher eliminated Okoński after a Wylew and a Curb Stomp.
-*   Spartan eliminated Alex Brave after a Spartan Bomb.
-*   Lopez turned on Spartan, hitting him with a chair. Thus, Starboy was eliminated by DQ.
-*   Puncher eliminated Spartan, picking up a win for his team.
+  - Pawłowski eliminated Sigma Boy xD after a Wylew from Puncher and some offense of his own.
+  - Puncher eliminated Okoński after a Wylew and a Curb Stomp.
+  - Spartan eliminated Alex Brave after a Spartan Bomb.
+  - Lopez turned on Spartan, hitting him with a chair. Thus, Starboy was eliminated by DQ.
+  - Puncher eliminated Spartan, picking up a win for his team.
 * After Nietykalni won, Nano Lopez embraced them and celebrated together, thus joining the faction.
 
 ## References
