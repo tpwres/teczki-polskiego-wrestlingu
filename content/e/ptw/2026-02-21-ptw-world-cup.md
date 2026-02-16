@@ -20,6 +20,7 @@ has_video = false
 * In addition to the World Cup tournament, on 12.02.2026 PTW announced a match for the [PTW Championship](@/c/ptw-championship.md) between the reigning  Champion [Spartan](@/w/spartan.md) and former [PTW Tag Team Champion](@/c/ptw-tag-team-championship.md), [Renegade](@/w/renegade.md).
 * The second wrestler to take part in the tournament, unveiled on 13.02.2026, was Andi ZickZack.
 * On 15.02.2026, [El G](@/w/el-g.md) was added to the tournament.
+* The next day PTW announced a Battle Royal between [Daniel Razor](@/w/daniel-razor.md), [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md), [Blaze](@/w/blaze.md), [Alex Brave](@/w/alex-brave.md) and [CJ Klakson](@/w/cj-klakson.md). Should Razor win, he'll get a title shot for the [PTW Underground Championship](@/c/ptw-underground-championship.md), whereas whoever manages to eliminate him, will receive a hefty bonus of 10,000&nbsp;PLN (approx. 2375&nbsp;EUR, 2065&nbsp;GBP or 2815&nbsp;USD).
 
 ## Predicted card
 
@@ -37,6 +38,14 @@ has_video = false
 - - '[El G](@/w/el-g.md)'
   - '???'
   - nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
+  - s: Battle Royal
+    nc: upcoming
 {% end %}
 
 ### Recap
