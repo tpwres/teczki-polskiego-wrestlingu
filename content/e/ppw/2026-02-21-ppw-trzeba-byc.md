@@ -24,7 +24,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * On 9.02.2026 [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) were confirmed to appear at the show, in order to "get some answers from the losers".
 * According to a post made on 12.02.2026, [Zmowa](@/tt/zmowa.md) will appear at the show in an unspecified capacity.
 * [Sentinel](@/w/sentinel.md) vs [Mutant](@/w/mutant.md) was announced on 14.02.2026.
-* Two days later, following up from the [previous show](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to fight [Filip Fux](@/w/filip-fux.md) who'd attacked him with a chair at Jednak Hardcore.
+* Two days later, following up from the [previous show](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to face [Filip Fux](@/w/filip-fux.md) after the latter's chair attack at that event.
 
 ## Predicted card
 
