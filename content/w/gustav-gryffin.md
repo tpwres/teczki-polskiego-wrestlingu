@@ -74,6 +74,10 @@ After his devastating loss Gustav went into a downfall spiral, losing all of his
 
 Furious, the PpW producer started his punishment campaign against Gustav by putting him in a Gauntlet Match with potential Zmowa recruits at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). Even though Gustav managed to beat numerous wrestlers such as [Asara](@/w/asara.md), [Max Speed](@/w/max-speed.md) and [Tony Sheen](@/w/riverman.md), he was ultimately defeated by his former leader who entered the match after all of his minions failed to punish Gustav. The former Zmowa member retaliated by intervening in the main event and preventing Mister Z from winning the PpW Championship from Goblin's hands, which led to Zmowa vs Gustav & [GobLis](@/tt/goblis.md) match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md). The whole babyface team was clearly frustrated with the fact that after such a long rivalry, they had to cooperate. During that match this frustration reached the boiling point, when [Axel Fox](@/w/axel-fox.md) turned on Goblin and Gustav, costing them the match, and joined Zmowa.
 
+#### Teaming with Goblin
+
+Goblin's devastating loss in a championship match against Olgierd at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md) which greatly rose in power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight they managed to gain themselves a spot in a match for inaugural [PpW Tag Team Championship](@/tt/ppw-tag-team-championship.md) title.
+
 ### Maniac Zone Wrestling (2023-present)
 
 Gustav made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at the joint show [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he defeated Chris Cage in a Singles Match.
