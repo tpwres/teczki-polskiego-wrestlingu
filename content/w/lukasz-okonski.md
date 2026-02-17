@@ -47,7 +47,7 @@ This caused Sigma Boy xD's meltdown, and apparently him joining Pawłowski, who 
 
 After fixing his relationship with his bastard son, Okoński continued his feud with Nietykalni. Team Okoński faced them in an Elimination Tag Team Match at [Haloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where Team Okoński lost both the match and further championship opportunity for Spartan because of [Nano Lopez's](@/w/nano-lopez.md) betrayal of Team Okoński. At [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Okoński was given one last chance to get Spartan's championship opportunity straight. He faced Puncher and Pan Pawłowski in a Three Stages of Hell Match. Despite the clear disadvantage, he managed to win the match by pinning Pawłowski in two of the rounds.
 
-This led to a Spartan vs Puncher match being not only for [PTW Championship](@/c/ptw-championship.md), but also for ownership of Prime Time Wrestling. At [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) Spartan managed to finally end Pawłowski's reign over PTW, leaving all of power in Łukasz's hands.
+This led to a Spartan vs Puncher match being not only for the [PTW Championship](@/c/ptw-championship.md), but also for the ownership of Prime Time Wrestling itself. At [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) Spartan managed to finally end Pawłowski's reign over PTW, leaving all the power in Okoński's hands.
 
 ## In wrestling
 

@@ -62,7 +62,7 @@ Boro made his official return to Polish wrestling by publishing a promo on [Lega
 
 #### Return of Ladykiller
 
-During Legacy's [fourth show](@/e/low/2025-12-20-low-4.md) Boro seemed to already forgot about all of [PAKA](@/tt/paka.md) related drama and instead he went back to his old persona of Lady Killer. Working as a villain he defeated [Marcelito](@/w/marcelito.md) in a Singles Match. 
+During Legacy's [fourth show](@/e/low/2025-12-20-low-4.md) Boro seemed to have already forgotten all about the [PAKA](@/tt/paka.md)-related drama, and instead he went back to his old persona of Lady Killer. Working as a villain he defeated [Marcelito](@/w/marcelito.md) in a Singles Match. 
 
 ### Return to Maniac Zone Wrestling (2025-present)
 
@@ -70,8 +70,9 @@ On 13th of June 2025 it was announced that Boro would make his return to MZW's r
 
 ### PpW Ewenement (2025-present)
 
-In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-canon show [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md). 
-He made his official debut in PpW during 10.000PLN Battle Royal at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) when he reverted back to his old gimmick, being announced as "Lady Killer" Boro. 
+In 2025 Boro joined [PpW](@/o/ppw.md), making his first in-ring appearance during the non-canon show [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md). 
+
+He made his official PpW debut during the 10,000&nbsp;PLN Battle Royal at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) where he reverted back to his old gimmick, being announced as "Lady Killer" Boro. 
 
 ## In wrestling
 
@@ -103,7 +104,7 @@ He made his official debut in PpW during 10.000PLN Battle Royal at [Duch Świąt
     {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
     {{ music(yt='SfDiHin4JEo')}}
     {{ music(spot='7gA5NWojLZRn8DYQ9HXE7x')}}
-    {{ music(apple='268523132')}}
+    {{ music(apple='268522887?i=268523132')}}
     
 ## Championships and accomplishments
 

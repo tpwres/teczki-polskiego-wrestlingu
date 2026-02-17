@@ -104,7 +104,7 @@ Eventually, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Fox betr
 
 #### Joining Zmowa
 
-After his betrayal of Goblin and introduction into Mister Z's stable Axel quickly became one of Zmowa's valuable assets. He quickly got involved in a group effort to secure [PTW Tag Team Championship](@/c/ppw-tag-team-championship.md) as the inaugural champions. During Championship race he frequently teamed up with either Mister Z or [Marco Hammers](@/w/marco-hammers.md), especially when one half of Legia Łysych - Olgierd - became [PpW Champion](@/c/ppw-championship.md) and Marco needed a Tag Team partner.
+After his betrayal of Goblin and introduction into Mister Z's stable, Axel quickly became one of Zmowa's most valuable assets. He quickly got involved in a group effort to secure the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) as the inaugural champions. During the Championship race he frequently teamed up with either Mister Z or [Marco Hammers](@/w/marco-hammers.md), especially when the other half of Legia Łysych - Olgierd - became the [PpW Champion](@/c/ppw-championship.md) and Marco needed a Tag Team partner.
 
 ### Legacy of Wrestling (2024-present)
 
@@ -163,7 +163,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
     {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
     {{ music(yt='7cXmA6CiW-g')}}
     {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
-    {{ music(apple='1606979070')}}
+    {{ music(apple='1606979069?i=1606979070')}}
   - "Firestarter" by The Prodigy 
     {{ org_badge(orgs=['low', 'ppw']) }} (2025-present) <br>
     {{ music(yt='wmin5WkOuPw')}}

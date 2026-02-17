@@ -87,7 +87,7 @@ After defeating the leader of Zmowa, Biesiad took on Gustav Gryffin in an ECW Ru
 
 #### Championship pursuit and firing
 
-At [Najlepsza Gala w Mieście: Hardcore Edition](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Biesiad got one more shot at PpW Championship in a Legendary Unsanctioned Match against Olgierd. However, the match was ruled as a draw after both of the competitors dived off the stage and were unable to compete further. During the said match Olgierd suffered an injury, which prevented Biesiad from gaining a quick rematch. Biesiad compromised his chances further, as during Olgierd's adress to public at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he attacked injured Olgierd. Biesiad was immediately fired from PpW Ewenement Wrestling LLC. 
+At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Biesiad got one more shot at the PpW Championship in a Legendary Unsanctioned Match against Olgierd. However, the match was ruled a draw after both competitors dived off the stage and were unable to continue. During the match Olgierd suffered an injury, which prevented Biesiad from gaining a quick rematch. Biesiad compromised his chances further as during Olgierd's address to the crowd at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he attacked the injured Olgierd. In consequence, Biesiad was immediately fired from PpW Ewenement Wrestling Ltd.
 
 ### Dream Factory Wrestling (2017)
 
