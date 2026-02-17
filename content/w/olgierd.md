@@ -92,7 +92,7 @@ He vowed to take everything from the ex-Zmowa member in the nearest future. He g
 
 #### PpW Champion
 
-At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Olgierd faced Goblin in a brutal main event, and managed to capture the title. This ended Goblin's "Unhinged Era", and returned the most important championship belt to Zmowa.
+At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Olgierd faced Goblin in a brutal main event, and managed to capture the title. This ended Goblin's "Unhinged Era", and returned the most important championship belt to Zmowa. At [Najlepsza Gala w Mieście: Hardcore Edition](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) he faced Biesiad Strong in Legendary Unsactioned Match as his first Championship defence. It ended via double count-out after both of the wrestlers fell off the stage and were unable to compete further. After the show it was revealed that Olgierd suffered an knee injury, which sidelined him for some time. Olgierd announced that his next Championship defence will take place during PpW's excrusion to Japan at [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md). At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) injured Olgierd was attacked by furious Biesiad, which led to him being fired by Mister Z.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
@@ -105,6 +105,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
 ## International wrestling appearances
 
 From 2024 onwards Olgierd began to take bookings at the European independent circuit. He started making rather regular appearances in Austria, Hungary and Germany, sometimes working with his Legia Łysych partner, Marco Hammers.
+
 
 ## In wrestling
 
