@@ -54,7 +54,9 @@ The following week Max posted a farewell message on his social media, thanking s
 
 ### Legacy of Wrestling (2025-present)
 
-Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by Wiktor Longman as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee.
+#### Debut and Road To The Title
+
+Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by Wiktor Longman as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee. Thanks to his victory he advanced in a Road To The Title Tournament, earning the spot in a Six-Man Eliminaion Match for inaugural [Legacy of Wrestling European Championship](@/c/low-european-championship.md), in which he was unable to secure a victory.
 
 ### Maniac Zone Wrestling (2025-present)
 
@@ -62,7 +64,9 @@ Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announc
 
 ### PpW Ewenement Wrestling (2025-present)
 
-Max Speed made his unannounced debut for [PpW](@/o/ppw.md) in the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where he faced [Bartosz Plata](@/w/plata.md) and rookie Antek in a Triple Threat Match.
+#### Various appearances
+
+Max Speed made his unannounced debut for [PpW](@/o/ppw.md) in the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where he faced [Bartosz Plata](@/w/plata.md) and rookie Antek in a Triple Threat Match. Later on he managed to win 10.000PLN in a Battle Royal during [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). 
 
 ## International wrestling appearances
 
