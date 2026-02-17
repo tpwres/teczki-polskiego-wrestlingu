@@ -10,7 +10,7 @@ country = ["PL"]
 manifest = "@/w/justin-joy-gallery.toml"
 +++
 
-Justin Joy is a semi-retired Polish wrestler and coach currently working for [PpW Ewenement](@/o/ppw.md). He best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md). He also worked for [Do Or Die Wrestling](@/o/ddw.md).
+Justin Joy is a semi-retired Polish wrestler currently working part-time for [PpW Ewenement](@/o/ppw.md). He best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md). He also worked for [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 
