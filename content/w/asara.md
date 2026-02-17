@@ -1,7 +1,7 @@
 +++
 title = "Asara"
 template = "talent_page.html"
-authors = ["Krzysztof Zych", "Robert Niesłuchowski"]
+authors = ["Krzysztof Zych", "Robert Niesłuchowski", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -22,7 +22,7 @@ Asara is a Czech-Vietnamese wrestler from Zlin, competing mostly on the Austrian
 
 Asara was one of two Czech wrestlers making their PpW debut at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), alongside [Skull Evil](@/w/skull-evil.md). The two were able to appear thanks to Viking, another Czech wrestler who debuted two years earlier at [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), returning to challenge for the newly-created Ultraviolent Championship. At that event Asara faced Skull Evil, winning by disqualification. His appearance was well received by the fans, earning him the nickname "Samurai".
 
-Since then, Asara's been returning approximately once every following year, facing wrestlers like [Mister Z](@/w/mister-z.md), [Shadow](@/w/shadow.md) and [Samson](@/w/samson.md) in a Three Way Dance, and most recently [Gustav Gryffin](@/w/gustav-gryffin.md) as an unannounced entrant in a Gauntlet Match.
+Since then, Asara's been making irregular appearances for Warsaw-based federation, facing wrestlers like [Mister Z](@/w/mister-z.md), [Shadow](@/w/shadow.md) and [Samson](@/w/samson.md) in a Three Way Dance, [Gustav Gryffin](@/w/gustav-gryffin.md) as an unannounced entrant in a Gauntlet Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) and a few others.
 
 ## In wrestling
 
