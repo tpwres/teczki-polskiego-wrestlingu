@@ -11,7 +11,7 @@ country = ["PL"]
 2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
-Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
+Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
@@ -46,7 +46,9 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wr
 
 ### PpW Ewenement Wrestling (2026-present)
 
-Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring.
+#### Debut and joining Rodzina
+
+Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. During the said show Filip emerged victorious from a match, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/axel-fox.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it by the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he joined.  
 
 ## International wrestling appearances 
 
@@ -62,6 +64,7 @@ From 2023 onwards Filip started to secure international bookings for himself. He
   - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
 * Tag Teams and stables:
   - [Bracia Fux](@/tt/bracia-fux.md) (2021-)
+  - [Rodzina](@/tt/rodzina.md) (2026-)
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
     {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo)<br>
@@ -73,7 +76,7 @@ From 2023 onwards Filip started to secure international bookings for himself. He
     {{ music(yt='se3AUY4XKcA')}}
     {{ music(apple='375038556?i=375038653')}}
   - "Kickstart My Heart Remix" by Dance with the Dead
-    {{ org_badge(orgs=['low']) }} (2024) <br>
+    {{ org_badge(orgs=['low', 'ppw']) }} (2024; 2026-) <br>
     {{ music(yt='XGwBYcPQLC8')}}
   - "SexyBack (feat. Timbaland)" by Justin Timberlake
     {{ org_badge(orgs=['low']) }} (2025) <br>
