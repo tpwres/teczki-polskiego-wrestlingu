@@ -5,3 +5,4 @@
 05 = { path = "el-g.webp", caption = "Image announcing [El G](@/w/el-g.md).", source = "Official PTW Facebook" }
 06 = { path = "battle-royal.webp", caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs [Sigma Boy xD](@/w/sigma-boy.md) vs [Miyagi Shida](@/w/miyagi-shida.md) vs [Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md).", source = "Official PTW Facebook" }
 07 = { path = "blaze.webp", caption = "Image announcing [Blaze](@/w/blaze.md).", source = "Official PTW Facebook" }
+08 = { path = "damian-adler.webp", caption = "Image announcing Damian Adler.", source = "Official PTW Facebook" }
