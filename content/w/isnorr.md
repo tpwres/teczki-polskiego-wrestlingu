@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "isnorr.jpg", caption = "Isnorr towering over [Goblin](@/w/goblin.md) and Benny Bacchus at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "Official PpW Facebook" }
 +++
 
-Isnorr, previously known as Norris, is a retired Polish wrestler best known for his appearances at [PpW Ewenement](@/o/ppw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Isnorr, previously known as Norris, is a retired Polish wrestler and active commentator best known for his appearances at [PpW Ewenement](@/o/ppw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -62,6 +62,10 @@ At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Isnorr confirme
 After his victory over Johnny Blade Isnorr made his first defences on non-canon shows at [Splat!FilmFest](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md) in Palace of Culture and Science and [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) in Poznań. At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) he held a Open Challenge which was anwsered by his Zmowa ally [Marco Hammers](@/w/marco-hammers.md). Next one took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) where Isnorr faced former Ultraviolent Champion Stanisław Van Dobroniak in a Donky Kong Weaponmaster Match. At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) he again alligned himself with Gustav Gryffin to fight off Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)) in a Tornado Tag Team Match. Unfortunately for Isnorr, he was the one to be pinned by victorious Pure Gold, which resulted in Gustav's first defeat as a PpW Champion.
 
 At [Teraz Albo Nigdy](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Isnorr entered the 20 Typa, 20 Broni Battle Royale for the PpW Championship opportunity at [Ledwo Legalne V](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), but he was unable to win it due to suffering a serious injury during the match. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Isnorr came out and cut a promo discussing his future in the business, explaining that although he may heal his arm, he was also made aware of a serious cardiac condition preventing him from further competing in the ring. He vacated his championship, seemingly retiring from in-ring competition.
+
+#### Commentary team
+
+From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) onwards Isnorr started making irregular appearances as guest commentator for PpW shows. 
 
 ## In wrestling
 
