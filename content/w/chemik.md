@@ -53,6 +53,10 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost hi
 
 After this defection from Greg, Chemik focused on defending his OldTown Championship. He defeated Michael Schenkenberg at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), but after his victory he was confronted by [Filip Fux](@/w/filip-fux.md), which led to their Street Fight at [the next show](@/e/kpw/2025-04-11-kpw-arena-28.md). Chemik managed to emerge victorious from that bout, and defended the title again at the [next show](@/e/kpw/2025-06-20-kpw-arena-29.md) versus Luca De Leone. However, two months later he lost the Championship to [Leon Lato](@/w/leon-lato.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
 
+At [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) Chemik declared that as long as [Zefir](@/w/zefir.md) and Leon Lato are Champions, and the audience is full of loosers, his foot won't ever stand in the KPW ring again. He punctuated his words by leaving his wrestling boots in the ring upon leaving it. However, he un-retired himself at the same show when KPW's [Chairman Malinowski](@/w/krystian-malinowski.md) proposed a hefty cash bonus for defeating [Rookie One](@/w/rookie-one.md), which he did not earned, as he lost to Rookie. 
+
+At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) he alligned himself with his old teammate Lesak against [Markus Paskal](@/w/markus-paskal.md) (and his mother). Less experienced Markus got himself some backup in form of returning [Kamil Aleksander](@/w/kamil-aleksander.md), with a tag team match scheduled for [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
+
 ### Legacy of Wrestling (2024-present)
 
 On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at the [first Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md). The challenge was initially anwsered by [Sambor](@/w/sambor.md), but the guest host of the show - [Sinister](@/w/sinister.md) - added [Dziedzic](@/w/dziedzic.md) to the mix. Nevertheless, Chemik managed to emerge victorious and keep his title.
