@@ -50,14 +50,14 @@ has_video = false
 - - '[Blaze](@/w/blaze.md)'
   - '???'
   - nc: upcoming
-- - ''Damian Adler'
+- - 'Damian Adler'
   - '???'
   - nc: upcoming
 {% end %}
 
 ### Recap
 
-* TBD
+* Damian Adler, despite being Polish, represented Germany in the tournament.
 
 ## References
 
