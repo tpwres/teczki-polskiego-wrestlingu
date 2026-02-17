@@ -76,7 +76,7 @@ Furious, the PpW producer started his punishment campaign against Gustav by putt
 
 #### Teaming with Goblin
 
-Goblin's devastating loss in a championship match against Olgierd at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md) which greatly rose in power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight they managed to gain themselves a spot in a match for inaugural [PpW Tag Team Championship](@/e/ppw-tag-team-championship.md) title.
+Goblin's devastating loss in a championship match against Olgierd at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md) which greatly rose in power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight they managed to gain themselves a spot in a match for inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.
 
 ### Maniac Zone Wrestling (2023-present)
 
