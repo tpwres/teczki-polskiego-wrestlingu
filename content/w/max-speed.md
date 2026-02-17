@@ -66,7 +66,7 @@ Max Speed made his unannounced debut for [PpW](@/o/ppw.md) in the pre-show of [M
 
 ## International wrestling appearances
 
-From 2024 onwards Max started taking international bookings. His debut outside of Poland took place in World Wrestling Austria in January 2024, and he also debuted in Hungary later that year. In 2025 he appeared in a few federations across the Europe, including Ukraine, Austria and Italy.
+From 2024 onwards Max started taking international bookings. His debut outside of Poland took place in World Wrestling Austria in January 2024, and he also debuted in Hungary later that year. From 2025 onwards started making appearances in various federations across the Europe, including Ukraine, Austria, Italy and Spain.
 
 ## In wrestling
 
