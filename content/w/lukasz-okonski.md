@@ -43,7 +43,11 @@ The growing rivalry over the ownership of PTW caused a bit of a split inside PTW
 During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) Pawłowski addressed the audience with another devastating announcement: that [Sigma Boy xD](@/w/sigma-boy.md) is in fact the bastard son of Łukasz "Prezes" Okoński.
 This caused Sigma Boy xD's meltdown, and apparently him joining Pawłowski, who comforted him after this revelation. Łukasz later admitted in Instagram promos that he is, in fact, the father of Sigma Boy xD and tried to mend fences with him, but was pushed away by his son. His whole conflict with his son was however quickly resolved, as at the next show - [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md) - Sigma Boy xD and Okoński teamed up against [Royal Rebels](@/tt/royal-rebels.md) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), against Sigma's will. They lost the match due to Pawłowski's interference, but at the end of the show, when the villainous PTW promoter tried to convince Sigma to pierce his father with a lightsaber, the young padawan turned on his [Nietykalni](@/tt/nietykalni.md) master and joined Team Okoński.
 
+#### Fight over PTW's ownership
+
 After fixing his relationship with his bastard son, Okoński continued his feud with Nietykalni. Team Okoński faced them in an Elimination Tag Team Match at [Haloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where Team Okoński lost both the match and further championship opportunity for Spartan because of [Nano Lopez's](@/w/nano-lopez.md) betrayal of Team Okoński. At [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Okoński was given one last chance to get Spartan's championship opportunity straight. He faced Puncher and Pan Pawłowski in a Three Stages of Hell Match. Despite the clear disadvantage, he managed to win the match by pinning Pawłowski in two of the rounds.
+
+This led to a Spartan vs Puncher match being not only for [PTW Championship](@/c/ptw-championship.md), but also for ownership of Prime Time Wrestling. At [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) Spartan managed to finally end Pawłowski's reign over PTW, leaving all of power in Łukasz's hands.
 
 ## In wrestling
 
