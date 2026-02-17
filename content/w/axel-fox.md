@@ -102,6 +102,10 @@ After a defeat against Olgierd, Axel's frustration kept growing. During his post
 He lost to [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), and to Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
 Eventually, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Fox betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md).
 
+#### Joining Zmowa
+
+After his betrayal of Goblin and introduction into Mister Z's stable Axel quickly became one of Zmowa's valuable assets. He quickly got involved in a group effort to secure [PTW Tag Team Championship](@/c/ppw-tag-team-championship.md) as the inaugural champions. During Championship race he frequently teamed up with either Mister Z or [Marco Hammers](@/w/marco-hammers.md), especially when one half of Legia Łysych - Olgierd - became [PpW Champion](@/c/ppw-championship.md) and Marco needed a Tag Team partner.
+
 ### Legacy of Wrestling (2024-present)
 
 On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
@@ -151,17 +155,17 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - "Crazy Like a Fox" by Independent Contractor
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-2024) <br>
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw', 'low']) }} (2024-present, both solo and as part of [GobLis](@/tt/goblis.md)) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2024-2025), both solo and as part of [GobLis](@/tt/goblis.md)) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
-  - "100 joints" by 2 Chainz
+  - "HUNDRED JOINTS" by Pharmacist & Cloudymane
     {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
-    {{ music(yt='NXX3mxDA26s')}}
-    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
-    {{ music(apple='1440826084?i=1440826489')}}
+    {{ music(yt='7cXmA6CiW-g')}}
+    {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
+    {{ music(apple='1606979070')}}
   - "Firestarter" by The Prodigy 
-    {{ org_badge(orgs=['low']) }} (2025-present) <br>
+    {{ org_badge(orgs=['low', 'ppw']) }} (2025-present) <br>
     {{ music(yt='wmin5WkOuPw')}}
     {{ music(spot='79CUrU5o2KAVDTNm4x3eGU')}}
     {{ music(apple='1450123945?i=1450124083')}}
