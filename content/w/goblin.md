@@ -85,7 +85,7 @@ In the final moments, however, the much-needed Axel finally came to seemingly sa
 
 #### Teaming with Gustav Gryffin
 
-Goblin's devastating loss brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md) which greatly rose in power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight they managed to gain themselves a spot in a match for inaugural [PpW Tag Team Championship](@/tt/ppw-tag-team-championship.md) title.  
+Goblin's devastating loss brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md) which greatly rose in power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight they managed to gain themselves a spot in a match for inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.  
 
 ### Maniac Zone Wrestling (2025-present)
 
