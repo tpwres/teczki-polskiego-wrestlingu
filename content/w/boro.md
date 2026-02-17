@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Boro, also known as Lady Killer, is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Boro, also known as Lady Killer, is a Polish wrestler currently working for [PpW Ewenement Wrestling](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also known for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -17,10 +17,12 @@ Boro, also known as Lady Killer, is a Polish wrestler best known for his time in
   - Bartosz Borowsky {{ org_badge(org='mzw') }}
   - Lady Killer {{ org_badge(orgs=['mzw', 'low', 'ppw']) }}
   - Boro {{ org_badge(orgs=['ptw', 'low']) }}
+  - Zombie {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
   - MZW Academy (2016-2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2023)
+  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2025-)
 
 ## Professional wrestling career
 
@@ -64,15 +66,16 @@ On 13th of June 2025 it was announced that Boro would make his return to MZW's r
 
 ### PpW Ewenement (2025-present)
 
-In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-canon show [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md).
+In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-canon show [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md). 
+He made his official debut in PpW during 10.000PLN Battle Royal at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) when he reverted back to his old gimmick, being announced as "Lady Killer" Boro. 
 
 ## In wrestling
 
 * Finishers:
   - _Dobry Podryw_ (Olimpic Slam) (2021-2023)
-  - _Oil Check_ (2018-2020)
+  - _Oil Check_ (2018-2020; 2025-)
 * Tag Teams and Stables:
-  - PAKA (2021-2024)
+  - [PAKA](@/tt/paka.md) (2021-2024)
 * Entrance music:
   - "Jessica" by Borys LBD
     {{ org_badge(orgs=['mzw', 'ptw']) }} (2018-2023) <br>
@@ -83,16 +86,21 @@ In 2025 Boro joined [PpW](@/o/ppw.md), making his in-ring debut during the non-c
     {{ org_badge(orgs=['mzw']) }} (2017) <br>
     {{ music(yt='5rFzNDIyksY')}}
   - "Kolorowe sny" by Just 5
-    {{ org_badge(orgs=['mzw']) }} (2025-) <br>
+    {{ org_badge(orgs=['mzw']) }} (2025) <br>
     {{ music(yt='rxDR4SG_DCc')}}
     {{ music(spot='2P1OLuJIL72VC1tzr5zTIK')}}
     {{ music(apple='1759178051?i=1759178056')}}
   - "King Bruce Lee karate mistrz" by Franek Kimono
-    {{ org_badge(orgs=['low']) }} (2025-) <br>
+    {{ org_badge(orgs=['low']) }} (2025) <br>
     {{ music(yt='h_QNYTrHZ2c')}}
     {{ music(spot='5eNnuKhQMh9jieIYzWutgR')}}
     {{ music(apple='339040556?i=339040578')}}
-
+  - "Pinky Ring" by UGK
+    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
+    {{ music(yt='SfDiHin4JEo')}}
+    {{ music(spot='7gA5NWojLZRn8DYQ9HXE7x')}}
+    {{ music(apple='268523132')}}
+    
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md)
