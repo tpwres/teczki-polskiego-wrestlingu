@@ -91,6 +91,10 @@ In September 2017 Johnny, under his masked alias Black Orion, made a one-off [DF
 
 In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), when he fought fellow PpW wrestler [Feager](@/w/feager.md) in a No-DQ Match at [MZW No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).
 
+## International wrestling appearances
+
+On December 15th, 2025 it was announced that Johnny Blade will take part of PpW's excrusion to Japan during their show [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he will face Abdullah Kobayashi in a match for vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). 
+
 ## In wrestling
 
 * Finishers:
