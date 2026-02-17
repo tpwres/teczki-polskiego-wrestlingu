@@ -95,7 +95,9 @@ At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd
 
 ## International wrestling appearances
 
-From 2023 onwards Gustav started making numerous appearances at international wrestling scene. He made numerous appearances in Hungary, Sweden and Germany. 
+From 2023 onwards Gustav started making regular appearances at international wrestling scene. He made numerous appearances in Hungary, Sweden and Germany.
+
+In February 2026 it was announced that Gustav Gryffin will take part in PpW's excrusion to Japan in March 2026 during their show [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he will team up with Goblin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match. 
 
 ## In wrestling
 
