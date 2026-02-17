@@ -76,7 +76,7 @@ He made his official debut in PpW during 10.000PLN Battle Royal at [Duch Świąt
 ## In wrestling
 
 * Finishers:
-  - _Dobry Podryw_ (Olimpic Slam) (2021-2023)
+  - _Dobry Podryw_ / Olimpic Slam (2021-2023; 2025-)
   - _Oil Check_ (2018-2020; 2025-)
 * Tag Teams and Stables:
   - [PAKA](@/tt/paka.md) (2021-2024)
