@@ -16,9 +16,19 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 
 ## Build-up
 
-* TBD
+* The first match was announced on 17.02.2026: [Shadow](@/w/shadow.md) & [Marcelito](@/w/marcelito.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Shadow](@/w/shadow.md) & [Marcelito](@/w/marcelito.md)'
+  - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
+  - s: Tag Team match
+    nc: upcoming
+- credits:
+    Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Ring announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
+{% end %}
 
 ### Recap
 
