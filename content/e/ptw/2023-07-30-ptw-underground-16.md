@@ -10,7 +10,6 @@ city = "Chorzów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2023-07-30-ptw-underground-16-plakat.jpg", caption = "Official poster. Pictured left to right: [Marco Hammers](@/w/marco-hammers.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Puncher](@/w/puncher.md), [Marcelito](@/w/marcelito.md).", source = "Official PTW Facebook" }
 +++
 
 PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30, 2023 at the [PTW Performance Center](@/v/ptw-targowa.md).
