@@ -97,7 +97,7 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
 
 Goblin also made history as the first Polish wrestler to make an appearance in Mexico. On September 15th, 2024, he worked a show for a local promotion, Arena Pepe Cisneros.
 
-In February 2026 it was announced that Goblin will take part in PpW's excrusion to Japan in March 2026 during their show [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he will team up with Gustav Gryffin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match. 
+In February 2026 PpW announced that Goblin will take part in their excursion to Japan in March 2026, appearing at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he will team up with Gustav Gryffin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match. 
 
 
 ## In wrestling
