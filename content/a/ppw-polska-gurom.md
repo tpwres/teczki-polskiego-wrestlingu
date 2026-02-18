@@ -21,11 +21,19 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
 ## Build-up
 
 * On 9.02.2026 [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) posted to his [Instagram][stani] that he will make his Japanese debut at this show.
+* Dale Patricks & [Olgierd](@/w/olgierd.md) vs [Jacob Crane](@/w/jacob-crane.md) & Shigehiro Irie, as well as [Gabriel Queen](@/w/gabriel-queen.md) vs a mystery opponent, were announced via BJW's website at an unspecified date.
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak)'
+  - '？？？ (???)'
+  - nc: 近日公開 (upcoming)
+- - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd) & 'デイル・パトリックス (Dale Patricks)'
+  - '[ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane) & 入江茂弘 (Shigehiro Irie)'
+  - s: PpW ルール・ハードコア・タッグチーム戦 (PpW Rules Hardcore Tag Team Match)
+    nc: 近日公開 (upcoming)
+- - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - '？？？ (???)'
   - nc: 近日公開 (upcoming)
 {% end %}
@@ -38,6 +46,7 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
 
 * [PpW Global announcing the event on Instagram](https://www.instagram.com/ppw_global/p/DUiIFZsEio3/)
 * [BJW website announcing the event](https://bjw.co.jp/schedule/s2026-03-11_1/)
+* [BJW website announcing the matches](https://bjw.co.jp/schedule/s2026-03-11_1/)
 * [Dobroniak's Instagram post mentioning his involvement](https://www.instagram.com/p/DUiSSxaDPEW/)
 
 [ueno-park]: https://en.wikipedia.org/wiki/Ueno_Park
