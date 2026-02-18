@@ -25,6 +25,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * According to a post made on 12.02.2026, [Zmowa](@/tt/zmowa.md) will appear at the show in an unspecified capacity.
 * [Sentinel](@/w/sentinel.md) vs [Mutant](@/w/mutant.md) was announced on 14.02.2026.
 * Two days later, following up from the [previous show](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to face [Filip Fux](@/w/filip-fux.md) after the latter's chair attack at that event.
+* On 17.02.2026 [Antoni Ocean](@/w/antoni-ocean.md) was announced to appear at the show.
 
 ## Predicted card
 
@@ -46,6 +47,9 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
   - nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
+  - nc: upcoming
+- - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - '???'
   - nc: upcoming
 {% end %}
 
