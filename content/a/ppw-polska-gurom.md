@@ -29,9 +29,9 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
 - - '[スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak)'
   - '？？？ (???)'
   - nc: 近日公開 (upcoming)
-- - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd) & 'デイル・パトリックス (Dale Patricks)'
+- - '[オルギエルト](@/w/olgierd.md) (Olgierd) & 'デイル・パトリックス (Dale Patricks)'
   - '[ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane) & 入江茂弘 (Shigehiro Irie)'
-  - s: PpW ルール・ハードコア・タッグチーム戦 (PpW Rules Hardcore Tag Team Match)
+  - s: 'PpW ルール・ハードコア・タッグチーム戦 (PpW Rules Hardcore Tag Team Match)'
     nc: 近日公開 (upcoming)
 - - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - '？？？ (???)'
