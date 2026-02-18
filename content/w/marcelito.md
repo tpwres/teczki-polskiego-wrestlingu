@@ -89,7 +89,7 @@ In November 2024 it was announced that he would face MZW owner and legend [Shado
 
 ## International wrestling appearances
 
-In 2022 and 2023 Marcelito made a handful of appearances for Austrian promotions Rings of Europe and PTW:WWA, which was owned by the fellow PTW wrestler [Krampus](@/w/krampus.md).
+In 2022 and 2023 Marcelito made a handful of appearances for Austrian promotions Rings of Europe and PTW:WWA, the latter of which which was owned by fellow PTW wrestler [Krampus](@/w/krampus.md).
 
 ## In wrestling
 
