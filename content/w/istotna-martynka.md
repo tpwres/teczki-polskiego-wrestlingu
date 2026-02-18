@@ -15,7 +15,7 @@ Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, 
 * Gimmicks/nicknames:
   - Istotna Martynka {{ org_badge(orgs=['ppw']) }}
   - Siostra Kimono {{ org_badge(orgs=['ppw']) }}
-  - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excrusion)
+  - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excursion)
 * Trained by:
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
 
