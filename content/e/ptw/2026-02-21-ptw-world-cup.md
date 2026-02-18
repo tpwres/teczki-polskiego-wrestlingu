@@ -22,6 +22,7 @@ has_video = false
 * On 15.02.2026, [El G](@/w/el-g.md) was added to the tournament.
 * The next day PTW announced a Battle Royal between [Daniel Razor](@/w/daniel-razor.md), [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md), [Blaze](@/w/blaze.md), [Alex Brave](@/w/alex-brave.md) and [CJ Klakson](@/w/cj-klakson.md). Should Razor win, he'll get a title shot for the [PTW Underground Championship](@/c/ptw-underground-championship.md), whereas whoever manages to eliminate him, will receive a hefty bonus of 10,000&nbsp;PLN (approx. 2375&nbsp;EUR, 2065&nbsp;GBP or 2815&nbsp;USD).
 * [Blaze](@/w/blaze.md) and Damian Adler were both announced on 17.02.2026.
+* The next day, Baron Wolfgang Storm and Ben Rodgers were added to the card.
 
 ## Predicted card
 
@@ -51,6 +52,12 @@ has_video = false
   - '???'
   - nc: upcoming
 - - 'Damian Adler'
+  - '???'
+  - nc: upcoming
+- - 'Baron Wolfgang Storm'
+  - '???'
+  - nc: upcoming
+- - 'Ben Rodgers'
   - '???'
   - nc: upcoming
 {% end %}
