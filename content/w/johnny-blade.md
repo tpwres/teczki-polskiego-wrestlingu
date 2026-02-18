@@ -93,7 +93,7 @@ In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), wh
 
 ## International wrestling appearances
 
-On December 15th, 2025 Johnny Blade was announced to take part in PpW's excursion to Japan during their show [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he will face Abdullah Kobayashi in a match for the vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). 
+On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursion to Japan during their show [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Abdullah Kobayashi in a match for the vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). 
 
 ## In wrestling
 

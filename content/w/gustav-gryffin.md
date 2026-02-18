@@ -76,7 +76,7 @@ Furious, the PpW producer started his punishment campaign against Gustav by putt
 
 #### Teaming with Goblin
 
-Goblin's devastating loss in a championship match against Olgierd at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md) which greatly rose in power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight they managed to gain themselves a spot in a match for inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.
+Goblin's devastating loss in a Championship match against Olgierd at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md), which greatly rose in the power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight, they managed to get a spot in a match for the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.
 
 ### Maniac Zone Wrestling (2023-present)
 
@@ -97,7 +97,7 @@ At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd
 
 From 2023 onwards Gustav started making regular appearances at international wrestling scene. He made numerous appearances in Hungary, Sweden and Germany.
 
-In February 2026 it was announced that Gustav Gryffin will take part in PpW's excurion to Japan in March 2026 during their show [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he will team up with Goblin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match. 
+In February 2026 PpW announced that Gustav Gryffin would be part of their excurion to Japan in March 2026, headlining [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would team up with Goblin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match.
 
 ## In wrestling
 

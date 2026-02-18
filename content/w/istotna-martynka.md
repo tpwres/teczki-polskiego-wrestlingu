@@ -33,7 +33,7 @@ Istotna Martynka joined [Ewenement Dojo](@/o/ewenement-dojo.md) at some point in
 
 Besides that, Martynka also hold a position of PpW's Director of Staff, managing all of the staff workers during PpW events.
 
-On February 14th, 2026 it was announced, that Istotna Martynka (named Referee Martyna) will make one-off referee appearance during PpW's Japanese excrusion in March.
+On February 14th, 2026, it was announced that Istotna Martynka (as Referee Martyna) would make a one-off referee appearance during PpW's Japanese excrusion in March.
 
 ## Championships and accomplishments
 

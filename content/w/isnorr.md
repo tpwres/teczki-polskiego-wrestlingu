@@ -65,7 +65,7 @@ At [Teraz Albo Nigdy](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Isnorr entered 
 
 #### Commentary team
 
-From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) onwards Isnorr started making irregular appearances as guest commentator for PpW shows. 
+From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) onwards Isnorr started making irregular appearances as a guest commentator for PpW shows. 
 
 ## In wrestling
 

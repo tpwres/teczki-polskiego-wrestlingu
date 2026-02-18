@@ -11,7 +11,7 @@ country = ["PL"]
 2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
-Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md).
+Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [Legacy of Wrestling](@/o/low.md) and [PpW Ewenement Wrestling](@/o/ppw.md).
 
 ## Basic info
 
@@ -48,7 +48,7 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wr
 
 #### Debut and joining Rodzina
 
-Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. During the said show Filip emerged victorious from a match, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/axel-fox.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it by the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he joined.  
+Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. Filip emerged victorious, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/axel-fox.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it at the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he'd joined.  
 
 ## International wrestling appearances 
 

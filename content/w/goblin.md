@@ -85,7 +85,7 @@ In the final moments, however, the much-needed Axel finally came to seemingly sa
 
 #### Teaming with Gustav Gryffin
 
-Goblin's devastating loss brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md) which greatly rose in power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight they managed to gain themselves a spot in a match for inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.  
+Goblin's devastating loss brought him closer to his old arch-nemesis Gustav, who also desperately wanted revenge on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md), which greatly rose in the power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight, they managed to get a spot in a match for the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.  
 
 ### Maniac Zone Wrestling (2025-present)
 
@@ -97,8 +97,7 @@ From 2023 onwards Goblin took a few international bookings. He made one appearan
 
 Goblin also made history as the first Polish wrestler to make an appearance in Mexico. On September 15th, 2024, he worked a show for a local promotion, Arena Pepe Cisneros.
 
-In February 2026 PpW announced that Goblin will take part in their excursion to Japan in March 2026, appearing at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he will team up with Gustav Gryffin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match. 
-
+In February 2026 PpW announced that Goblin would be part of their excurion to Japan in March 2026, headlining [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would team up with Gustav Gryffin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match.
 
 ## In wrestling
 

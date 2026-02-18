@@ -44,7 +44,7 @@ Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw
 
 #### Return
 
-Six years later Kamil Aleksander made a surprise appearance at [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) where he announced his return to the ring. Markus Paskal, KPW's newest debutant at the time, introduced Kamil as his mentor and tag team partner in a match against [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
+Over six years later, Kamil Aleksander made a surprise appearance at [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) where he announced his return to the ring. Markus Paskal, KPW's newest debutant at the time, introduced Kamil as his mentor and tag team partner in a match against [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
 
 ## International wrestling appearances 
 
