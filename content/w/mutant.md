@@ -45,6 +45,7 @@ Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/202
 
 * Finishers:
   - Spinning Kick To Kneeling Opponent (2021-2024)
+  - F-5 (2025-)
 * Entrance music:
   - "Wilki Dwa" by Luxtorpeda
     {{ org_badge(orgs=['kpw']) }} (2019-2020)<br>
@@ -52,7 +53,7 @@ Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/202
     {{ music(spot='6HtFpYx3yZo9nJNumfn7Ts')}}
     {{ music(apple='1543261324?i=1543261748')}}
   - "Beast" by The Hustle Standard
-    {{ org_badge(orgs=['ptw']) }} (2021-2024)<br>
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2021-2024; 2025-)<br>
     {{ music(yt='p2ZljzdGPUg')}}
     {{ music(spot='0WKY4nRJgz3GUG7IqkTgUH')}}
     {{ music(apple='1440836832?i=1440836838')}}
