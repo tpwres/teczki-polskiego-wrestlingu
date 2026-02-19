@@ -26,7 +26,7 @@ has_video = false
 ## Predicted card
 
 {% card(predicted=true) %}
-- - '_🇵🇱_ [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '???'
   - nc: upcoming
 - - '[Spartan](@/w/spartan.md)(c)'
@@ -36,13 +36,13 @@ has_video = false
 - - '_🇦🇹_ Andi ZickZack'
   - '???'
   - nc: upcoming
-- - '_🇮🇹_ [El G](@/w/el-g.md)'
+- - '[_🇮🇹_ El G](@/w/el-g.md)'
   - '???'
   - nc: upcoming
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - '_🇭🇺_ [Blaze](@/w/blaze.md)'
+  - '[_🇭🇺_ Blaze](@/w/blaze.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - s: Battle Royal
