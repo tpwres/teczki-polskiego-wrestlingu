@@ -23,7 +23,8 @@ has_video = false
 * The next day PTW announced a Battle Royal between [Daniel Razor](@/w/daniel-razor.md), [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md), [Blaze](@/w/blaze.md), [Alex Brave](@/w/alex-brave.md) and [CJ Klakson](@/w/cj-klakson.md). Should Razor win, he'll get a title shot for the [PTW Underground Championship](@/c/ptw-underground-championship.md), whereas whoever manages to eliminate him, will receive a hefty bonus of 10,000&nbsp;PLN (approx. 2375&nbsp;EUR, 2065&nbsp;GBP or 2815&nbsp;USD).
 * [Blaze](@/w/blaze.md) and Damian Adler were both announced on 17.02.2026.
 * The next day, Baron Wolfgang Storm and Ben Rodgers were added to the card.
-* The final entrant to the company was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
+* The final entrant to the tournament was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
+* On the 19th, the tag team of Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
 
 ## Predicted card
 
@@ -64,6 +65,10 @@ has_video = false
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '???'
   - nc: upcoming
+- - 'Synowie Lasu: Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - '???'
+  - s: Tag Team match
+    nc: upcoming
 - credits:
     Host: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: '???'
