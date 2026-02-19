@@ -54,7 +54,7 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 - - '[Leon Lato](@/w/leon-lato.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
   - s: Tag Team Match
-   nc: upcoming
+    nc: upcoming
 {% end %}
 
 ### Recap
