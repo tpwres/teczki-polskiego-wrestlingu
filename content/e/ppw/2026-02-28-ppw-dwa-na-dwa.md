@@ -30,6 +30,10 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[Leon Lato](@/w/leon-lato.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
+  - s: Pre-Show Tag Team Match
+    nc: upcoming
 - - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
@@ -50,10 +54,6 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Emil Völler'
   - s: International Hardcore Match
-    nc: upcoming
-- - '[Leon Lato](@/w/leon-lato.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
-  - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
-  - s: Tag Team Match
     nc: upcoming
 {% end %}
 
