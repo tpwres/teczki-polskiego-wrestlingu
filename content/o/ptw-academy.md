@@ -115,10 +115,11 @@ During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW #6: Tota
 
 ### 2025-present: Rebuild
 
-Slowly but surely, PTW Academy rebuilt itself in te new place. [Max Speed](@/w/max-speed.md), [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) all took on trainer responsibilities.
-Over the course of 2025 various homegrown rookies got called up to PTW programming. [Referee Herno](@/w/sedzia-herno.md) was dubbed the "Custodian of Academy" - a role of unknown meaning, possibly organizational. In addition, a wave of experienced rookies from elsewhere joined the Academy, such as Bart Petro, [CJ Klakson](@/w/cj-klakson.md) and Damian Adler.
+Slowly but surely, PTW Academy rebuilt itself in the new place. [Max Speed](@/w/max-speed.md), [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) all took on trainer responsibilities.
 
-In 2026 the Academy launched its own Instagram channel. The contents consist predominantly of _rookie_ Marta interviewing various personalities: fellow rookies, PTW wrestlers and trainers.
+Over the course of 2025 various homegrown rookies got called up to PTW programming. [Referee Herno](@/w/sedzia-herno.md) was dubbed the "Custodian of the Academy" - a role of unknown meaning, possibly organizational. In addition, a wave of experienced rookies from elsewhere joined the Academy, such as Bart Petro, [CJ Klakson](@/w/cj-klakson.md) and Damian Adler.
+
+In 2026 the Academy launched its own Instagram channel. The contents consist predominantly of rookie Marta interviewing various personalities: fellow rookies, PTW wrestlers and trainers.
 
 ## References
 
