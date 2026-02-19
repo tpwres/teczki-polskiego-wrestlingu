@@ -90,7 +90,7 @@ Present at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) was [Arek Paterek](@/w
 
 The Polish Internet wrestling community reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with merchandise of international provenance, such as AEW or nWo T-shirts.
 
-In January 2026 [Filip Fux](@/w/filip-fux.md) debuted for [PpW Ewenement Wrestling](@/o/ppw.md), in a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) against [MZW's](@/o/mzw.md) [Tony Sheen](@/w/riverman.md), thus becoming the first active KPW wrestler to fight in the PpW ring.
+In January 2026 [Filip Fux](@/w/filip-fux.md) debuted for [PpW Ewenement Wrestling](@/o/ppw.md), in a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) against [MZW's](@/o/mzw.md) [Tony Sheen](@/w/riverman.md), thus becoming the first active KPW wrestler to fight in the PpW ring. In February he was followed by [Leon Lato](@/w/leon-lato.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 
 ## Championships
 

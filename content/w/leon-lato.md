@@ -30,6 +30,10 @@ Lato usually works solo, although on a few occasions, he formed a tag team with 
 
 At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon faced and defeated the reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) [Chemik](@/w/chemik.md), thus winning his first title.
 
+### PpW Ewenement Wrestling (2026-present)
+
+Leon debuted for [PpW](@/o/ppw.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where he was booked for a Tag Team Match, partnering with [Antoni Ocean](@/w/antoni-ocean.md) against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md). He is the second active KPW wrestler to appear at a PpW show, following [Filip Fux](@/w/filip-fux.md) (who also worked at the same event).
+
 ## International wrestling appearances 
 
 In 2024 Leon made his first handful of appearances outside of Poland. He worked for Passion Pro Wrestling in Hungary, as well as for Bologna-based Italian promotion Wrestling Megastars.
