@@ -15,7 +15,7 @@ METADATA=data/all_matches.json \
          data/all_photos.json \
          data/photo_taggings.json \
          data/mapdata.json
-PLOTS=data/zieloni.svg data/chronology-2.svg
+PLOTS=data/zieloni.svg data/chronology-2.svg data/ptw-exits.svg
 CAL=static/calendar.ics \
     static/calendar-ptw.ics \
     static/calendar-kpw.ics \
@@ -69,6 +69,9 @@ data/chronology-2.svg: const/chronology_2.csv
 
 data/zieloni.svg: const/zieloni.csv
 	bin/build-mg  $< $@
+
+data/ptw-exits.svg: const/ptw-exits.csv
+	bin/build-mg $< $@
 
 static/calendar.ics: content/e/**/*.md
 	bin/build-calendar > $@
