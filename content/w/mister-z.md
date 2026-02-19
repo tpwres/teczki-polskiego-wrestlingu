@@ -93,7 +93,7 @@ Later, during a critical moment of the match, he was seemingly about to tag in f
 
 #### New, better Zmowa
 
-After Fox joined Mister Z's stable, Zmowa managed to hold off its position as most dominant faction in PpW. Mister Z quickly declared himself and his allies - Marco Hammers and Axel Fox - to represent Zmowa in pursuit of [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) to join newly crowned PpW Champion - Olgierd - as dominating force in both solo and Tag Team division of PpW.  
+After Fox joined Mister Z's stable, Zmowa managed to hold off their position as the most dominant faction in PpW. Mister Z quickly declared that he and his allies - Marco Hammers and Axel Fox - would represent Zmowa in the pursuit of the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), and would join the newly crowned [PpW Champion](@/c/ppw-championship.md) Olgierd as the dominating force in both solo and Tag Team division of PpW.
 
 ### Dream Factory Wrestling (2017)
 

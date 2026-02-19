@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Michał "Mutant" Świątkowski, previously known as Daniel Boza, is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md). Previously, he worked for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
+Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md). Previously, he worked for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md) (as Daniel Boza).
 
 ## Basic Info
 

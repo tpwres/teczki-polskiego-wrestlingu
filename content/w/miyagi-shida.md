@@ -48,7 +48,7 @@ Having saved his career, Miyagi clashed with Russian wrestler [Serg Sullivan](@/
 
 #### Miyagi Sigma
 
-From [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) Miyagi joined forces with [Sigma Boy XD](@/w/sigma-boy.md) to form new Tag Team called "Miyagi Sigma". They immedietaly tried to compete against [Royal Rebels](@/tt/royal-rebels.md) - a part of [Pawłowski's](@/w/pan-pawlowski.md) [Nietykalni](@/tt/nietykalni.md) - in a competition for [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). 
+Starting with [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Miyagi joined forces with [Sigma Boy xD](@/w/sigma-boy.md) to form a new Tag Team called "Miyagi Sigma". They immedietaly tried to compete against [Royal Rebels](@/tt/royal-rebels.md) - a part of [Pawłowski's](@/w/pan-pawlowski.md) [Nietykalni](@/tt/nietykalni.md) - in a competition for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). 
 
 ## In wrestling
 

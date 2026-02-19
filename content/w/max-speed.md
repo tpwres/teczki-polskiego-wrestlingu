@@ -54,9 +54,9 @@ The following week Max posted a farewell message on his social media, thanking s
 
 ### Legacy of Wrestling (2025-present)
 
-#### Debut and Road To The Title
+#### Debut and Road to the Title
 
-Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by Wiktor Longman as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee. Thanks to his victory he advanced in a Road To The Title Tournament, earning the spot in a Six-Man Eliminaion Match for inaugural [Legacy of Wrestling European Championship](@/c/low-european-championship.md), in which he was unable to secure a victory.
+Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by [Wiktor](@/w/wiktor-longman.md) as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee. Thanks to his victory he advanced in the Road to the Title Tournament, earning the spot in a Six-Man Elimination Match for the inaugural [Legacy of Wrestling European Championship](@/c/low-european-championship.md), in which he was unable to secure a victory.
 
 ### Maniac Zone Wrestling (2025-present)
 
@@ -66,11 +66,11 @@ Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announc
 
 #### Various appearances
 
-Max Speed made his unannounced debut for [PpW](@/o/ppw.md) in the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where he faced [Bartosz Plata](@/w/plata.md) and rookie Antek in a Triple Threat Match. Later on he managed to win 10.000PLN in a Battle Royal during [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). 
+Max Speed made his unannounced debut for [PpW](@/o/ppw.md) in the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where he faced [Bartosz Plata](@/w/plata.md) and rookie Antek in a Triple Threat Match. Later on he managed to win 10,000&nbsp;PLN in a Battle Royal at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). 
 
 ## International wrestling appearances
 
-From 2024 onwards Max started taking international bookings. His debut outside of Poland took place in World Wrestling Austria in January 2024, and he also debuted in Hungary later that year. From 2025 onwards started making appearances in various federations across the Europe, including Ukraine, Austria, Italy and Spain.
+From 2024 onwards Max started taking international bookings. His debut outside of Poland took place in World Wrestling Austria in January 2024, and he also debuted in Hungary later that year. From 2025 onwards he started making appearances in various federations across Europe, including Ukraine, Austria, Italy and Spain.
 
 ## In wrestling
 
