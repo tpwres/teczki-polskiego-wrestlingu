@@ -8,3 +8,5 @@
 08 = { path = "damian-adler.webp", caption = "Image announcing Damian Adler.", source = "Official PTW Facebook" }
 09 = { path = "baron-wolfgang-storm.webp", caption = "Image announcing Baron Wolfgang Storm.", source = "Official PTW Facebook" }
 10 = { path = "ben-rodgers.webp", caption = "Image announcing Ben Rodgers.", source = "Official PTW Facebook" }
+11 = { path = "nano-lopez.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
+12 = { path = "krzysztof-skwarczynski.webp", caption = "Image announcing the host, [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md).", source = "Official PTW Facebook" }
