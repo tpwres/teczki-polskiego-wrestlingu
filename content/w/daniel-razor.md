@@ -22,9 +22,13 @@ Daniel Razor is a Polish wrestler known for his time in [Prime Time Wrestling](@
 
 ### Prime Time Wrestling (2025-present)
 
+#### Debut and early appearances
+
 At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md) was put in a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) match as his "last chance for the gold" after his return. [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) offered to hand-pick a partner for him, who was revealed to be a PTW Academy rookie - Daniel Razor. The duo worked as babyfaces but failed to score the titles (which went to [Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md), added mid-match), however Razor gained Nano's and [L'Orda's](@/tt/l-orda.md) respect, establishing himself as a babyface.
 
 To deflect the accusations of being Pawłowski's favorite, Razor posted a video where he clearly explained his allegiance, stating that he's grateful that Pawłowski has given him a chance, but now he is going to carve his own path.
+
+#### PTW Underground Champion
 
 At the [next show](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Razor joined the Gold Rush Rumble for a shot at the [PTW Underground Championship](@/c/ptw-underground-championship.md), and managed to remain in the ring until the end, once again crossing paths with [Nano Lopez](@/w/nano-lopez.md). But it was the Spanish wrestler who won the match and title shot by eliminating Razor.
 

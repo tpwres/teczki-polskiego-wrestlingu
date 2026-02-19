@@ -92,6 +92,8 @@ Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux
 In 2023 Queen started taking bookings from abroad, making regular appearances in Hungary for HCW and Budapest Dojo, Austria for Rings of Europe, Germany for wXw, Thats Awesome Wrestling, Eastside Revolution Wrestling, Catch Factory and Project Nova.
 He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jacob Crane in TAW, and partnered in mixed tag team matches with Iva Kolasky and Sultan Suzu also for TAW.
 
+In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to take part in PpW's excursion to Japan in March 2026, at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Chris Brookes in a Singles Match. Not long after, Gabriel's Japanese debut was moved even earlier, to Big Japan Pro Wrestling's [BJ VOYAGER!][bjw-voy] show on March 7th.
+
 ## In wrestling
 
 * Finishers:
@@ -134,3 +136,6 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24919)
+* [BJW's announcement of Gabriel Queen's debut](https://x.com/bjwofficial/status/2022996603234378061)
+
+[bjw-voy]: https://bjw.co.jp/schedule/s2026-03-07/

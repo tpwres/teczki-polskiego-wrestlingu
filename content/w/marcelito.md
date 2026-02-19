@@ -85,11 +85,11 @@ In October 2024 Marcelito performed at [Maniac Zone Wrestling](@/o/mzw.md) show 
 
 On 14th of August 2024 Marcelito was one of the wrestlers starring in the trailer for a new Polish wrestling federation - [Legacy of Wrestling](@/o/low.md).
 
-In November 2024 it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) - in another unsuccessful bout.
+In November 2024 it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) - in another unsuccessful bout. At [Four the Glory](@/e/low/2025-12-20-low-4.md) he was defeated by [Boro](@/w/boro.md).
 
 ## International wrestling appearances
 
-In 2022 and 2023 Marcelito made a handful of appearances for Austiran promotions Rings of Europe and PTW:WWA, which was owned by the fellow PTW wrestler [Krampus](@/w/krampus.md).
+In 2022 and 2023 Marcelito made a handful of appearances for Austrian promotions Rings of Europe and PTW:WWA, the latter of which was owned by fellow PTW wrestler [Krampus](@/w/krampus.md).
 
 ## In wrestling
 

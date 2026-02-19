@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "kpw-arena-22-michal-fux.jpg", caption = "Michał poses for the fans, [KPW Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).", source = "M3n747" }
 +++
 
-Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), where he is one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md).
+Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), where he is one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md). He also worked for [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 

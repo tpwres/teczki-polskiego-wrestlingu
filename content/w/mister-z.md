@@ -91,6 +91,10 @@ In retaliation, Mister Z arranged the main event of [Surowy Klimat](@/e/ppw/2025
 Fox was bitter over having to stick his neck out for Goblin's nemesis instead of going for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). Axel no-showed at the beginning of the match, which granted a huge advantage to Zmowa.
 Later, during a critical moment of the match, he was seemingly about to tag in for the beaten-up Goblin, only to betray his old friend which granted Zmowa another victory, as well as a new member.
 
+#### New, better Zmowa
+
+After Fox joined Mister Z's stable, Zmowa managed to hold off their position as the most dominant faction in PpW. Mister Z quickly declared that he and his allies - Marco Hammers and Axel Fox - would represent Zmowa in the pursuit of the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), and would join the newly crowned [PpW Champion](@/c/ppw-championship.md) Olgierd as the dominating force in both solo and Tag Team division of PpW.
+
 ### Dream Factory Wrestling (2017)
 
 In September and December 2017 Mister Z - under his "Cade Bruce" alias - made appearances at two shows organised by [Dream Factory Wrestling](@/o/dfw.md). He lost to [Prince Victor](@/w/vic-golden.md) and in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). He also lost to [Corin Mear](@/w/corin-mear.md) at [DFW Dream More And Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md).
@@ -144,11 +148,11 @@ In August 2023 Mister Z made a singular international appearance during Passion 
     {{ music(yt='kPeRVlK8YWI')}}
     {{ music(spot='6CnNh8EX2Rbu3647wu9CG7')}}
     {{ music(apple='1577219021?i=1577219022')}}
-  - "100 joints" by 2 Chainz
-    {{ org_badge(orgs=['ppw']) }} (2025-, as part of [Zmowa](@/tt/zmowa.md)) <br>
-    {{ music(yt='NXX3mxDA26s')}}
-    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
-    {{ music(apple='1440826084?i=1440826489')}}
+   - "HUNDRED JOINTS" by Pharmacist & Cloudymane
+    {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ music(yt='7cXmA6CiW-g')}}
+    {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
+    {{ music(apple='1606979069?i=1606979070')}}
     
 ## Championships and accomplishments
 

@@ -8,13 +8,14 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, a trainee of PpW Dojo and the wife of [Istociarz](@/w/istociarz.md). 
+Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/ewenement-dojo.md) and the wife of [Istociarz](@/w/istociarz.md). 
 
 ## Basic info
 * Years active: N/A
 * Gimmicks/nicknames:
   - Istotna Martynka {{ org_badge(orgs=['ppw']) }}
   - Siostra Kimono {{ org_badge(orgs=['ppw']) }}
+  - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excursion)
 * Trained by:
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
 
@@ -32,6 +33,8 @@ Istotna Martynka joined [Ewenement Dojo](@/o/ewenement-dojo.md) at some point in
 
 Besides that, Martynka also hold a position of PpW's Director of Staff, managing all of the staff workers during PpW events.
 
+On February 14th, 2026, it was announced that Istotna Martynka (as Referee Martyna) would make a one-off referee appearance during PpW's Japanese excrusion in March.
+
 ## Championships and accomplishments
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
@@ -42,5 +45,9 @@ Besides that, Martynka also hold a position of PpW's Director of Staff, managing
 * [IstotaWrestlingu][istota] on YouTube
 * [istotawrestlingu](https://www.instagram.com/istotawrestlingu/) on Instagram
 * [Official Facebook profile](https://www.facebook.com/profile.php?id=61565897124134)
+
+## References
+
+* [Martynka's referee announcement](https://www.instagram.com/ppw_global/p/DUulVluknWB/)
 
 [istota]: https://www.youtube.com/@IstotaWrestlingu/

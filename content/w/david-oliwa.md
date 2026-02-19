@@ -64,7 +64,9 @@ Although Team Visegrad had been active in Austria since 2021, Godzina Zero 2025 
 
 ### Legacy of Wrestling (2025)
 
-In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at their [second show](@/e/low/2025-04-06-low-2.md), where he faced - and defeated - [Marcelito](@/w/marcelito.md) in a Singles Match. 
+#### Debut and Road To The Title
+
+In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at their [second show](@/e/low/2025-04-06-low-2.md), where he faced - and defeated - [Marcelito](@/w/marcelito.md) in a Singles Match. Later on, at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md), he defeated Zétény to qualify for the final match for the inaugural [Legacy of Wrestling European Championship](@/c/low-european-championship.md), which took place at [Four the Glory](@/e/low/2025-12-20-low-4.md). During that match Oliwa was eliminated by [Axel Fox](@/w/axel-fox.md) and [Gustav Gryffin](@/w/gustav-gryffin.md).
 
 ## International wrestling appearances 
 
