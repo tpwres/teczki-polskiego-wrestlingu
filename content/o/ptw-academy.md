@@ -22,6 +22,8 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
     - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - Owner, Head and Promo Coach (2021-)
     - [Nano Lopez](@/w/nano-lopez.md) - Coach (2021-)
     - [Diana Strong](@/w/diana-strong.md) - Coach (2024-)
+    - [Vincent Caravaggio](@/w/vincent-caravaggio.md) - Coach (2025-)
+    - [Alex Brave](@/w/alex-brave.md) - Coach (2025-)
   * Former:
     - [Taras](@/w/taras.md) - Coach (2022 - 2024)
     - [Disco Pablo](@/w/disco-pablo.md) - Assistant Coach (2022 - 2024)
@@ -33,7 +35,8 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
     - [John Klinger](@/w/bad-bones.md) - Guest Coach (2022 - 2023)
     - [Renegade](@/w/renegade.md) - Guest Coach (2022-2024)
     - [Krampus](@/w/krampus.md) - Guest Coach (2022-2024)
-  * Seminary hosts:
+    - [Max Speed](@/w/max-speed.md) - Coach (2024-2025)
+    * Seminary hosts:
     - [Santino Marella](@/w/santino.md) (2021 - 2022)
     - Chris Masters (Feb 2022)
     - [Nick Aldis](@/w/nick-aldis.md) (Feb 2022)
@@ -49,8 +52,13 @@ _Listed in alphabetical order:_
 
 * [Alex Brave](@/w/alex-brave.md)
 * Arczi Czajka
+* Bart Petro
+* [Boguś](@/w/bogus.md)
+* [Bumper](@/w/bumper.md)
+* Dropper
 * [CJ Klakson](@/w/cj-klakson.md)
 * [Daniel Razor](@/w/daniel-razor.md)
+* Damian Adler
 * [Disco Pablo](@/w/disco-pablo.md)
 * [Karyna](@/w/karyna.md)
 * [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)
@@ -107,9 +115,10 @@ During the massive wave of [PTW Exits](@/a/ptw-exits.md) following [PTW #6: Tota
 
 ### 2025-present: Rebuild
 
-Slowly but surely, PTW Academy rebuilt itself in te new place. Over the course of 2025 various rookies got called up to PTW programming. Referee Herno was dubbed the "Custodian of Academy" - a role of unknown meaning, possibly organizational. In addition, a wave of experienced rookies from elsewhere joined the Academy, such as Bart Petro, [CJ Klakson](@/w/cj-klakson.md) and Damian Adler.
+Slowly but surely, PTW Academy rebuilt itself in te new place. [Max Speed](@/w/max-speed.md), [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) all took on trainer responsibilities.
+Over the course of 2025 various homegrown rookies got called up to PTW programming. [Referee Herno](@/w/sedzia-herno.md) was dubbed the "Custodian of Academy" - a role of unknown meaning, possibly organizational. In addition, a wave of experienced rookies from elsewhere joined the Academy, such as Bart Petro, [CJ Klakson](@/w/cj-klakson.md) and Damian Adler.
 
-In 2026 the Academy launched its own Instagram channel. The contents consist predominantly of rookie Marta interviewing various personalities: fellow rookies, PTW wrestlers and trainers.
+In 2026 the Academy launched its own Instagram channel. The contents consist predominantly of _rookie_ Marta interviewing various personalities: fellow rookies, PTW wrestlers and trainers.
 
 ## References
 
