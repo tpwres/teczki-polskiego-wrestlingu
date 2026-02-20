@@ -1,14 +1,15 @@
 #! /usr/bin/env python3
 
+import argparse
 from pathlib import Path
 from collections import Counter
-from articles import load_names_with_aliases
 import json
 from typing import cast
 from utils import RichEncoder, accepted_name
 from card import CardParseError, names_in_match, teams_in_match
 from page import EventPage
 from sys import stderr, exit
+from content import FilesystemTree, ZipContentTree
 
 OrgYears = dict[str, int]
 CareerYears = dict[int, OrgYears]
@@ -105,36 +106,52 @@ def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
         year.update(right[key])
     return result
 
-def merge_aliases(career: dict[str, CareerYears]):
+def load_names_with_aliases(content) -> dict[str, set[str]]:
+    name_files = content.glob('content/w/*.md')
+    names = {}
+    for stream in name_files:
+        path = Path(stream.name)
+        if path.name == '_index.md': continue
+        if path.name.startswith('.'): continue
+
+        talent = content.page(stream)
+        match talent.front_matter:
+            case {"extra": dict(extra), "title": str(title)}:
+                preferred_name = extra.get('career_name', title)
+                names[preferred_name] = set([])
+                aliases = extra.get('career_aliases', [])
+                names[preferred_name] |= set(cast(list[str], aliases))
+
+    return names
+
+def merge_aliases(content, career: dict[str, CareerYears]):
     """
     Mutate the career dict passed, by removing entries which are only ever
     listed as a career_aliases entry in some page. Merge them to their primary name.
     """
-    all_names = load_names_with_aliases()
+    all_names = load_names_with_aliases(content)
     for main_name, aliases in all_names.items():
         for alias in aliases:
             if alias not in career: continue
             c = career.pop(alias)
             career[main_name] = merge_years(career.get(main_name, {}), c)
 
-def main():
+def process(content, output_path):
     careers = {}
     careers_by_file = {}
     team_careers = {}
     team_cbf = {}
-    cwd = Path.cwd()
     num_errors = 0
 
-    events_dir = cwd / "content/e"
     # Omit _index.md pages
-    event_pages = events_dir.glob("**/????-??-??-*.md")
+    event_pages = content.glob("content/e/**/????-??-??-*.md")
 
-    for path in event_pages:
+    for event_file in event_pages:
         try:
-            page = EventPage(path, verbose=False)
+            page = EventPage(event_file, verbose=False)
             card = page.card
             if not card.matches:
-                stderr.write(f"{path}: Warning: no card available, skipping\n")
+                stderr.write(f"{page.path}: Warning: no card available, skipping\n")
                 continue
             update_career(careers, team_careers, page)
             update_cbf(careers_by_file, team_cbf, page)
@@ -145,9 +162,9 @@ def main():
         stderr.write("Errors found, aborting\n")
         exit(1)
 
-    merge_aliases(careers)
+    merge_aliases(content, careers)
 
-    data_dir = cwd / 'data'
+    data_dir = output_path
     data_dir.mkdir(exist_ok=True)
 
     with (data_dir / 'career.json').open('w') as f:
@@ -162,6 +179,15 @@ def main():
         print("Saving team career v2 to %s" % f.name)
         json.dump(team_cbf, f, cls=RichEncoder)
 
-
 if __name__ == "__main__":
-    main()
+    cwd = Path.cwd()
+    parser = argparse.ArgumentParser(prog='build-metadata')
+    parser.add_argument('-z', '--zipfile')
+    args = parser.parse_args()
+    if args.zipfile:
+        content = ZipContentTree(Path(args.zipfile.strip()))
+    else:
+        content = FilesystemTree(cwd)
+
+    output_dir = cwd / 'data'
+    process(content, output_dir)

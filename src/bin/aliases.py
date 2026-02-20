@@ -1,17 +1,18 @@
-
 #! /usr/bin/env python3
 
-from page import all_talent_pages, all_event_pages
+import argparse
+from content import ZipContentTree, FilesystemTree
+from page import all_talent_pages
 from card import names_in_match
 from typing import cast, Any
 from pathlib import Path
 import json
 
-def main():
-    content_root = Path.cwd() / 'content'
+def process(content, output_dir):
     aliases = {}
 
-    for page in all_event_pages():
+    all_event_pages = (content.page(pageio) for pageio in content.glob('content/e/**/????-??-??-*.md'))
+    for page in all_event_pages:
         card = page.card
         if not card: continue
 
@@ -27,7 +28,7 @@ def main():
             if person.link:
                 aliases[person.name] = clean_link(person.link)
 
-    save_as_json(aliases, Path('data/aliases.json'))
+    save_as_json(aliases, output_dir / 'aliases.json')
 
 
 def clean_link(link: str) -> str:
@@ -38,4 +39,15 @@ def save_as_json(data: Any, path: Path):
         json.dump(data, fp)
 
 if __name__ == "__main__":
-    main()
+    cwd = Path.cwd()
+    parser = argparse.ArgumentParser(prog='build-metadata')
+    parser.add_argument('-z', '--zipfile')
+    args = parser.parse_args()
+    if args.zipfile:
+        content = ZipContentTree(Path(args.zipfile.strip()))
+    else:
+        content = FilesystemTree(cwd)
+
+    output_dir = cwd / 'data'
+
+    process(content, output_dir)

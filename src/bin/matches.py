@@ -1,9 +1,11 @@
 #! /usr/bin/env python3
 
+import argparse
 import re
 from utils import accepted_name
 from card import Match, CardParseError, teams_in_match
 from page import EventPage
+from content import ZipContentTree, FilesystemTree
 from pathlib import Path
 from datetime import date
 import json
@@ -19,28 +21,26 @@ class MatchEncoder(json.JSONEncoder):
             case _:
                 return super().default(obj)
 
-def main():
+def process(content, output_dir):
     num_errors = 0
     appearances = {}
     crew_appearances = {}
     all_bouts = []
-    cwd = Path.cwd()
     # 1. List all event pages
-    content_dir = cwd / 'content'
-    events_dir = content_dir / "e"
-    event_pages = events_dir.glob("**/????-??-??-*.md")
+    event_pages = content.glob("content/e/**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
     global_match_num = 0
-    for path in event_pages:
+    for pageio in event_pages:
+        path = content.to_path(pageio)
         try:
-            page = EventPage(path, verbose=False)
+            page = EventPage(pageio, verbose=False)
             card = page.card
             if not card.matches: continue
         except CardParseError:
             num_errors += 1
             continue
 
-        relative_path = path.relative_to(content_dir).as_posix()
+        relative_path = path.relative_to(content.root).as_posix()
         predicted = card.params.get('predicted', False)
         incomplete = card.params.get('incomplete', False)
         unofficial = card.params.get('unofficial', False)
@@ -94,7 +94,7 @@ def main():
         stderr.write("Errors found, aborting\n")
         exit(1)
 
-    data_dir = cwd / 'data'
+    data_dir = output_dir
     data_dir.mkdir(exist_ok=True)
 
     with (data_dir / 'appearances.json').open('w') as f:
@@ -115,4 +115,15 @@ def main():
         json.dump(all_bouts, f, cls=MatchEncoder)
 
 if __name__ == "__main__":
-    main()
+    cwd = Path.cwd()
+    parser = argparse.ArgumentParser(prog='build-metadata')
+    parser.add_argument('-z', '--zipfile')
+    args = parser.parse_args()
+    if args.zipfile:
+        content = ZipContentTree(Path(args.zipfile.strip()))
+    else:
+        content = FilesystemTree(cwd)
+
+    output_dir = cwd / 'data'
+
+    process(content, output_dir)

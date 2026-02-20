@@ -1,9 +1,11 @@
 #! /usr/bin/env python3
 
+import argparse
+from content import ZipContentTree, FilesystemTree
 from collections import namedtuple
 from pathlib import Path
 from typing import Any, Callable, Iterable, cast
-from page import page, TalentPage
+from page import TalentPage
 from unidecode import unidecode
 import json, re, yaml
 
@@ -12,9 +14,7 @@ ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country'
 LookupFlagFn = Callable[[str|TalentPage], tuple[str, str]]
 MakeKeyFn = Callable[[str], str]
 
-def main():
-    content_path = Path.cwd() / 'content'
-
+def process(content, output_dir):
     # TODO: Replace with career_v2 and stop building the old file.
     careers = json.load(Path('data/career.json').open())
     name_to_flag = yaml.safe_load(Path('const/name-to-flag.yaml').open())
@@ -41,7 +41,7 @@ def main():
 
         if path:
             # This is a name that has an article
-            talent_page = TalentPage(content_path / path, verbose=False)
+            talent_page = content.page(content.open(path))
             other_names = [alias for alias, talent_path in alias_map.items() if talent_path == path and alias != name]
             all_names |= set(load_talent(talent_page, path, lookup_flag, make_key=sort_key, other_names=other_names))
         else:
@@ -127,4 +127,15 @@ def save_as_json(data: Any, path: Path):
         json.dump(data, fp)
 
 if __name__ == "__main__":
-    main()
+    cwd = Path.cwd()
+    parser = argparse.ArgumentParser(prog='build-metadata')
+    parser.add_argument('-z', '--zipfile')
+    args = parser.parse_args()
+    if args.zipfile:
+        content = ZipContentTree(Path(args.zipfile.strip()))
+    else:
+        content = FilesystemTree(cwd)
+
+    output_dir = cwd / 'data'
+
+    process(content, output_dir)

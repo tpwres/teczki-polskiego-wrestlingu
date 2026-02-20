@@ -23,25 +23,6 @@ def load_existing_name_articles() -> dict[str, Path]:
 
     return names
 
-def load_names_with_aliases() -> dict[str, set[str]]:
-    cwd = Path.cwd()
-    talent_dir = cwd / 'content/w'
-    name_files = talent_dir.glob('*.md')
-    names = {}
-    for path in name_files:
-        if path.name == '_index.md': continue
-        if path.name.startswith('.'): continue
-
-        talent = page(path)
-        match talent.front_matter:
-            case {"extra": dict(extra), "title": str(title)}:
-                preferred_name = extra.get('career_name', title)
-                names[preferred_name] = set([])
-                aliases = extra.get('career_aliases', [])
-                names[preferred_name] |= set(cast(list[str], aliases))
-
-    return names
-
 def load_event_articles() -> dict[str, Path]:
     cwd = Path.cwd()
     events_dir = cwd / 'content/e'

@@ -1,8 +1,10 @@
+import argparse
+from content import ZipContentTree, FilesystemTree
 from typing import cast, Any, TypedDict, Optional
 from functools import singledispatch
 from itertools import chain
 from page import EventPage, TalentPage, Article, OrgPage, Page, VenuePage
-from page import all_event_pages, all_talent_pages, page, pages_under
+from page import all_talent_pages, page, pages_under
 from pathlib import Path
 import tomllib, re, json
 
@@ -74,6 +76,7 @@ def parse_names(text):
 
 def combine_path(event_page: EventPage, subdir, photo_path: str) -> str:
     """Given an event page and a photo path that should be located in its directory, generate a path from content root."""
+    # TODO: This should be an operation on contenttree? 
     content_root = Path.cwd() / 'content'
     relative = event_page.path.relative_to(content_root)
     slugified = Path(str(relative).replace('_', '-'))
@@ -99,12 +102,13 @@ def fix_caption(caption: str) -> str:
     """Tomllib loads long strings differently from zola."""
     return caption.replace("\n\n", "\n")
 
-def build_event_photos():
+def build_event_photos(content, output_dir):
     all_photos = []
     photo_taggings = {}
     photo_index = 0
 
-    for page in all_event_pages():
+    for pageio in content.glob('content/e/**/????-??-??-*.md'):
+        page = content.page(pageio)
         fm = page.front_matter
         gallery = load_gallery(fm, page.path, verbose=False)
         if not gallery: continue
@@ -134,10 +138,10 @@ def build_event_photos():
             )
             photo_index += 1
 
-    save_as_json(all_photos, Path('data/all_photos.json'))
-    save_as_json(photo_taggings, Path('data/photo_taggings.json'))
+    save_as_json(all_photos, output_dir / 'all_photos.json')
+    save_as_json(photo_taggings, output_dir / 'photo_taggings.json')
 
-def build_other_photos():
+def build_other_photos(content, output_dir):
     other_photos = []
     photo_index = 0
     root = Path.cwd()
@@ -145,11 +149,15 @@ def build_other_photos():
     def has_template(page, template):
         return page.front_matter and page.front_matter['template'] == template
 
-    talent_pages = (doc for doc in all_talent_pages() if has_template(doc, 'talent_page.html'))
-    org_pages = (page for page in pages_under(root / 'content/o') if has_template(page, 'org_page.html'))
-    venue_pages = (page for page in pages_under(root / 'content/v') if has_template(page, 'venue_page.html'))
-    champ_pages = (page for page in pages_under(root / 'content/c') if page.front_matter)
-    article_pages = (page for page in pages_under(root / 'content/a') if page.front_matter)
+    def load_pages(pageios):
+        return (content.page(pageio) for pageio in pageios)
+
+    all_talent_pages = load_pages(content.glob('content/e/**/????-??-??-*.md'))
+    talent_pages = (doc for doc in all_talent_pages if has_template(doc, 'talent_page.html'))
+    org_pages = (page for page in load_pages(content.glob('content/o/*.md')) if has_template(page, 'org_page.html'))
+    venue_pages = (page for page in load_pages(content.glob('content/v/*.md')) if has_template(page, 'venue_page.html'))
+    champ_pages = (page for page in load_pages(content.glob('content/c/*.md')) if page.front_matter)
+    article_pages = (page for page in load_pages(content.glob('content/a/*.md')) if page.front_matter)
     all_pages = chain(talent_pages, org_pages, venue_pages, champ_pages, article_pages)
 
     for page in all_pages:
@@ -174,7 +182,7 @@ def build_other_photos():
             other_photos.append((key, info))
             photo_index += 1
 
-    save_as_json(other_photos, Path('data/talent_photos.json'))
+    save_as_json(other_photos, output_dir / 'talent_photos.json')
 
 def save_as_json(data: Any, path: Path):
     with path.open('w') as fp:
@@ -195,9 +203,20 @@ def page_type_key(page: Page) -> str:
         case _:
             raise ValueError(f"Unknown page type for page {page!r}")
 
-def main():
-    build_event_photos()
-    build_other_photos()
+def process(content, output_dir):
+    build_event_photos(content, output_dir)
+    build_other_photos(content, output_dir)
 
 if __name__ == "__main__":
-    main()
+    cwd = Path.cwd()
+    parser = argparse.ArgumentParser(prog='build-metadata')
+    parser.add_argument('-z', '--zipfile')
+    args = parser.parse_args()
+    if args.zipfile:
+        content = ZipContentTree(Path(args.zipfile.strip()))
+    else:
+        content = FilesystemTree(cwd)
+
+    output_dir = cwd / 'data'
+
+    process(content, output_dir)

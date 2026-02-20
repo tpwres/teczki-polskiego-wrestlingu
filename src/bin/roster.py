@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+import argparse
 from pathlib import Path
 from utils import accepted_name
 import json
@@ -7,19 +8,19 @@ from collections import Counter
 from functools import reduce
 from card import CardParseError, MatchParseError, extract_names
 from page import EventPage
+from content import ZipContentTree, FilesystemTree
 from sys import stderr, exit
 
-def main():
+def process(content, output_dir):
     errors = []
     org_rosters = {}
     cwd = Path.cwd()
     # 1. List all event pages
-    events_dir = cwd / "content/e"
-    event_pages = events_dir.glob("**/????-??-??-*.md")
+    event_pages = content.glob("content/e/**/????-??-??-*.md")
     # 2. For each event page, determine it's organization (can be more than one) from page name or frontmatter
-    for page_path in event_pages:
+    for pageio in event_pages:
         try:
-            page = EventPage(page_path, verbose=False)
+            page = EventPage(pageio, verbose=False)
 
             # 3. Find and read the card() block
             card = page.card
@@ -43,7 +44,7 @@ def main():
         stderr.write("Errors found, aborting\n")
         exit(1)
 
-    data_dir = cwd / "data"
+    data_dir = output_dir
     data_dir.mkdir(exist_ok=True)
     # 6. At the end, sanitize the set: remove duplicates where one is a md link and the other isn't, keeping the link.
     for org, roster in org_rosters.items():
@@ -85,4 +86,15 @@ def sanitize_roster(roster):
     return out
 
 if __name__ == "__main__":
-    main()
+    cwd = Path.cwd()
+    parser = argparse.ArgumentParser(prog='build-metadata')
+    parser.add_argument('-z', '--zipfile')
+    args = parser.parse_args()
+    if args.zipfile:
+        content = ZipContentTree(Path(args.zipfile.strip()))
+    else:
+        content = FilesystemTree(cwd)
+
+    output_dir = cwd / 'data'
+
+    process(content, output_dir)

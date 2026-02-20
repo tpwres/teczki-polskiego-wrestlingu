@@ -5,11 +5,9 @@ import sys
 from pathlib import Path
 from typing import Any, Literal, TypedDict, cast
 from urllib.parse import quote
+from content import ZipContentTree, FilesystemTree
 
 from mistletoe import Document, HtmlRenderer  # pyright: ignore[reportMissingTypeStubs]
-
-from page import Page, page
-
 
 class Geometry(TypedDict):
     """GeoJSON geometry - supports all geometry types"""
@@ -122,39 +120,39 @@ def page_description(page) -> str:
     return f"[{fm['title']}]({path})"
 
 
-def load_geojson_file(path: Path) -> list[GeoJSONFeature]:
+def load_geojson_file(io) -> list[GeoJSONFeature]:
     """Load features from a GeoJSON file"""
-    with path.open("r") as f:
-        data = json.load(f)
-        match data:
-            case {"features": list(features)}:
-                return features
-            case {"type": "Feature"}:
-                return [data]
-            case {"type": "FeatureCollection"}:
-                return [data]
-            case _:
-                raise ValueError(
-                    "GeoJSON data must contain either a list of Features or be a single Feature"
-                )
+    data = json.load(io)
+    match data:
+        case {"features": list(features)}:
+            return features
+        case {"type": "Feature"}:
+            return [data]
+        case {"type": "FeatureCollection"}:
+            return [data]
+        case _:
+            raise ValueError(
+                "GeoJSON data must contain either a list of Features or be a single Feature"
+            )
 
 
-def build_features_from(path: Path) -> list[GeoJSONFeature]:
+def build_features_from(content) -> list[GeoJSONFeature]:
     """
     Scan directory for .md and .geojson files and return a list of GeoJSON features
     """
     features = []
 
-    for file_path in path.glob("*"):
+    for pageio in content.glob('content/v/*'):
+        file_path = content.to_path(pageio)
         match file_path:
             case Path(suffix=".md", stem=stem) if stem != "_index":
-                venue = page(file_path)
+                venue = content.page(pageio)
                 feature = create_geojson(venue)
                 if not feature:
                     continue
                 features.append(feature)
             case Path(suffix=".geojson"):
-                new_features = load_geojson_file(file_path)
+                new_features = load_geojson_file(pageio)
                 for i, feature in enumerate(new_features, start=1):
                     props = feature.get("properties", {})
                     desc = props.get("description")
@@ -177,13 +175,20 @@ def parse_args():
         nargs="?",
         help="Output GeoJSON file (default is stdout)",
     )
+    parser.add_argument('-z', '--zipfile')
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
+    cwd = Path.cwd()
 
-    features = build_features_from(Path("content/v"))
+    if args.zipfile:
+        content = ZipContentTree(Path(args.zipfile.strip()))
+    else:
+        content = FilesystemTree(cwd)
+
+    features = build_features_from(content)
     output_file = Path(args.output_file).open("w") if args.output_file else sys.stdout
     json.dump(features, output_file)
 

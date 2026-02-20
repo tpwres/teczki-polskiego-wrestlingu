@@ -18,16 +18,17 @@ class Page:
     front_offset: int
     body: str
 
-    def __init__(self, path: Path, verbose: bool = True):
+    def __init__(self, io: TextIOBase, verbose: bool = True):
         if verbose:
             print("Loading %s" % path)
 
-        self.path = path
-        self.front_matter, self.front_offset, self.body = self.parse_content(path.open('rt', encoding='utf-8'))
+        self.path = Path(io.name)
+        self.front_matter, self.front_offset, self.body = self.parse_content(io)
 
     def parse_content(self, io: TextIOBase) -> Tuple[FrontMatter, int, str]:
         line = io.readline()
         if line.strip() != '+++':
+            breakpoint()
             raise ValueError(f"Page `{self.path}` did not start with frontmatter delimiter `+++`")
 
         matter = []
@@ -55,16 +56,16 @@ class EventPage(Page):
 
     date_org_re = re.compile(r'^(?P<date>\d{4}-\d\d-\d\d)-(?P<orgs>[^-]+)')
 
-    def __init__(self, path: Path, verbose: bool = True):
-        super().__init__(path, verbose)
+    def __init__(self, io: TextIOBase, verbose: bool = True):
+        super().__init__(io, verbose)
 
-        match EventPage.date_org_re.match(path.stem):
+        match EventPage.date_org_re.match(self.path.stem):
             case re.Match() as m:
                 ymd = m.group('date')
                 self.event_date = datetime.strptime(ymd, '%Y-%m-%d').date()
                 self.orgs = m.group('orgs').split('_')
 
-        self.card = Card(self.body, path, self.front_offset)
+        self.card = Card(self.body, self.path, self.front_offset)
 
     def __repr__(self):
         return f"<EventPage({self.path}) date={self.event_date} orgs={self.orgs}>"
@@ -87,6 +88,7 @@ class Article(Page):
 def page(path: Path, verbose: bool = False) -> Page:
     """Returns a subclass of Page, based on what's the most appropriate
     for the path given."""
+    # DEPRECATED, should be replaced with .page on a FileSystemtree or ZipContentTree
     if Path('content/e') in path.parents or EventPage.date_org_re.match(path.stem):
         return EventPage(path, verbose)
     elif path.match('o/*.md'):
