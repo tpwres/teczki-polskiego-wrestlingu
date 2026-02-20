@@ -25,10 +25,15 @@ has_video = false
 * The next day, Baron Wolfgang Storm and Ben Rodgers were added to the card.
 * The final entrant to the tournament was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
 * On the 19th, the tag team of Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
+* The first World Cup Match, announced on 20.02.2026, was Baron Wolfgang Storm vs [El G](@/w/el-g.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[El G](@/w/el-g.md)'
+- - 'Baron Wolfgang Storm'
+  - s: World Cup Match 
+  - nc: upcoming
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '???'
   - nc: upcoming
@@ -37,9 +42,6 @@ has_video = false
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
 - - 'Andi ZickZack'
-  - '???'
-  - nc: upcoming
-- - '[El G](@/w/el-g.md)'
   - '???'
   - nc: upcoming
 - - '[Daniel Razor](@/w/daniel-razor.md)'
@@ -54,9 +56,6 @@ has_video = false
   - '???'
   - nc: upcoming
 - - 'Damian Adler'
-  - '???'
-  - nc: upcoming
-- - 'Baron Wolfgang Storm'
   - '???'
   - nc: upcoming
 - - 'Ben Rodgers'
