@@ -31,9 +31,9 @@ has_video = false
 
 {% card(predicted=true) %}
 - - '[El G](@/w/el-g.md)'
-- - 'Baron Wolfgang Storm'
+  - 'Baron Wolfgang Storm'
   - s: World Cup Match 
-  - nc: upcoming
+    nc: upcoming
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '???'
   - nc: upcoming
