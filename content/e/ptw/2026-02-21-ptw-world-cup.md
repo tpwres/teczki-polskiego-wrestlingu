@@ -26,6 +26,7 @@ has_video = false
 * The final entrant to the tournament was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
 * On the 19th, the tag team of Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
 * The first World Cup Match, announced on 20.02.2026, was Baron Wolfgang Storm vs [El G](@/w/el-g.md).
+* On the day of the show, PTW announced referees [Klaudiusz](@/w/sedzia-klaudiusz.md) & [Herno](@/w/sedzia-herno.md), and the commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) & [Krystian "Resivny" Smoleń](@/w/resivny.md), as well as the match-ups of [Nano Lopez](@/w/nano-lopez.md) vs Andi ZickZack, Damian Adler vs Ben Rodgers and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Blaze](@/w/blaze.md).
 
 ## Predicted card
 
@@ -35,15 +36,17 @@ has_video = false
   - s: World Cup Match 
     nc: upcoming
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '???'
-  - nc: upcoming
+  - '[Blaze](@/w/blaze.md)'
+  - s: World Cup Match 
+    nc: upcoming
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Renegade](@/w/renegade.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
 - - 'Andi ZickZack'
-  - '???'
-  - nc: upcoming
+  - '[Nano Lopez](@/w/nano-lopez.md)'
+  - s: World Cup Match 
+    nc: upcoming
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
@@ -52,25 +55,18 @@ has_video = false
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - s: Battle Royal
     nc: upcoming
-- - '[Blaze](@/w/blaze.md)'
-  - '???'
-  - nc: upcoming
 - - 'Damian Adler'
-  - '???'
-  - nc: upcoming
-- - 'Ben Rodgers'
-  - '???'
-  - nc: upcoming
-- - '[Nano Lopez](@/w/nano-lopez.md)'
-  - '???'
-  - nc: upcoming
+  - 'Ben Rodgers'
+  - s: World Cup Match 
+    nc: upcoming
 - - 'Synowie Lasu: Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '???'
   - s: Tag Team match
     nc: upcoming
 - credits:
-    Host: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    Commentary: '???'
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
 ### Recap
