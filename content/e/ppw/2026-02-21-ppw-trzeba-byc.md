@@ -42,7 +42,6 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
   - s: Triple Threat Match
 - - '[Mutant](@/w/mutant.md)'
   - '[Sentinel](@/w/sentinel.md)'
-  - nc: 'Unknown (I stepped out to the toilet and missed the finish).'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
