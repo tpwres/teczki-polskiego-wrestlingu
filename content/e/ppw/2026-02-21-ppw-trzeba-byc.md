@@ -51,11 +51,10 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
-  - nc: upcoming
-- - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - '???'
   - nc: upcoming
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
@@ -71,7 +70,8 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * [Biesiad Strong](@/w/biesiad.md) was present at ringside, purportedly as a regular fan, to support [Goblin](@/w/goblin.md).
 * After the match ended, Biesiad entered the ring to stop Fox from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and the Polish Carpenter was removed by a group of other wrestlers.
 * During Plata vs Agatka, [Filip Fux](@/w/filip-fux.md) ran up to the ring and distracted [Sędzia Kornel](@/w/sedzia-kornel.md), allowing [Oskar Alexander](@/w/oskar-alexander.md) to clobber Bartosz Plata with a guitar to the back, and handing Agatka an easy win.
-* The stream went offline as Plata was about to kiss Agatka's foot.
+* [Istociarz](@/w/istociarz.md) mistook [Sędzia Kornel](@/w/sedzia-kornel.md) for [Sędzia Seweryn](@/w/sedzia-seweryn.md).
+* The stream went briefly offline as Plata was about to kiss Agatka's foot.
 * 
 * 
 
