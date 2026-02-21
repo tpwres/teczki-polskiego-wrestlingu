@@ -36,13 +36,12 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
   - '[Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - g: '[Zmowa](@/tt/zmowa.md) cut a promo, Axel Fox drops his old ringname and chooses to be known as Jakub, Goblin & Gustav Gryffin arrive and confront them.'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Jakub](@/w/axel-fox.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Triple Threat Match
 - - '[Mutant](@/w/mutant.md)'
   - '[Sentinel](@/w/sentinel.md)'
-  - nc: 'Unknown (I stepped out to the toilet and missed the finish).'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
@@ -73,7 +72,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * Before the next match an auction was held, where a full-size banner for [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) was sold to a fan for 350&nbsp;PLN (approx. 83&nbsp;EUR, 72&nbsp;GBP or 98&nbsp;GBP). 
 * On 21:37 the crowd started singing [Barka](@/a/polish-wrestling-chants.md#songs), albeit only briefly.
 * Filip Fux and Gustav Gryffin fought outside the ring for too long, leading to the referee counting them both out, thus ending the match without a winner.
-* After the bell, Fux and Gryffin continued brawling in the ring. After a short while, Axel Fox, Goblin and Oskar Alexander ran in and joined the brawl.
+* After the bell, Fux and Gryffin continued brawling in the ring. After a short while, Jakub, Goblin and Oskar Alexander ran in and joined the brawl.
 * The live stream ended before the main event.
 
 ## References
