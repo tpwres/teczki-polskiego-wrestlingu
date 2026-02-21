@@ -10,10 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-01 = { path = "2024-12-07-ptw-underground-25-plakat.jpg", caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).', source = "Official PTW Facebook." }
-02 = { path = "martina.webp", caption = "Facebook promotional graphic announcing Session Moth Martina.", source = "Official PTW Facebook." }
-03 = { path = "2024-12-07-ptw-underground-25-patrycja-malinowska-with-prezes-okonski.jpg", caption = "[El Homo](@/w/lukasz-okonski.md) (Prezes Okoński) led on a chain by Patrycja Malinowska.", source = "zbigniew_wielgosz @ Instagram" }
-
 +++
 
 PTW Underground 25 was an event by [Prime Time Wrestling](@/o/ptw.md). The event's name refers to the date, close to December 6th, when Poland celebrates [Saint Nicholas Day][st-nicholas-day] (Mikołajki), and is when the Christmas season kicks into gear. This makes its similar to [PTW Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md) which was also Christmas-themed.
