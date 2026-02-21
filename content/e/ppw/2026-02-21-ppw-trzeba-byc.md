@@ -40,20 +40,20 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
   - '[Axel Fox](@/w/axel-fox.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - g: [Zmowa](@/tt/zmowa.md) cut a promo, Goblin & Gustav Gryffin confront them.
+  - g: '[Zmowa](@/tt/zmowa.md) cut a promo, Goblin & Gustav Gryffin confront them.'
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Triple Threat Match
+- - '[Mutant](@/w/mutant.md)'
+  - '[Sentinel](@/w/sentinel.md)'
+  - nc: 'Unknown (I stepped out to the toilet and missed the finish).'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
     nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '???'
-  - nc: upcoming
-- - '[Mutant](@/w/mutant.md)'
-  - '[Sentinel](@/w/sentinel.md)'
   - nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
@@ -63,7 +63,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
   - nc: upcoming
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
@@ -71,8 +71,10 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 
 * The live stream suffered from major audio issues, with the same sound being played several times concurrently with different lags, making it impossible to make out. It was also too quiet, and Windows system sounds of a USB device being unplugged and plugged back in kept playing at regular intervals. This continued until halfway until the Triple Threat Match.
 * [Istociarz](@/w/istociarz.md) was heard talking before the show started, including giving [Istotna Martynka](@/w/istotna-martynka.md) his PpW VOD password.
+* The show was streamed live using a single camera.
 * [Biesiad Strong](@/w/biesiad.md) was present at ringside, purportedly as a regular fan, to support [Goblin](@/w/goblin.md).
-* After the match ended, Biesiad entered the ring to stop Fox from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and Biesiad was removed by a number of other wrestlers.
+* After the match ended, Biesiad entered the ring to stop Fox from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and the Polish Carpenter was removed by a group of other wrestlers.
+* 
 * 
 * 
 
