@@ -9,13 +9,7 @@ venue = ["dworek-kozlow"]
 city = "Kozłów"
 toclevel = 2
 has_video = false
-[extra.gallery.poster]
-path = "ptwu22-poster.webp"
-caption = "Official poster for the show. Pictured are: Maverick, [Puncher](@/w/puncher.md), [Nitro](@/w/nitro.md), [Spartan](@/w/spartan.md), [Renegade](@/w/renegade.md), [Diana Strong](@/w/diana-strong.md), [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md)."
-source = "Facebook @PrimeTimeWrestlingPL"
-[extra.gallery.atomicas]
-path = "las_atomicas.webp"
-caption = "Screenshot of Las Atomicas' short-lived Instagram account. They were announced as a dance group to perform on the show in addition to the wrestling."
+[extra.gallery]
 +++
 
 Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów, recently [refurbished](@/o/ptw.md#post-ryucon-new-venue-ptw-back-on-track) as a wrestling event and training facility.

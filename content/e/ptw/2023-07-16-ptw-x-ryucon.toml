@@ -1,0 +1,8 @@
+01 = { path = "poster.webp", caption = "Official poster. Left to right: [Puncher](@/w/puncher.md), [Diana Strong](@/w/diana-strong.md), [Sinister](@/w/sinister.md), [Axel Fox](@/w/axel-fox.md), [Wiktor Longman](@/w/wiktor-longman.md).", source = "Official PTW Facebook" }
+02 = { path = "banner.webp", caption = "Official banner featuring left to right, top: [Wiktor Longman](@/w/wiktor-longman.md), [Puncher](@/w/puncher.md); middle: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md), [Diana Strong](@/w/diana-strong.md), [Sinister](@/w/sinister.md); bottom: [Axel Fox](@/w/axel-fox.md).", source = "Official PTW Facebook" }
+03 = { path = "diana-strong-vs-vic-golden.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs [Vic Golden](@/w/vic-golden.md).", source = "Official PTW Facebook" }
+04 = { path = "samson-vs-krampus-sinister.webp", caption = "Image announcing [Samson](@/w/samson.md) vs [Krampus](@/w/krampus.md) w/ [Sinister](@/w/sinister.md).", source = "Official PTW Facebook" }
+05 = { path = "jonny-storm-vs-axel-fox.webp", caption = "Image announcing Jonny Storm vs [Axel Fox](@/w/axel-fox.md).", source = "Official PTW Facebook" }
+06 = { path = "sam-rogers-vs-puncher.webp", caption = "Image announcing [Sam Rogers](@/w/sam-rogers.md) vs [Puncher](@/w/puncher.md).", source = "Official PTW Facebook" }
+07 = { path = "marco-hammers-vs-boro.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs [Boro](@/w/boro.md).", source = "Official PTW Facebook" }
+08 = { path = "marcelito-vs-dziedzic-sinister.webp", caption = "Image announcing [Marcelito](@/w/marcelito.md) vs [Syriusz Dziedzic](@/w/dziedzic.md) w/ [Sinister](@/w/sinister.md).", source = "Official PTW Facebook" }

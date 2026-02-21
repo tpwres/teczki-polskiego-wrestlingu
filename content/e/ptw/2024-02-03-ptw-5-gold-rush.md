@@ -10,8 +10,6 @@ city = "Częstochowa"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2024-02-03-ptw-5-gold-rush-plakat.jpg", caption = "Official poster. Pictured left to right: [Renegade](@/w/renegade.md), [Nitro](@/w/nitro.md), Mason Madden (back, wearing glasses), [Taras](@/w/taras.md) (front, wearing red), Mansoor (back, with a beard), [Disco Pablo](@/w/disco-pablo.md) (front, wearing blue), [Dziedzic](@/w/dziedzic.md), [Sinister](@/w/sinister.md).", source = "Official PTW Facebook" }
-2 = { path = "gold-rush-pre-show.jpg", caption = "Before the start of the show.", source = "Ville Paananen" }
 +++
 
 Gold Rush was an event by [PTW](@/o/ptw.md) held in {{ map_pin(v="Hotel Scout") }}Hotel Scout in Częstochowa, about 50&nbsp;km north of Chorzów. It was announced as a "Season Finale", which suggested it's going to close some kind of chapter in PTW's history.

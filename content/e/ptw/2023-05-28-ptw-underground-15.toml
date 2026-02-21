@@ -1,0 +1,8 @@
+01 = { path = "2023-05-28-ptw-underground-15-plakat.jpg", caption = "Official poster. Pictured left to right: [Vic Golden](@/w/vic-golden.md), [Sinister](@/w/sinister.md), [Gabriel Queen](@/w/gabriel-queen.md), [Disco Pablo](@/w/disco-pablo.md).", source = "Official PTW Facebook" }
+02 = { path = "boro-vs-vic-golden.webp", caption = "Image announcing [Boro](@/w/boro.md) vs [Vic Golden](@/w/vic-golden.md).", source = "Official PTW Facebook" }
+03 = { path = "disco-pablo-vs-olgierd.webp", caption = "Image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Olgierd](@/w/olgierd.md).", source = "Official PTW Facebook" }
+04 = { path = "axel-fox-vs-gabriel-queen.webp", caption = "Image announcing [Axel Fox](@/w/axel-fox.md) vs [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PTW Facebook" }
+05 = { path = "taras-vs-marco-hammers.webp", caption = "Image announcing [Taras](@/w/taras.md) vs [Marco Hammers](@/w/marco-hammers.md).", source = "Official PTW Facebook" }
+06 = { path = "marcelito-vs-samson.webp", caption = "Image announcing [Marcelito](@/w/marcelito.md) vs [Samson](@/w/samson.md).", source = "Official PTW Facebook" }
+07 = { path = "diana-strong-vs-devlyn-macabre.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Devlyn Macabre.", source = "Official PTW Facebook" }
+08 = { path = "puncher-vs-hunyadi-tamas.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs [Hunyadi Tamas](@/w/hunyadi-tamas.md).", source = "Official PTW Facebook" }

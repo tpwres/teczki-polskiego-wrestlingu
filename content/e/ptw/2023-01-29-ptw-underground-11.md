@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The eleventh [PTW](@/o/ptw.md) Underground show was held on Sunday, January 29th 2023, as part of a two-show weekend.

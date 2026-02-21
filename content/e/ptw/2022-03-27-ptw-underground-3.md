@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = false
+[extra.gallery]
 +++
 
 The third [PTW](@/o/ptw.md) Underground show was held on Sunday, March 27th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.

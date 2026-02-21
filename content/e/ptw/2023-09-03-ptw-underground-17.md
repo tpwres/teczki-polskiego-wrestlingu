@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 ## Card

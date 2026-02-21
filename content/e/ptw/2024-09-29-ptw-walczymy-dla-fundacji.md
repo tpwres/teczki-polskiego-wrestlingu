@@ -10,7 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = false
 [extra.gallery]
-manifest = "@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji-gallery.toml"
 +++
 
 After [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) concluded, PTW's social media channels didn't reveal a date for the next show.

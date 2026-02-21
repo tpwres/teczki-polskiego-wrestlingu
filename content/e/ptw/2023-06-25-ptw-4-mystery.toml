@@ -1,0 +1,15 @@
+01 = { path = "2023-06-25-ptw-4-mystery-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
+02 = { path = "the-mystery-teaser.webp", caption = "Show teaser.", source = "Official PTW Facebook" }
+03 = { path = "taras-disco-pablo-vs-gabriel-queen-vic-golden.webp", caption = "Image announcing [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md) vs [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md).", source = "Official PTW Facebook" }
+04 = { path = "wiktor-longman-vs-rafi-rarytas.webp", caption = "Image announcing [Wiktor Longman](@/w/wiktor-longman.md) vs [Rafi Rarytas](@/w/rafi.md).", source = "Official PTW Facebook" }
+05 = { path = "robert-star-vs-puncher.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md) vs [Puncher](@/w/puncher.md).", source = "Official PTW Facebook" }
+06 = { path = "marcelito-vs-samson.webp", caption = "Image announcing [Marcelito](@/w/marcelito.md) vs [Samson](@/w/samson.md).", source = "Official PTW Facebook" }
+07 = { path = "diana-strong-vs-amale.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Amale.", source = "Official PTW Facebook" }
+08 = { path = "olgierd-vs-boro.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Boro](@/w/boro.md).", source = "Official PTW Facebook" }
+09 = { path = "unknown-axel-fox-vs-renegade-nitro.webp", caption = "Image announcing ??? & [Axel Fox](@/w/axel-fox.md) vs [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md).", source = "Official PTW Facebook" }
+10 = { path = "balik-showoff-paterek.webp", caption = "Image announcing the commentary team of [Łukasz Baliński](@/w/lukasz-balinski.md), [Piotr Małecki](@/w/piotr-malecki.md) and [Arek Paterek](@/w/arek-paterek.md).", source = "Official PTW Facebook" }
+11 = { path = "krampus-vs-tihanyi.webp", caption = "Image announcing [Krampus](@/w/krampus.md) vs Peter Tihanyi.", source = "Official PTW Facebook" }
+12 = { path = "pan-pawlowski.webp", caption = "Image announcing [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }
+13 = { path = "andrzej-supron-boryss.webp", caption = "Image announcing guest commentators, [Andrzej Supron](@/w/andrzej-supron.md) and [Paweł Borkowski](@/w/pawel-borkowski.md).", source = "Official PTW Facebook" }
+14 = { path = "bracia-malczynscy.webp", caption = "Image announcing special guests, Marcin Malczyński and Dawid Malczyński.", source = "Official PTW Facebook" }
+99 = { path = "the-mystery-opener.jpg", caption = "Budapest Bastards vs Fox & Storm from the perspective of the audience.", source = "Ville Paananen" }

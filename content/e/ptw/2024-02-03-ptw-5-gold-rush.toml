@@ -1,0 +1,17 @@
+01 = { path = "banner.webp", caption = "Official banner.", source = "Official PTW Facebook" }
+02 = { path = "logo.webp", caption = "Event logo.", source = "Official PTW Facebook" }
+03 = { path = "james-storm.webp", caption = "Image announcing James Storm.", source = "Official PTW Facebook" }
+04 = { path = "krampus-vs-nano-lopez.webp", caption = "Image announcing [Krampus](@/w/krampus.md) vs [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
+05 = { path = "mike-bailey.webp", caption = "Image announcing Mike Bailey.", source = "Official PTW Facebook" }
+06 = { path = "marcin-najman.webp", caption = "Image announcing Marcin Najman.", source = "Official PTW Facebook" }
+07 = { path = "mason-madden-mansoor.webp", caption = "Image announcing Mason Madden & Mansoor.", source = "Official PTW Facebook" }
+08 = { path = "diana-strong-vs-nina-samuels.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Nina Samuels.", source = "Official PTW Facebook" }
+09 = { path = "sam-della-valle-vs-marius-al-ani.webp", caption = "Image announcing Sam Della Valle vs Marius Al-Ani.", source = "Official PTW Facebook" }
+10 = { path = "pj-black-vs-matt-sydal.webp", caption = "Image announcing PJ Black vs Matt Sydal.", source = "Official PTW Facebook" }
+11 = { path = "scotty-rawk-vs-mike-bailey.webp", caption = "Image announcing Scotty Rawk vs Mike Bailey.", source = "Official PTW Facebook" }
+12 = { path = "paterek-balik-showoff.webp", caption = "Image announcing the commentary team: [Arek Paterek](@/w/arek-paterek.md), [Łukasz Baliński](@/w/lukasz-balinski.md) & [Piotr Małecki](@/w/piotr-malecki.md).", source = "Official PTW Facebook" }
+13 = { path = "boryss-supron.webp", caption = "Image announcing the guest commentators: [Paweł Borkowski](@/w/pawel-borkowski.md) & [Andrzej Supron](@/w/andrzej-supron.md).", source = "Official PTW Facebook" }
+14 = { path = "santino-lewis-costello.webp", caption = "Image announcing the English commentary team of [Santino](@/w/santino.md) & [Lewis Costello](@/w/lewis-costello.md).", source = "Official PTW Facebook" }
+15 = { path = "bastards-vs-paka-vs-mxm-vs-sinister-kingdom.webp", caption = "Image announcing [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md) vs Mason Madden & Mansoor (back) vs [Taras](@/w/taras.md) & [Disco Pablo](@/w/disco-pablo.md) (front) vs [Syriusz Dziedzic](@/w/dziedzic.md) & [Sinister](@/w/sinister.md).", source = "Official PTW Facebook" }
+16 = { path = "gold-rush-rumble.webp", caption = "Image announcing the Gold Rush Rumble.", source = "Official PTW Facebook" }
+99 = { path = "gold-rush-pre-show.jpg", caption = "Before the start of the show.", source = "Ville Paananen" }

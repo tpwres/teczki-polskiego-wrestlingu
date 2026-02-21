@@ -9,10 +9,11 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The tenth [PTW](@/o/ptw.md) Underground show was held on Saturday, January 28th 2023, as part of a two-show weekend. The show, initially set for December 18th, 2022, was postponed right before the start (with fans already inside the venue), due to a sudden power outage.
-PTW honored the original tickets for this new date, and announced the two-show weekend as compensation for the fans. The show was held in its regular venue, [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
+PTW honored the original tickets for this new date, and announced the two-show weekend as compensation for the fans. The show was held in the regular venue, [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
 
 PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis competed in mostly Danish Nordic Elite Wrestling, BODYSLAM! and Dansk Pro Wrestling, organizations which would later invite PTW talent onto their shows.
 

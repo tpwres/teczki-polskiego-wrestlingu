@@ -10,8 +10,6 @@ city = "Wrocław"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2023-06-25-ptw-4-mystery-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
-2 = { path = "the-mystery-opener.jpg", caption = "Budapest Bastards vs Fox & Storm from the perspective of the audience.", source = "Ville Paananen" }
 +++
 
 The Mystery was held on June 25, 2023 in Wrocław, specifically in [MZW's](@/o/mzw.md) home turf of [Czasoprzestrzeń](@/v/czasoprzestrzen.md). Cryptic promos from [Sinister](@/w/sinister.md) aired all throughout the build-up to this show, and the show's title might be referring to them. The theme of this show was all about mysteries - with the trailers showing Puncher beating down a hooded figure tied to a chair in the middle of the ring, while PTW crew were portrayed as forensic analysts, criminals and policemen.

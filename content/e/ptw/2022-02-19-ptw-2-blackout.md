@@ -1,6 +1,7 @@
 +++
 title = "PTW #2: BlackOut"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology=["ptw"]
 venue = ["moris-chorzow"]
@@ -9,8 +10,6 @@ city = "Chorzów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2022-02-19-ptw-2-blackout-plakat.jpg", caption = "Official poster. Left to right: [Santino](@/w/santino.md), Tristan Archer, Matt Sydal, Chris Masters, [Nick Aldis](@/w/nick-aldis.md), [Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md), [Justin Joy](@/w/justin-joy.md), [Krampus](@/w/krampus.md).", source = "Official PTW Facebook" }
-2 = { path = "blackout-pre-show.jpg", caption = "View from the audience, before the show.", source = "Ville Paananen" }
 +++
 
 Blackout was [PTW](@/o/ptw.md)'s second major event, and fourth event overall. It was held on Sunday, February 19th 2022, in a multipurpose sports hall in Chorzów. This was the same venue that held their first ever show [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
@@ -141,11 +140,11 @@ This marks Crane's second and final appearance on major PTW show. He would later
 * Pablo sets Sinister up for a fireman's carry move, but he's too close to the other team's corner. Dziedzic capitalizes with a blind tag, enters the ring and saves Sinister. Double team moves on Pablo and Dziedzic continues to pummel him.
 * Pablo makes a hot tag to Boro, Dziedzic tags Sinister back in. The heels get an upperhand on Boro, attacking him at ringside. Taras and Pablo step in to make sure that the heels cannot punish Boro together.
 * Boro and Puncher are in the heel team's corner, they choke Boro while Dziedzic distracts the ref. Boro makes another hot tag and Taras steps in like a house on fire on the now legal Puncher.
-* Chaos ensues, members of both teams join in, Paka hits a simultaneous suplex on each of the opponents. The ring is cleared, Taras hits a cannonball and tags Pablo in. Puncher is the legal man, he hits his signature _Wylew_ (super man punch) on Pablo, but meanwhile Dziedzic tagged back in.
+* Chaos ensues, members of both teams join in, Paka hits a simultaneous suplex on each of the opponents. The ring is cleared, Taras hits a cannonball and tags Pablo in. Puncher is the legal man, he hits his signature _Wylew_ (Superman Punch) on Pablo, but meanwhile Dziedzic tagged back in.
 * While the referee tries to count the pin for Puncher, Dziedzic makes it known he tagged in so the pin is cancelled. He wants to be the one who scores a win for his team. He pins Pablo, but the commotion allowed Pablo to recover for a 2 count.
 * Frustrated, Puncher lays out Dziedzic, Boro hits _Dobry Podryw_ (Olympic slam) on Puncher who falls out of the ring. Legal man Pablo hits _Koniec imprezy_ (Blue Thunder Bomb) on Dziedzic to win a match for Paka.
 * Winners: Paka (Boro, Disco Pablo, Taras) \
-  Babyface team celebrates, high-fiving ringside staff and fans. \
+  Babyface team celebrates, high-fiving ringside staff and fans.
 * Puncher is back in the ring and cuts off Pawłowski before he announces the result.
 He takes the mic for a short promo. He absolves himself of the loss, blaming his teammates instead.
   He starts insulting all the VIPs in the audience, claiming they are walking advertisements.
@@ -165,7 +164,7 @@ He takes the mic for a short promo. He absolves himself of the loss, blaming his
 * They trade more offense, now crowd is 50-50. Scurll with a superplex to Krampus for a 2-count. Scurll grabs the umbrella and goes for Krampus, but ref is quick enough and removes the foreign object. Krampus capitalizes and hits Scurll with his finisher (fireman's carry neckbreaker) for a win.
 * Winner: Krampus
 
-#### Gabriel Queen w/Taxi Złotówa v Joe Hendry
+#### Gabriel Queen w/ Taxi Złotówa v Joe Hendry
 
 * Before the match, we see Gabriel Queen's pre-tape promo, where he talks about himself and his new tag team partner.
 * Queen makes his entrance accompanied by Taxi Złotówa. Złotówa is clad in Wolf group gear (Wolf are the security company handling PTW events) to sell the angle where he tries to bypass his suspension by using any loophole possible.
