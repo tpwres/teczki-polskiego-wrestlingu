@@ -1,34 +1,10 @@
-[1]
-path = "2024-09-29-walczymy-ptw-dla-fundacji.jpg"
-caption = """\
-    Official poster. On the top is [Pawłowski](@/w/pan-pawlowski.md).
-    The wrestlers are: [Rust](@/w/rust.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Puncher](@/w/puncher.md),
-    [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md),
-    [Krampus](@/w/krampus.md) and [Spartan](@/w/spartan.md)."""
-source = "Official PTW Facebook"
-[2]
-path = "ptw-piknik.jpg"
-caption = """\
-    The foundation's official poster, mentioning PTW.
-    Besides wrestling, there will also be bouncy castles, a barbecue, ponies, a sports competition,
-    face painting and a lottery.
-    """
-source = "Vincent Caravaggio's Instagram story revealing the event"
-[3]
-path = "walczymy-ptw-dla-fundacji-to-nie-underground.jpg"
-caption = """\
-    PTW's responce to a fan's question, confirming that the event is not Underground 23.
-    """
-source = "Official PTW Facebook"
-[4]
-path = "lopez-vs-puncher.jpg"
-caption = """\
-    Announcement of ["Starboy" Nano Lopez](@/w/nano-lopez.md) vs [Dawid "Puncher" Seńko](@/w/puncher.md).
-    """
-source = "Official PTW Facebook"
-[5]
-path = "alex-brave-vs-lavonce-sorry-ale-to-zle-mi-sie-kojarzy.jpg"
-caption = """\
-    Announcement of [Alex Brave](@/w/alex-brave.md) vs [LaVonce](@/w/lavonce.md).
-    """
-source = "Official PTW Facebook"
+01 = { path = "2024-09-29-walczymy-ptw-dla-fundacji.webp", caption = "Official poster. On the top is [Pawłowski](@/w/pan-pawlowski.md). The wrestlers are: [Rust](@/w/rust.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Puncher](@/w/puncher.md), [Diana Strong](@/w/diana-strong.md), [Nano Lopez](@/w/nano-lopez.md), [Krampus](@/w/krampus.md) and [Spartan](@/w/spartan.md)..", source = "Official PTW Facebook"}
+02 = { path = "nano-lopez-vs-puncher.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Puncher](@/w/puncher.md).", source = "Official PTW Facebook"}
+03 = { path = "alex-brave-vs-lavonce-sorry-ale-to-zle-mi-sie-kojarzy.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md) vs [LaVonce](@/w/lavonce.md).", source = "Official PTW Facebook"}
+04 = { path = "miyagi-shida-vs-vincent-caravaggio.webp", caption = "Image announcing [Miyagi Shida](@/w/miyagi-shida.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook"}
+05 = { path = "krampus.webp", caption = "Image announcing [Krampus](@/w/krampus.md).", source = "Official PTW Facebook"}
+06 = { path = "nightshade-vs-diana-strong.webp", caption = "Image announcing Nightshade vs [Diana Strong](@/w/diana-strong.md).", source = "Official PTW Facebook"}
+07 = { path = "luca-bjorn-vs-spartan.webp", caption = "Image announcing [Luca Bjorn](@/w/luca-bjorn.md) vs [Spartan](@/w/spartan.md).", source = "Official PTW Facebook"}
+08 = { path = "max-speed-vs-rust.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md) vs [Rust](@/w/rust.md).", source = "Official PTW Facebook"}
+09 = { path = "ptw-piknik.jpg", caption = "The foundation's official poster, mentioning PTW. Besides wrestling, there will also be bouncy castles, a barbecue, ponies, a sports competition, face painting and a lottery.", source = "Official PTW Facebook"}
+10 = { path = "walczymy-ptw-dla-fundacji-to-nie-underground.jpg", caption = "PTW's responce to a fan's question, confirming that the event is not Underground 23.", source = "vincentcaravaggio @ Instagram"}
