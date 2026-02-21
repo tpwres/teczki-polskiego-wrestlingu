@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Trzeba Być (roughly _Gotta Be There_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in [2KOŁA Motorcycle Pub](@/v/2kola.md).
+Trzeba Być (roughly _Gotta Be There_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It take place in [2KOŁA Motorcycle Pub](@/v/2kola.md).
 
 The [announcement post][byc-albo-nie-byc] promised a "new standard which will show that wrestling is art of the highest calibre". The show tickets will be strictly limited in number to just 150, and for the first time in PpW's history the main event will be a Dark Match - it won't be available on the official live stream, hence the show's name.
 
@@ -27,14 +27,14 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * Two days later, following up from the [previous show](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to face [Filip Fux](@/w/filip-fux.md) after the latter's chair attack at that event.
 * On 17.02.2026 [Antoni Ocean](@/w/antoni-ocean.md) was announced to appear at the show.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: OG PpW Hardcore Match
     n: Dark Match
-    nc: upcoming
+    nc: '?'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
