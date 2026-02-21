@@ -33,7 +33,7 @@ Painful training regimen and overall lack of organisation, however, discouraged 
 In 2023, he and his wife Martyna (also known as Istociara or Istotna Martynka) started a YouTube channel known as Istota Wrestlingu. The channel was initially niche, commenting on recent wrestling shows in Poland. They prided themselves on attending every single Polish event and quickly got acquainted with many of their viewers personally. The channel also started inviting various wrestlers for long, in-depth interviews.
 
 They gradually moved from the pre-recorded audio-only podcast format towards live transmissions, adding video and creating their signature look by wearing cat-like lucha masks. The idea of masks, as per their official explanation, is to shift the focus away from the hosts and towards the content itself.
-Along with moving to the live formula, their style also changed. Istociarz (then also known as Antek) gradually became more animated, coining his catchphrases such as _PASJA!_ ("passion", exclaimed in a specific way), _fuuuuuun_ and _Wake up! (to reality)_.
+Along with moving to the live formula, their style also changed. Istociarz (then also known as Antek) gradually became more animated, coining his catchphrases such as _PASJA!_ ("passion", exclaimed in a specific way), _fuuuuuun_ and _Wake up! (to reality)_. He is also infamous for pronouncing the word "wrestling" with a hard "v".
 
 ### PpW Ewenement Wrestling (2025-present)
 

@@ -51,10 +51,6 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md)'
-  - '???'
-  - nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - nc: upcoming
@@ -69,12 +65,13 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 
 ### Recap
 
-* The live stream suffered from major audio issues, with the same sound being played several times concurrently with different lags, making it impossible to make out. It was also too quiet, and Windows system sounds of a USB device being unplugged and plugged back in kept playing at regular intervals. This continued until halfway until the Triple Threat Match.
-* [Istociarz](@/w/istociarz.md) was heard talking before the show started, including giving [Istotna Martynka](@/w/istotna-martynka.md) his PpW VOD password.
+* The live stream suffered from major audio issues, with the same sound being played several times concurrently with different lags, making it impossible to make out. It was also too quiet, and Windows system sounds of a USB device being unplugged and plugged back in kept playing at regular intervals. The issue persisted until around halfway through the Triple Threat Match.
+* [Istociarz](@/w/istociarz.md) was heard talking before the show started, including giving [Istotna Martynka](@/w/istotna-martynka.md) his PpW VOD password (but not the login).
 * The show was streamed live using a single camera.
 * [Biesiad Strong](@/w/biesiad.md) was present at ringside, purportedly as a regular fan, to support [Goblin](@/w/goblin.md).
 * After the match ended, Biesiad entered the ring to stop Fox from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and the Polish Carpenter was removed by a group of other wrestlers.
-* 
+* During Plata vs Agatka, [Filip Fux](@/w/filip-fux.md) ran up to the ring and distracted [Sędzia Kornel](@/w/sedzia-kornel.md), allowing [Oskar Alexander](@/w/oskar-alexander.md) to clobber Bartosz Plata with a guitar to the back, and handing Agatka an easy win.
+* The stream went offline as Plata was about to kiss Agatka's foot.
 * 
 * 
 
