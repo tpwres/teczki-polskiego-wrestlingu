@@ -17,3 +17,4 @@
 17 = { path = "komentatorzy.webp", caption = "Image announcing the commentators, [Adam Goldschmidt](@/w/adam-goldschmidt.md) and [Krystian Smoleń](@/w/resivny.md).", source = "Official PTW Facebook" }
 18 = { path = "damian-adler-vs-ben-rodgers.webp", caption = "Image announcing Damian Adler vs Ben Rodgers.", source = "Official PTW Facebook" }
 19 = { path = "vincent-caravaggio-vs-blaze.webp", caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Blaze](@/w/blaze.md).", source = "Official PTW Facebook" }
+20 = { path = "jakubov-vs-turniejov.webp", caption = "The tournament ladder. Top: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Blaze](@/w/blaze.md), Baron Wolfgang Storm, [El G](@/w/el-g.md); bottom: Damian Adler, Ben Rodgers, Andi ZickZack, [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
