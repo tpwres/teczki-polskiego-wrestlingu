@@ -32,10 +32,10 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 {% card() %}
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Jakub](@/w/axel-fox.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - g: '[Zmowa](@/tt/zmowa.md) cut a promo, Goblin & Gustav Gryffin confront them.'
+  - g: '[Zmowa](@/tt/zmowa.md) cut a promo, Axel Fox drops his old ringname and chooses to be known as Jakub, Goblin & Gustav Gryffin arrive and confront them.'
 - - '[Axel Fox](@/w/axel-fox.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -51,10 +51,9 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - nc: Double Count Out
-- - '[Mister Z](@/w/mister-z.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
+- - '[Johnny "Bullson" Blade](@/w/johnny-blade.md)'
+  - '[Mister Z](@/w/mister-z.md)'
   - s: OG PpW Hardcore Dark Match
-    nc: '?'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
