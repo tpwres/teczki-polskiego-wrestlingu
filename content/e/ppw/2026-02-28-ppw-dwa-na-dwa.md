@@ -26,6 +26,8 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 * Next came a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced on 11.02.2026.
 * Emil Völler, who debuted at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), was announced on 13.02.2026 as the opponent of [Johnny Blade](@/w/johnny-blade.md) in an International Hardcore Match.
 * On 19.02.2026 PpW announced the debut of another active KPW wrestler, [Leon Lato](@/w/leon-lato.md). He will partner with [Antoni Ocean](@/w/antoni-ocean.md) in a Tag Team Match against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md).
+* A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.02.2026.
+* Two weeks later, on 22.02.2026, PpW announced [Tony Sheen](@/w/riverman.md) vs [Mutant](@/w/mutant.md).
 
 ## Predicted card
 
@@ -55,6 +57,9 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
   - 'Emil Völler'
   - s: International Hardcore Match
     nc: upcoming
+- - '[Tony Sheen](@/w/riverman.md)'
+  - '[Mutant](@/w/mutant.md)'
+  - nc: upcoming
 {% end %}
 
 ### Recap
