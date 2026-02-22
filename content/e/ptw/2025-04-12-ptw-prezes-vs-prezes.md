@@ -10,7 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2025-04-12-ptw-prezes-vs-prezes-gallery.toml"
 +++
 
 "Prezes vs Prezes" (_Chairman vs Chairman_) was a show by [Prime Time Wrestling](@/o/ptw.md).
