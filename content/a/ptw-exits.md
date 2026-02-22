@@ -42,7 +42,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - 2023-04
 - - '**[Robert Star](@/w/robert-star.md)**'
-  - 2019 ([KPW](@/o/kpw.md))
+  - 2021 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2023-06-25](@/e/ptw/2023-06-25-ptw-4-mystery.md)'
   - 2023?
