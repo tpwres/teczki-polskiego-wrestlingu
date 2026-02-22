@@ -10,7 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = false
 [extra.gallery]
-manifest = "@/e/ptw/2025-01-11-ptw-nowe-porzadki-gallery.toml"
 +++
 
 "Nowe Porządki" (_A New Order_) was an event by [Prime Time Wrestling](@/o/ptw.md) and the first "minor" show to drop the "Underground" name. The show was announced around eight hours after [KPW Arena 27: Nowe Porządki](@/e/kpw/2025-01-24-kpw-arena-27.md); whether or not the identical names are a coincidence, currently remains unknown.
