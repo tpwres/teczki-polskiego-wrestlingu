@@ -21,3 +21,8 @@ source = "Official PTW Facebook"
 path = "puncher-vs-diana.webp"
 caption = "Image announcing [Puncher](@/w/puncher.md) vs [Diana Strong](@/w/diana-strong.md)."
 source = "Official PTW Facebook"
+
+[05]
+path = "krampus.webp"
+caption = "Image announcing [Krampus](@/w/krampus.md)."
+source = "Official PTW Facebook"
