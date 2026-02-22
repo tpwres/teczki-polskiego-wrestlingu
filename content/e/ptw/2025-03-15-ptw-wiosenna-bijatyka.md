@@ -10,7 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka-gallery.toml"
 +++
 
 "Wiosenna Bijatyka" (_Spring Brawl_) was a show by [Prime Time Wrestling](@/o/ptw.md). As announced at [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md), the final match of [PTW Underground Championship](@/c/ptw-underground-championship.md) tournament took place at this event. The winner of the ladder match was crowned the inaugural PTW Underground Champion.
