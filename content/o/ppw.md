@@ -124,6 +124,23 @@ The hosts asked the wrestlers several questions, including about the nature of k
 The segment ended with Gustav standing up and getting into Biesiad's face, at which point Biesiad removed his T-shirt and threw his opponent across the studio couch. They then ran out into the studio, brawled for a short while, while Crane was trying to separate them.
 Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the show host explained to the camera that it's all a show, and there's no need to be alarmed.
 
+#### Got Talent
+
+In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode of _Mam Talent!_ (Polish spin-off of the long-running _Got Talent_ format). Biesiad gives a short promo stating how he's aiming for the championship which he deserves, while Olgierd portrays his hard-headed hooligan character. Before the bell, Biesiad is seen running bare-chested through the general area with other contestants present. In their match Olgierd defended his [PpW Championship](@/c/ppw-championship.md) against Biesiad, with an intervention by Mister Z. The segment was received favourably by three of the four judges, with only Julia Wieniawa giving the team a thumbs down, stating she did not understand the concept and is against such portrayal of violence.
+
+{% free_card() %}
+- - '[Olgierd](@/w/olgierd.md) w/ [Mister Z](@/w/mister-z.md)'
+  - '[Biesiad](@/w/biesiad.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    en: 'Mam Talent Season 17 Episode 1'
+    ed: '2026-02-21'
+{% end %}
+
+- Referee: [Sędzia Seweryn](@/w/sedzia-seweryn.md)
+- Talent show judges: Agnieszka Chylińska, Marcin Prokop, Julia Wieniawa, Agustin Egurrola
+
+Also present backstage were [Istotna Martynka](@/w/istotna-martynka.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
+
 ### Independent and other
 
 In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The short depicts PpW wrestlers in their daily lives, and their metamorphosis into seemingly indestructible fighters once they step into the ring and become their true selves. The documentary premiered on 28.10.2025 in {{ map_pin(v="Kinoteka") }}Kinoteka, two days before [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md).
