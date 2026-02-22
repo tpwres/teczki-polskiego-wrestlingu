@@ -24,11 +24,16 @@ caption = 'Image announcing Flex Skywalker vs [Spartan](@/w/spartan.md).'
 source = "Official PTW Facebook"
 
 [0006]
+path = "krampus.webp"
+caption = 'Image announcing [Krampus](@/w/krampus.md).'
+source = "Official PTW Facebook"
+
+[0007]
 path = "diana-vs-lucy.webp"
 caption = 'Image announcing [Diana Strong](@/w/diana-strong.md) vs Lucy Couture.'
 source = "Official PTW Facebook"
 
-[0007]
+[0008]
 path = "serg-vs-niezdziedz.webp"
 caption = 'Image announcing [Serg Sullivan](@/w/serg-sullivan.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).'
 source = "Official PTW Facebook"

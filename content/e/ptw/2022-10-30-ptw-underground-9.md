@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The ninth [PTW](@/o/ptw.md) Underground show was held on Sunday, October 30th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
