@@ -10,7 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = false
 [extra.gallery]
-manifest = "@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych-gallery.toml"
 +++
 
 "Złoto Dla Zuchwałych" (_Gold for the Bold_) was a show by [Prime Time Wrestling](@/o/ptw.md).
