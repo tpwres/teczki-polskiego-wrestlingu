@@ -31,17 +31,17 @@ has_video = false
 ## Card
 
 {% card() %}
-- - '[🇵🇱 Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[🇭🇺 Blaze](@/w/blaze.md)'
+- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[_🇭🇺_ Blaze](@/w/blaze.md)'
   - s: World Cup Quarter Finals Match 
-- - '[🇮🇹 El G](@/w/el-g.md)'
-  - '🇺🇦 Baron Wolfgang Storm'
+- - '[_🇮🇹_ El G](@/w/el-g.md)'
+  - '_🇺🇦_ Baron Wolfgang Storm'
   - s: World Cup Quarter Finals Match 
-- - '🏴󠁧󠁢󠁳󠁣󠁴󠁿 Ben Rodgers'
-  - '🇩🇪 Damian Adler'
+- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
+  - '_🇩🇪_ Damian Adler'
   - s: World Cup Quarter Finals Match 
-- - '[🇪🇸 Nano Lopez](@/w/nano-lopez.md)'
-  - '🇦🇹 Andi ZickZack'
+- - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
+  - '_🇦🇹_ Andi ZickZack'
   - s: World Cup Quarter Finals Match 
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - 'Bart Petro'
@@ -59,18 +59,18 @@ has_video = false
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - s: Battle Royal
-- - '[🇵🇱 Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[🇮🇹 El G](@/w/el-g.md)'
+- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[_🇮🇹_ El G](@/w/el-g.md)'
   - s: World Cup Half Finals Match 
     r: submission
-- - '🏴󠁧󠁢󠁳󠁣󠁴󠁿 Ben Rodgers'
-  - '[🇪🇸 Nano Lopez](@/w/nano-lopez.md)'
+- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
+  - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
   - s: World Cup Half Finals Match 
 - - 'Synowie Lasu: Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - 'Cheeki Breeki: Dante Slam & Petrick Pereski'
   - s: Tag Team match
-- - '[🇵🇱 Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-- - '🏴󠁧󠁢󠁳󠁣󠁴󠁿 Ben Rodgers'
+- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
   - s: World Cup Final Match
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
