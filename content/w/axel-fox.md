@@ -103,9 +103,11 @@ After a defeat against Olgierd, Axel's frustration kept growing. During his post
 He lost to [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), and to Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
 Eventually, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Fox betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md).
 
-#### Joining Zmowa
+#### Joining Zmowa and becoming Jakub
 
 After his betrayal of Goblin and introduction into Mister Z's stable, Axel quickly became one of Zmowa's most valuable assets. He quickly got involved in a group effort to secure the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) as the inaugural champions. During the Championship race he frequently teamed up with either Mister Z or [Marco Hammers](@/w/marco-hammers.md), especially when the other half of Legia Łysych - Olgierd - became the [PpW Champion](@/c/ppw-championship.md) and Marco needed a Tag Team partner.
+
+At [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), Fox cut a promo where he discarded his old persona of Axel Fox, and chose to be known as Jakub. This new character previously appeared only internationally, in Germany and Hungary, no longer wearing facepaint or fox-themed gear. Since turning heel in PpW, Jakub/Fox switched to the new gear, but kept the old name - until now.
 
 ### Legacy of Wrestling (2024-present)
 
