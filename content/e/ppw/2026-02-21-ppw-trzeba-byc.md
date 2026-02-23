@@ -62,7 +62,6 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 ### Recap
 
 * The live stream initially suffered from major audio issues, including Windows system sounds of a USB device being unplugged and plugged back in. The issue persisted until around halfway through the Triple Threat Match.
-* [Istociarz](@/w/istociarz.md) was heard talking before the show started, including giving [Istotna Martynka](@/w/istotna-martynka.md) his PpW VOD password (but not the login).
 * The show was streamed live using a single camera.
 * [Biesiad Strong](@/w/biesiad.md) was present at ringside, purportedly as a regular fan, to support [Goblin](@/w/goblin.md).
 * After the match ended, Biesiad entered the ring to stop Fox from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and the Polish Carpenter was removed by a group of other wrestlers.
@@ -72,7 +71,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * Before the next match an auction was held, where a full-size banner for [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) was sold to a fan for 350&nbsp;PLN (approx. 83&nbsp;EUR, 72&nbsp;GBP or 98&nbsp;USD). 
 * On 21:37 the crowd started singing [Barka](@/a/polish-wrestling-chants.md#songs), albeit only briefly.
 * Filip Fux and Gustav Gryffin fought outside the ring for too long, leading to the referee counting them both out, thus ending the match without a winner.
-* After the bell, Fux and Gryffin continued brawling in the ring. After a short while, Jakub, Goblin and Oskar Alexander ran in and joined the brawl.
+* After the bell, Fux and Gryffin returned to the ring and continued to brawl. After a short while, Jakub, Goblin and Oskar Alexander ran in and joined the brawl, setting up the stakes for [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where all three teams are set to clash for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 * The live stream ended before the main event.
 
 ## References
