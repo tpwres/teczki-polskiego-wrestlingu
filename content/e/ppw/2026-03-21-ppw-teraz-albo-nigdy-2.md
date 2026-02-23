@@ -24,7 +24,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 
 {% card(predicted=true) %}
 - - '[Sentinel](@/w/sentinel.md)'
-  - [Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - s: Triple Threat Match
     nc: upcoming
