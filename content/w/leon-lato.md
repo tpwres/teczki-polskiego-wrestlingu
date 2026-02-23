@@ -36,7 +36,7 @@ Leon debuted for [PpW](@/o/ppw.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na
 
 ## International wrestling appearances 
 
-In 2024 Leon made his first handful of appearances outside of Poland. He worked for Passion Pro Wrestling in Hungary, as well as for Bologna-based Italian promotion Wrestling Megastars.
+In 2024 Leon made his first handful of appearances outside of Poland. He worked for Passion Pro Wrestling in Hungary, as well as for Bologna-based Italian promotion Wrestling Megastars. In 2025 Leon also debuted for the Finnish-based SLAM Wrestling.
 
 ## In wrestling
 
