@@ -31,18 +31,18 @@ has_video = false
 ## Card
 
 {% card() %}
-- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[_🇭🇺_ Blaze](@/w/blaze.md)'
-  - s: World Cup Quarter Finals Match 
-- - '[_🇮🇹_ El G](@/w/el-g.md)'
-  - '_🇺🇦_ Baron Wolfgang Storm'
-  - s: World Cup Quarter Finals Match 
-- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
-  - '_🇩🇪_ Damian Adler'
-  - s: World Cup Quarter Finals Match 
-- - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
-  - '_🇦🇹_ Andi ZickZack'
-  - s: World Cup Quarter Finals Match 
+- - '[__🇵🇱__ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[__🇭🇺__ Blaze](@/w/blaze.md)'
+  - s: World Cup Quarter Finals Match
+- - '[__🇮🇹__ El G](@/w/el-g.md)'
+  - '__🇺🇦__ Baron Wolfgang Storm'
+  - s: World Cup Quarter Finals Match
+- - '__🏴󠁧󠁢󠁳󠁣󠁴󠁿__ Ben Rodgers'
+  - '__🇩🇪__ Damian Adler'
+  - s: World Cup Quarter Finals Match
+- - '[__🇪🇸__ Nano Lopez](@/w/nano-lopez.md)'
+  - '__🇦🇹__ Andi ZickZack'
+  - s: World Cup Quarter Finals Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - 'Bart Petro'
 - - '[Spartan](@/w/spartan.md)(c)'
@@ -59,18 +59,18 @@ has_video = false
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Sawicki](@/w/sawicki.md)'
   - s: Battle Royal
-- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[_🇮🇹_ El G](@/w/el-g.md)'
-  - s: World Cup Half Finals Match 
+- - '[__🇵🇱__ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[__🇮🇹__ El G](@/w/el-g.md)'
+  - s: World Cup Semi Final Match
     r: submission
-- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
-  - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
-  - s: World Cup Half Finals Match 
+- - '__🏴󠁧󠁢󠁳󠁣󠁴󠁿__ Ben Rodgers'
+  - '[__🇪🇸__ Nano Lopez](@/w/nano-lopez.md)'
+  - s: World Cup Semi Final Match
 - - 'Synowie Lasu: Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - 'Cheeki Breeki: Dante Slam & Petrick Pereski'
   - s: Tag Team match
-- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
+- - '[__🇵🇱__ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '__🏴󠁧󠁢󠁳󠁣󠁴󠁿__ Ben Rodgers'
   - s: World Cup Final Match
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
