@@ -26,7 +26,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Tag Team match
     nc: upcoming
-- - "'Fox' [Jakub](@/w/axel-fox.md)(c)"
+- - "['Fox' Jakub](@/w/axel-fox.md)(c)"
   - '[Max Speed](@/w/max-speed.md)'
   - c: '[Legacy of Wrestling European Championship](@/c/low-european-championship.md)'
     nc: upcoming
