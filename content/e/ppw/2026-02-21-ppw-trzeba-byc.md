@@ -68,11 +68,13 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * During Plata vs Agatka, [Filip Fux](@/w/filip-fux.md) ran up to the ring and distracted [Sędzia Kornel](@/w/sedzia-kornel.md), allowing [Oskar Alexander](@/w/oskar-alexander.md) to clobber Bartosz Plata with a guitar to the back, and handing Agatka an easy win.
 * [Istociarz](@/w/istociarz.md) mistook [Sędzia Kornel](@/w/sedzia-kornel.md) for [Sędzia Seweryn](@/w/sedzia-seweryn.md).
 * The stream went briefly offline as Plata was about to kiss Agatka's foot.
-* Before the next match an auction was held, where a full-size banner for [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) was sold to a fan for 350&nbsp;PLN (approx. 83&nbsp;EUR, 72&nbsp;GBP or 98&nbsp;USD). 
+* Before the next match an auction was held, where a full-size banner for [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) was sold to a fan for 350&nbsp;PLN (approx. 83&nbsp;EUR, 72&nbsp;GBP or 98&nbsp;USD).
 * On 21:37 the crowd started singing [Barka](@/a/polish-wrestling-chants.md#songs), albeit only briefly.
 * Filip Fux and Gustav Gryffin fought outside the ring for too long, leading to the referee counting them both out, thus ending the match without a winner.
 * After the bell, Fux and Gryffin returned to the ring and continued to brawl. After a short while, Jakub, Goblin and Oskar Alexander ran in and joined the brawl, setting up the stakes for [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where all three teams are set to clash for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
-* The live stream ended before the main event.
+* The live stream ended before the main event, as planned.
+* For the main event, Johnny entered with his shopping cart full of weapons, which mostly went unused. The match started with both trading stiff kendo stick blows to the back.
+* After the match, Johnny addressed the audience and Olgierd, stating that he has been in PpW since the very beginning, but never held the main prize, referring to Olgierd's [PpW Championship](@/c/ppw-championship.md). Johnny proceeded to challenge him to a match.
 
 ## References
 
