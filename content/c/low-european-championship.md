@@ -17,7 +17,7 @@ Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-lo
 
 ## Statistics
 
-* First champion: [Axel Fox](@/w/axel-fox.md)
+* First champion: [Axel Fox](@/w/jakub.md)
 * Most reigns: Axel Fox (1)
 * Longest reign: Axel Fox (1+ days)
 * Oldest champion: Axel Fox (27 years, 177 days)
@@ -25,7 +25,7 @@ Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-lo
 
 ## History
 
-The first mention of a "Legacy Championship" dates back to the [live Q&A][qna-legacy] hosted by [Legacy's](@/o/low.md) before their [second show](@/e/low/2025-04-06-low-2.md). The build-up, called "Road to the Title", started at that event with a series of matches which were continued at [Ryucon](@/e/low/2025-07-11-low-3.md) later that year. Wrestlers who advanced to the finals were [Max Speed](@/w/max-speed.md), [David Oliwa](@/w/david-oliwa.md), [Axel Fox](@/w/axel-fox.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Syriusz Dziedzic](@/w/dziedzic.md) and [Gabriel Queen](@/w/gabriel-queen.md). During the build-up to [Four the Glory](@/e/low/2025-12-20-low-4.md), the title was finally revealed and named "Legacy of Wrestling European Championship".
+The first mention of a "Legacy Championship" dates back to the [live Q&A][qna-legacy] hosted by [Legacy's](@/o/low.md) before their [second show](@/e/low/2025-04-06-low-2.md). The build-up, called "Road to the Title", started at that event with a series of matches which were continued at [Ryucon](@/e/low/2025-07-11-low-3.md) later that year. Wrestlers who advanced to the finals were [Max Speed](@/w/max-speed.md), [David Oliwa](@/w/david-oliwa.md), [Axel Fox](@/w/jakub.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Syriusz Dziedzic](@/w/dziedzic.md) and [Gabriel Queen](@/w/gabriel-queen.md). During the build-up to [Four the Glory](@/e/low/2025-12-20-low-4.md), the title was finally revealed and named "Legacy of Wrestling European Championship".
 
 ## Belt design
 
@@ -50,7 +50,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
     r: DQ
     en: '[Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)'
     ed: 2025-04-06
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Singles Match
     en: '[Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md)'
@@ -81,7 +81,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Max Speed](@/w/max-speed.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
   - s: Six-Way Elimination Match
     en: '[Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md)'
@@ -92,7 +92,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
 ### Champion #1: Axel Fox
 
 {% free_card() %}
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -101,7 +101,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - s: Six-Way Elimination Match
     en: '[Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md)'
     ed: 2015-12-20
-- - '[Jakub](@/w/axel-fox.md)(c)'
+- - '[Jakub](@/w/jakub.md)(c)'
   - 'Max Speed'
   - s: Singles Match
     en: '[No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'

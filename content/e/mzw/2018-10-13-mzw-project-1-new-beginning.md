@@ -27,7 +27,7 @@ has_video = true
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
 - - '[Lady Killer](@/w/boro.md)'
   - '[Asmund](@/w/asmund.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: Triple Threat Match
 - - '[Madman Charlie](@/w/madman-charlie.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'

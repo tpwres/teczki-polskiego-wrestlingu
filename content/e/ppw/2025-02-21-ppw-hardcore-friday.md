@@ -24,7 +24,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   Despite Johnny naming it "Drunken Ambition", this stipulation is distinct from the identically named one that the German federation WxW sometimes uses. In WxW, a shot is poured only after a wrestler _grabs the ropes_ deliberately, including trying to force a rope break. In the PpW version, _touching the ropes_ for any reason, with any body part (including touching the ropes with one's back after being thrown) is penalised with a vodka shot.
 * On 16.02.2025 PpW announced that Biesiad would have to face Mister Z's "special challenge" to earn his way back from his suspension.
 * The day after that since [Goblin](@/w/goblin.md) decided to go to Mexico instead of appearing at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), he'd now have to compete in a "lucha surprise" match.
-* On 18.02.2025 [Axel Fox](@/w/axel-fox.md) was announced.
+* On 18.02.2025 [Axel Fox](@/w/jakub.md) was announced.
 
 ## Card
 
@@ -43,7 +43,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - '[Sambor](@/w/sambor.md)'
   - s: 'Match 2 of Beat the Clock Challenge'
     n: "Mister Z's special challenge"
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[_rookie_ Bartosz](@/w/plata.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Triple Threat Match'

@@ -18,7 +18,7 @@ orgs = ["ptw", "ppw", "mzw", "low"]
 
 #### Formation in Maniac Zone Wrestling
 
-The group later named "Zieloni" formed itself from wrestlers and rookies who attended the 2018 edition of Summer Camp hosted by [Polska Akademia Wrestlingu](@/o/paw.md), a dojo operated by [Maniac Zone Wrestling](@/o/mzw.md). A few of the Zieloni knew each other either from training in MZW, backyard federations such as [Dream Factory Wrestling](@/o/dfw.md), or from online activity, but the class of 2018 PAW Summer Camp was the one where most of them officially got together. From this point on they formed a strongly-bonded social group. The group was heavly influenced by the teachings of [Justin Joy](@/w/justin-joy.md), who brought a lot of experience from his stint on the UK wrestling scene, as well as his approach to wrestling. This philosophy pushed many of the Greens to quickly attempt wrestling abroad instead of only getting bookings in MZW, and to develop themselves as a performers, which proved beneficial to many of the Greens, such as [Jacob Crane](@/w/jacob-crane.md), [Axel Fox](@/w/axel-fox.md) and [Gabriel Queen](@/w/gabriel-queen.md), in their future. 
+The group later named "Zieloni" formed itself from wrestlers and rookies who attended the 2018 edition of Summer Camp hosted by [Polska Akademia Wrestlingu](@/o/paw.md), a dojo operated by [Maniac Zone Wrestling](@/o/mzw.md). A few of the Zieloni knew each other either from training in MZW, backyard federations such as [Dream Factory Wrestling](@/o/dfw.md), or from online activity, but the class of 2018 PAW Summer Camp was the one where most of them officially got together. From this point on they formed a strongly-bonded social group. The group was heavly influenced by the teachings of [Justin Joy](@/w/justin-joy.md), who brought a lot of experience from his stint on the UK wrestling scene, as well as his approach to wrestling. This philosophy pushed many of the Greens to quickly attempt wrestling abroad instead of only getting bookings in MZW, and to develop themselves as a performers, which proved beneficial to many of the Greens, such as [Jacob Crane](@/w/jacob-crane.md), [Axel Fox](@/w/jakub.md) and [Gabriel Queen](@/w/gabriel-queen.md), in their future. 
 
 After [Project 6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) both [Asmund](@/w/asmund.md) and Justin left the MZW creative team and PAW coaching staff, with Justin eventually leaving MZW altogether following MZW's [next show](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md). 
 
@@ -55,7 +55,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 ## Members
 
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-* [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Axel Fox](@/w/jakub.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
 * [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}

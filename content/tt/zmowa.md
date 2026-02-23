@@ -22,11 +22,11 @@ The beggining of Zmowa dates back to late 2023/early 2024, when the villainous P
 
 #### Zmowa vs Zmowa Przeciwko Zmowie
 
-It became clear that Zmowa aimed for a total domination in every division of PpW, working together to achieve their goals by supporting each other in matches against their opponents. They become enemies with almost all of the remaining PpW roster, including [Biesiad](@/w/biesiad.md), [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md), Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)), [Samson](@/w/samson.md) and [Johnny Blade](@/w/johnny-blade.md).
+It became clear that Zmowa aimed for a total domination in every division of PpW, working together to achieve their goals by supporting each other in matches against their opponents. They become enemies with almost all of the remaining PpW roster, including [Biesiad](@/w/biesiad.md), [Axel Fox](@/w/jakub.md), [Goblin](@/w/goblin.md), Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)), [Samson](@/w/samson.md) and [Johnny Blade](@/w/johnny-blade.md).
 
 After an intense confrontation at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md), Biesiad announced the formation of an impromptu alliance of babyfaces called "Zmowa Przeciwko Zmowie" (_The Collusion Against The Collusion_) and challenged Zmowa for a tag team match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).
 
-The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) taking on [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), Jakub Linde and the surprise fifth contender, [Wiktor Longman](@/w/wiktor-longman.md) (in his PpW debut). After a long match all but one wrestler on each side were eliminated, leaving only [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md). Eventually Goblin scored pinned his opponent, thus defeating Zmowa. This left the stable visibly damaged, but despite that Zmowa remained active in the federation, its members often cooperating with each other in their personal feuds throughout PpW. 
+The event saw a 5 vs 5 elimination match of [Biesiad Strong](@/w/biesiad.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/jakub.md) and [Goblin](@/w/goblin.md) taking on [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), Jakub Linde and the surprise fifth contender, [Wiktor Longman](@/w/wiktor-longman.md) (in his PpW debut). After a long match all but one wrestler on each side were eliminated, leaving only [Goblin](@/w/goblin.md) and [Olgierd](@/w/olgierd.md). Eventually Goblin scored pinned his opponent, thus defeating Zmowa. This left the stable visibly damaged, but despite that Zmowa remained active in the federation, its members often cooperating with each other in their personal feuds throughout PpW. 
 
 #### Cracks in Zmowa
 
@@ -40,7 +40,7 @@ At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) 
 
 #### New and better Zmowa
 
-Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/axel-fox.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered to him by [Mister Z](@/w/mister-z.md), thus joining [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) he climbed on top of PpW's hierarchy once again after Olgierd won the PpW Championship from Goblin. Mister Z also announced Zmowa's intent to become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably in accordance with the [Freebird Rule][freebird-rule]), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match.
+Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/jakub.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered to him by [Mister Z](@/w/mister-z.md), thus joining [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) he climbed on top of PpW's hierarchy once again after Olgierd won the PpW Championship from Goblin. Mister Z also announced Zmowa's intent to become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably in accordance with the [Freebird Rule][freebird-rule]), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match.
 
 ## Members
 
@@ -49,7 +49,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
 * [Mister Z](@/w/mister-z.md) - the leader of Zmowa
 * [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
 * [Marco Hammers](@/w/marco-hammers.md) - [Legia Łysych](@/tt/legia-lysych.md)
-* [Axel Fox](@/w/axel-fox.md)
+* [Axel Fox](@/w/jakub.md)
 
 #### Former and part-time
 
@@ -80,7 +80,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - MZW/PpW Opportunity Briefcase (1 time) - [Mister Z](@/w/mister-z.md)
 * [Legacy of Wrestling](@/o/low.md):
-  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - [Axel Fox](@/w/axel-fox.md)
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - [Axel Fox](@/w/jakub.md)
   - Road to the Title Tournament (2025) - Axel Fox
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

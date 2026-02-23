@@ -48,7 +48,7 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wr
 
 #### Debut and joining Rodzina
 
-Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. Filip emerged victorious, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/axel-fox.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it at the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he'd joined. Unlike in KPW and Legacy, where he's a clear-cut babyface, in PpW he portrays a heel character.
+Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. Filip emerged victorious, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/jakub.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it at the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he'd joined. Unlike in KPW and Legacy, where he's a clear-cut babyface, in PpW he portrays a heel character.
 
 ## International wrestling appearances 
 

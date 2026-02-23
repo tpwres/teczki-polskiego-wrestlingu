@@ -50,7 +50,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - Marcin Najman
   - g: "Failed attempt at shaving [Karyna's](@/w/karyna.md) head, Najman's MMA promo"
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Jonny Storm](@/w/jonny-storm.md)'
   - Cowboy James Storm
@@ -108,7 +108,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 
 ### Gold Rush Rumble entrances and eliminations
 
-1. [Axel Fox](@/w/axel-fox.md)
+1. [Axel Fox](@/w/jakub.md)
 2. [Marcelito](@/w/marcelito.md)
 3. PTW Championship belt is unveiled
 4. Jonny Storm
@@ -153,7 +153,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 43. Puncher eliminates Arczi Czajka
 44. With the final four now in the ring, the Rumble became a Fatal Four-Way match.
 45. James Storm eliminates Spartan
-46. [Axel Fox](@/w/axel-fox.md) eliminates James Storm
+46. [Axel Fox](@/w/jakub.md) eliminates James Storm
 47. Puncher pins Axel Fox to win
 
 Mutant was last seen in PTW at their [very first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in 2021.

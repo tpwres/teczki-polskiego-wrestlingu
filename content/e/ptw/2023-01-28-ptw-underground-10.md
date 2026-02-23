@@ -20,7 +20,7 @@ PTW invited Danish wrestler Emilian Lewis for this event. At the time, Lewis com
 ## Card
 
 {% card() %}
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[El Ogre](@/w/olgierd.md)'

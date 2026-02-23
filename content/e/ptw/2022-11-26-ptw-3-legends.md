@@ -31,7 +31,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - '[Diana Strong](@/w/diana-strong.md)'
   - s: Triple Threat Match
 - - '[Justin Joy](@/w/justin-joy.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: No Disqualification Match
 - - '[Santino](@/w/santino.md)'
   - g: Santino named new co-owner of PTW

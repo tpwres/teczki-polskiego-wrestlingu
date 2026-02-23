@@ -18,7 +18,7 @@ The show was quickly sold out, so the attendance can be approximated at about 22
 
 ## Build-up
 
-* On 08.11.2024 it was announced that [Axel Fox](@/w/axel-fox.md) would face PpW's producer and leader of [Zmowa](@/tt/zmowa.md) in a Christmas Street Fight Match. It would be a continuation of the Fox-Z feud which started during [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July. It was also Fox's second Christmas-themed Stret Fight Match, as he fought in the same stipulation the year before at [PTW Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md)
+* On 08.11.2024 it was announced that [Axel Fox](@/w/jakub.md) would face PpW's producer and leader of [Zmowa](@/tt/zmowa.md) in a Christmas Street Fight Match. It would be a continuation of the Fox-Z feud which started during [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in July. It was also Fox's second Christmas-themed Stret Fight Match, as he fought in the same stipulation the year before at [PTW Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md)
 * On 25.11.2024 PpW announced that the current [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md) would face [Johnny Blade](@/w/johnny-blade.md) in a non-title match.
 * On 30.11.2024 PpW announced a special guest - Santa Claus. In the following days it was also announced that [Olgierd](@/w/olgierd.md), [Gabriel Queen](@/w/gabriel-queen.md) and [Goblin](@/w/goblin.md) would take part in the show.
 
@@ -43,7 +43,7 @@ The show was quickly sold out, so the attendance can be approximated at about 22
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: No Outside Weapons, Non-Title Match
 - - '[Mister Z](@/w/mister-z.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: 'Christmas Street Fight'
 - credits:
     Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -124,7 +124,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 #### Christmas Street Fight Match: Mister Z vs Axel Fox
 
 * Timestamp: `1:48:49`
-* [Axel Fox](@/w/axel-fox.md) makes his entrance to his "GobLis" tag team theme.
+* [Axel Fox](@/w/jakub.md) makes his entrance to his "GobLis" tag team theme.
 * Fox's opponent, [Mister Z](@/w/mister-z.md), is the second one to enter the ring. They begin to brawl almost immediately, once Fox manages to lay his hands on his opponent.
 * The whole fight is brutal and filled with vicious spots. At one point Axel's head starts bleeding after he is struck with a metal trashcan.
 * The fight takes place both in-ring and at the ringside, where both of the wrestlers brawl in the crowd. Besides that a lot of objects are used in the match - most notably the kendo stick, which is the weapon Mister Z used to attack Axel Fox on numerous occasions.

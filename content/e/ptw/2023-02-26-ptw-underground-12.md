@@ -39,7 +39,7 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
 - - '[Pure Gold](@/tt/pure-gold.md): [Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
-  - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+  - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/jakub.md)'
   - s: Semi Final Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'

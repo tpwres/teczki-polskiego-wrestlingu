@@ -18,7 +18,7 @@ The second [PTW](@/o/ptw.md) Underground show was held on Sunday, January 23rd 2
 
 {% card() %}
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Marcel "Marcelito" Budzianowski](@/w/marcelito.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'

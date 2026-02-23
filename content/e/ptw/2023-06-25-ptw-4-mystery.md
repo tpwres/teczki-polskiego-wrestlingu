@@ -21,14 +21,14 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 
 ## Build-up
 
-* With [Justin Joy](@/w/justin-joy.md) leaving PTW, [Axel Fox](@/w/axel-fox.md) was left without a tag team partner. The match was billed as Axel + mystery partner of his choice vs the Budapest Bastards.
+* With [Justin Joy](@/w/justin-joy.md) leaving PTW, [Axel Fox](@/w/jakub.md) was left without a tag team partner. The match was billed as Axel + mystery partner of his choice vs the Budapest Bastards.
 * By 2023, [Robert Star](@/w/robert-star.md) was primarily competing for various Danish organizations: mainly BODYSLAM!, Nordic Elite Wrestling, and Dansk Pro Wrestling. He appeared for PTW sparingly, despite being in the first major show's main event. This would be his final appearance for PTW, although he was still featured on its roster page.
 
 ## Card
 
 {% card() %}
 - - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)'
-  - '[Axel Fox](@/w/axel-fox.md) & [Jonny Storm](@/w/jonny-storm.md)'
+  - '[Axel Fox](@/w/jakub.md) & [Jonny Storm](@/w/jonny-storm.md)'
   - s: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) #1 Contender'
 - - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
   - '[Boro](@/w/boro.md)'

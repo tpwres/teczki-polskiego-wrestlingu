@@ -29,7 +29,7 @@ They entered a feud with [PAKA](@/tt/paka.md), facing them in various singles ma
 
 #### Tag Team Championships tournament
 
-As Pure Gold's popularity was rising, the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) was finally announced, with a tournament starting at [Underground 10](@/e/ptw/2023-01-28-ptw-underground-10.md). In the first round Pure Gold defeated The Bright Lights once again, while in the semi-finals they defeated FoxJoy ([Axel Fox](@/w/axel-fox.md) and [Justin Joy](@/w/justin-joy.md)). They got involved in a short program with both Axel and Justin, facing them both in singles competition and trying to drive a wedge between the two. They apparently succeeded, as Joy left PTW soon after and never returned.
+As Pure Gold's popularity was rising, the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) was finally announced, with a tournament starting at [Underground 10](@/e/ptw/2023-01-28-ptw-underground-10.md). In the first round Pure Gold defeated The Bright Lights once again, while in the semi-finals they defeated FoxJoy ([Axel Fox](@/w/jakub.md) and [Justin Joy](@/w/justin-joy.md)). They got involved in a short program with both Axel and Justin, facing them both in singles competition and trying to drive a wedge between the two. They apparently succeeded, as Joy left PTW soon after and never returned.
 
 During the lead-up to the tournament finals, Pure Gold revisited their feud with [PAKA](@/tt/paka.md), who also made it to the finals.
 They enlisted the help of [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md) and [Karyna](@/w/karyna.md), who themselves had issues with PAKA. All four beat PAKA down (with Karyna spraying Boro in the face) in the contract signing segment at [Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md). The ensuing pandemonium led to [Pawłowski](@/w/pan-pawlowski.md) making the finals a Tables Match.
@@ -92,4 +92,3 @@ Just before Queen went for the second pinfall and victory, Vic Golden turned on 
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Tag Team of the Year (2022)
     * Newcomer of the Year (2022) - [Vic Golden](@/w/vic-golden.md)
-  

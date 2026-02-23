@@ -14,13 +14,13 @@ has_video = true
 
 This was [PTW's](@/o/ptw.md) return to Ryucon, an anime/manga fan convention held annually in Kraków for the second year. Like last year, the event was held at the [Tauron Arena](@/v/tauron-arena.md), a multipurpose sports and event hall, with a capacity of up to 20,000 spectators. This time wrestling occuppied the main arena. The event featured references to the manga convention, including custom, manga-inspired graphics for the wrestlers and entrance themes.
 
-British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/axel-fox.md), who was his tag team partner at [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). Also, Italian wrestler [Sam Rogers](@/w/sam-rogers.md) made his PTW debut.
+British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/jakub.md), who was his tag team partner at [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md). Also, Italian wrestler [Sam Rogers](@/w/sam-rogers.md) made his PTW debut.
 
 ## Card
 
 {% card() %}
 - - '[Jonny Storm](@/w/jonny-storm.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md) w/ [Karyna](@/w/karyna.md)'
   - '[Boro](@/w/boro.md)'
 - - '[Syriusz Dziedzic](@/w/dziedzic.md)'

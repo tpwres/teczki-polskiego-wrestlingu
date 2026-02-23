@@ -20,7 +20,7 @@ has_video = false
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Open Challenge Four Way Match'
 - - '[Matt Buckna](@/w/matt-buckna.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: 'No Disqualification Match'
 - - '[Shadow](@/w/shadow.md)'
   - 'Fast Time Moodo'

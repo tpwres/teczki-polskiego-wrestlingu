@@ -1,5 +1,5 @@
 01 = { path = "nano-lopez.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
-02 = { path = "axel-fox-vs-renegade.webp", caption = "Image announcing [Axel Fox](@/w/axel-fox.md) vs [Renegade](@/w/renegade.md).", source = "Official PTW Facebook" }
+02 = { path = "axel-fox-vs-renegade.webp", caption = "Image announcing [Axel Fox](@/w/jakub.md) vs [Renegade](@/w/renegade.md).", source = "Official PTW Facebook" }
 03 = { path = "disco-pablo-vs-wiktor-longman-vs-samson.webp", caption = "Image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Wiktor Longman](@/w/wiktor-longman.md) vs [Samson](@/w/samson.md).", source = "Official PTW Facebook" }
 04 = { path = "puncher-vs-taras.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs [Taras](@/w/taras.md).", source = "Official PTW Facebook" }
 05 = { path = "spartan-vs-gabriel-queen.webp", caption = "Image announcing [Spartan](@/w/spartan.md) vs [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PTW Facebook" }

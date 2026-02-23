@@ -39,7 +39,7 @@ In September 2019 persons unknown broke into the building where MZW held trainin
 
 MZW was most active from 2014 to 2019, holding about five events a year. 2020 put a stop to that due to the COVID-19 pandemic and nationwide restrictions introduced. In 2021, unable to hold shows, MZW produced a series of events without live audience ([Project Basement](@/e/project-basement.md)), which were released on YouTube. No events of any kind were held in 2022.
 
-In 2020 and 2021 several wrestlers would quit and join the newly created [PTW](@/o/ptw.md) to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
+In 2020 and 2021 several wrestlers would quit and join the newly created [PTW](@/o/ptw.md) to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/jakub.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
 
 In 2024, MZW held a fight for the long-vacant [MZW Championship](@/c/mzw-championship.md), and a [new champion](@/w/matt-buckna.md) was finally crowned.
 

@@ -19,7 +19,7 @@ For this event, PTW invited Northern Irish wrestler Myla Grace, who was briefly 
 ## Card
 
 {% card() %}
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Renegade](@/w/renegade.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '[Myla Grace](@/w/myla-grace.md)'
