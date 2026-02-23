@@ -18,10 +18,16 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 
 * The [announcement post][teraziej-albo-nigdywiej] recalled the "20 typa, 20 broni" (_20 dudes, 20 weapons_) match from Teraz Albo Nigdy and, this being a sequel, promised "even more dudes, even more weapons".
 * The first match, announced on 10.02.2026, was a "25 typa, 25 broni" (_25 dudes, 25 weapons_). Like previously, the winner gets a title shot for the [PpW Championship](@/c/ppw-championship.md) at Ledwo Legalne 6.
+* Next came the Triple Threat Match between [Sentinel](@/w/sentinel.md), [Antoni Ocean](@/w/antoni-ocean.md) and [Max Speed](@/w/max-speed.md), announced on 23.02.2026.
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[Sentinel](@/w/sentinel.md)'
+  - [Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - s: Triple Threat Match
+    nc: upcoming
 - - '???'
   - '???'
   - '???'
