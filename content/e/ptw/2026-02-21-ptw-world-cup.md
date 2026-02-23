@@ -43,7 +43,7 @@ has_video = false
 - - '[**🇪🇸** Nano Lopez](@/w/nano-lopez.md)'
   - '**🇦🇹** Andi ZickZack'
   - s: World Cup Quarter Finals Match 
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - 'Bart Petro'
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Renegade](@/w/renegade.md)'
