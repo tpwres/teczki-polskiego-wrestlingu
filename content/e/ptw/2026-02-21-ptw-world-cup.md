@@ -70,7 +70,7 @@ has_video = false
   - 'Cheeki Breeki: Dante Slam & Petrick Pereski'
   - s: Tag Team match
 - - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
+  - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
   - s: World Cup Final Match
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
