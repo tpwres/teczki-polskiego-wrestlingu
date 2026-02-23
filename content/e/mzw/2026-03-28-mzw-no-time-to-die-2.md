@@ -17,6 +17,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 ## Build-up
 
 * The first match was announced on 17.02.2026: [Shadow](@/w/shadow.md) & [Marcelito](@/w/marcelito.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md).
+* 23.02.2026 saw the announcement of [Jakub](@/w/axel-fox.md) vs [Max Speed](@/w/max-speed.md) for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). This marks the first defence of the Legacy title.
 
 ## Predicted card
 
@@ -24,6 +25,10 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 - - '[Shadow](@/w/shadow.md) & [Marcelito](@/w/marcelito.md)'
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Tag Team match
+    nc: upcoming
+- - "['Fox' Jakub](@/w/axel-fox.md)(c)"
+  - '[Max Speed](@/w/max-speed.md)'
+  - c: '[Legacy of Wrestling European Championship](@/c/low-european-championship.md)'
     nc: upcoming
 - credits:
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
