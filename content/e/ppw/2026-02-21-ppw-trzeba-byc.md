@@ -61,7 +61,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 
 ### Recap
 
-* The live stream suffered from major audio issues, with the same sound being played several times concurrently with different lags, making it impossible to make out. It was also too quiet, and Windows system sounds of a USB device being unplugged and plugged back in kept playing at regular intervals. The issue persisted until around halfway through the Triple Threat Match.
+* The live stream initially suffered from major audio issues, including Windows system sounds of a USB device being unplugged and plugged back in. The issue persisted until around halfway through the Triple Threat Match.
 * [Istociarz](@/w/istociarz.md) was heard talking before the show started, including giving [Istotna Martynka](@/w/istotna-martynka.md) his PpW VOD password (but not the login).
 * The show was streamed live using a single camera.
 * [Biesiad Strong](@/w/biesiad.md) was present at ringside, purportedly as a regular fan, to support [Goblin](@/w/goblin.md).
