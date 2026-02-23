@@ -58,10 +58,10 @@ From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łuk
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
+  - PTW World Cup (1 time; current)  
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Alex Brave](@/w/alex-brave.md); current)
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Newcomer of the Year (2024)
-  
 
 ## Internet presence
 

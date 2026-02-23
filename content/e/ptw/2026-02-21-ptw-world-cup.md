@@ -28,41 +28,50 @@ has_video = false
 * The first World Cup Match, announced on 20.02.2026, was Baron Wolfgang Storm vs [El G](@/w/el-g.md).
 * On the day of the show, PTW announced referees [Klaudiusz](@/w/sedzia-klaudiusz.md) & [Herno](@/w/sedzia-herno.md), and the commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) & [Krystian "Resivny" Smoleń](@/w/resivny.md), as well as the match-ups of [Nano Lopez](@/w/nano-lopez.md) vs Andi ZickZack, Damian Adler vs Ben Rodgers and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Blaze](@/w/blaze.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[El G](@/w/el-g.md)'
-  - 'Baron Wolfgang Storm'
-  - s: World Cup Match 
-    nc: upcoming
-- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[Blaze](@/w/blaze.md)'
-  - s: World Cup Match 
-    nc: upcoming
+{% card() %}
+- - '[**🇵🇱** Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[**🇭🇺** Blaze](@/w/blaze.md)'
+  - s: World Cup Quarter Finals Match 
+- - '[**🇮🇹** El G](@/w/el-g.md)'
+  - '**🇺🇦** Baron Wolfgang Storm'
+  - s: World Cup Quarter Finals Match 
+- - '**🏴󠁧󠁢󠁳󠁣󠁴󠁿** Ben Rodgers'
+  - '**🇩🇪** Damian Adler'
+  - s: World Cup Quarter Finals Match 
+- - '[**🇪🇸** Nano Lopez](@/w/nano-lopez.md)'
+  - '**🇦🇹** Andi ZickZack'
+  - s: World Cup Quarter Finals Match 
+- - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - 'Bart Petro'
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Renegade](@/w/renegade.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
-- - 'Andi ZickZack'
-  - '[Nano Lopez](@/w/nano-lopez.md)'
-  - s: World Cup Match 
-    nc: upcoming
 - - '[Daniel Razor](@/w/daniel-razor.md)'
-  - '[Sigma Boy xD](@/w/sigma-boy.md)'
-  - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - '[Blaze](@/w/blaze.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
+  - 'Flex Skywalker'
   - '[CJ Klakson](@/w/cj-klakson.md)'
+  - '[Boguś](@/w/bogus.md)'
+  - '[Bumper](@/w/bumper.md)'
+  - 'Jordan Wolf'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Sawicki](@/w/sawicki.md)'
   - s: Battle Royal
-    nc: upcoming
-- - 'Damian Adler'
-  - 'Ben Rodgers'
-  - s: World Cup Match 
-    nc: upcoming
+- - '[**🇵🇱** Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[**🇮🇹** El G](@/w/el-g.md)'
+  - s: World Cup Half Finals Match 
+    r: submission
+- - '**🏴󠁧󠁢󠁳󠁣󠁴󠁿** Ben Rodgers'
+  - '[**🇪🇸** Nano Lopez](@/w/nano-lopez.md)'
+  - s: World Cup Half Finals Match 
 - - 'Synowie Lasu: Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - '???'
+  - 'Cheeki Breeki: Dante Slam & Petrick Pereski'
   - s: Tag Team match
-    nc: upcoming
+- - '[**🇵🇱** Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+- - '**🏴󠁧󠁢󠁳󠁣󠁴󠁿** Ben Rodgers'
+  - s: World Cup Final Match
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
