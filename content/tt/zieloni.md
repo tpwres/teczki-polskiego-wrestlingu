@@ -55,7 +55,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 ## Members
 
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-* [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Axel Fox](@/w/jakub.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
 * [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw', 'low', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
