@@ -30,7 +30,7 @@ Piotr Opolski made his debut in [Kombat Pro Wrestling](@/o/kpw.md) in February 2
 
 #### Return to KPW
 
-For 2.5 years Piotr Opolski wasn't seen at KPW in any capacity, until he made a surprise return at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), where he took over the ring announcing duty from [Kinga Miotke](@/w/kinga-miotke.md), due to numerous "upgrades" announced by the acting chairman of KPW [Victor Rosetti](@/w/rosetti.md). He lasted on his position only until the next show - [Zły Omen](@/e/kpw/2025-04-11-kpw-arena-28.md) - after which Kinga returned to her natural role.
+For 2.5 years Piotr Opolski hadn't been seen in KPW in any capacity, until he made a surprise return at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). He took over the ring announcing duty from [Kinga Miotke](@/w/kinga-miotke.md) due to numerous "upgrades" announced by the acting chairman [Rosetti](@/w/rosetti.md). He=owever, he only lasted in this position until [the following show](@/e/kpw/2025-04-11-kpw-arena-28.md), after which Kinga returned to her natural role.
 
 ## In wrestling
 
