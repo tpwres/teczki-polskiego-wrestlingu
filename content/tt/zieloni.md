@@ -56,7 +56,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
 * [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
+* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw', 'low', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
 * [Jacob Crane](@/w/jacob-crane.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
@@ -68,7 +68,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 
 #### Honorary members
 * [Asmund](@/w/asmund.md) {{ org_badge(org='mzw') }} 
-* [Justin Joy](@/w/justin-joy.md)  {{ org_badge(orgs=['mzw', 'ptw']) }} 
+* [Justin Joy](@/w/justin-joy.md)  {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }} 
 
 It is important to note that not all MZW wrestlers are Greens. The group was started by wrestlers who joined in 2017/2018, and created a strongly bonded social group, connected by their wrestling endeavors. Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also started their training in MZW, or [Shadow](@/w/shadow.md) who founded the organization, are not considered to be Greens.
 
