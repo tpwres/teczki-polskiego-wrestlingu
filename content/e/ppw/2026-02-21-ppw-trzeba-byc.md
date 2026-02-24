@@ -64,7 +64,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * The live stream initially suffered from major audio issues, including Windows system sounds of a USB device being unplugged and plugged back in. The issue persisted until around halfway through the Triple Threat Match.
 * The show was streamed live using a single camera.
 * [Biesiad Strong](@/w/biesiad.md) was present at ringside, purportedly as a regular fan, to support [Goblin](@/w/goblin.md).
-* After the match ended, Biesiad entered the ring to stop Fox from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and the Polish Carpenter was removed by a group of other wrestlers.
+* After the match ended, Biesiad entered the ring to stop Jakub from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and the Polish Carpenter was removed by a group of other wrestlers.
 * During Plata vs Agatka, [Filip Fux](@/w/filip-fux.md) ran up to the ring and distracted [Sędzia Kornel](@/w/sedzia-kornel.md), allowing [Oskar Alexander](@/w/oskar-alexander.md) to clobber Bartosz Plata with a guitar to the back, and handing Agatka an easy win.
 * [Istociarz](@/w/istociarz.md) mistook [Sędzia Kornel](@/w/sedzia-kornel.md) for [Sędzia Seweryn](@/w/sedzia-seweryn.md).
 * The stream went briefly offline as Plata was about to kiss Agatka's foot.
@@ -79,6 +79,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=445711)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-trzeba-byc-21-02-2026-02-21-2026-20-49-29) (requires paid subscription)
 * [Facebook post announcing the event][byc-albo-nie-byc]
 
 [byc-albo-nie-byc]: https://www.facebook.com/OficjalnePPW/posts/pfbid0gBGrxBpUux2zcMTGorUNQ3wjWGHnx8iUzpgMMQKXgMRgaZJRdWqfuJnFV5macrCWl
