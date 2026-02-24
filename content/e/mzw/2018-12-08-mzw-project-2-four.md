@@ -20,7 +20,7 @@ has_video = true
   - '[Asmund](@/w/asmund.md)'
   - nc: 'No Contest'
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Asmund](@/w/asmund.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Justin Joy](@/w/justin-joy.md)'

@@ -30,7 +30,7 @@ has_video = false
   - '[Shadow](@/w/shadow.md)'
 - - '[Zeritus](@/w/zeritus.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Nathan Cross](@/w/gabriel-queen.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - 'Fast Time Moodo'

@@ -42,7 +42,7 @@ For this event, PTW invited several guests from the independent European and Ame
 - - Tristan Archer
   - '[Jacob Crane](@/w/jacob-crane.md)'
 - - '[Justin Joy](@/w/justin-joy.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Jonny Storm](@/w/jonny-storm.md)'
   - s: Three Way Match
 - - Matt Sydal

@@ -47,7 +47,7 @@ Longman made his return in October 2024, this time to [PpW](@/o/ppw.md), when he
 
 ### Legacy of Wrestling (2024-present)
 
-Initially Longman was supposed to challenge the [PpW Champion](@/c/ppw-championship.md) Gustav Gryffin in the main event of [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md). However, due to personal reasons he was pulled off the card and didn't appear at the show. His spot in the main event was taken by [Axel Fox](@/w/axel-fox.md) instead.
+Initially Longman was supposed to challenge the [PpW Champion](@/c/ppw-championship.md) Gustav Gryffin in the main event of [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md). However, due to personal reasons he was pulled off the card and didn't appear at the show. His spot in the main event was taken by [Axel Fox](@/w/jakub.md) instead.
 
 At the [second Legacy show](@/e/low/2025-04-06-low-2.md), [Arkadiusz Paterek](@/w/arek-paterek.md) opened the show by introducing Longman as the organization's new _acting Chairman_ and ring announcer. 
 

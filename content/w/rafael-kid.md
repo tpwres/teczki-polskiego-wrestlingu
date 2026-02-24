@@ -39,7 +39,7 @@ Rafael Kid made his debut in [PpW Ewenement](@/o/ppw.md) at [PpW Brak Mi Słów]
 
 ## International wrestling appearances
 
-In 2019 Rafael made a one-off appearance for Next Step Wrestling in Germany, where he worked in a tag team match alongside [Axel Fox](@/w/axel-fox.md).
+In 2019 Rafael made a one-off appearance for Next Step Wrestling in Germany, where he worked in a tag team match alongside [Axel Fox](@/w/jakub.md).
 
 ## In wrestling
 

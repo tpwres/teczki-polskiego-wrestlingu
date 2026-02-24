@@ -19,10 +19,10 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 {% card() %}
 - - '[Marcelito](@/w/marcelito.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - g: "Dr Fox examines Marco's baldness"
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Rafi Rarytas](@/w/rafi.md)'
@@ -55,7 +55,7 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
 ### Recap
 
 * Fed up with not scoring a single win, [Syriusz Dziedzic](@/w/dziedzic.md) storyline-quit PTW after his match.
-* In a pre-match comedic segment, a promo by Hammers was interrupted by "Dr Fox", in a white lab coat, who offered to cure Hammers's baldness. After Marco's refusal, Dr Fox dropped the disguise to reveal himself as [Axel Fox](@/w/axel-fox.md), and the match started.
+* In a pre-match comedic segment, a promo by Hammers was interrupted by "Dr Fox", in a white lab coat, who offered to cure Hammers's baldness. After Marco's refusal, Dr Fox dropped the disguise to reveal himself as [Axel Fox](@/w/jakub.md), and the match started.
 * Post-match, Longman attacked Rarytas, choking him with his "Power of Friendship" T-shirt. Pawłowski stopped the attack, but the furious Longman attempted to attack Pawłowski as well. After a while, Longman collected himself, declared "the boss is always right" and left the ring.
 * GM Pawłowski announces a showcase match featuring two foreign wrestlers: Noah Charon and Salomon Strid. After they made their entrances, [Olgierd](@/w/olgierd.md) entered with Karyna and demanded to be added to the match. Pawłowski agrees, making it a Triple Threat.
 * [Puncher](@/w/puncher.md) bragged about defeating [Diana Strong](@/w/diana-strong.md) in his pre-match promo, and promised to dispatch any and all women that want to fight him. Insulted [Robert Star](@/w/robert-star.md) and his opponent [Boro](@/w/boro.md).

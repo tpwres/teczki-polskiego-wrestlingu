@@ -3,7 +3,7 @@
 00003 = { path = "low2-logo.jpg", caption = "Official logo.", source = "Official Legacy Facebook" }
 00004 = { path = "legia-vs-fuxy.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) & [Filip Fux](@/w/filip-fux.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Note the incorrect date of 2024.", source = "Official Legacy Facebook" }
 00005 = { path = "greg-vs-vic.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Vic Golden](@/w/vic-golden.md).", source = "Official Legacy Facebook" }
-00006 = { path = "queen-vs-fox.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Axel Fox](@/w/axel-fox.md).", source = "Official Legacy Facebook" }
+00006 = { path = "queen-vs-fox.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Axel Fox](@/w/jakub.md).", source = "Official Legacy Facebook" }
 00007 = { path = "gustav-vs-kubes.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs Kubes.", source = "Official Legacy Facebook" }
 00008 = { path = "pablo-sie-wypowie.webp", caption = "_[Disco Pablo](@/w/disco-pablo.md) will address the events of the [first show](@/e/low/2024-12-01-low-1.md)._", source = "Official Legacy Facebook" }
 00009 = { path = "robert-star-is-legacy.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md) as a special guest.", source = "Official Legacy Facebook" }
@@ -19,15 +19,15 @@
 40001 = { path = "greg-star-golden-chemik.webp", caption = "Robert Star and Vic Golden reach out to Greg and Chemik.", source = "M3n747" }
 50001 = { path = "5-way.webp", caption = "Five-Way Match. Left to right: Aron Wake, [Shadow](@/w/shadow.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sambor](@/w/sambor.md), [Rusałka](@/w/rusalka.md) (outside the ring) and [Biesiad Strong](@/w/biesiad.md).", source = "M3n747" }
 50002 = { path = "biesiad-dzwiga-opozycje.webp", caption = "[Biesiad Strong](@/w/biesiad.md) throws Erik Šlotíř, Sambor and Shadow from the corner.", source = "M3n747" }
-60001 = { path = "axel-wejscie-1.webp", caption = "[Axel Fox's](@/w/axel-fox.md) lenghty entrance:<br />Among the fans.", source = "M3n747" }
-60002 = { path = "axel-wejscie-2.webp", caption = "[Axel Fox's](@/w/axel-fox.md) lenghty entrance 2:<br />Next to Wiktor Longman and [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
-60003 = { path = "axel-wejscie-3.webp", caption = "[Axel Fox's](@/w/axel-fox.md) lenghty entrance 3:<br />He's still entering.", source = "M3n747" }
-60004 = { path = "foksiasty.jpg", caption = "A cinematic close-up of [Axel Fox](@/w/axel-fox.md).", source = "Legacy / Extreme Sports Channel" }
+60001 = { path = "axel-wejscie-1.webp", caption = "[Axel Fox's](@/w/jakub.md) lenghty entrance:<br />Among the fans.", source = "M3n747" }
+60002 = { path = "axel-wejscie-2.webp", caption = "[Axel Fox's](@/w/jakub.md) lenghty entrance 2:<br />Next to Wiktor Longman and [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
+60003 = { path = "axel-wejscie-3.webp", caption = "[Axel Fox's](@/w/jakub.md) lenghty entrance 3:<br />He's still entering.", source = "M3n747" }
+60004 = { path = "foksiasty.jpg", caption = "A cinematic close-up of [Axel Fox](@/w/jakub.md).", source = "Legacy / Extreme Sports Channel" }
 60005 = { path = "bar-fight-01.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) helps himself to something from the bar, amusing a bartender.", source = "M3n747" }
-60006 = { path = "bar-fight-02.webp", caption = "[Axel Fox](@/w/axel-fox.md) reaches for Gabriel Queen.", source = "M3n747" }
-60007 = { path = "bar-fight-03.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) and [Axel Fox](@/w/axel-fox.md) brawl on the bar.", source = "M3n747" }
-60008 = { path = "axel-finally-wins.webp", caption = "[Axel Fox](@/w/axel-fox.md) triumphs, much to [Sędzia Seweryn's](@/w/sedzia-seweryn.md) discreet delight.", source = "Official Legacy Facebook" }
-60009 = { path = "fox-queen-handshake.webp", caption = "[Axel Fox](@/w/axel-fox.md) and [Gabriel Queen](@/w/gabriel-queen.md) shake hands.", source = "M3n747" }
+60006 = { path = "bar-fight-02.webp", caption = "[Axel Fox](@/w/jakub.md) reaches for Gabriel Queen.", source = "M3n747" }
+60007 = { path = "bar-fight-03.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) and [Axel Fox](@/w/jakub.md) brawl on the bar.", source = "M3n747" }
+60008 = { path = "axel-finally-wins.webp", caption = "[Axel Fox](@/w/jakub.md) triumphs, much to [Sędzia Seweryn's](@/w/sedzia-seweryn.md) discreet delight.", source = "Official Legacy Facebook" }
+60009 = { path = "fox-queen-handshake.webp", caption = "[Axel Fox](@/w/jakub.md) and [Gabriel Queen](@/w/gabriel-queen.md) shake hands.", source = "M3n747" }
 70001 = { path = "taras-i-pablo.webp", caption = "[Taras](@/w/taras.md) confronts Disco Pablo.", source = "M3n747" }
 80001 = { path = "legia-wejscie.webp", caption = "[Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md) make their entrance.", source = "M3n747" }
 80002 = { path = "fux-slam.webp", caption = "Filip Fux and Michał Fux about to bodyslam Olgierd and Marco Hammers respectively.", source = "M3n747" }

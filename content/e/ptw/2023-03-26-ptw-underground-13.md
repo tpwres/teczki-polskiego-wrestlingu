@@ -25,7 +25,7 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
   - '[Boro](@/w/boro.md)'
 - - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[Marcelito](@/w/marcelito.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Diana Strong](@/w/diana-strong.md)'

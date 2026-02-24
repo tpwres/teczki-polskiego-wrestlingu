@@ -1,5 +1,5 @@
 00001 = { path = "low-4-logo.webp", caption = "Official logo.", source = "Official Legacy Facebook" }
-00002 = { path = "low-4-banner.webp", caption = "Official banner, featuring all six Championship contenders. Left to right, top: [Gustav Gryffin](@/w/gustav-gryffin.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Gabriel Queen](@/w/gabriel-queen.md); bottom: [Max Speed](@/w/max-speed.md), [Axel Fox](@/w/axel-fox.md), [David Oliwa](@/w/david-oliwa.md).", source = "Official Legacy Facebook" }
+00002 = { path = "low-4-banner.webp", caption = "Official banner, featuring all six Championship contenders. Left to right, top: [Gustav Gryffin](@/w/gustav-gryffin.md), [Syriusz Dziedzic](@/w/dziedzic.md), [Gabriel Queen](@/w/gabriel-queen.md); bottom: [Max Speed](@/w/max-speed.md), [Axel Fox](@/w/jakub.md), [David Oliwa](@/w/david-oliwa.md).", source = "Official Legacy Facebook" }
 00003 = { path = "gulasz-is-legacy.webp", caption = "Image announcing [Gulyás Öcsi](@/w/gulyas-ocsi.md).", source = "Official Legacy Facebook" }
 00004 = { path = "rosetti-tez-jest-legacy.webp", caption = "Image announcing [Rosetti](@/w/rosetti.md).", source = "Official Legacy Facebook" }
 00005 = { path = "disco-krecik.webp", caption = "Image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Erik Šlotíř](@/w/erik-slotir.md).", source = "Official Legacy Facebook" }
@@ -44,14 +44,14 @@
 00703 = { path = "syriusz-odziedziczyl-ciuchy.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) is back in black.", source = "M3n747" }
 00704 = { path = "david-oliwa.webp", caption = "[David Oliwa's](@/w/david-oliwa.md) entrance.", source = "M3n747" }
 00705 = { path = "oliwa-posrod-ludu.webp", caption = "[David Oliwa](@/w/david-oliwa.md) among the common people.", source = "M3n747" }
-00706 = { path = "fajerstarter.webp", caption = "[Axel Fox](@/w/axel-fox.md) ready to start a fire.", source = "M3n747" }
-00707 = { path = "paczaj-pan-foksa-nie-lubio.webp", caption = "Fans express their dissatisfaction with apparent moral lapses of [Axel Fox](@/w/axel-fox.md).", source = "M3n747" }
+00706 = { path = "fajerstarter.webp", caption = "[Axel Fox](@/w/jakub.md) ready to start a fire.", source = "M3n747" }
+00707 = { path = "paczaj-pan-foksa-nie-lubio.webp", caption = "Fans express their dissatisfaction with apparent moral lapses of [Axel Fox](@/w/jakub.md).", source = "M3n747" }
 00708 = { path = "gryffin-wszedl-rakiem.webp", caption = "Gustav Gryffin's entrance.", source = "M3n747" }
 00709 = { path = "krol-i-krolowa-baru.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) poses on top of the bar.", source = "M3n747" }
 00710 = { path = "stairway-to-pieterko.webp", caption = "Max Speed climbs the stairs to the club's mezzanine…", source = "M3n747" }
 00711 = { path = "maksiu-frunie.webp", caption = "…and jumps.", source = "M3n747" }
 00712 = { path = "gabriel-w-uscisku-gustava.webp", caption = "Gustav Gryffin chokes [Gabriel Queen](@/w/gabriel-queen.md).", source = "M3n747" }
 00713 = { path = "dwa-piny-w-cenie-jednego.webp", caption = "Gustav Gryffin and Axel Fox pin David Oliwa.", source = "M3n747" }
-00714 = { path = "axel-fox-zwycieski.webp", caption = "[Axel Fox](@/w/axel-fox.md), the new Legacy Champion.", source = "M3n747" }
+00714 = { path = "axel-fox-zwycieski.webp", caption = "[Axel Fox](@/w/jakub.md), the new Legacy Champion.", source = "M3n747" }
 99998 = { path = "portret-pamieciowy-davida-o.webp", caption = "A fan with a self-made David Oliwa sign.", source = "M3n747" }
 99999 = { path = "pierwiosnek.jpg", caption = "Legacy of Wrestling vol. √16.", source = "Szymon Czuj, via Robert Niesłuchowski" }

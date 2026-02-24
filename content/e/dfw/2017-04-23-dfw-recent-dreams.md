@@ -34,7 +34,7 @@ With five matches on the card, this was a big event by DFW's standards. In the m
   - '[Malmo Buruto](@/w/malmo-buruto.md) & Hekate'
   - s: Tag Team Match
 - - '[PJ Blake](@/w/pj-blake.md)'
-  - '[Amisz](@/w/axel-fox.md)'
+  - '[Amisz](@/w/jakub.md)'
 - - '[Revage](@/w/rafael-kid.md)'
   - '[Chris Hunter](@/w/chris-hunter.md)(c)'
   - c: '[DFW Championship](@/c/dfw-championship.md)'

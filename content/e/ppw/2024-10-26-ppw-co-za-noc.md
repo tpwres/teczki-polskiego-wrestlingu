@@ -61,7 +61,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
       Team Biesiad:
       [Vic Golden](@/w/vic-golden.md),
       [Gabriel Queen](@/w/gabriel-queen.md),
-      [Axel Fox](@/w/axel-fox.md),
+      [Axel Fox](@/w/jakub.md),
       [Goblin](@/w/goblin.md),
       [Biesiad Strong](@/w/biesiad.md)
   - >
@@ -172,7 +172,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Michael HT hypes up the next match as one of the most improtant fights in the history of PSW ("Polska Scena Wrestlingu", _Polish Wrestling Scene_). Referee Seweryn makes his way to the ring. The loud "Fuck the Collusion" chants are audible.
 * Timestamp: `3:27:12`
 * Pure Gold ([Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)) make their entrance as first members of "Zmowa przeciwko zmowie". The crowd sings their "Best of Both Worlds" theme song.
-* Goblis ([Axel Fox](@/w/axel-fox.md) &[Goblin](@/w/goblin.md)) make their entrance rocking a new theme song "Punk Tactics" by Joey Valence & Brae.
+* Goblis ([Axel Fox](@/w/jakub.md) &[Goblin](@/w/goblin.md)) make their entrance rocking a new theme song "Punk Tactics" by Joey Valence & Brae.
 * The captain of the team [Biesiad Strong](@/w/biesiad.md) makes his entrance to the crowd's great approval. The whole team hypes themselves up in the ring.
 * HT announces the first members of "Zmowa" - Legia Łysych ([Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)) make their way through the entrance, waiting for the rest of "Zmowa" by the ring.
 * [Mister Z](@/w/mister-z.md) and Jakub Linde make their way to the ring together. The leader of "Zmowa" then cuts a short promo, promising to his enemies that if Biesiad's team lose today's Ustawka Match, they won't be paid for the next year in the federation, and all of the saved-up funds will be donated to support mentaly ill people, such as Biesiad and his crew. Then he announces the Collusion's mystery partner...

@@ -22,7 +22,7 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 
 {% card() %}
 - - '[Renegade](@/w/renegade.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Sinister](@/w/sinister.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
 - - '[Remo](@/w/remo.md)'

@@ -51,7 +51,7 @@ Samson made a one-off appearance in [Maniac Zone Wrestling](@/o/mzw.md), where h
 
 ## International appearances
 
-In 2024 Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent, trained at WxW Academy in Gelsenkirchen, and worked as ring crew during their major 16 Carat Gold event in March in Oberhausen.
+In 2024 Samson, along with [Axel Fox](@/w/jakub.md) and other Polish talent, trained at WxW Academy in Gelsenkirchen, and worked as ring crew during their major 16 Carat Gold event in March in Oberhausen.
 
 ## In wrestling
 
@@ -76,4 +76,4 @@ In 2024 Samson, along with [Axel Fox](@/w/axel-fox.md) and other Polish talent, 
 ## Internet presence
 
 * [Samson's Facebook profile](https://www.facebook.com/Samsontgg/) 
-* [Samson's Instagram](https://instagram.com/tg.samson) 
+* [Samson's Instagram](https://instagram.com/tg.samson)

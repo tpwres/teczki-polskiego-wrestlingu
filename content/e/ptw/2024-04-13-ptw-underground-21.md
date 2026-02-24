@@ -24,7 +24,7 @@ It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-1
 
 {% card() %}
 - - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)'
-  - '[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/axel-fox.md)'
+  - '[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/jakub.md)'
   - s: Open Challenge
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'

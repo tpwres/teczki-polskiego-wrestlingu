@@ -72,7 +72,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
   - s: Tag Team Match
     en: '[PTW Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md)'
     ed: 2023-01-29
-- - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+- - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/jakub.md)'
   - 'The Frenchadors: Senza Volto & Aigle Blanc'
   - s: Tag Team Match
     en: '[PTW Underground 11](@/e/ptw/2023-01-29-ptw-underground-11.md)'
@@ -83,7 +83,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 {% free_card() %}
 - - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
-  - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+  - 'FoxJoy: [Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/jakub.md)'
   - s: Tag Team Match
     en: '[PTW Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md)'
     ed: 2023-02-26
@@ -142,7 +142,7 @@ While Boro never defended the title, he was also recognized as a champion per th
     en: '[PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
     ed: 2024-02-03
 - - 'Budapest Bastards: Nitro & Renegade(c)'
-  - "[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/axel-fox.md)"
+  - "[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/jakub.md)"
   - s: Open Challenge
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13

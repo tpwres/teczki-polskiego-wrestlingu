@@ -140,7 +140,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
 * _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
-* _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
+* _Polski lis_ - "Polish fox": [Axel Fox](@/w/jakub.md). \
   {% ipa(tts="Polski lis") %}pˈɔlski lˈis{% end %}
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3. Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}

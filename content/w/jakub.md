@@ -1,7 +1,8 @@
 +++
-title = "Axel Fox"
+title = "Jakub"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
+aliases = ["/w/axel-fox"]
 [extra]
 toclevel = 2
 [taxonomies]

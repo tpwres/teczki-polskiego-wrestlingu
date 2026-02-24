@@ -52,7 +52,7 @@ Using his real name Oskar Haracz, Justin Joy entered Ninja Warrior Poland, a spo
 
 ### Prime Time Wrestling (2022-2023)
 
-Justin was one of the MZW wrestlers who chose to join the new [Prime Time Wrestling](@/o/ptw.md), debuting at [PTW Underground 3](@/e/ptw/2022-03-27-ptw-underground-3.md). He had a heated feud with his protégé [Axel Fox](@/w/axel-fox.md), which culminated with the two clashing in a No Disqualification Match at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). After the match - which was won by Justin - two real-life friends mended fences and joined forces to take part in the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) tournament, with Justin reverting back to his babyface persona. His rivalry with Axel Fox allowed him to win multiple [PTW Awards](@/a/ptw-awards.md) at the end of 2022.
+Justin was one of the MZW wrestlers who chose to join the new [Prime Time Wrestling](@/o/ptw.md), debuting at [PTW Underground 3](@/e/ptw/2022-03-27-ptw-underground-3.md). He had a heated feud with his protégé [Axel Fox](@/w/jakub.md), which culminated with the two clashing in a No Disqualification Match at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md). After the match - which was won by Justin - two real-life friends mended fences and joined forces to take part in the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) tournament, with Justin reverting back to his babyface persona. His rivalry with Axel Fox allowed him to win multiple [PTW Awards](@/a/ptw-awards.md) at the end of 2022.
 
 Later in 2023, when PTW held [a show in Wrocław](@/e/ptw/2023-06-25-ptw-4-mystery.md), Justin's usual turf, he was nowhere on the card. In the build-up to the next major show, various wrestlers - including Justin - started to voice their frustration with PTW's owner and GM [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) on social media. This resulted in many of them getting silently removed from the organization's roster.
 
@@ -81,7 +81,7 @@ Justin made his first international appearance in 2014 during a Next Step Wrestl
   - Blue Thunder Bomb
 * Tag Teams and stables:
   - [WATAHA](@/tt/wataha.md) (2018-2019), with [Apollo Anderson](@/w/apollo-anderson.md)
-  - FoxJoy (2023), with [Axel Fox](@/w/axel-fox.md)
+  - FoxJoy (2023), with [Axel Fox](@/w/jakub.md)
 * Entrance music:
   - "Boyfriend" by ISSUES
     {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }} (2014-2023; 2025) <br>
@@ -102,9 +102,9 @@ Justin made his first international appearance in 2014 during a Next Step Wrestl
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Awards](@/a/ptw-awards.md) (3 times):
-    * Match of the Year - against [Axel Fox](@/w/axel-fox.md) at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) (2022)
+    * Match of the Year - against [Axel Fox](@/w/jakub.md) at [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) (2022)
     * Moment of the Year - Fox and Joy reunion (2022)
-    * Feud of the Year - against [Axel Fox](@/w/axel-fox.md) (2022)
+    * Feud of the Year - against [Axel Fox](@/w/jakub.md) (2022)
 
 ## References
 

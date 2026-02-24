@@ -67,7 +67,7 @@ However, his title reign was cut short. The defeated Mister Z initiated his "pla
 During his conflict with Mister Z, who became PpW's "executive producer" after Mandecky's abduction, Biesiad visibly grew tired of Mister Z and his entourage.
 In a post-match interview at Ewenement Haze he used the term ["Zmowa"](@/tt/zmowa.md) (_The Collusion_) for the first time, and vowed to end it as soon as possible.
 Following the defeat at Ledwo Legalne IV and an unsucessful rematch against Gustav at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), where he lost due to an intervention of other members of Zmowa, Biesiad started gathering an alliance of babyfaces who were also holding a grudge against Zmowa.
-He recruited [Samson](@/w/samson.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) to form an alliance called "Zmowa Przeciwko Zmowie" (_A Collusion Against the Collusion_).
+He recruited [Samson](@/w/samson.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/jakub.md) and [Goblin](@/w/goblin.md) to form an alliance called "Zmowa Przeciwko Zmowie" (_A Collusion Against the Collusion_).
 They faced their opponents in a 5-vs-5 Elimination Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md). Despite Biesiad's elimination, the team managed to defeat Zmowa thanks to Goblin, who won the match as the last man standing.
 
 #### Feud with Mister Z

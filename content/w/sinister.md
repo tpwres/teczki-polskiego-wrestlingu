@@ -50,7 +50,7 @@ At [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), two members of Sini
 
 ### Legacy of Wrestling (2024-present)
 
-Sinister made his return to wrestling at [Legacy of Wrestling's](@/o/low.md) [first event](@/e/low/2024-12-01-low-1.md). He was introduced as the show's host, interrupting [Arkadiusz Paterek](@/w/arek-paterek.md), who kicked off the event. Later on he prevented his old subject Dziedzic from scoring a win in the show's opener. He also got involved in restarting the main event - after [Axel Fox](@/w/axel-fox.md) seemingly won the [PpW Championship](@/c/ppw-championship.md) from [Gustav Gryffin](@/w/gustav-gryffin.md), the referee decision got reverted by Sinister who pointed out that Fox's winning pin should have been interrupted due to a rope break.
+Sinister made his return to wrestling at [Legacy of Wrestling's](@/o/low.md) [first event](@/e/low/2024-12-01-low-1.md). He was introduced as the show's host, interrupting [Arkadiusz Paterek](@/w/arek-paterek.md), who kicked off the event. Later on he prevented his old subject Dziedzic from scoring a win in the show's opener. He also got involved in restarting the main event - after [Axel Fox](@/w/jakub.md) seemingly won the [PpW Championship](@/c/ppw-championship.md) from [Gustav Gryffin](@/w/gustav-gryffin.md), the referee decision got reverted by Sinister who pointed out that Fox's winning pin should have been interrupted due to a rope break.
 
 #### Feud with Dziedzic
 

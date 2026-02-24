@@ -27,7 +27,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
     - [Disco Pablo](@/w/disco-pablo.md) - Assistant Coach (2022 - 2024)
     - [Justin Joy](@/w/justin-joy.md) - Coach (2022 - 2023)
     - [Jacob Crane](@/w/jacob-crane.md) - Part Time Coach (2021 - 2022)
-    - [Axel Fox](@/w/axel-fox.md) - Part Time Coach (2021 - 2024)
+    - [Axel Fox](@/w/jakub.md) - Part Time Coach (2021 - 2024)
     - [Gracjan Korpo](@/w/gracjan-korpo.md) - Coach (2021)
     - [Joe E. Legend](@/w/joe-legend.md) - Guest Coach (2021 - 2022)
     - [John Klinger](@/w/bad-bones.md) - Guest Coach (2022 - 2023)

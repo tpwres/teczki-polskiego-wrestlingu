@@ -32,11 +32,11 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 {% card() %}
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - '[Jakub](@/w/axel-fox.md)'
+  - '[Jakub](@/w/jakub.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - g: '[Zmowa](@/tt/zmowa.md) cut a promo, Axel Fox drops his old ringname and chooses to be known as Jakub, Goblin & Gustav Gryffin arrive and confront them.'
-- - '[Jakub](@/w/axel-fox.md)'
+- - '[Jakub](@/w/jakub.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: Triple Threat Match

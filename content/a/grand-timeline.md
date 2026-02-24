@@ -122,7 +122,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2017
 
 * KPW finds a permanent venue in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), and holds a show as part of SzlamFest, a pop-culture and comics convention.
-* DFW wrestler [Revage](@/w/rafael-kid.md) trains with MZW and appears on their [December show](@/e/mzw/2017-12-02-mzw-freak-show.md). That same show also features the debuting [Amisz](@/w/axel-fox.md), [Kuba Kamiński](@/w/jacob-crane.md) and [Bartosz Borowsky](@/w/boro.md).
+* DFW wrestler [Revage](@/w/rafael-kid.md) trains with MZW and appears on their [December show](@/e/mzw/2017-12-02-mzw-freak-show.md). That same show also features the debuting [Amisz](@/w/jakub.md), [Kuba Kamiński](@/w/jacob-crane.md) and [Bartosz Borowsky](@/w/boro.md).
 * The Warsaw-area backyard, PpW, manages to build an actual wrestling ring, though undersized. Rob Scaffold came up with the design and a local welding workshop assembled the metal structure.
 
 #### 2018
@@ -146,7 +146,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * Still under COVID restrictions, MZW records a [six-episode wrestling series](@/e/project-basement.md) and releases it on YouTube. The series is a tournament for their [vacant championship](@/c/mzw-championship.md).
 * With the restrictions lifted, PpW is invited to Poznań to perform as part of a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md).
 * KPW holds their [comeback show](@/e/kpw/2021-08-21-kpw-arena-17.md) after an 18-month long hiatus.
-* [Prime Time Wrestling](@/o/ptw.md) is revealed to be Pawłowski's new organization, and they hold their [first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in October, in Chorzów. Among their roster are the aforementioned Amisz as [Axel Fox](@/w/axel-fox.md), Borowsky as [Boro](@/w/boro.md) and Kamiński as [Jacob Crane](@/w/jacob-crane.md).
+* [Prime Time Wrestling](@/o/ptw.md) is revealed to be Pawłowski's new organization, and they hold their [first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in October, in Chorzów. Among their roster are the aforementioned Amisz as [Axel Fox](@/w/jakub.md), Borowsky as [Boro](@/w/boro.md) and Kamiński as [Jacob Crane](@/w/jacob-crane.md).
 
 #### 2022
 
@@ -165,7 +165,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PpW buys their first full-sized ring from [Andrzej Supron](@/w/andrzej-supron.md), the same one he bought for PPWF some 20 years ago, and which was later used by [TBW](@/o/tbw.md) and [WKSW](@/o/wksw.md).
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
 * As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
-* PpW opens their training facility to the public, dubbed [Ewenement Dojo](@/o/ewenement-dojo.md). They hold a summer camp, with the initial coach being [Jacob Crane](@w/jacob-crane.md), later replaced by [Axel Fox](@/w/axel-fox.md) after the former's departure for Japan.
+* PpW opens their training facility to the public, dubbed [Ewenement Dojo](@/o/ewenement-dojo.md). They hold a summer camp, with the initial coach being [Jacob Crane](@w/jacob-crane.md), later replaced by [Axel Fox](@/w/jakub.md) after the former's departure for Japan.
 * After exiting PTW, a group of their former backstage crew and talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces their [first show](@/e/low/2024-12-01-low-1.md) to be held in December. For the first time ever, [KPW](@/o/kpw.md) lends their workers ([Filip Fux](@/w/filip-fux.md) and [Chemik](@/w/chemik.md)) to another Polish organization, making this the first Polish card featuring representation from KPW, MZW and PpW, as well as some ex-PTW free agents. The show was dubbed by some as "Polish Forbidden Door".
 * In October and November [PTW](@/o/ptw.md), [KPW](@/o/kpw.md) and [Legacy](@/o/low.md) all announce that their shows will air on Extreme Sports Channel. In April KPW signed a deal with FightBox, but only [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) aired on the channel.
 
@@ -179,7 +179,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 * PpW introduce the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 * [Pro Wrestling Illustrated](https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated) ranks [Diana Strong](@/w/diana-strong.md) #205 on their 2025 PWI Women's 250 list.
-* Legacy of Wrestling introduce the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). The first Champions is [Axel Fox](@/w/axel-fox.md).
+* Legacy of Wrestling introduce the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). The first Champions is [Axel Fox](@/w/jakub.md).
 
 #### 2026
 
