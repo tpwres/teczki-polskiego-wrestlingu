@@ -255,6 +255,17 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 - Szok Roku (_Shock of the Year_)
 - Tag Team Roku (_Tag Team of the Year_)
 
+#### Voting results
+
+##### Wrestler of the Year
+
+1. ["The Voice" Daniel Razor](@/w/daniel-razor.md) - 192 votes
+2. [Diana Strong](@/w/diana-strong.md) - 145 votes
+3. [Spartan](@/w/spartan.md) - 36 votes
+4. [Dawid "Puncher" Seńko](@/w/puncher.md) - 24 votes
+5. ["Starboy" Nano Lopez](@/w/nano-lopez.md) - 15 votes
+6. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 13 votes
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
