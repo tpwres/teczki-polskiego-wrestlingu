@@ -56,6 +56,10 @@ In his Instagram stories, Taras stated that he'd supposedly been abandoned by hi
 Taras met Pablo face-to-face at [Legacy's next show](@/e/low/2025-04-06-low-2.md) where, after a brief but heated argument followed by a brawl, they were announced to face each other at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md).
 Taras lost the match - which was officiated by another ex-PAKA member, Boro - which seemingly led to his retirement from professional wrestling.
 
+### Maniac Zone Wrestling (2025)
+
+At [Forever](@/e/mzw/2025-03-29-mzw-forever.md) Taras made his sole appearance for [Maniac Zone Wrestling](@/o/mzw.md) where he attacked Disco Pablo in a post-match attack during their feud which started at Legacy of Wrestling.
+
 ## International wrestling appearances 
 
 In 2021 Taras made his only international appearance in career, where he worked for Baltic Championship Wrestling in Germany.
@@ -68,7 +72,7 @@ In 2021 Taras made his only international appearance in career, where he worked 
 * With [Disco Pablo](@/w/disco-pablo.md):
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
 * Tag Teams and stables:
-  - PAKA (2021-2024)
+  - [PAKA](@/tt/paka.md) (2021-2024)
 * Entrance music:
   - "To my!" by 52 Dębiec
     {{ org_badge(orgs=['ptw']) }} (2021-2023) <br>
