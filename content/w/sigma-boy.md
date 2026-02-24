@@ -39,6 +39,8 @@ During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) P
 
 After fixing his relationship with his father, Sigma joined Team Okoński and continued his feud with Nietykalni. Team Okoński faced them in an Elimination Tag Team Match at [Haloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where Team Okoński lost both the match and further championship opportunity for Spartan due to [Nano Lopez's](@/w/nano-lopez.md) betrayal of Team Okoński. 
 
+Starting with [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) in July 2025, Sigma Boy joined forces with [Miyagi Shida](@/w/miyagi-shida.md)) to form a new Tag Team called "Miyagi Sigma". They immedietaly tried to compete against [Royal Rebels](@/tt/royal-rebels.md) - a part of [Pawłowski's](@/w/pan-pawlowski.md) [Nietykalni](@/tt/nietykalni.md) - in a competition for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). 
+
 ## International wrestling appearances
 
 As part of the new working relationship between PTW and the Austrian promotion Rings of Europe, he was announced to compete at the promotion's SummerCrush show on 25.07.2025, marking his international debut.
@@ -47,6 +49,8 @@ As part of the new working relationship between PTW and the Austrian promotion R
 
 * Finishers:
   - _Sigma Destroyer_ (Canadian destroyer) (2025-)
+* Tag Teams and stables:
+  - Miyagi Sigma (2025-)
 * Entrance music:
   - "Sigma Boy" by Betsy & Maria Yankovskaya
     {{ org_badge(org='ptw') }} (2025-) <br>
