@@ -32,7 +32,7 @@ In June 2024 Remo officially [left Prime Time Wrestling](@/a/ptw-exits.md), whic
 
 #### Return to PTW
 
-In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition. He made his comeback at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md). He cut a promo where he expresses his grudge against PTW fans who forgot about him when he was out. He vows to eliminate each of the fan favourites, starting with another "usurper from Bydgoszcz" - CJ Klakson.
+In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition. He made his comeback at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md). He cut a promo where he expressed his grudge against PTW fans who forgot about him when he was out. He vowed to eliminate each of the fan-favourites, starting with another "usurper from Bydgoszcz" - [CJ Klakson](@/w/cj-klakson.md).
 
 ## In wrestling
 
