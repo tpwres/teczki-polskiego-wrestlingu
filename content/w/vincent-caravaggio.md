@@ -48,6 +48,9 @@ From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łuk
 * Finishers:
   - Ankle Lock (2024-)
   - Wine Mist (2024-)
+* Tag Teams and stables:
+  - [Royal Rebels](@/tt/royal-rebels.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
   - "Prelude" by Versailles
     {{ org_badge(orgs=['ptw']) }} (2023-) <br>
@@ -57,9 +60,9 @@ From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łuk
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md):
-  - PTW World Cup (1 time; current)  
+* [Prime Time Wrestling](@/o/ptw.md):  
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Alex Brave](@/w/alex-brave.md); current)
+  - PTW World Cup (2025)
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Newcomer of the Year (2024)
 
