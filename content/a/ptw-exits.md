@@ -235,7 +235,7 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw≈
 ## Timeline
 
 {% embed_svg(path="data/ptw-exits.svg") %}
-Timeline of the exits. (Note: some of the dates are approximations.)
+Timeline of the exits. The colours denote promotions the workers came from. (Note: some of the dates are approximations.)
 {% end %}
 
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
