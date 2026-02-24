@@ -23,7 +23,7 @@ The event's name refers to PpW's backyard era. [Hardcore Friday][hf-wiki] was on
 ## Card
 
 {% card() %}
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'

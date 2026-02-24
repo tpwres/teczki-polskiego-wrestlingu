@@ -62,7 +62,7 @@ During that time Marcelito also made his international debut, fighting for the A
 
 In early 2024, Marcelito took part in the [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Rumble Match for the [PTW Championship](@/c/ptw-championship.md). He entered the match as number two and was the 15th person to be eliminated, by Krampus.
 
-Later in the year, Marcelito competed for the PTW Tag Team Championship against Budapest Bastards, while teaming with [Axel Fox](@/w/axel-fox.md) at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
+Later in the year, Marcelito competed for the PTW Tag Team Championship against Budapest Bastards, while teaming with [Axel Fox](@/w/jakub.md) at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
 The attempt was unsuccessful, just like his title fight against Axel Fox and Scotty Rawk for the British Wrestling Revolution Championship at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 After the end of the fight Axel teased a possible heelturn, or at least rivalry with Marcelito, but due to their departure from PTW it ultimately led to nothing.
 

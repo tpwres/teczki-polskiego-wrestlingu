@@ -22,7 +22,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 - - '[Krampus](@/w/krampus.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: Double Count Out

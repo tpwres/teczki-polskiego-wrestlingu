@@ -26,7 +26,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
 * On 26.08.2025 PpW posted a [video][kabanosy-sa-na-podlodze] in which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) tries to cheer up [Oskar Alexander](@/w/oskar-alexander.md), who lost his match at the [previous show](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), by offering him some [kabanosy][kabanosy-sa-na-wikipedii]. Angry and bitter, Oskar throws the sausages to the floor angering Dobroniak, who promises to "speak to Oskar's mother" at the upcoming show.
 * On 3.09.2025 PpW announced a match between [Dobroniak](@/w/stanislaw-van-dobroniak.md) (XXI - The World; billed as Wujek - _Uncle_ - Dobroniak) and [Agentka Agatka](@/w/agentka-agatka.md) (III - The Empress), for the custody of Oskar Alexander.
 * On 6.09.2025 PpW announced [Oskar Alexander](@/w/oskar-alexander.md) (X - Wheel of Fortune) vs [Johnny Blade](@/w/johnny-blade.md) (V - Hierophant) in a Hardcore match.
-* On 8.09.2025 PpW announced [Marco Hammers](@/w/marco-hammers.md) (XVI - The Tower) vs [Axel Fox](@/w/axel-fox.md) (XI - Justice).
+* On 8.09.2025 PpW announced [Marco Hammers](@/w/marco-hammers.md) (XVI - The Tower) vs [Axel Fox](@/w/jakub.md) (XI - Justice).
 * On 12.09.2025 PpW announced [Marcelito](@/w/marcelito.md) (XVIII - The Moon) & [Sambor](@/w/sambor.md) (IX - The Hermit) vs [Sentinel](@/w/sentinel.md) (I - The Magician) & [Wonder Haze](@/w/wonder-haze.md) (XII - The Hanged Man).
 * On 15.08.2025 PpW announced the continuation of "Plata's Grand Trials" (_Wielkie Testy Platy_), with [Bartosz Plata](@/w/plata.md) as XIV - Temperance (misspelled as "Temprance").
 
@@ -41,7 +41,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
   - '[Marcelito](@/w/marcelito.md) & [Sambor](@/w/sambor.md)'
   - s: Tag Team Match
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Marco Hammers](@/w/marco-hammers.md)'
   - g: Mister Z asserts Zmowa's dominance, but Gustav finally snaps and turns on his boss.
 - - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md)'

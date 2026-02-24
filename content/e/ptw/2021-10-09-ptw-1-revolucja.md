@@ -31,7 +31,7 @@ REVOLUCJA (_Revolution_) was the inaugural show by [Prime Time Wrestling](@/o/pt
   - 'Jody Fleisch'
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Boro](@/w/boro.md)'
   - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Dorian'

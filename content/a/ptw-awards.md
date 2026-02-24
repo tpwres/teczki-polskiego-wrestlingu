@@ -65,7 +65,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 ##### Hero of the Year
 
-1. [Axel Fox](@/w/axel-fox.md) - 215 votes
+1. [Axel Fox](@/w/jakub.md) - 215 votes
 2. Samuray Del Sol - 40 votes
 3. [Taras](@/w/taras.md) - 39 votes
 4. [Nano Lopez](@/w/nano-lopez.md) - 19 votes
@@ -93,7 +93,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 2. [TAXI Złotówa](@/w/taxi-zlotowa.md) - 83
 3. [Syriusz Dziedzic](@/w/dziedzic.md) - 49
 4. [Sinister](@/w/sinister.md) - 24
-5. [Axel Fox](@/w/axel-fox.md) - 19
+5. [Axel Fox](@/w/jakub.md) - 19
 
 ##### Tag Team of the Year
 
@@ -127,7 +127,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 ##### Match of the Year
 
-1. [Justin Joy](@/w/justin-joy.md) vs [Axel Fox](@/w/axel-fox.md) - [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 165
+1. [Justin Joy](@/w/justin-joy.md) vs [Axel Fox](@/w/jakub.md) - [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 165
 2. Matt Sydal vs Samuray Del Sol - Legends - 25
 3. [Disco Pablo](@/w/disco-pablo.md) vs [Diana Strong](@/w/diana-strong.md) vs [Pure](@/w/gabriel-queen.md) [Gold](@/w/vic-golden.md) - [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 16
 4. [Jonny Storm](@/w/jonny-storm.md) vs Jody Fleisch - [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 7
@@ -143,7 +143,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 ##### Moment of the Year
 
-1. [Justin Joy](@/w/justin-joy.md) & [Axel Fox's](@/w/axel-fox.md) reunion - 93
+1. [Justin Joy](@/w/justin-joy.md) & [Axel Fox's](@/w/jakub.md) reunion - 93
 2. [Joy](@/w/justin-joy.md) dropped on a table - 58
 3. [Krampus](@/w/krampus.md) chokeslamming [Nano](@/w/nano-lopez.md) through a table - 15
 4. PAKA's 6-man suplex - 9
@@ -157,7 +157,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 ##### Feud of the Year
 
-1. [Axel Fox](@/w/axel-fox.md) vs [Justin Joy](@/w/justin-joy.md) - 88
+1. [Axel Fox](@/w/jakub.md) vs [Justin Joy](@/w/justin-joy.md) - 88
 2. [Nano Lopez](@/w/nano-lopez.md) vs [Sinister](@/w/sinister.md) - 60
 3. [TAXI Złotówa](@/w/taxi-zlotowa.md) vs Employers - 24
 4. [Puncher](@/w/puncher.md) vs Influencers - 12

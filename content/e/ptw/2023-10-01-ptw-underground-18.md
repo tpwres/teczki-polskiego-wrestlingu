@@ -17,7 +17,7 @@ has_video = true
 {% card() %}
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Marcelito](@/w/marcelito.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Erik Šlotíř](@/w/erik-slotir.md)'
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Max Speed](@/w/max-speed.md)'
@@ -42,7 +42,7 @@ has_video = true
 * [Nano Lopez](@/w/nano-lopez.md) appeared with one arm in a sling, addressing his health and potential retirement. Promised to fight [Sinister Kingdom](@/tt/sinister-kingdom.md) after returning from injury.
 * This was originally to be the go-home show for [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), however that show was postponed, from December till February next year.
 * Before the show closed, [Puncher](@/w/puncher.md) entered the ring and cut a promo about winning the upcoming Rumble match at PTW #5, which resulted in a series of interruptions by:
-  * [Axel Fox](@/w/axel-fox.md)
+  * [Axel Fox](@/w/jakub.md)
   * [Wiktor Longman](@/w/wiktor-longman.md)
   * Sędzia Rafał
   * [Sinister](@/w/sinister.md) and [Dziedzic](@/w/dziedzic.md) (representing [Sinister Kingdom](@/tt/sinister-kingdom.md))

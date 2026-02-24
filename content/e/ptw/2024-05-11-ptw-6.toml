@@ -1,7 +1,7 @@
 01 = { path = "2024-05-11-ptw-6-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
 02 = { path = "puncher-vs-babathunder.webp", caption = "Image announcing [Puncher](@/w/puncher.md) vs Baba-Thunder.", source = "Official PTW Facebook" }
 03 = { path = "olgierd-marco-hammers-vs-diana-strong-heidi-katrina.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md) vs [Diana Strong](@/w/diana-strong.md) & Heidi Katrina.", source = "Official PTW Facebook" }
-04 = { path = "axel-fox-vs-scotty-rawk-vs-marcelito.webp", caption = "Image announcing [Axel Fox](@/w/axel-fox.md) vs Scotty Rawk vs [Marcelito](@/w/marcelito.md).", source = "Official PTW Facebook" }
+04 = { path = "axel-fox-vs-scotty-rawk-vs-marcelito.webp", caption = "Image announcing [Axel Fox](@/w/jakub.md) vs Scotty Rawk vs [Marcelito](@/w/marcelito.md).", source = "Official PTW Facebook" }
 05 = { path = "disco-pablo-vs-wiktor-longman.webp", caption = "Image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Wiktor Longman](@/w/wiktor-longman.md).", source = "Official PTW Facebook" }
 06 = { path = "nano-lopez-king-kaiden-vs-starbuck-erik-isaksen.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) & [King Kaiden](@/w/king-kaiden.md) vs Starbuck & Erik Isaksen.", source = "Official PTW Facebook" }
 07 = { path = "morgan-webster-vs-dirty-dango.webp", caption = "Image announcing Morgan Webster vs Dirty Dango.", source = "Official PTW Facebook" }

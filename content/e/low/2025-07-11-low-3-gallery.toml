@@ -1,7 +1,7 @@
-00001 = { path = "legacy-3-poster.jpg", caption = "Official poster. Left to right, on top: [Gabriel Queen](@/w/gabriel-queen.md), [Chemik](@/w/chemik.md); middle: [Axel Fox](@/w/axel-fox.md), [Aron Wake](@/w/aron-wake.md), [David Oliwa](@/w/david-oliwa.md); grappling in front of Kraków's skyline below: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md).", source = "Official Legacy Facebook" }
+00001 = { path = "legacy-3-poster.jpg", caption = "Official poster. Left to right, on top: [Gabriel Queen](@/w/gabriel-queen.md), [Chemik](@/w/chemik.md); middle: [Axel Fox](@/w/jakub.md), [Aron Wake](@/w/aron-wake.md), [David Oliwa](@/w/david-oliwa.md); grappling in front of Kraków's skyline below: [Taras](@/w/taras.md), [Disco Pablo](@/w/disco-pablo.md).", source = "Official Legacy Facebook" }
 00002 = { path = "low3-logo.jpg", caption = "Official logo.", source = "Official Legacy Facebook" }
 00003 = { path = "oliva-vs-zeteny.webp", caption = "Image announcing Zétény vs [David Oliwa](@/w/david-oliwa.md).", source = "Official Legacy Facebook" }
-00004 = { path = "axel-fox-vs-dieter-schwartz.webp", caption = "Image announcing [Axel Fox](@/w/axel-fox.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Official Legacy Facebook" }
+00004 = { path = "axel-fox-vs-dieter-schwartz.webp", caption = "Image announcing [Axel Fox](@/w/jakub.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Official Legacy Facebook" }
 00005 = { path = "marco-vs-unknown-ale-nie-tamta-z-tekkena.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs mystery opponent.", source = "Official Legacy Facebook" }
 00006 = { path = "main-event.webp", caption = "Image announcing the main event: [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Syriusz Dziedzic](@/w/dziedzic.md), [Sambor](@/w/sambor.md) & [Bartosz Plata](@/w/plata.md).", source = "Official Legacy Facebook" }
 00007 = { path = "oskar-vs-gabrys-vs-filip.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official Legacy Facebook" }
@@ -37,10 +37,10 @@
 50009 = { path = "killer-queen.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) celebrates his victory.", source = "M3n747" }
 50010 = { path = "farewell-turtle.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) and [Filip Fux](@/w/filip-fux.md) show each other respect with a goodbye fist bump.", source = "M3n747" }
 60001 = { path = "aaaaa-mam-zeby-aaaa.webp", caption = "[Dieter Schwartz](@/w/dieter-schwartz.md).", source = "M3n747" }
-60002 = { path = "samiec-lisa-polskiego.webp", caption = "[Axel Fox](@/w/axel-fox.md).", source = "M3n747" }
-60003 = { path = "pacz-pan-jak-go-chycil.webp", caption = "[Axel](@/w/axel-fox.md) pulling [Dieter's](@/w/dieter-schwartz.md) leg, much to [Seweryn's](@/w/sedzia-seweryn.md) amusement.", source = "M3n747" }
-60004 = { path = "nowy-gatunek-lisa-latajacego.webp", caption = "[Axel Fox](@/w/axel-fox.md) flies from the top rope, onto Dieter Schwartz. Sędzia Seweryn observes the action.", source = "M3n747" }
-60005 = { path = "lis-znaczy-teren.webp", caption = "[Axel Fox](@/w/axel-fox.md) asserts his dominance.", source = "M3n747" }
+60002 = { path = "samiec-lisa-polskiego.webp", caption = "[Axel Fox](@/w/jakub.md).", source = "M3n747" }
+60003 = { path = "pacz-pan-jak-go-chycil.webp", caption = "[Axel](@/w/jakub.md) pulling [Dieter's](@/w/dieter-schwartz.md) leg, much to [Seweryn's](@/w/sedzia-seweryn.md) amusement.", source = "M3n747" }
+60004 = { path = "nowy-gatunek-lisa-latajacego.webp", caption = "[Axel Fox](@/w/jakub.md) flies from the top rope, onto Dieter Schwartz. Sędzia Seweryn observes the action.", source = "M3n747" }
+60005 = { path = "lis-znaczy-teren.webp", caption = "[Axel Fox](@/w/jakub.md) asserts his dominance.", source = "M3n747" }
 70001 = { path = "sewiero-paczyngo-jak-olgierito-drinkiewito.webp", caption = "Olgierd downs an energy drink, while [Sędzia Seweryn](@/w/sedzia-seweryn.md) waits in the ring.", source = "M3n747" }
 70002 = { path = "zaloz-szalik-skinie.webp", caption = "[Olgierd](@/w/olgierd.md) with his [Legia Łysych](@/tt/legia-lysych.md) scarf.", source = "M3n747" }
 70003 = { path = "bartoszyc-man.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md).", source = "M3n747" }
@@ -58,6 +58,6 @@
 70015 = { path = "loza-milosnikow-tomasza-knapika.webp", caption = "Commentators' table, left to right: [Arek Paterek](@/w/arek-paterek.md), [Łukasz Baliński](@/w/lukasz-balinski.md), [Chris-X](@/w/chris-x.md), [Wiktor](@/w/wiktor-longman.md), [Joker](@/w/joker.md).", source = "M3n747" }
 70016 = { path = "zmowa-lysych.webp", caption = "[Zmowa](@/tt/zmowa.md) [Łysych](@/tt/legia-lysych.md): [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Chemik](@/w/chemik.md). To the right stands [Sędzia Seweryn](@/w/sedzia-seweryn.md), in the background is [Bartosz Plata](@/w/plata.md).", source = "M3n747" }
 70017 = { path = "lewa-ciupaga.webp", caption = "Sinister urges [Syriusz Dziedzic](@/w/dziedzic.md) to use his cane against Gustav Gryffin.", source = "M3n747" }
-80001 = { path = "lis-i-gryf.webp", caption = "[Axel Fox](@/w/axel-fox.md) confronts Gustav Gryffin.", source = "M3n747" }
+80001 = { path = "lis-i-gryf.webp", caption = "[Axel Fox](@/w/jakub.md) confronts Gustav Gryffin.", source = "M3n747" }
 80002 = { path = "oliwa-i-speed.webp", caption = "[Max Speed](@/w/max-speed.md) confronts David Oliwa.", source = "M3n747" }
 90001 = { path = "paluszki-na-stole.webp", caption = "[ShowOff](@/w/piotr-malecki.md), CJ Miami and [Chris X](@/w/chris-x.md) saddened by the unfortunate spilling of pretzel sticks all over the commentators' table.", source = "Official Legacy Youtube" }

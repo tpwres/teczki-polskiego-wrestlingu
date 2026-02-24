@@ -22,7 +22,7 @@ The tube was signed by the following people:
 - [Adam Wong](@/w/adam-wong.md)
 - [Arek Paterek](@/w/arek-paterek.md)
 - [Aron Wake](@/w/aron-wake.md)
-- [Axel Fox](@/w/axel-fox.md)
+- [Axel Fox](@/w/jakub.md)
 - [Balik](@/w/lukasz-balinski.md)
 - [Bianca](@/w/bianca.md)
 - [Biesiad Strong](@/w/biesiad.md) (first to sign the original tube)

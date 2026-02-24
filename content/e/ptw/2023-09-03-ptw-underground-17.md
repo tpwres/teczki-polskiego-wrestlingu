@@ -30,7 +30,7 @@ has_video = true
   - 'Salomon Strid'
 - - '[Krampus](@/w/krampus.md)'
   - '[Marcelito](@/w/marcelito.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Rafi Rarytas](@/w/rafi.md)'
   - s: 'Impromptu match'
 - - '[Dziedzic](@/w/dziedzic.md)'

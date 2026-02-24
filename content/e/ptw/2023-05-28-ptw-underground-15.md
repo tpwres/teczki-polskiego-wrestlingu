@@ -34,7 +34,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
   - '_rookie_ Przemek'
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Taras](@/w/taras.md)'
   - g: 'PTW trainers and rookies hype [PTW Academy](@/o/ptw-academy.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
@@ -44,7 +44,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[El Ogre](@/w/olgierd.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Arek Paterek](@/w/arek-paterek.md)'
@@ -57,7 +57,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 * After the opening match, Skyver conducted an interview with [Rafi](@/w/rafi.md) Rarytas, who declares that he will make [Wiktor Longman](@/w/wiktor-longman.md) accept the "power of friendship", challenging him to a match. [Iskra](@/w/iskra.md) interrupted with a promo, and started beating on Rafi, bell is rang for an impromptu match. Rafi hit his finisher on Iskra, immediately pinning him for a win. According to commentary, this was the shortest ever PTW match, lasting all of 9 seconds.
 * [Marcelito](@/w/marcelito.md) lost due to interference from [Iskra](@/w/iskra.md). GM Pawłowski grabbed the microphone and announced a rematch on the upcoming Mystery, and Iskra not getting a match as punishment.
 * After the break, Pawłowski announced [Justin Joy's](@/w/justin-joy.md) departure from his role as PTW's coach, and mentioned that some organizational adjustments needed to be made. Two PTW Academy rookies (announced as Kornel and Przemek) came into the ring, cut promos about how they made their way to PTW and praised their trainers. Later that same year Kornel made his actual debut, adopting the persona of a Kraków-born aristocrat, [Vincent Caravaggio](@/w/vincent-caravaggio.md).
-* Pawłowski introduced new PTW Academy trainers: [Disco Pablo](@/w/disco-pablo.md) and [Nano Lopez](@/w/nano-lopez.md) for beginners, [Axel Fox](@/w/axel-fox.md) and [Taras](@/w/taras.md) for the advanced group.
+* Pawłowski introduced new PTW Academy trainers: [Disco Pablo](@/w/disco-pablo.md) and [Nano Lopez](@/w/nano-lopez.md) for beginners, [Axel Fox](@/w/jakub.md) and [Taras](@/w/taras.md) for the advanced group.
 * [Puncher](@/w/puncher.md) entered for his match, insulting his oppponent by calling him Hyundai (the car manufacturer) instead of Hunyadi. He also insulted [Robert Star](@/w/robert-star.md), who's his upcoming opponent at Mystery. After a quick squash match, continued to beat Tamas, busting him open to send a message to Robert.
 * [Marco Hammers](@/w/marco-hammers.md) entered the ring for a pre-match promo, thanking GM Pawłowski for giving him a bald opponent. He presented a skin-toned "bald" swimming cap, advertising it as new merchandise for anyone who wants to be bald like him, but does not have the courage to shave their head. In a comedic development, he put the cap on referee Seweryn, thus making him the first bald referee in PTW.
 * [Taras](@/w/taras.md) won his match fairly quickly, and was rewarded by fans with a McDonald's meal which he consumed immediately.

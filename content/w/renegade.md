@@ -30,7 +30,7 @@ After DDW rebranded into [Kombat Pro Wrestling](@/o/kpw.md), Renegade made one a
 
 #### Rivalry with Axel Fox and championship pursuits
 
-Thanks to his previous association with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Renegade returned to Poland after nearly six years, in December 2021 at [PTW Underground 1](@/e/ptw/2021-12-19-ptw-underground-1.md), where he faced and defeated an up-and-coming babyface [Axel Fox](@/w/axel-fox.md), while working as a tweener.
+Thanks to his previous association with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Renegade returned to Poland after nearly six years, in December 2021 at [PTW Underground 1](@/e/ptw/2021-12-19-ptw-underground-1.md), where he faced and defeated an up-and-coming babyface [Axel Fox](@/w/jakub.md), while working as a tweener.
 In a rematch nine months later at [Underground 8](@/e/ptw/2022-09-25-ptw-underground-8.md), the "Polish Fox" managed to establish himself in PTW's ranks enough to defeat the Hungarian veteran, earning his respect. After that defeat Renegade faced Axel Fox and his tag team partner [Jonny Storm](@/w/jonny-storm.md) in a Tag Team Match, where the winner would become #1 Contender for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). Teaming with [Tamas "Nitro" Szabo](@/w/nitro.md), Renegade managed to defeat Fox and Storm. They faced the reigning champions - [PAKA](@/tt/paka.md) - at [PTW x Ryucon 2](@/e/ptw/2023-07-16-ptw-x-ryucon.md) but due to an outside intervention by Legia Łysych, their match was ruled as no contest.
 
 #### PTW Tag Team Champion

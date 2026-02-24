@@ -6,7 +6,7 @@
 06 = { path = "marcelito-vs-samson.webp", caption = "Image announcing [Marcelito](@/w/marcelito.md) vs [Samson](@/w/samson.md).", source = "Official PTW Facebook" }
 07 = { path = "diana-strong-vs-amale.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Amale.", source = "Official PTW Facebook" }
 08 = { path = "olgierd-vs-boro.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Boro](@/w/boro.md).", source = "Official PTW Facebook" }
-09 = { path = "unknown-axel-fox-vs-renegade-nitro.webp", caption = "Image announcing ??? & [Axel Fox](@/w/axel-fox.md) vs [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md).", source = "Official PTW Facebook" }
+09 = { path = "unknown-axel-fox-vs-renegade-nitro.webp", caption = "Image announcing ??? & [Axel Fox](@/w/jakub.md) vs [Renegade](@/w/renegade.md) & [Nitro](@/w/nitro.md).", source = "Official PTW Facebook" }
 10 = { path = "balik-showoff-paterek.webp", caption = "Image announcing the commentary team of [Łukasz Baliński](@/w/lukasz-balinski.md), [Piotr Małecki](@/w/piotr-malecki.md) and [Arek Paterek](@/w/arek-paterek.md).", source = "Official PTW Facebook" }
 11 = { path = "krampus-vs-tihanyi.webp", caption = "Image announcing [Krampus](@/w/krampus.md) vs Peter Tihanyi.", source = "Official PTW Facebook" }
 12 = { path = "pan-pawlowski.webp", caption = "Image announcing [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }

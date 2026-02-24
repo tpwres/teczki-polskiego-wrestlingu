@@ -1,5 +1,5 @@
 01 = { path = "underground-1-plakat.webp", caption = "Official poster featuring [Renegade](@/w/renegade.md), [Sinister](@/w/sinister.md), [Nano Lopez](@/w/nano-lopez.md) and [Nitro](@/w/nitro.md).", source = "Official PTW Facebook" }
-02 = { path = "renegade-vs-axel-fox.webp", caption = "Image announcing [Renegade](@/w/renegade.md) vs [Axel Fox](@/w/axel-fox.md).", source = "Official PTW Facebook" }
+02 = { path = "renegade-vs-axel-fox.webp", caption = "Image announcing [Renegade](@/w/renegade.md) vs [Axel Fox](@/w/jakub.md).", source = "Official PTW Facebook" }
 03 = { path = "sinister-vs-disco-pablo.webp", caption = "Image announcing [Sinister](@/w/sinister.md) vs [Disco Pablo](@/w/disco-pablo.md).", source = "Official PTW Facebook" }
 04 = { path = "joe-e-legend-vs-remo.webp", caption = "Image announcing .", source = "Official PTW Facebook" }
 05 = { path = "gabriel-queen-vs-arczi-czajka.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs Arczi Czajka.", source = "Official PTW Facebook" }

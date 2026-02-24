@@ -11,7 +11,7 @@ hide_events = true
 1 = { path = "ewenement-dojo-logo.png", caption = "The Dojo's logo, depicting a folding chair wrapped in barbed wire.", source = "Facebook Ewenement Dojo" }
 2 = { path = "ewenement-dojo-post.webp", caption = "Facebook post announcing training with [Jacob Crane](@/w/jacob-crane.md), and mentioning the alumni.", source = "Facebook Ewenement Dojo" }
 3 = { path = "ewenement-dojo-biesiad.webp", caption = "Facebook post announcing training with [Biesiad Strong](@/w/biesiad.md), listing his MMA achievements.", source = "Facebook Ewenement Dojo" }
-4 = { path = "trener-fox-ewenement-dojo.webp", caption = "Facebook post announcing [Axel Fox](@/w/axel-fox.md) joining the dojo. The photo was taken at WxW Academy, whose logo is visible on the back wall.", source = "Facebook Ewenement Dojo" }
+4 = { path = "trener-fox-ewenement-dojo.webp", caption = "Facebook post announcing [Axel Fox](@/w/jakub.md) joining the dojo. The photo was taken at WxW Academy, whose logo is visible on the back wall.", source = "Facebook Ewenement Dojo" }
 +++
 
 Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.md).
@@ -22,7 +22,7 @@ Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.m
 * Coaching staff:
   - [Jacob Crane](@/w/jacob-crane.md) - Head Coach
   - [Biesiad Strong](@/w/biesiad.md) - Martial Arts Coach
-  - [Axel Fox](@/w/axel-fox.md) - Coach
+  - [Axel Fox](@/w/jakub.md) - Coach
   - [Gustav Gryffin](@/w/gustav-gryffin.md) - Assistant Coach
   - [Goblin](@/w/goblin.md) - Assistant Coach
 

@@ -35,7 +35,7 @@ This was the first appearance of Aigle Blanc for PTW, and the second for Senza V
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
 - - '[Sinister](@/w/sinister.md)'
   - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
-- - '[Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+- - '[Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/jakub.md)'
   - 'The Frenchadors: Aigle Blanc & Senza Volto'
   - s: 'First Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament'
 - credits:

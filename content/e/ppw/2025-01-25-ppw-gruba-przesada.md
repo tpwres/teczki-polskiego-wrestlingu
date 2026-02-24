@@ -34,7 +34,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
   He likened it to a fictional scenario where Władysław Jagiełło and Ulrich von Jungingen face off for the [Battle of Grunwald][bitwa-pod-grunwaldem], only to be met with Genghis Khan interfering - in this case, the "stupid Mongolian" would be Olgierd.
   He dared Olgierd to make good on his promises to "end" Goblin and "make Goblin his bitch" - likely challenging for a match at Gruba Przesada.
 * On 3.01.2025, [Mister Z](@/w/mister-z.md) and Gustav Gryffin posted a video where they recapped 2024 and made plans for 2025.
-  They extended threats to most babyfaces on the roster, as well as an offer for [Axel Fox](@/w/axel-fox.md) to join [Zmowa](@/tt/zmowa.md) and finally get on the winning side. A day later PpW confirmed on their Facebook that Fox would make his decision at Gruba Przesada - presumably in an in-ring segment.
+  They extended threats to most babyfaces on the roster, as well as an offer for [Axel Fox](@/w/jakub.md) to join [Zmowa](@/tt/zmowa.md) and finally get on the winning side. A day later PpW confirmed on their Facebook that Fox would make his decision at Gruba Przesada - presumably in an in-ring segment.
 * On 6.01.2025 PpW announced a Gauntlet Survivor Challenge match, in which [Goblin](@/w/goblin.md) is set to face a number of, yet unannounced, opponents. If he loses even one fight, he is to be forcibly sent to [Monar][monar] for six months, presumably for a drug addiction rehab.
 * On 21.01.2025, PpW posted Isnorr's reaction to the fans' choice of stipulation.
   Playing _Gothic 3_ on his computer, in a room decorated with _Gothic_ series memorabilia, he expressed his disappointment with the fans not choosing the _Gothic_-related stipulation for his match against Dobroniak.
@@ -63,11 +63,11 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md) w/ [Agentka Agatka](@/w/agentka-agatka.md)'
 - - '[Mister Z](@/w/mister-z.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - g: 'Z coaxes Fox to join [Zmowa](@/tt/zmowa.md); Fox chooses his closest friends instead.'
-- - '[Axel Fox](@/w/axel-fox.md) & [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md) w/ [Goblin](@/w/goblin.md)'
+- - '[Axel Fox](@/w/jakub.md) & [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md) w/ [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Six-Man Tornado Tag Team match
 - - '[Isnorr](@/w/isnorr.md)(c)'
@@ -99,7 +99,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
 * Before the break in the show, [Michael HT](@/w/michael-ht.md) auctioned off the old ropes from PpW's ring.
 * During the break, Vic Golden came out to the ring to take pictures with the fans. Backstage, Joker interviewed the wrestlers.
 * Before his match, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) cut his typical rambling promo, but this time in a babyface style. He called for [Johnny Blade](@/w/johnny-blade.md) to face him for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), only to be taken aback by the news that the title now belongs to [Isnorr](@/w/isnorr.md).
-* [Mister Z](@/w/mister-z.md) called out for Biesiad and Johnny Blade who are not making scheduled appearances tonight. Instead of them, [Axel Fox](@/w/axel-fox.md) who was supposed to make his decision on joining [Zmowa](@/tt/zmowa.md) that night made his entrance. Z tried to coax him into joining _Zmowa_, using [Olgierd's](@/w/olgierd.md) and [Marco Hammers's](@/w/marco-hammers.md) presence as a physical threat to support his case. Fox, taking off his GobLis T-shirt, initially appeared to be buying in, but he slowly turned to insult each member of _Zmowa_ present in the ring, stating that he values friendship over success. This led to Blade and Biesiad making their appearance as "The Hardcores" and a brawl that turned into an impromptu six-man tornado tag team match between the babyfaces and the members of _Zmowa_. During the match, [Goblin](@/w/goblin.md) made an interference, putting Olgierd on a dog leash and dragging him out of the arena.
+* [Mister Z](@/w/mister-z.md) called out for Biesiad and Johnny Blade who are not making scheduled appearances tonight. Instead of them, [Axel Fox](@/w/jakub.md) who was supposed to make his decision on joining [Zmowa](@/tt/zmowa.md) that night made his entrance. Z tried to coax him into joining _Zmowa_, using [Olgierd's](@/w/olgierd.md) and [Marco Hammers's](@/w/marco-hammers.md) presence as a physical threat to support his case. Fox, taking off his GobLis T-shirt, initially appeared to be buying in, but he slowly turned to insult each member of _Zmowa_ present in the ring, stating that he values friendship over success. This led to Blade and Biesiad making their appearance as "The Hardcores" and a brawl that turned into an impromptu six-man tornado tag team match between the babyfaces and the members of _Zmowa_. During the match, [Goblin](@/w/goblin.md) made an interference, putting Olgierd on a dog leash and dragging him out of the arena.
 * Donky Kong, the weaponmaster for Dobroniak vs Isnorr, was an unknown performer in a black monkey suit, and had his own entrance to Gloria Estefan's [Conga][conga]. This theme also played whenever Donky Kong came out to hand out new weapons, which were strongly banana-themed. These were, in the order of appearance:
   1. A banana, which Dobroniak forced into Isnorr's mouth.
   2. A piece of rope, which Isnorr used to choke out his opponent.

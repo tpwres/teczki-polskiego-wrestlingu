@@ -43,7 +43,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 
 {% free_card() %}
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Jonny Storm](@/w/jonny-storm.md)'
   - Cowboy James Storm
