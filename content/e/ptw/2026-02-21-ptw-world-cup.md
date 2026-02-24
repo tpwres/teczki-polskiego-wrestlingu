@@ -67,7 +67,7 @@ has_video = false
   - '[__🇪🇸__ Nano Lopez](@/w/nano-lopez.md)'
   - s: World Cup Semi Final Match
 - - 'Synowie Lasu: Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - 'Cheeki Breeki: Dante Slam & Petrick Pereski'
+  - 'Cheeki Breeki: Stan the Slav & Patryk Peterski'
   - s: Tag Team match
 - - '[__🇵🇱__ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '__🏴󠁧󠁢󠁳󠁣󠁴󠁿__ Ben Rodgers'
