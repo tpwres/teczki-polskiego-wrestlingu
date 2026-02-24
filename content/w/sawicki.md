@@ -35,7 +35,7 @@ After Sawicki & Rosetti's defeat at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01
 
 Sawicki was seen at training sessions in [PTW Academy](@/o/ptw-academy.md) back when [Prime Time Wrestling](@/o/ptw.md) was preparing to launch. He also advertised the federation on his social media channels. 
 
-After almost four years of silence it was announced that he would make his PTW debut at the Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Prior to this announcement he was widely believed to have retired from pro wrestling. Although he wasn't able to win at Gold Rush Rumble 2, he continued makin appearances for federation.
+After almost four years of silence it was announced that he would make his PTW debut in the [Gold Rush Rumble 2](@/a/ptw-gold-rush-rumble.md) at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Prior to this announcement he was widely believed to have retired from pro wrestling. Although he didn't win the match, he continued making appearances for the federation.
 
 ## In wrestling
 

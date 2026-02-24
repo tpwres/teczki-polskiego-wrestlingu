@@ -30,7 +30,7 @@ In late December 2024 Polish Bear started publishing a series of vignettes teasi
 
 #### Synowie Lasu
 
-At [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) Polski Niedźwiedź finally managed to break his losing streak after defeating Baron Wolfgang Storm. In a post-match promo he announces that following the New Year, he will come back with a companion. The identy of his partner was revealed at [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) where he formed a Tag Team with debuting Misiek - another wrestler portraying a bear character. The team named "Synowie Lasu" (_Sons of The Forest_) started their cooperation by defeating the team of Drop and Bump.
+At [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) Polski Niedźwiedź finally managed to break his losing streak by defeating Baron Wolfgang Storm. In a post-match promo he announced that following the New Year he would come back with a companion. The identy of his partner was revealed at [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md), where he formed a Tag Team with debuting Misiek - another wrestler portraying a bear character. The team named "Synowie Lasu" (_Sons of the Forest_) began their cooperation by defeating the team of Dropper & [Bumper](@/w/bumper.md).
 
 ## International wrestling career
 
@@ -46,4 +46,4 @@ In 2025 Polski Niedźwiedź made a one-off appearance in Italian BestYa Slam fed
  
 ## Internet presence
 
-* [PolishBear's Instagram](https://www.instagram.com/bear_ptw)
+* [Polish Bear's Instagram](https://www.instagram.com/bear_ptw)

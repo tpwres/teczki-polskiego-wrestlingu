@@ -29,11 +29,11 @@ Rusałka made her debut at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-1
 
 ### Maniac Zone Wrestling (2024-2025)
 
-Rusałka made her return in the role of Sambor's valet in [Maniac Zone Wrestling](@/o/mzw.md), working alongside at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) and [Forever](@/e/mzw/2025-03-29-mzw-forever.md).
+Rusałka made her return in the role of Sambor's valet in [Maniac Zone Wrestling](@/o/mzw.md), working alongside at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) and [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
 
 ### Legacy of Wrestling (2024-2025)
 
-Rusałka accompanied Sambor during his debut for [Legacy of Wrestling](@/o/low.md) at their [first](@/e/low/2024-12-01-low-1.md) and [second](@/e/low/2025-04-06-low-2.md). The latter one marked her last official appearance at Polish wrestling scene.
+Rusałka accompanied Sambor during his debut for [Legacy of Wrestling](@/o/low.md) at their [first](@/e/low/2024-12-01-low-1.md) and [second](@/e/low/2025-04-06-low-2.md). The latter one marked her last official appearance on the Polish wrestling scene.
 
 ## In wrestling
 

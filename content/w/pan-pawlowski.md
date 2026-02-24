@@ -64,9 +64,9 @@ Despite this setback, Nietykalni managed to hold a strong position in PTW and wi
 
 #### Downfall and stepping down from PTW
 
-In a Main Event [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in a All Or Nothing Match against Spartan supported by Łukasz Okoński. Despite all of tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni Spartan was finally able to finish his story. Devastated Arkadiusz spent the next couple of weeks looking back on moments from his wrestling journey on his social media (which included short stories from both [DDW](@/o/ddw.md) and [KPW](@/o/kpw.md), as well as begginnings of [PTW](@/o/ptw.md)). 
+In the main event of [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in an All Or Nothing Match against Spartan, supported by Łukasz Okoński. Despite all the tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni, Spartan was finally able to finish his story. Devastated, Arkadiusz spent the next couple of weeks looking back at moments from his wrestling journey on his social media, which included short stories from both [DDW](@/o/ddw.md) and [KPW](@/o/kpw.md), as well as the beginnings of PTW.
 
-At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by making his farawell speech seemingly turining back into his good guy persona. He granted parting gifts for all of present Nietykalni members: [Vincent](@/w/vincent-caravaggio.md) recieved a opportunity to represent Poland at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) show, [Nano Lopez](@/w/nano-lopez.md) got a promise, that he will defend his Underground Championship across the Europe thanks to Pawłowski's networking, and finally [Alex Brave](@/w/alex-brave.md) recieved a serious heart-to-heart motivational speech about him not being the star he tries to portray. After that Pawłowski bid farewell to PTW's ring and revealed that he has been supposedly headhunted by one of "major international wrestling promotions" where he will continue his career.
+At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by making his farewell speech, seemingly reverting to his good guy persona. He granted parting gifts to all the Nietykalni members present: [Vincent](@/w/vincent-caravaggio.md) recieved an opportunity to represent Poland at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) show, [Nano Lopez](@/w/nano-lopez.md) got a promise that he woould defend his [Underground Championship](@/c/ptw-underground-championship.md) across Europe thanks to Pawłowski's networking, and finally [Alex Brave](@/w/alex-brave.md) was given a serious heart-to-heart motivational speech about him not being the star he tried to portray. After that Pawłowski bid farewell to PTW's ring and revealed that he had been supposedly headhunted by one of "major international wrestling promotions", where he would continue his career.
 
 ## International wrestling appearances
 
@@ -88,7 +88,6 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 > Thanks to his work in stand-up comedy and a range of entertainment, he can provide our product with significant input and advice.
 >
 > Welcome Arek "Pan" Pawłowski!
-
 
 ## In wrestling
 

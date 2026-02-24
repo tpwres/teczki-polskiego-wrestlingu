@@ -58,7 +58,7 @@ Taras lost the match - which was officiated by another ex-PAKA member, Boro - wh
 
 ### Maniac Zone Wrestling (2025)
 
-At [Forever](@/e/mzw/2025-03-29-mzw-forever.md) Taras made his sole appearance for [Maniac Zone Wrestling](@/o/mzw.md) where he attacked Disco Pablo in a post-match attack during their feud which started at Legacy of Wrestling.
+At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Taras made his sole appearance for [Maniac Zone Wrestling](@/o/mzw.md), attacking Disco Pablo post-match as part of their feud which started at Legacy of Wrestling.
 
 ## International wrestling appearances 
 
