@@ -22,13 +22,17 @@ Remo is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/
 
 ### Prime Time Wrestling (2021-2024; 2025-)
 
+#### First run
+
 Remo joined [Prime Time Wrestling](@/o/ptw.md) very early in its development and received his in-ring training in [PTW Academy](@/o/ptw-academy.md). He made his debut at PTW's first show - [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) as a villainous "Lone Wolf" persona, but was defeated by Arczi Czajka. Remo's first stint in PTW lasted until [Underground 5](@/e/ptw/2022-05-29-ptw-underground-5.md). Shortly after, he suffered a knee injury, which sidelined him from competition for over nine months.
 
 Remo made his return at [Underground 12](@/e/ptw/2023-02-26-ptw-underground-12.md) where he attacked [Nano Lopez](@/w/nano-lopez.md) before his match against [Marco Hammers](@/w/marco-hammers.md), possibly teasing their feud. Unfortunately for him, he was injured once again.
 
 In June 2024 Remo officially [left Prime Time Wrestling](@/a/ptw-exits.md), which he announced via his social media.
 
-In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition.
+#### Return to PTW
+
+In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition. He made his comeback at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md). He cut a promo where he expressed his grudge against PTW fans who forgot about him when he was out. He vowed to eliminate each of the fan-favourites, starting with another "usurper from Bydgoszcz" - [CJ Klakson](@/w/cj-klakson.md).
 
 ## In wrestling
 

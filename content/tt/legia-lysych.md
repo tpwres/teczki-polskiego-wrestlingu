@@ -83,7 +83,8 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
 
 * Finishing moves:
   - Stereo Running Headbutt (2024-)
-
+* Affiliations:
+  - [Zmowa](@/tt/zmowa.md) (2024-)
 * Entrance music:
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
  {{ org_badge(orgs=['ptw','ppw','mzw','low']) }} (2023-) <br>

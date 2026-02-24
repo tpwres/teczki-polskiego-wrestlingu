@@ -27,7 +27,7 @@ Budapest Bastards then debuted at [The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery
 
 Their next bout against PAKA was successful: they faced the champions, and two other tag teams, in a four-way match at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). Their competitors, also vying for the title, were MxM Collection, i.e. the former WWE stars Mansoor and Mason Madden; and [Sinister Kingdom](@/tt/sinister-kingdom.md), the team of [Sinister](@/w/sinister.md) and [Dziedzic](@/w/dziedzic.md).
 
-Bastards then defended their titles three more times, including once against another Hungarian team, The Gulyas Bros ([Gulyás Öcsi](@/w/gulyas-ocsi.md) and Gulyás Vilmos). However, at the end of 2024, they dropped the belts at the [final Underground show](@/e/ptw/2024-12-07-ptw-underground-25.md) to [L'Orda](@/tt/l-orda.md), a team of [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md). In a closing promo they then parted ways with the organization. The following year Nitro returned to PTW, but without Renegade.
+Bastards then defended their titles three more times, including once against another Hungarian team, The Gulyas Bros ([Gulyás Öcsi](@/w/gulyas-ocsi.md) and Gulyás Vilmos). However, at the end of 2024, they dropped the belts at the [final Underground show](@/e/ptw/2024-12-07-ptw-underground-25.md) to [L'Orda](@/tt/l-orda.md), a team of [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md). In a closing promo they then parted ways with the organization. In the following years Nitro and Renegade returned to PTW in 2025 and 2026 respectfully, but they worked mainly as solo performers.
 
 ## Members
 

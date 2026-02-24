@@ -1,7 +1,7 @@
 +++
 title = 'Tony "The Riverman" Sheen'
 template = "talent_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "tony-2-sheen.webp", caption = "Tony Sheen attacks [Matt2Hott](@/w/matt2hot.md).", source = "Tony Sheen's private archive" }
 +++
 
-Tony "The Riverman" Sheen is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He also worked for multiple backyard federations before that.
+Tony "The Riverman" Sheen is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). He also worked for multiple backyard federations prior to that.
 
 ## Basic info
 * Years active: 2011-2014; 2023-present
@@ -35,9 +35,13 @@ In 2024, he made his in-ring debut for the promotion at [No Time To Die](@/e/mzw
 
 At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), Sheen faced [Disco Pablo](@/w/disco-pablo.md), scoring a win thanks to distraction from [Taras](@/w/taras.md).
 
-### PpW Ewenement (2025)
+### PpW Ewenement (2025-)
 
-At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Tony made his PpW debut as one of the competitors in a Zmowa Recruitment Gauntlet Match, where he faced - and was quickly defeated by - [Gustav Gryffin](@/w/gustav-gryffin.md).
+At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Tony made his PpW debut as one of the competitors in the Zmowa Recruitment Gauntlet Match, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) and was quickly defeated by him. From that point on he starded making occassional appearances, mostly as enhancement talent.
+
+### Legacy of Wrestling (2025-)
+
+In December 2025 Tony Sheen made his debut for [Legacy of Wrestling](@/o/low.md), where he faced Disco Pablo in a 12 Weapons of Christmas No-DQ Match.
 
 ## In wrestling
 

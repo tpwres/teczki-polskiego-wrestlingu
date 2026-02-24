@@ -26,7 +26,7 @@ Renegade made his debut on Polish soil in March 2012 at the [sixth official show
 
 After DDW rebranded into [Kombat Pro Wrestling](@/o/kpw.md), Renegade made one appearance at their first official show - [KPW vs the World: Hung(a)ry for Kombat](@/e/kpw/2015-11-14-kpw-vs-the-world-hungary-for-kombat.md), where he scored a victory against [Kaszub](@/w/kaszub.md).
 
-### Prime Time Wrestling (2021-2024)
+### Prime Time Wrestling (2021-2024; 2025)
 
 #### Rivalry with Axel Fox and championship pursuits
 
@@ -39,10 +39,14 @@ Budapest Bastards managed to secure another opportunity to fight for the PTW Tag
 
 After their loss Renegade and his tag team partner Nitro seemingly bid farewell to [Prime Time Wrestling](@/o/ptw.md), claiming that it might be uncertain when - if ever - they return.
 
+#### Return
+
+In February 2026 Renegade made his return to PTW facing [Spartan](@/w/spartan.md) in his first [PTW Championship](@/c/ptw-championship.md) title defence.
+
 ## In wrestling
 
 * Finishers:
-  - _Helldorado_ (Crucifix Powerbomb) (2012-2024)
+  - _Helldorado_ (Crucifix Powerbomb) (2012-)
 * With [Nitro](@/w/nitro.md):
   - _Greeting From Budapest_ (Inverted Belly-To-Back Facebuster (Renegade) / Running Cutter (Nitro) combination) (2023)
   - Running Lariat (Renegade) + Kick (Nitro) combination (2024)
@@ -50,7 +54,7 @@ After their loss Renegade and his tag team partner Nitro seemingly bid farewell 
   - Budapest Bastards (2023-2024)
 * Entrance music:
   - "Mother" by Danzig
-    {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }} (2014-2024) <br>
+    {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }} (2014-2024; 2026-) <br>
     {{ music(yt='uPugn_05Qac')}}
     {{ music(spot='7txxAtOMwLLnQTpKeBL6bp')}}
     {{ music(apple='1440880562?i=1440880961')}}
