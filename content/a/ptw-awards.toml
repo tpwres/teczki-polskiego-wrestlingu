@@ -37,3 +37,4 @@
 311 = { path = "awards-2025-mowca-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Speaker of the Year category.", source = "Official PTW Facebook" }
 312 = { path = "awards-2025-szok-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Shock of the Year category.", source = "Official PTW Facebook" }
 313 = { path = "awards-2025-tag-team-roku.webp", caption = "PTW Awards 2025.<br />Nominees for the Tag Team of the Year category.", source = "Official PTW Facebook" }
+324 = { path = "awards-2025-wrestler-roku-wynik.webp", caption = "PTW Awards 2025.<br />Winner of the Wrestler of the Year category: [Daniel Razor](@/w/daniel-razor.md)", source = "Official PTW Facebook" }
