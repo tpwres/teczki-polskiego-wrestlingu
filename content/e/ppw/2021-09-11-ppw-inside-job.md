@@ -8,14 +8,7 @@ venue=["2kola"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
-[extra.gallery.1]
-path = "2021-09-11-ppw-inside-job-plakat.jpg"
-caption = "Official poster. Pictured are [Osamu](@/w/osamu.md) with the [PpW Championship](@/c/ppw-championship.md), [Mister Z](@/w/mister-z.md), [Rob Scaffold](@/w/rob-scaffold.md) doing a swanton dive, plus [Johnny Blade](@/w/johnny-blade.md) and [Tony Sk1n](@/w/tony-sk1n.md) next to the logo."
-source = "Official PpW Facebook"
-[extra.gallery.2]
-path = "niskooktanowy-ricardo.webp"
-caption = "The future [Ricardo Diesel](@/w/ricardo-diesel.md) visible in the crowd."
-source = "Official PpW VOD"
+[extra.gallery]
 +++
 
 Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 2021, the twentieth anniversary of the infamous WTC terrorist attacks. The event's name was a reference to a popular conspiracy theory concerning that incident.
@@ -47,6 +40,11 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=384409)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/inside-job-fullshow-dvd-hd) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=_PXqj9uuZLg) (set to private as of January 2025)
+
+* [Animated announcement: ]()
+* [Animated announcement: Tony Sk1n vs Adam Wong](https://www.facebook.com/watch/?v=370166297979203)
+* [Animated announcement: Rob Scaffold vs Direk](https://www.facebook.com/watch/?v=546840953253632)
+
 * [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
 * [Facebook event page](https://www.facebook.com/events/548066229675271/)
 * [WrestleMap's article](https://www.wrestlemap.com/news/7oo8taw1btavbz38pvzubzazrvz6re)
