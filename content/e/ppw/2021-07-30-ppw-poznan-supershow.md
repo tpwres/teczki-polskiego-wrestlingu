@@ -94,7 +94,7 @@ Some matches featured wrestlers thinly disguised with a mask, fighting as anothe
 ## References
 
 * [Video report on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/poznan-supershow-21-raport) (requires paid subscription)
-* [Video report](https://www.youtube.com/watch?v=YmqP_CGJZg8)
+* [Video report on YouTube](https://www.youtube.com/watch?v=YmqP_CGJZg8)
 * [WrestleMap's article](https://www.wrestlemap.com/news/dq485wijkucboar5ma0dc8d3h61zyr)
 * [PpW's wiki page](https://ppw-fandom.tpwres.pl/poznan-supershow-2021)
 * [Photo galleries from past events](https://targipiwne.pl/galeria/)
