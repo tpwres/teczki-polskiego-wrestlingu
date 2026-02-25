@@ -44,7 +44,6 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
 * [Animated announcement: ]()
 * [Animated announcement: Tony Sk1n vs Adam Wong](https://www.facebook.com/watch/?v=370166297979203)
 * [Animated announcement: Rob Scaffold vs Direk](https://www.facebook.com/watch/?v=546840953253632)
-
 * [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
 * [Facebook event page](https://www.facebook.com/events/548066229675271/)
 * [WrestleMap's article](https://www.wrestlemap.com/news/7oo8taw1btavbz38pvzubzazrvz6re)
