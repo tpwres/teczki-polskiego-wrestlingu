@@ -40,5 +40,5 @@ Ledwo Legalne (_Barely Legal_) was a show by [PpW Ewenement Wrestling](@/o/ppw.m
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383300)
 * [Full show on YouTube](https://www.youtube.com/watch?v=9PZhhykQF8s)
 * [Animated announcement: Mister Z vs Osamu](https://www.facebook.com/events/2688373498148282/?post_id=2900492460269717)
-* [Animated announcement: Rob Scaffold vs Tony Sk1n](https://www.facebook.com/events/2688373498148282/?post_id=2912650169053946&view=permalink)
+* [Animated announcement: Rob Scaffold vs Tony Sk1n](https://www.facebook.com/events/2688373498148282/?post_id=2912650169053946)
 * [WrestleMap's article](https://www.wrestlemap.com/news/bts0oruue5ixwa6gswn19svx0lx3yu)
