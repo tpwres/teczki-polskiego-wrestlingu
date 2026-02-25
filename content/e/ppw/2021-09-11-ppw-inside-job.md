@@ -40,8 +40,6 @@ Inside Job was an event by [PpW Ewenement](@/o/ppw.md) held on September 11, 202
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=384409)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/inside-job-fullshow-dvd-hd) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=_PXqj9uuZLg) (set to private as of January 2025)
-
-* [Animated announcement: ]()
 * [Animated announcement: Tony Sk1n vs Adam Wong](https://www.facebook.com/watch/?v=370166297979203)
 * [Animated announcement: Rob Scaffold vs Direk](https://www.facebook.com/watch/?v=546840953253632)
 * [Recap video on YouTube](https://www.youtube.com/watch?v=HPaT6sWDnfM)
