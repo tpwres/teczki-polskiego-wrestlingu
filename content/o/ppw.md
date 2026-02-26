@@ -129,10 +129,10 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode of _Mam Talent!_ (Polish spin-off of the long-running _Got Talent_ format). Biesiad gives a short promo stating how he's aiming for the championship which he deserves, while Olgierd portrays his hard-headed hooligan character. Before the bell, Biesiad is seen running bare-chested through the general area with other contestants present. In their match Olgierd defended his [PpW Championship](@/c/ppw-championship.md) against Biesiad, with an intervention by Mister Z. The segment was received favourably by three of the four judges, with only Julia Wieniawa giving the team a thumbs down, stating she did not understand the concept and is against such portrayal of violence.
 
 {% free_card() %}
-- - '[Olgierd](@/w/olgierd.md) w/ [Mister Z](@/w/mister-z.md)'
+- - '[Olgierd](@/w/olgierd.md) w/ [Mister Z](@/w/mister-z.md)(c)'
   - '[Biesiad](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    en: 'Mam Talent Season 17 Episode 1'
+    en: '[Mam Talent Season 17 Episode 1][ppw-ma-talent]'
     ed: '2026-02-21'
 {% end %}
 
@@ -179,6 +179,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 * [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
 * [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
+* [PpW in Mam Talent][ppw-ma-talent]
 
 [ppw-c]: @/c/ppw-championship.md
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
@@ -187,3 +188,4 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [ppw-vod]: https://ppw-ewenementpl.vhx.tv
 [ewenement-logo]: https://www.facebook.com/photo/?fbid=2150678838439647&set=a.158941800946704
 [ppw-globalnie]: https://www.instagram.com/ppw_global/
+[ppw-ma-talent]: https://www.facebook.com/reel/865556049810905
