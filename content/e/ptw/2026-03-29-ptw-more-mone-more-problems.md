@@ -21,7 +21,7 @@ has_video = false
 ## Card
 
 {% card() %}
-- - [Mercedes Moné](@/w/mercedes-mone.md)(c)'
+- - '[Mercedes Moné](@/w/mercedes-mone.md)(c)'
   - '???'
   - c: '[PTW Women's Championship](@/c/ptw-womens-championship.md)'
     nc: upcoming
