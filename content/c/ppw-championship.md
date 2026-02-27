@@ -277,7 +277,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 - - 'Olgierd (c)'
   - 'Biesiad Strong'
   - s: Singles Match
-    en: '[Mam Talent Season 17 Episode 1][ppw-ma-talent]'
+    en: '[Mam Talent Season 17 Episode 1](https://www.facebook.com/reel/865556049810905)'
     ed: '2026-02-21'
 {% end %}
 
@@ -289,4 +289,3 @@ Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the
 * [Video introducing the redesigned belt](https://www.youtube.com/watch?v=JlXKZaJQDGU)
 
 [pakistanskie-pasy]: https://www.facebook.com/photo.php?fbid=921020626705335
-[ppw-ma-talent]: https://www.facebook.com/reel/865556049810905
