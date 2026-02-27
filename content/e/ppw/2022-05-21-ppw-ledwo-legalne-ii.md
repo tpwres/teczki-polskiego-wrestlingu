@@ -8,18 +8,7 @@ venue=["waldorffa25"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
-[extra.gallery.1]
-path = "2022-05-21-ppw-ledwo-legalne-ii-plakat.jpg"
-caption = "Official poster. Wrestlers drawn are [Mister Z](@/w/mister-z.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md) wearing the [PpW Championship](@/c/ppw-championship.md) belt, Viking and [Steve Kuningas](@/w/steve-kuningas.md)."
-source = "Official PpW Facebook"
-[extra.gallery.2]
-path = "pov-niecheci.webp"
-caption = "Even the cameraman doesn't like Tony Sk1n."
-source = "Official PpW VOD"
-[extra.gallery.3]
-path = "rafters.webp"
-caption = "[Biesiad Strong](@/w/biesiad.md) about to jump from the rafters."
-source = "Official PpW VOD"
+[extra.gallery]
 +++
 
 Ledwo Legalne II (_Barely Legal II_) was [PpW's](@/o/ppw.md) sixth major event, held on Saturday, May 21, 2022. It was a follow-up to the first [Ledwo Legalne](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) event from 2021. The name of the show calls back to ECW's Barely Legal, their first event broadcast live. It may also relate to the fact that back in 2021 COVID-19 restrictions were barely lifted enough so that holding a wrestling event became legal again.
