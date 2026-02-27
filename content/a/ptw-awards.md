@@ -97,8 +97,8 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 ##### Tag Team of the Year
 
-1. Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)) - 172
-2. PAKA ([Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md) & [Boro](@/w/boro.md)) - 124
+1. [Pure Gold](@/tt/pure-gold.md) ([Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)) - 172
+2. [PAKA](@/tt/paka.md) ([Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md) & [Boro](@/w/boro.md)) - 124
 3. Bright Lights ([Marcelito](@/w/marcelito.md) & [Karol "Iskra" Górski](@/w/iskra.md)) - 25
 
 ##### Commentator of the Year
@@ -131,13 +131,13 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 2. Matt Sydal vs Samuray Del Sol - Legends - 25
 3. [Disco Pablo](@/w/disco-pablo.md) vs [Diana Strong](@/w/diana-strong.md) vs [Pure](@/w/gabriel-queen.md) [Gold](@/w/vic-golden.md) - [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 16
 4. [Jonny Storm](@/w/jonny-storm.md) vs Jody Fleisch - [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 7
-5. Axel Tischer vs Bad Bones - [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 7
+5. Axel Tischer vs [Bad Bones](@/w/bad-bones.md) - [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 7
 
 ##### Finisher of the Year
 
 1. [Puncher](@/w/puncher.md) - Wylew - 174
 2. [Robert Star](@/w/robert-star.md) - Stallion Cutter - 137
-3. PAKA - Blok 3D - 31
+3. [PAKA](@/tt/paka.md) - Blok 3D - 31
 4. [Spartan](@/w/spartan.md) - Spartan Bomb - 28
 5. [Nano Lopez](@/w/nano-lopez.md) - Last Plane to Spain - 14
 
@@ -146,7 +146,7 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 1. [Justin Joy](@/w/justin-joy.md) & [Axel Fox's](@/w/jakub.md) reunion - 93
 2. [Joy](@/w/justin-joy.md) dropped on a table - 58
 3. [Krampus](@/w/krampus.md) chokeslamming [Nano](@/w/nano-lopez.md) through a table - 15
-4. PAKA's 6-man suplex - 9
+4. [PAKA's](@/tt/paka.md) 6-man suplex - 9
 5. [Santino's](@/w/santino.md) Cobra - 9
 
 ##### Referee of the Year
@@ -265,6 +265,15 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 4. [Dawid "Puncher" Seńko](@/w/puncher.md) - 24 votes
 5. ["Starboy" Nano Lopez](@/w/nano-lopez.md) - 15 votes
 6. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 13 votes
+
+##### Foreign Star of the Year
+
+1. [El G](@/w/el-g.md) - 78 votes
+2. [Mercedes Moné](@/w/mercedes-mone.md) - 34 votes
+3. [Krampus](@/w/krampus.md) - 30 votes
+4. [Blaze](@/w/blaze.md) - 19 votes
+5. [Serg Sullivan](@/w/serg-sullivan.md) - 14 votes
+6. Flamingo - 11 votes
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)

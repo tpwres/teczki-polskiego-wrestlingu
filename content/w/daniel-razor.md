@@ -52,6 +52,8 @@ After successfully defending his Championship in three open challenges, his reig
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time)
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Wrestler of the Year (2025)
 
 ## Internet presence
 
