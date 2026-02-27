@@ -33,7 +33,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
     nc: upcoming
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Mister Z](@/w/mister-z.md)'
-    nc: upcoming  
+  - nc: upcoming  
 - credits:
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
     Ring announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
