@@ -132,14 +132,14 @@ In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode
 - - '[Olgierd](@/w/olgierd.md)(c) w/ [Mister Z](@/w/mister-z.md)'
   - '[Biesiad](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    en: '[Mam Talent Season 17 Episode 1][ppw-ma-talent]'
+    en: 'Mam Talent Season 17 Episode 1'
     ed: '2026-02-21'
 {% end %}
 
 - Referee: [Sędzia Seweryn](@/w/sedzia-seweryn.md)
 - Talent show judges: Agnieszka Chylińska, Marcin Prokop, Julia Wieniawa, Agustin Egurrola
 
-Also present backstage were [Istotna Martynka](@/w/istotna-martynka.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
+See link in the References section below for the video. Also present backstage were [Istotna Martynka](@/w/istotna-martynka.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
 
 ### Independent and other
 
@@ -179,7 +179,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 * [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
 * [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
-* [PpW in Mam Talent][ppw-ma-talent]
+* [Facebook video reel: PpW in Mam Talent][ppw-ma-talent]
 
 [ppw-c]: @/c/ppw-championship.md
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
