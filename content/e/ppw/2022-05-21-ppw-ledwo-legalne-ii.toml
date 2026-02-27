@@ -1,0 +1,9 @@
+01 = { path = "2022-05-21-ppw-ledwo-legalne-ii-plakat.jpg", caption = "Official poster. Wrestlers drawn are [Mister Z](@/w/mister-z.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md) wearing the [PpW Championship](@/c/ppw-championship.md) belt, Viking and [Steve Kuningas](@/w/steve-kuningas.md).", source = "Official PpW Facebook" }
+02 = { path = "steve-kuningas-vs-mister-z.webp", caption = "Image announcing [Steve Kuningas](@/w/steve-kuningas.md) vs [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
+03 = { path = "johnny-blade-vs-viking.webp", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md) vs Viking.", source = "Official PpW Facebook" }
+04 = { path = "tony-sk1n-vs-ricardo-diesel.webp", caption = "Image announcing [Tony Sk1n](@/w/tony-sk1n.md) vs [Ricardo Diesel](@/w/ricardo-diesel.md).", source = "Official PpW Facebook" }
+05 = { path = "skull-evil-vs-asara.webp", caption = "Image announcing [Skull Evil](@/w/skull-evil.md) vs [Asara](@/w/asara.md).", source = "Official PpW Facebook" }
+06 = { path = "biesiad-strong-vs-unknown.webp", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) vs ???.", source = "Official PpW Facebook" }
+07 = { path = "bill-feager-vs-adam-wong.webp", caption = "Image announcing [Bill Feager](@/w/feager.md) vs [Adam Wong](@/w/adam-wong.md).", source = "Official PpW Facebook" }
+08 = { path = "pov-niecheci.webp", caption = "Even the cameraman doesn't like Tony Sk1n.", source = "Official PpW VOD" }
+09 = { path = "rafters.webp", caption = "[Biesiad Strong](@/w/biesiad.md) about to jump from the rafters.", source = "Official PpW VOD" }
