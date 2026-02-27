@@ -1,3 +1,4 @@
 0000 = { path = "kpw-arena-32-plakat.webp", caption = "Official poster, featuring [Chemik](@/w/chemik.md), [Krystian Malinowski](@/w/krystian-malinowski.md) and [Filip Fux](@/w/filip-fux.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 0001 = { path = "kolejna-gala-kolejny-niemiec.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs Erik Asmus.", source = "Official KPW Facebook" }
 0002 = { path = "a-to-schultaj.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md).", source = "Official KPW Facebook" }
+0003 = { path = "lesamik-vs-paskaleksander.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) & [Chemik](@/w/chemik.md) vs [Markus Paskal](@/w/markus-paskal.md) & [Kamil Aleksander](@/w/kamil-aleksander.md).", source = "Official KPW Facebook" }
