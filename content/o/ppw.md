@@ -129,7 +129,7 @@ Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the
 In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode of _Mam Talent!_ (Polish spin-off of the long-running _Got Talent_ format). Biesiad gives a short promo stating how he's aiming for the championship which he deserves, while Olgierd portrays his hard-headed hooligan character. Before the bell, Biesiad is seen running bare-chested through the general area with other contestants present. In their match Olgierd defended his [PpW Championship](@/c/ppw-championship.md) against Biesiad, with an intervention by Mister Z. The segment was received favourably by three of the four judges, with only Julia Wieniawa giving the team a thumbs down, stating she did not understand the concept and is against such portrayal of violence.
 
 {% free_card() %}
-- - '[Olgierd](@/w/olgierd.md) w/ [Mister Z](@/w/mister-z.md)(c)'
+- - '[Olgierd](@/w/olgierd.md)(c) w/ [Mister Z](@/w/mister-z.md)'
   - '[Biesiad](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     en: '[Mam Talent Season 17 Episode 1][ppw-ma-talent]'
