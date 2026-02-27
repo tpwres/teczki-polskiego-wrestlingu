@@ -9,8 +9,6 @@ city = "Warszawa"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2020-02-15-ppw-brawl-for-the-puppies-plakat.jpg", caption = "Official poster, showing [Ricky Sky](@/w/ricky-sky.md), [Duende](@/w/sedzia-borys.md), Viking, Alex Tamatou, Šakal, [Osamu](@/w/osamu.md), Amskér, [Johnny Blade](@/w/johnny-blade.md) and [Mister Z](@/w/mister-z.md).", source = "Amskér's Facebook" }
-2 = { path = "2020-02-15-ppw-brawl-for-the-puppies-logo.jpg", caption = "Official logo", source = "Official PpW Facebook" }
 +++
 
 Bijatyka Dla Piesków (_Brawl for the Puppies_) was an event by [PpW Ewenement](@/o/ppw.md), held on Saturday, February 15th 2020.

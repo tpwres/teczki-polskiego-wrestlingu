@@ -1,0 +1,6 @@
+01 = { path = "2020-02-15-ppw-brawl-for-the-puppies-plakat.jpg", caption = "Official poster, showing [Ricky Sky](@/w/ricky-sky.md), [Duende](@/w/sedzia-borys.md), Viking, Alex Tamatou, Šakal, [Osamu](@/w/osamu.md), Amskér, [Johnny Blade](@/w/johnny-blade.md) and [Mister Z](@/w/mister-z.md).", source = "Amskér's Facebook" }
+02 = { path = "2020-02-15-ppw-brawl-for-the-puppies-logo.jpg", caption = "Official logo.", source = "Official PpW Facebook" }
+03 = { path = "viking-vs-johnny-blade.webp", caption = "Image announcing Viking vs [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
+04 = { path = "ricky-sky-vs-osamu-vs-alex-tamatou.webp", caption = "Image announcing [Ricky Sky](@/w/ricky-sky.md) vs [Osamu](@/w/osamu.md) vs Alex Tamatou.", source = "Official PpW Facebook" }
+05 = { path = "mr-z-vs-sakal.webp", caption = "Image announcing [Mister Z](@/w/mister-z.md) vs Šakal.", source = "Official PpW Facebook" }
+06 = { path = "amsker-vs-duende.webp", caption = "Image announcing Amskér vs [Duende](@/w/sedzia-borys.md).", source = "Official PpW Facebook" }
