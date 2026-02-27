@@ -274,6 +274,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Legendary Unsanctioned Match
     en: '[Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16
+- - 'Olgierd (c)'
+  - 'Biesiad Strong'
+  - s: Singles Match
+    en: '[Mam Talent Season 17 Episode 1][ppw-ma-talent]'
+    ed: '2026-02-21'
 {% end %}
 
 Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md), against Dale Patricks.
@@ -283,4 +288,5 @@ Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the
 * [PpW Wiki's entry on the PpW Championship](https://ppw-fandom.tpwres.pl/ppw-championship)
 * [Video introducing the redesigned belt](https://www.youtube.com/watch?v=JlXKZaJQDGU)
 
-[pakistanskie-pasy]: https://www.facebook.com/photo.php?fbid=921020626705335&set=a.574354294705305&type=3
+[pakistanskie-pasy]: https://www.facebook.com/photo.php?fbid=921020626705335
+[ppw-ma-talent]: https://www.facebook.com/reel/865556049810905
