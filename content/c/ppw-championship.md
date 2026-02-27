@@ -279,6 +279,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles Match
     en: '[Mam Talent Season 17 Episode 1](https://www.facebook.com/reel/865556049810905)'
     ed: '2026-02-21'
+    n: Non-canon TV appearance
 {% end %}
 
 Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md), against Dale Patricks.
