@@ -275,6 +275,15 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 5. [Serg Sullivan](@/w/serg-sullivan.md) - 14 votes
 6. Flamingo - 11 votes
 
+##### Progress Star of the Year
+
+1. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 47 votes
+2. [Miyagi Shida](@/w/miyagi-shida.md) - 40 votes
+3. [Alex Brave](@/w/alex-brave.md) - 14 votes
+4. [Blaze](@/w/blaze.md) - 12 votes
+5. Flamingo - 8 votes
+6. [Serg Sullivan](@/w/serg-sullivan.md) - 7 votes
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
