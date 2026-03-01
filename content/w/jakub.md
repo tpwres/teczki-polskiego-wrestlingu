@@ -186,7 +186,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, inaugural, current)
   - Road to the Title Tournament (2025)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md) and [Marco Hammers](@/w/marco-hammers.md)
 
 ## Internet presence
 
