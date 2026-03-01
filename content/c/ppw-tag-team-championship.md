@@ -82,16 +82,15 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 #### Finals
 
 {% free_card() %}
-- - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
+  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/jakub.md)'
-  - s: Tag Team Match
+  - s: Triple Threat Tag Team Tables Elimination Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
     ed: 2026-02-28
-    nc: upcoming
 {% end %}
 
-### Champions #1: TBD
+### Champions #1: Zmowa: Mister Z & Jakub "Fox"
 
 ## References
 

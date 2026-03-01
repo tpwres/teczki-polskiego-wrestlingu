@@ -54,14 +54,14 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - g: Johnny demands Olgierd give him a championship match
-- - "[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub 'Fox'](@/w/jakub.md)"
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
     s: Triple Threat Tag Team Tables Elimination Match
 - credits:
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Host, Ring Announcer: "[Michael HT](@/w/michael-ht.md)"
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
 ### Highlights
