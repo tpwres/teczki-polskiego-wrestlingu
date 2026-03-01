@@ -157,7 +157,7 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) & [Marco Hammers](@/w/marco-hammers.md)'
   - > 
     Defeated [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)) and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 {% end %}
