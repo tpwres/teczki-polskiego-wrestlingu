@@ -66,7 +66,9 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 
 ### Highlights
 
+- With this event, the ad-hoc team of Gustav and Goblin now had a name: "Bad Trip", complete with merchandise.
 - Sambor was initially billed for the show, but did not make an appearance, instead the spot went to TOMCZAK in a surprise appearance. With this, the event saw 3 KPW wrestlers in total, two of them debuting for PpW.
+- Marcelito, paired with monster heel Tomczak used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. Hovewer, after a lost match, Tomczak confronted him and applied a devastating chokeslam, ending their brief partnership.
 - The 3 Stages Of Man stipulation, as declared by Marco in his promo, was a series of short contests between him and Boro, in order to prove who's more manly.
   First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping push-ups and one-handed push-ups for extra flair.
   The second round was a bodybuilding competition, with scores given by three "impartial judges", of which two were picked from the audience, and third was Michael HT. Both contestants needed oiling up for that, with Boro doing that on his own, and Marco receiving a very professional oiling from Referee Karol. Unfortunately, the judges rated Boro higher, which led to Marco arguing with them, turning his back to the opponent. Who then proceeded to oil up a rubber glove, and performed a surprise Oil Check on Marco, briefly putting him out of action.
