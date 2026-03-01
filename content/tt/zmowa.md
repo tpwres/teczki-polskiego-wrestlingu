@@ -75,6 +75,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
   - [PpW Championship](@/c/ppw-championship.md) (2 times) - [Gustav Gryffin](@/w/gustav-gryffin.md) (1), [Olgierd](@/w/olgierd.md) (1; current)
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - [Isnorr](@/w/isnorr.md)
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times) - [Marco Hammers](@/w/marco-hammers.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current)
   - [Złoty Ewenement 2025](@/a/zlote-ewenementy.md) - Moment of the Year
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
