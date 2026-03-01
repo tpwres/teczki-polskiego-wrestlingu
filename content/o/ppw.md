@@ -159,7 +159,7 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md)'
   - > 
-    Defeater [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)) and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
+    Defeated [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)) and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
