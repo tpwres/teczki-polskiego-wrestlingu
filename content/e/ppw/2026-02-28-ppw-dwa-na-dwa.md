@@ -20,7 +20,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 * The first officially announced match, revealed on 13.01.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Justin Joy](@/w/justin-joy.md). The two previously teamed up at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 * At [PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) earned their _Golden Opportunity_ to be added into the tournament finals.
 * In [Rodzina's](@/tt/rodzina.md) [promo][promocja-rodzinna] recorded for social media, it was confirmed that [Oskar Alexander](@/w/oskar-alexander.md) would be representing Rodzina in the finals, along with a new, not yet revealed family member. As it was [Vic Golden](@/w/vic-golden.md) who advanced to the finals, it seems that the tournament involves the classic [Freebird Rule][freebird-rule] in some form.
-* At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Filip Fux](@/w/filip-fux.md) - still an active [KPW](@/o/kpw.md) wrestler - joined Rodzina, seemingly making him the "new member" to fight for the Tag Team titles.
+* At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Filip Fux](@/w/filip-fux.md), still an active [KPW](@/o/kpw.md) wrestler, joined Rodzina, seemingly making him the "new member" to fight for the Tag Team titles.
 * On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. They also disclosed the stipulation: a Tables Elimination Match with Tornado rules (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.07.2026.
 * Next came a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced on 11.02.2026.
@@ -28,8 +28,9 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 * On 19.02.2026 PpW announced the debut of another active KPW wrestler, [Leon Lato](@/w/leon-lato.md). He will partner with [Antoni Ocean](@/w/antoni-ocean.md) in a Tag Team Match against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.02.2026.
 * Two weeks later, on 22.02.2026, PpW announced [Tony Sheen](@/w/riverman.md) vs [Mutant](@/w/mutant.md).
-* After the main event of [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), the still-bleeding Johnny Blade [a promo][johnny-postmatch] about how his wrestling journey has since 2010 led him to fulfil many of his childhood dreams, but he never held the main Championship title. He then requested "one more chance" from the current Champion [Olgierd](/w/olgierd.md).
+* After the main event of [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), the still-bleeding Johnny Blade delivered [a promo][johnny-postmatch] about how his wrestling journey since 2010 has led him to fulfil many of his childhood dreams, but he never held the main Championship title. He then requested "one more chance" from the current Champion [Olgierd](/w/olgierd.md).
 * Shortly afterwards, PpW released an [instagram story][tez-og], with Johnny looking at the PpW Championship belt laid out on the bar. Olgierd the appeared and took the belt, asking Johnny how he still lived after Olgierd had [almost hanged him](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) once, and later had thrown him into barbed wire [upside down](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). Olgierd told Johnny that putting him down is one of his biggest dreams, however holding onto and defending the Championship is even more important. But for old times' sake, he'd give some thought to Johnny's proposal and give him an answer in Wrocław.
+* In an [Instagram reel][marco-lifts] released on 27.02, Marco Hammers addressed Ladykiller rather aggressively during his strength exercises, and clarified that they will measure who's the better man, not giving much details as to how.
 
 ## Card
 
@@ -90,3 +91,4 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 [promocja-rodzinna]: https://www.instagram.com/p/DTs_vmZignE/
 [johnny-postmatch]: https://www.instagram.com/p/DVEkNuBCk67/
 [tez-og]: https://www.instagram.com/p/DVHKYSbigRJ/
+[marco-lifts]: https://www.instagram.com/p/DVQ8-ogjCLf/
