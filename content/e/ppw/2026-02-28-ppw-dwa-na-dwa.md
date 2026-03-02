@@ -1,7 +1,7 @@
 +++
 title = "PpW Dwa Na Dwa"
 template = "event_page.html"
-authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych", "Sewi The Referee"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["zaklete-rewiry"]
