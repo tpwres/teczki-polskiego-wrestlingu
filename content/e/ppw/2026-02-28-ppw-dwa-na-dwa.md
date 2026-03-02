@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to the {{ map_pin(v="Zaklęte Rewiry") }}Zaklęte Rewiry culture and entertainment centre in Wrocław.
+Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held in {{ map_pin(v="Zaklęte Rewiry") }}Zaklęte Rewiry event space in Wrocław.
 
 ## Build-up
 
@@ -28,43 +28,54 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 * On 19.02.2026 PpW announced the debut of another active KPW wrestler, [Leon Lato](@/w/leon-lato.md). He will partner with [Antoni Ocean](@/w/antoni-ocean.md) in a Tag Team Match against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.02.2026.
 * Two weeks later, on 22.02.2026, PpW announced [Tony Sheen](@/w/riverman.md) vs [Mutant](@/w/mutant.md).
+* After the main event of [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), Johnny cut [a promo][johnny-postmatch], still bleeding, about how his wrestling journey since 2010 led him to fulfil many of his childhood dreams, but he never held the main championship title, and requested "one more chance" from current champion [Olgierd](/w/olgierd.md).
+* Shortly afterwards, PpW released an [instagram story][tez-og], with Johnny looking at the PpW Championship belt laid out on the bar. Then, Olgierd appeared and took the belt, and asked how does Johnny still live after he [almost hanged him](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) once, and later threw him into barbed wire [upside down](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). Olgierd told Johnny that putting him down is one of his biggest dreams, however holding onto and defending the championship is even more important. But for old times sake, he'd give some though to Johnny's proposal and give him an answer in Wrocław.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Leon Lato](@/w/leon-lato.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
-  - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
+  - '[TOMCZAK](@/w/tomczak.md) & [Marcelito](@/w/marcelito.md)'
   - s: Pre-Show Tag Team Match
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/jakub.md)'
-  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
-    s: Triple Threat Tag Team Tables Elimination Match
-    nc: upcoming
-- - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Justin Joy](@/w/justin-joy.md)'
-  - nc: upcoming
-- - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Ladykiller](@/w/boro.md)'
-  - nc: upcoming
-- - '[Bartosz Plata](@/w/plata.md)'
-  - '[Max Speed](@/w/max-speed.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
   - '[Asara](@/w/asara.md)'
   - s: Triple Threat Match
-    nc: upcoming
+- - '[Mutant](@/w/mutant.md)'
+  - '[Tony Sheen](@/w/riverman.md)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
+- - '[Marco Hammers](@/w/marco-hammers.md)'
+  - '["Ladykiller" Boro](@/w/boro.md)'
+  - g: 3 Stages of Man Contest
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Emil Völler'
   - s: International Hardcore Match
-    nc: upcoming
-- - '[Tony Sheen](@/w/riverman.md)'
-  - '[Mutant](@/w/mutant.md)'
-  - nc: upcoming
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - g: Johnny demands Olgierd give him a championship match
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
+  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
+    s: Triple Threat Tag Team Tables Elimination Match
+- credits:
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+* With this event, the ad-hoc team of Gustav and Goblin now had a name: "Bad Trip", complete with merchandise.
+* Sambor was initially billed for the show, but did not make an appearance, instead the spot went to TOMCZAK in a surprise appearance. With this, the event saw 3 KPW wrestlers in total, two of them debuting for PpW.
+* Marcelito, paired with monster heel Tomczak used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. Hovewer, after a lost match, Tomczak confronted him and applied a devastating chokeslam, ending their brief partnership.
+* The 3 Stages Of Man stipulation, as declared by Marco in his promo, was a series of short contests between him and Boro, in order to prove who's more manly.
+  First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping push-ups and one-handed push-ups for extra flair.
+  The second round was a bodybuilding competition, with scores given by three "impartial judges", of which two were picked from the audience, and third was Michael HT. Both contestants needed oiling up for that, with Boro doing that on his own, and Marco receiving a very professional oiling from Referee Karol. Unfortunately, the judges rated Boro higher, which led to Marco arguing with them, turning his back to the opponent. Who then proceeded to oil up a rubber glove, and performed a surprise Oil Check on Marco, briefly putting him out of action.
+  Lastly, the final round was a bodyslam competition, contested like a match that could be only won by bodyslamming the opponent.
+* After his match, Johnny took the microphone, and demanded Olgierd come out and let him sign a contract for a [PpW Championship](@/c/ppw-championship.md) match. Olgierd obliged, referenced their last exchange and shared past, and let Johnny know how he was misled and used by Zmowa, seemingly ready to abandon them. Then he gave the contract to Johnny, who immediately signed it. This was met by mockery, with Olgierd stating that the contract needed two signatures, and he's unwilling to give his. Dejected but unfazed, Johnny managed to handcuff Olgierd to the ring ropes, and forcing a pen into the cuffed hand, managed to get his signature.
+* In the main event, the rules were such that a team is eliminated when either member is put through a table. Despite Zmowa and Rodzina initially working together, a series of mishaps caused them to become hostile towards each other. At one point in the match, an early elimination was prevented by the unfortunate Referee Seweryn, pushed into one of the tables, breaking it with his body.
+* Present in the crowd was [Rookie Two](@/w/rookie-two.md) from [KPW](@/o/kpw.md).
 
 ## References
 
@@ -76,3 +87,5 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
 [main-event-fuxem]: https://www.facebook.com/photo?fbid=1476600561136998&set=a.499910772139320
 [promocja-rodzinna]: https://www.instagram.com/p/DTs_vmZignE/
+[johnny-postmatch]: https://www.instagram.com/p/DVEkNuBCk67/
+[tez-og]: https://www.instagram.com/p/DVHKYSbigRJ/

@@ -10,6 +10,7 @@ toclevel=2
 2 = { path = "pasy-na-dywanie.jpg", caption = "Closer look at the belt.", source = "Mister Z" }
 3 = { path = "zetowi-pasuja-pasy.jpg", caption = "[Mister Z](@/w/mister-z.md) with the belts.", source = "Mister Z" }
 4 = { path = "drabinka-durniejowa.webp", caption = "Full tournament brackets, including the _Golden Opportunity_.", source = "Official PpW Facebook" }
+5 = { path = "zmowa-z-pasami.webp", caption = "[Zmowa](@/tt/zmowa.md), the first Tag Team Champions.", source = "Official PpW Facebook" }
 
 +++
 
@@ -19,14 +20,13 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 
 ## Statistics
 
-* First champion: N/A
-* Most reigns: N/A
-* Shortest reign: N/A
-* Longest reign: N/A
-* Oldest champion: N/A
-* Youngest champion: N/A
-* Heaviest champion: N/A
-* Lightest champion: N/A
+* First champion: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)
+* Most reigns: Zmowa (1)
+* Longest reign: Zmowa (1+ days)
+* Oldest champion: Marco Hammers (28 years, 363 days)
+* Youngest champion: Mister Z (25 years, 292 days)
+* Heaviest champion: Marco Hammers (94 kg)
+* Lightest champion: Jakub "Fox" (80 kg)
 
 ## History
 
@@ -82,16 +82,15 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 #### Finals
 
 {% free_card() %}
-- - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
+  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/jakub.md)'
-  - s: Tag Team Match
+  - s: Triple Threat Tag Team Tables Elimination Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
     ed: 2026-02-28
-    nc: upcoming
 {% end %}
 
-### Champions #1: TBD
+### Champions #1: Zmowa: Mister Z, Jakub "Fox", Marco Hammers & Olgierd
 
 ## References
 

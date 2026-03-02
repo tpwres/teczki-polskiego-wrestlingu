@@ -153,6 +153,7 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Marco Hammers](@/w/marco-hammers.md)
 
   _Backyard Era Championships_:
   - PpW YouTube Championship (1 time; inaugural)
