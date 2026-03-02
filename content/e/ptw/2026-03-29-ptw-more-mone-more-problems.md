@@ -33,6 +33,6 @@ has_video = false
 
 ## References
 
-* TBD
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=443639)
 
 [mone-wraca]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02R8GWE8GnPixSNJNvAFya2UtitTJu6iFfc2coUBqCX1QPhZyKedkCrZQo2CF8uEMDl
