@@ -1,7 +1,7 @@
 +++
 title = "PpW Dwa Na Dwa"
 template = "event_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych", "Sewi The Referee"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["zaklete-rewiry"]
@@ -28,8 +28,8 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 * On 19.02.2026 PpW announced the debut of another active KPW wrestler, [Leon Lato](@/w/leon-lato.md). He will partner with [Antoni Ocean](@/w/antoni-ocean.md) in a Tag Team Match against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.02.2026.
 * Two weeks later, on 22.02.2026, PpW announced [Tony Sheen](@/w/riverman.md) vs [Mutant](@/w/mutant.md).
-* After the main event of [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), Johnny cut [a promo][johnny-postmatch], still bleeding, about how his wrestling journey since 2010 led him to fulfil many of his childhood dreams, but he never held the main championship title, and requested "one more chance" from current champion [Olgierd](/w/olgierd.md).
-* Shortly afterwards, PpW released an [instagram story][tez-og], with Johnny looking at the PpW Championship belt laid out on the bar. Then, Olgierd appeared and took the belt, and asked how does Johnny still live after he [almost hanged him](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) once, and later threw him into barbed wire [upside down](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). Olgierd told Johnny that putting him down is one of his biggest dreams, however holding onto and defending the championship is even more important. But for old times sake, he'd give some though to Johnny's proposal and give him an answer in Wrocław.
+* After the main event of [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), the still-bleeding Johnny Blade [a promo][johnny-postmatch] about how his wrestling journey has since 2010 led him to fulfil many of his childhood dreams, but he never held the main Championship title. He then requested "one more chance" from the current Champion [Olgierd](/w/olgierd.md).
+* Shortly afterwards, PpW released an [instagram story][tez-og], with Johnny looking at the PpW Championship belt laid out on the bar. Olgierd the appeared and took the belt, asking Johnny how he still lived after Olgierd had [almost hanged him](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) once, and later had thrown him into barbed wire [upside down](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). Olgierd told Johnny that putting him down is one of his biggest dreams, however holding onto and defending the Championship is even more important. But for old times' sake, he'd give some thought to Johnny's proposal and give him an answer in Wrocław.
 
 ## Card
 
@@ -53,7 +53,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
   - s: International Hardcore Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - g: Johnny demands Olgierd give him a championship match
+  - g: Johnny demands Olgierd give him a Championship match
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
@@ -66,14 +66,14 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 
 ### Highlights
 
-* With this event, the ad-hoc team of Gustav and Goblin now had a name: "Bad Trip", complete with merchandise.
-* Sambor was initially billed for the show, but did not make an appearance, instead the spot went to TOMCZAK in a surprise appearance. With this, the event saw 3 KPW wrestlers in total, two of them debuting for PpW.
-* Marcelito, paired with monster heel Tomczak used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. Hovewer, after a lost match, Tomczak confronted him and applied a devastating chokeslam, ending their brief partnership.
-* The 3 Stages Of Man stipulation, as declared by Marco in his promo, was a series of short contests between him and Boro, in order to prove who's more manly.
-  First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping push-ups and one-handed push-ups for extra flair.
-  The second round was a bodybuilding competition, with scores given by three "impartial judges", of which two were picked from the audience, and third was Michael HT. Both contestants needed oiling up for that, with Boro doing that on his own, and Marco receiving a very professional oiling from Referee Karol. Unfortunately, the judges rated Boro higher, which led to Marco arguing with them, turning his back to the opponent. Who then proceeded to oil up a rubber glove, and performed a surprise Oil Check on Marco, briefly putting him out of action.
-  Lastly, the final round was a bodyslam competition, contested like a match that could be only won by bodyslamming the opponent.
-* After his match, Johnny took the microphone, and demanded Olgierd come out and let him sign a contract for a [PpW Championship](@/c/ppw-championship.md) match. Olgierd obliged, referenced their last exchange and shared past, and let Johnny know how he was misled and used by Zmowa, seemingly ready to abandon them. Then he gave the contract to Johnny, who immediately signed it. This was met by mockery, with Olgierd stating that the contract needed two signatures, and he's unwilling to give his. Dejected but unfazed, Johnny managed to handcuff Olgierd to the ring ropes, and forcing a pen into the cuffed hand, managed to get his signature.
+* With this event, the ad-hoc team of Gustav and Goblin now has a name: "Bad Trip", complete with merchandise.
+* Sambor was initially billed for the show, but did not make an appearance. Instead, the spot went to TOMCZAK in a surprise debut. The event therefore saw three KPW wrestlers in total, two of them for the first time.
+* Marcelito, paired with monster heel Tomczak, used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. Hovewer, after a lost match, Tomczak confronted him and applied a devastating Chokeslam, ending their brief partnership.
+* The 3 Stages of Man stipulation, as declared by Marco in his promo, was a series of short contests between him and Boro, in order to prove who's more manly.
+  - First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping push-ups and one-handed push-ups for extra flair.
+  - The second round was a bodybuilding competition, with scores given by three "impartial judges", two of which were picked from the audience, and the third was Michael HT. Both contestants needed oiling up for that, with Boro doing so on his own, and Marco receiving a very professional oiling from Referee Karol. Unfortunately, the judges rated Boro higher, which led to Marco arguing with them, turning his back to the opponent. Boro then proceeded to oil up a rubber glove and performed a surprise Oil Check on Marco, briefly putting him out of action.
+  - Lastly, the final round was a Bodyslam competition, contested like a match that could only be won by bodyslamming the opponent.
+* After his match, Johnny took the microphone and demanded Olgierd came out and let him sign a contract for a [PpW Championship](@/c/ppw-championship.md) match. Olgierd obliged, referenced their last exchange and shared past, and let Johnny know how he was misled and used by Zmowa, seemingly ready to abandon them. Olgierd then gave the contract to Johnny, who immediately signed it. This was met with mockery, with Olgierd stating that the contract needed two signatures and he was unwilling to give his. Dejected but unfazed, Johnny managed to handcuff Olgierd to the ring ropes, and shoving a pen into the cuffed palm, forced Olgierd's hand to obtain his signature.
 * In the main event, the rules were such that a team is eliminated when either member is put through a table. Despite Zmowa and Rodzina initially working together, a series of mishaps caused them to become hostile towards each other. At one point in the match, an early elimination was prevented by the unfortunate Referee Seweryn, pushed into one of the tables, breaking it with his body.
 * Present in the crowd was [Rookie Two](@/w/rookie-two.md) from [KPW](@/o/kpw.md).
 
