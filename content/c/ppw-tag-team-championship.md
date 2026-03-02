@@ -20,13 +20,13 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 
 ## Statistics
 
-* First champion: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md)
+* First champion: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)
 * Most reigns: Zmowa (1)
 * Longest reign: Zmowa (1+ days)
 * Oldest champion: Marco Hammers (28 years, 363 days)
 * Youngest champion: Mister Z (25 years, 292 days)
-* Heaviest champion: Marco Hammers (94kg)
-* Lightest champion: Jakub "Fox" (80kg)
+* Heaviest champion: Marco Hammers (94 kg)
+* Lightest champion: Jakub "Fox" (80 kg)
 
 ## History
 

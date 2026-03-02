@@ -129,10 +129,9 @@ Marco started taking international bookings in 2022. That year he made a few app
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times, inaugural, final)
-
+  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final)
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, inaugural, current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md)
 
 ## Internet presence
 
