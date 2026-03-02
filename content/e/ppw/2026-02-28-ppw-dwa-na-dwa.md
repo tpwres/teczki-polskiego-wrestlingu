@@ -48,7 +48,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
   - '[Justin Joy](@/w/justin-joy.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '["Ladykiller" Boro](@/w/boro.md)'
-  - g: 3 Stages of Man Contest
+  - s: 3 Stages of Man Contest
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Emil Völler'
   - s: International Hardcore Match
