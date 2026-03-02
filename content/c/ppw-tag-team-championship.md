@@ -90,7 +90,7 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
     ed: 2026-02-28
 {% end %}
 
-### Champions #1: Zmowa: Mister Z, Jakub "Fox" & Marco Hammers
+### Champions #1: Zmowa: Mister Z, Jakub "Fox", Marco Hammers & Olgierd
 
 ## References
 

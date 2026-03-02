@@ -158,7 +158,7 @@ In August 2023 Mister Z made a singular international appearance during Passion 
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; inaugural)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Jakub](@/w/jakub.md) and [Marco Hammers](@/w/marco-hammers.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
 
    _Backyard Era Championships_:
   - CMLL Championship (1 time)
