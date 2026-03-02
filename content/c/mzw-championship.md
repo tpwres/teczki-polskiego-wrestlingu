@@ -253,7 +253,7 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
 - - 'Matt Buckna (c)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: Singles Match
-    en: '[MZW No Time to Die 2](@/w/2026-03-28-mzw-no-time-to-die-2.md)'
+    en: '[MZW No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
     ed: 2026-03-28
     nc: upcoming
 {% end %}
