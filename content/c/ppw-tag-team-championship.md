@@ -92,9 +92,12 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 
 ### Champions #1: Zmowa: Mister Z, Jakub "Fox", Marco Hammers & Olgierd
 
+NOTE: in the beginning of the title reign Mister Z confirmed that the championships belong to Zmowa as a whole, thus invoking a Freebird Rule
+
 ## References
 
 * [Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0aGQyrQeVAfVGX1ChMCPPSyB8LutLZLXounLRgywvMae7GPb1K4waewSwinNzBHY9l) introducing the title
+* [Facebook reel](https://www.facebook.com/reel/2122277141945558) from Zmowa's celebration, confirming Freebird Rule
 
 [pas-wwe-tag-team]: https://en.wikipedia.org/wiki/WWE_Tag_Team_Championship
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
