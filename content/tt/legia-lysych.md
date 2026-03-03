@@ -64,7 +64,7 @@ Despite that setback, Legia committed to Zmowa's efforts, becoming a valuable as
 
 #### Championship reigns
 
-At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) Olgierd finally defeated [Goblin](@/w/goblin.md) to become the PpW Champion for the first time in his career. Despite an injury he suffered at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) in a match against Biesiad Strong, he continued his reign preventing any Polish wrestler from competing for it, until the title becomes a World Championship after the [shows](@/a/ppw-polska-gurom.md) in [Japan](@/a/ppw-hardcore-friday-the-13th-tokyo).
+At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) Olgierd finally defeated [Goblin](@/w/goblin.md) to become the PpW Champion for the first time in his career. Despite an injury he suffered at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) in a match against Biesiad Strong, he continued his reign preventing any Polish wrestler from competing for it, until the title becomes a World Championship after the [shows](@/a/ppw-polska-gurom.md) in [Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 
 In the meantime, Marco - along with fellow Zmowa members, Mister Z and [Jakub "Fox"](@/w/jakub.md) - competed in the Tag Team division to secure the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). This concluded at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), where Zmowa (represented by Jakub and Mister Z) claimed the titles for all of their members thanks to the [Freebird Rule][freebird-rule].
 
