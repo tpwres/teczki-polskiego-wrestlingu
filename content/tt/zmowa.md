@@ -40,7 +40,7 @@ At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) 
 
 #### New and better Zmowa
 
-Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/jakub.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered to him by [Mister Z](@/w/mister-z.md), thus joining [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) he climbed on top of PpW's hierarchy once again after Olgierd won the PpW Championship from Goblin. Mister Z also announced Zmowa's intent to become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably in accordance with the [Freebird Rule][freebird-rule]), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match.
+Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/jakub.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered to him by [Mister Z](@/w/mister-z.md), thus joining [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) he climbed on top of PpW's hierarchy once again after Olgierd won the PpW Championship from Goblin. Mister Z also announced Zmowa's intent to become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably in accordance with the [Freebird Rule][freebird-rule]), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match. Zmowa's work paid off as they were sucessful in the tournament finals, when the group - represented by [Jakub "Fox"](@/w/jakub.md) and Mister Z - won the titles in a match against Bad Trip (Gustav Gryffin & Goblin) and [Rodzina](@/tt/rodzina.md)
 
 ## Members
 
@@ -76,6 +76,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - [Isnorr](@/w/isnorr.md)
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times) - [Marco Hammers](@/w/marco-hammers.md)
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - [Mister Z](@/w/mister-z.md), [Jakub "Fox"](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)
+  - PpW Tag Team Championship Tournament (2026)
   - [Złoty Ewenement 2025](@/a/zlote-ewenementy.md) - Moment of the Year
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - MZW/PpW Opportunity Briefcase (1 time) - [Mister Z](@/w/mister-z.md)
