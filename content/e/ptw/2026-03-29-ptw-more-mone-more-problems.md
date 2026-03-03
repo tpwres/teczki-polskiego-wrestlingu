@@ -25,7 +25,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 
 {% card() %}
 - - '[Mercedes Moné](@/w/mercedes-mone.md)(c)'
-- - '[Diana Strong](@/w/diana-strong.md)'
+  - '[Diana Strong](@/w/diana-strong.md)'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     nc: upcoming
 {% end %}
