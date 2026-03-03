@@ -20,7 +20,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 * On 9.07.2025 PpW announced [Legia Łysych](@/tt/legia-lysych.md) ([Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)) vs The Hardcores ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) in a Warszawski Brawl (_Warsaw Brawl_)
 * On 11.07.2025 PpW announced [Oskar Alexander](@/w/oskar-alexander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) in a Bullrope Match, where the wrestlers are tied wrist-to-wrist with a thick rope, with a cowbell in the middle.
 * PpW's social media released [_The Acid Messiah's First Sermon_][goblin-kazanie] on 15.07.2025. In it, [Goblin](@/w/goblin.md) addresses Mister Z, stating that he is a self-reliant [PpW Champion](@/c/ppw-championship.md) and doesn't need Z to book his matches. He will find an opponent himself, and face him in a non-title match.
-* On 19.07.2025 PpW announced [Axel Fox](@/w/axel-fox.md) vs [Vic Golden](@/w/vic-golden.md) in a Chairs Match.
+* On 19.07.2025 PpW announced [Axel Fox](@/w/jakub.md) vs [Vic Golden](@/w/vic-golden.md) in a Chairs Match.
 * On 22.07.2025 PpW [announced](https://www.facebook.com/share/p/1ZQiQT5gcz/) that [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md) would be Goblin's opponent of choice for the non-title match.
 * On 29.07.2025 PpW announced the return of [Sentinel](@/w/sentinel.md) and [Wonder Haze](@/w/wonder-haze.md), last seen at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
 
@@ -30,7 +30,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 - - '[Sentinel](@/w/sentinel.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
 - - '[Vic Golden](@/w/vic-golden.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: Chairs Match
     c: Tournament Type-shit Round 2
 - - '[Mister Z](@/w/mister-z.md)'

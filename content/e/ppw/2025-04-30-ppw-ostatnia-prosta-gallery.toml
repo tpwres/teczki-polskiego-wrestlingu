@@ -1,5 +1,5 @@
 001 = { path = "ppw-ostatnia-prosta-announced.jpg", caption = "Graphic announcing the show.", source = "Official PpW Facebook" }
-002 = { path = "lisy-vs-lysole.jpg", caption = "Graphic announcing [Goblin](@/w/goblin.md) & [Axel Fox](@/w/axel-fox.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook" }
+002 = { path = "lisy-vs-lysole.jpg", caption = "Graphic announcing [Goblin](@/w/goblin.md) & [Axel Fox](@/w/jakub.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook" }
 003 = { path = "enigma.jpg", caption = "Graphic announcing the &quot;Enigma Scramble ?-Man Match&quot;.", source = "Official PpW Facebook", skip_art = true }
 004 = { path = "oskar-aleksander-vs-gabriel-queen.webp", caption = "Graphic announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official PpW Facebook" }
 005 = { path = "madison-marley.jpg", caption = "Graphic announcing Madison Marley in PpW's first ever women's match.", source = "Official PpW Facebook" }

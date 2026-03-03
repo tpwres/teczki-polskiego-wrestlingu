@@ -26,7 +26,7 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 {% card() %}
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Michael Myers](@/w/gabriel-queen.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Pennywise](@/w/olgierd.md)'
   - s: Triple Threat Match

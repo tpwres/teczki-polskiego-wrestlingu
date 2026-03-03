@@ -29,7 +29,7 @@ Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenem
 
 Gabriel Queen started his pro wrestling career as Nathan Cross, at the MZW academy, training under [Justin Joy](@/w/justin-joy.md), [Asmund](@/w/asmund.md) and [Shadow](@/w/shadow.md).
 He made his debut in a Rookie Battle Royal at [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), ending runner-up to eventual winner [Aron Wake](@/w/aron-wake.md).
-His singles match debut was a couple months later, at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he was defeated by [Axel Fox](@/w/axel-fox.md).
+His singles match debut was a couple months later, at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he was defeated by [Axel Fox](@/w/jakub.md).
 During that time, he also became the one of founding members of "[The Greens](@/tt/zieloni.md)".
 He also made appearances at MZW's taped shows during the COVID-19 pandemic, a series of episodes titled [MZW Project Basement](@/e/project-basement.md), where he was managed by [Isnorr](@/w/isnorr.md).
 After making his final appearance at [MZW Project Basement 4](@/e/mzw/2021-06-11-mzw-project-basement-4.md), he left the company.
@@ -92,6 +92,8 @@ Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux
 In 2023 Queen started taking bookings from abroad, making regular appearances in Hungary for HCW and Budapest Dojo, Austria for Rings of Europe, Germany for wXw, Thats Awesome Wrestling, Eastside Revolution Wrestling, Catch Factory and Project Nova.
 He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jacob Crane in TAW, and partnered in mixed tag team matches with Iva Kolasky and Sultan Suzu also for TAW.
 
+In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to take part in PpW's excursion to Japan in March 2026, at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Chris Brookes in a Singles Match. Not long after, Gabriel's Japanese debut was moved even earlier, to Big Japan Pro Wrestling's [BJ VOYAGER!][bjw-voy] show on March 7th.
+
 ## In wrestling
 
 * Finishers:
@@ -134,3 +136,6 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24919)
+* [BJW's announcement of Gabriel Queen's debut](https://x.com/bjwofficial/status/2022996603234378061)
+
+[bjw-voy]: https://bjw.co.jp/schedule/s2026-03-07/

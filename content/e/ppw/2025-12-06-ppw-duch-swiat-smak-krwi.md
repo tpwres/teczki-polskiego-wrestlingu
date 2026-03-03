@@ -30,7 +30,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 
 {% card() %}
 - - '[Santa Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md), [Axel Fox](@/w/axel-fox.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md), [Axel Fox](@/w/jakub.md)'
   - g: Gifts from Santa
 - - 'Akane Fujita'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
@@ -56,7 +56,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - g: The Patriarch Vic Golden forces Gabriel Queen to join [Rodzina](@/tt/rodzina.md)
-- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Axel Fox](@/w/axel-fox.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Axel Fox](@/w/jakub.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Biesiad](@/w/biesiad.md)'
   - s: Tag Team Match
 - - 'Shigehiro Irie'
@@ -83,7 +83,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
   - [Mutant](@/w/mutant.md), a former [KPW](@/o/kpw.md) and two-time [PTW](@/o/ptw.md) wrestler, in his debut for PpW.
   - [Tony Sheen](@/w/riverman.md). While Tony wrestled for PpW at the [Wrocław show](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), this was his debut in Warsaw.
 * In the Fatherly Hardcore Match, Marco brought in an unidentified plastic jar, while Johnny carried a plastic bucket into the ring. One spot had him call Marco a "bałwan" (lit. _snowman_, but also a light derogatory term, akin to _moron_), paint his face white with some shaving foam and attempt to stick a carrot in his mouth. Later, after receiving a solid beating, Marco opened his mysterious jar and consumed a spoonful of the contents to regain his energy. However, he received a severe beating with Johnny's trouser belt, and lost by passing out due to Johnny choking him with another belt. As further punishment, Johnny shaved a piece of Marco's beard and planted the hair on Marco's head, giving him something new: a head of hair.
-* For the Tag Team Match, Biesiad entered through the audience, beer and ladder in hand. However, Mister Z prevented him from using it, declaring the fight a Normal Match, a rare non-hardcore stipulation in PpW. However, the ending saw Dobroniak attempt to use a kendo stick, prevented by the referee. Dobroniak was pinned by [Fox](@/w/axel-fox.md) after getting struck down with brass knuckles, behind the referee's back.
+* For the Tag Team Match, Biesiad entered through the audience, beer and ladder in hand. However, Mister Z prevented him from using it, declaring the fight a Normal Match, a rare non-hardcore stipulation in PpW. However, the ending saw Dobroniak attempt to use a kendo stick, prevented by the referee. Dobroniak was pinned by [Fox](@/w/jakub.md) after getting struck down with brass knuckles, behind the referee's back.
 * Before the Chain God Realm Match, a brief intermission was held during which the crew replaced the ring ropes with steel chains.
 * Olgierd entered wearing a new ring gear - switching from green-and-white to new red-and-white, with [ZLN GNG](@/tt/zieloni.md) on his left thigh, and "OG" on his right. As he entered, he dragged behind a chained, leashed PpW Crew member in a green Goblin mask, on all fours. "Dog-Goblin" was laid out with a baseball bat and ran away from the ring, still on all fours.
 

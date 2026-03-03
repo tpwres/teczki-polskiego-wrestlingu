@@ -35,11 +35,17 @@ After the initial losing streak, for some of which he blamed Opol, Lesak agreed 
 
 #### Betraying Greg
 
-At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took part in a segment, when himself - along with Chemik and [Rosetti](@/w/rosetti.md) - turned on Greg. Ater a beatdown they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but after his losing streak, he was no longer worth following. After that Lesak focused on a solo career. He lost to [Filip Fux](@/w/filip-fux.md) in a Contender Match Qualifier for [KPW Championship](@/c/kpw-championship.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), and won a match against [Leon Lato](@/w/leon-lato.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Later, at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), Lesak emerged victorious from the Battle Royal, winning a Championship contract.
+At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took part in a segment in which he, along with Chemik and [Rosetti](@/w/rosetti.md), turned on Greg. Ater a beatdown they cut a short promo about how when they joined the branch, Greg was someone estabilished, a true leader - but after his losing streak, he was no longer worth following.
+
+After that Lesak focused on a solo career. He lost to [Filip Fux](@/w/filip-fux.md) in a Contender Match Qualifier for the [KPW Championship](@/c/kpw-championship.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), and won with [Leon Lato](@/w/leon-lato.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Later, at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), Lesak emerged victorious from the Battle Royal, winning a Championship contract. He however lost his opportunity in a match against the reigning Champion [Zefir](@/w/zefir.md), during [KPW Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md). 
+
+#### Various storylines
+
+At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) Lesak got into a rivalry with the up-and-coming [Markus Paskal](@/w/markus-paskal.md). Eryk's old partner Chemik joined him in a bullying session, unaware of the fact that Markus already got himself backup in the form of the returning [Kamil Aleksander](@/w/kamil-aleksander.md). The former [DDW International Champion](@/c/ddw-international-championship.md) came back to KPW after more than six years, with the intention of facing Lesak and Chemik in a Tag Team Match at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
 
 ## International wrestling appearances 
 
-From 2025 onwards Eryk made numerous appearances for Finnish federation SLAM Wrestling Entertaiment.
+From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM Wrestling Entertaiment.
 
 ## In wrestling
 

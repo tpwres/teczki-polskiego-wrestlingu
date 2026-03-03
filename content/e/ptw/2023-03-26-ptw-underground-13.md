@@ -8,6 +8,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = false
+[extra.gallery]
 +++
 
 The 13th monthly Underground show was held on Sunday March 26, 2023 at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
@@ -24,7 +25,7 @@ who often teamed with [Robert Star](@/w/robert-star.md) on the European independ
   - '[Boro](@/w/boro.md)'
 - - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[Marcelito](@/w/marcelito.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Diana Strong](@/w/diana-strong.md)'

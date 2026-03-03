@@ -62,7 +62,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Zabij go") %}zˈabʲij ɡˈɔ{% end %}
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
   {% ipa(tts="Zajeb go") %}zˈajɛp ɡˈɔ{% end %} 🌶️
-* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop (and later picked up by some other wrestlers as well). In 2025, MZW [named a show](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) after this chant. \
+* _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop (and later picked up by some other wrestlers as well). Most popular in Wrocław. In 2025, MZW [named a show](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) after this chant. \
   {% ipa(tts="Zjedz mu łeb") %}zjˈɛt͡s mˈu wˈɛp{% end %}
 * _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you bitch": when a babyface receives too much punishment. \
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". \
@@ -140,7 +140,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
 * _Papież Polak_ - "Polish Pope": [Greg](@/w/greg.md), as described under Songs above. \
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
-* _Polski lis_ - "Polish fox": [Axel Fox](@/w/axel-fox.md). \
+* _Polski lis_ - "Polish fox": [Axel Fox](@/w/jakub.md). \
   {% ipa(tts="Polski lis") %}pˈɔlski lˈis{% end %}
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3. Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}

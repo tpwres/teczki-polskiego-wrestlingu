@@ -18,7 +18,7 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
 
 * The first match to be unveiled, on. 19.12.2025, was [Johnny Blade](@/w/johnny-blade.md) vs [Robert Star](@/w/robert-star.md) in an Ultraviolent Match.
 * Two days later it was followed by an announcement of an intergender match between [Agentka Agatka](@/w/agentka-agatka.md) and [Lady Killer](@/w/boro.md).
-* The third match - [Axel Fox](@/w/axel-fox.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md), announced on 4.01.2026 - will have its stipulation chosen by fans, who will cast their electronic votes for one of four hardcore options during the show.
+* The third match - [Axel Fox](@/w/jakub.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md), announced on 4.01.2026 - will have its stipulation chosen by fans, who will cast their electronic votes for one of four hardcore options during the show.
 * A Triple Threat Match between [Marco Hammers](@/w/marco-hammers.md), [Goblin](@/w/goblin.md) and [Oskar Alexander](@/w/oskar-alexander.md) was announced on 22.01.2026.
 * The next day saw the announcement of [Sambor](@/w/sambor.md) & [Antoni Ocean](@/w/antoni-ocean.md) vs Hungarian Luchadores ([Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md)) in a Tag Team match. It was preceeded with [a video][ocean-samborskosci] of Ocean proposing that he and Sambor should team up against the Hungarians, with whom Sambor has unfinished business.
 * [Gabriel Queen](@/w/gabriel-queen.md) was announced on 25.01.2025, although without an opponent specified.
@@ -50,7 +50,7 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '["Ladykiller" Boro](@/w/boro.md)'
   - s: Intergender Match
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: Fans Choose Match - Falls Count Anywhere
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -65,7 +65,7 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
 ### Recap
 
 * This time, [Istociarz](@/w/istociarz.md) handled commentary solo.
-* Before the show, PpW started a poll for the [Axel Fox](@/w/axel-fox.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) stipulation. It was possible to vote by scanning one of the QR codes posted around the arena.
+* Before the show, PpW started a poll for the [Axel Fox](@/w/jakub.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) stipulation. It was possible to vote by scanning one of the QR codes posted around the arena.
 * In the pre-show match, [Filip Fux](@/w/filip-fux.md) - an active [KPW](@/o/kpw.md) wrestler - beat an [MZW](@/o/mzw.md) wrestler, [Tony Sheen](@/w/riverman.md). This was the first such crossover on the Polish scene. Fux portrayed a strong babyface and quickly disposed of Sheen. Riverman inherited insulting chants previously reserved for ex-PpW star [Tony Sk1n](@/w/tony-sk1n.md): [_Tony Sheen, chuj ci w ryj_](@/a/polish-wrestling-chants.md#wrestler-specific) (roughly: _Tony Sheen, suck a dick_).
 * At the start of the show, Michael HT revealed the result of the fan vote. Fox and Gryffin would face off in a Falls Count Anywhere Match.
 * In the opening match, Hungarian Luchadores faced the newly-formed tag team of [Antoni Ocean](@/w/antoni-ocean.md) and [Sambor](@/w/sambor.md).

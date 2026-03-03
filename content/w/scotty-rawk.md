@@ -20,7 +20,7 @@ Scotty Rawk is an English wrestler from Grimsby, who mainly performs for his loc
 
 ### Prime Time Wrestling (2024)
 
-Scotty Rawk made two appearances for [Prime Time Wrestling](@/o/ptw.md) in 2024. First, he squared against TNA wrestler Mike Bailey in a Singles Match to defend his British Wrestling Revolution Championship in February 2024 at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). He made yet another appearance as a champion at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where he sucessfully defended it against [Marcelito](@/w/marcelito.md) and [Axel Fox](@/w/axel-fox.md).
+Scotty Rawk made two appearances for [Prime Time Wrestling](@/o/ptw.md) in 2024. First, he squared against TNA wrestler Mike Bailey in a Singles Match to defend his British Wrestling Revolution Championship in February 2024 at [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). He made yet another appearance as a champion at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where he sucessfully defended it against [Marcelito](@/w/marcelito.md) and [Axel Fox](@/w/jakub.md).
 
 ## In wrestling
 

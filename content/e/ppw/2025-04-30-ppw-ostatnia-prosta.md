@@ -71,7 +71,7 @@ During the event, fans saw new and returning international wrestlers in the ring
   - g: Isnorr vacates the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[_rookie_ Bartosz](@/w/plata.md)'
-- - '[GobLis](@/tt/goblis.md): [Goblin](@/w/goblin.md) & [Axel Fox](@/w/axel-fox.md)'
+- - '[GobLis](@/tt/goblis.md): [Goblin](@/w/goblin.md) & [Axel Fox](@/w/jakub.md)'
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Tornado Tag Team Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'

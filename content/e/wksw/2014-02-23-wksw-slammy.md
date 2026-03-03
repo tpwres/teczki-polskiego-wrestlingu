@@ -17,7 +17,7 @@ The date of the show wasn't explicitly stated in the available source. The date 
 - - 'Kreweta'
   - g: "Kreweta's promo"
 - - 'P-didi'
-  - 'Olek'
+  - '[Olek](@/w/isnorr.md)'
   - nc: '?'
 - - '[Grzesiu](@/w/grzesiu.md)'
   - '???'

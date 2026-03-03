@@ -16,7 +16,7 @@ has_video = false
 {% card() %}
 - - '[Zeritus](@/w/zeritus.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Lady Killer](@/w/boro.md)'
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - s: Three Way Match

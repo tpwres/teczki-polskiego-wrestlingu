@@ -1,8 +1,11 @@
 name = 'tpw-org'
 compatibility_date = '2025-06-18'
 preview_urls = true
+# Relevant for Pages only, cannot use with Workers
+pages_build_output_dir = './public'
 
-[assets]
-directory = './public'
-not_found_handling = '404-page'
-html_handling = 'auto-trailing-slash'
+# Assets is only relevant for Workers, errors out with Pages
+# [assets]
+# directory = './public'
+# not_found_handling = '404-page'
+# html_handling = 'auto-trailing-slash'

@@ -9,7 +9,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2024-10-19-ptw-underground-23-gallery.toml"
 +++
 
 Underground 23 was an event by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, October 19th, 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów - PTW's main wrestling venue and training facility.

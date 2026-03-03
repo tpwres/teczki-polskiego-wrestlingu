@@ -72,7 +72,11 @@ At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), the run-up show
 
 After his devastating loss Gustav went into a downfall spiral, losing all of his confidence. He grew tired of the constant abuse from fellow Zmowa members, which was hinted at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), where he tried to stop Zmowa's attack on the defeated Bartosz Plata. Despite Mister Z assuring everyone that Zmowa is fine, the whole story concluded at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), when Gustav finally broke down and attacked Marco and Mister Z, turning face for the first time in his PpW career.
 
-Furious, the PpW producer started his punishment campaign against Gustav by putting him in a Gauntlet Match with potential Zmowa recruits at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). Even though Gustav managed to beat numerous wrestlers such as [Asara](@/w/asara.md), [Max Speed](@/w/max-speed.md) and [Tony Sheen](@/w/riverman.md), he was ultimately defeated by his former leader who entered the match after all of his minions failed to punish Gustav. The former Zmowa member retaliated by intervening in the main event and preventing Mister Z from winning the PpW Championship from Goblin's hands, which led to Zmowa vs Gustav & [GobLis](@/tt/goblis.md) match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md). The whole babyface team was clearly frustrated with the fact that after such a long rivalry, they had to cooperate. During that match this frustration reached the boiling point, when [Axel Fox](@/w/axel-fox.md) turned on Goblin and Gustav, costing them the match, and joined Zmowa.
+Furious, the PpW producer started his punishment campaign against Gustav by putting him in a Gauntlet Match with potential Zmowa recruits at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). Even though Gustav managed to beat numerous wrestlers such as [Asara](@/w/asara.md), [Max Speed](@/w/max-speed.md) and [Tony Sheen](@/w/riverman.md), he was ultimately defeated by his former leader who entered the match after all of his minions failed to punish Gustav. The former Zmowa member retaliated by intervening in the main event and preventing Mister Z from winning the PpW Championship from Goblin's hands, which led to Zmowa vs Gustav & [GobLis](@/tt/goblis.md) match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md). The whole babyface team was clearly frustrated with the fact that after such a long rivalry, they had to cooperate. During that match this frustration reached the boiling point, when [Axel Fox](@/w/jakub.md) turned on Goblin and Gustav, costing them the match, and joined Zmowa.
+
+#### Teaming with Goblin
+
+Goblin's devastating loss in a Championship match against Olgierd at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) brought him closer to his old arch-nemesis Gustav, who also desperately wanted revange on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md), which greatly rose in the power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight, they managed to get a spot in a match for the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.
 
 ### Maniac Zone Wrestling (2023-present)
 
@@ -83,7 +87,7 @@ At [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) Gustav advanced to t
 
 ### Legacy of Wrestling (2024-present)
 
-In November 2024 Gustav was set to face [Wiktor Longman](@/w/wiktor-longman.md) in a match for the PpW Championship at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). Following Wiktor's withdrawal due to personal reasons, Gustav's opponent was changed to [Axel Fox](@/w/axel-fox.md). Despite initially being ruled as Axel's victory via pinfall, the match was restarted after [Sinister](@/w/sinister.md) pointed out that Gustav's hand was outside of the ring, which went unnoticed by [Referee Sewi](@/w/sedzia-seweryn.md). Legacy's Chairman confirmed this and the match was restarted, with Gustav quickly submitting Axel with a chokehold.
+In November 2024 Gustav was set to face [Wiktor Longman](@/w/wiktor-longman.md) in a match for the PpW Championship at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). Following Wiktor's withdrawal due to personal reasons, Gustav's opponent was changed to [Axel Fox](@/w/jakub.md). Despite initially being ruled as Axel's victory via pinfall, the match was restarted after [Sinister](@/w/sinister.md) pointed out that Gustav's hand was outside of the ring, which went unnoticed by [Referee Sewi](@/w/sedzia-seweryn.md). Legacy's Chairman confirmed this and the match was restarted, with Gustav quickly submitting Axel with a chokehold.
 
 On 22.03.2025 it was announced that Gustav would face Polish-American wrestler Kubes in a "Road to the Title Match" which would take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Gustav emerged victorious, advancing further in the championship race.
 
@@ -91,7 +95,9 @@ At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd
 
 ## International wrestling appearances
 
-From 2023 onwards Gustav started making numerous appearances at international wrestling scene. He made numerous appearances in Hungary, Sweden and Germany. 
+From 2023 onwards Gustav started making regular appearances at international wrestling scene. He made numerous appearances in Hungary, Sweden and Germany.
+
+In February 2026 PpW announced that Gustav Gryffin would be part of their excurion to Japan in March 2026, headlining [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would team up with Goblin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match.
 
 ## In wrestling
 

@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md).
@@ -25,7 +26,7 @@ The fifth Underground show was held on Sunday, May 29th 2022, at the [PTW Perfor
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
 - - '[Taras](@/w/taras.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - s: Triple Threat Match
 - - '[Aron Wake](@/w/aron-wake.md)'

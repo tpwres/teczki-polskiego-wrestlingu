@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md).
@@ -24,7 +25,7 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
   - '[Aron Wake](@/w/aron-wake.md)'
 - - '[John "Bad Bones" Klinger](@/w/bad-bones.md)'
   - '[Boro](@/w/boro.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - Sixt

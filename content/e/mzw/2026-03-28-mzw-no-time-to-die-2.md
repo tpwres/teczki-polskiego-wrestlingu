@@ -16,9 +16,33 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 
 ## Build-up
 
-* TBD
+* The first match was announced on 17.02.2026: [Shadow](@/w/shadow.md) & [Marcelito](@/w/marcelito.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md).
+* 23.02.2026 saw the announcement of [Jakub](@/w/jakub.md) vs [Max Speed](@/w/max-speed.md) for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). This marks the first defence of the Legacy title.
+* The next match, revealed on 27.02.2026, was [Disco Pablo](@/w/disco-pablo.md) vs [Mister Z](@/w/mister-z.md).
+* On 2.03.2025 MZW unveiled the main event: [Matt Buckna](@/w/matt-buckna.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) for the [MZW Championship](@/c/mzw-championship.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Shadow](@/w/shadow.md) & [Marcelito](@/w/marcelito.md)'
+  - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
+  - s: Tag Team match
+    nc: upcoming
+- - "['Fox' Jakub](@/w/jakub.md)(c)"
+  - '[Max Speed](@/w/max-speed.md)'
+  - c: '[Legacy of Wrestling European Championship](@/c/low-european-championship.md)'
+    nc: upcoming
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - nc: upcoming
+- - '[Matt Buckna](@/w/matt-buckna.md)(c)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - c: '[MZW Championship](@/c/mzw-championship.md)'
+    nc: upcoming
+- credits:
+    Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Ring announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
+{% end %}
 
 ### Recap
 

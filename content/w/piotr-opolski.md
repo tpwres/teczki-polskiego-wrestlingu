@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "opol-arena-17.webp", caption = "Opol choking Michał Fux at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).", source = "M3n747" }
 +++
 
-Piotr "Opol" Opolski is a semi-retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
+Piotr "Opol" Opolski is a retired Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## Basic info
 
@@ -30,7 +30,7 @@ Piotr Opolski made his debut in [Kombat Pro Wrestling](@/o/kpw.md) in February 2
 
 #### Return to KPW
 
-For 2.5 years Piotr Opolski wasn't seen at KPW in any capacity, until he made a surprise return at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), where he took over the ring announcing duty from [Kinga Miotke](@/w/kinga-miotke.md), due to numerous "upgrades" announced by the acting chairman of KPW [Victor Rosetti](@/w/rosetti.md). 
+For 2.5 years Piotr Opolski hadn't been seen in KPW in any capacity, until he made a surprise return at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). He took over the ring announcing duty from [Kinga Miotke](@/w/kinga-miotke.md) due to numerous "upgrades" announced by the acting chairman [Rosetti](@/w/rosetti.md). However, he only lasted in this position until [the following show](@/e/kpw/2025-04-11-kpw-arena-28.md), after which Kinga returned to her usual role.
 
 ## In wrestling
 
@@ -53,12 +53,12 @@ For 2.5 years Piotr Opolski wasn't seen at KPW in any capacity, until he made a 
     {{ music(spot='201Yhf2MAVJxJDgbGdykyb')}}
     {{ music(apple='445469263?i=445469281')}}
   - "Adrenaline Rush" by Infraction
-    {{ org_badge(orgs=['kpw']) }} (2025-) <br>
+    {{ org_badge(orgs=['kpw']) }} (2025) <br>
     {{ music(yt='PVdu7-ej5-w')}}
     {{ music(spot='6kugnsvuVy4cON6IU433ug')}}
     {{ music(apple='1755584815?i=1755584816')}}
   - "Stand or Fall" by Bonfire
-    {{ org_badge(orgs=['kpw']) }} (2025-) <br>
+    {{ org_badge(orgs=['kpw']) }} (2025) <br>
     {{ music(yt='LC6A9ugveb0')}}
     {{ music(spot='6eQNoIwGlYci4zQvuF3BOa')}}
     {{ music(apple='1351853605?i=1351853946')}}

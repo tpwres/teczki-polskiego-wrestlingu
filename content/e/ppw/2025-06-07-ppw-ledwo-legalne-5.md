@@ -23,7 +23,7 @@ Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show 
     2. No Holds Barred
     3. Submission Match that can only be won via TKO (making the opponent pass out). It was billed as _W imię zasad: Walka do odciny_ (roughly: _In the name of principles: Fight till blackout_)
   * As [Mister Z](@/w/mister-z.md) granted [Biesiad](@/w/biesiad.md) the opportunity to fight him at this show, Biesiad immediately declared it to be a Cieśla (_Carpenter_) Match, presumably involving lots of furniture.
-  * [Axel Fox](@/w/axel-fox.md) challenged [Olgierd](@/w/olgierd.md).
+  * [Axel Fox](@/w/jakub.md) challenged [Olgierd](@/w/olgierd.md).
 * The Enigma Scramble match at the same show ended with three out of four wrestlers scoring one point: [Sentinel](@/w/sentinel.md), [Wonder Haze](@/w/wonder-haze.md) and [Sambor](@/w/sambor.md). All of them were granted a match at this show, with no further details given.
 * At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) [Vic Golden](@/w/vic-golden.md) turned on his former friend [Gabriel Queen](@/w/gabriel-queen.md), later explaining that he was fed up with Queen getting all the biggest chances, while he got nothing.
 * On 22.05.2025 PpW confirmed that the match that Enigma Scramble contenders have qualified for, is going to be a six-man ladder match for the [PpW Championship](@/c/ppw-championship.md) number one contendership. With three spots still empty, PpW confirmed that additional qualifying matches will take place at their [Mystic Festival showcase](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md).
@@ -46,7 +46,7 @@ Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show 
   - '[Wonder Haze](@/w/wonder-haze.md)'
   - s: 'Six Man #1 Contender Ladder Match'
 - - '[Olgierd](@/w/olgierd.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Zombie! Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Undead Beerbath Match: Project Zero'

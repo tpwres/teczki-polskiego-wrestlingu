@@ -8,36 +8,41 @@ caption = """\
 source = "Official PTW Facebook"
 
 [02]
+path = "okonski.webp"
+caption = 'Image announcing [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).'
+source = "Official PTW Facebook"
+
+[03]
 path = "puncher-vs-lambert.webp"
 caption = 'Image announcing [Dawid "Puncher" Seńko](@/w/puncher.md) vs [Damian Lambert](@/w/damian-lambert.md).'
 source = "Official PTW Facebook"
 
-[03]
+[04]
 path = "nano-bedzie.webp"
 caption = 'Image announcing ["Starboy" Nano Lopez](@/w/nano-lopez.md) in action.'
 source = "Official PTW Facebook"
 
-[04]
+[05]
 path = "el-g-vs-cj.webp"
 caption = "Image announcing [El G](@/w/el-g.md) vs [CJ Klakson](@/w/cj-klakson.md)."
 source = "Official PTW Facebook"
 
-[05]
+[06]
 path = "spartan-tez-bedzie.webp"
 caption = "Image announcing [Spartan](@/w/spartan.md) in action."
 source = "Official PTW Facebook"
 
-[06]
+[07]
 path = "razor-open-challenge.webp"
 caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md)."
 source = "Official PTW Facebook"
 
-[07]
+[08]
 path = "rebele-vs-sigmonski.webp"
 caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs [Sigma Boy xD](@/w/sigma-boy.md) & [Łukasz Okoński](@/w/lukasz-okonski.md)."
 source = "Official PTW Facebook"
 
-[08]
+[09]
 path = "diana-vs-hayze.webp"
 caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Angel Hayze."
 source = "Official PTW Facebook"

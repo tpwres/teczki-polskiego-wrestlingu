@@ -10,18 +10,16 @@ city = "Chorzów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "underground-19-poster.webp", caption = "Official poster. Left to right: [Gabriel Queen](@/w/gabriel-queen.md), [Sinister](@/w/sinister.md), [Krampus](@/w/krampus.md), ??? & ???.", source = "Official PTW Facebook" }
-2 = { path = "ville.webp", caption = "A fan receives a birthday gift from [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW YouTube" }
 +++
 
 PTW Underground 19 was part of a two-show weekend, held on December 9-10 in PTW Performance Center in Chorzów. Fans saw the debut of new character Sambor, while [Diana Strong](@/w/diana-strong.md) faced 18-year old British wrestler Violet Nyte.
 
-The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd.md) and [Axel Fox](@/w/axel-fox.md), with the latter entering in a red and white Santa suit, the referee donning reindeer antlers, complete with a Christmas tree in the ring. While Christmas was still two weeks away, Poland celebrates [Saint Nicholas Day][st-nicholas-day] as a mini-Christmas, with well-behaved children receiving a gift under their pillow.
+The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd.md) and [Axel Fox](@/w/jakub.md), with the latter entering in a red and white Santa suit, the referee donning reindeer antlers, complete with a Christmas tree in the ring. While Christmas was still two weeks away, Poland celebrates [Saint Nicholas Day][st-nicholas-day] as a mini-Christmas, with well-behaved children receiving a gift under their pillow.
 
 ## Card
 
 {% card() %}
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - s: St. Nicholas Day Street Fight
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'

@@ -7,7 +7,7 @@ toclevel = 3
 orgs = ["ppw"]
 +++
 
-GobLis were a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md) active in [PpW Ewenement](@/o/ppw.md).
+GobLis were a Polish tag team consisting of [Goblin](@/w/goblin.md) and [Axel Fox](@/w/jakub.md) active in [PpW Ewenement](@/o/ppw.md).
 
 ## History
 
@@ -20,7 +20,7 @@ During the build-up to [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) Gustav
 
 Additionally, unless Goblin was able to find a partner, it was to be a handicap match. This was a problem for him, as many potential allies already had issues of their own - [Gabriel Queen](@/w/gabriel-queen.md) (who'd just lost a tag match to Legia) was facing [Jacob Crane](@/w/jacob-crane.md); [Biesiad](@/w/biesiad.md) challenged Gustav for the [PpW Championship](@/c/ppw-championship.md), [Johnny Blade](@/w/johnny-blade.md) was defending his newly regained [European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) and [Vic Golden](@/w/vic-golden.md) had limited availability due to his Legend's contract. With no potential partners in sight, Goblin enlisted help from [Osamu](@/w/osamu.md) who gave him the phone number to a potential partner. The video of their conversation cut short before the phone was picked up, leaving the partner's identity a secret.
 
-At the show, Goblin stood against Legia Łysych alone and cut a short promo, mentioning how Legia got under many people's skin even before they came to PpW in June that year, and that one such person came to PpW to get his hands on them. This marked the surprise debut of [Axel Fox](@/w/axel-fox.md), who teamed up with Goblin. However, due to [Mister Z's](@/w/mister-z.md) interference in the match, they were unable to defeat Legia Łysych.
+At the show, Goblin stood against Legia Łysych alone and cut a short promo, mentioning how Legia got under many people's skin even before they came to PpW in June that year, and that one such person came to PpW to get his hands on them. This marked the surprise debut of [Axel Fox](@/w/jakub.md), who teamed up with Goblin. However, due to [Mister Z's](@/w/mister-z.md) interference in the match, they were unable to defeat Legia Łysych.
 PpW fans quickly named the emerging team "GobLis" - a portmanteau of Goblin and Lis (Fox). This became their official name, included in promotional materials and team's merchandise.
 
 #### Zmowa przeciwko Zmowie
@@ -50,7 +50,7 @@ As [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel Fox betrayed Go
 
 ## Members
 
-* [Axel Fox](@/w/axel-fox.md) 
+* [Axel Fox](@/w/jakub.md) 
 * [Goblin](@/w/goblin.md) 
 
 ## In wrestling

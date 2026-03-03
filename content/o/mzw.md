@@ -39,7 +39,7 @@ In September 2019 persons unknown broke into the building where MZW held trainin
 
 MZW was most active from 2014 to 2019, holding about five events a year. 2020 put a stop to that due to the COVID-19 pandemic and nationwide restrictions introduced. In 2021, unable to hold shows, MZW produced a series of events without live audience ([Project Basement](@/e/project-basement.md)), which were released on YouTube. No events of any kind were held in 2022.
 
-In 2020 and 2021 several wrestlers would quit and join the newly created [PTW](@/o/ptw.md) to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
+In 2020 and 2021 several wrestlers would quit and join the newly created [PTW](@/o/ptw.md) to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/jakub.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
 
 In 2024, MZW held a fight for the long-vacant [MZW Championship](@/c/mzw-championship.md), and a [new champion](@/w/matt-buckna.md) was finally crowned.
 
@@ -65,6 +65,10 @@ On 14.01.2016 a local branch of the national broadcaster, TVP3 Opole, invited [S
 
 In 2020, TVP3 Wrocław published a [short piece on MZW][mzw-tvp3], titled "Staged and seemingly dangerous. Wrestling gains popularity in Wrocław". The narrator talks about the staged nature of wrestling as entertainment, while several rookies and wrestlers practice bumps in the ring wearing face masks (as this was produced during the COVID-19 pandemic). [Shadow](@/w/shadow.md), introduced as [PAW](@/o/paw.md)'s coach, talks about training and safety. MZW's flag is clearly visible in the background.
 
+## The Internet
+
+For most of its existence, MZW kept their social media presence rudimentary, limited to announcements and show reports. In 2025 they launched a TikTok channel, where its host, Laura, interviews various wrestlers after shows. The channel involves two formats: "Piątka poza ringiem" (roughly: _High-Five Outside the Ring_), and "Klasa czy obciach" (_roughly: Class or Crass_). The former consists of match-related questions, while the latter requires the guest to judge everyday things in a playful way.
+
 ## Championships
 
 MZW has one singles championship, with Shadow having the longest combined reigns as of 2024. Between 2016 and 2019 they also used to have a Tag Team championship, currently inactive.
@@ -85,6 +89,7 @@ MZW has one singles championship, with Shadow having the longest combined reigns
 * X/Twitter: [MZWofficial](https://x.com/MZWofficial)
 * Instagram: [maniaczonewrestling](https://www.instagram.com/maniaczonewrestling)
 * YouTube: [ManiacZoneWrestling](https://www.youtube.com/@ManiacZoneWrestling)
+* TikTok: [MZWofficial](https://www.tiktok.com/@mzw_official/)
 
 ## References
 

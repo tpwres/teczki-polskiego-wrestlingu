@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Trzeba Być (roughly _Gotta Be There_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in [2KOŁA Motorcycle Pub](@/v/2kola.md).
+Trzeba Być (roughly _Gotta Be There_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It take place in [2KOŁA Motorcycle Pub](@/v/2kola.md).
 
 The [announcement post][byc-albo-nie-byc] promised a "new standard which will show that wrestling is art of the highest calibre". The show tickets will be strictly limited in number to just 150, and for the first time in PpW's history the main event will be a Dark Match - it won't be available on the official live stream, hence the show's name.
 
@@ -22,32 +22,64 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
 * On 5.02.2026 PpW announced that [Rodzina](@/tt/rodzina.md) - [Oskar Alexander](@/w/oskar-alexander.md), [Gabriel Queen](@/w/gabriel-queen.md), [Filip Fux](@/w/filip-fux.md) and [Agentka Agatka](@/w/agentka-agatka.md) - will fight at the show, but no matches were listed yet.
 * The first match involving a Rodzina member was unveiled on 8.02.2026 - it was a Kiss My Foot Match between [Agentka Agatka](@/w/agentka-agatka.md) and [Bartosz Plata](@/w/plata.md), a classic rules match where the loser must publicly kiss the winner's foot.
 * On 9.02.2026 [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) were confirmed to appear at the show, in order to "get some answers from the losers".
+* According to a post made on 12.02.2026, [Zmowa](@/tt/zmowa.md) will appear at the show in an unspecified capacity.
+* [Sentinel](@/w/sentinel.md) vs [Mutant](@/w/mutant.md) was announced on 14.02.2026.
+* Two days later, following up from the [previous show](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Gustav Gryffin](@/w/gustav-gryffin.md) was announced to face [Filip Fux](@/w/filip-fux.md) after the latter's chair attack at that event.
+* On 17.02.2026 [Antoni Ocean](@/w/antoni-ocean.md) was announced to appear at the show.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Mister Z](@/w/mister-z.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
-  - s: OG PpW Hardcore Match
-    n: Dark Match
-    nc: upcoming
+  - '[Olgierd](@/w/olgierd.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - g: '[Zmowa](@/tt/zmowa.md) cut a promo, Axel Fox drops his old ringname and chooses to be known as Jakub, Goblin & Gustav Gryffin arrive and confront them.'
+- - '[Jakub](@/w/jakub.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - s: Triple Threat Match
+- - '[Mutant](@/w/mutant.md)'
+  - '[Sentinel](@/w/sentinel.md)'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Kiss My Foot Match
-    nc: upcoming
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
-  - '??? & ???'
-  - s: Tag Team Match
-    nc: upcoming
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - nc: Double Count Out
+- - '[Johnny "Bullson" Blade](@/w/johnny-blade.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - s: OG PpW Hardcore Dark Match
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Recap
 
-* TBD
+* The live stream initially suffered from major audio issues, including Windows system sounds of a USB device being unplugged and plugged back in. The issue persisted until around halfway through the Triple Threat Match.
+* The show was streamed live using a single camera.
+* [Biesiad Strong](@/w/biesiad.md) was present at ringside, purportedly as a regular fan, to support [Goblin](@/w/goblin.md).
+* After the match ended, Biesiad entered the ring to stop Jakub from attacking Goblin. As a result, Mister Z issued him a lifetime "stadium ban", and the Polish Carpenter was removed by a group of other wrestlers.
+* During Plata vs Agatka, [Filip Fux](@/w/filip-fux.md) ran up to the ring and distracted [Sędzia Kornel](@/w/sedzia-kornel.md), allowing [Oskar Alexander](@/w/oskar-alexander.md) to clobber Bartosz Plata with a guitar to the back, and handing Agatka an easy win.
+* [Istociarz](@/w/istociarz.md) mistook [Sędzia Kornel](@/w/sedzia-kornel.md) for [Sędzia Seweryn](@/w/sedzia-seweryn.md).
+* The stream went briefly offline as Plata was about to kiss Agatka's foot.
+* Before the next match an auction was held, where a full-size banner for [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) was sold to a fan for 350&nbsp;PLN (approx. 83&nbsp;EUR, 72&nbsp;GBP or 98&nbsp;USD).
+* On 21:37 the crowd started singing [Barka](@/a/polish-wrestling-chants.md#songs), albeit only briefly.
+* Filip Fux and Gustav Gryffin fought outside the ring for too long, leading to the referee counting them both out, thus ending the match without a winner.
+* After the bell, Fux and Gryffin returned to the ring and continued to brawl. After a short while, Jakub, Goblin and Oskar Alexander ran in and joined the brawl, setting up the stakes for [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where all three teams are set to clash for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
+* The live stream ended before the main event, as planned.
+* For the main event, Johnny entered with his shopping cart full of weapons, which mostly went unused. The match started with both trading stiff kendo stick blows to the back.
+* After the match, Johnny addressed the audience and Olgierd, stating that he has been in PpW since the very beginning, but never held the main prize, referring to Olgierd's [PpW Championship](@/c/ppw-championship.md). Johnny proceeded to challenge him to a match.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=445711)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-trzeba-byc-21-02-2026-02-21-2026-20-49-29) (requires paid subscription)
 * [Facebook post announcing the event][byc-albo-nie-byc]
 
 [byc-albo-nie-byc]: https://www.facebook.com/OficjalnePPW/posts/pfbid0gBGrxBpUux2zcMTGorUNQ3wjWGHnx8iUzpgMMQKXgMRgaZJRdWqfuJnFV5macrCWl

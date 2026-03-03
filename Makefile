@@ -85,3 +85,6 @@ recent:
 
 $(MINISEARCH_INDEX): content/**/*.md data/aliases.json
 	bin/build-index > $@
+
+requirements.txt: pyproject.toml uv.lock
+	uv export -o $@

@@ -25,7 +25,7 @@ Antoni Ocean is a Polish wrestler known for his time in [PpW Ewenement](@/o/ppw.
 
 #### Training and debut
 
-Antek - initially billed as _rookie_ Antek, as per tradition - started his in-ring career in 2025 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md), he made his first appearance at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) where he faced - and lost to - [PpW's](@/o/ppw.md) producer [Mister Z](@/w/mister-z.md). In the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) he faced fellow young lion [Bartosz Plata](@/w/plata.md) and debuting [Max Speed](@/w/max-speed.md) in a Triple Threat Match, which he won. In a post-match interview he announced that from this point on he would be named "Antoni Ocean". 
+Antek - initially billed as _rookie_ Antek, as per tradition - started his in-ring career in 2025 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/jakub.md), he made his first appearance at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) where he faced - and lost to - [PpW's](@/o/ppw.md) producer [Mister Z](@/w/mister-z.md). In the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) he faced fellow young lion [Bartosz Plata](@/w/plata.md) and debuting [Max Speed](@/w/max-speed.md) in a Triple Threat Match, which he won. In a post-match interview he announced that from this point on he would be named "Antoni Ocean". 
 
 #### Antoni Ocean early appearances
 

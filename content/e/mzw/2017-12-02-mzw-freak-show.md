@@ -12,7 +12,7 @@ has_video = true
 +++
 
 Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:
-[Amisz](@/w/axel-fox.md), later known as [Axel Fox](@/w/axel-fox.md),
+[Amisz](@/w/jakub.md), later known as [Axel Fox](@/w/jakub.md),
 Bartosz Borowski, later known as Ladykiller and [Boro](@/w/boro.md),
 [Kuba Kamiński](@/w/jacob-crane.md) (later [Jacob Crane](@/w/jacob-crane.md)),
 and [Rafał Orszak](@/w/rafael-kid.md) (future [Rafael Kid](@/w/rafael-kid.md)).
@@ -30,7 +30,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
 - - 'Sebastien'
   - 'Démon'
 - - '[Hexia](@/w/hexia.md), [Mr B.](@/w/mr-b.md)'
-  - '[Amisz](@/w/axel-fox.md)'
+  - '[Amisz](@/w/jakub.md)'
 - - '[Asmund](@/w/asmund.md)'
   - '[Franz Engel](@/w/franz-engel.md)'
   - '[Justin Joy](@/w/justin-joy.md)'

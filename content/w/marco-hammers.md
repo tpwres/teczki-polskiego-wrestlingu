@@ -120,16 +120,18 @@ Marco started taking international bookings in 2022. That year he made a few app
     {{ music(yt='cquQmv0OD08')}}
     {{ music(spot='0p9YTj9YGtBSWg1z6DxKNm')}}
     {{ music(apple='621624800?i=621624895')}}
-  - "100 joints" by 2 Chainz
+    - "HUNDRED JOINTS" by Pharmacist & Cloudymane
     {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
-    {{ music(yt='NXX3mxDA26s')}}
-    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
-    {{ music(apple='1440826084?i=1440826489')}}
+    {{ music(yt='7cXmA6CiW-g')}}
+    {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
+    {{ music(apple='1606979069?i=1606979070')}}
 
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times, inaugural, current)
+  - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final)
+* [PpW Ewenement](@/o/ppw.md):
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md)
 
 ## Internet presence
 

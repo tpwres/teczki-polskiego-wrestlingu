@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The eleventh [PTW](@/o/ptw.md) Underground show was held on Sunday, January 29th 2023, as part of a two-show weekend.
@@ -34,7 +35,7 @@ This was the first appearance of Aigle Blanc for PTW, and the second for Senza V
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
 - - '[Sinister](@/w/sinister.md)'
   - '[Hunyadi Tamas](@/w/hunyadi-tamas.md)'
-- - '[Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/axel-fox.md)'
+- - '[Justin Joy](@/w/justin-joy.md) & [Axel Fox](@/w/jakub.md)'
   - 'The Frenchadors: Aigle Blanc & Senza Volto'
   - s: 'First Round Tag Team Match for the inaugural [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) Tournament'
 - credits:

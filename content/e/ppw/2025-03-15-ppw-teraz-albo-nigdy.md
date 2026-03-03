@@ -39,7 +39,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 
 ### Announced entrants for Battle Royal
 
-* [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview (timestamp in the offical video: 1:42:35). He was later [confirmed][axel-potwierdzony] in a Facebook post published on 8.03.2025. On 10.03 he [declared][axel-numero-uno] his wish to enter at number 1, to prove to himself and his detractors he belongs at the top.
+* [Axel Fox](@/w/jakub.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview (timestamp in the offical video: 1:42:35). He was later [confirmed][axel-potwierdzony] in a Facebook post published on 8.03.2025. On 10.03 he [declared][axel-numero-uno] his wish to enter at number 1, to prove to himself and his detractors he belongs at the top.
 * Stanisław van Dobroniak - announced on PpW's social media.
 
 ## Card
@@ -58,7 +58,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Goblin](@/w/goblin.md)'
   - s: Dog Collar Match
 - - '[Goblin](@/w/goblin.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bill Feager](@/w/feager.md)'
@@ -77,7 +77,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Sędzia Kornel](@/w/sedzia-kornel.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
-  - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 5'
+  - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'

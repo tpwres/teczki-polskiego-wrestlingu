@@ -155,7 +155,7 @@ On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://ww
 
 On Thursday June 13th, PTW have taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, had also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Just a month later Fox joined [PpW](@/o/ppw.md), becoming one of the coaches in PpW's rebranded [Ewenement Dojo](@/o/ewenement-dojo.md).
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawłowski confirmed that [Axel Fox](@/w/jakub.md), a popular babyface, had also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Just a month later Fox joined [PpW](@/o/ppw.md), becoming one of the coaches in PpW's rebranded [Ewenement Dojo](@/o/ewenement-dojo.md).
 
 #### Soft reboot: Ryucon, new co-owner
 

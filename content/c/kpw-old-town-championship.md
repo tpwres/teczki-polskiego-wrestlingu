@@ -239,6 +239,12 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
     en: '[KPW Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md)'
     ed: 2025-11-14
     r: DQ
+- - 'Leon Lato(c)'
+  - '???'
+  - s: Open Challenge
+    en: '[KPW Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md)'
+    ed: 2026-03-13
+    nc: upcoming
 {% end %}
 
 ## References

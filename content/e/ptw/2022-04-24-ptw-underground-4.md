@@ -10,7 +10,6 @@ city = "Chorzów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2022-04-24-ptw-underground-4-plakat.jpg", caption = "Official poster. Pictured left to right: Marius Al-Ani, [Bad Bones](@/w/bad-bones.md), [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official PTW Facebook" }
 +++
 
 The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów. It was the first Underground show to be streamed online. The previous three shows were only available to the live audience.
@@ -23,7 +22,7 @@ The fourth [PTW](@/o/ptw.md) Underground show was held on Sunday, April 24th 202
 - - '[Krampus](@/w/krampus.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: Double Count Out

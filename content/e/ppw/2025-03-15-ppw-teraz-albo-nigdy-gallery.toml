@@ -24,7 +24,7 @@
 4003 = { path = "olgierd-vs-goblin-03.webp", caption = "[Goblin](@/w/goblin.md) pulls on the chain, trying to overpower Olgierd.", source = "M3n747" }
 4004 = { path = "olgierd-vs-goblin-04.webp", caption = "Goblin wraps the chain around [Olgierd's](@/w/olgierd.md) head.", source = "M3n747" }
 4005 = { path = "olgierd-vs-goblin-05.webp", caption = "[Olgierd](@/w/olgierd.md) hangs [Goblin](@/w/goblin.md) on the chain, using the top rope as support.", source = "M3n747" }
-5001 = { path = "20-typa-01.webp", caption = "[Axel Fox](@/w/axel-fox.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) open a can of Tatra each...", source = "M3n747" }
+5001 = { path = "20-typa-01.webp", caption = "[Axel Fox](@/w/jakub.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) open a can of Tatra each...", source = "M3n747" }
 5002 = { path = "20-typa-02.webp", caption = "...and raise a toast...", source = "M3n747" }
 5003 = { path = "20-typa-03.webp", caption = "...only to display their displeasure with one another.", source = "M3n747" }
 5004 = { path = "20-typa-04.webp", caption = "[Sambor](@/w/sambor.md) enters the fray carrying a bulawa, which appears to give Bill Feager an inferiority complex. In the corner, Axel Fox kicks Stanisław Van Dobroniak.", source = "M3n747" }
@@ -35,7 +35,7 @@
 5009 = { path = "20-typa-07.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) open a huge jar of muscle-building supplements, having just clobbered Robert Star with it.", source = "M3n747" }
 5010 = { path = "20-typa-08.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) ingested some suspicious-looking white powder. Behind him on the left is Sędzia Seweryn, to the right Marcelito gets to his feet.", source = "M3n747" }
 5011 = { path = "20-dudes-star-cuts-agata-short.webp", caption = "Robert Star delivers his trademark Stallion Cutter to Agentka Agatka. In the corner to the left stands Axel Fox, to the left are Marco Hammers and Oskar Alexander.", source = "Official PpW VOD" }
-5012 = { path = "20-typa-10.webp", caption = "A masculine sandwich of [Robert Star](@/w/robert-star.md), [Axel Fox](@/w/axel-fox.md) and [Marco Hammers](@/w/marco-hammers.md). In the background, Sędzia Karol Górski talks to Oskar Alexander, while Sędzia Seweryn observes the action from near the corner.", source = "M3n747" }
+5012 = { path = "20-typa-10.webp", caption = "A masculine sandwich of [Robert Star](@/w/robert-star.md), [Axel Fox](@/w/jakub.md) and [Marco Hammers](@/w/marco-hammers.md). In the background, Sędzia Karol Górski talks to Oskar Alexander, while Sędzia Seweryn observes the action from near the corner.", source = "M3n747" }
 5013 = { path = "20-dudes-osamu.webp", caption = "A wild [Osamu](@/w/osamu.md) appears!", source = "Official PpW VOD" }
 5014 = { path = "20-typa-11.webp", caption = "[Osamu](@/w/osamu.md) back in the ring. Biesiad stands in the corner, while Robert Star and Marco Hammers lie on the ring, and Sędzie Seweryn stands outside.", source = "M3n747" }
 5015 = { path = "20-dudes-mef-1.webp", caption = "Mef the Death, last seen at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)...", source = "Official PpW VOD" }
@@ -45,7 +45,7 @@
 5019 = { path = "20-dudes-biesiad-arrested.webp", caption = "Biesiad is arrested by the PM Shooter team.", source = "Official PpW VOD" }
 5020 = { path = "20-typa-13.webp", caption = "Aron Wake's poké ball.", source = "M3n747" }
 5021 = { path = "20-dudes-we-dont-like-this-gentleman.webp", caption = "_Fuck this whore_.", source = "Official PpW VOD" }
-5022 = { path = "20-dudes-yaoi.webp", caption = "[Goblin](@/w/goblin.md)/[Axel Fox](@/w/axel-fox.md).", source = "Official PpW VOD" }
+5022 = { path = "20-dudes-yaoi.webp", caption = "[Goblin](@/w/goblin.md)/[Axel Fox](@/w/jakub.md).", source = "Official PpW VOD" }
 5023 = { path = "20-typa-14.webp", caption = "[Goblin](@/w/goblin.md) emerges victorious.", source = "M3n747" }
 5024 = { path = "20-dudes-goblin-on-a-ladder-match.webp", caption = "[Goblin](@/w/goblin.md) celebrates his victory on top of a ladder.", source = "Official PpW VOD" }
 9001 = { path = "hala-labo.webp", caption = "Hala Labo as seen from the outside.", source = "M3n747" }

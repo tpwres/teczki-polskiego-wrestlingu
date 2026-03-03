@@ -10,8 +10,6 @@ city = "Warszawa"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2022-11-26-ptw-3-legends-plakat.jpg", caption = 'Official poster. Pictured are: Matt Sydal, Trent Seven, [Santino](@/w/santino.md), Joe Hendry, [Dawid "Puncher" Seńko](@/w/puncher.md), [Sinister](@/w/sinister.md), Samuray Del Sol, [Justin Joy](@/w/justin-joy.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Marcin Rzeźniczek, Xia Brookside, [Myla Grace](@/w/myla-grace.md), [Diana Strong](@/w/diana-strong.md), [Primate](@/w/primate.md), [Robert Star](@/w/robert-star.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md) and [Axel Fox](@/w/axel-fox.md).', source = "Official PTW Facebook" }
-2 = { path = "legends-triple-threat.jpg", caption = "Women's triple threat match, as seen from the audience", source = "Ville Paananen" }
 +++
 
 Legends was the third major event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, November 26th, in Warsaw. The venue was a multipurpose sports hall located in the [Bemowo](@/v/hala-bemowo.md) district. The day before, Warsaw's local [PpW Ewenement](@/o/ppw.md) ran their own event, titled [_The Best Show In Town_](@/e/ppw/2022-11-25-ppw-najlepsza-gala-w-miescie.md), suggesting that their show was better than this one.
@@ -33,7 +31,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
   - '[Diana Strong](@/w/diana-strong.md)'
   - s: Triple Threat Match
 - - '[Justin Joy](@/w/justin-joy.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: No Disqualification Match
 - - '[Santino](@/w/santino.md)'
   - g: Santino named new co-owner of PTW

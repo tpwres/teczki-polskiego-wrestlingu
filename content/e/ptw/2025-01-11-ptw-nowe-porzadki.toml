@@ -1,132 +1,160 @@
 [0000]
-path = "2025-01-11-ptw-nowe-porzadki-plakat.jpg"
+path = "plakat.webp"
 caption = "Official poster, featuring [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)."
 source = "WildHuge Dot / Official PTW Facebook"
 [0001]
-path = "2025-01-11-ptw-nowe-porzadki-pas-kobiet.jpg"
-caption = "Graphic announcing [Diana Strong](@/w/diana-strong.md) vs Amy Heartbeat, the first match in the [Women's Championship](@/c/ptw-womens-championship.md) tournament."
+path = "max-speed-vs-puncher.webp"
+caption = "Image announcing [Max Speed](@/w/max-speed.md) vs [Puncher](@/w/puncher.md)."
 source = "Official PTW Facebook"
 [0002]
+path = "pan-pawlowski.webp"
+caption = "Image announcing [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)."
+source = "Official PTW Facebook"
+[0003]
+path = "spartan-vs-alex-brave.webp"
+caption = "Image announcing [Spartan](@/w/spartan.md) vs [Alex Brave](@/w/alex-brave.md)."
+source = "Official PTW Facebook"
+[0004]
+path = "diana-strong-vs-amy-heartbeat.webp"
+caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Amy Heartbeat."
+source = "Official PTW Facebook"
+[0005]
+path = "prezes-okonski.webp"
+caption = "Image announcing [Łukasz Okoński](@/w/lukasz-okonski.md)."
+source = "Official PTW Facebook"
+[0006]
+path = "nano-lopez-vs-newt-nova.webp"
+caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Newt Nova](@/w/newt-nova.md)."
+source = "Official PTW Facebook"
+[0007]
+path = "flamingo-vs-r1.webp"
+caption = "Image announcing Flamingo vs R1."
+source = "Official PTW Facebook"
+[0008]
+path = "vincent-caravaggio.webp"
+caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md)."
+source = "Official PTW Facebook"
+[1002]
 path = "nowe-porzadki-stare-ceny.jpg"
 caption = "A view of the ring shortly before the start of the show."
 source = "Krzysztof Zych"
-[0003]
+[1003]
 path = "skwarczynski.webp"
 caption = "[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md) announces the first segment."
 source = "Krzysztof Zych"
-[0101]
+[1101]
 path = "pawlowski.webp"
 caption = "[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) talking about his recent alliance with Puncher."
 source = "Krzysztof Zych"
-[0102]
+[1102]
 path = "puncher.webp"
 caption = "[Puncher](@/w/puncher.md) responds to Pawłowski."
 source = "Krzysztof Zych"
-[0103]
+[1103]
 path = "hug.webp"
 caption = "[Pawłowski](@/w/pan-pawlowski.md) and Puncher hugging it out."
 source = "Krzysztof Zych"
-[0201]
+[1201]
 path = "nano.webp"
 caption = "[Nano Lopez's](@/w/nano-lopez.md) entrance."
 source = "Krzysztof Zych"
-[0202]
+[1202]
 path = "newt_nova.webp"
 caption = "Newt Nova stands on the turnbuckle."
 source = "Krzysztof Zych"
-[0203]
+[1203]
 path = "nova_nano.webp"
 caption = "Newt Nova vs Nano Lopez."
 source = "Krzysztof Zych"
-[0301]
+[1301]
 path = "amy1.webp"
 caption = "Amy Heartbeat's entrance."
 source = "Krzysztof Zych"
-[0302]
+[1302]
 path = "amy2.webp"
 caption = "Amy Heartbeat sending love to the audience."
 source = "Krzysztof Zych"
-[0303]
+[1303]
 path = "diana.webp"
 caption = "[Diana Strong](@/w/diana-strong.md) flexes for the crowd."
 source = "Krzysztof Zych"
-[0304]
+[1304]
 path = "amy_squeezed.webp"
 caption = "Diana Strong squeezes the life out of Amy Heartbeat."
 source = "Krzysztof Zych"
-[0305]
+[1305]
 path = "diana_vs_amy1.webp"
 caption = "[Diana Strong](@/w/diana-strong.md) applies a side headlock to Amy Heartbeat."
 source = "Krzysztof Zych"
-[0306]
+[1306]
 path = "diana_vs_amy2.webp"
 caption = "Diana Strong vs Amy Heartbeat."
 source = "Krzysztof Zych"
-[0307]
+[1307]
 path = "diana_vs_amy3.webp"
 caption = "Diana Strong vs Amy Heartbeat."
 source = "Krzysztof Zych"
-[0401]
+[1401]
 path = "alex.webp"
 caption = "[Alex Brave](@/w/alex-brave.md) cuts a promo on Spartan."
 source = "Krzysztof Zych"
-[0501]
+[1501]
 path = "spartan.webp"
 caption = "[Spartan's](@/w/spartan.md) entrance."
 source = "Krzysztof Zych"
-[0601]
+[1601]
 path = "flamingo.webp"
 caption = "Flamingo greets the crowd with a rude gesture."
 source = "Krzysztof Zych"
-[0602]
+[1602]
 path = "r1.webp"
 caption = "R1 in a battle stance."
 source = "Krzysztof Zych"
-[0603]
+[1603]
 path = "r1_vs_flamingo.webp"
 caption = "R1 is not happy, choking on the top rope. Flamingo, on the other hand, seems very happy."
 source = "Krzysztof Zych"
-[0701]
+[1701]
 path = "falco.webp"
 caption = "Falco smiling at the crowd."
 source = "Krzysztof Zych"
-[0702]
+[1702]
 path = "serg.webp"
 caption = "[Serg Sullivan](@/w/serg-sullivan.md) testing the ropes."
 source = "Krzysztof Zych"
-[0703]
+[1703]
 path = "slotir.webp"
-caption = "[Erik Ŝlotiř](@/w/erik-slotir.md)'s entrance."
+caption = "[Erik Ŝlotiř's](@/w/erik-slotir.md) entrance."
 source = "Krzysztof Zych"
-[0704]
+[1704]
 path = "shida.webp"
 caption = "[Miyagi Shida](@/w/miyagi-shida.md)."
 source = "Krzysztof Zych"
-[0705]
+[1705]
 path = "nut-punch.webp"
 caption = "[Shida](@/w/miyagi-shida.md) crushing Falco's nuts."
 source = "Krzysztof Zych"
-[0706]
+[1706]
 path = "shida-kick.webp"
 caption = "[Erik Ŝlotiř](@/w/erik-slotir.md) receiving a kick from [Shida](@/w/miyagi-shida.md)."
 source = "Krzysztof Zych"
-[0901]
+[1901]
 path = "bjorn.webp"
-caption = "[Luca Bjorn](@/w/luca-bjorn.md)'s entrance."
+caption = "[Luca Bjorn's](@/w/luca-bjorn.md) entrance."
 source = "Krzysztof Zych"
-[0902]
+[1902]
 path = "blaze.webp"
-caption = "[Blaze](@/w/blaze.md)'s entrance."
+caption = "[Blaze's](@/w/blaze.md) entrance."
 source = "Krzysztof Zych"
-[0903]
+[1903]
 path = "bjorn_drop.webp"
 caption = "Luca Bjorn vs Blaze, and a wildly reacting [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)."
 source = "Krzysztof Zych"
-[0904]
+[1904]
 path = "bjorn_vs_blaze.webp"
 caption = "[Luca Bjorn](@/w/luca-bjorn.md) vs Blaze."
 source = "Krzysztof Zych"
-[0905]
+[1905]
 path = "blaze_superman_punch.webp"
-caption = "[Blaze](@/w/blaze.md) with a superman punch to Luca Bjorn."
+caption = "[Blaze](@/w/blaze.md) with a Superman Punch to Luca Bjorn."
 source = "Krzysztof Zych"

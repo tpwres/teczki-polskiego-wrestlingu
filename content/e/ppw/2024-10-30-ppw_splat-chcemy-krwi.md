@@ -39,7 +39,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
   - '[Oskar Strong](@/w/oskar-alexander.md)'
   - s: Triple Threat Match
 - - '[Isnorr](@/w/isnorr.md)(c)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Gremlin](@/w/goblin.md)'

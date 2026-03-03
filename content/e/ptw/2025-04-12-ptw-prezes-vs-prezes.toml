@@ -5,3 +5,4 @@
 005 = { path = "lavonce-vs-brave.webp", caption = "[LaVonce](@/w/lavonce.md) vs [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook" }
 006 = { path = "sigmanczer.webp", caption = "[Puncher](@/w/puncher.md) vs [Sigma Boy xD](@/w/sigma-boy.md).", source = "Official PTW Facebook" }
 007 = { path = "shilli-vanilli.webp", caption = "[Miyagi Shida](@/w/miyagi-shida.md) vs Mikk Vainula.", source = "Official PTW Facebook" }
+999 = { path = "isnorr.webp", caption = "[Isnorr](@/w/isnorr.md) from [PpW](@/o/ppw.md) present in the audience.", source = "Official PTW YouTube" }

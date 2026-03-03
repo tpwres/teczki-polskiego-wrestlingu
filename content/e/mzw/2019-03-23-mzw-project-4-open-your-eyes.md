@@ -24,7 +24,7 @@ has_video = false
 - - '[Justin Joy](@/w/justin-joy.md)'
   - '[Apollo Anderson](@/w/apollo-anderson.md)'
 - - '[Matt Buckna](@/w/matt-buckna.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Ronny Kessler](@/w/ronny-kessler.md)'
   - s: 'Four Way Elimination Match'

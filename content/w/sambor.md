@@ -31,7 +31,7 @@ Sambor joined [Prime Time Wrestling](@/o/ptw.md) soon after leaving MZW. He cont
 
 Plans were cut short, however, as both Sambor and Rusałka decided to [leave the federation](@/a/ptw-exits.md) after the failure of Total Blast From The Past.
 
-### Return to Maniac Zone Wrestling (2024)
+### Return to Maniac Zone Wrestling (2024-present)
 
 After an absence of five months, Sambor made his return to MZW, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) for the [PpW Championship](@/c/ppw-championship.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), resulting in a defeat by submission.
 
@@ -69,7 +69,7 @@ From 2024 onwards Sambor started making appearances at the European independent 
     {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
     {{ music(apple='640336030?i=640336040')}}
   - "Silver For Monsters..." by Percival & Marcin Przybyłowicz
-    {{ org_badge(orgs=['low']) }} (2025-) <br>
+    {{ org_badge(orgs=['low']) }} (2025) <br>
     {{ music(yt='jRG0gyVFP60')}}
     {{ music(spot='2Rq9drbvJsmyucs7d9x04g')}}
     {{ music(apple='1333501415?i=1333502475')}}

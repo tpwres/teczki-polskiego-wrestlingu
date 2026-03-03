@@ -56,7 +56,7 @@ Polska Akademia Wrestlingu:
 * Anatolii
 * [Apollo Anderson](@/w/apollo-anderson.md)
 * [Aron Wake](@/w/aron-wake.md)
-* [Axel Fox](@/w/axel-fox.md)
+* [Axel Fox](@/w/jakub.md)
 * [Boro](@/w/boro.md)
 * [Chris X](@/w/chris-x.md)
 * [Gabriel Queen](@/w/gabriel-queen.md)

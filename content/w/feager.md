@@ -11,7 +11,7 @@ country = ["PL"]
 2 = { path = "billy-boy-feager.jpg", caption = "Young Bill Feager cutting a promo at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md).", source = "Official PpW YouTube." }
 +++
 
-Bill Feager, also known simply as Feager, is a Polish wrestler known for his appearances for [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Bill Feager, also known simply as Feager, is a retired Polish wrestler known for his appearances for [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -44,7 +44,7 @@ After losing his PpW Championship Feager held a grudge against Biesiad, leading 
 
 #### Rivalry with Sambor
 
-At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Feager took part in the Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Sambor](@/w/sambor.md), where the stake was a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This match resulted in a three-way tie between his opponents, every one of them except Feager scoring a single point. Despite that, Feager made an unannounced appearance at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) where he attacked [Sambor](@/w/sambor.md), preventing him from winning the Ladder Match for a PpW Championship fight contract. This, however didn't led to anything, as he quietly vanished from PpW's programming.
+At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Feager took part in the Enigma Scramble Match against [Wonder Haze](@/w/wonder-haze.md), [Sentinel](@/w/sentinel.md) and [Sambor](@/w/sambor.md), where the stake was a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This match resulted in a three-way tie between his opponents, every one of them except Feager scoring a single point. Despite that, Feager made an unannounced appearance at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) where he attacked [Sambor](@/w/sambor.md), preventing him from winning the Ladder Match for a PpW Championship fight contract. This, however didn't led to anything, as he quietly vanished from PpW's programming, effectively retiring from wrestling.
 
 ### Maniac Zone Wrestling (2024)
 

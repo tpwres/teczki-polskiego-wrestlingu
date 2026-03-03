@@ -30,7 +30,7 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) w/ [Oskar Alexander](@/w/oskar-alexander.md)'
 - - '[Zmowa](@/tt/zmowa.md): [Gustav Gryffin](@/w/gustav-gryffin.md) & [Mister Z](@/w/mister-z.md)'
-  - '[Goblis](@/tt/goblis.md): [Axel Fox](@/w/axel-fox.md) & [Goblin](@/w/goblin.md)'
+  - '[Goblis](@/tt/goblis.md): [Axel Fox](@/w/jakub.md) & [Goblin](@/w/goblin.md)'
   - s: Tag Team Match
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
@@ -46,7 +46,7 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
   - s: 'Tag-Team Match'
 - - '[Sentinel](@/w/sentinel.md)'
   - 'Danny Roxx'
-- - 'Anty-Zmowa: [Biesiad Strong](@/w/biesiad.md), [Axel Fox](@/w/axel-fox.md), [Goblin](@/w/goblin.md)'
+- - 'Anty-Zmowa: [Biesiad Strong](@/w/biesiad.md), [Axel Fox](@/w/jakub.md), [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
 - credits:
     Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'

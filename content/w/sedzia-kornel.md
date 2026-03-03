@@ -53,7 +53,7 @@ After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zm
 
 At [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) Kornel made his debut in [Maniac Zone Wrestling](@/o/mzw.md), and officiated a hardcore match between [Biesiad Strong](@/w/biesiad.md) and [Chris X](@/w/chris-x.md). He made his return at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), where he worked alongside Sędzia Seweryn.
 
-### Legacy of Wrestling (2025-present)
+### Legacy of Wrestling (2025)
 
 Kornel made his debut for [Legacy of Wrestling](@/o/low.md) working as a referee for their [third show](@/e/low/2025-07-11-low-3.md) in July 2025.
 

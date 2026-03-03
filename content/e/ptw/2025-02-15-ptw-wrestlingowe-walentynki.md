@@ -10,7 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki-gallery.toml"
 +++
 
 "Wrestlingowe Walentynki" (_Wrestling Valentine's Day_) was an event by [Prime Time Wrestling](@/o/ptw.md), that took place the day after St. Vallentine's Day. It is the third PTW show, after [Halloweenowy Łomot](@/e/ptw/2024-10-19-ptw-underground-23.md) and [Wrestlingowe Mikołajki](@/e/ptw/2024-12-07-ptw-underground-25.md), to be named after a holiday.

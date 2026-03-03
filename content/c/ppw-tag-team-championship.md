@@ -2,7 +2,7 @@
 title = "PpW Tag Team Championship"
 template = "article.html"
 weight = 0
-authors = ["M3n747", "Sewi The Referee"]
+authors = ["M3n747", "Sewi The Referee", "Szymon Iwulski"]
 [extra]
 toclevel=2
 [extra.gallery]
@@ -10,6 +10,7 @@ toclevel=2
 2 = { path = "pasy-na-dywanie.jpg", caption = "Closer look at the belt.", source = "Mister Z" }
 3 = { path = "zetowi-pasuja-pasy.jpg", caption = "[Mister Z](@/w/mister-z.md) with the belts.", source = "Mister Z" }
 4 = { path = "drabinka-durniejowa.webp", caption = "Full tournament brackets, including the _Golden Opportunity_.", source = "Official PpW Facebook" }
+5 = { path = "zmowa-z-pasami.webp", caption = "[Zmowa](@/tt/zmowa.md), the first Tag Team Champions.", source = "Official PpW Facebook" }
 
 +++
 
@@ -19,21 +20,20 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 
 ## Statistics
 
-* First champion: N/A
-* Most reigns: N/A
-* Shortest reign: N/A
-* Longest reign: N/A
-* Oldest champion: N/A
-* Youngest champion: N/A
-* Heaviest champion: N/A
-* Lightest champion: N/A
+* First champion: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)
+* Most reigns: Zmowa (1)
+* Longest reign: Zmowa (1+ days)
+* Oldest champion: Marco Hammers (28 years, 363 days)
+* Youngest champion: Mister Z (25 years, 292 days)
+* Heaviest champion: Marco Hammers (94 kg)
+* Lightest champion: Jakub "Fox" (80 kg)
 
 ## History
 
 On 17.10.2025 - during the buid-up to [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) - PpW shared an image of [Mister Z](@/w/mister-z.md) teasing a "Very Huge and Very Important Announcement" to be made at the show, which was supposed to change the course of PpW forever. During the opening moments of the show [Michael HT](@/w/michael-ht.md) and [Joker](@/w/joker.md), on Z's behalf, introduced the newly-created PpW Tag Team Championship, along with the tournament to crown the inaugural champions, starting with the [next show](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 The tournament consisted of semi-finals with both [Rodzina](@/tt/rodzina.md) and [Zmowa](@/tt/zmowa.md) quickly advancing to the finals, with their wins at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
 
-In addition, [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were forced to become a tag team and at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) they fought Rodzina's representation for the opportunity to join the finals. After their win, Gustav & Goblin were denied their opportunity by [Mister Z](@/w/mister-z.md) and forced to fight another match for the same chance the same night, this time against Zmowa's other representation of [Axel Fox](@/w/axel-fox.md) & [Marco Hammers](@/w/marco-hammers.md). After succesfully defeating the next team, Gustav & Goblin have officially been added to the finals.
+In addition, [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were forced to become a tag team and at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) they fought Rodzina's representation for the opportunity to join the finals. After their win, Gustav & Goblin were denied their opportunity by [Mister Z](@/w/mister-z.md) and forced to fight another match for the same chance the same night, this time against Zmowa's other representation of [Axel Fox](@/w/jakub.md) & [Marco Hammers](@/w/marco-hammers.md). After succesfully defeating the next team, Gustav & Goblin have officially been added to the finals.
 
 Seemingly, the tournament involved the [Freebird Rule][freebird-rule]. Oskar Alexander advanced to the finals with Vic Golden and later fought Gustav & Goblin together with [Gabriel Queen](@/w/gabriel-queen.md). This was supposedly Rodzina's designed representation for the finals, but later it was [confirmed](https://www.instagram.com/p/DTs_vmZignE/) that due to Queen's obstruction, he would not be joining Alexander in the finals. Instead, a new member of Rodzina would fight for the title.
 
@@ -53,7 +53,7 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
   - s: Tag Team Match
     en: '[PpW Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md)'
     ed: 2025-11-08
-- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/jakub.md)'
   - '[Biesiad Strong](@/w/biesiad.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: Tag Team Match
     en: '[PpW Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md)'
@@ -71,7 +71,7 @@ The overall shape of the PpW Tag Team Championship is heavily influenced by the 
     en: '[PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16
 - - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Axel Fox](@/w/axel-fox.md) & [Marco Hammers](@/w/marco-hammers.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Axel Fox](@/w/jakub.md) & [Marco Hammers](@/w/marco-hammers.md)'
   - s: Tag Team Match
     en: '[PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16 
@@ -82,20 +82,23 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 #### Finals
 
 {% free_card() %}
-- - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
+  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
-  - s: Tag Team Match
+  - s: Triple Threat Tag Team Tables Elimination Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
     ed: 2026-02-28
-    nc: upcoming
 {% end %}
 
-### Champions #1: TBD
+### Champions #1: Zmowa: Mister Z, Jakub "Fox", Marco Hammers & Olgierd
+
+NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] that the Championships belong to Zmowa as a whole, invoking the [Freebird Rule][freebird-rule].
 
 ## References
 
 * [Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0aGQyrQeVAfVGX1ChMCPPSyB8LutLZLXounLRgywvMae7GPb1K4waewSwinNzBHY9l) introducing the title
+* [Facebook reel][zet-potwierdza] of Zmowa's celebration, confirming the Freebird Rule
 
 [pas-wwe-tag-team]: https://en.wikipedia.org/wiki/WWE_Tag_Team_Championship
+[zet-potwierdza]: https://www.facebook.com/reel/2122277141945558
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

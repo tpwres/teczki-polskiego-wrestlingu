@@ -98,6 +98,12 @@ Never took place, as the tournament was cancelled.
   - s: Singles Match
     en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-07-27
+- - 'Mercedes Moné(c)'
+  - '???'
+  - s: Singles Match
+    en: '[PTW: More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
+    ed: 2026-03-29
+    nc: upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c

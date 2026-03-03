@@ -1,7 +1,8 @@
 +++
-title = "Axel Fox"
+title = "Jakub"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
+aliases = ["/w/axel-fox"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -20,7 +21,8 @@ Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw
 * Nicknames:
   - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
   - Amisz (_Amish_) {{ org_badge(orgs=['dfw', 'mzw']) }}
-* Trained by:
+  - Jakub {{ org_badge(orgs=['ppw']) }}
+  * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
   - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
@@ -102,6 +104,12 @@ After a defeat against Olgierd, Axel's frustration kept growing. During his post
 He lost to [Vic Golden](@/w/vic-golden.md) at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), and to Marco Hammers at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
 Eventually, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Fox betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered by [Mister Z](@/w/mister-z.md) and joined [Zmowa](@/tt/zmowa.md).
 
+#### Joining Zmowa and becoming Jakub
+
+After his betrayal of Goblin and introduction into Mister Z's stable, Axel quickly became one of Zmowa's most valuable assets. He quickly got involved in a group effort to secure the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) as the inaugural champions. During the Championship race he frequently teamed up with either Mister Z or [Marco Hammers](@/w/marco-hammers.md), especially when the other half of Legia Łysych - Olgierd - became the [PpW Champion](@/c/ppw-championship.md) and Marco needed a Tag Team partner.
+
+At [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), Fox cut a promo where he discarded his old persona of Axel Fox, and chose to be known as Jakub. This new character previously appeared only internationally, in Germany and Hungary, no longer wearing facepaint or fox-themed gear. Since turning heel in PpW, Jakub/Fox switched to the new gear, but kept the old name - until now.
+
 ### Legacy of Wrestling (2024-present)
 
 On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
@@ -151,17 +159,17 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - "Crazy Like a Fox" by Independent Contractor
     {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2023-2024) <br>
   - "Punk Tactics" by Joey Valence & Brae
-    {{ org_badge(orgs=['ppw', 'low']) }} (2024-present, both solo and as part of [GobLis](@/tt/goblis.md)) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2024-2025), both solo and as part of [GobLis](@/tt/goblis.md)) <br>
     {{ music(yt='OklSZmIx9-o')}} 
     {{ music(spot='2jQ1P0aGT4WkNyJCeoQnb9')}}
     {{ music(apple='1697553064?i=1697553067&l=pl')}}
-  - "100 joints" by 2 Chainz
+  - "HUNDRED JOINTS" by Pharmacist & Cloudymane
     {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
-    {{ music(yt='NXX3mxDA26s')}}
-    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
-    {{ music(apple='1440826084?i=1440826489')}}
+    {{ music(yt='7cXmA6CiW-g')}}
+    {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
+    {{ music(apple='1606979069?i=1606979070')}}
   - "Firestarter" by The Prodigy 
-    {{ org_badge(orgs=['low']) }} (2025-present) <br>
+    {{ org_badge(orgs=['low', 'ppw']) }} (2025-present) <br>
     {{ music(yt='wmin5WkOuPw')}}
     {{ music(spot='79CUrU5o2KAVDTNm4x3eGU')}}
     {{ music(apple='1450123945?i=1450124083')}}
@@ -177,6 +185,8 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
 * [Legacy of Wrestling](@/o/low.md):
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, inaugural, current)
   - Road to the Title Tournament (2025)
+* [PpW Ewenement Wrestling](@/o/ppw.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
 
 ## Internet presence
 

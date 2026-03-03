@@ -124,6 +124,23 @@ The hosts asked the wrestlers several questions, including about the nature of k
 The segment ended with Gustav standing up and getting into Biesiad's face, at which point Biesiad removed his T-shirt and threw his opponent across the studio couch. They then ran out into the studio, brawled for a short while, while Crane was trying to separate them.
 Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the show host explained to the camera that it's all a show, and there's no need to be alarmed.
 
+#### Got Talent
+
+In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode of _Mam Talent!_ (Polish spin-off of the long-running _Got Talent_ format). Biesiad gives a short promo stating how he's aiming for the championship which he deserves, while Olgierd portrays his hard-headed hooligan character. Before the bell, Biesiad is seen running bare-chested through the general area with other contestants present. In their match Olgierd defended his [PpW Championship](@/c/ppw-championship.md) against Biesiad, with an intervention by Mister Z. The segment was received favourably by three of the four judges, with only Julia Wieniawa giving the team a thumbs down, stating she did not understand the concept and is against such portrayal of violence.
+
+{% free_card() %}
+- - '[Olgierd](@/w/olgierd.md)(c) w/ [Mister Z](@/w/mister-z.md)'
+  - '[Biesiad](@/w/biesiad.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    en: 'Mam Talent Season 17 Episode 1'
+    ed: '2026-02-21'
+{% end %}
+
+- Referee: [Sędzia Seweryn](@/w/sedzia-seweryn.md)
+- Talent show judges: Agnieszka Chylińska, Marcin Prokop, Julia Wieniawa, Agustin Egurrola
+
+See link in the References section below for the video. Also present backstage were [Istotna Martynka](@/w/istotna-martynka.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
+
 ### Independent and other
 
 In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The short depicts PpW wrestlers in their daily lives, and their metamorphosis into seemingly indestructible fighters once they step into the ring and become their true selves. The documentary premiered on 28.10.2025 in {{ map_pin(v="Kinoteka") }}Kinoteka, two days before [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md).
@@ -140,9 +157,9 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - Vacant
-  - >
-    Introduced, not yet awarded.
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
+  - > 
+    Defeated [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)) and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
@@ -162,6 +179,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 * [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
 * [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
+* [Facebook video reel: PpW in Mam Talent][ppw-ma-talent]
 
 [ppw-c]: @/c/ppw-championship.md
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
@@ -170,3 +188,4 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [ppw-vod]: https://ppw-ewenementpl.vhx.tv
 [ewenement-logo]: https://www.facebook.com/photo/?fbid=2150678838439647&set=a.158941800946704
 [ppw-globalnie]: https://www.instagram.com/ppw_global/
+[ppw-ma-talent]: https://www.facebook.com/reel/865556049810905

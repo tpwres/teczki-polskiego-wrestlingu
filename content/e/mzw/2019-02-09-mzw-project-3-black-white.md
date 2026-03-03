@@ -16,7 +16,7 @@ has_video = false
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Apollo Anderson](@/w/apollo-anderson.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Ronny Kessler](@/w/ronny-kessler.md)'
 - - '[Justin Joy](@/w/justin-joy.md)'
   - '[Madman Charlie](@/w/madman-charlie.md)'

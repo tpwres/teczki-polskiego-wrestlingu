@@ -9,6 +9,7 @@ venue=["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = false
+[extra.gallery]
 +++
 
 The first [PTW](@/o/ptw.md) Underground was held on Sunday, December 19th 2022, in the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
@@ -21,7 +22,7 @@ Underground shows advanced the storylines seen in bigger events, but with signif
 
 {% card() %}
 - - '[Renegade](@/w/renegade.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Sinister](@/w/sinister.md)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
 - - '[Remo](@/w/remo.md)'

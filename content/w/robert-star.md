@@ -8,14 +8,14 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Robert Star is a Polish wrestler best known from his time in [Kombat Pro Wrestling](@/o/kpw.md). He also made a number of appearances in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md).
+Robert Star is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). During his career he also made numerous appearances for [Kombat Pro Wrestling](@/o/kpw.md), [Prime Time Wrestling](@/o/ptw.md) and [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 
 * Years active: 2013-present
 * Gimmicks/nicknames:
   - "The Polish Stallion" {{ org_badge(orgs=['kpw', 'ptw', 'ppw', 'low']) }}
-  - "The Rockstar of Polish Wrestling" {{ org_badge(orgs=['kpw']) }}
+  - "The Rockstar of Polish Wrestling" {{ org_badge(orgs=['ddw', 'kpw']) }}
 * Trained by:
   - [Don Roid](@/w/don-roid.md), [DDW Academy](@/o/ddw-academy.md) (201?-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2019)
@@ -106,7 +106,7 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
     {{ music(spot='3vV3cr2TpPqFk07zxYUbla')}}
     {{ music(apple='975739304?i=975741254')}}
   - "Stallion" by Secret Metal
-    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-2025) <br>
     {{ music(yt='LHTdgdTwons')}}
   - "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
     {{ org_badge(orgs=['ppw']) }} (2025-) <br>

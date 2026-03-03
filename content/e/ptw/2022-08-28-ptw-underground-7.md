@@ -9,6 +9,7 @@ venue = ["ptw-targowa"]
 city = "Chorzów"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 The seventh [PTW](@/o/ptw.md) Underground show was held on Sunday, August 28th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
@@ -30,7 +31,7 @@ This event featured Argentinian wrestler Herco Wisky. Wisky was on a brief tour 
 - - '[Pure Gold](@/tt/pure-gold.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: Handicap Match
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - Herco Wisky
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - '[Jonny Storm](@/w/jonny-storm.md)'

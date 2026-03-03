@@ -119,7 +119,7 @@ In addition to the above, Dobroniak also defended the title abroad: twice in STH
     en: '[PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)'
     ed: 2024-10-26
 - - 'Isnorr(c)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: Singles match
     en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md)'
     ed: 2024-10-30

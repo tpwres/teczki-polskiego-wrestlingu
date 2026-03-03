@@ -60,7 +60,7 @@ He debuted at [PTW Underground 13](@/e/ptw/2023-03-26-ptw-underground-13.md), fa
 #### Formation of Legia Łysych
 
 This new character was quickly paired with [Marco Hammers](@/w/marco-hammers.md), and a valet/kayfabe girlfriend Karyna, into a team named "Legia Łysych" (roughly _Legion of the Bald_, but heavily leaning into Polish football fan scene - Legia is the name of Warsaw's football team).
-Again he was able to show his prowess in hardcore-style matches - two of his top bouts were Street Fights, one against [Gabriel Queen](@/w/gabriel-queen.md) at [Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md), and another, Christmas-themed street fight against [Axel Fox](@/w/axel-fox.md) at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md).
+Again he was able to show his prowess in hardcore-style matches - two of his top bouts were Street Fights, one against [Gabriel Queen](@/w/gabriel-queen.md) at [Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md), and another, Christmas-themed street fight against [Axel Fox](@/w/jakub.md) at [Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md).
 Besides that, Olgierd was one of the participants of the [Gold Rush Rumble](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), where the winner became PTW's inaugural singles champion. As Legia with Marco, they co-main evented [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) in an Intergender Tag Team Match against [Diana Strong](@/w/diana-strong.md) and British wrestler Heidi Katrina.
 
 After Total Blast From The Past, Olgierd, Marco and numerous other talent [left PTW](@/a/ptw-exits.md), but choose not to make that information public right away.
@@ -88,19 +88,23 @@ During a post-match interview following the 20 Typa 20 Broni Match, Axel was att
 #### Cracks in Zmowa
 
 After Gustav Gryffin failed to defend his [PpW Championship](@/c/ppw-championship.md) against the "Acid Messiah" Goblin at Ledwo Legalne 5, Zmowa was furious. Gustav's downfall spiralled out of control, resulting in Mister Z losing all of his respect for him. During that time Gustav suffered constant bullying from all of Zmowa members, especially when Olgierd leapt over him in Z's hierarchy, making himself the new Zmowa prospect. At [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md) Olgierd defeated Johnny Blade and secured his spot in a Total Elimination Fatal 4-Way Match to determine the new contender for the PpW Championship. The match took place at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where Olgierd managed to be a runner-up, but after Biesiad's kamikadze dive onto a pyramid of tables, Olgierd was pinned and lost his opportunity to face Goblin. In a post-match interview the furious Olgierd seemed to care more about Gustav's betrayal of Zmowa, which took place earlier at that show.
-He vowed to take everything from the ex-Zmowa member in the nearest future. He got his revenge on both Gustav and Goblin at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he was the one to pin Goblin after his friend, [Axel Fox](@/w/axel-fox.md), finally turned on him and joined Zmowa as a new member. Pinning Goblin granted Olgierd an opportunity to face the PpW Champion in a Chain God Realm Match.
+He vowed to take everything from the ex-Zmowa member in the nearest future. He got his revenge on both Gustav and Goblin at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he was the one to pin Goblin after his friend, [Axel Fox](@/w/jakub.md), finally turned on him and joined Zmowa as a new member. Pinning Goblin granted Olgierd an opportunity to face the PpW Champion in a Chain God Realm Match.
 
 #### PpW Champion
 
-At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Olgierd faced Goblin in a brutal main event, and managed to capture the title. This ended Goblin's "Unhinged Era", and returned the most important championship belt to Zmowa.
+At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Olgierd faced Goblin in a brutal main event and managed to capture the title. This ended Goblin's "Unhinged Era", and returned the most important Championship belt to Zmowa. 
+
+At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Olgierd faced Biesiad Strong in a Legendary Unsactioned Match as his first Championship defense. That match ended with a double count-out after both wrestlers fell off the stage and were unable to compete further. After the show it was revealed that Olgierd suffered a knee injury, sidelining him from competition for some time. Despite that, Olgierd announced that his next Championship defence would take place during PpW's excursion to Japan at [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md). At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) the injured Olgierd was attacked by a furious Biesiad who proceeded to further hurt Olgierd's damaged knee, which led to Mister Z firing Biesiad in retribution.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
-In October 2024 he - alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md) - returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/tt/zieloni.md) made their appearance at an MZW show. At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych defeated [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a Tag Team Match.
+In October 2024 Olgierd, alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md), returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/tt/zieloni.md) made their appearance at an MZW show. At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych defeated [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a Tag Team Match. 
+
+At [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) Olgierd defeated [Marcelito](@/w/marcelito.md), while his partner Marco was defeated by Shadow earlier that night. This led to a natural rivalry between Legia Łysych and Shadow & Marcelito, resulting in a post-match brawl and a Tag Team Match set to take place at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md).
 
 ### Legacy of Wrestling (2024-present)
 
-In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs Bracia Fux at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by the reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md).
+In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs [Bracia Fux](@/tt/bracia-fux.md) at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by the reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md). At [Four the Glory](@/e/low/2025-12-20-low-4.md) Olgierd defeated his old coach and rival [Shadow](@/w/shadow.md) in a Non-Title Match during his first fight as the PpW Champion.
 
 ## International wrestling appearances
 
@@ -132,23 +136,24 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
     {{ music(apple='1509575453?i=1509575457')}}
   - "Slasher" by Słoń/Mikser
-    {{ org_badge(orgs=['low', 'ppw']) }} (2025-present)<br>
+    {{ org_badge(orgs=['low', 'ppw']) }} (2025)<br>
     {{ music(yt='spq7KCQWCO4')}}
     {{ music(spot='2g7P4WCl03MsyXN9zw9nZ2')}}
     {{ music(apple='750848937?i=750848967')}}
   - Mix: "Fopa i Nietakt" by Słoń/Mikser, feat WSRH / "Slasher" by Słoń/Mikser
     {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
     (mixed by [Referee Kornel](@/w/sedzia-kornel.md))<br>
-  - "100 joints" by 2 Chainz
+   - "HUNDRED JOINTS" by Pharmacist & Cloudymane
     {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
-    {{ music(yt='NXX3mxDA26s')}}
-    {{ music(spot='0VNRyH6wmpfQn82COyaL87')}}
-    {{ music(apple='1440826084?i=1440826489')}}
+    {{ music(yt='7cXmA6CiW-g')}}
+    {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
+    {{ music(apple='1606979069?i=1606979070')}}
 
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Marco Hammers](@/w/marco-hammers.md)
 
   _Backyard Era Championships_:
   - PpW YouTube Championship (1 time; inaugural)

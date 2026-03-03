@@ -3,7 +3,7 @@
 003 = { path = "main-event.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Biesiad Strong](@/w/biesiad.md) vs [Olgierd](@/w/olgierd.md) vs [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
 004 = { path = "pokaz-sily-zmowy.webp", caption = "Image announcing, left to right: [Gustav Gryffin](@/w/gustav-gryffin.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) (top) and [Olgierd](@/w/olgierd.md) (bottom).", source = "Official PpW Facebook" }
 005 = { path = "dobroniak-vs-agatka.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Agentka Agatka](@/w/agentka-agatka.md).", source = "Official PpW Facebook" }
-006 = { path = "hammers-vs-fox.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs [Axel Fox](@/w/axel-fox.md).", source = "Official PpW Facebook" }
+006 = { path = "hammers-vs-fox.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs [Axel Fox](@/w/jakub.md).", source = "Official PpW Facebook" }
 007 = { path = "alexander-vs-blade.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md) vs [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Instagram" }
 008 = { path = "tag-team-match.webp", caption = "Image announcing [Marcelito](@/w/marcelito.md) & [Sambor](@/w/sambor.md) vs [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md).", source = "Official PpW Facebook" }
 009 = { path = "wielkie-testy-platy.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md).", source = "Official PpW Facebook" }

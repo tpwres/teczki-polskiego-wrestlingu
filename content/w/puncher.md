@@ -75,7 +75,9 @@ At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.m
 
 #### Nietykalni
 
-After Pawłowski turned into a villain, Puncher joined his ranks as his top protégé. He continued his undefeated streak while feuding with [Spartan](@/w/spartan.md), as well as with other members of Pawłowski's oppositon. Along with [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md)) he joined a faction led by Pawłowski called [Nietykalni](@/tt/nietykalni.md).
+After Pawłowski turned villain, Puncher joined his ranks as his top protégé. He continued his undefeated streak while feuding with [Spartan](@/w/spartan.md), as well as with other members of Pawłowski's oppositon. Along with [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md)) he joined a faction led by Pawłowski called [Nietykalni](@/tt/nietykalni.md).
+
+The faction ruled PTW until it finally came to an end after their first slip-up. At [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Puncher teamed up with Arkadiusz Pawłowski in a Three Stages of Hell against Łukasz Okoński. Despite Puncher's easy victory in the first stage, Pawłowski managed to cost Nietykalni another two stages, which granted Okoński's ally Spartan one more shot at Puncher's PTW Championship. Puncher vs Spartan All Or Nothing Match at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) became the match not only for the title, but also for the ownership of PTW. Despite multiple shenenigans and tricks pulled off by Puncher's manager Pan Pawłowski, the match finally ended with Spartan standing tall over defeated Puncher, thus ending his 679-days long reign.
 
 ## International wrestling appearances
 

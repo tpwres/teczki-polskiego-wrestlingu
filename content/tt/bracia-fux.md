@@ -26,7 +26,7 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) the Brothers took part in a to
 
 At [Godzina Zero 2025](@/e/low/2025-07-11-low-3.md) the Fux Brothers were challenged by [Team Visegrad](@/tt/team-visegrad.md) for their KPW Tag Team Championships. Shockingly, the challengers were able to defeat the Champions, ending their reign after 735 days. Soon after, at [KPW's Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md), they introduced a third brother, Oskar Fux, a worker who made his debut as an unnamed rookie during a match against [Tomczak](@/w/tomczak.md) at Godzina Zero. As of the early October 2025, it is unknown if the Oskar Fux character will be utilised in regular KPW's programming, which leaves him as a non-canon character.
 
-### Legacy of Wrestling (2025-)
+### Legacy of Wrestling (2025)
 
 At [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) Filip lost a match against [Marco Hammers](@/w/marco-hammers.md), who - along with his tag team partner [Olgierd](@/w/olgierd.md) - expressed interest in Filip's KPW Tag Team title. The [follow-up event](@/e/low/2025-04-06-low-2.md) then saw a match between Bracia Fux and [Legia Łysych](@/tt/legia-lysych.md) for the Tag Team titles. Once again, the Brothers retained their gold.
 
@@ -46,7 +46,7 @@ In addition to working in Poland, the Fux Brothers made an appearance in 2023 fo
   - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
- {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025-) <br>
+ {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025) <br>
  {{ music(yt='CmXWkMlKFkI')}}
  {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
  {{ music(apple='1764395673?i=1764396024')}}

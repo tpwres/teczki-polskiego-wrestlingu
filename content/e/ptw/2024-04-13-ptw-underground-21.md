@@ -10,8 +10,6 @@ city = "Kozłów"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2024-04-13-ptw-underground-21-plakat.jpg", caption = "Official poster, featuring [Nitro](@/w/nitro.md), [Renegade](@/w/renegade.md), [Diana Strong](@/w/diana-strong.md), [Marcelito](@/w/marcelito.md), [Puncher](@/w/puncher.md) and [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).", source = "Official PTW Facebook" }
-2 = { path = "nissan-gtr-1200-koni-nikt-cie-nie-dogoni-no-chyba-ze-sprzedasz-na-otomoto.jpg", caption = "Nissan GTR outside the venue before the event.", source = "Ville Paananen" }
 +++
 
 PTW Underground 21 was an event by [Prime Time Wrestling](@/o/ptw.md), held on Saturday, April 13, 2024.
@@ -26,7 +24,7 @@ It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-1
 
 {% card() %}
 - - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)'
-  - '[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/axel-fox.md)'
+  - '[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/jakub.md)'
   - s: Open Challenge
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'

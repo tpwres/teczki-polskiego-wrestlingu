@@ -27,7 +27,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 * On 27.12.2025 [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md) were announced in a Tag Team Match against [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md), with the stipulation being that their victory will allow Gustav & Goblin to compete for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) against [Zmowa](@/tt/zmowa.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 * A [video][ale-sie-bartek-zaplatal] published on 2.01.2026 saw [Bartosz Plata](@/w/plata.md) request a Grand Fatherly Trial Match from [Johnny Blade](@/w/johnny-blade.md).
 * On 6.01.2026 PpW posted to Facebook announcing a pre-show match between [Sambor](@/w/sambor.md), [Lady Killer](@/w/boro.md), [Mutant](@/w/mutant.md), [Antoni Ocean](@/w/antoni-ocean.md) and [Marcelito](@/w/marcelito.md), in a Bring Your Weapons stipulation. This marks Sambor's return to the ring following an injury at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md).
-* A 8.01.2026 post announced that [Zmowa](@/tt/zmowa.md) ([Axel Fox](@/w/axel-fox.md), [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)) will appear at the show, although no further details were given.
+* A 8.01.2026 post announced that [Zmowa](@/tt/zmowa.md) ([Axel Fox](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md)) will appear at the show, although no further details were given.
 * Two Hungarian luchadores, [Sentinel](@/w/sentinel.md) & [Wonder Haze](@/w/wonder-haze.md), were announced on 11.01.2026.
 
 ## Card
@@ -43,7 +43,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Golden Opportunity Contendership Match'
-- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Axel Fox](@/w/axel-fox.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md), [Marco Hammers](@/w/marco-hammers.md), [Axel Fox](@/w/jakub.md)'
   - g: Zmowa assert their dominance, Mister Z denies Gustav and Goblin their Tag Team finals spot unless they also defeat Zmowa
 - - '[Sentinel](@/w/sentinel.md)'
   - '[Wonder Haze](@/w/wonder-haze.md)'
@@ -54,7 +54,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: Szwedzki Hardcore Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Axel Fox](@/w/axel-fox.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Axel Fox](@/w/jakub.md)'
   - s: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Golden Opportunity Contendership Match'
 - - '[Robert Star](@/w/robert-star.md) w/ [Oskar Alexander](@/w/oskar-alexander.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Max Speed](@/w/max-speed.md)'

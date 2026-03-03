@@ -49,7 +49,7 @@ This rivalry led them to face each other in a No Holds Barred #1 Contender Match
 
 During the build-up to [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), Gustav reached out to a Legia Łysych member [Olgierd](@/w/olgierd.md), offering the team a match against the Acid Messiah.
 Additionally, unless Goblin was able to find a partner, it was to be a handicap match. This was a problem for him, as many potential allies already had issues of their own - [Gabriel Queen](@/w/gabriel-queen.md) (who just lost a tag match to Legia) was facing [Jacob Crane](@/w/jacob-crane.md); [Biesiad](@/w/biesiad.md) challenged Gustav for the PpW Championship, and [Johnny Blade](@/w/johnny-blade.md) was defending his newly regained [European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
-At the show, Goblin stood against Legia Łysych alone and cut a short promo, mentioning how Legia Łysych got under many people's skin even before they came in to PpW in June that year, and that one such person came to PpW to get his hands on Legia. This marked the surprise debut of [Axel Fox](@/w/axel-fox.md), who teamed up with Goblin as a team quickly named by PpW fans as "GobLis". However, due to Mister Z's interference in the match, they were unable to defeat Legia Łysych.
+At the show, Goblin stood against Legia Łysych alone and cut a short promo, mentioning how Legia Łysych got under many people's skin even before they came in to PpW in June that year, and that one such person came to PpW to get his hands on Legia. This marked the surprise debut of [Axel Fox](@/w/jakub.md), who teamed up with Goblin as a team quickly named by PpW fans as "GobLis". However, due to Mister Z's interference in the match, they were unable to defeat Legia Łysych.
 
 Their grudge held against the members of Mister Z's villainous stable [Zmowa](@/tt/zmowa.md), especially against Legia Łysych, caused Goblin and Fox to join an impromptu faction led by Biesiad: Zmowa Przeciwko Zmowie (_The Collusion Against the Collusion_). The team of Goblin, Fox, Biesiad, Gabriel Queen and [Vic Golden](@/w/vic-golden.md) faced Mister Z, Jakub Linde, Olgierd, [Marco Hammers](@/w/marco-hammers.md) and [Wiktor Longman](@/w/wiktor-longman.md) in an Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md). Eventually Zmowa got the upper hand, leaving Goblin alone against Mister Z, Longman and Olgierd, but The Acid Messiah was able to miraculously win the match as the sole survivor.
 
@@ -78,10 +78,14 @@ The title match was set to take place at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw
 Unexpectedly, Mister Z was attacked by former ally Gustav, who had bitterly and violently quit Zmowa at the previous show.
 
 This intervention allowed Goblin to retain his Championship, but he became angry at both Zmowa and Gryffin for constantly intervening in his title run.
-At the same time, Mister Z declared that he wanted to put both Gustav and Goblin down. He booked a Three-on-Three Tag Team Match, placing himself and [Legia Łysych](@/tt/legia-lysych.md) against old enemies: Gustav, Goblin, and his friend [Axel Fox](@/w/axel-fox.md).
+At the same time, Mister Z declared that he wanted to put both Gustav and Goblin down. He booked a Three-on-Three Tag Team Match, placing himself and [Legia Łysych](@/tt/legia-lysych.md) against old enemies: Gustav, Goblin, and his friend [Axel Fox](@/w/jakub.md).
 All of them were visibly discontent at having to team with each other, but it was Axel who was the most upset, arguing that [GobLis](@/tt/goblis.md) should focus on becoming the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) instead of helping Goblin's old rival.
 During this six-man match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) Axel was a no-show, forcing Goblin and Gustav to fight at a handicap.
 In the final moments, however, the much-needed Axel finally came to seemingly save his friend, but that was not what happened. Instead, Axel turned his back on Goblin and Gustav by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to pin the Acid Messiah, which granted Zmowa's Hooligan an opportunity to challenge Goblin for the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). At that show, Goblin's championship reign ended after a brutal match.
+
+#### Teaming with Gustav Gryffin
+
+Goblin's devastating loss brought him closer to his old arch-nemesis Gustav, who also desperately wanted revenge on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md), which greatly rose in the power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight, they managed to get a spot in a match for the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title.  
 
 ### Maniac Zone Wrestling (2025-present)
 
@@ -92,6 +96,8 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 From 2023 onwards Goblin took a few international bookings. He made one appearance in Hungarian Passion Pro Wrestling in 2023, and he also worked in a couple of matches in Germany and Sweden. 
 
 Goblin also made history as the first Polish wrestler to make an appearance in Mexico. On September 15th, 2024, he worked a show for a local promotion, Arena Pepe Cisneros.
+
+In February 2026 PpW announced that Goblin would be part of their excurion to Japan in March 2026, headlining [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would team up with Gustav Gryffin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match.
 
 ## In wrestling
 

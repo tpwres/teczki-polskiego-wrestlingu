@@ -10,8 +10,6 @@ city = "Wrocław"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2023-06-25-ptw-4-mystery-plakat.jpg", caption = "Official poster", source = "Official PTW Facebook" }
-2 = { path = "the-mystery-opener.jpg", caption = "Budapest Bastards vs Fox & Storm from the perspective of the audience.", source = "Ville Paananen" }
 +++
 
 The Mystery was held on June 25, 2023 in Wrocław, specifically in [MZW's](@/o/mzw.md) home turf of [Czasoprzestrzeń](@/v/czasoprzestrzen.md). Cryptic promos from [Sinister](@/w/sinister.md) aired all throughout the build-up to this show, and the show's title might be referring to them. The theme of this show was all about mysteries - with the trailers showing Puncher beating down a hooded figure tied to a chair in the middle of the ring, while PTW crew were portrayed as forensic analysts, criminals and policemen.
@@ -23,14 +21,14 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 
 ## Build-up
 
-* With [Justin Joy](@/w/justin-joy.md) leaving PTW, [Axel Fox](@/w/axel-fox.md) was left without a tag team partner. The match was billed as Axel + mystery partner of his choice vs the Budapest Bastards.
+* With [Justin Joy](@/w/justin-joy.md) leaving PTW, [Axel Fox](@/w/jakub.md) was left without a tag team partner. The match was billed as Axel + mystery partner of his choice vs the Budapest Bastards.
 * By 2023, [Robert Star](@/w/robert-star.md) was primarily competing for various Danish organizations: mainly BODYSLAM!, Nordic Elite Wrestling, and Dansk Pro Wrestling. He appeared for PTW sparingly, despite being in the first major show's main event. This would be his final appearance for PTW, although he was still featured on its roster page.
 
 ## Card
 
 {% card() %}
 - - '[Budapest Bastards](@/tt/budapest-bastards.md): [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md)'
-  - '[Axel Fox](@/w/axel-fox.md) & [Jonny Storm](@/w/jonny-storm.md)'
+  - '[Axel Fox](@/w/jakub.md) & [Jonny Storm](@/w/jonny-storm.md)'
   - s: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) #1 Contender'
 - - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
   - '[Boro](@/w/boro.md)'

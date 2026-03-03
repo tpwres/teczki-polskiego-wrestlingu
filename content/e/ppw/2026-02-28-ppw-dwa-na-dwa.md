@@ -1,7 +1,7 @@
 +++
 title = "PpW Dwa Na Dwa"
 template = "event_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["zaklete-rewiry"]
@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to the {{ map_pin(v="Zaklęte Rewiry") }}Zaklęte Rewiry culture and entertainment centre in Wrocław.
+Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held in {{ map_pin(v="Zaklęte Rewiry") }}Zaklęte Rewiry event space in Wrocław.
 
 ## Build-up
 
@@ -20,34 +20,71 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 * The first officially announced match, revealed on 13.01.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Justin Joy](@/w/justin-joy.md). The two previously teamed up at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 * At [PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) earned their _Golden Opportunity_ to be added into the tournament finals.
 * In [Rodzina's](@/tt/rodzina.md) [promo][promocja-rodzinna] recorded for social media, it was confirmed that [Oskar Alexander](@/w/oskar-alexander.md) would be representing Rodzina in the finals, along with a new, not yet revealed family member. As it was [Vic Golden](@/w/vic-golden.md) who advanced to the finals, it seems that the tournament involves the classic [Freebird Rule][freebird-rule] in some form.
-* At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Filip Fux](@/w/filip-fux.md) - still an active [KPW](@/o/kpw.md) wrestler - joined Rodzina, seemingly making him the "new member" to fight for the Tag Team titles.
+* At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Filip Fux](@/w/filip-fux.md), still an active [KPW](@/o/kpw.md) wrestler, joined Rodzina, seemingly making him the "new member" to fight for the Tag Team titles.
 * On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. They also disclosed the stipulation: a Tables Elimination Match with Tornado rules (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.07.2026.
+* Next came a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced on 11.02.2026.
+* Emil Völler, who debuted at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), was announced on 13.02.2026 as the opponent of [Johnny Blade](@/w/johnny-blade.md) in an International Hardcore Match.
+* On 19.02.2026 PpW announced the debut of another active KPW wrestler, [Leon Lato](@/w/leon-lato.md). He will partner with [Antoni Ocean](@/w/antoni-ocean.md) in a Tag Team Match against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md).
+* A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.02.2026.
+* Two weeks later, on 22.02.2026, PpW announced [Tony Sheen](@/w/riverman.md) vs [Mutant](@/w/mutant.md).
+* After the main event of [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), the still-bleeding Johnny Blade delivered [a promo][johnny-postmatch] about how his wrestling journey since 2010 has led him to fulfil many of his childhood dreams, but he never held the main Championship title. He then requested "one more chance" from the current Champion [Olgierd](/w/olgierd.md).
+* Shortly afterwards, PpW released an [instagram story][tez-og], with Johnny looking at the PpW Championship belt laid out on the bar. Olgierd the appeared and took the belt, asking Johnny how he still lived after Olgierd had [almost hanged him](@/e/ppw/2021-06-12-ppw-ledwo-legalne.md) once, and later had thrown him into barbed wire [upside down](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). Olgierd told Johnny that putting him down is one of his biggest dreams, however holding onto and defending the Championship is even more important. But for old times' sake, he'd give some thought to Johnny's proposal and give him an answer in Wrocław.
+* In an [Instagram reel][marco-lifts] released on 27.02, Marco Hammers addressed Ladykiller rather aggressively during his strength exercises, and clarified that they will measure who's the better man, not giving much details as to how.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Axel Fox](@/w/axel-fox.md)'
-  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
-    s: Triple Threat Tag Team Tables Elimination Match
-    nc: upcoming
+{% card() %}
+- - '[Leon Lato](@/w/leon-lato.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[TOMCZAK](@/w/tomczak.md) & [Marcelito](@/w/marcelito.md)'
+  - s: Pre-Show Tag Team Match
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - '[Asara](@/w/asara.md)'
+  - s: Triple Threat Match
+- - '[Mutant](@/w/mutant.md)'
+  - '[Tony Sheen](@/w/riverman.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
-  - nc: upcoming
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - '[Ladykiller](@/w/boro.md)'
-  - nc: upcoming
+  - '["Ladykiller" Boro](@/w/boro.md)'
+  - s: 3 Stages of Man Contest
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Emil Völler'
+  - s: International Hardcore Match
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - g: Johnny demands Olgierd give him a Championship match
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
+  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
+    s: Triple Threat Tag Team Tables Elimination Match
+- credits:
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+* With this event, the ad-hoc team of Gustav and Goblin now has a name: "Bad Trip", complete with merchandise.
+* Sambor was initially billed for the show, but did not make an appearance. Instead, the spot went to TOMCZAK in a surprise debut. The event therefore saw three [KPW](@/o/kpw.md) wrestlers in total, two of them for the first time in PpW.
+* Also present in the crowd was KPW's [Rookie Two](@/w/rookie-two.md).
+* Marcelito, paired with monster heel TOMCZAK, used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. However, after their defeat, Tomczak confronted him and applied a devastating Chokeslam, ending their brief partnership.
+* The 3 Stages of Man stipulation, as declared by Marco in his promo, was a series of short contests between him and Boro, in order to prove who's more manly.
+  - First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping and one-handed push-ups for extra flair.
+  - The second round was a bodybuilding competition, with scores given by three "impartial judges", two of which were picked from the audience, and the third was Michael HT. Both contestants needed oiling up for that, with Boro doing so on his own, and Marco receiving a very professional oiling from Referee Karol. Unfortunately, the judges rated Boro higher, which led to Marco arguing with them, turning his back to the opponent. Boro then proceeded to oil up a rubber glove and performed a surprise Oil Check on Marco, briefly putting him out of action.
+  - Lastly, the final round was a Bodyslam competition, contested like a match that could only be won by bodyslamming the opponent.
+* After his match, Johnny took the microphone and demanded Olgierd came out and let him sign a contract for a [PpW Championship](@/c/ppw-championship.md) match. Olgierd obliged, referenced their last exchange and shared past, and let Johnny know how he was misled and used by Zmowa, seemingly ready to abandon them. Olgierd then gave the contract to Johnny, who immediately signed it. This was met with mockery, with Olgierd stating that the contract needed two signatures and he was unwilling to give his. Dejected but unfazed, Johnny managed to handcuff the champion to the ring ropes, and shoving a pen into the cuffed palm, forced Olgierd's hand to obtain his signature.
+* In the main event, despite Zmowa and Rodzina initially working together, a misplaced guitar smash by Oskar caused them to become hostile towards each other.
+* Goblin and Gustav saved each other from certain defeat twice in the match: first Gustav bodied Goblin to deflect him out of the way towards a table, and later Goblin pushed away another table to prevent a Flapjack on Gustav through it.
+* At one point in the match, Fox managed to avoid his elimination by pulling Referee Seweryn into Gustav's charge, which led to the referee being eliminated instead, and replaced with Sędzia Karol.
+* Rodzina was eliminated through some unexpected teamwork, with Goblin and Fox simultaneously attacking Oskar and Filip with a Green Mist and Asian Mist respectively, and then putting Filip through a table together.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=444695)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-dwa-na-dwa-28-02-2026-02-28-2026-21-36-25) (requires paid subscription)
 * [Facebook post announcing the event][zurueck-nach-breslau]
 
 [zurueck-nach-breslau]: https://www.facebook.com/photo/?fbid=1425053469625041&set=a.499910772139320
@@ -55,3 +92,6 @@ Dwa Na Dwa (_Two by Two_) is an upcoming show by [PpW Ewenement Wrestling](@/o/p
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
 [main-event-fuxem]: https://www.facebook.com/photo?fbid=1476600561136998&set=a.499910772139320
 [promocja-rodzinna]: https://www.instagram.com/p/DTs_vmZignE/
+[johnny-postmatch]: https://www.instagram.com/p/DVEkNuBCk67/
+[tez-og]: https://www.instagram.com/p/DVHKYSbigRJ/
+[marco-lifts]: https://www.instagram.com/p/DVQ8-ogjCLf/

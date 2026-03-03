@@ -48,8 +48,6 @@ After Mistrzowskie Rozdanie 2 Rodzina's feud with the babyfaces continued. Agatk
 
 ## In wrestling
 
-* Finishers:
-  - Back-To-Belly Piledriver (2025-)
 * Tag Teams and stables:
   - Agencja (2024-)
   - [Rodzina](@/tt/rodzina.md) (2025-)
