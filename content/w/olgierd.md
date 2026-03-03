@@ -94,7 +94,11 @@ He vowed to take everything from the ex-Zmowa member in the nearest future. He g
 
 At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Olgierd faced Goblin in a brutal main event and managed to capture the title. This ended Goblin's "Unhinged Era", and returned the most important Championship belt to Zmowa. 
 
-At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Olgierd faced Biesiad Strong in a Legendary Unsactioned Match as his first Championship defense. That match ended with a double count-out after both wrestlers fell off the stage and were unable to compete further. After the show it was revealed that Olgierd suffered a knee injury, sidelining him from competition for some time. Despite that, Olgierd announced that his next Championship defence would take place during PpW's excursion to Japan at [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md). At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) the injured Olgierd was attacked by a furious Biesiad who proceeded to further hurt Olgierd's damaged knee, which led to Mister Z firing Biesiad in retribution.
+At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Olgierd faced Biesiad Strong in a Legendary Unsactioned Match as his first Championship defense. The match ended with a double count-out after both wrestlers fell off the stage and were unable to compete further. After the show it was revealed that Olgierd suffered a knee injury, which sideled him for some time. Despite that, he announced that his next Championship defence would take place during PpW's excursion to Japan at [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md). At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) the injured Olgierd was attacked by a furious Biesiad who proceeded to further hurt Olgierd's damaged knee, which led to Mister Z firing Biesiad in retribution. 
+
+With Biesiad out of the picture, Olgierd foucsed on recovery before his PpW title defence at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo. Following Johnny Blade's post-match declaration at [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), however, Olgierd vowed to grant Blade his first and last opportunity to face him for the PpW Championship after the Japanese tour.
+
+In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) which, thanks to the [Freebird Rule][freebird-rule], also meant that Olgierd became a _de facto_ double champion, despite not participating in any of the qualifying matches for the Tag Team titles.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
@@ -154,6 +158,7 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Marco Hammers](@/w/marco-hammers.md)
+  - PpW Tag Team Championship Tournament (2026)
 
   _Backyard Era Championships_:
   - PpW YouTube Championship (1 time; inaugural)
@@ -170,3 +175,4 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 * [Profile on the restored PpW Wiki](http://ppw-fandom.tpwres.pl/hades)
 
 [zielony-las]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

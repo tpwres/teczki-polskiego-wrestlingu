@@ -61,8 +61,9 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
     s: Triple Threat Tag Team Tables Elimination Match
 - credits:
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Highlights
