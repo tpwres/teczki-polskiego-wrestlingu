@@ -2,6 +2,7 @@
 title = "PTW: More Moné, More Problems"
 template = "event_page.html"
 authors = ["M3n747"]
+aliases = ["/e/ptw/2026-03-14-ptw-nowa-fala"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
