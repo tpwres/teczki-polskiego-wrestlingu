@@ -75,7 +75,7 @@ Despite Zmowa's defeat at Co Za Noc, Marco remained in the stable, often facing 
 
 ### PpW Tag Team Champion
 
-After his Legia Łysych partner Olgierd won PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Marco focused on helping rest of the Zmowa to get their hands on [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). He teamed up with Zmowa's newest member [Jakub "Fox"](@/w/jakub.md) in an attempt to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from getting into title picture. However, they were unsucessful. Nevertheless, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) Zmowa (represented by Jakub and Mister Z) won the final bout to become inaugural PpW Tag Team Champions, and thanks to the [Freebird Rule][freebird-rule] he also got the right to call himself a champion.
+After his partner from Legia Łysych, Olgierd, won the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Marco focused on helping the rest of Zmowa to get their hands on the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). He teamed up with Zmowa's newest member [Jakub "Fox"](@/w/jakub.md) in an attempt to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from getting into the picture, however with no success. Nevertheless, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) Zmowa (represented by Jakub and Mister Z) won the final bout to become the inaugural PpW Tag Team Champions, and thanks to the [Freebird Rule][freebird-rule], he also got the right to call himself a Champion.
 
 ### Maniac Zone Wrestling (2024-present)
 

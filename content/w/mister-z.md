@@ -95,7 +95,7 @@ Later, during a critical moment of the match, he was seemingly about to tag in f
 
 After Fox joined Mister Z's stable, Zmowa managed to hold off their position as the most dominant faction in PpW. Mister Z quickly declared that he and his allies - Marco Hammers and Axel Fox - would represent Zmowa in the pursuit of the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), and would join the newly crowned [PpW Champion](@/c/ppw-championship.md) Olgierd as the dominating force in both solo and Tag Team division of PpW.
 
-His plan concluded sucessfully, as at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) in February 2026 he teamed up with Jakub - formaly known as Axel Fox - to win Triple Threat Tag Team Tables Elimination Match to crown all members of Zmowa as inaugural PpW Tag Team Champions.
+His plan concluded sucessfully, as at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) in February 2026 he teamed up with Jakub - formerly known as Axel Fox - to win the Triple Threat Tag Team Tables Elimination Match to crown all members of Zmowa as the inaugural PpW Tag Team Champions.
 
 ### Dream Factory Wrestling (2017)
 
