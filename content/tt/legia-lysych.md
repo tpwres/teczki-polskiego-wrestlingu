@@ -103,6 +103,7 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current) - Olgierd
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Zmowa](@/tt/zmowa.md) ([Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md))
+  - PpW Tag Team Championship Tournament (2026)
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final) - [Marco Hammers](@/w/marco-hammers.md) (2)
