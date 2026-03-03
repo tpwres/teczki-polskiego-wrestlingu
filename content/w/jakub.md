@@ -110,6 +110,8 @@ After his betrayal of Goblin and introduction into Mister Z's stable, Axel quick
 
 At [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), Fox cut a promo where he discarded his old persona of Axel Fox, and chose to be known as Jakub. This new character previously appeared only internationally, in Germany and Hungary, no longer wearing facepaint or fox-themed gear. Since turning heel in PpW, Jakub/Fox switched to the new gear, but kept the old name - until now.
 
+Finally, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) he teamed up with Mister Z in Tournament Finals to became the inaugural PpW Tag Team Champions.
+
 ### Legacy of Wrestling (2024-present)
 
 On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
@@ -187,6 +189,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - Road to the Title Tournament (2025)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
+  - PpW Tag Team Championship Tournament (2026)
 
 ## Internet presence
 
