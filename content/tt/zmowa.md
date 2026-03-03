@@ -56,7 +56,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
 * [Jakub Linde](@/w/jakub-linde.md) - part-time personal trainer ([Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) - [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md)) 
 * [Rafi](@/w/rafi.md) - part-time associate ([Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) - [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md))
 * [Wiktor Longman](@/w/wiktor-longman.md) - associate ([Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md))
-* [Isnorr](@/w/isnorr.md) - ultraviolent specialist ([Harcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) - [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md)
+* [Isnorr](@/w/isnorr.md) - ultraviolent specialist ([Harcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) - [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md))
 * [Gustav Gryffin](@/w/gustav-gryffin.md) - the face of the company ([Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) - [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md))
 
 ## In wrestling
