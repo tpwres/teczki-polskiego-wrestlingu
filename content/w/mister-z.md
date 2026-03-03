@@ -95,6 +95,8 @@ Later, during a critical moment of the match, he was seemingly about to tag in f
 
 After Fox joined Mister Z's stable, Zmowa managed to hold off their position as the most dominant faction in PpW. Mister Z quickly declared that he and his allies - Marco Hammers and Axel Fox - would represent Zmowa in the pursuit of the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), and would join the newly crowned [PpW Champion](@/c/ppw-championship.md) Olgierd as the dominating force in both solo and Tag Team division of PpW.
 
+His plan concluded sucessfully, as at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) in February 2026 he teamed up with Jakub - formaly known as Axel Fox - to win Triple Threat Tag Team Tables Elimination Match to crown all members of Zmowa as inaugural PpW Tag Team Champions.
+
 ### Dream Factory Wrestling (2017)
 
 In September and December 2017 Mister Z - under his "Cade Bruce" alias - made appearances at two shows organised by [Dream Factory Wrestling](@/o/dfw.md). He lost to [Prince Victor](@/w/vic-golden.md) and in a [DFW Championship](@/c/dfw-championship.md) #1 Contender Battle Royale at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). He also lost to [Corin Mear](@/w/corin-mear.md) at [DFW Dream More And Never Stop](@/e/dfw/2017-12-09-dfw-dream-more-and-never-stop.md).
@@ -159,6 +161,7 @@ In August 2023 Mister Z made a singular international appearance during Passion 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; inaugural)
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
+  - PpW Tag Team Championship Tournament (2026)
 
    _Backyard Era Championships_:
   - CMLL Championship (1 time)
