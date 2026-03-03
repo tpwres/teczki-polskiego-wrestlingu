@@ -73,6 +73,10 @@ During the non-canon show [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-1
 
 Despite Zmowa's defeat at Co Za Noc, Marco remained in the stable, often facing PpW's babyfaces and helping out both Mister Z and Olgierd achieve their goals. Despite that he grew more and more delusional, trying to portray himself as a hardcore wrestler and a daredevil high-flyer (despite having a crippling fear of heights). At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he entered the [PpW Championship](@/c/ppw-championship.md) #1 Contender Ladder Match with an entrance and moveset inspired by Jeff Hardy. He was unsucessful in that match, but in a post-match interview he confessed to [Joker](@/w/joker.md) that he feels scared of himself due to the fact that during the match he performed a shocking Swanton Bomb onto [Sambor](@/w/sambor.md), effecitvely murdering his opponent (in his own mind). This angle led to Marco adopting the nickname "Marco Hardy" as a tribute to his idol. Occasionally PpW honors that nickname, though in a tongue-in-cheek manner.
 
+### PpW Tag Team Champion
+
+After his Legia Łysych partner Olgierd won PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Marco focused on helping rest of the Zmowa to get their hands on [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). He teamed up with Zmowa's newest member [Jakub "Fox"](@/w/jakub.md) in an attempt to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from getting into title picture. However, they were unsucessful. Nevertheless, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) Zmowa (represented by Jakub and Mister Z) won the final bout to become inaugural PpW Tag Team Champions, and thanks to the [Freebird Rule][freebird-rule] he also got the right to call himself a champion.
+
 ### Maniac Zone Wrestling (2024-present)
 
 In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md). At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych took on [Syriusz Dziedzic](@/w/dziedzic.md) and an MZW veteran [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a victorious Tag Team Match.
@@ -143,3 +147,4 @@ Marco started taking international bookings in 2022. That year he made a few app
 * [Interview with "Marco Hardy"](https://www.instagram.com/reel/DMYA9Z0oWrW/)
 
 [legia-warszawa]: https://en.wikipedia.org/wiki/Legia_Warsaw
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
