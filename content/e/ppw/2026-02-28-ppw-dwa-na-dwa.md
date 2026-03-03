@@ -8,7 +8,7 @@ venue=["zaklete-rewiry"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
