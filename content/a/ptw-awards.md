@@ -284,6 +284,13 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 5. Flamingo - 8 votes
 6. [Serg Sullivan](@/w/serg-sullivan.md) - 7 votes
 
+##### Newcomer Star of the Year
+
+1. [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) - 187 votes
+2. [Sigma Boy xD](@/w/sigma-boy.md) - 162 votes
+3. ["The Voice" Daniel Razor](@/w/daniel-razor.md) - 63 votes
+4. [CJ Klakson](@/w/cj-klakson.md) - 41 votes
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)

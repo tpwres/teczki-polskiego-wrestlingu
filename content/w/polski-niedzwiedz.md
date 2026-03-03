@@ -40,10 +40,15 @@ In 2025 Polski Niedźwiedź made a one-off appearance in Italian BestYa Slam fed
 
 * Finishers:
   - Falling Powerslam (2025-)
-    
 * Tag Teams and stables:
   - Synowie Lasu (2026-)
- 
+
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Newcomer of the Year (2025)
+
 ## Internet presence
 
 * [Polish Bear's Instagram](https://www.instagram.com/bear_ptw)
