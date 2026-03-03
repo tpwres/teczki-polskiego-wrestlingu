@@ -60,13 +60,13 @@ Legia was part of "Team Zmowa" in an Ustawka Match at [PpW Co Za Noc](@/e/ppw/20
 
 #### Gaining importance
 
-Despite that setback, Legia committed to Zmowa's efforts, becoming a valuable asset of Mister Z's stable. Throughout 2025 they continued to feud with the stable's opponents, including teams like [GobLis](@/tt/goblis.md) and The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md). During that time, both Olgierd and Marco became more and more violent, disillusioned and important in Zmowa's ranks. After Gustav's loss of the [PpW Championship](@/c/ppw-championship.md) it was Olgierd, who seemingly became Z's top guy, especially after earning himself a spot in a contender match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). After Gustav's betrayal of Zmowa it was Olgierd who become official running dog of the group, chasing after PpW Championship and vendetta on the traitor.
+Despite that setback, Legia committed to Zmowa's efforts, becoming a valuable asset of Mister Z's stable. Throughout 2025 they continued to feud with the stable's opponents, including teams like [GobLis](@/tt/goblis.md) and The Hardcores ([Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md)). During that time, both Olgierd and Marco became more and more violent and disillusioned, as they rose in Zmowa's ranks. After Gustav's loss of the [PpW Championship](@/c/ppw-championship.md), it was Olgierd who seemingly became Zet's top guy, especially after earning himself a spot in a contender match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). After Gustav's betrayal of Zmowa, Olgierd become the official running dog of the group, chasing after the PpW Championship and the traitor.
 
 #### Championship reigns
 
-At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) Olgierd finally defeated [Goblin](@/w/goblin.md) to become PpW Champion for the first time in his career. Despite an injury he suffered at [Najlepsza Gala w Mieście: Hardcore Edition](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) in a match against Biesiad Strong, he continued his reign preventing any Polish wrestling from competing for it until it becomes a World Championship after his tour in Japan.
+At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) Olgierd finally defeated [Goblin](@/w/goblin.md) to become the PpW Champion for the first time in his career. Despite an injury he suffered at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) in a match against Biesiad Strong, he continued his reign preventing any Polish wrestler from competing for it, until the title becomes a World Championship after the [shows](@/a/ppw-polska-gurom.md) in [Japan](@/a/ppw-hardcore-friday-the-13th-tokyo).
 
-In the meantime Marco - along with fellow Zmowa members - Mister Z and [Jakub "Fox"](@/w/jakub.md) - competed in a Tag Team division to secure [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). This concluded at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where Zmowa (represented by Jakub and Mister Z) claimed the titles for all of it members thanks to [Freebird Rule][freebird-rule].
+In the meantime, Marco - along with fellow Zmowa members, Mister Z and [Jakub "Fox"](@/w/jakub.md) - competed in the Tag Team division to secure the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). This concluded at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), where Zmowa (represented by Jakub and Mister Z) claimed the titles for all of their members thanks to the [Freebird Rule][freebird-rule].
 
 ### Legacy of Wrestling (2024-present)
 
@@ -104,7 +104,6 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current) - Olgierd
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Zmowa](@/tt/zmowa.md) ([Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md))
   - PpW Tag Team Championship Tournament (2026)
-
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final) - [Marco Hammers](@/w/marco-hammers.md) (2)
 
