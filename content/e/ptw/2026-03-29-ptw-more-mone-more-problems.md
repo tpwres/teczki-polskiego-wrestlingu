@@ -28,6 +28,9 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - '???'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - '???'
+    nc: upcoming
 {% end %}
 
 ### Recap
