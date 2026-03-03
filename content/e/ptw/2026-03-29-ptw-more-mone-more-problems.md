@@ -30,7 +30,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
     nc: upcoming
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '???'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Recap
