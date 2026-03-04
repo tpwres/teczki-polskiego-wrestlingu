@@ -50,7 +50,6 @@ During [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) he mad
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-
   _Backyard Era Championships_:
   - PpW Championship (1 time)
 

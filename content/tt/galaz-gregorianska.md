@@ -23,14 +23,17 @@ At [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md) [Greg](@/w/greg.md) held a mar
 Two show later, at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), Greg faced [Ron Corvus](@/w/ron-corvus.md) in their third hardcore match, but lost to the former KPW Champion. Unexpectedly, despite losing, Greg showed no hostility towards Corvus, instead shaking his hand and even hugging him. This proved the final straw for Rosetti, who ran into the ring and launched a vicious attack on Greg. A short while later Chemik and Lesak arrived and chased Rosetti away, only to turn on their former leader. After hitting him with their finishers, they cut a short promo berating him as a failure and stating they don't need him any more. This marked the end of the group.
 
 ## Members
+
 * [Greg](@/w/greg.md) (leader)
 * [Rosetti](@/w/rosetti.md)
 * [Chemik](@/w/chemik.md)
 * [Eryk Lesak](@/w/eryk-lesak.md)
 
 ## Championships and accomplishments
-* [KPW Championship](@/c/kpw-championship.md) (1 time) - [Greg](@/w/greg.md)
-* [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (2 times) - [Rosetti](@/w/rosetti.md) (1), [Chemik](@/w/chemik.md) (1)
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Championship](@/c/kpw-championship.md) (1 time) - [Greg](@/w/greg.md)
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (2 times) - [Rosetti](@/w/rosetti.md) (1), [Chemik](@/w/chemik.md) (1)
 
 [inwazja]: https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine
 [rosetti-tlumaczy]: https://youtu.be/kAp3we-kg-0&t=2263

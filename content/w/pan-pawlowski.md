@@ -92,7 +92,7 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 ## In wrestling
 
 * Tag Teams and stables:
-  - [Nietykalni](@/tt/nietykalni.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-2026)
 * Entrance music:
   - "Throne" by Bring Me the Horizon
     {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>

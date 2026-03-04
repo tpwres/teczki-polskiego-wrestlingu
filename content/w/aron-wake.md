@@ -82,9 +82,9 @@ At [LoW vol.2](@/e/low/2025-04-06-low-2.md) Aron took part in Fatal Five-Way Mat
 
 ## Championships and accomplishments
 
- * Maniac Zone Wrestling:
-   - Rookie's Battle Royal (2019)
-   - Project Basement Trophy (2021)
+* Maniac Zone Wrestling:
+  - Rookie's Battle Royal (2019)
+  - [Project Basement](@/e/project-basement.md) Trophy (2021)
 
 ## Internet presence
 

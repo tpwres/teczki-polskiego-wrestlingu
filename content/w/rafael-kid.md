@@ -57,7 +57,7 @@ In 2019 Rafael made a one-off appearance for Next Step Wrestling in Germany, whe
     {{ music(yt='9jK-NcRmVcw')}}
     {{ music(spot='3MrRksHupTVEQ7YbA0FsZK')}}
     {{ music(apple='1635636172?i=1635638269')}}
-  - "You're The Best" by Joe "Bean" Esposito
+  - "You're the Best" by Joe "Bean" Esposito
     {{ org_badge(orgs=['mzw', 'ppw']) }} (2017-2022) <br>
     {{ music(yt='p44G0U4sLCE')}}
     {{ music(spot='4zXa17K83Pp6N2yXdVc2sv')}}
@@ -67,7 +67,6 @@ In 2019 Rafael made a one-off appearance for Next Step Wrestling in Germany, whe
 
 * [Dream Factory Wrestling](@/o/dfw.md):
   - [DFW Championship](@/c/dfw-championship.md) (1 time)
-  
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (1 time)
   - MZW Championship Tournament (2021)
