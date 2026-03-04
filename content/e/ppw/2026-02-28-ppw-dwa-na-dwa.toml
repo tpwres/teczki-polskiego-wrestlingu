@@ -50,12 +50,29 @@
 701 = { path = "podpisz-ten-papier-ziomek.webp", caption = "Johnny Blade signs Olgierd's Championship contract.", source = "M3n747" }
 702 = { path = "samopodpisujace-sie-dokumenty-xxi-wieku.webp", caption = "[Johnny Blade](@/w/johnny-blade.md) signs the contract with Olgierd's hand.", source = "M3n747" }
 
-801 = { path = ".webp", caption = ".", source = "M3n747" }
-802 = { path = ".webp", caption = ".", source = "M3n747" }
-803 = { path = ".webp", caption = ".", source = "M3n747" }
-804 = { path = ".webp", caption = ".", source = "M3n747" }
-805 = { path = ".webp", caption = ".", source = "M3n747" }
-806 = { path = ".webp", caption = ".", source = "M3n747" }
+801 = { path = "real-wood-go-cry-me-a-river.webp", caption = "One of the tables prepared for the main event.", source = "M3n747" }
+802 = { path = "gitarra-bez-siarry.webp", caption = "A guitar. No strings, though.", source = "M3n747" }
+803 = { path = "dwa-mistrzowskie-i-jeden-skorzany.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) presents the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) belts.", source = "M3n747" }
+804 = { path = "kradziej-stołow.webp", caption = "Goblin removes a table, foiling [Oskar Alexander](@/w/oskar-alexander.md) and Filip Fux's plan to put [Gustav Gryffin](@/w/gustav-gryffin.md) through it (with some help by Mister Z and Jakub).", source = "M3n747" }
+805 = { path = "cos-mi-mowi-ze-jakub-chyba-nie-lubi-goblina.webp", caption = "Jakub tortures [Goblin](@/w/goblin.md).", source = "M3n747" }
+806 = { path = "a-swing.webp", caption = "Oskar Alexander swings a guitar at Goblin…", source = "M3n747" }
+807 = { path = "and-a-hit.webp", caption = "…but hits Jakub instead.", source = "M3n747" }
+
+808 = { path = ".webp", caption = ".", source = "M3n747" }
+
+809 = { path = ".webp", caption = ".", source = "M3n747" }
+810 = { path = ".webp", caption = ".", source = "M3n747" }
+811 = { path = ".webp", caption = ".", source = "M3n747" }
+812 = { path = ".webp", caption = ".", source = "M3n747" }
+813 = { path = ".webp", caption = ".", source = "M3n747" }
+814 = { path = ".webp", caption = ".", source = "M3n747" }
+815 = { path = ".webp", caption = ".", source = "M3n747" }
+816 = { path = ".webp", caption = ".", source = "M3n747" }
+817 = { path = ".webp", caption = ".", source = "M3n747" }
+818 = { path = ".webp", caption = ".", source = "M3n747" }
+819 = { path = ".webp", caption = ".", source = "M3n747" }
+820 = { path = ".webp", caption = ".", source = "M3n747" }
+821 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 
