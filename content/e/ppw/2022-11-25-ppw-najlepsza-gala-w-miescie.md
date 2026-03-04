@@ -16,20 +16,23 @@ The event name, which translates to "The Best Show in Town", is a reference to t
 ## Card
 
 {% card() %}
-- ["[Isnorr](@/w/isnorr.md)", "[Bill Feager](@/w/feager.md) w/ Ms. XXX"]
-- ["[Kapitan Bazooka](@/w/kapitan-bazooka.md)", "[Adam Wong](@/w/adam-wong.md)"]
-- ["Feyyaz Aguila", "Joshua Amaru"]
-- - "[Mister Z](@/w/mister-z.md) & [Ricardo Diesel](@/w/ricardo-diesel.md)"
-  - "[Madman Charlie](@/w/madman-charlie.md) & [Tony Sk1n](@/w/tony-sk1n.md) w/ [Osamu](@/w/osamu.md)"
-  - s: "Tag Team Match"
-- - "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)"
-  - "[Johnny Blade](@/w/johnny-blade.md)"
-  - s: "Casket Match"
-    c: "[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)"
-- - "[Biesiad Strong](@/w/biesiad.md)(c)"
-  - "[Steve Kuningas](@/w/steve-kuningas.md)"
-  - s: "Ladder Match"
-    c: "[PpW Championship](@/c/ppw-championship.md)"
+- - '[Isnorr](@/w/isnorr.md)'
+  - '[Bill Feager](@/w/feager.md) w/ Ms. XXX'
+- - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
+  - '[Adam Wong](@/w/adam-wong.md)'
+- - 'Feyyaz Aguila'
+  - 'Joshua Amaru'
+- - '[Mister Z](@/w/mister-z.md) & [Ricardo Diesel](@/w/ricardo-diesel.md)'
+  - '[Madman Charlie](@/w/madman-charlie.md) & [Tony Sk1n](@/w/tony-sk1n.md) w/ [Osamu](@/w/osamu.md)'
+  - s: 'Tag Team Match'
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)"
+  - '[Johnny Blade](@/w/johnny-blade.md)"
+  - s: 'Casket Match'
+    c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)(c)'
+  - '[Steve Kuningas](@/w/steve-kuningas.md)'
+  - s: 'Ladder Match'
+    c: '[PpW Championship](@/c/ppw-championship.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Gocha](@/w/sedzia-borys.md)'
