@@ -57,30 +57,12 @@
 805 = { path = "cos-mi-mowi-ze-jakub-chyba-nie-lubi-goblina.webp", caption = "Jakub tortures [Goblin](@/w/goblin.md).", source = "M3n747" }
 806 = { path = "a-swing.webp", caption = "Oskar Alexander swings a guitar at Goblin…", source = "M3n747" }
 807 = { path = "and-a-hit.webp", caption = "…but hits Jakub instead.", source = "M3n747" }
-
-808 = { path = ".webp", caption = ".", source = "M3n747" }
-
-809 = { path = ".webp", caption = ".", source = "M3n747" }
-810 = { path = ".webp", caption = ".", source = "M3n747" }
-811 = { path = ".webp", caption = ".", source = "M3n747" }
-812 = { path = ".webp", caption = ".", source = "M3n747" }
-813 = { path = ".webp", caption = ".", source = "M3n747" }
-814 = { path = ".webp", caption = ".", source = "M3n747" }
-815 = { path = ".webp", caption = ".", source = "M3n747" }
-816 = { path = ".webp", caption = ".", source = "M3n747" }
-817 = { path = ".webp", caption = ".", source = "M3n747" }
-818 = { path = ".webp", caption = ".", source = "M3n747" }
-819 = { path = ".webp", caption = ".", source = "M3n747" }
-820 = { path = ".webp", caption = ".", source = "M3n747" }
-821 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
-
-
-
+808 = { path = "bad-trip-good-merch.webp", caption = "Goblin rocking a Bad Trip T-shirt (available at the merch stand).", source = "M3n747" }
+809 = { path = "poleze-tu-sobie-odpoczne-w-niebo-popatrze.webp", caption = "Every participant of the match out cold.", source = "M3n747" }
+810 = { path = "widac-ze-jeszcze-zielony.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md), held by Gustav Gryffin, after getting hit with Green Mist to the face by Goblin.", source = "M3n747" }
+811 = { path = "wrog-mojego-fuksa-jest-moim-goblinem-czy-jakos-tak.webp", caption = "[Goblin](@/w/goblin.md) and [Jakub](@/w/jakub.md) team up to put Filip Fux through a table, much to [Mister Z's](@/w/mister-z.md) disbelief.", source = "M3n747" }
+812 = { path = "o-cholera-wypadlo.webp", caption = "Jakub ducks out of the way of Gustav Gryffin's chair, which flies over Mister Z and heads for [Goblin](@/w/goblin.md).", source = "M3n747" }
+813 = { path = "no-i-zet-bombki-strzelil.webp", caption = "Mister Z miliseconds from hitting Goblin through the table. To the left, [Gustav Gryffin](@/w/gustav-gryffin.md) reaches in vain towards his partner, while [Sędzia Karol Górski](@/w/madman-charlie.md) and Jakub display varying degrees of excitement.", source = "M3n747" }
+814 = { path = "no-i-teraz-beda-sie-wozic-jak-ostatnie-buce.webp", caption = "[Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md) with the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts, freshly awarded to them by [Sędzia Karol Górski](@/w/madman-charlie.md).", source = "M3n747" }
 
 901 = { path = "zajete-teriery.webp", caption = "Outside view of the venue after the show.", source = "M3n747" }
