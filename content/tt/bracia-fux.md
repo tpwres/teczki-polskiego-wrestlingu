@@ -58,4 +58,4 @@ In addition to working in Poland, the Fux Brothers made an appearance in 2023 fo
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) 
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time)

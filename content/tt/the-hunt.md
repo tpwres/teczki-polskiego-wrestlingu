@@ -25,4 +25,6 @@ Not long after Arena 16, however, the COVID-19 restrictions came into effect for
 - [Primate](@/w/primate.md)
 
 ## Championships and accomplishments
-* [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time)
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time)

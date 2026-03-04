@@ -88,7 +88,6 @@ From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md
 
 * [Dream Factory Wrestling](@/o/dfw.md):
   - [DFW Championship](@/c/dfw-championship.md) (1 time; final)
-
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time)
 

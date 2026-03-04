@@ -94,7 +94,6 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (2 times)
   - Big Rumble (2018)
-
 * [Polish Xtreme Wrestling](@/o/pxw.md):
   - ECW Championship (2 times)
 

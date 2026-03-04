@@ -65,7 +65,6 @@ At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) Hans defeated Red Scorpion in 
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Veit Müller](@/w/veit-mueller.md)
   - Magnificent Seven Contract Ladder Match (2024)
 
-
 ## Internet presence
 
 * [Hans's Instagram](https://www.instagram.com/hansschultepro/)

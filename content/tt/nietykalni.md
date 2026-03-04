@@ -43,10 +43,12 @@ At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by maki
 
 ### Current
 
-* [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - leader, PTW owner
 * [Dawid "Puncher" Seńko](@/w/puncher.md) - stable's prizefighter
 * [Royal Rebels](@/tt/royal-rebels.md) - a Tag Team of [Alex Brave](@/w/alex-brave.md) [Vincent Caravaggio](@/w/vincent-caravaggio.md)
 * ["Starboy" Nano Lopez](@/w/nano-lopez.md) - turncoat
+
+### Former
+* [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - leader, PTW owner
 
 ### Associates
 
