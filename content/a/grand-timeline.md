@@ -121,7 +121,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2017
 
-* KPW moves their shows to [Gdynia Sports Center](@/v/v/gdynskie-centrum-sportu.md), and holds a show as part of SzlamFest, a pop-culture and comics convention.
+* KPW moves their shows to [Gdynia Sports Center](@/v/gdynskie-centrum-sportu.md), and holds a show as part of SzlamFest, a pop-culture and comics convention.
 * DFW wrestler [Revage](@/w/rafael-kid.md) trains with MZW and appears on their [December show](@/e/mzw/2017-12-02-mzw-freak-show.md). That same show also features the debuting [Amisz](@/w/jakub.md), [Kuba Kamiński](@/w/jacob-crane.md) and [Bartosz Borowsky](@/w/boro.md).
 * The Warsaw-area backyard, PpW, manages to build an actual wrestling ring, though undersized. Rob Scaffold came up with the design and a local welding workshop assembled the metal structure.
 
