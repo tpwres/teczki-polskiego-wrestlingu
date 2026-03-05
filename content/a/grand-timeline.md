@@ -186,6 +186,6 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * PpW and KPW hold [their](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) [shows](@/e/kpw/2026-01-16-kpw-arena-31.md) on the same day, in the same city (700&nbsp;m from each other), and at partly conflicting times (KPW at 6&nbsp;PM and PpW at 8&nbsp;PM) - both to capitalise on the upcoming WWE event.
 * [WWE](@/o/wwe.md) hold their first [show](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md) in Poland since [2015](@/e/wwe/2015-04-15-wwe-live.md).
-* [Filip Fux](@/w/filip-fux.md) debuts for PpW at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore), marking the first time an active KPW wrestler was allowed to work for the Warsaw-based promotion. He is soon followed by [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa).
+* [Filip Fux](@/w/filip-fux.md) debuts for PpW at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), marking the first time an active KPW wrestler was allowed to work for the Warsaw-based promotion. He is soon followed by [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 * PpW holds [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo, in cooperation with Big Japan Pro Wrestling and other local promotions.
 {% end %}
