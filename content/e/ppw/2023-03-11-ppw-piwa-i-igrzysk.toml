@@ -1,0 +1,8 @@
+01 = { path = "2023-03-11-ppw-piwa-i-igrzysk-plakat.jpg", caption = "Official poster, showing [Biesiad Strong](@/w/biesiad.md) in front of the Coliseum, wearing a Praetorian Guard helmet and cape, with the [PpW Championship](@/c/ppw-championship.md) belt around his waist, holding a bottle of beer. Above him are the five Olympic rings, made out of barbed wire, with the PpW logo inside.", source = "Official PpW Facebook" }
+02 = { path = "steve-kuningas-vs-isnorr.webp", caption = "Image announcing [Steve Kuningas](@/w/steve-kuningas.md) vs [Isnorr](@/w/isnorr.md).", source = "Official PpW Facebook" }
+03 = { path = "tony-sk1n-vs-ricardo-diesel.webp", caption = "Image announcing [Tony Sk1n](@/w/tony-sk1n.md) vs [Ricardo Diesel](@/w/ricardo-diesel.md).", source = "Official PpW Facebook" }
+04 = { path = "stanislaw-van-dobroniak-vs-biesiad-strong.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Biesiad Strong](@/w/biesiad.md).", source = "Official PpW Facebook" }
+05 = { path = "aytac-bahar-vs-rafael-kid.webp", caption = "Image announcing Aytac Bahar vs Rafael Kid.", source = "Official PpW Facebook" }
+06 = { path = "feyyaz-aguila-vs-mister-z.webp", caption = "Image announcing Feyyaz Aguila vs [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
+07 = { path = "turniej-o-pas.jpg", caption = "Tournament table.", source = "Official PpW Facebook" }
+08 = { path = "tlumy-na-waldorffa.webp", caption = "Inside view of the venue.", source = "Official PpW Facebook" }
