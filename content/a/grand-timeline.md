@@ -121,7 +121,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2017
 
-* KPW moves their shows to [Gdynia Sports Center](@/v/gdynskie-centrum-sportu.md), and holds a show as part of SzlamFest, a pop-culture and comics convention.
+* KPW moves their shows to [Gdynia Sports Center](@/v/gdynskie-centrum-sportu.md), and holds [a show](@/e/kpw/2017-02-04-kpw-szlamfest.md) as part of SzlamFest, a pop-culture and comics convention.
 * DFW wrestler [Revage](@/w/rafael-kid.md) trains with MZW and appears on their [December show](@/e/mzw/2017-12-02-mzw-freak-show.md). That same show also features the debuting [Amisz](@/w/jakub.md), [Kuba Kamiński](@/w/jacob-crane.md) and [Bartosz Borowsky](@/w/boro.md).
 * The Warsaw-area backyard, PpW, manages to build an actual wrestling ring, though undersized. Rob Scaffold came up with the design and a local welding workshop assembled the metal structure.
 
@@ -137,7 +137,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2020
 
-* The backyard group from Warsaw, now known as [PpW Ewenement Wrestling](@/o/ppw.md), goes pro and holds their first show, [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), donating all gate profits to a dog shelters in the area.
+* The backyard group from Warsaw, now known as [PpW Ewenement](@/o/ppw.md), goes pro and holds their first show, [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), donating all gate profits to a dog shelters in the area.
 * COVID-19 hits, lockdown ensues, and **all wrestling is cancelled** for more than a year.
 * Pawłowski announces a new organization, entices many wrestlers to join it, draining the rosters of MZW, KPW and even MCW. Due to lockdowns, however, their first show is postponed.
 
@@ -150,7 +150,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2022
 
-* KPW finds a permanent venue in [Nowy Harem](@/v/atlantic-nh-gdynia.md).
+* KPW finds a permanent venue in [Nowy Harem](@/v/atlantic-nh-gdynia.md), where they held three shows back in 2017.
 * KPW is [invited to Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), Poland's biggest fan convention. The show is successful, and wrestling will become a recurring staple of the event.
 * Not to be outdone, PTW becomes a [part of Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
 * PTW holds their Underground series of shows regularly almost every month, giving fans more wrestling than ever before. From the [fourth show](@/e/ptw/2022-04-24-ptw-underground-4.md) onwards, they are streamed live on FITE and YouTube.
