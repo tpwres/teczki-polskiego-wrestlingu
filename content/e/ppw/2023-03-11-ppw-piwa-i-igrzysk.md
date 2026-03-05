@@ -8,10 +8,7 @@ venue=["waldorffa25"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
-[extra.gallery.1]
-path = "2023-03-11-ppw-piwa-i-igrzysk-plakat.jpg"
-caption = "Official poster, showing [Biesiad Strong](@/w/biesiad.md) in front of the Coliseum, wearing a Praetorian Guard helmet and cape, with the [PpW Championship](@/c/ppw-championship.md) belt around his waist, holding a bottle of beer. Above him are the five Olympic rings, made out of barbed wire, with the PpW logo inside."
-source = "Official PpW Facebook"
+[extra.gallery]
 +++
 
 Piwa I Igrzysk (_Beer and Games_) was an event that took place at [Waldorffa 25](@/v/waldorffa25.md) on March 11 2023.
@@ -23,12 +20,16 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 {% card() %}
 - - '[Mister Z](@/w/mister-z.md)'
   - 'Feyyaz Aguila'
+  - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contendership Quarter Final Match'
 - - 'Aytac Bahar'
   - '[Adam Wong](@/w/adam-wong.md)'
+  - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contendership Quarter Final Match'
 - - '[Bill Feager](@/w/feager.md)'
   - 'Joshua Amaru'
+  - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contendership Quarter Final Match'
 - - '[Steve Kuningas](@/w/steve-kuningas.md)'
   - '[Isnorr](@/w/isnorr.md)'
+  - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contendership Quarter Final Match'
 - - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
   - s: 'Loser Leaves PpW Match'
@@ -44,6 +45,8 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
 {% end %}
+
+Attendance: 600
 
 ### Recap
 
