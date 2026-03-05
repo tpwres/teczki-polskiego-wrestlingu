@@ -61,6 +61,8 @@ In addition to his work in Poland, Spartan also made a few appearances on the Hu
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Championship](@/c/ptw-championship.md) (1 time; current)
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Finisher of the Year (2025)
 
 ## References
 
