@@ -44,11 +44,11 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
   - s: Triple Threat Match
 - - '[Mutant](@/w/mutant.md)'
   - '[Tony Sheen](@/w/riverman.md)'
-- - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Justin Joy](@/w/justin-joy.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - '["Ladykiller" Boro](@/w/boro.md)'
   - s: 3 Stages of Man Contest
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Justin Joy](@/w/justin-joy.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Emil Völler'
   - s: International Hardcore Match
