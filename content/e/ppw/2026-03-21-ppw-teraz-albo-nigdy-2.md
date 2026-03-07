@@ -24,6 +24,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 * He was followed by [Agentka Agatka](@/w/agentka-agatka.md) on 1.03.2026.
 * The next announcement was of [Filip Fux](@/w/filip-fux.md), on 4.02.2026.
 * The first defence of the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) was announced on 6.03.2026. In this match, [Rodzina](@/tt/rodzina.md) represented by [Gabriel Queen](@/w/gabriel-queen.md) & [Agentka Agatka](@/w/agentka-agatka.md) will take on [Mister Z](@/w/mister-z.md) and [Marco Hammers](@/w/marco-hammers.md) from [Zmowa](@/tt/zmowa.md).
+* [Mutant](@/w/mutant.md) was announced next for the Battle Royal, on 7.03.2026.
 
 ## Predicted card
 
@@ -45,7 +46,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
-  - '???'
+  - '[Mutant](@/w/mutant.md)'
   - '???'
   - '???'
   - '???'
