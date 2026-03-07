@@ -22,7 +22,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 * On 24.02.2026 PpW published a [video promo][goblin-ma-dosc] of [Goblin](@/w/goblin.md) challenging [Jakub](@/w/jakub.md) to a Mam Dość (_I've Had Enough_) Match. Goblin, angry with the way [Axel Fox](@/w/jakub.md) sneakily one-upped him at [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), called his former tag team partner to a fight intended to prove who can take more punishment and "whose vision is true". The match was confirmed on the next day.
 * The first worker confirmed for the Battle Royal was [Robert Star](@/w/robert-star.md), announced on 26.02.2026.
 * He was followed by [Agentka Agatka](@/w/agentka-agatka.md) on 1.03.2026.
-* The next announcement was of [Filip Fux](@/w/filip-fux.md), on 4.02.2026.
+* The next announcement was of [Filip Fux](@/w/filip-fux.md), on 4.03.2026.
 
 ## Predicted card
 
