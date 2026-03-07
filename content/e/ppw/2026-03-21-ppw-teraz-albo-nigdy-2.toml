@@ -6,3 +6,5 @@
 006 = { path = "robert-star.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md).", source = "Official PpW Facebook" }
 007 = { path = "agatka.webp", caption = "Image announcing [Agentka Agatka](@/w/agentka-agatka.md).", source = "Official PpW Facebook" }
 008 = { path = "filip-fux.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md).", source = "Official PpW Facebook" }
+009 = { path = "zmowa-vs-rodzina.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) & [Mister Z](@/w/mister-z.md) vs [Gabriel Queen](@/w/gabriel-queen.md) & [Agentka Agatka](@/w/agentka-agatka.md).", source = "Official PpW Facebook" }
+010 = { path = "mutant.webp", caption = "Image announcing [Mutant](@/w/mutant.md).", source = "Official PpW Facebook" }
