@@ -272,7 +272,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 - - 'Olgierd (c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Legendary Unsanctioned Match
-    en: '[Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
+    en: '[PpW Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16
 - - 'Olgierd (c)'
   - 'Biesiad Strong'
@@ -280,6 +280,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[Mam Talent Season 17 Episode 1](https://www.facebook.com/reel/865556049810905)'
     ed: '2026-02-21'
     n: Broadcast date; show presumably taped prior to Olgierd's injury.
+- - 'Olgierd (c)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - s: Barbed Wire Mayhem Match
+    en: '[PpW Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md)'
+    nc: upcoming
 {% end %}
 
 Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md), against Dale Patricks.
