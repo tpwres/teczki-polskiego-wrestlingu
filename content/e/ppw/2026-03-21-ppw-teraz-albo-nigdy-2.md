@@ -46,7 +46,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
     s: Tag Team Match
     nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Olgierd](@/w/olgierd.md) (c)'
+  - '[Olgierd](@/w/olgierd.md)(c)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Barbed Wire Mayhem Match
     nc: upcoming
