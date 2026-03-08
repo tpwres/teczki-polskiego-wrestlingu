@@ -8,6 +8,7 @@ toclevel=2
 [extra.gallery]
 1 = { path = "kpw-belt-closeup.jpg", caption = 'Close-up of the KPW Championship.', source = "Dawid Kucharski, MyWrestling.com.pl" }
 2 = { path = "kpw-championship-belt.jpg", caption = '[Kinga Różańska](@/w/kinga-miotke.md) presents the vacated KPW Championship belt at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).', source = "M3n747" }
+3 = { path = "red-scorpion-vs-scotty-2-hotty.webp", caption = 'The cancelled match between [Red Scorpion](@/w/red-scorpion.md) and Scotty 2 Hotty.', source = "M3n747" }
 +++
 
 The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md). It was introduced in 2016 and the first champion - [Piękny Kawaler](@/w/piekny-kawaler.md) - was crowned at the inaugural [Godzina Zero](e/kpw/2016-08-13-kpw-godzina-zero-2016.md).
@@ -208,7 +209,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) (where the title wasn't
 **TOTAL:** 386 days.
 
 Red Scorpion also defended the title outside of Poland: in [October 2023](https://www.cagematch.net/?id=1&nr=377603) against James Mason, and in [March 2024](https://www.cagematch.net/?id=1&nr=391319) against Liam Slater.
-Both defenses took place during events held by Bologna Wrestling Team.
+Both defenses took place during events held by Bologna Wrestling Team. He was also booked to defend the belt against Scotty 2 Hotty, but this match was cancelled.
 
 ### Champion #7: Hans Schulte
 
