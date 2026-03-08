@@ -77,12 +77,12 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * Borkowski and Supron end their relation with DDW, buy another ring and start [Total Blast Wrestling](@/o/tbw.md), holding two well-received shows with talent from major European organizations at the time, in [Radom](@/e/tbw/2010-02-27-tbw-1.md) and [Zawiercie](@/e/tbw/2010-06-05-tbw-2.md).
 * However, the events weren't financially successful, and the organization folded after the second show.
-* A group of teenage friends starts emulating their wrestling heroes after school in Warsaw. They call themselves _Polski Podwórkowy Wrestling_.
+* A group of teenage friends from Warsaw start emulating their wrestling heroes after school. They call themselves _Polski Podwórkowy Wrestling_.
 
 #### 2011
 
 * WWE comes to Poland for the first time ever: [Smackdown House Show](@/e/wwe/2011-11-11-wwe-smackdown-house-show.md) is held in Gdańsk.
-* [PXW](@/o/pxw.md), a backyard in Głuchołazy in Lower Silesia, starts holding events on a makeshift ring. Among their ranks is one high-flying, risk-taking Terry Shadow.
+* [PXW](@/o/pxw.md), a backyard from Głuchołazy in Lower Silesia, starts holding events in a makeshift ring. Among their ranks is one high-flying, risk-taking Terry Shadow.
 * DDW holds their [fifth major event](@/e/ddw/2011-01-15-ddw-5-dzien-sadu.md) near Wrocław.
 * A backyard group in Silesia forms, choosing to name themselves [Mine City Wrestling](@/o/mcw.md).
 * Supron lends his ring to [WKSW](@/o/wksw.md).
@@ -102,13 +102,13 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 #### 2014
 
 * Jędruś Bułecka and the former Straceniec, now known as [Shadow](@/w/shadow.md), purchase a professional wrestling ring and create [Maniac Zone Wrestling](@/o/mzw.md). They hold shows in Głuchołazy and various small towns in the region.
-* Director Marek Skrzecz follows MZW's early events with a film crew, recording a documentary feature he'll release as [_American Dream_](@/a/amerykanski-sen.md).
-* DDW moves to Gdańsk, hoping to attract greater attention in a larger metropolitan area than its original hometown Rzeszów.
+* Director Marek Skrzecz follows MZW's early events with a film crew, recording a documentary feature he'll release as [Amerykański Sen](@/a/amerykanski-sen.md) (_American Dream_).
+* DDW moves to Gdańsk, hoping to attract greater attention in a larger metropolitan area than in their original hometown of Rzeszów.
 
 #### 2015
 
 * WWE holds what is for a decade thought to be their [last show](@/e/wwe/2015-04-15-wwe-live.md) in Poland.
-* Akira passes away a few days after her debut at [MZW Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md). She is the first - and, as of November 2025, the only - Polish wrestler to pass away prematurely (albeit for unrelated reasons).
+* Akira passes away a few days after her debut at [MZW Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md). She is the first - and, as of March 2026, the only - Polish wrestler to pass away prematurely (albeit for unrelated medical reasons).
 * Don Roid is forced to travel hundreds of kilometers from Rzeszów to Gdańsk to oversee the organization. He quickly gets tired of it, sells the ring and closes down DDW.
 * The buyers of that ring are a group of his wrestlers, including Pawłowski. They start a new organization called [Kombat Pro Wrestling](@/o/kpw.md), and recruit nearly the entire former roster of DDW.
 * Two backyards in Kuyavia, [Toruń Wrestling Federation](@/o/twf.md) and a group from Grudziądz, join forces. They become [Dream Factory Wrestling](@/o/dfw.md) and obtain a proper ring.
@@ -121,14 +121,14 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2017
 
-* KPW finds a permanent venue in [Klub Atlantic](@/v/atlantic-nh-gdynia.md), and holds a show as part of SzlamFest, a pop-culture and comics convention.
+* KPW moves their shows to [Gdynia Sports Center](@/v/gdynskie-centrum-sportu.md), and holds [a show](@/e/kpw/2017-02-04-kpw-szlamfest.md) as part of SzlamFest, a pop-culture and comics convention.
 * DFW wrestler [Revage](@/w/rafael-kid.md) trains with MZW and appears on their [December show](@/e/mzw/2017-12-02-mzw-freak-show.md). That same show also features the debuting [Amisz](@/w/jakub.md), [Kuba Kamiński](@/w/jacob-crane.md) and [Bartosz Borowsky](@/w/boro.md).
 * The Warsaw-area backyard, PpW, manages to build an actual wrestling ring, though undersized. Rob Scaffold came up with the design and a local welding workshop assembled the metal structure.
 
 #### 2018
 
 * MZW [moves permanently](@/o/paw.md#2018-2019-moving-to-wroclaw) from Głuchołazy to Wrocław. This boosts attendance at their training sessions greatly.
-* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, form a group known as [The Greens](@/tt/zieloni.md).
+* A group of wrestlers from MZW's locker room, including Amisz, Kamiński and Borowsky, form a group known as [Zieloni](@/tt/zieloni.md) (_The Greens_).
 
 #### 2019
 
@@ -137,7 +137,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2020
 
-* The backyard group from Warsaw, now known as [PpW Ewenement](@/o/ppw.md), goes pro and holds their first show, [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), donating all gate profits to dog shelters in the area.
+* The backyard group from Warsaw, now known as [PpW Ewenement](@/o/ppw.md), goes pro and holds their first show, [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), donating all gate profits to a dog shelters in the area.
 * COVID-19 hits, lockdown ensues, and **all wrestling is cancelled** for more than a year.
 * Pawłowski announces a new organization, entices many wrestlers to join it, draining the rosters of MZW, KPW and even MCW. Due to lockdowns, however, their first show is postponed.
 
@@ -150,21 +150,22 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2022
 
-* KPW is [invited to Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), Poland's biggest fan convention. The show is successful, and will become a recurring staple of the event.
-* Not to be outdone, PTW becomes [part of Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
+* KPW finds a permanent venue in [Nowy Harem](@/v/atlantic-nh-gdynia.md), where they held three shows back in 2017.
+* KPW is [invited to Pyrkon](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md), Poland's biggest fan convention. The show is successful, and wrestling will become a recurring staple of the event.
+* Not to be outdone, PTW becomes a [part of Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md), Poland's biggest anime-focused fan convention, held in Kraków.
 * PTW holds their Underground series of shows regularly almost every month, giving fans more wrestling than ever before. From the [fourth show](@/e/ptw/2022-04-24-ptw-underground-4.md) onwards, they are streamed live on FITE and YouTube.
 * Jacob Crane quits PTW after only a year, appears as a surprise contender for PpW and becomes their coach.
 
 #### 2023
 
-* PTW holds their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md) in Wrocław in June, in [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
+* In June, PTW holds their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md) in Wrocław, in [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
 * In September, MZW and PpW hold a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) in Wrocław, in the exact same venue, making history as the first such act of collaboration in Poland.
 
 #### 2024
 
 * PpW buys their first full-sized ring from [Andrzej Supron](@/w/andrzej-supron.md), the same one he bought for PPWF some 20 years ago, and which was later used by [TBW](@/o/tbw.md) and [WKSW](@/o/wksw.md).
 * PTW holds their [infamous lottery](@/o/ptw.md#the-lottery). This marketing stunt ultimately backfires, losing the organization money. Many of their talent, [fed up and conflicted](@/a/ptw-crisis.md) with the organization, [leave](@/a/ptw-exits.md).
-* As a result, PTW downscales heavily, both in roster size and ambitions, relocates to Kozłów. The Underground series loses its monthly routine.
+* As a result, PTW downscales heavily, both in roster size and ambitions, and relocates to Kozłów. The Underground series loses its monthly routine.
 * PpW opens their training facility to the public, dubbed [Ewenement Dojo](@/o/ewenement-dojo.md). They hold a summer camp, with the initial coach being [Jacob Crane](@w/jacob-crane.md), later replaced by [Axel Fox](@/w/jakub.md) after the former's departure for Japan.
 * After exiting PTW, a group of their former backstage crew and talent starts [Legacy of Wrestling](@/o/low.md). The group soon announces their [first show](@/e/low/2024-12-01-low-1.md) to be held in December. For the first time ever, [KPW](@/o/kpw.md) lends their workers ([Filip Fux](@/w/filip-fux.md) and [Chemik](@/w/chemik.md)) to another Polish organization, making this the first Polish card featuring representation from KPW, MZW and PpW, as well as some ex-PTW free agents. The show was dubbed by some as "Polish Forbidden Door".
 * In October and November [PTW](@/o/ptw.md), [KPW](@/o/kpw.md) and [Legacy](@/o/low.md) all announce that their shows will air on Extreme Sports Channel. In April KPW signed a deal with FightBox, but only [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) aired on the channel.
@@ -179,11 +180,12 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 * PpW introduce the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 * [Pro Wrestling Illustrated](https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated) ranks [Diana Strong](@/w/diana-strong.md) #205 on their 2025 PWI Women's 250 list.
-* Legacy of Wrestling introduce the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). The first Champions is [Axel Fox](@/w/jakub.md).
+* Legacy of Wrestling introduce the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). The first Champion is [Axel Fox](@/w/jakub.md).
 
 #### 2026
 
 * PpW and KPW hold [their](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) [shows](@/e/kpw/2026-01-16-kpw-arena-31.md) on the same day, in the same city (700&nbsp;m from each other), and at partly conflicting times (KPW at 6&nbsp;PM and PpW at 8&nbsp;PM) - both to capitalise on the upcoming WWE event.
 * [WWE](@/o/wwe.md) hold their first [show](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md) in Poland since [2015](@/e/wwe/2015-04-15-wwe-live.md).
+* [Filip Fux](@/w/filip-fux.md) debuts for PpW at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), marking the first time an active KPW wrestler was allowed to work for the Warsaw-based promotion. He is soon followed by [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 * PpW holds [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo, in cooperation with Big Japan Pro Wrestling and other local promotions.
 {% end %}
