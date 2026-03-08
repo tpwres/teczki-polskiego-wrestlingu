@@ -12,7 +12,7 @@ Remo is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/
 
 ## Basic info
 
-* Years active: 2021-2022; 2025
+* Years active: 2021-2022; 2025-
 * Gimmicks/nicknames:
   - Remo {{ org_badge(orgs=['ptw']) }}
 * Trained by:
