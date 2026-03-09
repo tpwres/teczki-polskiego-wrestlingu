@@ -3,7 +3,7 @@ title = "PTW Awards"
 weight = 0
 template = "article.html"
 aliases = ["/a/ptw-awards-2022", "/a/ptw-awards-2024"]
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [taxonomies]
 category = ["Achievements"]
 [extra]
@@ -295,10 +295,18 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 
 1. [Spartan](@/w/spartan.md) - Spartan Bomb - 105 votes
 2. [Daniel Razor](@/w/daniel-razor.md) - Razorblade - 79 votes
-3. [Sigma Boy xD](@/w/sigma-boy.md) - Skibidi Frog Splash - 18
+3. [Sigma Boy xD](@/w/sigma-boy.md) - Skibidi Frog Splash - 18 votes
 4. [Puncher](@/w/puncher.md) - Wylew - 17 votes
 5. [Nano Lopez](@/w/nano-lopez.md) - Last Plane to Spain - 7 votes
 6. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - Szlachecka Szarża - 7 votes
+
+##### Hero of the Year
+1. [Łukasz Okoński](@/w/lukasz-okonski.md) - 54 votes
+2. [Sigma Boy xD](@/w/sigma-boy.md) - 36 votes
+3. [Spartan](@/w/spartan.md) - 35 votes
+4. [CJ Klakson](@/w/cj-klakson.md) - 15 votes
+5. ["The Voice" Daniel Razor](@/w/daniel-razor.md) - 11 votes
+6. [Diana Strong](@/w/diana-strong.md) - 8 votes
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)

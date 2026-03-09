@@ -41,4 +41,5 @@
 325 = { path = "awards-2025-zagraniczna-gwiazda-roku-wynik.webp", caption = "PTW Awards 2025.<br />Winner of the Foreign Star of the Year category:<br />[El G](@/w/el-g.md)", source = "Official PTW Facebook" }
 326 = { path = "awards-2025-progres-roku-wynik.webp", caption = "PTW Awards 2025.<br />Winner of the Progress of the Year category:<br />[Vincent Caravaggio](@/w/vincent-caravaggio.md)", source = "Official PTW Facebook" }
 327 = { path = "awards-2025-debiutant-roku-wynik.webp", caption = "PTW Awards 2025.<br />Winner of the Newcomer of the Year category:<br />[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)", source = "Official PTW Facebook" }
-328 = { path = "awards-2025-finisher-roku-wyniki.webp", caption = "PTW Awards 2025.<br />Winner of the Finisher of the Year category:<br />Spartan Bomb", source = "Official PTW Facebook" }
+328 = { path = "awards-2025-finisher-roku-wynik.webp", caption = "PTW Awards 2025.<br />Winner of the Finisher of the Year category:<br />Spartan Bomb", source = "Official PTW Facebook" }
+329 = { path = "awards-2025-bohater-roku-wynik.webp", caption = "PTW Awards 2025.<br />Winner of the Hero of the Year category:<br />[Łukasz Okoński](@/w/lukasz-okonski.md)", source = "Official PTW Facebook" }
