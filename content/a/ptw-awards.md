@@ -300,7 +300,7 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 5. [Nano Lopez](@/w/nano-lopez.md) - Last Plane to Spain - 7 votes
 6. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - Szlachecka Szarża - 7 votes
 
-#### Hero of the Year
+##### Hero of the Year
 1. [Łukasz Okoński](@/w/lukasz-okonski.md) - 54 votes
 2. [Sigma Boy xD](@/w/sigma-boy.md) - 36 votes
 3. [Spartan](@/w/spartan.md) - 35 votes
