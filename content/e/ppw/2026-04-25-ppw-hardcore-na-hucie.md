@@ -12,14 +12,12 @@ has_video = false
 [extra.gallery]
 +++
 
-Hardcore na Hucie (_Hardcore at the Foundry_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in Katowice in ["P23" music club][venue-bio]. The venue is a former porcelain factory, repurposed into a music club, mainly hosting electroning music events.
+Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in Katowice in {{ map_pin(v="P23 Club") }}[P23 music club][venue-bio]. The venue is a former porcelain factory, repurposed into a music club, mainly hosting electroning music events.
 
 ## Build-up
 
-* On March 9th, PpW [announced][hardkorowa-zapowiedz] in their social media their next show. This time, PpW will be making their debut in Katowice. Along with the announcement, ticket sales started. No card was revealed at the time.
-
-
-## Predicted card
+* On 9.03.2026 PpW [announced][hardkorowa-zapowiedz] the next show on their social media - this time, PpW will be making their debut in Katowice. Previously, PpW talent worked in Katowice at [Legacy of Wrestling](@/o/low.md) shows.
+* Tickets went on sale along with the announcement. No card was revealed at the time.
 
 {{ skip_card() }}
 
