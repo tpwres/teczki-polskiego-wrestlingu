@@ -3,7 +3,7 @@ title = "PTW Awards"
 weight = 0
 template = "article.html"
 aliases = ["/a/ptw-awards-2022", "/a/ptw-awards-2024"]
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [taxonomies]
 category = ["Achievements"]
 [extra]
