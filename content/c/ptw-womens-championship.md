@@ -40,6 +40,7 @@ Moné won in a competitive main event to capture both championships and become t
 ## Belt design
 
 On 27.07.2025, the belt design was revealed in an [Instagram post][pas-kobiet] by BestYa Slam. It includes an elliptic plate with the PTW logo, mainly in black with pink accents and a pink crown on top. The strap itself is black and octagonal, possibly repurposed from the initial version of the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) belts.
+At some time during Moné's reign, the belt lost its black external plate, revealing white metal underneath. Likely due to logistic issues, it was never repaired and Moné continued to use the championship in this slightly altered state.
 
 ## Title history
 
@@ -106,6 +107,9 @@ Never took place, as the tournament was cancelled.
     nc: upcoming
 {% end %}
 
+
+
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
 [pas-kobiet]: https://www.instagram.com/p/DMm8yPStGKb/
 [pasy-ziemi-wloskiej-i-wolski]: https://www.instagram.com/p/DMm1vhntZQn/
+[pas-rozwalony]: https://www.instagram.com/p/DVq4ZEZAi51/?img_index=2
