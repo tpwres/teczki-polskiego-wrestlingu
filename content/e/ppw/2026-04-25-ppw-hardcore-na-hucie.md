@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in Katowice in {{ map_pin(v="P23 Club") }}[P23 music club][venue-bio]. The venue is a former porcelain factory, repurposed into a music club, mainly hosting electroning music events.
+Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in Katowice in {{ map_pin(v="P23 Club") }}P23 Music Club. The venue is a former porcelain factory, repurposed into a music club, mainly hosting electroning music events.
 
 ## Build-up
 
@@ -29,6 +29,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 
 * [Facebook post announcing the event][hardkorowa-zapowiedz]
 * [Facebook profile of the venue][venue-fb]
+* [P23 info at Going][venue-bio]
 
 [venue-bio]: https://goingapp.pl/miejsce/p23 
 [venue-fb]: https://www.facebook.com/scenap23/
