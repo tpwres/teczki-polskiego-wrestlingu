@@ -300,6 +300,14 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 5. [Nano Lopez](@/w/nano-lopez.md) - Last Plane to Spain - 7 votes
 6. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - Szlachecka Szarża - 7 votes
 
+#### Hero of the Year
+1. [Łukasz Okoński](@/w/lukasz-okonski.md) - 54 votes
+2. [Sigma Boy xD](@/w/sigma-boy.md) - 36 votes
+3. [Spartan](@/w/spartan.md) - 35 votes
+4. [CJ Klakson](@/w/cj-klakson.md) 15 votes
+5. ["The Voice" Daniel Razor](@/w/daniel-razor.md) 11 votes
+6. [Diana Strong](@/w/diana-strong.md) - 8 votes
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
