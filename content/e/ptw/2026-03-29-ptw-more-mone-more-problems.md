@@ -31,7 +31,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     nc: upcoming
 - - 'Baron Wolfgang Storm'
-  - [Boguś](@/w/bogus.md)'
+  - '[Boguś](@/w/bogus.md)'
     nc: upcoming
 {% end %}
 
