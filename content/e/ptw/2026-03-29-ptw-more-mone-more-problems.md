@@ -20,6 +20,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 ## Build-up
 
 * The show was announced in a [Facebook post][mone-wraca] that also said that Moné would defend her [PTW Women's Championship](@/c/ptw-womens-championship.md), although no opponent was mentioned.
+* The main event - [Mercedes Moné](@/w/mercedes-mone.md) vs [Diana Strong](@/w/diana-strong.md) for the [PTW Women's Championship](@/c/ptw-womens-championship.md) - was officially confirmed on 10.03.2026.
 
 ## Card
 
