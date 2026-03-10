@@ -32,7 +32,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
     nc: upcoming
 - - 'Baron Wolfgang Storm'
   - '[Boguś](@/w/bogus.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Recap
