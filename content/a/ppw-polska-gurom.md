@@ -32,21 +32,30 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
   - s: 'PpW ルール・ハードコア・タッグチーム戦 (PpW Rules Hardcore Tag Team Match)'
 
 
+
 - - '[スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak)'
   - '？？？ (???)'
 - - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - '？？？ (???)'
 
 - credits:
-    Referee: '？？？ (???)'
+    Referee: '[審判 マルティナ](@/w/istotna-martynka.md) (Referee Martyna)'
     Ring announcer: '？？？ (???)'
 {% end %}
 
-Attendance: ca. 30
+Attendance: ca. 40-50
 
 ### Recap
 
-* The show had a very low attendance - only around 30 spectators could be seen in the video.
+* The show had a low attendance - only around 30 spectators can be seen at the video, although a little more appeared later.
+* The wrestlers came out of the backstage through an ordinary door.
+* Before his match, Jacob Crane cut a promo in Japanese.
+* Shigehiro Irie wore a red flannel shirt and a "Wanted" T-shirt with his face, reminiscent of [Cactus Jack][a-na-laznie-w-gwatemali-mi-ten-kaktus].
+* The lights above the ring produced a very noticeable strobing effect, likely due to mismatch between Tokyo's mains frequency (50 Hz) and the camera's framerate (30 fps).
+* Referee Martyna counted pins in Polish.
+* 
+* 
+* 
 * 
 
 ## References
@@ -60,3 +69,4 @@ Attendance: ca. 30
 [ueno-park]: https://en.wikipedia.org/wiki/Ueno_Park
 [bjw]: https://en.wikipedia.org/wiki/Big_Japan_Pro_Wrestling
 [stani]: https://www.instagram.com/p/DUiSSxaDPEW/
+[a-na-laznie-w-gwatemali-mi-ten-kaktus]: https://en.wikipedia.org/wiki/Mick_Foley
