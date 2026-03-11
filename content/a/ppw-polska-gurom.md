@@ -53,7 +53,7 @@ Attendance: ca. 35
 
 ### Recap
 
-* The show had a low attendance - only around 35 spectators can be seen at the video.
+* The show had a low attendance - only around 35 spectators can be seen in the video.
 * The wrestlers came out of the backstage through an ordinary door.
 * Before his match, Jacob Crane cut a promo in Japanese.
 * Shigehiro Irie wore a red flannel shirt and a "Wanted" T-shirt with his face, reminiscent of [Cactus Jack][a-na-laznie-w-gwatemali-mi-ten-kaktus].
