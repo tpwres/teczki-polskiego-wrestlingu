@@ -30,12 +30,11 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
 - - '[オルギエルト](@/w/olgierd.md) (Olgierd) & デイル・パトリックス (Dale Patricks)'
   - '[ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane) & 入江茂弘 (Shigehiro Irie)'
   - s: 'PpW ルール・ハードコア・タッグチーム戦 (PpW Rules Hardcore Tag Team Match)'
-
+- - '橋本大地 (Daichi Hashimoto)'
+  - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
 
 
 - - '[スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak)'
-  - '？？？ (???)'
-- - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - '？？？ (???)'
 
 - credits:
@@ -43,16 +42,16 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
     Ring announcer: '？？？ (???)'
 {% end %}
 
-Attendance: ca. 40-50
+Attendance: ca. 35
 
 ### Recap
 
-* The show had a low attendance - only around 30 spectators can be seen at the video, although a little more appeared later.
+* The show had a low attendance - only around 35 spectators can be seen at the video.
 * The wrestlers came out of the backstage through an ordinary door.
 * Before his match, Jacob Crane cut a promo in Japanese.
 * Shigehiro Irie wore a red flannel shirt and a "Wanted" T-shirt with his face, reminiscent of [Cactus Jack][a-na-laznie-w-gwatemali-mi-ten-kaktus].
 * The lights above the ring produced a very noticeable strobing effect, likely due to mismatch between Tokyo's mains frequency (50 Hz) and the camera's framerate (30 fps).
-* Referee Martyna counted pins in Polish.
+* Referee Martyna counted pins and breaks in Polish, regardless of a given wrestlers' nationality.
 * 
 * 
 * 
