@@ -26,7 +26,7 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
 
 ## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[オルギエルト](@/w/olgierd.md) (Olgierd) & デイル・パトリックス (Dale Patricks)'
   - '[ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane) & 入江茂弘 (Shigehiro Irie)'
   - s: 'PpW ルール・ハードコア・タッグチーム戦 (PpW Rules Hardcore Tag Team Match)'
