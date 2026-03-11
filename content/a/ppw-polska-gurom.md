@@ -61,8 +61,8 @@ Attendance: ca. 35
 * Referee Martyna counted pins and breaks in Polish, regardless of a given wrestlers' nationality.
 * At one point in the Rumble Match Robert Star picked up Referee Martyna, perhaps with the intention of using her as a weapon.
 * [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) wore a [fundoshi][fundoshi-is-fun]-inspired loincloth (with his picture printed on it) over his wrestling trunks.
-* Rumble Match order of eliminations:
 * Goblin hit Shigehiro Irie on the head with a plastic hammer, to no effect. Surprised, he then bonked himself with it, knocking himself out.
+* Rumble Match order of eliminations:
   - ??? eliminates [Gabriel Queen](@/w/gabriel-queen.md)
   - Abdullah Kobayashi eliminates [Robert Star](@/w/robert-star.md)
   - [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) eliminate Daichi Hashimoto
