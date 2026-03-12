@@ -8,10 +8,7 @@ venue=["waldorffa25"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
-[extra.gallery.1]
-path = "2023-05-06-ppw-mistrzowskie-rozdanie-plakat.jpg"
-caption = "Official poster. The four aces are [Bill Feager](@/w/feager.md), [Mister Z](@/w/mister-z.md), [Steve Kuningas](@/w/steve-kuningas.md) and Aytac Bahar. This is the first poster to use the new, metal-and-barbed-wire logo."
-source = "Official PpW Facebook"
+[extra.gallery]
 +++
 
 Mistrzowskie Rozdanie (roughly _A Champion's Hand_, as in a hand of cards) was a show by [PpW Ewenement Wrestling](@/o/ppw.md).
