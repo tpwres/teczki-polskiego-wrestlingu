@@ -1,5 +1,5 @@
 +++
-title = "Hardcore na Hucie"
+title = "PpW Hardcore na Hucie"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
