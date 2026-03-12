@@ -20,6 +20,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 * 23.02.2026 saw the announcement of [Jakub](@/w/jakub.md) vs [Max Speed](@/w/max-speed.md) for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). This marks the first defence of the Legacy title.
 * The next match, revealed on 27.02.2026, was [Disco Pablo](@/w/disco-pablo.md) vs [Mister Z](@/w/mister-z.md).
 * On 2.03.2025 MZW unveiled the main event: [Matt Buckna](@/w/matt-buckna.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) for the [MZW Championship](@/c/mzw-championship.md).
+* The next announcement came on 12.03.2025, and was for a Three-Way Match between [Tony Sheen](@/w/riverman.md), [Boro](@/w/boro.md) and [Sambor](@/w/sambor.md).
 
 ## Predicted card
 
@@ -35,6 +36,11 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 - - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - nc: upcoming
+- - '[Tony Sheen](@/w/riverman.md)'
+  - '[Boro](@/w/boro.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - s: Triple Threat Match
+    nc: upcoming
 - - '[Matt Buckna](@/w/matt-buckna.md)(c)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
