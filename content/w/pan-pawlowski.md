@@ -108,8 +108,9 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+  - [PTW Awards](@/a/ptw-awards.md) (2 time):
     * Speaker of the Year (2024)
+    * Villain of the Year (2025)
 
 ## References
 

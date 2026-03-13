@@ -308,6 +308,14 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 5. ["The Voice" Daniel Razor](@/w/daniel-razor.md) - 11 votes
 6. [Diana Strong](@/w/diana-strong.md) - 8 votes
 
+##### Villain of the Year
+1. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 62 votes
+2. [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 19 votes
+3. [Puncher](@/w/puncher.md) - 11 votes
+4. ["Starboy" Nano Lopez](@/w/nano-lopez.md) - 9 votes
+5. [Serg Sullivan](@/w/serg-sullivan.md) - 6 votes
+6. [Alex Brave](@/w/alex-brave.md) - 1 vote
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
