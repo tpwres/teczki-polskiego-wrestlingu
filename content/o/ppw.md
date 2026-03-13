@@ -153,9 +153,9 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     Defeated [Goblin](@/w/goblin.md) in a Chain God Realm Match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
-  - Vacant
+  - Abdullah Kobayashi
   - >
-    [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
+    Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - > 
