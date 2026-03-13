@@ -22,6 +22,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 * The show was announced in a [Facebook post][mone-wraca] that also said that Moné would defend her [PTW Women's Championship](@/c/ptw-womens-championship.md), although no opponent was mentioned.
 * The main event - [Mercedes Moné](@/w/mercedes-mone.md) vs [Diana Strong](@/w/diana-strong.md) for the [PTW Women's Championship](@/c/ptw-womens-championship.md) - was officially confirmed on 10.03.2026.
 * Later the same day came the announcement of Baron Wolfgang Storm vs [Boguś](@/w/bogus.md).
+* The next worker to be announced, on 13.03.2026, was [Sigma Boy xD](@/w/sigma-boy.md).
 
 ## Card
 
@@ -32,6 +33,9 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
     nc: upcoming
 - - 'Baron Wolfgang Storm'
   - '[Boguś](@/w/bogus.md)'
+  - nc: upcoming
+- - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - ???'
   - nc: upcoming
 {% end %}
 
