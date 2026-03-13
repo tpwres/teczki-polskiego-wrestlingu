@@ -37,7 +37,7 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
   - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - '[ロバート・スター](@/w/robert-star.md) (Robert Star)'
   - '[Z-さん](@/w/mister-z.md) (Mister Z)'
-  - '？？？ (???)'
+  - '神谷英慶  (Hideyoshi Kamitani)'
   - '[ゴブリン](@/w/goblin.md) (Goblin)'
   - 'アブドーラ・小林 (Abdullah Kobayashi)'
   - '[グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
@@ -51,7 +51,7 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
 
 Attendance: ca. 35
 
-### Recap
+### Highlights
 
 * The show had a low attendance - only around 35 spectators can be seen in the video.
 * The wrestlers came out of the backstage through an ordinary door.
@@ -63,11 +63,11 @@ Attendance: ca. 35
 * [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) wore a [fundoshi][fundoshi-is-fun]-inspired loincloth (with his picture printed on it) over his wrestling trunks.
 * Goblin hit Shigehiro Irie on the head with a plastic hammer, to no effect. Surprised, he then bonked himself with it, knocking himself out.
 * Rumble Match order of eliminations:
-  - ??? eliminates [Gabriel Queen](@/w/gabriel-queen.md)
+  - Hideyoshi Kamitani eliminates [Gabriel Queen](@/w/gabriel-queen.md)
   - Abdullah Kobayashi eliminates [Robert Star](@/w/robert-star.md)
   - [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) eliminate Daichi Hashimoto
-  - ??? eliminates Gustav Gryffin
-  - Goblin eliminates ???
+  - Hideyoshi Kamitani eliminates Gustav Gryffin
+  - Goblin eliminates Hideyoshi Kamitani
   - [Mister Z](@/w/mister-z.md) & Shigehiro Irie eliminate Abdullah Kobayashi & [Johnny Blade](@/w/johnny-blade.md)
   - Goblin eliminates Stanisław Van Dobroniak
   - Mister Z eliminates Goblin

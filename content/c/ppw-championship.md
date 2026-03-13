@@ -280,6 +280,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[Mam Talent Season 17 Episode 1](https://www.facebook.com/reel/865556049810905)'
     ed: '2026-02-21'
     n: Broadcast date; show presumably taped prior to Olgierd's injury.
+- - '[Olgierd](@/w/olgierd.md)(c)'
+  - 'Dale Patricks'
+  - s: Singles Match
+    en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo)'
+    ed: 2026-03-13
 - - 'Olgierd (c)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Barbed Wire Mayhem Match

@@ -12,7 +12,7 @@ city = "板橋区、東京 (Itabashi City, Tokyo)"
 [extra.gallery]
 +++
 
-PpW Hardcore Friday the 13th 東京 (_Tokyo_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place on 13.03.2026 in Tokyo, in a venue called ["Tokyo Square in Itabashi"][are-wa-tokyo-square-desu]. The show will be a cooperation with [Big Japan Pro Wrestling][bjw] (BJW) and other local promotions.
+PpW Hardcore Friday the 13th 東京 (_Tokyo_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) that took take place on 13.03.2026 in Tokyo, in a venue called ["Tokyo Square in Itabashi"][are-wa-tokyo-square-desu]. The show was be a cooperation with [Big Japan Pro Wrestling][bjw] (BJW) and other local promotions.
 
 <!-- more -->
 
@@ -28,40 +28,38 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 * Another Tag Team Match was announced on 3.02.2026: Hideyoshi Kamitani & Daichi Hashimoto vs [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
 * Lastly, at 5.02.2026, the match between Abdullah Kobayashi and Johnny Blade was updated to be for the reactivated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
-  - 'アブドーラ・小林 (Abdullah Kobayashi)'
-  - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
-    s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
-    nc: 近日公開 (upcoming)
+{% card() %}
 - - 'クリス・ブルックス (Chris Brookes)'
   - '[ガーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - s: シングルマッチ (Single Match)
-    nc: 近日公開 (upcoming)
-- - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
-  - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
+- - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
+  - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
   - s: 6 人タッグマッチ ノー・ホルズ・バード・フォルズ・カウント・エニウェア  (6 Man Tag Team Match No Holds Barred Falls Count Anywhere)
-    nc: 近日公開 (upcoming)
-- - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'
-  - '伊東竜二 (Ryuji Ito)'
+- - '伊東竜二 (Ryuji Ito)'
+  - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'
   - s: シンガポール・ケーン・マッチ (Singapore Cane Match)
-    nc: 近日公開 (upcoming)
+- - '[ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
+  - '神谷英慶  (Hideyoshi Kamitani) & 橋本大地 (Daichi Hashimoto)'
+  - s: タッグマッチ (Tag Team Match)
 - - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd)'
   - 'デイル・パトリックス (Dale Patricks)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: ドッグカラー・マッチ (Dog Collar Match)
-    nc: 近日公開 (upcoming)
-- - '神谷英慶  (Hideyoshi Kamitani) & 橋本大地 (Daichi Hashimoto)'
-  - '[ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
-  - s: タッグマッチ (Tag Team Match)
-    nc: 近日公開 (upcoming)
+- - 'アブドーラ・小林 (Abdullah Kobayashi)'
+  - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
+  - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
+    s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
+- credits:
+    Referee: '？？？ (???), [審判 マルティナ](@/w/istotna-martynka.md) (Referee Martyna)'
+    Ring announcer: '？？？ (???)'
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+* Unlike at the [previous show](@/a/ppw-polska-gurom.md), this time [Referee Martynka](@/w/istotna-martynka.md) counted pins in English.
+* Robert Star appeared to have sustained an injury early in his match, as he was out of the action for the best part of the fight.
 
 ## References
 
