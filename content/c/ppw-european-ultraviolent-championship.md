@@ -150,7 +150,7 @@ Isnorr vacated the belt at [PpW Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia
 - - 'Abdullah Kobayashi'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Deathmatch
-    en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo)'
+    en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md)'
     ed: 2026-03-13
 {% end %}
 

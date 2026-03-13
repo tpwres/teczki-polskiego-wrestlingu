@@ -283,7 +283,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 - - '[Olgierd](@/w/olgierd.md)(c)'
   - 'Dale Patricks'
   - s: Singles Match
-    en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo)'
+    en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md)'
     ed: 2026-03-13
 - - 'Olgierd (c)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
