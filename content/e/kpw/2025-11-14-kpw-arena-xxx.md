@@ -48,11 +48,11 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
   - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
 - - '[Michał Fux](@/w/michal-fux.md)'
   - 'Erik Asmus'
-- - '[Rookie One](@/w/rookie-one.md)'
+- - '[Rookie One](@/w/oskar-haller.md)'
   - '[Rookie Two](@/w/rookie-two.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
   - g: The rookies speak against Malinowski, who calls for a challenger to face one of them. 
-- - '[Rookie One](@/w/rookie-one.md)'
+- - '[Rookie One](@/w/oskar-haller.md)'
   - '[Chemik](@/w/chemik.md)'
   - s: Chemik's Un-retirement Match
 - - '[David Oliwa](@/w/david-oliwa.md)'
@@ -89,7 +89,7 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
 * A video package summarising Chemik's in-ring career then played.
 * Soon after Filip Fux defeated Friedrich Pohlmann, [Tomczak](@/w/tomczak.md) suddenly appeared and attacked him, prompting [Fynn Freyhart](@/w/fynn-freyhart.md) to come to Filip's aid, which led to the next match.
 * During [Michał Fux](@/w/michal-fux.md) vs Erik Asmus one of Microsoft Windows system sound could be heard over the speakers, much to the audience's amusement.
-* As Kinga was heading into the ring following the last match, she was stopped by [Rookie One](@/w/rookie-one.md) who took her microphone and, alongside [Rookie Two](@/w/rookie-two.md), cut a promo accusing Chairman Malinowski of continuing to look the other way as they are still bullied by Tomczak. Malinowski then came out and told them they had their go at Tomczak at Godzina Zero 2025, a chance that they wasted by losing, and he considers the matter closed. However, he decided to play along and asked if there's anyone in the locker room who'd like to fight one of the rookies. Met with silence, Malinowski then offered a monetary bonus to anyone interested in having the match - this time, Chemik came out of the backstage and agreed to come out of retirement (saying that his grandma had died a week prior) and show the rookie his place. After a brief deliberation, Rookie One stayed in the ring and Rookie Two left to observe the action from the outside.
+* As Kinga was heading into the ring following the last match, she was stopped by [Rookie One](@/w/oskar-haller.md) who took her microphone and, alongside [Rookie Two](@/w/rookie-two.md), cut a promo accusing Chairman Malinowski of continuing to look the other way as they are still bullied by Tomczak. Malinowski then came out and told them they had their go at Tomczak at Godzina Zero 2025, a chance that they wasted by losing, and he considers the matter closed. However, he decided to play along and asked if there's anyone in the locker room who'd like to fight one of the rookies. Met with silence, Malinowski then offered a monetary bonus to anyone interested in having the match - this time, Chemik came out of the backstage and agreed to come out of retirement (saying that his grandma had died a week prior) and show the rookie his place. After a brief deliberation, Rookie One stayed in the ring and Rookie Two left to observe the action from the outside.
 * Unexpectedly, Chemik lost. After the match he asked Malinowski for the promised money, angering the Chairman who replied that the bonus was meant for winning the fight, not merely stepping into the ring, and that he should cut Chemik's pay by half for such impertinence.
 * [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) came out to the ring with the intention of celebrating Oliwa's person and career. David asked the producer to play a video package of his, but instead [Greg's](@/w/greg.md) music hit and the Pope of Polish Wrestling appeared. An exchange between the two led to Greg challenging [Team Visegrad](@/tt/team-visegrad.md), however Oliwa pointed out that Greg has no friends left in KPW. Greg answered that there is one person, somebody who for a long time had been his enemy: [Ron Corvus](@/w/ron-corvus.md).
 * Following Team Visegrad's victory, Oliwa wanted to get back to playing his video - only to be interrupted again, this time by Zefir. The masked luchador entered the ring carrying a self-made cake with two candles spelling out "10", in honour of KPW's 10th anniversary. Oliwa protested, but Zefir told him to can it and that he, as the most important person in KPW, would conduct the anniversary ceremony.
