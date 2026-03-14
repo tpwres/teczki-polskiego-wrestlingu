@@ -54,7 +54,7 @@ has_video = false
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Boguś](@/w/bogus.md)'
   - '[Bumper](@/w/bumper.md)'
-  - 'Jordan Wolf'
+  - 'Jordan Wolff'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Sawicki](@/w/sawicki.md)'
@@ -78,7 +78,7 @@ has_video = false
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Damian Adler, despite being Polish, represented Germany in the tournament.
 
