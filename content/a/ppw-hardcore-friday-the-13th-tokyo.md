@@ -64,6 +64,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=448708)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-13th-japan-03-13-2026-11-53-40) (requires paid subscription)
 * [Facebook post announcing the event][ppw-w-tokyo-fb]
 * [Instagram post announcing the event][ppw-w-tokyo-ig]
