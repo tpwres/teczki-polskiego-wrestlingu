@@ -78,7 +78,7 @@ has_video = false
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Damian Adler, despite being Polish, represented Germany in the tournament.
 
