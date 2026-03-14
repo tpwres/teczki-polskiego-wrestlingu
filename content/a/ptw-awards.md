@@ -316,10 +316,14 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 5. [Serg Sullivan](@/w/serg-sullivan.md) - 6 votes
 6. [Alex Brave](@/w/alex-brave.md) - 1 vote
 
+##### Referee of the Year
+1. [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md) - 103 votes
+2. [Sędzia Herno](@/w/sedzia-herno.md) - 96 votes
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
-* [Pawłowski awards himself Speaker of the year](https://www.facebook.com/MrPawlowski/posts/pfbid02SXkH48k3WGpoghdzs8v46dQQh1tAbrU6GimkmKrZG77USZ2DvW1GDdc6qEYTRcThl)
+* [Pawłowski awards himself Speaker of the Year](https://www.facebook.com/MrPawlowski/posts/pfbid02SXkH48k3WGpoghdzs8v46dQQh1tAbrU6GimkmKrZG77USZ2DvW1GDdc6qEYTRcThl)
 
 [10-categories]: https://www.facebook.com/photo/?fbid=629516462734333&set=a.136592408693410
 [nagrody-2025]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0J34GtYs1zUAevsuNUqZdftAXKrYMjfcLaEVku5Bwc3zjx7S6Vy9yHd3oiMCmz6mbl
