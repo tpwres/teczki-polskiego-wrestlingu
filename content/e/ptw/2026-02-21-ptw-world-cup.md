@@ -54,7 +54,7 @@ has_video = false
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Boguś](@/w/bogus.md)'
   - '[Bumper](@/w/bumper.md)'
-  - 'Jordan Wolf'
+  - 'Jordan Wolff'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Sawicki](@/w/sawicki.md)'
