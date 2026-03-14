@@ -13,7 +13,7 @@ has_video = true
 [extra.gallery]
 +++
 
-PpW Hardcore Friday the 13th 東京 (_Tokyo_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) that took take place on 13.03.2026 in Tokyo, in a venue called ["Tokyo Square in Itabashi"][are-wa-tokyo-square-desu]. The show was be a cooperation with [Big Japan Pro Wrestling][bjw] (BJW) and other local promotions.
+PpW Hardcore Friday the 13th 東京 (_Tokyo_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) that took take place on 13.03.2026 in Tokyo, in a venue called ["Tokyo Square in Itabashi"][are-wa-tokyo-square-desu]. The show was be a cooperation with [Big Japan Pro Wrestling][bjw] (BJW) and other local promotions. As confirmed by [Jacob Crane](@/w/jacob-crane.md) in a communtiy discussion (What is Wrestling group on Facebook), the attendance was roughly 120 fans.
 
 <!-- more -->
 
@@ -60,7 +60,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 ### Highlights
 
 * Unlike at the [previous show](@/a/ppw-polska-gurom.md), this time [Referee Martynka](@/w/istotna-martynka.md) counted pins in English.
-* Robert Star appeared to have sustained an injury early in his match, as he was out of the action for the best part of the fight.
+* Robert Star appeared to have sustained an injury early in his match after a dive outside the ring, as he was out of the action for the best part of the fight.
 
 ## References
 
@@ -82,3 +82,4 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 [ppw-w-tokyo-ig]: https://www.instagram.com/ppw_hw/p/DSQO4rcCkes/
 [are-wa-tokyo-square-desu]: https://www.google.co.jp/maps/place/6-ch%C5%8Dme-8-10+Maenoch%C5%8D,+Itabashi+City,+Tokyo+174-0063,+Japonia/@35.7654889,139.6860555,20z
 [orugieedo]: https://www.facebook.com/reel/1416639646528567
+[crane-frekwencja]: https://www.facebook.com/groups/whatiswrestling/posts/3116634121857143/?comment_id=3116644148522807&__cft__[0]=AZYOoC3_UOjtN3df6Kv1-tddwitOsdRYAyli3RStFlqq33JYLxQ42Y_8JtIQ7tNKl0Bkn3T9lyPcwWqpN12ruHVG3KqtFNbwvp2xUFob0oD5jLAmpWkobZexIG0L7nzbW8yIr1xme5JfvMPH_ZAEVtfMFPcWVJwBYKDL2cM8Qd8z8diYJW1d4Cpr7x8bE9VbKuEPiyGJlOxJlxUSziX9brXt&__tn__=R-R
