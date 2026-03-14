@@ -27,6 +27,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=448710)
 * [Facebook post announcing the event][hardkorowa-zapowiedz]
 * [Facebook profile of the venue][venue-fb]
 * [P23 info at Going][venue-bio]

@@ -34,7 +34,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 {% card() %}
 - - 'クリス・ブルックス (Chris Brookes)'
   - '[ガーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
-  - s: シングルマッチ (Single Match)
+  - s: シングルマッチ (Singles Match)
 - - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
   - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
   - s: 6 人タッグマッチ ノー・ホルズ・バード・フォルズ・カウント・エニウェア  (6 Man Tag Team Match No Holds Barred Falls Count Anywhere)
@@ -64,6 +64,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=448708)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-13th-japan-03-13-2026-11-53-40) (requires paid subscription)
 * [Facebook post announcing the event][ppw-w-tokyo-fb]
 * [Instagram post announcing the event][ppw-w-tokyo-ig]
