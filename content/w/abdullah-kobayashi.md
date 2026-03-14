@@ -26,7 +26,12 @@ Abdullah Kobayashi is a Japanese wrestler, best known for his work at Big Japan 
 
 ### Cooperation with PpW Ewenement Wrestling (2026-)
 
-[tutaj dopisać]
+In mid-December 2025 PpW announced they'd hold [a show in Tokyo](@/a/ppw-hardcore-friday-the-13th-tokyo.md). [Abdullah Kobayashi](@/w/abdullah-kobayashi.md) vs [Johnny Blade](@/w/johnny-blade.md) was the first match the promotion revealed - initially as a non-title Deathmatch, but two months later the vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) was added as the prize for the winner. Abdullah defeated Blade in a bloody fight and became the first non-Polish Ultraviolent Champion.
+
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+  - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 times; current)
 
 ## References
 

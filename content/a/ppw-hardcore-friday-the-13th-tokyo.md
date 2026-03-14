@@ -21,7 +21,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 ## Build-up
 
-* The first match to be announced - on 15.12.2025, the day after the announcement of the show - was a Deathmatch between Abdullah Kobayashi and [Johnny Blade](@/w/johnny-blade.md).
+* The first match to be announced - on 15.12.2025, the day after the announcement of the show - was a Deathmatch between [Abdullah Kobayashi](@/w/abdullah-kobayashi.md) and [Johnny Blade](@/w/johnny-blade.md).
 * Next, on 22.12.2025, came the announcement of Chris Brookes vs [Gabriel Queen](@/w/gabriel-queen.md).
 * 10.01.2026 saw the announcement of a 3-vs-3 Tag Team match between Team PpW - [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Robert Star](@/w/robert-star.md) and Shigehiro Irie - and Team BJW, consisting of The Outsiders (余所者) stable workers: Minoru Fujita, So Daimonji and [Jacob Crane](@/w/jacob-crane.md).
 * On 20.01.2026 PpW announced a Singapore Cane Match between [Mister Z](@/w/mister-z.md) and Ryuji Ito.
@@ -48,7 +48,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - 'デイル・パトリックス (Dale Patricks)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: ドッグカラー・マッチ (Dog Collar Match)
-- - 'アブドーラ・小林 (Abdullah Kobayashi)'
+- - '[アブドーラ・小林](@/w/abdullah-kobayashi.md) (Abdullah Kobayashi)'
   - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
     s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
