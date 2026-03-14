@@ -9,6 +9,7 @@ chronology = ["ppw"]
 category = ["Polish wrestling scene"]
 [extra]
 city = "板橋区、東京 (Itabashi City, Tokyo)"
+has_video = true
 [extra.gallery]
 +++
 
@@ -63,6 +64,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
 
 ## References
 
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-13th-japan-03-13-2026-11-53-40) (requires paid subscription)
 * [Facebook post announcing the event][ppw-w-tokyo-fb]
 * [Instagram post announcing the event][ppw-w-tokyo-ig]
 * [PpW Global](https://www.instagram.com/ppw_global/) on Instagram
