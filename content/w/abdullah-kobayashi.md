@@ -16,7 +16,7 @@ Abdullah Kobayashi is a Japanese wrestler, best known for his work at Big Japan 
 
 * Years active: 1995-present
 * Gimmicks/nicknames:
-  - Abdullah Kobayashi {{ org_badge(orgs=['ptw']) }}
+  - Abdullah Kobayashi {{ org_badge(orgs=['ppw']) }}
 * Trained by:
   - Abdullah The Butcher
   - Kendo Nagasaki
