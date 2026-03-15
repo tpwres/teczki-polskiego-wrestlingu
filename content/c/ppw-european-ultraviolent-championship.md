@@ -147,7 +147,7 @@ Isnorr vacated the belt at [PpW Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia
 ### Champion #5: Abdullah Kobayashi
 
 {% free_card() %}
-- - 'Abdullah Kobayashi'
+- - '[Abdullah Kobayashi](@/w/abdullah-kobayashi.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: Deathmatch
     en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md)'

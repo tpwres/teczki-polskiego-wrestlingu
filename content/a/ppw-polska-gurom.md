@@ -39,7 +39,7 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
   - '[Z-さん](@/w/mister-z.md) (Mister Z)'
   - '神谷英慶  (Hideyoshi Kamitani)'
   - '[ゴブリン](@/w/goblin.md) (Goblin)'
-  - 'アブドーラ・小林 (Abdullah Kobayashi)'
+  - '[アブドーラ・小林](@/w/abdullah-kobayashi.md) (Abdullah Kobayashi)'
   - '[グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
   - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - '[スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak)'
