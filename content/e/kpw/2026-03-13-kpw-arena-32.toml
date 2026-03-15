@@ -7,27 +7,30 @@
 0006 = { path = "michal-fux-vs-greg-vs-tomczak.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Greg](@/w/greg.md) vs [Tomczak](@/w/tomczak.md).", source = "Official KPW Facebook" }
 0007 = { path = "leon-lato-vs-nico-narciso.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs Nico Narciso.", source = "Official KPW Facebook" }
 
+1001 = { path = "kinga-otwiera-show.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "Ville Paananen" }
+1002 = { path = "dalej-nie-wiemy-gdzie-to-jest.webp", caption = "[Chemik](@/w/chemik.md) with his scarf saying _Wejherowo - the pride of the world_.", source = "Ville Paananen" }
+1003 = { path = "lemik-i-chesak.webp", caption = "[Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+1004 = { path = "gest-aleksandrowicza.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) shows Lesak and Chemik what he thinks of them. To the right stands Referee Alan.", source = "M3n747" }
+1005 = { path = "ill-be-careful.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) doesn't like Markus Paskal.", source = "M3n747" }
+1006 = { path = "youll-be-dead.webp", caption = "[Chemik](@/w/chemik.md) doesn't like [Markus Paskal](@/w/markus-paskal.md) either.", source = "M3n747" }
+1007 = { path = "lesakarrana.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) hits Eryk Lesak with a Hurricanrana from the top rope.", source = "M3n747" }
+1008 = { path = "619-no-1-saw-coming.webp", caption = "Chemik and Eryk Lesak find themselves in a rather embarassing situation, much to Markus Paskal and Kamil Aleksander's amusement.", source = "M3n747" }
+1009 = { path = "lesak-na-trzeciej-linie-jak-eryk-na-kolvirze.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) jumps from the top rope onto Markus Paskal.", source = "M3n747" }
+1010 = { path = "trafilo-sie-fartem-zwyciestwo.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) victorious.", source = "Ville Paananen" }
+1011 = { path = "szalik-godny-janusza-gajosa.webp", caption = "[Chemik](@/w/chemik.md), equally victorious.", source = "Ville Paananen" }
 
-1001 = { path = ".webp", caption = ".", source = "M3n747" }
-1002 = { path = ".webp", caption = ".", source = "M3n747" }
-1003 = { path = ".webp", caption = ".", source = "M3n747" }
-1004 = { path = ".webp", caption = ".", source = "M3n747" }
-1005 = { path = ".webp", caption = ".", source = "M3n747" }
-1006 = { path = ".webp", caption = ".", source = "M3n747" }
-1007 = { path = ".webp", caption = ".", source = "M3n747" }
-1008 = { path = ".webp", caption = ".", source = "M3n747" }
-1009 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
-
-
+2001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+2002 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+2003 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+2004 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
-2001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
 3001 = { path = ".webp", caption = ".", source = "M3n747" }
 4001 = { path = ".webp", caption = ".", source = "M3n747" }
 5001 = { path = ".webp", caption = ".", source = "M3n747" }
