@@ -19,20 +19,26 @@
 1010 = { path = "trafilo-sie-fartem-zwyciestwo.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) victorious.", source = "Ville Paananen" }
 1011 = { path = "szalik-godny-janusza-gajosa.webp", caption = "[Chemik](@/w/chemik.md), equally victorious.", source = "Ville Paananen" }
 
-2001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-2002 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-2003 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-2004 = { path = ".webp", caption = ".", source = "M3n747" }
+2001 = { path = "tajemne-masonskie-znaki.webp", caption = "Erik Asmus exchanges a knowing look with Hans Schulte.", source = "Ville Paananen" }
+2002 = { path = "twarza-w-gesicht.webp", caption = "Filip Fux face to face with Hans Schulte. Behind them in the ring stand Erik Asmus and Referee Alan.", source = "Ville Paananen" }
 
+3001 = { path = "nie-badzcie-jak-ten-pan.webp", caption = "[Michał Fux](@/w/michal-fux.md) poses for the fans. In the opposite corner, a fan makes the mistake of nagging [Tomczak](@/w/tomczak.md).", source = "M3n747" }
+3002 = { path = "grzesiu.webp", caption = "[Greg's](@/w/greg.md) entrance.", source = "M3n747" }
+3003 = { path = "od-samego-patrzenia-boli.webp", caption = "[Greg](@/w/greg.md) performs his signature Nipple Twist on [Michał Fux](@/w/michal-fux.md).", source = "M3n747" }
+3004 = { path = "czolem-panowie.webp", caption = "Tomczak about to smash [Michał Fux](@/w/michal-fux.md) and Greg's faces together.", source = "M3n747" }
+3005 = { path = "we-shall-double-our-efforts.webp", caption = "Greg and Michał Fux join forces to slam Tomczak. In the background is Referee Alan.", source = "M3n747" }
+3006 = { path = "srrruuu.webp", caption = "Tomczak throws Michał Fux into the ring, as [Greg](@/w/greg.md) gathers his wits in the background.", source = "M3n747" }
+3007 = { path = "ten-pan-wygral.webp", caption = "[Greg](@/w/greg.md) wins, as declared by Referee Alan.", source = "M3n747" }
 
-
-
-
-
-
-
-3001 = { path = ".webp", caption = ".", source = "M3n747" }
 4001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
 5001 = { path = ".webp", caption = ".", source = "M3n747" }
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
