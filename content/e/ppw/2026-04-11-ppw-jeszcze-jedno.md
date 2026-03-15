@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Jeszcze Jedno (roughly _Just One More Thing_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take return to [Teatr Komuna](@/v/teatr-komuna.md). The event will act as a prelude to Ledwo Legalne 6.
+Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take return to [Teatr Komuna](@/v/teatr-komuna.md). The event will act as a prelude to Ledwo Legalne 6.
 
 ## Build-up
 
