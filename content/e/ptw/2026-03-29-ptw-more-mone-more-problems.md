@@ -24,6 +24,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 * Later the same day came the announcement of Baron Wolfgang Storm vs [Boguś](@/w/bogus.md).
 * The next worker to be announced, on 13.03.2026, was [Sigma Boy xD](@/w/sigma-boy.md).
 * On 14.03.2026 PTW announced a Triple Threat Match between Jordan Wolff, [Miyagi Shida](@/w/miyagi-shida.md) and Damian Adler. Wolff took part in the Battle Royal at the [previous show](@/e/ptw/2026-02-21-ptw-world-cup.md), but was eliminated quickly and failed to make a proper first impression.
+* On 16.03.2026 PTW announced a Submission Match between [Daniel Razor](@/w/daniel-razor.md) and an unknown opponent, to be chosen by [Nano Lopez](@/w/nano-lopez.md). Lopez picked the stipulation as a test for Razor, due to his lack of experience in this style of fights.
 
 ## Predicted card
 
@@ -42,6 +43,10 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - 'Damian Adler'
   - s: Triple Threat Match
+    nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '???'
+  - s: Submission Match
     nc: upcoming
 {% end %}
 
